@@ -4063,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
 | Hebereke no Pair Pair Wars | 288020 | [288020-hebereke-no-pair-pair-wars.json](./288020-hebereke-no-pair-pair-wars.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
+| Hebereke: Rescue O-Chan | 275285 | [275285-hebereke-rescue-o-chan.json](./275285-hebereke-rescue-o-chan.json) |
 | Hebereke's Popoitto | 65631 | [65631-heberekes-popoitto.json](./65631-heberekes-popoitto.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
@@ -10954,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Fan House | 344859 | [344859-horror-fan-house.json](./344859-horror-fan-house.json) |
 | Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
+| Horror Game | 275273 | [275273-horror-game.json](./275273-horror-game.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
@@ -11491,6 +11493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Stunt Track Driver | 26688 | [26688-hot-wheels-stunt-track-driver.json](./26688-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed | 144072 | [144072-hot-wheels-unleashed.json](./144072-hot-wheels-unleashed.json) |
+| Hot Wheels Unleashed 2: Acceleracers Expansion pack | 275292 | [275292-hot-wheels-unleashed-2-acceleracers-expansion-pack.json](./275292-hot-wheels-unleashed-2-acceleracers-expansion-pack.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 1 | 289159 | [289159-hot-wheels-unleashed-2-acceleracers-free-pack-1.json](./289159-hot-wheels-unleashed-2-acceleracers-free-pack-1.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 3 | 304810 | [304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json](./304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json) |
@@ -11498,7 +11501,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Fast & Furious Expansion Pack | 298536 | [298536-hot-wheels-unleashed-2-fast-and-furious-expansion-pack.json](./298536-hot-wheels-unleashed-2-fast-and-furious-expansion-pack.json) |
 | Hot Wheels Unleashed 2: Highway 35 Free Pack | 283610 | [283610-hot-wheels-unleashed-2-highway-35-free-pack.json](./283610-hot-wheels-unleashed-2-highway-35-free-pack.json) |
 | Hot Wheels Unleashed 2: Highway 35 World Race Pack | 293435 | [293435-hot-wheels-unleashed-2-highway-35-world-race-pack.json](./293435-hot-wheels-unleashed-2-highway-35-world-race-pack.json) |
+| Hot Wheels Unleashed 2: Honda Modern Classics | 275293 | [275293-hot-wheels-unleashed-2-honda-modern-classics.json](./275293-hot-wheels-unleashed-2-honda-modern-classics.json) |
 | Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
+| Hot Wheels Unleashed 2: Made In Italy Expansion Pack | 275294 | [275294-hot-wheels-unleashed-2-made-in-italy-expansion-pack.json](./275294-hot-wheels-unleashed-2-made-in-italy-expansion-pack.json) |
 | Hot Wheels Unleashed 2: Manga Pack | 276541 | [276541-hot-wheels-unleashed-2-manga-pack.json](./276541-hot-wheels-unleashed-2-manga-pack.json) |
 | Hot Wheels Unleashed 2: Mega Bites Free Pack | 297320 | [297320-hot-wheels-unleashed-2-mega-bites-free-pack.json](./297320-hot-wheels-unleashed-2-mega-bites-free-pack.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
