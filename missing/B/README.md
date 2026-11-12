@@ -1030,7 +1030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1568,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Attraction | 123989 | [123989-ball-attraction.json](./123989-ball-attraction.json) |
+| Ball Avalanche | 246591 | [246591-ball-avalanche.json](./246591-ball-avalanche.json) |
 | Ball Bash | 251955 | [251955-ball-bash.json](./251955-ball-bash.json) |
 | Ball Blast | 101191 | [101191-ball-blast.json](./101191-ball-blast.json) |
 | Ball Blast | 356523 | [356523-ball-blast.json](./356523-ball-blast.json) |
@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball! | 92903 | [92903-baseball.json](./92903-baseball.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
 | Baseballoons | 235280 | [235280-baseballoons.json](./235280-baseballoons.json) |
+| BaseballOut! | 246596 | [246596-baseballout.json](./246596-baseballout.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
 | Baseless | 236192 | [236192-baseless.json](./236192-baseless.json) |
@@ -8395,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Challenge | 89742 | [89742-bike-challenge.json](./89742-bike-challenge.json) |
 | Bike Clash | 194049 | [194049-bike-clash.json](./194049-bike-clash.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
+| Bike Dash | 246594 | [246594-bike-dash.json](./246594-bike-dash.json) |
 | Bike Dash Excite! | 105230 | [105230-bike-dash-excite.json](./105230-bike-dash-excite.json) |
 | Bike Dirt Extreme 3D | 322438 | [322438-bike-dirt-extreme-3d.json](./322438-bike-dirt-extreme-3d.json) |
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
@@ -11495,6 +11497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block-Quake | 218058 | [218058-block-quake.json](./218058-block-quake.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
 | Block: Puzzle Game | 87543 | [87543-block-puzzle-game.json](./87543-block-puzzle-game.json) |
+| Block! | 246592 | [246592-block.json](./246592-block.json) |
 | Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
@@ -13253,6 +13256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Bogdan 2077 | 84000 | [84000-bogdan-2077.json](./84000-bogdan-2077.json) |
+| Bogdan's Cross | 246147 | [246147-bogdans-cross.json](./246147-bogdans-cross.json) |
 | Bogdan's HeartQuest: The Invader Slayer | 204962 | [204962-bogdans-heartquest-the-invader-slayer.json](./204962-bogdans-heartquest-the-invader-slayer.json) |
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Blaster | 40632 | [40632-bogey-blaster.json](./40632-bogey-blaster.json) |
@@ -18023,6 +18027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter by GameTaco | 87519 | [87519-bubble-shooter-by-gametaco.json](./87519-bubble-shooter-by-gametaco.json) |
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
+| Bubble Shooter Heroes | 246590 | [246590-bubble-shooter-heroes.json](./246590-bubble-shooter-heroes.json) |
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter Piratey | 402060 | [402060-bubble-shooter-piratey.json](./402060-bubble-shooter-piratey.json) |
 | Bubble Shooter Pop! | 370357 | [370357-bubble-shooter-pop.json](./370357-bubble-shooter-pop.json) |
