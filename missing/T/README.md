@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
+| Tactical Warfare Bundle | 301759 | [301759-tactical-warfare-bundle.json](./301759-tactical-warfare-bundle.json) |
 | Tactical Warfare Simulator | 161501 | [161501-tactical-warfare-simulator.json](./161501-tactical-warfare-simulator.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | Tactical Zone | 261641 | [261641-tactical-zone.json](./261641-tactical-zone.json) |
@@ -6818,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beatles: Rock Band | 2693 | [2693-the-beatles-rock-band.json](./2693-the-beatles-rock-band.json) |
 | The beauties&zombies of beach for VR | 74623 | [74623-the-beauties-and-zombies-of-beach-for-vr.json](./74623-the-beauties-and-zombies-of-beach-for-vr.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
+| The Beauty | 301707 | [301707-the-beauty.json](./301707-the-beauty.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
 | The Bed Above My Head | 407767 | [407767-the-bed-above-my-head.json](./407767-the-bed-above-my-head.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
@@ -18655,6 +18657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tall Man Tapes | 393557 | [393557-the-tall-man-tapes.json](./393557-the-tall-man-tapes.json) |
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
 | The Taller I Grow | 135598 | [135598-the-taller-i-grow.json](./135598-the-taller-i-grow.json) |
+| The Talos Principle Collection | 301756 | [301756-the-talos-principle-collection.json](./301756-the-talos-principle-collection.json) |
 | The Talos Principle II | 79864 | [79864-the-talos-principle-ii.json](./79864-the-talos-principle-ii.json) |
 | The Talos Principle II: Deluxe Edition | 314150 | [314150-the-talos-principle-ii-deluxe-edition.json](./314150-the-talos-principle-ii-deluxe-edition.json) |
 | The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
@@ -22193,6 +22196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thursday | 330718 | [330718-thursday.json](./330718-thursday.json) |
 | Thursday Laundry | 178895 | [178895-thursday-laundry.json](./178895-thursday-laundry.json) |
 | Thursday Nite Thunkin' | 260176 | [260176-thursday-nite-thunkin.json](./260176-thursday-nite-thunkin.json) |
+| Thursday the 12th | 301719 | [301719-thursday-the-12th.json](./301719-thursday-the-12th.json) |
 | Thus Spoke the Donke | 288612 | [288612-thus-spoke-the-donke.json](./288612-thus-spoke-the-donke.json) |
 | Thveit | 412083 | [412083-thveit.json](./412083-thveit.json) |
 | Thwack | 221080 | [221080-thwack.json](./221080-thwack.json) |
@@ -24825,6 +24829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Timun Mas and Green Giants | 101095 | [101095-timun-mas-and-green-giants.json](./101095-timun-mas-and-green-giants.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
+| Tin Can + Starward Rogue: Survive in Space Bundle Deluxe | 301757 | [301757-tin-can-starward-rogue-survive-in-space-bundle-deluxe.json](./301757-tin-can-starward-rogue-survive-in-space-bundle-deluxe.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
 | Tin Coffins | 422683 | [422683-tin-coffins.json](./422683-tin-coffins.json) |
 | Tin Hearts | 253170 | [253170-tin-hearts.json](./253170-tin-hearts.json) |
@@ -28793,6 +28798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Noire | 134274 | [134274-tower-noire.json](./134274-tower-noire.json) |
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
+| Tower of 100 Floors | 301720 | [301720-tower-of-100-floors.json](./301720-tower-of-100-floors.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Annihilation: Welcome to Hell | 422420 | [422420-tower-of-annihilation-welcome-to-hell.json](./422420-tower-of-annihilation-welcome-to-hell.json) |
 | Tower of Arcana | 127840 | [127840-tower-of-arcana.json](./127840-tower-of-arcana.json) |
@@ -35597,6 +35603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizz'ed Firefarta | 407248 | [407248-twizzed-firefarta.json](./407248-twizzed-firefarta.json) |
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Cats | 277753 | [277753-twizzle-puzzle-cats.json](./277753-twizzle-puzzle-cats.json) |
+| Twizzle Puzzle: Dinosaurs | 301708 | [301708-twizzle-puzzle-dinosaurs.json](./301708-twizzle-puzzle-dinosaurs.json) |
 | Twizzle Puzzle: Dogs | 275418 | [275418-twizzle-puzzle-dogs.json](./275418-twizzle-puzzle-dogs.json) |
 | Twizzle Puzzle: Dragons | 313653 | [313653-twizzle-puzzle-dragons.json](./313653-twizzle-puzzle-dragons.json) |
 | Twizzle Puzzle: Flowers | 358011 | [358011-twizzle-puzzle-flowers.json](./358011-twizzle-puzzle-flowers.json) |
