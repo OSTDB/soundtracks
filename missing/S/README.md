@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame: Character Cassette | 234780 | [234780-samegame-character-cassette.json](./234780-samegame-character-cassette.json) |
 | SameGame: Character Data - Tengai Makyou | 234779 | [234779-samegame-character-data-tengai-makyou.json](./234779-samegame-character-data-tengai-makyou.json) |
 | Samenai Akumu no Hate de Odorou. | 285377 | [285377-samenai-akumu-no-hate-de-odorou.json](./285377-samenai-akumu-no-hate-de-odorou.json) |
+| SameShadow | 258750 | [258750-sameshadow.json](./258750-sameshadow.json) |
 | SameShadow: Fernando's Journey | 272241 | [272241-sameshadow-fernandos-journey.json](./272241-sameshadow-fernandos-journey.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
 | Samgukji 2022 | 215833 | [215833-samgukji-2022.json](./215833-samgukji-2022.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Seas | 216533 | [216533-scrap-seas.json](./216533-scrap-seas.json) |
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
 | Scrap Story | 113595 | [113595-scrap-story.json](./113595-scrap-story.json) |
+| Scrap Warden | 258752 | [258752-scrap-warden.json](./258752-scrap-warden.json) |
 | Scrap Wars: Td | 348797 | [348797-scrap-wars-td.json](./348797-scrap-wars-td.json) |
 | Scrap Yard Idle | 406496 | [406496-scrap-yard-idle.json](./406496-scrap-yard-idle.json) |
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
@@ -4541,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
+| Sealed Gate | 258672 | [258672-sealed-gate.json](./258672-sealed-gate.json) |
 | Sealed In | 372952 | [372952-sealed-in.json](./372952-sealed-in.json) |
 | Sealed in Wax | 285957 | [285957-sealed-in-wax.json](./285957-sealed-in-wax.json) |
 | Sealed with a Demon's Kiss | 299656 | [299656-sealed-with-a-demons-kiss.json](./299656-sealed-with-a-demons-kiss.json) |
@@ -11465,6 +11468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
+| Silicon Zephyr | 258652 | [258652-silicon-zephyr.json](./258652-silicon-zephyr.json) |
 | Silicon Zeroes | 55390 | [55390-silicon-zeroes.json](./55390-silicon-zeroes.json) |
 | Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
@@ -22634,6 +22638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Synergy | 295463 | [295463-spectral-synergy.json](./295463-spectral-synergy.json) |
 | Spectral Tower | 281680 | [281680-spectral-tower.json](./281680-spectral-tower.json) |
 | Spectral Tower II | 281681 | [281681-spectral-tower-ii.json](./281681-spectral-tower-ii.json) |
+| Spectral Trail | 258743 | [258743-spectral-trail.json](./258743-spectral-trail.json) |
 | Spectral vs. Generation | 39702 | [39702-spectral-vs-generation.json](./39702-spectral-vs-generation.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
@@ -24102,6 +24107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash King's Tournament | 161520 | [161520-splash-kings-tournament.json](./161520-splash-kings-tournament.json) |
 | Splash Lake | 37610 | [37610-splash-lake.json](./37610-splash-lake.json) |
 | Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
+| Splash Out! | 258686 | [258686-splash-out.json](./258686-splash-out.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splash: O Bichinho Virtual | 300533 | [300533-splash-o-bichinho-virtual.json](./300533-splash-o-bichinho-virtual.json) |
@@ -32511,6 +32517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoned Hero | 258810 | [258810-summoned-hero.json](./258810-summoned-hero.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
+| Summoner Arise! | 258239 | [258239-summoner-arise.json](./258239-summoner-arise.json) |
 | Summoner Fantasy | 241822 | [241822-summoner-fantasy.json](./241822-summoner-fantasy.json) |
 | Summoner of Greats | 278278 | [278278-summoner-of-greats.json](./278278-summoner-of-greats.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
@@ -32690,6 +32697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
 | Sundown Refusal | 118351 | [118351-sundown-refusal.json](./118351-sundown-refusal.json) |
+| Sundown Survival | 258687 | [258687-sundown-survival.json](./258687-sundown-survival.json) |
 | Sundown: Boogie Frights | 59600 | [59600-sundown-boogie-frights.json](./59600-sundown-boogie-frights.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sundy Stairway | 300300 | [300300-sundy-stairway.json](./300300-sundy-stairway.json) |
