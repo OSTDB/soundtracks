@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Marriage Lunatics!! | 139023 | [139023-magical-marriage-lunatics.json](./139023-magical-marriage-lunatics.json) |
 | Magical Massage | 323014 | [323014-magical-massage.json](./323014-magical-massage.json) |
 | Magical Maze | 147749 | [147749-magical-maze.json](./147749-magical-maze.json) |
+| Magical Medical | 246144 | [246144-magical-medical.json](./246144-magical-medical.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical Mic Duel: Senpai, Hear My Spell | 288167 | [288167-magical-mic-duel-senpai-hear-my-spell.json](./288167-magical-mic-duel-senpai-hear-my-spell.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
@@ -5141,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
 | Marvel Tsum Tsum | 58682 | [58682-marvel-tsum-tsum.json](./58682-marvel-tsum-tsum.json) |
+| Marvel Ultimate Alliance & Forza Motorsport 2 | 246614 | [246614-marvel-ultimate-alliance-and-forza-motorsport-2.json](./246614-marvel-ultimate-alliance-and-forza-motorsport-2.json) |
 | Marvel Ultimate Alliance 3: The Black Order | 113109 | [113109-marvel-ultimate-alliance-3-the-black-order.json](./113109-marvel-ultimate-alliance-3-the-black-order.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
@@ -6410,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Pirate | 340162 | [340162-max-pirate.json](./340162-max-pirate.json) |
 | Max Power Racing | 251135 | [251135-max-power-racing.json](./251135-max-power-racing.json) |
 | Max Raider | 171423 | [171423-max-raider.json](./171423-max-raider.json) |
+| Max Reckoning: A Criminal Thief Story With Shooter & Quest | 246613 | [246613-max-reckoning-a-criminal-thief-story-with-shooter-and-quest.json](./246613-max-reckoning-a-criminal-thief-story-with-shooter-and-quest.json) |
 | Max Reloaded II | 146798 | [146798-max-reloaded-ii.json](./146798-max-reloaded-ii.json) |
 | Max Resistance | 146545 | [146545-max-resistance.json](./146545-max-resistance.json) |
 | Max RPM | 40564 | [40564-max-rpm.json](./40564-max-rpm.json) |
@@ -22840,6 +22843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
 | My Pets | 84716 | [84716-my-pets.json](./84716-my-pets.json) |
 | My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
+| My Pig Princess | 246689 | [246689-my-pig-princess.json](./246689-my-pig-princess.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
 | My Pizza Shop - Pizza Maker Game | 95904 | [95904-my-pizza-shop-pizza-maker-game.json](./95904-my-pizza-shop-pizza-maker-game.json) |
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
