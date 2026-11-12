@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
 | Galaxi Barkonid | 66561 | [66561-galaxi-barkonid.json](./66561-galaxi-barkonid.json) |
 | Galaxi Taxi | 217365 | [217365-galaxi-taxi.json](./217365-galaxi-taxi.json) |
+| Galaxia | 274177 | [274177-galaxia.json](./274177-galaxia.json) |
 | Galaxia | 419121 | [419121-galaxia.json](./419121-galaxia.json) |
 | Galaxia | 92800 | [92800-galaxia.json](./92800-galaxia.json) |
 | Galaxia 7 | 60228 | [60228-galaxia-7.json](./60228-galaxia-7.json) |
@@ -5228,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Glaze Cup: Journey to the West | 164156 | [164156-glaze-cup-journey-to-the-west.json](./164156-glaze-cup-journey-to-the-west.json) |
 | Glazed Mirror: Myriad Cards | 417338 | [417338-glazed-mirror-myriad-cards.json](./417338-glazed-mirror-myriad-cards.json) |
+| Gleam and The Eternal Night | 274075 | [274075-gleam-and-the-eternal-night.json](./274075-gleam-and-the-eternal-night.json) |
 | Gleam of Fire | 105817 | [105817-gleam-of-fire.json](./105817-gleam-of-fire.json) |
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
 | Glean | 387924 | [387924-glean.json](./387924-glean.json) |
@@ -11067,6 +11069,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla Multiplayer Shooter | 118495 | [118495-guerrilla-multiplayer-shooter.json](./118495-guerrilla-multiplayer-shooter.json) |
 | Guerrilla Strike | 43343 | [43343-guerrilla-strike.json](./43343-guerrilla-strike.json) |
 | Guerrilla War | 217933 | [217933-guerrilla-war.json](./217933-guerrilla-war.json) |
+| Guerrilla War | 274096 | [274096-guerrilla-war.json](./274096-guerrilla-war.json) |
+| Guerrilla War | 274097 | [274097-guerrilla-war.json](./274097-guerrilla-war.json) |
+| Guerrilla War | 274098 | [274098-guerrilla-war.json](./274098-guerrilla-war.json) |
 | Guerrilla War | 274099 | [274099-guerrilla-war.json](./274099-guerrilla-war.json) |
 | Guerrilla War | 274100 | [274100-guerrilla-war.json](./274100-guerrilla-war.json) |
 | Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
