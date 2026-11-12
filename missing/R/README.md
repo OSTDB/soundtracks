@@ -203,7 +203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RabbiruN | 93692 | [93692-rabbirun.json](./93692-rabbirun.json) |
 | Rabbit | 46850 | [46850-rabbit.json](./46850-rabbit.json) |
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
-| Rabbit & Steel | 229093 | [229093-rabbit-and-steel.json](./229093-rabbit-and-steel.json) |
 | Rabbit & Steel: Extra Mode | 388550 | [388550-rabbit-and-steel-extra-mode.json](./388550-rabbit-and-steel-extra-mode.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit and Turtle | 285846 | [285846-rabbit-and-turtle.json](./285846-rabbit-and-turtle.json) |
