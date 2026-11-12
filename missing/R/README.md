@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze | 33886 | [33886-red-haze.json](./33886-red-haze.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
+| Red Head: To The Rescue | 273604 | [273604-red-head-to-the-rescue.json](./273604-red-head-to-the-rescue.json) |
 | Red Heat | 12743 | [12743-red-heat.json](./12743-red-heat.json) |
 | Red Hell | 203210 | [203210-red-hell.json](./203210-red-hell.json) |
 | Red Hero Adventure | 193442 | [193442-red-hero-adventure.json](./193442-red-hero-adventure.json) |
