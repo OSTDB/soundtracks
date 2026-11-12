@@ -4511,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin of Decay | 112498 | [112498-origin-of-decay.json](./112498-origin-of-decay.json) |
 | Origin of Destiny: Crimson Awakening | 33351 | [33351-origin-of-destiny-crimson-awakening.json](./33351-origin-of-destiny-crimson-awakening.json) |
 | Origin of Digital | 104557 | [104557-origin-of-digital.json](./104557-origin-of-digital.json) |
+| Origin of Storms | 276981 | [276981-origin-of-storms.json](./276981-origin-of-storms.json) |
 | Origin of the Magic Book | 404363 | [404363-origin-of-the-magic-book.json](./404363-origin-of-the-magic-book.json) |
 | Origin Online | 139279 | [139279-origin-online.json](./139279-origin-online.json) |
 | Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
