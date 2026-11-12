@@ -15472,6 +15472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
+| Moanera | 309762 | [309762-moanera.json](./309762-moanera.json) |
 | Moaning Moron of the Mountain | 376433 | [376433-moaning-moron-of-the-mountain.json](./376433-moaning-moron-of-the-mountain.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
 | Moatboat | 111919 | [111919-moatboat.json](./111919-moatboat.json) |
@@ -23002,6 +23003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyBot | 128218 | [128218-mybot.json](./128218-mybot.json) |
 | Mycel Pipi | 427817 | [427817-mycel-pipi.json](./427817-mycel-pipi.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
+| Mycelium | 309702 | [309702-mycelium.json](./309702-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
 | Mycelium Guardians | 272961 | [272961-mycelium-guardians.json](./272961-mycelium-guardians.json) |
 | Mycelium Heaven | 272965 | [272965-mycelium-heaven.json](./272965-mycelium-heaven.json) |
