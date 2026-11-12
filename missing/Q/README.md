@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QChat | 243510 | [243510-qchat.json](./243510-qchat.json) |
 | Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
 | Qdice.wtf | 137843 | [137843-qdice-wtf.json](./137843-qdice-wtf.json) |
+| Qdoom | 300624 | [300624-qdoom.json](./300624-qdoom.json) |
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
 | QField | 171989 | [171989-qfield.json](./171989-qfield.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for King's Underpants | 173809 | [173809-quest-for-kings-underpants.json](./173809-quest-for-kings-underpants.json) |
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
 | Quest for Moomoo | 233983 | [233983-quest-for-moomoo.json](./233983-quest-for-moomoo.json) |
+| Quest for Pancake | 311313 | [311313-quest-for-pancake.json](./311313-quest-for-pancake.json) |
 | Quest for Quintana Roo | 12317 | [12317-quest-for-quintana-roo.json](./12317-quest-for-quintana-roo.json) |
 | Quest for Runia | 160106 | [160106-quest-for-runia.json](./160106-quest-for-runia.json) |
 | Quest for Saddam | 209746 | [209746-quest-for-saddam.json](./209746-quest-for-saddam.json) |
