@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underzone | 132460 | [132460-underzone.json](./132460-underzone.json) |
 | Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
 | Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
+| Undesired Harem: Harem Nanka Nozondenai! | 305591 | [305591-undesired-harem-harem-nanka-nozondenai.json](./305591-undesired-harem-harem-nanka-nozondenai.json) |
 | Undestroyed | 174995 | [174995-undestroyed.json](./174995-undestroyed.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undholm | 114401 | [114401-undholm.json](./114401-undholm.json) |
