@@ -7670,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
 | Evil behind the shadows | 126278 | [126278-evil-behind-the-shadows.json](./126278-evil-behind-the-shadows.json) |
 | Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
+| Evil Beneath | 288957 | [288957-evil-beneath.json](./288957-evil-beneath.json) |
 | Evil Bird Simulator | 209301 | [209301-evil-bird-simulator.json](./209301-evil-bird-simulator.json) |
 | Evil Buster | 156849 | [156849-evil-buster.json](./156849-evil-buster.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
