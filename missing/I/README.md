@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebergs | 180076 | [180076-icebergs.json](./180076-icebergs.json) |
 | IceBlink Engine | 222669 | [222669-iceblink-engine.json](./222669-iceblink-engine.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
+| Icebound | 261500 | [261500-icebound.json](./261500-icebound.json) |
 | Icebound | 298181 | [298181-icebound.json](./298181-icebound.json) |
 | Icebound | 36123 | [36123-icebound.json](./36123-icebound.json) |
 | Icebound Secrets: Soul Hunter | 385876 | [385876-icebound-secrets-soul-hunter.json](./385876-icebound-secrets-soul-hunter.json) |
