@@ -6783,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Upon a Cat | 356718 | [356718-wish-upon-a-cat.json](./356718-wish-upon-a-cat.json) |
 | Wish Upon a Llama | 258962 | [258962-wish-upon-a-llama.json](./258962-wish-upon-a-llama.json) |
 | Wish Upon a Star | 407689 | [407689-wish-upon-a-star.json](./407689-wish-upon-a-star.json) |
+| Wish Us Luck | 251788 | [251788-wish-us-luck.json](./251788-wish-us-luck.json) |
 | Wish World | 197546 | [197546-wish-world.json](./197546-wish-world.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
