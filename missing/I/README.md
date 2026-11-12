@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion Spectre | 335745 | [335745-illusion-spectre.json](./335745-illusion-spectre.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
 | Illusion Tales | 215828 | [215828-illusion-tales.json](./215828-illusion-tales.json) |
+| Illusion Within | 258656 | [258656-illusion-within.json](./258656-illusion-within.json) |
 | Illusion: A Tale of the Mind | 103035 | [103035-illusion-a-tale-of-the-mind.json](./103035-illusion-a-tale-of-the-mind.json) |
 | Illusion: Ghost Killer | 62513 | [62513-illusion-ghost-killer.json](./62513-illusion-ghost-killer.json) |
 | Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferna | 182055 | [182055-inferna.json](./182055-inferna.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal | 7018 | [7018-infernal.json](./7018-infernal.json) |
+| Infernal Apocalypse: Rise of the Underworld | 258688 | [258688-infernal-apocalypse-rise-of-the-underworld.json](./258688-infernal-apocalypse-rise-of-the-underworld.json) |
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Bloodrush | 310286 | [310286-infernal-bloodrush.json](./310286-infernal-bloodrush.json) |
@@ -6380,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Marines+ | 395276 | [395276-iron-marines.json](./395276-iron-marines.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Meat | 125944 | [125944-iron-meat.json](./125944-iron-meat.json) |
+| Iron Naval Battle | 258682 | [258682-iron-naval-battle.json](./258682-iron-naval-battle.json) |
 | Iron Nest: Heavy Turret Simulator | 377917 | [377917-iron-nest-heavy-turret-simulator.json](./377917-iron-nest-heavy-turret-simulator.json) |
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
