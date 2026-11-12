@@ -5523,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: River's Edge | 283238 | [283238-hentai-golf-rivers-edge.json](./283238-hentai-golf-rivers-edge.json) |
 | Hentai Golf: Special Edition | 292913 | [292913-hentai-golf-special-edition.json](./292913-hentai-golf-special-edition.json) |
 | Hentai Golf: Sunset Pines | 283226 | [283226-hentai-golf-sunset-pines.json](./283226-hentai-golf-sunset-pines.json) |
+| Hentai Golf: Ultimate Edition | 286190 | [286190-hentai-golf-ultimate-edition.json](./286190-hentai-golf-ultimate-edition.json) |
 | Hentai Gothic Girl | 165821 | [165821-hentai-gothic-girl.json](./165821-hentai-gothic-girl.json) |
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
 | Hentai Gymnast Scarlett | 375979 | [375979-hentai-gymnast-scarlett.json](./375979-hentai-gymnast-scarlett.json) |
@@ -6405,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Bifröst Jötunn Skin | 316383 | [316383-hero-siege-bifrost-jotunn-skin.json](./316383-hero-siege-bifrost-jotunn-skin.json) |
 | Hero Siege: Bifröst Viking Skin | 316382 | [316382-hero-siege-bifrost-viking-skin.json](./316382-hero-siege-bifrost-viking-skin.json) |
 | Hero Siege: Class - Amazon | 171183 | [171183-hero-siege-class-amazon.json](./171183-hero-siege-class-amazon.json) |
+| Hero Siege: Class - Butcher | 286146 | [286146-hero-siege-class-butcher.json](./286146-hero-siege-class-butcher.json) |
 | Hero Siege: Class - Marauder | 171184 | [171184-hero-siege-class-marauder.json](./171184-hero-siege-class-marauder.json) |
 | Hero Siege: Class - Samurai | 171181 | [171181-hero-siege-class-samurai.json](./171181-hero-siege-class-samurai.json) |
 | Hero Siege: Class - Shaman | 171182 | [171182-hero-siege-class-shaman.json](./171182-hero-siege-class-shaman.json) |
@@ -6412,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Siege: Gates of Valhalla | 204957 | [204957-hero-siege-gates-of-valhalla.json](./204957-hero-siege-gates-of-valhalla.json) |
 | Hero Siege: Gates of Valhalla - Collector's Edition | 204954 | [204954-hero-siege-gates-of-valhalla-collectors-edition.json](./204954-hero-siege-gates-of-valhalla-collectors-edition.json) |
+| Hero Siege: Guardians of the Cosmos Skin | 286169 | [286169-hero-siege-guardians-of-the-cosmos-skin.json](./286169-hero-siege-guardians-of-the-cosmos-skin.json) |
 | Hero Siege: Pocket Edition | 108288 | [108288-hero-siege-pocket-edition.json](./108288-hero-siege-pocket-edition.json) |
 | Hero Siege: Stormweaver | 296954 | [296954-hero-siege-stormweaver.json](./296954-hero-siege-stormweaver.json) |
 | Hero Siege: Wrath of Mevius | 168769 | [168769-hero-siege-wrath-of-mevius.json](./168769-hero-siege-wrath-of-mevius.json) |
