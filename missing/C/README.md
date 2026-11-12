@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle of No Escape 2 | 30947 | [30947-castle-of-no-escape-2.json](./30947-castle-of-no-escape-2.json) |
+| Castle of Oblivion | 271955 | [271955-castle-of-oblivion.json](./271955-castle-of-oblivion.json) |
 | Castle of Pixel Skulls | 117246 | [117246-castle-of-pixel-skulls.json](./117246-castle-of-pixel-skulls.json) |
 | Castle of Pixel Skulls DX | 164301 | [164301-castle-of-pixel-skulls-dx.json](./164301-castle-of-pixel-skulls-dx.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
@@ -16330,6 +16331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chasm | 18846 | [18846-cosmic-chasm.json](./18846-cosmic-chasm.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
+| Cosmic Clash | 271898 | [271898-cosmic-clash.json](./271898-cosmic-clash.json) |
 | Cosmic Clean-Up | 64314 | [64314-cosmic-clean-up.json](./64314-cosmic-clean-up.json) |
 | Cosmic Cleaner | 261726 | [261726-cosmic-cleaner.json](./261726-cosmic-cleaner.json) |
 | Cosmic Cleaner | 380083 | [380083-cosmic-cleaner.json](./380083-cosmic-cleaner.json) |
@@ -19131,6 +19133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Gravity | 89088 | [89088-critical-gravity.json](./89088-critical-gravity.json) |
 | Critical Mass | 13534 | [13534-critical-mass.json](./13534-critical-mass.json) |
 | Critical Mass | 25354 | [25354-critical-mass.json](./25354-critical-mass.json) |
+| Critical Mass | 271972 | [271972-critical-mass.json](./271972-critical-mass.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
 | Critical Mess | 81583 | [81583-critical-mess.json](./81583-critical-mess.json) |
 | Critical Ops | 28896 | [28896-critical-ops.json](./28896-critical-ops.json) |
