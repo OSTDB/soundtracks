@@ -2824,6 +2824,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Bowling | 20988 | [20988-virtual-bowling.json](./20988-virtual-bowling.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
+| Virtual Cameraman | 307992 | [307992-virtual-cameraman.json](./307992-virtual-cameraman.json) |
+| Virtual Cameraman 2: Phuket, Thailand / Pickup Compilation | 307993 | [307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json](./307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json) |
 | Virtual Cameraman Part 1: Sawada Naomi and Juri Anna | 227811 | [227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json](./227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json) |
 | Virtual Cameraman Part 2: Kawai Natsumi and Tachihara Kimi | 227812 | [227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json](./227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json) |
 | Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
