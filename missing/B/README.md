@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Card Shop Simulator | 349428 | [349428-baseball-card-shop-simulator.json](./349428-baseball-card-shop-simulator.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
 | Baseball Clash | 234457 | [234457-baseball-clash.json](./234457-baseball-clash.json) |
+| Baseball Club | 263245 | [263245-baseball-club.json](./263245-baseball-club.json) |
 | Baseball Dreams VR | 376270 | [376270-baseball-dreams-vr.json](./376270-baseball-dreams-vr.json) |
 | Baseball Everyday | 200254 | [200254-baseball-everyday.json](./200254-baseball-everyday.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
@@ -18392,6 +18394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road: Combo Edition | 397890 | [397890-buggy-off-road-combo-edition.json](./397890-buggy-off-road-combo-edition.json) |
 | Buggy Off-Road: Power Edition | 395675 | [395675-buggy-off-road-power-edition.json](./395675-buggy-off-road-power-edition.json) |
 | Buggy Race: Racing Master | 288308 | [288308-buggy-race-racing-master.json](./288308-buggy-race-racing-master.json) |
+| Buggy Racer | 263244 | [263244-buggy-racer.json](./263244-buggy-racer.json) |
 | Buggy Racers | 276801 | [276801-buggy-racers.json](./276801-buggy-racers.json) |
 | Buggy Ranger | 13449 | [13449-buggy-ranger.json](./13449-buggy-ranger.json) |
 | Buggy Run | 45657 | [45657-buggy-run.json](./45657-buggy-run.json) |
