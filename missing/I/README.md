@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleQuest | 360543 | [360543-idlequest.json](./360543-idlequest.json) |
 | Idler Coaster | 217080 | [217080-idler-coaster.json](./217080-idler-coaster.json) |
 | Idlers and Dungeons | 78428 | [78428-idlers-and-dungeons.json](./78428-idlers-and-dungeons.json) |
+| Idles of Torment | 266438 | [266438-idles-of-torment.json](./266438-idles-of-torment.json) |
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTale | 340514 | [340514-idletale.json](./340514-idletale.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
