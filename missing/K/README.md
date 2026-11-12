@@ -4788,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Crawlers | 197216 | [197216-knight-crawlers.json](./197216-knight-crawlers.json) |
 | Knight Dice | 127813 | [127813-knight-dice.json](./127813-knight-dice.json) |
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
+| Knight Dungeons | 248870 | [248870-knight-dungeons.json](./248870-knight-dungeons.json) |
 | Knight Empire Online | 130719 | [130719-knight-empire-online.json](./130719-knight-empire-online.json) |
 | Knight Eternal | 123973 | [123973-knight-eternal.json](./123973-knight-eternal.json) |
 | Knight Fall | 304980 | [304980-knight-fall.json](./304980-knight-fall.json) |
