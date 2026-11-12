@@ -20699,6 +20699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Golden Eggs: Nori Nori Uta Dekichatte Kei | 124089 | [124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json](./124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json) |
 | The World of Golden Eggs: Norinori Rhythm-kei | 165340 | [165340-the-world-of-golden-eggs-norinori-rhythm-kei.json](./165340-the-world-of-golden-eggs-norinori-rhythm-kei.json) |
 | The World of Japanese Tea Through the Way of Tea | 349583 | [349583-the-world-of-japanese-tea-through-the-way-of-tea.json](./349583-the-world-of-japanese-tea-through-the-way-of-tea.json) |
+| The World of Kung Fu: Dragon and Eagle | 250571 | [250571-the-world-of-kung-fu-dragon-and-eagle.json](./250571-the-world-of-kung-fu-dragon-and-eagle.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Labyrinths: Labyronia | 102402 | [102402-the-world-of-labyrinths-labyronia.json](./102402-the-world-of-labyrinths-labyronia.json) |
 | The World of Legend | 231681 | [231681-the-world-of-legend.json](./231681-the-world-of-legend.json) |
@@ -28412,6 +28413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Artificial Dream in Arcadia | 228758 | [228758-touhou-artificial-dream-in-arcadia.json](./228758-touhou-artificial-dream-in-arcadia.json) |
 | Touhou Asked | 109351 | [109351-touhou-asked.json](./109351-touhou-asked.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
+| Touhou Battle Raiders | 250585 | [250585-touhou-battle-raiders.json](./250585-touhou-battle-raiders.json) |
 | Touhou Big Big Battle: Character Pack 1 | 224362 | [224362-touhou-big-big-battle-character-pack-1.json](./224362-touhou-big-big-battle-character-pack-1.json) |
 | Touhou Big Big Battle: Character Pack 1.5 | 224361 | [224361-touhou-big-big-battle-character-pack-1-5.json](./224361-touhou-big-big-battle-character-pack-1-5.json) |
 | Touhou Big Big Battle: Character Pack 2 | 224360 | [224360-touhou-big-big-battle-character-pack-2.json](./224360-touhou-big-big-battle-character-pack-2.json) |
@@ -28471,6 +28473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Dungeon Maker: The Labyrinth of Heart | 263106 | [263106-touhou-dungeon-maker-the-labyrinth-of-heart.json](./263106-touhou-dungeon-maker-the-labyrinth-of-heart.json) |
 | Touhou Dystopian | 374218 | [374218-touhou-dystopian.json](./374218-touhou-dystopian.json) |
 | Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
+| Touhou Eiyuu Musou | 250586 | [250586-touhou-eiyuu-musou.json](./250586-touhou-eiyuu-musou.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
 | Touhou Endless Dream | 153621 | [153621-touhou-endless-dream.json](./153621-touhou-endless-dream.json) |
@@ -28500,6 +28503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gendanshou X: Unlimited Heroes | 207229 | [207229-touhou-gendanshou-x-unlimited-heroes.json](./207229-touhou-gendanshou-x-unlimited-heroes.json) |
 | Touhou Gendanshou Y: Unlimited Heroes | 207231 | [207231-touhou-gendanshou-y-unlimited-heroes.json](./207231-touhou-gendanshou-y-unlimited-heroes.json) |
 | Touhou Gendanshou: Unlimited Heroes | 207228 | [207228-touhou-gendanshou-unlimited-heroes.json](./207228-touhou-gendanshou-unlimited-heroes.json) |
+| Touhou Genmu Youtan: The Nightmare of Rebellion | 250588 | [250588-touhou-genmu-youtan-the-nightmare-of-rebellion.json](./250588-touhou-genmu-youtan-the-nightmare-of-rebellion.json) |
 | Touhou Genso Kikou: Lost Alchemy | 100555 | [100555-touhou-genso-kikou-lost-alchemy.json](./100555-touhou-genso-kikou-lost-alchemy.json) |
 | Touhou Genso Maroku | 211530 | [211530-touhou-genso-maroku.json](./211530-touhou-genso-maroku.json) |
 | Touhou Genso Maroku W: The Devil of Decline | 114022 | [114022-touhou-genso-maroku-w-the-devil-of-decline.json](./114022-touhou-genso-maroku-w-the-devil-of-decline.json) |
@@ -28562,6 +28566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe | 27157 | [27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json](./27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json) |
 | Touhou History Eater | 134860 | [134860-touhou-history-eater.json](./134860-touhou-history-eater.json) |
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
+| Touhou Hyakki Kasen | 250581 | [250581-touhou-hyakki-kasen.json](./250581-touhou-hyakki-kasen.json) |
 | Touhou Hyouibana: Antinomy of Common Flowers | 76829 | [76829-touhou-hyouibana-antinomy-of-common-flowers.json](./76829-touhou-hyouibana-antinomy-of-common-flowers.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Idle | 423296 | [423296-touhou-idle.json](./423296-touhou-idle.json) |
@@ -28636,6 +28641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Monster TD | 173434 | [173434-touhou-monster-td.json](./173434-touhou-monster-td.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Monster TD: Nagae Iku | 192155 | [192155-touhou-monster-td-nagae-iku.json](./192155-touhou-monster-td-nagae-iku.json) |
+| Touhou Monsters Card - Phantasmal Summoner | 250583 | [250583-touhou-monsters-card-phantasmal-summoner.json](./250583-touhou-monsters-card-phantasmal-summoner.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
 | Touhou Multi Scroll Shooting | 121337 | [121337-touhou-multi-scroll-shooting.json](./121337-touhou-multi-scroll-shooting.json) |
@@ -28666,6 +28672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Puppet Dance Performance: Shard of Dreams - Extended: Fanchara | 330983 | [330983-touhou-puppet-dance-performance-shard-of-dreams-extended-fanchara.json](./330983-touhou-puppet-dance-performance-shard-of-dreams-extended-fanchara.json) |
 | Touhou Puppet Dance Performance: Shard of Dreams - Genso Network Connection | 330982 | [330982-touhou-puppet-dance-performance-shard-of-dreams-genso-network-connection.json](./330982-touhou-puppet-dance-performance-shard-of-dreams-genso-network-connection.json) |
 | Touhou Puppet Play Enhanced (Reloaded) | 349738 | [349738-touhou-puppet-play-enhanced-reloaded.json](./349738-touhou-puppet-play-enhanced-reloaded.json) |
+| Touhou Quest: Mugen no Spellcard | 250584 | [250584-touhou-quest-mugen-no-spellcard.json](./250584-touhou-quest-mugen-no-spellcard.json) |
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
