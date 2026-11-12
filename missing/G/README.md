@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls and Dungeons | 54869 | [54869-girls-and-dungeons.json](./54869-girls-and-dungeons.json) |
 | Girls and Quiz | 40710 | [40710-girls-and-quiz.json](./40710-girls-and-quiz.json) |
 | Girls and Robots | 266761 | [266761-girls-and-robots.json](./266761-girls-and-robots.json) |
+| Girls And Robots 2 | 271889 | [271889-girls-and-robots-2.json](./271889-girls-and-robots-2.json) |
 | Girls and Tests | 111974 | [111974-girls-and-tests.json](./111974-girls-and-tests.json) |
 | Girls are Weird | 302229 | [302229-girls-are-weird.json](./302229-girls-are-weird.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
@@ -8823,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grapplehook Midpoint Teleport Killer | 418097 | [418097-grapplehook-midpoint-teleport-killer.json](./418097-grapplehook-midpoint-teleport-killer.json) |
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
+| Grapples Galore: Cosmetics Pack 1 | 271895 | [271895-grapples-galore-cosmetics-pack-1.json](./271895-grapples-galore-cosmetics-pack-1.json) |
 | Grapples Galore: Cosmetics Pack 2 | 293440 | [293440-grapples-galore-cosmetics-pack-2.json](./293440-grapples-galore-cosmetics-pack-2.json) |
 | Grapples Galore: Hat Pack 1 | 293439 | [293439-grapples-galore-hat-pack-1.json](./293439-grapples-galore-hat-pack-1.json) |
 | GrappleShot | 159585 | [159585-grappleshot.json](./159585-grappleshot.json) |
@@ -9588,6 +9590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Green: Kanenone Romantic | 294624 | [294624-green-green-kanenone-romantic.json](./294624-green-green-kanenone-romantic.json) |
 | Green Green: Overdrive Edition | 125743 | [125743-green-green-overdrive-edition.json](./125743-green-green-overdrive-edition.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
+| Green Hale | 271958 | [271958-green-hale.json](./271958-green-hale.json) |
 | Green Hawk Down | 211978 | [211978-green-hawk-down.json](./211978-green-hawk-down.json) |
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
