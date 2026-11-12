@@ -5862,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
 | Center Ring Boxing | 92548 | [92548-center-ring-boxing.json](./92548-center-ring-boxing.json) |
 | Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
+| Center Station Simulator | 288937 | [288937-center-station-simulator.json](./288937-center-station-simulator.json) |
 | Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
@@ -9210,6 +9211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Project | 105146 | [105146-chrono-project.json](./105146-chrono-project.json) |
 | Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
 | Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
+| Chrono Recorder | 288964 | [288964-chrono-recorder.json](./288964-chrono-recorder.json) |
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
 | Chrono Rift | 244039 | [244039-chrono-rift.json](./244039-chrono-rift.json) |
 | Chrono Seoul | 379411 | [379411-chrono-seoul.json](./379411-chrono-seoul.json) |
@@ -9436,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chupa Chupa VR | 143218 | [143218-chupa-chupa-vr.json](./143218-chupa-chupa-vr.json) |
 | Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
 | Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
+| Chura-jima Kurashi | 288926 | [288926-chura-jima-kurashi.json](./288926-chura-jima-kurashi.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
 | Church | 263640 | [263640-church.json](./263640-church.json) |
 | Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
@@ -11396,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwizzze | 29162 | [29162-clockwizzze.json](./29162-clockwizzze.json) |
 | Clockwork | 25195 | [25195-clockwork.json](./25195-clockwork.json) |
 | ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
+| Clockwork Ambrosia | 288975 | [288975-clockwork-ambrosia.json](./288975-clockwork-ambrosia.json) |
 | Clockwork Apple | 182934 | [182934-clockwork-apple.json](./182934-clockwork-apple.json) |
 | Clockwork Blackout | 400649 | [400649-clockwork-blackout.json](./400649-clockwork-blackout.json) |
 | Clockwork Calamity in Mushroom World | 180886 | [180886-clockwork-calamity-in-mushroom-world.json](./180886-clockwork-calamity-in-mushroom-world.json) |
@@ -18926,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Horn | 349531 | [349531-crimson-horn.json](./349531-crimson-horn.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
+| Crimson II | 289040 | [289040-crimson-ii.json](./289040-crimson-ii.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Imprint plus -Nonexistent Christmas- | 76031 | [76031-crimson-imprint-plus-nonexistent-christmas.json](./76031-crimson-imprint-plus-nonexistent-christmas.json) |
 | Crimson Incursion | 326938 | [326938-crimson-incursion.json](./326938-crimson-incursion.json) |
@@ -21015,6 +21020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cucumber | 303437 | [303437-cucumber.json](./303437-cucumber.json) |
 | Cucumber | 311228 | [311228-cucumber.json](./311228-cucumber.json) |
 | Cucumber Blues | 28917 | [28917-cucumber-blues.json](./28917-cucumber-blues.json) |
+| Cucumber Champion | 288953 | [288953-cucumber-champion.json](./288953-cucumber-champion.json) |
 | Cucumber Defense VR | 126947 | [126947-cucumber-defense-vr.json](./126947-cucumber-defense-vr.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
