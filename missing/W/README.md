@@ -9641,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Samurai | 119494 | [119494-wrath-of-the-samurai.json](./119494-wrath-of-the-samurai.json) |
 | Wrath of the Sea King | 69905 | [69905-wrath-of-the-sea-king.json](./69905-wrath-of-the-sea-king.json) |
 | Wrath of the Titans | 268600 | [268600-wrath-of-the-titans.json](./268600-wrath-of-the-titans.json) |
+| Wrath of the Violent Vicar | 284552 | [284552-wrath-of-the-violent-vicar.json](./284552-wrath-of-the-violent-vicar.json) |
 | Wrath of Thor | 115238 | [115238-wrath-of-thor.json](./115238-wrath-of-thor.json) |
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
