@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore Quest: Digger's Delve | 280679 | [280679-ore-quest-diggers-delve.json](./280679-ore-quest-diggers-delve.json) |
 | Ore Rush | 249309 | [249309-ore-rush.json](./249309-ore-rush.json) |
 | Ore to Imouto no Kankei | 97766 | [97766-ore-to-imouto-no-kankei.json](./97766-ore-to-imouto-no-kankei.json) |
+| Ore to Mahou no Koibito | 259308 | [259308-ore-to-mahou-no-koibito.json](./259308-ore-to-mahou-no-koibito.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore-sama Kingdom: Ikemen Kareshi wo Get Shiyo! Moe Kyun School Days | 141587 | [141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json](./141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json) |
