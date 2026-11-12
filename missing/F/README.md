@@ -4755,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifrelin | 404985 | [404985-fifrelin.json](./404985-fifrelin.json) |
 | Fifteen | 279135 | [279135-fifteen.json](./279135-fifteen.json) |
 | Fifteen | 54673 | [54673-fifteen.json](./54673-fifteen.json) |
+| Fifteen Puzzle | 311368 | [311368-fifteen-puzzle.json](./311368-fifteen-puzzle.json) |
 | Fifth Aile | 93976 | [93976-fifth-aile.json](./93976-fifth-aile.json) |
 | Fifth Element II Hikari to Yami no Ouji | 58742 | [58742-fifth-element-ii-hikari-to-yami-no-ouji.json](./58742-fifth-element-ii-hikari-to-yami-no-ouji.json) |
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blade | 175765 | [175765-final-blade.json](./175765-final-blade.json) |
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
+| Final Blood | 311369 | [311369-final-blood.json](./311369-final-blood.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
 | Final Boss | 410170 | [410170-final-boss.json](./410170-final-boss.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
@@ -6571,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
 | Fireman | 283009 | [283009-fireman.json](./283009-fireman.json) |
 | Fireman Fred | 14067 | [14067-fireman-fred.json](./14067-fireman-fred.json) |
+| Fireman Rescue | 311371 | [311371-fireman-rescue.json](./311371-fireman-rescue.json) |
 | Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
 | Fireman Sam | 287373 | [287373-fireman-sam.json](./287373-fireman-sam.json) |
 | Fireman Sam to the Rescue | 85640 | [85640-fireman-sam-to-the-rescue.json](./85640-fireman-sam-to-the-rescue.json) |
@@ -8838,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florida Road Trip | 179985 | [179985-florida-road-trip.json](./179985-florida-road-trip.json) |
 | Florida Simulator 1986 | 158545 | [158545-florida-simulator-1986.json](./158545-florida-simulator-1986.json) |
 | Florida Survivor | 362173 | [362173-florida-survivor.json](./362173-florida-survivor.json) |
+| Floridale Man: The Joy of Chaos | 310855 | [310855-floridale-man-the-joy-of-chaos.json](./310855-floridale-man-the-joy-of-chaos.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
 | Florist Business Simulator | 311215 | [311215-florist-business-simulator.json](./311215-florist-business-simulator.json) |
 | Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
@@ -10902,6 +10906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One: Championship Edition | 21397 | [21397-formula-one-championship-edition.json](./21397-formula-one-championship-edition.json) |
 | Formula Racer | 395877 | [395877-formula-racer.json](./395877-formula-racer.json) |
 | Formula Racing GP: Apex Overtaking | 357020 | [357020-formula-racing-gp-apex-overtaking.json](./357020-formula-racing-gp-apex-overtaking.json) |
+| Formula Racing Manager | 310863 | [310863-formula-racing-manager.json](./310863-formula-racing-manager.json) |
 | Formula Racing Pro 2025 | 328536 | [328536-formula-racing-pro-2025.json](./328536-formula-racing-pro-2025.json) |
 | Formula Racing Pro 2025: Extended Edition | 333721 | [333721-formula-racing-pro-2025-extended-edition.json](./333721-formula-racing-pro-2025-extended-edition.json) |
 | Formula Racing Pro 2026 | 385104 | [385104-formula-racing-pro-2026.json](./385104-formula-racing-pro-2026.json) |
@@ -12252,6 +12257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freak House | 292236 | [292236-freak-house.json](./292236-freak-house.json) |
 | Freak Hunter A Retro Type | 250697 | [250697-freak-hunter-a-retro-type.json](./250697-freak-hunter-a-retro-type.json) |
 | Freak Hunter A Retro Type: Bonus Level Pack | 271046 | [271046-freak-hunter-a-retro-type-bonus-level-pack.json](./271046-freak-hunter-a-retro-type-bonus-level-pack.json) |
+| Freak Out Kid Freaking Out | 311299 | [311299-freak-out-kid-freaking-out.json](./311299-freak-out-kid-freaking-out.json) |
 | Freak Run | 232334 | [232334-freak-run.json](./232334-freak-run.json) |
 | Freak Show: Party Royale! | 236139 | [236139-freak-show-party-royale.json](./236139-freak-show-party-royale.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
@@ -14252,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
 | Fun House | 48122 | [48122-fun-house.json](./48122-fun-house.json) |
+| Fun In The Sun | 311294 | [311294-fun-in-the-sun.json](./311294-fun-in-the-sun.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing | 99936 | [99936-fun-kid-racing.json](./99936-fun-kid-racing.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
