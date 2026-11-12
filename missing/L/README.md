@@ -4679,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library | 106326 | [106326-library.json](./106326-library.json) |
+| Library Cross: Toki ga Kitara, Kono Negai wo | 267598 | [267598-library-cross-toki-ga-kitara-kono-negai-wo.json](./267598-library-cross-toki-ga-kitara-kono-negai-wo.json) |
 | Library Escape | 400487 | [400487-library-escape.json](./400487-library-escape.json) |
 | Library Fantasy | 128554 | [128554-library-fantasy.json](./128554-library-fantasy.json) |
 | Library Fantasy | 287001 | [287001-library-fantasy.json](./287001-library-fantasy.json) |
