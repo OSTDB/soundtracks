@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J8 Princess Rhapsody | 316669 | [316669-j8-princess-rhapsody.json](./316669-j8-princess-rhapsody.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Ja'afar's nightmare | 281331 | [281331-jaafars-nightmare.json](./281331-jaafars-nightmare.json) |
+| Jab Juggernauts | 309785 | [309785-jab-juggernauts.json](./309785-jab-juggernauts.json) |
 | Jab! | 148189 | [148189-jab.json](./148189-jab.json) |
 | Jabato | 78204 | [78204-jabato.json](./78204-jabato.json) |
 | Jabb | 379718 | [379718-jabb.json](./379718-jabb.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jammes | 38168 | [38168-jammes.json](./38168-jammes.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jammin' With Mario | 283911 | [283911-jammin-with-mario.json](./283911-jammin-with-mario.json) |
+| Jamming With Grandma | 311310 | [311310-jamming-with-grandma.json](./311310-jamming-with-grandma.json) |
 | Jammit | 39018 | [39018-jammit.json](./39018-jammit.json) |
 | Jammo | 192743 | [192743-jammo.json](./192743-jammo.json) |
 | Jammo | 265766 | [265766-jammo.json](./265766-jammo.json) |
@@ -947,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit: Holiday Hare 1994 | 79517 | [79517-jazz-jackrabbit-holiday-hare-1994.json](./79517-jazz-jackrabbit-holiday-hare-1994.json) |
 | Jazz Jackrabbit: Holiday Hare 1995 | 47050 | [47050-jazz-jackrabbit-holiday-hare-1995.json](./47050-jazz-jackrabbit-holiday-hare-1995.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
+| Jazz Out | 310229 | [310229-jazz-out.json](./310229-jazz-out.json) |
 | Jazz Smash | 260767 | [260767-jazz-smash.json](./260767-jazz-smash.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazz: Trump's Journey | 61133 | [61133-jazz-trumps-journey.json](./61133-jazz-trumps-journey.json) |
@@ -1245,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica: Mysterious Journey | 54138 | [54138-jessica-mysterious-journey.json](./54138-jessica-mysterious-journey.json) |
 | Jessica: Mystery of Courchevel | 54139 | [54139-jessica-mystery-of-courchevel.json](./54139-jessica-mystery-of-courchevel.json) |
 | Jessica: Secret of the Caribbean | 24735 | [24735-jessica-secret-of-the-caribbean.json](./24735-jessica-secret-of-the-caribbean.json) |
+| Jessica's Bow Wow Bistro | 316907 | [316907-jessicas-bow-wow-bistro.json](./316907-jessicas-bow-wow-bistro.json) |
 | Jessica's Cupcake Cafe | 66375 | [66375-jessicas-cupcake-cafe.json](./66375-jessicas-cupcake-cafe.json) |
 | Jessica's Life: The Beginning | 368115 | [368115-jessicas-life-the-beginning.json](./368115-jessicas-life-the-beginning.json) |
 | Jessica's Plight | 385894 | [385894-jessicas-plight.json](./385894-jessicas-plight.json) |
@@ -1429,7 +1433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Heroes | 65165 | [65165-jetpack-heroes.json](./65165-jetpack-heroes.json) |
 | Jetpack Jack | 150890 | [150890-jetpack-jack.json](./150890-jetpack-jack.json) |
 | Jetpack Jake! | 96585 | [96585-jetpack-jake.json](./96585-jetpack-jake.json) |
-| Jetpack Joyride 2 | 208929 | [208929-jetpack-joyride-2.json](./208929-jetpack-joyride-2.json) |
 | Jetpack Joyride 2 | 287036 | [287036-jetpack-joyride-2.json](./287036-jetpack-joyride-2.json) |
 | Jetpack Joyride Arcade | 228829 | [228829-jetpack-joyride-arcade.json](./228829-jetpack-joyride-arcade.json) |
 | Jetpack Joyride Deluxe | 99802 | [99802-jetpack-joyride-deluxe.json](./99802-jetpack-joyride-deluxe.json) |
@@ -3974,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Fury 3 | 372444 | [372444-junkyard-fury-3.json](./372444-junkyard-fury-3.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
+| Junkyard Killbots | 310293 | [310293-junkyard-killbots.json](./310293-junkyard-killbots.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Junkyard Saints: Scrapstorm | 405930 | [405930-junkyard-saints-scrapstorm.json](./405930-junkyard-saints-scrapstorm.json) |
 | Junkyard Space Agency | 356045 | [356045-junkyard-space-agency.json](./356045-junkyard-space-agency.json) |
