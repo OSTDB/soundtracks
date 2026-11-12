@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
 | TechAssault | 426455 | [426455-techassault.json](./426455-techassault.json) |
 | TechBeat Heart | 169523 | [169523-techbeat-heart.json](./169523-techbeat-heart.json) |
+| Techblast | 262014 | [262014-techblast.json](./262014-techblast.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | Techbrawlogy: Into the RoboDome | 244032 | [244032-techbrawlogy-into-the-robodome.json](./244032-techbrawlogy-into-the-robodome.json) |
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
@@ -7281,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Box is Alive | 377634 | [377634-the-box-is-alive.json](./377634-the-box-is-alive.json) |
+| The Box of a Thousand Demons | 261484 | [261484-the-box-of-a-thousand-demons.json](./261484-the-box-of-a-thousand-demons.json) |
 | The Box of Fear | 358634 | [358634-the-box-of-fear.json](./358634-the-box-of-fear.json) |
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Box VR | 76265 | [76265-the-box-vr.json](./76265-the-box-vr.json) |
@@ -13937,6 +13939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
 | The Line | 76280 | [76280-the-line.json](./76280-the-line.json) |
 | The Line | 79742 | [79742-the-line.json](./79742-the-line.json) |
+| The Line Game | 262018 | [262018-the-line-game.json](./262018-the-line-game.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Line Zen | 295977 | [295977-the-line-zen.json](./295977-the-line-zen.json) |
@@ -14549,6 +14552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
 | The Man in the Hat.- | 321080 | [321080-the-man-in-the-hat.json](./321080-the-man-in-the-hat.json) |
 | The Man in the Park | 239533 | [239533-the-man-in-the-park.json](./239533-the-man-in-the-park.json) |
+| The Man in the Park 2 | 261489 | [261489-the-man-in-the-park-2.json](./261489-the-man-in-the-park-2.json) |
 | The Man Man | 281824 | [281824-the-man-man.json](./281824-the-man-man.json) |
 | The Man of My Dreams | 377954 | [377954-the-man-of-my-dreams.json](./377954-the-man-of-my-dreams.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
@@ -15530,6 +15534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oil Blue | 34861 | [34861-the-oil-blue.json](./34861-the-oil-blue.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
+| The Old Bean Factory | 261499 | [261499-the-old-bean-factory.json](./261499-the-old-bean-factory.json) |
 | The Old City: Leviathan | 14437 | [14437-the-old-city-leviathan.json](./14437-the-old-city-leviathan.json) |
 | The Old Flesh of Nuraga | 400555 | [400555-the-old-flesh-of-nuraga.json](./400555-the-old-flesh-of-nuraga.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
@@ -35422,6 +35427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
 | Twelve Chairs | 94370 | [94370-twelve-chairs.json](./94370-twelve-chairs.json) |
 | Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
+| Twelve Easy Pieces | 261485 | [261485-twelve-easy-pieces.json](./261485-twelve-easy-pieces.json) |
 | Twelve Floors Below. | 173348 | [173348-twelve-floors-below.json](./173348-twelve-floors-below.json) |
 | Twelve Men Life Simulator | 391903 | [391903-twelve-men-life-simulator.json](./391903-twelve-men-life-simulator.json) |
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
