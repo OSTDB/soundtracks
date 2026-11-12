@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Delivery | 140724 | [140724-late-night-delivery.json](./140724-late-night-delivery.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
+| Late Night Drive | 251869 | [251869-late-night-drive.json](./251869-late-night-drive.json) |
 | Late Night Duty | 388689 | [388689-late-night-duty.json](./388689-late-night-duty.json) |
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Leaf | 131923 | [131923-leap-of-leaf.json](./131923-leap-of-leaf.json) |
+| Leap of Legends | 251796 | [251796-leap-of-legends.json](./251796-leap-of-legends.json) |
 | Leap of Love | 149436 | [149436-leap-of-love.json](./149436-leap-of-love.json) |
 | Leap of Love: Dark Princesses | 273587 | [273587-leap-of-love-dark-princesses.json](./273587-leap-of-love-dark-princesses.json) |
 | Leap of Love: Safe Edition | 171450 | [171450-leap-of-love-safe-edition.json](./171450-leap-of-love-safe-edition.json) |
