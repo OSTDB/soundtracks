@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagareochiru Shirabe ni Nosete | 376770 | [376770-nagareochiru-shirabe-ni-nosete.json](./376770-nagareochiru-shirabe-ni-nosete.json) |
 | Nagato - Ninja Flying and Fighting Jungle Wars | 97134 | [97134-nagato-ninja-flying-and-fighting-jungle-wars.json](./97134-nagato-ninja-flying-and-fighting-jungle-wars.json) |
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
+| Nage Libre: Rasen no Soukoku | 257604 | [257604-nage-libre-rasen-no-soukoku.json](./257604-nage-libre-rasen-no-soukoku.json) |
 | Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
 | Nagi no Koi | 304834 | [304834-nagi-no-koi.json](./304834-nagi-no-koi.json) |
 | Naginami and the Crimson Thread | 294917 | [294917-naginami-and-the-crimson-thread.json](./294917-naginami-and-the-crimson-thread.json) |
@@ -383,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
 | Nananana Tamago | 320798 | [320798-nananana-tamago.json](./320798-nananana-tamago.json) |
 | Nanashi no Game | 67979 | [67979-nanashi-no-game.json](./67979-nanashi-no-game.json) |
+| Nanashi Shoujo wa 100-satsu Hoshii! | 257584 | [257584-nanashi-shoujo-wa-100-satsu-hoshii.json](./257584-nanashi-shoujo-wa-100-satsu-hoshii.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
 | Nanatan | 295978 | [295978-nanatan.json](./295978-nanatan.json) |
 | Nanatsu Kaze no Shima Monogatari | 18493 | [18493-nanatsu-kaze-no-shima-monogatari.json](./18493-nanatsu-kaze-no-shima-monogatari.json) |
@@ -7604,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Left: Give Up | 268278 | [268278-nothing-left-give-up.json](./268278-nothing-left-give-up.json) |
+| Nothing Somewhere | 257591 | [257591-nothing-somewhere.json](./257591-nothing-somewhere.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
 | Nothing to be done | 154096 | [154096-nothing-to-be-done.json](./154096-nothing-to-be-done.json) |
 | Nothing to Declare | 225067 | [225067-nothing-to-declare.json](./225067-nothing-to-declare.json) |
