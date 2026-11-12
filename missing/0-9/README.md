@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
 | 100 Dogs in India | 325504 | [325504-100-dogs-in-india.json](./325504-100-dogs-in-india.json) |
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
+| 100 Doors Game: Dasshutsu Game | 252411 | [252411-100-doors-game-dasshutsu-game.json](./252411-100-doors-game-dasshutsu-game.json) |
 | 100 Doors Games: Escape from School | 154846 | [154846-100-doors-games-escape-from-school.json](./154846-100-doors-games-escape-from-school.json) |
 | 100 Doors Mystery Adventures | 252304 | [252304-100-doors-mystery-adventures.json](./252304-100-doors-mystery-adventures.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
@@ -1068,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1080p | 288397 | [288397-1080p.json](./288397-1080p.json) |
 | 109 Remastered | 173962 | [173962-109-remastered.json](./173962-109-remastered.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
+| 10Cube | 252423 | [252423-10cube.json](./252423-10cube.json) |
 | 10hit | 357179 | [357179-10hit.json](./357179-10hit.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
