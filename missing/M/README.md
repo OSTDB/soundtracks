@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
 | Mad Room No.3 | 333193 | [333193-mad-room-no-3.json](./333193-mad-room-no-3.json) |
 | Mad Runner | 215438 | [215438-mad-runner.json](./215438-mad-runner.json) |
+| Mad Sage | 271890 | [271890-mad-sage.json](./271890-mad-sage.json) |
 | Mad Scientist: Dr. Eureka | 24200 | [24200-mad-scientist-dr-eureka.json](./24200-mad-scientist-dr-eureka.json) |
 | Mad Shark | 322211 | [322211-mad-shark.json](./322211-mad-shark.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
@@ -21284,6 +21285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music On: Retro Keyboard | 85301 | [85301-music-on-retro-keyboard.json](./85301-music-on-retro-keyboard.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Plus | 214906 | [214906-music-plus.json](./214906-music-plus.json) |
+| Music Power Up | 271897 | [271897-music-power-up.json](./271897-music-power-up.json) |
 | Music Producer | 101403 | [101403-music-producer.json](./101403-music-producer.json) |
 | Music Producer Tycoon | 346908 | [346908-music-producer-tycoon.json](./346908-music-producer-tycoon.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
