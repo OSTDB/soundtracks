@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
 | Version -1: Where Love Lies | 325308 | [325308-version-1-where-love-lies.json](./325308-version-1-where-love-lies.json) |
+| Version Control | 260908 | [260908-version-control.json](./260908-version-control.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
 | Version Three: Invisible Raid | 258035 | [258035-version-three-invisible-raid.json](./258035-version-three-invisible-raid.json) |
 | Verso | 177803 | [177803-verso.json](./177803-verso.json) |
