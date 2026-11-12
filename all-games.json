@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T00:36:32.435Z",
-  "total_soundtracks": 3215,
+  "generated_at": "2026-11-12T00:41:02.745Z",
+  "total_soundtracks": 3218,
   "games": [
     {
       "igdb_id": 7522,
@@ -4046,6 +4046,20 @@
           "album_name": "Biomutant (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2LD9tt2gdlML2es5XZH2x4",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 203909,
+      "game_name": "Bionic Bay",
+      "game_url": "https://ostdb.net/games/bionic-bay",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739941e18e9265aff0f762d180",
+      "albums": [
+        {
+          "album_name": "Bionic Bay (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1JxExZYB3zJihobKeWE0K9",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -22029,6 +22043,20 @@
       ]
     },
     {
+      "igdb_id": 175965,
+      "game_name": "Monument Valley: Forgotten Shores",
+      "game_url": "https://ostdb.net/games/monument-valley-forgotten-shores",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273658f231a27702db138f4ff2d",
+      "albums": [
+        {
+          "album_name": "Monument Valley: Forgotten Shores (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1dKwykVXwQ59ehjUxFKRRw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 196935,
       "game_name": "Moon Mystery",
       "game_url": "https://ostdb.net/games/moon-mystery",
@@ -32855,6 +32883,20 @@
         {
           "album_name": "Super Crush KO Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4qDDOfZ6k9dVS2DbH2Bi92",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21994,
+      "game_name": "Super Daryl Deluxe",
+      "game_url": "https://ostdb.net/games/super-daryl-deluxe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f4fd9b90feeb983764564ca9",
+      "albums": [
+        {
+          "album_name": "Super Daryl (Deluxe Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0G13vMzXwBszmV3UchDeDS",
           "apple_music_url": "",
           "album_link_url": ""
         }
