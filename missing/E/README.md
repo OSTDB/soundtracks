@@ -6065,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Testing Facility | 337659 | [337659-escape-the-testing-facility.json](./337659-escape-the-testing-facility.json) |
 | Escape the Tower | 331283 | [331283-escape-the-tower.json](./331283-escape-the-tower.json) |
+| Escape the Traps | 293814 | [293814-escape-the-traps.json](./293814-escape-the-traps.json) |
 | Escape the Underground | 155912 | [155912-escape-the-underground.json](./155912-escape-the-underground.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Unknown: Awaken the Realm | 243856 | [243856-escape-the-unknown-awaken-the-realm.json](./243856-escape-the-unknown-awaken-the-realm.json) |
@@ -7769,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil School | 410052 | [410052-evil-school.json](./410052-evil-school.json) |
 | Evil Seal | 46449 | [46449-evil-seal.json](./46449-evil-seal.json) |
 | Evil Shogun | 158386 | [158386-evil-shogun.json](./158386-evil-shogun.json) |
+| Evil Sinister | 293811 | [293811-evil-sinister.json](./293811-evil-sinister.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirit Hunter | 409413 | [409413-evil-spirit-hunter.json](./409413-evil-spirit-hunter.json) |
@@ -7892,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Adventure | 332796 | [332796-evolution-adventure.json](./332796-evolution-adventure.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
+| Evolution Board Game: Flight Expansion | 293827 | [293827-evolution-board-game-flight-expansion.json](./293827-evolution-board-game-flight-expansion.json) |
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
 | Evolution for Beginners | 143928 | [143928-evolution-for-beginners.json](./143928-evolution-for-beginners.json) |
 | Evolution Galaxy | 267234 | [267234-evolution-galaxy.json](./267234-evolution-galaxy.json) |
