@@ -8935,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rizzoli and Isles: The Masterpiece Murders | 57369 | [57369-rizzoli-and-isles-the-masterpiece-murders.json](./57369-rizzoli-and-isles-the-masterpiece-murders.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
 | RKN - Roskomnadzor banned the Internet | 100596 | [100596-rkn-roskomnadzor-banned-the-internet.json](./100596-rkn-roskomnadzor-banned-the-internet.json) |
+| RKN Block Me: Telegram | 292740 | [292740-rkn-block-me-telegram.json](./292740-rkn-block-me-telegram.json) |
 | RKN Simulator | 326364 | [326364-rkn-simulator.json](./326364-rkn-simulator.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
@@ -9879,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock A Bye | 270925 | [270925-rock-a-bye.json](./270925-rock-a-bye.json) |
+| Rock and Girls | 292708 | [292708-rock-and-girls.json](./292708-rock-and-girls.json) |
 | Rock and Roll Jeopardy! | 78874 | [78874-rock-and-roll-jeopardy.json](./78874-rock-and-roll-jeopardy.json) |
 | Rock and Stone | 368718 | [368718-rock-and-stone.json](./368718-rock-and-stone.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
