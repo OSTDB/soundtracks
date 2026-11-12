@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Deluxe Edition | 291677 | [291677-sea-of-thieves-2024-deluxe-edition.json](./291677-sea-of-thieves-2024-deluxe-edition.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
+| Sea of Thieves: 2024 Premium Edition | 291674 | [291674-sea-of-thieves-2024-premium-edition.json](./291674-sea-of-thieves-2024-premium-edition.json) |
 | Sea of Thieves: 2025 Deluxe Edition | 336884 | [336884-sea-of-thieves-2025-deluxe-edition.json](./336884-sea-of-thieves-2025-deluxe-edition.json) |
 | Sea of Thieves: 2025 Premium Edition | 336883 | [336883-sea-of-thieves-2025-premium-edition.json](./336883-sea-of-thieves-2025-premium-edition.json) |
 | Sea of Thieves: A Pirate's Life | 152294 | [152294-sea-of-thieves-a-pirates-life.json](./152294-sea-of-thieves-a-pirates-life.json) |
@@ -4602,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of Galaxy | 192006 | [192006-search-of-galaxy.json](./192006-search-of-galaxy.json) |
+| Search of the Source | 292183 | [292183-search-of-the-source.json](./292183-search-of-the-source.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party | 120489 | [120489-search-party.json](./120489-search-party.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
@@ -5075,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 86 | 413152 | [413152-sector-86.json](./413152-sector-86.json) |
 | Sector 88 | 402882 | [402882-sector-88.json](./402882-sector-88.json) |
 | Sector 92 | 393873 | [393873-sector-92.json](./393873-sector-92.json) |
+| Sector 98 | 291656 | [291656-sector-98.json](./291656-sector-98.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
@@ -8022,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardpunk 2 | 378128 | [378128-shardpunk-2.json](./378128-shardpunk-2.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards | 225429 | [225429-shards.json](./225429-shards.json) |
+| Shards Between Us | 292213 | [292213-shards-between-us.json](./292213-shards-between-us.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
 | Shards of Chaos | 187729 | [187729-shards-of-chaos.json](./187729-shards-of-chaos.json) |
 | Shards of Dread | 342526 | [342526-shards-of-dread.json](./342526-shards-of-dread.json) |
@@ -12490,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Siralim Ultimate | 133050 | [133050-siralim-ultimate.json](./133050-siralim-ultimate.json) |
 | Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
+| Sire | 292174 | [292174-sire.json](./292174-sire.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren | 319989 | [319989-siren.json](./319989-siren.json) |
@@ -14210,6 +14215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | SlaytheCube Remake | 133898 | [133898-slaythecube-remake.json](./133898-slaythecube-remake.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
+| Sled Builders | 292209 | [292209-sled-builders.json](./292209-sled-builders.json) |
 | Sled Mayhem | 197998 | [197998-sled-mayhem.json](./197998-sled-mayhem.json) |
 | Sled Racer | 200378 | [200378-sled-racer.json](./200378-sled-racer.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
@@ -18303,6 +18309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of a Spirit | 120465 | [120465-song-of-a-spirit.json](./120465-song-of-a-spirit.json) |
 | Song of Asirra | 140800 | [140800-song-of-asirra.json](./140800-song-of-asirra.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
+| Song of Eriel | 292208 | [292208-song-of-eriel.json](./292208-song-of-eriel.json) |
 | Song of Farca | 145773 | [145773-song-of-farca.json](./145773-song-of-farca.json) |
 | Song of Feathers | 337579 | [337579-song-of-feathers.json](./337579-song-of-feathers.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
@@ -24087,6 +24094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spogs Racing | 21048 | [21048-spogs-racing.json](./21048-spogs-racing.json) |
 | Spoids | 29512 | [29512-spoids.json](./29512-spoids.json) |
 | Spoiler Alert | 20097 | [20097-spoiler-alert.json](./20097-spoiler-alert.json) |
+| Spoils of a Starfighter | 291730 | [291730-spoils-of-a-starfighter.json](./291730-spoils-of-a-starfighter.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spoils of War | 257768 | [257768-spoils-of-war.json](./257768-spoils-of-war.json) |
 | Spoils of War | 93109 | [93109-spoils-of-war.json](./93109-spoils-of-war.json) |
@@ -31349,6 +31357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion | 79125 | [79125-subversion.json](./79125-subversion.json) |
 | Subversion: The Official Incoming Expansion Pack | 84326 | [84326-subversion-the-official-incoming-expansion-pack.json](./84326-subversion-the-official-incoming-expansion-pack.json) |
+| Subversive Memories | 292206 | [292206-subversive-memories.json](./292206-subversive-memories.json) |
 | Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
 | Subvirtual | 323444 | [323444-subvirtual.json](./323444-subvirtual.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
@@ -31396,6 +31405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subzero Tides | 275712 | [275712-subzero-tides.json](./275712-subzero-tides.json) |
 | Success in Progress | 346679 | [346679-success-in-progress.json](./346679-success-in-progress.json) |
 | Success Story | 70893 | [70893-success-story.json](./70893-success-story.json) |
+| Successful business | 292211 | [292211-successful-business.json](./292211-successful-business.json) |
 | Successfully Learning English: Year 2 | 85397 | [85397-successfully-learning-english-year-2.json](./85397-successfully-learning-english-year-2.json) |
 | Successfully Learning English: Year 3 | 85396 | [85396-successfully-learning-english-year-3.json](./85396-successfully-learning-english-year-3.json) |
 | Successfully Learning English: Year 4 | 85395 | [85395-successfully-learning-english-year-4.json](./85395-successfully-learning-english-year-4.json) |
@@ -37164,6 +37174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
 | Sushi Rush | 200844 | [200844-sushi-rush.json](./200844-sushi-rush.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
+| Sushi Shot Online | 291655 | [291655-sushi-shot-online.json](./291655-sushi-shot-online.json) |
 | Sushi Simulator | 389924 | [389924-sushi-simulator.json](./389924-sushi-simulator.json) |
 | Sushi Slammers | 149254 | [149254-sushi-slammers.json](./149254-sushi-slammers.json) |
 | Sushi Slayer | 420939 | [420939-sushi-slayer.json](./420939-sushi-slayer.json) |
