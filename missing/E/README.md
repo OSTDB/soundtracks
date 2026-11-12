@@ -504,7 +504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim PSP | 140104 | [140104-earthworm-jim-psp.json](./140104-earthworm-jim-psp.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
-| EarthWorms | 51952 | [51952-earthworms.json](./51952-earthworms.json) |
 | EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Earwyrm | 233189 | [233189-earwyrm.json](./233189-earwyrm.json) |
@@ -772,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Secrets: Date Night | 308847 | [308847-ecchi-secrets-date-night.json](./308847-ecchi-secrets-date-night.json) |
 | Ecchi Secrets: Futuristic Dream | 308845 | [308845-ecchi-secrets-futuristic-dream.json](./308845-ecchi-secrets-futuristic-dream.json) |
 | Ecchi Secrets: Futuristic Edition | 324379 | [324379-ecchi-secrets-futuristic-edition.json](./324379-ecchi-secrets-futuristic-edition.json) |
+| Ecchi Secrets: Moist Edition | 315880 | [315880-ecchi-secrets-moist-edition.json](./315880-ecchi-secrets-moist-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Secrets: Steamy Class | 308844 | [308844-ecchi-secrets-steamy-class.json](./308844-ecchi-secrets-steamy-class.json) |
 | Ecchi Secrets: Wet & Wild Edition | 404276 | [404276-ecchi-secrets-wet-and-wild-edition.json](./404276-ecchi-secrets-wet-and-wild-edition.json) |
@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Sky | 379326 | [379326-ecchi-sky.json](./379326-ecchi-sky.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
 | Ecchi Time: Mia | 308848 | [308848-ecchi-time-mia.json](./308848-ecchi-time-mia.json) |
+| Ecchi Time: Mia Edition | 315879 | [315879-ecchi-time-mia-edition.json](./315879-ecchi-time-mia-edition.json) |
 | Ecchi Time: Nadia | 308849 | [308849-ecchi-time-nadia.json](./308849-ecchi-time-nadia.json) |
 | Ecchi Time: Roxi | 308850 | [308850-ecchi-time-roxi.json](./308850-ecchi-time-roxi.json) |
 | Ecchi Time: Samanta | 308851 | [308851-ecchi-time-samanta.json](./308851-ecchi-time-samanta.json) |
@@ -6192,7 +6193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eseal: Reject, Reclaim, Redeem | 372639 | [372639-eseal-reject-reclaim-redeem.json](./372639-eseal-reject-reclaim-redeem.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | Eseapner | 75614 | [75614-eseapner.json](./75614-eseapner.json) |
-| Eselmir and the Five Magical Gifts | 52067 | [52067-eselmir-and-the-five-magical-gifts.json](./52067-eselmir-and-the-five-magical-gifts.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
 | Esh's Aurunmilla | 39978 | [39978-eshs-aurunmilla.json](./39978-eshs-aurunmilla.json) |
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
@@ -7265,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everblade | 192806 | [192806-everblade.json](./192806-everblade.json) |
 | Everblood Arena | 167479 | [167479-everblood-arena.json](./167479-everblood-arena.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
+| Everbloom | 315391 | [315391-everbloom.json](./315391-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
 | Everbrew | 371158 | [371158-everbrew.json](./371158-everbrew.json) |
