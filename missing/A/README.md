@@ -3573,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorables | 35342 | [35342-adorables.json](./35342-adorables.json) |
+| AdoraBullet | 270266 | [270266-adorabullet.json](./270266-adorabullet.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
 | Adore | 117843 | [117843-adore.json](./117843-adore.json) |
 | Adore Picture Difference: Long Distance Love | 102894 | [102894-adore-picture-difference-long-distance-love.json](./102894-adore-picture-difference-long-distance-love.json) |
@@ -11684,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly 404 | 384863 | [384863-anomaly-404.json](./384863-anomaly-404.json) |
 | Anomaly Archives | 420936 | [420936-anomaly-archives.json](./420936-anomaly-archives.json) |
 | Anomaly Bus | 344866 | [344866-anomaly-bus.json](./344866-anomaly-bus.json) |
+| Anomaly Collapse | 270344 | [270344-anomaly-collapse.json](./270344-anomaly-collapse.json) |
 | Anomaly Collapse: Special Correspondent Constan | 353602 | [353602-anomaly-collapse-special-correspondent-constan.json](./353602-anomaly-collapse-special-correspondent-constan.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
@@ -14636,6 +14638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Drift Master | 192212 | [192212-arena-drift-master.json](./192212-arena-drift-master.json) |
 | Arena Experiment | 158354 | [158354-arena-experiment.json](./158354-arena-experiment.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
+| Arena Football '95 | 270269 | [270269-arena-football-95.json](./270269-arena-football-95.json) |
 | Arena Football: Road to Glory | 17276 | [17276-arena-football-road-to-glory.json](./17276-arena-football-road-to-glory.json) |
 | Arena Gods | 34267 | [34267-arena-gods.json](./34267-arena-gods.json) |
 | Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
