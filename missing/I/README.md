@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ijimerarekko ni Happy End ha Odozureru no ka | 376619 | [376619-ijimerarekko-ni-happy-end-ha-odozureru-no-ka.json](./376619-ijimerarekko-ni-happy-end-ha-odozureru-no-ka.json) |
 | Ijitte! Otouto | 97764 | [97764-ijitte-otouto.json](./97764-ijitte-otouto.json) |
 | Ijiwaru IQ Test | 278202 | [278202-ijiwaru-iq-test.json](./278202-ijiwaru-iq-test.json) |
+| Ijuu: First Escape | 288421 | [288421-ijuu-first-escape.json](./288421-ijuu-first-escape.json) |
 | Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
@@ -4852,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insecters War | 286434 | [286434-insecters-war.json](./286434-insecters-war.json) |
 | Insecticide | 10436 | [10436-insecticide.json](./10436-insecticide.json) |
 | Insecticide Part 1 | 29118 | [29118-insecticide-part-1.json](./29118-insecticide-part-1.json) |
+| Insecticide Troopers: Star Zerg | 288415 | [288415-insecticide-troopers-star-zerg.json](./288415-insecticide-troopers-star-zerg.json) |
 | Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
 | Insectoid | 25010 | [25010-insectoid.json](./25010-insectoid.json) |
@@ -6793,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Tribe HD | 24194 | [24194-island-tribe-hd.json](./24194-island-tribe-hd.json) |
 | Island Tribe! | 180118 | [180118-island-tribe.json](./180118-island-tribe.json) |
 | Island Trouble | 330466 | [330466-island-trouble.json](./330466-island-trouble.json) |
+| Island Uncanny Story | 288423 | [288423-island-uncanny-story.json](./288423-island-uncanny-story.json) |
 | Island Wars 2 | 69619 | [69619-island-wars-2.json](./69619-island-wars-2.json) |
 | Island World | 163883 | [163883-island-world.json](./163883-island-world.json) |
 | Island World | 193069 | [193069-island-world.json](./193069-island-world.json) |
