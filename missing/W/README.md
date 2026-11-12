@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
 | War Hospital | 145074 | [145074-war-hospital.json](./145074-war-hospital.json) |
 | War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
+| War Hospital: X-ray | 286157 | [286157-war-hospital-x-ray.json](./286157-war-hospital-x-ray.json) |
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War in a Box: Paper Tanks | 17563 | [17563-war-in-a-box-paper-tanks.json](./17563-war-in-a-box-paper-tanks.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekend Hentai | 298620 | [298620-weekend-hentai.json](./298620-weekend-hentai.json) |
 | Weekend in Waimanalo | 301221 | [301221-weekend-in-waimanalo.json](./301221-weekend-in-waimanalo.json) |
 | Weekend Renters | 415466 | [415466-weekend-renters.json](./415466-weekend-renters.json) |
+| Weekend Romance | 286170 | [286170-weekend-romance.json](./286170-weekend-romance.json) |
 | Weekend Solitaire: Airplanes | 388887 | [388887-weekend-solitaire-airplanes.json](./388887-weekend-solitaire-airplanes.json) |
 | Weekend Solitaire: Grace in Motion | 416081 | [416081-weekend-solitaire-grace-in-motion.json](./416081-weekend-solitaire-grace-in-motion.json) |
 | Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants To Be A Millionaire?: Complete Edition | 324358 | [324358-who-wants-to-be-a-millionaire-complete-edition.json](./324358-who-wants-to-be-a-millionaire-complete-edition.json) |
 | Who Wants to Be a Millionaire?: Deluxe Upgrade | 318868 | [318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json](./318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json) |
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
+| Who Wants To Be A Millionaire?: Space Conquest | 286166 | [286166-who-wants-to-be-a-millionaire-space-conquest.json](./286166-who-wants-to-be-a-millionaire-space-conquest.json) |
 | Who Wants To Be A Millionaire?: Tintin Pack | 296250 | [296250-who-wants-to-be-a-millionaire-tintin-pack.json](./296250-who-wants-to-be-a-millionaire-tintin-pack.json) |
 | Who Wants to Be a Millionaire?: Trivia Bundle | 305616 | [305616-who-wants-to-be-a-millionaire-trivia-bundle.json](./305616-who-wants-to-be-a-millionaire-trivia-bundle.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
