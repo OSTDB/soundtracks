@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Biography 2: Confidante | 224302 | [224302-fairy-biography-2-confidante.json](./224302-fairy-biography-2-confidante.json) |
 | Fairy Biography 3: Obsession | 235542 | [235542-fairy-biography-3-obsession.json](./235542-fairy-biography-3-obsession.json) |
 | Fairy Biography 5: Demon | 285609 | [285609-fairy-biography-5-demon.json](./285609-fairy-biography-5-demon.json) |
+| Fairy Biography 6: Revenge | 298475 | [298475-fairy-biography-6-revenge.json](./298475-fairy-biography-6-revenge.json) |
 | Fairy Bloom | 281283 | [281283-fairy-bloom.json](./281283-fairy-bloom.json) |
 | Fairy Bloom Freesia | 10296 | [10296-fairy-bloom-freesia.json](./10296-fairy-bloom-freesia.json) |
 | Fairy Bloom Ultra Encore | 22784 | [22784-fairy-bloom-ultra-encore.json](./22784-fairy-bloom-ultra-encore.json) |
@@ -1144,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
 | Fallen Legion: Rise to Glory / Fallen Legion Revenants - Deluxe Edition | 197611 | [197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json](./197611-fallen-legion-rise-to-glory-fallen-legion-revenants-deluxe-edition.json) |
 | Fallen Legion: Sins of an Empire | 19617 | [19617-fallen-legion-sins-of-an-empire.json](./19617-fallen-legion-sins-of-an-empire.json) |
+| Fallen Light | 297956 | [297956-fallen-light.json](./297956-fallen-light.json) |
 | Fallen Lights | 310695 | [310695-fallen-lights.json](./310695-fallen-lights.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Columbidaean Commotion | 217802 | [217802-fallen-london-a-columbidaean-commotion.json](./217802-fallen-london-a-columbidaean-commotion.json) |
@@ -1275,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Worlds | 199749 | [199749-fallen-worlds.json](./199749-fallen-worlds.json) |
 | Fallen, the last light | 164267 | [164267-fallen-the-last-light.json](./164267-fallen-the-last-light.json) |
 | Fallen: A2P Protocol | 17890 | [17890-fallen-a2p-protocol.json](./17890-fallen-a2p-protocol.json) |
+| Fallen: Fatal Force | 298476 | [298476-fallen-fatal-force.json](./298476-fallen-fatal-force.json) |
 | Fallen: Into the Darkness | 326182 | [326182-fallen-into-the-darkness.json](./326182-fallen-into-the-darkness.json) |
 | Fallen: Makina and the City of Ruins | 86299 | [86299-fallen-makina-and-the-city-of-ruins.json](./86299-fallen-makina-and-the-city-of-ruins.json) |
 | Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
@@ -2215,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
 | Fantasy Quest Solitaire | 80984 | [80984-fantasy-quest-solitaire.json](./80984-fantasy-quest-solitaire.json) |
+| Fantasy Quest: Errandsaga | 298477 | [298477-fantasy-quest-errandsaga.json](./298477-fantasy-quest-errandsaga.json) |
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
 | Fantasy Realm Online | 62401 | [62401-fantasy-realm-online.json](./62401-fantasy-realm-online.json) |
 | Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
@@ -2795,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
 | Farmer's Life | 121882 | [121882-farmers-life.json](./121882-farmers-life.json) |
+| Farmer's Life: Pimp my Cottage | 298491 | [298491-farmers-life-pimp-my-cottage.json](./298491-farmers-life-pimp-my-cottage.json) |
 | Farmer's Loop | 335203 | [335203-farmers-loop.json](./335203-farmers-loop.json) |
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmer's Shop Simulator | 302835 | [302835-farmers-shop-simulator.json](./302835-farmers-shop-simulator.json) |
@@ -3496,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
 | Fate/Pixel Wars | 196533 | [196533-fate-pixel-wars.json](./196533-fate-pixel-wars.json) |
 | Fate/Samurai Remnant: Additional Episode 1 - Record's Fragment: Keian Command Championship | 286213 | [286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json](./286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json) |
+| Fate/Samurai Remnant: Additional Episode 2 - Record's Fragment: Yagyu Sword Chronicles | 298493 | [298493-fate-samurai-remnant-additional-episode-2-records-fragment-yagyu-sword-chronicles.json](./298493-fate-samurai-remnant-additional-episode-2-records-fragment-yagyu-sword-chronicles.json) |
 | Fate/Samurai Remnant: Additional Episode 3 - Record's Fragment: Bailong and the Crimson Demon | 306712 | [306712-fate-samurai-remnant-additional-episode-3-records-fragment-bailong-and-the-crimson-demon.json](./306712-fate-samurai-remnant-additional-episode-3-records-fragment-bailong-and-the-crimson-demon.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
@@ -4523,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Glory: Kingdoms | 200987 | [200987-field-of-glory-kingdoms.json](./200987-field-of-glory-kingdoms.json) |
+| Field of Growth: A Farmer's Odyssey | 297957 | [297957-field-of-growth-a-farmers-odyssey.json](./297957-field-of-growth-a-farmers-odyssey.json) |
 | Field of Heroes | 394074 | [394074-field-of-heroes.json](./394074-field-of-heroes.json) |
 | Field of Honour | 268305 | [268305-field-of-honour.json](./268305-field-of-honour.json) |
 | Field of Nine: Digital Edition 2001 | 49576 | [49576-field-of-nine-digital-edition-2001.json](./49576-field-of-nine-digital-edition-2001.json) |
@@ -5038,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figment | 20329 | [20329-figment.json](./20329-figment.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
 | Figment 1 + Figment 2: Collector's Edition | 287047 | [287047-figment-1-figment-2-collectors-edition.json](./287047-figment-1-figment-2-collectors-edition.json) |
+| Figments | 298355 | [298355-figments.json](./298355-figments.json) |
 | Figments of the Night | 338694 | [338694-figments-of-the-night.json](./338694-figments-of-the-night.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
@@ -8565,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | Flipping is Hard | 351111 | [351111-flipping-is-hard.json](./351111-flipping-is-hard.json) |
 | Flipping Legend | 36799 | [36799-flipping-legend.json](./36799-flipping-legend.json) |
+| Flipping Legend DX | 297958 | [297958-flipping-legend-dx.json](./297958-flipping-legend-dx.json) |
 | Flipping Phantom | 358861 | [358861-flipping-phantom.json](./358861-flipping-phantom.json) |
 | Flipping Two Minutes | 267358 | [267358-flipping-two-minutes.json](./267358-flipping-two-minutes.json) |
 | FlipPix Art - Ages | 91061 | [91061-flippix-art-ages.json](./91061-flippix-art-ages.json) |
@@ -8747,6 +8756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floops Big House Adventure | 295829 | [295829-floops-big-house-adventure.json](./295829-floops-big-house-adventure.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
 | Floor 0 | 334727 | [334727-floor-0.json](./334727-floor-0.json) |
+| Floor 10 | 297959 | [297959-floor-10.json](./297959-floor-10.json) |
 | Floor 10 Anomaly | 302779 | [302779-floor-10-anomaly.json](./302779-floor-10-anomaly.json) |
 | Floor 100 | 155677 | [155677-floor-100.json](./155677-floor-100.json) |
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
@@ -10426,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Destiny | 298974 | [298974-forest-of-destiny.json](./298974-forest-of-destiny.json) |
 | Forest of Drizzling Rain | 124466 | [124466-forest-of-drizzling-rain.json](./124466-forest-of-drizzling-rain.json) |
 | Forest of Elf | 122057 | [122057-forest-of-elf.json](./122057-forest-of-elf.json) |
+| Forest of Fear | 298478 | [298478-forest-of-fear.json](./298478-forest-of-fear.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
 | Forest of Perdition | 286024 | [286024-forest-of-perdition.json](./286024-forest-of-perdition.json) |
@@ -11527,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport and Forza Horizon 5: Premium Add-Ons Bundle | 277655 | [277655-forza-motorsport-and-forza-horizon-5-premium-add-ons-bundle.json](./277655-forza-motorsport-and-forza-horizon-5-premium-add-ons-bundle.json) |
 | Forza Motorsport: 1966 Lotus Type 35 | 293888 | [293888-forza-motorsport-1966-lotus-type-35.json](./293888-forza-motorsport-1966-lotus-type-35.json) |
 | Forza Motorsport: 1969 Chevrolet Camaro Jordan Luka 3 | 314390 | [314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json](./314390-forza-motorsport-1969-chevrolet-camaro-jordan-luka-3.json) |
+| Forza Motorsport: 1970 Matra-Simca #146 Equipe Matra-Simca MS650 Tour de France | 298492 | [298492-forza-motorsport-1970-matra-simca-146-equipe-matra-simca-ms650-tour-de-france.json](./298492-forza-motorsport-1970-matra-simca-146-equipe-matra-simca-ms650-tour-de-france.json) |
 | Forza Motorsport: 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette | 295480 | [295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json](./295480-forza-motorsport-1983-nissan-23-nissan-motorsports-silvia-super-silhouette.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
 | Forza Motorsport: 1986 Lotus #12 Team Lotus 98T | 295477 | [295477-forza-motorsport-1986-lotus-12-team-lotus-98t.json](./295477-forza-motorsport-1986-lotus-12-team-lotus-98t.json) |
