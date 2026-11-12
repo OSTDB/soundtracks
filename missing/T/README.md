@@ -3411,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoccult: Covenant | 153764 | [153764-technoccult-covenant.json](./153764-technoccult-covenant.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | TechnoClash | 4535 | [4535-technoclash.json](./4535-technoclash.json) |
+| Technofumer | 290588 | [290588-technofumer.json](./290588-technofumer.json) |
 | Technojuice | 126213 | [126213-technojuice.json](./126213-technojuice.json) |
 | Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
@@ -5004,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrors | 37475 | [37475-terrors.json](./37475-terrors.json) |
 | Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
 | Terrors Of North: Finnish Cabin | 321841 | [321841-terrors-of-north-finnish-cabin.json](./321841-terrors-of-north-finnish-cabin.json) |
+| Terrors of War | 290575 | [290575-terrors-of-war.json](./290575-terrors-of-war.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terrors to Unveil: Last Trace | 383708 | [383708-terrors-to-unveil-last-trace.json](./383708-terrors-to-unveil-last-trace.json) |
@@ -5618,6 +5620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time My School Was Invaded by Dimensional Snakes and Now I'm Bound to a Multiverse Protector! | 401267 | [401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json](./401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json) |
 | That Tiny Spaceship | 102351 | [102351-that-tiny-spaceship.json](./102351-that-tiny-spaceship.json) |
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
+| That Way! | 290573 | [290573-that-way.json](./290573-that-way.json) |
 | That Which Binds Us | 102981 | [102981-that-which-binds-us.json](./102981-that-which-binds-us.json) |
 | That Which Faith Demands | 153793 | [153793-that-which-faith-demands.json](./153793-that-which-faith-demands.json) |
 | That Which Gave Chase | 191308 | [191308-that-which-gave-chase.json](./191308-that-which-gave-chase.json) |
