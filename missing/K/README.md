@@ -6395,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kube | 212976 | [212976-kube.json](./212976-kube.json) |
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
 | KubeBird | 185918 | [185918-kubebird.json](./185918-kubebird.json) |
+| Kubes | 252418 | [252418-kubes.json](./252418-kubes.json) |
 | Kubes | 67633 | [67633-kubes.json](./67633-kubes.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
