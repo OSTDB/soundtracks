@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Breakers: Automation Pack | 171032 | [171032-incremental-epic-breakers-automation-pack.json](./171032-incremental-epic-breakers-automation-pack.json) |
 | Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
+| Incremental Factory | 254808 | [254808-incremental-factory.json](./254808-incremental-factory.json) |
 | Incremental Infinity | 390249 | [390249-incremental-infinity.json](./390249-incremental-infinity.json) |
 | Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
 | Incremental Mass Rewritten | 309187 | [309187-incremental-mass-rewritten.json](./309187-incremental-mass-rewritten.json) |
@@ -4036,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltraliens | 186982 | [186982-infiltraliens.json](./186982-infiltraliens.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltrate & Extract | 312781 | [312781-infiltrate-and-extract.json](./312781-infiltrate-and-extract.json) |
+| Infiltrating a Cult | 255924 | [255924-infiltrating-a-cult.json](./255924-infiltrating-a-cult.json) |
 | Infiltrating a Cult: Additional All-Ages Story & Graphics DLC | 256045 | [256045-infiltrating-a-cult-additional-all-ages-story-and-graphics-dlc.json](./256045-infiltrating-a-cult-additional-all-ages-story-and-graphics-dlc.json) |
 | Infiltrating Roudille | 403065 | [403065-infiltrating-roudille.json](./403065-infiltrating-roudille.json) |
 | Infiltrating Sam's Club | 278442 | [278442-infiltrating-sams-club.json](./278442-infiltrating-sams-club.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Prison | 210531 | [210531-infinite-prison.json](./210531-infinite-prison.json) |
 | Infinite Progression | 190381 | [190381-infinite-progression.json](./190381-infinite-progression.json) |
 | Infinite Rails | 341032 | [341032-infinite-rails.json](./341032-infinite-rails.json) |
+| Infinite Random Defense | 255932 | [255932-infinite-random-defense.json](./255932-infinite-random-defense.json) |
 | Infinite Rave | 112467 | [112467-infinite-rave.json](./112467-infinite-rave.json) |
 | Infinite Realms | 261771 | [261771-infinite-realms.json](./261771-infinite-realms.json) |
 | Infinite Realms | 61705 | [61705-infinite-realms.json](./61705-infinite-realms.json) |
@@ -6017,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
 | Invicta Beam | 27965 | [27965-invicta-beam.json](./27965-invicta-beam.json) |
+| Invicta: The Next Queen | 255928 | [255928-invicta-the-next-queen.json](./255928-invicta-the-next-queen.json) |
 | Invictus | 124489 | [124489-invictus.json](./124489-invictus.json) |
 | Invictus: In the Shadow of Olympus | 24126 | [24126-invictus-in-the-shadow-of-olympus.json](./24126-invictus-in-the-shadow-of-olympus.json) |
 | Invincible Big Cat | 275382 | [275382-invincible-big-cat.json](./275382-invincible-big-cat.json) |
