@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Control Machine | 391429 | [391429-ultimate-control-machine.json](./391429-ultimate-control-machine.json) |
 | Ultimate Crab Battle | 388102 | [388102-ultimate-crab-battle.json](./388102-ultimate-crab-battle.json) |
 | Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
+| Ultimate Custom Night | 265919 | [265919-ultimate-custom-night.json](./265919-ultimate-custom-night.json) |
 | Ultimate Custom Night Demo | 230990 | [230990-ultimate-custom-night-demo.json](./230990-ultimate-custom-night-demo.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
 | Ultimate Custom Night: Deluxe | 351399 | [351399-ultimate-custom-night-deluxe.json](./351399-ultimate-custom-night-deluxe.json) |
