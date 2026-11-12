@@ -6972,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nono Paint | 378367 | [378367-nono-paint.json](./378367-nono-paint.json) |
 | Nono Pixie | 175767 | [175767-nono-pixie.json](./175767-nono-pixie.json) |
 | Nono's magic general shop | 105686 | [105686-nonos-magic-general-shop.json](./105686-nonos-magic-general-shop.json) |
+| Nono's Quest | 288966 | [288966-nonos-quest.json](./288966-nonos-quest.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogos | 372624 | [372624-nonogos.json](./372624-nonogos.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
