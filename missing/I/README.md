@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Suo Volto Era Una Maschera Di Sangue | 375337 | [375337-il-suo-volto-era-una-maschera-di-sangue.json](./375337-il-suo-volto-era-una-maschera-di-sangue.json) |
 | IL-2 Sturmovik | 754 | [754-il-2-sturmovik.json](./754-il-2-sturmovik.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
+| IL-2 Sturmovik: Achtung Spitfire! Campaign | 285718 | [285718-il-2-sturmovik-achtung-spitfire-campaign.json](./285718-il-2-sturmovik-achtung-spitfire-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad | 17995 | [17995-il-2-sturmovik-battle-of-stalingrad.json](./17995-il-2-sturmovik-battle-of-stalingrad.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Bodenplatte | 139045 | [139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json](./139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Kuban | 170098 | [170098-il-2-sturmovik-battle-of-stalingrad-battle-of-kuban.json](./170098-il-2-sturmovik-battle-of-stalingrad-battle-of-kuban.json) |
