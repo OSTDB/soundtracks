@@ -16433,6 +16433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon War | 195978 | [195978-dragon-war.json](./195978-dragon-war.json) |
 | Dragon Warrior | 205229 | [205229-dragon-warrior.json](./205229-dragon-warrior.json) |
 | Dragon Warrior | 310252 | [310252-dragon-warrior.json](./310252-dragon-warrior.json) |
+| Dragon Warrior Girl | 288403 | [288403-dragon-warrior-girl.json](./288403-dragon-warrior-girl.json) |
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Warrior II | 205592 | [205592-dragon-warrior-ii.json](./205592-dragon-warrior-ii.json) |
@@ -17650,6 +17651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Clover Town | 188254 | [188254-dreamy-clover-town.json](./188254-dreamy-clover-town.json) |
 | Dreamy Days in West Tokyo | 238424 | [238424-dreamy-days-in-west-tokyo.json](./238424-dreamy-days-in-west-tokyo.json) |
+| Dreamy Duels: Tales of Heroes in Gensoukyo | 288410 | [288410-dreamy-duels-tales-of-heroes-in-gensoukyo.json](./288410-dreamy-duels-tales-of-heroes-in-gensoukyo.json) |
 | Dreamy Goat | 174618 | [174618-dreamy-goat.json](./174618-dreamy-goat.json) |
 | Dreamy Hill | 345694 | [345694-dreamy-hill.json](./345694-dreamy-hill.json) |
 | Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
