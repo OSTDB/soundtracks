@@ -4997,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Divide | 121359 | [121359-hells-divide.json](./121359-hells-divide.json) |
 | Hells Gate | 182683 | [182683-hells-gate.json](./182683-hells-gate.json) |
 | Hellscape | 196915 | [196915-hellscape.json](./196915-hellscape.json) |
+| Hellscape | 261501 | [261501-hellscape.json](./261501-hellscape.json) |
 | HellScape: Two Brothers | 128196 | [128196-hellscape-two-brothers.json](./128196-hellscape-two-brothers.json) |
 | Hellscaper | 394647 | [394647-hellscaper.json](./394647-hellscaper.json) |
 | Hellscreen | 89557 | [89557-hellscreen.json](./89557-hellscreen.json) |
@@ -9025,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitalick Challenge | 257576 | [257576-hitalick-challenge.json](./257576-hitalick-challenge.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
 | Hitboxer | 214418 | [214418-hitboxer.json](./214418-hitboxer.json) |
+| Hitchhike Wars | 261565 | [261565-hitchhike-wars.json](./261565-hitchhike-wars.json) |
 | Hitchhiker | 117408 | [117408-hitchhiker.json](./117408-hitchhiker.json) |
 | Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
@@ -10763,6 +10765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
 | HopStepHotspring | 289834 | [289834-hopstephotspring.json](./289834-hopstephotspring.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
+| Hoptix | 261575 | [261575-hoptix.json](./261575-hoptix.json) |
 | Hopwander | 290589 | [290589-hopwander.json](./290589-hopwander.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
