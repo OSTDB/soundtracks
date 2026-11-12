@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
 | Nature Hunter | 113917 | [113917-nature-hunter.json](./113917-nature-hunter.json) |
+| Nature is Hungry | 247137 | [247137-nature-is-hungry.json](./247137-nature-is-hungry.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
 | Nature Mahjong | 255921 | [255921-nature-mahjong.json](./255921-nature-mahjong.json) |
 | Nature Matters | 149299 | [149299-nature-matters.json](./149299-nature-matters.json) |
