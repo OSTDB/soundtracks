@@ -12368,6 +12368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
 | Sink the Fish | 282539 | [282539-sink-the-fish.json](./282539-sink-the-fish.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
+| Sink! | 287255 | [287255-sink.json](./287255-sink.json) |
 | Sink/Swim | 179006 | [179006-sink-swim.json](./179006-sink-swim.json) |
 | Sinker Sound | 346522 | [346522-sinker-sound.json](./346522-sinker-sound.json) |
 | Sinking | 422016 | [422016-sinking.json](./422016-sinking.json) |
@@ -16998,6 +16999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 247045 | [247045-soccer.json](./247045-soccer.json) |
 | Soccer | 261792 | [261792-soccer.json](./261792-soccer.json) |
 | Soccer | 281226 | [281226-soccer.json](./281226-soccer.json) |
+| Soccer | 287285 | [287285-soccer.json](./287285-soccer.json) |
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
 | Soccer | 345758 | [345758-soccer.json](./345758-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
@@ -31619,6 +31621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
 | Sudoku Battle | 327665 | [327665-sudoku-battle.json](./327665-sudoku-battle.json) |
 | Sudoku but it's on the MD | 263429 | [263429-sudoku-but-its-on-the-md.json](./263429-sudoku-but-its-on-the-md.json) |
+| Sudoku by MobilityWare+ | 287367 | [287367-sudoku-by-mobilityware.json](./287367-sudoku-by-mobilityware.json) |
 | Sudoku by Nikoli | 85409 | [85409-sudoku-by-nikoli.json](./85409-sudoku-by-nikoli.json) |
 | Sudoku by Nikoli V | 65336 | [65336-sudoku-by-nikoli-v.json](./65336-sudoku-by-nikoli-v.json) |
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
@@ -33093,6 +33096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter | 42322 | [42322-super-chinese-fighter.json](./42322-super-chinese-fighter.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
+| Super Chinese Labyrinth | 287257 | [287257-super-chinese-labyrinth.json](./287257-super-chinese-labyrinth.json) |
 | Super Chinese Land 1.2.3' | 63969 | [63969-super-chinese-land-1-2-3.json](./63969-super-chinese-land-1-2-3.json) |
 | Super Chinese Land 3 | 63978 | [63978-super-chinese-land-3.json](./63978-super-chinese-land-3.json) |
 | Super Chinese World 2: Uchuu Ichi Butou Taikai | 37840 | [37840-super-chinese-world-2-uchuu-ichi-butou-taikai.json](./37840-super-chinese-world-2-uchuu-ichi-butou-taikai.json) |
