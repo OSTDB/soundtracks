@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tenioha! Girls Can Be Pervy Too! | 145379 | [145379-tenioha-girls-can-be-pervy-too.json](./145379-tenioha-girls-can-be-pervy-too.json) |
 | Tenjin Kaisen 2: Yomihon Yumegoyomi | 418606 | [418606-tenjin-kaisen-2-yomihon-yumegoyomi.json](./418606-tenjin-kaisen-2-yomihon-yumegoyomi.json) |
+| Tenjutsu | 305039 | [305039-tenjutsu.json](./305039-tenjutsu.json) |
 | Tenka Fubu Eiyuu-tachi no Houkou | 46383 | [46383-tenka-fubu-eiyuu-tachi-no-houkou.json](./46383-tenka-fubu-eiyuu-tachi-no-houkou.json) |
 | Tenka Hyakken: Zan | 76569 | [76569-tenka-hyakken-zan.json](./76569-tenka-hyakken-zan.json) |
 | Tenka no Goikenban: Mito Koumon | 48881 | [48881-tenka-no-goikenban-mito-koumon.json](./48881-tenka-no-goikenban-mito-koumon.json) |
@@ -5818,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Acrobats | 387249 | [387249-the-acrobats.json](./387249-the-acrobats.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
+| The Act of Misdirection | 305053 | [305053-the-act-of-misdirection.json](./305053-the-act-of-misdirection.json) |
 | The Act: An Interactive Comedy | 300664 | [300664-the-act-an-interactive-comedy.json](./300664-the-act-an-interactive-comedy.json) |
 | The Action Pack | 69649 | [69649-the-action-pack.json](./69649-the-action-pack.json) |
 | The Activision Decathlon | 11855 | [11855-the-activision-decathlon.json](./11855-the-activision-decathlon.json) |
@@ -6896,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Blue | 282495 | [282495-the-big-blue.json](./282495-the-big-blue.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
+| The Big Catch: Tacklebox | 305056 | [305056-the-big-catch-tacklebox.json](./305056-the-big-catch-tacklebox.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Crab Escape | 315738 | [315738-the-big-crab-escape.json](./315738-the-big-crab-escape.json) |
@@ -10089,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 11 Starter Pack | 409999 | [409999-the-finals-season-11-starter-pack.json](./409999-the-finals-season-11-starter-pack.json) |
 | The Finals: Season 11 Ultimate Battle Pass Bundle | 409998 | [409998-the-finals-season-11-ultimate-battle-pass-bundle.json](./409998-the-finals-season-11-ultimate-battle-pass-bundle.json) |
 | The Finals: Season 2 | 290770 | [290770-the-finals-season-2.json](./290770-the-finals-season-2.json) |
+| The Finals: Season 3 | 305025 | [305025-the-finals-season-3.json](./305025-the-finals-season-3.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Finals: Season 4 - It's Showtime! | 326563 | [326563-the-finals-season-4-its-showtime.json](./326563-the-finals-season-4-its-showtime.json) |
 | The Finals: Season 5 - Next Stage | 324587 | [324587-the-finals-season-5-next-stage.json](./324587-the-finals-season-5-next-stage.json) |
@@ -26084,6 +26088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
 | Toilet he Go 1+2 | 329318 | [329318-toilet-he-go-1-2.json](./329318-toilet-he-go-1-2.json) |
+| Toilet Hero | 305589 | [305589-toilet-hero.json](./305589-toilet-hero.json) |
 | Toilet Hero | 352148 | [352148-toilet-hero.json](./352148-toilet-hero.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Kids | 38072 | [38072-toilet-kids.json](./38072-toilet-kids.json) |
@@ -30812,6 +30817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Animal Kids Photos | 310443 | [310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json](./310443-train-your-brain-spot-the-difference-with-animal-kids-photos.json) |
+| Train Your Brain! Spot the Difference with Cat Photos | 305590 | [305590-train-your-brain-spot-the-difference-with-cat-photos.json](./305590-train-your-brain-spot-the-difference-with-cat-photos.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Fish Photos | 308615 | [308615-train-your-brain-spot-the-difference-with-fish-photos.json](./308615-train-your-brain-spot-the-difference-with-fish-photos.json) |
 | Train Your Brain! Spot the Difference with Japanese landscapes | 312067 | [312067-train-your-brain-spot-the-difference-with-japanese-landscapes.json](./312067-train-your-brain-spot-the-difference-with-japanese-landscapes.json) |
