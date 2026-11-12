@@ -2844,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makibishi Comic | 294981 | [294981-makibishi-comic.json](./294981-makibishi-comic.json) |
 | Makin Biscuits | 178516 | [178516-makin-biscuits.json](./178516-makin-biscuits.json) |
 | Makine | 345747 | [345747-makine.json](./345747-makine.json) |
+| Making a Monster | 316519 | [316519-making-a-monster.json](./316519-making-a-monster.json) |
 | Making Burgers | 359321 | [359321-making-burgers.json](./359321-making-burgers.json) |
 | Making Camp | 109227 | [109227-making-camp.json](./109227-making-camp.json) |
 | Making Fiends: Pumpin Plunkin' | 304072 | [304072-making-fiends-pumpin-plunkin.json](./304072-making-fiends-pumpin-plunkin.json) |
