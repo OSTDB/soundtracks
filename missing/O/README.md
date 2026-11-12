@@ -3326,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyFap Simulator 6 | 236178 | [236178-onlyfap-simulator-6.json](./236178-onlyfap-simulator-6.json) |
 | OnlyFap: Fitness Baby | 224817 | [224817-onlyfap-fitness-baby.json](./224817-onlyfap-fitness-baby.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
+| OnlyFuck: RuRu's Adventures | 284527 | [284527-onlyfuck-rurus-adventures.json](./284527-onlyfuck-rurus-adventures.json) |
 | OnlyGame: Athlete Girls | 172363 | [172363-onlygame-athlete-girls.json](./172363-onlygame-athlete-girls.json) |
 | OnlyGame: Gamer Girls | 158402 | [158402-onlygame-gamer-girls.json](./158402-onlygame-gamer-girls.json) |
 | OnlyGame: Working Girls | 167829 | [167829-onlygame-working-girls.json](./167829-onlygame-working-girls.json) |
@@ -4802,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostalgie: The Berlin Wall | 90250 | [90250-ostalgie-the-berlin-wall.json](./90250-ostalgie-the-berlin-wall.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostallian Core | 294298 | [294298-ostallian-core.json](./294298-ostallian-core.json) |
+| Ostatni Dzien w Pracy | 284553 | [284553-ostatni-dzien-w-pracy.json](./284553-ostatni-dzien-w-pracy.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
 | Osteoblasts | 143251 | [143251-osteoblasts.json](./143251-osteoblasts.json) |
 | Osteotic Bypass | 181623 | [181623-osteotic-bypass.json](./181623-osteotic-bypass.json) |
