@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landlord's Super | 121388 | [121388-landlords-super.json](./121388-landlords-super.json) |
+| Landlords & Tax Evasion | 266445 | [266445-landlords-and-tax-evasion.json](./266445-landlords-and-tax-evasion.json) |
 | Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
 | Last Stand | 143303 | [143303-last-stand.json](./143303-last-stand.json) |
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
+| Last Stand | 266466 | [266466-last-stand.json](./266466-last-stand.json) |
 | Last Stand | 38664 | [38664-last-stand.json](./38664-last-stand.json) |
 | Last Stand | 403904 | [403904-last-stand.json](./403904-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
