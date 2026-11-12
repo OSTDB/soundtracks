@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
 | Jake's Love Story | 68331 | [68331-jakes-love-story.json](./68331-jakes-love-story.json) |
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
+| Jakers! Kart Racing | 268178 | [268178-jakers-kart-racing.json](./268178-jakers-kart-racing.json) |
 | Jaki Crush | 38361 | [38361-jaki-crush.json](./38361-jaki-crush.json) |
 | Jaki's Wacky Adventure | 188850 | [188850-jakis-wacky-adventure.json](./188850-jakis-wacky-adventure.json) |
 | Jakou no Lyla: Trap of Musk | 116381 | [116381-jakou-no-lyla-trap-of-musk.json](./116381-jakou-no-lyla-trap-of-musk.json) |
