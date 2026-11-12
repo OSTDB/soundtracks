@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paragon | 14410 | [14410-paragon.json](./14410-paragon.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
+| Paragon Pioneers 2 | 253623 | [253623-paragon-pioneers-2.json](./253623-paragon-pioneers-2.json) |
 | Paragon Pioneers 2: Happy Southburghs | 310045 | [310045-paragon-pioneers-2-happy-southburghs.json](./310045-paragon-pioneers-2-happy-southburghs.json) |
 | Paragon Pioneers 2: Isle of Magicians | 322742 | [322742-paragon-pioneers-2-isle-of-magicians.json](./322742-paragon-pioneers-2-isle-of-magicians.json) |
 | Paragon Pioneers 2: Turn the Orc Table | 310050 | [310050-paragon-pioneers-2-turn-the-orc-table.json](./310050-paragon-pioneers-2-turn-the-orc-table.json) |
