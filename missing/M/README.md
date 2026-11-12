@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Potion Liberators | 239811 | [239811-magic-potion-liberators.json](./239811-magic-potion-liberators.json) |
 | Magic Potion Millionaire | 135423 | [135423-magic-potion-millionaire.json](./135423-magic-potion-millionaire.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
+| Magic Princess | 301200 | [301200-magic-princess.json](./301200-magic-princess.json) |
 | Magic Princess - Girls Makeup & Dressup Salon Game | 87465 | [87465-magic-princess-girls-makeup-and-dressup-salon-game.json](./87465-magic-princess-girls-makeup-and-dressup-salon-game.json) |
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
@@ -4745,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Cars | 22498 | [22498-mars-cars.json](./22498-mars-cars.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colonization | 243548 | [243548-mars-colonization.json](./243548-mars-colonization.json) |
+| Mars Colonization Expedition: Survival Simulator | 301173 | [301173-mars-colonization-expedition-survival-simulator.json](./301173-mars-colonization-expedition-survival-simulator.json) |
 | Mars Colonization: Survival Simulator | 269995 | [269995-mars-colonization-survival-simulator.json](./269995-mars-colonization-survival-simulator.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Colony: Challenger | 17066 | [17066-mars-colony-challenger.json](./17066-mars-colony-challenger.json) |
@@ -20988,6 +20990,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse & Barbarian | 219667 | [219667-muse-and-barbarian.json](./219667-muse-and-barbarian.json) |
 | Muse Dash | 86316 | [86316-muse-dash.json](./86316-muse-dash.json) |
 | Muse Dash 2 | 400225 | [400225-muse-dash-2.json](./400225-muse-dash-2.json) |
+| Muse Dash: Hatsune Miku Collab DLC - Miku in Museland | 301206 | [301206-muse-dash-hatsune-miku-collab-dlc-miku-in-museland.json](./301206-muse-dash-hatsune-miku-collab-dlc-miku-in-museland.json) |
+| Muse Dash: Hatsune Miku Collab DLC 2 - Rin·Len's Mirrorland | 301205 | [301205-muse-dash-hatsune-miku-collab-dlc-2-rin-lens-mirrorland.json](./301205-muse-dash-hatsune-miku-collab-dlc-2-rin-lens-mirrorland.json) |
 | Muse Dash: Just as Planned | 356178 | [356178-muse-dash-just-as-planned.json](./356178-muse-dash-just-as-planned.json) |
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Muse: Night Out | 149399 | [149399-muse-night-out.json](./149399-muse-night-out.json) |
