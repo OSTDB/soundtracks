@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Checkmate Thee | 344666 | [344666-i-checkmate-thee.json](./344666-i-checkmate-thee.json) |
 | I Chew, Therefore I Am | 400742 | [400742-i-chew-therefore-i-am.json](./400742-i-chew-therefore-i-am.json) |
 | I Ching | 308885 | [308885-i-ching.json](./308885-i-ching.json) |
+| I Ching: Mysteries of Wenlu | 310852 | [310852-i-ching-mysteries-of-wenlu.json](./310852-i-ching-mysteries-of-wenlu.json) |
 | I Come In Peace | 325386 | [325386-i-come-in-peace.json](./325386-i-come-in-peace.json) |
 | I Commissioned Some Bees | 202430 | [202430-i-commissioned-some-bees.json](./202430-i-commissioned-some-bees.json) |
 | I Commissioned Some Bees 0 | 211735 | [211735-i-commissioned-some-bees-0.json](./211735-i-commissioned-some-bees-0.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icoptic Journey | 347372 | [347372-icoptic-journey.json](./347372-icoptic-journey.json) |
 | ICoreBreach | 175115 | [175115-icorebreach.json](./175115-icorebreach.json) |
 | Icorp | 151388 | [151388-icorp.json](./151388-icorp.json) |
+| Icosagon | 310870 | [310870-icosagon.json](./310870-icosagon.json) |
 | Icosi-Do | 209391 | [209391-icosi-do.json](./209391-icosi-do.json) |
 | ICP: The Gathering | 105537 | [105537-icp-the-gathering.json](./105537-icp-the-gathering.json) |
 | ICU: Intensive Care Unit 8 | 405772 | [405772-icu-intensive-care-unit-8.json](./405772-icu-intensive-care-unit-8.json) |
@@ -7110,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Promise | 225513 | [225513-its-a-promise.json](./225513-its-a-promise.json) |
 | It's A Racing Game | 109427 | [109427-its-a-racing-game.json](./109427-its-a-racing-game.json) |
+| It's a Shore Thing | 311312 | [311312-its-a-shore-thing.json](./311312-its-a-shore-thing.json) |
 | It's a Trap | 111380 | [111380-its-a-trap.json](./111380-its-a-trap.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
