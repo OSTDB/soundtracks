@@ -589,6 +589,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
 | Galactic Civilizations IV | 169178 | [169178-galactic-civilizations-iv.json](./169178-galactic-civilizations-iv.json) |
 | Galactic Civilizations IV: Expansion Pass | 278188 | [278188-galactic-civilizations-iv-expansion-pass.json](./278188-galactic-civilizations-iv-expansion-pass.json) |
+| Galactic Civilizations IV: Megastructures | 276998 | [276998-galactic-civilizations-iv-megastructures.json](./276998-galactic-civilizations-iv-megastructures.json) |
+| Galactic Civilizations IV: Species Pack | 276999 | [276999-galactic-civilizations-iv-species-pack.json](./276999-galactic-civilizations-iv-species-pack.json) |
 | Galactic Civilizations IV: Supernova | 247423 | [247423-galactic-civilizations-iv-supernova.json](./247423-galactic-civilizations-iv-supernova.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
