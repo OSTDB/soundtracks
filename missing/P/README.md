@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea | 171157 | [171157-pangea.json](./171157-pangea.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
+| Pangea: Return to Planet Earth | 313601 | [313601-pangea-return-to-planet-earth.json](./313601-pangea-return-to-planet-earth.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
 | Pangeon | 113023 | [113023-pangeon.json](./113023-pangeon.json) |
 | Pangit | 368988 | [368988-pangit.json](./368988-pangit.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Corps | 252860 | [252860-parcel-corps.json](./252860-parcel-corps.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
+| Parcel Escape | 314687 | [314687-parcel-escape.json](./314687-parcel-escape.json) |
 | Parcel Frenzy: Get To Work! | 357149 | [357149-parcel-frenzy-get-to-work.json](./357149-parcel-frenzy-get-to-work.json) |
 | Parcel Mania | 275533 | [275533-parcel-mania.json](./275533-parcel-mania.json) |
 | Parcel Master | 317793 | [317793-parcel-master.json](./317793-parcel-master.json) |
@@ -4708,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Kick | 62980 | [62980-perfect-kick.json](./62980-perfect-kick.json) |
 | Perfect Kick 2: Online Soccer game | 220046 | [220046-perfect-kick-2-online-soccer-game.json](./220046-perfect-kick-2-online-soccer-game.json) |
 | Perfect Klondike Solitaire | 319308 | [319308-perfect-klondike-solitaire.json](./319308-perfect-klondike-solitaire.json) |
+| Perfect Klondike Solitaire: Collector's Edition | 315948 | [315948-perfect-klondike-solitaire-collectors-edition.json](./315948-perfect-klondike-solitaire-collectors-edition.json) |
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
@@ -6898,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 353528 | [353528-pikmin-2.json](./353528-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
+| Pikmin 2 Challenge Land | 314168 | [314168-pikmin-2-challenge-land.json](./314168-pikmin-2-challenge-land.json) |
 | Pikmin 2 Deluxe | 314134 | [314134-pikmin-2-deluxe.json](./314134-pikmin-2-deluxe.json) |
 | Pikmin 2 Hallows Haunt | 291158 | [291158-pikmin-2-hallows-haunt.json](./291158-pikmin-2-hallows-haunt.json) |
 | Pikmin 2 Infernal Edition | 281009 | [281009-pikmin-2-infernal-edition.json](./281009-pikmin-2-infernal-edition.json) |
@@ -6930,7 +6934,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin 3 Refreshed | 313366 | [313366-pikmin-3-refreshed.json](./313366-pikmin-3-refreshed.json) |
+| Pikmin 3 Sunshine | 314557 | [314557-pikmin-3-sunshine.json](./314557-pikmin-3-sunshine.json) |
 | Pikmin 3: Extra Side of Stories | 314133 | [314133-pikmin-3-extra-side-of-stories.json](./314133-pikmin-3-extra-side-of-stories.json) |
+| Pikmin 3: Special Holiday Hack | 314170 | [314170-pikmin-3-special-holiday-hack.json](./314170-pikmin-3-special-holiday-hack.json) |
 | Pikmin 3.5 | 313365 | [313365-pikmin-3-5.json](./313365-pikmin-3-5.json) |
 | Pikmin 4 | 59843 | [59843-pikmin-4.json](./59843-pikmin-4.json) |
 | Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy | 417169 | [417169-pikmin-4-nintendo-switch-2-edition-dandori-academy.json](./417169-pikmin-4-nintendo-switch-2-edition-dandori-academy.json) |
@@ -7013,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 4 | 353544 | [353544-pikmin-puzzle-card-e-tsunagete-pikmin-pack-4.json](./353544-pikmin-puzzle-card-e-tsunagete-pikmin-pack-4.json) |
 | Pikmin RPG | 314175 | [314175-pikmin-rpg.json](./314175-pikmin-rpg.json) |
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
+| Pikmin S | 314566 | [314566-pikmin-s.json](./314566-pikmin-s.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin Stone | 375786 | [375786-pikmin-stone.json](./375786-pikmin-stone.json) |
 | Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
@@ -7021,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin: Olimar's Descent | 307373 | [307373-pikmin-olimars-descent.json](./307373-pikmin-olimars-descent.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
 | Pikmin.com SpaceForce | 312310 | [312310-pikmin-com-spaceforce.json](./312310-pikmin-com-spaceforce.json) |
+| Pikmin++ | 314172 | [314172-pikmin.json](./314172-pikmin.json) |
 | Pikmin² | 313360 | [313360-pikmin2.json](./313360-pikmin2.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
 | Piko Interactive Arcade 1 | 251707 | [251707-piko-interactive-arcade-1.json](./251707-piko-interactive-arcade-1.json) |
@@ -7053,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
 | Pile Up! Box by Box | 121807 | [121807-pile-up-box-by-box.json](./121807-pile-up-box-by-box.json) |
 | Pile Wonder | 58617 | [58617-pile-wonder.json](./58617-pile-wonder.json) |
+| Pileup | 315381 | [315381-pileup.json](./315381-pileup.json) |
 | Pileus Bad Trip | 391784 | [391784-pileus-bad-trip.json](./391784-pileus-bad-trip.json) |
 | Pilfer | 129434 | [129434-pilfer.json](./129434-pilfer.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
@@ -10114,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
 | Plants | 101330 | [101330-plants.json](./101330-plants.json) |
 | Plants | 185394 | [185394-plants.json](./185394-plants.json) |
+| Plants Huddled Together | 315303 | [315303-plants-huddled-together.json](./315303-plants-huddled-together.json) |
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
 | Plants on Fire | 408106 | [408106-plants-on-fire.json](./408106-plants-on-fire.json) |
 | Plants vs Animals | 298381 | [298381-plants-vs-animals.json](./298381-plants-vs-animals.json) |
@@ -13919,6 +13929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Stories: Mel | 47107 | [47107-portal-stories-mel.json](./47107-portal-stories-mel.json) |
 | Portal Stories: VR | 54733 | [54733-portal-stories-vr.json](./54733-portal-stories-vr.json) |
+| Portal to the Cosmobeat | 315960 | [315960-portal-to-the-cosmobeat.json](./315960-portal-to-the-cosmobeat.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
 | Portal Touch | 115783 | [115783-portal-touch.json](./115783-portal-touch.json) |
 | Portal Unity | 219160 | [219160-portal-unity.json](./219160-portal-unity.json) |
@@ -17402,6 +17413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
+| Project_Structure_01 | 313592 | [313592-project-structure-01.json](./313592-project-structure-01.json) |
 | Project_Y: Working Title | 278787 | [278787-project-y-working-title.json](./278787-project-y-working-title.json) |
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
 | Project-X | 12197 | [12197-project-x.json](./12197-project-x.json) |
@@ -18082,6 +18094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
 | Psycho Chaser | 42081 | [42081-psycho-chaser.json](./42081-psycho-chaser.json) |
 | Psycho Crab | 194854 | [194854-psycho-crab.json](./194854-psycho-crab.json) |
+| Psycho Dead | 314553 | [314553-psycho-dead.json](./314553-psycho-dead.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
@@ -19274,7 +19287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo | 218197 | [218197-puyo-puyo.json](./218197-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
 | Puyo Puyo 2 | 84798 | [84798-puyo-puyo-2.json](./84798-puyo-puyo-2.json) |
-| Puyo Puyo 7 | 50727 | [50727-puyo-puyo-7.json](./50727-puyo-puyo-7.json) |
 | Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Champions | 109577 | [109577-puyo-puyo-champions.json](./109577-puyo-puyo-champions.json) |
