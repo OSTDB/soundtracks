@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugandan Knuckles Pet | 96300 | [96300-ugandan-knuckles-pet.json](./96300-ugandan-knuckles-pet.json) |
 | Ugandan Knuckles Simulator. Meme Salvation 3D | 96575 | [96575-ugandan-knuckles-simulator-meme-salvation-3d.json](./96575-ugandan-knuckles-simulator-meme-salvation-3d.json) |
 | Ugandan Knuckles VR | 223883 | [223883-ugandan-knuckles-vr.json](./223883-ugandan-knuckles-vr.json) |
+| Ugaris: The Legend Recovered | 298348 | [298348-ugaris-the-legend-recovered.json](./298348-ugaris-the-legend-recovered.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Memories | 150940 | [150940-underworld-memories.json](./150940-underworld-memories.json) |
 | Underworld Office | 144715 | [144715-underworld-office.json](./144715-underworld-office.json) |
 | Underworld Overlord | 58490 | [58490-underworld-overlord.json](./58490-underworld-overlord.json) |
+| Underworld Overseer | 297829 | [297829-underworld-overseer.json](./297829-underworld-overseer.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
 | Underworld Unfinished Business 1: Recruiting Demon Smalls | 252207 | [252207-underworld-unfinished-business-1-recruiting-demon-smalls.json](./252207-underworld-unfinished-business-1-recruiting-demon-smalls.json) |
