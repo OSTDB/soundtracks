@@ -6708,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Apartments | 284538 | [284538-sex-apartments.json](./284538-sex-apartments.json) |
 | Sex Apocalypse 2 | 270915 | [270915-sex-apocalypse-2.json](./270915-sex-apocalypse-2.json) |
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
+| Sex Bar Simulator | 263178 | [263178-sex-bar-simulator.json](./263178-sex-bar-simulator.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
 | Sex Bushes | 286553 | [286553-sex-bushes.json](./286553-sex-bushes.json) |
 | Sex Campus | 288959 | [288959-sex-campus.json](./288959-sex-campus.json) |
@@ -6871,6 +6872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Slaves | 301655 | [301655-sex-slaves.json](./301655-sex-slaves.json) |
 | Sex Standing | 243320 | [243320-sex-standing.json](./243320-sex-standing.json) |
 | Sex Story: Cuckold Life - Episode 1 | 367277 | [367277-sex-story-cuckold-life-episode-1.json](./367277-sex-story-cuckold-life-episode-1.json) |
+| Sex Story: Cuckold Life - Episode 2 | 263170 | [263170-sex-story-cuckold-life-episode-2.json](./263170-sex-story-cuckold-life-episode-2.json) |
 | Sex Story: Cuckold Life - Episode 3 | 265302 | [265302-sex-story-cuckold-life-episode-3.json](./265302-sex-story-cuckold-life-episode-3.json) |
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
@@ -7666,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowspear Knight’s Quest | 248431 | [248431-shadowspear-knight-s-quest.json](./248431-shadowspear-knight-s-quest.json) |
 | Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
 | ShadowStorm | 275832 | [275832-shadowstorm.json](./275832-shadowstorm.json) |
+| ShadowStrike: Blades of Survival | 263171 | [263171-shadowstrike-blades-of-survival.json](./263171-shadowstrike-blades-of-survival.json) |
 | ShadowStrikeVR | 285114 | [285114-shadowstrikevr.json](./285114-shadowstrikevr.json) |
 | Shadowtime | 336860 | [336860-shadowtime.json](./336860-shadowtime.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
@@ -10774,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Aztec Civilization Pack | 341802 | [341802-sid-meiers-civilization-vi-aztec-civilization-pack.json](./341802-sid-meiers-civilization-vi-aztec-civilization-pack.json) |
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
+| Sid Meier's Civilization VI: Catherine de Medici Persona Pack | 263173 | [263173-sid-meiers-civilization-vi-catherine-de-medici-persona-pack.json](./263173-sid-meiers-civilization-vi-catherine-de-medici-persona-pack.json) |
 | Sid Meier's Civilization VI: Digital Deluxe Edition | 53611 | [53611-sid-meiers-civilization-vi-digital-deluxe-edition.json](./53611-sid-meiers-civilization-vi-digital-deluxe-edition.json) |
 | Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
 | Sid Meier's Civilization VI: Fiammetta Pack | 276906 | [276906-sid-meiers-civilization-vi-fiammetta-pack.json](./276906-sid-meiers-civilization-vi-fiammetta-pack.json) |
@@ -10800,6 +10804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Shinra Pack | 276934 | [276934-sid-meiers-civilization-vi-shinra-pack.json](./276934-sid-meiers-civilization-vi-shinra-pack.json) |
 | Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
 | Sid Meier's Civilization VI: Super Mario Leaders Pack | 276935 | [276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json](./276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json) |
+| Sid Meier's Civilization VI: Teddy Roosevelt Persona Pack | 263172 | [263172-sid-meiers-civilization-vi-teddy-roosevelt-persona-pack.json](./263172-sid-meiers-civilization-vi-teddy-roosevelt-persona-pack.json) |
 | Sid Meier's Civilization VI: Vietnam & Kublai Khan Pack | 164408 | [164408-sid-meiers-civilization-vi-vietnam-and-kublai-khan-pack.json](./164408-sid-meiers-civilization-vi-vietnam-and-kublai-khan-pack.json) |
 | Sid Meier's Civilization VI: Vikings Scenario Pack | 164400 | [164400-sid-meiers-civilization-vi-vikings-scenario-pack.json](./164400-sid-meiers-civilization-vi-vikings-scenario-pack.json) |
 | Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
@@ -12778,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
+| Sixtar Gate: Startrail - Luminous & Darkness Pack | 263175 | [263175-sixtar-gate-startrail-luminous-and-darkness-pack.json](./263175-sixtar-gate-startrail-luminous-and-darkness-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixtar Gate: Startrail - Sixtartales | 297315 | [297315-sixtar-gate-startrail-sixtartales.json](./297315-sixtar-gate-startrail-sixtartales.json) |
 | Sixtar Gate: Startrail - Touhou Project Pack 01 | 255218 | [255218-sixtar-gate-startrail-touhou-project-pack-01.json](./255218-sixtar-gate-startrail-touhou-project-pack-01.json) |
@@ -20219,6 +20225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
 | Soul Walker | 403902 | [403902-soul-walker.json](./403902-soul-walker.json) |
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
+| Soul War | 263177 | [263177-soul-war.json](./263177-soul-war.json) |
 | Soul Warden | 277990 | [277990-soul-warden.json](./277990-soul-warden.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
 | Soul Wargame | 199670 | [199670-soul-wargame.json](./199670-soul-wargame.json) |
@@ -30603,6 +30610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Basketball | 37163 | [37163-street-sports-basketball.json](./37163-street-sports-basketball.json) |
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
+| Street Stallion: The Jaywalk Simulator | 263176 | [263176-street-stallion-the-jaywalk-simulator.json](./263176-street-stallion-the-jaywalk-simulator.json) |
 | Street Striker | 152681 | [152681-street-striker.json](./152681-street-striker.json) |
 | Street Supremacy | 38456 | [38456-street-supremacy.json](./38456-street-supremacy.json) |
 | Street Surfer | 36676 | [36676-street-surfer.json](./36676-street-surfer.json) |
@@ -37944,6 +37952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Neighbors | 264260 | [264260-sweet-neighbors.json](./264260-sweet-neighbors.json) |
 | Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
+| Sweet Nightclub | 263169 | [263169-sweet-nightclub.json](./263169-sweet-nightclub.json) |
 | Sweet No Death | 255449 | [255449-sweet-no-death.json](./255449-sweet-no-death.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
