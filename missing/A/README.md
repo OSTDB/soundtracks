@@ -10991,6 +10991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Times | 359341 | [359341-animal-times.json](./359341-animal-times.json) |
 | Animal Tower Battle | 314952 | [314952-animal-tower-battle.json](./314952-animal-tower-battle.json) |
 | Animal Town | 299404 | [299404-animal-town.json](./299404-animal-town.json) |
+| Animal Tracker | 302839 | [302839-animal-tracker.json](./302839-animal-tracker.json) |
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
 | Animal Trail Girlish Square 2 | 268146 | [268146-animal-trail-girlish-square-2.json](./268146-animal-trail-girlish-square-2.json) |
 | Animal Trail Girlish Square Love+Plus | 268148 | [268148-animal-trail-girlish-square-love-plus.json](./268148-animal-trail-girlish-square-love-plus.json) |
@@ -12820,6 +12821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ApplePop | 352541 | [352541-applepop.json](./352541-applepop.json) |
 | Apples & Oranges | 72237 | [72237-apples-and-oranges.json](./72237-apples-and-oranges.json) |
 | Apples and Asteroids | 215526 | [215526-apples-and-asteroids.json](./215526-apples-and-asteroids.json) |
+| Apples And Bananas | 302831 | [302831-apples-and-bananas.json](./302831-apples-and-bananas.json) |
 | Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Apples Busy Day | 302085 | [302085-apples-busy-day.json](./302085-apples-busy-day.json) |
@@ -14344,6 +14346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archtower | 177859 | [177859-archtower.json](./177859-archtower.json) |
 | Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
+| ArchWilio | 302852 | [302852-archwilio.json](./302852-archwilio.json) |
 | Archwizard | 327408 | [327408-archwizard.json](./327408-archwizard.json) |
 | Arcis Ultima | 196231 | [196231-arcis-ultima.json](./196231-arcis-ultima.json) |
 | ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
@@ -18914,6 +18917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autoboat Contest | 287425 | [287425-autoboat-contest.json](./287425-autoboat-contest.json) |
 | Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
 | AutoBrawl | 194811 | [194811-autobrawl.json](./194811-autobrawl.json) |
+| AutoBulletSurvivor | 302874 | [302874-autobulletsurvivor.json](./302874-autobulletsurvivor.json) |
 | Autobus Park Sim | 280565 | [280565-autobus-park-sim.json](./280565-autobus-park-sim.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
 | Autochef | 319532 | [319532-autochef.json](./319532-autochef.json) |
