@@ -11146,6 +11146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Over Princess | 280116 | [280116-roll-over-princess.json](./280116-roll-over-princess.json) |
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
+| Roll Roll: Random Battler | 254739 | [254739-roll-roll-random-battler.json](./254739-roll-roll-random-battler.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll the Ball | 88797 | [88797-roll-the-ball.json](./88797-roll-the-ball.json) |
 | Roll The Bones | 271900 | [271900-roll-the-bones.json](./271900-roll-the-bones.json) |
