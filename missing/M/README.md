@@ -9826,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
 | Mental Repairs Inc | 79686 | [79686-mental-repairs-inc.json](./79686-mental-repairs-inc.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
+| Mental State. Game One | 310845 | [310845-mental-state-game-one.json](./310845-mental-state-game-one.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentally, I am | 139273 | [139273-mentally-i-am.json](./139273-mentally-i-am.json) |
 | Mentari | 319479 | [319479-mentari.json](./319479-mentari.json) |
@@ -19907,6 +19908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Meal | 190862 | [190862-mr-meal.json](./190862-mr-meal.json) |
 | Mr Mitty and the Itty Bitty Kitty Committee | 302200 | [302200-mr-mitty-and-the-itty-bitty-kitty-committee.json](./302200-mr-mitty-and-the-itty-bitty-kitty-committee.json) |
 | Mr Moneybag | 177864 | [177864-mr-moneybag.json](./177864-mr-moneybag.json) |
+| Mr Monkey & Touc | 310854 | [310854-mr-monkey-and-touc.json](./310854-mr-monkey-and-touc.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
 | Mr Octopus | 234003 | [234003-mr-octopus.json](./234003-mr-octopus.json) |
@@ -20663,6 +20665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Muncher Mania Classic | 146445 | [146445-muncher-mania-classic.json](./146445-muncher-mania-classic.json) |
+| Munches | 310871 | [310871-munches.json](./310871-munches.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchies | 195973 | [195973-munchies.json](./195973-munchies.json) |
 | Munchies! | 78261 | [78261-munchies.json](./78261-munchies.json) |
