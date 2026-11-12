@@ -11784,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue | 77150 | [77150-clue.json](./77150-clue.json) |
 | Clue / Mouse Trap / Perfection / Aggravation | 90926 | [90926-clue-mouse-trap-perfection-aggravation.json](./90926-clue-mouse-trap-perfection-aggravation.json) |
 | Clue Classic | 47075 | [47075-clue-classic.json](./47075-clue-classic.json) |
+| Clue For Your Thoughts | 293810 | [293810-clue-for-your-thoughts.json](./293810-clue-for-your-thoughts.json) |
 | Clue Jr. SpyGlass Mysteries | 206978 | [206978-clue-jr-spyglass-mysteries.json](./206978-clue-jr-spyglass-mysteries.json) |
 | Clue Kaguya-sama: Love is War | 262363 | [262363-clue-kaguya-sama-love-is-war.json](./262363-clue-kaguya-sama-love-is-war.json) |
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
@@ -14080,6 +14081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Fodder: War Dogs | 114825 | [114825-commando-fodder-war-dogs.json](./114825-commando-fodder-war-dogs.json) |
 | Commando Gun | 216137 | [216137-commando-gun.json](./216137-commando-gun.json) |
 | Commando Hero | 229014 | [229014-commando-hero.json](./229014-commando-hero.json) |
+| Commando Hero 2: First Blood | 293796 | [293796-commando-hero-2-first-blood.json](./293796-commando-hero-2-first-blood.json) |
 | Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Mountain Rescue | 200433 | [200433-commando-mountain-rescue.json](./200433-commando-mountain-rescue.json) |
@@ -16331,6 +16333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
 | Cosmic Holes | 240649 | [240649-cosmic-holes.json](./240649-cosmic-holes.json) |
+| Cosmic Holes Junior | 293828 | [293828-cosmic-holes-junior.json](./293828-cosmic-holes-junior.json) |
 | Cosmic Holidays | 244602 | [244602-cosmic-holidays.json](./244602-cosmic-holidays.json) |
 | Cosmic Horizon - Icosahedron Video Game Puzzle | 76715 | [76715-cosmic-horizon-icosahedron-video-game-puzzle.json](./76715-cosmic-horizon-icosahedron-video-game-puzzle.json) |
 | Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
