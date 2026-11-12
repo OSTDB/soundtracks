@@ -3142,12 +3142,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
+| Across the Obelisk: Nenukil, the Engineer | 301192 | [301192-across-the-obelisk-nenukil-the-engineer.json](./301192-across-the-obelisk-nenukil-the-engineer.json) |
 | Across The Obelisk: Sands of Ulminin | 261915 | [261915-across-the-obelisk-sands-of-ulminin.json](./261915-across-the-obelisk-sands-of-ulminin.json) |
 | Across The Obelisk: Sands of Ulminin | 261934 | [261934-across-the-obelisk-sands-of-ulminin.json](./261934-across-the-obelisk-sands-of-ulminin.json) |
 | Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the Obelisk: Spooky Night in Senenthia | 223819 | [223819-across-the-obelisk-spooky-night-in-senenthia.json](./223819-across-the-obelisk-spooky-night-in-senenthia.json) |
 | Across the Obelisk: Starter Set | 292920 | [292920-across-the-obelisk-starter-set.json](./292920-across-the-obelisk-starter-set.json) |
+| Across the Obelisk: The Obsidian Uprising | 301193 | [301193-across-the-obelisk-the-obsidian-uprising.json](./301193-across-the-obelisk-the-obsidian-uprising.json) |
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the Obelisk: Tulah, the Spider Queen | 357780 | [357780-across-the-obelisk-tulah-the-spider-queen.json](./357780-across-the-obelisk-tulah-the-spider-queen.json) |
 | Across the ocean | 188780 | [188780-across-the-ocean.json](./188780-across-the-ocean.json) |
@@ -11265,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
 | Anime Poly Puzzle: Sci-Fi Maidens | 266164 | [266164-anime-poly-puzzle-sci-fi-maidens.json](./266164-anime-poly-puzzle-sci-fi-maidens.json) |
+| Anime Princess: Cosplay ASMR | 301197 | [301197-anime-princess-cosplay-asmr.json](./301197-anime-princess-cosplay-asmr.json) |
 | Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
 | Anime Puzzle Quest: 32 Animal Girls in Puzzle /2 | 317953 | [317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json](./317953-anime-puzzle-quest-32-animal-girls-in-puzzle-2.json) |
 | Anime Puzzle Quest: 33 Animal Girls in Puzzle | 317941 | [317941-anime-puzzle-quest-33-animal-girls-in-puzzle.json](./317941-anime-puzzle-quest-33-animal-girls-in-puzzle.json) |
