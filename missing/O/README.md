@@ -4725,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare Princess 2 + Doubutsu Kyaranabi Uranai | 49767 | [49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json](./49767-oshare-princess-2-doubutsu-kyaranabi-uranai.json) |
 | Oshare Princess 2 + Doubutsu Kyaranabi Uranai | 97962 | [97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json](./97962-oshare-princess-2-doubutsu-kyaranabi-uranai.json) |
 | Oshare Princess 3 | 49772 | [49772-oshare-princess-3.json](./49772-oshare-princess-3.json) |
+| Oshare Princess 4 | 287268 | [287268-oshare-princess-4.json](./287268-oshare-princess-4.json) |
 | Oshare Princess 5 | 49771 | [49771-oshare-princess-5.json](./49771-oshare-princess-5.json) |
 | Oshare Princess DS: Oshare ni Koi Shite 2 | 123371 | [123371-oshare-princess-ds-oshare-ni-koi-shite-2.json](./123371-oshare-princess-ds-oshare-ni-koi-shite-2.json) |
 | Oshare Princess DS: Oshare ni Koishite! | 71907 | [71907-oshare-princess-ds-oshare-ni-koishite.json](./71907-oshare-princess-ds-oshare-ni-koishite.json) |
