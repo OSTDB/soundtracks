@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
 | 100 London Cats | 282722 | [282722-100-london-cats.json](./282722-100-london-cats.json) |
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
+| 100 Man-Yen Quiz Hunter | 265908 | [265908-100-man-yen-quiz-hunter.json](./265908-100-man-yen-quiz-hunter.json) |
 | 100 Manri no Winning Post | 57801 | [57801-100-manri-no-winning-post.json](./57801-100-manri-no-winning-post.json) |
 | 100 March Cats | 288728 | [288728-100-march-cats.json](./288728-100-march-cats.json) |
 | 100 March Cats: Extra Content | 289333 | [289333-100-march-cats-extra-content.json](./289333-100-march-cats-extra-content.json) |
@@ -3905,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Dechika: Island of Love and Bonds | 374119 | [374119-dechika-island-of-love-and-bonds.json](./374119-dechika-island-of-love-and-bonds.json) |
 | Đồng CỎ Lau: The Reed Field | 366138 | [366138-ong-co-lau-the-reed-field.json](./366138-ong-co-lau-the-reed-field.json) |
 | Éalú | 342964 | [342964-ealu.json](./342964-ealu.json) |
+| Éclipse The Cat | 265896 | [265896-eclipse-the-cat.json](./265896-eclipse-the-cat.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Élan | 203825 | [203825-elan.json](./203825-elan.json) |
 | Élan Vital | 114545 | [114545-elan-vital.json](./114545-elan-vital.json) |
