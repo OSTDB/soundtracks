@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation of the soul | 224686 | [224686-salvation-of-the-soul.json](./224686-salvation-of-the-soul.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvation: Echoes of War | 407766 | [407766-salvation-echoes-of-war.json](./407766-salvation-echoes-of-war.json) |
+| Salvation: Immortale | 309791 | [309791-salvation-immortale.json](./309791-salvation-immortale.json) |
 | Salvation: Shadows of the Faceless | 190309 | [190309-salvation-shadows-of-the-faceless.json](./190309-salvation-shadows-of-the-faceless.json) |
 | Salvationland | 189805 | [189805-salvationland.json](./189805-salvationland.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
@@ -6981,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Afrika Korps: Tunisia | 174061 | [174061-sgs-afrika-korps-tunisia.json](./174061-sgs-afrika-korps-tunisia.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
+| SGS Battle For: Shanghai | 309775 | [309775-sgs-battle-for-shanghai.json](./309775-sgs-battle-for-shanghai.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
 | SGS Glory Recalled | 186979 | [186979-sgs-glory-recalled.json](./186979-sgs-glory-recalled.json) |
@@ -12874,6 +12876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
 | Skeleton Gelatin | 408472 | [408472-skeleton-gelatin.json](./408472-skeleton-gelatin.json) |
+| Skeleton Hell | 310294 | [310294-skeleton-hell.json](./310294-skeleton-hell.json) |
 | Skeleton Hotel | 247897 | [247897-skeleton-hotel.json](./247897-skeleton-hotel.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
@@ -13617,6 +13620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky: Children of the Light - Season of Gratitude | 388290 | [388290-sky-children-of-the-light-season-of-gratitude.json](./388290-sky-children-of-the-light-season-of-gratitude.json) |
 | Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
 | Sky: Children of the Light - Season of Rhythm | 388395 | [388395-sky-children-of-the-light-season-of-rhythm.json](./388395-sky-children-of-the-light-season-of-rhythm.json) |
+| Sky's The Limit: Mah-jong | 310226 | [310226-skys-the-limit-mah-jong.json](./310226-skys-the-limit-mah-jong.json) |
 | SkyArena.io | 77531 | [77531-skyarena-io.json](./77531-skyarena-io.json) |
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
@@ -13780,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Bowling: Spooky Style | 360241 | [360241-skyline-bowling-spooky-style.json](./360241-skyline-bowling-spooky-style.json) |
 | Skyline Bowling: Sweet Style | 360242 | [360242-skyline-bowling-sweet-style.json](./360242-skyline-bowling-sweet-style.json) |
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
+| Skyline Savior | 309779 | [309779-skyline-savior.json](./309779-skyline-savior.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprint: Turbo Tracks | 277765 | [277765-skyline-sprint-turbo-tracks.json](./277765-skyline-sprint-turbo-tracks.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
@@ -24233,6 +24238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Mall | 54393 | [54393-spooky-mall.json](./54393-spooky-mall.json) |
 | Spooky Man: Island of Ghost to Mystic Diary 3D | 174252 | [174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json](./174252-spooky-man-island-of-ghost-to-mystic-diary-3d.json) |
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
+| Spooky Mansion | 310231 | [310231-spooky-mansion.json](./310231-spooky-mansion.json) |
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Men | 248230 | [248230-spooky-men.json](./248230-spooky-men.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
@@ -24657,6 +24663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
 | Sprites are 1derful | 277105 | [277105-sprites-are-1derful.json](./277105-sprites-are-1derful.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
+| Spritz the Happy Onion | 309777 | [309777-spritz-the-happy-onion.json](./309777-spritz-the-happy-onion.json) |
 | Sprkls.exe | 393780 | [393780-sprkls-exe.json](./393780-sprkls-exe.json) |
 | Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
 | Sprocket | 89538 | [89538-sprocket.json](./89538-sprocket.json) |
@@ -29380,6 +29387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Me: Interactive Novel | 257188 | [257188-story-me-interactive-novel.json](./257188-story-me-interactive-novel.json) |
 | Story of a Cube | 19108 | [19108-story-of-a-cube.json](./19108-story-of-a-cube.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
+| Story of a Hunter | 309778 | [309778-story-of-a-hunter.json](./309778-story-of-a-hunter.json) |
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
 | Story of a Pawn | 183262 | [183262-story-of-a-pawn.json](./183262-story-of-a-pawn.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
