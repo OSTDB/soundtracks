@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enthralled | 339753 | [339753-enthralled.json](./339753-enthralled.json) |
 | Enthruxia | 179149 | [179149-enthruxia.json](./179149-enthruxia.json) |
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
+| Entities | 264921 | [264921-entities.json](./264921-entities.json) |
 | Entities | 273969 | [273969-entities.json](./273969-entities.json) |
 | Entities Declassified: Winter Hungers | 427822 | [427822-entities-declassified-winter-hungers.json](./427822-entities-declassified-winter-hungers.json) |
 | Entities' Repose | 298820 | [298820-entities-repose.json](./298820-entities-repose.json) |
@@ -5784,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Princess | 108661 | [108661-escape-from-the-princess.json](./108661-escape-from-the-princess.json) |
 | Escape from the Pyramid | 56192 | [56192-escape-from-the-pyramid.json](./56192-escape-from-the-pyramid.json) |
 | Escape From the Red Planet | 224818 | [224818-escape-from-the-red-planet.json](./224818-escape-from-the-red-planet.json) |
+| Escape from the Room of the Serving Doll | 264920 | [264920-escape-from-the-room-of-the-serving-doll.json](./264920-escape-from-the-room-of-the-serving-doll.json) |
 | Escape from the Room with my Kouhai | 253675 | [253675-escape-from-the-room-with-my-kouhai.json](./253675-escape-from-the-room-with-my-kouhai.json) |
 | Escape from the Shadows | 270604 | [270604-escape-from-the-shadows.json](./270604-escape-from-the-shadows.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
