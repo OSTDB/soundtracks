@@ -1522,10 +1522,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Patrol: Lollipop Defense | 108621 | [108621-candy-patrol-lollipop-defense.json](./108621-candy-patrol-lollipop-defense.json) |
 | Candy Pop Match3 | 220804 | [220804-candy-pop-match3.json](./220804-candy-pop-match3.json) |
 | Candy Puzzle | 283620 | [283620-candy-puzzle.json](./283620-candy-puzzle.json) |
+| Candy Puzzle | 303389 | [303389-candy-puzzle.json](./303389-candy-puzzle.json) |
 | Candy Puzzles | 328563 | [328563-candy-puzzles.json](./328563-candy-puzzles.json) |
 | Candy Raid: The Factory | 105565 | [105565-candy-raid-the-factory.json](./105565-candy-raid-the-factory.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
+| Candy Roller | 303390 | [303390-candy-roller.json](./303390-candy-roller.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Shake Cup | 283298 | [283298-candy-shake-cup.json](./283298-candy-shake-cup.json) |
 | Candy Ship | 297338 | [297338-candy-ship.json](./297338-candy-ship.json) |
@@ -1997,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Bubblenaut | 63034 | [63034-captain-bubblenaut.json](./63034-captain-bubblenaut.json) |
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
+| Captain Carnage | 303391 | [303391-captain-carnage.json](./303391-captain-carnage.json) |
 | Captain Cat | 119294 | [119294-captain-cat.json](./119294-captain-cat.json) |
 | Captain CigArrr | 192498 | [192498-captain-cigarrr.json](./192498-captain-cigarrr.json) |
 | Captain Clive: Danger From Dione | 138413 | [138413-captain-clive-danger-from-dione.json](./138413-captain-clive-danger-from-dione.json) |
@@ -2193,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | Captive of Fortune | 81137 | [81137-captive-of-fortune.json](./81137-captive-of-fortune.json) |
+| Captive: You Are My Idol | 303392 | [303392-captive-you-are-my-idol.json](./303392-captive-you-are-my-idol.json) |
 | Captivity | 31075 | [31075-captivity.json](./31075-captivity.json) |
 | Captivity Horror Multiplayer | 276348 | [276348-captivity-horror-multiplayer.json](./276348-captivity-horror-multiplayer.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
@@ -2274,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Boosting | 25407 | [25407-car-boosting.json](./25407-car-boosting.json) |
 | Car Builder | 97187 | [97187-car-builder.json](./97187-car-builder.json) |
 | Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
+| Car Car Up! | 303393 | [303393-car-car-up.json](./303393-car-car-up.json) |
 | Car Carrier Simulator | 326460 | [326460-car-carrier-simulator.json](./326460-car-carrier-simulator.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Chase Simulator | 222760 | [222760-car-chase-simulator.json](./222760-car-chase-simulator.json) |
@@ -2914,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardterrupters | 213564 | [213564-cardterrupters.json](./213564-cardterrupters.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | Cardtonia | 389373 | [389373-cardtonia.json](./389373-cardtonia.json) |
+| Cardverse | 303394 | [303394-cardverse.json](./303394-cardverse.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | Cardwheel | 390876 | [390876-cardwheel.json](./390876-cardwheel.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
@@ -2930,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Let's Have a Ball! | 69608 | [69608-care-bears-lets-have-a-ball.json](./69608-care-bears-lets-have-a-ball.json) |
 | Care Bears: Rainbow Ride | 421388 | [421388-care-bears-rainbow-ride.json](./421388-care-bears-rainbow-ride.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
+| Care Bears: To The Rescue | 303395 | [303395-care-bears-to-the-rescue.json](./303395-care-bears-to-the-rescue.json) |
 | Care Bears: Unlock the Magic | 324758 | [324758-care-bears-unlock-the-magic.json](./324758-care-bears-unlock-the-magic.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
@@ -2989,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
 | Cargo: Co-Op Delivery Simulator in Post Apocalyptic World | 362761 | [362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json](./362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json) |
 | Cargo: TD on Rails | 173958 | [173958-cargo-td-on-rails.json](./173958-cargo-td-on-rails.json) |
+| CarGo! | 303396 | [303396-cargo.json](./303396-cargo.json) |
 | Cargobros | 264776 | [264776-cargobros.json](./264776-cargobros.json) |
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
@@ -3312,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars Puzzles Game | 222052 | [222052-cars-puzzles-game.json](./222052-cars-puzzles-game.json) |
 | Cars Race-O-Rama | 307494 | [307494-cars-race-o-rama.json](./307494-cars-race-o-rama.json) |
 | Cars Race-O-Rama | 4749 | [4749-cars-race-o-rama.json](./4749-cars-race-o-rama.json) |
+| Cars Spin | 303397 | [303397-cars-spin.json](./303397-cars-spin.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon Mater's Tall Tales | 50687 | [50687-cars-toon-maters-tall-tales.json](./50687-cars-toon-maters-tall-tales.json) |
@@ -5184,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catwalk Battle | 208912 | [208912-catwalk-battle.json](./208912-catwalk-battle.json) |
 | Catwave95 | 303728 | [303728-catwave95.json](./303728-catwave95.json) |
 | Catwifhat | 323436 | [323436-catwifhat.json](./323436-catwifhat.json) |
+| Catwink | 303398 | [303398-catwink.json](./303398-catwink.json) |
 | Catwoman | 248498 | [248498-catwoman.json](./248498-catwoman.json) |
 | Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
@@ -5301,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
 | Cave Hikers | 291869 | [291869-cave-hikers.json](./291869-cave-hikers.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
+| Cave In | 303399 | [303399-cave-in.json](./303399-cave-in.json) |
 | Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
 | Cave Nightmare | 161620 | [161620-cave-nightmare.json](./161620-cave-nightmare.json) |
 | Cave Noire | 49076 | [49076-cave-noire.json](./49076-cave-noire.json) |
@@ -5565,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cecile | 84489 | [84489-cecile.json](./84489-cecile.json) |
 | Cedar Junction | 114120 | [114120-cedar-junction.json](./114120-cedar-junction.json) |
 | Cede | 108974 | [108974-cede.json](./108974-cede.json) |
+| Cede | 303400 | [303400-cede.json](./303400-cede.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cedric and the Revolution | 70030 | [70030-cedric-and-the-revolution.json](./70030-cedric-and-the-revolution.json) |
@@ -5648,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Clockwork | 374241 | [374241-celestial-clockwork.json](./374241-celestial-clockwork.json) |
 | Celestial Coffee Quest | 404643 | [404643-celestial-coffee-quest.json](./404643-celestial-coffee-quest.json) |
 | Celestial Command | 17978 | [17978-celestial-command.json](./17978-celestial-command.json) |
+| Celestial Contact | 303403 | [303403-celestial-contact.json](./303403-celestial-contact.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
@@ -5675,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
 | Celestial Reactors | 161570 | [161570-celestial-reactors.json](./161570-celestial-reactors.json) |
+| Celestial Rescuers 2: Zero Mission | 303402 | [303402-celestial-rescuers-2-zero-mission.json](./303402-celestial-rescuers-2-zero-mission.json) |
 | Celestial Return | 277763 | [277763-celestial-return.json](./277763-celestial-return.json) |
 | Celestial Reverie | 406574 | [406574-celestial-reverie.json](./406574-celestial-reverie.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
@@ -5927,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEO Fish | 288805 | [288805-ceo-fish.json](./288805-ceo-fish.json) |
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | CEO Test | 24790 | [24790-ceo-test.json](./24790-ceo-test.json) |
+| CEO Tycoon: My Game Studio | 303404 | [303404-ceo-tycoon-my-game-studio.json](./303404-ceo-tycoon-my-game-studio.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol Anthology | 171688 | [171688-cepheus-protocol-anthology.json](./171688-cepheus-protocol-anthology.json) |
 | Cepheus Protocol: Free Vehicle Camo Post Modern Collection | 256998 | [256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json](./256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json) |
@@ -19986,6 +20001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Robbery | 333285 | [333285-crypt-robbery.json](./333285-crypt-robbery.json) |
 | Crypt Stalker | 140858 | [140858-crypt-stalker.json](./140858-crypt-stalker.json) |
 | Crypt Stalker: Boss Rush+ | 303873 | [303873-crypt-stalker-boss-rush.json](./303873-crypt-stalker-boss-rush.json) |
+| Crypt Stalker: Deluxe Edition | 303843 | [303843-crypt-stalker-deluxe-edition.json](./303843-crypt-stalker-deluxe-edition.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
 | Crypt Stalker: Extra Quests | 303874 | [303874-crypt-stalker-extra-quests.json](./303874-crypt-stalker-extra-quests.json) |
 | Crypt Stalker: Happy Edition | 306521 | [306521-crypt-stalker-happy-edition.json](./306521-crypt-stalker-happy-edition.json) |
