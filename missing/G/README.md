@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachapin Bomberman | 198038 | [198038-gachapin-bomberman.json](./198038-gachapin-bomberman.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
+| GachaPon! | 288939 | [288939-gachapon.json](./288939-gachapon.json) |
 | Gacharoku | 198090 | [198090-gacharoku.json](./198090-gacharoku.json) |
 | Gachasute! Dino Device - Blue | 49500 | [49500-gachasute-dino-device-blue.json](./49500-gachasute-dino-device-blue.json) |
 | Gachasute! Dino Device - Red | 49499 | [49499-gachasute-dino-device-red.json](./49499-gachasute-dino-device-red.json) |
@@ -9542,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green City | 146462 | [146462-green-city.json](./146462-green-city.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Crust | 184799 | [184799-green-crust.json](./184799-green-crust.json) |
+| Green Crystal | 289045 | [289045-green-crystal.json](./289045-green-crystal.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Day: Rock Band | 2694 | [2694-green-day-rock-band.json](./2694-green-day-rock-band.json) |
@@ -11916,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunQuest | 195624 | [195624-gunquest.json](./195624-gunquest.json) |
 | Gunr.io | 57982 | [57982-gunr-io.json](./57982-gunr-io.json) |
 | Gunrail | 179448 | [179448-gunrail.json](./179448-gunrail.json) |
+| GunRoad | 289042 | [289042-gunroad.json](./289042-gunroad.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
 | GunRun | 266604 | [266604-gunrun.json](./266604-gunrun.json) |
