@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
 | Bananaman: Food Fighter | 312817 | [312817-bananaman-food-fighter.json](./312817-bananaman-food-fighter.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
+| Bananamania | 302824 | [302824-bananamania.json](./302824-bananamania.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
 | Bananarama | 351547 | [351547-bananarama.json](./351547-bananarama.json) |
 | Bananarang: The Scattered Shards | 264016 | [264016-bananarang-the-scattered-shards.json](./264016-bananarang-the-scattered-shards.json) |
@@ -5612,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
 | Beat Ninja | 32326 | [32326-beat-ninja.json](./32326-beat-ninja.json) |
 | Beat of Life | 347311 | [347311-beat-of-life.json](./347311-beat-of-life.json) |
+| Beat of Montezuma | 301761 | [301761-beat-of-montezuma.json](./301761-beat-of-montezuma.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
 | Beat of the Pixel Heat | 248833 | [248833-beat-of-the-pixel-heat.json](./248833-beat-of-the-pixel-heat.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
@@ -18276,6 +18278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy10 | 339397 | [339397-buggy10.json](./339397-buggy10.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
+| Bugnauts! | 302826 | [302826-bugnauts.json](./302826-bugnauts.json) |
 | BugOut | 89075 | [89075-bugout.json](./89075-bugout.json) |
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
 | Bugs | 18802 | [18802-bugs.json](./18802-bugs.json) |
@@ -18986,6 +18989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Shadow | 303384 | [303384-bunny-shadow.json](./303384-bunny-shadow.json) |
 | Bunny Space Odyssey: FlopHop | 379177 | [379177-bunny-space-odyssey-flophop.json](./379177-bunny-space-odyssey-flophop.json) |
+| Bunny Space Odyssey: The Countdown | 302829 | [302829-bunny-space-odyssey-the-countdown.json](./302829-bunny-space-odyssey-the-countdown.json) |
 | Bunny Sudoku | 126330 | [126330-bunny-sudoku.json](./126330-bunny-sudoku.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
