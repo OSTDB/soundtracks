@@ -14931,6 +14931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Précipice | 415251 | [415251-precipice.json](./415251-precipice.json) |
+| Precipice Continuum | 271435 | [271435-precipice-continuum.json](./271435-precipice-continuum.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precipitous | 279073 | [279073-precipitous.json](./279073-precipitous.json) |
 | Precision | 199143 | [199143-precision.json](./199143-precision.json) |
