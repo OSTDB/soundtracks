@@ -6305,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
 | Owinka Shooter | 211614 | [211614-owinka-shooter.json](./211614-owinka-shooter.json) |
+| Owinka Shooter 2 | 247790 | [247790-owinka-shooter-2.json](./247790-owinka-shooter-2.json) |
 | Owl and Pals Preschool Lessons | 87274 | [87274-owl-and-pals-preschool-lessons.json](./87274-owl-and-pals-preschool-lessons.json) |
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
 | Owl Country | 71729 | [71729-owl-country.json](./71729-owl-country.json) |
