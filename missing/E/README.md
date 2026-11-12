@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emiko's Pledge 4 | 306393 | [306393-emikos-pledge-4.json](./306393-emikos-pledge-4.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
+| Emiline: The Ghost of White Willow | 249978 | [249978-emiline-the-ghost-of-white-willow.json](./249978-emiline-the-ghost-of-white-willow.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
 | Emily | 334036 | [334036-emily.json](./334036-emily.json) |
 | Emily Archer and the Curse of Tutankhamun | 128290 | [128290-emily-archer-and-the-curse-of-tutankhamun.json](./128290-emily-archer-and-the-curse-of-tutankhamun.json) |
