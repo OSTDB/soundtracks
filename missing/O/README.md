@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
 | One Lonely Outpost | 141682 | [141682-one-lonely-outpost.json](./141682-one-lonely-outpost.json) |
 | One Lonely Outpost + Echoes of the Plum Grove | 357022 | [357022-one-lonely-outpost-echoes-of-the-plum-grove.json](./357022-one-lonely-outpost-echoes-of-the-plum-grove.json) |
+| One Long Night with the Circleheads | 309697 | [309697-one-long-night-with-the-circleheads.json](./309697-one-long-night-with-the-circleheads.json) |
 | One Love | 97663 | [97663-one-love.json](./97663-one-love.json) |
 | One Man and His Dinosaur | 396430 | [396430-one-man-and-his-dinosaur.json](./396430-one-man-and-his-dinosaur.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
@@ -3792,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Valor | 121310 | [121310-operation-valor.json](./121310-operation-valor.json) |
 | Operation Whirlwind | 23964 | [23964-operation-whirlwind.json](./23964-operation-whirlwind.json) |
 | Operation Wolf | 12190 | [12190-operation-wolf.json](./12190-operation-wolf.json) |
+| Operation Wolf | 309248 | [309248-operation-wolf.json](./309248-operation-wolf.json) |
 | Operation Wolf 3 | 40377 | [40377-operation-wolf-3.json](./40377-operation-wolf-3.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Wolf Returns: First Mission - D1 Edition | 218214 | [218214-operation-wolf-returns-first-mission-d1-edition.json](./218214-operation-wolf-returns-first-mission-d1-edition.json) |
