@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Zoo | 107511 | [107511-viki-spotter-zoo.json](./107511-viki-spotter-zoo.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking | 41184 | [41184-viking.json](./41184-viking.json) |
+| Viking Age | 251262 | [251262-viking-age.json](./251262-viking-age.json) |
 | Viking Age: Odin’s Warrior | 103414 | [103414-viking-age-odin-s-warrior.json](./103414-viking-age-odin-s-warrior.json) |
 | Viking Berserker | 154050 | [154050-viking-berserker.json](./154050-viking-berserker.json) |
 | Viking Breaker | 346586 | [346586-viking-breaker.json](./346586-viking-breaker.json) |
