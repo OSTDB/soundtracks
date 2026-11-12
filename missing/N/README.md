@@ -6299,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Other Alchemists Here | 347958 | [347958-no-other-alchemists-here.json](./347958-no-other-alchemists-here.json) |
+| No Other Cure | 286705 | [286705-no-other-cure.json](./286705-no-other-cure.json) |
 | No Outlet | 201633 | [201633-no-outlet.json](./201633-no-outlet.json) |
 | No Pain No Gain | 390604 | [390604-no-pain-no-gain.json](./390604-no-pain-no-gain.json) |
 | No Paint | 241813 | [241813-no-paint.json](./241813-no-paint.json) |
@@ -8321,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY Times | 358269 | [358269-ny-times.json](./358269-ny-times.json) |
 | NY Warriors | 69663 | [69663-ny-warriors.json](./69663-ny-warriors.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
+| Nya Nya Nya Girls 2 | 286727 | [286727-nya-nya-nya-girls-2.json](./286727-nya-nya-nya-girls-2.json) |
 | Nyaa to Chuu no Rainbow Magic 2 | 287263 | [287263-nyaa-to-chuu-no-rainbow-magic-2.json](./287263-nyaa-to-chuu-no-rainbow-magic-2.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
 | Nyaf | 159484 | [159484-nyaf.json](./159484-nyaf.json) |
