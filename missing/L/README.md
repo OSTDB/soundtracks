@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
 | Level Up Simulator | 389117 | [389117-level-up-simulator.json](./389117-level-up-simulator.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
+| Level Up: The Playable Rap Album | 303836 | [303836-level-up-the-playable-rap-album.json](./303836-level-up-the-playable-rap-album.json) |
 | Level Up! | 36192 | [36192-level-up.json](./36192-level-up.json) |
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Up! Factory | 298153 | [298153-level-up-factory.json](./298153-level-up-factory.json) |
