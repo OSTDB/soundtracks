@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Bounce | 217460 | [217460-baldy-bounce.json](./217460-baldy-bounce.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Baldy Land | 45420 | [45420-baldy-land.json](./45420-baldy-land.json) |
+| Bale Out | 247164 | [247164-bale-out.json](./247164-bale-out.json) |
 | Balefire Blues | 410201 | [410201-balefire-blues.json](./410201-balefire-blues.json) |
 | Balefire: Ashes To Ashes | 360285 | [360285-balefire-ashes-to-ashes.json](./360285-balefire-ashes-to-ashes.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
@@ -15991,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave | 334601 | [334601-brave.json](./334601-brave.json) |
 | Brave | 6926 | [6926-brave.json](./6926-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
+| Brave Adventurer | 247148 | [247148-brave-adventurer.json](./247148-brave-adventurer.json) |
 | Brave Alchemist Colette | 122360 | [122360-brave-alchemist-colette.json](./122360-brave-alchemist-colette.json) |
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
@@ -16454,6 +16456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
 | Breaker Brick Smashing | 347040 | [347040-breaker-brick-smashing.json](./347040-breaker-brick-smashing.json) |
+| Breaker Fun: Rescue Adventure | 247234 | [247234-breaker-fun-rescue-adventure.json](./247234-breaker-fun-rescue-adventure.json) |
 | Breaker Hearts | 350917 | [350917-breaker-hearts.json](./350917-breaker-hearts.json) |
 | Breaker Initiating | 327033 | [327033-breaker-initiating.json](./327033-breaker-initiating.json) |
 | Breaker of Fatalism | 348739 | [348739-breaker-of-fatalism.json](./348739-breaker-of-fatalism.json) |
