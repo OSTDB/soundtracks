@@ -11405,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
 | Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
+| Silicon Scramble | 280490 | [280490-silicon-scramble.json](./280490-silicon-scramble.json) |
 | Silicon Scream | 242887 | [242887-silicon-scream.json](./242887-silicon-scream.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
