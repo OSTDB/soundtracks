@@ -9479,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwreck | 176573 | [176573-shipwreck.json](./176573-shipwreck.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
 | Shipwreck Escape | 152827 | [152827-shipwreck-escape.json](./152827-shipwreck-escape.json) |
+| Shipwrecked | 263713 | [263713-shipwrecked.json](./263713-shipwrecked.json) |
 | Shipwrecked | 265295 | [265295-shipwrecked.json](./265295-shipwrecked.json) |
 | Shipwrecked | 313859 | [313859-shipwrecked.json](./313859-shipwrecked.json) |
 | Shipwrecked 64 | 210339 | [210339-shipwrecked-64.json](./210339-shipwrecked-64.json) |
@@ -28702,6 +28703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
 | Step by Little Step | 308097 | [308097-step-by-little-step.json](./308097-step-by-little-step.json) |
 | Step by star | 75528 | [75528-step-by-star.json](./75528-step-by-star.json) |
+| Step By Step | 263705 | [263705-step-by-step.json](./263705-step-by-step.json) |
 | Step By Step | 54646 | [54646-step-by-step.json](./54646-step-by-step.json) |
 | Step By Step Hero | 221099 | [221099-step-by-step-hero.json](./221099-step-by-step-hero.json) |
 | Step into the Abyss | 298123 | [298123-step-into-the-abyss.json](./298123-step-into-the-abyss.json) |
