@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can't Finish | 167398 | [167398-you-cant-finish.json](./167398-you-cant-finish.json) |
 | You Can't Fuck on an Empty Stomach | 118145 | [118145-you-cant-fuck-on-an-empty-stomach.json](./118145-you-cant-fuck-on-an-empty-stomach.json) |
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
+| You Can't Scare Me | 316908 | [316908-you-cant-scare-me.json](./316908-you-cant-scare-me.json) |
 | You Can't Win This Game | 361263 | [361263-you-cant-win-this-game.json](./361263-you-cant-win-this-game.json) |
 | You Cannot Go Back! | 201990 | [201990-you-cannot-go-back.json](./201990-you-cannot-go-back.json) |
 | You Cans Do It! | 183680 | [183680-you-cans-do-it.json](./183680-you-cans-do-it.json) |
@@ -1293,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
 | You Remembered | 388668 | [388668-you-remembered.json](./388668-you-remembered.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
+| You See Me? | 312493 | [312493-you-see-me.json](./312493-you-see-me.json) |
 | You Shall Not Break! | 111397 | [111397-you-shall-not-break.json](./111397-you-shall-not-break.json) |
 | You Shall Not Jump | 140150 | [140150-you-shall-not-jump.json](./140150-you-shall-not-jump.json) |
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
