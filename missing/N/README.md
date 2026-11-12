@@ -8079,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Moon | 277497 | [277497-null-moon.json](./277497-null-moon.json) |
 | Null Path | 327912 | [327912-null-path.json](./327912-null-path.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
+| Null Space | 259220 | [259220-null-space.json](./259220-null-space.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Train | 373497 | [373497-null-train.json](./373497-null-train.json) |
 | Null Transit | 374582 | [374582-null-transit.json](./374582-null-transit.json) |
@@ -8257,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nunya | 323414 | [323414-nunya.json](./323414-nunya.json) |
 | NuPa | 106285 | [106285-nupa.json](./106285-nupa.json) |
+| Nūr | 259189 | [259189-nur.json](./259189-nur.json) |
 | Nura's Wish | 165275 | [165275-nuras-wish.json](./165275-nuras-wish.json) |
 | Nurarihyon no Mago: Hyakki Ryouran Taisen | 47426 | [47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json](./47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json) |
 | Nuravil Conflict | 134200 | [134200-nuravil-conflict.json](./134200-nuravil-conflict.json) |
@@ -8440,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 297167 | [297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 304978 | [304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
 | Nyoki Nyoki: Tabidachi-hen | 57991 | [57991-nyoki-nyoki-tabidachi-hen.json](./57991-nyoki-nyoki-tabidachi-hen.json) |
+| Nyomi Wants a Job! | 259224 | [259224-nyomi-wants-a-job.json](./259224-nyomi-wants-a-job.json) |
 | Nyonin-jima 2: Shima Hitotsu Marugoto Hame Pako Haramase Seikatsu | 408514 | [408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json](./408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json) |
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
