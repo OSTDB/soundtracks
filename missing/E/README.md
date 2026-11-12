@@ -3294,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Tale | 71930 | [71930-emerald-tale.json](./71930-emerald-tale.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
+| Emerald Wasp | 251268 | [251268-emerald-wasp.json](./251268-emerald-wasp.json) |
 | Emerald Woods | 275656 | [275656-emerald-woods.json](./275656-emerald-woods.json) |
 | Emeraldia | 83423 | [83423-emeraldia.json](./83423-emeraldia.json) |
 | Emeraldium | 294207 | [294207-emeraldium.json](./294207-emeraldium.json) |
