@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6673,8 +6674,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejazzled | 94977 | [94977-bejazzled.json](./94977-bejazzled.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
 | Bejeweled | 202092 | [202092-bejeweled.json](./202092-bejeweled.json) |
+| Bejeweled | 281616 | [281616-bejeweled.json](./281616-bejeweled.json) |
+| Bejeweled | 281617 | [281617-bejeweled.json](./281617-bejeweled.json) |
 | Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
+| Bejeweled 2 | 281613 | [281613-bejeweled-2.json](./281613-bejeweled-2.json) |
 | Bejeweled 2 | 614 | [614-bejeweled-2.json](./614-bejeweled-2.json) |
+| Bejeweled 2 Arcade | 281615 | [281615-bejeweled-2-arcade.json](./281615-bejeweled-2-arcade.json) |
 | Bejeweled 2 Deluxe | 14806 | [14806-bejeweled-2-deluxe.json](./14806-bejeweled-2-deluxe.json) |
 | Bejeweled 3 | 1978 | [1978-bejeweled-3.json](./1978-bejeweled-3.json) |
 | Bejeweled 3 | 202091 | [202091-bejeweled-3.json](./202091-bejeweled-3.json) |
@@ -10022,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 41530 | [41530-blackjack.json](./41530-blackjack.json) |
 | Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
 | Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
+| Blackjack & Poker | 281146 | [281146-blackjack-and-poker.json](./281146-blackjack-and-poker.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
 | Blackjack 21: Blackjackist | 367740 | [367740-blackjack-21-blackjackist.json](./367740-blackjack-21-blackjackist.json) |
 | Blackjack Academy | 12352 | [12352-blackjack-academy.json](./12352-blackjack-academy.json) |
@@ -15665,6 +15671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
 | Brain Quiz | 266120 | [266120-brain-quiz.json](./266120-brain-quiz.json) |
+| Brain Quiz | 281147 | [281147-brain-quiz.json](./281147-brain-quiz.json) |
 | Brain Riddle | 396473 | [396473-brain-riddle.json](./396473-brain-riddle.json) |
 | Brain Rot Excellence | 251062 | [251062-brain-rot-excellence.json](./251062-brain-rot-excellence.json) |
 | Brain Runner: Dreamcore Movement Shooter | 414137 | [414137-brain-runner-dreamcore-movement-shooter.json](./414137-brain-runner-dreamcore-movement-shooter.json) |
@@ -16347,6 +16354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakable 1.0 | 106712 | [106712-breakable-1-0.json](./106712-breakable-1-0.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway | 24652 | [24652-breakaway.json](./24652-breakaway.json) |
+| Breakaway | 281148 | [281148-breakaway.json](./281148-breakaway.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall | 304651 | [304651-breakball.json](./304651-breakball.json) |
 | Breakball Lost In Space | 146514 | [146514-breakball-lost-in-space.json](./146514-breakball-lost-in-space.json) |
