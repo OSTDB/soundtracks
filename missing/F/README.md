@@ -15056,6 +15056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari College: Episode 1 | 277995 | [277995-futanari-college-episode-1.json](./277995-futanari-college-episode-1.json) |
 | Futanari di Funghi | 260333 | [260333-futanari-di-funghi.json](./260333-futanari-di-funghi.json) |
 | Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
+| Futanari Girlfriends | 264923 | [264923-futanari-girlfriends.json](./264923-futanari-girlfriends.json) |
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
 | Futanari Have a Heart Too | 384722 | [384722-futanari-have-a-heart-too.json](./384722-futanari-have-a-heart-too.json) |
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
