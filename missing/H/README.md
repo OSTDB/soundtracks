@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli-Shooter | 257822 | [257822-heli-shooter.json](./257822-heli-shooter.json) |
 | Heli-Yeah! Bundle | 154962 | [154962-heli-yeah-bundle.json](./154962-heli-yeah-bundle.json) |
 | Heliborne | 33764 | [33764-heliborne.json](./33764-heliborne.json) |
+| Heliborne Collection | 248934 | [248934-heliborne-collection.json](./248934-heliborne-collection.json) |
 | Heliborne: Enhanced Edition | 248802 | [248802-heliborne-enhanced-edition.json](./248802-heliborne-enhanced-edition.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
 | Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
@@ -6994,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
 | Hex Shop | 398260 | [398260-hex-shop.json](./398260-hex-shop.json) |
 | Hex Slayer | 158115 | [158115-hex-slayer.json](./158115-hex-slayer.json) |
+| Hex Strikers | 248948 | [248948-hex-strikers.json](./248948-hex-strikers.json) |
 | Hex Survivor | 210412 | [210412-hex-survivor.json](./210412-hex-survivor.json) |
 | Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
 | Hex Tower Boogie | 407836 | [407836-hex-tower-boogie.json](./407836-hex-tower-boogie.json) |
