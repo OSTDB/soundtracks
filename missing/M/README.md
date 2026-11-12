@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Room No.3 | 333193 | [333193-mad-room-no-3.json](./333193-mad-room-no-3.json) |
 | Mad Runner | 215438 | [215438-mad-runner.json](./215438-mad-runner.json) |
 | Mad Sage | 271890 | [271890-mad-sage.json](./271890-mad-sage.json) |
+| Mad Scientist | 254740 | [254740-mad-scientist.json](./254740-mad-scientist.json) |
 | Mad Scientist: Dr. Eureka | 24200 | [24200-mad-scientist-dr-eureka.json](./24200-mad-scientist-dr-eureka.json) |
 | Mad Shark | 322211 | [322211-mad-shark.json](./322211-mad-shark.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
+| Mage Mania | 254736 | [254736-mage-mania.json](./254736-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage Math | 122060 | [122060-mage-math.json](./122060-mage-math.json) |
 | Mage Mayhem | 256102 | [256102-mage-mayhem.json](./256102-mage-mayhem.json) |
@@ -6960,8 +6962,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McCourty Twins: INT Challenge | 100648 | [100648-mccourty-twins-int-challenge.json](./100648-mccourty-twins-int-challenge.json) |
 | McDonald's Chicken McNugget Tetris | 251023 | [251023-mcdonalds-chicken-mcnugget-tetris.json](./251023-mcdonalds-chicken-mcnugget-tetris.json) |
 | McDonald's de Asobo! | 63044 | [63044-mcdonalds-de-asobo.json](./63044-mcdonalds-de-asobo.json) |
+| McDonald's Dragons: Earth | 254798 | [254798-mcdonalds-dragons-earth.json](./254798-mcdonalds-dragons-earth.json) |
+| McDonald's Dragons: Fire | 254799 | [254799-mcdonalds-dragons-fire.json](./254799-mcdonalds-dragons-fire.json) |
+| McDonald's Dragons: Ice | 254797 | [254797-mcdonalds-dragons-ice.json](./254797-mcdonalds-dragons-ice.json) |
+| McDonald's Dragons: Wind | 254800 | [254800-mcdonalds-dragons-wind.json](./254800-mcdonalds-dragons-wind.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
+| McDonald's Fairies: Sunflower | 254795 | [254795-mcdonalds-fairies-sunflower.json](./254795-mcdonalds-fairies-sunflower.json) |
+| McDonald's Fairies: Violet | 254796 | [254796-mcdonalds-fairies-violet.json](./254796-mcdonalds-fairies-violet.json) |
 | McDonald's Monogatari: Honobono Tenchou Ikusei Game | 61383 | [61383-mcdonalds-monogatari-honobono-tenchou-ikusei-game.json](./61383-mcdonalds-monogatari-honobono-tenchou-ikusei-game.json) |
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
@@ -9848,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menara: Grass Land | 282732 | [282732-menara-grass-land.json](./282732-menara-grass-land.json) |
 | Menateus | 72168 | [72168-menateus.json](./72168-menateus.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
+| Mencia: A Never Was Tale | 254727 | [254727-mencia-a-never-was-tale.json](./254727-mencia-a-never-was-tale.json) |
 | Mend Arcade Battle | 169959 | [169959-mend-arcade-battle.json](./169959-mend-arcade-battle.json) |
 | Mend Game | 134928 | [134928-mend-game.json](./134928-mend-game.json) |
 | Mendacium | 273466 | [273466-mendacium.json](./273466-mendacium.json) |
@@ -13067,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
 | Minced | 309960 | [309960-minced.json](./309960-minced.json) |
 | Mincer City | 270693 | [270693-mincer-city.json](./270693-mincer-city.json) |
+| Mind | 254732 | [254732-mind.json](./254732-mind.json) |
 | Mind 720 | 330947 | [330947-mind-720.json](./330947-mind-720.json) |
 | Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
 | Mind Benderz X | 323206 | [323206-mind-benderz-x.json](./323206-mind-benderz-x.json) |
@@ -17472,6 +17482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Radar Plus | 148202 | [148202-monster-radar-plus.json](./148202-monster-radar-plus.json) |
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
 | Monster Ramp Racing | 368753 | [368753-monster-ramp-racing.json](./368753-monster-ramp-racing.json) |
+| Monster Rampage VR | 255933 | [255933-monster-rampage-vr.json](./255933-monster-rampage-vr.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher 1 & 2 DX | 165816 | [165816-monster-rancher-1-and-2-dx.json](./165816-monster-rancher-1-and-2-dx.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
