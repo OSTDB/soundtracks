@@ -4002,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
 | Junte 4 | 230656 | [230656-junte-4.json](./230656-junte-4.json) |
 | Junte 4 | 359758 | [359758-junte-4.json](./359758-junte-4.json) |
+| Junxions | 304932 | [304932-junxions.json](./304932-junxions.json) |
 | Junyong Shenqing | 73406 | [73406-junyong-shenqing.json](./73406-junyong-shenqing.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
