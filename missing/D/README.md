@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisuki: The Her Adonis | 317466 | [317466-daisuki-the-her-adonis.json](./317466-daisuki-the-her-adonis.json) |
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
+| Daisy Dangerous | 303832 | [303832-daisy-dangerous.json](./303832-daisy-dangerous.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
 | Daisy Fuentes Pilates | 6657 | [6657-daisy-fuentes-pilates.json](./6657-daisy-fuentes-pilates.json) |
 | Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
