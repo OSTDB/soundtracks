@@ -2206,6 +2206,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Hell | 348916 | [348916-3-hell.json](./348916-3-hell.json) |
 | 3 Heroes: Crystal Soul | 84586 | [84586-3-heroes-crystal-soul.json](./84586-3-heroes-crystal-soul.json) |
 | 3 Heures D'Agonie | 257264 | [257264-3-heures-dagonie.json](./257264-3-heures-dagonie.json) |
+| 3 Heures D'Agonie 2 | 260915 | [260915-3-heures-dagonie-2.json](./260915-3-heures-dagonie-2.json) |
+| 3 Heures D'Agonie 3 | 260917 | [260917-3-heures-dagonie-3.json](./260917-3-heures-dagonie-3.json) |
 | 3 Hit Blunders Bundle | 254418 | [254418-3-hit-blunders-bundle.json](./254418-3-hit-blunders-bundle.json) |
 | 3 in 1 College & Pro Football | 418709 | [418709-3-in-1-college-and-pro-football.json](./418709-3-in-1-college-and-pro-football.json) |
 | 3 in 1 Supergun | 247301 | [247301-3-in-1-supergun.json](./247301-3-in-1-supergun.json) |
