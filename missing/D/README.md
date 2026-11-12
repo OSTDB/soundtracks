@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
 | Darkland 2 | 275281 | [275281-darkland-2.json](./275281-darkland-2.json) |
+| Darkland 3 | 251279 | [251279-darkland-3.json](./251279-darkland-3.json) |
 | Darkland II | 165838 | [165838-darkland-ii.json](./165838-darkland-ii.json) |
 | Darklands | 2467 | [2467-darklands.json](./2467-darklands.json) |
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
