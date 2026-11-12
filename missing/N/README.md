@@ -1623,7 +1623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near | 285375 | [285375-near.json](./285375-near.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Deadline | 158510 | [158510-near-deadline.json](./158510-near-deadline.json) |
-| Near Death | 18434 | [18434-near-death.json](./18434-near-death.json) |
 | Near Depth Experience | 421777 | [421777-near-depth-experience.json](./421777-near-depth-experience.json) |
 | Near Earth Objects | 84622 | [84622-near-earth-objects.json](./84622-near-earth-objects.json) |
 | Near Fantasy Space | 268965 | [268965-near-fantasy-space.json](./268965-near-fantasy-space.json) |
