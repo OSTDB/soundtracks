@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Thexder PC-8801mkIISR | 274444 | [274444-eggconsole-thexder-pc-8801mkiisr.json](./274444-eggconsole-thexder-pc-8801mkiisr.json) |
 | Eggconsole Topple Zip PC-8801 | 306531 | [306531-eggconsole-topple-zip-pc-8801.json](./306531-eggconsole-topple-zip-pc-8801.json) |
 | Eggconsole Tritorn MSX | 349581 | [349581-eggconsole-tritorn-msx.json](./349581-eggconsole-tritorn-msx.json) |
+| Eggconsole Tritorn PC-8801 | 305570 | [305570-eggconsole-tritorn-pc-8801.json](./305570-eggconsole-tritorn-pc-8801.json) |
 | Eggconsole Undeadline MSX2 | 320448 | [320448-eggconsole-undeadline-msx2.json](./320448-eggconsole-undeadline-msx2.json) |
 | Eggconsole Wanderers From Ys MSX2 | 342389 | [342389-eggconsole-wanderers-from-ys-msx2.json](./342389-eggconsole-wanderers-from-ys-msx2.json) |
 | Eggconsole Wanderers From Ys PC-8801mkIISR | 300861 | [300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json](./300861-eggconsole-wanderers-from-ys-pc-8801mkiisr.json) |
