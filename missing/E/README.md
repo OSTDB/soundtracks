@@ -6709,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
 | Etherburn | 337391 | [337391-etherburn.json](./337391-etherburn.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
+| Ethereal | 307436 | [307436-ethereal.json](./307436-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
 | Ethereal Fracture | 295747 | [295747-ethereal-fracture.json](./295747-ethereal-fracture.json) |
