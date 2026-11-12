@@ -16155,6 +16155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporeal | 321258 | [321258-corporeal.json](./321258-corporeal.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
 | Corposlop | 416231 | [416231-corposlop.json](./416231-corposlop.json) |
+| Corpse | 256506 | [256506-corpse.json](./256506-corpse.json) |
 | Corpse Box Racers | 176586 | [176586-corpse-box-racers.json](./176586-corpse-box-racers.json) |
 | Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
 | Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
