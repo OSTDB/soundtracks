@@ -3902,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
 | Reconquista | 384598 | [384598-reconquista.json](./384598-reconquista.json) |
 | Reconstruction | 130101 | [130101-reconstruction.json](./130101-reconstruction.json) |
+| Reconstruction/Decomposition | 261497 | [261497-reconstruction-decomposition.json](./261497-reconstruction-decomposition.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
 | Record Life | 126307 | [126307-record-life.json](./126307-record-life.json) |
@@ -14129,6 +14130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | Rygrad | 224722 | [224722-rygrad.json](./224722-rygrad.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
+| Rylayeh | 261479 | [261479-rylayeh.json](./261479-rylayeh.json) |
 | Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
 | Rymdjakten | 92585 | [92585-rymdjakten.json](./92585-rymdjakten.json) |
