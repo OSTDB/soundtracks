@@ -4451,7 +4451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Cabin | 298653 | [298653-night-at-the-cabin.json](./298653-night-at-the-cabin.json) |
 | Night at the Full Moon Motel | 253755 | [253755-night-at-the-full-moon-motel.json](./253755-night-at-the-full-moon-motel.json) |
 | Night at the Fun Park | 420345 | [420345-night-at-the-fun-park.json](./420345-night-at-the-fun-park.json) |
-| Night At the Gates of Hell | 207381 | [207381-night-at-the-gates-of-hell.json](./207381-night-at-the-gates-of-hell.json) |
 | Night at the Grindhouse | 10599 | [10599-night-at-the-grindhouse.json](./10599-night-at-the-grindhouse.json) |
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
@@ -6713,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NodeRunner | 289721 | [289721-noderunner.json](./289721-noderunner.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
 | Nodes Escape | 256603 | [256603-nodes-escape.json](./256603-nodes-escape.json) |
+| Nodes Machine Escape | 315754 | [315754-nodes-machine-escape.json](./315754-nodes-machine-escape.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodes of Yesod: 25th Anniversary Edition | 264975 | [264975-nodes-of-yesod-25th-anniversary-edition.json](./264975-nodes-of-yesod-25th-anniversary-edition.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
