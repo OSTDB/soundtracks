@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Lost Hope | 115905 | [115905-outbreak-lost-hope.json](./115905-outbreak-lost-hope.json) |
 | Outbreak: Lost Hope - Broken Faith | 261360 | [261360-outbreak-lost-hope-broken-faith.json](./261360-outbreak-lost-hope-broken-faith.json) |
 | Outbreak: Lost Hope - Definitive Edition | 164667 | [164667-outbreak-lost-hope-definitive-edition.json](./164667-outbreak-lost-hope-definitive-edition.json) |
+| Outbreak: Lydia Daniels Collection | 301741 | [301741-outbreak-lydia-daniels-collection.json](./301741-outbreak-lydia-daniels-collection.json) |
 | Outbreak: Old School Collection | 314154 | [314154-outbreak-old-school-collection.json](./314154-outbreak-old-school-collection.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
 | Outbreak: Pandemic Evolution | 33504 | [33504-outbreak-pandemic-evolution.json](./33504-outbreak-pandemic-evolution.json) |
