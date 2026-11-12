@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zargon | 106302 | [106302-zargon.json](./106302-zargon.json) |
+| Zargs | 286184 | [286184-zargs.json](./286184-zargs.json) |
 | Zaria | 386069 | [386069-zaria.json](./386069-zaria.json) |
 | Zarie: The Story of Sin | 266575 | [266575-zarie-the-story-of-sin.json](./266575-zarie-the-story-of-sin.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
