@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
 | Le Bescherelle Pratique | 269714 | [269714-le-bescherelle-pratique.json](./269714-le-bescherelle-pratique.json) |
+| Le Bonk: Academic Version | 255938 | [255938-le-bonk-academic-version.json](./255938-le-bonk-academic-version.json) |
 | Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
 | Le Chat Fonce | 275284 | [275284-le-chat-fonce.json](./275284-le-chat-fonce.json) |
 | Le Chat Fonce: Gnome Cafe | 287999 | [287999-le-chat-fonce-gnome-cafe.json](./287999-le-chat-fonce-gnome-cafe.json) |
@@ -3478,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minecraft | 261390 | [261390-lego-minecraft.json](./261390-lego-minecraft.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
+| LEGO My Style: Preschool | 253104 | [253104-lego-my-style-preschool.json](./253104-lego-my-style-preschool.json) |
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
 | LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
 | LEGO Ninjago: Rise of the snakes | 187123 | [187123-lego-ninjago-rise-of-the-snakes.json](./187123-lego-ninjago-rise-of-the-snakes.json) |
@@ -6508,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lights Remains TD | 374883 | [374883-little-lights-remains-td.json](./374883-little-lights-remains-td.json) |
 | Little Lilicia | 406267 | [406267-little-lilicia.json](./406267-little-lilicia.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
+| Little Locked Rooms | 255935 | [255935-little-locked-rooms.json](./255935-little-locked-rooms.json) |
 | Little Loki & The Yggdrasil Maze | 265630 | [265630-little-loki-and-the-yggdrasil-maze.json](./265630-little-loki-and-the-yggdrasil-maze.json) |
 | Little Longnose | 232864 | [232864-little-longnose.json](./232864-little-longnose.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
@@ -10503,7 +10506,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous of Stellar | 228486 | [228486-luminous-of-stellar.json](./228486-luminous-of-stellar.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
+| Luminous Skies: A Short Adventure DLC | 255952 | [255952-luminous-skies-a-short-adventure-dlc.json](./255952-luminous-skies-a-short-adventure-dlc.json) |
 | Luminous Skies: Interstellar | 296962 | [296962-luminous-skies-interstellar.json](./296962-luminous-skies-interstellar.json) |
+| Luminous Skies: The Pilgrimage | 255949 | [255949-luminous-skies-the-pilgrimage.json](./255949-luminous-skies-the-pilgrimage.json) |
 | Luminous Storia | 374208 | [374208-luminous-storia.json](./374208-luminous-storia.json) |
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
 | Lumins and Shades | 271002 | [271002-lumins-and-shades.json](./271002-lumins-and-shades.json) |
