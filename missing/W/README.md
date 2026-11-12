@@ -628,9 +628,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan Nyan Doubutsu Byouin | 275628 | [275628-wan-nyan-doubutsu-byouin.json](./275628-wan-nyan-doubutsu-byouin.json) |
 | Wan Nyan Doubutsu Byouin 2 | 141690 | [141690-wan-nyan-doubutsu-byouin-2.json](./141690-wan-nyan-doubutsu-byouin-2.json) |
 | Wan Nyan Doubutsu Byouin: Pet no Oisha-san ni Narou! | 136863 | [136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json](./136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json) |
+| Wan Nyan Idol Gakuen | 287266 | [287266-wan-nyan-idol-gakuen.json](./287266-wan-nyan-idol-gakuen.json) |
 | Wan Nyan Pet Shop | 275625 | [275625-wan-nyan-pet-shop.json](./275625-wan-nyan-pet-shop.json) |
 | Wan Nyan Slash | 123027 | [123027-wan-nyan-slash.json](./123027-wan-nyan-slash.json) |
 | Wan-wan Meitantei | 97959 | [97959-wan-wan-meitantei.json](./97959-wan-wan-meitantei.json) |
+| Wan-wan Meitantei EX | 287264 | [287264-wan-wan-meitantei-ex.json](./287264-wan-wan-meitantei-ex.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
 | Wanba Warriors | 113986 | [113986-wanba-warriors.json](./113986-wanba-warriors.json) |
