@@ -7764,6 +7764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaky Grounds: Tragedy | 270653 | [270653-shaky-grounds-tragedy.json](./270653-shaky-grounds-tragedy.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shaky Summit | 80179 | [80179-shaky-summit.json](./80179-shaky-summit.json) |
+| Shale | 248950 | [248950-shale.json](./248950-shale.json) |
 | Shale Hill Secrets | 193559 | [193559-shale-hill-secrets.json](./193559-shale-hill-secrets.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
 | Shall we date? Eternal Vows: Love Beyond Time | 221885 | [221885-shall-we-date-eternal-vows-love-beyond-time.json](./221885-shall-we-date-eternal-vows-love-beyond-time.json) |
@@ -12039,6 +12040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
+| Simple Game | 248938 | [248938-simple-game.json](./248938-simple-game.json) |
 | Simple Golfing | 99434 | [99434-simple-golfing.json](./99434-simple-golfing.json) |
 | Simple Hats | 341945 | [341945-simple-hats.json](./341945-simple-hats.json) |
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
@@ -12478,6 +12480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinking Island | 36163 | [36163-sinking-island.json](./36163-sinking-island.json) |
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
 | Sinking Simulator | 126132 | [126132-sinking-simulator.json](./126132-sinking-simulator.json) |
+| Sinking Simulator: Legacy | 248943 | [248943-sinking-simulator-legacy.json](./248943-sinking-simulator-legacy.json) |
 | Sinking the Boats | 346402 | [346402-sinking-the-boats.json](./346402-sinking-the-boats.json) |
 | Sinkr | 55451 | [55451-sinkr.json](./55451-sinkr.json) |
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
@@ -22636,6 +22639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
 | Spectra | 275506 | [275506-spectra.json](./275506-spectra.json) |
+| Spectra Echo VR | 248945 | [248945-spectra-echo-vr.json](./248945-spectra-echo-vr.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
 | Spectrakin | 418636 | [418636-spectrakin.json](./418636-spectrakin.json) |
@@ -33690,6 +33694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling: Queen's Special | 38282 | [38282-super-fire-pro-wrestling-queens-special.json](./38282-super-fire-pro-wrestling-queens-special.json) |
 | Super Firefighter | 363160 | [363160-super-firefighter.json](./363160-super-firefighter.json) |
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
+| Super Fishbird | 248869 | [248869-super-fishbird.json](./248869-super-fishbird.json) |
 | Super Fishermind | 266139 | [266139-super-fishermind.json](./266139-super-fishermind.json) |
 | Super Fishing: Big Fight | 38109 | [38109-super-fishing-big-fight.json](./38109-super-fishing-big-fight.json) |
 | Super Fists | 303828 | [303828-super-fists.json](./303828-super-fists.json) |
@@ -38930,6 +38935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synaxarion: Great Martyr Theodore the Tyro | 306536 | [306536-synaxarion-great-martyr-theodore-the-tyro.json](./306536-synaxarion-great-martyr-theodore-the-tyro.json) |
 | Sync | 296802 | [296802-sync.json](./296802-sync.json) |
 | Sync | 61978 | [61978-sync.json](./61978-sync.json) |
+| Sync Adventure | 248864 | [248864-sync-adventure.json](./248864-sync-adventure.json) |
 | Sync Sprint | 328741 | [328741-sync-sprint.json](./328741-sync-sprint.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
