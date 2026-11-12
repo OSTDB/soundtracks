@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival | 277195 | [277195-carnival.json](./277195-carnival.json) |
 | Carnival | 277196 | [277196-carnival.json](./277196-carnival.json) |
 | Carnival | 277204 | [277204-carnival.json](./277204-carnival.json) |
+| Carnival | 296285 | [296285-carnival.json](./296285-carnival.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carnival | 5666 | [5666-carnival.json](./5666-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Survivors | 211384 | [211384-chess-survivors.json](./211384-chess-survivors.json) |
 | Chess Tiger | 103928 | [103928-chess-tiger.json](./103928-chess-tiger.json) |
 | Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
+| Chess Tools | 296705 | [296705-chess-tools.json](./296705-chess-tools.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Ultimate | 330078 | [330078-chess-ultimate.json](./330078-chess-ultimate.json) |
 | Chess Ultra | 31561 | [31561-chess-ultra.json](./31561-chess-ultra.json) |
@@ -18758,6 +18760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
 | Crime Scene Cleaner | 415814 | [415814-crime-scene-cleaner.json](./415814-crime-scene-cleaner.json) |
+| Crime Scene Evidence Cleaner | 297258 | [297258-crime-scene-evidence-cleaner.json](./297258-crime-scene-evidence-cleaner.json) |
 | Crime Scene Manhattan | 52327 | [52327-crime-scene-manhattan.json](./52327-crime-scene-manhattan.json) |
 | Crime Scene Technician | 166930 | [166930-crime-scene-technician.json](./166930-crime-scene-technician.json) |
 | Crime Scene: Reconstruction of Crime | 103606 | [103606-crime-scene-reconstruction-of-crime.json](./103606-crime-scene-reconstruction-of-crime.json) |
@@ -20806,6 +20809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Currency | 155892 | [155892-cubic-currency.json](./155892-cubic-currency.json) |
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Dweller | 190818 | [190818-cubic-dweller.json](./190818-cubic-dweller.json) |
+| Cubic Enigma | 296287 | [296287-cubic-enigma.json](./296287-cubic-enigma.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Gallery | 343946 | [343946-cubic-gallery.json](./343946-cubic-gallery.json) |
