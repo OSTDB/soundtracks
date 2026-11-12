@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babushka Baba Yaga | 298001 | [298001-babushka-baba-yaga.json](./298001-babushka-baba-yaga.json) |
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Babushka's Glitch Dungeon | 202482 | [202482-babushkas-glitch-dungeon.json](./202482-babushkas-glitch-dungeon.json) |
+| Baby Adventure | 257022 | [257022-baby-adventure.json](./257022-baby-adventure.json) |
 | Baby Animals: Wooden Preschool Puzzle for Kids | 109981 | [109981-baby-animals-wooden-preschool-puzzle-for-kids.json](./109981-baby-animals-wooden-preschool-puzzle-for-kids.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bananza Races | 404575 | [404575-baby-bananza-races.json](./404575-baby-bananza-races.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense! | 208909 | [208909-base-defense.json](./208909-base-defense.json) |
 | Base Dominators | 334815 | [334815-base-dominators.json](./334815-base-dominators.json) |
 | Base Dune | 191996 | [191996-base-dune.json](./191996-base-dune.json) |
+| Base Ganymede: Complete | 257056 | [257056-base-ganymede-complete.json](./257056-base-ganymede-complete.json) |
 | Base Jump | 153323 | [153323-base-jump.json](./153323-base-jump.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Base Jumpers | 12349 | [12349-base-jumpers.json](./12349-base-jumpers.json) |
