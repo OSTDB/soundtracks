@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Discord: Furious Wings | 78668 | [78668-legacy-of-discord-furious-wings.json](./78668-legacy-of-discord-furious-wings.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
+| Legacy of Epstein: Foul Dreamer | 295178 | [295178-legacy-of-epstein-foul-dreamer.json](./295178-legacy-of-epstein-foul-dreamer.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Flan 2: Flans Online | 284180 | [284180-legacy-of-flan-2-flans-online.json](./284180-legacy-of-flan-2-flans-online.json) |
 | Legacy of Flan 3: Storm of Hades | 284182 | [284182-legacy-of-flan-3-storm-of-hades.json](./284182-legacy-of-flan-3-storm-of-hades.json) |
@@ -5654,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminalcore | 312982 | [312982-liminalcore.json](./312982-liminalcore.json) |
 | Liminalia | 215646 | [215646-liminalia.json](./215646-liminalia.json) |
+| Liminality | 295190 | [295190-liminality.json](./295190-liminality.json) |
 | Liminality | 362804 | [362804-liminality.json](./362804-liminality.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
@@ -6213,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Aquarium | 373863 | [373863-little-aquarium.json](./373863-little-aquarium.json) |
 | Little Arena | 107443 | [107443-little-arena.json](./107443-little-arena.json) |
 | Little Army | 249045 | [249045-little-army.json](./249045-little-army.json) |
+| Little Army Manager | 295179 | [295179-little-army-manager.json](./295179-little-army-manager.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Aviary | 350694 | [350694-little-aviary.json](./350694-little-aviary.json) |
