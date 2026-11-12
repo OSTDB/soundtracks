@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Fodder | 5519 | [5519-cannon-fodder.json](./5519-cannon-fodder.json) |
 | Cannon Fodder 2 | 11986 | [11986-cannon-fodder-2.json](./11986-cannon-fodder-2.json) |
 | Cannon Fodder and Green Game Bundle | 214664 | [214664-cannon-fodder-and-green-game-bundle.json](./214664-cannon-fodder-and-green-game-bundle.json) |
+| Cannon Fotter | 260361 | [260361-cannon-fotter.json](./260361-cannon-fotter.json) |
 | Cannon Foundry Simulator | 219218 | [219218-cannon-foundry-simulator.json](./219218-cannon-foundry-simulator.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Island | 330482 | [330482-cannon-island.json](./330482-cannon-island.json) |
@@ -7633,6 +7634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chester Field: Ankoku Shin he no Chousen | 48538 | [48538-chester-field-ankoku-shin-he-no-chousen.json](./48538-chester-field-ankoku-shin-he-no-chousen.json) |
 | Chester One | 35790 | [35790-chester-one.json](./35790-chester-one.json) |
 | Chester The Chest | 272212 | [272212-chester-the-chest.json](./272212-chester-the-chest.json) |
+| Chester: Into The Darkness | 260367 | [260367-chester-into-the-darkness.json](./260367-chester-into-the-darkness.json) |
 | Chester's Revenge | 197858 | [197858-chesters-revenge.json](./197858-chesters-revenge.json) |
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
@@ -12147,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocktail Rush | 330183 | [330183-cocktail-rush.json](./330183-cocktail-rush.json) |
 | Cockville | 236353 | [236353-cockville.json](./236353-cockville.json) |
 | Cockwork Industries Complete | 124194 | [124194-cockwork-industries-complete.json](./124194-cockwork-industries-complete.json) |
+| Coco | 260430 | [260430-coco.json](./260430-coco.json) |
 | Coco | 380077 | [380077-coco.json](./380077-coco.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
