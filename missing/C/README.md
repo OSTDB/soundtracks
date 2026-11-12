@@ -20086,6 +20086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CruxFlaw | 266616 | [266616-cruxflaw.json](./266616-cruxflaw.json) |
 | Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
+| CruzeCraze | 263808 | [263808-cruzecraze.json](./263808-cruzecraze.json) |
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
 | CRW: Counter Revolution War | 61554 | [61554-crw-counter-revolution-war.json](./61554-crw-counter-revolution-war.json) |
 | Cry Babies: Magic Tears - The Big Game | 254223 | [254223-cry-babies-magic-tears-the-big-game.json](./254223-cry-babies-magic-tears-the-big-game.json) |
@@ -20747,6 +20748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Hopper | 80721 | [80721-cube-hopper.json](./80721-cube-hopper.json) |
 | Cube Human | 115572 | [115572-cube-human.json](./115572-cube-human.json) |
 | Cube Island | 79554 | [79554-cube-island.json](./79554-cube-island.json) |
+| Cube Jump | 263809 | [263809-cube-jump.json](./263809-cube-jump.json) |
 | Cube Jump | 348505 | [348505-cube-jump.json](./348505-cube-jump.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
@@ -21576,6 +21578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Crops | 218889 | [218889-cursed-crops.json](./218889-cursed-crops.json) |
 | Cursed Dawn | 295193 | [295193-cursed-dawn.json](./295193-cursed-dawn.json) |
+| Cursed Deal | 263807 | [263807-cursed-deal.json](./263807-cursed-deal.json) |
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
 | Cursed Despair | 293470 | [293470-cursed-despair.json](./293470-cursed-despair.json) |
 | Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
