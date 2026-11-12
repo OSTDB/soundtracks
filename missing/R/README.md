@@ -10724,6 +10724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Defense | 305934 | [305934-rogue-defense.json](./305934-rogue-defense.json) |
 | Rogue Descent | 378464 | [378464-rogue-descent.json](./378464-rogue-descent.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
+| Rogue Dimensions | 284551 | [284551-rogue-dimensions.json](./284551-rogue-dimensions.json) |
 | Rogue Doodle | 395195 | [395195-rogue-doodle.json](./395195-rogue-doodle.json) |
 | Rogue Door Defense | 198153 | [198153-rogue-door-defense.json](./198153-rogue-door-defense.json) |
 | Rogue Drifter | 355581 | [355581-rogue-drifter.json](./355581-rogue-drifter.json) |
