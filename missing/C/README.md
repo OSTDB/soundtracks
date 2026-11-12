@@ -22049,6 +22049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Troopers Virtual-On Oratorio Tangram | 9190 | [9190-cyber-troopers-virtual-on-oratorio-tangram.json](./9190-cyber-troopers-virtual-on-oratorio-tangram.json) |
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
+| Cyber Tunnel Escape | 310866 | [310866-cyber-tunnel-escape.json](./310866-cyber-tunnel-escape.json) |
 | Cyber Units | 402103 | [402103-cyber-units.json](./402103-cyber-units.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber Velocity Run | 223810 | [223810-cyber-velocity-run.json](./223810-cyber-velocity-run.json) |
@@ -22405,6 +22406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycles of Aylorea | 322020 | [322020-cycles-of-aylorea.json](./322020-cycles-of-aylorea.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cyclical Recurrences | 408079 | [408079-cyclical-recurrences.json](./408079-cyclical-recurrences.json) |
+| Cyclics | 310846 | [310846-cyclics.json](./310846-cyclics.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
 | Cycling Manager | 94619 | [94619-cycling-manager.json](./94619-cycling-manager.json) |
 | Cycling Manager 2 | 68221 | [68221-cycling-manager-2.json](./68221-cycling-manager-2.json) |
