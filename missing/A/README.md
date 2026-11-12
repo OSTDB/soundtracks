@@ -17831,6 +17831,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Classic | 277049 | [277049-atari-flashback-8-classic.json](./277049-atari-flashback-8-classic.json) |
 | Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
+| Atari Flashback 8 Gold Deluxe | 277052 | [277052-atari-flashback-8-gold-deluxe.json](./277052-atari-flashback-8-gold-deluxe.json) |
+| Atari Flashback 8 Gold: Activision Edition | 277053 | [277053-atari-flashback-8-gold-activision-edition.json](./277053-atari-flashback-8-gold-activision-edition.json) |
+| Atari Flashback 9 | 277054 | [277054-atari-flashback-9.json](./277054-atari-flashback-9.json) |
+| Atari Flashback 9 Gold | 277056 | [277056-atari-flashback-9-gold.json](./277056-atari-flashback-9-gold.json) |
 | Atari Flashback Blast! Vol. 1 | 277068 | [277068-atari-flashback-blast-vol-1.json](./277068-atari-flashback-blast-vol-1.json) |
 | Atari Flashback Blast! Vol. 2 | 277070 | [277070-atari-flashback-blast-vol-2.json](./277070-atari-flashback-blast-vol-2.json) |
 | Atari Flashback Blast! Vol. 3 | 277071 | [277071-atari-flashback-blast-vol-3.json](./277071-atari-flashback-blast-vol-3.json) |
@@ -17844,6 +17848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Portable | 277064 | [277064-atari-flashback-portable.json](./277064-atari-flashback-portable.json) |
 | Atari Flashback Portable | 277066 | [277066-atari-flashback-portable.json](./277066-atari-flashback-portable.json) |
 | Atari Flashback X | 276033 | [276033-atari-flashback-x.json](./276033-atari-flashback-x.json) |
+| Atari Flashback X Deluxe | 277057 | [277057-atari-flashback-x-deluxe.json](./277057-atari-flashback-x-deluxe.json) |
 | Atari Football | 16760 | [16760-atari-football.json](./16760-atari-football.json) |
 | Atari Gamestation Pro | 270591 | [270591-atari-gamestation-pro.json](./270591-atari-gamestation-pro.json) |
 | Atari Greatest Hits Volume 1 | 18437 | [18437-atari-greatest-hits-volume-1.json](./18437-atari-greatest-hits-volume-1.json) |
