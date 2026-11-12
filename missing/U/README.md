@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the End | 370594 | [370594-until-the-end.json](./370594-until-the-end.json) |
 | Until the Last | 59144 | [59144-until-the-last.json](./59144-until-the-last.json) |
+| Until The Last Bullet | 270823 | [270823-until-the-last-bullet.json](./270823-until-the-last-bullet.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Last Plane | 132414 | [132414-until-the-last-plane.json](./132414-until-the-last-plane.json) |
 | Until the Last Plane 1942 | 278347 | [278347-until-the-last-plane-1942.json](./278347-until-the-last-plane-1942.json) |
