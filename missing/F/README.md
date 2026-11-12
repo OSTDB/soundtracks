@@ -7530,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Security Breach - Chaos Mod | 263898 | [263898-five-nights-at-freddys-security-breach-chaos-mod.json](./263898-five-nights-at-freddys-security-breach-chaos-mod.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
 | Five Nights at Freddy's: Security Breach - Ruin | 208303 | [208303-five-nights-at-freddys-security-breach-ruin.json](./208303-five-nights-at-freddys-security-breach-ruin.json) |
+| Five Nights at Freddy's: Security Breach - Ruin 2 | 292797 | [292797-five-nights-at-freddys-security-breach-ruin-2.json](./292797-five-nights-at-freddys-security-breach-ruin-2.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Freddy's: Showtime | 381056 | [381056-five-nights-at-freddys-showtime.json](./381056-five-nights-at-freddys-showtime.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
@@ -9345,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
 | Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
 | Flying Rock: Arena | 41927 | [41927-flying-rock-arena.json](./41927-flying-rock-arena.json) |
+| Flying Ruckus: Multiplayer | 292702 | [292702-flying-ruckus-multiplayer.json](./292702-flying-ruckus-multiplayer.json) |
 | Flying Salvager | 76346 | [76346-flying-salvager.json](./76346-flying-salvager.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
@@ -10704,6 +10706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hope | 147234 | [147234-forgotten-hope.json](./147234-forgotten-hope.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten House | 244569 | [244569-forgotten-house.json](./244569-forgotten-house.json) |
+| Forgotten In Hell | 292735 | [292735-forgotten-in-hell.json](./292735-forgotten-in-hell.json) |
 | Forgotten Isle | 422067 | [422067-forgotten-isle.json](./422067-forgotten-isle.json) |
 | Forgotten Journey | 350352 | [350352-forgotten-journey.json](./350352-forgotten-journey.json) |
 | Forgotten Knight | 277124 | [277124-forgotten-knight.json](./277124-forgotten-knight.json) |
@@ -14117,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
 | Full Bloom | 275561 | [275561-full-bloom.json](./275561-full-bloom.json) |
 | Full Body Rhythm VR | 142538 | [142538-full-body-rhythm-vr.json](./142538-full-body-rhythm-vr.json) |
+| Full Body Workout | 292716 | [292716-full-body-workout.json](./292716-full-body-workout.json) |
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
 | Full Bokko Youchien | 131045 | [131045-full-bokko-youchien.json](./131045-full-bokko-youchien.json) |
 | Full Bore | 10339 | [10339-full-bore.json](./10339-full-bore.json) |
