@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
 | Radiant Arc | 117142 | [117142-radiant-arc.json](./117142-radiant-arc.json) |
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
+| Radiant Bricks | 278118 | [278118-radiant-bricks.json](./278118-radiant-bricks.json) |
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
 | Radiant Core | 184806 | [184806-radiant-core.json](./184806-radiant-core.json) |
@@ -11346,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly's Adventure | 119560 | [119560-rollys-adventure.json](./119560-rollys-adventure.json) |
 | Rollz | 304507 | [304507-rollz.json](./304507-rollz.json) |
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
+| Rolus in the Outskirts | 278023 | [278023-rolus-in-the-outskirts.json](./278023-rolus-in-the-outskirts.json) |
 | Roly Poly | 196669 | [196669-roly-poly.json](./196669-roly-poly.json) |
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
