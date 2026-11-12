@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Queen | 74716 | [74716-dash-queen.json](./74716-dash-queen.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
+| Dash Quest 2 | 294632 | [294632-dash-quest-2.json](./294632-dash-quest-2.json) |
 | Dash Quest Heroes | 78553 | [78553-dash-quest-heroes.json](./78553-dash-quest-heroes.json) |
 | Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
 | Dash Shoot Goal | 184255 | [184255-dash-shoot-goal.json](./184255-dash-shoot-goal.json) |
@@ -2866,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Datura | 14527 | [14527-datura.json](./14527-datura.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
+| Daugger | 294896 | [294896-daugger.json](./294896-daugger.json) |
 | Daughter | 287875 | [287875-daughter.json](./287875-daughter.json) |
 | Daughter of a Scoundrel | 256584 | [256584-daughter-of-a-scoundrel.json](./256584-daughter-of-a-scoundrel.json) |
 | Daughter of Crone | 262839 | [262839-daughter-of-crone.json](./262839-daughter-of-crone.json) |
@@ -4104,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Mad | 151440 | [151440-dead-or-mad.json](./151440-dead-or-mad.json) |
 | Dead or School | 105058 | [105058-dead-or-school.json](./105058-dead-or-school.json) |
 | Dead Outbreak | 274113 | [274113-dead-outbreak.json](./274113-dead-outbreak.json) |
+| Dead Paradise | 294637 | [294637-dead-paradise.json](./294637-dead-paradise.json) |
 | Dead Paradise 2 | 404248 | [404248-dead-paradise-2.json](./404248-dead-paradise-2.json) |
 | Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
 | Dead Paradise 4 | 404385 | [404385-dead-paradise-4.json](./404385-dead-paradise-4.json) |
@@ -8466,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective S. Harkins | 184820 | [184820-detective-s-harkins.json](./184820-detective-s-harkins.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Secrets Solitaire: Silent Conspiracy | 402742 | [402742-detective-secrets-solitaire-silent-conspiracy.json](./402742-detective-secrets-solitaire-silent-conspiracy.json) |
+| Detective Secrets Solitaire: The Curse of the Village | 294901 | [294901-detective-secrets-solitaire-the-curse-of-the-village.json](./294901-detective-secrets-solitaire-the-curse-of-the-village.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Sherlock Holmes - Hidden Object Games | 88662 | [88662-detective-sherlock-holmes-hidden-object-games.json](./88662-detective-sherlock-holmes-hidden-object-games.json) |
 | Detective Sherlock Pug | 111976 | [111976-detective-sherlock-pug.json](./111976-detective-sherlock-pug.json) |
@@ -13543,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Rank Cuomo | 350873 | [350873-dont-rank-cuomo.json](./350873-dont-rank-cuomo.json) |
 | Don't Remember | 236878 | [236878-dont-remember.json](./236878-dont-remember.json) |
 | Don’t Return to Wonderland | 407157 | [407157-don-t-return-to-wonderland.json](./407157-don-t-return-to-wonderland.json) |
+| Don't Rock The Boat | 294631 | [294631-dont-rock-the-boat.json](./294631-dont-rock-the-boat.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
