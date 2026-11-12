@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Paddles | 214558 | [214558-paddles.json](./214558-paddles.json) |
+| Paddles | 279174 | [279174-paddles.json](./279174-paddles.json) |
 | Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
 | PaddleSpace | 60954 | [60954-paddlespace.json](./60954-paddlespace.json) |
 | Paddock Note '95 | 268522 | [268522-paddock-note-95.json](./268522-paddock-note-95.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetRPG | 166472 | [166472-petrpg.json](./166472-petrpg.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets | 331219 | [331219-pets.json](./331219-pets.json) |
+| Pets & Stuff | 279355 | [279355-pets-and-stuff.json](./279355-pets-and-stuff.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Butterflies Bundle | 366792 | [366792-pets-and-friends-butterflies-bundle.json](./366792-pets-and-friends-butterflies-bundle.json) |
 | Pets and Friends Christmas Bundle | 380712 | [380712-pets-and-friends-christmas-bundle.json](./380712-pets-and-friends-christmas-bundle.json) |
@@ -10010,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Conservation Pack | 207746 | [207746-planet-zoo-conservation-pack.json](./207746-planet-zoo-conservation-pack.json) |
 | Planet Zoo: Console Edition | 284574 | [284574-planet-zoo-console-edition.json](./284574-planet-zoo-console-edition.json) |
+| Planet Zoo: Eurasia Animal Pack | 279269 | [279269-planet-zoo-eurasia-animal-pack.json](./279269-planet-zoo-eurasia-animal-pack.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planet Zoo: Grasslands Animal Pack | 263097 | [263097-planet-zoo-grasslands-animal-pack.json](./263097-planet-zoo-grasslands-animal-pack.json) |
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
@@ -13264,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong & Teddy | 97212 | [97212-pong-and-teddy.json](./97212-pong-and-teddy.json) |
 | Pong 3D | 94498 | [94498-pong-3d.json](./94498-pong-3d.json) |
+| Pong 3DS | 278758 | [278758-pong-3ds.json](./278758-pong-3ds.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong Consoles Simulation | 309228 | [309228-pong-consoles-simulation.json](./309228-pong-consoles-simulation.json) |
 | Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
@@ -19054,6 +19058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Of the Golden Witch | 382438 | [382438-purgatory-of-the-golden-witch.json](./382438-purgatory-of-the-golden-witch.json) |
 | Purgatory Overkill | 160071 | [160071-purgatory-overkill.json](./160071-purgatory-overkill.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
+| Purgatory Salvation | 279277 | [279277-purgatory-salvation.json](./279277-purgatory-salvation.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory X: Amalia | 407002 | [407002-purgatory-x-amalia.json](./407002-purgatory-x-amalia.json) |
 | Purgatory: Blue | 327038 | [327038-purgatory-blue.json](./327038-purgatory-blue.json) |
