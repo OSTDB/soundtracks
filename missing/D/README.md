@@ -10625,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direct Contact | 211504 | [211504-direct-contact.json](./211504-direct-contact.json) |
 | Direct Drive | 151992 | [151992-direct-drive.json](./151992-direct-drive.json) |
 | Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
+| Direct Line | 308695 | [308695-direct-line.json](./308695-direct-line.json) |
 | Direct Shot | 152957 | [152957-direct-shot.json](./152957-direct-shot.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction Quad | 385117 | [385117-direction-quad.json](./385117-direction-quad.json) |
@@ -18251,6 +18252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Out 0 | 31594 | [31594-drop-out-0.json](./31594-drop-out-0.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
+| Drop Pockets | 309147 | [309147-drop-pockets.json](./309147-drop-pockets.json) |
 | Drop Point | 350156 | [350156-drop-point.json](./350156-drop-point.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
