@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Designer Simulator | 404529 | [404529-garden-designer-simulator.json](./404529-garden-designer-simulator.json) |
 | Garden Door | 387727 | [387727-garden-door.json](./387727-garden-door.json) |
 | Garden Dreams | 254323 | [254323-garden-dreams.json](./254323-garden-dreams.json) |
+| Garden Dressup Flower Princess | 301169 | [301169-garden-dressup-flower-princess.json](./301169-garden-dressup-flower-princess.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden Flipper | 164830 | [164830-garden-flipper.json](./164830-garden-flipper.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
@@ -8803,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
 | Grass Cutters Academy | 155290 | [155290-grass-cutters-academy.json](./155290-grass-cutters-academy.json) |
+| Grass Cutting Simulator: Lawn Mooving Care | 301181 | [301181-grass-cutting-simulator-lawn-mooving-care.json](./301181-grass-cutting-simulator-lawn-mooving-care.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Life Sim 2 | 374910 | [374910-grass-life-sim-2.json](./374910-grass-life-sim-2.json) |
 | Grass Max | 33831 | [33831-grass-max.json](./33831-grass-max.json) |
