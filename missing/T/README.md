@@ -1198,7 +1198,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
 | Tales of Arcrath | 379424 | [379424-tales-of-arcrath.json](./379424-tales-of-arcrath.json) |
 | Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
-| Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of Arise: Beyond the Dawn - Deluxe Edition | 267776 | [267776-tales-of-arise-beyond-the-dawn-deluxe-edition.json](./267776-tales-of-arise-beyond-the-dawn-deluxe-edition.json) |
 | Tales of Arise: Beyond the Dawn - Ultimate Edition | 267774 | [267774-tales-of-arise-beyond-the-dawn-ultimate-edition.json](./267774-tales-of-arise-beyond-the-dawn-ultimate-edition.json) |
@@ -2437,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
 | Tap Sonic: World Champion | 127514 | [127514-tap-sonic-world-champion.json](./127514-tap-sonic-world-champion.json) |
+| Tap Souls | 314165 | [314165-tap-souls.json](./314165-tap-souls.json) |
 | Tap Space: Reaction and Focus Training | 252552 | [252552-tap-space-reaction-and-focus-training.json](./252552-tap-space-reaction-and-focus-training.json) |
 | Tap Sports Baseball | 60398 | [60398-tap-sports-baseball.json](./60398-tap-sports-baseball.json) |
 | Tap Sports Baseball 2015 | 60403 | [60403-tap-sports-baseball-2015.json](./60403-tap-sports-baseball-2015.json) |
@@ -12614,7 +12614,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
 | The Lampkeeper | 362150 | [362150-the-lampkeeper.json](./362150-the-lampkeeper.json) |
-| The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
 | The Lamplighters League: Deluxe Edition | 255468 | [255468-the-lamplighters-league-deluxe-edition.json](./255468-the-lamplighters-league-deluxe-edition.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Lancaster Leak: Entity Exam | 287920 | [287920-the-lancaster-leak-entity-exam.json](./287920-the-lancaster-leak-entity-exam.json) |
@@ -12848,7 +12847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hero | 343592 | [343592-the-last-hero.json](./343592-the-last-hero.json) |
 | The Last Hero | 343593 | [343593-the-last-hero.json](./343593-the-last-hero.json) |
 | The Last Hero | 377321 | [377321-the-last-hero.json](./377321-the-last-hero.json) |
-| The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Hero of Nostalgaia: Deluxe Edition | 254283 | [254283-the-last-hero-of-nostalgaia-deluxe-edition.json](./254283-the-last-hero-of-nostalgaia-deluxe-edition.json) |
 | The Last Hero of Nostalgaia: The Rise of Evil | 253119 | [253119-the-last-hero-of-nostalgaia-the-rise-of-evil.json](./253119-the-last-hero-of-nostalgaia-the-rise-of-evil.json) |
 | The Last Hero: Journey to the Unknown | 251972 | [251972-the-last-hero-journey-to-the-unknown.json](./251972-the-last-hero-journey-to-the-unknown.json) |
@@ -18824,6 +18822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing: Station Survival | 309620 | [309620-the-thing-station-survival.json](./309620-the-thing-station-survival.json) |
 | The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown | 415192 | [415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json](./415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
+| The Things You Do For Love | 314166 | [314166-the-things-you-do-for-love.json](./314166-the-things-you-do-for-love.json) |
 | The Thinker | 294210 | [294210-the-thinker.json](./294210-the-thinker.json) |
 | The Third | 358337 | [358337-the-third.json](./358337-the-third.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
@@ -21143,6 +21142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thicc Wet Paper Layers | 178862 | [178862-thicc-wet-paper-layers.json](./178862-thicc-wet-paper-layers.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thiccfoot | 426020 | [426020-thiccfoot.json](./426020-thiccfoot.json) |
+| Thiccmin | 314171 | [314171-thiccmin.json](./314171-thiccmin.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thick as Thieves | 224511 | [224511-thick-as-thieves.json](./224511-thick-as-thieves.json) |
 | Thick Light | 334794 | [334794-thick-light.json](./334794-thick-light.json) |
@@ -22289,6 +22289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
 | Ticket to Ride | 267278 | [267278-ticket-to-ride.json](./267278-ticket-to-ride.json) |
 | Ticket to Ride Deluxe Edition | 310363 | [310363-ticket-to-ride-deluxe-edition.json](./310363-ticket-to-ride-deluxe-edition.json) |
+| Ticket to Ride, Clue and The Game of Life 2: Classic Board Game Bundle | 314152 | [314152-ticket-to-ride-clue-and-the-game-of-life-2-classic-board-game-bundle.json](./314152-ticket-to-ride-clue-and-the-game-of-life-2-classic-board-game-bundle.json) |
 | Ticket to Ride: Europe | 148622 | [148622-ticket-to-ride-europe.json](./148622-ticket-to-ride-europe.json) |
 | Ticket to Ride: Europe Expansion | 276595 | [276595-ticket-to-ride-europe-expansion.json](./276595-ticket-to-ride-europe-expansion.json) |
 | Ticket To Ride: First Class Pack | 292038 | [292038-ticket-to-ride-first-class-pack.json](./292038-ticket-to-ride-first-class-pack.json) |
@@ -28717,6 +28718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
 | Tower Girls | 344125 | [344125-tower-girls.json](./344125-tower-girls.json) |
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
+| Tower Hover | 314684 | [314684-tower-hover.json](./314684-tower-hover.json) |
 | Tower Hunter: Erza's Trial | 104186 | [104186-tower-hunter-erzas-trial.json](./104186-tower-hunter-erzas-trial.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
@@ -29662,9 +29664,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmakers | 29667 | [29667-trailmakers.json](./29667-trailmakers.json) |
 | Trailmakers Hat Pack | 308431 | [308431-trailmakers-hat-pack.json](./308431-trailmakers-hat-pack.json) |
 | Trailmakers: Airborne Expansion | 236449 | [236449-trailmakers-airborne-expansion.json](./236449-trailmakers-airborne-expansion.json) |
+| Trailmakers: Booster Edition | 314156 | [314156-trailmakers-booster-edition.json](./314156-trailmakers-booster-edition.json) |
 | Trailmakers: Decals - Action Pack | 308432 | [308432-trailmakers-decals-action-pack.json](./308432-trailmakers-decals-action-pack.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
+| Trailmakers: Deluxe Edition | 314151 | [314151-trailmakers-deluxe-edition.json](./314151-trailmakers-deluxe-edition.json) |
 | Trailmakers: Frozen Tracks | 378217 | [378217-trailmakers-frozen-tracks.json](./378217-trailmakers-frozen-tracks.json) |
 | Trailmakers: High Seas Expansion | 193221 | [193221-trailmakers-high-seas-expansion.json](./193221-trailmakers-high-seas-expansion.json) |
 | Trailmakers: Motorhead Pack | 317323 | [317323-trailmakers-motorhead-pack.json](./317323-trailmakers-motorhead-pack.json) |
@@ -29674,6 +29678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmakers: Skin Pack | 308435 | [308435-trailmakers-skin-pack.json](./308435-trailmakers-skin-pack.json) |
 | Trailmakers: Skin Pack 2 | 308436 | [308436-trailmakers-skin-pack-2.json](./308436-trailmakers-skin-pack-2.json) |
 | Trailmakers: Space Voyager Pack | 308433 | [308433-trailmakers-space-voyager-pack.json](./308433-trailmakers-space-voyager-pack.json) |
+| Trailmakers: Ultimate Edition | 314159 | [314159-trailmakers-ultimate-edition.json](./314159-trailmakers-ultimate-edition.json) |
 | Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailmarks | 414815 | [414815-trailmarks.json](./414815-trailmarks.json) |
