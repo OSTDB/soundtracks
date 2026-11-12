@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
+| Tank Survivor | 291139 | [291139-tank-survivor.json](./291139-tank-survivor.json) |
 | Tank Tactics | 59785 | [59785-tank-tactics.json](./59785-tank-tactics.json) |
 | Tank Team | 112254 | [112254-tank-team.json](./112254-tank-team.json) |
 | Tank Team | 278353 | [278353-tank-team.json](./278353-tank-team.json) |
@@ -28993,6 +28994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KBNA Airport | 353321 | [353321-tower-simulator-3-kbna-airport.json](./353321-tower-simulator-3-kbna-airport.json) |
 | Tower! Simulator 3: KBOS Airport | 353318 | [353318-tower-simulator-3-kbos-airport.json](./353318-tower-simulator-3-kbos-airport.json) |
 | Tower! Simulator 3: KCLE Airport | 353341 | [353341-tower-simulator-3-kcle-airport.json](./353341-tower-simulator-3-kcle-airport.json) |
+| Tower! Simulator 3: KCVG Airport | 291135 | [291135-tower-simulator-3-kcvg-airport.json](./291135-tower-simulator-3-kcvg-airport.json) |
 | Tower! Simulator 3: KDCA Airport | 372525 | [372525-tower-simulator-3-kdca-airport.json](./372525-tower-simulator-3-kdca-airport.json) |
 | Tower! Simulator 3: KDEN Airport | 353337 | [353337-tower-simulator-3-kden-airport.json](./353337-tower-simulator-3-kden-airport.json) |
 | Tower! Simulator 3: KDFW Airport | 396518 | [396518-tower-simulator-3-kdfw-airport.json](./396518-tower-simulator-3-kdfw-airport.json) |
@@ -30400,6 +30402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Regensburg – Ingolstadt Route Add-On | 357296 | [357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json](./357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json) |
 | Train Simulator Classic: Rio Grande Southern - Placerville - Rico & Telluride Route Add-On | 357396 | [357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json](./357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json) |
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
+| Train Simulator Classic: Saluda Grade Scenario Pack 02 | 291132 | [291132-train-simulator-classic-saluda-grade-scenario-pack-02.json](./291132-train-simulator-classic-saluda-grade-scenario-pack-02.json) |
 | Train Simulator Classic: Salzburg - Rosenheim Route | 193652 | [193652-train-simulator-classic-salzburg-rosenheim-route.json](./193652-train-simulator-classic-salzburg-rosenheim-route.json) |
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
 | Train Simulator Classic: Santa Fe Super Fleet GP60M | 357290 | [357290-train-simulator-classic-santa-fe-super-fleet-gp60m.json](./357290-train-simulator-classic-santa-fe-super-fleet-gp60m.json) |
@@ -30830,6 +30833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
 | Train Valley 2: Myths and Rails | 200932 | [200932-train-valley-2-myths-and-rails.json](./200932-train-valley-2-myths-and-rails.json) |
+| Train Valley 2: Patent Pending | 291118 | [291118-train-valley-2-patent-pending.json](./291118-train-valley-2-patent-pending.json) |
 | Train Valley 2: The Pandeia Project | 252620 | [252620-train-valley-2-the-pandeia-project.json](./252620-train-valley-2-the-pandeia-project.json) |
 | Train Valley 2: Workshop Gems - Amber | 401594 | [401594-train-valley-2-workshop-gems-amber.json](./401594-train-valley-2-workshop-gems-amber.json) |
 | Train Valley 2: Workshop Gems - Amethyst | 401595 | [401595-train-valley-2-workshop-gems-amethyst.json](./401595-train-valley-2-workshop-gems-amethyst.json) |
@@ -31097,6 +31101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train - Hamburg Flyer SVT 877 | 236958 | [236958-trainz-plus-pro-train-hamburg-flyer-svt-877.json](./236958-trainz-plus-pro-train-hamburg-flyer-svt-877.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 1 | 289477 | [289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json](./289477-trainz-plus-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 2 | 292662 | [292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json](./292662-trainz-plus-pro-train-sd40-2-loco-bundle-2.json) |
+| Trainz Plus: Pro Train - SD40-2 Loco Bundle 3 | 291136 | [291136-trainz-plus-pro-train-sd40-2-loco-bundle-3.json](./291136-trainz-plus-pro-train-sd40-2-loco-bundle-3.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
 | Trainz Plus: Pro Train - TGV Duplex | 212240 | [212240-trainz-plus-pro-train-tgv-duplex.json](./212240-trainz-plus-pro-train-tgv-duplex.json) |
@@ -31163,6 +31168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2006: Routes Volume 3 | 206166 | [206166-trainz-railroad-simulator-2006-routes-volume-3.json](./206166-trainz-railroad-simulator-2006-routes-volume-3.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 4 | 206167 | [206167-trainz-railroad-simulator-2006-routes-volume-4.json](./206167-trainz-railroad-simulator-2006-routes-volume-4.json) |
 | Trainz Railroad Simulator 2007 | 11015 | [11015-trainz-railroad-simulator-2007.json](./11015-trainz-railroad-simulator-2007.json) |
+| Trainz Railroad Simulator 2019 Pro Train - SD40-2 Loco Bundle 3 | 291137 | [291137-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-3.json](./291137-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-3.json) |
 | Trainz Railroad Simulator 2019: Aerotrain | 153118 | [153118-trainz-railroad-simulator-2019-aerotrain.json](./153118-trainz-railroad-simulator-2019-aerotrain.json) |
 | Trainz Railroad Simulator 2019: Amtrak F40PH 2 pack | 153172 | [153172-trainz-railroad-simulator-2019-amtrak-f40ph-2-pack.json](./153172-trainz-railroad-simulator-2019-amtrak-f40ph-2-pack.json) |
 | Trainz Railroad Simulator 2019: Amtrak P42DC - Phase III | 153270 | [153270-trainz-railroad-simulator-2019-amtrak-p42dc-phase-iii.json](./153270-trainz-railroad-simulator-2019-amtrak-p42dc-phase-iii.json) |
@@ -31507,6 +31513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train - NS Heritage Loco Bundle 2 | 331624 | [331624-trainz-railroad-simulator-2022-pro-train-ns-heritage-loco-bundle-2.json](./331624-trainz-railroad-simulator-2022-pro-train-ns-heritage-loco-bundle-2.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 1 | 289476 | [289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json](./289476-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 2 | 292667 | [292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json](./292667-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-2.json) |
+| Trainz Railroad Simulator 2022: Pro Train - SD40-2 Loco Bundle 3 | 291138 | [291138-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-3.json](./291138-trainz-railroad-simulator-2022-pro-train-sd40-2-loco-bundle-3.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
 | Trainz Railroad Simulator 2022: Pro Train Brocken Railway | 231118 | [231118-trainz-railroad-simulator-2022-pro-train-brocken-railway.json](./231118-trainz-railroad-simulator-2022-pro-train-brocken-railway.json) |
 | Trainz Railroad Simulator 2022: Pro Train Class 68 DRS | 207365 | [207365-trainz-railroad-simulator-2022-pro-train-class-68-drs.json](./207365-trainz-railroad-simulator-2022-pro-train-class-68-drs.json) |
