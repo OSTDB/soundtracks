@@ -7675,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derpman: The Code Monkey Conundrum | 78218 | [78218-derpman-the-code-monkey-conundrum.json](./78218-derpman-the-code-monkey-conundrum.json) |
 | Derpy Conga | 122086 | [122086-derpy-conga.json](./122086-derpy-conga.json) |
 | Derpy Deep Drive | 151893 | [151893-derpy-deep-drive.json](./151893-derpy-deep-drive.json) |
+| Derpy Dino | 247154 | [247154-derpy-dino.json](./247154-derpy-dino.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fight | 74203 | [74203-derpy-fight.json](./74203-derpy-fight.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
@@ -20313,6 +20314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
+| DungeonSmash | 247157 | [247157-dungeonsmash.json](./247157-dungeonsmash.json) |
 | DungeonSquad | 223615 | [223615-dungeonsquad.json](./223615-dungeonsquad.json) |
 | DungeonSweeper | 377019 | [377019-dungeonsweeper.json](./377019-dungeonsweeper.json) |
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
