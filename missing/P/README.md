@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Heights | 57596 | [57596-paradise-heights.json](./57596-paradise-heights.json) |
 | Paradise Heights GB | 330593 | [330593-paradise-heights-gb.json](./330593-paradise-heights-gb.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
+| Paradise in Microdot | 293282 | [293282-paradise-in-microdot.json](./293282-paradise-in-microdot.json) |
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
 | Paradise Island | 16588 | [16588-paradise-island.json](./16588-paradise-island.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
@@ -6314,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Tiles 2: Don't Tap...2 | 220173 | [220173-piano-tiles-2-dont-tap-2.json](./220173-piano-tiles-2-dont-tap-2.json) |
 | Piano Tiles 2+ | 341132 | [341132-piano-tiles-2.json](./341132-piano-tiles-2.json) |
 | Piano Wizard | 129960 | [129960-piano-wizard.json](./129960-piano-wizard.json) |
+| Piano: Learn and Play | 293292 | [293292-piano-learn-and-play.json](./293292-piano-learn-and-play.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piano: Learn and Play - Ultra GOTY Edition | 328773 | [328773-piano-learn-and-play-ultra-goty-edition.json](./328773-piano-learn-and-play-ultra-goty-edition.json) |
@@ -9325,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelment TD | 277919 | [277919-pixelment-td.json](./277919-pixelment-td.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
+| Pixelmon Wingull 2 | 293268 | [293268-pixelmon-wingull-2.json](./293268-pixelmon-wingull-2.json) |
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
 | Pixeloids | 32373 | [32373-pixeloids.json](./32373-pixeloids.json) |
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
@@ -14780,6 +14783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
 | PR: Rivenverse | 326841 | [326841-pr-rivenverse.json](./326841-pr-rivenverse.json) |
+| Praamžius | 293290 | [293290-praamzius.json](./293290-praamzius.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
 | Practice Teacher | 388156 | [388156-practice-teacher.json](./388156-practice-teacher.json) |
