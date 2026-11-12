@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Blood Dynasty | 389823 | [389823-vampire-blood-dynasty.json](./389823-vampire-blood-dynasty.json) |
 | Vampire Bloody Star X | 111349 | [111349-vampire-bloody-star-x.json](./111349-vampire-bloody-star-x.json) |
+| Vampire Boyfriend | 267596 | [267596-vampire-boyfriend.json](./267596-vampire-boyfriend.json) |
 | Vampire Boyfriend Plus | 210521 | [210521-vampire-boyfriend-plus.json](./210521-vampire-boyfriend-plus.json) |
 | Vampire Boys Love Story: Date or Die | 388063 | [388063-vampire-boys-love-story-date-or-die.json](./388063-vampire-boys-love-story-date-or-die.json) |
 | Vampire Brides: Love Over Death | 65857 | [65857-vampire-brides-love-over-death.json](./65857-vampire-brides-love-over-death.json) |
