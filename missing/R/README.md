@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Ravva and the Cyclops Curse | 110675 | [110675-ravva-and-the-cyclops-curse.json](./110675-ravva-and-the-cyclops-curse.json) |
+| Ravva and the Netherworld Train | 291727 | [291727-ravva-and-the-netherworld-train.json](./291727-ravva-and-the-netherworld-train.json) |
 | Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
 | Ravy Davy: Attack on Ambiguity | 373128 | [373128-ravy-davy-attack-on-ambiguity.json](./373128-ravy-davy-attack-on-ambiguity.json) |
 | Ravyne | 226046 | [226046-ravyne.json](./226046-ravyne.json) |
@@ -2837,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Burn The Bonfire of Taiwan | 369448 | [369448-re-burn-the-bonfire-of-taiwan.json](./369448-re-burn-the-bonfire-of-taiwan.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
+| Re:Cento | 291657 | [291657-re-cento.json](./291657-re-cento.json) |
 | Re:Choice | 324790 | [324790-re-choice.json](./324790-re-choice.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
@@ -6603,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrocycles | 138417 | [138417-retrocycles.json](./138417-retrocycles.json) |
 | RetroDrift: Retrowave Online Road | 186980 | [186980-retrodrift-retrowave-online-road.json](./186980-retrodrift-retrowave-online-road.json) |
+| RetroFight | 292187 | [292187-retrofight.json](./292187-retrofight.json) |
 | RetroFighter VR | 28995 | [28995-retrofighter-vr.json](./28995-retrofighter-vr.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
@@ -10847,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star | 23217 | [23217-rogue-star.json](./23217-rogue-star.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
+| Rogue Stargun | 292270 | [292270-rogue-stargun.json](./292270-rogue-stargun.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
 | Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
 | Rogue Station Defense | 318347 | [318347-rogue-station-defense.json](./318347-rogue-station-defense.json) |
@@ -11366,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance Coaching 101: Couple's Edition | 171517 | [171517-romance-coaching-101-couples-edition.json](./171517-romance-coaching-101-couples-edition.json) |
 | Romance Detective | 108884 | [108884-romance-detective.json](./108884-romance-detective.json) |
 | Romance Detective 2 | 146524 | [146524-romance-detective-2.json](./146524-romance-detective-2.json) |
+| Romance Fantasy | 292204 | [292204-romance-fantasy.json](./292204-romance-fantasy.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance is Dead | 377326 | [377326-romance-is-dead.json](./377326-romance-is-dead.json) |
@@ -13361,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
 | Rune Fencer Illyia | 121258 | [121258-rune-fencer-illyia.json](./121258-rune-fencer-illyia.json) |
 | Rune Gate | 261738 | [261738-rune-gate.json](./261738-rune-gate.json) |
+| Rune Gate: Retribution | 292210 | [292210-rune-gate-retribution.json](./292210-rune-gate-retribution.json) |
 | Rune Gems | 238298 | [238298-rune-gems.json](./238298-rune-gems.json) |
 | Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
@@ -13473,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
 | Runestone Keeper | 36026 | [36026-runestone-keeper.json](./36026-runestone-keeper.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
+| Runestone: Pathfinders | 292199 | [292199-runestone-pathfinders.json](./292199-runestone-pathfinders.json) |
 | Runet Legend | 310799 | [310799-runet-legend.json](./310799-runet-legend.json) |
 | RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
@@ -13809,6 +13816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Horror Story | 34761 | [34761-russian-horror-story.json](./34761-russian-horror-story.json) |
 | Russian Hunter | 203596 | [203596-russian-hunter.json](./203596-russian-hunter.json) |
+| Russian Hut Simulator | 292181 | [292181-russian-hut-simulator.json](./292181-russian-hut-simulator.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Love Story | 104552 | [104552-russian-love-story.json](./104552-russian-love-story.json) |
 | Russian Mailman Simulator | 157496 | [157496-russian-mailman-simulator.json](./157496-russian-mailman-simulator.json) |
