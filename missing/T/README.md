@@ -35565,6 +35565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
 | Twin Odyssey | 180519 | [180519-twin-odyssey.json](./180519-twin-odyssey.json) |
+| Twin P | 266525 | [266525-twin-p.json](./266525-twin-p.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
