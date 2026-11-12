@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineered to Purpose | 224521 | [224521-engineered-to-purpose.json](./224521-engineered-to-purpose.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
+| Enginefall | 283354 | [283354-enginefall.json](./283354-enginefall.json) |
 | Engines of Destruction | 211032 | [211032-engines-of-destruction.json](./211032-engines-of-destruction.json) |
 | Engines of Fury | 307259 | [307259-engines-of-fury.json](./307259-engines-of-fury.json) |
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
@@ -5548,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Bug Island | 4835 | [4835-escape-from-bug-island.json](./4835-escape-from-bug-island.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Bytesville | 291881 | [291881-escape-from-bytesville.json](./291881-escape-from-bytesville.json) |
+| Escape from Calypso | 283353 | [283353-escape-from-calypso.json](./283353-escape-from-calypso.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
 | Escape from Castle Claymount | 278780 | [278780-escape-from-castle-claymount.json](./278780-escape-from-castle-claymount.json) |
 | Escape From Castle Frankenstein | 305982 | [305982-escape-from-castle-frankenstein.json](./305982-escape-from-castle-frankenstein.json) |
