@@ -8173,7 +8173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: House of Wolves | 19921 | [19921-destiny-house-of-wolves.json](./19921-destiny-house-of-wolves.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
 | Destiny: Rise of Iron | 19587 | [19587-destiny-rise-of-iron.json](./19587-destiny-rise-of-iron.json) |
-| Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Collection | 22916 | [22916-destiny-the-collection.json](./22916-destiny-the-collection.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny: The Taken King | 11174 | [11174-destiny-the-taken-king.json](./11174-destiny-the-taken-king.json) |
@@ -18163,7 +18162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
 | Drone Spektra | 114876 | [114876-drone-spektra.json](./114876-drone-spektra.json) |
 | Drone Striker | 116900 | [116900-drone-striker.json](./116900-drone-striker.json) |
-| Drone Swarm | 56357 | [56357-drone-swarm.json](./56357-drone-swarm.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone Tinkerer | 201379 | [201379-drone-tinkerer.json](./201379-drone-tinkerer.json) |
