@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
 | Cassette Four | 153513 | [153513-cassette-four.json](./153513-cassette-four.json) |
 | Cassette Three | 148294 | [148294-cassette-three.json](./148294-cassette-three.json) |
+| Cassiculus | 306245 | [306245-cassiculus.json](./306245-cassiculus.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassiel | 276262 | [276262-cassiel.json](./276262-cassiel.json) |
 | Cassiodora | 193659 | [193659-cassiodora.json](./193659-cassiodora.json) |
@@ -5503,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
 | Cazzarion: Rocket Raid | 302234 | [302234-cazzarion-rocket-raid.json](./302234-cazzarion-rocket-raid.json) |
 | Cazzarion: Shellfish Frenzy | 292900 | [292900-cazzarion-shellfish-frenzy.json](./292900-cazzarion-shellfish-frenzy.json) |
+| Cazzarion: Ship Hunting | 306745 | [306745-cazzarion-ship-hunting.json](./306745-cazzarion-ship-hunting.json) |
 | Cazzarion: Shooting Gallery | 308603 | [308603-cazzarion-shooting-gallery.json](./308603-cazzarion-shooting-gallery.json) |
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
@@ -10157,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Rain | 25497 | [25497-city-rain.json](./25497-city-rain.json) |
 | City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
+| City Rickshaw Transporter | 306259 | [306259-city-rickshaw-transporter.json](./306259-city-rickshaw-transporter.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
 | City Sandbox | 63359 | [63359-city-sandbox.json](./63359-city-sandbox.json) |
 | City Siege | 266640 | [266640-city-siege.json](./266640-city-siege.json) |
