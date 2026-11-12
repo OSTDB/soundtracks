@@ -7163,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
 | Golem | 47987 | [47987-golem.json](./47987-golem.json) |
+| Golem Arcana | 251257 | [251257-golem-arcana.json](./251257-golem-arcana.json) |
 | Golem Builder | 235401 | [235401-golem-builder.json](./235401-golem-builder.json) |
 | Golem Creation Kit | 54990 | [54990-golem-creation-kit.json](./54990-golem-creation-kit.json) |
 | Golem Epic Adventures | 238297 | [238297-golem-epic-adventures.json](./238297-golem-epic-adventures.json) |
@@ -10380,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.6 | 117248 | [117248-grisaia-phantom-trigger-vol-6.json](./117248-grisaia-phantom-trigger-vol-6.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia Trilogy Package Edition | 123169 | [123169-grisaia-trilogy-package-edition.json](./123169-grisaia-trilogy-package-edition.json) |
+| Grisaia: Chronos Rebellion | 251267 | [251267-grisaia-chronos-rebellion.json](./251267-grisaia-chronos-rebellion.json) |
 | Grisaia: Phantom Trigger 01 to 05 | 142752 | [142752-grisaia-phantom-trigger-01-to-05.json](./142752-grisaia-phantom-trigger-01-to-05.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
