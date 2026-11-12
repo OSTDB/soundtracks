@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ilum | 178168 | [178168-ilum.json](./178168-ilum.json) |
 | Iluminatus Bizarre Ascent | 372778 | [372778-iluminatus-bizarre-ascent.json](./372778-iluminatus-bizarre-ascent.json) |
 | Ilusiyellow? | 339028 | [339028-ilusiyellow.json](./339028-ilusiyellow.json) |
+| Ilya Muromec i Solovey-Razboynik | 251799 | [251799-ilya-muromec-i-solovey-razboynik.json](./251799-ilya-muromec-i-solovey-razboynik.json) |
 | Ilya Muromets | 60936 | [60936-ilya-muromets.json](./60936-ilya-muromets.json) |
 | Ilyad | 366984 | [366984-ilyad.json](./366984-ilyad.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
