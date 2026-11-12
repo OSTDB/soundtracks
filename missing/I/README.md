@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Drop | 274423 | [274423-ice-cream-drop.json](./274423-ice-cream-drop.json) |
 | Ice Cream Express | 409856 | [409856-ice-cream-express.json](./409856-ice-cream-express.json) |
 | Ice Cream Factory | 86755 | [86755-ice-cream-factory.json](./86755-ice-cream-factory.json) |
+| Ice Cream Fantasy: Ecchi Game | 286719 | [286719-ice-cream-fantasy-ecchi-game.json](./286719-ice-cream-fantasy-ecchi-game.json) |
 | Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
 | Ice Cream Float | 335738 | [335738-ice-cream-float.json](./335738-ice-cream-float.json) |
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
@@ -3495,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indagator | 249390 | [249390-indagator.json](./249390-indagator.json) |
 | Inde Rally | 47090 | [47090-inde-rally.json](./47090-inde-rally.json) |
 | Indecent Desires | 211617 | [211617-indecent-desires.json](./211617-indecent-desires.json) |
+| Indecent Details: Find the Difference | 286797 | [286797-indecent-details-find-the-difference.json](./286797-indecent-details-find-the-difference.json) |
 | Indecent Wife Hana: Gravure | 235582 | [235582-indecent-wife-hana-gravure.json](./235582-indecent-wife-hana-gravure.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indect | 135062 | [135062-indect.json](./135062-indect.json) |
