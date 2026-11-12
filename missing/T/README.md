@@ -14227,6 +14227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Planet Zenox | 150370 | [150370-the-lost-planet-zenox.json](./150370-the-lost-planet-zenox.json) |
 | The Lost Post | 252938 | [252938-the-lost-post.json](./252938-the-lost-post.json) |
 | The Lost Prince | 261737 | [261737-the-lost-prince.json](./261737-the-lost-prince.json) |
+| The Lost Prince Pirates | 299640 | [299640-the-lost-prince-pirates.json](./299640-the-lost-prince-pirates.json) |
 | The Lost Residents | 180447 | [180447-the-lost-residents.json](./180447-the-lost-residents.json) |
 | The Lost Resort | 87558 | [87558-the-lost-resort.json](./87558-the-lost-resort.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
@@ -26900,6 +26901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomochi | 360835 | [360835-tomochi.json](./360835-tomochi.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
+| Tomodachi Geinou-sha | 299634 | [299634-tomodachi-geinou-sha.json](./299634-tomodachi-geinou-sha.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
 | Tomodachi Kara Koibito he | 220419 | [220419-tomodachi-kara-koibito-he.json](./220419-tomodachi-kara-koibito-he.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
@@ -35259,6 +35261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
+| Twilight Hunters | 299622 | [299622-twilight-hunters.json](./299622-twilight-hunters.json) |
 | Twilight Imperium Digital | 368136 | [368136-twilight-imperium-digital.json](./368136-twilight-imperium-digital.json) |
 | Twilight Infiniforest | 408161 | [408161-twilight-infiniforest.json](./408161-twilight-infiniforest.json) |
 | Twilight Insanity | 65485 | [65485-twilight-insanity.json](./65485-twilight-insanity.json) |
