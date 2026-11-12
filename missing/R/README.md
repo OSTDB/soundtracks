@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race 07: WTCC 2010 | 119181 | [119181-race-07-wtcc-2010.json](./119181-race-07-wtcc-2010.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Against a Duck | 343189 | [343189-race-against-a-duck.json](./343189-race-against-a-duck.json) |
+| Race Against a Duck: Duck Deluxe | 289495 | [289495-race-against-a-duck-duck-deluxe.json](./289495-race-against-a-duck-duck-deluxe.json) |
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
 | Race Attorney | 349748 | [349748-race-attorney.json](./349748-race-attorney.json) |
 | Race Boat Simulator | 256029 | [256029-race-boat-simulator.json](./256029-race-boat-simulator.json) |
@@ -4851,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
 | Reframe | 346523 | [346523-reframe.json](./346523-reframe.json) |
 | Reframed | 93794 | [93794-reframed.json](./93794-reframed.json) |
+| Refrega | 289533 | [289533-refrega.json](./289533-refrega.json) |
 | Refreshing Sideways Puzzle Ghost Hammer | 147716 | [147716-refreshing-sideways-puzzle-ghost-hammer.json](./147716-refreshing-sideways-puzzle-ghost-hammer.json) |
 | Refrigerant Recovery Simulation | 164186 | [164186-refrigerant-recovery-simulation.json](./164186-refrigerant-recovery-simulation.json) |
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
