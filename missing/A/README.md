@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
 | Abs vs. The Blood Queen | 138636 | [138636-abs-vs-the-blood-queen.json](./138636-abs-vs-the-blood-queen.json) |
 | Abscam | 247331 | [247331-abscam.json](./247331-abscam.json) |
+| Abscission | 257612 | [257612-abscission.json](./257612-abscission.json) |
 | Abscond | 76345 | [76345-abscond.json](./76345-abscond.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
@@ -4541,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Time Traveller Bundle | 308583 | [308583-aery-time-traveller-bundle.json](./308583-aery-time-traveller-bundle.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
 | Aery: Winter Wonderland | 378997 | [378997-aery-winter-wonderland.json](./378997-aery-winter-wonderland.json) |
+| Aeryth | 257587 | [257587-aeryth.json](./257587-aeryth.json) |
 | Aeschylus: Death | 379564 | [379564-aeschylus-death.json](./379564-aeschylus-death.json) |
 | Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
 | Aesir Online | 154825 | [154825-aesir-online.json](./154825-aesir-online.json) |
