@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Parade or: "you should be depressed." | 417242 | [417242-basic-parade-or-you-should-be-depressed.json](./417242-basic-parade-or-you-should-be-depressed.json) |
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
 | Basic Programming | 54794 | [54794-basic-programming.json](./54794-basic-programming.json) |
+| Basic Replicator | 288933 | [288933-basic-replicator.json](./288933-basic-replicator.json) |
 | Basic Rogue | 169029 | [169029-basic-rogue.json](./169029-basic-rogue.json) |
 | Basic Warfare | 127728 | [127728-basic-warfare.json](./127728-basic-warfare.json) |
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
@@ -10306,6 +10307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladerunners SX | 330820 | [330820-bladerunners-sx.json](./330820-bladerunners-sx.json) |
 | Blades & Battles | 321243 | [321243-blades-and-battles.json](./321243-blades-and-battles.json) |
 | Blades & Trades | 422121 | [422121-blades-and-trades.json](./422121-blades-and-trades.json) |
+| Blades & Wands Bundle | 288951 | [288951-blades-and-wands-bundle.json](./288951-blades-and-wands-bundle.json) |
 | Blades Adrift | 176272 | [176272-blades-adrift.json](./176272-blades-adrift.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
@@ -18085,6 +18087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
+| Buckshot Roulette | 288941 | [288941-buckshot-roulette.json](./288941-buckshot-roulette.json) |
 | Buckshot to Hell | 319992 | [319992-buckshot-to-hell.json](./319992-buckshot-to-hell.json) |
 | Buckshot With Friends | 287455 | [287455-buckshot-with-friends.json](./287455-buckshot-with-friends.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
