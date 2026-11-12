@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
 | Phantasist | 338096 | [338096-phantasist.json](./338096-phantasist.json) |
 | Phantasm | 12924 | [12924-phantasm.json](./12924-phantasm.json) |
+| Phantasm | 296706 | [296706-phantasm.json](./296706-phantasm.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasm | 325141 | [325141-phantasm.json](./325141-phantasm.json) |
 | Phantasm Romance: Gensou Rouman Kikou | 375564 | [375564-phantasm-romance-gensou-rouman-kikou.json](./375564-phantasm-romance-gensou-rouman-kikou.json) |
@@ -8056,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
 | Pipsqueak! | 304306 | [304306-pipsqueak.json](./304306-pipsqueak.json) |
 | PiPu Party | 376494 | [376494-pipu-party.json](./376494-pipu-party.json) |
+| Pipunka the Jumper | 297255 | [297255-pipunka-the-jumper.json](./297255-pipunka-the-jumper.json) |
 | Pipyakas | 216396 | [216396-pipyakas.json](./216396-pipyakas.json) |
 | Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
@@ -9603,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzakai | 293665 | [293665-pizzakai.json](./293665-pizzakai.json) |
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
 | Pizzamon | 194863 | [194863-pizzamon.json](./194863-pizzamon.json) |
+| PizzaPanic | 296306 | [296306-pizzapanic.json](./296306-pizzapanic.json) |
 | Pizzapocalypse | 307230 | [307230-pizzapocalypse.json](./307230-pizzapocalypse.json) |
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
@@ -10980,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plylbl | 333977 | [333977-plylbl.json](./333977-plylbl.json) |
 | Plyxo Games | 393446 | [393446-plyxo-games.json](./393446-plyxo-games.json) |
 | PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
+| PMC Promiscuity | 296307 | [296307-pmc-promiscuity.json](./296307-pmc-promiscuity.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
 | Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
@@ -12389,6 +12393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Unite: Season 1 | 194419 | [194419-pokemon-unite-season-1.json](./194419-pokemon-unite-season-1.json) |
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
 | Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
+| Pokémon Unova Red | 296827 | [296827-pokemon-unova-red.json](./296827-pokemon-unova-red.json) |
 | Pokémon Uranium | 24949 | [24949-pokemon-uranium.json](./24949-pokemon-uranium.json) |
 | Pokémon Vanguard | 242897 | [242897-pokemon-vanguard.json](./242897-pokemon-vanguard.json) |
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
@@ -12825,6 +12830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
 | Police Skill | 277706 | [277706-police-skill.json](./277706-police-skill.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
+| Police Station Simulator | 296302 | [296302-police-station-simulator.json](./296302-police-station-simulator.json) |
 | Police Stories | 28225 | [28225-police-stories.json](./28225-police-stories.json) |
 | Police Stories: The Academy | 211037 | [211037-police-stories-the-academy.json](./211037-police-stories-the-academy.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
@@ -14174,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postmouse | 231675 | [231675-postmouse.json](./231675-postmouse.json) |
 | PostPet DS: Yumemiru Momo to Fushigi no Pen | 67121 | [67121-postpet-ds-yumemiru-momo-to-fushigi-no-pen.json](./67121-postpet-ds-yumemiru-momo-to-fushigi-no-pen.json) |
 | Postponed | 398301 | [398301-postponed.json](./398301-postponed.json) |
+| Postrok | 296283 | [296283-postrok.json](./296283-postrok.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
 | Pòsuì Fǎshù | 121308 | [121308-posui-fashu.json](./121308-posui-fashu.json) |
