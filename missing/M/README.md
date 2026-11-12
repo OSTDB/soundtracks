@@ -11379,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jackson: The Experience | 5006 | [5006-michael-jackson-the-experience.json](./5006-michael-jackson-the-experience.json) |
 | Michael Jackson: The Experience 3D | 85288 | [85288-michael-jackson-the-experience-3d.json](./85288-michael-jackson-the-experience-3d.json) |
 | Michael Jackson's Moonwalker | 18139 | [18139-michael-jacksons-moonwalker.json](./18139-michael-jacksons-moonwalker.json) |
+| Michael Jackson's Moonwalker | 253617 | [253617-michael-jacksons-moonwalker.json](./253617-michael-jacksons-moonwalker.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Jordan in Flight | 198814 | [198814-michael-jordan-in-flight.json](./198814-michael-jordan-in-flight.json) |
 | Michael Jordan in Flight | 69585 | [69585-michael-jordan-in-flight.json](./69585-michael-jordan-in-flight.json) |
@@ -12139,6 +12140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Dash | 231189 | [231189-midnight-dash.json](./231189-midnight-dash.json) |
 | Midnight Date Unleashed | 367765 | [367765-midnight-date-unleashed.json](./367765-midnight-date-unleashed.json) |
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
+| Midnight Door | 253643 | [253643-midnight-door.json](./253643-midnight-door.json) |
 | Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
 | Midnight Drift '86 | 344582 | [344582-midnight-drift-86.json](./344582-midnight-drift-86.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
@@ -15287,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitosis | 29959 | [29959-mitosis.json](./29959-mitosis.json) |
 | Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
+| Mitrapunk | 253630 | [253630-mitrapunk.json](./253630-mitrapunk.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
 | Mitsu x Mitsu Drops: Love x Love Honey Life | 203262 | [203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json](./203262-mitsu-x-mitsu-drops-love-x-love-honey-life.json) |
@@ -17558,6 +17561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tamer | 397604 | [397604-monster-tamer.json](./397604-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
+| Monster Tiles TD | 253625 | [253625-monster-tiles-td.json](./253625-monster-tiles-td.json) |
 | Monster Toons | 199147 | [199147-monster-toons.json](./199147-monster-toons.json) |
 | Monster Tower | 170636 | [170636-monster-tower.json](./170636-monster-tower.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
