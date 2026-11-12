@@ -8255,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot | 13398 | [13398-bigfoot.json](./13398-bigfoot.json) |
 | Bigfoot | 218339 | [218339-bigfoot.json](./218339-bigfoot.json) |
 | Bigfoot | 279695 | [279695-bigfoot.json](./279695-bigfoot.json) |
+| Bigfoot | 312943 | [312943-bigfoot.json](./312943-bigfoot.json) |
 | Bigfoot | 31851 | [31851-bigfoot.json](./31851-bigfoot.json) |
 | Bigfoot | 377823 | [377823-bigfoot.json](./377823-bigfoot.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
@@ -8722,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
 | Bio Spheres | 13402 | [13402-bio-spheres.json](./13402-bio-spheres.json) |
 | Bio Worm | 134359 | [134359-bio-worm.json](./134359-bio-worm.json) |
+| Bio-Hazard | 313593 | [313593-bio-hazard.json](./313593-bio-hazard.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | Bio-Morph Encyclopedia | 274060 | [274060-bio-morph-encyclopedia.json](./274060-bio-morph-encyclopedia.json) |
 | Bio-Ship Paladin | 39877 | [39877-bio-ship-paladin.json](./39877-bio-ship-paladin.json) |
