@@ -16752,6 +16752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Syndicate: Victorian Legends Pack | 248416 | [248416-assassins-creed-syndicate-victorian-legends-pack.json](./248416-assassins-creed-syndicate-victorian-legends-pack.json) |
 | Assassin's Creed Triple Pack: Black Flag, Unity, Syndicate | 164674 | [164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json](./164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json) |
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
+| Assassin's Creed Unity: Revolutionary Armaments Pack | 250579 | [250579-assassins-creed-unity-revolutionary-armaments-pack.json](./250579-assassins-creed-unity-revolutionary-armaments-pack.json) |
 | Assassin's Creed Unity: The Chemical Revolution | 222679 | [222679-assassins-creed-unity-the-chemical-revolution.json](./222679-assassins-creed-unity-the-chemical-revolution.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
