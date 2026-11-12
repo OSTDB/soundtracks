@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
 | Saints Row Ultimate Franchise | 25500 | [25500-saints-row-ultimate-franchise.json](./25500-saints-row-ultimate-franchise.json) |
 | Saints Row V | 126151 | [126151-saints-row-v.json](./126151-saints-row-v.json) |
+| Saints Row: A Song of Ice & Dust | 260935 | [260935-saints-row-a-song-of-ice-and-dust.json](./260935-saints-row-a-song-of-ice-and-dust.json) |
 | Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
 | Saints Row: Day One Edition | 203507 | [203507-saints-row-day-one-edition.json](./203507-saints-row-day-one-edition.json) |
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
@@ -18507,6 +18508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
+| Songs of the Damned | 260911 | [260911-songs-of-the-damned.json](./260911-songs-of-the-damned.json) |
 | Songs of the Eons | 176614 | [176614-songs-of-the-eons.json](./176614-songs-of-the-eons.json) |
 | Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
 | Songs of the Lost | 120486 | [120486-songs-of-the-lost.json](./120486-songs-of-the-lost.json) |
