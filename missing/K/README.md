@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor 2: Horzine Diver Outfit Bundle | 332025 | [332025-killing-floor-2-horzine-diver-outfit-bundle.json](./332025-killing-floor-2-horzine-diver-outfit-bundle.json) |
 | Killing Floor 2: Last Stand Outfit Bundle | 301748 | [301748-killing-floor-2-last-stand-outfit-bundle.json](./301748-killing-floor-2-last-stand-outfit-bundle.json) |
+| Killing Floor 2: MG3 Shredder Weapon Bundle | 301191 | [301191-killing-floor-2-mg3-shredder-weapon-bundle.json](./301191-killing-floor-2-mg3-shredder-weapon-bundle.json) |
 | Killing Floor 2: Reaper Outfit Bundle | 301754 | [301754-killing-floor-2-reaper-outfit-bundle.json](./301754-killing-floor-2-reaper-outfit-bundle.json) |
 | Killing Floor 2: S12 Shockgun Weapon Bundle | 301738 | [301738-killing-floor-2-s12-shockgun-weapon-bundle.json](./301738-killing-floor-2-s12-shockgun-weapon-bundle.json) |
 | Killing Floor 2: Ultimate Edition | 205000 | [205000-killing-floor-2-ultimate-edition.json](./205000-killing-floor-2-ultimate-edition.json) |
@@ -3013,7 +3014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts: Melody of Memory | 135108 | [135108-kingdom-hearts-melody-of-memory.json](./135108-kingdom-hearts-melody-of-memory.json) |
 | Kingdom Hearts: Union x Dark Road | 135639 | [135639-kingdom-hearts-union-x-dark-road.json](./135639-kingdom-hearts-union-x-dark-road.json) |
 | Kingdom Hearts: VR Experience | 109275 | [109275-kingdom-hearts-vr-experience.json](./109275-kingdom-hearts-vr-experience.json) |
+| Kingdom Heritage Bundle | 301194 | [301194-kingdom-heritage-bundle.json](./301194-kingdom-heritage-bundle.json) |
 | Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
 | Kingdom Heroes 2 | 68091 | [68091-kingdom-heroes-2.json](./68091-kingdom-heroes-2.json) |
 | Kingdom Heroes 8 | 143523 | [143523-kingdom-heroes-8.json](./143523-kingdom-heroes-8.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom III: Rising Realms | 415172 | [415172-kingdom-iii-rising-realms.json](./415172-kingdom-iii-rising-realms.json) |
+| Kingdom Imperial Collection | 301195 | [301195-kingdom-imperial-collection.json](./301195-kingdom-imperial-collection.json) |
 | Kingdom Incremental | 247843 | [247843-kingdom-incremental.json](./247843-kingdom-incremental.json) |
 | Kingdom Island HD: Online Virtual World | 175531 | [175531-kingdom-island-hd-online-virtual-world.json](./175531-kingdom-island-hd-online-virtual-world.json) |
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
