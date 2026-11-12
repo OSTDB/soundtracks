@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Quiz Game Where You Try to Solve Questions but the Questions Have Tricks and Gimmicks and if You Get Them Wrong You Have to Beat a Wacky Punishment but They Are Kinda Fun So You Lowkey Wanna Do Them Even if It Means Getting the Question Wrong. | 417742 | [417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json](./417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
+| A Not Troll Game | 256480 | [256480-a-not-troll-game.json](./256480-a-not-troll-game.json) |
 | A Number From the Ghost | 285270 | [285270-a-number-from-the-ghost.json](./285270-a-number-from-the-ghost.json) |
 | A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
 | A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abedot Family Estate: Search For Hidden Objects | 201421 | [201421-abedot-family-estate-search-for-hidden-objects.json](./201421-abedot-family-estate-search-for-hidden-objects.json) |
 | Abejuela's Power: The Game | 312930 | [312930-abejuelas-power-the-game.json](./312930-abejuelas-power-the-game.json) |
+| Abel | 256472 | [256472-abel.json](./256472-abel.json) |
 | Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
 | Abelana's Atom Maker | 157381 | [157381-abelanas-atom-maker.json](./157381-abelanas-atom-maker.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
@@ -5603,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Anomaly | 81593 | [81593-ai-anomaly.json](./81593-ai-anomaly.json) |
 | AI Apocalypse | 402749 | [402749-ai-apocalypse.json](./402749-ai-apocalypse.json) |
 | AI Arcade | 173927 | [173927-ai-arcade.json](./173927-ai-arcade.json) |
+| AI Arena | 256503 | [256503-ai-arena.json](./256503-ai-arena.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | Ai Chou Aniki | 6475 | [6475-ai-chou-aniki.json](./6475-ai-chou-aniki.json) |
@@ -7570,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Escape | 315748 | [315748-alien-invasion-escape.json](./315748-alien-invasion-escape.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
+| Alien Invasion: RPG Idle Space | 256571 | [256571-alien-invasion-rpg-idle-space.json](./256571-alien-invasion-rpg-idle-space.json) |
 | Alien Investigator | 264190 | [264190-alien-investigator.json](./264190-alien-investigator.json) |
 | Alien IQ Exam: Human Edition, Phase 1 | 256049 | [256049-alien-iq-exam-human-edition-phase-1.json](./256049-alien-iq-exam-human-edition-phase-1.json) |
 | Alien Jelly: Food For Thought! | 122074 | [122074-alien-jelly-food-for-thought.json](./122074-alien-jelly-food-for-thought.json) |
@@ -10024,6 +10028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
+| Anatine | 256492 | [256492-anatine.json](./256492-anatine.json) |
 | Anatomic Man | 11900 | [11900-anatomic-man.json](./11900-anatomic-man.json) |
 | Anatomy | 57353 | [57353-anatomy.json](./57353-anatomy.json) |
 | Anatomy of Fear | 157258 | [157258-anatomy-of-fear.json](./157258-anatomy-of-fear.json) |
@@ -13745,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Splatter House | 254628 | [254628-arcade-archives-splatter-house.json](./254628-arcade-archives-splatter-house.json) |
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
 | Arcade Archives: Stinger | 356975 | [356975-arcade-archives-stinger.json](./356975-arcade-archives-stinger.json) |
+| Arcade Archives: Strato Fighter | 256499 | [256499-arcade-archives-strato-fighter.json](./256499-arcade-archives-strato-fighter.json) |
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
 | Arcade Archives: Strike Gunner | 267771 | [267771-arcade-archives-strike-gunner.json](./267771-arcade-archives-strike-gunner.json) |
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
@@ -18033,6 +18039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie Plus: The Alchemist of Salburg | 308190 | [308190-atelier-marie-plus-the-alchemist-of-salburg.json](./308190-atelier-marie-plus-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg - Digital Deluxe Edition | 246875 | [246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json](./246875-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-edition.json) |
+| Atelier Marie Remake: The Alchemist of Salburg Digital Deluxe Upgrade Pack | 256462 | [256462-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-upgrade-pack.json](./256462-atelier-marie-remake-the-alchemist-of-salburg-digital-deluxe-upgrade-pack.json) |
 | Atelier Marie, Elie & Anis: Message on the Gentle Breeze | 49699 | [49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json](./49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
@@ -18231,6 +18238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis Sky Patrol | 16182 | [16182-atlantis-sky-patrol.json](./16182-atlantis-sky-patrol.json) |
 | Atlantis VR | 75328 | [75328-atlantis-vr.json](./75328-atlantis-vr.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
+| Atlantis: Alien Space Shooter | 256508 | [256508-atlantis-alien-space-shooter.json](./256508-atlantis-alien-space-shooter.json) |
 | Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
 | Atlantis: Evolution | 19446 | [19446-atlantis-evolution.json](./19446-atlantis-evolution.json) |
 | Atlantis: Mysteries of Ancient Inventors | 88345 | [88345-atlantis-mysteries-of-ancient-inventors.json](./88345-atlantis-mysteries-of-ancient-inventors.json) |
