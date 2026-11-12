@@ -4983,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
 | Death Penalty: Beginning | 26750 | [26750-death-penalty-beginning.json](./26750-death-penalty-beginning.json) |
+| Death Pilot | 295182 | [295182-death-pilot.json](./295182-death-pilot.json) |
 | Death Pipe | 227725 | [227725-death-pipe.json](./227725-death-pipe.json) |
 | Death Pirate | 35521 | [35521-death-pirate.json](./35521-death-pirate.json) |
 | Death Pit | 13578 | [13578-death-pit.json](./13578-death-pit.json) |
@@ -9177,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
 | Diary of a certain A: Chapter I | 180365 | [180365-diary-of-a-certain-a-chapter-i.json](./180365-diary-of-a-certain-a-chapter-i.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
+| Diary of a Stoner | 295191 | [295191-diary-of-a-stoner.json](./295191-diary-of-a-stoner.json) |
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
 | Diary of a Zomboni Driver | 286321 | [286321-diary-of-a-zomboni-driver.json](./286321-diary-of-a-zomboni-driver.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
@@ -14419,8 +14421,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | Dope Wars: Weed Edition | 90747 | [90747-dope-wars-weed-edition.json](./90747-dope-wars-weed-edition.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
+| DopeNet | 295418 | [295418-dopenet.json](./295418-dopenet.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
 | Doppa | 247425 | [247425-doppa.json](./247425-doppa.json) |
+| Doppel Diner | 295593 | [295593-doppel-diner.json](./295593-doppel-diner.json) |
 | Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
 | Doppelganger | 180598 | [180598-doppelganger.json](./180598-doppelganger.json) |
 | Doppelganger | 294119 | [294119-doppelganger.json](./294119-doppelganger.json) |
@@ -14691,6 +14695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Man | 124511 | [124511-dot-man.json](./124511-dot-man.json) |
 | Dot Net | 388902 | [388902-dot-net.json](./388902-dot-net.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
+| Dot Piece Puzzle: Dotpicture | 295581 | [295581-dot-piece-puzzle-dotpicture.json](./295581-dot-piece-puzzle-dotpicture.json) |
 | Dot Pop! | 99184 | [99184-dot-pop.json](./99184-dot-pop.json) |
 | Dot Pull | 71153 | [71153-dot-pull.json](./71153-dot-pull.json) |
 | Dot Runner: Complete Edition | 56907 | [56907-dot-runner-complete-edition.json](./56907-dot-runner-complete-edition.json) |
