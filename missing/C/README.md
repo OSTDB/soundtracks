@@ -14637,6 +14637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
 | Connect 4 Faces: Match & Play | 232389 | [232389-connect-4-faces-match-and-play.json](./232389-connect-4-faces-match-and-play.json) |
+| Connect Animal | 294635 | [294635-connect-animal.json](./294635-connect-animal.json) |
 | Connect Animal 2016 | 106466 | [106466-connect-animal-2016.json](./106466-connect-animal-2016.json) |
 | Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
 | Connect Collect | 329240 | [329240-connect-collect.json](./329240-connect-collect.json) |
