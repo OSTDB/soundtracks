@@ -3762,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
 | Werewolf: The Apocalypse - Heart of the Forest | 134821 | [134821-werewolf-the-apocalypse-heart-of-the-forest.json](./134821-werewolf-the-apocalypse-heart-of-the-forest.json) |
 | Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
+| Werewolf: The Apocalypse - The Book of Hungry Names | 250692 | [250692-werewolf-the-apocalypse-the-book-of-hungry-names.json](./250692-werewolf-the-apocalypse-the-book-of-hungry-names.json) |
 | Werewolf: The Apocalypse - The Book of Hungry Names: Wardens and Furies | 298199 | [298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json](./298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
@@ -7908,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodboy | 118241 | [118241-woodboy.json](./118241-woodboy.json) |
 | Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
 | Woodcutter | 154910 | [154910-woodcutter.json](./154910-woodcutter.json) |
+| Woodcutter | 250674 | [250674-woodcutter.json](./250674-woodcutter.json) |
 | Woodcutter Simulator | 10499 | [10499-woodcutter-simulator.json](./10499-woodcutter-simulator.json) |
 | Woodcutter Simulator 2011 | 52132 | [52132-woodcutter-simulator-2011.json](./52132-woodcutter-simulator-2011.json) |
 | Woodcutter Simulator 2012 | 52131 | [52131-woodcutter-simulator-2012.json](./52131-woodcutter-simulator-2012.json) |
