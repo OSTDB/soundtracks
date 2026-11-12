@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Gunjin Shougi | 376996 | [376996-family-gunjin-shougi.json](./376996-family-gunjin-shougi.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
+| Family Guy DVD Blast! The Freakin' Sweet Trivia Game | 307443 | [307443-family-guy-dvd-blast-the-freakin-sweet-trivia-game.json](./307443-family-guy-dvd-blast-the-freakin-sweet-trivia-game.json) |
 | Family Guy Invaders | 335726 | [335726-family-guy-invaders.json](./335726-family-guy-invaders.json) |
 | Family Guy Online | 76456 | [76456-family-guy-online.json](./76456-family-guy-online.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Secrets 1: Empty Plate | 409137 | [409137-family-secrets-1-empty-plate.json](./409137-family-secrets-1-empty-plate.json) |
 | Family Slot Car Racing | 67779 | [67779-family-slot-car-racing.json](./67779-family-slot-car-racing.json) |
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
+| Family Sport 200 in 1 | 307457 | [307457-family-sport-200-in-1.json](./307457-family-sport-200-in-1.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
 | Family Stadium 2003 | 3913 | [3913-family-stadium-2003.json](./3913-family-stadium-2003.json) |
 | Family Table Tennis | 6681 | [6681-family-table-tennis.json](./6681-family-table-tennis.json) |
@@ -7606,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights to Remember | 319620 | [319620-five-nights-to-remember.json](./319620-five-nights-to-remember.json) |
 | Five Nights With 39 | 263638 | [263638-five-nights-with-39.json](./263638-five-nights-with-39.json) |
 | Five Nights with CJ | 342546 | [342546-five-nights-with-cj.json](./342546-five-nights-with-cj.json) |
+| Five Nights with Creg | 307469 | [307469-five-nights-with-creg.json](./307469-five-nights-with-creg.json) |
 | Five Nights with Firearms | 405308 | [405308-five-nights-with-firearms.json](./405308-five-nights-with-firearms.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
 | Five Nights With James | 212249 | [212249-five-nights-with-james.json](./212249-five-nights-with-james.json) |
