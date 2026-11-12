@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Kakeru | 98606 | [98606-manga-kakeru.json](./98606-manga-kakeru.json) |
 | Manga Mahjongg | 78835 | [78835-manga-mahjongg.json](./78835-manga-mahjongg.json) |
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
+| Manga Oku no Hosomichi | 299635 | [299635-manga-oku-no-hosomichi.json](./299635-manga-oku-no-hosomichi.json) |
 | Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
 | Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game | 261105 | [261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json](./261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json) |
@@ -10012,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
 | Merchant 64 | 329243 | [329243-merchant-64.json](./329243-merchant-64.json) |
+| Merchant Adventurer | 299654 | [299654-merchant-adventurer.json](./299654-merchant-adventurer.json) |
 | Merchant Colony | 38835 | [38835-merchant-colony.json](./38835-merchant-colony.json) |
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
@@ -11978,6 +11980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midforest Survivor | 258088 | [258088-midforest-survivor.json](./258088-midforest-survivor.json) |
 | Midgard | 228323 | [228323-midgard.json](./228323-midgard.json) |
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
+| Midgard Love | 299616 | [299616-midgard-love.json](./299616-midgard-love.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midgardr | 393583 | [393583-midgardr.json](./393583-midgardr.json) |
 | Midheaven: Winds of Ambition | 318948 | [318948-midheaven-winds-of-ambition.json](./318948-midheaven-winds-of-ambition.json) |
@@ -12130,6 +12133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Outlaw: Illegal Street Drag - Nitro Edition | 73194 | [73194-midnight-outlaw-illegal-street-drag-nitro-edition.json](./73194-midnight-outlaw-illegal-street-drag-nitro-edition.json) |
 | Midnight Overtime | 385445 | [385445-midnight-overtime.json](./385445-midnight-overtime.json) |
 | Midnight Paradise | 140111 | [140111-midnight-paradise.json](./140111-midnight-paradise.json) |
+| Midnight Passions: Yakuza Rose | 299660 | [299660-midnight-passions-yakuza-rose.json](./299660-midnight-passions-yakuza-rose.json) |
 | Midnight Play! Pack | 123355 | [123355-midnight-play-pack.json](./123355-midnight-play-pack.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
 | Midnight Pool | 239485 | [239485-midnight-pool.json](./239485-midnight-pool.json) |
@@ -21607,6 +21611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Amusement Park | 47929 | [47929-my-amusement-park.json](./47929-my-amusement-park.json) |
 | My Angel | 217770 | [217770-my-angel.json](./217770-my-angel.json) |
 | My Angel Girlfriend | 218657 | [218657-my-angel-girlfriend.json](./218657-my-angel-girlfriend.json) |
+| My Angel Romance | 299621 | [299621-my-angel-romance.json](./299621-my-angel-romance.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Animal Centre | 92629 | [92629-my-animal-centre.json](./92629-my-animal-centre.json) |
 | My Animal Centre in Africa | 75352 | [75352-my-animal-centre-in-africa.json](./75352-my-animal-centre-in-africa.json) |
@@ -21618,6 +21623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
 | My Aquarium 2 | 85298 | [85298-my-aquarium-2.json](./85298-my-aquarium-2.json) |
 | My Aquarium: Seven Oceans | 85299 | [85299-my-aquarium-seven-oceans.json](./85299-my-aquarium-seven-oceans.json) |
+| My Arahitogami Romance | 299620 | [299620-my-arahitogami-romance.json](./299620-my-arahitogami-romance.json) |
 | My Arcade | 371305 | [371305-my-arcade.json](./371305-my-arcade.json) |
 | My Arctic Farm | 85297 | [85297-my-arctic-farm.json](./85297-my-arctic-farm.json) |
 | My Arctic Farm 2018 | 114523 | [114523-my-arctic-farm-2018.json](./114523-my-arctic-farm-2018.json) |
@@ -21668,6 +21674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
 | My Birthday: Herpit | 385766 | [385766-my-birthday-herpit.json](./385766-my-birthday-herpit.json) |
+| My Bitter Sweet Romance | 299648 | [299648-my-bitter-sweet-romance.json](./299648-my-bitter-sweet-romance.json) |
 | My Black Cat | 325930 | [325930-my-black-cat.json](./325930-my-black-cat.json) |
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
@@ -21794,6 +21801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Crush, My Bully | 234265 | [234265-my-crush-my-bully.json](./234265-my-crush-my-bully.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
+| My Curry BoyFriend | 299628 | [299628-my-curry-boyfriend.json](./299628-my-curry-boyfriend.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
 | My Cute Girls | 385017 | [385017-my-cute-girls.json](./385017-my-cute-girls.json) |
 | My Cute Pagangirl | 153037 | [153037-my-cute-pagangirl.json](./153037-my-cute-pagangirl.json) |
@@ -21865,6 +21873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dragon Party | 197258 | [197258-my-dragon-party.json](./197258-my-dragon-party.json) |
 | My Dragon: Virtual Pet Game | 331361 | [331361-my-dragon-virtual-pet-game.json](./331361-my-dragon-virtual-pet-game.json) |
 | My Drama | 299505 | [299505-my-drama.json](./299505-my-drama.json) |
+| My Drama Club Romance | 299651 | [299651-my-drama-club-romance.json](./299651-my-drama-club-romance.json) |
 | My Dream | 108310 | [108310-my-dream.json](./108310-my-dream.json) |
 | My Dream Day | 290326 | [290326-my-dream-day.json](./290326-my-dream-day.json) |
 | My Dream for the Future | 142292 | [142292-my-dream-for-the-future.json](./142292-my-dream-for-the-future.json) |
@@ -22012,6 +22021,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fluffy Life | 163745 | [163745-my-fluffy-life.json](./163745-my-fluffy-life.json) |
 | My Foal 3D | 84629 | [84629-my-foal-3d.json](./84629-my-foal-3d.json) |
 | My Football Game | 206770 | [206770-my-football-game.json](./206770-my-football-game.json) |
+| My Forbidden Lover | 299629 | [299629-my-forbidden-lover.json](./299629-my-forbidden-lover.json) |
+| My Forbidden Romance | 299649 | [299649-my-forbidden-romance.json](./299649-my-forbidden-romance.json) |
 | My Forced Yakuza Fiancée | 257313 | [257313-my-forced-yakuza-fiancee.json](./257313-my-forced-yakuza-fiancee.json) |
 | My Forest Spirit Girlfriend | 207205 | [207205-my-forest-spirit-girlfriend.json](./207205-my-forest-spirit-girlfriend.json) |
 | My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
@@ -22268,6 +22279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Jurassic Darling | 231419 | [231419-my-jurassic-darling.json](./231419-my-jurassic-darling.json) |
 | My Jurassic Farm | 61473 | [61473-my-jurassic-farm.json](./61473-my-jurassic-farm.json) |
 | My Jurassic Farm 2018 | 117979 | [117979-my-jurassic-farm-2018.json](./117979-my-jurassic-farm-2018.json) |
+| My Kemono Girlfriend | 299655 | [299655-my-kemono-girlfriend.json](./299655-my-kemono-girlfriend.json) |
 | My Keyboard is Full of Ants! | 408597 | [408597-my-keyboard-is-full-of-ants.json](./408597-my-keyboard-is-full-of-ants.json) |
 | My Kindness is Not an Invitation For You to Touch Me | 128743 | [128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json](./128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
@@ -22434,6 +22446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Love Match | 240855 | [240855-my-love-match.json](./240855-my-love-match.json) |
 | My Love With The GirlsGroup | 292418 | [292418-my-love-with-the-girlsgroup.json](./292418-my-love-with-the-girlsgroup.json) |
 | My Loved Heart | 74667 | [74667-my-loved-heart.json](./74667-my-loved-heart.json) |
+| My Lovely Cat | 299630 | [299630-my-lovely-cat.json](./299630-my-lovely-cat.json) |
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
 | My Lovely Daughter | 74250 | [74250-my-lovely-daughter.json](./74250-my-lovely-daughter.json) |
 | My Lovely Daughter: ReBorn | 311421 | [311421-my-lovely-daughter-reborn.json](./311421-my-lovely-daughter-reborn.json) |
@@ -22477,6 +22490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Melody & Kuromi no Machigai Sagashi | 286950 | [286950-my-melody-and-kuromi-no-machigai-sagashi.json](./286950-my-melody-and-kuromi-no-machigai-sagashi.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Melody: Negai ga Kanau Fushigi na Hako | 97813 | [97813-my-melody-negai-ga-kanau-fushigi-na-hako.json](./97813-my-melody-negai-ga-kanau-fushigi-na-hako.json) |
+| My Memorial Lover | 299623 | [299623-my-memorial-lover.json](./299623-my-memorial-lover.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry May | 247400 | [247400-my-merry-may.json](./247400-my-merry-may.json) |
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
@@ -22695,6 +22709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Secret Life | 419068 | [419068-my-secret-life.json](./419068-my-secret-life.json) |
 | My Secret Ocean Boyfriend | 298979 | [298979-my-secret-ocean-boyfriend.json](./298979-my-secret-ocean-boyfriend.json) |
 | My Secret Pets! | 33396 | [33396-my-secret-pets.json](./33396-my-secret-pets.json) |
+| My Secret Spies | 299618 | [299618-my-secret-spies.json](./299618-my-secret-spies.json) |
 | My Secret Spy Lovers | 228433 | [228433-my-secret-spy-lovers.json](./228433-my-secret-spy-lovers.json) |
 | My Secret World by Imagine | 7915 | [7915-my-secret-world-by-imagine.json](./7915-my-secret-world-by-imagine.json) |
 | My Selfie Story | 56002 | [56002-my-selfie-story.json](./56002-my-selfie-story.json) |
@@ -22753,6 +22768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriend | 299516 | [299516-my-strange-girlfriend.json](./299516-my-strange-girlfriend.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
+| My Strange Lover | 299624 | [299624-my-strange-lover.json](./299624-my-strange-lover.json) |
 | My Strange Plane is a Thing Body Moves Through | 299077 | [299077-my-strange-plane-is-a-thing-body-moves-through.json](./299077-my-strange-plane-is-a-thing-body-moves-through.json) |
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
@@ -22819,9 +22835,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Devilish Maids | 234387 | [234387-my-sweet-devilish-maids.json](./234387-my-sweet-devilish-maids.json) |
 | My Sweet Fairy | 403260 | [403260-my-sweet-fairy.json](./403260-my-sweet-fairy.json) |
+| My Sweet Ghost | 299647 | [299647-my-sweet-ghost.json](./299647-my-sweet-ghost.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet High School Memories | 214915 | [214915-my-sweet-high-school-memories.json](./214915-my-sweet-high-school-memories.json) |
 | My Sweet Home Dungeon | 299199 | [299199-my-sweet-home-dungeon.json](./299199-my-sweet-home-dungeon.json) |
+| My Sweet Pianist | 299631 | [299631-my-sweet-pianist.json](./299631-my-sweet-pianist.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
 | My Sweet Sadistic Sister | 217695 | [217695-my-sweet-sadistic-sister.json](./217695-my-sweet-sadistic-sister.json) |
@@ -22928,6 +22946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tsundere Sister | 407473 | [407473-my-tsundere-sister.json](./407473-my-tsundere-sister.json) |
 | My tubi | 354233 | [354233-my-tubi.json](./354233-my-tubi.json) |
 | My Turn - Card Game | 130624 | [130624-my-turn-card-game.json](./130624-my-turn-card-game.json) |
+| My Twin Romance | 299646 | [299646-my-twin-romance.json](./299646-my-twin-romance.json) |
 | My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
 | My Type of Goblin: A Climbing ASDFenture | 403340 | [403340-my-type-of-goblin-a-climbing-asdfenture.json](./403340-my-type-of-goblin-a-climbing-asdfenture.json) |
 | My Type! | 266829 | [266829-my-type.json](./266829-my-type.json) |
