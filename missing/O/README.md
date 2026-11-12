@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observers | 116691 | [116691-observers.json](./116691-observers.json) |
 | Observo | 203661 | [203661-observo.json](./203661-observo.json) |
 | ObserVRtarium | 40854 | [40854-observrtarium.json](./40854-observrtarium.json) |
+| Obsessed With The Streets | 310292 | [310292-obsessed-with-the-streets.json](./310292-obsessed-with-the-streets.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsessed: Trace | 382948 | [382948-obsessed-trace.json](./382948-obsessed-trace.json) |
 | Obsession | 15327 | [15327-obsession.json](./15327-obsession.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
 | Old School RPG Bundle | 124003 | [124003-old-school-rpg-bundle.json](./124003-old-school-rpg-bundle.json) |
 | Old School RuneScape | 79824 | [79824-old-school-runescape.json](./79824-old-school-runescape.json) |
+| Old School Tower Defense | 310228 | [310228-old-school-tower-defense.json](./310228-old-school-tower-defense.json) |
 | Old School Vibes Bundle | 331482 | [331482-old-school-vibes-bundle.json](./331482-old-school-vibes-bundle.json) |
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Site | 218535 | [218535-old-site.json](./218535-old-site.json) |
