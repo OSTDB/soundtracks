@@ -6324,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
 | Servant of Thrones | 28365 | [28365-servant-of-thrones.json](./28365-servant-of-thrones.json) |
 | Servants of Sumomon | 217134 | [217134-servants-of-sumomon.json](./217134-servants-of-sumomon.json) |
+| Servants of the Night | 298908 | [298908-servants-of-the-night.json](./298908-servants-of-the-night.json) |
 | Serve & Protect Bundle | 311048 | [311048-serve-and-protect-bundle.json](./311048-serve-and-protect-bundle.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
 | Serve or Die | 403886 | [403886-serve-or-die.json](./403886-serve-or-die.json) |
@@ -8713,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shielding Color | 309240 | [309240-shielding-color.json](./309240-shielding-color.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shieldmaiden: Remix Edition | 231239 | [231239-shieldmaiden-remix-edition.json](./231239-shieldmaiden-remix-edition.json) |
+| Shields Defend | 297257 | [297257-shields-defend.json](./297257-shields-defend.json) |
 | Shields of Asgard | 223252 | [223252-shields-of-asgard.json](./223252-shields-of-asgard.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
@@ -27532,6 +27534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start the Lost Treasure | 87884 | [87884-start-the-lost-treasure.json](./87884-start-the-lost-treasure.json) |
 | Start the Party! | 20407 | [20407-start-the-party.json](./20407-start-the-party.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
+| Start with 50 Gold Coins | 296704 | [296704-start-with-50-gold-coins.json](./296704-start-with-50-gold-coins.json) |
 | Start with no dice | 184440 | [184440-start-with-no-dice.json](./184440-start-with-no-dice.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
@@ -28466,6 +28469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellations | 353937 | [353937-stellations.json](./353937-stellations.json) |
 | Stellavanity: Prelude to the Destined Calamity | 62474 | [62474-stellavanity-prelude-to-the-destined-calamity.json](./62474-stellavanity-prelude-to-the-destined-calamity.json) |
 | Stellaxy | 129454 | [129454-stellaxy.json](./129454-stellaxy.json) |
+| Stellfire | 296299 | [296299-stellfire.json](./296299-stellfire.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellinavra | 230155 | [230155-stellinavra.json](./230155-stellinavra.json) |
@@ -31386,6 +31390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Dating | 203598 | [203598-succubus-dating.json](./203598-succubus-dating.json) |
+| Succubus Dungeon | 296698 | [296698-succubus-dungeon.json](./296698-succubus-dungeon.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Forest | 333856 | [333856-succubus-forest.json](./333856-succubus-forest.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
@@ -34047,6 +34052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Card e+ - 1UP Kinoko ga 3UP Moon ni Kawaru | 296051 | [296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json](./296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json) |
 | Super Mario Advance 4: Card e+ - 3 Boomerangs | 296146 | [296146-super-mario-advance-4-card-e-3-boomerangs.json](./296146-super-mario-advance-4-card-e-3-boomerangs.json) |
 | Super Mario Advance 4: Card e+ - 3 Cape Feathers | 296145 | [296145-super-mario-advance-4-card-e-3-cape-feathers.json](./296145-super-mario-advance-4-card-e-3-cape-feathers.json) |
+| Super Mario Advance 4: Card e+ - Boomerang | 296139 | [296139-super-mario-advance-4-card-e-boomerang.json](./296139-super-mario-advance-4-card-e-boomerang.json) |
 | Super Mario Advance 4: Card e+ - Luigi Power Up! | 296052 | [296052-super-mario-advance-4-card-e-luigi-power-up.json](./296052-super-mario-advance-4-card-e-luigi-power-up.json) |
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
