@@ -13251,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run On Home | 242333 | [242333-run-on-home.json](./242333-run-on-home.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
+| Run or Die | 260998 | [260998-run-or-die.json](./260998-run-or-die.json) |
 | Run or Die | 378405 | [378405-run-or-die.json](./378405-run-or-die.json) |
 | Run or Die VR | 283838 | [283838-run-or-die-vr.json](./283838-run-or-die-vr.json) |
 | Run or Fight | 161325 | [161325-run-or-fight.json](./161325-run-or-fight.json) |
