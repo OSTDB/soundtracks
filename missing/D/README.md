@@ -14229,6 +14229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed PETSCII Pacman | 289121 | [289121-doomed-petscii-pacman.json](./289121-doomed-petscii-pacman.json) |
 | Doomed Planet | 70260 | [70260-doomed-planet.json](./70260-doomed-planet.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
+| Doomed Stars | 304933 | [304933-doomed-stars.json](./304933-doomed-stars.json) |
 | Doomed to Hell | 194195 | [194195-doomed-to-hell.json](./194195-doomed-to-hell.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
@@ -16421,6 +16422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Blade: Heroes of Larkwood | 181656 | [181656-dragons-blade-heroes-of-larkwood.json](./181656-dragons-blade-heroes-of-larkwood.json) |
 | Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
 | Dragon's Brew | 317112 | [317112-dragons-brew.json](./317112-dragons-brew.json) |
+| Dragon's Chronicles | 304926 | [304926-dragons-chronicles.json](./304926-dragons-chronicles.json) |
 | Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
@@ -19563,6 +19565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Market Simulator | 354516 | [354516-dungeon-market-simulator.json](./354516-dungeon-market-simulator.json) |
 | Dungeon Master | 180559 | [180559-dungeon-master.json](./180559-dungeon-master.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
+| Dungeon Master | 304941 | [304941-dungeon-master.json](./304941-dungeon-master.json) |
 | Dungeon Master | 3798 | [3798-dungeon-master.json](./3798-dungeon-master.json) |
 | Dungeon Master | 402593 | [402593-dungeon-master.json](./402593-dungeon-master.json) |
 | Dungeon Master 2K | 200101 | [200101-dungeon-master-2k.json](./200101-dungeon-master-2k.json) |
