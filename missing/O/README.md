@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observation Protocol | 416032 | [416032-observation-protocol.json](./416032-observation-protocol.json) |
 | Observatory: A VR Variety Pack | 19062 | [19062-observatory-a-vr-variety-pack.json](./19062-observatory-a-vr-variety-pack.json) |
+| Observe | 285619 | [285619-observe.json](./285619-observe.json) |
 | Observe | 401918 | [401918-observe.json](./401918-observe.json) |
 | Observe | 410313 | [410313-observe.json](./410313-observe.json) |
 | Observe and Report | 297168 | [297168-observe-and-report.json](./297168-observe-and-report.json) |
