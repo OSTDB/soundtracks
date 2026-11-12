@@ -11863,6 +11863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosa + Juliet | 382822 | [382822-rosa-juliet.json](./382822-rosa-juliet.json) |
 | Rosa Inferna | 398132 | [398132-rosa-inferna.json](./398132-rosa-inferna.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
+| Rosa's Garden | 306739 | [306739-rosas-garden.json](./306739-rosas-garden.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
 | Rosabella: Eternal Light and Magic in Harmony | 336398 | [336398-rosabella-eternal-light-and-magic-in-harmony.json](./336398-rosabella-eternal-light-and-magic-in-harmony.json) |
 | Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
@@ -13163,6 +13164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
 | Run Run Bird! | 296272 | [296272-run-run-bird.json](./296272-run-run-bird.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
+| Run Run Boy 2 | 306251 | [306251-run-run-boy-2.json](./306251-run-run-boy-2.json) |
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
 | Run Run Kyousoukyoku | 210821 | [210821-run-run-kyousoukyoku.json](./210821-run-run-kyousoukyoku.json) |
 | Run Run My Bride! | 309428 | [309428-run-run-my-bride.json](./309428-run-run-my-bride.json) |
