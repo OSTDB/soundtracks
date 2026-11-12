@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Snake's Life | 73921 | [73921-a-snakes-life.json](./73921-a-snakes-life.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
 | A Snowman's Chance | 244154 | [244154-a-snowmans-chance.json](./244154-a-snowmans-chance.json) |
+| A Social Platform | 275359 | [275359-a-social-platform.json](./275359-a-social-platform.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
 | A Solitaire Mystery | 297992 | [297992-a-solitaire-mystery.json](./297992-a-solitaire-mystery.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
+| A Stygian Anguish | 275191 | [275191-a-stygian-anguish.json](./275191-a-stygian-anguish.json) |
 | A Subtle Kind of Murder: A Murder Simulator | 184018 | [184018-a-subtle-kind-of-murder-a-murder-simulator.json](./184018-a-subtle-kind-of-murder-a-murder-simulator.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
 | A Summer To Die For | 422847 | [422847-a-summer-to-die-for.json](./422847-a-summer-to-die-for.json) |
@@ -10572,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
+| Angmngthoo | 275188 | [275188-angmngthoo.json](./275188-angmngthoo.json) |
 | Angon: The Grim Age | 206429 | [206429-angon-the-grim-age.json](./206429-angon-the-grim-age.json) |
 | angoo Inc. | 71164 | [71164-angoo-inc.json](./71164-angoo-inc.json) |
 | Angor | 336846 | [336846-angor.json](./336846-angor.json) |
