@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Grave Errand | 419620 | [419620-a-grave-errand.json](./419620-a-grave-errand.json) |
+| A Grave Mistake | 309152 | [309152-a-grave-mistake.json](./309152-a-grave-mistake.json) |
 | A Graveyard for Dreams | 182105 | [182105-a-graveyard-for-dreams.json](./182105-a-graveyard-for-dreams.json) |
 | A Gravity Conspiracy | 316462 | [316462-a-gravity-conspiracy.json](./316462-a-gravity-conspiracy.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Land Fit For Heroes | 22441 | [22441-a-land-fit-for-heroes.json](./22441-a-land-fit-for-heroes.json) |
 | A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
+| A Last Ditch Effort | 308683 | [308683-a-last-ditch-effort.json](./308683-a-last-ditch-effort.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
 | A Legend of Luca | 18205 | [18205-a-legend-of-luca.json](./18205-a-legend-of-luca.json) |
@@ -13490,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
 | Arcade Archives: In the Hunt | 125658 | [125658-arcade-archives-in-the-hunt.json](./125658-arcade-archives-in-the-hunt.json) |
 | Arcade Archives: Itazura Tenshi | 224916 | [224916-arcade-archives-itazura-tenshi.json](./224916-arcade-archives-itazura-tenshi.json) |
+| Arcade Archives: Jackal | 308667 | [308667-arcade-archives-jackal.json](./308667-arcade-archives-jackal.json) |
 | Arcade Archives: Jungler | 288004 | [288004-arcade-archives-jungler.json](./288004-arcade-archives-jungler.json) |
 | Arcade Archives: Juno First | 335981 | [335981-arcade-archives-juno-first.json](./335981-arcade-archives-juno-first.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
@@ -15845,6 +15848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artis Impact: Meiji Spa | 349467 | [349467-artis-impact-meiji-spa.json](./349467-artis-impact-meiji-spa.json) |
 | Artis of Sperm Drinking | 82605 | [82605-artis-of-sperm-drinking.json](./82605-artis-of-sperm-drinking.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
+| Artisan | 309149 | [309149-artisan.json](./309149-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artisan TD | 281796 | [281796-artisan-td.json](./281796-artisan-td.json) |
 | Artisan: Going Home Again | 31384 | [31384-artisan-going-home-again.json](./31384-artisan-going-home-again.json) |
