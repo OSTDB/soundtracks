@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
 | C64 Classix | 93219 | [93219-c64-classix.json](./93219-c64-classix.json) |
 | C64 Direct-to-TV | 281683 | [281683-c64-direct-to-tv.json](./281683-c64-direct-to-tv.json) |
+| C64 Direct-to-TV 2 | 281689 | [281689-c64-direct-to-tv-2.json](./281689-c64-direct-to-tv-2.json) |
 | C64 Quiz | 134400 | [134400-c64-quiz.json](./134400-c64-quiz.json) |
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
 | C7010 Video Chess Module | 165256 | [165256-c7010-video-chess-module.json](./165256-c7010-video-chess-module.json) |
@@ -16968,6 +16969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covechrome | 341645 | [341645-covechrome.json](./341645-covechrome.json) |
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
+| Covemount | 281779 | [281779-covemount.json](./281779-covemount.json) |
 | Covemouth | 341632 | [341632-covemouth.json](./341632-covemouth.json) |
 | Coven | 146649 | [146649-coven.json](./146649-coven.json) |
 | Coven | 345751 | [345751-coven.json](./345751-coven.json) |
