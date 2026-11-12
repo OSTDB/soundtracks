@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
 | Sakamoto Days Dangerous Puzzle | 341289 | [341289-sakamoto-days-dangerous-puzzle.json](./341289-sakamoto-days-dangerous-puzzle.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
+| Sakatsuku 2002: J.League Pro Soccer Club wo Tsukurou! | 314167 | [314167-sakatsuku-2002-j-league-pro-soccer-club-wo-tsukurou.json](./314167-sakatsuku-2002-j-league-pro-soccer-club-wo-tsukurou.json) |
 | SakaTsuku Shoot! | 406634 | [406634-sakatsuku-shoot.json](./406634-sakatsuku-shoot.json) |
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World - Episode 4: Abe Lincoln Must Die! | 19361 | [19361-sam-and-max-save-the-world-episode-4-abe-lincoln-must-die.json](./19361-sam-and-max-save-the-world-episode-4-abe-lincoln-must-die.json) |
 | Sam & Max: Save the World - Episode 5: Reality 2.0 | 27824 | [27824-sam-and-max-save-the-world-episode-5-reality-2-0.json](./27824-sam-and-max-save-the-world-episode-5-reality-2-0.json) |
 | Sam & Max: Save the World - Episode 6: Bright Side of the Moon | 27825 | [27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json](./27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json) |
+| Sam & Max: The Complete Trilogy | 314158 | [314158-sam-and-max-the-complete-trilogy.json](./314158-sam-and-max-the-complete-trilogy.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak | 127131 | [127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json](./127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json) |
@@ -11561,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
 | SimCity 2000: Network Edition | 95506 | [95506-simcity-2000-network-edition.json](./95506-simcity-2000-network-edition.json) |
+| SimCity 2000: Scenarios Volume 1: Great Disasters | 314688 | [314688-simcity-2000-scenarios-volume-1-great-disasters.json](./314688-simcity-2000-scenarios-volume-1-great-disasters.json) |
 | SimCity 2000: Special Edition | 46631 | [46631-simcity-2000-special-edition.json](./46631-simcity-2000-special-edition.json) |
 | SimCity 3000 Unlimited | 28955 | [28955-simcity-3000-unlimited.json](./28955-simcity-3000-unlimited.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
@@ -22316,6 +22319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Squad vs. Zombies | 244942 | [244942-special-squad-vs-zombies.json](./244942-special-squad-vs-zombies.json) |
 | Special Strike | 345975 | [345975-special-strike.json](./345975-special-strike.json) |
+| SPecial Surprise Pixel Dungeon | 314087 | [314087-special-surprise-pixel-dungeon.json](./314087-special-surprise-pixel-dungeon.json) |
 | Special Tactics | 33750 | [33750-special-tactics.json](./33750-special-tactics.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
@@ -25799,6 +25803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
 | Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
+| Star Fox Conquest | 314563 | [314563-star-fox-conquest.json](./314563-star-fox-conquest.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
 | Star Fox Guard | 19687 | [19687-star-fox-guard.json](./19687-star-fox-guard.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
@@ -26508,6 +26513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Saga Edition: Lightsaber Battle Game | 255561 | [255561-star-wars-saga-edition-lightsaber-battle-game.json](./255561-star-wars-saga-edition-lightsaber-battle-game.json) |
 | Star Wars: Secrets of the Empire | 134955 | [134955-star-wars-secrets-of-the-empire.json](./134955-star-wars-secrets-of-the-empire.json) |
 | Star Wars: Starfighter | 149 | [149-star-wars-starfighter.json](./149-star-wars-starfighter.json) |
+| Star Wars: Starfighter | 314686 | [314686-star-wars-starfighter.json](./314686-star-wars-starfighter.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Super Bombad Racing | 18046 | [18046-star-wars-super-bombad-racing.json](./18046-star-wars-super-bombad-racing.json) |
 | Star Wars: Tales from the Galaxy’s Edge - Enhanced Edition | 217591 | [217591-star-wars-tales-from-the-galaxy-s-edge-enhanced-edition.json](./217591-star-wars-tales-from-the-galaxy-s-edge-enhanced-edition.json) |
@@ -34198,6 +34204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
 | Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
 | Super Mario Galaxy 2: Master Mode | 294575 | [294575-super-mario-galaxy-2-master-mode.json](./294575-super-mario-galaxy-2-master-mode.json) |
+| Super Mario Galaxy 2: More Missions | 314568 | [314568-super-mario-galaxy-2-more-missions.json](./314568-super-mario-galaxy-2-more-missions.json) |
 | Super Mario Galaxy 2: The New Green Stars | 370602 | [370602-super-mario-galaxy-2-the-new-green-stars.json](./370602-super-mario-galaxy-2-the-new-green-stars.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
@@ -34235,6 +34242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
 | Super Mario Kart 20XX: Enhanced Edition | 313417 | [313417-super-mario-kart-20xx-enhanced-edition.json](./313417-super-mario-kart-20xx-enhanced-edition.json) |
 | Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
+| Super Mario Kart Deluxe | 314559 | [314559-super-mario-kart-deluxe.json](./314559-super-mario-kart-deluxe.json) |
 | Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
 | Super Mario Kart Featuring Retro HD & CDX | 232758 | [232758-super-mario-kart-featuring-retro-hd-and-cdx.json](./232758-super-mario-kart-featuring-retro-hd-and-cdx.json) |
 | Super Mario Kart Horizons | 302715 | [302715-super-mario-kart-horizons.json](./302715-super-mario-kart-horizons.json) |
@@ -34287,6 +34295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
 | Super Mario Odyssey 64 | 357442 | [357442-super-mario-odyssey-64.json](./357442-super-mario-odyssey-64.json) |
 | Super Mario Odyssey Autumn Isles | 342088 | [342088-super-mario-odyssey-autumn-isles.json](./342088-super-mario-odyssey-autumn-isles.json) |
+| Super Mario Odyssey DS | 314552 | [314552-super-mario-odyssey-ds.json](./314552-super-mario-odyssey-ds.json) |
 | Super Mario Odyssey F.L.U.D.D. | 235169 | [235169-super-mario-odyssey-f-l-u-d-d.json](./235169-super-mario-odyssey-f-l-u-d-d.json) |
 | Super Mario Odyssey Online | 208811 | [208811-super-mario-odyssey-online.json](./208811-super-mario-odyssey-online.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
@@ -34296,6 +34305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Odyssey: Google Translated | 327482 | [327482-super-mario-odyssey-google-translated.json](./327482-super-mario-odyssey-google-translated.json) |
+| Super Mario Odyssey: Kaizo Mode | 315741 | [315741-super-mario-odyssey-kaizo-mode.json](./315741-super-mario-odyssey-kaizo-mode.json) |
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
 | Super Mario Odyssey: Wuhu Kingdom | 314569 | [314569-super-mario-odyssey-wuhu-kingdom.json](./314569-super-mario-odyssey-wuhu-kingdom.json) |
 | Super Mario Odyssey: Yoshi Star Kingdom | 246302 | [246302-super-mario-odyssey-yoshi-star-kingdom.json](./246302-super-mario-odyssey-yoshi-star-kingdom.json) |
