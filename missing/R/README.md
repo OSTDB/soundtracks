@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
 | Radioactive Inc. | 410009 | [410009-radioactive-inc.json](./410009-radioactive-inc.json) |
+| Radioactive Pineapple | 309706 | [309706-radioactive-pineapple.json](./309706-radioactive-pineapple.json) |
 | Radioactive Puzzle | 89320 | [89320-radioactive-puzzle.json](./89320-radioactive-puzzle.json) |
 | Radioactive Teddy Bear Zombies | 396746 | [396746-radioactive-teddy-bear-zombies.json](./396746-radioactive-teddy-bear-zombies.json) |
 | Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
