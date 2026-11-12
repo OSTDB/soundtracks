@@ -12661,7 +12661,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae: Dirt 2 - Access All Areas Pack | 237840 | [237840-colin-mcrae-dirt-2-access-all-areas-pack.json](./237840-colin-mcrae-dirt-2-access-all-areas-pack.json) |
 | Colin McRae: Dirt 2 - Trust Fund Pack | 237841 | [237841-colin-mcrae-dirt-2-trust-fund-pack.json](./237841-colin-mcrae-dirt-2-trust-fund-pack.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
-| Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
 | Coliseum | 321682 | [321682-coliseum.json](./321682-coliseum.json) |
 | Coliseum | 39101 | [39101-coliseum.json](./39101-coliseum.json) |
 | Coliseum | 418093 | [418093-coliseum.json](./418093-coliseum.json) |
