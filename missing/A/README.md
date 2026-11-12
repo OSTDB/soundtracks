@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
 | Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
 | Abathor | 237174 | [237174-abathor.json](./237174-abathor.json) |
+| Abathor: Atlantis Landing | 247789 | [247789-abathor-atlantis-landing.json](./247789-abathor-atlantis-landing.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
 | Abattoir: Cow Escape | 390354 | [390354-abattoir-cow-escape.json](./390354-abattoir-cow-escape.json) |
@@ -2762,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
 | AccrO | 148800 | [148800-accro.json](./148800-accro.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
+| Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
 | Accurate Coastlines | 182702 | [182702-accurate-coastlines.json](./182702-accurate-coastlines.json) |
 | Accurate Segmentation | 334796 | [334796-accurate-segmentation.json](./334796-accurate-segmentation.json) |
 | Accurate Segmentation 2 | 334829 | [334829-accurate-segmentation-2.json](./334829-accurate-segmentation-2.json) |
@@ -14411,6 +14413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
 | Archie's Riverdale Run | 64510 | [64510-archies-riverdale-run.json](./64510-archies-riverdale-run.json) |
+| ArchiHexago | 247806 | [247806-archihexago.json](./247806-archihexago.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
 | Archimedes | 31228 | [31228-archimedes.json](./31228-archimedes.json) |
 | Archimedes II: Some Like It Hot | 409601 | [409601-archimedes-ii-some-like-it-hot.json](./409601-archimedes-ii-some-like-it-hot.json) |
@@ -16113,6 +16116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Long As It's Not Illegal: Last Act | 264812 | [264812-as-long-as-its-not-illegal-last-act.json](./264812-as-long-as-its-not-illegal-last-act.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
+| As One We Survive | 247734 | [247734-as-one-we-survive.json](./247734-as-one-we-survive.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
 | As Planned | 261129 | [261129-as-planned.json](./261129-as-planned.json) |
 | AS Rabbie Aizouban | 408265 | [408265-as-rabbie-aizouban.json](./408265-as-rabbie-aizouban.json) |
@@ -17575,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro-Blast | 109192 | [109192-astro-blast.json](./109192-astro-blast.json) |
 | Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
+| Astro-Not | 247722 | [247722-astro-not.json](./247722-astro-not.json) |
 | Astro-Quotes | 375901 | [375901-astro-quotes.json](./375901-astro-quotes.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astro4x | 118009 | [118009-astro4x.json](./118009-astro4x.json) |
@@ -19012,6 +19017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Austrian Truck Simulator | 61524 | [61524-austrian-truck-simulator.json](./61524-austrian-truck-simulator.json) |
+| Autarkis | 247788 | [247788-autarkis.json](./247788-autarkis.json) |
 | Author Clicker | 115889 | [115889-author-clicker.json](./115889-author-clicker.json) |
 | Author Sim | 392011 | [392011-author-sim.json](./392011-author-sim.json) |
 | Auti-Sim | 306806 | [306806-auti-sim.json](./306806-auti-sim.json) |
@@ -19987,6 +19993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayami's Little Game | 397621 | [397621-ayamis-little-game.json](./397621-ayamis-little-game.json) |
 | Ayano's Lovesick Labyrinth | 270509 | [270509-ayanos-lovesick-labyrinth.json](./270509-ayanos-lovesick-labyrinth.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
+| Ayase, the Sexy Archer | 247712 | [247712-ayase-the-sexy-archer.json](./247712-ayase-the-sexy-archer.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aydox | 90819 | [90819-aydox.json](./90819-aydox.json) |
