@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Solitaire Fantasy: Collector's Edition | 348894 | [348894-jewel-match-solitaire-fantasy-collectors-edition.json](./348894-jewel-match-solitaire-fantasy-collectors-edition.json) |
 | Jewel Match Solitaire L'Amour | 114517 | [114517-jewel-match-solitaire-lamour.json](./114517-jewel-match-solitaire-lamour.json) |
 | Jewel Match Solitaire Winterscapes | 113334 | [113334-jewel-match-solitaire-winterscapes.json](./113334-jewel-match-solitaire-winterscapes.json) |
+| Jewel Match Solitaire Winterscapes 2: Collector's Edition | 275860 | [275860-jewel-match-solitaire-winterscapes-2-collectors-edition.json](./275860-jewel-match-solitaire-winterscapes-2-collectors-edition.json) |
 | Jewel Match Solitaire Winterscapes 3: Collector's Edition | 362851 | [362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json](./362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json) |
 | Jewel Match Solitaire X | 397877 | [397877-jewel-match-solitaire-x.json](./397877-jewel-match-solitaire-x.json) |
 | Jewel Match Solitaire X: Collector's Edition | 201697 | [201697-jewel-match-solitaire-x-collectors-edition.json](./201697-jewel-match-solitaire-x-collectors-edition.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey: The Quest Begins | 12163 | [12163-journey-the-quest-begins.json](./12163-journey-the-quest-begins.json) |
 | Journey's End | 142898 | [142898-journeys-end.json](./142898-journeys-end.json) |
 | Journey's End | 32391 | [32391-journeys-end.json](./32391-journeys-end.json) |
+| Journey's Land | 275859 | [275859-journeys-land.json](./275859-journeys-land.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Journeyman | 236373 | [236373-journeyman.json](./236373-journeyman.json) |
 | Journeys: Romance Stories | 234996 | [234996-journeys-romance-stories.json](./234996-journeys-romance-stories.json) |
