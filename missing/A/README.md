@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accident Investigator Simulator: Black Box | 412789 | [412789-accident-investigator-simulator-black-box.json](./412789-accident-investigator-simulator-black-box.json) |
 | Accident Liquidator | 312668 | [312668-accident-liquidator.json](./312668-accident-liquidator.json) |
 | Accident on the Simple Rd | 150460 | [150460-accident-on-the-simple-rd.json](./150460-accident-on-the-simple-rd.json) |
+| Accidental Alchemist | 283348 | [283348-accidental-alchemist.json](./283348-accidental-alchemist.json) |
 | Accidental Character Generator | 135785 | [135785-accidental-character-generator.json](./135785-accidental-character-generator.json) |
 | Accidental Queens Collection | 141350 | [141350-accidental-queens-collection.json](./141350-accidental-queens-collection.json) |
 | Accidental Runner | 35449 | [35449-accidental-runner.json](./35449-accidental-runner.json) |
@@ -3514,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adidas Power Soccer International '97 | 43743 | [43743-adidas-power-soccer-international-97.json](./43743-adidas-power-soccer-international-97.json) |
+| Adieu Those In Love | 283340 | [283340-adieu-those-in-love.json](./283340-adieu-those-in-love.json) |
 | Adios | 138270 | [138270-adios.json](./138270-adios.json) |
 | Adios Amigos | 107241 | [107241-adios-amigos.json](./107241-adios-amigos.json) |
 | Adios Amigos: Galactic Explorers | 197685 | [197685-adios-amigos-galactic-explorers.json](./197685-adios-amigos-galactic-explorers.json) |
@@ -5317,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent 07: Spy Revenge | 344298 | [344298-agent-07-spy-revenge.json](./344298-agent-07-spy-revenge.json) |
 | Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
 | Agent 64: Spies Never Die | 148270 | [148270-agent-64-spies-never-die.json](./148270-agent-64-spies-never-die.json) |
+| Agent 9 | 282865 | [282865-agent-9.json](./282865-agent-9.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
@@ -16806,6 +16809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembloids | 41018 | [41018-assembloids.json](./41018-assembloids.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly | 192749 | [192749-assembly.json](./192749-assembly.json) |
+| Assembly | 282857 | [282857-assembly.json](./282857-assembly.json) |
 | Assembly League | 86624 | [86624-assembly-league.json](./86624-assembly-league.json) |
 | Assembly Line | 261450 | [261450-assembly-line.json](./261450-assembly-line.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
