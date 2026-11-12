@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxia 7 | 60228 | [60228-galaxia-7.json](./60228-galaxia-7.json) |
 | Galaxia Conquestum | 55241 | [55241-galaxia-conquestum.json](./55241-galaxia-conquestum.json) |
 | Galaxia Reloaded | 175175 | [175175-galaxia-reloaded.json](./175175-galaxia-reloaded.json) |
+| GalaxiA: Pilot Episode | 270340 | [270340-galaxia-pilot-episode.json](./270340-galaxia-pilot-episode.json) |
 | Galaxian | 143370 | [143370-galaxian.json](./143370-galaxian.json) |
 | Galaxian | 218227 | [218227-galaxian.json](./218227-galaxian.json) |
 | Galaxian | 218232 | [218232-galaxian.json](./218232-galaxian.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
 | Game e-Ninja Neptunia | 116803 | [116803-game-e-ninja-neptunia.json](./116803-game-e-ninja-neptunia.json) |
 | Game Empire Tycoon: Dealer Simulator | 315932 | [315932-game-empire-tycoon-dealer-simulator.json](./315932-game-empire-tycoon-dealer-simulator.json) |
+| Game Factory | 270249 | [270249-game-factory.json](./270249-game-factory.json) |
 | Game for Aliens | 332941 | [332941-game-for-aliens.json](./332941-game-for-aliens.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
@@ -5889,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
 | Go For a Walk | 128165 | [128165-go-for-a-walk.json](./128165-go-for-a-walk.json) |
 | Go For Launch: Mercury | 32765 | [32765-go-for-launch-mercury.json](./32765-go-for-launch-mercury.json) |
+| Go for the Gold | 270252 | [270252-go-for-the-gold.json](./270252-go-for-the-gold.json) |
 | Go Forward Survivors | 373775 | [373775-go-forward-survivors.json](./373775-go-forward-survivors.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
