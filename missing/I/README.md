@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age: Continental Drift | 282576 | [282576-ice-age-continental-drift.json](./282576-ice-age-continental-drift.json) |
 | Ice Age: Continental Drift - Arctic Games | 20002 | [20002-ice-age-continental-drift-arctic-games.json](./20002-ice-age-continental-drift-arctic-games.json) |
 | Ice Age: Continental Drift - Arctic Games | 309577 | [309577-ice-age-continental-drift-arctic-games.json](./309577-ice-age-continental-drift-arctic-games.json) |
+| Ice Age: Dawn Of The Dinosaurs | 307483 | [307483-ice-age-dawn-of-the-dinosaurs.json](./307483-ice-age-dawn-of-the-dinosaurs.json) |
 | Ice Age: Scrat's Nutty Adventure | 119930 | [119930-ice-age-scrats-nutty-adventure.json](./119930-ice-age-scrats-nutty-adventure.json) |
 | Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
 | Ice Agent | 110771 | [110771-ice-agent.json](./110771-ice-agent.json) |
@@ -3881,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectonator 2 | 95939 | [95939-infectonator-2.json](./95939-infectonator-2.json) |
 | Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
 | Infectonator World Dominator | 129950 | [129950-infectonator-world-dominator.json](./129950-infectonator-world-dominator.json) |
+| Infectonator: Christmas | 307467 | [307467-infectonator-christmas.json](./307467-infectonator-christmas.json) |
 | Infectonator: Hot Chase | 234396 | [234396-infectonator-hot-chase.json](./234396-infectonator-hot-chase.json) |
 | Infectonator: Survivors | 16914 | [16914-infectonator-survivors.json](./16914-infectonator-survivors.json) |
 | Infectonator! | 234395 | [234395-infectonator.json](./234395-infectonator.json) |
@@ -4589,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inked | 96278 | [96278-inked.json](./96278-inked.json) |
 | InKeepers | 347437 | [347437-inkeepers.json](./347437-inkeepers.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
+| Inkesis | 307432 | [307432-inkesis.json](./307432-inkesis.json) |
 | Inkey University | 140182 | [140182-inkey-university.json](./140182-inkey-university.json) |
 | Inkfish | 190874 | [190874-inkfish.json](./190874-inkfish.json) |
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
