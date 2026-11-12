@@ -10626,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
 | Angmngthoo | 275188 | [275188-angmngthoo.json](./275188-angmngthoo.json) |
+| Angola '86 | 251882 | [251882-angola-86.json](./251882-angola-86.json) |
 | Angon: The Grim Age | 206429 | [206429-angon-the-grim-age.json](./206429-angon-the-grim-age.json) |
 | angoo Inc. | 71164 | [71164-angoo-inc.json](./71164-angoo-inc.json) |
 | Angor | 336846 | [336846-angor.json](./336846-angor.json) |
@@ -12692,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse | 340731 | [340731-apocalypse.json](./340731-apocalypse.json) |
 | Apocalypse Age: Destruction | 132684 | [132684-apocalypse-age-destruction.json](./132684-apocalypse-age-destruction.json) |
 | Apocalypse Approaches | 335379 | [335379-apocalypse-approaches.json](./335379-apocalypse-approaches.json) |
+| Apocalypse Blitz | 251871 | [251871-apocalypse-blitz.json](./251871-apocalypse-blitz.json) |
 | Apocalypse Carnival | 337957 | [337957-apocalypse-carnival.json](./337957-apocalypse-carnival.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Cow | 51677 | [51677-apocalypse-cow.json](./51677-apocalypse-cow.json) |
@@ -12721,6 +12723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Party | 277650 | [277650-apocalypse-party.json](./277650-apocalypse-party.json) |
 | Apocalypse PD! | 355961 | [355961-apocalypse-pd.json](./355961-apocalypse-pd.json) |
 | Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
+| Apocalypse Run! | 251794 | [251794-apocalypse-run.json](./251794-apocalypse-run.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
 | Apocalypse Rush | 83849 | [83849-apocalypse-rush.json](./83849-apocalypse-rush.json) |
@@ -16138,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend | 119486 | [119486-ascend.json](./119486-ascend.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
 | Ascend | 182628 | [182628-ascend.json](./182628-ascend.json) |
+| Ascend | 251866 | [251866-ascend.json](./251866-ascend.json) |
 | Ascend | 341279 | [341279-ascend.json](./341279-ascend.json) |
 | Ascend | 425840 | [425840-ascend.json](./425840-ascend.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
@@ -17704,6 +17708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
 | AstroSlugs | 8393 | [8393-astroslugs.json](./8393-astroslugs.json) |
+| Astrosmash | 251858 | [251858-astrosmash.json](./251858-astrosmash.json) |
 | Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
 | Astrosmash | 5657 | [5657-astrosmash.json](./5657-astrosmash.json) |
 | Astrosphere | 279281 | [279281-astrosphere.json](./279281-astrosphere.json) |
