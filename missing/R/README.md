@@ -4002,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
+| Red 777 | 271355 | [271355-red-777.json](./271355-red-777.json) |
 | Red Ace Squadron Pro | 63182 | [63182-red-ace-squadron-pro.json](./63182-red-ace-squadron-pro.json) |
 | Red Adventure | 149729 | [149729-red-adventure.json](./149729-red-adventure.json) |
 | Red Aleph | 185395 | [185395-red-aleph.json](./185395-red-aleph.json) |
@@ -6522,6 +6523,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
+| Retro Jam 2 | 271449 | [271449-retro-jam-2.json](./271449-retro-jam-2.json) |
+| Retro Jam 3 | 271450 | [271450-retro-jam-3.json](./271450-retro-jam-3.json) |
+| Retro Jam 3 DLC | 271451 | [271451-retro-jam-3-dlc.json](./271451-retro-jam-3-dlc.json) |
 | Retro Jam 4 | 322278 | [322278-retro-jam-4.json](./322278-retro-jam-4.json) |
 | Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
 | Retro Kart Rush | 192544 | [192544-retro-kart-rush.json](./192544-retro-kart-rush.json) |
@@ -13545,6 +13549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Defenders: Trials of Ascension | 246800 | [246800-runic-defenders-trials-of-ascension.json](./246800-runic-defenders-trials-of-ascension.json) |
 | Runic Prophecy | 359170 | [359170-runic-prophecy.json](./359170-runic-prophecy.json) |
 | Runic Rampage | 28997 | [28997-runic-rampage.json](./28997-runic-rampage.json) |
+| Runic Recycling | 271368 | [271368-runic-recycling.json](./271368-runic-recycling.json) |
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
