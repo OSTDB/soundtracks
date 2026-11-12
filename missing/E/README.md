@@ -5693,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
 | Escape From Prompt: Rogue Ai | 425419 | [425419-escape-from-prompt-rogue-ai.json](./425419-escape-from-prompt-rogue-ai.json) |
 | Escape from Pulsar 7 | 24691 | [24691-escape-from-pulsar-7.json](./24691-escape-from-pulsar-7.json) |
+| Escape from Puppy Death Factory | 250590 | [250590-escape-from-puppy-death-factory.json](./250590-escape-from-puppy-death-factory.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape from pyramid | 95272 | [95272-escape-from-pyramid.json](./95272-escape-from-pyramid.json) |
 | Escape from Ragor: Megrim's Rache | 129405 | [129405-escape-from-ragor-megrims-rache.json](./129405-escape-from-ragor-megrims-rache.json) |
@@ -8211,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exerion | 346070 | [346070-exerion.json](./346070-exerion.json) |
 | Exerion | 6104 | [6104-exerion.json](./6104-exerion.json) |
 | Exerion DX | 361329 | [361329-exerion-dx.json](./361329-exerion-dx.json) |
+| Exerion II: Zorni | 250671 | [250671-exerion-ii-zorni.json](./250671-exerion-ii-zorni.json) |
 | Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
 | Exertainment Mountain Bike Rally / Speed Racer | 60204 | [60204-exertainment-mountain-bike-rally-speed-racer.json](./60204-exertainment-mountain-bike-rally-speed-racer.json) |
 | Exertus | 120109 | [120109-exertus.json](./120109-exertus.json) |
@@ -9228,6 +9230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
 | Ezerath Mini | 286558 | [286558-ezerath-mini.json](./286558-ezerath-mini.json) |
 | Ezerath Plus | 271100 | [271100-ezerath-plus.json](./271100-ezerath-plus.json) |
+| Ezerath's Last Hope | 250690 | [250690-ezeraths-last-hope.json](./250690-ezeraths-last-hope.json) |
 | Ezmeralda | 384265 | [384265-ezmeralda.json](./384265-ezmeralda.json) |
 | Ezmuze 3 | 130073 | [130073-ezmuze-3.json](./130073-ezmuze-3.json) |
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
