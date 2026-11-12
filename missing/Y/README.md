@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarbay | 121963 | [121963-yarbay.json](./121963-yarbay.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
+| Yard Sale | 282201 | [282201-yard-sale.json](./282201-yard-sale.json) |
 | Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
 | Yard Sale Junkie | 381415 | [381415-yard-sale-junkie.json](./381415-yard-sale-junkie.json) |
 | Yard Tale | 101443 | [101443-yard-tale.json](./101443-yard-tale.json) |
@@ -344,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
 | Yargis: Space Melee | 35300 | [35300-yargis-space-melee.json](./35300-yargis-space-melee.json) |
 | Yarichin Katei Kyoushi Netori Houkoku: Do-sukebe Kyonyuu Oyakodon | 108937 | [108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json](./108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json) |
+| Yarimono | 282203 | [282203-yarimono.json](./282203-yarimono.json) |
 | Yarimono: DLC 1 | 315190 | [315190-yarimono-dlc-1.json](./315190-yarimono-dlc-1.json) |
 | Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
 | Yarışçı Arazi | 326655 | [326655-yar-sc-arazi.json](./326655-yar-sc-arazi.json) |
@@ -861,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Art: Survival | 254036 | [254036-yokai-art-survival.json](./254036-yokai-art-survival.json) |
 | Yokai Buster: Ruka no Daibouken | 38190 | [38190-yokai-buster-ruka-no-daibouken.json](./38190-yokai-buster-ruka-no-daibouken.json) |
 | Yokai Busters | 320225 | [320225-yokai-busters.json](./320225-yokai-busters.json) |
+| Yokai City | 282188 | [282188-yokai-city.json](./282188-yokai-city.json) |
 | Yokai Crossing | 417947 | [417947-yokai-crossing.json](./417947-yokai-crossing.json) |
 | Yokai Dungeon | 120563 | [120563-yokai-dungeon.json](./120563-yokai-dungeon.json) |
 | Yokai Goddess | 374851 | [374851-yokai-goddess.json](./374851-yokai-goddess.json) |
@@ -1185,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You can not be there | 229013 | [229013-you-can-not-be-there.json](./229013-you-can-not-be-there.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
 | You Can Pet the Dog VR | 158704 | [158704-you-can-pet-the-dog-vr.json](./158704-you-can-pet-the-dog-vr.json) |
+| You Can Save Everyone | 282189 | [282189-you-can-save-everyone.json](./282189-you-can-save-everyone.json) |
 | You Can Sort It! | 419321 | [419321-you-can-sort-it.json](./419321-you-can-sort-it.json) |
 | You Can Talk to People | 184072 | [184072-you-can-talk-to-people.json](./184072-you-can-talk-to-people.json) |
 | You can't do it alone | 177299 | [177299-you-cant-do-it-alone.json](./177299-you-cant-do-it-alone.json) |
@@ -2181,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuoni: Rises | 117334 | [117334-yuoni-rises.json](./117334-yuoni-rises.json) |
 | Yuoni: Sunset Edition | 171858 | [171858-yuoni-sunset-edition.json](./171858-yuoni-sunset-edition.json) |
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
+| Yupi Road 2 World | 282191 | [282191-yupi-road-2-world.json](./282191-yupi-road-2-world.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
 | Yupitergrad: Sneaki Peaki | 166892 | [166892-yupitergrad-sneaki-peaki.json](./166892-yupitergrad-sneaki-peaki.json) |
