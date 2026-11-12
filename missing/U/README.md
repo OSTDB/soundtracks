@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umurangi Generation: Special Edition | 151766 | [151766-umurangi-generation-special-edition.json](./151766-umurangi-generation-special-edition.json) |
 | Un indien dans la ville | 117973 | [117973-un-indien-dans-la-ville.json](./117973-un-indien-dans-la-ville.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
+| Un Lugar Otro Que El Cielo | 271430 | [271430-un-lugar-otro-que-el-cielo.json](./271430-un-lugar-otro-que-el-cielo.json) |
 | Un Pas Fragile | 120003 | [120003-un-pas-fragile.json](./120003-un-pas-fragile.json) |
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
 | Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
