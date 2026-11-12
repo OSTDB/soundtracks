@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
 | Kainga | 132462 | [132462-kainga.json](./132462-kainga.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
+| Kainga: Thinker Outfits Supporter Pack | 280402 | [280402-kainga-thinker-outfits-supporter-pack.json](./280402-kainga-thinker-outfits-supporter-pack.json) |
 | Kaio: King of Pirates | 65616 | [65616-kaio-king-of-pirates.json](./65616-kaio-king-of-pirates.json) |
 | Kaion Tale | 133046 | [133046-kaion-tale.json](./133046-kaion-tale.json) |
 | Kairai Inn | 264159 | [264159-kairai-inn.json](./264159-kairai-inn.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiomet | 358225 | [358225-kiomet.json](./358225-kiomet.json) |
 | Kiopioke! | 286369 | [286369-kiopioke.json](./286369-kiopioke.json) |
 | Kiosk 199X | 390332 | [390332-kiosk-199x.json](./390332-kiosk-199x.json) |
+| Kiosk Simulator | 280398 | [280398-kiosk-simulator.json](./280398-kiosk-simulator.json) |
 | Kiospoly | 188785 | [188785-kiospoly.json](./188785-kiospoly.json) |
 | Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
 | Kip 2: Beyond Boundaries | 360693 | [360693-kip-2-beyond-boundaries.json](./360693-kip-2-beyond-boundaries.json) |
@@ -5612,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Kids Playground: Frogger Hop, Skip & Jumpin' Fun | 67754 | [67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json](./67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json) |
 | Konami Kids Playground: Toy Pals Fun with Numbers | 67753 | [67753-konami-kids-playground-toy-pals-fun-with-numbers.json](./67753-konami-kids-playground-toy-pals-fun-with-numbers.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
+| Konami Racing | 280478 | [280478-konami-racing.json](./280478-konami-racing.json) |
 | Konami Wai-wai World | 67013 | [67013-konami-wai-wai-world.json](./67013-konami-wai-wai-world.json) |
 | Konami's Baseball | 41688 | [41688-konamis-baseball.json](./41688-konamis-baseball.json) |
 | Konami's Billiards | 41740 | [41740-konamis-billiards.json](./41740-konamis-billiards.json) |
