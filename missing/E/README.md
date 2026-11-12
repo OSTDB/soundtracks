@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
 | Elevator | 185850 | [185850-elevator.json](./185850-elevator.json) |
 | Elevator | 246848 | [246848-elevator.json](./246848-elevator.json) |
+| Elevator | 306173 | [306173-elevator.json](./306173-elevator.json) |
 | Elevator | 381324 | [381324-elevator.json](./381324-elevator.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
