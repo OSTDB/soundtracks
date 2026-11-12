@@ -2782,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
 | Data Wing | 82502 | [82502-data-wing.json](./82502-data-wing.json) |
 | Data Worm | 281024 | [281024-data-worm.json](./281024-data-worm.json) |
+| Data Zapper: Model M7000 | 245525 | [245525-data-zapper-model-m7000.json](./245525-data-zapper-model-m7000.json) |
 | Data-Fly | 91013 | [91013-data-fly.json](./91013-data-fly.json) |
 | Data-Fly | 91848 | [91848-data-fly.json](./91848-data-fly.json) |
 | Data: Corruption | 375445 | [375445-data-corruption.json](./375445-data-corruption.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datahit | 185560 | [185560-datahit.json](./185560-datahit.json) |
 | DataJack | 64783 | [64783-datajack.json](./64783-datajack.json) |
 | DataJack 2020 | 244318 | [244318-datajack-2020.json](./244318-datajack-2020.json) |
+| Dataman | 245524 | [245524-dataman.json](./245524-dataman.json) |
 | Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Dataminers | 263708 | [263708-dataminers.json](./263708-dataminers.json) |
@@ -5705,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dive | 255609 | [255609-deep-dive.json](./255609-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Dive Duet | 279483 | [279483-deep-dive-duet.json](./279483-deep-dive-duet.json) |
+| Deep Diver | 245523 | [245523-deep-diver.json](./245523-deep-diver.json) |
 | Deep Diver | 396304 | [396304-deep-diver.json](./396304-deep-diver.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
 | Deep Diving Simulator | 113427 | [113427-deep-diving-simulator.json](./113427-deep-diving-simulator.json) |
@@ -6425,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deimos' Endless Pursuit of Becoming Deimos: Part One | 307258 | [307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json](./307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json) |
 | Dein Sportpferd | 250693 | [250693-dein-sportpferd.json](./250693-dein-sportpferd.json) |
 | Deion Sanders Baseball | 198722 | [198722-deion-sanders-baseball.json](./198722-deion-sanders-baseball.json) |
+| Deion Sanders Football | 245522 | [245522-deion-sanders-football.json](./245522-deion-sanders-football.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
@@ -7545,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depthscraper | 183890 | [183890-depthscraper.json](./183890-depthscraper.json) |
 | Deputinization | 219240 | [219240-deputinization.json](./219240-deputinization.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
+| Deputy Dan | 245520 | [245520-deputy-dan.json](./245520-deputy-dan.json) |
 | Deputy Dangle | 35615 | [35615-deputy-dangle.json](./35615-deputy-dangle.json) |
 | Deputy Den | 346751 | [346751-deputy-den.json](./346751-deputy-den.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
@@ -9210,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Hollow | 286649 | [286649-diamond-hollow.json](./286649-diamond-hollow.json) |
 | Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
 | Diamond Hunt | 108926 | [108926-diamond-hunt.json](./108926-diamond-hunt.json) |
+| Diamond Hunt | 245519 | [245519-diamond-hunt.json](./245519-diamond-hunt.json) |
 | Diamond Hunt | 371575 | [371575-diamond-hunt.json](./371575-diamond-hunt.json) |
 | Diamond Hunter | 155269 | [155269-diamond-hunter.json](./155269-diamond-hunter.json) |
 | Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
@@ -10007,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digit Factory | 221128 | [221128-digit-factory.json](./221128-digit-factory.json) |
 | Digit God | 243309 | [243309-digit-god.json](./243309-digit-god.json) |
 | Digit Monster II | 247303 | [247303-digit-monster-ii.json](./247303-digit-monster-ii.json) |
+| Digit-Com 9: Electronic Baseball | 245516 | [245516-digit-com-9-electronic-baseball.json](./245516-digit-com-9-electronic-baseball.json) |
 | Digital Ange: Dennou Tenshi SS | 258872 | [258872-digital-ange-dennou-tenshi-ss.json](./258872-digital-ange-dennou-tenshi-ss.json) |
 | Digital Anima: Virtual Lifeform Care Kit | 407045 | [407045-digital-anima-virtual-lifeform-care-kit.json](./407045-digital-anima-virtual-lifeform-care-kit.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
@@ -10109,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitanks | 53971 | [53971-digitanks.json](./53971-digitanks.json) |
 | DigitDash3 | 412705 | [412705-digitdash3.json](./412705-digitdash3.json) |
 | Digitris | 267866 | [267866-digitris.json](./267866-digitris.json) |
+| Digits | 245515 | [245515-digits.json](./245515-digits.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits | 389359 | [389359-digits.json](./389359-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
@@ -11332,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Epic Quest | 123397 | [123397-disney-epic-quest.json](./123397-disney-epic-quest.json) |
 | Disney Face Chase | 243813 | [243813-disney-face-chase.json](./243813-disney-face-chase.json) |
 | Disney Fairies | 131394 | [131394-disney-fairies.json](./131394-disney-fairies.json) |
+| Disney Fairies | 245514 | [245514-disney-fairies.json](./245514-disney-fairies.json) |
 | Disney Fairies: Hidden Treasures | 63748 | [63748-disney-fairies-hidden-treasures.json](./63748-disney-fairies-hidden-treasures.json) |
 | Disney Fairies: Tinker Bell | 78718 | [78718-disney-fairies-tinker-bell.json](./78718-disney-fairies-tinker-bell.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
@@ -11352,6 +11361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
 | Disney Hidden Worlds | 98278 | [98278-disney-hidden-worlds.json](./98278-disney-hidden-worlds.json) |
+| Disney High School Musical | 245513 | [245513-disney-high-school-musical.json](./245513-disney-high-school-musical.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots Arcade Frenzy: Mushoot / Rooftop Ruckus | 138359 | [138359-disney-hotshots-arcade-frenzy-mushoot-rooftop-ruckus.json](./138359-disney-hotshots-arcade-frenzy-mushoot-rooftop-ruckus.json) |
@@ -11386,17 +11396,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
 | Disney Music Parade | 142916 | [142916-disney-music-parade.json](./142916-disney-music-parade.json) |
 | Disney Music Parade Encore | 314949 | [314949-disney-music-parade-encore.json](./314949-disney-music-parade-encore.json) |
+| Disney My Friends Tigger & Pooh | 245512 | [245512-disney-my-friends-tigger-and-pooh.json](./245512-disney-my-friends-tigger-and-pooh.json) |
 | Disney Piglet's Special Day | 220130 | [220130-disney-piglets-special-day.json](./220130-disney-piglets-special-day.json) |
+| Disney Pirates of the Caribbean: At World's End | 245511 | [245511-disney-pirates-of-the-caribbean-at-worlds-end.json](./245511-disney-pirates-of-the-caribbean-at-worlds-end.json) |
+| Disney Pirates of the Caribbean: Dead Man's Chest | 245510 | [245510-disney-pirates-of-the-caribbean-dead-mans-chest.json](./245510-disney-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Disney Pixel RPG | 313027 | [313027-disney-pixel-rpg.json](./313027-disney-pixel-rpg.json) |
 | Disney Pop Town | 386962 | [386962-disney-pop-town.json](./386962-disney-pop-town.json) |
 | Disney Princess | 220084 | [220084-disney-princess.json](./220084-disney-princess.json) |
 | Disney Princess | 230337 | [230337-disney-princess.json](./230337-disney-princess.json) |
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
+| Disney Princess | 245508 | [245508-disney-princess.json](./245508-disney-princess.json) |
+| Disney Princess | 245509 | [245509-disney-princess.json](./245509-disney-princess.json) |
 | Disney Princess | 79718 | [79718-disney-princess.json](./79718-disney-princess.json) |
 | Disney Princess Cyber Arcade Pocket | 246557 | [246557-disney-princess-cyber-arcade-pocket.json](./246557-disney-princess-cyber-arcade-pocket.json) |
 | Disney Princess Fashion Boutique | 209891 | [209891-disney-princess-fashion-boutique.json](./209891-disney-princess-fashion-boutique.json) |
 | Disney Princess Jewelry Box Collection | 350331 | [350331-disney-princess-jewelry-box-collection.json](./350331-disney-princess-jewelry-box-collection.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
+| Disney Princess: Belle's Magic Mirror | 245507 | [245507-disney-princess-belles-magic-mirror.json](./245507-disney-princess-belles-magic-mirror.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
 | Disney Princess: Cinderella's Magic Wishes | 79552 | [79552-disney-princess-cinderellas-magic-wishes.json](./79552-disney-princess-cinderellas-magic-wishes.json) |
 | Disney Princess: Enchanted Journey | 17829 | [17829-disney-princess-enchanted-journey.json](./17829-disney-princess-enchanted-journey.json) |
@@ -11652,6 +11668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
 | Disney's You Can Fly! with Tinker Bell | 209033 | [209033-disneys-you-can-fly-with-tinker-bell.json](./209033-disneys-you-can-fly-with-tinker-bell.json) |
 | Disney/Pixar Learning: 2nd & 3rd Grade | 202076 | [202076-disney-pixar-learning-2nd-and-3rd-grade.json](./202076-disney-pixar-learning-2nd-and-3rd-grade.json) |
+| Disney/Pixar Toy Story and Beyond! | 245504 | [245504-disney-pixar-toy-story-and-beyond.json](./245504-disney-pixar-toy-story-and-beyond.json) |
 | Disneyland Adventures | 108251 | [108251-disneyland-adventures.json](./108251-disneyland-adventures.json) |
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disobey - Revolt Simulator | 33031 | [33031-disobey-revolt-simulator.json](./33031-disobey-revolt-simulator.json) |
