@@ -6102,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
 | Chain Reaction | 13475 | [13475-chain-reaction.json](./13475-chain-reaction.json) |
 | Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
+| Chain Reaction | 268179 | [268179-chain-reaction.json](./268179-chain-reaction.json) |
 | Chain Reaction | 377351 | [377351-chain-reaction.json](./377351-chain-reaction.json) |
 | Chain Reaction | 418192 | [418192-chain-reaction.json](./418192-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
@@ -14034,6 +14035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals - Deluxe Edition | 87190 | [87190-command-and-conquer-generals-deluxe-edition.json](./87190-command-and-conquer-generals-deluxe-edition.json) |
 | Command & Conquer: Generals - Zero Hour | 650 | [650-command-and-conquer-generals-zero-hour.json](./650-command-and-conquer-generals-zero-hour.json) |
+| Command & Conquer: Generals Evolution | 268711 | [268711-command-and-conquer-generals-evolution.json](./268711-command-and-conquer-generals-evolution.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
 | Command & Conquer: Red Alert - Counterstrike | 676 | [676-command-and-conquer-red-alert-counterstrike.json](./676-command-and-conquer-red-alert-counterstrike.json) |
