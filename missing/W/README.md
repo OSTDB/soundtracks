@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Ancient Tank Bundle | 303028 | [303028-war-thunder-ancient-tank-bundle.json](./303028-war-thunder-ancient-tank-bundle.json) |
 | War Thunder: AV-8B Night Attack Bundle | 331501 | [331501-war-thunder-av-8b-night-attack-bundle.json](./331501-war-thunder-av-8b-night-attack-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
+| War Thunder: Dora Pack | 293784 | [293784-war-thunder-dora-pack.json](./293784-war-thunder-dora-pack.json) |
 | War Thunder: Ezer Weizman's Spitfire Pack | 332075 | [332075-war-thunder-ezer-weizmans-spitfire-pack.json](./332075-war-thunder-ezer-weizmans-spitfire-pack.json) |
 | War Thunder: F-20A Tigershark Pack | 332076 | [332076-war-thunder-f-20a-tigershark-pack.json](./332076-war-thunder-f-20a-tigershark-pack.json) |
 | War Thunder: Ground Forces | 115024 | [115024-war-thunder-ground-forces.json](./115024-war-thunder-ground-forces.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: T29 Pack | 293762 | [293762-war-thunder-t29-pack.json](./293762-war-thunder-t29-pack.json) |
 | War Thunder: Tornado IDS WTD 61 Pack | 285820 | [285820-war-thunder-tornado-ids-wtd-61-pack.json](./285820-war-thunder-tornado-ids-wtd-61-pack.json) |
 | War Thunder: Two Fronts Bundle | 331505 | [331505-war-thunder-two-fronts-bundle.json](./331505-war-thunder-two-fronts-bundle.json) |
+| War Thunder: Type 16 (FPS) Pack | 293783 | [293783-war-thunder-type-16-fps-pack.json](./293783-war-thunder-type-16-fps-pack.json) |
 | War Thunder: Type 90B "Fuji" Pack | 332080 | [332080-war-thunder-type-90b-fuji-pack.json](./332080-war-thunder-type-90b-fuji-pack.json) |
 | War Thunder: Type 96A Prototype Pack | 332055 | [332055-war-thunder-type-96a-prototype-pack.json](./332055-war-thunder-type-96a-prototype-pack.json) |
 | War Thunder: USS Arkansas Pack | 284692 | [284692-war-thunder-uss-arkansas-pack.json](./284692-war-thunder-uss-arkansas-pack.json) |
@@ -3181,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
 | Weakest Link | 19745 | [19745-weakest-link.json](./19745-weakest-link.json) |
+| Weakfish Indie Xbox Bundle | 293785 | [293785-weakfish-indie-xbox-bundle.json](./293785-weakfish-indie-xbox-bundle.json) |
 | Weakfish Puzzle Bundle | 331510 | [331510-weakfish-puzzle-bundle.json](./331510-weakfish-puzzle-bundle.json) |
 | Weakless | 119658 | [119658-weakless.json](./119658-weakless.json) |
 | Weakness Hero Torauman DC | 77564 | [77564-weakness-hero-torauman-dc.json](./77564-weakness-hero-torauman-dc.json) |
@@ -7213,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Wars | 93205 | [93205-wizard-wars.json](./93205-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
 | Wizard Willy | 71038 | [71038-wizard-willy.json](./71038-wizard-willy.json) |
+| Wizard with a Gun: Bounty Edition | 293787 | [293787-wizard-with-a-gun-bounty-edition.json](./293787-wizard-with-a-gun-bounty-edition.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard with a Gun: Deluxe Edition | 270585 | [270585-wizard-with-a-gun-deluxe-edition.json](./270585-wizard-with-a-gun-deluxe-edition.json) |
 | Wizard with a Gun: Gunmancer Pack | 272325 | [272325-wizard-with-a-gun-gunmancer-pack.json](./272325-wizard-with-a-gun-gunmancer-pack.json) |
