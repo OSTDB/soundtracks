@@ -12354,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao-Don DS: Hanabi no Goku & Hanabi no Takumi | 269649 | [269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json](./269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json) |
 | AO3dle | 369853 | [369853-ao3dle.json](./369853-ao3dle.json) |
 | AO3dle | 372439 | [372439-ao3dle.json](./372439-ao3dle.json) |
+| AOA Academy | 271877 | [271877-aoa-academy.json](./271877-aoa-academy.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
 | AoF World Online | 36041 | [36041-aof-world-online.json](./36041-aof-world-online.json) |
@@ -12707,6 +12708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocryph | 54814 | [54814-apocryph.json](./54814-apocryph.json) |
 | Apocryph: an old-school shooter | 117926 | [117926-apocryph-an-old-school-shooter.json](./117926-apocryph-an-old-school-shooter.json) |
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
+| Apocryphauna | 271969 | [271969-apocryphauna.json](./271969-apocryphauna.json) |
 | Apocryphoid | 380136 | [380136-apocryphoid.json](./380136-apocryphoid.json) |
 | Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
 | Apogee | 387719 | [387719-apogee.json](./387719-apogee.json) |
@@ -14170,6 +14172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcante: Definitive Edition | 189791 | [189791-arcante-definitive-edition.json](./189791-arcante-definitive-edition.json) |
 | Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
+| Arcanum Bonus Maps | 271954 | [271954-arcanum-bonus-maps.json](./271954-arcanum-bonus-maps.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
 | Arcanum Fortuna | 288711 | [288711-arcanum-fortuna.json](./288711-arcanum-fortuna.json) |
 | Arcanum: of Steamworks and Magick Obscura | 255 | [255-arcanum-of-steamworks-and-magick-obscura.json](./255-arcanum-of-steamworks-and-magick-obscura.json) |
