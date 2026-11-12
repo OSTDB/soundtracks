@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami | 68978 | [68978-kami.json](./68978-kami.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Hikouki | 93926 | [93926-kami-hikouki.json](./93926-kami-hikouki.json) |
+| Kami in My House | 255943 | [255943-kami-in-my-house.json](./255943-kami-in-my-house.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami Mahou | 188509 | [188509-kami-mahou.json](./188509-kami-mahou.json) |
 | Kami Naru Kimi To | 56772 | [56772-kami-naru-kimi-to.json](./56772-kami-naru-kimi-to.json) |
@@ -3464,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Solomon's Lost Mines | 209832 | [209832-king-solomons-lost-mines.json](./209832-king-solomons-lost-mines.json) |
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
 | King Solomon's Trivia Challenge | 209831 | [209831-king-solomons-trivia-challenge.json](./209831-king-solomons-trivia-challenge.json) |
+| King Story: Prologue | 253551 | [253551-king-story-prologue.json](./253551-king-story-prologue.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Towers | 291311 | [291311-king-towers.json](./291311-king-towers.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
@@ -4247,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
 | Kiss Ato | 148357 | [148357-kiss-ato.json](./148357-kiss-ato.json) |
+| Kiss Before Midnight | 253644 | [253644-kiss-before-midnight.json](./253644-kiss-before-midnight.json) |
 | Kiss Bell | 147806 | [147806-kiss-bell.json](./147806-kiss-bell.json) |
 | Kiss Bell | 61688 | [61688-kiss-bell.json](./61688-kiss-bell.json) |
 | Kiss Cargo | 389916 | [389916-kiss-cargo.json](./389916-kiss-cargo.json) |
