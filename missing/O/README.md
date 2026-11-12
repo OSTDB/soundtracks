@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshukuju | 316665 | [316665-oshukuju.json](./316665-oshukuju.json) |
 | Osiris | 116067 | [116067-osiris.json](./116067-osiris.json) |
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
+| Osiris | 294900 | [294900-osiris.json](./294900-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
 | Osk | 122149 | [122149-osk.json](./122149-osk.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
