@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiplash: Quip Pack 1 | 226987 | [226987-quiplash-quip-pack-1.json](./226987-quiplash-quip-pack-1.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
+| Quirkbound | 290590 | [290590-quirkbound.json](./290590-quirkbound.json) |
 | Quirks | 209745 | [209745-quirks.json](./209745-quirks.json) |
 | Quirky Crook | 81716 | [81716-quirky-crook.json](./81716-quirky-crook.json) |
 | Quirky Crystal RPG | 108379 | [108379-quirky-crystal-rpg.json](./108379-quirky-crystal-rpg.json) |
