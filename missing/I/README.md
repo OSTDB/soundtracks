@@ -5297,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Taxi Co. | 201124 | [201124-intergalactic-taxi-co.json](./201124-intergalactic-taxi-co.json) |
 | Intergalactic Transfer Station | 216679 | [216679-intergalactic-transfer-station.json](./216679-intergalactic-transfer-station.json) |
 | Intergalactic traveler: The Omega Sector | 76445 | [76445-intergalactic-traveler-the-omega-sector.json](./76445-intergalactic-traveler-the-omega-sector.json) |
+| Intergalactic Xenology Trilogy | 260996 | [260996-intergalactic-xenology-trilogy.json](./260996-intergalactic-xenology-trilogy.json) |
 | Intergalactic Zoo | 102278 | [102278-intergalactic-zoo.json](./102278-intergalactic-zoo.json) |
 | Intergalactic: The Heretic Prophet | 325611 | [325611-intergalactic-the-heretic-prophet.json](./325611-intergalactic-the-heretic-prophet.json) |
 | Intergalacticorp. | 311914 | [311914-intergalacticorp.json](./311914-intergalacticorp.json) |
