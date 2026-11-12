@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10tons Action Puzzle Bundle | 83747 | [83747-10tons-action-puzzle-bundle.json](./83747-10tons-action-puzzle-bundle.json) |
 | 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
 | 10tons Cyberpunk Bundle | 83746 | [83746-10tons-cyberpunk-bundle.json](./83746-10tons-cyberpunk-bundle.json) |
+| 10x1024 | 276898 | [276898-10x1024.json](./276898-10x1024.json) |
 | 11 Card Games | 268072 | [268072-11-card-games.json](./268072-11-card-games.json) |
 | 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
