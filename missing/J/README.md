@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: The Forbidden Garden | 221699 | [221699-japanese-escape-games-the-forbidden-garden.json](./221699-japanese-escape-games-the-forbidden-garden.json) |
 | Japanese Escape Games: The Fortress Prison | 213211 | [213211-japanese-escape-games-the-fortress-prison.json](./213211-japanese-escape-games-the-fortress-prison.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
+| Japanese Escape Games: The House | 249511 | [249511-japanese-escape-games-the-house.json](./249511-japanese-escape-games-the-house.json) |
 | Japanese Escape Games: The Light and Mirror Room | 234579 | [234579-japanese-escape-games-the-light-and-mirror-room.json](./234579-japanese-escape-games-the-light-and-mirror-room.json) |
 | Japanese Escape Games: The Police Office | 284496 | [284496-japanese-escape-games-the-police-office.json](./284496-japanese-escape-games-the-police-office.json) |
 | Japanese Escape Games: The Prison Underground | 247486 | [247486-japanese-escape-games-the-prison-underground.json](./247486-japanese-escape-games-the-prison-underground.json) |
