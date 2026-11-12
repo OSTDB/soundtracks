@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Age of Machine Warfare | 252663 | [252663-new-age-of-machine-warfare.json](./252663-new-age-of-machine-warfare.json) |
 | New Age Vanguard | 59788 | [59788-new-age-vanguard.json](./59788-new-age-vanguard.json) |
 | New America | 274793 | [274793-new-america.json](./274793-new-america.json) |
+| New Arc Line | 264931 | [264931-new-arc-line.json](./264931-new-arc-line.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
 | New Atomic Punk: Global Quest | 39495 | [39495-new-atomic-punk-global-quest.json](./39495-new-atomic-punk-global-quest.json) |
