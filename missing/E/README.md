@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EggFight | 116073 | [116073-eggfight.json](./116073-eggfight.json) |
 | Eggfish | 406342 | [406342-eggfish.json](./406342-eggfish.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
+| Egggg | 296308 | [296308-egggg.json](./296308-egggg.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
 | Egghead | 84348 | [84348-egghead.json](./84348-egghead.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Mountain Life Simulator | 217252 | [217252-evergreen-mountain-life-simulator.json](./217252-evergreen-mountain-life-simulator.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
+| Evergreen: The Board Game | 296303 | [296303-evergreen-the-board-game.json](./296303-evergreen-the-board-game.json) |
 | Evergrow: Paper Forest | 200247 | [200247-evergrow-paper-forest.json](./200247-evergrow-paper-forest.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everguest: The Veiled Inn | 414751 | [414751-everguest-the-veiled-inn.json](./414751-everguest-the-veiled-inn.json) |
