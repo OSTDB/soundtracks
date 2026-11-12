@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Cut Mansion | 86512 | [86512-paper-cut-mansion.json](./86512-paper-cut-mansion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
+| Paper Dash: Las Vegas | 288392 | [288392-paper-dash-las-vegas.json](./288392-paper-dash-las-vegas.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
 | Paper Dolls | 99053 | [99053-paper-dolls.json](./99053-paper-dolls.json) |
@@ -1811,7 +1812,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Plane | 254285 | [254285-paper-plane.json](./254285-paper-plane.json) |
 | Paper Plane | 343159 | [343159-paper-plane.json](./343159-paper-plane.json) |
 | Paper Plane | 401272 | [401272-paper-plane.json](./401272-paper-plane.json) |
+| Paper Plane Arena: A Medieval Fantasy | 288390 | [288390-paper-plane-arena-a-medieval-fantasy.json](./288390-paper-plane-arena-a-medieval-fantasy.json) |
+| Paper Plane Arena: Lost Places | 288393 | [288393-paper-plane-arena-lost-places.json](./288393-paper-plane-arena-lost-places.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
+| Paper Plane Arena: The Haunted House | 288394 | [288394-paper-plane-arena-the-haunted-house.json](./288394-paper-plane-arena-the-haunted-house.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
 | Paper Planet | 150837 | [150837-paper-planet.json](./150837-paper-planet.json) |
@@ -2796,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Bunch | 212423 | [212423-party-bunch.json](./212423-party-bunch.json) |
 | Party Bundle: Ludomania & Flowlines Vs. & 2048 Battles | 199865 | [199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json](./199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json) |
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
+| Party Business Supreme | 288379 | [288379-party-business-supreme.json](./288379-party-business-supreme.json) |
 | Party Carnival | 98669 | [98669-party-carnival.json](./98669-party-carnival.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Central | 60739 | [60739-party-central.json](./60739-party-central.json) |
