@@ -12374,6 +12374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Droid | 5875 | [5875-codename-droid.json](./5875-codename-droid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
+| Codename: Horror Game | 264279 | [264279-codename-horror-game.json](./264279-codename-horror-game.json) |
 | Codename: Iceman | 1929 | [1929-codename-iceman.json](./1929-codename-iceman.json) |
 | Codename: Kids Next Door - Escape Mission | 241122 | [241122-codename-kids-next-door-escape-mission.json](./241122-codename-kids-next-door-escape-mission.json) |
 | Codename: Kids Next Door - Flight of the Hamsters | 234535 | [234535-codename-kids-next-door-flight-of-the-hamsters.json](./234535-codename-kids-next-door-flight-of-the-hamsters.json) |
@@ -12714,6 +12715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Scream | 172027 | [172027-cold-scream.json](./172027-cold-scream.json) |
 | Cold Shell | 118150 | [118150-cold-shell.json](./118150-cold-shell.json) |
 | Cold Shift | 302481 | [302481-cold-shift.json](./302481-cold-shift.json) |
+| Cold Shot | 264295 | [264295-cold-shot.json](./264295-cold-shot.json) |
 | Cold Shuulathoi | 308067 | [308067-cold-shuulathoi.json](./308067-cold-shuulathoi.json) |
 | Cold Silence | 118024 | [118024-cold-silence.json](./118024-cold-silence.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
@@ -19594,6 +19596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad of Worlds: Mirrors to Other Worlds - Collector's Edition | 240131 | [240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json](./240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json) |
 | Crossroad of Worlds: Mystery Agency - Collector's Edition | 234526 | [234526-crossroad-of-worlds-mystery-agency-collectors-edition.json](./234526-crossroad-of-worlds-mystery-agency-collectors-edition.json) |
+| Crossroad of Worlds: Star Riddle - Collector's Edition | 264271 | [264271-crossroad-of-worlds-star-riddle-collectors-edition.json](./264271-crossroad-of-worlds-star-riddle-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroad Simulator | 193774 | [193774-crossroad-simulator.json](./193774-crossroad-simulator.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
