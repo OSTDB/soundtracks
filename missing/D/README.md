@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare: 1994 Sandcastle - Limited Edition | 277376 | [277376-daymare-1994-sandcastle-limited-edition.json](./277376-daymare-1994-sandcastle-limited-edition.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days Before the Festival | 231709 | [231709-days-before-the-festival.json](./231709-days-before-the-festival.json) |
+| Days Bygone: Castle Defense | 256573 | [256573-days-bygone-castle-defense.json](./256573-days-bygone-castle-defense.json) |
 | Days End | 255495 | [255495-days-end.json](./255495-days-end.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
