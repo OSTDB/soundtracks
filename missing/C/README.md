@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
 | Casino Monte Carlo | 206897 | [206897-casino-monte-carlo.json](./206897-casino-monte-carlo.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
+| Casino of Desire | 259190 | [259190-casino-of-desire.json](./259190-casino-of-desire.json) |
 | Casino of Time | 409857 | [409857-casino-of-time.json](./409857-casino-of-time.json) |
 | Casino Poker | 86596 | [86596-casino-poker.json](./86596-casino-poker.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
@@ -8669,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppin' Wood | 405712 | [405712-choppin-wood.json](./405712-choppin-wood.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
+| Choppy Heady | 259301 | [259301-choppy-heady.json](./259301-choppy-heady.json) |
 | Choppy Orc | 141994 | [141994-choppy-orc.json](./141994-choppy-orc.json) |
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
 | Choppy Waves | 402724 | [402724-choppy-waves.json](./402724-choppy-waves.json) |
@@ -12097,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Club | 141387 | [141387-cobra-club.json](./141387-cobra-club.json) |
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
 | Cobra Command | 69496 | [69496-cobra-command.json](./69496-cobra-command.json) |
+| Cobra Command / Sol-Feace | 259205 | [259205-cobra-command-sol-feace.json](./259205-cobra-command-sol-feace.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
 | Cobra Gunship | 113937 | [113937-cobra-gunship.json](./113937-cobra-gunship.json) |
 | Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
@@ -15504,6 +15507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
 | Cook-Out: A Sandwich Tale | 138392 | [138392-cook-out-a-sandwich-tale.json](./138392-cook-out-a-sandwich-tale.json) |
 | Cook, Serve, Delicious, Trilogy! | 278655 | [278655-cook-serve-delicious-trilogy.json](./278655-cook-serve-delicious-trilogy.json) |
+| Cook, Serve, Delicious: Remustard! | 259216 | [259216-cook-serve-delicious-remustard.json](./259216-cook-serve-delicious-remustard.json) |
 | Cook, Serve, Delicious! 1/2 Bundle!! | 301202 | [301202-cook-serve-delicious-1-2-bundle.json](./301202-cook-serve-delicious-1-2-bundle.json) |
 | Cook, Serve, Delicious! 2!! | 23236 | [23236-cook-serve-delicious-2.json](./23236-cook-serve-delicious-2.json) |
 | Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
@@ -16522,6 +16526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Royale | 324161 | [324161-cosmic-royale.json](./324161-cosmic-royale.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Rush | 331743 | [331743-cosmic-rush.json](./331743-cosmic-rush.json) |
+| Cosmic Salvage | 259305 | [259305-cosmic-salvage.json](./259305-cosmic-salvage.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
 | Cosmic Security | 191051 | [191051-cosmic-security.json](./191051-cosmic-security.json) |
 | Cosmic Shenanigans | 412208 | [412208-cosmic-shenanigans.json](./412208-cosmic-shenanigans.json) |
@@ -21362,6 +21367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite: Day One Edition | 171287 | [171287-cupid-parasite-day-one-edition.json](./171287-cupid-parasite-day-one-edition.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
+| Cupid Parasite: Sweet and Spicy Darling - Special Edition | 259212 | [259212-cupid-parasite-sweet-and-spicy-darling-special-edition.json](./259212-cupid-parasite-sweet-and-spicy-darling-special-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Story: First Date | 186508 | [186508-cupid-story-first-date.json](./186508-cupid-story-first-date.json) |
 | Cupid: Roguelite | 273512 | [273512-cupid-roguelite.json](./273512-cupid-roguelite.json) |
