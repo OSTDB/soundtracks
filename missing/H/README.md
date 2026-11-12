@@ -7493,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Journalist | 103859 | [103859-hidden-journalist.json](./103859-hidden-journalist.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Kitten | 251935 | [251935-hidden-kitten.json](./251935-hidden-kitten.json) |
+| Hidden Kittens: Kingdom of Cats | 311906 | [311906-hidden-kittens-kingdom-of-cats.json](./311906-hidden-kittens-kingdom-of-cats.json) |
 | Hidden Kooky Set | 362584 | [362584-hidden-kooky-set.json](./362584-hidden-kooky-set.json) |
 | Hidden Land: Land of Dusk | 416485 | [416485-hidden-land-land-of-dusk.json](./416485-hidden-land-land-of-dusk.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
