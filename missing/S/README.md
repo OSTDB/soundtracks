@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Diver the Simulation | 143399 | [143399-scuba-diver-the-simulation.json](./143399-scuba-diver-the-simulation.json) |
 | Scuba in Aruba | 321731 | [321731-scuba-in-aruba.json](./321731-scuba-in-aruba.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
+| Scuba Pop | 277473 | [277473-scuba-pop.json](./277473-scuba-pop.json) |
 | Scuba's Ocean Odyssey VR | 113139 | [113139-scubas-ocean-odyssey-vr.json](./113139-scubas-ocean-odyssey-vr.json) |
 | Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
 | ScubaVenture | 73400 | [73400-scubaventure.json](./73400-scubaventure.json) |
@@ -10745,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
 | Sid Meier's Civilization VI: Fire Keeper Pack | 276031 | [276031-sid-meiers-civilization-vi-fire-keeper-pack.json](./276031-sid-meiers-civilization-vi-fire-keeper-pack.json) |
 | Sid Meier's Civilization VI: Gathering Storm | 113374 | [113374-sid-meiers-civilization-vi-gathering-storm.json](./113374-sid-meiers-civilization-vi-gathering-storm.json) |
+| Sid Meier's Civilization VI: Jinx Pack | 277474 | [277474-sid-meiers-civilization-vi-jinx-pack.json](./277474-sid-meiers-civilization-vi-jinx-pack.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Junko Enoshima Pack | 276528 | [276528-sid-meiers-civilization-vi-junko-enoshima-pack.json](./276528-sid-meiers-civilization-vi-junko-enoshima-pack.json) |
 | Sid Meier's Civilization VI: Khmer and Indonesia Civilization & Scenario Pack | 164407 | [164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json](./164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json) |
@@ -21228,6 +21230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 266960 | [266960-space-invaders.json](./266960-space-invaders.json) |
 | Space Invaders | 266962 | [266962-space-invaders.json](./266962-space-invaders.json) |
 | Space Invaders | 270424 | [270424-space-invaders.json](./270424-space-invaders.json) |
+| Space Invaders | 277549 | [277549-space-invaders.json](./277549-space-invaders.json) |
 | Space Invaders | 282080 | [282080-space-invaders.json](./282080-space-invaders.json) |
 | Space Invaders | 310668 | [310668-space-invaders.json](./310668-space-invaders.json) |
 | Space Invaders | 3601 | [3601-space-invaders.json](./3601-space-invaders.json) |
@@ -25897,6 +25900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
 | Star Dartle 2000 | 387525 | [387525-star-dartle-2000.json](./387525-star-dartle-2000.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
+| Star Deck | 277618 | [277618-star-deck.json](./277618-star-deck.json) |
 | Star Defence | 249570 | [249570-star-defence.json](./249570-star-defence.json) |
 | Star Defender | 78896 | [78896-star-defender.json](./78896-star-defender.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
@@ -27151,6 +27155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Inception | 16662 | [16662-starlight-inception.json](./16662-starlight-inception.json) |
 | Starlight Isle | 303191 | [303191-starlight-isle.json](./303191-starlight-isle.json) |
+| Starlight Legacy | 277465 | [277465-starlight-legacy.json](./277465-starlight-legacy.json) |
 | Starlight Mario | 225551 | [225551-starlight-mario.json](./225551-starlight-mario.json) |
 | Starlight Mario: Underworld | 222972 | [222972-starlight-mario-underworld.json](./222972-starlight-mario-underworld.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
@@ -35174,6 +35179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ramp Skater | 296006 | [296006-super-ramp-skater.json](./296006-super-ramp-skater.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
+| Super Reaktor | 277551 | [277551-super-reaktor.json](./277551-super-reaktor.json) |
 | Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
 | Super Real Baseball '88 | 48395 | [48395-super-real-baseball-88.json](./48395-super-real-baseball-88.json) |
 | Super Real Basketball | 262867 | [262867-super-real-basketball.json](./262867-super-real-basketball.json) |
@@ -37386,6 +37392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Hachiruhi no Inyoku | 126321 | [126321-suzumiya-hachiruhi-no-inyoku.json](./126321-suzumiya-hachiruhi-no-inyoku.json) |
 | Suzumiya Haruhi no Chokuretsu | 69074 | [69074-suzumiya-haruhi-no-chokuretsu.json](./69074-suzumiya-haruhi-no-chokuretsu.json) |
+| Suzumiya Haruhi no Chokuretsu: Chou SOS Dandanin Collection | 277543 | [277543-suzumiya-haruhi-no-chokuretsu-chou-sos-dandanin-collection.json](./277543-suzumiya-haruhi-no-chokuretsu-chou-sos-dandanin-collection.json) |
 | Suzumiya Haruhi no Danketsu | 291102 | [291102-suzumiya-haruhi-no-danketsu.json](./291102-suzumiya-haruhi-no-danketsu.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
