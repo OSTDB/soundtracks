@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
 | Johnny Trigger: Lunatic DLC | 256685 | [256685-johnny-trigger-lunatic-dlc.json](./256685-johnny-trigger-lunatic-dlc.json) |
 | Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
+| Johnny Trigger: Sniper | 250578 | [250578-johnny-trigger-sniper.json](./250578-johnny-trigger-sniper.json) |
 | Johnny Trigger: Triple Rebel Edition | 375143 | [375143-johnny-trigger-triple-rebel-edition.json](./375143-johnny-trigger-triple-rebel-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
 | Johnny Turbo's Arcade: Bad Dudes | 95025 | [95025-johnny-turbos-arcade-bad-dudes.json](./95025-johnny-turbos-arcade-bad-dudes.json) |
