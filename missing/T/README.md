@@ -13089,6 +13089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Spark | 165297 | [165297-the-last-spark.json](./165297-the-last-spark.json) |
+| The Last Spell: Dwarves of Runenberg | 296839 | [296839-the-last-spell-dwarves-of-runenberg.json](./296839-the-last-spell-dwarves-of-runenberg.json) |
 | The Last Spell: Elves of Amberwald | 341399 | [341399-the-last-spell-elves-of-amberwald.json](./341399-the-last-spell-elves-of-amberwald.json) |
 | The Last Spell: Legendary Edition | 401586 | [401586-the-last-spell-legendary-edition.json](./401586-the-last-spell-legendary-edition.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
@@ -21635,6 +21636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thornkin | 401439 | [401439-thornkin.json](./401439-thornkin.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
+| Thorns: Police never sleeps | 296294 | [296294-thorns-police-never-sleeps.json](./296294-thorns-police-never-sleeps.json) |
 | Thornspell | 401464 | [401464-thornspell.json](./401464-thornspell.json) |
 | Thorny Times | 320194 | [320194-thorny-times.json](./320194-thorny-times.json) |
 | Thornyway | 28656 | [28656-thornyway.json](./28656-thornyway.json) |
@@ -34954,6 +34956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Heartache | 308428 | [308428-turnabout-heartache.json](./308428-turnabout-heartache.json) |
 | Turnabout Imperfect | 309997 | [309997-turnabout-imperfect.json](./309997-turnabout-imperfect.json) |
 | Turnabout in Payne and Suffering | 330912 | [330912-turnabout-in-payne-and-suffering.json](./330912-turnabout-in-payne-and-suffering.json) |
+| Turnabout in the Lighthouse of Lunacy | 296829 | [296829-turnabout-in-the-lighthouse-of-lunacy.json](./296829-turnabout-in-the-lighthouse-of-lunacy.json) |
 | Turnabout in the Spotlight | 309985 | [309985-turnabout-in-the-spotlight.json](./309985-turnabout-in-the-spotlight.json) |
 | Turnabout Mugging | 309983 | [309983-turnabout-mugging.json](./309983-turnabout-mugging.json) |
 | Turnabout of Courage | 306630 | [306630-turnabout-of-courage.json](./306630-turnabout-of-courage.json) |
@@ -35253,6 +35256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight | 368956 | [368956-twilight.json](./368956-twilight.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Array | 267790 | [267790-twilight-array.json](./267790-twilight-array.json) |
+| Twilight Bastion | 296693 | [296693-twilight-bastion.json](./296693-twilight-bastion.json) |
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
 | Twilight Bride: Vormslegend | 202621 | [202621-twilight-bride-vormslegend.json](./202621-twilight-bride-vormslegend.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
