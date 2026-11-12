@@ -10027,6 +10027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
 | Football Simulator | 204023 | [204023-football-simulator.json](./204023-football-simulator.json) |
+| Football Simulator 2024 | 285659 | [285659-football-simulator-2024.json](./285659-football-simulator-2024.json) |
 | Football Squad | 309424 | [309424-football-squad.json](./309424-football-squad.json) |
 | Football Star - Super Striker | 101644 | [101644-football-star-super-striker.json](./101644-football-star-super-striker.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
@@ -12013,6 +12014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
 | Fractured Fairy Tales: The Frog Prince | 91798 | [91798-fractured-fairy-tales-the-frog-prince.json](./91798-fractured-fairy-tales-the-frog-prince.json) |
 | Fractured Fury | 244216 | [244216-fractured-fury.json](./244216-fractured-fury.json) |
+| Fractured Horizon | 285648 | [285648-fractured-horizon.json](./285648-fractured-horizon.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Library | 366699 | [366699-fractured-library.json](./366699-fractured-library.json) |
 | Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
@@ -13769,6 +13771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
 | Frozen Hearth | 8914 | [8914-frozen-hearth.json](./8914-frozen-hearth.json) |
 | Frozen Hearts | 312959 | [312959-frozen-hearts.json](./312959-frozen-hearts.json) |
+| Frozen Honey ASMR | 285660 | [285660-frozen-honey-asmr.json](./285660-frozen-honey-asmr.json) |
 | Frozen Honey ASMR: Complete Edition | 289198 | [289198-frozen-honey-asmr-complete-edition.json](./289198-frozen-honey-asmr-complete-edition.json) |
 | Frozen Honey ASMR: Frost Edition | 360233 | [360233-frozen-honey-asmr-frost-edition.json](./360233-frozen-honey-asmr-frost-edition.json) |
 | Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
