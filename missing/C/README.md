@@ -5459,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveshifter | 216759 | [216759-caveshifter.json](./216759-caveshifter.json) |
 | Cavesleeper | 371372 | [371372-cavesleeper.json](./371372-cavesleeper.json) |
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
+| CaveVox | 303928 | [303928-cavevox.json](./303928-cavevox.json) |
 | Cavewars | 94599 | [94599-cavewars.json](./94599-cavewars.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
@@ -8583,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Chornobyl Breakout | 372279 | [372279-chornobyl-breakout.json](./372279-chornobyl-breakout.json) |
 | Chornobyl Liquidators | 146315 | [146315-chornobyl-liquidators.json](./146315-chornobyl-liquidators.json) |
+| Chornobyl Liquidators - Supporter Pack | 304393 | [304393-chornobyl-liquidators-supporter-pack.json](./304393-chornobyl-liquidators-supporter-pack.json) |
 | Chornobyl Quest | 416960 | [416960-chornobyl-quest.json](./416960-chornobyl-quest.json) |
 | Choro 2021 | 186127 | [186127-choro-2021.json](./186127-choro-2021.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
@@ -18937,6 +18939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis in the Kremlin | 20474 | [20474-crisis-in-the-kremlin.json](./20474-crisis-in-the-kremlin.json) |
 | Crisis in the Kremlin | 331763 | [331763-crisis-in-the-kremlin.json](./331763-crisis-in-the-kremlin.json) |
+| Crisis in the Kremlin: The Cold War | 303927 | [303927-crisis-in-the-kremlin-the-cold-war.json](./303927-crisis-in-the-kremlin-the-cold-war.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
 | Crisis Mountain | 21932 | [21932-crisis-mountain.json](./21932-crisis-mountain.json) |
 | Crisis of Dreamcell | 400699 | [400699-crisis-of-dreamcell.json](./400699-crisis-of-dreamcell.json) |
