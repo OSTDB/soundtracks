@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quintic Warrior | 24716 | [24716-quintic-warrior.json](./24716-quintic-warrior.json) |
 | Quintillion Quest | 380809 | [380809-quintillion-quest.json](./380809-quintillion-quest.json) |
 | Quintus and the Absent Truth | 140487 | [140487-quintus-and-the-absent-truth.json](./140487-quintus-and-the-absent-truth.json) |
+| Quintus and the Formidable Curse | 253554 | [253554-quintus-and-the-formidable-curse.json](./253554-quintus-and-the-formidable-curse.json) |
 | Quinty | 319922 | [319922-quinty.json](./319922-quinty.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
