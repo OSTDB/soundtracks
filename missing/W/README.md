@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Kings | 53054 | [53054-wasteland-kings.json](./53054-wasteland-kings.json) |
 | Wasteland Kings Together | 176330 | [176330-wasteland-kings-together.json](./176330-wasteland-kings-together.json) |
 | Wasteland Kitchen | 344506 | [344506-wasteland-kitchen.json](./344506-wasteland-kitchen.json) |
+| Wasteland of East | 257058 | [257058-wasteland-of-east.json](./257058-wasteland-of-east.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
 | Wasteland Outpost | 383678 | [383678-wasteland-outpost.json](./383678-wasteland-outpost.json) |
 | Wasteland Punk | 175690 | [175690-wasteland-punk.json](./175690-wasteland-punk.json) |
@@ -4553,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
 | Where is Ploppy? | 232261 | [232261-where-is-ploppy.json](./232261-where-is-ploppy.json) |
 | Where is Santa? | 113401 | [113401-where-is-santa.json](./113401-where-is-santa.json) |
+| Where Is Sarah? | 257045 | [257045-where-is-sarah.json](./257045-where-is-sarah.json) |
 | Where is Starlingdive | 414527 | [414527-where-is-starlingdive.json](./414527-where-is-starlingdive.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
 | Where is the Culprit? | 358654 | [358654-where-is-the-culprit.json](./358654-where-is-the-culprit.json) |
