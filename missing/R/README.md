@@ -4155,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
 | Red Dusk | 356062 | [356062-red-dusk.json](./356062-red-dusk.json) |
 | Red Dust | 148674 | [148674-red-dust.json](./148674-red-dust.json) |
+| Red Dust | 263183 | [263183-red-dust.json](./263183-red-dust.json) |
 | Red Dwarf | 214964 | [214964-red-dwarf.json](./214964-red-dwarf.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Echoes: Berlin | 412606 | [412606-red-echoes-berlin.json](./412606-red-echoes-berlin.json) |
@@ -7329,7 +7330,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
 | Rezzil Player: Adidas Brand Pack | 263066 | [263066-rezzil-player-adidas-brand-pack.json](./263066-rezzil-player-adidas-brand-pack.json) |
 | Rezzil Player: Forest Team Pack | 263130 | [263130-rezzil-player-forest-team-pack.json](./263130-rezzil-player-forest-team-pack.json) |
+| Rezzil Player: Man City FC Team Pack | 263182 | [263182-rezzil-player-man-city-fc-team-pack.json](./263182-rezzil-player-man-city-fc-team-pack.json) |
 | Rezzil Player: Rovers Team Pack | 263074 | [263074-rezzil-player-rovers-team-pack.json](./263074-rezzil-player-rovers-team-pack.json) |
+| Rezzil Player: TAE Brand Pack | 263181 | [263181-rezzil-player-tae-brand-pack.json](./263181-rezzil-player-tae-brand-pack.json) |
+| Rezzil Player: Wolves Team Pack | 263180 | [263180-rezzil-player-wolves-team-pack.json](./263180-rezzil-player-wolves-team-pack.json) |
 | RF Online / Grand Chase | 80182 | [80182-rf-online-grand-chase.json](./80182-rf-online-grand-chase.json) |
 | RF Online Next | 401458 | [401458-rf-online-next.json](./401458-rf-online-next.json) |
 | RF Project | 193820 | [193820-rf-project.json](./193820-rf-project.json) |
@@ -8520,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Overlords | 161574 | [161574-rise-of-the-overlords.json](./161574-rise-of-the-overlords.json) |
+| Rise of the Overseer | 263179 | [263179-rise-of-the-overseer.json](./263179-rise-of-the-overseer.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Penguins | 340693 | [340693-rise-of-the-penguins.json](./340693-rise-of-the-penguins.json) |
 | Rise of the Penguins 2: Penguin's Dark Ascent | 347402 | [347402-rise-of-the-penguins-2-penguins-dark-ascent.json](./347402-rise-of-the-penguins-2-penguins-dark-ascent.json) |
