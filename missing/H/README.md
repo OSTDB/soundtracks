@@ -4584,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Kitchen: The Game | 21358 | [21358-hells-kitchen-the-game.json](./21358-hells-kitchen-the-game.json) |
 | Hell'S Little Story | 29610 | [29610-hells-little-story.json](./29610-hells-little-story.json) |
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
+| Hell's Memento | 265993 | [265993-hells-memento.json](./265993-hells-memento.json) |
 | Hell's Mouth | 223387 | [223387-hells-mouth.json](./223387-hells-mouth.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hell's On Hold | 300544 | [300544-hells-on-hold.json](./300544-hells-on-hold.json) |
@@ -8667,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hilton Ultimate Team Play | 63757 | [63757-hilton-ultimate-team-play.json](./63757-hilton-ultimate-team-play.json) |
 | Him | 171979 | [171979-him.json](./171979-him.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
+| Him | 265990 | [265990-him.json](./265990-him.json) |
 | Him & Her | 135652 | [135652-him-and-her.json](./135652-him-and-her.json) |
 | Him & Her 3 | 180980 | [180980-him-and-her-3.json](./180980-him-and-her-3.json) |
 | Him & Her Collection | 205221 | [205221-him-and-her-collection.json](./205221-him-and-her-collection.json) |
