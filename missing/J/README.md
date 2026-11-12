@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns: Complete Collection | 284484 | [284484-jetsnguns-complete-collection.json](./284484-jetsnguns-complete-collection.json) |
+| Jetsam! | 295186 | [295186-jetsam.json](./295186-jetsam.json) |
 | Jetscout: Boot Camp | 158329 | [158329-jetscout-boot-camp.json](./158329-jetscout-boot-camp.json) |
 | Jetscout: Mystery of the Valunians | 139590 | [139590-jetscout-mystery-of-the-valunians.json](./139590-jetscout-mystery-of-the-valunians.json) |
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jisedai Begoma Battle Beyblade | 65708 | [65708-jisedai-begoma-battle-beyblade.json](./65708-jisedai-begoma-battle-beyblade.json) |
 | Jisei | 62865 | [62865-jisei.json](./62865-jisei.json) |
 | Jisei: The First Case HD | 147719 | [147719-jisei-the-first-case-hd.json](./147719-jisei-the-first-case-hd.json) |
+| Jishin | 295412 | [295412-jishin.json](./295412-jishin.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
@@ -2502,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Jump | 115959 | [115959-joe-jump.json](./115959-joe-jump.json) |
 | Joe Jump Impossible Quest | 117878 | [117878-joe-jump-impossible-quest.json](./117878-joe-jump-impossible-quest.json) |
 | Joe Kowalski Chronicles: Murder in a flat | 150742 | [150742-joe-kowalski-chronicles-murder-in-a-flat.json](./150742-joe-kowalski-chronicles-murder-in-a-flat.json) |
+| Joe Maverick: Legend of the Savior | 295586 | [295586-joe-maverick-legend-of-the-savior.json](./295586-joe-maverick-legend-of-the-savior.json) |
 | Joe Montana Football | 149968 | [149968-joe-montana-football.json](./149968-joe-montana-football.json) |
 | Joe Montana Football | 5396 | [5396-joe-montana-football.json](./5396-joe-montana-football.json) |
 | Joe Montana Football | 80420 | [80420-joe-montana-football.json](./80420-joe-montana-football.json) |
