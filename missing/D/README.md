@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathless Death | 298212 | [298212-deathless-death.json](./298212-deathless-death.json) |
 | Deathless Dungeon | 118064 | [118064-deathless-dungeon.json](./118064-deathless-dungeon.json) |
 | Deathless Hyperion | 145411 | [145411-deathless-hyperion.json](./145411-deathless-hyperion.json) |
+| Deathless Survivors | 259193 | [259193-deathless-survivors.json](./259193-deathless-survivors.json) |
 | Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
 | Deathless: The Hero Quest | 302325 | [302325-deathless-the-hero-quest.json](./302325-deathless-the-hero-quest.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
