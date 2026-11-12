@@ -33091,7 +33091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Darling Panic | 358651 | [358651-super-darling-panic.json](./358651-super-darling-panic.json) |
 | Super Darts | 223903 | [223903-super-darts.json](./223903-super-darts.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
-| Super Daryl Deluxe | 21994 | [21994-super-daryl-deluxe.json](./21994-super-daryl-deluxe.json) |
 | Super Dash | 297521 | [297521-super-dash.json](./297521-super-dash.json) |
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
