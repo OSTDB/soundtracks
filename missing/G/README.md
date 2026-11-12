@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
 | Gloomhaven: Jaws of the Lion - Alternative Skins | 267360 | [267360-gloomhaven-jaws-of-the-lion-alternative-skins.json](./267360-gloomhaven-jaws-of-the-lion-alternative-skins.json) |
 | Gloomhaven: Mercenaries Edition | 254680 | [254680-gloomhaven-mercenaries-edition.json](./254680-gloomhaven-mercenaries-edition.json) |
+| Gloomier Keep | 271354 | [271354-gloomier-keep.json](./271354-gloomier-keep.json) |
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
 | Gloomveil | 385351 | [385351-gloomveil.json](./385351-gloomveil.json) |
