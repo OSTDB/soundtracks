@@ -4166,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom University 0 | 371036 | [371036-femdom-university-0.json](./371036-femdom-university-0.json) |
 | Femdom Waifu | 177706 | [177706-femdom-waifu.json](./177706-femdom-waifu.json) |
 | Femdom Waifu VR | 368641 | [368641-femdom-waifu-vr.json](./368641-femdom-waifu-vr.json) |
+| Femdom Waifu: Boot Fetish Pack | 280403 | [280403-femdom-waifu-boot-fetish-pack.json](./280403-femdom-waifu-boot-fetish-pack.json) |
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
 | Femida | 128189 | [128189-femida.json](./128189-femida.json) |
@@ -11585,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: 2015 Cadillac #3 Cadillac Racing ATS-V.R | 295484 | [295484-forza-motorsport-2015-cadillac-3-cadillac-racing-ats-v-r.json](./295484-forza-motorsport-2015-cadillac-3-cadillac-racing-ats-v-r.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
 | Forza Motorsport: 2018 Cadillac #57 TA CTS-V | 292648 | [292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json](./292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json) |
+| Forza Motorsport: 2018 Chevrolet #23 Ruman Racing TA Corvette | 280404 | [280404-forza-motorsport-2018-chevrolet-23-ruman-racing-ta-corvette.json](./280404-forza-motorsport-2018-chevrolet-23-ruman-racing-ta-corvette.json) |
 | Forza Motorsport: 2018 Ford #98 Breathless Pro Racing TA Mustang | 295483 | [295483-forza-motorsport-2018-ford-98-breathless-pro-racing-ta-mustang.json](./295483-forza-motorsport-2018-ford-98-breathless-pro-racing-ta-mustang.json) |
 | Forza Motorsport: 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo | 285479 | [285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json](./285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json) |
 | Forza Motorsport: 2019 Ferrari #62 Risi Competizione 488 GTE | 288066 | [288066-forza-motorsport-2019-ferrari-62-risi-competizione-488-gte.json](./288066-forza-motorsport-2019-ferrari-62-risi-competizione-488-gte.json) |
@@ -13289,6 +13291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 261991 | [261991-frogger.json](./261991-frogger.json) |
+| Frogger | 280483 | [280483-frogger.json](./280483-frogger.json) |
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
 | Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
