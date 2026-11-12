@@ -5498,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Heroes - Storm Battle | 100976 | [100976-ninja-heroes-storm-battle.json](./100976-ninja-heroes-storm-battle.json) |
 | Ninja Hop | 27246 | [27246-ninja-hop.json](./27246-ninja-hop.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
+| Ninja I & II | 312410 | [312410-ninja-i-and-ii.json](./312410-ninja-i-and-ii.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
 | Ninja Infiltration | 378942 | [378942-ninja-infiltration.json](./378942-ninja-infiltration.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
