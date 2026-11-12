@@ -3727,7 +3727,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 3 | 306134 | [306134-tekken-3.json](./306134-tekken-3.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
-| Tekken 4 | 393182 | [393182-tekken-4.json](./393182-tekken-4.json) |
 | Tekken 5 | 393526 | [393526-tekken-5.json](./393526-tekken-5.json) |
 | Tekken 5: Dark Resurrection | 1235 | [1235-tekken-5-dark-resurrection.json](./1235-tekken-5-dark-resurrection.json) |
 | Tekken 5: Dark Resurrection Online | 1234 | [1234-tekken-5-dark-resurrection-online.json](./1234-tekken-5-dark-resurrection-online.json) |
