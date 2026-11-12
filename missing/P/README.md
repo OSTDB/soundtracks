@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
 | PAWG Runner: A NSFW Platformer | 322634 | [322634-pawg-runner-a-nsfw-platformer.json](./322634-pawg-runner-a-nsfw-platformer.json) |
+| Pawggle | 258238 | [258238-pawggle.json](./258238-pawggle.json) |
 | Pawker | 359528 | [359528-pawker.json](./359528-pawker.json) |
 | PawlleyBall | 390566 | [390566-pawlleyball.json](./390566-pawlleyball.json) |
 | Pawly Pets: My Vet Practice | 47807 | [47807-pawly-pets-my-vet-practice.json](./47807-pawly-pets-my-vet-practice.json) |
@@ -5852,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Unit 999 | 280153 | [280153-phantom-unit-999.json](./280153-phantom-unit-999.json) |
 | Phantom Void | 381661 | [381661-phantom-void.json](./381661-phantom-void.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
+| Phantom Wardrobe | 258742 | [258742-phantom-wardrobe.json](./258742-phantom-wardrobe.json) |
 | Phantom Watcher | 301698 | [301698-phantom-watcher.json](./301698-phantom-watcher.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Xcape | 304702 | [304702-phantom-xcape.json](./304702-phantom-xcape.json) |
@@ -6478,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Picka: 30 Days to Love | 199215 | [199215-picka-30-days-to-love.json](./199215-picka-30-days-to-love.json) |
+| Pickaxe Friends | 258678 | [258678-pickaxe-friends.json](./258678-pickaxe-friends.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
 | PickCrafter | 27340 | [27340-pickcrafter.json](./27340-pickcrafter.json) |
 | PickCrafter | 76537 | [76537-pickcrafter.json](./76537-pickcrafter.json) |
