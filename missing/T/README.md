@@ -4987,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrordrome: Reign of the Legends | 103050 | [103050-terrordrome-reign-of-the-legends.json](./103050-terrordrome-reign-of-the-legends.json) |
 | Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
+| Terrorformer TD | 288958 | [288958-terrorformer-td.json](./288958-terrorformer-td.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorhythm | 76315 | [76315-terrorhythm.json](./76315-terrorhythm.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
@@ -19031,6 +19032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 224892 | [224892-the-tower.json](./224892-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
 | The Tower | 282089 | [282089-the-tower.json](./282089-the-tower.json) |
+| The Tower | 288930 | [288930-the-tower.json](./288930-the-tower.json) |
 | The Tower | 366928 | [366928-the-tower.json](./366928-the-tower.json) |
 | The Tower | 86462 | [86462-the-tower.json](./86462-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
@@ -26339,6 +26341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Jungle Mobile | 63193 | [63193-tokyo-jungle-mobile.json](./63193-tokyo-jungle-mobile.json) |
 | Tokyo Kowloon | 77679 | [77679-tokyo-kowloon.json](./77679-tokyo-kowloon.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
+| Tokyo Mafia Simulator | 288974 | [288974-tokyo-mafia-simulator.json](./288974-tokyo-mafia-simulator.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
 | Tokyo Majin Gakuen: Fuju Houroku | 37471 | [37471-tokyo-majin-gakuen-fuju-houroku.json](./37471-tokyo-majin-gakuen-fuju-houroku.json) |
 | Tokyo Majin Gakuen: Gehoujou | 91926 | [91926-tokyo-majin-gakuen-gehoujou.json](./91926-tokyo-majin-gakuen-gehoujou.json) |
@@ -31922,6 +31925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transparent Machines | 60448 | [60448-transparent-machines.json](./60448-transparent-machines.json) |
 | Transpawt Train | 346391 | [346391-transpawt-train.json](./346391-transpawt-train.json) |
 | Transphoria | 51667 | [51667-transphoria.json](./51667-transphoria.json) |
+| Transpile Girl Rescue Operation! | 288955 | [288955-transpile-girl-rescue-operation.json](./288955-transpile-girl-rescue-operation.json) |
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | TransPlan | 13663 | [13663-transplan.json](./13663-transplan.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
@@ -32683,6 +32687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Trepang2: Survival Mode | 274593 | [274593-trepang2-survival-mode.json](./274593-trepang2-survival-mode.json) |
 | Trepidation | 247922 | [247922-trepidation.json](./247922-trepidation.json) |
+| Trepidation | 288952 | [288952-trepidation.json](./288952-trepidation.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
 | Tres Undos | 208269 | [208269-tres-undos.json](./208269-tres-undos.json) |
