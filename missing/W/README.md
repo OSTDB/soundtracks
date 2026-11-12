@@ -9239,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Rat Packs Weapon Skins | 243298 | [243298-world-war-z-rat-packs-weapon-skins.json](./243298-world-war-z-rat-packs-weapon-skins.json) |
 | World War Z: Raven Weapons Skin Pack | 406465 | [406465-world-war-z-raven-weapons-skin-pack.json](./406465-world-war-z-raven-weapons-skin-pack.json) |
 | World War Z: Sin City Apocalypse Episode | 339072 | [339072-world-war-z-sin-city-apocalypse-episode.json](./339072-world-war-z-sin-city-apocalypse-episode.json) |
+| World War Z: Valley of the Zeke Episode | 279363 | [279363-world-war-z-valley-of-the-zeke-episode.json](./279363-world-war-z-valley-of-the-zeke-episode.json) |
 | World War Z: Vegas Skin Pack | 339073 | [339073-world-war-z-vegas-skin-pack.json](./339073-world-war-z-vegas-skin-pack.json) |
 | World War Z: Vibrant Halloween Skin Pack | 406458 | [406458-world-war-z-vibrant-halloween-skin-pack.json](./406458-world-war-z-vibrant-halloween-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
