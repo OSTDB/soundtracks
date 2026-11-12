@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 216246 | [216246-eclipse.json](./216246-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse | 260856 | [260856-eclipse.json](./260856-eclipse.json) |
+| Eclipse | 276916 | [276916-eclipse.json](./276916-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
 | Eclipse | 347964 | [347964-eclipse.json](./347964-eclipse.json) |
 | Eclipse 2: Invasion of Darkness | 293586 | [293586-eclipse-2-invasion-of-darkness.json](./293586-eclipse-2-invasion-of-darkness.json) |
@@ -8496,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exot | 338041 | [338041-exot.json](./338041-exot.json) |
 | ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
 | Exoterra: A Space Journey | 383102 | [383102-exoterra-a-space-journey.json](./383102-exoterra-a-space-journey.json) |
+| Exoterrestrial | 276903 | [276903-exoterrestrial.json](./276903-exoterrestrial.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Cars VI | 159463 | [159463-exotic-cars-vi.json](./159463-exotic-cars-vi.json) |
 | Exotic Fighter | 289515 | [289515-exotic-fighter.json](./289515-exotic-fighter.json) |
