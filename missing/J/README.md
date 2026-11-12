@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 278089 | [278089-joust.json](./278089-joust.json) |
 | Joust | 278090 | [278090-joust.json](./278090-joust.json) |
 | Joust | 278091 | [278091-joust.json](./278091-joust.json) |
+| Joust | 278127 | [278127-joust.json](./278127-joust.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joust | 278132 | [278132-joust.json](./278132-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
