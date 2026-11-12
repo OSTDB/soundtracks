@@ -7253,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besöket | 415488 | [415488-besoket.json](./415488-besoket.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bespoken | 289814 | [289814-bespoken.json](./289814-bespoken.json) |
+| Besser Essen: Leben Leicht Gemacht | 269715 | [269715-besser-essen-leben-leicht-gemacht.json](./269715-besser-essen-leben-leicht-gemacht.json) |
 | Best Adventure 4-in-1 Bundle | 267152 | [267152-best-adventure-4-in-1-bundle.json](./267152-best-adventure-4-in-1-bundle.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds | 32464 | [32464-best-buds.json](./32464-best-buds.json) |
@@ -7276,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Friends Forever | 227888 | [227888-best-friends-forever.json](./227888-best-friends-forever.json) |
 | Best Friends: Dogs & Cats | 49276 | [49276-best-friends-dogs-and-cats.json](./49276-best-friends-dogs-and-cats.json) |
+| Best Friends: Mijn Paard | 269716 | [269716-best-friends-mijn-paard.json](./269716-best-friends-mijn-paard.json) |
 | Best Friends: My Horse | 49229 | [49229-best-friends-my-horse.json](./49229-best-friends-my-horse.json) |
 | Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
 | Best Game EU | 97194 | [97194-best-game-eu.json](./97194-best-game-eu.json) |
@@ -7846,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Blocksberg: Der verhexte Liebesbrief | 148304 | [148304-bibi-blocksberg-der-verhexte-liebesbrief.json](./148304-bibi-blocksberg-der-verhexte-liebesbrief.json) |
 | Bibi Blocksberg: Der verhexte Schloss-Schatz | 148498 | [148498-bibi-blocksberg-der-verhexte-schloss-schatz.json](./148498-bibi-blocksberg-der-verhexte-schloss-schatz.json) |
+| Bibi Blocksberg: Grundschule Mathematik - Klasse 1 bis 4 | 269717 | [269717-bibi-blocksberg-grundschule-mathematik-klasse-1-bis-4.json](./269717-bibi-blocksberg-grundschule-mathematik-klasse-1-bis-4.json) |
 | Bibi Blocksberg: Im Bann der Hexenkugel | 81452 | [81452-bibi-blocksberg-im-bann-der-hexenkugel.json](./81452-bibi-blocksberg-im-bann-der-hexenkugel.json) |
 | Bibi Blocksberg: Neustadt im Hex-Chaos | 215849 | [215849-bibi-blocksberg-neustadt-im-hex-chaos.json](./215849-bibi-blocksberg-neustadt-im-hex-chaos.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
@@ -8448,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman 2000: Viva! Festival! | 122564 | [122564-bikkuriman-2000-viva-festival.json](./122564-bikkuriman-2000-viva-festival.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
 | Bikkuriman Daijikai | 64287 | [64287-bikkuriman-daijikai.json](./64287-bikkuriman-daijikai.json) |
+| Bikkuriman Daijiten | 269720 | [269720-bikkuriman-daijiten.json](./269720-bikkuriman-daijiten.json) |
 | Bikkuriman Kanjuku Haou Sanmi Douran Sensouki | 91782 | [91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json](./91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json) |
 | Bikkuriman Wonder Collection | 303819 | [303819-bikkuriman-wonder-collection.json](./303819-bikkuriman-wonder-collection.json) |
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
@@ -9527,6 +9531,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bivoj | 232263 | [232263-bivoj.json](./232263-bivoj.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
 | Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
+| Biz Nouryoku DS Series: Wagokoro no Moto | 269723 | [269723-biz-nouryoku-ds-series-wagokoro-no-moto.json](./269723-biz-nouryoku-ds-series-wagokoro-no-moto.json) |
+| Biz Nouryoku Series: Miryoku Kaikaku | 269722 | [269722-biz-nouryoku-series-miryoku-kaikaku.json](./269722-biz-nouryoku-series-miryoku-kaikaku.json) |
+| Biz Taiken DS Series: Kigyoudou - Inshoku | 269724 | [269724-biz-taiken-ds-series-kigyoudou-inshoku.json](./269724-biz-taiken-ds-series-kigyoudou-inshoku.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
 | Bizarr Adventure | 224677 | [224677-bizarr-adventure.json](./224677-bizarr-adventure.json) |
 | Bizarre | 272138 | [272138-bizarre.json](./272138-bizarre.json) |
@@ -9642,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cat-astrophe | 243814 | [243814-black-cat-astrophe.json](./243814-black-cat-astrophe.json) |
 | Black Cat: Back Light | 284267 | [284267-black-cat-back-light.json](./284267-black-cat-back-light.json) |
 | Black Cat: Kikai Shikake no Tenshi | 229712 | [229712-black-cat-kikai-shikake-no-tenshi.json](./229712-black-cat-kikai-shikake-no-tenshi.json) |
+| Black Cat: Kuroneko no Concerto | 269725 | [269725-black-cat-kuroneko-no-concerto.json](./269725-black-cat-kuroneko-no-concerto.json) |
 | Black Cats and Pointed Hats | 71785 | [71785-black-cats-and-pointed-hats.json](./71785-black-cats-and-pointed-hats.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
