@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
 | Sandstorm! | 260866 | [260866-sandstorm.json](./260866-sandstorm.json) |
 | SandStrike.io | 240287 | [240287-sandstrike-io.json](./240287-sandstrike-io.json) |
+| Sandtable Engine | 295584 | [295584-sandtable-engine.json](./295584-sandtable-engine.json) |
 | SandTable War: Three Kingdoms | 373717 | [373717-sandtable-war-three-kingdoms.json](./373717-sandtable-war-three-kingdoms.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
@@ -3003,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary House | 81785 | [81785-scary-house.json](./81785-scary-house.json) |
 | Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
+| Scary In The Journey | 295582 | [295582-scary-in-the-journey.json](./295582-scary-in-the-journey.json) |
 | Scary Library | 263383 | [263383-scary-library.json](./263383-scary-library.json) |
 | Scary Loop | 264194 | [264194-scary-loop.json](./264194-scary-loop.json) |
 | Scary Loop | 376083 | [376083-scary-loop.json](./376083-scary-loop.json) |
@@ -6990,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Afrika Korps | 161542 | [161542-sgs-afrika-korps.json](./161542-sgs-afrika-korps.json) |
 | SGS Afrika Korps: Tunisia | 174061 | [174061-sgs-afrika-korps-tunisia.json](./174061-sgs-afrika-korps-tunisia.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
+| SGS Battle For: Hue | 295195 | [295195-sgs-battle-for-hue.json](./295195-sgs-battle-for-hue.json) |
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
 | SGS Battle For: Shanghai | 309775 | [309775-sgs-battle-for-shanghai.json](./309775-sgs-battle-for-shanghai.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
@@ -14900,6 +14903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slivercall | 352996 | [352996-slivercall.json](./352996-slivercall.json) |
 | Slizer Battle Management System | 71188 | [71188-slizer-battle-management-system.json](./71188-slizer-battle-management-system.json) |
 | Slizza | 116993 | [116993-slizza.json](./116993-slizza.json) |
+| Slo's Home | 295176 | [295176-slos-home.json](./295176-slos-home.json) |
 | Sloane and MacHale's Mysterious Stories | 63965 | [63965-sloane-and-machales-mysterious-stories.json](./63965-sloane-and-machales-mysterious-stories.json) |
 | Sloane and MacHale's Mysterious Stories 2 | 59405 | [59405-sloane-and-machales-mysterious-stories-2.json](./59405-sloane-and-machales-mysterious-stories-2.json) |
 | Sloany vs. Reggie | 290664 | [290664-sloany-vs-reggie.json](./290664-sloany-vs-reggie.json) |
@@ -15848,6 +15852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob 7: Fantasy Story | 248189 | [248189-snail-bob-7-fantasy-story.json](./248189-snail-bob-7-fantasy-story.json) |
 | Snail Bob 8: Island Story | 102024 | [102024-snail-bob-8-island-story.json](./102024-snail-bob-8-island-story.json) |
 | Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
+| Snail Juice | 295585 | [295585-snail-juice.json](./295585-snail-juice.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
 | Snail Race | 352467 | [352467-snail-race.json](./352467-snail-race.json) |
@@ -23050,6 +23055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spent | 174177 | [174177-spent.json](./174177-spent.json) |
 | Spent Shells | 275383 | [275383-spent-shells.json](./275383-spent-shells.json) |
 | Spere Jongg | 208786 | [208786-spere-jongg.json](./208786-spere-jongg.json) |
+| SperGatito Minigames | 295415 | [295415-spergatito-minigames.json](./295415-spergatito-minigames.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
@@ -24205,6 +24211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
 | SpongeBob's Surf & Skate Roadtrip | 284108 | [284108-spongebobs-surf-and-skate-roadtrip.json](./284108-spongebobs-surf-and-skate-roadtrip.json) |
 | SpongeBob's Surf & Skate Roadtrip | 7992 | [7992-spongebobs-surf-and-skate-roadtrip.json](./7992-spongebobs-surf-and-skate-roadtrip.json) |
+| SpongeBob's Truth or Square | 295596 | [295596-spongebobs-truth-or-square.json](./295596-spongebobs-truth-or-square.json) |
 | SpongeBob's Truth or Square | 295621 | [295621-spongebobs-truth-or-square.json](./295621-spongebobs-truth-or-square.json) |
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
@@ -27638,6 +27645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Emergency | 6161 | [6161-state-of-emergency.json](./6161-state-of-emergency.json) |
 | State of Emergency 2 | 6162 | [6162-state-of-emergency-2.json](./6162-state-of-emergency-2.json) |
 | State of Extinction | 59465 | [59465-state-of-extinction.json](./59465-state-of-extinction.json) |
+| State of Matter | 295590 | [295590-state-of-matter.json](./295590-state-of-matter.json) |
 | State of Matter | 58106 | [58106-state-of-matter.json](./58106-state-of-matter.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Mind | 230872 | [230872-state-of-mind.json](./230872-state-of-mind.json) |
@@ -38345,6 +38353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordship | 182118 | [182118-swordship.json](./182118-swordship.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
+| Swordsman | 295579 | [295579-swordsman.json](./295579-swordsman.json) |
 | Swordsman | 397420 | [397420-swordsman.json](./397420-swordsman.json) |
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
 | Swordsman | 86195 | [86195-swordsman.json](./86195-swordsman.json) |
@@ -38914,6 +38923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Systems Nominal | 8586 | [8586-systems-nominal.json](./8586-systems-nominal.json) |
 | Sythera | 398764 | [398764-sythera.json](./398764-sythera.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
+| Syuukun in Mirror World | 295194 | [295194-syuukun-in-mirror-world.json](./295194-syuukun-in-mirror-world.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
 | Syyrah: The Warp Hunter | 73434 | [73434-syyrah-the-warp-hunter.json](./73434-syyrah-the-warp-hunter.json) |
