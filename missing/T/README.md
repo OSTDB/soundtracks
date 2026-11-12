@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
 | Tennis Manager 2022 | 197470 | [197470-tennis-manager-2022.json](./197470-tennis-manager-2022.json) |
+| Tennis Manager 2023 | 246146 | [246146-tennis-manager-2023.json](./246146-tennis-manager-2023.json) |
 | Tennis Manager 2024 | 298223 | [298223-tennis-manager-2024.json](./298223-tennis-manager-2024.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
 | Tennis Manager 26 | 398827 | [398827-tennis-manager-26.json](./398827-tennis-manager-26.json) |
@@ -6132,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
 | The Airship Designer | 126606 | [126606-the-airship-designer.json](./126606-the-airship-designer.json) |
 | The Airtight City 2 | 161171 | [161171-the-airtight-city-2.json](./161171-the-airtight-city-2.json) |
+| The Akaneia Build | 246682 | [246682-the-akaneia-build.json](./246682-the-akaneia-build.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
 | The Alabaster Donut Farm | 134887 | [134887-the-alabaster-donut-farm.json](./134887-the-alabaster-donut-farm.json) |
 | The Albatross | 29728 | [29728-the-albatross.json](./29728-the-albatross.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chewllers | 151686 | [151686-the-chewllers.json](./151686-the-chewllers.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
+| The Chicken Family | 246603 | [246603-the-chicken-family.json](./246603-the-chicken-family.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
 | The Chicken, the Ghost and the Mountain | 184157 | [184157-the-chicken-the-ghost-and-the-mountain.json](./184157-the-chicken-the-ghost-and-the-mountain.json) |
 | The Chicken's Fall | 172910 | [172910-the-chickens-fall.json](./172910-the-chickens-fall.json) |
@@ -12615,6 +12618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Shreds and Patches | 60121 | [60121-the-king-of-shreds-and-patches.json](./60121-the-king-of-shreds-and-patches.json) |
 | The King of the Oceans | 157464 | [157464-the-king-of-the-oceans.json](./157464-the-king-of-the-oceans.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
+| The King of Thieves | 246593 | [246593-the-king-of-thieves.json](./246593-the-king-of-thieves.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
 | The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
 | The King of Wall Street | 368964 | [368964-the-king-of-wall-street.json](./368964-the-king-of-wall-street.json) |
@@ -17913,6 +17917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
 | The Sims 4: Goth Galore Kit | 285668 | [285668-the-sims-4-goth-galore-kit.json](./285668-the-sims-4-goth-galore-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
+| The Sims 4: Greenhouse Haven Kit | 246618 | [246618-the-sims-4-greenhouse-haven-kit.json](./246618-the-sims-4-greenhouse-haven-kit.json) |
 | The Sims 4: Growing Together | 234545 | [234545-the-sims-4-growing-together.json](./234545-the-sims-4-growing-together.json) |
 | The Sims 4: Grunge Revival Kit | 252609 | [252609-the-sims-4-grunge-revival-kit.json](./252609-the-sims-4-grunge-revival-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
@@ -22110,6 +22115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Thrive | 250154 | [250154-thrive.json](./250154-thrive.json) |
 | Thrive: Heavy Lies the Crown | 190494 | [190494-thrive-heavy-lies-the-crown.json](./190494-thrive-heavy-lies-the-crown.json) |
+| Thriving City: Song | 246606 | [246606-thriving-city-song.json](./246606-thriving-city-song.json) |
 | Thro' The Wall also Scramble | 319600 | [319600-thro-the-wall-also-scramble.json](./319600-thro-the-wall-also-scramble.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
@@ -25191,6 +25197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
 | Tiny Capsule Collector | 404491 | [404491-tiny-capsule-collector.json](./404491-tiny-capsule-collector.json) |
+| Tiny Car | 246598 | [246598-tiny-car.json](./246598-tiny-car.json) |
 | Tiny Car Mess | 276591 | [276591-tiny-car-mess.json](./276591-tiny-car-mess.json) |
 | Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
 | Tiny Cars 2 | 70732 | [70732-tiny-cars-2.json](./70732-tiny-cars-2.json) |
@@ -27749,6 +27756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
 | Torchway | 157303 | [157303-torchway.json](./157303-torchway.json) |
+| Torcurus | 246607 | [246607-torcurus.json](./246607-torcurus.json) |
 | Torden | 196948 | [196948-torden.json](./196948-torden.json) |
 | Tore World | 127522 | [127522-tore-world.json](./127522-tore-world.json) |
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
@@ -28479,6 +28487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku Maze | 304050 | [304050-touhou-danmaku-maze.json](./304050-touhou-danmaku-maze.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
+| Touhou Danmuki: Spellbroken Dream Festival | 246681 | [246681-touhou-danmuki-spellbroken-dream-festival.json](./246681-touhou-danmuki-spellbroken-dream-festival.json) |
 | Touhou Dark Echoes | 118003 | [118003-touhou-dark-echoes.json](./118003-touhou-dark-echoes.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Diablo 2: Gensokyo Treasure Hunting | 185919 | [185919-touhou-diablo-2-gensokyo-treasure-hunting.json](./185919-touhou-diablo-2-gensokyo-treasure-hunting.json) |
@@ -28779,7 +28788,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
 | Touhou Volleyball Danmaku | 351389 | [351389-touhou-volleyball-danmaku.json](./351389-touhou-volleyball-danmaku.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
+| Touhou xià yèjì: Shining Shooting Star | 246683 | [246683-touhou-xia-yeji-shining-shooting-star.json](./246683-touhou-xia-yeji-shining-shooting-star.json) |
 | Touhou Youyoumu: Perfect Cherry Blossom | 27166 | [27166-touhou-youyoumu-perfect-cherry-blossom.json](./27166-touhou-youyoumu-perfect-cherry-blossom.json) |
+| Touhou Yuǎn Kōng Jiè: Ultimate Vitality of Imagination | 246685 | [246685-touhou-yuan-kong-jie-ultimate-vitality-of-imagination.json](./246685-touhou-yuan-kong-jie-ultimate-vitality-of-imagination.json) |
 | Touhou Yukkuri Mountain | 399975 | [399975-touhou-yukkuri-mountain.json](./399975-touhou-yukkuri-mountain.json) |
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
@@ -32581,6 +32592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travels in Od | 184744 | [184744-travels-in-od.json](./184744-travels-in-od.json) |
 | Travels of a Merchant's | 288567 | [288567-travels-of-a-merchants.json](./288567-travels-of-a-merchants.json) |
 | Travels With Gulliver | 416181 | [416181-travels-with-gulliver.json](./416181-travels-with-gulliver.json) |
+| Traversal | 246608 | [246608-traversal.json](./246608-traversal.json) |
 | Traverse the Backrooms | 288569 | [288569-traverse-the-backrooms.json](./288569-traverse-the-backrooms.json) |
 | Traverse the Void | 157473 | [157473-traverse-the-void.json](./157473-traverse-the-void.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
