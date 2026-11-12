@@ -1026,7 +1026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -9452,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Night: Dine or Die | 373066 | [373066-bite-night-dine-or-die.json](./373066-bite-night-dine-or-die.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
+| Bite Size Terrors: GuyGuy Toys | 258664 | [258664-bite-size-terrors-guyguy-toys.json](./258664-bite-size-terrors-guyguy-toys.json) |
 | Bite Size Terrors: Reverse Blue | 258311 | [258311-bite-size-terrors-reverse-blue.json](./258311-bite-size-terrors-reverse-blue.json) |
 | Bite Sized Puzzle | 163527 | [163527-bite-sized-puzzle.json](./163527-bite-sized-puzzle.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
@@ -13100,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobls | 260283 | [260283-bobls.json](./260283-bobls.json) |
 | BoBo | 14328 | [14328-bobo.json](./14328-bobo.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
+| Bobo Bay | 258663 | [258663-bobo-bay.json](./258663-bobo-bay.json) |
 | Bobo Blitz | 291434 | [291434-bobo-blitz.json](./291434-bobo-blitz.json) |
 | Bobo Gooey | 182618 | [182618-bobo-gooey.json](./182618-bobo-gooey.json) |
 | Bobo in Hell | 391980 | [391980-bobo-in-hell.json](./391980-bobo-in-hell.json) |
@@ -13992,6 +13993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
 | Bonki D Bonk | 410515 | [410515-bonki-d-bonk.json](./410515-bonki-d-bonk.json) |
 | Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
+| Bonnie Bear Saves Frogtime | 258654 | [258654-bonnie-bear-saves-frogtime.json](./258654-bonnie-bear-saves-frogtime.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
 | Bonnie Simulator | 340123 | [340123-bonnie-simulator.json](./340123-bonnie-simulator.json) |
@@ -18650,6 +18652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bulldozer Tycoon: Construction Simulator | 278329 | [278329-bulldozer-tycoon-construction-simulator.json](./278329-bulldozer-tycoon-construction-simulator.json) |
 | Bulle | 178590 | [178590-bulle.json](./178590-bulle.json) |
+| Bullet | 258660 | [258660-bullet.json](./258660-bullet.json) |
 | Bullet | 393922 | [393922-bullet.json](./393922-bullet.json) |
 | Bullet | 84189 | [84189-bullet.json](./84189-bullet.json) |
 | Bullet 2 | 393923 | [393923-bullet-2.json](./393923-bullet-2.json) |
