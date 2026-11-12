@@ -4254,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengam | 147599 | [147599-tengam.json](./147599-tengam.json) |
 | Tengami | 10089 | [10089-tengami.json](./10089-tengami.json) |
+| Tengen Toppa Gurren Lagann | 273532 | [273532-tengen-toppa-gurren-lagann.json](./273532-tengen-toppa-gurren-lagann.json) |
 | Tengen Toppa Gurren Lagann | 81570 | [81570-tengen-toppa-gurren-lagann.json](./81570-tengen-toppa-gurren-lagann.json) |
 | Tengen World Cup Soccer | 46329 | [46329-tengen-world-cup-soccer.json](./46329-tengen-world-cup-soccer.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
@@ -5503,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
+| TGsEE | 273071 | [273071-tgsee.json](./273071-tgsee.json) |
 | Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Th3 Plan | 44698 | [44698-th3-plan.json](./44698-th3-plan.json) |
@@ -17463,6 +17465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadows in the Underworld | 51642 | [51642-the-shadows-in-the-underworld.json](./51642-the-shadows-in-the-underworld.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
+| The Shadows of Fallen City | 273599 | [273599-the-shadows-of-fallen-city.json](./273599-the-shadows-of-fallen-city.json) |
 | The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
 | The Shadows of Pygmalion | 30693 | [30693-the-shadows-of-pygmalion.json](./30693-the-shadows-of-pygmalion.json) |
 | The Shadows of Sergoth | 107055 | [107055-the-shadows-of-sergoth.json](./107055-the-shadows-of-sergoth.json) |
@@ -24768,6 +24771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless | 310093 | [310093-timeless.json](./310093-timeless.json) |
 | Timeless Adventure: A Journey to Begin | 134533 | [134533-timeless-adventure-a-journey-to-begin.json](./134533-timeless-adventure-a-journey-to-begin.json) |
+| Timeless Cafe | 273606 | [273606-timeless-cafe.json](./273606-timeless-cafe.json) |
 | Timeless Dual | 152809 | [152809-timeless-dual.json](./152809-timeless-dual.json) |
 | Timeless Heart VR | 235806 | [235806-timeless-heart-vr.json](./235806-timeless-heart-vr.json) |
 | Timeless hero | 185192 | [185192-timeless-hero.json](./185192-timeless-hero.json) |
