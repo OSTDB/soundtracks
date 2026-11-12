@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
 | Keep Gambling | 372530 | [372530-keep-gambling.json](./372530-keep-gambling.json) |
 | Keep Going | 312576 | [312576-keep-going.json](./312576-keep-going.json) |
+| Keep Health! | 301705 | [301705-keep-health.json](./301705-keep-health.json) |
 | Keep Her Awake | 352483 | [352483-keep-her-awake.json](./352483-keep-her-awake.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep in Mind | 98046 | [98046-keep-in-mind.json](./98046-keep-in-mind.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnapped in Vostok | 235596 | [235596-kidnapped-in-vostok.json](./235596-kidnapped-in-vostok.json) |
 | Kidnapped! A Royal Birthday | 150398 | [150398-kidnapped-a-royal-birthday.json](./150398-kidnapped-a-royal-birthday.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
+| Kidnelis | 302832 | [302832-kidnelis.json](./302832-kidnelis.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kido: Ride on Time | 148179 | [148179-kido-ride-on-time.json](./148179-kido-ride-on-time.json) |
@@ -2888,6 +2890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor 2: Horzine Diver Outfit Bundle | 332025 | [332025-killing-floor-2-horzine-diver-outfit-bundle.json](./332025-killing-floor-2-horzine-diver-outfit-bundle.json) |
+| Killing Floor 2: Last Stand Outfit Bundle | 301748 | [301748-killing-floor-2-last-stand-outfit-bundle.json](./301748-killing-floor-2-last-stand-outfit-bundle.json) |
+| Killing Floor 2: Reaper Outfit Bundle | 301754 | [301754-killing-floor-2-reaper-outfit-bundle.json](./301754-killing-floor-2-reaper-outfit-bundle.json) |
+| Killing Floor 2: S12 Shockgun Weapon Bundle | 301738 | [301738-killing-floor-2-s12-shockgun-weapon-bundle.json](./301738-killing-floor-2-s12-shockgun-weapon-bundle.json) |
 | Killing Floor 2: Ultimate Edition | 205000 | [205000-killing-floor-2-ultimate-edition.json](./205000-killing-floor-2-ultimate-edition.json) |
 | Killing Floor III: Day One Edition | 327555 | [327555-killing-floor-iii-day-one-edition.json](./327555-killing-floor-iii-day-one-edition.json) |
 | Killing Floor III: Deluxe Edition | 336131 | [336131-killing-floor-iii-deluxe-edition.json](./336131-killing-floor-iii-deluxe-edition.json) |
