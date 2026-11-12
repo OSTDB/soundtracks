@@ -35869,7 +35869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | Superball Mario: Neutral Special | 324634 | [324634-superball-mario-neutral-special.json](./324634-superball-mario-neutral-special.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
-| Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
 | Superbeat: Xonic - The X-Clusive Limited Edition | 89913 | [89913-superbeat-xonic-the-x-clusive-limited-edition.json](./89913-superbeat-xonic-the-x-clusive-limited-edition.json) |
 | Superbeat: Xonic - The X-Otic Limited Edition | 89912 | [89912-superbeat-xonic-the-x-otic-limited-edition.json](./89912-superbeat-xonic-the-x-otic-limited-edition.json) |
 | Superbike | 413993 | [413993-superbike.json](./413993-superbike.json) |
