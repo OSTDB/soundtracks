@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen Heaven | 209318 | [209318-ramen-heaven.json](./209318-ramen-heaven.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
+| Ramen Oil Pecking Simulator | 253620 | [253620-ramen-oil-pecking-simulator.json](./253620-ramen-oil-pecking-simulator.json) |
 | Ramen Oil Simulator | 296292 | [296292-ramen-oil-simulator.json](./296292-ramen-oil-simulator.json) |
 | Ramen or Jail | 190992 | [190992-ramen-or-jail.json](./190992-ramen-or-jail.json) |
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
 | RE: Alistair++ | 46942 | [46942-re-alistair.json](./46942-re-alistair.json) |
 | Re: Ashesz | 175016 | [175016-re-ashesz.json](./175016-re-ashesz.json) |
+| Re: Be | 253618 | [253618-re-be.json](./253618-re-be.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | Re: Collector | 202453 | [202453-re-collector.json](./202453-re-collector.json) |
 | RE: Crank Sim | 278570 | [278570-re-crank-sim.json](./278570-re-crank-sim.json) |
@@ -5835,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
 | Rescue Claw | 234992 | [234992-rescue-claw.json](./234992-rescue-claw.json) |
+| Rescue Contest | 253627 | [253627-rescue-contest.json](./253627-rescue-contest.json) |
 | Rescue Copter | 44977 | [44977-rescue-copter.json](./44977-rescue-copter.json) |
 | Rescue Copter | 80861 | [80861-rescue-copter.json](./80861-rescue-copter.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
