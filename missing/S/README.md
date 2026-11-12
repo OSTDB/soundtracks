@@ -11537,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Whistle | 161499 | [161499-silver-whistle.json](./161499-silver-whistle.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
+| Silver World | 290571 | [290571-silver-world.json](./290571-silver-world.json) |
 | Silver's Adventure | 326552 | [326552-silvers-adventure.json](./326552-silvers-adventure.json) |
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
 | Silverblood | 196931 | [196931-silverblood.json](./196931-silverblood.json) |
@@ -15257,6 +15258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Life | 189382 | [189382-small-life.json](./189382-small-life.json) |
+| Small Living World | 290563 | [290563-small-living-world.json](./290563-small-living-world.json) |
 | Small Living World 2 | 355699 | [355699-small-living-world-2.json](./355699-small-living-world-2.json) |
 | Small Maze | 311603 | [311603-small-maze.json](./311603-small-maze.json) |
 | Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
@@ -20901,6 +20903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Elite Force 2 in 1 | 213856 | [213856-space-elite-force-2-in-1.json](./213856-space-elite-force-2-in-1.json) |
 | Space Elite Force II | 128181 | [128181-space-elite-force-ii.json](./128181-space-elite-force-ii.json) |
 | Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
+| Space Empires I | 290580 | [290580-space-empires-i.json](./290580-space-empires-i.json) |
 | Space Empires II | 15650 | [15650-space-empires-ii.json](./15650-space-empires-ii.json) |
 | Space Empires III | 15651 | [15651-space-empires-iii.json](./15651-space-empires-iii.json) |
 | Space Empires IV | 15611 | [15611-space-empires-iv.json](./15611-space-empires-iv.json) |
