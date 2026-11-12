@@ -10179,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Game: Just Chill Out! | 199175 | [199175-ludo-game-just-chill-out.json](./199175-ludo-game-just-chill-out.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
+| Ludo Local Multiplayer | 272431 | [272431-ludo-local-multiplayer.json](./272431-ludo-local-multiplayer.json) |
 | Ludo Master | 54175 | [54175-ludo-master.json](./54175-ludo-master.json) |
 | Ludo Okpo | 237508 | [237508-ludo-okpo.json](./237508-ludo-okpo.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
@@ -10984,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyara | 224709 | [224709-lyara.json](./224709-lyara.json) |
 | Lyca | 332032 | [332032-lyca.json](./332032-lyca.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
+| Lycans | 272501 | [272501-lycans.json](./272501-lycans.json) |
 | Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
 | Lycanthropia | 413895 | [413895-lycanthropia.json](./413895-lycanthropia.json) |
