@@ -14480,6 +14480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide-A-Lama | 186456 | [186456-slide-a-lama.json](./186456-slide-a-lama.json) |
 | Slide: Animal Race | 174020 | [174020-slide-animal-race.json](./174020-slide-animal-race.json) |
 | Slide: Platformer | 35097 | [35097-slide-platformer.json](./35097-slide-platformer.json) |
+| Slide! | 305018 | [305018-slide.json](./305018-slide.json) |
+| Slide! | 305020 | [305020-slide.json](./305020-slide.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | Slide!! | 74194 | [74194-slide.json](./74194-slide.json) |
 | SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
@@ -15046,6 +15048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sluggish Morss: Pattern Circus | 139541 | [139541-sluggish-morss-pattern-circus.json](./139541-sluggish-morss-pattern-circus.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Sluggy's Fruit Emporium | 33401 | [33401-sluggys-fruit-emporium.json](./33401-sluggys-fruit-emporium.json) |
+| Sluggy's Tiny Adventure | 305047 | [305047-sluggys-tiny-adventure.json](./305047-sluggys-tiny-adventure.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
 | Slugmouth | 387141 | [387141-slugmouth.json](./387141-slugmouth.json) |
 | Slugs Destroyer | 55440 | [55440-slugs-destroyer.json](./55440-slugs-destroyer.json) |
@@ -24610,6 +24613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Puzzle | 235614 | [235614-spring-puzzle.json](./235614-spring-puzzle.json) |
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring Tales | 332190 | [332190-spring-tales.json](./332190-spring-tales.json) |
+| Spring Time | 305568 | [305568-spring-time.json](./305568-spring-time.json) |
 | Spring Time Excellent Cherry Blossom Fun | 179507 | [179507-spring-time-excellent-cherry-blossom-fun.json](./179507-spring-time-excellent-cherry-blossom-fun.json) |
 | Spring Vacations 2018 | 101084 | [101084-spring-vacations-2018.json](./101084-spring-vacations-2018.json) |
 | Spring World | 247285 | [247285-spring-world.json](./247285-spring-world.json) |
@@ -30038,6 +30042,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Dunk | 264320 | [264320-street-dunk.json](./264320-street-dunk.json) |
 | Street Errands | 360624 | [360624-street-errands.json](./360624-street-errands.json) |
 | Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
+| Street Fighter | 305035 | [305035-street-fighter.json](./305035-street-fighter.json) |
+| Street Fighter | 305038 | [305038-street-fighter.json](./305038-street-fighter.json) |
+| Street Fighter | 305041 | [305041-street-fighter.json](./305041-street-fighter.json) |
+| Street Fighter | 305043 | [305043-street-fighter.json](./305043-street-fighter.json) |
+| Street Fighter | 305045 | [305045-street-fighter.json](./305045-street-fighter.json) |
 | Street Fighter | 6930 | [6930-street-fighter.json](./6930-street-fighter.json) |
 | Street Fighter 2 | 330661 | [330661-street-fighter-2.json](./330661-street-fighter-2.json) |
 | Street Fighter 2010: The Final Fight | 217692 | [217692-street-fighter-2010-the-final-fight.json](./217692-street-fighter-2010-the-final-fight.json) |
