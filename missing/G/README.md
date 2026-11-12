@@ -6203,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Gourmet | 360029 | [360029-goblin-gourmet.json](./360029-goblin-gourmet.json) |
 | Goblin Head Golf | 180472 | [180472-goblin-head-golf.json](./180472-goblin-head-golf.json) |
+| Goblin Hotdogs | 304925 | [304925-goblin-hotdogs.json](./304925-goblin-hotdogs.json) |
 | Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
 | Goblin Invasion | 262749 | [262749-goblin-invasion.json](./262749-goblin-invasion.json) |
 | Goblin Island | 421253 | [421253-goblin-island.json](./421253-goblin-island.json) |
@@ -7120,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Assassin: Break of Egghead Mafia | 204831 | [204831-golf-assassin-break-of-egghead-mafia.json](./204831-golf-assassin-break-of-egghead-mafia.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
+| Golf Bash: Online | 304397 | [304397-golf-bash-online.json](./304397-golf-bash-online.json) |
 | Golf Battle | 111822 | [111822-golf-battle.json](./111822-golf-battle.json) |
 | Golf Blitz | 114534 | [114534-golf-blitz.json](./114534-golf-blitz.json) |
 | Golf Boy! | 103122 | [103122-golf-boy.json](./103122-golf-boy.json) |
