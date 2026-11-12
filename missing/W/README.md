@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
 | Wario Destroys A Glass of Milk | 307407 | [307407-wario-destroys-a-glass-of-milk.json](./307407-wario-destroys-a-glass-of-milk.json) |
 | Wario Eats Everything | 318028 | [318028-wario-eats-everything.json](./318028-wario-eats-everything.json) |
+| Wario in Generic RPG: Chapter 2 | 265888 | [265888-wario-in-generic-rpg-chapter-2.json](./265888-wario-in-generic-rpg-chapter-2.json) |
 | Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
 | Wario Land 3: The Master Quest | 308722 | [308722-wario-land-3-the-master-quest.json](./308722-wario-land-3-the-master-quest.json) |
 | Wario Land 4 | 1699 | [1699-wario-land-4.json](./1699-wario-land-4.json) |
@@ -5895,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wile E's Revenge | 214982 | [214982-wile-es-revenge.json](./214982-wile-es-revenge.json) |
 | Wilford Brimley Battle | 278040 | [278040-wilford-brimley-battle.json](./278040-wilford-brimley-battle.json) |
 | Wilford Island | 278041 | [278041-wilford-island.json](./278041-wilford-island.json) |
+| Wilfred the Hero, Part 1 | 265906 | [265906-wilfred-the-hero-part-1.json](./265906-wilfred-the-hero-part-1.json) |
 | Wilful Kitty | 241816 | [241816-wilful-kitty.json](./241816-wilful-kitty.json) |
 | Wilhelm Gustloff's Death | 168580 | [168580-wilhelm-gustloffs-death.json](./168580-wilhelm-gustloffs-death.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
