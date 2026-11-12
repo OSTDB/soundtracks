@@ -8682,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floats | 397834 | [397834-floats.json](./397834-floats.json) |
 | Floaty Brain In Space | 60893 | [60893-floaty-brain-in-space.json](./60893-floaty-brain-in-space.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
+| Floaty McFloatFace: Just Keep Floating | 300587 | [300587-floaty-mcfloatface-just-keep-floating.json](./300587-floaty-mcfloatface-just-keep-floating.json) |
 | Floaty Rescue | 390842 | [390842-floaty-rescue.json](./390842-floaty-rescue.json) |
 | Flob and the Shattered Dimension | 315323 | [315323-flob-and-the-shattered-dimension.json](./315323-flob-and-the-shattered-dimension.json) |
 | Flobe | 33718 | [33718-flobe.json](./33718-flobe.json) |
@@ -10710,6 +10711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Paths | 336859 | [336859-forgotten-paths.json](./336859-forgotten-paths.json) |
 | Forgotten Places: Lost Circus | 88549 | [88549-forgotten-places-lost-circus.json](./88549-forgotten-places-lost-circus.json) |
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
+| Forgotten Playland | 300569 | [300569-forgotten-playland.json](./300569-forgotten-playland.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
 | Forgotten Psychedelics | 332182 | [332182-forgotten-psychedelics.json](./332182-forgotten-psychedelics.json) |
@@ -10855,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formosa Duel | 64048 | [64048-formosa-duel.json](./64048-formosa-duel.json) |
 | Formula | 363652 | [363652-formula.json](./363652-formula.json) |
 | Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
+| Formula 1 | 300566 | [300566-formula-1.json](./300566-formula-1.json) |
 | Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
 | Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
 | Formula 1 Game & Watch: Playdate Version | 230721 | [230721-formula-1-game-and-watch-playdate-version.json](./230721-formula-1-game-and-watch-playdate-version.json) |
