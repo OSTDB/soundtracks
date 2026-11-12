@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Alive | 507 | [507-i-am-alive.json](./507-i-am-alive.json) |
 | I Am Alone Too | 179116 | [179116-i-am-alone-too.json](./179116-i-am-alone-too.json) |
 | I am an Air Traffic Controller 4 | 166065 | [166065-i-am-an-air-traffic-controller-4.json](./166065-i-am-an-air-traffic-controller-4.json) |
+| I am an Air Traffic Controller 4: Airport Nagoya - RJGG | 293809 | [293809-i-am-an-air-traffic-controller-4-airport-nagoya-rjgg.json](./293809-i-am-an-air-traffic-controller-4-airport-nagoya-rjgg.json) |
 | I am an Air Traffic Controller 4: Airport Naha - Roah | 166066 | [166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json](./166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json) |
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
 | I am an Air Traffic Controller Airport Hero Hawaii | 84545 | [84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json](./84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
 | I Got Cucked by a Futanari | 290811 | [290811-i-got-cucked-by-a-futanari.json](./290811-i-got-cucked-by-a-futanari.json) |
+| I Got Gooned by a Femboy | 293823 | [293823-i-got-gooned-by-a-femboy.json](./293823-i-got-gooned-by-a-femboy.json) |
 | I Got Hired To Guard The Button That Destroys The Earth | 340512 | [340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json](./340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json) |
 | I Got Isekai'd Into a Shmup | 311229 | [311229-i-got-isekaid-into-a-shmup.json](./311229-i-got-isekaid-into-a-shmup.json) |
 | I Got Sticky with a Femboy | 296700 | [296700-i-got-sticky-with-a-femboy.json](./296700-i-got-sticky-with-a-femboy.json) |
