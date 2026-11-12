@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
 | D.C.5 to 4: Luminous Memories - Deluxe Limited Edition | 408140 | [408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json](./408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json) |
 | D.C.5 to 4: Luminous Memories - First Press Edition | 408139 | [408139-d-c-5-to-4-luminous-memories-first-press-edition.json](./408139-d-c-5-to-4-luminous-memories-first-press-edition.json) |
+| D.C.5: Da Capo 5 | 270353 | [270353-d-c-5-da-capo-5.json](./270353-d-c-5-da-capo-5.json) |
 | D.C.5: Da Capo 5 Future Link | 283543 | [283543-d-c-5-da-capo-5-future-link.json](./283543-d-c-5-da-capo-5-future-link.json) |
 | D.C.F.S.: Da Capo Four Seasons | 371577 | [371577-d-c-f-s-da-capo-four-seasons.json](./371577-d-c-f-s-da-capo-four-seasons.json) |
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
