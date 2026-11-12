@@ -4401,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune Zero | 213714 | [213714-kitsune-zero.json](./213714-kitsune-zero.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
 | Kitsune's Paths | 331641 | [331641-kitsunes-paths.json](./331641-kitsunes-paths.json) |
+| Kitsunetsuki Project | 265920 | [265920-kitsunetsuki-project.json](./265920-kitsunetsuki-project.json) |
 | Kitsuni | 178835 | [178835-kitsuni.json](./178835-kitsuni.json) |
 | Kitt.Io | 168650 | [168650-kitt-io.json](./168650-kitt-io.json) |
 | Kitt's Quest | 291878 | [291878-kitts-quest.json](./291878-kitts-quest.json) |
