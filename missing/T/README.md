@@ -11704,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter Files: Case One | 398048 | [398048-the-hunter-files-case-one.json](./398048-the-hunter-files-case-one.json) |
 | The Hunter of Falkenberg | 188770 | [188770-the-hunter-of-falkenberg.json](./188770-the-hunter-of-falkenberg.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
+| The Hunter's Journals: Red Ripper | 284559 | [284559-the-hunters-journals-red-ripper.json](./284559-the-hunters-journals-red-ripper.json) |
 | The Hunter's Journals: Tattered Sails | 195895 | [195895-the-hunters-journals-tattered-sails.json](./195895-the-hunters-journals-tattered-sails.json) |
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
@@ -24809,6 +24810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | Timestamps: Unconditional Love | 224961 | [224961-timestamps-unconditional-love.json](./224961-timestamps-unconditional-love.json) |
+| Timestop Volleyball | 284542 | [284542-timestop-volleyball.json](./284542-timestop-volleyball.json) |
 | TimeTekker | 100423 | [100423-timetekker.json](./100423-timetekker.json) |
 | TimeToDie | 54833 | [54833-timetodie.json](./54833-timetodie.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
@@ -31977,6 +31979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter | 338951 | [338951-transporter.json](./338951-transporter.json) |
 | Transporter | 97978 | [97978-transporter.json](./97978-transporter.json) |
 | Transporter Euro Truck Car 18 | 107568 | [107568-transporter-euro-truck-car-18.json](./107568-transporter-euro-truck-car-18.json) |
+| Transporter Manager Tycoon | 284548 | [284548-transporter-manager-tycoon.json](./284548-transporter-manager-tycoon.json) |
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transports | 83896 | [83896-transports.json](./83896-transports.json) |
