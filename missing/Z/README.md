@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Jinrui 5 Man Nen Hikikomori | 334416 | [334416-zen-jinrui-5-man-nen-hikikomori.json](./334416-zen-jinrui-5-man-nen-hikikomori.json) |
 | Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
+| Zen Koi Pro | 308674 | [308674-zen-koi-pro.json](./308674-zen-koi-pro.json) |
 | Zen L'Initié | 181634 | [181634-zen-linitie.json](./181634-zen-linitie.json) |
 | Zen Lines | 219772 | [219772-zen-lines.json](./219772-zen-lines.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zooicide | 43124 | [43124-zooicide.json](./43124-zooicide.json) |
+| Zooika | 315383 | [315383-zooika.json](./315383-zooika.json) |
 | Zook Hero 2 | 311018 | [311018-zook-hero-2.json](./311018-zook-hero-2.json) |
 | Zook Hero 3 | 342980 | [342980-zook-hero-3.json](./342980-zook-hero-3.json) |
 | Zook Hero Z | 231542 | [231542-zook-hero-z.json](./231542-zook-hero-z.json) |
