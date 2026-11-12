@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
 | Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
 | Relentless Frontier | 164196 | [164196-relentless-frontier.json](./164196-relentless-frontier.json) |
+| Relentless Impetus | 310849 | [310849-relentless-impetus.json](./310849-relentless-impetus.json) |
 | Relentless Logic | 391471 | [391471-relentless-logic.json](./391471-relentless-logic.json) |
 | Relentless Rex | 110277 | [110277-relentless-rex.json](./110277-relentless-rex.json) |
 | Relentless: Ranger | 150397 | [150397-relentless-ranger.json](./150397-relentless-ranger.json) |
@@ -8710,6 +8711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritter | 106320 | [106320-ritter.json](./106320-ritter.json) |
+| Ritter & Rotwein | 310869 | [310869-ritter-and-rotwein.json](./310869-ritter-and-rotwein.json) |
 | Ritter Rost: Die eiserne Burg | 220950 | [220950-ritter-rost-die-eiserne-burg.json](./220950-ritter-rost-die-eiserne-burg.json) |
 | Ritterorden | 390083 | [390083-ritterorden.json](./390083-ritterorden.json) |
 | Ritterschlag | 398452 | [398452-ritterschlag.json](./398452-ritterschlag.json) |
@@ -11943,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
+| Roswell Ranch | 310843 | [310843-roswell-ranch.json](./310843-roswell-ranch.json) |
 | Roswell UFO Attack | 8358 | [8358-roswell-ufo-attack.json](./8358-roswell-ufo-attack.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Roswell's Journey | 212081 | [212081-roswells-journey.json](./212081-roswells-journey.json) |
