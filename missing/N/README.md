@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoTokyo | 19676 | [19676-neotokyo.json](./19676-neotokyo.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Neotrie VR | 112706 | [112706-neotrie-vr.json](./112706-neotrie-vr.json) |
+| Neotrogla | 246692 | [246692-neotrogla.json](./246692-neotrogla.json) |
 | Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
 | Neoverse Trinity Edition | 144451 | [144451-neoverse-trinity-edition.json](./144451-neoverse-trinity-edition.json) |
 | NEP League DS | 61403 | [61403-nep-league-ds.json](./61403-nep-league-ds.json) |
