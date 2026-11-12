@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
 | Elysium Restaurant | 367064 | [367064-elysium-restaurant.json](./367064-elysium-restaurant.json) |
+| Elysium Shells | 282335 | [282335-elysium-shells.json](./282335-elysium-shells.json) |
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium Trials | 257801 | [257801-elysium-trials.json](./257801-elysium-trials.json) |
 | Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
