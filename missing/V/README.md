@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veni, Vidi, Vici | 243479 | [243479-veni-vidi-vici.json](./243479-veni-vidi-vici.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice | 14810 | [14810-venice.json](./14810-venice.json) |
+| Venice After Dark | 247794 | [247794-venice-after-dark.json](./247794-venice-after-dark.json) |
 | Venice Bridges | 268821 | [268821-venice-bridges.json](./268821-venice-bridges.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
