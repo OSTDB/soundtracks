@@ -5722,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfie Girls | 271596 | [271596-selfie-girls.json](./271596-selfie-girls.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
 | Selfish Cupid | 254041 | [254041-selfish-cupid.json](./254041-selfish-cupid.json) |
+| Selfish Series | 275187 | [275187-selfish-series.json](./275187-selfish-series.json) |
 | Selfless Heroes | 131820 | [131820-selfless-heroes.json](./131820-selfless-heroes.json) |
 | Selfloss | 118622 | [118622-selfloss.json](./118622-selfloss.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
@@ -8170,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Storm | 204195 | [204195-sharp-storm.json](./204195-sharp-storm.json) |
+| Sharp Things | 275185 | [275185-sharp-things.json](./275185-sharp-things.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trigger 2 | 394145 | [394145-sharp-trigger-2.json](./394145-sharp-trigger-2.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
@@ -11152,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil | 148296 | [148296-sil.json](./148296-sil.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
+| Sil-Q | 275304 | [275304-sil-q.json](./275304-sil-q.json) |
 | Silah | 176195 | [176195-silah.json](./176195-silah.json) |
 | Silas | 91470 | [91470-silas.json](./91470-silas.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
@@ -32026,6 +32029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
 | Suika Game But Bouncy | 300536 | [300536-suika-game-but-bouncy.json](./300536-suika-game-but-bouncy.json) |
+| Suika Game Demake | 275276 | [275276-suika-game-demake.json](./275276-suika-game-demake.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
 | Suika Game: Multi-Player Mode Expansion Pack | 287855 | [287855-suika-game-multi-player-mode-expansion-pack.json](./287855-suika-game-multi-player-mode-expansion-pack.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
@@ -34624,6 +34628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World DX | 341956 | [341956-super-mario-world-dx.json](./341956-super-mario-world-dx.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
+| Super Mario World Redone | 275300 | [275300-super-mario-world-redone.json](./275300-super-mario-world-redone.json) |
 | Super Mario World Redone: Luigi Version | 278033 | [278033-super-mario-world-redone-luigi-version.json](./278033-super-mario-world-redone-luigi-version.json) |
 | Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
 | Super Mario World Remix | 141607 | [141607-super-mario-world-remix.json](./141607-super-mario-world-remix.json) |
@@ -34980,6 +34985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nova's Symphony | 177774 | [177774-super-novas-symphony.json](./177774-super-novas-symphony.json) |
 | Super Novel Collector (Speedrun Edition) | 126883 | [126883-super-novel-collector-speedrun-edition.json](./126883-super-novel-collector-speedrun-edition.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
+| Super Obama World | 275267 | [275267-super-obama-world.json](./275267-super-obama-world.json) |
 | Super Obliteration | 73648 | [73648-super-obliteration.json](./73648-super-obliteration.json) |
 | Super Ocho Bros. | 276027 | [276027-super-ocho-bros.json](./276027-super-ocho-bros.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
@@ -37404,7 +37410,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Danketsu | 291102 | [291102-suzumiya-haruhi-no-danketsu.json](./291102-suzumiya-haruhi-no-danketsu.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
+| Suzumiya Haruhi no Gyakuten | 275295 | [275295-suzumiya-haruhi-no-gyakuten.json](./275295-suzumiya-haruhi-no-gyakuten.json) |
 | Suzumiya Haruhi no Gyakuten 2 | 275504 | [275504-suzumiya-haruhi-no-gyakuten-2.json](./275504-suzumiya-haruhi-no-gyakuten-2.json) |
+| Suzumiya Haruhi no Gyakuten 2+1 | 275296 | [275296-suzumiya-haruhi-no-gyakuten-2-1.json](./275296-suzumiya-haruhi-no-gyakuten-2-1.json) |
+| Suzumiya Haruhi no Gyakuten 3 | 275297 | [275297-suzumiya-haruhi-no-gyakuten-3.json](./275297-suzumiya-haruhi-no-gyakuten-3.json) |
 | Suzumiya Haruhi no Heiretsu | 69110 | [69110-suzumiya-haruhi-no-heiretsu.json](./69110-suzumiya-haruhi-no-heiretsu.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tensei | 291103 | [291103-suzumiya-haruhi-no-tensei.json](./291103-suzumiya-haruhi-no-tensei.json) |
