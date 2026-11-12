@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenocity Online | 382353 | [382353-lenocity-online.json](./382353-lenocity-online.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens | 349181 | [349181-lens.json](./349181-lens.json) |
+| Lens Adventure | 306252 | [306252-lens-adventure.json](./306252-lens-adventure.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
 | Lens Life | 151345 | [151345-lens-life.json](./151345-lens-life.json) |
 | Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
