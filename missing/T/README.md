@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Simulator Driver: NY City Rides | 341381 | [341381-taxi-simulator-driver-ny-city-rides.json](./341381-taxi-simulator-driver-ny-city-rides.json) |
 | Taxi Simulator in City | 263702 | [263702-taxi-simulator-in-city.json](./263702-taxi-simulator-in-city.json) |
 | Taxi Taxi Sim | 224697 | [224697-taxi-taxi-sim.json](./224697-taxi-taxi-sim.json) |
+| Taxi Taxi Taxi | 279274 | [279274-taxi-taxi-taxi.json](./279274-taxi-taxi-taxi.json) |
 | Taxi Trouble | 275467 | [275467-taxi-trouble.json](./275467-taxi-trouble.json) |
 | Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
@@ -5390,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Musume DS: Terminal Memory | 71883 | [71883-tetsudou-musume-ds-terminal-memory.json](./71883-tetsudou-musume-ds-terminal-memory.json) |
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
 | Tetsudou Nippon! Real Pro Tokkyu Soko! Nagoya Tetsudou-hen | 233956 | [233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json](./233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json) |
+| Tetsudou Nippon! Real Pro Tokkyuu Romance Car! Odakyu Dentetsu-hen | 279193 | [279193-tetsudou-nippon-real-pro-tokkyuu-romance-car-odakyu-dentetsu-hen.json](./279193-tetsudou-nippon-real-pro-tokkyuu-romance-car-odakyu-dentetsu-hen.json) |
 | Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
 | Tetsudou Nippon! RealPro Tokkyu Soukou! Nagoya Tetsudou-hen | 254920 | [254920-tetsudou-nippon-realpro-tokkyu-soukou-nagoya-tetsudou-hen.json](./254920-tetsudou-nippon-realpro-tokkyu-soukou-nagoya-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi EX: Seiryuu Unten - Hasegawa Tetsudou-hen | 261366 | [261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json](./261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json) |
@@ -12667,6 +12669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
 | The Lampkeeper | 362150 | [362150-the-lampkeeper.json](./362150-the-lampkeeper.json) |
 | The Lamplighters League: Deluxe Edition | 255468 | [255468-the-lamplighters-league-deluxe-edition.json](./255468-the-lamplighters-league-deluxe-edition.json) |
+| The Lamplighters League: Isaac | 279282 | [279282-the-lamplighters-league-isaac.json](./279282-the-lamplighters-league-isaac.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Lancaster Leak: Entity Exam | 287920 | [287920-the-lancaster-leak-entity-exam.json](./287920-the-lancaster-leak-entity-exam.json) |
 | The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
@@ -30076,6 +30079,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: US Super Bundle | 239256 | [239256-train-sim-world-3-us-super-bundle.json](./239256-train-sim-world-3-us-super-bundle.json) |
 | Train Sim World 3: West Cornwall Local: Penzance - St Austell & St Ives Route | 215972 | [215972-train-sim-world-3-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./215972-train-sim-world-3-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
 | Train Sim World 3: West Somerset Railway | 225932 | [225932-train-sim-world-3-west-somerset-railway.json](./225932-train-sim-world-3-west-somerset-railway.json) |
+| Train Sim World 4 Compatible: Northeast Corridor - Boston: Providence Route Add-on | 279177 | [279177-train-sim-world-4-compatible-northeast-corridor-boston-providence-route-add-on.json](./279177-train-sim-world-4-compatible-northeast-corridor-boston-providence-route-add-on.json) |
+| Train Sim World 4 Compatible: West Somerset Railway | 279178 | [279178-train-sim-world-4-compatible-west-somerset-railway.json](./279178-train-sim-world-4-compatible-west-somerset-railway.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Austrian Regional Edition | 268833 | [268833-train-sim-world-4-austrian-regional-edition.json](./268833-train-sim-world-4-austrian-regional-edition.json) |
 | Train Sim World 4: Bahnstrecke Salzburg - Rosenheim Route Add-On | 293695 | [293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json](./293695-train-sim-world-4-bahnstrecke-salzburg-rosenheim-route-add-on.json) |
