@@ -7924,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Dogs Go to Heaven: Activity Center | 205117 | [205117-all-dogs-go-to-heaven-activity-center.json](./205117-all-dogs-go-to-heaven-activity-center.json) |
 | All Dream Long A Flower Storm | 164999 | [164999-all-dream-long-a-flower-storm.json](./164999-all-dream-long-a-flower-storm.json) |
 | All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
+| All Elite Wrestling: Fight Forever - Beat the Elite | 280407 | [280407-all-elite-wrestling-fight-forever-beat-the-elite.json](./280407-all-elite-wrestling-fight-forever-beat-the-elite.json) |
 | All Elite Wrestling: Fight Forever - Dynamite featuring The Acclaimed | 277788 | [277788-all-elite-wrestling-fight-forever-dynamite-featuring-the-acclaimed.json](./277788-all-elite-wrestling-fight-forever-dynamite-featuring-the-acclaimed.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Freebie 4 da Fans | 287120 | [287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json](./287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json) |
@@ -11962,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Nation | 21197 | [21197-ant-nation.json](./21197-ant-nation.json) |
 | Ant Queen | 32809 | [32809-ant-queen.json](./32809-ant-queen.json) |
 | Ant Run | 73925 | [73925-ant-run.json](./73925-ant-run.json) |
+| Ant secret | 280405 | [280405-ant-secret.json](./280405-ant-secret.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
@@ -17096,6 +17098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
 | Asteroids Minesweeper | 25807 | [25807-asteroids-minesweeper.json](./25807-asteroids-minesweeper.json) |
 | Asteroids Mining Saga | 238974 | [238974-asteroids-mining-saga.json](./238974-asteroids-mining-saga.json) |
+| Asteroids Neon | 280406 | [280406-asteroids-neon.json](./280406-asteroids-neon.json) |
 | Asteroids Origin | 181982 | [181982-asteroids-origin.json](./181982-asteroids-origin.json) |
 | Asteroids Recharged: Pro Arcade Edition | 350549 | [350549-asteroids-recharged-pro-arcade-edition.json](./350549-asteroids-recharged-pro-arcade-edition.json) |
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
