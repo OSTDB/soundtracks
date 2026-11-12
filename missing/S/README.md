@@ -4373,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Radiation | 286005 | [286005-sea-of-radiation.json](./286005-sea-of-radiation.json) |
 | Sea of Radiation 2 | 360154 | [360154-sea-of-radiation-2.json](./360154-sea-of-radiation-2.json) |
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
+| Sea Of Rifts | 279270 | [279270-sea-of-rifts.json](./279270-sea-of-rifts.json) |
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Solitude: The Director's Cut | 141535 | [141535-sea-of-solitude-the-directors-cut.json](./141535-sea-of-solitude-the-directors-cut.json) |
 | Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
@@ -16677,6 +16678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
 | Snow Plow Truck | 101488 | [101488-snow-plow-truck.json](./101488-snow-plow-truck.json) |
 | Snow Plowing Simulator | 218677 | [218677-snow-plowing-simulator.json](./218677-snow-plowing-simulator.json) |
+| Snow Plowing Simulator: First Snow | 279272 | [279272-snow-plowing-simulator-first-snow.json](./279272-snow-plowing-simulator-first-snow.json) |
 | Snow Plowing Simulator: Ski Resort | 374764 | [374764-snow-plowing-simulator-ski-resort.json](./374764-snow-plowing-simulator-ski-resort.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
 | Snow Queen Salon - Frosted Princess Makeover Game | 99347 | [99347-snow-queen-salon-frosted-princess-makeover-game.json](./99347-snow-queen-salon-frosted-princess-makeover-game.json) |
