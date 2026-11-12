@@ -11027,6 +11027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Mad | 397720 | [397720-roll-mad.json](./397720-roll-mad.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
+| Roll of Fate | 311911 | [311911-roll-of-fate.json](./311911-roll-of-fate.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll or Die | 417252 | [417252-roll-or-die.json](./417252-roll-or-die.json) |
 | Roll Out | 43151 | [43151-roll-out.json](./43151-roll-out.json) |
