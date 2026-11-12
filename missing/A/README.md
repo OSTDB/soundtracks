@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
+| Airanblade | 293820 | [293820-airanblade.json](./293820-airanblade.json) |
 | AirAttack 1 | 407148 | [407148-airattack-1.json](./407148-airattack-1.json) |
 | AirAttack 2 | 87919 | [87919-airattack-2.json](./87919-airattack-2.json) |
 | AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
