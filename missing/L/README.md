@@ -3892,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Out | 220605 | [220605-let-me-out.json](./220605-let-me-out.json) |
 | Let me Paddle : Difficult Boat Paddling Game | 336827 | [336827-let-me-paddle-difficult-boat-paddling-game.json](./336827-let-me-paddle-difficult-boat-paddling-game.json) |
 | Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
+| Let Me Sleep | 301170 | [301170-let-me-sleep.json](./301170-let-me-sleep.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let the Cat In | 35264 | [35264-let-the-cat-in.json](./35264-let-the-cat-in.json) |
 | Let Them Breathe: Hello Mother | 292332 | [292332-let-them-breathe-hello-mother.json](./292332-let-them-breathe-hello-mother.json) |
