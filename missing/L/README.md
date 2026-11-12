@@ -9418,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in School | 105695 | [105695-love-in-school.json](./105695-love-in-school.json) |
 | Love in Space | 309917 | [309917-love-in-space.json](./309917-love-in-space.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
+| Love in the Dark | 261573 | [261573-love-in-the-dark.json](./261573-love-in-the-dark.json) |
 | Love in the Distance | 143212 | [143212-love-in-the-distance.json](./143212-love-in-the-distance.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
