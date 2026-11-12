@@ -21798,6 +21798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother Rabbit | 104522 | [104522-my-brother-rabbit.json](./104522-my-brother-rabbit.json) |
 | My Brother Rabbit: Special Edition | 118518 | [118518-my-brother-rabbit-special-edition.json](./118518-my-brother-rabbit-special-edition.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
+| My Brother; The Parasite | 274161 | [274161-my-brother-the-parasite.json](./274161-my-brother-the-parasite.json) |
 | My Brute | 67882 | [67882-my-brute.json](./67882-my-brute.json) |
 | My Buddy Did Something Weird And Now I Have Feelings For Him??!?!? | 308285 | [308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json](./308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json) |
 | My Buddy Fisk | 299672 | [299672-my-buddy-fisk.json](./299672-my-buddy-fisk.json) |
