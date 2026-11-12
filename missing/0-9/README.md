@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rounds | 270067 | [270067-100-rounds.json](./270067-100-rounds.json) |
 | 100 Rub: Operation Global Denomination | 169676 | [169676-100-rub-operation-global-denomination.json](./169676-100-rub-operation-global-denomination.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
+| 100 Rules (To Live By) | 309763 | [309763-100-rules-to-live-by.json](./309763-100-rules-to-live-by.json) |
 | 100 Screamers | 325498 | [325498-100-screamers.json](./325498-100-screamers.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1024 | 61866 | [61866-1024.json](./61866-1024.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 1024 Units | 271455 | [271455-1024-units.json](./271455-1024-units.json) |
+| 1024^3 | 309261 | [309261-1024-3.json](./309261-1024-3.json) |
 | 103 | 108413 | [108413-103.json](./108413-103.json) |
 | 1066 | 101720 | [101720-1066.json](./101720-1066.json) |
 | 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
