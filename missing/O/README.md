@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
 | Omakase | 368220 | [368220-omakase.json](./368220-omakase.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
+| Omaku | 256487 | [256487-omaku.json](./256487-omaku.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
 | OmanaC: C2 | 213882 | [213882-omanac-c2.json](./213882-omanac-c2.json) |
 | Omapeli | 284878 | [284878-omapeli.json](./284878-omapeli.json) |
