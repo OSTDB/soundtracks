@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
 | L'Arche du Captain Blood | 39056 | [39056-larche-du-captain-blood.json](./39056-larche-du-captain-blood.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
+| L'automne | 299071 | [299071-lautomne.json](./299071-lautomne.json) |
 | L’Automne | 394586 | [394586-l-automne.json](./394586-l-automne.json) |
 | L'Avancée du Désert | 203841 | [203841-lavancee-du-desert.json](./203841-lavancee-du-desert.json) |
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
@@ -4808,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
+| Life Is Beautiful | 299617 | [299617-life-is-beautiful.json](./299617-life-is-beautiful.json) |
 | Life is Feudal: Arden | 321560 | [321560-life-is-feudal-arden.json](./321560-life-is-feudal-arden.json) |
 | Life is Feudal: Forest Village | 23345 | [23345-life-is-feudal-forest-village.json](./23345-life-is-feudal-forest-village.json) |
 | Life Is Feudal: MMO | 24611 | [24611-life-is-feudal-mmo.json](./24611-life-is-feudal-mmo.json) |
