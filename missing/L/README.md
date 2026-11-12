@@ -8308,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
+| Lord of Mask | 256568 | [256568-lord-of-mask.json](./256568-lord-of-mask.json) |
 | Lord of Metal | 348121 | [348121-lord-of-metal.json](./348121-lord-of-metal.json) |
 | Lord of Mysteries | 373593 | [373593-lord-of-mysteries.json](./373593-lord-of-mysteries.json) |
 | Lord of Nazarick | 317316 | [317316-lord-of-nazarick.json](./317316-lord-of-nazarick.json) |
@@ -10704,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | LunarLux | 134188 | [134188-lunarlux.json](./134188-lunarlux.json) |
+| Lunarpunk | 256565 | [256565-lunarpunk.json](./256565-lunarpunk.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunarsea | 74597 | [74597-lunarsea.json](./74597-lunarsea.json) |
