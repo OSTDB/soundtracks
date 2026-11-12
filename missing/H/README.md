@@ -5222,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Beach Girls | 167703 | [167703-hentai-beach-girls.json](./167703-hentai-beach-girls.json) |
 | Hentai Beach Memories | 247940 | [247940-hentai-beach-memories.json](./247940-hentai-beach-memories.json) |
 | Hentai Beauties | 265618 | [265618-hentai-beauties.json](./265618-hentai-beauties.json) |
+| Hentai Beautiful Girls | 292726 | [292726-hentai-beautiful-girls.json](./292726-hentai-beautiful-girls.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
 | Hentai beautiful girls 5 | 165819 | [165819-hentai-beautiful-girls-5.json](./165819-hentai-beautiful-girls-5.json) |
 | Hentai Beauty | 226172 | [226172-hentai-beauty.json](./226172-hentai-beauty.json) |
@@ -5260,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
 | Hentai Cheerleader | 239749 | [239749-hentai-cheerleader.json](./239749-hentai-cheerleader.json) |
 | Hentai ChessKnight | 365417 | [365417-hentai-chessknight.json](./365417-hentai-chessknight.json) |
+| Hentai Chicks | 292736 | [292736-hentai-chicks.json](./292736-hentai-chicks.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
 | Hentai Cho | 340428 | [340428-hentai-cho.json](./340428-hentai-cho.json) |
 | Hentai Christmas | 232802 | [232802-hentai-christmas.json](./232802-hentai-christmas.json) |
@@ -5408,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl Puzzle | 365428 | [365428-hentai-girl-puzzle.json](./365428-hentai-girl-puzzle.json) |
 | Hentai Girl Run | 365429 | [365429-hentai-girl-run.json](./365429-hentai-girl-run.json) |
 | Hentai Girl Seek | 365433 | [365433-hentai-girl-seek.json](./365433-hentai-girl-seek.json) |
+| Hentai Girl Sets | 292718 | [292718-hentai-girl-sets.json](./292718-hentai-girl-sets.json) |
 | Hentai Girl Slide Puzzle | 365435 | [365435-hentai-girl-slide-puzzle.json](./365435-hentai-girl-slide-puzzle.json) |
 | Hentai Girls | 251548 | [251548-hentai-girls.json](./251548-hentai-girls.json) |
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
@@ -5791,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shion | 411066 | [411066-hentai-shion.json](./411066-hentai-shion.json) |
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
 | Hentai Shojo | 368002 | [368002-hentai-shojo.json](./368002-hentai-shojo.json) |
+| Hentai Shooter 2: World Tour | 292730 | [292730-hentai-shooter-2-world-tour.json](./292730-hentai-shooter-2-world-tour.json) |
 | Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
@@ -5860,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Succubus Puzzle | 411206 | [411206-hentai-succubus-puzzle.json](./411206-hentai-succubus-puzzle.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
+| Hentai Super Girl | 292705 | [292705-hentai-super-girl.json](./292705-hentai-super-girl.json) |
 | Hentai Survive Island | 366518 | [366518-hentai-survive-island.json](./366518-hentai-survive-island.json) |
 | Hentai Survivors | 366519 | [366519-hentai-survivors.json](./366519-hentai-survivors.json) |
 | Hentai Sushi Jigsaw | 162987 | [162987-hentai-sushi-jigsaw.json](./162987-hentai-sushi-jigsaw.json) |
@@ -9596,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
 | Hollow Knight: The Grimm Troupe | 106817 | [106817-hollow-knight-the-grimm-troupe.json](./106817-hollow-knight-the-grimm-troupe.json) |
 | Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
+| Hollow Longing | 292720 | [292720-hollow-longing.json](./292720-hollow-longing.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Mind: The Lost Puppy | 169625 | [169625-hollow-mind-the-lost-puppy.json](./169625-hollow-mind-the-lost-puppy.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
@@ -10339,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor and Duty: Arcade Edition | 99530 | [99530-honor-and-duty-arcade-edition.json](./99530-honor-and-duty-arcade-edition.json) |
 | Honor and Duty: D-Day | 115996 | [115996-honor-and-duty-d-day.json](./115996-honor-and-duty-d-day.json) |
 | Honor Battle | 303565 | [303565-honor-battle.json](./303565-honor-battle.json) |
+| Honor Bound | 292722 | [292722-honor-bound.json](./292722-honor-bound.json) |
 | Honor Cry: Aftermath | 102946 | [102946-honor-cry-aftermath.json](./102946-honor-cry-aftermath.json) |
 | Honor Hill | 130110 | [130110-honor-hill.json](./130110-honor-hill.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
@@ -12088,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
 | How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
 | How to Be a Tree | 177185 | [177185-how-to-be-a-tree.json](./177185-how-to-be-a-tree.json) |
+| How to be Best Russian Game Developer | 292739 | [292739-how-to-be-best-russian-game-developer.json](./292739-how-to-be-best-russian-game-developer.json) |
 | How to Become a Ninja: Part 1 | 126353 | [126353-how-to-become-a-ninja-part-1.json](./126353-how-to-become-a-ninja-part-1.json) |
 | How to Blorrble-Blobble | 179007 | [179007-how-to-blorrble-blobble.json](./179007-how-to-blorrble-blobble.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
