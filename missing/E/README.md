@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | easy! A deluxe brainteaser! | 100613 | [100613-easy-a-deluxe-brainteaser.json](./100613-easy-a-deluxe-brainteaser.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
 | EasyChemistryLab | 202755 | [202755-easychemistrylab.json](./202755-easychemistrylab.json) |
+| Easyland | 309231 | [309231-easyland.json](./309231-easyland.json) |
 | Easyland 2 | 328065 | [328065-easyland-2.json](./328065-easyland-2.json) |
 | Easyland 3 | 379973 | [379973-easyland-3.json](./379973-easyland-3.json) |
 | EasyPianoGame | 130802 | [130802-easypianogame.json](./130802-easypianogame.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Cube | 308317 | [308317-elemental-cube.json](./308317-elemental-cube.json) |
 | Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
 | Elemental Defenders TD | 161496 | [161496-elemental-defenders-td.json](./161496-elemental-defenders-td.json) |
+| Elemental Dog Defense | 309708 | [309708-elemental-dog-defense.json](./309708-elemental-dog-defense.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Drifters | 386060 | [386060-elemental-drifters.json](./386060-elemental-drifters.json) |
 | Elemental Echoes | 158327 | [158327-elemental-echoes.json](./158327-elemental-echoes.json) |
@@ -2916,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ellrland Tales | 234459 | [234459-ellrland-tales.json](./234459-ellrland-tales.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
+| Ells Tales: Chicken | 309699 | [309699-ells-tales-chicken.json](./309699-ells-tales-chicken.json) |
 | Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
 | Elly | 147048 | [147048-elly.json](./147048-elly.json) |
@@ -6520,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fighter Zero | 60773 | [60773-eternal-fighter-zero.json](./60773-eternal-fighter-zero.json) |
 | Eternal Fighter Zero: Bad Moon Edition | 234639 | [234639-eternal-fighter-zero-bad-moon-edition.json](./234639-eternal-fighter-zero-bad-moon-edition.json) |
 | Eternal Fighter Zero: Blue Sky Edition | 234568 | [234568-eternal-fighter-zero-blue-sky-edition.json](./234568-eternal-fighter-zero-blue-sky-edition.json) |
+| Eternal Fighters | 309242 | [309242-eternal-fighters.json](./309242-eternal-fighters.json) |
 | Eternal Fury | 119570 | [119570-eternal-fury.json](./119570-eternal-fury.json) |
 | Eternal Gem | 280318 | [280318-eternal-gem.json](./280318-eternal-gem.json) |
 | Eternal Glory | 333339 | [333339-eternal-glory.json](./333339-eternal-glory.json) |
