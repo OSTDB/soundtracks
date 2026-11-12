@@ -7468,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace | 14172 | [14172-everspace.json](./14172-everspace.json) |
 | Everspace 2: Alienware Ship Skin | 321946 | [321946-everspace-2-alienware-ship-skin.json](./321946-everspace-2-alienware-ship-skin.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
+| Everspace 2: Supporter Pack | 311390 | [311390-everspace-2-supporter-pack.json](./311390-everspace-2-supporter-pack.json) |
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
