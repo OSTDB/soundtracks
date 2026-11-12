@@ -34912,8 +34912,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
 | Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
 | Super Metroid Eleven | 324514 | [324514-super-metroid-eleven.json](./324514-super-metroid-eleven.json) |
+| Super Metroid HOTA | 257624 | [257624-super-metroid-hota.json](./257624-super-metroid-hota.json) |
 | Super Metroid Kaizo Possible | 381397 | [381397-super-metroid-kaizo-possible.json](./381397-super-metroid-kaizo-possible.json) |
 | Super Metroid World | 323293 | [323293-super-metroid-world.json](./323293-super-metroid-world.json) |
+| Super Metroid YPX | 257623 | [257623-super-metroid-ypx.json](./257623-super-metroid-ypx.json) |
 | Super Metroid-Revamp | 377257 | [377257-super-metroid-revamp.json](./377257-super-metroid-revamp.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
 | Super Metroid: Ancient Chozo | 182259 | [182259-super-metroid-ancient-chozo.json](./182259-super-metroid-ancient-chozo.json) |
