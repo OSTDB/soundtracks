@@ -11279,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Marvel - Royalty & Warriors | 240949 | [240949-fortnite-marvel-royalty-and-warriors.json](./240949-fortnite-marvel-royalty-and-warriors.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
+| Fortnite: Operation Brite Starter pack | 293273 | [293273-fortnite-operation-brite-starter-pack.json](./293273-fortnite-operation-brite-starter-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
 | Fortnite: Robo-Kevin Pack | 227085 | [227085-fortnite-robo-kevin-pack.json](./227085-fortnite-robo-kevin-pack.json) |
 | Fortnite: Rogue Alias Pack | 305198 | [305198-fortnite-rogue-alias-pack.json](./305198-fortnite-rogue-alias-pack.json) |
@@ -13933,6 +13934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Fruity Friendz Adventurez | 340266 | [340266-fruity-friendz-adventurez.json](./340266-fruity-friendz-adventurez.json) |
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
+| Fruity Puzzler | 293368 | [293368-fruity-puzzler.json](./293368-fruity-puzzler.json) |
 | Fruity Rogue | 327702 | [327702-fruity-rogue.json](./327702-fruity-rogue.json) |
 | Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
 | Frupu VR Fruit Punch | 250717 | [250717-frupu-vr-fruit-punch.json](./250717-frupu-vr-fruit-punch.json) |
