@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear of Hunger | 353558 | [353558-fear-of-hunger.json](./353558-fear-of-hunger.json) |
 | Fear of Mine | 226560 | [226560-fear-of-mine.json](./226560-fear-of-mine.json) |
+| Fear of Neighbours | 253639 | [253639-fear-of-neighbours.json](./253639-fear-of-neighbours.json) |
 | Fear of Reptiles: Chapter 1 | 404595 | [404595-fear-of-reptiles-chapter-1.json](./404595-fear-of-reptiles-chapter-1.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
 | FeeBay Simulator | 404510 | [404510-feebay-simulator.json](./404510-feebay-simulator.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
+| Feeble Light | 253636 | [253636-feeble-light.json](./253636-feeble-light.json) |
 | Feeble Origins: Path of a Hero | 115056 | [115056-feeble-origins-path-of-a-hero.json](./115056-feeble-origins-path-of-a-hero.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
@@ -11075,6 +11077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Patrol | 92048 | [92048-forsaken-patrol.json](./92048-forsaken-patrol.json) |
 | Forsaken Portals | 164258 | [164258-forsaken-portals.json](./164258-forsaken-portals.json) |
+| Forsaken Quartet | 253632 | [253632-forsaken-quartet.json](./253632-forsaken-quartet.json) |
 | Forsaken Realm | 130124 | [130124-forsaken-realm.json](./130124-forsaken-realm.json) |
 | Forsaken Realms: Vahrin's Call | 110939 | [110939-forsaken-realms-vahrins-call.json](./110939-forsaken-realms-vahrins-call.json) |
 | Forsaken Remastered | 106102 | [106102-forsaken-remastered.json](./106102-forsaken-remastered.json) |
@@ -13780,6 +13783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostbound | 344112 | [344112-frostbound.json](./344112-frostbound.json) |
 | Frosted Love | 327402 | [327402-frosted-love.json](./327402-frosted-love.json) |
 | Frosten: Two Realms | 366122 | [366122-frosten-two-realms.json](./366122-frosten-two-realms.json) |
+| Frostfall | 253624 | [253624-frostfall.json](./253624-frostfall.json) |
 | Frostfire Planet | 139904 | [139904-frostfire-planet.json](./139904-frostfire-planet.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frostflame | 305675 | [305675-frostflame.json](./305675-frostflame.json) |
