@@ -12537,6 +12537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
 | RPG MO Sandbox | 102011 | [102011-rpg-mo-sandbox.json](./102011-rpg-mo-sandbox.json) |
 | RPG non RPG: Valhalla | 295107 | [295107-rpg-non-rpg-valhalla.json](./295107-rpg-non-rpg-valhalla.json) |
+| RPG NPC Simulator VR | 286733 | [286733-rpg-npc-simulator-vr.json](./286733-rpg-npc-simulator-vr.json) |
 | RPG Paper Maker | 117594 | [117594-rpg-paper-maker.json](./117594-rpg-paper-maker.json) |
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
