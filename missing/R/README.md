@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Blood | 52719 | [52719-red-blood.json](./52719-red-blood.json) |
 | Red Blue | 111197 | [111197-red-blue.json](./111197-red-blue.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
+| Red Book | 270251 | [270251-red-book.json](./270251-red-book.json) |
 | Red Book: Discordia Tales | 151825 | [151825-red-book-discordia-tales.json](./151825-red-book-discordia-tales.json) |
 | Red Booth | 381400 | [381400-red-booth.json](./381400-red-booth.json) |
 | Red Bow | 118122 | [118122-red-bow.json](./118122-red-bow.json) |
@@ -10573,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky | 77183 | [77183-rocky.json](./77183-rocky.json) |
 | Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
+| Rocky & Bullwinkle | 270264 | [270264-rocky-and-bullwinkle.json](./270264-rocky-and-bullwinkle.json) |
 | Rocky & Bullwinkle's Know-It-All Quiz Game | 58369 | [58369-rocky-and-bullwinkles-know-it-all-quiz-game.json](./58369-rocky-and-bullwinkles-know-it-all-quiz-game.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
 | Rocky Balboa | 23112 | [23112-rocky-balboa.json](./23112-rocky-balboa.json) |
