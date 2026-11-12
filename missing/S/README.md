@@ -6657,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex | 185852 | [185852-sex.json](./185852-sex.json) |
 | Sex | 77074 | [77074-sex.json](./77074-sex.json) |
 | Sex * Royale: The world that desires and pleasures interweave | 83093 | [83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json](./83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json) |
+| Sex & Blood: Vampires | 273600 | [273600-sex-and-blood-vampires.json](./273600-sex-and-blood-vampires.json) |
 | Sex & Coffee | 365918 | [365918-sex-and-coffee.json](./365918-sex-and-coffee.json) |
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
@@ -17280,6 +17281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
 | Socxel \| Pixel Soccer | 29628 | [29628-socxel-pixel-soccer.json](./29628-socxel-pixel-soccer.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
+| SOD: State of Disorder | 273607 | [273607-sod-state-of-disorder.json](./273607-sod-state-of-disorder.json) |
 | Soda City Tycoon | 106739 | [106739-soda-city-tycoon.json](./106739-soda-city-tycoon.json) |
 | Soda Crisis | 171963 | [171963-soda-crisis.json](./171963-soda-crisis.json) |
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
@@ -18151,6 +18153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solvalou | 39805 | [39805-solvalou.json](./39805-solvalou.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve et Coagula | 280910 | [280910-solve-et-coagula.json](./280910-solve-et-coagula.json) |
+| Solve The Case | 273535 | [273535-solve-the-case.json](./273535-solve-the-case.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | SolveIt! A Puzzle Solving Simulator | 390328 | [390328-solveit-a-puzzle-solving-simulator.json](./390328-solveit-a-puzzle-solving-simulator.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
@@ -23558,6 +23561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Schema | 286353 | [286353-spike-schema.json](./286353-spike-schema.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
+| Spike's Water Balloons | 273527 | [273527-spikes-water-balloons.json](./273527-spikes-water-balloons.json) |
 | Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
 | Spikeball Smash | 314980 | [314980-spikeball-smash.json](./314980-spikeball-smash.json) |
 | SpikeDislike | 61775 | [61775-spikedislike.json](./61775-spikedislike.json) |
@@ -30615,6 +30619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress explosion | 132505 | [132505-stress-explosion.json](./132505-stress-explosion.json) |
 | Stress Random | 169752 | [169752-stress-random.json](./169752-stress-random.json) |
 | Stress Relief | 374647 | [374647-stress-relief.json](./374647-stress-relief.json) |
+| Stress Relief Paintball | 273536 | [273536-stress-relief-paintball.json](./273536-stress-relief-paintball.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress testing | 267301 | [267301-stress-testing.json](./267301-stress-testing.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
@@ -33305,6 +33310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Cycle | 28460 | [28460-super-cycle.json](./28460-super-cycle.json) |
+| Super D | 273518 | [273518-super-d.json](./273518-super-d.json) |
 | Super Dai Senryaku 98 | 80725 | [80725-super-dai-senryaku-98.json](./80725-super-dai-senryaku-98.json) |
 | Super Daisenryaku | 27970 | [27970-super-daisenryaku.json](./27970-super-daisenryaku.json) |
 | Super Daisenryaku | 400829 | [400829-super-daisenryaku.json](./400829-super-daisenryaku.json) |
@@ -33505,6 +33511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighter | 247061 | [247061-super-fighter.json](./247061-super-fighter.json) |
 | Super Fighter | 69919 | [69919-super-fighter.json](./69919-super-fighter.json) |
+| Super Fighter M | 273525 | [273525-super-fighter-m.json](./273525-super-fighter-m.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Fights | 287562 | [287562-super-fights.json](./287562-super-fights.json) |
 | Super Filovirus Sisters! | 185451 | [185451-super-filovirus-sisters.json](./185451-super-filovirus-sisters.json) |
@@ -34634,6 +34641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
 | Super Mario World Central Production 2 | 210409 | [210409-super-mario-world-central-production-2.json](./210409-super-mario-world-central-production-2.json) |
 | Super Mario World DX | 341956 | [341956-super-mario-world-dx.json](./341956-super-mario-world-dx.json) |
+| Super Mario World Master Quest Reborn | 273533 | [273533-super-mario-world-master-quest-reborn.json](./273533-super-mario-world-master-quest-reborn.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
 | Super Mario World Redone | 275300 | [275300-super-mario-world-redone.json](./275300-super-mario-world-redone.json) |
