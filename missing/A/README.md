@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hunt for the Fae Folk | 323628 | [323628-a-hunt-for-the-fae-folk.json](./323628-a-hunt-for-the-fae-folk.json) |
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Hunter's Tale | 303119 | [303119-a-hunters-tale.json](./303119-a-hunters-tale.json) |
+| A Husk at Dusk | 287275 | [287275-a-husk-at-dusk.json](./287275-a-husk-at-dusk.json) |
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A JK Voice Actress and an Adult Script | 83188 | [83188-a-jk-voice-actress-and-an-adult-script.json](./83188-a-jk-voice-actress-and-an-adult-script.json) |
@@ -12523,6 +12524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
 | Apex Legends: Bangalore Edition | 170286 | [170286-apex-legends-bangalore-edition.json](./170286-apex-legends-bangalore-edition.json) |
 | Apex Legends: Bloodhound Edition | 136064 | [136064-apex-legends-bloodhound-edition.json](./136064-apex-legends-bloodhound-edition.json) |
+| Apex Legends: Breakout | 287272 | [287272-apex-legends-breakout.json](./287272-apex-legends-breakout.json) |
 | Apex Legends: Champions Edition | 140895 | [140895-apex-legends-champions-edition.json](./140895-apex-legends-champions-edition.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Eclipse | 223471 | [223471-apex-legends-eclipse.json](./223471-apex-legends-eclipse.json) |
@@ -17757,6 +17759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atarayo no Kanojo | 370558 | [370558-atarayo-no-kanojo.json](./370558-atarayo-no-kanojo.json) |
 | Atari | 220069 | [220069-atari.json](./220069-atari.json) |
 | Atari | 220073 | [220073-atari.json](./220073-atari.json) |
+| Atari | 287282 | [287282-atari.json](./287282-atari.json) |
 | Atari 4 Player Football | 250338 | [250338-atari-4-player-football.json](./250338-atari-4-player-football.json) |
 | Atari 50: Expanded Edition DLC Bundle | 328986 | [328986-atari-50-expanded-edition-dlc-bundle.json](./328986-atari-50-expanded-edition-dlc-bundle.json) |
 | Atari 50: The Anniversary Celebration - Digital Expanded Edition | 317917 | [317917-atari-50-the-anniversary-celebration-digital-expanded-edition.json](./317917-atari-50-the-anniversary-celebration-digital-expanded-edition.json) |
