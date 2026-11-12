@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | Wasted Shot | 309407 | [309407-wasted-shot.json](./309407-wasted-shot.json) |
 | Wasted World | 132384 | [132384-wasted-world.json](./132384-wasted-world.json) |
+| Wasted Youth, Part 1 | 293288 | [293288-wasted-youth-part-1.json](./293288-wasted-youth-part-1.json) |
 | Wasted: Will Be Brutal | 271552 | [271552-wasted-will-be-brutal.json](./271552-wasted-will-be-brutal.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | WasteFlow | 344116 | [344116-wasteflow.json](./344116-wasteflow.json) |
