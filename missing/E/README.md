@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
+| Ember Throne Online | 247807 | [247807-ember-throne-online.json](./247807-ember-throne-online.json) |
 | Ember: Console Edition | 175498 | [175498-ember-console-edition.json](./175498-ember-console-edition.json) |
 | Ember: Reignition | 257232 | [257232-ember-reignition.json](./257232-ember-reignition.json) |
 | Ember's Love | 224310 | [224310-embers-love.json](./224310-embers-love.json) |
