@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies on a cruise | 142029 | [142029-zombies-on-a-cruise.json](./142029-zombies-on-a-cruise.json) |
 | Zombies on a Plane | 36295 | [36295-zombies-on-a-plane.json](./36295-zombies-on-a-plane.json) |
 | Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
+| Zombies Rising Dawn | 272441 | [272441-zombies-rising-dawn.json](./272441-zombies-rising-dawn.json) |
 | Zombies Rising xXx | 274440 | [274440-zombies-rising-xxx.json](./274440-zombies-rising-xxx.json) |
 | Zombies Rocket Boom Boom | 233302 | [233302-zombies-rocket-boom-boom.json](./233302-zombies-rocket-boom-boom.json) |
 | Zombies Royale.io | 214688 | [214688-zombies-royale-io.json](./214688-zombies-royale-io.json) |
