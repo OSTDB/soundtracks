@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zappa Roidz | 85940 | [85940-zappa-roidz.json](./85940-zappa-roidz.json) |
 | Zapper | 202182 | [202182-zapper.json](./202182-zapper.json) |
 | Zapper: One Wicked Cricket! | 4583 | [4583-zapper-one-wicked-cricket.json](./4583-zapper-one-wicked-cricket.json) |
+| Zapping "Satsui" | 307991 | [307991-zapping-satsui.json](./307991-zapping-satsui.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
 | Zara the Fastest Fairy | 117959 | [117959-zara-the-fastest-fairy.json](./117959-zara-the-fastest-fairy.json) |
 | Zaraq | 319054 | [319054-zaraq.json](./319054-zaraq.json) |
