@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhall | 107681 | [107681-valhall.json](./107681-valhall.json) |
 | Valhall 2000 | 44259 | [44259-valhall-2000.json](./44259-valhall-2000.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
+| Valhalla | 259221 | [259221-valhalla.json](./259221-valhalla.json) |
 | Valhalla | 313350 | [313350-valhalla.json](./313350-valhalla.json) |
 | Valhalla | 351184 | [351184-valhalla.json](./351184-valhalla.json) |
 | Valhalla & the Fortress of Eve | 12810 | [12810-valhalla-and-the-fortress-of-eve.json](./12810-valhalla-and-the-fortress-of-eve.json) |
