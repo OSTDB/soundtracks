@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vattle Giuce | 57526 | [57526-vattle-giuce.json](./57526-vattle-giuce.json) |
 | Vattroller X | 59008 | [59008-vattroller-x.json](./59008-vattroller-x.json) |
+| Vaudeville | 252444 | [252444-vaudeville.json](./252444-vaudeville.json) |
 | Vault | 323483 | [323483-vault.json](./323483-vault.json) |
 | Vault 1080 | 389164 | [389164-vault-1080.json](./389164-vault-1080.json) |
 | Vault Apocalypsis | 264529 | [264529-vault-apocalypsis.json](./264529-vault-apocalypsis.json) |
