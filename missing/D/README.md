@@ -14799,6 +14799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Spinner | 348736 | [348736-dot-spinner.json](./348736-dot-spinner.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
+| Dot to Dot Sweep | 258679 | [258679-dot-to-dot-sweep.json](./258679-dot-to-dot-sweep.json) |
 | Dot to Dot: Connect the Dots | 97186 | [97186-dot-to-dot-connect-the-dots.json](./97186-dot-to-dot-connect-the-dots.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
