@@ -3654,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Maraiyum: Rise of the Setting Sun | 32026 | [32026-maraiyum-rise-of-the-setting-sun.json](./32026-maraiyum-rise-of-the-setting-sun.json) |
+| Maraka | 267703 | [267703-maraka.json](./267703-maraka.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
 | Marathon | 8709 | [8709-marathon.json](./8709-marathon.json) |
 | Marathon 2: Durandal | 8710 | [8710-marathon-2-durandal.json](./8710-marathon-2-durandal.json) |
