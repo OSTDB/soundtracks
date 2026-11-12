@@ -13576,6 +13576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
 | Colors Invasion | 424022 | [424022-colors-invasion.json](./424022-colors-invasion.json) |
+| Colors of Fate | 259788 | [259788-colors-of-fate.json](./259788-colors-of-fate.json) |
 | Colors of the Cube | 150382 | [150382-colors-of-the-cube.json](./150382-colors-of-the-cube.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
@@ -21865,6 +21866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope 2: Om Nom's Quest | 108611 | [108611-cut-the-rope-2-om-noms-quest.json](./108611-cut-the-rope-2-om-noms-quest.json) |
 | Cut the Rope 3 | 274873 | [274873-cut-the-rope-3.json](./274873-cut-the-rope-3.json) |
 | Cut the Rope 3DS | 85555 | [85555-cut-the-rope-3ds.json](./85555-cut-the-rope-3ds.json) |
+| Cut the Rope Daily | 259885 | [259885-cut-the-rope-daily.json](./259885-cut-the-rope-daily.json) |
 | Cut the Rope Remastered | 145634 | [145634-cut-the-rope-remastered.json](./145634-cut-the-rope-remastered.json) |
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
 | Cut the Rope: Experiments | 92498 | [92498-cut-the-rope-experiments.json](./92498-cut-the-rope-experiments.json) |
