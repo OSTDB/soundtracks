@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear: Ghosts of the Past | 295377 | [295377-fear-ghosts-of-the-past.json](./295377-fear-ghosts-of-the-past.json) |
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearbonding | 297073 | [297073-fearbonding.json](./297073-fearbonding.json) |
+| Fearcraft | 270840 | [270840-fearcraft.json](./270840-fearcraft.json) |
 | FeArea | 82534 | [82534-fearea.json](./82534-fearea.json) |
 | FeArea: Battle Royale | 126346 | [126346-fearea-battle-royale.json](./126346-fearea-battle-royale.json) |
 | FearFactor Institute | 356445 | [356445-fearfactor-institute.json](./356445-fearfactor-institute.json) |
