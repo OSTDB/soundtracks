@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion: A Tale of the Mind | 103035 | [103035-illusion-a-tale-of-the-mind.json](./103035-illusion-a-tale-of-the-mind.json) |
 | Illusion: Ghost Killer | 62513 | [62513-illusion-ghost-killer.json](./62513-illusion-ghost-killer.json) |
 | Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
+| Illusions | 270248 | [270248-illusions.json](./270248-illusions.json) |
 | Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illusions of Loyalty | 125536 | [125536-illusions-of-loyalty.json](./125536-illusions-of-loyalty.json) |
