@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
 | Keyboard Souls | 309896 | [309896-keyboard-souls.json](./309896-keyboard-souls.json) |
 | Keyboard Sports: Saving Qwerty | 55592 | [55592-keyboard-sports-saving-qwerty.json](./55592-keyboard-sports-saving-qwerty.json) |
+| Keyboard Tennis | 306260 | [306260-keyboard-tennis.json](./306260-keyboard-tennis.json) |
 | Keyboard Warrior | 343590 | [343590-keyboard-warrior.json](./343590-keyboard-warrior.json) |
 | Keyboard Warrior | 343591 | [343591-keyboard-warrior.json](./343591-keyboard-warrior.json) |
 | Keyboard Warrior | 395607 | [395607-keyboard-warrior.json](./395607-keyboard-warrior.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
 | Kingdom's Architect | 313648 | [313648-kingdoms-architect.json](./313648-kingdoms-architect.json) |
 | Kingdom's Deck | 280095 | [280095-kingdoms-deck.json](./280095-kingdoms-deck.json) |
+| Kingdom's Dungeon Rage | 306746 | [306746-kingdoms-dungeon-rage.json](./306746-kingdoms-dungeon-rage.json) |
 | Kingdom's Edge | 207610 | [207610-kingdoms-edge.json](./207610-kingdoms-edge.json) |
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
 | Kingdom's Item Shop | 85228 | [85228-kingdoms-item-shop.json](./85228-kingdoms-item-shop.json) |
