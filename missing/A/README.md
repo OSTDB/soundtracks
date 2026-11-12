@@ -9946,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anant Express | 361950 | [361950-anant-express.json](./361950-anant-express.json) |
 | Anant Shrankhla | 244664 | [244664-anant-shrankhla.json](./244664-anant-shrankhla.json) |
+| Ananta | 262712 | [262712-ananta.json](./262712-ananta.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anaphora | 274916 | [274916-anaphora.json](./274916-anaphora.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
