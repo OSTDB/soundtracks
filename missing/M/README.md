@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Jam | 316024 | [316024-mario-jam.json](./316024-mario-jam.json) |
 | Mario Kart | 221269 | [221269-mario-kart.json](./221269-mario-kart.json) |
 | Mario Kart | 247274 | [247274-mario-kart.json](./247274-mario-kart.json) |
+| Mario Kart 64 Chaos Blast | 264849 | [264849-mario-kart-64-chaos-blast.json](./264849-mario-kart-64-chaos-blast.json) |
 | Mario Kart 64 Deluxe | 254601 | [254601-mario-kart-64-deluxe.json](./254601-mario-kart-64-deluxe.json) |
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
@@ -15449,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Dream Nine Mobile | 291156 | [291156-mlb-dream-nine-mobile.json](./291156-mlb-dream-nine-mobile.json) |
 | MLB Dugout Heroes | 91746 | [91746-mlb-dugout-heroes.json](./91746-mlb-dugout-heroes.json) |
 | MLB Front Office Manager | 7073 | [7073-mlb-front-office-manager.json](./7073-mlb-front-office-manager.json) |
+| MLB Home Run Derby | 264942 | [264942-mlb-home-run-derby.json](./264942-mlb-home-run-derby.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby 2020 | 133805 | [133805-mlb-home-run-derby-2020.json](./133805-mlb-home-run-derby-2020.json) |
 | MLB Home Run Derby 2022 | 234507 | [234507-mlb-home-run-derby-2022.json](./234507-mlb-home-run-derby-2022.json) |
