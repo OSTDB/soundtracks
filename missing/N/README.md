@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Hook Girl | 78190 | [78190-new-super-hook-girl.json](./78190-new-super-hook-girl.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
+| New Super Mario 64 DS | 314554 | [314554-new-super-mario-64-ds.json](./314554-new-super-mario-64-ds.json) |
 | New Super Mario All-Stars HD | 178381 | [178381-new-super-mario-all-stars-hd.json](./178381-new-super-mario-all-stars-hd.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
 | New Super Mario Bros. 2: Coin Challenge Pack A | 134173 | [134173-new-super-mario-bros-2-coin-challenge-pack-a.json](./134173-new-super-mario-bros-2-coin-challenge-pack-a.json) |
@@ -7083,7 +7084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Norbert's Diary | 309800 | [309800-norberts-diary.json](./309800-norberts-diary.json) |
-| Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nord | 18949 | [18949-nord.json](./18949-nord.json) |
 | Nord and Bert Couldn't Make Head or Tail of It | 12619 | [12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json](./12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json) |
 | Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
