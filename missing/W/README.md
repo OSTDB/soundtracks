@@ -7599,6 +7599,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woman Guerrillero | 298516 | [298516-woman-guerrillero.json](./298516-woman-guerrillero.json) |
 | Woman Simulator | 378548 | [378548-woman-simulator.json](./378548-woman-simulator.json) |
 | Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
+| Woman's Body 2 | 292737 | [292737-womans-body-2.json](./292737-womans-body-2.json) |
+| Woman's Body: For Adults | 292734 | [292734-womans-body-for-adults.json](./292734-womans-body-for-adults.json) |
 | Woman's Prison | 151343 | [151343-womans-prison.json](./151343-womans-prison.json) |
 | Womanizer | 274688 | [274688-womanizer.json](./274688-womanizer.json) |
 | Womb | 262595 | [262595-womb.json](./262595-womb.json) |
