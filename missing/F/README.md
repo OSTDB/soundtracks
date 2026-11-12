@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Research | 398168 | [398168-fatal-research.json](./398168-fatal-research.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
+| Fatal Run | 276431 | [276431-fatal-run.json](./276431-fatal-run.json) |
 | Fatal Run 2089 | 314781 | [314781-fatal-run-2089.json](./314781-fatal-run-2089.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
+| Final Alone in the Dark | 276361 | [276361-final-alone-in-the-dark.json](./276361-final-alone-in-the-dark.json) |
 | Final Apex | 289268 | [289268-final-apex.json](./289268-final-apex.json) |
 | Final Approach | 18973 | [18973-final-approach.json](./18973-final-approach.json) |
 | Final Approach | 95485 | [95485-final-approach.json](./95485-final-approach.json) |
@@ -13521,6 +13523,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Armies | 200230 | [200230-front-armies.json](./200230-front-armies.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Frontiers | 364771 | [364771-front-frontiers.json](./364771-front-frontiers.json) |
+| Front Line | 276434 | [276434-front-line.json](./276434-front-line.json) |
+| Front Line | 276438 | [276438-front-line.json](./276438-front-line.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
 | Front Line Pack | 83741 | [83741-front-line-pack.json](./83741-front-line-pack.json) |
 | Front Lines | 178121 | [178121-front-lines.json](./178121-front-lines.json) |
