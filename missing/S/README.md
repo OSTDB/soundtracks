@@ -23872,6 +23872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
 | Spirits' Creek | 223355 | [223355-spirits-creek.json](./223355-spirits-creek.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
+| SpiritScape | 288380 | [288380-spiritscape.json](./288380-spiritscape.json) |
 | SpiritSphere DX | 78142 | [78142-spiritsphere-dx.json](./78142-spiritsphere-dx.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
@@ -29956,6 +29957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 53676 | [53676-stray-souls-stolen-memories-collectors-edition.json](./53676-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
+| Stray: Exotic | 288383 | [288383-stray-exotic.json](./288383-stray-exotic.json) |
 | Stray: Iam8bit Exclusive Edition | 239540 | [239540-stray-iam8bit-exclusive-edition.json](./239540-stray-iam8bit-exclusive-edition.json) |
 | Straya | 149516 | [149516-straya.json](./149516-straya.json) |
 | Straycloud | 404931 | [404931-straycloud.json](./404931-straycloud.json) |
@@ -32404,6 +32406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Tis the Season Pack | 389570 | [389570-sun-haven-tis-the-season-pack.json](./389570-sun-haven-tis-the-season-pack.json) |
 | Sun Haven: Toy Pack | 306511 | [306511-sun-haven-toy-pack.json](./306511-sun-haven-toy-pack.json) |
 | Sun Haven: Trick or Treat Pack | 272917 | [272917-sun-haven-trick-or-treat-pack.json](./272917-sun-haven-trick-or-treat-pack.json) |
+| Sun In The Shade | 288417 | [288417-sun-in-the-shade.json](./288417-sun-in-the-shade.json) |
 | Sun Is Dead | 294274 | [294274-sun-is-dead.json](./294274-sun-is-dead.json) |
 | Sun Lotion On My Curvy Asscheeks | 262269 | [262269-sun-lotion-on-my-curvy-asscheeks.json](./262269-sun-lotion-on-my-curvy-asscheeks.json) |
 | Sun Machine | 139538 | [139538-sun-machine.json](./139538-sun-machine.json) |
@@ -38322,6 +38325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sworder: The Inverse Tower | 422817 | [422817-sworder-the-inverse-tower.json](./422817-sworder-the-inverse-tower.json) |
 | Swordeye | 266021 | [266021-swordeye.json](./266021-swordeye.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
+| Swordfight Story | 288413 | [288413-swordfight-story.json](./288413-swordfight-story.json) |
 | Swordfighting for People Who Are Really Bad at Swordfighting | 362797 | [362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json](./362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json) |
 | Swordfish | 272656 | [272656-swordfish.json](./272656-swordfish.json) |
 | Swordflight | 358271 | [358271-swordflight.json](./358271-swordflight.json) |
