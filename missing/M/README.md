@@ -12565,6 +12565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou Monogatari: Sanae Episode | 62526 | [62526-miko-gakkou-monogatari-sanae-episode.json](./62526-miko-gakkou-monogatari-sanae-episode.json) |
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Girls | 353581 | [353581-miko-girls.json](./353581-miko-girls.json) |
+| Miko in Maguma | 296305 | [296305-miko-in-maguma.json](./296305-miko-in-maguma.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Melee | 204043 | [204043-miko-melee.json](./204043-miko-melee.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
@@ -13634,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
 | Minesweeper | 245020 | [245020-minesweeper.json](./245020-minesweeper.json) |
 | Minesweeper | 267982 | [267982-minesweeper.json](./267982-minesweeper.json) |
+| Minesweeper | 296301 | [296301-minesweeper.json](./296301-minesweeper.json) |
 | Minesweeper | 304543 | [304543-minesweeper.json](./304543-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
@@ -15725,6 +15727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi Jump | 280647 | [280647-mochi-jump.json](./280647-mochi-jump.json) |
 | Mochi Making Mischief | 134854 | [134854-mochi-making-mischief.json](./134854-mochi-making-mischief.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
+| Mochi Sprint | 296297 | [296297-mochi-sprint.json](./296297-mochi-sprint.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
 | Mochi's Cosy Quest | 333905 | [333905-mochis-cosy-quest.json](./333905-mochis-cosy-quest.json) |
