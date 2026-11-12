@@ -8657,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Economica: Episode.02 | 35327 | [35327-world-end-economica-episode-02.json](./35327-world-end-economica-episode-02.json) |
 | World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
+| World End Heart Girl | 260922 | [260922-world-end-heart-girl.json](./260922-world-end-heart-girl.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
 | World Engine Fantazion | 279808 | [279808-world-engine-fantazion.json](./279808-world-engine-fantazion.json) |
