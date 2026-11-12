@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum: Map Pack 1 | 26274 | [26274-sanctum-map-pack-1.json](./26274-sanctum-map-pack-1.json) |
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctum: Yogscave | 376518 | [376518-sanctum-yogscave.json](./376518-sanctum-yogscave.json) |
+| Sanctumate | 252438 | [252438-sanctumate.json](./252438-sanctumate.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Gomoku Online | 261318 | [261318-simply-gomoku-online.json](./261318-simply-gomoku-online.json) |
 | Simply HangMan | 68525 | [68525-simply-hangman.json](./68525-simply-hangman.json) |
 | Simply Hard Platformer | 157344 | [157344-simply-hard-platformer.json](./157344-simply-hard-platformer.json) |
+| Simply Ludo | 252424 | [252424-simply-ludo.json](./252424-simply-ludo.json) |
 | Simply Mahjong | 85370 | [85370-simply-mahjong.json](./85370-simply-mahjong.json) |
 | Simply Mahjong puzzle game | 88261 | [88261-simply-mahjong-puzzle-game.json](./88261-simply-mahjong-puzzle-game.json) |
 | Simply Mazes | 105806 | [105806-simply-mazes.json](./105806-simply-mazes.json) |
@@ -15580,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
 | Smash Legends | 138592 | [138592-smash-legends.json](./138592-smash-legends.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
+| Smash Mania | 252429 | [252429-smash-mania.json](./252429-smash-mania.json) |
 | Smash Match | 340990 | [340990-smash-match.json](./340990-smash-match.json) |
 | Smash Mobs | 51551 | [51551-smash-mobs.json](./51551-smash-mobs.json) |
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
@@ -33623,6 +33626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Emoji Murder Death God Labyrinth | 428435 | [428435-super-emoji-murder-death-god-labyrinth.json](./428435-super-emoji-murder-death-god-labyrinth.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
+| Super Epic Random Bard Guy | 252455 | [252455-super-epic-random-bard-guy.json](./252455-super-epic-random-bard-guy.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
 | Super Exploding Zoo | 22775 | [22775-super-exploding-zoo.json](./22775-super-exploding-zoo.json) |
 | Super Extra Team Dungeon Game | 287528 | [287528-super-extra-team-dungeon-game.json](./287528-super-extra-team-dungeon-game.json) |
