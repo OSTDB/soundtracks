@@ -6094,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
 | Resident Evil: Confidential Report | 251364 | [251364-resident-evil-confidential-report.json](./251364-resident-evil-confidential-report.json) |
+| Resident Evil: Containment | 269801 | [269801-resident-evil-containment.json](./269801-resident-evil-containment.json) |
 | Resident Evil: Dead Aim | 971 | [971-resident-evil-dead-aim.json](./971-resident-evil-dead-aim.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
 | Resident Evil: Deep Freeze | 356555 | [356555-resident-evil-deep-freeze.json](./356555-resident-evil-deep-freeze.json) |
