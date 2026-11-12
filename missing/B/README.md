@@ -19021,6 +19021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hop: Eggstreme | 211481 | [211481-bunny-hop-eggstreme.json](./211481-bunny-hop-eggstreme.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
+| Bunny Hungry | 286161 | [286161-bunny-hungry.json](./286161-bunny-hungry.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
 | Bunny Jewel Match Adventure | 173034 | [173034-bunny-jewel-match-adventure.json](./173034-bunny-jewel-match-adventure.json) |
 | Bunny Love Expert | 333216 | [333216-bunny-love-expert.json](./333216-bunny-love-expert.json) |
