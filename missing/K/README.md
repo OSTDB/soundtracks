@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaidro: Clan Battles | 289824 | [289824-kaidro-clan-battles.json](./289824-kaidro-clan-battles.json) |
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
+| Kaii Rinne kara no Dasshutsu | 272428 | [272428-kaii-rinne-kara-no-dasshutsu.json](./272428-kaii-rinne-kara-no-dasshutsu.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
 | Kaiject | 409320 | [409320-kaiject.json](./409320-kaiject.json) |
 | Kaiji VR: The Nightmare Bridge | 28359 | [28359-kaiji-vr-the-nightmare-bridge.json](./28359-kaiji-vr-the-nightmare-bridge.json) |
@@ -6884,6 +6885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyou no Sekai: Crazy World | 166039 | [166039-kyou-no-sekai-crazy-world.json](./166039-kyou-no-sekai-crazy-world.json) |
 | Kyouai Renka | 285376 | [285376-kyouai-renka.json](./285376-kyouai-renka.json) |
 | Kyoufu no Kankin House | 251603 | [251603-kyoufu-no-kankin-house.json](./251603-kyoufu-no-kankin-house.json) |
+| Kyoufu no Nou-tre | 272429 | [272429-kyoufu-no-nou-tre.json](./272429-kyoufu-no-nou-tre.json) |
 | Kyoufu Shinbun | 77394 | [77394-kyoufu-shinbun.json](./77394-kyoufu-shinbun.json) |
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
