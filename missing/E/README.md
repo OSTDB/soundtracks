@@ -5730,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Pharaoh's Tomb | 312084 | [312084-escape-from-the-pharaohs-tomb.json](./312084-escape-from-the-pharaohs-tomb.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Plateau Puzzle | 88423 | [88423-escape-from-the-plateau-puzzle.json](./88423-escape-from-the-plateau-puzzle.json) |
+| Escape From The Police | 309772 | [309772-escape-from-the-police.json](./309772-escape-from-the-police.json) |
 | Escape from the Princess | 108661 | [108661-escape-from-the-princess.json](./108661-escape-from-the-princess.json) |
 | Escape from the Pyramid | 56192 | [56192-escape-from-the-pyramid.json](./56192-escape-from-the-pyramid.json) |
 | Escape From the Red Planet | 224818 | [224818-escape-from-the-red-planet.json](./224818-escape-from-the-red-planet.json) |
