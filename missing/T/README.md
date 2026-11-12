@@ -12187,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Juice of God's Future | 176387 | [176387-the-juice-of-gods-future.json](./176387-the-juice-of-gods-future.json) |
 | The Jump 2016 | 109997 | [109997-the-jump-2016.json](./109997-the-jump-2016.json) |
 | The jump guys | 285883 | [285883-the-jump-guys.json](./285883-the-jump-guys.json) |
+| The Jumper Ninja | 307994 | [307994-the-jumper-ninja.json](./307994-the-jumper-ninja.json) |
 | The Jumping Apple | 344128 | [344128-the-jumping-apple.json](./344128-the-jumping-apple.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
@@ -24185,6 +24186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilelicious: Delicious Tiles | 85445 | [85445-tilelicious-delicious-tiles.json](./85445-tilelicious-delicious-tiles.json) |
 | TileMan.io | 262188 | [262188-tileman-io.json](./262188-tileman-io.json) |
 | Tilemancer | 420752 | [420752-tilemancer.json](./420752-tilemancer.json) |
+| Tilemancer Dungeon | 307480 | [307480-tilemancer-dungeon.json](./307480-tilemancer-dungeon.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | TileRogue | 94295 | [94295-tilerogue.json](./94295-tilerogue.json) |
@@ -35529,6 +35531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister - Best Ride Simulators | 96804 | [96804-twister-best-ride-simulators.json](./96804-twister-best-ride-simulators.json) |
+| Twister Icefun | 307360 | [307360-twister-icefun.json](./307360-twister-icefun.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
