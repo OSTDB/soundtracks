@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rage | 166416 | [166416-red-rage.json](./166416-red-rage.json) |
 | Red Rampant | 304417 | [304417-red-rampant.json](./304417-red-rampant.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
+| Red Red Tarmac: XL Deluxe | 294613 | [294613-red-red-tarmac-xl-deluxe.json](./294613-red-red-tarmac-xl-deluxe.json) |
 | Red Remover Blast | 253266 | [253266-red-remover-blast.json](./253266-red-remover-blast.json) |
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
@@ -12403,6 +12404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Roads | 111971 | [111971-royal-roads.json](./111971-royal-roads.json) |
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Roads 3 Portal | 212653 | [212653-royal-roads-3-portal.json](./212653-royal-roads-3-portal.json) |
+| Royal Roads Bundle | 294893 | [294893-royal-roads-bundle.json](./294893-royal-roads-bundle.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
 | Royal Romances: Cursed Hearts - Collector's Edition | 278252 | [278252-royal-romances-cursed-hearts-collectors-edition.json](./278252-royal-romances-cursed-hearts-collectors-edition.json) |
