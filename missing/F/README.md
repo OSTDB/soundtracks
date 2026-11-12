@@ -6833,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fischfutter | 390810 | [390810-fischfutter.json](./390810-fischfutter.json) |
 | Fisco 400 | 172600 | [172600-fisco-400.json](./172600-fisco-400.json) |
 | Fish | 152138 | [152138-fish.json](./152138-fish.json) |
+| Fish | 274709 | [274709-fish.json](./274709-fish.json) |
 | Fish | 293223 | [293223-fish.json](./293223-fish.json) |
 | Fish | 309869 | [309869-fish.json](./309869-fish.json) |
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flam the Purge of the Century | 201088 | [201088-flam-the-purge-of-the-century.json](./201088-flam-the-purge-of-the-century.json) |
 | Flamango | 180034 | [180034-flamango.json](./180034-flamango.json) |
+| Flambeau: Deluxxx Edition | 274700 | [274700-flambeau-deluxxx-edition.json](./274700-flambeau-deluxxx-edition.json) |
 | Flamberge | 18359 | [18359-flamberge.json](./18359-flamberge.json) |
 | Flamberge no Seirei | 383086 | [383086-flamberge-no-seirei.json](./383086-flamberge-no-seirei.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
@@ -13074,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Night | 12591 | [12591-fright-night.json](./12591-fright-night.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | Fright Night Sex Fest | 169574 | [169574-fright-night-sex-fest.json](./169574-fright-night-sex-fest.json) |
+| Fright Night Sex Fest: We All Fuck Down Here | 274701 | [274701-fright-night-sex-fest-we-all-fuck-down-here.json](./274701-fright-night-sex-fest-we-all-fuck-down-here.json) |
 | Fright Train | 376511 | [376511-fright-train.json](./376511-fright-train.json) |
 | Fright: Collector's Edition | 125647 | [125647-fright-collectors-edition.json](./125647-fright-collectors-edition.json) |
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
@@ -14543,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Beans | 295961 | [295961-funky-beans.json](./295961-funky-beans.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
+| Funky Cards Arena | 274719 | [274719-funky-cards-arena.json](./274719-funky-cards-arena.json) |
 | Funky Fantasy | 77226 | [77226-funky-fantasy.json](./77226-funky-fantasy.json) |
 | Funky Fish | 281194 | [281194-funky-fish.json](./281194-funky-fish.json) |
 | Funky Fish | 281195 | [281195-funky-fish.json](./281195-funky-fish.json) |
