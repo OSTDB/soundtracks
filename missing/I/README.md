@@ -5550,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intertwined | 231570 | [231570-intertwined.json](./231570-intertwined.json) |
 | Intertwined | 397231 | [397231-intertwined.json](./397231-intertwined.json) |
 | Intertwined Fate with a Cat Demon | 202206 | [202206-intertwined-fate-with-a-cat-demon.json](./202206-intertwined-fate-with-a-cat-demon.json) |
+| Interuniverse teleport | 280549 | [280549-interuniverse-teleport.json](./280549-interuniverse-teleport.json) |
 | Interview | 178936 | [178936-interview.json](./178936-interview.json) |
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
@@ -6538,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
 | Is This Game Trying to Kill Me? | 275128 | [275128-is-this-game-trying-to-kill-me.json](./275128-is-this-game-trying-to-kill-me.json) |
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
+| Is This Gay? | 280400 | [280400-is-this-gay.json](./280400-is-this-gay.json) |
 | Is this potato? | 387665 | [387665-is-this-potato.json](./387665-is-this-potato.json) |
 | Is This Self Care? | 179005 | [179005-is-this-self-care.json](./179005-is-this-self-care.json) |
 | Is This True?! My Cute Kouhai is in Love With Me! | 187115 | [187115-is-this-true-my-cute-kouhai-is-in-love-with-me.json](./187115-is-this-true-my-cute-kouhai-is-in-love-with-me.json) |
@@ -7181,6 +7183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Full of Sparks | 88375 | [88375-its-full-of-sparks.json](./88375-its-full-of-sparks.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
+| It's Grim Up North | 280401 | [280401-its-grim-up-north.json](./280401-its-grim-up-north.json) |
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
 | It's Hard Being a Dog | 199138 | [199138-its-hard-being-a-dog.json](./199138-its-hard-being-a-dog.json) |
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
