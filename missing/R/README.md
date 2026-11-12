@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebecca and the Sword of Nasty Curses | 363650 | [363650-rebecca-and-the-sword-of-nasty-curses.json](./363650-rebecca-and-the-sword-of-nasty-curses.json) |
 | Rebekka's Bag O'Bones | 401207 | [401207-rebekkas-bag-obones.json](./401207-rebekkas-bag-obones.json) |
 | Rebel | 193593 | [193593-rebel.json](./193593-rebel.json) |
+| Rebel | 263710 | [263710-rebel.json](./263710-rebel.json) |
 | Rebel | 52756 | [52756-rebel.json](./52756-rebel.json) |
 | Rebel | 78086 | [78086-rebel.json](./78086-rebel.json) |
 | Rebel Charge at Chickamauga | 12742 | [12742-rebel-charge-at-chickamauga.json](./12742-rebel-charge-at-chickamauga.json) |
