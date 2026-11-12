@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
 | Paradise: Waifu Dream | 208155 | [208155-paradise-waifu-dream.json](./208155-paradise-waifu-dream.json) |
+| Paradise's Secrets | 267691 | [267691-paradises-secrets.json](./267691-paradises-secrets.json) |
 | Paradiso Guardian | 145500 | [145500-paradiso-guardian.json](./145500-paradiso-guardian.json) |
 | Paradiso Series Bundle | 289204 | [289204-paradiso-series-bundle.json](./289204-paradiso-series-bundle.json) |
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
@@ -11143,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Flight | 391388 | [391388-pocket-flight.json](./391388-pocket-flight.json) |
 | Pocket Foosball | 280150 | [280150-pocket-foosball.json](./280150-pocket-foosball.json) |
 | Pocket Frogs | 66320 | [66320-pocket-frogs.json](./66320-pocket-frogs.json) |
+| Pocket Frogs Splash | 267633 | [267633-pocket-frogs-splash.json](./267633-pocket-frogs-splash.json) |
 | Pocket Furies | 414323 | [414323-pocket-furies.json](./414323-pocket-furies.json) |
 | Pocket Gal | 39501 | [39501-pocket-gal.json](./39501-pocket-gal.json) |
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
@@ -12850,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Patrol SImulator | 383394 | [383394-police-patrol-simulator.json](./383394-police-patrol-simulator.json) |
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Pursuit | 108108 | [108108-police-pursuit.json](./108108-police-pursuit.json) |
+| Police Pursuit | 267600 | [267600-police-pursuit.json](./267600-police-pursuit.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest II: The Vengeance | 1925 | [1925-police-quest-ii-the-vengeance.json](./1925-police-quest-ii-the-vengeance.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
@@ -15287,6 +15290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
+| Pretty Pet Salon | 267626 | [267626-pretty-pet-salon.json](./267626-pretty-pet-salon.json) |
 | Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
 | Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
 | Pretty Princess: Magical Garden Island | 248295 | [248295-pretty-princess-magical-garden-island.json](./248295-pretty-princess-magical-garden-island.json) |
@@ -17560,6 +17564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
 | Project-X Zombie vs. Machine Gun | 235641 | [235641-project-x-zombie-vs-machine-gun.json](./235641-project-x-zombie-vs-machine-gun.json) |
 | Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
+| Project;Hypatios | 267695 | [267695-project-hypatios.json](./267695-project-hypatios.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Ahno's Ark | 262748 | [262748-project-ahnos-ark.json](./262748-project-ahnos-ark.json) |
 | Project: Amica | 325967 | [325967-project-amica.json](./325967-project-amica.json) |
