@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
 | Abs vs. The Blood Queen | 138636 | [138636-abs-vs-the-blood-queen.json](./138636-abs-vs-the-blood-queen.json) |
 | Abscam | 247331 | [247331-abscam.json](./247331-abscam.json) |
+| Abscission | 247159 | [247159-abscission.json](./247159-abscission.json) |
 | Abscission | 257612 | [257612-abscission.json](./257612-abscission.json) |
 | Abscond | 76345 | [76345-abscond.json](./76345-abscond.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - Dawn of the Dukes | 155457 | [155457-age-of-empires-ii-definitive-edition-dawn-of-the-dukes.json](./155457-age-of-empires-ii-definitive-edition-dawn-of-the-dukes.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires II: Definitive Edition - Lords of the West | 142200 | [142200-age-of-empires-ii-definitive-edition-lords-of-the-west.json](./142200-age-of-empires-ii-definitive-edition-lords-of-the-west.json) |
+| Age of Empires II: Definitive Edition - Return of Rome | 247155 | [247155-age-of-empires-ii-definitive-edition-return-of-rome.json](./247155-age-of-empires-ii-definitive-edition-return-of-rome.json) |
 | Age of Empires II: Definitive Edition - The Last Chieftains | 386971 | [386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json](./386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json) |
 | Age of Empires II: Definitive Edition - The Mountain Royals | 272328 | [272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json](./272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json) |
 | Age of Empires II: Definitive Edition - The Three Kingdoms | 342809 | [342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json](./342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json) |
@@ -10383,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Andy Capp | 13322 | [13322-andy-capp.json](./13322-andy-capp.json) |
 | Andy Runner | 386818 | [386818-andy-runner.json](./386818-andy-runner.json) |
+| Andy Volcano: Tile Match Story | 247235 | [247235-andy-volcano-tile-match-story.json](./247235-andy-volcano-tile-match-story.json) |
 | Andy's Adventure Game | 316760 | [316760-andys-adventure-game.json](./316760-andys-adventure-game.json) |
 | Andy's Apple Farm | 177383 | [177383-andys-apple-farm.json](./177383-andys-apple-farm.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
@@ -12087,6 +12090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antaria Online | 55438 | [55438-antaria-online.json](./55438-antaria-online.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | AntarticaRoyale | 255284 | [255284-antarticaroyale.json](./255284-antarticaroyale.json) |
+| Antbassador | 247162 | [247162-antbassador.json](./247162-antbassador.json) |
 | Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
 | Antbuster | 242158 | [242158-antbuster.json](./242158-antbuster.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
@@ -17663,6 +17667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronarch | 132353 | [132353-astronarch.json](./132353-astronarch.json) |
 | Astronaut Adventure | 323489 | [323489-astronaut-adventure.json](./323489-astronaut-adventure.json) |
 | Astronaut Assault | 291286 | [291286-astronaut-assault.json](./291286-astronaut-assault.json) |
+| Astronaut Bundle | 247142 | [247142-astronaut-bundle.json](./247142-astronaut-bundle.json) |
 | Astronaut Simulator | 35580 | [35580-astronaut-simulator.json](./35580-astronaut-simulator.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
