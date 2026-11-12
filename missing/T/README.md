@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
 | Temple Run: Brave | 64080 | [64080-temple-run-brave.json](./64080-temple-run-brave.json) |
 | Temple Run: Idle Explorers | 252952 | [252952-temple-run-idle-explorers.json](./252952-temple-run-idle-explorers.json) |
+| Temple Run: Legends | 312929 | [312929-temple-run-legends.json](./312929-temple-run-legends.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Puzzle Adventure | 174571 | [174571-temple-run-puzzle-adventure.json](./174571-temple-run-puzzle-adventure.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
@@ -5272,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Classic | 79545 | [79545-tetris-classic.json](./79545-tetris-classic.json) |
 | Tetris Colossus | 243283 | [243283-tetris-colossus.json](./243283-tetris-colossus.json) |
 | Tetris Cross | 232756 | [232756-tetris-cross.json](./232756-tetris-cross.json) |
+| Tetris Crush | 313520 | [313520-tetris-crush.json](./313520-tetris-crush.json) |
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
 | Tetris Diamond | 152167 | [152167-tetris-diamond.json](./152167-tetris-diamond.json) |
 | Tetris Dotbas | 324510 | [324510-tetris-dotbas.json](./324510-tetris-dotbas.json) |
@@ -13826,6 +13828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
 | The Lion Guard | 58639 | [58639-the-lion-guard.json](./58639-the-lion-guard.json) |
+| The Lion Guard: Protectors of the Pridelands! | 312947 | [312947-the-lion-guard-protectors-of-the-pridelands.json](./312947-the-lion-guard-protectors-of-the-pridelands.json) |
 | The Lion King | 204573 | [204573-the-lion-king.json](./204573-the-lion-king.json) |
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion King 1½ - Timon And Pumbaa’s Virtual Safari 1.5: The Lion King Prideland Adventure | 325091 | [325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json](./325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json) |
@@ -16707,6 +16710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ringing of Twilight | 334925 | [334925-the-ringing-of-twilight.json](./334925-the-ringing-of-twilight.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
+| The Ripper Wash | 313012 | [313012-the-ripper-wash.json](./313012-the-ripper-wash.json) |
 | The Ripper: Serial Killers | 242586 | [242586-the-ripper-serial-killers.json](./242586-the-ripper-serial-killers.json) |
 | The Ripping Friends: The World's Most Manly Men! | 49179 | [49179-the-ripping-friends-the-worlds-most-manly-men.json](./49179-the-ripping-friends-the-worlds-most-manly-men.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
@@ -19246,6 +19250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
 | The Train of Souls | 177772 | [177772-the-train-of-souls.json](./177772-the-train-of-souls.json) |
 | The Train Part 2 | 307376 | [307376-the-train-part-2.json](./307376-the-train-part-2.json) |
+| The Train Station | 312946 | [312946-the-train-station.json](./312946-the-train-station.json) |
 | The Train to Thrinacia | 183740 | [183740-the-train-to-thrinacia.json](./183740-the-train-to-thrinacia.json) |
 | The Train: Escape to Normandy | 47183 | [47183-the-train-escape-to-normandy.json](./47183-the-train-escape-to-normandy.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
