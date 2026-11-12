@@ -5876,6 +5876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
 | Wildzone | 148638 | [148638-wildzone.json](./148638-wildzone.json) |
 | Wile E's Revenge | 214982 | [214982-wile-es-revenge.json](./214982-wile-es-revenge.json) |
+| Wilford Brimley Battle | 278040 | [278040-wilford-brimley-battle.json](./278040-wilford-brimley-battle.json) |
+| Wilford Island | 278041 | [278041-wilford-island.json](./278041-wilford-island.json) |
 | Wilful Kitty | 241816 | [241816-wilful-kitty.json](./241816-wilful-kitty.json) |
 | Wilhelm Gustloff's Death | 168580 | [168580-wilhelm-gustloffs-death.json](./168580-wilhelm-gustloffs-death.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
