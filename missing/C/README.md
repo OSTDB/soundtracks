@@ -3826,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Conqueror: Heroes | 85023 | [85023-castle-conqueror-heroes.json](./85023-castle-conqueror-heroes.json) |
 | Castle Conqueror: Heroes 2 | 85022 | [85022-castle-conqueror-heroes-2.json](./85022-castle-conqueror-heroes-2.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
+| Castle Conquest: Medieval Strategy | 295177 | [295177-castle-conquest-medieval-strategy.json](./295177-castle-conquest-medieval-strategy.json) |
 | Castle Constructor | 157818 | [157818-castle-constructor.json](./157818-castle-constructor.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
@@ -7181,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef: A Restaurant Tycoon Game - Eastern Asian Cuisine | 148331 | [148331-chef-a-restaurant-tycoon-game-eastern-asian-cuisine.json](./148331-chef-a-restaurant-tycoon-game-eastern-asian-cuisine.json) |
 | Chef: A Restaurant Tycoon Game - Pizza & Baked Goods | 207730 | [207730-chef-a-restaurant-tycoon-game-pizza-and-baked-goods.json](./207730-chef-a-restaurant-tycoon-game-pizza-and-baked-goods.json) |
 | Chef: Cocktails & Drinks | 249198 | [249198-chef-cocktails-and-drinks.json](./249198-chef-cocktails-and-drinks.json) |
+| Chef's Adventure | 295192 | [295192-chefs-adventure.json](./295192-chefs-adventure.json) |
 | Chef's Dogma | 405054 | [405054-chefs-dogma.json](./405054-chefs-dogma.json) |
 | Chef's Tail | 144247 | [144247-chefs-tail.json](./144247-chefs-tail.json) |
 | Chef's Van | 382703 | [382703-chefs-van.json](./382703-chefs-van.json) |
@@ -8605,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopter Copter | 274826 | [274826-chopter-copter.json](./274826-chopter-copter.json) |
 | Chora | 150351 | [150351-chora.json](./150351-chora.json) |
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
+| Chordioid | 295175 | [295175-chordioid.json](./295175-chordioid.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
 | Choreo: Legend of Loco | 232002 | [232002-choreo-legend-of-loco.json](./232002-choreo-legend-of-loco.json) |
@@ -12152,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name: Origin | 76803 | [76803-code-name-origin.json](./76803-code-name-origin.json) |
 | Code Name: Romance | 214838 | [214838-code-name-romance.json](./214838-code-name-romance.json) |
 | Code Name: S.T.E.A.M. | 7392 | [7392-code-name-s-t-e-a-m.json](./7392-code-name-s-t-e-a-m.json) |
+| Code Name: Unstable | 295185 | [295185-code-name-unstable.json](./295185-code-name-unstable.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
 | Code of Corruption | 374847 | [374847-code-of-corruption.json](./374847-code-of-corruption.json) |
@@ -21428,6 +21432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Covenant: The Demonic Pursuit | 338712 | [338712-cursed-covenant-the-demonic-pursuit.json](./338712-cursed-covenant-the-demonic-pursuit.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Crops | 218889 | [218889-cursed-crops.json](./218889-cursed-crops.json) |
+| Cursed Dawn | 295193 | [295193-cursed-dawn.json](./295193-cursed-dawn.json) |
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
 | Cursed Despair | 293470 | [293470-cursed-despair.json](./293470-cursed-despair.json) |
 | Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
