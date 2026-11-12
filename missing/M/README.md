@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
+| Magolor Wii | 314562 | [314562-magolor-wii.json](./314562-magolor-wii.json) |
 | Magpie | 302162 | [302162-magpie.json](./302162-magpie.json) |
 | Magpie Dreams | 222692 | [222692-magpie-dreams.json](./222692-magpie-dreams.json) |
 | Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marinatide | 30200 | [30200-marinatide.json](./30200-marinatide.json) |
 | Marine Battle | 277530 | [277530-marine-battle.json](./277530-marine-battle.json) |
+| Marine Battles | 312395 | [312395-marine-battles.json](./312395-marine-battles.json) |
 | Marine Boy | 39703 | [39703-marine-boy.json](./39703-marine-boy.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
@@ -4368,6 +4370,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party Legacy 1 Vol. 18 | 283427 | [283427-mario-party-legacy-1-vol-18.json](./283427-mario-party-legacy-1-vol-18.json) |
 | Mario Party Legacy 1 Vol. 19 | 283650 | [283650-mario-party-legacy-1-vol-19.json](./283650-mario-party-legacy-1-vol-19.json) |
 | Mario Party Legacy 1 Vol. 2 | 283422 | [283422-mario-party-legacy-1-vol-2.json](./283422-mario-party-legacy-1-vol-2.json) |
+| Mario Party Superstars: Mario's Rainbow Castle | 314564 | [314564-mario-party-superstars-marios-rainbow-castle.json](./314564-mario-party-superstars-marios-rainbow-castle.json) |
+| Mario Party Superstars: Mario's Rainbow Castle + Luigi's Engine Room | 314565 | [314565-mario-party-superstars-marios-rainbow-castle-luigis-engine-room.json](./314565-mario-party-superstars-marios-rainbow-castle-luigis-engine-room.json) |
 | Mario Party-e | 77789 | [77789-mario-party-e.json](./77789-mario-party-e.json) |
 | Mario Party-e: Duel Challenge - Balloon Burst! | 351413 | [351413-mario-party-e-duel-challenge-balloon-burst.json](./351413-mario-party-e-duel-challenge-balloon-burst.json) |
 | Mario Party-e: Duel Challenge - Bolt from Boo | 351417 | [351417-mario-party-e-duel-challenge-bolt-from-boo.json](./351417-mario-party-e-duel-challenge-bolt-from-boo.json) |
@@ -7054,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Grinder: First Cut | 348384 | [348384-meat-grinder-first-cut.json](./348384-meat-grinder-first-cut.json) |
 | Meat II: Absolute Zero | 398110 | [398110-meat-ii-absolute-zero.json](./398110-meat-ii-absolute-zero.json) |
 | Meat is Murder | 379390 | [379390-meat-is-murder.json](./379390-meat-is-murder.json) |
+| Meat Jam | 315377 | [315377-meat-jam.json](./315377-meat-jam.json) |
 | Meat Lead Fire | 169632 | [169632-meat-lead-fire.json](./169632-meat-lead-fire.json) |
 | Meat Madness | 226171 | [226171-meat-madness.json](./226171-meat-madness.json) |
 | Meat Man | 374003 | [374003-meat-man.json](./374003-meat-man.json) |
@@ -10343,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta | 260065 | [260065-meta.json](./260065-meta.json) |
 | Meta Apes | 235261 | [235261-meta-apes.json](./235261-meta-apes.json) |
 | Meta Ball | 237245 | [237245-meta-ball.json](./237245-meta-ball.json) |
+| Meta Battler | 313591 | [313591-meta-battler.json](./313591-meta-battler.json) |
 | Meta Card Backpack Legend | 392009 | [392009-meta-card-backpack-legend.json](./392009-meta-card-backpack-legend.json) |
 | Meta Checkpoint | 179442 | [179442-meta-checkpoint.json](./179442-meta-checkpoint.json) |
 | Meta Communication Therapy: Nee Kiite! | 37572 | [37572-meta-communication-therapy-nee-kiite.json](./37572-meta-communication-therapy-nee-kiite.json) |
@@ -11845,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Minesweeper | 5421 | [5421-microsoft-minesweeper.json](./5421-microsoft-minesweeper.json) |
 | Microsoft Multiplan | 44366 | [44366-microsoft-multiplan.json](./44366-microsoft-multiplan.json) |
 | Microsoft Oceans | 146588 | [146588-microsoft-oceans.json](./146588-microsoft-oceans.json) |
+| Microsoft Office XP: X-Tract Paperclip | 314162 | [314162-microsoft-office-xp-x-tract-paperclip.json](./314162-microsoft-office-xp-x-tract-paperclip.json) |
 | Microsoft Pinball Arcade | 16968 | [16968-microsoft-pinball-arcade.json](./16968-microsoft-pinball-arcade.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
 | Microsoft Plus! for Windows XP | 256398 | [256398-microsoft-plus-for-windows-xp.json](./256398-microsoft-plus-for-windows-xp.json) |
@@ -12909,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Min Dyrelægepraksis | 288110 | [288110-min-dyrel-gepraksis.json](./288110-min-dyrel-gepraksis.json) |
 | Min Dyrepension | 288109 | [288109-min-dyrepension.json](./288109-min-dyrepension.json) |
 | Min Dyreskole | 288111 | [288111-min-dyreskole.json](./288111-min-dyreskole.json) |
+| Min Hero: Tower Of Sages | 314155 | [314155-min-hero-tower-of-sages.json](./314155-min-hero-tower-of-sages.json) |
 | Min-Mins | 134286 | [134286-min-mins.json](./134286-min-mins.json) |
 | Mina | 349061 | [349061-mina.json](./349061-mina.json) |
 | Mina | 373622 | [373622-mina.json](./373622-mina.json) |
@@ -16120,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Hid My Game! 2 | 147835 | [147835-mom-hid-my-game-2.json](./147835-mom-hid-my-game-2.json) |
+| Mom Hid My Game! Collection | 315390 | [315390-mom-hid-my-game-collection.json](./315390-mom-hid-my-game-collection.json) |
 | Mom Life Simulator | 380163 | [380163-mom-life-simulator.json](./380163-mom-life-simulator.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
@@ -18502,6 +18511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Khameleon Kameo | 279422 | [279422-mortal-kombat-1-khameleon-kameo.json](./279422-mortal-kombat-1-khameleon-kameo.json) |
 | Mortal Kombat 1: Khaos Reigns Bundle | 312357 | [312357-mortal-kombat-1-khaos-reigns-bundle.json](./312357-mortal-kombat-1-khaos-reigns-bundle.json) |
 | Mortal Kombat 1: Khaos Reigns Expansion | 312111 | [312111-mortal-kombat-1-khaos-reigns-expansion.json](./312111-mortal-kombat-1-khaos-reigns-expansion.json) |
+| Mortal Kombat 1: Khaos Reigns Kollection | 314153 | [314153-mortal-kombat-1-khaos-reigns-kollection.json](./314153-mortal-kombat-1-khaos-reigns-kollection.json) |
 | Mortal Kombat 1: Khaos Reigns Story Expansion | 312356 | [312356-mortal-kombat-1-khaos-reigns-story-expansion.json](./312356-mortal-kombat-1-khaos-reigns-story-expansion.json) |
 | Mortal Kombat 1: Kollector's Edition | 250150 | [250150-mortal-kombat-1-kollectors-edition.json](./250150-mortal-kombat-1-kollectors-edition.json) |
 | Mortal Kombat 1: Kombat Pack | 250151 | [250151-mortal-kombat-1-kombat-pack.json](./250151-mortal-kombat-1-kombat-pack.json) |
@@ -21010,6 +21020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Challenge | 169755 | [169755-mushroom-challenge.json](./169755-mushroom-challenge.json) |
 | Mushroom Collection | 284609 | [284609-mushroom-collection.json](./284609-mushroom-collection.json) |
 | Mushroom Collector Simulator | 237147 | [237147-mushroom-collector-simulator.json](./237147-mushroom-collector-simulator.json) |
+| Mushroom Colors | 315380 | [315380-mushroom-colors.json](./315380-mushroom-colors.json) |
 | Mushroom Crusher Extreme | 32155 | [32155-mushroom-crusher-extreme.json](./32155-mushroom-crusher-extreme.json) |
 | Mushroom Doom | 389747 | [389747-mushroom-doom.json](./389747-mushroom-doom.json) |
 | Mushroom Empire | 381664 | [381664-mushroom-empire.json](./381664-mushroom-empire.json) |
@@ -21050,6 +21061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
 | Mushroom rain | 107498 | [107498-mushroom-rain.json](./107498-mushroom-rain.json) |
 | Mushroom Savior | 138384 | [138384-mushroom-savior.json](./138384-mushroom-savior.json) |
+| Mushroom Season | 313599 | [313599-mushroom-season.json](./313599-mushroom-season.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
 | Mushroom Survivors | 357709 | [357709-mushroom-survivors.json](./357709-mushroom-survivors.json) |
