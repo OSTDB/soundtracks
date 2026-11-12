@@ -7353,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
 | Bestanden! Dein Weg zum Führerschein (German Highway Code) | 286805 | [286805-bestanden-dein-weg-zum-fuhrerschein-german-highway-code.json](./286805-bestanden-dein-weg-zum-fuhrerschein-german-highway-code.json) |
+| Bestial Reception | 261567 | [261567-bestial-reception.json](./261567-bestial-reception.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
 | Bestiario | 296847 | [296847-bestiario.json](./296847-bestiario.json) |
 | Bestiary | 135083 | [135083-bestiary.json](./135083-bestiary.json) |
@@ -9786,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jackal | 265480 | [265480-black-jackal.json](./265480-black-jackal.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
+| Black Journey to the West | 261559 | [261559-black-journey-to-the-west.json](./261559-black-journey-to-the-west.json) |
 | Black Knight Adventure | 57390 | [57390-black-knight-adventure.json](./57390-black-knight-adventure.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
 | Black Knight Sword | 19913 | [19913-black-knight-sword.json](./19913-black-knight-sword.json) |
@@ -14678,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Colony | 16835 | [16835-bot-colony.json](./16835-bot-colony.json) |
 | Bot Colony _redux | 349075 | [349075-bot-colony-redux.json](./349075-bot-colony-redux.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
+| Bot Crisis | 261572 | [261572-bot-crisis.json](./261572-bot-crisis.json) |
 | Bot Gaiden | 96218 | [96218-bot-gaiden.json](./96218-bot-gaiden.json) |
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
 | Bot Hunter | 330147 | [330147-bot-hunter.json](./330147-bot-hunter.json) |
