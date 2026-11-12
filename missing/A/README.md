@@ -15989,6 +15989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As the Fog Burns | 137303 | [137303-as-the-fog-burns.json](./137303-as-the-fog-burns.json) |
 | As The Leaves Fall | 354930 | [354930-as-the-leaves-fall.json](./354930-as-the-leaves-fall.json) |
 | As the Light Goes Out | 217717 | [217717-as-the-light-goes-out.json](./217717-as-the-light-goes-out.json) |
+| As the Master Says | 299658 | [299658-as-the-master-says.json](./299658-as-the-master-says.json) |
 | As usual. | 253133 | [253133-as-usual.json](./253133-as-usual.json) |
 | As We Descend | 294502 | [294502-as-we-descend.json](./294502-as-we-descend.json) |
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
