@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonexus Wars | 297158 | [297158-neonexus-wars.json](./297158-neonexus-wars.json) |
 | NeonFlight | 130170 | [130170-neonflight.json](./130170-neonflight.json) |
 | NeonGalaxy Wars | 54877 | [54877-neongalaxy-wars.json](./54877-neongalaxy-wars.json) |
+| Neongarten | 280388 | [280388-neongarten.json](./280388-neongarten.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonHClouds | 246751 | [246751-neonhclouds.json](./246751-neonhclouds.json) |
 | Neonicum | 76797 | [76797-neonicum.json](./76797-neonicum.json) |
@@ -7661,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
+| Nova Hearts | 280389 | [280389-nova-hearts.json](./280389-nova-hearts.json) |
 | Nova Hunter | 385520 | [385520-nova-hunter.json](./385520-nova-hunter.json) |
 | Nova II: New Dawn | 138903 | [138903-nova-ii-new-dawn.json](./138903-nova-ii-new-dawn.json) |
 | Nova III | 139027 | [139027-nova-iii.json](./139027-nova-iii.json) |
