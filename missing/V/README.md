@@ -1493,7 +1493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
 | Vengeful Bat Dungeon Crawler | 116837 | [116837-vengeful-bat-dungeon-crawler.json](./116837-vengeful-bat-dungeon-crawler.json) |
 | Vengeful Castle | 238684 | [238684-vengeful-castle.json](./238684-vengeful-castle.json) |
-| Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
 | Vengeful Heart | 120056 | [120056-vengeful-heart.json](./120056-vengeful-heart.json) |
 | Vengeful Rites | 103064 | [103064-vengeful-rites.json](./103064-vengeful-rites.json) |
 | Veni, Vidi, Vici | 243479 | [243479-veni-vidi-vici.json](./243479-veni-vidi-vici.json) |
@@ -1908,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VGA Sharks | 92965 | [92965-vga-sharks.json](./92965-vga-sharks.json) |
 | VGL: Imperative | 163872 | [163872-vgl-imperative.json](./163872-vgl-imperative.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
+| VGMQ: Video Game Music Quiz | 317121 | [317121-vgmq-video-game-music-quiz.json](./317121-vgmq-video-game-music-quiz.json) |
 | VHAIP | 150955 | [150955-vhaip.json](./150955-vhaip.json) |
 | Vheda | 345054 | [345054-vheda.json](./345054-vheda.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
