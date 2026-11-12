@@ -9018,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Frog? | 36143 | [36143-amazing-frog.json](./36143-amazing-frog.json) |
+| Amazing Frog? 2 | 286732 | [286732-amazing-frog-2.json](./286732-amazing-frog-2.json) |
 | Amazing Garden | 324155 | [324155-amazing-garden.json](./324155-amazing-garden.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Girl | 248441 | [248441-amazing-girl.json](./248441-amazing-girl.json) |
