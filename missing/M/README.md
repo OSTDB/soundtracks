@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad TV | 14719 | [14719-mad-tv.json](./14719-mad-tv.json) |
 | Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
+| Mad Viking Games: VR Experience | 294899 | [294899-mad-viking-games-vr-experience.json](./294899-mad-viking-games-vr-experience.json) |
 | Mad Virus | 407665 | [407665-mad-virus.json](./407665-mad-virus.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
@@ -6372,6 +6373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Savage | 398489 | [398489-max-savage.json](./398489-max-savage.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Speed: Mingo Pack | 410851 | [410851-max-speed-mingo-pack.json](./410851-max-speed-mingo-pack.json) |
+| Max Steel | 294640 | [294640-max-steel.json](./294640-max-steel.json) |
+| Max Steel: Combate | 294639 | [294639-max-steel-combate.json](./294639-max-steel-combate.json) |
 | Max Steel: Covert Missions | 200965 | [200965-max-steel-covert-missions.json](./200965-max-steel-covert-missions.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
@@ -6412,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
 | Maximum Car | 246255 | [246255-maximum-car.json](./246255-maximum-car.json) |
+| Maximum Carnage Return | 294621 | [294621-maximum-carnage-return.json](./294621-maximum-carnage-return.json) |
 | Maximum Chase | 73607 | [73607-maximum-chase.json](./73607-maximum-chase.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
 | Maximum Damage | 53337 | [53337-maximum-damage.json](./53337-maximum-damage.json) |
@@ -6979,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
+| Me Red: The Ultimate Adventure | 294884 | [294884-me-red-the-ultimate-adventure.json](./294884-me-red-the-ultimate-adventure.json) |
 | Me Resbala! | 371184 | [371184-me-resbala.json](./371184-me-resbala.json) |
 | Me Smart Orc | 108431 | [108431-me-smart-orc.json](./108431-me-smart-orc.json) |
 | Me the Gravekeeper | 346681 | [346681-me-the-gravekeeper.json](./346681-me-the-gravekeeper.json) |
@@ -8652,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Ramp V5 | 104400 | [104400-mega-ramp-v5.json](./104400-mega-ramp-v5.json) |
 | Mega Rex Island | 234863 | [234863-mega-rex-island.json](./234863-mega-rex-island.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
+| Mega Run: Redford's Adventure | 294887 | [294887-mega-run-redfords-adventure.json](./294887-mega-run-redfords-adventure.json) |
 | Mega Schwarzschild | 46388 | [46388-mega-schwarzschild.json](./46388-mega-schwarzschild.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
@@ -15196,6 +15202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsubachi Gakuen | 107646 | [107646-mitsubachi-gakuen.json](./107646-mitsubachi-gakuen.json) |
 | Mitsugasero! Joon-chan!! | 277653 | [277653-mitsugasero-joon-chan.json](./277653-mitsugasero-joon-chan.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
+| Mitsukete! Keroro Gunsou: Machigai Sagashi Daisakusen de Arimasu! | 294619 | [294619-mitsukete-keroro-gunsou-machigai-sagashi-daisakusen-de-arimasu.json](./294619-mitsukete-keroro-gunsou-machigai-sagashi-daisakusen-de-arimasu.json) |
 | Mitsukikuzushi | 98020 | [98020-mitsukikuzushi.json](./98020-mitsukikuzushi.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
 | Mitsume ga Tooru | 48666 | [48666-mitsume-ga-tooru.json](./48666-mitsume-ga-tooru.json) |
@@ -18094,6 +18101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
+| Moonshine Inc. + Bio Inc. Redemption: Drinking Problem Bundle | 294888 | [294888-moonshine-inc-bio-inc-redemption-drinking-problem-bundle.json](./294888-moonshine-inc-bio-inc-redemption-drinking-problem-bundle.json) |
 | Moonshine Inc. + Bio Inc. Redemption: Drinking Problem Deluxe Bundle | 296559 | [296559-moonshine-inc-bio-inc-redemption-drinking-problem-deluxe-bundle.json](./296559-moonshine-inc-bio-inc-redemption-drinking-problem-deluxe-bundle.json) |
 | Moonshine Inc. + Ruinarch: Bad Habits Bundle | 284737 | [284737-moonshine-inc-ruinarch-bad-habits-bundle.json](./284737-moonshine-inc-ruinarch-bad-habits-bundle.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
@@ -22231,6 +22239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home - Design Dreams | 107000 | [107000-my-home-design-dreams.json](./107000-my-home-design-dreams.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
 | My Home Dream | 384769 | [384769-my-home-dream.json](./384769-my-home-dream.json) |
+| My Home Makeover: House Games | 294634 | [294634-my-home-makeover-house-games.json](./294634-my-home-makeover-house-games.json) |
 | My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
