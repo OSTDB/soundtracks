@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Padal proshlogodniy sneg | 397452 | [397452-padal-proshlogodniy-sneg.json](./397452-padal-proshlogodniy-sneg.json) |
 | Padal proshlogodniy sneg 2 | 397453 | [397453-padal-proshlogodniy-sneg-2.json](./397453-padal-proshlogodniy-sneg-2.json) |
 | Paddington Bear | 56556 | [56556-paddington-bear.json](./56556-paddington-bear.json) |
+| Paddington no Sekai Ryokou | 312406 | [312406-paddington-no-sekai-ryokou.json](./312406-paddington-no-sekai-ryokou.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
 | Paddington: Adventures in London | 44015 | [44015-paddington-adventures-in-london.json](./44015-paddington-adventures-in-london.json) |
 | Paddington: The World Mystery Tour | 124343 | [124343-paddington-the-world-mystery-tour.json](./124343-paddington-the-world-mystery-tour.json) |
@@ -19461,6 +19462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Boy | 250213 | [250213-puzzle-boy.json](./250213-puzzle-boy.json) |
 | Puzzle Boys | 257741 | [257741-puzzle-boys.json](./257741-puzzle-boys.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
+| Puzzle Brawl | 311918 | [311918-puzzle-brawl.json](./311918-puzzle-brawl.json) |
 | Puzzle Bundle for Toddlers and Kids: 7 in 1 | 231035 | [231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json](./231035-puzzle-bundle-for-toddlers-and-kids-7-in-1.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
