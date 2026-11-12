@@ -2831,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Mega Mix+ | 202864 | [202864-hatsune-miku-project-diva-mega-mix.json](./202864-hatsune-miku-project-diva-mega-mix.json) |
 | Hatsune Miku: Project Diva MMFE | 331164 | [331164-hatsune-miku-project-diva-mmfe.json](./331164-hatsune-miku-project-diva-mmfe.json) |
 | Hatsune Miku: Project Diva X | 12078 | [12078-hatsune-miku-project-diva-x.json](./12078-hatsune-miku-project-diva-x.json) |
+| Hatsune Miku: Project Mirai 2 | 255412 | [255412-hatsune-miku-project-mirai-2.json](./255412-hatsune-miku-project-mirai-2.json) |
 | Hatsune Miku: Project Mirai DX | 10091 | [10091-hatsune-miku-project-mirai-dx.json](./10091-hatsune-miku-project-mirai-dx.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
@@ -8081,6 +8082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
+| Hide n' Explode | 254724 | [254724-hide-n-explode.json](./254724-hide-n-explode.json) |
 | Hide Online | 95817 | [95817-hide-online.json](./95817-hide-online.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
@@ -9502,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holdover | 125864 | [125864-holdover.json](./125864-holdover.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole | 79160 | [79160-hole.json](./79160-hole.json) |
+| Hole and Fill | 254743 | [254743-hole-and-fill.json](./254743-hole-and-fill.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole Digging Beach Simulator | 344285 | [344285-hole-digging-beach-simulator.json](./344285-hole-digging-beach-simulator.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
