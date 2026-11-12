@@ -7251,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hockey | 198598 | [198598-shadow-hockey.json](./198598-shadow-hockey.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
+| Shadow Hunter | 251271 | [251271-shadow-hunter.json](./251271-shadow-hunter.json) |
 | Shadow Hunter | 280028 | [280028-shadow-hunter.json](./280028-shadow-hunter.json) |
 | Shadow Hunter | 35386 | [35386-shadow-hunter.json](./35386-shadow-hunter.json) |
 | Shadow Hunter: Lost Worlds | 188365 | [188365-shadow-hunter-lost-worlds.json](./188365-shadow-hunter-lost-worlds.json) |
@@ -11008,6 +11009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegecraft | 175493 | [175493-siegecraft.json](./175493-siegecraft.json) |
 | Siegecraft Commander | 26810 | [26810-siegecraft-commander.json](./26810-siegecraft-commander.json) |
 | Siegecraft Defender | 175525 | [175525-siegecraft-defender.json](./175525-siegecraft-defender.json) |
+| Siegecraft Defender Zero | 251259 | [251259-siegecraft-defender-zero.json](./251259-siegecraft-defender-zero.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegefall | 58924 | [58924-siegefall.json](./58924-siegefall.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
@@ -11137,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sigmund the Mouse | 184877 | [184877-sigmund-the-mouse.json](./184877-sigmund-the-mouse.json) |
+| Sign | 251275 | [251275-sign.json](./251275-sign.json) |
 | Sign Craft: Simulator | 273426 | [273426-sign-craft-simulator.json](./273426-sign-craft-simulator.json) |
 | Sign Here: _________ | 96454 | [96454-sign-here.json](./96454-sign-here.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
@@ -26046,6 +26049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
 | Star Defense | 90910 | [90910-star-defense.json](./90910-star-defense.json) |
 | Star Destroyer | 113618 | [113618-star-destroyer.json](./113618-star-destroyer.json) |
+| Star Detective | 251265 | [251265-star-detective.json](./251265-star-detective.json) |
 | Star Devil | 226485 | [226485-star-devil.json](./226485-star-devil.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
@@ -39238,6 +39242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syscrusher | 134905 | [134905-syscrusher.json](./134905-syscrusher.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
 | SysOps Saga | 279482 | [279482-sysops-saga.json](./279482-sysops-saga.json) |
+| System 10 | 251171 | [251171-system-10.json](./251171-system-10.json) |
 | System 15000 | 262189 | [262189-system-15000.json](./262189-system-15000.json) |
 | System 21 | 404057 | [404057-system-21.json](./404057-system-21.json) |
 | System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
