@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
 | Kamisama Spirits of the Shrine | 299000 | [299000-kamisama-spirits-of-the-shrine.json](./299000-kamisama-spirits-of-the-shrine.json) |
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
+| Kamishiro Gakuen Maboroshi Kouroku Kuru Nugia | 281696 | [281696-kamishiro-gakuen-maboroshi-kouroku-kuru-nugia.json](./281696-kamishiro-gakuen-maboroshi-kouroku-kuru-nugia.json) |
 | Kamitsubaki Academy Newspaper Club | 339807 | [339807-kamitsubaki-academy-newspaper-club.json](./339807-kamitsubaki-academy-newspaper-club.json) |
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
 | Kamitsubaki City Ensemble: Extension Pack No.10 feat. V.I.P | 330448 | [330448-kamitsubaki-city-ensemble-extension-pack-no-10-feat-v-i-p.json](./330448-kamitsubaki-city-ensemble-extension-pack-no-10-feat-v-i-p.json) |
@@ -776,11 +777,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaniman vs. Mecha Monkey | 74680 | [74680-kaniman-vs-mecha-monkey.json](./74680-kaniman-vs-mecha-monkey.json) |
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
+| Kanji Boy 3 | 281600 | [281600-kanji-boy-3.json](./281600-kanji-boy-3.json) |
 | Kanji Cats | 391554 | [391554-kanji-cats.json](./391554-kanji-cats.json) |
 | Kanji Combi: Yakuzumo | 268257 | [268257-kanji-combi-yakuzumo.json](./268257-kanji-combi-yakuzumo.json) |
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
+| Kanji de Puzzle | 281601 | [281601-kanji-de-puzzle.json](./281601-kanji-de-puzzle.json) |
 | Kanji Drive | 231154 | [231154-kanji-drive.json](./231154-kanji-drive.json) |
 | Kanji Drop | 375912 | [375912-kanji-drop.json](./375912-kanji-drop.json) |
 | Kanji Gakusei | 170043 | [170043-kanji-gakusei.json](./170043-kanji-gakusei.json) |
@@ -951,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karamuu-chou ha Oosawagi! | 228576 | [228576-karamuu-chou-ha-oosawagi.json](./228576-karamuu-chou-ha-oosawagi.json) |
 | Karamuu-chou ha Oosawagi!: Porinkiis to Okashi na Nakama-tachi | 228577 | [228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json](./228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json) |
 | Karamuu-chou no Daijiken | 228575 | [228575-karamuu-chou-no-daijiken.json](./228575-karamuu-chou-no-daijiken.json) |
+| Karan Koron Gakuen: Hanafuda - Mahjong | 281608 | [281608-karan-koron-gakuen-hanafuda-mahjong.json](./281608-karan-koron-gakuen-hanafuda-mahjong.json) |
 | Karanos Solitaire | 158392 | [158392-karanos-solitaire.json](./158392-karanos-solitaire.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke | 80255 | [80255-karaoke.json](./80255-karaoke.json) |
@@ -1747,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiba Saishou no Housoku '99 Aki Fuyu | 166537 | [166537-keiba-saishou-no-housoku-99-aki-fuyu.json](./166537-keiba-saishou-no-housoku-99-aki-fuyu.json) |
 | Keiba Simulation: Honmei | 48747 | [48747-keiba-simulation-honmei.json](./48747-keiba-simulation-honmei.json) |
 | Keiba Yosou Baken Renkinjutsu | 37970 | [37970-keiba-yosou-baken-renkinjutsu.json](./37970-keiba-yosou-baken-renkinjutsu.json) |
+| Keibajou he Gyoukou! Wide | 281610 | [281610-keibajou-he-gyoukou-wide.json](./281610-keibajou-he-gyoukou-wide.json) |
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
 | Keiji J.B. Harold no Jikenbo: Kiss of Murder | 350980 | [350980-keiji-j-b-harold-no-jikenbo-kiss-of-murder.json](./350980-keiji-j-b-harold-no-jikenbo-kiss-of-murder.json) |
@@ -4188,6 +4193,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisaragi's Dangerously Erotic Certification Exam! Resistance Is Futile | 82752 | [82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json](./82752-kisaragis-dangerously-erotic-certification-exam-resistance-is-futile.json) |
 | Kisei Joker | 417457 | [417457-kisei-joker.json](./417457-kisei-joker.json) |
 | Kisekae Monogatari | 228612 | [228612-kisekae-monogatari.json](./228612-kisekae-monogatari.json) |
+| Kisekae Series 2: Oshare Nikki | 281695 | [281695-kisekae-series-2-oshare-nikki.json](./281695-kisekae-series-2-oshare-nikki.json) |
+| Kisekae Series 3: Kisekae Hamster | 281697 | [281697-kisekae-series-3-kisekae-hamster.json](./281697-kisekae-series-3-kisekae-hamster.json) |
 | Kiseki no Tobira | 334415 | [334415-kiseki-no-tobira.json](./334415-kiseki-no-tobira.json) |
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kisekimura: ZumiIwa | 202641 | [202641-kisekimura-zumiiwa.json](./202641-kisekimura-zumiiwa.json) |
@@ -5629,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Konchuu Hakase | 228602 | [228602-konchuu-hakase.json](./228602-konchuu-hakase.json) |
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
+| Konchuu Hakase 3 | 281699 | [281699-konchuu-hakase-3.json](./281699-konchuu-hakase-3.json) |
 | Konchuu Monster: Battle Master | 97816 | [97816-konchuu-monster-battle-master.json](./97816-konchuu-monster-battle-master.json) |
 | Konchuu Monster: Battle Stadium | 49681 | [49681-konchuu-monster-battle-stadium.json](./49681-konchuu-monster-battle-stadium.json) |
 | Konchuu Monster: Ouja Ketteisen | 287258 | [287258-konchuu-monster-ouja-ketteisen.json](./287258-konchuu-monster-ouja-ketteisen.json) |
