@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Iron Knight | 196355 | [196355-idle-iron-knight.json](./196355-idle-iron-knight.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kingdom Builder | 97401 | [97401-idle-kingdom-builder.json](./97401-idle-kingdom-builder.json) |
+| Idle Kingdom Defense | 248866 | [248866-idle-kingdom-defense.json](./248866-idle-kingdom-defense.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Kitties Online | 314316 | [314316-idle-kitties-online.json](./314316-idle-kitties-online.json) |
 | Idle Knife | 104353 | [104353-idle-knife.json](./104353-idle-knife.json) |
