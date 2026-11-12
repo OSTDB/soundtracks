@@ -3957,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Golf | 161578 | [161578-whacky-golf.json](./161578-whacky-golf.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
 | Whale | 193580 | [193580-whale.json](./193580-whale.json) |
+| Whale Captain | 294906 | [294906-whale-captain.json](./294906-whale-captain.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
 | Whale Fall | 255458 | [255458-whale-fall.json](./255458-whale-fall.json) |
 | Whale Flesh | 331053 | [331053-whale-flesh.json](./331053-whale-flesh.json) |
