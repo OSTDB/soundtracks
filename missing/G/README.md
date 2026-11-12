@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
+| Ghosty Ghost | 311382 | [311382-ghosty-ghost.json](./311382-ghosty-ghost.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
 | Ghoul | 67918 | [67918-ghoul.json](./67918-ghoul.json) |
 | Ghoul | 95860 | [95860-ghoul.json](./95860-ghoul.json) |
@@ -10286,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzly Bear is Hungry | 361375 | [361375-grizzly-bear-is-hungry.json](./361375-grizzly-bear-is-hungry.json) |
 | Grizzly Cup Turbo Challenge '92 | 393927 | [393927-grizzly-cup-turbo-challenge-92.json](./393927-grizzly-cup-turbo-challenge-92.json) |
 | Grizzly Gulch Western Extravaganza | 392340 | [392340-grizzly-gulch-western-extravaganza.json](./392340-grizzly-gulch-western-extravaganza.json) |
+| Grizzly Man | 311847 | [311847-grizzly-man.json](./311847-grizzly-man.json) |
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Grizzly's | 231429 | [231429-grizzlys.json](./231429-grizzlys.json) |
@@ -11069,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guidus Zero | 319824 | [319824-guidus-zero.json](./319824-guidus-zero.json) |
 | GuiGhost Farms | 87671 | [87671-guighost-farms.json](./87671-guighost-farms.json) |
+| GuiGui | 311849 | [311849-guigui.json](./311849-guigui.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
 | Guild 02 | 78188 | [78188-guild-02.json](./78188-guild-02.json) |
