@@ -6270,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambers of Devious Design | 153886 | [153886-chambers-of-devious-design.json](./153886-chambers-of-devious-design.json) |
 | Chambers of Horrors | 60647 | [60647-chambers-of-horrors.json](./60647-chambers-of-horrors.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
+| Chambers: The Outlaw | 275759 | [275759-chambers-the-outlaw.json](./275759-chambers-the-outlaw.json) |
 | Chameleon | 120875 | [120875-chameleon.json](./120875-chameleon.json) |
 | Chameleon | 214466 | [214466-chameleon.json](./214466-chameleon.json) |
 | Chameleon | 21452 | [21452-chameleon.json](./21452-chameleon.json) |
@@ -21090,6 +21091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuffbust | 305005 | [305005-cuffbust.json](./305005-cuffbust.json) |
 | Cuffed | 341794 | [341794-cuffed.json](./341794-cuffed.json) |
 | Cuffed | 406659 | [406659-cuffed.json](./406659-cuffed.json) |
+| Cufflinks & Cages | 275872 | [275872-cufflinks-and-cages.json](./275872-cufflinks-and-cages.json) |
 | Cuisine Dimension | 112049 | [112049-cuisine-dimension.json](./112049-cuisine-dimension.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
 | Cuisineer | 211330 | [211330-cuisineer.json](./211330-cuisineer.json) |
