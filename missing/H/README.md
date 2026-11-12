@@ -12932,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter | 303816 | [303816-hunter.json](./303816-hunter.json) |
 | Hunter | 367139 | [367139-hunter.json](./367139-hunter.json) |
 | Hunter | 409230 | [409230-hunter.json](./409230-hunter.json) |
+| Hunter & Scorpion's Bet Saga: Scorpion's Ravage | 276892 | [276892-hunter-and-scorpions-bet-saga-scorpions-ravage.json](./276892-hunter-and-scorpions-bet-saga-scorpions-ravage.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Scorpion's Bet ReVised: Hunter's Path | 276885 | [276885-hunter-and-scorpions-bet-revised-hunters-path.json](./276885-hunter-and-scorpions-bet-revised-hunters-path.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
