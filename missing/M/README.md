@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantra | 285301 | [285301-mantra.json](./285301-mantra.json) |
 | Mantra II: The Blood of Saric | 171234 | [171234-mantra-ii-the-blood-of-saric.json](./171234-mantra-ii-the-blood-of-saric.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
+| Manu | 307435 | [307435-manu.json](./307435-manu.json) |
 | Manual | 319421 | [319421-manual.json](./319421-manual.json) |
 | Manual Intervention | 135060 | [135060-manual-intervention.json](./135060-manual-intervention.json) |
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
@@ -4082,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Builder 64 | 301466 | [301466-mario-builder-64.json](./301466-mario-builder-64.json) |
 | Mario Can't Remember | 350957 | [350957-mario-cant-remember.json](./350957-mario-cant-remember.json) |
 | Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
+| Mario Cart | 307441 | [307441-mario-cart.json](./307441-mario-cart.json) |
 | Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
 | Mario Combat | 234845 | [234845-mario-combat.json](./234845-mario-combat.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
@@ -4117,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour | 3405 | [3405-mario-golf-world-tour.json](./3405-mario-golf-world-tour.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
+| Mario Golf: World Tour - Season Pass | 307450 | [307450-mario-golf-world-tour-season-pass.json](./307450-mario-golf-world-tour-season-pass.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
 | Mario Hates 2025 | 368168 | [368168-mario-hates-2025.json](./368168-mario-hates-2025.json) |
 | Mario Heardle | 203820 | [203820-mario-heardle.json](./203820-mario-heardle.json) |
@@ -6050,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
 | Math Jam | 138493 | [138493-math-jam.json](./138493-math-jam.json) |
+| Math Logic | 307461 | [307461-math-logic.json](./307461-math-logic.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Marvel | 245449 | [245449-math-marvel.json](./245449-math-marvel.json) |
 | Math Master | 341218 | [341218-math-master.json](./341218-math-master.json) |
@@ -13008,6 +13012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind of the Eyes | 223339 | [223339-mind-of-the-eyes.json](./223339-mind-of-the-eyes.json) |
 | Mind of the Midwest | 293606 | [293606-mind-of-the-midwest.json](./293606-mind-of-the-midwest.json) |
+| Mind of War | 307487 | [307487-mind-of-war.json](./307487-mind-of-war.json) |
 | Mind Over Magic | 211357 | [211357-mind-over-magic.json](./211357-mind-over-magic.json) |
 | Mind Over Magnet | 247310 | [247310-mind-over-magnet.json](./247310-mind-over-magnet.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
@@ -23001,6 +23006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mya Master Mind | 245675 | [245675-mya-master-mind.json](./245675-mya-master-mind.json) |
 | Mya of the Desert | 131767 | [131767-mya-of-the-desert.json](./131767-mya-of-the-desert.json) |
 | MyaoSoft Garake Collection | 212644 | [212644-myaosoft-garake-collection.json](./212644-myaosoft-garake-collection.json) |
+| Myar Aranath: Rellict of Kallidar | 307444 | [307444-myar-aranath-rellict-of-kallidar.json](./307444-myar-aranath-rellict-of-kallidar.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
 | Myastere -Ruins of Deazniff- | 145211 | [145211-myastere-ruins-of-deazniff.json](./145211-myastere-ruins-of-deazniff.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
