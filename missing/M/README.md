@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Kakeru | 98606 | [98606-manga-kakeru.json](./98606-manga-kakeru.json) |
 | Manga Mahjongg | 78835 | [78835-manga-mahjongg.json](./78835-manga-mahjongg.json) |
+| Manga Maker's Mega Milkers | 264292 | [264292-manga-makers-mega-milkers.json](./264292-manga-makers-mega-milkers.json) |
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Oku no Hosomichi | 299635 | [299635-manga-oku-no-hosomichi.json](./299635-manga-oku-no-hosomichi.json) |
 | Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
@@ -10473,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaDOS | 199923 | [199923-metados.json](./199923-metados.json) |
 | MetaDude | 254634 | [254634-metadude.json](./254634-metadude.json) |
 | Metaflora | 280704 | [280704-metaflora.json](./280704-metaflora.json) |
+| MetaForce | 264373 | [264373-metaforce.json](./264373-metaforce.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metagalactic Llamas Battle at the Edge of Time | 41188 | [41188-metagalactic-llamas-battle-at-the-edge-of-time.json](./41188-metagalactic-llamas-battle-at-the-edge-of-time.json) |
@@ -10820,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamon Island | 223947 | [223947-metamon-island.json](./223947-metamon-island.json) |
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
 | Metamor Jupiter | 37631 | [37631-metamor-jupiter.json](./37631-metamor-jupiter.json) |
+| Metamor Kid Goomin | 264274 | [264274-metamor-kid-goomin.json](./264274-metamor-kid-goomin.json) |
 | Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
 | Metamorbob | 177760 | [177760-metamorbob.json](./177760-metamorbob.json) |
 | Metamorfose S | 30046 | [30046-metamorfose-s.json](./30046-metamorfose-s.json) |
@@ -16242,6 +16245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mologa | 188821 | [188821-mologa.json](./188821-mologa.json) |
 | Molokaust | 405832 | [405832-molokaust.json](./405832-molokaust.json) |
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
+| Molotov Man | 264275 | [264275-molotov-man.json](./264275-molotov-man.json) |
 | Molt | 260571 | [260571-molt.json](./260571-molt.json) |
 | Molten Armor | 55264 | [55264-molten-armor.json](./55264-molten-armor.json) |
 | Molten Horn | 243293 | [243293-molten-horn.json](./243293-molten-horn.json) |
@@ -17577,6 +17581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Stunt Rally | 146435 | [146435-monster-truck-stunt-rally.json](./146435-monster-truck-stunt-rally.json) |
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
+| Monster Truck Wars | 264276 | [264276-monster-truck-wars.json](./264276-monster-truck-wars.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
 | Monster Trucking | 332870 | [332870-monster-trucking.json](./332870-monster-trucking.json) |
 | Monster Trucks | 92416 | [92416-monster-trucks.json](./92416-monster-trucks.json) |
