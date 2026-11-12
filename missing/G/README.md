@@ -10877,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuardGrave | 275536 | [275536-guardgrave.json](./275536-guardgrave.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
 | Guardian | 208547 | [208547-guardian.json](./208547-guardian.json) |
+| Guardian | 282775 | [282775-guardian.json](./282775-guardian.json) |
 | Guardian | 290132 | [290132-guardian.json](./290132-guardian.json) |
 | Guardian | 360038 | [360038-guardian.json](./360038-guardian.json) |
 | Guardian | 37295 | [37295-guardian.json](./37295-guardian.json) |
