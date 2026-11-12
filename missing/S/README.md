@@ -2276,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
 | Satellite Engineer | 292259 | [292259-satellite-engineer.json](./292259-satellite-engineer.json) |
+| Satellite Man | 264282 | [264282-satellite-man.json](./264282-satellite-man.json) |
 | Satellite Odyssey: Jupiter | 383033 | [383033-satellite-odyssey-jupiter.json](./383033-satellite-odyssey-jupiter.json) |
 | Satellite Odyssey: Prologue | 266748 | [266748-satellite-odyssey-prologue.json](./266748-satellite-odyssey-prologue.json) |
 | Satellite Reign | 11577 | [11577-satellite-reign.json](./11577-satellite-reign.json) |
@@ -22121,6 +22122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
 | Spacemen | 15696 | [15696-spacemen.json](./15696-spacemen.json) |
 | SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
+| Spaceminers | 264263 | [264263-spaceminers.json](./264263-spaceminers.json) |
 | SpaceNet: A Space Adventure | 169344 | [169344-spacenet-a-space-adventure.json](./169344-spacenet-a-space-adventure.json) |
 | SpacePig | 75650 | [75650-spacepig.json](./75650-spacepig.json) |
 | Spaceplan | 28454 | [28454-spaceplan.json](./28454-spaceplan.json) |
@@ -25658,6 +25660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage 333 | 361105 | [361105-stage-333.json](./361105-stage-333.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage Cleared | 319052 | [319052-stage-cleared.json](./319052-stage-cleared.json) |
+| Stage Debut | 264374 | [264374-stage-debut.json](./264374-stage-debut.json) |
 | Stage Fright | 413973 | [413973-stage-fright.json](./413973-stage-fright.json) |
 | Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
 | Stage of Arisu | 396839 | [396839-stage-of-arisu.json](./396839-stage-of-arisu.json) |
@@ -33040,6 +33043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Battle Skin Panic | 67404 | [67404-super-battle-skin-panic.json](./67404-super-battle-skin-panic.json) |
 | Super Battletank 2 | 38425 | [38425-super-battletank-2.json](./38425-super-battletank-2.json) |
+| Super Battletoads | 264286 | [264286-super-battletoads.json](./264286-super-battletoads.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
@@ -35164,6 +35168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
 | Super Pinball Maker | 177661 | [177661-super-pinball-maker.json](./177661-super-pinball-maker.json) |
 | Super Pinball: Behind the Mask | 42455 | [42455-super-pinball-behind-the-mask.json](./42455-super-pinball-behind-the-mask.json) |
+| Super Ping Pong | 264367 | [264367-super-ping-pong.json](./264367-super-ping-pong.json) |
 | Super Ping Pong Trick Shot | 54959 | [54959-super-ping-pong-trick-shot.json](./54959-super-ping-pong-trick-shot.json) |
 | Super Pink Gold Peach 64 | 250086 | [250086-super-pink-gold-peach-64.json](./250086-super-pink-gold-peach-64.json) |
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
@@ -37934,6 +37939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
 | Sweet Monster | 339450 | [339450-sweet-monster.json](./339450-sweet-monster.json) |
 | Sweet Neighbor BB | 325896 | [325896-sweet-neighbor-bb.json](./325896-sweet-neighbor-bb.json) |
+| Sweet Neighbors | 264260 | [264260-sweet-neighbors.json](./264260-sweet-neighbors.json) |
 | Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet No Death | 255449 | [255449-sweet-no-death.json](./255449-sweet-no-death.json) |
