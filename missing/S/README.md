@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Dash | 54905 | [54905-save-dash.json](./54905-save-dash.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
 | Save District 3 | 242982 | [242982-save-district-3.json](./242982-save-district-3.json) |
+| Save Elizy | 283346 | [283346-save-elizy.json](./283346-save-elizy.json) |
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save Finn | 233401 | [233401-save-finn.json](./233401-save-finn.json) |
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
@@ -3222,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Corridor | 364169 | [364169-school-corridor.json](./364169-school-corridor.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
 | School Curse2 | 280169 | [280169-school-curse2.json](./280169-school-curse2.json) |
+| School Curse3 | 283343 | [283343-school-curse3.json](./283343-school-curse3.json) |
 | School Days | 135488 | [135488-school-days.json](./135488-school-days.json) |
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
@@ -4031,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scripture | 192574 | [192574-scripture.json](./192574-scripture.json) |
 | Scrivalry | 58129 | [58129-scrivalry.json](./58129-scrivalry.json) |
 | Scriver: A Word Game | 402115 | [402115-scriver-a-word-game.json](./402115-scriver-a-word-game.json) |
+| SCRMNN | 282769 | [282769-scrmnn.json](./282769-scrmnn.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
@@ -4785,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret | 340101 | [340101-secret.json](./340101-secret.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
+| Secret Agent | 282771 | [282771-secret-agent.json](./282771-secret-agent.json) |
 | Secret Agent | 8485 | [8485-secret-agent.json](./8485-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
 | Secret Agent Allan Martin in ... Phoenix Erupting | 169002 | [169002-secret-agent-allan-martin-in-phoenix-erupting.json](./169002-secret-agent-allan-martin-in-phoenix-erupting.json) |
@@ -6565,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Seas Solitaire | 30505 | [30505-seven-seas-solitaire.json](./30505-seven-seas-solitaire.json) |
 | Seven Seas: Adventures | 321013 | [321013-seven-seas-adventures.json](./321013-seven-seas-adventures.json) |
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
+| Seven Second Summer Camp | 283350 | [283350-seven-second-summer-camp.json](./283350-seven-second-summer-camp.json) |
 | Seven Senses | 421369 | [421369-seven-senses.json](./421369-seven-senses.json) |
 | Seven Sinners | 346393 | [346393-seven-sinners.json](./346393-seven-sinners.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
@@ -6708,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
 | Sex Empire: Episode 1 | 368533 | [368533-sex-empire-episode-1.json](./368533-sex-empire-episode-1.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
+| Sex Euphoria | 283349 | [283349-sex-euphoria.json](./283349-sex-euphoria.json) |
 | Sex Faculty | 288956 | [288956-sex-faculty.json](./288956-sex-faculty.json) |
 | Sex Feets | 289516 | [289516-sex-feets.json](./289516-sex-feets.json) |
 | Sex Game - BDSM - Episode 1 | 382157 | [382157-sex-game-bdsm-episode-1.json](./382157-sex-game-bdsm-episode-1.json) |
@@ -7799,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
 | Shanghai Advance | 49782 | [49782-shanghai-advance.json](./49782-shanghai-advance.json) |
 | Shanghai Amigo | 62292 | [62292-shanghai-amigo.json](./62292-shanghai-amigo.json) |
+| Shanghai Blood of War | 282866 | [282866-shanghai-blood-of-war.json](./282866-shanghai-blood-of-war.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
 | Shanghai Dragon | 331987 | [331987-shanghai-dragon.json](./331987-shanghai-dragon.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
@@ -9833,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
 | Shootinator | 303821 | [303821-shootinator.json](./303821-shootinator.json) |
 | Shooting Aircraft | 323846 | [323846-shooting-aircraft.json](./323846-shooting-aircraft.json) |
+| Shooting Arcade | 282770 | [282770-shooting-arcade.json](./282770-shooting-arcade.json) |
 | Shooting Arena VR | 141098 | [141098-shooting-arena-vr.json](./141098-shooting-arena-vr.json) |
 | Shooting Ball | 252956 | [252956-shooting-ball.json](./252956-shooting-ball.json) |
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
@@ -12547,6 +12555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirensia: A Date Beneath | 332775 | [332775-sirensia-a-date-beneath.json](./332775-sirensia-a-date-beneath.json) |
 | Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
 | Sirin's Feather | 399899 | [399899-sirins-feather.json](./399899-sirins-feather.json) |
+| Sirius | 282936 | [282936-sirius.json](./282936-sirius.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
 | Sirius Online | 35288 | [35288-sirius-online.json](./35288-sirius-online.json) |
 | Sirius-1 | 92129 | [92129-sirius-1.json](./92129-sirius-1.json) |
@@ -22728,6 +22737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | Speeder Ship | 336218 | [336218-speeder-ship.json](./336218-speeder-ship.json) |
 | SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
+| Speedfreak | 282787 | [282787-speedfreak.json](./282787-speedfreak.json) |
 | Speedgunner Ultra | 158855 | [158855-speedgunner-ultra.json](./158855-speedgunner-ultra.json) |
 | Speediest: Car Racing Formula & Auto Sport | 270813 | [270813-speediest-car-racing-formula-and-auto-sport.json](./270813-speediest-car-racing-formula-and-auto-sport.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
@@ -23272,6 +23282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Lily | 403806 | [403806-spider-lily.json](./403806-spider-lily.json) |
 | Spider Mall! | 267820 | [267820-spider-mall.json](./267820-spider-mall.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
+| Spider Maze | 282788 | [282788-spider-maze.json](./282788-spider-maze.json) |
 | Spider Maze | 363061 | [363061-spider-maze.json](./363061-spider-maze.json) |
 | Spider Mech | 362231 | [362231-spider-mech.json](./362231-spider-mech.json) |
 | Spider Plus! | 91211 | [91211-spider-plus.json](./91211-spider-plus.json) |
@@ -24984,6 +24995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro 3.5: Return to the Forgotten Realms | 285246 | [285246-spyro-3-5-return-to-the-forgotten-realms.json](./285246-spyro-3-5-return-to-the-forgotten-realms.json) |
 | Spyro 4 | 336310 | [336310-spyro-4.json](./336310-spyro-4.json) |
+| Spyro Ever After | 282864 | [282864-spyro-ever-after.json](./282864-spyro-ever-after.json) |
 | Spyro Orange: The Cortex Conspiracy | 1590 | [1590-spyro-orange-the-cortex-conspiracy.json](./1590-spyro-orange-the-cortex-conspiracy.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
 | Spyro the Dragon | 142213 | [142213-spyro-the-dragon.json](./142213-spyro-the-dragon.json) |
@@ -25358,6 +25370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | sQuiz | 137967 | [137967-squiz.json](./137967-squiz.json) |
 | Squomb | 423083 | [423083-squomb.json](./423083-squomb.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
+| Squoosh | 282780 | [282780-squoosh.json](./282780-squoosh.json) |
 | Sqvishy | 117451 | [117451-sqvishy.json](./117451-sqvishy.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | Sr. Empatia | 188174 | [188174-sr-empatia.json](./188174-sr-empatia.json) |
@@ -28811,6 +28824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickfigurez | 259101 | [259101-stickfigurez.json](./259101-stickfigurez.json) |
 | Stickforge | 350801 | [350801-stickforge.json](./350801-stickforge.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
+| Stickin' the Landing | 283355 | [283355-stickin-the-landing.json](./283355-stickin-the-landing.json) |
 | Sticking Around | 217171 | [217171-sticking-around.json](./217171-sticking-around.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
@@ -31027,6 +31041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
 | Stunt Cycle | 18584 | [18584-stunt-cycle.json](./18584-stunt-cycle.json) |
+| Stunt Cycle | 282783 | [282783-stunt-cycle.json](./282783-stunt-cycle.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Dog Adventure | 320288 | [320288-stunt-dog-adventure.json](./320288-stunt-dog-adventure.json) |
@@ -31044,6 +31059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Kite Masters VR | 36714 | [36714-stunt-kite-masters-vr.json](./36714-stunt-kite-masters-vr.json) |
 | Stunt Kite Party | 114047 | [114047-stunt-kite-party.json](./114047-stunt-kite-party.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
+| Stunt Man | 282779 | [282779-stunt-man.json](./282779-stunt-man.json) |
 | Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
 | Stunt Paradise | 251949 | [251949-stunt-paradise.json](./251949-stunt-paradise.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
@@ -37581,6 +37597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Swear to God | 185344 | [185344-swear-to-god.json](./185344-swear-to-god.json) |
 | Sweat | 385880 | [385880-sweat.json](./385880-sweat.json) |
+| Sweat! The Decathlon Game | 282781 | [282781-sweat-the-decathlon-game.json](./282781-sweat-the-decathlon-game.json) |
 | Sweater? Ok! | 31024 | [31024-sweater-ok.json](./31024-sweater-ok.json) |
 | Sweater? Ok! 2 | 81022 | [81022-sweater-ok-2.json](./81022-sweater-ok-2.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
