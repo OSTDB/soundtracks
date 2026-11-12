@@ -3283,11 +3283,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrion: Signature Edition | 386275 | [386275-carrion-signature-edition.json](./386275-carrion-signature-edition.json) |
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrom Pool: Disc Game | 174772 | [174772-carrom-pool-disc-game.json](./174772-carrom-pool-disc-game.json) |
+| Carrom Slam! | 252415 | [252415-carrom-slam.json](./252415-carrom-slam.json) |
 | Carroñero | 385939 | [385939-carronero.json](./385939-carronero.json) |
 | Carrot | 184539 | [184539-carrot.json](./184539-carrot.json) |
 | Carrot Bounce | 402590 | [402590-carrot-bounce.json](./402590-carrot-bounce.json) |
 | Carrot Buds | 284621 | [284621-carrot-buds.json](./284621-carrot-buds.json) |
 | Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
+| Carrot Cake Jinkaku Shuffle Jiken | 252447 | [252447-carrot-cake-jinkaku-shuffle-jiken.json](./252447-carrot-cake-jinkaku-shuffle-jiken.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
 | Carrot Commotion | 336836 | [336836-carrot-commotion.json](./336836-carrot-commotion.json) |
@@ -5377,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of Gurg | 367488 | [367488-cave-of-gurg.json](./367488-cave-of-gurg.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave of Illusions: Twistyland | 284804 | [284804-cave-of-illusions-twistyland.json](./284804-cave-of-illusions-twistyland.json) |
+| Cave of Past Sorrows | 252412 | [252412-cave-of-past-sorrows.json](./252412-cave-of-past-sorrows.json) |
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of the Word Wizard | 144879 | [144879-cave-of-the-word-wizard.json](./144879-cave-of-the-word-wizard.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
@@ -11861,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection: Silver Edition | 411179 | [411179-club-sports-collection-silver-edition.json](./411179-club-sports-collection-silver-edition.json) |
 | Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
 | Club Suicide | 196493 | [196493-club-suicide.json](./196493-club-suicide.json) |
+| Club Suicide: Complete Edition | 252440 | [252440-club-suicide-complete-edition.json](./252440-club-suicide-complete-edition.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubby the Seal | 234289 | [234289-clubby-the-seal.json](./234289-clubby-the-seal.json) |
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
@@ -12490,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee For Cthulhu | 295232 | [295232-coffee-for-cthulhu.json](./295232-coffee-for-cthulhu.json) |
 | Coffee For Robots | 219740 | [219740-coffee-for-robots.json](./219740-coffee-for-robots.json) |
 | Coffee Fun | 228765 | [228765-coffee-fun.json](./228765-coffee-fun.json) |
+| Coffee Golf | 252420 | [252420-coffee-golf.json](./252420-coffee-golf.json) |
 | Coffee House Chaos! | 206983 | [206983-coffee-house-chaos.json](./206983-coffee-house-chaos.json) |
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
