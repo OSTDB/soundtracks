@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Summer's End: Hong Kong 1986 | 131912 | [131912-a-summers-end-hong-kong-1986.json](./131912-a-summers-end-hong-kong-1986.json) |
 | A Sun of Salt | 107784 | [107784-a-sun-of-salt.json](./107784-a-sun-of-salt.json) |
 | A Sun-Kissed Fantasy | 369272 | [369272-a-sun-kissed-fantasy.json](./369272-a-sun-kissed-fantasy.json) |
+| A Sunday Afternoon | 303835 | [303835-a-sunday-afternoon.json](./303835-a-sunday-afternoon.json) |
 | A Super Effective Turnabout | 302597 | [302597-a-super-effective-turnabout.json](./302597-a-super-effective-turnabout.json) |
 | A Super Mario Adventure | 269707 | [269707-a-super-mario-adventure.json](./269707-a-super-mario-adventure.json) |
 | A Super Mario Bros X. Level Collection | 346780 | [346780-a-super-mario-bros-x-level-collection.json](./346780-a-super-mario-bros-x-level-collection.json) |
