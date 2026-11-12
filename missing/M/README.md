@@ -19492,6 +19492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motteke Tamago with Ganbare Kamonohashi | 247571 | [247571-motteke-tamago-with-ganbare-kamonohashi.json](./247571-motteke-tamago-with-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Golful Golf | 59012 | [59012-motto-golful-golf.json](./59012-motto-golful-golf.json) |
+| Motto Hirogaru! Shougakusei no uchi ni Oboetai Eitango | 272427 | [272427-motto-hirogaru-shougakusei-no-uchi-ni-oboetai-eitango.json](./272427-motto-hirogaru-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
 | Motto Kigaru ni! Oekaki Koubou Plus | 222428 | [222428-motto-kigaru-ni-oekaki-koubou-plus.json](./222428-motto-kigaru-ni-oekaki-koubou-plus.json) |
 | Motto Me de Unou o Kitaeru: Sokudoku Jutsu 3 | 141146 | [141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json](./141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json) |
