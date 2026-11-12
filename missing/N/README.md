@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
 | Nade Pro: Kisama mo Seiyuu Yattemiro! | 221471 | [221471-nade-pro-kisama-mo-seiyuu-yattemiro.json](./221471-nade-pro-kisama-mo-seiyuu-yattemiro.json) |
+| Nadeshiko's Dollhouse | 294628 | [294628-nadeshikos-dollhouse.json](./294628-nadeshikos-dollhouse.json) |
 | Nadia Training Plan | 97726 | [97726-nadia-training-plan.json](./97726-nadia-training-plan.json) |
 | Nadia Was Here | 28491 | [28491-nadia-was-here.json](./28491-nadia-was-here.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
 | Neko Ghost, Jump! | 126329 | [126329-neko-ghost-jump.json](./126329-neko-ghost-jump.json) |
 | Neko Girls | 368109 | [368109-neko-girls.json](./368109-neko-girls.json) |
+| Neko Girls Puzzle | 294904 | [294904-neko-girls-puzzle.json](./294904-neko-girls-puzzle.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Hacker Plus | 169779 | [169779-neko-hacker-plus.json](./169779-neko-hacker-plus.json) |
 | Neko Hentai Girl: Beach Match-3 | 241280 | [241280-neko-hentai-girl-beach-match-3.json](./241280-neko-hentai-girl-beach-match-3.json) |
@@ -3210,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
 | Never 7: The End of Infinity | 323131 | [323131-never-7-the-end-of-infinity.json](./323131-never-7-the-end-of-infinity.json) |
 | Never Alone | 273575 | [273575-never-alone.json](./273575-never-alone.json) |
+| Never Alone 2 | 296835 | [296835-never-alone-2.json](./296835-never-alone-2.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
 | Never Alone: Foxtales | 14549 | [14549-never-alone-foxtales.json](./14549-never-alone-foxtales.json) |
 | Never Alone: Ki Edition | 39251 | [39251-never-alone-ki-edition.json](./39251-never-alone-ki-edition.json) |
