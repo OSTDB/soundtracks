@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnavale: Eternal Soul | 385270 | [385270-magnavale-eternal-soul.json](./385270-magnavale-eternal-soul.json) |
 | Magnavis | 356600 | [356600-magnavis.json](./356600-magnavis.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
+| Magnavox Odyssey DS | 300570 | [300570-magnavox-odyssey-ds.json](./300570-magnavox-odyssey-ds.json) |
 | Magneboy | 299834 | [299834-magneboy.json](./299834-magneboy.json) |
 | Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
 | Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Route: Escape the police | 117397 | [117397-make-route-escape-the-police.json](./117397-make-route-escape-the-police.json) |
 | Make Sail | 75419 | [75419-make-sail.json](./75419-make-sail.json) |
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
+| Make Ten | 300611 | [300611-make-ten.json](./300611-make-ten.json) |
 | Make That Date! | 313896 | [313896-make-that-date.json](./313896-make-that-date.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the Burger | 143663 | [143663-make-the-burger.json](./143663-make-the-burger.json) |
@@ -3904,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
 | Maria Way | 254716 | [254716-maria-way.json](./254716-maria-way.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
+| Maria-sama ga Gyakuten: Etape de l'hiver | 300584 | [300584-maria-sama-ga-gyakuten-etape-de-lhiver.json](./300584-maria-sama-ga-gyakuten-etape-de-lhiver.json) |
 | Maria: Kimitachi ga Umareta Wake | 73496 | [73496-maria-kimitachi-ga-umareta-wake.json](./73496-maria-kimitachi-ga-umareta-wake.json) |
 | Maria's Christmas Box | 15257 | [15257-marias-christmas-box.json](./15257-marias-christmas-box.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
@@ -5801,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matachin | 191994 | [191994-matachin.json](./191994-matachin.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
 | Matamarcianos | 209243 | [209243-matamarcianos.json](./209243-matamarcianos.json) |
+| Matantei Loki Ragnarok Mayoukaku: Ushinawareta Bishou | 300600 | [300600-matantei-loki-ragnarok-mayoukaku-ushinawareta-bishou.json](./300600-matantei-loki-ragnarok-mayoukaku-ushinawareta-bishou.json) |
 | Matantei Loki Ragnarok: Gensou no Labyrinth | 49698 | [49698-matantei-loki-ragnarok-gensou-no-labyrinth.json](./49698-matantei-loki-ragnarok-gensou-no-labyrinth.json) |
 | Matar Gente Rica de Skate | 281254 | [281254-matar-gente-rica-de-skate.json](./281254-matar-gente-rica-de-skate.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
@@ -20442,6 +20446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
 | Muffles' Life Sentence: Episode 3 | 344658 | [344658-muffles-life-sentence-episode-3.json](./344658-muffles-life-sentence-episode-3.json) |
 | Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
+| Muffy's Wardrobe | 300604 | [300604-muffys-wardrobe.json](./300604-muffys-wardrobe.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
 | Mug Smashers | 148075 | [148075-mug-smashers.json](./148075-mug-smashers.json) |
 | Muga | 202889 | [202889-muga.json](./202889-muga.json) |
