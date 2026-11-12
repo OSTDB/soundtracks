@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbling Clear | 281248 | [281248-marbling-clear.json](./281248-marbling-clear.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
+| Marbloid | 259209 | [259209-marbloid.json](./259209-marbloid.json) |
 | Marblous | 222089 | [222089-marblous.json](./222089-marblous.json) |
 | Marblous Worlds | 346516 | [346516-marblous-worlds.json](./346516-marblous-worlds.json) |
 | Marburgh | 126934 | [126934-marburgh.json](./126934-marburgh.json) |
@@ -6752,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
 | Maze Invaders | 98243 | [98243-maze-invaders.json](./98243-maze-invaders.json) |
 | Maze It Out | 374730 | [374730-maze-it-out.json](./374730-maze-it-out.json) |
+| Maze IV | 259217 | [259217-maze-iv.json](./259217-maze-iv.json) |
 | Maze Keeper | 310345 | [310345-maze-keeper.json](./310345-maze-keeper.json) |
 | Maze Land | 92143 | [92143-maze-land.json](./92143-maze-land.json) |
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
