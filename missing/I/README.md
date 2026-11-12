@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Infiltrator Nahara Skin & Feat Pack | 313704 | [313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json](./313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json) |
 | Idle Champions: Jack the Pumpkin Sprout Familiar Pack | 303542 | [303542-idle-champions-jack-the-pumpkin-sprout-familiar-pack.json](./303542-idle-champions-jack-the-pumpkin-sprout-familiar-pack.json) |
 | Idle Champions: Lae'zel's Champions of Renown Bundle | 312975 | [312975-idle-champions-laezels-champions-of-renown-bundle.json](./312975-idle-champions-laezels-champions-of-renown-bundle.json) |
+| Idle Champions: Little Luigi the Parrot Familiar Pack | 257030 | [257030-idle-champions-little-luigi-the-parrot-familiar-pack.json](./257030-idle-champions-little-luigi-the-parrot-familiar-pack.json) |
 | Idle Champions: Lord of Waterdeep Omin Skin & Feat Pack | 248400 | [248400-idle-champions-lord-of-waterdeep-omin-skin-and-feat-pack.json](./248400-idle-champions-lord-of-waterdeep-omin-skin-and-feat-pack.json) |
 | Idle Champions: Masquerade Ball Ellywick Theme Pack | 313694 | [313694-idle-champions-masquerade-ball-ellywick-theme-pack.json](./313694-idle-champions-masquerade-ball-ellywick-theme-pack.json) |
 | Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack | 313680 | [313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json](./313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Web Tycoon | 134316 | [134316-idle-web-tycoon.json](./134316-idle-web-tycoon.json) |
 | Idle Wizard | 101773 | [101773-idle-wizard.json](./101773-idle-wizard.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
+| Idle Worlds | 257059 | [257059-idle-worlds.json](./257059-idle-worlds.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zombie Wave: Survivors | 345381 | [345381-idle-zombie-wave-survivors.json](./345381-idle-zombie-wave-survivors.json) |
 | Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
@@ -2261,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikuze! Onsen Takkyuu!! | 218271 | [218271-ikuze-onsen-takkyuu.json](./218271-ikuze-onsen-takkyuu.json) |
 | Ikuzo | 253923 | [253923-ikuzo.json](./253923-ikuzo.json) |
 | Il | 159732 | [159732-il.json](./159732-il.json) |
+| Il Destino | 257053 | [257053-il-destino.json](./257053-il-destino.json) |
 | Il Destino R | 257278 | [257278-il-destino-r.json](./257278-il-destino-r.json) |
 | Il Divino: Michelangelo's Sistine Ceiling in VR | 130925 | [130925-il-divino-michelangelos-sistine-ceiling-in-vr.json](./130925-il-divino-michelangelos-sistine-ceiling-in-vr.json) |
 | Il Dule | 396201 | [396201-il-dule.json](./396201-il-dule.json) |
