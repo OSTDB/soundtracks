@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Craft | 354330 | [354330-paper-craft.json](./354330-paper-craft.json) |
 | Paper Cut Mansion | 86512 | [86512-paper-cut-mansion.json](./86512-paper-cut-mansion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
+| Paper Dash: Ghost Hunt | 263252 | [263252-paper-dash-ghost-hunt.json](./263252-paper-dash-ghost-hunt.json) |
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
 | Paper Dash: Las Vegas | 288392 | [288392-paper-dash-las-vegas.json](./288392-paper-dash-las-vegas.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
@@ -18073,6 +18074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proximity | 324643 | [324643-proximity.json](./324643-proximity.json) |
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
 | ProximityMines: Minesweeper Modernized | 95531 | [95531-proximitymines-minesweeper-modernized.json](./95531-proximitymines-minesweeper-modernized.json) |
+| ProxOS | 263184 | [263184-proxos.json](./263184-proxos.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Adventure: Small Test | 308676 | [308676-proxy-adventure-small-test.json](./308676-proxy-adventure-small-test.json) |
 | Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
@@ -19641,6 +19643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
 | Puzzle by Nikoli S Heyawake | 231252 | [231252-puzzle-by-nikoli-s-heyawake.json](./231252-puzzle-by-nikoli-s-heyawake.json) |
 | Puzzle by Nikoli S Hitori | 256591 | [256591-puzzle-by-nikoli-s-hitori.json](./256591-puzzle-by-nikoli-s-hitori.json) |
+| Puzzle by Nikoli S Kakuro | 263247 | [263247-puzzle-by-nikoli-s-kakuro.json](./263247-puzzle-by-nikoli-s-kakuro.json) |
 | Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S Yajilin | 252622 | [252622-puzzle-by-nikoli-s-yajilin.json](./252622-puzzle-by-nikoli-s-yajilin.json) |
@@ -20215,6 +20218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Robot in the Dungeon | 358465 | [358465-puzzling-robot-in-the-dungeon.json](./358465-puzzling-robot-in-the-dungeon.json) |
 | Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
 | Puzzling Wild IQ Test | 235782 | [235782-puzzling-wild-iq-test.json](./235782-puzzling-wild-iq-test.json) |
+| Puzzling Wild: DLC - 400 Extra Puzzle Pack | 263185 | [263185-puzzling-wild-dlc-400-extra-puzzle-pack.json](./263185-puzzling-wild-dlc-400-extra-puzzle-pack.json) |
 | Puzzlink | 283379 | [283379-puzzlink.json](./283379-puzzlink.json) |
 | Puzzlix | 68543 | [68543-puzzlix.json](./68543-puzzlix.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
