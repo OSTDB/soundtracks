@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Fight: Dango Style | 90777 | [90777-waifu-fight-dango-style.json](./90777-waifu-fight-dango-style.json) |
 | Waifu Fighter: Family Friendly | 236311 | [236311-waifu-fighter-family-friendly.json](./236311-waifu-fighter-family-friendly.json) |
 | Waifu Force | 264527 | [264527-waifu-force.json](./264527-waifu-force.json) |
+| Waifu Hell | 277553 | [277553-waifu-hell.json](./277553-waifu-hell.json) |
 | Waifu Hunter - Secret of Pirates | 112806 | [112806-waifu-hunter-secret-of-pirates.json](./112806-waifu-hunter-secret-of-pirates.json) |
 | Waifu Hunter: Episode 1 - The Runaway Samurai | 110541 | [110541-waifu-hunter-episode-1-the-runaway-samurai.json](./110541-waifu-hunter-episode-1-the-runaway-samurai.json) |
 | Waifu Impact | 157112 | [157112-waifu-impact.json](./157112-waifu-impact.json) |
@@ -4570,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
 | Where the Moon Goes at Night | 130568 | [130568-where-the-moon-goes-at-night.json](./130568-where-the-moon-goes-at-night.json) |
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
+| Where the Music Dies: Mirror of Regret | 277625 | [277625-where-the-music-dies-mirror-of-regret.json](./277625-where-the-music-dies-mirror-of-regret.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
 | Where the river dies | 120250 | [120250-where-the-river-dies.json](./120250-where-the-river-dies.json) |
 | Where The Road Fades | 404196 | [404196-where-the-road-fades.json](./404196-where-the-road-fades.json) |
