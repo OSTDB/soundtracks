@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
 | 2048 Solitaire | 104352 | [104352-2048-solitaire.json](./104352-2048-solitaire.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
+| 2048 Units of /vr/ | 273064 | [273064-2048-units-of-vr.json](./273064-2048-units-of-vr.json) |
 | 2048-F8 | 268503 | [268503-2048-f8.json](./268503-2048-f8.json) |
 | 2048: Bee the Swarm | 58695 | [58695-2048-bee-the-swarm.json](./58695-2048-bee-the-swarm.json) |
 | 2048: Dungeons | 292516 | [292516-2048-dungeons.json](./292516-2048-dungeons.json) |
