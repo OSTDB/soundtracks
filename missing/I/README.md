@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be a Girl and I Don't Know Why That's so Hard | 240121 | [240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json](./240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json) |
+| I Want to Be a Werewolf | 250676 | [250676-i-want-to-be-a-werewolf.json](./250676-i-want-to-be-a-werewolf.json) |
 | I Want to be Alive | 252610 | [252610-i-want-to-be-alive.json](./252610-i-want-to-be-alive.json) |
 | I Want To Be Happy | 293672 | [293672-i-want-to-be-happy.json](./293672-i-want-to-be-happy.json) |
 | I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Blue | 199210 | [199210-infinite-blue.json](./199210-infinite-blue.json) |
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
+| Inﬁnite Borders | 250568 | [250568-infinite-borders.json](./250568-infinite-borders.json) |
 | Infinite Borders: Three Kingdoms | 348170 | [348170-infinite-borders-three-kingdoms.json](./348170-infinite-borders-three-kingdoms.json) |
 | Infinite Bowling | 393186 | [393186-infinite-bowling.json](./393186-infinite-bowling.json) |
 | Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
