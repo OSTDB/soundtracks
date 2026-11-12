@@ -2511,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Station | 67795 | [67795-parfait-station.json](./67795-parfait-station.json) |
 | Parfait: Chocolat Second Brew | 79168 | [79168-parfait-chocolat-second-brew.json](./79168-parfait-chocolat-second-brew.json) |
 | Parfum Nostalgique | 259057 | [259057-parfum-nostalgique.json](./259057-parfum-nostalgique.json) |
+| Parhelion | 292215 | [292215-parhelion.json](./292215-parhelion.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Parigami | 256182 | [256182-parigami.json](./256182-parigami.json) |
 | Parigi Dakar | 69767 | [69767-parigi-dakar.json](./69767-parigi-dakar.json) |
@@ -5493,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Pod | 65252 | [65252-pew-pew-pod.json](./65252-pew-pew-pod.json) |
 | Pew Pew Puzzle Defense | 120033 | [120033-pew-pew-puzzle-defense.json](./120033-pew-pew-puzzle-defense.json) |
 | Pew Pew Squad | 273440 | [273440-pew-pew-squad.json](./273440-pew-pew-squad.json) |
+| Pew Pew vs. Monsters | 292178 | [292178-pew-pew-vs-monsters.json](./292178-pew-pew-vs-monsters.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | Pew-casso | 369387 | [369387-pew-casso.json](./369387-pew-casso.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
@@ -9105,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Quest: Guild | 423877 | [423877-pixel-quest-guild.json](./423877-pixel-quest-guild.json) |
 | Pixel Quest: Lost Relics | 304560 | [304560-pixel-quest-lost-relics.json](./304560-pixel-quest-lost-relics.json) |
 | Pixel Quest: Realm Eater | 338344 | [338344-pixel-quest-realm-eater.json](./338344-pixel-quest-realm-eater.json) |
+| Pixel Quest: Survivor | 292272 | [292272-pixel-quest-survivor.json](./292272-pixel-quest-survivor.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
 | Pixel Race Maker | 309443 | [309443-pixel-race-maker.json](./309443-pixel-race-maker.json) |
@@ -11463,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Snake | 68818 | [68818-point-snake.json](./68818-point-snake.json) |
 | Point Zero: Victoria | 390084 | [390084-point-zero-victoria.json](./390084-point-zero-victoria.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
+| Point4Point | 292195 | [292195-point4point.json](./292195-point4point.json) |
 | Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
@@ -13180,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyWar | 341564 | [341564-polywar.json](./341564-polywar.json) |
 | PolyZ | 297875 | [297875-polyz.json](./297875-polyz.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
+| Polyzone | 292179 | [292179-polyzone.json](./292179-polyzone.json) |
 | Polyzonia | 412713 | [412713-polyzonia.json](./412713-polyzonia.json) |
 | Polzun | 110729 | [110729-polzun.json](./110729-polzun.json) |
 | Pom Gets Wi-Fi | 62942 | [62942-pom-gets-wi-fi.json](./62942-pom-gets-wi-fi.json) |
@@ -14481,6 +14486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
 | Power of Love | 35287 | [35287-power-of-love.json](./35287-power-of-love.json) |
+| Power of Petanque | 292191 | [292191-power-of-petanque.json](./292191-power-of-petanque.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
 | Power of Ten | 144169 | [144169-power-of-ten.json](./144169-power-of-ten.json) |
@@ -19454,6 +19460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Action Rogue | 206396 | [206396-puzzle-action-rogue.json](./206396-puzzle-action-rogue.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
+| Puzzle Adventure VR | 292200 | [292200-puzzle-adventure-vr.json](./292200-puzzle-adventure-vr.json) |
 | Puzzle Adventure: Mystery Clue | 194125 | [194125-puzzle-adventure-mystery-clue.json](./194125-puzzle-adventure-mystery-clue.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures Bundle 4 in 1 | 368085 | [368085-puzzle-adventures-bundle-4-in-1.json](./368085-puzzle-adventures-bundle-4-in-1.json) |
