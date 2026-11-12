@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
 | A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
+| A One Rabbit Open Slay | 261000 | [261000-a-one-rabbit-open-slay.json](./261000-a-one-rabbit-open-slay.json) |
 | A Package for Space | 347956 | [347956-a-package-for-space.json](./347956-a-package-for-space.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
@@ -2767,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Angler: Fishing Spirits | 222795 | [222795-ace-angler-fishing-spirits.json](./222795-ace-angler-fishing-spirits.json) |
+| Ace Antigravity Combat Racing | 260901 | [260901-ace-antigravity-combat-racing.json](./260901-ace-antigravity-combat-racing.json) |
 | ACE Arena: Cyber Evolution | 17155 | [17155-ace-arena-cyber-evolution.json](./17155-ace-arena-cyber-evolution.json) |
 | Ace Armstrong vs. The Alien Scumbags! | 42784 | [42784-ace-armstrong-vs-the-alien-scumbags.json](./42784-ace-armstrong-vs-the-alien-scumbags.json) |
 | Ace Arrow | 233121 | [233121-ace-arrow.json](./233121-ace-arrow.json) |
@@ -4918,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
 | Afterlight: The Apartment | 414805 | [414805-afterlight-the-apartment.json](./414805-afterlight-the-apartment.json) |
+| Afterline Airlines | 260924 | [260924-afterline-airlines.json](./260924-afterline-airlines.json) |
 | Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
 | AfterLoop | 105427 | [105427-afterloop.json](./105427-afterloop.json) |
 | Afterlove EP | 185772 | [185772-afterlove-ep.json](./185772-afterlove-ep.json) |
@@ -6544,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Akegarasu: Journey to the Underworld | 392094 | [392094-akegarasu-journey-to-the-underworld.json](./392094-akegarasu-journey-to-the-underworld.json) |
 | Akeiro ni Somaru, Utsukushiki Yashiro de | 394791 | [394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json](./394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json) |
+| Akeldama | 260993 | [260993-akeldama.json](./260993-akeldama.json) |
 | Akemi-tan | 150550 | [150550-akemi-tan.json](./150550-akemi-tan.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
@@ -12594,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
+| Apex Legends: Resurrection | 260904 | [260904-apex-legends-resurrection.json](./260904-apex-legends-resurrection.json) |
 | Apex Legends: Revelry | 236655 | [236655-apex-legends-revelry.json](./236655-apex-legends-revelry.json) |
 | Apex Legends: Saviors | 198605 | [198605-apex-legends-saviors.json](./198605-apex-legends-saviors.json) |
 | Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
@@ -15174,6 +15179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armadillo Knight | 354557 | [354557-armadillo-knight.json](./354557-armadillo-knight.json) |
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
 | Armadillo Run | 23137 | [23137-armadillo-run.json](./23137-armadillo-run.json) |
+| Armadosia: The Mad Corridor | 260934 | [260934-armadosia-the-mad-corridor.json](./260934-armadosia-the-mad-corridor.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armaëth: The Lost Kingdom | 2311 | [2311-armaeth-the-lost-kingdom.json](./2311-armaeth-the-lost-kingdom.json) |
 | ArmaGallant: Decks of Destiny | 58921 | [58921-armagallant-decks-of-destiny.json](./58921-armagallant-decks-of-destiny.json) |
@@ -17576,6 +17582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
 | Astroloot | 333768 | [333768-astroloot.json](./333768-astroloot.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
+| AstroMania | 260989 | [260989-astromania.json](./260989-astromania.json) |
 | AstroMart Adventures | 291809 | [291809-astromart-adventures.json](./291809-astromart-adventures.json) |
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | Astromech | 363924 | [363924-astromech.json](./363924-astromech.json) |
@@ -18392,6 +18399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Atone | 277308 | [277308-atone.json](./277308-atone.json) |
 | Atone: Heart of the Elder Tree | 84479 | [84479-atone-heart-of-the-elder-tree.json](./84479-atone-heart-of-the-elder-tree.json) |
+| Atonement | 260992 | [260992-atonement.json](./260992-atonement.json) |
 | Atonement | 379987 | [379987-atonement.json](./379987-atonement.json) |
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
 | Atonement 2: Ruptured by Despair | 31088 | [31088-atonement-2-ruptured-by-despair.json](./31088-atonement-2-ruptured-by-despair.json) |
@@ -18432,6 +18440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrog | 13348 | [13348-atrog.json](./13348-atrog.json) |
 | Atron 5000 | 79102 | [79102-atron-5000.json](./79102-atron-5000.json) |
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
+| Atrophy | 261004 | [261004-atrophy.json](./261004-atrophy.json) |
 | Atrophy: XCIX | 268063 | [268063-atrophy-xcix.json](./268063-atrophy-xcix.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 46962 | [46962-atrox.json](./46962-atrox.json) |
