@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
 | Cacho Quest | 318534 | [318534-cacho-quest.json](./318534-cacho-quest.json) |
 | Cacildes Adventure | 269040 | [269040-cacildes-adventure.json](./269040-cacildes-adventure.json) |
+| Caco Bell | 315309 | [315309-caco-bell.json](./315309-caco-bell.json) |
 | Cacodemon's Barbecue Party in Hell | 69596 | [69596-cacodemons-barbecue-party-in-hell.json](./69596-cacodemons-barbecue-party-in-hell.json) |
 | Cacoma Knight in Bizyland | 42734 | [42734-cacoma-knight-in-bizyland.json](./42734-cacoma-knight-in-bizyland.json) |
 | Cacorm Mini | 345352 | [345352-cacorm-mini.json](./345352-cacorm-mini.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamari Clash | 127844 | [127844-calamari-clash.json](./127844-calamari-clash.json) |
 | Calame | 399999 | [399999-calame.json](./399999-calame.json) |
 | Calamity | 303719 | [303719-calamity.json](./303719-calamity.json) |
+| Calamity | 313596 | [313596-calamity.json](./313596-calamity.json) |
 | Calamity | 364103 | [364103-calamity.json](./364103-calamity.json) |
 | Calamity Angels: Special Delivery | 293165 | [293165-calamity-angels-special-delivery.json](./293165-calamity-angels-special-delivery.json) |
 | Calamity Angels: Special Delivery - Digital Deluxe Edition | 391861 | [391861-calamity-angels-special-delivery-digital-deluxe-edition.json](./391861-calamity-angels-special-delivery-digital-deluxe-edition.json) |
@@ -4714,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatCat Save The World | 284794 | [284794-catcat-save-the-world.json](./284794-catcat-save-the-world.json) |
 | CatCatch | 107759 | [107759-catcatch.json](./107759-catcatch.json) |
 | CatCatMan | 334224 | [334224-catcatman.json](./334224-catcatman.json) |
+| Catcelona | 315302 | [315302-catcelona.json](./315302-catcelona.json) |
 | Catch | 377015 | [377015-catch.json](./377015-catch.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
@@ -5060,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Pixels by Louisselle | 363168 | [363168-cats-in-pixels-by-louisselle.json](./363168-cats-in-pixels-by-louisselle.json) |
 | Cats In Space | 150365 | [150365-cats-in-space.json](./150365-cats-in-space.json) |
 | Cats in the Ancient City of Gu Su | 294358 | [294358-cats-in-the-ancient-city-of-gu-su.json](./294358-cats-in-the-ancient-city-of-gu-su.json) |
+| Cats in the Forbidden City | 315307 | [315307-cats-in-the-forbidden-city.json](./315307-cats-in-the-forbidden-city.json) |
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
 | Cats in Time | 149706 | [149706-cats-in-time.json](./149706-cats-in-time.json) |
 | Cats in Wonderland | 304839 | [304839-cats-in-wonderland.json](./304839-cats-in-wonderland.json) |
@@ -6699,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie Brown's ABC's | 39366 | [39366-charlie-browns-abcs.json](./39366-charlie-browns-abcs.json) |
 | Charlie Brown’s All-Stars | 291918 | [291918-charlie-brown-s-all-stars.json](./291918-charlie-brown-s-all-stars.json) |
 | Charlie Chaplin | 13480 | [13480-charlie-chaplin.json](./13480-charlie-chaplin.json) |
+| Charlie Charlie Challenge | 314089 | [314089-charlie-charlie-challenge.json](./314089-charlie-charlie-challenge.json) |
 | Charlie Charlie the Challenge and Game | 175076 | [175076-charlie-charlie-the-challenge-and-game.json](./175076-charlie-charlie-the-challenge-and-game.json) |
 | Charlie Church Mouse: 3D Bible Adventures | 206915 | [206915-charlie-church-mouse-3d-bible-adventures.json](./206915-charlie-church-mouse-3d-bible-adventures.json) |
 | Charlie Church Mouse: 3D Bible Adventures 2 | 206916 | [206916-charlie-church-mouse-3d-bible-adventures-2.json](./206916-charlie-church-mouse-3d-bible-adventures-2.json) |
@@ -9504,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cine Tracer 2 | 258584 | [258584-cine-tracer-2.json](./258584-cine-tracer-2.json) |
 | Cinema | 131118 | [131118-cinema.json](./131118-cinema.json) |
+| Cinema 14 | 314164 | [314164-cinema-14.json](./314164-cinema-14.json) |
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
@@ -11222,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Over It with a Spear Only Up | 304795 | [304795-climbing-over-it-with-a-spear-only-up.json](./304795-climbing-over-it-with-a-spear-only-up.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
+| Climbing with Silly Cat | 313517 | [313517-climbing-with-silly-cat.json](./313517-climbing-with-silly-cat.json) |
 | ClimbJong | 194174 | [194174-climbjong.json](./194174-climbjong.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
 | Climby | 57220 | [57220-climby.json](./57220-climby.json) |
@@ -13656,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Zone Special Forces | 52317 | [52317-combat-zone-special-forces.json](./52317-combat-zone-special-forces.json) |
 | Combat: Task Force 121 | 24745 | [24745-combat-task-force-121.json](./24745-combat-task-force-121.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
+| Combatant | 313019 | [313019-combatant.json](./313019-combatant.json) |
 | Combatants | 318666 | [318666-combatants.json](./318666-combatants.json) |
 | CombatArms: Reloaded | 110906 | [110906-combatarms-reloaded.json](./110906-combatarms-reloaded.json) |
 | Combate | 251313 | [251313-combate.json](./251313-combate.json) |
@@ -13994,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando | 306409 | [306409-commando.json](./306409-commando.json) |
 | Commando | 310110 | [310110-commando.json](./310110-commando.json) |
+| Commando | 313603 | [313603-commando.json](./313603-commando.json) |
 | Commando | 5668 | [5668-commando.json](./5668-commando.json) |
 | Commando 2 | 85900 | [85900-commando-2.json](./85900-commando-2.json) |
 | Commando 3 | 335477 | [335477-commando-3.json](./335477-commando-3.json) |
@@ -15991,6 +16000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corr | 245924 | [245924-corr.json](./245924-corr.json) |
 | Corr Idor | 277685 | [277685-corr-idor.json](./277685-corr-idor.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
+| Correct Picture | 314685 | [314685-correct-picture.json](./314685-correct-picture.json) |
 | Correction | 271394 | [271394-correction.json](./271394-correction.json) |
 | Corrida da pesada | 231207 | [231207-corrida-da-pesada.json](./231207-corrida-da-pesada.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
@@ -18392,6 +18402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
 | Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
+| Creatures of Ava: Deluxe Backpack Trinkets Set | 312948 | [312948-creatures-of-ava-deluxe-backpack-trinkets-set.json](./312948-creatures-of-ava-deluxe-backpack-trinkets-set.json) |
 | Creatures of Ava: Deluxe Edition | 312976 | [312976-creatures-of-ava-deluxe-edition.json](./312976-creatures-of-ava-deluxe-edition.json) |
 | Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
 | Creatures of Energy | 179384 | [179384-creatures-of-energy.json](./179384-creatures-of-energy.json) |
