@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm to Fork: Collector's Edition | 355526 | [355526-farm-to-fork-collectors-edition.json](./355526-farm-to-fork-collectors-edition.json) |
 | Farm to Table | 356719 | [356719-farm-to-table.json](./356719-farm-to-table.json) |
 | Farm Together | 86737 | [86737-farm-together.json](./86737-farm-together.json) |
+| Farm Together 2 | 295197 | [295197-farm-together-2.json](./295197-farm-together-2.json) |
 | Farm Together: Candy Pack | 223573 | [223573-farm-together-candy-pack.json](./223573-farm-together-candy-pack.json) |
 | Farm Together: Fantasy Pack | 203729 | [203729-farm-together-fantasy-pack.json](./203729-farm-together-fantasy-pack.json) |
 | Farm Together: Polar Pack | 203727 | [203727-farm-together-polar-pack.json](./203727-farm-together-polar-pack.json) |
@@ -14922,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionfall Legacy | 302612 | [302612-fusionfall-legacy.json](./302612-fusionfall-legacy.json) |
 | FusionFall Retro | 54747 | [54747-fusionfall-retro.json](./54747-fusionfall-retro.json) |
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
+| Fusionsmith | 295181 | [295181-fusionsmith.json](./295181-fusionsmith.json) |
 | Fuss-Ball | 59802 | [59802-fuss-ball.json](./59802-fuss-ball.json) |
 | Fussball Live | 43741 | [43741-fussball-live.json](./43741-fussball-live.json) |
 | Fussball Manager 23 | 263647 | [263647-fussball-manager-23.json](./263647-fussball-manager-23.json) |
