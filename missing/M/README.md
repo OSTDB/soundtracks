@@ -4094,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 193281 | [193281-mario-bros.json](./193281-mario-bros.json) |
 | Mario Bros. | 231740 | [231740-mario-bros.json](./231740-mario-bros.json) |
 | Mario Bros. | 231741 | [231741-mario-bros.json](./231741-mario-bros.json) |
+| Mario Bros. | 257635 | [257635-mario-bros.json](./257635-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
 | Mario Bros. | 341959 | [341959-mario-bros.json](./341959-mario-bros.json) |
@@ -11098,6 +11099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid II: Return of Samus | 1102 | [1102-metroid-ii-return-of-samus.json](./1102-metroid-ii-return-of-samus.json) |
 | Metroid II: Return of Samus DX | 165442 | [165442-metroid-ii-return-of-samus-dx.json](./165442-metroid-ii-return-of-samus-dx.json) |
 | Metroid Incursion | 213830 | [213830-metroid-incursion.json](./213830-metroid-incursion.json) |
+| Metroid Mission Rescue | 257622 | [257622-metroid-mission-rescue.json](./257622-metroid-mission-rescue.json) |
 | Metroid Mother | 372197 | [372197-metroid-mother.json](./372197-metroid-mother.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Oil Spill | 165290 | [165290-metroid-oil-spill.json](./165290-metroid-oil-spill.json) |
@@ -22824,6 +22826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Puppy Shop | 154786 | [154786-my-puppy-shop.json](./154786-my-puppy-shop.json) |
 | My Pure Boyfriend | 299510 | [299510-my-pure-boyfriend.json](./299510-my-pure-boyfriend.json) |
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
+| My QLDC Level | 257608 | [257608-my-qldc-level.json](./257608-my-qldc-level.json) |
 | My Racing Car | 419864 | [419864-my-racing-car.json](./419864-my-racing-car.json) |
 | My Racing Career | 253735 | [253735-my-racing-career.json](./253735-my-racing-career.json) |
 | My Racing Career | 89431 | [89431-my-racing-career.json](./89431-my-racing-career.json) |
@@ -22983,6 +22986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My Super Defender: Battle Santa Edition | 126737 | [126737-my-super-defender-battle-santa-edition.json](./126737-my-super-defender-battle-santa-edition.json) |
 | My Super Tower 3 | 97087 | [97087-my-super-tower-3.json](./97087-my-super-tower-3.json) |
+| My Supermarket | 257600 | [257600-my-supermarket.json](./257600-my-supermarket.json) |
 | My Supermarket Simulator | 409934 | [409934-my-supermarket-simulator.json](./409934-my-supermarket-simulator.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Superstar Boyfriend | 284164 | [284164-my-superstar-boyfriend.json](./284164-my-superstar-boyfriend.json) |
@@ -23827,8 +23831,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
 | Mystic Messenger: April Fool's 2017 DLC | 257839 | [257839-mystic-messenger-april-fools-2017-dlc.json](./257839-mystic-messenger-april-fools-2017-dlc.json) |
 | Mystic Messenger: Bad Jumin & After | 261139 | [261139-mystic-messenger-bad-jumin-and-after.json](./261139-mystic-messenger-bad-jumin-and-after.json) |
+| Mystic Messenger: Christmas Special 2016 DLC | 257629 | [257629-mystic-messenger-christmas-special-2016-dlc.json](./257629-mystic-messenger-christmas-special-2016-dlc.json) |
 | Mystic Messenger: Ray's After Ending | 261138 | [261138-mystic-messenger-rays-after-ending.json](./261138-mystic-messenger-rays-after-ending.json) |
 | Mystic Messenger: Rika's Behind Story | 261067 | [261067-mystic-messenger-rikas-behind-story.json](./261067-mystic-messenger-rikas-behind-story.json) |
+| Mystic Messenger: Valentine's Day DLC | 257628 | [257628-mystic-messenger-valentines-day-dlc.json](./257628-mystic-messenger-valentines-day-dlc.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mind: Yureru Omoi | 221464 | [221464-mystic-mind-yureru-omoi.json](./221464-mystic-mind-yureru-omoi.json) |
