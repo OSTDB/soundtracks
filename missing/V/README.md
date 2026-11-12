@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
 | Void Collections | 349730 | [349730-void-collections.json](./349730-void-collections.json) |
 | Void Collector | 333773 | [333773-void-collector.json](./333773-void-collector.json) |
+| Void Core | 248879 | [248879-void-core.json](./248879-void-core.json) |
 | Void Crawler | 263709 | [263709-void-crawler.json](./263709-void-crawler.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
 | Void Crew | 243017 | [243017-void-crew.json](./243017-void-crew.json) |
