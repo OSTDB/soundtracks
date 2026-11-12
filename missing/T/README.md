@@ -11660,6 +11660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
 | The Hundred Youkai Master | 346674 | [346674-the-hundred-youkai-master.json](./346674-the-hundred-youkai-master.json) |
+| The Hundredth Floor | 282343 | [282343-the-hundredth-floor.json](./282343-the-hundredth-floor.json) |
 | The Hundredth Floor: Extraction | 425174 | [425174-the-hundredth-floor-extraction.json](./425174-the-hundredth-floor-extraction.json) |
 | The Hundredth Hike | 321180 | [321180-the-hundredth-hike.json](./321180-the-hundredth-hike.json) |
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
@@ -13415,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Legacy: Launch Edition | 44020 | [44020-the-legend-of-legacy-launch-edition.json](./44020-the-legend-of-legacy-launch-edition.json) |
+| The Legend of Liu Bei of the Three Kingdoms | 282184 | [282184-the-legend-of-liu-bei-of-the-three-kingdoms.json](./282184-the-legend-of-liu-bei-of-the-three-kingdoms.json) |
 | The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
 | The Legend of Lorosity | 241267 | [241267-the-legend-of-lorosity.json](./241267-the-legend-of-lorosity.json) |
 | The Legend of Lotus Spring | 71044 | [71044-the-legend-of-lotus-spring.json](./71044-the-legend-of-lotus-spring.json) |
@@ -32938,6 +32940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe Dash | 243492 | [243492-tribe-dash.json](./243492-tribe-dash.json) |
 | Tribe Dash: Scout's Pack | 268796 | [268796-tribe-dash-scouts-pack.json](./268796-tribe-dash-scouts-pack.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
+| Tribe Nation | 282273 | [282273-tribe-nation.json](./282273-tribe-nation.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
@@ -33054,6 +33057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Keys 2 | 214956 | [214956-tricky-keys-2.json](./214956-tricky-keys-2.json) |
 | Tricky Kick | 92879 | [92879-tricky-kick.json](./92879-tricky-kick.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
+| Tricky Madness | 282272 | [282272-tricky-madness.json](./282272-tricky-madness.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
@@ -33216,6 +33220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Of The Fabled | 239814 | [239814-trinity-of-the-fabled.json](./239814-trinity-of-the-fabled.json) |
 | Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
+| Trinity Survivors | 282271 | [282271-trinity-survivors.json](./282271-trinity-survivors.json) |
 | Trinity Town Monastery \| Martial Art and Meditation | 116812 | [116812-trinity-town-monastery-martial-art-and-meditation.json](./116812-trinity-town-monastery-martial-art-and-meditation.json) |
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger DX | 420686 | [420686-trinity-trigger-dx.json](./420686-trinity-trigger-dx.json) |
@@ -33487,6 +33492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: Unhinged | 6216 | [6216-trivial-pursuit-unhinged.json](./6216-trivial-pursuit-unhinged.json) |
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
+| TriviaQuest: Mythic Conquest | 282270 | [282270-triviaquest-mythic-conquest.json](./282270-triviaquest-mythic-conquest.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
 | TriwarM Global | 411257 | [411257-triwarm-global.json](./411257-triwarm-global.json) |
 | Triwave | 111435 | [111435-triwave.json](./111435-triwave.json) |
@@ -33749,6 +33755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | TrotMania: Chrystalize | 261385 | [261385-trotmania-chrystalize.json](./261385-trotmania-chrystalize.json) |
 | TrotMania: Rhythm is Magic | 261384 | [261384-trotmania-rhythm-is-magic.json](./261384-trotmania-rhythm-is-magic.json) |
+| Troubadours | 282269 | [282269-troubadours.json](./282269-troubadours.json) |
 | Trouballs | 49987 | [49987-trouballs.json](./49987-trouballs.json) |
 | Trouble Captor! | 109118 | [109118-trouble-captor.json](./109118-trouble-captor.json) |
 | Trouble Comes Twice | 214884 | [214884-trouble-comes-twice.json](./214884-trouble-comes-twice.json) |
