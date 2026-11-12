@@ -8674,6 +8674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
 | Lost Gems | 156519 | [156519-lost-gems.json](./156519-lost-gems.json) |
 | Lost Girl | 184900 | [184900-lost-girl.json](./184900-lost-girl.json) |
+| Lost Girl | 288416 | [288416-lost-girl.json](./288416-lost-girl.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost Girl Platformer | 311207 | [311207-lost-girl-platformer.json](./311207-lost-girl-platformer.json) |
 | Lost Girl: The Game | 60836 | [60836-lost-girl-the-game.json](./60836-lost-girl-the-game.json) |
