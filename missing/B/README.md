@@ -17499,6 +17499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Bruma | 315384 | [315384-bruma.json](./315384-bruma.json) |
+| Brumal Quest | 270842 | [270842-brumal-quest.json](./270842-brumal-quest.json) |
 | Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brumley | 405770 | [405770-brumley.json](./405770-brumley.json) |
