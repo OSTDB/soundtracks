@@ -7622,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Cop: Medieval Chronicle | 141596 | [141596-medieval-cop-medieval-chronicle.json](./141596-medieval-cop-medieval-chronicle.json) |
 | Medieval Cop: Wolf's Bane | 101693 | [101693-medieval-cop-wolfs-bane.json](./101693-medieval-cop-wolfs-bane.json) |
 | Medieval Crafter: Blacksmith | 244837 | [244837-medieval-crafter-blacksmith.json](./244837-medieval-crafter-blacksmith.json) |
+| Medieval Darkness | 258746 | [258746-medieval-darkness.json](./258746-medieval-darkness.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Defenders | 10545 | [10545-medieval-defenders.json](./10545-medieval-defenders.json) |
 | Medieval Defenders HD | 175286 | [175286-medieval-defenders-hd.json](./175286-medieval-defenders-hd.json) |
@@ -10246,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Your Room: Toys Pack | 231229 | [231229-merge-your-room-toys-pack.json](./231229-merge-your-room-toys-pack.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
 | Merged | 57528 | [57528-merged.json](./57528-merged.json) |
+| Merged Gravity | 258655 | [258655-merged-gravity.json](./258655-merged-gravity.json) |
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
@@ -12947,6 +12949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milon's Secret Castle | 218778 | [218778-milons-secret-castle.json](./218778-milons-secret-castle.json) |
 | Milon's Secret Castle | 48081 | [48081-milons-secret-castle.json](./48081-milons-secret-castle.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
+| Milord | 258751 | [258751-milord.json](./258751-milord.json) |
 | Milosc | 213532 | [213532-milosc.json](./213532-milosc.json) |
 | Milt | 181195 | [181195-milt.json](./181195-milt.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
