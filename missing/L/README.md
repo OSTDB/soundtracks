@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La Patifferie | 307883 | [307883-la-patifferie.json](./307883-la-patifferie.json) |
 | La Peri | 33677 | [33677-la-peri.json](./33677-la-peri.json) |
+| La Perlas | 314560 | [314560-la-perlas.json](./314560-la-perlas.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Prision | 221595 | [221595-la-prision.json](./221595-la-prision.json) |
 | La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Legends: Heroes of Loria | 247561 | [247561-land-of-legends-heroes-of-loria.json](./247561-land-of-legends-heroes-of-loria.json) |
 | Land of Livia | 398028 | [398028-land-of-livia.json](./398028-land-of-livia.json) |
 | Land of Mu | 164191 | [164191-land-of-mu.json](./164191-land-of-mu.json) |
+| Land of Mushrooms | 313529 | [313529-land-of-mushrooms.json](./313529-land-of-mushrooms.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
 | Land of Mushrooms: Kawaii Animals - Skin Set | 324429 | [324429-land-of-mushrooms-kawaii-animals-skin-set.json](./324429-land-of-mushrooms-kawaii-animals-skin-set.json) |
@@ -8688,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Blue 2: Fate's Island | 318018 | [318018-lost-in-blue-2-fates-island.json](./318018-lost-in-blue-2-fates-island.json) |
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
+| Lost In Caves | 315739 | [315739-lost-in-caves.json](./315739-lost-in-caves.json) |
 | Lost in Cheese | 244945 | [244945-lost-in-cheese.json](./244945-lost-in-cheese.json) |
 | Lost in Damnation | 401485 | [401485-lost-in-damnation.json](./401485-lost-in-damnation.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
@@ -9018,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
+| Lost Treasure Escape | 315757 | [315757-lost-treasure-escape.json](./315757-lost-treasure-escape.json) |
 | Lost Treasure of Lima | 383885 | [383885-lost-treasure-of-lima.json](./383885-lost-treasure-of-lima.json) |
 | Lost Trials | 238680 | [238680-lost-trials.json](./238680-lost-trials.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
