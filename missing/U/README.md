@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unou Paradise | 289905 | [289905-unou-paradise.json](./289905-unou-paradise.json) |
 | Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
+| UnovaRPG | 250667 | [250667-unovarpg.json](./250667-unovarpg.json) |
 | Unpacking | 134276 | [134276-unpacking.json](./134276-unpacking.json) |
 | Unpacking Universe Dreams | 322531 | [322531-unpacking-universe-dreams.json](./322531-unpacking-universe-dreams.json) |
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
