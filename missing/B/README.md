@@ -1022,7 +1022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6270,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Nightmare | 377969 | [377969-bedtime-nightmare.json](./377969-bedtime-nightmare.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
+| Bedtime Stories 1 | 310227 | [310227-bedtime-stories-1.json](./310227-bedtime-stories-1.json) |
 | Bedtime Stories 2 | 370252 | [370252-bedtime-stories-2.json](./370252-bedtime-stories-2.json) |
 | Bedtime Stories 3 | 389807 | [389807-bedtime-stories-3.json](./389807-bedtime-stories-3.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
@@ -16525,6 +16525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brendan Keogh's Putting Challenge | 191444 | [191444-brendan-keoghs-putting-challenge.json](./191444-brendan-keoghs-putting-challenge.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brendon's Water Polo | 306401 | [306401-brendons-water-polo.json](./306401-brendons-water-polo.json) |
+| Brentwood | 310296 | [310296-brentwood.json](./310296-brentwood.json) |
 | Bret Airborne | 28587 | [28587-bret-airborne.json](./28587-bret-airborne.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
@@ -17065,6 +17066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brober man | 179926 | [179926-brober-man.json](./179926-brober-man.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
+| Broccoli | 310240 | [310240-broccoli.json](./310240-broccoli.json) |
 | Broccoli Bob | 29244 | [29244-broccoli-bob.json](./29244-broccoli-bob.json) |
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
@@ -18469,6 +18471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Fight: Ring no Haja | 42084 | [42084-bull-fight-ring-no-haja.json](./42084-bull-fight-ring-no-haja.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
+| Bull Looney | 310238 | [310238-bull-looney.json](./310238-bull-looney.json) |
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
 | Bull Riding Challenge 3 | 235129 | [235129-bull-riding-challenge-3.json](./235129-bull-riding-challenge-3.json) |
 | Bull Run | 282451 | [282451-bull-run.json](./282451-bull-run.json) |
