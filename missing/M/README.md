@@ -17347,6 +17347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Love | 101844 | [101844-monster-love.json](./101844-monster-love.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
+| Monster Lover: Balasque | 247708 | [247708-monster-lover-balasque.json](./247708-monster-lover-balasque.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
 | Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
@@ -22433,6 +22434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories: Summer | 300932 | [300932-my-horse-stories-summer.json](./300932-my-horse-stories-summer.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Horse Stories: Winter | 300933 | [300933-my-horse-stories-winter.json](./300933-my-horse-stories-winter.json) |
+| My Horse: Bonded Spirits | 247798 | [247798-my-horse-bonded-spirits.json](./247798-my-horse-bonded-spirits.json) |
 | My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
 | My Hot Beach Vacation | 367208 | [367208-my-hot-beach-vacation.json](./367208-my-hot-beach-vacation.json) |
 | My Hot Neighbor Kayla | 297152 | [297152-my-hot-neighbor-kayla.json](./297152-my-hot-neighbor-kayla.json) |
@@ -22708,6 +22710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Monster Eats Furniture | 219909 | [219909-my-monster-eats-furniture.json](./219909-my-monster-eats-furniture.json) |
 | My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
 | My Monsters | 307426 | [307426-my-monsters.json](./307426-my-monsters.json) |
+| My Monstrous Roommate. (étude) | 247707 | [247707-my-monstrous-roommate-etude.json](./247707-my-monstrous-roommate-etude.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Motel | 247987 | [247987-my-motel.json](./247987-my-motel.json) |
