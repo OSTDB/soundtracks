@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
 | End of Aspiration | 207977 | [207977-end-of-aspiration.json](./207977-end-of-aspiration.json) |
+| End of Back World | 275868 | [275868-end-of-back-world.json](./275868-end-of-back-world.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Days | 63740 | [63740-end-of-days.json](./63740-end-of-days.json) |
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal | 307436 | [307436-ethereal.json](./307436-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
 | Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
+| Ethereal Enigma | 275863 | [275863-ethereal-enigma.json](./275863-ethereal-enigma.json) |
 | Ethereal Fracture | 295747 | [295747-ethereal-fracture.json](./295747-ethereal-fracture.json) |
 | Ethereal Legends | 33892 | [33892-ethereal-legends.json](./33892-ethereal-legends.json) |
 | Ethereal Rift | 197520 | [197520-ethereal-rift.json](./197520-ethereal-rift.json) |
