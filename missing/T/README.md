@@ -13662,6 +13662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Four Swords Adventures | 1034 | [1034-the-legend-of-zelda-four-swords-adventures.json](./1034-the-legend-of-zelda-four-swords-adventures.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
+| The Legend of Zelda: Gerudo Exile | 259211 | [259211-the-legend-of-zelda-gerudo-exile.json](./259211-the-legend-of-zelda-gerudo-exile.json) |
 | The Legend of Zelda: Goddess of Wisdom | 218077 | [218077-the-legend-of-zelda-goddess-of-wisdom.json](./218077-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Guardians of Hyrule | 324003 | [324003-the-legend-of-zelda-guardians-of-hyrule.json](./324003-the-legend-of-zelda-guardians-of-hyrule.json) |
@@ -13963,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion King Legeng | 203655 | [203655-the-lion-king-legeng.json](./203655-the-lion-king-legeng.json) |
 | The Lion King V: Timon & Pumbaa | 203657 | [203657-the-lion-king-v-timon-and-pumbaa.json](./203657-the-lion-king-v-timon-and-pumbaa.json) |
 | The Lion King: Legacy Cartridge Collection | 195932 | [195932-the-lion-king-legacy-cartridge-collection.json](./195932-the-lion-king-legacy-cartridge-collection.json) |
+| The Lion King: Operation Pridelands | 259226 | [259226-the-lion-king-operation-pridelands.json](./259226-the-lion-king-operation-pridelands.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Boat Tour | 325093 | [325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json](./325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Jeep Tour | 325092 | [325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json](./325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json) |
 | The Lion King: Timon & Pumbaa | 217955 | [217955-the-lion-king-timon-and-pumbaa.json](./217955-the-lion-king-timon-and-pumbaa.json) |
@@ -22208,6 +22210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
 | Thrymly Disguised | 232781 | [232781-thrymly-disguised.json](./232781-thrymly-disguised.json) |
+| THT: Threnody | 259222 | [259222-tht-threnody.json](./259222-tht-threnody.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
 | Thug Destroyer | 393201 | [393201-thug-destroyer.json](./393201-thug-destroyer.json) |
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
