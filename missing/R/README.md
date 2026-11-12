@@ -11407,6 +11407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RomaHeta | 151952 | [151952-romaheta.json](./151952-romaheta.json) |
 | Roman Adventures - Britons. Season 2 | 126914 | [126914-roman-adventures-britons-season-2.json](./126914-roman-adventures-britons-season-2.json) |
 | Roman City Tycoon | 300834 | [300834-roman-city-tycoon.json](./300834-roman-city-tycoon.json) |
+| Roman Conquest: Rise to Power | 260352 | [260352-roman-conquest-rise-to-power.json](./260352-roman-conquest-rise-to-power.json) |
 | Roman Empire | 13752 | [13752-roman-empire.json](./13752-roman-empire.json) |
 | Roman Empire Farming | 300958 | [300958-roman-empire-farming.json](./300958-roman-empire-farming.json) |
 | Roman Empire Simulator | 265201 | [265201-roman-empire-simulator.json](./265201-roman-empire-simulator.json) |
@@ -11757,6 +11758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
 | Room Girl Paradise | 343154 | [343154-room-girl-paradise.json](./343154-room-girl-paradise.json) |
+| Room In Dream | 260433 | [260433-room-in-dream.json](./260433-room-in-dream.json) |
 | Room Map | 254937 | [254937-room-map.json](./254937-room-map.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
@@ -12171,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
 | Rotting Jam | 271847 | [271847-rotting-jam.json](./271847-rotting-jam.json) |
+| Rotting Rumble: Zombie Football | 260443 | [260443-rotting-rumble-zombie-football.json](./260443-rotting-rumble-zombie-football.json) |
 | Rottweiler | 321057 | [321057-rottweiler.json](./321057-rottweiler.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
 | Rotund Takeoff | 139303 | [139303-rotund-takeoff.json](./139303-rotund-takeoff.json) |
@@ -13694,6 +13697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | RunOut | 220490 | [220490-runout.json](./220490-runout.json) |
+| RunOut: Hothead Paws | 260350 | [260350-runout-hothead-paws.json](./260350-runout-hothead-paws.json) |
 | RunPostmanRun | 94132 | [94132-runpostmanrun.json](./94132-runpostmanrun.json) |
 | RunPunk: The Parkour Game | 363649 | [363649-runpunk-the-parkour-game.json](./363649-runpunk-the-parkour-game.json) |
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
