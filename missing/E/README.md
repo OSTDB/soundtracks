@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Empath | 182825 | [182825-empath.json](./182825-empath.json) |
 | Empathy: Path of Whispers | 29138 | [29138-empathy-path-of-whispers.json](./29138-empathy-path-of-whispers.json) |
+| Empedokles Domain | 271964 | [271964-empedokles-domain.json](./271964-empedokles-domain.json) |
 | Emperial Knights | 196581 | [196581-emperial-knights.json](./196581-emperial-knights.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Emperor Kingdom | 29647 | [29647-emperor-kingdom.json](./29647-emperor-kingdom.json) |
