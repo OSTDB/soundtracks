@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochaken no Yume Bouken | 49741 | [49741-ochaken-no-yume-bouken.json](./49741-ochaken-no-yume-bouken.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
 | Ochakumi + | 71433 | [71433-ochakumi.json](./71433-ochakumi.json) |
+| Ochanoma Densetsu | 264269 | [264269-ochanoma-densetsu.json](./264269-ochanoma-densetsu.json) |
 | Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochimono Puzzle King | 82582 | [82582-ochimono-puzzle-king.json](./82582-ochimono-puzzle-king.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, My Word! 2 | 58229 | [58229-oh-my-word-2.json](./58229-oh-my-word-2.json) |
 | Oh, Terry! | 178818 | [178818-oh-terry.json](./178818-oh-terry.json) |
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
+| Oh, Yes! Kasshoku Hitozuma no Seiyoku Kaishou ~Ero Ero Dekiru Mama-san Volley Kai~ | 264297 | [264297-oh-yes-kasshoku-hitozuma-no-seiyoku-kaishou-ero-ero-dekiru-mama-san-volley-kai.json](./264297-oh-yes-kasshoku-hitozuma-no-seiyoku-kaishou-ero-ero-dekiru-mama-san-volley-kai.json) |
 | Oh, You Touch My Balls | 377910 | [377910-oh-you-touch-my-balls.json](./377910-oh-you-touch-my-balls.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | Oh! Fuse Box | 243528 | [243528-oh-fuse-box.json](./243528-oh-fuse-box.json) |
