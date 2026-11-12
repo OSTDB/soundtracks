@@ -7717,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
 | Fix it: The Handyman Simulator | 193571 | [193571-fix-it-the-handyman-simulator.json](./193571-fix-it-the-handyman-simulator.json) |
 | Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
+| Fix Me Up Doc!: Dark Humor | 260933 | [260933-fix-me-up-doc-dark-humor.json](./260933-fix-me-up-doc-dark-humor.json) |
 | Fix Me Up: Hospital Edition | 199691 | [199691-fix-me-up-hospital-edition.json](./199691-fix-me-up-hospital-edition.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Custom Mods | 102630 | [102630-fix-my-car-custom-mods.json](./102630-fix-my-car-custom-mods.json) |
@@ -13077,6 +13078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendZoned Archer | 88132 | [88132-friendzoned-archer.json](./88132-friendzoned-archer.json) |
 | Fries Drive | 391428 | [391428-fries-drive.json](./391428-fries-drive.json) |
 | Frieseria: The Grand Reopening | 266994 | [266994-frieseria-the-grand-reopening.json](./266994-frieseria-the-grand-reopening.json) |
+| Frig | 260916 | [260916-frig.json](./260916-frig.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
 | Fright Animatronics | 391129 | [391129-fright-animatronics.json](./391129-fright-animatronics.json) |
