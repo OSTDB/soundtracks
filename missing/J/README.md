@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
 | Jikandia: The Timeless Land | 17268 | [17268-jikandia-the-timeless-land.json](./17268-jikandia-the-timeless-land.json) |
+| Jikansa Tansa | 307459 | [307459-jikansa-tansa.json](./307459-jikansa-tansa.json) |
 | Jikki Pachi-Slot Simulator Vol. 1 | 254450 | [254450-jikki-pachi-slot-simulator-vol-1.json](./254450-jikki-pachi-slot-simulator-vol-1.json) |
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
 | Jikkyou Golf Master 2000 | 143661 | [143661-jikkyou-golf-master-2000.json](./143661-jikkyou-golf-master-2000.json) |
