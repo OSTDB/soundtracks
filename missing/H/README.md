@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Yet Laid-Back Hero Battle: Kamuikko-tan Passionate Edition!? | 424823 | [424823-hardcore-yet-laid-back-hero-battle-kamuikko-tan-passionate-edition.json](./424823-hardcore-yet-laid-back-hero-battle-kamuikko-tan-passionate-edition.json) |
 | Hardcore ZBoy | 59139 | [59139-hardcore-zboy.json](./59139-hardcore-zboy.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
+| Hardcore!!! MILF Sex Party | 289508 | [289508-hardcore-milf-sex-party.json](./289508-hardcore-milf-sex-party.json) |
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
 | HardCube + Mystery Mine Bundle | 164695 | [164695-hardcube-mystery-mine-bundle.json](./164695-hardcube-mystery-mine-bundle.json) |
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
