@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babe and Friends | 49915 | [49915-babe-and-friends.json](./49915-babe-and-friends.json) |
 | Babe and Friends: Animated Preschool Adventure | 316923 | [316923-babe-and-friends-animated-preschool-adventure.json](./316923-babe-and-friends-animated-preschool-adventure.json) |
+| Babe Balloon Blast | 256471 | [256471-babe-balloon-blast.json](./256471-babe-balloon-blast.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
 | Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
 | Babel | 181597 | [181597-babel.json](./181597-babel.json) |
@@ -1027,7 +1028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -18004,6 +18004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter: Color Splash | 413361 | [413361-bubble-shooter-color-splash.json](./413361-bubble-shooter-color-splash.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter: HD | 175505 | [175505-bubble-shooter-hd.json](./175505-bubble-shooter-hd.json) |
+| Bubble Shooter: Jungle Pop | 256510 | [256510-bubble-shooter-jungle-pop.json](./256510-bubble-shooter-jungle-pop.json) |
 | Bubble Shooter: Original Bear | 97260 | [97260-bubble-shooter-original-bear.json](./97260-bubble-shooter-original-bear.json) |
 | Bubble Shooter! Extreme | 216079 | [216079-bubble-shooter-extreme.json](./216079-bubble-shooter-extreme.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
