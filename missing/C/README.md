@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
 | Call of the Wild: The Angler - Launch Edition | 264161 | [264161-call-of-the-wild-the-angler-launch-edition.json](./264161-call-of-the-wild-the-angler-launch-edition.json) |
+| Call of the Wild: The Angler - Mountain Range Pack | 311384 | [311384-call-of-the-wild-the-angler-mountain-range-pack.json](./311384-call-of-the-wild-the-angler-mountain-range-pack.json) |
 | Call of the Wild: The Angler - Norway Reserve | 231009 | [231009-call-of-the-wild-the-angler-norway-reserve.json](./231009-call-of-the-wild-the-angler-norway-reserve.json) |
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Silver Fishing Bundle | 301764 | [301764-call-of-the-wild-the-angler-silver-fishing-bundle.json](./301764-call-of-the-wild-the-angler-silver-fishing-bundle.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Quest: Simple Card Game | 406084 | [406084-card-quest-simple-card-game.json](./406084-card-quest-simple-card-game.json) |
 | Card Racer | 291901 | [291901-card-racer.json](./291901-card-racer.json) |
 | Card Racing Simulator: Otterrific Arcade | 217917 | [217917-card-racing-simulator-otterrific-arcade.json](./217917-card-racing-simulator-otterrific-arcade.json) |
+| Card Rogue | 311831 | [311831-card-rogue.json](./311831-card-rogue.json) |
 | Card Roguelike of Musou Farming | 389364 | [389364-card-roguelike-of-musou-farming.json](./389364-card-roguelike-of-musou-farming.json) |
 | Card Sagas Wars | 136563 | [136563-card-sagas-wars.json](./136563-card-sagas-wars.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
@@ -2806,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Chains | 96221 | [96221-cardinal-chains.json](./96221-cardinal-chains.json) |
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
+| Cardinal Descent | 311832 | [311832-cardinal-descent.json](./311832-cardinal-descent.json) |
 | Cardinal Fall | 407576 | [407576-cardinal-fall.json](./407576-cardinal-fall.json) |
 | Cardinal Island | 375915 | [375915-cardinal-island.json](./375915-cardinal-island.json) |
 | Cardinal Land | 134403 | [134403-cardinal-land.json](./134403-cardinal-land.json) |
@@ -19037,6 +19040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
 | Croakwood | 305069 | [305069-croakwood.json](./305069-croakwood.json) |
+| Croatan | 311378 | [311378-croatan.json](./311378-croatan.json) |
 | Croc | 143008 | [143008-croc.json](./143008-croc.json) |
 | Croc 2 | 165236 | [165236-croc-2.json](./165236-croc-2.json) |
 | Croc 2 | 7902 | [7902-croc-2.json](./7902-croc-2.json) |
