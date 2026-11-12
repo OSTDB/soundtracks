@@ -4755,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | Afro Santa | 247247 | [247247-afro-santa.json](./247247-afro-santa.json) |
+| Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After | 163792 | [163792-after.json](./163792-after.json) |
 | After | 219966 | [219966-after.json](./219966-after.json) |
@@ -7389,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice＝Alice ＆ Bad Medicine 2 in 1 Pack for Nintendo Switch | 413715 | [413715-alice-alice-and-bad-medicine-2-in-1-pack-for-nintendo-switch.json](./413715-alice-alice-and-bad-medicine-2-in-1-pack-for-nintendo-switch.json) |
 | Alicemare | 26138 | [26138-alicemare.json](./26138-alicemare.json) |
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
+| Alicia Griffith: Lakeside Murder - Collector's Edition | 246612 | [246612-alicia-griffith-lakeside-murder-collectors-edition.json](./246612-alicia-griffith-lakeside-murder-collectors-edition.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
 | Alicia Quatermain 3: The Mystery of the Flaming Gold | 113180 | [113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json](./113180-alicia-quatermain-3-the-mystery-of-the-flaming-gold.json) |
