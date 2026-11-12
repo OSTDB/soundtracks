@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Is Just Going | 422701 | [422701-warrior-is-just-going.json](./422701-warrior-is-just-going.json) |
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
 | Warrior Kings: Battles | 24179 | [24179-warrior-kings-battles.json](./24179-warrior-kings-battles.json) |
+| Warrior Lords | 295180 | [295180-warrior-lords.json](./295180-warrior-lords.json) |
 | Warrior Mage or Rogue alike | 359352 | [359352-warrior-mage-or-rogue-alike.json](./359352-warrior-mage-or-rogue-alike.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
@@ -5556,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Hunter: Sniper Rifle Adventures Simulator | 317439 | [317439-wild-hunter-sniper-rifle-adventures-simulator.json](./317439-wild-hunter-sniper-rifle-adventures-simulator.json) |
 | Wild Hunting | 267432 | [267432-wild-hunting.json](./267432-wild-hunting.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
+| Wild in the West | 295588 | [295588-wild-in-the-west.json](./295588-wild-in-the-west.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Island | 384272 | [384272-wild-island.json](./384272-wild-island.json) |
 | Wild Island Quest | 34693 | [34693-wild-island-quest.json](./34693-wild-island-quest.json) |
