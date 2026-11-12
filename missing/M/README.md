@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Manifest Anything | 387098 | [387098-manifest-anything.json](./387098-manifest-anything.json) |
+| Manifest Destiny | 276994 | [276994-manifest-destiny.json](./276994-manifest-destiny.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
 | Manifesto | 388347 | [388347-manifesto.json](./388347-manifesto.json) |
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
@@ -6661,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 218529 | [218529-maze.json](./218529-maze.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 222605 | [222605-maze.json](./222605-maze.json) |
+| Maze | 276993 | [276993-maze.json](./276993-maze.json) |
 | Maze | 311396 | [311396-maze.json](./311396-maze.json) |
 | Maze | 351700 | [351700-maze.json](./351700-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
@@ -12291,6 +12293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midtown Madness 3 | 5929 | [5929-midtown-madness-3.json](./5929-midtown-madness-3.json) |
 | Midtris | 341611 | [341611-midtris.json](./341611-midtris.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
+| Midway | 276914 | [276914-midway.json](./276914-midway.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
 | Midway Arcade | 93496 | [93496-midway-arcade.json](./93496-midway-arcade.json) |
 | Midway Arcade Origins | 7070 | [7070-midway-arcade-origins.json](./7070-midway-arcade-origins.json) |
@@ -14120,6 +14123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
 | Minigolf Blast | 95583 | [95583-minigolf-blast.json](./95583-minigolf-blast.json) |
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
+| Minigolf Galaxy: Green Valley | 276992 | [276992-minigolf-galaxy-green-valley.json](./276992-minigolf-galaxy-green-valley.json) |
 | MiniGolf in Frozen City | 99909 | [99909-minigolf-in-frozen-city.json](./99909-minigolf-in-frozen-city.json) |
 | MiniGolf Island | 235156 | [235156-minigolf-island.json](./235156-minigolf-island.json) |
 | MiniGolf Mania | 33237 | [33237-minigolf-mania.json](./33237-minigolf-mania.json) |
@@ -16946,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Cooking Diary | 304965 | [304965-monster-cooking-diary.json](./304965-monster-cooking-diary.json) |
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crawl | 223210 | [223210-monster-crawl.json](./223210-monster-crawl.json) |
+| Monster Crawl: Warrior | 276997 | [276997-monster-crawl-warrior.json](./276997-monster-crawl-warrior.json) |
 | Monster Create | 356009 | [356009-monster-create.json](./356009-monster-create.json) |
 | Monster Crown | 95616 | [95616-monster-crown.json](./95616-monster-crown.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
@@ -21969,6 +21974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Setup | 226386 | [226386-my-dream-setup.json](./226386-my-dream-setup.json) |
 | My Dream Setup: Bathroom DLC | 297148 | [297148-my-dream-setup-bathroom-dlc.json](./297148-my-dream-setup-bathroom-dlc.json) |
 | My Dream Setup: Kitchen DLC | 297149 | [297149-my-dream-setup-kitchen-dlc.json](./297149-my-dream-setup-kitchen-dlc.json) |
+| My Dream Setup: Pets | 276996 | [276996-my-dream-setup-pets.json](./276996-my-dream-setup-pets.json) |
 | My Dream Setup: Sim Racing | 375594 | [375594-my-dream-setup-sim-racing.json](./375594-my-dream-setup-sim-racing.json) |
 | My Dream Sport Dating Simulator | 149819 | [149819-my-dream-sport-dating-simulator.json](./149819-my-dream-sport-dating-simulator.json) |
 | My Dreams | 280470 | [280470-my-dreams.json](./280470-my-dreams.json) |
