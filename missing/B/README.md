@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6085,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties! They're All After Me | 306240 | [306240-beauties-theyre-all-after-me.json](./306240-beauties-theyre-all-after-me.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
 | Beautiful Anime Puzzles: Rainy Days | 342337 | [342337-beautiful-anime-puzzles-rainy-days.json](./342337-beautiful-anime-puzzles-rainy-days.json) |
+| Beautiful Blood | 299657 | [299657-beautiful-blood.json](./299657-beautiful-blood.json) |
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
 | Beautiful Cell | 371161 | [371161-beautiful-cell.json](./371161-beautiful-cell.json) |
 | Beautiful Checkers | 338207 | [338207-beautiful-checkers.json](./338207-beautiful-checkers.json) |
@@ -18708,6 +18710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Billy | 177146 | [177146-bully-billy.json](./177146-bully-billy.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
+| Bully Me More | 299070 | [299070-bully-me-more.json](./299070-bully-me-more.json) |
 | Bully Mobile | 85796 | [85796-bully-mobile.json](./85796-bully-mobile.json) |
 | Bully Online | 381884 | [381884-bully-online.json](./381884-bully-online.json) |
 | Bully Store | 101393 | [101393-bully-store.json](./101393-bully-store.json) |
