@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Exogear | 398137 | [398137-elemental-exogear.json](./398137-elemental-exogear.json) |
 | Elemental Force | 274062 | [274062-elemental-force.json](./274062-elemental-force.json) |
+| Elemental Fury | 258685 | [258685-elemental-fury.json](./258685-elemental-fury.json) |
 | Elemental Gearbolt | 9137 | [9137-elemental-gearbolt.json](./9137-elemental-gearbolt.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
 | Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
@@ -2532,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
 | Elemental Princesses: Super Magical Quest | 342384 | [342384-elemental-princesses-super-magical-quest.json](./342384-elemental-princesses-super-magical-quest.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
+| Elemental Realms | 258665 | [258665-elemental-realms.json](./258665-elemental-realms.json) |
 | Elemental Roll | 195355 | [195355-elemental-roll.json](./195355-elemental-roll.json) |
 | Elemental Rush | 360689 | [360689-elemental-rush.json](./360689-elemental-rush.json) |
 | Elemental Saga | 361301 | [361301-elemental-saga.json](./361301-elemental-saga.json) |
