@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
 | I Commissioned Some Bunnies 6 | 301228 | [301228-i-commissioned-some-bunnies-6.json](./301228-i-commissioned-some-bunnies-6.json) |
 | I Commissioned Some Bunnies 8 | 304411 | [304411-i-commissioned-some-bunnies-8.json](./304411-i-commissioned-some-bunnies-8.json) |
+| I Commissioned Some Bunnies 9 | 306249 | [306249-i-commissioned-some-bunnies-9.json](./306249-i-commissioned-some-bunnies-9.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
 | I Commissioned Some Butterflies 2 | 302332 | [302332-i-commissioned-some-butterflies-2.json](./302332-i-commissioned-some-butterflies-2.json) |
 | I Commissioned Some Butterflies 3 | 303939 | [303939-i-commissioned-some-butterflies-3.json](./303939-i-commissioned-some-butterflies-3.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Tenebris | 405683 | [405683-in-tenebris.json](./405683-in-tenebris.json) |
 | In Tent to Kill! | 292890 | [292890-in-tent-to-kill.json](./292890-in-tent-to-kill.json) |
 | In the 1st Degree | 22601 | [22601-in-the-1st-degree.json](./22601-in-the-1st-degree.json) |
+| In the Abyss | 306815 | [306815-in-the-abyss.json](./306815-in-the-abyss.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Backrooms | 236463 | [236463-in-the-backrooms.json](./236463-in-the-backrooms.json) |
 | In the Bag | 125112 | [125112-in-the-bag.json](./125112-in-the-bag.json) |
