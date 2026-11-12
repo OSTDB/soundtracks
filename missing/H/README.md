@@ -6481,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero vs. 1000 | 302044 | [302044-hero-vs-1000.json](./302044-hero-vs-1000.json) |
 | Hero Wars | 140571 | [140571-hero-wars.json](./140571-hero-wars.json) |
 | Hero Wars: Fantasy Battles | 233394 | [233394-hero-wars-fantasy-battles.json](./233394-hero-wars-fantasy-battles.json) |
+| Hero Wars: SuperStickmanDefense | 256570 | [256570-hero-wars-superstickmandefense.json](./256570-hero-wars-superstickmandefense.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
 | Hero Wheels | 213343 | [213343-hero-wheels.json](./213343-hero-wheels.json) |
 | Hero World | 239801 | [239801-hero-world.json](./239801-hero-world.json) |
@@ -9013,6 +9014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Button RPG | 58876 | [58876-hit-the-button-rpg.json](./58876-hit-the-button-rpg.json) |
 | Hit The Buzzer | 426030 | [426030-hit-the-buzzer.json](./426030-hit-the-buzzer.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
+| Hit the Color | 256497 | [256497-hit-the-color.json](./256497-hit-the-color.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
 | Hit the Fan | 365797 | [365797-hit-the-fan.json](./365797-hit-the-fan.json) |
 | Hit the Freak | 322829 | [322829-hit-the-freak.json](./322829-hit-the-freak.json) |
@@ -12311,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Howdy! The Western Game | 100584 | [100584-howdy-the-western-game.json](./100584-howdy-the-western-game.json) |
 | Howie Go Viral | 140258 | [140258-howie-go-viral.json](./140258-howie-go-viral.json) |
+| Howl | 256476 | [256476-howl.json](./256476-howl.json) |
 | Howl | 31710 | [31710-howl.json](./31710-howl.json) |
 | Howl | 399756 | [399756-howl.json](./399756-howl.json) |
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
@@ -13804,6 +13807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperStorm | 123741 | [123741-hyperstorm.json](./123741-hyperstorm.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | HyperTag | 77408 | [77408-hypertag.json](./77408-hypertag.json) |
+| Hypertension | 256498 | [256498-hypertension.json](./256498-hypertension.json) |
 | Hyperthymesia | 382116 | [382116-hyperthymesia.json](./382116-hyperthymesia.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
