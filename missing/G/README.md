@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Grind: Night of the Necromancer | 145356 | [145356-ghoul-grind-night-of-the-necromancer.json](./145356-ghoul-grind-night-of-the-necromancer.json) |
 | Ghoul Groove | 365800 | [365800-ghoul-groove.json](./365800-ghoul-groove.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
+| Ghoul League | 288422 | [288422-ghoul-league.json](./288422-ghoul-league.json) |
 | Ghoul Manor | 14093 | [14093-ghoul-manor.json](./14093-ghoul-manor.json) |
 | Ghoul Master | 178739 | [178739-ghoul-master.json](./178739-ghoul-master.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
