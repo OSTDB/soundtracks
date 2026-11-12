@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
+| Car Race | 276913 | [276913-car-race.json](./276913-car-race.json) |
 | Car Race | 28354 | [28354-car-race.json](./28354-car-race.json) |
 | Car Race | 312250 | [312250-car-race.json](./312250-car-race.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
@@ -7912,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | Chicobanana: Space Pong | 232101 | [232101-chicobanana-space-pong.json](./232101-chicobanana-space-pong.json) |
+| Chicocos S.A. | 276896 | [276896-chicocos-s-a.json](./276896-chicocos-s-a.json) |
 | Chicory: A Colorful Tale | 117266 | [117266-chicory-a-colorful-tale.json](./117266-chicory-a-colorful-tale.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chiebura | 130585 | [130585-chiebura.json](./130585-chiebura.json) |
@@ -13586,6 +13588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
 | Colour My Heart | 384025 | [384025-colour-my-heart.json](./384025-colour-my-heart.json) |
 | Colour My World | 384026 | [384026-colour-my-world.json](./384026-colour-my-world.json) |
+| Colour of Ineptation | 276899 | [276899-colour-of-ineptation.json](./276899-colour-of-ineptation.json) |
 | Colour Switch Dash | 87018 | [87018-colour-switch-dash.json](./87018-colour-switch-dash.json) |
 | Colourblind | 235830 | [235830-colourblind.json](./235830-colourblind.json) |
 | Colourful Maze | 112673 | [112673-colourful-maze.json](./112673-colourful-maze.json) |
