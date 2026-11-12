@@ -13933,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Train Trip 2: Fast Time | 316115 | [316115-russian-train-trip-2-fast-time.json](./316115-russian-train-trip-2-fast-time.json) |
 | Russian Train Trip 2: Putin's Posters in the Train Car | 316118 | [316118-russian-train-trip-2-putins-posters-in-the-train-car.json](./316118-russian-train-trip-2-putins-posters-in-the-train-car.json) |
 | Russian Train Trip 2: VIP Seat In The Train Car | 316116 | [316116-russian-train-trip-2-vip-seat-in-the-train-car.json](./316116-russian-train-trip-2-vip-seat-in-the-train-car.json) |
+| Russian Train Trip 3 | 257697 | [257697-russian-train-trip-3.json](./257697-russian-train-trip-3.json) |
 | Russian Train Trip 3: Beer On The Train | 316110 | [316110-russian-train-trip-3-beer-on-the-train.json](./316110-russian-train-trip-3-beer-on-the-train.json) |
 | Russian Train Trip 3: Flashlight | 316109 | [316109-russian-train-trip-3-flashlight.json](./316109-russian-train-trip-3-flashlight.json) |
 | Russian Train Trip 3: Gorbachev's Posters In The Apartment | 316106 | [316106-russian-train-trip-3-gorbachevs-posters-in-the-apartment.json](./316106-russian-train-trip-3-gorbachevs-posters-in-the-apartment.json) |
