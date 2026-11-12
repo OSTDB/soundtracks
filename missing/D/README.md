@@ -15901,6 +15901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: The Breakers - Special Edition | 210457 | [210457-dragon-ball-the-breakers-special-edition.json](./210457-dragon-ball-the-breakers-special-edition.json) |
 | Dragon Ball: Ultimate Swipe | 61491 | [61491-dragon-ball-ultimate-swipe.json](./61491-dragon-ball-ultimate-swipe.json) |
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
+| Dragon Ball: Xenoverse - Bundle Edition | 292804 | [292804-dragon-ball-xenoverse-bundle-edition.json](./292804-dragon-ball-xenoverse-bundle-edition.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse - GT Pack 1 | 213584 | [213584-dragon-ball-xenoverse-gt-pack-1.json](./213584-dragon-ball-xenoverse-gt-pack-1.json) |
 | Dragon Ball: Xenoverse - GT Pack 2 + Mira and Towa | 224326 | [224326-dragon-ball-xenoverse-gt-pack-2-mira-and-towa.json](./224326-dragon-ball-xenoverse-gt-pack-2-mira-and-towa.json) |
@@ -19162,6 +19163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Sherlock: The Hot Dogs of the Bakerville | 419923 | [419923-dumb-sherlock-the-hot-dogs-of-the-bakerville.json](./419923-dumb-sherlock-the-hot-dogs-of-the-bakerville.json) |
 | Dumb Stone | 55274 | [55274-dumb-stone.json](./55274-dumb-stone.json) |
+| Dumb Test: Check Your Teammates | 292704 | [292704-dumb-test-check-your-teammates.json](./292704-dumb-test-check-your-teammates.json) |
 | Dumb Ways Free For All | 325872 | [325872-dumb-ways-free-for-all.json](./325872-dumb-ways-free-for-all.json) |
 | Dumb Ways to Build | 414526 | [414526-dumb-ways-to-build.json](./414526-dumb-ways-to-build.json) |
 | Dumb Ways to Climb | 257792 | [257792-dumb-ways-to-climb.json](./257792-dumb-ways-to-climb.json) |
