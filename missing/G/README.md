@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Souls | 253308 | [253308-gate-of-souls.json](./253308-gate-of-souls.json) |
 | Gate of Thunder | 44313 | [44313-gate-of-thunder.json](./44313-gate-of-thunder.json) |
 | Gate of Torment | 271039 | [271039-gate-of-torment.json](./271039-gate-of-torment.json) |
+| Gate One | 253564 | [253564-gate-one.json](./253564-gate-one.json) |
 | Gate Project | 345959 | [345959-gate-project.json](./345959-gate-project.json) |
 | Gate Six: Cyber Persona | 122921 | [122921-gate-six-cyber-persona.json](./122921-gate-six-cyber-persona.json) |
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
