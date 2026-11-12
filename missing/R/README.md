@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
+| Rainy Days In Casablanca | 257125 | [257125-rainy-days-in-casablanca.json](./257125-rainy-days-in-casablanca.json) |
 | Rainy Mari | 327726 | [327726-rainy-mari.json](./327726-rainy-mari.json) |
 | Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
 | Rainy Neon: Baku | 138444 | [138444-rainy-neon-baku.json](./138444-rainy-neon-baku.json) |
@@ -13836,6 +13837,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown Revolt: Nemesis Weishan | 311775 | [311775-rushdown-revolt-nemesis-weishan.json](./311775-rushdown-revolt-nemesis-weishan.json) |
 | Rushdown Revolt: Nemesis Zhurong | 311768 | [311768-rushdown-revolt-nemesis-zhurong.json](./311768-rushdown-revolt-nemesis-zhurong.json) |
 | Rushdown Revolt: Neon Horizons Raymer | 311770 | [311770-rushdown-revolt-neon-horizons-raymer.json](./311770-rushdown-revolt-neon-horizons-raymer.json) |
+| Rushdown Revolt: Pool Party Ashani | 257047 | [257047-rushdown-revolt-pool-party-ashani.json](./257047-rushdown-revolt-pool-party-ashani.json) |
+| Rushdown Revolt: Pool Party Seth | 257046 | [257046-rushdown-revolt-pool-party-seth.json](./257046-rushdown-revolt-pool-party-seth.json) |
+| Rushdown Revolt: Pool Party Weishan | 257049 | [257049-rushdown-revolt-pool-party-weishan.json](./257049-rushdown-revolt-pool-party-weishan.json) |
+| Rushdown Revolt: Pool Party Zhurong | 257048 | [257048-rushdown-revolt-pool-party-zhurong.json](./257048-rushdown-revolt-pool-party-zhurong.json) |
 | Rushdown Rivals | 265905 | [265905-rushdown-rivals.json](./265905-rushdown-rivals.json) |
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
 | RushGirl Luca | 405231 | [405231-rushgirl-luca.json](./405231-rushgirl-luca.json) |
