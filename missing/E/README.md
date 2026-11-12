@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Schwarzschild II PC-9801 | 396876 | [396876-eggconsole-schwarzschild-ii-pc-9801.json](./396876-eggconsole-schwarzschild-ii-pc-9801.json) |
 | Eggconsole Schwarzschild PC-9801 | 343529 | [343529-eggconsole-schwarzschild-pc-9801.json](./343529-eggconsole-schwarzschild-pc-9801.json) |
 | Eggconsole Seilane PC-8801MkIISR | 308640 | [308640-eggconsole-seilane-pc-8801mkiisr.json](./308640-eggconsole-seilane-pc-8801mkiisr.json) |
+| Eggconsole Shin Maou Golvellius MSX2 | 301180 | [301180-eggconsole-shin-maou-golvellius-msx2.json](./301180-eggconsole-shin-maou-golvellius-msx2.json) |
 | Eggconsole Silver Ghost PC-8801mkIISR | 317893 | [317893-eggconsole-silver-ghost-pc-8801mkiisr.json](./317893-eggconsole-silver-ghost-pc-8801mkiisr.json) |
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
@@ -7629,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eviction | 267800 | [267800-eviction.json](./267800-eviction.json) |
 | Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
 | Evidence Destroyer | 257758 | [257758-evidence-destroyer.json](./257758-evidence-destroyer.json) |
+| Evidence Destroyer | 301160 | [301160-evidence-destroyer.json](./301160-evidence-destroyer.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence of Life | 111424 | [111424-evidence-of-life.json](./111424-evidence-of-life.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
