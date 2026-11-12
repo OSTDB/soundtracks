@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Rayman Ultimate | 193323 | [193323-rayman-ultimate.json](./193323-rayman-ultimate.json) |
 | Rayman vs Cullcut | 61276 | [61276-rayman-vs-cullcut.json](./61276-rayman-vs-cullcut.json) |
+| Rayman Zero | 316326 | [316326-rayman-zero.json](./316326-rayman-zero.json) |
 | Rayman: 30th Anniversary Edition | 389429 | [389429-rayman-30th-anniversary-edition.json](./389429-rayman-30th-anniversary-edition.json) |
 | Rayman: Hoodlums' Revenge | 1967 | [1967-rayman-hoodlums-revenge.json](./1967-rayman-hoodlums-revenge.json) |
 | Rayman: Slap, Flap, and Go! | 61277 | [61277-rayman-slap-flap-and-go.json](./61277-rayman-slap-flap-and-go.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
 | Reader Rabbit Personalized Preschool | 373423 | [373423-reader-rabbit-personalized-preschool.json](./373423-reader-rabbit-personalized-preschool.json) |
+| Reader Rabbit Preschool | 317113 | [317113-reader-rabbit-preschool.json](./317113-reader-rabbit-preschool.json) |
 | Reader Rabbit Preschool: Sparkle Star Rescue | 139349 | [139349-reader-rabbit-preschool-sparkle-star-rescue.json](./139349-reader-rabbit-preschool-sparkle-star-rescue.json) |
 | Reader Rabbit: Beginner Addition | 245415 | [245415-reader-rabbit-beginner-addition.json](./245415-reader-rabbit-beginner-addition.json) |
 | Reader Rabbit: I Can Read With Phonics | 366183 | [366183-reader-rabbit-i-can-read-with-phonics.json](./366183-reader-rabbit-i-can-read-with-phonics.json) |
@@ -5297,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remembering Emily | 348865 | [348865-remembering-emily.json](./348865-remembering-emily.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
 | Remembering/Not remembering Sin | 239439 | [239439-remembering-not-remembering-sin.json](./239439-remembering-not-remembering-sin.json) |
+| Remembery | 317038 | [317038-remembery.json](./317038-remembery.json) |
 | Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
 | Remembrance | 187175 | [187175-remembrance.json](./187175-remembrance.json) |
 | Remembrance | 225793 | [225793-remembrance.json](./225793-remembrance.json) |
@@ -11050,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll! | 110114 | [110114-roll.json](./110114-roll.json) |
 | Roll.io | 108260 | [108260-roll-io.json](./108260-roll-io.json) |
 | Roll'd | 33076 | [33076-rolld.json](./33076-rolld.json) |
+| Roll'N With Da Punchez | 316513 | [316513-rolln-with-da-punchez.json](./316513-rolln-with-da-punchez.json) |
 | Roll+Heart | 119718 | [119718-roll-heart.json](./119718-roll-heart.json) |
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
 | Rollage | 95667 | [95667-rollage.json](./95667-rollage.json) |
@@ -11176,6 +11180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Arcade | 160020 | [160020-rolling-arcade.json](./160020-rolling-arcade.json) |
 | Rolling Atop It | 256379 | [256379-rolling-atop-it.json](./256379-rolling-atop-it.json) |
 | Rolling Ball | 345116 | [345116-rolling-ball.json](./345116-rolling-ball.json) |
+| Rolling Ball Game DX: Director's Cut | 316517 | [316517-rolling-ball-game-dx-directors-cut.json](./316517-rolling-ball-game-dx-directors-cut.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Ball: HD Remaster | 403978 | [403978-rolling-ball-hd-remaster.json](./403978-rolling-ball-hd-remaster.json) |
 | Rolling Balls | 106898 | [106898-rolling-balls.json](./106898-rolling-balls.json) |
@@ -13255,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Mole | 357131 | [357131-runaway-mole.json](./357131-runaway-mole.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
 | Runaway Robot | 203107 | [203107-runaway-robot.json](./203107-runaway-robot.json) |
+| Runaway Star | 316522 | [316522-runaway-star.json](./316522-runaway-star.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
