@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Imprisoned | 63203 | [63203-imprisoned.json](./63203-imprisoned.json) |
 | Imprisoned Hyperion | 157313 | [157313-imprisoned-hyperion.json](./157313-imprisoned-hyperion.json) |
+| Imprisoned Hyperion 2 | 247720 | [247720-imprisoned-hyperion-2.json](./247720-imprisoned-hyperion-2.json) |
 | Imprisoned Light | 31040 | [31040-imprisoned-light.json](./31040-imprisoned-light.json) |
 | Imprisoned Queen | 156540 | [156540-imprisoned-queen.json](./156540-imprisoned-queen.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
