@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes 2: Collector's Edition | 284934 | [284934-nature-escapes-2-collectors-edition.json](./284934-nature-escapes-2-collectors-edition.json) |
 | Nature Escapes 3 | 247875 | [247875-nature-escapes-3.json](./247875-nature-escapes-3.json) |
 | Nature Escapes 3: Collector's Edition | 286198 | [286198-nature-escapes-3-collectors-edition.json](./286198-nature-escapes-3-collectors-edition.json) |
+| Nature Escapes 4 | 261561 | [261561-nature-escapes-4.json](./261561-nature-escapes-4.json) |
 | Nature Escapes 4: Collector's Edition | 320480 | [320480-nature-escapes-4-collectors-edition.json](./320480-nature-escapes-4-collectors-edition.json) |
 | Nature Escapes 5 | 292373 | [292373-nature-escapes-5.json](./292373-nature-escapes-5.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
 | Nenene Noble | 314800 | [314800-nenene-noble.json](./314800-nenene-noble.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
+| Nensha | 261481 | [261481-nensha.json](./261481-nensha.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
