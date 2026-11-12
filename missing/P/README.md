@@ -5823,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Thief Celianna | 106623 | [106623-phantom-thief-celianna.json](./106623-phantom-thief-celianna.json) |
 | Phantom Thief Mew's Secret Prima | 197569 | [197569-phantom-thief-mews-secret-prima.json](./197569-phantom-thief-mews-secret-prima.json) |
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
+| Phantom Thief Sylphy 2 | 274693 | [274693-phantom-thief-sylphy-2.json](./274693-phantom-thief-sylphy-2.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
 | Phantom Tower | 409200 | [409200-phantom-tower.json](./409200-phantom-tower.json) |
 | Phantom Train | 164231 | [164231-phantom-train.json](./164231-phantom-train.json) |
@@ -8511,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixar Pals Plus! | 230329 | [230329-pixar-pals-plus.json](./230329-pixar-pals-plus.json) |
 | PixArk: A Jingle - Jangle Christmas Pack | 263274 | [263274-pixark-a-jingle-jangle-christmas-pack.json](./263274-pixark-a-jingle-jangle-christmas-pack.json) |
 | PixArk: A Sweet Pack for the Sweetest | 247366 | [247366-pixark-a-sweet-pack-for-the-sweetest.json](./247366-pixark-a-sweet-pack-for-the-sweetest.json) |
+| PixArk: Every Little Thing You Do is Magic | 274636 | [274636-pixark-every-little-thing-you-do-is-magic.json](./274636-pixark-every-little-thing-you-do-is-magic.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | PixArk: Skyward - Expansion Pack | 227009 | [227009-pixark-skyward-expansion-pack.json](./227009-pixark-skyward-expansion-pack.json) |
 | PixArk: Wonder in Water | 263261 | [263261-pixark-wonder-in-water.json](./263261-pixark-wonder-in-water.json) |
@@ -17406,6 +17408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
 | Project Stealth Fighter | 10293 | [10293-project-stealth-fighter.json](./10293-project-stealth-fighter.json) |
 | Project Stocks | 273823 | [273823-project-stocks.json](./273823-project-stocks.json) |
+| Project Stocks: Multiplayer | 274626 | [274626-project-stocks-multiplayer.json](./274626-project-stocks-multiplayer.json) |
 | Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
 | Project Strange | 98162 | [98162-project-strange.json](./98162-project-strange.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
@@ -19758,6 +19761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle Labyrinth | 58344 | [58344-puzzle-labyrinth.json](./58344-puzzle-labyrinth.json) |
+| Puzzle Land | 274713 | [274713-puzzle-land.json](./274713-puzzle-land.json) |
 | Puzzle Land | 318878 | [318878-puzzle-land.json](./318878-puzzle-land.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
 | Puzzle League | 370388 | [370388-puzzle-league.json](./370388-puzzle-league.json) |
