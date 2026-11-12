@@ -4794,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
+| Whisper of the Swallows | 309789 | [309789-whisper-of-the-swallows.json](./309789-whisper-of-the-swallows.json) |
 | Whisper of Y'Ryando | 361927 | [361927-whisper-of-yryando.json](./361927-whisper-of-yryando.json) |
 | Whisper Out of Time | 197066 | [197066-whisper-out-of-time.json](./197066-whisper-out-of-time.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
