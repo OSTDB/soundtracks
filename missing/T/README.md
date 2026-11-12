@@ -6182,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
+| The Ambush! | 306250 | [306250-the-ambush.json](./306250-the-ambush.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Delta Vengeance Action Blood Force Kill Commando | 270209 | [270209-the-american-delta-vengeance-action-blood-force-kill-commando.json](./270209-the-american-delta-vengeance-action-blood-force-kill-commando.json) |
@@ -14329,6 +14330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
 | The Madness of Little Emma | 34077 | [34077-the-madness-of-little-emma.json](./34077-the-madness-of-little-emma.json) |
 | The Madness of Roland | 172036 | [172036-the-madness-of-roland.json](./172036-the-madness-of-roland.json) |
+| The Maestromusic | 306737 | [306737-the-maestromusic.json](./306737-the-maestromusic.json) |
 | The Maestros | 23940 | [23940-the-maestros.json](./23940-the-maestros.json) |
 | The Mafat Conspiracy | 48057 | [48057-the-mafat-conspiracy.json](./48057-the-mafat-conspiracy.json) |
 | The Mage | 368590 | [368590-the-mage.json](./368590-the-mage.json) |
@@ -18718,6 +18720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
 | The Tentacle Hunter, Yuri | 97619 | [97619-the-tentacle-hunter-yuri.json](./97619-the-tentacle-hunter-yuri.json) |
 | The Tentacularly Adorned Royal Knightess | 82730 | [82730-the-tentacularly-adorned-royal-knightess.json](./82730-the-tentacularly-adorned-royal-knightess.json) |
+| The Tentai-Show | 306818 | [306818-the-tentai-show.json](./306818-the-tentai-show.json) |
 | The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
@@ -35216,6 +35219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
 | Twilight Bride: Vormslegend | 202621 | [202621-twilight-bride-vormslegend.json](./202621-twilight-bride-vormslegend.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
+| Twilight Carnival | 306169 | [306169-twilight-carnival.json](./306169-twilight-carnival.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
 | Twilight City: Love as a Cure | 33875 | [33875-twilight-city-love-as-a-cure.json](./33875-twilight-city-love-as-a-cure.json) |
 | Twilight Code | 411967 | [411967-twilight-code.json](./411967-twilight-code.json) |
