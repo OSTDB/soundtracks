@@ -3333,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars | 243204 | [243204-cars.json](./243204-cars.json) |
 | Cars | 243205 | [243205-cars.json](./243205-cars.json) |
 | Cars | 243206 | [243206-cars.json](./243206-cars.json) |
+| Cars | 245506 | [245506-cars.json](./245506-cars.json) |
 | Cars | 254933 | [254933-cars.json](./254933-cars.json) |
 | Cars | 295142 | [295142-cars.json](./295142-cars.json) |
 | Cars | 3849 | [3849-cars.json](./3849-cars.json) |
@@ -14452,6 +14453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Fury | 292269 | [292269-computer-fury.json](./292269-computer-fury.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
+| Computer Gin | 245529 | [245529-computer-gin.json](./245529-computer-gin.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
 | Computer Intro! | 283015 | [283015-computer-intro.json](./283015-computer-intro.json) |
 | Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
@@ -15903,6 +15905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops 'n' Robbers | 95488 | [95488-cops-n-robbers.json](./95488-cops-n-robbers.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
+| Cops Chase | 245528 | [245528-cops-chase.json](./245528-cops-chase.json) |
 | Cops Kissing Each Other | 118078 | [118078-cops-kissing-each-other.json](./118078-cops-kissing-each-other.json) |
 | Cops L.A. Police | 259492 | [259492-cops-l-a-police.json](./259492-cops-l-a-police.json) |
 | Cops N Robbers | 89136 | [89136-cops-n-robbers.json](./89136-cops-n-robbers.json) |
@@ -17746,6 +17749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
 | Crash Bandicoot | 148195 | [148195-crash-bandicoot.json](./148195-crash-bandicoot.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
+| Crash Bandicoot | 245527 | [245527-crash-bandicoot.json](./245527-crash-bandicoot.json) |
 | Crash Bandicoot | 247270 | [247270-crash-bandicoot.json](./247270-crash-bandicoot.json) |
 | Crash Bandicoot 2: Cortex Strikes Back | 135450 | [135450-crash-bandicoot-2-cortex-strikes-back.json](./135450-crash-bandicoot-2-cortex-strikes-back.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
