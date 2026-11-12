@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Hour | 415779 | [415779-quiet-hour.json](./415779-quiet-hour.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quiet in the Library | 390688 | [390688-quiet-in-the-library.json](./390688-quiet-in-the-library.json) |
+| Quiet Invasion | 248871 | [248871-quiet-invasion.json](./248871-quiet-invasion.json) |
 | Quiet is the Eyes | 279263 | [279263-quiet-is-the-eyes.json](./279263-quiet-is-the-eyes.json) |
 | Quiet Manor | 229906 | [229906-quiet-manor.json](./229906-quiet-manor.json) |
 | Quiet Maple | 184992 | [184992-quiet-maple.json](./184992-quiet-maple.json) |
