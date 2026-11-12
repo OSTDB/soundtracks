@@ -10169,6 +10169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Island | 176200 | [176200-the-first-island.json](./176200-the-first-island.json) |
 | The First Mile | 73535 | [73535-the-first-mile.json](./73535-the-first-mile.json) |
 | The First Million | 395740 | [395740-the-first-million.json](./395740-the-first-million.json) |
+| The First Mine | 283352 | [283352-the-first-mine.json](./283352-the-first-mine.json) |
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
@@ -11030,6 +11031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
 | The Great Sassanelli | 258615 | [258615-the-great-sassanelli.json](./258615-the-great-sassanelli.json) |
+| The Great Sea Battle | 282940 | [282940-the-great-sea-battle.json](./282940-the-great-sea-battle.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
 | The Great Sneeze | 387474 | [387474-the-great-sneeze.json](./387474-the-great-sneeze.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
@@ -14493,6 +14495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mandalorian: Chapter 3 - The Sin | 298935 | [298935-the-mandalorian-chapter-3-the-sin.json](./298935-the-mandalorian-chapter-3-the-sin.json) |
 | The Mandarin II | 343692 | [343692-the-mandarin-ii.json](./343692-the-mandarin-ii.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
+| The Mandela Experience | 282938 | [282938-the-mandela-experience.json](./282938-the-mandela-experience.json) |
 | The Manga Works | 57465 | [57465-the-manga-works.json](./57465-the-manga-works.json) |
 | The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
 | The Manhole: Masterpiece Edition | 51837 | [51837-the-manhole-masterpiece-edition.json](./51837-the-manhole-masterpiece-edition.json) |
@@ -16586,6 +16589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Reactor | 117896 | [117896-the-red-reactor.json](./117896-the-red-reactor.json) |
+| The Red Room | 283347 | [283347-the-red-room.json](./283347-the-red-room.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Selene | 247866 | [247866-the-red-selene.json](./247866-the-red-selene.json) |
 | The Red Solstice | 6170 | [6170-the-red-solstice.json](./6170-the-red-solstice.json) |
@@ -18757,6 +18761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
 | The Tenants: Pets | 248003 | [248003-the-tenants-pets.json](./248003-the-tenants-pets.json) |
+| The Tender Cut | 283341 | [283341-the-tender-cut.json](./283341-the-tender-cut.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Tennis for Two Simulator | 340020 | [340020-the-tennis-for-two-simulator.json](./340020-the-tennis-for-two-simulator.json) |
@@ -19732,6 +19737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley of Super Flowers | 131821 | [131821-the-valley-of-super-flowers.json](./131821-the-valley-of-super-flowers.json) |
 | The Valley of the Architects | 282039 | [282039-the-valley-of-the-architects.json](./282039-the-valley-of-the-architects.json) |
 | The Valley: XuGu | 338995 | [338995-the-valley-xugu.json](./338995-the-valley-xugu.json) |
+| The Vambrace of Destiny | 282856 | [282856-the-vambrace-of-destiny.json](./282856-the-vambrace-of-destiny.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
 | The Vampire Diaries | 93100 | [93100-the-vampire-diaries.json](./93100-the-vampire-diaries.json) |
