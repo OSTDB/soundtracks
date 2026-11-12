@@ -5270,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Thrones | 24552 | [24552-age-of-thrones.json](./24552-age-of-thrones.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Tribes | 104520 | [104520-age-of-tribes.json](./104520-age-of-tribes.json) |
+| Age of Tribulation | 263729 | [263729-age-of-tribulation.json](./263729-age-of-tribulation.json) |
 | Age of Undead | 211145 | [211145-age-of-undead.json](./211145-age-of-undead.json) |
 | Age of Valakas: Vietnam | 190456 | [190456-age-of-valakas-vietnam.json](./190456-age-of-valakas-vietnam.json) |
 | Age of Viking Conquest | 109424 | [109424-age-of-viking-conquest.json](./109424-age-of-viking-conquest.json) |
