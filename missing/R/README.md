@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 210580 | [210580-r-type-ii.json](./210580-r-type-ii.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type II | 276522 | [276522-r-type-ii.json](./276522-r-type-ii.json) |
+| R-Type II | 276919 | [276919-r-type-ii.json](./276919-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
 | R-Type II | 6854 | [6854-r-type-ii.json](./6854-r-type-ii.json) |
 | R-Type III & Super R-Type Collector's Edition | 136061 | [136061-r-type-iii-and-super-r-type-collectors-edition.json](./136061-r-type-iii-and-super-r-type-collectors-edition.json) |
@@ -2741,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Revenge | 94303 | [94303-rc-revenge.json](./94303-rc-revenge.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC Revolution | 247924 | [247924-rc-revolution.json](./247924-rc-revolution.json) |
+| RC Revolution: High Voltage | 276983 | [276983-rc-revolution-high-voltage.json](./276983-rc-revolution-high-voltage.json) |
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
 | RC Rush | 152566 | [152566-rc-rush.json](./152566-rc-rush.json) |
 | RC Service Simulator | 127521 | [127521-rc-service-simulator.json](./127521-rc-service-simulator.json) |
@@ -10758,6 +10760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Gladius Survivors | 331239 | [331239-rogue-gladius-survivors.json](./331239-rogue-gladius-survivors.json) |
 | Rogue Glitch | 121154 | [121154-rogue-glitch.json](./121154-rogue-glitch.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
+| Rogue Glitch Ultra: Upgrade | 276989 | [276989-rogue-glitch-ultra-upgrade.json](./276989-rogue-glitch-ultra-upgrade.json) |
 | Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Harvest | 34280 | [34280-rogue-harvest.json](./34280-rogue-harvest.json) |
@@ -11666,6 +11669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooks Keep | 17373 | [17373-rooks-keep.json](./17373-rooks-keep.json) |
 | RookStar | 264220 | [264220-rookstar.json](./264220-rookstar.json) |
 | Rooky Moves | 208264 | [208264-rooky-moves.json](./208264-rooky-moves.json) |
+| Room | 276984 | [276984-room.json](./276984-room.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room | 293847 | [293847-room.json](./293847-room.json) |
 | Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
@@ -12333,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Viking Ventures | 354198 | [354198-roxy-raccoons-pinball-panic-viking-ventures.json](./354198-roxy-raccoons-pinball-panic-viking-ventures.json) |
 | Roxy Raccoon's Pinball Panic: Wacky West | 208818 | [208818-roxy-raccoons-pinball-panic-wacky-west.json](./208818-roxy-raccoons-pinball-panic-wacky-west.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
+| Roxy Raccoon's Pinball Panic: Winter Whimsy | 276985 | [276985-roxy-raccoons-pinball-panic-winter-whimsy.json](./276985-roxy-raccoons-pinball-panic-winter-whimsy.json) |
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
 | Roxy's Dream Mansion | 341109 | [341109-roxys-dream-mansion.json](./341109-roxys-dream-mansion.json) |
 | Roxy's Windows | 241477 | [241477-roxys-windows.json](./241477-roxys-windows.json) |
