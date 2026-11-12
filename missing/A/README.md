@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wanderer's Adventure | 393934 | [393934-a-wanderers-adventure.json](./393934-a-wanderers-adventure.json) |
 | A Wanderer's Tale: Celebration of the Century | 266415 | [266415-a-wanderers-tale-celebration-of-the-century.json](./266415-a-wanderers-tale-celebration-of-the-century.json) |
 | A War of a Madman's Making | 201451 | [201451-a-war-of-a-madmans-making.json](./201451-a-war-of-a-madmans-making.json) |
+| A War On Christmas | 265995 | [265995-a-war-on-christmas.json](./265995-a-war-on-christmas.json) |
 | A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A War Story | 55765 | [55765-a-war-story.json](./55765-a-war-story.json) |
@@ -8859,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
 | Amalgamare | 246859 | [246859-amalgamare.json](./246859-amalgamare.json) |
 | Amalgamated | 420313 | [420313-amalgamated.json](./420313-amalgamated.json) |
+| Amalgamation | 265986 | [265986-amalgamation.json](./265986-amalgamation.json) |
 | Amalgamy | 254311 | [254311-amalgamy.json](./254311-amalgamy.json) |
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
@@ -16256,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashbound: Endless Hunt | 423064 | [423064-ashbound-endless-hunt.json](./423064-ashbound-endless-hunt.json) |
 | Ashbourne | 32570 | [32570-ashbourne.json](./32570-ashbourne.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
+| Ashcroft | 265822 | [265822-ashcroft.json](./265822-ashcroft.json) |
 | Ashe | 407760 | [407760-ashe.json](./407760-ashe.json) |
 | Ashen | 424824 | [424824-ashen.json](./424824-ashen.json) |
 | Ashen | 6259 | [6259-ashen.json](./6259-ashen.json) |
