@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
 | Dark Riddle | 227538 | [227538-dark-riddle.json](./227538-dark-riddle.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
+| Dark Ride Simulator | 290605 | [290605-dark-ride-simulator.json](./290605-dark-ride-simulator.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Rising | 72482 | [72482-dark-rising.json](./72482-dark-rising.json) |
 | Dark Roast Cafe | 300508 | [300508-dark-roast-cafe.json](./300508-dark-roast-cafe.json) |
@@ -5111,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Wish 3 | 13581 | [13581-death-wish-3.json](./13581-death-wish-3.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
 | Death World | 136118 | [136118-death-world.json](./136118-death-world.json) |
+| Death World | 290585 | [290585-death-world.json](./290585-death-world.json) |
 | Death Worm | 337201 | [337201-death-worm.json](./337201-death-worm.json) |
 | Death Worm | 70201 | [70201-death-worm.json](./70201-death-worm.json) |
 | Death Zone | 144854 | [144854-death-zone.json](./144854-death-zone.json) |
@@ -18850,6 +18852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
+| Duck, Duck, Shoot | 290603 | [290603-duck-duck-shoot.json](./290603-duck-duck-shoot.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
 | DUCK: Dangerous Ultimate Cartridge Kidnapper | 232229 | [232229-duck-dangerous-ultimate-cartridge-kidnapper.json](./232229-duck-dangerous-ultimate-cartridge-kidnapper.json) |
@@ -18996,6 +18999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Timers | 367371 | [367371-duel-timers.json](./367371-duel-timers.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
+| Duel with the Devil | 290568 | [290568-duel-with-the-devil.json](./290568-duel-with-the-devil.json) |
 | Duel, In Towers | 271579 | [271579-duel-in-towers.json](./271579-duel-in-towers.json) |
 | Duel: The Art of Combat | 66520 | [66520-duel-the-art-of-combat.json](./66520-duel-the-art-of-combat.json) |
 | Duel: The Game Show | 410066 | [410066-duel-the-game-show.json](./410066-duel-the-game-show.json) |
