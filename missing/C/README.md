@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Silver Fishing Bundle | 301764 | [301764-call-of-the-wild-the-angler-silver-fishing-bundle.json](./301764-call-of-the-wild-the-angler-silver-fishing-bundle.json) |
 | Call of the Wild: The Angler - South Africa Reserve | 290742 | [290742-call-of-the-wild-the-angler-south-africa-reserve.json](./290742-call-of-the-wild-the-angler-south-africa-reserve.json) |
+| Call of the Wild: The Angler - T-Shirt Pack | 274712 | [274712-call-of-the-wild-the-angler-t-shirt-pack.json](./274712-call-of-the-wild-the-angler-t-shirt-pack.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Ultra Cruiser Boat Pack | 301733 | [301733-call-of-the-wild-the-angler-ultra-cruiser-boat-pack.json](./301733-call-of-the-wild-the-angler-ultra-cruiser-boat-pack.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
@@ -8553,6 +8554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose Love | 322306 | [322306-choose-love.json](./322306-choose-love.json) |
 | Choose Wisely | 75583 | [75583-choose-wisely.json](./75583-choose-wisely.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
+| Choose Your Cutie | 274690 | [274690-choose-your-cutie.json](./274690-choose-your-cutie.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Choose Your Own Nightmare: How I Became a Freak | 371199 | [371199-choose-your-own-nightmare-how-i-became-a-freak.json](./371199-choose-your-own-nightmare-how-i-became-a-freak.json) |
 | Choose Your Own Nightmare: Night of the Werewolf | 144032 | [144032-choose-your-own-nightmare-night-of-the-werewolf.json](./144032-choose-your-own-nightmare-night-of-the-werewolf.json) |
@@ -12886,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
 | College Sex: Episode 1 | 268316 | [268316-college-sex-episode-1.json](./268316-college-sex-episode-1.json) |
 | College Sex: Episode 2 | 271651 | [271651-college-sex-episode-2.json](./271651-college-sex-episode-2.json) |
+| College Sex: Episode 3 | 274699 | [274699-college-sex-episode-3.json](./274699-college-sex-episode-3.json) |
 | College Sex: Episode 4 | 275435 | [275435-college-sex-episode-4.json](./275435-college-sex-episode-4.json) |
 | College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
