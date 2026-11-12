@@ -4406,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organ Biker | 35390 | [35390-organ-biker.json](./35390-organ-biker.json) |
 | Organ Corruption | 297909 | [297909-organ-corruption.json](./297909-organ-corruption.json) |
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
+| Organ Game: Merge Puzzle | 313521 | [313521-organ-game-merge-puzzle.json](./313521-organ-game-merge-puzzle.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
 | Organ Quarter | 29188 | [29188-organ-quarter.json](./29188-organ-quarter.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
