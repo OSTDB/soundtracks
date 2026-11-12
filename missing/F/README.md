@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
 | Fábrica de chocolate | 230652 | [230652-fabrica-de-chocolate.json](./230652-fabrica-de-chocolate.json) |
 | Fabrication | 151360 | [151360-fabrication.json](./151360-fabrication.json) |
+| Fabricationist DeWit Remakes the World | 259204 | [259204-fabricationist-dewit-remakes-the-world.json](./259204-fabricationist-dewit-remakes-the-world.json) |
 | Fabrika Mortis | 313373 | [313373-fabrika-mortis.json](./313373-fabrika-mortis.json) |
 | FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
 | Fabula Mortis | 17792 | [17792-fabula-mortis.json](./17792-fabula-mortis.json) |
@@ -10188,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Medjay Hero | 227337 | [227337-for-honor-medjay-hero.json](./227337-for-honor-medjay-hero.json) |
 | For Honor: Monkey King Hero | 274654 | [274654-for-honor-monkey-king-hero.json](./274654-for-honor-monkey-king-hero.json) |
 | For Honor: Naoe the Swift – Shinobi Hero Skin | 408891 | [408891-for-honor-naoe-the-swift-shinobi-hero-skin.json](./408891-for-honor-naoe-the-swift-shinobi-hero-skin.json) |
+| For Honor: Ocelotl Hero | 259295 | [259295-for-honor-ocelotl-hero.json](./259295-for-honor-ocelotl-hero.json) |
 | For Honor: Pirate Hero | 227338 | [227338-for-honor-pirate-hero.json](./227338-for-honor-pirate-hero.json) |
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
 | For Honor: Prince Yi – Tiandi Hero Skin | 408968 | [408968-for-honor-prince-yi-tiandi-hero-skin.json](./408968-for-honor-prince-yi-tiandi-hero-skin.json) |
@@ -12957,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. /v/ | 235329 | [235329-friday-night-funkin-vs-v.json](./235329-friday-night-funkin-vs-v.json) |
 | Friday Night Funkin': Vs. Camellia | 321707 | [321707-friday-night-funkin-vs-camellia.json](./321707-friday-night-funkin-vs-camellia.json) |
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
+| Friday Night Funkin': Vs. Chara | 259298 | [259298-friday-night-funkin-vs-chara.json](./259298-friday-night-funkin-vs-chara.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
 | Friday Night Funkin': VS. EX | 280721 | [280721-friday-night-funkin-vs-ex.json](./280721-friday-night-funkin-vs-ex.json) |
@@ -15224,6 +15227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuin | 123388 | [123388-fuuin.json](./123388-fuuin.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuuka: A Summer Memory | 206006 | [206006-fuuka-a-summer-memory.json](./206006-fuuka-a-summer-memory.json) |
+| Fuukan no Grasesta | 259214 | [259214-fuukan-no-grasesta.json](./259214-fuukan-no-grasesta.json) |
 | Fuuraiki | 326096 | [326096-fuuraiki.json](./326096-fuuraiki.json) |
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
 | Fuuraiki 2 | 64631 | [64631-fuuraiki-2.json](./64631-fuuraiki-2.json) |
