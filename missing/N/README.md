@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: Stalin's Triumph Battlepack 2 | 166196 | [166196-nations-at-war-digital-stalins-triumph-battlepack-2.json](./166196-nations-at-war-digital-stalins-triumph-battlepack-2.json) |
 | Nations At War Digital: White Star Rising Battlepack 1 | 166198 | [166198-nations-at-war-digital-white-star-rising-battlepack-1.json](./166198-nations-at-war-digital-white-star-rising-battlepack-1.json) |
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
+| Nations Cup Cricket 2019 | 254194 | [254194-nations-cup-cricket-2019.json](./254194-nations-cup-cricket-2019.json) |
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NationStates | 58127 | [58127-nationstates.json](./58127-nationstates.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
 | Nature Hunter | 113917 | [113917-nature-hunter.json](./113917-nature-hunter.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
+| Nature Mahjong | 255921 | [255921-nature-mahjong.json](./255921-nature-mahjong.json) |
 | Nature Matters | 149299 | [149299-nature-matters.json](./149299-nature-matters.json) |
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
 | Nature Moms | 82168 | [82168-nature-moms.json](./82168-nature-moms.json) |
@@ -3230,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neva: Devolver Deluxe Edition | 327040 | [327040-neva-devolver-deluxe-edition.json](./327040-neva-devolver-deluxe-edition.json) |
 | Nevaeh | 132962 | [132962-nevaeh.json](./132962-nevaeh.json) |
 | Nevasca | 273547 | [273547-nevasca.json](./273547-nevasca.json) |
+| Neve | 254807 | [254807-neve.json](./254807-neve.json) |
 | Nevedomo | 187193 | [187193-nevedomo.json](./187193-nevedomo.json) |
 | Neven | 75205 | [75205-neven.json](./75205-neven.json) |
 | Never | 262997 | [262997-never.json](./262997-never.json) |
