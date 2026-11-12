@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Stations | 95473 | [95473-battle-stations.json](./95473-battle-stations.json) |
 | Battle Stations Blockade | 264733 | [264733-battle-stations-blockade.json](./264733-battle-stations-blockade.json) |
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
+| Battle Store | 253637 | [253637-battle-store.json](./253637-battle-store.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Street | 336704 | [336704-battle-street.json](./336704-battle-street.json) |
 | Battle Strike | 404526 | [404526-battle-strike.json](./404526-battle-strike.json) |
@@ -15131,6 +15132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty City: 3-Way Battle | 271649 | [271649-bounty-city-3-way-battle.json](./271649-bounty-city-3-way-battle.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
 | Bounty Drag Racing: Import Modified Pack 2 | 317746 | [317746-bounty-drag-racing-import-modified-pack-2.json](./317746-bounty-drag-racing-import-modified-pack-2.json) |
+| Bounty Drag Racing: Outlaw Pack 1 | 253619 | [253619-bounty-drag-racing-outlaw-pack-1.json](./253619-bounty-drag-racing-outlaw-pack-1.json) |
 | Bounty Drag Racing: Outlaw Pack 3 | 267075 | [267075-bounty-drag-racing-outlaw-pack-3.json](./267075-bounty-drag-racing-outlaw-pack-3.json) |
 | Bounty Drag Racing: Outlaw Pack 4 | 296251 | [296251-bounty-drag-racing-outlaw-pack-4.json](./296251-bounty-drag-racing-outlaw-pack-4.json) |
 | Bounty Drag Racing: Outlaw Pack 5 | 310062 | [310062-bounty-drag-racing-outlaw-pack-5.json](./310062-bounty-drag-racing-outlaw-pack-5.json) |
@@ -16495,6 +16497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breaking Fast | 28968 | [28968-breaking-fast.json](./28968-breaking-fast.json) |
+| Breaking Friendships | 253562 | [253562-breaking-friendships.json](./253562-breaking-friendships.json) |
 | Breaking Game | 371276 | [371276-breaking-game.json](./371276-breaking-game.json) |
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
@@ -18197,6 +18200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bucky O'Hare | 218904 | [218904-bucky-ohare.json](./218904-bucky-ohare.json) |
 | Bucky O'Hare | 238860 | [238860-bucky-ohare.json](./238860-bucky-ohare.json) |
+| Bucky's Grounds | 253555 | [253555-buckys-grounds.json](./253555-buckys-grounds.json) |
 | Bud Blitz | 115521 | [115521-bud-blitz.json](./115521-bud-blitz.json) |
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Grass Roots | 232847 | [232847-bud-farm-grass-roots.json](./232847-bud-farm-grass-roots.json) |
