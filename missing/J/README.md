@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgement Silversword: Resurrection | 36405 | [36405-judgement-silversword-resurrection.json](./36405-judgement-silversword-resurrection.json) |
 | JudgeSim | 298230 | [298230-judgesim.json](./298230-judgesim.json) |
 | Judgment | 109274 | [109274-judgment.json](./109274-judgment.json) |
+| Judgment | 261480 | [261480-judgment.json](./261480-judgment.json) |
 | Judgment | 281562 | [281562-judgment.json](./281562-judgment.json) |
 | Judgment Day: Angel of God | 245686 | [245686-judgment-day-angel-of-god.json](./245686-judgment-day-angel-of-god.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
