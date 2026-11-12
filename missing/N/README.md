@@ -3750,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
 | Newcomer | 84280 | [84280-newcomer.json](./84280-newcomer.json) |
 | Newcomer: A Language Learning RPG | 250899 | [250899-newcomer-a-language-learning-rpg.json](./250899-newcomer-a-language-learning-rpg.json) |
+| Newcomer: Intermediate Immersion | 277484 | [277484-newcomer-intermediate-immersion.json](./277484-newcomer-intermediate-immersion.json) |
 | Newdoom Community Project | 261016 | [261016-newdoom-community-project.json](./261016-newdoom-community-project.json) |
 | NewDoom Community Project II | 261017 | [261017-newdoom-community-project-ii.json](./261017-newdoom-community-project-ii.json) |
 | Newer Mario Kart Wii | 257275 | [257275-newer-mario-kart-wii.json](./257275-newer-mario-kart-wii.json) |
