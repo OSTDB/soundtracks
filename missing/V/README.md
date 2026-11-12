@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguardian | 103769 | [103769-vanguardian.json](./103769-vanguardian.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
 | Vanildo's Journey | 189305 | [189305-vanildos-journey.json](./189305-vanildos-journey.json) |
+| Vanilium | 276897 | [276897-vanilium.json](./276897-vanilium.json) |
 | Vanilla | 399755 | [399755-vanilla.json](./399755-vanilla.json) |
 | Vanilla & Chocolate | 416155 | [416155-vanilla-and-chocolate.json](./416155-vanilla-and-chocolate.json) |
 | Vanilla Bagel: The Roguelike | 32827 | [32827-vanilla-bagel-the-roguelike.json](./32827-vanilla-bagel-the-roguelike.json) |
