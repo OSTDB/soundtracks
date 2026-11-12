@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion Simulator | 96600 | [96600-scorpion-simulator.json](./96600-scorpion-simulator.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
+| Scorpius | 267609 | [267609-scorpius.json](./267609-scorpius.json) |
 | Scorzle | 370354 | [370354-scorzle.json](./370354-scorzle.json) |
 | Scotch Broom | 118448 | [118448-scotch-broom.json](./118448-scotch-broom.json) |
 | Scotland Yard | 197725 | [197725-scotland-yard.json](./197725-scotland-yard.json) |
@@ -13420,6 +13421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
 | Skull Port | 373993 | [373993-skull-port.json](./373993-skull-port.json) |
 | Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
+| Skull Scavenger | 267616 | [267616-skull-scavenger.json](./267616-skull-scavenger.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
 | Skull-Rung | 355334 | [355334-skull-rung.json](./355334-skull-rung.json) |
@@ -34735,6 +34737,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 275781 | [275781-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./275781-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
 | Super Mario World: The Secret of the 7 Golden Statues | 42208 | [42208-super-mario-world-the-secret-of-the-7-golden-statues.json](./42208-super-mario-world-the-secret-of-the-7-golden-statues.json) |
 | Super Mario World: Tsunami Island | 215149 | [215149-super-mario-world-tsunami-island.json](./215149-super-mario-world-tsunami-island.json) |
+| Super Mario World: VIP and Wall Mix | 267617 | [267617-super-mario-world-vip-and-wall-mix.json](./267617-super-mario-world-vip-and-wall-mix.json) |
+| Super Mario World: VIP and Wall Mix 2 | 267619 | [267619-super-mario-world-vip-and-wall-mix-2.json](./267619-super-mario-world-vip-and-wall-mix-2.json) |
+| Super Mario World: VIP and Wall Mix 3 | 267615 | [267615-super-mario-world-vip-and-wall-mix-3.json](./267615-super-mario-world-vip-and-wall-mix-3.json) |
 | Super Mario World: VIP and Wall Mix 4 | 338804 | [338804-super-mario-world-vip-and-wall-mix-4.json](./338804-super-mario-world-vip-and-wall-mix-4.json) |
 | Super Mario Worldle | 408138 | [408138-super-mario-worldle.json](./408138-super-mario-worldle.json) |
 | Super Mario X | 318024 | [318024-super-mario-x.json](./318024-super-mario-x.json) |
@@ -35054,6 +35059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nostalgia World | 267972 | [267972-super-nostalgia-world.json](./267972-super-nostalgia-world.json) |
 | Super Nothing World | 277061 | [277061-super-nothing-world.json](./277061-super-nothing-world.json) |
+| Super Nova | 267624 | [267624-super-nova.json](./267624-super-nova.json) |
 | Super Nova | 316558 | [316558-super-nova.json](./316558-super-nova.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova | 42446 | [42446-super-nova.json](./42446-super-nova.json) |
@@ -35163,6 +35169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixel Smash | 27179 | [27179-super-pixel-smash.json](./27179-super-pixel-smash.json) |
 | Super Pixel World | 149829 | [149829-super-pixel-world.json](./149829-super-pixel-world.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
+| Super Pizza Time 64 | 267536 | [267536-super-pizza-time-64.json](./267536-super-pizza-time-64.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Plankton 64 | 313399 | [313399-super-plankton-64.json](./313399-super-plankton-64.json) |
 | Super Platform Tag | 325371 | [325371-super-platform-tag.json](./325371-super-platform-tag.json) |
@@ -35556,6 +35563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slime Simulator | 393172 | [393172-super-slime-simulator.json](./393172-super-slime-simulator.json) |
 | Super Slime: Black Hole Game | 294539 | [294539-super-slime-black-hole-game.json](./294539-super-slime-black-hole-game.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
+| Super Slope Muncher | 267623 | [267623-super-slope-muncher.json](./267623-super-slope-muncher.json) |
 | Super Slug | 272500 | [272500-super-slug.json](./272500-super-slug.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
@@ -36770,6 +36778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sure Footing | 90431 | [90431-sure-footing.json](./90431-sure-footing.json) |
 | Sure Instinct | 251713 | [251713-sure-instinct.json](./251713-sure-instinct.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
+| Sure Shot featuring Sonic the Hedgehog: Deluxe Edition | 267622 | [267622-sure-shot-featuring-sonic-the-hedgehog-deluxe-edition.json](./267622-sure-shot-featuring-sonic-the-hedgehog-deluxe-edition.json) |
 | Surely You Quest: Magiswords | 194138 | [194138-surely-you-quest-magiswords.json](./194138-surely-you-quest-magiswords.json) |
 | Surf 'm Up! | 77331 | [77331-surf-m-up.json](./77331-surf-m-up.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
