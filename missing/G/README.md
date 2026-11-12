@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfight 2024 | 170785 | [170785-girlfight-2024.json](./170785-girlfight-2024.json) |
+| Girlfriend = Yog-Sothoth: Cthulhu | 263795 | [263795-girlfriend-yog-sothoth-cthulhu.json](./263795-girlfriend-yog-sothoth-cthulhu.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
 | Girlfriend FNF Battle Friday Night Funkin | 223945 | [223945-girlfriend-fnf-battle-friday-night-funkin.json](./223945-girlfriend-fnf-battle-friday-night-funkin.json) |
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Karts | 377783 | [377783-glitch-karts.json](./377783-glitch-karts.json) |
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
+| Glitch Moba | 263798 | [263798-glitch-moba.json](./263798-glitch-moba.json) |
 | Glitch of The Game | 309401 | [309401-glitch-of-the-game.json](./309401-glitch-of-the-game.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Pets | 104828 | [104828-glitch-pets.json](./104828-glitch-pets.json) |
@@ -5613,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glover | 3348 | [3348-glover.json](./3348-glover.json) |
 | Glover 2 | 47749 | [47749-glover-2.json](./47749-glover-2.json) |
 | Glover: Collector's Edition | 207051 | [207051-glover-collectors-edition.json](./207051-glover-collectors-edition.json) |
+| Gloves On! | 263797 | [263797-gloves-on.json](./263797-gloves-on.json) |
 | GloveUp! | 425440 | [425440-gloveup.json](./425440-gloveup.json) |
 | Glow | 180567 | [180567-glow.json](./180567-glow.json) |
 | Glow | 233725 | [233725-glow.json](./233725-glow.json) |
@@ -5918,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go UFO | 297691 | [297691-go-go-ufo.json](./297691-go-go-ufo.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
 | Go Go Wolf | 386406 | [386406-go-go-wolf.json](./386406-go-go-wolf.json) |
+| Go Go Zombies | 263706 | [263706-go-go-zombies.json](./263706-go-go-zombies.json) |
 | Go Go, Groove Ghoul! | 402413 | [402413-go-go-groove-ghoul.json](./402413-go-go-groove-ghoul.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
 | Go Gold Castle | 156879 | [156879-go-gold-castle.json](./156879-go-gold-castle.json) |
@@ -6840,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
 | Gold and Bricks | 350296 | [350296-gold-and-bricks.json](./350296-gold-and-bricks.json) |
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
+| Gold and Glory | 263796 | [263796-gold-and-glory.json](./263796-gold-and-glory.json) |
 | Gold and Glory | 357523 | [357523-gold-and-glory.json](./357523-gold-and-glory.json) |
 | Gold and Glory: The Road to El Dorado | 13776 | [13776-gold-and-glory-the-road-to-el-dorado.json](./13776-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
