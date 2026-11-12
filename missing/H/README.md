@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Landing | 212179 | [212179-hard-landing.json](./212179-hard-landing.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
 | Hard Light Vector | 116094 | [116094-hard-light-vector.json](./116094-hard-light-vector.json) |
+| Hard Line | 307460 | [307460-hard-line.json](./307460-hard-line.json) |
 | Hard Love: Darkest Desire | 286763 | [286763-hard-love-darkest-desire.json](./286763-hard-love-darkest-desire.json) |
 | Hard Man | 37423 | [37423-hard-man.json](./37423-hard-man.json) |
 | Hard Minus | 55243 | [55243-hard-minus.json](./55243-hard-minus.json) |
@@ -10562,6 +10563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless | 36863 | [36863-hopeless.json](./36863-hopeless.json) |
 | Hopeless 2: Cave Escape | 56271 | [56271-hopeless-2-cave-escape.json](./56271-hopeless-2-cave-escape.json) |
 | Hopeless 3: Dark Hollow Earth | 56274 | [56274-hopeless-3-dark-hollow-earth.json](./56274-hopeless-3-dark-hollow-earth.json) |
+| Hopeless Divine: Wake of Vultures | 307453 | [307453-hopeless-divine-wake-of-vultures.json](./307453-hopeless-divine-wake-of-vultures.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless Sea | 291395 | [291395-hopeless-sea.json](./291395-hopeless-sea.json) |
 | Hopeless: Football Cup | 56273 | [56273-hopeless-football-cup.json](./56273-hopeless-football-cup.json) |
@@ -12350,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Jaws | 219665 | [219665-huge-jaws.json](./219665-huge-jaws.json) |
 | HugeHead | 235419 | [235419-hugehead.json](./235419-hugehead.json) |
 | Huggernaut | 111903 | [111903-huggernaut.json](./111903-huggernaut.json) |
+| Huggies Triple Clean | 307451 | [307451-huggies-triple-clean.json](./307451-huggies-triple-clean.json) |
 | Huggly Saves the Turtles: Thinking Adventures | 70226 | [70226-huggly-saves-the-turtles-thinking-adventures.json](./70226-huggly-saves-the-turtles-thinking-adventures.json) |
 | Huggy & Friends | 372483 | [372483-huggy-and-friends.json](./372483-huggy-and-friends.json) |
 | Huggy Skate | 333705 | [333705-huggy-skate.json](./333705-huggy-skate.json) |
