@@ -10416,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivHero | 176615 | [176615-civhero.json](./176615-civhero.json) |
 | Civiballs | 262048 | [262048-civiballs.json](./262048-civiballs.json) |
 | Civiballs 2 | 335475 | [335475-civiballs-2.json](./335475-civiballs-2.json) |
+| Civic Story | 257704 | [257704-civic-story.json](./257704-civic-story.json) |
 | Civics Scribble | 380760 | [380760-civics-scribble.json](./380760-civics-scribble.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil Disturbance | 65973 | [65973-civil-disturbance.json](./65973-civil-disturbance.json) |
@@ -16272,6 +16273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Worlds | 408522 | [408522-corrupted-worlds.json](./408522-corrupted-worlds.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption | 12012 | [12012-corruption.json](./12012-corruption.json) |
+| Corruption | 257611 | [257611-corruption.json](./257611-corruption.json) |
 | Corruption 2029 | 129798 | [129798-corruption-2029.json](./129798-corruption-2029.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption of Champions II | 148426 | [148426-corruption-of-champions-ii.json](./148426-corruption-of-champions-ii.json) |
