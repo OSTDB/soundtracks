@@ -379,6 +379,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12 Global Scenery: Europe | 220726 | [220726-x-plane-12-global-scenery-europe.json](./220726-x-plane-12-global-scenery-europe.json) |
 | X-Plane 12 Global Scenery: North America | 220727 | [220727-x-plane-12-global-scenery-north-america.json](./220727-x-plane-12-global-scenery-north-america.json) |
 | X-Plane 12 Global Scenery: South America | 220728 | [220728-x-plane-12-global-scenery-south-america.json](./220728-x-plane-12-global-scenery-south-america.json) |
+| X-Plane 12: Aerosoft - Airport Berlin Brandenburg V2 | 302858 | [302858-x-plane-12-aerosoft-airport-berlin-brandenburg-v2.json](./302858-x-plane-12-aerosoft-airport-berlin-brandenburg-v2.json) |
+| X-Plane 12: Aerosoft - Airport Berlin-Tegel | 302857 | [302857-x-plane-12-aerosoft-airport-berlin-tegel.json](./302857-x-plane-12-aerosoft-airport-berlin-tegel.json) |
 | X-Plane 12: Aerosoft - Airport Friedrichshafen | 302555 | [302555-x-plane-12-aerosoft-airport-friedrichshafen.json](./302555-x-plane-12-aerosoft-airport-friedrichshafen.json) |
 | X-Plane 12: Aerosoft - Airport Madrid | 312521 | [312521-x-plane-12-aerosoft-airport-madrid.json](./312521-x-plane-12-aerosoft-airport-madrid.json) |
 | X-Plane 12: Aerosoft - Airport Manchester | 302556 | [302556-x-plane-12-aerosoft-airport-manchester.json](./302556-x-plane-12-aerosoft-airport-manchester.json) |
@@ -386,9 +388,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12: Aerosoft - Airport Menorca | 266303 | [266303-x-plane-12-aerosoft-airport-menorca.json](./266303-x-plane-12-aerosoft-airport-menorca.json) |
 | X-Plane 12: Aerosoft - Airport Milano Malpensa | 254651 | [254651-x-plane-12-aerosoft-airport-milano-malpensa.json](./254651-x-plane-12-aerosoft-airport-milano-malpensa.json) |
 | X-Plane 12: Aerosoft - Airport Stuttgart | 312523 | [312523-x-plane-12-aerosoft-airport-stuttgart.json](./312523-x-plane-12-aerosoft-airport-stuttgart.json) |
+| X-Plane 12: Aerosoft - Airport Zurich V2.0 | 302861 | [302861-x-plane-12-aerosoft-airport-zurich-v2-0.json](./302861-x-plane-12-aerosoft-airport-zurich-v2-0.json) |
 | X-Plane 12: Aerosoft - Faroe Islands XP | 256047 | [256047-x-plane-12-aerosoft-faroe-islands-xp.json](./256047-x-plane-12-aerosoft-faroe-islands-xp.json) |
+| X-Plane 12: Aerosoft - Helgoland | 302859 | [302859-x-plane-12-aerosoft-helgoland.json](./302859-x-plane-12-aerosoft-helgoland.json) |
 | X-Plane 12: Aerosoft - Seychelles XP | 264514 | [264514-x-plane-12-aerosoft-seychelles-xp.json](./264514-x-plane-12-aerosoft-seychelles-xp.json) |
 | X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289881 | [289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
+| X-Plane 12: Aerosoft - St. Tropez | 302860 | [302860-x-plane-12-aerosoft-st-tropez.json](./302860-x-plane-12-aerosoft-st-tropez.json) |
 | X-Plane 12: Aerosoft - Tromsø | 302557 | [302557-x-plane-12-aerosoft-troms.json](./302557-x-plane-12-aerosoft-troms.json) |
 | X-Plane 12: Axonos - Owen Roberts International Airport | 312520 | [312520-x-plane-12-axonos-owen-roberts-international-airport.json](./312520-x-plane-12-axonos-owen-roberts-international-airport.json) |
 | X-Plane 12: Axonos - Varna Airport | 312522 | [312522-x-plane-12-axonos-varna-airport.json](./312522-x-plane-12-axonos-varna-airport.json) |
@@ -537,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCar: Experimental Racing | 2394 | [2394-xcar-experimental-racing.json](./2394-xcar-experimental-racing.json) |
 | XCavalypse | 33412 | [33412-xcavalypse.json](./33412-xcavalypse.json) |
 | Xcavator 2025 | 381088 | [381088-xcavator-2025.json](./381088-xcavator-2025.json) |
+| Xceed: Psychic Romance | 299643 | [299643-xceed-psychic-romance.json](./299643-xceed-psychic-romance.json) |
 | Xcel | 14873 | [14873-xcel.json](./14873-xcel.json) |
 | XCOM 2: Alien Hunters | 19451 | [19451-xcom-2-alien-hunters.json](./19451-xcom-2-alien-hunters.json) |
 | XCOM 2: Anarchy's Children | 18365 | [18365-xcom-2-anarchys-children.json](./18365-xcom-2-anarchys-children.json) |
