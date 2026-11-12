@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Stigmatized Property 3 | 412670 | [412670-japan-stigmatized-property-3.json](./412670-japan-stigmatized-property-3.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
 | Japan Sumo Cup: Yokozuna vs. Street Fighter | 59468 | [59468-japan-sumo-cup-yokozuna-vs-street-fighter.json](./59468-japan-sumo-cup-yokozuna-vs-street-fighter.json) |
+| Japan Taxi Simulator | 297271 | [297271-japan-taxi-simulator.json](./297271-japan-taxi-simulator.json) |
 | Japan to Go, Please! | 342912 | [342912-japan-to-go-please.json](./342912-japan-to-go-please.json) |
 | Japan Train Models: JR East Edition | 271616 | [271616-japan-train-models-jr-east-edition.json](./271616-japan-train-models-jr-east-edition.json) |
 | Japan Train Models: JR Freight Edition | 294982 | [294982-japan-train-models-jr-freight-edition.json](./294982-japan-train-models-jr-freight-edition.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM Racing | 147854 | [147854-jdm-racing.json](./147854-jdm-racing.json) |
 | JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
 | JDM Tuner Racing | 32886 | [32886-jdm-tuner-racing.json](./32886-jdm-tuner-racing.json) |
+| JDM: Rise of the Scorpion | 296293 | [296293-jdm-rise-of-the-scorpion.json](./296293-jdm-rise-of-the-scorpion.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
 | Jean and Josie | 187641 | [187641-jean-and-josie.json](./187641-jean-and-josie.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR East Train Simulator: Koumi Line (Kobuchizawa to Komoro) Kiha E200 series | 289465 | [289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json](./289465-jr-east-train-simulator-koumi-line-kobuchizawa-to-komoro-kiha-e200-series.json) |
 | JR East Train Simulator: Nambu Line (Kawasaki to Tachikawa) E233-8000 series Nambu Branchi Line (Hamakawasaki to Shitte) 205-1000 series Tsurumi Line (Tsurumi to Ogimachi,Okawa,Umi-Shibaura) 205-1100 series | 324654 | [324654-jr-east-train-simulator-nambu-line-kawasaki-to-tachikawa-e233-8000-series-nambu-branchi-line-hamakawasaki-to-shitte-205-1000-series-tsurumi-line-tsurumi-to-ogimachi-okawa-umi-shibaura-205-1100-series.json](./324654-jr-east-train-simulator-nambu-line-kawasaki-to-tachikawa-e233-8000-series-nambu-branchi-line-hamakawasaki-to-shitte-205-1000-series-tsurumi-line-tsurumi-to-ogimachi-okawa-umi-shibaura-205-1100-series.json) |
 | JR EAST Train Simulator: Narita Line (Choshi to Chiba) 209-2100 series Kashima Line (Kashima-Soccer Stadium to Sawara) 209-2100 series | 302788 | [302788-jr-east-train-simulator-narita-line-choshi-to-chiba-209-2100-series-kashima-line-kashima-soccer-stadium-to-sawara-209-2100-series.json](./302788-jr-east-train-simulator-narita-line-choshi-to-chiba-209-2100-series-kashima-line-kashima-soccer-stadium-to-sawara-209-2100-series.json) |
+| JR EAST Train Simulator: Oga Line (Akita to Oga) EV-E801 series | 298489 | [298489-jr-east-train-simulator-oga-line-akita-to-oga-ev-e801-series.json](./298489-jr-east-train-simulator-oga-line-akita-to-oga-ev-e801-series.json) |
 | JR East Train Simulator: Oito Line - Matsumoto to Minami-Otari: 211 Series | 226693 | [226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json](./226693-jr-east-train-simulator-oito-line-matsumoto-to-minami-otari-211-series.json) |
 | JR East Train Simulator: Ome Line - Tachikawa to Okutama: E233-0 Series | 324658 | [324658-jr-east-train-simulator-ome-line-tachikawa-to-okutama-e233-0-series.json](./324658-jr-east-train-simulator-ome-line-tachikawa-to-okutama-e233-0-series.json) |
 | JR EAST Train Simulator: Rumoi Line (Fukagawa to Rumoi) Kiha 54-500 series | 293475 | [293475-jr-east-train-simulator-rumoi-line-fukagawa-to-rumoi-kiha-54-500-series.json](./293475-jr-east-train-simulator-rumoi-line-fukagawa-to-rumoi-kiha-54-500-series.json) |
@@ -3686,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | JumpJumpMania | 111596 | [111596-jumpjumpmania.json](./111596-jumpjumpmania.json) |
 | Jumplats | 295889 | [295889-jumplats.json](./295889-jumplats.json) |
+| Jumplife | 296286 | [296286-jumplife.json](./296286-jumplife.json) |
 | Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
 | Jumplord | 129052 | [129052-jumplord.json](./129052-jumplord.json) |
 | JumPlose | 130089 | [130089-jumplose.json](./130089-jumplose.json) |
