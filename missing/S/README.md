@@ -34650,6 +34650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: The Second Reality Project | 274838 | [274838-super-mario-world-the-second-reality-project.json](./274838-super-mario-world-the-second-reality-project.json) |
 | Super Mario World: The Second Reality Project - Reloaded | 202377 | [202377-super-mario-world-the-second-reality-project-reloaded.json](./202377-super-mario-world-the-second-reality-project-reloaded.json) |
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
+| Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 275781 | [275781-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./275781-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
 | Super Mario World: The Secret of the 7 Golden Statues | 42208 | [42208-super-mario-world-the-secret-of-the-7-golden-statues.json](./42208-super-mario-world-the-secret-of-the-7-golden-statues.json) |
 | Super Mario World: Tsunami Island | 215149 | [215149-super-mario-world-tsunami-island.json](./215149-super-mario-world-tsunami-island.json) |
 | Super Mario World: VIP and Wall Mix 4 | 338804 | [338804-super-mario-world-vip-and-wall-mix-4.json](./338804-super-mario-world-vip-and-wall-mix-4.json) |
