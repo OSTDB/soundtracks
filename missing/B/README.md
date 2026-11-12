@@ -14568,7 +14568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Shot | 310460 | [310460-bot-shot.json](./310460-bot-shot.json) |
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
-| Bot Vice | 22751 | [22751-bot-vice.json](./22751-bot-vice.json) |
 | Bot War | 115241 | [115241-bot-war.json](./115241-bot-war.json) |
 | Bot Wars | 169024 | [169024-bot-wars.json](./169024-bot-wars.json) |
 | Bot Warzone | 281970 | [281970-bot-warzone.json](./281970-bot-warzone.json) |
@@ -15736,7 +15735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brand New World | 290613 | [290613-brand-new-world.json](./290613-brand-new-world.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
-| Brandish | 16289 | [16289-brandish.json](./16289-brandish.json) |
 | Brandish 2: The Planet Buster | 381268 | [381268-brandish-2-the-planet-buster.json](./381268-brandish-2-the-planet-buster.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandish 3: Spirit of Balcan | 67851 | [67851-brandish-3-spirit-of-balcan.json](./67851-brandish-3-spirit-of-balcan.json) |
@@ -18222,6 +18220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Master Edition | 402608 | [402608-buggy-off-road-racing-master-edition.json](./402608-buggy-off-road-racing-master-edition.json) |
 | Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
+| Buggy Off-Road Racing: Superior Edition | 315877 | [315877-buggy-off-road-racing-superior-edition.json](./315877-buggy-off-road-racing-superior-edition.json) |
 | Buggy Off-Road Racing: Supreme Edition | 407115 | [407115-buggy-off-road-racing-supreme-edition.json](./407115-buggy-off-road-racing-supreme-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Buggy Off-Road Racing: Value Edition | 336437 | [336437-buggy-off-road-racing-value-edition.json](./336437-buggy-off-road-racing-value-edition.json) |
