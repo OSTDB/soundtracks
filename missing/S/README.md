@@ -7958,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shàonián Měngjiàng Zhuán | 178764 | [178764-shaonian-mengjiang-zhuan.json](./178764-shaonian-mengjiang-zhuan.json) |
 | Shaoye | 113612 | [113612-shaoye.json](./113612-shaoye.json) |
 | Shape | 161603 | [161603-shape.json](./161603-shape.json) |
+| Shape | 249434 | [249434-shape.json](./249434-shape.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
 | Shape Boxing 2: Wii de Enjoy Diet! | 136886 | [136886-shape-boxing-2-wii-de-enjoy-diet.json](./136886-shape-boxing-2-wii-de-enjoy-diet.json) |
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
@@ -13911,6 +13912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyjunk | 155386 | [155386-skyjunk.json](./155386-skyjunk.json) |
 | Skykeepers | 28024 | [28024-skykeepers.json](./28024-skykeepers.json) |
 | Skykipelago | 317703 | [317703-skykipelago.json](./317703-skykipelago.json) |
+| Skyland | 249525 | [249525-skyland.json](./249525-skyland.json) |
 | Skyland | 291803 | [291803-skyland.json](./291803-skyland.json) |
 | Skyland 1976 | 126349 | [126349-skyland-1976.json](./126349-skyland-1976.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
@@ -15315,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
 | SM64 GeSEGKt | 392354 | [392354-sm64-gesegkt.json](./392354-sm64-gesegkt.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
+| SM64 Remastered Quest | 250080 | [250080-sm64-remastered-quest.json](./250080-sm64-remastered-quest.json) |
 | SM64 Royal Legacy PC Port | 378269 | [378269-sm64-royal-legacy-pc-port.json](./378269-sm64-royal-legacy-pc-port.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | SM64 Sapphire PC Port | 378272 | [378272-sm64-sapphire-pc-port.json](./378272-sm64-sapphire-pc-port.json) |
@@ -17709,6 +17712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Scion | 139010 | [139010-solar-scion.json](./139010-solar-scion.json) |
 | Solar Serpent Squadron | 287921 | [287921-solar-serpent-squadron.json](./287921-solar-serpent-squadron.json) |
 | Solar Shifter EX | 35565 | [35565-solar-shifter-ex.json](./35565-solar-shifter-ex.json) |
+| Solar Showdown | 249988 | [249988-solar-showdown.json](./249988-solar-showdown.json) |
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Smash 2D | 208135 | [208135-solar-smash-2d.json](./208135-solar-smash-2d.json) |
@@ -34585,10 +34589,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
 | Super Mario Endgame | 323586 | [323586-super-mario-endgame.json](./323586-super-mario-endgame.json) |
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
+| Super Mario Epic 2: Dream Machine | 250069 | [250069-super-mario-epic-2-dream-machine.json](./250069-super-mario-epic-2-dream-machine.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Essex | 351583 | [351583-super-mario-essex.json](./351583-super-mario-essex.json) |
 | Super Mario Evolution | 256701 | [256701-super-mario-evolution.json](./256701-super-mario-evolution.json) |
 | Super Mario Fallen Stars | 254090 | [254090-super-mario-fallen-stars.json](./254090-super-mario-fallen-stars.json) |
+| Super Mario Fan Galaxy | 250073 | [250073-super-mario-fan-galaxy.json](./250073-super-mario-fan-galaxy.json) |
+| Super Mario Fangame | 250067 | [250067-super-mario-fangame.json](./250067-super-mario-fangame.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
 | Super Mario Fantasy Adventure | 228876 | [228876-super-mario-fantasy-adventure.json](./228876-super-mario-fantasy-adventure.json) |
 | Super Mario Fighter 2 | 313416 | [313416-super-mario-fighter-2.json](./313416-super-mario-fighter-2.json) |
