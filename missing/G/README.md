@@ -10986,6 +10986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Zero | 391636 | [391636-guardian-zero.json](./391636-guardian-zero.json) |
 | Guardian: Covenant of Fate | 228145 | [228145-guardian-covenant-of-fate.json](./228145-guardian-covenant-of-fate.json) |
 | Guardian: Defense to Others | 286314 | [286314-guardian-defense-to-others.json](./286314-guardian-defense-to-others.json) |
+| Guardian: Planet Defense | 263239 | [263239-guardian-planet-defense.json](./263239-guardian-planet-defense.json) |
 | Guardian's Crusade | 22835 | [22835-guardians-crusade.json](./22835-guardians-crusade.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
