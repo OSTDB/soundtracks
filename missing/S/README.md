@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackboy: A Big Adventure - Clank Costume | 327313 | [327313-sackboy-a-big-adventure-clank-costume.json](./327313-sackboy-a-big-adventure-clank-costume.json) |
 | Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
 | Sackboy: A Big Adventure - Emote Pack | 230997 | [230997-sackboy-a-big-adventure-emote-pack.json](./230997-sackboy-a-big-adventure-emote-pack.json) |
+| Sackboy: A Big Adventure – Emotions Emote Pack | 286151 | [286151-sackboy-a-big-adventure-emotions-emote-pack.json](./286151-sackboy-a-big-adventure-emotions-emote-pack.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra Terra: Angelic Night | 53564 | [53564-sacra-terra-angelic-night.json](./53564-sacra-terra-angelic-night.json) |
@@ -4413,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Park Tycoon | 152029 | [152029-sea-park-tycoon.json](./152029-sea-park-tycoon.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
+| Sea Port Tycoon 2024 | 286187 | [286187-sea-port-tycoon-2024.json](./286187-sea-port-tycoon-2024.json) |
 | Sea Power Naval Battle Combat | 377005 | [377005-sea-power-naval-battle-combat.json](./377005-sea-power-naval-battle-combat.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
 | Sea Raiders | 142614 | [142614-sea-raiders.json](./142614-sea-raiders.json) |
@@ -4481,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seagull Kart Racing | 258240 | [258240-seagull-kart-racing.json](./258240-seagull-kart-racing.json) |
 | Seagull Sauté | 427852 | [427852-seagull-saute.json](./427852-seagull-saute.json) |
+| Seagull Wars | 286165 | [286165-seagull-wars.json](./286165-seagull-wars.json) |
 | Seagulls: Crappy Situation | 290755 | [290755-seagulls-crappy-situation.json](./290755-seagulls-crappy-situation.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seaking Hunter | 188183 | [188183-seaking-hunter.json](./188183-seaking-hunter.json) |
@@ -11286,6 +11289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Paws | 250772 | [250772-silent-paws.json](./250772-silent-paws.json) |
 | Silent Paws: Hidden Valley | 264006 | [264006-silent-paws-hidden-valley.json](./264006-silent-paws-hidden-valley.json) |
 | Silent Paws: Winter Quest | 265817 | [265817-silent-paws-winter-quest.json](./265817-silent-paws-winter-quest.json) |
+| Silent Planet: Elegy of a Dying World | 286178 | [286178-silent-planet-elegy-of-a-dying-world.json](./286178-silent-planet-elegy-of-a-dying-world.json) |
 | Silent Raid | 417268 | [417268-silent-raid.json](./417268-silent-raid.json) |
 | Silent Rain | 258078 | [258078-silent-rain.json](./258078-silent-rain.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
@@ -19592,6 +19596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia’s Animal Clinic: Mission Wildlife Park | 380652 | [380652-sophia-s-animal-clinic-mission-wildlife-park.json](./380652-sophia-s-animal-clinic-mission-wildlife-park.json) |
 | Sophia's Path | 390863 | [390863-sophias-path.json](./390863-sophias-path.json) |
 | Sophia's Spa | 272222 | [272222-sophias-spa.json](./272222-sophias-spa.json) |
+| Sophia's Spa: Priya's Pole Dancing | 286153 | [286153-sophias-spa-priyas-pole-dancing.json](./286153-sophias-spa-priyas-pole-dancing.json) |
 | Sophia's World | 173129 | [173129-sophias-world.json](./173129-sophias-world.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
 | Sophica: Temples of Mystery | 114526 | [114526-sophica-temples-of-mystery.json](./114526-sophica-temples-of-mystery.json) |
@@ -22386,6 +22391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces | 37271 | [37271-special-forces.json](./37271-special-forces.json) |
 | Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
+| Special Forces Assault: Tactical Hostage Rainbow | 286188 | [286188-special-forces-assault-tactical-hostage-rainbow.json](./286188-special-forces-assault-tactical-hostage-rainbow.json) |
 | Special Forces Group | 245173 | [245173-special-forces-group.json](./245173-special-forces-group.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces II | 41098 | [41098-special-forces-ii.json](./41098-special-forces-ii.json) |
@@ -33446,6 +33452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flippin' Phones | 33763 | [33763-super-flippin-phones.json](./33763-super-flippin-phones.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Flying Vroom Vroom | 374030 | [374030-super-flying-vroom-vroom.json](./374030-super-flying-vroom-vroom.json) |
+| Super FNaF | 286179 | [286179-super-fnaf.json](./286179-super-fnaf.json) |
 | Super FNaF 2: Second Wind | 427217 | [427217-super-fnaf-2-second-wind.json](./427217-super-fnaf-2-second-wind.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
