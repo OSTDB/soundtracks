@@ -3876,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Academy | 118175 | [118175-adventure-academy.json](./118175-adventure-academy.json) |
 | AdVenture Ages | 146547 | [146547-adventure-ages.json](./146547-adventure-ages.json) |
 | Adventure Allies | 316449 | [316449-adventure-allies.json](./316449-adventure-allies.json) |
+| Adventure and Study English in a Fantasy World | 288412 | [288412-adventure-and-study-english-in-a-fantasy-world.json](./288412-adventure-and-study-english-in-a-fantasy-world.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Apple Robots | 240822 | [240822-adventure-apple-robots.json](./240822-adventure-apple-robots.json) |
 | Adventure at the Chateau d'Or | 78189 | [78189-adventure-at-the-chateau-dor.json](./78189-adventure-at-the-chateau-dor.json) |
@@ -13991,6 +13992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
 | Arcana Alchemia | 307643 | [307643-arcana-alchemia.json](./307643-arcana-alchemia.json) |
 | Arcana Automata | 361831 | [361831-arcana-automata.json](./361831-arcana-automata.json) |
+| Arcana Dimension | 288389 | [288389-arcana-dimension.json](./288389-arcana-dimension.json) |
 | Arcana Famiglia Collezione! Piccola Amore | 218493 | [218493-arcana-famiglia-collezione-piccola-amore.json](./218493-arcana-famiglia-collezione-piccola-amore.json) |
 | Arcana Famiglia: Festa Regalo | 194276 | [194276-arcana-famiglia-festa-regalo.json](./194276-arcana-famiglia-festa-regalo.json) |
 | Arcana Famiglia: La storia della Arcana Famiglia - Ancora | 218375 | [218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json](./218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json) |
