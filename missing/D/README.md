@@ -6044,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Home | 129435 | [129435-defend-home.json](./129435-defend-home.json) |
 | Defend Homeland | 217397 | [217397-defend-homeland.json](./217397-defend-homeland.json) |
 | Defend It! | 293577 | [293577-defend-it.json](./293577-defend-it.json) |
+| Defend It!: Machinegun | 311389 | [311389-defend-it-machinegun.json](./311389-defend-it-machinegun.json) |
 | Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend Pizzeria Craft Shop | 88978 | [88978-defend-pizzeria-craft-shop.json](./88978-defend-pizzeria-craft-shop.json) |
