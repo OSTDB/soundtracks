@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
 | Naughty Ones | 12695 | [12695-naughty-ones.json](./12695-naughty-ones.json) |
 | Naughty or Nice | 29973 | [29973-naughty-or-nice.json](./29973-naughty-or-nice.json) |
+| Naughty Queens | 271887 | [271887-naughty-queens.json](./271887-naughty-queens.json) |
 | Naughty study for exams with a ghost | 111240 | [111240-naughty-study-for-exams-with-a-ghost.json](./111240-naughty-study-for-exams-with-a-ghost.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
 | Norvezskaya Semga | 342506 | [342506-norvezskaya-semga.json](./342506-norvezskaya-semga.json) |
+| Norwegian Jigsaw Puzzles | 271894 | [271894-norwegian-jigsaw-puzzles.json](./271894-norwegian-jigsaw-puzzles.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 1 | 274611 | [274611-norwegian-jigsaw-puzzles-expansion-pack-1.json](./274611-norwegian-jigsaw-puzzles-expansion-pack-1.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 2 | 274609 | [274609-norwegian-jigsaw-puzzles-expansion-pack-2.json](./274609-norwegian-jigsaw-puzzles-expansion-pack-2.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 3 | 274608 | [274608-norwegian-jigsaw-puzzles-expansion-pack-3.json](./274608-norwegian-jigsaw-puzzles-expansion-pack-3.json) |
