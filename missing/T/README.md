@@ -3840,7 +3840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telecom Tycoon | 297835 | [297835-telecom-tycoon.json](./297835-telecom-tycoon.json) |
 | Telefoot Soccer 2000 | 186003 | [186003-telefoot-soccer-2000.json](./186003-telefoot-soccer-2000.json) |
 | Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
-| Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Telegeddon | 369461 | [369461-telegeddon.json](./369461-telegeddon.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
@@ -6893,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Crab Escape | 315738 | [315738-the-big-crab-escape.json](./315738-the-big-crab-escape.json) |
+| The Big Crab Escape 2 | 315740 | [315740-the-big-crab-escape-2.json](./315740-the-big-crab-escape-2.json) |
 | The Big Deal | 13815 | [13815-the-big-deal.json](./13815-the-big-deal.json) |
 | The Big Deal | 267219 | [267219-the-big-deal.json](./267219-the-big-deal.json) |
 | The Big Elk | 33340 | [33340-the-big-elk.json](./33340-the-big-elk.json) |
@@ -10565,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Gamer Challenge | 52056 | [52056-the-gamer-challenge.json](./52056-the-gamer-challenge.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
+| The Games of Escape | 315746 | [315746-the-games-of-escape.json](./315746-the-games-of-escape.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
 | The Games You Make | 314395 | [314395-the-games-you-make.json](./314395-the-games-you-make.json) |
 | The Games: Summer Challenge | 4510 | [4510-the-games-summer-challenge.json](./4510-the-games-summer-challenge.json) |
@@ -12000,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
 | The Irrational World of Damien | 112653 | [112653-the-irrational-world-of-damien.json](./112653-the-irrational-world-of-damien.json) |
 | The Irregular at Magic High School Reloaded Memory | 174649 | [174649-the-irregular-at-magic-high-school-reloaded-memory.json](./174649-the-irregular-at-magic-high-school-reloaded-memory.json) |
+| The Irritatis: The Road | 315755 | [315755-the-irritatis-the-road.json](./315755-the-irritatis-the-road.json) |
 | The Island | 155934 | [155934-the-island.json](./155934-the-island.json) |
 | The Island | 184796 | [184796-the-island.json](./184796-the-island.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
@@ -14650,6 +14652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice of Riddle Place: The Incident of Izzy Ramirez | 55561 | [55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json](./55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
+| The Microcosm Escape | 315751 | [315751-the-microcosm-escape.json](./315751-the-microcosm-escape.json) |
 | The Midnight | 278206 | [278206-the-midnight.json](./278206-the-midnight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
@@ -17207,6 +17210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
 | The Sense of Connectedness | 128820 | [128820-the-sense-of-connectedness.json](./128820-the-sense-of-connectedness.json) |
 | The Sense Point | 174577 | [174577-the-sense-point.json](./174577-the-sense-point.json) |
+| The Senses Escape | 315752 | [315752-the-senses-escape.json](./315752-the-senses-escape.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sensifier | 410722 | [410722-the-sensifier.json](./410722-the-sensifier.json) |
 | The Sentient | 34184 | [34184-the-sentient.json](./34184-the-sentient.json) |
@@ -19313,6 +19317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The trial of witch | 80918 | [80918-the-trial-of-witch.json](./80918-the-trial-of-witch.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
+| The Trials Forest | 315758 | [315758-the-trials-forest.json](./315758-the-trials-forest.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Odysseus Kent | 73097 | [73097-the-trials-of-odysseus-kent.json](./73097-the-trials-of-odysseus-kent.json) |
@@ -19764,6 +19769,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitor: Ep.2 - Sleepover Slaughter | 373448 | [373448-the-visitor-ep-2-sleepover-slaughter.json](./373448-the-visitor-ep-2-sleepover-slaughter.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
+| The Visitors Escape | 315763 | [315763-the-visitors-escape.json](./315763-the-visitors-escape.json) |
+| The Visitors Escape 2 | 315765 | [315765-the-visitors-escape-2.json](./315765-the-visitors-escape-2.json) |
 | The Visitors from Mir | 260896 | [260896-the-visitors-from-mir.json](./260896-the-visitors-from-mir.json) |
 | The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
 | The Voice from Heaven | 114311 | [114311-the-voice-from-heaven.json](./114311-the-voice-from-heaven.json) |
@@ -20103,6 +20110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Week With Grugles 2 | 395921 | [395921-the-week-with-grugles-2.json](./395921-the-week-with-grugles-2.json) |
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
+| The Weight of Life: An Interactive Death Game of Judgement | 315379 | [315379-the-weight-of-life-an-interactive-death-game-of-judgement.json](./315379-the-weight-of-life-an-interactive-death-game-of-judgement.json) |
 | The Weird Dream | 265275 | [265275-the-weird-dream.json](./265275-the-weird-dream.json) |
 | The Weird One | 179364 | [179364-the-weird-one.json](./179364-the-weird-one.json) |
 | The Welkin World: Rebels | 121278 | [121278-the-welkin-world-rebels.json](./121278-the-welkin-world-rebels.json) |
@@ -24621,6 +24629,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
 | TimeL | 367856 | [367856-timel.json](./367856-timel.json) |
+| TimeLab | 315304 | [315304-timelab.json](./315304-timelab.json) |
+| TimeLab: Apollo 11 | 315305 | [315305-timelab-apollo-11.json](./315305-timelab-apollo-11.json) |
+| TimeLab: Castle Falkenstein | 315306 | [315306-timelab-castle-falkenstein.json](./315306-timelab-castle-falkenstein.json) |
 | TimeLab: LZ 129 Hindenburg | 337546 | [337546-timelab-lz-129-hindenburg.json](./337546-timelab-lz-129-hindenburg.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timelapse | 12485 | [12485-timelapse.json](./12485-timelapse.json) |
@@ -27569,6 +27580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Strike | 88726 | [88726-torpedo-strike.json](./88726-torpedo-strike.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
+| Torq's Late to the Grand Prix in the Attic Upstairs | 315747 | [315747-torqs-late-to-the-grand-prix-in-the-attic-upstairs.json](./315747-torqs-late-to-the-grand-prix-in-the-attic-upstairs.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
 | Torque Burnout | 95095 | [95095-torque-burnout.json](./95095-torque-burnout.json) |
 | Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
@@ -29867,7 +29879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: Ruhr-Sieg Nord - Hagen: Finnentrop Route | 156861 | [156861-train-sim-world-2020-ruhr-sieg-nord-hagen-finnentrop-route.json](./156861-train-sim-world-2020-ruhr-sieg-nord-hagen-finnentrop-route.json) |
 | Train Sim World 2020: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route | 156869 | [156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json](./156869-train-sim-world-2020-tees-valley-line-darlington-saltburn-by-the-sea-route.json) |
 | Train Sim World 2020: West Somerset Railway Route | 156872 | [156872-train-sim-world-2020-west-somerset-railway-route.json](./156872-train-sim-world-2020-west-somerset-railway-route.json) |
-| Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
 | Train Sim World 3 S-Bahn Zentralschweiz: Luzern - Sursee Route | 215968 | [215968-train-sim-world-3-s-bahn-zentralschweiz-luzern-sursee-route.json](./215968-train-sim-world-3-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Bahnstrecke Bremen - Oldenburg | 233357 | [233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json](./233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json) |
@@ -34960,6 +34971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Bridge | 228394 | [228394-turtle-bridge.json](./228394-turtle-bridge.json) |
 | Turtle Bridge | 231739 | [231739-turtle-bridge.json](./231739-turtle-bridge.json) |
 | Turtle Bridge | 363304 | [363304-turtle-bridge.json](./363304-turtle-bridge.json) |
+| Turtle Champs | 315310 | [315310-turtle-champs.json](./315310-turtle-champs.json) |
 | Turtle Champs: Cosmetics Pass | 315313 | [315313-turtle-champs-cosmetics-pass.json](./315313-turtle-champs-cosmetics-pass.json) |
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
