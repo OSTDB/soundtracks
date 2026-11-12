@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden of the Mizuchi | 418072 | [418072-maiden-of-the-mizuchi.json](./418072-maiden-of-the-mizuchi.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
+| Maiden's Banquet | 282848 | [282848-maidens-banquet.json](./282848-maidens-banquet.json) |
 | Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
 | Maiden's Reception: Shoujo-tachi no Danmaku Hirouen | 252579 | [252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json](./252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json) |
@@ -10726,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic's Big Adventure | 331077 | [331077-metal-sonics-big-adventure.json](./331077-metal-sonics-big-adventure.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
 | Metal Storm X | 257240 | [257240-metal-storm-x.json](./257240-metal-storm-x.json) |
+| Metal Storm: Collector's Edition | 282941 | [282941-metal-storm-collectors-edition.json](./282941-metal-storm-collectors-edition.json) |
 | Metal Strike | 166928 | [166928-metal-strike.json](./166928-metal-strike.json) |
 | Metal Strike | 367343 | [367343-metal-strike.json](./367343-metal-strike.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
@@ -16138,6 +16140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
 | Mole Hunter | 281635 | [281635-mole-hunter.json](./281635-mole-hunter.json) |
+| Mole Hunter | 282773 | [282773-mole-hunter.json](./282773-mole-hunter.json) |
 | Mole in a Hole | 256195 | [256195-mole-in-a-hole.json](./256195-mole-in-a-hole.json) |
 | Mole Maiden | 205035 | [205035-mole-maiden.json](./205035-mole-maiden.json) |
 | Mole Mania | 49038 | [49038-mole-mania.json](./49038-mole-mania.json) |
