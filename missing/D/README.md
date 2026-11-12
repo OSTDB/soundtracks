@@ -4928,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Gear | 188338 | [188338-death-gear.json](./188338-death-gear.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
+| Death Harvest | 247718 | [247718-death-harvest.json](./247718-death-harvest.json) |
 | Death Horizon | 68142 | [68142-death-horizon.json](./68142-death-horizon.json) |
 | Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
 | Death Horizon VR | 100771 | [100771-death-horizon-vr.json](./100771-death-horizon-vr.json) |
@@ -7169,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
 | Demonheart: Hunters | 110905 | [110905-demonheart-hunters.json](./110905-demonheart-hunters.json) |
+| Demonheart: The Cursed Trial | 247713 | [247713-demonheart-the-cursed-trial.json](./247713-demonheart-the-cursed-trial.json) |
 | Demonheart: The Ice Demon | 212049 | [212049-demonheart-the-ice-demon.json](./212049-demonheart-the-ice-demon.json) |
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
 | Demonia City | 315154 | [315154-demonia-city.json](./315154-demonia-city.json) |
@@ -13400,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Pepe & His Balloons | 381534 | [381534-don-pepe-and-his-balloons.json](./381534-don-pepe-and-his-balloons.json) |
 | Don Quijote | 51440 | [51440-don-quijote.json](./51440-don-quijote.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
+| Don Salmon | 247715 | [247715-don-salmon.json](./247715-don-salmon.json) |
 | Don-Chan Puzzle: Hanabi de Don | 309598 | [309598-don-chan-puzzle-hanabi-de-don.json](./309598-don-chan-puzzle-hanabi-de-don.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be A Baby! | 149124 | [149124-dont-be-a-baby.json](./149124-dont-be-a-baby.json) |
@@ -16804,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake & Josh | 6385 | [6385-drake-and-josh.json](./6385-drake-and-josh.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake of the 99 Dragons | 5815 | [5815-drake-of-the-99-dragons.json](./5815-drake-of-the-99-dragons.json) |
+| Drake's Dungeon | 247804 | [247804-drakes-dungeon.json](./247804-drakes-dungeon.json) |
 | Drake's Odds: Survive | 150385 | [150385-drakes-odds-survive.json](./150385-drakes-odds-survive.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakefall | 345052 | [345052-drakefall.json](./345052-drakefall.json) |
@@ -17780,6 +17784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreggon | 183318 | [183318-dreggon.json](./183318-dreggon.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
+| Dreieck | 247723 | [247723-dreieck.json](./247723-dreieck.json) |
 | Dreiframe | 373666 | [373666-dreiframe.json](./373666-dreiframe.json) |
 | Dreii | 36296 | [36296-dreii.json](./36296-dreii.json) |
 | Drekirökr: Dusk of the Dragon | 171731 | [171731-drekirokr-dusk-of-the-dragon.json](./171731-drekirokr-dusk-of-the-dragon.json) |
