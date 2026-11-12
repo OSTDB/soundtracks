@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
 | Paradise Trails | 418848 | [418848-paradise-trails.json](./418848-paradise-trails.json) |
+| Paradise Tycoon | 298498 | [298498-paradise-tycoon.json](./298498-paradise-tycoon.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
@@ -3543,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawly Pets: My Vet Practice | 47807 | [47807-pawly-pets-my-vet-practice.json](./47807-pawly-pets-my-vet-practice.json) |
 | PawMart Tiny Market | 406833 | [406833-pawmart-tiny-market.json](./406833-pawmart-tiny-market.json) |
 | Pawn | 30460 | [30460-pawn.json](./30460-pawn.json) |
+| Pawn Legends | 298471 | [298471-pawn-legends.json](./298471-pawn-legends.json) |
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet | 258783 | [258783-pawn-planet.json](./258783-pawn-planet.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
@@ -4725,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Kick 2: Online Soccer game | 220046 | [220046-perfect-kick-2-online-soccer-game.json](./220046-perfect-kick-2-online-soccer-game.json) |
 | Perfect Klondike Solitaire | 319308 | [319308-perfect-klondike-solitaire.json](./319308-perfect-klondike-solitaire.json) |
 | Perfect Klondike Solitaire: Collector's Edition | 315948 | [315948-perfect-klondike-solitaire-collectors-edition.json](./315948-perfect-klondike-solitaire-collectors-edition.json) |
+| Perfect Knife | 298352 | [298352-perfect-knife.json](./298352-perfect-knife.json) |
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
@@ -9732,6 +9735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
+| Plane Starship2: Galactic Contender | 298472 | [298472-plane-starship2-galactic-contender.json](./298472-plane-starship2-galactic-contender.json) |
 | Plane War | 96463 | [96463-plane-war.json](./96463-plane-war.json) |
 | Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
 | Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
@@ -16702,6 +16706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Antumbra | 50438 | [50438-project-antumbra.json](./50438-project-antumbra.json) |
 | Project Aphotic | 285327 | [285327-project-aphotic.json](./285327-project-aphotic.json) |
 | Project Apidom | 244022 | [244022-project-apidom.json](./244022-project-apidom.json) |
+| Project Apidom: Classic Samurai Set | 298487 | [298487-project-apidom-classic-samurai-set.json](./298487-project-apidom-classic-samurai-set.json) |
 | Project Apocalypse | 126798 | [126798-project-apocalypse.json](./126798-project-apocalypse.json) |
 | Project Apoceus | 274913 | [274913-project-apoceus.json](./274913-project-apoceus.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
