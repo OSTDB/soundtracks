@@ -9202,6 +9202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
 | Birmingham City Club Football 2005 | 267894 | [267894-birmingham-city-club-football-2005.json](./267894-birmingham-city-club-football-2005.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
+| Birnchen & Friends: Minor Confrontations | 260365 | [260365-birnchen-and-friends-minor-confrontations.json](./260365-birnchen-and-friends-minor-confrontations.json) |
 | Birnchen & Yoshie: Minor Confrontations | 211457 | [211457-birnchen-and-yoshie-minor-confrontations.json](./211457-birnchen-and-yoshie-minor-confrontations.json) |
 | Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
 | Birth ME Code | 132416 | [132416-birth-me-code.json](./132416-birth-me-code.json) |
