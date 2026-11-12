@@ -14590,6 +14590,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
 | The Many Sins of House Ocampo | 251651 | [251651-the-many-sins-of-house-ocampo.json](./251651-the-many-sins-of-house-ocampo.json) |
 | The Map Is the Thing | 348204 | [348204-the-map-is-the-thing.json](./348204-the-map-is-the-thing.json) |
+| The Mapwich | 260994 | [260994-the-mapwich.json](./260994-the-mapwich.json) |
+| The Mapwich 2: The Mapwichening | 260995 | [260995-the-mapwich-2-the-mapwichening.json](./260995-the-mapwich-2-the-mapwichening.json) |
 | The Mara Witch | 296413 | [296413-the-mara-witch.json](./296413-the-mara-witch.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
@@ -21065,6 +21067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | Therapy | 366580 | [366580-therapy.json](./366580-therapy.json) |
 | Therapy for Orchestra Movement III | 248803 | [248803-therapy-for-orchestra-movement-iii.json](./248803-therapy-for-orchestra-movement-iii.json) |
+| Therapy Game | 260907 | [260907-therapy-game.json](./260907-therapy-game.json) |
 | Therapy Sheep | 132499 | [132499-therapy-sheep.json](./132499-therapy-sheep.json) |
 | Therapy Simulator | 344444 | [344444-therapy-simulator.json](./344444-therapy-simulator.json) |
 | Therapy Simulator 2023 | 248078 | [248078-therapy-simulator-2023.json](./248078-therapy-simulator-2023.json) |
