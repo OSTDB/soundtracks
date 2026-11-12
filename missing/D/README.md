@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikatana | 361416 | [361416-daikatana.json](./361416-daikatana.json) |
 | Daikatana | 80764 | [80764-daikatana.json](./80764-daikatana.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
+| Daikon Creatures | 263806 | [263806-daikon-creatures.json](./263806-daikon-creatures.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai | 41729 | [41729-daikoukai-jidai.json](./41729-daikoukai-jidai.json) |
 | Daikoukai Jidai Gaiden | 340130 | [340130-daikoukai-jidai-gaiden.json](./340130-daikoukai-jidai-gaiden.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Worlds - Age of Wars | 90343 | [90343-dark-worlds-age-of-wars.json](./90343-dark-worlds-age-of-wars.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
 | Dark Xingzer | 109318 | [109318-dark-xingzer.json](./109318-dark-xingzer.json) |
+| Dark Year | 263805 | [263805-dark-year.json](./263805-dark-year.json) |
 | Dark Years | 13543 | [13543-dark-years.json](./13543-dark-years.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
@@ -2785,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DataJack 2020 | 244318 | [244318-datajack-2020.json](./244318-datajack-2020.json) |
 | Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
+| Dataminers | 263708 | [263708-dataminers.json](./263708-dataminers.json) |
 | Datascape | 196929 | [196929-datascape.json](./196929-datascape.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Datasight | 220005 | [220005-datasight.json](./220005-datasight.json) |
@@ -7847,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Witch | 291693 | [291693-desert-witch.json](./291693-desert-witch.json) |
 | Desert Worms | 243851 | [243851-desert-worms.json](./243851-desert-worms.json) |
 | Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
+| Deserted "Firefly Islands": Chronicles | 263810 | [263810-deserted-firefly-islands-chronicles.json](./263810-deserted-firefly-islands-chronicles.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserted Island | 343742 | [343742-deserted-island.json](./343742-deserted-island.json) |
 | Deserted: The Story of Peter | 32028 | [32028-deserted-the-story-of-peter.json](./32028-deserted-the-story-of-peter.json) |
