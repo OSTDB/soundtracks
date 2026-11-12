@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire 2: Bella Italia | 345429 | [345429-railway-empire-2-bella-italia.json](./345429-railway-empire-2-bella-italia.json) |
 | Railway Empire 2: Deluxe Edition | 248240 | [248240-railway-empire-2-deluxe-edition.json](./248240-railway-empire-2-deluxe-edition.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
+| Railway Empire 2: High Voltage | 308691 | [308691-railway-empire-2-high-voltage.json](./308691-railway-empire-2-high-voltage.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
 | Railway Empire 2: Industrial Wonders | 347487 | [347487-railway-empire-2-industrial-wonders.json](./347487-railway-empire-2-industrial-wonders.json) |
 | Railway Empire 2: Nintendo Switch Edition | 254075 | [254075-railway-empire-2-nintendo-switch-edition.json](./254075-railway-empire-2-nintendo-switch-edition.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
+| Ready or Not: Home Invasion | 308700 | [308700-ready-or-not-home-invasion.json](./308700-ready-or-not-home-invasion.json) |
 | Ready or Not: The Deadline is Coming! | 409095 | [409095-ready-or-not-the-deadline-is-coming.json](./409095-ready-or-not-the-deadline-is-coming.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
 | Ready or Nowhere | 413370 | [413370-ready-or-nowhere.json](./413370-ready-or-nowhere.json) |
@@ -9319,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: Shadow of Nottingham | 298364 | [298364-robin-hood-shadow-of-nottingham.json](./298364-robin-hood-shadow-of-nottingham.json) |
 | Robin Hood: Sherwood Builders | 163038 | [163038-robin-hood-sherwood-builders.json](./163038-robin-hood-sherwood-builders.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
+| Robin Hood: Shogun Samurai | 308666 | [308666-robin-hood-shogun-samurai.json](./308666-robin-hood-shogun-samurai.json) |
 | Robin Hood: Spring of Life | 192616 | [192616-robin-hood-spring-of-life.json](./192616-robin-hood-spring-of-life.json) |
 | Robin Hood: The Legend of Sherwood | 851 | [851-robin-hood-the-legend-of-sherwood.json](./851-robin-hood-the-legend-of-sherwood.json) |
 | Robin Hood: The Return of Richard | 66507 | [66507-robin-hood-the-return-of-richard.json](./66507-robin-hood-the-return-of-richard.json) |
