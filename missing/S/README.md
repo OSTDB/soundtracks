@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackboy: A Big Adventure - Clank Costume | 327313 | [327313-sackboy-a-big-adventure-clank-costume.json](./327313-sackboy-a-big-adventure-clank-costume.json) |
 | Sackboy: A Big Adventure - Digital Deluxe Edition | 407590 | [407590-sackboy-a-big-adventure-digital-deluxe-edition.json](./407590-sackboy-a-big-adventure-digital-deluxe-edition.json) |
 | Sackboy: A Big Adventure - Emote Pack | 230997 | [230997-sackboy-a-big-adventure-emote-pack.json](./230997-sackboy-a-big-adventure-emote-pack.json) |
+| Sackboy: A Big Adventure - Sports Clothing Pack | 257020 | [257020-sackboy-a-big-adventure-sports-clothing-pack.json](./257020-sackboy-a-big-adventure-sports-clothing-pack.json) |
 | Sackboy: A Big Adventure – Emotions Emote Pack | 286151 | [286151-sackboy-a-big-adventure-emotions-emote-pack.json](./286151-sackboy-a-big-adventure-emotions-emote-pack.json) |
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
 | Saints Row: Day One Edition | 203507 | [203507-saints-row-day-one-edition.json](./203507-saints-row-day-one-edition.json) |
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
+| Saints Row: Doc Ketchum's Murder Circus | 257021 | [257021-saints-row-doc-ketchums-murder-circus.json](./257021-saints-row-doc-ketchums-murder-circus.json) |
 | Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
 | Saints Row: Exclusive Unkut Pack | 400843 | [400843-saints-row-exclusive-unkut-pack.json](./400843-saints-row-exclusive-unkut-pack.json) |
@@ -30984,6 +30986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striving for Light: Survival | 234130 | [234130-striving-for-light-survival.json](./234130-striving-for-light-survival.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
+| Stroggman's Tundra | 257128 | [257128-stroggmans-tundra.json](./257128-stroggmans-tundra.json) |
 | Stroke | 184135 | [184135-stroke.json](./184135-stroke.json) |
 | Stroke Fill | 118794 | [118794-stroke-fill.json](./118794-stroke-fill.json) |
 | Stroke of Midnight | 54409 | [54409-stroke-of-midnight.json](./54409-stroke-of-midnight.json) |
