@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
 | Fabble's Adventure | 52988 | [52988-fabbles-adventure.json](./52988-fabbles-adventure.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
+| Fabergegg | 309788 | [309788-fabergegg.json](./309788-fabergegg.json) |
 | Fable | 2960 | [2960-fable.json](./2960-fable.json) |
 | Fable | 92550 | [92550-fable.json](./92550-fable.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
