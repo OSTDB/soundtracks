@@ -5421,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex-Mechs | 129324 | [129324-tex-mechs.json](./129324-tex-mechs.json) |
 | Tex'em | 253287 | [253287-texem.json](./253287-texem.json) |
 | Texas 42 HD | 101042 | [101042-texas-42-hd.json](./101042-texas-42-hd.json) |
+| Texas Border Guard | 293797 | [293797-texas-border-guard.json](./293797-texas-border-guard.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Cheat 'Em | 92652 | [92652-texas-cheat-em.json](./92652-texas-cheat-em.json) |
@@ -7909,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
+| The Colonists: New Lands | 293808 | [293808-the-colonists-new-lands.json](./293808-the-colonists-new-lands.json) |
 | The Colony | 108668 | [108668-the-colony.json](./108668-the-colony.json) |
 | The Colony | 113413 | [113413-the-colony.json](./113413-the-colony.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
