@@ -474,7 +474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Snowboarding | 34515 | [34515-mad-snowboarding.json](./34515-mad-snowboarding.json) |
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
-| Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
 | Mad Survivor: Arid Warfire | 287370 | [287370-mad-survivor-arid-warfire.json](./287370-mad-survivor-arid-warfire.json) |
 | Mad Tanks | 179464 | [179464-mad-tanks.json](./179464-mad-tanks.json) |
 | Mad Tanks | 58678 | [58678-mad-tanks.json](./58678-mad-tanks.json) |
@@ -4904,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
 | Martian Successor Nadesico ~Yappari Saigo ha [Ai ga Katsu] ?~ | 125375 | [125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json](./125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json) |
 | Martian Successor Nadesico: Nadesico the Mission | 125366 | [125366-martian-successor-nadesico-nadesico-the-mission.json](./125366-martian-successor-nadesico-nadesico-the-mission.json) |
+| Martian Supermarket Sim | 315946 | [315946-martian-supermarket-sim.json](./315946-martian-supermarket-sim.json) |
 | Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martianoids | 39774 | [39774-martianoids.json](./39774-martianoids.json) |
