@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable Gorg | 1057 | [1057-unstoppable-gorg.json](./1057-unstoppable-gorg.json) |
 | Unstoppable Hamster | 81884 | [81884-unstoppable-hamster.json](./81884-unstoppable-hamster.json) |
 | Unstoppable Man | 161554 | [161554-unstoppable-man.json](./161554-unstoppable-man.json) |
+| Unstoppable: Breakout | 304929 | [304929-unstoppable-breakout.json](./304929-unstoppable-breakout.json) |
 | Unstoppabot | 5608 | [5608-unstoppabot.json](./5608-unstoppabot.json) |
 | Unstrange | 386829 | [386829-unstrange.json](./386829-unstrange.json) |
 | Unstrayed | 289924 | [289924-unstrayed.json](./289924-unstrayed.json) |
