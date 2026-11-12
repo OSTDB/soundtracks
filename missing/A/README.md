@@ -19473,6 +19473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoidy Virus | 338183 | [338183-avoidy-virus.json](./338183-avoidy-virus.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
 | Avon | 328979 | [328979-avon.json](./328979-avon.json) |
+| Avoo | 291131 | [291131-avoo.json](./291131-avoo.json) |
 | Avopug Show | 217346 | [217346-avopug-show.json](./217346-avopug-show.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
