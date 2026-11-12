@@ -8151,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Helmet Heroes: Exalted Edition | 330618 | [330618-big-helmet-heroes-exalted-edition.json](./330618-big-helmet-heroes-exalted-edition.json) |
 | Big Hero 6: Battle in the Bay | 44025 | [44025-big-hero-6-battle-in-the-bay.json](./44025-big-hero-6-battle-in-the-bay.json) |
 | Big Hero 6: Bot Fight | 60832 | [60832-big-hero-6-bot-fight.json](./60832-big-hero-6-bot-fight.json) |
+| Big Hit Football 23 | 264846 | [264846-big-hit-football-23.json](./264846-big-hit-football-23.json) |
 | Big Hit VR Baseball | 28789 | [28789-big-hit-vr-baseball.json](./28789-big-hit-vr-baseball.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
 | Big Hops | 217390 | [217390-big-hops.json](./217390-big-hops.json) |
@@ -9367,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Premium Edition | 233926 | [233926-bit-orchard-animal-valley-premium-edition.json](./233926-bit-orchard-animal-valley-premium-edition.json) |
 | Bit Orchard: Animal Valley - Special Edition | 227702 | [227702-bit-orchard-animal-valley-special-edition.json](./227702-bit-orchard-animal-valley-special-edition.json) |
+| Bit Orchard: Animal Valley - Superb Edition | 264945 | [264945-bit-orchard-animal-valley-superb-edition.json](./264945-bit-orchard-animal-valley-superb-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Oz: Wonder Crusher | 237024 | [237024-bit-oz-wonder-crusher.json](./237024-bit-oz-wonder-crusher.json) |
@@ -11396,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
 | Block Puzzle Advanced | 109939 | [109939-block-puzzle-advanced.json](./109939-block-puzzle-advanced.json) |
+| Block Puzzle Kool | 264907 | [264907-block-puzzle-kool.json](./264907-block-puzzle-kool.json) |
 | Block Puzzle Legend | 104585 | [104585-block-puzzle-legend.json](./104585-block-puzzle-legend.json) |
 | Block Puzzle Pop!! | 241805 | [241805-block-puzzle-pop.json](./241805-block-puzzle-pop.json) |
 | Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
@@ -13263,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing | 223338 | [223338-boing.json](./223338-boing.json) |
+| Boing Bang Adventure | 264919 | [264919-boing-bang-adventure.json](./264919-boing-bang-adventure.json) |
 | Boing Boing | 303866 | [303866-boing-boing.json](./303866-boing-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
 | Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
