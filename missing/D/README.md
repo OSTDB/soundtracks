@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DangerZone VR | 166049 | [166049-dangerzone-vr.json](./166049-dangerzone-vr.json) |
 | Danghost | 216741 | [216741-danghost.json](./216741-danghost.json) |
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
+| Dangle Dash | 248259 | [248259-dangle-dash.json](./248259-dangle-dash.json) |
 | Danglebox | 190324 | [190324-danglebox.json](./190324-danglebox.json) |
 | Dango Dash | 228508 | [228508-dango-dash.json](./228508-dango-dash.json) |
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Dozen: Pacific Theater | 27480 | [27480-deadly-dozen-pacific-theater.json](./27480-deadly-dozen-pacific-theater.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
+| Deadly Dunk | 248258 | [248258-deadly-dunk.json](./248258-deadly-dunk.json) |
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
 | Deadly Escape | 83831 | [83831-deadly-escape.json](./83831-deadly-escape.json) |
@@ -18679,6 +18681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Darts | 354756 | [354756-drunken-darts.json](./354756-drunken-darts.json) |
 | Drunken Dragon | 310262 | [310262-drunken-dragon.json](./310262-drunken-dragon.json) |
 | Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
+| Drunken FC | 248940 | [248940-drunken-fc.json](./248940-drunken-fc.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist | 117128 | [117128-drunken-fist.json](./117128-drunken-fist.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
