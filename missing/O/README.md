@@ -4940,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Apocalypse | 288409 | [288409-otherworld-apocalypse.json](./288409-otherworld-apocalypse.json) |
 | Otherworld Convergence | 416581 | [416581-otherworld-convergence.json](./416581-otherworld-convergence.json) |
 | Otherworld Convergence: After | 416582 | [416582-otherworld-convergence-after.json](./416582-otherworld-convergence-after.json) |
+| Otherworld Hero | 253631 | [253631-otherworld-hero.json](./253631-otherworld-hero.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Aigneis | 235678 | [235678-otherworld-legends-aigneis.json](./235678-otherworld-legends-aigneis.json) |
