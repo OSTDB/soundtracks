@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real WarBots | 24459 | [24459-real-warbots.json](./24459-real-warbots.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Warfare 2: Northern Crusades | 9414 | [9414-real-warfare-2-northern-crusades.json](./9414-real-warfare-2-northern-crusades.json) |
+| Real Web Legends: Carter's Quest | 249987 | [249987-real-web-legends-carters-quest.json](./249987-real-web-legends-carters-quest.json) |
 | Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
 | Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real World | 275637 | [275637-real-world.json](./275637-real-world.json) |
@@ -6584,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Ride | 196982 | [196982-retro-ride.json](./196982-retro-ride.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro Robots 2D | 319402 | [319402-retro-robots-2d.json](./319402-retro-robots-2d.json) |
+| Retro Rocket Raiders | 249514 | [249514-retro-rocket-raiders.json](./249514-retro-rocket-raiders.json) |
 | Retro Rocket Robot | 97081 | [97081-retro-rocket-robot.json](./97081-retro-rocket-robot.json) |
 | Retro Rollers Bundle | 254076 | [254076-retro-rollers-bundle.json](./254076-retro-rollers-bundle.json) |
 | Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
