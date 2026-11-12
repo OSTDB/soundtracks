@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Nightz | 365623 | [365623-video-nightz.json](./365623-video-nightz.json) |
 | Video Olimpic | 69341 | [69341-video-olimpic.json](./69341-video-olimpic.json) |
 | Video Olympics | 54791 | [54791-video-olympics.json](./54791-video-olympics.json) |
+| Video Pinball | 257613 | [257613-video-pinball.json](./257613-video-pinball.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 246382 | [246382-video-poker.json](./246382-video-poker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
