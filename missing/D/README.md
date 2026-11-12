@@ -14207,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM in the Dark | 115516 | [115516-doom-in-the-dark.json](./115516-doom-in-the-dark.json) |
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
+| Doom Infinite | 282349 | [282349-doom-infinite.json](./282349-doom-infinite.json) |
 | Doom Jam | 383434 | [383434-doom-jam.json](./383434-doom-jam.json) |
 | Doom Mapping Contest II: Hellectric Boogaloo | 262281 | [262281-doom-mapping-contest-ii-hellectric-boogaloo.json](./262281-doom-mapping-contest-ii-hellectric-boogaloo.json) |
 | Doom Nukem CSS | 354810 | [354810-doom-nukem-css.json](./354810-doom-nukem-css.json) |
@@ -15779,6 +15780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Super Divers | 325169 | [325169-dragon-ball-super-divers.json](./325169-dragon-ball-super-divers.json) |
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Super: Card Game - Fusion World | 283612 | [283612-dragon-ball-super-card-game-fusion-world.json](./283612-dragon-ball-super-card-game-fusion-world.json) |
+| Dragon Ball Terraria | 282340 | [282340-dragon-ball-terraria.json](./282340-dragon-ball-terraria.json) |
 | Dragon Ball Universe | 176638 | [176638-dragon-ball-universe.json](./176638-dragon-ball-universe.json) |
 | Dragon Ball VR: Master the Kamehameha | 49116 | [49116-dragon-ball-vr-master-the-kamehameha.json](./49116-dragon-ball-vr-master-the-kamehameha.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
