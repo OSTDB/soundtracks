@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A South Sea Tale | 311961 | [311961-a-south-sea-tale.json](./311961-a-south-sea-tale.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
+| A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
 | A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
 | A Space Odyssey | 189289 | [189289-a-space-odyssey.json](./189289-a-space-odyssey.json) |
 | A Space Shooter for 2 Bucks! | 21173 | [21173-a-space-shooter-for-2-bucks.json](./21173-a-space-shooter-for-2-bucks.json) |
@@ -17309,6 +17310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Pursuit | 320601 | [320601-astral-pursuit.json](./320601-astral-pursuit.json) |
 | Astral Quester | 265590 | [265590-astral-quester.json](./265590-astral-quester.json) |
 | Astral Rift | 293000 | [293000-astral-rift.json](./293000-astral-rift.json) |
+| Astral Rot | 261563 | [261563-astral-rot.json](./261563-astral-rot.json) |
 | Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
 | Astral Savior | 347779 | [347779-astral-savior.json](./347779-astral-savior.json) |
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
@@ -19973,6 +19975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azazel | 170020 | [170020-azazel.json](./170020-azazel.json) |
 | Azazel Gamble | 370284 | [370284-azazel-gamble.json](./370284-azazel-gamble.json) |
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
+| Azazel's Second Descent | 261483 | [261483-azazels-second-descent.json](./261483-azazels-second-descent.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Azerion | 193671 | [193671-azerion.json](./193671-azerion.json) |
 | Azhar Erriad: Destruction | 362760 | [362760-azhar-erriad-destruction.json](./362760-azhar-erriad-destruction.json) |
