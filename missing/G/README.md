@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Revolution | 25345 | [25345-galactic-revolution.json](./25345-galactic-revolution.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
+| Galactic Ruler Enlightenment | 290562 | [290562-galactic-ruler-enlightenment.json](./290562-galactic-ruler-enlightenment.json) |
 | Galactic Rumble | 393199 | [393199-galactic-rumble.json](./393199-galactic-rumble.json) |
 | Galactic Rush | 399554 | [399554-galactic-rush.json](./399554-galactic-rush.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
@@ -11093,6 +11094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Guest Uncovered | 248990 | [248990-guest-uncovered.json](./248990-guest-uncovered.json) |
+| Gug | 290594 | [290594-gug.json](./290594-gug.json) |
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
 | GuGu Pizza: Delivering Pizza to the Space Station? Boss, This is Just Not Right! | 328947 | [328947-gugu-pizza-delivering-pizza-to-the-space-station-boss-this-is-just-not-right.json](./328947-gugu-pizza-delivering-pizza-to-the-space-station-boss-this-is-just-not-right.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
@@ -12123,6 +12125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
 | Gunzle | 313450 | [313450-gunzle.json](./313450-gunzle.json) |
 | Gunzle: Clover And Claus | 331963 | [331963-gunzle-clover-and-claus.json](./331963-gunzle-clover-and-claus.json) |
+| Gunzo! | 290584 | [290584-gunzo.json](./290584-gunzo.json) |
 | Gunzzle: Warp Master | 372607 | [372607-gunzzle-warp-master.json](./372607-gunzzle-warp-master.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gupank | 419888 | [419888-gupank.json](./419888-gupank.json) |
