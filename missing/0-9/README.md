@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
+| 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 0D Beat Drop | 6173 | [6173-0d-beat-drop.json](./6173-0d-beat-drop.json) |
 | 0Gravity | 120001 | [120001-0gravity.json](./120001-0gravity.json) |
 | 0h h1 | 135741 | [135741-0h-h1.json](./135741-0h-h1.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Frogs 2 | 235392 | [235392-100-hidden-frogs-2.json](./235392-100-hidden-frogs-2.json) |
 | 100 Hidden Gnomes | 150415 | [150415-100-hidden-gnomes.json](./150415-100-hidden-gnomes.json) |
 | 100 Hidden Hares | 195688 | [195688-100-hidden-hares.json](./195688-100-hidden-hares.json) |
+| 100 Hidden Kooky & Hiking Boots | 318687 | [318687-100-hidden-kooky-and-hiking-boots.json](./318687-100-hidden-kooky-and-hiking-boots.json) |
 | 100 Hidden Kooky: Sand & Sun | 283032 | [283032-100-hidden-kooky-sand-and-sun.json](./283032-100-hidden-kooky-sand-and-sun.json) |
 | 100 Hidden Mice | 167526 | [167526-100-hidden-mice.json](./167526-100-hidden-mice.json) |
 | 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
@@ -1912,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
 | 2089: Space Divided | 159112 | [159112-2089-space-divided.json](./159112-2089-space-divided.json) |
+| 209 | 316432 | [316432-209.json](./316432-209.json) |
 | 2099 Gravity Havoc | 262852 | [262852-2099-gravity-havoc.json](./262852-2099-gravity-havoc.json) |
 | 20b | 169819 | [169819-20b.json](./169819-20b.json) |
 | 20MTD: Emberpath | 275552 | [275552-20mtd-emberpath.json](./275552-20mtd-emberpath.json) |
@@ -1950,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2121 AD | 308295 | [308295-2121-ad.json](./308295-2121-ad.json) |
 | 2152: Pizza Pocket | 394544 | [394544-2152-pizza-pocket.json](./394544-2152-pizza-pocket.json) |
 | 2176 Supernova Storm | 92620 | [92620-2176-supernova-storm.json](./92620-2176-supernova-storm.json) |
+| 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
 | 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
 | 21st Century Roguelike Pac-man | 375826 | [375826-21st-century-roguelike-pac-man.json](./375826-21st-century-roguelike-pac-man.json) |
 | 22 Dayz | 328158 | [328158-22-dayz.json](./328158-22-dayz.json) |
@@ -3269,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Second Strike | 65822 | [65822-60-second-strike.json](./65822-60-second-strike.json) |
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
+| 60 Seconds to Escape | 317490 | [317490-60-seconds-to-escape.json](./317490-60-seconds-to-escape.json) |
 | 60 Seconds to Park | 303745 | [303745-60-seconds-to-park.json](./303745-60-seconds-to-park.json) |
 | 60 Seconds to Survive | 106840 | [106840-60-seconds-to-survive.json](./106840-60-seconds-to-survive.json) |
 | 60 Seconds! | 11709 | [11709-60-seconds.json](./11709-60-seconds.json) |
@@ -3493,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Billiards Classic | 300667 | [300667-8-ball-billiards-classic.json](./300667-8-ball-billiards-classic.json) |
 | 8 Ball by Pokerist | 377125 | [377125-8-ball-by-pokerist.json](./377125-8-ball-by-pokerist.json) |
 | 8 Ball Clash | 194918 | [194918-8-ball-clash.json](./194918-8-ball-clash.json) |
+| 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 8 Ball Hero | 223930 | [223930-8-ball-hero.json](./223930-8-ball-hero.json) |
 | 8 Ball Kings | 377124 | [377124-8-ball-kings.json](./377124-8-ball-kings.json) |
 | 8 Ball Legend: Online Pool | 233120 | [233120-8-ball-legend-online-pool.json](./233120-8-ball-legend-online-pool.json) |
@@ -3747,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
 | 90FX | 377126 | [377126-90fx.json](./377126-90fx.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
+| 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
 | 90s Video Pokers | 175477 | [175477-90s-video-pokers.json](./175477-90s-video-pokers.json) |
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
