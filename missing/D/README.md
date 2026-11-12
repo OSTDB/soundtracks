@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Desert Rally: Hybrid Vehicle Pack | 278429 | [278429-dakar-desert-rally-hybrid-vehicle-pack.json](./278429-dakar-desert-rally-hybrid-vehicle-pack.json) |
 | Dakar Desert Rally: Legends Pack | 263054 | [263054-dakar-desert-rally-legends-pack.json](./263054-dakar-desert-rally-legends-pack.json) |
 | Dakar Desert Rally: SnowRunner Cars Pack | 278428 | [278428-dakar-desert-rally-snowrunner-cars-pack.json](./278428-dakar-desert-rally-snowrunner-cars-pack.json) |
+| Dakar Desert Rally: SnowRunner Trucks | 252417 | [252417-dakar-desert-rally-snowrunner-trucks.json](./252417-dakar-desert-rally-snowrunner-trucks.json) |
 | Dakar Desert Rally: USA Tour | 286168 | [286168-dakar-desert-rally-usa-tour.json](./286168-dakar-desert-rally-usa-tour.json) |
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
 | Dark Deity | 147215 | [147215-dark-deity.json](./147215-dark-deity.json) |
 | Dark Deity 1 & 2 | 398151 | [398151-dark-deity-1-and-2.json](./398151-dark-deity-1-and-2.json) |
+| Dark Deity II | 252352 | [252352-dark-deity-ii.json](./252352-dark-deity-ii.json) |
 | Dark Deity III | 405171 | [405171-dark-deity-iii.json](./405171-dark-deity-iii.json) |
 | Dark Deity: Complete Edition | 227862 | [227862-dark-deity-complete-edition.json](./227862-dark-deity-complete-edition.json) |
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
@@ -3395,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode 38 - Wonderverse | 161190 | [161190-dc-universe-online-episode-38-wonderverse.json](./161190-dc-universe-online-episode-38-wonderverse.json) |
 | DC Universe Online: Episode 39 - Long Live the Legion | 161201 | [161201-dc-universe-online-episode-39-long-live-the-legion.json](./161201-dc-universe-online-episode-39-long-live-the-legion.json) |
 | DC Universe Online: Episode 4 - The Last Laugh | 271147 | [271147-dc-universe-online-episode-4-the-last-laugh.json](./271147-dc-universe-online-episode-4-the-last-laugh.json) |
+| DC Universe Online: Episode 44 - The Sins of Black Adam | 252432 | [252432-dc-universe-online-episode-44-the-sins-of-black-adam.json](./252432-dc-universe-online-episode-44-the-sins-of-black-adam.json) |
 | DC Universe Online: Episode 45 - Shock to the System | 248600 | [248600-dc-universe-online-episode-45-shock-to-the-system.json](./248600-dc-universe-online-episode-45-shock-to-the-system.json) |
 | DC Universe Online: Episode 46 - Justice League Dark | 271141 | [271141-dc-universe-online-episode-46-justice-league-dark.json](./271141-dc-universe-online-episode-46-justice-league-dark.json) |
 | DC Universe Online: Episode 5 - Hand of Fate | 271148 | [271148-dc-universe-online-episode-5-hand-of-fate.json](./271148-dc-universe-online-episode-5-hand-of-fate.json) |
@@ -17410,6 +17413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
 | Dream Tower | 357462 | [357462-dream-tower.json](./357462-dream-tower.json) |
 | Dream Tower | 409878 | [409878-dream-tower.json](./409878-dream-tower.json) |
+| Dream Town Island | 252421 | [252421-dream-town-island.json](./252421-dream-town-island.json) |
 | Dream Town Story | 276329 | [276329-dream-town-story.json](./276329-dream-town-story.json) |
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
@@ -20624,6 +20628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
+| Dwarf Delve | 252348 | [252348-dwarf-delve.json](./252348-dwarf-delve.json) |
 | Dwarf Digger | 346742 | [346742-dwarf-digger.json](./346742-dwarf-digger.json) |
 | Dwarf Dove | 293507 | [293507-dwarf-dove.json](./293507-dwarf-dove.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
