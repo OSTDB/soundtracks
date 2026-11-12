@@ -3692,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
 | Urusei Yatsura | 94113 | [94113-urusei-yatsura.json](./94113-urusei-yatsura.json) |
 | Urusei Yatsura CG Puzzle | 138521 | [138521-urusei-yatsura-cg-puzzle.json](./138521-urusei-yatsura-cg-puzzle.json) |
+| Urusei Yatsura: Dear My Friends | 293257 | [293257-urusei-yatsura-dear-my-friends.json](./293257-urusei-yatsura-dear-my-friends.json) |
 | Urusei Yatsura: Dear My Friends | 46401 | [46401-urusei-yatsura-dear-my-friends.json](./46401-urusei-yatsura-dear-my-friends.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Urusei Yatsura: Koi no Survival Party | 66194 | [66194-urusei-yatsura-koi-no-survival-party.json](./66194-urusei-yatsura-koi-no-survival-party.json) |
