@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-DC | 333410 | [333410-1-dc.json](./333410-1-dc.json) |
 | 1-Hour Speedmapping 2018 | 315311 | [315311-1-hour-speedmapping-2018.json](./315311-1-hour-speedmapping-2018.json) |
 | 1-nichi 10-pun de E ga Jouzu ni Kakeru Beena | 327566 | [327566-1-nichi-10-pun-de-e-ga-jouzu-ni-kakeru-beena.json](./327566-1-nichi-10-pun-de-e-ga-jouzu-ni-kakeru-beena.json) |
+| 1-ppun Miru dake! Meiga de Kioku-ryoku Test Art de Nou-tra! | 268620 | [268620-1-ppun-miru-dake-meiga-de-kioku-ryoku-test-art-de-nou-tra.json](./268620-1-ppun-miru-dake-meiga-de-kioku-ryoku-test-art-de-nou-tra.json) |
 | 1, 2 Blame! | 146107 | [146107-1-2-blame.json](./146107-1-2-blame.json) |
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
 | 1,000,000,000 Spells | 403530 | [403530-1-000-000-000-spells.json](./403530-1-000-000-000-spells.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Classics: TwinBee | 84618 | [84618-3d-classics-twinbee.json](./84618-3d-classics-twinbee.json) |
 | 3D Classics: Urban Champion | 84619 | [84619-3d-classics-urban-champion.json](./84619-3d-classics-urban-champion.json) |
 | 3D Classics: Xevious | 84665 | [84665-3d-classics-xevious.json](./84665-3d-classics-xevious.json) |
+| 3D Collection | 268703 | [268703-3d-collection.json](./268703-3d-collection.json) |
 | 3D Color Labyrinth | 282158 | [282158-3d-color-labyrinth.json](./282158-3d-color-labyrinth.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Columns | 205835 | [205835-3d-columns.json](./205835-3d-columns.json) |
