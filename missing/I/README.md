@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikasuze! Koi no Doki-doki Penguin Land MD | 45731 | [45731-ikasuze-koi-no-doki-doki-penguin-land-md.json](./45731-ikasuze-koi-no-doki-doki-penguin-land-md.json) |
 | Ikatan: Ikamono Tantei | 72774 | [72774-ikatan-ikamono-tantei.json](./72774-ikatan-ikamono-tantei.json) |
 | Ikazuse! Koi no Doki Doki Penguin Land MD | 62488 | [62488-ikazuse-koi-no-doki-doki-penguin-land-md.json](./62488-ikazuse-koi-no-doki-doki-penguin-land-md.json) |
+| IKD | 311392 | [311392-ikd.json](./311392-ikd.json) |
 | Ike Ike Dendai Bus | 251072 | [251072-ike-ike-dendai-bus.json](./251072-ike-ike-dendai-bus.json) |
 | Ike! Ike!! Hamster | 314210 | [314210-ike-ike-hamster.json](./314210-ike-ike-hamster.json) |
 | IKEA VR Experience | 33400 | [33400-ikea-vr-experience.json](./33400-ikea-vr-experience.json) |
