@@ -20324,6 +20324,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duplo | 407947 | [407947-duplo.json](./407947-duplo.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Dura Vita Online | 164082 | [164082-dura-vita-online.json](./164082-dura-vita-online.json) |
+| Durak NTR: Doomed Romance Pack | 280412 | [280412-durak-ntr-doomed-romance-pack.json](./280412-durak-ntr-doomed-romance-pack.json) |
+| Durak NTR: the Fool who lost his gf in a card game | 280410 | [280410-durak-ntr-the-fool-who-lost-his-gf-in-a-card-game.json](./280410-durak-ntr-the-fool-who-lost-his-gf-in-a-card-game.json) |
 | Durak Online | 266371 | [266371-durak-online.json](./266371-durak-online.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
 | Durak! | 56649 | [56649-durak.json](./56649-durak.json) |
