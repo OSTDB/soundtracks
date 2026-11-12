@@ -2472,7 +2472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoDuel: Backpack Monsters | 280123 | [280123-neoduel-backpack-monsters.json](./280123-neoduel-backpack-monsters.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neofall | 331781 | [331781-neofall.json](./331781-neofall.json) |
-| Neofeud | 55688 | [55688-neofeud.json](./55688-neofeud.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
 | NeoFlux Drift | 146026 | [146026-neoflux-drift.json](./146026-neoflux-drift.json) |
 | Neofold | 404070 | [404070-neofold.json](./404070-neofold.json) |
