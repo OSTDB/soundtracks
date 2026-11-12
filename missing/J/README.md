@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judofuri | 311170 | [311170-judofuri.json](./311170-judofuri.json) |
 | Judy's Adventure DX | 404264 | [404264-judys-adventure-dx.json](./404264-judys-adventure-dx.json) |
 | JuegosPX | 343137 | [343137-juegospx.json](./343137-juegospx.json) |
+| Juegue Con Su Amstrad 01: Kart 3000 | 273528 | [273528-juegue-con-su-amstrad-01-kart-3000.json](./273528-juegue-con-su-amstrad-01-kart-3000.json) |
 | Juegue Con Su Amstrad 02: West | 277240 | [277240-juegue-con-su-amstrad-02-west.json](./277240-juegue-con-su-amstrad-02-west.json) |
 | Juegue Con Su Amstrad 03: Max | 343139 | [343139-juegue-con-su-amstrad-03-max.json](./343139-juegue-con-su-amstrad-03-max.json) |
 | Juémèng: Cyber | 154587 | [154587-juemeng-cyber.json](./154587-juemeng-cyber.json) |
