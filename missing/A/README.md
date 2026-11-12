@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ridiculous Waste of Time | 408548 | [408548-a-ridiculous-waste-of-time.json](./408548-a-ridiculous-waste-of-time.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rip In Time | 50751 | [50751-a-rip-in-time.json](./50751-a-rip-in-time.json) |
+| A Risen Heart | 258677 | [258677-a-risen-heart.json](./258677-a-risen-heart.json) |
 | A Risky Rocky Resort | 425180 | [425180-a-risky-rocky-resort.json](./425180-a-risky-rocky-resort.json) |
 | A Rite from the Stars | 105050 | [105050-a-rite-from-the-stars.json](./105050-a-rite-from-the-stars.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
@@ -2499,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Apocrypha | 413783 | [413783-abyssal-apocrypha.json](./413783-abyssal-apocrypha.json) |
 | Abyssal Blade | 346459 | [346459-abyssal-blade.json](./346459-abyssal-blade.json) |
 | Abyssal Blood | 287349 | [287349-abyssal-blood.json](./287349-abyssal-blood.json) |
+| Abyssal Descent | 258753 | [258753-abyssal-descent.json](./258753-abyssal-descent.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Fall | 54885 | [54885-abyssal-fall.json](./54885-abyssal-fall.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
@@ -9778,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park | 377097 | [377097-amusement-park.json](./377097-amusement-park.json) |
 | Amusement Park | 52390 | [52390-amusement-park.json](./52390-amusement-park.json) |
+| Amusement Park Simulator | 258670 | [258670-amusement-park-simulator.json](./258670-amusement-park-simulator.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amusement Planet Phantasmagoria | 133627 | [133627-amusement-planet-phantasmagoria.json](./133627-amusement-planet-phantasmagoria.json) |
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
@@ -17693,6 +17696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrotour VR | 148822 | [148822-astrotour-vr.json](./148822-astrotour-vr.json) |
 | AstroTrucks | 207183 | [207183-astrotrucks.json](./207183-astrotrucks.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
+| Astroventure: Unchartred Planet | 258671 | [258671-astroventure-unchartred-planet.json](./258671-astroventure-unchartred-planet.json) |
 | AstroViking | 106653 | [106653-astroviking.json](./106653-astroviking.json) |
 | Astrovity | 163908 | [163908-astrovity.json](./163908-astrovity.json) |
 | AstroVoids | 419327 | [419327-astrovoids.json](./419327-astrovoids.json) |
@@ -19281,6 +19285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avali: Final Battle | 316351 | [316351-avali-final-battle.json](./316351-avali-final-battle.json) |
 | Avalis Dungeon: Chapter 3 | 303016 | [303016-avalis-dungeon-chapter-3.json](./303016-avalis-dungeon-chapter-3.json) |
 | Avalo Legends | 126148 | [126148-avalo-legends.json](./126148-avalo-legends.json) |
+| Avalog | 258661 | [258661-avalog.json](./258661-avalog.json) |
 | Avalom: Ancestral Heroes | 144671 | [144671-avalom-ancestral-heroes.json](./144671-avalom-ancestral-heroes.json) |
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
@@ -19685,6 +19690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away From Earth: Moon | 113561 | [113561-away-from-earth-moon.json](./113561-away-from-earth-moon.json) |
 | Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
 | Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
+| Away From Home | 258676 | [258676-away-from-home.json](./258676-away-from-home.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
 | Away from the light | 287732 | [287732-away-from-the-light.json](./287732-away-from-the-light.json) |
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
