@@ -3320,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolhouse Rock!: Grammar Rock | 230450 | [230450-schoolhouse-rock-grammar-rock.json](./230450-schoolhouse-rock-grammar-rock.json) |
 | Schoolhouse Rock!: Math Rock | 142707 | [142707-schoolhouse-rock-math-rock.json](./142707-schoolhouse-rock-math-rock.json) |
 | SchoolJump | 100539 | [100539-schooljump.json](./100539-schooljump.json) |
+| SchoolLife | 268240 | [268240-schoollife.json](./268240-schoollife.json) |
 | Schoolmare | 249381 | [249381-schoolmare.json](./249381-schoolmare.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
 | SchoolMate 2 | 22470 | [22470-schoolmate-2.json](./22470-schoolmate-2.json) |
@@ -10351,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek 2: Ogre Bowler | 208995 | [208995-shrek-2-ogre-bowler.json](./208995-shrek-2-ogre-bowler.json) |
 | Shrek 2: The Adventure of Puss in Boots | 365950 | [365950-shrek-2-the-adventure-of-puss-in-boots.json](./365950-shrek-2-the-adventure-of-puss-in-boots.json) |
+| Shrek 64 | 268697 | [268697-shrek-64.json](./268697-shrek-64.json) |
 | Shrek Extra Large | 3675 | [3675-shrek-extra-large.json](./3675-shrek-extra-large.json) |
 | Shrek Forever After | 210458 | [210458-shrek-forever-after.json](./210458-shrek-forever-after.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
@@ -11581,6 +11583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Star Chess | 85371 | [85371-silver-star-chess.json](./85371-silver-star-chess.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
+| Silver Stars of Wisdom | 268698 | [268698-silver-stars-of-wisdom.json](./268698-silver-stars-of-wisdom.json) |
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | Silver Strike Bowling | 72780 | [72780-silver-strike-bowling.json](./72780-silver-strike-bowling.json) |
 | Silver Surfer | 198884 | [198884-silver-surfer.json](./198884-silver-surfer.json) |
@@ -17018,6 +17021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
 | So Much Stuff 3: Odds & Ends | 257896 | [257896-so-much-stuff-3-odds-and-ends.json](./257896-so-much-stuff-3-odds-and-ends.json) |
 | So Much Stuff 3: Odds & Ends - Collector's Edition | 306053 | [306053-so-much-stuff-3-odds-and-ends-collectors-edition.json](./306053-so-much-stuff-3-odds-and-ends-collectors-edition.json) |
+| So Much Stuff 4: Bits & Bobs | 268239 | [268239-so-much-stuff-4-bits-and-bobs.json](./268239-so-much-stuff-4-bits-and-bobs.json) |
 | So Much Stuff 4: Bits and Bobs - Collector's Edition | 332486 | [332486-so-much-stuff-4-bits-and-bobs-collectors-edition.json](./332486-so-much-stuff-4-bits-and-bobs-collectors-edition.json) |
 | So Much Stuff 5: Mix-Knacks | 336631 | [336631-so-much-stuff-5-mix-knacks.json](./336631-so-much-stuff-5-mix-knacks.json) |
 | So Much Stuff 5: Mix-Knacks - Collector's Edition | 335511 | [335511-so-much-stuff-5-mix-knacks-collectors-edition.json](./335511-so-much-stuff-5-mix-knacks-collectors-edition.json) |
@@ -19608,6 +19612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonny | 9592 | [9592-sonny.json](./9592-sonny.json) |
 | Sonny 2 | 56971 | [56971-sonny-2.json](./56971-sonny-2.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
+| Sonny The Mad Man: Casual Arcade Shooter | 268238 | [268238-sonny-the-mad-man-casual-arcade-shooter.json](./268238-sonny-the-mad-man-casual-arcade-shooter.json) |
 | Sonny with a Chance | 66903 | [66903-sonny-with-a-chance.json](./66903-sonny-with-a-chance.json) |
 | Sonny X'press! | 195057 | [195057-sonny-xpress.json](./195057-sonny-xpress.json) |
 | Sonny's Race for the Chocolatey Taste | 66802 | [66802-sonnys-race-for-the-chocolatey-taste.json](./66802-sonnys-race-for-the-chocolatey-taste.json) |
@@ -21768,6 +21773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Escape | 293963 | [293963-space-station-escape.json](./293963-space-station-escape.json) |
 | Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
+| Space Station Multiverse | 268237 | [268237-space-station-multiverse.json](./268237-space-station-multiverse.json) |
 | Space Station Oblivion | 12059 | [12059-space-station-oblivion.json](./12059-space-station-oblivion.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
@@ -22278,6 +22284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark in Sonic After the Sequel | 337170 | [337170-spark-in-sonic-after-the-sequel.json](./337170-spark-in-sonic-after-the-sequel.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
 | Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
+| Spark Mk1 | 268236 | [268236-spark-mk1.json](./268236-spark-mk1.json) |
 | Spark of Light | 116049 | [116049-spark-of-light.json](./116049-spark-of-light.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
@@ -22754,6 +22761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Rush Runners | 234415 | [234415-speed-rush-runners.json](./234415-speed-rush-runners.json) |
 | Speed Spin | 41097 | [41097-speed-spin.json](./41097-speed-spin.json) |
 | Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
+| Speed Star Adventure | 268707 | [268707-speed-star-adventure.json](./268707-speed-star-adventure.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
 | Speed Sweeper | 133209 | [133209-speed-sweeper.json](./133209-speed-sweeper.json) |
 | Speed Swing | 137913 | [137913-speed-swing.json](./137913-speed-swing.json) |
@@ -23007,6 +23015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Skirmish | 338440 | [338440-spellbound-skirmish.json](./338440-spellbound-skirmish.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
 | Spellbound Stumble | 340185 | [340185-spellbound-stumble.json](./340185-spellbound-stumble.json) |
+| Spellbound Survivors | 268235 | [268235-spellbound-survivors.json](./268235-spellbound-survivors.json) |
 | Spellbound: A Detective's Tale | 309486 | [309486-spellbound-a-detectives-tale.json](./309486-spellbound-a-detectives-tale.json) |
 | Spellbound: Malachite Coven | 368150 | [368150-spellbound-malachite-coven.json](./368150-spellbound-malachite-coven.json) |
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
@@ -25165,6 +25174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Dungeon | 180019 | [180019-square-dungeon.json](./180019-square-dungeon.json) |
 | Square Dungeon 2 | 260180 | [260180-square-dungeon-2.json](./260180-square-dungeon-2.json) |
+| Square Edges | 268234 | [268234-square-edges.json](./268234-square-edges.json) |
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
 | Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
 | Square Farm | 125349 | [125349-square-farm.json](./125349-square-farm.json) |
@@ -26232,6 +26242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 1: Star Takeover PC | 378289 | [378289-star-revenge-1-star-takeover-pc.json](./378289-star-revenge-1-star-takeover-pc.json) |
 | Star Revenge 1.3: Redone | 300261 | [300261-star-revenge-1-3-redone.json](./300261-star-revenge-1-3-redone.json) |
 | Star Revenge 1.5: Star Takeover Redone | 180247 | [180247-star-revenge-1-5-star-takeover-redone.json](./180247-star-revenge-1-5-star-takeover-redone.json) |
+| Star Revenge 11: Star Adventure | 268708 | [268708-star-revenge-11-star-adventure.json](./268708-star-revenge-11-star-adventure.json) |
 | Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
 | Star Revenge 2: Night of Doom PC | 378290 | [378290-star-revenge-2-night-of-doom-pc.json](./378290-star-revenge-2-night-of-doom-pc.json) |
 | Star Revenge 2.5: Remnant of Doom | 194728 | [194728-star-revenge-2-5-remnant-of-doom.json](./194728-star-revenge-2-5-remnant-of-doom.json) |
@@ -26241,9 +26252,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 3.9: Dreamish Block Beats | 260828 | [260828-star-revenge-3-9-dreamish-block-beats.json](./260828-star-revenge-3-9-dreamish-block-beats.json) |
 | Star Revenge 4: The Kedama Takeover | 300260 | [300260-star-revenge-4-the-kedama-takeover.json](./300260-star-revenge-4-the-kedama-takeover.json) |
 | Star Revenge 4.5: The Kedama Takeover Rewritten | 260829 | [260829-star-revenge-4-5-the-kedama-takeover-rewritten.json](./260829-star-revenge-4-5-the-kedama-takeover-rewritten.json) |
+| Star Revenge 4.9: Adulterated Reality | 268709 | [268709-star-revenge-4-9-adulterated-reality.json](./268709-star-revenge-4-9-adulterated-reality.json) |
 | Star Revenge 5: Neo Blue Realm | 260806 | [260806-star-revenge-5-neo-blue-realm.json](./260806-star-revenge-5-neo-blue-realm.json) |
 | Star Revenge 5.5: Destroyed Memories | 285416 | [285416-star-revenge-5-5-destroyed-memories.json](./285416-star-revenge-5-5-destroyed-memories.json) |
 | Star Revenge 6: Luigi's Adventure | 260804 | [260804-star-revenge-6-luigis-adventure.json](./260804-star-revenge-6-luigis-adventure.json) |
+| Star Revenge 6.25: Luigi's Adventure DX | 268710 | [268710-star-revenge-6-25-luigis-adventure-dx.json](./268710-star-revenge-6-25-luigis-adventure-dx.json) |
 | Star Revenge 6.5: Wrath of the Dim. Flower | 260827 | [260827-star-revenge-6-5-wrath-of-the-dim-flower.json](./260827-star-revenge-6-5-wrath-of-the-dim-flower.json) |
 | Star Revenge 6.5: Wrath of The Dim. Flower PC Port | 378270 | [378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json](./378270-star-revenge-6-5-wrath-of-the-dim-flower-pc-port.json) |
 | Star Revenge 6.9: Luigi Lost in Time | 285679 | [285679-star-revenge-6-9-luigi-lost-in-time.json](./285679-star-revenge-6-9-luigi-lost-in-time.json) |
@@ -27542,6 +27555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of Prey VR | 370990 | [370990-stars-of-prey-vr.json](./370990-stars-of-prey-vr.json) |
 | Stars of Reincarnation | 339025 | [339025-stars-of-reincarnation.json](./339025-stars-of-reincarnation.json) |
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
+| Stars of the Beast 2.5: Beast's Memory | 268712 | [268712-stars-of-the-beast-2-5-beasts-memory.json](./268712-stars-of-the-beast-2-5-beasts-memory.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars of the Valkyrie | 337392 | [337392-stars-of-the-valkyrie.json](./337392-stars-of-the-valkyrie.json) |
 | Stars over Half Moon Bay | 68720 | [68720-stars-over-half-moon-bay.json](./68720-stars-over-half-moon-bay.json) |
@@ -27893,6 +27907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Overseer | 194197 | [194197-station-overseer.json](./194197-station-overseer.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
+| Station Unknown | 268233 | [268233-station-unknown.json](./268233-station-unknown.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Station-8 | 249537 | [249537-station-8.json](./249537-station-8.json) |
 | Station.exe | 255534 | [255534-station-exe.json](./255534-station-exe.json) |
@@ -28159,6 +28174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles: Arctic Realms | 265515 | [265515-steampunk-jigsaw-puzzles-arctic-realms.json](./265515-steampunk-jigsaw-puzzles-arctic-realms.json) |
 | Steampunk Jigsaw Puzzles: Boomtown USA | 268951 | [268951-steampunk-jigsaw-puzzles-boomtown-usa.json](./268951-steampunk-jigsaw-puzzles-boomtown-usa.json) |
 | Steampunk Jigsaw Puzzles: Mediterranean City-States | 270894 | [270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json](./270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json) |
+| Steampunk Jigsaw Puzzles: Pirate Fleets | 268232 | [268232-steampunk-jigsaw-puzzles-pirate-fleets.json](./268232-steampunk-jigsaw-puzzles-pirate-fleets.json) |
 | Steampunk Jigsaw Puzzles: Samurai Clans | 266031 | [266031-steampunk-jigsaw-puzzles-samurai-clans.json](./266031-steampunk-jigsaw-puzzles-samurai-clans.json) |
 | Steampunk Jigsaw Puzzles: The Great Battle | 266595 | [266595-steampunk-jigsaw-puzzles-the-great-battle.json](./266595-steampunk-jigsaw-puzzles-the-great-battle.json) |
 | Steampunk Jigsaw Puzzles: The Wild West | 265516 | [265516-steampunk-jigsaw-puzzles-the-wild-west.json](./265516-steampunk-jigsaw-puzzles-the-wild-west.json) |
@@ -31174,6 +31190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunts Contest Police Car | 393016 | [393016-stunts-contest-police-car.json](./393016-stunts-contest-police-car.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
 | Stunts Contest: Super Bike | 215709 | [215709-stunts-contest-super-bike.json](./215709-stunts-contest-super-bike.json) |
+| Stupid BallZ 2.5: Remnant of Brown | 268713 | [268713-stupid-ballz-2-5-remnant-of-brown.json](./268713-stupid-ballz-2-5-remnant-of-brown.json) |
 | Stupid Bat | 120111 | [120111-stupid-bat.json](./120111-stupid-bat.json) |
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
@@ -31926,6 +31943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Crime | 193677 | [193677-sugar-crime.json](./193677-sugar-crime.json) |
 | Sugar Cult Paradigm | 283028 | [283028-sugar-cult-paradigm.json](./283028-sugar-cult-paradigm.json) |
 | Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
+| Sugar Daddy Support | 268614 | [268614-sugar-daddy-support.json](./268614-sugar-daddy-support.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar Fruits | 276604 | [276604-sugar-fruits.json](./276604-sugar-fruits.json) |
@@ -32333,6 +32351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Memories+ | 412035 | [412035-summer-memories.json](./412035-summer-memories.json) |
 | Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
 | Summer Mission | 169259 | [169259-summer-mission.json](./169259-summer-mission.json) |
+| Summer Mixhack 2021 | 268714 | [268714-summer-mixhack-2021.json](./268714-summer-mixhack-2021.json) |
 | Summer Night | 281864 | [281864-summer-night.json](./281864-summer-night.json) |
 | Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
@@ -34226,6 +34245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Dark Edition | 342830 | [342830-super-mario-64-dark-edition.json](./342830-super-mario-64-dark-edition.json) |
 | Super Mario 64: Gore/Hard-Mode | 326065 | [326065-super-mario-64-gore-hard-mode.json](./326065-super-mario-64-gore-hard-mode.json) |
 | Super Mario 64: Green Demon Challenge | 365714 | [365714-super-mario-64-green-demon-challenge.json](./365714-super-mario-64-green-demon-challenge.json) |
+| Super Mario 64: Halloween Mayhem | 268715 | [268715-super-mario-64-halloween-mayhem.json](./268715-super-mario-64-halloween-mayhem.json) |
 | Super Mario 64: Ocarina of Time | 132837 | [132837-super-mario-64-ocarina-of-time.json](./132837-super-mario-64-ocarina-of-time.json) |
 | Super Mario 64: Odyssey Mario's Moveset | 198368 | [198368-super-mario-64-odyssey-marios-moveset.json](./198368-super-mario-64-odyssey-marios-moveset.json) |
 | Super Mario 64: Openworld Quest | 350958 | [350958-super-mario-64-openworld-quest.json](./350958-super-mario-64-openworld-quest.json) |
