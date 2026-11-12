@@ -1301,6 +1301,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana | 381136 | [381136-hana.json](./381136-hana.json) |
+| Hana Awase Complete | 251164 | [251164-hana-awase-complete.json](./251164-hana-awase-complete.json) |
+| Hana Awase New Moon: Himeutsugi | 251167 | [251167-hana-awase-new-moon-himeutsugi.json](./251167-hana-awase-new-moon-himeutsugi.json) |
+| Hana Awase New Moon: Iroha | 251166 | [251166-hana-awase-new-moon-iroha.json](./251166-hana-awase-new-moon-iroha.json) |
+| Hana Awase New Moon: Karakurenai/Utsutsu | 251168 | [251168-hana-awase-new-moon-karakurenai-utsutsu.json](./251168-hana-awase-new-moon-karakurenai-utsutsu.json) |
+| Hana Awase New Moon: Mizuchi | 251165 | [251165-hana-awase-new-moon-mizuchi.json](./251165-hana-awase-new-moon-mizuchi.json) |
+| Hana Awase: Himeutsugi | 251161 | [251161-hana-awase-himeutsugi.json](./251161-hana-awase-himeutsugi.json) |
+| Hana Awase: Iroha | 251163 | [251163-hana-awase-iroha.json](./251163-hana-awase-iroha.json) |
+| Hana Awase: Karakurenai/Utsutsu | 251162 | [251162-hana-awase-karakurenai-utsutsu.json](./251162-hana-awase-karakurenai-utsutsu.json) |
+| Hana Awase: Mizuchi | 251160 | [251160-hana-awase-mizuchi.json](./251160-hana-awase-mizuchi.json) |
+| Hana Awase: New Moon | 251169 | [251169-hana-awase-new-moon.json](./251169-hana-awase-new-moon.json) |
 | Hana Exposure! A Blooming Flower | 265790 | [265790-hana-exposure-a-blooming-flower.json](./265790-hana-exposure-a-blooming-flower.json) |
 | Hana Feels | 139306 | [139306-hana-feels.json](./139306-hana-feels.json) |
 | Hana ha Mijikashi, Odoreyo Otome | 405368 | [405368-hana-ha-mijikashi-odoreyo-otome.json](./405368-hana-ha-mijikashi-odoreyo-otome.json) |
@@ -8201,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Impact Paintball | 72468 | [72468-high-impact-paintball.json](./72468-high-impact-paintball.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
+| High Like a Fly | 251258 | [251258-high-like-a-fly.json](./251258-high-like-a-fly.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
 | High Mountain Roller Coaster VR | 160147 | [160147-high-mountain-roller-coaster-vr.json](./160147-high-mountain-roller-coaster-vr.json) |
 | High Noon | 67870 | [67870-high-noon.json](./67870-high-noon.json) |
