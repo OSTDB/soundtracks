@@ -18639,6 +18639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
 | Mortal Kombat 1: Takahashi Takeda | 266223 | [266223-mortal-kombat-1-takahashi-takeda.json](./266223-mortal-kombat-1-takahashi-takeda.json) |
 | Mortal Kombat 1: Tournament Liu Kang Skin | 404780 | [404780-mortal-kombat-1-tournament-liu-kang-skin.json](./404780-mortal-kombat-1-tournament-liu-kang-skin.json) |
+| Mortal Kombat 1: Tremor Kameo | 277467 | [277467-mortal-kombat-1-tremor-kameo.json](./277467-mortal-kombat-1-tremor-kameo.json) |
 | Mortal Kombat 1+2+3 | 154416 | [154416-mortal-kombat-1-2-3.json](./154416-mortal-kombat-1-2-3.json) |
 | Mortal Kombat 11 + The Joker DLC | 136213 | [136213-mortal-kombat-11-the-joker-dlc.json](./136213-mortal-kombat-11-the-joker-dlc.json) |
 | Mortal Kombat 11: Aftermath | 133266 | [133266-mortal-kombat-11-aftermath.json](./133266-mortal-kombat-11-aftermath.json) |
@@ -20369,6 +20370,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 213877 | [213877-ms-pac-man.json](./213877-ms-pac-man.json) |
 | Ms. Pac-Man | 219011 | [219011-ms-pac-man.json](./219011-ms-pac-man.json) |
 | Ms. Pac-Man | 219429 | [219429-ms-pac-man.json](./219429-ms-pac-man.json) |
+| Ms. Pac-Man | 277554 | [277554-ms-pac-man.json](./277554-ms-pac-man.json) |
+| Ms. Pac-Man | 277557 | [277557-ms-pac-man.json](./277557-ms-pac-man.json) |
+| Ms. Pac-Man | 277558 | [277558-ms-pac-man.json](./277558-ms-pac-man.json) |
+| Ms. Pac-Man | 277559 | [277559-ms-pac-man.json](./277559-ms-pac-man.json) |
 | Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man Plus | 266918 | [266918-ms-pac-man-plus.json](./266918-ms-pac-man-plus.json) |
 | Ms. Pac-Man Pocket Player | 219350 | [219350-ms-pac-man-pocket-player.json](./219350-ms-pac-man-pocket-player.json) |
@@ -22180,6 +22185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend Loves a Mystery | 209021 | [209021-my-girlfriend-loves-a-mystery.json](./209021-my-girlfriend-loves-a-mystery.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Girlfriends | 306289 | [306289-my-girlfriends.json](./306289-my-girlfriends.json) |
+| My Girls’ Secrets | 277480 | [277480-my-girls-secrets.json](./277480-my-girls-secrets.json) |
 | My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
 | My Goddess Girlfriend | 229875 | [229875-my-goddess-girlfriend.json](./229875-my-goddess-girlfriend.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
@@ -23371,6 +23377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box 4-in-1 Bundle | 328508 | [328508-mystery-box-4-in-1-bundle.json](./328508-mystery-box-4-in-1-bundle.json) |
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
 | Mystery Box Simulator | 422703 | [422703-mystery-box-simulator.json](./422703-mystery-box-simulator.json) |
+| Mystery Box VR: Escape The Room | 277468 | [277468-mystery-box-vr-escape-the-room.json](./277468-mystery-box-vr-escape-the-room.json) |
 | Mystery Box VR: Hidden Secrets | 343773 | [343773-mystery-box-vr-hidden-secrets.json](./343773-mystery-box-vr-hidden-secrets.json) |
 | Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
 | Mystery Box: Evolution | 259954 | [259954-mystery-box-evolution.json](./259954-mystery-box-evolution.json) |
@@ -24031,6 +24038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythterra | 411538 | [411538-mythterra.json](./411538-mythterra.json) |
 | Mythvale | 419967 | [419967-mythvale.json](./419967-mythvale.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
+| MythWars & Puzzles | 277556 | [277556-mythwars-and-puzzles.json](./277556-mythwars-and-puzzles.json) |
 | Mythwrecked: Ambrosia Island | 223097 | [223097-mythwrecked-ambrosia-island.json](./223097-mythwrecked-ambrosia-island.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
 | Mytosis | 383140 | [383140-mytosis.json](./383140-mytosis.json) |
