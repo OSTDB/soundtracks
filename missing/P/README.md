@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
 | Pandemonium Line: Flipping on Borrowed Dime | 409185 | [409185-pandemonium-line-flipping-on-borrowed-dime.json](./409185-pandemonium-line-flipping-on-borrowed-dime.json) |
+| Pandemonium: Infernal Bonds | 299659 | [299659-pandemonium-infernal-bonds.json](./299659-pandemonium-infernal-bonds.json) |
 | Pandemonium: Merge! | 380959 | [380959-pandemonium-merge.json](./380959-pandemonium-merge.json) |
 | Pandemos | 150543 | [150543-pandemos.json](./150543-pandemos.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
@@ -6751,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pier Solar and the Great Architects | 4512 | [4512-pier-solar-and-the-great-architects.json](./4512-pier-solar-and-the-great-architects.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
 | Pierce Through Heavens | 415037 | [415037-pierce-through-heavens.json](./415037-pierce-through-heavens.json) |
+| Pierced by Love | 299653 | [299653-pierced-by-love.json](./299653-pierced-by-love.json) |
 | Piercing Blo | 58712 | [58712-piercing-blo.json](./58712-piercing-blo.json) |
 | Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
@@ -15631,6 +15633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of Tavern | 140320 | [140320-princess-of-tavern.json](./140320-princess-of-tavern.json) |
 | Princess of Tavern: Collector's Edition | 74543 | [74543-princess-of-tavern-collectors-edition.json](./74543-princess-of-tavern-collectors-edition.json) |
+| Princess of the Dead | 299650 | [299650-princess-of-the-dead.json](./299650-princess-of-the-dead.json) |
 | Princess of the Moon Ultimate | 200547 | [200547-princess-of-the-moon-ultimate.json](./200547-princess-of-the-moon-ultimate.json) |
 | Princess of the Moon: Allure of the Midnight Kiss | 274402 | [274402-princess-of-the-moon-allure-of-the-midnight-kiss.json](./274402-princess-of-the-moon-allure-of-the-midnight-kiss.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
