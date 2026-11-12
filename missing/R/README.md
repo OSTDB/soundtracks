@@ -9941,6 +9941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 184982 | [184982-rock-bottom.json](./184982-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Bottom | 385364 | [385364-rock-bottom.json](./385364-rock-bottom.json) |
+| Rock Canvas | 285170 | [285170-rock-canvas.json](./285170-rock-canvas.json) |
 | Rock Challenge | 358735 | [358735-rock-challenge.json](./358735-rock-challenge.json) |
 | Rock Challenge | 71338 | [71338-rock-challenge.json](./71338-rock-challenge.json) |
 | Rock City Empire | 333987 | [333987-rock-city-empire.json](./333987-rock-city-empire.json) |
