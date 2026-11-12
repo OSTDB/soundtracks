@@ -5970,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Some Balls: Only Up and Getting Over It | 276668 | [276668-go-some-balls-only-up-and-getting-over-it.json](./276668-go-some-balls-only-up-and-getting-over-it.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
+| Go to Bed | 287299 | [287299-go-to-bed.json](./287299-go-to-bed.json) |
 | Go to Bed: Survive the Night | 34144 | [34144-go-to-bed-survive-the-night.json](./34144-go-to-bed-survive-the-night.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
