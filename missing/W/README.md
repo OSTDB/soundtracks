@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Around this Place | 229096 | [229096-walk-around-this-place.json](./229096-walk-around-this-place.json) |
 | Walk Hero | 199747 | [199747-walk-hero.json](./199747-walk-hero.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
+| Walk in the Park | 315308 | [315308-walk-in-the-park.json](./315308-walk-in-the-park.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
 | Walk It Out! | 50660 | [50660-walk-it-out.json](./50660-walk-it-out.json) |
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
 | Warno: Gold Edition | 402945 | [402945-warno-gold-edition.json](./402945-warno-gold-edition.json) |
 | Warno: Landjut | 398828 | [398828-warno-landjut.json](./398828-warno-landjut.json) |
+| Warno: Nemesis #2 | 311393 | [311393-warno-nemesis-2.json](./311393-warno-nemesis-2.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | Warno: Nemesis #4 - Capital Defence | 376081 | [376081-warno-nemesis-4-capital-defence.json](./376081-warno-nemesis-4-capital-defence.json) |
 | Warno: Nemesis #5 | 404460 | [404460-warno-nemesis-5.json](./404460-warno-nemesis-5.json) |
@@ -2074,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
 | Warrior | 287575 | [287575-warrior.json](./287575-warrior.json) |
 | Warrior | 78184 | [78184-warrior.json](./78184-warrior.json) |
+| Warrior Architects | 311844 | [311844-warrior-architects.json](./311844-warrior-architects.json) |
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
 | Warrior Blade: Rastan Saga Episode III | 69102 | [69102-warrior-blade-rastan-saga-episode-iii.json](./69102-warrior-blade-rastan-saga-episode-iii.json) |
 | Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
@@ -3529,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Chirpvenience | 368745 | [368745-welcome-to-chirpvenience.json](./368745-welcome-to-chirpvenience.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome to Desal | 413022 | [413022-welcome-to-desal.json](./413022-welcome-to-desal.json) |
+| Welcome to Doll Town | 315743 | [315743-welcome-to-doll-town.json](./315743-welcome-to-doll-town.json) |
 | Welcome to Dreamville | 159471 | [159471-welcome-to-dreamville.json](./159471-welcome-to-dreamville.json) |
 | Welcome to Dustown | 309796 | [309796-welcome-to-dustown.json](./309796-welcome-to-dustown.json) |
 | Welcome To Eden | 278918 | [278918-welcome-to-eden.json](./278918-welcome-to-eden.json) |
@@ -3701,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wer Weiß Denn Sowas? | 110499 | [110499-wer-wei-denn-sowas.json](./110499-wer-wei-denn-sowas.json) |
 | Wer Weiß Denn Sowas?: Das 2. Spiel | 123779 | [123779-wer-wei-denn-sowas-das-2-spiel.json](./123779-wer-wei-denn-sowas-das-2-spiel.json) |
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
+| Wer Wird Millionär? | 315964 | [315964-wer-wird-millionar.json](./315964-wer-wird-millionar.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
 | WereBox 2 | 424257 | [424257-werebox-2.json](./424257-werebox-2.json) |
@@ -3731,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves | 91266 | [91266-werewolves.json](./91266-werewolves.json) |
 | Werewolves 2: Pack Mentality | 130116 | [130116-werewolves-2-pack-mentality.json](./130116-werewolves-2-pack-mentality.json) |
 | Werewolves 3: Evolution's End | 282224 | [282224-werewolves-3-evolutions-end.json](./282224-werewolves-3-evolutions-end.json) |
+| Werewolves Escape | 315745 | [315745-werewolves-escape.json](./315745-werewolves-escape.json) |
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
 | Werewolves Revenge | 316509 | [316509-werewolves-revenge.json](./316509-werewolves-revenge.json) |
 | Werewolves Within | 18399 | [18399-werewolves-within.json](./18399-werewolves-within.json) |
@@ -5180,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants To Be A Millionaire? 2010: Part 2 | 316579 | [316579-who-wants-to-be-a-millionaire-2010-part-2.json](./316579-who-wants-to-be-a-millionaire-2010-part-2.json) |
 | Who Wants To Be A Millionaire? 2011 | 316580 | [316580-who-wants-to-be-a-millionaire-2011.json](./316580-who-wants-to-be-a-millionaire-2011.json) |
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
+| Who Wants to Be a Millionaire? 3rd Edition - Family Picture Edition | 315962 | [315962-who-wants-to-be-a-millionaire-3rd-edition-family-picture-edition.json](./315962-who-wants-to-be-a-millionaire-3rd-edition-family-picture-edition.json) |
 | Who Wants to Be a Millionaire? DVD Game: Family Picture Edition | 361394 | [361394-who-wants-to-be-a-millionaire-dvd-game-family-picture-edition.json](./361394-who-wants-to-be-a-millionaire-dvd-game-family-picture-edition.json) |
 | Who Wants To Be A Millionaire? Hot Seat | 308012 | [308012-who-wants-to-be-a-millionaire-hot-seat.json](./308012-who-wants-to-be-a-millionaire-hot-seat.json) |
 | Who Wants To Be A Millionaire?: Complete Edition | 324358 | [324358-who-wants-to-be-a-millionaire-complete-edition.json](./324358-who-wants-to-be-a-millionaire-complete-edition.json) |
@@ -8631,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Jongg | 205875 | [205875-world-jongg.json](./205875-world-jongg.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
 | World Keepers: Last Resort | 30380 | [30380-world-keepers-last-resort.json](./30380-world-keepers-last-resort.json) |
+| World Kicks | 311379 | [311379-world-kicks.json](./311379-world-kicks.json) |
 | World Kitchen Fever Cooking | 88635 | [88635-world-kitchen-fever-cooking.json](./88635-world-kitchen-fever-cooking.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
