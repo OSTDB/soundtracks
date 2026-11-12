@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
 | Gateway | 95504 | [95504-gateway.json](./95504-gateway.json) |
 | Gateway I | 281186 | [281186-gateway-i.json](./281186-gateway-i.json) |
+| Gateway II | 260991 | [260991-gateway-ii.json](./260991-gateway-ii.json) |
 | Gateway II | 281196 | [281196-gateway-ii.json](./281196-gateway-ii.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
 | Gateway III | 281199 | [281199-gateway-iii.json](./281199-gateway-iii.json) |
@@ -8916,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
+| Grave | 260919 | [260919-grave.json](./260919-grave.json) |
 | Grave | 62500 | [62500-grave.json](./62500-grave.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Chase | 38752 | [38752-grave-chase.json](./38752-grave-chase.json) |
@@ -9478,6 +9480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
+| Greatest Dynasties Mahjong | 261002 | [261002-greatest-dynasties-mahjong.json](./261002-greatest-dynasties-mahjong.json) |
 | Greatest Estate Developer | 394994 | [394994-greatest-estate-developer.json](./394994-greatest-estate-developer.json) |
 | Greatest Heavyweights | 45783 | [45783-greatest-heavyweights.json](./45783-greatest-heavyweights.json) |
 | Greatest Moments of Our Time | 176078 | [176078-greatest-moments-of-our-time.json](./176078-greatest-moments-of-our-time.json) |
