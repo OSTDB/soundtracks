@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
 | Eiga Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko - Game de Asobou! Ehon no Sekai | 136961 | [136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json](./136961-eiga-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko-game-de-asobou-ehon-no-sekai.json) |
+| Eiga Sumikko Gurashi: Tsugihagi Koujou no Fushigi na Ko | 272417 | [272417-eiga-sumikko-gurashi-tsugihagi-koujou-no-fushigi-na-ko.json](./272417-eiga-sumikko-gurashi-tsugihagi-koujou-no-fushigi-na-ko.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
 | EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
 | Eigengrau | 215876 | [215876-eigengrau.json](./215876-eigengrau.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental War Clash | 343448 | [343448-elemental-war-clash.json](./343448-elemental-war-clash.json) |
 | Elemental War: Dawn of the Crystals | 236275 | [236275-elemental-war-dawn-of-the-crystals.json](./236275-elemental-war-dawn-of-the-crystals.json) |
 | Elemental Warriors | 211506 | [211506-elemental-warriors.json](./211506-elemental-warriors.json) |
+| Elemental Wizards TCG | 272435 | [272435-elemental-wizards-tcg.json](./272435-elemental-wizards-tcg.json) |
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
@@ -3909,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
+| End The World | 272433 | [272433-end-the-world.json](./272433-end-the-world.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End Transmission? | 339751 | [339751-end-transmission.json](./339751-end-transmission.json) |
 | End Up | 172324 | [172324-end-up.json](./172324-end-up.json) |
