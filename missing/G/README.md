@@ -3095,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generations of Destruction | 189879 | [189879-generations-of-destruction.json](./189879-generations-of-destruction.json) |
 | Generative Dungeon | 228755 | [228755-generative-dungeon.json](./228755-generative-dungeon.json) |
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
+| Generator Rex: Pack Fighter | 289487 | [289487-generator-rex-pack-fighter.json](./289487-generator-rex-pack-fighter.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
 | Generic Fishing Game | 316950 | [316950-generic-fishing-game.json](./316950-generic-fishing-game.json) |
@@ -6890,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Gold Ryoushi | 348548 | [348548-gold-ryoushi.json](./348548-gold-ryoushi.json) |
+| Gold Scrapping Simulator | 289528 | [289528-gold-scrapping-simulator.json](./289528-gold-scrapping-simulator.json) |
 | Gold Seeker | 285490 | [285490-gold-seeker.json](./285490-gold-seeker.json) |
 | Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
@@ -8346,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
 | Granblue Fantasy: Relink - Endless Ragnarok | 388441 | [388441-granblue-fantasy-relink-endless-ragnarok.json](./388441-granblue-fantasy-relink-endless-ragnarok.json) |
+| Granblue Fantasy: Relink - Sword of the False Apocalypse | 289496 | [289496-granblue-fantasy-relink-sword-of-the-false-apocalypse.json](./289496-granblue-fantasy-relink-sword-of-the-false-apocalypse.json) |
 | Granblue Fantasy: Versus - Anre | 156324 | [156324-granblue-fantasy-versus-anre.json](./156324-granblue-fantasy-versus-anre.json) |
 | Granblue Fantasy: Versus - Beelzebub | 156322 | [156322-granblue-fantasy-versus-beelzebub.json](./156322-granblue-fantasy-versus-beelzebub.json) |
 | Granblue Fantasy: Versus - Belial | 156321 | [156321-granblue-fantasy-versus-belial.json](./156321-granblue-fantasy-versus-belial.json) |
@@ -12241,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guy Who Sells Jars | 353778 | [353778-guy-who-sells-jars.json](./353778-guy-who-sells-jars.json) |
 | Guy: By Hook or by Crook | 170266 | [170266-guy-by-hook-or-by-crook.json](./170266-guy-by-hook-or-by-crook.json) |
 | Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
+| GuyzGamez A Nightmare on GuyGamez Street: The Cursed Forest of Doom | 289517 | [289517-guyzgamez-a-nightmare-on-guygamez-street-the-cursed-forest-of-doom.json](./289517-guyzgamez-a-nightmare-on-guygamez-street-the-cursed-forest-of-doom.json) |
 | Gūzhùyīzhì de Míngtiān | 221048 | [221048-guzhuyizhi-de-mingtian.json](./221048-guzhuyizhi-de-mingtian.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Guzzler | 387406 | [387406-guzzler.json](./387406-guzzler.json) |
@@ -12321,6 +12325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Tycoon | 139532 | [139532-gym-tycoon.json](./139532-gym-tycoon.json) |
 | GymBeasts | 194836 | [194836-gymbeasts.json](./194836-gymbeasts.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
+| GymFistprint | 289522 | [289522-gymfistprint.json](./289522-gymfistprint.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gymnastics Queen | 96606 | [96606-gymnastics-queen.json](./96606-gymnastics-queen.json) |
 | Gymnastics Queen - Go for the Olympic Champion! | 97218 | [97218-gymnastics-queen-go-for-the-olympic-champion.json](./97218-gymnastics-queen-go-for-the-olympic-champion.json) |
