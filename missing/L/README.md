@@ -5310,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
 | Lightracer Spark | 224981 | [224981-lightracer-spark.json](./224981-lightracer-spark.json) |
+| Lightracer Spark: Grey and Green | 259806 | [259806-lightracer-spark-grey-and-green.json](./259806-lightracer-spark-grey-and-green.json) |
 | Lightracer Spark: Stars Will | 276640 | [276640-lightracer-spark-stars-will.json](./276640-lightracer-spark-stars-will.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightracer: Ignition | 234477 | [234477-lightracer-ignition.json](./234477-lightracer-ignition.json) |
