@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xpressorcist | 197139 | [197139-xpressorcist.json](./197139-xpressorcist.json) |
 | XQuest | 79503 | [79503-xquest.json](./79503-xquest.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
+| XR22-Seaguard | 260439 | [260439-xr22-seaguard.json](./260439-xr22-seaguard.json) |
 | XRacer 2: Evolution | 132472 | [132472-xracer-2-evolution.json](./132472-xracer-2-evolution.json) |
 | XRacing | 360123 | [360123-xracing.json](./360123-xracing.json) |
 | xRC Simulator | 137422 | [137422-xrc-simulator.json](./137422-xrc-simulator.json) |
