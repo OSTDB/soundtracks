@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
 | Kaleidoscope: Hakkan Wakusei | 79792 | [79792-kaleidoscope-hakkan-wakusei.json](./79792-kaleidoscope-hakkan-wakusei.json) |
 | Kalevala | 184437 | [184437-kalevala.json](./184437-kalevala.json) |
+| Kalevala: Where Heroes Go to Die | 293293 | [293293-kalevala-where-heroes-go-to-die.json](./293293-kalevala-where-heroes-go-to-die.json) |
 | Kalevania | 247825 | [247825-kalevania.json](./247825-kalevania.json) |
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kedama's Adventure | 202516 | [202516-kedamas-adventure.json](./202516-kedamas-adventure.json) |
 | Kedemara: The Orphan's Ballad | 127545 | [127545-kedemara-the-orphans-ballad.json](./127545-kedemara-the-orphans-ballad.json) |
 | Keebee | 348162 | [348162-keebee.json](./348162-keebee.json) |
+| Keebo's Adventure | 293277 | [293277-keebos-adventure.json](./293277-keebos-adventure.json) |
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
@@ -1955,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentoushi: Furi-furi Boxing | 344673 | [344673-kentoushi-furi-furi-boxing.json](./344673-kentoushi-furi-furi-boxing.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
+| Kentucky Racing | 293284 | [293284-kentucky-racing.json](./293284-kentucky-racing.json) |
 | Kentucky Robo Chicken | 108082 | [108082-kentucky-robo-chicken.json](./108082-kentucky-robo-chicken.json) |
 | Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
 | Kentucky Route Zero: Act I | 131727 | [131727-kentucky-route-zero-act-i.json](./131727-kentucky-route-zero-act-i.json) |
