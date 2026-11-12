@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Within | 199395 | [199395-venture-within.json](./199395-venture-within.json) |
 | Venture's Gauntlet VR | 261189 | [261189-ventures-gauntlet-vr.json](./261189-ventures-gauntlet-vr.json) |
 | Venture’s Gauntlet VR: Multiplayer Update | 306960 | [306960-venture-s-gauntlet-vr-multiplayer-update.json](./306960-venture-s-gauntlet-vr-multiplayer-update.json) |
+| Venturer Plug 'n' Play | 277620 | [277620-venturer-plug-n-play.json](./277620-venturer-plug-n-play.json) |
 | VentureVerse: Legend of Ulora | 108623 | [108623-ventureverse-legend-of-ulora.json](./108623-ventureverse-legend-of-ulora.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
 | Venue | 349615 | [349615-venue.json](./349615-venue.json) |
