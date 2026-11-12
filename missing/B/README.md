@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6665,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Dead Simulator | 280925 | [280925-being-dead-simulator.json](./280925-being-dead-simulator.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being Her Darkest Friend | 60216 | [60216-being-her-darkest-friend.json](./60216-being-her-darkest-friend.json) |
+| Being Home Alone With You is Worse Than Death | 272437 | [272437-being-home-alone-with-you-is-worse-than-death.json](./272437-being-home-alone-with-you-is-worse-than-death.json) |
 | Being John | 283989 | [283989-being-john.json](./283989-being-john.json) |
 | Being John Gogh | 330498 | [330498-being-john-gogh.json](./330498-being-john-gogh.json) |
 | Being Left the F*** Alone Simulator | 195962 | [195962-being-left-the-f-alone-simulator.json](./195962-being-left-the-f-alone-simulator.json) |
@@ -8294,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigBang Beat: 1st Impression | 133328 | [133328-bigbang-beat-1st-impression.json](./133328-bigbang-beat-1st-impression.json) |
 | BigBang Beat: Revolve | 133329 | [133329-bigbang-beat-revolve.json](./133329-bigbang-beat-revolve.json) |
 | BigBoy: Visual Crime Novel | 106330 | [106330-bigboy-visual-crime-novel.json](./106330-bigboy-visual-crime-novel.json) |
+| BigChadGuys | 272512 | [272512-bigchadguys.json](./272512-bigchadguys.json) |
 | BigChick | 158002 | [158002-bigchick.json](./158002-bigchick.json) |
 | BigDay | 80972 | [80972-bigday.json](./80972-bigday.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
@@ -16403,6 +16406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Discovery Edition | 320695 | [320695-breakfast-bar-tycoon-discovery-edition.json](./320695-breakfast-bar-tycoon-discovery-edition.json) |
 | Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Expansion Pack 2 | 199829 | [199829-breakfast-bar-tycoon-expansion-pack-2.json](./199829-breakfast-bar-tycoon-expansion-pack-2.json) |
+| Breakfast Bar Tycoon: GOTY Edition | 272418 | [272418-breakfast-bar-tycoon-goty-edition.json](./272418-breakfast-bar-tycoon-goty-edition.json) |
 | Breakfast Bar Tycoon: Multiplayer Edition | 244052 | [244052-breakfast-bar-tycoon-multiplayer-edition.json](./244052-breakfast-bar-tycoon-multiplayer-edition.json) |
 | Breakfast Bar Tycoon: Multiplayer Mode | 244051 | [244051-breakfast-bar-tycoon-multiplayer-mode.json](./244051-breakfast-bar-tycoon-multiplayer-mode.json) |
 | Breakfast Bar Tycoon: Premium Edition | 231220 | [231220-breakfast-bar-tycoon-premium-edition.json](./231220-breakfast-bar-tycoon-premium-edition.json) |
