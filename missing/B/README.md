@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Together Escape | 344299 | [344299-backrooms-together-escape.json](./344299-backrooms-together-escape.json) |
 | Backrooms: We Escape Forever | 342542 | [342542-backrooms-we-escape-forever.json](./342542-backrooms-we-escape-forever.json) |
 | Backrooms: What's Next | 404792 | [404792-backrooms-whats-next.json](./404792-backrooms-whats-next.json) |
+| Backrooms: Wit's End | 249997 | [249997-backrooms-wits-end.json](./249997-backrooms-wits-end.json) |
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | BackRooms's 1995: The Lost Footage - Chapter1 | 303097 | [303097-backroomss-1995-the-lost-footage-chapter1.json](./303097-backroomss-1995-the-lost-footage-chapter1.json) |
 | Backseat | 311545 | [311545-backseat.json](./311545-backseat.json) |
@@ -3003,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Sherlock Hooves | 389032 | [389032-barnyard-sherlock-hooves.json](./389032-barnyard-sherlock-hooves.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
+| Barold: Inferno | 249995 | [249995-barold-inferno.json](./249995-barold-inferno.json) |
 | Baroll | 299491 | [299491-baroll.json](./299491-baroll.json) |
 | Baroll | 351743 | [351743-baroll.json](./351743-baroll.json) |
 | BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
@@ -5909,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Your Meat | 114107 | [114107-beat-your-meat.json](./114107-beat-your-meat.json) |
 | Beat Your Vegetables | 239222 | [239222-beat-your-vegetables.json](./239222-beat-your-vegetables.json) |
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
+| Beat: The Game | 250065 | [250065-beat-the-game.json](./250065-beat-the-game.json) |
 | Beat! After the Summer | 202433 | [202433-beat-after-the-summer.json](./202433-beat-after-the-summer.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat.R. | 72484 | [72484-beat-r.json](./72484-beat-r.json) |
@@ -11041,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blinding Silence | 92270 | [92270-blinding-silence.json](./92270-blinding-silence.json) |
+| BlindJump | 249526 | [249526-blindjump.json](./249526-blindjump.json) |
 | BlindMaze | 96906 | [96906-blindmaze.json](./96906-blindmaze.json) |
 | BlindOak Prow | 112497 | [112497-blindoak-prow.json](./112497-blindoak-prow.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
@@ -15965,6 +15969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Fashion Boutique | 47638 | [47638-bratz-fashion-boutique.json](./47638-bratz-fashion-boutique.json) |
 | Bratz: Flaunt Your Fashion | 214142 | [214142-bratz-flaunt-your-fashion.json](./214142-bratz-flaunt-your-fashion.json) |
 | Bratz: Flaunt Your Fashion - Complete Edition | 270331 | [270331-bratz-flaunt-your-fashion-complete-edition.json](./270331-bratz-flaunt-your-fashion-complete-edition.json) |
+| Bratz: Flaunt Your Fashion - Girls Nite Out Fashion Pack | 249515 | [249515-bratz-flaunt-your-fashion-girls-nite-out-fashion-pack.json](./249515-bratz-flaunt-your-fashion-girls-nite-out-fashion-pack.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Forever Diamondz | 248532 | [248532-bratz-forever-diamondz.json](./248532-bratz-forever-diamondz.json) |
 | Bratz: Forever Diamondz | 248533 | [248533-bratz-forever-diamondz.json](./248533-bratz-forever-diamondz.json) |
