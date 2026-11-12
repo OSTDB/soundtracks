@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalimba | 14711 | [14711-kalimba.json](./14711-kalimba.json) |
 | Kalimba: The Dark Void - Coop | 174518 | [174518-kalimba-the-dark-void-coop.json](./174518-kalimba-the-dark-void-coop.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
+| Kalimour | 263804 | [263804-kalimour.json](./263804-kalimour.json) |
 | Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
 | Kalinur | 212068 | [212068-kalinur.json](./212068-kalinur.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapka The Game | 416014 | [416014-kapka-the-game.json](./416014-kapka-the-game.json) |
 | Kaporanga | 396454 | [396454-kaporanga.json](./396454-kaporanga.json) |
 | Kapow Pets | 211367 | [211367-kapow-pets.json](./211367-kapow-pets.json) |
+| Kappa Kanji Adventure | 263803 | [263803-kappa-kanji-adventure.json](./263803-kappa-kanji-adventure.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa no Kai-kata: How to Breed Kappas | 335977 | [335977-kappa-no-kai-kata-how-to-breed-kappas.json](./335977-kappa-no-kai-kata-how-to-breed-kappas.json) |
 | Kappa no Kai-kata: Katan Daibouken | 49417 | [49417-kappa-no-kai-kata-katan-daibouken.json](./49417-kappa-no-kai-kata-katan-daibouken.json) |
@@ -5129,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock on the Coffin Lid: Nightmares of Millenis | 381880 | [381880-knock-on-the-coffin-lid-nightmares-of-millenis.json](./381880-knock-on-the-coffin-lid-nightmares-of-millenis.json) |
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
 | Knock on the Window | 333306 | [333306-knock-on-the-window.json](./333306-knock-on-the-window.json) |
+| Knock Out Walls | 263802 | [263802-knock-out-walls.json](./263802-knock-out-walls.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock the Bloody Door Down | 244568 | [244568-knock-the-bloody-door-down.json](./244568-knock-the-bloody-door-down.json) |
 | Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
@@ -5598,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komu | 409598 | [409598-komu.json](./409598-komu.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | KON: Knights of Night | 57545 | [57545-kon-knights-of-night.json](./57545-kon-knights-of-night.json) |
+| Kon's Lesson! | 263801 | [263801-kons-lesson.json](./263801-kons-lesson.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
 | Kona & Snowrabbit | 286230 | [286230-kona-and-snowrabbit.json](./286230-kona-and-snowrabbit.json) |
 | Kona II: Brume | 211242 | [211242-kona-ii-brume.json](./211242-kona-ii-brume.json) |
