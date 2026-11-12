@@ -5359,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris.com | 203114 | [203114-tetris-com.json](./203114-tetris-com.json) |
 | Tetris'd | 230751 | [230751-tetrisd.json](./230751-tetrisd.json) |
 | Tetris26 | 40669 | [40669-tetris26.json](./40669-tetris26.json) |
+| TetrisMD | 278036 | [278036-tetrismd.json](./278036-tetrismd.json) |
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
 | TetriStory 110% | 202454 | [202454-tetristory-110.json](./202454-tetristory-110.json) |
 | Tetrisweeper | 295637 | [295637-tetrisweeper.json](./295637-tetrisweeper.json) |
@@ -8599,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark World | 221234 | [221234-the-dark-world.json](./221234-the-dark-world.json) |
 | The Dark World: Edge of Eternity | 152053 | [152053-the-dark-world-edge-of-eternity.json](./152053-the-dark-world-edge-of-eternity.json) |
 | The Darkblade | 367894 | [367894-the-darkblade.json](./367894-the-darkblade.json) |
+| The DarkCity | 278126 | [278126-the-darkcity.json](./278126-the-darkcity.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
 | The Darkened Halls | 275701 | [275701-the-darkened-halls.json](./275701-the-darkened-halls.json) |
 | The Darkened Northern Lights | 420361 | [420361-the-darkened-northern-lights.json](./420361-the-darkened-northern-lights.json) |
@@ -21302,6 +21304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thievery: Online | 293675 | [293675-thievery-online.json](./293675-thievery-online.json) |
+| Thieves | 278110 | [278110-thieves.json](./278110-thieves.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
 | Thieves and Gold | 404359 | [404359-thieves-and-gold.json](./404359-thieves-and-gold.json) |
 | Thieves and Kings | 83463 | [83463-thieves-and-kings.json](./83463-thieves-and-kings.json) |
@@ -22419,6 +22422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Tickle Dice | 184436 | [184436-tickle-dice.json](./184436-tickle-dice.json) |
 | Tickle Girl | 275438 | [275438-tickle-girl.json](./275438-tickle-girl.json) |
+| Tickle Magnet | 278111 | [278111-tickle-magnet.json](./278111-tickle-magnet.json) |
 | Tickling Girls | 241848 | [241848-tickling-girls.json](./241848-tickling-girls.json) |
 | Ticklish Tessa | 202556 | [202556-ticklish-tessa.json](./202556-ticklish-tessa.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
@@ -33272,6 +33276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Japan Puzzle | 358010 | [358010-trip-japan-puzzle.json](./358010-trip-japan-puzzle.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
+| Trip Not | 278112 | [278112-trip-not.json](./278112-trip-not.json) |
 | Trip Sort | 425871 | [425871-trip-sort.json](./425871-trip-sort.json) |
 | Trip the Ark Fantastic | 126284 | [126284-trip-the-ark-fantastic.json](./126284-trip-the-ark-fantastic.json) |
 | Trip The Light | 379958 | [379958-trip-the-light.json](./379958-trip-the-light.json) |
@@ -33899,6 +33904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Mondai | 244351 | [244351-truck-mondai.json](./244351-truck-mondai.json) |
 | Truck Night in America: AR | 396687 | [396687-truck-night-in-america-ar.json](./396687-truck-night-in-america-ar.json) |
+| Truck Offroad Sim | 278113 | [278113-truck-offroad-sim.json](./278113-truck-offroad-sim.json) |
 | Truck Parking Simulator | 129628 | [129628-truck-parking-simulator.json](./129628-truck-parking-simulator.json) |
 | Truck Parking Simulator 2026 | 410833 | [410833-truck-parking-simulator-2026.json](./410833-truck-parking-simulator-2026.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
