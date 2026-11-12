@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectaria.io | 252183 | [252183-vectaria-io.json](./252183-vectaria-io.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vecter Assault | 251978 | [251978-vecter-assault.json](./251978-vecter-assault.json) |
+| Vectic: Boosted | 309233 | [309233-vectic-boosted.json](./309233-vectic-boosted.json) |
 | Vectonic | 29522 | [29522-vectonic.json](./29522-vectonic.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector | 15545 | [15545-vector.json](./15545-vector.json) |
