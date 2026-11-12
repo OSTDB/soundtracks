@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot Z | 80098 | [80098-head-shot-z.json](./80098-head-shot-z.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
+| Head Sports Football | 301168 | [301168-head-sports-football.json](./301168-head-sports-football.json) |
 | Head Strike: 1v1 Soccer Games | 216033 | [216033-head-strike-1v1-soccer-games.json](./216033-head-strike-1v1-soccer-games.json) |
 | Head to Head Basketball | 245467 | [245467-head-to-head-basketball.json](./245467-head-to-head-basketball.json) |
 | Head To Head Boxing | 375725 | [375725-head-to-head-boxing.json](./375725-head-to-head-boxing.json) |
@@ -5818,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Demoness Ayame | 268594 | [268594-hentai-stars-demoness-ayame.json](./268594-hentai-stars-demoness-ayame.json) |
 | Hentai Stars: Director's Cut | 300907 | [300907-hentai-stars-directors-cut.json](./300907-hentai-stars-directors-cut.json) |
 | Hentai Stars: Extended Edition | 277907 | [277907-hentai-stars-extended-edition.json](./277907-hentai-stars-extended-edition.json) |
+| Hentai Stars: GOTY Edition | 301187 | [301187-hentai-stars-goty-edition.json](./301187-hentai-stars-goty-edition.json) |
 | Hentai Stars: Happy Edition | 304783 | [304783-hentai-stars-happy-edition.json](./304783-hentai-stars-happy-edition.json) |
 | Hentai Stars: Idol Tsubaki | 268590 | [268590-hentai-stars-idol-tsubaki.json](./268590-hentai-stars-idol-tsubaki.json) |
 | Hentai Stars: Lonely Kitty Ran | 288299 | [288299-hentai-stars-lonely-kitty-ran.json](./288299-hentai-stars-lonely-kitty-ran.json) |
@@ -5962,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Happy Edition | 279873 | [279873-hentai-world-happy-edition.json](./279873-hentai-world-happy-edition.json) |
 | Hentai World: Kitty Rose | 251686 | [251686-hentai-world-kitty-rose.json](./251686-hentai-world-kitty-rose.json) |
 | Hentai World: Legendary Edition | 268562 | [268562-hentai-world-legendary-edition.json](./268562-hentai-world-legendary-edition.json) |
+| Hentai World: Magnificent Edition | 301189 | [301189-hentai-world-magnificent-edition.json](./301189-hentai-world-magnificent-edition.json) |
 | Hentai World: Platinum Edition | 270292 | [270292-hentai-world-platinum-edition.json](./270292-hentai-world-platinum-edition.json) |
 | Hentai World: Premium Edition | 255228 | [255228-hentai-world-premium-edition.json](./255228-hentai-world-premium-edition.json) |
 | Hentai World: Puppy Nanami | 251685 | [251685-hentai-world-puppy-nanami.json](./251685-hentai-world-puppy-nanami.json) |
