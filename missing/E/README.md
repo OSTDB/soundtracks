@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
 | Easter Sweeper | 89618 | [89618-easter-sweeper.json](./89618-easter-sweeper.json) |
+| Easter! | 292733 | [292733-easter.json](./292733-easter.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
 | Eastern Block Summer | 410735 | [410735-eastern-block-summer.json](./410735-eastern-block-summer.json) |
 | Eastern Cuisine Tycoon | 318947 | [318947-eastern-cuisine-tycoon.json](./318947-eastern-cuisine-tycoon.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories: Sofia Edition | 320691 | [320691-ecchi-memories-sofia-edition.json](./320691-ecchi-memories-sofia-edition.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
 | Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
+| Ecchi Neko Girls Puzzle | 292732 | [292732-ecchi-neko-girls-puzzle.json](./292732-ecchi-neko-girls-puzzle.json) |
 | Ecchi Numbers | 375141 | [375141-ecchi-numbers.json](./375141-ecchi-numbers.json) |
 | Ecchi Oppai | 323106 | [323106-ecchi-oppai.json](./323106-ecchi-oppai.json) |
 | Ecchi Oppai: Fantasy DLC | 324433 | [324433-ecchi-oppai-fantasy-dlc.json](./324433-ecchi-oppai-fantasy-dlc.json) |
