@@ -7879,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bibou Quest | 150917 | [150917-bibou-quest.json](./150917-bibou-quest.json) |
 | Bic's Christmas Tale | 317344 | [317344-bics-christmas-tale.json](./317344-bics-christmas-tale.json) |
+| Bichiro in a Cave | 275195 | [275195-bichiro-in-a-cave.json](./275195-bichiro-in-a-cave.json) |
 | Bichito Clicker | 254008 | [254008-bichito-clicker.json](./254008-bichito-clicker.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
 | Bichos & Cia | 251322 | [251322-bichos-and-cia.json](./251322-bichos-and-cia.json) |
@@ -14222,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomBang | 135676 | [135676-boombang.json](./135676-boombang.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | BoomBoard! | 198043 | [198043-boomboard.json](./198043-boomboard.json) |
+| Boombot | 275180 | [275180-boombot.json](./275180-boombot.json) |
 | Boombot 2 | 335457 | [335457-boombot-2.json](./335457-boombot-2.json) |
 | BoomBots | 10918 | [10918-boombots.json](./10918-boombots.json) |
 | BoomBox | 143046 | [143046-boombox.json](./143046-boombox.json) |
@@ -17331,6 +17333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brolections 2022 | 193078 | [193078-brolections-2022.json](./193078-brolections-2022.json) |
 | Broll | 140843 | [140843-broll.json](./140843-broll.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
+| Bromine | 275194 | [275194-bromine.json](./275194-bromine.json) |
 | Brominion | 335637 | [335637-brominion.json](./335637-brominion.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bron's Quest | 140113 | [140113-brons-quest.json](./140113-brons-quest.json) |
