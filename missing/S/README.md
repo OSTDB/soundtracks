@@ -4603,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of Galaxy | 192006 | [192006-search-of-galaxy.json](./192006-search-of-galaxy.json) |
+| Search of Magic Ore | 288968 | [288968-search-of-magic-ore.json](./288968-search-of-magic-ore.json) |
 | Search of the Source | 292183 | [292183-search-of-the-source.json](./292183-search-of-the-source.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party | 120489 | [120489-search-party.json](./120489-search-party.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
 | Sex Bushes | 286553 | [286553-sex-bushes.json](./286553-sex-bushes.json) |
+| Sex Campus | 288959 | [288959-sex-campus.json](./288959-sex-campus.json) |
 | Sex Campus Story 18+ | 258944 | [258944-sex-campus-story-18.json](./258944-sex-campus-story-18.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
 | Sex Chess | 202535 | [202535-sex-chess.json](./202535-sex-chess.json) |
@@ -6698,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
 | Sex Empire: Episode 1 | 368533 | [368533-sex-empire-episode-1.json](./368533-sex-empire-episode-1.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
+| Sex Faculty | 288956 | [288956-sex-faculty.json](./288956-sex-faculty.json) |
 | Sex Feets | 289516 | [289516-sex-feets.json](./289516-sex-feets.json) |
 | Sex Game - BDSM - Episode 1 | 382157 | [382157-sex-game-bdsm-episode-1.json](./382157-sex-game-bdsm-episode-1.json) |
 | Sex Game - BDSM - Episode 3 | 382155 | [382155-sex-game-bdsm-episode-3.json](./382155-sex-game-bdsm-episode-3.json) |
@@ -20063,6 +20066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shards | 89747 | [89747-soul-shards.json](./89747-soul-shards.json) |
+| Soul Shifters: Online | 288949 | [288949-soul-shifters-online.json](./288949-soul-shifters-online.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
 | Soul Siblings | 412699 | [412699-soul-siblings.json](./412699-soul-siblings.json) |
 | Soul Sight | 349015 | [349015-soul-sight.json](./349015-soul-sight.json) |
@@ -32493,6 +32497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunflower Maintenance | 186260 | [186260-sunflower-maintenance.json](./186260-sunflower-maintenance.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | SunFlowers | 52861 | [52861-sunflowers.json](./52861-sunflowers.json) |
+| Sunflowers and the Goddess of Death | 288962 | [288962-sunflowers-and-the-goddess-of-death.json](./288962-sunflowers-and-the-goddess-of-death.json) |
 | Sunfluffs | 349206 | [349206-sunfluffs.json](./349206-sunfluffs.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
@@ -35684,6 +35689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Squidlit | 154908 | [154908-super-squidlit.json](./154908-super-squidlit.json) |
+| Super Squishy Square Stacker | 288934 | [288934-super-squishy-square-stacker.json](./288934-super-squishy-square-stacker.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Stacker | 282478 | [282478-super-stacker.json](./282478-super-stacker.json) |
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
