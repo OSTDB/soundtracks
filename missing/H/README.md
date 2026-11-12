@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life | 228891 | [228891-half-life.json](./228891-half-life.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
+| Half-Life 1: Ray Traced | 274173 | [274173-half-life-1-ray-traced.json](./274173-half-life-1-ray-traced.json) |
 | Half-Life 2 Beta Minimalist Mod | 140851 | [140851-half-life-2-beta-minimalist-mod.json](./140851-half-life-2-beta-minimalist-mod.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2 Mirrored | 221477 | [221477-half-life-2-mirrored.json](./221477-half-life-2-mirrored.json) |
