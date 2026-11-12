@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xexyz | 14413 | [14413-xexyz.json](./14413-xexyz.json) |
 | Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
 | Xeyyex II: Colour Wars | 337925 | [337925-xeyyex-ii-colour-wars.json](./337925-xeyyex-ii-colour-wars.json) |
+| XEZI: A Silk Road Adventure | 248861 | [248861-xezi-a-silk-road-adventure.json](./248861-xezi-a-silk-road-adventure.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | XF Drive | 321100 | [321100-xf-drive.json](./321100-xf-drive.json) |
 | XF Extreme Formula | 264424 | [264424-xf-extreme-formula.json](./264424-xf-extreme-formula.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XR22-Seaguard | 260439 | [260439-xr22-seaguard.json](./260439-xr22-seaguard.json) |
 | XRacer 2: Evolution | 132472 | [132472-xracer-2-evolution.json](./132472-xracer-2-evolution.json) |
 | XRacing | 360123 | [360123-xracing.json](./360123-xracing.json) |
+| XraYe | 250079 | [250079-xraye.json](./250079-xraye.json) |
 | xRC Simulator | 137422 | [137422-xrc-simulator.json](./137422-xrc-simulator.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
