@@ -5727,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
 | Celestial Crossing | 29983 | [29983-celestial-crossing.json](./29983-celestial-crossing.json) |
 | Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
+| Celestial Crowns | 247165 | [247165-celestial-crowns.json](./247165-celestial-crowns.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
 | Celestial Decks | 380466 | [380466-celestial-decks.json](./380466-celestial-decks.json) |
 | Celestial Descends | 284810 | [284810-celestial-descends.json](./284810-celestial-descends.json) |
@@ -9944,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities in Motion: Tokyo | 52724 | [52724-cities-in-motion-tokyo.json](./52724-cities-in-motion-tokyo.json) |
 | Cities in Motion: Ulm | 52721 | [52721-cities-in-motion-ulm.json](./52721-cities-in-motion-ulm.json) |
 | Cities in Motion: US Cities | 151417 | [151417-cities-in-motion-us-cities.json](./151417-cities-in-motion-us-cities.json) |
+| Cities of the World Jigsaw Puzzles | 247152 | [247152-cities-of-the-world-jigsaw-puzzles.json](./247152-cities-of-the-world-jigsaw-puzzles.json) |
 | Cities of the World Jigsaw Puzzles - Amsterdam | 248707 | [248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json](./248707-cities-of-the-world-jigsaw-puzzles-amsterdam.json) |
 | Cities of the World Jigsaw Puzzles - Istanbul | 248712 | [248712-cities-of-the-world-jigsaw-puzzles-istanbul.json](./248712-cities-of-the-world-jigsaw-puzzles-istanbul.json) |
 | Cities of the World Jigsaw Puzzles - London | 248708 | [248708-cities-of-the-world-jigsaw-puzzles-london.json](./248708-cities-of-the-world-jigsaw-puzzles-london.json) |
@@ -20090,6 +20092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Jelly | 200253 | [200253-crush-the-jelly.json](./200253-crush-the-jelly.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
+| Crush the Monsters: Foul Puzzle | 247233 | [247233-crush-the-monsters-foul-puzzle.json](./247233-crush-the-monsters-foul-puzzle.json) |
 | Crush the Numbers | 106269 | [106269-crush-the-numbers.json](./106269-crush-the-numbers.json) |
 | Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
 | Crush Them All | 97523 | [97523-crush-them-all.json](./97523-crush-them-all.json) |
