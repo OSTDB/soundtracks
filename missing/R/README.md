@@ -8324,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rippin' Riders Snowboarding | 26132 | [26132-rippin-riders-snowboarding.json](./26132-rippin-riders-snowboarding.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple | 24545 | [24545-ripple.json](./24545-ripple.json) |
+| Ripple and Frawg: The Seasonal Song | 283345 | [283345-ripple-and-frawg-the-seasonal-song.json](./283345-ripple-and-frawg-the-seasonal-song.json) |
 | Ripple Dot Zero | 231714 | [231714-ripple-dot-zero.json](./231714-ripple-dot-zero.json) |
 | Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
