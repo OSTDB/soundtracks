@@ -4887,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight With Tactics | 147733 | [147733-knight-with-tactics.json](./147733-knight-with-tactics.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
+| Knight, Death and the Devil | 247730 | [247730-knight-death-and-the-devil.json](./247730-knight-death-and-the-devil.json) |
 | Knight: Orc Assault | 378934 | [378934-knight-orc-assault.json](./378934-knight-orc-assault.json) |
 | Knight's Apprentice, Memorick's Adventures | 70469 | [70469-knights-apprentice-memoricks-adventures.json](./70469-knights-apprentice-memoricks-adventures.json) |
 | Knight's Castle | 213341 | [213341-knights-castle.json](./213341-knights-castle.json) |
