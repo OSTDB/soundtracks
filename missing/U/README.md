@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Above | 250917 | [250917-underground-above.json](./250917-underground-above.json) |
 | Underground Adventure | 214421 | [214421-underground-adventure.json](./214421-underground-adventure.json) |
+| Underground Base | 271959 | [271959-underground-base.json](./271959-underground-base.json) |
 | Underground Business | 406924 | [406924-underground-business.json](./406924-underground-business.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
