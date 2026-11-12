@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
 | Zenkoku Dekotora Matsuri | 198171 | [198171-zenkoku-dekotora-matsuri.json](./198171-zenkoku-dekotora-matsuri.json) |
+| Zenkoku Ippanjin Joushiki Check | 264950 | [264950-zenkoku-ippanjin-joushiki-check.json](./264950-zenkoku-ippanjin-joushiki-check.json) |
 | Zenkoku Koukou Soccer | 42351 | [42351-zenkoku-koukou-soccer.json](./42351-zenkoku-koukou-soccer.json) |
 | Zenkoku Koukou Soccer 2 | 42350 | [42350-zenkoku-koukou-soccer-2.json](./42350-zenkoku-koukou-soccer-2.json) |
 | Zenku | 384881 | [384881-zenku.json](./384881-zenku.json) |
