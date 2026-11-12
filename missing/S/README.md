@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
 | Saylor Animals Puzzle | 388433 | [388433-saylor-animals-puzzle.json](./388433-saylor-animals-puzzle.json) |
 | Saylor Anime Puzzle Boys & Girls | 380935 | [380935-saylor-anime-puzzle-boys-and-girls.json](./380935-saylor-anime-puzzle-boys-and-girls.json) |
+| Sayo | 303914 | [303914-sayo.json](./303914-sayo.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
@@ -4101,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scum's Errand | 409322 | [409322-scums-errand.json](./409322-scums-errand.json) |
 | Scumbag Streamer | 391538 | [391538-scumbag-streamer.json](./391538-scumbag-streamer.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
+| Scunner's Run | 303929 | [303929-scunners-run.json](./303929-scunners-run.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
 | Scurge: Hive | 370966 | [370966-scurge-hive.json](./370966-scurge-hive.json) |
 | Scurge: Hive | 6585 | [6585-scurge-hive.json](./6585-scurge-hive.json) |
@@ -9835,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Range Owner Simulator | 326354 | [326354-shooting-range-owner-simulator.json](./326354-shooting-range-owner-simulator.json) |
+| Shooting Range Simulator | 304931 | [304931-shooting-range-simulator.json](./304931-shooting-range-simulator.json) |
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
 | Shooting Saucer | 243504 | [243504-shooting-saucer.json](./243504-shooting-saucer.json) |
 | Shooting Sports Gun Club | 99989 | [99989-shooting-sports-gun-club.json](./99989-shooting-sports-gun-club.json) |
@@ -11229,6 +11232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
 | Silent Mobius: Case - Titanic | 214432 | [214432-silent-mobius-case-titanic.json](./214432-silent-mobius-case-titanic.json) |
 | Silent Mobius: Genei no Datenshi | 166498 | [166498-silent-mobius-genei-no-datenshi.json](./166498-silent-mobius-genei-no-datenshi.json) |
+| Silent Mourning | 304398 | [304398-silent-mourning.json](./304398-silent-mourning.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
 | Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
@@ -13652,6 +13656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybreak! | 300435 | [300435-skybreak.json](./300435-skybreak.json) |
 | Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
+| SkyBrew: Entropic Strategist | 304930 | [304930-skybrew-entropic-strategist.json](./304930-skybrew-entropic-strategist.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
 | Skycadia | 139643 | [139643-skycadia.json](./139643-skycadia.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
@@ -20474,6 +20479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Unterzoegersdorf: Sector II | 175776 | [175776-soviet-unterzoegersdorf-sector-ii.json](./175776-soviet-unterzoegersdorf-sector-ii.json) |
 | Soviet Unterzögersdorf: Sector 1 | 78651 | [78651-soviet-unterzogersdorf-sector-1.json](./78651-soviet-unterzogersdorf-sector-1.json) |
 | Soviet Village | 370879 | [370879-soviet-village.json](./370879-soviet-village.json) |
+| Soviet Zombies | 304938 | [304938-soviet-zombies.json](./304938-soviet-zombies.json) |
 | Soviet-Afghan War | 59310 | [59310-soviet-afghan-war.json](./59310-soviet-afghan-war.json) |
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
 | SOVL: Deepwood Guardians | 298068 | [298068-sovl-deepwood-guardians.json](./298068-sovl-deepwood-guardians.json) |
@@ -26837,6 +26843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stardust: Wish of Witch | 386172 | [386172-stardust-wish-of-witch.json](./386172-stardust-wish-of-witch.json) |
+| Starduster | 303926 | [303926-starduster.json](./303926-starduster.json) |
 | Stare | 425881 | [425881-stare.json](./425881-stare.json) |
 | Stare : Block Breaker | 122023 | [122023-stare-block-breaker.json](./122023-stare-block-breaker.json) |
 | Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
@@ -28451,6 +28458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stelloop | 232818 | [232818-stelloop.json](./232818-stelloop.json) |
 | StellwerkSim | 314847 | [314847-stellwerksim.json](./314847-stellwerksim.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
+| STEM Defense | 304395 | [304395-stem-defense.json](./304395-stem-defense.json) |
 | Stemmies | 417259 | [417259-stemmies.json](./417259-stemmies.json) |
 | Stench Mechanics | 199191 | [199191-stench-mechanics.json](./199191-stench-mechanics.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
@@ -34918,6 +34926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pocket: Technōs Edition | 321840 | [321840-super-pocket-technos-edition.json](./321840-super-pocket-technos-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pole Riders | 61855 | [61855-super-pole-riders.json](./61855-super-pole-riders.json) |
+| Super Polished | 304942 | [304942-super-polished.json](./304942-super-polished.json) |
 | Super Pong | 64120 | [64120-super-pong.json](./64120-super-pong.json) |
 | Super Pool | 13765 | [13765-super-pool.json](./13765-super-pool.json) |
 | Super Pool III | 172679 | [172679-super-pool-iii.json](./172679-super-pool-iii.json) |
@@ -36975,6 +36984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor In Rainbow Monster | 223897 | [223897-survivor-in-rainbow-monster.json](./223897-survivor-in-rainbow-monster.json) |
 | Survivor in Summer | 108059 | [108059-survivor-in-summer.json](./108059-survivor-in-summer.json) |
 | Survivor in the Forest | 310166 | [310166-survivor-in-the-forest.json](./310166-survivor-in-the-forest.json) |
+| Survivor in the Forest 2 | 304935 | [304935-survivor-in-the-forest-2.json](./304935-survivor-in-the-forest-2.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
 | Survivor Jones | 157356 | [157356-survivor-jones.json](./157356-survivor-jones.json) |
 | Survivor Legion | 396867 | [396867-survivor-legion.json](./396867-survivor-legion.json) |
