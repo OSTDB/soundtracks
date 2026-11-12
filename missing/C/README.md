@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyCraft | 324590 | [324590-candycraft.json](./324590-candycraft.json) |
 | CandyGeist | 91472 | [91472-candygeist.json](./91472-candygeist.json) |
 | Candyhouse | 250268 | [250268-candyhouse.json](./250268-candyhouse.json) |
+| Candyland: Sweet Survival | 290592 | [290592-candyland-sweet-survival.json](./290592-candyland-sweet-survival.json) |
 | Candylands Journey | 355982 | [355982-candylands-journey.json](./355982-candylands-journey.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
@@ -7658,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
+| Chibi Wars Kinetic Novel | 290578 | [290578-chibi-wars-kinetic-novel.json](./290578-chibi-wars-kinetic-novel.json) |
 | Chibi-Robo! | 134255 | [134255-chibi-robo.json](./134255-chibi-robo.json) |
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | Chibi-Robo! Zip Lash | 11216 | [11216-chibi-robo-zip-lash.json](./11216-chibi-robo-zip-lash.json) |
@@ -8781,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Bubble Puzzle | 280594 | [280594-christmas-bubble-puzzle.json](./280594-christmas-bubble-puzzle.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
+| Christmas Carol | 290579 | [290579-christmas-carol.json](./290579-christmas-carol.json) |
 | Christmas Carol vs. The Ghost of Christmas Presents | 41466 | [41466-christmas-carol-vs-the-ghost-of-christmas-presents.json](./41466-christmas-carol-vs-the-ghost-of-christmas-presents.json) |
 | Christmas Cat | 101849 | [101849-christmas-cat.json](./101849-christmas-cat.json) |
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
@@ -10500,6 +10503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarevoyance | 153589 | [153589-clarevoyance.json](./153589-clarevoyance.json) |
+| Claria's Great Maze | 290566 | [290566-clarias-great-maze.json](./290566-clarias-great-maze.json) |
 | Clarice Clairvoyage | 210995 | [210995-clarice-clairvoyage.json](./210995-clarice-clairvoyage.json) |
 | Clarice: The Storyteller | 216597 | [216597-clarice-the-storyteller.json](./216597-clarice-the-storyteller.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
@@ -16157,6 +16161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Paradise | 290809 | [290809-corrupted-paradise.json](./290809-corrupted-paradise.json) |
 | Corrupted Sector | 271575 | [271575-corrupted-sector.json](./271575-corrupted-sector.json) |
 | Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
+| Corrupted Spirits | 290576 | [290576-corrupted-spirits.json](./290576-corrupted-spirits.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corrupted Veil | 420063 | [420063-corrupted-veil.json](./420063-corrupted-veil.json) |
 | Corrupted World | 361979 | [361979-corrupted-world.json](./361979-corrupted-world.json) |
@@ -19671,6 +19676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Trick: Requiem of Elements | 171718 | [171718-crown-trick-requiem-of-elements.json](./171718-crown-trick-requiem-of-elements.json) |
 | Crown Trick: Special Edition | 170037 | [170037-crown-trick-special-edition.json](./170037-crown-trick-special-edition.json) |
 | Crown Wars: The Black Prince | 208416 | [208416-crown-wars-the-black-prince.json](./208416-crown-wars-the-black-prince.json) |
+| Crown Wars: The Black Prince - Blood Pact Weapon Skins | 290125 | [290125-crown-wars-the-black-prince-blood-pact-weapon-skins.json](./290125-crown-wars-the-black-prince-blood-pact-weapon-skins.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
 | Crown Wars: The Black Prince - Sacred Edition | 302179 | [302179-crown-wars-the-black-prince-sacred-edition.json](./302179-crown-wars-the-black-prince-sacred-edition.json) |
 | Crown's Labyrinth | 303440 | [303440-crowns-labyrinth.json](./303440-crowns-labyrinth.json) |
@@ -19797,6 +19803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble Zone HD | 38866 | [38866-crumble-zone-hd.json](./38866-crumble-zone-hd.json) |
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbled World | 30751 | [30751-crumbled-world.json](./30751-crumbled-world.json) |
+| CrumbleMiner | 290606 | [290606-crumbleminer.json](./290606-crumbleminer.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling City | 149741 | [149741-crumbling-city.json](./149741-crumbling-city.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
