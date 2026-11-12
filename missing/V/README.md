@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Guardians Break | 201400 | [201400-village-guardians-break.json](./201400-village-guardians-break.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Life: Love & Babies | 38885 | [38885-village-life-love-and-babies.json](./38885-village-life-love-and-babies.json) |
+| Village Life: Love, Marriage and Babies | 259883 | [259883-village-life-love-marriage-and-babies.json](./259883-village-life-love-marriage-and-babies.json) |
 | Village Mayhem | 179550 | [179550-village-mayhem.json](./179550-village-mayhem.json) |
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
