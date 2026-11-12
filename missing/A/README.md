@@ -7087,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
 | Alf | 65580 | [65580-alf.json](./65580-alf.json) |
 | Alf in the Color Caves | 59502 | [59502-alf-in-the-color-caves.json](./59502-alf-in-the-color-caves.json) |
+| Alf Jonathan Y la Máscara de Siwa | 294642 | [294642-alf-jonathan-y-la-mascara-de-siwa.json](./294642-alf-jonathan-y-la-mascara-de-siwa.json) |
 | Alf Jonathan y la piedra de los Valcroix | 294645 | [294645-alf-jonathan-y-la-piedra-de-los-valcroix.json](./294645-alf-jonathan-y-la-piedra-de-los-valcroix.json) |
 | ALF the Alien Life Form | 45669 | [45669-alf-the-alien-life-form.json](./45669-alf-the-alien-life-form.json) |
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
@@ -17163,6 +17164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrafall | 338653 | [338653-astrafall.json](./338653-astrafall.json) |
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
 | Astragaloi | 388160 | [388160-astragaloi.json](./388160-astragaloi.json) |
+| Astragon Bestseller Simulation Bundle | 294892 | [294892-astragon-bestseller-simulation-bundle.json](./294892-astragon-bestseller-simulation-bundle.json) |
 | Astraia Land | 311188 | [311188-astraia-land.json](./311188-astraia-land.json) |
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
@@ -17515,6 +17517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Awakening | 234024 | [234024-astroneer-awakening.json](./234024-astroneer-awakening.json) |
 | Astroneer: Essential Bundle | 280147 | [280147-astroneer-essential-bundle.json](./280147-astroneer-essential-bundle.json) |
 | Astroneer: Evolution Bundle | 311402 | [311402-astroneer-evolution-bundle.json](./311402-astroneer-evolution-bundle.json) |
+| Astroneer: Evolution Edition | 294886 | [294886-astroneer-evolution-edition.json](./294886-astroneer-evolution-edition.json) |
 | Astroneer: Glitchwalkers | 315620 | [315620-astroneer-glitchwalkers.json](./315620-astroneer-glitchwalkers.json) |
 | Astroneer: Glitchwalkers - Deluxe Edition | 331247 | [331247-astroneer-glitchwalkers-deluxe-edition.json](./331247-astroneer-glitchwalkers-deluxe-edition.json) |
 | Astroneer: Glitchwalkers Edition | 331248 | [331248-astroneer-glitchwalkers-edition.json](./331248-astroneer-glitchwalkers-edition.json) |
