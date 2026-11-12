@@ -879,12 +879,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War | 135296 | [135296-call-of-duty-world-at-war.json](./135296-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 135297 | [135297-call-of-duty-world-at-war.json](./135297-call-of-duty-world-at-war.json) |
 | Call of Duty: World at War | 343822 | [343822-call-of-duty-world-at-war.json](./343822-call-of-duty-world-at-war.json) |
+| Call of Duty: World at War - Limited Collector's Edition | 292807 | [292807-call-of-duty-world-at-war-limited-collectors-edition.json](./292807-call-of-duty-world-at-war-limited-collectors-edition.json) |
 | Call of Duty: World at War - Spain at War | 341656 | [341656-call-of-duty-world-at-war-spain-at-war.json](./341656-call-of-duty-world-at-war-spain-at-war.json) |
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
 | Call of Duty: World at War - Zombies II | 274288 | [274288-call-of-duty-world-at-war-zombies-ii.json](./274288-call-of-duty-world-at-war-zombies-ii.json) |
 | Call of Duty: World at War Map Pack 1 | 273268 | [273268-call-of-duty-world-at-war-map-pack-1.json](./273268-call-of-duty-world-at-war-map-pack-1.json) |
 | Call of Duty: World at War Map Pack 2 | 273857 | [273857-call-of-duty-world-at-war-map-pack-2.json](./273857-call-of-duty-world-at-war-map-pack-2.json) |
 | Call of Duty: World at War Map Pack 3 | 273858 | [273858-call-of-duty-world-at-war-map-pack-3.json](./273858-call-of-duty-world-at-war-map-pack-3.json) |
+| Call of Duty: World at War Map Pack Bundle | 292806 | [292806-call-of-duty-world-at-war-map-pack-bundle.json](./292806-call-of-duty-world-at-war-map-pack-bundle.json) |
 | Call of Duty: WWII - Digital Deluxe Edition | 52717 | [52717-call-of-duty-wwii-digital-deluxe-edition.json](./52717-call-of-duty-wwii-digital-deluxe-edition.json) |
 | Call of Duty: WWII - Game of the Year Edition | 136698 | [136698-call-of-duty-wwii-game-of-the-year-edition.json](./136698-call-of-duty-wwii-game-of-the-year-edition.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
@@ -911,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Honor: Duty of Warfare & Battlefront Trench Warriors: Ops of Warfare | 305623 | [305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json](./305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Honor: Solitaire | 126161 | [126161-call-of-honor-solitaire.json](./126161-call-of-honor-solitaire.json) |
+| Call of Interview | 292723 | [292723-call-of-interview.json](./292723-call-of-interview.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
 | Call of Juarez: The Cartel | 543 | [543-call-of-juarez-the-cartel.json](./543-call-of-juarez-the-cartel.json) |
@@ -6069,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Reaction | 377351 | [377351-chain-reaction.json](./377351-chain-reaction.json) |
 | Chain Reaction | 418192 | [418192-chain-reaction.json](./418192-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
+| Chain Reaction: Sexy Hentai Girls | 292725 | [292725-chain-reaction-sexy-hentai-girls.json](./292725-chain-reaction-sexy-hentai-girls.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
 | Chain Slave | 97603 | [97603-chain-slave.json](./97603-chain-slave.json) |
@@ -11128,6 +11132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickbox | 132023 | [132023-clickbox.json](./132023-clickbox.json) |
 | ClickCatToe | 316600 | [316600-clickcattoe.json](./316600-clickcattoe.json) |
 | ClickCells: CPU Girls | 385040 | [385040-clickcells-cpu-girls.json](./385040-clickcells-cpu-girls.json) |
+| ClickCells: Office Lady | 292701 | [292701-clickcells-office-lady.json](./292701-clickcells-office-lady.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
 | ClickCells: Winter Lady | 168213 | [168213-clickcells-winter-lady.json](./168213-clickcells-winter-lady.json) |
 | ClickCrafter | 413740 | [413740-clickcrafter.json](./413740-clickcrafter.json) |
@@ -11148,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | Clicker Heroes 2 | 68503 | [68503-clicker-heroes-2.json](./68503-clicker-heroes-2.json) |
+| Clicker Heroes: Whelpling Auto Clicker | 292743 | [292743-clicker-heroes-whelpling-auto-clicker.json](./292743-clicker-heroes-whelpling-auto-clicker.json) |
 | Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
 | Clicker Kingdom | 348136 | [348136-clicker-kingdom.json](./348136-clicker-kingdom.json) |
 | Clicker Ore | 377523 | [377523-clicker-ore.json](./377523-clicker-ore.json) |
