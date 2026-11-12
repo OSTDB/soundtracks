@@ -4937,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
 | Death Live | 135580 | [135580-death-live.json](./135580-death-live.json) |
 | Death Machine | 285004 | [285004-death-machine.json](./285004-death-machine.json) |
+| Death Mall 3000 | 278028 | [278028-death-mall-3000.json](./278028-death-mall-3000.json) |
 | Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
 | Death Mark Vol.1 | 99079 | [99079-death-mark-vol-1.json](./99079-death-mark-vol-1.json) |
 | Death Mark: Experience Selection | 167142 | [167142-death-mark-experience-selection.json](./167142-death-mark-experience-selection.json) |
@@ -6114,6 +6115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 218773 | [218773-defender.json](./218773-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
+| Defender | 278181 | [278181-defender.json](./278181-defender.json) |
+| Defender | 278182 | [278182-defender.json](./278182-defender.json) |
 | Defender | 278240 | [278240-defender.json](./278240-defender.json) |
 | Defender | 278270 | [278270-defender.json](./278270-defender.json) |
 | Defender | 278281 | [278281-defender.json](./278281-defender.json) |
@@ -20656,6 +20659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying In Dungeon | 181765 | [181765-dying-in-dungeon.json](./181765-dying-in-dungeon.json) |
 | Dying is Dangerous | 147592 | [147592-dying-is-dangerous.json](./147592-dying-is-dangerous.json) |
 | Dying Light 2 Stay Human: Digital Extras Edition | 331266 | [331266-dying-light-2-stay-human-digital-extras-edition.json](./331266-dying-light-2-stay-human-digital-extras-edition.json) |
+| Dying Light 2: Stay Human - Black Friday Edition | 278186 | [278186-dying-light-2-stay-human-black-friday-edition.json](./278186-dying-light-2-stay-human-black-friday-edition.json) |
 | Dying Light 2: Stay Human - Bloody Ties | 214400 | [214400-dying-light-2-stay-human-bloody-ties.json](./214400-dying-light-2-stay-human-bloody-ties.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Cloud Version | 172429 | [172429-dying-light-2-stay-human-cloud-version.json](./172429-dying-light-2-stay-human-cloud-version.json) |
