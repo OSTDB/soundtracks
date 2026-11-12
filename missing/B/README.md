@@ -3955,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Craze!! | 171977 | [171977-battle-craze.json](./171977-battle-craze.json) |
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
+| Battle Cross Fever | 265894 | [265894-battle-cross-fever.json](./265894-battle-cross-fever.json) |
 | Battle Cruiser | 39772 | [39772-battle-cruiser.json](./39772-battle-cruiser.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
 | Battle Crush | 239400 | [239400-battle-crush.json](./239400-battle-crush.json) |
