@@ -7404,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fittest | 195931 | [195931-fittest.json](./195931-fittest.json) |
+| Fittest Fire | 261560 | [261560-fittest-fire.json](./261560-fittest-fire.json) |
 | Fitting In | 274822 | [274822-fitting-in.json](./274822-fitting-in.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | FitXR | 142345 | [142345-fitxr.json](./142345-fitxr.json) |
