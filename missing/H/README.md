@@ -7354,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
 | Hidden | 205747 | [205747-hidden.json](./205747-hidden.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
+| Hidden | 290577 | [290577-hidden.json](./290577-hidden.json) |
 | Hidden | 356384 | [356384-hidden.json](./356384-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
@@ -9540,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Mosaics Christmas Puzzles | 157807 | [157807-holiday-mosaics-christmas-puzzles.json](./157807-holiday-mosaics-christmas-puzzles.json) |
 | Holiday Mosaics: Halloween Puzzles | 173439 | [173439-holiday-mosaics-halloween-puzzles.json](./173439-holiday-mosaics-halloween-puzzles.json) |
+| Holiday Motel Simulator | 290582 | [290582-holiday-motel-simulator.json](./290582-holiday-motel-simulator.json) |
 | Holiday Party: Mascot Brawl | 258269 | [258269-holiday-party-mascot-brawl.json](./258269-holiday-party-mascot-brawl.json) |
 | Holiday Present Hunt | 349501 | [349501-holiday-present-hunt.json](./349501-holiday-present-hunt.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
@@ -10679,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
 | HopStepHotspring | 289834 | [289834-hopstephotspring.json](./289834-hopstephotspring.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
+| Hopwander | 290589 | [290589-hopwander.json](./290589-hopwander.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
 | Hora | 364980 | [364980-hora.json](./364980-hora.json) |
