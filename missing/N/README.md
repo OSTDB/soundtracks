@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
 | Neave | 368430 | [368430-neave.json](./368430-neave.json) |
 | Neave 2 | 212886 | [212886-neave-2.json](./212886-neave-2.json) |
+| Nebel Geisterjäger: The First Lamb | 273596 | [273596-nebel-geisterjager-the-first-lamb.json](./273596-nebel-geisterjager-the-first-lamb.json) |
 | Nebelmer | 319604 | [319604-nebelmer.json](./319604-nebelmer.json) |
 | Nebo | 182927 | [182927-nebo.json](./182927-nebo.json) |
 | Neboslav | 285118 | [285118-neboslav.json](./285118-neboslav.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night Gate | 212967 | [212967-night-gate.json](./212967-night-gate.json) |
+| Night Grove | 273601 | [273601-night-grove.json](./273601-night-grove.json) |
 | Night Guard Skull Steve | 396681 | [396681-night-guard-skull-steve.json](./396681-night-guard-skull-steve.json) |
 | Night Guard: The Last Shift | 177533 | [177533-night-guard-the-last-shift.json](./177533-night-guard-the-last-shift.json) |
 | Night Guardian | 123527 | [123527-night-guardian.json](./123527-night-guardian.json) |
@@ -7921,6 +7923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
 | Nuclear Bike | 273695 | [273695-nuclear-bike.json](./273695-nuclear-bike.json) |
+| Nuclear Bunker | 273540 | [273540-nuclear-bunker.json](./273540-nuclear-bunker.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Chunks | 262165 | [262165-nuclear-chunks.json](./262165-nuclear-chunks.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
