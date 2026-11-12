@@ -5364,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Master Vacation Bundle | 288217 | [288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json](./288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json) |
 | Like a Dragon: Infinite Wealth - Special Job Set | 288219 | [288219-like-a-dragon-infinite-wealth-special-job-set.json](./288219-like-a-dragon-infinite-wealth-special-job-set.json) |
 | Like a Dragon: Infinite Wealth - Special Outfit: Hello Work Employee (Ichiban) | 288221 | [288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json](./288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json) |
+| Like a Dragon: Infinite Wealth - Sujimon & Resort Bundle | 301734 | [301734-like-a-dragon-infinite-wealth-sujimon-and-resort-bundle.json](./301734-like-a-dragon-infinite-wealth-sujimon-and-resort-bundle.json) |
 | Like a Dragon: Infinite Wealth - Ultimate Edition | 284866 | [284866-like-a-dragon-infinite-wealth-ultimate-edition.json](./284866-like-a-dragon-infinite-wealth-ultimate-edition.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
 | Like a Dragon: Infinite Wealth Special Trial Version | 319033 | [319033-like-a-dragon-infinite-wealth-special-trial-version.json](./319033-like-a-dragon-infinite-wealth-special-trial-version.json) |
@@ -8024,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop-Loop DX | 129382 | [129382-loop-loop-dx.json](./129382-loop-loop-dx.json) |
 | Loop: A Tranquil Puzzle Game | 35278 | [35278-loop-a-tranquil-puzzle-game.json](./35278-loop-a-tranquil-puzzle-game.json) |
+| Loop: ClassRoom | 302849 | [302849-loop-classroom.json](./302849-loop-classroom.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
 | Loop//Error | 363084 | [363084-loop-error.json](./363084-loop-error.json) |
@@ -8630,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Epic: Premium Edition | 244049 | [244049-lost-epic-premium-edition.json](./244049-lost-epic-premium-edition.json) |
 | Lost Episodes Alone | 388365 | [388365-lost-episodes-alone.json](./388365-lost-episodes-alone.json) |
+| Lost Estate Agent | 302845 | [302845-lost-estate-agent.json](./302845-lost-estate-agent.json) |
 | Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
 | Lost Eve | 166886 | [166886-lost-eve.json](./166886-lost-eve.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
@@ -9010,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Souls | 195594 | [195594-lost-souls.json](./195594-lost-souls.json) |
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
+| Lost Souls | 302838 | [302838-lost-souls.json](./302838-lost-souls.json) |
 | Lost Souls: Enchanted Paintings | 88750 | [88750-lost-souls-enchanted-paintings.json](./88750-lost-souls-enchanted-paintings.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
