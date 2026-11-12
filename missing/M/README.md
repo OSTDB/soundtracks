@@ -16218,6 +16218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
 | Momochan's Brain is So Crazy! | 388979 | [388979-momochans-brain-is-so-crazy.json](./388979-momochans-brain-is-so-crazy.json) |
+| Momochiyo's Mononoke Taji | 303837 | [303837-momochiyos-mononoke-taji.json](./303837-momochiyos-mononoke-taji.json) |
 | Momodora | 18162 | [18162-momodora.json](./18162-momodora.json) |
 | Momodora 0: Day of Birth | 261191 | [261191-momodora-0-day-of-birth.json](./261191-momodora-0-day-of-birth.json) |
 | Momodora II | 18163 | [18163-momodora-ii.json](./18163-momodora-ii.json) |
