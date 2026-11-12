@@ -7306,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
+| Bestowment | 310859 | [310859-bestowment.json](./310859-bestowment.json) |
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
 | Bestseller: Curse of the Golden Owl | 29506 | [29506-bestseller-curse-of-the-golden-owl.json](./29506-bestseller-curse-of-the-golden-owl.json) |
 | BeSwitched Magic Match 3 | 106472 | [106472-beswitched-magic-match-3.json](./106472-beswitched-magic-match-3.json) |
@@ -16016,6 +16017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl King | 208214 | [208214-brawl-king.json](./208214-brawl-king.json) |
 | Brawl Me Blues | 350350 | [350350-brawl-me-blues.json](./350350-brawl-me-blues.json) |
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
+| Brawl of America | 310856 | [310856-brawl-of-america.json](./310856-brawl-of-america.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Snakes | 409928 | [409928-brawl-snakes.json](./409928-brawl-snakes.json) |
