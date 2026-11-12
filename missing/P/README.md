@@ -11013,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
 | Plunger Knight - Washers of Truth | 116924 | [116924-plunger-knight-washers-of-truth.json](./116924-plunger-knight-washers-of-truth.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
+| Plungeroo | 247732 | [247732-plungeroo.json](./247732-plungeroo.json) |
 | Plunker | 128980 | [128980-plunker.json](./128980-plunker.json) |
 | Plunko | 260187 | [260187-plunko.json](./260187-plunko.json) |
 | Plunkocity | 156571 | [156571-plunkocity.json](./156571-plunkocity.json) |
