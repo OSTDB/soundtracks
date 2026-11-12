@@ -12935,8 +12935,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelton Zone Traveler Emergence | 188732 | [188732-skelton-zone-traveler-emergence.json](./188732-skelton-zone-traveler-emergence.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Skeppskatten går iland | 327005 | [327005-skeppskatten-gar-iland.json](./327005-skeppskatten-gar-iland.json) |
+| Sker Collectors Bundle | 301747 | [301747-sker-collectors-bundle.json](./301747-sker-collectors-bundle.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
 | Sker Ritual: Dead by Nightfall | 382561 | [382561-sker-ritual-dead-by-nightfall.json](./382561-sker-ritual-dead-by-nightfall.json) |
+| Sker Ritual: Deluxe Edition | 301751 | [301751-sker-ritual-deluxe-edition.json](./301751-sker-ritual-deluxe-edition.json) |
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
 | Sker Ritual: Headless Wanderer | 294024 | [294024-sker-ritual-headless-wanderer.json](./294024-sker-ritual-headless-wanderer.json) |
@@ -13278,6 +13280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
 | Skull | 94309 | [94309-skull.json](./94309-skull.json) |
 | Skull & Crossbones | 12851 | [12851-skull-and-crossbones.json](./12851-skull-and-crossbones.json) |
+| Skull and Bones: Deluxe Edition | 301749 | [301749-skull-and-bones-deluxe-edition.json](./301749-skull-and-bones-deluxe-edition.json) |
 | Skull and Bones: Limited Edition | 206676 | [206676-skull-and-bones-limited-edition.json](./206676-skull-and-bones-limited-edition.json) |
 | Skull and Bones: Premium Edition | 208432 | [208432-skull-and-bones-premium-edition.json](./208432-skull-and-bones-premium-edition.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
@@ -14413,6 +14416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Ages | 329055 | [329055-slice-of-ages.json](./329055-slice-of-ages.json) |
+| Slice of Life | 301710 | [301710-slice-of-life.json](./301710-slice-of-life.json) |
 | Slice of Life | 346357 | [346357-slice-of-life.json](./346357-slice-of-life.json) |
 | Slice of Life | 55276 | [55276-slice-of-life.json](./55276-slice-of-life.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
@@ -24216,6 +24220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooked Hide & Seek | 218669 | [218669-spooked-hide-and-seek.json](./218669-spooked-hide-and-seek.json) |
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
 | Spookermarket | 274310 | [274310-spookermarket.json](./274310-spookermarket.json) |
+| Spookids | 301717 | [301717-spookids.json](./301717-spookids.json) |
 | Spookie Dookie | 372669 | [372669-spookie-dookie.json](./372669-spookie-dookie.json) |
 | Spookitchen | 350595 | [350595-spookitchen.json](./350595-spookitchen.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
@@ -24237,6 +24242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Castle: The Adventures Of Kid Mystic | 141439 | [141439-spooky-castle-the-adventures-of-kid-mystic.json](./141439-spooky-castle-the-adventures-of-kid-mystic.json) |
 | Spooky Cats | 35195 | [35195-spooky-cats.json](./35195-spooky-cats.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
+| Spooky Cooking | 301718 | [301718-spooky-cooking.json](./301718-spooky-cooking.json) |
 | Spooky Crew: Mask of the Mysterium | 258372 | [258372-spooky-crew-mask-of-the-mysterium.json](./258372-spooky-crew-mask-of-the-mysterium.json) |
 | Spooky Dating Sim | 374222 | [374222-spooky-dating-sim.json](./374222-spooky-dating-sim.json) |
 | Spooky Dice | 184443 | [184443-spooky-dice.json](./184443-spooky-dice.json) |
