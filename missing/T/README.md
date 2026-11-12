@@ -28452,6 +28452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
 | Touhou Rock Maiden FC 2: History's Greatest Sermon!! | 203652 | [203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json](./203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json) |
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
+| Touhou Rock Maiden X | 294636 | [294636-touhou-rock-maiden-x.json](./294636-touhou-rock-maiden-x.json) |
 | Touhou Rock Maiden: Houraisan Kaguya no Yabou!? | 202905 | [202905-touhou-rock-maiden-houraisan-kaguya-no-yabou.json](./202905-touhou-rock-maiden-houraisan-kaguya-no-yabou.json) |
 | Touhou Rououmu | 240557 | [240557-touhou-rououmu.json](./240557-touhou-rououmu.json) |
 | Touhou Saibanmu: Rookie Attorney Legendry | 318963 | [318963-touhou-saibanmu-rookie-attorney-legendry.json](./318963-touhou-saibanmu-rookie-attorney-legendry.json) |
@@ -29371,6 +29372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
 | Toy Titan: Protector of Childhood Dreams | 325775 | [325775-toy-titan-protector-of-childhood-dreams.json](./325775-toy-titan-protector-of-childhood-dreams.json) |
 | Toy Town Mayhem | 362780 | [362780-toy-town-mayhem.json](./362780-toy-town-mayhem.json) |
+| Toy Toy Up! | 294898 | [294898-toy-toy-up.json](./294898-toy-toy-up.json) |
 | Toy Trains | 265271 | [265271-toy-trains.json](./265271-toy-trains.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy War: Cannon | 286857 | [286857-toy-war-cannon.json](./286857-toy-war-cannon.json) |
@@ -32213,6 +32215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 9: Mysterious Prague | 147127 | [147127-travel-mosaics-9-mysterious-prague.json](./147127-travel-mosaics-9-mysterious-prague.json) |
 | Travel Mosaics: A Paris Tour | 126487 | [126487-travel-mosaics-a-paris-tour.json](./126487-travel-mosaics-a-paris-tour.json) |
 | Travel of Heroes | 213697 | [213697-travel-of-heroes.json](./213697-travel-of-heroes.json) |
+| Travel On, Pigeon! | 294894 | [294894-travel-on-pigeon.json](./294894-travel-on-pigeon.json) |
 | Travel Pack! | 361849 | [361849-travel-pack.json](./361849-travel-pack.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
