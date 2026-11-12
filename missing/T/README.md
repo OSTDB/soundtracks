@@ -5556,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Cloud Looks Like | 415827 | [415827-that-cloud-looks-like.json](./415827-that-cloud-looks-like.json) |
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
 | That Corridor in the Backrooms | 420952 | [420952-that-corridor-in-the-backrooms.json](./420952-that-corridor-in-the-backrooms.json) |
+| That Cowgirl Life | 289507 | [289507-that-cowgirl-life.json](./289507-that-cowgirl-life.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Dam Level redux | 33698 | [33698-that-dam-level-redux.json](./33698-that-dam-level-redux.json) |
@@ -19740,6 +19741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vasa Fasa | 410011 | [410011-the-vasa-fasa.json](./410011-the-vasa-fasa.json) |
 | The Vast Silence | 285264 | [285264-the-vast-silence.json](./285264-the-vast-silence.json) |
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
+| The Vault | 289531 | [289531-the-vault.json](./289531-the-vault.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vault of Darkness | 70058 | [70058-the-vault-of-darkness.json](./70058-the-vault-of-darkness.json) |
@@ -30378,6 +30380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Burlington Northern U25 | 357291 | [357291-train-simulator-classic-burlington-northern-u25.json](./357291-train-simulator-classic-burlington-northern-u25.json) |
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: Chatham Main Line - London-Gillingham Route Add-On | 156463 | [156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json](./156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json) |
+| Train Simulator Classic: China Railways DF11G | 289511 | [289511-train-simulator-classic-china-railways-df11g.json](./289511-train-simulator-classic-china-railways-df11g.json) |
 | Train Simulator Classic: CR400AF Loco Add-On | 339157 | [339157-train-simulator-classic-cr400af-loco-add-on.json](./339157-train-simulator-classic-cr400af-loco-add-on.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
 | Train Simulator Classic: DB BR 247 Loco | 191019 | [191019-train-simulator-classic-db-br-247-loco.json](./191019-train-simulator-classic-db-br-247-loco.json) |
