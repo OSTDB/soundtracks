@@ -12142,6 +12142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodsports.TV | 10057 | [10057-bloodsports-tv.json](./10057-bloodsports-tv.json) |
 | Bloodsports.TV: Blood Brawl | 170184 | [170184-bloodsports-tv-blood-brawl.json](./170184-bloodsports-tv-blood-brawl.json) |
 | Bloodstain | 257298 | [257298-bloodstain.json](./257298-bloodstain.json) |
+| Bloodstained: Curse of the Moon Chronicles | 282858 | [282858-bloodstained-curse-of-the-moon-chronicles.json](./282858-bloodstained-curse-of-the-moon-chronicles.json) |
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
 | Bloodstained: Ritual of the Night - Classic II: Dominique's Curse | 306560 | [306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json](./306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json) |
 | Bloodstained: Ritual of the Night - IGA's Back Pack | 155036 | [155036-bloodstained-ritual-of-the-night-igas-back-pack.json](./155036-bloodstained-ritual-of-the-night-igas-back-pack.json) |
