@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yard Sale | 282201 | [282201-yard-sale.json](./282201-yard-sale.json) |
 | Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
 | Yard Sale Junkie | 381415 | [381415-yard-sale-junkie.json](./381415-yard-sale-junkie.json) |
+| Yard Sale Simulator | 250680 | [250680-yard-sale-simulator.json](./250680-yard-sale-simulator.json) |
 | Yard Tale | 101443 | [101443-yard-tale.json](./101443-yard-tale.json) |
 | Yardlings | 133342 | [133342-yardlings.json](./133342-yardlings.json) |
 | Yare.io | 158422 | [158422-yare-io.json](./158422-yare-io.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
 | Your Sisters | 367899 | [367899-your-sisters.json](./367899-your-sisters.json) |
 | Your Smile Beyond Twilight | 41906 | [41906-your-smile-beyond-twilight.json](./41906-your-smile-beyond-twilight.json) |
+| Your Spaceport! | 250681 | [250681-your-spaceport.json](./250681-your-spaceport.json) |
 | Your Spider | 192021 | [192021-your-spider.json](./192021-your-spider.json) |
 | Your Star | 31534 | [31534-your-star.json](./31534-your-star.json) |
 | Your Story | 130093 | [130093-your-story.json](./130093-your-story.json) |
