@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony Overture | 199997 | [199997-harmony-overture.json](./199997-harmony-overture.json) |
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
 | Harmony: The Fall of Reverie | 236662 | [236662-harmony-the-fall-of-reverie.json](./236662-harmony-the-fall-of-reverie.json) |
+| Harmony's Nightmare | 281611 | [281611-harmonys-nightmare.json](./281611-harmonys-nightmare.json) |
 | Harmony's Odyssey | 152093 | [152093-harmonys-odyssey.json](./152093-harmonys-odyssey.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head Sports Football | 301168 | [301168-head-sports-football.json](./301168-head-sports-football.json) |
 | Head Strike: 1v1 Soccer Games | 216033 | [216033-head-strike-1v1-soccer-games.json](./216033-head-strike-1v1-soccer-games.json) |
+| Head the Ball | 281691 | [281691-head-the-ball.json](./281691-head-the-ball.json) |
 | Head to Head Basketball | 245467 | [245467-head-to-head-basketball.json](./245467-head-to-head-basketball.json) |
 | Head To Head Boxing | 375725 | [375725-head-to-head-boxing.json](./375725-head-to-head-boxing.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
@@ -10243,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong 97 Gameboy | 306787 | [306787-hong-kong-97-gameboy.json](./306787-hong-kong-97-gameboy.json) |
 | Hong Kong Haunting: Fishball Girl | 358993 | [358993-hong-kong-haunting-fishball-girl.json](./358993-hong-kong-haunting-fishball-girl.json) |
 | Hong Kong Mahjong | 151915 | [151915-hong-kong-mahjong.json](./151915-hong-kong-mahjong.json) |
+| Hong Kong Mahjong | 281609 | [281609-hong-kong-mahjong.json](./281609-hong-kong-mahjong.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
@@ -10785,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Midnight: Aircraft | 276118 | [276118-horizon-midnight-aircraft.json](./276118-horizon-midnight-aircraft.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
+| Horizon of Horus | 281632 | [281632-horizon-of-horus.json](./281632-horizon-of-horus.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
 | Horizon Sandbox | 405631 | [405631-horizon-sandbox.json](./405631-horizon-sandbox.json) |
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
@@ -10873,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Witch: Crusade | 224960 | [224960-horny-witch-crusade.json](./224960-horny-witch-crusade.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
+| Horo Nite: MelonMelody | 281619 | [281619-horo-nite-melonmelody.json](./281619-horo-nite-melonmelody.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
 | Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
