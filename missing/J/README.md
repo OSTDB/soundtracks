@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ski Rush | 147714 | [147714-jet-ski-rush.json](./147714-jet-ski-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
 | Jet Skiing Race | 290899 | [290899-jet-skiing-race.json](./290899-jet-skiing-race.json) |
+| Jet Soccer | 260429 | [260429-jet-soccer.json](./260429-jet-soccer.json) |
 | Jet Spin | 131114 | [131114-jet-spin.json](./131114-jet-spin.json) |
 | Jet Storm 2: 3D | 241573 | [241573-jet-storm-2-3d.json](./241573-jet-storm-2-3d.json) |
 | Jet Storm: Modern Dogfights | 54140 | [54140-jet-storm-modern-dogfights.json](./54140-jet-storm-modern-dogfights.json) |
@@ -4011,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
 | Junkyard Fury 2 | 211613 | [211613-junkyard-fury-2.json](./211613-junkyard-fury-2.json) |
 | Junkyard Fury 3 | 372444 | [372444-junkyard-fury-3.json](./372444-junkyard-fury-3.json) |
+| Junkyard Fury Breakout | 260372 | [260372-junkyard-fury-breakout.json](./260372-junkyard-fury-breakout.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Killbots | 310293 | [310293-junkyard-killbots.json](./310293-junkyard-killbots.json) |
