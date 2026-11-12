@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi Zombies: Portable | 248218 | [248218-nazi-zombies-portable.json](./248218-nazi-zombies-portable.json) |
 | NaziShoot | 72508 | [72508-nazishoot.json](./72508-nazishoot.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
+| Nazizombie's Slayer | 290595 | [290595-nazizombies-slayer.json](./290595-nazizombies-slayer.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo No Masquerade | 37669 | [37669-nazo-no-masquerade.json](./37669-nazo-no-masquerade.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
