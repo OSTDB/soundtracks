@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
 | Dance Junkie | 302848 | [302848-dance-junkie.json](./302848-dance-junkie.json) |
+| Dance Killer Trick!!!: Boys, Be Dancing | 274080 | [274080-dance-killer-trick-boys-be-dancing.json](./274080-dance-killer-trick-boys-be-dancing.json) |
 | Dance Legend | 56818 | [56818-dance-legend.json](./56818-dance-legend.json) |
 | Dance Loop | 368715 | [368715-dance-loop.json](./368715-dance-loop.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Farm | 160044 | [160044-dark-farm.json](./160044-dark-farm.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Farts: Parody Smell Edition | 383045 | [383045-dark-farts-parody-smell-edition.json](./383045-dark-farts-parody-smell-edition.json) |
+| Dark Fate | 274158 | [274158-dark-fate.json](./274158-dark-fate.json) |
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Fiber | 242713 | [242713-dark-fiber.json](./242713-dark-fiber.json) |
 | Dark Flame | 28953 | [28953-dark-flame.json](./28953-dark-flame.json) |
@@ -5308,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
 | Decabristov Street | 166887 | [166887-decabristov-street.json](./166887-decabristov-street.json) |
+| Decade | 274163 | [274163-decade.json](./274163-decade.json) |
 | Decade | 328368 | [328368-decade.json](./328368-decade.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
@@ -7161,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
 | Demonik | 100235 | [100235-demonik.json](./100235-demonik.json) |
+| Demonized | 274164 | [274164-demonized.json](./274164-demonized.json) |
 | Demonizer | 139678 | [139678-demonizer.json](./139678-demonizer.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
@@ -9096,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Vandead Carnival | 61260 | [61260-diabolik-lovers-vandead-carnival.json](./61260-diabolik-lovers-vandead-carnival.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
+| Diabolos | 274166 | [274166-diabolos.json](./274166-diabolos.json) |
 | Diabolus Ex | 142298 | [142298-diabolus-ex.json](./142298-diabolus-ex.json) |
 | Diabotical | 22384 | [22384-diabotical.json](./22384-diabotical.json) |
 | Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
@@ -9656,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
 | Dieselråttor & Sjömansmöss: Jakten på Solkatten | 399386 | [399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json](./399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json) |
 | Diesuki Dungeon | 376868 | [376868-diesuki-dungeon.json](./376868-diesuki-dungeon.json) |
+| Diet 32in24 | 274162 | [274162-diet-32in24.json](./274162-diet-32in24.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Diet Go Go | 39872 | [39872-diet-go-go.json](./39872-diet-go-go.json) |
 | Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
@@ -14334,6 +14340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooms Hair Salon | 336293 | [336293-dooms-hair-salon.json](./336293-dooms-hair-salon.json) |
 | Dooms Knight | 87914 | [87914-dooms-knight.json](./87914-dooms-knight.json) |
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
+| Doomsday | 274167 | [274167-doomsday.json](./274167-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | DoomsDay | 192161 | [192161-doomsday.json](./192161-doomsday.json) |
 | Doomsday Beans | 277741 | [277741-doomsday-beans.json](./277741-doomsday-beans.json) |
@@ -14379,6 +14386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
 | Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
 | Doomtide | 400041 | [400041-doomtide.json](./400041-doomtide.json) |
+| Doomtown | 274165 | [274165-doomtown.json](./274165-doomtown.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
 | Doomvile Brainrot | 350081 | [350081-doomvile-brainrot.json](./350081-doomvile-brainrot.json) |
