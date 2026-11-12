@@ -2590,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Dash | 66608 | [66608-parking-dash.json](./66608-parking-dash.json) |
 | Parking Driver | 290921 | [290921-parking-driver.json](./290921-parking-driver.json) |
 | Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
+| Parking Expert 2! | 306257 | [306257-parking-expert-2.json](./306257-parking-expert-2.json) |
 | Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
 | Parking Garage Anomaly | 365907 | [365907-parking-garage-anomaly.json](./365907-parking-garage-anomaly.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
 | Pedro Land DX | 203576 | [203576-pedro-land-dx.json](./203576-pedro-land-dx.json) |
 | Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
+| Pedro Temple | 306247 | [306247-pedro-temple.json](./306247-pedro-temple.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pedros Eggventure | 367650 | [367650-pedros-eggventure.json](./367650-pedros-eggventure.json) |
 | Pee & Gity | 56048 | [56048-pee-and-gity.json](./56048-pee-and-gity.json) |
@@ -7140,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillory | 280664 | [280664-pillory.json](./280664-pillory.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillow Champ | 275512 | [275512-pillow-champ.json](./275512-pillow-champ.json) |
+| Pillow Fight | 306171 | [306171-pillow-fight.json](./306171-pillow-fight.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillow of Stone | 176641 | [176641-pillow-of-stone.json](./176641-pillow-of-stone.json) |
