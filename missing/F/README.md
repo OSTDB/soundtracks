@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
 | Fallout 4: Gold Bundle | 89845 | [89845-fallout-4-gold-bundle.json](./89845-fallout-4-gold-bundle.json) |
 | Fallout 4: New Vegas | 110578 | [110578-fallout-4-new-vegas.json](./110578-fallout-4-new-vegas.json) |
+| Fallout 4: Next-Gen Update | 297269 | [297269-fallout-4-next-gen-update.json](./297269-fallout-4-next-gen-update.json) |
 | Fallout 4: Pip-Boy Edition | 45130 | [45130-fallout-4-pip-boy-edition.json](./45130-fallout-4-pip-boy-edition.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 4: Vault-Tec Workshop | 19533 | [19533-fallout-4-vault-tec-workshop.json](./19533-fallout-4-vault-tec-workshop.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Ruby | 417356 | [417356-finding-ruby.json](./417356-finding-ruby.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding Semolina | 183798 | [183798-finding-semolina.json](./183798-finding-semolina.json) |
+| Finding Sparky | 296282 | [296282-finding-sparky.json](./296282-finding-sparky.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
 | Finding Teddy | 16775 | [16775-finding-teddy.json](./16775-finding-teddy.json) |
 | Finding Teddy 2 | 47045 | [47045-finding-teddy-2.json](./47045-finding-teddy-2.json) |
@@ -14065,6 +14067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
 | Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
 | Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! | 60748 | [60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json](./60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json) |
+| Fujisan Nobori | 296288 | [296288-fujisan-nobori.json](./296288-fujisan-nobori.json) |
 | Fujiwara BitterSweet | 136030 | [136030-fujiwara-bittersweet.json](./136030-fujiwara-bittersweet.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fujyoshi | 97665 | [97665-fujyoshi.json](./97665-fujyoshi.json) |
