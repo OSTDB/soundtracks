@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana's Campus Life! | 149907 | [149907-hanas-campus-life.json](./149907-hanas-campus-life.json) |
 | Hana's Light | 360461 | [360461-hanas-light.json](./360461-hanas-light.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
+| Hanabi | 274623 | [274623-hanabi.json](./274623-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Fantast | 179382 | [179382-hanabi-fantast.json](./179382-hanabi-fantast.json) |
 | Hanabi Hyakkei Advance | 49636 | [49636-hanabi-hyakkei-advance.json](./49636-hanabi-hyakkei-advance.json) |
@@ -6435,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege: Class - Shaman | 171182 | [171182-hero-siege-class-shaman.json](./171182-hero-siege-class-shaman.json) |
 | Hero Siege: Class - Shield Lancer | 170734 | [170734-hero-siege-class-shield-lancer.json](./170734-hero-siege-class-shield-lancer.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
+| Hero Siege: Fire Demon Jötunn Skin | 274631 | [274631-hero-siege-fire-demon-jotunn-skin.json](./274631-hero-siege-fire-demon-jotunn-skin.json) |
 | Hero Siege: Gates of Valhalla | 204957 | [204957-hero-siege-gates-of-valhalla.json](./204957-hero-siege-gates-of-valhalla.json) |
 | Hero Siege: Gates of Valhalla - Collector's Edition | 204954 | [204954-hero-siege-gates-of-valhalla-collectors-edition.json](./204954-hero-siege-gates-of-valhalla-collectors-edition.json) |
 | Hero Siege: Guardians of the Cosmos Skin | 286169 | [286169-hero-siege-guardians-of-the-cosmos-skin.json](./286169-hero-siege-guardians-of-the-cosmos-skin.json) |
