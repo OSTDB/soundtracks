@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uyuriih's Perscription | 202600 | [202600-uyuriihs-perscription.json](./202600-uyuriihs-perscription.json) |
 | Uze Feud | 311352 | [311352-uze-feud.json](./311352-uze-feud.json) |
 | Uze Snakes | 270428 | [270428-uze-snakes.json](./270428-uze-snakes.json) |
+| Uzebox Football | 311372 | [311372-uzebox-football.json](./311372-uzebox-football.json) |
 | Uzebox Tactics | 311336 | [311336-uzebox-tactics.json](./311336-uzebox-tactics.json) |
 | UzeJump | 311337 | [311337-uzejump.json](./311337-uzejump.json) |
 | Uzekickers | 311353 | [311353-uzekickers.json](./311353-uzekickers.json) |
