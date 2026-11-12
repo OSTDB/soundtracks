@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Winning Eleven 9: Asia Championship | 220948 | [220948-j-league-winning-eleven-9-asia-championship.json](./220948-j-league-winning-eleven-9-asia-championship.json) |
 | J.League Winning Eleven Tactics | 221002 | [221002-j-league-winning-eleven-tactics.json](./221002-j-league-winning-eleven-tactics.json) |
 | J.League Winning Goal | 48459 | [48459-j-league-winning-goal.json](./48459-j-league-winning-goal.json) |
+| J.M.Rhythm | 288424 | [288424-j-m-rhythm.json](./288424-j-m-rhythm.json) |
 | J.R.R. Tolkien's Lord of the Rings: Volume 1 | 81467 | [81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json](./81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol II: The Two Towers | 50417 | [50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json](./50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
 | Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Luonto | 75943 | [75943-journey-to-luonto.json](./75943-journey-to-luonto.json) |
+| Journey to Monolith | 288381 | [288381-journey-to-monolith.json](./288381-journey-to-monolith.json) |
 | Journey to Moonray | 158049 | [158049-journey-to-moonray.json](./158049-journey-to-moonray.json) |
 | Journey to Natsai | 244033 | [244033-journey-to-natsai.json](./244033-journey-to-natsai.json) |
 | Journey to New Atlantis | 127678 | [127678-journey-to-new-atlantis.json](./127678-journey-to-new-atlantis.json) |
@@ -3304,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Retro Style!: Bloodhound | 265203 | [265203-juicy-retro-style-bloodhound.json](./265203-juicy-retro-style-bloodhound.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
 | Juilliard Music Adventure | 85932 | [85932-juilliard-music-adventure.json](./85932-juilliard-music-adventure.json) |
+| Jujinchan | 288418 | [288418-jujinchan.json](./288418-jujinchan.json) |
 | Juju | 17393 | [17393-juju.json](./17393-juju.json) |
 | JuJu | 385374 | [385374-juju.json](./385374-juju.json) |
 | Jujubos | 170936 | [170936-jujubos.json](./170936-jujubos.json) |
