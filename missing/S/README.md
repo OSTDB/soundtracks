@@ -1656,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand is the Soul | 75610 | [75610-sand-is-the-soul.json](./75610-sand-is-the-soul.json) |
 | Sand Land: Collector Edition | 283584 | [283584-sand-land-collector-edition.json](./283584-sand-land-collector-edition.json) |
 | Sand Land: Custom Vehicle Colors - 3 Types | 311735 | [311735-sand-land-custom-vehicle-colors-3-types.json](./311735-sand-land-custom-vehicle-colors-3-types.json) |
+| Sand Land: Deluxe Edition | 301198 | [301198-sand-land-deluxe-edition.json](./301198-sand-land-deluxe-edition.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sand Nomads | 298225 | [298225-sand-nomads.json](./298225-sand-nomads.json) |
 | Sand Painting Game | 140301 | [140301-sand-painting-game.json](./140301-sand-painting-game.json) |
@@ -9137,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Soul | 6593 | [6593-shining-soul.json](./6593-shining-soul.json) |
 | Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
 | Shining Star | 222772 | [222772-shining-star.json](./222772-shining-star.json) |
+| Shining Star | 301179 | [301179-shining-star.json](./301179-shining-star.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shining Stars 4: Another Dimensional Incident | 313054 | [313054-shining-stars-4-another-dimensional-incident.json](./313054-shining-stars-4-another-dimensional-incident.json) |
@@ -14468,6 +14470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide N' Go | 218534 | [218534-slide-n-go.json](./218534-slide-n-go.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
 | Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
+| Slide Puzzle | 301167 | [301167-slide-puzzle.json](./301167-slide-puzzle.json) |
 | Slide Puzzle | 357989 | [357989-slide-puzzle.json](./357989-slide-puzzle.json) |
 | Slide Puzzle World History | 300850 | [300850-slide-puzzle-world-history.json](./300850-slide-puzzle-world-history.json) |
 | Slide Puzzle: Cute Moe Girls | 241272 | [241272-slide-puzzle-cute-moe-girls.json](./241272-slide-puzzle-cute-moe-girls.json) |
