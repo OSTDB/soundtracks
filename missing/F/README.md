@@ -4076,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felampire | 297844 | [297844-felampire.json](./297844-felampire.json) |
 | Felbound | 295826 | [295826-felbound.json](./295826-felbound.json) |
 | Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
+| Felicia | 264265 | [264265-felicia.json](./264265-felicia.json) |
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
 | Feline | 131798 | [131798-feline.json](./131798-feline.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
 | Fera Knight | 212000 | [212000-fera-knight.json](./212000-fera-knight.json) |
+| Fera: The Sundered Tribes | 264289 | [264289-fera-the-sundered-tribes.json](./264289-fera-the-sundered-tribes.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
 | Feral Absence | 413785 | [413785-feral-absence.json](./413785-feral-absence.json) |
 | Feral Attraction | 425875 | [425875-feral-attraction.json](./425875-feral-attraction.json) |
@@ -9872,6 +9874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
 | Football 2 | 225530 | [225530-football-2.json](./225530-football-2.json) |
 | Football 2: Breakthrough Gaming Arcade | 237722 | [237722-football-2-breakthrough-gaming-arcade.json](./237722-football-2-breakthrough-gaming-arcade.json) |
+| Football 2002 | 264372 | [264372-football-2002.json](./264372-football-2002.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
 | Football 26 League Superstar | 390844 | [390844-football-26-league-superstar.json](./390844-football-26-league-superstar.json) |
@@ -15187,6 +15190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Wars | 27892 | [27892-future-wars.json](./27892-future-wars.json) |
 | Future Weapon | 257271 | [257271-future-weapon.json](./257271-future-weapon.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
+| Future Zone | 264283 | [264283-future-zone.json](./264283-future-zone.json) |
 | Future? No Thanks! | 358273 | [358273-future-no-thanks.json](./358273-future-no-thanks.json) |
 | FutureGrind | 11568 | [11568-futuregrind.json](./11568-futuregrind.json) |
 | Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
