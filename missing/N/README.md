@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
 | Natural Corde | 351267 | [351267-natural-corde.json](./351267-natural-corde.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
+| Natural Disaster: A Butterfly's Guide to Mass Destruction | 263238 | [263238-natural-disaster-a-butterflys-guide-to-mass-destruction.json](./263238-natural-disaster-a-butterflys-guide-to-mass-destruction.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
 | Natural Habitat | 154261 | [154261-natural-habitat.json](./154261-natural-habitat.json) |
