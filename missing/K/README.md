@@ -5455,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokoa | 305480 | [305480-kokoa.json](./305480-kokoa.json) |
 | Kokoda VR | 74947 | [74947-kokoda-vr.json](./74947-kokoda-vr.json) |
+| Kokodi | 300617 | [300617-kokodi.json](./300617-kokodi.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokojokoa | 294398 | [294398-kokojokoa.json](./294398-kokojokoa.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
@@ -6612,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurai Yama | 346310 | [346310-kurai-yama.json](./346310-kurai-yama.json) |
 | Kurama and the Cursed Isles | 196986 | [196986-kurama-and-the-cursed-isles.json](./196986-kurama-and-the-cursed-isles.json) |
+| Kuray Infinite Fusion | 300576 | [300576-kuray-infinite-fusion.json](./300576-kuray-infinite-fusion.json) |
 | Kurayami | 187054 | [187054-kurayami.json](./187054-kurayami.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurayami no Hate de Kimi wo Matsu | 130479 | [130479-kurayami-no-hate-de-kimi-wo-matsu.json](./130479-kurayami-no-hate-de-kimi-wo-matsu.json) |
