@@ -2160,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LCD Dungeon System | 94173 | [94173-lcd-dungeon-system.json](./94173-lcd-dungeon-system.json) |
 | LCD Head Chaser | 385730 | [385730-lcd-head-chaser.json](./385730-lcd-head-chaser.json) |
 | LCD Sports: American Football | 114162 | [114162-lcd-sports-american-football.json](./114162-lcd-sports-american-football.json) |
+| LCD, Please | 260929 | [260929-lcd-please.json](./260929-lcd-please.json) |
 | LDS Articles of Faith | 102738 | [102738-lds-articles-of-faith.json](./102738-lds-articles-of-faith.json) |
 | LDS Fun | 100939 | [100939-lds-fun.json](./100939-lds-fun.json) |
 | LDS Gun Dating | 400272 | [400272-lds-gun-dating.json](./400272-lds-gun-dating.json) |
@@ -8544,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Damned | 259332 | [259332-lost-and-damned.json](./259332-lost-and-damned.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Forgotten | 268637 | [268637-lost-and-forgotten.json](./268637-lost-and-forgotten.json) |
+| Lost and Found | 260936 | [260936-lost-and-found.json](./260936-lost-and-found.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
 | Lost and Foundry | 287304 | [287304-lost-and-foundry.json](./287304-lost-and-foundry.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
