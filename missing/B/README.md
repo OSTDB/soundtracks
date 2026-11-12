@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana of Doom | 366714 | [366714-banana-of-doom.json](./366714-banana-of-doom.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
+| Banana Quest | 276910 | [276910-banana-quest.json](./276910-banana-quest.json) |
 | Banana Ragdoll | 336750 | [336750-banana-ragdoll.json](./336750-banana-ragdoll.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
