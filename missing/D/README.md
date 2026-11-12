@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkflame Survivors | 343121 | [343121-darkflame-survivors.json](./343121-darkflame-survivors.json) |
 | Darkflow | 316363 | [316363-darkflow.json](./316363-darkflow.json) |
 | Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
+| DarkGems | 275201 | [275201-darkgems.json](./275201-darkgems.json) |
 | Darkhand | 387951 | [387951-darkhand.json](./387951-darkhand.json) |
 | Darkhaven | 359222 | [359222-darkhaven.json](./359222-darkhaven.json) |
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
@@ -2337,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkiss: Chapter 1 - The Awakening | 59720 | [59720-darkiss-chapter-1-the-awakening.json](./59720-darkiss-chapter-1-the-awakening.json) |
 | Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
+| Darkland 2 | 275281 | [275281-darkland-2.json](./275281-darkland-2.json) |
 | Darkland II | 165838 | [165838-darkland-ii.json](./165838-darkland-ii.json) |
 | Darklands | 2467 | [2467-darklands.json](./2467-darklands.json) |
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
@@ -11286,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Friends | 47859 | [47859-disney-friends.json](./47859-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
+| Disney Frozen: Arendelle’s Winter Festival | 275268 | [275268-disney-frozen-arendelle-s-winter-festival.json](./275268-disney-frozen-arendelle-s-winter-festival.json) |
 | Disney Fun & Skills Pack | 85780 | [85780-disney-fun-and-skills-pack.json](./85780-disney-fun-and-skills-pack.json) |
 | Disney Game It! Classic Pals | 228812 | [228812-disney-game-it-classic-pals.json](./228812-disney-game-it-classic-pals.json) |
 | Disney Game It! Princess Pals | 228813 | [228813-disney-game-it-princess-pals.json](./228813-disney-game-it-princess-pals.json) |
@@ -20389,6 +20392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
 | Dusk Tactics | 130638 | [130638-dusk-tactics.json](./130638-dusk-tactics.json) |
+| Dusk Till Dawn | 275269 | [275269-dusk-till-dawn.json](./275269-dusk-till-dawn.json) |
 | Dusk Warlocks | 128200 | [128200-dusk-warlocks.json](./128200-dusk-warlocks.json) |
 | Dusk: Intruder Edition | 124950 | [124950-dusk-intruder-edition.json](./124950-dusk-intruder-edition.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
