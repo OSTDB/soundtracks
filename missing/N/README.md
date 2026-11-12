@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina Aquila: Legal Eagle, Chapter IV - Sacred Feathers | 220450 | [220450-nina-aquila-legal-eagle-chapter-iv-sacred-feathers.json](./220450-nina-aquila-legal-eagle-chapter-iv-sacred-feathers.json) |
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
+| Nina Tonnerre | 312945 | [312945-nina-tonnerre.json](./312945-nina-tonnerre.json) |
 | Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
 | Nina: Season of Adventures | 326681 | [326681-nina-season-of-adventures.json](./326681-nina-season-of-adventures.json) |
 | Nina’s Sugar Cage | 347408 | [347408-nina-s-sugar-cage.json](./347408-nina-s-sugar-cage.json) |
@@ -6840,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
 | Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
+| NoLimits 2: Vekoma MK1101 | 313007 | [313007-nolimits-2-vekoma-mk1101.json](./313007-nolimits-2-vekoma-mk1101.json) |
 | NoLimits Roller Coaster Simulation | 80060 | [80060-nolimits-roller-coaster-simulation.json](./80060-nolimits-roller-coaster-simulation.json) |
 | Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
 | NolyRhythm | 390731 | [390731-nolyrhythm.json](./390731-nolyrhythm.json) |
@@ -7834,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
 | NTR Legend | 345756 | [345756-ntr-legend.json](./345756-ntr-legend.json) |
 | NTR Life | 392884 | [392884-ntr-life.json](./392884-ntr-life.json) |
+| NTR Loop | 313006 | [313006-ntr-loop.json](./313006-ntr-loop.json) |
 | NTR Sexy Girl With Cold-hearded | 389765 | [389765-ntr-sexy-girl-with-cold-hearded.json](./389765-ntr-sexy-girl-with-cold-hearded.json) |
 | NTR Tales: Adventurer Corruption | 385878 | [385878-ntr-tales-adventurer-corruption.json](./385878-ntr-tales-adventurer-corruption.json) |
 | NTR!? NTRed!? Trendy Slut's One Million Yen Repaying Project! | 82647 | [82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json](./82647-ntr-ntred-trendy-sluts-one-million-yen-repaying-project.json) |
