@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
 | Magical Kid Wiz | 41695 | [41695-magical-kid-wiz.json](./41695-magical-kid-wiz.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
+| Magical Kiss | 257124 | [257124-magical-kiss.json](./257124-magical-kiss.json) |
 | Magical Kitchen | 277698 | [277698-magical-kitchen.json](./277698-magical-kitchen.json) |
 | Magical Lands | 269958 | [269958-magical-lands.json](./269958-magical-lands.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
@@ -15329,6 +15330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiXem Delux | 70289 | [70289-mixem-delux.json](./70289-mixem-delux.json) |
 | Mixerpiece | 106069 | [106069-mixerpiece.json](./106069-mixerpiece.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
+| Mixing Ammos | 257031 | [257031-mixing-ammos.json](./257031-mixing-ammos.json) |
 | Mixing Suns | 183389 | [183389-mixing-suns.json](./183389-mixing-suns.json) |
 | MixMaster | 77806 | [77806-mixmaster.json](./77806-mixmaster.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
@@ -20640,6 +20642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muhe Space | 374902 | [374902-muhe-space.json](./374902-muhe-space.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Muito, Muito Minimalista: FES | 284377 | [284377-muito-muito-minimalista-fes.json](./284377-muito-muito-minimalista-fes.json) |
+| Mujaffa-Spillet | 257039 | [257039-mujaffa-spillet.json](./257039-mujaffa-spillet.json) |
 | Mujina | 259060 | [259060-mujina.json](./259060-mujina.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
 | Mujinkun no Chotto Arukanai? | 284449 | [284449-mujinkun-no-chotto-arukanai.json](./284449-mujinkun-no-chotto-arukanai.json) |
