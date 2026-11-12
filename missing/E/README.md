@@ -8243,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiled Into Darkness | 291788 | [291788-exiled-into-darkness.json](./291788-exiled-into-darkness.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
 | Exiled to the Void | 110564 | [110564-exiled-to-the-void.json](./110564-exiled-to-the-void.json) |
+| Exiledge | 259873 | [259873-exiledge.json](./259873-exiledge.json) |
 | Exiler | 307799 | [307799-exiler.json](./307799-exiler.json) |
 | Exiles | 106063 | [106063-exiles.json](./106063-exiles.json) |
 | Exiles | 382136 | [382136-exiles.json](./382136-exiles.json) |
