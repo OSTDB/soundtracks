@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last War: Apocalypse Strikes | 74891 | [74891-last-war-apocalypse-strikes.json](./74891-last-war-apocalypse-strikes.json) |
 | Last warrior | 120584 | [120584-last-warrior.json](./120584-last-warrior.json) |
 | Last Warrior | 266713 | [266713-last-warrior.json](./266713-last-warrior.json) |
+| Last Warrior Arena | 263800 | [263800-last-warrior-arena.json](./263800-last-warrior-arena.json) |
 | Last Watchtower | 376669 | [376669-last-watchtower.json](./376669-last-watchtower.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week | 128088 | [128088-last-week.json](./128088-last-week.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Monsters | 386908 | [386908-legends-of-monsters.json](./386908-legends-of-monsters.json) |
 | Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
 | Legends of Murder II: Grey Haven | 68736 | [68736-legends-of-murder-ii-grey-haven.json](./68736-legends-of-murder-ii-grey-haven.json) |
+| Legends of Mythology | 263799 | [263799-legends-of-mythology.json](./263799-legends-of-mythology.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Norrath: Ethernauts | 209412 | [209412-legends-of-norrath-ethernauts.json](./209412-legends-of-norrath-ethernauts.json) |
 | Legends of Norrath: Forsworn | 209409 | [209409-legends-of-norrath-forsworn.json](./209409-legends-of-norrath-forsworn.json) |
@@ -7533,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoginToShootingRangeInServer00 VR | 129416 | [129416-logintoshootingrangeinserver00-vr.json](./129416-logintoshootingrangeinserver00-vr.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logisch! - Die Denk-Boxx Vol. 1 | 81108 | [81108-logisch-die-denk-boxx-vol-1.json](./81108-logisch-die-denk-boxx-vol-1.json) |
+| Logistic Master | 263712 | [263712-logistic-master.json](./263712-logistic-master.json) |
 | Logistical | 29933 | [29933-logistical.json](./29933-logistical.json) |
 | Logistical 2 | 166381 | [166381-logistical-2.json](./166381-logistical-2.json) |
 | Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
