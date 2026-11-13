@@ -5645,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LimBall | 219187 | [219187-limball.json](./219187-limball.json) |
 | Limber | 179881 | [179881-limber.json](./179881-limber.json) |
 | Limberjack | 32123 | [32123-limberjack.json](./32123-limberjack.json) |
+| Limbo | 202299 | [202299-limbo.json](./202299-limbo.json) |
 | Limbo | 395367 | [395367-limbo.json](./395367-limbo.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Break | 406443 | [406443-limbo-break.json](./406443-limbo-break.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loan Shark | 350592 | [350592-loan-shark.json](./350592-loan-shark.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
 | Loathe the Game | 127533 | [127533-loathe-the-game.json](./127533-loathe-the-game.json) |
+| Loathful | 202286 | [202286-loathful.json](./202286-loathful.json) |
 | Loathing Heart | 107505 | [107505-loathing-heart.json](./107505-loathing-heart.json) |
 | Loathsome Cleft | 313034 | [313034-loathsome-cleft.json](./313034-loathsome-cleft.json) |
 | Lobber | 257987 | [257987-lobber.json](./257987-lobber.json) |
