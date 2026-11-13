@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
 | Realm of Chaos 2 | 321261 | [321261-realm-of-chaos-2.json](./321261-realm-of-chaos-2.json) |
 | Realm of Chaos: 25th Anniversary Edition | 300744 | [300744-realm-of-chaos-25th-anniversary-edition.json](./300744-realm-of-chaos-25th-anniversary-edition.json) |
+| Realm of Cubes | 201599 | [201599-realm-of-cubes.json](./201599-realm-of-cubes.json) |
 | Realm of Darkness | 24047 | [24047-realm-of-darkness.json](./24047-realm-of-darkness.json) |
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
 | Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Repossession: Mafia Debt | 375689 | [375689-repossession-mafia-debt.json](./375689-repossession-mafia-debt.json) |
+| RepresaL | 201333 | [201333-represal.json](./201333-represal.json) |
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
 | Repressed Gamer | 180436 | [180436-repressed-gamer.json](./180436-repressed-gamer.json) |
 | Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
@@ -11020,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Station | 233668 | [233668-rogue-station.json](./233668-rogue-station.json) |
 | Rogue Station Defense | 318347 | [318347-rogue-station-defense.json](./318347-rogue-station-defense.json) |
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
+| Rogue Stormers & Giana Sisters Bundle | 201726 | [201726-rogue-stormers-and-giana-sisters-bundle.json](./201726-rogue-stormers-and-giana-sisters-bundle.json) |
 | Rogue Suits | 423228 | [423228-rogue-suits.json](./423228-rogue-suits.json) |
 | Rogue Sundown | 396638 | [396638-rogue-sundown.json](./396638-rogue-sundown.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
