@@ -6271,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here's the Champion Squirrel | 96805 | [96805-heres-the-champion-squirrel.json](./96805-heres-the-champion-squirrel.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
+| Heredity: The Eternal Curse | 211859 | [211859-heredity-the-eternal-curse.json](./211859-heredity-the-eternal-curse.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Herency | 190406 | [190406-herency.json](./190406-herency.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
@@ -12908,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundun | 157389 | [157389-hundun.json](./157389-hundun.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
+| Hungaz: Epic Minigames | 211876 | [211876-hungaz-epic-minigames.json](./211876-hungaz-epic-minigames.json) |
 | Hunger | 168530 | [168530-hunger.json](./168530-hunger.json) |
 | Hunger | 323785 | [323785-hunger.json](./323785-hunger.json) |
 | Hunger | 41954 | [41954-hunger.json](./41954-hunger.json) |
