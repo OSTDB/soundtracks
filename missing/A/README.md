@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| A | 180216 | [180216-a.json](./180216-a.json) |
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
 | A 1-2-3 | 299784 | [299784-a-1-2-3.json](./299784-a-1-2-3.json) |
 | A 20 Second Platformer | 305727 | [305727-a-20-second-platformer.json](./305727-a-20-second-platformer.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Secret Between You and Me | 314792 | [314792-a-secret-between-you-and-me.json](./314792-a-secret-between-you-and-me.json) |
 | A Sector Darkly | 420330 | [420330-a-sector-darkly.json](./420330-a-sector-darkly.json) |
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
+| A Series of Interactive Stories Where No Matter What You Do You Are Immediately Killed by a Werewolf | 179760 | [179760-a-series-of-interactive-stories-where-no-matter-what-you-do-you-are-immediately-killed-by-a-werewolf.json](./179760-a-series-of-interactive-stories-where-no-matter-what-you-do-you-are-immediately-killed-by-a-werewolf.json) |
 | A Series of Temporal Mishaps | 193269 | [193269-a-series-of-temporal-mishaps.json](./193269-a-series-of-temporal-mishaps.json) |
 | A Session with Dr. Liebnitz | 338402 | [338402-a-session-with-dr-liebnitz.json](./338402-a-session-with-dr-liebnitz.json) |
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
@@ -2350,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absinthia | 194851 | [194851-absinthia.json](./194851-absinthia.json) |
+| Abskur | 180180 | [180180-abskur.json](./180180-abskur.json) |
 | Absoloot | 30530 | [30530-absoloot.json](./30530-absoloot.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
@@ -3119,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles-Sword-ll | 379036 | [379036-achilles-sword-ll.json](./379036-achilles-sword-ll.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
+| Achromate | 180168 | [180168-achromate.json](./180168-achromate.json) |
 | Achromatic | 107840 | [107840-achromatic.json](./107840-achromatic.json) |
 | Achromatic | 191950 | [191950-achromatic.json](./191950-achromatic.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
@@ -5130,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against Great Darkness | 242364 | [242364-against-great-darkness.json](./242364-against-great-darkness.json) |
 | Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
+| Against Light | 180187 | [180187-against-light.json](./180187-against-light.json) |
 | Against Rome | 25460 | [25460-against-rome.json](./25460-against-rome.json) |
 | Against the Backrooms | 226101 | [226101-against-the-backrooms.json](./226101-against-the-backrooms.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
@@ -8538,12 +8543,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone A Long | 324798 | [324798-alone-a-long.json](./324798-alone-a-long.json) |
 | Alone Again: The Countryside | 207607 | [207607-alone-again-the-countryside.json](./207607-alone-again-the-countryside.json) |
 | Alone Among The Stars | 316529 | [316529-alone-among-the-stars.json](./316529-alone-among-the-stars.json) |
+| Alone Among the Stars: Twine Edition | 179773 | [179773-alone-among-the-stars-twine-edition.json](./179773-alone-among-the-stars-twine-edition.json) |
 | Alone and Dangerous | 274323 | [274323-alone-and-dangerous.json](./274323-alone-and-dangerous.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone Girl | 411281 | [411281-alone-girl.json](./411281-alone-girl.json) |
 | Alone House | 419949 | [419949-alone-house.json](./419949-alone-house.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
+| Alone in Pico | 180163 | [180163-alone-in-pico.json](./180163-alone-in-pico.json) |
 | Alone in Space | 271671 | [271671-alone-in-space.json](./271671-alone-in-space.json) |
 | Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Backrooms | 420950 | [420950-alone-in-the-backrooms.json](./420950-alone-in-the-backrooms.json) |
@@ -12088,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
 | Another Lost Phone: Laura's Story | 55048 | [55048-another-lost-phone-lauras-story.json](./55048-another-lost-phone-lauras-story.json) |
 | Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
+| Another Mario Adventure | 180165 | [180165-another-mario-adventure.json](./180165-another-mario-adventure.json) |
 | Another Mario World | 267606 | [267606-another-mario-world.json](./267606-another-mario-world.json) |
 | Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
 | Another Mind | 74800 | [74800-another-mind.json](./74800-another-mind.json) |
