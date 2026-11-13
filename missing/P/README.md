@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Japan '46 | 131998 | [131998-panzer-campaigns-japan-46.json](./131998-panzer-campaigns-japan-46.json) |
 | Panzer Campaigns: Kharkov '42 | 106792 | [106792-panzer-campaigns-kharkov-42.json](./106792-panzer-campaigns-kharkov-42.json) |
 | Panzer Campaigns: Kharkov '42 Gold | 124714 | [124714-panzer-campaigns-kharkov-42-gold.json](./124714-panzer-campaigns-kharkov-42-gold.json) |
+| Panzer Campaigns: Kiev '43 | 205716 | [205716-panzer-campaigns-kiev-43.json](./205716-panzer-campaigns-kiev-43.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
 | Panzer Campaigns: Mius '43 | 111317 | [111317-panzer-campaigns-mius-43.json](./111317-panzer-campaigns-mius-43.json) |
 | Panzer Campaigns: Moscow'41 | 142822 | [142822-panzer-campaigns-moscow41.json](./142822-panzer-campaigns-moscow41.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Philippines ’44 | 240459 | [240459-panzer-campaigns-philippines-44.json](./240459-panzer-campaigns-philippines-44.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Campaigns: Salerno '43 Gold | 124735 | [124735-panzer-campaigns-salerno-43-gold.json](./124735-panzer-campaigns-salerno-43-gold.json) |
+| Panzer Campaigns: Scheldt '44 | 205684 | [205684-panzer-campaigns-scheldt-44.json](./205684-panzer-campaigns-scheldt-44.json) |
 | Panzer Campaigns: Sealion '40 Gold | 124716 | [124716-panzer-campaigns-sealion-40-gold.json](./124716-panzer-campaigns-sealion-40-gold.json) |
 | Panzer Campaigns: Sicily '43 | 77808 | [77808-panzer-campaigns-sicily-43.json](./77808-panzer-campaigns-sicily-43.json) |
 | Panzer Campaigns: Sicily '43 Gold | 124732 | [124732-panzer-campaigns-sicily-43-gold.json](./124732-panzer-campaigns-sicily-43-gold.json) |
@@ -12841,6 +12843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
 | Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
 | Pokonyan! Henpokorin Adventure | 135497 | [135497-pokonyan-henpokorin-adventure.json](./135497-pokonyan-henpokorin-adventure.json) |
+| Pokonyan! Yume no Daibouken | 205705 | [205705-pokonyan-yume-no-daibouken.json](./205705-pokonyan-yume-no-daibouken.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
@@ -14268,6 +14271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ports of Call Deluxe 3D 2024 | 310797 | [310797-ports-of-call-deluxe-3d-2024.json](./310797-ports-of-call-deluxe-3d-2024.json) |
 | Ports Simulator | 158938 | [158938-ports-simulator.json](./158938-ports-simulator.json) |
 | Portugal 1111: A Conquista de Soure | 94365 | [94365-portugal-1111-a-conquista-de-soure.json](./94365-portugal-1111-a-conquista-de-soure.json) |
+| Porun-chan no Onigiri Daisuki | 205711 | [205711-porun-chan-no-onigiri-daisuki.json](./205711-porun-chan-no-onigiri-daisuki.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Posable Heroes | 74362 | [74362-posable-heroes.json](./74362-posable-heroes.json) |
 | Pose Crush: Waifu Edition | 370271 | [370271-pose-crush-waifu-edition.json](./370271-pose-crush-waifu-edition.json) |
@@ -19047,6 +19051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punihi Loader 2 | 214985 | [214985-punihi-loader-2.json](./214985-punihi-loader-2.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
+| Punirunzu | 205721 | [205721-punirunzu.json](./205721-punirunzu.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
 | Punished Talents: Dark Knowledge - Collector's Edition | 228253 | [228253-punished-talents-dark-knowledge-collectors-edition.json](./228253-punished-talents-dark-knowledge-collectors-edition.json) |
 | Punished Talents: Seven Muses | 140275 | [140275-punished-talents-seven-muses.json](./140275-punished-talents-seven-muses.json) |
