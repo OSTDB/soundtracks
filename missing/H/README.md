@@ -11039,6 +11039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horrific Xanatorium | 266044 | [266044-horrific-xanatorium.json](./266044-horrific-xanatorium.json) |
+| Horrifical Maze | 226368 | [226368-horrifical-maze.json](./226368-horrifical-maze.json) |
 | Horrified Hector! | 321718 | [321718-horrified-hector.json](./321718-horrified-hector.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
 | Horror | 387419 | [387419-horror.json](./387419-horror.json) |
