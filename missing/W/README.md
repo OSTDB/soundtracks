@@ -6621,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Survival | 206404 | [206404-winter-survival.json](./206404-winter-survival.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Winter Survivor Protocol | 392125 | [392125-winter-survivor-protocol.json](./392125-winter-survivor-protocol.json) |
+| Winter Things | 207429 | [207429-winter-things.json](./207429-winter-things.json) |
 | Winter Tramp | 201683 | [201683-winter-tramp.json](./201683-winter-tramp.json) |
 | Winter Valley Hike | 264523 | [264523-winter-valley-hike.json](./264523-winter-valley-hike.json) |
 | Winter Voices | 16220 | [16220-winter-voices.json](./16220-winter-voices.json) |
