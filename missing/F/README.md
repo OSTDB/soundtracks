@@ -11170,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken 64 | 327724 | [327724-forsaken-64.json](./327724-forsaken-64.json) |
 | Forsaken AR: Factory Reset | 234247 | [234247-forsaken-ar-factory-reset.json](./234247-forsaken-ar-factory-reset.json) |
+| Forsaken Barn | 201217 | [201217-forsaken-barn.json](./201217-forsaken-barn.json) |
 | Forsaken Castle | 28406 | [28406-forsaken-castle.json](./28406-forsaken-castle.json) |
 | Forsaken Champions | 201552 | [201552-forsaken-champions.json](./201552-forsaken-champions.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
@@ -15138,6 +15139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuser: VIP Edition | 139827 | [139827-fuser-vip-edition.json](./139827-fuser-vip-edition.json) |
 | FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
 | Fúshēng Mèng | 399047 | [399047-fusheng-meng.json](./399047-fusheng-meng.json) |
+| Fushichou no Yume | 201203 | [201203-fushichou-no-yume.json](./201203-fushichou-no-yume.json) |
 | Fushigi Dagashiya Sentendou: Fushigi Dagashiya-banashi 50-sen | 271514 | [271514-fushigi-dagashiya-sentendou-fushigi-dagashiya-banashi-50-sen.json](./271514-fushigi-dagashiya-sentendou-fushigi-dagashiya-banashi-50-sen.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
