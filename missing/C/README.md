@@ -6996,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | Chat-A-Lot | 84577 | [84577-chat-a-lot.json](./84577-chat-a-lot.json) |
 | Chat, Is This Real? | 405799 | [405799-chat-is-this-real.json](./405799-chat-is-this-real.json) |
+| Chataclysm | 243916 | [243916-chataclysm.json](./243916-chataclysm.json) |
 | ChatAid | 397600 | [397600-chataid.json](./397600-chataid.json) |
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
