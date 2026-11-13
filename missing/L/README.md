@@ -4883,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life In Yima | 144930 | [144930-life-in-yima.json](./144930-life-in-yima.json) |
 | Life Inc. | 389727 | [389727-life-inc.json](./389727-life-inc.json) |
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
+| Life is 2-D | 193380 | [193380-life-is-2-d.json](./193380-life-is-2-d.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life Is Beautiful | 299617 | [299617-life-is-beautiful.json](./299617-life-is-beautiful.json) |
