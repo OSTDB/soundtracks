@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Skies: The Red Ace | 63183 | [63183-master-of-the-skies-the-red-ace.json](./63183-master-of-the-skies-the-red-ace.json) |
 | Master of the Tattooverse | 208823 | [208823-master-of-the-tattooverse.json](./208823-master-of-the-tattooverse.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
+| Master of the Wizards | 193397 | [193397-master-of-the-wizards.json](./193397-master-of-the-wizards.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
 | Master of Weapon | 4532 | [4532-master-of-weapon.json](./4532-master-of-weapon.json) |
@@ -5946,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Marbles 3 | 337237 | [337237-match-marbles-3.json](./337237-match-marbles-3.json) |
 | Match Marbles 6 | 336992 | [336992-match-marbles-6.json](./336992-match-marbles-6.json) |
 | Match Master | 238152 | [238152-match-master.json](./238152-match-master.json) |
+| Match Masters | 193386 | [193386-match-masters.json](./193386-match-masters.json) |
 | Match Match Mania! | 148969 | [148969-match-match-mania.json](./148969-match-match-mania.json) |
 | Match Me If You Can | 248806 | [248806-match-me-if-you-can.json](./248806-match-me-if-you-can.json) |
 | Match More | 32671 | [32671-match-more.json](./32671-match-more.json) |
@@ -7348,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechaconda | 348593 | [348593-mechaconda.json](./348593-mechaconda.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
 | MechaGore | 32586 | [32586-mechagore.json](./32586-mechagore.json) |
+| Mechaguard | 192997 | [192997-mechaguard.json](./192997-mechaguard.json) |
 | MechaHead League | 144546 | [144546-mechahead-league.json](./144546-mechahead-league.json) |
 | Mechahearts | 235382 | [235382-mechahearts.json](./235382-mechahearts.json) |
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
@@ -8620,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
 | Mega Man X Innocent Impulse | 247090 | [247090-mega-man-x-innocent-impulse.json](./247090-mega-man-x-innocent-impulse.json) |
 | Mega Man X Legacy Collection 2 | 96254 | [96254-mega-man-x-legacy-collection-2.json](./96254-mega-man-x-legacy-collection-2.json) |
+| Mega Man X Online: Deathmatch | 193389 | [193389-mega-man-x-online-deathmatch.json](./193389-mega-man-x-online-deathmatch.json) |
 | Mega Man X Synthesis | 335396 | [335396-mega-man-x-synthesis.json](./335396-mega-man-x-synthesis.json) |
 | Mega Man X: 30th Anniversary Edition | 195937 | [195937-mega-man-x-30th-anniversary-edition.json](./195937-mega-man-x-30th-anniversary-edition.json) |
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
@@ -22386,6 +22390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Music Workshop | 105693 | [105693-my-first-music-workshop.json](./105693-my-first-music-workshop.json) |
 | My First PC Game | 388442 | [388442-my-first-pc-game.json](./388442-my-first-pc-game.json) |
 | My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
+| My First Rayman | 193374 | [193374-my-first-rayman.json](./193374-my-first-rayman.json) |
 | My First Songs | 84631 | [84631-my-first-songs.json](./84631-my-first-songs.json) |
 | My First Songs | 84715 | [84715-my-first-songs.json](./84715-my-first-songs.json) |
 | My First Songs 2 | 84630 | [84630-my-first-songs-2.json](./84630-my-first-songs-2.json) |
@@ -22746,6 +22751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Career | 261852 | [261852-my-little-career.json](./261852-my-little-career.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
 | My Little Coffee Shop | 371548 | [371548-my-little-coffee-shop.json](./371548-my-little-coffee-shop.json) |
+| My Little Colony | 193393 | [193393-my-little-colony.json](./193393-my-little-colony.json) |
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Farmies | 86641 | [86641-my-little-farmies.json](./86641-my-little-farmies.json) |
