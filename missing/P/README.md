@@ -9939,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
 | Plane Starship2: Galactic Contender | 298472 | [298472-plane-starship2-galactic-contender.json](./298472-plane-starship2-galactic-contender.json) |
+| Plane Stupid | 176405 | [176405-plane-stupid.json](./176405-plane-stupid.json) |
 | Plane War | 96463 | [96463-plane-war.json](./96463-plane-war.json) |
 | Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
 | Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
@@ -10238,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
 | Planetary Missions | 201890 | [201890-planetary-missions.json](./201890-planetary-missions.json) |
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
+| Planetary Pest Control | 176404 | [176404-planetary-pest-control.json](./176404-planetary-pest-control.json) |
 | Planetary Planter | 200517 | [200517-planetary-planter.json](./200517-planetary-planter.json) |
 | Planetary Plumbers | 242942 | [242942-planetary-plumbers.json](./242942-planetary-plumbers.json) |
 | Planetary Sanitations Inc. | 184812 | [184812-planetary-sanitations-inc.json](./184812-planetary-sanitations-inc.json) |
@@ -14974,6 +14976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
 | Powerless | 111560 | [111560-powerless.json](./111560-powerless.json) |
+| Powerless | 175448 | [175448-powerless.json](./175448-powerless.json) |
 | Powerless | 81928 | [81928-powerless.json](./81928-powerless.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerlust | 187787 | [187787-powerlust.json](./187787-powerlust.json) |
