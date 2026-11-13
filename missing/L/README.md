@@ -1156,7 +1156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Clay Shooting System | 39712 | [39712-laser-clay-shooting-system.json](./39712-laser-clay-shooting-system.json) |
 | Laser Dance | 306925 | [306925-laser-dance.json](./306925-laser-dance.json) |
 | Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
-| Laser Disco Defenders | 22362 | [22362-laser-disco-defenders.json](./22362-laser-disco-defenders.json) |
 | Laser Dolphin | 54169 | [54169-laser-dolphin.json](./54169-laser-dolphin.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Drift: OverDrive | 28567 | [28567-laser-drift-overdrive.json](./28567-laser-drift-overdrive.json) |
