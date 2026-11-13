@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukiyo no Roushi | 60932 | [60932-ukiyo-no-roushi.json](./60932-ukiyo-no-roushi.json) |
 | Ukiyo no Shishi | 60930 | [60930-ukiyo-no-shishi.json](./60930-ukiyo-no-shishi.json) |
 | Ukkari wo Nakusou! Bunshou Yomi Training | 351499 | [351499-ukkari-wo-nakusou-bunshou-yomi-training.json](./351499-ukkari-wo-nakusou-bunshou-yomi-training.json) |
+| Ukko & Guara: Stellarbound | 198431 | [198431-ukko-and-guara-stellarbound.json](./198431-ukko-and-guara-stellarbound.json) |
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Uknon Jones: Portal | 390105 | [390105-uknon-jones-portal.json](./390105-uknon-jones-portal.json) |
