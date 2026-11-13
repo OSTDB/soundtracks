@@ -2134,6 +2134,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fight Girl | 286381 | [286381-mahjong-fight-girl.json](./286381-mahjong-fight-girl.json) |
 | Mahjong Fish | 103691 | [103691-mahjong-fish.json](./103691-mahjong-fish.json) |
 | Mahjong Forest Journey | 108591 | [108591-mahjong-forest-journey.json](./108591-mahjong-forest-journey.json) |
+| Mahjong Fortuna | 177065 | [177065-mahjong-fortuna.json](./177065-mahjong-fortuna.json) |
+| Mahjong Fortuna 2 | 177068 | [177068-mahjong-fortuna-2.json](./177068-mahjong-fortuna-2.json) |
 | Mahjong G-taste | 137933 | [137933-mahjong-g-taste.json](./137933-mahjong-g-taste.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen | 37678 | [37678-mahjong-gakuen.json](./37678-mahjong-gakuen.json) |
@@ -3985,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marie & Elie: Two People's Atelier | 27124 | [27124-marie-and-elie-two-peoples-atelier.json](./27124-marie-and-elie-two-peoples-atelier.json) |
 | Marie & Gully no Let's Science | 65319 | [65319-marie-and-gully-no-lets-science.json](./65319-marie-and-gully-no-lets-science.json) |
 | Marie Android | 407720 | [407720-marie-android.json](./407720-marie-android.json) |
+| Marie Antoinette and the Disciples of Loki | 177075 | [177075-marie-antoinette-and-the-disciples-of-loki.json](./177075-marie-antoinette-and-the-disciples-of-loki.json) |
 | Marie Antoinette's Solitaire | 137213 | [137213-marie-antoinettes-solitaire.json](./137213-marie-antoinettes-solitaire.json) |
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
 | Marie Celeste | 91484 | [91484-marie-celeste.json](./91484-marie-celeste.json) |
@@ -15165,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Letters | 87074 | [87074-missing-letters.json](./87074-missing-letters.json) |
 | Missing Love | 163199 | [163199-missing-love.json](./163199-missing-love.json) |
+| Missing Memories | 177460 | [177460-missing-memories.json](./177460-missing-memories.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
 | Missing on Lost Island | 69910 | [69910-missing-on-lost-island.json](./69910-missing-on-lost-island.json) |
@@ -15781,6 +15785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
 | Moai 4: Terra Incognita | 140193 | [140193-moai-4-terra-incognita.json](./140193-moai-4-terra-incognita.json) |
 | Moai 4: Terra Incognita - Collector's Edition | 32571 | [32571-moai-4-terra-incognita-collectors-edition.json](./32571-moai-4-terra-incognita-collectors-edition.json) |
+| Moai 5: New Generation - Collector's Edition | 177088 | [177088-moai-5-new-generation-collectors-edition.json](./177088-moai-5-new-generation-collectors-edition.json) |
 | Moai 6: Unexpected Guests - Collector's Edition | 170205 | [170205-moai-6-unexpected-guests-collectors-edition.json](./170205-moai-6-unexpected-guests-collectors-edition.json) |
 | Moai 7: Mystery Coast | 171437 | [171437-moai-7-mystery-coast.json](./171437-moai-7-mystery-coast.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
@@ -19150,6 +19155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
 | Mortimer and the Enchanted Castle | 69697 | [69697-mortimer-and-the-enchanted-castle.json](./69697-mortimer-and-the-enchanted-castle.json) |
 | Mortimer and the Riddles of the Medallion | 194 | [194-mortimer-and-the-riddles-of-the-medallion.json](./194-mortimer-and-the-riddles-of-the-medallion.json) |
+| Mortimer Beckett and the Book of Gold | 177063 | [177063-mortimer-beckett-and-the-book-of-gold.json](./177063-mortimer-beckett-and-the-book-of-gold.json) |
 | Mortimer Beckett and the Crimson Thief | 8329 | [8329-mortimer-beckett-and-the-crimson-thief.json](./8329-mortimer-beckett-and-the-crimson-thief.json) |
 | Mortimer Beckett and the Lost King | 8328 | [8328-mortimer-beckett-and-the-lost-king.json](./8328-mortimer-beckett-and-the-lost-king.json) |
 | Mortimer Beckett and the Secrets of Spooky Manor | 8326 | [8326-mortimer-beckett-and-the-secrets-of-spooky-manor.json](./8326-mortimer-beckett-and-the-secrets-of-spooky-manor.json) |
@@ -23119,6 +23125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Puppy Shop | 154786 | [154786-my-puppy-shop.json](./154786-my-puppy-shop.json) |
 | My Pure Boyfriend | 299510 | [299510-my-pure-boyfriend.json](./299510-my-pure-boyfriend.json) |
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
+| My Puzzles | 177078 | [177078-my-puzzles.json](./177078-my-puzzles.json) |
 | My QLDC Level | 257608 | [257608-my-qldc-level.json](./257608-my-qldc-level.json) |
 | My Racing Car | 419864 | [419864-my-racing-car.json](./419864-my-racing-car.json) |
 | My Racing Career | 253735 | [253735-my-racing-career.json](./253735-my-racing-career.json) |
