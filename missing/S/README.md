@@ -7986,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanky: The Vegan's Nightmare | 114906 | [114906-shanky-the-vegans-nightmare.json](./114906-shanky-the-vegans-nightmare.json) |
 | Shannara | 2233 | [2233-shannara.json](./2233-shannara.json) |
 | Shannon Tweed's Attack of the Groupies | 36382 | [36382-shannon-tweeds-attack-of-the-groupies.json](./36382-shannon-tweeds-attack-of-the-groupies.json) |
+| Shanshanshanshanshanhai | 205722 | [205722-shanshanshanshanshanhai.json](./205722-shanshanshanshanshanhai.json) |
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
 | Shantae | 145978 | [145978-shantae.json](./145978-shantae.json) |
@@ -11204,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightbringer | 157851 | [157851-sightbringer.json](./157851-sightbringer.json) |
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
 | Sightings of Beyond | 383406 | [383406-sightings-of-beyond.json](./383406-sightings-of-beyond.json) |
+| Sightless | 205694 | [205694-sightless.json](./205694-sightless.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | Sightline | 371156 | [371156-sightline.json](./371156-sightline.json) |
 | SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
@@ -26947,6 +26949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Electronic Galactic Chess | 198909 | [198909-star-wars-episode-i-electronic-galactic-chess.json](./198909-star-wars-episode-i-electronic-galactic-chess.json) |
 | Star Wars: Episode I - Electronic Sith Infiltrator Pen Game | 198921 | [198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json](./198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json) |
 | Star Wars: Episode I - Gian Speeder Chase | 198910 | [198910-star-wars-episode-i-gian-speeder-chase.json](./198910-star-wars-episode-i-gian-speeder-chase.json) |
+| Star Wars: Episode I - Gungan Sub Escape | 205707 | [205707-star-wars-episode-i-gungan-sub-escape.json](./205707-star-wars-episode-i-gungan-sub-escape.json) |
 | Star Wars: Episode I - Jedi Hunt | 198911 | [198911-star-wars-episode-i-jedi-hunt.json](./198911-star-wars-episode-i-jedi-hunt.json) |
 | Star Wars: Episode I - Jedi Power Battles | 301490 | [301490-star-wars-episode-i-jedi-power-battles.json](./301490-star-wars-episode-i-jedi-power-battles.json) |
 | Star Wars: Episode I - Jedi Power Battles | 319362 | [319362-star-wars-episode-i-jedi-power-battles.json](./319362-star-wars-episode-i-jedi-power-battles.json) |
@@ -26955,7 +26958,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
 | Star Wars: Episode I - Obi-Wan's Adventures | 18950 | [18950-star-wars-episode-i-obi-wans-adventures.json](./18950-star-wars-episode-i-obi-wans-adventures.json) |
 | Star Wars: Episode I - Podrace Challenge Game | 198915 | [198915-star-wars-episode-i-podrace-challenge-game.json](./198915-star-wars-episode-i-podrace-challenge-game.json) |
+| Star Wars: Episode I - Podracer Game | 205706 | [205706-star-wars-episode-i-podracer-game.json](./205706-star-wars-episode-i-podracer-game.json) |
 | Star Wars: Episode I - Racer | 154 | [154-star-wars-episode-i-racer.json](./154-star-wars-episode-i-racer.json) |
+| Star Wars: Episode I - Sith Speeder Game | 205708 | [205708-star-wars-episode-i-sith-speeder-game.json](./205708-star-wars-episode-i-sith-speeder-game.json) |
 | Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
 | Star Wars: Episode II - Attack of the Clones | 18951 | [18951-star-wars-episode-ii-attack-of-the-clones.json](./18951-star-wars-episode-ii-attack-of-the-clones.json) |
@@ -26973,6 +26978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battlegrounds - Clone Campaigns | 140 | [140-star-wars-galactic-battlegrounds-clone-campaigns.json](./140-star-wars-galactic-battlegrounds-clone-campaigns.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Galactic Defense | 75565 | [75565-star-wars-galactic-defense.json](./75565-star-wars-galactic-defense.json) |
+| Star Wars: Galactic Laser Pinball Game | 205709 | [205709-star-wars-galactic-laser-pinball-game.json](./205709-star-wars-galactic-laser-pinball-game.json) |
 | Star Wars: Galaxies - Starter Kit | 77212 | [77212-star-wars-galaxies-starter-kit.json](./77212-star-wars-galaxies-starter-kit.json) |
 | Star Wars: Galaxy of Heroes | 19577 | [19577-star-wars-galaxy-of-heroes.json](./19577-star-wars-galaxy-of-heroes.json) |
 | Star Wars: Grand Collection | 343557 | [343557-star-wars-grand-collection.json](./343557-star-wars-grand-collection.json) |
@@ -36819,6 +36825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Oekaki Puzzle 3 | 216567 | [216567-superlite-1500-series-oekaki-puzzle-3.json](./216567-superlite-1500-series-oekaki-puzzle-3.json) |
 | SuperLite 1500 Series: Oekaki Puzzle 4 | 216568 | [216568-superlite-1500-series-oekaki-puzzle-4.json](./216568-superlite-1500-series-oekaki-puzzle-4.json) |
 | SuperLite 1500 Series: Oekaki Puzzle 5 | 216569 | [216569-superlite-1500-series-oekaki-puzzle-5.json](./216569-superlite-1500-series-oekaki-puzzle-5.json) |
+| Superlite 1500 Series: Pangaea | 205715 | [205715-superlite-1500-series-pangaea.json](./205715-superlite-1500-series-pangaea.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500 Series: Seiyou Senseijutsu: Mark Yazaki Kanshuu | 382825 | [382825-superlite-1500-series-seiyou-senseijutsu-mark-yazaki-kanshuu.json](./382825-superlite-1500-series-seiyou-senseijutsu-mark-yazaki-kanshuu.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
