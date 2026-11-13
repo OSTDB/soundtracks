@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
 | Kaiserpunk | 276655 | [276655-kaiserpunk.json](./276655-kaiserpunk.json) |
 | Kaiserredux | 321697 | [321697-kaiserredux.json](./321697-kaiserredux.json) |
+| Kaiserreich: Legacy of the Weltkrieg | 198440 | [198440-kaiserreich-legacy-of-the-weltkrieg.json](./198440-kaiserreich-legacy-of-the-weltkrieg.json) |
 | Kaiserreich: Legacy of the Weltkrieg | 403344 | [403344-kaiserreich-legacy-of-the-weltkrieg.json](./403344-kaiserreich-legacy-of-the-weltkrieg.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knotmania | 97152 | [97152-knotmania.json](./97152-knotmania.json) |
 | Knots | 92681 | [92681-knots.json](./92681-knots.json) |
 | Knots 3D | 68912 | [68912-knots-3d.json](./68912-knots-3d.json) |
+| Knotwords | 198409 | [198409-knotwords.json](./198409-knotwords.json) |
 | Know | 272745 | [272745-know.json](./272745-know.json) |
 | Know by Heart | 142037 | [142037-know-by-heart.json](./142037-know-by-heart.json) |
 | Know How | 343320 | [343320-know-how.json](./343320-know-how.json) |
@@ -5858,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koongya Draw Party | 251264 | [251264-koongya-draw-party.json](./251264-koongya-draw-party.json) |
 | Kooo to Jump! | 403432 | [403432-kooo-to-jump.json](./403432-kooo-to-jump.json) |
 | Koopa CD | 233599 | [233599-koopa-cd.json](./233599-koopa-cd.json) |
+| Koopa Troopa Forest | 198425 | [198425-koopa-troopa-forest.json](./198425-koopa-troopa-forest.json) |
 | Koopa: A Winter's Tale | 250062 | [250062-koopa-a-winters-tale.json](./250062-koopa-a-winters-tale.json) |
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
