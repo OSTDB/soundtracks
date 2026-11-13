@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Cowboy: Plants at War | 199490 | [199490-cactus-cowboy-plants-at-war.json](./199490-cactus-cowboy-plants-at-war.json) |
 | Cactus Jumper | 84089 | [84089-cactus-jumper.json](./84089-cactus-jumper.json) |
 | Cactus League Professional Basketball 7 | 23778 | [23778-cactus-league-professional-basketball-7.json](./23778-cactus-league-professional-basketball-7.json) |
+| Cactus Mayhem | 180161 | [180161-cactus-mayhem.json](./180161-cactus-mayhem.json) |
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
 | Cactus Out of Place | 176158 | [176158-cactus-out-of-place.json](./176158-cactus-out-of-place.json) |
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Bakery | 245204 | [245204-cake-bakery.json](./245204-cake-bakery.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
+| Cake Cat | 180160 | [180160-cake-cat.json](./180160-cake-cat.json) |
 | Cake Clicker | 183290 | [183290-cake-clicker.json](./183290-cake-clicker.json) |
 | Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
 | Cake Game | 274780 | [274780-cake-game.json](./274780-cake-game.json) |
@@ -14073,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Back Home Please | 163141 | [163141-come-back-home-please.json](./163141-come-back-home-please.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
 | Come Dine at Valhalla | 180762 | [180762-come-dine-at-valhalla.json](./180762-come-dine-at-valhalla.json) |
+| Come for a Drink | 180159 | [180159-come-for-a-drink.json](./180159-come-for-a-drink.json) |
 | Come Home: Ghost Stories from Bangladesh | 304636 | [304636-come-home-ghost-stories-from-bangladesh.json](./304636-come-home-ghost-stories-from-bangladesh.json) |
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
 | Come Home. | 203971 | [203971-come-home.json](./203971-come-home.json) |
@@ -14099,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Towards Me. | 371129 | [371129-come-towards-me.json](./371129-come-towards-me.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Come-Frutas | 403313 | [403313-come-frutas.json](./403313-come-frutas.json) |
+| Comeback | 179762 | [179762-comeback.json](./179762-comeback.json) |
 | Comeback | 386758 | [386758-comeback.json](./386758-comeback.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
 | Comedy Quest | 34508 | [34508-comedy-quest.json](./34508-comedy-quest.json) |
