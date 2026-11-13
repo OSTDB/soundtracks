@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Sora to, Kimi no Koto: Sweet Petals For My Dear | 213832 | [213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json](./213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json) |
 | Sakura no Uta Re:Graphic - 10th Anniversary Edition | 355959 | [355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json](./355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json) |
 | Sakura no Uta Re:Graphic - Append Disc | 355964 | [355964-sakura-no-uta-re-graphic-append-disc.json](./355964-sakura-no-uta-re-graphic-append-disc.json) |
+| Sakura no Uta: Haru no Yuki | 198437 | [198437-sakura-no-uta-haru-no-yuki.json](./198437-sakura-no-uta-haru-no-yuki.json) |
 | Sakura no Uta: Sakura no Mori no Ue wo Mau | 135568 | [135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json](./135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json) |
 | Sakura no Uta: Sakura no Mori no Ue wo Mau - 10th Anniversary Edition | 355974 | [355974-sakura-no-uta-sakura-no-mori-no-ue-wo-mau-10th-anniversary-edition.json](./355974-sakura-no-uta-sakura-no-mori-no-ue-wo-mau-10th-anniversary-edition.json) |
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
 | Salom Adventure | 331060 | [331060-salom-adventure.json](./331060-salom-adventure.json) |
+| Salome | 198403 | [198403-salome.json](./198403-salome.json) |
 | Salome's Kiss | 190940 | [190940-salomes-kiss.json](./190940-salomes-kiss.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Cars Deluxe | 13256 | [13256-saloon-cars-deluxe.json](./13256-saloon-cars-deluxe.json) |
@@ -4479,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 3 | 158945 | [158945-sea-of-thieves-season-3.json](./158945-sea-of-thieves-season-3.json) |
 | Sea of Thieves: Season 4 | 171154 | [171154-sea-of-thieves-season-4.json](./171154-sea-of-thieves-season-4.json) |
 | Sea of Thieves: Season 5 | 183119 | [183119-sea-of-thieves-season-5.json](./183119-sea-of-thieves-season-5.json) |
+| Sea of Thieves: Season 6 | 198272 | [198272-sea-of-thieves-season-6.json](./198272-sea-of-thieves-season-6.json) |
 | Sea of Thieves: Season 7 | 204625 | [204625-sea-of-thieves-season-7.json](./204625-sea-of-thieves-season-7.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
@@ -9951,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot to Shoot | 305638 | [305638-shoot-to-shoot.json](./305638-shoot-to-shoot.json) |
 | Shoot to Slide | 184427 | [184427-shoot-to-slide.json](./184427-shoot-to-slide.json) |
 | Shoot Together | 406737 | [406737-shoot-together.json](./406737-shoot-together.json) |
+| Shoot Trip Die | 198414 | [198414-shoot-trip-die.json](./198414-shoot-trip-die.json) |
 | Shoot Up Basketball Pro | 377636 | [377636-shoot-up-basketball-pro.json](./377636-shoot-up-basketball-pro.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
@@ -10856,6 +10860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
+| Sickly Victorian Boy | 198407 | [198407-sickly-victorian-boy.json](./198407-sickly-victorian-boy.json) |
 | Sickness | 34145 | [34145-sickness.json](./34145-sickness.json) |
 | Sicko Island | 160200 | [160200-sicko-island.json](./160200-sicko-island.json) |
 | Sicko Sanctum | 272505 | [272505-sicko-sanctum.json](./272505-sicko-sanctum.json) |
@@ -31588,6 +31593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
 | Stupid Zombies Xterminator | 209935 | [209935-stupid-zombies-xterminator.json](./209935-stupid-zombies-xterminator.json) |
 | StupidAdoptables | 25032 | [25032-stupidadoptables.json](./25032-stupidadoptables.json) |
+| Stupidella | 198416 | [198416-stupidella.json](./198416-stupidella.json) |
 | Stupor | 391434 | [391434-stupor.json](./391434-stupor.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
