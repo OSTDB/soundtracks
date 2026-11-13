@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T04:15:56.815Z",
-  "total_soundtracks": 3268,
+  "generated_at": "2026-11-13T05:20:51.593Z",
+  "total_soundtracks": 3269,
   "games": [
     {
       "igdb_id": 7522,
@@ -2137,6 +2137,20 @@
         {
           "album_name": "Art of Balance Soundtrack",
           "spotify_url": "https://open.spotify.com/album/48u3XFXoBaCk0sSjmVkdKj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21437,
+      "game_name": "Arthur and the Invisibles",
+      "game_url": "https://ostdb.net/games/arthur-and-the-invisibles",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d2361d74114cc6356258306c",
+      "albums": [
+        {
+          "album_name": "Arthur And The Invisibles Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1wR8BA0bv5RjbDpIFgF7XX",
           "apple_music_url": "",
           "album_link_url": ""
         }
