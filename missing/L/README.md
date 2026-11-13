@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Liminophobia | 347998 | [347998-liminophobia.json](./347998-liminophobia.json) |
+| Liminus: The Silent Guard | 226369 | [226369-liminus-the-silent-guard.json](./226369-liminus-the-silent-guard.json) |
 | Limirama | 379789 | [379789-limirama.json](./379789-limirama.json) |
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
