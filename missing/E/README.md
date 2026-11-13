@@ -4714,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entertainment Hero 2 | 130154 | [130154-entertainment-hero-2.json](./130154-entertainment-hero-2.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
 | EnterVR | 29964 | [29964-entervr.json](./29964-entervr.json) |
+| Entfremdung | 186789 | [186789-entfremdung.json](./186789-entfremdung.json) |
 | Entheogen | 366259 | [366259-entheogen.json](./366259-entheogen.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Enthralled | 339753 | [339753-enthralled.json](./339753-enthralled.json) |
