@@ -12675,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Generations | 413084 | [413084-pokemon-generations.json](./413084-pokemon-generations.json) |
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
+| Pokémon: Greg Version | 191277 | [191277-pokemon-greg-version.json](./191277-pokemon-greg-version.json) |
 | Pokémon: H Edition | 405761 | [405761-pokemon-h-edition.json](./405761-pokemon-h-edition.json) |
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
 | Pokémon: Hollow Woods | 397428 | [397428-pokemon-hollow-woods.json](./397428-pokemon-hollow-woods.json) |
@@ -17414,6 +17415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Madison | 183242 | [183242-project-madison.json](./183242-project-madison.json) |
 | Project Madness | 308134 | [308134-project-madness.json](./308134-project-madness.json) |
 | Project Madras | 283567 | [283567-project-madras.json](./283567-project-madras.json) |
+| Project Makeover | 191772 | [191772-project-makeover.json](./191772-project-makeover.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
