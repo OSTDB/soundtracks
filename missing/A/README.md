@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A2 Racer IV: De Politie slaat terug | 121167 | [121167-a2-racer-iv-de-politie-slaat-terug.json](./121167-a2-racer-iv-de-politie-slaat-terug.json) |
 | A2 Zygon | 193596 | [193596-a2-zygon.json](./193596-a2-zygon.json) |
+| A2: A due | 177991 | [177991-a2-a-due.json](./177991-a2-a-due.json) |
 | A2: The Ultimate Sequel To AUTS | 304482 | [304482-a2-the-ultimate-sequel-to-auts.json](./304482-a2-the-ultimate-sequel-to-auts.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
 | A2C: Ayry Seems to be Playtesting a 2D Runner Shooter from Cci | 307165 | [307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json](./307165-a2c-ayry-seems-to-be-playtesting-a-2d-runner-shooter-from-cci.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Moons | 301219 | [301219-abandoned-moons.json](./301219-abandoned-moons.json) |
+| Abandoned Nursery | 178084 | [178084-abandoned-nursery.json](./178084-abandoned-nursery.json) |
 | Abandoned Palace | 293942 | [293942-abandoned-palace.json](./293942-abandoned-palace.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
@@ -4933,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Rain: Phoenix Rise | 56635 | [56635-after-rain-phoenix-rise.json](./56635-after-rain-phoenix-rise.json) |
 | After school | 283069 | [283069-after-school.json](./283069-after-school.json) |
 | After School | 148675 | [148675-after-school.json](./148675-after-school.json) |
+| After School | 178036 | [178036-after-school.json](./178036-after-school.json) |
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After School | 253348 | [253348-after-school.json](./253348-after-school.json) |
@@ -5908,8 +5911,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
 | Aikano: Yukizora no Triangle | 140744 | [140744-aikano-yukizora-no-triangle.json](./140744-aikano-yukizora-no-triangle.json) |
 | Aikano: Yukizora no Triangle - Premium Limited Edition | 166992 | [166992-aikano-yukizora-no-triangle-premium-limited-edition.json](./166992-aikano-yukizora-no-triangle-premium-limited-edition.json) |
+| Aikatsu Friends! | 177615 | [177615-aikatsu-friends.json](./177615-aikatsu-friends.json) |
 | Aikatsu On Parade! | 320311 | [320311-aikatsu-on-parade.json](./320311-aikatsu-on-parade.json) |
+| Aikatsu Planet! | 177616 | [177616-aikatsu-planet.json](./177616-aikatsu-planet.json) |
+| Aikatsu Stars! | 177613 | [177613-aikatsu-stars.json](./177613-aikatsu-stars.json) |
 | Aikatsu Stars! First Appeal | 222422 | [222422-aikatsu-stars-first-appeal.json](./222422-aikatsu-stars-first-appeal.json) |
+| Aikatsu Stars! My Special Appeal | 177614 | [177614-aikatsu-stars-my-special-appeal.json](./177614-aikatsu-stars-my-special-appeal.json) |
+| Aikatsu! | 177612 | [177612-aikatsu.json](./177612-aikatsu.json) |
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Cinderella Lesson | 220359 | [220359-aikatsu-cinderella-lesson.json](./220359-aikatsu-cinderella-lesson.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
@@ -11691,6 +11699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh: Reverse the Curse | 4849 | [4849-ankh-reverse-the-curse.json](./4849-ankh-reverse-the-curse.json) |
 | Ankh: The Lost Treasures | 205848 | [205848-ankh-the-lost-treasures.json](./205848-ankh-the-lost-treasures.json) |
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
+| Ankhesenamun's Histories | 178115 | [178115-ankhesenamuns-histories.json](./178115-ankhesenamuns-histories.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankhway: The Interplanetary Legacy | 344876 | [344876-ankhway-the-interplanetary-legacy.json](./344876-ankhway-the-interplanetary-legacy.json) |
 | Anki | 54737 | [54737-anki.json](./54737-anki.json) |
@@ -20053,6 +20062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awekening of Cthulhu | 187674 | [187674-awekening-of-cthulhu.json](./187674-awekening-of-cthulhu.json) |
 | Awele/Oware: Mancala | 89069 | [89069-awele-oware-mancala.json](./89069-awele-oware-mancala.json) |
+| Awer | 177606 | [177606-awer.json](./177606-awer.json) |
 | Awesome | 5877 | [5877-awesome.json](./5877-awesome.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Animated Monster Maker: Ultra Edition | 109179 | [109179-awesome-animated-monster-maker-ultra-edition.json](./109179-awesome-animated-monster-maker-ultra-edition.json) |
