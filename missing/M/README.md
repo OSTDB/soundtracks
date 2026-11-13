@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Gardener: Zombie Massacre | 81129 | [81129-mad-gardener-zombie-massacre.json](./81129-mad-gardener-zombie-massacre.json) |
 | Mad Geometry | 226168 | [226168-mad-geometry.json](./226168-mad-geometry.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
+| Mad Hams with Sudoku | 228032 | [228032-mad-hams-with-sudoku.json](./228032-mad-hams-with-sudoku.json) |
 | Mad Hatter's Wonderland: Stitch by Stitch - Collector's Edition | 417507 | [417507-mad-hatters-wonderland-stitch-by-stitch-collectors-edition.json](./417507-mad-hatters-wonderland-stitch-by-stitch-collectors-edition.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
@@ -4149,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Game | 276419 | [276419-mario-game.json](./276419-mario-game.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
 | Mario Goes Skateboarding 64 | 338307 | [338307-mario-goes-skateboarding-64.json](./338307-mario-goes-skateboarding-64.json) |
+| Mario Goes to Brazil | 227595 | [227595-mario-goes-to-brazil.json](./227595-mario-goes-to-brazil.json) |
 | Mario Goes to the Store & Buys a Gallon of Milk | 327028 | [327028-mario-goes-to-the-store-and-buys-a-gallon-of-milk.json](./327028-mario-goes-to-the-store-and-buys-a-gallon-of-milk.json) |
 | Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
@@ -10384,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Tale | 291796 | [291796-mermaid-tale.json](./291796-mermaid-tale.json) |
 | Mermaid's Cove | 397494 | [397494-mermaids-cove.json](./397494-mermaids-cove.json) |
 | Mermaidio | 222766 | [222766-mermaidio.json](./222766-mermaidio.json) |
+| Mermaidio 2 | 228033 | [228033-mermaidio-2.json](./228033-mermaidio-2.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
 | Mermaids Are Seafood | 381188 | [381188-mermaids-are-seafood.json](./381188-mermaids-are-seafood.json) |
 | Mermaids of Atlantis: The Riddle of the Magic Bubble | 48172 | [48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json](./48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json) |
@@ -12226,6 +12229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Magic | 41109 | [41109-midnight-magic.json](./41109-midnight-magic.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
+| Midnight Maid Night | 227566 | [227566-midnight-maid-night.json](./227566-midnight-maid-night.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
 | Midnight Makeover | 295088 | [295088-midnight-makeover.json](./295088-midnight-makeover.json) |
 | Midnight Man | 330244 | [330244-midnight-man.json](./330244-midnight-man.json) |
@@ -13329,6 +13333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | MindWorks | 159566 | [159566-mindworks.json](./159566-mindworks.json) |
+| Mindworks: The Great Division | 227582 | [227582-mindworks-the-great-division.json](./227582-mindworks-the-great-division.json) |
 | MindXcope | 266088 | [266088-mindxcope.json](./266088-mindxcope.json) |
 | Mine | 243836 | [243836-mine.json](./243836-mine.json) |
 | Mine | 246765 | [246765-mine.json](./246765-mine.json) |
@@ -14939,6 +14944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii | 215606 | [215606-miss-kawaii.json](./215606-miss-kawaii.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
+| Miss Kawaii 3 | 227598 | [227598-miss-kawaii-3.json](./227598-miss-kawaii-3.json) |
 | Miss Kobayashi's Dragon Maid: Burst Forth!! Choro-gon Breath | 172393 | [172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json](./172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json) |
 | Miss Lisette's Assassin Maid | 118255 | [118255-miss-lisettes-assassin-maid.json](./118255-miss-lisettes-assassin-maid.json) |
 | Miss Lu | 236494 | [236494-miss-lu.json](./236494-miss-lu.json) |
@@ -22423,6 +22429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice | 76428 | [76428-my-hero-ones-justice.json](./76428-my-hero-ones-justice.json) |
 | My Hero One's Justice 2 | 122599 | [122599-my-hero-ones-justice-2.json](./122599-my-hero-ones-justice-2.json) |
+| My Hero One's Justice 2: Celebration Wear Set | 228029 | [228029-my-hero-ones-justice-2-celebration-wear-set.json](./228029-my-hero-ones-justice-2-celebration-wear-set.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hero One's Justice 2: Collector's Edition | 136129 | [136129-my-hero-ones-justice-2-collectors-edition.json](./136129-my-hero-ones-justice-2-collectors-edition.json) |
 | My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
