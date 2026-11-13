@@ -18011,6 +18011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstrous Liberation | 361086 | [361086-monstrous-liberation.json](./361086-monstrous-liberation.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
+| Monstrous Molecules | 170592 | [170592-monstrous-molecules.json](./170592-monstrous-molecules.json) |
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
 | Monstructs: Makers and Mayhem | 178832 | [178832-monstructs-makers-and-mayhem.json](./178832-monstructs-makers-and-mayhem.json) |
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
@@ -18906,6 +18907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Glory 2 | 235841 | [235841-mortal-glory-2.json](./235841-mortal-glory-2.json) |
 | Mortal Glory 2 + DLC | 356824 | [356824-mortal-glory-2-dlc.json](./356824-mortal-glory-2-dlc.json) |
 | Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
+| Mortal Glory: Fresh Blood | 170594 | [170594-mortal-glory-fresh-blood.json](./170594-mortal-glory-fresh-blood.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
 | Mortal Holdings | 297370 | [297370-mortal-holdings.json](./297370-mortal-holdings.json) |
 | Mortal Kombat | 198828 | [198828-mortal-kombat.json](./198828-mortal-kombat.json) |
