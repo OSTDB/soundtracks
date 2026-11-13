@@ -7841,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Fighter: Tenkaichi Hi-Speed Battle!! | 192126 | [192126-goonya-fighter-tenkaichi-hi-speed-battle.json](./192126-goonya-fighter-tenkaichi-hi-speed-battle.json) |
 | Goonya Fighter: Uiro | 192115 | [192115-goonya-fighter-uiro.json](./192115-goonya-fighter-uiro.json) |
 | Goonya Fighter: Yumi Terasaka | 192118 | [192118-goonya-fighter-yumi-terasaka.json](./192118-goonya-fighter-yumi-terasaka.json) |
+| Goonya Monster | 206288 | [206288-goonya-monster.json](./206288-goonya-monster.json) |
 | Goonya Monster: Additional Character - All Guys Pack | 256628 | [256628-goonya-monster-additional-character-all-guys-pack.json](./256628-goonya-monster-additional-character-all-guys-pack.json) |
 | Goonya Monster: Additional Character (Buster) - Clione | 248720 | [248720-goonya-monster-additional-character-buster-clione.json](./248720-goonya-monster-additional-character-buster-clione.json) |
 | Goonya Monster: Additional Character (Buster) - Gatchman V/All Guys | 256423 | [256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json](./256423-goonya-monster-additional-character-buster-gatchman-v-all-guys.json) |
