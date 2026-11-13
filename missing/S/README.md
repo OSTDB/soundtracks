@@ -4024,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screensaver Battle | 328739 | [328739-screensaver-battle.json](./328739-screensaver-battle.json) |
+| Screensaver Subterfuge | 201748 | [201748-screensaver-subterfuge.json](./201748-screensaver-subterfuge.json) |
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
 | Screenside Fisher | 419423 | [419423-screenside-fisher.json](./419423-screenside-fisher.json) |
 | Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
@@ -8605,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell Shockers | 111890 | [111890-shell-shockers.json](./111890-shell-shockers.json) |
 | Shell Shuffle | 139621 | [139621-shell-shuffle.json](./139621-shell-shuffle.json) |
+| Shell Soldier | 201715 | [201715-shell-soldier.json](./201715-shell-soldier.json) |
 | Shell Song | 239384 | [239384-shell-song.json](./239384-shell-song.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen | 275413 | [275413-shells-kitchen.json](./275413-shells-kitchen.json) |
@@ -21616,6 +21618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
 | Space Kabaam | 187709 | [187709-space-kabaam.json](./187709-space-kabaam.json) |
+| Space Kabaam 2 | 201718 | [201718-space-kabaam-2.json](./201718-space-kabaam-2.json) |
 | Space Kabaam 3 | 210930 | [210930-space-kabaam-3.json](./210930-space-kabaam-3.json) |
 | Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
@@ -28414,6 +28417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Dreams | 332762 | [332762-steam-dreams.json](./332762-steam-dreams.json) |
 | Steam Droid | 270508 | [270508-steam-droid.json](./270508-steam-droid.json) |
 | Steam Drulls | 319502 | [319502-steam-drulls.json](./319502-steam-drulls.json) |
+| Steam Engine | 201717 | [201717-steam-engine.json](./201717-steam-engine.json) |
 | Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
@@ -29978,6 +29982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Alicia | 373591 | [373591-story-of-alicia.json](./373591-story-of-alicia.json) |
 | Story of Animal Sprite | 243500 | [243500-story-of-animal-sprite.json](./243500-story-of-animal-sprite.json) |
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
+| Story of Eve 2 | 201601 | [201601-story-of-eve-2.json](./201601-story-of-eve-2.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Infinity: Xia | 247704 | [247704-story-of-infinity-xia.json](./247704-story-of-infinity-xia.json) |
 | Story of Leaves | 370969 | [370969-story-of-leaves.json](./370969-story-of-leaves.json) |
@@ -33247,6 +33252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
 | Supanda | 267524 | [267524-supanda.json](./267524-supanda.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
+| Supaplex | 201721 | [201721-supaplex.json](./201721-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex GO! | 106055 | [106055-supaplex-go.json](./106055-supaplex-go.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
@@ -33929,6 +33935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Epic Random Bard Guy | 252455 | [252455-super-epic-random-bard-guy.json](./252455-super-epic-random-bard-guy.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
+| Super Evolution Illustrated: War World | 201725 | [201725-super-evolution-illustrated-war-world.json](./201725-super-evolution-illustrated-war-world.json) |
 | Super Exploding Zoo | 22775 | [22775-super-exploding-zoo.json](./22775-super-exploding-zoo.json) |
 | Super Extra Team Dungeon Game | 287528 | [287528-super-extra-team-dungeon-game.json](./287528-super-extra-team-dungeon-game.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
