@@ -6298,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Be No Sirens | 312949 | [312949-here-be-no-sirens.json](./312949-here-be-no-sirens.json) |
 | Here Comes Niko! | 142405 | [142405-here-comes-niko.json](./142405-here-comes-niko.json) |
 | Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
+| Here Comes the Hero | 172816 | [172816-here-comes-the-hero.json](./172816-here-comes-the-hero.json) |
 | Here Comes the Horde | 420511 | [420511-here-comes-the-horde.json](./420511-here-comes-the-horde.json) |
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
 | Here Comes the Wiji Waji | 197622 | [197622-here-comes-the-wiji-waji.json](./197622-here-comes-the-wiji-waji.json) |
@@ -11998,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotWire VR | 249937 | [249937-hotwire-vr.json](./249937-hotwire-vr.json) |
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
 | Houchi Shoujo | 195855 | [195855-houchi-shoujo.json](./195855-houchi-shoujo.json) |
+| Houchou Shoujo Gensoukyoku | 172801 | [172801-houchou-shoujo-gensoukyoku.json](./172801-houchou-shoujo-gensoukyoku.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houdini Master of the Extraordinary 2: The London Tower | 404637 | [404637-houdini-master-of-the-extraordinary-2-the-london-tower.json](./404637-houdini-master-of-the-extraordinary-2-the-london-tower.json) |
 | Houdini Master of the Extraordinary 3: The Vampire's Crypt | 404638 | [404638-houdini-master-of-the-extraordinary-3-the-vampires-crypt.json](./404638-houdini-master-of-the-extraordinary-3-the-vampires-crypt.json) |
