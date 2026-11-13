@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | MA 2: President Simulator | 345231 | [345231-ma-2-president-simulator.json](./345231-ma-2-president-simulator.json) |
 | Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
+| Ma Furu Yoru no Rin: Animation | 194487 | [194487-ma-furu-yoru-no-rin-animation.json](./194487-ma-furu-yoru-no-rin-animation.json) |
 | Ma Kai Quest | 45636 | [45636-ma-kai-quest.json](./45636-ma-kai-quest.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
 | Ma Petite Ferme | 341253 | [341253-ma-petite-ferme.json](./341253-ma-petite-ferme.json) |
@@ -8802,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Sudoku: Binary & Suguru | 235258 | [235258-mega-sudoku-binary-and-suguru.json](./235258-mega-sudoku-binary-and-suguru.json) |
 | Mega Tag Panic | 425399 | [425399-mega-tag-panic.json](./425399-mega-tag-panic.json) |
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
+| Mega Tower | 194043 | [194043-mega-tower.json](./194043-mega-tower.json) |
 | Mega Tower Assault | 306908 | [306908-mega-tower-assault.json](./306908-mega-tower-assault.json) |
 | Mega Trons Survivors | 390051 | [390051-mega-trons-survivors.json](./390051-mega-trons-survivors.json) |
 | Mega Turrican | 85286 | [85286-mega-turrican.json](./85286-mega-turrican.json) |
@@ -9885,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Men in Black II: Crossfire | 79736 | [79736-men-in-black-ii-crossfire.json](./79736-men-in-black-ii-crossfire.json) |
 | Men in Black: First Assignment | 119418 | [119418-men-in-black-first-assignment.json](./119418-men-in-black-first-assignment.json) |
+| Men In Black: Galaxy Defenders | 194045 | [194045-men-in-black-galaxy-defenders.json](./194045-men-in-black-galaxy-defenders.json) |
 | Men in Black: Global Invasion | 119167 | [119167-men-in-black-global-invasion.json](./119167-men-in-black-global-invasion.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
@@ -12118,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mida's Adventure | 203611 | [203611-midas-adventure.json](./203611-midas-adventure.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
+| Midara na Mahoutsukai to Kyuuseishu | 194482 | [194482-midara-na-mahoutsukai-to-kyuuseishu.json](./194482-midara-na-mahoutsukai-to-kyuuseishu.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midas' Odyssey | 72451 | [72451-midas-odyssey.json](./72451-midas-odyssey.json) |
@@ -15365,6 +15369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
+| Mistrick | 194514 | [194514-mistrick.json](./194514-mistrick.json) |
 | Mistrogue: Mist and the Living Dungeons | 217313 | [217313-mistrogue-mist-and-the-living-dungeons.json](./217313-mistrogue-mist-and-the-living-dungeons.json) |
 | Mistrun | 189896 | [189896-mistrun.json](./189896-mistrun.json) |
 | Mistrz Polski '96 | 373428 | [373428-mistrz-polski-96.json](./373428-mistrz-polski-96.json) |
@@ -15705,6 +15710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
 | MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
+| MMA: Fighting Clash 22 | 194046 | [194046-mma-fighting-clash-22.json](./194046-mma-fighting-clash-22.json) |
 | MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
 | MMKK | 334606 | [334606-mmkk.json](./334606-mmkk.json) |
