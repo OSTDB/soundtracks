@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Fairies Flower Kingdom | 54174 | [54174-magic-fairies-flower-kingdom.json](./54174-magic-fairies-flower-kingdom.json) |
 | Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Fantasy | 232894 | [232894-magic-fantasy.json](./232894-magic-fantasy.json) |
+| Magic Farm | 176016 | [176016-magic-farm.json](./176016-magic-farm.json) |
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
 | Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
 | Magic Farm 3: The Ice Danger | 121180 | [121180-magic-farm-3-the-ice-danger.json](./121180-magic-farm-3-the-ice-danger.json) |
@@ -12116,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft World of Flight | 209514 | [209514-microsoft-world-of-flight.json](./209514-microsoft-world-of-flight.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
+| Microsoft's Excel 95: Hall of Tortured Souls | 176006 | [176006-microsofts-excel-95-hall-of-tortured-souls.json](./176006-microsofts-excel-95-hall-of-tortured-souls.json) |
 | MicroSonic | 331734 | [331734-microsonic.json](./331734-microsonic.json) |
 | Microspace Invaders | 97442 | [97442-microspace-invaders.json](./97442-microspace-invaders.json) |
 | MicroSpy | 46486 | [46486-microspy.json](./46486-microspy.json) |
@@ -20816,6 +20818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudang: Two Hearts | 348199 | [348199-mudang-two-hearts.json](./348199-mudang-two-hearts.json) |
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
+| Mudcraft | 176008 | [176008-mudcraft.json](./176008-mudcraft.json) |
 | Muddledash | 89073 | [89073-muddledash.json](./89073-muddledash.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
 | Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
@@ -23159,6 +23162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Rose | 384317 | [384317-my-rose.json](./384317-my-rose.json) |
 | My Royal Guardian | 299511 | [299511-my-royal-guardian.json](./299511-my-royal-guardian.json) |
 | My Royal Maid R | 385884 | [385884-my-royal-maid-r.json](./385884-my-royal-maid-r.json) |
+| My Rusty Submarine | 176411 | [176411-my-rusty-submarine.json](./176411-my-rusty-submarine.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
 | My Sacred Place | 259747 | [259747-my-sacred-place.json](./259747-my-sacred-place.json) |
