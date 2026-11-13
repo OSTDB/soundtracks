@@ -5611,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Faces Jigsaw Puzzle - The Free Animals | 89314 | [89314-wild-faces-jigsaw-puzzle-the-free-animals.json](./89314-wild-faces-jigsaw-puzzle-the-free-animals.json) |
 | Wild Fire | 320598 | [320598-wild-fire.json](./320598-wild-fire.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
+| Wild Forest | 204611 | [204611-wild-forest.json](./204611-wild-forest.json) |
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Frontier | 146673 | [146673-wild-frontier.json](./146673-wild-frontier.json) |
 | Wild Game Hunter VR | 30608 | [30608-wild-game-hunter-vr.json](./30608-wild-game-hunter-vr.json) |
@@ -9909,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestlerage | 350130 | [350130-wrestlerage.json](./350130-wrestlerage.json) |
 | Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
 | Wrestling | 217707 | [217707-wrestling.json](./217707-wrestling.json) |
+| Wrestling Cardboard Championship | 204609 | [204609-wrestling-cardboard-championship.json](./204609-wrestling-cardboard-championship.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling GM | 145800 | [145800-wrestling-gm.json](./145800-wrestling-gm.json) |
