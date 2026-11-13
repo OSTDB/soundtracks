@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Escape Games: The Abandoned Schoolhouse | 231033 | [231033-japanese-escape-games-the-abandoned-schoolhouse.json](./231033-japanese-escape-games-the-abandoned-schoolhouse.json) |
 | Japanese Escape Games: The Forbidden Garden | 221699 | [221699-japanese-escape-games-the-forbidden-garden.json](./221699-japanese-escape-games-the-forbidden-garden.json) |
 | Japanese Escape Games: The Fortress Prison | 213211 | [213211-japanese-escape-games-the-fortress-prison.json](./213211-japanese-escape-games-the-fortress-prison.json) |
+| Japanese Escape Games: The Hospital | 211313 | [211313-japanese-escape-games-the-hospital.json](./211313-japanese-escape-games-the-hospital.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
 | Japanese Escape Games: The House | 249511 | [249511-japanese-escape-games-the-house.json](./249511-japanese-escape-games-the-house.json) |
 | Japanese Escape Games: The Light and Mirror Room | 234579 | [234579-japanese-escape-games-the-light-and-mirror-room.json](./234579-japanese-escape-games-the-light-and-mirror-room.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw puzzle: Evolution | 100720 | [100720-jigsaw-puzzle-evolution.json](./100720-jigsaw-puzzle-evolution.json) |
 | Jigsaw Puzzle: Frog | 413950 | [413950-jigsaw-puzzle-frog.json](./413950-jigsaw-puzzle-frog.json) |
 | Jigsaw Puzzle: Futanari Massage | 286495 | [286495-jigsaw-puzzle-futanari-massage.json](./286495-jigsaw-puzzle-futanari-massage.json) |
+| Jigsaw Puzzle: Futanari Pool Party | 211364 | [211364-jigsaw-puzzle-futanari-pool-party.json](./211364-jigsaw-puzzle-futanari-pool-party.json) |
 | Jigsaw Puzzle: Futanari Roomate | 286735 | [286735-jigsaw-puzzle-futanari-roomate.json](./286735-jigsaw-puzzle-futanari-roomate.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
