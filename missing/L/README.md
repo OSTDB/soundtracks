@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Levántate: All Stars | 332750 | [332750-levantate-all-stars.json](./332750-levantate-all-stars.json) |
 | Levantera: Tale of The Winds | 71598 | [71598-levantera-tale-of-the-winds.json](./71598-levantera-tale-of-the-winds.json) |
+| Levar's Life | 180156 | [180156-levars-life.json](./180156-levars-life.json) |
 | Levate | 399038 | [399038-levate.json](./399038-levate.json) |
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
