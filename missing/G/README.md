@@ -6173,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal | 18939 | [18939-goal.json](./18939-goal.json) |
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
+| Goal Digger | 193905 | [193905-goal-digger.json](./193905-goal-digger.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal Finger | 245631 | [245631-goal-finger.json](./245631-goal-finger.json) |
 | Goal Hero | 241594 | [241594-goal-hero.json](./241594-goal-hero.json) |
@@ -8511,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Yuel | 156329 | [156329-granblue-fantasy-versus-yuel.json](./156329-granblue-fantasy-versus-yuel.json) |
 | Granblue Fantasy: Versus - Zooey | 156330 | [156330-granblue-fantasy-versus-zooey.json](./156330-granblue-fantasy-versus-zooey.json) |
 | Granbo | 210778 | [210778-granbo.json](./210778-granbo.json) |
+| Grand | 193918 | [193918-grand.json](./193918-grand.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
