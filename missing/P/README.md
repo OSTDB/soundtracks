@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petit Computer | 332200 | [332200-petit-computer.json](./332200-petit-computer.json) |
 | Petit Computer | 64865 | [64865-petit-computer.json](./64865-petit-computer.json) |
+| Petit Four | 214657 | [214657-petit-four.json](./214657-petit-four.json) |
 | Petit Game Collection Vol.1 | 283315 | [283315-petit-game-collection-vol-1.json](./283315-petit-game-collection-vol-1.json) |
 | Petit Hedgehog | 316898 | [316898-petit-hedgehog.json](./316898-petit-hedgehog.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
@@ -12138,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fire Red Extended | 305997 | [305997-pokemon-fire-red-extended.json](./305997-pokemon-fire-red-extended.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
+| Pokémon FireRed VR Missions | 214216 | [214216-pokemon-firered-vr-missions.json](./214216-pokemon-firered-vr-missions.json) |
 | Pokémon Floral Tempus EX | 240005 | [240005-pokemon-floral-tempus-ex.json](./240005-pokemon-floral-tempus-ex.json) |
 | Pokemon Flux | 250199 | [250199-pokemon-flux.json](./250199-pokemon-flux.json) |
 | Pokémon Following Platinum | 395562 | [395562-pokemon-following-platinum.json](./395562-pokemon-following-platinum.json) |
@@ -12587,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White 2 Redux | 259198 | [259198-pokemon-volt-white-2-redux.json](./259198-pokemon-volt-white-2-redux.json) |
 | Pokémon Wack | 146556 | [146556-pokemon-wack.json](./146556-pokemon-wack.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
+| Pokémon WaterBlue Version | 214217 | [214217-pokemon-waterblue-version.json](./214217-pokemon-waterblue-version.json) |
 | Pokémon Wave Hello | 328965 | [328965-pokemon-wave-hello.json](./328965-pokemon-wave-hello.json) |
 | Pokémon Waves | 393104 | [393104-pokemon-waves.json](./393104-pokemon-waves.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
@@ -18637,6 +18640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puck Man | 223117 | [223117-puck-man.json](./223117-puck-man.json) |
 | Puck Monster | 218767 | [218767-puck-monster.json](./218767-puck-monster.json) |
 | Puck Off | 67768 | [67768-puck-off.json](./67768-puck-off.json) |
+| Puck Runner | 214212 | [214212-puck-runner.json](./214212-puck-runner.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck'n Hell | 418648 | [418648-puckn-hell.json](./418648-puckn-hell.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
