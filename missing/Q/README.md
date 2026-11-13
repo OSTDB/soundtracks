@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quod: Episode 1 | 288185 | [288185-quod-episode-1.json](./288185-quod-episode-1.json) |
 | Quodan: Treachery on the Arheid | 333137 | [333137-quodan-treachery-on-the-arheid.json](./333137-quodan-treachery-on-the-arheid.json) |
+| Quoin | 216380 | [216380-quoin.json](./216380-quoin.json) |
 | Quondam | 300458 | [300458-quondam.json](./300458-quondam.json) |
 | Quondam | 325321 | [325321-quondam.json](./325321-quondam.json) |
 | Quoridor | 251255 | [251255-quoridor.json](./251255-quoridor.json) |
