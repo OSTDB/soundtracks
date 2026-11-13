@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5 Star Wrestling | 63596 | [63596-5-star-wrestling.json](./63596-5-star-wrestling.json) |
+| 5 Star Wrestling: ReGenesis | 188153 | [188153-5-star-wrestling-regenesis.json](./188153-5-star-wrestling-regenesis.json) |
 | 5 x Solitaire Collection | 213081 | [213081-5-x-solitaire-collection.json](./213081-5-x-solitaire-collection.json) |
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
 | 5-fun go ni Igai na Ketsumatsu: Monochrome no Toshokan | 292032 | [292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json](./292032-5-fun-go-ni-igai-na-ketsumatsu-monochrome-no-toshokan.json) |
