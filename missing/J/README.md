@@ -2653,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! | 3248 | [3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json](./3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json) |
 | Johnny Bravo: Big Babe Adventure | 289486 | [289486-johnny-bravo-big-babe-adventure.json](./289486-johnny-bravo-big-babe-adventure.json) |
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
+| Johnny Crash Stuntman: Does Texas | 241104 | [241104-johnny-crash-stuntman-does-texas.json](./241104-johnny-crash-stuntman-does-texas.json) |
 | Johnny Doom | 336191 | [336191-johnny-doom.json](./336191-johnny-doom.json) |
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
 | Johnny Graves: The Unchosen One | 32574 | [32574-johnny-graves-the-unchosen-one.json](./32574-johnny-graves-the-unchosen-one.json) |
