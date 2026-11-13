@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabre Team | 12757 | [12757-sabre-team.json](./12757-sabre-team.json) |
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
 | Sabre Wulf | 214351 | [214351-sabre-wulf.json](./214351-sabre-wulf.json) |
+| Sabre Wulf | 214785 | [214785-sabre-wulf.json](./214785-sabre-wulf.json) |
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Psycho Lady Simulator | 278376 | [278376-scary-psycho-lady-simulator.json](./278376-scary-psycho-lady-simulator.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
+| Scary School Simulator | 215261 | [215261-scary-school-simulator.json](./215261-scary-school-simulator.json) |
 | Scary School Simulator 2 | 274307 | [274307-scary-school-simulator-2.json](./274307-scary-school-simulator-2.json) |
 | Scary School Simulator 3 | 312431 | [312431-scary-school-simulator-3.json](./312431-scary-school-simulator-3.json) |
 | Scary Shadow Spot: All In | 381509 | [381509-scary-shadow-spot-all-in.json](./381509-scary-shadow-spot-all-in.json) |
@@ -9037,7 +9039,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Hayarigami: Pandemic | 196703 | [196703-shin-hayarigami-pandemic.json](./196703-shin-hayarigami-pandemic.json) |
 | Shin Hayarigami: Parasite | 196704 | [196704-shin-hayarigami-parasite.json](./196704-shin-hayarigami-parasite.json) |
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
+| Shin Hisui no Shizuku: Hiiro no Kakera 2 | 214797 | [214797-shin-hisui-no-shizuku-hiiro-no-kakera-2.json](./214797-shin-hisui-no-shizuku-hiiro-no-kakera-2.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
+| Shin Hisui no Shizuku: Hiiro no Kakera 2 Portable | 214798 | [214798-shin-hisui-no-shizuku-hiiro-no-kakera-2-portable.json](./214798-shin-hisui-no-shizuku-hiiro-no-kakera-2-portable.json) |
 | Shin Ikkaku Senkin | 38251 | [38251-shin-ikkaku-senkin.json](./38251-shin-ikkaku-senkin.json) |
 | Shin Jinrui Complex | 413997 | [413997-shin-jinrui-complex.json](./413997-shin-jinrui-complex.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
@@ -9442,6 +9446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsouban Clover no Kuni no Alice: Wonderful Wonder World | 218781 | [218781-shinsouban-clover-no-kuni-no-alice-wonderful-wonder-world.json](./218781-shinsouban-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Shinsouban Crimson Empire: Circumstances to Serve a Noble | 60957 | [60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json](./60957-shinsouban-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Shinsouban Heart no Kuni no Alice: Wonderful Wonder World | 130009 | [130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json](./130009-shinsouban-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
+| Shinsouban Mahoutsukai to Goshujin-sama | 214803 | [214803-shinsouban-mahoutsukai-to-goshujin-sama.json](./214803-shinsouban-mahoutsukai-to-goshujin-sama.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Shiny | 23956 | [23956-shiny.json](./23956-shiny.json) |
@@ -10692,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutix | 120230 | [120230-shutix.json](./120230-shutix.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutokou Battle Online | 215852 | [215852-shutokou-battle-online.json](./215852-shutokou-battle-online.json) |
+| Shutokou Battle R | 214789 | [214789-shutokou-battle-r.json](./214789-shutokou-battle-r.json) |
 | Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa | 43048 | [43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json](./43048-shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
@@ -14173,6 +14179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
+| Slam City Oracles | 215275 | [215275-slam-city-oracles.json](./215275-slam-city-oracles.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam City with Scottie Pippen | 5439 | [5439-slam-city-with-scottie-pippen.json](./5439-slam-city-with-scottie-pippen.json) |
 | Slam City with Scottie Pippen: Respect Edition | 375597 | [375597-slam-city-with-scottie-pippen-respect-edition.json](./375597-slam-city-with-scottie-pippen-respect-edition.json) |
@@ -15159,6 +15166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slitherise | 318967 | [318967-slitherise.json](./318967-slitherise.json) |
 | Slitherlink | 201508 | [201508-slitherlink.json](./201508-slitherlink.json) |
 | Slitherlink by Nikoli | 85387 | [85387-slitherlink-by-nikoli.json](./85387-slitherlink-by-nikoli.json) |
+| Slitherlink PD | 215270 | [215270-slitherlink-pd.json](./215270-slitherlink-pd.json) |
 | Slitterhead: Deluxe Edition | 331846 | [331846-slitterhead-deluxe-edition.json](./331846-slitterhead-deluxe-edition.json) |
 | Slivania | 327377 | [327377-slivania.json](./327377-slivania.json) |
 | Sliver-Sclicker | 102385 | [102385-sliver-sclicker.json](./102385-sliver-sclicker.json) |
@@ -17146,6 +17154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowyland | 187156 | [187156-snowyland.json](./187156-snowyland.json) |
 | SNQZ | 280623 | [280623-snqz.json](./280623-snqz.json) |
 | SNS | 163881 | [163881-sns.json](./163881-sns.json) |
+| Snuff | 215256 | [215256-snuff.json](./215256-snuff.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snuff Puppy Shelter | 400607 | [400607-snuff-puppy-shelter.json](./400607-snuff-puppy-shelter.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
@@ -19901,6 +19910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
 | SOR2 Fight'n Rage | 248350 | [248350-sor2-fightn-rage.json](./248350-sor2-fightn-rage.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
+| Sora Game | 215294 | [215294-sora-game.json](./215294-sora-game.json) |
 | Sora ni Kizanda Parallelogram | 392973 | [392973-sora-ni-kizanda-parallelogram.json](./392973-sora-ni-kizanda-parallelogram.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
@@ -20150,8 +20160,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
 | Soukoban | 220376 | [220376-soukoban.json](./220376-soukoban.json) |
+| Soukoku no Kusabi Hiiro no Kakera 3 Portable | 214800 | [214800-soukoku-no-kusabi-hiiro-no-kakera-3-portable.json](./214800-soukoku-no-kusabi-hiiro-no-kakera-3-portable.json) |
 | Soukoku no Kusabi Hiiro no Kakera 3: Asu he no Tobira | 217761 | [217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json](./217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json) |
 | Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
+| Soukoku no Kusabi: Hiiro no Kakera 3 DS | 214799 | [214799-soukoku-no-kusabi-hiiro-no-kakera-3-ds.json](./214799-soukoku-no-kusabi-hiiro-no-kakera-3-ds.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Akki Muramasa: Shokuzai-hen | 166485 | [166485-soukou-akki-muramasa-shokuzai-hen.json](./166485-soukou-akki-muramasa-shokuzai-hen.json) |
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
@@ -25065,6 +25077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springshot | 263575 | [263575-springshot.json](./263575-springshot.json) |
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Hike | 264231 | [264231-springtime-hike.json](./264231-springtime-hike.json) |
+| Springtime Mahjongg 2 | 215258 | [215258-springtime-mahjongg-2.json](./215258-springtime-mahjongg-2.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
 | Springuins | 355869 | [355869-springuins.json](./355869-springuins.json) |
 | Springy | 141600 | [141600-springy.json](./141600-springy.json) |
