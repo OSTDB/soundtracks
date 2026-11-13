@@ -11469,6 +11469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Pocket Zone | 193867 | [193867-pocket-zone.json](./193867-pocket-zone.json) |
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
+| PocketCiv | 204005 | [204005-pocketciv.json](./204005-pocketciv.json) |
 | Pocketful of Stars | 397434 | [397434-pocketful-of-stars.json](./397434-pocketful-of-stars.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Pocketman Teal | 181232 | [181232-pocketman-teal.json](./181232-pocketman-teal.json) |
@@ -18479,6 +18480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
 | Psycho World | 248936 | [248936-psycho-world.json](./248936-psycho-world.json) |
 | Psycho World | 41715 | [41715-psycho-world.json](./41715-psycho-world.json) |
+| Psycho-Jirai In Love | 204002 | [204002-psycho-jirai-in-love.json](./204002-psycho-jirai-in-love.json) |
 | Psycho-Kin | 297197 | [297197-psycho-kin.json](./297197-psycho-kin.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness | 23849 | [23849-psycho-pass-mandatory-happiness.json](./23849-psycho-pass-mandatory-happiness.json) |
