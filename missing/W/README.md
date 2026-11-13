@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
 | Watashi no Rilakkuma | 98176 | [98176-watashi-no-rilakkuma.json](./98176-watashi-no-rilakkuma.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
+| Watataku | 172804 | [172804-watataku.json](./172804-watataku.json) |
 | Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
@@ -4192,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What The Pak?! | 292350 | [292350-what-the-pak.json](./292350-what-the-pak.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
+| What the Zombies?! | 172846 | [172846-what-the-zombies.json](./172846-what-the-zombies.json) |
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
 | What They Don't Sea | 223345 | [223345-what-they-dont-sea.json](./223345-what-they-dont-sea.json) |
 | What They Don't Teach You At Harvard Business School | 386322 | [386322-what-they-dont-teach-you-at-harvard-business-school.json](./386322-what-they-dont-teach-you-at-harvard-business-school.json) |
@@ -6137,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Angel | 150741 | [150741-wind-angel.json](./150741-wind-angel.json) |
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Angel III | 195186 | [195186-wind-angel-iii.json](./195186-wind-angel-iii.json) |
+| Wind Boys! | 172837 | [172837-wind-boys.json](./172837-wind-boys.json) |
 | Wind Breaker: Furyou-tachi no Eiyuutan | 326789 | [326789-wind-breaker-furyou-tachi-no-eiyuutan.json](./326789-wind-breaker-furyou-tachi-no-eiyuutan.json) |
 | Wind Child | 34632 | [34632-wind-child.json](./34632-wind-child.json) |
 | Wind Fantasy Double Cross | 408793 | [408793-wind-fantasy-double-cross.json](./408793-wind-fantasy-double-cross.json) |
