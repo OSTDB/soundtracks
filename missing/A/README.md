@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Follow Me: Food Festival | 231039 | [231039-abc-follow-me-food-festival.json](./231039-abc-follow-me-food-festival.json) |
 | ABC Hide and Seek | 351424 | [351424-abc-hide-and-seek.json](./351424-abc-hide-and-seek.json) |
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
+| ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Monday Night Football | 11884 | [11884-abc-monday-night-football.json](./11884-abc-monday-night-football.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
 | Action Games Bundle | 305564 | [305564-action-games-bundle.json](./305564-action-games-bundle.json) |
+| Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | Action Girlz Racing | 4658 | [4658-action-girlz-racing.json](./4658-action-girlz-racing.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Hall of Fame | 137511 | [137511-action-hall-of-fame.json](./137511-action-hall-of-fame.json) |
@@ -9672,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
 | Amnesia: Final Revelations | 116950 | [116950-amnesia-final-revelations.json](./116950-amnesia-final-revelations.json) |
+| Amnesia: Fleeing Brennenburg | 232742 | [232742-amnesia-fleeing-brennenburg.json](./232742-amnesia-fleeing-brennenburg.json) |
 | Amnesia: Justine | 15534 | [15534-amnesia-justine.json](./15534-amnesia-justine.json) |
 | Amnesia: Memories | 13199 | [13199-amnesia-memories.json](./13199-amnesia-memories.json) |
 | Amnesia: Rain | 376173 | [376173-amnesia-rain.json](./376173-amnesia-rain.json) |
@@ -11342,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Beautiful Bride | 317881 | [317881-anime-girls-beautiful-bride.json](./317881-anime-girls-beautiful-bride.json) |
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: Busty Baseball | 324207 | [324207-anime-girls-busty-baseball.json](./324207-anime-girls-busty-baseball.json) |
+| Anime Girls: Camping Trip | 233795 | [233795-anime-girls-camping-trip.json](./233795-anime-girls-camping-trip.json) |
 | Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
 | Anime Girls: Cheerful Cosplay | 386174 | [386174-anime-girls-cheerful-cosplay.json](./386174-anime-girls-cheerful-cosplay.json) |
 | Anime Girls: Clever Clover | 342323 | [342323-anime-girls-clever-clover.json](./342323-anime-girls-clever-clover.json) |
@@ -11521,6 +11525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh Guardian: Treasure of the Demon's Temple | 120180 | [120180-ankh-guardian-treasure-of-the-demons-temple.json](./120180-ankh-guardian-treasure-of-the-demons-temple.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
+| Ankh: Pyramid No Nazo | 231656 | [231656-ankh-pyramid-no-nazo.json](./231656-ankh-pyramid-no-nazo.json) |
 | Ankh: Reverse the Curse | 4849 | [4849-ankh-reverse-the-curse.json](./4849-ankh-reverse-the-curse.json) |
 | Ankh: The Lost Treasures | 205848 | [205848-ankh-the-lost-treasures.json](./205848-ankh-the-lost-treasures.json) |
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
@@ -13853,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: The Genji and the Heike Clans | 175819 | [175819-arcade-archives-the-genji-and-the-heike-clans.json](./175819-arcade-archives-the-genji-and-the-heike-clans.json) |
 | Arcade Archives: The Legend of Kage | 99569 | [99569-arcade-archives-the-legend-of-kage.json](./99569-arcade-archives-the-legend-of-kage.json) |
 | Arcade Archives: The Legend Of Valkyrie | 197892 | [197892-arcade-archives-the-legend-of-valkyrie.json](./197892-arcade-archives-the-legend-of-valkyrie.json) |
+| Arcade Archives: The NewZealand Story | 233786 | [233786-arcade-archives-the-newzealand-story.json](./233786-arcade-archives-the-newzealand-story.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
 | Arcade Archives: The Ninja Warriors | 99486 | [99486-arcade-archives-the-ninja-warriors.json](./99486-arcade-archives-the-ninja-warriors.json) |
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
