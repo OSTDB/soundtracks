@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Runner | 145934 | [145934-orb-runner.json](./145934-orb-runner.json) |
 | Orb Slide Dodge Danger | 369183 | [369183-orb-slide-dodge-danger.json](./369183-orb-slide-dodge-danger.json) |
 | Orb the Ball | 68889 | [68889-orb-the-ball.json](./68889-orb-the-ball.json) |
+| Orb Tour | 169496 | [169496-orb-tour.json](./169496-orb-tour.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb-3D | 48191 | [48191-orb-3d.json](./48191-orb-3d.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
