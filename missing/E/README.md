@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring Nightreign: Deluxe Edition | 331166 | [331166-elden-ring-nightreign-deluxe-edition.json](./331166-elden-ring-nightreign-deluxe-edition.json) |
 | Elden Ring Reforged | 296157 | [296157-elden-ring-reforged.json](./296157-elden-ring-reforged.json) |
 | Elden Ring Seamless Co-op | 381683 | [381683-elden-ring-seamless-co-op.json](./381683-elden-ring-seamless-co-op.json) |
+| Elden Ring: Ascended | 214788 | [214788-elden-ring-ascended.json](./214788-elden-ring-ascended.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
 | Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
 | Elden Ring: Deluxe Edition | 186227 | [186227-elden-ring-deluxe-edition.json](./186227-elden-ring-deluxe-edition.json) |
