@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragmonton Endless For Save Indie Game | 291272 | [291272-ragmonton-endless-for-save-indie-game.json](./291272-ragmonton-endless-for-save-indie-game.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | RagnaCook: Co-op Viking Kitchen | 391544 | [391544-ragnacook-co-op-viking-kitchen.json](./391544-ragnacook-co-op-viking-kitchen.json) |
+| Ragnador | 172835 | [172835-ragnador.json](./172835-ragnador.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | RagnaQuest | 108896 | [108896-ragnaquest.json](./108896-ragnaquest.json) |
@@ -4498,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
 | Red Wings: Aces of the Sky | 121768 | [121768-red-wings-aces-of-the-sky.json](./121768-red-wings-aces-of-the-sky.json) |
 | Red Wings: Aces of the Sky - Baron Edition | 146165 | [146165-red-wings-aces-of-the-sky-baron-edition.json](./146165-red-wings-aces-of-the-sky-baron-edition.json) |
+| Red Wings: American Aces | 172813 | [172813-red-wings-american-aces.json](./172813-red-wings-american-aces.json) |
 | Red Wings: American Aces - Heavy Metal | 199891 | [199891-red-wings-american-aces-heavy-metal.json](./199891-red-wings-american-aces-heavy-metal.json) |
 | Red Wings: American Aces Bundle | 199852 | [199852-red-wings-american-aces-bundle.json](./199852-red-wings-american-aces-bundle.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
@@ -10312,6 +10314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Jockeys | 148214 | [148214-rocket-jockeys.json](./148214-rocket-jockeys.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
+| Rocket Jump | 172815 | [172815-rocket-jump.json](./172815-rocket-jump.json) |
 | Rocket Jump | 378406 | [378406-rocket-jump.json](./378406-rocket-jump.json) |
 | Rocket Jump Frenzy | 247675 | [247675-rocket-jump-frenzy.json](./247675-rocket-jump-frenzy.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
@@ -11886,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room | 293847 | [293847-room.json](./293847-room.json) |
 | Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
+| Room 13 | 173324 | [173324-room-13.json](./173324-room-13.json) |
 | Room 13 | 286331 | [286331-room-13.json](./286331-room-13.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 202 | 313926 | [313926-room-202.json](./313926-room-202.json) |
