@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Adornment | 191795 | [191795-fallen-london-adornment.json](./191795-fallen-london-adornment.json) |
 | Fallen London: All Things Must End | 191606 | [191606-fallen-london-all-things-must-end.json](./191606-fallen-london-all-things-must-end.json) |
 | Fallen London: Borrowed Glory | 191734 | [191734-fallen-london-borrowed-glory.json](./191734-fallen-london-borrowed-glory.json) |
+| Fallen London: Caveat Emptor | 191782 | [191782-fallen-london-caveat-emptor.json](./191782-fallen-london-caveat-emptor.json) |
 | Fallen London: Codename - Sugarplum | 203198 | [203198-fallen-london-codename-sugarplum.json](./203198-fallen-london-codename-sugarplum.json) |
 | Fallen London: Cricket, Anyone? | 191715 | [191715-fallen-london-cricket-anyone.json](./191715-fallen-london-cricket-anyone.json) |
 | Fallen London: Cut With Moonlight | 191539 | [191539-fallen-london-cut-with-moonlight.json](./191539-fallen-london-cut-with-moonlight.json) |
@@ -1179,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Dernier Cri | 207159 | [207159-fallen-london-dernier-cri.json](./207159-fallen-london-dernier-cri.json) |
 | Fallen London: Discernment | 191540 | [191540-fallen-london-discernment.json](./191540-fallen-london-discernment.json) |
 | Fallen London: Factory of Favours | 191700 | [191700-fallen-london-factory-of-favours.json](./191700-fallen-london-factory-of-favours.json) |
+| Fallen London: Fading to a Coda | 191779 | [191779-fallen-london-fading-to-a-coda.json](./191779-fallen-london-fading-to-a-coda.json) |
 | Fallen London: Fine Dining | 191732 | [191732-fallen-london-fine-dining.json](./191732-fallen-london-fine-dining.json) |
 | Fallen London: Five Minutes to Midday | 191585 | [191585-fallen-london-five-minutes-to-midday.json](./191585-fallen-london-five-minutes-to-midday.json) |
 | Fallen London: Flint | 191541 | [191541-fallen-london-flint.json](./191541-fallen-london-flint.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: For All the Saints Who From Their Labours Rest | 191707 | [191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json](./191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json) |
 | Fallen London: Go Tell the King of Cats | 191736 | [191736-fallen-london-go-tell-the-king-of-cats.json](./191736-fallen-london-go-tell-the-king-of-cats.json) |
 | Fallen London: Hojotoho! | 191598 | [191598-fallen-london-hojotoho.json](./191598-fallen-london-hojotoho.json) |
+| Fallen London: Homecoming | 191778 | [191778-fallen-london-homecoming.json](./191778-fallen-london-homecoming.json) |
 | Fallen London: Inheritance | 217799 | [217799-fallen-london-inheritance.json](./217799-fallen-london-inheritance.json) |
 | Fallen London: Lamentation Lock | 191687 | [191687-fallen-london-lamentation-lock.json](./191687-fallen-london-lamentation-lock.json) |
 | Fallen London: Leviathan | 191786 | [191786-fallen-london-leviathan.json](./191786-fallen-london-leviathan.json) |
@@ -1193,7 +1196,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Mistress of the Skies | 191616 | [191616-fallen-london-mistress-of-the-skies.json](./191616-fallen-london-mistress-of-the-skies.json) |
 | Fallen London: My Kingdom for a Pig | 191720 | [191720-fallen-london-my-kingdom-for-a-pig.json](./191720-fallen-london-my-kingdom-for-a-pig.json) |
 | Fallen London: Noises from Upstairs | 191716 | [191716-fallen-london-noises-from-upstairs.json](./191716-fallen-london-noises-from-upstairs.json) |
+| Fallen London: Older, Not Wiser | 191780 | [191780-fallen-london-older-not-wiser.json](./191780-fallen-london-older-not-wiser.json) |
 | Fallen London: Our Lady of Pyres | 191589 | [191589-fallen-london-our-lady-of-pyres.json](./191589-fallen-london-our-lady-of-pyres.json) |
+| Fallen London: Paisley | 191776 | [191776-fallen-london-paisley.json](./191776-fallen-london-paisley.json) |
 | Fallen London: Por Una Cabeza | 191731 | [191731-fallen-london-por-una-cabeza.json](./191731-fallen-london-por-una-cabeza.json) |
 | Fallen London: Required Repairs | 191706 | [191706-fallen-london-required-repairs.json](./191706-fallen-london-required-repairs.json) |
 | Fallen London: Reunion | 191787 | [191787-fallen-london-reunion.json](./191787-fallen-london-reunion.json) |
@@ -1226,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Heart, the Devil and the Zee | 191597 | [191597-fallen-london-the-heart-the-devil-and-the-zee.json](./191597-fallen-london-the-heart-the-devil-and-the-zee.json) |
 | Fallen London: The Heretic of Hollow Street | 191728 | [191728-fallen-london-the-heretic-of-hollow-street.json](./191728-fallen-london-the-heretic-of-hollow-street.json) |
 | Fallen London: The House of Silk and Flame | 191794 | [191794-fallen-london-the-house-of-silk-and-flame.json](./191794-fallen-london-the-house-of-silk-and-flame.json) |
+| Fallen London: The Icarian Cup | 191781 | [191781-fallen-london-the-icarian-cup.json](./191781-fallen-london-the-icarian-cup.json) |
 | Fallen London: The Last Dog Society | 191538 | [191538-fallen-london-the-last-dog-society.json](./191538-fallen-london-the-last-dog-society.json) |
 | Fallen London: The Magician's Dream | 191709 | [191709-fallen-london-the-magicians-dream.json](./191709-fallen-london-the-magicians-dream.json) |
 | Fallen London: The Marriage of Feducci | 191869 | [191869-fallen-london-the-marriage-of-feducci.json](./191869-fallen-london-the-marriage-of-feducci.json) |
@@ -1249,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Web of the Motherlings | 191600 | [191600-fallen-london-the-web-of-the-motherlings.json](./191600-fallen-london-the-web-of-the-motherlings.json) |
 | Fallen London: Totentanz | 196007 | [196007-fallen-london-totentanz.json](./196007-fallen-london-totentanz.json) |
 | Fallen London: Trial and Error | 191683 | [191683-fallen-london-trial-and-error.json](./191683-fallen-london-trial-and-error.json) |
+| Fallen London: Unto Dust | 191777 | [191777-fallen-london-unto-dust.json](./191777-fallen-london-unto-dust.json) |
 | Fallen London: Upwards! | 191912 | [191912-fallen-london-upwards.json](./191912-fallen-london-upwards.json) |
 | Fallen London: We Absolutely Meant to Go to Zee | 191788 | [191788-fallen-london-we-absolutely-meant-to-go-to-zee.json](./191788-fallen-london-we-absolutely-meant-to-go-to-zee.json) |
 | Fallen London: Where You and I Must Go | 191588 | [191588-fallen-london-where-you-and-i-must-go.json](./191588-fallen-london-where-you-and-i-must-go.json) |
@@ -5801,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Final Upgrade | 132584 | [132584-final-upgrade.json](./132584-final-upgrade.json) |
 | Final Vanguard | 211580 | [211580-final-vanguard.json](./211580-final-vanguard.json) |
+| Final Vendetta: Collector's Edition | 191757 | [191757-final-vendetta-collectors-edition.json](./191757-final-vendetta-collectors-edition.json) |
 | Final Vendetta: Super Limited Edition | 198129 | [198129-final-vendetta-super-limited-edition.json](./198129-final-vendetta-super-limited-edition.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final Warfare | 231956 | [231956-final-warfare.json](./231956-final-warfare.json) |
@@ -7204,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
+| Fishing Paradiso | 191846 | [191846-fishing-paradiso.json](./191846-fishing-paradiso.json) |
 | Fishing Planet | 12731 | [12731-fishing-planet.json](./12731-fishing-planet.json) |
 | Fishing Planet Anniversary Pack | 366005 | [366005-fishing-planet-anniversary-pack.json](./366005-fishing-planet-anniversary-pack.json) |
 | Fishing Planet Boat Series Pack | 366001 | [366001-fishing-planet-boat-series-pack.json](./366001-fishing-planet-boat-series-pack.json) |
@@ -14945,6 +14954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furniture World | 158919 | [158919-furniture-world.json](./158919-furniture-world.json) |
 | Furniture: Build & Repair | 288864 | [288864-furniture-build-and-repair.json](./288864-furniture-build-and-repair.json) |
 | Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
+| Furquest | 191765 | [191765-furquest.json](./191765-furquest.json) |
 | Furriend | 311234 | [311234-furriend.json](./311234-furriend.json) |
 | Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
