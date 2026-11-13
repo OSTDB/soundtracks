@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbageboi+ | 209938 | [209938-garbageboi.json](./209938-garbageboi.json) |
 | Garbagefield Saves Christmas | 309581 | [309581-garbagefield-saves-christmas.json](./309581-garbagefield-saves-christmas.json) |
 | GarbageGame | 264215 | [264215-garbagegame.json](./264215-garbagegame.json) |
+| Garbageland | 185042 | [185042-garbageland.json](./185042-garbageland.json) |
 | Garbageman | 276217 | [276217-garbageman.json](./276217-garbageman.json) |
 | Garbanzo Quest | 215874 | [215874-garbanzo-quest.json](./215874-garbanzo-quest.json) |
 | Garda | 181051 | [181051-garda.json](./181051-garda.json) |
@@ -2103,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener's Path | 185953 | [185953-gardeners-path.json](./185953-gardeners-path.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia | 173395 | [173395-gardenia.json](./173395-gardenia.json) |
+| Gardenia | 184536 | [184536-gardenia.json](./184536-gardenia.json) |
 | Gardenia VR | 199550 | [199550-gardenia-vr.json](./199550-gardenia-vr.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardeniampoule | 135417 | [135417-gardeniampoule.json](./135417-gardeniampoule.json) |
@@ -6211,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalkeeper 2D | 241593 | [241593-goalkeeper-2d.json](./241593-goalkeeper-2d.json) |
 | Goalkeeper Journey | 340313 | [340313-goalkeeper-journey.json](./340313-goalkeeper-journey.json) |
 | Goalkeeper Legend | 107996 | [107996-goalkeeper-legend.json](./107996-goalkeeper-legend.json) |
+| Goalkeeper Training VR | 183643 | [183643-goalkeeper-training-vr.json](./183643-goalkeeper-training-vr.json) |
 | Goalkeeper VR Challenge | 112499 | [112499-goalkeeper-vr-challenge.json](./112499-goalkeeper-vr-challenge.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | Goals | 289602 | [289602-goals.json](./289602-goals.json) |
@@ -6575,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Wars 2 | 105055 | [105055-god-wars-2.json](./105055-god-wars-2.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
 | God Wars: The Complete Legend | 86681 | [86681-god-wars-the-complete-legend.json](./86681-god-wars-the-complete-legend.json) |
+| God why am I awake | 184015 | [184015-god-why-am-i-awake.json](./184015-god-why-am-i-awake.json) |
 | God Will | 308862 | [308862-god-will.json](./308862-god-will.json) |
 | God Within VR | 264737 | [264737-god-within-vr.json](./264737-god-within-vr.json) |
 | God-Machine: Shogun CyberMetal Arena | 205859 | [205859-god-machine-shogun-cybermetal-arena.json](./205859-god-machine-shogun-cybermetal-arena.json) |
@@ -9094,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveheart | 419172 | [419172-graveheart.json](./419172-graveheart.json) |
 | Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
 | Gravehold: Survival | 399136 | [399136-gravehold-survival.json](./399136-gravehold-survival.json) |
+| GraveKeeper Academy | 185043 | [185043-gravekeeper-academy.json](./185043-gravekeeper-academy.json) |
 | Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
