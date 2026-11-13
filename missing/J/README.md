@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerma & Otto: The Curse of the Late Streamer | 176105 | [176105-jerma-and-otto-the-curse-of-the-late-streamer.json](./176105-jerma-and-otto-the-curse-of-the-late-streamer.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jerma's Big Adventure | 165471 | [165471-jermas-big-adventure.json](./165471-jermas-big-adventure.json) |
+| Jerma's Big Adventure 2 | 229976 | [229976-jermas-big-adventure-2.json](./229976-jermas-big-adventure-2.json) |
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
 | Jermle | 321909 | [321909-jermle.json](./321909-jermle.json) |
 | Jerod Kart 64 | 300263 | [300263-jerod-kart-64.json](./300263-jerod-kart-64.json) |
