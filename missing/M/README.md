@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cat Academy | 165413 | [165413-magic-cat-academy.json](./165413-magic-cat-academy.json) |
 | Magic Cat Academy 2 | 165414 | [165414-magic-cat-academy-2.json](./165414-magic-cat-academy-2.json) |
 | Magic Cat Academy 3 | 321095 | [321095-magic-cat-academy-3.json](./321095-magic-cat-academy-3.json) |
+| Magic Cats | 241585 | [241585-magic-cats.json](./241585-magic-cats.json) |
 | Magic Cats Pots | 319779 | [319779-magic-cats-pots.json](./319779-magic-cats-pots.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
@@ -6548,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Fey's Borger Eating Simulator | 302645 | [302645-maya-feys-borger-eating-simulator.json](./302645-maya-feys-borger-eating-simulator.json) |
 | Maya Prophecy | 291913 | [291913-maya-prophecy.json](./291913-maya-prophecy.json) |
 | Maya Star | 195356 | [195356-maya-star.json](./195356-maya-star.json) |
+| Maya Stones | 241584 | [241584-maya-stones.json](./241584-maya-stones.json) |
 | Maya the Bee & Her Friends | 50000 | [50000-maya-the-bee-and-her-friends.json](./50000-maya-the-bee-and-her-friends.json) |
 | Maya the Bee: Garden Adventures | 198181 | [198181-maya-the-bee-garden-adventures.json](./198181-maya-the-bee-garden-adventures.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
@@ -11580,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microarcade Rockwork | 225445 | [225445-microarcade-rockwork.json](./225445-microarcade-rockwork.json) |
+| Microarcade ShapeSwarm | 241691 | [241691-microarcade-shapeswarm.json](./241691-microarcade-shapeswarm.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
 | Microban | 362234 | [362234-microban.json](./362234-microban.json) |
 | Microbe Invader | 97393 | [97393-microbe-invader.json](./97393-microbe-invader.json) |
