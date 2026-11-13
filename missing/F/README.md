@@ -9553,8 +9553,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF World 2 | 412776 | [412776-fnaf-world-2.json](./412776-fnaf-world-2.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
+| FNaF World Simulator | 230613 | [230613-fnaf-world-simulator.json](./230613-fnaf-world-simulator.json) |
 | FNaF World: Halloween Edition | 58707 | [58707-fnaf-world-halloween-edition.json](./58707-fnaf-world-halloween-edition.json) |
 | FNaF World: Outplay | 265063 | [265063-fnaf-world-outplay.json](./265063-fnaf-world-outplay.json) |
+| FNaF World: Update 2 | 230606 | [230606-fnaf-world-update-2.json](./230606-fnaf-world-update-2.json) |
 | FNAF: Final Purgatory | 184290 | [184290-fnaf-final-purgatory.json](./184290-fnaf-final-purgatory.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Project Lockdown | 288938 | [288938-fnaf-project-lockdown.json](./288938-fnaf-project-lockdown.json) |
