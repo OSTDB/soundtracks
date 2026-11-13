@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon's Lair | 107760 | [107760-sargons-lair.json](./107760-sargons-lair.json) |
 | Saria Reclaimed | 255637 | [255637-saria-reclaimed.json](./255637-saria-reclaimed.json) |
 | Sariel's Day Out | 371416 | [371416-sariels-day-out.json](./371416-sariels-day-out.json) |
+| Sarin | 214635 | [214635-sarin.json](./214635-sarin.json) |
 | Sarissa and the Legendary Sword | 287332 | [287332-sarissa-and-the-legendary-sword.json](./287332-sarissa-and-the-legendary-sword.json) |
 | Sark Word Game | 246190 | [246190-sark-word-game.json](./246190-sark-word-game.json) |
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
@@ -37951,6 +37952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallow the Blue | 369749 | [369749-swallow-the-blue.json](./369749-swallow-the-blue.json) |
 | Swallow the Dark | 177827 | [177827-swallow-the-dark.json](./177827-swallow-the-dark.json) |
 | Swallow Up | 124065 | [124065-swallow-up.json](./124065-swallow-up.json) |
+| Swallows: Spring in Bishkek | 214658 | [214658-swallows-spring-in-bishkek.json](./214658-swallows-spring-in-bishkek.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
 | Swam | 30179 | [30179-swam.json](./30179-swam.json) |
