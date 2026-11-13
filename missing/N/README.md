@@ -2690,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Hell | 180962 | [180962-neon-hell.json](./180962-neon-hell.json) |
 | Neon Highways | 349203 | [349203-neon-highways.json](./349203-neon-highways.json) |
 | Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
+| Neon Horizon: Eclipse | 193515 | [193515-neon-horizon-eclipse.json](./193515-neon-horizon-eclipse.json) |
 | Neon Howl | 415717 | [415717-neon-howl.json](./415717-neon-howl.json) |
 | Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
