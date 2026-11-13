@@ -9693,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folders on the Run | 398497 | [398497-folders-on-the-run.json](./398497-folders-on-the-run.json) |
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
+| Folds of a Separation | 218609 | [218609-folds-of-a-separation.json](./218609-folds-of-a-separation.json) |
 | Foldy Bird | 393408 | [393408-foldy-bird.json](./393408-foldy-bird.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Foley's Escape | 53037 | [53037-foleys-escape.json](./53037-foleys-escape.json) |
@@ -13448,6 +13449,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 218581 | [218581-frogger.json](./218581-frogger.json) |
 | Frogger | 218590 | [218590-frogger.json](./218590-frogger.json) |
 | Frogger | 218591 | [218591-frogger.json](./218591-frogger.json) |
+| Frogger | 218595 | [218595-frogger.json](./218595-frogger.json) |
+| Frogger | 218596 | [218596-frogger.json](./218596-frogger.json) |
+| Frogger | 218597 | [218597-frogger.json](./218597-frogger.json) |
+| Frogger | 218603 | [218603-frogger.json](./218603-frogger.json) |
+| Frogger | 218612 | [218612-frogger.json](./218612-frogger.json) |
 | Frogger | 218768 | [218768-frogger.json](./218768-frogger.json) |
 | Frogger | 231813 | [231813-frogger.json](./231813-frogger.json) |
 | Frogger | 239552 | [239552-frogger.json](./239552-frogger.json) |
@@ -14341,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
 | Full Bokko Youchien | 131045 | [131045-full-bokko-youchien.json](./131045-full-bokko-youchien.json) |
 | Full Bore | 10339 | [10339-full-bore.json](./10339-full-bore.json) |
+| Full Car Mini Yontou Super Factory | 218745 | [218745-full-car-mini-yontou-super-factory.json](./218745-full-car-mini-yontou-super-factory.json) |
 | Full Circle | 143517 | [143517-full-circle.json](./143517-full-circle.json) |
 | Full Circle: Rocketeer | 301787 | [301787-full-circle-rocketeer.json](./301787-full-circle-rocketeer.json) |
 | Full Code | 215214 | [215214-full-code.json](./215214-full-code.json) |
