@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
+| Paperball: Secret Spy Pack | 170591 | [170591-paperball-secret-spy-pack.json](./170591-paperball-secret-spy-pack.json) |
 | Paperbark | 104478 | [104478-paperbark.json](./104478-paperbark.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
@@ -13768,6 +13769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop KIller III | 229825 | [229825-poop-killer-iii.json](./229825-poop-killer-iii.json) |
 | Poop Killer Origins | 229833 | [229833-poop-killer-origins.json](./229833-poop-killer-origins.json) |
 | Poop Killer: Flush or Die | 335997 | [335997-poop-killer-flush-or-die.json](./335997-poop-killer-flush-or-die.json) |
+| Poop on 2020 Simulator | 170584 | [170584-poop-on-2020-simulator.json](./170584-poop-on-2020-simulator.json) |
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Prince | 285962 | [285962-poop-prince.json](./285962-poop-prince.json) |
@@ -15175,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Pre-Shave | 149732 | [149732-pre-shave.json](./149732-pre-shave.json) |
+| Pre-Strike | 170590 | [170590-pre-strike.json](./170590-pre-strike.json) |
 | Pre-Warp Age | 420494 | [420494-pre-warp-age.json](./420494-pre-warp-age.json) |
 | Pre:One | 98756 | [98756-pre-one.json](./98756-pre-one.json) |
 | Preacher | 261176 | [261176-preacher.json](./261176-preacher.json) |
