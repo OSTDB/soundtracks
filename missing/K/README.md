@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirkileons | 190798 | [190798-kirkileons.json](./190798-kirkileons.json) |
 | Kirmis | 277134 | [277134-kirmis.json](./277134-kirmis.json) |
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
+| Kiro II: The Wizards Guild | 236581 | [236581-kiro-ii-the-wizards-guild.json](./236581-kiro-ii-the-wizards-guild.json) |
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | KiroKiro BoBon | 351347 | [351347-kirokiro-bobon.json](./351347-kirokiro-bobon.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
@@ -5119,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
 | Knightstones | 398144 | [398144-knightstones.json](./398144-knightstones.json) |
 | Knighttron | 314755 | [314755-knighttron.json](./314755-knighttron.json) |
+| Knightward | 236055 | [236055-knightward.json](./236055-knightward.json) |
 | Knightwatch | 376651 | [376651-knightwatch.json](./376651-knightwatch.json) |
 | Knighty | 216719 | [216719-knighty.json](./216719-knighty.json) |
 | Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
