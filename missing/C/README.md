@@ -4376,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Bird | 112137 | [112137-cat-bird.json](./112137-cat-bird.json) |
 | Cat Block: Sliding Puzzle | 397299 | [397299-cat-block-sliding-puzzle.json](./397299-cat-block-sliding-puzzle.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
+| Cat Boy's Stellar Journey | 181827 | [181827-cat-boys-stellar-journey.json](./181827-cat-boys-stellar-journey.json) |
 | Cat Break | 225587 | [225587-cat-break.json](./225587-cat-break.json) |
 | Cat Break Head to Head | 226315 | [226315-cat-break-head-to-head.json](./226315-cat-break-head-to-head.json) |
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestrion | 33956 | [33956-celestrion.json](./33956-celestrion.json) |
 | Celestwald Adventure | 284812 | [284812-celestwald-adventure.json](./284812-celestwald-adventure.json) |
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
+| Celia's Chicken Adventure | 181408 | [181408-celias-chicken-adventure.json](./181408-celias-chicken-adventure.json) |
 | Celia's Stupid Romhack | 360028 | [360028-celias-stupid-romhack.json](./360028-celias-stupid-romhack.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | Cell | 86632 | [86632-cell.json](./86632-cell.json) |
@@ -7436,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chertovica | 333326 | [333326-chertovica.json](./333326-chertovica.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
+| Cheshire in a Chatroom | 181830 | [181830-cheshire-in-a-chatroom.json](./181830-cheshire-in-a-chatroom.json) |
 | Cheshire's Wonderland: Dire Adventure | 293961 | [293961-cheshires-wonderland-dire-adventure.json](./293961-cheshires-wonderland-dire-adventure.json) |
 | Chesnakisnak | 158127 | [158127-chesnakisnak.json](./158127-chesnakisnak.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
@@ -8044,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
 | Chigirareta Kioku | 395355 | [395355-chigirareta-kioku.json](./395355-chigirareta-kioku.json) |
+| Chigun | 181422 | [181422-chigun.json](./181422-chigun.json) |
 | Chigusa's Diary | 412422 | [412422-chigusas-diary.json](./412422-chigusas-diary.json) |
 | Chihiro Himukai Always Walks Away | 159136 | [159136-chihiro-himukai-always-walks-away.json](./159136-chihiro-himukai-always-walks-away.json) |
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
@@ -12014,6 +12018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
 | Clucky's Picnic Adventure | 177692 | [177692-cluckys-picnic-adventure.json](./177692-cluckys-picnic-adventure.json) |
+| Cluckzilla | 181409 | [181409-cluckzilla.json](./181409-cluckzilla.json) |
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
 | Clue | 206977 | [206977-clue.json](./206977-clue.json) |
@@ -12098,6 +12103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster | 304315 | [304315-cluster.json](./304315-cluster.json) |
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
+| Cluster Cluck | 181421 | [181421-cluster-cluck.json](./181421-cluster-cluck.json) |
 | Cluster Cluck | 412955 | [412955-cluster-cluck.json](./412955-cluster-cluck.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
 | Cluster Edge: Kimi wo Matsu Mirai he no Akashi | 242363 | [242363-cluster-edge-kimi-wo-matsu-mirai-he-no-akashi.json](./242363-cluster-edge-kimi-wo-matsu-mirai-he-no-akashi.json) |
