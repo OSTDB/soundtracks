@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
+| A Pig's Dreams | 212384 | [212384-a-pigs-dreams.json](./212384-a-pigs-dreams.json) |
 | A Pigeon Detective Game: Twin Beaks | 190803 | [190803-a-pigeon-detective-game-twin-beaks.json](./190803-a-pigeon-detective-game-twin-beaks.json) |
 | A Pilferer Lily's Naked Stealth Journey | 83162 | [83162-a-pilferer-lilys-naked-stealth-journey.json](./83162-a-pilferer-lilys-naked-stealth-journey.json) |
 | A Pinball Game That Makes You Mad | 371002 | [371002-a-pinball-game-that-makes-you-mad.json](./371002-a-pinball-game-that-makes-you-mad.json) |
@@ -11249,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals with Dally Dino | 99313 | [99313-animals-with-dally-dino.json](./99313-animals-with-dally-dino.json) |
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | Animals' Matching | 92008 | [92008-animals-matching.json](./92008-animals-matching.json) |
+| AnimalSoccerPenalty | 212377 | [212377-animalsoccerpenalty.json](./212377-animalsoccerpenalty.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | AnimaLudo: Extended Edition | 199839 | [199839-animaludo-extended-edition.json](./199839-animaludo-extended-edition.json) |
 | AnimaLudo: Zoo pack | 404564 | [404564-animaludo-zoo-pack.json](./404564-animaludo-zoo-pack.json) |
