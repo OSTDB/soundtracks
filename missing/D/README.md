@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
 | Dalton4 | 57782 | [57782-dalton4.json](./57782-dalton4.json) |
 | Daluob | 388502 | [388502-daluob.json](./388502-daluob.json) |
+| Dam Busters | 245069 | [245069-dam-busters.json](./245069-dam-busters.json) |
 | Dam Dam Stompland | 92317 | [92317-dam-dam-stompland.json](./92317-dam-dam-stompland.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Dam Rush XD | 397392 | [397392-dam-rush-xd.json](./397392-dam-rush-xd.json) |
@@ -13004,6 +13005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Loser MC | 334271 | [334271-doki-doki-loser-mc.json](./334271-doki-doki-loser-mc.json) |
 | Doki Doki Love and Literature | 336270 | [336270-doki-doki-love-and-literature.json](./336270-doki-doki-love-and-literature.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
+| Doki Doki Mario 64 | 243906 | [243906-doki-doki-mario-64.json](./243906-doki-doki-mario-64.json) |
 | Doki Doki Meme Club | 257599 | [257599-doki-doki-meme-club.json](./257599-doki-doki-meme-club.json) |
 | Doki Doki Meme Club 2: Rise of The Dark Memes | 336243 | [336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json](./336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json) |
 | Doki Doki Memories of Nothing | 333832 | [333832-doki-doki-memories-of-nothing.json](./333832-doki-doki-memories-of-nothing.json) |
@@ -13539,6 +13541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
 | Don't freak out | 191069 | [191069-dont-freak-out.json](./191069-dont-freak-out.json) |
 | Don't Freak Part 1 | 334875 | [334875-dont-freak-part-1.json](./334875-dont-freak-part-1.json) |
+| Don't Freeze | 244985 | [244985-dont-freeze.json](./244985-dont-freeze.json) |
 | Don't Freeze: A Winter Card Survival | 372942 | [372942-dont-freeze-a-winter-card-survival.json](./372942-dont-freeze-a-winter-card-survival.json) |
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
@@ -17728,6 +17731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamstones | 74676 | [74676-dreamstones.json](./74676-dreamstones.json) |
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
 | Dreamstranded | 390321 | [390321-dreamstranded.json](./390321-dreamstranded.json) |
+| DreamStream | 244990 | [244990-dreamstream.json](./244990-dreamstream.json) |
 | Dreamstudio | 61860 | [61860-dreamstudio.json](./61860-dreamstudio.json) |
 | Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
 | Dreamt | 147064 | [147064-dreamt.json](./147064-dreamt.json) |
