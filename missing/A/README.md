@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frail Qubit | 192722 | [192722-a-frail-qubit.json](./192722-a-frail-qubit.json) |
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
+| A Friend Called Loneliness | 219707 | [219707-a-friend-called-loneliness.json](./219707-a-friend-called-loneliness.json) |
 | A Friendly Reminder | 253155 | [253155-a-friendly-reminder.json](./253155-a-friendly-reminder.json) |
 | A Frog Game | 67066 | [67066-a-frog-game.json](./67066-a-frog-game.json) |
 | A Frog in a Small Pond | 382709 | [382709-a-frog-in-a-small-pond.json](./382709-a-frog-in-a-small-pond.json) |
@@ -4435,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 2 | 270073 | [270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json](./270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 3 | 270866 | [270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json](./270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
+| Aerial Platforms | 219703 | [219703-aerial-platforms.json](./219703-aerial-platforms.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
 | Aerial Raider | 375730 | [375730-aerial-raider.json](./375730-aerial-raider.json) |
 | Aerial Rave | 286483 | [286483-aerial-rave.json](./286483-aerial-rave.json) |
@@ -4466,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Fighters 2 | 6773 | [6773-aero-fighters-2.json](./6773-aero-fighters-2.json) |
 | Aero Fighters 3 | 55051 | [55051-aero-fighters-3.json](./55051-aero-fighters-3.json) |
 | Aero Fighters Special | 351074 | [351074-aero-fighters-special.json](./351074-aero-fighters-special.json) |
+| Aero GPX | 219704 | [219704-aero-gpx.json](./219704-aero-gpx.json) |
 | Aero Guitar | 84466 | [84466-aero-guitar.json](./84466-aero-guitar.json) |
 | Aero Porter | 21017 | [21017-aero-porter.json](./21017-aero-porter.json) |
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
@@ -4564,12 +4567,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Calm Horizon 2 | 420694 | [420694-aery-calm-horizon-2.json](./420694-aery-calm-horizon-2.json) |
 | Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
 | Aery: Calm Mind 2 | 189955 | [189955-aery-calm-mind-2.json](./189955-aery-calm-mind-2.json) |
+| Aery: Calm Mind 3 | 219705 | [219705-aery-calm-mind-3.json](./219705-aery-calm-mind-3.json) |
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Calm Mind Bundle | 301744 | [301744-aery-calm-mind-bundle.json](./301744-aery-calm-mind-bundle.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
 | Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
 | Aery: Flow of Time | 260480 | [260480-aery-flow-of-time.json](./260480-aery-flow-of-time.json) |
+| Aery: Heaven & Hell | 219706 | [219706-aery-heaven-and-hell.json](./219706-aery-heaven-and-hell.json) |
 | Aery: Little Bird Adventure | 173928 | [173928-aery-little-bird-adventure.json](./173928-aery-little-bird-adventure.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
@@ -9721,6 +9726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amogus.io | 233966 | [233966-amogus-io.json](./233966-amogus-io.json) |
 | Amok | 33454 | [33454-amok.json](./33454-amok.json) |
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
+| Amok Runner | 219708 | [219708-amok-runner.json](./219708-amok-runner.json) |
 | Amok! | 41531 | [41531-amok.json](./41531-amok.json) |
 | Amon | 75934 | [75934-amon.json](./75934-amon.json) |
 | Amon Amarth | 76156 | [76156-amon-amarth.json](./76156-amon-amarth.json) |
@@ -11553,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Ankh 3: Ramusesu Dai-ou no Nazo | 234165 | [234165-ankh-3-ramusesu-dai-ou-no-nazo.json](./234165-ankh-3-ramusesu-dai-ou-no-nazo.json) |
 | Ankh Guardian: Treasure of the Demon's Temple | 120180 | [120180-ankh-guardian-treasure-of-the-demons-temple.json](./120180-ankh-guardian-treasure-of-the-demons-temple.json) |
+| Ankh Tower: Protect the Fortress with Dark Magic | 219709 | [219709-ankh-tower-protect-the-fortress-with-dark-magic.json](./219709-ankh-tower-protect-the-fortress-with-dark-magic.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
 | Ankh: Pyramid No Nazo | 231656 | [231656-ankh-pyramid-no-nazo.json](./231656-ankh-pyramid-no-nazo.json) |
@@ -11622,6 +11629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilated | 291331 | [291331-annihilated.json](./291331-annihilated.json) |
 | Annihilation | 171673 | [171673-annihilation.json](./171673-annihilation.json) |
+| Annihilation | 219710 | [219710-annihilation.json](./219710-annihilation.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation | 84748 | [84748-annihilation.json](./84748-annihilation.json) |
 | Annihilation Mobile | 173408 | [173408-annihilation-mobile.json](./173408-annihilation-mobile.json) |
@@ -12428,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
+| Anxiety.exe | 219711 | [219711-anxiety-exe.json](./219711-anxiety-exe.json) |
 | Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
 | Anxious: Yuukyuu no Memory | 278021 | [278021-anxious-yuukyuu-no-memory.json](./278021-anxious-yuukyuu-no-memory.json) |
 | ANXRacers: Drift Space | 214711 | [214711-anxracers-drift-space.json](./214711-anxracers-drift-space.json) |
@@ -16245,6 +16254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend of Arlo | 252011 | [252011-ascend-of-arlo.json](./252011-ascend-of-arlo.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
+| Ascend: Reborn | 219712 | [219712-ascend-reborn.json](./219712-ascend-reborn.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
 | Ascendance | 258241 | [258241-ascendance.json](./258241-ascendance.json) |
@@ -17394,6 +17404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraaal | 133270 | [133270-astraaal.json](./133270-astraaal.json) |
 | Astracraft | 142615 | [142615-astracraft.json](./142615-astracraft.json) |
 | Astrae Oratio | 403926 | [403926-astrae-oratio.json](./403926-astrae-oratio.json) |
+| Astraea | 219713 | [219713-astraea.json](./219713-astraea.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
@@ -17478,6 +17489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Throne | 263819 | [263819-astral-throne.json](./263819-astral-throne.json) |
 | Astral Throne II: Age of the Phoenix | 404610 | [404610-astral-throne-ii-age-of-the-phoenix.json](./404610-astral-throne-ii-age-of-the-phoenix.json) |
 | Astral Tournament | 73863 | [73863-astral-tournament.json](./73863-astral-tournament.json) |
+| Astral Tournament: A prequel of the Astral Masters | 219714 | [219714-astral-tournament-a-prequel-of-the-astral-masters.json](./219714-astral-tournament-a-prequel-of-the-astral-masters.json) |
 | Astral Towers | 25452 | [25452-astral-towers.json](./25452-astral-towers.json) |
 | Astral Tracks | 258619 | [258619-astral-tracks.json](./258619-astral-tracks.json) |
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
@@ -19143,6 +19155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Hustle | 313456 | [313456-auto-hustle.json](./313456-auto-hustle.json) |
+| Auto Immune | 219716 | [219716-auto-immune.json](./219716-auto-immune.json) |
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
 | Auto Jurassic Knights | 370866 | [370866-auto-jurassic-knights.json](./370866-auto-jurassic-knights.json) |
 | Auto Kingdom Crunch | 194913 | [194913-auto-kingdom-crunch.json](./194913-auto-kingdom-crunch.json) |
@@ -19798,6 +19811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
 | Awakening of Dragon | 208908 | [208908-awakening-of-dragon.json](./208908-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
+| Awakening of Legend | 219717 | [219717-awakening-of-legend.json](./219717-awakening-of-legend.json) |
 | Awakening of Solutio | 369610 | [369610-awakening-of-solutio.json](./369610-awakening-of-solutio.json) |
 | Awakening of the Eclipse | 299028 | [299028-awakening-of-the-eclipse.json](./299028-awakening-of-the-eclipse.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
@@ -20144,6 +20158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azaran: The Demon Bottle | 359913 | [359913-azaran-the-demon-bottle.json](./359913-azaran-the-demon-bottle.json) |
 | Azarashi | 181538 | [181538-azarashi.json](./181538-azarashi.json) |
 | Azarashi Dentetsu | 142074 | [142074-azarashi-dentetsu.json](./142074-azarashi-dentetsu.json) |
+| Azarine Heart | 219719 | [219719-azarine-heart.json](./219719-azarine-heart.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
 | Azayaka na Irodori no Naka de Kimi Rashiku: Premium Edition | 212323 | [212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json](./212323-azayaka-na-irodori-no-naka-de-kimi-rashiku-premium-edition.json) |
