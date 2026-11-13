@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1302,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Baking with Lizzie | 240961 | [240961-baking-with-lizzie.json](./240961-baking-with-lizzie.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Bakken: Ski Jumping | 243898 | [243898-bakken-ski-jumping.json](./243898-bakken-ski-jumping.json) |
 | Bakken: Ski Jumping - Next Season | 388133 | [388133-bakken-ski-jumping-next-season.json](./388133-bakken-ski-jumping-next-season.json) |
 | Bakken: Ski Jumping 2025 | 333249 | [333249-bakken-ski-jumping-2025.json](./333249-bakken-ski-jumping-2025.json) |
 | Bakkorila | 387279 | [387279-bakkorila.json](./387279-bakkorila.json) |
