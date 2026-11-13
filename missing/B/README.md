@@ -9096,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birb | 388699 | [388699-birb.json](./388699-birb.json) |
 | Birb Café | 200356 | [200356-birb-cafe.json](./200356-birb-cafe.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
+| Birb Race | 207457 | [207457-birb-race.json](./207457-birb-race.json) |
 | Birb Taxi | 400006 | [400006-birb-taxi.json](./400006-birb-taxi.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
 | Birch Simulator | 271136 | [271136-birch-simulator.json](./271136-birch-simulator.json) |
@@ -12277,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
 | Bloodsports.TV | 10057 | [10057-bloodsports-tv.json](./10057-bloodsports-tv.json) |
 | Bloodsports.TV: Blood Brawl | 170184 | [170184-bloodsports-tv-blood-brawl.json](./170184-bloodsports-tv-blood-brawl.json) |
+| Bloodstage: Possessed by a Tsundere Demon | 207451 | [207451-bloodstage-possessed-by-a-tsundere-demon.json](./207451-bloodstage-possessed-by-a-tsundere-demon.json) |
 | Bloodstain | 257298 | [257298-bloodstain.json](./257298-bloodstain.json) |
 | Bloodstained: Curse of the Moon Chronicles | 282858 | [282858-bloodstained-curse-of-the-moon-chronicles.json](./282858-bloodstained-curse-of-the-moon-chronicles.json) |
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
@@ -13875,6 +13877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombrigade: Battlegrounds | 129526 | [129526-bombrigade-battlegrounds.json](./129526-bombrigade-battlegrounds.json) |
 | Bombs Away | 113936 | [113936-bombs-away.json](./113936-bombs-away.json) |
+| Bombs Away | 207422 | [207422-bombs-away.json](./207422-bombs-away.json) |
 | Bombs Away | 245147 | [245147-bombs-away.json](./245147-bombs-away.json) |
 | Bombs Away on Barrels | 240839 | [240839-bombs-away-on-barrels.json](./240839-bombs-away-on-barrels.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
@@ -13896,6 +13899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomi Omyeon Kkochi Pigo | 304247 | [304247-bomi-omyeon-kkochi-pigo.json](./304247-bomi-omyeon-kkochi-pigo.json) |
 | Bomight | 99443 | [99443-bomight.json](./99443-bomight.json) |
 | BomjMan | 120746 | [120746-bomjman.json](./120746-bomjman.json) |
+| Bomjtown | 207427 | [207427-bomjtown.json](./207427-bomjtown.json) |
 | Bommy | 396293 | [396293-bommy.json](./396293-bommy.json) |
 | Boms Away! | 217656 | [217656-boms-away.json](./217656-boms-away.json) |
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
@@ -20168,6 +20172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
 | By the Numbers | 424651 | [424651-by-the-numbers.json](./424651-by-the-numbers.json) |
 | By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
+| By the Vine | 207425 | [207425-by-the-vine.json](./207425-by-the-vine.json) |
 | By the World's Wind | 210323 | [210323-by-the-worlds-wind.json](./210323-by-the-worlds-wind.json) |
 | By Your Side | 134864 | [134864-by-your-side.json](./134864-by-your-side.json) |
 | Byakko-tai Samurai Boys | 146942 | [146942-byakko-tai-samurai-boys.json](./146942-byakko-tai-samurai-boys.json) |
