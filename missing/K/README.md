@@ -6049,6 +6049,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoro | 218964 | [218964-kotoro.json](./218964-kotoro.json) |
 | Kotowari no Sketch | 367723 | [367723-kotowari-no-sketch.json](./367723-kotowari-no-sketch.json) |
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
+| Kotsuniku no Scotra: Banana Squash | 240454 | [240454-kotsuniku-no-scotra-banana-squash.json](./240454-kotsuniku-no-scotra-banana-squash.json) |
+| Kotsuniku no Scotra: Rakkyo Kuu Carbuncle | 240446 | [240446-kotsuniku-no-scotra-rakkyo-kuu-carbuncle.json](./240446-kotsuniku-no-scotra-rakkyo-kuu-carbuncle.json) |
+| Kotsuniku no Scotra: Shain Satsu Sasaki Jigoku | 240451 | [240451-kotsuniku-no-scotra-shain-satsu-sasaki-jigoku.json](./240451-kotsuniku-no-scotra-shain-satsu-sasaki-jigoku.json) |
 | Kottabos VR | 289233 | [289233-kottabos-vr.json](./289233-kottabos-vr.json) |
 | Kotyxa | 387053 | [387053-kotyxa.json](./387053-kotyxa.json) |
 | Kou | 229387 | [229387-kou.json](./229387-kou.json) |
