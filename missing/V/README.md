@@ -4372,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Return to the Middle Ages: Fully Interactive | 163180 | [163180-vr-return-to-the-middle-ages-fully-interactive.json](./163180-vr-return-to-the-middle-ages-fully-interactive.json) |
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Robinhood Archery | 209390 | [209390-vr-robinhood-archery.json](./209390-vr-robinhood-archery.json) |
+| VR Robot Fight | 201605 | [201605-vr-robot-fight.json](./201605-vr-robot-fight.json) |
 | VR Rock Climbing | 220524 | [220524-vr-rock-climbing.json](./220524-vr-rock-climbing.json) |
 | VR Roller Coaster | 88899 | [88899-vr-roller-coaster.json](./88899-vr-roller-coaster.json) |
 | VR Roller Coaster - Cave Depths | 75659 | [75659-vr-roller-coaster-cave-depths.json](./75659-vr-roller-coaster-cave-depths.json) |
