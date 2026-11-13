@@ -3838,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle | 333448 | [333448-battle.json](./333448-battle.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle 100 | 103818 | [103818-battle-100.json](./103818-battle-100.json) |
+| Battle 19XX | 195667 | [195667-battle-19xx.json](./195667-battle-19xx.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 17175 | [17175-battle-academy.json](./17175-battle-academy.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
@@ -8364,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Top Best Kids Games Bundle | 303877 | [303877-big-top-best-kids-games-bundle.json](./303877-big-top-best-kids-games-bundle.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
 | Big Tower Tiny Square | 76318 | [76318-big-tower-tiny-square.json](./76318-big-tower-tiny-square.json) |
+| Big Tower Tiny Square 2 | 195673 | [195673-big-tower-tiny-square-2.json](./195673-big-tower-tiny-square-2.json) |
 | Big Town Shootout | 65868 | [65868-big-town-shootout.json](./65868-big-town-shootout.json) |
 | Big Trouble in Little Chimney | 327122 | [327122-big-trouble-in-little-chimney.json](./327122-big-trouble-in-little-chimney.json) |
 | Big Trouble in Little China | 13397 | [13397-big-trouble-in-little-china.json](./13397-big-trouble-in-little-china.json) |
