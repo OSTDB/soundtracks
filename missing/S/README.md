@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Kotar: The Ritual | 220774 | [220774-saint-kotar-the-ritual.json](./220774-saint-kotar-the-ritual.json) |
 | Saint Kotar: The Yellow Mask | 104876 | [104876-saint-kotar-the-yellow-mask.json](./104876-saint-kotar-the-yellow-mask.json) |
 | Saint Maker | 195551 | [195551-saint-maker.json](./195551-saint-maker.json) |
+| Saint Maribel | 206284 | [206284-saint-maribel.json](./206284-saint-maribel.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
 | Saint Paradise: Saikyou no Senshi-tachi | 49099 | [49099-saint-paradise-saikyou-no-senshi-tachi.json](./49099-saint-paradise-saikyou-no-senshi-tachi.json) |
 | Saint Patrick's Day Break 2 Head to Head | 194360 | [194360-saint-patricks-day-break-2-head-to-head.json](./194360-saint-patricks-day-break-2-head-to-head.json) |
