@@ -10984,6 +10984,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clay Skeet Shooting | 90423 | [90423-clay-skeet-shooting.json](./90423-clay-skeet-shooting.json) |
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
+| Clay Soldiers: The Faithful | 237696 | [237696-clay-soldiers-the-faithful.json](./237696-clay-soldiers-the-faithful.json) |
+| Clay Soldiers: The Immortals | 237695 | [237695-clay-soldiers-the-immortals.json](./237695-clay-soldiers-the-immortals.json) |
+| Clay Soldiers: The Raiders | 237694 | [237694-clay-soldiers-the-raiders.json](./237694-clay-soldiers-the-raiders.json) |
 | Clay-Scape | 301905 | [301905-clay-scape.json](./301905-clay-scape.json) |
 | Claybook | 28730 | [28730-claybook.json](./28730-claybook.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
@@ -12842,10 +12845,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colibricks | 99681 | [99681-colibricks.json](./99681-colibricks.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally | 235015 | [235015-colin-mcrae-rally.json](./235015-colin-mcrae-rally.json) |
+| Colin McRae Rally 04 | 237680 | [237680-colin-mcrae-rally-04.json](./237680-colin-mcrae-rally-04.json) |
 | Colin McRae Rally 04 | 641 | [641-colin-mcrae-rally-04.json](./641-colin-mcrae-rally-04.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
+| Colin McRae Rally 2005 | 237686 | [237686-colin-mcrae-rally-2005.json](./237686-colin-mcrae-rally-2005.json) |
 | Colin McRae Rally 2005 | 7969 | [7969-colin-mcrae-rally-2005.json](./7969-colin-mcrae-rally-2005.json) |
 | Colin McRae Rally 2005 Plus | 44470 | [44470-colin-mcrae-rally-2005-plus.json](./44470-colin-mcrae-rally-2005-plus.json) |
 | Colin McRae Rally 3 | 7968 | [7968-colin-mcrae-rally-3.json](./7968-colin-mcrae-rally-3.json) |
@@ -17957,6 +17962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashing Not Optional | 296726 | [296726-crashing-not-optional.json](./296726-crashing-not-optional.json) |
 | Crashing Party | 247249 | [247249-crashing-party.json](./247249-crashing-party.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
+| Crashing Season Run | 237606 | [237606-crashing-season-run.json](./237606-crashing-season-run.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashlands 2 | 252355 | [252355-crashlands-2.json](./252355-crashlands-2.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
