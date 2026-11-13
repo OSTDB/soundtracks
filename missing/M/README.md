@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
 | Magic Carousel | 41468 | [41468-magic-carousel.json](./41468-magic-carousel.json) |
+| Magic Carpet 1001 | 222580 | [222580-magic-carpet-1001.json](./222580-magic-carpet-1001.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Carpet Ride | 289116 | [289116-magic-carpet-ride.json](./289116-magic-carpet-ride.json) |
 | Magic Carpet: Hidden Worlds | 8922 | [8922-magic-carpet-hidden-worlds.json](./8922-magic-carpet-hidden-worlds.json) |
@@ -9208,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mehen | 386090 | [386090-mehen.json](./386090-mehen.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | Mei Qi 2020 | 223284 | [223284-mei-qi-2020.json](./223284-mei-qi-2020.json) |
+| Mei Qi 2021 | 223196 | [223196-mei-qi-2021.json](./223196-mei-qi-2021.json) |
 | Mei Qi: Season 5 | 159565 | [159565-mei-qi-season-5.json](./159565-mei-qi-season-5.json) |
 | Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
 | Meian | 416759 | [416759-meian.json](./416759-meian.json) |
@@ -13493,6 +13495,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Buzzy Bees | 353183 | [353183-minecraft-buzzy-bees.json](./353183-minecraft-buzzy-bees.json) |
 | Minecraft: Camp Enderwood | 305073 | [305073-minecraft-camp-enderwood.json](./305073-minecraft-camp-enderwood.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
+| Minecraft: Caves & Cliffs - Part I | 222586 | [222586-minecraft-caves-and-cliffs-part-i.json](./222586-minecraft-caves-and-cliffs-part-i.json) |
+| Minecraft: Caves & Cliffs - Part I | 222587 | [222587-minecraft-caves-and-cliffs-part-i.json](./222587-minecraft-caves-and-cliffs-part-i.json) |
 | Minecraft: Caves & Cliffs - Part II | 222606 | [222606-minecraft-caves-and-cliffs-part-ii.json](./222606-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
@@ -13572,6 +13576,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: N7 Mash-up | 233818 | [233818-minecraft-n7-mash-up.json](./233818-minecraft-n7-mash-up.json) |
 | Minecraft: Natural Texture Pack | 334052 | [334052-minecraft-natural-texture-pack.json](./334052-minecraft-natural-texture-pack.json) |
 | Minecraft: Nerf World | 269952 | [269952-minecraft-nerf-world.json](./269952-minecraft-nerf-world.json) |
+| Minecraft: Nether Update | 222584 | [222584-minecraft-nether-update.json](./222584-minecraft-nether-update.json) |
+| Minecraft: Nether Update | 222585 | [222585-minecraft-nether-update.json](./222585-minecraft-nether-update.json) |
 | Minecraft: New Nintendo 3DS Edition | 67191 | [67191-minecraft-new-nintendo-3ds-edition.json](./67191-minecraft-new-nintendo-3ds-edition.json) |
 | Minecraft: Nightmare Skin Pack | 333235 | [333235-minecraft-nightmare-skin-pack.json](./333235-minecraft-nightmare-skin-pack.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
@@ -21031,6 +21037,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
+| Muramasa Rebirth: Genroku Legends - A Cause to Daikon For | 223123 | [223123-muramasa-rebirth-genroku-legends-a-cause-to-daikon-for.json](./223123-muramasa-rebirth-genroku-legends-a-cause-to-daikon-for.json) |
+| Muramasa Rebirth: Genroku Legends - A Spirited Seven Nights' Haunting | 223124 | [223124-muramasa-rebirth-genroku-legends-a-spirited-seven-nights-haunting.json](./223124-muramasa-rebirth-genroku-legends-a-spirited-seven-nights-haunting.json) |
+| Muramasa Rebirth: Genroku Legends - Fishy Tales of the Nekomata | 223120 | [223120-muramasa-rebirth-genroku-legends-fishy-tales-of-the-nekomata.json](./223120-muramasa-rebirth-genroku-legends-fishy-tales-of-the-nekomata.json) |
+| Muramasa Rebirth: Genroku Legends - Hell's Where the Heart Is | 223125 | [223125-muramasa-rebirth-genroku-legends-hells-where-the-heart-is.json](./223125-muramasa-rebirth-genroku-legends-hells-where-the-heart-is.json) |
 | Muramasa: Revenant Blades | 405445 | [405445-muramasa-revenant-blades.json](./405445-muramasa-revenant-blades.json) |
 | Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
 | Muraphilic Monophobic Multiban | 422172 | [422172-muraphilic-monophobic-multiban.json](./422172-muraphilic-monophobic-multiban.json) |
