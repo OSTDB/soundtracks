@@ -18215,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prvá Akcia | 93224 | [93224-prva-akcia.json](./93224-prva-akcia.json) |
 | Pry | 278207 | [278207-pry.json](./278207-pry.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
+| Pryhody pionerky Kseni | 227038 | [227038-pryhody-pionerky-kseni.json](./227038-pryhody-pionerky-kseni.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
 | Pryzm Chapter One: The Dark Unicorn | 24078 | [24078-pryzm-chapter-one-the-dark-unicorn.json](./24078-pryzm-chapter-one-the-dark-unicorn.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
