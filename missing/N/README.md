@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Yume Douchuuki | 213094 | [213094-neko-yume-douchuuki.json](./213094-neko-yume-douchuuki.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-chan's Club | 238803 | [238803-neko-chans-club.json](./238803-neko-chans-club.json) |
+| Neko-Mimi Sweet Housemates Vol. 1 | 192861 | [192861-neko-mimi-sweet-housemates-vol-1.json](./192861-neko-mimi-sweet-housemates-vol-1.json) |
 | Neko-Mimi Sweet Housemates Vol. 2 | 405362 | [405362-neko-mimi-sweet-housemates-vol-2.json](./405362-neko-mimi-sweet-housemates-vol-2.json) |
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
