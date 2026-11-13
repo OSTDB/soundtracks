@@ -4475,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tears | 204665 | [204665-red-tears.json](./204665-red-tears.json) |
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
 | Red Terror | 256208 | [256208-red-terror.json](./256208-red-terror.json) |
+| Red Tether | 172222 | [172222-red-tether.json](./172222-red-tether.json) |
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
 | Red Thread | 232214 | [232214-red-thread.json](./232214-red-thread.json) |
 | Red Thunder | 69751 | [69751-red-thunder.json](./69751-red-thunder.json) |
@@ -9712,6 +9713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboDeal Simulator | 406127 | [406127-robodeal-simulator.json](./406127-robodeal-simulator.json) |
 | Robodemons | 48207 | [48207-robodemons.json](./48207-robodemons.json) |
 | Roboden | 250878 | [250878-roboden.json](./250878-roboden.json) |
+| RoboDo | 172226 | [172226-robodo.json](./172226-robodo.json) |
 | RoboDoc Jr. | 364594 | [364594-robodoc-jr.json](./364594-robodoc-jr.json) |
 | Robodunk | 152176 | [152176-robodunk.json](./152176-robodunk.json) |
 | RoboFarm | 376419 | [376419-robofarm.json](./376419-robofarm.json) |
@@ -13555,6 +13557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Bunny | 120922 | [120922-run-bunny.json](./120922-run-bunny.json) |
 | Run! Bunny | 121363 | [121363-run-bunny.json](./121363-run-bunny.json) |
 | Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
+| Run! Grandpa! Run! | 172255 | [172255-run-grandpa-run.json](./172255-run-grandpa-run.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run! Run! Lancer: Fate/Stay Night - Heaven's Feel | 316879 | [316879-run-run-lancer-fate-stay-night-heavens-feel.json](./316879-run-run-lancer-fate-stay-night-heavens-feel.json) |
 | Run! Run! Run! | 356426 | [356426-run-run-run.json](./356426-run-run-run.json) |
