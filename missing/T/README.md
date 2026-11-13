@@ -17467,6 +17467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sandbox Evolution | 25943 | [25943-the-sandbox-evolution.json](./25943-the-sandbox-evolution.json) |
 | The Sandbox of God: Remastered Edition | 57590 | [57590-the-sandbox-of-god-remastered-edition.json](./57590-the-sandbox-of-god-remastered-edition.json) |
+| The Sandbox: The Humans | 170569 | [170569-the-sandbox-the-humans.json](./170569-the-sandbox-the-humans.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
 | The Sands of Voltark | 131944 | [131944-the-sands-of-voltark.json](./131944-the-sands-of-voltark.json) |
 | The Sandwich Making Experience | 250798 | [250798-the-sandwich-making-experience.json](./250798-the-sandwich-making-experience.json) |
