@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Arrangement | 132113 | [132113-galaga-arrangement.json](./132113-galaga-arrangement.json) |
 | Galaga Arrangement | 178409 | [178409-galaga-arrangement.json](./178409-galaga-arrangement.json) |
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
+| Galaga Kai | 230595 | [230595-galaga-kai.json](./230595-galaga-kai.json) |
 | Galaga Legions | 21347 | [21347-galaga-legions.json](./21347-galaga-legions.json) |
 | Galaga Legions DX | 10762 | [10762-galaga-legions-dx.json](./10762-galaga-legions-dx.json) |
 | Galaga Micro Player | 246301 | [246301-galaga-micro-player.json](./246301-galaga-micro-player.json) |
@@ -888,6 +889,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 284380 | [284380-galaxian.json](./284380-galaxian.json) |
 | Galaxian | 4614 | [4614-galaxian.json](./4614-galaxian.json) |
 | Galaxian DX | 413202 | [413202-galaxian-dx.json](./413202-galaxian-dx.json) |
+| Galaxian Fever | 230590 | [230590-galaxian-fever.json](./230590-galaxian-fever.json) |
+| Galaxian Mini | 230594 | [230594-galaxian-mini.json](./230594-galaxian-mini.json) |
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
 | Galaxian Wars: Alien Shooter | 411525 | [411525-galaxian-wars-alien-shooter.json](./411525-galaxian-wars-alien-shooter.json) |
 | Galaxian2 | 218316 | [218316-galaxian2.json](./218316-galaxian2.json) |
@@ -6315,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Siege: Protect the Castle! | 271024 | [271024-goblin-siege-protect-the-castle.json](./271024-goblin-siege-protect-the-castle.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
+| Goblin Slayer: Endless Hunting | 230617 | [230617-goblin-slayer-endless-hunting.json](./230617-goblin-slayer-endless-hunting.json) |
 | Goblin Solitaire | 409401 | [409401-goblin-solitaire.json](./409401-goblin-solitaire.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
 | Goblin Stone | 144764 | [144764-goblin-stone.json](./144764-goblin-stone.json) |
@@ -6991,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axe Legend | 71584 | [71584-golden-axe-legend.json](./71584-golden-axe-legend.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
+| Golden Axe Returns | 232741 | [232741-golden-axe-returns.json](./232741-golden-axe-returns.json) |
 | Golden Axe Warrior | 46147 | [46147-golden-axe-warrior.json](./46147-golden-axe-warrior.json) |
 | Golden Axe: Beast Rider | 7001 | [7001-golden-axe-beast-rider.json](./7001-golden-axe-beast-rider.json) |
 | Golden Axe: The Curse of Death Adder | 198345 | [198345-golden-axe-the-curse-of-death-adder.json](./198345-golden-axe-the-curse-of-death-adder.json) |
@@ -11173,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Door | 301513 | [301513-guess-the-door.json](./301513-guess-the-door.json) |
 | Guess the Flag! | 305905 | [305905-guess-the-flag.json](./305905-guess-the-flag.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
+| Guess the Line | 232738 | [232738-guess-the-line.json](./232738-guess-the-line.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess the Movie Game | 232503 | [232503-guess-the-movie-game.json](./232503-guess-the-movie-game.json) |
