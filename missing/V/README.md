@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
 | Vanilla Wafers | 275215 | [275215-vanilla-wafers.json](./275215-vanilla-wafers.json) |
+| Vanilla: Garden of Judgement | 218761 | [218761-vanilla-garden-of-judgement.json](./218761-vanilla-garden-of-judgement.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
 | VanillaBeast: Ace in the Hole | 148992 | [148992-vanillabeast-ace-in-the-hole.json](./148992-vanillabeast-ace-in-the-hole.json) |
 | VanillaBeast: Mystery Kink | 289506 | [289506-vanillabeast-mystery-kink.json](./289506-vanillabeast-mystery-kink.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRZ Torment | 32503 | [32503-vrz-torment.json](./32503-vrz-torment.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
 | VS Cartoon Cat | 305063 | [305063-vs-cartoon-cat.json](./305063-vs-cartoon-cat.json) |
+| Vs Chat Pack | 218762 | [218762-vs-chat-pack.json](./218762-vs-chat-pack.json) |
 | VS Mahjong: Otome Ryouran | 310348 | [310348-vs-mahjong-otome-ryouran.json](./310348-vs-mahjong-otome-ryouran.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
