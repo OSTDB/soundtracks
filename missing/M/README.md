@@ -16626,6 +16626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
 | Mon Poulain 3D | 147219 | [147219-mon-poulain-3d.json](./147219-mon-poulain-3d.json) |
 | Mon Premier Karaoke | 84605 | [84605-mon-premier-karaoke.json](./84605-mon-premier-karaoke.json) |
+| Mon Samsara | 181810 | [181810-mon-samsara.json](./181810-mon-samsara.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
 | Mon-Musu Master | 201462 | [201462-mon-musu-master.json](./201462-mon-musu-master.json) |
 | Mon-Yu: Defeat Monsters And Gain Strong Weapons And Armor. You May Be Defeated, But Don’t Give Up. Become Stronger. I Believe There Will Be A Day When The Heroes Defeat The Devil King. | 248298 | [248298-mon-yu-defeat-monsters-and-gain-strong-weapons-and-armor-you-may-be-defeated-but-don-t-give-up-become-stronger-i-believe-there-will-be-a-day-when-the-heroes-defeat-the-devil-king.json](./248298-mon-yu-defeat-monsters-and-gain-strong-weapons-and-armor-you-may-be-defeated-but-don-t-give-up-become-stronger-i-believe-there-will-be-a-day-when-the-heroes-defeat-the-devil-king.json) |
@@ -19354,6 +19355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
 | Mother Bunker VR | 311513 | [311513-mother-bunker-vr.json](./311513-mother-bunker-vr.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
+| Mother Clucker | 181406 | [181406-mother-clucker.json](./181406-mother-clucker.json) |
 | Mother Dear | 240655 | [240655-mother-dear.json](./240655-mother-dear.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
 | Mother Ghoul: The Curse of Unborns | 249983 | [249983-mother-ghoul-the-curse-of-unborns.json](./249983-mother-ghoul-the-curse-of-unborns.json) |
