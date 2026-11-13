@@ -7215,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
 | Berlin Connection | 93397 | [93397-berlin-connection.json](./93397-berlin-connection.json) |
+| Berlin Maniacs | 213507 | [213507-berlin-maniacs.json](./213507-berlin-maniacs.json) |
 | Berlin no Kabe | 46322 | [46322-berlin-no-kabe.json](./46322-berlin-no-kabe.json) |
 | Berlin no Kabe GG2SMS | 369494 | [369494-berlin-no-kabe-gg2sms.json](./369494-berlin-no-kabe-gg2sms.json) |
 | Berlin Wall | 421192 | [421192-berlin-wall.json](./421192-berlin-wall.json) |
@@ -11137,6 +11138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blinky's Scary School | 12498 | [12498-blinkys-scary-school.json](./12498-blinkys-scary-school.json) |
+| Blinnk and the Vacuum of Space | 213517 | [213517-blinnk-and-the-vacuum-of-space.json](./213517-blinnk-and-the-vacuum-of-space.json) |
 | Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
 | Blinx: The Time Sweeper | 5751 | [5751-blinx-the-time-sweeper.json](./5751-blinx-the-time-sweeper.json) |
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
@@ -17494,6 +17496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
 | BrokenLore: Miki-chan | 421167 | [421167-brokenlore-miki-chan.json](./421167-brokenlore-miki-chan.json) |
 | Brokensides | 419749 | [419749-brokensides.json](./419749-brokensides.json) |
+| Broki | 213065 | [213065-broki.json](./213065-broki.json) |
 | Brolections 2022 | 193078 | [193078-brolections-2022.json](./193078-brolections-2022.json) |
 | Broll | 140843 | [140843-broll.json](./140843-broll.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
