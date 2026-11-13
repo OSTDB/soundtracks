@@ -13167,6 +13167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolan Kart | 96914 | [96914-dolan-kart.json](./96914-dolan-kart.json) |
 | Dolan Reborn | 265685 | [265685-dolan-reborn.json](./265685-dolan-reborn.json) |
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
+| Dolchio | 224866 | [224866-dolchio.json](./224866-dolchio.json) |
 | Dole: 5 A Day Adventures | 210113 | [210113-dole-5-a-day-adventures.json](./210113-dole-5-a-day-adventures.json) |
 | Doler | 129446 | [129446-doler.json](./129446-doler.json) |
 | Dolguth | 34721 | [34721-dolguth.json](./34721-dolguth.json) |
@@ -15970,6 +15971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
 | Dragon Ball Z Pong | 396069 | [396069-dragon-ball-z-pong.json](./396069-dragon-ball-z-pong.json) |
+| Dragon Ball Z Taisen-gata Search Battle | 225254 | [225254-dragon-ball-z-taisen-gata-search-battle.json](./225254-dragon-ball-z-taisen-gata-search-battle.json) |
 | Dragon Ball Z Tournament | 141526 | [141526-dragon-ball-z-tournament.json](./141526-dragon-ball-z-tournament.json) |
 | Dragon Ball Z: A Batalha dos Deuses | 233843 | [233843-dragon-ball-z-a-batalha-dos-deuses.json](./233843-dragon-ball-z-a-batalha-dos-deuses.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
@@ -19700,6 +19702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Directive | 391627 | [391627-dungeon-directive.json](./391627-dungeon-directive.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Divas | 381776 | [381776-dungeon-divas.json](./381776-dungeon-divas.json) |
+| Dungeon Diver | 225256 | [225256-dungeon-diver.json](./225256-dungeon-diver.json) |
 | Dungeon Diver | 309423 | [309423-dungeon-diver.json](./309423-dungeon-diver.json) |
 | Dungeon Divers | 294354 | [294354-dungeon-divers.json](./294354-dungeon-divers.json) |
 | Dungeon Dogs | 224059 | [224059-dungeon-dogs.json](./224059-dungeon-dogs.json) |
