@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: Lethal Predictions | 88995 | [88995-edge-of-reality-lethal-predictions.json](./88995-edge-of-reality-lethal-predictions.json) |
 | Edge of Reality: Lethal Predictions - Collector's Edition | 397141 | [397141-edge-of-reality-lethal-predictions-collectors-edition.json](./397141-edge-of-reality-lethal-predictions-collectors-edition.json) |
 | Edge of Reality: Lost Secrets of the Forest | 397150 | [397150-edge-of-reality-lost-secrets-of-the-forest.json](./397150-edge-of-reality-lost-secrets-of-the-forest.json) |
+| Edge of Reality: Lost Secrets of the Forest Collector's Edition | 197290 | [197290-edge-of-reality-lost-secrets-of-the-forest-collectors-edition.json](./197290-edge-of-reality-lost-secrets-of-the-forest-collectors-edition.json) |
 | Edge of Reality: Mark of Fate | 187904 | [187904-edge-of-reality-mark-of-fate.json](./187904-edge-of-reality-mark-of-fate.json) |
 | Edge of Reality: Mark of Fate - Collector's Edition | 397147 | [397147-edge-of-reality-mark-of-fate-collectors-edition.json](./397147-edge-of-reality-mark-of-fate-collectors-edition.json) |
 | Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
