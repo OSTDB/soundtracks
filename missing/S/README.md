@@ -10090,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Waltz | 215942 | [215942-shooting-waltz.json](./215942-shooting-waltz.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootMania Storm | 16464 | [16464-shootmania-storm.json](./16464-shootmania-storm.json) |
+| Shootmephrenia | 185567 | [185567-shootmephrenia.json](./185567-shootmephrenia.json) |
 | Shootout | 245146 | [245146-shootout.json](./245146-shootout.json) |
 | Shootout | 253152 | [253152-shootout.json](./253152-shootout.json) |
 | Shootout | 287555 | [287555-shootout.json](./287555-shootout.json) |
@@ -15998,6 +15999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smitty 2 | 316525 | [316525-smitty-2.json](./316525-smitty-2.json) |
 | Smitty's Journey | 179327 | [179327-smittys-journey.json](./179327-smittys-journey.json) |
 | SML Wiki | 373446 | [373446-sml-wiki.json](./373446-sml-wiki.json) |
+| Smock's Block | 185568 | [185568-smocks-block.json](./185568-smocks-block.json) |
 | SMOD | 307535 | [307535-smod.json](./307535-smod.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
