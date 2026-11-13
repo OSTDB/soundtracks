@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | Dank Armada | 417198 | [417198-dank-armada.json](./417198-dank-armada.json) |
 | Dank Prank: Dopeville | 117163 | [117163-dank-prank-dopeville.json](./117163-dank-prank-dopeville.json) |
+| Dank Subs | 196780 | [196780-dank-subs.json](./196780-dank-subs.json) |
 | Dank Tomb | 177330 | [177330-dank-tomb.json](./177330-dank-tomb.json) |
 | Dankenstoned’s Bongster’s Gram Smoker’s Stankula | 403188 | [403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json](./403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json) |
 | Danko and the Mystery of the Jungle | 129658 | [129658-danko-and-the-mystery-of-the-jungle.json](./129658-danko-and-the-mystery-of-the-jungle.json) |
@@ -19339,6 +19340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelist: Idle Expedition | 400826 | [400826-duelist-idle-expedition.json](./400826-duelist-idle-expedition.json) |
 | Duelist's Gambit | 337319 | [337319-duelists-gambit.json](./337319-duelists-gambit.json) |
+| Duelists of Eden | 196748 | [196748-duelists-of-eden.json](./196748-duelists-of-eden.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duelmasters | 370157 | [370157-duelmasters.json](./370157-duelmasters.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
