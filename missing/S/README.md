@@ -27813,7 +27813,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Break Out MP08 | 190661 | [190661-starry-moon-island-break-out-mp08.json](./190661-starry-moon-island-break-out-mp08.json) |
 | Starry Moon Island: Break Out MP09 | 190664 | [190664-starry-moon-island-break-out-mp09.json](./190664-starry-moon-island-break-out-mp09.json) |
 | Starry Moon Island: Break Out MP10 | 190660 | [190660-starry-moon-island-break-out-mp10.json](./190660-starry-moon-island-break-out-mp10.json) |
+| Starry Moon Island: Cannon War MP01 | 190621 | [190621-starry-moon-island-cannon-war-mp01.json](./190621-starry-moon-island-cannon-war-mp01.json) |
+| Starry Moon Island: Cannon War MP02 | 190622 | [190622-starry-moon-island-cannon-war-mp02.json](./190622-starry-moon-island-cannon-war-mp02.json) |
+| Starry Moon Island: Cannon War MP03 | 190620 | [190620-starry-moon-island-cannon-war-mp03.json](./190620-starry-moon-island-cannon-war-mp03.json) |
+| Starry Moon Island: Cannon War MP04 | 190624 | [190624-starry-moon-island-cannon-war-mp04.json](./190624-starry-moon-island-cannon-war-mp04.json) |
+| Starry Moon Island: Cannon War MP05 | 190618 | [190618-starry-moon-island-cannon-war-mp05.json](./190618-starry-moon-island-cannon-war-mp05.json) |
+| Starry Moon Island: Cannon War MP06 | 190619 | [190619-starry-moon-island-cannon-war-mp06.json](./190619-starry-moon-island-cannon-war-mp06.json) |
+| Starry Moon Island: Cannon War MP07 | 190626 | [190626-starry-moon-island-cannon-war-mp07.json](./190626-starry-moon-island-cannon-war-mp07.json) |
 | Starry Moon Island: Cannon War MP08 | 190617 | [190617-starry-moon-island-cannon-war-mp08.json](./190617-starry-moon-island-cannon-war-mp08.json) |
+| Starry Moon Island: Cannon War MP09 | 190625 | [190625-starry-moon-island-cannon-war-mp09.json](./190625-starry-moon-island-cannon-war-mp09.json) |
+| Starry Moon Island: Cannon War MP10 | 190623 | [190623-starry-moon-island-cannon-war-mp10.json](./190623-starry-moon-island-cannon-war-mp10.json) |
 | Starry Moon Island: Cannonade MP01 | 190670 | [190670-starry-moon-island-cannonade-mp01.json](./190670-starry-moon-island-cannonade-mp01.json) |
 | Starry Moon Island: Cannonade MP02 | 190675 | [190675-starry-moon-island-cannonade-mp02.json](./190675-starry-moon-island-cannonade-mp02.json) |
 | Starry Moon Island: Cannonade MP03 | 190676 | [190676-starry-moon-island-cannonade-mp03.json](./190676-starry-moon-island-cannonade-mp03.json) |
@@ -27824,12 +27833,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Cannonade MP08 | 190671 | [190671-starry-moon-island-cannonade-mp08.json](./190671-starry-moon-island-cannonade-mp08.json) |
 | Starry Moon Island: Cannonade MP09 | 190673 | [190673-starry-moon-island-cannonade-mp09.json](./190673-starry-moon-island-cannonade-mp09.json) |
 | Starry Moon Island: Cannonade MP10 | 190668 | [190668-starry-moon-island-cannonade-mp10.json](./190668-starry-moon-island-cannonade-mp10.json) |
+| Starry Moon Island: DNA War MP01 | 190628 | [190628-starry-moon-island-dna-war-mp01.json](./190628-starry-moon-island-dna-war-mp01.json) |
+| Starry Moon Island: DNA War MP02 | 190633 | [190633-starry-moon-island-dna-war-mp02.json](./190633-starry-moon-island-dna-war-mp02.json) |
+| Starry Moon Island: DNA War MP03 | 190627 | [190627-starry-moon-island-dna-war-mp03.json](./190627-starry-moon-island-dna-war-mp03.json) |
+| Starry Moon Island: DNA War MP04 | 190631 | [190631-starry-moon-island-dna-war-mp04.json](./190631-starry-moon-island-dna-war-mp04.json) |
+| Starry Moon Island: DNA War MP05 | 190630 | [190630-starry-moon-island-dna-war-mp05.json](./190630-starry-moon-island-dna-war-mp05.json) |
+| Starry Moon Island: DNA War MP06 | 190632 | [190632-starry-moon-island-dna-war-mp06.json](./190632-starry-moon-island-dna-war-mp06.json) |
+| Starry Moon Island: DNA War MP07 | 190629 | [190629-starry-moon-island-dna-war-mp07.json](./190629-starry-moon-island-dna-war-mp07.json) |
+| Starry Moon Island: DNA War MP08 | 190635 | [190635-starry-moon-island-dna-war-mp08.json](./190635-starry-moon-island-dna-war-mp08.json) |
+| Starry Moon Island: DNA War MP09 | 190636 | [190636-starry-moon-island-dna-war-mp09.json](./190636-starry-moon-island-dna-war-mp09.json) |
+| Starry Moon Island: DNA War MP10 | 190634 | [190634-starry-moon-island-dna-war-mp10.json](./190634-starry-moon-island-dna-war-mp10.json) |
 | Starry Moon Island: Mobile Stronghold MP01 | 190688 | [190688-starry-moon-island-mobile-stronghold-mp01.json](./190688-starry-moon-island-mobile-stronghold-mp01.json) |
 | Starry Moon Island: Mobile Stronghold MP02 | 190687 | [190687-starry-moon-island-mobile-stronghold-mp02.json](./190687-starry-moon-island-mobile-stronghold-mp02.json) |
+| Starry Moon Island: Mobile Stronghold MP03 | 190690 | [190690-starry-moon-island-mobile-stronghold-mp03.json](./190690-starry-moon-island-mobile-stronghold-mp03.json) |
+| Starry Moon Island: Mobile Stronghold MP04 | 190695 | [190695-starry-moon-island-mobile-stronghold-mp04.json](./190695-starry-moon-island-mobile-stronghold-mp04.json) |
+| Starry Moon Island: Mobile Stronghold MP05 | 190693 | [190693-starry-moon-island-mobile-stronghold-mp05.json](./190693-starry-moon-island-mobile-stronghold-mp05.json) |
+| Starry Moon Island: Mobile Stronghold MP06 | 190692 | [190692-starry-moon-island-mobile-stronghold-mp06.json](./190692-starry-moon-island-mobile-stronghold-mp06.json) |
+| Starry Moon Island: Mobile Stronghold MP07 | 190691 | [190691-starry-moon-island-mobile-stronghold-mp07.json](./190691-starry-moon-island-mobile-stronghold-mp07.json) |
+| Starry Moon Island: Mobile Stronghold MP08 | 190689 | [190689-starry-moon-island-mobile-stronghold-mp08.json](./190689-starry-moon-island-mobile-stronghold-mp08.json) |
 | Starry Moon Island: Mobile Stronghold MP09 | 190696 | [190696-starry-moon-island-mobile-stronghold-mp09.json](./190696-starry-moon-island-mobile-stronghold-mp09.json) |
+| Starry Moon Island: Mobile Stronghold MP10 | 190694 | [190694-starry-moon-island-mobile-stronghold-mp10.json](./190694-starry-moon-island-mobile-stronghold-mp10.json) |
+| Starry Moon Island: Out of Control MP01 | 190638 | [190638-starry-moon-island-out-of-control-mp01.json](./190638-starry-moon-island-out-of-control-mp01.json) |
 | Starry Moon Island: Out of Control MP02 | 190641 | [190641-starry-moon-island-out-of-control-mp02.json](./190641-starry-moon-island-out-of-control-mp02.json) |
 | Starry Moon Island: Out of Control MP03 | 190639 | [190639-starry-moon-island-out-of-control-mp03.json](./190639-starry-moon-island-out-of-control-mp03.json) |
 | Starry Moon Island: Out of Control MP04 | 190646 | [190646-starry-moon-island-out-of-control-mp04.json](./190646-starry-moon-island-out-of-control-mp04.json) |
+| Starry Moon Island: Out of Control MP05 | 190637 | [190637-starry-moon-island-out-of-control-mp05.json](./190637-starry-moon-island-out-of-control-mp05.json) |
 | Starry Moon Island: Out of Control MP06 | 190640 | [190640-starry-moon-island-out-of-control-mp06.json](./190640-starry-moon-island-out-of-control-mp06.json) |
 | Starry Moon Island: Out of Control MP07 | 190643 | [190643-starry-moon-island-out-of-control-mp07.json](./190643-starry-moon-island-out-of-control-mp07.json) |
 | Starry Moon Island: Out of Control MP08 | 190642 | [190642-starry-moon-island-out-of-control-mp08.json](./190642-starry-moon-island-out-of-control-mp08.json) |
@@ -32103,6 +32131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Attack | 66463 | [66463-sudden-attack.json](./66463-sudden-attack.json) |
 | Sudden Attack 2 | 317135 | [317135-sudden-attack-2.json](./317135-sudden-attack-2.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
+| Sudden Darkness | 190238 | [190238-sudden-darkness.json](./190238-sudden-darkness.json) |
 | Sudden Death | 299079 | [299079-sudden-death.json](./299079-sudden-death.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
 | Sudden Death Soccer | 99278 | [99278-sudden-death-soccer.json](./99278-sudden-death-soccer.json) |
