@@ -12581,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Detective: The Last Charm - Collector's Edition | 126790 | [126790-royal-detective-the-last-charm-collectors-edition.json](./126790-royal-detective-the-last-charm-collectors-edition.json) |
 | Royal Detective: The Lord of Statues | 140155 | [140155-royal-detective-the-lord-of-statues.json](./140155-royal-detective-the-lord-of-statues.json) |
 | Royal Detective: The Lord of Statues - Collector's Edition | 30431 | [30431-royal-detective-the-lord-of-statues-collectors-edition.json](./30431-royal-detective-the-lord-of-statues-collectors-edition.json) |
+| Royal Detective: The Princess Returns | 187934 | [187934-royal-detective-the-princess-returns.json](./187934-royal-detective-the-princess-returns.json) |
 | Royal Diamonds | 246556 | [246556-royal-diamonds.json](./246556-royal-diamonds.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
 | Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
@@ -14367,5 +14368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
 | Ryuusei-gou ni Notte | 259311 | [259311-ryuusei-gou-ni-notte.json](./259311-ryuusei-gou-ni-notte.json) |
 | Ryuuteki Gosennen: Dragons of China | 214812 | [214812-ryuuteki-gosennen-dragons-of-china.json](./214812-ryuuteki-gosennen-dragons-of-china.json) |
+| Ryzer: The Reflectors Path | 187561 | [187561-ryzer-the-reflectors-path.json](./187561-ryzer-the-reflectors-path.json) |
 | Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
 | RZR | 340676 | [340676-rzr.json](./340676-rzr.json) |
