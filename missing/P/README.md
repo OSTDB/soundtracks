@@ -20336,6 +20336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pxl-Ship | 133359 | [133359-pxl-ship.json](./133359-pxl-ship.json) |
 | pXt | 98883 | [98883-pxt.json](./98883-pxt.json) |
 | Py & Gity 2: The Industrial Age | 56038 | [56038-py-and-gity-2-the-industrial-age.json](./56038-py-and-gity-2-the-industrial-age.json) |
+| Pygmalion | 244530 | [244530-pygmalion.json](./244530-pygmalion.json) |
 | Pygmalion Lied | 178889 | [178889-pygmalion-lied.json](./178889-pygmalion-lied.json) |
 | Pygmalion's Doll | 408737 | [408737-pygmalions-doll.json](./408737-pygmalions-doll.json) |
 | Pygmy | 282734 | [282734-pygmy.json](./282734-pygmy.json) |
