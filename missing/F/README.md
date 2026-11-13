@@ -10185,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football School | 120084 | [120084-football-school.json](./120084-football-school.json) |
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
+| Football Sepak Kick Volleyball | 193907 | [193907-football-sepak-kick-volleyball.json](./193907-football-sepak-kick-volleyball.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
 | Football Simulator | 204023 | [204023-football-simulator.json](./204023-football-simulator.json) |
@@ -10424,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Foragarden | 412095 | [412095-foragarden.json](./412095-foragarden.json) |
 | Forager | 25580 | [25580-forager.json](./25580-forager.json) |
+| Forager: Pocket Edition | 193903 | [193903-forager-pocket-edition.json](./193903-forager-pocket-edition.json) |
 | Forager's Finds | 391421 | [391421-foragers-finds.json](./391421-foragers-finds.json) |
 | Foragery | 286307 | [286307-foragery.json](./286307-foragery.json) |
 | Forastero | 248968 | [248968-forastero.json](./248968-forastero.json) |
