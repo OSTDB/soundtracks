@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts! 2 | 88688 | [88688-hearts-2.json](./88688-hearts-2.json) |
 | Hearts++ | 88040 | [88040-hearts.json](./88040-hearts.json) |
 | Heartscape | 177467 | [177467-heartscape.json](./177467-heartscape.json) |
+| Heartseeker | 174935 | [174935-heartseeker.json](./174935-heartseeker.json) |
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartspell: Horizon Academy | 309311 | [309311-heartspell-horizon-academy.json](./309311-heartspell-horizon-academy.json) |
