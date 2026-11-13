@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
 | Odinfall | 244574 | [244574-odinfall.json](./244574-odinfall.json) |
 | Odinochestvo Skufa | 387055 | [387055-odinochestvo-skufa.json](./387055-odinochestvo-skufa.json) |
+| Odium | 211875 | [211875-odium.json](./211875-odium.json) |
 | Odiumfloreo | 371823 | [371823-odiumfloreo.json](./371823-odiumfloreo.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
