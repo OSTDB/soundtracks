@@ -5692,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai space | 153680 | [153680-ai-space.json](./153680-ai-space.json) |
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | AI Stories: Machine Angel | 287923 | [287923-ai-stories-machine-angel.json](./287923-ai-stories-machine-angel.json) |
+| AI Story Quest | 243894 | [243894-ai-story-quest.json](./243894-ai-story-quest.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | AI Texas Holdem Poker | 88346 | [88346-ai-texas-holdem-poker.json](./88346-ai-texas-holdem-poker.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
@@ -16183,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendant Hearts | 75760 | [75760-ascendant-hearts.json](./75760-ascendant-hearts.json) |
 | Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
+| Ascendant.com | 243893 | [243893-ascendant-com.json](./243893-ascendant-com.json) |
 | Ascendant's Roguelike | 242964 | [242964-ascendants-roguelike.json](./242964-ascendants-roguelike.json) |
 | Ascendants Rising | 151944 | [151944-ascendants-rising.json](./151944-ascendants-rising.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
