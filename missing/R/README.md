@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
+| Rada Quest | 239367 | [239367-rada-quest.json](./239367-rada-quest.json) |
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
 | Radagon Boss FIght | 290362 | [290362-radagon-boss-fight.json](./290362-radagon-boss-fight.json) |
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
