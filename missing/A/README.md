@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Academia: The Fractured Continent - Freshman's Weapon Set | 231216 | [231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json](./231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 1: Super Special Dreamer 1-3 | 216004 | [216004-adventure-academia-the-fractured-continent-new-adventure-volume-1-super-special-dreamer-1-3.json](./216004-adventure-academia-the-fractured-continent-new-adventure-volume-1-super-special-dreamer-1-3.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
+| Adventure Academia: The Fractured Continent - New Adventure Volume 3: Linking Light's Successor 1-3 | 225849 | [225849-adventure-academia-the-fractured-continent-new-adventure-volume-3-linking-lights-successor-1-3.json](./225849-adventure-academia-the-fractured-continent-new-adventure-volume-3-linking-lights-successor-1-3.json) |
 | Adventure Academia: The Fractured Continent - New Content Vol. 3 | 225503 | [225503-adventure-academia-the-fractured-continent-new-content-vol-3.json](./225503-adventure-academia-the-fractured-continent-new-content-vol-3.json) |
 | Adventure Academia: The Fractured Continent - Vol.1 Bonus Unit: Citrin | 216003 | [216003-adventure-academia-the-fractured-continent-vol-1-bonus-unit-citrin.json](./216003-adventure-academia-the-fractured-continent-vol-1-bonus-unit-citrin.json) |
 | Adventure Academia: The Fractured Continent - Vol.1 Bonus Unit: Spinel | 216002 | [216002-adventure-academia-the-fractured-continent-vol-1-bonus-unit-spinel.json](./216002-adventure-academia-the-fractured-continent-vol-1-bonus-unit-spinel.json) |
@@ -3932,6 +3933,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Lazuli | 220754 | [220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json](./220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Challenge Quest: Danger Mountain March EX | 220755 | [220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json](./220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json) |
 | Adventure Academia: The Fractured Continent - Vol.3 Additional Character Lapis | 231232 | [231232-adventure-academia-the-fractured-continent-vol-3-additional-character-lapis.json](./231232-adventure-academia-the-fractured-continent-vol-3-additional-character-lapis.json) |
+| Adventure Academia: The Fractured Continent - Vol.3 Bonus Unit: Euclase | 225850 | [225850-adventure-academia-the-fractured-continent-vol-3-bonus-unit-euclase.json](./225850-adventure-academia-the-fractured-continent-vol-3-bonus-unit-euclase.json) |
+| Adventure Academia: The Fractured Continent - Vol.3 Bonus Unit: Lapis | 225851 | [225851-adventure-academia-the-fractured-continent-vol-3-bonus-unit-lapis.json](./225851-adventure-academia-the-fractured-continent-vol-3-bonus-unit-lapis.json) |
+| Adventure Academia: The Fractured Continent - Vol.3 Challenge Quest: Linking Light's Successor EX | 225852 | [225852-adventure-academia-the-fractured-continent-vol-3-challenge-quest-linking-lights-successor-ex.json](./225852-adventure-academia-the-fractured-continent-vol-3-challenge-quest-linking-lights-successor-ex.json) |
 | Adventure Academy | 118175 | [118175-adventure-academy.json](./118175-adventure-academy.json) |
 | AdVenture Ages | 146547 | [146547-adventure-ages.json](./146547-adventure-ages.json) |
 | Adventure Allies | 316449 | [316449-adventure-allies.json](./316449-adventure-allies.json) |
@@ -10638,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angeraze | 361954 | [361954-angeraze.json](./361954-angeraze.json) |
 | Angeraze 2: Tenshi no Kiseki | 130601 | [130601-angeraze-2-tenshi-no-kiseki.json](./130601-angeraze-2-tenshi-no-kiseki.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
+| AngerForce and AlienCruise Arcade Shooting Bundle | 225414 | [225414-angerforce-and-aliencruise-arcade-shooting-bundle.json](./225414-angerforce-and-aliencruise-arcade-shooting-bundle.json) |
 | AngerForce: Reloaded | 55808 | [55808-angerforce-reloaded.json](./55808-angerforce-reloaded.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerForce: Strikers | 125600 | [125600-angerforce-strikers.json](./125600-angerforce-strikers.json) |
