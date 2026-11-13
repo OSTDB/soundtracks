@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Trip To The Zoo | 290320 | [290320-a-trip-to-the-zoo.json](./290320-a-trip-to-the-zoo.json) |
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
 | A Trip to Yugoslavia: Director's Cut | 30888 | [30888-a-trip-to-yugoslavia-directors-cut.json](./30888-a-trip-to-yugoslavia-directors-cut.json) |
+| A True History of the Adamant Gambit | 188586 | [188586-a-true-history-of-the-adamant-gambit.json](./188586-a-true-history-of-the-adamant-gambit.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A True Western Romance | 212650 | [212650-a-true-western-romance.json](./212650-a-true-western-romance.json) |
 | A Turd: The Game | 205213 | [205213-a-turd-the-game.json](./205213-a-turd-the-game.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abraxas Interactive's Push | 96438 | [96438-abraxas-interactives-push.json](./96438-abraxas-interactives-push.json) |
 | Abrez | 368517 | [368517-abrez.json](./368517-abrez.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
+| Abridge | 188600 | [188600-abridge.json](./188600-abridge.json) |
 | Abridged | 163653 | [163653-abridged.json](./163653-abridged.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
@@ -3109,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achromira | 187635 | [187635-achromira.json](./187635-achromira.json) |
 | Achron | 16264 | [16264-achron.json](./16264-achron.json) |
+| Achtung Banditen?! | 188577 | [188577-achtung-banditen.json](./188577-achtung-banditen.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Panzer: Kharkov 1943 | 2008 | [2008-achtung-panzer-kharkov-1943.json](./2008-achtung-panzer-kharkov-1943.json) |
@@ -4834,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After | 163792 | [163792-after.json](./163792-after.json) |
 | After | 219966 | [219966-after.json](./219966-after.json) |
 | After | 237551 | [237551-after.json](./237551-after.json) |
+| After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
 | After All | 35385 | [35385-after-all.json](./35385-after-all.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
