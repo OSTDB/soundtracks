@@ -1885,10 +1885,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Jack Atlas vs Yuya | 169566 | [169566-yu-gi-oh-legacy-of-the-duelist-arc-v-jack-atlas-vs-yuya.json](./169566-yu-gi-oh-legacy-of-the-duelist-arc-v-jack-atlas-vs-yuya.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Shay vs Dennis | 169561 | [169561-yu-gi-oh-legacy-of-the-duelist-arc-v-shay-vs-dennis.json](./169561-yu-gi-oh-legacy-of-the-duelist-arc-v-shay-vs-dennis.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Yugo’s Synchro Dimension | 169564 | [169564-yu-gi-oh-legacy-of-the-duelist-arc-v-yugo-s-synchro-dimension.json](./169564-yu-gi-oh-legacy-of-the-duelist-arc-v-yugo-s-synchro-dimension.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Arc-V - Yuya vs Crow | 219188 | [219188-yu-gi-oh-legacy-of-the-duelist-arc-v-yuya-vs-crow.json](./219188-yu-gi-oh-legacy-of-the-duelist-arc-v-yuya-vs-crow.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V Gong v. Kit | 169568 | [169568-yu-gi-oh-legacy-of-the-duelist-arc-v-gong-v-kit.json](./169568-yu-gi-oh-legacy-of-the-duelist-arc-v-gong-v-kit.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V Sora and Dipper | 169559 | [169559-yu-gi-oh-legacy-of-the-duelist-arc-v-sora-and-dipper.json](./169559-yu-gi-oh-legacy-of-the-duelist-arc-v-sora-and-dipper.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V Yuto v. Sylvio | 169563 | [169563-yu-gi-oh-legacy-of-the-duelist-arc-v-yuto-v-sylvio.json](./169563-yu-gi-oh-legacy-of-the-duelist-arc-v-yuto-v-sylvio.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Arc-V Zuzu v. Julia | 169570 | [169570-yu-gi-oh-legacy-of-the-duelist-arc-v-zuzu-v-julia.json](./169570-yu-gi-oh-legacy-of-the-duelist-arc-v-zuzu-v-julia.json) |
+| Yu-Gi-Oh! Legacy of the Duelist: Duelist Kingdom | 219186 | [219186-yu-gi-oh-legacy-of-the-duelist-duelist-kingdom.json](./219186-yu-gi-oh-legacy-of-the-duelist-duelist-kingdom.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: GX - Leaders | 169569 | [169569-yu-gi-oh-legacy-of-the-duelist-gx-leaders.json](./169569-yu-gi-oh-legacy-of-the-duelist-gx-leaders.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: GX Lost Duels | 169565 | [169565-yu-gi-oh-legacy-of-the-duelist-gx-lost-duels.json](./169565-yu-gi-oh-legacy-of-the-duelist-gx-lost-duels.json) |
 | Yu-Gi-Oh! Legacy of the Duelist: Link Evolution | 114905 | [114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json](./114905-yu-gi-oh-legacy-of-the-duelist-link-evolution.json) |
@@ -2103,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
 | Yume no Oto | 229406 | [229406-yume-no-oto.json](./229406-yume-no-oto.json) |
 | Yume no Pro Yakyuu | 141425 | [141425-yume-no-pro-yakyuu.json](./141425-yume-no-pro-yakyuu.json) |
+| Yume no Radio | 220769 | [220769-yume-no-radio.json](./220769-yume-no-radio.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume no Tsubasa | 166390 | [166390-yume-no-tsubasa.json](./166390-yume-no-tsubasa.json) |
 | Yume Noroi | 166426 | [166426-yume-noroi.json](./166426-yume-noroi.json) |
@@ -2119,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Smashi | 229662 | [229662-yume-smashi.json](./229662-yume-smashi.json) |
 | Yume Tagai | 166580 | [166580-yume-tagai.json](./166580-yume-tagai.json) |
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
+| Yume Tsuduri | 220771 | [220771-yume-tsuduri.json](./220771-yume-tsuduri.json) |
 | Yume Tsushin | 281230 | [281230-yume-tsushin.json](./281230-yume-tsushin.json) |
 | Yume Utsutsu | 166424 | [166424-yume-utsutsu.json](./166424-yume-utsutsu.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
