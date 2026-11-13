@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
 | Racing Champions | 322413 | [322413-racing-champions.json](./322413-racing-champions.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
+| Racing Clash | 193911 | [193911-racing-clash.json](./193911-racing-clash.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
 | Racing Classics: Drag Race Simulator | 117601 | [117601-racing-classics-drag-race-simulator.json](./117601-racing-classics-drag-race-simulator.json) |
@@ -4340,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ocean | 50918 | [50918-red-ocean.json](./50918-red-ocean.json) |
 | Red October | 316119 | [316119-red-october.json](./316119-red-october.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
+| Red Ops Arcade | 193516 | [193516-red-ops-arcade.json](./193516-red-ops-arcade.json) |
 | Red Ops: Side Story | 393683 | [393683-red-ops-side-story.json](./393683-red-ops-side-story.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
@@ -5102,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnation of Ocean | 160028 | [160028-reincarnation-of-ocean.json](./160028-reincarnation-of-ocean.json) |
 | Reincarnation Shinsengumi! | 92034 | [92034-reincarnation-shinsengumi.json](./92034-reincarnation-shinsengumi.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
+| Reincarnation Warrior | 193926 | [193926-reincarnation-warrior.json](./193926-reincarnation-warrior.json) |
 | Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
 | Reincarnation: Hero of the Gun | 371924 | [371924-reincarnation-hero-of-the-gun.json](./371924-reincarnation-hero-of-the-gun.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
@@ -13020,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
+| Rugby Nations 22 | 193904 | [193904-rugby-nations-22.json](./193904-rugby-nations-22.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Tycoon Rugby Rovigo Delta | 340683 | [340683-rugby-tycoon-rugby-rovigo-delta.json](./340683-rugby-tycoon-rugby-rovigo-delta.json) |
 | Rugby Union Team Manager 2015 | 17946 | [17946-rugby-union-team-manager-2015.json](./17946-rugby-union-team-manager-2015.json) |
@@ -13833,6 +13837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runny Egg | 58339 | [58339-runny-egg.json](./58339-runny-egg.json) |
+| Runnyk | 193517 | [193517-runnyk.json](./193517-runnyk.json) |
 | Runo | 154153 | [154153-runo.json](./154153-runo.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
