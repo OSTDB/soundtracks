@@ -17070,6 +17070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonStars: Karaoke Party | 404532 | [404532-monstars-karaoke-party.json](./404532-monstars-karaoke-party.json) |
 | Monsteca Corral | 67095 | [67095-monsteca-corral.json](./67095-monsteca-corral.json) |
 | Monster | 137772 | [137772-monster.json](./137772-monster.json) |
+| Monster | 197315 | [197315-monster.json](./197315-monster.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
@@ -18828,6 +18829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Crux | 217445 | [217445-mortal-crux.json](./217445-mortal-crux.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
+| Mortal Darkness | 196899 | [196899-mortal-darkness.json](./196899-mortal-darkness.json) |
 | Mortal Decay | 148641 | [148641-mortal-decay.json](./148641-mortal-decay.json) |
 | Mortal Fight: Lethal Revenge | 291175 | [291175-mortal-fight-lethal-revenge.json](./291175-mortal-fight-lethal-revenge.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
