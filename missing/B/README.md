@@ -8565,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
 | Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
 | Bill Wants to Retire | 337518 | [337518-bill-wants-to-retire.json](./337518-bill-wants-to-retire.json) |
+| Bill's adventure: Alien war | 217430 | [217430-bills-adventure-alien-war.json](./217430-bills-adventure-alien-war.json) |
 | Bill's Hotel | 176754 | [176754-bills-hotel.json](./176754-bills-hotel.json) |
 | Bill's Shooting Game | 295950 | [295950-bills-shooting-game.json](./295950-bills-shooting-game.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
@@ -16288,6 +16289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlborn | 373049 | [373049-brawlborn.json](./373049-brawlborn.json) |
 | Brawlderdash | 31398 | [31398-brawlderdash.json](./31398-brawlderdash.json) |
 | Brawler | 161606 | [161606-brawler.json](./161606-brawler.json) |
+| Brawler Bots! | 217416 | [217416-brawler-bots.json](./217416-brawler-bots.json) |
 | Brawler Bro's | 216698 | [216698-brawler-bros.json](./216698-brawler-bros.json) |
 | Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
@@ -17915,6 +17917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubba's Diner | 233969 | [233969-bubbas-diner.json](./233969-bubbas-diner.json) |
 | Bubballs | 289719 | [289719-bubballs.json](./289719-bubballs.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
+| Bubbbles | 217428 | [217428-bubbbles.json](./217428-bubbbles.json) |
 | Bubbelsche Deluxe | 322062 | [322062-bubbelsche-deluxe.json](./322062-bubbelsche-deluxe.json) |
 | Bubberknuckles | 129044 | [129044-bubberknuckles.json](./129044-bubberknuckles.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
