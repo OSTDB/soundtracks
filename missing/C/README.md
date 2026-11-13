@@ -8245,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
 | Chimeras: Mark of Death | 187907 | [187907-chimeras-mark-of-death.json](./187907-chimeras-mark-of-death.json) |
+| Chimeras: Mark of Death - Collector's Edition | 192864 | [192864-chimeras-mark-of-death-collectors-edition.json](./192864-chimeras-mark-of-death-collectors-edition.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
 | Chimeras: Mortal Medicine - Collector's Edition | 193233 | [193233-chimeras-mortal-medicine-collectors-edition.json](./193233-chimeras-mortal-medicine-collectors-edition.json) |
 | Chimeras: Price of Greed | 187910 | [187910-chimeras-price-of-greed.json](./187910-chimeras-price-of-greed.json) |
@@ -12794,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
+| Coins, Chests and Loot | 192868 | [192868-coins-chests-and-loot.json](./192868-coins-chests-and-loot.json) |
 | Coins, Crown & Cabal | 286342 | [286342-coins-crown-and-cabal.json](./286342-coins-crown-and-cabal.json) |
 | Coinsweeper | 385932 | [385932-coinsweeper.json](./385932-coinsweeper.json) |
 | Coinwell | 307471 | [307471-coinwell.json](./307471-coinwell.json) |
@@ -16754,6 +16756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
 | Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
+| Cosmo Clash | 192857 | [192857-cosmo-clash.json](./192857-cosmo-clash.json) |
 | Cosmo Command | 396263 | [396263-cosmo-command.json](./396263-cosmo-command.json) |
 | Cosmo Dreamer & Like Dreamer: Double-D Collection | 286916 | [286916-cosmo-dreamer-and-like-dreamer-double-d-collection.json](./286916-cosmo-dreamer-and-like-dreamer-double-d-collection.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
@@ -18243,6 +18246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Appliances | 86392 | [86392-crazy-appliances.json](./86392-crazy-appliances.json) |
 | Crazy Arcade | 6361 | [6361-crazy-arcade.json](./6361-crazy-arcade.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
+| Crazy Athletics: Summer Sports and Games | 192414 | [192414-crazy-athletics-summer-sports-and-games.json](./192414-crazy-athletics-summer-sports-and-games.json) |
 | Crazy Ball | 285175 | [285175-crazy-ball.json](./285175-crazy-ball.json) |
 | Crazy Ball | 58545 | [58545-crazy-ball.json](./58545-crazy-ball.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
@@ -19199,6 +19203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Core | 155770 | [155770-crimson-core.json](./155770-crimson-core.json) |
 | Crimson Crime: Sniper Mission | 220163 | [220163-crimson-crime-sniper-mission.json](./220163-crimson-crime-sniper-mission.json) |
 | Crimson Crisis | 265384 | [265384-crimson-crisis.json](./265384-crimson-crisis.json) |
+| Crimson Dawn | 192933 | [192933-crimson-dawn.json](./192933-crimson-dawn.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Desert: Deluxe Edition | 396302 | [396302-crimson-desert-deluxe-edition.json](./396302-crimson-desert-deluxe-edition.json) |
