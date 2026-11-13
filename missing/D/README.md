@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | Darkblood Chronicles | 75833 | [75833-darkblood-chronicles.json](./75833-darkblood-chronicles.json) |
+| DarkBlood Gaiden | 238795 | [238795-darkblood-gaiden.json](./238795-darkblood-gaiden.json) |
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
@@ -10884,6 +10885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
 | Dirty Little Secrets | 313891 | [313891-dirty-little-secrets.json](./313891-dirty-little-secrets.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
+| Dirty Mind | 238799 | [238799-dirty-mind.json](./238799-dirty-mind.json) |
 | Dirty Pair: Project Eden | 41235 | [41235-dirty-pair-project-eden.json](./41235-dirty-pair-project-eden.json) |
 | Dirty Phrase Frenzy | 104718 | [104718-dirty-phrase-frenzy.json](./104718-dirty-phrase-frenzy.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
