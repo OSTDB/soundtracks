@@ -8403,6 +8403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
 | Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
 | Flif | 251294 | [251294-flif.json](./251294-flif.json) |
+| Flife | 235438 | [235438-flife.json](./235438-flife.json) |
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight 666 | 270570 | [270570-flight-666.json](./270570-flight-666.json) |
 | Flight 732 | 87932 | [87932-flight-732.json](./87932-flight-732.json) |
@@ -9859,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Gold | 421775 | [421775-fools-gold.json](./421775-fools-gold.json) |
 | Fool's Gold | 421811 | [421811-fools-gold.json](./421811-fools-gold.json) |
+| Fool's Gold: Dice, Death & Dating | 235514 | [235514-fools-gold-dice-death-and-dating.json](./235514-fools-gold-dice-death-and-dating.json) |
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Paradise | 293051 | [293051-fools-paradise.json](./293051-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
