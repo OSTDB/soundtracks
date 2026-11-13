@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakamarina Valley, New Zealand | 134521 | [134521-wakamarina-valley-new-zealand.json](./134521-wakamarina-valley-new-zealand.json) |
 | Wakana Nikki | 229664 | [229664-wakana-nikki.json](./229664-wakana-nikki.json) |
 | Wakataka Oozumou: Yume no Kyoudai Taiketsu | 61180 | [61180-wakataka-oozumou-yume-no-kyoudai-taiketsu.json](./61180-wakataka-oozumou-yume-no-kyoudai-taiketsu.json) |
+| Wakatami Village | 211356 | [211356-wakatami-village.json](./211356-wakatami-village.json) |
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
 | WakaVR | 243626 | [243626-wakavr.json](./243626-wakavr.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
@@ -1927,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords: Castles | 261942 | [261942-warlords-castles.json](./261942-warlords-castles.json) |
 | Warlords: Evolved | 329637 | [329637-warlords-evolved.json](./329637-warlords-evolved.json) |
 | Warlords: Heroes | 101726 | [101726-warlords-heroes.json](./101726-warlords-heroes.json) |
+| Warlords: Under Siege | 211333 | [211333-warlords-under-siege.json](./211333-warlords-under-siege.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
 | Warm | 134875 | [134875-warm.json](./134875-warm.json) |
 | Warm Gun | 9686 | [9686-warm-gun.json](./9686-warm-gun.json) |
@@ -3405,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Harvest | 291339 | [291339-weed-harvest.json](./291339-weed-harvest.json) |
 | Weed Lord Simulator | 326316 | [326316-weed-lord-simulator.json](./326316-weed-lord-simulator.json) |
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
+| Weed Runner | 211329 | [211329-weed-runner.json](./211329-weed-runner.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
