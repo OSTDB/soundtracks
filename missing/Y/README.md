@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ylands: Nintendo Switch Edition - Enticing East Bundle | 303851 | [303851-ylands-nintendo-switch-edition-enticing-east-bundle.json](./303851-ylands-nintendo-switch-edition-enticing-east-bundle.json) |
 | Ylands: Supporter Pack | 305546 | [305546-ylands-supporter-pack.json](./305546-ylands-supporter-pack.json) |
 | Ylem's Cat | 414903 | [414903-ylems-cat.json](./414903-ylems-cat.json) |
+| Ylvar | 185573 | [185573-ylvar.json](./185573-ylvar.json) |
 | YMF500G | 272040 | [272040-ymf500g.json](./272040-ymf500g.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Ymn7 | 302401 | [302401-ymn7.json](./302401-ymn7.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your World | 346363 | [346363-your-world.json](./346363-your-world.json) |
 | Your World According to a Single Word | 312298 | [312298-your-world-according-to-a-single-word.json](./312298-your-world-according-to-a-single-word.json) |
 | Your World VR | 388440 | [388440-your-world-vr.json](./388440-your-world-vr.json) |
+| Your World, 50 Years From Now | 185185 | [185185-your-world-50-years-from-now.json](./185185-your-world-50-years-from-now.json) |
 | Your_New_Life_Letter.rtf.exe | 234563 | [234563-your-new-life-letter-rtf-exe.json](./234563-your-new-life-letter-rtf-exe.json) |
 | Your, Endless Mind. Glava I: My | 261075 | [261075-your-endless-mind-glava-i-my.json](./261075-your-endless-mind-glava-i-my.json) |
 | Youra | 280635 | [280635-youra.json](./280635-youra.json) |
