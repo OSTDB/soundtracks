@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Extreme!: Special Edition | 50987 | [50987-offroad-extreme-special-edition.json](./50987-offroad-extreme-special-edition.json) |
 | Offroad Games: Tractor Game | 227535 | [227535-offroad-games-tractor-game.json](./227535-offroad-games-tractor-game.json) |
 | Offroad Heat | 112052 | [112052-offroad-heat.json](./112052-offroad-heat.json) |
+| Offroad Horizons: Arcade Rock Crawling | 170589 | [170589-offroad-horizons-arcade-rock-crawling.json](./170589-offroad-horizons-arcade-rock-crawling.json) |
 | Offroad Jeep 4x4: Car Driving Simulator | 238135 | [238135-offroad-jeep-4x4-car-driving-simulator.json](./238135-offroad-jeep-4x4-car-driving-simulator.json) |
 | Offroad Jeep Driving | 304329 | [304329-offroad-jeep-driving.json](./304329-offroad-jeep-driving.json) |
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
@@ -1844,6 +1845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Labyrinth Life | 109284 | [109284-omega-labyrinth-life.json](./109284-omega-labyrinth-life.json) |
 | Omega Labyrinth Life: Additional Dungeon - Mystic Omega Spot | 238052 | [238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json](./238052-omega-labyrinth-life-additional-dungeon-mystic-omega-spot.json) |
 | Omega Labyrinth Life: Deluxe Edition | 220916 | [220916-omega-labyrinth-life-deluxe-edition.json](./220916-omega-labyrinth-life-deluxe-edition.json) |
+| Omega Labyrinth Life: Flower Fantasia | 170566 | [170566-omega-labyrinth-life-flower-fantasia.json](./170566-omega-labyrinth-life-flower-fantasia.json) |
+| Omega Labyrinth Life: Whetstone Caverns | 170567 | [170567-omega-labyrinth-life-whetstone-caverns.json](./170567-omega-labyrinth-life-whetstone-caverns.json) |
 | Omega Labyrinth Z | 27512 | [27512-omega-labyrinth-z.json](./27512-omega-labyrinth-z.json) |
 | Omega Labyrinth Z: Limited Edition | 166184 | [166184-omega-labyrinth-z-limited-edition.json](./166184-omega-labyrinth-z-limited-edition.json) |
 | Omega Landing | 312264 | [312264-omega-landing.json](./312264-omega-landing.json) |
@@ -2525,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
 | One Last Day | 17941 | [17941-one-last-day.json](./17941-one-last-day.json) |
 | One Last Dinner | 295605 | [295605-one-last-dinner.json](./295605-one-last-dinner.json) |
+| One Last Dungeon | 170586 | [170586-one-last-dungeon.json](./170586-one-last-dungeon.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Hand | 395982 | [395982-one-last-hand.json](./395982-one-last-hand.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
