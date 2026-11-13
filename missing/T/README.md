@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Sector 1 | 245354 | [245354-tales-of-sector-1.json](./245354-tales-of-sector-1.json) |
 | Tales of Seikyu | 245733 | [245733-tales-of-seikyu.json](./245733-tales-of-seikyu.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
+| Tales of Shinobi | 233800 | [233800-tales-of-shinobi.json](./233800-tales-of-shinobi.json) |
 | Tales of Sintra: The Dark Vortex | 404602 | [404602-tales-of-sintra-the-dark-vortex.json](./404602-tales-of-sintra-the-dark-vortex.json) |
 | Tales of Sirius | 370999 | [370999-tales-of-sirius.json](./370999-tales-of-sirius.json) |
 | Tales of Skiora | 154249 | [154249-tales-of-skiora.json](./154249-tales-of-skiora.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archers | 13329 | [13329-the-archers.json](./13329-the-archers.json) |
 | The Archetype | 34765 | [34765-the-archetype.json](./34765-the-archetype.json) |
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
+| The Archipelago Promise | 233275 | [233275-the-archipelago-promise.json](./233275-the-archipelago-promise.json) |
 | The Architect | 35128 | [35128-the-architect.json](./35128-the-architect.json) |
 | The Architect Pack | 348520 | [348520-the-architect-pack.json](./348520-the-architect-pack.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
@@ -6595,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Deluxe | 263733 | [263733-the-backrooms-deluxe.json](./263733-the-backrooms-deluxe.json) |
 | The Backrooms Deluxe 2 | 375882 | [375882-the-backrooms-deluxe-2.json](./375882-the-backrooms-deluxe-2.json) |
+| The Backrooms Experiment | 233672 | [233672-the-backrooms-experiment.json](./233672-the-backrooms-experiment.json) |
 | The Backrooms Exploration | 276116 | [276116-the-backrooms-exploration.json](./276116-the-backrooms-exploration.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
 | The Backrooms Game | 130726 | [130726-the-backrooms-game.json](./130726-the-backrooms-game.json) |
@@ -12125,6 +12128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Internship | 102319 | [102319-the-internship.json](./102319-the-internship.json) |
 | The Internship | 408836 | [408836-the-internship.json](./408836-the-internship.json) |
 | The Interpretation of Dreams | 358632 | [358632-the-interpretation-of-dreams.json](./358632-the-interpretation-of-dreams.json) |
+| The Intership | 233792 | [233792-the-intership.json](./233792-the-intership.json) |
 | The Interstate '76 Arsenal | 74075 | [74075-the-interstate-76-arsenal.json](./74075-the-interstate-76-arsenal.json) |
 | The Intertwined Imprints | 293697 | [293697-the-intertwined-imprints.json](./293697-the-intertwined-imprints.json) |
 | The Interval | 272439 | [272439-the-interval.json](./272439-the-interval.json) |
@@ -14323,6 +14327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Compressor | 305694 | [305694-the-lost-compressor.json](./305694-the-lost-compressor.json) |
 | The Lost Crown | 11621 | [11621-the-lost-crown.json](./11621-the-lost-crown.json) |
+| The Lost Crown | 233731 | [233731-the-lost-crown.json](./233731-the-lost-crown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Crucible | 350783 | [350783-the-lost-crucible.json](./350783-the-lost-crucible.json) |
 | The Lost Cube | 144147 | [144147-the-lost-cube.json](./144147-the-lost-cube.json) |
@@ -28319,6 +28324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
+| Totem Clash | 233730 | [233730-totem-clash.json](./233730-totem-clash.json) |
 | Totem Clash | 338956 | [338956-totem-clash.json](./338956-totem-clash.json) |
 | Totem Destroyer | 236634 | [236634-totem-destroyer.json](./236634-totem-destroyer.json) |
 | Totem Destroyer | 250715 | [250715-totem-destroyer.json](./250715-totem-destroyer.json) |
@@ -31468,6 +31474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: PRR X23 Boxcar | 205556 | [205556-trainz-plus-prr-x23-boxcar.json](./205556-trainz-plus-prr-x23-boxcar.json) |
 | Trainz Plus: QJ Steam Locomotive | 205485 | [205485-trainz-plus-qj-steam-locomotive.json](./205485-trainz-plus-qj-steam-locomotive.json) |
 | Trainz Plus: QR National GE C44aci | 213407 | [213407-trainz-plus-qr-national-ge-c44aci.json](./213407-trainz-plus-qr-national-ge-c44aci.json) |
+| Trainz Plus: QUBE GE C44aci Pack | 233807 | [233807-trainz-plus-qube-ge-c44aci-pack.json](./233807-trainz-plus-qube-ge-c44aci-pack.json) |
 | Trainz Plus: Quinnimont Coal Drag | 205475 | [205475-trainz-plus-quinnimont-coal-drag.json](./205475-trainz-plus-quinnimont-coal-drag.json) |
 | Trainz Plus: Rheingold 1962 | 205465 | [205465-trainz-plus-rheingold-1962.json](./205465-trainz-plus-rheingold-1962.json) |
 | Trainz Plus: Rodnye Prostory Route | 205453 | [205453-trainz-plus-rodnye-prostory-route.json](./205453-trainz-plus-rodnye-prostory-route.json) |
@@ -31556,6 +31563,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: CFCLA, RailFirst, Freightliner GE C44aci Pack | 227307 | [227307-trainz-railroad-simulator-2019-cfcla-railfirst-freightliner-ge-c44aci-pack.json](./227307-trainz-railroad-simulator-2019-cfcla-railfirst-freightliner-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2019: CFR B 26-26 098 | 205038 | [205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json](./205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json) |
 | Trainz Railroad Simulator 2019: CFR Calatori ABmee 36-16 038 | 292653 | [292653-trainz-railroad-simulator-2019-cfr-calatori-abmee-36-16-038.json](./292653-trainz-railroad-simulator-2019-cfr-calatori-abmee-36-16-038.json) |
+| Trainz Railroad Simulator 2019: CFR Calatori B 26-26 064 | 233805 | [233805-trainz-railroad-simulator-2019-cfr-calatori-b-26-26-064.json](./233805-trainz-railroad-simulator-2019-cfr-calatori-b-26-26-064.json) |
+| Trainz Railroad Simulator 2019: CFR Calatori B 26-26 186 | 233806 | [233806-trainz-railroad-simulator-2019-cfr-calatori-b-26-26-186.json](./233806-trainz-railroad-simulator-2019-cfr-calatori-b-26-26-186.json) |
 | Trainz Railroad Simulator 2019: CFR Calatori BDmee 84-16 002 | 292652 | [292652-trainz-railroad-simulator-2019-cfr-calatori-bdmee-84-16-002.json](./292652-trainz-railroad-simulator-2019-cfr-calatori-bdmee-84-16-002.json) |
 | Trainz Railroad Simulator 2019: CFR Calatori Bmee 26-16 096 | 292664 | [292664-trainz-railroad-simulator-2019-cfr-calatori-bmee-26-16-096.json](./292664-trainz-railroad-simulator-2019-cfr-calatori-bmee-26-16-096.json) |
 | Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack | 227282 | [227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json](./227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json) |
@@ -34123,6 +34132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
 | Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
+| Trouble Witches AC | 233290 | [233290-trouble-witches-ac.json](./233290-trouble-witches-ac.json) |
 | Trouble Witches Episode 1 Daughters of Amalgam | 381300 | [381300-trouble-witches-episode-1-daughters-of-amalgam.json](./381300-trouble-witches-episode-1-daughters-of-amalgam.json) |
 | Trouble Witches Final!: Cotton & Silk DLC | 357025 | [357025-trouble-witches-final-cotton-and-silk-dlc.json](./357025-trouble-witches-final-cotton-and-silk-dlc.json) |
 | Trouble Witches Neo | 51636 | [51636-trouble-witches-neo.json](./51636-trouble-witches-neo.json) |
