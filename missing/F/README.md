@@ -5337,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Doomer | 300445 | [300445-final-doomer.json](./300445-final-doomer.json) |
 | Final Dose | 239831 | [239831-final-dose.json](./239831-final-dose.json) |
 | Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
+| Final Drive Fury | 176014 | [176014-final-drive-fury.json](./176014-final-drive-fury.json) |
 | Final Drive: Nitro | 137237 | [137237-final-drive-nitro.json](./137237-final-drive-nitro.json) |
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
