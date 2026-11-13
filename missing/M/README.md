@@ -17873,6 +17873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters and Spirits | 273751 | [273751-monsters-and-spirits.json](./273751-monsters-and-spirits.json) |
 | Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters and Warriors | 193085 | [193085-monsters-and-warriors.json](./193085-monsters-and-warriors.json) |
+| Monsters and Weapons | 190762 | [190762-monsters-and-weapons.json](./190762-monsters-and-weapons.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
@@ -24340,6 +24341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos Quest | 256159 | [256159-mythos-quest.json](./256159-mythos-quest.json) |
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
+| Mythos: Sudoku | 190761 | [190761-mythos-sudoku.json](./190761-mythos-sudoku.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
 | Mythrealm | 159514 | [159514-mythrealm.json](./159514-mythrealm.json) |
 | Mythrel | 232736 | [232736-mythrel.json](./232736-mythrel.json) |
