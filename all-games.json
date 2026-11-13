@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T02:05:57.426Z",
-  "total_soundtracks": 3260,
+  "generated_at": "2026-11-13T02:25:51.073Z",
+  "total_soundtracks": 3261,
   "games": [
     {
       "igdb_id": 7522,
@@ -15531,6 +15531,20 @@
         {
           "album_name": "Half-Life: Alyx (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1DWZL15wlSZ5S000Zn0Jl6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25361,
+      "game_name": "Halloween Forever",
+      "game_url": "https://ostdb.net/games/halloween-forever",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738d14b0f384ccbf23a3b58df4",
+      "albums": [
+        {
+          "album_name": "Halloween Forever - Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4j2syuI8YVkyEHKUy0KO7T",
           "apple_music_url": "",
           "album_link_url": ""
         }
