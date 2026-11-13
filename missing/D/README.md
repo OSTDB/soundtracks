@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Adventure: Shuuen no Kuroi Kiri | 222380 | [222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json](./222380-dasshutsu-adventure-shuuen-no-kuroi-kiri.json) |
 | Dasshutsu Adventure: Zetsubou Yousai | 222377 | [222377-dasshutsu-adventure-zetsubou-yousai.json](./222377-dasshutsu-adventure-zetsubou-yousai.json) |
 | Dasshutsu Fantasy: Alice in Escapeland | 222379 | [222379-dasshutsu-fantasy-alice-in-escapeland.json](./222379-dasshutsu-fantasy-alice-in-escapeland.json) |
+| Dasshutsu Game: Akai Kutsu | 221300 | [221300-dasshutsu-game-akai-kutsu.json](./221300-dasshutsu-game-akai-kutsu.json) |
 | Dasshutsu Game: Halloween Hotel | 223969 | [223969-dasshutsu-game-halloween-hotel.json](./223969-dasshutsu-game-halloween-hotel.json) |
 | Dasshutsu Game: Hotel Room | 223970 | [223970-dasshutsu-game-hotel-room.json](./223970-dasshutsu-game-hotel-room.json) |
 | Dasshutsu Game: Komorebi no Aru Hou he | 227247 | [227247-dasshutsu-game-komorebi-no-aru-hou-he.json](./227247-dasshutsu-game-komorebi-no-aru-hou-he.json) |
@@ -3301,9 +3302,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Heroes: D-Day | 150336 | [150336-days-of-heroes-d-day.json](./150336-days-of-heroes-d-day.json) |
 | Days of Memories | 61486 | [61486-days-of-memories.json](./61486-days-of-memories.json) |
 | Days of Memories 2 | 61484 | [61484-days-of-memories-2.json](./61484-days-of-memories-2.json) |
+| Days of Memories 2: Boku no Ichiban Taisetsu na Kimi he | 221305 | [221305-days-of-memories-2-boku-no-ichiban-taisetsu-na-kimi-he.json](./221305-days-of-memories-2-boku-no-ichiban-taisetsu-na-kimi-he.json) |
 | Days of Memories 3 | 69175 | [69175-days-of-memories-3.json](./69175-days-of-memories-3.json) |
+| Days of Memories: Boku to Kanojo no Atsui Natsu | 221306 | [221306-days-of-memories-boku-to-kanojo-no-atsui-natsu.json](./221306-days-of-memories-boku-to-kanojo-no-atsui-natsu.json) |
 | Days of Memories: Boku to Kanojo to Koto no Koi | 221318 | [221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json](./221318-days-of-memories-boku-to-kanojo-to-koto-no-koi.json) |
+| Days of Memories: Junpaku no Tenshi-tachi | 221309 | [221309-days-of-memories-junpaku-no-tenshi-tachi.json](./221309-days-of-memories-junpaku-no-tenshi-tachi.json) |
+| Days of Memories: Kare to Watashi no Atsui Natsu | 221312 | [221312-days-of-memories-kare-to-watashi-no-atsui-natsu.json](./221312-days-of-memories-kare-to-watashi-no-atsui-natsu.json) |
 | Days of Memories: Kaze Mau Miyako de Tsukamaete! | 221319 | [221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json](./221319-days-of-memories-kaze-mau-miyako-de-tsukamaete.json) |
+| Days of Memories: Koi ha Good Job! | 221308 | [221308-days-of-memories-koi-ha-good-job.json](./221308-days-of-memories-koi-ha-good-job.json) |
+| Days of Memories: Ooedo Renai Emaki | 221298 | [221298-days-of-memories-ooedo-renai-emaki.json](./221298-days-of-memories-ooedo-renai-emaki.json) |
 | Days of Memories: Sekai de Ichiban Atsui Fuyu | 221320 | [221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json](./221320-days-of-memories-sekai-de-ichiban-atsui-fuyu.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Night: Episode 1 | 313925 | [313925-days-of-night-episode-1.json](./313925-days-of-night-episode-1.json) |
@@ -4761,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Leader | 354239 | [354239-dear-leader.json](./354239-dear-leader.json) |
 | Dear Leader | 60442 | [60442-dear-leader.json](./60442-dear-leader.json) |
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
+| Dear Magi: Mahou Shounen Gakka | 221444 | [221444-dear-magi-mahou-shounen-gakka.json](./221444-dear-magi-mahou-shounen-gakka.json) |
 | Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
 | Dear me, I was… | 351207 | [351207-dear-me-i-was.json](./351207-dear-me-i-was.json) |
@@ -14737,6 +14745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Story of Seasons | 115286 | [115286-doraemon-story-of-seasons.json](./115286-doraemon-story-of-seasons.json) |
 | Doraemon Story of Seasons: FGK DLC Pack 3 | 240401 | [240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json](./240401-doraemon-story-of-seasons-fgk-dlc-pack-3.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
+| Doraemon Story of Seasons: Friends of the Great Kingdom - Deluxe Edition | 220902 | [220902-doraemon-story-of-seasons-friends-of-the-great-kingdom-deluxe-edition.json](./220902-doraemon-story-of-seasons-friends-of-the-great-kingdom-deluxe-edition.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - FGK DLC 1 | 223793 | [223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json](./223793-doraemon-story-of-seasons-friends-of-the-great-kingdom-fgk-dlc-1.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Special Edition | 223792 | [223792-doraemon-story-of-seasons-friends-of-the-great-kingdom-special-edition.json](./223792-doraemon-story-of-seasons-friends-of-the-great-kingdom-special-edition.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - The Life of Insects | 231280 | [231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json](./231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json) |
