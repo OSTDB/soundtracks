@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Qualia/Delta | 242066 | [242066-qualia-delta.json](./242066-qualia-delta.json) |
 | Qualial Nature | 392940 | [392940-qualial-nature.json](./392940-qualial-nature.json) |
+| Qualification as Rogue | 238774 | [238774-qualification-as-rogue.json](./238774-qualification-as-rogue.json) |
 | Quality Assurance | 405980 | [405980-quality-assurance.json](./405980-quality-assurance.json) |
 | Quality Control | 141357 | [141357-quality-control.json](./141357-quality-control.json) |
 | Quality Dreams, Reasonably Priced | 318478 | [318478-quality-dreams-reasonably-priced.json](./318478-quality-dreams-reasonably-priced.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qwert: A New Type of Word Game! | 250270 | [250270-qwert-a-new-type-of-word-game.json](./250270-qwert-a-new-type-of-word-game.json) |
 | Qwerty | 209743 | [209743-qwerty.json](./209743-qwerty.json) |
 | Qwerty Garden | 396585 | [396585-qwerty-garden.json](./396585-qwerty-garden.json) |
+| Qwerty Quest | 238787 | [238787-qwerty-quest.json](./238787-qwerty-quest.json) |
 | Qwerty Warriors 2 | 334229 | [334229-qwerty-warriors-2.json](./334229-qwerty-warriors-2.json) |
 | Qwerty's Prison | 120602 | [120602-qwertys-prison.json](./120602-qwertys-prison.json) |
 | Qwess | 276192 | [276192-qwess.json](./276192-qwess.json) |
