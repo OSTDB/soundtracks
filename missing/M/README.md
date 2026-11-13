@@ -12527,6 +12527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Goose | 139135 | [139135-mighty-goose.json](./139135-mighty-goose.json) |
 | Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
+| Mighty Gunvolt Burst: Character Set - Heroines | 225922 | [225922-mighty-gunvolt-burst-character-set-heroines.json](./225922-mighty-gunvolt-burst-character-set-heroines.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
 | Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
 | Mighty Hits Special | 80172 | [80172-mighty-hits-special.json](./80172-mighty-hits-special.json) |
