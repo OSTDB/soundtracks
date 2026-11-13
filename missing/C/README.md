@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Conquest | 378427 | [378427-card-conquest.json](./378427-card-conquest.json) |
 | Card Corner | 390558 | [390558-card-corner.json](./390558-card-corner.json) |
+| Card Cowboy | 216360 | [216360-card-cowboy.json](./216360-card-cowboy.json) |
 | Card Crafter Genesis | 268310 | [268310-card-crafter-genesis.json](./268310-card-crafter-genesis.json) |
 | Card Crawl | 56112 | [56112-card-crawl.json](./56112-card-crawl.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
@@ -18597,6 +18598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy_Run | 175488 | [175488-crazy-run.json](./175488-crazy-run.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
+| CrazyCaps | 217038 | [217038-crazycaps.json](./217038-crazycaps.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
 | CrazyCars3D | 33431 | [33431-crazycars3d.json](./33431-crazycars3d.json) |
 | CrazyCat | 86500 | [86500-crazycat.json](./86500-crazycat.json) |
