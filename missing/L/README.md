@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chick | 131827 | [131827-last-chick.json](./131827-last-chick.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
+| Last City | 175861 | [175861-last-city.json](./175861-last-city.json) |
 | Last Cloudia | 123180 | [123180-last-cloudia.json](./123180-last-cloudia.json) |
 | Last Colony | 177633 | [177633-last-colony.json](./177633-last-colony.json) |
 | Last Colossus | 198014 | [198014-last-colossus.json](./198014-last-colossus.json) |
@@ -6622,9 +6623,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Man Has a Day | 260022 | [260022-little-man-has-a-day.json](./260022-little-man-has-a-day.json) |
 | Little Marisa's Disaster Journey | 99440 | [99440-little-marisas-disaster-journey.json](./99440-little-marisas-disaster-journey.json) |
 | Little Martian | 153332 | [153332-little-martian.json](./153332-little-martian.json) |
+| Little Master 2: Raikou no Kishi | 176004 | [176004-little-master-2-raikou-no-kishi.json](./176004-little-master-2-raikou-no-kishi.json) |
 | Little Master Cricket | 278843 | [278843-little-master-cricket.json](./278843-little-master-cricket.json) |
 | Little Master: Niji Iro no Maseki | 42372 | [42372-little-master-niji-iro-no-maseki.json](./42372-little-master-niji-iro-no-maseki.json) |
 | Little Master: Niji-iro no Maseki | 77085 | [77085-little-master-niji-iro-no-maseki.json](./77085-little-master-niji-iro-no-maseki.json) |
+| Little Master: Raikuban no Densetsu | 176002 | [176002-little-master-raikuban-no-densetsu.json](./176002-little-master-raikuban-no-densetsu.json) |
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
@@ -8620,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Losers Lament 3 | 345260 | [345260-losers-lament-3.json](./345260-losers-lament-3.json) |
 | Losers of the Crossroads | 349056 | [349056-losers-of-the-crossroads.json](./349056-losers-of-the-crossroads.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
+| Losing CTRL | 176415 | [176415-losing-ctrl.json](./176415-losing-ctrl.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
@@ -8792,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Eidolons | 145148 | [145148-lost-eidolons.json](./145148-lost-eidolons.json) |
 | Lost Eidolons: Digital Deluxe | 227358 | [227358-lost-eidolons-digital-deluxe.json](./227358-lost-eidolons-digital-deluxe.json) |
 | Lost Eidolons: Veil of the Witch | 261627 | [261627-lost-eidolons-veil-of-the-witch.json](./261627-lost-eidolons-veil-of-the-witch.json) |
+| Lost Elements | 176409 | [176409-lost-elements.json](./176409-lost-elements.json) |
 | Lost Ember: Legendary Souls | 380803 | [380803-lost-ember-legendary-souls.json](./380803-lost-ember-legendary-souls.json) |
 | Lost Ember: Rekindled Edition | 314439 | [314439-lost-ember-rekindled-edition.json](./314439-lost-ember-rekindled-edition.json) |
 | Lost Ember: VR Edition | 193626 | [193626-lost-ember-vr-edition.json](./193626-lost-ember-vr-edition.json) |
