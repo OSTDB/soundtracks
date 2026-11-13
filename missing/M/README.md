@@ -7871,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet and Fuck My Favorite Teacher | 221618 | [221618-meet-and-fuck-my-favorite-teacher.json](./221618-meet-and-fuck-my-favorite-teacher.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
 | Meet Cute: A Sweet New Chapter | 337681 | [337681-meet-cute-a-sweet-new-chapter.json](./337681-meet-cute-a-sweet-new-chapter.json) |
+| Meet Cute: Beach | 207417 | [207417-meet-cute-beach.json](./207417-meet-cute-beach.json) |
 | Meet Cute: Cafe | 190701 | [190701-meet-cute-cafe.json](./190701-meet-cute-cafe.json) |
 | Meet Cute: Delivery | 196908 | [196908-meet-cute-delivery.json](./196908-meet-cute-delivery.json) |
 | Meet Cute: Dice and Destiny | 337683 | [337683-meet-cute-dice-and-destiny.json](./337683-meet-cute-dice-and-destiny.json) |
@@ -21761,6 +21762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv / Muv-Luv Alternative Remastered Double Pack | 308624 | [308624-muv-luv-muv-luv-alternative-remastered-double-pack.json](./308624-muv-luv-muv-luv-alternative-remastered-double-pack.json) |
 | Muv-Luv Alternative | 11781 | [11781-muv-luv-alternative.json](./11781-muv-luv-alternative.json) |
 | Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
+| Muv-Luv Alternative Total Eclipse Remastered | 207415 | [207415-muv-luv-alternative-total-eclipse-remastered.json](./207415-muv-luv-alternative-total-eclipse-remastered.json) |
 | Muv-Luv Alternative: Total Eclipse | 11799 | [11799-muv-luv-alternative-total-eclipse.json](./11799-muv-luv-alternative-total-eclipse.json) |
 | Muv-Luv Complete Set: Collector's Edition | 89569 | [89569-muv-luv-complete-set-collectors-edition.json](./89569-muv-luv-complete-set-collectors-edition.json) |
 | Muv-Luv Girls Garden | 373425 | [373425-muv-luv-girls-garden.json](./373425-muv-luv-girls-garden.json) |
@@ -22914,6 +22916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighborhood Arcade: Wheels of Fortunes Unit | 169087 | [169087-my-neighborhood-arcade-wheels-of-fortunes-unit.json](./169087-my-neighborhood-arcade-wheels-of-fortunes-unit.json) |
 | My Neighbour is a Bunny Demon | 262789 | [262789-my-neighbour-is-a-bunny-demon.json](./262789-my-neighbour-is-a-bunny-demon.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
+| My Neko Waifu! | 207435 | [207435-my-neko-waifu.json](./207435-my-neko-waifu.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Classmate is a Dragon?! | 261120 | [261120-my-new-classmate-is-a-dragon.json](./261120-my-new-classmate-is-a-dragon.json) |
 | My New Memories | 158825 | [158825-my-new-memories.json](./158825-my-new-memories.json) |
@@ -24135,6 +24138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystologia: The Witch & the Noisy Forest | 396015 | [396015-mystologia-the-witch-and-the-noisy-forest.json](./396015-mystologia-the-witch-and-the-noisy-forest.json) |
 | Mystopia | 305683 | [305683-mystopia.json](./305683-mystopia.json) |
 | Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
+| Mystwood Manor | 207450 | [207450-mystwood-manor.json](./207450-mystwood-manor.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
 | MyTale | 219979 | [219979-mytale.json](./219979-mytale.json) |
