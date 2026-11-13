@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Theatre: Blood of Winter | 123944 | [123944-war-theatre-blood-of-winter.json](./123944-war-theatre-blood-of-winter.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
 | War Thunder - T-55AM-1 Pack | 293764 | [293764-war-thunder-t-55am-1-pack.json](./293764-war-thunder-t-55am-1-pack.json) |
+| War Thunder Mobile | 245059 | [245059-war-thunder-mobile.json](./245059-war-thunder-mobile.json) |
 | War Thunder: "Black Friday" Bundle | 331500 | [331500-war-thunder-black-friday-bundle.json](./331500-war-thunder-black-friday-bundle.json) |
 | War Thunder: "Serpent Rising" Bundle | 331498 | [331498-war-thunder-serpent-rising-bundle.json](./331498-war-thunder-serpent-rising-bundle.json) |
 | War Thunder: "Snake Charmer" Bundle | 331497 | [331497-war-thunder-snake-charmer-bundle.json](./331497-war-thunder-snake-charmer-bundle.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Object 140 Bundle | 331499 | [331499-war-thunder-object-140-bundle.json](./331499-war-thunder-object-140-bundle.json) |
 | War Thunder: Premium Package | 136649 | [136649-war-thunder-premium-package.json](./136649-war-thunder-premium-package.json) |
 | War Thunder: Reaper Pack | 156104 | [156104-war-thunder-reaper-pack.json](./156104-war-thunder-reaper-pack.json) |
+| War Thunder: Sky Guardians | 245060 | [245060-war-thunder-sky-guardians.json](./245060-war-thunder-sky-guardians.json) |
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: Su-22M4 WTD 61 Bundle | 331504 | [331504-war-thunder-su-22m4-wtd-61-bundle.json](./331504-war-thunder-su-22m4-wtd-61-bundle.json) |
 | War Thunder: Su-39 Pack | 254068 | [254068-war-thunder-su-39-pack.json](./254068-war-thunder-su-39-pack.json) |
@@ -4530,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2022? | 384740 | [384740-where-is-2022.json](./384740-where-is-2022.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
+| Where is Agnes? | 244962 | [244962-where-is-agnes.json](./244962-where-is-agnes.json) |
 | Where is Billy? | 358653 | [358653-where-is-billy.json](./358653-where-is-billy.json) |
 | Where is cat? | 101875 | [101875-where-is-cat.json](./101875-where-is-cat.json) |
 | Where is Drake? | 280238 | [280238-where-is-drake.json](./280238-where-is-drake.json) |
