@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Corrupts | 149380 | [149380-kingdom-of-corrupts.json](./149380-kingdom-of-corrupts.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Doom | 279276 | [279276-kingdom-of-doom.json](./279276-kingdom-of-doom.json) |
+| Kingdom of Drift | 208498 | [208498-kingdom-of-drift.json](./208498-kingdom-of-drift.json) |
 | Kingdom of Explorers | 240971 | [240971-kingdom-of-explorers.json](./240971-kingdom-of-explorers.json) |
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
