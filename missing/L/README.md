@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lar | 281336 | [281336-lar.json](./281336-lar.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
+| Lara Croft and the Guardian of Light: Raziel and Kain Character Pack | 168453 | [168453-lara-croft-and-the-guardian-of-light-raziel-and-kain-character-pack.json](./168453-lara-croft-and-the-guardian-of-light-raziel-and-kain-character-pack.json) |
 | Lara Croft and the Temple of Osiris | 7325 | [7325-lara-croft-and-the-temple-of-osiris.json](./7325-lara-croft-and-the-temple-of-osiris.json) |
 | Lara Croft and the Temple of Osiris: Deus Ex Pack | 226870 | [226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json](./226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json) |
 | Lara Croft and the Temple of Osiris: Icy Death Pack | 226871 | [226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json](./226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json) |
@@ -3322,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
 | LEGO Batman 3: Beyond Gotham - Arrow Pack | 264432 | [264432-lego-batman-3-beyond-gotham-arrow-pack.json](./264432-lego-batman-3-beyond-gotham-arrow-pack.json) |
 | LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary | 168791 | [168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json](./168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json) |
+| LEGO Batman 3: Beyond Gotham - Batman of the Future Character Pack | 168788 | [168788-lego-batman-3-beyond-gotham-batman-of-the-future-character-pack.json](./168788-lego-batman-3-beyond-gotham-batman-of-the-future-character-pack.json) |
 | LEGO Batman 3: Beyond Gotham - Bizarro | 238827 | [238827-lego-batman-3-beyond-gotham-bizarro.json](./238827-lego-batman-3-beyond-gotham-bizarro.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman 3: Beyond Gotham - Deluxe Edition | 164684 | [164684-lego-batman-3-beyond-gotham-deluxe-edition.json](./164684-lego-batman-3-beyond-gotham-deluxe-edition.json) |
@@ -3506,7 +3508,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Deluxe Edition | 54167 | [54167-lego-marvel-super-heroes-2-deluxe-edition.json](./54167-lego-marvel-super-heroes-2-deluxe-edition.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack | 168783 | [168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json](./168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Avengers - Infinity War Level and Character Pack | 168784 | [168784-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-level-and-character-pack.json](./168784-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-level-and-character-pack.json) |
+| LEGO Marvel Super Heroes 2: Marvel's Black Panther Movie Character and Level Pack | 168786 | [168786-lego-marvel-super-heroes-2-marvels-black-panther-movie-character-and-level-pack.json](./168786-lego-marvel-super-heroes-2-marvels-black-panther-movie-character-and-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Guardians of the Galaxy - Vol. 2 Movie Level Pack | 137309 | [137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json](./137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json) |
+| LEGO Marvel Super Heroes 2: Out of Time Character Pack | 168787 | [168787-lego-marvel-super-heroes-2-out-of-time-character-pack.json](./168787-lego-marvel-super-heroes-2-out-of-time-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Runaways Level and Character Pack | 137311 | [137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json](./137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes: Asgard Character Pack | 101063 | [101063-lego-marvel-super-heroes-asgard-character-pack.json](./101063-lego-marvel-super-heroes-asgard-character-pack.json) |
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
