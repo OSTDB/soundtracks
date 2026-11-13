@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campgrounds: The Endorus Expedition - Collector's Edition | 33304 | [33304-campgrounds-the-endorus-expedition-collectors-edition.json](./33304-campgrounds-the-endorus-expedition-collectors-edition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
+| Camping | 223185 | [223185-camping.json](./223185-camping.json) |
 | Camping | 251942 | [251942-camping.json](./251942-camping.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Cat Family | 219775 | [219775-camping-cat-family.json](./219775-camping-cat-family.json) |
