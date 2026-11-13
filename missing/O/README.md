@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Manga Day | 35382 | [35382-one-manga-day.json](./35382-one-manga-day.json) |
 | One Many Nobody | 201430 | [201430-one-many-nobody.json](./201430-one-many-nobody.json) |
 | One Map: Never Ending Battle Royale | 321038 | [321038-one-map-never-ending-battle-royale.json](./321038-one-map-never-ending-battle-royale.json) |
+| One Military Camp | 176551 | [176551-one-military-camp.json](./176551-one-military-camp.json) |
 | One Military Camp: Biomes | 298097 | [298097-one-military-camp-biomes.json](./298097-one-military-camp-biomes.json) |
 | One Military Camp: Christmas Season | 285111 | [285111-one-military-camp-christmas-season.json](./285111-one-military-camp-christmas-season.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
