@@ -13793,6 +13793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Haven Tycoon | 227628 | [227628-sky-haven-tycoon.json](./227628-sky-haven-tycoon.json) |
 | Sky Haven: AR Merge Adventure | 236696 | [236696-sky-haven-ar-merge-adventure.json](./236696-sky-haven-ar-merge-adventure.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
+| Sky Heroes | 193922 | [193922-sky-heroes.json](./193922-sky-heroes.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
 | Sky High | 322918 | [322918-sky-high.json](./322918-sky-high.json) |
 | Sky High Games Horror Collection | 235511 | [235511-sky-high-games-horror-collection.json](./235511-sky-high-games-horror-collection.json) |
@@ -18376,6 +18377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Inferno | 180343 | [180343-solo-inferno.json](./180343-solo-inferno.json) |
 | Solo Joe | 253684 | [253684-solo-joe.json](./253684-solo-joe.json) |
 | Solo King: Single Player - Texas Hold'em Poker | 130130 | [130130-solo-king-single-player-texas-holdem-poker.json](./130130-solo-king-single-player-texas-holdem-poker.json) |
+| Solo Knight | 193927 | [193927-solo-knight.json](./193927-solo-knight.json) |
 | Solo Leveling: Arise | 188574 | [188574-solo-leveling-arise.json](./188574-solo-leveling-arise.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Leveling: Arise Overdrive - Deluxe Edition | 363992 | [363992-solo-leveling-arise-overdrive-deluxe-edition.json](./363992-solo-leveling-arise-overdrive-deluxe-edition.json) |
@@ -28529,6 +28531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
 | Steampunk Abyss | 188864 | [188864-steampunk-abyss.json](./188864-steampunk-abyss.json) |
 | Steampunk Action Battle Simulator | 41930 | [41930-steampunk-action-battle-simulator.json](./41930-steampunk-action-battle-simulator.json) |
+| Steampunk and Magic | 193928 | [193928-steampunk-and-magic.json](./193928-steampunk-and-magic.json) |
 | Steampunk Defense Pro | 91188 | [91188-steampunk-defense-pro.json](./91188-steampunk-defense-pro.json) |
 | Steampunk Genius | 130056 | [130056-steampunk-genius.json](./130056-steampunk-genius.json) |
 | Steampunk Gravity | 216523 | [216523-steampunk-gravity.json](./216523-steampunk-gravity.json) |
@@ -38794,6 +38797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword | 337506 | [337506-sword.json](./337506-sword.json) |
 | Sword 'N' Board | 33925 | [33925-sword-n-board.json](./33925-sword-n-board.json) |
 | Sword & Banner | 404889 | [404889-sword-and-banner.json](./404889-sword-and-banner.json) |
+| Sword & Blade | 193924 | [193924-sword-and-blade.json](./193924-sword-and-blade.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword & Fairy Inn 2 | 207698 | [207698-sword-and-fairy-inn-2.json](./207698-sword-and-fairy-inn-2.json) |
 | Sword & Glory | 334870 | [334870-sword-and-glory.json](./334870-sword-and-glory.json) |
