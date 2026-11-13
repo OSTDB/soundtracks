@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Masters | 39386 | [39386-martial-masters.json](./39386-martial-masters.json) |
 | Martial Story | 203581 | [203581-martial-story.json](./203581-martial-story.json) |
 | Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
+| Martian Conquer | 244966 | [244966-martian-conquer.json](./244966-martian-conquer.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Gothic: Unification | 24120 | [24120-martian-gothic-unification.json](./24120-martian-gothic-unification.json) |
 | Martian Invaders | 223235 | [223235-martian-invaders.json](./223235-martian-invaders.json) |
@@ -11958,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: Premium Deluxe Edition | 139860 | [139860-microsoft-flight-simulator-premium-deluxe-edition.json](./139860-microsoft-flight-simulator-premium-deluxe-edition.json) |
 | Microsoft Flight Simulator: Top Gun - Maverick | 152312 | [152312-microsoft-flight-simulator-top-gun-maverick.json](./152312-microsoft-flight-simulator-top-gun-maverick.json) |
 | Microsoft Flight Simulator: World Update 18 | 314484 | [314484-microsoft-flight-simulator-world-update-18.json](./314484-microsoft-flight-simulator-world-update-18.json) |
+| Microsoft FreeCell | 245055 | [245055-microsoft-freecell.json](./245055-microsoft-freecell.json) |
 | Microsoft FreeCell | 51354 | [51354-microsoft-freecell.json](./51354-microsoft-freecell.json) |
 | Microsoft Garden Pond | 209516 | [209516-microsoft-garden-pond.json](./209516-microsoft-garden-pond.json) |
 | Microsoft Gem Drop | 347438 | [347438-microsoft-gem-drop.json](./347438-microsoft-gem-drop.json) |
@@ -11968,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Golf 2001 Edition | 78392 | [78392-microsoft-golf-2001-edition.json](./78392-microsoft-golf-2001-edition.json) |
 | Microsoft Golf 3.0 | 78572 | [78572-microsoft-golf-3-0.json](./78572-microsoft-golf-3-0.json) |
 | Microsoft Golf: Multimedia Edition | 314577 | [314577-microsoft-golf-multimedia-edition.json](./314577-microsoft-golf-multimedia-edition.json) |
+| Microsoft Hearts | 245057 | [245057-microsoft-hearts.json](./245057-microsoft-hearts.json) |
 | Microsoft Hearts | 51353 | [51353-microsoft-hearts.json](./51353-microsoft-hearts.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
@@ -11990,6 +11993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Solitaire | 298730 | [298730-microsoft-solitaire.json](./298730-microsoft-solitaire.json) |
 | Microsoft Solitaire | 8177 | [8177-microsoft-solitaire.json](./8177-microsoft-solitaire.json) |
 | Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
+| Microsoft Spider Solitaire | 245058 | [245058-microsoft-spider-solitaire.json](./245058-microsoft-spider-solitaire.json) |
 | Microsoft Spider Solitaire | 362165 | [362165-microsoft-spider-solitaire.json](./362165-microsoft-spider-solitaire.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Squares | 298736 | [298736-microsoft-squares.json](./298736-microsoft-squares.json) |
@@ -13907,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf 2003 | 79593 | [79593-mini-golf-2003.json](./79593-mini-golf-2003.json) |
 | Mini Golf 2016 Pro: Real golf simulation 3D by Bulky Sports | 103127 | [103127-mini-golf-2016-pro-real-golf-simulation-3d-by-bulky-sports.json](./103127-mini-golf-2016-pro-real-golf-simulation-3d-by-bulky-sports.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
+| Mini Golf Aeons | 244461 | [244461-mini-golf-aeons.json](./244461-mini-golf-aeons.json) |
 | Mini Golf Arena | 95339 | [95339-mini-golf-arena.json](./95339-mini-golf-arena.json) |
 | Mini Golf Battle | 234504 | [234504-mini-golf-battle.json](./234504-mini-golf-battle.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
@@ -15326,6 +15331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miuma | 217180 | [217180-miuma.json](./217180-miuma.json) |
 | Miuratale | 244130 | [244130-miuratale.json](./244130-miuratale.json) |
 | MiuSa | 308863 | [308863-miusa.json](./308863-miusa.json) |
+| Miwa: The Sacred Fox | 244526 | [244526-miwa-the-sacred-fox.json](./244526-miwa-the-sacred-fox.json) |
 | Mix a Monster | 340841 | [340841-mix-a-monster.json](./340841-mix-a-monster.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
