@@ -4153,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Machines | 414044 | [414044-endless-machines.json](./414044-endless-machines.json) |
 | Endless Maneuver | 112445 | [112445-endless-maneuver.json](./112445-endless-maneuver.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
+| Endless Match | 191147 | [191147-endless-match.json](./191147-endless-match.json) |
 | Endless Maze | 274808 | [274808-endless-maze.json](./274808-endless-maze.json) |
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
 | Endless Melody: The Symphony of Angels | 211852 | [211852-endless-melody-the-symphony-of-angels.json](./211852-endless-melody-the-symphony-of-angels.json) |
@@ -4343,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enduro | 68156 | [68156-enduro.json](./68156-enduro.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
+| Endustry | 190764 | [190764-endustry.json](./190764-endustry.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
 | Endzeit | 115145 | [115145-endzeit.json](./115145-endzeit.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
