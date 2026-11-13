@@ -4935,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor 2: Back to School | 238575 | [238575-hello-neighbor-2-back-to-school.json](./238575-hello-neighbor-2-back-to-school.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Neighbor 2: Hello-copter | 231270 | [231270-hello-neighbor-2-hello-copter.json](./231270-hello-neighbor-2-hello-copter.json) |
+| Hello Neighbor 2: Imbir Edition | 237683 | [237683-hello-neighbor-2-imbir-edition.json](./237683-hello-neighbor-2-imbir-edition.json) |
 | Hello Neighbor 2: Late Fees | 231261 | [231261-hello-neighbor-2-late-fees.json](./231261-hello-neighbor-2-late-fees.json) |
 | Hello Neighbor 3 | 287317 | [287317-hello-neighbor-3.json](./287317-hello-neighbor-3.json) |
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
@@ -7143,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed | 141674 | [141674-hexceed.json](./141674-hexceed.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | hexceed: Animo | 155694 | [155694-hexceed-animo.json](./155694-hexceed-animo.json) |
+| Hexceed: Aqua Pack | 237690 | [237690-hexceed-aqua-pack.json](./237690-hexceed-aqua-pack.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
 | Hexceed: Caeruleum | 342318 | [342318-hexceed-caeruleum.json](./342318-hexceed-caeruleum.json) |
 | Hexceed: Capricornus | 397881 | [397881-hexceed-capricornus.json](./397881-hexceed-capricornus.json) |
@@ -10616,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Fighters | 236724 | [236724-hoop-fighters.json](./236724-hoop-fighters.json) |
 | Hoop Gawds | 143899 | [143899-hoop-gawds.json](./143899-hoop-gawds.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
+| Hoop League Tactics | 237604 | [237604-hoop-league-tactics.json](./237604-hoop-league-tactics.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
 | Hoop Rush | 103588 | [103588-hoop-rush.json](./103588-hoop-rush.json) |
 | Hoop Shoot | 276555 | [276555-hoop-shoot.json](./276555-hoop-shoot.json) |
