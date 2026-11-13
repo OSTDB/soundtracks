@@ -8117,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
 | The Containment Centre | 322491 | [322491-the-containment-centre.json](./322491-the-containment-centre.json) |
 | The Contender: Fight of the Century | 108519 | [108519-the-contender-fight-of-the-century.json](./108519-the-contender-fight-of-the-century.json) |
+| The Continents: Breakthrough Gaming Activity Center | 227587 | [227587-the-continents-breakthrough-gaming-activity-center.json](./227587-the-continents-breakthrough-gaming-activity-center.json) |
 | The Continuum | 258520 | [258520-the-continuum.json](./258520-the-continuum.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
@@ -11178,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
 | The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
 | The Great War: 1914-1918 | 46972 | [46972-the-great-war-1914-1918.json](./46972-the-great-war-1914-1918.json) |
+| The Great War: Day 13 | 227586 | [227586-the-great-war-day-13.json](./227586-the-great-war-day-13.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great War: Western Front - Victory Edition | 234980 | [234980-the-great-war-western-front-victory-edition.json](./234980-the-great-war-western-front-victory-edition.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
@@ -18412,6 +18414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
 | The Spectacular Evermore | 424603 | [424603-the-spectacular-evermore.json](./424603-the-spectacular-evermore.json) |
+| The Spectator | 227583 | [227583-the-spectator.json](./227583-the-spectator.json) |
 | The Specter Chronicles: Episode 1 - The False Prophet | 236376 | [236376-the-specter-chronicles-episode-1-the-false-prophet.json](./236376-the-specter-chronicles-episode-1-the-false-prophet.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectral Web: Hitodama | 264575 | [264575-the-spectral-web-hitodama.json](./264575-the-spectral-web-hitodama.json) |
@@ -27583,6 +27586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown: Corporate Clash | 139366 | [139366-toontown-corporate-clash.json](./139366-toontown-corporate-clash.json) |
 | Toontown: Event Horizon | 377940 | [377940-toontown-event-horizon.json](./377940-toontown-event-horizon.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
+| ToontownRonpa: Citizens of Distrust | 227568 | [227568-toontownronpa-citizens-of-distrust.json](./227568-toontownronpa-citizens-of-distrust.json) |
 | Toorum's Quest | 270427 | [270427-toorums-quest.json](./270427-toorums-quest.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
 | Tooth and Claw | 81057 | [81057-tooth-and-claw.json](./81057-tooth-and-claw.json) |
