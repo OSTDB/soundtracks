@@ -7366,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
 | Fishy Bar | 423095 | [423095-fishy-bar.json](./423095-fishy-bar.json) |
 | Fishy Bits 2 | 297528 | [297528-fishy-bits-2.json](./297528-fishy-bits-2.json) |
+| Fishy Business | 192847 | [192847-fishy-business.json](./192847-fishy-business.json) |
 | Fishy Business | 376818 | [376818-fishy-business.json](./376818-fishy-business.json) |
 | Fishy Business | 385373 | [385373-fishy-business.json](./385373-fishy-business.json) |
 | Fishy But In 2.5D | 163807 | [163807-fishy-but-in-2-5d.json](./163807-fishy-but-in-2-5d.json) |
@@ -7596,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at F***boy's: Golden Edition 2 | 374327 | [374327-five-nights-at-f-boys-golden-edition-2.json](./374327-five-nights-at-f-boys-golden-edition-2.json) |
 | Five Nights at F**kboy's: Sister Location | 393576 | [393576-five-nights-at-f-kboys-sister-location.json](./393576-five-nights-at-f-kboys-sister-location.json) |
 | Five Nights at F**kboys: Ennard's Valiant Expedition | 374102 | [374102-five-nights-at-f-kboys-ennards-valiant-expedition.json](./374102-five-nights-at-f-kboys-ennards-valiant-expedition.json) |
+| Five Nights At Floppa | 192866 | [192866-five-nights-at-floppa.json](./192866-five-nights-at-floppa.json) |
 | Five Nights at Floppa 0 | 207759 | [207759-five-nights-at-floppa-0.json](./207759-five-nights-at-floppa-0.json) |
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
