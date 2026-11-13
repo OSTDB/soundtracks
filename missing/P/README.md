@@ -6929,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Pile! | 87359 | [87359-piggy-pile.json](./87359-piggy-pile.json) |
 | Piggy Poggy Pog | 75904 | [75904-piggy-poggy-pog.json](./75904-piggy-poggy-pog.json) |
 | Piggy Princess | 33212 | [33212-piggy-princess.json](./33212-piggy-princess.json) |
+| Piggy Punch: Super Crazy Wacky Runner! | 237612 | [237612-piggy-punch-super-crazy-wacky-runner.json](./237612-piggy-punch-super-crazy-wacky-runner.json) |
 | Piggy Run Escape | 226746 | [226746-piggy-run-escape.json](./226746-piggy-run-escape.json) |
 | Piggy Wiggy | 267335 | [267335-piggy-wiggy.json](./267335-piggy-wiggy.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
@@ -8914,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Princess Blitz | 22000 | [22000-pixel-princess-blitz.json](./22000-pixel-princess-blitz.json) |
 | Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
+| Pixel Pro Baseball | 237605 | [237605-pixel-pro-baseball.json](./237605-pixel-pro-baseball.json) |
 | Pixel Pro Golf | 256752 | [256752-pixel-pro-golf.json](./256752-pixel-pro-golf.json) |
 | Pixel Pro Snow Fight | 232098 | [232098-pixel-pro-snow-fight.json](./232098-pixel-pro-snow-fight.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
@@ -11184,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Digimon World: Cool & Nature Battle Disc | 141342 | [141342-pocket-digimon-world-cool-and-nature-battle-disc.json](./141342-pocket-digimon-world-cool-and-nature-battle-disc.json) |
 | Pocket Digimon World: Wind Battle Disc | 141341 | [141341-pocket-digimon-world-wind-battle-disc.json](./141341-pocket-digimon-world-wind-battle-disc.json) |
 | Pocket Dinosaurs to the Moon | 233182 | [233182-pocket-dinosaurs-to-the-moon.json](./233182-pocket-dinosaurs-to-the-moon.json) |
+| Pocket Dinosaurs: The Moon Festival Edition | 237613 | [237613-pocket-dinosaurs-the-moon-festival-edition.json](./237613-pocket-dinosaurs-the-moon-festival-edition.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Dragon GO AR | 96784 | [96784-pocket-dragon-go-ar.json](./96784-pocket-dragon-go-ar.json) |
