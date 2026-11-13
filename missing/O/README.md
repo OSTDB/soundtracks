@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OctorSpace | 74141 | [74141-octorspace.json](./74141-octorspace.json) |
 | Octoshield VR | 32392 | [32392-octoshield-vr.json](./32392-octoshield-vr.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
+| Octro Tambola | 173883 | [173883-octro-tambola.json](./173883-octro-tambola.json) |
 | Octrons Challenge Reloaded | 229883 | [229883-octrons-challenge-reloaded.json](./229883-octrons-challenge-reloaded.json) |
 | Octrons Challenge: Mission Science Genius | 135468 | [135468-octrons-challenge-mission-science-genius.json](./135468-octrons-challenge-mission-science-genius.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
