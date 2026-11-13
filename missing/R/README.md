@@ -5285,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of the Fallen | 182690 | [182690-relics-of-the-fallen.json](./182690-relics-of-the-fallen.json) |
 | Relics of the Lost Age | 149180 | [149180-relics-of-the-lost-age.json](./149180-relics-of-the-lost-age.json) |
 | Relics of the Oracle | 302630 | [302630-relics-of-the-oracle.json](./302630-relics-of-the-oracle.json) |
+| Relics of the Past | 205692 | [205692-relics-of-the-past.json](./205692-relics-of-the-past.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
 | Relics: A Dark-fantasy Deck-Survivor | 361837 | [361837-relics-a-dark-fantasy-deck-survivor.json](./361837-relics-a-dark-fantasy-deck-survivor.json) |
 | Relics: Ankoku Yousai | 41268 | [41268-relics-ankoku-yousai.json](./41268-relics-ankoku-yousai.json) |
