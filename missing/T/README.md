@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Closer: Game of the Year Edition | 141591 | [141591-the-closer-game-of-the-year-edition.json](./141591-the-closer-game-of-the-year-edition.json) |
 | The Closing Shift | 187715 | [187715-the-closing-shift.json](./187715-the-closing-shift.json) |
+| The Closing Walls | 241687 | [241687-the-closing-walls.json](./241687-the-closing-walls.json) |
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
@@ -8191,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cow Flew Over the Moon | 8368 | [8368-the-cow-flew-over-the-moon.json](./8368-the-cow-flew-over-the-moon.json) |
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
+| The Cowlitz Gamers Adventure | 241673 | [241673-the-cowlitz-gamers-adventure.json](./241673-the-cowlitz-gamers-adventure.json) |
 | The Cows Are Watching | 30313 | [30313-the-cows-are-watching.json](./30313-the-cows-are-watching.json) |
 | The Coyote Kills The Road Runner! | 327514 | [327514-the-coyote-kills-the-road-runner.json](./327514-the-coyote-kills-the-road-runner.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
@@ -29294,6 +29296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KIAD Airport | 353345 | [353345-tower-simulator-3-kiad-airport.json](./353345-tower-simulator-3-kiad-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
 | Tower! Simulator 3: KJFK Airport | 353338 | [353338-tower-simulator-3-kjfk-airport.json](./353338-tower-simulator-3-kjfk-airport.json) |
+| Tower! Simulator 3: KLAS Airport | 241684 | [241684-tower-simulator-3-klas-airport.json](./241684-tower-simulator-3-klas-airport.json) |
 | Tower! Simulator 3: KMCO Airport | 298091 | [298091-tower-simulator-3-kmco-airport.json](./298091-tower-simulator-3-kmco-airport.json) |
 | Tower! Simulator 3: KONT Airport | 312055 | [312055-tower-simulator-3-kont-airport.json](./312055-tower-simulator-3-kont-airport.json) |
 | Tower! Simulator 3: KORD Airport | 396508 | [396508-tower-simulator-3-kord-airport.json](./396508-tower-simulator-3-kord-airport.json) |
