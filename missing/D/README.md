@@ -10940,6 +10940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Piggy | 364995 | [364995-dirty-piggy.json](./364995-dirty-piggy.json) |
 | Dirty Pigskin Football | 39443 | [39443-dirty-pigskin-football.json](./39443-dirty-pigskin-football.json) |
 | Dirty Racing | 49177 | [49177-dirty-racing.json](./49177-dirty-racing.json) |
+| Dirty Revolver | 219835 | [219835-dirty-revolver.json](./219835-dirty-revolver.json) |
 | Dirty Room | 241854 | [241854-dirty-room.json](./241854-dirty-room.json) |
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
 | Dirty Room: Chapter 5 | 251896 | [251896-dirty-room-chapter-5.json](./251896-dirty-room-chapter-5.json) |
