@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Crayons | 176056 | [176056-magic-crayons.json](./176056-magic-crayons.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
+| Magic Crystals 2 | 192935 | [192935-magic-crystals-2.json](./192935-magic-crystals-2.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Cube Puzzle 3D | 102268 | [102268-magic-cube-puzzle-3d.json](./102268-magic-cube-puzzle-3d.json) |
@@ -6856,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
 | Maze of Portals | 308325 | [308325-maze-of-portals.json](./308325-maze-of-portals.json) |
+| Maze of Realities: Flower of Discord - Collector's Edition | 192480 | [192480-maze-of-realities-flower-of-discord-collectors-edition.json](./192480-maze-of-realities-flower-of-discord-collectors-edition.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of Realities: Ride in the Sky - Collector's Edition | 288047 | [288047-maze-of-realities-ride-in-the-sky-collectors-edition.json](./288047-maze-of-realities-ride-in-the-sky-collectors-edition.json) |
 | Maze of Realities: Ride in the Sky DLC | 288048 | [288048-maze-of-realities-ride-in-the-sky-dlc.json](./288048-maze-of-realities-ride-in-the-sky-dlc.json) |
