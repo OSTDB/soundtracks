@@ -13135,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apparition | 75926 | [75926-apparition.json](./75926-apparition.json) |
 | Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
 | Apparitions | 202537 | [202537-apparitions.json](./202537-apparitions.json) |
+| Apparitions: Kotsmine Hills | 170593 | [170593-apparitions-kotsmine-hills.json](./170593-apparitions-kotsmine-hills.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appease the Spider | 170667 | [170667-appease-the-spider.json](./170667-appease-the-spider.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
@@ -18953,6 +18954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan 2: A Cornered Rat | 171692 | [171692-attack-on-titan-2-a-cornered-rat.json](./171692-attack-on-titan-2-a-cornered-rat.json) |
 | Attack on Titan 2: A Sudden Rain | 171697 | [171697-attack-on-titan-2-a-sudden-rain.json](./171697-attack-on-titan-2-a-sudden-rain.json) |
 | Attack on Titan 2: A Titan Worth a Thousand | 171698 | [171698-attack-on-titan-2-a-titan-worth-a-thousand.json](./171698-attack-on-titan-2-a-titan-worth-a-thousand.json) |
+| Attack on Titan 2: Attack IQ Championship | 170568 | [170568-attack-on-titan-2-attack-iq-championship.json](./170568-attack-on-titan-2-attack-iq-championship.json) |
 | Attack on Titan 2: Biological Research Scout Mission | 170146 | [170146-attack-on-titan-2-biological-research-scout-mission.json](./170146-attack-on-titan-2-biological-research-scout-mission.json) |
 | Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
 | Attack on Titan 2: Discouragement and the Leaning Tower | 171693 | [171693-attack-on-titan-2-discouragement-and-the-leaning-tower.json](./171693-attack-on-titan-2-discouragement-and-the-leaning-tower.json) |
