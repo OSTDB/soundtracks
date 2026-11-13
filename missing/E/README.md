@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elara and the Machine | 370169 | [370169-elara-and-the-machine.json](./370169-elara-and-the-machine.json) |
 | Elara's Light | 318127 | [318127-elaras-light.json](./318127-elaras-light.json) |
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
+| Elaria: The Corrupted Throne | 244460 | [244460-elaria-the-corrupted-throne.json](./244460-elaria-the-corrupted-throne.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
 | Elash | 113293 | [113293-elash.json](./113293-elash.json) |
@@ -4211,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
 | Endless Torture | 275186 | [275186-endless-torture.json](./275186-endless-torture.json) |
+| Endless Tower | 244532 | [244532-endless-tower.json](./244532-endless-tower.json) |
 | Endless Tower | 392594 | [392594-endless-tower.json](./392594-endless-tower.json) |
 | Endless Treasure Hunt | 74145 | [74145-endless-treasure-hunt.json](./74145-endless-treasure-hunt.json) |
 | Endless Truck | 261084 | [261084-endless-truck.json](./261084-endless-truck.json) |
@@ -5040,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epidemic | 170689 | [170689-epidemic.json](./170689-epidemic.json) |
 | Epidemic | 174009 | [174009-epidemic.json](./174009-epidemic.json) |
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
+| Epidemic | 244970 | [244970-epidemic.json](./244970-epidemic.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
 | Epidémie | 386313 | [386313-epidemie.json](./386313-epidemie.json) |
@@ -7767,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Elves II Deluxe | 276925 | [276925-evil-elves-ii-deluxe.json](./276925-evil-elves-ii-deluxe.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Empire | 245093 | [245093-evil-empire.json](./245093-evil-empire.json) |
+| Evil Evo | 244521 | [244521-evil-evo.json](./244521-evil-evo.json) |
 | Evil Exhumed | 271530 | [271530-evil-exhumed.json](./271530-evil-exhumed.json) |
 | Evil Eye | 380341 | [380341-evil-eye.json](./380341-evil-eye.json) |
 | Evil Eye | 94612 | [94612-evil-eye.json](./94612-evil-eye.json) |
@@ -8028,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | Evotinction | 115848 | [115848-evotinction.json](./115848-evotinction.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
+| EvoWars: New Era | 244525 | [244525-evowars-new-era.json](./244525-evowars-new-era.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EvoWorld.io | 360508 | [360508-evoworld-io.json](./360508-evoworld-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
