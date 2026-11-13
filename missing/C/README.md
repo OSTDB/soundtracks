@@ -11789,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
 | Cloud Kingdoms | 12545 | [12545-cloud-kingdoms.json](./12545-cloud-kingdoms.json) |
 | Cloud Knights | 83324 | [83324-cloud-knights.json](./83324-cloud-knights.json) |
+| Cloud Mage | 185187 | [185187-cloud-mage.json](./185187-cloud-mage.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
 | Cloud Miners | 132589 | [132589-cloud-miners.json](./132589-cloud-miners.json) |
@@ -17093,6 +17094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CounterAttack: Uprising | 268324 | [268324-counterattack-uprising.json](./268324-counterattack-uprising.json) |
 | CounterBlocks | 170828 | [170828-counterblocks.json](./170828-counterblocks.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
+| Counterfeit | 185572 | [185572-counterfeit.json](./185572-counterfeit.json) |
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
