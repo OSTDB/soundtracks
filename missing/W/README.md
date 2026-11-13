@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanna Survive | 119809 | [119809-wanna-survive.json](./119809-wanna-survive.json) |
 | Wanna Wake Up? | 405466 | [405466-wanna-wake-up.json](./405466-wanna-wake-up.json) |
 | Wanna-Be a Dino Finder | 244004 | [244004-wanna-be-a-dino-finder.json](./244004-wanna-be-a-dino-finder.json) |
+| Wannabe Challenge | 191760 | [191760-wannabe-challenge.json](./191760-wannabe-challenge.json) |
 | Wannabe Creators | 411401 | [411401-wannabe-creators.json](./411401-wannabe-creators.json) |
 | Wannabe Creators 2 | 411402 | [411402-wannabe-creators-2.json](./411402-wannabe-creators-2.json) |
 | Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
@@ -8826,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Mosaics 6 | 53111 | [53111-world-mosaics-6.json](./53111-world-mosaics-6.json) |
 | World Mosaics 7 | 415947 | [415947-world-mosaics-7.json](./415947-world-mosaics-7.json) |
 | World Mosaics IV | 135249 | [135249-world-mosaics-iv.json](./135249-world-mosaics-iv.json) |
+| World Nations Game | 191282 | [191282-world-nations-game.json](./191282-world-nations-game.json) |
 | World Neverland 2-in-1 Portable | 77506 | [77506-world-neverland-2-in-1-portable.json](./77506-world-neverland-2-in-1-portable.json) |
 | World Neverland 2: Pluto Kyouwakoku Monogatari | 77505 | [77505-world-neverland-2-pluto-kyouwakoku-monogatari.json](./77505-world-neverland-2-pluto-kyouwakoku-monogatari.json) |
 | World Neverland 2: Pluto Kyouwakoku Monogatari - Experience of Fiction Life | 297750 | [297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json](./297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json) |
@@ -9262,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World Table Tennis Champs | 170409 | [170409-world-table-tennis-champs.json](./170409-world-table-tennis-champs.json) |
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
+| World Titans War | 191299 | [191299-world-titans-war.json](./191299-world-titans-war.json) |
 | World to Build | 124533 | [124533-world-to-build.json](./124533-world-to-build.json) |
 | World to Conquer | 223624 | [223624-world-to-conquer.json](./223624-world-to-conquer.json) |
 | World Tour | 282198 | [282198-world-tour.json](./282198-world-tour.json) |
