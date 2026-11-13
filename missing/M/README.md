@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Structures | 221484 | [221484-magnetic-structures.json](./221484-magnetic-structures.json) |
 | Magnetic Wars | 91791 | [91791-magnetic-wars.json](./91791-magnetic-wars.json) |
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
+| Magnetic: Cage Closed - Challenge Map Pack DLC | 227044 | [227044-magnetic-cage-closed-challenge-map-pack-dlc.json](./227044-magnetic-cage-closed-challenge-map-pack-dlc.json) |
 | Magnetic: Cage Closed - Collector's Edition | 53318 | [53318-magnetic-cage-closed-collectors-edition.json](./53318-magnetic-cage-closed-collectors-edition.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magus Over Fool | 115364 | [115364-magus-over-fool.json](./115364-magus-over-fool.json) |
 | Magus Pocus | 212981 | [212981-magus-pocus.json](./212981-magus-pocus.json) |
+| Magus Pocus: Halloween Expansion | 227045 | [227045-magus-pocus-halloween-expansion.json](./227045-magus-pocus-halloween-expansion.json) |
 | Magus Relics: The Majimono | 420053 | [420053-magus-relics-the-majimono.json](./420053-magus-relics-the-majimono.json) |
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
@@ -5464,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Ultimate Edition | 99959 | [99959-mass-effect-2-ultimate-edition.json](./99959-mass-effect-2-ultimate-edition.json) |
 | Mass Effect 2: Zaeed - The Price of Revenge | 13798 | [13798-mass-effect-2-zaeed-the-price-of-revenge.json](./13798-mass-effect-2-zaeed-the-price-of-revenge.json) |
 | Mass Effect 3: Citadel | 13690 | [13690-mass-effect-3-citadel.json](./13690-mass-effect-3-citadel.json) |
+| Mass Effect 3: DLC Bundle | 227041 | [227041-mass-effect-3-dlc-bundle.json](./227041-mass-effect-3-dlc-bundle.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
 | Mass Effect 3: Leviathan | 13911 | [13911-mass-effect-3-leviathan.json](./13911-mass-effect-3-leviathan.json) |
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
@@ -8817,9 +8820,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megadimension Neptunia VII: Digital Deluxe Edition | 53335 | [53335-megadimension-neptunia-vii-digital-deluxe-edition.json](./53335-megadimension-neptunia-vii-digital-deluxe-edition.json) |
 | Megadimension Neptunia VII: DLC Collection | 53334 | [53334-megadimension-neptunia-vii-dlc-collection.json](./53334-megadimension-neptunia-vii-dlc-collection.json) |
 | Megadimension Neptunia VII: Dream Edition | 212333 | [212333-megadimension-neptunia-vii-dream-edition.json](./212333-megadimension-neptunia-vii-dream-edition.json) |
+| Megadimension Neptunia VII: Nightwear Pack | 227039 | [227039-megadimension-neptunia-vii-nightwear-pack.json](./227039-megadimension-neptunia-vii-nightwear-pack.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
+| Megadimension Neptunia VII: Ultimate Weapon Pack | 227040 | [227040-megadimension-neptunia-vii-ultimate-weapon-pack.json](./227040-megadimension-neptunia-vii-ultimate-weapon-pack.json) |
 | Megadimension Neptunia VII: Weapon Pack | 227036 | [227036-megadimension-neptunia-vii-weapon-pack.json](./227036-megadimension-neptunia-vii-weapon-pack.json) |
 | Megadimension Neptunia VIIR | 36610 | [36610-megadimension-neptunia-viir.json](./36610-megadimension-neptunia-viir.json) |
 | Megadimension Neptunia VIIR: DLC Pack | 227381 | [227381-megadimension-neptunia-viir-dlc-pack.json](./227381-megadimension-neptunia-viir-dlc-pack.json) |
@@ -10154,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
+| Mercs | 227037 | [227037-mercs.json](./227037-mercs.json) |
 | Mercs | 4487 | [4487-mercs.json](./4487-mercs.json) |
 | Mercs Fully Loaded | 186472 | [186472-mercs-fully-loaded.json](./186472-mercs-fully-loaded.json) |
 | Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
@@ -12169,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cat Heist | 378996 | [378996-midnight-cat-heist.json](./378996-midnight-cat-heist.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
+| Midnight Cinderella | 227425 | [227425-midnight-cinderella.json](./227425-midnight-cinderella.json) |
 | Midnight Cinema | 95972 | [95972-midnight-cinema.json](./95972-midnight-cinema.json) |
 | Midnight Cipher | 155879 | [155879-midnight-cipher.json](./155879-midnight-cipher.json) |
 | Midnight Club 3: DUB Edition | 5928 | [5928-midnight-club-3-dub-edition.json](./5928-midnight-club-3-dub-edition.json) |
