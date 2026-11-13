@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Simulator | 121087 | [121087-ranch-simulator.json](./121087-ranch-simulator.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancher: A New Life | 310889 | [310889-rancher-a-new-life.json](./310889-rancher-a-new-life.json) |
+| Ranchlife | 204009 | [204009-ranchlife.json](./204009-ranchlife.json) |
 | Rancho Blast | 101232 | [101232-rancho-blast.json](./101232-rancho-blast.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand McNally's America: U.S. Atlas | 46429 | [46429-rand-mcnallys-america-u-s-atlas.json](./46429-rand-mcnallys-america-u-s-atlas.json) |
@@ -2270,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat it! | 263119 | [263119-rat-it.json](./263119-rat-it.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat King Adventure | 415106 | [415106-rat-king-adventure.json](./415106-rat-king-adventure.json) |
+| Rat Memory | 204018 | [204018-rat-memory.json](./204018-rat-memory.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
 | Rat on a Scooter XL | 101114 | [101114-rat-on-a-scooter-xl.json](./101114-rat-on-a-scooter-xl.json) |
 | Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
@@ -9406,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roary the Racing Car | 223113 | [223113-roary-the-racing-car.json](./223113-roary-the-racing-car.json) |
 | Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
 | Roast Party | 98368 | [98368-roast-party.json](./98368-roast-party.json) |
+| Roast Together | 204011 | [204011-roast-together.json](./204011-roast-together.json) |
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
 | Roasting Report: A Professor Murder | 204255 | [204255-roasting-report-a-professor-murder.json](./204255-roasting-report-a-professor-murder.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
