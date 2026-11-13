@@ -4737,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
 | Season Match Bundle | 292925 | [292925-season-match-bundle.json](./292925-season-match-bundle.json) |
+| Season Match HD 1+2 | 194512 | [194512-season-match-hd-1-2.json](./194512-season-match-hd-1-2.json) |
 | Season of 12 Colors | 35234 | [35234-season-of-12-colors.json](./35234-season-of-12-colors.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seisho 1999 | 323919 | [323919-seisho-1999.json](./323919-seisho-1999.json) |
 | Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
+| Seishun Fragile | 194499 | [194499-seishun-fragile.json](./194499-seishun-fragile.json) |
 | Seishun Hajimemashita! | 202612 | [202612-seishun-hajimemashita.json](./202612-seishun-hajimemashita.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimizu Ritual | 283338 | [283338-shimizu-ritual.json](./283338-shimizu-ritual.json) |
 | Shimmer | 105213 | [105213-shimmer.json](./105213-shimmer.json) |
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
+| Shimojimo no Seikatsu wo Tashinamu Tame no Tsudoi: Muchi de Kouki na Ojou-sama wa Shomin no Seikatsu ni Kyoumi Shinshin | 194490 | [194490-shimojimo-no-seikatsu-wo-tashinamu-tame-no-tsudoi-muchi-de-kouki-na-ojou-sama-wa-shomin-no-seikatsu-ni-kyoumi-shinshin.json](./194490-shimojimo-no-seikatsu-wo-tashinamu-tame-no-tsudoi-muchi-de-kouki-na-ojou-sama-wa-shomin-no-seikatsu-ni-kyoumi-shinshin.json) |
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shimotsuke no Yakata | 280563 | [280563-shimotsuke-no-yakata.json](./280563-shimotsuke-no-yakata.json) |
@@ -13704,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Balloon Freakout DX | 284711 | [284711-sky-balloon-freakout-dx.json](./284711-sky-balloon-freakout-dx.json) |
+| Sky Baron: War of Nations | 194044 | [194044-sky-baron-war-of-nations.json](./194044-sky-baron-war-of-nations.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Base | 41105 | [41105-sky-base.json](./41105-sky-base.json) |
 | Sky Base Venus | 226000 | [226000-sky-base-venus.json](./226000-sky-base-venus.json) |
@@ -15742,6 +15746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Frenzy 2 | 54374 | [54374-smash-frenzy-2.json](./54374-smash-frenzy-2.json) |
 | Smash Frenzy 3 | 54375 | [54375-smash-frenzy-3.json](./54375-smash-frenzy-3.json) |
 | Smash Frenzy 4 | 54376 | [54376-smash-frenzy-4.json](./54376-smash-frenzy-4.json) |
+| Smash Fury | 194041 | [194041-smash-fury.json](./194041-smash-fury.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit Museum | 383180 | [383180-smash-hit-museum.json](./383180-smash-hit-museum.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
