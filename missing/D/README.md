@@ -12734,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeSaw | 144803 | [144803-dodgesaw.json](./144803-dodgesaw.json) |
 | Dodgibi | 372692 | [372692-dodgibi.json](./372692-dodgibi.json) |
 | Dodgy Balls | 116459 | [116459-dodgy-balls.json](./116459-dodgy-balls.json) |
+| Dodgy Boat | 202304 | [202304-dodgy-boat.json](./202304-dodgy-boat.json) |
 | Dodgy Carrot | 233418 | [233418-dodgy-carrot.json](./233418-dodgy-carrot.json) |
 | Dodgy Deliveries | 295796 | [295796-dodgy-deliveries.json](./295796-dodgy-deliveries.json) |
 | Dodgy Doodle | 194184 | [194184-dodgy-doodle.json](./194184-dodgy-doodle.json) |
@@ -18627,6 +18628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop: Save the Forest | 373087 | [373087-drop-save-the-forest.json](./373087-drop-save-the-forest.json) |
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Drop! | 131340 | [131340-drop.json](./131340-drop.json) |
+| Drop! Deluxe Suite | 202161 | [202161-drop-deluxe-suite.json](./202161-drop-deluxe-suite.json) |
 | Drop'd | 97060 | [97060-dropd.json](./97060-dropd.json) |
 | Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
 | Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
