@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Galaxy Bundle | 335624 | [335624-lazy-galaxy-bundle.json](./335624-lazy-galaxy-bundle.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy gang | 157910 | [157910-lazy-gang.json](./157910-lazy-gang.json) |
+| Lazy Girl | 189219 | [189219-lazy-girl.json](./189219-lazy-girl.json) |
 | Lazy Jiangshi | 259048 | [259048-lazy-jiangshi.json](./259048-lazy-jiangshi.json) |
 | Lazy Jones | 18964 | [18964-lazy-jones.json](./18964-lazy-jones.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon Run | 192576 | [192576-lemon-run.json](./192576-lemon-run.json) |
 | Lemon Sans: The Sensational Experiance | 331770 | [331770-lemon-sans-the-sensational-experiance.json](./331770-lemon-sans-the-sensational-experiance.json) |
 | Lemon Street | 180937 | [180937-lemon-street.json](./180937-lemon-street.json) |
+| Lemon vs. Teddy | 189223 | [189223-lemon-vs-teddy.json](./189223-lemon-vs-teddy.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Apocalypse | 346297 | [346297-lemonade-apocalypse.json](./346297-lemonade-apocalypse.json) |
