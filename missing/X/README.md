@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
 | Xenos Hunters | 302411 | [302411-xenos-hunters.json](./302411-xenos-hunters.json) |
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
+| Xenosaga Episode 1: Der Wille zur Macht Limited Edition | 225389 | [225389-xenosaga-episode-1-der-wille-zur-macht-limited-edition.json](./225389-xenosaga-episode-1-der-wille-zur-macht-limited-edition.json) |
 | Xenosaga Episode I: Der Wille zur Macht | 1227 | [1227-xenosaga-episode-i-der-wille-zur-macht.json](./1227-xenosaga-episode-i-der-wille-zur-macht.json) |
 | Xenosaga Episode I: Der Wille zur Macht - Reloaded | 221670 | [221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json](./221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json) |
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
