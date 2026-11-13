@@ -3044,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elshe no Shounen | 257902 | [257902-elshe-no-shounen.json](./257902-elshe-no-shounen.json) |
+| Elsia War | 237118 | [237118-elsia-war.json](./237118-elsia-war.json) |
 | Elsie | 130761 | [130761-elsie.json](./130761-elsie.json) |
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elspell | 203673 | [203673-elspell.json](./203673-elspell.json) |
@@ -3395,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emiko's Pledge 4 | 306393 | [306393-emikos-pledge-4.json](./306393-emikos-pledge-4.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
+| Emil: A Hero's Journey | 236559 | [236559-emil-a-heros-journey.json](./236559-emil-a-heros-journey.json) |
 | Emiline: The Ghost of White Willow | 249978 | [249978-emiline-the-ghost-of-white-willow.json](./249978-emiline-the-ghost-of-white-willow.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
 | Emily | 334036 | [334036-emily.json](./334036-emily.json) |
@@ -6421,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESports Hero | 335458 | [335458-esports-hero.json](./335458-esports-hero.json) |
 | Esports Heroes | 259639 | [259639-esports-heroes.json](./259639-esports-heroes.json) |
 | Esports History | 172962 | [172962-esports-history.json](./172962-esports-history.json) |
+| eSports Jigsaw Puzzles | 236551 | [236551-esports-jigsaw-puzzles.json](./236551-esports-jigsaw-puzzles.json) |
 | Esports Legend | 107679 | [107679-esports-legend.json](./107679-esports-legend.json) |
 | Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
@@ -6577,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
+| Eternal Dreamers Rising | 236554 | [236554-eternal-dreamers-rising.json](./236554-eternal-dreamers-rising.json) |
 | Eternal Dreamers: ShirA.I., the Newscaster | 195305 | [195305-eternal-dreamers-shira-i-the-newscaster.json](./195305-eternal-dreamers-shira-i-the-newscaster.json) |
 | Eternal Dreamers: Sylfie, the Electric | 193242 | [193242-eternal-dreamers-sylfie-the-electric.json](./193242-eternal-dreamers-sylfie-the-electric.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
@@ -6824,6 +6828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethos Mythos | 419975 | [419975-ethos-mythos.json](./419975-ethos-mythos.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Ethoterria's Last Soldier | 398042 | [398042-ethoterrias-last-soldier.json](./398042-ethoterrias-last-soldier.json) |
+| Ethra | 236489 | [236489-ethra.json](./236489-ethra.json) |
 | Ethyrial | 133073 | [133073-ethyrial.json](./133073-ethyrial.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
 | Etihad Al Abtal (Heroes United) | 114631 | [114631-etihad-al-abtal-heroes-united.json](./114631-etihad-al-abtal-heroes-united.json) |
@@ -9179,6 +9184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the ElderWood | 367362 | [367362-eyes-of-the-elderwood.json](./367362-eyes-of-the-elderwood.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
 | Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
+| Eyes of the Ghoul Cat | 236577 | [236577-eyes-of-the-ghoul-cat.json](./236577-eyes-of-the-ghoul-cat.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of The Mirror | 137190 | [137190-eyes-of-the-mirror.json](./137190-eyes-of-the-mirror.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
