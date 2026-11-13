@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanade | 317332 | [317332-kanade.json](./317332-kanade.json) |
 | Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
+| Kanalmanac | 194518 | [194518-kanalmanac.json](./194518-kanalmanac.json) |
 | Kanały '44 | 166885 | [166885-kana-y-44.json](./166885-kana-y-44.json) |
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
 | Kanapocalypse | 171744 | [171744-kanapocalypse.json](./171744-kanapocalypse.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kara Legends | 133134 | [133134-kara-legends.json](./133134-kara-legends.json) |
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara no Shoujo | 46980 | [46980-kara-no-shoujo.json](./46980-kara-no-shoujo.json) |
+| Kara no Shoujo: Bishoujo Gakuen 1 | 194600 | [194600-kara-no-shoujo-bishoujo-gakuen-1.json](./194600-kara-no-shoujo-bishoujo-gakuen-1.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | Karabast | 300761 | [300761-karabast.json](./300761-karabast.json) |
 | KaraCreate | 191073 | [191073-karacreate.json](./191073-karacreate.json) |
@@ -1107,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karlson Run | 202578 | [202578-karlson-run.json](./202578-karlson-run.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karlsson på Taket och Kuckelimuckmedicinen | 412507 | [412507-karlsson-pa-taket-och-kuckelimuckmedicinen.json](./412507-karlsson-pa-taket-och-kuckelimuckmedicinen.json) |
+| Karm | 194513 | [194513-karm.json](./194513-karm.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 167466 | [167466-karma.json](./167466-karma.json) |
 | Karma | 311435 | [311435-karma.json](./311435-karma.json) |
@@ -3078,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
+| Kimi ni Semaru Otome no Lesson | 194488 | [194488-kimi-ni-semaru-otome-no-lesson.json](./194488-kimi-ni-semaru-otome-no-lesson.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
 | Kimi ni Steady | 263694 | [263694-kimi-ni-steady.json](./263694-kimi-ni-steady.json) |
@@ -4639,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kizuna Encounter: Super Tag Battle | 39530 | [39530-kizuna-encounter-super-tag-battle.json](./39530-kizuna-encounter-super-tag-battle.json) |
 | Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
 | Kizuna Kirameku Koi Iroha | 77659 | [77659-kizuna-kirameku-koi-iroha.json](./77659-kizuna-kirameku-koi-iroha.json) |
+| Kizuna Kirameku Koi Iroha: Tsubaki Renka | 194529 | [194529-kizuna-kirameku-koi-iroha-tsubaki-renka.json](./194529-kizuna-kirameku-koi-iroha-tsubaki-renka.json) |
 | Kizunare Fable | 336865 | [336865-kizunare-fable.json](./336865-kizunare-fable.json) |
 | Kizuyami | 267009 | [267009-kizuyami.json](./267009-kizuyami.json) |
 | KKCKC | 258243 | [258243-kkckc.json](./258243-kkckc.json) |
@@ -5485,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi to H Shika Shiteinai! | 396673 | [396673-koi-to-h-shika-shiteinai.json](./396673-koi-to-h-shika-shiteinai.json) |
 | Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
 | Koi wa Alf Laylah | 191691 | [191691-koi-wa-alf-laylah.json](./191691-koi-wa-alf-laylah.json) |
+| Koi wa Mofumofu! Love Me Teddy | 194479 | [194479-koi-wa-mofumofu-love-me-teddy.json](./194479-koi-wa-mofumofu-love-me-teddy.json) |
 | Koi wa Rule ni Shibararenai! | 222630 | [222630-koi-wa-rule-ni-shibararenai.json](./222630-koi-wa-rule-ni-shibararenai.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
@@ -6092,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotonoha Decadence | 398987 | [398987-kotonoha-decadence.json](./398987-kotonoha-decadence.json) |
 | Kotonoha Lernado | 250245 | [250245-kotonoha-lernado.json](./250245-kotonoha-lernado.json) |
 | Kotonoha Maichiru Natsu no Koe | 229998 | [229998-kotonoha-maichiru-natsu-no-koe.json](./229998-kotonoha-maichiru-natsu-no-koe.json) |
+| Kotonoha Tango | 194524 | [194524-kotonoha-tango.json](./194524-kotonoha-tango.json) |
 | Kotori Love Ex P | 139018 | [139018-kotori-love-ex-p.json](./139018-kotori-love-ex-p.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
