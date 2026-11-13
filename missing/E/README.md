@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
 | EndCycle | 56833 | [56833-endcycle.json](./56833-endcycle.json) |
 | EndCycle VS | 112819 | [112819-endcycle-vs.json](./112819-endcycle-vs.json) |
+| Endeavor | 188622 | [188622-endeavor.json](./188622-endeavor.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
 | Endeavor | 316508 | [316508-endeavor.json](./316508-endeavor.json) |
@@ -4505,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
 | Enid | 247418 | [247418-enid.json](./247418-enid.json) |
 | Enigma | 127886 | [127886-enigma.json](./127886-enigma.json) |
+| Enigma | 188625 | [188625-enigma.json](./188625-enigma.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
 | Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
@@ -7765,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
 | Everything Will Flow | 105708 | [105708-everything-will-flow.json](./105708-everything-will-flow.json) |
 | Everything You Didn't Get to Do | 282092 | [282092-everything-you-didnt-get-to-do.json](./282092-everything-you-didnt-get-to-do.json) |
+| Everything You Swallow Will One Day Come Up Like a Stone | 188548 | [188548-everything-you-swallow-will-one-day-come-up-like-a-stone.json](./188548-everything-you-swallow-will-one-day-come-up-like-a-stone.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Everything's Fine | 281302 | [281302-everythings-fine.json](./281302-everythings-fine.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
