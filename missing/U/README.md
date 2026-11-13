@@ -3525,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UpWorld | 275499 | [275499-upworld.json](./275499-upworld.json) |
 | Upworm | 371943 | [371943-upworm.json](./371943-upworm.json) |
 | Ur Game: The Game of Ancient Gods | 164200 | [164200-ur-game-the-game-of-ancient-gods.json](./164200-ur-game-the-game-of-ancient-gods.json) |
+| UR Racing | 200097 | [200097-ur-racing.json](./200097-ur-racing.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Ura Kaiten Patissier | 92064 | [92064-ura-kaiten-patissier.json](./92064-ura-kaiten-patissier.json) |
 | Ura Kyoushi: Haitoku no Inetsu Jugyou | 77930 | [77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json](./77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json) |
