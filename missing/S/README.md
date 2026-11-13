@@ -2305,8 +2305,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satella-Q: Mou Sugu Haru desu ne - Chotto Sate-Q Shimasen ka? | 179243 | [179243-satella-q-mou-sugu-haru-desu-ne-chotto-sate-q-shimasen-ka.json](./179243-satella-q-mou-sugu-haru-desu-ne-chotto-sate-q-shimasen-ka.json) |
 | Satella-Q: MusiQ Fair | 179242 | [179242-satella-q-musiq-fair.json](./179242-satella-q-musiq-fair.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
+| Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-1-shuu | 179233 | [179233-satella-q-nenmatsu-jumbo-takara-quiz-dai-1-shuu.json](./179233-satella-q-nenmatsu-jumbo-takara-quiz-dai-1-shuu.json) |
+| Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-2-shuu | 179234 | [179234-satella-q-nenmatsu-jumbo-takara-quiz-dai-2-shuu.json](./179234-satella-q-nenmatsu-jumbo-takara-quiz-dai-2-shuu.json) |
+| Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-3-shuu | 179235 | [179235-satella-q-nenmatsu-jumbo-takara-quiz-dai-3-shuu.json](./179235-satella-q-nenmatsu-jumbo-takara-quiz-dai-3-shuu.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-4-shuu | 179236 | [179236-satella-q-nenmatsu-jumbo-takara-quiz-dai-4-shuu.json](./179236-satella-q-nenmatsu-jumbo-takara-quiz-dai-4-shuu.json) |
 | Satella-Q: Nihon Series Q-kaiura 2 Out Manrui! Naze ka Squeeze! | 179240 | [179240-satella-q-nihon-series-q-kaiura-2-out-manrui-naze-ka-squeeze.json](./179240-satella-q-nihon-series-q-kaiura-2-out-manrui-naze-ka-squeeze.json) |
+| Satella-Q: Nouryou! Natsumatsuri! | 179232 | [179232-satella-q-nouryou-natsumatsuri.json](./179232-satella-q-nouryou-natsumatsuri.json) |
 | Satella-Q: Q-1 Grand Prix Manatsu no Revenge | 179244 | [179244-satella-q-q-1-grand-prix-manatsu-no-revenge.json](./179244-satella-q-q-1-grand-prix-manatsu-no-revenge.json) |
 | Satella-Q: Qko-tachi no Koushien | 179239 | [179239-satella-q-qko-tachi-no-koushien.json](./179239-satella-q-qko-tachi-no-koushien.json) |
 | Satella-Q: Sayonara Heisei Q-nen Nenmatsu Soukessan! | 179241 | [179241-satella-q-sayonara-heisei-q-nen-nenmatsu-soukessan.json](./179241-satella-q-sayonara-heisei-q-nen-nenmatsu-soukessan.json) |
@@ -6602,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
+| Settler | 179626 | [179626-settler.json](./179626-settler.json) |
 | Settler's Domain | 333411 | [333411-settlers-domain.json](./333411-settlers-domain.json) |
 | Settler's Odyssey | 255942 | [255942-settlers-odyssey.json](./255942-settlers-odyssey.json) |
 | Settlers of Catan | 320966 | [320966-settlers-of-catan.json](./320966-settlers-of-catan.json) |
@@ -14925,6 +14930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Battle | 380752 | [380752-slime-battle.json](./380752-slime-battle.json) |
 | Slime Battles | 70712 | [70712-slime-battles.json](./70712-slime-battles.json) |
 | Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
+| Slime Bubble Bro | 179639 | [179639-slime-bubble-bro.json](./179639-slime-bubble-bro.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Cave | 188296 | [188296-slime-cave.json](./188296-slime-cave.json) |
@@ -28462,6 +28468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STCC: The Game | 10921 | [10921-stcc-the-game.json](./10921-stcc-the-game.json) |
 | STDS00751 R+R | 266413 | [266413-stds00751-r-r.json](./266413-stds00751-r-r.json) |
 | STE : Save the Earth | 95220 | [95220-ste-save-the-earth.json](./95220-ste-save-the-earth.json) |
+| Steadfast | 178716 | [178716-steadfast.json](./178716-steadfast.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady | 169642 | [169642-steady.json](./169642-steady.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
@@ -31872,6 +31879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine 8: The Plan | 260752 | [260752-submachine-8-the-plan.json](./260752-submachine-8-the-plan.json) |
 | Submachine 9: The Temple | 129554 | [129554-submachine-9-the-temple.json](./129554-submachine-9-the-temple.json) |
 | Submachine 9: The Temple | 260760 | [260760-submachine-9-the-temple.json](./260760-submachine-9-the-temple.json) |
+| Submachine Complete Collection | 179631 | [179631-submachine-complete-collection.json](./179631-submachine-complete-collection.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
 | Submachine Universe | 129556 | [129556-submachine-universe.json](./129556-submachine-universe.json) |
 | Submachine Zero: Ancient Adventure | 19295 | [19295-submachine-zero-ancient-adventure.json](./19295-submachine-zero-ancient-adventure.json) |
@@ -34566,6 +34574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jungle Wrestling | 184559 | [184559-super-jungle-wrestling.json](./184559-super-jungle-wrestling.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
 | Super Junkoid | 263863 | [263863-super-junkoid.json](./263863-super-junkoid.json) |
+| Super Kaiju Dunk City | 179642 | [179642-super-kaiju-dunk-city.json](./179642-super-kaiju-dunk-city.json) |
 | Super Kakuro: Cross Sums | 195632 | [195632-super-kakuro-cross-sums.json](./195632-super-kakuro-cross-sums.json) |
 | Super Karate Kid | 327765 | [327765-super-karate-kid.json](./327765-super-karate-kid.json) |
 | Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
@@ -34661,6 +34670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Long Cat | 368768 | [368768-super-long-cat.json](./368768-super-long-cat.json) |
 | Super Loop Drive | 129954 | [129954-super-loop-drive.json](./129954-super-loop-drive.json) |
 | Super Loopz | 42357 | [42357-super-loopz.json](./42357-super-loopz.json) |
+| Super Loot Bros | 179096 | [179096-super-loot-bros.json](./179096-super-loot-bros.json) |
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
 | Super LSG World | 268356 | [268356-super-lsg-world.json](./268356-super-lsg-world.json) |
@@ -38513,6 +38523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Homegirl | 385627 | [385627-sweet-homegirl.json](./385627-sweet-homegirl.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
 | Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
+| Sweet Honey Action! | 179224 | [179224-sweet-honey-action.json](./179224-sweet-honey-action.json) |
 | Sweet Honey Coming | 410712 | [410712-sweet-honey-coming.json](./410712-sweet-honey-coming.json) |
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
 | Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
