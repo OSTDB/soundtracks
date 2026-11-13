@@ -6093,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Koth | 32330 | [32330-koth.json](./32330-koth.json) |
 | Kotiro | 204152 | [204152-kotiro.json](./204152-kotiro.json) |
+| Koto | 175998 | [175998-koto.json](./175998-koto.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
 | Kotoba no Kieta Hi ~Kokoro made Hadaka ni Suru Jun'ai Choukyou~ | 142904 | [142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json](./142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json) |
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
