@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemonic Issues | 26727 | [26727-pandemonic-issues.json](./26727-pandemonic-issues.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
+| Pandemonium Heart | 232221 | [232221-pandemonium-heart.json](./232221-pandemonium-heart.json) |
 | Pandemonium Line: Flipping on Borrowed Dime | 409185 | [409185-pandemonium-line-flipping-on-borrowed-dime.json](./409185-pandemonium-line-flipping-on-borrowed-dime.json) |
 | Pandemonium: Infernal Bonds | 299659 | [299659-pandemonium-infernal-bonds.json](./299659-pandemonium-infernal-bonds.json) |
 | Pandemonium: Merge! | 380959 | [380959-pandemonium-merge.json](./380959-pandemonium-merge.json) |
@@ -6521,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picket Fences | 262345 | [262345-picket-fences.json](./262345-picket-fences.json) |
 | Picket Line | 249714 | [249714-picket-line.json](./249714-picket-line.json) |
 | Picket Puzzle | 293778 | [293778-picket-puzzle.json](./293778-picket-puzzle.json) |
+| Picking up the Pieces | 232225 | [232225-picking-up-the-pieces.json](./232225-picking-up-the-pieces.json) |
 | Picking Wheat | 208650 | [208650-picking-wheat.json](./208650-picking-wheat.json) |
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
 | Pickle | 314284 | [314284-pickle.json](./314284-pickle.json) |
@@ -7767,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinch 50 Renpatsu!! | 292570 | [292570-pinch-50-renpatsu.json](./292570-pinch-50-renpatsu.json) |
 | Pinch Hitters | 395622 | [395622-pinch-hitters.json](./395622-pinch-hitters.json) |
 | Pinch of Fighting Girls | 211611 | [211611-pinch-of-fighting-girls.json](./211611-pinch-of-fighting-girls.json) |
+| Pinch Peeps | 232593 | [232593-pinch-peeps.json](./232593-pinch-peeps.json) |
 | Pinchcliffe Grand Prix | 54663 | [54663-pinchcliffe-grand-prix.json](./54663-pinchcliffe-grand-prix.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
@@ -9429,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | Pixelment TD | 277919 | [277919-pixelment-td.json](./277919-pixelment-td.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
+| Pixelmon | 232731 | [232731-pixelmon.json](./232731-pixelmon.json) |
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelmon Wingull 2 | 293268 | [293268-pixelmon-wingull-2.json](./293268-pixelmon-wingull-2.json) |
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
@@ -9720,6 +9724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
 | Pizzaro Project Deep Dish | 133319 | [133319-pizzaro-project-deep-dish.json](./133319-pizzaro-project-deep-dish.json) |
+| PizzaStore | 232594 | [232594-pizzastore.json](./232594-pizzastore.json) |
 | Pizzdile | 277319 | [277319-pizzdile.json](./277319-pizzdile.json) |
 | Pizzeria | 314402 | [314402-pizzeria.json](./314402-pizzeria.json) |
 | Pizzeria of Peril | 260790 | [260790-pizzeria-of-peril.json](./260790-pizzeria-of-peril.json) |
@@ -13226,6 +13231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Attack | 31249 | [31249-polygon-attack.json](./31249-polygon-attack.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
 | Polygon Bit Battle Royale | 286311 | [286311-polygon-bit-battle-royale.json](./286311-polygon-bit-battle-royale.json) |
+| Polygon Evolution | 232599 | [232599-polygon-evolution.json](./232599-polygon-evolution.json) |
 | Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
 | Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
@@ -17436,6 +17442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rebirth | 325499 | [325499-project-rebirth.json](./325499-project-rebirth.json) |
 | Project Reboot | 345455 | [345455-project-reboot.json](./345455-project-reboot.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
+| Project Red | 232732 | [232732-project-red.json](./232732-project-red.json) |
 | Project Red | 233817 | [233817-project-red.json](./233817-project-red.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Redsun | 285804 | [285804-project-redsun.json](./285804-project-redsun.json) |
@@ -18225,6 +18232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pseudoregalia: Jam Ver. | 259465 | [259465-pseudoregalia-jam-ver.json](./259465-pseudoregalia-jam-ver.json) |
 | PseudoSanity | 372635 | [372635-pseudosanity.json](./372635-pseudosanity.json) |
 | PSFootball | 89084 | [89084-psfootball.json](./89084-psfootball.json) |
+| Psi | 232733 | [232733-psi.json](./232733-psi.json) |
 | Psi 5 Trading Company | 26285 | [26285-psi-5-trading-company.json](./26285-psi-5-trading-company.json) |
 | Psi Academy: Orientation | 341439 | [341439-psi-academy-orientation.json](./341439-psi-academy-orientation.json) |
 | Psi Break | 421200 | [421200-psi-break.json](./421200-psi-break.json) |
