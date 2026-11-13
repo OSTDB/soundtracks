@@ -8506,7 +8506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
 | Choi | 231201 | [231201-choi.json](./231201-choi.json) |
 | Choice | 76076 | [76076-choice.json](./76076-choice.json) |
-| Choice Chamber | 22036 | [22036-choice-chamber.json](./22036-choice-chamber.json) |
 | Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
