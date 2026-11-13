@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzer War: Definitive Edition | 88030 | [88030-panzer-war-definitive-edition.json](./88030-panzer-war-definitive-edition.json) |
 | Panzer-Jagd | 24636 | [24636-panzer-jagd.json](./24636-panzer-jagd.json) |
+| Panzerdogs | 234791 | [234791-panzerdogs.json](./234791-panzerdogs.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
 | Panzermadels: Tank Dating Simulator | 34987 | [34987-panzermadels-tank-dating-simulator.json](./34987-panzermadels-tank-dating-simulator.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paraside: Duality Unbound | 293600 | [293600-paraside-duality-unbound.json](./293600-paraside-duality-unbound.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
+| Parasite | 234787 | [234787-parasite.json](./234787-parasite.json) |
 | Parasite | 33748 | [33748-parasite.json](./33748-parasite.json) |
 | Parasite | 376608 | [376608-parasite.json](./376608-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
@@ -5507,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetWorld 3D | 131405 | [131405-petworld-3d.json](./131405-petworld-3d.json) |
 | PetWorld 3D: Premium | 86845 | [86845-petworld-3d-premium.json](./86845-petworld-3d-premium.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
+| Petz | 234371 | [234371-petz.json](./234371-petz.json) |
 | Petz 4 | 159039 | [159039-petz-4.json](./159039-petz-4.json) |
 | Petz Beach | 9744 | [9744-petz-beach.json](./9744-petz-beach.json) |
 | Petz Bunnyz | 92018 | [92018-petz-bunnyz.json](./92018-petz-bunnyz.json) |
@@ -11649,6 +11652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Academy Life | 266562 | [266562-pokemon-academy-life.json](./266562-pokemon-academy-life.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Adventure | 143190 | [143190-pokemon-adventure.json](./143190-pokemon-adventure.json) |
+| Pokémon Adventures: Green Chapter | 234372 | [234372-pokemon-adventures-green-chapter.json](./234372-pokemon-adventures-green-chapter.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
 | Pokémon Aesthetic Red | 396606 | [396606-pokemon-aesthetic-red.json](./396606-pokemon-aesthetic-red.json) |
 | Pokémon Africanus | 298010 | [298010-pokemon-africanus.json](./298010-pokemon-africanus.json) |
