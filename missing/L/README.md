@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
 | Lastlore Saga | 387269 | [387269-lastlore-saga.json](./387269-lastlore-saga.json) |
+| Lastone: Behind the Choice | 187568 | [187568-lastone-behind-the-choice.json](./187568-lastone-behind-the-choice.json) |
 | LastRo | 273767 | [273767-lastro.json](./273767-lastro.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
 | Loftlock | 301455 | [301455-loftlock.json](./301455-loftlock.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
+| Lofty Quest | 187554 | [187554-lofty-quest.json](./187554-lofty-quest.json) |
 | Log 141 | 210768 | [210768-log-141.json](./210768-log-141.json) |
 | Log Away | 350204 | [350204-log-away.json](./350204-log-away.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
