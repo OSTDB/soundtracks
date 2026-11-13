@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Ranger | 39356 | [39356-galaxy-ranger.json](./39356-galaxy-ranger.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
+| Galaxy Reavers: Titan | 171133 | [171133-galaxy-reavers-titan.json](./171133-galaxy-reavers-titan.json) |
 | Galaxy Revo | 213103 | [213103-galaxy-revo.json](./213103-galaxy-revo.json) |
 | Galaxy Revo 2 | 238118 | [238118-galaxy-revo-2.json](./238118-galaxy-revo-2.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslamp Cases 8: Quest for the Relic | 293984 | [293984-gaslamp-cases-8-quest-for-the-relic.json](./293984-gaslamp-cases-8-quest-for-the-relic.json) |
 | Gaslamp Cases 9: The Ghost of Automaton City | 336996 | [336996-gaslamp-cases-9-the-ghost-of-automaton-city.json](./336996-gaslamp-cases-9-the-ghost-of-automaton-city.json) |
 | Gaslamp Cases XIII: The Crimson Portrait | 393710 | [393710-gaslamp-cases-xiii-the-crimson-portrait.json](./393710-gaslamp-cases-xiii-the-crimson-portrait.json) |
+| Gaslamp Cases: The Deadly Machine | 171648 | [171648-gaslamp-cases-the-deadly-machine.json](./171648-gaslamp-cases-the-deadly-machine.json) |
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gaslighters | 348668 | [348668-gaslighters.json](./348668-gaslighters.json) |
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
@@ -10088,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Griddlers Legend of the Pirates | 106891 | [106891-griddlers-legend-of-the-pirates.json](./106891-griddlers-legend-of-the-pirates.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
+| Griddlers Ted and Pet | 171652 | [171652-griddlers-ted-and-pet.json](./171652-griddlers-ted-and-pet.json) |
 | Griddlers Ted and Pet 2 | 157260 | [157260-griddlers-ted-and-pet-2.json](./157260-griddlers-ted-and-pet-2.json) |
 | Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
 | Griddlers: Beach Season | 190816 | [190816-griddlers-beach-season.json](./190816-griddlers-beach-season.json) |
@@ -10847,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Battle: Fish and Feed | 103865 | [103865-grow-battle-fish-and-feed.json](./103865-grow-battle-fish-and-feed.json) |
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
+| Grow Big or Go Home: Ultimate Edition | 171132 | [171132-grow-big-or-go-home-ultimate-edition.json](./171132-grow-big-or-go-home-ultimate-edition.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
 | Grow Comeback | 106289 | [106289-grow-comeback.json](./106289-grow-comeback.json) |
 | Grow Cube | 175827 | [175827-grow-cube.json](./175827-grow-cube.json) |
