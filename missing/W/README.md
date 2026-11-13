@@ -9326,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Chibi Izzy Skin Pack | 406461 | [406461-world-war-z-chibi-izzy-skin-pack.json](./406461-world-war-z-chibi-izzy-skin-pack.json) |
 | World War Z: Chibi Kimiko Skin Pack | 406462 | [406462-world-war-z-chibi-kimiko-skin-pack.json](./406462-world-war-z-chibi-kimiko-skin-pack.json) |
 | World War Z: Deadly Vice Weapon Skins | 243305 | [243305-world-war-z-deadly-vice-weapon-skins.json](./243305-world-war-z-deadly-vice-weapon-skins.json) |
+| World War Z: Deluxe Edition | 220899 | [220899-world-war-z-deluxe-edition.json](./220899-world-war-z-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
 | World War Z: Explorer Weapons Pack | 406467 | [406467-world-war-z-explorer-weapons-pack.json](./406467-world-war-z-explorer-weapons-pack.json) |
 | World War Z: Game of the Year Edition | 133945 | [133945-world-war-z-game-of-the-year-edition.json](./133945-world-war-z-game-of-the-year-edition.json) |
