@@ -12380,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roun | 84037 | [84037-roun.json](./84037-roun.json) |
 | Round 99 | 140300 | [140300-round-99.json](./140300-round-99.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
+| Round Invaders | 188143 | [188143-round-invaders.json](./188143-round-invaders.json) |
 | Round Invaders Red | 213231 | [213231-round-invaders-red.json](./213231-round-invaders-red.json) |
 | Round Invaders Rush | 209918 | [209918-round-invaders-rush.json](./209918-round-invaders-rush.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
