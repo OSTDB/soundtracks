@@ -6341,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
 | Defense Grid 2: Aftermath | 394257 | [394257-defense-grid-2-aftermath.json](./394257-defense-grid-2-aftermath.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
+| Defense Grid Gold | 177064 | [177064-defense-grid-gold.json](./177064-defense-grid-gold.json) |
 | Defense Grid: DLC Bundle | 227415 | [227415-defense-grid-dlc-bundle.json](./227415-defense-grid-dlc-bundle.json) |
 | Defense Grid: The Awakening | 8190 | [8190-defense-grid-the-awakening.json](./8190-defense-grid-the-awakening.json) |
 | Defense Grid: The Awakening - Containment | 164417 | [164417-defense-grid-the-awakening-containment.json](./164417-defense-grid-the-awakening-containment.json) |
@@ -6607,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Cooking and Romance | 270063 | [270063-delicious-cooking-and-romance.json](./270063-delicious-cooking-and-romance.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
+| Delicious: Emily's Childhood Memories | 177070 | [177070-delicious-emilys-childhood-memories.json](./177070-delicious-emilys-childhood-memories.json) |
 | Delicious: Emily's Christmas Carol | 30914 | [30914-delicious-emilys-christmas-carol.json](./30914-delicious-emilys-christmas-carol.json) |
 | Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
 | Delicious: Emily's Home Sweet Home | 30387 | [30387-delicious-emilys-home-sweet-home.json](./30387-delicious-emilys-home-sweet-home.json) |
@@ -12008,6 +12010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | District: Evolution | 328550 | [328550-district-evolution.json](./328550-district-evolution.json) |
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Distrust | 34667 | [34667-distrust.json](./34667-distrust.json) |
+| Distrust: Polar Survival | 177062 | [177062-distrust-polar-survival.json](./177062-distrust-polar-survival.json) |
 | Disturbed | 25851 | [25851-disturbed.json](./25851-disturbed.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
@@ -19270,6 +19273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks in Space | 123344 | [123344-ducks-in-space.json](./123344-ducks-in-space.json) |
 | Ducks' Wrath | 148892 | [148892-ducks-wrath.json](./148892-ducks-wrath.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
+| DuckSoup Dungeon | 177471 | [177471-ducksoup-dungeon.json](./177471-ducksoup-dungeon.json) |
 | Duckstazy Classic | 265755 | [265755-duckstazy-classic.json](./265755-duckstazy-classic.json) |
 | Duckstroma | 370296 | [370296-duckstroma.json](./370296-duckstroma.json) |
 | DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
