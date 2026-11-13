@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentino Rossi: The Game - Special Edition | 118940 | [118940-valentino-rossi-the-game-special-edition.json](./118940-valentino-rossi-the-game-special-edition.json) |
 | Valentyne Stories Necromancy | 177902 | [177902-valentyne-stories-necromancy.json](./177902-valentyne-stories-necromancy.json) |
 | Valenya Online | 420760 | [420760-valenya-online.json](./420760-valenya-online.json) |
+| Valera: The Drunken Lobster | 199551 | [199551-valera-the-drunken-lobster.json](./199551-valera-the-drunken-lobster.json) |
 | Valeria the Pagan Priestess | 249341 | [249341-valeria-the-pagan-priestess.json](./249341-valeria-the-pagan-priestess.json) |
 | Valerian Tales | 104038 | [104038-valerian-tales.json](./104038-valerian-tales.json) |
 | Valerie | 337109 | [337109-valerie.json](./337109-valerie.json) |
@@ -3355,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Soccer | 47084 | [47084-viva-soccer.json](./47084-viva-soccer.json) |
 | Viva Veloce | 306602 | [306602-viva-veloce.json](./306602-viva-veloce.json) |
 | Vivaion | 263520 | [263520-vivaion.json](./263520-vivaion.json) |
+| Vivaland | 199558 | [199558-vivaland.json](./199558-vivaland.json) |
 | Vivaland: Dream House | 268932 | [268932-vivaland-dream-house.json](./268932-vivaland-dream-house.json) |
 | Vivaldia | 140477 | [140477-vivaldia.json](./140477-vivaldia.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
