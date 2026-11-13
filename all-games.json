@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T00:05:51.391Z",
-  "total_soundtracks": 3255,
+  "generated_at": "2026-11-13T00:55:51.612Z",
+  "total_soundtracks": 3256,
   "games": [
     {
       "igdb_id": 7522,
@@ -40253,6 +40253,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/weird-west-original-soundtrack-weird-wolves-tracks-ep/1638962974?uo=4",
           "album_link_url": "https://album.link/i/1638962974"
+        }
+      ]
+    },
+    {
+      "igdb_id": 29076,
+      "game_name": "Welcome to Hanwell",
+      "game_url": "https://ostdb.net/games/welcome-to-hanwell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735c78768c74e336802b66c734",
+      "albums": [
+        {
+          "album_name": "Welcome to Hanwell (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3CQvc2evO4xAVAkHXqVgZL",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
