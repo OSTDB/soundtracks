@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz en Français | 90325 | [90325-quiz-en-francais.json](./90325-quiz-en-francais.json) |
 | Quiz Express | 241339 | [241339-quiz-express.json](./241339-quiz-express.json) |
 | Quiz F1 1,2 Finish | 252336 | [252336-quiz-f1-1-2-finish.json](./252336-quiz-f1-1-2-finish.json) |
+| Quiz Gakumon no Susume | 210808 | [210808-quiz-gakumon-no-susume.json](./210808-quiz-gakumon-no-susume.json) |
 | Quiz Game Museum | 418534 | [418534-quiz-game-museum.json](./418534-quiz-game-museum.json) |
 | Quiz Game Night | 270068 | [270068-quiz-game-night.json](./270068-quiz-game-night.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
