@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Shop | 293881 | [293881-magical-shop.json](./293881-magical-shop.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
+| Magical Speed | 237614 | [237614-magical-speed.json](./237614-magical-speed.json) |
 | Magical Sports: 2000 Koushien | 58514 | [58514-magical-sports-2000-koushien.json](./58514-magical-sports-2000-koushien.json) |
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
 | Magical Spot | 40365 | [40365-magical-spot.json](./40365-magical-spot.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
+| Marvel Putt Golf | 237699 | [237699-marvel-putt-golf.json](./237699-marvel-putt-golf.json) |
 | Marvel Putt Golf II | 239373 | [239373-marvel-putt-golf-ii.json](./239373-marvel-putt-golf-ii.json) |
 | Marvel Puzzle Quest | 7084 | [7084-marvel-puzzle-quest.json](./7084-marvel-puzzle-quest.json) |
 | Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
@@ -15106,6 +15108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission on the Planet | 360725 | [360725-mission-on-the-planet.json](./360725-mission-on-the-planet.json) |
 | Mission on Thunderhead | 28714 | [28714-mission-on-thunderhead.json](./28714-mission-on-thunderhead.json) |
 | Mission Pom-Bär: The Snack'N Run Game | 330359 | [330359-mission-pom-bar-the-snackn-run-game.json](./330359-mission-pom-bar-the-snackn-run-game.json) |
+| Mission R.I.S.K. | 237702 | [237702-mission-r-i-s-k.json](./237702-mission-r-i-s-k.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Rovee | 297845 | [297845-mission-rovee.json](./297845-mission-rovee.json) |
 | Mission Runway | 15795 | [15795-mission-runway.json](./15795-mission-runway.json) |
