@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night in Nowhere | 184043 | [184043-a-night-in-nowhere.json](./184043-a-night-in-nowhere.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
+| A Night in the Forum | 215291 | [215291-a-night-in-the-forum.json](./215291-a-night-in-the-forum.json) |
 | A Night in the Woods | 128760 | [128760-a-night-in-the-woods.json](./128760-a-night-in-the-woods.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
 | A Night Like Tonight | 183728 | [183728-a-night-like-tonight.json](./183728-a-night-like-tonight.json) |
@@ -15416,6 +15417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armello: The Usurpers Hero | 24026 | [24026-armello-the-usurpers-hero.json](./24026-armello-the-usurpers-hero.json) |
 | Armello: Usurpers Hero Pack | 163269 | [163269-armello-usurpers-hero-pack.json](./163269-armello-usurpers-hero-pack.json) |
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
+| Armen Noir Portable | 214806 | [214806-armen-noir-portable.json](./214806-armen-noir-portable.json) |
 | Armeria In Bloom | 409801 | [409801-armeria-in-bloom.json](./409801-armeria-in-bloom.json) |
 | Armies of Armageddon: WDK 2K | 27456 | [27456-armies-of-armageddon-wdk-2k.json](./27456-armies-of-armageddon-wdk-2k.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
