@@ -6444,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozma Wars | 40069 | [40069-ozma-wars.json](./40069-ozma-wars.json) |
 | Ozmafia!! | 21061 | [21061-ozmafia.json](./21061-ozmafia.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
+| Ozmafia!!: Vivace | 201194 | [201194-ozmafia-vivace.json](./201194-ozmafia-vivace.json) |
 | Ozon I | 40375 | [40375-ozon-i.json](./40375-ozon-i.json) |
 | Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
 | Ozone Guardian | 139206 | [139206-ozone-guardian.json](./139206-ozone-guardian.json) |
