@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T08:20:57.496Z",
-  "total_soundtracks": 3274,
+  "generated_at": "2026-11-13T08:26:28.392Z",
+  "total_soundtracks": 3282,
   "games": [
     {
       "igdb_id": 7522,
@@ -5689,6 +5689,20 @@
       ]
     },
     {
+      "igdb_id": 2600,
+      "game_name": "Caller's Bane",
+      "game_url": "https://ostdb.net/games/callers-bane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27378ae16ac71dcaaf753b31cdb",
+      "albums": [
+        {
+          "album_name": "Caller's Bane (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7GPwXOkcAmX2gGodydiqmq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5636,
       "game_name": "Candy Crush Saga",
       "game_url": "https://ostdb.net/games/candy-crush-saga",
@@ -7073,6 +7087,20 @@
         {
           "album_name": "Cooking Companions (Original Game Soundtrack Selection)",
           "spotify_url": "https://open.spotify.com/album/7ilsl4s4K5yV4mNH1PwARK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 87046,
+      "game_name": "Cooking Fever",
+      "game_url": "https://ostdb.net/games/cooking-fever",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733b4d36e483731073999de87b",
+      "albums": [
+        {
+          "album_name": "Cooking Fever (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3RIohWrdoPIlHt68u9rGeH",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19717,6 +19745,20 @@
       ]
     },
     {
+      "igdb_id": 44280,
+      "game_name": "Little Red Lie",
+      "game_url": "https://ostdb.net/games/little-red-lie",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27360843071428b66f2d3184899",
+      "albums": [
+        {
+          "album_name": "The Little Red Lie (Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1fS25tuSTrLK4cwDQFJI8n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1058,
       "game_name": "LittleBigPlanet",
       "game_url": "https://ostdb.net/games/littlebigplanet",
@@ -24275,6 +24317,20 @@
       ]
     },
     {
+      "igdb_id": 113138,
+      "game_name": "Odd Realm",
+      "game_url": "https://ostdb.net/games/odd-realm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e63d607a7bdd12cdd1db6241",
+      "albums": [
+        {
+          "album_name": "Odd Realm (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3YbiLytM02NEDmSifWOi2M",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9110,
       "game_name": "Odin Sphere",
       "game_url": "https://ostdb.net/games/odin-sphere",
@@ -27597,6 +27653,20 @@
         {
           "album_name": "République (Original Game Soundtrack) [Anniversary Edition]",
           "spotify_url": "https://open.spotify.com/album/3kRxcZzBcp1oTOw2pZGSRF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27728,
+      "game_name": "Reservoir Dogs: Bloody Days",
+      "game_url": "https://ostdb.net/games/reservoir-dogs-bloody-days",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d8e8bd0a4cbb16fe63c7c951",
+      "albums": [
+        {
+          "album_name": "Reservoir Dogs: Bloody Days (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0PJmQdduoJy5EVgUEpaNGg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32855,6 +32925,20 @@
         {
           "album_name": "Still Wakes The Deep: Siren's Rest (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2IM9eHKOzGx4m7PiipNsBz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 56485,
+      "game_name": "Stone Story RPG",
+      "game_url": "https://ostdb.net/games/stone-story-rpg",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f2f5d01a4f2d72ed3287949c",
+      "albums": [
+        {
+          "album_name": "Stone Story RPG (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3QTq2AakRQTlJwdBIP9DEF",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -39447,6 +39531,20 @@
       ]
     },
     {
+      "igdb_id": 107182,
+      "game_name": "Vectronom",
+      "game_url": "https://ostdb.net/games/vectronom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27317a8ef20f55e428a394ee7e1",
+      "albums": [
+        {
+          "album_name": "Vectronom (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4CWF7SKmompbR3GKucfAZo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8467,
       "game_name": "Velocity 2X",
       "game_url": "https://ostdb.net/games/velocity-2x",
@@ -40635,6 +40733,20 @@
         {
           "album_name": "Who's Your Daddy?! (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7mBpXqCGsVLMnz7dfAqzm1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35525,
+      "game_name": "Why Am I Dead At Sea",
+      "game_url": "https://ostdb.net/games/why-am-i-dead-at-sea",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c27a596c456c18c077c62b97",
+      "albums": [
+        {
+          "album_name": "Why Am I Dead at Sea (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7LAZPxnAtjRCRkpHAfpEy6",
           "apple_music_url": "",
           "album_link_url": ""
         }
