@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
 | Aery: Flow of Time | 260480 | [260480-aery-flow-of-time.json](./260480-aery-flow-of-time.json) |
 | Aery: Heaven & Hell | 219706 | [219706-aery-heaven-and-hell.json](./219706-aery-heaven-and-hell.json) |
+| Aery: Last Day of Earth | 199560 | [199560-aery-last-day-of-earth.json](./199560-aery-last-day-of-earth.json) |
 | Aery: Little Bird Adventure | 173928 | [173928-aery-little-bird-adventure.json](./173928-aery-little-bird-adventure.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
@@ -5770,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Vendetta | 122032 | [122032-ai-vendetta.json](./122032-ai-vendetta.json) |
 | Ai wa, Nikushimi ni Yoku Niteiru Nikushimi wa, Ai ni Yoku Niteiru | 153664 | [153664-ai-wa-nikushimi-ni-yoku-niteiru-nikushimi-wa-ai-ni-yoku-niteiru.json](./153664-ai-wa-nikushimi-ni-yoku-niteiru-nikushimi-wa-ai-ni-yoku-niteiru.json) |
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
+| AI War 2: Complete Edition | 199412 | [199412-ai-war-2-complete-edition.json](./199412-ai-war-2-complete-edition.json) |
 | AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
