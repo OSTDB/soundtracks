@@ -4124,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Killer | 101398 | [101398-ghost-killer.json](./101398-ghost-killer.json) |
 | Ghost Killers: The Revenge of the Sucker-Fun | 235605 | [235605-ghost-killers-the-revenge-of-the-sucker-fun.json](./235605-ghost-killers-the-revenge-of-the-sucker-fun.json) |
 | Ghost Kitchen | 337920 | [337920-ghost-kitchen.json](./337920-ghost-kitchen.json) |
+| Ghost Knight: A Dark Tale | 219332 | [219332-ghost-knight-a-dark-tale.json](./219332-ghost-knight-a-dark-tale.json) |
 | Ghost Land | 120586 | [120586-ghost-land.json](./120586-ghost-land.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
@@ -4162,6 +4163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Boarding School | 343535 | [343535-ghost-of-boarding-school.json](./343535-ghost-of-boarding-school.json) |
 | Ghost of Catsushina | 262763 | [262763-ghost-of-catsushina.json](./262763-ghost-of-catsushina.json) |
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
+| Ghost of Fall | 219331 | [219331-ghost-of-fall.json](./219331-ghost-of-fall.json) |
+| Ghost of Ice Valley | 219330 | [219330-ghost-of-ice-valley.json](./219330-ghost-of-ice-valley.json) |
 | Ghost of the Diced Steak | 364776 | [364776-ghost-of-the-diced-steak.json](./364776-ghost-of-the-diced-steak.json) |
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of the Seas | 150995 | [150995-ghost-of-the-seas.json](./150995-ghost-of-the-seas.json) |
@@ -4723,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
 | Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
+| Gimmiko | 219329 | [219329-gimmiko.json](./219329-gimmiko.json) |
 | Gimper vs RichZone | 399365 | [399365-gimper-vs-richzone.json](./399365-gimper-vs-richzone.json) |
 | Gin | 131307 | [131307-gin.json](./131307-gin.json) |
 | Gin - Rummy | 88632 | [88632-gin-rummy.json](./88632-gin-rummy.json) |
@@ -4827,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Adventure | 181738 | [181738-girl-adventure.json](./181738-girl-adventure.json) |
 | Girl Agent | 157429 | [157429-girl-agent.json](./157429-girl-agent.json) |
 | Girl Amazon Survival | 35159 | [35159-girl-amazon-survival.json](./35159-girl-amazon-survival.json) |
+| Girl and Chainsaw | 219328 | [219328-girl-and-chainsaw.json](./219328-girl-and-chainsaw.json) |
 | Girl and chocolate | 82519 | [82519-girl-and-chocolate.json](./82519-girl-and-chocolate.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
 | Girl and Goblin | 103810 | [103810-girl-and-goblin.json](./103810-girl-and-goblin.json) |
@@ -4990,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Power: The Fantastic World Of Dreams | 335731 | [335731-girls-power-the-fantastic-world-of-dreams.json](./335731-girls-power-the-fantastic-world-of-dreams.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
+| Girls slap | 219327 | [219327-girls-slap.json](./219327-girls-slap.json) |
 | Girls Squad: Style Wars | 343536 | [343536-girls-squad-style-wars.json](./343536-girls-squad-style-wars.json) |
 | Girls Tank Battle | 165605 | [165605-girls-tank-battle.json](./165605-girls-tank-battle.json) |
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
@@ -4999,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls und Panzer: Senshado, Kiwamemasu! | 42699 | [42699-girls-und-panzer-senshado-kiwamemasu.json](./42699-girls-und-panzer-senshado-kiwamemasu.json) |
 | Girls und Panzer: Senshadou Daisakusen! | 208236 | [208236-girls-und-panzer-senshadou-daisakusen.json](./208236-girls-und-panzer-senshadou-daisakusen.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
+| Girls vs Zombies | 219326 | [219326-girls-vs-zombies.json](./219326-girls-vs-zombies.json) |
 | Girls vs. Tentacles | 340302 | [340302-girls-vs-tentacles.json](./340302-girls-vs-tentacles.json) |
 | Girls Who Are Totally Into Me | 400165 | [400165-girls-who-are-totally-into-me.json](./400165-girls-who-are-totally-into-me.json) |
 | Girls Will Bite | 260068 | [260068-girls-will-bite.json](./260068-girls-will-bite.json) |
