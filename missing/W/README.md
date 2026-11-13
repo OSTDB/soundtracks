@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warthog Rally | 393022 | [393022-warthog-rally.json](./393022-warthog-rally.json) |
 | Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
+| Wartile: Complete Edition | 175996 | [175996-wartile-complete-edition.json](./175996-wartile-complete-edition.json) |
 | Wartime Glory | 269902 | [269902-wartime-glory.json](./269902-wartime-glory.json) |
 | Wartime Prologue | 115231 | [115231-wartime-prologue.json](./115231-wartime-prologue.json) |
 | Wartime X | 109992 | [109992-wartime-x.json](./109992-wartime-x.json) |
@@ -4257,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's the Year | 233066 | [233066-whats-the-year.json](./233066-whats-the-year.json) |
 | What's under your blanket !? | 15744 | [15744-whats-under-your-blanket.json](./15744-whats-under-your-blanket.json) |
 | What's under your blanket 2 !? | 29217 | [29217-whats-under-your-blanket-2.json](./29217-whats-under-your-blanket-2.json) |
+| What's Up by Strawberry Studio | 175868 | [175868-whats-up-by-strawberry-studio.json](./175868-whats-up-by-strawberry-studio.json) |
 | What's Up There? | 282225 | [282225-whats-up-there.json](./282225-whats-up-there.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | What's Wrong with Jasper? | 178593 | [178593-whats-wrong-with-jasper.json](./178593-whats-wrong-with-jasper.json) |
