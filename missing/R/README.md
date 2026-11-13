@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
+| Rally Car | 204602 | [204602-rally-car.json](./204602-rally-car.json) |
 | Rally Challenge | 70170 | [70170-rally-challenge.json](./70170-rally-challenge.json) |
 | Rally Challenge 2000 | 3582 | [3582-rally-challenge-2000.json](./3582-rally-challenge-2000.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
