@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingpin's Lair | 318156 | [318156-kingpins-lair.json](./318156-kingpins-lair.json) |
 | Kings | 109350 | [109350-kings.json](./109350-kings.json) |
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
+| Kings & Cities | 207434 | [207434-kings-and-cities.json](./207434-kings-and-cities.json) |
 | Kings & Savages | 330264 | [330264-kings-and-savages.json](./330264-kings-and-savages.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
 | Kings and Castles | 94154 | [94154-kings-and-castles.json](./94154-kings-and-castles.json) |
