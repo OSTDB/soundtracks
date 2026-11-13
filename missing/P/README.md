@@ -8820,6 +8820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series BombMachine Gunzohg | 231251 | [231251-pixel-game-maker-series-bombmachine-gunzohg.json](./231251-pixel-game-maker-series-bombmachine-gunzohg.json) |
 | Pixel Game Maker Series Dandan Z | 198011 | [198011-pixel-game-maker-series-dandan-z.json](./198011-pixel-game-maker-series-dandan-z.json) |
+| Pixel Game Maker Series Fish Tornado | 199547 | [199547-pixel-game-maker-series-fish-tornado.json](./199547-pixel-game-maker-series-fish-tornado.json) |
 | Pixel Game Maker Series LAB | 201085 | [201085-pixel-game-maker-series-lab.json](./201085-pixel-game-maker-series-lab.json) |
 | Pixel Game Maker Series MessiahEnd Refrain | 199930 | [199930-pixel-game-maker-series-messiahend-refrain.json](./199930-pixel-game-maker-series-messiahend-refrain.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
@@ -16057,6 +16058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Shift | 347090 | [347090-prism-shift.json](./347090-prism-shift.json) |
 | Prism Warriors DX | 346621 | [346621-prism-warriors-dx.json](./346621-prism-warriors-dx.json) |
 | Prism Wilds | 382404 | [382404-prism-wilds.json](./382404-prism-wilds.json) |
+| Prism: A Visual Novel | 199539 | [199539-prism-a-visual-novel.json](./199539-prism-a-visual-novel.json) |
 | Prism: Guard Shield | 209889 | [209889-prism-guard-shield.json](./209889-prism-guard-shield.json) |
 | Prism: Light the Way | 20765 | [20765-prism-light-the-way.json](./20765-prism-light-the-way.json) |
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
