@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
 | Samurai war era Hunter | 186503 | [186503-samurai-war-era-hunter.json](./186503-samurai-war-era-hunter.json) |
+| Samurai Warrior | 234981 | [234981-samurai-warrior.json](./234981-samurai-warrior.json) |
 | Samurai Warrior | 263464 | [263464-samurai-warrior.json](./263464-samurai-warrior.json) |
 | Samurai Warriors | 6027 | [6027-samurai-warriors.json](./6027-samurai-warriors.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
@@ -13678,6 +13679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
 | Sky High | 322918 | [322918-sky-high.json](./322918-sky-high.json) |
+| Sky High Games Horror Collection | 235511 | [235511-sky-high-games-horror-collection.json](./235511-sky-high-games-horror-collection.json) |
 | Sky High Golf | 256137 | [256137-sky-high-golf.json](./256137-sky-high-golf.json) |
 | Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
 | Sky Hop Saga | 58658 | [58658-sky-hop-saga.json](./58658-sky-hop-saga.json) |
@@ -17422,6 +17424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | SodaCity | 33958 | [33958-sodacity.json](./33958-sodacity.json) |
 | Sodahazard: Taste Test | 344653 | [344653-sodahazard-taste-test.json](./344653-sodahazard-taste-test.json) |
+| Sodaman | 235442 | [235442-sodaman.json](./235442-sodaman.json) |
 | Sodatete! Mushiking | 198649 | [198649-sodatete-mushiking.json](./198649-sodatete-mushiking.json) |
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
@@ -17524,6 +17527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soko-Sex | 69778 | [69778-soko-sex.json](./69778-soko-sex.json) |
 | Soko64 | 290660 | [290660-soko64.json](./290660-soko64.json) |
 | Sokobalien | 211129 | [211129-sokobalien.json](./211129-sokobalien.json) |
+| Sokoball Dreams | 235444 | [235444-sokoball-dreams.json](./235444-sokoball-dreams.json) |
 | Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 237142 | [237142-sokoban.json](./237142-sokoban.json) |
@@ -17941,6 +17945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Gold | 38832 | [38832-solid-gold.json](./38832-solid-gold.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
+| Solid River | 235508 | [235508-solid-river.json](./235508-solid-river.json) |
 | Solid Runner | 44437 | [44437-solid-runner.json](./44437-solid-runner.json) |
 | Solid Soccer Cup! | 114659 | [114659-solid-soccer-cup.json](./114659-solid-soccer-cup.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
@@ -21795,6 +21800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Savory | 412084 | [412084-space-savory.json](./412084-space-savory.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
+| Space Scavenger 2 | 235507 | [235507-space-scavenger-2.json](./235507-space-scavenger-2.json) |
 | Space Scavenger Origins | 364813 | [364813-space-scavenger-origins.json](./364813-space-scavenger-origins.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
@@ -23246,6 +23252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellPix | 95692 | [95692-spellpix.json](./95692-spellpix.json) |
 | Spellpowder: Uprising | 212028 | [212028-spellpowder-uprising.json](./212028-spellpowder-uprising.json) |
 | SpellPunk VR | 132543 | [132543-spellpunk-vr.json](./132543-spellpunk-vr.json) |
+| Spellrain | 235498 | [235498-spellrain.json](./235498-spellrain.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spellrune: Realm of Portals | 107697 | [107697-spellrune-realm-of-portals.json](./107697-spellrune-realm-of-portals.json) |
@@ -32972,6 +32979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
 | Sunset Runner | 71147 | [71147-sunset-runner.json](./71147-sunset-runner.json) |
 | Sunset Shapes | 157384 | [157384-sunset-shapes.json](./157384-sunset-shapes.json) |
+| Sunset Shift | 234976 | [234976-sunset-shift.json](./234976-sunset-shift.json) |
 | Sunset Shore | 240438 | [240438-sunset-shore.json](./240438-sunset-shore.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
@@ -36730,6 +36738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Spree DX | 413405 | [413405-supermarket-spree-dx.json](./413405-supermarket-spree-dx.json) |
 | Supermarket Surviving Simulator | 326335 | [326335-supermarket-surviving-simulator.json](./326335-supermarket-surviving-simulator.json) |
+| Supermarket Times | 235384 | [235384-supermarket-times.json](./235384-supermarket-times.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
 | Supermarket VR | 354906 | [354906-supermarket-vr.json](./354906-supermarket-vr.json) |
@@ -37572,6 +37581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Cat: Tower Defense | 364270 | [364270-sushi-cat-tower-defense.json](./364270-sushi-cat-tower-defense.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi Claw Machine | 412900 | [412900-sushi-claw-machine.json](./412900-sushi-claw-machine.json) |
+| Sushi Clicker | 235440 | [235440-sushi-clicker.json](./235440-sushi-clicker.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi Courier! | 405924 | [405924-sushi-courier.json](./405924-sushi-courier.json) |
 | Sushi Dojo | 359915 | [359915-sushi-dojo.json](./359915-sushi-dojo.json) |
