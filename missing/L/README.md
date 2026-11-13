@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Vikings: Thralls | 321832 | [321832-land-of-the-vikings-thralls.json](./321832-land-of-the-vikings-thralls.json) |
 | Land of the Void | 115363 | [115363-land-of-the-void.json](./115363-land-of-the-void.json) |
 | Land of Towers | 225585 | [225585-land-of-towers.json](./225585-land-of-towers.json) |
+| Land of Traps | 232220 | [232220-land-of-traps.json](./232220-land-of-traps.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
@@ -4352,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Ride Corral Club | 24709 | [24709-lets-ride-corral-club.json](./24709-lets-ride-corral-club.json) |
 | Lets Ride!: Friends Forever | 142571 | [142571-lets-ride-friends-forever.json](./142571-lets-ride-friends-forever.json) |
 | Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
+| Letter Bank: A Free Strategic Spelling Game | 232200 | [232200-letter-bank-a-free-strategic-spelling-game.json](./232200-letter-bank-a-free-strategic-spelling-game.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boost | 241579 | [241579-letter-boost.json](./241579-letter-boost.json) |
 | Letter Bounce | 241580 | [241580-letter-bounce.json](./241580-letter-bounce.json) |
@@ -7397,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locodriver 8 | 83120 | [83120-locodriver-8.json](./83120-locodriver-8.json) |
 | Locodriver 9 | 83119 | [83119-locodriver-9.json](./83119-locodriver-9.json) |
 | Locoland | 35676 | [35676-locoland.json](./35676-locoland.json) |
+| Locole | 232592 | [232592-locole.json](./232592-locole.json) |
 | Locomalito Arcade Legends | 278198 | [278198-locomalito-arcade-legends.json](./278198-locomalito-arcade-legends.json) |
 | Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
@@ -7664,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
 | Loki's Revenge Capture the Flag | 307463 | [307463-lokis-revenge-capture-the-flag.json](./307463-lokis-revenge-capture-the-flag.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
+| Lokopolis | 232216 | [232216-lokopolis.json](./232216-lokopolis.json) |
 | LOL Dolls - lol surprise game | 98829 | [98829-lol-dolls-lol-surprise-game.json](./98829-lol-dolls-lol-surprise-game.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
@@ -8336,6 +8340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Apocalypse | 92600 | [92600-lord-of-apocalypse.json](./92600-lord-of-apocalypse.json) |
 | Lord of Arcana | 21736 | [21736-lord-of-arcana.json](./21736-lord-of-arcana.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
+| Lord of Chaos | 232212 | [232212-lord-of-chaos.json](./232212-lord-of-chaos.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
 | Lord of Darkness: Prologue | 203845 | [203845-lord-of-darkness-prologue.json](./203845-lord-of-darkness-prologue.json) |
