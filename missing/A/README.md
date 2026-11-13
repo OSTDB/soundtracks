@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Contusion | 190298 | [190298-a-contusion.json](./190298-a-contusion.json) |
 | A Conversation With Mister Rabbit | 156961 | [156961-a-conversation-with-mister-rabbit.json](./156961-a-conversation-with-mister-rabbit.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
+| A Corgi's Cozy Hike | 239390 | [239390-a-corgis-cozy-hike.json](./239390-a-corgis-cozy-hike.json) |
 | A Corporate Machine | 420802 | [420802-a-corporate-machine.json](./420802-a-corporate-machine.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Cottage Story | 178774 | [178774-a-cottage-story.json](./178774-a-cottage-story.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
 | Abyss of Empires:The Mythology | 305830 | [305830-abyss-of-empires-the-mythology.json](./305830-abyss-of-empires-the-mythology.json) |
+| Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
 | Abyss of Gloom | 287347 | [287347-abyss-of-gloom.json](./287347-abyss-of-gloom.json) |
 | Abyss of Kings | 398717 | [398717-abyss-of-kings.json](./398717-abyss-of-kings.json) |
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
@@ -4806,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Fright | 279068 | [279068-after-fright.json](./279068-after-fright.json) |
 | After Gloom | 126772 | [126772-after-gloom.json](./126772-after-gloom.json) |
 | After Grow | 372578 | [372578-after-grow.json](./372578-after-grow.json) |
+| After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After He Was Gone | 203836 | [203836-after-he-was-gone.json](./203836-after-he-was-gone.json) |
 | After Heaven | 364851 | [364851-after-heaven.json](./364851-after-heaven.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
@@ -5167,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
+| Age of Empires III: Collector's Edition | 239366 | [239366-age-of-empires-iii-collectors-edition.json](./239366-age-of-empires-iii-collectors-edition.json) |
 | Age of Empires III: Complete Collection | 28723 | [28723-age-of-empires-iii-complete-collection.json](./28723-age-of-empires-iii-complete-collection.json) |
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
@@ -5938,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat 22 | 14749 | [14749-air-combat-22.json](./14749-air-combat-22.json) |
 | Air Combat Arena | 94974 | [94974-air-combat-arena.json](./94974-air-combat-arena.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
+| Air Combat II | 239386 | [239386-air-combat-ii.json](./239386-air-combat-ii.json) |
 | Air Combat II Special | 299793 | [299793-air-combat-ii-special.json](./299793-air-combat-ii-special.json) |
 | Air Combat III | 171887 | [171887-air-combat-iii.json](./171887-air-combat-iii.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
@@ -10032,6 +10037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Reigns: Limited Edition | 44663 | [44663-anarchy-reigns-limited-edition.json](./44663-anarchy-reigns-limited-edition.json) |
 | Anarchy Road | 345659 | [345659-anarchy-road.json](./345659-anarchy-road.json) |
 | Anarchy Zone | 15595 | [15595-anarchy-zone.json](./15595-anarchy-zone.json) |
+| Anarchy: RedLine Skin Set | 239269 | [239269-anarchy-redline-skin-set.json](./239269-anarchy-redline-skin-set.json) |
 | Anarchy: Rush Hour | 44602 | [44602-anarchy-rush-hour.json](./44602-anarchy-rush-hour.json) |
 | Anarchy: Wolf's Law | 164948 | [164948-anarchy-wolfs-law.json](./164948-anarchy-wolfs-law.json) |
 | Anarchy: Wolf's Law - Summer Adventure | 226222 | [226222-anarchy-wolfs-law-summer-adventure.json](./226222-anarchy-wolfs-law-summer-adventure.json) |
@@ -16787,6 +16793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Triple Pack: Black Flag, Unity, Syndicate | 164674 | [164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json](./164674-assassins-creed-triple-pack-black-flag-unity-syndicate.json) |
 | Assassin's Creed Unity: Arno's Chronicles | 251353 | [251353-assassins-creed-unity-arnos-chronicles.json](./251353-assassins-creed-unity-arnos-chronicles.json) |
 | Assassin's Creed Unity: Revolutionary Armaments Pack | 250579 | [250579-assassins-creed-unity-revolutionary-armaments-pack.json](./250579-assassins-creed-unity-revolutionary-armaments-pack.json) |
+| Assassin's Creed Unity: Secrets of the Revolution | 239352 | [239352-assassins-creed-unity-secrets-of-the-revolution.json](./239352-assassins-creed-unity-secrets-of-the-revolution.json) |
 | Assassin's Creed Unity: The Chemical Revolution | 222679 | [222679-assassins-creed-unity-the-chemical-revolution.json](./222679-assassins-creed-unity-the-chemical-revolution.json) |
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
@@ -18132,6 +18139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 2: Lost Legends & the Secret Fairy DX | 359425 | [359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json](./359425-atelier-ryza-2-lost-legends-and-the-secret-fairy-dx.json) |
 | Atelier Ryza 3: Additional Area - Ashra-am Baird Outlying Areas | 254374 | [254374-atelier-ryza-3-additional-area-ashra-am-baird-outlying-areas.json](./254374-atelier-ryza-3-additional-area-ashra-am-baird-outlying-areas.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Additional Area "Rosca Island" | 251683 | [251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json](./251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json) |
+| Atelier Ryza 3: Alchemist of the End & the Secret Key - Digital Deluxe Edition | 239259 | [239259-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-digital-deluxe-edition.json](./239259-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-digital-deluxe-edition.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Premium Box | 381105 | [381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json](./381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Ultimate Edition | 239482 | [239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json](./239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
@@ -18892,6 +18900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura 2: The Sacred Rings | 52427 | [52427-aura-2-the-sacred-rings.json](./52427-aura-2-the-sacred-rings.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
+| Aura Battler Dunbine: Byston Well's Flame | 239378 | [239378-aura-battler-dunbine-byston-wells-flame.json](./239378-aura-battler-dunbine-byston-wells-flame.json) |
 | Aura Battler Dunbine: Seisenshi Densetsu | 64754 | [64754-aura-battler-dunbine-seisenshi-densetsu.json](./64754-aura-battler-dunbine-seisenshi-densetsu.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
