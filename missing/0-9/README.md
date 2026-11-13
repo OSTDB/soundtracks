@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #0 Iggy's Castle | 282334 | [282334-0-iggys-castle.json](./282334-0-iggys-castle.json) |
 | #1 Anagrams Sudokus Bundle | 192077 | [192077-1-anagrams-sudokus-bundle.json](./192077-1-anagrams-sudokus-bundle.json) |
 | #1 Crosswords Bundle | 153139 | [153139-1-crosswords-bundle.json](./153139-1-crosswords-bundle.json) |
+| #1 Crosswords Sudokus Bundle | 192413 | [192413-1-crosswords-sudokus-bundle.json](./192413-1-crosswords-sudokus-bundle.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #1 Sudokus | 187309 | [187309-1-sudokus.json](./187309-1-sudokus.json) |
 | #21: The World | 166495 | [166495-21-the-world.json](./166495-21-the-world.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw World Tour: Europe | 96827 | [96827-1001-jigsaw-world-tour-europe.json](./96827-1001-jigsaw-world-tour-europe.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
 | 1001 Jigsaw: Castles and Palaces | 126157 | [126157-1001-jigsaw-castles-and-palaces.json](./126157-1001-jigsaw-castles-and-palaces.json) |
+| 1001 Jigsaw: Castles and Palaces 2 | 192851 | [192851-1001-jigsaw-castles-and-palaces-2.json](./192851-1001-jigsaw-castles-and-palaces-2.json) |
 | 1001 Jigsaw: Castles and Palaces 3 | 199740 | [199740-1001-jigsaw-castles-and-palaces-3.json](./199740-1001-jigsaw-castles-and-palaces-3.json) |
 | 1001 Jigsaw: Castles and Palaces 4 | 249588 | [249588-1001-jigsaw-castles-and-palaces-4.json](./249588-1001-jigsaw-castles-and-palaces-4.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
@@ -1107,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
 | 11 Hào Xiǎozhèn Zōnghézhèng | 223805 | [223805-11-hao-xiaozhen-zonghezheng.json](./223805-11-hao-xiaozhen-zonghezheng.json) |
+| 11 Islands 2: Story of Love | 192863 | [192863-11-islands-2-story-of-love.json](./192863-11-islands-2-story-of-love.json) |
 | 11 pm | 423984 | [423984-11-pm.json](./423984-11-pm.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 11 Years | 306749 | [306749-11-years.json](./306749-11-years.json) |
@@ -3404,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Cindy Love | 164593 | [164593-69-cindy-love.json](./164593-69-cindy-love.json) |
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
 | 69 Erika Love | 171307 | [171307-69-erika-love.json](./171307-69-erika-love.json) |
+| 69 Estera Hot | 192449 | [192449-69-estera-hot.json](./192449-69-estera-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Iris Hot | 192539 | [192539-69-iris-hot.json](./192539-69-iris-hot.json) |
 | 69 Lily Hot | 190929 | [190929-69-lily-hot.json](./190929-69-lily-hot.json) |
