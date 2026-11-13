@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S na Kanojo | 97425 | [97425-s-na-kanojo.json](./97425-s-na-kanojo.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
+| S-In | 195744 | [195744-s-in.json](./195744-s-in.json) |
 | S-Mail | 388783 | [388783-s-mail.json](./388783-s-mail.json) |
 | S-Project 66 | 305703 | [305703-s-project-66.json](./305703-s-project-66.json) |
 | S-Race | 59799 | [59799-s-race.json](./59799-s-race.json) |
@@ -3107,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Together | 350465 | [350465-scary-together.json](./350465-scary-together.json) |
 | Scary Turnaround | 231815 | [231815-scary-turnaround.json](./231815-scary-turnaround.json) |
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
+| Scary Wife HD | 195746 | [195746-scary-wife-hd.json](./195746-scary-wife-hd.json) |
 | Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scarygirl Illustration Kit | 85364 | [85364-scarygirl-illustration-kit.json](./85364-scarygirl-illustration-kit.json) |
 | Scarytales: All Hail King Mongo | 118642 | [118642-scarytales-all-hail-king-mongo.json](./118642-scarytales-all-hail-king-mongo.json) |
@@ -5821,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
 | Sellsword VR | 55686 | [55686-sellsword-vr.json](./55686-sellsword-vr.json) |
 | Selma and the Wisp | 32265 | [32265-selma-and-the-wisp.json](./32265-selma-and-the-wisp.json) |
+| Selobus Fantasy | 195654 | [195654-selobus-fantasy.json](./195654-selobus-fantasy.json) |
 | Selsoviet | 411699 | [411699-selsoviet.json](./411699-selsoviet.json) |
 | Selve | 369109 | [369109-selve.json](./369109-selve.json) |
 | Sem % | 176816 | [176816-sem.json](./176816-sem.json) |
@@ -13124,6 +13127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SKD | 278058 | [278058-skd.json](./278058-skd.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skeasy | 85376 | [85376-skeasy.json](./85376-skeasy.json) |
+| Skedaddle Out the Dungeon | 195677 | [195677-skedaddle-out-the-dungeon.json](./195677-skedaddle-out-the-dungeon.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee Ball Flick - Hole King | 103916 | [103916-skee-ball-flick-hole-king.json](./103916-skee-ball-flick-hole-king.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
@@ -25548,6 +25552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
 | Square Word: Christmas Edition | 185349 | [185349-square-word-christmas-edition.json](./185349-square-word-christmas-edition.json) |
 | Square Word: Hello Winter! | 268960 | [268960-square-word-hello-winter.json](./268960-square-word-hello-winter.json) |
+| Square Word: Summer Edition | 195650 | [195650-square-word-summer-edition.json](./195650-square-word-summer-edition.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
 | Square x Square | 55815 | [55815-square-x-square.json](./55815-square-x-square.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
@@ -33254,6 +33259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine.EXE | 391266 | [391266-sunshine-exe.json](./391266-sunshine-exe.json) |
 | Sunshore City | 396737 | [396737-sunshore-city.json](./396737-sunshore-city.json) |
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
+| Sunshower | 195136 | [195136-sunshower.json](./195136-sunshower.json) |
 | Sunshowers Burn the Century Scionic | 331603 | [331603-sunshowers-burn-the-century-scionic.json](./331603-sunshowers-burn-the-century-scionic.json) |
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
 | Sunsoft Collection 1 | 251898 | [251898-sunsoft-collection-1.json](./251898-sunsoft-collection-1.json) |
@@ -37119,6 +37125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
 | SuperStar Starship | 137227 | [137227-superstar-starship.json](./137227-superstar-starship.json) |
 | SuperStar Stayc | 250121 | [250121-superstar-stayc.json](./250121-superstar-stayc.json) |
+| Superstar Strategy | 195655 | [195655-superstar-strategy.json](./195655-superstar-strategy.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | SuperStar Wakeone | 388481 | [388481-superstar-wakeone.json](./388481-superstar-wakeone.json) |
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
