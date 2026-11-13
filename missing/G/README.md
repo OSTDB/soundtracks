@@ -1568,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game Zero | 264369 | [264369-game-zero.json](./264369-game-zero.json) |
+| Game-Kun: Input Challenge | 172237 | [172237-game-kun-input-challenge.json](./172237-game-kun-input-challenge.json) |
 | Game-No-Watch Ball | 292075 | [292075-game-no-watch-ball.json](./292075-game-no-watch-ball.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
 | Game-VCD 1 | 263623 | [263623-game-vcd-1.json](./263623-game-vcd-1.json) |
