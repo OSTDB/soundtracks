@@ -5374,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV | 380634 | [380634-final-fantasy-iv.json](./380634-final-fantasy-iv.json) |
 | Final Fantasy IV | 399 | [399-final-fantasy-iv.json](./399-final-fantasy-iv.json) |
 | Final Fantasy IV Advance | 406 | [406-final-fantasy-iv-advance.json](./406-final-fantasy-iv-advance.json) |
+| Final Fantasy IV Easy Type | 205703 | [205703-final-fantasy-iv-easy-type.json](./205703-final-fantasy-iv-easy-type.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: Daughter of Darkness and Light | 316531 | [316531-final-fantasy-iv-daughter-of-darkness-and-light.json](./316531-final-fantasy-iv-daughter-of-darkness-and-light.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
