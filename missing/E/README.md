@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eets: Chowdown | 21946 | [21946-eets-chowdown.json](./21946-eets-chowdown.json) |
 | Eets: Hunger. It's emotional. | 28960 | [28960-eets-hunger-its-emotional.json](./28960-eets-hunger-its-emotional.json) |
 | Eevee x Tamagotchi | 230060 | [230060-eevee-x-tamagotchi.json](./230060-eevee-x-tamagotchi.json) |
+| EEvol | 216388 | [216388-eevol.json](./216388-eevol.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
 | EF 2000 | 46719 | [46719-ef-2000.json](./46719-ef-2000.json) |
