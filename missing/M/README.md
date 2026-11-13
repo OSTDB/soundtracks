@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Challenge AR | 378534 | [378534-math-challenge-ar.json](./378534-math-challenge-ar.json) |
 | Math Challenge: Workout Brain | 240343 | [240343-math-challenge-workout-brain.json](./240343-math-challenge-workout-brain.json) |
 | Math Challenges 2018 | 100943 | [100943-math-challenges-2018.json](./100943-math-challenges-2018.json) |
+| Math Circus: Act 1 | 188544 | [188544-math-circus-act-1.json](./188544-math-circus-act-1.json) |
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Classroom Challenge | 102355 | [102355-math-classroom-challenge.json](./102355-math-classroom-challenge.json) |
 | Math Classroom Challenge | 173144 | [173144-math-classroom-challenge.json](./173144-math-classroom-challenge.json) |
@@ -18113,6 +18114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
 | Moomintroll: Winter's Warmth | 348272 | [348272-moomintroll-winters-warmth.json](./348272-moomintroll-winters-warmth.json) |
 | MooMoo.io | 111895 | [111895-moomoo-io.json](./111895-moomoo-io.json) |
+| Moon | 188135 | [188135-moon.json](./188135-moon.json) |
 | Moon | 212774 | [212774-moon.json](./212774-moon.json) |
 | Moon | 21898 | [21898-moon.json](./21898-moon.json) |
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
@@ -21679,6 +21681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutagenic 2 | 390610 | [390610-mutagenic-2.json](./390610-mutagenic-2.json) |
 | Mutan Zone | 39120 | [39120-mutan-zone.json](./39120-mutan-zone.json) |
+| Mutant | 188133 | [188133-mutant.json](./188133-mutant.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
 | Mutant Alley | 371501 | [371501-mutant-alley.json](./371501-mutant-alley.json) |
