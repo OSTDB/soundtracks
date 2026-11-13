@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Stars Idol Project Memories | 172851 | [172851-kirakira-stars-idol-project-memories.json](./172851-kirakira-stars-idol-project-memories.json) |
 | Kirakira Stars Idol Project Nagisa | 152614 | [152614-kirakira-stars-idol-project-nagisa.json](./152614-kirakira-stars-idol-project-nagisa.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
+| Kirameki Love Stories | 193913 | [193913-kirameki-love-stories.json](./193913-kirameki-love-stories.json) |
 | Kirameki Paradise | 225372 | [225372-kirameki-paradise.json](./225372-kirameki-paradise.json) |
 | Kirameki School Life SP: The Wonder Years | 196944 | [196944-kirameki-school-life-sp-the-wonder-years.json](./196944-kirameki-school-life-sp-the-wonder-years.json) |
 | Kirara Fantasia | 82561 | [82561-kirara-fantasia.json](./82561-kirara-fantasia.json) |
