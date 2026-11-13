@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sages of Vandaleria: Rebirth of an Empire | 313200 | [313200-sages-of-vandaleria-rebirth-of-an-empire.json](./313200-sages-of-vandaleria-rebirth-of-an-empire.json) |
 | Sagger | 220494 | [220494-sagger.json](./220494-sagger.json) |
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
+| Sagittarius | 176526 | [176526-sagittarius.json](./176526-sagittarius.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | Sago Mini Jinja's Garden | 405203 | [405203-sago-mini-jinjas-garden.json](./405203-sago-mini-jinjas-garden.json) |
@@ -5807,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
+| Self-care for wizards | 176946 | [176946-self-care-for-wizards.json](./176946-self-care-for-wizards.json) |
 | Self-Comb Women: Home Left Behind | 351380 | [351380-self-comb-women-home-left-behind.json](./351380-self-comb-women-home-left-behind.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-Delusion | 158325 | [158325-self-delusion.json](./158325-self-delusion.json) |
@@ -22090,6 +22092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Simulator HD - Planet Flight | 95529 | [95529-space-simulator-hd-planet-flight.json](./95529-space-simulator-hd-planet-flight.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
+| Space Slam | 176554 | [176554-space-slam.json](./176554-space-slam.json) |
 | Space Slam | 30020 | [30020-space-slam.json](./30020-space-slam.json) |
 | Space Slaughter | 242875 | [242875-space-slaughter.json](./242875-space-slaughter.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
@@ -29194,6 +29197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
 | Steppy Dungeon | 181726 | [181726-steppy-dungeon.json](./181726-steppy-dungeon.json) |
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
+| Steps | 176523 | [176523-steps.json](./176523-steps.json) |
 | Steps From Above | 188889 | [188889-steps-from-above.json](./188889-steps-from-above.json) |
 | Steps of Debauchery | 370578 | [370578-steps-of-debauchery.json](./370578-steps-of-debauchery.json) |
 | Steps of Doom | 187681 | [187681-steps-of-doom.json](./187681-steps-of-doom.json) |
