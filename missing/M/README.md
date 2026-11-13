@@ -16164,6 +16164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modo Modo | 374022 | [374022-modo-modo.json](./374022-modo-modo.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
+| Modular Combat | 174412 | [174412-modular-combat.json](./174412-modular-combat.json) |
 | Modular Delight | 413218 | [413218-modular-delight.json](./413218-modular-delight.json) |
 | Modularity | 395260 | [395260-modularity.json](./395260-modularity.json) |
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
@@ -18197,6 +18198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
 | Moon Dancer | 187080 | [187080-moon-dancer.json](./187080-moon-dancer.json) |
 | Moon Defence | 153901 | [153901-moon-defence.json](./153901-moon-defence.json) |
+| Moon Defense | 174936 | [174936-moon-defense.json](./174936-moon-defense.json) |
 | Moon Diver | 20543 | [20543-moon-diver.json](./20543-moon-diver.json) |
 | Moon Dragon | 191457 | [191457-moon-dragon.json](./191457-moon-dragon.json) |
 | Moon Drop | 302596 | [302596-moon-drop.json](./302596-moon-drop.json) |
