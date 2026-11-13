@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Cats | 233942 | [233942-zodiac-cats.json](./233942-zodiac-cats.json) |
 | Zodiac DX | 158514 | [158514-zodiac-dx.json](./158514-zodiac-dx.json) |
 | Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
+| Zodiac Fantasy | 207447 | [207447-zodiac-fantasy.json](./207447-zodiac-fantasy.json) |
 | Zodiac Fantasy 2 | 220142 | [220142-zodiac-fantasy-2.json](./220142-zodiac-fantasy-2.json) |
 | Zodiac Girls | 292709 | [292709-zodiac-girls.json](./292709-zodiac-girls.json) |
 | Zodiac Hentai: Hellish Memory | 220736 | [220736-zodiac-hentai-hellish-memory.json](./220736-zodiac-hentai-hellish-memory.json) |
