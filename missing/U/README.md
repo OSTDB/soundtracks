@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugandan Knuckles Simulator. Meme Salvation 3D | 96575 | [96575-ugandan-knuckles-simulator-meme-salvation-3d.json](./96575-ugandan-knuckles-simulator-meme-salvation-3d.json) |
 | Ugandan Knuckles VR | 223883 | [223883-ugandan-knuckles-vr.json](./223883-ugandan-knuckles-vr.json) |
 | Ugaris: The Legend Recovered | 298348 | [298348-ugaris-the-legend-recovered.json](./298348-ugaris-the-legend-recovered.json) |
+| Ugby Mumba 3 | 183092 | [183092-ugby-mumba-3.json](./183092-ugby-mumba-3.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
@@ -2770,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnLoop | 311147 | [311147-unloop.json](./311147-unloop.json) |
 | Unlord | 157057 | [157057-unlord.json](./157057-unlord.json) |
 | Unloved | 228345 | [228345-unloved.json](./228345-unloved.json) |
+| Unlucid | 183491 | [183491-unlucid.json](./183491-unlucid.json) |
 | Unluck Quest | 232016 | [232016-unluck-quest.json](./232016-unluck-quest.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Charlie | 114685 | [114685-unlucky-charlie.json](./114685-unlucky-charlie.json) |
@@ -3137,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsweet | 119887 | [119887-unsweet.json](./119887-unsweet.json) |
 | Untale: King of Revinia | 140876 | [140876-untale-king-of-revinia.json](./140876-untale-king-of-revinia.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
+| Untamed | 183093 | [183093-untamed.json](./183093-untamed.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Isle | 395197 | [395197-untamed-isle.json](./395197-untamed-isle.json) |
 | Untamed Isles | 186017 | [186017-untamed-isles.json](./186017-untamed-isles.json) |
