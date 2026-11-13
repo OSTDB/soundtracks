@@ -7892,6 +7892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Easter Gardens | 96610 | [96610-hidden-objects-easter-gardens.json](./96610-hidden-objects-easter-gardens.json) |
 | Hidden Objects Egyptian Palace | 88670 | [88670-hidden-objects-egyptian-palace.json](./88670-hidden-objects-egyptian-palace.json) |
 | Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
+| Hidden Objects Kids Room | 232198 | [232198-hidden-objects-kids-room.json](./232198-hidden-objects-kids-room.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
 | Hidden Objects Mermaids | 99281 | [99281-hidden-objects-mermaids.json](./99281-hidden-objects-mermaids.json) |
@@ -12639,6 +12640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: The Magic Journey | 135561 | [135561-hugo-the-magic-journey.json](./135561-hugo-the-magic-journey.json) |
 | Hugo: The Magic Oak | 251394 | [251394-hugo-the-magic-oak.json](./251394-hugo-the-magic-oak.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
+| Hugo: The Secrets of The Forest | 232652 | [232652-hugo-the-secrets-of-the-forest.json](./232652-hugo-the-secrets-of-the-forest.json) |
 | Hugo: Wild River | 210623 | [210623-hugo-wild-river.json](./210623-hugo-wild-river.json) |
 | Hugo: Winter Games | 337756 | [337756-hugo-winter-games.json](./337756-hugo-winter-games.json) |
 | Hugo's House of Horrors | 8881 | [8881-hugos-house-of-horrors.json](./8881-hugos-house-of-horrors.json) |
