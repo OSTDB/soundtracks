@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Volvo LM 845 | 228402 | [228402-farming-simulator-22-volvo-lm-845.json](./228402-farming-simulator-22-volvo-lm-845.json) |
 | Farming Simulator 22: Year 1 Season Pass | 206528 | [206528-farming-simulator-22-year-1-season-pass.json](./206528-farming-simulator-22-year-1-season-pass.json) |
 | Farming Simulator 22: Zetor 25 K | 206527 | [206527-farming-simulator-22-zetor-25-k.json](./206527-farming-simulator-22-zetor-25-k.json) |
+| Farming Simulator 23 | 239362 | [239362-farming-simulator-23.json](./239362-farming-simulator-23.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator 23: Nintendo Switch Edition | 239447 | [239447-farming-simulator-23-nintendo-switch-edition.json](./239447-farming-simulator-23-nintendo-switch-edition.json) |
 | Farming Simulator 25 | 306822 | [306822-farming-simulator-25.json](./306822-farming-simulator-25.json) |
@@ -14249,6 +14250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuku-chan no Obake nanka Kowakunai | 349458 | [349458-fuku-chan-no-obake-nanka-kowakunai.json](./349458-fuku-chan-no-obake-nanka-kowakunai.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
+| Fukuwarai no Oni | 239374 | [239374-fukuwarai-no-oni.json](./239374-fukuwarai-no-oni.json) |
 | Fukyou no Hana: Snow Flower | 288440 | [288440-fukyou-no-hana-snow-flower.json](./288440-fukyou-no-hana-snow-flower.json) |
 | Fulcrum | 58284 | [58284-fulcrum.json](./58284-fulcrum.json) |
 | Fulcrum Defender | 340846 | [340846-fulcrum-defender.json](./340846-fulcrum-defender.json) |
