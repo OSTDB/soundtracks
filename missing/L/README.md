@@ -10112,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Dreams | 403918 | [403918-lucid-dreams.json](./403918-lucid-dreams.json) |
 | Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
 | Lucid Falls | 381075 | [381075-lucid-falls.json](./381075-lucid-falls.json) |
+| Lucid Heist | 182561 | [182561-lucid-heist.json](./182561-lucid-heist.json) |
 | Lucid Lenses | 254709 | [254709-lucid-lenses.json](./254709-lucid-lenses.json) |
 | Lucid Lucy | 228957 | [228957-lucid-lucy.json](./228957-lucid-lucy.json) |
 | Lucid Night | 277800 | [277800-lucid-night.json](./277800-lucid-night.json) |
