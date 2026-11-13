@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
 | Ted Nugent - Wild Hunting Adventure | 118558 | [118558-ted-nugent-wild-hunting-adventure.json](./118558-ted-nugent-wild-hunting-adventure.json) |
 | Ted Remixed | 98210 | [98210-ted-remixed.json](./98210-ted-remixed.json) |
+| Ted The Jumper | 177077 | [177077-ted-the-jumper.json](./177077-ted-the-jumper.json) |
 | TED Tumblewords | 322645 | [322645-ted-tumblewords.json](./322645-ted-tumblewords.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
 | Teddies and Rainbows | 95632 | [95632-teddies-and-rainbows.json](./95632-teddies-and-rainbows.json) |
@@ -15804,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old Bean Factory | 261499 | [261499-the-old-bean-factory.json](./261499-the-old-bean-factory.json) |
+| The Old City of High Walls | 177461 | [177461-the-old-city-of-high-walls.json](./177461-the-old-city-of-high-walls.json) |
 | The Old City: Leviathan | 14437 | [14437-the-old-city-leviathan.json](./14437-the-old-city-leviathan.json) |
 | The Old Flesh of Nuraga | 400555 | [400555-the-old-flesh-of-nuraga.json](./400555-the-old-flesh-of-nuraga.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
@@ -36354,6 +36356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
 | Twisted Jam | 329238 | [329238-twisted-jam.json](./329238-twisted-jam.json) |
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
+| Twisted Lands 2: Insomniac - Collector's Edition | 177087 | [177087-twisted-lands-2-insomniac-collectors-edition.json](./177087-twisted-lands-2-insomniac-collectors-edition.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
 | Twisted Lands Trilogy: Collector's Edition | 34540 | [34540-twisted-lands-trilogy-collectors-edition.json](./34540-twisted-lands-trilogy-collectors-edition.json) |
 | Twisted Lands: Insomniac | 50229 | [50229-twisted-lands-insomniac.json](./50229-twisted-lands-insomniac.json) |
