@@ -13419,6 +13419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Trouble | 108587 | [108587-color-trouble.json](./108587-color-trouble.json) |
 | Color Tube | 101674 | [101674-color-tube.json](./101674-color-tube.json) |
 | Color TV-Game 15 | 220549 | [220549-color-tv-game-15.json](./220549-color-tv-game-15.json) |
+| Color TV-Game 6 | 178103 | [178103-color-tv-game-6.json](./178103-color-tv-game-6.json) |
 | Color TV-Game Block Kuzushi | 220551 | [220551-color-tv-game-block-kuzushi.json](./220551-color-tv-game-block-kuzushi.json) |
 | Color TV-Game Racing 112 | 220550 | [220550-color-tv-game-racing-112.json](./220550-color-tv-game-racing-112.json) |
 | Color Us | 109935 | [109935-color-us.json](./109935-color-us.json) |
@@ -20318,6 +20319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Them All | 97523 | [97523-crush-them-all.json](./97523-crush-them-all.json) |
 | Crush Them! | 203780 | [203780-crush-them.json](./203780-crush-them.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
+| Crush Zone: Demolition Derby | 178119 | [178119-crush-zone-demolition-derby.json](./178119-crush-zone-demolition-derby.json) |
 | Crush, Crumble and Chomp! | 18709 | [18709-crush-crumble-and-chomp.json](./18709-crush-crumble-and-chomp.json) |
 | Crush! Deluxe | 71721 | [71721-crush-deluxe.json](./71721-crush-deluxe.json) |
 | Crush3D | 22922 | [22922-crush3d.json](./22922-crush3d.json) |
