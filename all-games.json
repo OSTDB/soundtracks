@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T08:26:28.392Z",
-  "total_soundtracks": 3282,
+  "generated_at": "2026-11-13T08:56:03.108Z",
+  "total_soundtracks": 3284,
   "games": [
     {
       "igdb_id": 7522,
@@ -27193,6 +27193,20 @@
       ]
     },
     {
+      "igdb_id": 19514,
+      "game_name": "Ray's the Dead",
+      "game_url": "https://ostdb.net/games/rays-the-dead",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732adbf405cc361b6ab99a2be9",
+      "albums": [
+        {
+          "album_name": "Ray's the Dead (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0hCzrLxje0f9f23ME4q7mX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1968,
       "game_name": "Rayman Legends",
       "game_url": "https://ostdb.net/games/rayman-legends",
@@ -32153,6 +32167,20 @@
         {
           "album_name": "Squeakross: Home Squeak Home (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4X9idO5Ziwhxt6Jf2TZyfO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19877,
+      "game_name": "Squids Odyssey",
+      "game_url": "https://ostdb.net/games/squids-odyssey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e71f77619962bc8cae98ec9b",
+      "albums": [
+        {
+          "album_name": "Squids Odyssey (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ShXfgz9epSitNbR0piNPo",
           "apple_music_url": "",
           "album_link_url": ""
         }
