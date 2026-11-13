@@ -4950,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret in Story | 40870 | [40870-secret-in-story.json](./40870-secret-in-story.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
 | Secret Kiss | 272664 | [272664-secret-kiss.json](./272664-secret-kiss.json) |
+| Secret Kiss is Sweet and Tender | 192412 | [192412-secret-kiss-is-sweet-and-tender.json](./192412-secret-kiss-is-sweet-and-tender.json) |
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
 | Secret Light | 419077 | [419077-secret-light.json](./419077-secret-light.json) |
@@ -20560,6 +20561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCraft 2 | 59339 | [59339-soulcraft-2.json](./59339-soulcraft-2.json) |
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
+| Sould Dub | 192848 | [192848-sould-dub.json](./192848-sould-dub.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
 | Souldiers: Digital Deluxe Edition | 203687 | [203687-souldiers-digital-deluxe-edition.json](./203687-souldiers-digital-deluxe-edition.json) |
 | Souldrop | 198075 | [198075-souldrop.json](./198075-souldrop.json) |
