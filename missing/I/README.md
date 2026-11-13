@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - Zombie Mode | 75455 | [75455-injustice-gods-among-us-zombie-mode.json](./75455-injustice-gods-among-us-zombie-mode.json) |
 | Ink | 14580 | [14580-ink.json](./14580-ink.json) |
 | Ink | 155774 | [155774-ink.json](./155774-ink.json) |
+| Ink & Paper: DoodleCut | 238796 | [238796-ink-and-paper-doodlecut.json](./238796-ink-and-paper-doodlecut.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
