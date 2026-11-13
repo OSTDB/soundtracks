@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Blue Warriorr | 211041 | [211041-dark-blue-warriorr.json](./211041-dark-blue-warriorr.json) |
 | Dark Bone Prison | 420335 | [420335-dark-bone-prison.json](./420335-dark-bone-prison.json) |
 | Dark Bows | 285000 | [285000-dark-bows.json](./285000-dark-bows.json) |
+| Dark Box | 237107 | [237107-dark-box.json](./237107-dark-box.json) |
 | Dark Boy Action Platformer | 179994 | [179994-dark-boy-action-platformer.json](./179994-dark-boy-action-platformer.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
 | Dark Bros | 403343 | [403343-dark-bros.json](./403343-dark-bros.json) |
@@ -2376,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkly Darkness | 303460 | [303460-darkly-darkness.json](./303460-darkly-darkness.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
+| DarkMatter: The Strange Messenger | 237125 | [237125-darkmatter-the-strange-messenger.json](./237125-darkmatter-the-strange-messenger.json) |
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
 | DarkMaze | 46471 | [46471-darkmaze.json](./46471-darkmaze.json) |
 | Darkmere: The Nightmare's Begun | 12564 | [12564-darkmere-the-nightmares-begun.json](./12564-darkmere-the-nightmares-begun.json) |
@@ -4044,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Memories | 271361 | [271361-dead-memories.json](./271361-dead-memories.json) |
 | Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
+| Dead Metal | 237094 | [237094-dead-metal.json](./237094-dead-metal.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead Monarchy | 118400 | [118400-dead-monarchy.json](./118400-dead-monarchy.json) |
 | Dead Moon | 42111 | [42111-dead-moon.json](./42111-dead-moon.json) |
@@ -7039,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Loop | 252578 | [252578-demon-loop.json](./252578-demon-loop.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
 | Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
+| Demon Lord Tamer | 237097 | [237097-demon-lord-tamer.json](./237097-demon-lord-tamer.json) |
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
 | Demon Lord: Just a Block | 389374 | [389374-demon-lord-just-a-block.json](./389374-demon-lord-just-a-block.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
@@ -9443,6 +9447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicefeat | 184459 | [184459-dicefeat.json](./184459-dicefeat.json) |
 | Dicefolk | 251938 | [251938-dicefolk.json](./251938-dicefolk.json) |
 | Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
+| Diceheart | 237034 | [237034-diceheart.json](./237034-diceheart.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicement | 387268 | [387268-dicement.json](./387268-dicement.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
@@ -16679,6 +16684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Rock | 49303 | [49303-dragons-rock.json](./49303-dragons-rock.json) |
 | Dragon's Ruler | 268299 | [268299-dragons-ruler.json](./268299-dragons-ruler.json) |
+| Dragon's Treasure | 236589 | [236589-dragons-treasure.json](./236589-dragons-treasure.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Vengeance | 154047 | [154047-dragons-vengeance.json](./154047-dragons-vengeance.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
