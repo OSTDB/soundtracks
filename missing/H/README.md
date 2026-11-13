@@ -11561,6 +11561,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Farm | 200094 | [200094-hot-farm.json](./200094-hot-farm.json) |
 | Hot Farm Africa | 54082 | [54082-hot-farm-africa.json](./54082-hot-farm-africa.json) |
 | Hot Fit! | 112836 | [112836-hot-fit.json](./112836-hot-fit.json) |
+| Hot Fit!: Episode Chihiro | 170615 | [170615-hot-fit-episode-chihiro.json](./170615-hot-fit-episode-chihiro.json) |
+| Hot Fit!: Episode Kozue | 170614 | [170614-hot-fit-episode-kozue.json](./170614-hot-fit-episode-kozue.json) |
+| Hot Fit!: Episode Mao | 170617 | [170617-hot-fit-episode-mao.json](./170617-hot-fit-episode-mao.json) |
+| Hot Fit!: Episode Miyu | 170616 | [170616-hot-fit-episode-miyu.json](./170616-hot-fit-episode-miyu.json) |
+| Hot Fit!: Episode Sino | 170618 | [170618-hot-fit-episode-sino.json](./170618-hot-fit-episode-sino.json) |
 | Hot Foot | 318408 | [318408-hot-foot.json](./318408-hot-foot.json) |
 | Hot Garbage: A Keysmash Story | 183571 | [183571-hot-garbage-a-keysmash-story.json](./183571-hot-garbage-a-keysmash-story.json) |
 | Hot Girls | 344570 | [344570-hot-girls.json](./344570-hot-girls.json) |
