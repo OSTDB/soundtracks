@@ -5336,7 +5336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
 | Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
-| Why Am I Dead At Sea | 35525 | [35525-why-am-i-dead-at-sea.json](./35525-why-am-i-dead-at-sea.json) |
 | Why Am I Dead: Rebirth | 101862 | [101862-why-am-i-dead-rebirth.json](./101862-why-am-i-dead-rebirth.json) |
 | Why Am I Here | 382697 | [382697-why-am-i-here.json](./382697-why-am-i-here.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
