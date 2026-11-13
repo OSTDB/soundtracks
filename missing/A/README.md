@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
 | Abandoned | 165148 | [165148-abandoned.json](./165148-abandoned.json) |
+| Abandoned | 174943 | [174943-abandoned.json](./174943-abandoned.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 234999 | [234999-abandoned.json](./234999-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Racers SP | 277126 | [277126-ace-racers-sp.json](./277126-ace-racers-sp.json) |
 | Ace Racing Turbo | 200057 | [200057-ace-racing-turbo.json](./200057-ace-racing-turbo.json) |
 | Ace Robot Combat | 270324 | [270324-ace-robot-combat.json](./270324-ace-robot-combat.json) |
+| Ace Soccer | 174949 | [174949-ace-soccer.json](./174949-ace-soccer.json) |
 | Ace Sponge: The Great SquarePants Chronicles | 403876 | [403876-ace-sponge-the-great-squarepants-chronicles.json](./403876-ace-sponge-the-great-squarepants-chronicles.json) |
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
@@ -3414,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
 | Active Ragdoll | 177676 | [177676-active-ragdoll.json](./177676-active-ragdoll.json) |
+| Active Soccer | 175378 | [175378-active-soccer.json](./175378-active-soccer.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
 | Active Soccer 2 DX | 21323 | [21323-active-soccer-2-dx.json](./21323-active-soccer-2-dx.json) |
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
@@ -12951,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Express | 327968 | [327968-apocalypse-express.json](./327968-apocalypse-express.json) |
 | Apocalypse Factory | 237192 | [237192-apocalypse-factory.json](./237192-apocalypse-factory.json) |
 | Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
+| Apocalypse Heroes | 174920 | [174920-apocalypse-heroes.json](./174920-apocalypse-heroes.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! | 34217 | [34217-apocalypse-hotel-the-post-apocalyptic-hotel-simulator.json](./34217-apocalypse-hotel-the-post-apocalyptic-hotel-simulator.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
@@ -19242,6 +19246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Hills: Chapter 1 | 295741 | [295741-aurora-hills-chapter-1.json](./295741-aurora-hills-chapter-1.json) |
 | Aurora Hills: Chapter 2 | 394056 | [394056-aurora-hills-chapter-2.json](./394056-aurora-hills-chapter-2.json) |
 | Aurora Hills: Chapter 3 | 425171 | [425171-aurora-hills-chapter-3.json](./425171-aurora-hills-chapter-3.json) |
+| Aurora Legend | 174927 | [174927-aurora-legend.json](./174927-aurora-legend.json) |
 | Aurora Light Pony: Ponies and Horses in the Valley of Stars | 336408 | [336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json](./336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nights | 32720 | [32720-aurora-nights.json](./32720-aurora-nights.json) |
