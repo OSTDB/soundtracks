@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Rascals | 244107 | [244107-raccoon-rascals.json](./244107-raccoon-rascals.json) |
 | Raccoon Revenge | 394681 | [394681-raccoon-revenge.json](./394681-raccoon-revenge.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
+| Raccoon Run | 210784 | [210784-raccoon-run.json](./210784-raccoon-run.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Raccoon Tales | 200573 | [200573-raccoon-tales.json](./200573-raccoon-tales.json) |
@@ -10155,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock: Paper - Death | 392934 | [392934-rock-paper-death.json](./392934-rock-paper-death.json) |
 | Rock'n Bark | 171853 | [171853-rockn-bark.json](./171853-rockn-bark.json) |
 | Rock'n Cow | 149674 | [149674-rockn-cow.json](./149674-rockn-cow.json) |
+| Rock'n Rage | 210807 | [210807-rockn-rage.json](./210807-rockn-rage.json) |
 | Rock'n Tread | 369814 | [369814-rockn-tread.json](./369814-rockn-tread.json) |
 | Rock'n Wrestle | 39146 | [39146-rockn-wrestle.json](./39146-rockn-wrestle.json) |
 | Rock'n' Ball | 48206 | [48206-rockn-ball.json](./48206-rockn-ball.json) |
@@ -12544,6 +12546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
 | Royal Hentai: Boobs & Pussies | 366538 | [366538-royal-hentai-boobs-and-pussies.json](./366538-royal-hentai-boobs-and-pussies.json) |
 | Royal Heroes | 33559 | [33559-royal-heroes.json](./33559-royal-heroes.json) |
+| Royal Idiots | 210789 | [210789-royal-idiots.json](./210789-royal-idiots.json) |
 | Royal Jest | 353798 | [353798-royal-jest.json](./353798-royal-jest.json) |
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
 | Royal Jigsaw 2 | 201470 | [201470-royal-jigsaw-2.json](./201470-royal-jigsaw-2.json) |
