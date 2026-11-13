@@ -6609,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefight: Descent Quarantine | 141998 | [141998-firefight-descent-quarantine.json](./141998-firefight-descent-quarantine.json) |
 | Firefight! | 128251 | [128251-firefight.json](./128251-firefight.json) |
 | Firefighter | 154875 | [154875-firefighter.json](./154875-firefighter.json) |
+| Firefighter 259 | 204579 | [204579-firefighter-259.json](./204579-firefighter-259.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter F.D.18 | 22282 | [22282-firefighter-f-d-18.json](./22282-firefighter-f-d-18.json) |
