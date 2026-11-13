@@ -1740,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamago de Puzzle | 230485 | [230485-tamago-de-puzzle.json](./230485-tamago-de-puzzle.json) |
 | Tamagopanda no Muchuu Land ni Youkoso!: Waku-waku Taiken Stamp Rally 100 | 327706 | [327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json](./327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json) |
+| Tamagorudo | 181423 | [181423-tamagorudo.json](./181423-tamagorudo.json) |
 | Tamagorudo: Floor O | 347384 | [347384-tamagorudo-floor-o.json](./347384-tamagorudo-floor-o.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Battle Match | 59375 | [59375-teenage-mutant-ninja-turtles-battle-match.json](./59375-teenage-mutant-ninja-turtles-battle-match.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
+| Teenage Mutant Ninja Turtles: Cowabunga | 181836 | [181836-teenage-mutant-ninja-turtles-cowabunga.json](./181836-teenage-mutant-ninja-turtles-cowabunga.json) |
 | Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
 | Teenage Mutant Ninja Turtles: Dark Horizons | 64790 | [64790-teenage-mutant-ninja-turtles-dark-horizons.json](./64790-teenage-mutant-ninja-turtles-dark-horizons.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
+| The Adventures of Panzer | 181415 | [181415-the-adventures-of-panzer.json](./181415-the-adventures-of-panzer.json) |
 | The Adventures of Panzer 2 | 258379 | [258379-the-adventures-of-panzer-2.json](./258379-the-adventures-of-panzer-2.json) |
 | The Adventures of Panzer: Legacy Collection | 283211 | [283211-the-adventures-of-panzer-legacy-collection.json](./283211-the-adventures-of-panzer-legacy-collection.json) |
 | The Adventures of Penny & Lou | 336707 | [336707-the-adventures-of-penny-and-lou.json](./336707-the-adventures-of-penny-and-lou.json) |
@@ -6141,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Willow and Ash | 126716 | [126716-the-adventures-of-willow-and-ash.json](./126716-the-adventures-of-willow-and-ash.json) |
 | The Adventures of Willy Beamish | 2205 | [2205-the-adventures-of-willy-beamish.json](./2205-the-adventures-of-willy-beamish.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
+| The Adventures of Wolf and Hood: A Jigsaw Tale | 181822 | [181822-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./181822-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Adventures on Uranus | 158838 | [158838-the-adventures-on-uranus.json](./158838-the-adventures-on-uranus.json) |
 | The Adventurous Four | 90163 | [90163-the-adventurous-four.json](./90163-the-adventurous-four.json) |
@@ -15272,6 +15276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Perfect Revenge in the World | 339184 | [339184-the-most-perfect-revenge-in-the-world.json](./339184-the-most-perfect-revenge-in-the-world.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
+| The Most Simple Farm | 181418 | [181418-the-most-simple-farm.json](./181418-the-most-simple-farm.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
 | The Motel | 329520 | [329520-the-motel.json](./329520-the-motel.json) |
 | The Moth Inside Me | 333644 | [333644-the-moth-inside-me.json](./333644-the-moth-inside-me.json) |
@@ -15838,6 +15843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only One | 128872 | [128872-the-only-one.json](./128872-the-only-one.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
+| The Only Outlaw | 181811 | [181811-the-only-outlaw.json](./181811-the-only-outlaw.json) |
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
 | The Only Wise | 157977 | [157977-the-only-wise.json](./157977-the-only-wise.json) |
 | The Oogieloves: Milkshake Mayhem | 307511 | [307511-the-oogieloves-milkshake-mayhem.json](./307511-the-oogieloves-milkshake-mayhem.json) |
@@ -17189,6 +17195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Roach Hotel | 371857 | [371857-the-roach-hotel.json](./371857-the-roach-hotel.json) |
 | The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
+| The Road | 181825 | [181825-the-road.json](./181825-the-road.json) |
 | The Road | 396300 | [396300-the-road.json](./396300-the-road.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
@@ -35767,6 +35774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
 | Turning the Page | 328430 | [328430-turning-the-page.json](./328430-turning-the-page.json) |
 | Turning the Tide | 372519 | [372519-turning-the-tide.json](./372519-turning-the-tide.json) |
+| Turnip | 181814 | [181814-turnip.json](./181814-turnip.json) |
 | Turnip Boy Commits Tax Evasion | 128097 | [128097-turnip-boy-commits-tax-evasion.json](./128097-turnip-boy-commits-tax-evasion.json) |
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
