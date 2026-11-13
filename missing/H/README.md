@@ -11793,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator: Gym Furniture Set | 254419 | [254419-hotel-renovator-gym-furniture-set.json](./254419-hotel-renovator-gym-furniture-set.json) |
 | Hotel Renovator: Indoor Garden Room & Furniture Set | 272620 | [272620-hotel-renovator-indoor-garden-room-and-furniture-set.json](./272620-hotel-renovator-indoor-garden-room-and-furniture-set.json) |
 | Hotel Renovator: Kawaii Furniture Set | 245386 | [245386-hotel-renovator-kawaii-furniture-set.json](./245386-hotel-renovator-kawaii-furniture-set.json) |
+| Hotel Renovator: Palace Furniture Set | 241093 | [241093-hotel-renovator-palace-furniture-set.json](./241093-hotel-renovator-palace-furniture-set.json) |
 | Hotel Renovator: Steampunk Furniture Set | 259314 | [259314-hotel-renovator-steampunk-furniture-set.json](./259314-hotel-renovator-steampunk-furniture-set.json) |
 | Hotel Room Haunting | 275645 | [275645-hotel-room-haunting.json](./275645-hotel-room-haunting.json) |
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
