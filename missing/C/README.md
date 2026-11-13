@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Simon's Destiny | 141030 | [141030-castlevania-simons-destiny.json](./141030-castlevania-simons-destiny.json) |
 | Castlevania: Sora, Donald & Neku in Dawn of Sorrow | 270363 | [270363-castlevania-sora-donald-and-neku-in-dawn-of-sorrow.json](./270363-castlevania-sora-donald-and-neku-in-dawn-of-sorrow.json) |
 | Castlevania: Specter of Sorrow | 233598 | [233598-castlevania-specter-of-sorrow.json](./233598-castlevania-specter-of-sorrow.json) |
+| Castlevania: Spectral Interlude | 201057 | [201057-castlevania-spectral-interlude.json](./201057-castlevania-spectral-interlude.json) |
 | Castlevania: Symphony of Horrors | 376583 | [376583-castlevania-symphony-of-horrors.json](./376583-castlevania-symphony-of-horrors.json) |
 | Castlevania: Symphony of the Night | 198664 | [198664-castlevania-symphony-of-the-night.json](./198664-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night | 213878 | [213878-castlevania-symphony-of-the-night.json](./213878-castlevania-symphony-of-the-night.json) |
