@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Nine Colored Deer | 287721 | [287721-legend-of-the-nine-colored-deer.json](./287721-legend-of-the-nine-colored-deer.json) |
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
 | Legend of the Outlaw Mage | 192865 | [192865-legend-of-the-outlaw-mage.json](./192865-legend-of-the-outlaw-mage.json) |
+| Legend of the Phoenix | 186800 | [186800-legend-of-the-phoenix.json](./186800-legend-of-the-phoenix.json) |
 | Legend Of The Platforms | 370625 | [370625-legend-of-the-platforms.json](./370625-legend-of-the-platforms.json) |
 | Legend of the Red Dragon | 73573 | [73573-legend-of-the-red-dragon.json](./73573-legend-of-the-red-dragon.json) |
 | Legend of the Red Dragon II: New World | 71843 | [71843-legend-of-the-red-dragon-ii-new-world.json](./71843-legend-of-the-red-dragon-ii-new-world.json) |
@@ -4748,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library Frustration | 398370 | [398370-library-frustration.json](./398370-library-frustration.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Babel | 389018 | [389018-library-of-babel.json](./389018-library-of-babel.json) |
+| Library of Babel 3D | 186788 | [186788-library-of-babel-3d.json](./186788-library-of-babel-3d.json) |
 | Library of Blabber | 177265 | [177265-library-of-blabber.json](./177265-library-of-blabber.json) |
 | Library of Lyria | 309543 | [309543-library-of-lyria.json](./309543-library-of-lyria.json) |
 | Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
