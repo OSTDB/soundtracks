@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JankenSoko | 401923 | [401923-jankensoko.json](./401923-jankensoko.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
+| Jankirou | 210782 | [210782-jankirou.json](./210782-jankirou.json) |
 | Janklady | 368184 | [368184-janklady.json](./368184-janklady.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
@@ -4471,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Me and my Mom | 209851 | [209851-just-me-and-my-mom.json](./209851-just-me-and-my-mom.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
 | Just Monika: A Doki Doki Literature Club Song | 336269 | [336269-just-monika-a-doki-doki-literature-club-song.json](./336269-just-monika-a-doki-doki-literature-club-song.json) |
+| Just More Doors | 210758 | [210758-just-more-doors.json](./210758-just-more-doors.json) |
 | Just Move Fall Dungeon Endless Abyss | 360661 | [360661-just-move-fall-dungeon-endless-abyss.json](./360661-just-move-fall-dungeon-endless-abyss.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just Move: Clean City Messy Battle | 366961 | [366961-just-move-clean-city-messy-battle.json](./366961-just-move-clean-city-messy-battle.json) |
