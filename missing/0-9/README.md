@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Golf | 246270 | [246270-100-golf.json](./246270-100-golf.json) |
 | 100% Hidden Objects | 88626 | [88626-100-hidden-objects.json](./88626-100-hidden-objects.json) |
+| 100% Hidden Objects 2 | 177071 | [177071-100-hidden-objects-2.json](./177071-100-hidden-objects-2.json) |
 | 100% Hits | 235752 | [235752-100-hits.json](./235752-100-hits.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
