@@ -8387,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Soul | 142307 | [142307-shattered-soul.json](./142307-shattered-soul.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered Star | 216525 | [216525-shattered-star.json](./216525-shattered-star.json) |
+| Shattered Stars | 200757 | [200757-shattered-stars.json](./200757-shattered-stars.json) |
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Steel | 220 | [220-shattered-steel.json](./220-shattered-steel.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
@@ -27845,6 +27846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: in Autumn Portable | 203170 | [203170-starry-sky-in-autumn-portable.json](./203170-starry-sky-in-autumn-portable.json) |
 | Starry Sky: In Spring | 76449 | [76449-starry-sky-in-spring.json](./76449-starry-sky-in-spring.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
+| Starry Sky: in Spring Portable | 201202 | [201202-starry-sky-in-spring-portable.json](./201202-starry-sky-in-spring-portable.json) |
 | Starry Sky: in Summer | 202820 | [202820-starry-sky-in-summer.json](./202820-starry-sky-in-summer.json) |
 | Starry Sky: in Summer 3D | 202823 | [202823-starry-sky-in-summer-3d.json](./202823-starry-sky-in-summer-3d.json) |
 | Starry Sky: in Summer Portable | 202821 | [202821-starry-sky-in-summer-portable.json](./202821-starry-sky-in-summer-portable.json) |
@@ -32583,6 +32585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumairu Cubic! -Suiheisen made Nan Mile? After & Another Stories- | 59772 | [59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json](./59772-sumairu-cubic-suiheisen-made-nan-mile-after-and-another-stories.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumatra: Fate of Yandi - Collector's Edition | 170206 | [170206-sumatra-fate-of-yandi-collectors-edition.json](./170206-sumatra-fate-of-yandi-collectors-edition.json) |
+| SUMBR | 201208 | [201208-sumbr.json](./201208-sumbr.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
 | Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
