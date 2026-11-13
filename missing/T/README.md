@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Cranes | 263062 | [263062-tale-of-two-cranes.json](./263062-tale-of-two-cranes.json) |
 | Tale of Two Sardines | 219564 | [219564-tale-of-two-sardines.json](./219564-tale-of-two-sardines.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
+| Tale of Witch's Heart | 217047 | [217047-tale-of-witchs-heart.json](./217047-tale-of-witchs-heart.json) |
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
 | Tales of Terazul | 98187 | [98187-tales-of-terazul.json](./98187-tales-of-terazul.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
+| Tales of Terror | 217436 | [217436-tales-of-terror.json](./217436-tales-of-terror.json) |
 | Tales of Terror: Crimson Dawn | 29434 | [29434-tales-of-terror-crimson-dawn.json](./29434-tales-of-terror-crimson-dawn.json) |
 | Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
@@ -7812,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chicken Family | 246603 | [246603-the-chicken-family.json](./246603-the-chicken-family.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
+| The Chicken Quiz | 217569 | [217569-the-chicken-quiz.json](./217569-the-chicken-quiz.json) |
 | The Chicken, the Ghost and the Mountain | 184157 | [184157-the-chicken-the-ghost-and-the-mountain.json](./184157-the-chicken-the-ghost-and-the-mountain.json) |
 | The Chicken's Fall | 172910 | [172910-the-chickens-fall.json](./172910-the-chickens-fall.json) |
 | The Chickenator | 25381 | [25381-the-chickenator.json](./25381-the-chickenator.json) |
@@ -25673,6 +25676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
 | TinyArmored | 209937 | [209937-tinyarmored.json](./209937-tinyarmored.json) |
+| TinyAttack | 217434 | [217434-tinyattack.json](./217434-tinyattack.json) |
 | tinyBuild Action-Packed Bundle | 83771 | [83771-tinybuild-action-packed-bundle.json](./83771-tinybuild-action-packed-bundle.json) |
 | tinyBuild High-Speed Bundle | 90975 | [90975-tinybuild-high-speed-bundle.json](./90975-tinybuild-high-speed-bundle.json) |
 | tinyBuild Thrill-Seeker Bundle | 83773 | [83773-tinybuild-thrill-seeker-bundle.json](./83773-tinybuild-thrill-seeker-bundle.json) |
