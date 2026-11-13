@@ -26159,6 +26159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
 | Star Force | 88399 | [88399-star-force.json](./88399-star-force.json) |
+| Star Fox | 234945 | [234945-star-fox.json](./234945-star-fox.json) |
 | Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
 | Star Fox | 308046 | [308046-star-fox.json](./308046-star-fox.json) |
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
@@ -26169,6 +26170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64: On-Foot Mode | 358252 | [358252-star-fox-64-on-foot-mode.json](./358252-star-fox-64-on-foot-mode.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Adventures | 2686 | [2686-star-fox-adventures.json](./2686-star-fox-adventures.json) |
+| Star Fox Armada | 234943 | [234943-star-fox-armada.json](./234943-star-fox-armada.json) |
 | Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
 | Star Fox Conquest | 314563 | [314563-star-fox-conquest.json](./314563-star-fox-conquest.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
@@ -29708,6 +29710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
 | Storm the Field | 401067 | [401067-storm-the-field.json](./401067-storm-the-field.json) |
 | Storm the House | 341954 | [341954-storm-the-house.json](./341954-storm-the-house.json) |
+| Storm the House 3 | 234944 | [234944-storm-the-house-3.json](./234944-storm-the-house-3.json) |
 | Storm the Swan | 327288 | [327288-storm-the-swan.json](./327288-storm-the-swan.json) |
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
@@ -34913,6 +34916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World 3: A Whole New World | 276879 | [276879-super-mario-world-3-a-whole-new-world.json](./276879-super-mario-world-3-a-whole-new-world.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World and the Bois! | 268366 | [268366-super-mario-world-and-the-bois.json](./268366-super-mario-world-and-the-bois.json) |
+| Super Mario World Beta | 234948 | [234948-super-mario-world-beta.json](./234948-super-mario-world-beta.json) |
 | Super Mario World Bros. | 268367 | [268367-super-mario-world-bros.json](./268367-super-mario-world-bros.json) |
 | Super Mario World Central Production 2 | 210409 | [210409-super-mario-world-central-production-2.json](./210409-super-mario-world-central-production-2.json) |
 | Super Mario World DX | 341956 | [341956-super-mario-world-dx.json](./341956-super-mario-world-dx.json) |
