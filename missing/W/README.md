@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
 | Whispers of Elysium | 282205 | [282205-whispers-of-elysium.json](./282205-whispers-of-elysium.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
+| Whispers of Gold | 236426 | [236426-whispers-of-gold.json](./236426-whispers-of-gold.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
 | Whispers of Orange Island | 421365 | [421365-whispers-of-orange-island.json](./421365-whispers-of-orange-island.json) |
 | Whispers of Prague: The Executioner's Last Cut | 287708 | [287708-whispers-of-prague-the-executioners-last-cut.json](./287708-whispers-of-prague-the-executioners-last-cut.json) |
@@ -7136,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withermoore Castle | 384477 | [384477-withermoore-castle.json](./384477-withermoore-castle.json) |
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
+| Withersworn | 237092 | [237092-withersworn.json](./237092-withersworn.json) |
 | Within | 126195 | [126195-within.json](./126195-within.json) |
 | Within | 194086 | [194086-within.json](./194086-within.json) |
 | Within | 240050 | [240050-within.json](./240050-within.json) |
@@ -8323,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Wreck | 241329 | [241329-word-wreck.json](./241329-word-wreck.json) |
+| Word x Word | 237030 | [237030-word-x-word.json](./237030-word-x-word.json) |
 | Word Yo! | 73355 | [73355-word-yo.json](./73355-word-yo.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
