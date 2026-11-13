@@ -16025,6 +16025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Survivors | 244672 | [244672-princess-survivors.json](./244672-princess-survivors.json) |
 | Princess Tale | 194070 | [194070-princess-tale.json](./194070-princess-tale.json) |
 | Princess to Be | 254941 | [254941-princess-to-be.json](./254941-princess-to-be.json) |
+| Princess Toadstool's Castle Run Game | 178107 | [178107-princess-toadstools-castle-run-game.json](./178107-princess-toadstools-castle-run-game.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
 | Princess Trouble | 362017 | [362017-princess-trouble.json](./362017-princess-trouble.json) |
 | Princess Ursula | 339233 | [339233-princess-ursula.json](./339233-princess-ursula.json) |
