@@ -9485,6 +9485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoi Hoi | 78399 | [78399-hoi-hoi.json](./78399-hoi-hoi.json) |
 | Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
+| Hoiwa Hub | 223201 | [223201-hoiwa-hub.json](./223201-hoiwa-hub.json) |
 | Hojiya | 177962 | [177962-hojiya.json](./177962-hojiya.json) |
 | Hoka-hoka Gudetama Gohan: Densetsu no Shouyu wo Sagasunda wa | 212512 | [212512-hoka-hoka-gudetama-gohan-densetsu-no-shouyu-wo-sagasunda-wa.json](./212512-hoka-hoka-gudetama-gohan-densetsu-no-shouyu-wo-sagasunda-wa.json) |
 | Hokan: Monster Slayer | 100476 | [100476-hokan-monster-slayer.json](./100476-hokan-monster-slayer.json) |
@@ -10877,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
 | Horde Circuit | 420504 | [420504-horde-circuit.json](./420504-horde-circuit.json) |
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
+| Horde Hunters | 223199 | [223199-horde-hunters.json](./223199-horde-hunters.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Horde of Plenty | 100474 | [100474-horde-of-plenty.json](./100474-horde-of-plenty.json) |
