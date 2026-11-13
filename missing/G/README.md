@@ -3648,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppetto | 333094 | [333094-geppetto.json](./333094-geppetto.json) |
 | Geppetto 2 | 333097 | [333097-geppetto-2.json](./333097-geppetto-2.json) |
 | Geraldinho | 92871 | [92871-geraldinho.json](./92871-geraldinho.json) |
+| Geranium | 217043 | [217043-geranium.json](./217043-geranium.json) |
 | Geras | 301883 | [301883-geras.json](./301883-geras.json) |
 | GeraScopia | 236465 | [236465-gerascopia.json](./236465-gerascopia.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
