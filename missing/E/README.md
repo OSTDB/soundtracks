@@ -8299,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existence | 113056 | [113056-existence.json](./113056-existence.json) |
 | Existence = !Existence; | 110168 | [110168-existence-existence.json](./110168-existence-existence.json) |
 | Existence speed | 30985 | [30985-existence-speed.json](./30985-existence-speed.json) |
+| Existence: The Outer Reach | 239369 | [239369-existence-the-outer-reach.json](./239369-existence-the-outer-reach.json) |
 | Existensis | 149445 | [149445-existensis.json](./149445-existensis.json) |
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
@@ -8465,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoMecha | 135987 | [135987-exomecha.json](./135987-exomecha.json) |
 | ExoMiner | 208197 | [208197-exominer.json](./208197-exominer.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
+| Exon | 239375 | [239375-exon.json](./239375-exon.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
