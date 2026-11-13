@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Pro Wrestling | 236084 | [236084-ultra-pro-wrestling.json](./236084-ultra-pro-wrestling.json) |
 | Ultra Rainbow Bake Sale | 57969 | [57969-ultra-rainbow-bake-sale.json](./57969-ultra-rainbow-bake-sale.json) |
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
+| Ultra Resort Keroncuel | 172232 | [172232-ultra-resort-keroncuel.json](./172232-ultra-resort-keroncuel.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra Savage | 117376 | [117376-ultra-savage.json](./117376-ultra-savage.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
