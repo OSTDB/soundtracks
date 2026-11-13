@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety for Kid - Getting Lost | 93651 | [93651-safety-for-kid-getting-lost.json](./93651-safety-for-kid-getting-lost.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
+| Safety: Life Is A Maze | 218616 | [218616-safety-life-is-a-maze.json](./218616-safety-life-is-a-maze.json) |
 | SafeZoneVR | 158964 | [158964-safezonevr.json](./158964-safezonevr.json) |
 | Saffron | 384725 | [384725-saffron.json](./384725-saffron.json) |
 | Saffron Fields | 190788 | [190788-saffron-fields.json](./190788-saffron-fields.json) |
@@ -15726,6 +15727,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Star | 188158 | [188158-smash-star.json](./188158-smash-star.json) |
 | Smash T.V. | 20504 | [20504-smash-t-v.json](./20504-smash-t-v.json) |
 | Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
+| Smash T.V. | 218749 | [218749-smash-t-v.json](./218749-smash-t-v.json) |
+| Smash T.V. | 218752 | [218752-smash-t-v.json](./218752-smash-t-v.json) |
+| Smash T.V. | 218753 | [218753-smash-t-v.json](./218753-smash-t-v.json) |
+| Smash T.V. | 218754 | [218754-smash-t-v.json](./218754-smash-t-v.json) |
 | Smash T.V. | 218756 | [218756-smash-t-v.json](./218756-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
@@ -22639,6 +22644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny: Mission 2 - Return to Danger | 50430 | [50430-spear-of-destiny-mission-2-return-to-danger.json](./50430-spear-of-destiny-mission-2-return-to-danger.json) |
 | Spear of Destiny: Mission 3 - Ultimate Challenge | 50429 | [50429-spear-of-destiny-mission-3-ultimate-challenge.json](./50429-spear-of-destiny-mission-3-ultimate-challenge.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
+| Spear of Destiny: The Kaiseki | 218606 | [218606-spear-of-destiny-the-kaiseki.json](./218606-spear-of-destiny-the-kaiseki.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
 | Spear Resurrection | 85926 | [85926-spear-resurrection.json](./85926-spear-resurrection.json) |
 | Spear Song | 253846 | [253846-spear-song.json](./253846-spear-song.json) |
@@ -33650,6 +33656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cubiform | 292492 | [292492-super-cubiform.json](./292492-super-cubiform.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cucho | 122607 | [122607-super-cucho.json](./122607-super-cucho.json) |
+| Super Cult Tycoon 2 Deluxe Edition | 218620 | [218620-super-cult-tycoon-2-deluxe-edition.json](./218620-super-cult-tycoon-2-deluxe-edition.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
 | Super Cursor | 304286 | [304286-super-cursor.json](./304286-super-cursor.json) |
@@ -36112,6 +36119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Smash Land | 133944 | [133944-super-smash-land.json](./133944-super-smash-land.json) |
 | Super Smash T.V. | 19117 | [19117-super-smash-t-v.json](./19117-super-smash-t-v.json) |
+| Super Smash T.V. | 218747 | [218747-super-smash-t-v.json](./218747-super-smash-t-v.json) |
+| Super Smash T.V. | 218750 | [218750-super-smash-t-v.json](./218750-super-smash-t-v.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Smash War | 390279 | [390279-super-smash-war.json](./390279-super-smash-war.json) |
 | Super Snail | 260198 | [260198-super-snail.json](./260198-super-snail.json) |
