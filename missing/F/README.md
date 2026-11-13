@@ -7314,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Universe | 285986 | [285986-fishing-universe.json](./285986-fishing-universe.json) |
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishing Up | 346129 | [346129-fishing-up.json](./346129-fishing-up.json) |
+| Fishing Vacation | 197286 | [197286-fishing-vacation.json](./197286-fishing-vacation.json) |
 | Fishing Valley | 328534 | [328534-fishing-valley.json](./328534-fishing-valley.json) |
 | Fishing VR: Gijiesta | 51687 | [51687-fishing-vr-gijiesta.json](./51687-fishing-vr-gijiesta.json) |
 | Fishing With The Homies | 324149 | [324149-fishing-with-the-homies.json](./324149-fishing-with-the-homies.json) |
@@ -15487,6 +15488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fydo's Magic Tiles | 215179 | [215179-fydos-magic-tiles.json](./215179-fydos-magic-tiles.json) |
 | Fylgja | 92098 | [92098-fylgja.json](./92098-fylgja.json) |
+| Fynite | 197168 | [197168-fynite.json](./197168-fynite.json) |
 | Fynn's Passage | 363300 | [363300-fynns-passage.json](./363300-fynns-passage.json) |
 | FYR: The Lost Island | 372613 | [372613-fyr-the-lost-island.json](./372613-fyr-the-lost-island.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
