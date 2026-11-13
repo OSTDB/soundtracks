@@ -12486,6 +12486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwinter | 12681 | [12681-midwinter.json](./12681-midwinter.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
+| Midwinter Spirits | 179650 | [179650-midwinter-spirits.json](./179650-midwinter-spirits.json) |
 | Midwinter Springtime | 380141 | [380141-midwinter-springtime.json](./380141-midwinter-springtime.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | Miecze Valdgira I+II | 424000 | [424000-miecze-valdgira-i-ii.json](./424000-miecze-valdgira-i-ii.json) |
@@ -14096,6 +14097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Night | 127692 | [127692-mini-island-night.json](./127692-mini-island-night.json) |
 | Mini Island: Spring | 157947 | [157947-mini-island-spring.json](./157947-mini-island-spring.json) |
 | Mini Island: Summer | 157440 | [157440-mini-island-summer.json](./157440-mini-island-summer.json) |
+| Mini Island: Winter | 179213 | [179213-mini-island-winter.json](./179213-mini-island-winter.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Jumps | 412304 | [412304-mini-jumps.json](./412304-mini-jumps.json) |
 | Mini Kaizo Bros. 3 | 220782 | [220782-mini-kaizo-bros-3.json](./220782-mini-kaizo-bros-3.json) |
@@ -17998,6 +18000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
+| MonSweeper | 179095 | [179095-monsweeper.json](./179095-monsweeper.json) |
 | Montabi | 347027 | [347027-montabi.json](./347027-montabi.json) |
 | Montague's Mount | 10555 | [10555-montagues-mount.json](./10555-montagues-mount.json) |
 | MonTamer | 236197 | [236197-montamer.json](./236197-montamer.json) |
@@ -19829,6 +19832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moujuutsukai to Ouji-sama Portable | 221451 | [221451-moujuutsukai-to-ouji-sama-portable.json](./221451-moujuutsukai-to-ouji-sama-portable.json) |
 | Moujuutsukai to Ouji-sama: Snow Bride Portable | 221452 | [221452-moujuutsukai-to-ouji-sama-snow-bride-portable.json](./221452-moujuutsukai-to-ouji-sama-snow-bride-portable.json) |
 | Moujya | 207029 | [207029-moujya.json](./207029-moujya.json) |
+| Mouko Densetsu '95 Hanshin Tigers | 179216 | [179216-mouko-densetsu-95-hanshin-tigers.json](./179216-mouko-densetsu-95-hanshin-tigers.json) |
 | Mould | 351187 | [351187-mould.json](./351187-mould.json) |
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
 | Mouldog | 372723 | [372723-mouldog.json](./372723-mouldog.json) |
