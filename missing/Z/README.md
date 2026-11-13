@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeliria Sanctuary | 106390 | [106390-zeliria-sanctuary.json](./106390-zeliria-sanctuary.json) |
 | Zeliria Sanctuary II: Xinori Asylum | 161504 | [161504-zeliria-sanctuary-ii-xinori-asylum.json](./161504-zeliria-sanctuary-ii-xinori-asylum.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
+| Zeliria Sanctuary: Rise of Pumpkins | 172224 | [172224-zeliria-sanctuary-rise-of-pumpkins.json](./172224-zeliria-sanctuary-rise-of-pumpkins.json) |
 | Zella's Gun | 412572 | [412572-zellas-gun.json](./412572-zellas-gun.json) |
 | Zelle | 122523 | [122523-zelle.json](./122523-zelle.json) |
 | Zellige: The Tilemaker of Granada | 220734 | [220734-zellige-the-tilemaker-of-granada.json](./220734-zellige-the-tilemaker-of-granada.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta Leporis RTS | 253657 | [253657-zeta-leporis-rts.json](./253657-zeta-leporis-rts.json) |
 | Zeta Station Has Gone Quiet | 138942 | [138942-zeta-station-has-gone-quiet.json](./138942-zeta-station-has-gone-quiet.json) |
 | Zeta Wave Infinity | 296319 | [296319-zeta-wave-infinity.json](./296319-zeta-wave-infinity.json) |
+| Zeta Wing | 179633 | [179633-zeta-wing.json](./179633-zeta-wing.json) |
 | Zeta Wolf Chronicles | 179082 | [179082-zeta-wolf-chronicles.json](./179082-zeta-wolf-chronicles.json) |
 | Zeta Wolf: First Bite | 300597 | [300597-zeta-wolf-first-bite.json](./300597-zeta-wolf-first-bite.json) |
 | Zeta-7 | 25806 | [25806-zeta-7.json](./25806-zeta-7.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZiDouQianWen | 287677 | [287677-zidouqianwen.json](./287677-zidouqianwen.json) |
 | Ziegel: An Arcade Platformer | 96206 | [96206-ziegel-an-arcade-platformer.json](./96206-ziegel-an-arcade-platformer.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
+| Zig Zag | 179637 | [179637-zig-zag.json](./179637-zig-zag.json) |
 | Zig Zag Ball | 74720 | [74720-zig-zag-ball.json](./74720-zig-zag-ball.json) |
 | Zig Zag Boom | 241997 | [241997-zig-zag-boom.json](./241997-zig-zag-boom.json) |
 | Zig Zag Cat | 38115 | [38115-zig-zag-cat.json](./38115-zig-zag-cat.json) |
