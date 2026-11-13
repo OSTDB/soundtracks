@@ -18537,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Tiger and Chicken | 17822 | [17822-moorhuhn-tiger-and-chicken.json](./17822-moorhuhn-tiger-and-chicken.json) |
 | Moorhuhn: Winter-Edition | 256675 | [256675-moorhuhn-winter-edition.json](./256675-moorhuhn-winter-edition.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
+| Moorland Sonata | 180169 | [180169-moorland-sonata.json](./180169-moorland-sonata.json) |
 | Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
 | Moose Antipoo Adventure | 122584 | [122584-moose-antipoo-adventure.json](./122584-moose-antipoo-adventure.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
@@ -22921,6 +22922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mario Game | 335715 | [335715-my-mario-game.json](./335715-my-mario-game.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Master's A Moron | 202626 | [202626-my-masters-a-moron.json](./202626-my-masters-a-moron.json) |
+| My Master's Birthday | 179763 | [179763-my-masters-birthday.json](./179763-my-masters-birthday.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody & Kuromi no Machigai Sagashi | 286950 | [286950-my-melody-and-kuromi-no-machigai-sagashi.json](./286950-my-melody-and-kuromi-no-machigai-sagashi.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
