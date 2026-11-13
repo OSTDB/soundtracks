@@ -5199,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Gold Edition | 50919 | [50919-age-of-empires-iii-gold-edition.json](./50919-age-of-empires-iii-gold-edition.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires III: The WarChiefs | 3017 | [3017-age-of-empires-iii-the-warchiefs.json](./3017-age-of-empires-iii-the-warchiefs.json) |
+| Age of Empires IV: Anniversary Edition | 221950 | [221950-age-of-empires-iv-anniversary-edition.json](./221950-age-of-empires-iv-anniversary-edition.json) |
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Knights of Cross and Rose | 341814 | [341814-age-of-empires-iv-knights-of-cross-and-rose.json](./341814-age-of-empires-iv-knights-of-cross-and-rose.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
@@ -10534,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
 | Angel Profile | 68256 | [68256-angel-profile.json](./68256-angel-profile.json) |
 | Angel Rhapsody | 397871 | [397871-angel-rhapsody.json](./397871-angel-rhapsody.json) |
+| Angel Road | 221449 | [221449-angel-road.json](./221449-angel-road.json) |
 | Angel Saga | 151904 | [151904-angel-saga.json](./151904-angel-saga.json) |
 | Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
