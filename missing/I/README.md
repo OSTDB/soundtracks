@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inearth | 424662 | [424662-inearth.json](./424662-inearth.json) |
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
 | Inequalis | 224688 | [224688-inequalis.json](./224688-inequalis.json) |
+| Inertia | 193455 | [193455-inertia.json](./193455-inertia.json) |
 | Inertia | 261311 | [261311-inertia.json](./261311-inertia.json) |
 | Inertia | 295969 | [295969-inertia.json](./295969-inertia.json) |
 | Inertia | 377561 | [377561-inertia.json](./377561-inertia.json) |
@@ -4676,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
 | Ink World | 202758 | [202758-ink-world.json](./202758-ink-world.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
+| Ink'n'Think | 193395 | [193395-inknthink.json](./193395-inknthink.json) |
 | Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
 | Inkafe | 372116 | [372116-inkafe.json](./372116-inkafe.json) |
 | Inkanians | 134520 | [134520-inkanians.json](./134520-inkanians.json) |
