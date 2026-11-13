@@ -9983,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTF Is Wrong With You? | 152634 | [152634-wtf-is-wrong-with-you.json](./152634-wtf-is-wrong-with-you.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
 | WTF: Work Time Fun | 42853 | [42853-wtf-work-time-fun.json](./42853-wtf-work-time-fun.json) |
+| WTF? Story | 234949 | [234949-wtf-story.json](./234949-wtf-story.json) |
 | WTP Story 1 | 201696 | [201696-wtp-story-1.json](./201696-wtp-story-1.json) |
 | Wu Confucian Painting Volume: Apocalypse | 369722 | [369722-wu-confucian-painting-volume-apocalypse.json](./369722-wu-confucian-painting-volume-apocalypse.json) |
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
