@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes 4: Collector's Edition | 320480 | [320480-nature-escapes-4-collectors-edition.json](./320480-nature-escapes-4-collectors-edition.json) |
 | Nature Escapes 5 | 292373 | [292373-nature-escapes-5.json](./292373-nature-escapes-5.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
+| Nature Escapes: Collector's Edition | 233796 | [233796-nature-escapes-collectors-edition.json](./233796-nature-escapes-collectors-edition.json) |
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
 | Nature Hunter | 113917 | [113917-nature-hunter.json](./113917-nature-hunter.json) |
 | Nature is Hungry | 247137 | [247137-nature-is-hungry.json](./247137-nature-is-hungry.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neomorph | 127679 | [127679-neomorph.json](./127679-neomorph.json) |
 | Neon | 172056 | [172056-neon.json](./172056-neon.json) |
 | Neon | 183338 | [183338-neon.json](./183338-neon.json) |
+| Neon | 232597 | [232597-neon.json](./232597-neon.json) |
 | Neon | 74181 | [74181-neon.json](./74181-neon.json) |
 | Neon | 78351 | [78351-neon.json](./78351-neon.json) |
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
@@ -3096,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
+| NetherEx | 232726 | [232726-netherex.json](./232726-netherex.json) |
 | Nethergate | 94652 | [94652-nethergate.json](./94652-nethergate.json) |
 | Nethergate: Resurrection | 16405 | [16405-nethergate-resurrection.json](./16405-nethergate-resurrection.json) |
 | Netherguild | 194769 | [194769-netherguild.json](./194769-netherguild.json) |
@@ -5453,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Chicken 3: The World's Hardest Game | 247433 | [247433-ninja-chicken-3-the-worlds-hardest-game.json](./247433-ninja-chicken-3-the-worlds-hardest-game.json) |
+| Ninja Chicken Basic | 232591 | [232591-ninja-chicken-basic.json](./232591-ninja-chicken-basic.json) |
 | Ninja Chicken for Mac | 104561 | [104561-ninja-chicken-for-mac.json](./104561-ninja-chicken-for-mac.json) |
 | Ninja Chop!! | 270607 | [270607-ninja-chop.json](./270607-ninja-chop.json) |
 | Ninja Chowdown | 141445 | [141445-ninja-chowdown.json](./141445-ninja-chowdown.json) |
@@ -6046,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Nitroverse | 189806 | [189806-nitroverse.json](./189806-nitroverse.json) |
 | NitroVerse | 414108 | [414108-nitroverse.json](./414108-nitroverse.json) |
+| Nitrovista | 232208 | [232208-nitrovista.json](./232208-nitrovista.json) |
 | NitroZ | 262589 | [262589-nitroz.json](./262589-nitroz.json) |
 | Nitto 1320 Legends | 79962 | [79962-nitto-1320-legends.json](./79962-nitto-1320-legends.json) |
 | Niu War | 427224 | [427224-niu-war.json](./427224-niu-war.json) |
@@ -6335,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Can Ever Know | 144882 | [144882-no-one-can-ever-know.json](./144882-no-one-can-ever-know.json) |
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
 | No One Can Stop the Farm Pioneer | 73395 | [73395-no-one-can-stop-the-farm-pioneer.json](./73395-no-one-can-stop-the-farm-pioneer.json) |
+| No One Dies 2: Hybrid Movement | 232596 | [232596-no-one-dies-2-hybrid-movement.json](./232596-no-one-dies-2-hybrid-movement.json) |
 | No One is Here | 134198 | [134198-no-one-is-here.json](./134198-no-one-is-here.json) |
 | No One Is Watching You | 287463 | [287463-no-one-is-watching-you.json](./287463-no-one-is-watching-you.json) |
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
@@ -8034,6 +8040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Winter | 221663 | [221663-nuclear-winter.json](./221663-nuclear-winter.json) |
 | Nuclear Winter | 244977 | [244977-nuclear-winter.json](./244977-nuclear-winter.json) |
 | Nuclear Wipeout | 148624 | [148624-nuclear-wipeout.json](./148624-nuclear-wipeout.json) |
+| NuclearCraft | 232727 | [232727-nuclearcraft.json](./232727-nuclearcraft.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | Nucleares | 245056 | [245056-nucleares.json](./245056-nucleares.json) |
 | Nucleares: New Generator Set | 302851 | [302851-nucleares-new-generator-set.json](./302851-nucleares-new-generator-set.json) |
