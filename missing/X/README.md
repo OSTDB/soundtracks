@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Long War | 287457 | [287457-xcom-long-war.json](./287457-xcom-long-war.json) |
 | XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
+| XD Town | 174926 | [174926-xd-town.json](./174926-xd-town.json) |
 | Xd1 | 327253 | [327253-xd1.json](./327253-xd1.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xtreme Golf 2003 | 181708 | [181708-xtreme-golf-2003.json](./181708-xtreme-golf-2003.json) |
 | Xtreme Hover | 103741 | [103741-xtreme-hover.json](./103741-xtreme-hover.json) |
+| Xtreme Motorbikes | 174913 | [174913-xtreme-motorbikes.json](./174913-xtreme-motorbikes.json) |
 | Xtreme Paddleball | 89394 | [89394-xtreme-paddleball.json](./89394-xtreme-paddleball.json) |
 | Xtreme Racer | 91106 | [91106-xtreme-racer.json](./91106-xtreme-racer.json) |
 | XTreme Racing | 94272 | [94272-xtreme-racing.json](./94272-xtreme-racing.json) |
