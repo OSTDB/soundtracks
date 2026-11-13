@@ -10155,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Birds City | 254889 | [254889-lucky-birds-city.json](./254889-lucky-birds-city.json) |
 | Lucky Block | 414214 | [414214-lucky-block.json](./414214-lucky-block.json) |
+| Lucky Boy | 193980 | [193980-lucky-boy.json](./193980-lucky-boy.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Burst | 148823 | [148823-lucky-burst.json](./148823-lucky-burst.json) |
 | Lucky Cat Bingo | 354978 | [354978-lucky-cat-bingo.json](./354978-lucky-cat-bingo.json) |
