@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
 | Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
+| Sealed Bite | 172847 | [172847-sealed-bite.json](./172847-sealed-bite.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
 | Sealed Gate | 258672 | [258672-sealed-gate.json](./258672-sealed-gate.json) |
@@ -17549,6 +17550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Democracy: Popular Front | 410565 | [410565-social-democracy-popular-front.json](./410565-social-democracy-popular-front.json) |
 | Social Dev Story | 276131 | [276131-social-dev-story.json](./276131-social-dev-story.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
+| Social Empires | 172812 | [172812-social-empires.json](./172812-social-empires.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Social Moth | 199723 | [199723-social-moth.json](./199723-social-moth.json) |
@@ -28066,6 +28068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshine Legacy Episode 2: Secret of Pine Hill Mansion | 196737 | [196737-starshine-legacy-episode-2-secret-of-pine-hill-mansion.json](./196737-starshine-legacy-episode-2-secret-of-pine-hill-mansion.json) |
 | Starshine Legacy Episode 3: Legend of Pandoria | 196738 | [196738-starshine-legacy-episode-3-legend-of-pandoria.json](./196738-starshine-legacy-episode-3-legend-of-pandoria.json) |
 | Starshine Legacy Episode 4: The Riddle of Dark Core | 196739 | [196739-starshine-legacy-episode-4-the-riddle-of-dark-core.json](./196739-starshine-legacy-episode-4-the-riddle-of-dark-core.json) |
+| Starship | 173323 | [173323-starship.json](./173323-starship.json) |
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
 | Starship | 268911 | [268911-starship.json](./268911-starship.json) |
