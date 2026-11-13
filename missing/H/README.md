@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart's Medicine Collection | 53176 | [53176-hearts-medicine-collection.json](./53176-hearts-medicine-collection.json) |
 | Heart's Medicine: Doctor's Oath | 112025 | [112025-hearts-medicine-doctors-oath.json](./112025-hearts-medicine-doctors-oath.json) |
 | Heart's Medicine: Season One | 88660 | [88660-hearts-medicine-season-one.json](./88660-hearts-medicine-season-one.json) |
+| Heart's Medicine: Season One - Remastered | 177083 | [177083-hearts-medicine-season-one-remastered.json](./177083-hearts-medicine-season-one-remastered.json) |
 | Heart's Medicine: Time to Heal | 32311 | [32311-hearts-medicine-time-to-heal.json](./32311-hearts-medicine-time-to-heal.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
@@ -3886,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
 | Hearts! 2 | 88688 | [88688-hearts-2.json](./88688-hearts-2.json) |
 | Hearts++ | 88040 | [88040-hearts.json](./88040-hearts.json) |
+| Heartscape | 177467 | [177467-heartscape.json](./177467-heartscape.json) |
 | Heartseers Grove | 389746 | [389746-heartseers-grove.json](./389746-heartseers-grove.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartspell: Horizon Academy | 309311 | [309311-heartspell-horizon-academy.json](./309311-heartspell-horizon-academy.json) |
@@ -6361,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermeneus no Hakoniwa | 344297 | [344297-hermeneus-no-hakoniwa.json](./344297-hermeneus-no-hakoniwa.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
+| Hermes 3: Sibyls' Prophecy - Collector's Edition | 177085 | [177085-hermes-3-sibyls-prophecy-collectors-edition.json](./177085-hermes-3-sibyls-prophecy-collectors-edition.json) |
 | Hermes e Renato: Joselito Contra a Farofada | 253187 | [253187-hermes-e-renato-joselito-contra-a-farofada.json](./253187-hermes-e-renato-joselito-contra-a-farofada.json) |
 | Hermes: Rescue Mission | 126331 | [126331-hermes-rescue-mission.json](./126331-hermes-rescue-mission.json) |
 | Hermes: Sibyls' Prophecy | 160010 | [160010-hermes-sibyls-prophecy.json](./160010-hermes-sibyls-prophecy.json) |
@@ -10931,6 +10934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopscotch: Are You Ready for Hardcore? | 112903 | [112903-hopscotch-are-you-ready-for-hardcore.json](./112903-hopscotch-are-you-ready-for-hardcore.json) |
 | HopScout | 415049 | [415049-hopscout.json](./415049-hopscout.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
+| HopSlide | 177469 | [177469-hopslide.json](./177469-hopslide.json) |
 | HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
 | HopStepHotspring | 289834 | [289834-hopstephotspring.json](./289834-hopstephotspring.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
@@ -11882,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Keeper | 374006 | [374006-hotel-keeper.json](./374006-hotel-keeper.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
+| Hotel Mahjong | 177067 | [177067-hotel-mahjong.json](./177067-hotel-mahjong.json) |
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
 | Hotel Manager: Together | 407751 | [407751-hotel-manager-together.json](./407751-hotel-manager-together.json) |
@@ -11923,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 386191 | [386191-hotel-simulator-2026.json](./386191-hotel-simulator-2026.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
+| Hotel Solitaire | 177066 | [177066-hotel-solitaire.json](./177066-hotel-solitaire.json) |
 | Hotel Sowls | 112385 | [112385-hotel-sowls.json](./112385-hotel-sowls.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
