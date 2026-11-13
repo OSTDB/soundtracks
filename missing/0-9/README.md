@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
 | 3D Puzzle: Factory | 283076 | [283076-3d-puzzle-factory.json](./283076-3d-puzzle-factory.json) |
+| 3D Puzzle: Farm House | 197877 | [197877-3d-puzzle-farm-house.json](./197877-3d-puzzle-farm-house.json) |
 | 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
 | 3D Puzzle: Farming 2 | 274644 | [274644-3d-puzzle-farming-2.json](./274644-3d-puzzle-farming-2.json) |
 | 3D Puzzle: Flooded Grounds | 309716 | [309716-3d-puzzle-flooded-grounds.json](./309716-3d-puzzle-flooded-grounds.json) |
