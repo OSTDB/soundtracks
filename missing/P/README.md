@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaRappa the Rapper: Stage 3 Music A | 324829 | [324829-parappa-the-rapper-stage-3-music-a.json](./324829-parappa-the-rapper-stage-3-music-a.json) |
 | PaRappa the Rapper: Stage 4 Music A | 324830 | [324830-parappa-the-rapper-stage-4-music-a.json](./324830-parappa-the-rapper-stage-4-music-a.json) |
 | PaRappa the Rapper: Stage 5 Music A | 324831 | [324831-parappa-the-rapper-stage-5-music-a.json](./324831-parappa-the-rapper-stage-5-music-a.json) |
+| Parapsychology | 193383 | [193383-parapsychology.json](./193383-parapsychology.json) |
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Pararomantic | 217609 | [217609-pararomantic.json](./217609-pararomantic.json) |
@@ -8314,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
 | Pirate Ship Higemaru | 40092 | [40092-pirate-ship-higemaru.json](./40092-pirate-ship-higemaru.json) |
 | Pirate Ships | 395154 | [395154-pirate-ships.json](./395154-pirate-ships.json) |
+| Pirate Shoot | 193371 | [193371-pirate-shoot.json](./193371-pirate-shoot.json) |
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
 | Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
 | Pirate Simulator: Corsair Skull & Sails | 369254 | [369254-pirate-simulator-corsair-skull-and-sails.json](./369254-pirate-simulator-corsair-skull-and-sails.json) |
@@ -8655,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art School | 195808 | [195808-pixel-art-school.json](./195808-pixel-art-school.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Art: Mash-Up | 155445 | [155445-pixel-art-mash-up.json](./155445-pixel-art-mash-up.json) |
+| Pixel Artist | 193384 | [193384-pixel-artist.json](./193384-pixel-artist.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
 | Pixel Artist: Color Number, Pixel Coloring Book | 105847 | [105847-pixel-artist-color-number-pixel-coloring-book.json](./105847-pixel-artist-color-number-pixel-coloring-book.json) |
@@ -19172,6 +19175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
 | Puppeteer: Control | 261836 | [261836-puppeteer-control.json](./261836-puppeteer-control.json) |
 | Puppeteer's Curse | 285499 | [285499-puppeteers-curse.json](./285499-puppeteers-curse.json) |
+| Puppeteers | 192996 | [192996-puppeteers.json](./192996-puppeteers.json) |
 | Puppetmaker | 201739 | [201739-puppetmaker.json](./201739-puppetmaker.json) |
 | Puppetmaster | 260458 | [260458-puppetmaster.json](./260458-puppetmaster.json) |
 | Puppetmaster: Pose Viewer | 245741 | [245741-puppetmaster-pose-viewer.json](./245741-puppetmaster-pose-viewer.json) |
