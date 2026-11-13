@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Galaxy | 344574 | [344574-edge-of-galaxy.json](./344574-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge of Hearts | 38805 | [38805-edge-of-hearts.json](./38805-edge-of-hearts.json) |
+| Edge of Infinity | 201059 | [201059-edge-of-infinity.json](./201059-edge-of-infinity.json) |
 | Edge of Insanity | 40709 | [40709-edge-of-insanity.json](./40709-edge-of-insanity.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Oblivion | 258597 | [258597-edge-of-oblivion.json](./258597-edge-of-oblivion.json) |
