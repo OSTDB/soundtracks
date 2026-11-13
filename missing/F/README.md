@@ -9870,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Tycoon: Expansion Pack 2 | 199838 | [199838-food-truck-tycoon-expansion-pack-2.json](./199838-food-truck-tycoon-expansion-pack-2.json) |
 | Food Truck Tycoon: GOTY Edition | 268556 | [268556-food-truck-tycoon-goty-edition.json](./268556-food-truck-tycoon-goty-edition.json) |
 | Food Truck Tycoon: Multiplayer Edition | 240407 | [240407-food-truck-tycoon-multiplayer-edition.json](./240407-food-truck-tycoon-multiplayer-edition.json) |
+| Food Truck Tycoon: Premium Edition | 216362 | [216362-food-truck-tycoon-premium-edition.json](./216362-food-truck-tycoon-premium-edition.json) |
 | Food Truck Tycoons: 2 in 1 Bundle | 231031 | [231031-food-truck-tycoons-2-in-1-bundle.json](./231031-food-truck-tycoons-2-in-1-bundle.json) |
 | Food Truck VR | 343329 | [343329-food-truck-vr.json](./343329-food-truck-vr.json) |
 | Food Tycoon | 200281 | [200281-food-tycoon.json](./200281-food-tycoon.json) |
@@ -10198,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
 | FootLOL: Epic Fail League | 10329 | [10329-footlol-epic-fail-league.json](./10329-footlol-epic-fail-league.json) |
 | Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
+| FootPool | 216385 | [216385-footpool.json](./216385-footpool.json) |
 | Footprints Combination | 309565 | [309565-footprints-combination.json](./309565-footprints-combination.json) |
 | FootRock | 74735 | [74735-footrock.json](./74735-footrock.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
@@ -12838,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | Freestyle Ice Skater | 270499 | [270499-freestyle-ice-skater.json](./270499-freestyle-ice-skater.json) |
 | Freestyle King | 130610 | [130610-freestyle-king.json](./130610-freestyle-king.json) |
+| Freestyle Mage | 216383 | [216383-freestyle-mage.json](./216383-freestyle-mage.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
 | Freestyle Motocross: McGrath vs. Pastrana | 44940 | [44940-freestyle-motocross-mcgrath-vs-pastrana.json](./44940-freestyle-motocross-mcgrath-vs-pastrana.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
