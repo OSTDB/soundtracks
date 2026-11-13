@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kujaku-ou 2 | 45550 | [45550-kujaku-ou-2.json](./45550-kujaku-ou-2.json) |
 | Kujaku-ou II | 48439 | [48439-kujaku-ou-ii.json](./48439-kujaku-ou-ii.json) |
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
+| Kujira Monogatari | 242745 | [242745-kujira-monogatari.json](./242745-kujira-monogatari.json) |
 | Kujiragami no Tearstilla | 144633 | [144633-kujiragami-no-tearstilla.json](./144633-kujiragami-no-tearstilla.json) |
 | Kujlevka | 172179 | [172179-kujlevka.json](./172179-kujlevka.json) |
 | Kukinta | 285306 | [285306-kukinta.json](./285306-kukinta.json) |
