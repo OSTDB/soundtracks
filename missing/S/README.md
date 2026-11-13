@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Great Queens: Old Tower - Collector's Edition | 416508 | [416508-secrets-of-great-queens-old-tower-collectors-edition.json](./416508-secrets-of-great-queens-old-tower-collectors-edition.json) |
 | Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
+| Secrets of Magic 3: Happy Halloween | 172218 | [172218-secrets-of-magic-3-happy-halloween.json](./172218-secrets-of-magic-3-happy-halloween.json) |
 | Secrets of Magic 5: Back to School | 195303 | [195303-secrets-of-magic-5-back-to-school.json](./195303-secrets-of-magic-5-back-to-school.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Magic: The Book of Spells & Secrets of Magic 2: Witches and Wizards - Double Pack | 140915 | [140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json](./140915-secrets-of-magic-the-book-of-spells-and-secrets-of-magic-2-witches-and-wizards-double-pack.json) |
@@ -6013,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senko no Ronde 2: Rounder Karel | 171145 | [171145-senko-no-ronde-2-rounder-karel.json](./171145-senko-no-ronde-2-rounder-karel.json) |
+| Senko no Ronde 2: Rounder Lili | 172217 | [172217-senko-no-ronde-2-rounder-lili.json](./172217-senko-no-ronde-2-rounder-lili.json) |
 | Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
 | Senkou | 358499 | [358499-senkou.json](./358499-senkou.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
@@ -7719,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Must Fall | 399200 | [399200-shadows-must-fall.json](./399200-shadows-must-fall.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
+| Shadows of Adam: Guild of the Artificers | 172225 | [172225-shadows-of-adam-guild-of-the-artificers.json](./172225-shadows-of-adam-guild-of-the-artificers.json) |
 | Shadows of Betrayal | 301089 | [301089-shadows-of-betrayal.json](./301089-shadows-of-betrayal.json) |
 | Shadows of Cairn | 2510 | [2510-shadows-of-cairn.json](./2510-shadows-of-cairn.json) |
 | Shadows of Christmas Eve | 417941 | [417941-shadows-of-christmas-eve.json](./417941-shadows-of-christmas-eve.json) |
@@ -11167,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
 | Siege the Day | 148782 | [148782-siege-the-day.json](./148782-siege-the-day.json) |
+| Siege Up! | 172215 | [172215-siege-up.json](./172215-siege-up.json) |
 | Siege Worlds | 218301 | [218301-siege-worlds.json](./218301-siege-worlds.json) |
 | Siege: Apocalypse | 194060 | [194060-siege-apocalypse.json](./194060-siege-apocalypse.json) |
 | Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
@@ -13829,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
 | Sky Glove | 183833 | [183833-sky-glove.json](./183833-sky-glove.json) |
+| Sky Goddess | 172204 | [172204-sky-goddess.json](./172204-sky-goddess.json) |
 | Sky Goddess Ⅱ | 158833 | [158833-sky-goddess-ii.json](./158833-sky-goddess-ii.json) |
 | Sky Goddess Ⅱ: DLC-1 | 170174 | [170174-sky-goddess-ii-dlc-1.json](./170174-sky-goddess-ii-dlc-1.json) |
 | Sky Goddess Ⅱ: DLC-2 | 170176 | [170176-sky-goddess-ii-dlc-2.json](./170176-sky-goddess-ii-dlc-2.json) |
@@ -18128,6 +18133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
 | Solenars Edge Heroes | 97033 | [97033-solenars-edge-heroes.json](./97033-solenars-edge-heroes.json) |
 | Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
+| Solenars Edge II: Champions | 172233 | [172233-solenars-edge-ii-champions.json](./172233-solenars-edge-ii-champions.json) |
 | Solenars Edge Rebirth | 50759 | [50759-solenars-edge-rebirth.json](./50759-solenars-edge-rebirth.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
 | Solendara | 297980 | [297980-solendara.json](./297980-solendara.json) |
@@ -21843,6 +21849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space N Traders | 28374 | [28374-space-n-traders.json](./28374-space-n-traders.json) |
 | Space Nation Online | 258920 | [258920-space-nation-online.json](./258920-space-nation-online.json) |
+| Space Nations: Battlearena | 172238 | [172238-space-nations-battlearena.json](./172238-space-nations-battlearena.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
 | Space Ninja Simulator | 157404 | [157404-space-ninja-simulator.json](./157404-space-ninja-simulator.json) |
@@ -31034,6 +31041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
 | Street Karate Fighter 2 Online | 102827 | [102827-street-karate-fighter-2-online.json](./102827-street-karate-fighter-2-online.json) |
+| Street Karate: 2 | 172246 | [172246-street-karate-2.json](./172246-street-karate-2.json) |
 | Street Kart | 110268 | [110268-street-kart.json](./110268-street-kart.json) |
 | Street Kart Racing | 129508 | [129508-street-kart-racing.json](./129508-street-kart-racing.json) |
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
@@ -35039,6 +35047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Remastered | 378499 | [378499-super-mario-bros-remastered.json](./378499-super-mario-bros-remastered.json) |
 | Super Mario Bros. RMX | 316533 | [316533-super-mario-bros-rmx.json](./316533-super-mario-bros-rmx.json) |
 | Super Mario Bros. S | 313430 | [313430-super-mario-bros-s.json](./313430-super-mario-bros-s.json) |
+| Super Mario Bros. S: Road to Infinity | 172243 | [172243-super-mario-bros-s-road-to-infinity.json](./172243-super-mario-bros-s-road-to-infinity.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
