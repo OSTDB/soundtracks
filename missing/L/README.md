@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
 | Labyrinth of AO | 84054 | [84054-labyrinth-of-ao.json](./84054-labyrinth-of-ao.json) |
 | Labyrinth of Axarith | 244697 | [244697-labyrinth-of-axarith.json](./244697-labyrinth-of-axarith.json) |
+| Labyrinth of Chaos | 237028 | [237028-labyrinth-of-chaos.json](./237028-labyrinth-of-chaos.json) |
 | Labyrinth of Crete | 25327 | [25327-labyrinth-of-crete.json](./25327-labyrinth-of-crete.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Duel | 37211 | [37211-last-duel.json](./37211-last-duel.json) |
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
+| Last Eclipse | 236592 | [236592-last-eclipse.json](./236592-last-eclipse.json) |
 | Last Egg Alive | 419092 | [419092-last-egg-alive.json](./419092-last-egg-alive.json) |
 | Last Egg Standing | 387437 | [387437-last-egg-standing.json](./387437-last-egg-standing.json) |
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
@@ -4868,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Hard | 34148 | [34148-life-is-hard.json](./34148-life-is-hard.json) |
 | Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
+| Life Is Not Auto | 237122 | [237122-life-is-not-auto.json](./237122-life-is-not-auto.json) |
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
@@ -7937,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longcat Journey | 290314 | [290314-longcat-journey.json](./290314-longcat-journey.json) |
 | Longest Monday: Unveiling | 100538 | [100538-longest-monday-unveiling.json](./100538-longest-monday-unveiling.json) |
 | Longest River | 267319 | [267319-longest-river.json](./267319-longest-river.json) |
+| Longevity Party | 237121 | [237121-longevity-party.json](./237121-longevity-party.json) |
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
@@ -9560,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
 | Love n Dream | 151328 | [151328-love-n-dream.json](./151328-love-n-dream.json) |
+| Love n Dream 3 | 237124 | [237124-love-n-dream-3.json](./237124-love-n-dream-3.json) |
 | Love n Dream: Virtual Happiness | 160252 | [160252-love-n-dream-virtual-happiness.json](./160252-love-n-dream-virtual-happiness.json) |
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
