@@ -14816,6 +14816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doritos Crash Course | 18041 | [18041-doritos-crash-course.json](./18041-doritos-crash-course.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
+| Dork | 223198 | [223198-dork.json](./223198-dork.json) |
 | Dork's Dilemma? | 133681 | [133681-dorks-dilemma.json](./133681-dorks-dilemma.json) |
 | Dork's Dreams | 73442 | [73442-dorks-dreams.json](./73442-dorks-dreams.json) |
 | Dorke and Ymp | 32601 | [32601-dorke-and-ymp.json](./32601-dorke-and-ymp.json) |
