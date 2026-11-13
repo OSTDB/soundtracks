@@ -1207,7 +1207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectron | 295639 | [295639-vectron.json](./295639-vectron.json) |
 | Vectron | 409129 | [409129-vectron.json](./409129-vectron.json) |
 | Vectronic | 401501 | [401501-vectronic.json](./401501-vectronic.json) |
-| Vectronom | 107182 | [107182-vectronom.json](./107182-vectronom.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
@@ -3351,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivaland: Dream House | 268932 | [268932-vivaland-dream-house.json](./268932-vivaland-dream-house.json) |
 | Vivaldia | 140477 | [140477-vivaldia.json](./140477-vivaldia.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
+| Vivamus in Fabula | 220887 | [220887-vivamus-in-fabula.json](./220887-vivamus-in-fabula.json) |
 | Vivarium | 279370 | [279370-vivarium.json](./279370-vivarium.json) |
 | Vivarium | 354306 | [354306-vivarium.json](./354306-vivarium.json) |
 | Vivarium: Summer Vacay Update | 354376 | [354376-vivarium-summer-vacay-update.json](./354376-vivarium-summer-vacay-update.json) |
