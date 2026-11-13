@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Penny Hot | 211067 | [211067-69-penny-hot.json](./211067-69-penny-hot.json) |
 | 69 Samantha Love | 195723 | [195723-69-samantha-love.json](./195723-69-samantha-love.json) |
 | 69 Seconds Later | 389812 | [389812-69-seconds-later.json](./389812-69-seconds-later.json) |
+| 69 Summon Succubus | 201737 | [201737-69-summon-succubus.json](./201737-69-summon-succubus.json) |
 | 69 Ways to Kill a Zombie | 31722 | [31722-69-ways-to-kill-a-zombie.json](./31722-69-ways-to-kill-a-zombie.json) |
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
 | 69 Yuuko Hot | 215456 | [215456-69-yuuko-hot.json](./215456-69-yuuko-hot.json) |
