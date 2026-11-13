@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jellyflug Micro Adventures | 197644 | [197644-jellyflug-micro-adventures.json](./197644-jellyflug-micro-adventures.json) |
 | JellyKing : Rule The World | 312650 | [312650-jellyking-rule-the-world.json](./312650-jellyking-rule-the-world.json) |
+| JellyMen | 196775 | [196775-jellymen.json](./196775-jellymen.json) |
 | JellyNoid | 74652 | [74652-jellynoid.json](./74652-jellynoid.json) |
 | Jellyphant escape | 115974 | [115974-jellyphant-escape.json](./115974-jellyphant-escape.json) |
 | JellyStar | 392090 | [392090-jellystar.json](./392090-jellystar.json) |
@@ -3086,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joushou Mahjong Tenpai: Additional Data | 234782 | [234782-joushou-mahjong-tenpai-additional-data.json](./234782-joushou-mahjong-tenpai-additional-data.json) |
 | Joushou Mahjong Tenpai: Data | 234781 | [234781-joushou-mahjong-tenpai-data.json](./234781-joushou-mahjong-tenpai-data.json) |
 | Joushou Mahjong Tenpai: Kansen Data | 234783 | [234783-joushou-mahjong-tenpai-kansen-data.json](./234783-joushou-mahjong-tenpai-kansen-data.json) |
+| Joust | 196742 | [196742-joust.json](./196742-joust.json) |
 | Joust | 198784 | [198784-joust.json](./198784-joust.json) |
 | Joust | 239137 | [239137-joust.json](./239137-joust.json) |
 | Joust | 278084 | [278084-joust.json](./278084-joust.json) |
@@ -3516,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
 | Jump Jack 2 | 80711 | [80711-jump-jack-2.json](./80711-jump-jack-2.json) |
 | Jump Jam! | 89022 | [89022-jump-jam.json](./89022-jump-jam.json) |
+| Jump Jerboa | 196616 | [196616-jump-jerboa.json](./196616-jump-jerboa.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
 | Jump Journey | 215589 | [215589-jump-journey.json](./215589-jump-journey.json) |
 | Jump Jump | 405337 | [405337-jump-jump.json](./405337-jump-jump.json) |
