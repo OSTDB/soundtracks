@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Sort! | 392972 | [392972-magic-sort.json](./392972-magic-sort.json) |
 | Magic Spheres | 146500 | [146500-magic-spheres.json](./146500-magic-spheres.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
+| Magic Staves | 235439 | [235439-magic-staves.json](./235439-magic-staves.json) |
 | Magic Stone Guardians | 167501 | [167501-magic-stone-guardians.json](./167501-magic-stone-guardians.json) |
 | Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
 | Magic Storm | 310808 | [310808-magic-storm.json](./310808-magic-storm.json) |
@@ -5585,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Alchemy - Rise of the Mechanologists | 54208 | [54208-master-of-alchemy-rise-of-the-mechanologists.json](./54208-master-of-alchemy-rise-of-the-mechanologists.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
+| Master of Chess | 235519 | [235519-master-of-chess.json](./235519-master-of-chess.json) |
 | Master of Cladia | 385282 | [385282-master-of-cladia.json](./385282-master-of-cladia.json) |
 | Master of Command | 298178 | [298178-master-of-command.json](./298178-master-of-command.json) |
 | Master of Defense | 64729 | [64729-master-of-defense.json](./64729-master-of-defense.json) |
@@ -6175,6 +6177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math+Sticks: Coffee Break Club | 238874 | [238874-math-sticks-coffee-break-club.json](./238874-math-sticks-coffee-break-club.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
 | Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
+| MathCar | 235517 | [235517-mathcar.json](./235517-mathcar.json) |
 | Mathe für Zwerge 1 | 92004 | [92004-mathe-fur-zwerge-1.json](./92004-mathe-fur-zwerge-1.json) |
 | Mathe für Zwerge 2 | 92005 | [92005-mathe-fur-zwerge-2.json](./92005-mathe-fur-zwerge-2.json) |
 | Mathe Pfiffikus | 85859 | [85859-mathe-pfiffikus.json](./85859-mathe-pfiffikus.json) |
@@ -7308,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
 | MechaGore | 32586 | [32586-mechagore.json](./32586-mechagore.json) |
 | MechaHead League | 144546 | [144546-mechahead-league.json](./144546-mechahead-league.json) |
+| Mechahearts | 235382 | [235382-mechahearts.json](./235382-mechahearts.json) |
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | MechaJourney | 369167 | [369167-mechajourney.json](./369167-mechajourney.json) |
 | Mechaknights Legends | 330107 | [330107-mechaknights-legends.json](./330107-mechaknights-legends.json) |
@@ -14172,6 +14176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniblox | 384485 | [384485-miniblox.json](./384485-miniblox.json) |
 | MiniBob | 238278 | [238278-minibob.json](./238278-minibob.json) |
 | MiniBong | 251856 | [251856-minibong.json](./251856-minibong.json) |
+| Minibots TD | 235503 | [235503-minibots-td.json](./235503-minibots-td.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minibus Simulator | 407372 | [407372-minibus-simulator.json](./407372-minibus-simulator.json) |
