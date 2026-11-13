@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Heart | 382869 | [382869-valkyrie-heart.json](./382869-valkyrie-heart.json) |
 | Valkyrie Idle | 248095 | [248095-valkyrie-idle.json](./248095-valkyrie-idle.json) |
 | Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator | 361061 | [361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json](./361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json) |
+| Valkyrie Love Goddess | 223119 | [223119-valkyrie-love-goddess.json](./223119-valkyrie-love-goddess.json) |
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie of Phantasm | 119265 | [119265-valkyrie-of-phantasm.json](./119265-valkyrie-of-phantasm.json) |
