@@ -6325,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Labyrinth | 122595 | [122595-the-ancient-labyrinth.json](./122595-the-ancient-labyrinth.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
+| The Ancients | 191144 | [191144-the-ancients.json](./191144-the-ancients.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
 | The Anders Cyclopaedia | 327161 | [327161-the-anders-cyclopaedia.json](./327161-the-anders-cyclopaedia.json) |
@@ -11802,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House Jack Built | 14119 | [14119-the-house-jack-built.json](./14119-the-house-jack-built.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
+| The House of Closed Doors | 191151 | [191151-the-house-of-closed-doors.json](./191151-the-house-of-closed-doors.json) |
 | The House of Da Vinci Bundle | 186543 | [186543-the-house-of-da-vinci-bundle.json](./186543-the-house-of-da-vinci-bundle.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of Da Vinci VR | 314703 | [314703-the-house-of-da-vinci-vr.json](./314703-the-house-of-da-vinci-vr.json) |
@@ -30367,6 +30369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails in the Sky 1st Chapter: Steelbook Edition | 351131 | [351131-trails-in-the-sky-1st-chapter-steelbook-edition.json](./351131-trails-in-the-sky-1st-chapter-steelbook-edition.json) |
 | Trails in the Sky 1st Chapter: Trendy Headgear Set | 370838 | [370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json](./370838-trails-in-the-sky-1st-chapter-trendy-headgear-set.json) |
 | Trails in the Sky 2nd Chapter | 377314 | [377314-trails-in-the-sky-2nd-chapter.json](./377314-trails-in-the-sky-2nd-chapter.json) |
+| Trails of Gold Privateers | 191139 | [191139-trails-of-gold-privateers.json](./191139-trails-of-gold-privateers.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Starlight | 423386 | [423386-trails-of-starlight.json](./423386-trails-of-starlight.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
