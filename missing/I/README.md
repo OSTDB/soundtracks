@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Breakout | 228326 | [228326-idle-breakout.json](./228326-idle-breakout.json) |
 | Idle Brick Breaker | 234427 | [234427-idle-brick-breaker.json](./234427-idle-brick-breaker.json) |
 | Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
+| Idle Bugs | 204580 | [204580-idle-bugs.json](./204580-idle-bugs.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Business Tycoon: Build Simulator - Expansion Pack 1 | 201445 | [201445-idle-business-tycoon-build-simulator-expansion-pack-1.json](./201445-idle-business-tycoon-build-simulator-expansion-pack-1.json) |
