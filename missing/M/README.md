@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Date EX: Sotsugyou Kokuhaku Daisakusen | 69211 | [69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json](./69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json) |
 | Magical Date: Doki-doki Kokuhaku Daisakusen | 360723 | [360723-magical-date-doki-doki-kokuhaku-daisakusen.json](./360723-magical-date-doki-doki-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
+| Magical Deathpair | 186855 | [186855-magical-deathpair.json](./186855-magical-deathpair.json) |
 | Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
 | Magical Diary: Horse Hall | 28035 | [28035-magical-diary-horse-hall.json](./28035-magical-diary-horse-hall.json) |
 | Magical Diary: Secrets Sharing | 85271 | [85271-magical-diary-secrets-sharing.json](./85271-magical-diary-secrets-sharing.json) |
@@ -3997,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marimba VR | 30352 | [30352-marimba-vr.json](./30352-marimba-vr.json) |
 | Marimo Pants | 412817 | [412817-marimo-pants.json](./412817-marimo-pants.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
+| Marimoth | 185722 | [185722-marimoth.json](./185722-marimoth.json) |
 | Marin Alien | 308704 | [308704-marin-alien.json](./308704-marin-alien.json) |
 | Marina Manager | 420489 | [420489-marina-manager.json](./420489-marina-manager.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
@@ -5972,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
 | Match Three Pack | 244821 | [244821-match-three-pack.json](./244821-match-three-pack.json) |
 | Match Three Pirates! Heir to Davy Jones | 116917 | [116917-match-three-pirates-heir-to-davy-jones.json](./116917-match-three-pirates-heir-to-davy-jones.json) |
+| Match Three Pirates! II | 185728 | [185728-match-three-pirates-ii.json](./185728-match-three-pirates-ii.json) |
 | Match Three: Farm Shoppers | 391684 | [391684-match-three-farm-shoppers.json](./391684-match-three-farm-shoppers.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
@@ -6158,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
 | Math Jam | 138493 | [138493-math-jam.json](./138493-math-jam.json) |
+| Math Labyrinth | 186214 | [186214-math-labyrinth.json](./186214-math-labyrinth.json) |
 | Math Logic | 307461 | [307461-math-logic.json](./307461-math-logic.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Marvel | 245449 | [245449-math-marvel.json](./245449-math-marvel.json) |
@@ -16570,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki | 79273 | [79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json](./79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json) |
 | Momotaro Dentetsu 2017: Tachiagare Nippon!! | 79234 | [79234-momotaro-dentetsu-2017-tachiagare-nippon.json](./79234-momotaro-dentetsu-2017-tachiagare-nippon.json) |
 | Momotaro Dentetsu 7 | 64410 | [64410-momotaro-dentetsu-7.json](./64410-momotaro-dentetsu-7.json) |
+| Momotaro Dentetsu Aomori | 186781 | [186781-momotaro-dentetsu-aomori.json](./186781-momotaro-dentetsu-aomori.json) |
 | Momotaro Dentetsu Chubu | 186771 | [186771-momotaro-dentetsu-chubu.json](./186771-momotaro-dentetsu-chubu.json) |
 | Momotaro Dentetsu DS: Tokyo & Japan | 64419 | [64419-momotaro-dentetsu-ds-tokyo-and-japan.json](./64419-momotaro-dentetsu-ds-tokyo-and-japan.json) |
 | Momotaro Dentetsu G: Gold Deck wo Tsukure! | 49720 | [49720-momotaro-dentetsu-g-gold-deck-wo-tsukure.json](./49720-momotaro-dentetsu-g-gold-deck-wo-tsukure.json) |
@@ -16580,14 +16585,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu Japan+ | 64408 | [64408-momotaro-dentetsu-japan.json](./64408-momotaro-dentetsu-japan.json) |
 | Momotaro Dentetsu Jr.: Zenkoku Ramen Meguri no Maki | 64414 | [64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json](./64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json) |
 | Momotaro Dentetsu Kanto | 186776 | [186776-momotaro-dentetsu-kanto.json](./186776-momotaro-dentetsu-kanto.json) |
+| Momotaro Dentetsu Kinki | 186780 | [186780-momotaro-dentetsu-kinki.json](./186780-momotaro-dentetsu-kinki.json) |
 | Momotaro Dentetsu Kyushu | 186778 | [186778-momotaro-dentetsu-kyushu.json](./186778-momotaro-dentetsu-kyushu.json) |
 | Momotaro Dentetsu Setouchi | 186779 | [186779-momotaro-dentetsu-setouchi.json](./186779-momotaro-dentetsu-setouchi.json) |
+| Momotaro Dentetsu Shizuoka | 186782 | [186782-momotaro-dentetsu-shizuoka.json](./186782-momotaro-dentetsu-shizuoka.json) |
 | Momotaro Dentetsu Tag Match: Yuujou, Doryoku, Shouri no Maki! | 64403 | [64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json](./64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json) |
 | Momotaro Dentetsu Tohoku | 186774 | [186774-momotaro-dentetsu-tohoku.json](./186774-momotaro-dentetsu-tohoku.json) |
 | Momotaro Dentetsu Tohoku Deluxe | 186775 | [186775-momotaro-dentetsu-tohoku-deluxe.json](./186775-momotaro-dentetsu-tohoku-deluxe.json) |
+| Momotaro Dentetsu Tokai | 186783 | [186783-momotaro-dentetsu-tokai.json](./186783-momotaro-dentetsu-tokai.json) |
 | Momotaro Dentetsu Tokyo | 186768 | [186768-momotaro-dentetsu-tokyo.json](./186768-momotaro-dentetsu-tokyo.json) |
 | Momotaro Dentetsu USA | 64404 | [64404-momotaro-dentetsu-usa.json](./64404-momotaro-dentetsu-usa.json) |
 | Momotaro Dentetsu V | 64409 | [64409-momotaro-dentetsu-v.json](./64409-momotaro-dentetsu-v.json) |
+| Momotaro Dentetsu World | 186791 | [186791-momotaro-dentetsu-world.json](./186791-momotaro-dentetsu-world.json) |
 | Momotaro Dentetsu World | 64416 | [64416-momotaro-dentetsu-world.json](./64416-momotaro-dentetsu-world.json) |
 | Momotaro Dentetsu World Deluxe | 186772 | [186772-momotaro-dentetsu-world-deluxe.json](./186772-momotaro-dentetsu-world-deluxe.json) |
 | Momotaro Dentetsu World Remote Play | 186773 | [186773-momotaro-dentetsu-world-remote-play.json](./186773-momotaro-dentetsu-world-remote-play.json) |
@@ -19281,6 +19290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mostly Trash Sometimes Treasure | 364166 | [364166-mostly-trash-sometimes-treasure.json](./364166-mostly-trash-sometimes-treasure.json) |
 | Mostroscopy | 269231 | [269231-mostroscopy.json](./269231-mostroscopy.json) |
 | Mot | 78418 | [78418-mot.json](./78418-mot.json) |
+| Mot De Pass | 186801 | [186801-mot-de-pass.json](./186801-mot-de-pass.json) |
 | Mot's 8-Ball Pool | 374166 | [374166-mots-8-ball-pool.json](./374166-mots-8-ball-pool.json) |
 | Mot's Grand Prix | 293749 | [293749-mots-grand-prix.json](./293749-mots-grand-prix.json) |
 | Mota Must Die | 397248 | [397248-mota-must-die.json](./397248-mota-must-die.json) |
