@@ -6490,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Carnage Return | 294621 | [294621-maximum-carnage-return.json](./294621-maximum-carnage-return.json) |
 | Maximum Chase | 73607 | [73607-maximum-chase.json](./73607-maximum-chase.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
+| Maximum Clearance | 226457 | [226457-maximum-clearance.json](./226457-maximum-clearance.json) |
 | Maximum Damage | 53337 | [53337-maximum-damage.json](./53337-maximum-damage.json) |
 | Maximum Entertainment Horror Bundle | 313209 | [313209-maximum-entertainment-horror-bundle.json](./313209-maximum-entertainment-horror-bundle.json) |
 | Maximum Entertainment Puzzle Platformer Bundle | 313208 | [313208-maximum-entertainment-puzzle-platformer-bundle.json](./313208-maximum-entertainment-puzzle-platformer-bundle.json) |
@@ -10136,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Legends: The Founding | 235950 | [235950-merchant-legends-the-founding.json](./235950-merchant-legends-the-founding.json) |
 | Merchant Life | 281813 | [281813-merchant-life.json](./281813-merchant-life.json) |
 | Merchant Master | 262747 | [262747-merchant-master.json](./262747-merchant-master.json) |
+| Merchant of Bohemia | 226380 | [226380-merchant-of-bohemia.json](./226380-merchant-of-bohemia.json) |
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant of the Skies | 116056 | [116056-merchant-of-the-skies.json](./116056-merchant-of-the-skies.json) |
@@ -15054,6 +15056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
+| Missing Code | 226462 | [226462-missing-code.json](./226462-missing-code.json) |
 | Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
 | Missing Critters | 249903 | [249903-missing-critters.json](./249903-missing-critters.json) |
 | Missing Dots Matrix | 94702 | [94702-missing-dots-matrix.json](./94702-missing-dots-matrix.json) |
@@ -23341,6 +23344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyaoSoft Garake Collection | 212644 | [212644-myaosoft-garake-collection.json](./212644-myaosoft-garake-collection.json) |
 | Myar Aranath: Rellict of Kallidar | 307444 | [307444-myar-aranath-rellict-of-kallidar.json](./307444-myar-aranath-rellict-of-kallidar.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
+| Myasoid | 225988 | [225988-myasoid.json](./225988-myasoid.json) |
 | Myastere -Ruins of Deazniff- | 145211 | [145211-myastere-ruins-of-deazniff.json](./145211-myastere-ruins-of-deazniff.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | MyBot | 128218 | [128218-mybot.json](./128218-mybot.json) |
