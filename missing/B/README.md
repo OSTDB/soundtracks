@@ -8350,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
+| Big's Big World | 224874 | [224874-bigs-big-world.json](./224874-bigs-big-world.json) |
 | Big's Fishing | 198597 | [198597-bigs-fishing.json](./198597-bigs-fishing.json) |
 | Big's Fishing Derby | 129179 | [129179-bigs-fishing-derby.json](./129179-bigs-fishing-derby.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
@@ -14614,6 +14615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae: Deluxe Special Edition | 255522 | [255522-boreal-tenebrae-deluxe-special-edition.json](./255522-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Borealis | 17537 | [17537-borealis.json](./17537-borealis.json) |
+| Borealis Aberration | 224799 | [224799-borealis-aberration.json](./224799-borealis-aberration.json) |
 | Boreas | 258571 | [258571-boreas.json](./258571-boreas.json) |
 | Bored Meeting | 80262 | [80262-bored-meeting.json](./80262-bored-meeting.json) |
 | Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
