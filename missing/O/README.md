@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
 | Obéissance | 378586 | [378586-obeissance.json](./378586-obeissance.json) |
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
+| Obelisk | 242836 | [242836-obelisk.json](./242836-obelisk.json) |
 | Obelisk | 244975 | [244975-obelisk.json](./244975-obelisk.json) |
 | Obelisk | 391668 | [391668-obelisk.json](./391668-obelisk.json) |
 | Obelix | 71703 | [71703-obelix.json](./71703-obelix.json) |
@@ -2364,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Box, Blue Box | 364278 | [364278-one-box-blue-box.json](./364278-one-box-blue-box.json) |
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
+| One Button Bob | 242830 | [242830-one-button-bob.json](./242830-one-button-bob.json) |
 | One Button Defense | 365252 | [365252-one-button-defense.json](./365252-one-button-defense.json) |
 | One Button Duel | 176584 | [176584-one-button-duel.json](./176584-one-button-duel.json) |
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
@@ -2874,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Star | 28700 | [28700-one-star.json](./28700-one-star.json) |
 | One Step After Fall | 193617 | [193617-one-step-after-fall.json](./193617-one-step-after-fall.json) |
 | One Step Away | 207588 | [207588-one-step-away.json](./207588-one-step-away.json) |
+| One Step Back | 242833 | [242833-one-step-back.json](./242833-one-step-back.json) |
 | One Step Further | 348820 | [348820-one-step-further.json](./348820-one-step-further.json) |
 | One Step to Paradise | 244621 | [244621-one-step-to-paradise.json](./244621-one-step-to-paradise.json) |
 | One Step to Rest | 306786 | [306786-one-step-to-rest.json](./306786-one-step-to-rest.json) |
