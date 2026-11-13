@@ -13129,6 +13129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbleverse: Holiday Demon Pack | 231013 | [231013-rumbleverse-holiday-demon-pack.json](./231013-rumbleverse-holiday-demon-pack.json) |
+| Rumbleverse: Season Two | 243908 | [243908-rumbleverse-season-two.json](./243908-rumbleverse-season-two.json) |
 | Rumbly | 344294 | [344294-rumbly.json](./344294-rumbly.json) |
 | Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
