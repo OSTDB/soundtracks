@@ -4004,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
+| Feed All Monsters | 190185 | [190185-feed-all-monsters.json](./190185-feed-all-monsters.json) |
 | Feed and Battle: Grow Fish | 88930 | [88930-feed-and-battle-grow-fish.json](./88930-feed-and-battle-grow-fish.json) |
 | Feed and Grow Survival Fish | 174957 | [174957-feed-and-grow-survival-fish.json](./174957-feed-and-grow-survival-fish.json) |
 | Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
