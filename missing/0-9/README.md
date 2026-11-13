@@ -1728,7 +1728,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Street Dance + Hit Mouse | 247294 | [247294-2-in-1-street-dance-hit-mouse.json](./247294-2-in-1-street-dance-hit-mouse.json) |
 | 2-in-1: Meine Tierpension + Meine Tiersprechstunde | 178776 | [178776-2-in-1-meine-tierpension-meine-tiersprechstunde.json](./178776-2-in-1-meine-tierpension-meine-tiersprechstunde.json) |
 | 2-taku de Bishoujo Game | 214377 | [214377-2-taku-de-bishoujo-game.json](./214377-2-taku-de-bishoujo-game.json) |
+| 2-taku de Dasshutsu Game | 220300 | [220300-2-taku-de-dasshutsu-game.json](./220300-2-taku-de-dasshutsu-game.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
+| 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
 | 2–3 Years in Grindstan | 358072 | [358072-2-3-years-in-grindstan.json](./358072-2-3-years-in-grindstan.json) |
 | 2,4D Game | 358077 | [358077-2-4d-game.json](./358077-2-4d-game.json) |
 | 2: A Game About Everyone's Favourite Sorting System! | 181739 | [181739-2-a-game-about-everyones-favourite-sorting-system.json](./181739-2-a-game-about-everyones-favourite-sorting-system.json) |
