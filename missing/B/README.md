@@ -13720,6 +13720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Party | 261609 | [261609-bomber-party.json](./261609-bomber-party.json) |
 | Bomber Party: Anime Avatars | 274952 | [274952-bomber-party-anime-avatars.json](./274952-bomber-party-anime-avatars.json) |
 | Bomber Party: Cute Anime Creatures Avatar | 274953 | [274953-bomber-party-cute-anime-creatures-avatar.json](./274953-bomber-party-cute-anime-creatures-avatar.json) |
+| Bomber Quest | 210772 | [210772-bomber-quest.json](./210772-bomber-quest.json) |
 | Bomber Raid | 45662 | [45662-bomber-raid.json](./45662-bomber-raid.json) |
 | Bomber Royale | 303349 | [303349-bomber-royale.json](./303349-bomber-royale.json) |
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
@@ -16000,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
 | Brasília Defense | 404817 | [404817-brasilia-defense.json](./404817-brasilia-defense.json) |
+| BraSonic | 210756 | [210756-brasonic.json](./210756-brasonic.json) |
 | BraSonic 2 | 326825 | [326825-brasonic-2.json](./326825-brasonic-2.json) |
 | Brass | 302431 | [302431-brass.json](./302431-brass.json) |
 | Brass | 68443 | [68443-brass.json](./68443-brass.json) |
