@@ -5291,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathroids | 166907 | [166907-deathroids.json](./166907-deathroids.json) |
 | DeathRoll | 307000 | [307000-deathroll.json](./307000-deathroll.json) |
+| Deathroned | 182559 | [182559-deathroned.json](./182559-deathroned.json) |
 | Deathrow | 5811 | [5811-deathrow.json](./5811-deathrow.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun | 361030 | [361030-deathrun.json](./361030-deathrun.json) |
@@ -5734,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Core | 12568 | [12568-deep-core.json](./12568-deep-core.json) |
 | Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
+| Deep Cover | 182957 | [182957-deep-cover.json](./182957-deep-cover.json) |
 | Deep Crafter | 318306 | [318306-deep-crafter.json](./318306-deep-crafter.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Cuts | 306937 | [306937-deep-cuts.json](./306937-deep-cuts.json) |
@@ -18206,6 +18208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting Car Stunter | 296876 | [296876-drifting-car-stunter.json](./296876-drifting-car-stunter.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
+| Drifting Hearts | 182952 | [182952-drifting-hearts.json](./182952-drifting-hearts.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | DriftKing 2D | 135464 | [135464-driftking-2d.json](./135464-driftking-2d.json) |
@@ -20870,6 +20873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
 | Duty: Lost Arcadia | 380591 | [380591-duty-lost-arcadia.json](./380591-duty-lost-arcadia.json) |
 | Duval Dash | 80086 | [80086-duval-dash.json](./80086-duval-dash.json) |
+| Duvet | 182431 | [182431-duvet.json](./182431-duvet.json) |
 | Dux | 68409 | [68409-dux.json](./68409-dux.json) |
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
 | DVD Dancemachine DVT-F800 | 245697 | [245697-dvd-dancemachine-dvt-f800.json](./245697-dvd-dancemachine-dvt-f800.json) |
