@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbon | 304533 | [304533-carbon.json](./304533-carbon.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
+| Carbon Steel | 227567 | [227567-carbon-steel.json](./227567-carbon-steel.json) |
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
@@ -3514,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarVup | 11993 | [11993-carvup.json](./11993-carvup.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
+| Carwash: Trucks | 227559 | [227559-carwash-trucks.json](./227559-carwash-trucks.json) |
 | CarX Drift Racing | 88872 | [88872-carx-drift-racing.json](./88872-carx-drift-racing.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing 3 | 329420 | [329420-carx-drift-racing-3.json](./329420-carx-drift-racing-3.json) |
