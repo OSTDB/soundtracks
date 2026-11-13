@@ -13457,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pontifex 2 | 94472 | [94472-pontifex-2.json](./94472-pontifex-2.json) |
 | Pony Arcadia | 273267 | [273267-pony-arcadia.json](./273267-pony-arcadia.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
+| Pony City | 228172 | [228172-pony-city.json](./228172-pony-city.json) |
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
 | Pony Dash | 87901 | [87901-pony-dash.json](./87901-pony-dash.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
