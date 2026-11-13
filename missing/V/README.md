@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
 | Verkehrsspiele 1 | 283016 | [283016-verkehrsspiele-1.json](./283016-verkehrsspiele-1.json) |
 | Verkehrsspiele 2 | 283017 | [283017-verkehrsspiele-2.json](./283017-verkehrsspiele-2.json) |
+| Verlängerung: The Game | 241086 | [241086-verlangerung-the-game.json](./241086-verlangerung-the-game.json) |
 | Verlet Ascend | 213560 | [213560-verlet-ascend.json](./213560-verlet-ascend.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
@@ -2056,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Colossus of the South | 273972 | [273972-victoria-3-colossus-of-the-south.json](./273972-victoria-3-colossus-of-the-south.json) |
 | Victoria 3: Dawn of Wonder | 258894 | [258894-victoria-3-dawn-of-wonder.json](./258894-victoria-3-dawn-of-wonder.json) |
 | Victoria 3: Day One Edition | 218886 | [218886-victoria-3-day-one-edition.json](./218886-victoria-3-day-one-edition.json) |
+| Victoria 3: Grand Edition | 241091 | [241091-victoria-3-grand-edition.json](./241091-victoria-3-grand-edition.json) |
 | Victoria 3: Melodies for the Masses Music Pack | 258892 | [258892-victoria-3-melodies-for-the-masses-music-pack.json](./258892-victoria-3-melodies-for-the-masses-music-pack.json) |
 | Victoria 3: Pivot of Empire | 419167 | [419167-victoria-3-pivot-of-empire.json](./419167-victoria-3-pivot-of-empire.json) |
 | Victoria 3: Sphere of Influence | 258893 | [258893-victoria-3-sphere-of-influence.json](./258893-victoria-3-sphere-of-influence.json) |
