@@ -3903,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recompile | 115915 | [115915-recompile.json](./115915-recompile.json) |
 | Recon Bracks | 397284 | [397284-recon-bracks.json](./397284-recon-bracks.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
+| Recon in Force | 233729 | [233729-recon-in-force.json](./233729-recon-in-force.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
 | Recondite: The Phantasm Emporium | 176606 | [176606-recondite-the-phantasm-emporium.json](./176606-recondite-the-phantasm-emporium.json) |
@@ -10955,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Stargun | 292270 | [292270-rogue-stargun.json](./292270-rogue-stargun.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
 | Rogue State Revolution | 122070 | [122070-rogue-state-revolution.json](./122070-rogue-state-revolution.json) |
+| Rogue Station | 233668 | [233668-rogue-station.json](./233668-rogue-station.json) |
 | Rogue Station Defense | 318347 | [318347-rogue-station-defense.json](./318347-rogue-station-defense.json) |
 | Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
 | Rogue Suits | 423228 | [423228-rogue-suits.json](./423228-rogue-suits.json) |
@@ -12579,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Alchemy | 258092 | [258092-rpg-alchemy.json](./258092-rpg-alchemy.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
 | RPG Alchemy: Spell I | 308835 | [308835-rpg-alchemy-spell-i.json](./308835-rpg-alchemy-spell-i.json) |
+| RPG Architect | 233276 | [233276-rpg-architect.json](./233276-rpg-architect.json) |
 | RPG Boss Battle | 104441 | [104441-rpg-boss-battle.json](./104441-rpg-boss-battle.json) |
 | RPG Bundle | 263559 | [263559-rpg-bundle.json](./263559-rpg-bundle.json) |
 | RPG Chess | 325336 | [325336-rpg-chess.json](./325336-rpg-chess.json) |
