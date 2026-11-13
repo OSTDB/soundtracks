@@ -6608,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Card War | 148995 | [148995-goddess-of-card-war.json](./148995-goddess-of-card-war.json) |
 | Goddess of Card War 2 | 202518 | [202518-goddess-of-card-war-2.json](./202518-goddess-of-card-war-2.json) |
 | Goddess of Card War 2: DLC-1 | 204032 | [204032-goddess-of-card-war-2-dlc-1.json](./204032-goddess-of-card-war-2-dlc-1.json) |
+| Goddess of Card War 2: DLC-2 | 204012 | [204012-goddess-of-card-war-2-dlc-2.json](./204012-goddess-of-card-war-2-dlc-2.json) |
 | Goddess of Card War: DLC-1 | 170420 | [170420-goddess-of-card-war-dlc-1.json](./170420-goddess-of-card-war-dlc-1.json) |
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate | 370054 | [370054-goddess-of-fate.json](./370054-goddess-of-fate.json) |
@@ -10258,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim-chan's Soul Fight | 349177 | [349177-grim-chans-soul-fight.json](./349177-grim-chans-soul-fight.json) |
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim: Mystery of Wasules | 82719 | [82719-grim-mystery-of-wasules.json](./82719-grim-mystery-of-wasules.json) |
+| Grim's Downfall | 203469 | [203469-grims-downfall.json](./203469-grims-downfall.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grim's Princess | 299602 | [299602-grims-princess.json](./299602-grims-princess.json) |
 | Grimace Drop | 272056 | [272056-grimace-drop.json](./272056-grimace-drop.json) |
