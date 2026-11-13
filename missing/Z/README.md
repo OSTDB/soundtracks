@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | ZetaZania Part 1: Vampire Pirates from Uranus | 336871 | [336871-zetazania-part-1-vampire-pirates-from-uranus.json](./336871-zetazania-part-1-vampire-pirates-from-uranus.json) |
 | Zether | 111582 | [111582-zether.json](./111582-zether.json) |
+| Zetria | 199554 | [199554-zetria.json](./199554-zetria.json) |
 | Zetrya: Dungeon Dive | 406138 | [406138-zetrya-dungeon-dive.json](./406138-zetrya-dungeon-dive.json) |
 | Zetsubou Prison | 123778 | [123778-zetsubou-prison.json](./123778-zetsubou-prison.json) |
 | Zettai Fukujuu Princess ~Kijoku Kakumeiroku~ | 133263 | [133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json](./133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json) |
