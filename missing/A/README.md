@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
 | A Doll in a Dream | 409864 | [409864-a-doll-in-a-dream.json](./409864-a-doll-in-a-dream.json) |
+| A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Doomer Boards Christmas Carol | 257183 | [257183-a-doomer-boards-christmas-carol.json](./257183-a-doomer-boards-christmas-carol.json) |
 | A dragon girl looks up at the endless sky | 33166 | [33166-a-dragon-girl-looks-up-at-the-endless-sky.json](./33166-a-dragon-girl-looks-up-at-the-endless-sky.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
@@ -11614,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
 | Anno 1800: Console Edition | 231778 | [231778-anno-1800-console-edition.json](./231778-anno-1800-console-edition.json) |
+| Anno 1800: Console Edition - Deluxe Edition | 241080 | [241080-anno-1800-console-edition-deluxe-edition.json](./241080-anno-1800-console-edition-deluxe-edition.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
 | Anno 1800: Cosmetic Pack Bundle 2 | 272643 | [272643-anno-1800-cosmetic-pack-bundle-2.json](./272643-anno-1800-cosmetic-pack-bundle-2.json) |
 | Anno 1800: Definitive Annoversary Edition | 272687 | [272687-anno-1800-definitive-annoversary-edition.json](./272687-anno-1800-definitive-annoversary-edition.json) |
