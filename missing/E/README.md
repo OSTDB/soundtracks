@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
 | Eloh | 123674 | [123674-eloh.json](./123674-eloh.json) |
 | Elohim Eternal: Exodus | 339741 | [339741-elohim-eternal-exodus.json](./339741-elohim-eternal-exodus.json) |
+| Elohim Eternal: Prologue | 209228 | [209228-elohim-eternal-prologue.json](./209228-elohim-eternal-prologue.json) |
 | Elohim Eternal: The Babel Code | 190358 | [190358-elohim-eternal-the-babel-code.json](./190358-elohim-eternal-the-babel-code.json) |
 | Elon | 193572 | [193572-elon.json](./193572-elon.json) |
 | Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
