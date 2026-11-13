@@ -10380,6 +10380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | RocketGO | 112580 | [112580-rocketgo.json](./112580-rocketgo.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
+| Rocketio | 219182 | [219182-rocketio.json](./219182-rocketio.json) |
 | Rocketio 2 | 225962 | [225962-rocketio-2.json](./225962-rocketio-2.json) |
 | Rocketio 3 | 228925 | [228925-rocketio-3.json](./228925-rocketio-3.json) |
 | Rocketman | 261663 | [261663-rocketman.json](./261663-rocketman.json) |
