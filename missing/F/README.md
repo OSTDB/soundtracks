@@ -9179,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
 | Flowers by Powgi | 106893 | [106893-flowers-by-powgi.json](./106893-flowers-by-powgi.json) |
 | Flowers for Time | 181191 | [181191-flowers-for-time.json](./181191-flowers-for-time.json) |
+| Flowers for You | 185173 | [185173-flowers-for-you.json](./185173-flowers-for-you.json) |
 | Flowers for You | 330895 | [330895-flowers-for-you.json](./330895-flowers-for-you.json) |
 | Flowers Garden Solitaire | 284558 | [284558-flowers-garden-solitaire.json](./284558-flowers-garden-solitaire.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
@@ -9232,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Fluff's Adventure: A Tale of Fur and Steel | 303992 | [303992-fluffs-adventure-a-tale-of-fur-and-steel.json](./303992-fluffs-adventure-a-tale-of-fur-and-steel.json) |
+| Fluffhood's Adventure | 185168 | [185168-fluffhoods-adventure.json](./185168-fluffhoods-adventure.json) |
 | Fluffland | 183421 | [183421-fluffland.json](./183421-fluffland.json) |
 | Fluffles Rainy Day | 280027 | [280027-fluffles-rainy-day.json](./280027-fluffles-rainy-day.json) |
 | Fluffquake Fury | 340087 | [340087-fluffquake-fury.json](./340087-fluffquake-fury.json) |
@@ -12035,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt | 44984 | [44984-fox-hunt.json](./44984-fox-hunt.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
+| Fox in the Hollyhocks | 185177 | [185177-fox-in-the-hollyhocks.json](./185177-fox-in-the-hollyhocks.json) |
 | Fox in the Woods | 164936 | [164936-fox-in-the-woods.json](./164936-fox-in-the-woods.json) |
 | Fox Jones and the Treasures of el Dorado | 66553 | [66553-fox-jones-and-the-treasures-of-el-dorado.json](./66553-fox-jones-and-the-treasures-of-el-dorado.json) |
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
