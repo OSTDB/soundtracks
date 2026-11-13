@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
 | Call of Duty: Deluxe Edition | 285392 | [285392-call-of-duty-deluxe-edition.json](./285392-call-of-duty-deluxe-edition.json) |
+| Call of Duty: Devil's Brigade | 200078 | [200078-call-of-duty-devils-brigade.json](./200078-call-of-duty-devils-brigade.json) |
 | Call of Duty: Endowment - Protector Pack | 263266 | [263266-call-of-duty-endowment-protector-pack.json](./263266-call-of-duty-endowment-protector-pack.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Party Collection: 3 in 1 | 324201 | [324201-cartoon-party-collection-3-in-1.json](./324201-cartoon-party-collection-3-in-1.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Puzzler Bundle | 164728 | [164728-cartoon-puzzler-bundle.json](./164728-cartoon-puzzler-bundle.json) |
+| Cartoon Racing Ultimate | 200089 | [200089-cartoon-racing-ultimate.json](./200089-cartoon-racing-ultimate.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
 | Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
 | Cartoon Sprint 2 | 237739 | [237739-cartoon-sprint-2.json](./237739-cartoon-sprint-2.json) |
@@ -7915,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
+| Chicken Pox: Scrambled Eggs! | 200074 | [200074-chicken-pox-scrambled-eggs.json](./200074-chicken-pox-scrambled-eggs.json) |
 | Chicken Ranch | 150813 | [150813-chicken-ranch.json](./150813-chicken-ranch.json) |
 | Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
@@ -10755,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Talons | 135570 | [135570-clash-of-the-talons.json](./135570-clash-of-the-talons.json) |
 | Clash of the Titans: The Videogame | 6938 | [6938-clash-of-the-titans-the-videogame.json](./6938-clash-of-the-titans-the-videogame.json) |
 | Clash of the Undead | 231863 | [231863-clash-of-the-undead.json](./231863-clash-of-the-undead.json) |
+| Clash of Titans | 199952 | [199952-clash-of-titans.json](./199952-clash-of-titans.json) |
 | Clash of Ultimate Fighters | 236984 | [236984-clash-of-ultimate-fighters.json](./236984-clash-of-ultimate-fighters.json) |
 | Clash of Vessels VR | 29440 | [29440-clash-of-vessels-vr.json](./29440-clash-of-vessels-vr.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
@@ -17346,6 +17350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys vs. Zombies: Gold Edition | 413575 | [413575-cowboys-vs-zombies-gold-edition.json](./413575-cowboys-vs-zombies-gold-edition.json) |
 | Cowboys, Vampires, Pirates & Ghosts | 147030 | [147030-cowboys-vampires-pirates-and-ghosts.json](./147030-cowboys-vampires-pirates-and-ghosts.json) |
 | Cowculanes | 175377 | [175377-cowculanes.json](./175377-cowculanes.json) |
+| Cower and Tremble | 200071 | [200071-cower-and-tremble.json](./200071-cower-and-tremble.json) |
 | Cowgirl Adventures | 212202 | [212202-cowgirl-adventures.json](./212202-cowgirl-adventures.json) |
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
 | Cowgirl Maid Milk Cafe | 417392 | [417392-cowgirl-maid-milk-cafe.json](./417392-cowgirl-maid-milk-cafe.json) |
