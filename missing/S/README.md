@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Maribel | 206284 | [206284-saint-maribel.json](./206284-saint-maribel.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
 | Saint Paradise: Saikyou no Senshi-tachi | 49099 | [49099-saint-paradise-saikyou-no-senshi-tachi.json](./49099-saint-paradise-saikyou-no-senshi-tachi.json) |
+| Saint Patrick's Day Break | 188146 | [188146-saint-patricks-day-break.json](./188146-saint-patricks-day-break.json) |
 | Saint Patrick's Day Break 2 Head to Head | 194360 | [194360-saint-patricks-day-break-2-head-to-head.json](./194360-saint-patricks-day-break-2-head-to-head.json) |
 | Saint Patrick's Day Break Head to Head | 210390 | [210390-saint-patricks-day-break-head-to-head.json](./210390-saint-patricks-day-break-head-to-head.json) |
 | Saint Patrick's Day Run | 194368 | [194368-saint-patricks-day-run.json](./194368-saint-patricks-day-run.json) |
@@ -6991,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Wheel | 385226 | [385226-sex-wheel.json](./385226-sex-wheel.json) |
 | Sex With Friends | 367048 | [367048-sex-with-friends.json](./367048-sex-with-friends.json) |
 | Sex With Hand | 385234 | [385234-sex-with-hand.json](./385234-sex-with-hand.json) |
+| Sex With Hitler | 188141 | [188141-sex-with-hitler.json](./188141-sex-with-hitler.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with Stalin | 142719 | [142719-sex-with-stalin.json](./142719-sex-with-stalin.json) |
 | Sex With Succubus | 389753 | [389753-sex-with-succubus.json](./389753-sex-with-succubus.json) |
@@ -10442,6 +10444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
 | Showdown | 142025 | [142025-showdown.json](./142025-showdown.json) |
+| Showdown | 188541 | [188541-showdown.json](./188541-showdown.json) |
 | Showdown | 28525 | [28525-showdown.json](./28525-showdown.json) |
 | Showdown | 70804 | [70804-showdown.json](./70804-showdown.json) |
 | Showdown 64 | 256674 | [256674-showdown-64.json](./256674-showdown-64.json) |
@@ -16608,6 +16611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
 | Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
+| Sniper | 188149 | [188149-sniper.json](./188149-sniper.json) |
 | Sniper | 195845 | [195845-sniper.json](./195845-sniper.json) |
 | Sniper | 287559 | [287559-sniper.json](./287559-sniper.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
@@ -37945,6 +37949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
 | Sushi Race | 302005 | [302005-sushi-race.json](./302005-sushi-race.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
+| Sushi Run | 188140 | [188140-sushi-run.json](./188140-sushi-run.json) |
 | Sushi Rush | 200844 | [200844-sushi-rush.json](./200844-sushi-rush.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
 | Sushi Shot Online | 291655 | [291655-sushi-shot-online.json](./291655-sushi-shot-online.json) |
