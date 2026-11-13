@@ -8003,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 Mobile | 103892 | [103892-mega-man-2-mobile.json](./103892-mega-man-2-mobile.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2 Revamped | 391133 | [391133-mega-man-2-revamped.json](./391133-mega-man-2-revamped.json) |
+| Mega Man 2: Atari De-Make | 242748 | [242748-mega-man-2-atari-de-make.json](./242748-mega-man-2-atari-de-make.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 2.5D | 27306 | [27306-mega-man-2-5d.json](./27306-mega-man-2-5d.json) |
 | Mega Man 3 | 1716 | [1716-mega-man-3.json](./1716-mega-man-3.json) |
