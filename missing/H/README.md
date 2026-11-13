@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerting | 119217 | [119217-hammerting.json](./119217-hammerting.json) |
 | Hammerwatch II | 245805 | [245805-hammerwatch-ii.json](./245805-hammerwatch-ii.json) |
 | Hammerwatch II: Anniversary Pack | 280576 | [280576-hammerwatch-ii-anniversary-pack.json](./280576-hammerwatch-ii-anniversary-pack.json) |
+| Hammerwatch II: The Chronicles Edition | 243872 | [243872-hammerwatch-ii-the-chronicles-edition.json](./243872-hammerwatch-ii-the-chronicles-edition.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
 | Hammerwatch: Heroic Bundle | 164663 | [164663-hammerwatch-heroic-bundle.json](./164663-hammerwatch-heroic-bundle.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
@@ -2080,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
+| Hard to Make a Romantic Cartoon! | 243875 | [243875-hard-to-make-a-romantic-cartoon.json](./243875-hard-to-make-a-romantic-cartoon.json) |
 | Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
 | Hard Truck 2 | 367352 | [367352-hard-truck-2.json](./367352-hard-truck-2.json) |
 | Hard Truck 2: King of the Road | 36987 | [36987-hard-truck-2-king-of-the-road.json](./36987-hard-truck-2-king-of-the-road.json) |
@@ -3747,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
+| Heartland | 243915 | [243915-heartland.json](./243915-heartland.json) |
 | Heartland | 249049 | [249049-heartland.json](./249049-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
 | Heartland Frontier | 176182 | [176182-heartland-frontier.json](./176182-heartland-frontier.json) |
@@ -6703,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
 | Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
 | Heroes of Loot 2 | 33596 | [33596-heroes-of-loot-2.json](./33596-heroes-of-loot-2.json) |
+| Heroes of Loot: Gauntlet of Power | 243874 | [243874-heroes-of-loot-gauntlet-of-power.json](./243874-heroes-of-loot-gauntlet-of-power.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic and Steel | 376660 | [376660-heroes-of-magic-and-steel.json](./376660-heroes-of-magic-and-steel.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
@@ -9963,12 +9967,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Again | 333225 | [333225-home-again.json](./333225-home-again.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
 | Home Alone | 217672 | [217672-home-alone.json](./217672-home-alone.json) |
+| Home Alone | 243888 | [243888-home-alone.json](./243888-home-alone.json) |
 | Home Alone | 243889 | [243889-home-alone.json](./243889-home-alone.json) |
+| Home Alone | 243890 | [243890-home-alone.json](./243890-home-alone.json) |
+| Home Alone | 243891 | [243891-home-alone.json](./243891-home-alone.json) |
 | Home Alone | 4523 | [4523-home-alone.json](./4523-home-alone.json) |
 | Home Alone | 78598 | [78598-home-alone.json](./78598-home-alone.json) |
 | Home Alone | 78599 | [78599-home-alone.json](./78599-home-alone.json) |
 | Home Alone 2: Lost in New York | 198762 | [198762-home-alone-2-lost-in-new-york.json](./198762-home-alone-2-lost-in-new-york.json) |
+| Home Alone 2: Lost in New York | 243882 | [243882-home-alone-2-lost-in-new-york.json](./243882-home-alone-2-lost-in-new-york.json) |
+| Home Alone 2: Lost in New York | 243883 | [243883-home-alone-2-lost-in-new-york.json](./243883-home-alone-2-lost-in-new-york.json) |
 | Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
+| Home Alone 2: Lost in New York | 243885 | [243885-home-alone-2-lost-in-new-york.json](./243885-home-alone-2-lost-in-new-york.json) |
 | Home Alone Girlfriend | 76943 | [76943-home-alone-girlfriend.json](./76943-home-alone-girlfriend.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home and Dungeon | 156786 | [156786-home-and-dungeon.json](./156786-home-and-dungeon.json) |
