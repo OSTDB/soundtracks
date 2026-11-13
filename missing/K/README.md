@@ -3061,7 +3061,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4232,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
 | Kirubiru | 93420 | [93420-kirubiru.json](./93420-kirubiru.json) |
 | Kirugakuen | 382803 | [382803-kirugakuen.json](./382803-kirugakuen.json) |
+| Kisan Smart Farmer | 221461 | [221461-kisan-smart-farmer.json](./221461-kisan-smart-farmer.json) |
 | Kisaragi | 385512 | [385512-kisaragi.json](./385512-kisaragi.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kisaragi no Hougyoku | 32132 | [32132-kisaragi-no-hougyoku.json](./32132-kisaragi-no-hougyoku.json) |
@@ -6102,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training 2 | 56215 | [56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json](./56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
+| Kouenji Joshi Soccer 3: Koisuru Eleven Itsuka ha Heaven | 221450 | [221450-kouenji-joshi-soccer-3-koisuru-eleven-itsuka-ha-heaven.json](./221450-kouenji-joshi-soccer-3-koisuru-eleven-itsuka-ha-heaven.json) |
 | Koufuku Sousakan | 183372 | [183372-koufuku-sousakan.json](./183372-koufuku-sousakan.json) |
 | Koufuku wo Yobu Game: Dora Dora Dora | 48789 | [48789-koufuku-wo-yobu-game-dora-dora-dora.json](./48789-koufuku-wo-yobu-game-dora-dora-dora.json) |
 | Kouhai Mario 2 | 268340 | [268340-kouhai-mario-2.json](./268340-kouhai-mario-2.json) |
