@@ -5982,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
+| Escape Logan Estate | 190127 | [190127-escape-logan-estate.json](./190127-escape-logan-estate.json) |
 | Escape Machine City: Airborne | 144824 | [144824-escape-machine-city-airborne.json](./144824-escape-machine-city-airborne.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
 | Escape Master | 193240 | [193240-escape-master.json](./193240-escape-master.json) |
