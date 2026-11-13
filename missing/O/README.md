@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okashi na Shima no Peter Pan: Sweet Never Land | 218955 | [218955-okashi-na-shima-no-peter-pan-sweet-never-land.json](./218955-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Okashi Towers | 254991 | [254991-okashi-towers.json](./254991-okashi-towers.json) |
 | Okay, Panic! | 120051 | [120051-okay-panic.json](./120051-okay-panic.json) |
+| Okay? | 198402 | [198402-okay.json](./198402-okay.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okeānija | 410758 | [410758-okeanija.json](./410758-okeanija.json) |
@@ -5314,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Worst Fears | 110610 | [110610-our-worst-fears.json](./110610-our-worst-fears.json) |
 | Our: Defense 2021 | 195900 | [195900-our-defense-2021.json](./195900-our-defense-2021.json) |
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
+| Ouran High School Host Club DS | 198406 | [198406-ouran-high-school-host-club-ds.json](./198406-ouran-high-school-host-club-ds.json) |
 | Ouranos! | 58567 | [58567-ouranos.json](./58567-ouranos.json) |
 | Ourath: A Place in Peace | 389191 | [389191-ourath-a-place-in-peace.json](./389191-ourath-a-place-in-peace.json) |
 | Oure | 75237 | [75237-oure.json](./75237-oure.json) |
