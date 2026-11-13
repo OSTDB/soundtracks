@@ -17013,6 +17013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickgame | 307035 | [307035-brickgame.json](./307035-brickgame.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
+| Brickin | 175871 | [175871-brickin.json](./175871-brickin.json) |
 | Bricking Bots | 303379 | [303379-bricking-bots.json](./303379-bricking-bots.json) |
 | Bricking in America | 90430 | [90430-bricking-in-america.json](./90430-bricking-in-america.json) |
 | Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
@@ -19927,6 +19928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Game: Monopolist | 104406 | [104406-business-game-monopolist.json](./104406-business-game-monopolist.json) |
 | Business Heroes: Street Grub | 136088 | [136088-business-heroes-street-grub.json](./136088-business-heroes-street-grub.json) |
+| Business Inc. 3D Simulator | 175450 | [175450-business-inc-3d-simulator.json](./175450-business-inc-3d-simulator.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
 | Business Man 2000 | 69933 | [69933-business-man-2000.json](./69933-business-man-2000.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
