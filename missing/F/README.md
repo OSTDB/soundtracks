@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallopian Frenzy! Come Again? | 301226 | [301226-fallopian-frenzy-come-again.json](./301226-fallopian-frenzy-come-again.json) |
 | Fallosophy | 379952 | [379952-fallosophy.json](./379952-fallosophy.json) |
 | Fallout 1.5: Resurrection | 237828 | [237828-fallout-1-5-resurrection.json](./237828-fallout-1-5-resurrection.json) |
+| Fallout 2 Remake | 229978 | [229978-fallout-2-remake.json](./229978-fallout-2-remake.json) |
 | Fallout 2 Restoration Project Updated | 416640 | [416640-fallout-2-restoration-project-updated.json](./416640-fallout-2-restoration-project-updated.json) |
 | Fallout 3 / Oblivion Duo Pack | 171798 | [171798-fallout-3-oblivion-duo-pack.json](./171798-fallout-3-oblivion-duo-pack.json) |
 | Fallout 3: Broken Steel and Point Lookout | 202169 | [202169-fallout-3-broken-steel-and-point-lookout.json](./202169-fallout-3-broken-steel-and-point-lookout.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
 | Fallout: Brotherhood of Steel | 7412 | [7412-fallout-brotherhood-of-steel.json](./7412-fallout-brotherhood-of-steel.json) |
 | Fallout: Brotherhood of Steel 2 | 12509 | [12509-fallout-brotherhood-of-steel-2.json](./12509-fallout-brotherhood-of-steel-2.json) |
+| Fallout: Cascadia | 229981 | [229981-fallout-cascadia.json](./229981-fallout-cascadia.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
 | Fallout: Legacy Collection | 122725 | [122725-fallout-legacy-collection.json](./122725-fallout-legacy-collection.json) |
@@ -14727,6 +14729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
 | Funny UFOs Scene Creator | 396688 | [396688-funny-ufos-scene-creator.json](./396688-funny-ufos-scene-creator.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
+| Funny Walk | 230012 | [230012-funny-walk.json](./230012-funny-walk.json) |
 | Funny Wings VR | 86676 | [86676-funny-wings-vr.json](./86676-funny-wings-vr.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
