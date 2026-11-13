@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Level | 267956 | [267956-i-am-level.json](./267956-i-am-level.json) |
 | I am Lost | 285252 | [285252-i-am-lost.json](./285252-i-am-lost.json) |
 | I am Machine | 371877 | [371877-i-am-machine.json](./371877-i-am-machine.json) |
+| I am Magicami | 172840 | [172840-i-am-magicami.json](./172840-i-am-magicami.json) |
 | I Am Marble | 194058 | [194058-i-am-marble.json](./194058-i-am-marble.json) |
 | I Am Monkey | 372054 | [372054-i-am-monkey.json](./372054-i-am-monkey.json) |
 | I Am Mouse | 197085 | [197085-i-am-mouse.json](./197085-i-am-mouse.json) |
