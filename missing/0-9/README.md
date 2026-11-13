@@ -3481,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Stories | 147319 | [147319-7-stories.json](./147319-7-stories.json) |
 | 7 Summer Days: Youth sky | 171422 | [171422-7-summer-days-youth-sky.json](./171422-7-summer-days-youth-sky.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
+| 7 Wonders Duel | 214649 | [214649-7-wonders-duel.json](./214649-7-wonders-duel.json) |
 | 7 Wonders II | 4634 | [4634-7-wonders-ii.json](./4634-7-wonders-ii.json) |
 | 7 Wonders of the Ancient World | 4629 | [4629-7-wonders-of-the-ancient-world.json](./4629-7-wonders-of-the-ancient-world.json) |
 | 7 Wonders Trilogy | 281805 | [281805-7-wonders-trilogy.json](./281805-7-wonders-trilogy.json) |
