@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Quintana Roo | 12317 | [12317-quest-for-quintana-roo.json](./12317-quest-for-quintana-roo.json) |
 | Quest for Runia | 160106 | [160106-quest-for-runia.json](./160106-quest-for-runia.json) |
 | Quest for Saddam | 209746 | [209746-quest-for-saddam.json](./209746-quest-for-saddam.json) |
+| Quest for Sarah | 242838 | [242838-quest-for-sarah.json](./242838-quest-for-sarah.json) |
 | Quest for Tanda | 229905 | [229905-quest-for-tanda.json](./229905-quest-for-tanda.json) |
 | Quest for the Book of Truth | 181207 | [181207-quest-for-the-book-of-truth.json](./181207-quest-for-the-book-of-truth.json) |
 | Quest for the Code | 185633 | [185633-quest-for-the-code.json](./185633-quest-for-the-code.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Show | 79378 | [79378-quiz-show.json](./79378-quiz-show.json) |
 | Quiz Shukudai o Wasuremashita! | 125568 | [125568-quiz-shukudai-o-wasuremashita.json](./125568-quiz-shukudai-o-wasuremashita.json) |
 | Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
+| Quiz Thiz Croatia | 242755 | [242755-quiz-thiz-croatia.json](./242755-quiz-thiz-croatia.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
 | Quiz Thiz France: Bronze Edition | 230776 | [230776-quiz-thiz-france-bronze-edition.json](./230776-quiz-thiz-france-bronze-edition.json) |
