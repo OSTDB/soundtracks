@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.i.R.T.: Origin of the Species | 69154 | [69154-d-i-r-t-origin-of-the-species.json](./69154-d-i-r-t-origin-of-the-species.json) |
 | D.I.S Airport | 123165 | [123165-d-i-s-airport.json](./123165-d-i-s-airport.json) |
 | D.K.R. DMG | 297262 | [297262-d-k-r-dmg.json](./297262-d-k-r-dmg.json) |
+| D.M. Dinwiddie, Physician-in-Training | 209116 | [209116-d-m-dinwiddie-physician-in-training.json](./209116-d-m-dinwiddie-physician-in-training.json) |
 | D.M.D Ping Pong Game | 199791 | [199791-d-m-d-ping-pong-game.json](./199791-d-m-d-ping-pong-game.json) |
 | D.M.T | 135004 | [135004-d-m-t.json](./135004-d-m-t.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
 | Dark Heritage: Guardians of Hope | 34634 | [34634-dark-heritage-guardians-of-hope.json](./34634-dark-heritage-guardians-of-hope.json) |
 | Dark Heritage: Guardians of Hope - Collector's Edition | 417804 | [417804-dark-heritage-guardians-of-hope-collectors-edition.json](./417804-dark-heritage-guardians-of-hope-collectors-edition.json) |
+| Dark Hermetic Order | 209076 | [209076-dark-hermetic-order.json](./209076-dark-hermetic-order.json) |
 | Dark Hero | 234480 | [234480-dark-hero.json](./234480-dark-hero.json) |
 | Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
 | Dark Hill Museum of Death | 99248 | [99248-dark-hill-museum-of-death.json](./99248-dark-hill-museum-of-death.json) |
@@ -1782,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Horizons: Lore | 332670 | [332670-dark-horizons-lore.json](./332670-dark-horizons-lore.json) |
 | Dark Hotel | 415509 | [415509-dark-hotel.json](./415509-dark-hotel.json) |
+| Dark Hour | 209078 | [209078-dark-hour.json](./209078-dark-hour.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
@@ -3615,7 +3618,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DCS: P-51D Debden Eagles Campaign by Reflected Simulations | 285061 | [285061-dcs-p-51d-debden-eagles-campaign-by-reflected-simulations.json](./285061-dcs-p-51d-debden-eagles-campaign-by-reflected-simulations.json) |
 | DCS:A10C Warthog | 53968 | [53968-dcs-a10c-warthog.json](./53968-dcs-a10c-warthog.json) |
+| DD No Limit Texas Hold'em Tournament Edition | 209083 | [209083-dd-no-limit-texas-holdem-tournament-edition.json](./209083-dd-no-limit-texas-holdem-tournament-edition.json) |
 | DD Sequencer | 356285 | [356285-dd-sequencer.json](./356285-dd-sequencer.json) |
+| DD Tournament Poker No limit Texas Hold 'em | 209090 | [209090-dd-tournament-poker-no-limit-texas-hold-em.json](./209090-dd-tournament-poker-no-limit-texas-hold-em.json) |
 | DDD Pool | 92835 | [92835-ddd-pool.json](./92835-ddd-pool.json) |
 | DDD: Demons Double Down | 390779 | [390779-ddd-demons-double-down.json](./390779-ddd-demons-double-down.json) |
 | DDD: Dice, Dungeons, and Drakes | 395123 | [395123-ddd-dice-dungeons-and-drakes.json](./395123-ddd-dice-dungeons-and-drakes.json) |
@@ -5483,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Battles of the American Civil War, Volume Three | 54518 | [54518-decisive-battles-of-the-american-civil-war-volume-three.json](./54518-decisive-battles-of-the-american-civil-war-volume-three.json) |
 | Decisive Battles of the American Civil War, Volume Two | 54517 | [54517-decisive-battles-of-the-american-civil-war-volume-two.json](./54517-decisive-battles-of-the-american-civil-war-volume-two.json) |
 | Decisive Battles of WWII: Across the Dnepr | 71123 | [71123-decisive-battles-of-wwii-across-the-dnepr.json](./71123-decisive-battles-of-wwii-across-the-dnepr.json) |
+| Decisive Battles of WWII: Ardennes Offensive | 209091 | [209091-decisive-battles-of-wwii-ardennes-offensive.json](./209091-decisive-battles-of-wwii-ardennes-offensive.json) |
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Ardennes Offensive | 143427 | [143427-decisive-campaigns-ardennes-offensive.json](./143427-decisive-campaigns-ardennes-offensive.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
@@ -5695,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
 | Deep Blue Sea | 73300 | [73300-deep-blue-sea.json](./73300-deep-blue-sea.json) |
+| Deep Blue Sea I & II | 209092 | [209092-deep-blue-sea-i-and-ii.json](./209092-deep-blue-sea-i-and-ii.json) |
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Breath | 259388 | [259388-deep-breath.json](./259388-deep-breath.json) |
@@ -6689,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliveryGuy | 177793 | [177793-deliveryguy.json](./177793-deliveryguy.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
 | Deliwhere? | 424617 | [424617-deliwhere.json](./424617-deliwhere.json) |
+| Dell Magazine Crosswords | 209098 | [209098-dell-magazine-crosswords.json](./209098-dell-magazine-crosswords.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delos: Space Traffic Control | 339299 | [339299-delos-space-traffic-control.json](./339299-delos-space-traffic-control.json) |
 | Delphine Software Collection 1 | 251897 | [251897-delphine-software-collection-1.json](./251897-delphine-software-collection-1.json) |
@@ -7853,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Echo | 418234 | [418234-desert-echo.json](./418234-desert-echo.json) |
 | Desert Falcon | 11870 | [11870-desert-falcon.json](./11870-desert-falcon.json) |
 | Desert Falcon | 277550 | [277550-desert-falcon.json](./277550-desert-falcon.json) |
+| Desert Fighters | 209100 | [209100-desert-fighters.json](./209100-desert-fighters.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
 | Desert Fox: The Battle of El Alamein | 22261 | [22261-desert-fox-the-battle-of-el-alamein.json](./22261-desert-fox-the-battle-of-el-alamein.json) |
@@ -9009,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils & Demons | 13170 | [13170-devils-and-demons.json](./13170-devils-and-demons.json) |
 | Devils Adventure | 313652 | [313652-devils-adventure.json](./313652-devils-adventure.json) |
 | Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
+| Devils Canyon: A Dinamation Adventure | 209102 | [209102-devils-canyon-a-dinamation-adventure.json](./209102-devils-canyon-a-dinamation-adventure.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devils on the Moon Pinball | 321222 | [321222-devils-on-the-moon-pinball.json](./321222-devils-on-the-moon-pinball.json) |
@@ -9264,6 +9274,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Dino | 100908 | [100908-diamond-dino.json](./100908-diamond-dino.json) |
 | Diamond Drone | 295209 | [295209-diamond-drone.json](./295209-diamond-drone.json) |
 | Diamond Drop | 70782 | [70782-diamond-drop.json](./70782-diamond-drop.json) |
+| Diamond Drop / Aqua Bubble | 209109 | [209109-diamond-drop-aqua-bubble.json](./209109-diamond-drop-aqua-bubble.json) |
+| Diamond Drop Deluxe | 209103 | [209103-diamond-drop-deluxe.json](./209103-diamond-drop-deluxe.json) |
 | Diamond Gems | 246265 | [246265-diamond-gems.json](./246265-diamond-gems.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
@@ -9736,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diegesis of The Ruined | 298451 | [298451-diegesis-of-the-ruined.json](./298451-diegesis-of-the-ruined.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
+| Diego's Ultimate Rescue League | 209113 | [209113-diegos-ultimate-rescue-league.json](./209113-diegos-ultimate-rescue-league.json) |
 | Diehexegy | 258307 | [258307-diehexegy.json](./258307-diehexegy.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
 | Dien Bien Phu | 78921 | [78921-dien-bien-phu.json](./78921-dien-bien-phu.json) |
@@ -11453,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity: Toy Box | 241155 | [241155-disney-infinity-toy-box.json](./241155-disney-infinity-toy-box.json) |
 | Disney Infinity: Toy Box Challenge | 44013 | [44013-disney-infinity-toy-box-challenge.json](./44013-disney-infinity-toy-box-challenge.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
+| Disney Learning: 1st Grade | 209115 | [209115-disney-learning-1st-grade.json](./209115-disney-learning-1st-grade.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
 | Disney Learning: Math Quest with Aladdin | 70247 | [70247-disney-learning-math-quest-with-aladdin.json](./70247-disney-learning-math-quest-with-aladdin.json) |
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
