@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
 | Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
+| Easy Racer | 179223 | [179223-easy-racer.json](./179223-easy-racer.json) |
 | Easy Racing | 113213 | [113213-easy-racing.json](./113213-easy-racing.json) |
 | Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
 | Easy Red 2 | 166920 | [166920-easy-red-2.json](./166920-easy-red-2.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Etaine: Magic Survivor | 260556 | [260556-etaine-magic-survivor.json](./260556-etaine-magic-survivor.json) |
+| Etaria | 179094 | [179094-etaria.json](./179094-etaria.json) |
 | Etaria: Survival Adventure | 33951 | [33951-etaria-survival-adventure.json](./33951-etaria-survival-adventure.json) |
 | ETC: Earthquake Test Centre | 221661 | [221661-etc-earthquake-test-centre.json](./221661-etc-earthquake-test-centre.json) |
 | ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
@@ -8675,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
 | Exowar | 35509 | [35509-exowar.json](./35509-exowar.json) |
 | Exp Parasite | 138926 | [138926-exp-parasite.json](./138926-exp-parasite.json) |
+| EXP: War Trauma | 179651 | [179651-exp-war-trauma.json](./179651-exp-war-trauma.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
