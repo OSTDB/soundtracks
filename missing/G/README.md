@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
 | Galactic Protector | 45652 | [45652-galactic-protector.json](./45652-galactic-protector.json) |
+| Galactic Racing Online | 192475 | [192475-galactic-racing-online.json](./192475-galactic-racing-online.json) |
 | Galactic Rangers VR | 123941 | [123941-galactic-rangers-vr.json](./123941-galactic-rangers-vr.json) |
 | Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
@@ -6064,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Rescue | 238293 | [238293-go-rescue.json](./238293-go-rescue.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | Go Rollo Go | 295188 | [295188-go-rollo-go.json](./295188-go-rollo-go.json) |
+| Go Run a Dungeon | 192470 | [192470-go-run-a-dungeon.json](./192470-go-run-a-dungeon.json) |
 | GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
 | GO Series: Captain Sub | 84547 | [84547-go-series-captain-sub.json](./84547-go-series-captain-sub.json) |
 | GO Series: Defense Wars | 84504 | [84504-go-series-defense-wars.json](./84504-go-series-defense-wars.json) |
