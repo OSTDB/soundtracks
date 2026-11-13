@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthRemnant | 236452 | [236452-earthremnant.json](./236452-earthremnant.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
+| EarthRoyale | 207454 | [207454-earthroyale.json](./207454-earthroyale.json) |
 | Earths Edge | 403333 | [403333-earths-edge.json](./403333-earths-edge.json) |
 | Earthscaper | 343200 | [343200-earthscaper.json](./343200-earthscaper.json) |
 | Earthshakers | 117374 | [117374-earthshakers.json](./117374-earthshakers.json) |
@@ -3762,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Svensk Tiger | 179469 | [179469-en-svensk-tiger.json](./179469-en-svensk-tiger.json) |
 | En Tactico | 96631 | [96631-en-tactico.json](./96631-en-tactico.json) |
 | En-Eins Perfektewelt | 81612 | [81612-en-eins-perfektewelt.json](./81612-en-eins-perfektewelt.json) |
+| En-Eins Perfektewelt Anastasis | 207456 | [207456-en-eins-perfektewelt-anastasis.json](./207456-en-eins-perfektewelt-anastasis.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | En-thirer pp-slimes adventures | 101226 | [101226-en-thirer-pp-slimes-adventures.json](./101226-en-thirer-pp-slimes-adventures.json) |
