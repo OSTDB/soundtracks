@@ -1031,7 +1031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -19935,6 +19934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buta | 204413 | [204413-buta.json](./204413-buta.json) |
 | Buta Hime-sama | 82971 | [82971-buta-hime-sama.json](./82971-buta-hime-sama.json) |
 | Buta-san | 40025 | [40025-buta-san.json](./40025-buta-san.json) |
+| Buta-san Quest | 222003 | [222003-buta-san-quest.json](./222003-buta-san-quest.json) |
 | Butamaru Pants | 97802 | [97802-butamaru-pants.json](./97802-butamaru-pants.json) |
 | Butano Fighter | 184306 | [184306-butano-fighter.json](./184306-butano-fighter.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
