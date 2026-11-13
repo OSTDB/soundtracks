@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahJongg Master 6 | 210207 | [210207-mahjongg-master-6.json](./210207-mahjongg-master-6.json) |
 | Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
 | Mahjongg Mysteries: Ancient Egypt | 210197 | [210197-mahjongg-mysteries-ancient-egypt.json](./210197-mahjongg-mysteries-ancient-egypt.json) |
+| Mahjongg Platinum 3 | 210189 | [210189-mahjongg-platinum-3.json](./210189-mahjongg-platinum-3.json) |
 | Mahjongg Platinum 5: Deluxe Edition | 210190 | [210190-mahjongg-platinum-5-deluxe-edition.json](./210190-mahjongg-platinum-5-deluxe-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
@@ -13455,6 +13456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
+| Minecraft Dungeons Arcade | 210757 | [210757-minecraft-dungeons-arcade.json](./210757-minecraft-dungeons-arcade.json) |
 | Minecraft Dungeons II - Deluxe DLC | 407116 | [407116-minecraft-dungeons-ii-deluxe-dlc.json](./407116-minecraft-dungeons-ii-deluxe-dlc.json) |
 | Minecraft Dungeons II: Deluxe Edition | 407111 | [407111-minecraft-dungeons-ii-deluxe-edition.json](./407111-minecraft-dungeons-ii-deluxe-edition.json) |
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
@@ -18009,6 +18011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Journey | 213087 | [213087-monument-journey.json](./213087-monument-journey.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley 1&2 Bundle | 341446 | [341446-monument-valley-1-and-2-bundle.json](./341446-monument-valley-1-and-2-bundle.json) |
+| Monument Valley 2+ | 210764 | [210764-monument-valley-2.json](./210764-monument-valley-2.json) |
 | Monument Valley II | 36749 | [36749-monument-valley-ii.json](./36749-monument-valley-ii.json) |
 | Monument Valley II: Panoramic Edition | 203388 | [203388-monument-valley-ii-panoramic-edition.json](./203388-monument-valley-ii-panoramic-edition.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
@@ -22825,6 +22828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magic Florist: Deluxe Edition | 199815 | [199815-my-magic-florist-deluxe-edition.json](./199815-my-magic-florist-deluxe-edition.json) |
 | My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
+| My Magical Girlfriends | 210775 | [210775-my-magical-girlfriends.json](./210775-my-magical-girlfriends.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
 | My Make Believe Castle | 329472 | [329472-my-make-believe-castle.json](./329472-my-make-believe-castle.json) |
 | My Make Believe Treasure Isle | 329471 | [329471-my-make-believe-treasure-isle.json](./329471-my-make-believe-treasure-isle.json) |
@@ -23116,6 +23120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Star-Crossed Girlfriend | 221868 | [221868-my-star-crossed-girlfriend.json](./221868-my-star-crossed-girlfriend.json) |
 | My Starry Princess | 298996 | [298996-my-starry-princess.json](./298996-my-starry-princess.json) |
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
+| My Sticker Book | 210786 | [210786-my-sticker-book.json](./210786-my-sticker-book.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
 | My Sticker Zoo | 367558 | [367558-my-sticker-zoo.json](./367558-my-sticker-zoo.json) |
 | My Stomach Hurts and Things Will Never Get Better and I Want to Puke | 259367 | [259367-my-stomach-hurts-and-things-will-never-get-better-and-i-want-to-puke.json](./259367-my-stomach-hurts-and-things-will-never-get-better-and-i-want-to-puke.json) |
