@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A JK Voice Actress and an Adult Script | 83188 | [83188-a-jk-voice-actress-and-an-adult-script.json](./83188-a-jk-voice-actress-and-an-adult-script.json) |
+| A Joke that's Worth $0.99 | 198461 | [198461-a-joke-thats-worth-0-99.json](./198461-a-joke-thats-worth-0-99.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Journey Into Xanth | 135643 | [135643-a-journey-into-xanth.json](./135643-a-journey-into-xanth.json) |
 | A Journey Through Shadow, to Reach the Light. | 350292 | [350292-a-journey-through-shadow-to-reach-the-light.json](./350292-a-journey-through-shadow-to-reach-the-light.json) |
@@ -4469,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
 | AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
 | Aerie: Spirit of the Forest | 293943 | [293943-aerie-spirit-of-the-forest.json](./293943-aerie-spirit-of-the-forest.json) |
+| Aerinde | 197904 | [197904-aerinde.json](./197904-aerinde.json) |
 | Aerion: The Last Alchemist | 247700 | [247700-aerion-the-last-alchemist.json](./247700-aerion-the-last-alchemist.json) |
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
@@ -11694,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annina: Farm | 379803 | [379803-annina-farm.json](./379803-annina-farm.json) |
 | Anniversary Collection Arcade Classics | 116390 | [116390-anniversary-collection-arcade-classics.json](./116390-anniversary-collection-arcade-classics.json) |
 | Anniversary no Kuni no Alice: Wonderful Wonder World | 218641 | [218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json](./218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json) |
+| Anno - Silver Pack | 198420 | [198420-anno-silver-pack.json](./198420-anno-silver-pack.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
 | Anno 117: Pax Romana - Echoes of Kassandra Pack | 421817 | [421817-anno-117-pax-romana-echoes-of-kassandra-pack.json](./421817-anno-117-pax-romana-echoes-of-kassandra-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
@@ -11792,6 +11795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
 | Anno: Create A New World | 4795 | [4795-anno-create-a-new-world.json](./4795-anno-create-a-new-world.json) |
+| Anno: Gold Pack | 198421 | [198421-anno-gold-pack.json](./198421-anno-gold-pack.json) |
 | Anno: Mutationem - Complete Edition | 323670 | [323670-anno-mutationem-complete-edition.json](./323670-anno-mutationem-complete-edition.json) |
 | Annotation of Love | 86608 | [86608-annotation-of-love.json](./86608-annotation-of-love.json) |
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
@@ -12344,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antioch: Scarlet Bay | 18451 | [18451-antioch-scarlet-bay.json](./18451-antioch-scarlet-bay.json) |
 | Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
 | Antipaint | 199294 | [199294-antipaint.json](./199294-antipaint.json) |
+| Antipathy | 198436 | [198436-antipathy.json](./198436-antipathy.json) |
 | Antipathy | 326668 | [326668-antipathy.json](./326668-antipathy.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
@@ -20136,6 +20141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolochi | 192103 | [192103-axolochi.json](./192103-axolochi.json) |
 | Axolotl | 195486 | [195486-axolotl.json](./195486-axolotl.json) |
 | Axolotl | 267997 | [267997-axolotl.json](./267997-axolotl.json) |
+| Axolotl is Dry | 197964 | [197964-axolotl-is-dry.json](./197964-axolotl-is-dry.json) |
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
 | Axolotl Museum | 179320 | [179320-axolotl-museum.json](./179320-axolotl-museum.json) |
 | Axolotl Stars | 197683 | [197683-axolotl-stars.json](./197683-axolotl-stars.json) |
