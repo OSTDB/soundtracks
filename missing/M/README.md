@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Snowboarding | 34515 | [34515-mad-snowboarding.json](./34515-mad-snowboarding.json) |
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
+| Mad Stalker: Full Metal Forth | 221310 | [221310-mad-stalker-full-metal-forth.json](./221310-mad-stalker-full-metal-forth.json) |
 | Mad Survivor: Arid Warfire | 287370 | [287370-mad-survivor-arid-warfire.json](./287370-mad-survivor-arid-warfire.json) |
 | Mad Tanks | 179464 | [179464-mad-tanks.json](./179464-mad-tanks.json) |
 | Mad Tanks | 58678 | [58678-mad-tanks.json](./58678-mad-tanks.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
 | Mahokenshi - The Samurai Deckbuilder | 172688 | [172688-mahokenshi-the-samurai-deckbuilder.json](./172688-mahokenshi-the-samurai-deckbuilder.json) |
+| MahoKore: Mahou Idol Collection | 221443 | [221443-mahokore-mahou-idol-collection.json](./221443-mahokore-mahou-idol-collection.json) |
 | Mahoroba Cat | 330790 | [330790-mahoroba-cat.json](./330790-mahoroba-cat.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahoromatic Adventure | 214431 | [214431-mahoromatic-adventure.json](./214431-mahoromatic-adventure.json) |
@@ -2720,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
 | Makai Kingdom: Chronicles of the Sacred Tome | 22540 | [22540-makai-kingdom-chronicles-of-the-sacred-tome.json](./22540-makai-kingdom-chronicles-of-the-sacred-tome.json) |
 | Makai Kingdom: Reclaimed and Rebound | 189329 | [189329-makai-kingdom-reclaimed-and-rebound.json](./189329-makai-kingdom-reclaimed-and-rebound.json) |
+| Makai Ouji: Devils and Realist - Dairi-ou no Hihou | 221439 | [221439-makai-ouji-devils-and-realist-dairi-ou-no-hihou.json](./221439-makai-ouji-devils-and-realist-dairi-ou-no-hihou.json) |
 | Makai Prince Dorabochan | 38090 | [38090-makai-prince-dorabochan.json](./38090-makai-prince-dorabochan.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
@@ -12731,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikonote | 188268 | [188268-mikonote.json](./188268-mikonote.json) |
+| Mikos Wish | 220910 | [220910-mikos-wish.json](./220910-mikos-wish.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikoto Memory | 314832 | [314832-mikoto-memory.json](./314832-mikoto-memory.json) |
 | Mikoto Nikki | 125547 | [125547-mikoto-nikki.json](./125547-mikoto-nikki.json) |
@@ -18229,6 +18233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
 | moonLessL | 166581 | [166581-moonlessl.json](./166581-moonlessl.json) |
 | Moonlight | 183693 | [183693-moonlight.json](./183693-moonlight.json) |
+| Moonlight | 221432 | [221432-moonlight.json](./221432-moonlight.json) |
 | Moonlight | 229651 | [229651-moonlight.json](./229651-moonlight.json) |
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight | 33711 | [33711-moonlight.json](./33711-moonlight.json) |
