@@ -4544,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D: Second Stage Typing Game | 62558 | [62558-initial-d-second-stage-typing-game.json](./62558-initial-d-second-stage-typing-game.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial D: Takahashi Ryosuke no Typing Saisoku Riron | 62557 | [62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json](./62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json) |
+| Initial D: The Arcade | 229408 | [229408-initial-d-the-arcade.json](./229408-initial-d-the-arcade.json) |
 | Initial D: Touge Spirit | 423370 | [423370-initial-d-touge-spirit.json](./423370-initial-d-touge-spirit.json) |
 | Initial Daydream | 272464 | [272464-initial-daydream.json](./272464-initial-daydream.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innyume | 223033 | [223033-innyume.json](./223033-innyume.json) |
 | Ino | 27691 | [27691-ino.json](./27691-ino.json) |
 | Inochi no Nai Uta | 246773 | [246773-inochi-no-nai-uta.json](./246773-inochi-no-nai-uta.json) |
+| Inochi no Spare | 230000 | [230000-inochi-no-spare.json](./230000-inochi-no-spare.json) |
 | Inokan | 179525 | [179525-inokan.json](./179525-inokan.json) |
 | InoLab Trials | 320326 | [320326-inolab-trials.json](./320326-inolab-trials.json) |
 | Inomushi Goro Goro | 138520 | [138520-inomushi-goro-goro.json](./138520-inomushi-goro-goro.json) |
@@ -6115,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invitation | 94559 | [94559-invitation.json](./94559-invitation.json) |
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Invitationem | 246207 | [246207-invitationem.json](./246207-invitationem.json) |
+| Invite Me In | 229412 | [229412-invite-me-in.json](./229412-invite-me-in.json) |
 | Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
