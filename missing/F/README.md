@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
 | Fallen Castle | 302784 | [302784-fallen-castle.json](./302784-fallen-castle.json) |
+| Fallen City Brawl | 172817 | [172817-fallen-city-brawl.json](./172817-fallen-city-brawl.json) |
 | Fallen Cube | 48006 | [48006-fallen-cube.json](./48006-fallen-cube.json) |
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
 | Fallen Depths | 336501 | [336501-fallen-depths.json](./336501-fallen-depths.json) |
@@ -5541,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: A Crystalline Prophecy | 255633 | [255633-final-fantasy-xi-a-crystalline-prophecy.json](./255633-final-fantasy-xi-a-crystalline-prophecy.json) |
 | Final Fantasy XI: A Moogle Kupo d'Etat | 255771 | [255771-final-fantasy-xi-a-moogle-kupo-detat.json](./255771-final-fantasy-xi-a-moogle-kupo-detat.json) |
 | Final Fantasy XI: A Shantotto Ascension | 255773 | [255773-final-fantasy-xi-a-shantotto-ascension.json](./255773-final-fantasy-xi-a-shantotto-ascension.json) |
+| Final Fantasy XI: Adventure | 172829 | [172829-final-fantasy-xi-adventure.json](./172829-final-fantasy-xi-adventure.json) |
 | Final Fantasy XI: Heroes of Abyssea | 255776 | [255776-final-fantasy-xi-heroes-of-abyssea.json](./255776-final-fantasy-xi-heroes-of-abyssea.json) |
 | Final Fantasy XI: Rhapsodies of Vana'diel | 266861 | [266861-final-fantasy-xi-rhapsodies-of-vanadiel.json](./266861-final-fantasy-xi-rhapsodies-of-vanadiel.json) |
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
