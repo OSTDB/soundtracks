@@ -5450,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
 | Mass Creation Double Action Bundle | 223743 | [223743-mass-creation-double-action-bundle.json](./223743-mass-creation-double-action-bundle.json) |
 | Mass Destruction | 2613 | [2613-mass-destruction.json](./2613-mass-destruction.json) |
+| Mass Destruction VR Shooting: Galaga Fever | 230591 | [230591-mass-destruction-vr-shooting-galaga-fever.json](./230591-mass-destruction-vr-shooting-galaga-fever.json) |
 | Mass Effect | 243928 | [243928-mass-effect.json](./243928-mass-effect.json) |
 | Mass Effect 2: Arrival | 13794 | [13794-mass-effect-2-arrival.json](./13794-mass-effect-2-arrival.json) |
 | Mass Effect 2: Cerberus Network | 202312 | [202312-mass-effect-2-cerberus-network.json](./202312-mass-effect-2-cerberus-network.json) |
@@ -5954,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match-3: Matchington Mansion | 86782 | [86782-match-3-matchington-mansion.json](./86782-match-3-matchington-mansion.json) |
 | Match-o-3000 | 336722 | [336722-match-o-3000.json](./336722-match-o-3000.json) |
 | Match-Off | 182854 | [182854-match-off.json](./182854-match-off.json) |
+| Match-Up Mario | 231657 | [231657-match-up-mario.json](./231657-match-up-mario.json) |
 | Match, Talk, Date!: A Modern Dating Sim! | 258937 | [258937-match-talk-date-a-modern-dating-sim.json](./258937-match-talk-date-a-modern-dating-sim.json) |
 | Match: Isekai Journey | 417613 | [417613-match-isekai-journey.json](./417613-match-isekai-journey.json) |
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
@@ -9278,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekanikko | 265227 | [265227-mekanikko.json](./265227-mekanikko.json) |
 | Mekanin | 172511 | [172511-mekanin.json](./172511-mekanin.json) |
 | Mekanion | 391460 | [391460-mekanion.json](./391460-mekanion.json) |
+| Mekanism | 232723 | [232723-mekanism.json](./232723-mekanism.json) |
 | Mekanism | 261493 | [261493-mekanism.json](./261493-mekanism.json) |
 | Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
@@ -10698,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Jacket | 147172 | [147172-metal-jacket.json](./147172-metal-jacket.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
 | Metal Knight: Mission - Terminate Resistance | 167188 | [167188-metal-knight-mission-terminate-resistance.json](./167188-metal-knight-mission-terminate-resistance.json) |
+| Metal Knight: Mission - Terminate Resistance | 230616 | [230616-metal-knight-mission-terminate-resistance.json](./230616-metal-knight-mission-terminate-resistance.json) |
 | Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
 | Metal Law | 92078 | [92078-metal-law.json](./92078-metal-law.json) |
 | Metal Man Reloaded | 125273 | [125273-metal-man-reloaded.json](./125273-metal-man-reloaded.json) |
@@ -15651,6 +15655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | MO:Astray | 113376 | [113376-mo-astray.json](./113376-mo-astray.json) |
 | Mo.co | 272187 | [272187-mo-co.json](./272187-mo-co.json) |
+| Mo' Creatures | 232725 | [232725-mo-creatures.json](./232725-mo-creatures.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
 | Moai | 285721 | [285721-moai.json](./285721-moai.json) |
 | Moai 2: Path to Another World | 35443 | [35443-moai-2-path-to-another-world.json](./35443-moai-2-path-to-another-world.json) |
@@ -17779,6 +17784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
+| Monsters Mess | 232739 | [232739-monsters-mess.json](./232739-monsters-mess.json) |
 | Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
 | Monsters of Little Haven | 119454 | [119454-monsters-of-little-haven.json](./119454-monsters-of-little-haven.json) |
@@ -24181,6 +24187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
 | Mythrealm | 159514 | [159514-mythrealm.json](./159514-mythrealm.json) |
+| Mythrel | 232736 | [232736-mythrel.json](./232736-mythrel.json) |
 | Mythrera | 238676 | [238676-mythrera.json](./238676-mythrera.json) |
 | Myths & Fairy Tales Bundle | 274418 | [274418-myths-and-fairy-tales-bundle.json](./274418-myths-and-fairy-tales-bundle.json) |
 | Myths & Rites | 381296 | [381296-myths-and-rites.json](./381296-myths-and-rites.json) |
