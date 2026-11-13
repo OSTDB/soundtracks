@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Sling | 242457 | [242457-neon-sling.json](./242457-neon-sling.json) |
 | Neon Snake | 161694 | [161694-neon-snake.json](./161694-neon-snake.json) |
 | Neon Snap | 140597 | [140597-neon-snap.json](./140597-neon-snap.json) |
+| Neon Souls | 189226 | [189226-neon-souls.json](./189226-neon-souls.json) |
 | Neon Space | 19325 | [19325-neon-space.json](./19325-neon-space.json) |
 | Neon Space Ultra | 32934 | [32934-neon-space-ultra.json](./32934-neon-space-ultra.json) |
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Sneaking R | 201533 | [201533-ninja-sneaking-r.json](./201533-ninja-sneaking-r.json) |
 | Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
 | Ninja Soldier | 96154 | [96154-ninja-soldier.json](./96154-ninja-soldier.json) |
+| Ninja Soul | 189210 | [189210-ninja-soul.json](./189210-ninja-soul.json) |
 | Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
 | Ninja Spinki Challenges!! | 56904 | [56904-ninja-spinki-challenges.json](./56904-ninja-spinki-challenges.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
