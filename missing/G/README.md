@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Box Série Esportes | 93173 | [93173-game-box-serie-esportes.json](./93173-game-box-serie-esportes.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
 | Game Box Série Lutas | 94609 | [94609-game-box-serie-lutas.json](./94609-game-box-serie-lutas.json) |
+| Game Boy Bunko: Hajimari no Mori | 175999 | [175999-game-boy-bunko-hajimari-no-mori.json](./175999-game-boy-bunko-hajimari-no-mori.json) |
 | Game Boy Camera | 84643 | [84643-game-boy-camera.json](./84643-game-boy-camera.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
@@ -4756,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme Space Battle | 401611 | [401611-gimme-space-battle.json](./401611-gimme-space-battle.json) |
 | Gimmick | 415500 | [415500-gimmick.json](./415500-gimmick.json) |
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
+| Gimmick Land: Tomato Atama no Himitsu | 176001 | [176001-gimmick-land-tomato-atama-no-himitsu.json](./176001-gimmick-land-tomato-atama-no-himitsu.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | Gimmick! Special Edition | 213752 | [213752-gimmick-special-edition.json](./213752-gimmick-special-edition.json) |
@@ -6045,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
 | Go Kart Survival | 76824 | [76824-go-kart-survival.json](./76824-go-kart-survival.json) |
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
+| Go Karting Outdoor HD | 175867 | [175867-go-karting-outdoor-hd.json](./175867-go-karting-outdoor-hd.json) |
 | Go Keeper | 382110 | [382110-go-keeper.json](./382110-go-keeper.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
