@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaiJu Girls | 236475 | [236475-kaiju-girls.json](./236475-kaiju-girls.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
 | Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
+| Kaiju Klash | 213511 | [213511-kaiju-klash.json](./213511-kaiju-klash.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
 | Kaiju Krashers | 168605 | [168605-kaiju-krashers.json](./168605-kaiju-krashers.json) |
 | Kaiju Monster VR | 190832 | [190832-kaiju-monster-vr.json](./190832-kaiju-monster-vr.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karigurashi Renai: Living on Borrowed Love | 389797 | [389797-karigurashi-renai-living-on-borrowed-love.json](./389797-karigurashi-renai-living-on-borrowed-love.json) |
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
+| Karin's Digital Adventure | 213512 | [213512-karins-digital-adventure.json](./213512-karins-digital-adventure.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
 | Karisvale | 193033 | [193033-karisvale.json](./193033-karisvale.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
