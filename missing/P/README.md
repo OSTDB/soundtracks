@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
 | Paracusia | 101153 | [101153-paracusia.json](./101153-paracusia.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
+| Parade | 201198 | [201198-parade.json](./201198-parade.json) |
 | Parade!: The Rhythm Battle | 100640 | [100640-parade-the-rhythm-battle.json](./100640-parade-the-rhythm-battle.json) |
 | Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
 | Paradiddler | 175110 | [175110-paradiddler.json](./175110-paradiddler.json) |
@@ -10514,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
 | Platie | 266544 | [266544-platie.json](./266544-platie.json) |
+| Platin: Last Royale | 200756 | [200756-platin-last-royale.json](./200756-platin-last-royale.json) |
 | Platina: Lab | 339987 | [339987-platina-lab.json](./339987-platina-lab.json) |
 | Platinum | 313829 | [313829-platinum.json](./313829-platinum.json) |
 | Platinum | 94937 | [94937-platinum.json](./94937-platinum.json) |
