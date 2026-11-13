@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 5 | 94647 | [94647-fantasy-5.json](./94647-fantasy-5.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
+| Fantasy Adventure | 195281 | [195281-fantasy-adventure.json](./195281-fantasy-adventure.json) |
 | Fantasy All Stars | 194678 | [194678-fantasy-all-stars.json](./194678-fantasy-all-stars.json) |
 | Fantasy Amusement Park | 257700 | [257700-fantasy-amusement-park.json](./257700-fantasy-amusement-park.json) |
 | Fantasy Amusement Park II | 385971 | [385971-fantasy-amusement-park-ii.json](./385971-fantasy-amusement-park-ii.json) |
@@ -13604,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | FrogStray | 412761 | [412761-frogstray.json](./412761-frogstray.json) |
+| Frogue | 195679 | [195679-frogue.json](./195679-frogue.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
 | Frogun | 152051 | [152051-frogun.json](./152051-frogun.json) |
 | Frogun Encore | 242322 | [242322-frogun-encore.json](./242322-frogun-encore.json) |
@@ -14823,6 +14825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Sunny | 246200 | [246200-funny-sunny.json](./246200-funny-sunny.json) |
 | Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
 | Funny UFOs Scene Creator | 396688 | [396688-funny-ufos-scene-creator.json](./396688-funny-ufos-scene-creator.json) |
+| Funny Village | 195678 | [195678-funny-village.json](./195678-funny-village.json) |
 | Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
 | Funny Walk | 230012 | [230012-funny-walk.json](./230012-funny-walk.json) |
 | Funny Wings VR | 86676 | [86676-funny-wings-vr.json](./86676-funny-wings-vr.json) |
