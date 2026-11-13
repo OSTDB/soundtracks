@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Assembly | 228504 | [228504-dance-assembly.json](./228504-dance-assembly.json) |
 | Dance Break Dance | 317171 | [317171-dance-break-dance.json](./317171-dance-break-dance.json) |
+| Dance by the River | 215957 | [215957-dance-by-the-river.json](./215957-dance-by-the-river.json) |
 | Dance Central | 175660 | [175660-dance-central.json](./175660-dance-central.json) |
 | Dance Central | 18953 | [18953-dance-central.json](./18953-dance-central.json) |
 | Dance Central 2 | 20091 | [20091-dance-central-2.json](./20091-dance-central-2.json) |
@@ -8808,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Devour Alive | 134155 | [134155-devil-devour-alive.json](./134155-devil-devour-alive.json) |
+| Devil Devour Alive DX | 215943 | [215943-devil-devour-alive-dx.json](./215943-devil-devour-alive-dx.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
 | Devil Diver | 14031 | [14031-devil-diver.json](./14031-devil-diver.json) |
 | Devil Drive Polaris | 412774 | [412774-devil-drive-polaris.json](./412774-devil-drive-polaris.json) |
@@ -17639,6 +17641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer: Puzzle | 190819 | [190819-dreamer-puzzle.json](./190819-dreamer-puzzle.json) |
 | Dreamer's Canal | 383143 | [383143-dreamers-canal.json](./383143-dreamers-canal.json) |
+| Dreamer's Road | 216379 | [216379-dreamers-road.json](./216379-dreamers-road.json) |
 | Dreamer's Wake | 420170 | [420170-dreamers-wake.json](./420170-dreamers-wake.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamera: Figment of Dreams | 389922 | [389922-dreamera-figment-of-dreams.json](./389922-dreamera-figment-of-dreams.json) |
