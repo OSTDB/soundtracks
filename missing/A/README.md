@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Smattering of Songs | 315627 | [315627-a-smattering-of-songs.json](./315627-a-smattering-of-songs.json) |
 | A Smithing Game | 405058 | [405058-a-smithing-game.json](./405058-a-smithing-game.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
+| A Smooth Game Unlike Life | 219198 | [219198-a-smooth-game-unlike-life.json](./219198-a-smooth-game-unlike-life.json) |
 | A Snail's Pace | 365591 | [365591-a-snails-pace.json](./365591-a-snails-pace.json) |
 | A Snake in a Maze | 159584 | [159584-a-snake-in-a-maze.json](./159584-a-snake-in-a-maze.json) |
 | A Snake's Life | 73921 | [73921-a-snakes-life.json](./73921-a-snakes-life.json) |
@@ -12863,6 +12864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
 | Apocryphauna | 271969 | [271969-apocryphauna.json](./271969-apocryphauna.json) |
 | Apocryphoid | 380136 | [380136-apocryphoid.json](./380136-apocryphoid.json) |
+| ApocZ | 219193 | [219193-apocz.json](./219193-apocz.json) |
 | Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
 | Apogee | 387719 | [387719-apogee.json](./387719-apogee.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
@@ -13223,6 +13225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark io: Movie Stars DLC | 263526 | [263526-aquapark-io-movie-stars-dlc.json](./263526-aquapark-io-movie-stars-dlc.json) |
 | Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
 | Aquapark io: Sweet Edition | 364098 | [364098-aquapark-io-sweet-edition.json](./364098-aquapark-io-sweet-edition.json) |
+| Aquapark Renovator | 219194 | [219194-aquapark-renovator.json](./219194-aquapark-renovator.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquapark.io | 119207 | [119207-aquapark-io.json](./119207-aquapark-io.json) |
 | Aquapazza: Aquaplus Dream Match | 7272 | [7272-aquapazza-aquaplus-dream-match.json](./7272-aquapazza-aquaplus-dream-match.json) |
@@ -13363,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
 | Arabel | 142140 | [142140-arabel.json](./142140-arabel.json) |
 | Arabesque: Shoujo-tachi no Orinasu Ai no Monogatari | 299802 | [299802-arabesque-shoujo-tachi-no-orinasu-ai-no-monogatari.json](./299802-arabesque-shoujo-tachi-no-orinasu-ai-no-monogatari.json) |
+| Arabia Palace Builder | 219195 | [219195-arabia-palace-builder.json](./219195-arabia-palace-builder.json) |
 | Arabian | 13682 | [13682-arabian.json](./13682-arabian.json) |
 | Arabian Fight | 39362 | [39362-arabian-fight.json](./39362-arabian-fight.json) |
 | Arabian Kid | 304245 | [304245-arabian-kid.json](./304245-arabian-kid.json) |
@@ -16592,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashwood Valley | 344121 | [344121-ashwood-valley.json](./344121-ashwood-valley.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
 | Ashzel & The Power Dagger | 203602 | [203602-ashzel-and-the-power-dagger.json](./203602-ashzel-and-the-power-dagger.json) |
+| Asia Empire 2027 | 219197 | [219197-asia-empire-2027.json](./219197-asia-empire-2027.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
 | Asian Actors Wanted | 183243 | [183243-asian-actors-wanted.json](./183243-asian-actors-wanted.json) |
 | Asian Caprice | 224923 | [224923-asian-caprice.json](./224923-asian-caprice.json) |
@@ -16888,6 +16893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Ultimate Edition | 136132 | [136132-assassins-creed-valhalla-ultimate-edition.json](./136132-assassins-creed-valhalla-ultimate-edition.json) |
 | Assassin's Creed Valhalla: Wrath of the Druids | 140174 | [140174-assassins-creed-valhalla-wrath-of-the-druids.json](./140174-assassins-creed-valhalla-wrath-of-the-druids.json) |
 | Assassin's Creed: Altair's Chronicles | 21349 | [21349-assassins-creed-altairs-chronicles.json](./21349-assassins-creed-altairs-chronicles.json) |
+| Assassin's Creed: Anniversary Edition Mega Bundle | 219311 | [219311-assassins-creed-anniversary-edition-mega-bundle.json](./219311-assassins-creed-anniversary-edition-mega-bundle.json) |
 | Assassin's Creed: Anthology | 45120 | [45120-assassins-creed-anthology.json](./45120-assassins-creed-anthology.json) |
 | Assassin's Creed: Bloodlines | 10661 | [10661-assassins-creed-bloodlines.json](./10661-assassins-creed-bloodlines.json) |
 | Assassin's Creed: Bloodsail | 26917 | [26917-assassins-creed-bloodsail.json](./26917-assassins-creed-bloodsail.json) |
@@ -16937,6 +16943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Unity - Limited Edition | 136262 | [136262-assassins-creed-unity-limited-edition.json](./136262-assassins-creed-unity-limited-edition.json) |
 | Assassin's Creed: Utopia | 61278 | [61278-assassins-creed-utopia.json](./61278-assassins-creed-utopia.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
+| Assassin's Vol. | 219199 | [219199-assassins-vol.json](./219199-assassins-vol.json) |
 | Assassination Box | 30636 | [30636-assassination-box.json](./30636-assassination-box.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
@@ -17534,6 +17541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
 | Astro | 336250 | [336250-astro.json](./336250-astro.json) |
+| Astro & Luna vs. The Entire Solar System | 219200 | [219200-astro-and-luna-vs-the-entire-solar-system.json](./219200-astro-and-luna-vs-the-entire-solar-system.json) |
 | Astro & Suzy Go to the Beach | 234284 | [234284-astro-and-suzy-go-to-the-beach.json](./234284-astro-and-suzy-go-to-the-beach.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
@@ -18331,6 +18339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athenor | 15849 | [15849-athenor.json](./15849-athenor.json) |
 | Ather | 96146 | [96146-ather.json](./96146-ather.json) |
 | Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
+| Athereon: Advent I | 219202 | [219202-athereon-advent-i.json](./219202-athereon-advent-i.json) |
 | Atheris | 389167 | [389167-atheris.json](./389167-atheris.json) |
 | Athletic Ball | 41797 | [41797-athletic-ball.json](./41797-athletic-ball.json) |
 | Athletic Director Simulator 4000 | 381779 | [381779-athletic-director-simulator-4000.json](./381779-athletic-director-simulator-4000.json) |
