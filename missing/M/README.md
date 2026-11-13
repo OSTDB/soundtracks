@@ -5757,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Wulder | 217204 | [217204-master-wulder.json](./217204-master-wulder.json) |
 | Master X Master | 23355 | [23355-master-x-master.json](./23355-master-x-master.json) |
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
+| Master's Fury | 234381 | [234381-masters-fury.json](./234381-masters-fury.json) |
 | Masterblazer | 15258 | [15258-masterblazer.json](./15258-masterblazer.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Cakes Edition 2 | 309786 | [309786-masterchef-cakes-edition-2.json](./309786-masterchef-cakes-edition-2.json) |
@@ -14123,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Words: Collection | 194748 | [194748-mini-words-collection.json](./194748-mini-words-collection.json) |
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
+| Mini Words: Top Movies | 234968 | [234968-mini-words-top-movies.json](./234968-mini-words-top-movies.json) |
 | Mini World | 71030 | [71030-mini-world.json](./71030-mini-world.json) |
 | Mini Worlds | 311893 | [311893-mini-worlds.json](./311893-mini-worlds.json) |
 | Mini Yonku GB: Let's & Go!! | 56231 | [56231-mini-yonku-gb-lets-and-go.json](./56231-mini-yonku-gb-lets-and-go.json) |
@@ -15165,6 +15167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: Impossible - Operation Surma | 248447 | [248447-mission-impossible-operation-surma.json](./248447-mission-impossible-operation-surma.json) |
 | Mission: Impossible - Operation Surma | 4013 | [4013-mission-impossible-operation-surma.json](./4013-mission-impossible-operation-surma.json) |
+| Mission: Impossible Arcade | 234951 | [234951-mission-impossible-arcade.json](./234951-mission-impossible-arcade.json) |
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: ISS | 193696 | [193696-mission-iss.json](./193696-mission-iss.json) |
@@ -17131,6 +17134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Frenzy | 123360 | [123360-monster-frenzy.json](./123360-monster-frenzy.json) |
 | Monster Fruit Academy | 187864 | [187864-monster-fruit-academy.json](./187864-monster-fruit-academy.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
+| Monster Galaxy | 234952 | [234952-monster-galaxy.json](./234952-monster-galaxy.json) |
 | Monster Galaxy: Exile | 324933 | [324933-monster-galaxy-exile.json](./324933-monster-galaxy-exile.json) |
 | Monster Galaxy: The Zodiac Islands | 98577 | [98577-monster-galaxy-the-zodiac-islands.json](./98577-monster-galaxy-the-zodiac-islands.json) |
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
@@ -22365,6 +22369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hamster Pet | 298539 | [298539-my-hamster-pet.json](./298539-my-hamster-pet.json) |
 | My Happy Girls | 367080 | [367080-my-happy-girls.json](./367080-my-happy-girls.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
+| My Harem | 234963 | [234963-my-harem.json](./234963-my-harem.json) |
 | My Haunted Doll | 125061 | [125061-my-haunted-doll.json](./125061-my-haunted-doll.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
