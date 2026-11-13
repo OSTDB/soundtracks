@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ved: Recure | 321207 | [321207-ved-recure.json](./321207-ved-recure.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
 | Vedelem: The Golden Horde | 151462 | [151462-vedelem-the-golden-horde.json](./151462-vedelem-the-golden-horde.json) |
+| Vedette | 197170 | [197170-vedette.json](./197170-vedette.json) |
 | Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
 | Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
 | Vee Rethak: Deep Under the Mountain | 29652 | [29652-vee-rethak-deep-under-the-mountain.json](./29652-vee-rethak-deep-under-the-mountain.json) |
