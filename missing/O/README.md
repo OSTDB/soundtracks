@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd Night | 302400 | [302400-odd-night.json](./302400-odd-night.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
+| Odd One Out | 207418 | [207418-odd-one-out.json](./207418-odd-one-out.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
 | Odd One Out 2 | 390895 | [390895-odd-one-out-2.json](./390895-odd-one-out-2.json) |
 | Odd One Out Christmas | 390896 | [390896-odd-one-out-christmas.json](./390896-odd-one-out-christmas.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Puck! | 390471 | [390471-oh-puck.json](./390471-oh-puck.json) |
 | Oh Putt Off! | 181678 | [181678-oh-putt-off.json](./181678-oh-putt-off.json) |
 | Oh Satan, I Gotta Hide | 267132 | [267132-oh-satan-i-gotta-hide.json](./267132-oh-satan-i-gotta-hide.json) |
+| Oh Sheep! | 207441 | [207441-oh-sheep.json](./207441-oh-sheep.json) |
 | Oh Sheep!: Baaaa | 212675 | [212675-oh-sheep-baaaa.json](./212675-oh-sheep-baaaa.json) |
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
