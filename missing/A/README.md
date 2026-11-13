@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
 | Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
 | Abeline Rush | 377432 | [377432-abeline-rush.json](./377432-abeline-rush.json) |
+| Abenteuer auf dem Reiterhof: Sonderedition | 210794 | [210794-abenteuer-auf-dem-reiterhof-sonderedition.json](./210794-abenteuer-auf-dem-reiterhof-sonderedition.json) |
 | Abenteuer Europa | 79076 | [79076-abenteuer-europa.json](./79076-abenteuer-europa.json) |
 | Abenteuer im Tierpark | 91633 | [91633-abenteuer-im-tierpark.json](./91633-abenteuer-im-tierpark.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
