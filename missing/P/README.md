@@ -12715,6 +12715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Tournament | 80399 | [80399-poker-tournament.json](./80399-poker-tournament.json) |
 | Poker Tower Defense | 197710 | [197710-poker-tower-defense.json](./197710-poker-tower-defense.json) |
+| Poker Tower Defense | 230009 | [230009-poker-tower-defense.json](./230009-poker-tower-defense.json) |
 | Poker Tower Defense | 309709 | [309709-poker-tower-defense.json](./309709-poker-tower-defense.json) |
 | Poker Town | 398819 | [398819-poker-town.json](./398819-poker-town.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
@@ -17798,6 +17799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Two - Mark Version | 215124 | [215124-project-summer-ice-bowling-story-two-mark-version.json](./215124-project-summer-ice-bowling-story-two-mark-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Pammy Version | 214941 | [214941-project-summer-ice-bowling-story-two-pammy-version.json](./214941-project-summer-ice-bowling-story-two-pammy-version.json) |
 | Project: Summer Ice - Pinball: Jane | 233034 | [233034-project-summer-ice-pinball-jane.json](./233034-project-summer-ice-pinball-jane.json) |
+| Project: Summer Ice - Pinball: Mark | 229988 | [229988-project-summer-ice-pinball-mark.json](./229988-project-summer-ice-pinball-mark.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: Summer Ice 5 - Ninja | 238700 | [238700-project-summer-ice-5-ninja.json](./238700-project-summer-ice-5-ninja.json) |
 | Project: Swap | 212610 | [212610-project-swap.json](./212610-project-swap.json) |
@@ -18461,6 +18463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycorp | 422677 | [422677-psycorp.json](./422677-psycorp.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Psycutlery | 135137 | [135137-psycutlery.json](./135137-psycutlery.json) |
+| Psyder | 229399 | [229399-psyder.json](./229399-psyder.json) |
 | Psyhonds | 402418 | [402418-psyhonds.json](./402418-psyhonds.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
