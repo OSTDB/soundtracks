@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
 | Far Cry 6: Control | 182124 | [182124-far-cry-6-control.json](./182124-far-cry-6-control.json) |
+| Far Cry 6: Danny & Dani Vs. Everybody | 186792 | [186792-far-cry-6-danny-and-dani-vs-everybody.json](./186792-far-cry-6-danny-and-dani-vs-everybody.json) |
 | Far Cry 6: Deluxe Edition | 187108 | [187108-far-cry-6-deluxe-edition.json](./187108-far-cry-6-deluxe-edition.json) |
 | Far Cry 6: Game of the Year Edition | 220800 | [220800-far-cry-6-game-of-the-year-edition.json](./220800-far-cry-6-game-of-the-year-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Few Nights More: Genesis | 278940 | [278940-few-nights-more-genesis.json](./278940-few-nights-more-genesis.json) |
 | Few Shall Return | 337777 | [337777-few-shall-return.json](./337777-few-shall-return.json) |
+| Fewar-DVD | 186794 | [186794-fewar-dvd.json](./186794-fewar-dvd.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
 | Feydome: Fairy Dress Up | 272323 | [272323-feydome-fairy-dress-up.json](./272323-feydome-fairy-dress-up.json) |
@@ -5184,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File 9 | 31121 | [31121-file-9.json](./31121-file-9.json) |
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
 | File Tricks | 372719 | [372719-file-tricks.json](./372719-file-tricks.json) |
+| File Under Kingdom | 186793 | [186793-file-under-kingdom.json](./186793-file-under-kingdom.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
 | FILF | 376967 | [376967-filf.json](./376967-filf.json) |
@@ -5716,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Knight | 219308 | [219308-final-knight.json](./219308-final-knight.json) |
 | Final Lap | 218367 | [218367-final-lap.json](./218367-final-lap.json) |
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
+| Final Lap 2000 | 185719 | [185719-final-lap-2000.json](./185719-final-lap-2000.json) |
 | Final Lap 3 | 337555 | [337555-final-lap-3.json](./337555-final-lap-3.json) |
 | Final Lap Twin | 42124 | [42124-final-lap-twin.json](./42124-final-lap-twin.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
@@ -10785,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forevolution | 26125 | [26125-forevolution.json](./26125-forevolution.json) |
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
+| ForeVR Darts | 185735 | [185735-forevr-darts.json](./185735-forevr-darts.json) |
 | ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
 | Forewarned | 157027 | [157027-forewarned.json](./157027-forewarned.json) |
 | Forex Trading Master: Simulator | 111000 | [111000-forex-trading-master-simulator.json](./111000-forex-trading-master-simulator.json) |
