@@ -8852,6 +8852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
+| Hina-chan's Big Trade! Millionaire Lunch | 186858 | [186858-hina-chans-big-trade-millionaire-lunch.json](./186858-hina-chans-big-trade-millionaire-lunch.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
 | Hinadori no Saezuri | 407963 | [407963-hinadori-no-saezuri.json](./407963-hinadori-no-saezuri.json) |
 | Hinakoi | 199950 | [199950-hinakoi.json](./199950-hinakoi.json) |
@@ -13008,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry for Home: A Cat's Tail | 242703 | [242703-hungry-for-home-a-cats-tail.json](./242703-hungry-for-home-a-cats-tail.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
+| Hungry Frog | 186213 | [186213-hungry-frog.json](./186213-hungry-frog.json) |
 | Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
 | Hungry Galaxies | 207079 | [207079-hungry-galaxies.json](./207079-hungry-galaxies.json) |
 | Hungry Ghosts | 43433 | [43433-hungry-ghosts.json](./43433-hungry-ghosts.json) |
