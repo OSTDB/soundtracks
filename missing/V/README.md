@@ -4228,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
 | VR Black Hole Travel Hypothesis | 172248 | [172248-vr-black-hole-travel-hypothesis.json](./172248-vr-black-hole-travel-hypothesis.json) |
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
+| VR Boxing Master | 170620 | [170620-vr-boxing-master.json](./170620-vr-boxing-master.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Brewing Simulator | 158631 | [158631-vr-brewing-simulator.json](./158631-vr-brewing-simulator.json) |
 | VR Bukkake | 384684 | [384684-vr-bukkake.json](./384684-vr-bukkake.json) |
@@ -4597,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vrun Corrupt The World | 404631 | [404631-vrun-corrupt-the-world.json](./404631-vrun-corrupt-the-world.json) |
 | VrUs | 179372 | [179372-vrus.json](./179372-vrus.json) |
 | VRWiz | 121124 | [121124-vrwiz.json](./121124-vrwiz.json) |
+| VRWorkout | 170585 | [170585-vrworkout.json](./170585-vrworkout.json) |
 | VRZ Torment | 32503 | [32503-vrz-torment.json](./32503-vrz-torment.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
 | VS Cartoon Cat | 305063 | [305063-vs-cartoon-cat.json](./305063-vs-cartoon-cat.json) |
