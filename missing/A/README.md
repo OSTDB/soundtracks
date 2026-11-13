@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Random Maze | 150481 | [150481-a-random-maze.json](./150481-a-random-maze.json) |
 | A Rare Encounter | 250077 | [250077-a-rare-encounter.json](./250077-a-rare-encounter.json) |
 | A Rat Fell in Love with a Human Girl | 82988 | [82988-a-rat-fell-in-love-with-a-human-girl.json](./82988-a-rat-fell-in-love-with-a-human-girl.json) |
+| A Rat's Life: The Cat Conspiracy | 193518 | [193518-a-rats-life-the-cat-conspiracy.json](./193518-a-rats-life-the-cat-conspiracy.json) |
 | A Rat's Quest: The Way Back Home | 122733 | [122733-a-rats-quest-the-way-back-home.json](./122733-a-rats-quest-the-way-back-home.json) |
 | A Rat's Quest: The Way Back Home - Season 2 | 399152 | [399152-a-rats-quest-the-way-back-home-season-2.json](./399152-a-rats-quest-the-way-back-home-season-2.json) |
 | A Raven Monologue | 81092 | [81092-a-raven-monologue.json](./81092-a-raven-monologue.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Vaulter | 341612 | [341612-abyss-vaulter.json](./341612-abyss-vaulter.json) |
 | Abyss Vein | 163024 | [163024-abyss-vein.json](./163024-abyss-vein.json) |
+| Abyss Walker | 193972 | [193972-abyss-walker.json](./193972-abyss-walker.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss X Zero | 289706 | [289706-abyss-x-zero.json](./289706-abyss-x-zero.json) |
 | Abyss: Backrooms Pools Horror | 324215 | [324215-abyss-backrooms-pools-horror.json](./324215-abyss-backrooms-pools-horror.json) |
@@ -3349,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action SuperCross | 174453 | [174453-action-supercross.json](./174453-action-supercross.json) |
+| Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | Action Turnip | 242896 | [242896-action-turnip.json](./242896-action-turnip.json) |
 | Action Unreal Tournament 2004 | 288927 | [288927-action-unreal-tournament-2004.json](./288927-action-unreal-tournament-2004.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
@@ -3644,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Adventures | 353276 | [353276-adorable-adventures.json](./353276-adorable-adventures.json) |
 | Adorable Dog: Gnomeageddon | 301253 | [301253-adorable-dog-gnomeageddon.json](./301253-adorable-dog-gnomeageddon.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
+| Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
 | Adorable Witch 3 | 197277 | [197277-adorable-witch-3.json](./197277-adorable-witch-3.json) |
@@ -8853,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternate Existence | 393695 | [393695-alternate-existence.json](./393695-alternate-existence.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
+| Alternate Universe | 193519 | [193519-alternate-universe.json](./193519-alternate-universe.json) |
 | Alternate Watch | 242704 | [242704-alternate-watch.json](./242704-alternate-watch.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | Alternatis: William the Conqueror | 417605 | [417605-alternatis-william-the-conqueror.json](./417605-alternatis-william-the-conqueror.json) |
@@ -15167,6 +15172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARK BOX Unlimited | 30576 | [30576-ark-box-unlimited.json](./30576-ark-box-unlimited.json) |
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Defender | 195821 | [195821-ark-defender.json](./195821-ark-defender.json) |
+| Ark Legends | 193982 | [193982-ark-legends.json](./193982-ark-legends.json) |
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
 | Ark Mobius: Censored Edition | 197289 | [197289-ark-mobius-censored-edition.json](./197289-ark-mobius-censored-edition.json) |
 | Ark Noir | 82880 | [82880-ark-noir.json](./82880-ark-noir.json) |
