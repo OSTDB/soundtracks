@@ -4048,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest: Tower of Probatio | 271561 | [271561-tempest-tower-of-probatio.json](./271561-tempest-tower-of-probatio.json) |
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
+| Templar | 177600 | [177600-templar.json](./177600-templar.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
 | Templar Assault | 375057 | [375057-templar-assault.json](./375057-templar-assault.json) |
 | Templar Battleforce | 13217 | [13217-templar-battleforce.json](./13217-templar-battleforce.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
 | Tetris Friends | 145213 | [145213-tetris-friends.json](./145213-tetris-friends.json) |
+| Tetris Game Watch | 178110 | [178110-tetris-game-watch.json](./178110-tetris-game-watch.json) |
 | Tetris Gems | 158991 | [158991-tetris-gems.json](./158991-tetris-gems.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
 | Tetris Girls | 214242 | [214242-tetris-girls.json](./214242-tetris-girls.json) |
@@ -10655,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fox Hare Disaster: Chapter One | 321882 | [321882-the-fox-hare-disaster-chapter-one.json](./321882-the-fox-hare-disaster-chapter-one.json) |
+| The Fox in the Forest | 177618 | [177618-the-fox-in-the-forest.json](./177618-the-fox-in-the-forest.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
 | The Fox's Drawing World | 188748 | [188748-the-foxs-drawing-world.json](./188748-the-foxs-drawing-world.json) |
 | The Fox's Dream | 383162 | [383162-the-foxs-dream.json](./383162-the-foxs-dream.json) |
@@ -12227,6 +12230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inner World 2 | 99344 | [99344-the-inner-world-2.json](./99344-the-inner-world-2.json) |
 | The Inner World: The Last Wind Monk | 29065 | [29065-the-inner-world-the-last-wind-monk.json](./29065-the-inner-world-the-last-wind-monk.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
+| The Innocent | 177610 | [177610-the-innocent.json](./177610-the-innocent.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
 | The Inpatient | 37089 | [37089-the-inpatient.json](./37089-the-inpatient.json) |
@@ -15043,6 +15047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Eater | 159957 | [159957-the-midnight-eater.json](./159957-the-midnight-eater.json) |
 | The Midnight Exorcist | 349230 | [349230-the-midnight-exorcist.json](./349230-the-midnight-exorcist.json) |
 | The Midnight Game | 379914 | [379914-the-midnight-game.json](./379914-the-midnight-game.json) |
+| The Midnight Janitor Tales | 178114 | [178114-the-midnight-janitor-tales.json](./178114-the-midnight-janitor-tales.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
@@ -18694,6 +18699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy I Married | 327991 | [327991-the-spy-i-married.json](./327991-the-spy-i-married.json) |
 | The Spy Strikes Back! | 295988 | [295988-the-spy-strikes-back.json](./295988-the-spy-strikes-back.json) |
 | The Spy Who Loved Me 64 | 268719 | [268719-the-spy-who-loved-me-64.json](./268719-the-spy-who-loved-me-64.json) |
+| The Spy Who Shot Me | 177603 | [177603-the-spy-who-shot-me.json](./177603-the-spy-who-shot-me.json) |
 | The Spy's Adventures in Europe | 54642 | [54642-the-spys-adventures-in-europe.json](./54642-the-spys-adventures-in-europe.json) |
 | The Spy's Adventures in North America | 54641 | [54641-the-spys-adventures-in-north-america.json](./54641-the-spys-adventures-in-north-america.json) |
 | The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
