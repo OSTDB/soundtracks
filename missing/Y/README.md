@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuza | 188779 | [188779-yuza.json](./188779-yuza.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
 | Yuzi Lims: anime runner | 81961 | [81961-yuzi-lims-anime-runner.json](./81961-yuzi-lims-anime-runner.json) |
+| Yuzi Lims: Puzzle | 173862 | [173862-yuzi-lims-puzzle.json](./173862-yuzi-lims-puzzle.json) |
 | Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
 | Yves: Crazy Student | 327967 | [327967-yves-crazy-student.json](./327967-yves-crazy-student.json) |
 | Yvy | 304515 | [304515-yvy.json](./304515-yvy.json) |
