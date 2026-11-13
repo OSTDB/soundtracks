@@ -6894,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty | 301707 | [301707-the-beauty.json](./301707-the-beauty.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
+| The Beauty of Poppies | 240548 | [240548-the-beauty-of-poppies.json](./240548-the-beauty-of-poppies.json) |
 | The Bed Above My Head | 407767 | [407767-the-bed-above-my-head.json](./407767-the-bed-above-my-head.json) |
 | The Bed Was Cold | 179489 | [179489-the-bed-was-cold.json](./179489-the-bed-was-cold.json) |
 | The Bedtime Story | 30640 | [30640-the-bedtime-story.json](./30640-the-bedtime-story.json) |
@@ -13440,7 +13441,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes III: Shiroki Majo | 105413 | [105413-the-legend-of-heroes-iii-shiroki-majo.json](./105413-the-legend-of-heroes-iii-shiroki-majo.json) |
 | The Legend of Heroes III: Song of the Ocean | 10944 | [10944-the-legend-of-heroes-iii-song-of-the-ocean.json](./10944-the-legend-of-heroes-iii-song-of-the-ocean.json) |
 | The Legend of Heroes in the Jianghu | 210864 | [210864-the-legend-of-heroes-in-the-jianghu.json](./210864-the-legend-of-heroes-in-the-jianghu.json) |
+| The Legend of Heroes IV: Akai Shizuku | 240542 | [240542-the-legend-of-heroes-iv-akai-shizuku.json](./240542-the-legend-of-heroes-iv-akai-shizuku.json) |
 | The Legend of Heroes IV: Akai Shizuku | 399972 | [399972-the-legend-of-heroes-iv-akai-shizuku.json](./399972-the-legend-of-heroes-iv-akai-shizuku.json) |
+| The Legend of Heroes V: Umi no Oriuta | 240540 | [240540-the-legend-of-heroes-v-umi-no-oriuta.json](./240540-the-legend-of-heroes-v-umi-no-oriuta.json) |
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
 | The Legend of Heroes: Akatsuki no Kiseki | 74267 | [74267-the-legend-of-heroes-akatsuki-no-kiseki.json](./74267-the-legend-of-heroes-akatsuki-no-kiseki.json) |
 | The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
@@ -21304,6 +21307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus | 145161 | [145161-theseus.json](./145161-theseus.json) |
 | Theseus | 27216 | [27216-theseus.json](./27216-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
+| Theseus in the Dark | 240547 | [240547-theseus-in-the-dark.json](./240547-theseus-in-the-dark.json) |
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
 | Theseus: Mythological Hero | 195315 | [195315-theseus-mythological-hero.json](./195315-theseus-mythological-hero.json) |
@@ -29761,6 +29765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
 | Trabi vs. Zombies: Apocalypse VR | 233073 | [233073-trabi-vs-zombies-apocalypse-vr.json](./233073-trabi-vs-zombies-apocalypse-vr.json) |
 | Tracadie Bird Shit | 231117 | [231117-tracadie-bird-shit.json](./231117-tracadie-bird-shit.json) |
+| Trace | 240458 | [240458-trace.json](./240458-trace.json) |
 | Trace | 297830 | [297830-trace.json](./297830-trace.json) |
 | Trace | 92662 | [92662-trace.json](./92662-trace.json) |
 | Trace 2 | 103654 | [103654-trace-2.json](./103654-trace-2.json) |
