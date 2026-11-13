@@ -6854,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Moon of Mercury | 371005 | [371005-first-moon-of-mercury.json](./371005-first-moon-of-mercury.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Page of Love | 254955 | [254955-first-page-of-love.json](./254955-first-page-of-love.json) |
+| First Parsec | 193000 | [193000-first-parsec.json](./193000-first-parsec.json) |
 | First Past the Post | 14071 | [14071-first-past-the-post.json](./14071-first-past-the-post.json) |
 | First Person Hooper | 237329 | [237329-first-person-hooper.json](./237329-first-person-hooper.json) |
 | First Person Lover | 238606 | [238606-first-person-lover.json](./238606-first-person-lover.json) |
