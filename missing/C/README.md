@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Combat | 69006 | [69006-call-of-combat.json](./69006-call-of-combat.json) |
+| Call of Commander | 212407 | [212407-call-of-commander.json](./212407-call-of-commander.json) |
 | Call of Commander: Zombie Island | 201942 | [201942-call-of-commander-zombie-island.json](./201942-call-of-commander-zombie-island.json) |
 | Call of Corona: Micro Warfare | 137750 | [137750-call-of-corona-micro-warfare.json](./137750-call-of-corona-micro-warfare.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
 | Cat Game! | 112545 | [112545-cat-game.json](./112545-cat-game.json) |
 | Cat Gamer | 247316 | [247316-cat-gamer.json](./247316-cat-gamer.json) |
+| Cat Games | 212385 | [212385-cat-games.json](./212385-cat-games.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Gets Medieval | 144972 | [144972-cat-gets-medieval.json](./144972-cat-gets-medieval.json) |
 | Cat Girl | 83871 | [83871-cat-girl.json](./83871-cat-girl.json) |
@@ -19356,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
 | Critter Kart | 122216 | [122216-critter-kart.json](./122216-critter-kart.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
+| Critter Panic! | 212410 | [212410-critter-panic.json](./212410-critter-panic.json) |
 | Critter Round-Up | 21824 | [21824-critter-round-up.json](./21824-critter-round-up.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critter Town | 323597 | [323597-critter-town.json](./323597-critter-town.json) |
