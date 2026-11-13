@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X3: Reunion - Bonus Package | 224392 | [224392-x3-reunion-bonus-package.json](./224392-x3-reunion-bonus-package.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
 | X3: Terran Conflict - Bonus Package | 224393 | [224393-x3-terran-conflict-bonus-package.json](./224393-x3-terran-conflict-bonus-package.json) |
+| X4 2022 Bundle | 199411 | [199411-x4-2022-bundle.json](./199411-x4-2022-bundle.json) |
 | X4: Envoy Pack | 369445 | [369445-x4-envoy-pack.json](./369445-x4-envoy-pack.json) |
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Diplomacy Update | 339616 | [339616-x4-foundations-diplomacy-update.json](./339616-x4-foundations-diplomacy-update.json) |
