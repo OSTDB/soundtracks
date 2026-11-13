@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Knights: Commander’s Edition | 392660 | [392660-panzer-knights-commander-s-edition.json](./392660-panzer-knights-commander-s-edition.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
+| Panzer Paladin: Challenge Core | 238703 | [238703-panzer-paladin-challenge-core.json](./238703-panzer-paladin-challenge-core.json) |
 | Panzer Panic | 66449 | [66449-panzer-panic.json](./66449-panzer-panic.json) |
 | Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
@@ -10628,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player of the Year | 404852 | [404852-player-of-the-year.json](./404852-player-of-the-year.json) |
 | Player Power | 156938 | [156938-player-power.json](./156938-player-power.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
+| Player's Eleven: A Football Manager Game | 238783 | [238783-players-eleven-a-football-manager-game.json](./238783-players-eleven-a-football-manager-game.json) |
 | Playerless: One Button Adventure | 116658 | [116658-playerless-one-button-adventure.json](./116658-playerless-one-button-adventure.json) |
 | PlayerOne | 125678 | [125678-playerone.json](./125678-playerone.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
@@ -17007,6 +17009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Centauri | 115494 | [115494-project-centauri.json](./115494-project-centauri.json) |
 | Project Cerberus | 42875 | [42875-project-cerberus.json](./42875-project-cerberus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
+| Project Chaos | 238775 | [238775-project-chaos.json](./238775-project-chaos.json) |
 | Project Chemistry | 132116 | [132116-project-chemistry.json](./132116-project-chemistry.json) |
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
 | Project Chimera | 268270 | [268270-project-chimera.json](./268270-project-chimera.json) |
@@ -17766,6 +17769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Two - Pammy Version | 214941 | [214941-project-summer-ice-bowling-story-two-pammy-version.json](./214941-project-summer-ice-bowling-story-two-pammy-version.json) |
 | Project: Summer Ice - Pinball: Jane | 233034 | [233034-project-summer-ice-pinball-jane.json](./233034-project-summer-ice-pinball-jane.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
+| Project: Summer Ice 5 - Ninja | 238700 | [238700-project-summer-ice-5-ninja.json](./238700-project-summer-ice-5-ninja.json) |
 | Project: Swap | 212610 | [212610-project-swap.json](./212610-project-swap.json) |
 | Project: Sword Art | 264929 | [264929-project-sword-art.json](./264929-project-sword-art.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
