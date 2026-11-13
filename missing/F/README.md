@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feyght | 189043 | [189043-feyght.json](./189043-feyght.json) |
 | Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
 | Feylin | 164188 | [164188-feylin.json](./164188-feylin.json) |
+| Feyna's Quest | 198426 | [198426-feynas-quest.json](./198426-feynas-quest.json) |
 | Feyruna - Fairy Forest | 73134 | [73134-feyruna-fairy-forest.json](./73134-feyruna-fairy-forest.json) |
 | Feywood Wanderers | 351371 | [351371-feywood-wanderers.json](./351371-feywood-wanderers.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
@@ -5773,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
 | Final Space: The Rescue | 187062 | [187062-final-space-the-rescue.json](./187062-final-space-the-rescue.json) |
+| Final Spike | 198427 | [198427-final-spike.json](./198427-final-spike.json) |
 | Final Spin | 304413 | [304413-final-spin.json](./304413-final-spin.json) |
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
 | Final Stand Waves | 394672 | [394672-final-stand-waves.json](./394672-final-stand-waves.json) |
@@ -10327,6 +10329,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 18 - Mirage | 154741 | [154741-for-honor-season-18-mirage.json](./154741-for-honor-season-18-mirage.json) |
 | For Honor: Season 19 - Tempest | 183116 | [183116-for-honor-season-19-tempest.json](./183116-for-honor-season-19-tempest.json) |
 | For Honor: Season 2 - Shadow and Might | 154716 | [154716-for-honor-season-2-shadow-and-might.json](./154716-for-honor-season-2-shadow-and-might.json) |
+| For Honor: Season 20 - Frozen Shores | 198269 | [198269-for-honor-season-20-frozen-shores.json](./198269-for-honor-season-20-frozen-shores.json) |
+| For Honor: Season 21 - Golden Age | 198270 | [198270-for-honor-season-21-golden-age.json](./198270-for-honor-season-21-golden-age.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Season 3 - Grudge & Glory | 154717 | [154717-for-honor-season-3-grudge-and-glory.json](./154717-for-honor-season-3-grudge-and-glory.json) |
