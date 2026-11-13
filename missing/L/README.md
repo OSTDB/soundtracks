@@ -10231,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Summoner | 324640 | [324640-lucky-summoner.json](./324640-lucky-summoner.json) |
 | Lucky Swirl Island | 402703 | [402703-lucky-swirl-island.json](./402703-lucky-swirl-island.json) |
 | Lucky Time | 287532 | [287532-lucky-time.json](./287532-lucky-time.json) |
+| Lucky Tlhalerwa: IMS Death Squad | 213502 | [213502-lucky-tlhalerwa-ims-death-squad.json](./213502-lucky-tlhalerwa-ims-death-squad.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
