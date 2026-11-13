@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268531 | [268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Zaiteku Satsujin Jiken | 48869 | [48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json](./48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json) |
+| Yamao-den | 201205 | [201205-yamao-den.json](./201205-yamao-den.json) |
 | Yamasa Digi Guide: Faust | 361388 | [361388-yamasa-digi-guide-faust.json](./361388-yamasa-digi-guide-faust.json) |
 | Yamasa Digi Guide: Hyper Rush | 357102 | [357102-yamasa-digi-guide-hyper-rush.json](./357102-yamasa-digi-guide-hyper-rush.json) |
 | Yamasa Digi Guide: M-771 | 357103 | [357103-yamasa-digi-guide-m-771.json](./357103-yamasa-digi-guide-m-771.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo! Noid Was Ahead of its Time | 177171 | [177171-yo-noid-was-ahead-of-its-time.json](./177171-yo-noid-was-ahead-of-its-time.json) |
 | Yo! Walk the Line | 96324 | [96324-yo-walk-the-line.json](./96324-yo-walk-the-line.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
+| Yoake | 201201 | [201201-yoake.json](./201201-yoake.json) |
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
 | Yoake Mae yori Ruri-iro na: Brighter than Dawning Blue | 165844 | [165844-yoake-mae-yori-ruri-iro-na-brighter-than-dawning-blue.json](./165844-yoake-mae-yori-ruri-iro-na-brighter-than-dawning-blue.json) |
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
@@ -2111,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Radio | 220769 | [220769-yume-no-radio.json](./220769-yume-no-radio.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume no Tsubasa | 166390 | [166390-yume-no-tsubasa.json](./166390-yume-no-tsubasa.json) |
+| Yume no Tsuzuki. | 201190 | [201190-yume-no-tsuzuki.json](./201190-yume-no-tsuzuki.json) |
 | Yume Noroi | 166426 | [166426-yume-noroi.json](./166426-yume-noroi.json) |
 | Yume Nyaki | 201639 | [201639-yume-nyaki.json](./201639-yume-nyaki.json) |
 | Yume Otoshi | 205964 | [205964-yume-otoshi.json](./205964-yume-otoshi.json) |
