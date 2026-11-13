@@ -8211,6 +8211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark | 313931 | [313931-shark.json](./313931-shark.json) |
 | Shark | 98687 | [98687-shark.json](./98687-shark.json) |
 | Shark Adventure | 192041 | [192041-shark-adventure.json](./192041-shark-adventure.json) |
+| Shark Adventure | 212392 | [212392-shark-adventure.json](./212392-shark-adventure.json) |
 | Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
@@ -23191,6 +23192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Fist | 383200 | [383200-spell-fist.json](./383200-spell-fist.json) |
 | Spell Fragments | 372174 | [372174-spell-fragments.json](./372174-spell-fragments.json) |
 | Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
+| Spell Hero | 212405 | [212405-spell-hero.json](./212405-spell-hero.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
 | Spell Knight | 404683 | [404683-spell-knight.json](./404683-spell-knight.json) |
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
@@ -25580,7 +25582,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeebing Up the Tower of Friendship | 258406 | [258406-squeebing-up-the-tower-of-friendship.json](./258406-squeebing-up-the-tower-of-friendship.json) |
 | Squeek, the meek | 184974 | [184974-squeek-the-meek.json](./184974-squeek-the-meek.json) |
 | Squeeks: Trickshot Festival | 258395 | [258395-squeeks-trickshot-festival.json](./258395-squeeks-trickshot-festival.json) |
+| Squeen's Adventure | 212389 | [212389-squeens-adventure.json](./212389-squeens-adventure.json) |
+| Squeen's Adventure 2: Crash on Mars | 212409 | [212409-squeens-adventure-2-crash-on-mars.json](./212409-squeens-adventure-2-crash-on-mars.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
+| Squeen's Adventure: Alien Edition | 212406 | [212406-squeens-adventure-alien-edition.json](./212406-squeens-adventure-alien-edition.json) |
 | Squeen's Adventure: Definitive Edition | 288684 | [288684-squeens-adventure-definitive-edition.json](./288684-squeens-adventure-definitive-edition.json) |
 | Squeeze | 344987 | [344987-squeeze.json](./344987-squeeze.json) |
 | Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
@@ -29461,6 +29466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
 | Sting Operation | 300748 | [300748-sting-operation.json](./300748-sting-operation.json) |
+| Stinger Foosball League | 212386 | [212386-stinger-foosball-league.json](./212386-stinger-foosball-league.json) |
 | Stinger Table Hockey | 96823 | [96823-stinger-table-hockey.json](./96823-stinger-table-hockey.json) |
 | Stinger: Episode 1 | 363123 | [363123-stinger-episode-1.json](./363123-stinger-episode-1.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
@@ -30268,6 +30274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego | 88896 | [88896-stratego.json](./88896-stratego.json) |
 | Stratego | 88897 | [88897-stratego.json](./88897-stratego.json) |
+| Stratego Battle Cards | 212403 | [212403-stratego-battle-cards.json](./212403-stratego-battle-cards.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
 | Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
 | Stratego: Single Player | 91174 | [91174-stratego-single-player.json](./91174-stratego-single-player.json) |
