@@ -1020,7 +1020,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | CallBreak: Fun Card Game | 99201 | [99201-callbreak-fun-card-game.json](./99201-callbreak-fun-card-game.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
-| Caller's Bane | 2600 | [2600-callers-bane.json](./2600-callers-bane.json) |
 | Calligraphic | 387852 | [387852-calligraphic.json](./387852-calligraphic.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
 | Calling | 4742 | [4742-calling.json](./4742-calling.json) |
@@ -15735,7 +15734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Dream | 227455 | [227455-cooking-dream.json](./227455-cooking-dream.json) |
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
-| Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
 | Cooking Food Maker Games | 89316 | [89316-cooking-food-maker-games.json](./89316-cooking-food-maker-games.json) |
 | Cooking for CrabTopia! | 300501 | [300501-cooking-for-crabtopia.json](./300501-cooking-for-crabtopia.json) |
