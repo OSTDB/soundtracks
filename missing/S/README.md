@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
 | Scooby Doo's Maze Chase | 41459 | [41459-scooby-doos-maze-chase.json](./41459-scooby-doos-maze-chase.json) |
+| Scooby Horror | 176410 | [176410-scooby-horror.json](./176410-scooby-horror.json) |
 | Scooby Trap | 413585 | [413585-scooby-trap.json](./413585-scooby-trap.json) |
 | Scooby-Doo | 198881 | [198881-scooby-doo.json](./198881-scooby-doo.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
@@ -7287,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Corps | 55003 | [55003-shadow-corps.json](./55003-shadow-corps.json) |
 | Shadow Corridor | 172854 | [172854-shadow-corridor.json](./172854-shadow-corridor.json) |
+| Shadow Corridor | 176009 | [176009-shadow-corridor.json](./176009-shadow-corridor.json) |
 | Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
@@ -9093,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Galaxy: Engage | 259598 | [259598-shin-galaxy-engage.json](./259598-shin-galaxy-engage.json) |
 | Shin Gouketsuji Ichizoku: Bonnou no Kaihou | 71914 | [71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json](./71914-shin-gouketsuji-ichizoku-bonnou-no-kaihou.json) |
 | Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
+| Shin Gyakuten Touhou | 176003 | [176003-shin-gyakuten-touhou.json](./176003-shin-gyakuten-touhou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami 1-2 Pack | 118125 | [118125-shin-hayarigami-1-2-pack.json](./118125-shin-hayarigami-1-2-pack.json) |
 | Shin Hayarigami 2 | 26148 | [26148-shin-hayarigami-2.json](./26148-shin-hayarigami-2.json) |
@@ -27609,6 +27612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
 | Starjammer | 120526 | [120526-starjammer.json](./120526-starjammer.json) |
 | Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
+| Starjump | 176414 | [176414-starjump.json](./176414-starjump.json) |
 | Stark Monstrosity | 271509 | [271509-stark-monstrosity.json](./271509-stark-monstrosity.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
@@ -38097,6 +38101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sutobasu Yarou Shou | 42426 | [42426-sutobasu-yarou-shou.json](./42426-sutobasu-yarou-shou.json) |
 | Sutopuri Nurie | 193783 | [193783-sutopuri-nurie.json](./193783-sutopuri-nurie.json) |
 | Sutte Hakkun | 151967 | [151967-sutte-hakkun.json](./151967-sutte-hakkun.json) |
+| Sutte Hakkun | 176000 | [176000-sutte-hakkun.json](./176000-sutte-hakkun.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Sutte Hakkun GB | 142903 | [142903-sutte-hakkun-gb.json](./142903-sutte-hakkun-gb.json) |
