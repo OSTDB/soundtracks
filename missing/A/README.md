@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely: A True Crime Story | 117996 | [117996-absolutely-a-true-crime-story.json](./117996-absolutely-a-true-crime-story.json) |
 | Absolution | 412708 | [412708-absolution.json](./412708-absolution.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
+| Absolution's Apple | 228164 | [228164-absolutions-apple.json](./228164-absolutions-apple.json) |
 | Absølve | 388778 | [388778-abs-lve.json](./388778-abs-lve.json) |
 | Absolved | 389697 | [389697-absolved.json](./389697-absolved.json) |
 | Absolver: Adalian Forest Pack | 223817 | [223817-absolver-adalian-forest-pack.json](./223817-absolver-adalian-forest-pack.json) |
@@ -6364,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Simulator 2015 | 17771 | [17771-airport-simulator-2015.json](./17771-airport-simulator-2015.json) |
 | Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
+| Airport Simulator: First Class | 228158 | [228158-airport-simulator-first-class.json](./228158-airport-simulator-first-class.json) |
 | Airport Tower Simulator 2012 | 52385 | [52385-airport-tower-simulator-2012.json](./52385-airport-tower-simulator-2012.json) |
 | Airport Trucks Car Parking Simulator | 254722 | [254722-airport-trucks-car-parking-simulator.json](./254722-airport-trucks-car-parking-simulator.json) |
 | Airport Tycoon | 78900 | [78900-airport-tycoon.json](./78900-airport-tycoon.json) |
@@ -8655,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphaset by Powgi | 140411 | [140411-alphaset-by-powgi.json](./140411-alphaset-by-powgi.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
+| Alphie the Squid | 228187 | [228187-alphie-the-squid.json](./228187-alphie-the-squid.json) |
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine | 374014 | [374014-alpine.json](./374014-alpine.json) |
@@ -10840,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
 | Angry Zombie Basket | 213078 | [213078-angry-zombie-basket.json](./213078-angry-zombie-basket.json) |
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
+| AngryCup | 228157 | [228157-angrycup.json](./228157-angrycup.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
 | Angst-Rom's RAM Page | 184553 | [184553-angst-roms-ram-page.json](./184553-angst-roms-ram-page.json) |
@@ -13066,6 +13070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APUS: Bird Simulator | 326487 | [326487-apus-bird-simulator.json](./326487-apus-bird-simulator.json) |
 | Apventure to Atlantis | 23291 | [23291-apventure-to-atlantis.json](./23291-apventure-to-atlantis.json) |
 | AQ First Contact | 158934 | [158934-aq-first-contact.json](./158934-aq-first-contact.json) |
+| AQ2: Expanse | 228648 | [228648-aq2-expanse.json](./228648-aq2-expanse.json) |
 | Aqi 155 | 222369 | [222369-aqi-155.json](./222369-aqi-155.json) |
 | Aqorel | 200807 | [200807-aqorel.json](./200807-aqorel.json) |
 | AQRA Tenses: Learn English | 237280 | [237280-aqra-tenses-learn-english.json](./237280-aqra-tenses-learn-english.json) |
@@ -14645,9 +14650,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArduLO | 414321 | [414321-ardulo.json](./414321-ardulo.json) |
 | Arduminer | 227998 | [227998-arduminer.json](./227998-arduminer.json) |
 | ArduRogue | 317192 | [317192-ardurogue.json](./317192-ardurogue.json) |
+| Ardusweeper | 228179 | [228179-ardusweeper.json](./228179-ardusweeper.json) |
 | Arduventure | 144324 | [144324-arduventure.json](./144324-arduventure.json) |
 | Ardy Lightfoot | 42736 | [42736-ardy-lightfoot.json](./42736-ardy-lightfoot.json) |
 | Ardy the Aardvark | 25036 | [25036-ardy-the-aardvark.json](./25036-ardy-the-aardvark.json) |
+| Ardynia | 228180 | [228180-ardynia.json](./228180-ardynia.json) |
 | Are U OK? | 179065 | [179065-are-u-ok.json](./179065-are-u-ok.json) |
 | Are We Sinking Yet? | 400961 | [400961-are-we-sinking-yet.json](./400961-are-we-sinking-yet.json) |
 | Are We Thawing | 241984 | [241984-are-we-thawing.json](./241984-are-we-thawing.json) |
