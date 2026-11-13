@@ -7937,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Shoot Gold | 27706 | [27706-chicken-shoot-gold.json](./27706-chicken-shoot-gold.json) |
+| Chicken Shoot: Easter Eggs | 204574 | [204574-chicken-shoot-easter-eggs.json](./204574-chicken-shoot-easter-eggs.json) |
 | Chicken Smoothie | 225707 | [225707-chicken-smoothie.json](./225707-chicken-smoothie.json) |
 | Chicken Story 2 | 256663 | [256663-chicken-story-2.json](./256663-chicken-story-2.json) |
 | Chicken Strike: Cluck Ops | 314120 | [314120-chicken-strike-cluck-ops.json](./314120-chicken-strike-cluck-ops.json) |
@@ -11070,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
 | Clean Half-Life | 255904 | [255904-clean-half-life.json](./255904-clean-half-life.json) |
+| Clean It All | 204615 | [204615-clean-it-all.json](./204615-clean-it-all.json) |
 | Clean It Dry It | 377023 | [377023-clean-it-dry-it.json](./377023-clean-it-dry-it.json) |
 | Clean it Up! | 335150 | [335150-clean-it-up.json](./335150-clean-it-up.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
@@ -13633,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Spring Pack | 162597 | [162597-coloring-pixels-spring-pack.json](./162597-coloring-pixels-spring-pack.json) |
 | Coloring Pixels: Stained Glass Pack | 248398 | [248398-coloring-pixels-stained-glass-pack.json](./248398-coloring-pixels-stained-glass-pack.json) |
 | Coloring Pixels: Steampunk Pack | 231329 | [231329-coloring-pixels-steampunk-pack.json](./231329-coloring-pixels-steampunk-pack.json) |
+| Coloring Pixels: Summer Pack | 204586 | [204586-coloring-pixels-summer-pack.json](./204586-coloring-pixels-summer-pack.json) |
 | Coloring Pixels: Tarot Pack | 225005 | [225005-coloring-pixels-tarot-pack.json](./225005-coloring-pixels-tarot-pack.json) |
 | Coloring Pixels: Technology Pack | 162614 | [162614-coloring-pixels-technology-pack.json](./162614-coloring-pixels-technology-pack.json) |
 | Coloring Pixels: Time Travel Pack | 280950 | [280950-coloring-pixels-time-travel-pack.json](./280950-coloring-pixels-time-travel-pack.json) |
