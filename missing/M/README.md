@@ -14070,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Sports | 244693 | [244693-mini-sports.json](./244693-mini-sports.json) |
 | Mini Sports Collection | 84633 | [84633-mini-sports-collection.json](./84633-mini-sports-collection.json) |
 | Mini Star Bakery | 223288 | [223288-mini-star-bakery.json](./223288-mini-star-bakery.json) |
+| Mini Star Cafe | 238697 | [238697-mini-star-cafe.json](./238697-mini-star-cafe.json) |
 | Mini Star Fishing | 204045 | [204045-mini-star-fishing.json](./204045-mini-star-fishing.json) |
 | Mini Star Imposters | 285419 | [285419-mini-star-imposters.json](./285419-mini-star-imposters.json) |
 | Mini Star Math | 294088 | [294088-mini-star-math.json](./294088-mini-star-math.json) |
@@ -22054,6 +22055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Sheep | 338480 | [338480-my-dear-sheep.json](./338480-my-dear-sheep.json) |
 | My Dear Sister | 213449 | [213449-my-dear-sister.json](./213449-my-dear-sister.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
+| My Defense Story | 238706 | [238706-my-defense-story.json](./238706-my-defense-story.json) |
 | My Defi Pet | 178220 | [178220-my-defi-pet.json](./178220-my-defi-pet.json) |
 | My Demon Wife | 243299 | [243299-my-demon-wife.json](./243299-my-demon-wife.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
