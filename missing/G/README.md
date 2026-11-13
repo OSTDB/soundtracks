@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Affairs | 214058 | [214058-garden-affairs.json](./214058-garden-affairs.json) |
 | Garden and a Goat | 366277 | [366277-garden-and-a-goat.json](./366277-garden-and-a-goat.json) |
 | Garden Apocalypse | 310878 | [310878-garden-apocalypse.json](./310878-garden-apocalypse.json) |
+| Garden Balls | 220239 | [220239-garden-balls.json](./220239-garden-balls.json) |
 | Garden Blast | 354974 | [354974-garden-blast.json](./354974-garden-blast.json) |
 | Garden Bots | 395900 | [395900-garden-bots.json](./395900-garden-bots.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' civilization | 113267 | [113267-girls-civilization.json](./113267-girls-civilization.json) |
 | Girls' Civilization 2 | 143395 | [143395-girls-civilization-2.json](./143395-girls-civilization-2.json) |
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
+| Girls' Crush | 220236 | [220236-girls-crush.json](./220236-girls-crush.json) |
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Dorm Wars | 359346 | [359346-girls-dorm-wars.json](./359346-girls-dorm-wars.json) |
 | Girls’ Dorm: Managing an All-Girls’ Dormitory | 396952 | [396952-girls-dorm-managing-an-all-girls-dormitory.json](./396952-girls-dorm-managing-an-all-girls-dormitory.json) |
@@ -5927,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
 | Go Domino | 232271 | [232271-go-domino.json](./232271-go-domino.json) |
+| Go Escape! | 220242 | [220242-go-escape.json](./220242-go-escape.json) |
 | Go Far Away | 130077 | [130077-go-far-away.json](./130077-go-far-away.json) |
 | Go Far, M.I.N.G. | 417983 | [417983-go-far-m-i-n-g.json](./417983-go-far-m-i-n-g.json) |
 | Go Fetch! | 186133 | [186133-go-fetch.json](./186133-go-fetch.json) |
@@ -7825,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonya Monster: Buster - Lord Ham/Fake Type | 279871 | [279871-goonya-monster-buster-lord-ham-fake-type.json](./279871-goonya-monster-buster-lord-ham-fake-type.json) |
 | Goonya Monster: Digital Deluxe Edition | 225330 | [225330-goonya-monster-digital-deluxe-edition.json](./225330-goonya-monster-digital-deluxe-edition.json) |
 | Goonya Monster: Fake Type - Pack 2 | 279870 | [279870-goonya-monster-fake-type-pack-2.json](./279870-goonya-monster-fake-type-pack-2.json) |
+| Goonyan | 220367 | [220367-goonyan.json](./220367-goonyan.json) |
 | Goooal | 309010 | [309010-goooal.json](./309010-goooal.json) |
 | Goooooal América | 61462 | [61462-goooooal-america.json](./61462-goooooal-america.json) |
 | Goooool! | 312142 | [312142-goooool.json](./312142-goooool.json) |
