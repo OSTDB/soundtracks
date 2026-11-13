@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa | 412650 | [412650-papa.json](./412650-papa.json) |
 | Papa Louie 2: When Burgers Attack! | 56402 | [56402-papa-louie-2-when-burgers-attack.json](./56402-papa-louie-2-when-burgers-attack.json) |
 | Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
+| Papa Louie: When Pizzas Attack! | 186209 | [186209-papa-louie-when-pizzas-attack.json](./186209-papa-louie-when-pizzas-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
@@ -1681,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Hot Doggeria to Go! | 101417 | [101417-papas-hot-doggeria-to-go.json](./101417-papas-hot-doggeria-to-go.json) |
 | Papa's Mocharia Deluxe | 399974 | [399974-papas-mocharia-deluxe.json](./399974-papas-mocharia-deluxe.json) |
+| Papa's Mocharia to Go! | 185727 | [185727-papas-mocharia-to-go.json](./185727-papas-mocharia-to-go.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
@@ -16687,7 +16689,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProBoon | 109425 | [109425-proboon.json](./109425-proboon.json) |
 | Probot Soccer | 276829 | [276829-probot-soccer.json](./276829-probot-soccer.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
+| Probotector | 186203 | [186203-probotector.json](./186203-probotector.json) |
+| Probotector | 186206 | [186206-probotector.json](./186206-probotector.json) |
 | Probotector | 280477 | [280477-probotector.json](./280477-probotector.json) |
+| Probotector 2 | 186204 | [186204-probotector-2.json](./186204-probotector-2.json) |
+| Probotector II: Return of the Evil Forces | 186201 | [186201-probotector-ii-return-of-the-evil-forces.json](./186201-probotector-ii-return-of-the-evil-forces.json) |
 | Procambarus Fallax | 261122 | [261122-procambarus-fallax.json](./261122-procambarus-fallax.json) |
 | Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
