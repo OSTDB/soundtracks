@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take Care, Out There | 181736 | [181736-take-care-out-there.json](./181736-take-care-out-there.json) |
 | Take Command: 2nd Manassas | 23144 | [23144-take-command-2nd-manassas.json](./23144-take-command-2nd-manassas.json) |
+| Take Control | 211337 | [211337-take-control.json](./211337-take-control.json) |
 | Take Cover Now | 304754 | [304754-take-cover-now.json](./304754-take-cover-now.json) |
 | Take Cover! | 120243 | [120243-take-cover.json](./120243-take-cover.json) |
 | Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
@@ -16203,6 +16204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Picture in the House | 142789 | [142789-the-picture-in-the-house.json](./142789-the-picture-in-the-house.json) |
 | The Picture of Cafe au Lait | 248442 | [248442-the-picture-of-cafe-au-lait.json](./248442-the-picture-of-cafe-au-lait.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
+| The Pier Arcade | 211327 | [211327-the-pier-arcade.json](./211327-the-pier-arcade.json) |
 | The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
 | The Pig D | 180895 | [180895-the-pig-d.json](./180895-the-pig-d.json) |
 | The Pig D: Deluxe Edition | 225960 | [225960-the-pig-d-deluxe-edition.json](./225960-the-pig-d-deluxe-edition.json) |
@@ -19791,6 +19793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twiggles VR | 107508 | [107508-the-twiggles-vr.json](./107508-the-twiggles-vr.json) |
 | The Twilight of Infinity | 201443 | [201443-the-twilight-of-infinity.json](./201443-the-twilight-of-infinity.json) |
 | The Twilight of Infinity Episode 2 - Attack on the Hydro Processor | 202432 | [202432-the-twilight-of-infinity-episode-2-attack-on-the-hydro-processor.json](./202432-the-twilight-of-infinity-episode-2-attack-on-the-hydro-processor.json) |
+| The Twilight of Infinity Episode 3: A Deuce of Devils | 211365 | [211365-the-twilight-of-infinity-episode-3-a-deuce-of-devils.json](./211365-the-twilight-of-infinity-episode-3-a-deuce-of-devils.json) |
 | The Twilight of Infinity Episode 5: Flight into Yesterday - The Disappearance of Amelia Earhart | 220515 | [220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json](./220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json) |
 | The Twilight of Infinity: Episode 4 - Therefore I Am | 215724 | [215724-the-twilight-of-infinity-episode-4-therefore-i-am.json](./215724-the-twilight-of-infinity-episode-4-therefore-i-am.json) |
 | The Twilight Project | 361102 | [361102-the-twilight-project.json](./361102-the-twilight-project.json) |
@@ -20573,6 +20576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Lamb: No Shelter | 390074 | [390074-the-white-lamb-no-shelter.json](./390074-the-white-lamb-no-shelter.json) |
 | The White Owl | 276747 | [276747-the-white-owl.json](./276747-the-white-owl.json) |
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
+| The White Raven | 211348 | [211348-the-white-raven.json](./211348-the-white-raven.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
 | The White Wolf of Lokken Mountain | 388321 | [388321-the-white-wolf-of-lokken-mountain.json](./388321-the-white-wolf-of-lokken-mountain.json) |
 | The Whiteout | 288690 | [288690-the-whiteout.json](./288690-the-whiteout.json) |
@@ -24519,6 +24523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Kart Island | 96381 | [96381-tiki-kart-island.json](./96381-tiki-kart-island.json) |
 | Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
+| Tiki Party: Quiz Game with Friends | 211319 | [211319-tiki-party-quiz-game-with-friends.json](./211319-tiki-party-quiz-game-with-friends.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
 | Tiki Solitaire TriPeaks | 86965 | [86965-tiki-solitaire-tripeaks.json](./86965-tiki-solitaire-tripeaks.json) |
 | Tiki Taka Soccer | 58219 | [58219-tiki-taka-soccer.json](./58219-tiki-taka-soccer.json) |
@@ -25764,6 +25769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tipsy Rescue | 288592 | [288592-tipsy-rescue.json](./288592-tipsy-rescue.json) |
 | Tipsy Woods | 303839 | [303839-tipsy-woods.json](./303839-tipsy-woods.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
+| Tipu | 211358 | [211358-tipu.json](./211358-tipu.json) |
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
 | Tir et But: Edition Champions du Monde | 130778 | [130778-tir-et-but-edition-champions-du-monde.json](./130778-tir-et-but-edition-champions-du-monde.json) |
 | Tir Na Nog | 13041 | [13041-tir-na-nog.json](./13041-tir-na-nog.json) |
@@ -33610,6 +33616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Henry | 212075 | [212075-trigger-henry.json](./212075-trigger-henry.json) |
 | Trigger Heroes | 111821 | [111821-trigger-heroes.json](./111821-trigger-heroes.json) |
+| Trigger Impact | 211355 | [211355-trigger-impact.json](./211355-trigger-impact.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
 | Trigger Man | 4210 | [4210-trigger-man.json](./4210-trigger-man.json) |
