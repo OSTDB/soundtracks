@@ -6012,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Memoirs: Safe House | 280560 | [280560-escape-memoirs-safe-house.json](./280560-escape-memoirs-safe-house.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
 | Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
+| Escape Ninja | 172819 | [172819-escape-ninja.json](./172819-escape-ninja.json) |
 | Escape North Korea | 418924 | [418924-escape-north-korea.json](./418924-escape-north-korea.json) |
 | Escape Observation | 333182 | [333182-escape-observation.json](./333182-escape-observation.json) |
 | Escape of Pig | 230931 | [230931-escape-of-pig.json](./230931-escape-of-pig.json) |
