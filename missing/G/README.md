@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener's Path | 185953 | [185953-gardeners-path.json](./185953-gardeners-path.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia | 173395 | [173395-gardenia.json](./173395-gardenia.json) |
+| Gardenia VR | 199550 | [199550-gardenia-vr.json](./199550-gardenia-vr.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
 | Gardeniampoule | 135417 | [135417-gardeniampoule.json](./135417-gardeniampoule.json) |
 | Gardening by Choice: Flowers and Foliage | 45886 | [45886-gardening-by-choice-flowers-and-foliage.json](./45886-gardening-by-choice-flowers-and-foliage.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Integrity | 182746 | [182746-gates-of-integrity.json](./182746-gates-of-integrity.json) |
 | Gates of Migad | 317166 | [317166-gates-of-migad.json](./317166-gates-of-migad.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
+| Gates of Nesphera | 199523 | [199523-gates-of-nesphera.json](./199523-gates-of-nesphera.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Olympus | 340293 | [340293-gates-of-olympus.json](./340293-gates-of-olympus.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Cocktails | 394218 | [394218-glorious-cocktails.json](./394218-glorious-cocktails.json) |
 | Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
 | Glorious Dawn | 176179 | [176179-glorious-dawn.json](./176179-glorious-dawn.json) |
+| Glorious Day to Die | 199532 | [199532-glorious-day-to-die.json](./199532-glorious-day-to-die.json) |
 | Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
 | Glorious Leader | 61683 | [61683-glorious-leader.json](./61683-glorious-leader.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
@@ -9999,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Leaper | 167502 | [167502-grid-leaper.json](./167502-grid-leaper.json) |
 | Grid Legends: Enduring Spirit | 224925 | [224925-grid-legends-enduring-spirit.json](./224925-grid-legends-enduring-spirit.json) |
 | Grid Legends: Rise of Ravenwest | 226365 | [226365-grid-legends-rise-of-ravenwest.json](./226365-grid-legends-rise-of-ravenwest.json) |
+| Grid Legends: Seneca & Ravenwest Double Pack | 199529 | [199529-grid-legends-seneca-and-ravenwest-double-pack.json](./199529-grid-legends-seneca-and-ravenwest-double-pack.json) |
 | GRID Legends: Valentin’s Classic Car-Nage | 239593 | [239593-grid-legends-valentin-s-classic-car-nage.json](./239593-grid-legends-valentin-s-classic-car-nage.json) |
 | Grid Legends: Winter Bash | 233685 | [233685-grid-legends-winter-bash.json](./233685-grid-legends-winter-bash.json) |
 | Grid Legion, Storm | 32146 | [32146-grid-legion-storm.json](./32146-grid-legion-storm.json) |
@@ -10827,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow School | 406794 | [406794-grow-school.json](./406794-grow-school.json) |
 | Grow Survivor - Dead Survival | 96822 | [96822-grow-survivor-dead-survival.json](./96822-grow-survivor-dead-survival.json) |
+| Grow the Hell up by Dusty Lane | 199555 | [199555-grow-the-hell-up-by-dusty-lane.json](./199555-grow-the-hell-up-by-dusty-lane.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
 | Grow to Perfection | 324053 | [324053-grow-to-perfection.json](./324053-grow-to-perfection.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
