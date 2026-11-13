@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Narrowboat Simulator | 142793 | [142793-narrowboat-simulator.json](./142793-narrowboat-simulator.json) |
 | Narrows | 101371 | [101371-narrows.json](./101371-narrows.json) |
+| Narru: the Forgotten Lands | 204598 | [204598-narru-the-forgotten-lands.json](./204598-narru-the-forgotten-lands.json) |
 | Narsillion: Leithian Another Story | 63079 | [63079-narsillion-leithian-another-story.json](./63079-narsillion-leithian-another-story.json) |
 | Naru Kiss | 108143 | [108143-naru-kiss.json](./108143-naru-kiss.json) |
 | Naru-Morph! | 291354 | [291354-naru-morph.json](./291354-naru-morph.json) |
@@ -1665,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near the Fear | 207638 | [207638-near-the-fear.json](./207638-near-the-fear.json) |
 | Near the Sun: Chapter 1 | 331910 | [331910-near-the-sun-chapter-1.json](./331910-near-the-sun-chapter-1.json) |
 | Near-Death-Expedition | 329233 | [329233-near-death-expedition.json](./329233-near-death-expedition.json) |
+| Near-Mage | 204587 | [204587-near-mage.json](./204587-near-mage.json) |
 | Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
 | Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
 | Near-Mage: Deluxe Edition | 402955 | [402955-near-mage-deluxe-edition.json](./402955-near-mage-deluxe-edition.json) |
