@@ -3972,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juniper's Knot | 55796 | [55796-junipers-knot.json](./55796-junipers-knot.json) |
 | Junjou de Karen: Meymay Kishi-dan - Spectral Force Seishoujo Gaiden | 61255 | [61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json](./61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json) |
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
+| Junjou Gal to Shiawase no Katachi: Shape of Happiness | 223740 | [223740-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./223740-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junjou Romantica: Koi no Doki-doki Daisakusen | 287437 | [287437-junjou-romantica-koi-no-doki-doki-daisakusen.json](./287437-junjou-romantica-koi-no-doki-doki-daisakusen.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
 | Junk | 301731 | [301731-junk.json](./301731-junk.json) |
