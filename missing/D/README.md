@@ -19866,6 +19866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Link | 56140 | [56140-dungeon-link.json](./56140-dungeon-link.json) |
 | Dungeon Looter | 155002 | [155002-dungeon-looter.json](./155002-dungeon-looter.json) |
 | Dungeon Lord | 134610 | [134610-dungeon-lord.json](./134610-dungeon-lord.json) |
+| Dungeon Lord! | 212395 | [212395-dungeon-lord.json](./212395-dungeon-lord.json) |
 | Dungeon Lords MMXII | 138038 | [138038-dungeon-lords-mmxii.json](./138038-dungeon-lords-mmxii.json) |
 | Dungeon Lords: Collector's Edition | 138039 | [138039-dungeon-lords-collectors-edition.json](./138039-dungeon-lords-collectors-edition.json) |
 | Dungeon Lords: Steam Edition | 90564 | [90564-dungeon-lords-steam-edition.json](./90564-dungeon-lords-steam-edition.json) |
@@ -20182,6 +20183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
 | Dungeoneers Academy | 266547 | [266547-dungeoneers-academy.json](./266547-dungeoneers-academy.json) |
+| Dungeoneers Quest | 212374 | [212374-dungeoneers-quest.json](./212374-dungeoneers-quest.json) |
 | DungeonEpic | 121852 | [121852-dungeonepic.json](./121852-dungeonepic.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfall | 176657 | [176657-dungeonfall.json](./176657-dungeonfall.json) |
@@ -20424,6 +20426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Edera | 121986 | [121986-dungeons-of-edera.json](./121986-dungeons-of-edera.json) |
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Eternity | 251564 | [251564-dungeons-of-eternity.json](./251564-dungeons-of-eternity.json) |
+| Dungeons of Evermore | 212373 | [212373-dungeons-of-evermore.json](./212373-dungeons-of-evermore.json) |
 | Dungeons of Fayte | 242730 | [242730-dungeons-of-fayte.json](./242730-dungeons-of-fayte.json) |
 | Dungeons of Freeport | 408249 | [408249-dungeons-of-freeport.json](./408249-dungeons-of-freeport.json) |
 | Dungeons of Hell | 74228 | [74228-dungeons-of-hell.json](./74228-dungeons-of-hell.json) |
