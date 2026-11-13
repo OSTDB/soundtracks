@@ -6326,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
+| Fire Dogs | 174937 | [174937-fire-dogs.json](./174937-fire-dogs.json) |
 | Fire Dragon | 247296 | [247296-fire-dragon.json](./247296-fire-dragon.json) |
 | Fire Dragon | 247297 | [247297-fire-dragon.json](./247297-fire-dragon.json) |
 | Fire Emblem | 1439 | [1439-fire-emblem.json](./1439-fire-emblem.json) |
