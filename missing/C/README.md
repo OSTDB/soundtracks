@@ -8902,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christ's Revenge: Ascension | 255598 | [255598-christs-revenge-ascension.json](./255598-christs-revenge-ascension.json) |
 | Christa & Tonyo | 352857 | [352857-christa-and-tonyo.json](./352857-christa-and-tonyo.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
+| Christine | 193458 | [193458-christine.json](./193458-christine.json) |
 | Christine | 92150 | [92150-christine.json](./92150-christine.json) |
 | Christine's Care | 382144 | [382144-christines-care.json](./382144-christines-care.json) |
 | Christmas | 228669 | [228669-christmas.json](./228669-christmas.json) |
@@ -12975,6 +12976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsible D | 175516 | [175516-collapsible-d.json](./175516-collapsible-d.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collapsing HD | 175289 | [175289-collapsing-hd.json](./175289-collapsing-hd.json) |
+| Collapsion | 193001 | [193001-collapsion.json](./193001-collapsion.json) |
 | Collapsle | 425420 | [425420-collapsle.json](./425420-collapsle.json) |
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
 | Collar x Malice: The V-Day Incident! | 384664 | [384664-collar-x-malice-the-v-day-incident.json](./384664-collar-x-malice-the-v-day-incident.json) |
@@ -21764,6 +21766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
 | CurseBreaker | 302790 | [302790-cursebreaker.json](./302790-cursebreaker.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
+| Cursed | 193452 | [193452-cursed.json](./193452-cursed.json) |
 | Cursed | 230251 | [230251-cursed.json](./230251-cursed.json) |
 | Cursed | 33842 | [33842-cursed.json](./33842-cursed.json) |
 | Cursed | 343603 | [343603-cursed.json](./343603-cursed.json) |
