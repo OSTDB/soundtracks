@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappy Ever After: Blood Tales | 170692 | [170692-unhappy-ever-after-blood-tales.json](./170692-unhappy-ever-after-blood-tales.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | UnHappy Place | 213781 | [213781-unhappy-place.json](./213781-unhappy-place.json) |
+| Unhappy Raccoon | 221431 | [221431-unhappy-raccoon.json](./221431-unhappy-raccoon.json) |
 | Unharvest | 420600 | [420600-unharvest.json](./420600-unharvest.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
@@ -3703,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
 | Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
+| Uridongne Goyangi Chrreul Joahae: Gillyangi Meokbang Choseongkwijeu | 221313 | [221313-uridongne-goyangi-chrreul-joahae-gillyangi-meokbang-choseongkwijeu.json](./221313-uridongne-goyangi-chrreul-joahae-gillyangi-meokbang-choseongkwijeu.json) |
 | Uriel's Chasm | 9733 | [9733-uriels-chasm.json](./9733-uriels-chasm.json) |
 | Uriel's Chasm 3: Gelshock | 116704 | [116704-uriels-chasm-3-gelshock.json](./116704-uriels-chasm-3-gelshock.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
