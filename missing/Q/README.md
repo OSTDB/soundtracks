@@ -1273,6 +1273,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Show | 79378 | [79378-quiz-show.json](./79378-quiz-show.json) |
 | Quiz Shukudai o Wasuremashita! | 125568 | [125568-quiz-shukudai-o-wasuremashita.json](./125568-quiz-shukudai-o-wasuremashita.json) |
 | Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
+| Quiz Thiz Austria | 241692 | [241692-quiz-thiz-austria.json](./241692-quiz-thiz-austria.json) |
+| Quiz Thiz Austria: Bronze Edition | 241688 | [241688-quiz-thiz-austria-bronze-edition.json](./241688-quiz-thiz-austria-bronze-edition.json) |
+| Quiz Thiz Austria: Gold Edition | 241685 | [241685-quiz-thiz-austria-gold-edition.json](./241685-quiz-thiz-austria-gold-edition.json) |
+| Quiz Thiz Austria: Silver Edition | 241686 | [241686-quiz-thiz-austria-silver-edition.json](./241686-quiz-thiz-austria-silver-edition.json) |
 | Quiz Thiz Croatia | 242755 | [242755-quiz-thiz-croatia.json](./242755-quiz-thiz-croatia.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
@@ -1282,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Germany: Bronze Edition | 242549 | [242549-quiz-thiz-germany-bronze-edition.json](./242549-quiz-thiz-germany-bronze-edition.json) |
 | Quiz Thiz Germany: Gold Edition | 242555 | [242555-quiz-thiz-germany-gold-edition.json](./242555-quiz-thiz-germany-gold-edition.json) |
 | Quiz Thiz Germany: Silver Edition | 242411 | [242411-quiz-thiz-germany-silver-edition.json](./242411-quiz-thiz-germany-silver-edition.json) |
+| Quiz Thiz Italy | 241690 | [241690-quiz-thiz-italy.json](./241690-quiz-thiz-italy.json) |
 | Quiz Thiz Italy: Bronze Edition | 241693 | [241693-quiz-thiz-italy-bronze-edition.json](./241693-quiz-thiz-italy-bronze-edition.json) |
 | Quiz Thiz Italy: Gold Edition | 242166 | [242166-quiz-thiz-italy-gold-edition.json](./242166-quiz-thiz-italy-gold-edition.json) |
 | Quiz Thiz Italy: Silver Edition | 241858 | [241858-quiz-thiz-italy-silver-edition.json](./241858-quiz-thiz-italy-silver-edition.json) |
