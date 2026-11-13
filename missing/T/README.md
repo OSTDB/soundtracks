@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
 | Tamagotchi! Seishun no Dream School | 77621 | [77621-tamagotchi-seishun-no-dream-school.json](./77621-tamagotchi-seishun-no-dream-school.json) |
 | Tamak. | 263593 | [263593-tamak.json](./263593-tamak.json) |
+| Tamakagura: Tales of Turmoil | 213503 | [213503-tamakagura-tales-of-turmoil.json](./213503-tamakagura-tales-of-turmoil.json) |
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
 | Tamale Loco: Rumble in the Desert | 173076 | [173076-tamale-loco-rumble-in-the-desert.json](./173076-tamale-loco-rumble-in-the-desert.json) |
 | Tamale Loco: Rumble in the Desert 2 | 174563 | [174563-tamale-loco-rumble-in-the-desert-2.json](./174563-tamale-loco-rumble-in-the-desert-2.json) |
@@ -16864,6 +16865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Selene | 247866 | [247866-the-red-selene.json](./247866-the-red-selene.json) |
 | The Red Solstice | 6170 | [6170-the-red-solstice.json](./6170-the-red-solstice.json) |
+| The Red Solstice 2: Survivors - M.E.R.C.S. | 213063 | [213063-the-red-solstice-2-survivors-m-e-r-c-s.json](./213063-the-red-solstice-2-survivors-m-e-r-c-s.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
 | The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
 | The Red Stare | 28670 | [28670-the-red-stare.json](./28670-the-red-stare.json) |
@@ -22529,6 +22531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Wolves | 10990 | [10990-thunder-wolves.json](./10990-thunder-wolves.json) |
 | Thunder Zone | 39977 | [39977-thunder-zone.json](./39977-thunder-zone.json) |
 | Thunder's Leaves | 126736 | [126736-thunders-leaves.json](./126736-thunders-leaves.json) |
+| Thunderax 9K | 213061 | [213061-thunderax-9k.json](./213061-thunderax-9k.json) |
 | Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
@@ -35757,6 +35760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
 | Tweak & Destroy | 364610 | [364610-tweak-and-destroy.json](./364610-tweak-and-destroy.json) |
 | Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
+| Twee | 213062 | [213062-twee.json](./213062-twee.json) |
 | Tweenies - Game Time | 65885 | [65885-tweenies-game-time.json](./65885-tweenies-game-time.json) |
 | Tweenies Doodles' Bones | 50058 | [50058-tweenies-doodles-bones.json](./50058-tweenies-doodles-bones.json) |
 | Tweet Defense | 66546 | [66546-tweet-defense.json](./66546-tweet-defense.json) |
