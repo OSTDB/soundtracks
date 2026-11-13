@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Quest 2 | 294632 | [294632-dash-quest-2.json](./294632-dash-quest-2.json) |
 | Dash Quest Heroes | 78553 | [78553-dash-quest-heroes.json](./78553-dash-quest-heroes.json) |
 | Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
+| Dash Rider | 207432 | [207432-dash-rider.json](./207432-dash-rider.json) |
 | Dash Shoot Goal | 184255 | [184255-dash-shoot-goal.json](./184255-dash-shoot-goal.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
 | Dash Tag: Fun Endless Runner! | 88987 | [88987-dash-tag-fun-endless-runner.json](./88987-dash-tag-fun-endless-runner.json) |
@@ -17240,6 +17241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadful Hours | 202540 | [202540-dreadful-hours.json](./202540-dreadful-hours.json) |
 | Dreadful Night at School | 368462 | [368462-dreadful-night-at-school.json](./368462-dreadful-night-at-school.json) |
+| Dreadful River | 207436 | [207436-dreadful-river.json](./207436-dreadful-river.json) |
 | Dreadful Shadows | 168981 | [168981-dreadful-shadows.json](./168981-dreadful-shadows.json) |
 | Dreadful Tales: The Fire Within - Collector's Edition | 222013 | [222013-dreadful-tales-the-fire-within-collectors-edition.json](./222013-dreadful-tales-the-fire-within-collectors-edition.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
