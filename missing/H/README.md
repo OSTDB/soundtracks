@@ -8274,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
 | High on Racing | 35462 | [35462-high-on-racing.json](./35462-high-on-racing.json) |
 | High Pines | 377676 | [377676-high-pines.json](./377676-high-pines.json) |
+| High Poly: Rise of the Machines | 217418 | [217418-high-poly-rise-of-the-machines.json](./217418-high-poly-rise-of-the-machines.json) |
 | High Pressure | 142061 | [142061-high-pressure.json](./142061-high-pressure.json) |
 | High Profits | 30896 | [30896-high-profits.json](./30896-high-profits.json) |
 | High Quality Funkin' | 405006 | [405006-high-quality-funkin.json](./405006-high-quality-funkin.json) |
@@ -11962,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder & Thief Simulator | 225479 | [225479-house-builder-and-thief-simulator.json](./225479-house-builder-and-thief-simulator.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
+| House Builder VR | 217443 | [217443-house-builder-vr.json](./217443-house-builder-vr.json) |
 | House Builder: Egyptian DLC | 372368 | [372368-house-builder-egyptian-dlc.json](./372368-house-builder-egyptian-dlc.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
