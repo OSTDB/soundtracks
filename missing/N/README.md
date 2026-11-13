@@ -7240,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoReload Heroes: Enhanced Edition | 143879 | [143879-noreload-heroes-enhanced-edition.json](./143879-noreload-heroes-enhanced-edition.json) |
 | Noren | 158583 | [158583-noren.json](./158583-noren.json) |
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
+| Norgame | 204010 | [204010-norgame.json](./204010-norgame.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Nori Game | 413130 | [413130-nori-game.json](./413130-nori-game.json) |
 | Norigin | 216664 | [216664-norigin.json](./216664-norigin.json) |
