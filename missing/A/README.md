@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat: Assault Horizon Legacy + | 44028 | [44028-ace-combat-assault-horizon-legacy.json](./44028-ace-combat-assault-horizon-legacy.json) |
 | Ace Combat: Joint Assault | 14757 | [14757-ace-combat-joint-assault.json](./14757-ace-combat-joint-assault.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
+| Ace Defender | 177535 | [177535-ace-defender.json](./177535-ace-defender.json) |
 | Ace Driver | 39337 | [39337-ace-driver.json](./39337-ace-driver.json) |
 | Ace Driver: Victory Lap | 65921 | [65921-ace-driver-victory-lap.json](./65921-ace-driver-victory-lap.json) |
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
@@ -20258,6 +20259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axona | 283969 | [283969-axona.json](./283969-axona.json) |
 | Axria Retro World | 124568 | [124568-axria-retro-world.json](./124568-axria-retro-world.json) |
 | AXS | 147663 | [147663-axs.json](./147663-axs.json) |
+| Axu | 177466 | [177466-axu.json](./177466-axu.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | Axyn Adventure | 325873 | [325873-axyn-adventure.json](./325873-axyn-adventure.json) |
 | Axyos | 17740 | [17740-axyos.json](./17740-axyos.json) |
