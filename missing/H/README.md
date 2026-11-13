@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
 | Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
 | Harvest Days | 308511 | [308511-harvest-days.json](./308511-harvest-days.json) |
+| Harvest Days: My Dream Farm | 191288 | [191288-harvest-days-my-dream-farm.json](./191288-harvest-days-my-dream-farm.json) |
 | Harvest Deadline | 412738 | [412738-harvest-deadline.json](./412738-harvest-deadline.json) |
 | Harvest Dice Profit | 413995 | [413995-harvest-dice-profit.json](./413995-harvest-dice-profit.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
@@ -10185,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home VR | 197003 | [197003-home-vr.json](./197003-home-vr.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
 | Home Watcher | 415249 | [415249-home-watcher.json](./415249-home-watcher.json) |
+| Home Wind | 191283 | [191283-home-wind.json](./191283-home-wind.json) |
 | Home World Run | 315322 | [315322-home-world-run.json](./315322-home-world-run.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: A Quarantine Story | 149210 | [149210-home-a-quarantine-story.json](./149210-home-a-quarantine-story.json) |
