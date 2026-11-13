@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qdoom | 300624 | [300624-qdoom.json](./300624-qdoom.json) |
 | QED Refine/Succeed | 125392 | [125392-qed-refine-succeed.json](./125392-qed-refine-succeed.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
+| Qember | 196774 | [196774-qember.json](./196774-qember.json) |
 | QField | 171989 | [171989-qfield.json](./171989-qfield.json) |
 | Qì Líng Zhī Yuē | 163703 | [163703-qi-ling-zhi-yue.json](./163703-qi-ling-zhi-yue.json) |
 | Qi Qiang | 126305 | [126305-qi-qiang.json](./126305-qi-qiang.json) |
@@ -412,12 +413,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Operation Urth Majik | 196662 | [196662-quake-operation-urth-majik.json](./196662-quake-operation-urth-majik.json) |
 | Quake: Penumbra of Domination | 196519 | [196519-quake-penumbra-of-domination.json](./196519-quake-penumbra-of-domination.json) |
 | Quake: Prelude to Apocalypse & Mordrigor's Demise | 196580 | [196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json](./196580-quake-prelude-to-apocalypse-and-mordrigors-demise.json) |
+| Quake: Q25 Limits Jam | 196751 | [196751-quake-q25-limits-jam.json](./196751-quake-q25-limits-jam.json) |
 | Quake: Rapture | 196653 | [196653-quake-rapture.json](./196653-quake-rapture.json) |
 | Quake: Raven Keep | 142275 | [142275-quake-raven-keep.json](./142275-quake-raven-keep.json) |
 | Quake: Realms of the Lost | 196451 | [196451-quake-realms-of-the-lost.json](./196451-quake-realms-of-the-lost.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: Reliquary | 196456 | [196456-quake-reliquary.json](./196456-quake-reliquary.json) |
 | Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
+| Quake: Retro Jam Koohoo | 196736 | [196736-quake-retro-jam-koohoo.json](./196736-quake-retro-jam-koohoo.json) |
 | Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
 | Quake: Rubicon | 325922 | [325922-quake-rubicon.json](./325922-quake-rubicon.json) |
 | Quake: Rubicon Rumble Pack | 196454 | [196454-quake-rubicon-rumble-pack.json](./196454-quake-rubicon-rumble-pack.json) |
