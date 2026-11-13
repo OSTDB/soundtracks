@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bee | 114233 | [114233-baby-bee.json](./114233-baby-bee.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Bird Care | 146625 | [146625-baby-bird-care.json](./146625-baby-bird-care.json) |
+| Baby Bjorn | 185063 | [185063-baby-bjorn.json](./185063-baby-bjorn.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Blocks: Swipe & Tap Letters, Spell Words Fast | 232472 | [232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json](./232472-baby-blocks-swipe-and-tap-letters-spell-words-fast.json) |
 | Baby Blues | 76467 | [76467-baby-blues.json](./76467-baby-blues.json) |
@@ -9061,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Biorhythms | 67094 | [67094-biorhythms.json](./67094-biorhythms.json) |
+| Biorium | 184012 | [184012-biorium.json](./184012-biorium.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bios Ex: Yami no Wakusei | 114839 | [114839-bios-ex-yami-no-wakusei.json](./114839-bios-ex-yami-no-wakusei.json) |
 | Bios Fear | 290377 | [290377-bios-fear.json](./290377-bios-fear.json) |
@@ -9302,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
 | Birdy Trip | 87880 | [87880-birdy-trip.json](./87880-birdy-trip.json) |
+| Birfia | 184009 | [184009-birfia.json](./184009-birfia.json) |
 | Birger's Tale | 235608 | [235608-birgers-tale.json](./235608-birgers-tale.json) |
 | BiriBiriBeat | 227995 | [227995-biribiribeat.json](./227995-biribiribeat.json) |
 | Birk's Adventure | 145408 | [145408-birks-adventure.json](./145408-birks-adventure.json) |
@@ -15722,6 +15725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
 | Boyfriend Kari Kirameki Note | 100066 | [100066-boyfriend-kari-kirameki-note.json](./100066-boyfriend-kari-kirameki-note.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
+| Boyfriend Simulator: Feed My Boyfriend | 185060 | [185060-boyfriend-simulator-feed-my-boyfriend.json](./185060-boyfriend-simulator-feed-my-boyfriend.json) |
 | Boyfriend to Death 2: Fresh Blood | 251146 | [251146-boyfriend-to-death-2-fresh-blood.json](./251146-boyfriend-to-death-2-fresh-blood.json) |
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
