@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball: Wolverine | 354334 | [354334-zen-pinball-wolverine.json](./354334-zen-pinball-wolverine.json) |
 | Zen Pinball: World War Hulk | 354327 | [354327-zen-pinball-world-war-hulk.json](./354327-zen-pinball-world-war-hulk.json) |
 | Zen Pinball: X-Men | 354323 | [354323-zen-pinball-x-men.json](./354323-zen-pinball-x-men.json) |
+| Zen Pong | 241689 | [241689-zen-pong.json](./241689-zen-pong.json) |
 | Zen Puzzle Garden | 50466 | [50466-zen-puzzle-garden.json](./50466-zen-puzzle-garden.json) |
 | Zen Quest | 283072 | [283072-zen-quest.json](./283072-zen-quest.json) |
 | Zen Quest Garden: Cherry Blossom | 338058 | [338058-zen-quest-garden-cherry-blossom.json](./338058-zen-quest-garden-cherry-blossom.json) |
@@ -1477,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Tri Peaks Solitaire | 192037 | [192037-zodiac-tri-peaks-solitaire.json](./192037-zodiac-tri-peaks-solitaire.json) |
 | Zodiac XX | 136612 | [136612-zodiac-xx.json](./136612-zodiac-xx.json) |
 | Zodiac XX Leo | 305066 | [305066-zodiac-xx-leo.json](./305066-zodiac-xx-leo.json) |
+| Zodiac: Hellish Memory | 241675 | [241675-zodiac-hellish-memory.json](./241675-zodiac-hellish-memory.json) |
 | Zodiacats | 187534 | [187534-zodiacats.json](./187534-zodiacats.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiack | 40000 | [40000-zodiack.json](./40000-zodiack.json) |
