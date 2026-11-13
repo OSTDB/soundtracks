@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
 | Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
+| Last Car Standing | 209084 | [209084-last-car-standing.json](./209084-last-car-standing.json) |
 | Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Case: The Disappearance of Amanda Kane | 122980 | [122980-last-case-the-disappearance-of-amanda-kane.json](./122980-last-case-the-disappearance-of-amanda-kane.json) |
