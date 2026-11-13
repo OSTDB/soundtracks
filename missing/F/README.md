@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fap Goddess | 226802 | [226802-fap-goddess.json](./226802-fap-goddess.json) |
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Queen II | 177700 | [177700-fap-queen-ii.json](./177700-fap-queen-ii.json) |
+| Fap Simulator 2020 | 234960 | [234960-fap-simulator-2020.json](./234960-fap-simulator-2020.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
 | Fast & Furious 6 | 412791 | [412791-fast-and-furious-6.json](./412791-fast-and-furious-6.json) |
 | Fast & Furious 6: The Game | 61990 | [61990-fast-and-furious-6-the-game.json](./61990-fast-and-furious-6-the-game.json) |
+| Fast & Furious Arcade | 234789 | [234789-fast-and-furious-arcade.json](./234789-fast-and-furious-arcade.json) |
 | Fast & Furious Takedown | 112089 | [112089-fast-and-furious-takedown.json](./112089-fast-and-furious-takedown.json) |
 | Fast & Furious: Adrenaline | 66427 | [66427-fast-and-furious-adrenaline.json](./66427-fast-and-furious-adrenaline.json) |
 | Fast & Furious: Arcade Edition | 360917 | [360917-fast-and-furious-arcade-edition.json](./360917-fast-and-furious-arcade-edition.json) |
@@ -15334,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzz & Dizzy: Part-time Heroes | 348826 | [348826-fuzz-and-dizzy-part-time-heroes.json](./348826-fuzz-and-dizzy-part-time-heroes.json) |
+| Fuzz and Rocket | 234946 | [234946-fuzz-and-rocket.json](./234946-fuzz-and-rocket.json) |
 | Fuzz Dungeon | 151909 | [151909-fuzz-dungeon.json](./151909-fuzz-dungeon.json) |
 | Fuzz Power | 245090 | [245090-fuzz-power.json](./245090-fuzz-power.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
