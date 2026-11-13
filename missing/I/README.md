@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
 | Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
 | Iegami Nyoubou: Koisuru Inaba ha Kinpatsu Usagi | 414147 | [414147-iegami-nyoubou-koisuru-inaba-ha-kinpatsu-usagi.json](./414147-iegami-nyoubou-koisuru-inaba-ha-kinpatsu-usagi.json) |
+| Iegami Nyoubou: Nanashi Nekomata wa KamiTuber | 194599 | [194599-iegami-nyoubou-nanashi-nekomata-wa-kamituber.json](./194599-iegami-nyoubou-nanashi-nekomata-wa-kamituber.json) |
 | Iephosama: Digital Curse | 399557 | [399557-iephosama-digital-curse.json](./399557-iephosama-digital-curse.json) |
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
 | Iest Dva Stula | 103191 | [103191-iest-dva-stula.json](./103191-iest-dva-stula.json) |
@@ -5584,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
 | Interstate Drifter 1999: Hyperdrive | 296936 | [296936-interstate-drifter-1999-hyperdrive.json](./296936-interstate-drifter-1999-hyperdrive.json) |
+| Interstate Drifter 2000 | 194522 | [194522-interstate-drifter-2000.json](./194522-interstate-drifter-2000.json) |
 | Interstellar | 24505 | [24505-interstellar.json](./24505-interstellar.json) |
 | Interstellar Airgap | 175641 | [175641-interstellar-airgap.json](./175641-interstellar-airgap.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
@@ -6848,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
 | Island of Girls Dreams | 163205 | [163205-island-of-girls-dreams.json](./163205-island-of-girls-dreams.json) |
 | Island of Hearts | 373514 | [373514-island-of-hearts.json](./373514-island-of-hearts.json) |
+| Island of Hope | 194601 | [194601-island-of-hope.json](./194601-island-of-hope.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
