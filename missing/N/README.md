@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Record | 163757 | [163757-nameless-record.json](./163757-nameless-record.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Nameless Worlds | 117585 | [117585-nameless-worlds.json](./117585-nameless-worlds.json) |
+| Nameless: The Departed Cycle | 224188 | [224188-nameless-the-departed-cycle.json](./224188-nameless-the-departed-cycle.json) |
 | Nameless: the Hackers | 200322 | [200322-nameless-the-hackers.json](./200322-nameless-the-hackers.json) |
 | Nameless: The One Thing You Must Recall | 28580 | [28580-nameless-the-one-thing-you-must-recall.json](./28580-nameless-the-one-thing-you-must-recall.json) |
 | Namennayo | 385767 | [385767-namennayo.json](./385767-namennayo.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer Park | 420312 | [420312-necromancer-park.json](./420312-necromancer-park.json) |
 | Necromancer Returns | 108202 | [108202-necromancer-returns.json](./108202-necromancer-returns.json) |
 | Necromancer Rising | 66572 | [66572-necromancer-rising.json](./66572-necromancer-rising.json) |
+| Necromancer RPG | 225324 | [225324-necromancer-rpg.json](./225324-necromancer-rpg.json) |
 | Necromancer: Ash & Bone | 418262 | [418262-necromancer-ash-and-bone.json](./418262-necromancer-ash-and-bone.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
