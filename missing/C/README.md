@@ -17019,6 +17019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
 | Counting Sheep | 403246 | [403246-counting-sheep.json](./403246-counting-sheep.json) |
+| Counting Star | 221315 | [221315-counting-star.json](./221315-counting-star.json) |
 | Countless Army | 250720 | [250720-countless-army.json](./250720-countless-army.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
 | Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
@@ -19549,6 +19550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross The Boundaries | 334182 | [334182-cross-the-boundaries.json](./334182-cross-the-boundaries.json) |
 | Cross the Gap | 184976 | [184976-cross-the-gap.json](./184976-cross-the-gap.json) |
 | Cross the Hell Master | 214120 | [214120-cross-the-hell-master.json](./214120-cross-the-hell-master.json) |
+| Cross the Log Bridge | 220912 | [220912-cross-the-log-bridge.json](./220912-cross-the-log-bridge.json) |
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
 | Cross the Moon | 152151 | [152151-cross-the-moon.json](./152151-cross-the-moon.json) |
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
@@ -20518,6 +20520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Garden | 386998 | [386998-crystal-garden.json](./386998-crystal-garden.json) |
 | Crystal Goddess | 192546 | [192546-crystal-goddess.json](./192546-crystal-goddess.json) |
+| Crystal Goddess | 221433 | [221433-crystal-goddess.json](./221433-crystal-goddess.json) |
 | Crystal Guard TD | 291368 | [291368-crystal-guard-td.json](./291368-crystal-guard-td.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Guardians | 240672 | [240672-crystal-guardians.json](./240672-crystal-guardians.json) |
