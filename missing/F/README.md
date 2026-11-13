@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Fruit | 359730 | [359730-falling-fruit.json](./359730-falling-fruit.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
+| Falling in Love | 179101 | [179101-falling-in-love.json](./179101-falling-in-love.json) |
 | Falling in Love With Oranges | 419412 | [419412-falling-in-love-with-oranges.json](./419412-falling-in-love-with-oranges.json) |
 | Falling in Love with Zetton | 396296 | [396296-falling-in-love-with-zetton.json](./396296-falling-in-love-with-zetton.json) |
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
 | Fancy the Frog | 152653 | [152653-fancy-the-frog.json](./152653-fancy-the-frog.json) |
 | Fancy Trangram VR | 30658 | [30658-fancy-trangram-vr.json](./30658-fancy-trangram-vr.json) |
+| Fancy Trash | 179089 | [179089-fancy-trash.json](./179089-fancy-trash.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fancyland | 289669 | [289669-fancyland.json](./289669-fancyland.json) |
@@ -4041,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
+| Feed the Beet Plus | 179640 | [179640-feed-the-beet-plus.json](./179640-feed-the-beet-plus.json) |
 | Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
 | Feed the Cat: Gravity Puzzle | 406992 | [406992-feed-the-cat-gravity-puzzle.json](./406992-feed-the-cat-gravity-puzzle.json) |
@@ -9105,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
 | Flowence | 309558 | [309558-flowence.json](./309558-flowence.json) |
 | Flower | 142294 | [142294-flower.json](./142294-flower.json) |
+| Flower | 179226 | [179226-flower.json](./179226-flower.json) |
 | Flower | 405238 | [405238-flower.json](./405238-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
@@ -13095,6 +13099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
+| Friday Night Funkin' VR | 179643 | [179643-friday-night-funkin-vr.json](./179643-friday-night-funkin-vr.json) |
 | Friday Night Funkin' VS Ralsei | 241377 | [241377-friday-night-funkin-vs-ralsei.json](./241377-friday-night-funkin-vs-ralsei.json) |
 | Friday Night Funkin' VS Shaggy | 230357 | [230357-friday-night-funkin-vs-shaggy.json](./230357-friday-night-funkin-vs-shaggy.json) |
 | Friday Night Funkin' vs. Keyboard Cat | 332876 | [332876-friday-night-funkin-vs-keyboard-cat.json](./332876-friday-night-funkin-vs-keyboard-cat.json) |
