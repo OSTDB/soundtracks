@@ -13479,6 +13479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongo | 35298 | [35298-pongo.json](./35298-pongo.json) |
 | Pongo17 | 251371 | [251371-pongo17.json](./251371-pongo17.json) |
 | PongPD | 364428 | [364428-pongpd.json](./364428-pongpd.json) |
+| PongPong Girl | 211836 | [211836-pongpong-girl.json](./211836-pongpong-girl.json) |
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
@@ -18800,6 +18801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar | 272622 | [272622-pulsar.json](./272622-pulsar.json) |
 | Pulsar Arena | 411889 | [411889-pulsar-arena.json](./411889-pulsar-arena.json) |
+| Pulsar Crash | 211860 | [211860-pulsar-crash.json](./211860-pulsar-crash.json) |
 | Pulsar II | 59557 | [59557-pulsar-ii.json](./59557-pulsar-ii.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
