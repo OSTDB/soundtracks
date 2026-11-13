@@ -12208,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
 | Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
+| Roskis: A Boozy Beginning | 184530 | [184530-roskis-a-boozy-beginning.json](./184530-roskis-a-boozy-beginning.json) |
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
 | Roster: Alice's White Mouse | 392110 | [392110-roster-alices-white-mouse.json](./392110-roster-alices-white-mouse.json) |
 | Rostros de la arena | 391660 | [391660-rostros-de-la-arena.json](./391660-rostros-de-la-arena.json) |
