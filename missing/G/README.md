@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoArena Online | 58453 | [58453-geoarena-online.json](./58453-geoarena-online.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | GeoBingo.io | 172403 | [172403-geobingo-io.json](./172403-geobingo-io.json) |
+| Geoblast | 215269 | [215269-geoblast.json](./215269-geoblast.json) |
 | GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
