@@ -6977,6 +6977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
 | Demon Cycle | 152578 | [152578-demon-cycle.json](./152578-demon-cycle.json) |
+| Demon Dark I | 235386 | [235386-demon-dark-i.json](./235386-demon-dark-i.json) |
 | Demon Dash | 239530 | [239530-demon-dash.json](./239530-demon-dash.json) |
 | Demon Day | 71298 | [71298-demon-day.json](./71298-demon-day.json) |
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
@@ -11985,6 +11986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
 | Divided Reigns | 132336 | [132336-divided-reigns.json](./132336-divided-reigns.json) |
+| Divided Skies | 235502 | [235502-divided-skies.json](./235502-divided-skies.json) |
 | Divided We Fall | 32256 | [32256-divided-we-fall.json](./32256-divided-we-fall.json) |
 | Divided: Soul Theft | 89370 | [89370-divided-soul-theft.json](./89370-divided-soul-theft.json) |
 | Divider Dave | 400626 | [400626-divider-dave.json](./400626-divider-dave.json) |
