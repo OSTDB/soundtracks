@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 77th: The Game | 283075 | [283075-77th-the-game.json](./283075-77th-the-game.json) |
+| 78 | 193448 | [193448-78.json](./193448-78.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 7821 Akuji | 357762 | [357762-7821-akuji.json](./357762-7821-akuji.json) |
 | 78641: A Targ Adventure | 91498 | [91498-78641-a-targ-adventure.json](./91498-78641-a-targ-adventure.json) |
