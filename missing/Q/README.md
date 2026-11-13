@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake + Quake II Enhanced Bundle | 283197 | [283197-quake-quake-ii-enhanced-bundle.json](./283197-quake-quake-ii-enhanced-bundle.json) |
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 2 25th Anniversary Collaborative Unit | 402807 | [402807-quake-2-25th-anniversary-collaborative-unit.json](./402807-quake-2-25th-anniversary-collaborative-unit.json) |
+| Quake 2 TC | 201187 | [201187-quake-2-tc.json](./201187-quake-2-tc.json) |
 | Quake 3 Fortress | 397034 | [397034-quake-3-fortress.json](./397034-quake-3-fortress.json) |
 | Quake 3 Rally | 278874 | [278874-quake-3-rally.json](./278874-quake-3-rally.json) |
 | Quake 30th Anniversary 1024 Jam | 417228 | [417228-quake-30th-anniversary-1024-jam.json](./417228-quake-30th-anniversary-1024-jam.json) |
