@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Iro | 202348 | [202348-yume-iro.json](./202348-yume-iro.json) |
 | Yume ka Utsutsu ka Matryoshka | 399060 | [399060-yume-ka-utsutsu-ka-matryoshka.json](./399060-yume-ka-utsutsu-ka-matryoshka.json) |
 | Yume Kakigori | 319019 | [319019-yume-kakigori.json](./319019-yume-kakigori.json) |
+| Yume Kart | 227571 | [227571-yume-kart.json](./227571-yume-kart.json) |
 | Yume Kayoi | 166471 | [166471-yume-kayoi.json](./166471-yume-kayoi.json) |
 | Yume Maboroshi no Gotoku | 37753 | [37753-yume-maboroshi-no-gotoku.json](./37753-yume-maboroshi-no-gotoku.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
