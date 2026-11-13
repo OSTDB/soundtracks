@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Crazy Stunts | 367648 | [367648-f1-crazy-stunts.json](./367648-f1-crazy-stunts.json) |
 | F1 Douchuuki | 41711 | [41711-f1-douchuuki.json](./41711-f1-douchuuki.json) |
 | F1 Dream | 44327 | [44327-f1-dream.json](./44327-f1-dream.json) |
+| F1 GP | 243449 | [243449-f1-gp.json](./243449-f1-gp.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Grand Prix Nakajima Satoru | 93098 | [93098-f1-grand-prix-nakajima-satoru.json](./93098-f1-grand-prix-nakajima-satoru.json) |
@@ -2741,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Simulator 2025 | 368460 | [368460-farm-simulator-2025.json](./368460-farm-simulator-2025.json) |
 | Farm Simulator: Hay Tycoon | 105811 | [105811-farm-simulator-hay-tycoon.json](./105811-farm-simulator-hay-tycoon.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
+| Farm Slider | 243993 | [243993-farm-slider.json](./243993-farm-slider.json) |
 | Farm Station | 244639 | [244639-farm-station.json](./244639-farm-station.json) |
 | Farm Story | 80579 | [80579-farm-story.json](./80579-farm-story.json) |
 | Farm Story 2 | 359220 | [359220-farm-story-2.json](./359220-farm-story-2.json) |
