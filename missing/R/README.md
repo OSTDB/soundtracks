@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recompile | 115915 | [115915-recompile.json](./115915-recompile.json) |
 | Recon Bracks | 397284 | [397284-recon-bracks.json](./397284-recon-bracks.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
+| Recon Control: Operation Crossfire | 201221 | [201221-recon-control-operation-crossfire.json](./201221-recon-control-operation-crossfire.json) |
 | Recon in Force | 233729 | [233729-recon-in-force.json](./233729-recon-in-force.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
@@ -14282,6 +14283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
 | Ryojyoku Chokyou | 97791 | [97791-ryojyoku-chokyou.json](./97791-ryojyoku-chokyou.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
+| Ryokou-chuu | 201204 | [201204-ryokou-chuu.json](./201204-ryokou-chuu.json) |
 | Ryou-ude ga Oreta no de H na Osewa wo Sareru Hanashi | 402631 | [402631-ryou-ude-ga-oreta-no-de-h-na-osewa-wo-sareru-hanashi.json](./402631-ryou-ude-ga-oreta-no-de-h-na-osewa-wo-sareru-hanashi.json) |
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
