@@ -1952,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
 | Idol Keeper | 158339 | [158339-idol-keeper.json](./158339-idol-keeper.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
+| Idol Knight | 177464 | [177464-idol-knight.json](./177464-idol-knight.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
 | Idol Magical Girl Chiru Chiru Michiru Part 1 | 35042 | [35042-idol-magical-girl-chiru-chiru-michiru-part-1.json](./35042-idol-magical-girl-chiru-chiru-michiru-part-1.json) |
 | Idol Magical Girl Chiru Chiru Michiru Part 2 | 35043 | [35043-idol-magical-girl-chiru-chiru-michiru-part-2.json](./35043-idol-magical-girl-chiru-chiru-michiru-part-2.json) |
