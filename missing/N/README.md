@@ -2206,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Girls Puzzle | 294904 | [294904-neko-girls-puzzle.json](./294904-neko-girls-puzzle.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Hacker Plus | 169779 | [169779-neko-hacker-plus.json](./169779-neko-hacker-plus.json) |
+| Neko Hentai Girl | 173853 | [173853-neko-hentai-girl.json](./173853-neko-hentai-girl.json) |
 | Neko Hentai Girl: Beach Match-3 | 241280 | [241280-neko-hentai-girl-beach-match-3.json](./241280-neko-hentai-girl-beach-match-3.json) |
 | Neko House | 426619 | [426619-neko-house.json](./426619-neko-house.json) |
 | Neko Journey | 190462 | [190462-neko-journey.json](./190462-neko-journey.json) |
