@@ -15933,7 +15933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur & Susan: Almost Detectives | 270534 | [270534-arthur-and-susan-almost-detectives.json](./270534-arthur-and-susan-almost-detectives.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
-| Arthur and the Invisibles | 21437 | [21437-arthur-and-the-invisibles.json](./21437-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur Conan Doyle's The Lost World | 406669 | [406669-arthur-conan-doyles-the-lost-world.json](./406669-arthur-conan-doyles-the-lost-world.json) |
 | Arthur Loves Watermelon | 333132 | [333132-arthur-loves-watermelon.json](./333132-arthur-loves-watermelon.json) |
