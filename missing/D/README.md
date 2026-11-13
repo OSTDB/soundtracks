@@ -5697,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: Reborn - Taiko no Tatsujin Collaboration Collection | 356443 | [356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json](./356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json) |
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 121999 | [121999-deep.json](./121999-deep.json) |
+| Deep | 177985 | [177985-deep.json](./177985-deep.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep | 380247 | [380247-deep.json](./380247-deep.json) |
@@ -5885,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Survivor - Heavy Duty | 394682 | [394682-deep-rock-galactic-survivor-heavy-duty.json](./394682-deep-rock-galactic-survivor-heavy-duty.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Room | 347559 | [347559-deep-room.json](./347559-deep-room.json) |
+| Deep Root | 177988 | [177988-deep-root.json](./177988-deep-root.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
 | Deep Russian Depression | 188866 | [188866-deep-russian-depression.json](./188866-deep-russian-depression.json) |
 | Deep Saturation | 359071 | [359071-deep-saturation.json](./359071-deep-saturation.json) |
@@ -15637,6 +15639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
 | Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
 | Dr. Maria | 245761 | [245761-dr-maria.json](./245761-dr-maria.json) |
+| Dr. Mario | 178112 | [178112-dr-mario.json](./178112-dr-mario.json) |
 | Dr. Mario | 179222 | [179222-dr-mario.json](./179222-dr-mario.json) |
 | Dr. Mario | 208424 | [208424-dr-mario.json](./208424-dr-mario.json) |
 | Dr. Mario | 311343 | [311343-dr-mario.json](./311343-dr-mario.json) |
