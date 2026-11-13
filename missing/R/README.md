@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rag Doll Kung Fu: Fists of Plastic | 20705 | [20705-rag-doll-kung-fu-fists-of-plastic.json](./20705-rag-doll-kung-fu-fists-of-plastic.json) |
 | Raga | 216942 | [216942-raga.json](./216942-raga.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
+| Ragamuffins: Feline Fencers | 207413 | [207413-ragamuffins-feline-fencers.json](./207413-ragamuffins-feline-fencers.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
 | RagBlo Set3 | 97728 | [97728-ragblo-set3.json](./97728-ragblo-set3.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
@@ -3381,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality End | 164286 | [164286-reality-end.json](./164286-reality-end.json) |
 | Reality Falls | 110861 | [110861-reality-falls.json](./110861-reality-falls.json) |
 | Reality Fighters | 20732 | [20732-reality-fighters.json](./20732-reality-fighters.json) |
+| Reality Layer Zero | 207414 | [207414-reality-layer-zero.json](./207414-reality-layer-zero.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
 | Reality Noclip: The Backrooms | 223221 | [223221-reality-noclip-the-backrooms.json](./223221-reality-noclip-the-backrooms.json) |
 | Reality Patrol | 265795 | [265795-reality-patrol.json](./265795-reality-patrol.json) |
@@ -9330,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadOut | 140794 | [140794-roadout.json](./140794-roadout.json) |
 | RoadPipe | 261604 | [261604-roadpipe.json](./261604-roadpipe.json) |
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
+| RoadRace | 207411 | [207411-roadrace.json](./207411-roadrace.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | RoadRunner VR | 68163 | [68163-roadrunner-vr.json](./68163-roadrunner-vr.json) |
