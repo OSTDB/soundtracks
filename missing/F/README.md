@@ -9256,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Escape: Cryptic Cube | 366178 | [366178-fluffy-escape-cryptic-cube.json](./366178-fluffy-escape-cryptic-cube.json) |
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
+| Fluffy Flight | 181416 | [181416-fluffy-flight.json](./181416-fluffy-flight.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
 | Fluffy Friends 2 | 74943 | [74943-fluffy-friends-2.json](./74943-fluffy-friends-2.json) |
 | Fluffy Friends 3 | 116038 | [116038-fluffy-friends-3.json](./116038-fluffy-friends-3.json) |
@@ -12011,6 +12012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foviki Empieria | 258636 | [258636-foviki-empieria.json](./258636-foviki-empieria.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Damage | 271874 | [271874-fowl-damage.json](./271874-fowl-damage.json) |
+| Fowl Goods | 181411 | [181411-fowl-goods.json](./181411-fowl-goods.json) |
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Play | 301476 | [301476-fowl-play.json](./301476-fowl-play.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
