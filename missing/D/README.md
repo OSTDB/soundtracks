@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream | 328310 | [328310-daydream.json](./328310-daydream.json) |
 | Daydream | 380238 | [380238-daydream.json](./380238-daydream.json) |
 | Daydream | 77518 | [77518-daydream.json](./77518-daydream.json) |
+| DayDream | 201197 | [201197-daydream.json](./201197-daydream.json) |
 | Daydream Blue | 34173 | [34173-daydream-blue.json](./34173-daydream-blue.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
@@ -14444,6 +14445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Resurrection | 6641 | [6641-doom-resurrection.json](./6641-doom-resurrection.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom RPG | 101029 | [101029-doom-rpg.json](./101029-doom-rpg.json) |
+| Doom Slayer Chronicles | 201188 | [201188-doom-slayer-chronicles.json](./201188-doom-slayer-chronicles.json) |
 | Doom Slayers Collection | 136004 | [136004-doom-slayers-collection.json](./136004-doom-slayers-collection.json) |
 | Doom Spiral | 347089 | [347089-doom-spiral.json](./347089-doom-spiral.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
@@ -17857,6 +17859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Puzzles | 263870 | [263870-dreamscape-puzzles.json](./263870-dreamscape-puzzles.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
+| Dreamscaper | 201196 | [201196-dreamscaper.json](./201196-dreamscaper.json) |
 | Dreamscapes | 405821 | [405821-dreamscapes.json](./405821-dreamscapes.json) |
 | DreamScapes Dimensions | 189339 | [189339-dreamscapes-dimensions.json](./189339-dreamscapes-dimensions.json) |
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
@@ -19035,6 +19038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duas Vidas | 259450 | [259450-duas-vidas.json](./259450-duas-vidas.json) |
 | Duat Wayfarer | 390042 | [390042-duat-wayfarer.json](./390042-duat-wayfarer.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
+| Dub Club | 201061 | [201061-dub-club.json](./201061-dub-club.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dub Night Live | 414919 | [414919-dub-night-live.json](./414919-dub-night-live.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
