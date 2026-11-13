@@ -12260,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Makeup | 400053 | [400053-diy-makeup.json](./400053-diy-makeup.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
+| DIY My Lady: Girls in A Ghost House | 174404 | [174404-diy-my-lady-girls-in-a-ghost-house.json](./174404-diy-my-lady-girls-in-a-ghost-house.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Paper Doll: Classy Edition | 284940 | [284940-diy-paper-doll-classy-edition.json](./284940-diy-paper-doll-classy-edition.json) |
 | DIY Paper Doll: Complete Edition | 280604 | [280604-diy-paper-doll-complete-edition.json](./280604-diy-paper-doll-complete-edition.json) |
@@ -13838,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Remember | 236878 | [236878-dont-remember.json](./236878-dont-remember.json) |
 | Don’t Return to Wonderland | 407157 | [407157-don-t-return-to-wonderland.json](./407157-don-t-return-to-wonderland.json) |
 | Don't Rock The Boat | 294631 | [294631-dont-rock-the-boat.json](./294631-dont-rock-the-boat.json) |
+| Don't run out of Soda | 174408 | [174408-dont-run-out-of-soda.json](./174408-dont-run-out-of-soda.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
 | Don't Save the Princess | 186200 | [186200-dont-save-the-princess.json](./186200-dont-save-the-princess.json) |
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
