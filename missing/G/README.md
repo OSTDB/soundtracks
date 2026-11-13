@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galseed | 421556 | [421556-galseed.json](./421556-galseed.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galshell: Blood Red Skies | 266564 | [266564-galshell-blood-red-skies.json](./266564-galshell-blood-red-skies.json) |
+| Galt-Rio Maximum Position | 210773 | [210773-galt-rio-maximum-position.json](./210773-galt-rio-maximum-position.json) |
 | Galtia V Edition | 148268 | [148268-galtia-v-edition.json](./148268-galtia-v-edition.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
@@ -6846,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goi Coins | 414267 | [414267-goi-coins.json](./414267-goi-coins.json) |
 | Goi Survivors | 279518 | [279518-goi-survivors.json](./279518-goi-survivors.json) |
 | Goi: Let's Play Together | 235995 | [235995-goi-lets-play-together.json](./235995-goi-lets-play-together.json) |
+| Goice | 210781 | [210781-goice.json](./210781-goice.json) |
 | Goiken Muyou II | 43831 | [43831-goiken-muyou-ii.json](./43831-goiken-muyou-ii.json) |
 | Goiken Muyou: Anarchy in the Nippon | 45528 | [45528-goiken-muyou-anarchy-in-the-nippon.json](./45528-goiken-muyou-anarchy-in-the-nippon.json) |
 | Goime 500 | 56535 | [56535-goime-500.json](./56535-goime-500.json) |
@@ -8492,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Soriz | 156327 | [156327-granblue-fantasy-versus-soriz.json](./156327-granblue-fantasy-versus-soriz.json) |
 | Granblue Fantasy: Versus - Yuel | 156329 | [156329-granblue-fantasy-versus-yuel.json](./156329-granblue-fantasy-versus-yuel.json) |
 | Granblue Fantasy: Versus - Zooey | 156330 | [156330-granblue-fantasy-versus-zooey.json](./156330-granblue-fantasy-versus-zooey.json) |
+| Granbo | 210778 | [210778-granbo.json](./210778-granbo.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
@@ -9574,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Witcher | 128295 | [128295-great-witcher.json](./128295-great-witcher.json) |
 | Greatest Angels | 365856 | [365856-greatest-angels.json](./365856-greatest-angels.json) |
 | Greatest Artists Jigsaw Puzzle | 96828 | [96828-greatest-artists-jigsaw-puzzle.json](./96828-greatest-artists-jigsaw-puzzle.json) |
+| Greatest Drivers | 210803 | [210803-greatest-drivers.json](./210803-greatest-drivers.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greatest Dynasties Mahjong | 261002 | [261002-greatest-dynasties-mahjong.json](./261002-greatest-dynasties-mahjong.json) |
 | Greatest Estate Developer | 394994 | [394994-greatest-estate-developer.json](./394994-greatest-estate-developer.json) |
@@ -11953,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gung Beetle | 294346 | [294346-gung-beetle.json](./294346-gung-beetle.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
+| Gungho Brigade | 210799 | [210799-gungho-brigade.json](./210799-gungho-brigade.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungnir | 42882 | [42882-gungnir.json](./42882-gungnir.json) |
 | Gungrave | 22072 | [22072-gungrave.json](./22072-gungrave.json) |
