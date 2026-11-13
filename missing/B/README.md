@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
 | Battlestorm | 11948 | [11948-battlestorm.json](./11948-battlestorm.json) |
 | BattleStorm | 33774 | [33774-battlestorm.json](./33774-battlestorm.json) |
+| BattleStrike Gun | 219845 | [219845-battlestrike-gun.json](./219845-battlestrike-gun.json) |
 | Battlestrike: Force of Resistance | 8345 | [8345-battlestrike-force-of-resistance.json](./8345-battlestrike-force-of-resistance.json) |
 | Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
 | Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
@@ -7775,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Oaks | 270019 | [270019-beyond-the-oaks.json](./270019-beyond-the-oaks.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
+| Beyond the Pines | 219723 | [219723-beyond-the-pines.json](./219723-beyond-the-pines.json) |
 | Beyond the Pitch | 349512 | [349512-beyond-the-pitch.json](./349512-beyond-the-pitch.json) |
 | Beyond the Plastic Wall | 249901 | [249901-beyond-the-plastic-wall.json](./249901-beyond-the-plastic-wall.json) |
 | Beyond the Portal: Island's Salvation | 296605 | [296605-beyond-the-portal-islands-salvation.json](./296605-beyond-the-portal-islands-salvation.json) |
@@ -9502,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitdude | 30049 | [30049-bitdude.json](./30049-bitdude.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
+| Bite Me | 219724 | [219724-bite-me.json](./219724-bite-me.json) |
 | Bite Me | 378369 | [378369-bite-me.json](./378369-bite-me.json) |
 | Bite Night | 303369 | [303369-bite-night.json](./303369-bite-night.json) |
 | Bite Night: Dine or Die | 373066 | [373066-bite-night-dine-or-die.json](./373066-bite-night-dine-or-die.json) |
@@ -11359,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Carnival | 38588 | [38588-block-carnival.json](./38588-block-carnival.json) |
 | Block Cascade | 387008 | [387008-block-cascade.json](./387008-block-cascade.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
+| Block Cat Puzzle | 219838 | [219838-block-cat-puzzle.json](./219838-block-cat-puzzle.json) |
 | Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
 | Block Catching | 274801 | [274801-block-catching.json](./274801-block-catching.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
@@ -13903,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondage Girl | 389787 | [389787-bondage-girl.json](./389787-bondage-girl.json) |
 | Bondage Mermaids: Fatal Fap | 338430 | [338430-bondage-mermaids-fatal-fap.json](./338430-bondage-mermaids-fatal-fap.json) |
 | Bondage Nightmare | 385897 | [385897-bondage-nightmare.json](./385897-bondage-nightmare.json) |
+| Bonded Forever | 219725 | [219725-bonded-forever.json](./219725-bonded-forever.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
 | Bondee's Barnyard: Safety Violation | 231434 | [231434-bondees-barnyard-safety-violation.json](./231434-bondees-barnyard-safety-violation.json) |
