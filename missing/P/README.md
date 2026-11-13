@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora Galaxy | 156987 | [156987-pandora-galaxy.json](./156987-pandora-galaxy.json) |
 | Pandora no Bikkuribako | 405673 | [405673-pandora-no-bikkuribako.json](./405673-pandora-no-bikkuribako.json) |
 | Pandora no Yume | 372435 | [372435-pandora-no-yume.json](./372435-pandora-no-yume.json) |
+| Pandora Project: The Logic Master | 210783 | [210783-pandora-project-the-logic-master.json](./210783-pandora-project-the-logic-master.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora: Chains of Chaos | 90114 | [90114-pandora-chains-of-chaos.json](./90114-pandora-chains-of-chaos.json) |
 | Pandora: First Contact | 17185 | [17185-pandora-first-contact.json](./17185-pandora-first-contact.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
 | Papyrus : La Vengeance d'Aker | 56874 | [56874-papyrus-la-vengeance-daker.json](./56874-papyrus-la-vengeance-daker.json) |
 | Papyrus: Le Secret de la Cité Perdue | 56866 | [56866-papyrus-le-secret-de-la-cite-perdue.json](./56866-papyrus-le-secret-de-la-cite-perdue.json) |
+| Paqa | 210777 | [210777-paqa.json](./210777-paqa.json) |
 | Paqman | 308984 | [308984-paqman.json](./308984-paqman.json) |
 | Paquerette Down the Bunburrows | 193565 | [193565-paquerette-down-the-bunburrows.json](./193565-paquerette-down-the-bunburrows.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
@@ -3103,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastimes - Game Box | 105822 | [105822-pastimes-game-box.json](./105822-pastimes-game-box.json) |
 | Pastopia | 325322 | [325322-pastopia.json](./325322-pastopia.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
+| Pastor 3D | 210805 | [210805-pastor-3d.json](./210805-pastor-3d.json) |
 | Pastor's Lake: The Game | 285540 | [285540-pastors-lake-the-game.json](./285540-pastors-lake-the-game.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pastoral | 395721 | [395721-pastoral.json](./395721-pastoral.json) |
@@ -17634,6 +17637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Terrarium | 270433 | [270433-project-terrarium.json](./270433-project-terrarium.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
+| Project Three | 210785 | [210785-project-three.json](./210785-project-three.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Three Kingdoms | 174967 | [174967-project-three-kingdoms.json](./174967-project-three-kingdoms.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
@@ -18777,6 +18781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull Me Out | 105618 | [105618-pull-me-out.json](./105618-pull-me-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
 | Pull My Tongue | 100500 | [100500-pull-my-tongue.json](./100500-pull-my-tongue.json) |
+| Pull Pull Pullpy | 210780 | [210780-pull-pull-pullpy.json](./210780-pull-pull-pullpy.json) |
 | Pull Stay | 126994 | [126994-pull-stay.json](./126994-pull-stay.json) |
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
