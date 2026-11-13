@@ -5413,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story | 366623 | [366623-cave-story.json](./366623-cave-story.json) |
 | Cave Story | 6189 | [6189-cave-story.json](./6189-cave-story.json) |
 | Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
+| Cave Story Encore | 225241 | [225241-cave-story-encore.json](./225241-cave-story-encore.json) |
 | Cave Story MD | 183654 | [183654-cave-story-md.json](./183654-cave-story-md.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
@@ -8009,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiki-Chiki | 258025 | [258025-chiki-chiki.json](./258025-chiki-chiki.json) |
 | Chiki-Chiki Boxy Pro Wrestling | 119429 | [119429-chiki-chiki-boxy-pro-wrestling.json](./119429-chiki-chiki-boxy-pro-wrestling.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
+| Chiki-chiki Machine Mou Race 2: In Space | 224860 | [224860-chiki-chiki-machine-mou-race-2-in-space.json](./224860-chiki-chiki-machine-mou-race-2-in-space.json) |
 | Chiki-chiki Machine Mou Race: Kenken to Black Maou no Ijiwaru Daisakusen | 245250 | [245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json](./245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json) |
 | Chiki-Chiki Tengoku | 49095 | [49095-chiki-chiki-tengoku.json](./49095-chiki-chiki-tengoku.json) |
 | Chiki's Chase | 204918 | [204918-chikis-chase.json](./204918-chikis-chase.json) |
@@ -10725,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Wizards | 58101 | [58101-clash-of-wizards.json](./58101-clash-of-wizards.json) |
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
+| Clash Summoners | 225323 | [225323-clash-summoners.json](./225323-clash-summoners.json) |
 | Clash Vs. | 331362 | [331362-clash-vs.json](./331362-clash-vs.json) |
 | Clash Warlords | 101427 | [101427-clash-warlords.json](./101427-clash-warlords.json) |
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
@@ -14005,6 +14008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comedy Quest | 34508 | [34508-comedy-quest.json](./34508-comedy-quest.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 153222 | [153222-comet.json](./153222-comet.json) |
+| Comet | 224867 | [224867-comet.json](./224867-comet.json) |
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
 | Comet | 288689 | [288689-comet.json](./288689-comet.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
@@ -16340,6 +16344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted | 96626 | [96626-corrupted.json](./96626-corrupted.json) |
 | Corrupted Archives | 407698 | [407698-corrupted-archives.json](./407698-corrupted-archives.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
+| Corrupted Beats | 224791 | [224791-corrupted-beats.json](./224791-corrupted-beats.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Commander | 110626 | [110626-corrupted-commander.json](./110626-corrupted-commander.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
