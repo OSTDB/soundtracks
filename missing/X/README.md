@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xombee | 150634 | [150634-xombee.json](./150634-xombee.json) |
 | Xombycapyse | 280907 | [280907-xombycapyse.json](./280907-xombycapyse.json) |
 | Xon | 247946 | [247946-xon.json](./247946-xon.json) |
+| XON Episode Four | 228189 | [228189-xon-episode-four.json](./228189-xon-episode-four.json) |
 | XON Episode One | 306777 | [306777-xon-episode-one.json](./306777-xon-episode-one.json) |
 | XON Episode Three | 100689 | [100689-xon-episode-three.json](./100689-xon-episode-three.json) |
 | XON Episode Two | 98833 | [98833-xon-episode-two.json](./98833-xon-episode-two.json) |
