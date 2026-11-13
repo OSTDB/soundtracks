@@ -2391,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturdays | 145328 | [145328-saturdays.json](./145328-saturdays.json) |
 | Sature | 165295 | [165295-sature.json](./165295-sature.json) |
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
+| Saturn | 191755 | [191755-saturn.json](./191755-saturn.json) |
 | Saturn | 285121 | [285121-saturn.json](./285121-saturn.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
@@ -10598,6 +10599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom Soup | 410074 | [410074-shroom-soup.json](./410074-shroom-soup.json) |
 | Shroom Valley | 314575 | [314575-shroom-valley.json](./314575-shroom-valley.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
+| Shroomchitect | 191773 | [191773-shroomchitect.json](./191773-shroomchitect.json) |
 | Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
 | Shroomocracy! And The Wand Of Ages | 414020 | [414020-shroomocracy-and-the-wand-of-ages.json](./414020-shroomocracy-and-the-wand-of-ages.json) |
@@ -20333,6 +20335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
 | Soul Hackers 2 | 191738 | [191738-soul-hackers-2.json](./191738-soul-hackers-2.json) |
 | Soul Hackers 2 | 228334 | [228334-soul-hackers-2.json](./228334-soul-hackers-2.json) |
+| Soul Hackers 2: 25th Anniversary Edition | 191758 | [191758-soul-hackers-2-25th-anniversary-edition.json](./191758-soul-hackers-2-25th-anniversary-edition.json) |
 | Soul Hackers 2: Bonus Story Arc - The Lost Numbers | 214346 | [214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json](./214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
@@ -20455,6 +20458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
 | Soul Spa: Hot Aura | 235018 | [235018-soul-spa-hot-aura.json](./235018-soul-spa-hot-aura.json) |
+| Soul Split | 191838 | [191838-soul-split.json](./191838-soul-split.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
 | Soul Stealer | 176669 | [176669-soul-stealer.json](./176669-soul-stealer.json) |
 | Soul Stitcher | 270484 | [270484-soul-stitcher.json](./270484-soul-stitcher.json) |
@@ -20573,6 +20577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulfire: Weapon Master | 152906 | [152906-soulfire-weapon-master.json](./152906-soulfire-weapon-master.json) |
 | Soulflame | 377942 | [377942-soulflame.json](./377942-soulflame.json) |
 | Soulflow | 286062 | [286062-soulflow.json](./286062-soulflow.json) |
+| SoulFlow | 191843 | [191843-soulflow.json](./191843-soulflow.json) |
 | Soulfly | 214145 | [214145-soulfly.json](./214145-soulfly.json) |
 | SoulForge | 348379 | [348379-soulforge.json](./348379-soulforge.json) |
 | Soulforge: Lost Path | 353880 | [353880-soulforge-lost-path.json](./353880-soulforge-lost-path.json) |
@@ -25588,6 +25593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
 | Squarelings | 416009 | [416009-squarelings.json](./416009-squarelings.json) |
 | Squarely | 364574 | [364574-squarely.json](./364574-squarely.json) |
+| SquareMan | 191769 | [191769-squareman.json](./191769-squareman.json) |
 | SquareMan-Boy | 190939 | [190939-squareman-boy.json](./190939-squareman-boy.json) |
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarenose Jump | 359907 | [359907-squarenose-jump.json](./359907-squarenose-jump.json) |
@@ -30260,6 +30266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
 | Strangelets | 137986 | [137986-strangelets.json](./137986-strangelets.json) |
 | Strangeloop | 39138 | [39138-strangeloop.json](./39138-strangeloop.json) |
+| Stranger | 191845 | [191845-stranger.json](./191845-stranger.json) |
 | Stranger | 21543 | [21543-stranger.json](./21543-stranger.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Cases | 107567 | [107567-stranger-cases.json](./107567-stranger-cases.json) |
@@ -37435,6 +37442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrender | 313798 | [313798-surrender.json](./313798-surrender.json) |
 | Surrender 2 | 313799 | [313799-surrender-2.json](./313799-surrender-2.json) |
 | Surrogate | 110642 | [110642-surrogate.json](./110642-surrogate.json) |
+| Surrogate | 191280 | [191280-surrogate.json](./191280-surrogate.json) |
 | Surrogate | 270889 | [270889-surrogate.json](./270889-surrogate.json) |
 | Surround | 18002 | [18002-surround.json](./18002-surround.json) |
 | SurrounDead | 153225 | [153225-surroundead.json](./153225-surroundead.json) |
