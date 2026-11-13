@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Super Mario Bros. Wii | 387504 | [387504-cannon-super-mario-bros-wii.json](./387504-cannon-super-mario-bros-wii.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
 | Cannon World: Target | 225376 | [225376-cannon-world-target.json](./225376-cannon-world-target.json) |
+| CannonBall | 191284 | [191284-cannonball.json](./191284-cannonball.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannonball Blitz | 21920 | [21920-cannonball-blitz.json](./21920-cannonball-blitz.json) |
 | Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CBM Draw Poker | 58566 | [58566-cbm-draw-poker.json](./58566-cbm-draw-poker.json) |
 | CBO TD | 291260 | [291260-cbo-td.json](./291260-cbo-td.json) |
+| CBS: Desolation | 191759 | [191759-cbs-desolation.json](./191759-cbs-desolation.json) |
 | CBS: Escape from the Mall 3D | 183668 | [183668-cbs-escape-from-the-mall-3d.json](./183668-cbs-escape-from-the-mall-3d.json) |
 | Cbs: The Beginning | 392194 | [392194-cbs-the-beginning.json](./392194-cbs-the-beginning.json) |
 | CBT With Yuuka Kazami | 143220 | [143220-cbt-with-yuuka-kazami.json](./143220-cbt-with-yuuka-kazami.json) |
@@ -6155,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
+| Chain Cube | 191770 | [191770-chain-cube.json](./191770-chain-cube.json) |
 | Chain Detonation | 226053 | [226053-chain-detonation.json](./226053-chain-detonation.json) |
 | Chain Drop | 267728 | [267728-chain-drop.json](./267728-chain-drop.json) |
 | Chain Fury | 181756 | [181756-chain-fury.json](./181756-chain-fury.json) |
