@@ -8496,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirateville | 201889 | [201889-pirateville.json](./201889-pirateville.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
 | Piratiska Riba VR | 182876 | [182876-piratiska-riba-vr.json](./182876-piratiska-riba-vr.json) |
+| Piratopia | 172841 | [172841-piratopia.json](./172841-piratopia.json) |
 | Piratopia: Raiders of Pirate Bay | 239585 | [239585-piratopia-raiders-of-pirate-bay.json](./239585-piratopia-raiders-of-pirate-bay.json) |
 | Pirofauna | 317189 | [317189-pirofauna.json](./317189-pirofauna.json) |
 | Piroker | 411258 | [411258-piroker.json](./411258-piroker.json) |
@@ -13177,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollie | 292970 | [292970-pollie.json](./292970-pollie.json) |
 | Pollinarium | 354928 | [354928-pollinarium.json](./354928-pollinarium.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
+| Pollito & Xiang Xiang: Adventure in the Forest | 172809 | [172809-pollito-and-xiang-xiang-adventure-in-the-forest.json](./172809-pollito-and-xiang-xiang-adventure-in-the-forest.json) |
 | Polls | 422837 | [422837-polls.json](./422837-polls.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
 | Pollute & Conquer | 161221 | [161221-pollute-and-conquer.json](./161221-pollute-and-conquer.json) |
