@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Soccer Manager '98 | 47011 | [47011-ultimate-soccer-manager-98.json](./47011-ultimate-soccer-manager-98.json) |
 | Ultimate Soccer Manager 2 | 56597 | [56597-ultimate-soccer-manager-2.json](./56597-ultimate-soccer-manager-2.json) |
 | Ultimate Soccer Manager 98-99 | 71826 | [71826-ultimate-soccer-manager-98-99.json](./71826-ultimate-soccer-manager-98-99.json) |
+| Ultimate Soldier | 208538 | [208538-ultimate-soldier.json](./208538-ultimate-soldier.json) |
 | Ultimate Solid | 31100 | [31100-ultimate-solid.json](./31100-ultimate-solid.json) |
 | Ultimate Solid: Origins | 197729 | [197729-ultimate-solid-origins.json](./197729-ultimate-solid-origins.json) |
 | Ultimate Solitaire | 116789 | [116789-ultimate-solitaire.json](./116789-ultimate-solitaire.json) |
