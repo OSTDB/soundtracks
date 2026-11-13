@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 0.0035％ | 387443 | [387443-0-0035.json](./387443-0-0035.json) |
 | 0°N 0°W | 55486 | [55486-0-n-0-w.json](./55486-0-n-0-w.json) |
+| 00 | 227596 | [227596-00.json](./227596-00.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
 | 1 Date Danger | 255815 | [255815-1-date-danger.json](./255815-1-date-danger.json) |
 | 1 Day a Mosquito | 308198 | [308198-1-day-a-mosquito.json](./308198-1-day-a-mosquito.json) |
+| 1 Day Later: Escape Zombie Hospital | 228162 | [228162-1-day-later-escape-zombie-hospital.json](./228162-1-day-later-escape-zombie-hospital.json) |
 | 1 Fast Fight | 315347 | [315347-1-fast-fight.json](./315347-1-fast-fight.json) |
 | 1 For Yes, 0 For No | 164184 | [164184-1-for-yes-0-for-no.json](./164184-1-for-yes-0-for-no.json) |
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
@@ -936,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100NHAS | 131056 | [131056-100nhas.json](./131056-100nhas.json) |
 | 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
 | 100th | 128752 | [128752-100th.json](./128752-100th.json) |
+| 100th Anniversary of the Crossword Puzzle | 233780 | [233780-100th-anniversary-of-the-crossword-puzzle.json](./233780-100th-anniversary-of-the-crossword-puzzle.json) |
 | 100th Bug Brigade | 335194 | [335194-100th-bug-brigade.json](./335194-100th-bug-brigade.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Bunny Pets | 202175 | [202175-101-bunny-pets.json](./202175-101-bunny-pets.json) |
@@ -2928,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Seasons Girls | 286734 | [286734-4-seasons-girls.json](./286734-4-seasons-girls.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
 | 4 Seasons Runner | 243854 | [243854-4-seasons-runner.json](./243854-4-seasons-runner.json) |
+| 4 Snaps | 233765 | [233765-4-snaps.json](./233765-4-snaps.json) |
 | 4 Soccer Simulators | 250292 | [250292-4-soccer-simulators.json](./250292-4-soccer-simulators.json) |
 | 4 Spiele 1 Diskette | 130283 | [130283-4-spiele-1-diskette.json](./130283-4-spiele-1-diskette.json) |
 | 4 Stones | 117177 | [117177-4-stones.json](./117177-4-stones.json) |
