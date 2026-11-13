@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem | 266649 | [266649-harem.json](./266649-harem.json) |
 | Harem Collector | 217613 | [217613-harem-collector.json](./217613-harem-collector.json) |
 | Harem Fantasy | 396256 | [396256-harem-fantasy.json](./396256-harem-fantasy.json) |
+| Harem Girl: Alicia | 196223 | [196223-harem-girl-alicia.json](./196223-harem-girl-alicia.json) |
 | Harem Girl: Evie | 284244 | [284244-harem-girl-evie.json](./284244-harem-girl-evie.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
@@ -9704,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Jigsaw Easter | 169136 | [169136-holiday-jigsaw-easter.json](./169136-holiday-jigsaw-easter.json) |
 | Holiday Jigsaw Easter 2 | 195408 | [195408-holiday-jigsaw-easter-2.json](./195408-holiday-jigsaw-easter-2.json) |
 | Holiday Jigsaw Easter 3 | 108200 | [108200-holiday-jigsaw-easter-3.json](./108200-holiday-jigsaw-easter-3.json) |
+| Holiday Jigsaw Easter 3 | 196778 | [196778-holiday-jigsaw-easter-3.json](./196778-holiday-jigsaw-easter-3.json) |
 | Holiday Jigsaw Easter 4 | 296208 | [296208-holiday-jigsaw-easter-4.json](./296208-holiday-jigsaw-easter-4.json) |
 | Holiday Jigsaw Halloween | 168429 | [168429-holiday-jigsaw-halloween.json](./168429-holiday-jigsaw-halloween.json) |
 | Holiday Jigsaw Halloween 2 | 174050 | [174050-holiday-jigsaw-halloween-2.json](./174050-holiday-jigsaw-halloween-2.json) |
