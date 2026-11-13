@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
+| Manasis Refrain | 172799 | [172799-manasis-refrain.json](./172799-manasis-refrain.json) |
 | ManaSoul | 274305 | [274305-manasoul.json](./274305-manasoul.json) |
 | Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
 | Manastorm | 30709 | [30709-manastorm.json](./30709-manastorm.json) |
@@ -20594,6 +20595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
+| Mr. Sleepy Man | 172821 | [172821-mr-sleepy-man.json](./172821-mr-sleepy-man.json) |
 | Mr. Stackman | 395215 | [395215-mr-stackman.json](./395215-mr-stackman.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
