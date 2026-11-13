@@ -3608,7 +3608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO The Robot Chronicles | 234218 | [234218-lego-the-robot-chronicles.json](./234218-lego-the-robot-chronicles.json) |
 | LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
-| LEGO Universe | 21092 | [21092-lego-universe.json](./21092-lego-universe.json) |
 | LEGO World Builder | 243462 | [243462-lego-world-builder.json](./243462-lego-world-builder.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
