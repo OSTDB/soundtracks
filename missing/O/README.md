@@ -5651,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
 | Outfield | 279153 | [279153-outfield.json](./279153-outfield.json) |
+| Outfire | 219846 | [219846-outfire.json](./219846-outfire.json) |
 | Outflow | 289655 | [289655-outflow.json](./289655-outflow.json) |
 | Outfolded | 57950 | [57950-outfolded.json](./57950-outfolded.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
