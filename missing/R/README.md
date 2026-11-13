@@ -7567,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbert's Adventure | 54784 | [54784-ribberts-adventure.json](./54784-ribberts-adventure.json) |
 | Ribbet | 317153 | [317153-ribbet.json](./317153-ribbet.json) |
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
+| Ribbit | 241670 | [241670-ribbit.json](./241670-ribbit.json) |
 | Ribbit | 287279 | [287279-ribbit.json](./287279-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
