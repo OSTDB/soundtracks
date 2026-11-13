@@ -3411,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
 | 69 Yuuko Hot | 215456 | [215456-69-yuuko-hot.json](./215456-69-yuuko-hot.json) |
 | 6days | 361940 | [361940-6days.json](./361940-6days.json) |
+| 6ix9ine Runner | 224198 | [224198-6ix9ine-runner.json](./224198-6ix9ine-runner.json) |
 | 6N23 | 276230 | [276230-6n23.json](./276230-6n23.json) |
 | 6Souls | 123954 | [123954-6souls.json](./123954-6souls.json) |
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
