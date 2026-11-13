@@ -6435,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | ReThink 5 | 304922 | [304922-rethink-5.json](./304922-rethink-5.json) |
 | Rethink Lite | 393951 | [393951-rethink-lite.json](./393951-rethink-lite.json) |
+| Rethm: Once Upon a Time | 234369 | [234369-rethm-once-upon-a-time.json](./234369-rethm-once-upon-a-time.json) |
 | Reticent Retribution | 167551 | [167551-reticent-retribution.json](./167551-reticent-retribution.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
@@ -6668,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrocycles | 138417 | [138417-retrocycles.json](./138417-retrocycles.json) |
+| RetroDoge: Saving Elon | 234953 | [234953-retrodoge-saving-elon.json](./234953-retrodoge-saving-elon.json) |
 | RetroDrift: Retrowave Online Road | 186980 | [186980-retrodrift-retrowave-online-road.json](./186980-retrodrift-retrowave-online-road.json) |
 | RetroFight | 292187 | [292187-retrofight.json](./292187-retrofight.json) |
 | RetroFighter VR | 28995 | [28995-retrofighter-vr.json](./28995-retrofighter-vr.json) |
@@ -6817,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Castle Wolfenstein: Game of the Year Edition | 209195 | [209195-return-to-castle-wolfenstein-game-of-the-year-edition.json](./209195-return-to-castle-wolfenstein-game-of-the-year-edition.json) |
 | Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
+| Return to Castle Wolfenstein: Time Gate | 234947 | [234947-return-to-castle-wolfenstein-time-gate.json](./234947-return-to-castle-wolfenstein-time-gate.json) |
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
 | Return to Company Oziisan | 379853 | [379853-return-to-company-oziisan.json](./379853-return-to-company-oziisan.json) |
 | Return to Cube Planet | 118651 | [118651-return-to-cube-planet.json](./118651-return-to-cube-planet.json) |
@@ -10412,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman | 26446 | [26446-rockman.json](./26446-rockman.json) |
 | Rockman & Crystal | 366622 | [366622-rockman-and-crystal.json](./366622-rockman-and-crystal.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
+| Rockman 2 de Ippatsu Neta | 234374 | [234374-rockman-2-de-ippatsu-neta.json](./234374-rockman-2-de-ippatsu-neta.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Claw | 269886 | [269886-rockman-2-claw.json](./269886-rockman-2-claw.json) |
 | Rockman 2: Dr. Wily no Nazo | 170742 | [170742-rockman-2-dr-wily-no-nazo.json](./170742-rockman-2-dr-wily-no-nazo.json) |
@@ -11299,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | Rollercoaster Xperience | 55434 | [55434-rollercoaster-xperience.json](./55434-rollercoaster-xperience.json) |
+| Rollercoin | 234956 | [234956-rollercoin.json](./234956-rollercoin.json) |
 | Rollerdrome | 203366 | [203366-rollerdrome.json](./203366-rollerdrome.json) |
 | RollerForce | 31935 | [31935-rollerforce.json](./31935-rollerforce.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
