@@ -5347,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros | 308155 | [308155-ouroboros.json](./308155-ouroboros.json) |
 | Ouroboros | 340969 | [340969-ouroboros.json](./340969-ouroboros.json) |
+| Ouroboros Dungeon | 172214 | [172214-ouroboros-dungeon.json](./172214-ouroboros-dungeon.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
