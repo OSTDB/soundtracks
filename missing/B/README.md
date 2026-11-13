@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Bustle: Ashley's Dream | 172896 | [172896-baking-bustle-ashleys-dream.json](./172896-baking-bustle-ashleys-dream.json) |
 | Baking Bustle: Ashley's Dream - Collector's Edition | 339607 | [339607-baking-bustle-ashleys-dream-collectors-edition.json](./339607-baking-bustle-ashleys-dream-collectors-edition.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
+| Baking Success | 238773 | [238773-baking-success.json](./238773-baking-success.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
 | Baking Time: Fast Edition | 310436 | [310436-baking-time-fast-edition.json](./310436-baking-time-fast-edition.json) |
 | Baking Time: Powerful Edition | 308668 | [308668-baking-time-powerful-edition.json](./308668-baking-time-powerful-edition.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls | 355067 | [355067-balls.json](./355067-balls.json) |
 | Balls | 379996 | [379996-balls.json](./379996-balls.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
+| Balls & Beats | 238786 | [238786-balls-and-beats.json](./238786-balls-and-beats.json) |
 | Balls and Coins | 250541 | [250541-balls-and-coins.json](./250541-balls-and-coins.json) |
 | Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
 | Balls and Magnets | 83538 | [83538-balls-and-magnets.json](./83538-balls-and-magnets.json) |
@@ -6516,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
+| Beetplanet | 238777 | [238777-beetplanet.json](./238777-beetplanet.json) |
 | Beezaster | 234501 | [234501-beezaster.json](./234501-beezaster.json) |
 | Beezer | 23569 | [23569-beezer.json](./23569-beezer.json) |
 | Beezooka | 303825 | [303825-beezooka.json](./303825-beezooka.json) |
@@ -9366,7 +9369,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Digger | 65329 | [65329-bit-digger.json](./65329-bit-digger.json) |
 | Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
-| Bit Dungeon+ | 25816 | [25816-bit-dungeon.json](./25816-bit-dungeon.json) |
 | Bit Esc | 317143 | [317143-bit-esc.json](./317143-bit-esc.json) |
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
@@ -9422,6 +9424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
 | Bit.Trip Beat | 9535 | [9535-bit-trip-beat.json](./9535-bit-trip-beat.json) |
 | Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
+| Bit.Trip Collection | 238715 | [238715-bit-trip-collection.json](./238715-bit-trip-collection.json) |
 | Bit.Trip Complete | 4719 | [4719-bit-trip-complete.json](./4719-bit-trip-complete.json) |
 | Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien | 5592 | [5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json](./5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json) |
 | Bit.Trip Rerunner | 263289 | [263289-bit-trip-rerunner.json](./263289-bit-trip-rerunner.json) |
@@ -11823,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bear | 365621 | [365621-blood-bear.json](./365621-blood-bear.json) |
 | Blood Beat Club | 301894 | [301894-blood-beat-club.json](./301894-blood-beat-club.json) |
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
+| Blood Bottom | 238781 | [238781-blood-bottom.json](./238781-blood-bottom.json) |
 | Blood Bound | 313823 | [313823-blood-bound.json](./313823-blood-bound.json) |
 | Blood Bound II | 313824 | [313824-blood-bound-ii.json](./313824-blood-bound-ii.json) |
 | Blood Bound III | 313825 | [313825-blood-bound-iii.json](./313825-blood-bound-iii.json) |
