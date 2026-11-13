@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linx | 407693 | [407693-linx.json](./407693-linx.json) |
 | Linx Battle Arena | 55961 | [55961-linx-battle-arena.json](./55961-linx-battle-arena.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
+| Linxy the Lynx | 241677 | [241677-linxy-the-lynx.json](./241677-linxy-the-lynx.json) |
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
 | Lio | 290207 | [290207-lio.json](./290207-lio.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
@@ -9250,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Loud Run | 307239 | [307239-loud-run.json](./307239-loud-run.json) |
 | Loud: My Road to Fame | 241712 | [241712-loud-my-road-to-fame.json](./241712-loud-my-road-to-fame.json) |
+| Loud: My Road to Fame - My Trip to Japan | 241683 | [241683-loud-my-road-to-fame-my-trip-to-japan.json](./241683-loud-my-road-to-fame-my-trip-to-japan.json) |
 | Loud: RockStar Edition | 249565 | [249565-loud-rockstar-edition.json](./249565-loud-rockstar-edition.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie | 143959 | [143959-louie.json](./143959-louie.json) |
@@ -11093,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyrica | 82602 | [82602-lyrica.json](./82602-lyrica.json) |
 | Lyrica & Lyrica 2 Stars Align | 152914 | [152914-lyrica-and-lyrica-2-stars-align.json](./152914-lyrica-and-lyrica-2-stars-align.json) |
 | Lyrica 2 Stars Align | 152913 | [152913-lyrica-2-stars-align.json](./152913-lyrica-2-stars-align.json) |
+| Lyrical Letters | 241583 | [241583-lyrical-letters.json](./241583-lyrical-letters.json) |
 | Lyrvane Park | 374291 | [374291-lyrvane-park.json](./374291-lyrvane-park.json) |
 | Lys and Ruka's Magical Bag | 206202 | [206202-lys-and-rukas-magical-bag.json](./206202-lys-and-rukas-magical-bag.json) |
 | Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
