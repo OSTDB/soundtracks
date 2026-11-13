@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
 | Happy Block | 108076 | [108076-happy-block.json](./108076-happy-block.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
+| Happy Bones Infernal | 189221 | [189221-happy-bones-infernal.json](./189221-happy-bones-infernal.json) |
 | Happy Bones: Welcome Home | 372055 | [372055-happy-bones-welcome-home.json](./372055-happy-bones-welcome-home.json) |
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
 | Happy Breeding | 92696 | [92696-happy-breeding.json](./92696-happy-breeding.json) |
