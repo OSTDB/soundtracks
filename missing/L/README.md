@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion of Scorn | 118056 | [118056-legion-of-scorn.json](./118056-legion-of-scorn.json) |
 | Legion of Valkyrie | 284250 | [284250-legion-of-valkyrie.json](./284250-legion-of-valkyrie.json) |
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
+| Legion Saga | 239372 | [239372-legion-saga.json](./239372-legion-saga.json) |
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Saga R | 385881 | [385881-legion-saga-r.json](./385881-legion-saga-r.json) |
@@ -3675,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239079 | [239079-lemmings.json](./239079-lemmings.json) |
 | Lemmings | 239128 | [239128-lemmings.json](./239128-lemmings.json) |
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
+| Lemmings | 239389 | [239389-lemmings.json](./239389-lemmings.json) |
 | Lemmings | 239476 | [239476-lemmings.json](./239476-lemmings.json) |
 | Lemmings | 240086 | [240086-lemmings.json](./240086-lemmings.json) |
 | Lemmings | 240087 | [240087-lemmings.json](./240087-lemmings.json) |
@@ -6003,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | Linking Logic | 40889 | [40889-linking-logic.json](./40889-linking-logic.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
+| Linkito | 239370 | [239370-linkito.json](./239370-linkito.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
 | Linklight | 139620 | [139620-linklight.json](./139620-linklight.json) |
 | Linkling | 390061 | [390061-linkling.json](./390061-linkling.json) |
