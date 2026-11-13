@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umatarou Gennarin Daibouken | 151631 | [151631-umatarou-gennarin-daibouken.json](./151631-umatarou-gennarin-daibouken.json) |
 | UMBA | 253823 | [253823-umba.json](./253823-umba.json) |
+| Umbara the Indonesian Child | 214646 | [214646-umbara-the-indonesian-child.json](./214646-umbara-the-indonesian-child.json) |
 | Umbilical | 214437 | [214437-umbilical.json](./214437-umbilical.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
