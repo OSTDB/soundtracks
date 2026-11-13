@@ -1046,6 +1046,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuyasumi ga Machidooshii | 307833 | [307833-natsuyasumi-ga-machidooshii.json](./307833-natsuyasumi-ga-machidooshii.json) |
 | Natsuyume Nagisa | 396029 | [396029-natsuyume-nagisa.json](./396029-natsuyume-nagisa.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
+| Natsuzora no Monologue | 221455 | [221455-natsuzora-no-monologue.json](./221455-natsuzora-no-monologue.json) |
+| Natsuzora no Monologue Portable | 221456 | [221456-natsuzora-no-monologue-portable.json](./221456-natsuzora-no-monologue-portable.json) |
 | Natsuzora no Monologue: Another Memory | 287895 | [287895-natsuzora-no-monologue-another-memory.json](./287895-natsuzora-no-monologue-another-memory.json) |
 | Natsuzora no Perseus | 60873 | [60873-natsuzora-no-perseus.json](./60873-natsuzora-no-perseus.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
@@ -5511,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden | 198839 | [198839-ninja-gaiden.json](./198839-ninja-gaiden.json) |
 | Ninja Gaiden | 210484 | [210484-ninja-gaiden.json](./210484-ninja-gaiden.json) |
 | Ninja Gaiden | 221646 | [221646-ninja-gaiden.json](./221646-ninja-gaiden.json) |
+| Ninja Gaiden | 222002 | [222002-ninja-gaiden.json](./222002-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden | 5972 | [5972-ninja-gaiden.json](./5972-ninja-gaiden.json) |
 | Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
@@ -6313,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes 2: Desperate Struggle | 2273 | [2273-no-more-heroes-2-desperate-struggle.json](./2273-no-more-heroes-2-desperate-struggle.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
 | No More Heroes III: Day 1 Edition | 198394 | [198394-no-more-heroes-iii-day-1-edition.json](./198394-no-more-heroes-iii-day-1-edition.json) |
+| No More Heroes III: Digital Deluxe Edition | 221460 | [221460-no-more-heroes-iii-digital-deluxe-edition.json](./221460-no-more-heroes-iii-digital-deluxe-edition.json) |
 | No More Heroes: Heroes' Paradise | 7124 | [7124-no-more-heroes-heroes-paradise.json](./7124-no-more-heroes-heroes-paradise.json) |
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
