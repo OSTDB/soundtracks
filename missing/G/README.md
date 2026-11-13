@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
 | Ghost Killer | 101398 | [101398-ghost-killer.json](./101398-ghost-killer.json) |
 | Ghost Killers: The Revenge of the Sucker-Fun | 235605 | [235605-ghost-killers-the-revenge-of-the-sucker-fun.json](./235605-ghost-killers-the-revenge-of-the-sucker-fun.json) |
+| Ghost King's Revenge | 183094 | [183094-ghost-kings-revenge.json](./183094-ghost-kings-revenge.json) |
 | Ghost Kitchen | 337920 | [337920-ghost-kitchen.json](./337920-ghost-kitchen.json) |
 | Ghost Knight: A Dark Tale | 219332 | [219332-ghost-knight-a-dark-tale.json](./219332-ghost-knight-a-dark-tale.json) |
 | Ghost Land | 120586 | [120586-ghost-land.json](./120586-ghost-land.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
 | Gig Life Tycoon | 256173 | [256173-gig-life-tycoon.json](./256173-gig-life-tycoon.json) |
 | Giga Digger | 423890 | [423890-giga-digger.json](./423890-giga-digger.json) |
+| Giga Drill Clicker | 183490 | [183490-giga-drill-clicker.json](./183490-giga-drill-clicker.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
 | Giga Girl | 32598 | [32598-giga-girl.json](./32598-giga-girl.json) |
