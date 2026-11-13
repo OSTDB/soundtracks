@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Wars Online | 110261 | [110261-idol-wars-online.json](./110261-idol-wars-online.json) |
 | Idol-Mahjong Final Romance | 56055 | [56055-idol-mahjong-final-romance.json](./56055-idol-mahjong-final-romance.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
+| Idol-Mahjong: Final Romance R | 221438 | [221438-idol-mahjong-final-romance-r.json](./221438-idol-mahjong-final-romance-r.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idolaters | 401470 | [401470-idolaters.json](./401470-idolaters.json) |
 | Idolish7 Twelve Fantasia! | 136760 | [136760-idolish7-twelve-fantasia.json](./136760-idolish7-twelve-fantasia.json) |
@@ -2245,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
 | Ikinari Happy Bell | 77757 | [77757-ikinari-happy-bell.json](./77757-ikinari-happy-bell.json) |
+| Ikinari Maou | 221442 | [221442-ikinari-maou.json](./221442-ikinari-maou.json) |
 | Ikinari Musician | 48462 | [48462-ikinari-musician.json](./48462-ikinari-musician.json) |
 | Ikisugi!? Before After | 241191 | [241191-ikisugi-before-after.json](./241191-ikisugi-before-after.json) |
 | Ikkaku Senkin | 206542 | [206542-ikkaku-senkin.json](./206542-ikkaku-senkin.json) |
@@ -6688,6 +6690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Succubus: My Genderbent Saga in Another World | 187185 | [187185-isekai-succubus-my-genderbent-saga-in-another-world.json](./187185-isekai-succubus-my-genderbent-saga-in-another-world.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
 | Isekai Team: Another World Adventure | 153061 | [153061-isekai-team-another-world-adventure.json](./153061-isekai-team-another-world-adventure.json) |
+| Isekai Tragic Love | 221440 | [221440-isekai-tragic-love.json](./221440-isekai-tragic-love.json) |
 | Isekai Training | 374346 | [374346-isekai-training.json](./374346-isekai-training.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
