@@ -6093,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Heart | 109911 | [109911-finding-heart.json](./109911-finding-heart.json) |
 | Finding Heidi | 254642 | [254642-finding-heidi.json](./254642-finding-heidi.json) |
 | Finding Her | 387955 | [387955-finding-her.json](./387955-finding-her.json) |
+| Finding Home | 190252 | [190252-finding-home.json](./190252-finding-home.json) |
 | Finding Hooman | 419785 | [419785-finding-hooman.json](./419785-finding-hooman.json) |
 | Finding Hope | 32520 | [32520-finding-hope.json](./32520-finding-hope.json) |
 | Finding Jack's Treasure | 95956 | [95956-finding-jacks-treasure.json](./95956-finding-jacks-treasure.json) |
