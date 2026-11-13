@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
+| Neon Noir | 226001 | [226001-neon-noir.json](./226001-neon-noir.json) |
 | Neon Noodles: Cyberpunk Kitchen Automation | 121808 | [121808-neon-noodles-cyberpunk-kitchen-automation.json](./121808-neon-noodles-cyberpunk-kitchen-automation.json) |
 | Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
 | Neon Odyssey | 279409 | [279409-neon-odyssey.json](./279409-neon-odyssey.json) |
