@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
 | Sami's Pet Care | 364405 | [364405-samis-pet-care.json](./364405-samis-pet-care.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
+| Samira: Taken From Time | 244522 | [244522-samira-taken-from-time.json](./244522-samira-taken-from-time.json) |
 | Samira's House | 265494 | [265494-samiras-house.json](./265494-samiras-house.json) |
 | Samla | 384709 | [384709-samla.json](./384709-samla.json) |
 | Samly's Merge | 339149 | [339149-samlys-merge.json](./339149-samlys-merge.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
 | Scarlet Rain | 274945 | [274945-scarlet-rain.json](./274945-scarlet-rain.json) |
+| Scarlet Record | 244465 | [244465-scarlet-record.json](./244465-scarlet-record.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
 | Scarlet Rivensin: The Ruiner | 142046 | [142046-scarlet-rivensin-the-ruiner.json](./142046-scarlet-rivensin-the-ruiner.json) |
 | Scarlet Sails | 59689 | [59689-scarlet-sails.json](./59689-scarlet-sails.json) |
@@ -11640,6 +11642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Strike Bowling | 72780 | [72780-silver-strike-bowling.json](./72780-silver-strike-bowling.json) |
 | Silver Surfer | 198884 | [198884-silver-surfer.json](./198884-silver-surfer.json) |
 | Silver Surfer | 9099 | [9099-silver-surfer.json](./9099-silver-surfer.json) |
+| Silver Sword | 245064 | [245064-silver-sword.json](./245064-silver-sword.json) |
 | Silver The Hedgehog | 316328 | [316328-silver-the-hedgehog.json](./316328-silver-the-hedgehog.json) |
 | Silver the Hedgehog: World's Collide | 253786 | [253786-silver-the-hedgehog-worlds-collide.json](./253786-silver-the-hedgehog-worlds-collide.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
@@ -12622,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren | 319989 | [319989-siren.json](./319989-siren.json) |
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
+| Siren Forest | 244531 | [244531-siren-forest.json](./244531-siren-forest.json) |
 | Siren Head | 125564 | [125564-siren-head.json](./125564-siren-head.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head Hentai Edition | 168062 | [168062-siren-head-hentai-edition.json](./168062-siren-head-hentai-edition.json) |
@@ -14818,6 +14822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Match Adventure | 363056 | [363056-slime-match-adventure.json](./363056-slime-match-adventure.json) |
 | Slime Must Grow | 389917 | [389917-slime-must-grow.json](./389917-slime-must-grow.json) |
 | Slime Musume ha Ningen to Tomodachi ni Naritai you da | 308910 | [308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json](./308910-slime-musume-ha-ningen-to-tomodachi-ni-naritai-you-da.json) |
+| Slime Mutation | 244456 | [244456-slime-mutation.json](./244456-slime-mutation.json) |
 | Slime Nomi | 324795 | [324795-slime-nomi.json](./324795-slime-nomi.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Order | 370176 | [370176-slime-order.json](./370176-slime-order.json) |
@@ -14848,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
 | Slime Slam | 126967 | [126967-slime-slam.json](./126967-slime-slam.json) |
 | Slime Slayer | 147607 | [147607-slime-slayer.json](./147607-slime-slayer.json) |
+| Slime Slayer | 244976 | [244976-slime-slayer.json](./244976-slime-slayer.json) |
 | Slime Slayer | 298419 | [298419-slime-slayer.json](./298419-slime-slayer.json) |
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
@@ -36711,6 +36717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpanda 2 | 210933 | [210933-superpanda-2.json](./210933-superpanda-2.json) |
 | Superpanel | 377702 | [377702-superpanel.json](./377702-superpanel.json) |
 | Superpantsu Harematchii | 151607 | [151607-superpantsu-harematchii.json](./151607-superpantsu-harematchii.json) |
+| SuperPantsu Tentikun | 244965 | [244965-superpantsu-tentikun.json](./244965-superpantsu-tentikun.json) |
 | Superpersons University | 277362 | [277362-superpersons-university.json](./277362-superpersons-university.json) |
 | Superpip: Level One | 353725 | [353725-superpip-level-one.json](./353725-superpip-level-one.json) |
 | Superpix | 311702 | [311702-superpix.json](./311702-superpix.json) |
@@ -37107,6 +37114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
+| Survival & Horror: Undead Space | 244974 | [244974-survival-and-horror-undead-space.json](./244974-survival-and-horror-undead-space.json) |
 | Survival & Simulator | 121263 | [121263-survival-and-simulator.json](./121263-survival-and-simulator.json) |
 | Survival 2: Get Lucky | 65417 | [65417-survival-2-get-lucky.json](./65417-survival-2-get-lucky.json) |
 | Survival 2099 | 302339 | [302339-survival-2099.json](./302339-survival-2099.json) |
@@ -37292,6 +37300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Society | 336333 | [336333-survive-society.json](./336333-survive-society.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
+| Survive the Backrooms | 244529 | [244529-survive-the-backrooms.json](./244529-survive-the-backrooms.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
 | Survive the Blackout | 116184 | [116184-survive-the-blackout.json](./116184-survive-the-blackout.json) |
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
