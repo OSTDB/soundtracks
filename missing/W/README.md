@@ -4807,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlwind of Vietnam | 72714 | [72714-whirlwind-of-vietnam.json](./72714-whirlwind-of-vietnam.json) |
 | Whirly Word | 87507 | [87507-whirly-word.json](./87507-whirly-word.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
+| Whirlycat | 212380 | [212380-whirlycat.json](./212380-whirlycat.json) |
 | Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
 | Whisk | 385020 | [385020-whisk.json](./385020-whisk.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
