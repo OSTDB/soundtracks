@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dream For Aaron | 72406 | [72406-a-dream-for-aaron.json](./72406-a-dream-for-aaron.json) |
 | A Dream of Burning Sand | 113337 | [113337-a-dream-of-burning-sand.json](./113337-a-dream-of-burning-sand.json) |
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
+| A Dream of Wargs | 176957 | [176957-a-dream-of-wargs.json](./176957-a-dream-of-wargs.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gay Dragon | 114634 | [114634-a-gay-dragon.json](./114634-a-gay-dragon.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
+| A Gentleman's Adventure | 176557 | [176557-a-gentlemans-adventure.json](./176557-a-gentlemans-adventure.json) |
 | A Gentlemanly Adventure | 104844 | [104844-a-gentlemanly-adventure.json](./104844-a-gentlemanly-adventure.json) |
 | A Ghost and a Snail | 401322 | [401322-a-ghost-and-a-snail.json](./401322-a-ghost-and-a-snail.json) |
 | A Ghost Journey | 373811 | [373811-a-ghost-journey.json](./373811-a-ghost-journey.json) |
@@ -1635,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Voxel Action | 65411 | [65411-a-voxel-action.json](./65411-a-voxel-action.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Waddleful Life | 325178 | [325178-a-waddleful-life.json](./325178-a-waddleful-life.json) |
+| A Waffles Fate | 176542 | [176542-a-waffles-fate.json](./176542-a-waffles-fate.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk Along the Wall | 81955 | [81955-a-walk-along-the-wall.json](./81955-a-walk-along-the-wall.json) |
@@ -3187,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acolyte | 149122 | [149122-acolyte.json](./149122-acolyte.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Acolyte of the Altar | 244924 | [244924-acolyte-of-the-altar.json](./244924-acolyte-of-the-altar.json) |
+| Acolyte: Ascend | 176951 | [176951-acolyte-ascend.json](./176951-acolyte-ascend.json) |
 | Acolytes of the Chrystal | 205679 | [205679-acolytes-of-the-chrystal.json](./205679-acolytes-of-the-chrystal.json) |
 | Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
 | Aconite | 224832 | [224832-aconite.json](./224832-aconite.json) |
@@ -4587,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly RC 10: RC Flight Simulator | 272642 | [272642-aerofly-rc-10-rc-flight-simulator.json](./272642-aerofly-rc-10-rc-flight-simulator.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aerofly RC 7: Professional Edition | 171709 | [171709-aerofly-rc-7-professional-edition.json](./171709-aerofly-rc-7-professional-edition.json) |
+| Aerofoil | 177006 | [177006-aerofoil.json](./177006-aerofoil.json) |
 | AeroGauge | 3329 | [3329-aerogauge.json](./3329-aerogauge.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aerolitos | 40160 | [40160-aerolitos.json](./40160-aerolitos.json) |
@@ -8329,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the World's Cravings | 404001 | [404001-all-the-worlds-cravings.json](./404001-all-the-worlds-cravings.json) |
 | All Things Devours | 60107 | [60107-all-things-devours.json](./60107-all-things-devours.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
+| All to Get Her | 176529 | [176529-all-to-get-her.json](./176529-all-to-get-her.json) |
 | All to Race | 192705 | [192705-all-to-race.json](./192705-all-to-race.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
@@ -10092,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Iou | 208669 | [208669-an-iou.json](./208669-an-iou.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
 | An NPC's Odyssey | 192080 | [192080-an-npcs-odyssey.json](./192080-an-npcs-odyssey.json) |
+| An Oath In Kind | 176950 | [176950-an-oath-in-kind.json](./176950-an-oath-in-kind.json) |
 | An Oath to the Stars | 28756 | [28756-an-oath-to-the-stars.json](./28756-an-oath-to-the-stars.json) |
 | An Occasional Dream | 55690 | [55690-an-occasional-dream.json](./55690-an-occasional-dream.json) |
 | An Occurrence at Owl Creek Bridge | 116670 | [116670-an-occurrence-at-owl-creek-bridge.json](./116670-an-occurrence-at-owl-creek-bridge.json) |
@@ -12367,6 +12374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Anti | 411924 | [411924-anti-anti.json](./411924-anti-anti.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
+| Anti-binary | 176945 | [176945-anti-binary.json](./176945-anti-binary.json) |
 | Anti-Bully Adventure | 239454 | [239454-anti-bully-adventure.json](./239454-anti-bully-adventure.json) |
 | Anti-Cast | 58010 | [58010-anti-cast.json](./58010-anti-cast.json) |
 | Anti-Demon Stormedge Sakuya | 82621 | [82621-anti-demon-stormedge-sakuya.json](./82621-anti-demon-stormedge-sakuya.json) |
