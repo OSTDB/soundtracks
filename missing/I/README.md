@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ijiwaru IQ Test | 278202 | [278202-ijiwaru-iq-test.json](./278202-ijiwaru-iq-test.json) |
 | Ijuu: First Escape | 288421 | [288421-ijuu-first-escape.json](./288421-ijuu-first-escape.json) |
 | Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
+| Ika-chan | 220366 | [220366-ika-chan.json](./220366-ika-chan.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
 | Ikai | 157133 | [157133-ikai.json](./157133-ikai.json) |
