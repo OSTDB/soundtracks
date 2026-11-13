@@ -3590,7 +3590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Graymount | 133336 | [133336-welcome-to-graymount.json](./133336-welcome-to-graymount.json) |
 | Welcome to Graystone | 172349 | [172349-welcome-to-graystone.json](./172349-welcome-to-graystone.json) |
 | Welcome to Greedcorp | 355721 | [355721-welcome-to-greedcorp.json](./355721-welcome-to-greedcorp.json) |
-| Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Harmony | 393682 | [393682-welcome-to-harmony.json](./393682-welcome-to-harmony.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
 | Welcome to Hell | 178231 | [178231-welcome-to-hell.json](./178231-welcome-to-hell.json) |
