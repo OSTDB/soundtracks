@@ -14973,6 +14973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Kawaii | 215606 | [215606-miss-kawaii.json](./215606-miss-kawaii.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Kawaii 3 | 227598 | [227598-miss-kawaii-3.json](./227598-miss-kawaii-3.json) |
+| Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon Breath: Director's Cut | 220763 | [220763-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath-directors-cut.json](./220763-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath-directors-cut.json) |
 | Miss Kobayashi's Dragon Maid: Burst Forth!! Choro-gon Breath | 172393 | [172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json](./172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json) |
 | Miss Lisette's Assassin Maid | 118255 | [118255-miss-lisettes-assassin-maid.json](./118255-miss-lisettes-assassin-maid.json) |
 | Miss Lu | 236494 | [236494-miss-lu.json](./236494-miss-lu.json) |
