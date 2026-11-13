@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magistr Temple | 411904 | [411904-magistr-temple.json](./411904-magistr-temple.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
+| Magitek VR | 214638 | [214638-magitek-vr.json](./214638-magitek-vr.json) |
 | Magiterra | 202521 | [202521-magiterra.json](./202521-magiterra.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
 | Magiworks | 377107 | [377107-magiworks.json](./377107-magiworks.json) |
@@ -6184,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Tables Mania: Learn Multiplications and Divisions | 87638 | [87638-math-tables-mania-learn-multiplications-and-divisions.json](./87638-math-tables-mania-learn-multiplications-and-divisions.json) |
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
 | Math Tile | 82352 | [82352-math-tile.json](./82352-math-tile.json) |
+| Math Tower 2 | 214210 | [214210-math-tower-2.json](./214210-math-tower-2.json) |
 | Math Workshop | 94384 | [94384-math-workshop.json](./94384-math-workshop.json) |
 | Math World | 114686 | [114686-math-world.json](./114686-math-world.json) |
 | Math World VR | 254919 | [254919-math-world-vr.json](./254919-math-world-vr.json) |
@@ -9636,6 +9638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Glass Maiden | 297963 | [297963-memories-of-glass-maiden.json](./297963-memories-of-glass-maiden.json) |
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
+| Memories of Indonesia | 214645 | [214645-memories-of-indonesia.json](./214645-memories-of-indonesia.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of Magic | 424654 | [424654-memories-of-magic.json](./424654-memories-of-magic.json) |
 | Memories of Mana | 283372 | [283372-memories-of-mana.json](./283372-memories-of-mana.json) |
