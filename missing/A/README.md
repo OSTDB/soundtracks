@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
 | Aegean Voyage | 57311 | [57311-aegean-voyage.json](./57311-aegean-voyage.json) |
+| Aegeankai no Shizuku | 194501 | [194501-aegeankai-no-shizuku.json](./194501-aegeankai-no-shizuku.json) |
 | Aegers Borg | 377496 | [377496-aegers-borg.json](./377496-aegers-borg.json) |
 | Aegis | 115886 | [115886-aegis.json](./115886-aegis.json) |
 | Aegis | 266000 | [266000-aegis.json](./266000-aegis.json) |
@@ -4761,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Chess | 272641 | [272641-afk-chess.json](./272641-afk-chess.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFK Football | 267314 | [267314-afk-football.json](./267314-afk-football.json) |
+| AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
 | AFKTower | 420200 | [420200-afktower.json](./420200-afktower.json) |
@@ -6515,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIT | 235523 | [235523-ait.json](./235523-ait.json) |
 | Aitakute... Your smiles in my heart | 148298 | [148298-aitakute-your-smiles-in-my-heart.json](./148298-aitakute-your-smiles-in-my-heart.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
+| Aitsu ni Choukyou Sareru to Do-M na Watashi wa Kanjichau | 194486 | [194486-aitsu-ni-choukyou-sareru-to-do-m-na-watashi-wa-kanjichau.json](./194486-aitsu-ni-choukyou-sareru-to-do-m-na-watashi-wa-kanjichau.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
 | AIV: A-Ressha de Ikou 4 - 15th Anniversary | 272674 | [272674-aiv-a-ressha-de-ikou-4-15th-anniversary.json](./272674-aiv-a-ressha-de-ikou-4-15th-anniversary.json) |
 | AIV: A-Ressha de Ikou 4 - XP Taiou-ban | 272675 | [272675-aiv-a-ressha-de-ikou-4-xp-taiou-ban.json](./272675-aiv-a-ressha-de-ikou-4-xp-taiou-ban.json) |
@@ -10198,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchored Hearts: A Tale of Destiny | 291888 | [291888-anchored-hearts-a-tale-of-destiny.json](./291888-anchored-hearts-a-tale-of-destiny.json) |
 | Anchorhead | 138147 | [138147-anchorhead.json](./138147-anchorhead.json) |
 | Anchorhead | 69245 | [69245-anchorhead.json](./69245-anchorhead.json) |
+| Anchors | 194495 | [194495-anchors.json](./194495-anchors.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Anchorz Field | 37526 | [37526-anchorz-field.json](./37526-anchorz-field.json) |
