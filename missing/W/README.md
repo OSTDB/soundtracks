@@ -6821,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Project | 35307 | [35307-wish-project.json](./35307-wish-project.json) |
 | Wish Ready Go! | 330667 | [330667-wish-ready-go.json](./330667-wish-ready-go.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
+| Wish Talk | 196901 | [196901-wish-talk.json](./196901-wish-talk.json) |
 | Wish Upon | 390618 | [390618-wish-upon.json](./390618-wish-upon.json) |
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
 | Wish Upon a Cat | 356718 | [356718-wish-upon-a-cat.json](./356718-wish-upon-a-cat.json) |
