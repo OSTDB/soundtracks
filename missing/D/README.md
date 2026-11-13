@@ -6138,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaced | 236312 | [236312-defaced.json](./236312-defaced.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
+| DeFacto | 180875 | [180875-defacto.json](./180875-defacto.json) |
 | Defagra | 184545 | [184545-defagra.json](./184545-defagra.json) |
 | Default Unreal Physics and Assets AKA DUPA Project | 380367 | [380367-default-unreal-physics-and-assets-aka-dupa-project.json](./380367-default-unreal-physics-and-assets-aka-dupa-project.json) |
 | Defcom | 13586 | [13586-defcom.json](./13586-defcom.json) |
@@ -8824,6 +8825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devexus | 199343 | [199343-devexus.json](./199343-devexus.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
 | Devi: A light in the Dark | 211523 | [211523-devi-a-light-in-the-dark.json](./211523-devi-a-light-in-the-dark.json) |
+| Deviant | 180861 | [180861-deviant.json](./180861-deviant.json) |
 | Deviant Anomalies | 240956 | [240956-deviant-anomalies.json](./240956-deviant-anomalies.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
 | Deviants | 14030 | [14030-deviants.json](./14030-deviants.json) |
@@ -9329,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Quest | 98537 | [98537-diamond-quest.json](./98537-diamond-quest.json) |
+| Diamond Rose | 181265 | [181265-diamond-rose.json](./181265-diamond-rose.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Run | 38628 | [38628-diamond-run.json](./38628-diamond-run.json) |
 | Diamond Runway | 398417 | [398417-diamond-runway.json](./398417-diamond-runway.json) |
@@ -10284,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
 | Dimension C38B | 127490 | [127490-dimension-c38b.json](./127490-dimension-c38b.json) |
+| Dimension Collapse | 180855 | [180855-dimension-collapse.json](./180855-dimension-collapse.json) |
 | Dimension Core: Amethyst | 408442 | [408442-dimension-core-amethyst.json](./408442-dimension-core-amethyst.json) |
 | Dimension Dash | 193023 | [193023-dimension-dash.json](./193023-dimension-dash.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
@@ -11818,6 +11822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
 | Disparity of the Dead | 259901 | [259901-disparity-of-the-dead.json](./259901-disparity-of-the-dead.json) |
 | Dispatch | 127531 | [127531-dispatch.json](./127531-dispatch.json) |
+| Dispatch | 181267 | [181267-dispatch.json](./181267-dispatch.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
 | Dispatch: Episode 1 - Pivot | 376768 | [376768-dispatch-episode-1-pivot.json](./376768-dispatch-episode-1-pivot.json) |
@@ -12146,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Heart Makina Gaiden 06 ~Shougeki no Marunomi Haiboku!~ | 59081 | [59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json](./59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json) |
 | Divine Heart Makina Gaiden 07 ~5-dai Kaijinshuu Shingeki!~ | 59073 | [59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json](./59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json) |
 | Divine Heart Makina Gaiden 08 ~Kindan no Junai Shokushu Hen~ | 59072 | [59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json](./59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json) |
+| Divine Intervention | 180865 | [180865-divine-intervention.json](./180865-divine-intervention.json) |
 | Divine Intervention | 74627 | [74627-divine-intervention.json](./74627-divine-intervention.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
 | Divine Intervention: Quran Miracles | 372163 | [372163-divine-intervention-quran-miracles.json](./372163-divine-intervention-quran-miracles.json) |
@@ -20567,6 +20573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
+| DungeonScape | 181261 | [181261-dungeonscape.json](./181261-dungeonscape.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonSmash | 247157 | [247157-dungeonsmash.json](./247157-dungeonsmash.json) |
 | DungeonSquad | 223615 | [223615-dungeonsquad.json](./223615-dungeonsquad.json) |
