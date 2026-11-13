@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
 | Viking Gods | 224345 | [224345-viking-gods.json](./224345-viking-gods.json) |
 | Viking Heroes 2 | 159496 | [159496-viking-heroes-2.json](./159496-viking-heroes-2.json) |
+| Viking Heroes 3 | 224739 | [224739-viking-heroes-3.json](./224739-viking-heroes-3.json) |
 | Viking Heroes 4 | 252319 | [252319-viking-heroes-4.json](./252319-viking-heroes-4.json) |
 | Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
@@ -2646,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violentolitin | 201787 | [201787-violentolitin.json](./201787-violentolitin.json) |
 | Violet | 184526 | [184526-violet.json](./184526-violet.json) |
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
+| Violet and the Lost Colors | 224865 | [224865-violet-and-the-lost-colors.json](./224865-violet-and-the-lost-colors.json) |
 | Violet and... | 178331 | [178331-violet-and.json](./178331-violet-and.json) |
 | Violet Bricks | 250771 | [250771-violet-bricks.json](./250771-violet-bricks.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
@@ -4319,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Multi-Games | 32119 | [32119-vr-multi-games.json](./32119-vr-multi-games.json) |
 | VR New York Story | 369756 | [369756-vr-new-york-story.json](./369756-vr-new-york-story.json) |
+| VR New York Story, Settle in New York | 224797 | [224797-vr-new-york-story-settle-in-new-york.json](./224797-vr-new-york-story-settle-in-new-york.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR Noir | 188351 | [188351-vr-noir.json](./188351-vr-noir.json) |
 | VR Paper Airplane Hunting | 163805 | [163805-vr-paper-airplane-hunting.json](./163805-vr-paper-airplane-hunting.json) |
