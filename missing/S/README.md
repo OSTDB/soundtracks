@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Momoko no Ukiuki Carnival | 6583 | [6583-sakura-momoko-no-ukiuki-carnival.json](./6583-sakura-momoko-no-ukiuki-carnival.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
+| Sakura no Gakkou | 181829 | [181829-sakura-no-gakkou.json](./181829-sakura-no-gakkou.json) |
 | Sakura no Kumo * Scarlet no Koi | 144891 | [144891-sakura-no-kumo-scarlet-no-koi.json](./144891-sakura-no-kumo-scarlet-no-koi.json) |
 | Sakura no Kumo: Scarlet no Koi | 171265 | [171265-sakura-no-kumo-scarlet-no-koi.json](./171265-sakura-no-kumo-scarlet-no-koi.json) |
 | Sakura no Kumo: Scarlet no Koi - Complete Limited Edition | 171289 | [171289-sakura-no-kumo-scarlet-no-koi-complete-limited-edition.json](./171289-sakura-no-kumo-scarlet-no-koi-complete-limited-edition.json) |
@@ -15409,6 +15410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
 | Slug's Sister Defense | 329241 | [329241-slugs-sister-defense.json](./329241-slugs-sister-defense.json) |
+| Slugcaster | 181834 | [181834-slugcaster.json](./181834-slugcaster.json) |
 | Slugfest | 257750 | [257750-slugfest.json](./257750-slugfest.json) |
 | Slugger | 299426 | [299426-slugger.json](./299426-slugger.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
@@ -16567,6 +16569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Thief 4: Fourth Find | 386510 | [386510-sneak-thief-4-fourth-find.json](./386510-sneak-thief-4-fourth-find.json) |
 | Sneak Thief 5: Final Five | 386513 | [386513-sneak-thief-5-final-five.json](./386513-sneak-thief-5-final-five.json) |
 | Sneakalot | 372242 | [372242-sneakalot.json](./372242-sneakalot.json) |
+| SneakBeat | 181425 | [181425-sneakbeat.json](./181425-sneakbeat.json) |
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker | 125677 | [125677-sneaker.json](./125677-sneaker.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
