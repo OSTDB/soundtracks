@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
+| Jumalien | 211851 | [211851-jumalien.json](./211851-jumalien.json) |
 | Juman J. Zeus | 58435 | [58435-juman-j-zeus.json](./58435-juman-j-zeus.json) |
 | Jumanji | 218346 | [218346-jumanji.json](./218346-jumanji.json) |
 | Jumanji | 70577 | [70577-jumanji.json](./70577-jumanji.json) |
