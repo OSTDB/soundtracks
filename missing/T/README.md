@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Monsterland DX | 307196 | [307196-tales-of-monsterland-dx.json](./307196-tales-of-monsterland-dx.json) |
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Morphos | 380137 | [380137-tales-of-morphos.json](./380137-tales-of-morphos.json) |
+| Tales of Morrow | 190124 | [190124-tales-of-morrow.json](./190124-tales-of-morrow.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tan Tank 2 | 296008 | [296008-tan-tank-2.json](./296008-tan-tank-2.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanaka 3D | 247113 | [247113-tanaka-3d.json](./247113-tanaka-3d.json) |
+| Tanasurga | 190126 | [190126-tanasurga.json](./190126-tanasurga.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tanbi Musou: Meine Liebe | 49825 | [49825-tanbi-musou-meine-liebe.json](./49825-tanbi-musou-meine-liebe.json) |
 | TanCrush | 388652 | [388652-tancrush.json](./388652-tancrush.json) |
@@ -13309,6 +13311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Resistance | 177728 | [177728-the-last-resistance.json](./177728-the-last-resistance.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
+| The Last Rite of Death | 190115 | [190115-the-last-rite-of-death.json](./190115-the-last-rite-of-death.json) |
 | The Last Road | 414813 | [414813-the-last-road.json](./414813-the-last-road.json) |
 | The Last Rocket | 64645 | [64645-the-last-rocket.json](./64645-the-last-rocket.json) |
 | The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
@@ -23590,47 +23593,69 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP032 | 173453 | [173453-tiger-striker-mp032.json](./173453-tiger-striker-mp032.json) |
 | Tiger Striker: MP033 | 189747 | [189747-tiger-striker-mp033.json](./189747-tiger-striker-mp033.json) |
 | Tiger Striker: MP034 | 173466 | [173466-tiger-striker-mp034.json](./173466-tiger-striker-mp034.json) |
+| Tiger Striker: MP035 | 189734 | [189734-tiger-striker-mp035.json](./189734-tiger-striker-mp035.json) |
 | Tiger Striker: MP036 | 173455 | [173455-tiger-striker-mp036.json](./173455-tiger-striker-mp036.json) |
 | Tiger Striker: MP037 | 173474 | [173474-tiger-striker-mp037.json](./173474-tiger-striker-mp037.json) |
+| Tiger Striker: MP038 | 189728 | [189728-tiger-striker-mp038.json](./189728-tiger-striker-mp038.json) |
 | Tiger Striker: MP039 | 173465 | [173465-tiger-striker-mp039.json](./173465-tiger-striker-mp039.json) |
+| Tiger Striker: MP040 | 189745 | [189745-tiger-striker-mp040.json](./189745-tiger-striker-mp040.json) |
 | Tiger Striker: MP041 | 173442 | [173442-tiger-striker-mp041.json](./173442-tiger-striker-mp041.json) |
 | Tiger Striker: MP042 | 173457 | [173457-tiger-striker-mp042.json](./173457-tiger-striker-mp042.json) |
 | Tiger Striker: MP043 | 189752 | [189752-tiger-striker-mp043.json](./189752-tiger-striker-mp043.json) |
+| Tiger Striker: MP044 | 189736 | [189736-tiger-striker-mp044.json](./189736-tiger-striker-mp044.json) |
+| Tiger Striker: MP045 | 189738 | [189738-tiger-striker-mp045.json](./189738-tiger-striker-mp045.json) |
 | Tiger Striker: MP046 | 173468 | [173468-tiger-striker-mp046.json](./173468-tiger-striker-mp046.json) |
 | Tiger Striker: MP047 | 189750 | [189750-tiger-striker-mp047.json](./189750-tiger-striker-mp047.json) |
 | Tiger Striker: MP048 | 173444 | [173444-tiger-striker-mp048.json](./173444-tiger-striker-mp048.json) |
 | Tiger Striker: MP049 | 173464 | [173464-tiger-striker-mp049.json](./173464-tiger-striker-mp049.json) |
 | Tiger Striker: MP050 | 189754 | [189754-tiger-striker-mp050.json](./189754-tiger-striker-mp050.json) |
+| Tiger Striker: MP051 | 189737 | [189737-tiger-striker-mp051.json](./189737-tiger-striker-mp051.json) |
+| Tiger Striker: MP052 | 189740 | [189740-tiger-striker-mp052.json](./189740-tiger-striker-mp052.json) |
 | Tiger Striker: MP054 | 189720 | [189720-tiger-striker-mp054.json](./189720-tiger-striker-mp054.json) |
 | Tiger Striker: MP055 | 173467 | [173467-tiger-striker-mp055.json](./173467-tiger-striker-mp055.json) |
+| Tiger Striker: MP056 | 189742 | [189742-tiger-striker-mp056.json](./189742-tiger-striker-mp056.json) |
 | Tiger Striker: MP057 | 173469 | [173469-tiger-striker-mp057.json](./173469-tiger-striker-mp057.json) |
 | Tiger Striker: MP058 | 189721 | [189721-tiger-striker-mp058.json](./189721-tiger-striker-mp058.json) |
 | Tiger Striker: MP059 | 173449 | [173449-tiger-striker-mp059.json](./173449-tiger-striker-mp059.json) |
 | Tiger Striker: MP060 | 173451 | [173451-tiger-striker-mp060.json](./173451-tiger-striker-mp060.json) |
 | Tiger Striker: MP061 | 173445 | [173445-tiger-striker-mp061.json](./173445-tiger-striker-mp061.json) |
+| Tiger Striker: MP062 | 189726 | [189726-tiger-striker-mp062.json](./189726-tiger-striker-mp062.json) |
 | Tiger Striker: MP063 | 189748 | [189748-tiger-striker-mp063.json](./189748-tiger-striker-mp063.json) |
+| Tiger Striker: MP064 | 189746 | [189746-tiger-striker-mp064.json](./189746-tiger-striker-mp064.json) |
 | Tiger Striker: MP065 | 173471 | [173471-tiger-striker-mp065.json](./173471-tiger-striker-mp065.json) |
 | Tiger Striker: MP066 | 173459 | [173459-tiger-striker-mp066.json](./173459-tiger-striker-mp066.json) |
+| Tiger Striker: MP067 | 189727 | [189727-tiger-striker-mp067.json](./189727-tiger-striker-mp067.json) |
 | Tiger Striker: MP068 | 189749 | [189749-tiger-striker-mp068.json](./189749-tiger-striker-mp068.json) |
+| Tiger Striker: MP069 | 189741 | [189741-tiger-striker-mp069.json](./189741-tiger-striker-mp069.json) |
 | Tiger Striker: MP070 | 189753 | [189753-tiger-striker-mp070.json](./189753-tiger-striker-mp070.json) |
 | Tiger Striker: MP071 | 173470 | [173470-tiger-striker-mp071.json](./173470-tiger-striker-mp071.json) |
+| Tiger Striker: MP072 | 189735 | [189735-tiger-striker-mp072.json](./189735-tiger-striker-mp072.json) |
 | Tiger Striker: MP073 | 173450 | [173450-tiger-striker-mp073.json](./173450-tiger-striker-mp073.json) |
 | Tiger Striker: MP074 | 173463 | [173463-tiger-striker-mp074.json](./173463-tiger-striker-mp074.json) |
 | Tiger Striker: MP075 | 173461 | [173461-tiger-striker-mp075.json](./173461-tiger-striker-mp075.json) |
 | Tiger Striker: MP076 | 173456 | [173456-tiger-striker-mp076.json](./173456-tiger-striker-mp076.json) |
 | Tiger Striker: MP077 | 173448 | [173448-tiger-striker-mp077.json](./173448-tiger-striker-mp077.json) |
 | Tiger Striker: MP078 | 173443 | [173443-tiger-striker-mp078.json](./173443-tiger-striker-mp078.json) |
+| Tiger Striker: MP079 | 189739 | [189739-tiger-striker-mp079.json](./189739-tiger-striker-mp079.json) |
 | Tiger Striker: MP080 | 189755 | [189755-tiger-striker-mp080.json](./189755-tiger-striker-mp080.json) |
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
+| Tiger Striker: MP082 | 189743 | [189743-tiger-striker-mp082.json](./189743-tiger-striker-mp082.json) |
+| Tiger Striker: MP083 | 189729 | [189729-tiger-striker-mp083.json](./189729-tiger-striker-mp083.json) |
 | Tiger Striker: MP084 | 173452 | [173452-tiger-striker-mp084.json](./173452-tiger-striker-mp084.json) |
 | Tiger Striker: MP085 | 173472 | [173472-tiger-striker-mp085.json](./173472-tiger-striker-mp085.json) |
+| Tiger Striker: MP086 | 189725 | [189725-tiger-striker-mp086.json](./189725-tiger-striker-mp086.json) |
 | Tiger Striker: MP087 | 173473 | [173473-tiger-striker-mp087.json](./173473-tiger-striker-mp087.json) |
+| Tiger Striker: MP088 | 189733 | [189733-tiger-striker-mp088.json](./189733-tiger-striker-mp088.json) |
 | Tiger Striker: MP089 | 189751 | [189751-tiger-striker-mp089.json](./189751-tiger-striker-mp089.json) |
 | Tiger Striker: MP090 | 173454 | [173454-tiger-striker-mp090.json](./173454-tiger-striker-mp090.json) |
+| Tiger Striker: MP091 | 189731 | [189731-tiger-striker-mp091.json](./189731-tiger-striker-mp091.json) |
+| Tiger Striker: MP092 | 189730 | [189730-tiger-striker-mp092.json](./189730-tiger-striker-mp092.json) |
 | Tiger Striker: MP093 | 173447 | [173447-tiger-striker-mp093.json](./173447-tiger-striker-mp093.json) |
 | Tiger Striker: MP094 | 189722 | [189722-tiger-striker-mp094.json](./189722-tiger-striker-mp094.json) |
 | Tiger Striker: MP095 | 173446 | [173446-tiger-striker-mp095.json](./173446-tiger-striker-mp095.json) |
+| Tiger Striker: MP096 | 189744 | [189744-tiger-striker-mp096.json](./189744-tiger-striker-mp096.json) |
 | Tiger Striker: MP097 | 173460 | [173460-tiger-striker-mp097.json](./173460-tiger-striker-mp097.json) |
+| Tiger Striker: MP098 | 189732 | [189732-tiger-striker-mp098.json](./189732-tiger-striker-mp098.json) |
 | Tiger Striker: MP099 | 173458 | [173458-tiger-striker-mp099.json](./173458-tiger-striker-mp099.json) |
 | Tiger Striker: MP100 | 189723 | [189723-tiger-striker-mp100.json](./189723-tiger-striker-mp100.json) |
 | Tiger Tank | 160284 | [160284-tiger-tank.json](./160284-tiger-tank.json) |
