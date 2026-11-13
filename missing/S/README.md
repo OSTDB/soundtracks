@@ -2631,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Kingdom | 227095 | [227095-save-the-kingdom.json](./227095-save-the-kingdom.json) |
 | Save the Knight | 308882 | [308882-save-the-knight.json](./308882-save-the-knight.json) |
 | Save the Lamb | 75001 | [75001-save-the-lamb.json](./75001-save-the-lamb.json) |
+| Save the Llama | 190182 | [190182-save-the-llama.json](./190182-save-the-llama.json) |
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
 | Save the Ninja! | 410969 | [410969-save-the-ninja.json](./410969-save-the-ninja.json) |
 | Save the Octo | 156225 | [156225-save-the-octo.json](./156225-save-the-octo.json) |
@@ -7253,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Bug Rush | 114005 | [114005-shadow-bug-rush.json](./114005-shadow-bug-rush.json) |
 | Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior | 266342 | [266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json](./266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
+| Shadow Cave | 190181 | [190181-shadow-cave.json](./190181-shadow-cave.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow Circuit | 29417 | [29417-shadow-circuit.json](./29417-shadow-circuit.json) |
 | Shadow Cities | 11632 | [11632-shadow-cities.json](./11632-shadow-cities.json) |
@@ -8318,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trigger 2 | 394145 | [394145-sharp-trigger-2.json](./394145-sharp-trigger-2.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
+| Sharp Wands | 190113 | [190113-sharp-wands.json](./190113-sharp-wands.json) |
 | Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
 | Sharpest Spear | 420206 | [420206-sharpest-spear.json](./420206-sharpest-spear.json) |
@@ -20039,6 +20042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
 | Sorcerer's Refuge | 409518 | [409518-sorcerers-refuge.json](./409518-sorcerers-refuge.json) |
 | Sorcerer's Servant | 330646 | [330646-sorcerers-servant.json](./330646-sorcerers-servant.json) |
+| Sorcerer's Tournament | 190117 | [190117-sorcerers-tournament.json](./190117-sorcerers-tournament.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorcerers Summit | 243502 | [243502-sorcerers-summit.json](./243502-sorcerers-summit.json) |
 | Sorceress | 235363 | [235363-sorceress.json](./235363-sorceress.json) |
@@ -22302,6 +22306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | SpaceBound | 54741 | [54741-spacebound.json](./54741-spacebound.json) |
 | Spacebourne | 105193 | [105193-spacebourne.json](./105193-spacebourne.json) |
+| SpaceBourne 2 | 190118 | [190118-spacebourne-2.json](./190118-spacebourne-2.json) |
 | Spacebug | 169594 | [169594-spacebug.json](./169594-spacebug.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
