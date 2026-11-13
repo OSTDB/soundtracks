@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haustor's Abbey | 278467 | [278467-haustors-abbey.json](./278467-haustors-abbey.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Haut | 349382 | [349382-haut.json](./349382-haut.json) |
+| Havana Chronicle | 193901 | [193901-havana-chronicle.json](./193901-havana-chronicle.json) |
 | Havana Piano Tiles | 95895 | [95895-havana-piano-tiles.json](./95895-havana-piano-tiles.json) |
 | Have a Blast | 122079 | [122079-have-a-blast.json](./122079-have-a-blast.json) |
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
