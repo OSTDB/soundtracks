@@ -6412,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man: Aerial Assault | 69167 | [69167-iron-man-aerial-assault.json](./69167-iron-man-aerial-assault.json) |
 | Iron Man: Mushroom Avenger | 308982 | [308982-iron-man-mushroom-avenger.json](./308982-iron-man-mushroom-avenger.json) |
+| Iron Mandate | 226003 | [226003-iron-mandate.json](./226003-iron-mandate.json) |
 | Iron Marines | 18976 | [18976-iron-marines.json](./18976-iron-marines.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
 | Iron Marines: Hero Ajax | 395272 | [395272-iron-marines-hero-ajax.json](./395272-iron-marines-hero-ajax.json) |
@@ -7014,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
 | Isolated Warrior | 48154 | [48154-isolated-warrior.json](./48154-isolated-warrior.json) |
 | Isolation | 183296 | [183296-isolation.json](./183296-isolation.json) |
+| Isolation | 225993 | [225993-isolation.json](./225993-isolation.json) |
 | Isolation | 268654 | [268654-isolation.json](./268654-isolation.json) |
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
