@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KINDa | 261195 | [261195-kinda.json](./261195-kinda.json) |
 | Kinda Hard Golf | 345926 | [345926-kinda-hard-golf.json](./345926-kinda-hard-golf.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
+| Kinda Knirpsi | 230008 | [230008-kinda-knirpsi.json](./230008-kinda-knirpsi.json) |
 | Kindai Mahjong Special | 37960 | [37960-kindai-mahjong-special.json](./37960-kindai-mahjong-special.json) |
 | Kindaichi Mystery Series: The Honjin Murders | 334298 | [334298-kindaichi-mystery-series-the-honjin-murders.json](./334298-kindaichi-mystery-series-the-honjin-murders.json) |
 | Kindaichi Shounen no Jikenbo 3: Shouryuu Densetsu Satsujin Jiken | 167062 | [167062-kindaichi-shounen-no-jikenbo-3-shouryuu-densetsu-satsujin-jiken.json](./167062-kindaichi-shounen-no-jikenbo-3-shouryuu-densetsu-satsujin-jiken.json) |
@@ -5742,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konkan Coast Pirate Solutions | 219887 | [219887-konkan-coast-pirate-solutions.json](./219887-konkan-coast-pirate-solutions.json) |
 | Konkey Dong | 413215 | [413215-konkey-dong.json](./413215-konkey-dong.json) |
 | Konkey Dong | 413216 | [413216-konkey-dong.json](./413216-konkey-dong.json) |
+| Konko to no Nichijou: Bocchi de Kawaikute Hottokenai Youko | 230001 | [230001-konko-to-no-nichijou-bocchi-de-kawaikute-hottokenai-youko.json](./230001-konko-to-no-nichijou-bocchi-de-kawaikute-hottokenai-youko.json) |
 | Konkonkon | 337741 | [337741-konkonkon.json](./337741-konkonkon.json) |
 | Konkord | 204949 | [204949-konkord.json](./204949-konkord.json) |
 | Konkr.io | 344059 | [344059-konkr-io.json](./344059-konkr-io.json) |
@@ -6052,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotone no Shuki Shuki Polynesian Sex | 398693 | [398693-kotone-no-shuki-shuki-polynesian-sex.json](./398693-kotone-no-shuki-shuki-polynesian-sex.json) |
 | Kotonoha Decadence | 398987 | [398987-kotonoha-decadence.json](./398987-kotonoha-decadence.json) |
 | Kotonoha Lernado | 250245 | [250245-kotonoha-lernado.json](./250245-kotonoha-lernado.json) |
+| Kotonoha Maichiru Natsu no Koe | 229998 | [229998-kotonoha-maichiru-natsu-no-koe.json](./229998-kotonoha-maichiru-natsu-no-koe.json) |
 | Kotori Love Ex P | 139018 | [139018-kotori-love-ex-p.json](./139018-kotori-love-ex-p.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
