@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Intus | 418685 | [418685-intus.json](./418685-intus.json) |
+| Inu : Loas'Fate | 244964 | [244964-inu-loasfate.json](./244964-inu-loasfate.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inu Oh | 245221 | [245221-inu-oh.json](./245221-inu-oh.json) |
@@ -7333,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italo-Doom | 224529 | [224529-italo-doom.json](./224529-italo-doom.json) |
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
+| Itareri Zukuseri | 244968 | [244968-itareri-zukuseri.json](./244968-itareri-zukuseri.json) |
 | Itaru Slot | 131138 | [131138-itaru-slot.json](./131138-itaru-slot.json) |
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itazura na Keshigum | 238117 | [238117-itazura-na-keshigum.json](./238117-itazura-na-keshigum.json) |
