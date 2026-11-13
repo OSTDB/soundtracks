@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Love | 101067 | [101067-idle-love.json](./101067-idle-love.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle Lust: Succubus in Training | 340515 | [340515-idle-lust-succubus-in-training.json](./340515-idle-lust-succubus-in-training.json) |
+| Idle Machine Learning | 182949 | [182949-idle-machine-learning.json](./182949-idle-machine-learning.json) |
 | Idle Maden | 174720 | [174720-idle-maden.json](./174720-idle-maden.json) |
 | Idle Mafia | 245379 | [245379-idle-mafia.json](./245379-idle-mafia.json) |
 | Idle Mage Attack | 101745 | [101745-idle-mage-attack.json](./101745-idle-mage-attack.json) |
@@ -2434,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
 | Illusia | 38739 | [38739-illusia.json](./38739-illusia.json) |
 | Illusia 2 | 38738 | [38738-illusia-2.json](./38738-illusia-2.json) |
+| Illusion | 182960 | [182960-illusion.json](./182960-illusion.json) |
 | Illusion | 196166 | [196166-illusion.json](./196166-illusion.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion | 272140 | [272140-illusion.json](./272140-illusion.json) |
@@ -6153,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Invitationem | 246207 | [246207-invitationem.json](./246207-invitationem.json) |
 | Invite Me In | 229412 | [229412-invite-me-in.json](./229412-invite-me-in.json) |
+| Invite the Blackbird | 182576 | [182576-invite-the-blackbird.json](./182576-invite-the-blackbird.json) |
 | Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: Hidden Challenges | 203233 | [203233-invizimals-hidden-challenges.json](./203233-invizimals-hidden-challenges.json) |
