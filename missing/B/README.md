@@ -5294,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
 | Beach Spikers | 3805 | [3805-beach-spikers.json](./3805-beach-spikers.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
+| Beach Tennis Pro | 196613 | [196613-beach-tennis-pro.json](./196613-beach-tennis-pro.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley | 11950 | [11950-beach-volley.json](./11950-beach-volley.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
@@ -16043,6 +16044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
 | Brasfoot 2020 | 137776 | [137776-brasfoot-2020.json](./137776-brasfoot-2020.json) |
 | Brasfoot 2021 | 144713 | [144713-brasfoot-2021.json](./144713-brasfoot-2021.json) |
+| Brasfoot 2022 | 196763 | [196763-brasfoot-2022.json](./196763-brasfoot-2022.json) |
 | Brash Monster Simulator | 157419 | [157419-brash-monster-simulator.json](./157419-brash-monster-simulator.json) |
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
 | Brasil Simuleitor | 244371 | [244371-brasil-simuleitor.json](./244371-brasil-simuleitor.json) |
