@@ -12935,6 +12935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggone Hungry | 158895 | [158895-doggone-hungry.json](./158895-doggone-hungry.json) |
 | DoggoPromenade | 398349 | [398349-doggopromenade.json](./398349-doggopromenade.json) |
 | Doggos in Dungeon | 331364 | [331364-doggos-in-dungeon.json](./331364-doggos-in-dungeon.json) |
+| Doggy | 205681 | [205681-doggy.json](./205681-doggy.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
 | Doggy Dinner Time | 137218 | [137218-doggy-dinner-time.json](./137218-doggy-dinner-time.json) |
@@ -15128,6 +15129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
 | Double Feature Solitaire | 93350 | [93350-double-feature-solitaire.json](./93350-double-feature-solitaire.json) |
 | Double Fine Happy Action Theater | 47423 | [47423-double-fine-happy-action-theater.json](./47423-double-fine-happy-action-theater.json) |
+| Double Focus | 205683 | [205683-double-focus.json](./205683-double-focus.json) |
 | Double Fripper | 385534 | [385534-double-fripper.json](./385534-double-fripper.json) |
 | Double Golf | 413514 | [413514-double-golf.json](./413514-double-golf.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
