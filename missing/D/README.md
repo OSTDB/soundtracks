@@ -4365,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Z Meat | 147083 | [147083-dead-z-meat.json](./147083-dead-z-meat.json) |
 | Dead Zed | 122128 | [122128-dead-zed.json](./122128-dead-zed.json) |
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
+| Dead Zed Redemption | 232227 | [232227-dead-zed-redemption.json](./232227-dead-zed-redemption.json) |
 | Dead Zombie | 386815 | [386815-dead-zombie.json](./386815-dead-zombie.json) |
 | Dead Zombie Shooter | 224070 | [224070-dead-zombie-shooter.json](./224070-dead-zombie-shooter.json) |
 | Dead Zone | 195309 | [195309-dead-zone.json](./195309-dead-zone.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
+| Death Row | 232722 | [232722-death-row.json](./232722-death-row.json) |
 | Death Row Diner | 396308 | [396308-death-row-diner.json](./396308-death-row-diner.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
 | Death Run | 278279 | [278279-death-run.json](./278279-death-run.json) |
@@ -11086,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco No.1 | 40046 | [40046-disco-no-1.json](./40046-disco-no-1.json) |
 | Disco Noire | 194309 | [194309-disco-noire.json](./194309-disco-noire.json) |
 | Disco Road | 200217 | [200217-disco-road.json](./200217-disco-road.json) |
+| Disco Rock | 232206 | [232206-disco-rock.json](./232206-disco-rock.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
 | Disco Time 80s VR | 40466 | [40466-disco-time-80s-vr.json](./40466-disco-time-80s-vr.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
@@ -15518,6 +15521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Micro | 40308 | [40308-dr-micro.json](./40308-dr-micro.json) |
 | Dr. Mikio Hiraiwa-Supervised Yomu Tore GO! | 145389 | [145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json](./145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json) |
 | Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
+| Dr. Moni Little Hospital | 232219 | [232219-dr-moni-little-hospital.json](./232219-dr-moni-little-hospital.json) |
 | Dr. Monty's Traveling Caravan of Moth-Based Oddities! | 418188 | [418188-dr-montys-traveling-caravan-of-moth-based-oddities.json](./418188-dr-montys-traveling-caravan-of-moth-based-oddities.json) |
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
