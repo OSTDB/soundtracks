@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
 | Dash Arena | 271694 | [271694-dash-arena.json](./271694-dash-arena.json) |
+| Dash Around Madly | 199410 | [199410-dash-around-madly.json](./199410-dash-around-madly.json) |
 | Dash Blitz | 90079 | [90079-dash-blitz.json](./90079-dash-blitz.json) |
 | Dash Cats | 316936 | [316936-dash-cats.json](./316936-dash-cats.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
@@ -14471,6 +14472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM: Fall of Mars | 331655 | [331655-doom-fall-of-mars.json](./331655-doom-fall-of-mars.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
+| DOOM: Slayer's Rampage | 199404 | [199404-doom-slayers-rampage.json](./199404-doom-slayers-rampage.json) |
 | Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
 | Doom: The Classics Collection | 145387 | [145387-doom-the-classics-collection.json](./145387-doom-the-classics-collection.json) |
 | Doom: The Dark Ages - Premium Edition | 329298 | [329298-doom-the-dark-ages-premium-edition.json](./329298-doom-the-dark-ages-premium-edition.json) |
@@ -20225,6 +20227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoncraft | 35249 | [35249-dungeoncraft.json](./35249-dungeoncraft.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
 | Dungeoned | 213790 | [213790-dungeoned.json](./213790-dungeoned.json) |
+| Dungeoneer | 199528 | [199528-dungeoneer.json](./199528-dungeoneer.json) |
 | Dungeoneer | 377334 | [377334-dungeoneer.json](./377334-dungeoneer.json) |
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
@@ -20755,6 +20758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustdrifter | 409187 | [409187-dustdrifter.json](./409187-dustdrifter.json) |
 | Dustdrive: The Lightspeed Project | 385424 | [385424-dustdrive-the-lightspeed-project.json](./385424-dustdrive-the-lightspeed-project.json) |
 | Dusted Dusk | 219404 | [219404-dusted-dusk.json](./219404-dusted-dusk.json) |
+| Dusted's Pandemonia | 199406 | [199406-dusteds-pandemonia.json](./199406-dusteds-pandemonia.json) |
 | Duster | 112572 | [112572-duster.json](./112572-duster.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
 | Dustforce | 94073 | [94073-dustforce.json](./94073-dustforce.json) |
