@@ -3788,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsadaMaze | 384004 | [384004-usadamaze.json](./384004-usadamaze.json) |
 | Usagi | 202342 | [202342-usagi.json](./202342-usagi.json) |
 | Usagi Health Club | 207339 | [207339-usagi-health-club.json](./207339-usagi-health-club.json) |
+| Usagi na Panic | 210774 | [210774-usagi-na-panic.json](./210774-usagi-na-panic.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | Usagi Shima | 204511 | [204511-usagi-shima.json](./204511-usagi-shima.json) |
 | Usagi Yojimbo: Way of the Ronin | 36060 | [36060-usagi-yojimbo-way-of-the-ronin.json](./36060-usagi-yojimbo-way-of-the-ronin.json) |
