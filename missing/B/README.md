@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Axe | 141511 | [141511-battle-axe.json](./141511-battle-axe.json) |
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
 | Battle Axe: Badge Edition | 143285 | [143285-battle-axe-badge-edition.json](./143285-battle-axe-badge-edition.json) |
+| Battle Axe: Special Edition | 223110 | [223110-battle-axe-special-edition.json](./223110-battle-axe-special-edition.json) |
 | Battle B-Daman | 49365 | [49365-battle-b-daman.json](./49365-battle-b-daman.json) |
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
 | Battle Babes | 294016 | [294016-battle-babes.json](./294016-battle-babes.json) |
@@ -3904,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Beat | 395762 | [395762-battle-beat.json](./395762-battle-beat.json) |
 | Battle Bees Royale | 190302 | [190302-battle-bees-royale.json](./190302-battle-bees-royale.json) |
 | Battle Beyond the Stars | 57395 | [57395-battle-beyond-the-stars.json](./57395-battle-beyond-the-stars.json) |
+| Battle Billiards | 223197 | [223197-battle-billiards.json](./223197-battle-billiards.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
