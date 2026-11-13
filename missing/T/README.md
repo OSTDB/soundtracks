@@ -12408,6 +12408,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Carrot Race | 334078 | [334078-the-jumping-carrot-race.json](./334078-the-jumping-carrot-race.json) |
 | The Jumping Cat | 392287 | [392287-the-jumping-cat.json](./392287-the-jumping-cat.json) |
 | The Jumping Cheese Maze | 343507 | [343507-the-jumping-cheese-maze.json](./343507-the-jumping-cheese-maze.json) |
+| The Jumping Chicken Wings | 219180 | [219180-the-jumping-chicken-wings.json](./219180-the-jumping-chicken-wings.json) |
+| The Jumping Chicken Wings: Turbo | 219179 | [219179-the-jumping-chicken-wings-turbo.json](./219179-the-jumping-chicken-wings-turbo.json) |
 | The Jumping Choco Santa | 227839 | [227839-the-jumping-choco-santa.json](./227839-the-jumping-choco-santa.json) |
 | The Jumping Choco Santa: Turbo | 227840 | [227840-the-jumping-choco-santa-turbo.json](./227840-the-jumping-choco-santa-turbo.json) |
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
@@ -16235,6 +16237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pizza | 250122 | [250122-the-pizza.json](./250122-the-pizza.json) |
 | The Pizza Courier | 215733 | [215733-the-pizza-courier.json](./215733-the-pizza-courier.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
+| The Pizza Quiz | 219181 | [219181-the-pizza-quiz.json](./219181-the-pizza-quiz.json) |
 | The Pizza Situation | 140783 | [140783-the-pizza-situation.json](./140783-the-pizza-situation.json) |
 | The Place | 140708 | [140708-the-place.json](./140708-the-place.json) |
 | The Place I Called Home | 138479 | [138479-the-place-i-called-home.json](./138479-the-place-i-called-home.json) |
@@ -18899,6 +18902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Table Game: Deluxe Pack | 225319 | [225319-the-table-game-deluxe-pack.json](./225319-the-table-game-deluxe-pack.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
+| The Taco Quiz | 219178 | [219178-the-taco-quiz.json](./219178-the-taco-quiz.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
 | The Tag-along Obsession | 317158 | [317158-the-tag-along-obsession.json](./317158-the-tag-along-obsession.json) |
 | The Taidon History | 191944 | [191944-the-taidon-history.json](./191944-the-taidon-history.json) |
