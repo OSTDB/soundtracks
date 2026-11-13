@@ -11775,6 +11775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Jam VR | 254734 | [254734-gun-jam-vr.json](./254734-gun-jam-vr.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
+| Gun Knight | 177462 | [177462-gun-knight.json](./177462-gun-knight.json) |
 | Gun Knight All Day | 217087 | [217087-gun-knight-all-day.json](./217087-gun-knight-all-day.json) |
 | Gun Lady | 286440 | [286440-gun-lady.json](./286440-gun-lady.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
