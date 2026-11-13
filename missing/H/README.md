@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halft | 182792 | [182792-halft.json](./182792-halft.json) |
 | Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
 | Halftime Builders | 247416 | [247416-halftime-builders.json](./247416-halftime-builders.json) |
+| Halftime Heroes | 193400 | [193400-halftime-heroes.json](./193400-halftime-heroes.json) |
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand and Foot Card Game | 87471 | [87471-hand-and-foot-card-game.json](./87471-hand-and-foot-card-game.json) |
 | Hand and Stone | 121900 | [121900-hand-and-stone.json](./121900-hand-and-stone.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
+| Hand Cannon: Janky Reality | 192990 | [192990-hand-cannon-janky-reality.json](./192990-hand-cannon-janky-reality.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Craft Prime | 97211 | [97211-hand-craft-prime.json](./97211-hand-craft-prime.json) |
 | Hand Doctor For Kids | 106926 | [106926-hand-doctor-for-kids.json](./106926-hand-doctor-for-kids.json) |
@@ -1633,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanna in a Choppa | 416744 | [416744-hanna-in-a-choppa.json](./416744-hanna-in-a-choppa.json) |
 | Hanna in a Choppa 2 | 416746 | [416746-hanna-in-a-choppa-2.json](./416746-hanna-in-a-choppa-2.json) |
 | Hanna in a Choppa 3 | 191624 | [191624-hanna-in-a-choppa-3.json](./191624-hanna-in-a-choppa-3.json) |
+| Hanna Must Run | 193390 | [193390-hanna-must-run.json](./193390-hanna-must-run.json) |
 | Hannah | 144173 | [144173-hannah.json](./144173-hannah.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hannah and the Ice Caves | 338367 | [338367-hannah-and-the-ice-caves.json](./338367-hannah-and-the-ice-caves.json) |
@@ -3546,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healed To Death | 285830 | [285830-healed-to-death.json](./285830-healed-to-death.json) |
 | Healer | 257850 | [257850-healer.json](./257850-healer.json) |
+| Healer & Phoenix | 192992 | [192992-healer-and-phoenix.json](./192992-healer-and-phoenix.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healer Simulator RPG | 333305 | [333305-healer-simulator-rpg.json](./333305-healer-simulator-rpg.json) |
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
