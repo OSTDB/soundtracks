@@ -6156,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airtight City 2 | 161171 | [161171-the-airtight-city-2.json](./161171-the-airtight-city-2.json) |
 | The Akaneia Build | 246682 | [246682-the-akaneia-build.json](./246682-the-akaneia-build.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
+| The Akupara Classics Bundle | 223737 | [223737-the-akupara-classics-bundle.json](./223737-the-akupara-classics-bundle.json) |
 | The Alabaster Donut Farm | 134887 | [134887-the-alabaster-donut-farm.json](./134887-the-alabaster-donut-farm.json) |
 | The Albatross | 29728 | [29728-the-albatross.json](./29728-the-albatross.json) |
 | The Albino Hunter: Revamp | 392411 | [392411-the-albino-hunter-revamp.json](./392411-the-albino-hunter-revamp.json) |
@@ -6479,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art Theft by Jay Doherty | 113131 | [113131-the-art-theft-by-jay-doherty.json](./113131-the-art-theft-by-jay-doherty.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
 | The Artefacts lost in the Galaxy | 128158 | [128158-the-artefacts-lost-in-the-galaxy.json](./128158-the-artefacts-lost-in-the-galaxy.json) |
+| The Artful Adventures Bundle | 223738 | [223738-the-artful-adventures-bundle.json](./223738-the-artful-adventures-bundle.json) |
 | The Artifact | 31061 | [31061-the-artifact.json](./31061-the-artifact.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
@@ -10329,6 +10331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fisherman: A Codfish Tale | 325877 | [325877-the-fisherman-a-codfish-tale.json](./325877-the-fisherman-a-codfish-tale.json) |
 | The Fisherman: Fishing Planet | 122433 | [122433-the-fisherman-fishing-planet.json](./122433-the-fisherman-fishing-planet.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
+| The Fisherman: Fishing Planet - Trophy Catch Pack | 224254 | [224254-the-fisherman-fishing-planet-trophy-catch-pack.json](./224254-the-fisherman-fishing-planet-trophy-catch-pack.json) |
 | The Fisherman's Secret | 410641 | [410641-the-fishermans-secret.json](./410641-the-fishermans-secret.json) |
 | The Fishery | 142156 | [142156-the-fishery.json](./142156-the-fishery.json) |
 | The Fishing Club 3D | 31467 | [31467-the-fishing-club-3d.json](./31467-the-fishing-club-3d.json) |
