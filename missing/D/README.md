@@ -15414,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfallen | 223218 | [223218-downfallen.json](./223218-downfallen.json) |
 | Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
 | Downforce | 248688 | [248688-downforce.json](./248688-downforce.json) |
+| Downgeon Quest | 200067 | [200067-downgeon-quest.json](./200067-downgeon-quest.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
 | Downhill | 329304 | [329304-downhill.json](./329304-downhill.json) |
 | Downhill Bikers | 54766 | [54766-downhill-bikers.json](./54766-downhill-bikers.json) |
@@ -19080,6 +19081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Battle Royale | 378492 | [378492-duck-battle-royale.json](./378492-duck-battle-royale.json) |
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
 | Duck Build | 176329 | [176329-duck-build.json](./176329-duck-build.json) |
+| Duck Bumps | 200088 | [200088-duck-bumps.json](./200088-duck-bumps.json) |
 | Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
 | Duck Collector | 397992 | [397992-duck-collector.json](./397992-duck-collector.json) |
 | Duck Commander: Hunting Video Game | 221675 | [221675-duck-commander-hunting-video-game.json](./221675-duck-commander-hunting-video-game.json) |
