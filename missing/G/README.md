@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
 | Galaxy Swirl | 297529 | [297529-galaxy-swirl.json](./297529-galaxy-swirl.json) |
 | Galaxy Tactics | 336309 | [336309-galaxy-tactics.json](./336309-galaxy-tactics.json) |
+| Galaxy Tales: Story of Rapunzel | 172810 | [172810-galaxy-tales-story-of-rapunzel.json](./172810-galaxy-tales-story-of-rapunzel.json) |
 | Galaxy Too Far | 285947 | [285947-galaxy-too-far.json](./285947-galaxy-too-far.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Generic RPG Idle | 189316 | [189316-generic-rpg-idle.json](./189316-generic-rpg-idle.json) |
 | Generic Space Shooter | 35369 | [35369-generic-space-shooter.json](./35369-generic-space-shooter.json) |
+| Gênese | 173325 | [173325-genese.json](./173325-genese.json) |
 | Genesia Legacy: Ultimate Domain | 29493 | [29493-genesia-legacy-ultimate-domain.json](./29493-genesia-legacy-ultimate-domain.json) |
 | Genesis | 112652 | [112652-genesis.json](./112652-genesis.json) |
 | Genesis | 115984 | [115984-genesis.json](./115984-genesis.json) |
