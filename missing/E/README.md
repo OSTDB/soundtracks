@@ -5890,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Universe | 123307 | [123307-escape-from-the-universe.json](./123307-escape-from-the-universe.json) |
 | Escape from the Vampire's Tomb | 180431 | [180431-escape-from-the-vampires-tomb.json](./180431-escape-from-the-vampires-tomb.json) |
 | Escape from the Village | 180017 | [180017-escape-from-the-village.json](./180017-escape-from-the-village.json) |
+| Escape From the Void | 174938 | [174938-escape-from-the-void.json](./174938-escape-from-the-void.json) |
 | Escape from the XX | 378147 | [378147-escape-from-the-xx.json](./378147-escape-from-the-xx.json) |
 | Escape from the Yellow Room 3 | 220216 | [220216-escape-from-the-yellow-room-3.json](./220216-escape-from-the-yellow-room-3.json) |
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
@@ -8088,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: Eternal Dungeons | 43990 | [43990-evolution-eternal-dungeons.json](./43990-evolution-eternal-dungeons.json) |
 | Evolution: From the Little Light | 280290 | [280290-evolution-from-the-little-light.json](./280290-evolution-from-the-little-light.json) |
 | Evolution: Heroes of Utopia | 56138 | [56138-evolution-heroes-of-utopia.json](./56138-evolution-heroes-of-utopia.json) |
+| Evolution: Indian Hunter | 174919 | [174919-evolution-indian-hunter.json](./174919-evolution-indian-hunter.json) |
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
 | Evolution: Moon Warfare | 173021 | [173021-evolution-moon-warfare.json](./173021-evolution-moon-warfare.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
