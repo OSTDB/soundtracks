@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Car Derby | 180028 | [180028-paint-car-derby.json](./180028-paint-car-derby.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Chips | 154781 | [154781-paint-chips.json](./154781-paint-chips.json) |
+| Paint Defense | 183503 | [183503-paint-defense.json](./183503-paint-defense.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
 | Paint For Kids | 400062 | [400062-paint-for-kids.json](./400062-paint-for-kids.json) |
 | Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
@@ -2283,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel | 280166 | [280166-parallel.json](./280166-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
 | Parallel Arena | 105134 | [105134-parallel-arena.json](./105134-parallel-arena.json) |
+| Parallel Defense | 183501 | [183501-parallel-defense.json](./183501-parallel-defense.json) |
 | Parallel Doomensions | 308071 | [308071-parallel-doomensions.json](./308071-parallel-doomensions.json) |
 | Parallel Dungeons | 418901 | [418901-parallel-dungeons.json](./418901-parallel-dungeons.json) |
 | Parallel Harmony ~Getsuyou no Tobira wa Suiyou no Mukou ni~ | 153737 | [153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json](./153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json) |
@@ -5894,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
 | Phantom Rose 2 Sapphire | 238172 | [238172-phantom-rose-2-sapphire.json](./238172-phantom-rose-2-sapphire.json) |
 | Phantom Rose Scarlet | 144106 | [144106-phantom-rose-scarlet.json](./144106-phantom-rose-scarlet.json) |
+| Phantom Seeds | 183097 | [183097-phantom-seeds.json](./183097-phantom-seeds.json) |
 | Phantom Sense VR | 171994 | [171994-phantom-sense-vr.json](./171994-phantom-sense-vr.json) |
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
 | Phantom Signal | 81703 | [81703-phantom-signal.json](./81703-phantom-signal.json) |
@@ -6836,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
 | Pie.ai | 194066 | [194066-pie-ai.json](./194066-pie-ai.json) |
 | Pie's Ancient Europe | 405744 | [405744-pies-ancient-europe.json](./405744-pies-ancient-europe.json) |
+| Piece by Piece | 183087 | [183087-piece-by-piece.json](./183087-piece-by-piece.json) |
 | Piece by Piece | 325173 | [325173-piece-by-piece.json](./325173-piece-by-piece.json) |
 | Piece by Piece | 332318 | [332318-piece-by-piece.json](./332318-piece-by-piece.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
