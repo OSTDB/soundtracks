@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu by Myside: Patch Me In | 384718 | [384718-waifu-by-myside-patch-me-in.json](./384718-waifu-by-myside-patch-me-in.json) |
 | Waifu Cam Girl | 401328 | [401328-waifu-cam-girl.json](./401328-waifu-cam-girl.json) |
 | Waifu Cards | 370031 | [370031-waifu-cards.json](./370031-waifu-cards.json) |
+| Waifu Clicker | 214218 | [214218-waifu-clicker.json](./214218-waifu-clicker.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Club: Ayame | 259153 | [259153-waifu-club-ayame.json](./259153-waifu-club-ayame.json) |
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
@@ -9802,6 +9803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC: FIA World Rally Championship - The Official Game | 252500 | [252500-wrc-fia-world-rally-championship-the-official-game.json](./252500-wrc-fia-world-rally-championship-the-official-game.json) |
 | WRC: FIA World Rally Championship Arcade | 79734 | [79734-wrc-fia-world-rally-championship-arcade.json](./79734-wrc-fia-world-rally-championship-arcade.json) |
 | WRC: Rally Evolved | 8317 | [8317-wrc-rally-evolved.json](./8317-wrc-rally-evolved.json) |
+| Wrdl-F | 214219 | [214219-wrdl-f.json](./214219-wrdl-f.json) |
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
 | Wreck & Profit | 420224 | [420224-wreck-and-profit.json](./420224-wreck-and-profit.json) |
