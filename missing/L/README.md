@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
 | Lapis Philosophorum: The Philosophers' Stone | 28480 | [28480-lapis-philosophorum-the-philosophers-stone.json](./28480-lapis-philosophorum-the-philosophers-stone.json) |
 | Lapis Re:Lights | 185792 | [185792-lapis-re-lights.json](./185792-lapis-re-lights.json) |
+| Lapis Vitae | 180860 | [180860-lapis-vitae.json](./180860-lapis-vitae.json) |
 | Lapis x Labyrinth | 109233 | [109233-lapis-x-labyrinth.json](./109233-lapis-x-labyrinth.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
@@ -5525,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Splody: Look Out Below! | 197144 | [197144-lil-splody-look-out-below.json](./197144-lil-splody-look-out-below.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lil Tanks | 28046 | [28046-lil-tanks.json](./28046-lil-tanks.json) |
+| Lil Tribals | 180870 | [180870-lil-tribals.json](./180870-lil-tribals.json) |
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil Ye Land | 328123 | [328123-lil-ye-land.json](./328123-lil-ye-land.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
