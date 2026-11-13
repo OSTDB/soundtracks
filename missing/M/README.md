@@ -7033,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | MB Bingo | 59121 | [59121-mb-bingo.json](./59121-mb-bingo.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
+| MBHL20 | 171127 | [171127-mbhl20.json](./171127-mbhl20.json) |
 | MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
 | Mc Coy | 92960 | [92960-mc-coy.json](./92960-mc-coy.json) |
 | MC Eternal | 205976 | [205976-mc-eternal.json](./205976-mc-eternal.json) |
@@ -13180,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimo | 178448 | [178448-mimo.json](./178448-mimo.json) |
 | Mimpi | 20353 | [20353-mimpi.json](./20353-mimpi.json) |
 | Mimpi Dreams | 33507 | [33507-mimpi-dreams.json](./33507-mimpi-dreams.json) |
+| Mimpi Dreams: Factory | 171640 | [171640-mimpi-dreams-factory.json](./171640-mimpi-dreams-factory.json) |
 | Mimpi Dreams: Lunapark | 211888 | [211888-mimpi-dreams-lunapark.json](./211888-mimpi-dreams-lunapark.json) |
 | Mimpi Dreams: Mars DLC | 170183 | [170183-mimpi-dreams-mars-dlc.json](./170183-mimpi-dreams-mars-dlc.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
@@ -18768,6 +18770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mork Folio | 374508 | [374508-mork-folio.json](./374508-mork-folio.json) |
 | Mörker | 389394 | [389394-morker.json](./389394-morker.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
+| Morkredd: Ode | 171654 | [171654-morkredd-ode.json](./171654-morkredd-ode.json) |
 | Morkredd: Ra Edition | 164721 | [164721-morkredd-ra-edition.json](./164721-morkredd-ra-edition.json) |
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
 | Morkull: Ragast's Rage | 223730 | [223730-morkull-ragasts-rage.json](./223730-morkull-ragasts-rage.json) |
