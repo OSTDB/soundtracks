@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Herring Lake | 149753 | [149753-tales-of-herring-lake.json](./149753-tales-of-herring-lake.json) |
 | Tales of Hongyuan | 90995 | [90995-tales-of-hongyuan.json](./90995-tales-of-hongyuan.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
+| Tales of Inca 2: New Adventures | 199540 | [199540-tales-of-inca-2-new-adventures.json](./199540-tales-of-inca-2-new-adventures.json) |
 | Tales of Inca: Lost Land | 68873 | [68873-tales-of-inca-lost-land.json](./68873-tales-of-inca-lost-land.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
@@ -6647,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Expedition | 357678 | [357678-the-backrooms-expedition.json](./357678-the-backrooms-expedition.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
+| The Backrooms: Found Footage | 199556 | [199556-the-backrooms-found-footage.json](./199556-the-backrooms-found-footage.json) |
 | The Backrooms: Investigate and Escape | 244595 | [244595-the-backrooms-investigate-and-escape.json](./244595-the-backrooms-investigate-and-escape.json) |
 | The Backrooms: Last Expedition | 260284 | [260284-the-backrooms-last-expedition.json](./260284-the-backrooms-last-expedition.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
@@ -10118,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farmer | 412439 | [412439-the-farmer.json](./412439-the-farmer.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farmer's Daughter | 71913 | [71913-the-farmers-daughter.json](./71913-the-farmers-daughter.json) |
+| The Farmer's Story of Slow Life | 199525 | [199525-the-farmers-story-of-slow-life.json](./199525-the-farmers-story-of-slow-life.json) |
 | The Farming Frontier | 261632 | [261632-the-farming-frontier.json](./261632-the-farming-frontier.json) |
 | The Farming Game | 101664 | [101664-the-farming-game.json](./101664-the-farming-game.json) |
 | The Farming One | 383601 | [383601-the-farming-one.json](./383601-the-farming-one.json) |
@@ -12032,6 +12035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immemorial Order II Sisters of Darkness | 331051 | [331051-the-immemorial-order-ii-sisters-of-darkness.json](./331051-the-immemorial-order-ii-sisters-of-darkness.json) |
 | The Immolation Apartment | 412904 | [412904-the-immolation-apartment.json](./412904-the-immolation-apartment.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
+| The Immortal | 199522 | [199522-the-immortal.json](./199522-the-immortal.json) |
 | The Immortal | 4444 | [4444-the-immortal.json](./4444-the-immortal.json) |
 | The Immortal Beloved 2 | 284262 | [284262-the-immortal-beloved-2.json](./284262-the-immortal-beloved-2.json) |
 | The Immortal Is Watching | 403077 | [403077-the-immortal-is-watching.json](./403077-the-immortal-is-watching.json) |
@@ -25227,6 +25231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | Timestamps: Unconditional Love | 224961 | [224961-timestamps-unconditional-love.json](./224961-timestamps-unconditional-love.json) |
 | Timestop Volleyball | 284542 | [284542-timestop-volleyball.json](./284542-timestop-volleyball.json) |
+| Timestride | 199533 | [199533-timestride.json](./199533-timestride.json) |
 | TimeTekker | 100423 | [100423-timetekker.json](./100423-timetekker.json) |
 | TimeToDie | 54833 | [54833-timetodie.json](./54833-timetodie.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
