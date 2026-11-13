@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outdoor Action Double Pack | 50974 | [50974-outdoor-action-double-pack.json](./50974-outdoor-action-double-pack.json) |
 | Outdoor Adventures With Marisa Kirisame | 192020 | [192020-outdoor-adventures-with-marisa-kirisame.json](./192020-outdoor-adventures-with-marisa-kirisame.json) |
+| Outdoor Adventures With Marisa Kirisame: Fishing | 227600 | [227600-outdoor-adventures-with-marisa-kirisame-fishing.json](./227600-outdoor-adventures-with-marisa-kirisame-fishing.json) |
 | Outdoor Cosplay | 97622 | [97622-outdoor-cosplay.json](./97622-outdoor-cosplay.json) |
 | Outdoor Life: Sportman's Challenge | 202697 | [202697-outdoor-life-sportmans-challenge.json](./202697-outdoor-life-sportmans-challenge.json) |
 | Outdoor Life: Sportsman's Challenge | 208774 | [208774-outdoor-life-sportsmans-challenge.json](./208774-outdoor-life-sportsmans-challenge.json) |
