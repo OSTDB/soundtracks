@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Puzzles: Pole Dancer | 286457 | [286457-adult-puzzles-pole-dancer.json](./286457-adult-puzzles-pole-dancer.json) |
 | Adult Sheriff | 324154 | [324154-adult-sheriff.json](./324154-adult-sheriff.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
+| Adult VR Game Room | 211833 | [211833-adult-vr-game-room.json](./211833-adult-vr-game-room.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
