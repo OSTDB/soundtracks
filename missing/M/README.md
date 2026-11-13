@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Double Dash!! Matching Game | 328662 | [328662-mario-kart-double-dash-matching-game.json](./328662-mario-kart-double-dash-matching-game.json) |
 | Mario Kart: Double Dash!! Plus | 308373 | [308373-mario-kart-double-dash-plus.json](./308373-mario-kart-double-dash-plus.json) |
 | Mario Kart: Double Dash!! RTGP | 358237 | [358237-mario-kart-double-dash-rtgp.json](./358237-mario-kart-double-dash-rtgp.json) |
+| Mario Kart: Double Dash!! Wii | 202288 | [202288-mario-kart-double-dash-wii.json](./202288-mario-kart-double-dash-wii.json) |
 | Mario Kart: Retro Rewind | 259789 | [259789-mario-kart-retro-rewind.json](./259789-mario-kart-retro-rewind.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
@@ -8008,6 +8009,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Drive Mini | 215403 | [215403-mega-drive-mini.json](./215403-mega-drive-mini.json) |
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
+| Mega Drive Twin Pads | 202270 | [202270-mega-drive-twin-pads.json](./202270-mega-drive-twin-pads.json) |
+| Mega Drive Twin Pads | 202271 | [202271-mega-drive-twin-pads.json](./202271-mega-drive-twin-pads.json) |
 | Mega Dystopia Micro Architect | 271696 | [271696-mega-dystopia-micro-architect.json](./271696-mega-dystopia-micro-architect.json) |
 | Mega Eater Girls | 404531 | [404531-mega-eater-girls.json](./404531-mega-eater-girls.json) |
 | Mega Fast Food | 213057 | [213057-mega-fast-food.json](./213057-mega-fast-food.json) |
@@ -21259,6 +21262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
 | Murderer Online | 421276 | [421276-murderer-online.json](./421276-murderer-online.json) |
 | MurderGame Portable | 397462 | [397462-murdergame-portable.json](./397462-murdergame-portable.json) |
+| Murdergram | 202881 | [202881-murdergram.json](./202881-murdergram.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
 | Murderous Intent | 273738 | [273738-murderous-intent.json](./273738-murderous-intent.json) |
