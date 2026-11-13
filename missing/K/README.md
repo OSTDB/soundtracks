@@ -1135,6 +1135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KarmaStar | 67811 | [67811-karmastar.json](./67811-karmastar.json) |
 | Karmasutra | 51474 | [51474-karmasutra.json](./51474-karmasutra.json) |
 | KarmaZoo | 246564 | [246564-karmazoo.json](./246564-karmazoo.json) |
+| Karmen's Interactive Playplace | 212366 | [212366-karmens-interactive-playplace.json](./212366-karmens-interactive-playplace.json) |
+| Karmen's Interactive Playplace: Redux | 212375 | [212375-karmens-interactive-playplace-redux.json](./212375-karmens-interactive-playplace-redux.json) |
 | Karmx | 371198 | [371198-karmx.json](./371198-karmx.json) |
 | Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
@@ -4008,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinito Ninja | 302633 | [302633-kinito-ninja.json](./302633-kinito-ninja.json) |
 | KinitoPet | 282456 | [282456-kinitopet.json](./282456-kinitopet.json) |
+| Kinja Run | 212396 | [212396-kinja-run.json](./212396-kinja-run.json) |
 | Kink | 74631 | [74631-kink.json](./74631-kink.json) |
 | Kink.inc | 237131 | [237131-kink-inc.json](./237131-kink-inc.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
