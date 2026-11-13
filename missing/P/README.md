@@ -16992,6 +16992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project A-ko 2 | 260110 | [260110-project-a-ko-2.json](./260110-project-a-ko-2.json) |
 | Project A10 | 297191 | [297191-project-a10.json](./297191-project-a10.json) |
 | Project Abel | 84122 | [84122-project-abel.json](./84122-project-abel.json) |
+| Project Absentia | 190123 | [190123-project-absentia.json](./190123-project-absentia.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Accipiter | 398697 | [398697-project-accipiter.json](./398697-project-accipiter.json) |
 | Project Acka Dimensions | 196767 | [196767-project-acka-dimensions.json](./196767-project-acka-dimensions.json) |
