@@ -8678,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Wing 2 | 263423 | [263423-alpha-wing-2.json](./263423-alpha-wing-2.json) |
 | Alpha Zen | 232476 | [232476-alpha-zen.json](./232476-alpha-zen.json) |
 | Alpha Zone 3D | 153633 | [153633-alpha-zone-3d.json](./153633-alpha-zone-3d.json) |
+| Alpha Zoo | 190246 | [190246-alpha-zoo.json](./190246-alpha-zoo.json) |
 | Alpha Zylon | 17629 | [17629-alpha-zylon.json](./17629-alpha-zylon.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Major | 222678 | [222678-alpha-major.json](./222678-alpha-major.json) |
