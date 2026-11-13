@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Break | 412933 | [412933-eldritch-break.json](./412933-eldritch-break.json) |
 | Eldritch Bulwark | 351180 | [351180-eldritch-bulwark.json](./351180-eldritch-bulwark.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
+| Eldritch Eclipse | 185564 | [185564-eldritch-eclipse.json](./185564-eldritch-eclipse.json) |
 | Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
 | Eldritch Escape | 330986 | [330986-eldritch-escape.json](./330986-eldritch-escape.json) |
 | Eldritch Evolution | 340106 | [340106-eldritch-evolution.json](./340106-eldritch-evolution.json) |
@@ -9135,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
 | ExtremeJobs Knight's Assistant | 107107 | [107107-extremejobs-knights-assistant.json](./107107-extremejobs-knights-assistant.json) |
 | Extremely Common Game of Escape | 319895 | [319895-extremely-common-game-of-escape.json](./319895-extremely-common-game-of-escape.json) |
+| Extremely OK Painting Restoration Studio | 185562 | [185562-extremely-ok-painting-restoration-studio.json](./185562-extremely-ok-painting-restoration-studio.json) |
 | Extremely Powerful Capybaras | 211746 | [211746-extremely-powerful-capybaras.json](./211746-extremely-powerful-capybaras.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeRetroArena | 235887 | [235887-extremeretroarena.json](./235887-extremeretroarena.json) |
