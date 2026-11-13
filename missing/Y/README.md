@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Kayoi | 166471 | [166471-yume-kayoi.json](./166471-yume-kayoi.json) |
 | Yume Maboroshi no Gotoku | 37753 | [37753-yume-maboroshi-no-gotoku.json](./37753-yume-maboroshi-no-gotoku.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
+| Yume Memochou | 229407 | [229407-yume-memochou.json](./229407-yume-memochou.json) |
 | Yume Memory | 253616 | [253616-yume-memory.json](./253616-yume-memory.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
 | Yume Mienai: Pocket Version | 225425 | [225425-yume-mienai-pocket-version.json](./225425-yume-mienai-pocket-version.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Hazard | 225364 | [225364-yume-nikki-hazard.json](./225364-yume-nikki-hazard.json) |
 | Yume Nikki Jam 2018 Submission | 229601 | [229601-yume-nikki-jam-2018-submission.json](./229601-yume-nikki-jam-2018-submission.json) |
+| Yume Nikki Nijisousaku STG | 229405 | [229405-yume-nikki-nijisousaku-stg.json](./229405-yume-nikki-nijisousaku-stg.json) |
 | Yume Nikki Online Project | 350137 | [350137-yume-nikki-online-project.json](./350137-yume-nikki-online-project.json) |
 | Yume Nikki PS | 376501 | [376501-yume-nikki-ps.json](./376501-yume-nikki-ps.json) |
 | Yume Nikki Rythm | 229600 | [229600-yume-nikki-rythm.json](./229600-yume-nikki-rythm.json) |
@@ -2096,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Kirby | 223861 | [223861-yume-no-kirby.json](./223861-yume-no-kirby.json) |
 | Yume no Mata Yume | 166438 | [166438-yume-no-mata-yume.json](./166438-yume-no-mata-yume.json) |
 | Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
+| Yume no Oto | 229406 | [229406-yume-no-oto.json](./229406-yume-no-oto.json) |
 | Yume no Pro Yakyuu | 141425 | [141425-yume-no-pro-yakyuu.json](./141425-yume-no-pro-yakyuu.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume no Tsubasa | 166390 | [166390-yume-no-tsubasa.json](./166390-yume-no-tsubasa.json) |
