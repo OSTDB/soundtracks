@@ -10262,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
 | Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
+| Hometopia | 205732 | [205732-hometopia.json](./205732-hometopia.json) |
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
 | Hometown Hero | 212015 | [212015-hometown-hero.json](./212015-hometown-hero.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
