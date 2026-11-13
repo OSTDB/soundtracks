@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5687,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Konduktor | 211517 | [211517-konduktor.json](./211517-konduktor.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
+| Koneko mo Issho | 244002 | [244002-koneko-mo-issho.json](./244002-koneko-mo-issho.json) |
 | Koneko Monogatari: The Adventures of Chatran | 41271 | [41271-koneko-monogatari-the-adventures-of-chatran.json](./41271-koneko-monogatari-the-adventures-of-chatran.json) |
 | Koneko Neko Neko | 108173 | [108173-koneko-neko-neko.json](./108173-koneko-neko-neko.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
