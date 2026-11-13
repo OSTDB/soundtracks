@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.N. Squadron | 1357 | [1357-u-n-squadron.json](./1357-u-n-squadron.json) |
 | U.N. Squadron | 238967 | [238967-u-n-squadron.json](./238967-u-n-squadron.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
+| U.P.P. | 231099 | [231099-u-p-p.json](./231099-u-p-p.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U.S. Championship V'Ball | 39401 | [39401-u-s-championship-vball.json](./39401-u-s-championship-vball.json) |
 | U.S. Classic | 40489 | [40489-u-s-classic.json](./40489-u-s-classic.json) |
@@ -927,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Dynasty Warriors | 44157 | [44157-ultra-dynasty-warriors.json](./44157-ultra-dynasty-warriors.json) |
 | Ultra Fight Da! Kyanta 2 | 125614 | [125614-ultra-fight-da-kyanta-2.json](./125614-ultra-fight-da-kyanta-2.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
+| Ultra Fishing | 231109 | [231109-ultra-fishing.json](./231109-ultra-fishing.json) |
 | Ultra Foodmess | 129323 | [129323-ultra-foodmess.json](./129323-ultra-foodmess.json) |
 | Ultra Foodmess 2 | 257905 | [257905-ultra-foodmess-2.json](./257905-ultra-foodmess-2.json) |
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
@@ -1218,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umichan Sentoryu | 309700 | [309700-umichan-sentoryu.json](./309700-umichan-sentoryu.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
+| Umichan Two Scoops | 231108 | [231108-umichan-two-scoops.json](./231108-umichan-two-scoops.json) |
 | Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
 | Umigame | 226579 | [226579-umigame.json](./226579-umigame.json) |
 | Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
@@ -1396,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock Me | 87174 | [87174-unblock-me.json](./87174-unblock-me.json) |
 | Unblock Me Car | 148921 | [148921-unblock-me-car.json](./148921-unblock-me-car.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
+| Unblock the Brick: Casual Block Puzzle | 233789 | [233789-unblock-the-brick-casual-block-puzzle.json](./233789-unblock-the-brick-casual-block-puzzle.json) |
 | Unblock the River | 233994 | [233994-unblock-the-river.json](./233994-unblock-the-river.json) |
 | Unblock: The Parking | 105245 | [105245-unblock-the-parking.json](./105245-unblock-the-parking.json) |
 | Unblockable | 114614 | [114614-unblockable.json](./114614-unblockable.json) |
