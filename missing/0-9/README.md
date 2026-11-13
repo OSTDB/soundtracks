@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Hours to Die | 146790 | [146790-12-hours-to-die.json](./146790-12-hours-to-die.json) |
 | 12 is Better than 6 | 14688 | [14688-12-is-better-than-6.json](./14688-12-is-better-than-6.json) |
+| 12 is Better than 6: The Apostles | 172245 | [172245-12-is-better-than-6-the-apostles.json](./172245-12-is-better-than-6-the-apostles.json) |
 | 12 Labors | 134998 | [134998-12-labors.json](./134998-12-labors.json) |
 | 12 Labours of Hercules | 35932 | [35932-12-labours-of-hercules.json](./35932-12-labours-of-hercules.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MahJongg | 84661 | [84661-3d-mahjongg.json](./84661-3d-mahjongg.json) |
 | 3D Mania | 79028 | [79028-3d-mania.json](./79028-3d-mania.json) |
 | 3D Marble Flip | 71437 | [71437-3d-marble-flip.json](./71437-3d-marble-flip.json) |
+| 3D Math: Ultra | 172206 | [172206-3d-math-ultra.json](./172206-3d-math-ultra.json) |
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
 | 3D Maze | 421216 | [421216-3d-maze.json](./421216-3d-maze.json) |
