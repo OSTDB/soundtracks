@@ -6796,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Pure Land | 115801 | [115801-heroes-of-pure-land.json](./115801-heroes-of-pure-land.json) |
 | Heroes of Retribution | 408389 | [408389-heroes-of-retribution.json](./408389-heroes-of-retribution.json) |
 | Heroes of Rings | 96602 | [96602-heroes-of-rings.json](./96602-heroes-of-rings.json) |
+| Heroes of Rome 2: The Revenge of Discordia | 199538 | [199538-heroes-of-rome-2-the-revenge-of-discordia.json](./199538-heroes-of-rome-2-the-revenge-of-discordia.json) |
 | Heroes of Rome 3: The Brotherhood | 236221 | [236221-heroes-of-rome-3-the-brotherhood.json](./236221-heroes-of-rome-3-the-brotherhood.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Row | 265607 | [265607-heroes-of-row.json](./265607-heroes-of-row.json) |
@@ -13753,6 +13754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
+| Hyperbase | 199408 | [199408-hyperbase.json](./199408-hyperbase.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
 | Hyperbeat Multiplayer | 394646 | [394646-hyperbeat-multiplayer.json](./394646-hyperbeat-multiplayer.json) |
 | Hyperbeatz | 178867 | [178867-hyperbeatz.json](./178867-hyperbeatz.json) |
