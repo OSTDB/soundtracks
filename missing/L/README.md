@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn the Letters | 242554 | [242554-learn-the-letters.json](./242554-learn-the-letters.json) |
 | Learn Through Riddles! Masterpieces of the World | 410386 | [410386-learn-through-riddles-masterpieces-of-the-world.json](./410386-learn-through-riddles-masterpieces-of-the-world.json) |
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
+| Learn to Code RPG | 188546 | [188546-learn-to-code-rpg.json](./188546-learn-to-code-rpg.json) |
 | Learn to Dodge | 274344 | [274344-learn-to-dodge.json](./274344-learn-to-dodge.json) |
 | Learn to Fly | 141082 | [141082-learn-to-fly.json](./141082-learn-to-fly.json) |
 | Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
@@ -11088,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxavia | 392356 | [392356-luxavia.json](./392356-luxavia.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxe Chalk | 87798 | [87798-luxe-chalk.json](./87798-luxe-chalk.json) |
+| LuxeRacing | 188145 | [188145-luxeracing.json](./188145-luxeracing.json) |
 | Luxin Time | 41894 | [41894-luxin-time.json](./41894-luxin-time.json) |
 | Luxis | 31701 | [31701-luxis.json](./31701-luxis.json) |
 | Luxman Moonlit Market | 370378 | [370378-luxman-moonlit-market.json](./370378-luxman-moonlit-market.json) |
