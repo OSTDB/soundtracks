@@ -7340,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
 | Chemistower | 342864 | [342864-chemistower.json](./342864-chemistower.json) |
 | Chemistris | 188797 | [188797-chemistris.json](./188797-chemistris.json) |
+| Chemistry and Physics | 188623 | [188623-chemistry-and-physics.json](./188623-chemistry-and-physics.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
@@ -8099,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
 | Child of Light: Ultimate Edition | 99781 | [99781-child-of-light-ultimate-edition.json](./99781-child-of-light-ultimate-edition.json) |
 | Child of Light: Ultimate Edition + Valiant Hearts: The Great War | 125587 | [125587-child-of-light-ultimate-edition-valiant-hearts-the-great-war.json](./125587-child-of-light-ultimate-edition-valiant-hearts-the-great-war.json) |
+| Child of Lothian | 188132 | [188132-child-of-lothian.json](./188132-child-of-lothian.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child of the Wind | 32835 | [32835-child-of-the-wind.json](./32835-child-of-the-wind.json) |
@@ -9031,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rock'n'Roll | 67848 | [67848-christmas-rocknroll.json](./67848-christmas-rocknroll.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
+| Christmas Run | 188136 | [188136-christmas-run.json](./188136-christmas-run.json) |
 | Christmas Run 2 | 228333 | [228333-christmas-run-2.json](./228333-christmas-run-2.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
 | Christmas Rush | 280710 | [280710-christmas-rush.json](./280710-christmas-rush.json) |
@@ -9957,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirque du Soleil | 68867 | [68867-cirque-du-soleil.json](./68867-cirque-du-soleil.json) |
 | Cirque Eclipse: The Scarlet Curtain | 257163 | [257163-cirque-eclipse-the-scarlet-curtain.json](./257163-cirque-eclipse-the-scarlet-curtain.json) |
+| Cirro Investigates: The Chilling Truth Behind Deck 13!! | 188547 | [188547-cirro-investigates-the-chilling-truth-behind-deck-13.json](./188547-cirro-investigates-the-chilling-truth-behind-deck-13.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
 | Cis Penance: Transgender Lives in Wait in the UK | 199807 | [199807-cis-penance-transgender-lives-in-wait-in-the-uk.json](./199807-cis-penance-transgender-lives-in-wait-in-the-uk.json) |
@@ -12185,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal Postal | 366176 | [366176-coastal-postal.json](./366176-coastal-postal.json) |
 | Coastal Super-Combat | 343491 | [343491-coastal-super-combat.json](./343491-coastal-super-combat.json) |
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
+| Coaster | 188148 | [188148-coaster.json](./188148-coaster.json) |
 | Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
@@ -14716,6 +14721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concordia: Digital Edition - Corsica & Gallia | 193167 | [193167-concordia-digital-edition-corsica-and-gallia.json](./193167-concordia-digital-edition-corsica-and-gallia.json) |
 | Concordia: Digital Edition - Fish Market | 193168 | [193168-concordia-digital-edition-fish-market.json](./193168-concordia-digital-edition-fish-market.json) |
 | Concordia: Digital Edition - Imperial Bundle | 200522 | [200522-concordia-digital-edition-imperial-bundle.json](./200522-concordia-digital-edition-imperial-bundle.json) |
+| Concordia: Digital Edition - Salsa | 188529 | [188529-concordia-digital-edition-salsa.json](./188529-concordia-digital-edition-salsa.json) |
 | Concordia: Digital Edition - Venus | 193170 | [193170-concordia-digital-edition-venus.json](./193170-concordia-digital-edition-venus.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | ConcPerfect 2017 | 90657 | [90657-concperfect-2017.json](./90657-concperfect-2017.json) |
@@ -20535,6 +20541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis 3: Digital Deluxe Edition | 52850 | [52850-crysis-3-digital-deluxe-edition.json](./52850-crysis-3-digital-deluxe-edition.json) |
 | Crysis 3: Hunter Edition | 46635 | [46635-crysis-3-hunter-edition.json](./46635-crysis-3-hunter-edition.json) |
 | Crysis 3: Ultimate Edition | 99931 | [99931-crysis-3-ultimate-edition.json](./99931-crysis-3-ultimate-edition.json) |
+| Crysis 4 | 188543 | [188543-crysis-4.json](./188543-crysis-4.json) |
 | Crysis Maximum Edition | 310642 | [310642-crysis-maximum-edition.json](./310642-crysis-maximum-edition.json) |
 | Crysis Remastered | 132164 | [132164-crysis-remastered.json](./132164-crysis-remastered.json) |
 | Crysis Remastered Trilogy | 150564 | [150564-crysis-remastered-trilogy.json](./150564-crysis-remastered-trilogy.json) |
