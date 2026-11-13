@@ -7648,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfchild | 4403 | [4403-wolfchild.json](./4403-wolfchild.json) |
 | Wolfee Planet | 138473 | [138473-wolfee-planet.json](./138473-wolfee-planet.json) |
 | Wolfen | 268908 | [268908-wolfen.json](./268908-wolfen.json) |
+| Wolfenstache: The New Censorship | 177986 | [177986-wolfenstache-the-new-censorship.json](./177986-wolfenstache-the-new-censorship.json) |
 | Wolfenstein 1-D | 336424 | [336424-wolfenstein-1-d.json](./336424-wolfenstein-1-d.json) |
 | Wolfenstein 3D | 262516 | [262516-wolfenstein-3d.json](./262516-wolfenstein-3d.json) |
 | Wolfenstein 3D | 284304 | [284304-wolfenstein-3d.json](./284304-wolfenstein-3d.json) |
