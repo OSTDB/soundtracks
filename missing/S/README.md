@@ -9066,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shikoku Kororozashi Deluxe: Sake Jidori Udon Senki | 163760 | [163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json](./163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json) |
 | Shikokushi: Food and Sightseeing and Beauties | 168606 | [168606-shikokushi-food-and-sightseeing-and-beauties.json](./168606-shikokushi-food-and-sightseeing-and-beauties.json) |
+| Shikon-X Astro Defense Fortress | 170604 | [170604-shikon-x-astro-defense-fortress.json](./170604-shikon-x-astro-defense-fortress.json) |
 | Shikoutei no Michi he | 223963 | [223963-shikoutei-no-michi-he.json](./223963-shikoutei-no-michi-he.json) |
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
 | Shiling | 302974 | [302974-shiling.json](./302974-shiling.json) |
@@ -15136,6 +15137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlimeVille Online | 410585 | [410585-slimeville-online.json](./410585-slimeville-online.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimewest | 270903 | [270903-slimewest.json](./270903-slimewest.json) |
+| Slimey | 170603 | [170603-slimey.json](./170603-slimey.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
 | Slimey Climbey Chambers | 314462 | [314462-slimey-climbey-chambers.json](./314462-slimey-climbey-chambers.json) |
 | Slimey, Jump! | 144787 | [144787-slimey-jump.json](./144787-slimey-jump.json) |
@@ -18228,6 +18230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Beach Season 2 | 95559 | [95559-solitaire-beach-season-2.json](./95559-solitaire-beach-season-2.json) |
 | Solitaire Beach Season 3 | 102511 | [102511-solitaire-beach-season-3.json](./102511-solitaire-beach-season-3.json) |
 | Solitaire Beach Season: A Vacation Time | 202731 | [202731-solitaire-beach-season-a-vacation-time.json](./202731-solitaire-beach-season-a-vacation-time.json) |
+| Solitaire Beach Season: Sounds of Waves | 170577 | [170577-solitaire-beach-season-sounds-of-waves.json](./170577-solitaire-beach-season-sounds-of-waves.json) |
 | Solitaire Bliss Collection | 117176 | [117176-solitaire-bliss-collection.json](./117176-solitaire-bliss-collection.json) |
 | Solitaire Blitz | 65263 | [65263-solitaire-blitz.json](./65263-solitaire-blitz.json) |
 | Solitaire Bonbon | 192500 | [192500-solitaire-bonbon.json](./192500-solitaire-bonbon.json) |
@@ -20818,6 +20821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
 | Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
+| Sounds of Her Love: We'll always be together | 170580 | [170580-sounds-of-her-love-well-always-be-together.json](./170580-sounds-of-her-love-well-always-be-together.json) |
 | Sounds of Music | 76115 | [76115-sounds-of-music.json](./76115-sounds-of-music.json) |
 | Sounds of Shadows | 307533 | [307533-sounds-of-shadows.json](./307533-sounds-of-shadows.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
@@ -27529,6 +27533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
 | Starfighter 3000 | 4261 | [4261-starfighter-3000.json](./4261-starfighter-3000.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
+| Starfighter Aces | 170610 | [170610-starfighter-aces.json](./170610-starfighter-aces.json) |
 | Starfighter Arduxim | 31050 | [31050-starfighter-arduxim.json](./31050-starfighter-arduxim.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
@@ -32607,6 +32612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
+| Suicide Countdown: 7 Days | 170582 | [170582-suicide-countdown-7-days.json](./170582-suicide-countdown-7-days.json) |
 | Suicide Drive | 396523 | [396523-suicide-drive.json](./396523-suicide-drive.json) |
 | Suicide Explorer | 184305 | [184305-suicide-explorer.json](./184305-suicide-explorer.json) |
 | Suicide Express | 40963 | [40963-suicide-express.json](./40963-suicide-express.json) |
