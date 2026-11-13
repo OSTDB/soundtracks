@@ -7075,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
+| Pikmin Multiplayer | 215276 | [215276-pikmin-multiplayer.json](./215276-pikmin-multiplayer.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
 | Pikmin Puzzle Card e+ | 363806 | [363806-pikmin-puzzle-card-e.json](./363806-pikmin-puzzle-card-e.json) |
 | Pikmin Puzzle Card e+: Hikkonuki Pikmin - Buta Dokkuri | 353529 | [353529-pikmin-puzzle-card-e-hikkonuki-pikmin-buta-dokkuri.json](./353529-pikmin-puzzle-card-e-hikkonuki-pikmin-buta-dokkuri.json) |
@@ -11342,6 +11343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Penguin: A Game Boy Style Adventure | 157831 | [157831-pocket-penguin-a-game-boy-style-adventure.json](./157831-pocket-penguin-a-game-boy-style-adventure.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
 | Pocket Pets | 122503 | [122503-pocket-pets.json](./122503-pocket-pets.json) |
+| Pocket Pets! | 215267 | [215267-pocket-pets.json](./215267-pocket-pets.json) |
 | Pocket Ping Pong 2005 | 77092 | [77092-pocket-ping-pong-2005.json](./77092-pocket-ping-pong-2005.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
