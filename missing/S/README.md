@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Snowe: The Bear, The Beast & The Blizzard | 284158 | [284158-sapphire-snowe-the-bear-the-beast-and-the-blizzard.json](./284158-sapphire-snowe-the-bear-the-beast-and-the-blizzard.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
 | Sapphire Yours | 59571 | [59571-sapphire-yours.json](./59571-sapphire-yours.json) |
+| Saprophyte | 183084 | [183084-saprophyte.json](./183084-saprophyte.json) |
 | Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
@@ -9530,6 +9531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Ahoy | 80977 | [80977-ship-ahoy.json](./80977-ship-ahoy.json) |
+| Ship Defense | 183497 | [183497-ship-defense.json](./183497-ship-defense.json) |
 | Ship Explorer | 349248 | [349248-ship-explorer.json](./349248-ship-explorer.json) |
 | Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
@@ -10407,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Specter of Torment | 23910 | [23910-shovel-knight-specter-of-torment.json](./23910-shovel-knight-specter-of-torment.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
+| Shovel or Whip | 183095 | [183095-shovel-or-whip.json](./183095-shovel-or-whip.json) |
 | Shovel Pirate | 286312 | [286312-shovel-pirate.json](./286312-shovel-pirate.json) |
 | Shovel Software Insurance Claim | 213809 | [213809-shovel-software-insurance-claim.json](./213809-shovel-software-insurance-claim.json) |
 | Shovelboy | 246789 | [246789-shovelboy.json](./246789-shovelboy.json) |
@@ -12602,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
 | Sinister Turmoil: Sewers | 427226 | [427226-sinister-turmoil-sewers.json](./427226-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
+| Sinistria | 183485 | [183485-sinistria.json](./183485-sinistria.json) |
 | Sinistrium | 285810 | [285810-sinistrium.json](./285810-sinistrium.json) |
 | Sinistron | 44342 | [44342-sinistron.json](./44342-sinistron.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
@@ -22784,6 +22788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearhead | 71115 | [71115-spearhead.json](./71115-spearhead.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
+| Spearmint Mountain | 183495 | [183495-spearmint-mountain.json](./183495-spearmint-mountain.json) |
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
 | Spears 'n' Spades | 52059 | [52059-spears-n-spades.json](./52059-spears-n-spades.json) |
 | Spears of a Heart: Elusive Rhythms | 192569 | [192569-spears-of-a-heart-elusive-rhythms.json](./192569-spears-of-a-heart-elusive-rhythms.json) |
@@ -28147,6 +28152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start with 50 Gold Coins | 296704 | [296704-start-with-50-gold-coins.json](./296704-start-with-50-gold-coins.json) |
 | Start with no dice | 184440 | [184440-start-with-no-dice.json](./184440-start-with-no-dice.json) |
+| Start With Water | 183498 | [183498-start-with-water.json](./183498-start-with-water.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
@@ -33511,6 +33517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bases Loaded | 42430 | [42430-super-bases-loaded.json](./42430-super-bases-loaded.json) |
 | Super Bases Loaded 2 | 38429 | [38429-super-bases-loaded-2.json](./38429-super-bases-loaded-2.json) |
 | Super Bases Loaded 3: License to Steal | 38428 | [38428-super-bases-loaded-3-license-to-steal.json](./38428-super-bases-loaded-3-license-to-steal.json) |
+| Super Bash Goats | 183083 | [183083-super-bash-goats.json](./183083-super-bash-goats.json) |
 | Super Basketball | 39389 | [39389-super-basketball.json](./39389-super-basketball.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Basketball Classics | 394311 | [394311-super-basketball-classics.json](./394311-super-basketball-classics.json) |
