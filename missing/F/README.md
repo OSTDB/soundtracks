@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Refrain Chord - Day One Edition | 233272 | [233272-fairy-fencer-f-refrain-chord-day-one-edition.json](./233272-fairy-fencer-f-refrain-chord-day-one-edition.json) |
 | Fairy Fencer F: Refrain Chord - Digital Deluxe Edition | 220420 | [220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json](./220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
+| Fairy Fencer F: Weapon Change Accessory Set | 225920 | [225920-fairy-fencer-f-weapon-change-accessory-set.json](./225920-fairy-fencer-f-weapon-change-accessory-set.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Games | 102678 | [102678-fairy-games.json](./102678-fairy-games.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Guild Box | 136645 | [136645-fairy-tail-guild-box.json](./136645-fairy-tail-guild-box.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
+| Fairy Tail: Levy | 225918 | [225918-fairy-tail-levy.json](./225918-fairy-tail-levy.json) |
 | Fairy Tail: Portable Guild | 44480 | [44480-fairy-tail-portable-guild.json](./44480-fairy-tail-portable-guild.json) |
 | Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
 | Fairy Tale | 208745 | [208745-fairy-tale.json](./208745-fairy-tale.json) |
