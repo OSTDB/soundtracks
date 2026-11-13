@@ -11217,6 +11217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tomb | 295869 | [295869-horror-tomb.json](./295869-horror-tomb.json) |
 | Horror Tooth | 177280 | [177280-horror-tooth.json](./177280-horror-tooth.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
+| Horror Tycoon | 187565 | [187565-horror-tycoon.json](./187565-horror-tycoon.json) |
 | Horror Vacui | 130560 | [130560-horror-vacui.json](./130560-horror-vacui.json) |
 | Horror Villa | 157539 | [157539-horror-villa.json](./157539-horror-villa.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
@@ -13714,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Rift | 273862 | [273862-hyper-rift.json](./273862-hyper-rift.json) |
+| Hyper Road Carnage | 187560 | [187560-hyper-road-carnage.json](./187560-hyper-road-carnage.json) |
 | Hyper Rosalina Kart Wii & Rosalina 2 Turbo | 229834 | [229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json](./229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json) |
 | Hyper Rush | 347017 | [347017-hyper-rush.json](./347017-hyper-rush.json) |
 | Hyper Scape | 100387 | [100387-hyper-scape.json](./100387-hyper-scape.json) |
