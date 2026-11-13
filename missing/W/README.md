@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Wally: Land of the Wallows | 399684 | [399684-wally-land-of-the-wallows.json](./399684-wally-land-of-the-wallows.json) |
 | Wallykazam: Enchanted Adventures | 230410 | [230410-wallykazam-enchanted-adventures.json](./230410-wallykazam-enchanted-adventures.json) |
+| Walpurgis | 199415 | [199415-walpurgis.json](./199415-walpurgis.json) |
 | Walpurgis Night: Unmyeong-ui Gil 2 | 145620 | [145620-walpurgis-night-unmyeong-ui-gil-2.json](./145620-walpurgis-night-unmyeong-ui-gil-2.json) |
 | Walpurgis no Uta: Walpurgisgedichte | 130028 | [130028-walpurgis-no-uta-walpurgisgedichte.json](./130028-walpurgis-no-uta-walpurgisgedichte.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
