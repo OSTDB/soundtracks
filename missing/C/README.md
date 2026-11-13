@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Smoking Snakes | 420568 | [420568-call-of-smoking-snakes.json](./420568-call-of-smoking-snakes.json) |
 | Call of Snakes | 193705 | [193705-call-of-snakes.json](./193705-call-of-snakes.json) |
 | Call of Sniper Combat: WW2 | 276558 | [276558-call-of-sniper-combat-ww2.json](./276558-call-of-sniper-combat-ww2.json) |
+| Call of the Abyss | 236570 | [236570-call-of-the-abyss.json](./236570-call-of-the-abyss.json) |
 | Call of the Abyss | 385026 | [385026-call-of-the-abyss.json](./385026-call-of-the-abyss.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
@@ -12121,6 +12122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
+| Coastline Survival | 236556 | [236556-coastline-survival.json](./236556-coastline-survival.json) |
 | Coastline to Atmosphere | 214388 | [214388-coastline-to-atmosphere.json](./214388-coastline-to-atmosphere.json) |
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
@@ -12684,6 +12686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Smith | 337067 | [337067-coin-smith.json](./337067-coin-smith.json) |
 | Coin Tavern | 411316 | [411316-coin-tavern.json](./411316-coin-tavern.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
+| Coin Trader Simulator | 236578 | [236578-coin-trader-simulator.json](./236578-coin-trader-simulator.json) |
 | Coin Treasures | 171226 | [171226-coin-treasures.json](./171226-coin-treasures.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
