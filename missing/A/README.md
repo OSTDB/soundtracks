@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
 | A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
 | A Workplace With No People | 146096 | [146096-a-workplace-with-no-people.json](./146096-a-workplace-with-no-people.json) |
+| A World Abandoned | 172212 | [172212-a-world-abandoned.json](./172212-a-world-abandoned.json) |
 | A World Alive | 62936 | [62936-a-world-alive.json](./62936-a-world-alive.json) |
 | A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
 | A World in Strife 2: Absolute Order | 145153 | [145153-a-world-in-strife-2-absolute-order.json](./145153-a-world-in-strife-2-absolute-order.json) |
@@ -4721,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Fighter | 277694 | [277694-aether-fighter.json](./277694-aether-fighter.json) |
 | Aether Fly | 301681 | [301681-aether-fly.json](./301681-aether-fly.json) |
 | Aether Gazer | 174971 | [174971-aether-gazer.json](./174971-aether-gazer.json) |
+| AEther Heist | 172247 | [172247-aether-heist.json](./172247-aether-heist.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
@@ -6497,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
 | Airport Simulator 2015 | 17771 | [17771-airport-simulator-2015.json](./17771-airport-simulator-2015.json) |
 | Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
+| Airport Simulator 3: Day & Night | 172249 | [172249-airport-simulator-3-day-and-night.json](./172249-airport-simulator-3-day-and-night.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Simulator: First Class | 228158 | [228158-airport-simulator-first-class.json](./228158-airport-simulator-first-class.json) |
 | Airport Time Machine | 200087 | [200087-airport-time-machine.json](./200087-airport-time-machine.json) |
@@ -15813,6 +15816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Squirrels | 54721 | [54721-army-of-squirrels.json](./54721-army-of-squirrels.json) |
 | Army of Tactics | 281437 | [281437-army-of-tactics.json](./281437-army-of-tactics.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
+| Army of Tentacles: (Not) A Cthulhu Dating Sim 2 | 172207 | [172207-army-of-tentacles-not-a-cthulhu-dating-sim-2.json](./172207-army-of-tentacles-not-a-cthulhu-dating-sim-2.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
 | Army of Tentacles: Not A Cthulhu Dating Sim - Black Goat of the Woods Edition | 81822 | [81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json](./81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json) |
@@ -17276,6 +17280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Ultimate Edition | 96404 | [96404-assetto-corsa-ultimate-edition.json](./96404-assetto-corsa-ultimate-edition.json) |
 | Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
 | Assigned Mech At Birth | 363923 | [363923-assigned-mech-at-birth.json](./363923-assigned-mech-at-birth.json) |
+| Assignment 42 | 172221 | [172221-assignment-42.json](./172221-assignment-42.json) |
 | Assignment Due: Project Blue | 257555 | [257555-assignment-due-project-blue.json](./257555-assignment-due-project-blue.json) |
 | Assimilate | 184260 | [184260-assimilate.json](./184260-assimilate.json) |
 | Assimilate! (A Party Game) | 141471 | [141471-assimilate-a-party-game.json](./141471-assimilate-a-party-game.json) |
@@ -17448,6 +17453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Farmer | 134972 | [134972-asteroid-farmer.json](./134972-asteroid-farmer.json) |
 | Asteroid Fight | 32257 | [32257-asteroid-fight.json](./32257-asteroid-fight.json) |
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
+| Asteroid Five | 172253 | [172253-asteroid-five.json](./172253-asteroid-five.json) |
 | Asteroid Force | 189310 | [189310-asteroid-force.json](./189310-asteroid-force.json) |
 | Asteroid Forward | 369344 | [369344-asteroid-forward.json](./369344-asteroid-forward.json) |
 | Asteroid Girl | 83977 | [83977-asteroid-girl.json](./83977-asteroid-girl.json) |
