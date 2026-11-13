@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Daddy Gump Mission Middle East | 359148 | [359148-save-daddy-gump-mission-middle-east.json](./359148-save-daddy-gump-mission-middle-east.json) |
 | Save Daddy Trump | 119806 | [119806-save-daddy-trump.json](./119806-save-daddy-trump.json) |
 | Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
+| Save Daddy Trump 3: Rise of Evil | 212947 | [212947-save-daddy-trump-3-rise-of-evil.json](./212947-save-daddy-trump-3-rise-of-evil.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Dash | 54905 | [54905-save-dash.json](./54905-save-dash.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Eagles Collection | 53583 | [53583-screaming-eagles-collection.json](./53583-screaming-eagles-collection.json) |
 | Screaming Head | 332464 | [332464-screaming-head.json](./332464-screaming-head.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
+| Screaming Noppy | 212948 | [212948-screaming-noppy.json](./212948-screaming-noppy.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
 | Screaming Wings | 12759 | [12759-screaming-wings.json](./12759-screaming-wings.json) |
@@ -4679,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Searching | 292389 | [292389-searching.json](./292389-searching.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
+| Sears: The Sky Frontier | 212949 | [212949-sears-the-sky-frontier.json](./212949-sears-the-sky-frontier.json) |
 | Seas of Blood | 26356 | [26356-seas-of-blood.json](./26356-seas-of-blood.json) |
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
 | Seas of Kahtaone | 260300 | [260300-seas-of-kahtaone.json](./260300-seas-of-kahtaone.json) |
@@ -18052,6 +18055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solipskier | 76132 | [76132-solipskier.json](./76132-solipskier.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
+| Solis | 213067 | [213067-solis.json](./213067-solis.json) |
 | Solis | 296278 | [296278-solis.json](./296278-solis.json) |
 | Solis | 354927 | [354927-solis.json](./354927-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
@@ -25202,6 +25206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Alliance | 371495 | [371495-spy-alliance.json](./371495-spy-alliance.json) |
 | Spy Balloon Freakout | 284710 | [284710-spy-balloon-freakout.json](./284710-spy-balloon-freakout.json) |
 | Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
+| Spy Bros.: Pipi & Bibi's DX | 213506 | [213506-spy-bros-pipi-and-bibis-dx.json](./213506-spy-bros-pipi-and-bibis-dx.json) |
 | Spy Bugs | 35345 | [35345-spy-bugs.json](./35345-spy-bugs.json) |
 | Spy Car | 401797 | [401797-spy-car.json](./401797-spy-car.json) |
 | Spy Carnival | 406936 | [406936-spy-carnival.json](./406936-spy-carnival.json) |
@@ -31840,6 +31845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
 | Subway Ladybug and Cat Noir | 100802 | [100802-subway-ladybug-and-cat-noir.json](./100802-subway-ladybug-and-cat-noir.json) |
+| Subway Line | 213073 | [213073-subway-line.json](./213073-subway-line.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Outbreak | 295137 | [295137-subway-outbreak.json](./295137-subway-outbreak.json) |
 | Subway Princess Runner | 96179 | [96179-subway-princess-runner.json](./96179-subway-princess-runner.json) |
@@ -32717,6 +32723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
 | Summer: Jigsaw Puzzles | 104841 | [104841-summer-jigsaw-puzzles.json](./104841-summer-jigsaw-puzzles.json) |
 | Summer: Life in the Countryside | 145488 | [145488-summer-life-in-the-countryside.json](./145488-summer-life-in-the-countryside.json) |
+| Summer: Life in the Countryside - Outing | 213521 | [213521-summer-life-in-the-countryside-outing.json](./213521-summer-life-in-the-countryside-outing.json) |
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summer's Gone: Season 2 - Constellations | 402138 | [402138-summers-gone-season-2-constellations.json](./402138-summers-gone-season-2-constellations.json) |
 | Summerhill | 252498 | [252498-summerhill.json](./252498-summerhill.json) |
@@ -32882,6 +32889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sūn Měiqí Yí'àn: Dì-sān Jì | 149468 | [149468-sun-meiqi-yian-di-san-ji.json](./149468-sun-meiqi-yian-di-san-ji.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Scorcher | 356781 | [356781-sun-scorcher.json](./356781-sun-scorcher.json) |
+| Sun Shot | 213492 | [213492-sun-shot.json](./213492-sun-shot.json) |
 | Sun Spear | 275523 | [275523-sun-spear.json](./275523-sun-spear.json) |
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
 | Sun Stones | 256193 | [256193-sun-stones.json](./256193-sun-stones.json) |
