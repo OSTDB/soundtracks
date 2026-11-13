@@ -5006,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
 | White Feathers | 142536 | [142536-white-feathers.json](./142536-white-feathers.json) |
 | White Flame Inna: Daughter of the Void | 256583 | [256583-white-flame-inna-daughter-of-the-void.json](./256583-white-flame-inna-daughter-of-the-void.json) |
+| White Flower | 234974 | [234974-white-flower.json](./234974-white-flower.json) |
 | White Girl | 165598 | [165598-white-girl.json](./165598-white-girl.json) |
 | White Haven Mysteries | 17201 | [17201-white-haven-mysteries.json](./17201-white-haven-mysteries.json) |
 | White Heart Baekgu | 209290 | [209290-white-heart-baekgu.json](./209290-white-heart-baekgu.json) |
@@ -8829,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Epicia | 195627 | [195627-world-of-epicia.json](./195627-world-of-epicia.json) |
 | World of Fantasy: Zero | 155366 | [155366-world-of-fantasy-zero.json](./155366-world-of-fantasy-zero.json) |
 | World of Farming | 205849 | [205849-world-of-farming.json](./205849-world-of-farming.json) |
+| World of Fate | 235437 | [235437-world-of-fate.json](./235437-world-of-fate.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
