@@ -13779,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
 | Miner Meltdown | 33936 | [33936-miner-meltdown.json](./33936-miner-meltdown.json) |
 | Miner Mike | 121196 | [121196-miner-mike.json](./121196-miner-mike.json) |
+| Miner of Minerals | 199409 | [199409-miner-of-minerals.json](./199409-miner-of-minerals.json) |
 | Miner Open Chests | 320581 | [320581-miner-open-chests.json](./320581-miner-open-chests.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
@@ -18346,6 +18347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonmist | 12448 | [12448-moonmist.json](./12448-moonmist.json) |
 | MoonNight Shift | 403078 | [403078-moonnight-shift.json](./403078-moonnight-shift.json) |
 | Moonpath to Elsweyr | 359456 | [359456-moonpath-to-elsweyr.json](./359456-moonpath-to-elsweyr.json) |
+| Moonphase Pass | 199536 | [199536-moonphase-pass.json](./199536-moonphase-pass.json) |
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonport | 291147 | [291147-moonport.json](./291147-moonport.json) |
 | MoonQuest | 105112 | [105112-moonquest.json](./105112-moonquest.json) |
@@ -22913,6 +22915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
+| My Naughty Summer Vacation: Days in Countryside and Memories of Summer | 199552 | [199552-my-naughty-summer-vacation-days-in-countryside-and-memories-of-summer.json](./199552-my-naughty-summer-vacation-days-in-countryside-and-memories-of-summer.json) |
 | My NBA 2K18 | 88856 | [88856-my-nba-2k18.json](./88856-my-nba-2k18.json) |
 | My Needy Neighbour Girls | 223257 | [223257-my-needy-neighbour-girls.json](./223257-my-needy-neighbour-girls.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
@@ -23163,6 +23166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
+| My Student Loves Me! | 199548 | [199548-my-student-loves-me.json](./199548-my-student-loves-me.json) |
 | My Style Studio: Hair Salon | 84711 | [84711-my-style-studio-hair-salon.json](./84711-my-style-studio-hair-salon.json) |
 | My Style Studio: Hair Salon | 84712 | [84712-my-style-studio-hair-salon.json](./84712-my-style-studio-hair-salon.json) |
 | My Style Studio: Notebook | 84710 | [84710-my-style-studio-notebook.json](./84710-my-style-studio-notebook.json) |
