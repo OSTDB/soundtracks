@@ -12813,6 +12813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
 | Freelancer Life Simulator | 160260 | [160260-freelancer-life-simulator.json](./160260-freelancer-life-simulator.json) |
+| Freelancer Life Simulator: Prologue | 210766 | [210766-freelancer-life-simulator-prologue.json](./210766-freelancer-life-simulator-prologue.json) |
 | Freelancer Simulator | 250691 | [250691-freelancer-simulator.json](./250691-freelancer-simulator.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freelancer: HD Edition | 269642 | [269642-freelancer-hd-edition.json](./269642-freelancer-hd-edition.json) |
@@ -14054,6 +14055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Fusion | 60254 | [60254-fruit-fusion.json](./60254-fruit-fusion.json) |
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
 | Fruit Game | 291387 | [291387-fruit-game.json](./291387-fruit-game.json) |
+| Fruit Girl Kiss | 210787 | [210787-fruit-girl-kiss.json](./210787-fruit-girl-kiss.json) |
 | Fruit Girls 2: Hentai Jigsaw Photo Studio | 286704 | [286704-fruit-girls-2-hentai-jigsaw-photo-studio.json](./286704-fruit-girls-2-hentai-jigsaw-photo-studio.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
 | Fruit Hoop | 103765 | [103765-fruit-hoop.json](./103765-fruit-hoop.json) |
