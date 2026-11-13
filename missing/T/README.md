@@ -13096,6 +13096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mission | 41798 | [41798-the-last-mission.json](./41798-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Moments of a Doomed Spaceship | 178925 | [178925-the-last-moments-of-a-doomed-spaceship.json](./178925-the-last-moments-of-a-doomed-spaceship.json) |
+| The Last Monday | 232740 | [232740-the-last-monday.json](./232740-the-last-monday.json) |
 | The Last Monster Master | 72507 | [72507-the-last-monster-master.json](./72507-the-last-monster-master.json) |
 | The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
@@ -15939,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
 | The Park Ranger | 401248 | [401248-the-park-ranger.json](./401248-the-park-ranger.json) |
+| The Parking Lot | 232743 | [232743-the-parking-lot.json](./232743-the-parking-lot.json) |
 | The Parrot that Summons Demons | 232817 | [232817-the-parrot-that-summons-demons.json](./232817-the-parrot-that-summons-demons.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
@@ -15960,6 +15962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patcher | 154141 | [154141-the-patcher.json](./154141-the-patcher.json) |
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
+| The Path | 232210 | [232210-the-path.json](./232210-the-path.json) |
 | The Path | 398120 | [398120-the-path.json](./398120-the-path.json) |
 | The Path Home | 372934 | [372934-the-path-home.json](./372934-the-path-home.json) |
 | The Path into the Abyss | 305088 | [305088-the-path-into-the-abyss.json](./305088-the-path-into-the-abyss.json) |
@@ -16243,6 +16246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Poisoner: Complete Story | 174431 | [174431-the-poisoner-complete-story.json](./174431-the-poisoner-complete-story.json) |
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
+| The Polaroid Killer | 232745 | [232745-the-polaroid-killer.json](./232745-the-polaroid-killer.json) |
 | The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
 | The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
@@ -16638,6 +16642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raiders | 29350 | [29350-the-raiders.json](./29350-the-raiders.json) |
 | The Rail | 57419 | [57419-the-rail.json](./57419-the-rail.json) |
 | The RailIdle | 243494 | [243494-the-railidle.json](./243494-the-railidle.json) |
+| The Railroad to Elsewhere | 232746 | [232746-the-railroad-to-elsewhere.json](./232746-the-railroad-to-elsewhere.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Railway | 180999 | [180999-the-railway.json](./180999-the-railway.json) |
 | The Railway Station | 273228 | [273228-the-railway-station.json](./273228-the-railway-station.json) |
@@ -16771,6 +16776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Odyssey | 73864 | [73864-the-red-odyssey.json](./73864-the-red-odyssey.json) |
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
+| The Red Planet | 232202 | [232202-the-red-planet.json](./232202-the-red-planet.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Reactor | 117896 | [117896-the-red-reactor.json](./117896-the-red-reactor.json) |
 | The Red Room | 283347 | [283347-the-red-room.json](./283347-the-red-room.json) |
@@ -21577,6 +21583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think | 175547 | [175547-think.json](./175547-think.json) |
 | Think a Little | 289182 | [289182-think-a-little.json](./289182-think-a-little.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
+| Think About It! | 232199 | [232199-think-about-it.json](./232199-think-about-it.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think and Co-op | 223233 | [223233-think-and-co-op.json](./223233-think-and-co-op.json) |
 | Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
@@ -26744,6 +26751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: The Magic Ring | 8030 | [8030-tom-and-jerry-the-magic-ring.json](./8030-tom-and-jerry-the-magic-ring.json) |
 | Tom and Jerry: The Movie | 217737 | [217737-tom-and-jerry-the-movie.json](./217737-tom-and-jerry-the-movie.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
+| Tom and Jerry: Tom's Trap-O-Matic | 232744 | [232744-tom-and-jerry-toms-trap-o-matic.json](./232744-tom-and-jerry-toms-trap-o-matic.json) |
 | Tom and the Ghost | 66237 | [66237-tom-and-the-ghost.json](./66237-tom-and-the-ghost.json) |
 | Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
@@ -34926,6 +34934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubedle | 300436 | [300436-tubedle.json](./300436-tubedle.json) |
 | TubeDudeMan | 342244 | [342244-tubedudeman.json](./342244-tubedudeman.json) |
 | Tubelive | 115877 | [115877-tubelive.json](./115877-tubelive.json) |
+| Tuber | 232217 | [232217-tuber.json](./232217-tuber.json) |
 | Tuber Run | 114713 | [114713-tuber-run.json](./114713-tuber-run.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubes | 69731 | [69731-tubes.json](./69731-tubes.json) |
