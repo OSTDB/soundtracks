@@ -4122,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
+| Adventure of Rikka: The Cursed Kingdom | 190768 | [190768-adventure-of-rikka-the-cursed-kingdom.json](./190768-adventure-of-rikka-the-cursed-kingdom.json) |
 | Adventure of Roger | 284264 | [284264-adventure-of-roger.json](./284264-adventure-of-roger.json) |
 | Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
@@ -5100,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against All Odds | 238378 | [238378-against-all-odds.json](./238378-against-all-odds.json) |
 | Against All Skies | 379502 | [379502-against-all-skies.json](./379502-against-all-skies.json) |
+| Against Death: Dead-end road | 190750 | [190750-against-death-dead-end-road.json](./190750-against-death-dead-end-road.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against Great Darkness | 242364 | [242364-against-great-darkness.json](./242364-against-great-darkness.json) |
 | Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
@@ -8956,6 +8958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
 | Always the Same Blue Sky... | 35477 | [35477-always-the-same-blue-sky.json](./35477-always-the-same-blue-sky.json) |
+| Always the Same Nightmare | 191136 | [191136-always-the-same-nightmare.json](./191136-always-the-same-nightmare.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Always with You | 349030 | [349030-always-with-you.json](./349030-always-with-you.json) |
 | Always: Ill | 342975 | [342975-always-ill.json](./342975-always-ill.json) |
@@ -10709,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
 | Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
 | Angels Online Global | 402430 | [402430-angels-online-global.json](./402430-angels-online-global.json) |
+| Angels Prayer | 190756 | [190756-angels-prayer.json](./190756-angels-prayer.json) |
 | Angels That Kill | 20354 | [20354-angels-that-kill.json](./20354-angels-that-kill.json) |
 | Angels vs. Demons | 174064 | [174064-angels-vs-demons.json](./174064-angels-vs-demons.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
@@ -17246,6 +17250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterigos: Curse of the Stars - Ultimate Edition | 216376 | [216376-asterigos-curse-of-the-stars-ultimate-edition.json](./216376-asterigos-curse-of-the-stars-ultimate-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterion | 110623 | [110623-asterion.json](./110623-asterion.json) |
+| Asteris-K | 190766 | [190766-asteris-k.json](./190766-asteris-k.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterisk 2: Next Now a Day | 387389 | [387389-asterisk-2-next-now-a-day.json](./387389-asterisk-2-next-now-a-day.json) |
 | Asterisk no Daibouken | 288024 | [288024-asterisk-no-daibouken.json](./288024-asterisk-no-daibouken.json) |
@@ -17884,6 +17889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Training | 238791 | [238791-astronaut-training.json](./238791-astronaut-training.json) |
 | Astronaut: The Moon Eclipse | 110475 | [110475-astronaut-the-moon-eclipse.json](./110475-astronaut-the-moon-eclipse.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
+| Astronautilus | 191142 | [191142-astronautilus.json](./191142-astronautilus.json) |
 | Astronave | 292265 | [292265-astronave.json](./292265-astronave.json) |
 | Astroneer: Athlesiure Bundle | 280146 | [280146-astroneer-athlesiure-bundle.json](./280146-astroneer-athlesiure-bundle.json) |
 | Astroneer: Awakening | 234024 | [234024-astroneer-awakening.json](./234024-astroneer-awakening.json) |
@@ -19351,6 +19357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autocrash | 13353 | [13353-autocrash.json](./13353-autocrash.json) |
 | Autocross Madness | 96274 | [96274-autocross-madness.json](./96274-autocross-madness.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
+| AutoCube | 190770 | [190770-autocube.json](./190770-autocube.json) |
 | AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
 | Autoescuela Aprueba Conmigo | 86072 | [86072-autoescuela-aprueba-conmigo.json](./86072-autoescuela-aprueba-conmigo.json) |
 | Autoescuela Trainer | 269652 | [269652-autoescuela-trainer.json](./269652-autoescuela-trainer.json) |
