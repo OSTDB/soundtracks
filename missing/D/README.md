@@ -5380,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debug Girl | 275744 | [275744-debug-girl.json](./275744-debug-girl.json) |
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
+| Debug Quest | 185057 | [185057-debug-quest.json](./185057-debug-quest.json) |
 | Debugger 3.16: Hack'n'Run | 36039 | [36039-debugger-3-16-hacknrun.json](./36039-debugger-3-16-hacknrun.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
@@ -11840,6 +11841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisplaceMen | 328919 | [328919-displacemen.json](./328919-displacemen.json) |
 | Displacement | 341422 | [341422-displacement.json](./341422-displacement.json) |
 | Displacement of Water | 417574 | [417574-displacement-of-water.json](./417574-displacement-of-water.json) |
+| Disposable | 185047 | [185047-disposable.json](./185047-disposable.json) |
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
@@ -19139,6 +19141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Grenade | 423961 | [423961-duck-duck-grenade.json](./423961-duck-duck-grenade.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
+| Duck Duck on the Loose | 184011 | [184011-duck-duck-on-the-loose.json](./184011-duck-duck-on-the-loose.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
 | Duck Duck Rocket | 176724 | [176724-duck-duck-rocket.json](./176724-duck-duck-rocket.json) |
 | Duck Duck Shark | 390163 | [390163-duck-duck-shark.json](./390163-duck-duck-shark.json) |
@@ -20165,6 +20168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Solitaire | 341127 | [341127-dungeon-solitaire.json](./341127-dungeon-solitaire.json) |
 | Dungeon Solver | 133338 | [133338-dungeon-solver.json](./133338-dungeon-solver.json) |
+| Dungeon Sort | 185052 | [185052-dungeon-sort.json](./185052-dungeon-sort.json) |
 | Dungeon Souls | 18013 | [18013-dungeon-souls.json](./18013-dungeon-souls.json) |
 | Dungeon Souls: Deluxe Edition | 52932 | [52932-dungeon-souls-deluxe-edition.json](./52932-dungeon-souls-deluxe-edition.json) |
 | Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
