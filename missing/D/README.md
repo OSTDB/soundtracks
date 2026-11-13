@@ -7907,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
 | Deserted "Firefly Islands": Chronicles | 263810 | [263810-deserted-firefly-islands-chronicles.json](./263810-deserted-firefly-islands-chronicles.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
+| Deserted Island | 227577 | [227577-deserted-island.json](./227577-deserted-island.json) |
 | Deserted Island | 343742 | [343742-deserted-island.json](./343742-deserted-island.json) |
 | Deserted: The Story of Peter | 32028 | [32028-deserted-the-story-of-peter.json](./32028-deserted-the-story-of-peter.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
@@ -14296,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom City | 273233 | [273233-doom-city.json](./273233-doom-city.json) |
+| Doom Clash | 227561 | [227561-doom-clash.json](./227561-doom-clash.json) |
 | Doom Classic Complete | 52918 | [52918-doom-classic-complete.json](./52918-doom-classic-complete.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Dawn | 372384 | [372384-doom-dawn.json](./372384-doom-dawn.json) |
@@ -20780,6 +20782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
+| Dwarven Mercenaries | 227575 | [227575-dwarven-mercenaries.json](./227575-dwarven-mercenaries.json) |
 | Dwarven Rampart | 375288 | [375288-dwarven-rampart.json](./375288-dwarven-rampart.json) |
 | Dwarven Realm | 292625 | [292625-dwarven-realm.json](./292625-dwarven-realm.json) |
 | Dwarven Realms | 215873 | [215873-dwarven-realms.json](./215873-dwarven-realms.json) |
