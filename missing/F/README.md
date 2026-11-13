@@ -4904,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
 | Fight for Freedom: Civil War | 294192 | [294192-fight-for-freedom-civil-war.json](./294192-fight-for-freedom-civil-war.json) |
 | Fight for Gold II | 111854 | [111854-fight-for-gold-ii.json](./111854-fight-for-gold-ii.json) |
+| Fight For It | 208530 | [208530-fight-for-it.json](./208530-fight-for-it.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 113297 | [113297-fight-for-love.json](./113297-fight-for-love.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
@@ -6438,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fight | 11734 | [11734-fire-fight.json](./11734-fire-fight.json) |
 | Fire Fighter | 118511 | [118511-fire-fighter.json](./118511-fire-fighter.json) |
 | Fire Fighter | 18479 | [18479-fire-fighter.json](./18479-fire-fighter.json) |
+| Fire Fighter | 208503 | [208503-fire-fighter.json](./208503-fire-fighter.json) |
 | Fire Fighter | 246332 | [246332-fire-fighter.json](./246332-fire-fighter.json) |
 | Fire Fighter | 246395 | [246395-fire-fighter.json](./246395-fire-fighter.json) |
 | Fire Flight | 76661 | [76661-fire-flight.json](./76661-fire-flight.json) |
