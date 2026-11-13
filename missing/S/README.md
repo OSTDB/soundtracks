@@ -10881,6 +10881,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibel's Journey | 307420 | [307420-sibels-journey.json](./307420-sibels-journey.json) |
 | Siberian Dawn | 107794 | [107794-siberian-dawn.json](./107794-siberian-dawn.json) |
 | Siberian Dawn: Heroes of the Union | 310082 | [310082-siberian-dawn-heroes-of-the-union.json](./310082-siberian-dawn-heroes-of-the-union.json) |
+| Siberian Dawn: Mission Pack 1 | 168456 | [168456-siberian-dawn-mission-pack-1.json](./168456-siberian-dawn-mission-pack-1.json) |
+| Siberian Dawn: Mission Pack 2 | 168457 | [168457-siberian-dawn-mission-pack-2.json](./168457-siberian-dawn-mission-pack-2.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
 | Siberian Experiment | 341448 | [341448-siberian-experiment.json](./341448-siberian-experiment.json) |
 | Siberian Run VR | 118099 | [118099-siberian-run-vr.json](./118099-siberian-run-vr.json) |
@@ -11357,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal. | 335780 | [335780-signal.json](./335780-signal.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signalfall | 403347 | [403347-signalfall.json](./403347-signalfall.json) |
+| Signals | 169495 | [169495-signals.json](./169495-signals.json) |
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
 | SignaNota | 341991 | [341991-signanota.json](./341991-signanota.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
@@ -15086,6 +15089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
 | Slime Well | 362787 | [362787-slime-well.json](./362787-slime-well.json) |
+| Slime with a Sword | 169498 | [169498-slime-with-a-sword.json](./169498-slime-with-a-sword.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
 | Slime-san: Blackbird's Kraken | 43363 | [43363-slime-san-blackbirds-kraken.json](./43363-slime-san-blackbirds-kraken.json) |
