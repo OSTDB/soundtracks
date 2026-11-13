@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmongers | 377154 | [377154-warmongers.json](./377154-warmongers.json) |
 | Warmonium | 213775 | [213775-warmonium.json](./213775-warmonium.json) |
 | Warmord | 116299 | [116299-warmord.json](./116299-warmord.json) |
+| WarmSnow | 228193 | [228193-warmsnow.json](./228193-warmsnow.json) |
 | Warmth | 130145 | [130145-warmth.json](./130145-warmth.json) |
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
 | Warna | 215667 | [215667-warna.json](./215667-warna.json) |
@@ -9870,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Bros | 249554 | [249554-wrestle-bros.json](./249554-wrestle-bros.json) |
 | Wrestle Champs | 232085 | [232085-wrestle-champs.json](./232085-wrestle-champs.json) |
 | Wrestle Fight Girls | 59272 | [59272-wrestle-fight-girls.json](./59272-wrestle-fight-girls.json) |
+| Wrestle Jump | 228647 | [228647-wrestle-jump.json](./228647-wrestle-jump.json) |
 | Wrestle Jump Man | 101077 | [101077-wrestle-jump-man.json](./101077-wrestle-jump-man.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Kingdom 2: Pro Wrestling Sekai Taisen | 44715 | [44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json](./44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json) |
