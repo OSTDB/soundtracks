@@ -4400,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zone: Underground | 401386 | [401386-dead-zone-underground.json](./401386-dead-zone-underground.json) |
 | Dead_file.exe | 52072 | [52072-dead-file-exe.json](./52072-dead-file-exe.json) |
 | Dead-End Detective: The Sixpence Strangler | 164924 | [164924-dead-end-detective-the-sixpence-strangler.json](./164924-dead-end-detective-the-sixpence-strangler.json) |
+| Dead-End Dungeons | 201604 | [201604-dead-end-dungeons.json](./201604-dead-end-dungeons.json) |
 | Dead, Too Dead | 326286 | [326286-dead-too-dead.json](./326286-dead-too-dead.json) |
 | Dead.Air | 142683 | [142683-dead-air.json](./142683-dead-air.json) |
 | Dead.Wire | 142682 | [142682-dead-wire.json](./142682-dead-wire.json) |
@@ -16877,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons Breath | 12574 | [12574-dragons-breath.json](./12574-dragons-breath.json) |
 | Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
+| Dragons Garden: Merge 3 Game | 201724 | [201724-dragons-garden-merge-3-game.json](./201724-dragons-garden-merge-3-game.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
 | Dragons Legacy | 291804 | [291804-dragons-legacy.json](./291804-dragons-legacy.json) |
