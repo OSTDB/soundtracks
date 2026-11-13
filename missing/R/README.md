@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raincouver | 328432 | [328432-raincouver.json](./328432-raincouver.json) |
 | Raindancer | 125396 | [125396-raindancer.json](./125396-raindancer.json) |
 | Raindrop Sprinters | 259612 | [259612-raindrop-sprinters.json](./259612-raindrop-sprinters.json) |
+| Raindrop Umbrella | 238780 | [238780-raindrop-umbrella.json](./238780-raindrop-umbrella.json) |
 | Raindrops | 170468 | [170468-raindrops.json](./170468-raindrops.json) |
 | Rainette | 258476 | [258476-rainette.json](./258476-rainette.json) |
 | Rainforest Adventure | 53491 | [53491-rainforest-adventure.json](./53491-rainforest-adventure.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retronika | 332467 | [332467-retronika.json](./332467-retronika.json) |
 | Retroninjacyberassassin | 149234 | [149234-retroninjacyberassassin.json](./149234-retroninjacyberassassin.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
+| Retropolis 2: Never Say Goodbye | 238772 | [238772-retropolis-2-never-say-goodbye.json](./238772-retropolis-2-never-say-goodbye.json) |
 | Retropolis Dot.Line | 279397 | [279397-retropolis-dot-line.json](./279397-retropolis-dot-line.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
@@ -6962,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | RevenBlade | 133588 | [133588-revenblade.json](./133588-revenblade.json) |
 | Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
+| Revenge | 238705 | [238705-revenge.json](./238705-revenge.json) |
 | Revenge | 337944 | [337944-revenge.json](./337944-revenge.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
@@ -7188,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival! Eggerland | 206515 | [206515-revival-eggerland.json](./206515-revival-eggerland.json) |
 | Revive | 186634 | [186634-revive.json](./186634-revive.json) |
 | Revive | 334183 | [334183-revive.json](./334183-revive.json) |
+| Revive & Prosper | 238707 | [238707-revive-and-prosper.json](./238707-revive-and-prosper.json) |
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
 | Revive of The Moon | 316003 | [316003-revive-of-the-moon.json](./316003-revive-of-the-moon.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
