@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleanor in Miami | 369772 | [369772-eleanor-in-miami.json](./369772-eleanor-in-miami.json) |
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
 | Elearning Development Intern | 116115 | [116115-elearning-development-intern.json](./116115-elearning-development-intern.json) |
+| Eleazar | 176545 | [176545-eleazar.json](./176545-eleazar.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elebeater VR | 250242 | [250242-elebeater-vr.json](./250242-elebeater-vr.json) |
 | Elebits | 2747 | [2747-elebits.json](./2747-elebits.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
 | Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
+| Elf's conquest: Ludum Dare #38 | 176538 | [176538-elfs-conquest-ludum-dare-38.json](./176538-elfs-conquest-ludum-dare-38.json) |
 | Elf's Scary Little Nightmares | 252958 | [252958-elfs-scary-little-nightmares.json](./252958-elfs-scary-little-nightmares.json) |
 | Elfaria | 42346 | [42346-elfaria.json](./42346-elfaria.json) |
 | Elfaria II | 42345 | [42345-elfaria-ii.json](./42345-elfaria-ii.json) |
@@ -6275,6 +6277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
 | Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
 | Escape: Zombie Maze | 336852 | [336852-escape-zombie-maze.json](./336852-escape-zombie-maze.json) |
+| Escape! | 176537 | [176537-escape.json](./176537-escape.json) |
 | Escape! | 270026 | [270026-escape.json](./270026-escape.json) |
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape! Skeleton.J | 254409 | [254409-escape-skeleton-j.json](./254409-escape-skeleton-j.json) |
