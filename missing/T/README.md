@@ -11638,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horror of H.H. Holmes | 116580 | [116580-the-horror-of-h-h-holmes.json](./116580-the-horror-of-h-h-holmes.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
 | The Horror of Salazar House | 136521 | [136521-the-horror-of-salazar-house.json](./136521-the-horror-of-salazar-house.json) |
+| The Horror of Secret Experiments | 238798 | [238798-the-horror-of-secret-experiments.json](./238798-the-horror-of-secret-experiments.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrors at Castle Wülhein | 339197 | [339197-the-horrors-at-castle-wulhein.json](./339197-the-horrors-at-castle-wulhein.json) |
 | The Horrors of the Soviet Apartment | 342276 | [342276-the-horrors-of-the-soviet-apartment.json](./342276-the-horrors-of-the-soviet-apartment.json) |
@@ -20342,6 +20343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
 | The Way of Death | 244285 | [244285-the-way-of-death.json](./244285-the-way-of-death.json) |
 | The Way of Ira | 276437 | [276437-the-way-of-ira.json](./276437-the-way-of-ira.json) |
+| The Way of Joy | 238771 | [238771-the-way-of-joy.json](./238771-the-way-of-joy.json) |
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains | 87860 | [87860-the-way-of-kings-escape-the-shattered-plains.json](./87860-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
@@ -28901,6 +28903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touqi Guaitan | 362583 | [362583-touqi-guaitan.json](./362583-touqi-guaitan.json) |
 | Tour de Akiba | 179505 | [179505-tour-de-akiba.json](./179505-tour-de-akiba.json) |
 | Tour de Drone | 305931 | [305931-tour-de-drone.json](./305931-tour-de-drone.json) |
+| Tour de Force | 238698 | [238698-tour-de-force.json](./238698-tour-de-force.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
