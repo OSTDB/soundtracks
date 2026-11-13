@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
+| Jade's Adventure | 214637 | [214637-jades-adventure.json](./214637-jades-adventure.json) |
 | Jade's Ascension | 120741 | [120741-jades-ascension.json](./120741-jades-ascension.json) |
 | Jade's Dungeon Descent | 103758 | [103758-jades-dungeon-descent.json](./103758-jades-dungeon-descent.json) |
 | Jade's Journey | 30624 | [30624-jades-journey.json](./30624-jades-journey.json) |
@@ -1291,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
 | Jesus II | 65057 | [65057-jesus-ii.json](./65057-jesus-ii.json) |
 | Jesus in Space | 66525 | [66525-jesus-in-space.json](./66525-jesus-in-space.json) |
+| Jesus Life | 214633 | [214633-jesus-life.json](./214633-jesus-life.json) |
 | Jesus Matchup | 93294 | [93294-jesus-matchup.json](./93294-jesus-matchup.json) |
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
 | Jesus Pang | 61266 | [61266-jesus-pang.json](./61266-jesus-pang.json) |
@@ -4089,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Boy | 56800 | [56800-jurassic-boy.json](./56800-jurassic-boy.json) |
 | Jurassic Boy 2 | 48578 | [48578-jurassic-boy-2.json](./48578-jurassic-boy-2.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
+| Jurassic Clans | 214203 | [214203-jurassic-clans.json](./214203-jurassic-clans.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
 | Jurassic Differences | 397780 | [397780-jurassic-differences.json](./397780-jurassic-differences.json) |
 | Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
