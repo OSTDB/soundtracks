@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Shinsengumi Kitan | 127171 | [127171-hakuoki-shinsengumi-kitan.json](./127171-hakuoki-shinsengumi-kitan.json) |
 | Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
 | Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
+| Hakuouki Kyoukaroku | 220885 | [220885-hakuouki-kyoukaroku.json](./220885-hakuouki-kyoukaroku.json) |
 | Hakuouki Shinkai Ginsei no Shou Genteiban | 136882 | [136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json](./136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json) |
 | Hakuouki Shinkai: Ginsei no Shou Twin Pack | 136839 | [136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json](./136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json) |
 | Hakuouki Shinkai: Manyou no Shou | 241529 | [241529-hakuouki-shinkai-manyou-no-shou.json](./241529-hakuouki-shinkai-manyou-no-shou.json) |
@@ -3322,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazmat Hijinx | 333251 | [333251-hazmat-hijinx.json](./333251-hazmat-hijinx.json) |
 | Hazmat Magic | 180789 | [180789-hazmat-magic.json](./180789-hazmat-magic.json) |
 | Hazmat Simulator | 419614 | [419614-hazmat-simulator.json](./419614-hazmat-simulator.json) |
+| Hazmob FPS: Online Shooter | 220240 | [220240-hazmob-fps-online-shooter.json](./220240-hazmob-fps-online-shooter.json) |
 | Hazordhu | 142926 | [142926-hazordhu.json](./142926-hazordhu.json) |
 | Hazuki Dies: She Has No Name | 130633 | [130633-hazuki-dies-she-has-no-name.json](./130633-hazuki-dies-she-has-no-name.json) |
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
