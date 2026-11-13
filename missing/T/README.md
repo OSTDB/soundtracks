@@ -14693,6 +14693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Machines Arena | 165283 | [165283-the-machines-arena.json](./165283-the-machines-arena.json) |
 | The Machinist | 425880 | [425880-the-machinist.json](./425880-the-machinist.json) |
 | The Mad Pantser | 339185 | [339185-the-mad-pantser.json](./339185-the-mad-pantser.json) |
+| The Madhouse: Kansen Yashiki | 173327 | [173327-the-madhouse-kansen-yashiki.json](./173327-the-madhouse-kansen-yashiki.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
 | The Madness of Little Emma | 34077 | [34077-the-madness-of-little-emma.json](./34077-the-madness-of-little-emma.json) |
@@ -27919,6 +27920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Bike: Real Racing Speed & Best Moto Drag Racer | 87524 | [87524-top-bike-real-racing-speed-and-best-moto-drag-racer.json](./87524-top-bike-real-racing-speed-and-best-moto-drag-racer.json) |
 | Top Billiards | 159547 | [159547-top-billiards.json](./159547-top-billiards.json) |
 | Top Binz! | 349912 | [349912-top-binz.json](./349912-top-binz.json) |
+| Top Boat: Racing Simulator 3D | 172843 | [172843-top-boat-racing-simulator-3d.json](./172843-top-boat-racing-simulator-3d.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Burger Shop Simulator | 326330 | [326330-top-burger-shop-simulator.json](./326330-top-burger-shop-simulator.json) |
@@ -29267,6 +29269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touken Ranbu | 60291 | [60291-touken-ranbu.json](./60291-touken-ranbu.json) |
 | Touken Ranbu Warriors | 172433 | [172433-touken-ranbu-warriors.json](./172433-touken-ranbu-warriors.json) |
 | Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
+| Touken Ranbu Warriors: Special Collection Box | 172828 | [172828-touken-ranbu-warriors-special-collection-box.json](./172828-touken-ranbu-warriors-special-collection-box.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
 | Touki Denshou Angel Eyes | 91788 | [91788-touki-denshou-angel-eyes.json](./91788-touki-denshou-angel-eyes.json) |
