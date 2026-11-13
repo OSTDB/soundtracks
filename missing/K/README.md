@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Survivors | 395039 | [395039-kawaii-survivors.json](./395039-kawaii-survivors.json) |
 | KawaiiDungeon: Rise of a Goddess | 225762 | [225762-kawaiidungeon-rise-of-a-goddess.json](./225762-kawaiidungeon-rise-of-a-goddess.json) |
 | Kawaiiju | 176427 | [176427-kawaiiju.json](./176427-kawaiiju.json) |
+| Kawaiiland | 179087 | [179087-kawaiiland.json](./179087-kawaiiland.json) |
 | KawaiiNihongo | 225620 | [225620-kawaiinihongo.json](./225620-kawaiinihongo.json) |
 | Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
 | Kawairun 2 | 101776 | [101776-kawairun-2.json](./101776-kawairun-2.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep of the Knights | 342010 | [342010-keep-of-the-knights.json](./342010-keep-of-the-knights.json) |
 | Keep of the Witch | 221186 | [221186-keep-of-the-witch.json](./221186-keep-of-the-witch.json) |
 | Keep On | 180641 | [180641-keep-on.json](./180641-keep-on.json) |
+| Keep on Beat | 179644 | [179644-keep-on-beat.json](./179644-keep-on-beat.json) |
 | Keep on Mining! | 349928 | [349928-keep-on-mining.json](./349928-keep-on-mining.json) |
 | Keep on Mining!: Worlds | 393578 | [393578-keep-on-mining-worlds.json](./393578-keep-on-mining-worlds.json) |
 | Keep On Winning! | 397914 | [397914-keep-on-winning.json](./397914-keep-on-winning.json) |
@@ -3418,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
 | King of my Castle VR | 108003 | [108003-king-of-my-castle-vr.json](./108003-king-of-my-castle-vr.json) |
+| King of Nothing | 179638 | [179638-king-of-nothing.json](./179638-king-of-nothing.json) |
 | King of Opera | 89812 | [89812-king-of-opera.json](./89812-king-of-opera.json) |
 | King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
 | King of Phoenix | 105234 | [105234-king-of-phoenix.json](./105234-king-of-phoenix.json) |
