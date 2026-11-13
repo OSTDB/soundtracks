@@ -8986,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
+| Grave of Träumerei | 229414 | [229414-grave-of-traumerei.json](./229414-grave-of-traumerei.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
 | Grave Orbit | 419081 | [419081-grave-orbit.json](./419081-grave-orbit.json) |
 | Grave Pobbery | 267258 | [267258-grave-pobbery.json](./267258-grave-pobbery.json) |
