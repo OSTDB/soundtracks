@@ -9561,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Journey | 328349 | [328349-great-journey.json](./328349-great-journey.json) |
 | Great Journey: Mr. Penguin's Letter | 63766 | [63766-great-journey-mr-penguins-letter.json](./63766-great-journey-mr-penguins-letter.json) |
+| Great Lakes Simulator | 189215 | [189215-great-lakes-simulator.json](./189215-great-lakes-simulator.json) |
 | Great Little War Game | 41485 | [41485-great-little-war-game.json](./41485-great-little-war-game.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
 | Great Marble Adventure | 169109 | [169109-great-marble-adventure.json](./169109-great-marble-adventure.json) |
