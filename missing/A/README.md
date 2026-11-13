@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A Maldição da Vila Sinistra | 242124 | [242124-a-maldicao-da-vila-sinistra.json](./242124-a-maldicao-da-vila-sinistra.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
+| A Mall Near You | 229968 | [229968-a-mall-near-you.json](./229968-a-mall-near-you.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Mansão | 342221 | [342221-a-mansao.json](./342221-a-mansao.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AA Truck Simulator Euro Roads 2026 | 409279 | [409279-aa-truck-simulator-euro-roads-2026.json](./409279-aa-truck-simulator-euro-roads-2026.json) |
 | Aa Yakyuu Jinsei Icchokusen | 48669 | [48669-aa-yakyuu-jinsei-icchokusen.json](./48669-aa-yakyuu-jinsei-icchokusen.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
+| Aa! Megami-sama! | 230013 | [230013-aa-megami-sama.json](./230013-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
 | AAA Clock | 176072 | [176072-aaa-clock.json](./176072-aaa-clock.json) |
 | AAA Clock 2 | 314522 | [314522-aaa-clock-2.json](./314522-aaa-clock-2.json) |
@@ -2176,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Ablaze | 272130 | [272130-ablaze.json](./272130-ablaze.json) |
 | Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
+| Able Archer: Red Crucible 2 | 229996 | [229996-able-archer-red-crucible-2.json](./229996-able-archer-red-crucible-2.json) |
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
 | Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
@@ -5480,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggelos 2 | 358583 | [358583-aggelos-2.json](./358583-aggelos-2.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Aggie’s Digital Gallery | 333980 | [333980-aggie-s-digital-gallery.json](./333980-aggie-s-digital-gallery.json) |
+| Aggregate | 230014 | [230014-aggregate.json](./230014-aggregate.json) |
 | Aggregate Core | 251965 | [251965-aggregate-core.json](./251965-aggregate-core.json) |
 | Aggregator Elevator System | 248991 | [248991-aggregator-elevator-system.json](./248991-aggregator-elevator-system.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
@@ -11330,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Suki | 303153 | [303153-anime-girl-puzzles-suki.json](./303153-anime-girl-puzzles-suki.json) |
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
 | Anime Girl Puzzles: Yui | 297772 | [297772-anime-girl-puzzles-yui.json](./297772-anime-girl-puzzles-yui.json) |
+| Anime Girl Slide Puzzle | 230010 | [230010-anime-girl-slide-puzzle.json](./230010-anime-girl-slide-puzzle.json) |
 | Anime Girls | 261367 | [261367-anime-girls.json](./261367-anime-girls.json) |
 | Anime Girls | 337950 | [337950-anime-girls.json](./337950-anime-girls.json) |
 | Anime Girls Basketball League | 309004 | [309004-anime-girls-basketball-league.json](./309004-anime-girls-basketball-league.json) |
@@ -12933,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appetite of the Abyss | 383562 | [383562-appetite-of-the-abyss.json](./383562-appetite-of-the-abyss.json) |
 | Appie Online 2 | 67856 | [67856-appie-online-2.json](./67856-appie-online-2.json) |
 | Applaydu | 294979 | [294979-applaydu.json](./294979-applaydu.json) |
+| Apple | 229404 | [229404-apple.json](./229404-apple.json) |
 | Apple | 309386 | [309386-apple.json](./309386-apple.json) |
 | Apple | 346077 | [346077-apple.json](./346077-apple.json) |
 | Apple Avengers | 106871 | [106871-apple-avengers.json](./106871-apple-avengers.json) |
@@ -13709,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mega Zone | 390482 | [390482-arcade-archives-mega-zone.json](./390482-arcade-archives-mega-zone.json) |
 | Arcade Archives: Megablast | 253224 | [253224-arcade-archives-megablast.json](./253224-arcade-archives-megablast.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
+| Arcade Archives: Metal Hawk | 229419 | [229419-arcade-archives-metal-hawk.json](./229419-arcade-archives-metal-hawk.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Metro-Cross | 213803 | [213803-arcade-archives-metro-cross.json](./213803-arcade-archives-metro-cross.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
@@ -17740,6 +17747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomia | 158092 | [158092-astronomia.json](./158092-astronomia.json) |
 | Astronomic Date | 238614 | [238614-astronomic-date.json](./238614-astronomic-date.json) |
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
+| Astronomical Club for Queers | 229409 | [229409-astronomical-club-for-queers.json](./229409-astronomical-club-for-queers.json) |
 | Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
 | Astronomics | 244168 | [244168-astronomics.json](./244168-astronomics.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
@@ -18037,6 +18045,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Recharged Bundle: Centipede + Black Widow | 331563 | [331563-atari-recharged-bundle-centipede-black-widow.json](./331563-atari-recharged-bundle-centipede-black-widow.json) |
 | Atari Recharged Bundle: Gravitar + Missile Command | 331564 | [331564-atari-recharged-bundle-gravitar-missile-command.json](./331564-atari-recharged-bundle-gravitar-missile-command.json) |
 | Atari Recharged Bundle: Yars + Caverns of Mars | 331566 | [331566-atari-recharged-bundle-yars-caverns-of-mars.json](./331566-atari-recharged-bundle-yars-caverns-of-mars.json) |
+| Atari Recharged Collection 1 | 229410 | [229410-atari-recharged-collection-1.json](./229410-atari-recharged-collection-1.json) |
+| Atari Recharged Collection 2 | 229411 | [229411-atari-recharged-collection-2.json](./229411-atari-recharged-collection-2.json) |
 | Atari Recharged Collection 3 | 341962 | [341962-atari-recharged-collection-3.json](./341962-atari-recharged-collection-3.json) |
 | Atari Recharged Collection 4 | 341964 | [341964-atari-recharged-collection-4.json](./341964-atari-recharged-collection-4.json) |
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
