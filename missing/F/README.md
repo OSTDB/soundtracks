@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Down! Deluxe | 234493 | [234493-fall-down-deluxe.json](./234493-fall-down-deluxe.json) |
 | Fall Dudes 3D | 136946 | [136946-fall-dudes-3d.json](./136946-fall-dudes-3d.json) |
 | Fall for Greed | 145255 | [145255-fall-for-greed.json](./145255-fall-for-greed.json) |
+| Fall For You | 190760 | [190760-fall-for-you.json](./190760-fall-for-you.json) |
 | Fall From Eden | 340053 | [340053-fall-from-eden.json](./340053-fall-from-eden.json) |
 | Fall from Space | 251967 | [251967-fall-from-space.json](./251967-fall-from-space.json) |
 | Fall Girls | 194929 | [194929-fall-girls.json](./194929-fall-girls.json) |
