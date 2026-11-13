@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Drinker | 250893 | [250893-heavy-drinker.json](./250893-heavy-drinker.json) |
 | Heavy Duty | 375422 | [375422-heavy-duty.json](./375422-heavy-duty.json) |
 | Heavy Duty | 72910 | [72910-heavy-duty.json](./72910-heavy-duty.json) |
+| Heavy Duty Construction | 236049 | [236049-heavy-duty-construction.json](./236049-heavy-duty-construction.json) |
 | Heavy Duty Inc. | 389088 | [389088-heavy-duty-inc.json](./389088-heavy-duty-inc.json) |
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Girls | 29852 | [29852-hell-girls.json](./29852-hell-girls.json) |
 | Hell God | 267724 | [267724-hell-god.json](./267724-hell-god.json) |
 | Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
+| Hell Grinder | 236550 | [236550-hell-grinder.json](./236550-hell-grinder.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
@@ -5744,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
 | Hentai Office | 340442 | [340442-hentai-office.json](./340442-hentai-office.json) |
 | Hentai Office Enigma | 389058 | [389058-hentai-office-enigma.json](./389058-hentai-office-enigma.json) |
+| Hentai Ojou | 236048 | [236048-hentai-ojou.json](./236048-hentai-ojou.json) |
 | Hentai Oni | 241289 | [241289-hentai-oni.json](./241289-hentai-oni.json) |
 | Hentai Oppai | 301664 | [301664-hentai-oppai.json](./301664-hentai-oppai.json) |
 | Hentai Oppai | 366507 | [366507-hentai-oppai.json](./366507-hentai-oppai.json) |
@@ -12491,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hua Mulan | 94491 | [94491-hua-mulan.json](./94491-hua-mulan.json) |
 | Hua Mulan: A Chinese Learning Adventure | 193569 | [193569-hua-mulan-a-chinese-learning-adventure.json](./193569-hua-mulan-a-chinese-learning-adventure.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
+| HuaBing | 236583 | [236583-huabing.json](./236583-huabing.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
 | Huàn Shì Lù | 369350 | [369350-huan-shi-lu.json](./369350-huan-shi-lu.json) |
 | Huáng Dì: Zhuōlù zhī Zhàn | 319611 | [319611-huang-di-zhuolu-zhi-zhan.json](./319611-huang-di-zhuolu-zhi-zhan.json) |
@@ -13761,6 +13765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia: Producing Perfection - Vert's Buoyant Swimsuit Set | 402019 | [402019-hyperdimension-neptunia-producing-perfection-verts-buoyant-swimsuit-set.json](./402019-hyperdimension-neptunia-producing-perfection-verts-buoyant-swimsuit-set.json) |
 | HyperDissonance | 372831 | [372831-hyperdissonance.json](./372831-hyperdissonance.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
+| Hyperdope | 236566 | [236566-hyperdope.json](./236566-hyperdope.json) |
 | Hyperdrive | 309051 | [309051-hyperdrive.json](./309051-hyperdrive.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
