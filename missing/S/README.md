@@ -7800,22 +7800,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date? Eternal Vows: Love Beyond Time | 221885 | [221885-shall-we-date-eternal-vows-love-beyond-time.json](./221885-shall-we-date-eternal-vows-love-beyond-time.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
 | Shall we date? Sengoku Darling: Choose your Destination | 219134 | [219134-shall-we-date-sengoku-darling-choose-your-destination.json](./219134-shall-we-date-sengoku-darling-choose-your-destination.json) |
+| Shall we date?: Actor to be | 225388 | [225388-shall-we-date-actor-to-be.json](./225388-shall-we-date-actor-to-be.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
 | Shall we date?: Become Elite | 225684 | [225684-shall-we-date-become-elite.json](./225684-shall-we-date-become-elite.json) |
 | Shall we date?: Blood in Roses | 199961 | [199961-shall-we-date-blood-in-roses.json](./199961-shall-we-date-blood-in-roses.json) |
+| Shall we date?: Can't Say No | 225392 | [225392-shall-we-date-cant-say-no.json](./225392-shall-we-date-cant-say-no.json) |
 | Shall we date?: Castle Break | 225452 | [225452-shall-we-date-castle-break.json](./225452-shall-we-date-castle-break.json) |
 | Shall We Date?: Destiny Ninja | 181497 | [181497-shall-we-date-destiny-ninja.json](./181497-shall-we-date-destiny-ninja.json) |
 | Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
 | Shall we date?: Guilty Alice | 225449 | [225449-shall-we-date-guilty-alice.json](./225449-shall-we-date-guilty-alice.json) |
 | Shall We Date?: Heian Love | 181521 | [181521-shall-we-date-heian-love.json](./181521-shall-we-date-heian-love.json) |
+| Shall we date?: Hero in Love | 225396 | [225396-shall-we-date-hero-in-love.json](./225396-shall-we-date-hero-in-love.json) |
 | Shall we date?: Lost Island | 225448 | [225448-shall-we-date-lost-island.json](./225448-shall-we-date-lost-island.json) |
 | Shall we date?: Love, Mafia Dawn of the Don | 225673 | [225673-shall-we-date-love-mafia-dawn-of-the-don.json](./225673-shall-we-date-love-mafia-dawn-of-the-don.json) |
 | Shall we date?: Love, Mafia My Signore | 225674 | [225674-shall-we-date-love-mafia-my-signore.json](./225674-shall-we-date-love-mafia-my-signore.json) |
+| Shall we date?: Magic Sword | 225395 | [225395-shall-we-date-magic-sword.json](./225395-shall-we-date-magic-sword.json) |
 | Shall we date?: Modern Cinderella | 225670 | [225670-shall-we-date-modern-cinderella.json](./225670-shall-we-date-modern-cinderella.json) |
+| Shall we date?: Mononoke Kiss | 225393 | [225393-shall-we-date-mononoke-kiss.json](./225393-shall-we-date-mononoke-kiss.json) |
 | Shall we date?: Mononoke Kiss x Lost Island | 225685 | [225685-shall-we-date-mononoke-kiss-x-lost-island.json](./225685-shall-we-date-mononoke-kiss-x-lost-island.json) |
+| Shall we date?: My Fairy Tales | 225394 | [225394-shall-we-date-my-fairy-tales.json](./225394-shall-we-date-my-fairy-tales.json) |
+| Shall we date?: Never Look Back | 225397 | [225397-shall-we-date-never-look-back.json](./225397-shall-we-date-never-look-back.json) |
+| Shall we date?: Ninja Assassin | 225398 | [225398-shall-we-date-ninja-assassin.json](./225398-shall-we-date-ninja-assassin.json) |
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
+| Shall we date?: Ninja Shadow Her One and Only Love | 225400 | [225400-shall-we-date-ninja-shadow-her-one-and-only-love.json](./225400-shall-we-date-ninja-shadow-her-one-and-only-love.json) |
 | Shall we date?: Null; | 225675 | [225675-shall-we-date-null.json](./225675-shall-we-date-null.json) |
 | Shall we date?: Oz | 225666 | [225666-shall-we-date-oz.json](./225666-shall-we-date-oz.json) |
 | Shall we date?: Pirates Treasured Love in the Ocean | 225665 | [225665-shall-we-date-pirates-treasured-love-in-the-ocean.json](./225665-shall-we-date-pirates-treasured-love-in-the-ocean.json) |
@@ -19327,6 +19336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Seaside Hill Zone | 242711 | [242711-sonic-robo-blast-2-seaside-hill-zone.json](./242711-sonic-robo-blast-2-seaside-hill-zone.json) |
 | Sonic Robo Blast 2: The Chaotix | 304084 | [304084-sonic-robo-blast-2-the-chaotix.json](./304084-sonic-robo-blast-2-the-chaotix.json) |
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
+| Sonic Robo Blast 2: Whisper the Wolf | 225847 | [225847-sonic-robo-blast-2-whisper-the-wolf.json](./225847-sonic-robo-blast-2-whisper-the-wolf.json) |
 | Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Robo Smash | 350699 | [350699-sonic-robo-smash.json](./350699-sonic-robo-smash.json) |
@@ -20403,6 +20413,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: Collector's Edition | 47071 | [47071-soulcalibur-vi-collectors-edition.json](./47071-soulcalibur-vi-collectors-edition.json) |
 | SoulCalibur VI: Deluxe Edition | 103299 | [103299-soulcalibur-vi-deluxe-edition.json](./103299-soulcalibur-vi-deluxe-edition.json) |
 | SoulCalibur VI: Deluxe Edition 2019 | 239261 | [239261-soulcalibur-vi-deluxe-edition-2019.json](./239261-soulcalibur-vi-deluxe-edition-2019.json) |
+| SoulCalibur VI: DLC 10 - Character Creation Set D | 225924 | [225924-soulcalibur-vi-dlc-10-character-creation-set-d.json](./225924-soulcalibur-vi-dlc-10-character-creation-set-d.json) |
+| SoulCalibur VI: DLC 12 - Character Creation Set E | 225925 | [225925-soulcalibur-vi-dlc-12-character-creation-set-e.json](./225925-soulcalibur-vi-dlc-12-character-creation-set-e.json) |
 | SoulCalibur VI: Haohmaru | 168726 | [168726-soulcalibur-vi-haohmaru.json](./168726-soulcalibur-vi-haohmaru.json) |
 | SoulCalibur VI: Hilde | 168725 | [168725-soulcalibur-vi-hilde.json](./168725-soulcalibur-vi-hilde.json) |
 | SoulCalibur VI: Hwang | 168728 | [168728-soulcalibur-vi-hwang.json](./168728-soulcalibur-vi-hwang.json) |
