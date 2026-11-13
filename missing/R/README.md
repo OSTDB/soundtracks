@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallye Racing 97 | 73062 | [73062-rallye-racing-97.json](./73062-rallye-racing-97.json) |
 | Rallygator | 212053 | [212053-rallygator.json](./212053-rallygator.json) |
 | Rallyween | 376146 | [376146-rallyween.json](./376146-rallyween.json) |
+| RaLo | 226371 | [226371-ralo.json](./226371-ralo.json) |
 | Ralph and the Blue Ball | 220479 | [220479-ralph-and-the-blue-ball.json](./220479-ralph-and-the-blue-ball.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
@@ -5232,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Digger | 382078 | [382078-relic-digger.json](./382078-relic-digger.json) |
+| Relic Dudes | 226464 | [226464-relic-dudes.json](./226464-relic-dudes.json) |
 | Relic Guardian | 258339 | [258339-relic-guardian.json](./258339-relic-guardian.json) |
 | Relic Guardians: Complete | 168050 | [168050-relic-guardians-complete.json](./168050-relic-guardians-complete.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
@@ -5837,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroll Routine | 389814 | [389814-reroll-routine.json](./389814-reroll-routine.json) |
 | Reroll: Back to the throne | 76329 | [76329-reroll-back-to-the-throne.json](./76329-reroll-back-to-the-throne.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
+| Rerun | 226372 | [226372-rerun.json](./226372-rerun.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
 | Res Extensa | 297199 | [297199-res-extensa.json](./297199-res-extensa.json) |
@@ -7218,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revived Legends: Titan's Revenge HD | 107099 | [107099-revived-legends-titans-revenge-hd.json](./107099-revived-legends-titans-revenge-hd.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
 | Revived Witch | 170356 | [170356-revived-witch.json](./170356-revived-witch.json) |
+| Reviver | 225998 | [225998-reviver.json](./225998-reviver.json) |
 | Reviver | 292583 | [292583-reviver.json](./292583-reviver.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revizor | 154593 | [154593-revizor.json](./154593-revizor.json) |
@@ -8232,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rin the Tamarin | 58542 | [58542-rin-the-tamarin.json](./58542-rin-the-tamarin.json) |
 | Rin-chan wo Hirou Game | 403292 | [403292-rin-chan-wo-hirou-game.json](./403292-rin-chan-wo-hirou-game.json) |
 | Rin: The Last Child | 199253 | [199253-rin-the-last-child.json](./199253-rin-the-last-child.json) |
+| Rina RhythmError | 226381 | [226381-rina-rhythmerror.json](./226381-rina-rhythmerror.json) |
 | Rina to Akumu no Kan | 236068 | [236068-rina-to-akumu-no-kan.json](./236068-rina-to-akumu-no-kan.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
 | Rinbo | 310912 | [310912-rinbo.json](./310912-rinbo.json) |
@@ -13070,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
 | RuinsStory | 339075 | [339075-ruinsstory.json](./339075-ruinsstory.json) |
 | Ruinverse | 145316 | [145316-ruinverse.json](./145316-ruinverse.json) |
+| Ruinwaker | 226377 | [226377-ruinwaker.json](./226377-ruinwaker.json) |
 | Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruki no Zetsubo | 151798 | [151798-ruki-no-zetsubo.json](./151798-ruki-no-zetsubo.json) |
 | Rukimin's Disappointing Adventure! | 201492 | [201492-rukimins-disappointing-adventure.json](./201492-rukimins-disappointing-adventure.json) |
