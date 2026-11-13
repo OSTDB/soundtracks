@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Car Shooter | 103829 | [103829-your-car-shooter.json](./103829-your-car-shooter.json) |
 | Your Cattle | 343293 | [343293-your-cattle.json](./343293-your-cattle.json) |
 | Your Channel | 228425 | [228425-your-channel.json](./228425-your-channel.json) |
+| Your Choice | 181277 | [181277-your-choice.json](./181277-your-choice.json) |
 | Your Chronicle | 168716 | [168716-your-chronicle.json](./168716-your-chronicle.json) |
 | Your City in 3D | 158662 | [158662-your-city-in-3d.json](./158662-your-city-in-3d.json) |
 | Your Computer Might Be at Risk | 200034 | [200034-your-computer-might-be-at-risk.json](./200034-your-computer-might-be-at-risk.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Path of Destruction | 195863 | [195863-your-path-of-destruction.json](./195863-your-path-of-destruction.json) |
 | Your Personal Chill Apartment | 199365 | [199365-your-personal-chill-apartment.json](./199365-your-personal-chill-apartment.json) |
 | Your Personality Test | 371549 | [371549-your-personality-test.json](./371549-your-personality-test.json) |
+| Your Phone Dies in 20 Seconds | 181278 | [181278-your-phone-dies-in-20-seconds.json](./181278-your-phone-dies-in-20-seconds.json) |
 | Your Pixel Dungeon | 313947 | [313947-your-pixel-dungeon.json](./313947-your-pixel-dungeon.json) |
 | Your planet in 60 seconds | 157965 | [157965-your-planet-in-60-seconds.json](./157965-your-planet-in-60-seconds.json) |
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
