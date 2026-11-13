@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sudoku Collection: Tight-Fit-8 Pack | 163333 | [163333-ultimate-sudoku-collection-tight-fit-8-pack.json](./163333-ultimate-sudoku-collection-tight-fit-8-pack.json) |
 | Ultimate Sudoku Collection: Tight-Fit-9 Pack | 163327 | [163327-ultimate-sudoku-collection-tight-fit-9-pack.json](./163327-ultimate-sudoku-collection-tight-fit-9-pack.json) |
 | Ultimate Sudoku Collection: Tridoku Pack | 163326 | [163326-ultimate-sudoku-collection-tridoku-pack.json](./163326-ultimate-sudoku-collection-tridoku-pack.json) |
+| Ultimate Sudoku: The Emperor's Challenge | 206270 | [206270-ultimate-sudoku-the-emperors-challenge.json](./206270-ultimate-sudoku-the-emperors-challenge.json) |
 | Ultimate Summer | 142268 | [142268-ultimate-summer.json](./142268-ultimate-summer.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno Online | 242116 | [242116-uno-online.json](./242116-uno-online.json) |
 | Uno Rush | 22534 | [22534-uno-rush.json](./22534-uno-rush.json) |
+| UNO Undercover | 206269 | [206269-uno-undercover.json](./206269-uno-undercover.json) |
 | Uno x Anime | 387575 | [387575-uno-x-anime.json](./387575-uno-x-anime.json) |
 | Uno: 50th Anniversary | 151937 | [151937-uno-50th-anniversary.json](./151937-uno-50th-anniversary.json) |
 | Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
@@ -3763,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US History: Western Settlement to Modern Day | 70303 | [70303-us-history-western-settlement-to-modern-day.json](./70303-us-history-western-settlement-to-modern-day.json) |
 | US Long Trucks : Road Simulator | 46495 | [46495-us-long-trucks-road-simulator.json](./46495-us-long-trucks-road-simulator.json) |
 | Us Lovely Corpses | 123279 | [123279-us-lovely-corpses.json](./123279-us-lovely-corpses.json) |
+| US Open 2002 | 206272 | [206272-us-open-2002.json](./206272-us-open-2002.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Presidents Quiz Tutor | 90841 | [90841-us-presidents-quiz-tutor.json](./90841-us-presidents-quiz-tutor.json) |
 | US School Simulator Game | 296766 | [296766-us-school-simulator-game.json](./296766-us-school-simulator-game.json) |
@@ -3773,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US War Trivia | 87561 | [87561-us-war-trivia.json](./87561-us-war-trivia.json) |
 | USA 2020 | 101359 | [101359-usa-2020.json](./101359-usa-2020.json) |
 | USA Army Soldier Simulator | 388062 | [388062-usa-army-soldier-simulator.json](./388062-usa-army-soldier-simulator.json) |
+| USA Bass Championship | 206257 | [206257-usa-bass-championship.json](./206257-usa-bass-championship.json) |
 | USA East | 93221 | [93221-usa-east.json](./93221-usa-east.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | USA Nature's Trails Jigsaw Edition: Expansion Pack 1 | 357959 | [357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json](./357959-usa-natures-trails-jigsaw-edition-expansion-pack-1.json) |
