@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natalie Brooks Treasures of the Lost Kingdom | 143378 | [143378-natalie-brooks-treasures-of-the-lost-kingdom.json](./143378-natalie-brooks-treasures-of-the-lost-kingdom.json) |
 | Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
 | Natalie Brooks: Secrets of Treasure House | 54247 | [54247-natalie-brooks-secrets-of-treasure-house.json](./54247-natalie-brooks-secrets-of-treasure-house.json) |
+| Natalie Brooks: The Treasures of the Lost Kingdom | 177089 | [177089-natalie-brooks-the-treasures-of-the-lost-kingdom.json](./177089-natalie-brooks-the-treasures-of-the-lost-kingdom.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
 | Nate Hand Gesture | 411915 | [411915-nate-hand-gesture.json](./411915-nate-hand-gesture.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
@@ -3751,7 +3752,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
 | New Yankee in King Arthur's Court 4 | 117825 | [117825-new-yankee-in-king-arthurs-court-4.json](./117825-new-yankee-in-king-arthurs-court-4.json) |
+| New Yankee in King Arthur's Court 4: Collector's Edition | 177090 | [177090-new-yankee-in-king-arthurs-court-4-collectors-edition.json](./177090-new-yankee-in-king-arthurs-court-4-collectors-edition.json) |
 | New Yankee in King Arthur's Court 5 | 118260 | [118260-new-yankee-in-king-arthurs-court-5.json](./118260-new-yankee-in-king-arthurs-court-5.json) |
+| New Yankee in King Arthur's Court 5: Collector's Edition | 177093 | [177093-new-yankee-in-king-arthurs-court-5-collectors-edition.json](./177093-new-yankee-in-king-arthurs-court-5-collectors-edition.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
 | New Yankee: Battle for the Bride | 199773 | [199773-new-yankee-battle-for-the-bride.json](./199773-new-yankee-battle-for-the-bride.json) |
 | New Yankee: Jelly Chaos | 418540 | [418540-new-yankee-jelly-chaos.json](./418540-new-yankee-jelly-chaos.json) |
