@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
 | Quantum Galaxy | 249659 | [249659-quantum-galaxy.json](./249659-quantum-galaxy.json) |
 | Quantum Gate | 73723 | [73723-quantum-gate.json](./73723-quantum-gate.json) |
+| Quantum Gravity | 214213 | [214213-quantum-gravity.json](./214213-quantum-gravity.json) |
 | Quantum Gravity: Campaign | 235631 | [235631-quantum-gravity-campaign.json](./235631-quantum-gravity-campaign.json) |
 | Quantum Hell | 413862 | [413862-quantum-hell.json](./413862-quantum-hell.json) |
 | Quantum Joe | 326098 | [326098-quantum-joe.json](./326098-quantum-joe.json) |
