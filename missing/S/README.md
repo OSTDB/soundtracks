@@ -7800,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date? Eternal Vows: Love Beyond Time | 221885 | [221885-shall-we-date-eternal-vows-love-beyond-time.json](./221885-shall-we-date-eternal-vows-love-beyond-time.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
 | Shall we date? Sengoku Darling: Choose your Destination | 219134 | [219134-shall-we-date-sengoku-darling-choose-your-destination.json](./219134-shall-we-date-sengoku-darling-choose-your-destination.json) |
+| Shall we date?: "Konkatsu" for marriage | 225318 | [225318-shall-we-date-konkatsu-for-marriage.json](./225318-shall-we-date-konkatsu-for-marriage.json) |
 | Shall we date?: Actor to be | 225388 | [225388-shall-we-date-actor-to-be.json](./225388-shall-we-date-actor-to-be.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
 | Shall we date?: Arabian Dreams Wildest Tales in Starry Nights | 225664 | [225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json](./225664-shall-we-date-arabian-dreams-wildest-tales-in-starry-nights.json) |
@@ -7821,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Mononoke Kiss | 225393 | [225393-shall-we-date-mononoke-kiss.json](./225393-shall-we-date-mononoke-kiss.json) |
 | Shall we date?: Mononoke Kiss x Lost Island | 225685 | [225685-shall-we-date-mononoke-kiss-x-lost-island.json](./225685-shall-we-date-mononoke-kiss-x-lost-island.json) |
 | Shall we date?: My Fairy Tales | 225394 | [225394-shall-we-date-my-fairy-tales.json](./225394-shall-we-date-my-fairy-tales.json) |
+| Shall we date?: My Sweet Prince | 225317 | [225317-shall-we-date-my-sweet-prince.json](./225317-shall-we-date-my-sweet-prince.json) |
 | Shall we date?: Never Look Back | 225397 | [225397-shall-we-date-never-look-back.json](./225397-shall-we-date-never-look-back.json) |
 | Shall we date?: Ninja Assassin | 225398 | [225398-shall-we-date-ninja-assassin.json](./225398-shall-we-date-ninja-assassin.json) |
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
@@ -15328,6 +15330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
 | Slumbering Feline | 318336 | [318336-slumbering-feline.json](./318336-slumbering-feline.json) |
 | Slumbering Woods | 323688 | [323688-slumbering-woods.json](./323688-slumbering-woods.json) |
+| SlumberspaVIE: Visual Interactive Experience | 224861 | [224861-slumberspavie-visual-interactive-experience.json](./224861-slumberspavie-visual-interactive-experience.json) |
 | Slumhack | 171198 | [171198-slumhack.json](./171198-slumhack.json) |
 | Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
@@ -17730,6 +17733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaire | 410576 | [410576-solaire.json](./410576-solaire.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solanaceae: After All | 216530 | [216530-solanaceae-after-all.json](./216530-solanaceae-after-all.json) |
+| Solanaceae: Another Time | 225251 | [225251-solanaceae-another-time.json](./225251-solanaceae-another-time.json) |
 | Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
 | Solar | 68427 | [68427-solar.json](./68427-solar.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
@@ -18147,6 +18151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Mystery: Four Seasons HD | 99342 | [99342-solitaire-mystery-four-seasons-hd.json](./99342-solitaire-mystery-four-seasons-hd.json) |
 | Solitaire Mystery: Stolen Power | 55432 | [55432-solitaire-mystery-stolen-power.json](./55432-solitaire-mystery-stolen-power.json) |
 | Solitaire Noir | 226618 | [226618-solitaire-noir.json](./226618-solitaire-noir.json) |
+| Solitaire of Novel | 225322 | [225322-solitaire-of-novel.json](./225322-solitaire-of-novel.json) |
 | Solitaire One | 89617 | [89617-solitaire-one.json](./89617-solitaire-one.json) |
 | Solitaire Overload | 91676 | [91676-solitaire-overload.json](./91676-solitaire-overload.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
@@ -21846,6 +21851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Salvage: Ship Happens | 377617 | [377617-space-salvage-ship-happens.json](./377617-space-salvage-ship-happens.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
 | Space Samurai | 179787 | [179787-space-samurai.json](./179787-space-samurai.json) |
+| Space Saviour Special | 224800 | [224800-space-saviour-special.json](./224800-space-saviour-special.json) |
 | Space Savory | 412084 | [412084-space-savory.json](./412084-space-savory.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
@@ -29928,6 +29934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Storytime | 178723 | [178723-storytime.json](./178723-storytime.json) |
 | Storytime Cats: Meows and Mistletoes | 420769 | [420769-storytime-cats-meows-and-mistletoes.json](./420769-storytime-cats-meows-and-mistletoes.json) |
+| Storytiming | 224869 | [224869-storytiming.json](./224869-storytiming.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
 | Stötnisse Åker Hiss | 187026 | [187026-stotnisse-aker-hiss.json](./187026-stotnisse-aker-hiss.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
@@ -32856,6 +32863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Lawn Seasons | 87206 | [87206-sunday-lawn-seasons.json](./87206-sunday-lawn-seasons.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
+| Sunday Never Comes | 224868 | [224868-sunday-never-comes.json](./224868-sunday-never-comes.json) |
 | Sunday Night Suicide | 228923 | [228923-sunday-night-suicide.json](./228923-sunday-night-suicide.json) |
 | Sunday Rivals | 138644 | [138644-sunday-rivals.json](./138644-sunday-rivals.json) |
 | Sunday Run | 291268 | [291268-sunday-run.json](./291268-sunday-run.json) |
