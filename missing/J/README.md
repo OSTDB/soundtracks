@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Killer | 33538 | [33538-jelly-killer.json](./33538-jelly-killer.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Lam | 102037 | [102037-jelly-lam.json](./102037-jelly-lam.json) |
+| Jelly Mario | 204590 | [204590-jelly-mario.json](./204590-jelly-mario.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
@@ -2318,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinn | 280550 | [280550-jinn.json](./280550-jinn.json) |
 | Jinn Hunter | 409908 | [409908-jinn-hunter.json](./409908-jinn-hunter.json) |
 | Jinni 2: The Ritual | 379405 | [379405-jinni-2-the-ritual.json](./379405-jinni-2-the-ritual.json) |
+| Jinni Zeala Pinball | 204577 | [204577-jinni-zeala-pinball.json](./204577-jinni-zeala-pinball.json) |
 | Jinni: Haunted House | 296534 | [296534-jinni-haunted-house.json](./296534-jinni-haunted-house.json) |
 | Jinro Burger | 402449 | [402449-jinro-burger.json](./402449-jinro-burger.json) |
 | Jinro Metropolis | 325996 | [325996-jinro-metropolis.json](./325996-jinro-metropolis.json) |
@@ -3921,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Quest | 54160 | [54160-jungle-quest.json](./54160-jungle-quest.json) |
 | Jungle Ranger | 283855 | [283855-jungle-ranger.json](./283855-jungle-ranger.json) |
 | Jungle Rangers | 209857 | [209857-jungle-rangers.json](./209857-jungle-rangers.json) |
+| Jungle Resistance | 204600 | [204600-jungle-resistance.json](./204600-jungle-resistance.json) |
 | Jungle Rot | 351677 | [351677-jungle-rot.json](./351677-jungle-rot.json) |
 | Jungle Rumble | 158097 | [158097-jungle-rumble.json](./158097-jungle-rumble.json) |
 | Jungle Rumble: Freedom, Happiness and Bananas | 52534 | [52534-jungle-rumble-freedom-happiness-and-bananas.json](./52534-jungle-rumble-freedom-happiness-and-bananas.json) |
