@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Picross | 337002 | [337002-nature-picross.json](./337002-nature-picross.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
+| Nature Puzzle | 238708 | [238708-nature-puzzle.json](./238708-nature-puzzle.json) |
 | Nature Strikes Back | 143273 | [143273-nature-strikes-back.json](./143273-nature-strikes-back.json) |
 | Nature Treks VR | 29552 | [29552-nature-treks-vr.json](./29552-nature-treks-vr.json) |
 | Nature Treks: Healing With Color | 65589 | [65589-nature-treks-healing-with-color.json](./65589-nature-treks-healing-with-color.json) |
