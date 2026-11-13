@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine | 364119 | [364119-saturnine.json](./364119-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
+| Satus | 208520 | [208520-satus.json](./208520-satus.json) |
 | Sauce Factory Tycoon | 375701 | [375701-sauce-factory-tycoon.json](./375701-sauce-factory-tycoon.json) |
 | SauceLore | 265541 | [265541-saucelore.json](./265541-saucelore.json) |
 | Saucepanhead I: Pangalactic Panic | 389806 | [389806-saucepanhead-i-pangalactic-panic.json](./389806-saucepanhead-i-pangalactic-panic.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scare Crow | 187090 | [187090-scare-crow.json](./187090-scare-crow.json) |
 | Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
 | Scare Girl 2 | 266594 | [266594-scare-girl-2.json](./266594-scare-girl-2.json) |
+| Scare Train VR | 208534 | [208534-scare-train-vr.json](./208534-scare-train-vr.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scare: Project of Fear | 192210 | [192210-scare-project-of-fear.json](./192210-scare-project-of-fear.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
 | SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
 | SGS Okinawa | 226628 | [226628-sgs-okinawa.json](./226628-sgs-okinawa.json) |
+| SGS Operation Downfall | 208524 | [208524-sgs-operation-downfall.json](./208524-sgs-operation-downfall.json) |
 | SGS Operation Hawaii | 190398 | [190398-sgs-operation-hawaii.json](./190398-sgs-operation-hawaii.json) |
 | SGS Overlord | 295422 | [295422-sgs-overlord.json](./295422-sgs-overlord.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
@@ -7487,6 +7490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow the Hedgehog in Sonic the Hedgehog | 148165 | [148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
 | Shadow the Hedgehog: Reloaded | 221864 | [221864-shadow-the-hedgehog-reloaded.json](./221864-shadow-the-hedgehog-reloaded.json) |
 | Shadow the Plumber | 357447 | [357447-shadow-the-plumber.json](./357447-shadow-the-plumber.json) |
+| Shadow the Ronin: The Revenge to the Samurai | 208486 | [208486-shadow-the-ronin-the-revenge-to-the-samurai.json](./208486-shadow-the-ronin-the-revenge-to-the-samurai.json) |
 | Shadow Thief | 249115 | [249115-shadow-thief.json](./249115-shadow-thief.json) |
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
@@ -15259,6 +15263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
 | SlotCrawler | 384550 | [384550-slotcrawler.json](./384550-slotcrawler.json) |
 | Sloth Quest | 127439 | [127439-sloth-quest.json](./127439-sloth-quest.json) |
+| Sloth Simulator Almost | 208510 | [208510-sloth-simulator-almost.json](./208510-sloth-simulator-almost.json) |
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Sloth Tales | 149813 | [149813-sloth-tales.json](./149813-sloth-tales.json) |
 | Slothtopia | 251908 | [251908-slothtopia.json](./251908-slothtopia.json) |
@@ -15658,6 +15663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smarty Pants | 5161 | [5161-smarty-pants.json](./5161-smarty-pants.json) |
 | SmartyTale 2D | 114604 | [114604-smartytale-2d.json](./114604-smartytale-2d.json) |
+| Smash | 208492 | [208492-smash.json](./208492-smash.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
@@ -32713,6 +32719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
 | Summer Resort Mogul | 53683 | [53683-summer-resort-mogul.json](./53683-summer-resort-mogul.json) |
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
+| Summer Road | 208522 | [208522-summer-road.json](./208522-summer-road.json) |
 | Summer Rose Court | 125327 | [125327-summer-rose-court.json](./125327-summer-rose-court.json) |
 | Summer Sale | 32456 | [32456-summer-sale.json](./32456-summer-sale.json) |
 | Summer Santa | 60649 | [60649-summer-santa.json](./60649-summer-santa.json) |
