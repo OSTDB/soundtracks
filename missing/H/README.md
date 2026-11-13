@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru to Kaiya | 362164 | [362164-haru-to-kaiya.json](./362164-haru-to-kaiya.json) |
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
+| Haru: The Armada of the Astral Void | 238784 | [238784-haru-the-armada-of-the-astral-void.json](./238784-haru-the-armada-of-the-astral-void.json) |
 | Haruharu Yukiyuki: Visual Novel | 97421 | [97421-haruharu-yukiyuki-visual-novel.json](./97421-haruharu-yukiyuki-visual-novel.json) |
 | Haruiro Communication | 77849 | [77849-haruiro-communication.json](./77849-haruiro-communication.json) |
 | Harujion no Sakasekata | 396683 | [396683-harujion-no-sakasekata.json](./396683-harujion-no-sakasekata.json) |
