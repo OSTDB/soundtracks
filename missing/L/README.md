@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laboratory | 187646 | [187646-laboratory.json](./187646-laboratory.json) |
 | Laboratory 3D | 323664 | [323664-laboratory-3d.json](./323664-laboratory-3d.json) |
 | Laboratory Danger Madness | 336226 | [336226-laboratory-danger-madness.json](./336226-laboratory-danger-madness.json) |
+| Laboratory of Nightmares | 192937 | [192937-laboratory-of-nightmares.json](./192937-laboratory-of-nightmares.json) |
 | Laboratory Rat Escape Simulator Pro | 213213 | [213213-laboratory-rat-escape-simulator-pro.json](./213213-laboratory-rat-escape-simulator-pro.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
@@ -2960,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Nine Colored Deer | 287721 | [287721-legend-of-the-nine-colored-deer.json](./287721-legend-of-the-nine-colored-deer.json) |
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
+| Legend of the Outlaw Mage | 192865 | [192865-legend-of-the-outlaw-mage.json](./192865-legend-of-the-outlaw-mage.json) |
 | Legend Of The Platforms | 370625 | [370625-legend-of-the-platforms.json](./370625-legend-of-the-platforms.json) |
 | Legend of the Red Dragon | 73573 | [73573-legend-of-the-red-dragon.json](./73573-legend-of-the-red-dragon.json) |
 | Legend of the Red Dragon II: New World | 71843 | [71843-legend-of-the-red-dragon-ii-new-world.json](./71843-legend-of-the-red-dragon-ii-new-world.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Cold Girls | 291692 | [291692-looking-for-cold-girls.json](./291692-looking-for-cold-girls.json) |
 | Looking For Fael | 329478 | [329478-looking-for-fael.json](./329478-looking-for-fael.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
+| Looking for Imago | 192854 | [192854-looking-for-imago.json](./192854-looking-for-imago.json) |
 | Looking for Lokae | 240709 | [240709-looking-for-lokae.json](./240709-looking-for-lokae.json) |
 | Looking For Love | 294915 | [294915-looking-for-love.json](./294915-looking-for-love.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
