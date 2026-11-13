@@ -9996,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bomber! | 104428 | [104428-planet-bomber.json](./104428-planet-bomber.json) |
 | Planet Boom | 192732 | [192732-planet-boom.json](./192732-planet-boom.json) |
 | Planet Bounce | 127616 | [127616-planet-bounce.json](./127616-planet-bounce.json) |
+| Planet Bounce: Devastator DLC Pack | 171137 | [171137-planet-bounce-devastator-dlc-pack.json](./171137-planet-bounce-devastator-dlc-pack.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
 | Planet Builder - Create Your Own Solar System | 106924 | [106924-planet-builder-create-your-own-solar-system.json](./106924-planet-builder-create-your-own-solar-system.json) |
 | Planet Busters | 14908 | [14908-planet-busters.json](./14908-planet-busters.json) |
@@ -14312,6 +14313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
 | Portals of Phereon | 268548 | [268548-portals-of-phereon.json](./268548-portals-of-phereon.json) |
+| Portals World | 171123 | [171123-portals-world.json](./171123-portals-world.json) |
 | Portals: Escape the Infinity | 264151 | [264151-portals-escape-the-infinity.json](./264151-portals-escape-the-infinity.json) |
 | PortalSnake | 272204 | [272204-portalsnake.json](./272204-portalsnake.json) |
 | Portarius | 74850 | [74850-portarius.json](./74850-portarius.json) |
