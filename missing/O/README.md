@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
 | OneShot: The Tarion Machine | 222764 | [222764-oneshot-the-tarion-machine.json](./222764-oneshot-the-tarion-machine.json) |
 | OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
+| OneShotRogue | 197281 | [197281-oneshotrogue.json](./197281-oneshotrogue.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | OneStarHotel | 404630 | [404630-onestarhotel.json](./404630-onestarhotel.json) |
 | OneState | 291920 | [291920-onestate.json](./291920-onestate.json) |
@@ -4135,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit of Death | 129423 | [129423-orbit-of-death.json](./129423-orbit-of-death.json) |
 | Orbit of Eternity | 364279 | [364279-orbit-of-eternity.json](./364279-orbit-of-eternity.json) |
 | Orbit One | 405604 | [405604-orbit-one.json](./405604-orbit-one.json) |
+| Orbit or Beat: Extended Edition | 197288 | [197288-orbit-or-beat-extended-edition.json](./197288-orbit-or-beat-extended-edition.json) |
 | Orbit Outlaws | 155845 | [155845-orbit-outlaws.json](./155845-orbit-outlaws.json) |
 | Orbit Putt | 323779 | [323779-orbit-putt.json](./323779-orbit-putt.json) |
 | Orbit Puzzle | 312691 | [312691-orbit-puzzle.json](./312691-orbit-puzzle.json) |
