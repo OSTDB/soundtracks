@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Strange | 388086 | [388086-vapor-strange.json](./388086-vapor-strange.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapor Trail | 39996 | [39996-vapor-trail.json](./39996-vapor-trail.json) |
+| Vapor Trails | 177609 | [177609-vapor-trails.json](./177609-vapor-trails.json) |
 | Vapor TRX | 41075 | [41075-vapor-trx.json](./41075-vapor-trx.json) |
 | Vapor Up! With Man with Apple | 260622 | [260622-vapor-up-with-man-with-apple.json](./260622-vapor-up-with-man-with-apple.json) |
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velmora Online | 423263 | [423263-velmora-online.json](./423263-velmora-online.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
 | Velo Pro Racer | 359122 | [359122-velo-pro-racer.json](./359122-velo-pro-racer.json) |
+| Veloce | 177611 | [177611-veloce.json](./177611-veloce.json) |
 | Velocibeasts | 28361 | [28361-velocibeasts.json](./28361-velocibeasts.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
