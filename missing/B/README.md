@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batiman | 295595 | [295595-batiman.json](./295595-batiman.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
 | Batla: Tank | 172260 | [172260-batla-tank.json](./172260-batla-tank.json) |
+| Batlight Runner | 183100 | [183100-batlight-runner.json](./183100-batlight-runner.json) |
 | Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
 | Batman | 131964 | [131964-batman.json](./131964-batman.json) |
@@ -8275,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Klondike: Pyramid | 275075 | [275075-big-klondike-pyramid.json](./275075-big-klondike-pyramid.json) |
 | Big Klondike: Spider Solitaire | 271666 | [271666-big-klondike-spider-solitaire.json](./271666-big-klondike-spider-solitaire.json) |
 | Big Klondike: Tri Peaks Solitaire | 277350 | [277350-big-klondike-tri-peaks-solitaire.json](./277350-big-klondike-tri-peaks-solitaire.json) |
+| Big Larry | 183504 | [183504-big-larry.json](./183504-big-larry.json) |
 | Big League Slugger Baseball | 43878 | [43878-big-league-slugger-baseball.json](./43878-big-league-slugger-baseball.json) |
 | Big League Soccer | 13394 | [13394-big-league-soccer.json](./13394-big-league-soccer.json) |
 | Big League Soccer II | 13395 | [13395-big-league-soccer-ii.json](./13395-big-league-soccer-ii.json) |
