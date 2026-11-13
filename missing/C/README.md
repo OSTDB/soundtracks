@@ -9065,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmasville Blaster Saga | 235019 | [235019-christmasville-blaster-saga.json](./235019-christmasville-blaster-saga.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
+| Christopher Columbus | 221865 | [221865-christopher-columbus.json](./221865-christopher-columbus.json) |
 | Christopher Columbus is an Idiot | 57436 | [57436-christopher-columbus-is-an-idiot.json](./57436-christopher-columbus-is-an-idiot.json) |
 | Chrith: Ai no Tabidachi | 137980 | [137980-chrith-ai-no-tabidachi.json](./137980-chrith-ai-no-tabidachi.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
