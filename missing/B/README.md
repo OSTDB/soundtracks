@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Pop Remix | 64551 | [64551-balloon-pop-remix.json](./64551-balloon-pop-remix.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
 | Balloon Ride | 412625 | [412625-balloon-ride.json](./412625-balloon-ride.json) |
+| Balloon Saga | 171135 | [171135-balloon-saga.json](./171135-balloon-saga.json) |
 | Balloon Saga | 41912 | [41912-balloon-saga.json](./41912-balloon-saga.json) |
 | Balloon Slider Mania | 307371 | [307371-balloon-slider-mania.json](./307371-balloon-slider-mania.json) |
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
@@ -4425,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
 | Battle Scars Eternal Stars | 291795 | [291795-battle-scars-eternal-stars.json](./291795-battle-scars-eternal-stars.json) |
+| Battle Scooter: Training Chamber | 171645 | [171645-battle-scooter-training-chamber.json](./171645-battle-scooter-training-chamber.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Shadow Arena | 350164 | [350164-battle-shadow-arena.json](./350164-battle-shadow-arena.json) |
 | Battle Shanghai: Dragon's Eye | 314220 | [314220-battle-shanghai-dragons-eye.json](./314220-battle-shanghai-dragons-eye.json) |
@@ -11684,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
 | Blocked-Out! | 305805 | [305805-blocked-out.json](./305805-blocked-out.json) |
 | Blocked! | 207580 | [207580-blocked.json](./207580-blocked.json) |
+| Blockee | 171130 | [171130-blockee.json](./171130-blockee.json) |
 | Blocker | 15678 | [15678-blocker.json](./15678-blocker.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
