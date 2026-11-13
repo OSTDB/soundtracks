@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
 | Vampire: The Masquerade - Coteries of New York | 119225 | [119225-vampire-the-masquerade-coteries-of-new-york.json](./119225-vampire-the-masquerade-coteries-of-new-york.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
+| Vampire: The Masquerade - Coteries of New York & Shadows of New York: Collector's Edition | 201063 | [201063-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york-collectors-edition.json](./201063-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york-collectors-edition.json) |
 | Vampire: The Masquerade - Coteries of New York Deluxe Edition | 154227 | [154227-vampire-the-masquerade-coteries-of-new-york-deluxe-edition.json](./154227-vampire-the-masquerade-coteries-of-new-york-deluxe-edition.json) |
 | Vampire: The Masquerade - Eternal Whispers | 405157 | [405157-vampire-the-masquerade-eternal-whispers.json](./405157-vampire-the-masquerade-eternal-whispers.json) |
 | Vampire: The Masquerade - Heartless Lullaby | 197222 | [197222-vampire-the-masquerade-heartless-lullaby.json](./197222-vampire-the-masquerade-heartless-lullaby.json) |
@@ -2041,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
 | ViColumn | 78316 | [78316-vicolumn.json](./78316-vicolumn.json) |
 | ViCrew | 331165 | [331165-vicrew.json](./331165-vicrew.json) |
+| Victim | 201060 | [201060-victim.json](./201060-victim.json) |
 | Victim 10 PM | 358336 | [358336-victim-10-pm.json](./358336-victim-10-pm.json) |
 | Victim Cache: The RPG | 54973 | [54973-victim-cache-the-rpg.json](./54973-victim-cache-the-rpg.json) |
 | Victim Complex | 289916 | [289916-victim-complex.json](./289916-victim-complex.json) |
