@@ -12470,6 +12470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety Mori | 426026 | [426026-anxiety-mori.json](./426026-anxiety-mori.json) |
 | Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
+| Anxiety Wires | 203472 | [203472-anxiety-wires.json](./203472-anxiety-wires.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Anxiety.exe | 219711 | [219711-anxiety-exe.json](./219711-anxiety-exe.json) |
 | Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
