@@ -10200,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena: Season 1 | 139049 | [139049-rocket-arena-season-1.json](./139049-rocket-arena-season-1.json) |
 | Rocket Arena: Season 2 | 144043 | [144043-rocket-arena-season-2.json](./144043-rocket-arena-season-2.json) |
 | Rocket Arena: Season 3 | 144044 | [144044-rocket-arena-season-3.json](./144044-rocket-arena-season-3.json) |
+| Rocket Arena: Season 4 | 198268 | [198268-rocket-arena-season-4.json](./198268-rocket-arena-season-4.json) |
 | Rocket Armor | 76363 | [76363-rocket-armor.json](./76363-rocket-armor.json) |
 | Rocket Assault | 104348 | [104348-rocket-assault.json](./104348-rocket-assault.json) |
 | Rocket Ball | 41129 | [41129-rocket-ball.json](./41129-rocket-ball.json) |
@@ -10317,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 23 | 407432 | [407432-rocket-league-season-23.json](./407432-rocket-league-season-23.json) |
 | Rocket League: Season 24 | 421450 | [421450-rocket-league-season-24.json](./421450-rocket-league-season-24.json) |
 | Rocket League: Season 3 | 159225 | [159225-rocket-league-season-3.json](./159225-rocket-league-season-3.json) |
+| Rocket League: Season 4 | 198277 | [198277-rocket-league-season-4.json](./198277-rocket-league-season-4.json) |
 | Rocket League: Season 5 | 198278 | [198278-rocket-league-season-5.json](./198278-rocket-league-season-5.json) |
 | Rocket League: Season 6 | 198279 | [198279-rocket-league-season-6.json](./198279-rocket-league-season-6.json) |
 | Rocket League: Season 7 | 204462 | [204462-rocket-league-season-7.json](./204462-rocket-league-season-7.json) |
@@ -11938,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Doom | 241114 | [241114-rooms-of-doom.json](./241114-rooms-of-doom.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
+| Rooms of Realities | 198434 | [198434-rooms-of-realities.json](./198434-rooms-of-realities.json) |
 | Rooms Within | 226487 | [226487-rooms-within.json](./226487-rooms-within.json) |
 | Rooms: The Adventure of Anne & George | 110803 | [110803-rooms-the-adventure-of-anne-and-george.json](./110803-rooms-the-adventure-of-anne-and-george.json) |
 | Rooms: The Main Building | 5130 | [5130-rooms-the-main-building.json](./5130-rooms-the-main-building.json) |
