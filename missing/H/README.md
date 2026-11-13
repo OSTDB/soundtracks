@@ -5127,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help: The Game | 32624 | [32624-help-the-game.json](./32624-help-the-game.json) |
+| Help! | 224862 | [224862-help.json](./224862-help.json) |
 | Help! I Need to Stretch Out for Valentines Day! | 210472 | [210472-help-i-need-to-stretch-out-for-valentines-day.json](./210472-help-i-need-to-stretch-out-for-valentines-day.json) |
 | Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
 | Help! I'm Turning Into a Mermaid! | 407892 | [407892-help-im-turning-into-a-mermaid.json](./407892-help-im-turning-into-a-mermaid.json) |
@@ -9318,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
 | Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 | 245615 | [245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json](./245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json) |
+| Hiyoko Fighter | 224856 | [224856-hiyoko-fighter.json](./224856-hiyoko-fighter.json) |
 | Hiyoku no Tori | 237758 | [237758-hiyoku-no-tori.json](./237758-hiyoku-no-tori.json) |
 | Hiyoru | 421255 | [421255-hiyoru.json](./421255-hiyoru.json) |
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
