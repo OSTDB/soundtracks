@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebelmer | 319604 | [319604-nebelmer.json](./319604-nebelmer.json) |
 | Nebo | 182927 | [182927-nebo.json](./182927-nebo.json) |
 | Neboslav | 285118 | [285118-neboslav.json](./285118-neboslav.json) |
+| Nebraska | 188620 | [188620-nebraska.json](./188620-nebraska.json) |
 | Nebs | 159183 | [159183-nebs.json](./159183-nebs.json) |
 | Nebs 'n Debs | 134460 | [134460-nebs-n-debs.json](./134460-nebs-n-debs.json) |
 | Nebs' Island Adventure | 349496 | [349496-nebs-island-adventure.json](./349496-nebs-island-adventure.json) |
