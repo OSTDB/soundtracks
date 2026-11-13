@@ -5118,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla Breaks the World! | 17652 | [17652-tesla-breaks-the-world.json](./17652-tesla-breaks-the-world.json) |
 | Tesla Force | 124029 | [124029-tesla-force.json](./124029-tesla-force.json) |
 | Tesla Legacy | 209190 | [209190-tesla-legacy.json](./209190-tesla-legacy.json) |
+| Tesla Motors Simulator | 182954 | [182954-tesla-motors-simulator.json](./182954-tesla-motors-simulator.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
 | Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
@@ -6501,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art Collector | 310827 | [310827-the-art-collector.json](./310827-the-art-collector.json) |
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
+| The Art of Driving | 182964 | [182964-the-art-of-driving.json](./182964-the-art-of-driving.json) |
 | The Art of Fight | 27415 | [27415-the-art-of-fight.json](./27415-the-art-of-fight.json) |
 | The Art of Flight | 195890 | [195890-the-art-of-flight.json](./195890-the-art-of-flight.json) |
 | The Art of Fly Fishing: Volume One - Rivers of the British Isles | 207121 | [207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json](./207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json) |
@@ -9405,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dying Mind | 416259 | [416259-the-dying-mind.json](./416259-the-dying-mind.json) |
 | The Dynastic Hero | 37601 | [37601-the-dynastic-hero.json](./37601-the-dynastic-hero.json) |
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
+| The Dynasty: American Dream | 182434 | [182434-the-dynasty-american-dream.json](./182434-the-dynasty-american-dream.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
 | The Eagle Keita | 384572 | [384572-the-eagle-keita.json](./384572-the-eagle-keita.json) |
@@ -10945,6 +10948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gilded Lady: Life and Love in a Cyborg Shop | 391984 | [391984-the-gilded-lady-life-and-love-in-a-cyborg-shop.json](./391984-the-gilded-lady-life-and-love-in-a-cyborg-shop.json) |
 | The Giraffe G | 210925 | [210925-the-giraffe-g.json](./210925-the-giraffe-g.json) |
 | The Giraffe World | 174095 | [174095-the-giraffe-world.json](./174095-the-giraffe-world.json) |
+| The Girl and the Angel | 182575 | [182575-the-girl-and-the-angel.json](./182575-the-girl-and-the-angel.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
 | The Girl from Arkanya | 140818 | [140818-the-girl-from-arkanya.json](./140818-the-girl-from-arkanya.json) |
 | The Girl From Gunma Kai | 344884 | [344884-the-girl-from-gunma-kai.json](./344884-the-girl-from-gunma-kai.json) |
@@ -29902,6 +29906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Jump | 392636 | [392636-toxic-jump.json](./392636-toxic-jump.json) |
 | Toxic Marriage Punisher | 418748 | [418748-toxic-marriage-punisher.json](./418748-toxic-marriage-punisher.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
+| Toxic Pink! | 182579 | [182579-toxic-pink.json](./182579-toxic-pink.json) |
 | Toxic Place | 298203 | [298203-toxic-place.json](./298203-toxic-place.json) |
 | Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
 | Toxic Terror | 32430 | [32430-toxic-terror.json](./32430-toxic-terror.json) |
