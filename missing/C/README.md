@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Break | 46084 | [46084-chaos-break.json](./46084-chaos-break.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
+| Chaos Brigade | 190757 | [190757-chaos-brigade.json](./190757-chaos-brigade.json) |
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Chain | 188726 | [188726-chaos-chain.json](./188726-chaos-chain.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Devi! 2: Mahou no Yume Ehon | 222340 | [222340-chibi-devi-2-mahou-no-yume-ehon.json](./222340-chibi-devi-2-mahou-no-yume-ehon.json) |
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
+| Chibi Girl vs. Evil Zombie Dead | 190751 | [190751-chibi-girl-vs-evil-zombie-dead.json](./190751-chibi-girl-vs-evil-zombie-dead.json) |
 | Chibi Horror: The School | 156039 | [156039-chibi-horror-the-school.json](./156039-chibi-horror-the-school.json) |
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
 | Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
@@ -16360,6 +16362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse58 | 320090 | [320090-corpse58.json](./320090-corpse58.json) |
 | Corpsefall | 167547 | [167547-corpsefall.json](./167547-corpsefall.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
+| CorpseOcean | 190765 | [190765-corpseocean.json](./190765-corpseocean.json) |
 | Corpses 'N Souls | 11066 | [11066-corpses-n-souls.json](./11066-corpses-n-souls.json) |
 | Corpses & Custards Character Creator | 179841 | [179841-corpses-and-custards-character-creator.json](./179841-corpses-and-custards-character-creator.json) |
 | Corpus Edax | 207444 | [207444-corpus-edax.json](./207444-corpus-edax.json) |
@@ -20262,6 +20265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Rush | 352615 | [352615-crush-rush.json](./352615-crush-rush.json) |
 | Crush the Castle 2 | 192099 | [192099-crush-the-castle-2.json](./192099-crush-the-castle-2.json) |
 | Crush the Castle 2 Players Pack | 399454 | [399454-crush-the-castle-2-players-pack.json](./399454-crush-the-castle-2-players-pack.json) |
+| Crush the Castle Legacy Collection | 191138 | [191138-crush-the-castle-legacy-collection.json](./191138-crush-the-castle-legacy-collection.json) |
 | Crush the Castle Players Pack | 399453 | [399453-crush-the-castle-players-pack.json](./399453-crush-the-castle-players-pack.json) |
 | Crush the Castle TD | 399451 | [399451-crush-the-castle-td.json](./399451-crush-the-castle-td.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
