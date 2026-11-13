@@ -10864,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Mini Racer | 370057 | [370057-dirt-bike-mini-racer.json](./370057-dirt-bike-mini-racer.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
+| Dirt Bike Racing Duel | 213072 | [213072-dirt-bike-racing-duel.json](./213072-dirt-bike-racing-duel.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
 | Dirt Bike Unchained | 196432 | [196432-dirt-bike-unchained.json](./196432-dirt-bike-unchained.json) |
 | Dirt Bike: Unlimited Bike Experience | 296895 | [296895-dirt-bike-unlimited-bike-experience.json](./296895-dirt-bike-unlimited-bike-experience.json) |
@@ -17623,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcatcher Apparatus | 257136 | [257136-dreamcatcher-apparatus.json](./257136-dreamcatcher-apparatus.json) |
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | DreamCell: Lost in Nightmares | 211601 | [211601-dreamcell-lost-in-nightmares.json](./211601-dreamcell-lost-in-nightmares.json) |
+| Dreamcharger | 213518 | [213518-dreamcharger.json](./213518-dreamcharger.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore: Rabbit Hole | 380371 | [380371-dreamcore-rabbit-hole.json](./380371-dreamcore-rabbit-hole.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
