@@ -6910,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet: 3 Dia de Muertos Big Toggle Costume | 321185 | [321185-littlebigplanet-3-dia-de-muertos-big-toggle-costume.json](./321185-littlebigplanet-3-dia-de-muertos-big-toggle-costume.json) |
 | LittleBigPlanet: Game of the Year Edition | 21846 | [21846-littlebigplanet-game-of-the-year-edition.json](./21846-littlebigplanet-game-of-the-year-edition.json) |
 | LittleBigPlanet: Marvel Super Hero Edition | 147222 | [147222-littlebigplanet-marvel-super-hero-edition.json](./147222-littlebigplanet-marvel-super-hero-edition.json) |
+| LittleBigPlanet: Metal Gear Solid Level Kit | 194520 | [194520-littlebigplanet-metal-gear-solid-level-kit.json](./194520-littlebigplanet-metal-gear-solid-level-kit.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
 | LittleBigPlanet: Sack-Eating Plant Costume | 321186 | [321186-littlebigplanet-sack-eating-plant-costume.json](./321186-littlebigplanet-sack-eating-plant-costume.json) |
 | LittleBigPlanet: Sackboy's Prehistoric Moves | 6364 | [6364-littlebigplanet-sackboys-prehistoric-moves.json](./6364-littlebigplanet-sackboys-prehistoric-moves.json) |
@@ -9916,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovesick | 306933 | [306933-lovesick.json](./306933-lovesick.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
+| LoveUnholyc | 194526 | [194526-loveunholyc.json](./194526-loveunholyc.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
 | LoveXLust | 279550 | [279550-lovexlust.json](./279550-lovexlust.json) |
 | Lovey Dovey | 268266 | [268266-lovey-dovey.json](./268266-lovey-dovey.json) |
