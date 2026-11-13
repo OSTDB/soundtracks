@@ -4279,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
 | Nice Bowling | 129953 | [129953-nice-bowling.json](./129953-nice-bowling.json) |
+| Nice Cats | 222582 | [222582-nice-cats.json](./222582-nice-cats.json) |
 | Nice City | 373490 | [373490-nice-city.json](./373490-nice-city.json) |
 | Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
 | Nice Day for Fishing: Legendary DLC | 343550 | [343550-nice-day-for-fishing-legendary-dlc.json](./343550-nice-day-for-fishing-legendary-dlc.json) |
