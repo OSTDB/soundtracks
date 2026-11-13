@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapland Solitaire | 34626 | [34626-lapland-solitaire.json](./34626-lapland-solitaire.json) |
 | Lappelduvide | 304639 | [304639-lappelduvide.json](./304639-lappelduvide.json) |
 | Lappy Games | 364997 | [364997-lappy-games.json](./364997-lappy-games.json) |
+| Laps Fuse: Puzzle with Numbers | 233732 | [233732-laps-fuse-puzzle-with-numbers.json](./233732-laps-fuse-puzzle-with-numbers.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapse 2: Before Zero | 134477 | [134477-lapse-2-before-zero.json](./134477-lapse-2-before-zero.json) |
 | Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | Lego Jurassic World DLC Pack | 264430 | [264430-lego-jurassic-world-dlc-pack.json](./264430-lego-jurassic-world-dlc-pack.json) |
 | LEGO Knights' Kingdom | 6498 | [6498-lego-knights-kingdom.json](./6498-lego-knights-kingdom.json) |
+| LEGO Legends of Chima Online | 233277 | [233277-lego-legends-of-chima-online.json](./233277-lego-legends-of-chima-online.json) |
 | LEGO Legends of Chima: Laval's Journey | 6839 | [6839-lego-legends-of-chima-lavals-journey.json](./6839-lego-legends-of-chima-lavals-journey.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
 | LEGO Mars Mission: CrystAlien Conflict | 153692 | [153692-lego-mars-mission-crystalien-conflict.json](./153692-lego-mars-mission-crystalien-conflict.json) |
@@ -4043,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Read: An Ocean Adventure | 313376 | [313376-lets-go-read-an-ocean-adventure.json](./313376-lets-go-read-an-ocean-adventure.json) |
 | Let's Go Rocket | 345266 | [345266-lets-go-rocket.json](./345266-lets-go-rocket.json) |
 | Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
+| Let's Go Safari | 233286 | [233286-lets-go-safari.json](./233286-lets-go-safari.json) |
 | Let's Go There and Wander Nowhere | 103802 | [103802-lets-go-there-and-wander-nowhere.json](./103802-lets-go-there-and-wander-nowhere.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
