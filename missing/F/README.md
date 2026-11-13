@@ -10708,6 +10708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Showdown: Cat Hero Battle | 293975 | [293975-forest-showdown-cat-hero-battle.json](./293975-forest-showdown-cat-hero-battle.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest Smasher | 337413 | [337413-forest-smasher.json](./337413-forest-smasher.json) |
+| Forest Song | 177992 | [177992-forest-song.json](./177992-forest-song.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
 | Forest Spirit | 261679 | [261679-forest-spirit.json](./261679-forest-spirit.json) |
 | Forest Spirit | 406266 | [406266-forest-spirit.json](./406266-forest-spirit.json) |
@@ -13216,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friend Sighting | 129662 | [129662-friend-sighting.json](./129662-friend-sighting.json) |
 | Friendbase | 114642 | [114642-friendbase.json](./114642-friendbase.json) |
 | Friender Bender | 185207 | [185207-friender-bender.json](./185207-friender-bender.json) |
+| Friendgun | 177601 | [177601-friendgun.json](./177601-friendgun.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Arena | 150946 | [150946-friendly-arena.json](./150946-friendly-arena.json) |
 | Friendly Blonding | 213527 | [213527-friendly-blonding.json](./213527-friendly-blonding.json) |
