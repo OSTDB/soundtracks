@@ -28621,6 +28621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Conflicts | 414045 | [414045-stellar-conflicts.json](./414045-stellar-conflicts.json) |
 | Stellar Conquest | 248595 | [248595-stellar-conquest.json](./248595-stellar-conquest.json) |
 | Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
+| Stellar Dawn | 241092 | [241092-stellar-dawn.json](./241092-stellar-dawn.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
 | Stellar Destiny: The Last Survivor | 350427 | [350427-stellar-destiny-the-last-survivor.json](./350427-stellar-destiny-the-last-survivor.json) |
 | Stellar Docks | 327978 | [327978-stellar-docks.json](./327978-stellar-docks.json) |
@@ -32394,6 +32395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer at the Edge of the Universe | 285617 | [285617-summer-at-the-edge-of-the-universe.json](./285617-summer-at-the-edge-of-the-universe.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Athletics 2009 | 21111 | [21111-summer-athletics-2009.json](./21111-summer-athletics-2009.json) |
+| Summer BBQ: Grilled Barbeque | 241085 | [241085-summer-bbq-grilled-barbeque.json](./241085-summer-bbq-grilled-barbeque.json) |
 | Summer Beach | 275510 | [275510-summer-beach.json](./275510-summer-beach.json) |
 | Summer Beach Trip | 367560 | [367560-summer-beach-trip.json](./367560-summer-beach-trip.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
@@ -34436,23 +34438,46 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3 | 170021 | [170021-super-mario-advance-4-super-mario-bros-3.json](./170021-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3 | 296153 | [296153-super-mario-advance-4-super-mario-bros-3.json](./296153-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3 | 296161 | [296161-super-mario-advance-4-super-mario-bros-3.json](./296161-super-mario-advance-4-super-mario-bros-3.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - A Musical Trek | 241004 | [241004-super-mario-advance-4-super-mario-bros-3-e-a-musical-trek.json](./241004-super-mario-advance-4-super-mario-bros-3-e-a-musical-trek.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - A Sky-High Adventure | 241007 | [241007-super-mario-advance-4-super-mario-bros-3-e-a-sky-high-adventure.json](./241007-super-mario-advance-4-super-mario-bros-3-e-a-sky-high-adventure.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - A Towering Tour | 241014 | [241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json](./241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - An Aqueous Adventure | 241020 | [241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json](./241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Armored Airship | 241005 | [241005-super-mario-advance-4-super-mario-bros-3-e-armored-airship.json](./241005-super-mario-advance-4-super-mario-bros-3-e-armored-airship.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Bombarded by Bob-ombs | 240998 | [240998-super-mario-advance-4-super-mario-bros-3-e-bombarded-by-bob-ombs.json](./240998-super-mario-advance-4-super-mario-bros-3-e-bombarded-by-bob-ombs.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 1 | 241023 | [241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json](./241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 2 | 241024 | [241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json](./241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Last Stand | 241021 | [241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json](./241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Cape | 296168 | [296168-super-mario-advance-4-super-mario-bros-3-e-cape.json](./296168-super-mario-advance-4-super-mario-bros-3-e-cape.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Caped Escape | 241018 | [241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json](./241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Castle Dash | 241015 | [241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json](./241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-2 | 240990 | [240990-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-2.json](./240990-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-2.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-3 | 240991 | [240991-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-3.json](./240991-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-3.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 1-4 | 240992 | [240992-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-4.json](./240992-super-mario-advance-4-super-mario-bros-3-e-classic-world-1-4.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Classic World 2-2 | 240993 | [240993-super-mario-advance-4-super-mario-bros-3-e-classic-world-2-2.json](./240993-super-mario-advance-4-super-mario-bros-3-e-classic-world-2-2.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Doors o' Plenty | 240997 | [240997-super-mario-advance-4-super-mario-bros-3-e-doors-o-plenty.json](./240997-super-mario-advance-4-super-mario-bros-3-e-doors-o-plenty.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Ground Work | 241019 | [241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json](./241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Ice Cubed | 241012 | [241012-super-mario-advance-4-super-mario-bros-3-e-ice-cubed.json](./241012-super-mario-advance-4-super-mario-bros-3-e-ice-cubed.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Ice Dungeon | 241006 | [241006-super-mario-advance-4-super-mario-bros-3-e-ice-dungeon.json](./241006-super-mario-advance-4-super-mario-bros-3-e-ice-dungeon.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - It's a Shoe-In | 241010 | [241010-super-mario-advance-4-super-mario-bros-3-e-its-a-shoe-in.json](./241010-super-mario-advance-4-super-mario-bros-3-e-its-a-shoe-in.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Koopaling Confusion | 241022 | [241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json](./241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Magical Note Blocks | 240999 | [240999-super-mario-advance-4-super-mario-bros-3-e-magical-note-blocks.json](./240999-super-mario-advance-4-super-mario-bros-3-e-magical-note-blocks.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - No Time to Dawdle | 241026 | [241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json](./241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Para Beetle Challenge | 241003 | [241003-super-mario-advance-4-super-mario-bros-3-e-para-beetle-challenge.json](./241003-super-mario-advance-4-super-mario-bros-3-e-para-beetle-challenge.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Piped Full of Plants | 241001 | [241001-super-mario-advance-4-super-mario-bros-3-e-piped-full-of-plants.json](./241001-super-mario-advance-4-super-mario-bros-3-e-piped-full-of-plants.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Puzzling Pipe Maze | 241013 | [241013-super-mario-advance-4-super-mario-bros-3-e-puzzling-pipe-maze.json](./241013-super-mario-advance-4-super-mario-bros-3-e-puzzling-pipe-maze.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Rich with Ropes | 241016 | [241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json](./241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Sea to Sky | 241008 | [241008-super-mario-advance-4-super-mario-bros-3-e-sea-to-sky.json](./241008-super-mario-advance-4-super-mario-bros-3-e-sea-to-sky.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Series 1 | 170000 | [170000-super-mario-advance-4-super-mario-bros-3-e-series-1.json](./170000-super-mario-advance-4-super-mario-bros-3-e-series-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Series 2 | 241033 | [241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json](./241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Slidin' the Slopes | 240995 | [240995-super-mario-advance-4-super-mario-bros-3-e-slidin-the-slopes.json](./240995-super-mario-advance-4-super-mario-bros-3-e-slidin-the-slopes.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Slip Slidin' Away | 241011 | [241011-super-mario-advance-4-super-mario-bros-3-e-slip-slidin-away.json](./241011-super-mario-advance-4-super-mario-bros-3-e-slip-slidin-away.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Swinging Bars of Doom | 241002 | [241002-super-mario-advance-4-super-mario-bros-3-e-swinging-bars-of-doom.json](./241002-super-mario-advance-4-super-mario-bros-3-e-swinging-bars-of-doom.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - The ol' Switcheroo | 241000 | [241000-super-mario-advance-4-super-mario-bros-3-e-the-ol-switcheroo.json](./241000-super-mario-advance-4-super-mario-bros-3-e-the-ol-switcheroo.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Vegetable Volley | 240996 | [240996-super-mario-advance-4-super-mario-bros-3-e-vegetable-volley.json](./240996-super-mario-advance-4-super-mario-bros-3-e-vegetable-volley.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Wild Ride in the Sky | 240994 | [240994-super-mario-advance-4-super-mario-bros-3-e-wild-ride-in-the-sky.json](./240994-super-mario-advance-4-super-mario-bros-3-e-wild-ride-in-the-sky.json) |
 | Super Mario Adventure | 314117 | [314117-super-mario-adventure.json](./314117-super-mario-adventure.json) |
 | Super Mario Adventure | 381752 | [381752-super-mario-adventure.json](./381752-super-mario-adventure.json) |
 | Super Mario Aftermath | 314128 | [314128-super-mario-aftermath.json](./314128-super-mario-aftermath.json) |
