@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text or Die | 212553 | [212553-text-or-die.json](./212553-text-or-die.json) |
 | Text RPG | 169740 | [169740-text-rpg.json](./169740-text-rpg.json) |
 | Text Tiles | 46564 | [46564-text-tiles.json](./46564-text-tiles.json) |
+| Text Twist 3 | 243876 | [243876-text-twist-3.json](./243876-text-twist-3.json) |
 | Text Twist Classic | 249956 | [249956-text-twist-classic.json](./249956-text-twist-classic.json) |
 | Text Twist Pro | 69109 | [69109-text-twist-pro.json](./69109-text-twist-pro.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
@@ -16848,6 +16849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the Incredible Machine: Contraptions | 51401 | [51401-the-return-of-the-incredible-machine-contraptions.json](./51401-the-return-of-the-incredible-machine-contraptions.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
+| The Return to Bloody Nights | 244000 | [244000-the-return-to-bloody-nights.json](./244000-the-return-to-bloody-nights.json) |
 | The Return To Freddy's 2 | 401704 | [401704-the-return-to-freddys-2.json](./401704-the-return-to-freddys-2.json) |
 | The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
@@ -17117,6 +17119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runes of Kalevala | 293303 | [293303-the-runes-of-kalevala.json](./293303-the-runes-of-kalevala.json) |
 | The Runes of Zendos | 299696 | [299696-the-runes-of-zendos.json](./299696-the-runes-of-zendos.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
+| The Runic Conjecture | 243991 | [243991-the-runic-conjecture.json](./243991-the-runic-conjecture.json) |
 | The Runner | 377317 | [377317-the-runner.json](./377317-the-runner.json) |
 | The Runner | 64036 | [64036-the-runner.json](./64036-the-runner.json) |
 | The Running Dead | 183333 | [183333-the-running-dead.json](./183333-the-running-dead.json) |
@@ -18503,6 +18506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stick Figure Game | 344726 | [344726-the-stick-figure-game.json](./344726-the-stick-figure-game.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
+| The Stig IV | 243909 | [243909-the-stig-iv.json](./243909-the-stig-iv.json) |
 | The Still | 373826 | [373826-the-still.json](./373826-the-still.json) |
 | The Stillness of the Wind | 96275 | [96275-the-stillness-of-the-wind.json](./96275-the-stillness-of-the-wind.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
@@ -27474,6 +27478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Team | 236337 | [236337-toon-team.json](./236337-toon-team.json) |
 | Toon Toon Racing | 244650 | [244650-toon-toon-racing.json](./244650-toon-toon-racing.json) |
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
+| Toon Tumble | 243873 | [243873-toon-tumble.json](./243873-toon-tumble.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Toon-Doku | 20700 | [20700-toon-doku.json](./20700-toon-doku.json) |
@@ -29071,6 +29076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
 | Tower Girls | 344125 | [344125-tower-girls.json](./344125-tower-girls.json) |
+| Tower Gun: Zombie Shooter 3D | 243992 | [243992-tower-gun-zombie-shooter-3d.json](./243992-tower-gun-zombie-shooter-3d.json) |
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
 | Tower Hover | 314684 | [314684-tower-hover.json](./314684-tower-hover.json) |
 | Tower Hunter: Erza's Trial | 104186 | [104186-tower-hunter-erzas-trial.json](./104186-tower-hunter-erzas-trial.json) |
