@@ -7823,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | Alien3: The Gun | 38520 | [38520-alien3-the-gun.json](./38520-alien3-the-gun.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
+| Alienate!: A Trivia Game | 217438 | [217438-alienate-a-trivia-game.json](./217438-alienate-a-trivia-game.json) |
 | Alienated | 259790 | [259790-alienated.json](./259790-alienated.json) |
 | Alienated 2 | 241610 | [241610-alienated-2.json](./241610-alienated-2.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
@@ -16636,6 +16637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
 | Asmodeus's Hell: Devil in the Sunshine State | 225753 | [225753-asmodeuss-hell-devil-in-the-sunshine-state.json](./225753-asmodeuss-hell-devil-in-the-sunshine-state.json) |
+| ASMR Food Experience | 217427 | [217427-asmr-food-experience.json](./217427-asmr-food-experience.json) |
 | ASMR Journey: Animated Jigsaw Puzzle | 162215 | [162215-asmr-journey-animated-jigsaw-puzzle.json](./162215-asmr-journey-animated-jigsaw-puzzle.json) |
 | ASMR Lightness: Light painting | 148417 | [148417-asmr-lightness-light-painting.json](./148417-asmr-lightness-light-painting.json) |
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
@@ -16887,6 +16889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
 | Assassin's Creed Valhalla: Shared History | 325329 | [325329-assassins-creed-valhalla-shared-history.json](./325329-assassins-creed-valhalla-shared-history.json) |
+| Assassin's Creed Valhalla: The Last Chapter | 217563 | [217563-assassins-creed-valhalla-the-last-chapter.json](./217563-assassins-creed-valhalla-the-last-chapter.json) |
 | Assassin's Creed Valhalla: The Legend of Beowulf | 323775 | [323775-assassins-creed-valhalla-the-legend-of-beowulf.json](./323775-assassins-creed-valhalla-the-legend-of-beowulf.json) |
 | Assassin's Creed Valhalla: The Way of the Berserker | 150042 | [150042-assassins-creed-valhalla-the-way-of-the-berserker.json](./150042-assassins-creed-valhalla-the-way-of-the-berserker.json) |
 | Assassin's Creed Valhalla: Title Update 1.5.1 | 222819 | [222819-assassins-creed-valhalla-title-update-1-5-1.json](./222819-assassins-creed-valhalla-title-update-1-5-1.json) |
@@ -17542,6 +17545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
+| Astro | 217425 | [217425-astro.json](./217425-astro.json) |
 | Astro | 336250 | [336250-astro.json](./336250-astro.json) |
 | Astro & Luna vs. The Entire Solar System | 219200 | [219200-astro-and-luna-vs-the-entire-solar-system.json](./219200-astro-and-luna-vs-the-entire-solar-system.json) |
 | Astro & Suzy Go to the Beach | 234284 | [234284-astro-and-suzy-go-to-the-beach.json](./234284-astro-and-suzy-go-to-the-beach.json) |
