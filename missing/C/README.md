@@ -10730,6 +10730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Glory | 196408 | [196408-clash-of-glory.json](./196408-clash-of-glory.json) |
+| Clash of Gods | 193986 | [193986-clash-of-gods.json](./193986-clash-of-gods.json) |
 | Clash of Golf Friends | 181991 | [181991-clash-of-golf-friends.json](./181991-clash-of-golf-friends.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Kings | 15200 | [15200-clash-of-kings.json](./15200-clash-of-kings.json) |
@@ -19570,6 +19571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Concerto | 368707 | [368707-cross-concerto.json](./368707-cross-concerto.json) |
+| Cross Core | 193899 | [193899-cross-core.json](./193899-cross-core.json) |
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Court Tennis 2 | 332906 | [332906-cross-court-tennis-2.json](./332906-cross-court-tennis-2.json) |
