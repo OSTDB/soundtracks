@@ -6629,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
 | Pico Racer | 135776 | [135776-pico-racer.json](./135776-pico-racer.json) |
 | Pico Rally | 237738 | [237738-pico-rally.json](./237738-pico-rally.json) |
+| Pico Room4Joy | 181285 | [181285-pico-room4joy.json](./181285-pico-room4joy.json) |
 | Pico Ru8ik | 383082 | [383082-pico-ru8ik.json](./383082-pico-ru8ik.json) |
 | Pico Sim Date 2 | 276253 | [276253-pico-sim-date-2.json](./276253-pico-sim-date-2.json) |
 | Pico Snail! Dream Castle | 152748 | [152748-pico-snail-dream-castle.json](./152748-pico-snail-dream-castle.json) |
@@ -6655,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
 | PiColumns | 163136 | [163136-picolumns.json](./163136-picolumns.json) |
 | Picoman Go | 284321 | [284321-picoman-go.json](./284321-picoman-go.json) |
+| Picomin | 181262 | [181262-picomin.json](./181262-picomin.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
 | Picontier | 70860 | [70860-picontier.json](./70860-picontier.json) |
 | PicoPico Pirates | 150589 | [150589-picopico-pirates.json](./150589-picopico-pirates.json) |
@@ -8078,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer Space Sim | 179050 | [179050-pioneer-space-sim.json](./179050-pioneer-space-sim.json) |
 | Pioneer Trail | 92385 | [92385-pioneer-trail.json](./92385-pioneer-trail.json) |
 | Pioneering - Explore the Early American West | 54289 | [54289-pioneering-explore-the-early-american-west.json](./54289-pioneering-explore-the-early-american-west.json) |
+| Pioneers | 181276 | [181276-pioneers.json](./181276-pioneers.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
 | Pioneers of New World | 336724 | [336724-pioneers-of-new-world.json](./336724-pioneers-of-new-world.json) |
 | Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
@@ -14521,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
 | Potion Brew | 236552 | [236552-potion-brew.json](./236552-potion-brew.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
+| Potion Commotion | 180864 | [180864-potion-commotion.json](./180864-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
 | Potion Craft Together | 389950 | [389950-potion-craft-together.json](./389950-potion-craft-together.json) |
@@ -20528,6 +20532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PW7A | 417781 | [417781-pw7a.json](./417781-pw7a.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
 | PWK Trivia Collection | 377932 | [377932-pwk-trivia-collection.json](./377932-pwk-trivia-collection.json) |
+| Pwn Adventure 3: Pwnie Island | 180863 | [180863-pwn-adventure-3-pwnie-island.json](./180863-pwn-adventure-3-pwnie-island.json) |
 | Pwn Age: 31337 AD | 67075 | [67075-pwn-age-31337-ad.json](./67075-pwn-age-31337-ad.json) |
 | PWN: Combat Hacking | 63677 | [63677-pwn-combat-hacking.json](./63677-pwn-combat-hacking.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
