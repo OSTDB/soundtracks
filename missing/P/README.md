@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Pactum + Episode 1 | 243532 | [243532-pactum-episode-1.json](./243532-pactum-episode-1.json) |
+| Pactus | 216382 | [216382-pactus.json](./216382-pactus.json) |
 | Pacula's Curse | 141478 | [141478-paculas-curse.json](./141478-paculas-curse.json) |
 | PacVenture | 397552 | [397552-pacventure.json](./397552-pacventure.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
@@ -19276,6 +19277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
 | Purgatory’s Flower | 337929 | [337929-purgatory-s-flower.json](./337929-purgatory-s-flower.json) |
 | Purge | 61759 | [61759-purge.json](./61759-purge.json) |
+| Purge Force 2070 | 215936 | [215936-purge-force-2070.json](./215936-purge-force-2070.json) |
 | Purge Party | 303996 | [303996-purge-party.json](./303996-purge-party.json) |
 | Purge Persist and Profit | 184233 | [184233-purge-persist-and-profit.json](./184233-purge-persist-and-profit.json) |
 | Purge: Three vs Blood | 190975 | [190975-purge-three-vs-blood.json](./190975-purge-three-vs-blood.json) |
