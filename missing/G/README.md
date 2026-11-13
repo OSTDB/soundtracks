@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
 | Gender Neutral Chess | 301702 | [301702-gender-neutral-chess.json](./301702-gender-neutral-chess.json) |
 | Gender Prison | 184721 | [184721-gender-prison.json](./184721-gender-prison.json) |
+| Gender Quest | 176949 | [176949-gender-quest.json](./176949-gender-quest.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
@@ -8579,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
 | Grand Father Island | 138397 | [138397-grand-father-island.json](./138397-grand-father-island.json) |
+| Grand Fix | 176530 | [176530-grand-fix.json](./176530-grand-fix.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
 | Grand Foodventure | 221088 | [221088-grand-foodventure.json](./221088-grand-foodventure.json) |
 | Grand Forest | 266102 | [266102-grand-forest.json](./266102-grand-forest.json) |
