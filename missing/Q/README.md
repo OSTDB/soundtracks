@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
+| Queen of Darkness: The First Moon | 204570 | [204570-queen-of-darkness-the-first-moon.json](./204570-queen-of-darkness-the-first-moon.json) |
 | Queen of Digs! | 221624 | [221624-queen-of-digs.json](./221624-queen-of-digs.json) |
 | Queen of Hearts | 79020 | [79020-queen-of-hearts.json](./79020-queen-of-hearts.json) |
 | Queen of Honor | 166955 | [166955-queen-of-honor.json](./166955-queen-of-honor.json) |
