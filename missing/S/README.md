@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
 | Scavenger by Fiona | 146501 | [146501-scavenger-by-fiona.json](./146501-scavenger-by-fiona.json) |
+| Scavenger Duels | 200082 | [200082-scavenger-duels.json](./200082-scavenger-duels.json) |
 | Scavenger Hunt | 214335 | [214335-scavenger-hunt.json](./214335-scavenger-hunt.json) |
 | Scavenger Hunt | 346287 | [346287-scavenger-hunt.json](./346287-scavenger-hunt.json) |
 | Scavenger Hunt Find Hidden Objects | 393890 | [393890-scavenger-hunt-find-hidden-objects.json](./393890-scavenger-hunt-find-hidden-objects.json) |
@@ -6139,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
 | Sentinel | 231768 | [231768-sentinel.json](./231768-sentinel.json) |
+| Sentinel 2: Earth Defense | 200096 | [200096-sentinel-2-earth-defense.json](./200096-sentinel-2-earth-defense.json) |
 | Sentinel 4: Dark Star | 34835 | [34835-sentinel-4-dark-star.json](./34835-sentinel-4-dark-star.json) |
 | Sentinel Agency | 326927 | [326927-sentinel-agency.json](./326927-sentinel-agency.json) |
 | Sentinel Attack | 203855 | [203855-sentinel-attack.json](./203855-sentinel-attack.json) |
@@ -14119,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
+| Skyriders | 200099 | [200099-skyriders.json](./200099-skyriders.json) |
 | Skyrift | 122107 | [122107-skyrift.json](./122107-skyrift.json) |
 | Skyrift: Aratirí | 337407 | [337407-skyrift-aratiri.json](./337407-skyrift-aratiri.json) |
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
@@ -20679,6 +20682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Slash | 336843 | [336843-sound-of-slash.json](./336843-sound-of-slash.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
 | Sound of Survival | 370064 | [370064-sound-of-survival.json](./370064-sound-of-survival.json) |
+| Sound of the Sea | 199956 | [199956-sound-of-the-sea.json](./199956-sound-of-the-sea.json) |
 | Sound of the Sky: Maiden Quintet | 140854 | [140854-sound-of-the-sky-maiden-quintet.json](./140854-sound-of-the-sky-maiden-quintet.json) |
 | Sound Science | 133158 | [133158-sound-science.json](./133158-sound-science.json) |
 | Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
@@ -27059,6 +27063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Return of the Jedi - Ewok Adventure | 10205 | [10205-star-wars-return-of-the-jedi-ewok-adventure.json](./10205-star-wars-return-of-the-jedi-ewok-adventure.json) |
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
+| Star Wars: Rise to Power | 199954 | [199954-star-wars-rise-to-power.json](./199954-star-wars-rise-to-power.json) |
 | Star Wars: Rivals | 39751 | [39751-star-wars-rivals.json](./39751-star-wars-rivals.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Rogue Squadron II - Rogue Leader | 4181 | [4181-star-wars-rogue-squadron-ii-rogue-leader.json](./4181-star-wars-rogue-squadron-ii-rogue-leader.json) |
@@ -29887,6 +29892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
 | Storm Rider 2 | 240536 | [240536-storm-rider-2.json](./240536-storm-rider-2.json) |
+| Storm Rush | 200098 | [200098-storm-rush.json](./200098-storm-rush.json) |
 | Storm Seas | 358577 | [358577-storm-seas.json](./358577-storm-seas.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Sharks | 53675 | [53675-storm-sharks.json](./53675-storm-sharks.json) |
@@ -38087,6 +38093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
 | Swap Fire | 77773 | [77773-swap-fire.json](./77773-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
+| Swap Heroes 2 | 200093 | [200093-swap-heroes-2.json](./200093-swap-heroes-2.json) |
 | Swap Machina | 240968 | [240968-swap-machina.json](./240968-swap-machina.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
