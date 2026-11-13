@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T08:05:53.117Z",
-  "total_soundtracks": 3273,
+  "generated_at": "2026-11-13T08:20:57.496Z",
+  "total_soundtracks": 3274,
   "games": [
     {
       "igdb_id": 7522,
@@ -20129,6 +20129,20 @@
         {
           "album_name": "Lovely Planet (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Dy9AkmLb4w9ipONRvDSpb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20112,
+      "game_name": "Lovely Planet Arcade",
+      "game_url": "https://ostdb.net/games/lovely-planet-arcade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27347bb81d073c52431c6e7e6d8",
+      "albums": [
+        {
+          "album_name": "Lovely Planet Arcade (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Vs4NVTWmr1LKWxt4yT961",
           "apple_music_url": "",
           "album_link_url": ""
         }
