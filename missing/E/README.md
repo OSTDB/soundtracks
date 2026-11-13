@@ -5212,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
 | Era uma vez um gato | 286926 | [286926-era-uma-vez-um-gato.json](./286926-era-uma-vez-um-gato.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
+| Era7: Game of Truth | 234957 | [234957-era7-game-of-truth.json](./234957-era7-game-of-truth.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
