@@ -8151,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapestorm | 90190 | [90190-shapestorm.json](./90190-shapestorm.json) |
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
 | Shapeuku - Shape Puzzle Game | 108289 | [108289-shapeuku-shape-puzzle-game.json](./108289-shapeuku-shape-puzzle-game.json) |
+| ShapeVS | 191146 | [191146-shapevs.json](./191146-shapevs.json) |
 | Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
 | Shapez | 134826 | [134826-shapez.json](./134826-shapez.json) |
@@ -11065,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
+| Sidequest | 190758 | [190758-sidequest.json](./190758-sidequest.json) |
 | SideQuest | 398501 | [398501-sidequest.json](./398501-sidequest.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | Sidequest Survivors | 358576 | [358576-sidequest-survivors.json](./358576-sidequest-survivors.json) |
@@ -18728,6 +18730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs from the Iron Sea | 216893 | [216893-songs-from-the-iron-sea.json](./216893-songs-from-the-iron-sea.json) |
 | Songs of Araiah | 140315 | [140315-songs-of-araiah.json](./140315-songs-of-araiah.json) |
 | Songs of Araiah: Re-Mastered Edition | 73076 | [73076-songs-of-araiah-re-mastered-edition.json](./73076-songs-of-araiah-re-mastered-edition.json) |
+| Songs of Armageddopolis | 191150 | [191150-songs-of-armageddopolis.json](./191150-songs-of-armageddopolis.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
@@ -22219,6 +22222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War Plane | 227462 | [227462-space-war-plane.json](./227462-space-war-plane.json) |
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
+| Space Warden | 190755 | [190755-space-warden.json](./190755-space-warden.json) |
 | Space Warfare | 114848 | [114848-space-warfare.json](./114848-space-warfare.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Warlord Organ Trading Simulator | 144317 | [144317-space-warlord-organ-trading-simulator.json](./144317-space-warlord-organ-trading-simulator.json) |
@@ -27338,6 +27342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcross Starcade Special | 211341 | [211341-starcross-starcade-special.json](./211341-starcross-starcade-special.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
+| Stardander Revenant | 190759 | [190759-stardander-revenant.json](./190759-stardander-revenant.json) |
 | Stardander School for Witches | 197061 | [197061-stardander-school-for-witches.json](./197061-stardander-school-for-witches.json) |
 | Stardash | 147628 | [147628-stardash.json](./147628-stardash.json) |
 | Stardate 20X6 | 139092 | [139092-stardate-20x6.json](./139092-stardate-20x6.json) |
@@ -28436,6 +28441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
+| Stealth Kart | 190767 | [190767-stealth-kart.json](./190767-stealth-kart.json) |
 | Stealth Kill VR Missions | 310677 | [310677-stealth-kill-vr-missions.json](./310677-stealth-kill-vr-missions.json) |
 | Stealth Labyrinth | 19047 | [19047-stealth-labyrinth.json](./19047-stealth-labyrinth.json) |
 | Stealth Master | 143976 | [143976-stealth-master.json](./143976-stealth-master.json) |
@@ -28763,6 +28769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
 | Steel Wound | 217310 | [217310-steel-wound.json](./217310-steel-wound.json) |
 | SteelBlade Shop Simulator | 382322 | [382322-steelblade-shop-simulator.json](./382322-steelblade-shop-simulator.json) |
+| Steelborn | 191211 | [191211-steelborn.json](./191211-steelborn.json) |
 | Steelborn: Tank Idle RPG | 418517 | [418517-steelborn-tank-idle-rpg.json](./418517-steelborn-tank-idle-rpg.json) |
 | Steelbreakers | 184842 | [184842-steelbreakers.json](./184842-steelbreakers.json) |
 | SteelFront | 350558 | [350558-steelfront.json](./350558-steelfront.json) |
@@ -37525,6 +37532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
 | Survival Games | 180378 | [180378-survival-games.json](./180378-survival-games.json) |
 | Survival Games | 402335 | [402335-survival-games.json](./402335-survival-games.json) |
+| Survival Girls | 191140 | [191140-survival-girls.json](./191140-survival-girls.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Guide 2 | 282160 | [282160-survival-guide-2.json](./282160-survival-guide-2.json) |
 | Survival Hell | 110514 | [110514-survival-hell.json](./110514-survival-hell.json) |
