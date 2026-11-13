@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks a Lot | 281169 | [281169-tanks-a-lot.json](./281169-tanks-a-lot.json) |
 | Tanks A Lot | 71948 | [71948-tanks-a-lot.json](./71948-tanks-a-lot.json) |
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
+| Tanks Battle | 236569 | [236569-tanks-battle.json](./236569-tanks-battle.json) |
 | Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks Bundle | 164727 | [164727-tanks-bundle.json](./164727-tanks-bundle.json) |
@@ -12492,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keys to Maramon | 12654 | [12654-the-keys-to-maramon.json](./12654-the-keys-to-maramon.json) |
 | The Keys to the Imagination | 356965 | [356965-the-keys-to-the-imagination.json](./356965-the-keys-to-the-imagination.json) |
 | The Kharzov Effect | 322134 | [322134-the-kharzov-effect.json](./322134-the-kharzov-effect.json) |
+| The kidnapped: Escape Room | 237037 | [237037-the-kidnapped-escape-room.json](./237037-the-kidnapped-escape-room.json) |
 | The Kids Puzzle | 85922 | [85922-the-kids-puzzle.json](./85922-the-kids-puzzle.json) |
 | The Kids We Were | 148238 | [148238-the-kids-we-were.json](./148238-the-kids-we-were.json) |
 | The Kill Kar II: Revenge | 234389 | [234389-the-kill-kar-ii-revenge.json](./234389-the-kill-kar-ii-revenge.json) |
@@ -14368,6 +14370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
+| The Lost Legends of Redwall: The Scout - Encore Edition | 237033 | [237033-the-lost-legends-of-redwall-the-scout-encore-edition.json](./237033-the-lost-legends-of-redwall-the-scout-encore-edition.json) |
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
 | The Lost Levels | 271772 | [271772-the-lost-levels.json](./271772-the-lost-levels.json) |
 | The Lost Levels | 406121 | [406121-the-lost-levels.json](./406121-the-lost-levels.json) |
@@ -20516,6 +20519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
 | The Wine Story | 203685 | [203685-the-wine-story.json](./203685-the-wine-story.json) |
 | The Wing of Madoola | 65699 | [65699-the-wing-of-madoola.json](./65699-the-wing-of-madoola.json) |
+| The Wings of Dawn | 236555 | [236555-the-wings-of-dawn.json](./236555-the-wings-of-dawn.json) |
 | The Winning Secret of the Newbie Strategist Princess | 259171 | [259171-the-winning-secret-of-the-newbie-strategist-princess.json](./259171-the-winning-secret-of-the-newbie-strategist-princess.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
@@ -22600,6 +22604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick-Hunter | 51434 | [51434-tick-hunter.json](./51434-tick-hunter.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
+| Tickdown | 237114 | [237114-tickdown.json](./237114-tickdown.json) |
 | Ticker | 338965 | [338965-ticker.json](./338965-ticker.json) |
 | Ticker Tape | 275401 | [275401-ticker-tape.json](./275401-ticker-tape.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
@@ -24844,6 +24849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
 | Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
 | Time Thief | 235277 | [235277-time-thief.json](./235277-time-thief.json) |
+| Time Titans VR | 237103 | [237103-time-titans-vr.json](./237103-time-titans-vr.json) |
 | Time to Belong | 271854 | [271854-time-to-belong.json](./271854-time-to-belong.json) |
 | Time to Die | 379802 | [379802-time-to-die.json](./379802-time-to-die.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
@@ -27935,6 +27941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro's Friend Network | 64252 | [64252-toros-friend-network.json](./64252-toros-friend-network.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
+| Toroban | 237036 | [237036-toroban.json](./237036-toroban.json) |
 | ToroFun | 251977 | [251977-torofun.json](./251977-torofun.json) |
 | Toroidal: Awaiting the Spring | 244699 | [244699-toroidal-awaiting-the-spring.json](./244699-toroidal-awaiting-the-spring.json) |
 | Toroom | 154834 | [154834-toroom.json](./154834-toroom.json) |
@@ -28012,6 +28019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
 | Tossdown | 345182 | [345182-tossdown.json](./345182-tossdown.json) |
+| Tostchu | 236492 | [236492-tostchu.json](./236492-tostchu.json) |
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
 | Total 15 | 105155 | [105155-total-15.json](./105155-total-15.json) |
 | Total Adrenaline 3D Drag Racing | 73708 | [73708-total-adrenaline-3d-drag-racing.json](./73708-total-adrenaline-3d-drag-racing.json) |
@@ -29484,6 +29492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Diggers | 379060 | [379060-town-diggers.json](./379060-town-diggers.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
+| Town Girls | 237112 | [237112-town-girls.json](./237112-town-girls.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
 | Town Keeper | 316863 | [316863-town-keeper.json](./316863-town-keeper.json) |
 | Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
@@ -32617,6 +32626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler of Wuxia | 248367 | [248367-traveler-of-wuxia.json](./248367-traveler-of-wuxia.json) |
 | Traveler Stories: Journeys of Real People | 414113 | [414113-traveler-stories-journeys-of-real-people.json](./414113-traveler-stories-journeys-of-real-people.json) |
 | Traveler: Set Sail | 273351 | [273351-traveler-set-sail.json](./273351-traveler-set-sail.json) |
+| Traveler: The AI Story | 236553 | [236553-traveler-the-ai-story.json](./236553-traveler-the-ai-story.json) |
 | Traveler's Backpack | 397213 | [397213-travelers-backpack.json](./397213-travelers-backpack.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
@@ -35921,6 +35931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twista | 277442 | [277442-twista.json](./277442-twista.json) |
+| Twistales | 236576 | [236576-twistales.json](./236576-twistales.json) |
 | Twistbot | 182709 | [182709-twistbot.json](./182709-twistbot.json) |
 | Twistcan | 333467 | [333467-twistcan.json](./333467-twistcan.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
