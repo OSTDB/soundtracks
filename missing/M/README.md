@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
 | Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
 | Map My Mind | 60910 | [60910-map-my-mind.json](./60910-map-my-mind.json) |
+| Map of Materials | 195663 | [195663-map-of-materials.json](./195663-map-of-materials.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapaboX: Trivia & Quiz game | 232045 | [232045-mapabox-trivia-and-quiz-game.json](./232045-mapabox-trivia-and-quiz-game.json) |
 | Mapas do Horizonte - Um jogo para conhecer BH | 95588 | [95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json](./95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json) |
@@ -15476,6 +15477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
 | Mixed Feelings | 185228 | [185228-mixed-feelings.json](./185228-mixed-feelings.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
+| Mixed Feelings: While You Were Away | 195682 | [195682-mixed-feelings-while-you-were-away.json](./195682-mixed-feelings-while-you-were-away.json) |
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
 | Mixed Matrix Slingo | 64831 | [64831-mixed-matrix-slingo.json](./64831-mixed-matrix-slingo.json) |
 | Mixed Messages | 80175 | [80175-mixed-messages.json](./80175-mixed-messages.json) |
@@ -22663,6 +22665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Jurassic Farm 2018 | 117979 | [117979-my-jurassic-farm-2018.json](./117979-my-jurassic-farm-2018.json) |
 | My Kemono Girlfriend | 299655 | [299655-my-kemono-girlfriend.json](./299655-my-kemono-girlfriend.json) |
 | My Keyboard is Full of Ants! | 408597 | [408597-my-keyboard-is-full-of-ants.json](./408597-my-keyboard-is-full-of-ants.json) |
+| My Kindergarten Learning Adventure | 195666 | [195666-my-kindergarten-learning-adventure.json](./195666-my-kindergarten-learning-adventure.json) |
 | My Kindness is Not an Invitation For You to Touch Me | 128743 | [128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json](./128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess HD | 95536 | [95536-my-kingdom-for-the-princess-hd.json](./95536-my-kingdom-for-the-princess-hd.json) |
