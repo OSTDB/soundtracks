@@ -9532,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
 | Bitter Exclusion | 281873 | [281873-bitter-exclusion.json](./281873-bitter-exclusion.json) |
 | Bitter Harvest | 391535 | [391535-bitter-harvest.json](./391535-bitter-harvest.json) |
+| Bitter Heaven | 244459 | [244459-bitter-heaven.json](./244459-bitter-heaven.json) |
 | Bitter Silver | 221560 | [221560-bitter-silver.json](./221560-bitter-silver.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
@@ -13887,6 +13888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Meal | 294366 | [294366-bone-meal.json](./294366-bone-meal.json) |
 | Bone Monkeys vs. Dinosaurs | 206322 | [206322-bone-monkeys-vs-dinosaurs.json](./206322-bone-monkeys-vs-dinosaurs.json) |
+| Bone N Soul | 244959 | [244959-bone-n-soul.json](./244959-bone-n-soul.json) |
 | Bone n' Gone | 333877 | [333877-bone-n-gone.json](./333877-bone-n-gone.json) |
 | Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
