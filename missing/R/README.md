@@ -9632,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-Squash | 40833 | [40833-robo-squash.json](./40833-robo-squash.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
+| Robo-tea: 1sip! | 176948 | [176948-robo-tea-1sip.json](./176948-robo-tea-1sip.json) |
 | Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoBo: The Allectric Idventurer | 211283 | [211283-robo-the-allectric-idventurer.json](./211283-robo-the-allectric-idventurer.json) |
@@ -12281,6 +12282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotating Puzzle | 358736 | [358736-rotating-puzzle.json](./358736-rotating-puzzle.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
 | Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
+| Rotation | 176544 | [176544-rotation.json](./176544-rotation.json) |
 | Rotation Girl | 421248 | [421248-rotation-girl.json](./421248-rotation-girl.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
 | Rotational | 331182 | [331182-rotational.json](./331182-rotational.json) |
