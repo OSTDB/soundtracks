@@ -11907,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Berilo | 314720 | [314720-pokemon-berilo.json](./314720-pokemon-berilo.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
+| Pokémon Bizarre | 243995 | [243995-pokemon-bizarre.json](./243995-pokemon-bizarre.json) |
 | Pokémon Black & White 3: Genesis | 241775 | [241775-pokemon-black-and-white-3-genesis.json](./241775-pokemon-black-and-white-3-genesis.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
@@ -12056,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Imperium | 329650 | [329650-pokemon-emerald-imperium.json](./329650-pokemon-emerald-imperium.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Emerald Legacy | 323041 | [323041-pokemon-emerald-legacy.json](./323041-pokemon-emerald-legacy.json) |
+| Pokémon Emerald Randomizer | 243999 | [243999-pokemon-emerald-randomizer.json](./243999-pokemon-emerald-randomizer.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
 | Pokémon Emerald Seaglass | 314536 | [314536-pokemon-emerald-seaglass.json](./314536-pokemon-emerald-seaglass.json) |
@@ -12422,6 +12424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
 | Pokemon Sour Crystal | 265985 | [265985-pokemon-sour-crystal.json](./265985-pokemon-sour-crystal.json) |
+| Pokémon Sphynx | 243998 | [243998-pokemon-sphynx.json](./243998-pokemon-sphynx.json) |
 | Pokémon SpinSpinSpin | 350668 | [350668-pokemon-spinspinspin.json](./350668-pokemon-spinspinspin.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
 | Pokémon Splice | 146982 | [146982-pokemon-splice.json](./146982-pokemon-splice.json) |
@@ -14116,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Walker | 59954 | [59954-portal-walker.json](./59954-portal-walker.json) |
 | Portal War | 221752 | [221752-portal-war.json](./221752-portal-war.json) |
 | Portal with RTX | 218277 | [218277-portal-with-rtx.json](./218277-portal-with-rtx.json) |
+| Portal-ban | 243448 | [243448-portal-ban.json](./243448-portal-ban.json) |
 | Portal: Alive & Kicking | 322166 | [322166-portal-alive-and-kicking.json](./322166-portal-alive-and-kicking.json) |
 | Portal: Ambition | 322167 | [322167-portal-ambition.json](./322167-portal-ambition.json) |
 | Portal: Bagley | 259145 | [259145-portal-bagley.json](./259145-portal-bagley.json) |
@@ -17489,6 +17493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Space Hunter | 143252 | [143252-project-space-hunter.json](./143252-project-space-hunter.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spark | 2742 | [2742-project-spark.json](./2742-project-spark.json) |
+| Project Spark: Conker's Big Reunion | 244001 | [244001-project-spark-conkers-big-reunion.json](./244001-project-spark-conkers-big-reunion.json) |
 | Project Sparrow | 143224 | [143224-project-sparrow.json](./143224-project-sparrow.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
 | Project Speed | 127458 | [127458-project-speed.json](./127458-project-speed.json) |
