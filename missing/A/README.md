@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
 | Afterglow | 140719 | [140719-afterglow.json](./140719-afterglow.json) |
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
+| Afterglow | 235385 | [235385-afterglow.json](./235385-afterglow.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
 | Afterglow; The Scent | 272128 | [272128-afterglow-the-scent.json](./272128-afterglow-the-scent.json) |
 | Afterglow; Twin Creeks | 272124 | [272124-afterglow-twin-creeks.json](./272124-afterglow-twin-creeks.json) |
@@ -6445,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
 | Aisu Paradise | 119048 | [119048-aisu-paradise.json](./119048-aisu-paradise.json) |
 | AISZplus | 201416 | [201416-aiszplus.json](./201416-aiszplus.json) |
+| AIT | 235523 | [235523-ait.json](./235523-ait.json) |
 | Aitakute... Your smiles in my heart | 148298 | [148298-aitakute-your-smiles-in-my-heart.json](./148298-aitakute-your-smiles-in-my-heart.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
@@ -8499,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpaca Farm! Animal Adventure | 255809 | [255809-alpaca-farm-animal-adventure.json](./255809-alpaca-farm-animal-adventure.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
 | Alpaca Party: Grab & Run | 389635 | [389635-alpaca-party-grab-and-run.json](./389635-alpaca-party-grab-and-run.json) |
+| Alpaca Rancher | 235501 | [235501-alpaca-rancher.json](./235501-alpaca-rancher.json) |
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
 | Alpaca Sprint | 247670 | [247670-alpaca-sprint.json](./247670-alpaca-sprint.json) |
 | Alpaca Stacka | 154072 | [154072-alpaca-stacka.json](./154072-alpaca-stacka.json) |
@@ -11026,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Kaiser: The King of Animals | 56998 | [56998-animal-kaiser-the-king-of-animals.json](./56998-animal-kaiser-the-king-of-animals.json) |
 | Animal Kart Racer | 154790 | [154790-animal-kart-racer.json](./154790-animal-kart-racer.json) |
 | Animal Kart Racer 2 | 270464 | [270464-animal-kart-racer-2.json](./270464-animal-kart-racer-2.json) |
+| Animal Kingdom | 235512 | [235512-animal-kingdom.json](./235512-animal-kingdom.json) |
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
 | Animal Kingdom: Wildlife Expedition | 51010 | [51010-animal-kingdom-wildlife-expedition.json](./51010-animal-kingdom-wildlife-expedition.json) |
@@ -16537,6 +16541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Caprice | 224923 | [224923-asian-caprice.json](./224923-asian-caprice.json) |
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
+| Asian Food Cart Tycoon | 235515 | [235515-asian-food-cart-tycoon.json](./235515-asian-food-cart-tycoon.json) |
 | Asian Foxes | 298609 | [298609-asian-foxes.json](./298609-asian-foxes.json) |
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
 | Asian Riddles 2 | 88599 | [88599-asian-riddles-2.json](./88599-asian-riddles-2.json) |
