@@ -2668,6 +2668,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
 | Johnny Platform's Biscuit Romp | 78301 | [78301-johnny-platforms-biscuit-romp.json](./78301-johnny-platforms-biscuit-romp.json) |
 | Johnny Reb | 137197 | [137197-johnny-reb.json](./137197-johnny-reb.json) |
+| Johnny Rocketfingers | 243896 | [243896-johnny-rocketfingers.json](./243896-johnny-rocketfingers.json) |
+| Johnny Rocketfingers 2 | 243897 | [243897-johnny-rocketfingers-2.json](./243897-johnny-rocketfingers-2.json) |
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
@@ -4058,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
 | Jupiter Probe | 15089 | [15089-jupiter-probe.json](./15089-jupiter-probe.json) |
+| Jupiter Scope | 245066 | [245066-jupiter-scope.json](./245066-jupiter-scope.json) |
 | Jupiter Strike | 20251 | [20251-jupiter-strike.json](./20251-jupiter-strike.json) |
 | Jupiter-Saturn: Testing Conviction | 410439 | [410439-jupiter-saturn-testing-conviction.json](./410439-jupiter-saturn-testing-conviction.json) |
 | Jupiter's Masterdrive | 71232 | [71232-jupiters-masterdrive.json](./71232-jupiters-masterdrive.json) |
