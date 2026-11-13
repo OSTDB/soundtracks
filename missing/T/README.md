@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telekinetic | 113228 | [113228-telekinetic.json](./113228-telekinetic.json) |
+| Telemochi | 176525 | [176525-telemochi.json](./176525-telemochi.json) |
 | TeleMorpher | 320030 | [320030-telemorpher.json](./320030-telemorpher.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telenet Shooting Collection | 251524 | [251524-telenet-shooting-collection.json](./251524-telenet-shooting-collection.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burnable Garbage Day | 145139 | [145139-the-burnable-garbage-day.json](./145139-the-burnable-garbage-day.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burning Descent | 127614 | [127614-the-burning-descent.json](./127614-the-burning-descent.json) |
+| The Burning Locks | 176546 | [176546-the-burning-locks.json](./176546-the-burning-locks.json) |
 | The Burning Owl | 405880 | [405880-the-burning-owl.json](./405880-the-burning-owl.json) |
 | The Burning Wheel | 109099 | [109099-the-burning-wheel.json](./109099-the-burning-wheel.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
