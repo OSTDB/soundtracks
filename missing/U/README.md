@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Chess | 133638 | [133638-ultimate-chess.json](./133638-ultimate-chess.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
+| Ultimate Chicken Path | 236564 | [236564-ultimate-chicken-path.json](./236564-ultimate-chicken-path.json) |
 | Ultimate Children Fun Pack Games Collection 6 in 1 | 303880 | [303880-ultimate-children-fun-pack-games-collection-6-in-1.json](./303880-ultimate-children-fun-pack-games-collection-6-in-1.json) |
 | Ultimate Chopsticks | 338599 | [338599-ultimate-chopsticks.json](./338599-ultimate-chopsticks.json) |
 | Ultimate Christmas Puzzler 2 | 195429 | [195429-ultimate-christmas-puzzler-2.json](./195429-ultimate-christmas-puzzler-2.json) |
