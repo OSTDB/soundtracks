@@ -5359,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Crawler | 187590 | [187590-cave-crawler.json](./187590-cave-crawler.json) |
 | Cave Crawler | 247083 | [247083-cave-crawler.json](./247083-cave-crawler.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
+| Cave Crawler: A Retro Exploration Adventure | 214211 | [214211-cave-crawler-a-retro-exploration-adventure.json](./214211-cave-crawler-a-retro-exploration-adventure.json) |
 | Cave Crawlers | 223392 | [223392-cave-crawlers.json](./223392-cave-crawlers.json) |
 | Cave Creatures | 421221 | [421221-cave-creatures.json](./421221-cave-creatures.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceres M | 193938 | [193938-ceres-m.json](./193938-ceres-m.json) |
 | Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
 | Cerevrum | 153337 | [153337-cerevrum.json](./153337-cerevrum.json) |
+| Cerita Jabar Sangkuriang | 214632 | [214632-cerita-jabar-sangkuriang.json](./214632-cerita-jabar-sangkuriang.json) |
 | Cerius | 14001 | [14001-cerius.json](./14001-cerius.json) |
 | Cerkio | 176382 | [176382-cerkio.json](./176382-cerkio.json) |
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
@@ -8662,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop It Down | 359135 | [359135-chop-it-down.json](./359135-chop-it-down.json) |
 | Chop Loop | 428391 | [428391-chop-loop.json](./428391-chop-loop.json) |
 | Chop Shop | 324659 | [324659-chop-shop.json](./324659-chop-shop.json) |
+| Chop Shop Simulator | 214642 | [214642-chop-shop-simulator.json](./214642-chop-shop-simulator.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Sous-y-chef | 406990 | [406990-chop-sous-y-chef.json](./406990-chop-sous-y-chef.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
@@ -10894,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Road | 38150 | [38150-classic-road.json](./38150-classic-road.json) |
 | Classic Road II | 36734 | [36734-classic-road-ii.json](./36734-classic-road-ii.json) |
+| Classic Snake | 214636 | [214636-classic-snake.json](./214636-classic-snake.json) |
 | Classic Snake | 86701 | [86701-classic-snake.json](./86701-classic-snake.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
@@ -11405,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Driver | 393058 | [393058-climb-driver.json](./393058-climb-driver.json) |
 | Climb Fall Human Guys | 149363 | [149363-climb-fall-human-guys.json](./149363-climb-fall-human-guys.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
+| Climb It | 214215 | [214215-climb-it.json](./214215-climb-it.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb It Up | 419621 | [419621-climb-it-up.json](./419621-climb-it-up.json) |
 | Climb It! | 346892 | [346892-climb-it.json](./346892-climb-it.json) |
@@ -19555,6 +19560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Stinger | 293265 | [293265-cross-stinger.json](./293265-cross-stinger.json) |
 | Cross Stitch Casper | 166893 | [166893-cross-stitch-casper.json](./166893-cross-stitch-casper.json) |
 | Cross Strike | 409912 | [409912-cross-strike.json](./409912-cross-strike.json) |
+| Cross Summoner: R | 214097 | [214097-cross-summoner-r.json](./214097-cross-summoner-r.json) |
 | Cross Tails | 252437 | [252437-cross-tails.json](./252437-cross-tails.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
