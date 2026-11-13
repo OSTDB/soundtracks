@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Warrior | 370975 | [370975-way-of-the-warrior.json](./370975-way-of-the-warrior.json) |
 | Way of the Warrior | 4326 | [4326-way-of-the-warrior.json](./4326-way-of-the-warrior.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
+| Way of Vulcan | 223182 | [223182-way-of-vulcan.json](./223182-way-of-vulcan.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
 | Way Out | 277702 | [277702-way-out.json](./277702-way-out.json) |
 | Way Out | 84080 | [84080-way-out.json](./84080-way-out.json) |
