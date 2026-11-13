@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 363314 | [363314-mario-bros.json](./363314-mario-bros.json) |
 | Mario Bros. | 367845 | [367845-mario-bros.json](./367845-mario-bros.json) |
 | Mario Bros. 2018 | 311348 | [311348-mario-bros-2018.json](./311348-mario-bros-2018.json) |
+| Mario Bros. Classic Serie | 172250 | [172250-mario-bros-classic-serie.json](./172250-mario-bros-classic-serie.json) |
 | Mario Bros. Inc. | 324013 | [324013-mario-bros-inc.json](./324013-mario-bros-inc.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
@@ -5533,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Warfare | 135068 | [135068-mass-warfare.json](./135068-mass-warfare.json) |
 | Massacre at the Mirage | 288987 | [288987-massacre-at-the-mirage.json](./288987-massacre-at-the-mirage.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
+| Massage Salon Story: Spring Breeze | 172229 | [172229-massage-salon-story-spring-breeze.json](./172229-massage-salon-story-spring-breeze.json) |
 | MassEve | 350003 | [350003-masseve.json](./350003-masseve.json) |
 | Massi | 223868 | [223868-massi.json](./223868-massi.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
