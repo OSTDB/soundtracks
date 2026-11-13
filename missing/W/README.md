@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiter Please! | 359319 | [359319-waiter-please.json](./359319-waiter-please.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
 | Waiting for Eurydice | 385673 | [385673-waiting-for-eurydice.json](./385673-waiting-for-eurydice.json) |
+| Waiting For Her | 179103 | [179103-waiting-for-her.json](./179103-waiting-for-her.json) |
 | Waiting for Instructions Run | 296859 | [296859-waiting-for-instructions-run.json](./296859-waiting-for-instructions-run.json) |
 | Waiting for Odysseus | 412909 | [412909-waiting-for-odysseus.json](./412909-waiting-for-odysseus.json) |
 | Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
@@ -7870,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Journey | 301203 | [301203-wonderful-journey.json](./301203-wonderful-journey.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Monsters: The Flower Crossing | 332363 | [332363-wonderful-monsters-the-flower-crossing.json](./332363-wonderful-monsters-the-flower-crossing.json) |
+| Wonderful My Race | 179228 | [179228-wonderful-my-race.json](./179228-wonderful-my-race.json) |
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
 | Wonderful Pink | 228757 | [228757-wonderful-pink.json](./228757-wonderful-pink.json) |
 | Wonderful Purgatory | 369228 | [369228-wonderful-purgatory.json](./369228-wonderful-purgatory.json) |
