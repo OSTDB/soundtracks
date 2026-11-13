@@ -21461,6 +21461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuphead: Collector's Edition | 224179 | [224179-cuphead-collectors-edition.json](./224179-cuphead-collectors-edition.json) |
 | Cuphead: Game and Watch Edition | 184311 | [184311-cuphead-game-and-watch-edition.json](./184311-cuphead-game-and-watch-edition.json) |
 | Cuphead: Limited Edition | 249963 | [249963-cuphead-limited-edition.json](./249963-cuphead-limited-edition.json) |
+| Cuphead: Physical Edition | 224181 | [224181-cuphead-physical-edition.json](./224181-cuphead-physical-edition.json) |
 | Cupiclaw | 302430 | [302430-cupiclaw.json](./302430-cupiclaw.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid | 34031 | [34031-cupid.json](./34031-cupid.json) |
