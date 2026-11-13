@@ -10182,6 +10182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetSide Arena: Recruit Edition | 154451 | [154451-planetside-arena-recruit-edition.json](./154451-planetside-arena-recruit-edition.json) |
 | PlanetSide: Aftershock | 201891 | [201891-planetside-aftershock.json](./201891-planetside-aftershock.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
+| PlanetSprite | 241676 | [241676-planetsprite.json](./241676-planetsprite.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
 | Planetwo | 227645 | [227645-planetwo.json](./227645-planetwo.json) |
@@ -12243,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mythic Silver | 337425 | [337425-pokemon-mythic-silver.json](./337425-pokemon-mythic-silver.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
+| Pokémon Naranja | 241669 | [241669-pokemon-naranja.json](./241669-pokemon-naranja.json) |
 | Pokémon Nightmare | 409918 | [409918-pokemon-nightmare.json](./409918-pokemon-nightmare.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
 | Pokémon Noon | 351876 | [351876-pokemon-noon.json](./351876-pokemon-noon.json) |
