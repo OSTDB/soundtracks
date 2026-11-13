@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire's Veil | 336466 | [336466-vampires-veil.json](./336466-vampires-veil.json) |
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
 | VampireBlaze | 402935 | [402935-vampireblaze.json](./402935-vampireblaze.json) |
+| Vampirelands | 244453 | [244453-vampirelands.json](./244453-vampirelands.json) |
 | Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
 | Vampires and Afternoon Tea | 282185 | [282185-vampires-and-afternoon-tea.json](./282185-vampires-and-afternoon-tea.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
