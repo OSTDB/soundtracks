@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
+| A Webbing Journey | 208532 | [208532-a-webbing-journey.json](./208532-a-webbing-journey.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Week at Polar's Buffet | 375109 | [375109-a-week-at-polars-buffet.json](./375109-a-week-at-polars-buffet.json) |
 | A Week in Paradise | 390825 | [390825-a-week-in-paradise.json](./390825-a-week-in-paradise.json) |
