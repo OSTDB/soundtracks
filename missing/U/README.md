@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unannounced Survival Game | 125919 | [125919-unannounced-survival-game.json](./125919-unannounced-survival-game.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
+| Unarmed Area | 191153 | [191153-unarmed-area.json](./191153-unarmed-area.json) |
 | Unattached: City of Shadows | 372440 | [372440-unattached-city-of-shadows.json](./372440-unattached-city-of-shadows.json) |
 | Unauthorised | 393570 | [393570-unauthorised.json](./393570-unauthorised.json) |
 | Unavailed | 268940 | [268940-unavailed.json](./268940-unavailed.json) |
