@@ -10069,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Site | 311925 | [311925-black-site.json](./311925-black-site.json) |
 | Black Skylands: Origins | 133038 | [133038-black-skylands-origins.json](./133038-black-skylands-origins.json) |
 | Black Smith | 290334 | [290334-black-smith.json](./290334-black-smith.json) |
+| Black Smith 2 | 170587 | [170587-black-smith-2.json](./170587-black-smith-2.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
 | Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
@@ -14759,6 +14760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boris and the Dark Survival: The Unleashed | 298675 | [298675-boris-and-the-dark-survival-the-unleashed.json](./298675-boris-and-the-dark-survival-the-unleashed.json) |
 | Boris and the Dark Survival: The Wolf Trials | 298634 | [298634-boris-and-the-dark-survival-the-wolf-trials.json](./298634-boris-and-the-dark-survival-the-wolf-trials.json) |
 | Boris in the Underworld | 15684 | [15684-boris-in-the-underworld.json](./15684-boris-in-the-underworld.json) |
+| Boris Russian Bear | 170619 | [170619-boris-russian-bear.json](./170619-boris-russian-bear.json) |
 | Boris the Bold | 74024 | [74024-boris-the-bold.json](./74024-boris-the-bold.json) |
 | Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
 | Boris the Rocket | 139602 | [139602-boris-the-rocket.json](./139602-boris-the-rocket.json) |
@@ -16516,6 +16518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
 | Breadsticks | 223335 | [223335-breadsticks.json](./223335-breadsticks.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
+| Break | 170611 | [170611-break.json](./170611-break.json) |
 | Break | 206489 | [206489-break.json](./206489-break.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
 | Break a Leg | 119934 | [119934-break-a-leg.json](./119934-break-a-leg.json) |
@@ -18283,6 +18286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblegum Crisis: Crime Wave | 274889 | [274889-bubblegum-crisis-crime-wave.json](./274889-bubblegum-crisis-crime-wave.json) |
 | Bubblegum Galaxy | 204519 | [204519-bubblegum-galaxy.json](./204519-bubblegum-galaxy.json) |
 | Bubblegum Hero | 101160 | [101160-bubblegum-hero.json](./101160-bubblegum-hero.json) |
+| Bubblegum Zombie Hunter | 170607 | [170607-bubblegum-zombie-hunter.json](./170607-bubblegum-zombie-hunter.json) |
 | BubbleGum: Push | 368249 | [368249-bubblegum-push.json](./368249-bubblegum-push.json) |
 | Bubbler | 13448 | [13448-bubbler.json](./13448-bubbler.json) |
 | Bubbler | 362008 | [362008-bubbler.json](./362008-bubbler.json) |
@@ -19195,6 +19199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunbun Shinbunbu: You are Newspaper! | 402707 | [402707-bunbun-shinbunbu-you-are-newspaper.json](./402707-bunbun-shinbunbu-you-are-newspaper.json) |
 | Bunbun Tower | 179365 | [179365-bunbun-tower.json](./179365-bunbun-tower.json) |
 | Bunce | 189903 | [189903-bunce.json](./189903-bunce.json) |
+| Bunch of Games | 170067 | [170067-bunch-of-games.json](./170067-bunch-of-games.json) |
 | Bunch of Heroes | 23274 | [23274-bunch-of-heroes.json](./23274-bunch-of-heroes.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
