@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiānghú Xíng | 154763 | [154763-jianghu-xing.json](./154763-jianghu-xing.json) |
 | Jiānghú Yúshēng: Yuánqǐ | 395753 | [395753-jianghu-yusheng-yuanqi.json](./395753-jianghu-yusheng-yuanqi.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
+| Jiangshi x Daoshi: Episode III - Lady Hexers | 170576 | [170576-jiangshi-x-daoshi-episode-iii-lady-hexers.json](./170576-jiangshi-x-daoshi-episode-iii-lady-hexers.json) |
 | Jianling: The Chosen Soul | 327519 | [327519-jianling-the-chosen-soul.json](./327519-jianling-the-chosen-soul.json) |
 | JianLong Mountain in Chongzuo City | 377041 | [377041-jianlong-mountain-in-chongzuo-city.json](./377041-jianlong-mountain-in-chongzuo-city.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
