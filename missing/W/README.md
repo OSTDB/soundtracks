@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
 | Warau Ars Notoria | 196531 | [196531-warau-ars-notoria.json](./196531-warau-ars-notoria.json) |
 | Warau Salesman | 46400 | [46400-warau-salesman.json](./46400-warau-salesman.json) |
+| Warau Salesman 1 | 237700 | [237700-warau-salesman-1.json](./237700-warau-salesman-1.json) |
 | Warau Salesman 2 | 239575 | [239575-warau-salesman-2.json](./239575-warau-salesman-2.json) |
 | Warau Salesman 3 | 239576 | [239576-warau-salesman-3.json](./239576-warau-salesman-3.json) |
 | Warau Warawau | 147225 | [147225-warau-warawau.json](./147225-warau-warawau.json) |
