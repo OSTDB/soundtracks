@@ -7958,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eville: Mr. Peterson | 221423 | [221423-eville-mr-peterson.json](./221423-eville-mr-peterson.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
 | EvilMorph | 30333 | [30333-evilmorph.json](./30333-evilmorph.json) |
+| Evilmun | 191298 | [191298-evilmun.json](./191298-evilmun.json) |
 | Evilmun 2 | 187057 | [187057-evilmun-2.json](./187057-evilmun-2.json) |
 | Evilmun Family | 180196 | [180196-evilmun-family.json](./180196-evilmun-family.json) |
 | Evilmun Family 1.2.1 Forrest Fuss | 264462 | [264462-evilmun-family-1-2-1-forrest-fuss.json](./264462-evilmun-family-1-2-1-forrest-fuss.json) |
