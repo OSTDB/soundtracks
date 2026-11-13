@@ -9355,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi, Koi Utsutsu for Nintendo Switch | 253739 | [253739-shinobi-koi-utsutsu-for-nintendo-switch.json](./253739-shinobi-koi-utsutsu-for-nintendo-switch.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
+| Shinobi, Koi Utsutsu: Setsugekka Koi Emaki | 224194 | [224194-shinobi-koi-utsutsu-setsugekka-koi-emaki.json](./224194-shinobi-koi-utsutsu-setsugekka-koi-emaki.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
 | Shinobi: Art of Vengeance - Digital Deluxe Edition | 349598 | [349598-shinobi-art-of-vengeance-digital-deluxe-edition.json](./349598-shinobi-art-of-vengeance-digital-deluxe-edition.json) |
 | Shinobi: Art of Vengeance - Sega Villains Stage | 375165 | [375165-shinobi-art-of-vengeance-sega-villains-stage.json](./375165-shinobi-art-of-vengeance-sega-villains-stage.json) |
@@ -16724,6 +16725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
 | SnookerWorld | 31475 | [31475-snookerworld.json](./31475-snookerworld.json) |
+| Snookicker | 224190 | [224190-snookicker.json](./224190-snookicker.json) |
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops | 94286 | [94286-snooper-troops.json](./94286-snooper-troops.json) |
@@ -33090,6 +33092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Manor | 138426 | [138426-sunshine-manor.json](./138426-sunshine-manor.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunshine Shuffle | 224187 | [224187-sunshine-shuffle.json](./224187-sunshine-shuffle.json) |
 | Sunshine Story | 363091 | [363091-sunshine-story.json](./363091-sunshine-story.json) |
 | Sunshine.EXE | 391266 | [391266-sunshine-exe.json](./391266-sunshine-exe.json) |
 | Sunshore City | 396737 | [396737-sunshore-city.json](./396737-sunshore-city.json) |
@@ -37203,6 +37206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgit | 302889 | [302889-surgit.json](./302889-surgit.json) |
 | Suri: The Seventh Note | 333871 | [333871-suri-the-seventh-note.json](./333871-suri-the-seventh-note.json) |
 | Surmount | 126352 | [126352-surmount.json](./126352-surmount.json) |
+| Surmount: A Mountain Climbing Adventure | 224185 | [224185-surmount-a-mountain-climbing-adventure.json](./224185-surmount-a-mountain-climbing-adventure.json) |
 | Suroi | 288251 | [288251-suroi.json](./288251-suroi.json) |
 | Surprise Attack | 46783 | [46783-surprise-attack.json](./46783-surprise-attack.json) |
 | Surprise Bullfight | 396853 | [396853-surprise-bullfight.json](./396853-surprise-bullfight.json) |
