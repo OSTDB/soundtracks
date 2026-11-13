@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape | 59713 | [59713-cape.json](./59713-cape.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
+| Cape of Storms | 237101 | [237101-cape-of-storms.json](./237101-cape-of-storms.json) |
 | Cape Warrior | 424014 | [424014-cape-warrior.json](./424014-cape-warrior.json) |
 | Cape's Escape Game | 147593 | [147593-capes-escape-game.json](./147593-capes-escape-game.json) |
 | Cape's Escape Game 2.5th Room | 148326 | [148326-capes-escape-game-2-5th-room.json](./148326-capes-escape-game-2-5th-room.json) |
@@ -7808,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
 | Chicken Cluck Cluck! | 250823 | [250823-chicken-cluck-cluck.json](./250823-chicken-cluck-cluck.json) |
 | Chicken Coop | 193279 | [193279-chicken-coop.json](./193279-chicken-coop.json) |
+| Chicken Coop | 237116 | [237116-chicken-coop.json](./237116-chicken-coop.json) |
 | Chicken Coop | 42165 | [42165-chicken-coop.json](./42165-chicken-coop.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Daddy | 89480 | [89480-chicken-daddy.json](./89480-chicken-daddy.json) |
@@ -8387,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chitin | 335989 | [335989-chitin.json](./335989-chitin.json) |
 | Chitty Chitty Train | 194395 | [194395-chitty-chitty-train.json](./194395-chitty-chitty-train.json) |
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
+| Chivalrish | 237120 | [237120-chivalrish.json](./237120-chivalrish.json) |
 | Chivalry | 382524 | [382524-chivalry.json](./382524-chivalry.json) |
 | Chivalry 2 | 119342 | [119342-chivalry-2.json](./119342-chivalry-2.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
