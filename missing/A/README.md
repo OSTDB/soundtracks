@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Glider's Journey | 120462 | [120462-a-gliders-journey.json](./120462-a-gliders-journey.json) |
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
+| A God Who Lives in Your Head | 205676 | [205676-a-god-who-lives-in-your-head.json](./205676-a-god-who-lives-in-your-head.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
 | A Golden Wake | 8819 | [8819-a-golden-wake.json](./8819-a-golden-wake.json) |
 | A Goo Adventure | 38769 | [38769-a-goo-adventure.json](./38769-a-goo-adventure.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
 | A Memoir Blue | 106856 | [106856-a-memoir-blue.json](./106856-a-memoir-blue.json) |
 | A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
+| A Memoriam to a Fallen Furry Friend | 205677 | [205677-a-memoriam-to-a-fallen-furry-friend.json](./205677-a-memoriam-to-a-fallen-furry-friend.json) |
 | A Memory of a Library | 364136 | [364136-a-memory-of-a-library.json](./364136-a-memory-of-a-library.json) |
 | A Merchant's Promise | 327692 | [327692-a-merchants-promise.json](./327692-a-merchants-promise.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
 | A Palace for Fools | 182075 | [182075-a-palace-for-fools.json](./182075-a-palace-for-fools.json) |
 | A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
+| A Paradox Between Worlds | 205678 | [205678-a-paradox-between-worlds.json](./205678-a-paradox-between-worlds.json) |
 | A Paranormal Story | 335399 | [335399-a-paranormal-story.json](./335399-a-paranormal-story.json) |
 | A Park Full of Cats | 276198 | [276198-a-park-full-of-cats.json](./276198-a-park-full-of-cats.json) |
 | A Park Full of Cats: Haunted Ride | 276234 | [276234-a-park-full-of-cats-haunted-ride.json](./276234-a-park-full-of-cats-haunted-ride.json) |
@@ -3144,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acolyte | 149122 | [149122-acolyte.json](./149122-acolyte.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Acolyte of the Altar | 244924 | [244924-acolyte-of-the-altar.json](./244924-acolyte-of-the-altar.json) |
+| Acolytes of the Chrystal | 205679 | [205679-acolytes-of-the-chrystal.json](./205679-acolytes-of-the-chrystal.json) |
 | Aconcagua | 94123 | [94123-aconcagua.json](./94123-aconcagua.json) |
 | Aconite | 224832 | [224832-aconite.json](./224832-aconite.json) |
 | Aconite | 261712 | [261712-aconite.json](./261712-aconite.json) |
@@ -4284,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Keith Night: After a Shadow | 73733 | [73733-adventures-of-keith-night-after-a-shadow.json](./73733-adventures-of-keith-night-after-a-shadow.json) |
 | Adventures of Kok | 55367 | [55367-adventures-of-kok.json](./55367-adventures-of-kok.json) |
 | Adventures of Lolo | 191467 | [191467-adventures-of-lolo.json](./191467-adventures-of-lolo.json) |
+| Adventures of Lolo | 205731 | [205731-adventures-of-lolo.json](./205731-adventures-of-lolo.json) |
 | Adventures of Lolo | 3662 | [3662-adventures-of-lolo.json](./3662-adventures-of-lolo.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
@@ -6023,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
 | Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
 | Air Fleet | 264165 | [264165-air-fleet.json](./264165-air-fleet.json) |
+| Air Fli: Misuzu-chin Kiki Ippatsu | 205712 | [205712-air-fli-misuzu-chin-kiki-ippatsu.json](./205712-air-fli-misuzu-chin-kiki-ippatsu.json) |
 | Air Force 1945: Sky Strikers | 58150 | [58150-air-force-1945-sky-strikers.json](./58150-air-force-1945-sky-strikers.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
@@ -7718,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Rush | 344126 | [344126-alien-rush.json](./344126-alien-rush.json) |
 | Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
+| Alien Science | 205723 | [205723-alien-science.json](./205723-alien-science.json) |
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Ship Console | 320205 | [320205-alien-ship-console.json](./320205-alien-ship-console.json) |
@@ -8102,6 +8109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All in Casino Girls: Extended Edition | 237855 | [237855-all-in-casino-girls-extended-edition.json](./237855-all-in-casino-girls-extended-edition.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
+| All in Love and War | 205724 | [205724-all-in-love-and-war.json](./205724-all-in-love-and-war.json) |
 | All in One | 390565 | [390565-all-in-one.json](./390565-all-in-one.json) |
 | All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
 | All In One Sports: Four Ball Billiards | 417371 | [417371-all-in-one-sports-four-ball-billiards.json](./417371-all-in-one-sports-four-ball-billiards.json) |
@@ -8217,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Gold in Fort Locks | 408498 | [408498-all-the-gold-in-fort-locks.json](./408498-all-the-gold-in-fort-locks.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
 | All the King's Men | 163856 | [163856-all-the-kings-men.json](./163856-all-the-kings-men.json) |
+| All the King's Men | 205725 | [205725-all-the-kings-men.json](./205725-all-the-kings-men.json) |
 | All the Mario | 358320 | [358320-all-the-mario.json](./358320-all-the-mario.json) |
 | All the Mods 10 | 388536 | [388536-all-the-mods-10.json](./388536-all-the-mods-10.json) |
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
@@ -9910,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
 | An Abstract Art Game in 10 Seconds | 319548 | [319548-an-abstract-art-game-in-10-seconds.json](./319548-an-abstract-art-game-in-10-seconds.json) |
 | An Abyss of Dreams | 325339 | [325339-an-abyss-of-dreams.json](./325339-an-abyss-of-dreams.json) |
+| An Ace Walks Into a Bar | 205726 | [205726-an-ace-walks-into-a-bar.json](./205726-an-ace-walks-into-a-bar.json) |
 | An Act of Murder | 217666 | [217666-an-act-of-murder.json](./217666-an-act-of-murder.json) |
 | An Action Roguelite For When You Have 20 Minutes to Spare | 244828 | [244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json](./244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json) |
 | An Adventure and a Half | 284143 | [284143-an-adventure-and-a-half.json](./284143-an-adventure-and-a-half.json) |
@@ -12615,6 +12625,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment Love Triangle | 298912 | [298912-apartment-love-triangle.json](./298912-apartment-love-triangle.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
+| Apartment No. 9 | 205727 | [205727-apartment-no-9.json](./205727-apartment-no-9.json) |
+| Apartment No. 9: BxG Version | 205729 | [205729-apartment-no-9-bxg-version.json](./205729-apartment-no-9-bxg-version.json) |
 | Apartment No.9: GxB Version | 179804 | [179804-apartment-no-9-gxb-version.json](./179804-apartment-no-9-gxb-version.json) |
 | Apartment of Death | 291504 | [291504-apartment-of-death.json](./291504-apartment-of-death.json) |
 | Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
