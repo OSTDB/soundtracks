@@ -6167,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Graffiti: Yakusoku | 419769 | [419769-sentimental-graffiti-yakusoku.json](./419769-sentimental-graffiti-yakusoku.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentimental K | 132567 | [132567-sentimental-k.json](./132567-sentimental-k.json) |
+| Sentimental Trickster: Yaoi BL Gay Visual Novel | 173864 | [173864-sentimental-trickster-yaoi-bl-gay-visual-novel.json](./173864-sentimental-trickster-yaoi-bl-gay-visual-novel.json) |
 | Sentinel | 11626 | [11626-sentinel.json](./11626-sentinel.json) |
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex and Zombies | 228199 | [228199-sex-and-zombies.json](./228199-sex-and-zombies.json) |
 | Sex Any Cost but Free | 369144 | [369144-sex-any-cost-but-free.json](./369144-sex-any-cost-but-free.json) |
 | Sex Apartments | 284538 | [284538-sex-apartments.json](./284538-sex-apartments.json) |
+| Sex Apocalypse | 173867 | [173867-sex-apocalypse.json](./173867-sex-apocalypse.json) |
 | Sex Apocalypse 2 | 270915 | [270915-sex-apocalypse-2.json](./270915-sex-apocalypse-2.json) |
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Bar Simulator | 263178 | [263178-sex-bar-simulator.json](./263178-sex-bar-simulator.json) |
@@ -24377,6 +24379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: The Silver Arrow - Collector's Edition | 93806 | [93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json](./93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json) |
 | Spirits of Mystery: Whisper of the Past | 302172 | [302172-spirits-of-mystery-whisper-of-the-past.json](./302172-spirits-of-mystery-whisper-of-the-past.json) |
 | Spirits of the Forest | 183839 | [183839-spirits-of-the-forest.json](./183839-spirits-of-the-forest.json) |
+| Spirits of the Hellements | 173880 | [173880-spirits-of-the-hellements.json](./173880-spirits-of-the-hellements.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits of the Unloved | 340181 | [340181-spirits-of-the-unloved.json](./340181-spirits-of-the-unloved.json) |
 | Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
