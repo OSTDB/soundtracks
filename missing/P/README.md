@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: Moscow'41 | 142822 | [142822-panzer-campaigns-moscow41.json](./142822-panzer-campaigns-moscow41.json) |
 | Panzer Campaigns: Moscow'42 | 142823 | [142823-panzer-campaigns-moscow42.json](./142823-panzer-campaigns-moscow42.json) |
 | Panzer Campaigns: Normandy '44 Gold | 124727 | [124727-panzer-campaigns-normandy-44-gold.json](./124727-panzer-campaigns-normandy-44-gold.json) |
+| Panzer Campaigns: Philippines ’44 | 240459 | [240459-panzer-campaigns-philippines-44.json](./240459-panzer-campaigns-philippines-44.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Campaigns: Salerno '43 Gold | 124735 | [124735-panzer-campaigns-salerno-43-gold.json](./124735-panzer-campaigns-salerno-43-gold.json) |
 | Panzer Campaigns: Sealion '40 Gold | 124716 | [124716-panzer-campaigns-sealion-40-gold.json](./124716-panzer-campaigns-sealion-40-gold.json) |
