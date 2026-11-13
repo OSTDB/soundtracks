@@ -9347,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambition: A Minuet in Power | 76255 | [76255-ambition-a-minuet-in-power.json](./76255-ambition-a-minuet-in-power.json) |
 | Ambition: Strategy War Game | 200037 | [200037-ambition-strategy-war-game.json](./200037-ambition-strategy-war-game.json) |
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
+| Ambitious | 196755 | [196755-ambitious.json](./196755-ambitious.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | AmbivalenZ: Niritsu Haihan | 93351 | [93351-ambivalenz-niritsu-haihan.json](./93351-ambivalenz-niritsu-haihan.json) |
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
