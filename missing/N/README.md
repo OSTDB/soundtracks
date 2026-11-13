@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nala Cat | 257779 | [257779-nala-cat.json](./257779-nala-cat.json) |
 | Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
 | Nali Chronicles | 261020 | [261020-nali-chronicles.json](./261020-nali-chronicles.json) |
+| Nalleland | 179646 | [179646-nalleland.json](./179646-nalleland.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam | 2534 | [2534-nam.json](./2534-nam.json) |
 | Nam | 26288 | [26288-nam.json](./26288-nam.json) |
@@ -3151,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netronian Chaos | 198355 | [198355-netronian-chaos.json](./198355-netronian-chaos.json) |
 | Netrun 2000 | 314146 | [314146-netrun-2000.json](./314146-netrun-2000.json) |
 | Netrunner | 139112 | [139112-netrunner.json](./139112-netrunner.json) |
+| Netscape Cybermind | 177599 | [177599-netscape-cybermind.json](./177599-netscape-cybermind.json) |
 | Netshell | 398015 | [398015-netshell.json](./398015-netshell.json) |
 | Netsoccer2 | 126247 | [126247-netsoccer2.json](./126247-netsoccer2.json) |
 | NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
