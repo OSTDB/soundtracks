@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
 | Dashy No Buttstomp | 349255 | [349255-dashy-no-buttstomp.json](./349255-dashy-no-buttstomp.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
+| DashZ | 241606 | [241606-dashz.json](./241606-dashz.json) |
 | DaSi | 80637 | [80637-dasi.json](./80637-dasi.json) |
 | Dasra's Cabinet | 139693 | [139693-dasras-cabinet.json](./139693-dasras-cabinet.json) |
 | Dass: Den Haandholdte Troldmann | 114606 | [114606-dass-den-haandholdte-troldmann.json](./114606-dass-den-haandholdte-troldmann.json) |
@@ -10468,6 +10469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
 | Dino Robot Infinity | 193842 | [193842-dino-robot-infinity.json](./193842-dino-robot-infinity.json) |
 | Dino Robot: Megalodon | 193796 | [193796-dino-robot-megalodon.json](./193796-dino-robot-megalodon.json) |
+| Dino Rocks | 241605 | [241605-dino-rocks.json](./241605-dino-rocks.json) |
 | Dino Run | 260083 | [260083-dino-run.json](./260083-dino-run.json) |
 | Dino Run | 8309 | [8309-dino-run.json](./8309-dino-run.json) |
 | Dino Run 2 | 87853 | [87853-dino-run-2.json](./87853-dino-run-2.json) |
@@ -15639,6 +15641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
 | Dracula Trilogy | 124940 | [124940-dracula-trilogy.json](./124940-dracula-trilogy.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
+| Dracula Twins | 241604 | [241604-dracula-twins.json](./241604-dracula-twins.json) |
 | Dracula Unleashed | 5376 | [5376-dracula-unleashed.json](./5376-dracula-unleashed.json) |
 | Dracula vs. Monsters | 298584 | [298584-dracula-vs-monsters.json](./298584-dracula-vs-monsters.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
