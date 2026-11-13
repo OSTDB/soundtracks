@@ -13012,6 +13012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Chicken | 181451 | [181451-the-last-chicken.json](./181451-the-last-chicken.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
+| The Last Citadel | 192474 | [192474-the-last-citadel.json](./192474-the-last-citadel.json) |
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
 | The Last City | 202725 | [202725-the-last-city.json](./202725-the-last-city.json) |
 | The Last Cohort | 141528 | [141528-the-last-cohort.json](./141528-the-last-cohort.json) |
@@ -14294,6 +14295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long March: 20000 Miles of Journey | 373045 | [373045-the-long-march-20000-miles-of-journey.json](./373045-the-long-march-20000-miles-of-journey.json) |
 | The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
 | The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
+| The Long Road North | 192484 | [192484-the-long-road-north.json](./192484-the-long-road-north.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Siege | 239428 | [239428-the-long-siege.json](./239428-the-long-siege.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
@@ -33849,6 +33851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triotale | 331778 | [331778-triotale.json](./331778-triotale.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
 | Trip | 217479 | [217479-trip.json](./217479-trip.json) |
+| Trip In Another World | 192867 | [192867-trip-in-another-world.json](./192867-trip-in-another-world.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Japan Puzzle | 358010 | [358010-trip-japan-puzzle.json](./358010-trip-japan-puzzle.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
