@@ -5850,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Countdown Calendar | 85309 | [85309-nintendo-countdown-calendar.json](./85309-nintendo-countdown-calendar.json) |
 | Nintendo DS Browser | 297580 | [297580-nintendo-ds-browser.json](./297580-nintendo-ds-browser.json) |
 | Nintendo DSi Metronome | 85311 | [85311-nintendo-dsi-metronome.json](./85311-nintendo-dsi-metronome.json) |
+| Nintendo Friends Object Hunt | 231655 | [231655-nintendo-friends-object-hunt.json](./231655-nintendo-friends-object-hunt.json) |
 | Nintendo Game Seminar 2013: Jukousei Sakuhin | 396385 | [396385-nintendo-game-seminar-2013-jukousei-sakuhin.json](./396385-nintendo-game-seminar-2013-jukousei-sakuhin.json) |
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
 | Nintendo Labo: Toy-Con 02 - Robot Kit | 85307 | [85307-nintendo-labo-toy-con-02-robot-kit.json](./85307-nintendo-labo-toy-con-02-robot-kit.json) |
