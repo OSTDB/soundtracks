@@ -25591,7 +25591,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidoku | 181075 | [181075-squidoku.json](./181075-squidoku.json) |
 | Squids | 19878 | [19878-squids.json](./19878-squids.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
-| Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squids Wild West | 19879 | [19879-squids-wild-west.json](./19879-squids-wild-west.json) |
 | Squids: Battle Arena | 217446 | [217446-squids-battle-arena.json](./217446-squids-battle-arena.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
