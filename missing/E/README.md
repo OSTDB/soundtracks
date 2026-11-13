@@ -67,7 +67,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.E Chronicle | 208847 | [208847-e-t-e-chronicle.json](./208847-e-t-e-chronicle.json) |
 | E.T.X.: The Extra Terrestrial Xargon | 46040 | [46040-e-t-x-the-extra-terrestrial-xargon.json](./46040-e-t-x-the-extra-terrestrial-xargon.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
-| E.X. Troopers | 26384 | [26384-e-x-troopers.json](./26384-e-x-troopers.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
 | E.Y.E: Divine Cybermancy | 6230 | [6230-e-y-e-divine-cybermancy.json](./6230-e-y-e-divine-cybermancy.json) |
 | E.Z | 86280 | [86280-e-z.json](./86280-e-z.json) |
@@ -734,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebola 4 | 251945 | [251945-ebola-4.json](./251945-ebola-4.json) |
 | Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
+| Ebola Village | 238788 | [238788-ebola-village.json](./238788-ebola-village.json) |
 | EbonSide | 189251 | [189251-ebonside.json](./189251-ebonside.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
@@ -9038,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| Extreme Typer | 238790 | [238790-extreme-typer.json](./238790-extreme-typer.json) |
 | Extreme Vector Parkour Simulator 3D | 109228 | [109228-extreme-vector-parkour-simulator-3d.json](./109228-extreme-vector-parkour-simulator-3d.json) |
 | Extreme Velocity 3 | 58155 | [58155-extreme-velocity-3.json](./58155-extreme-velocity-3.json) |
 | Extreme Volleyball Infernal League | 250726 | [250726-extreme-volleyball-infernal-league.json](./250726-extreme-volleyball-infernal-league.json) |
