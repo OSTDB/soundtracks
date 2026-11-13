@@ -6250,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Exo Mech | 222090 | [222090-no-mans-sky-exo-mech.json](./222090-no-mans-sky-exo-mech.json) |
 | No Man's Sky: Expeditions | 221635 | [221635-no-mans-sky-expeditions.json](./221635-no-mans-sky-expeditions.json) |
 | No Man's Sky: Foundation | 222782 | [222782-no-mans-sky-foundation.json](./222782-no-mans-sky-foundation.json) |
+| No Man's Sky: Fractal | 239278 | [239278-no-mans-sky-fractal.json](./239278-no-mans-sky-fractal.json) |
 | No Man's Sky: Frontiers | 221607 | [221607-no-mans-sky-frontiers.json](./221607-no-mans-sky-frontiers.json) |
 | No Man's Sky: Interceptor | 243881 | [243881-no-mans-sky-interceptor.json](./243881-no-mans-sky-interceptor.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
