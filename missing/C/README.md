@@ -12716,6 +12716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogen: Sword of Rewind | 142598 | [142598-cogen-sword-of-rewind.json](./142598-cogen-sword-of-rewind.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
+| Cogen: Sword of Rewind - Limited Edition | 172803 | [172803-cogen-sword-of-rewind-limited-edition.json](./172803-cogen-sword-of-rewind-limited-edition.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
 | Cogito | 30774 | [30774-cogito.json](./30774-cogito.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
@@ -16295,6 +16296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
 | Cornhole | 349579 | [349579-cornhole.json](./349579-cornhole.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
+| Cornmaze Craze | 172798 | [172798-cornmaze-craze.json](./172798-cornmaze-craze.json) |
 | Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
 | Cornucopia | 197077 | [197077-cornucopia.json](./197077-cornucopia.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
@@ -22236,6 +22238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
 | Cute Hoop Master | 212446 | [212446-cute-hoop-master.json](./212446-cute-hoop-master.json) |
 | Cute Ice! | 277958 | [277958-cute-ice.json](./277958-cute-ice.json) |
+| Cute Invaders | 172808 | [172808-cute-invaders.json](./172808-cute-invaders.json) |
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
 | Cute Kitty | 251127 | [251127-cute-kitty.json](./251127-cute-kitty.json) |
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
