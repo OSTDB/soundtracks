@@ -11018,6 +11018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
 | Rogue Vault | 420645 | [420645-rogue-vault.json](./420645-rogue-vault.json) |
 | Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
+| Rogue Voltage | 211857 | [211857-rogue-voltage.json](./211857-rogue-voltage.json) |
 | Rogue Warlords | 199340 | [199340-rogue-warlords.json](./199340-rogue-warlords.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Wars | 169581 | [169581-rogue-wars.json](./169581-rogue-wars.json) |
@@ -11704,6 +11705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Rondo Leaflet | 60402 | [60402-rondo-leaflet.json](./60402-rondo-leaflet.json) |
+| Rondo of Darkness: The Curse of Twin Moon | 211850 | [211850-rondo-of-darkness-the-curse-of-twin-moon.json](./211850-rondo-of-darkness-the-curse-of-twin-moon.json) |
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
 | Rondo's Romp | 422137 | [422137-rondos-romp.json](./422137-rondos-romp.json) |
 | Rondoku | 374514 | [374514-rondoku.json](./374514-rondoku.json) |
