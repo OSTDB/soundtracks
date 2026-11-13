@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
 | Well, me neither | 261492 | [261492-well-me-neither.json](./261492-well-me-neither.json) |
 | Well... | 240082 | [240082-well.json](./240082-well.json) |
+| Wellboy | 200076 | [200076-wellboy.json](./200076-wellboy.json) |
 | Wellington's Peninsular Campaign | 144828 | [144828-wellingtons-peninsular-campaign.json](./144828-wellingtons-peninsular-campaign.json) |
 | Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
@@ -7501,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WMS Slots: The Jade Monkey | 25380 | [25380-wms-slots-the-jade-monkey.json](./25380-wms-slots-the-jade-monkey.json) |
 | WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
 | WMS Slots: Zeus II | 77513 | [77513-wms-slots-zeus-ii.json](./77513-wms-slots-zeus-ii.json) |
+| WMW: War Machine Wrestling | 200090 | [200090-wmw-war-machine-wrestling.json](./200090-wmw-war-machine-wrestling.json) |
 | WN | 74455 | [74455-wn.json](./74455-wn.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
 | Wǒ de Shòu'ěr Hòugōng: Xùzhāng | 126234 | [126234-wo-de-shouer-hougong-xuzhang.json](./126234-wo-de-shouer-hougong-xuzhang.json) |
