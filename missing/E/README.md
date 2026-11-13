@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emi's Country Store and Farm | 218582 | [218582-emis-country-store-and-farm.json](./218582-emis-country-store-and-farm.json) |
 | Emi's Solo Ghost Hunting | 350954 | [350954-emis-solo-ghost-hunting.json](./350954-emis-solo-ghost-hunting.json) |
 | Emi's Solo Ghost Hunting 2 | 408020 | [408020-emis-solo-ghost-hunting-2.json](./408020-emis-solo-ghost-hunting-2.json) |
+| Emiko's Pledge | 189212 | [189212-emikos-pledge.json](./189212-emikos-pledge.json) |
 | Emiko's Pledge 2 | 197466 | [197466-emikos-pledge-2.json](./197466-emikos-pledge-2.json) |
 | Emiko's Pledge 3 | 211635 | [211635-emikos-pledge-3.json](./211635-emikos-pledge-3.json) |
 | Emiko's Pledge 4 | 306393 | [306393-emikos-pledge-4.json](./306393-emikos-pledge-4.json) |
