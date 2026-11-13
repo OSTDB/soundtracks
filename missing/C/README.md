@@ -8650,6 +8650,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Choose Your Own Nightmare: How I Became a Freak | 371199 | [371199-choose-your-own-nightmare-how-i-became-a-freak.json](./371199-choose-your-own-nightmare-how-i-became-a-freak.json) |
 | Choose Your Own Nightmare: Night of the Werewolf | 144032 | [144032-choose-your-own-nightmare-night-of-the-werewolf.json](./144032-choose-your-own-nightmare-night-of-the-werewolf.json) |
+| Choose Your Own Nightmare: The Bite of the Vampire | 206267 | [206267-choose-your-own-nightmare-the-bite-of-the-vampire.json](./206267-choose-your-own-nightmare-the-bite-of-the-vampire.json) |
+| Choose Your Own Nightmare: The Curse of the Mummy | 206261 | [206261-choose-your-own-nightmare-the-curse-of-the-mummy.json](./206261-choose-your-own-nightmare-the-curse-of-the-mummy.json) |
 | Choose Your Paul! | 406139 | [406139-choose-your-paul.json](./406139-choose-your-paul.json) |
 | Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
 | Choose Your Weapon | 234719 | [234719-choose-your-weapon.json](./234719-choose-your-weapon.json) |
