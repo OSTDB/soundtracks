@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eloquent | 339742 | [339742-eloquent.json](./339742-eloquent.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
 | Eloriasha | 242751 | [242751-eloriasha.json](./242751-eloriasha.json) |
+| Elowen's Light | 217042 | [217042-elowens-light.json](./217042-elowens-light.json) |
 | Elowyn and the Stolen Souls | 271634 | [271634-elowyn-and-the-stolen-souls.json](./271634-elowyn-and-the-stolen-souls.json) |
 | Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
 | Elphame | 138475 | [138475-elphame.json](./138475-elphame.json) |
@@ -4689,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entheogen | 366259 | [366259-entheogen.json](./366259-entheogen.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Enthralled | 339753 | [339753-enthralled.json](./339753-enthralled.json) |
+| Enthrean Radiance: The First Strike | 217429 | [217429-enthrean-radiance-the-first-strike.json](./217429-enthrean-radiance-the-first-strike.json) |
 | Enthruxia | 179149 | [179149-enthruxia.json](./179149-enthruxia.json) |
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entities | 264921 | [264921-entities.json](./264921-entities.json) |
