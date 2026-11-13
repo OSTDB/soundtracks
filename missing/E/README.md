@@ -5812,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tatris | 167587 | [167587-escape-from-tatris.json](./167587-escape-from-tatris.json) |
 | Escape From Terror City | 142882 | [142882-escape-from-terror-city.json](./142882-escape-from-terror-city.json) |
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
+| Escape from the 70's | 193917 | [193917-escape-from-the-70s.json](./193917-escape-from-the-70s.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape From the BadTrip: Episode 1 | 195843 | [195843-escape-from-the-badtrip-episode-1.json](./195843-escape-from-the-badtrip-episode-1.json) |
 | Escape from the Black Monolith | 386762 | [386762-escape-from-the-black-monolith.json](./386762-escape-from-the-black-monolith.json) |
@@ -6061,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Route | 147871 | [147871-escape-route.json](./147871-escape-route.json) |
+| Escape Sand Dunes | 193514 | [193514-escape-sand-dunes.json](./193514-escape-sand-dunes.json) |
 | Escape Sequence | 164293 | [164293-escape-sequence.json](./164293-escape-sequence.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Shadow Storm | 255272 | [255272-escape-shadow-storm.json](./255272-escape-shadow-storm.json) |
