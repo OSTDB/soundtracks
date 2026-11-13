@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyword 2: Nightfall | 276657 | [276657-keyword-2-nightfall.json](./276657-keyword-2-nightfall.json) |
 | Keyword: A Spider's Thread | 162077 | [162077-keyword-a-spiders-thread.json](./162077-keyword-a-spiders-thread.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
+| Keywords of A Life | 210767 | [210767-keywords-of-a-life.json](./210767-keywords-of-a-life.json) |
 | Keyworker Simulator | 217152 | [217152-keyworker-simulator.json](./217152-keyworker-simulator.json) |
 | Keywraith | 415638 | [415638-keywraith.json](./415638-keywraith.json) |
 | Keziah's Realm | 329100 | [329100-keziahs-realm.json](./329100-keziahs-realm.json) |
@@ -5156,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knitewings | 391643 | [391643-knitewings.json](./391643-knitewings.json) |
 | Knither Special | 41730 | [41730-knither-special.json](./41730-knither-special.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
+| Knittens | 210763 | [210763-knittens.json](./210763-knittens.json) |
 | Knives Out | 77776 | [77776-knives-out.json](./77776-knives-out.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
@@ -6119,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
+| Koumajou Densetsu I&II Premium Pack | 210769 | [210769-koumajou-densetsu-i-and-ii-premium-pack.json](./210769-koumajou-densetsu-i-and-ii-premium-pack.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
 | Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Koumajou Remilia: Scarlet Symphony | 151806 | [151806-koumajou-remilia-scarlet-symphony.json](./151806-koumajou-remilia-scarlet-symphony.json) |
