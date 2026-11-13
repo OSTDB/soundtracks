@@ -4581,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Early Years! Fun with Numbers | 42501 | [42501-marios-early-years-fun-with-numbers.json](./42501-marios-early-years-fun-with-numbers.json) |
 | Mario's Early Years! Preschool Fun | 42500 | [42500-marios-early-years-preschool-fun.json](./42500-marios-early-years-preschool-fun.json) |
 | Mario's Egg | 318861 | [318861-marios-egg.json](./318861-marios-egg.json) |
+| Mario's Egg Catch Game | 178109 | [178109-marios-egg-catch-game.json](./178109-marios-egg-catch-game.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Festive Jigsaw Jumble | 231659 | [231659-marios-festive-jigsaw-jumble.json](./231659-marios-festive-jigsaw-jumble.json) |
 | Mario's Festive Mix-up! | 231658 | [231658-marios-festive-mix-up.json](./231658-marios-festive-mix-up.json) |
@@ -16166,6 +16167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
 | Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
 | Modulus: Factory Automation | 324265 | [324265-modulus-factory-automation.json](./324265-modulus-factory-automation.json) |
+| Modus Interactive-ShaderLab | 177979 | [177979-modus-interactive-shaderlab.json](./177979-modus-interactive-shaderlab.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
