@@ -4391,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostland Yard | 213509 | [213509-ghostland-yard.json](./213509-ghostland-yard.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
+| Ghostlight | 179767 | [179767-ghostlight.json](./179767-ghostlight.json) |
 | Ghostlight Manor | 30434 | [30434-ghostlight-manor.json](./30434-ghostlight-manor.json) |
 | Ghostlight Melancholia | 201082 | [201082-ghostlight-melancholia.json](./201082-ghostlight-melancholia.json) |
 | Ghostlop | 40126 | [40126-ghostlop.json](./40126-ghostlop.json) |
@@ -9501,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayton the Detective | 376661 | [376661-grayton-the-detective.json](./376661-grayton-the-detective.json) |
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
 | Graywood: Noir Detective | 167492 | [167492-graywood-noir-detective.json](./167492-graywood-noir-detective.json) |
+| Graze | 180172 | [180172-graze.json](./180172-graze.json) |
 | Graze Counter | 44163 | [44163-graze-counter.json](./44163-graze-counter.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
 | Grazers | 307167 | [307167-grazers.json](./307167-grazers.json) |
