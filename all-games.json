@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T00:55:51.612Z",
-  "total_soundtracks": 3256,
+  "generated_at": "2026-11-13T01:05:52.753Z",
+  "total_soundtracks": 3257,
   "games": [
     {
       "igdb_id": 7522,
@@ -12159,6 +12159,20 @@
         {
           "album_name": "Felvidék (OST)",
           "spotify_url": "https://open.spotify.com/album/7yYUW5HULOYozYX5qMCm5X",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 29056,
+      "game_name": "Fight of Gods",
+      "game_url": "https://ostdb.net/games/fight-of-gods",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732d35f4410fccc8414734e79a",
+      "albums": [
+        {
+          "album_name": "Fight of Gods (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5WVWXHxkbPjw7l959ozZbg",
           "apple_music_url": "",
           "album_link_url": ""
         }
