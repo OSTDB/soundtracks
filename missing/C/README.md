@@ -19966,6 +19966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crown Clicker | 142145 | [142145-crown-clicker.json](./142145-crown-clicker.json) |
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
+| Crown Delights Deli | 190120 | [190120-crown-delights-deli.json](./190120-crown-delights-deli.json) |
 | Crown Four Kingdoms | 124506 | [124506-crown-four-kingdoms.json](./124506-crown-four-kingdoms.json) |
 | Crown Jewelz | 297103 | [297103-crown-jewelz.json](./297103-crown-jewelz.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
