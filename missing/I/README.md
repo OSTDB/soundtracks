@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 2 | 273681 | [273681-ice-scream-2.json](./273681-ice-scream-2.json) |
 | Ice Scream 3 | 224040 | [224040-ice-scream-3.json](./224040-ice-scream-3.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
+| Ice Scream 5 Friends: Mike's Adventures | 174928 | [174928-ice-scream-5-friends-mikes-adventures.json](./174928-ice-scream-5-friends-mikes-adventures.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
