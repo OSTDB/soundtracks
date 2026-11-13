@@ -12118,6 +12118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtransaction Simulator | 56631 | [56631-microtransaction-simulator.json](./56631-microtransaction-simulator.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
+| Microvania | 185053 | [185053-microvania.json](./185053-microvania.json) |
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microvolts: Recharged | 214856 | [214856-microvolts-recharged.json](./214856-microvolts-recharged.json) |
@@ -22952,6 +22953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Musical Romance | 299537 | [299537-my-musical-romance.json](./299537-my-musical-romance.json) |
 | My Mystic Secretary | 254614 | [254614-my-mystic-secretary.json](./254614-my-mystic-secretary.json) |
 | My name is human | 153927 | [153927-my-name-is-human.json](./153927-my-name-is-human.json) |
+| My Name is Legion | 185062 | [185062-my-name-is-legion.json](./185062-my-name-is-legion.json) |
 | My Name is Mayo | 33747 | [33747-my-name-is-mayo.json](./33747-my-name-is-mayo.json) |
 | My Name is Mayo 2 | 141693 | [141693-my-name-is-mayo-2.json](./141693-my-name-is-mayo-2.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
