@@ -3637,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory N | 343326 | [343326-maplestory-n.json](./343326-maplestory-n.json) |
 | Maplestory Odyssey | 226758 | [226758-maplestory-odyssey.json](./226758-maplestory-odyssey.json) |
 | MapleStory R: Evolution | 262860 | [262860-maplestory-r-evolution.json](./262860-maplestory-r-evolution.json) |
+| MapleStory Worlds | 215955 | [215955-maplestory-worlds.json](./215955-maplestory-worlds.json) |
 | MapleStory: Idle RPG | 376742 | [376742-maplestory-idle-rpg.json](./376742-maplestory-idle-rpg.json) |
 | MapleStory: Unmei no Shoujo | 130368 | [130368-maplestory-unmei-no-shoujo.json](./130368-maplestory-unmei-no-shoujo.json) |
 | Maplewood Junior High 2 | 310956 | [310956-maplewood-junior-high-2.json](./310956-maplewood-junior-high-2.json) |
@@ -10849,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Toy Excavator | 336842 | [336842-metal-toy-excavator.json](./336842-metal-toy-excavator.json) |
 | Metal Undergrowth | 372428 | [372428-metal-undergrowth.json](./372428-metal-undergrowth.json) |
 | Metal Unit | 125038 | [125038-metal-unit.json](./125038-metal-unit.json) |
+| Metal Voyager | 217035 | [217035-metal-voyager.json](./217035-metal-voyager.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
 | Metal Waltz: Anime tank girls | 28431 | [28431-metal-waltz-anime-tank-girls.json](./28431-metal-waltz-anime-tank-girls.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
@@ -11664,6 +11666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroGo | 61359 | [61359-microgo.json](./61359-microgo.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
 | Microgravity | 123224 | [123224-microgravity.json](./123224-microgravity.json) |
+| Microgue | 216367 | [216367-microgue.json](./216367-microgue.json) |
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | Microids Indie Bundle | 247359 | [247359-microids-indie-bundle.json](./247359-microids-indie-bundle.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
@@ -12711,6 +12714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
 | Miki's World: The Lost Tiara | 256658 | [256658-mikis-world-the-lost-tiara.json](./256658-mikis-world-the-lost-tiara.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
+| Mikiwam | 216384 | [216384-mikiwam.json](./216384-mikiwam.json) |
 | Mikmak World | 401056 | [401056-mikmak-world.json](./401056-mikmak-world.json) |
 | Miko Adventures Puffball | 149774 | [149774-miko-adventures-puffball.json](./149774-miko-adventures-puffball.json) |
 | Miko Funk | 370428 | [370428-miko-funk.json](./370428-miko-funk.json) |
@@ -20696,6 +20700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
 | Mud Slinger | 134193 | [134193-mud-slinger.json](./134193-mud-slinger.json) |
 | Mud Tyres: Offroad Edition | 90066 | [90066-mud-tyres-offroad-edition.json](./90066-mud-tyres-offroad-edition.json) |
+| Mud Warriors | 215946 | [215946-mud-warriors.json](./215946-mud-warriors.json) |
 | Mud Way | 212670 | [212670-mud-way.json](./212670-mud-way.json) |
 | MUD: FIM Motocross World Championship | 20848 | [20848-mud-fim-motocross-world-championship.json](./20848-mud-fim-motocross-world-championship.json) |
 | Mudang: Two Hearts | 348199 | [348199-mudang-two-hearts.json](./348199-mudang-two-hearts.json) |
@@ -22670,6 +22675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Blacksmith | 79684 | [79684-my-little-blacksmith.json](./79684-my-little-blacksmith.json) |
 | My Little Blood Cult: Let's Summon Demons | 264791 | [264791-my-little-blood-cult-lets-summon-demons.json](./264791-my-little-blood-cult-lets-summon-demons.json) |
 | My Little Bomb | 81920 | [81920-my-little-bomb.json](./81920-my-little-bomb.json) |
+| My Little Booth Bundle | 216365 | [216365-my-little-booth-bundle.json](./216365-my-little-booth-bundle.json) |
 | My Little Cafe Nightmare | 348334 | [348334-my-little-cafe-nightmare.json](./348334-my-little-cafe-nightmare.json) |
 | My Little Car Wash | 174238 | [174238-my-little-car-wash.json](./174238-my-little-car-wash.json) |
 | My Little Career | 261852 | [261852-my-little-career.json](./261852-my-little-career.json) |
