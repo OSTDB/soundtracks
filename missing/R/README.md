@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember, Lights Out | 126882 | [126882-remember-lights-out.json](./126882-remember-lights-out.json) |
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remember: A Horror Puzzle Game | 174484 | [174484-remember-a-horror-puzzle-game.json](./174484-remember-a-horror-puzzle-game.json) |
+| Remember? | 224863 | [224863-remember.json](./224863-remember.json) |
 | Remember11: The Age of Infinity | 18040 | [18040-remember11-the-age-of-infinity.json](./18040-remember11-the-age-of-infinity.json) |
 | Remembering Emily | 348865 | [348865-remembering-emily.json](./348865-remembering-emily.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
@@ -11793,6 +11794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 9 | 128758 | [128758-room-9.json](./128758-room-9.json) |
 | Room and a Half | 326559 | [326559-room-and-a-half.json](./326559-room-and-a-half.json) |
 | Room and a Half 2 | 326560 | [326560-room-and-a-half-2.json](./326560-room-and-a-half-2.json) |
+| Room Before the Dark | 224870 | [224870-room-before-the-dark.json](./224870-room-before-the-dark.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room Builder | 180913 | [180913-room-builder.json](./180913-room-builder.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
