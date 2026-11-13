@@ -6408,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Einar | 52065 | [52065-little-einar.json](./52065-little-einar.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
+| Little Eternal Chronicle | 236485 | [236485-little-eternal-chronicle.json](./236485-little-eternal-chronicle.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
 | Little Farm | 10568 | [10568-little-farm.json](./10568-little-farm.json) |
 | Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
@@ -8424,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Football: Eastern Europe | 10520 | [10520-lords-of-football-eastern-europe.json](./10520-lords-of-football-eastern-europe.json) |
 | Lords of Football: Super Training | 10521 | [10521-lords-of-football-super-training.json](./10521-lords-of-football-super-training.json) |
 | Lords of Football: United States | 172347 | [172347-lords-of-football-united-states.json](./172347-lords-of-football-united-states.json) |
+| Lords of Infinity | 236584 | [236584-lords-of-infinity.json](./236584-lords-of-infinity.json) |
 | Lords of Karma | 18713 | [18713-lords-of-karma.json](./18713-lords-of-karma.json) |
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
@@ -8790,6 +8792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Horizon | 7311 | [7311-lost-horizon.json](./7311-lost-horizon.json) |
 | Lost Horizon 2 | 7312 | [7312-lost-horizon-2.json](./7312-lost-horizon-2.json) |
 | Lost Host | 378896 | [378896-lost-host.json](./378896-lost-host.json) |
+| Lost Hotel | 236567 | [236567-lost-hotel.json](./236567-lost-hotel.json) |
 | Lost Howl | 374894 | [374894-lost-howl.json](./374894-lost-howl.json) |
 | Lost Identities | 272794 | [272794-lost-identities.json](./272794-lost-identities.json) |
 | Lost Impressions | 125381 | [125381-lost-impressions.json](./125381-lost-impressions.json) |
