@@ -16458,6 +16458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price is Right: 2010 Edition | 50650 | [50650-the-price-is-right-2010-edition.json](./50650-the-price-is-right-2010-edition.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
 | The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
+| The Price of Flesh | 197293 | [197293-the-price-of-flesh.json](./197293-the-price-of-flesh.json) |
 | The Price of Freedom | 30388 | [30388-the-price-of-freedom.json](./30388-the-price-of-freedom.json) |
 | The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
@@ -18244,6 +18245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking Structure, Clione, and Lost Child: Log-3 | 192419 | [192419-the-sinking-structure-clione-and-lost-child-log-3.json](./192419-the-sinking-structure-clione-and-lost-child-log-3.json) |
 | The Sinking Structure, Clione, and Lost Child: Log4 | 195803 | [195803-the-sinking-structure-clione-and-lost-child-log4.json](./195803-the-sinking-structure-clione-and-lost-child-log4.json) |
 | The Sinking Structure, Clione, and Lost Child: Log5 | 195225 | [195225-the-sinking-structure-clione-and-lost-child-log5.json](./195225-the-sinking-structure-clione-and-lost-child-log5.json) |
+| The Sinking Structure, Clione, and Lost Child: Log6 | 197287 | [197287-the-sinking-structure-clione-and-lost-child-log6.json](./197287-the-sinking-structure-clione-and-lost-child-log6.json) |
 | The Sins | 267573 | [267573-the-sins.json](./267573-the-sins.json) |
 | The Sintonia Chronicles | 348129 | [348129-the-sintonia-chronicles.json](./348129-the-sintonia-chronicles.json) |
 | The Sireen | 277324 | [277324-the-sireen.json](./277324-the-sireen.json) |
@@ -24695,6 +24697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
 | Tilt | 100102 | [100102-tilt.json](./100102-tilt.json) |
+| Tilt | 197294 | [197294-tilt.json](./197294-tilt.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt | 77727 | [77727-tilt.json](./77727-tilt.json) |
 | Tilt and Roll | 219890 | [219890-tilt-and-roll.json](./219890-tilt-and-roll.json) |
@@ -35943,6 +35946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
 | Twilight Memoria | 139638 | [139638-twilight-memoria.json](./139638-twilight-memoria.json) |
 | Twilight Memoria: Freedom | 253819 | [253819-twilight-memoria-freedom.json](./253819-twilight-memoria-freedom.json) |
+| Twilight Monk | 197314 | [197314-twilight-monk.json](./197314-twilight-monk.json) |
 | Twilight Moonflower | 380224 | [380224-twilight-moonflower.json](./380224-twilight-moonflower.json) |
 | Twilight of Humanity | 181157 | [181157-twilight-of-humanity.json](./181157-twilight-of-humanity.json) |
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
