@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raygun Chess | 174063 | [174063-raygun-chess.json](./174063-raygun-chess.json) |
 | Raygun Gadabout | 96145 | [96145-raygun-gadabout.json](./96145-raygun-gadabout.json) |
 | Rayland | 181093 | [181093-rayland.json](./181093-rayland.json) |
+| Rayland 2 | 235499 | [235499-rayland-2.json](./235499-rayland-2.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
 | Rayless | 29655 | [29655-rayless.json](./29655-rayless.json) |
 | Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
@@ -10446,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman Complete Works: Rockman 6 - Shijou Saidai no Tatakai!! | 171832 | [171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json](./171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json) |
 | Rockman Cross X | 269881 | [269881-rockman-cross-x.json](./269881-rockman-cross-x.json) |
 | Rockman Dash / Rockman Dash 2 Value Pack | 171885 | [171885-rockman-dash-rockman-dash-2-value-pack.json](./171885-rockman-dash-rockman-dash-2-value-pack.json) |
+| Rockman Dash 2: Episode 1 - Roll-chan Kiki Ippatsu! no Maki | 234973 | [234973-rockman-dash-2-episode-1-roll-chan-kiki-ippatsu-no-maki.json](./234973-rockman-dash-2-episode-1-roll-chan-kiki-ippatsu-no-maki.json) |
 | Rockman Dash Golf | 290977 | [290977-rockman-dash-golf.json](./290977-rockman-dash-golf.json) |
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
 | Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
