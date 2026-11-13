@@ -1,5 +1,5 @@
 ---
-license: cc-by-nc-sa-4.0
+license: cc-by-sa-4.0
 pretty_name: OSTDB - Video Game Soundtracks
 language:
   - en
@@ -34,8 +34,8 @@ Built {{built_at}} from [OSTDB/soundtracks](https://github.com/OSTDB/soundtracks
 
 ## License
 
-Data licensed **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**: non-commercial use, share alike, and credit with a link:
+Data licensed **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**: free to use, including commercially; share alike, and credit with a link:
 
 > Data from [OSTDB (ostdb.net)](https://ostdb.net)
 
-Album art, game art and IGDB metadata are not covered and belong to their owners. OSTDB is a non-commercial fan project, not affiliated with Spotify, Apple, IGDB or any game company. Commercial use: [support@ostdb.net](mailto:support@ostdb.net).
+Album art, game art and IGDB metadata are not covered and belong to their owners. OSTDB is a non-commercial fan project, not affiliated with Spotify, Apple, IGDB or any game company.

@@ -47,7 +47,7 @@ jobs:
             "| \`ostdb.json\` | Every game with its albums |" \
             "| \`ostdb.sqlite\` | Tables \`games\`, \`albums\`, \`meta\` |" \
             "" \
-            "Data licensed CC BY-NC-SA 4.0. Credit: *Data from [OSTDB (ostdb.net)](https://ostdb.net)*.")
+            "Data licensed CC BY-SA 4.0. Credit: *Data from [OSTDB (ostdb.net)](https://ostdb.net)*.")
           # Re-running on the same day replaces that day's release.
           gh release delete "$TAG" --cleanup-tag --yes 2>/dev/null || true
           gh release create "$TAG" dist/ostdb.csv dist/ostdb.json dist/ostdb.sqlite \
