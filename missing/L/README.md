@@ -7477,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
+| Lofi Checkers | 216392 | [216392-lofi-checkers.json](./216392-lofi-checkers.json) |
 | Lofi Chill Sessions: Relax Island | 343492 | [343492-lofi-chill-sessions-relax-island.json](./343492-lofi-chill-sessions-relax-island.json) |
 | Lofi Funkin' | 198381 | [198381-lofi-funkin.json](./198381-lofi-funkin.json) |
 | Lofi Furries | 385007 | [385007-lofi-furries.json](./385007-lofi-furries.json) |
