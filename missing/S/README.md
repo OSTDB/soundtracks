@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Cubes 2 | 156833 | [156833-sacred-cubes-2.json](./156833-sacred-cubes-2.json) |
 | Sacred Curse | 188970 | [188970-sacred-curse.json](./188970-sacred-curse.json) |
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
+| Sacred Earth: Alternative | 236054 | [236054-sacred-earth-alternative.json](./236054-sacred-earth-alternative.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
 | Sacred Earth: Reverie | 301360 | [301360-sacred-earth-reverie.json](./301360-sacred-earth-reverie.json) |
 | Sacred Ember | 223222 | [223222-sacred-ember.json](./223222-sacred-ember.json) |
@@ -8051,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes 'N' Mates | 128831 | [128831-shapes-n-mates.json](./128831-shapes-n-mates.json) |
 | Shapes & Colors Farm Puzzles | 175095 | [175095-shapes-and-colors-farm-puzzles.json](./175095-shapes-and-colors-farm-puzzles.json) |
 | Shapes & Colors Learning: Free Toddler Kids Games | 89822 | [89822-shapes-and-colors-learning-free-toddler-kids-games.json](./89822-shapes-and-colors-learning-free-toddler-kids-games.json) |
+| Shapes & Shots | 237111 | [237111-shapes-and-shots.json](./237111-shapes-and-shots.json) |
 | Shapes and Patterns | 285871 | [285871-shapes-and-patterns.json](./285871-shapes-and-patterns.json) |
 | Shapes N Music | 391420 | [391420-shapes-n-music.json](./391420-shapes-n-music.json) |
 | Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
@@ -14508,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleigher | 244810 | [244810-sleigher.json](./244810-sleigher.json) |
 | Sleight | 30885 | [30885-sleight.json](./30885-sleight.json) |
 | Sleight of Hand | 289694 | [289694-sleight-of-hand.json](./289694-sleight-of-hand.json) |
+| Sleight of Hand: Dominion | 236488 | [236488-sleight-of-hand-dominion.json](./236488-sleight-of-hand-dominion.json) |
 | Sleight: Nerve Wracking Espionage Party Game | 110740 | [110740-sleight-nerve-wracking-espionage-party-game.json](./110740-sleight-nerve-wracking-espionage-party-game.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Girl Dash: Scared Nightmare Pursuit in Jungle Darkness | 62293 | [62293-slender-girl-dash-scared-nightmare-pursuit-in-jungle-darkness.json](./62293-slender-girl-dash-scared-nightmare-pursuit-in-jungle-darkness.json) |
@@ -21259,6 +21262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Guardian | 246777 | [246777-space-guardian.json](./246777-space-guardian.json) |
 | Space Guardian Gundam | 218234 | [218234-space-guardian-gundam.json](./218234-space-guardian-gundam.json) |
 | Space Guardian Gundam | 218235 | [218235-space-guardian-gundam.json](./218235-space-guardian-gundam.json) |
+| Space Guardians | 236493 | [236493-space-guardians.json](./236493-space-guardians.json) |
 | Space Guerilla | 392974 | [392974-space-guerilla.json](./392974-space-guerilla.json) |
 | Space Gun | 12856 | [12856-space-gun.json](./12856-space-gun.json) |
 | Space Gun | 272928 | [272928-space-gun.json](./272928-space-gun.json) |
@@ -22388,6 +22392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark & Kling | 290293 | [290293-spark-and-kling.json](./290293-spark-and-kling.json) |
 | Spark & Sparkle | 125696 | [125696-spark-and-sparkle.json](./125696-spark-and-sparkle.json) |
 | Spark and The Digital Daydream | 117372 | [117372-spark-and-the-digital-daydream.json](./117372-spark-and-the-digital-daydream.json) |
+| Spark Defense | 236052 | [236052-spark-defense.json](./236052-spark-defense.json) |
 | Spark Dimension | 32542 | [32542-spark-dimension.json](./32542-spark-dimension.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
@@ -27886,6 +27891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starushko Lub | 31081 | [31081-starushko-lub.json](./31081-starushko-lub.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
+| StarVaders | 237038 | [237038-starvaders.json](./237038-starvaders.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
 | Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
@@ -31487,6 +31493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 9 | 17332 | [17332-subject-9.json](./17332-subject-9.json) |
 | Subject 95 | 154136 | [154136-subject-95.json](./154136-subject-95.json) |
 | Subject Debris | 263851 | [263851-subject-debris.json](./263851-subject-debris.json) |
+| Subject F-011 | 236580 | [236580-subject-f-011.json](./236580-subject-f-011.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
