@@ -11613,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
 | Microgame Mosaic | 181450 | [181450-microgame-mosaic.json](./181450-microgame-mosaic.json) |
 | Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
+| Microgames Jam Pak | 243987 | [243987-microgames-jam-pak.json](./243987-microgames-jam-pak.json) |
 | MicroGo | 61359 | [61359-microgo.json](./61359-microgo.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
 | Microgravity | 123224 | [123224-microgravity.json](./123224-microgravity.json) |
@@ -14605,6 +14606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
+| Mirada PDA Game | 243880 | [243880-mirada-pda-game.json](./243880-mirada-pda-game.json) |
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
 | Mirador | 201385 | [201385-mirador.json](./201385-mirador.json) |
 | Mirage | 141409 | [141409-mirage.json](./141409-mirage.json) |
