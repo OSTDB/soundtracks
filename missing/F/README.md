@@ -6342,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Call of the Armor | 297698 | [297698-fire-emblem-call-of-the-armor.json](./297698-fire-emblem-call-of-the-armor.json) |
 | Fire Emblem: Cerulean Crescent | 321704 | [321704-fire-emblem-cerulean-crescent.json](./321704-fire-emblem-cerulean-crescent.json) |
 | Fire Emblem: Code of the Black Knights | 213705 | [213705-fire-emblem-code-of-the-black-knights.json](./213705-fire-emblem-code-of-the-black-knights.json) |
+| Fire Emblem: Code of the Burger King | 222001 | [222001-fire-emblem-code-of-the-burger-king.json](./222001-fire-emblem-code-of-the-burger-king.json) |
 | Fire Emblem: Corrupt Theocracy | 140872 | [140872-fire-emblem-corrupt-theocracy.json](./140872-fire-emblem-corrupt-theocracy.json) |
 | Fire Emblem: Curse of Lagdou | 331954 | [331954-fire-emblem-curse-of-lagdou.json](./331954-fire-emblem-curse-of-lagdou.json) |
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
