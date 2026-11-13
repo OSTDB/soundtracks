@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic Delivery | 332298 | [332298-panic-delivery.json](./332298-panic-delivery.json) |
+| Panic Diet!! | 218605 | [218605-panic-diet.json](./218605-panic-diet.json) |
 | Panic Drop | 110028 | [110028-panic-drop.json](./110028-panic-drop.json) |
 | Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Files: Buried Sanity | 391090 | [391090-panic-files-buried-sanity.json](./391090-panic-files-buried-sanity.json) |
