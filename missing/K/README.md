@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami-sama no you na Kimi he | 146781 | [146781-kami-sama-no-you-na-kimi-he.json](./146781-kami-sama-no-you-na-kimi-he.json) |
 | Kami-sama no you na Kimi he: Limited Edition | 146782 | [146782-kami-sama-no-you-na-kimi-he-limited-edition.json](./146782-kami-sama-no-you-na-kimi-he-limited-edition.json) |
 | Kami-sama to Koigokoro | 60959 | [60959-kami-sama-to-koigokoro.json](./60959-kami-sama-to-koigokoro.json) |
+| Kami-sama's Personal Servant | 199549 | [199549-kami-samas-personal-servant.json](./199549-kami-samas-personal-servant.json) |
 | Kami: Parade of Senses | 286000 | [286000-kami-parade-of-senses.json](./286000-kami-parade-of-senses.json) |
 | Kami: The Great Guardian | 408034 | [408034-kami-the-great-guardian.json](./408034-kami-the-great-guardian.json) |
 | Kami's Garden: Bound To The Pages | 417936 | [417936-kamis-garden-bound-to-the-pages.json](./417936-kamis-garden-bound-to-the-pages.json) |
