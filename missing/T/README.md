@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenkuu No Restaurant | 167109 | [167109-tenkuu-no-restaurant.json](./167109-tenkuu-no-restaurant.json) |
 | Tenkuu No Restaurant: Hello! Project Version | 167113 | [167113-tenkuu-no-restaurant-hello-project-version.json](./167113-tenkuu-no-restaurant-hello-project-version.json) |
 | Tenkyu | 93737 | [93737-tenkyu.json](./93737-tenkyu.json) |
+| Tenmei Dice Battle | 181287 | [181287-tenmei-dice-battle.json](./181287-tenmei-dice-battle.json) |
 | TenMinions | 113904 | [113904-tenminions.json](./113904-tenminions.json) |
 | Tennen Yawachichi Megami Flora Ama Ero Shinkon Kozukuri Life: Onee-san no Shikyuu ni, Suki na Dake Sosoide mo Ii Desu wa yo | 280699 | [280699-tennen-yawachichi-megami-flora-ama-ero-shinkon-kozukuri-life-onee-san-no-shikyuu-ni-suki-na-dake-sosoide-mo-ii-desu-wa-yo.json](./280699-tennen-yawachichi-megami-flora-ama-ero-shinkon-kozukuri-life-onee-san-no-shikyuu-ni-suki-na-dake-sosoide-mo-ii-desu-wa-yo.json) |
 | Tennis | 131451 | [131451-tennis.json](./131451-tennis.json) |
@@ -8164,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
+| The Confines of the Crown | 181270 | [181270-the-confines-of-the-crown.json](./181270-the-confines-of-the-crown.json) |
 | The Conformist | 326857 | [326857-the-conformist.json](./326857-the-conformist.json) |
 | The Confraternity of Toast | 176652 | [176652-the-confraternity-of-toast.json](./176652-the-confraternity-of-toast.json) |
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
@@ -9246,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon Sword | 231458 | [231458-the-dragon-sword.json](./231458-the-dragon-sword.json) |
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
 | The Dragon's Intern | 312642 | [312642-the-dragons-intern.json](./312642-the-dragons-intern.json) |
+| The Dragon's Last Flight | 181279 | [181279-the-dragons-last-flight.json](./181279-the-dragons-last-flight.json) |
 | The Dragon's Prize | 180518 | [180518-the-dragons-prize.json](./180518-the-dragons-prize.json) |
 | The Dragon's Prophecy | 223320 | [223320-the-dragons-prophecy.json](./223320-the-dragons-prophecy.json) |
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
@@ -12913,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lady Knight and The Three Princes | 349797 | [349797-the-lady-knight-and-the-three-princes.json](./349797-the-lady-knight-and-the-three-princes.json) |
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lady, The Mage, & The Knight | 317560 | [317560-the-lady-the-mage-and-the-knight.json](./317560-the-lady-the-mage-and-the-knight.json) |
+| The Lady's Book of Decency | 181273 | [181273-the-ladys-book-of-decency.json](./181273-the-ladys-book-of-decency.json) |
 | The Lady's Choice | 178747 | [178747-the-ladys-choice.json](./178747-the-ladys-choice.json) |
 | The Lair | 177132 | [177132-the-lair.json](./177132-the-lair.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
@@ -15780,6 +15784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Official Father Christmas | 71350 | [71350-the-official-father-christmas.json](./71350-the-official-father-christmas.json) |
 | The Official GamingTaylor Game, Great Job! | 104346 | [104346-the-official-gamingtaylor-game-great-job.json](./104346-the-official-gamingtaylor-game-great-job.json) |
+| The Offscreen | 180858 | [180858-the-offscreen.json](./180858-the-offscreen.json) |
 | The OG Cake Factory | 274919 | [274919-the-og-cake-factory.json](./274919-the-og-cake-factory.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
@@ -19994,6 +19999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Umbridge Estate | 223231 | [223231-the-umbridge-estate.json](./223231-the-umbridge-estate.json) |
 | The Ump Show | 272403 | [272403-the-ump-show.json](./272403-the-ump-show.json) |
 | The Un-Beatable Game | 161588 | [161588-the-un-beatable-game.json](./161588-the-un-beatable-game.json) |
+| The Un's Stable | 180854 | [180854-the-uns-stable.json](./180854-the-uns-stable.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unbeatable Path | 137209 | [137209-the-unbeatable-path.json](./137209-the-unbeatable-path.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
@@ -21635,6 +21641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Grew Lungs and Drowned | 301326 | [301326-they-grew-lungs-and-drowned.json](./301326-they-grew-lungs-and-drowned.json) |
 | They Grow | 178820 | [178820-they-grow.json](./178820-they-grow.json) |
 | They Have Horns | 87555 | [87555-they-have-horns.json](./87555-they-have-horns.json) |
+| They have no choice! | 181264 | [181264-they-have-no-choice.json](./181264-they-have-no-choice.json) |
 | They Hunger 2: Rest in Pieces | 268005 | [268005-they-hunger-2-rest-in-pieces.json](./268005-they-hunger-2-rest-in-pieces.json) |
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
@@ -35197,6 +35204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunoda Thunder | 59747 | [59747-tsunoda-thunder.json](./59747-tsunoda-thunder.json) |
 | Tsunoda Thunder Love!! | 59745 | [59745-tsunoda-thunder-love.json](./59745-tsunoda-thunder-love.json) |
 | Tsunoda Thunder Love!! Evolution!! | 59743 | [59743-tsunoda-thunder-love-evolution.json](./59743-tsunoda-thunder-love-evolution.json) |
+| Tsunomaki Janken! | 181274 | [181274-tsunomaki-janken.json](./181274-tsunomaki-janken.json) |
 | Tsuppari Concert | 385724 | [385724-tsuppari-concert.json](./385724-tsuppari-concert.json) |
 | Tsuppari Oozumou | 79226 | [79226-tsuppari-oozumou.json](./79226-tsuppari-oozumou.json) |
 | Tsuppari Oozumou: Heisei-han | 62527 | [62527-tsuppari-oozumou-heisei-han.json](./62527-tsuppari-oozumou-heisei-han.json) |
