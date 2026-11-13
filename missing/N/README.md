@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
+| Nasu Plus | 227597 | [227597-nasu-plus.json](./227597-nasu-plus.json) |
 | Nasu-8 | 346300 | [346300-nasu-8.json](./346300-nasu-8.json) |
 | Nasubi | 409910 | [409910-nasubi.json](./409910-nasubi.json) |
 | Nasubi Room | 360622 | [360622-nasubi-room.json](./360622-nasubi-room.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | Native Hunter | 235915 | [235915-native-hunter.json](./235915-native-hunter.json) |
 | Native Isekai Defense | 316510 | [316510-native-isekai-defense.json](./316510-native-isekai-defense.json) |
+| Native Problems | 227599 | [227599-native-problems.json](./227599-native-problems.json) |
 | Natives | 250753 | [250753-natives.json](./250753-natives.json) |
 | Natives | 28382 | [28382-natives.json](./28382-natives.json) |
 | NATO Assault Course | 72461 | [72461-nato-assault-course.json](./72461-nato-assault-course.json) |
@@ -1079,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturalist | 334026 | [334026-naturalist.json](./334026-naturalist.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
+| Nature | 227591 | [227591-nature.json](./227591-nature.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
 | Nature | 260368 | [260368-nature.json](./260368-nature.json) |
 | Nature & Wildlife: Jigsaw Puzzle | 212608 | [212608-nature-and-wildlife-jigsaw-puzzle.json](./212608-nature-and-wildlife-jigsaw-puzzle.json) |
