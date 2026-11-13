@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrocardioground FX | 298951 | [298951-electrocardioground-fx.json](./298951-electrocardioground-fx.json) |
 | Electrocop | 40832 | [40832-electrocop.json](./40832-electrocop.json) |
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
+| Electrogene | 195659 | [195659-electrogene.json](./195659-electrogene.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrokinetic | 228286 | [228286-electrokinetic.json](./228286-electrokinetic.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite of Conquerors | 278027 | [278027-elite-of-conquerors.json](./278027-elite-of-conquerors.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
+| Elite School Roof Club | 195684 | [195684-elite-school-roof-club.json](./195684-elite-school-roof-club.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
 | Elite Sniper Shooter 2 | 245215 | [245215-elite-sniper-shooter-2.json](./245215-elite-sniper-shooter-2.json) |
 | Elite Soccer | 49008 | [49008-elite-soccer.json](./49008-elite-soccer.json) |
@@ -3074,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsword M Shadow of Luna | 109972 | [109972-elsword-m-shadow-of-luna.json](./109972-elsword-m-shadow-of-luna.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elta: Defy All Gods | 414942 | [414942-elta-defy-all-gods.json](./414942-elta-defy-all-gods.json) |
+| Elteria Hunter | 195657 | [195657-elteria-hunter.json](./195657-elteria-hunter.json) |
 | Elthinia | 200069 | [200069-elthinia.json](./200069-elthinia.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
@@ -9257,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes on the Exam | 345746 | [345746-eyes-on-the-exam.json](./345746-eyes-on-the-exam.json) |
 | Eyes on Them | 405769 | [405769-eyes-on-them.json](./405769-eyes-on-them.json) |
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
+| Eyes Over Us | 195680 | [195680-eyes-over-us.json](./195680-eyes-over-us.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | Eyes: Nonogram | 294542 | [294542-eyes-nonogram.json](./294542-eyes-nonogram.json) |
 | Eyeser | 249231 | [249231-eyeser.json](./249231-eyeser.json) |
