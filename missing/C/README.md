@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard EX: Digital Deluxe Edition | 221508 | [221508-cardfight-vanguard-ex-digital-deluxe-edition.json](./221508-cardfight-vanguard-ex-digital-deluxe-edition.json) |
 | Cardfight!! Vanguard G: Stride to Victory!! | 81456 | [81456-cardfight-vanguard-g-stride-to-victory.json](./81456-cardfight-vanguard-g-stride-to-victory.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
+| Cardfight!! Vanguard: Dear Days | 213505 | [213505-cardfight-vanguard-dear-days.json](./213505-cardfight-vanguard-dear-days.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Card Set Vol. 4 D-SS03: Stride Deckset - Chronojet | 254675 | [254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json](./254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Card Set Vol.8 D-SS04: Stride Deckset Messiah | 280411 | [280411-cardfight-vanguard-dear-days-additional-card-set-vol-8-d-ss04-stride-deckset-messiah.json](./280411-cardfight-vanguard-dear-days-additional-card-set-vol-8-d-ss04-stride-deckset-messiah.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Legend | 268309 | [268309-caribbean-legend.json](./268309-caribbean-legend.json) |
 | Caribbean Legend: Age of Pirates | 377894 | [377894-caribbean-legend-age-of-pirates.json](./377894-caribbean-legend-age-of-pirates.json) |
 | Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
+| Caribbean Marque | 213522 | [213522-caribbean-marque.json](./213522-caribbean-marque.json) |
 | Caribbean Odyssey | 34132 | [34132-caribbean-odyssey.json](./34132-caribbean-odyssey.json) |
 | Caribbean Pirates | 310236 | [310236-caribbean-pirates.json](./310236-caribbean-pirates.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
@@ -6794,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge Champs | 172086 | [172086-charge-champs.json](./172086-charge-champs.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
 | Charge Kid | 144576 | [144576-charge-kid.json](./144576-charge-kid.json) |
+| Charge Knight: A Duck's Tale | 213495 | [213495-charge-knight-a-ducks-tale.json](./213495-charge-knight-a-ducks-tale.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
 | Charge! | 148692 | [148692-charge.json](./148692-charge.json) |
 | Charge! | 182784 | [182784-charge.json](./182784-charge.json) |
@@ -11215,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
 | Click for Biscuits! | 133766 | [133766-click-for-biscuits.json](./133766-click-for-biscuits.json) |
+| Click For Cash | 213069 | [213069-click-for-cash.json](./213069-click-for-cash.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click for Humanity | 348004 | [348004-click-for-humanity.json](./348004-click-for-humanity.json) |
 | Click For Points | 223315 | [223315-click-for-points.json](./223315-click-for-points.json) |
@@ -21891,6 +21895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curupira the Forest Guardian | 371859 | [371859-curupira-the-forest-guardian.json](./371859-curupira-the-forest-guardian.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Curvatron | 34417 | [34417-curvatron.json](./34417-curvatron.json) |
+| Curvature | 213524 | [213524-curvature.json](./213524-curvature.json) |
 | Curve Digital PS4 Mega Bundle | 99807 | [99807-curve-digital-ps4-mega-bundle.json](./99807-curve-digital-ps4-mega-bundle.json) |
 | Curve Digital Triple Features - Action Pack | 99806 | [99806-curve-digital-triple-features-action-pack.json](./99806-curve-digital-triple-features-action-pack.json) |
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
