@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4-II: Scenario Set | 225941 | [225941-samurai-warriors-4-ii-scenario-set.json](./225941-samurai-warriors-4-ii-scenario-set.json) |
 | Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
 | Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
+| Samurai Warriors 5: Deluxe Edition | 220898 | [220898-samurai-warriors-5-deluxe-edition.json](./220898-samurai-warriors-5-deluxe-edition.json) |
 | Samurai Warriors 5: Digital Deluxe Edition | 164665 | [164665-samurai-warriors-5-digital-deluxe-edition.json](./164665-samurai-warriors-5-digital-deluxe-edition.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
 | Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
@@ -9647,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
 | Shishi: Ballad of the Oracle | 120093 | [120093-shishi-ballad-of-the-oracle.json](./120093-shishi-ballad-of-the-oracle.json) |
 | Shishi: Timeless Prelude | 203715 | [203715-shishi-timeless-prelude.json](./203715-shishi-timeless-prelude.json) |
+| Shishigari Ou | 221435 | [221435-shishigari-ou.json](./221435-shishigari-ou.json) |
 | Shissou shita Yuujin no Heya ni Nokosareteita Game | 316663 | [316663-shissou-shita-yuujin-no-heya-ni-nokosareteita-game.json](./316663-shissou-shita-yuujin-no-heya-ni-nokosareteita-game.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
 | Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
@@ -12112,6 +12114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Light Cycles | 44685 | [44685-simple-light-cycles.json](./44685-simple-light-cycles.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Machines | 164227 | [164227-simple-machines.json](./164227-simple-machines.json) |
+| Simple Mahjong Online | 221437 | [221437-simple-mahjong-online.json](./221437-simple-mahjong-online.json) |
 | Simple Marble Race | 331802 | [331802-simple-marble-race.json](./331802-simple-marble-race.json) |
 | Simple Mind | 291023 | [291023-simple-mind.json](./291023-simple-mind.json) |
 | Simple Minded | 273241 | [273241-simple-minded.json](./273241-simple-minded.json) |
@@ -28759,6 +28762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
 | Stellar Interface | 26205 | [26205-stellar-interface.json](./26205-stellar-interface.json) |
 | Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
+| Stellar Interface: Deluxe Edition | 220900 | [220900-stellar-interface-deluxe-edition.json](./220900-stellar-interface-deluxe-edition.json) |
 | Stellar Interface: Lost Galaxy | 237846 | [237846-stellar-interface-lost-galaxy.json](./237846-stellar-interface-lost-galaxy.json) |
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Larceny | 309308 | [309308-stellar-larceny.json](./309308-stellar-larceny.json) |
