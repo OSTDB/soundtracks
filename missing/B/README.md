@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baunsudaun | 257530 | [257530-baunsudaun.json](./257530-baunsudaun.json) |
 | Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
 | Bavovna included! | 226255 | [226255-bavovna-included.json](./226255-bavovna-included.json) |
+| Baw's Pharmacy | 201067 | [201067-baws-pharmacy.json](./201067-baws-pharmacy.json) |
 | Bawang Bie Ji | 80274 | [80274-bawang-bie-ji.json](./80274-bawang-bie-ji.json) |
 | Bax | 117435 | [117435-bax.json](./117435-bax.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
@@ -19212,6 +19213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunni Gunni Classic | 223501 | [223501-bunni-gunni-classic.json](./223501-bunni-gunni-classic.json) |
 | Bunni: How We First Met | 225699 | [225699-bunni-how-we-first-met.json](./225699-bunni-how-we-first-met.json) |
 | Bunnie Rabbot in Sonic the Hedgehog | 129180 | [129180-bunnie-rabbot-in-sonic-the-hedgehog.json](./129180-bunnie-rabbot-in-sonic-the-hedgehog.json) |
+| Bunnie Rabbot in Sonic the Hedgehog 2 | 201207 | [201207-bunnie-rabbot-in-sonic-the-hedgehog-2.json](./201207-bunnie-rabbot-in-sonic-the-hedgehog-2.json) |
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies Huddled Together | 324175 | [324175-bunnies-huddled-together.json](./324175-bunnies-huddled-together.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
