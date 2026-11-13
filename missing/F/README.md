@@ -10212,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Assassin's Creed Shadows Hero Skin Bundle | 408889 | [408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json](./408889-for-honor-assassins-creed-shadows-hero-skin-bundle.json) |
 | For Honor: Assassin's Creed Ultimate Hero Skin Bundle | 409029 | [409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json](./409029-for-honor-assassins-creed-ultimate-hero-skin-bundle.json) |
 | For Honor: Battle Bundle – Year 8 Season 1 | 297132 | [297132-for-honor-battle-bundle-year-8-season-1.json](./297132-for-honor-battle-bundle-year-8-season-1.json) |
+| For Honor: Black Prior Hero Skin | 237128 | [237128-for-honor-black-prior-hero-skin.json](./237128-for-honor-black-prior-hero-skin.json) |
 | For Honor: Complete Edition | 118695 | [118695-for-honor-complete-edition.json](./118695-for-honor-complete-edition.json) |
 | For Honor: Deluxe Edition | 53036 | [53036-for-honor-deluxe-edition.json](./53036-for-honor-deluxe-edition.json) |
 | For Honor: Eivor Wolf-Kissed – Berserker Hero Skin | 408890 | [408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json](./408890-for-honor-eivor-wolf-kissed-berserker-hero-skin.json) |
