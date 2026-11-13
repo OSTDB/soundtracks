@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Air Traffic Control | 251958 | [251958-v-air-traffic-control.json](./251958-v-air-traffic-control.json) |
 | V-Ball: Beach Volley Heroes | 72234 | [72234-v-ball-beach-volley-heroes.json](./72234-v-ball-beach-volley-heroes.json) |
 | V-Dash Dungeon | 406230 | [406230-v-dash-dungeon.json](./406230-v-dash-dungeon.json) |
+| V-Fighter 2000 | 191143 | [191143-v-fighter-2000.json](./191143-v-fighter-2000.json) |
 | V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
 | V-Gunn | 269477 | [269477-v-gunn.json](./269477-v-gunn.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Shadows | 271551 | [271551-veil-of-shadows.json](./271551-veil-of-shadows.json) |
 | Veil of Sight | 359388 | [359388-veil-of-sight.json](./359388-veil-of-sight.json) |
 | Veil of the Soulstones | 382674 | [382674-veil-of-the-soulstones.json](./382674-veil-of-the-soulstones.json) |
+| Veil of the Volcano | 191214 | [191214-veil-of-the-volcano.json](./191214-veil-of-the-volcano.json) |
 | Veil of Time | 423373 | [423373-veil-of-time.json](./423373-veil-of-time.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
