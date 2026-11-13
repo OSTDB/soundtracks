@@ -8831,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
 | Hinadori no Saezuri | 407963 | [407963-hinadori-no-saezuri.json](./407963-hinadori-no-saezuri.json) |
+| Hinakoi | 199950 | [199950-hinakoi.json](./199950-hinakoi.json) |
 | Hinami Bay | 243554 | [243554-hinami-bay.json](./243554-hinami-bay.json) |
 | Hinamizawa Branch School Basketball Tournament | 257559 | [257559-hinamizawa-branch-school-basketball-tournament.json](./257559-hinamizawa-branch-school-basketball-tournament.json) |
 | Hinata in Hot Maze | 163888 | [163888-hinata-in-hot-maze.json](./163888-hinata-in-hot-maze.json) |
@@ -11112,6 +11113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Engine: Tech Demo | 391923 | [391923-horror-engine-tech-demo.json](./391923-horror-engine-tech-demo.json) |
 | Horror Family: Flight | 303971 | [303971-horror-family-flight.json](./303971-horror-family-flight.json) |
 | Horror Fan House | 344859 | [344859-horror-fan-house.json](./344859-horror-fan-house.json) |
+| Horror Forest 3 | 199953 | [199953-horror-forest-3.json](./199953-horror-forest-3.json) |
 | Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game | 275273 | [275273-horror-game.json](./275273-horror-game.json) |
@@ -11497,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dot Spotter | 14118 | [14118-hot-dot-spotter.json](./14118-hot-dot-spotter.json) |
 | Hot Dot! | 267339 | [267339-hot-dot.json](./267339-hot-dot.json) |
 | Hot Drop | 246339 | [246339-hot-drop.json](./246339-hot-drop.json) |
+| Hot Farm | 200094 | [200094-hot-farm.json](./200094-hot-farm.json) |
 | Hot Farm Africa | 54082 | [54082-hot-farm-africa.json](./54082-hot-farm-africa.json) |
 | Hot Fit! | 112836 | [112836-hot-fit.json](./112836-hot-fit.json) |
 | Hot Foot | 318408 | [318408-hot-foot.json](./318408-hot-foot.json) |
@@ -12761,6 +12764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Grand Prix III: F1 Triple Battle | 38172 | [38172-human-grand-prix-iii-f1-triple-battle.json](./38172-human-grand-prix-iii-f1-triple-battle.json) |
 | Human Grand Prix IV: F1 Dream Battle | 38171 | [38171-human-grand-prix-iv-f1-dream-battle.json](./38171-human-grand-prix-iv-f1-dream-battle.json) |
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
+| Human Heroes Curie on Matter | 200070 | [200070-human-heroes-curie-on-matter.json](./200070-human-heroes-curie-on-matter.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Killing Machine | 12148 | [12148-human-killing-machine.json](./12148-human-killing-machine.json) |
 | Human Madness | 172954 | [172954-human-madness.json](./172954-human-madness.json) |
