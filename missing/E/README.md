@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Returns Home | 35562 | [35562-egg-returns-home.json](./35562-egg-returns-home.json) |
 | Egg RTX | 288707 | [288707-egg-rtx.json](./288707-egg-rtx.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
+| Egg Runner | 201735 | [201735-egg-runner.json](./201735-egg-runner.json) |
 | Egg Splash | 89194 | [89194-egg-splash.json](./89194-egg-splash.json) |
 | Egg Squeeze | 318509 | [318509-egg-squeeze.json](./318509-egg-squeeze.json) |
 | Egg Surprise | 314432 | [314432-egg-surprise.json](./314432-egg-surprise.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Traps | 293814 | [293814-escape-the-traps.json](./293814-escape-the-traps.json) |
 | Escape the Underground | 155912 | [155912-escape-the-underground.json](./155912-escape-the-underground.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
+| Escape the Unknown | 201602 | [201602-escape-the-unknown.json](./201602-escape-the-unknown.json) |
 | Escape the Unknown: Awaken the Realm | 243856 | [243856-escape-the-unknown-awaken-the-realm.json](./243856-escape-the-unknown-awaken-the-realm.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
 | Escape the Virus: Swarm Survival | 23678 | [23678-escape-the-virus-swarm-survival.json](./23678-escape-the-virus-swarm-survival.json) |
@@ -9308,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezamur | 240974 | [240974-ezamur.json](./240974-ezamur.json) |
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
+| Ezekial S. Jackson's Amazing Truckology | 201743 | [201743-ezekial-s-jacksons-amazing-truckology.json](./201743-ezekial-s-jacksons-amazing-truckology.json) |
 | Ezekiel | 273722 | [273722-ezekiel.json](./273722-ezekiel.json) |
 | Ezekiel: Noa and the Automaton Urbis | 398495 | [398495-ezekiel-noa-and-the-automaton-urbis.json](./398495-ezekiel-noa-and-the-automaton-urbis.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
