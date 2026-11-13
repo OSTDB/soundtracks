@@ -3121,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generations | 219365 | [219365-generations.json](./219365-generations.json) |
 | Generations | 237260 | [237260-generations.json](./237260-generations.json) |
+| Generations Arena | 218618 | [218618-generations-arena.json](./218618-generations-arena.json) |
 | Generations Lost | 19784 | [19784-generations-lost.json](./19784-generations-lost.json) |
 | Generations of Destruction | 189879 | [189879-generations-of-destruction.json](./189879-generations-of-destruction.json) |
 | Generative Dungeon | 228755 | [228755-generative-dungeon.json](./228755-generative-dungeon.json) |
@@ -4298,7 +4299,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
 | Ghost's Timepeices | 235599 | [235599-ghosts-timepeices.json](./235599-ghosts-timepeices.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
+| Ghost9 | 218176 | [218176-ghost9.json](./218176-ghost9.json) |
+| Ghost92 | 218175 | [218175-ghost92.json](./218175-ghost92.json) |
 | GHost93 | 133573 | [133573-ghost93.json](./133573-ghost93.json) |
+| Ghost942 | 218178 | [218178-ghost942.json](./218178-ghost942.json) |
+| Ghost9Solid | 218179 | [218179-ghost9solid.json](./218179-ghost9solid.json) |
 | Ghostanoid | 142311 | [142311-ghostanoid.json](./142311-ghostanoid.json) |
 | Ghostball | 126881 | [126881-ghostball.json](./126881-ghostball.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
@@ -4638,11 +4643,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Girl | 32598 | [32598-giga-girl.json](./32598-giga-girl.json) |
 | Giga Pets Explorer | 274249 | [274249-giga-pets-explorer.json](./274249-giga-pets-explorer.json) |
 | Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
+| Giga Pets: Babe and Friends | 218046 | [218046-giga-pets-babe-and-friends.json](./218046-giga-pets-babe-and-friends.json) |
 | Giga Pets: Barbie - Precious Kitty | 218051 | [218051-giga-pets-barbie-precious-kitty.json](./218051-giga-pets-barbie-precious-kitty.json) |
 | Giga Pets: Barbie - Precious Puppy | 218050 | [218050-giga-pets-barbie-precious-puppy.json](./218050-giga-pets-barbie-precious-puppy.json) |
 | Giga Pets: Looney Tunes - Taz Mania | 218048 | [218048-giga-pets-looney-tunes-taz-mania.json](./218048-giga-pets-looney-tunes-taz-mania.json) |
 | Giga Pets: Looney Tunes - Tweety | 218047 | [218047-giga-pets-looney-tunes-tweety.json](./218047-giga-pets-looney-tunes-tweety.json) |
 | Giga Pets: Oreo | 218049 | [218049-giga-pets-oreo.json](./218049-giga-pets-oreo.json) |
+| Giga Pets: Rugrats Reptar | 218042 | [218042-giga-pets-rugrats-reptar.json](./218042-giga-pets-rugrats-reptar.json) |
+| Giga Pets: Star Wars - R2-D2 | 218044 | [218044-giga-pets-star-wars-r2-d2.json](./218044-giga-pets-star-wars-r2-d2.json) |
+| Giga Pets: Star Wars - Rancor | 218045 | [218045-giga-pets-star-wars-rancor.json](./218045-giga-pets-star-wars-rancor.json) |
+| Giga Pets: Star Wars - Yoda | 218043 | [218043-giga-pets-star-wars-yoda.json](./218043-giga-pets-star-wars-yoda.json) |
 | Giga Pudding: The Game | 328941 | [328941-giga-pudding-the-game.json](./328941-giga-pudding-the-game.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
 | Giga Wrecker Alt.: Collector's Edition | 136895 | [136895-giga-wrecker-alt-collectors-edition.json](./136895-giga-wrecker-alt-collectors-edition.json) |
