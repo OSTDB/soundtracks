@@ -15889,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
 | Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
+| Drafting Towers | 181812 | [181812-drafting-towers.json](./181812-drafting-towers.json) |
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
