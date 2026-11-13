@@ -5568,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilithrottle | 269939 | [269939-lilithrottle.json](./269939-lilithrottle.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
+| Lilium | 197304 | [197304-lilium.json](./197304-lilium.json) |
 | Lilium Reach | 212111 | [212111-lilium-reach.json](./212111-lilium-reach.json) |
 | Lilium: Kiss Me Everyday | 394621 | [394621-lilium-kiss-me-everyday.json](./394621-lilium-kiss-me-everyday.json) |
 | Lillian Night: Exclusive Contract of Succubus | 235592 | [235592-lillian-night-exclusive-contract-of-succubus.json](./235592-lillian-night-exclusive-contract-of-succubus.json) |
