@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dreams on Diverging Roads | 382592 | [382592-dark-dreams-on-diverging-roads.json](./382592-dark-dreams-on-diverging-roads.json) |
 | Dark Dreams RHN | 127567 | [127567-dark-dreams-rhn.json](./127567-dark-dreams-rhn.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
+| Dark Duel | 230011 | [230011-dark-duel.json](./230011-dark-duel.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
 | Dark Dungeon Warrior | 238120 | [238120-dark-dungeon-warrior.json](./238120-dark-dungeon-warrior.json) |
 | Dark Dungeons | 41187 | [41187-dark-dungeons.json](./41187-dark-dungeons.json) |
@@ -8953,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Christmas | 232844 | [232844-devilish-christmas.json](./232844-devilish-christmas.json) |
 | Devilish Cooking | 230321 | [230321-devilish-cooking.json](./230321-devilish-cooking.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
+| Devilish Hairdresser | 229413 | [229413-devilish-hairdresser.json](./229413-devilish-hairdresser.json) |
 | Devilish Kisses | 240090 | [240090-devilish-kisses.json](./240090-devilish-kisses.json) |
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
 | Devilish Mahjong Tower | 45537 | [45537-devilish-mahjong-tower.json](./45537-devilish-mahjong-tower.json) |
