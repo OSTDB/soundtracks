@@ -3349,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazen's Children | 379833 | [379833-hazens-children.json](./379833-hazens-children.json) |
 | Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
+| Hazmat | 176531 | [176531-hazmat.json](./176531-hazmat.json) |
 | Hazmat Hijinks | 101327 | [101327-hazmat-hijinks.json](./101327-hazmat-hijinks.json) |
 | Hazmat Hijinx | 333251 | [333251-hazmat-hijinx.json](./333251-hazmat-hijinx.json) |
 | Hazmat Magic | 180789 | [180789-hazmat-magic.json](./180789-hazmat-magic.json) |
