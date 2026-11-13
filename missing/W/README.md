@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welehola | 378355 | [378355-welehola.json](./378355-welehola.json) |
 | Welkin Melody | 333439 | [333439-welkin-melody.json](./333439-welkin-melody.json) |
 | Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
+| Well Balanced | 177073 | [177073-well-balanced.json](./177073-well-balanced.json) |
 | Well Dumb | 328187 | [328187-well-dumb.json](./328187-well-dumb.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well Keeper | 368649 | [368649-well-keeper.json](./368649-well-keeper.json) |
