@@ -7469,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Mercenaries - Heroes of the Inner Sphere | 154619 | [154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json](./154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json) |
 | MechWarrior 5: Mercenaries - JumpShip Edition | 173169 | [173169-mechwarrior-5-mercenaries-jumpship-edition.json](./173169-mechwarrior-5-mercenaries-jumpship-edition.json) |
 | MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers | 174540 | [174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json](./174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json) |
+| MechWarrior 5: Mercenaries - Rise of Rasalhague | 228192 | [228192-mechwarrior-5-mercenaries-rise-of-rasalhague.json](./228192-mechwarrior-5-mercenaries-rise-of-rasalhague.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
 | MechWarrior 5: Mercenaries - Succession Wars Edition | 403992 | [403992-mechwarrior-5-mercenaries-succession-wars-edition.json](./403992-mechwarrior-5-mercenaries-succession-wars-edition.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man III SNES | 377764 | [377764-mega-man-iii-snes.json](./377764-mega-man-iii-snes.json) |
 | Mega Man III Ultimate | 316492 | [316492-mega-man-iii-ultimate.json](./316492-mega-man-iii-ultimate.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
+| Mega Man in the Mushroom Kingdom | 228167 | [228167-mega-man-in-the-mushroom-kingdom.json](./228167-mega-man-in-the-mushroom-kingdom.json) |
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
 | Mega Man Legacy Collection | 19874 | [19874-mega-man-legacy-collection.json](./19874-mega-man-legacy-collection.json) |
