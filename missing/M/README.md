@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician's Quest: Mysterious Times | 21183 | [21183-magicians-quest-mysterious-times.json](./21183-magicians-quest-mysterious-times.json) |
 | Magician's Saga | 54902 | [54902-magicians-saga.json](./54902-magicians-saga.json) |
 | Magicians & Looters | 17132 | [17132-magicians-and-looters.json](./17132-magicians-and-looters.json) |
+| Magicians and Monsters | 208525 | [208525-magicians-and-monsters.json](./208525-magicians-and-monsters.json) |
 | Magicians Dead | 76544 | [76544-magicians-dead.json](./76544-magicians-dead.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians Lair | 66548 | [66548-magicians-lair.json](./66548-magicians-lair.json) |
@@ -19816,6 +19817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain Mind | 29356 | [29356-mountain-mind.json](./29356-mountain-mind.json) |
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
+| Mountain Offroad Simulator | 208521 | [208521-mountain-offroad-simulator.json](./208521-mountain-offroad-simulator.json) |
 | Mountain Parkour | 236588 | [236588-mountain-parkour.json](./236588-mountain-parkour.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
 | Mountain Racing HD | 87394 | [87394-mountain-racing-hd.json](./87394-mountain-racing-hd.json) |
