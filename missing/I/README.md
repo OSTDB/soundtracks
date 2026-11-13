@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Mood | 196848 | [196848-in-the-mood.json](./196848-in-the-mood.json) |
 | In the Mood for Youth | 348799 | [348799-in-the-mood-for-youth.json](./348799-in-the-mood-for-youth.json) |
 | In the Mountains | 192325 | [192325-in-the-mountains.json](./192325-in-the-mountains.json) |
+| In the Name of Freedom Episode 1: Vietnam | 181819 | [181819-in-the-name-of-freedom-episode-1-vietnam.json](./181819-in-the-name-of-freedom-episode-1-vietnam.json) |
 | In the Name of Freedom: Black Apocalypse | 181604 | [181604-in-the-name-of-freedom-black-apocalypse.json](./181604-in-the-name-of-freedom-black-apocalypse.json) |
 | In the name of sin | 74510 | [74510-in-the-name-of-sin.json](./74510-in-the-name-of-sin.json) |
 | In the Name of the Tsar | 321860 | [321860-in-the-name-of-the-tsar.json](./321860-in-the-name-of-the-tsar.json) |
