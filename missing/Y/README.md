@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Anime Girlfriend: The Mean Waifu Sim | 330224 | [330224-yandere-anime-girlfriend-the-mean-waifu-sim.json](./330224-yandere-anime-girlfriend-the-mean-waifu-sim.json) |
 | Yandere Clicker | 285280 | [285280-yandere-clicker.json](./285280-yandere-clicker.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
+| Yandere Goddess: A Snatch Made in Heaven | 211832 | [211832-yandere-goddess-a-snatch-made-in-heaven.json](./211832-yandere-goddess-a-snatch-made-in-heaven.json) |
 | Yandere Goth BDSM | 372256 | [372256-yandere-goth-bdsm.json](./372256-yandere-goth-bdsm.json) |
 | Yandere Goth BDSM 10 | 372263 | [372263-yandere-goth-bdsm-10.json](./372263-yandere-goth-bdsm-10.json) |
 | Yandere Goth BDSM 11 | 372264 | [372264-yandere-goth-bdsm-11.json](./372264-yandere-goth-bdsm-11.json) |
