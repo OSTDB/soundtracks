@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain vs. Sky Pirates: Forest | 171176 | [171176-captain-vs-sky-pirates-forest.json](./171176-captain-vs-sky-pirates-forest.json) |
 | Captain vs. Sky Pirates: Moon Base | 171177 | [171177-captain-vs-sky-pirates-moon-base.json](./171177-captain-vs-sky-pirates-moon-base.json) |
 | Captain vs. Sky Pirates: Post Apocalyptic City | 171175 | [171175-captain-vs-sky-pirates-post-apocalyptic-city.json](./171175-captain-vs-sky-pirates-post-apocalyptic-city.json) |
+| Captain vs. Sky Pirates: Pyramids | 171126 | [171126-captain-vs-sky-pirates-pyramids.json](./171126-captain-vs-sky-pirates-pyramids.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
@@ -19173,6 +19174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Solvers | 208798 | [208798-crime-solvers.json](./208798-crime-solvers.json) |
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
 | Crime Stopper: Murder at Midnight! | 21931 | [21931-crime-stopper-murder-at-midnight.json](./21931-crime-stopper-murder-at-midnight.json) |
+| Crime Stories 2: In the Shadows | 171660 | [171660-crime-stories-2-in-the-shadows.json](./171660-crime-stories-2-in-the-shadows.json) |
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
 | Crime Thief Simulator | 390489 | [390489-crime-thief-simulator.json](./390489-crime-thief-simulator.json) |
 | Crime Time | 12017 | [12017-crime-time.json](./12017-crime-time.json) |
@@ -21949,6 +21951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
+| Cursed Night: The House | 171142 | [171142-cursed-night-the-house.json](./171142-cursed-night-the-house.json) |
 | Cursed Objects: Find and Seal | 414887 | [414887-cursed-objects-find-and-seal.json](./414887-cursed-objects-find-and-seal.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed One | 121168 | [121168-cursed-one.json](./121168-cursed-one.json) |
