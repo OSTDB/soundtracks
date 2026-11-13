@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bloody Night | 41960 | [41960-a-bloody-night.json](./41960-a-bloody-night.json) |
 | A Bloody Party | 114125 | [114125-a-bloody-party.json](./114125-a-bloody-party.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
+| A Bomb Called Darkipt | 218627 | [218627-a-bomb-called-darkipt.json](./218627-a-bomb-called-darkipt.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bone To Pick | 325297 | [325297-a-bone-to-pick.json](./325297-a-bone-to-pick.json) |
 | A Boney Night | 313569 | [313569-a-boney-night.json](./313569-a-boney-night.json) |
@@ -11004,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Horizons - Nintendo Switch 2 Edition | 375733 | [375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json](./375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Crossing: New Leaf - Welcome Amiibo! | 210422 | [210422-animal-crossing-new-leaf-welcome-amiibo.json](./210422-animal-crossing-new-leaf-welcome-amiibo.json) |
+| Animal Crossing: New Leaf - Welcome Amiibo! | 218748 | [218748-animal-crossing-new-leaf-welcome-amiibo.json](./218748-animal-crossing-new-leaf-welcome-amiibo.json) |
 | Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
@@ -19629,6 +19631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenging Spirit | 39747 | [39747-avenging-spirit.json](./39747-avenging-spirit.json) |
 | Avenging Spirit | 7762 | [7762-avenging-spirit.json](./7762-avenging-spirit.json) |
 | Avenida Fighter | 407763 | [407763-avenida-fighter.json](./407763-avenida-fighter.json) |
+| Avenida Paulista | 218741 | [218741-avenida-paulista.json](./218741-avenida-paulista.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventarium | 99127 | [99127-aventarium.json](./99127-aventarium.json) |
