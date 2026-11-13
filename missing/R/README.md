@@ -6316,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance Tales: Alone | 350964 | [350964-resonance-tales-alone.json](./350964-resonance-tales-alone.json) |
 | Resonance Wars | 181089 | [181089-resonance-wars.json](./181089-resonance-wars.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
+| Resonant | 168973 | [168973-resonant.json](./168973-resonant.json) |
 | Resonant Blade | 140792 | [140792-resonant-blade.json](./140792-resonant-blade.json) |
 | Resonant Dusk | 395791 | [395791-resonant-dusk.json](./395791-resonant-dusk.json) |
 | Resonant Q | 381189 | [381189-resonant-q.json](./381189-resonant-q.json) |
