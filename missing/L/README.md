@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazarus A.D. 2222 | 258384 | [258384-lazarus-a-d-2222.json](./258384-lazarus-a-d-2222.json) |
 | Lazarus Doom | 198354 | [198354-lazarus-doom.json](./198354-lazarus-doom.json) |
+| Lazarus Trials: Trial 101 | 173877 | [173877-lazarus-trials-trial-101.json](./173877-lazarus-trials-trial-101.json) |
 | Lazarus: Side Story of Comrade Force | 349220 | [349220-lazarus-side-story-of-comrade-force.json](./349220-lazarus-side-story-of-comrade-force.json) |
 | Lazer Bykes | 94653 | [94653-lazer-bykes.json](./94653-lazer-bykes.json) |
 | Lazer Command | 40335 | [40335-lazer-command.json](./40335-lazer-command.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Lernen Leicht Gemacht! Für Kids | 78243 | [78243-lernen-leicht-gemacht-fur-kids.json](./78243-lernen-leicht-gemacht-fur-kids.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
+| Les aventures de Fierot | 173873 | [173873-les-aventures-de-fierot.json](./173873-les-aventures-de-fierot.json) |
 | Les Aventures de Pepito au Mexique | 342556 | [342556-les-aventures-de-pepito-au-mexique.json](./342556-les-aventures-de-pepito-au-mexique.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
 | Les Cartes Poker | 415968 | [415968-les-cartes-poker.json](./415968-les-cartes-poker.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd City Girls | 210465 | [210465-lewd-city-girls.json](./210465-lewd-city-girls.json) |
 | Lewd Cup | 411231 | [411231-lewd-cup.json](./411231-lewd-cup.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
+| Lewd Girls, Leave Me Alone! I Just Want to Play Video Games and Watch Anime!: Hentai Edition | 173866 | [173866-lewd-girls-leave-me-alone-i-just-want-to-play-video-games-and-watch-anime-hentai-edition.json](./173866-lewd-girls-leave-me-alone-i-just-want-to-play-video-games-and-watch-anime-hentai-edition.json) |
 | Lewd Girls: Hentai Puzzle | 294909 | [294909-lewd-girls-hentai-puzzle.json](./294909-lewd-girls-hentai-puzzle.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
@@ -5030,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
 | Life Without You | 316727 | [316727-life-without-you.json](./316727-life-without-you.json) |
 | Life-Term | 354581 | [354581-life-term.json](./354581-life-term.json) |
+| Life-Winner Cong's Double Dragon Dream | 173874 | [173874-life-winner-congs-double-dragon-dream.json](./173874-life-winner-congs-double-dragon-dream.json) |
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
@@ -9696,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Rocket | 297135 | [297135-love-rocket.json](./297135-love-rocket.json) |
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
+| Love Season | 173859 | [173859-love-season.json](./173859-love-season.json) |
 | Love Season: Sharing Fantasy | 331636 | [331636-love-season-sharing-fantasy.json](./331636-love-season-sharing-fantasy.json) |
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Sexlife | 97785 | [97785-love-sexlife.json](./97785-love-sexlife.json) |
