@@ -5965,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
 | Match of the Day | 12676 | [12676-match-of-the-day.json](./12676-match-of-the-day.json) |
 | Match of the Day: Kevin Keegan's Electronic Action Soccer Game | 245450 | [245450-match-of-the-day-kevin-keegans-electronic-action-soccer-game.json](./245450-match-of-the-day-kevin-keegans-electronic-action-soccer-game.json) |
+| Match on the Nile | 173891 | [173891-match-on-the-nile.json](./173891-match-on-the-nile.json) |
 | Match Pair 3D Puzzle | 243638 | [243638-match-pair-3d-puzzle.json](./243638-match-pair-3d-puzzle.json) |
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
 | Match Point | 39121 | [39121-match-point.json](./39121-match-point.json) |
@@ -15421,6 +15422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Continent: Cursed Island | 212437 | [212437-misty-continent-cursed-island.json](./212437-misty-continent-cursed-island.json) |
 | Misty Forest: The Parkour Game | 410619 | [410619-misty-forest-the-parkour-game.json](./410619-misty-forest-the-parkour-game.json) |
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
+| Misty Girls | 173854 | [173854-misty-girls.json](./173854-misty-girls.json) |
 | Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
 | Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
 | Misty Islands | 264488 | [264488-misty-islands.json](./264488-misty-islands.json) |
