@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexposed: Game of Dragons | 188061 | [188061-unexposed-game-of-dragons.json](./188061-unexposed-game-of-dragons.json) |
 | Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
+| Unfabled | 180859 | [180859-unfabled.json](./180859-unfabled.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfair | 124204 | [124204-unfair.json](./124204-unfair.json) |
 | Unfair | 233137 | [233137-unfair.json](./233137-unfair.json) |
