@@ -8527,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biketrial Experience | 177670 | [177670-biketrial-experience.json](./177670-biketrial-experience.json) |
 | Biki Biki Flip | 246863 | [246863-biki-biki-flip.json](./246863-biki-biki-flip.json) |
 | Bikini Alert | 163769 | [163769-bikini-alert.json](./163769-bikini-alert.json) |
+| Bikini Armour Explorers | 190056 | [190056-bikini-armour-explorers.json](./190056-bikini-armour-explorers.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Beach: Anime Girls Assault | 301510 | [301510-bikini-beach-anime-girls-assault.json](./301510-bikini-beach-anime-girls-assault.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
