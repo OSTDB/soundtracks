@@ -3481,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Runaways Level and Character Pack | 137311 | [137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json](./137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes: Asgard Character Pack | 101063 | [101063-lego-marvel-super-heroes-asgard-character-pack.json](./101063-lego-marvel-super-heroes-asgard-character-pack.json) |
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
+| LEGO Marvel Super Heroes: Super Pack | 227047 | [227047-lego-marvel-super-heroes-super-pack.json](./227047-lego-marvel-super-heroes-super-pack.json) |
 | LEGO Marvel Super Heroes: Universe in Peril | 345159 | [345159-lego-marvel-super-heroes-universe-in-peril.json](./345159-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel's Avengers | 11069 | [11069-lego-marvels-avengers.json](./11069-lego-marvels-avengers.json) |
@@ -7287,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital: Pledge of Honor - Battlepack | 158739 | [158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json](./158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json) |
 | Lock 'n Load Tactical Digital: Red Gauntlet - Battlepack | 158740 | [158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json](./158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json) |
 | Lock 'n Load Tactical Digital: The Untold Stories - Battlepack | 158736 | [158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json](./158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json) |
+| Lock 'n Load Tactical Digital: Valor of the 13th Battlepack | 227046 | [227046-lock-n-load-tactical-digital-valor-of-the-13th-battlepack.json](./227046-lock-n-load-tactical-digital-valor-of-the-13th-battlepack.json) |
 | Lock 'n Load Tactical Digital: We Stand Alone - Battlepack | 158737 | [158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json](./158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json) |
 | Lock 'n' Chase | 169910 | [169910-lock-n-chase.json](./169910-lock-n-chase.json) |
 | Lock 'n' Chase | 22717 | [22717-lock-n-chase.json](./22717-lock-n-chase.json) |
@@ -7595,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
 | Logistical 2: Sweden | 166371 | [166371-logistical-2-sweden.json](./166371-logistical-2-sweden.json) |
 | Logistical 2: USA - Nevada | 115076 | [115076-logistical-2-usa-nevada.json](./115076-logistical-2-usa-nevada.json) |
+| Logistical 2: USA - Texas Bundle | 227043 | [227043-logistical-2-usa-texas-bundle.json](./227043-logistical-2-usa-texas-bundle.json) |
 | Logistical 2: Vampires | 116782 | [116782-logistical-2-vampires.json](./116782-logistical-2-vampires.json) |
 | Logistical 2: Vampires - Bundle | 168347 | [168347-logistical-2-vampires-bundle.json](./168347-logistical-2-vampires-bundle.json) |
 | Logistical 2: Washington | 166377 | [166377-logistical-2-washington.json](./166377-logistical-2-washington.json) |
