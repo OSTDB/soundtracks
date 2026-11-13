@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Studio | 278231 | [278231-heaven-studio.json](./278231-heaven-studio.json) |
 | Heaven Travel | 254255 | [254255-heaven-travel.json](./254255-heaven-travel.json) |
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
+| Heaven Work | 207438 | [207438-heaven-work.json](./207438-heaven-work.json) |
 | Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
 | Heaven's Cybernetic (De)Athlete: Zeug | 317506 | [317506-heavens-cybernetic-de-athlete-zeug.json](./317506-heavens-cybernetic-de-athlete-zeug.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herman and the Falling Rocks | 63925 | [63925-herman-and-the-falling-rocks.json](./63925-herman-and-the-falling-rocks.json) |
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
 | Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
+| Hermea | 207453 | [207453-hermea.json](./207453-hermea.json) |
 | Hermeneus no Hakoniwa | 344297 | [344297-hermeneus-no-hakoniwa.json](./344297-hermeneus-no-hakoniwa.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
@@ -7928,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Secret Places | 99092 | [99092-hidden-objects-secret-places.json](./99092-hidden-objects-secret-places.json) |
 | Hidden Objects Thanksgiving & 3 puzzle games | 98725 | [98725-hidden-objects-thanksgiving-and-3-puzzle-games.json](./98725-hidden-objects-thanksgiving-and-3-puzzle-games.json) |
 | Hidden Objects USA - New York, Florida, Vegas, Hollywood & Puzzle Travel Games | 70901 | [70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json](./70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json) |
+| Hidden Objects with Edgar Allan Poe | 207445 | [207445-hidden-objects-with-edgar-allan-poe.json](./207445-hidden-objects-with-edgar-allan-poe.json) |
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
 | Hidden Objects: Coastal Hill Mystery | 115182 | [115182-hidden-objects-coastal-hill-mystery.json](./115182-hidden-objects-coastal-hill-mystery.json) |
@@ -8382,6 +8385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Strangeness | 10093 | [10093-high-strangeness.json](./10093-high-strangeness.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
+| High Tech Low Life | 207426 | [207426-high-tech-low-life.json](./207426-high-tech-low-life.json) |
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
 | High Times | 251915 | [251915-high-times.json](./251915-high-times.json) |
 | High Treason | 129304 | [129304-high-treason.json](./129304-high-treason.json) |
