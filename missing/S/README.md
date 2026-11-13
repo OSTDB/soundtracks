@@ -14413,6 +14413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleengster 2 | 30403 | [30403-sleengster-2.json](./30403-sleengster-2.json) |
 | Sleengster 3 | 44293 | [44293-sleengster-3.json](./44293-sleengster-3.json) |
 | Sleep | 160280 | [160280-sleep.json](./160280-sleep.json) |
+| Sleep | 227576 | [227576-sleep.json](./227576-sleep.json) |
 | Sleep Aid | 414413 | [414413-sleep-aid.json](./414413-sleep-aid.json) |
 | Sleep and Girls | 365272 | [365272-sleep-and-girls.json](./365272-sleep-and-girls.json) |
 | Sleep Attack | 35374 | [35374-sleep-attack.json](./35374-sleep-attack.json) |
@@ -20822,6 +20823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Aces | 207553 | [207553-space-aces.json](./207553-space-aces.json) |
 | Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
+| Space Adventure | 227578 | [227578-space-adventure.json](./227578-space-adventure.json) |
 | Space Adventure | 233389 | [233389-space-adventure.json](./233389-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
@@ -31923,6 +31925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
 | Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
+| Sudoku | 227555 | [227555-sudoku.json](./227555-sudoku.json) |
 | Sudoku | 230462 | [230462-sudoku.json](./230462-sudoku.json) |
 | Sudoku | 230670 | [230670-sudoku.json](./230670-sudoku.json) |
 | Sudoku | 232777 | [232777-sudoku.json](./232777-sudoku.json) |
