@@ -3195,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
 | Path Of Balls | 332793 | [332793-path-of-balls.json](./332793-path-of-balls.json) |
+| Path of Becoming | 197316 | [197316-path-of-becoming.json](./197316-path-of-becoming.json) |
 | Path of Clicks | 341967 | [341967-path-of-clicks.json](./341967-path-of-clicks.json) |
 | Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
@@ -8316,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Simulator: Corsair Skull & Sails | 369254 | [369254-pirate-simulator-corsair-skull-and-sails.json](./369254-pirate-simulator-corsair-skull-and-sails.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Solitaire 2 | 195347 | [195347-pirate-solitaire-2.json](./195347-pirate-solitaire-2.json) |
+| Pirate Souls | 197280 | [197280-pirate-souls.json](./197280-pirate-souls.json) |
 | Pirate Storm | 23531 | [23531-pirate-storm.json](./23531-pirate-storm.json) |
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
@@ -9048,6 +9050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 5 | 226992 | [226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json](./226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 7 | 247156 | [247156-pixel-puzzles-traditional-jigsaws-pack-variety-pack-7.json](./247156-pixel-puzzles-traditional-jigsaws-pack-variety-pack-7.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack XS | 197302 | [197302-pixel-puzzles-traditional-jigsaws-pack-variety-pack-xs.json](./197302-pixel-puzzles-traditional-jigsaws-pack-variety-pack-xs.json) |
 | Pixel Puzzles Traditional Jigsaws: Variety Pack XXS | 357953 | [357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json](./357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json) |
 | Pixel Puzzles Trivia | 288823 | [288823-pixel-puzzles-trivia.json](./288823-pixel-puzzles-trivia.json) |
 | Pixel Puzzles Ultimate | 35743 | [35743-pixel-puzzles-ultimate.json](./35743-pixel-puzzles-ultimate.json) |
@@ -14124,6 +14127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Authority | 369886 | [369886-port-authority.json](./369886-port-authority.json) |
 | Port Cranes: Container Age | 215331 | [215331-port-cranes-container-age.json](./215331-port-cranes-container-age.json) |
 | Port Glacia | 262167 | [262167-port-glacia.json](./262167-port-glacia.json) |
+| Port Imagination | 196900 | [196900-port-imagination.json](./196900-port-imagination.json) |
 | Port Logistics Simulator: Dockside Harbor Handling | 340524 | [340524-port-logistics-simulator-dockside-harbor-handling.json](./340524-port-logistics-simulator-dockside-harbor-handling.json) |
 | Port Man | 39310 | [39310-port-man.json](./39310-port-man.json) |
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
@@ -15371,6 +15375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press "X" to win | 332179 | [332179-press-x-to-win.json](./332179-press-x-to-win.json) |
 | Press A | 389267 | [389267-press-a.json](./389267-press-a.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
+| Press A For Achievements | 197313 | [197313-press-a-for-achievements.json](./197313-press-a-for-achievements.json) |
 | Press all the buttons | 18891 | [18891-press-all-the-buttons.json](./18891-press-all-the-buttons.json) |
 | Press and Jump | 55602 | [55602-press-and-jump.json](./55602-press-and-jump.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
