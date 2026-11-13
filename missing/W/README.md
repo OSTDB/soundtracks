@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarTorn | 179473 | [179473-wartorn.json](./179473-wartorn.json) |
 | WarTorn | 94337 | [94337-wartorn.json](./94337-wartorn.json) |
 | Wartracks | 397298 | [397298-wartracks.json](./397298-wartracks.json) |
+| Wartran Troopers | 233292 | [233292-wartran-troopers.json](./233292-wartran-troopers.json) |
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | Wartune Reborn | 160087 | [160087-wartune-reborn.json](./160087-wartune-reborn.json) |
 | Wartune Ultra | 392881 | [392881-wartune-ultra.json](./392881-wartune-ultra.json) |
