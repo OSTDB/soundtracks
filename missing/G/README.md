@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Glue | 392568 | [392568-get-glue.json](./392568-get-glue.json) |
 | Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
 | Get Good by Vypur | 132536 | [132536-get-good-by-vypur.json](./132536-get-good-by-vypur.json) |
+| Get Help | 179097 | [179097-get-help.json](./179097-get-help.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get In Get Out | 376434 | [376434-get-in-get-out.json](./376434-get-in-get-out.json) |
 | Get In Shape | 184733 | [184733-get-in-shape.json](./184733-get-in-shape.json) |
