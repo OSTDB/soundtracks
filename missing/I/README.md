@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am an Air Traffic Controller 4: Airport Nagoya - RJGG | 293809 | [293809-i-am-an-air-traffic-controller-4-airport-nagoya-rjgg.json](./293809-i-am-an-air-traffic-controller-4-airport-nagoya-rjgg.json) |
 | I am an Air Traffic Controller 4: Airport Naha - Roah | 166066 | [166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json](./166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json) |
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
+| I am an Air Traffic Controller 4: Airport New Chitose - RJCC | 219201 | [219201-i-am-an-air-traffic-controller-4-airport-new-chitose-rjcc.json](./219201-i-am-an-air-traffic-controller-4-airport-new-chitose-rjcc.json) |
 | I am an Air Traffic Controller Airport Hero Hawaii | 84545 | [84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json](./84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json) |
 | I am an Air Traffic Controller: Airport Hero Centrair - 20th Anniversary | 323700 | [323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json](./323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json) |
 | I am an Air Traffic Controller: Airport Hero Centrair EX | 415391 | [415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json](./415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json) |
@@ -444,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
 | I Love Finding More Pups | 207733 | [207733-i-love-finding-more-pups.json](./207733-i-love-finding-more-pups.json) |
+| I Love Finding More Pups: Collector's Edition | 219309 | [219309-i-love-finding-more-pups-collectors-edition.json](./219309-i-love-finding-more-pups-collectors-edition.json) |
 | I Love Finding Pups | 172978 | [172978-i-love-finding-pups.json](./172978-i-love-finding-pups.json) |
 | I Love Finding Pups!: Collector's Edition | 187452 | [187452-i-love-finding-pups-collectors-edition.json](./187452-i-love-finding-pups-collectors-edition.json) |
 | I Love Finding Wild Friends | 268291 | [268291-i-love-finding-wild-friends.json](./268291-i-love-finding-wild-friends.json) |
