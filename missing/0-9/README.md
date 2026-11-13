@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1st Video Game | 245162 | [245162-1st-video-game.json](./245162-1st-video-game.json) |
 | 1st&Goal | 175582 | [175582-1st-and-goal.json](./175582-1st-and-goal.json) |
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
+| 1v1 Battle | 188080 | [188080-1v1-battle.json](./188080-1v1-battle.json) |
 | 1v1 Cube Game | 135143 | [135143-1v1-cube-game.json](./135143-1v1-cube-game.json) |
 | 1v1.LOL | 130457 | [130457-1v1-lol.json](./130457-1v1-lol.json) |
 | 1vs1: Battle Royale for the throne | 116226 | [116226-1vs1-battle-royale-for-the-throne.json](./116226-1vs1-battle-royale-for-the-throne.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4*4 Off Road Racer | 92258 | [92258-4-4-off-road-racer.json](./92258-4-4-off-road-racer.json) |
 | 4=10 | 233313 | [233313-4-10.json](./233313-4-10.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
+| 40 Days and 40 Nights of Rain | 187575 | [187575-40-days-and-40-nights-of-rain.json](./187575-40-days-and-40-nights-of-rain.json) |
 | 40 Minute-r | 318263 | [318263-40-minute-r.json](./318263-40-minute-r.json) |
 | 40 Seconds | 275981 | [275981-40-seconds.json](./275981-40-seconds.json) |
 | 40 Sports Games in 1 | 356845 | [356845-40-sports-games-in-1.json](./356845-40-sports-games-in-1.json) |
