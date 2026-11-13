@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: No Limits | 26297 | [26297-need-for-speed-no-limits.json](./26297-need-for-speed-no-limits.json) |
 | Need for Speed: Payback - Deluxe Edition | 23161 | [23161-need-for-speed-payback-deluxe-edition.json](./23161-need-for-speed-payback-deluxe-edition.json) |
 | Need for Speed: Payback - Pontiac Firebird & Aston Martin DB5 Superbuild Bundle | 225944 | [225944-need-for-speed-payback-pontiac-firebird-and-aston-martin-db5-superbuild-bundle.json](./225944-need-for-speed-payback-pontiac-firebird-and-aston-martin-db5-superbuild-bundle.json) |
+| Need for Speed: Payback - Speedcross Story | 211842 | [211842-need-for-speed-payback-speedcross-story.json](./211842-need-for-speed-payback-speedcross-story.json) |
 | Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 210431 | [210431-need-for-speed-prostreet.json](./210431-need-for-speed-prostreet.json) |
@@ -3297,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never Let Me Awake | 117910 | [117910-never-let-me-awake.json](./117910-never-let-me-awake.json) |
 | Never Look Back | 407699 | [407699-never-look-back.json](./407699-never-look-back.json) |
+| Never Mourn | 211863 | [211863-never-mourn.json](./211863-never-mourn.json) |
 | Never Not Shooting | 55625 | [55625-never-not-shooting.json](./55625-never-not-shooting.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
@@ -4842,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Imperium | 10600 | [10600-nightclub-imperium.json](./10600-nightclub-imperium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
+| Nightclub Manager: Violet Vibe | 211882 | [211882-nightclub-manager-violet-vibe.json](./211882-nightclub-manager-violet-vibe.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
 | Nightclub Shufflepuck | 91516 | [91516-nightclub-shufflepuck.json](./91516-nightclub-shufflepuck.json) |
 | NightClub Simulator | 293119 | [293119-nightclub-simulator.json](./293119-nightclub-simulator.json) |
