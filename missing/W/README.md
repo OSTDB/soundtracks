@@ -9740,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wound of the West | 143582 | [143582-wound-of-the-west.json](./143582-wound-of-the-west.json) |
 | Wounded by Words | 57241 | [57241-wounded-by-words.json](./57241-wounded-by-words.json) |
 | Wounded Summer Baby | 268081 | [268081-wounded-summer-baby.json](./268081-wounded-summer-baby.json) |
+| Wounded Winter: A Lakota Story | 181813 | [181813-wounded-winter-a-lakota-story.json](./181813-wounded-winter-a-lakota-story.json) |
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | WoundWake | 422456 | [422456-woundwake.json](./422456-woundwake.json) |
