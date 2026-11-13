@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamidashi Creative | 144180 | [144180-hamidashi-creative.json](./144180-hamidashi-creative.json) |
 | Hamidashi Creative Totsu | 398684 | [398684-hamidashi-creative-totsu.json](./398684-hamidashi-creative-totsu.json) |
 | Hamidashi Creative: Limited Edition | 146033 | [146033-hamidashi-creative-limited-edition.json](./146033-hamidashi-creative-limited-edition.json) |
+| Hamilton | 177604 | [177604-hamilton.json](./177604-hamilton.json) |
 | Hamilton's Great Adventure | 10317 | [10317-hamiltons-great-adventure.json](./10317-hamiltons-great-adventure.json) |
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | Hamish | 387278 | [387278-hamish.json](./387278-hamish.json) |
@@ -3867,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Hero Edition | 47308 | [47308-hearts-of-iron-iv-hero-edition.json](./47308-hearts-of-iron-iv-hero-edition.json) |
 | Hearts of Iron IV: La Résistance | 151254 | [151254-hearts-of-iron-iv-la-resistance.json](./151254-hearts-of-iron-iv-la-resistance.json) |
 | Hearts of Iron IV: Man the Guns | 115063 | [115063-hearts-of-iron-iv-man-the-guns.json](./115063-hearts-of-iron-iv-man-the-guns.json) |
+| Hearts of Iron IV: No Step Back | 178116 | [178116-hearts-of-iron-iv-no-step-back.json](./178116-hearts-of-iron-iv-no-step-back.json) |
 | Hearts of Iron IV: Peace for Our Time | 399142 | [399142-hearts-of-iron-iv-peace-for-our-time.json](./399142-hearts-of-iron-iv-peace-for-our-time.json) |
 | Hearts of Iron IV: The Great War | 321861 | [321861-hearts-of-iron-iv-the-great-war.json](./321861-hearts-of-iron-iv-the-great-war.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
@@ -10605,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
 | Honor of Nations | 286871 | [286871-honor-of-nations.json](./286871-honor-of-nations.json) |
+| Honor: Episode 1 - The Invsation | 177984 | [177984-honor-episode-1-the-invsation.json](./177984-honor-episode-1-the-invsation.json) |
 | Honored | 187082 | [187082-honored.json](./187082-honored.json) |
 | Honorless! | 346488 | [346488-honorless.json](./346488-honorless.json) |
 | Honour & Freedom | 282950 | [282950-honour-and-freedom.json](./282950-honour-and-freedom.json) |
