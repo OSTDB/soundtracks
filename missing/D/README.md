@@ -7342,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis the Menace | 311314 | [311314-dennis-the-menace.json](./311314-dennis-the-menace.json) |
 | Dennis the Menace | 37102 | [37102-dennis-the-menace.json](./37102-dennis-the-menace.json) |
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
+| Dennis The Menace: Catapult Master | 241105 | [241105-dennis-the-menace-catapult-master.json](./241105-dennis-the-menace-catapult-master.json) |
 | Dennou Gakuen | 282750 | [282750-dennou-gakuen.json](./282750-dennou-gakuen.json) |
 | Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
 | Dennou Sentai Lavian Three | 67268 | [67268-dennou-sentai-lavian-three.json](./67268-dennou-sentai-lavian-three.json) |
