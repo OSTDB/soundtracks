@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Ascent | 199718 | [199718-egg-ascent.json](./199718-egg-ascent.json) |
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Blast | 375478 | [375478-egg-blast.json](./375478-egg-blast.json) |
+| Egg Boy | 213514 | [213514-egg-boy.json](./213514-egg-boy.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
 | Egg Chef | 297955 | [297955-egg-chef.json](./297955-egg-chef.json) |
 | Egg Chicken Farm | 349062 | [349062-egg-chicken-farm.json](./349062-egg-chicken-farm.json) |
@@ -8497,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
+| Exome | 213513 | [213513-exome.json](./213513-exome.json) |
 | ExoMecha | 135987 | [135987-exomecha.json](./135987-exomecha.json) |
 | ExoMiner | 208197 | [208197-exominer.json](./208197-exominer.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
