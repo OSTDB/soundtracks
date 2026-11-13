@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Fishing | 236727 | [236727-king-fishing.json](./236727-king-fishing.json) |
 | King Flames | 243848 | [243848-king-flames.json](./243848-king-flames.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
+| King for a Knight | 181269 | [181269-king-for-a-knight.json](./181269-king-for-a-knight.json) |
 | King For a Week | 397373 | [397373-king-for-a-week.json](./397373-king-for-a-week.json) |
 | King God Castle | 203220 | [203220-king-god-castle.json](./203220-king-god-castle.json) |
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
@@ -4454,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KitPupPom! | 176279 | [176279-kitpuppom.json](./176279-kitpuppom.json) |
 | Kitrinos: Inside the Cube | 105349 | [105349-kitrinos-inside-the-cube.json](./105349-kitrinos-inside-the-cube.json) |
 | Kits | 243760 | [243760-kits.json](./243760-kits.json) |
+| Kitsu | 181272 | [181272-kitsu.json](./181272-kitsu.json) |
 | Kitsu Saga | 98813 | [98813-kitsu-saga.json](./98813-kitsu-saga.json) |
 | Kitsu's Destiny | 221148 | [221148-kitsus-destiny.json](./221148-kitsus-destiny.json) |
 | Kitsune | 338411 | [338411-kitsune.json](./338411-kitsune.json) |
