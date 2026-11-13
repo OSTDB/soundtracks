@@ -6641,6 +6641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinterBunny444 | 328385 | [328385-winterbunny444.json](./328385-winterbunny444.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Wintercoffin | 323592 | [323592-wintercoffin.json](./323592-wintercoffin.json) |
+| WinterCraft: Forest Survival | 242758 | [242758-wintercraft-forest-survival.json](./242758-wintercraft-forest-survival.json) |
 | Winterfall | 118453 | [118453-winterfall.json](./118453-winterfall.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterfest | 323923 | [323923-winterfest.json](./323923-winterfest.json) |
