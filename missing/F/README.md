@@ -9795,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow Nightmare | 391589 | [391589-follow-nightmare.json](./391589-follow-nightmare.json) |
 | Follow The Banner | 322807 | [322807-follow-the-banner.json](./322807-follow-the-banner.json) |
 | Follow the Black Kitten | 187203 | [187203-follow-the-black-kitten.json](./187203-follow-the-black-kitten.json) |
+| Follow the blackbird | 182574 | [182574-follow-the-blackbird.json](./182574-follow-the-blackbird.json) |
 | Follow The Cat | 170544 | [170544-follow-the-cat.json](./170544-follow-the-cat.json) |
 | Follow the Crown | 225191 | [225191-follow-the-crown.json](./225191-follow-the-crown.json) |
 | Follow the Darkness | 151572 | [151572-follow-the-darkness.json](./151572-follow-the-darkness.json) |
