@@ -14578,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Love: Date Simulator with Girls | 271863 | [271863-the-love-date-simulator-with-girls.json](./271863-the-love-date-simulator-with-girls.json) |
 | The Love's Ordeal | 360625 | [360625-the-loves-ordeal.json](./360625-the-loves-ordeal.json) |
 | The Lovebirds | 113226 | [113226-the-lovebirds.json](./113226-the-lovebirds.json) |
+| The Lovely Estate | 203994 | [203994-the-lovely-estate.json](./203994-the-lovely-estate.json) |
 | The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
@@ -16901,6 +16902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Wood | 397223 | [397223-the-red-wood.json](./397223-the-red-wood.json) |
 | The Red Zone: Zombie Factory | 359656 | [359656-the-red-zone-zombie-factory.json](./359656-the-red-zone-zombie-factory.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
+| The Redress of Mira | 204003 | [204003-the-redress-of-mira.json](./204003-the-redress-of-mira.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
 | The Referee Committee | 410568 | [410568-the-referee-committee.json](./410568-the-referee-committee.json) |
@@ -18503,6 +18505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Sheriff Spirits | 64780 | [64780-the-space-sheriff-spirits.json](./64780-the-space-sheriff-spirits.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
 | The Space Under the Window | 60191 | [60191-the-space-under-the-window.json](./60191-the-space-under-the-window.json) |
+| The Space-Eating Croc | 204006 | [204006-the-space-eating-croc.json](./204006-the-space-eating-croc.json) |
 | The SpaceOut Collection - My Ex-Boyfriend the Space Tyrant and Escape from Pleasure Planet | 85706 | [85706-the-spaceout-collection-my-ex-boyfriend-the-space-tyrant-and-escape-from-pleasure-planet.json](./85706-the-spaceout-collection-my-ex-boyfriend-the-space-tyrant-and-escape-from-pleasure-planet.json) |
 | The Spanish Privateer | 190374 | [190374-the-spanish-privateer.json](./190374-the-spanish-privateer.json) |
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
@@ -19849,6 +19852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Typing of The Dead: Overkill Collection | 53787 | [53787-the-typing-of-the-dead-overkill-collection.json](./53787-the-typing-of-the-dead-overkill-collection.json) |
 | The Tyrant's Bodyguard 2: Restoration | 226079 | [226079-the-tyrants-bodyguard-2-restoration.json](./226079-the-tyrants-bodyguard-2-restoration.json) |
 | The Tyrant's Dream | 183201 | [183201-the-tyrants-dream.json](./183201-the-tyrants-dream.json) |
+| The Tyrning Combat Challenge | 204019 | [204019-the-tyrning-combat-challenge.json](./204019-the-tyrning-combat-challenge.json) |
 | The Ugly Christmas Sweater Game | 126995 | [126995-the-ugly-christmas-sweater-game.json](./126995-the-ugly-christmas-sweater-game.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
