@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
 | Wind Rider: Military Outfit | 302841 | [302841-wind-rider-military-outfit.json](./302841-wind-rider-military-outfit.json) |
 | Wind Runner Adventure | 38960 | [38960-wind-runner-adventure.json](./38960-wind-runner-adventure.json) |
+| Wind Runner: Puzzle Match | 219851 | [219851-wind-runner-puzzle-match.json](./219851-wind-runner-puzzle-match.json) |
 | Wind Runners | 121395 | [121395-wind-runners.json](./121395-wind-runners.json) |
 | Wind Ryder | 267781 | [267781-wind-ryder.json](./267781-wind-ryder.json) |
 | Wind Slayer | 92641 | [92641-wind-slayer.json](./92641-wind-slayer.json) |
