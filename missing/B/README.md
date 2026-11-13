@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Bustle | 158536 | [158536-baking-bustle.json](./158536-baking-bustle.json) |
 | Baking Bustle: Ashley's Dream | 172896 | [172896-baking-bustle-ashleys-dream.json](./172896-baking-bustle-ashleys-dream.json) |
 | Baking Bustle: Ashley's Dream - Collector's Edition | 339607 | [339607-baking-bustle-ashleys-dream-collectors-edition.json](./339607-baking-bustle-ashleys-dream-collectors-edition.json) |
+| Baking Bustle: Collector's Edition | 177094 | [177094-baking-bustle-collectors-edition.json](./177094-baking-bustle-collectors-edition.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Success | 238773 | [238773-baking-success.json](./238773-baking-success.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banchou Tactics: Lion Heart | 418327 | [418327-banchou-tactics-lion-heart.json](./418327-banchou-tactics-lion-heart.json) |
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
+| Band Camp Boyfriend | 177470 | [177470-band-camp-boyfriend.json](./177470-band-camp-boyfriend.json) |
 | Band Girls | 366756 | [366756-band-girls.json](./366756-band-girls.json) |
 | Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
 | Band Land | 232095 | [232095-band-land.json](./232095-band-land.json) |
@@ -4527,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
 | Battle Valley | 11946 | [11946-battle-valley.json](./11946-battle-valley.json) |
 | Battle Vision | 305029 | [305029-battle-vision.json](./305029-battle-vision.json) |
+| Battle vs. Chess | 177076 | [177076-battle-vs-chess.json](./177076-battle-vs-chess.json) |
 | Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
@@ -8449,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biggerman.io | 187003 | [187003-biggerman-io.json](./187003-biggerman-io.json) |
 | BiggerNouis | 181802 | [181802-biggernouis.json](./181802-biggernouis.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
+| Biggest Little Adventure | 177074 | [177074-biggest-little-adventure.json](./177074-biggest-little-adventure.json) |
 | Biggest Piano | 353385 | [353385-biggest-piano.json](./353385-biggest-piano.json) |
 | Biggest Stream Hover Racing | 193320 | [193320-biggest-stream-hover-racing.json](./193320-biggest-stream-hover-racing.json) |
 | Biggles | 13399 | [13399-biggles.json](./13399-biggles.json) |
