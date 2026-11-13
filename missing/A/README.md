@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abscond | 76345 | [76345-abscond.json](./76345-abscond.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
+| Absence of Light | 244523 | [244523-absence-of-light.json](./244523-absence-of-light.json) |
 | Absence of Light | 344811 | [344811-absence-of-light.json](./344811-absence-of-light.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
 | Alfred's Adventure | 49974 | [49974-alfreds-adventure.json](./49974-alfreds-adventure.json) |
 | Alfredo | 245124 | [245124-alfredo.json](./245124-alfredo.json) |
+| Alfredo and the Fetucini's | 245067 | [245067-alfredo-and-the-fetucinis.json](./245067-alfredo-and-the-fetucinis.json) |
 | Alfredo's Sneaky Meal | 257814 | [257814-alfredos-sneaky-meal.json](./257814-alfredos-sneaky-meal.json) |
 | Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
