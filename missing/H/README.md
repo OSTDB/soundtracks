@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappyHazard | 319476 | [319476-happyhazard.json](./319476-happyhazard.json) |
 | HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
+| HappyPlayers | 201186 | [201186-happyplayers.json](./201186-happyplayers.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | HappyTruck: Fruit Express | 261945 | [261945-happytruck-fruit-express.json](./261945-happytruck-fruit-express.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
@@ -13963,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperYuki: Snowboard Syndicate | 366586 | [366586-hyperyuki-snowboard-syndicate.json](./366586-hyperyuki-snowboard-syndicate.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
+| HypeSquad | 201210 | [201210-hypesquad.json](./201210-hypesquad.json) |
 | Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | HyphoSphere | 400630 | [400630-hyphosphere.json](./400630-hyphosphere.json) |
