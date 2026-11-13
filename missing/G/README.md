@@ -12191,6 +12191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstar Super Heroes | 6422 | [6422-gunstar-super-heroes.json](./6422-gunstar-super-heroes.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
+| Gunster: Rain of Bullets | 240430 | [240430-gunster-rain-of-bullets.json](./240430-gunster-rain-of-bullets.json) |
 | Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
 | Gunstorm | 286251 | [286251-gunstorm.json](./286251-gunstorm.json) |
 | Gunstorm | 67061 | [67061-gunstorm.json](./67061-gunstorm.json) |
