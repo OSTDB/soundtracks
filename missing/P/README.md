@@ -6082,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phive Nights At Pico's | 287365 | [287365-phive-nights-at-picos.json](./287365-phive-nights-at-picos.json) |
 | Phix: The Adventure | 46086 | [46086-phix-the-adventure.json](./46086-phix-the-adventure.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
+| Phlinx | 206246 | [206246-phlinx.json](./206246-phlinx.json) |
 | Phlinx II | 354986 | [354986-phlinx-ii.json](./354986-phlinx-ii.json) |
 | Phlinx to Go | 209971 | [209971-phlinx-to-go.json](./209971-phlinx-to-go.json) |
 | Phlyndir | 121347 | [121347-phlyndir.json](./121347-phlyndir.json) |
