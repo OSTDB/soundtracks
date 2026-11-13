@@ -2947,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way to Exit 2 | 172986 | [172986-one-way-to-exit-2.json](./172986-one-way-to-exit-2.json) |
+| One Way Trip | 199537 | [199537-one-way-trip.json](./199537-one-way-trip.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Way Trip | 315730 | [315730-one-way-trip.json](./315730-one-way-trip.json) |
 | One Way: The Elevator | 149458 | [149458-one-way-the-elevator.json](./149458-one-way-the-elevator.json) |
