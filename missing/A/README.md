@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Coloring Town | 32556 | [32556-abc-coloring-town.json](./32556-abc-coloring-town.json) |
 | ABC Flappy | 188838 | [188838-abc-flappy.json](./188838-abc-flappy.json) |
 | ABC Follow Me: Animals | 192054 | [192054-abc-follow-me-animals.json](./192054-abc-follow-me-animals.json) |
+| ABC Follow Me: Animals - Extended Edition | 220897 | [220897-abc-follow-me-animals-extended-edition.json](./220897-abc-follow-me-animals-extended-edition.json) |
 | ABC Follow Me: Food Festival | 231039 | [231039-abc-follow-me-food-festival.json](./231039-abc-follow-me-food-festival.json) |
 | ABC Hide and Seek | 351424 | [351424-abc-hide-and-seek.json](./351424-abc-hide-and-seek.json) |
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
@@ -3175,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrolyte | 338134 | [338134-acrolyte.json](./338134-acrolyte.json) |
 | Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acronia | 240637 | [240637-acronia.json](./240637-acronia.json) |
+| Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
 | Acrophobia | 284274 | [284274-acrophobia.json](./284274-acrophobia.json) |
 | Acrophobia | 90914 | [90914-acrophobia.json](./90914-acrophobia.json) |
 | Acropolis | 95515 | [95515-acropolis.json](./95515-acropolis.json) |
@@ -12531,6 +12533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
 | Aooa | 345279 | [345279-aooa.json](./345279-aooa.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
+| Aooni Online 4 | 221301 | [221301-aooni-online-4.json](./221301-aooni-online-4.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
 | Aooni.io | 317486 | [317486-aooni-io.json](./317486-aooni-io.json) |
 | Aooni2 | 410832 | [410832-aooni2.json](./410832-aooni2.json) |
@@ -15377,6 +15380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed! | 22684 | [22684-armed.json](./22684-armed.json) |
 | Armello | 11260 | [11260-armello.json](./11260-armello.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
+| Armello: Complete Edition | 220909 | [220909-armello-complete-edition.json](./220909-armello-complete-edition.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
 | Armello: Rivals Hero Pack | 163271 | [163271-armello-rivals-hero-pack.json](./163271-armello-rivals-hero-pack.json) |
 | Armello: Special Edition | 166228 | [166228-armello-special-edition.json](./166228-armello-special-edition.json) |
