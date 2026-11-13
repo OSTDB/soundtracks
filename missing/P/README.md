@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Vidya | 154915 | [154915-path-of-vidya.json](./154915-path-of-vidya.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
+| Path of Yuusha | 237108 | [237108-path-of-yuusha.json](./237108-path-of-yuusha.json) |
 | Path of Zen | 128096 | [128096-path-of-zen.json](./128096-path-of-zen.json) |
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
@@ -7764,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
 | Pinchimono: The Videogame | 321898 | [321898-pinchimono-the-videogame.json](./321898-pinchimono-the-videogame.json) |
+| PinCol | 237091 | [237091-pincol.json](./237091-pincol.json) |
 | Pincrediball | 288940 | [288940-pincrediball.json](./288940-pincrediball.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
@@ -10358,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmoid | 126980 | [126980-plasmoid.json](./126980-plasmoid.json) |
 | Plasmorphosis | 329537 | [329537-plasmorphosis.json](./329537-plasmorphosis.json) |
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
+| Plastic | 236568 | [236568-plastic.json](./236568-plastic.json) |
 | Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Beach | 285599 | [285599-plastic-beach.json](./285599-plastic-beach.json) |
 | Plastic Blue: lofi beats to study and sleep to | 174013 | [174013-plastic-blue-lofi-beats-to-study-and-sleep-to.json](./174013-plastic-blue-lofi-beats-to-study-and-sleep-to.json) |
@@ -14386,6 +14389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pothead | 184781 | [184781-pothead.json](./184781-pothead.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
 | Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
+| Potion Brew | 236552 | [236552-potion-brew.json](./236552-potion-brew.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
@@ -17493,6 +17497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Skylab | 106509 | [106509-project-skylab.json](./106509-project-skylab.json) |
 | Project Skylab 2 | 110106 | [110106-project-skylab-2.json](./110106-project-skylab-2.json) |
 | Project Skylab 3: A New Frontier | 116765 | [116765-project-skylab-3-a-new-frontier.json](./116765-project-skylab-3-a-new-frontier.json) |
+| Project Slime | 237095 | [237095-project-slime.json](./237095-project-slime.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
