@@ -3888,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore Encore! | 364682 | [364682-encore-encore.json](./364682-encore-encore.json) |
 | Encore Illusions | 190437 | [190437-encore-illusions.json](./190437-encore-illusions.json) |
 | Encore Rally | 267867 | [267867-encore-rally.json](./267867-encore-rally.json) |
+| Encore: Summer | 183104 | [183104-encore-summer.json](./183104-encore-summer.json) |
 | Encore! | 372557 | [372557-encore.json](./372557-encore.json) |
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 24507 | [24507-encounter.json](./24507-encounter.json) |
