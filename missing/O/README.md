@@ -4483,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oretachi ni Tsubasa wa Nai - Under the Innocent Sky | 62647 | [62647-oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky.json](./62647-oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky.json) |
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
+| Orevore Courier | 188626 | [188626-orevore-courier.json](./188626-orevore-courier.json) |
 | Orf Ski Challange 2016 | 125880 | [125880-orf-ski-challange-2016.json](./125880-orf-ski-challange-2016.json) |
 | Org | 74272 | [74272-org.json](./74272-org.json) |
 | Organ Biker | 35390 | [35390-organ-biker.json](./35390-organ-biker.json) |
