@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Ballroom | 137577 | [137577-welcome-to-the-ballroom.json](./137577-welcome-to-the-ballroom.json) |
 | Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
+| Welcome to the Cursed Bookshop we also stock other things | 182955 | [182955-welcome-to-the-cursed-bookshop-we-also-stock-other-things.json](./182955-welcome-to-the-cursed-bookshop-we-also-stock-other-things.json) |
 | Welcome to the Dark Place | 121599 | [121599-welcome-to-the-dark-place.json](./121599-welcome-to-the-dark-place.json) |
 | Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
 | Welcome to the Dungeon | 368789 | [368789-welcome-to-the-dungeon.json](./368789-welcome-to-the-dungeon.json) |
@@ -6233,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windsor Road | 165584 | [165584-windsor-road.json](./165584-windsor-road.json) |
 | WindSoul | 38951 | [38951-windsoul.json](./38951-windsoul.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
+| Windstone | 182581 | [182581-windstone.json](./182581-windstone.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | Windstorm Double Pack | 259705 | [259705-windstorm-double-pack.json](./259705-windstorm-double-pack.json) |
 | Windstorm: An Unexpected Arrival | 116679 | [116679-windstorm-an-unexpected-arrival.json](./116679-windstorm-an-unexpected-arrival.json) |
