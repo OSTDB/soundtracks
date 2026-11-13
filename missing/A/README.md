@@ -13028,6 +13028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apollyon | 423211 | [423211-apollyon.json](./423211-apollyon.json) |
 | Apollyon: River of Life | 158365 | [158365-apollyon-river-of-life.json](./158365-apollyon-river-of-life.json) |
+| Apologies, for what it's worth. | 181809 | [181809-apologies-for-what-its-worth.json](./181809-apologies-for-what-its-worth.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
 | Apolysis | 191304 | [191304-apolysis.json](./191304-apolysis.json) |
