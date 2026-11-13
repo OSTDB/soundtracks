@@ -5629,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbo Disco | 256952 | [256952-limbo-disco.json](./256952-limbo-disco.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbo of the Lost | 50390 | [50390-limbo-of-the-lost.json](./50390-limbo-of-the-lost.json) |
+| Limbo Revolution | 238776 | [238776-limbo-revolution.json](./238776-limbo-revolution.json) |
 | Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
@@ -8335,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Dragons | 234865 | [234865-lord-of-dragons.json](./234865-lord-of-dragons.json) |
 | Lord of Dungeons | 83691 | [83691-lord-of-dungeons.json](./83691-lord-of-dungeons.json) |
 | Lord of Dwarves | 32552 | [32552-lord-of-dwarves.json](./32552-lord-of-dwarves.json) |
+| Lord of Empires | 238713 | [238713-lord-of-empires.json](./238713-lord-of-empires.json) |
 | Lord of Fire & Ice | 211589 | [211589-lord-of-fire-and-ice.json](./211589-lord-of-fire-and-ice.json) |
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
@@ -8489,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorethem | 201557 | [201557-lorethem.json](./201557-lorethem.json) |
 | Loretta | 203642 | [203642-loretta.json](./203642-loretta.json) |
+| Loretta's Brand New Job | 238785 | [238785-lorettas-brand-new-job.json](./238785-lorettas-brand-new-job.json) |
 | Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
