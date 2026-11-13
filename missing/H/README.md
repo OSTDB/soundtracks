@@ -6834,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Project | 367073 | [367073-heroes-project.json](./367073-heroes-project.json) |
 | Heroes Quest Survival | 249909 | [249909-heroes-quest-survival.json](./249909-heroes-quest-survival.json) |
+| Heroes Raid | 219834 | [219834-heroes-raid.json](./219834-heroes-raid.json) |
 | Heroes Rally | 199693 | [199693-heroes-rally.json](./199693-heroes-rally.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
@@ -12174,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
 | Hover League | 232293 | [232293-hover-league.json](./232293-hover-league.json) |
+| Hover Muscle | 219836 | [219836-hover-muscle.json](./219836-hover-muscle.json) |
 | Hover Phoenix | 394197 | [394197-hover-phoenix.json](./394197-hover-phoenix.json) |
 | Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
@@ -12405,6 +12407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howl | 31710 | [31710-howl.json](./31710-howl.json) |
 | Howl | 399756 | [399756-howl.json](./399756-howl.json) |
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
+| Howlbreath | 219837 | [219837-howlbreath.json](./219837-howlbreath.json) |
 | Howling Dogs | 62648 | [62648-howling-dogs.json](./62648-howling-dogs.json) |
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | Howling Woods | 424006 | [424006-howling-woods.json](./424006-howling-woods.json) |
@@ -13231,8 +13234,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
 | Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
+| Hunting grounds | 219841 | [219841-hunting-grounds.json](./219841-hunting-grounds.json) |
 | Hunting Grounds: Whispers Of The Woods | 328323 | [328323-hunting-grounds-whispers-of-the-woods.json](./328323-hunting-grounds-whispers-of-the-woods.json) |
 | Hunting in Ancient Asia | 121917 | [121917-hunting-in-ancient-asia.json](./121917-hunting-in-ancient-asia.json) |
+| Hunting Labyrinth | 219843 | [219843-hunting-labyrinth.json](./219843-hunting-labyrinth.json) |
 | Hunting Life VR: Dove Season | 224953 | [224953-hunting-life-vr-dove-season.json](./224953-hunting-life-vr-dove-season.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
