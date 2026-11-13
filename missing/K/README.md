@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Blocks | 340971 | [340971-kid-blocks.json](./340971-kid-blocks.json) |
 | Kid Bludd's Treacherous Tower | 177256 | [177256-kid-bludds-treacherous-tower.json](./177256-kid-bludds-treacherous-tower.json) |
 | Kid Bubblegum | 251747 | [251747-kid-bubblegum.json](./251747-kid-bubblegum.json) |
+| Kid Canary & The Midnight Tower | 215272 | [215272-kid-canary-and-the-midnight-tower.json](./215272-kid-canary-and-the-midnight-tower.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Chaos | 12655 | [12655-kid-chaos.json](./12655-kid-chaos.json) |
 | Kid Detective | 160107 | [160107-kid-detective.json](./160107-kid-detective.json) |
