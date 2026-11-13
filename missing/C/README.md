@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Cario 2 | 225956 | [225956-cario-2.json](./225956-cario-2.json) |
 | Cario 3 | 228762 | [228762-cario-3.json](./228762-cario-3.json) |
+| Cario 4 | 229987 | [229987-cario-4.json](./229987-cario-4.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
 | Carist | 407896 | [407896-carist.json](./407896-carist.json) |
@@ -11482,6 +11483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower | 19287 | [19287-clock-tower.json](./19287-clock-tower.json) |
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Deluxe | 314695 | [314695-clock-tower-deluxe.json](./314695-clock-tower-deluxe.json) |
+| Clock Tower for WonderSwan | 229997 | [229997-clock-tower-for-wonderswan.json](./229997-clock-tower-for-wonderswan.json) |
 | Clock Tower II: The Struggle Within | 19288 | [19288-clock-tower-ii-the-struggle-within.json](./19288-clock-tower-ii-the-struggle-within.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Ready for the Next | 214969 | [214969-clock-tower-ready-for-the-next.json](./214969-clock-tower-ready-for-the-next.json) |
