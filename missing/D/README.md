@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
 | Dante's Infernya | 175841 | [175841-dantes-infernya.json](./175841-dantes-infernya.json) |
 | Dante's Purgatorio | 376496 | [376496-dantes-purgatorio.json](./376496-dantes-purgatorio.json) |
+| Dante's Quest | 233265 | [233265-dantes-quest.json](./233265-dantes-quest.json) |
 | Dante's Rumba | 412188 | [412188-dantes-rumba.json](./412188-dantes-rumba.json) |
 | Dantes Bullet Inferno | 129749 | [129749-dantes-bullet-inferno.json](./129749-dantes-bullet-inferno.json) |
 | Danzai no Maria: The Exorcism of Maria | 72647 | [72647-danzai-no-maria-the-exorcism-of-maria.json](./72647-danzai-no-maria-the-exorcism-of-maria.json) |
@@ -12369,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
 | Do Not Fall | 36154 | [36154-do-not-fall.json](./36154-do-not-fall.json) |
+| Do Not Fall: Run For Your Drink | 233278 | [233278-do-not-fall-run-for-your-drink.json](./233278-do-not-fall-run-for-your-drink.json) |
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Feed the Monkeys 2099 | 199713 | [199713-do-not-feed-the-monkeys-2099.json](./199713-do-not-feed-the-monkeys-2099.json) |
 | Do Not Feed the Monkeys 2099: Four Cage Gourmet Pack | 298490 | [298490-do-not-feed-the-monkeys-2099-four-cage-gourmet-pack.json](./298490-do-not-feed-the-monkeys-2099-four-cage-gourmet-pack.json) |
@@ -12434,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobby x Escape: Spooky Adventure | 233933 | [233933-dobby-x-escape-spooky-adventure.json](./233933-dobby-x-escape-spooky-adventure.json) |
 | DobbyxEscape: Halloween Adventure | 225212 | [225212-dobbyxescape-halloween-adventure.json](./225212-dobbyxescape-halloween-adventure.json) |
 | DobbyxEscape: Pirate Adventure | 242967 | [242967-dobbyxescape-pirate-adventure.json](./242967-dobbyxescape-pirate-adventure.json) |
+| DobbyxEscape: Spooky Adventure | 233797 | [233797-dobbyxescape-spooky-adventure.json](./233797-dobbyxescape-spooky-adventure.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
@@ -14465,6 +14468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
 | Doomsday Draft | 408234 | [408234-doomsday-draft.json](./408234-doomsday-draft.json) |
 | Doomsday Dreamgirl | 186084 | [186084-doomsday-dreamgirl.json](./186084-doomsday-dreamgirl.json) |
+| Doomsday Fodder | 233295 | [233295-doomsday-fodder.json](./233295-doomsday-fodder.json) |
 | Doomsday Hero | 156042 | [156042-doomsday-hero.json](./156042-doomsday-hero.json) |
 | Doomsday Hunters | 129042 | [129042-doomsday-hunters.json](./129042-doomsday-hunters.json) |
 | Doomsday Hunters: Boss Rush Mega Pack | 308843 | [308843-doomsday-hunters-boss-rush-mega-pack.json](./308843-doomsday-hunters-boss-rush-mega-pack.json) |
@@ -16493,6 +16497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
 | Dragon Saikyou Ouzukan: Battle Colosseum | 306192 | [306192-dragon-saikyou-ouzukan-battle-colosseum.json](./306192-dragon-saikyou-ouzukan-battle-colosseum.json) |
 | Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
+| Dragon Scroll | 233256 | [233256-dragon-scroll.json](./233256-dragon-scroll.json) |
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Seeds | 45008 | [45008-dragon-seeds.json](./45008-dragon-seeds.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
@@ -20313,6 +20318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Kingdoms | 157929 | [157929-dungeons-and-kingdoms.json](./157929-dungeons-and-kingdoms.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
+| Dungeons and Myths 2 | 233670 | [233670-dungeons-and-myths-2.json](./233670-dungeons-and-myths-2.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons and Taverns | 344039 | [344039-dungeons-and-taverns.json](./344039-dungeons-and-taverns.json) |
 | Dungeons and Tiles | 224060 | [224060-dungeons-and-tiles.json](./224060-dungeons-and-tiles.json) |
