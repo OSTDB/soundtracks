@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Fortuna: The Gargantuan Fate and a Girl of Eternity | 82638 | [82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json](./82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json) |
+| Magna Graecia | 190243 | [190243-magna-graecia.json](./190243-magna-graecia.json) |
 | Magna Memoria | 58928 | [58928-magna-memoria.json](./58928-magna-memoria.json) |
 | Magna Mundi | 65047 | [65047-magna-mundi.json](./65047-magna-mundi.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
@@ -19667,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbike Shop Simulator 2025 | 372971 | [372971-motorbike-shop-simulator-2025.json](./372971-motorbike-shop-simulator-2025.json) |
 | Motorbike Simulator MX Driving | 312446 | [312446-motorbike-simulator-mx-driving.json](./312446-motorbike-simulator-mx-driving.json) |
+| Motorbike Traffic Splash | 190258 | [190258-motorbike-traffic-splash.json](./190258-motorbike-traffic-splash.json) |
 | Motorbike Video Puzzle | 368384 | [368384-motorbike-video-puzzle.json](./368384-motorbike-video-puzzle.json) |
 | Motorbikes Pro 2025 | 328737 | [328737-motorbikes-pro-2025.json](./328737-motorbikes-pro-2025.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
@@ -24273,6 +24275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Isle | 347407 | [347407-mythic-isle.json](./347407-mythic-isle.json) |
 | Mythic Kart Maker | 381580 | [381580-mythic-kart-maker.json](./381580-mythic-kart-maker.json) |
 | Mythic Legends | 201617 | [201617-mythic-legends.json](./201617-mythic-legends.json) |
+| Mythic Legions Tactics | 190259 | [190259-mythic-legions-tactics.json](./190259-mythic-legions-tactics.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
 | Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
 | Mythic Manor | 350220 | [350220-mythic-manor.json](./350220-mythic-manor.json) |
