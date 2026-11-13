@@ -2792,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Part Time Job | 281339 | [281339-part-time-job.json](./281339-part-time-job.json) |
 | Part Time UFO | 75957 | [75957-part-time-ufo.json](./75957-part-time-ufo.json) |
 | Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
+| Parthian Strike | 209110 | [209110-parthian-strike.json](./209110-parthian-strike.json) |
 | Partia | 233924 | [233924-partia.json](./233924-partia.json) |
 | Partia 2 | 197994 | [197994-partia-2.json](./197994-partia-2.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
@@ -10564,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Cards | 287543 | [287543-play-cards.json](./287543-play-cards.json) |
 | Play Chess Fritz 7 | 209572 | [209572-play-chess-fritz-7.json](./209572-play-chess-fritz-7.json) |
 | Play Chess with Lady Bongcloud | 255696 | [255696-play-chess-with-lady-bongcloud.json](./255696-play-chess-with-lady-bongcloud.json) |
+| Play Chess: Deep Fritz - Grandmaster Deluxe | 209095 | [209095-play-chess-deep-fritz-grandmaster-deluxe.json](./209095-play-chess-deep-fritz-grandmaster-deluxe.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Cubes with Uncle Billy | 84539 | [84539-play-cubes-with-uncle-billy.json](./84539-play-cubes-with-uncle-billy.json) |
 | Play Dead! | 355470 | [355470-play-dead.json](./355470-play-dead.json) |
