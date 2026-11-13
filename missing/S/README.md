@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santas Little Helper | 363372 | [363372-santas-little-helper.json](./363372-santas-little-helper.json) |
 | Santatlantean | 42047 | [42047-santatlantean.json](./42047-santatlantean.json) |
 | Santego Special Unit | 216343 | [216343-santego-special-unit.json](./216343-santego-special-unit.json) |
+| Santhai | 186859 | [186859-santhai.json](./186859-santhai.json) |
 | Santherya Uprising | 376005 | [376005-santherya-uprising.json](./376005-santherya-uprising.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Santorini Board Game | 290291 | [290291-santorini-board-game.json](./290291-santorini-board-game.json) |
@@ -3931,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScrapDown | 336659 | [336659-scrapdown.json](./336659-scrapdown.json) |
 | Scraper | 105731 | [105731-scraper.json](./105731-scraper.json) |
 | Scraper: First Strike | 111091 | [111091-scraper-first-strike.json](./111091-scraper-first-strike.json) |
+| Scrapland Remastered | 185732 | [185732-scrapland-remastered.json](./185732-scrapland-remastered.json) |
 | Scraplers | 156963 | [156963-scraplers.json](./156963-scraplers.json) |
 | Scraplings | 420774 | [420774-scraplings.json](./420774-scraplings.json) |
 | Scrapmetalship | 183007 | [183007-scrapmetalship.json](./183007-scrapmetalship.json) |
@@ -18221,6 +18223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Dungeon Escape | 85380 | [85380-solitaire-dungeon-escape.json](./85380-solitaire-dungeon-escape.json) |
 | Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
 | Solitaire Epic | 53628 | [53628-solitaire-epic.json](./53628-solitaire-epic.json) |
+| Solitaire Expeditions | 186796 | [186796-solitaire-expeditions.json](./186796-solitaire-expeditions.json) |
 | Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
 | Solitaire Fish | 234454 | [234454-solitaire-fish.json](./234454-solitaire-fish.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
@@ -27928,6 +27931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: After Summer Portable | 202825 | [202825-starry-sky-after-summer-portable.json](./202825-starry-sky-after-summer-portable.json) |
 | Starry Sky: After Winter | 203794 | [203794-starry-sky-after-winter.json](./203794-starry-sky-after-winter.json) |
 | Starry Sky: After Winter Portable | 203813 | [203813-starry-sky-after-winter-portable.json](./203813-starry-sky-after-winter-portable.json) |
+| Starry Sky: Autumn Stories | 185720 | [185720-starry-sky-autumn-stories.json](./185720-starry-sky-autumn-stories.json) |
 | Starry Sky: in Autumn | 203168 | [203168-starry-sky-in-autumn.json](./203168-starry-sky-in-autumn.json) |
 | Starry Sky: in Autumn 3D | 203171 | [203171-starry-sky-in-autumn-3d.json](./203171-starry-sky-in-autumn-3d.json) |
 | Starry Sky: in Autumn Portable | 203170 | [203170-starry-sky-in-autumn-portable.json](./203170-starry-sky-in-autumn-portable.json) |
@@ -35764,6 +35768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Princess' 2092 Exodus | 305736 | [305736-super-princess-2092-exodus.json](./305736-super-princess-2092-exodus.json) |
 | Super Pro Decathlon | 41454 | [41454-super-pro-decathlon.json](./41454-super-pro-decathlon.json) |
 | Super Pro Football | 41453 | [41453-super-pro-football.json](./41453-super-pro-football.json) |
+| Super Probotector: Alien Rebels | 186205 | [186205-super-probotector-alien-rebels.json](./186205-super-probotector-alien-rebels.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
 | Super Professional Baseball II | 37854 | [37854-super-professional-baseball-ii.json](./37854-super-professional-baseball-ii.json) |
 | Super Professor | 44275 | [44275-super-professor.json](./44275-super-professor.json) |
