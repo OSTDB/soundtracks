@@ -12328,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
 | Midnight Remastered | 117443 | [117443-midnight-remastered.json](./117443-midnight-remastered.json) |
 | Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
+| Midnight Renegade: Recollections | 204007 | [204007-midnight-renegade-recollections.json](./204007-midnight-renegade-recollections.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Resistance | 4401 | [4401-midnight-resistance.json](./4401-midnight-resistance.json) |
 | Midnight Rhapsody | 224967 | [224967-midnight-rhapsody.json](./224967-midnight-rhapsody.json) |
