@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannoneer Girls | 339975 | [339975-cannoneer-girls.json](./339975-cannoneer-girls.json) |
 | Cannonfire | 244310 | [244310-cannonfire.json](./244310-cannonfire.json) |
 | Cannonfire Concerto | 30441 | [30441-cannonfire-concerto.json](./30441-cannonfire-concerto.json) |
+| Cannonhead Clash | 202274 | [202274-cannonhead-clash.json](./202274-cannonhead-clash.json) |
 | Cannonpistol | 334346 | [334346-cannonpistol.json](./334346-cannonpistol.json) |
 | Cannons Lasers Rockets | 16870 | [16870-cannons-lasers-rockets.json](./16870-cannons-lasers-rockets.json) |
 | Cannons-Defenders: Steam Edition | 28903 | [28903-cannons-defenders-steam-edition.json](./28903-cannons-defenders-steam-edition.json) |
@@ -5684,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceiba | 248967 | [248967-ceiba.json](./248967-ceiba.json) |
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
+| Ceilings | 202275 | [202275-ceilings.json](./202275-ceilings.json) |
 | Ceilless | 190801 | [190801-ceilless.json](./190801-ceilless.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
 | Cel by Date! | 358646 | [358646-cel-by-date.json](./358646-cel-by-date.json) |
@@ -7973,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
 | Chickens VS Zombies | 299414 | [299414-chickens-vs-zombies.json](./299414-chickens-vs-zombies.json) |
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
+| Chickenswamp | 202278 | [202278-chickenswamp.json](./202278-chickenswamp.json) |
 | ChickenZ | 192716 | [192716-chickenz.json](./192716-chickenz.json) |
 | Chickhack | 41169 | [41169-chickhack.json](./41169-chickhack.json) |
 | Chickie Catchers | 238667 | [238667-chickie-catchers.json](./238667-chickie-catchers.json) |
@@ -11250,6 +11253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
 | Click Me: Hentai Adventure | 309803 | [309803-click-me-hentai-adventure.json](./309803-click-me-hentai-adventure.json) |
 | Click Medic | 64064 | [64064-click-medic.json](./64064-click-medic.json) |
+| Click Miner | 202281 | [202281-click-miner.json](./202281-click-miner.json) |
 | Click of Cthulhu | 175845 | [175845-click-of-cthulhu.json](./175845-click-of-cthulhu.json) |
 | Click On Bells Together | 303416 | [303416-click-on-bells-together.json](./303416-click-on-bells-together.json) |
 | Click On Candy Together | 303954 | [303954-click-on-candy-together.json](./303954-click-on-candy-together.json) |
@@ -11808,6 +11812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouds & Sheep 2 | 33595 | [33595-clouds-and-sheep-2.json](./33595-clouds-and-sheep-2.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
 | Clouds and Jewels | 359390 | [359390-clouds-and-jewels.json](./359390-clouds-and-jewels.json) |
+| Clouds Holidays Expo | 202282 | [202282-clouds-holidays-expo.json](./202282-clouds-holidays-expo.json) |
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
 | Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
@@ -11929,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
 | Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
 | Club Penguin Journey | 312869 | [312869-club-penguin-journey.json](./312869-club-penguin-journey.json) |
+| Club Penguin Online | 202283 | [202283-club-penguin-online.json](./202283-club-penguin-online.json) |
 | Club Penguin Rewritten | 98486 | [98486-club-penguin-rewritten.json](./98486-club-penguin-rewritten.json) |
 | Club Penguin Zero | 375700 | [375700-club-penguin-zero.json](./375700-club-penguin-zero.json) |
 | Club Penguin: Elite Penguin Force | 78695 | [78695-club-penguin-elite-penguin-force.json](./78695-club-penguin-elite-penguin-force.json) |
