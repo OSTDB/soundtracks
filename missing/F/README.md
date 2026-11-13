@@ -5951,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
+| Find You | 244978 | [244978-find-you.json](./244978-find-you.json) |
 | Find You | 53137 | [53137-find-you.json](./53137-find-you.json) |
 | Find Your Friends | 374948 | [374948-find-your-friends.json](./374948-find-your-friends.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
@@ -9665,6 +9666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
 | Follow Hoothoot | 72248 | [72248-follow-hoothoot.json](./72248-follow-hoothoot.json) |
 | Follow JC Go | 111329 | [111329-follow-jc-go.json](./111329-follow-jc-go.json) |
+| Follow Me | 244967 | [244967-follow-me.json](./244967-follow-me.json) |
 | Follow My Footsteps | 72411 | [72411-follow-my-footsteps.json](./72411-follow-my-footsteps.json) |
 | Follow My Steps | 216666 | [216666-follow-my-steps.json](./216666-follow-my-steps.json) |
 | Follow My Voice | 179194 | [179194-follow-my-voice.json](./179194-follow-my-voice.json) |
