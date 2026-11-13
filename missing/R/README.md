@@ -9267,6 +9267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Rebuild Expansion | 371568 | [371568-roadcraft-rebuild-expansion.json](./371568-roadcraft-rebuild-expansion.json) |
 | RoadCraft: Reclaim Expansion | 394795 | [394795-roadcraft-reclaim-expansion.json](./394795-roadcraft-reclaim-expansion.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
+| Roadfix Rush | 237610 | [237610-roadfix-rush.json](./237610-roadfix-rush.json) |
 | RoadHouse Manager | 291341 | [291341-roadhouse-manager.json](./291341-roadhouse-manager.json) |
 | Roadhouse Simulator: Prologue | 405347 | [405347-roadhouse-simulator-prologue.json](./405347-roadhouse-simulator-prologue.json) |
 | Roadies: Unsung Heroes | 313447 | [313447-roadies-unsung-heroes.json](./313447-roadies-unsung-heroes.json) |
@@ -13875,6 +13876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown Revolt: Pool Party Zhurong | 257048 | [257048-rushdown-revolt-pool-party-zhurong.json](./257048-rushdown-revolt-pool-party-zhurong.json) |
 | Rushdown Rivals | 265905 | [265905-rushdown-rivals.json](./265905-rushdown-rivals.json) |
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
+| Rusher Dominance | 237609 | [237609-rusher-dominance.json](./237609-rusher-dominance.json) |
 | RushGirl Luca | 405231 | [405231-rushgirl-luca.json](./405231-rushgirl-luca.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
