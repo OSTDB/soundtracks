@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30 Sport Games in 1 | 256202 | [256202-30-sport-games-in-1.json](./256202-30-sport-games-in-1.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
+| 30-50 Feral Hogs | 240545 | [240545-30-50-feral-hogs.json](./240545-30-50-feral-hogs.json) |
 | 30-in-1 Game Collection | 119442 | [119442-30-in-1-game-collection.json](./119442-30-in-1-game-collection.json) |
 | 30-in-1 Game Collection: Volume 2 | 119514 | [119514-30-in-1-game-collection-volume-2.json](./119514-30-in-1-game-collection-volume-2.json) |
 | 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Rally | 221209 | [221209-8-bit-rally.json](./221209-8-bit-rally.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
+| 8 Bitty Games | 240550 | [240550-8-bitty-games.json](./240550-8-bitty-games.json) |
 | 8 Eyes | 1975 | [1975-8-eyes.json](./1975-8-eyes.json) |
 | 8 Floor, Only Me? | 379076 | [379076-8-floor-only-me.json](./379076-8-floor-only-me.json) |
 | 8 Hours Till Dawn | 407153 | [407153-8-hours-till-dawn.json](./407153-8-hours-till-dawn.json) |
