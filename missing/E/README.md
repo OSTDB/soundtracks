@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elaine | 29596 | [29596-elaine.json](./29596-elaine.json) |
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
+| Elancia | 196749 | [196749-elancia.json](./196749-elancia.json) |
 | Elandrake | 421837 | [421837-elandrake.json](./421837-elandrake.json) |
 | Elansar | 33705 | [33705-elansar.json](./33705-elansar.json) |
 | Elara | 273768 | [273768-elara.json](./273768-elara.json) |
