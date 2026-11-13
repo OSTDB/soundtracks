@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally One: Race to Glory | 297518 | [297518-rally-one-race-to-glory.json](./297518-rally-one-race-to-glory.json) |
 | Rally Parrudo | 184160 | [184160-rally-parrudo.json](./184160-rally-parrudo.json) |
+| Rally Point | 182953 | [182953-rally-point.json](./182953-rally-point.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pop | 65313 | [65313-rally-pop.json](./65313-rally-pop.json) |
@@ -11755,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RON 2 and 1/2: Fowl Play | 70835 | [70835-ron-2-and-1-2-fowl-play.json](./70835-ron-2-and-1-2-fowl-play.json) |
 | RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
 | Ron-Q! Highland in DS | 123403 | [123403-ron-q-highland-in-ds.json](./123403-ron-q-highland-in-ds.json) |
+| Ronald | 182560 | [182560-ronald.json](./182560-ronald.json) |
 | Ronald McDonald Alphabet Fun | 198877 | [198877-ronald-mcdonald-alphabet-fun.json](./198877-ronald-mcdonald-alphabet-fun.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Regan Teaches Typing | 178961 | [178961-ronald-regan-teaches-typing.json](./178961-ronald-regan-teaches-typing.json) |
@@ -13257,6 +13259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Fighter: Unleashed | 35531 | [35531-rumble-fighter-unleashed.json](./35531-rumble-fighter-unleashed.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble Hockey | 137866 | [137866-rumble-hockey.json](./137866-rumble-hockey.json) |
+| Rumble in the Midwest | 182950 | [182950-rumble-in-the-midwest.json](./182950-rumble-in-the-midwest.json) |
 | Rumble in the Soup | 101883 | [101883-rumble-in-the-soup.json](./101883-rumble-in-the-soup.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
@@ -13681,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneLite | 142955 | [142955-runelite.json](./142955-runelite.json) |
 | Runelords | 208730 | [208730-runelords.json](./208730-runelords.json) |
 | Runelords Arena | 142056 | [142056-runelords-arena.json](./142056-runelords-arena.json) |
+| Runemage | 182580 | [182580-runemage.json](./182580-runemage.json) |
 | Runemals | 80775 | [80775-runemals.json](./80775-runemals.json) |
 | Runemancer | 272245 | [272245-runemancer.json](./272245-runemancer.json) |
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
