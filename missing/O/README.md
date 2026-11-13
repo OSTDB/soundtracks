@@ -3976,6 +3976,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optimal Conditions for a Sacrifice | 206536 | [206536-optimal-conditions-for-a-sacrifice.json](./206536-optimal-conditions-for-a-sacrifice.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
+| Option Tuning Car Battle | 203992 | [203992-option-tuning-car-battle.json](./203992-option-tuning-car-battle.json) |
+| Option Tuning Car Battle 2 | 203993 | [203993-option-tuning-car-battle-2.json](./203993-option-tuning-car-battle-2.json) |
 | Option Tuning Car Battle Spec-R | 80382 | [80382-option-tuning-car-battle-spec-r.json](./80382-option-tuning-car-battle-spec-r.json) |
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
 | Optisocubes | 183252 | [183252-optisocubes.json](./183252-optisocubes.json) |
