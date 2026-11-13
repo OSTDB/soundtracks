@@ -3819,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Sunnyvale Story - Collector’s Edition | 228227 | [228227-fear-for-sale-sunnyvale-story-collector-s-edition.json](./228227-fear-for-sale-sunnyvale-story-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear For Sale: The Curse of Whitefall - Collector's Edition | 283520 | [283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json](./283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json) |
+| Fear for Sale: The Dusk Wanderer | 187994 | [187994-fear-for-sale-the-dusk-wanderer.json](./187994-fear-for-sale-the-dusk-wanderer.json) |
 | Fear for Sale: The Dusk Wanderer - Collector's Edition | 426091 | [426091-fear-for-sale-the-dusk-wanderer-collectors-edition.json](./426091-fear-for-sale-the-dusk-wanderer-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
 | Fear for Sale: The House on Black River - Collector's Edition | 426092 | [426092-fear-for-sale-the-house-on-black-river-collectors-edition.json](./426092-fear-for-sale-the-house-on-black-river-collectors-edition.json) |
@@ -10208,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
 | Football Simulator | 204023 | [204023-football-simulator.json](./204023-football-simulator.json) |
 | Football Simulator 2024 | 285659 | [285659-football-simulator-2024.json](./285659-football-simulator-2024.json) |
+| Football Soccer Master 2022 | 188056 | [188056-football-soccer-master-2022.json](./188056-football-soccer-master-2022.json) |
 | Football Squad | 309424 | [309424-football-squad.json](./309424-football-squad.json) |
 | Football Star - Super Striker | 101644 | [101644-football-star-super-striker.json](./101644-football-star-super-striker.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
