@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farther Than the Blue Sky | 139024 | [139024-farther-than-the-blue-sky.json](./139024-farther-than-the-blue-sky.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
+| FartPart | 172231 | [172231-fartpart.json](./172231-fartpart.json) |
 | Farty Bird | 148805 | [148805-farty-bird.json](./148805-farty-bird.json) |
 | Farty Rocket | 177182 | [177182-farty-rocket.json](./177182-farty-rocket.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
