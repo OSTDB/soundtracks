@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks VR | 82401 | [82401-tanks-vr.json](./82401-tanks-vr.json) |
 | Tanks VS Demons | 118079 | [118079-tanks-vs-demons.json](./118079-tanks-vs-demons.json) |
+| Tanks vs Tanks | 188150 | [188150-tanks-vs-tanks.json](./188150-tanks-vs-tanks.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
 | Tanks With Hands: Armed and Treaded | 107787 | [107787-tanks-with-hands-armed-and-treaded.json](./107787-tanks-with-hands-armed-and-treaded.json) |
@@ -9187,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doonesbury Election Game Campaign '96 | 72014 | [72014-the-doonesbury-election-game-campaign-96.json](./72014-the-doonesbury-election-game-campaign-96.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
 | The Door | 151894 | [151894-the-door.json](./151894-the-door.json) |
+| The Door | 188138 | [188138-the-door.json](./188138-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door | 284286 | [284286-the-door.json](./284286-the-door.json) |
 | The Door | 338423 | [338423-the-door.json](./338423-the-door.json) |
@@ -15275,6 +15277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mountaineers | 244713 | [244713-the-mountaineers.json](./244713-the-mountaineers.json) |
 | The Mountains of Insanity | 271333 | [271333-the-mountains-of-insanity.json](./271333-the-mountains-of-insanity.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
+| The Mourning Star | 188542 | [188542-the-mourning-star.json](./188542-the-mourning-star.json) |
 | The Mournmore Killings | 298459 | [298459-the-mournmore-killings.json](./298459-the-mournmore-killings.json) |
 | The Mouse | 57482 | [57482-the-mouse.json](./57482-the-mouse.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
@@ -16694,6 +16697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
 | The Quest for Achievements II | 334753 | [334753-the-quest-for-achievements-ii.json](./334753-the-quest-for-achievements-ii.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
+| The Quest for Aladdin's Treasure | 188142 | [188142-the-quest-for-aladdins-treasure.json](./188142-the-quest-for-aladdins-treasure.json) |
 | The Quest for Excalibur: Puy du Fou | 199326 | [199326-the-quest-for-excalibur-puy-du-fou.json](./199326-the-quest-for-excalibur-puy-du-fou.json) |
 | The Quest For Milk 64 | 250081 | [250081-the-quest-for-milk-64.json](./250081-the-quest-for-milk-64.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
@@ -16900,6 +16904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Record of the Male Demon Witch | 392979 | [392979-the-record-of-the-male-demon-witch.json](./392979-the-record-of-the-male-demon-witch.json) |
+| The Recruit | 188624 | [188624-the-recruit.json](./188624-the-recruit.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
 | The Recursive Dollhouse | 176918 | [176918-the-recursive-dollhouse.json](./176918-the-recursive-dollhouse.json) |
 | The Red | 249030 | [249030-the-red.json](./249030-the-red.json) |
