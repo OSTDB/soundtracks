@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadet | 131117 | [131117-cadet.json](./131117-cadet.json) |
 | Cadillac | 94896 | [94896-cadillac.json](./94896-cadillac.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
+| Cadleiu | 241679 | [241679-cadleiu.json](./241679-cadleiu.json) |
 | Cadmium Red | 364694 | [364694-cadmium-red.json](./364694-cadmium-red.json) |
 | Cado | 93948 | [93948-cado.json](./93948-cado.json) |
 | Cadoom | 304824 | [304824-cadoom.json](./304824-cadoom.json) |
@@ -12474,6 +12475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coding for Carrots | 77733 | [77733-coding-for-carrots.json](./77733-coding-for-carrots.json) |
 | Coding Robo | 242299 | [242299-coding-robo.json](./242299-coding-robo.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
+| Codots | 241602 | [241602-codots.json](./241602-codots.json) |
 | CodStar | 316147 | [316147-codstar.json](./316147-codstar.json) |
 | Cody's Nightmare | 260526 | [260526-codys-nightmare.json](./260526-codys-nightmare.json) |
 | Cody's Nightmare Vacation | 310548 | [310548-codys-nightmare-vacation.json](./310548-codys-nightmare-vacation.json) |
@@ -16062,6 +16064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Flop | 63525 | [63525-corgi-flop.json](./63525-corgi-flop.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
 | Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
+| Corgi Pro Skater | 241603 | [241603-corgi-pro-skater.json](./241603-corgi-pro-skater.json) |
 | Corgi Race | 292773 | [292773-corgi-race.json](./292773-corgi-race.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
@@ -17025,6 +17028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County Hospital 2 | 211697 | [211697-county-hospital-2.json](./211697-county-hospital-2.json) |
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
+| Coup | 241601 | [241601-coup.json](./241601-coup.json) |
 | Coup de Cup | 320101 | [320101-coup-de-cup.json](./320101-coup-de-cup.json) |
 | Coup de Koala | 357030 | [357030-coup-de-koala.json](./357030-coup-de-koala.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
@@ -21696,6 +21700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Island | 189342 | [189342-cursed-island.json](./189342-cursed-island.json) |
 | Cursed Islands | 101868 | [101868-cursed-islands.json](./101868-cursed-islands.json) |
 | Cursed Isles | 72514 | [72514-cursed-isles.json](./72514-cursed-isles.json) |
+| Cursed Labyrinth | 241607 | [241607-cursed-labyrinth.json](./241607-cursed-labyrinth.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
