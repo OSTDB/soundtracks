@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable's Grimoire 2 | 347443 | [347443-sables-grimoire-2.json](./347443-sables-grimoire-2.json) |
 | Sable's Grimoire: A Dragon's Treasure | 129724 | [129724-sables-grimoire-a-dragons-treasure.json](./129724-sables-grimoire-a-dragons-treasure.json) |
 | Sable's Grimoire: Man and Elf | 129725 | [129725-sables-grimoire-man-and-elf.json](./129725-sables-grimoire-man-and-elf.json) |
+| Sabnack | 239383 | [239383-sabnack.json](./239383-sabnack.json) |
 | Saborus | 273995 | [273995-saborus.json](./273995-saborus.json) |
 | Sabotage | 176588 | [176588-sabotage.json](./176588-sabotage.json) |
 | Sabotage | 246720 | [246720-sabotage.json](./246720-sabotage.json) |
@@ -8537,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell Shockers | 111890 | [111890-shell-shockers.json](./111890-shell-shockers.json) |
 | Shell Shuffle | 139621 | [139621-shell-shuffle.json](./139621-shell-shuffle.json) |
+| Shell Song | 239384 | [239384-shell-song.json](./239384-shell-song.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen | 275413 | [275413-shells-kitchen.json](./275413-shells-kitchen.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
@@ -20355,6 +20357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur VI: Character Creation Set F | 224129 | [224129-soulcalibur-vi-character-creation-set-f.json](./224129-soulcalibur-vi-character-creation-set-f.json) |
 | SoulCalibur VI: Collector's Edition | 47071 | [47071-soulcalibur-vi-collectors-edition.json](./47071-soulcalibur-vi-collectors-edition.json) |
 | SoulCalibur VI: Deluxe Edition | 103299 | [103299-soulcalibur-vi-deluxe-edition.json](./103299-soulcalibur-vi-deluxe-edition.json) |
+| SoulCalibur VI: Deluxe Edition 2019 | 239261 | [239261-soulcalibur-vi-deluxe-edition-2019.json](./239261-soulcalibur-vi-deluxe-edition-2019.json) |
 | SoulCalibur VI: Haohmaru | 168726 | [168726-soulcalibur-vi-haohmaru.json](./168726-soulcalibur-vi-haohmaru.json) |
 | SoulCalibur VI: Hilde | 168725 | [168725-soulcalibur-vi-hilde.json](./168725-soulcalibur-vi-hilde.json) |
 | SoulCalibur VI: Hwang | 168728 | [168728-soulcalibur-vi-hwang.json](./168728-soulcalibur-vi-hwang.json) |
