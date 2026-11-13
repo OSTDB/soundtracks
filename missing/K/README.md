@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
 | King under the Mountain | 24835 | [24835-king-under-the-mountain.json](./24835-king-under-the-mountain.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
+| King War | 239393 | [239393-king-war.json](./239393-king-war.json) |
 | King War | 240734 | [240734-king-war.json](./240734-king-war.json) |
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
 | King-Dom | 105739 | [105739-king-dom.json](./105739-king-dom.json) |
