@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyreal Dawn | 224311 | [224311-empyreal-dawn.json](./224311-empyreal-dawn.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
 | Empyrean Frontier | 29576 | [29576-empyrean-frontier.json](./29576-empyrean-frontier.json) |
+| Empyrean Scout | 211874 | [211874-empyrean-scout.json](./211874-empyrean-scout.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
 | Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Maze | 274808 | [274808-endless-maze.json](./274808-endless-maze.json) |
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
+| Endless Melody: The Symphony of Angels | 211852 | [211852-endless-melody-the-symphony-of-angels.json](./211852-endless-melody-the-symphony-of-angels.json) |
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
 | Endless Midnight: Zombie Swarm | 65960 | [65960-endless-midnight-zombie-swarm.json](./65960-endless-midnight-zombie-swarm.json) |
 | Endless Mind | 327494 | [327494-endless-mind.json](./327494-endless-mind.json) |
@@ -7626,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
 | Every Day the Same Dream | 23166 | [23166-every-day-the-same-dream.json](./23166-every-day-the-same-dream.json) |
+| Every Day We Fight | 211870 | [211870-every-day-we-fight.json](./211870-every-day-we-fight.json) |
 | Every Day's Different | 126930 | [126930-every-days-different.json](./126930-every-days-different.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
@@ -7696,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone Fights | 339776 | [339776-everyone-fights.json](./339776-everyone-fights.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everyone Moves With You | 205867 | [205867-everyone-moves-with-you.json](./205867-everyone-moves-with-you.json) |
+| Everyone Must Die: A Western Standoff | 211878 | [211878-everyone-must-die-a-western-standoff.json](./211878-everyone-must-die-a-western-standoff.json) |
 | Everyone Sing | 45293 | [45293-everyone-sing.json](./45293-everyone-sing.json) |
 | Everyone Will Die | 422159 | [422159-everyone-will-die.json](./422159-everyone-will-die.json) |
 | Everyone Wins Bingo | 209216 | [209216-everyone-wins-bingo.json](./209216-everyone-wins-bingo.json) |
