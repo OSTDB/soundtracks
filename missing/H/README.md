@@ -1976,6 +1976,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hapy-y | 264509 | [264509-hapy-y.json](./264509-hapy-y.json) |
 | Haque | 75364 | [75364-haque.json](./75364-haque.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
+| Hara Katsu! 3: Kozukuri Business Haigyou no Kiki!? | 194478 | [194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json](./194478-hara-katsu-3-kozukuri-business-haigyou-no-kiki.json) |
+| Hara Katsu!: Ki ni Naru Ano Ko to Kozukuri Ecchi~ | 194477 | [194477-hara-katsu-ki-ni-naru-ano-ko-to-kozukuri-ecchi.json](./194477-hara-katsu-ki-ni-naru-ano-ko-to-kozukuri-ecchi.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
 | Harakiri | 232633 | [232633-harakiri.json](./232633-harakiri.json) |
 | Harakiri! Geisha Girls | 195377 | [195377-harakiri-geisha-girls.json](./195377-harakiri-geisha-girls.json) |
