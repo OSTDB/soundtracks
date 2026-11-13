@@ -4506,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR: Automata - Steelbook Edition | 166307 | [166307-nier-automata-steelbook-edition.json](./166307-nier-automata-steelbook-edition.json) |
 | Nier: Automata - The End of Yorha Edition | 206805 | [206805-nier-automata-the-end-of-yorha-edition.json](./206805-nier-automata-the-end-of-yorha-edition.json) |
 | NieR: The World of Recycled Vessel | 27981 | [27981-nier-the-world-of-recycled-vessel.json](./27981-nier-the-world-of-recycled-vessel.json) |
+| NieR:Cogito | 181275 | [181275-nier-cogito.json](./181275-nier-cogito.json) |
 | Nietzsche's Shadow | 346680 | [346680-nietzsches-shadow.json](./346680-nietzsches-shadow.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nif Nif | 276626 | [276626-nif-nif.json](./276626-nif-nif.json) |
