@@ -8867,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
+| Christmas Blaster | 225994 | [225994-christmas-blaster.json](./225994-christmas-blaster.json) |
 | Christmas Break | 210085 | [210085-christmas-break.json](./210085-christmas-break.json) |
 | Christmas Break | 386651 | [386651-christmas-break.json](./386651-christmas-break.json) |
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
@@ -17000,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CounterShots 1.0 | 131309 | [131309-countershots-1-0.json](./131309-countershots-1-0.json) |
 | CounterSide | 132648 | [132648-counterside.json](./132648-counterside.json) |
 | Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
+| Counterspell | 226388 | [226388-counterspell.json](./226388-counterspell.json) |
 | CounterSpy | 7612 | [7612-counterspy.json](./7612-counterspy.json) |
 | Counterweight | 412316 | [412316-counterweight.json](./412316-counterweight.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
@@ -20011,6 +20013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
 | CruiSim | 328136 | [328136-cruisim.json](./328136-cruisim.json) |
 | Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
+| Crumb Circuit Simulator | 225986 | [225986-crumb-circuit-simulator.json](./225986-crumb-circuit-simulator.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
 | Crumble Zone | 109103 | [109103-crumble-zone.json](./109103-crumble-zone.json) |
@@ -21480,6 +21483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
 | Cuplex | 291493 | [291493-cuplex.json](./291493-cuplex.json) |
 | Cuppy Coffee Sim | 359620 | [359620-cuppy-coffee-sim.json](./359620-cuppy-coffee-sim.json) |
+| Cuppy's | 225991 | [225991-cuppys.json](./225991-cuppys.json) |
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cups and Cats | 181722 | [181722-cups-and-cats.json](./181722-cups-and-cats.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
@@ -22812,6 +22816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cylu | 13540 | [13540-cylu.json](./13540-cylu.json) |
 | Cymatically Muffed | 119902 | [119902-cymatically-muffed.json](./119902-cymatically-muffed.json) |
 | Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
+| Cymut x Mutrobo | 226375 | [226375-cymut-x-mutrobo.json](./226375-cymut-x-mutrobo.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
 | Cynanchum | 128721 | [128721-cynanchum.json](./128721-cynanchum.json) |
