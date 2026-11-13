@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
 | 3D Space Harrier | 47687 | [47687-3d-space-harrier.json](./47687-3d-space-harrier.json) |
 | 3D Space Invaders | 286676 | [286676-3d-space-invaders.json](./286676-3d-space-invaders.json) |
+| 3D Space Raider | 178048 | [178048-3d-space-raider.json](./178048-3d-space-raider.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Space Station Adventure | 205951 | [205951-3d-space-station-adventure.json](./205951-3d-space-station-adventure.json) |
 | 3D Space Wars | 28475 | [28475-3d-space-wars.json](./28475-3d-space-wars.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
 | 9 Years of Shadows | 143635 | [143635-9-years-of-shadows.json](./143635-9-years-of-shadows.json) |
 | 9 Yin Sutra: Immortal | 415734 | [415734-9-yin-sutra-immortal.json](./415734-9-yin-sutra-immortal.json) |
+| 9-Ball Pocket | 178646 | [178646-9-ball-pocket.json](./178646-9-ball-pocket.json) |
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
 | 9-Bit Armies: Going Rogue! | 369442 | [369442-9-bit-armies-going-rogue.json](./369442-9-bit-armies-going-rogue.json) |
 | 9-gatsu no Yoru ni Tsume Shogi | 151874 | [151874-9-gatsu-no-yoru-ni-tsume-shogi.json](./151874-9-gatsu-no-yoru-ni-tsume-shogi.json) |
