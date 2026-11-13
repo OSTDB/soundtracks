@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line War | 144669 | [144669-line-war.json](./144669-line-war.json) |
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
 | Line-3 | 175605 | [175605-line-3.json](./175605-line-3.json) |
+| Line-Kill Spirits | 234954 | [234954-line-kill-spirits.json](./234954-line-kill-spirits.json) |
 | Line: Disney Tsum Tsum | 38886 | [38886-line-disney-tsum-tsum.json](./38886-line-disney-tsum-tsum.json) |
 | Line: Monster Farm | 246913 | [246913-line-monster-farm.json](./246913-line-monster-farm.json) |
 | Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
@@ -10421,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
 | Lum's Game | 267704 | [267704-lums-game.json](./267704-lums-game.json) |
+| Luma | 234379 | [234379-luma.json](./234379-luma.json) |
 | Luma | 323981 | [323981-luma.json](./323981-luma.json) |
 | Luma Island | 293035 | [293035-luma-island.json](./293035-luma-island.json) |
 | Luma Island: Pirates | 347822 | [347822-luma-island-pirates.json](./347822-luma-island-pirates.json) |
