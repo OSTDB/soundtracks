@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Corp. | 19211 | [19211-wanted-corp.json](./19211-wanted-corp.json) |
 | Wanted Corps | 51643 | [51643-wanted-corps.json](./51643-wanted-corps.json) |
 | Wanted Dead or Alive | 72524 | [72524-wanted-dead-or-alive.json](./72524-wanted-dead-or-alive.json) |
+| Wanted Driver | 226392 | [226392-wanted-driver.json](./226392-wanted-driver.json) |
 | Wanted Guns: Gold. Greed. Gunfire | 144468 | [144468-wanted-guns-gold-greed-gunfire.json](./144468-wanted-guns-gold-greed-gunfire.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingsuit: Romsdalen | 385959 | [385959-wingsuit-romsdalen.json](./385959-wingsuit-romsdalen.json) |
 | Winguel | 54210 | [54210-winguel.json](./54210-winguel.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
+| Wingy | 225999 | [225999-wingy.json](./225999-wingy.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Winhack 95 | 400710 | [400710-winhack-95.json](./400710-winhack-95.json) |
 | Winion Virus | 326930 | [326930-winion-virus.json](./326930-winion-virus.json) |
