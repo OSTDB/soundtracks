@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Wave | 159975 | [159975-hate-wave.json](./159975-hate-wave.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hate.net | 346496 | [346496-hate-net.json](./346496-hate-net.json) |
+| Hate's Offering | 195662 | [195662-hates-offering.json](./195662-hates-offering.json) |
 | Hateful Chris: Never Say Buy | 153616 | [153616-hateful-chris-never-say-buy.json](./153616-hateful-chris-never-say-buy.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Hatena Satena | 6431 | [6431-hatena-satena.json](./6431-hatena-satena.json) |
@@ -7629,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
 | Hidden Facade | 291290 | [291290-hidden-facade.json](./291290-hidden-facade.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
+| Hidden Farm Top-Down 3D | 195135 | [195135-hidden-farm-top-down-3d.json](./195135-hidden-farm-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Fears: Moonlight Edition | 121101 | [121101-hidden-fears-moonlight-edition.json](./121101-hidden-fears-moonlight-edition.json) |
 | Hidden Files : Echoes of JFK | 122096 | [122096-hidden-files-echoes-of-jfk.json](./122096-hidden-files-echoes-of-jfk.json) |
