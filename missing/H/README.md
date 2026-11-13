@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
 | Haunted Hedges | 14107 | [14107-haunted-hedges.json](./14107-haunted-hedges.json) |
 | Haunted Heist | 391023 | [391023-haunted-heist.json](./391023-haunted-heist.json) |
+| Haunted Hell House | 190186 | [190186-haunted-hell-house.json](./190186-haunted-hell-house.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
