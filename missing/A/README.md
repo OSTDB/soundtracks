@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agraria | 403059 | [403059-agraria.json](./403059-agraria.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
+| Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
@@ -10741,6 +10742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Champions | 87865 | [87865-angry-birds-champions.json](./87865-angry-birds-champions.json) |
 | Angry Birds Cheetos | 408769 | [408769-angry-birds-cheetos.json](./408769-angry-birds-cheetos.json) |
 | Angry Birds Cheetos 2 | 408779 | [408779-angry-birds-cheetos-2.json](./408779-angry-birds-cheetos-2.json) |
+| Angry Birds Chrome | 215950 | [215950-angry-birds-chrome.json](./215950-angry-birds-chrome.json) |
 | Angry Birds Coca-Cola | 202090 | [202090-angry-birds-coca-cola.json](./202090-angry-birds-coca-cola.json) |
 | Angry Birds Dice | 264224 | [264224-angry-birds-dice.json](./264224-angry-birds-dice.json) |
 | Angry Birds Dice Adventure | 246307 | [246307-angry-birds-dice-adventure.json](./246307-angry-birds-dice-adventure.json) |
@@ -10781,9 +10783,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Seasons | 19275 | [19275-angry-birds-seasons.json](./19275-angry-birds-seasons.json) |
 | Angry Birds Seasons HD | 102139 | [102139-angry-birds-seasons-hd.json](./102139-angry-birds-seasons-hd.json) |
 | Angry Birds Showdown | 300668 | [300668-angry-birds-showdown.json](./300668-angry-birds-showdown.json) |
+| Angry Birds Space Assault! | 215947 | [215947-angry-birds-space-assault.json](./215947-angry-birds-space-assault.json) |
 | Angry Birds Space HD | 102601 | [102601-angry-birds-space-hd.json](./102601-angry-birds-space-hd.json) |
 | Angry Birds Star Wars HD | 102600 | [102600-angry-birds-star-wars-hd.json](./102600-angry-birds-star-wars-hd.json) |
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
+| Angry Birds Starburst | 215948 | [215948-angry-birds-starburst.json](./215948-angry-birds-starburst.json) |
 | Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
 | Angry Birds Time Travel | 195453 | [195453-angry-birds-time-travel.json](./195453-angry-birds-time-travel.json) |
 | Angry Birds Transformers | 23427 | [23427-angry-birds-transformers.json](./23427-angry-birds-transformers.json) |
@@ -12442,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Anxiety.exe | 219711 | [219711-anxiety-exe.json](./219711-anxiety-exe.json) |
 | Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
+| Anxious Suffering in the Forest | 217034 | [217034-anxious-suffering-in-the-forest.json](./217034-anxious-suffering-in-the-forest.json) |
 | Anxious: Yuukyuu no Memory | 278021 | [278021-anxious-yuukyuu-no-memory.json](./278021-anxious-yuukyuu-no-memory.json) |
 | ANXRacers: Drift Space | 214711 | [214711-anxracers-drift-space.json](./214711-anxracers-drift-space.json) |
 | Any Candy | 166927 | [166927-any-candy.json](./166927-any-candy.json) |
@@ -13244,6 +13249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarian Age: Tokyo Wars | 419084 | [419084-aquarian-age-tokyo-wars.json](./419084-aquarian-age-tokyo-wars.json) |
 | Aquario | 311444 | [311444-aquario.json](./311444-aquario.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
+| Aquarist Simulator VR | 216378 | [216378-aquarist-simulator-vr.json](./216378-aquarist-simulator-vr.json) |
 | Aquarist: American Fish DLC | 372367 | [372367-aquarist-american-fish-dlc.json](./372367-aquarist-american-fish-dlc.json) |
 | Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
@@ -14569,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archons of Doom | 155865 | [155865-archons-of-doom.json](./155865-archons-of-doom.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archquest | 154056 | [154056-archquest.json](./154056-archquest.json) |
+| Archrebel: Tactics | 217033 | [217033-archrebel-tactics.json](./217033-archrebel-tactics.json) |
 | ArchRobo: Robotic Annihilation | 55283 | [55283-archrobo-robotic-annihilation.json](./55283-archrobo-robotic-annihilation.json) |
 | Archtower | 177859 | [177859-archtower.json](./177859-archtower.json) |
 | Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
@@ -15049,6 +15056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aris Arcanum | 324531 | [324531-aris-arcanum.json](./324531-aris-arcanum.json) |
 | Arise | 362992 | [362992-arise.json](./362992-arise.json) |
 | ARise | 95777 | [95777-arise.json](./95777-arise.json) |
+| Arise + What Lies in the Multiverse Bundle | 216364 | [216364-arise-what-lies-in-the-multiverse-bundle.json](./216364-arise-what-lies-in-the-multiverse-bundle.json) |
 | Arise from Shadows | 215523 | [215523-arise-from-shadows.json](./215523-arise-from-shadows.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
@@ -17144,6 +17152,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterigos: Curse of the Stars | 169994 | [169994-asterigos-curse-of-the-stars.json](./169994-asterigos-curse-of-the-stars.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterigos: Curse of the Stars - Collectors Edition | 283589 | [283589-asterigos-curse-of-the-stars-collectors-edition.json](./283589-asterigos-curse-of-the-stars-collectors-edition.json) |
+| Asterigos: Curse of the Stars - Deluxe Edition | 216377 | [216377-asterigos-curse-of-the-stars-deluxe-edition.json](./216377-asterigos-curse-of-the-stars-deluxe-edition.json) |
+| Asterigos: Curse of the Stars - Ultimate Edition | 216376 | [216376-asterigos-curse-of-the-stars-ultimate-edition.json](./216376-asterigos-curse-of-the-stars-ultimate-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterion | 110623 | [110623-asterion.json](./110623-asterion.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
