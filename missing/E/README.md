@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Egggg | 296308 | [296308-egggg.json](./296308-egggg.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
+| Egggs | 181420 | [181420-egggs.json](./181420-egggs.json) |
 | Egghead | 84348 | [84348-egghead.json](./84348-egghead.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggheads | 397001 | [397001-eggheads.json](./397001-eggheads.json) |
@@ -1798,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs 1942 | 101362 | [101362-eggs-1942.json](./101362-eggs-1942.json) |
 | Eggs 2142 | 211322 | [211322-eggs-2142.json](./211322-eggs-2142.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
+| Eggs for Bart | 181816 | [181816-eggs-for-bart.json](./181816-eggs-for-bart.json) |
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
