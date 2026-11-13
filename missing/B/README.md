@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 16126 | [16126-batsugun.json](./16126-batsugun.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
+| Batsugun: Saturn Tribute Boosted | 237684 | [237684-batsugun-saturn-tribute-boosted.json](./237684-batsugun-saturn-tribute-boosted.json) |
 | Batsugun: Special Version | 140737 | [140737-batsugun-special-version.json](./140737-batsugun-special-version.json) |
 | Batsumaru | 191511 | [191511-batsumaru.json](./191511-batsumaru.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
