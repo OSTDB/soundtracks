@@ -9963,6 +9963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
 | Menagerie II: Presentable Liberty | 223538 | [223538-menagerie-ii-presentable-liberty.json](./223538-menagerie-ii-presentable-liberty.json) |
 | Menagerie II: Presentable Liberty | 50154 | [50154-menagerie-ii-presentable-liberty.json](./50154-menagerie-ii-presentable-liberty.json) |
+| Menagerie: Archive | 169494 | [169494-menagerie-archive.json](./169494-menagerie-archive.json) |
 | Menara: Grass Land | 282732 | [282732-menara-grass-land.json](./282732-menara-grass-land.json) |
 | Menateus | 72168 | [72168-menateus.json](./72168-menateus.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
@@ -11479,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Mibo: Escape Adventure | 194156 | [194156-mibo-escape-adventure.json](./194156-mibo-escape-adventure.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
+| Mibt | 168974 | [168974-mibt.json](./168974-mibt.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mic | 273198 | [273198-mic.json](./273198-mic.json) |
 | Mica King | 414749 | [414749-mica-king.json](./414749-mica-king.json) |
