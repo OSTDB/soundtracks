@@ -2346,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Tennis Manager | 370624 | [370624-absolute-tennis-manager.json](./370624-absolute-tennis-manager.json) |
 | Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
+| Absolute Unit | 240546 | [240546-absolute-unit.json](./240546-absolute-unit.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute Zero | 153078 | [153078-absolute-zero.json](./153078-absolute-zero.json) |
