@@ -9330,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Weaver | 211526 | [211526-chrono-weaver.json](./211526-chrono-weaver.json) |
 | Chrono-Shift | 310884 | [310884-chrono-shift.json](./310884-chrono-shift.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
+| Chrono's Arena: Characters Pack | 225858 | [225858-chronos-arena-characters-pack.json](./225858-chronos-arena-characters-pack.json) |
 | Chrono&Cash | 399328 | [399328-chrono-and-cash.json](./399328-chrono-and-cash.json) |
 | ChronoBabes | 338527 | [338527-chronobabes.json](./338527-chronobabes.json) |
 | ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk | 259485 | [259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json](./259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json) |
@@ -11020,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
 | Clazer | 31035 | [31035-clazer.json](./31035-clazer.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
+| Clea: Complete Collection | 225417 | [225417-clea-complete-collection.json](./225417-clea-complete-collection.json) |
 | Clean Adventure | 185273 | [185273-clean-adventure.json](./185273-clean-adventure.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
 | Clean Art | 189792 | [189792-clean-art.json](./189792-clean-art.json) |
