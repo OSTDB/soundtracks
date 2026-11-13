@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Knight | 294514 | [294514-balloon-knight.json](./294514-balloon-knight.json) |
+| Balloon Man | 235516 | [235516-balloon-man.json](./235516-balloon-man.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
 | Balloon Monster | 228951 | [228951-balloon-monster.json](./228951-balloon-monster.json) |
 | Balloon Party | 186068 | [186068-balloon-party.json](./186068-balloon-party.json) |
@@ -17191,6 +17192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink of Consciousness: Dorian Gray Syndrome | 50313 | [50313-brink-of-consciousness-dorian-gray-syndrome.json](./50313-brink-of-consciousness-dorian-gray-syndrome.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink of Consciousness: The Lonely Hearts Murders - Collector's Edition | 85704 | [85704-brink-of-consciousness-the-lonely-hearts-murders-collectors-edition.json](./85704-brink-of-consciousness-the-lonely-hearts-murders-collectors-edition.json) |
+| Brink of Death | 235383 | [235383-brink-of-death.json](./235383-brink-of-death.json) |
 | Brink of Extinction | 75648 | [75648-brink-of-extinction.json](./75648-brink-of-extinction.json) |
 | Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
