@@ -14929,6 +14929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjugo | 130474 | [130474-conjugo.json](./130474-conjugo.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
+| Conjuntalia: MecaEnglish | 172213 | [172213-conjuntalia-mecaenglish.json](./172213-conjuntalia-mecaenglish.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
 | Conjure Craft | 119928 | [119928-conjure-craft.json](./119928-conjure-craft.json) |
@@ -17172,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Dance Kinect | 41591 | [41591-country-dance-kinect.json](./41591-country-dance-kinect.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Desert Simulator | 114084 | [114084-country-desert-simulator.json](./114084-country-desert-simulator.json) |
+| Country Desert Simulator: Addon SUV | 172205 | [172205-country-desert-simulator-addon-suv.json](./172205-country-desert-simulator-addon-suv.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
 | Country Hero | 346561 | [346561-country-hero.json](./346561-country-hero.json) |
@@ -22243,6 +22245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Kitty | 251127 | [251127-cute-kitty.json](./251127-cute-kitty.json) |
 | Cute Knight | 72589 | [72589-cute-knight.json](./72589-cute-knight.json) |
 | Cute Knight Kingdom | 60944 | [60944-cute-knight-kingdom.json](./60944-cute-knight-kingdom.json) |
+| Cute Lady | 172228 | [172228-cute-lady.json](./172228-cute-lady.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
 | Cute Monsters Battle Arena | 55655 | [55655-cute-monsters-battle-arena.json](./55655-cute-monsters-battle-arena.json) |
 | Cute Munchies | 56857 | [56857-cute-munchies.json](./56857-cute-munchies.json) |
@@ -22488,6 +22491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Manhunt 2: New World | 276679 | [276679-cyber-manhunt-2-new-world.json](./276679-cyber-manhunt-2-new-world.json) |
 | Cyber Manhunt: A Company Man of Titan | 211901 | [211901-cyber-manhunt-a-company-man-of-titan.json](./211901-cyber-manhunt-a-company-man-of-titan.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
+| Cyber Manhunt: Home Sweet Home | 172220 | [172220-cyber-manhunt-home-sweet-home.json](./172220-cyber-manhunt-home-sweet-home.json) |
 | Cyber Mice Party | 273692 | [273692-cyber-mice-party.json](./273692-cyber-mice-party.json) |
 | Cyber Miner | 412616 | [412616-cyber-miner.json](./412616-cyber-miner.json) |
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
