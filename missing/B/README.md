@@ -4065,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For The Crystals | 289138 | [289138-battle-for-the-crystals.json](./289138-battle-for-the-crystals.json) |
 | Battle for the Droid Station | 193093 | [193093-battle-for-the-droid-station.json](./193093-battle-for-the-droid-station.json) |
 | Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
+| Battle for the Galaxy: Ice Bastion Pack | 225853 | [225853-battle-for-the-galaxy-ice-bastion-pack.json](./225853-battle-for-the-galaxy-ice-bastion-pack.json) |
 | Battle for the Golden Skull | 421758 | [421758-battle-for-the-golden-skull.json](./421758-battle-for-the-golden-skull.json) |
 | Battle For The Hill | 294123 | [294123-battle-for-the-hill.json](./294123-battle-for-the-hill.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
@@ -4232,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Elemental Reboost | 97305 | [97305-battle-of-elemental-reboost.json](./97305-battle-of-elemental-reboost.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
 | Battle of Empire | 213670 | [213670-battle-of-empire.json](./213670-battle-of-empire.json) |
+| Battle of Empires : 1914-1918 - Victory Pack | 225854 | [225854-battle-of-empires-1914-1918-victory-pack.json](./225854-battle-of-empires-1914-1918-victory-pack.json) |
 | Battle of Empires: 1914-1918 | 9892 | [9892-battle-of-empires-1914-1918.json](./9892-battle-of-empires-1914-1918.json) |
 | Battle of Empires: 1914-1918 - Battle of Cambrai | 168302 | [168302-battle-of-empires-1914-1918-battle-of-cambrai.json](./168302-battle-of-empires-1914-1918-battle-of-cambrai.json) |
 | Battle of Empires: 1914-1918 - Blazing Guns | 155390 | [155390-battle-of-empires-1914-1918-blazing-guns.json](./155390-battle-of-empires-1914-1918-blazing-guns.json) |
@@ -4788,6 +4790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite | 23193 | [23193-battlerite.json](./23193-battlerite.json) |
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
+| Battlerite Royale: Legendary Adventure Pack | 225855 | [225855-battlerite-royale-legendary-adventure-pack.json](./225855-battlerite-royale-legendary-adventure-pack.json) |
+| Battlerite Royale: Legendary Adventure Pack Vol.2 | 225856 | [225856-battlerite-royale-legendary-adventure-pack-vol-2.json](./225856-battlerite-royale-legendary-adventure-pack-vol-2.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | BattleRush | 75941 | [75941-battlerush.json](./75941-battlerush.json) |
 | BattleRush 2 | 107878 | [107878-battlerush-2.json](./107878-battlerush-2.json) |
@@ -4894,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Anabasis | 110891 | [110891-battlestar-galactica-deadlock-anabasis.json](./110891-battlestar-galactica-deadlock-anabasis.json) |
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
 | Battlestar Galactica Deadlock: Ghost Fleet Offensive | 129481 | [129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json](./129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json) |
+| Battlestar Galactica Deadlock: Modern Ships Pack | 225857 | [225857-battlestar-galactica-deadlock-modern-ships-pack.json](./225857-battlestar-galactica-deadlock-modern-ships-pack.json) |
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Resurrection | 124949 | [124949-battlestar-galactica-deadlock-resurrection.json](./124949-battlestar-galactica-deadlock-resurrection.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
@@ -8892,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Value Pack | 136741 | [136741-biohazard-value-pack.json](./136741-biohazard-value-pack.json) |
 | Biohazard Village: Cloud Z Version | 251751 | [251751-biohazard-village-cloud-z-version.json](./251751-biohazard-village-cloud-z-version.json) |
 | Biohazard Village: Z Version | 218544 | [218544-biohazard-village-z-version.json](./218544-biohazard-village-z-version.json) |
+| Biohazard Village: Z Version - Gold Edition | 225406 | [225406-biohazard-village-z-version-gold-edition.json](./225406-biohazard-village-z-version-gold-edition.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard ZombieBuster | 356247 | [356247-biohazard-zombiebuster.json](./356247-biohazard-zombiebuster.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
