@@ -6867,6 +6867,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
 | Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
 | Pieces to Find | 363130 | [363130-pieces-to-find.json](./363130-pieces-to-find.json) |
+| Pieces: Wataridori no Somnium | 194527 | [194527-pieces-wataridori-no-somnium.json](./194527-pieces-wataridori-no-somnium.json) |
+| Pieces: Yurikago no Canaria | 194528 | [194528-pieces-yurikago-no-canaria.json](./194528-pieces-yurikago-no-canaria.json) |
 | PieceWars | 205735 | [205735-piecewars.json](./205735-piecewars.json) |
 | Piecewise!: A Daily Puzzle Game! | 404593 | [404593-piecewise-a-daily-puzzle-game.json](./404593-piecewise-a-daily-puzzle-game.json) |
 | Piecework: The Jigsaw Museum | 421788 | [421788-piecework-the-jigsaw-museum.json](./421788-piecework-the-jigsaw-museum.json) |
