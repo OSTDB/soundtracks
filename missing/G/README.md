@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit Gun | 223294 | [223294-gambit-gun.json](./223294-gambit-gun.json) |
 | Gambit Heart | 100724 | [100724-gambit-heart.json](./100724-gambit-heart.json) |
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
+| Gambit Shifter | 244462 | [244462-gambit-shifter.json](./244462-gambit-shifter.json) |
 | Gambit Shifter: Surrealm | 322718 | [322718-gambit-shifter-surrealm.json](./322718-gambit-shifter-surrealm.json) |
 | Gambit! | 193173 | [193173-gambit.json](./193173-gambit.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
 | GemCraft: Frostborn Wrath | 119980 | [119980-gemcraft-frostborn-wrath.json](./119980-gemcraft-frostborn-wrath.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
+| Gemcrusty | 244520 | [244520-gemcrusty.json](./244520-gemcrusty.json) |
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
 | Gemdow Quest | 293958 | [293958-gemdow-quest.json](./293958-gemdow-quest.json) |
 | Gemerald | 327250 | [327250-gemerald.json](./327250-gemerald.json) |
@@ -9632,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Farm 3 | 380674 | [380674-green-farm-3.json](./380674-green-farm-3.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Fingers | 175058 | [175058-green-fingers.json](./175058-green-fingers.json) |
+| Green Five | 244989 | [244989-green-five.json](./244989-green-five.json) |
 | Green Game: TimeSwapper | 33753 | [33753-green-game-timeswapper.json](./33753-green-game-timeswapper.json) |
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
 | Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
