@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perdition's Gate Resurgence | 329215 | [329215-perditions-gate-resurgence.json](./329215-perditions-gate-resurgence.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
+| Peregrine | 217421 | [217421-peregrine.json](./217421-peregrine.json) |
 | Peregrino | 359890 | [359890-peregrino.json](./359890-peregrino.json) |
 | Perennial | 377330 | [377330-perennial.json](./377330-perennial.json) |
 | Perennial | 58569 | [58569-perennial.json](./58569-perennial.json) |
@@ -5657,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
 | Phantasist | 338096 | [338096-phantasist.json](./338096-phantasist.json) |
 | Phantasm | 12924 | [12924-phantasm.json](./12924-phantasm.json) |
+| Phantasm | 217439 | [217439-phantasm.json](./217439-phantasm.json) |
 | Phantasm | 296706 | [296706-phantasm.json](./296706-phantasm.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasm | 325141 | [325141-phantasm.json](./325141-phantasm.json) |
@@ -9911,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Automata | 121941 | [121941-planet-automata.json](./121941-planet-automata.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
+| Planet Barren Objective | 217422 | [217422-planet-barren-objective.json](./217422-planet-barren-objective.json) |
 | Planet Bash | 55722 | [55722-planet-bash.json](./55722-planet-bash.json) |
 | Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
@@ -10805,6 +10808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plazma Burst 2 | 112404 | [112404-plazma-burst-2.json](./112404-plazma-burst-2.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
 | Plazma Line | 67546 | [67546-plazma-line.json](./67546-plazma-line.json) |
+| Plead with the Elder Gods | 217045 | [217045-plead-with-the-elder-gods.json](./217045-plead-with-the-elder-gods.json) |
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Pleasant Vibes from the Party Garage | 260497 | [260497-pleasant-vibes-from-the-party-garage.json](./260497-pleasant-vibes-from-the-party-garage.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
@@ -11650,6 +11654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poke-Man | 25149 | [25149-poke-man.json](./25149-poke-man.json) |
 | Poke646 | 140318 | [140318-poke646.json](./140318-poke646.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
+| Poke646: Vendetta | 217567 | [217567-poke646-vendetta.json](./217567-poke646-vendetta.json) |
 | Pokechill | 390153 | [390153-pokechill.json](./390153-pokechill.json) |
 | PokéClicker | 191508 | [191508-pokeclicker.json](./191508-pokeclicker.json) |
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
@@ -12953,6 +12958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Force | 125763 | [125763-police-force.json](./125763-police-force.json) |
 | Police Force 2 | 10710 | [10710-police-force-2.json](./10710-police-force-2.json) |
 | Police Force: Law and Honor | 285611 | [285611-police-force-law-and-honor.json](./285611-police-force-law-and-honor.json) |
+| Police Getaway | 217051 | [217051-police-getaway.json](./217051-police-getaway.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
