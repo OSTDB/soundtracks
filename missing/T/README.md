@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Soldier: Undead Rising | 175589 | [175589-tactical-soldier-undead-rising.json](./175589-tactical-soldier-undead-rising.json) |
 | Tactical Strike | 318676 | [318676-tactical-strike.json](./318676-tactical-strike.json) |
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
+| Tactical Three Kingdoms: Strategy & War | 171136 | [171136-tactical-three-kingdoms-strategy-and-war.json](./171136-tactical-three-kingdoms-strategy-and-war.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Vengeance: Play The Games | 252443 | [252443-tactical-vengeance-play-the-games.json](./252443-tactical-vengeance-play-the-games.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Rush | 237256 | [237256-tank-rush.json](./237256-tank-rush.json) |
+| Tank Shoot 2D: Battle to save City Flag | 171129 | [171129-tank-shoot-2d-battle-to-save-city-flag.json](./171129-tank-shoot-2d-battle-to-save-city-flag.json) |
 | Tank Side Story | 156075 | [156075-tank-side-story.json](./156075-tank-side-story.json) |
 | Tank Slam | 95156 | [95156-tank-slam.json](./95156-tank-slam.json) |
 | Tank Society | 334553 | [334553-tank-society.json](./334553-tank-society.json) |
@@ -11292,6 +11294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great Waldo Search | 48158 | [48158-the-great-waldo-search.json](./48158-the-great-waldo-search.json) |
 | The Great Wall | 262134 | [262134-the-great-wall.json](./262134-the-great-wall.json) |
+| The Great War 1918 | 171655 | [171655-the-great-war-1918.json](./171655-the-great-war-1918.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
 | The Great War of Jorth | 187643 | [187643-the-great-war-of-jorth.json](./187643-the-great-war-of-jorth.json) |
 | The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
@@ -14554,6 +14557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Lands: Dinosaur Hunter | 208006 | [208006-the-lost-lands-dinosaur-hunter.json](./208006-the-lost-lands-dinosaur-hunter.json) |
 | The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
+| The Lost Legends of Redwall: The Scout - Act 2 | 171665 | [171665-the-lost-legends-of-redwall-the-scout-act-2.json](./171665-the-lost-legends-of-redwall-the-scout-act-2.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Legends of Redwall: The Scout - Encore Edition | 237033 | [237033-the-lost-legends-of-redwall-the-scout-encore-edition.json](./237033-the-lost-legends-of-redwall-the-scout-encore-edition.json) |
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
@@ -29025,6 +29029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
+| Touhou Jitsuzaisou: Dream Logical World | 171643 | [171643-touhou-jitsuzaisou-dream-logical-world.json](./171643-touhou-jitsuzaisou-dream-logical-world.json) |
 | Touhou JRPG | 213172 | [213172-touhou-jrpg.json](./213172-touhou-jrpg.json) |
 | Touhou Juuouen: Unfinished Dream of All Living Ghost. | 246194 | [246194-touhou-juuouen-unfinished-dream-of-all-living-ghost.json](./246194-touhou-juuouen-unfinished-dream-of-all-living-ghost.json) |
 | Touhou Kaeizuka: Phantasmagoria of Flower View | 27156 | [27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json](./27156-touhou-kaeizuka-phantasmagoria-of-flower-view.json) |
@@ -30194,6 +30199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traces of the Unknown | 286354 | [286354-traces-of-the-unknown.json](./286354-traces-of-the-unknown.json) |
 | Traceur's Dreamlab VR | 148820 | [148820-traceurs-dreamlab-vr.json](./148820-traceurs-dreamlab-vr.json) |
 | Trachi: Authority | 223290 | [223290-trachi-authority.json](./223290-trachi-authority.json) |
+| Trachi: Autonomy | 171663 | [171663-trachi-autonomy.json](./171663-trachi-autonomy.json) |
 | Trachi: Autonomy - InvAsion | 207488 | [207488-trachi-autonomy-invasion.json](./207488-trachi-autonomy-invasion.json) |
 | Tracing | 346209 | [346209-tracing.json](./346209-tracing.json) |
 | Tracing Decay | 211143 | [211143-tracing-decay.json](./211143-tracing-decay.json) |
