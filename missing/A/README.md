@@ -7658,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Planet Survival | 241779 | [241779-alien-planet-survival.json](./241779-alien-planet-survival.json) |
 | Alien Planet X64-2 | 270703 | [270703-alien-planet-x64-2.json](./270703-alien-planet-x64-2.json) |
 | Alien Poker | 270621 | [270621-alien-poker.json](./270621-alien-poker.json) |
+| Alien Prison Escape | 234796 | [234796-alien-prison-escape.json](./234796-alien-prison-escape.json) |
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
 | Alien Protection | 251926 | [251926-alien-protection.json](./251926-alien-protection.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
