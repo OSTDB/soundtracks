@@ -2487,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
+| Element Crush | 182966 | [182966-element-crush.json](./182966-element-crush.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Fighters | 277776 | [277776-element-fighters.json](./277776-element-fighters.json) |
 | Element Fission | 336210 | [336210-element-fission.json](./336210-element-fission.json) |
@@ -4611,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlisted: Reinforced - Deluxe Pack | 295120 | [295120-enlisted-reinforced-deluxe-pack.json](./295120-enlisted-reinforced-deluxe-pack.json) |
 | Enlisted: Sherman IC "Firefly" Squad | 293770 | [293770-enlisted-sherman-ic-firefly-squad.json](./293770-enlisted-sherman-ic-firefly-squad.json) |
 | Enlisted: Type Hei LMG Squad | 332008 | [332008-enlisted-type-hei-lmg-squad.json](./332008-enlisted-type-hei-lmg-squad.json) |
+| Enliven | 182959 | [182959-enliven.json](./182959-enliven.json) |
 | Enloyea: Chapter of the Origin of Alchemy | 128274 | [128274-enloyea-chapter-of-the-origin-of-alchemy.json](./128274-enloyea-chapter-of-the-origin-of-alchemy.json) |
 | Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
 | Enmazened | 271082 | [271082-enmazened.json](./271082-enmazened.json) |
@@ -6034,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Reality | 183208 | [183208-escape-reality.json](./183208-escape-reality.json) |
 | Escape Rebooted | 128902 | [128902-escape-rebooted.json](./128902-escape-rebooted.json) |
 | Escape Road 2 | 327733 | [327733-escape-road-2.json](./327733-escape-road-2.json) |
+| Escape Room | 182583 | [182583-escape-room.json](./182583-escape-room.json) |
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Academy | 197502 | [197502-escape-room-academy.json](./197502-escape-room-academy.json) |
