@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
 | Salvagette | 174475 | [174475-salvagette.json](./174475-salvagette.json) |
+| Salvando la Isla Perdida | 223195 | [223195-salvando-la-isla-perdida.json](./223195-salvando-la-isla-perdida.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
@@ -8135,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
+| Sharded World | 223192 | [223192-sharded-world.json](./223192-sharded-world.json) |
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardfall: FitQuest VR | 296226 | [296226-shardfall-fitquest-vr.json](./296226-shardfall-fitquest-vr.json) |
 | Shardhunters | 128282 | [128282-shardhunters.json](./128282-shardhunters.json) |
@@ -8445,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was Swallowed By The Sun | 358590 | [358590-she-was-swallowed-by-the-sun.json](./358590-she-was-swallowed-by-the-sun.json) |
 | She Who Fights Monsters | 60343 | [60343-she-who-fights-monsters.json](./60343-she-who-fights-monsters.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
+| She Who Rises | 223181 | [223181-she-who-rises.json](./223181-she-who-rises.json) |
 | She Will Punish Them | 133557 | [133557-she-will-punish-them.json](./133557-she-will-punish-them.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
@@ -10236,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
 | Shotest Shogi | 21803 | [21803-shotest-shogi.json](./21803-shotest-shogi.json) |
+| ShotFightDisaster | 223193 | [223193-shotfightdisaster.json](./223193-shotfightdisaster.json) |
 | ShotForge | 31440 | [31440-shotforge.json](./31440-shotforge.json) |
 | Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
 | Shotgun | 134866 | [134866-shotgun.json](./134866-shotgun.json) |
@@ -18660,6 +18664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & All-Stars Racing Transformed: Metal Sonic & Outrun DLC | 119189 | [119189-sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-dlc.json](./119189-sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Yogscast DLC | 361488 | [361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json](./361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json) |
+| Sonic & Ashuro | 222578 | [222578-sonic-and-ashuro.json](./222578-sonic-and-ashuro.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Friends | 324960 | [324960-sonic-and-friends.json](./324960-sonic-and-friends.json) |
@@ -19093,6 +19098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic in Resort Planet | 334735 | [334735-sonic-in-resort-planet.json](./334735-sonic-in-resort-planet.json) |
 | Sonic in Super Mario Bros. | 198468 | [198468-sonic-in-super-mario-bros.json](./198468-sonic-in-super-mario-bros.json) |
 | Sonic In The Timeline Of Madness | 266512 | [266512-sonic-in-the-timeline-of-madness.json](./266512-sonic-in-the-timeline-of-madness.json) |
+| Sonic in Troll Island | 222579 | [222579-sonic-in-troll-island.json](./222579-sonic-in-troll-island.json) |
 | Sonic In VaporWave Island | 237293 | [237293-sonic-in-vaporwave-island.json](./237293-sonic-in-vaporwave-island.json) |
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
 | Sonic Inferno | 332457 | [332457-sonic-inferno.json](./332457-sonic-inferno.json) |
@@ -19585,6 +19591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Tricky | 331078 | [331078-sonic-tricky.json](./331078-sonic-tricky.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Triple Trouble 16-Bit | 136814 | [136814-sonic-triple-trouble-16-bit.json](./136814-sonic-triple-trouble-16-bit.json) |
+| Sonic Triple Trouble SMS | 222583 | [222583-sonic-triple-trouble-sms.json](./222583-sonic-triple-trouble-sms.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
 | Sonic Ultimate Battle | 332143 | [332143-sonic-ultimate-battle.json](./332143-sonic-ultimate-battle.json) |
@@ -20956,6 +20963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bear | 128946 | [128946-space-bear.json](./128946-space-bear.json) |
 | Space Beast Terror Fright | 35528 | [35528-space-beast-terror-fright.json](./35528-space-beast-terror-fright.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
+| Space Bee | 223115 | [223115-space-bee.json](./223115-space-bee.json) |
 | Space Bees | 201423 | [201423-space-bees.json](./201423-space-bees.json) |
 | Space Bejewel | 103114 | [103114-space-bejewel.json](./103114-space-bejewel.json) |
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
@@ -23934,6 +23942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spintales | 204136 | [204136-spintales.json](./204136-spintales.json) |
 | Spintensity | 86155 | [86155-spintensity.json](./86155-spintensity.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
+| Spintires: Chernobyl | 223122 | [223122-spintires-chernobyl.json](./223122-spintires-chernobyl.json) |
 | Spintires: MudRunner - American Wilds | 111316 | [111316-spintires-mudrunner-american-wilds.json](./111316-spintires-mudrunner-american-wilds.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
@@ -29877,6 +29886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons Mobile | 116666 | [116666-story-of-seasons-mobile.json](./116666-story-of-seasons-mobile.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
+| Story of Seasons: A Wonderful Life - Limited Edition | 223111 | [223111-story-of-seasons-a-wonderful-life-limited-edition.json](./223111-story-of-seasons-a-wonderful-life-limited-edition.json) |
 | Story of Seasons: A Wonderful Life - Mukumuku Outfit | 275526 | [275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json](./275526-story-of-seasons-a-wonderful-life-mukumuku-outfit.json) |
 | Story of Seasons: A Wonderful Life - Premium Edition | 270588 | [270588-story-of-seasons-a-wonderful-life-premium-edition.json](./270588-story-of-seasons-a-wonderful-life-premium-edition.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
@@ -32525,6 +32535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Challenge: World Class Competition | 73945 | [73945-summer-challenge-world-class-competition.json](./73945-summer-challenge-world-class-competition.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Color Boi | 128805 | [128805-summer-color-boi.json](./128805-summer-color-boi.json) |
+| Summer Crush | 223200 | [223200-summer-crush.json](./223200-summer-crush.json) |
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
 | Summer Days | 178140 | [178140-summer-days.json](./178140-summer-days.json) |
 | Summer Daze at Hero-U | 123754 | [123754-summer-daze-at-hero-u.json](./123754-summer-daze-at-hero-u.json) |
