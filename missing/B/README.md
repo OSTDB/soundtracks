@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Fortress in the Sky | 47933 | [47933-b-17-fortress-in-the-sky.json](./47933-b-17-fortress-in-the-sky.json) |
 | B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
+| B-1ll1 | 191141 | [191141-b-1ll1.json](./191141-b-1ll1.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
 | B-25 Game | 114529 | [114529-b-25-game.json](./114529-b-25-game.json) |
 | B-Air Micro | 315357 | [315357-b-air-micro.json](./315357-b-air-micro.json) |
@@ -17233,6 +17234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | BrightGunner | 343585 | [343585-brightgunner.json](./343585-brightgunner.json) |
 | Brightis | 128192 | [128192-brightis.json](./128192-brightis.json) |
+| Brightness | 191148 | [191148-brightness.json](./191148-brightness.json) |
 | BrightSeeker | 159459 | [159459-brightseeker.json](./159459-brightseeker.json) |
 | Brightside | 404695 | [404695-brightside.json](./404695-brightside.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
@@ -18431,6 +18433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
+| Buffet Knight | 190769 | [190769-buffet-knight.json](./190769-buffet-knight.json) |
 | Buffet Knight: Decadent Full Course | 333498 | [333498-buffet-knight-decadent-full-course.json](./333498-buffet-knight-decadent-full-course.json) |
 | Buffy Stole Your Sandwich | 72502 | [72502-buffy-stole-your-sandwich.json](./72502-buffy-stole-your-sandwich.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
