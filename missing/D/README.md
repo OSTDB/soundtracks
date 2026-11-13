@@ -6101,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon: Xenos | 231174 | [231174-defcon-xenos.json](./231174-defcon-xenos.json) |
 | Defe the Defender | 344972 | [344972-defe-the-defender.json](./344972-defe-the-defender.json) |
 | Defeat Akali | 138079 | [138079-defeat-akali.json](./138079-defeat-akali.json) |
+| Defeat Everyone | 226379 | [226379-defeat-everyone.json](./226379-defeat-everyone.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
 | Defeat the Goblin King | 366366 | [366366-defeat-the-goblin-king.json](./366366-defeat-the-goblin-king.json) |
@@ -6784,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
 | Delusion | 185828 | [185828-delusion.json](./185828-delusion.json) |
+| Delusion | 226383 | [226383-delusion.json](./226383-delusion.json) |
 | Delusion | 302735 | [302735-delusion.json](./302735-delusion.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
 | Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
@@ -6956,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
 | Demolition Plant | 270710 | [270710-demolition-plant.json](./270710-demolition-plant.json) |
+| Demolition Pro Online | 225992 | [225992-demolition-pro-online.json](./225992-demolition-pro-online.json) |
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
 | Demolition Racer | 43940 | [43940-demolition-racer.json](./43940-demolition-racer.json) |
 | Demolition Racer: No Exit | 46376 | [46376-demolition-racer-no-exit.json](./46376-demolition-racer-no-exit.json) |
@@ -12649,6 +12652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball rising | 75593 | [75593-dodgeball-rising.json](./75593-dodgeball-rising.json) |
 | Dodgeball Simulator VR | 113605 | [113605-dodgeball-simulator-vr.json](./113605-dodgeball-simulator-vr.json) |
 | DodgeBall VR | 172373 | [172373-dodgeball-vr.json](./172373-dodgeball-vr.json) |
+| DodgeBall World | 226384 | [226384-dodgeball-world.json](./226384-dodgeball-world.json) |
 | DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
 | DodgeBlock | 172420 | [172420-dodgeblock.json](./172420-dodgeblock.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
@@ -15822,6 +15826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragoDino: A Dragon Adventure | 30363 | [30363-dragodino-a-dragon-adventure.json](./30363-dragodino-a-dragon-adventure.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
 | Dragon | 246325 | [246325-dragon.json](./246325-dragon.json) |
+| Dragon & Archer | 226395 | [226395-dragon-and-archer.json](./226395-dragon-and-archer.json) |
 | Dragon & Colonies | 55950 | [55950-dragon-and-colonies.json](./55950-dragon-and-colonies.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
