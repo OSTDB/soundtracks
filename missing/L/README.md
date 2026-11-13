@@ -8922,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Pandation | 177215 | [177215-lost-in-pandation.json](./177215-lost-in-pandation.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
+| Lost in Paradise: Waifu Connect | 174915 | [174915-lost-in-paradise-waifu-connect.json](./174915-lost-in-paradise-waifu-connect.json) |
 | Lost In Parallels | 216631 | [216631-lost-in-parallels.json](./216631-lost-in-parallels.json) |
 | Lost in Place | 192495 | [192495-lost-in-place.json](./192495-lost-in-place.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
