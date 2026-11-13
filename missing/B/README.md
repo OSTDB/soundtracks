@@ -4940,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleStrike Gun | 219845 | [219845-battlestrike-gun.json](./219845-battlestrike-gun.json) |
 | Battlestrike: Force of Resistance | 8345 | [8345-battlestrike-force-of-resistance.json](./8345-battlestrike-force-of-resistance.json) |
 | Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
+| Battlestrike: The Road to Berlin | 204593 | [204593-battlestrike-the-road-to-berlin.json](./204593-battlestrike-the-road-to-berlin.json) |
 | Battlestrike: Western and Eastern Front | 205909 | [205909-battlestrike-western-and-eastern-front.json](./205909-battlestrike-western-and-eastern-front.json) |
 | BattleSwarm: Field of Honor | 67707 | [67707-battleswarm-field-of-honor.json](./67707-battleswarm-field-of-honor.json) |
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
@@ -15235,6 +15236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounties of Babylon | 278433 | [278433-bounties-of-babylon.json](./278433-bounties-of-babylon.json) |
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
 | Bountiful Life | 149503 | [149503-bountiful-life.json](./149503-bountiful-life.json) |
+| Bounty | 204599 | [204599-bounty.json](./204599-bounty.json) |
 | Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
 | Bounty Arms | 304959 | [304959-bounty-arms.json](./304959-bounty-arms.json) |
 | Bounty Arms | 51322 | [51322-bounty-arms.json](./51322-bounty-arms.json) |
