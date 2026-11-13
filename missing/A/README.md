@@ -4787,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
 | Africa Hunting | 76293 | [76293-africa-hunting.json](./76293-africa-hunting.json) |
 | Africa Wild | 90443 | [90443-africa-wild.json](./90443-africa-wild.json) |
+| Africa's Legends | 204612 | [204612-africas-legends.json](./204612-africas-legends.json) |
 | African Adventure | 80804 | [80804-african-adventure.json](./80804-african-adventure.json) |
 | African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
 | African Raiders-01 | 11889 | [11889-african-raiders-01.json](./11889-african-raiders-01.json) |
@@ -10760,6 +10761,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Boom! | 386241 | [386241-angry-birds-boom.json](./386241-angry-birds-boom.json) |
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
+| Angry Birds Breakfast 1 | 204595 | [204595-angry-birds-breakfast-1.json](./204595-angry-birds-breakfast-1.json) |
+| Angry Birds Breakfast 2 | 204594 | [204594-angry-birds-breakfast-2.json](./204594-angry-birds-breakfast-2.json) |
+| Angry Birds Breakfast 3 | 204596 | [204596-angry-birds-breakfast-3.json](./204596-angry-birds-breakfast-3.json) |
 | Angry Birds Champions | 87865 | [87865-angry-birds-champions.json](./87865-angry-birds-champions.json) |
 | Angry Birds Cheetos | 408769 | [408769-angry-birds-cheetos.json](./408769-angry-birds-cheetos.json) |
 | Angry Birds Cheetos 2 | 408779 | [408779-angry-birds-cheetos-2.json](./408779-angry-birds-cheetos-2.json) |
@@ -12890,7 +12894,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
 | Apococlicks | 392754 | [392754-apococlicks.json](./392754-apococlicks.json) |
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
+| Apocripha/0 | 204567 | [204567-apocripha-0.json](./204567-apocripha-0.json) |
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
+| Apocripha/0 Fanbox Happiness Cage | 204565 | [204565-apocripha-0-fanbox-happiness-cage.json](./204565-apocripha-0-fanbox-happiness-cage.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
 | Apocryph | 54814 | [54814-apocryph.json](./54814-apocryph.json) |
 | Apocryph: an old-school shooter | 117926 | [117926-apocryph-an-old-school-shooter.json](./117926-apocryph-an-old-school-shooter.json) |
