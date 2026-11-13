@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Roads | 399960 | [399960-fake-roads.json](./399960-fake-roads.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
+| Fake: Geinoujin wa Zen'in Usotsuki? | 240530 | [240530-fake-geinoujin-wa-zenin-usotsuki.json](./240530-fake-geinoujin-wa-zenin-usotsuki.json) |
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
 | Fakebook | 359701 | [359701-fakebook.json](./359701-fakebook.json) |
 | Fakemon FireRed | 324145 | [324145-fakemon-firered.json](./324145-fakemon-firered.json) |
@@ -4648,12 +4649,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
 | FIFA 14: Legacy Edition | 240420 | [240420-fifa-14-legacy-edition.json](./240420-fifa-14-legacy-edition.json) |
 | FIFA 14: Legacy Edition | 44009 | [44009-fifa-14-legacy-edition.json](./44009-fifa-14-legacy-edition.json) |
+| FIFA 15 | 240424 | [240424-fifa-15.json](./240424-fifa-15.json) |
+| FIFA 15 | 240425 | [240425-fifa-15.json](./240425-fifa-15.json) |
 | FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
+| FIFA 15: Legacy Edition | 240423 | [240423-fifa-15-legacy-edition.json](./240423-fifa-15-legacy-edition.json) |
 | FIFA 15: Legacy Edition | 99945 | [99945-fifa-15-legacy-edition.json](./99945-fifa-15-legacy-edition.json) |
 | FIFA 15: Ultimate Edition | 167025 | [167025-fifa-15-ultimate-edition.json](./167025-fifa-15-ultimate-edition.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
+| FIFA 16 | 240448 | [240448-fifa-16.json](./240448-fifa-16.json) |
+| FIFA 16 | 240449 | [240449-fifa-16.json](./240449-fifa-16.json) |
 | FIFA 16: Deluxe Edition | 82446 | [82446-fifa-16-deluxe-edition.json](./82446-fifa-16-deluxe-edition.json) |
 | FIFA 17 | 240450 | [240450-fifa-17.json](./240450-fifa-17.json) |
 | FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
