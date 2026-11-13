@@ -5805,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Majou no Bouken | 39457 | [39457-ninja-kun-majou-no-bouken.json](./39457-ninja-kun-majou-no-bouken.json) |
 | Ninja-kun: Majou no Bouken | 7561 | [7561-ninja-kun-majou-no-bouken.json](./7561-ninja-kun-majou-no-bouken.json) |
+| Ninja: Rise of a Hero | 173326 | [173326-ninja-rise-of-a-hero.json](./173326-ninja-rise-of-a-hero.json) |
 | Ninja: Shadow of Darkness | 18941 | [18941-ninja-shadow-of-darkness.json](./18941-ninja-shadow-of-darkness.json) |
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
