@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
 | Candlebook Island | 266059 | [266059-candlebook-island.json](./266059-candlebook-island.json) |
+| Candlehead | 220773 | [220773-candlehead.json](./220773-candlehead.json) |
 | Candleholder | 330057 | [330057-candleholder.json](./330057-candleholder.json) |
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Carlos Bara | 226546 | [226546-captain-tsubasa-rise-of-new-champions-carlos-bara.json](./226546-captain-tsubasa-rise-of-new-champions-carlos-bara.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Edition | 136032 | [136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json](./136032-captain-tsubasa-rise-of-new-champions-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
+| Captain Tsubasa: Rise of New Champions - Digital Deluxe Edition | 220894 | [220894-captain-tsubasa-rise-of-new-champions-digital-deluxe-edition.json](./220894-captain-tsubasa-rise-of-new-champions-digital-deluxe-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Digital Ultimate Edition | 267226 | [267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json](./267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Jun Misugi | 226547 | [226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json](./226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json) |
@@ -2513,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Tehc | 171677 | [171677-car-tehc.json](./171677-car-tehc.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Town | 78819 | [78819-car-town.json](./78819-car-town.json) |
+| Car Track Fever | 220243 | [220243-car-track-fever.json](./220243-car-track-fever.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Transport Simulator | 52485 | [52485-car-transport-simulator.json](./52485-car-transport-simulator.json) |
@@ -3816,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Casting Away | 318271 | [318271-casting-away.json](./318271-casting-away.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
+| Casting Couch Simulator | 220759 | [220759-casting-couch-simulator.json](./220759-casting-couch-simulator.json) |
 | Casting Hearts | 194699 | [194699-casting-hearts.json](./194699-casting-hearts.json) |
 | Casting Plz | 274778 | [274778-casting-plz.json](./274778-casting-plz.json) |
 | Casting Shadows | 256733 | [256733-casting-shadows.json](./256733-casting-shadows.json) |
@@ -7315,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheollang Yeoljeon | 145657 | [145657-cheollang-yeoljeon.json](./145657-cheollang-yeoljeon.json) |
 | Cheongchunhyang Jeon | 404824 | [404824-cheongchunhyang-jeon.json](./404824-cheongchunhyang-jeon.json) |
 | Cheongsam | 110202 | [110202-cheongsam.json](./110202-cheongsam.json) |
+| Cheonhajeilgeom | 220374 | [220374-cheonhajeilgeom.json](./220374-cheonhajeilgeom.json) |
 | Cheonnyeon | 361306 | [361306-cheonnyeon.json](./361306-cheonnyeon.json) |
 | Cheonsa | 109937 | [109937-cheonsa.json](./109937-cheonsa.json) |
 | Cheonsang Soma Yeongung-jeon | 145639 | [145639-cheonsang-soma-yeongung-jeon.json](./145639-cheonsang-soma-yeongung-jeon.json) |
@@ -8404,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry | 382524 | [382524-chivalry.json](./382524-chivalry.json) |
 | Chivalry 2 | 119342 | [119342-chivalry-2.json](./119342-chivalry-2.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
+| Chivalry 2: King's Edition | 220760 | [220760-chivalry-2-kings-edition.json](./220760-chivalry-2-kings-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chivalry 2: Steelbook Edition | 153644 | [153644-chivalry-2-steelbook-edition.json](./153644-chivalry-2-steelbook-edition.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
@@ -12347,6 +12353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Rapid | 344691 | [344691-code-rapid.json](./344691-code-rapid.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
+| Code Red | 220762 | [220762-code-red.json](./220762-code-red.json) |
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
 | Code Red | 226550 | [226550-code-red.json](./226550-code-red.json) |
 | Code Red | 292455 | [292455-code-red.json](./292455-code-red.json) |
