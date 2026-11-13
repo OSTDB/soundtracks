@@ -6087,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
 | Deer Nightmare | 210978 | [210978-deer-nightmare.json](./210978-deer-nightmare.json) |
 | Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
+| Deer-Napped | 218621 | [218621-deer-napped.json](./218621-deer-napped.json) |
 | Deer's Revenge | 112655 | [112655-deers-revenge.json](./112655-deers-revenge.json) |
 | DeerHunterFan.com TV: The Season | 219236 | [219236-deerhunterfan-com-tv-the-season.json](./219236-deerhunterfan-com-tv-the-season.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
@@ -8530,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
 | Detective Girl: The Case of Immortality | 377009 | [377009-detective-girl-the-case-of-immortality.json](./377009-detective-girl-the-case-of-immortality.json) |
 | Detective Gman | 172953 | [172953-detective-gman.json](./172953-detective-gman.json) |
+| Detective Grimoire | 218746 | [218746-detective-grimoire.json](./218746-detective-grimoire.json) |
 | Detective Grimoire: Secret of the Swamp | 10795 | [10795-detective-grimoire-secret-of-the-swamp.json](./10795-detective-grimoire-secret-of-the-swamp.json) |
 | Detective GUI | 184784 | [184784-detective-gui.json](./184784-detective-gui.json) |
 | Detective Hank and the Golden Sneeze | 32002 | [32002-detective-hank-and-the-golden-sneeze.json](./32002-detective-hank-and-the-golden-sneeze.json) |
@@ -20189,6 +20191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonRift | 35092 | [35092-dungeonrift.json](./35092-dungeonrift.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
 | DungeonRoute | 369924 | [369924-dungeonroute.json](./369924-dungeonroute.json) |
+| DungeonRush | 218177 | [218177-dungeonrush.json](./218177-dungeonrush.json) |
 | Dungeons | 8849 | [8849-dungeons.json](./8849-dungeons.json) |
 | Dungeons & Aliens | 117945 | [117945-dungeons-and-aliens.json](./117945-dungeons-and-aliens.json) |
 | Dungeons & Bombs | 143488 | [143488-dungeons-and-bombs.json](./143488-dungeons-and-bombs.json) |
