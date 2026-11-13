@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Poker | 88668 | [88668-tactical-poker.json](./88668-tactical-poker.json) |
 | Tactical Pulse | 426606 | [426606-tactical-pulse.json](./426606-tactical-pulse.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
+| Tactical Recon | 216898 | [216898-tactical-recon.json](./216898-tactical-recon.json) |
 | Tactical Response Team | 359922 | [359922-tactical-response-team.json](./359922-tactical-response-team.json) |
 | Tactical Retreat | 180586 | [180586-tactical-retreat.json](./180586-tactical-retreat.json) |
 | Tactical Roulette | 406488 | [406488-tactical-roulette.json](./406488-tactical-roulette.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Money and Run! | 23290 | [23290-take-the-money-and-run.json](./23290-take-the-money-and-run.json) |
 | Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
+| Take the Wheels! | 216897 | [216897-take-the-wheels.json](./216897-take-the-wheels.json) |
 | Take Them Down | 344041 | [344041-take-them-down.json](./344041-take-them-down.json) |
 | Take Thy Throne | 32819 | [32819-take-thy-throne.json](./32819-take-thy-throne.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
@@ -2564,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape: Unveil the Memories - Director's Edition | 216590 | [216590-tape-unveil-the-memories-directors-edition.json](./216590-tape-unveil-the-memories-directors-edition.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapeheads | 309551 | [309551-tapeheads.json](./309551-tapeheads.json) |
+| Tapering Tower | 216389 | [216389-tapering-tower.json](./216389-tapering-tower.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
 | Tapes of Fear: Smile | 337062 | [337062-tapes-of-fear-smile.json](./337062-tapes-of-fear-smile.json) |
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
@@ -3768,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
 | Tekkaman Blade | 49135 | [49135-tekkaman-blade.json](./49135-tekkaman-blade.json) |
 | Tekken | 1242 | [1242-tekken.json](./1242-tekken.json) |
+| Tekken 2 | 215952 | [215952-tekken-2.json](./215952-tekken-2.json) |
 | Tekken 2 | 225422 | [225422-tekken-2.json](./225422-tekken-2.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
@@ -6897,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
 | The Beast and the Princess | 341816 | [341816-the-beast-and-the-princess.json](./341816-the-beast-and-the-princess.json) |
 | The Beast Awoke to Eat Your Darlings | 169585 | [169585-the-beast-awoke-to-eat-your-darlings.json](./169585-the-beast-awoke-to-eat-your-darlings.json) |
+| The Beast in the Cave | 216910 | [216910-the-beast-in-the-cave.json](./216910-the-beast-in-the-cave.json) |
 | The Beast in the Maze | 178824 | [178824-the-beast-in-the-maze.json](./178824-the-beast-in-the-maze.json) |
 | The Beast in the Shadows | 295462 | [295462-the-beast-in-the-shadows.json](./295462-the-beast-in-the-shadows.json) |
 | The Beast in the Silent Valley | 328740 | [328740-the-beast-in-the-silent-valley.json](./328740-the-beast-in-the-silent-valley.json) |
@@ -7006,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
 | The Big Catch: Tacklebox | 305056 | [305056-the-big-catch-tacklebox.json](./305056-the-big-catch-tacklebox.json) |
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
+| The Big Comfy Couch | 215945 | [215945-the-big-comfy-couch.json](./215945-the-big-comfy-couch.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Crab Escape | 315738 | [315738-the-big-crab-escape.json](./315738-the-big-crab-escape.json) |
 | The Big Crab Escape 2 | 315740 | [315740-the-big-crab-escape-2.json](./315740-the-big-crab-escape-2.json) |
@@ -7187,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bloobles and the Quest for Chocolate | 107704 | [107704-the-bloobles-and-the-quest-for-chocolate.json](./107704-the-bloobles-and-the-quest-for-chocolate.json) |
 | The Blood Amulet | 219548 | [219548-the-blood-amulet.json](./219548-the-blood-amulet.json) |
 | The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
+| The Blood Games | 216909 | [216909-the-blood-games.json](./216909-the-blood-games.json) |
 | The Blood Mage by Daniel da Silva | 249238 | [249238-the-blood-mage-by-daniel-da-silva.json](./249238-the-blood-mage-by-daniel-da-silva.json) |
 | The Blood Mage II | 406486 | [406486-the-blood-mage-ii.json](./406486-the-blood-mage-ii.json) |
 | The Blood of Dawnwalker: Day 1 Edition | 416088 | [416088-the-blood-of-dawnwalker-day-1-edition.json](./416088-the-blood-of-dawnwalker-day-1-edition.json) |
@@ -7226,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
 | The Blues Brothers | 7792 | [7792-the-blues-brothers.json](./7792-the-blues-brothers.json) |
 | The Blues Brothers: Jukebox Adventure | 47007 | [47007-the-blues-brothers-jukebox-adventure.json](./47007-the-blues-brothers-jukebox-adventure.json) |
+| The Blunderbuss | 216908 | [216908-the-blunderbuss.json](./216908-the-blunderbuss.json) |
 | The Board AI | 274247 | [274247-the-board-ai.json](./274247-the-board-ai.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
@@ -7527,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Factory: Supporters Pack | 359664 | [359664-the-cabin-factory-supporters-pack.json](./359664-the-cabin-factory-supporters-pack.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
+| The Cabin: Summer Vacation \| Episode 1 | 215956 | [215956-the-cabin-summer-vacation-episode-1.json](./215956-the-cabin-summer-vacation-episode-1.json) |
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cable Center: Virtual Archive | 29025 | [29025-the-cable-center-virtual-archive.json](./29025-the-cable-center-virtual-archive.json) |
@@ -7778,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charnel House Trilogy | 19385 | [19385-the-charnel-house-trilogy.json](./19385-the-charnel-house-trilogy.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
+| The Chase | 216907 | [216907-the-chase.json](./216907-the-chase.json) |
 | The Chase on Tom Sawyer's Island | 73399 | [73399-the-chase-on-tom-sawyers-island.json](./73399-the-chase-on-tom-sawyers-island.json) |
 | The Chase: Cop Pursuit | 270468 | [270468-the-chase-cop-pursuit.json](./270468-the-chase-cop-pursuit.json) |
 | The Chase: Felix Meets Felicity | 21202 | [21202-the-chase-felix-meets-felicity.json](./21202-the-chase-felix-meets-felicity.json) |
@@ -8765,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawning Letters: Sunrise | 370475 | [370475-the-dawning-letters-sunrise.json](./370475-the-dawning-letters-sunrise.json) |
 | The Dawnless Days | 356246 | [356246-the-dawnless-days.json](./356246-the-dawnless-days.json) |
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
+| The Day After | 216911 | [216911-the-day-after.json](./216911-the-day-after.json) |
 | The Day After Ever After | 396849 | [396849-the-day-after-ever-after.json](./396849-the-day-after-ever-after.json) |
 | The Day After: Origins | 76384 | [76384-the-day-after-origins.json](./76384-the-day-after-origins.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
@@ -8851,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
+| The Death Tree | 216912 | [216912-the-death-tree.json](./216912-the-death-tree.json) |
 | The Death Wizard's Tower | 149129 | [149129-the-death-wizards-tower.json](./149129-the-death-wizards-tower.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
 | The Debt Collector | 389830 | [389830-the-debt-collector.json](./389830-the-debt-collector.json) |
@@ -9055,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diplomat | 183828 | [183828-the-diplomat.json](./183828-the-diplomat.json) |
 | The Dire | 275743 | [275743-the-dire.json](./275743-the-dire.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
+| The Director's Cut | 216913 | [216913-the-directors-cut.json](./216913-the-directors-cut.json) |
 | The Director's Disorder: Pilot Episode | 212121 | [212121-the-directors-disorder-pilot-episode.json](./212121-the-directors-disorder-pilot-episode.json) |
 | The Directorate: The Spy Who Killed A Saint | 253469 | [253469-the-directorate-the-spy-who-killed-a-saint.json](./253469-the-directorate-the-spy-who-killed-a-saint.json) |
 | The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
@@ -9768,6 +9781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Event Horizon | 223103 | [223103-the-event-horizon.json](./223103-the-event-horizon.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
+| The Events at Unity Farm | 216914 | [216914-the-events-at-unity-farm.json](./216914-the-events-at-unity-farm.json) |
 | The Events at Unity Farm: Magic & Melee | 279391 | [279391-the-events-at-unity-farm-magic-and-melee.json](./279391-the-events-at-unity-farm-magic-and-melee.json) |
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
 | The ever-changing case of the unpaid rent | 182689 | [182689-the-ever-changing-case-of-the-unpaid-rent.json](./182689-the-ever-changing-case-of-the-unpaid-rent.json) |
@@ -9780,8 +9794,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Church | 179319 | [179319-the-evil-church.json](./179319-the-evil-church.json) |
 | The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
+| The Evil Furry | 216915 | [216915-the-evil-furry.json](./216915-the-evil-furry.json) |
 | The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
 | The Evil Leafy Maze Game | 264908 | [264908-the-evil-leafy-maze-game.json](./264908-the-evil-leafy-maze-game.json) |
+| The Evil of Mutant | 216916 | [216916-the-evil-of-mutant.json](./216916-the-evil-of-mutant.json) |
 | The Evil Party | 81905 | [81905-the-evil-party.json](./81905-the-evil-party.json) |
 | The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
@@ -10957,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather: Family Dynasty | 98192 | [98192-the-godfather-family-dynasty.json](./98192-the-godfather-family-dynasty.json) |
 | The Godfather: Mob Wars | 42748 | [42748-the-godfather-mob-wars.json](./42748-the-godfather-mob-wars.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
+| The Godfeather: A Mafia Pigeon Saga | 216917 | [216917-the-godfeather-a-mafia-pigeon-saga.json](./216917-the-godfeather-a-mafia-pigeon-saga.json) |
 | The Godkiller | 123228 | [123228-the-godkiller.json](./123228-the-godkiller.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
@@ -11552,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero's Journey Through Time | 236466 | [236466-the-heros-journey-through-time.json](./236466-the-heros-journey-through-time.json) |
 | The Hero's Way | 248079 | [248079-the-heros-way.json](./248079-the-heros-way.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
+| The Heroes Around Me | 216918 | [216918-the-heroes-around-me.json](./216918-the-heroes-around-me.json) |
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
 | The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
@@ -11706,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hospital: Allison's Diary | 74923 | [74923-the-hospital-allisons-diary.json](./74923-the-hospital-allisons-diary.json) |
 | The Host | 158888 | [158888-the-host.json](./158888-the-host.json) |
 | The Host | 334057 | [334057-the-host.json](./334057-the-host.json) |
+| The Host: Cataclysm | 216919 | [216919-the-host-cataclysm.json](./216919-the-host-cataclysm.json) |
 | The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
@@ -11825,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunger Games: Catching Fire - Panem Run | 62600 | [62600-the-hunger-games-catching-fire-panem-run.json](./62600-the-hunger-games-catching-fire-panem-run.json) |
 | The Hunger Games: Panem Rising | 344829 | [344829-the-hunger-games-panem-rising.json](./344829-the-hunger-games-panem-rising.json) |
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
+| The Hungry Fly | 216920 | [216920-the-hungry-fly.json](./216920-the-hungry-fly.json) |
 | The Hungry Horde | 52911 | [52911-the-hungry-horde.json](./52911-the-hungry-horde.json) |
 | The Hungry Horde: Holiday Hijinx | 372821 | [372821-the-hungry-horde-holiday-hijinx.json](./372821-the-hungry-horde-holiday-hijinx.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
@@ -16139,6 +16159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Fellows | 150313 | [150313-the-phantom-fellows.json](./150313-the-phantom-fellows.json) |
 | The Phantom Forest | 278909 | [278909-the-phantom-forest.json](./278909-the-phantom-forest.json) |
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
+| The Phantom Keeper | 217039 | [217039-the-phantom-keeper.json](./217039-the-phantom-keeper.json) |
 | The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
 | The Phantom of the Museum | 412937 | [412937-the-phantom-of-the-museum.json](./412937-the-phantom-of-the-museum.json) |
 | The Phantom of the Opera | 421442 | [421442-the-phantom-of-the-opera.json](./421442-the-phantom-of-the-opera.json) |
@@ -26863,6 +26884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Future Soldier - Deluxe Edition | 219005 | [219005-tom-clancys-ghost-recon-future-soldier-deluxe-edition.json](./219005-tom-clancys-ghost-recon-future-soldier-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Khyber Strike | 168163 | [168163-tom-clancys-ghost-recon-future-soldier-khyber-strike.json](./168163-tom-clancys-ghost-recon-future-soldier-khyber-strike.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Raven Strike | 127642 | [127642-tom-clancys-ghost-recon-future-soldier-raven-strike.json](./127642-tom-clancys-ghost-recon-future-soldier-raven-strike.json) |
+| Tom Clancy's Ghost Recon: Future Soldier - Ultimate Edition | 216375 | [216375-tom-clancys-ghost-recon-future-soldier-ultimate-edition.json](./216375-tom-clancys-ghost-recon-future-soldier-ultimate-edition.json) |
 | Tom Clancy's Ghost Recon: Future Soldier / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 152333 | [152333-tom-clancys-ghost-recon-future-soldier-tom-clancys-ghost-recon-advanced-warfighter-2.json](./152333-tom-clancys-ghost-recon-future-soldier-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Ghost Recon: Gold Pack | 219006 | [219006-tom-clancys-ghost-recon-gold-pack.json](./219006-tom-clancys-ghost-recon-gold-pack.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 1296 | [1296-tom-clancys-ghost-recon-island-thunder.json](./1296-tom-clancys-ghost-recon-island-thunder.json) |
@@ -35470,6 +35492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turn-Based Kingdom: Ancient Egypt | 185337 | [185337-turn-based-kingdom-ancient-egypt.json](./185337-turn-based-kingdom-ancient-egypt.json) |
+| Turn-Based Strategy Bundle | 216366 | [216366-turn-based-strategy-bundle.json](./216366-turn-based-strategy-bundle.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
 | Turnabout | 44926 | [44926-turnabout.json](./44926-turnabout.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
