@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenophobe | 290276 | [290276-xenophobe.json](./290276-xenophobe.json) |
 | Xenophon | 397484 | [397484-xenophon.json](./397484-xenophon.json) |
 | Xenopods | 79492 | [79492-xenopods.json](./79492-xenopods.json) |
+| Xenopunch | 177990 | [177990-xenopunch.json](./177990-xenopunch.json) |
 | Xenopurge | 345292 | [345292-xenopurge.json](./345292-xenopurge.json) |
 | Xenoraid | 24028 | [24028-xenoraid.json](./24028-xenoraid.json) |
 | XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
