@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Erin's Story in the World of Our Church and Halloween: Visual Novel | 223064 | [223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Factus | 362796 | [362796-welcome-to-factus.json](./362796-welcome-to-factus.json) |
+| Welcome to Folklore Manor! | 210776 | [210776-welcome-to-folklore-manor.json](./210776-welcome-to-folklore-manor.json) |
 | Welcome to Fredbears | 394988 | [394988-welcome-to-fredbears.json](./394988-welcome-to-fredbears.json) |
 | Welcome to Fredbears | 394990 | [394990-welcome-to-fredbears.json](./394990-welcome-to-fredbears.json) |
 | Welcome to Freddy's | 254251 | [254251-welcome-to-freddys.json](./254251-welcome-to-freddys.json) |
@@ -8014,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodworm Classic | 306738 | [306738-woodworm-classic.json](./306738-woodworm-classic.json) |
 | Woody Blox | 74916 | [74916-woody-blox.json](./74916-woody-blox.json) |
 | Woody Chopper | 160269 | [160269-woody-chopper.json](./160269-woody-chopper.json) |
+| Woody Poco | 210801 | [210801-woody-poco.json](./210801-woody-poco.json) |
 | Woody Pop | 21551 | [21551-woody-pop.json](./21551-woody-pop.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
