@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date A Live: Spirit Pledge | 125935 | [125935-date-a-live-spirit-pledge.json](./125935-date-a-live-spirit-pledge.json) |
 | Date a Mink | 140729 | [140729-date-a-mink.json](./140729-date-a-mink.json) |
+| Date Almost Anything Sim | 176556 | [176556-date-almost-anything-sim.json](./176556-date-almost-anything-sim.json) |
 | Date Ariane Remastered | 202478 | [202478-date-ariane-remastered.json](./202478-date-ariane-remastered.json) |
 | Date Banger | 326191 | [326191-date-banger.json](./326191-date-banger.json) |
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
@@ -3118,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Pioneer | 57536 | [57536-dawn-pioneer.json](./57536-dawn-pioneer.json) |
 | Dawn Raider | 291939 | [291939-dawn-raider.json](./291939-dawn-raider.json) |
 | Dawn Sanatorium | 412693 | [412693-dawn-sanatorium.json](./412693-dawn-sanatorium.json) |
+| Dawn Will Come | 176952 | [176952-dawn-will-come.json](./176952-dawn-will-come.json) |
 | Dawn, P.I. | 148200 | [148200-dawn-p-i.json](./148200-dawn-p-i.json) |
 | Dawn: A New Beginning | 68212 | [68212-dawn-a-new-beginning.json](./68212-dawn-a-new-beginning.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
@@ -18491,6 +18493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
+| DRMS-04 | 176536 | [176536-drms-04.json](./176536-drms-04.json) |
 | Drmwrldgrl | 277660 | [277660-drmwrldgrl.json](./277660-drmwrldgrl.json) |
 | Drod 1+2+3 | 124914 | [124914-drod-1-2-3.json](./124914-drod-1-2-3.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
