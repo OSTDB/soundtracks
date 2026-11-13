@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs | 40113 | [40113-eggs.json](./40113-eggs.json) |
 | Eggs & Kings | 109302 | [109302-eggs-and-kings.json](./109302-eggs-and-kings.json) |
 | Eggs 1942 | 101362 | [101362-eggs-1942.json](./101362-eggs-1942.json) |
+| Eggs 2142 | 211322 | [211322-eggs-2142.json](./211322-eggs-2142.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
@@ -3886,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter: A 8-Bit Noir Adventure | 371192 | [371192-encounter-a-8-bit-noir-adventure.json](./371192-encounter-a-8-bit-noir-adventure.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
 | Encounters | 311181 | [311181-encounters.json](./311181-encounters.json) |
+| Encounters: Music Stories | 211317 | [211317-encounters-music-stories.json](./211317-encounters-music-stories.json) |
 | Encourage | 113142 | [113142-encourage.json](./113142-encourage.json) |
 | Encrafted | 411546 | [411546-encrafted.json](./411546-encrafted.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
@@ -5512,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 168071 | [168071-escape.json](./168071-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
+| Escape | 211363 | [211363-escape.json](./211363-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
 | Escape | 25324 | [25324-escape.json](./25324-escape.json) |
 | Escape | 273231 | [273231-escape.json](./273231-escape.json) |
@@ -8650,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition | 141078 | [141078-expedition.json](./141078-expedition.json) |
 | Expedition | 146495 | [146495-expedition.json](./146495-expedition.json) |
 | Expedition 13 | 405306 | [405306-expedition-13.json](./405306-expedition-13.json) |
+| Expedition Agartha | 211325 | [211325-expedition-agartha.json](./211325-expedition-agartha.json) |
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
