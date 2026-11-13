@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
 | Halo Infinite: Season 1 - Heroes of Reach | 182199 | [182199-halo-infinite-season-1-heroes-of-reach.json](./182199-halo-infinite-season-1-heroes-of-reach.json) |
 | Halo Infinite: Season 2 - Lone Wolves | 196656 | [196656-halo-infinite-season-2-lone-wolves.json](./196656-halo-infinite-season-2-lone-wolves.json) |
+| Halo Infinite: Season 3 - Echoes Within | 214786 | [214786-halo-infinite-season-3-echoes-within.json](./214786-halo-infinite-season-3-echoes-within.json) |
 | Halo Infinite: Season 4 - Infection | 250295 | [250295-halo-infinite-season-4-infection.json](./250295-halo-infinite-season-4-infection.json) |
 | Halo Infinite: Season 5 - Reckoning | 257742 | [257742-halo-infinite-season-5-reckoning.json](./257742-halo-infinite-season-5-reckoning.json) |
 | Halo Infinite: Steelbook Edition | 171280 | [171280-halo-infinite-steelbook-edition.json](./171280-halo-infinite-steelbook-edition.json) |
@@ -7937,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
 | Hidden Objects: Sleeping Beauty | 195423 | [195423-hidden-objects-sleeping-beauty.json](./195423-hidden-objects-sleeping-beauty.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
+| Hidden Objects: The big journey | 215283 | [215283-hidden-objects-the-big-journey.json](./215283-hidden-objects-the-big-journey.json) |
 | Hidden Objects: The Room - My Wallet: The Big House | 91238 | [91238-hidden-objects-the-room-my-wallet-the-big-house.json](./91238-hidden-objects-the-room-my-wallet-the-big-house.json) |
 | Hidden Objects: The Witches of Pumpkin Avenue | 91200 | [91200-hidden-objects-the-witches-of-pumpkin-avenue.json](./91200-hidden-objects-the-witches-of-pumpkin-avenue.json) |
 | Hidden Objects: Tranquil Valley | 193618 | [193618-hidden-objects-tranquil-valley.json](./193618-hidden-objects-tranquil-valley.json) |
@@ -9044,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History's Top Shot | 396685 | [396685-historys-top-shot.json](./396685-historys-top-shot.json) |
 | HistoryMaker VR | 149347 | [149347-historymaker-vr.json](./149347-historymaker-vr.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
+| Hisui no Shizuku: Hiiro no Kakera 2 | 214796 | [214796-hisui-no-shizuku-hiiro-no-kakera-2.json](./214796-hisui-no-shizuku-hiiro-no-kakera-2.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
 | Hit | 36085 | [36085-hit.json](./36085-hit.json) |
@@ -12690,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
 | Hulala Baby | 115323 | [115323-hulala-baby.json](./115323-hulala-baby.json) |
+| Huldufólk | 214794 | [214794-huldufolk.json](./214794-huldufolk.json) |
 | Hulesverd | 372207 | [372207-hulesverd.json](./372207-hulesverd.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
