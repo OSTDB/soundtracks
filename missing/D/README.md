@@ -14943,6 +14943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Hopper | 52208 | [52208-dot-hopper.json](./52208-dot-hopper.json) |
 | Dot Horror Story: Double Pack | 222262 | [222262-dot-horror-story-double-pack.json](./222262-dot-horror-story-double-pack.json) |
+| Dot Kareshi: We're 8bit Lovers! I - Densetsu no Otome | 206242 | [206242-dot-kareshi-were-8bit-lovers-i-densetsu-no-otome.json](./206242-dot-kareshi-were-8bit-lovers-i-densetsu-no-otome.json) |
 | Dot Kareshi: We're 8bit Lovers! II - Tenku no Kissu | 206234 | [206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json](./206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json) |
 | Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
 | Dot Kuzushi | 267761 | [267761-dot-kuzushi.json](./267761-dot-kuzushi.json) |
