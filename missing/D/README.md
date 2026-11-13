@@ -9830,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficulty Spike | 130575 | [130575-difficulty-spike.json](./130575-difficulty-spike.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
+| Dig | 191212 | [191212-dig.json](./191212-dig.json) |
 | Dig | 304283 | [304283-dig.json](./304283-dig.json) |
 | Dig | 333199 | [333199-dig.json](./333199-dig.json) |
 | Dig 'em | 181551 | [181551-dig-em.json](./181551-dig-em.json) |
