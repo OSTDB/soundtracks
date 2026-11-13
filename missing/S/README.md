@@ -15824,6 +15824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Zombies | 328174 | [328174-smash-zombies.json](./328174-smash-zombies.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
+| Smashball | 193456 | [193456-smashball.json](./193456-smashball.json) |
 | Smashball | 29122 | [29122-smashball.json](./29122-smashball.json) |
 | Smashboard | 207349 | [207349-smashboard.json](./207349-smashboard.json) |
 | SmashBox | 25049 | [25049-smashbox.json](./25049-smashbox.json) |
@@ -22323,6 +22324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaced Penguin! | 406779 | [406779-spaced-penguin.json](./406779-spaced-penguin.json) |
 | SpaceDog | 231597 | [231597-spacedog.json](./231597-spacedog.json) |
+| SpaceDominator | 192994 | [192994-spacedominator.json](./192994-spacedominator.json) |
 | Spacedust Defender | 179410 | [179410-spacedust-defender.json](./179410-spacedust-defender.json) |
 | SpaceDweller | 59864 | [59864-spacedweller.json](./59864-spacedweller.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
