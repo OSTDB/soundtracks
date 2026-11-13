@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Craft: Scrap Survival | 361793 | [361793-machine-craft-scrap-survival.json](./361793-machine-craft-scrap-survival.json) |
 | Machine Crisis | 76711 | [76711-machine-crisis.json](./76711-machine-crisis.json) |
 | Machine Fable | 270037 | [270037-machine-fable.json](./270037-machine-fable.json) |
+| Machine Gun Fury | 211331 | [211331-machine-gun-fury.json](./211331-machine-gun-fury.json) |
 | Machine Gun Gardener | 177156 | [177156-machine-gun-gardener.json](./177156-machine-gun-gardener.json) |
 | Machine Gun Knight | 387025 | [387025-machine-gun-knight.json](./387025-machine-gun-knight.json) |
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
@@ -10315,6 +10316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
 | Merge World Alchemist | 349590 | [349590-merge-world-alchemist.json](./349590-merge-world-alchemist.json) |
+| Merge Your Room | 211310 | [211310-merge-your-room.json](./211310-merge-your-room.json) |
 | Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
 | Merge Your Room: Toys Pack | 231229 | [231229-merge-your-room-toys-pack.json](./231229-merge-your-room-toys-pack.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
@@ -11037,6 +11039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
 | Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
+| Meteorites 3D | 211366 | [211366-meteorites-3d.json](./211366-meteorites-3d.json) |
 | Meteormath 2 | 130472 | [130472-meteormath-2.json](./130472-meteormath-2.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteoroids 3D | 159961 | [159961-meteoroids-3d.json](./159961-meteoroids-3d.json) |
@@ -12659,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miika | 219908 | [219908-miika.json](./219908-miika.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
+| Miira | 211340 | [211340-miira.json](./211340-miira.json) |
 | Miiridian Prime | 378765 | [378765-miiridian-prime.json](./378765-miiridian-prime.json) |
 | Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
@@ -16871,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mono | 389926 | [389926-mono.json](./389926-mono.json) |
 | Mono | 70748 | [70748-mono.json](./70748-mono.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
+| Mono Playground | 211349 | [211349-mono-playground.json](./211349-mono-playground.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
 | Mono-Space | 278923 | [278923-mono-space.json](./278923-mono-space.json) |
 | Mono! | 294111 | [294111-mono.json](./294111-mono.json) |
