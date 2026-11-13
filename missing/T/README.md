@@ -8251,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Couch | 140715 | [140715-the-couch.json](./140715-the-couch.json) |
 | The Council | 78547 | [78547-the-council.json](./78547-the-council.json) |
+| The Council of Gulls | 179088 | [179088-the-council-of-gulls.json](./179088-the-council-of-gulls.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 1 - The Mad Ones | 81117 | [81117-the-council-episode-1-the-mad-ones.json](./81117-the-council-episode-1-the-mad-ones.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
@@ -17230,6 +17231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roadside Motel | 361946 | [361946-the-roadside-motel.json](./361946-the-roadside-motel.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
+| The Robin | 179214 | [179214-the-robin.json](./179214-the-robin.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Robot Club | 67096 | [67096-the-robot-club.json](./67096-the-robot-club.json) |
 | The Robot Factory | 200240 | [200240-the-robot-factory.json](./200240-the-robot-factory.json) |
@@ -21113,6 +21115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yard of Solace | 346859 | [346859-the-yard-of-solace.json](./346859-the-yard-of-solace.json) |
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
+| The Year After | 179647 | [179647-the-year-after.json](./179647-the-year-after.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Ladder | 123795 | [123795-the-yellow-ladder.json](./123795-the-yellow-ladder.json) |
 | The Yellow Moon's School: The Ghosts Day | 288618 | [288618-the-yellow-moons-school-the-ghosts-day.json](./288618-the-yellow-moons-school-the-ghosts-day.json) |
@@ -21810,6 +21813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
 | Things to Get | 243489 | [243489-things-to-get.json](./243489-things-to-get.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
+| Things Unwanted | 179100 | [179100-things-unwanted.json](./179100-things-unwanted.json) |
 | Things.smc | 269696 | [269696-things-smc.json](./269696-things-smc.json) |
 | Things.smc 2: Booni's Island.smc | 269701 | [269701-things-smc-2-boonis-island-smc.json](./269701-things-smc-2-boonis-island-smc.json) |
 | Think | 100765 | [100765-think.json](./100765-think.json) |
