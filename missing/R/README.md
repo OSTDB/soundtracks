@@ -8895,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Nation Wars | 115039 | [115039-rival-nation-wars.json](./115039-rival-nation-wars.json) |
 | Rival Party | 258478 | [258478-rival-party.json](./258478-rival-party.json) |
 | Rival Peak | 141364 | [141364-rival-peak.json](./141364-rival-peak.json) |
+| Rival Pirates | 218608 | [218608-rival-pirates.json](./218608-rival-pirates.json) |
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
