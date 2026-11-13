@@ -9057,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X Retribution | 323023 | [323023-megaman-x-retribution.json](./323023-megaman-x-retribution.json) |
 | Megaman X Unleashed | 206501 | [206501-megaman-x-unleashed.json](./206501-megaman-x-unleashed.json) |
+| Megaman X Unleashed 2: Worlds Unite | 205690 | [205690-megaman-x-unleashed-2-worlds-unite.json](./205690-megaman-x-unleashed-2-worlds-unite.json) |
 | Megaman X Virus | 323027 | [323027-megaman-x-virus.json](./323027-megaman-x-virus.json) |
 | Megaman X: Omega Blaster | 316023 | [316023-megaman-x-omega-blaster.json](./316023-megaman-x-omega-blaster.json) |
 | Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
@@ -12551,6 +12552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
 | Mighty Gunvolt Burst: Character Set - Heroines | 225922 | [225922-mighty-gunvolt-burst-character-set-heroines.json](./225922-mighty-gunvolt-burst-character-set-heroines.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
+| Mighty Guy | 205720 | [205720-mighty-guy.json](./205720-mighty-guy.json) |
 | Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
 | Mighty Hits Special | 80172 | [80172-mighty-hits-special.json](./80172-mighty-hits-special.json) |
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
