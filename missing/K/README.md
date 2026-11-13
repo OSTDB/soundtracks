@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
 | Karma Exorcist | 399955 | [399955-karma-exorcist.json](./399955-karma-exorcist.json) |
 | Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
+| Karma Guardians | 224795 | [224795-karma-guardians.json](./224795-karma-guardians.json) |
 | Karma II | 316288 | [316288-karma-ii.json](./316288-karma-ii.json) |
 | Karma Jump | 367481 | [367481-karma-jump.json](./367481-karma-jump.json) |
 | Karma Keepers | 365293 | [365293-karma-keepers.json](./365293-karma-keepers.json) |
