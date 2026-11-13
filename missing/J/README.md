@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: World Heritage Site 2 | 237874 | [237874-jigsaw-masterpieces-world-heritage-site-2.json](./237874-jigsaw-masterpieces-world-heritage-site-2.json) |
 | Jigsaw Masterpieces: World Heritage Site 3 | 199833 | [199833-jigsaw-masterpieces-world-heritage-site-3.json](./199833-jigsaw-masterpieces-world-heritage-site-3.json) |
 | Jigsaw Masterpieces: World's Most Scenic Train Trips | 201025 | [201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json](./201025-jigsaw-masterpieces-worlds-most-scenic-train-trips.json) |
+| Jigsaw Novel: Double Trouble | 197292 | [197292-jigsaw-novel-double-trouble.json](./197292-jigsaw-novel-double-trouble.json) |
 | Jigsaw Novel: Futanari Nurse | 195446 | [195446-jigsaw-novel-futanari-nurse.json](./195446-jigsaw-novel-futanari-nurse.json) |
 | Jigsaw Novel: Kinky Bondage | 286471 | [286471-jigsaw-novel-kinky-bondage.json](./286471-jigsaw-novel-kinky-bondage.json) |
 | Jigsaw Novel: Naughty Stewardesses | 286479 | [286479-jigsaw-novel-naughty-stewardesses.json](./286479-jigsaw-novel-naughty-stewardesses.json) |
