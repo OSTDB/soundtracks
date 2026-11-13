@@ -5522,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Express | 207031 | [207031-text-express.json](./207031-text-express.json) |
 | Text Express 2 | 385647 | [385647-text-express-2.json](./385647-text-express-2.json) |
+| Text Express: Word Adventure | 220241 | [220241-text-express-word-adventure.json](./220241-text-express-word-adventure.json) |
 | Text Invaders | 359898 | [359898-text-invaders.json](./359898-text-invaders.json) |
 | Text me when you get home | 179890 | [179890-text-me-when-you-get-home.json](./179890-text-me-when-you-get-home.json) |
 | Text or Die | 212553 | [212553-text-or-die.json](./212553-text-or-die.json) |
@@ -15625,6 +15626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Obsessive Shadow | 211809 | [211809-the-obsessive-shadow.json](./211809-the-obsessive-shadow.json) |
 | The Obsessive Shadow: Chapter 2 | 406179 | [406179-the-obsessive-shadow-chapter-2.json](./406179-the-obsessive-shadow-chapter-2.json) |
 | The Occluder | 110749 | [110749-the-occluder.json](./110749-the-occluder.json) |
+| The Occult Chronicles | 220884 | [220884-the-occult-chronicles.json](./220884-the-occult-chronicles.json) |
 | The Occult Detective | 345060 | [345060-the-occult-detective.json](./345060-the-occult-detective.json) |
 | The Occultist: Deluxe Edition | 402328 | [402328-the-occultist-deluxe-edition.json](./402328-the-occultist-deluxe-edition.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
@@ -18143,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking City Remastered | 343363 | [343363-the-sinking-city-remastered.json](./343363-the-sinking-city-remastered.json) |
 | The Sinking City: Chicago Organ Grinder | 286172 | [286172-the-sinking-city-chicago-organ-grinder.json](./286172-the-sinking-city-chicago-organ-grinder.json) |
 | The Sinking City: Day One Edition | 136052 | [136052-the-sinking-city-day-one-edition.json](./136052-the-sinking-city-day-one-edition.json) |
+| The Sinking City: Deluxe Edition | 220893 | [220893-the-sinking-city-deluxe-edition.json](./220893-the-sinking-city-deluxe-edition.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Sinking City: Merciful Madness | 142240 | [142240-the-sinking-city-merciful-madness.json](./142240-the-sinking-city-merciful-madness.json) |
 | The Sinking City: Necronomicon Edition | 117154 | [117154-the-sinking-city-necronomicon-edition.json](./117154-the-sinking-city-necronomicon-edition.json) |
