@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ninja Mortal Shadow | 280729 | [280729-dead-ninja-mortal-shadow.json](./280729-dead-ninja-mortal-shadow.json) |
 | Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
 | Dead Noir the Heart | 72449 | [72449-dead-noir-the-heart.json](./72449-dead-noir-the-heart.json) |
+| Dead Oculus | 208517 | [208517-dead-oculus.json](./208517-dead-oculus.json) |
 | Dead of Darkness | 223270 | [223270-dead-of-darkness.json](./223270-dead-of-darkness.json) |
 | Dead of Darkness 2 | 422094 | [422094-dead-of-darkness-2.json](./422094-dead-of-darkness-2.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
@@ -10555,6 +10556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
 | Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
+| Dino Safari: E-Pro | 207957 | [207957-dino-safari-e-pro.json](./207957-dino-safari-e-pro.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
 | Dino Scourge | 76830 | [76830-dino-scourge.json](./76830-dino-scourge.json) |
 | Dino Shift | 311064 | [311064-dino-shift.json](./311064-dino-shift.json) |
@@ -16209,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blast | 107035 | [107035-dragon-blast.json](./107035-dragon-blast.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaster | 181553 | [181553-dragon-blaster.json](./181553-dragon-blaster.json) |
+| Dragon Blaze | 208497 | [208497-dragon-blaze.json](./208497-dragon-blaze.json) |
 | Dragon Blaze | 272700 | [272700-dragon-blaze.json](./272700-dragon-blaze.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Blazers | 127452 | [127452-dragon-blazers.json](./127452-dragon-blazers.json) |
