@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 Games in 1 Cartridge | 281290 | [281290-4-games-in-1-cartridge.json](./281290-4-games-in-1-cartridge.json) |
 | 4 Gewinnt | 85728 | [85728-4-gewinnt.json](./85728-4-gewinnt.json) |
+| 4 Giga Boss Fights | 181904 | [181904-4-giga-boss-fights.json](./181904-4-giga-boss-fights.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 in 1 | 80870 | [80870-4-in-1.json](./80870-4-in-1.json) |
 | 4 in 1 | 80871 | [80871-4-in-1.json](./80871-4-in-1.json) |
