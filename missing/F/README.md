@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith of Fate | 119668 | [119668-faith-of-fate.json](./119668-faith-of-fate.json) |
 | Faith of Life: Survive Edition | 340052 | [340052-faith-of-life-survive-edition.json](./340052-faith-of-life-survive-edition.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
+| Faith Romance | 185039 | [185039-faith-romance.json](./185039-faith-romance.json) |
 | Faith Update v1.4: Good Christian Boy | 275258 | [275258-faith-update-v1-4-good-christian-boy.json](./275258-faith-update-v1-4-good-christian-boy.json) |
 | Faith: Chapter II | 123282 | [123282-faith-chapter-ii.json](./123282-faith-chapter-ii.json) |
 | Faith: Chapter III | 125170 | [125170-faith-chapter-iii.json](./125170-faith-chapter-iii.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blood | 311369 | [311369-final-blood.json](./311369-final-blood.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
+| Final Boarding Call | 185040 | [185040-final-boarding-call.json](./185040-final-boarding-call.json) |
 | Final Boss | 224257 | [224257-final-boss.json](./224257-final-boss.json) |
 | Final Boss | 410170 | [410170-final-boss.json](./410170-final-boss.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
