@@ -3740,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendy's Mart 3D | 84058 | [84058-wendys-mart-3d.json](./84058-wendys-mart-3d.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
+| Wenjia: Complete Edition | 221463 | [221463-wenjia-complete-edition.json](./221463-wenjia-complete-edition.json) |
 | Wenl Mine | 271798 | [271798-wenl-mine.json](./271798-wenl-mine.json) |
 | Went: One Alive | 114915 | [114915-went-one-alive.json](./114915-went-one-alive.json) |
 | Went: Zero | 115412 | [115412-went-zero.json](./115412-went-zero.json) |
@@ -6857,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
 | Witch & Hero | 33741 | [33741-witch-and-hero.json](./33741-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
+| Witch & Hero II | 221447 | [221447-witch-and-hero-ii.json](./221447-witch-and-hero-ii.json) |
 | Witch & Hero III | 68449 | [68449-witch-and-hero-iii.json](./68449-witch-and-hero-iii.json) |
 | Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
 | Witch Academy | 274694 | [274694-witch-academy.json](./274694-witch-academy.json) |
@@ -6970,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
 | Witch's Library | 277119 | [277119-witchs-library.json](./277119-witchs-library.json) |
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
+| Witch's Potion: Water Sort Puzzle | 221448 | [221448-witchs-potion-water-sort-puzzle.json](./221448-witchs-potion-water-sort-puzzle.json) |
 | Witch's Pranks: Frog's Fortune | 108126 | [108126-witchs-pranks-frogs-fortune.json](./108126-witchs-pranks-frogs-fortune.json) |
 | Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
