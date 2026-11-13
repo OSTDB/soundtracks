@@ -15375,6 +15375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistover: Dr. Faust's Otherworldly Adventure | 154179 | [154179-mistover-dr-fausts-otherworldly-adventure.json](./154179-mistover-dr-fausts-otherworldly-adventure.json) |
 | Mistover: Limited Edition | 166270 | [166270-mistover-limited-edition.json](./166270-mistover-limited-edition.json) |
 | Mistpaw Ravine | 373277 | [373277-mistpaw-ravine.json](./373277-mistpaw-ravine.json) |
+| Mistral | 189229 | [189229-mistral.json](./189229-mistral.json) |
 | Mistress Marigold's Home Improvement | 369774 | [369774-mistress-marigolds-home-improvement.json](./369774-mistress-marigolds-home-improvement.json) |
 | Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
@@ -16322,6 +16323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Premium Edition | 249557 | [249557-mojito-the-cat-premium-edition.json](./249557-mojito-the-cat-premium-edition.json) |
 | Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
 | Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
+| Mojito Woody's Rescue | 189213 | [189213-mojito-woodys-rescue.json](./189213-mojito-woodys-rescue.json) |
 | Mojo | 105152 | [105152-mojo.json](./105152-mojo.json) |
 | Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
 | Mojo 2: Mia | 110653 | [110653-mojo-2-mia.json](./110653-mojo-2-mia.json) |
