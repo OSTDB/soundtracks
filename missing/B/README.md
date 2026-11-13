@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Bling Pack | 278190 | [278190-ballisticng-bling-pack.json](./278190-ballisticng-bling-pack.json) |
 | BallisticNG: Deluxe Edition | 278191 | [278191-ballisticng-deluxe-edition.json](./278191-ballisticng-deluxe-edition.json) |
+| BallisticNG: Maceno Island | 214207 | [214207-ballisticng-maceno-island.json](./214207-ballisticng-maceno-island.json) |
 | BallisticNG: Neon Nights | 241238 | [241238-ballisticng-neon-nights.json](./241238-ballisticng-neon-nights.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Ballistik | 339613 | [339613-ballistik.json](./339613-ballistik.json) |
@@ -12534,6 +12535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
 | Blossom: The Seed of Life | 370981 | [370981-blossom-the-seed-of-life.json](./370981-blossom-the-seed-of-life.json) |
+| Blossom's Bloom Boutique | 214659 | [214659-blossoms-bloom-boutique.json](./214659-blossoms-bloom-boutique.json) |
 | Blossom’s Grove: An English-learning Game | 393243 | [393243-blossom-s-grove-an-english-learning-game.json](./393243-blossom-s-grove-an-english-learning-game.json) |
 | Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
