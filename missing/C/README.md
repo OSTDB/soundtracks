@@ -15891,6 +15891,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 1 - Episode 05 | 318838 | [318838-cool-kid-cody-season-1-episode-05.json](./318838-cool-kid-cody-season-1-episode-05.json) |
 | Cool Kid Cody: Season 1 - Episode 06 | 318839 | [318839-cool-kid-cody-season-1-episode-06.json](./318839-cool-kid-cody-season-1-episode-06.json) |
 | Cool Kid Cody: Season 1 - Episode 07 | 202732 | [202732-cool-kid-cody-season-1-episode-07.json](./202732-cool-kid-cody-season-1-episode-07.json) |
+| Cool Kid Cody: Season 1 - Episode 08 | 203973 | [203973-cool-kid-cody-season-1-episode-08.json](./203973-cool-kid-cody-season-1-episode-08.json) |
+| Cool Kid Cody: Season 1 - Episode 09 | 203974 | [203974-cool-kid-cody-season-1-episode-09.json](./203974-cool-kid-cody-season-1-episode-09.json) |
 | Cool Kid Cody: Season 1 - Episode 10 | 204960 | [204960-cool-kid-cody-season-1-episode-10.json](./204960-cool-kid-cody-season-1-episode-10.json) |
 | Cool Kid Cody: Season 2 - Episode 01 | 318840 | [318840-cool-kid-cody-season-2-episode-01.json](./318840-cool-kid-cody-season-2-episode-01.json) |
 | Cool Kid Cody: Season 2 - Episode 02 | 247660 | [247660-cool-kid-cody-season-2-episode-02.json](./247660-cool-kid-cody-season-2-episode-02.json) |
@@ -16052,6 +16054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coral & The Abyss | 311890 | [311890-coral-and-the-abyss.json](./311890-coral-and-the-abyss.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
 | Coral Chronicles: Bookworms and Barnacles - Collector's Edition | 416481 | [416481-coral-chronicles-bookworms-and-barnacles-collectors-edition.json](./416481-coral-chronicles-bookworms-and-barnacles-collectors-edition.json) |
+| Coral Cove | 203975 | [203975-coral-cove.json](./203975-coral-cove.json) |
 | Coral Drive | 192781 | [192781-coral-drive.json](./192781-coral-drive.json) |
 | Coral Island: Kids Grow Up | 424043 | [424043-coral-island-kids-grow-up.json](./424043-coral-island-kids-grow-up.json) |
 | Coral Island: Multiplayer & Romance | 347857 | [347857-coral-island-multiplayer-and-romance.json](./347857-coral-island-multiplayer-and-romance.json) |
@@ -17251,6 +17254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid City | 147174 | [147174-covid-city.json](./147174-covid-city.json) |
 | Covid Kawaii! | 137406 | [137406-covid-kawaii.json](./137406-covid-kawaii.json) |
+| Covid Killer | 203978 | [203978-covid-killer.json](./203978-covid-killer.json) |
 | Covid Quest 2077 | 367600 | [367600-covid-quest-2077.json](./367600-covid-quest-2077.json) |
 | Covid Simulator | 187718 | [187718-covid-simulator.json](./187718-covid-simulator.json) |
 | Covid Tale: ignorance | 147166 | [147166-covid-tale-ignorance.json](./147166-covid-tale-ignorance.json) |
@@ -17302,6 +17306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Duel: Red Wild West Massacre | 305411 | [305411-cowboy-duel-red-wild-west-massacre.json](./305411-cowboy-duel-red-wild-west-massacre.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
+| Cowboy Girl | 203977 | [203977-cowboy-girl.json](./203977-cowboy-girl.json) |
 | Cowboy Gold Round-Up | 103867 | [103867-cowboy-gold-round-up.json](./103867-cowboy-gold-round-up.json) |
 | Cowboy Hell | 207656 | [207656-cowboy-hell.json](./207656-cowboy-hell.json) |
 | Cowboy in Space | 345382 | [345382-cowboy-in-space.json](./345382-cowboy-in-space.json) |
@@ -18644,6 +18649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
+| Crazyness: Weird Village | 203976 | [203976-crazyness-weird-village.json](./203976-crazyness-weird-village.json) |
 | CrazyParty | 192717 | [192717-crazyparty.json](./192717-crazyparty.json) |
 | CrazyRacing AirRider | 186378 | [186378-crazyracing-airrider.json](./186378-crazyracing-airrider.json) |
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
