@@ -9622,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon | 125058 | [125058-pizza-bar-tycoon.json](./125058-pizza-bar-tycoon.json) |
 | Pizza Bar Tycoon: Co-op Edition | 254641 | [254641-pizza-bar-tycoon-co-op-edition.json](./254641-pizza-bar-tycoon-co-op-edition.json) |
 | Pizza Bar Tycoon: Complete Edition | 222235 | [222235-pizza-bar-tycoon-complete-edition.json](./222235-pizza-bar-tycoon-complete-edition.json) |
+| Pizza Bar Tycoon: Deluxe Edition | 211309 | [211309-pizza-bar-tycoon-deluxe-edition.json](./211309-pizza-bar-tycoon-deluxe-edition.json) |
 | Pizza Bar Tycoon: Discovery Edition | 330205 | [330205-pizza-bar-tycoon-discovery-edition.json](./330205-pizza-bar-tycoon-discovery-edition.json) |
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
@@ -13306,6 +13307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygonia | 194191 | [194191-polygonia.json](./194191-polygonia.json) |
 | Polygonle | 214410 | [214410-polygonle.json](./214410-polygonle.json) |
 | Polygons Tower Defense | 266435 | [266435-polygons-tower-defense.json](./266435-polygons-tower-defense.json) |
+| Polygraph: Escape from the Lie Detector | 211318 | [211318-polygraph-escape-from-the-lie-detector.json](./211318-polygraph-escape-from-the-lie-detector.json) |
 | Polygun Arena: Online Shooter | 380502 | [380502-polygun-arena-online-shooter.json](./380502-polygun-arena-online-shooter.json) |
 | Polygunners | 187172 | [187172-polygunners.json](./187172-polygunners.json) |
 | Polygunr | 291038 | [291038-polygunr.json](./291038-polygunr.json) |
@@ -18618,6 +18620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Lives | 413129 | [413129-public-lives.json](./413129-public-lives.json) |
 | Public Restroom Simulator 2022 | 213321 | [213321-public-restroom-simulator-2022.json](./213321-public-restroom-simulator-2022.json) |
 | Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
+| Public Transport Simulator | 211338 | [211338-public-transport-simulator.json](./211338-public-transport-simulator.json) |
 | Public Transport SImulator | 383133 | [383133-public-transport-simulator.json](./383133-public-transport-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
@@ -19913,6 +19916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Fuzz: Idle Stories | 102009 | [102009-puzzle-fuzz-idle-stories.json](./102009-puzzle-fuzz-idle-stories.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
+| Puzzle Galaxy | 211315 | [211315-puzzle-galaxy.json](./211315-puzzle-galaxy.json) |
 | Puzzle Galaxy: Animal Album | 212363 | [212363-puzzle-galaxy-animal-album.json](./212363-puzzle-galaxy-animal-album.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
 | Puzzle Galaxy: Beautiful Views | 212362 | [212362-puzzle-galaxy-beautiful-views.json](./212362-puzzle-galaxy-beautiful-views.json) |
