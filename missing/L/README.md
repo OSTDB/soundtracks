@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Pandora | 365970 | [365970-legacy-of-pandora.json](./365970-legacy-of-pandora.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
 | Legacy of Shnaus: Horror Room Escape | 386196 | [386196-legacy-of-shnaus-horror-room-escape.json](./386196-legacy-of-shnaus-horror-room-escape.json) |
+| Legacy of Sin: Blood Oath | 199527 | [199527-legacy-of-sin-blood-oath.json](./199527-legacy-of-sin-blood-oath.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
 | Legacy of Sin: The Father Sacrifice | 129984 | [129984-legacy-of-sin-the-father-sacrifice.json](./129984-legacy-of-sin-the-father-sacrifice.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Keepers: Deluxe Edition | 220941 | [220941-legend-of-keepers-deluxe-edition.json](./220941-legend-of-keepers-deluxe-edition.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
 | Legend of Keepers: Return of the Goddess | 152106 | [152106-legend-of-keepers-return-of-the-goddess.json](./152106-legend-of-keepers-return-of-the-goddess.json) |
+| Legend of Keepers: Soul Smugglers | 199559 | [199559-legend-of-keepers-soul-smugglers.json](./199559-legend-of-keepers-soul-smugglers.json) |
 | Legend of Kendor | 204607 | [204607-legend-of-kendor.json](./204607-legend-of-kendor.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Krannia: Cursed Fate | 144626 | [144626-legend-of-krannia-cursed-fate.json](./144626-legend-of-krannia-cursed-fate.json) |
@@ -6271,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
 | Litha and the Sunhouse | 220394 | [220394-litha-and-the-sunhouse.json](./220394-litha-and-the-sunhouse.json) |
+| Lithium | 199414 | [199414-lithium.json](./199414-lithium.json) |
 | Lithium | 369813 | [369813-lithium.json](./369813-lithium.json) |
 | Lithium City | 134543 | [134543-lithium-city.json](./134543-lithium-city.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
@@ -10622,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumoraVR | 426456 | [426456-lumoravr.json](./426456-lumoravr.json) |
 | Lumos | 295613 | [295613-lumos.json](./295613-lumos.json) |
 | Lumote: Digital Deluxe Edition | 199189 | [199189-lumote-digital-deluxe-edition.json](./199189-lumote-digital-deluxe-edition.json) |
+| Lumote: The Mastermote Chronicles - Digital Deluxe Edition | 199413 | [199413-lumote-the-mastermote-chronicles-digital-deluxe-edition.json](./199413-lumote-the-mastermote-chronicles-digital-deluxe-edition.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
 | Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
 | Lumz | 232288 | [232288-lumz.json](./232288-lumz.json) |
