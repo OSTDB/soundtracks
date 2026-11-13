@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Basketball | 49084 | [49084-gb-basketball.json](./49084-gb-basketball.json) |
 | GB Corp. | 218086 | [218086-gb-corp.json](./218086-gb-corp.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
+| GB Doom | 181832 | [181832-gb-doom.json](./181832-gb-doom.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Harobots | 281454 | [281454-gb-harobots.json](./281454-gb-harobots.json) |
 | GB Pachi-Slot Hisshouhou! Jr. | 307997 | [307997-gb-pachi-slot-hisshouhou-jr.json](./307997-gb-pachi-slot-hisshouhou-jr.json) |
