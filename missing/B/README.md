@@ -4191,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
+| Battle Live: Halloween Live | 179764 | [179764-battle-live-halloween-live.json](./179764-battle-live-halloween-live.json) |
 | Battle Live! School of idols | 350676 | [350676-battle-live-school-of-idols.json](./350676-battle-live-school-of-idols.json) |
 | Battle Lode Runner | 42086 | [42086-battle-lode-runner.json](./42086-battle-lode-runner.json) |
 | Battle Lust | 152615 | [152615-battle-lust.json](./152615-battle-lust.json) |
@@ -16473,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Bread Makes the Heart Aflutter | 368693 | [368693-bread-makes-the-heart-aflutter.json](./368693-bread-makes-the-heart-aflutter.json) |
+| Bread Minus | 179770 | [179770-bread-minus.json](./179770-bread-minus.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
 | Bread Puppies | 62046 | [62046-bread-puppies.json](./62046-bread-puppies.json) |
 | BreadAttack | 276689 | [276689-breadattack.json](./276689-breadattack.json) |
@@ -16886,6 +16888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Brian's Soccer Simulator | 182146 | [182146-brians-soccer-simulator.json](./182146-brians-soccer-simulator.json) |
+| Briar & Bramble | 179759 | [179759-briar-and-bramble.json](./179759-briar-and-bramble.json) |
 | Briar Flame | 379707 | [379707-briar-flame.json](./379707-briar-flame.json) |
 | Bric | 31124 | [31124-bric.json](./31124-bric.json) |
 | Bric à Brac | 188971 | [188971-bric-a-brac.json](./188971-bric-a-brac.json) |
@@ -19033,6 +19036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullseye | 74169 | [74169-bullseye.json](./74169-bullseye.json) |
 | Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
+| BullShoppe | 180157 | [180157-bullshoppe.json](./180157-bullshoppe.json) |
 | Bullshot | 26221 | [26221-bullshot.json](./26221-bullshot.json) |
 | BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
@@ -19158,6 +19162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Complete Edition | 399813 | [399813-bun-buns-complete-edition.json](./399813-bun-buns-complete-edition.json) |
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
+| Bun Snap | 180175 | [180175-bun-snap.json](./180175-bun-snap.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
 | Bunbons | 210322 | [210322-bunbons.json](./210322-bunbons.json) |
