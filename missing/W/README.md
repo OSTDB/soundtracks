@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | Wait | 80056 | [80056-wait.json](./80056-wait.json) |
 | Wait and See! | 247272 | [247272-wait-and-see.json](./247272-wait-and-see.json) |
+| Wait for Daylight | 201336 | [201336-wait-for-daylight.json](./201336-wait-for-daylight.json) |
 | Wait For It | 184238 | [184238-wait-for-it.json](./184238-wait-for-it.json) |
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait, Is That Me? | 364653 | [364653-wait-is-that-me.json](./364653-wait-is-that-me.json) |
