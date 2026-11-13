@@ -7160,6 +7160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
 | Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
 | Lizard Lady vs. the Cats: Platinum Edition | 206306 | [206306-lizard-lady-vs-the-cats-platinum-edition.json](./206306-lizard-lady-vs-the-cats-platinum-edition.json) |
+| Lizard Maker | 178717 | [178717-lizard-maker.json](./178717-lizard-maker.json) |
 | Lizard Noisemaker | 388078 | [388078-lizard-noisemaker.json](./388078-lizard-noisemaker.json) |
 | Lizard Quest | 229627 | [229627-lizard-quest.json](./229627-lizard-quest.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
