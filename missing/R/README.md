@@ -6865,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the USSR | 291854 | [291854-return-of-the-ussr.json](./291854-return-of-the-ussr.json) |
 | Return of the Video Dead: Demon in the Shell | 197283 | [197283-return-of-the-video-dead-demon-in-the-shell.json](./197283-return-of-the-video-dead-demon-in-the-shell.json) |
 | Return of the Zombie King | 57336 | [57336-return-of-the-zombie-king.json](./57336-return-of-the-zombie-king.json) |
+| Return of Touhou Mother | 191767 | [191767-return-of-touhou-mother.json](./191767-return-of-touhou-mother.json) |
 | Return of Warrior | 259491 | [259491-return-of-warrior.json](./259491-return-of-warrior.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return Survival | 321517 | [321517-return-survival.json](./321517-return-survival.json) |
