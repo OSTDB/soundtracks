@@ -15956,6 +15956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter 271 | 13516 | [13516-copter-271.json](./13516-copter-271.json) |
 | Copter and Sky | 32101 | [32101-copter-and-sky.json](./32101-copter-and-sky.json) |
 | Copter Besieged | 345649 | [345649-copter-besieged.json](./345649-copter-besieged.json) |
+| Copter Blocks | 232595 | [232595-copter-blocks.json](./232595-copter-blocks.json) |
 | Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copter Crisis | 51123 | [51123-copter-crisis.json](./51123-copter-crisis.json) |
