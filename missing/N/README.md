@@ -6581,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Noara: The Conspiracy | 178357 | [178357-noara-the-conspiracy.json](./178357-noara-the-conspiracy.json) |
+| Nob Hero | 200077 | [200077-nob-hero.json](./200077-nob-hero.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Nobelia | 224950 | [224950-nobelia.json](./224950-nobelia.json) |
@@ -8217,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Color | 104396 | [104396-number-color.json](./104396-number-color.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
+| Number Diner | 200075 | [200075-number-diner.json](./200075-number-diner.json) |
 | Number Drawing - Coloring Book | 88990 | [88990-number-drawing-coloring-book.json](./88990-number-drawing-coloring-book.json) |
 | Number Drop | 370389 | [370389-number-drop.json](./370389-number-drop.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
@@ -8262,6 +8264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number World | 63735 | [63735-number-world.json](./63735-number-world.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
 | Number8 | 246794 | [246794-number8.json](./246794-number8.json) |
+| Numberama 2 | 200100 | [200100-numberama-2.json](./200100-numberama-2.json) |
 | Numberball | 133535 | [133535-numberball.json](./133535-numberball.json) |
 | Numberful | 58109 | [58109-numberful.json](./58109-numberful.json) |
 | Numberic Puzzle 2018 | 103154 | [103154-numberic-puzzle-2018.json](./103154-numberic-puzzle-2018.json) |
