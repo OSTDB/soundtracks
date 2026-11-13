@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Fun: Piece It Together | 146791 | [146791-jigsaw-fun-piece-it-together.json](./146791-jigsaw-fun-piece-it-together.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Gallery | 97057 | [97057-jigsaw-gallery.json](./97057-jigsaw-gallery.json) |
+| Jigsaw Game | 179219 | [179219-jigsaw-game.json](./179219-jigsaw-game.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
 | Jigsaw Hyottoko Club | 291166 | [291166-jigsaw-hyottoko-club.json](./291166-jigsaw-hyottoko-club.json) |
 | Jigsaw Ice Princess | 271272 | [271272-jigsaw-ice-princess.json](./271272-jigsaw-ice-princess.json) |
@@ -3241,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubeat Saucer Fulfill | 60821 | [60821-jubeat-saucer-fulfill.json](./60821-jubeat-saucer-fulfill.json) |
 | Jubeez | 171441 | [171441-jubeez.json](./171441-jubeez.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
+| Jubilee | 179231 | [179231-jubilee.json](./179231-jubilee.json) |
 | Jubilee | 366357 | [366357-jubilee.json](./366357-jubilee.json) |
 | Jubilee's Journey: A Jane Goodall Environmental Adventure | 59345 | [59345-jubilees-journey-a-jane-goodall-environmental-adventure.json](./59345-jubilees-journey-a-jane-goodall-environmental-adventure.json) |
 | JuBox | 334809 | [334809-jubox.json](./334809-jubox.json) |
@@ -4500,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Move: Clean City Messy Battle | 366961 | [366961-just-move-clean-city-messy-battle.json](./366961-just-move-clean-city-messy-battle.json) |
 | Just Old | 150927 | [150927-just-old.json](./150927-just-old.json) |
 | Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
+| Just One Boss | 179648 | [179648-just-one-boss.json](./179648-just-one-boss.json) |
 | Just One Chance | 181701 | [181701-just-one-chance.json](./181701-just-one-chance.json) |
 | Just One Color | 87951 | [87951-just-one-color.json](./87951-just-one-color.json) |
 | Just One Line | 40702 | [40702-just-one-line.json](./40702-just-one-line.json) |
