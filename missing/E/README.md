@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
+| Eggs War | 185051 | [185051-eggs-war.json](./185051-eggs-war.json) |
 | Eggs: All Guns Broken | 316155 | [316155-eggs-all-guns-broken.json](./316155-eggs-all-guns-broken.json) |
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
 | Eggson | 362772 | [362772-eggson.json](./362772-eggson.json) |
