@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/f4/44/fef44435-99ec-8b72-25b8-d6817546b1ac/198595859636.jpg/600x600bb.jpg" width="60" /> | [Tactical Breach Wizards](https://ostdb.net/games/tactical-breach-wizards) | **Tactical Breach Wizards (Original Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4) · [Album](https://album.link/i/1769289561) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27377a81ef61f5a8d413f2c0c93" width="60" /> | [Tadpole Treble](https://ostdb.net/games/tadpole-treble) | **Tadpole Treble (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0PFDLSFnLyzAxQyEYzeaxe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366520f3250d51b9bd86deb09" width="60" /> | [Taiji](https://ostdb.net/games/taiji) | **Taiji (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/23PNDejRxtKAizWgjcbAPG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c7189aa61f03fed5e828460" width="60" /> | [Taimumari](https://ostdb.net/games/taimumari) | **Taimumari (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5DmfnMyGRMpQNDoop9Usc4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e77098dcd4f9adcae81462b1" width="60" /> | [Tainted Grail: Conquest](https://ostdb.net/games/tainted-grail-conquest) | **Tainted Grail: Conquest — Original Soundtrack** · [Spotify](https://open.spotify.com/album/2AtZwBG5vQsDLgnEOfKX2w) |
