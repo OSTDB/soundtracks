@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
 | Infinite Dungeon Crawler | 148827 | [148827-infinite-dungeon-crawler.json](./148827-infinite-dungeon-crawler.json) |
 | Infinite Dungeon Crawler: The Abysmal Furnaces | 174535 | [174535-infinite-dungeon-crawler-the-abysmal-furnaces.json](./174535-infinite-dungeon-crawler-the-abysmal-furnaces.json) |
+| Infinite Dungeon Crawler: The Caverns of Grimlock | 195282 | [195282-infinite-dungeon-crawler-the-caverns-of-grimlock.json](./195282-infinite-dungeon-crawler-the-caverns-of-grimlock.json) |
 | Infinite Dungeon Crawler: The Frozen Expanse | 170797 | [170797-infinite-dungeon-crawler-the-frozen-expanse.json](./170797-infinite-dungeon-crawler-the-frozen-expanse.json) |
 | Infinite Dungeon Crawler: The Infernal Dungeons | 155348 | [155348-infinite-dungeon-crawler-the-infernal-dungeons.json](./155348-infinite-dungeon-crawler-the-infernal-dungeons.json) |
 | Infinite Dungeon Crawler: The Swampy Isles | 250799 | [250799-infinite-dungeon-crawler-the-swampy-isles.json](./250799-infinite-dungeon-crawler-the-swampy-isles.json) |
