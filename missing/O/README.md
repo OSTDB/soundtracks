@@ -4134,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Salvager | 267556 | [267556-orbit-salvager.json](./267556-orbit-salvager.json) |
 | Orbit VR | 199320 | [199320-orbit-vr.json](./199320-orbit-vr.json) |
 | Orbit Zero | 260593 | [260593-orbit-zero.json](./260593-orbit-zero.json) |
+| Orbit-Hopper | 210791 | [210791-orbit-hopper.json](./210791-orbit-hopper.json) |
 | Orbit: Playing with Gravity | 30651 | [30651-orbit-playing-with-gravity.json](./30651-orbit-playing-with-gravity.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
@@ -4189,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitality | 81007 | [81007-orbitality.json](./81007-orbitality.json) |
 | Orbitals | 133119 | [133119-orbitals.json](./133119-orbitals.json) |
 | Orbitals: Deluxe Edition | 407108 | [407108-orbitals-deluxe-edition.json](./407108-orbitals-deluxe-edition.json) |
+| OrbiTank | 210796 | [210796-orbitank.json](./210796-orbitank.json) |
 | Orbitblazers | 127509 | [127509-orbitblazers.json](./127509-orbitblazers.json) |
 | Orbitcore | 408439 | [408439-orbitcore.json](./408439-orbitcore.json) |
 | Orbitect | 156858 | [156858-orbitect.json](./156858-orbitect.json) |
@@ -5160,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
 | Oukoku Shoutengai | 138427 | [138427-oukoku-shoutengai.json](./138427-oukoku-shoutengai.json) |
 | Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
+| Ouma ga Toki | 210779 | [210779-ouma-ga-toki.json](./210779-ouma-ga-toki.json) |
 | Ouma ga Toki: Kakuriyo no Enishi | 131909 | [131909-ouma-ga-toki-kakuriyo-no-enishi.json](./131909-ouma-ga-toki-kakuriyo-no-enishi.json) |
 | Oumagatoki 2 | 112544 | [112544-oumagatoki-2.json](./112544-oumagatoki-2.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
