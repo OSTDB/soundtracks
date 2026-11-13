@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candyland: Sweet Survival | 290592 | [290592-candyland-sweet-survival.json](./290592-candyland-sweet-survival.json) |
 | Candylands Journey | 355982 | [355982-candylands-journey.json](./355982-candylands-journey.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
+| Candyman: Be My Victim Demake | 234378 | [234378-candyman-be-my-victim-demake.json](./234378-candyman-be-my-victim-demake.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
@@ -4905,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | CatDog | 217951 | [217951-catdog.json](./217951-catdog.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
+| CatDog Puzzle | 234961 | [234961-catdog-puzzle.json](./234961-catdog-puzzle.json) |
 | CatDog: Quest for the Golden Hydrant | 7569 | [7569-catdog-quest-for-the-golden-hydrant.json](./7569-catdog-quest-for-the-golden-hydrant.json) |
 | CatDog: Saving Mean Bob | 206905 | [206905-catdog-saving-mean-bob.json](./206905-catdog-saving-mean-bob.json) |
 | Cate P | 254629 | [254629-cate-p.json](./254629-cate-p.json) |
@@ -18352,6 +18354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Indian: Monster Skins | 157557 | [157557-crazy-indian-monster-skins.json](./157557-crazy-indian-monster-skins.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy Invader ShootEm Down | 195912 | [195912-crazy-invader-shootem-down.json](./195912-crazy-invader-shootem-down.json) |
+| Crazy islands | 234380 | [234380-crazy-islands.json](./234380-crazy-islands.json) |
 | Crazy Jack | 301496 | [301496-crazy-jack.json](./301496-crazy-jack.json) |
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
 | Crazy Jump | 158121 | [158121-crazy-jump.json](./158121-crazy-jump.json) |
