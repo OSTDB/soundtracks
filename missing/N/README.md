@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanpure 10000 + Puzzle no Mado | 136971 | [136971-nanpure-10000-puzzle-no-mado.json](./136971-nanpure-10000-puzzle-no-mado.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nantara Adventures | 259001 | [259001-nantara-adventures.json](./259001-nantara-adventures.json) |
+| Nantettatte Aki Shimai | 208511 | [208511-nantettatte-aki-shimai.json](./208511-nantettatte-aki-shimai.json) |
 | Nantettatte Engine | 308407 | [308407-nantettatte-engine.json](./308407-nantettatte-engine.json) |
 | Nantettatte!! Baseball | 48811 | [48811-nantettatte-baseball.json](./48811-nantettatte-baseball.json) |
 | Nantettatte!! Baseball '91 Kaimaku-hen | 48810 | [48810-nantettatte-baseball-91-kaimaku-hen.json](./48810-nantettatte-baseball-91-kaimaku-hen.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
+| Neon Breaker | 208531 | [208531-neon-breaker.json](./208531-neon-breaker.json) |
 | Neon Breaker: Endless Arcade | 424615 | [424615-neon-breaker-endless-arcade.json](./424615-neon-breaker-endless-arcade.json) |
 | Neon Bricks | 189786 | [189786-neon-bricks.json](./189786-neon-bricks.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
@@ -3688,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario World 1: The Twelve Magic Orbs | 130007 | [130007-new-super-mario-world-1-the-twelve-magic-orbs.json](./130007-new-super-mario-world-1-the-twelve-magic-orbs.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
 | New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
+| New Super Realistic Mario Bros. | 208506 | [208506-new-super-realistic-mario-bros.json](./208506-new-super-realistic-mario-bros.json) |
 | New Super Triv III | 307370 | [307370-new-super-triv-iii.json](./307370-new-super-triv-iii.json) |
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
 | New Survival Shooter! | 75548 | [75548-new-survival-shooter.json](./75548-new-survival-shooter.json) |
@@ -4575,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dessert | 334458 | [334458-night-dessert.json](./334458-night-dessert.json) |
 | Night Detective | 90229 | [90229-night-detective.json](./90229-night-detective.json) |
+| Night Detective: Decrepit Manor | 208496 | [208496-night-detective-decrepit-manor.json](./208496-night-detective-decrepit-manor.json) |
 | Night Doner | 318378 | [318378-night-doner.json](./318378-night-doner.json) |
 | Night Dream | 26797 | [26797-night-dream.json](./26797-night-dream.json) |
 | Night Dreamer | 154058 | [154058-night-dreamer.json](./154058-night-dreamer.json) |
