@@ -5823,11 +5823,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rift 9 | 176193 | [176193-deep-rift-9.json](./176193-deep-rift-9.json) |
 | Deep Rock Galactic: Biohazard Pack | 224174 | [224174-deep-rock-galactic-biohazard-pack.json](./224174-deep-rock-galactic-biohazard-pack.json) |
 | Deep Rock Galactic: Dark Future Pack | 224178 | [224178-deep-rock-galactic-dark-future-pack.json](./224178-deep-rock-galactic-dark-future-pack.json) |
+| Deep Rock Galactic: Dawn of the Dread Pack | 224184 | [224184-deep-rock-galactic-dawn-of-the-dread-pack.json](./224184-deep-rock-galactic-dawn-of-the-dread-pack.json) |
 | Deep Rock Galactic: Decontaminator Pack | 289559 | [289559-deep-rock-galactic-decontaminator-pack.json](./289559-deep-rock-galactic-decontaminator-pack.json) |
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
+| Deep Rock Galactic: MegaCorp Pack | 224182 | [224182-deep-rock-galactic-megacorp-pack.json](./224182-deep-rock-galactic-megacorp-pack.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Rival Tech Pack | 224176 | [224176-deep-rock-galactic-rival-tech-pack.json](./224176-deep-rock-galactic-rival-tech-pack.json) |
 | Deep Rock Galactic: Robot Rebellion Pack | 224175 | [224175-deep-rock-galactic-robot-rebellion-pack.json](./224175-deep-rock-galactic-robot-rebellion-pack.json) |
+| Deep Rock Galactic: Roughneck Pack | 224183 | [224183-deep-rock-galactic-roughneck-pack.json](./224183-deep-rock-galactic-roughneck-pack.json) |
 | Deep Rock Galactic: Season 2 - Rival Escalation | 209974 | [209974-deep-rock-galactic-season-2-rival-escalation.json](./209974-deep-rock-galactic-season-2-rival-escalation.json) |
 | Deep Rock Galactic: Season 3 - Plaguefall | 224166 | [224166-deep-rock-galactic-season-3-plaguefall.json](./224166-deep-rock-galactic-season-3-plaguefall.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
