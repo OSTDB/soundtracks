@@ -3053,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3866,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Amalur: Reckoning - Teeth of Naros | 14676 | [14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json](./14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of England | 55988 | [55988-kingdoms-of-england.json](./55988-kingdoms-of-england.json) |
+| Kingdoms of Ereloth | 238711 | [238711-kingdoms-of-ereloth.json](./238711-kingdoms-of-ereloth.json) |
 | Kingdoms Of Eternity | 318488 | [318488-kingdoms-of-eternity.json](./318488-kingdoms-of-eternity.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
@@ -4200,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kirikou and the Wild Beasts | 131862 | [131862-kirikou-and-the-wild-beasts.json](./131862-kirikou-and-the-wild-beasts.json) |
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
+| Kirin Come | 238704 | [238704-kirin-come.json](./238704-kirin-come.json) |
 | Kirin no Kuni | 317157 | [317157-kirin-no-kuni.json](./317157-kirin-no-kuni.json) |
 | Kirisame Escape | 377363 | [377363-kirisame-escape.json](./377363-kirisame-escape.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
