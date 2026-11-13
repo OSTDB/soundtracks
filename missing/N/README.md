@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Queens | 271887 | [271887-naughty-queens.json](./271887-naughty-queens.json) |
 | Naughty study for exams with a ghost | 111240 | [111240-naughty-study-for-exams-with-a-ghost.json](./111240-naughty-study-for-exams-with-a-ghost.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
+| Naughty Waifu | 197305 | [197305-naughty-waifu.json](./197305-naughty-waifu.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Naui Yeou Yukseong Ilji | 219833 | [219833-naui-yeou-yukseong-ilji.json](./219833-naui-yeou-yukseong-ilji.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
@@ -3536,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Home: Medieval Village | 153903 | [153903-new-home-medieval-village.json](./153903-new-home-medieval-village.json) |
 | New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
+| New Horizon | 197295 | [197295-new-horizon.json](./197295-new-horizon.json) |
 | New Horizons Remastered | 176654 | [176654-new-horizons-remastered.json](./176654-new-horizons-remastered.json) |
 | New HR Job | 301465 | [301465-new-hr-job.json](./301465-new-hr-job.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
