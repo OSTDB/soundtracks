@@ -4745,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate: London VR | 36778 | [36778-hellgate-london-vr.json](./36778-hellgate-london-vr.json) |
 | Hellgate: Redemption | 294051 | [294051-hellgate-redemption.json](./294051-hellgate-redemption.json) |
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
+| Hellgineers | 242753 | [242753-hellgineers.json](./242753-hellgineers.json) |
 | Hellgrinder | 236110 | [236110-hellgrinder.json](./236110-hellgrinder.json) |
 | HellGunner | 28765 | [28765-hellgunner.json](./28765-hellgunner.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
@@ -11260,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga | 100678 | [100678-hoshi-saga.json](./100678-hoshi-saga.json) |
 | Hoshi Saga 2 | 100679 | [100679-hoshi-saga-2.json](./100679-hoshi-saga-2.json) |
 | Hoshi Saga 3 | 377220 | [377220-hoshi-saga-3.json](./377220-hoshi-saga-3.json) |
+| Hoshi Saga 4: Ringo | 242823 | [242823-hoshi-saga-4-ringo.json](./242823-hoshi-saga-4-ringo.json) |
 | Hoshi Saga 5: Ringoame | 377262 | [377262-hoshi-saga-5-ringoame.json](./377262-hoshi-saga-5-ringoame.json) |
 | Hoshi Saga 6: Ringoen | 377712 | [377712-hoshi-saga-6-ringoen.json](./377712-hoshi-saga-6-ringoen.json) |
 | Hoshi Saga 7: Ringohime | 377554 | [377554-hoshi-saga-7-ringohime.json](./377554-hoshi-saga-7-ringohime.json) |
