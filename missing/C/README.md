@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Against Formality | 287005 | [287005-cards-against-formality.json](./287005-cards-against-formality.json) |
 | Cards Against Humanity Lab | 235260 | [235260-cards-against-humanity-lab.json](./235260-cards-against-humanity-lab.json) |
 | Cards Against Insanity | 176397 | [176397-cards-against-insanity.json](./176397-cards-against-insanity.json) |
+| Cards Against Online | 240443 | [240443-cards-against-online.json](./240443-cards-against-online.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Castles Ultimate | 361494 | [361494-cards-and-castles-ultimate.json](./361494-cards-and-castles-ultimate.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardwoven Empires | 337828 | [337828-cardwoven-empires.json](./337828-cardwoven-empires.json) |
 | Cardygon | 367579 | [367579-cardygon.json](./367579-cardygon.json) |
 | CardyHeim | 284808 | [284808-cardyheim.json](./284808-cardyheim.json) |
+| Care | 240437 | [240437-care.json](./240437-care.json) |
 | Care | 325046 | [325046-care.json](./325046-care.json) |
 | Care Bears | 220539 | [220539-care-bears.json](./220539-care-bears.json) |
 | Care Bears | 282634 | [282634-care-bears.json](./282634-care-bears.json) |
@@ -6379,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions | 278368 | [278368-champions.json](./278368-champions.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
+| Champions Ascension | 240431 | [240431-champions-ascension.json](./240431-champions-ascension.json) |
 | Champions Forces | 129461 | [129461-champions-forces.json](./129461-champions-forces.json) |
 | Champions Forever Boxing | 42115 | [42115-champions-forever-boxing.json](./42115-champions-forever-boxing.json) |
 | Champions Legion | 133606 | [133606-champions-legion.json](./133606-champions-legion.json) |
@@ -21919,6 +21922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
+| Cut Strings | 239960 | [239960-cut-strings.json](./239960-cut-strings.json) |
 | Cut That Wire | 368173 | [368173-cut-that-wire.json](./368173-cut-that-wire.json) |
 | Cut the Birch | 309932 | [309932-cut-the-birch.json](./309932-cut-the-birch.json) |
 | Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
