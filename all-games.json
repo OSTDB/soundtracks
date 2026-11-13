@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T06:20:51.940Z",
-  "total_soundtracks": 3271,
+  "generated_at": "2026-11-13T06:35:54.977Z",
+  "total_soundtracks": 3272,
   "games": [
     {
       "igdb_id": 7522,
@@ -34553,6 +34553,20 @@
         {
           "album_name": "Teslagrad 2 (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/61JzuHiyPhJFZ1GWAor7RA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20961,
+      "game_name": "Teslapunk",
+      "game_url": "https://ostdb.net/games/teslapunk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273536aecc5c33a954322267e04",
+      "albums": [
+        {
+          "album_name": "Teslapunk Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6yy1z0VRPDcSOuIaskRQvA",
           "apple_music_url": "",
           "album_link_url": ""
         }
