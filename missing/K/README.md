@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King Kong 2: Yomigaeru Densetsu | 41689 | [41689-king-kong-2-yomigaeru-densetsu.json](./41689-king-kong-2-yomigaeru-densetsu.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
+| King Kong of Skull Island | 234788 | [234788-king-kong-of-skull-island.json](./234788-king-kong-of-skull-island.json) |
 | King Kong: The Official Mobile Game of the Movie | 227627 | [227627-king-kong-the-official-mobile-game-of-the-movie.json](./227627-king-kong-the-official-mobile-game-of-the-movie.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
 | King Leo | 178782 | [178782-king-leo.json](./178782-king-leo.json) |
