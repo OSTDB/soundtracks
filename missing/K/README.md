@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Your Friends | 133190 | [133190-kill-your-friends.json](./133190-kill-your-friends.json) |
 | Kill Your Friends | 407298 | [407298-kill-your-friends.json](./407298-kill-your-friends.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
+| Kill Your Inner Cop | 184004 | [184004-kill-your-inner-cop.json](./184004-kill-your-inner-cop.json) |
 | Kill Your Shapes | 243537 | [243537-kill-your-shapes.json](./243537-kill-your-shapes.json) |
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
 | Kill Z: Battle Royale | 427238 | [427238-kill-z-battle-royale.json](./427238-kill-z-battle-royale.json) |
