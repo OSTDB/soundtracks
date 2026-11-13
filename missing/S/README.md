@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
 | Scooby-Doo: Jinx at the Sphinx | 67791 | [67791-scooby-doo-jinx-at-the-sphinx.json](./67791-scooby-doo-jinx-at-the-sphinx.json) |
 | Scooby-Doo: Math Times Two | 108790 | [108790-scooby-doo-math-times-two.json](./108790-scooby-doo-math-times-two.json) |
+| Scooby-Doo: Mayan Mayhem! | 232724 | [232724-scooby-doo-mayan-mayhem.json](./232724-scooby-doo-mayan-mayhem.json) |
 | Scooby-Doo: Phantom of the Knight | 67789 | [67789-scooby-doo-phantom-of-the-knight.json](./67789-scooby-doo-phantom-of-the-knight.json) |
 | Scooby-Doo: Showdown in Ghost Town | 67790 | [67790-scooby-doo-showdown-in-ghost-town.json](./67790-scooby-doo-showdown-in-ghost-town.json) |
 | Scooby-Doo: Spooky Snacks | 108780 | [108780-scooby-doo-spooky-snacks.json](./108780-scooby-doo-spooky-snacks.json) |
@@ -8611,6 +8612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter: Complete Edition | 53600 | [53600-shelter-complete-edition.json](./53600-shelter-complete-edition.json) |
 | Shelter: The Heart Edition | 53599 | [53599-shelter-the-heart-edition.json](./53599-shelter-the-heart-edition.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
+| Sheltered Deep | 232209 | [232209-sheltered-deep.json](./232209-sheltered-deep.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
@@ -22032,6 +22034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
 | Space War | 171888 | [171888-space-war.json](./171888-space-war.json) |
+| Space War | 232222 | [232222-space-war.json](./232222-space-war.json) |
 | Space War | 54792 | [54792-space-war.json](./54792-space-war.json) |
 | Space War - Retro Shooter | 96596 | [96596-space-war-retro-shooter.json](./96596-space-war-retro-shooter.json) |
 | Space War 2000 | 40831 | [40831-space-war-2000.json](./40831-space-war-2000.json) |
@@ -27851,6 +27854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starstrike 2 | 39133 | [39133-starstrike-2.json](./39133-starstrike-2.json) |
 | Starstrike II | 28470 | [28470-starstrike-ii.json](./28470-starstrike-ii.json) |
 | Starstruck | 116842 | [116842-starstruck.json](./116842-starstruck.json) |
+| Starstruck | 232201 | [232201-starstruck.json](./232201-starstruck.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | StarStruck | 220503 | [220503-starstruck.json](./220503-starstruck.json) |
 | Starstruck Vagabond | 183227 | [183227-starstruck-vagabond.json](./183227-starstruck-vagabond.json) |
@@ -29454,6 +29458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Arena | 106098 | [106098-stone-arena.json](./106098-stone-arena.json) |
 | Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
+| Stone Cage | 232204 | [232204-stone-cage.json](./232204-stone-cage.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
 | Stone Crawler | 136614 | [136614-stone-crawler.json](./136614-stone-crawler.json) |
 | Stone Crawler Plus | 335041 | [335041-stone-crawler-plus.json](./335041-stone-crawler-plus.json) |
@@ -31115,6 +31120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
+| Stroke the Horse | 232719 | [232719-stroke-the-horse.json](./232719-stroke-the-horse.json) |
 | Stroke the Koala | 243607 | [243607-stroke-the-koala.json](./243607-stroke-the-koala.json) |
 | Stroke the Parrot | 218941 | [218941-stroke-the-parrot.json](./218941-stroke-the-parrot.json) |
 | Stroke the Rabbit | 218939 | [218939-stroke-the-rabbit.json](./218939-stroke-the-rabbit.json) |
