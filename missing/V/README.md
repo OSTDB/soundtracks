@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers | 36372 | [36372-viking-brothers.json](./36372-viking-brothers.json) |
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
 | Viking Brothers 3 CE | 104452 | [104452-viking-brothers-3-ce.json](./104452-viking-brothers-3-ce.json) |
+| Viking Brothers 3: Collector's Edition | 177091 | [177091-viking-brothers-3-collectors-edition.json](./177091-viking-brothers-3-collectors-edition.json) |
 | Viking Brothers III | 99458 | [99458-viking-brothers-iii.json](./99458-viking-brothers-iii.json) |
 | Viking Brothers IV | 99436 | [99436-viking-brothers-iv.json](./99436-viking-brothers-iv.json) |
 | Viking Brothers V | 117340 | [117340-viking-brothers-v.json](./117340-viking-brothers-v.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Heroes 4 | 252319 | [252319-viking-heroes-4.json](./252319-viking-heroes-4.json) |
 | Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
+| Viking Heroes: Collector's Edition | 177080 | [177080-viking-heroes-collectors-edition.json](./177080-viking-heroes-collectors-edition.json) |
 | Viking Hiking | 257274 | [257274-viking-hiking.json](./257274-viking-hiking.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
 | Viking Invaders | 249976 | [249976-viking-invaders.json](./249976-viking-invaders.json) |
@@ -2938,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
 | Virtual Family Working Mom: Virtual Mother Game | 100973 | [100973-virtual-family-working-mom-virtual-mother-game.json](./100973-virtual-family-working-mom-virtual-mother-game.json) |
 | Virtual Family: Happy Mom Care | 108613 | [108613-virtual-family-happy-mom-care.json](./108613-virtual-family-happy-mom-care.json) |
+| Virtual Farm | 177059 | [177059-virtual-farm.json](./177059-virtual-farm.json) |
 | Virtual Farm 2 | 53157 | [53157-virtual-farm-2.json](./53157-virtual-farm-2.json) |
 | Virtual Fight World | 311231 | [311231-virtual-fight-world.json](./311231-virtual-fight-world.json) |
 | Virtual Fighter Maneuvers | 383982 | [383982-virtual-fighter-maneuvers.json](./383982-virtual-fighter-maneuvers.json) |
@@ -4163,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
 | Voyage Senki VR | 95142 | [95142-voyage-senki-vr.json](./95142-voyage-senki-vr.json) |
 | Voyage to Fantasy | 53151 | [53151-voyage-to-fantasy.json](./53151-voyage-to-fantasy.json) |
+| Voyage to Fantasy: Part 1 | 177072 | [177072-voyage-to-fantasy-part-1.json](./177072-voyage-to-fantasy-part-1.json) |
 | Voyage to Farland | 35418 | [35418-voyage-to-farland.json](./35418-voyage-to-farland.json) |
 | Voyage Trader | 420482 | [420482-voyage-trader.json](./420482-voyage-trader.json) |
 | Voyage: A Sorceress' Vacation | 146629 | [146629-voyage-a-sorceress-vacation.json](./146629-voyage-a-sorceress-vacation.json) |
