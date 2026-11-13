@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Party: Pop Hits | 50929 | [50929-dance-party-pop-hits.json](./50929-dance-party-pop-hits.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
+| Dance Rail 3 | 220889 | [220889-dance-rail-3.json](./220889-dance-rail-3.json) |
 | Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance Sensation! | 50667 | [50667-dance-sensation.json](./50667-dance-sensation.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy Boy Adventures | 280637 | [280637-dandy-boy-adventures.json](./280637-dandy-boy-adventures.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
 | Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
+| Dandy Shot | 220775 | [220775-dandy-shot.json](./220775-dandy-shot.json) |
 | Dandy VR,NR | 280442 | [280442-dandy-vr-nr.json](./280442-dandy-vr-nr.json) |
 | Dandy: Or a Brief Glimpse into the Life of the Candy Alchemist | 34975 | [34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
@@ -8607,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Stories: Hollywood | 202069 | [202069-detective-stories-hollywood.json](./202069-detective-stories-hollywood.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Story: Reporter | 152552 | [152552-detective-story-reporter.json](./152552-detective-story-reporter.json) |
+| Detective Super Star | 220357 | [220357-detective-super-star.json](./220357-detective-super-star.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective Turtletop: Who Killed Harambe? | 393197 | [393197-detective-turtletop-who-killed-harambe.json](./393197-detective-turtletop-who-killed-harambe.json) |
@@ -9212,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
+| Dialogue | 220766 | [220766-dialogue.json](./220766-dialogue.json) |
 | Dialogue Box: The Road Less Traveled | 171330 | [171330-dialogue-box-the-road-less-traveled.json](./171330-dialogue-box-the-road-less-traveled.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
@@ -9605,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
+| Die Daddy Die | 220358 | [220358-die-daddy-die.json](./220358-die-daddy-die.json) |
 | Die Deep | 351786 | [351786-die-deep.json](./351786-die-deep.json) |
 | Die Die Die | 346218 | [346218-die-die-die.json](./346218-die-die-die.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
@@ -10997,6 +11002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisasterFire | 394180 | [394180-disasterfire.json](./394180-disasterfire.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
 | DisasterPR+ | 392484 | [392484-disasterpr.json](./392484-disasterpr.json) |
+| Disasters | 220360 | [220360-disasters.json](./220360-disasters.json) |
 | Disasters Escape: The Island | 251932 | [251932-disasters-escape-the-island.json](./251932-disasters-escape-the-island.json) |
 | Disastles Online | 398593 | [398593-disastles-online.json](./398593-disastles-online.json) |
 | Disastory | 205776 | [205776-disastory.json](./205776-disastory.json) |
@@ -13395,6 +13401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino for iPad | 103086 | [103086-domino-for-ipad.json](./103086-domino-for-ipad.json) |
 | Domino for Mac | 89150 | [89150-domino-for-mac.json](./89150-domino-for-mac.json) |
+| Domino Go | 220234 | [220234-domino-go.json](./220234-domino-go.json) |
 | Dominó Gótico | 417212 | [417212-domino-gotico.json](./417212-domino-gotico.json) |
 | Domino House | 138414 | [138414-domino-house.json](./138414-domino-house.json) |
 | Domino Killer | 149135 | [149135-domino-killer.json](./149135-domino-killer.json) |
@@ -15779,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2019 | 111938 | [111938-draft-day-sports-pro-football-2019.json](./111938-draft-day-sports-pro-football-2019.json) |
 | Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2021 | 137809 | [137809-draft-day-sports-pro-football-2021.json](./137809-draft-day-sports-pro-football-2021.json) |
+| Draft Day Sports: Pro Football 2023 | 220361 | [220361-draft-day-sports-pro-football-2023.json](./220361-draft-day-sports-pro-football-2023.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
@@ -20013,6 +20021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Savior | 78870 | [78870-dungeon-savior.json](./78870-dungeon-savior.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
+| Dungeon Scavenger 2 | 220362 | [220362-dungeon-scavenger-2.json](./220362-dungeon-scavenger-2.json) |
 | Dungeon Scoundrel | 113942 | [113942-dungeon-scoundrel.json](./113942-dungeon-scoundrel.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Scroll | 70458 | [70458-dungeon-scroll.json](./70458-dungeon-scroll.json) |
@@ -20573,6 +20582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DURT | 285855 | [285855-durt.json](./285855-durt.json) |
 | Durt: Motocross Championship | 408444 | [408444-durt-motocross-championship.json](./408444-durt-motocross-championship.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
+| Durus | 220363 | [220363-durus.json](./220363-durus.json) |
 | Dǔshén zhī Mènghuàn Poker | 128864 | [128864-dushen-zhi-menghuan-poker.json](./128864-dushen-zhi-menghuan-poker.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
