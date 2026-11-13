@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Defenders | 420910 | [420910-path-defenders.json](./420910-path-defenders.json) |
 | Path for the Seeker | 305695 | [305695-path-for-the-seeker.json](./305695-path-for-the-seeker.json) |
 | Path Maker | 159433 | [159433-path-maker.json](./159433-path-maker.json) |
+| Path of a Player | 233667 | [233667-path-of-a-player.json](./233667-path-of-a-player.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Adventure | 126174 | [126174-path-of-adventure.json](./126174-path-of-adventure.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
@@ -8566,6 +8567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix'Hard | 320579 | [320579-pixhard.json](./320579-pixhard.json) |
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
+| Pixa | 233257 | [233257-pixa.json](./233257-pixa.json) |
 | Pixacrea | 217097 | [217097-pixacrea.json](./217097-pixacrea.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixal Bitsonia | 419208 | [419208-pixal-bitsonia.json](./419208-pixal-bitsonia.json) |
@@ -9430,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelmon Wingull 2 | 293268 | [293268-pixelmon-wingull-2.json](./293268-pixelmon-wingull-2.json) |
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
+| Pixelogic | 233258 | [233258-pixelogic.json](./233258-pixelogic.json) |
 | Pixeloids | 32373 | [32373-pixeloids.json](./32373-pixeloids.json) |
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
 | Pixelord | 74657 | [74657-pixelord.json](./74657-pixelord.json) |
@@ -11175,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Circuit | 188202 | [188202-pocket-circuit.json](./188202-pocket-circuit.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
 | Pocket City 2 | 228137 | [228137-pocket-city-2.json](./228137-pocket-city-2.json) |
+| Pocket Claw | 233261 | [233261-pocket-claw.json](./233261-pocket-claw.json) |
 | Pocket Clothier | 102632 | [102632-pocket-clothier.json](./102632-pocket-clothier.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Color Mahjong | 137233 | [137233-pocket-color-mahjong.json](./137233-pocket-color-mahjong.json) |
@@ -12368,6 +12372,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Red, White, and Blue | 165582 | [165582-pokemon-red-white-and-blue.json](./165582-pokemon-red-white-and-blue.json) |
 | Pokémon Red++ | 146561 | [146561-pokemon-red.json](./146561-pokemon-red.json) |
 | Pokémon Refined Gold | 226210 | [226210-pokemon-refined-gold.json](./226210-pokemon-refined-gold.json) |
+| Pokémon Regulation Blue | 233820 | [233820-pokemon-regulation-blue.json](./233820-pokemon-regulation-blue.json) |
+| Pokémon Regulation Red | 233819 | [233819-pokemon-regulation-red.json](./233819-pokemon-regulation-red.json) |
 | Pokémon Rejuvenation | 139328 | [139328-pokemon-rejuvenation.json](./139328-pokemon-rejuvenation.json) |
 | Pokemon Reloaded | 343908 | [343908-pokemon-reloaded.json](./343908-pokemon-reloaded.json) |
 | Pokémon Reminiscencia | 280747 | [280747-pokemon-reminiscencia.json](./280747-pokemon-reminiscencia.json) |
@@ -17430,6 +17436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rebirth | 325499 | [325499-project-rebirth.json](./325499-project-rebirth.json) |
 | Project Reboot | 345455 | [345455-project-reboot.json](./345455-project-reboot.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
+| Project Red | 233817 | [233817-project-red.json](./233817-project-red.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Redsun | 285804 | [285804-project-redsun.json](./285804-project-redsun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
