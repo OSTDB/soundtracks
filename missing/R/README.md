@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid on Fort Knox | 122614 | [122614-raid-on-fort-knox.json](./122614-raid-on-fort-knox.json) |
 | Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
+| Raid on Taihoku | 196777 | [196777-raid-on-taihoku.json](./196777-raid-on-taihoku.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on the Zone | 157300 | [157300-raid-on-the-zone.json](./157300-raid-on-the-zone.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
@@ -7784,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Me Bunny: Nonogram | 423390 | [423390-riddle-me-bunny-nonogram.json](./423390-riddle-me-bunny-nonogram.json) |
 | Riddle of Pythagoras | 40424 | [40424-riddle-of-pythagoras.json](./40424-riddle-of-pythagoras.json) |
 | Riddle of the Jelly | 245943 | [245943-riddle-of-the-jelly.json](./245943-riddle-of-the-jelly.json) |
+| Riddle of the Mask | 196779 | [196779-riddle-of-the-mask.json](./196779-riddle-of-the-mask.json) |
 | Riddle of the Runes: The Worlds of TSR | 360172 | [360172-riddle-of-the-runes-the-worlds-of-tsr.json](./360172-riddle-of-the-runes-the-worlds-of-tsr.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx | 18480 | [18480-riddle-of-the-sphinx.json](./18480-riddle-of-the-sphinx.json) |
