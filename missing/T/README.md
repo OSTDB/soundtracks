@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
 | Tae Kwon Dog | 321094 | [321094-tae-kwon-dog.json](./321094-tae-kwon-dog.json) |
+| Taechoe Sineun Goyangiyeotda: Bangchihyeong RPG Kiugi | 225321 | [225321-taechoe-sineun-goyangiyeotda-bangchihyeong-rpg-kiugi.json](./225321-taechoe-sineun-goyangiyeotda-bangchihyeong-rpg-kiugi.json) |
 | Taekwon-do | 114033 | [114033-taekwon-do.json](./114033-taekwon-do.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | Taekwondo Demonstration Team Simulator | 160108 | [160108-taekwondo-demonstration-team-simulator.json](./160108-taekwondo-demonstration-team-simulator.json) |
@@ -5103,7 +5104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teslagrad | 7641 | [7641-teslagrad.json](./7641-teslagrad.json) |
 | Teslagrad Power Pack Edition | 246451 | [246451-teslagrad-power-pack-edition.json](./246451-teslagrad-power-pack-edition.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
-| Teslapunk | 20961 | [20961-teslapunk.json](./20961-teslapunk.json) |
 | Tess | 58767 | [58767-tess.json](./58767-tess.json) |
 | Tess and the Forgotten Friend | 58766 | [58766-tess-and-the-forgotten-friend.json](./58766-tess-and-the-forgotten-friend.json) |
 | Tess Elated | 114951 | [114951-tess-elated.json](./114951-tess-elated.json) |
@@ -10053,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
 | The Far Node | 392286 | [392286-the-far-node.json](./392286-the-far-node.json) |
+| The Far Rings | 225253 | [225253-the-far-rings.json](./225253-the-far-rings.json) |
 | The Far Rings: A Space Opera Visual Novella | 123759 | [123759-the-far-rings-a-space-opera-visual-novella.json](./123759-the-far-rings-a-space-opera-visual-novella.json) |
 | The Faraway King | 413456 | [413456-the-faraway-king.json](./413456-the-faraway-king.json) |
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
@@ -18869,6 +18870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The table at war VR | 30544 | [30544-the-table-at-war-vr.json](./30544-the-table-at-war-vr.json) |
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
+| The Table Game: Deluxe Pack | 225319 | [225319-the-table-game-deluxe-pack.json](./225319-the-table-game-deluxe-pack.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
 | The Tag-along Obsession | 317158 | [317158-the-tag-along-obsession.json](./317158-the-tag-along-obsession.json) |
