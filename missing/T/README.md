@@ -6933,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast in the Silent Valley | 328740 | [328740-the-beast-in-the-silent-valley.json](./328740-the-beast-in-the-silent-valley.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
+| The Beast Named Eliza | 185184 | [185184-the-beast-named-eliza.json](./185184-the-beast-named-eliza.json) |
 | The Beast of Gevaudan | 120103 | [120103-the-beast-of-gevaudan.json](./120103-the-beast-of-gevaudan.json) |
 | The Beast of Lycan Isle | 100505 | [100505-the-beast-of-lycan-isle.json](./100505-the-beast-of-lycan-isle.json) |
 | The Beast of Lycan Isle: Collector's Edition | 340991 | [340991-the-beast-of-lycan-isle-collectors-edition.json](./340991-the-beast-of-lycan-isle-collectors-edition.json) |
@@ -9581,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elementalists: Winters Past | 313743 | [313743-the-elementalists-winters-past.json](./313743-the-elementalists-winters-past.json) |
 | The Elephant Collection | 249612 | [249612-the-elephant-collection.json](./249612-the-elephant-collection.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
+| The Elephant in Her Room | 185182 | [185182-the-elephant-in-her-room.json](./185182-the-elephant-in-her-room.json) |
 | The Elevator | 146563 | [146563-the-elevator.json](./146563-the-elevator.json) |
 | The Elevator | 252542 | [252542-the-elevator.json](./252542-the-elevator.json) |
 | The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
@@ -16025,6 +16027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
+| The Painter | 185577 | [185577-the-painter.json](./185577-the-painter.json) |
 | The Painter of Devil's Fangs | 184666 | [184666-the-painter-of-devils-fangs.json](./184666-the-painter-of-devils-fangs.json) |
 | The Painter's Playground | 75604 | [75604-the-painters-playground.json](./75604-the-painters-playground.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
@@ -20234,6 +20237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vineyard | 346627 | [346627-the-vineyard.json](./346627-the-vineyard.json) |
 | The Violets of Amicus | 327330 | [327330-the-violets-of-amicus.json](./327330-the-violets-of-amicus.json) |
 | The Violinist | 298231 | [298231-the-violinist.json](./298231-the-violinist.json) |
+| The Viridian Isles | 185566 | [185566-the-viridian-isles.json](./185566-the-viridian-isles.json) |
 | The Viriditas Chapel of Perpetual Adoration | 241381 | [241381-the-viriditas-chapel-of-perpetual-adoration.json](./241381-the-viriditas-chapel-of-perpetual-adoration.json) |
 | The Virtual Mirror | 118665 | [118665-the-virtual-mirror.json](./118665-the-virtual-mirror.json) |
 | The Virtual Museum of Dead-Wifery | 188617 | [188617-the-virtual-museum-of-dead-wifery.json](./188617-the-virtual-museum-of-dead-wifery.json) |
@@ -25873,6 +25877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
+| TinyHack | 185584 | [185584-tinyhack.json](./185584-tinyhack.json) |
 | TinyHands First Words 1 | 95293 | [95293-tinyhands-first-words-1.json](./95293-tinyhands-first-words-1.json) |
 | TinyHands Raccoon Treehouse | 102523 | [102523-tinyhands-raccoon-treehouse.json](./102523-tinyhands-raccoon-treehouse.json) |
 | TinyHands Sorting 1 | 99319 | [99319-tinyhands-sorting-1.json](./99319-tinyhands-sorting-1.json) |
