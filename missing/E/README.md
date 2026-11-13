@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
 | Elegy of St. Godhrkar | 400600 | [400600-elegy-of-st-godhrkar.json](./400600-elegy-of-st-godhrkar.json) |
+| Elegy Unhumun | 227569 | [227569-elegy-unhumun.json](./227569-elegy-unhumun.json) |
 | Elektra | 94018 | [94018-elektra.json](./94018-elektra.json) |
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
 | Elektrek | 57589 | [57589-elektrek.json](./57589-elektrek.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
 | Emma the Cat: Fruit Mania | 260472 | [260472-emma-the-cat-fruit-mania.json](./260472-emma-the-cat-fruit-mania.json) |
+| Emma: In the Library | 228028 | [228028-emma-in-the-library.json](./228028-emma-in-the-library.json) |
 | Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's Story | 376167 | [376167-emmas-story.json](./376167-emmas-story.json) |
