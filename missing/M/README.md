@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin Machine | 317083 | [317083-mannequin-machine.json](./317083-mannequin-machine.json) |
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
 | Mannequin Syndrome | 345853 | [345853-mannequin-syndrome.json](./345853-mannequin-syndrome.json) |
+| Mannequin the Passing | 191762 | [191762-mannequin-the-passing.json](./191762-mannequin-the-passing.json) |
 | Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
 | Mannequin: Factory | 359647 | [359647-mannequin-factory.json](./359647-mannequin-factory.json) |
 | Mannerheim's Saloon Car | 277636 | [277636-mannerheims-saloon-car.json](./277636-mannerheims-saloon-car.json) |
@@ -7434,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | MechAssault: Phantom War | 19195 | [19195-mechassault-phantom-war.json](./19195-mechassault-phantom-war.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
+| MeChat: Love Secrets | 191286 | [191286-mechat-love-secrets.json](./191286-mechat-love-secrets.json) |
 | Mechatris | 365342 | [365342-mechatris.json](./365342-mechatris.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | Mechatroniks Attack | 30850 | [30850-mechatroniks-attack.json](./30850-mechatroniks-attack.json) |
