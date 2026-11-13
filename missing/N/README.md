@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanosaur | 70818 | [70818-nanosaur.json](./70818-nanosaur.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanosaur II: Hatchling | 63257 | [63257-nanosaur-ii-hatchling.json](./63257-nanosaur-ii-hatchling.json) |
+| Nanoscape | 170601 | [170601-nanoscape.json](./170601-nanoscape.json) |
 | Nanoscape | 55774 | [55774-nanoscape.json](./55774-nanoscape.json) |
 | Nanoscape VR | 153029 | [153029-nanoscape-vr.json](./153029-nanoscape-vr.json) |
 | Nanosmiles | 295669 | [295669-nanosmiles.json](./295669-nanosmiles.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
 | Nubla 2 | 118539 | [118539-nubla-2.json](./118539-nubla-2.json) |
 | Nubs! Arena | 318813 | [318813-nubs-arena.json](./318813-nubs-arena.json) |
+| NUC: After the Blast | 170583 | [170583-nuc-after-the-blast.json](./170583-nuc-after-the-blast.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
 | Nuclear Arena | 231585 | [231585-nuclear-arena.json](./231585-nuclear-arena.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
