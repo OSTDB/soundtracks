@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts III: Deluxe Edition | 136130 | [136130-kingdom-hearts-iii-deluxe-edition.json](./136130-kingdom-hearts-iii-deluxe-edition.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
+| Kingdom Hearts IV | 196761 | [196761-kingdom-hearts-iv.json](./196761-kingdom-hearts-iv.json) |
 | Kingdom Hearts Magical Canvas | 405372 | [405372-kingdom-hearts-magical-canvas.json](./405372-kingdom-hearts-magical-canvas.json) |
 | Kingdom Hearts Magical Puzzle Clash | 303861 | [303861-kingdom-hearts-magical-puzzle-clash.json](./303861-kingdom-hearts-magical-puzzle-clash.json) |
 | Kingdom Hearts Re:Chain of Memories | 20286 | [20286-kingdom-hearts-re-chain-of-memories.json](./20286-kingdom-hearts-re-chain-of-memories.json) |
@@ -3724,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts χ[chi] | 20287 | [20287-kingdom-hearts-chi.json](./20287-kingdom-hearts-chi.json) |
 | Kingdom Hearts: Fragmented Keys | 332480 | [332480-kingdom-hearts-fragmented-keys.json](./332480-kingdom-hearts-fragmented-keys.json) |
 | Kingdom Hearts: Melody of Memory | 135108 | [135108-kingdom-hearts-melody-of-memory.json](./135108-kingdom-hearts-melody-of-memory.json) |
+| Kingdom Hearts: Missing-Link | 196765 | [196765-kingdom-hearts-missing-link.json](./196765-kingdom-hearts-missing-link.json) |
 | Kingdom Hearts: Union x Dark Road | 135639 | [135639-kingdom-hearts-union-x-dark-road.json](./135639-kingdom-hearts-union-x-dark-road.json) |
 | Kingdom Hearts: VR Experience | 109275 | [109275-kingdom-hearts-vr-experience.json](./109275-kingdom-hearts-vr-experience.json) |
 | Kingdom Heritage Bundle | 301194 | [301194-kingdom-heritage-bundle.json](./301194-kingdom-heritage-bundle.json) |
@@ -6207,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kozomo: The Smoldering Ember | 367825 | [367825-kozomo-the-smoldering-ember.json](./367825-kozomo-the-smoldering-ember.json) |
 | Kozue's Strange Journey | 156812 | [156812-kozues-strange-journey.json](./156812-kozues-strange-journey.json) |
 | Kozue's Strange Journey 2 | 327889 | [327889-kozues-strange-journey-2.json](./327889-kozues-strange-journey-2.json) |
+| Kozui | 196615 | [196615-kozui.json](./196615-kozui.json) |
 | Kozyrev Horrors | 287477 | [287477-kozyrev-horrors.json](./287477-kozyrev-horrors.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
 | Kpop idol Dress Up | 420670 | [420670-kpop-idol-dress-up.json](./420670-kpop-idol-dress-up.json) |
