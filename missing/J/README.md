@@ -3119,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
 | JoustPong | 95353 | [95353-joustpong.json](./95353-joustpong.json) |
 | Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
+| Joutsen Ara | 192476 | [192476-joutsen-ara.json](./192476-joutsen-ara.json) |
 | Jovial Race | 48151 | [48151-jovial-race.json](./48151-jovial-race.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
 | Joy | 224879 | [224879-joy.json](./224879-joy.json) |
