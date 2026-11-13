@@ -5479,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl Seek | 365433 | [365433-hentai-girl-seek.json](./365433-hentai-girl-seek.json) |
 | Hentai Girl Sets | 292718 | [292718-hentai-girl-sets.json](./292718-hentai-girl-sets.json) |
 | Hentai Girl Slide Puzzle | 365435 | [365435-hentai-girl-slide-puzzle.json](./365435-hentai-girl-slide-puzzle.json) |
+| Hentai Girlfriend Simulator | 234959 | [234959-hentai-girlfriend-simulator.json](./234959-hentai-girlfriend-simulator.json) |
 | Hentai Girls | 251548 | [251548-hentai-girls.json](./251548-hentai-girls.json) |
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
 | Hentai Girls | 365430 | [365430-hentai-girls.json](./365430-hentai-girls.json) |
@@ -5617,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
 | Hentai House: Puzzle Nights | 399645 | [399645-hentai-house-puzzle-nights.json](./399645-hentai-house-puzzle-nights.json) |
 | Hentai Hunter | 272223 | [272223-hentai-hunter.json](./272223-hentai-hunter.json) |
+| Hentai I'm coming! | 234967 | [234967-hentai-im-coming.json](./234967-hentai-im-coming.json) |
 | Hentai in the Forest | 155689 | [155689-hentai-in-the-forest.json](./155689-hentai-in-the-forest.json) |
 | Hentai Inumimi | 367985 | [367985-hentai-inumimi.json](./367985-hentai-inumimi.json) |
 | Hentai IQ Puzzle | 163570 | [163570-hentai-iq-puzzle.json](./163570-hentai-iq-puzzle.json) |
@@ -5878,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
+| Hentai Simulator | 234970 | [234970-hentai-simulator.json](./234970-hentai-simulator.json) |
 | Hentai Sin | 411199 | [411199-hentai-sin.json](./411199-hentai-sin.json) |
 | Hentai Sister | 301667 | [301667-hentai-sister.json](./301667-hentai-sister.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
@@ -5901,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Space | 109316 | [109316-hentai-space.json](./109316-hentai-space.json) |
 | Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
 | Hentai Special 4-in-1 | 399644 | [399644-hentai-special-4-in-1.json](./399644-hentai-special-4-in-1.json) |
+| Hentai Splash | 234964 | [234964-hentai-splash.json](./234964-hentai-splash.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
 | Hentai SportsGirl | 230894 | [230894-hentai-sportsgirl.json](./230894-hentai-sportsgirl.json) |
@@ -6094,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Maid Madness | 288915 | [288915-hentai-maid-madness.json](./288915-hentai-maid-madness.json) |
 | Hentai: Make Love Not War 2 | 283269 | [283269-hentai-make-love-not-war-2.json](./283269-hentai-make-love-not-war-2.json) |
 | Hentai: Memory Leak | 335840 | [335840-hentai-memory-leak.json](./335840-hentai-memory-leak.json) |
+| Hentai: Memory leak II | 234962 | [234962-hentai-memory-leak-ii.json](./234962-hentai-memory-leak-ii.json) |
 | Hentai: Mission Bombass | 252252 | [252252-hentai-mission-bombass.json](./252252-hentai-mission-bombass.json) |
 | Hentai: Nazi Girl | 327393 | [327393-hentai-nazi-girl.json](./327393-hentai-nazi-girl.json) |
 | Hentai: Neko Love | 286550 | [286550-hentai-neko-love.json](./286550-hentai-neko-love.json) |
