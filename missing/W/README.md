@@ -7872,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful.Love | 98019 | [98019-wonderful-love.json](./98019-wonderful-love.json) |
 | WonderfulWhims | 259225 | [259225-wonderfulwhims.json](./259225-wonderfulwhims.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
+| WonderHero | 186795 | [186795-wonderhero.json](./186795-wonderhero.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
 | WonderKing 2 | 62636 | [62636-wonderking-2.json](./62636-wonderking-2.json) |
@@ -9314,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
 | World War 2: Pacific Heroes | 24746 | [24746-world-war-2-pacific-heroes.json](./24746-world-war-2-pacific-heroes.json) |
+| World War 2: Strategy Simulator | 186797 | [186797-world-war-2-strategy-simulator.json](./186797-world-war-2-strategy-simulator.json) |
 | World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
 | World War 2: WW2 Strategy Games | 261633 | [261633-world-war-2-ww2-strategy-games.json](./261633-world-war-2-ww2-strategy-games.json) |
 | World War 2: Zombie Attack - VR Simulator | 128091 | [128091-world-war-2-zombie-attack-vr-simulator.json](./128091-world-war-2-zombie-attack-vr-simulator.json) |
@@ -9993,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer's Block | 190795 | [190795-writers-block.json](./190795-writers-block.json) |
 | Writer's Block | 391020 | [391020-writers-block.json](./391020-writers-block.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
+| Writer's Life | 186798 | [186798-writers-life.json](./186798-writers-life.json) |
 | Writer's Rush | 282194 | [282194-writers-rush.json](./282194-writers-rush.json) |
 | Writers | 75105 | [75105-writers.json](./75105-writers.json) |
 | Writhe | 142308 | [142308-writhe.json](./142308-writhe.json) |
