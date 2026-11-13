@@ -5726,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePete | 18206 | [18206-repete.json](./18206-repete.json) |
 | Repetendium | 207744 | [207744-repetendium.json](./207744-repetendium.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
+| Repit | 190260 | [190260-repit.json](./190260-repit.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
 | Replaceable | 226471 | [226471-replaceable.json](./226471-replaceable.json) |
@@ -9409,6 +9410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadworks - The Simulation | 32043 | [32043-roadworks-the-simulation.json](./32043-roadworks-the-simulation.json) |
 | Roadworks 2 | 189298 | [189298-roadworks-2.json](./189298-roadworks-2.json) |
 | Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
+| Roady Life | 190256 | [190256-roady-life.json](./190256-roady-life.json) |
 | Roah | 114892 | [114892-roah.json](./114892-roah.json) |
 | Roald Dahl's Twit or Miss | 249233 | [249233-roald-dahls-twit-or-miss.json](./249233-roald-dahls-twit-or-miss.json) |
 | Roam | 273769 | [273769-roam.json](./273769-roam.json) |
@@ -11195,6 +11197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rojiura Glory Hole | 193264 | [193264-rojiura-glory-hole.json](./193264-rojiura-glory-hole.json) |
 | Rojiura Satsuki: Chapter Heroine Sanctuary | 225654 | [225654-rojiura-satsuki-chapter-heroine-sanctuary.json](./225654-rojiura-satsuki-chapter-heroine-sanctuary.json) |
 | Rojo Ninja | 53522 | [53522-rojo-ninja.json](./53522-rojo-ninja.json) |
+| Rojo: A Spanish Horror Experience | 190245 | [190245-rojo-a-spanish-horror-experience.json](./190245-rojo-a-spanish-horror-experience.json) |
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roketz | 148717 | [148717-roketz.json](./148717-roketz.json) |
 | Roketz | 148740 | [148740-roketz.json](./148740-roketz.json) |
