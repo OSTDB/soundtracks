@@ -2564,6 +2564,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical | 227709 | [227709-majestic-majolical.json](./227709-majestic-majolical.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
+| Majestic Majolical vol. 2 | 240526 | [240526-majestic-majolical-vol-2.json](./240526-majestic-majolical-vol-2.json) |
+| Majestic Majolical vol. 3 | 240527 | [240527-majestic-majolical-vol-3.json](./240527-majestic-majolical-vol-3.json) |
 | Majestic Part I: Alien Encounter | 171232 | [171232-majestic-part-i-alien-encounter.json](./171232-majestic-part-i-alien-encounter.json) |
 | Majestic Prince Shooting Hero | 62058 | [62058-majestic-prince-shooting-hero.json](./62058-majestic-prince-shooting-hero.json) |
 | Majestic Trials | 59792 | [59792-majestic-trials.json](./59792-majestic-trials.json) |
@@ -4534,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
 | Mario's Brewery | 64820 | [64820-marios-brewery.json](./64820-marios-brewery.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
+| Mario's Castle | 240538 | [240538-marios-castle.json](./240538-marios-castle.json) |
 | Mario's Cement Factory | 206327 | [206327-marios-cement-factory.json](./206327-marios-cement-factory.json) |
 | Mario's Cement Factory | 231746 | [231746-marios-cement-factory.json](./231746-marios-cement-factory.json) |
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
@@ -13882,6 +13885,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Dogfight | 120217 | [120217-mini-dogfight.json](./120217-mini-dogfight.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
 | Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
+| Mini Doubt: Gouka Kyakusen-hen | 240531 | [240531-mini-doubt-gouka-kyakusen-hen.json](./240531-mini-doubt-gouka-kyakusen-hen.json) |
+| Mini Doubt: Towerman-hen | 240533 | [240533-mini-doubt-towerman-hen.json](./240533-mini-doubt-towerman-hen.json) |
+| Mini Doubt: Usotsuki Onna-hen | 240532 | [240532-mini-doubt-usotsuki-onna-hen.json](./240532-mini-doubt-usotsuki-onna-hen.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Drifters: World Racing '89 | 252009 | [252009-mini-drifters-world-racing-89.json](./252009-mini-drifters-world-racing-89.json) |
@@ -21978,6 +21984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Coloring Book: Transport | 81110 | [81110-my-coloring-book-transport.json](./81110-my-coloring-book-transport.json) |
 | My Coloring Books: 2 in 1 Bundle | 400069 | [400069-my-coloring-books-2-in-1-bundle.json](./400069-my-coloring-books-2-in-1-bundle.json) |
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
+| My Computer Wants to Eat Me? | 240440 | [240440-my-computer-wants-to-eat-me.json](./240440-my-computer-wants-to-eat-me.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Corp Cargo Simulator | 290744 | [290744-my-corp-cargo-simulator.json](./290744-my-corp-cargo-simulator.json) |
