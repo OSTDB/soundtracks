@@ -7469,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow the Hedgehog 2 | 326833 | [326833-shadow-the-hedgehog-2.json](./326833-shadow-the-hedgehog-2.json) |
 | Shadow the Hedgehog Flash | 200917 | [200917-shadow-the-hedgehog-flash.json](./200917-shadow-the-hedgehog-flash.json) |
 | Shadow the Hedgehog in Sonic the Hedgehog | 148165 | [148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./148165-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
+| Shadow the Hedgehog: Reloaded | 221864 | [221864-shadow-the-hedgehog-reloaded.json](./221864-shadow-the-hedgehog-reloaded.json) |
 | Shadow the Plumber | 357447 | [357447-shadow-the-plumber.json](./357447-shadow-the-plumber.json) |
 | Shadow Thief | 249115 | [249115-shadow-thief.json](./249115-shadow-thief.json) |
 | Shadow Touched | 294136 | [294136-shadow-touched.json](./294136-shadow-touched.json) |
@@ -10351,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão | 256640 | [256640-show-do-milhao.json](./256640-show-do-milhao.json) |
 | Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão 2006 | 163341 | [163341-show-do-milhao-2006.json](./163341-show-do-milhao-2006.json) |
+| Show do Milhão 4 | 222006 | [222006-show-do-milhao-4.json](./222006-show-do-milhao-4.json) |
 | Show do Milhão Júnior | 135500 | [135500-show-do-milhao-junior.json](./135500-show-do-milhao-junior.json) |
 | Show do Milhão Júnior Volume 2 | 222358 | [222358-show-do-milhao-junior-volume-2.json](./222358-show-do-milhao-junior-volume-2.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
