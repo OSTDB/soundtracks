@@ -7048,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
 | Fisherman's Trap | 397219 | [397219-fishermans-trap.json](./397219-fishermans-trap.json) |
 | Fisherman'sWorld | 288049 | [288049-fishermansworld.json](./288049-fishermansworld.json) |
+| Fishermans Life | 241609 | [241609-fishermans-life.json](./241609-fishermans-life.json) |
 | Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
 | Fishermurs | 30284 | [30284-fishermurs.json](./30284-fishermurs.json) |
 | Fisherones | 81898 | [81898-fisherones.json](./81898-fisherones.json) |
@@ -8564,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Range 2 | 220156 | [220156-flip-range-2.json](./220156-flip-range-2.json) |
 | Flip Run: Second Wave | 87128 | [87128-flip-run-second-wave.json](./87128-flip-run-second-wave.json) |
 | Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
+| Flip Stones | 241608 | [241608-flip-stones.json](./241608-flip-stones.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
 | Flip TD: Tower Defense | 217481 | [217481-flip-td-tower-defense.json](./217481-flip-td-tower-defense.json) |
 | Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
@@ -9162,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Party | 365910 | [365910-fluffy-party.json](./365910-fluffy-party.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
+| Fluffy Rush | 241600 | [241600-fluffy-rush.json](./241600-fluffy-rush.json) |
 | Fluffy Sailors | 309924 | [309924-fluffy-sailors.json](./309924-fluffy-sailors.json) |
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
@@ -9606,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Golf | 378686 | [378686-foggy-golf.json](./378686-foggy-golf.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
+| Foggy Street | 241599 | [241599-foggy-street.json](./241599-foggy-street.json) |
 | Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
 | Foglight | 150367 | [150367-foglight.json](./150367-foglight.json) |
 | Foglight Online | 167982 | [167982-foglight-online.json](./167982-foglight-online.json) |
@@ -9977,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football Heroes 2015 | 238305 | [238305-football-heroes-2015.json](./238305-football-heroes-2015.json) |
 | Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
+| Football Heroes Online | 241598 | [241598-football-heroes-online.json](./241598-football-heroes-online.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football Heroes Turbo | 108281 | [108281-football-heroes-turbo.json](./108281-football-heroes-turbo.json) |
 | Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
@@ -10075,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Mogul 2014 | 35185 | [35185-football-mogul-2014.json](./35185-football-mogul-2014.json) |
 | Football Nation VR Tournament 2018 | 118536 | [118536-football-nation-vr-tournament-2018.json](./118536-football-nation-vr-tournament-2018.json) |
 | Football on the Magnavox Odyssey | 131477 | [131477-football-on-the-magnavox-odyssey.json](./131477-football-on-the-magnavox-odyssey.json) |
+| Football Owner | 241597 | [241597-football-owner.json](./241597-football-owner.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
 | Football Players Quiz | 232058 | [232058-football-players-quiz.json](./232058-football-players-quiz.json) |
@@ -11775,6 +11781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four Chambers of the Human Heart | 250455 | [250455-four-chambers-of-the-human-heart.json](./250455-four-chambers-of-the-human-heart.json) |
 | Four Circles | 365829 | [365829-four-circles.json](./365829-four-circles.json) |
+| Four Color | 241596 | [241596-four-color.json](./241596-four-color.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
 | Four Color Puzzle | 232022 | [232022-four-color-puzzle.json](./232022-four-color-puzzle.json) |
 | Four Corners for Playdate | 230728 | [230728-four-corners-for-playdate.json](./230728-four-corners-for-playdate.json) |
@@ -12359,6 +12366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Fall | 197985 | [197985-frantic-fall.json](./197985-frantic-fall.json) |
 | Frantic Fanfic | 147175 | [147175-frantic-fanfic.json](./147175-frantic-fanfic.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
+| Frantic Frankfurt | 241595 | [241595-frantic-frankfurt.json](./241595-frantic-frankfurt.json) |
 | Frantic Fred | 281669 | [281669-frantic-fred.json](./281669-frantic-fred.json) |
 | Frantic Freddie | 178989 | [178989-frantic-freddie.json](./178989-frantic-freddie.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
