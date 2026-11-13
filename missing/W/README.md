@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wegi | 324638 | [324638-wegi.json](./324638-wegi.json) |
 | WEGO World War II: Overlord | 412244 | [412244-wego-world-war-ii-overlord.json](./412244-wego-world-war-ii-overlord.json) |
 | WEGO World War II: Stalingrad | 357819 | [357819-wego-world-war-ii-stalingrad.json](./357819-wego-world-war-ii-stalingrad.json) |
+| WEGO: WW2 Stalingrad | 194491 | [194491-wego-ww2-stalingrad.json](./194491-wego-ww2-stalingrad.json) |
 | Wehrschach | 139335 | [139335-wehrschach.json](./139335-wehrschach.json) |
 | Weightless | 183689 | [183689-weightless.json](./183689-weightless.json) |
 | WeightWare | 334162 | [334162-weightware.json](./334162-weightware.json) |
@@ -4034,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale's Voyage | 2522 | [2522-whales-voyage.json](./2522-whales-voyage.json) |
 | Whale's Voyage II: Die Übermacht | 94397 | [94397-whales-voyage-ii-die-ubermacht.json](./94397-whales-voyage-ii-die-ubermacht.json) |
 | Whale's Waldo | 180452 | [180452-whales-waldo.json](./180452-whales-waldo.json) |
+| Whalefall | 194493 | [194493-whalefall.json](./194493-whalefall.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Whalien: Unexpected Guests | 165277 | [165277-whalien-unexpected-guests.json](./165277-whalien-unexpected-guests.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
