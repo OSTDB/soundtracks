@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trick or Treat Escape 1 | 395954 | [395954-halloween-trick-or-treat-escape-1.json](./395954-halloween-trick-or-treat-escape-1.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
+| Halloween Trouble 3: Collector's Edition | 173875 | [173875-halloween-trouble-3-collectors-edition.json](./173875-halloween-trouble-3-collectors-edition.json) |
 | Halloween Trouble 4 | 220029 | [220029-halloween-trouble-4.json](./220029-halloween-trouble-4.json) |
 | Halloween Trouble 5 | 270149 | [270149-halloween-trouble-5.json](./270149-halloween-trouble-5.json) |
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Bunny Jumper | 118087 | [118087-hardcore-bunny-jumper.json](./118087-hardcore-bunny-jumper.json) |
 | Hardcore Circus | 325495 | [325495-hardcore-circus.json](./325495-hardcore-circus.json) |
 | Hardcore Cottagecore | 285275 | [285275-hardcore-cottagecore.json](./285275-hardcore-cottagecore.json) |
+| Hardcore Cruising: A Sci-Fi Gay Sex Cruise! | 173872 | [173872-hardcore-cruising-a-sci-fi-gay-sex-cruise.json](./173872-hardcore-cruising-a-sci-fi-gay-sex-cruise.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Knight! | 360824 | [360824-hardcore-knight.json](./360824-hardcore-knight.json) |
@@ -5411,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Climber | 365418 | [365418-hentai-climber.json](./365418-hentai-climber.json) |
+| Hentai Climbing | 173868 | [173868-hentai-climbing.json](./173868-hentai-climbing.json) |
 | Hentai Clouds | 177629 | [177629-hentai-clouds.json](./177629-hentai-clouds.json) |
 | Hentai Collection 4-in-1 | 394392 | [394392-hentai-collection-4-in-1.json](./394392-hentai-collection-4-in-1.json) |
 | Hentai Collection: Memory | 167415 | [167415-hentai-collection-memory.json](./167415-hentai-collection-memory.json) |
@@ -5688,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Girls | 162989 | [162989-hentai-jigsaw-girls.json](./162989-hentai-jigsaw-girls.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
 | Hentai Jigsaw Girls 3 | 165825 | [165825-hentai-jigsaw-girls-3.json](./165825-hentai-jigsaw-girls-3.json) |
+| Hentai Jigsaw Girls 4 | 173848 | [173848-hentai-jigsaw-girls-4.json](./173848-hentai-jigsaw-girls-4.json) |
 | Hentai Jigsaw Photo Studio: Fruit Girls | 153062 | [153062-hentai-jigsaw-photo-studio-fruit-girls.json](./153062-hentai-jigsaw-photo-studio-fruit-girls.json) |
 | Hentai Jigsaw Photo Studio: Neko Girls | 286747 | [286747-hentai-jigsaw-photo-studio-neko-girls.json](./286747-hentai-jigsaw-photo-studio-neko-girls.json) |
 | Hentai Jigsaw Puzzle | 165822 | [165822-hentai-jigsaw-puzzle.json](./165822-hentai-jigsaw-puzzle.json) |
@@ -6138,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultra Premium | 317664 | [317664-hentai-world-ultra-premium.json](./317664-hentai-world-ultra-premium.json) |
 | Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
 | Hentai World: Ultra Ultimate | 309050 | [309050-hentai-world-ultra-ultimate.json](./309050-hentai-world-ultra-ultimate.json) |
+| Hentai X | 173871 | [173871-hentai-x.json](./173871-hentai-x.json) |
 | Hentai X Thief | 384687 | [384687-hentai-x-thief.json](./384687-hentai-x-thief.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
 | Hentai XXX Plus: Jigsaws Vol 2 | 162988 | [162988-hentai-xxx-plus-jigsaws-vol-2.json](./162988-hentai-xxx-plus-jigsaws-vol-2.json) |
@@ -6148,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Zombie Moriana | 368942 | [368942-hentai-zombie-moriana.json](./368942-hentai-zombie-moriana.json) |
 | Hentai: Area 51 | 148703 | [148703-hentai-area-51.json](./148703-hentai-area-51.json) |
 | Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
+| Hentai: C-Gum Vaccination | 173865 | [173865-hentai-c-gum-vaccination.json](./173865-hentai-c-gum-vaccination.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
 | Hentai: Devil Girls | 296906 | [296906-hentai-devil-girls.json](./296906-hentai-devil-girls.json) |
 | Hentai: Magical girls | 365439 | [365439-hentai-magical-girls.json](./365439-hentai-magical-girls.json) |
