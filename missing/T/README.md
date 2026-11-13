@@ -9865,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil Furry | 216915 | [216915-the-evil-furry.json](./216915-the-evil-furry.json) |
+| The Evil in the Forest | 168975 | [168975-the-evil-in-the-forest.json](./168975-the-evil-in-the-forest.json) |
 | The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
 | The Evil Leafy Maze Game | 264908 | [264908-the-evil-leafy-maze-game.json](./264908-the-evil-leafy-maze-game.json) |
 | The Evil of Mutant | 216916 | [216916-the-evil-of-mutant.json](./216916-the-evil-of-mutant.json) |
@@ -23036,6 +23037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tierras del Sur | 79074 | [79074-tierras-del-sur.json](./79074-tierras-del-sur.json) |
 | Tierras Perdidas | 147176 | [147176-tierras-perdidas.json](./147176-tierras-perdidas.json) |
 | Tierras Runicas | 323021 | [323021-tierras-runicas.json](./323021-tierras-runicas.json) |
+| Ties | 169497 | [169497-ties.json](./169497-ties.json) |
 | Ties: Soul Link | 306296 | [306296-ties-soul-link.json](./306296-ties-soul-link.json) |
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
 | Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
@@ -25110,6 +25112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Silence | 30886 | [30886-time-of-silence.json](./30886-time-of-silence.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
+| Time of Special Team | 168462 | [168462-time-of-special-team.json](./168462-time-of-special-team.json) |
 | Time of the Clones | 174053 | [174053-time-of-the-clones.json](./174053-time-of-the-clones.json) |
 | Time of the Dead | 178380 | [178380-time-of-the-dead.json](./178380-time-of-the-dead.json) |
 | Time of the Moon | 123964 | [123964-time-of-the-moon.json](./123964-time-of-the-moon.json) |
@@ -30278,6 +30281,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackwars | 178162 | [178162-trackwars.json](./178162-trackwars.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
+| Tracon!2012:SE - Atlanta Sector | 168960 | [168960-tracon-2012-se-atlanta-sector.json](./168960-tracon-2012-se-atlanta-sector.json) |
+| Tracon!2012:SE - Dubai Sector | 168958 | [168958-tracon-2012-se-dubai-sector.json](./168958-tracon-2012-se-dubai-sector.json) |
+| Tracon!2012:SE - Frankfurt Sector | 168957 | [168957-tracon-2012-se-frankfurt-sector.json](./168957-tracon-2012-se-frankfurt-sector.json) |
+| Tracon!2012:SE - London Sector 1 | 168961 | [168961-tracon-2012-se-london-sector-1.json](./168961-tracon-2012-se-london-sector-1.json) |
+| Tracon!2012:SE - London Sector 2 | 168962 | [168962-tracon-2012-se-london-sector-2.json](./168962-tracon-2012-se-london-sector-2.json) |
+| Tracon!2012:SE - New York Sector | 168956 | [168956-tracon-2012-se-new-york-sector.json](./168956-tracon-2012-se-new-york-sector.json) |
+| Tracon!2012:SE - NorCal Sector | 168959 | [168959-tracon-2012-se-norcal-sector.json](./168959-tracon-2012-se-norcal-sector.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Traction Control | 148236 | [148236-traction-control.json](./148236-traction-control.json) |
 | Traction Point | 383342 | [383342-traction-point.json](./383342-traction-point.json) |
