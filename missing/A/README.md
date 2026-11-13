@@ -14115,7 +14115,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Moonlander | 74360 | [74360-arcade-moonlander.json](./74360-arcade-moonlander.json) |
 | Arcade Motion Classic | 230835 | [230835-arcade-motion-classic.json](./230835-arcade-motion-classic.json) |
 | Arcade Muscle | 73136 | [73136-arcade-muscle.json](./73136-arcade-muscle.json) |
+| Arcade Nano Altered Beast | 202872 | [202872-arcade-nano-altered-beast.json](./202872-arcade-nano-altered-beast.json) |
+| Arcade Nano Casino Games | 202874 | [202874-arcade-nano-casino-games.json](./202874-arcade-nano-casino-games.json) |
+| Arcade Nano Columns | 202871 | [202871-arcade-nano-columns.json](./202871-arcade-nano-columns.json) |
+| Arcade Nano Marshmallow | 202870 | [202870-arcade-nano-marshmallow.json](./202870-arcade-nano-marshmallow.json) |
 | Arcade Nano Sonic | 202868 | [202868-arcade-nano-sonic.json](./202868-arcade-nano-sonic.json) |
+| Arcade Nano Sonic 1 & 2 | 202875 | [202875-arcade-nano-sonic-1-and-2.json](./202875-arcade-nano-sonic-1-and-2.json) |
+| Arcade Nano Sonic Blast | 202873 | [202873-arcade-nano-sonic-blast.json](./202873-arcade-nano-sonic-blast.json) |
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise | 145319 | [145319-arcade-paradise.json](./145319-arcade-paradise.json) |
