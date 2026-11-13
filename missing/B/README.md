@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
 | Balavour | 345986 | [345986-balavour.json](./345986-balavour.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
+| Balcony | 174934 | [174934-balcony.json](./174934-balcony.json) |
 | Balcony Garden | 360840 | [360840-balcony-garden.json](./360840-balcony-garden.json) |
 | Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
 | Bald Luigi's Crustmust Deluxe | 187084 | [187084-bald-luigis-crustmust-deluxe.json](./187084-bald-luigis-crustmust-deluxe.json) |
@@ -5718,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Mp3 | 249687 | [249687-beat-mp3.json](./249687-beat-mp3.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
 | Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
+| Beat Ninja | 174950 | [174950-beat-ninja.json](./174950-beat-ninja.json) |
 | Beat Ninja | 32326 | [32326-beat-ninja.json](./32326-beat-ninja.json) |
 | Beat of Life | 347311 | [347311-beat-of-life.json](./347311-beat-of-life.json) |
 | Beat of Montezuma | 301761 | [301761-beat-of-montezuma.json](./301761-beat-of-montezuma.json) |
