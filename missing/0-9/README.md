@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20,000 Leagues Under the Sea | 2292 | [2292-20-000-leagues-under-the-sea.json](./2292-20-000-leagues-under-the-sea.json) |
 | 20,000 Leagues Under the Sea | 413676 | [413676-20-000-leagues-under-the-sea.json](./413676-20-000-leagues-under-the-sea.json) |
 | 20,000 Leagues Under the Sea: Extended Edition | 382906 | [382906-20-000-leagues-under-the-sea-extended-edition.json](./382906-20-000-leagues-under-the-sea-extended-edition.json) |
+| 20,000 Miles Under the Sea | 171659 | [171659-20-000-miles-under-the-sea.json](./171659-20-000-miles-under-the-sea.json) |
 | 20.000 Leagues Under the Sea: Captain Nemo | 93764 | [93764-20-000-leagues-under-the-sea-captain-nemo.json](./93764-20-000-leagues-under-the-sea-captain-nemo.json) |
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
 | 200 Days Zombie Apocalypse | 247117 | [247117-200-days-zombie-apocalypse.json](./247117-200-days-zombie-apocalypse.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
 | 20XX | 17828 | [17828-20xx.json](./17828-20xx.json) |
 | 20XX / 30XX | 364164 | [364164-20xx-30xx.json](./364164-20xx-30xx.json) |
+| 20XX: Draco Character | 171138 | [171138-20xx-draco-character.json](./171138-20xx-draco-character.json) |
 | 20XX: Hawk Character | 227240 | [227240-20xx-hawk-character.json](./227240-20xx-hawk-character.json) |
 | 20XX: Tournament Edition | 136570 | [136570-20xx-tournament-edition.json](./136570-20xx-tournament-edition.json) |
 | 20XX.io | 269480 | [269480-20xx-io.json](./269480-20xx-io.json) |
