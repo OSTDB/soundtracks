@@ -5533,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GloBall | 91703 | [91703-globall.json](./91703-globall.json) |
 | GlobalMap Astro | 103944 | [103944-globalmap-astro.json](./103944-globalmap-astro.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
+| Globber | 193369 | [193369-globber.json](./193369-globber.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
 | Globdule | 13067 | [13067-globdule.json](./13067-globdule.json) |
 | Globe | 109929 | [109929-globe.json](./109929-globe.json) |
@@ -5550,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globetrotter XL | 237500 | [237500-globetrotter-xl.json](./237500-globetrotter-xl.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globey: On the Roll! | 209754 | [209754-globey-on-the-roll.json](./209754-globey-on-the-roll.json) |
+| Globox 2001 | 193370 | [193370-globox-2001.json](./193370-globox-2001.json) |
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
 | Globs & Ghosts | 255454 | [255454-globs-and-ghosts.json](./255454-globs-and-ghosts.json) |
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
@@ -7935,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordi's Magical Movie Adventure | 335049 | [335049-gordis-magical-movie-adventure.json](./335049-gordis-magical-movie-adventure.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
+| Gordian Rooms 2: A curious island | 192991 | [192991-gordian-rooms-2-a-curious-island.json](./192991-gordian-rooms-2-a-curious-island.json) |
 | Gordian Rooms: A Curious Heritage | 138477 | [138477-gordian-rooms-a-curious-heritage.json](./138477-gordian-rooms-a-curious-heritage.json) |
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
