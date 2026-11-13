@@ -8572,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Lord Auto | 114587 | [114587-grand-lord-auto.json](./114587-grand-lord-auto.json) |
 | Grand Mall Simulator | 326231 | [326231-grand-mall-simulator.json](./326231-grand-mall-simulator.json) |
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
+| Grand Master Chess | 204592 | [204592-grand-master-chess.json](./204592-grand-master-chess.json) |
 | Grand Mech Shooter | 74736 | [74736-grand-mech-shooter.json](./74736-grand-mech-shooter.json) |
 | Grand Miami Mafia Crime: Fight to Survive | 96017 | [96017-grand-miami-mafia-crime-fight-to-survive.json](./96017-grand-miami-mafia-crime-fight-to-survive.json) |
 | Grand Mini Slam | 255742 | [255742-grand-mini-slam.json](./255742-grand-mini-slam.json) |
