@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Bandit | 154579 | [154579-candy-bandit.json](./154579-candy-bandit.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Bandits | 392221 | [392221-candy-bandits.json](./392221-candy-bandits.json) |
+| Candy Bar | 217431 | [217431-candy-bar.json](./217431-candy-bar.json) |
 | Candy Bear 2 | 157957 | [157957-candy-bear-2.json](./157957-candy-bear-2.json) |
 | Candy Blast | 32596 | [32596-candy-blast.json](./32596-candy-blast.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Survival: Tropical Island | 165744 | [165744-card-survival-tropical-island.json](./165744-card-survival-tropical-island.json) |
+| Card Tales | 217046 | [217046-card-tales.json](./217046-card-tales.json) |
 | Card TD | 301072 | [301072-card-td.json](./301072-card-td.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
@@ -9753,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circadia | 166567 | [166567-circadia.json](./166567-circadia.json) |
 | Circadia | 233170 | [233170-circadia.json](./233170-circadia.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
+| Circadian | 217049 | [217049-circadian.json](./217049-circadian.json) |
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | Circadian Cycle Deepest Sleep | 214708 | [214708-circadian-cycle-deepest-sleep.json](./214708-circadian-cycle-deepest-sleep.json) |
 | Circadian Dice | 148873 | [148873-circadian-dice.json](./148873-circadian-dice.json) |
@@ -22266,6 +22269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Driver VR | 132935 | [132935-cyber-driver-vr.json](./132935-cyber-driver-vr.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
+| Cyber Dungeonz RPG | 217432 | [217432-cyber-dungeonz-rpg.json](./217432-cyber-dungeonz-rpg.json) |
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
 | Cyber Emoji Tale 2099 | 144004 | [144004-cyber-emoji-tale-2099.json](./144004-cyber-emoji-tale-2099.json) |
 | Cyber Empires | 70181 | [70181-cyber-empires.json](./70181-cyber-empires.json) |
@@ -22465,6 +22469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
 | Cyberblast | 12558 | [12558-cyberblast.json](./12558-cyberblast.json) |
 | Cyberblock Metal Orange | 232631 | [232631-cyberblock-metal-orange.json](./232631-cyberblock-metal-orange.json) |
+| CyberBlocker: Complete Edition | 217424 | [217424-cyberblocker-complete-edition.json](./217424-cyberblocker-complete-edition.json) |
 | CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
