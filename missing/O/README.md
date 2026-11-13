@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Strike: Deluxe Edition | 120798 | [120798-omega-strike-deluxe-edition.json](./120798-omega-strike-deluxe-edition.json) |
 | Omega Strikers | 212878 | [212878-omega-strikers.json](./212878-omega-strikers.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
+| Omega Survivors | 233812 | [233812-omega-survivors.json](./233812-omega-survivors.json) |
 | Omega Timeline: Poppy's Story - A ChristmAUs Carol | 335138 | [335138-omega-timeline-poppys-story-a-christmaus-carol.json](./335138-omega-timeline-poppys-story-a-christmaus-carol.json) |
 | Omega Tower | 263112 | [263112-omega-tower.json](./263112-omega-tower.json) |
 | Omega Vampire | 136834 | [136834-omega-vampire.json](./136834-omega-vampire.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshiete! Popotan | 411405 | [411405-oshiete-popotan.json](./411405-oshiete-popotan.json) |
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| OshiIro | 233793 | [233793-oshiiro.json](./233793-oshiiro.json) |
 | Oshikake Kanojo ha, Ore no Sewa wo Shitai | 402721 | [402721-oshikake-kanojo-ha-ore-no-sewa-wo-shitai.json](./402721-oshikake-kanojo-ha-ore-no-sewa-wo-shitai.json) |
 | Oshikake Oku-sama to, Kimi no Uso | 411885 | [411885-oshikake-oku-sama-to-kimi-no-uso.json](./411885-oshikake-oku-sama-to-kimi-no-uso.json) |
 | Oshikake Petit Lily | 278209 | [278209-oshikake-petit-lily.json](./278209-oshikake-petit-lily.json) |
@@ -5063,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otose! Hitozuma Megami-sama | 108148 | [108148-otose-hitozuma-megami-sama.json](./108148-otose-hitozuma-megami-sama.json) |
+| Otoshuu DX | 233287 | [233287-otoshuu-dx.json](./233287-otoshuu-dx.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | OtoZ | 375359 | [375359-otoz.json](./375359-otoz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
@@ -5690,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf 2 | 3437 | [3437-outlaw-golf-2.json](./3437-outlaw-golf-2.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
+| Outlaw Heart | 233815 | [233815-outlaw-heart.json](./233815-outlaw-heart.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
 | Outlaw Mayor Panic | 144675 | [144675-outlaw-mayor-panic.json](./144675-outlaw-mayor-panic.json) |
 | Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
