@@ -9533,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
 | Bitcoin Billionaire: Bitstone To The Past | 370236 | [370236-bitcoin-billionaire-bitstone-to-the-past.json](./370236-bitcoin-billionaire-bitstone-to-the-past.json) |
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
+| Bitcoin Bounty Hunt | 177987 | [177987-bitcoin-bounty-hunt.json](./177987-bitcoin-bounty-hunt.json) |
 | Bitcoin Chill | 368961 | [368961-bitcoin-chill.json](./368961-bitcoin-chill.json) |
 | Bitcoin Collector | 53209 | [53209-bitcoin-collector.json](./53209-bitcoin-collector.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
@@ -9592,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
+| BitLife DE | 178120 | [178120-bitlife-de.json](./178120-bitlife-de.json) |
 | Bitlogic | 117350 | [117350-bitlogic.json](./117350-bitlogic.json) |
 | Bitmagic | 296289 | [296289-bitmagic.json](./296289-bitmagic.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
@@ -12516,6 +12518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Blooming Nightshade | 122025 | [122025-blooming-nightshade.json](./122025-blooming-nightshade.json) |
+| Blooming Panic: Full Bloom Edition | 178113 | [178113-blooming-panic-full-bloom-edition.json](./178113-blooming-panic-full-bloom-edition.json) |
 | Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
 | Bloomino | 403357 | [403357-bloomino.json](./403357-bloomino.json) |
 | BloomKeeper | 352998 | [352998-bloomkeeper.json](./352998-bloomkeeper.json) |
