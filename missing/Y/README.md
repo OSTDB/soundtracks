@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YGO Omega | 139411 | [139411-ygo-omega.json](./139411-ygo-omega.json) |
 | Yi and the Thousand Moons | 74779 | [74779-yi-and-the-thousand-moons.json](./74779-yi-and-the-thousand-moons.json) |
 | Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
+| Yi Xian: The Cultivation Card Game | 205717 | [205717-yi-xian-the-cultivation-card-game.json](./205717-yi-xian-the-cultivation-card-game.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
 | Yie Ar Kung-Fu | 311028 | [311028-yie-ar-kung-fu.json](./311028-yie-ar-kung-fu.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youka no Sono | 221050 | [221050-youka-no-sono.json](./221050-youka-no-sono.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
 | Youkai Dock de Karada no Fuan wo Kaishou shitai Kagiyama Hina-tachi!! | 409332 | [409332-youkai-dock-de-karada-no-fuan-wo-kaishou-shitai-kagiyama-hina-tachi.json](./409332-youkai-dock-de-karada-no-fuan-wo-kaishou-shitai-kagiyama-hina-tachi.json) |
+| Youkai Douchuuki | 205698 | [205698-youkai-douchuuki.json](./205698-youkai-douchuuki.json) |
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
 | Youkai Hana Asobi | 273748 | [273748-youkai-hana-asobi.json](./273748-youkai-hana-asobi.json) |
 | Youkai Kori Kassen | 291029 | [291029-youkai-kori-kassen.json](./291029-youkai-kori-kassen.json) |
