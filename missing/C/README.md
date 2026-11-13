@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Kingdoms | 73954 | [73954-castle-kingdoms.json](./73954-castle-kingdoms.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
+| Castle Life | 179211 | [179211-castle-life.json](./179211-castle-life.json) |
 | Castle Line Wars | 235025 | [235025-castle-line-wars.json](./235025-castle-line-wars.json) |
 | Castle Manager | 211862 | [211862-castle-manager.json](./211862-castle-manager.json) |
 | Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
@@ -7191,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate: The Red General’s Last Move | 424609 | [424609-checkmate-the-red-general-s-last-move.json](./424609-checkmate-the-red-general-s-last-move.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
+| Checkmates | 179098 | [179098-checkmates.json](./179098-checkmates.json) |
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
 | CheckMaze | 244678 | [244678-checkmaze.json](./244678-checkmaze.json) |
 | CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
@@ -7794,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
 | Chibi Wars Kinetic Novel | 290578 | [290578-chibi-wars-kinetic-novel.json](./290578-chibi-wars-kinetic-novel.json) |
+| Chibi Yandere Complete Edition | 179091 | [179091-chibi-yandere-complete-edition.json](./179091-chibi-yandere-complete-edition.json) |
 | Chibi-Robo! | 134255 | [134255-chibi-robo.json](./134255-chibi-robo.json) |
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | Chibi-Robo! Zip Lash | 11216 | [11216-chibi-robo-zip-lash.json](./11216-chibi-robo-zip-lash.json) |
@@ -20001,6 +20004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Clicker | 142145 | [142145-crown-clicker.json](./142145-crown-clicker.json) |
 | Crown Code Chronicles | 294285 | [294285-crown-code-chronicles.json](./294285-crown-code-chronicles.json) |
 | Crown Delights Deli | 190120 | [190120-crown-delights-deli.json](./190120-crown-delights-deli.json) |
+| Crown Dungeon | 179627 | [179627-crown-dungeon.json](./179627-crown-dungeon.json) |
 | Crown Four Kingdoms | 124506 | [124506-crown-four-kingdoms.json](./124506-crown-four-kingdoms.json) |
 | Crown Jewelz | 297103 | [297103-crown-jewelz.json](./297103-crown-jewelz.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
