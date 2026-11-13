@@ -5467,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 274605 | [274605-ninja.json](./274605-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
 | Ninja 314 | 29007 | [29007-ninja-314.json](./29007-ninja-314.json) |
+| NinjA AjniN | 175872 | [175872-ninja-ajnin.json](./175872-ninja-ajnin.json) |
 | Ninja Akio | 212115 | [212115-ninja-akio.json](./212115-ninja-akio.json) |
 | Ninja Arashi | 264440 | [264440-ninja-arashi.json](./264440-ninja-arashi.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
@@ -7585,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not in the Groove | 138851 | [138851-not-in-the-groove.json](./138851-not-in-the-groove.json) |
 | Not Involved | 229782 | [229782-not-involved.json](./229782-not-involved.json) |
 | Not Involved: Vermillion | 236320 | [236320-not-involved-vermillion.json](./236320-not-involved-vermillion.json) |
+| Not It: Spookiest Edition | 175997 | [175997-not-it-spookiest-edition.json](./175997-not-it-spookiest-edition.json) |
 | Not Just a Hat Rack | 228396 | [228396-not-just-a-hat-rack.json](./228396-not-just-a-hat-rack.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
 | Not Like Us: The Game | 308755 | [308755-not-like-us-the-game.json](./308755-not-like-us-the-game.json) |
