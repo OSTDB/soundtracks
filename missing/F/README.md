@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 World Grand Prix II | 3488 | [3488-f-1-world-grand-prix-ii.json](./3488-f-1-world-grand-prix-ii.json) |
 | F-1 World Grand Prix II for Game Boy Color | 249131 | [249131-f-1-world-grand-prix-ii-for-game-boy-color.json](./249131-f-1-world-grand-prix-ii-for-game-boy-color.json) |
 | F-117 Night Storm | 46216 | [46216-f-117-night-storm.json](./46216-f-117-night-storm.json) |
+| F-117A Stealth Fighter | 209229 | [209229-f-117a-stealth-fighter.json](./209229-f-117a-stealth-fighter.json) |
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
 | F-14 Tomcat | 259334 | [259334-f-14-tomcat.json](./259334-f-14-tomcat.json) |
 | F-14 Tomcat | 47179 | [47179-f-14-tomcat.json](./47179-f-14-tomcat.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair and Square | 266068 | [266068-fair-and-square.json](./266068-fair-and-square.json) |
 | Fair and Square | 380757 | [380757-fair-and-square.json](./380757-fair-and-square.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
+| Fair Fantastic | 209230 | [209230-fair-fantastic.json](./209230-fair-fantastic.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
 | Fair n Square | 177160 | [177160-fair-n-square.json](./177160-fair-n-square.json) |
 | Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
@@ -695,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
+| Fairway Fever | 209231 | [209231-fairway-fever.json](./209231-fairway-fever.json) |
 | Fairway Solitaire | 94903 | [94903-fairway-solitaire.json](./94903-fairway-solitaire.json) |
 | Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
 | Fairway to Hell | 396975 | [396975-fairway-to-hell.json](./396975-fairway-to-hell.json) |
