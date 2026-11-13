@@ -12606,6 +12606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinsations | 182269 | [182269-sinsations.json](./182269-sinsations.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinSeed | 142680 | [142680-sinseed.json](./142680-sinseed.json) |
+| Sinseonnoreum: Immortal World | 220375 | [220375-sinseonnoreum-immortal-world.json](./220375-sinseonnoreum-immortal-world.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
 | SinsFromGod 2 | 184779 | [184779-sinsfromgod-2.json](./184779-sinsfromgod-2.json) |
 | SinsFromGod Remake | 212647 | [212647-sinsfromgod-remake.json](./212647-sinsfromgod-remake.json) |
@@ -20131,6 +20132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
 | Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
+| Soukoban | 220376 | [220376-soukoban.json](./220376-soukoban.json) |
 | Soukoku no Kusabi Hiiro no Kakera 3: Asu he no Tobira | 217761 | [217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json](./217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json) |
 | Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
@@ -22918,6 +22920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Into Dino Valley 2 | 101205 | [101205-speed-into-dino-valley-2.json](./101205-speed-into-dino-valley-2.json) |
 | Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
+| Speed Journey | 220765 | [220765-speed-journey.json](./220765-speed-journey.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Kayak | 251333 | [251333-speed-kayak.json](./251333-speed-kayak.json) |
 | Speed Kills | 10837 | [10837-speed-kills.json](./10837-speed-kills.json) |
@@ -25798,6 +25801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Tower | 115123 | [115123-stack-tower.json](./115123-stack-tower.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
 | Stack Tower | 238110 | [238110-stack-tower.json](./238110-stack-tower.json) |
+| Stack Twist | 220232 | [220232-stack-twist.json](./220232-stack-twist.json) |
 | Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
