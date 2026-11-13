@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I've Seen Everything: Cats | 192173 | [192173-ive-seen-everything-cats.json](./192173-ive-seen-everything-cats.json) |
 | I've Seen Everything: Cold Steel | 192172 | [192172-ive-seen-everything-cold-steel.json](./192172-ive-seen-everything-cold-steel.json) |
 | I've Seen Everything: Dogs | 192174 | [192174-ive-seen-everything-dogs.json](./192174-ive-seen-everything-dogs.json) |
+| I've Seen Everything: More Actors | 188477 | [188477-ive-seen-everything-more-actors.json](./188477-ive-seen-everything-more-actors.json) |
 | I've Seen Everything: More Actresses | 188476 | [188476-ive-seen-everything-more-actresses.json](./188476-ive-seen-everything-more-actresses.json) |
 | I've Seen Everything: More Animals | 188478 | [188478-ive-seen-everything-more-animals.json](./188478-ive-seen-everything-more-animals.json) |
 | I've Seen Everything: More Dinosaurs | 188485 | [188485-ive-seen-everything-more-dinosaurs.json](./188485-ive-seen-everything-more-dinosaurs.json) |
