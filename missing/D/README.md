@@ -7642,8 +7642,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
 | Derby Stallion 64 | 47743 | [47743-derby-stallion-64.json](./47743-derby-stallion-64.json) |
 | Derby Stallion 96 | 38135 | [38135-derby-stallion-96.json](./38135-derby-stallion-96.json) |
+| Derby Stallion 96 Taiou: G1 Mogi Race | 234887 | [234887-derby-stallion-96-taiou-g1-mogi-race.json](./234887-derby-stallion-96-taiou-g1-mogi-race.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
+| Derby Stallion 96 Taiou: Tsuika Data | 234886 | [234886-derby-stallion-96-taiou-tsuika-data.json](./234886-derby-stallion-96-taiou-tsuika-data.json) |
 | Derby Stallion 96: 97 Nendo-ban | 234889 | [234889-derby-stallion-96-97-nendo-ban.json](./234889-derby-stallion-96-97-nendo-ban.json) |
+| Derby Stallion 96: Nintendo Breeders Cup - Yosen Taikai Race Data | 234885 | [234885-derby-stallion-96-nintendo-breeders-cup-yosen-taikai-race-data.json](./234885-derby-stallion-96-nintendo-breeders-cup-yosen-taikai-race-data.json) |
+| Derby Stallion 96: Nintendo Breeders Cup You - Uma Data | 234884 | [234884-derby-stallion-96-nintendo-breeders-cup-you-uma-data.json](./234884-derby-stallion-96-nintendo-breeders-cup-you-uma-data.json) |
 | Derby Stallion 98 | 38237 | [38237-derby-stallion-98.json](./38237-derby-stallion-98.json) |
 | Derby Stallion 99 | 123047 | [123047-derby-stallion-99.json](./123047-derby-stallion-99.json) |
 | Derby Stallion DS | 123049 | [123049-derby-stallion-ds.json](./123049-derby-stallion-ds.json) |
@@ -10788,8 +10792,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
 | Dirt 3: Ken Block Special Pack | 234666 | [234666-dirt-3-ken-block-special-pack.json](./234666-dirt-3-ken-block-special-pack.json) |
+| Dirt 3: Mini Gymkhana Special Pack | 234794 | [234794-dirt-3-mini-gymkhana-special-pack.json](./234794-dirt-3-mini-gymkhana-special-pack.json) |
 | Dirt 3: Monte Carlo Track Pack | 234663 | [234663-dirt-3-monte-carlo-track-pack.json](./234663-dirt-3-monte-carlo-track-pack.json) |
 | Dirt 3: Mud and Guts Car Pack | 234667 | [234667-dirt-3-mud-and-guts-car-pack.json](./234667-dirt-3-mud-and-guts-car-pack.json) |
+| Dirt 3: Power and Glory Car Pack | 234793 | [234793-dirt-3-power-and-glory-car-pack.json](./234793-dirt-3-power-and-glory-car-pack.json) |
+| Dirt 3: X-Games Asia Track Pack | 234792 | [234792-dirt-3-x-games-asia-track-pack.json](./234792-dirt-3-x-games-asia-track-pack.json) |
 | Dirt 4 | 26948 | [26948-dirt-4.json](./26948-dirt-4.json) |
 | Dirt 5 | 133301 | [133301-dirt-5.json](./133301-dirt-5.json) |
 | Dirt 5: Amplified Edition | 136248 | [136248-dirt-5-amplified-edition.json](./136248-dirt-5-amplified-edition.json) |
