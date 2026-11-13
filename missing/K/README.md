@@ -747,7 +747,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandagawa Jet Girls DX Jet Pack: Limited Edition | 166975 | [166975-kandagawa-jet-girls-dx-jet-pack-limited-edition.json](./166975-kandagawa-jet-girls-dx-jet-pack-limited-edition.json) |
 | Kandagawa Jet Girls: DX Jet Pack | 136700 | [136700-kandagawa-jet-girls-dx-jet-pack.json](./136700-kandagawa-jet-girls-dx-jet-pack.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
+| Kandagawa Jet Girls: Murasaki & Mirai Character Set | 225923 | [225923-kandagawa-jet-girls-murasaki-and-mirai-character-set.json](./225923-kandagawa-jet-girls-murasaki-and-mirai-character-set.json) |
 | Kandagawa Jet Girls: Racing Hearts Edition | 136195 | [136195-kandagawa-jet-girls-racing-hearts-edition.json](./136195-kandagawa-jet-girls-racing-hearts-edition.json) |
+| Kandagawa Jet Girls: Yumi & Asuka Character Set | 225926 | [225926-kandagawa-jet-girls-yumi-and-asuka-character-set.json](./225926-kandagawa-jet-girls-yumi-and-asuka-character-set.json) |
 | Kandidat | 115322 | [115322-kandidat.json](./115322-kandidat.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
 | Kandinhale | 326743 | [326743-kandinhale.json](./326743-kandinhale.json) |
@@ -3058,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5442,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
 | Koi Puncher MMXVIII | 184972 | [184972-koi-puncher-mmxviii.json](./184972-koi-puncher-mmxviii.json) |
 | Koi Remake | 212444 | [212444-koi-remake.json](./212444-koi-remake.json) |
+| Koi Se yo! Hatsukoi Danshi: Tokimeki Gakuen Love | 225390 | [225390-koi-se-yo-hatsukoi-danshi-tokimeki-gakuen-love.json](./225390-koi-se-yo-hatsukoi-danshi-tokimeki-gakuen-love.json) |
 | Koi Sentai Love & Peace the P.S.P. | 222628 | [222628-koi-sentai-love-and-peace-the-p-s-p.json](./222628-koi-sentai-love-and-peace-the-p-s-p.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
 | Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
