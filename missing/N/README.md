@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neither Cross Nor Crown | 348492 | [348492-neither-cross-nor-crown.json](./348492-neither-cross-nor-crown.json) |
 | Neither Day nor Night | 123768 | [123768-neither-day-nor-night.json](./123768-neither-day-nor-night.json) |
 | Neither Dead nor Alive | 345823 | [345823-neither-dead-nor-alive.json](./345823-neither-dead-nor-alive.json) |
+| Neji-Shiki | 243918 | [243918-neji-shiki.json](./243918-neji-shiki.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
 | Nekketsu Fighting Legend | 48410 | [48410-nekketsu-fighting-legend.json](./48410-nekketsu-fighting-legend.json) |
 | Nekketsu High School Dodgeball Club: Soccer Story | 191639 | [191639-nekketsu-high-school-dodgeball-club-soccer-story.json](./191639-nekketsu-high-school-dodgeball-club-soccer-story.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Gundam Breaker: Premium Edition | 136654 | [136654-new-gundam-breaker-premium-edition.json](./136654-new-gundam-breaker-premium-edition.json) |
 | New Heaven | 297965 | [297965-new-heaven.json](./297965-new-heaven.json) |
+| New Heights: Realistic Climbing and Bouldering | 243996 | [243996-new-heights-realistic-climbing-and-bouldering.json](./243996-new-heights-realistic-climbing-and-bouldering.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
 | New Home | 339391 | [339391-new-home.json](./339391-new-home.json) |
 | New Home: Medieval Village | 153903 | [153903-new-home-medieval-village.json](./153903-new-home-medieval-village.json) |
@@ -5519,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Shadow | 48929 | [48929-ninja-gaiden-shadow.json](./48929-ninja-gaiden-shadow.json) |
 | Ninja Gaiden Sigma | 5974 | [5974-ninja-gaiden-sigma.json](./5974-ninja-gaiden-sigma.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
+| Ninja Gaiden Sigma 2 Black | 243917 | [243917-ninja-gaiden-sigma-2-black.json](./243917-ninja-gaiden-sigma-2-black.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
 | Ninja Gaiden Sigma Plus | 21569 | [21569-ninja-gaiden-sigma-plus.json](./21569-ninja-gaiden-sigma-plus.json) |
@@ -6248,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Expeditions | 221635 | [221635-no-mans-sky-expeditions.json](./221635-no-mans-sky-expeditions.json) |
 | No Man's Sky: Foundation | 222782 | [222782-no-mans-sky-foundation.json](./222782-no-mans-sky-foundation.json) |
 | No Man's Sky: Frontiers | 221607 | [221607-no-mans-sky-frontiers.json](./221607-no-mans-sky-frontiers.json) |
+| No Man's Sky: Interceptor | 243881 | [243881-no-mans-sky-interceptor.json](./243881-no-mans-sky-interceptor.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
 | No Man's Sky: Next | 222778 | [222778-no-mans-sky-next.json](./222778-no-mans-sky-next.json) |
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
