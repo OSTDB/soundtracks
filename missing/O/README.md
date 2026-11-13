@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
 | One Piece: Odyssey - Collector's Edition | 218216 | [218216-one-piece-odyssey-collectors-edition.json](./218216-one-piece-odyssey-collectors-edition.json) |
+| One Piece: Pirate Warriors - Collector's Edition | 225247 | [225247-one-piece-pirate-warriors-collectors-edition.json](./225247-one-piece-pirate-warriors-collectors-edition.json) |
 | One Piece: Pirate Warriors + One Piece: Pirate Warriors 2 | 81477 | [81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json](./81477-one-piece-pirate-warriors-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 2 | 20857 | [20857-one-piece-pirate-warriors-2.json](./20857-one-piece-pirate-warriors-2.json) |
 | One Piece: Pirate Warriors 2 - Collector's Editon | 225688 | [225688-one-piece-pirate-warriors-2-collectors-editon.json](./225688-one-piece-pirate-warriors-2-collectors-editon.json) |
