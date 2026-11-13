@@ -9006,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tennis: Roaring '20s | 110498 | [110498-world-of-tennis-roaring-20s.json](./110498-world-of-tennis-roaring-20s.json) |
 | World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
+| World of Trains | 216368 | [216368-world-of-trains.json](./216368-world-of-trains.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
 | World of Undead | 33217 | [33217-world-of-undead.json](./33217-world-of-undead.json) |
 | World of Unlit | 316914 | [316914-world-of-unlit.json](./316914-world-of-unlit.json) |
