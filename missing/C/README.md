@@ -22795,6 +22795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle | 224167 | [224167-cycle.json](./224167-cycle.json) |
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
 | Cycle 28 | 76813 | [76813-cycle-28.json](./76813-cycle-28.json) |
+| Cycle Breaker | 209226 | [209226-cycle-breaker.json](./209226-cycle-breaker.json) |
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
 | Cycle Maabou | 375607 | [375607-cycle-maabou.json](./375607-cycle-maabou.json) |
