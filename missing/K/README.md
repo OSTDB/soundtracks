@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | KenoPop! | 209841 | [209841-kenopop.json](./209841-kenopop.json) |
 | Kenopsia | 175387 | [175387-kenopsia.json](./175387-kenopsia.json) |
+| Kenosis: The Liminal Tapes | 211335 | [211335-kenosis-the-liminal-tapes.json](./211335-kenosis-the-liminal-tapes.json) |
 | Kenpin Sagyou | 407881 | [407881-kenpin-sagyou.json](./407881-kenpin-sagyou.json) |
 | Kenran Butou Sai: The Mars Daybreak | 59077 | [59077-kenran-butou-sai-the-mars-daybreak.json](./59077-kenran-butou-sai-the-mars-daybreak.json) |
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
