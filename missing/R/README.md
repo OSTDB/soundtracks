@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain on Your Parade + Levels and Features DLC! | 199818 | [199818-rain-on-your-parade-levels-and-features-dlc.json](./199818-rain-on-your-parade-levels-and-features-dlc.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
 | Rain Project | 90855 | [90855-rain-project.json](./90855-rain-project.json) |
+| Rain Puzzle | 190753 | [190753-rain-puzzle.json](./190753-rain-puzzle.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Runner | 287062 | [287062-rain-runner.json](./287062-rain-runner.json) |
@@ -13127,6 +13128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruiner | 18857 | [18857-ruiner.json](./18857-ruiner.json) |
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
 | Ruinic | 128144 | [128144-ruinic.json](./128144-ruinic.json) |
+| Ruinlander | 191152 | [191152-ruinlander.json](./191152-ruinlander.json) |
 | Ruins | 183198 | [183198-ruins.json](./183198-ruins.json) |
 | Ruins | 224933 | [224933-ruins.json](./224933-ruins.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
