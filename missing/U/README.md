@@ -260,6 +260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Robo Dangar | 39994 | [39994-ufo-robo-dangar.json](./39994-ufo-robo-dangar.json) |
 | UFO Robot Grendizer: The Feast of the Wolves | 239407 | [239407-ufo-robot-grendizer-the-feast-of-the-wolves.json](./239407-ufo-robot-grendizer-the-feast-of-the-wolves.json) |
+| UFO Robot Grendizer: The Feast of the Wolves - Collector's Edition | 241083 | [241083-ufo-robot-grendizer-the-feast-of-the-wolves-collectors-edition.json](./241083-ufo-robot-grendizer-the-feast-of-the-wolves-collectors-edition.json) |
+| UFO Robot Grendizer: The Feast of the Wolves - Deluxe Edition | 241082 | [241082-ufo-robot-grendizer-the-feast-of-the-wolves-deluxe-edition.json](./241082-ufo-robot-grendizer-the-feast-of-the-wolves-deluxe-edition.json) |
 | UFO Robot Grendizer: The Feast of the Wolves - Princely Outfit | 301563 | [301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json](./301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json) |
 | UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
