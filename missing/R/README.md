@@ -66,6 +66,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 2: Ultimate Edition | 271121 | [271121-r-type-final-2-ultimate-edition.json](./271121-r-type-final-2-ultimate-edition.json) |
 | R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
+| R-Type Final 3 Evolved: Deluxe Edition | 225781 | [225781-r-type-final-3-evolved-deluxe-edition.json](./225781-r-type-final-3-evolved-deluxe-edition.json) |
+| R-Type Final 3 Evolved: Special Edition | 225780 | [225780-r-type-final-3-evolved-special-edition.json](./225780-r-type-final-3-evolved-special-edition.json) |
 | R-Type I | 210579 | [210579-r-type-i.json](./210579-r-type-i.json) |
 | R-Type II | 210580 | [210580-r-type-ii.json](./210580-r-type-ii.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
@@ -10643,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Life | 192668 | [192668-rockstar-life.json](./192668-rockstar-life.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | RockStars! | 371485 | [371485-rockstars.json](./371485-rockstars.json) |
+| Rocksuki: The Rescue of Ember! | 225403 | [225403-rocksuki-the-rescue-of-ember.json](./225403-rocksuki-the-rescue-of-ember.json) |
 | RockTop | 252270 | [252270-rocktop.json](./252270-rocktop.json) |
 | Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
@@ -11550,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Best Scenario for RTK Japan - The Tyrant Returns | 162060 | [162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json](./162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json) |
 | Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack | 162062 | [162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json](./162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack Bundle | 82420 | [82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json](./82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json) |
+| Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 2 | 225916 | [225916-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-2.json](./225916-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-2.json) |
 | Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3 | 225915 | [225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json](./225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json) |
 | Romance of the Three Kingdoms XIII: Scenario - A Yellow Sky | 164492 | [164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json](./164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json) |
 | Romance of the Three Kingdoms XIII: Scenario - Battle of Tong Gate & Event Set | 164490 | [164490-romance-of-the-three-kingdoms-xiii-scenario-battle-of-tong-gate-and-event-set.json](./164490-romance-of-the-three-kingdoms-xiii-scenario-battle-of-tong-gate-and-event-set.json) |
