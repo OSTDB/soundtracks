@@ -4716,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
 | Deal & Wheeler | 241457 | [241457-deal-and-wheeler.json](./241457-deal-and-wheeler.json) |
 | Deal of the Dead Final Cut | 292769 | [292769-deal-of-the-dead-final-cut.json](./292769-deal-of-the-dead-final-cut.json) |
+| Deal or No Deal | 203470 | [203470-deal-or-no-deal.json](./203470-deal-or-no-deal.json) |
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
 | Deal or No Deal | 248609 | [248609-deal-or-no-deal.json](./248609-deal-or-no-deal.json) |
@@ -5312,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtouch | 356559 | [356559-deathtouch.json](./356559-deathtouch.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
+| Deathtrap | 203473 | [203473-deathtrap.json](./203473-deathtrap.json) |
 | DeathTrap | 249528 | [249528-deathtrap.json](./249528-deathtrap.json) |
 | Deathtrap Dungeon | 8470 | [8470-deathtrap-dungeon.json](./8470-deathtrap-dungeon.json) |
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
@@ -13184,6 +13186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DokiDoki Massage | 401976 | [401976-dokidoki-massage.json](./401976-dokidoki-massage.json) |
 | Dokimon | 315726 | [315726-dokimon.json](./315726-dokimon.json) |
 | Dokimon Quest: II | 414852 | [414852-dokimon-quest-ii.json](./414852-dokimon-quest-ii.json) |
+| Dokingan | 203995 | [203995-dokingan.json](./203995-dokingan.json) |
 | Dokis & Dragons | 334008 | [334008-dokis-and-dragons.json](./334008-dokis-and-dragons.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | DokiSui: Doki-doki Suikoden | 278827 | [278827-dokisui-doki-doki-suikoden.json](./278827-dokisui-doki-doki-suikoden.json) |
