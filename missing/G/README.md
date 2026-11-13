@@ -9258,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Bot | 193099 | [193099-gravity-bot.json](./193099-gravity-bot.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
+| Gravity Box | 216393 | [216393-gravity-box.json](./216393-gravity-box.json) |
 | Gravity Boy! | 407519 | [407519-gravity-boy.json](./407519-gravity-boy.json) |
 | Gravity Brawl | 159056 | [159056-gravity-brawl.json](./159056-gravity-brawl.json) |
 | Gravity Breakers | 76094 | [76094-gravity-breakers.json](./76094-gravity-breakers.json) |
