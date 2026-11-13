@@ -10144,6 +10144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dikembe Mutombo's 4 1/2 Weeks to Save the World | 79618 | [79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json](./79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json) |
 | Dikes & Polders | 183292 | [183292-dikes-and-polders.json](./183292-dikes-and-polders.json) |
+| DiktaPunk: Fighting for Dominance | 239363 | [239363-diktapunk-fighting-for-dominance.json](./239363-diktapunk-fighting-for-dominance.json) |
 | DikuMUD | 419100 | [419100-dikumud.json](./419100-dikumud.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
 | Dilbert's Desktop Games | 131183 | [131183-dilberts-desktop-games.json](./131183-dilberts-desktop-games.json) |
@@ -10657,6 +10658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
 | Dinosaurs Are People Too | 107662 | [107662-dinosaurs-are-people-too.json](./107662-dinosaurs-are-people-too.json) |
+| Dinosaurs Dominion | 239355 | [239355-dinosaurs-dominion.json](./239355-dinosaurs-dominion.json) |
 | Dinosaurs in Place | 328914 | [328914-dinosaurs-in-place.json](./328914-dinosaurs-in-place.json) |
 | Dinosaurs Outbreak | 370789 | [370789-dinosaurs-outbreak.json](./370789-dinosaurs-outbreak.json) |
 | Dinosaurs Prehistoric Survivors | 99291 | [99291-dinosaurs-prehistoric-survivors.json](./99291-dinosaurs-prehistoric-survivors.json) |
@@ -13818,6 +13820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | Dong-Jin Rice-hime | 90463 | [90463-dong-jin-rice-hime.json](./90463-dong-jin-rice-hime.json) |
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
+| Dongeng Bayang Kulit | 239266 | [239266-dongeng-bayang-kulit.json](./239266-dongeng-bayang-kulit.json) |
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Dongo Adventure | 90826 | [90826-dongo-adventure.json](./90826-dongo-adventure.json) |
@@ -14463,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Scavenger | 195942 | [195942-doomsday-scavenger.json](./195942-doomsday-scavenger.json) |
 | Doomsday School | 345390 | [345390-doomsday-school.json](./345390-doomsday-school.json) |
 | Doomsday Survival:Training | 30657 | [30657-doomsday-survival-training.json](./30657-doomsday-survival-training.json) |
+| Doomsday Survivors | 239394 | [239394-doomsday-survivors.json](./239394-doomsday-survivors.json) |
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
@@ -16725,6 +16729,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonicle | 173410 | [173410-dragonicle.json](./173410-dragonicle.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
 | DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
+| Dragonlance Corazón Skin & Feat Pack | 239271 | [239271-dragonlance-corazon-skin-and-feat-pack.json](./239271-dragonlance-corazon-skin-and-feat-pack.json) |
+| Dragonlance Dob Skin & Feat Pack | 239273 | [239273-dragonlance-dob-skin-and-feat-pack.json](./239273-dragonlance-dob-skin-and-feat-pack.json) |
+| Dragonlance Egbert Skin & Feat Pack | 239272 | [239272-dragonlance-egbert-skin-and-feat-pack.json](./239272-dragonlance-egbert-skin-and-feat-pack.json) |
+| Dragonlance Merilwen Skin & Feat Pack | 239274 | [239274-dragonlance-merilwen-skin-and-feat-pack.json](./239274-dragonlance-merilwen-skin-and-feat-pack.json) |
+| Dragonlance Prudence Skin & Feat Pack | 239270 | [239270-dragonlance-prudence-skin-and-feat-pack.json](./239270-dragonlance-prudence-skin-and-feat-pack.json) |
+| Dragonlance Rust Skin & Feat Pack | 239275 | [239275-dragonlance-rust-skin-and-feat-pack.json](./239275-dragonlance-rust-skin-and-feat-pack.json) |
 | Dragonlance: Veil of the Last Sanctum | 415785 | [415785-dragonlance-veil-of-the-last-sanctum.json](./415785-dragonlance-veil-of-the-last-sanctum.json) |
 | DragonLoop | 344528 | [344528-dragonloop.json](./344528-dragonloop.json) |
 | Dragonlord Chronicles MMO | 145962 | [145962-dragonlord-chronicles-mmo.json](./145962-dragonlord-chronicles-mmo.json) |
@@ -18581,6 +18591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Lord Simulator | 212008 | [212008-drug-lord-simulator.json](./212008-drug-lord-simulator.json) |
 | Drug Lord Tycoon | 253546 | [253546-drug-lord-tycoon.json](./253546-drug-lord-tycoon.json) |
 | Drug Lords | 193228 | [193228-drug-lords.json](./193228-drug-lords.json) |
+| Drug Prince & Narcotic Girl | 239262 | [239262-drug-prince-and-narcotic-girl.json](./239262-drug-prince-and-narcotic-girl.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
 | Drug Schedule | 339226 | [339226-drug-schedule.json](./339226-drug-schedule.json) |
 | Drug Story: The First Chapters | 324248 | [324248-drug-story-the-first-chapters.json](./324248-drug-story-the-first-chapters.json) |
