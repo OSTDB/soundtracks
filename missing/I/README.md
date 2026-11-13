@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
 | Idle Hunter | 107885 | [107885-idle-hunter.json](./107885-idle-hunter.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
+| Idle Huntress: Dragon Realm | 193906 | [193906-idle-huntress-dragon-realm.json](./193906-idle-huntress-dragon-realm.json) |
 | Idle Idle | 366093 | [366093-idle-idle.json](./366093-idle-idle.json) |
 | Idle Idol | 180916 | [180916-idle-idol.json](./180916-idle-idol.json) |
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle TD: Heroes vs Zombies | 160074 | [160074-idle-td-heroes-vs-zombies.json](./160074-idle-td-heroes-vs-zombies.json) |
 | Idle Team | 208174 | [208174-idle-team.json](./208174-idle-team.json) |
 | Idle Tentacles | 154884 | [154884-idle-tentacles.json](./154884-idle-tentacles.json) |
+| Idle Theme Park Tycoon | 193921 | [193921-idle-theme-park-tycoon.json](./193921-idle-theme-park-tycoon.json) |
 | Idle Three Kingdoms | 224039 | [224039-idle-three-kingdoms.json](./224039-idle-three-kingdoms.json) |
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
