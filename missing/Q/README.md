@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quoin | 216380 | [216380-quoin.json](./216380-quoin.json) |
 | Quondam | 300458 | [300458-quondam.json](./300458-quondam.json) |
 | Quondam | 325321 | [325321-quondam.json](./325321-quondam.json) |
+| Quordle | 194523 | [194523-quordle.json](./194523-quordle.json) |
 | Quoridor | 251255 | [251255-quoridor.json](./251255-quoridor.json) |
 | Quote | 27284 | [27284-quote.json](./27284-quote.json) |
 | Quote Codes | 80855 | [80855-quote-codes.json](./80855-quote-codes.json) |
