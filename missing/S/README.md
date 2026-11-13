@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Destruction | 24331 | [24331-sands-of-destruction.json](./24331-sands-of-destruction.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
+| Sands of Liberty | 177602 | [177602-sands-of-liberty.json](./177602-sands-of-liberty.json) |
 | Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
 | Sands of Osiris | 60541 | [60541-sands-of-osiris.json](./60541-sands-of-osiris.json) |
 | Sands of Salzaar | 128004 | [128004-sands-of-salzaar.json](./128004-sands-of-salzaar.json) |
@@ -10430,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show Ball: Tiger Life | 226142 | [226142-show-ball-tiger-life.json](./226142-show-ball-tiger-life.json) |
 | Show Boat | 131107 | [131107-show-boat.json](./131107-show-boat.json) |
 | Show by Rock!! | 60352 | [60352-show-by-rock.json](./60352-show-by-rock.json) |
+| Show by Rock!! Fes A Live | 177617 | [177617-show-by-rock-fes-a-live.json](./177617-show-by-rock-fes-a-live.json) |
 | Show da Copa com Estádio 97 | 255668 | [255668-show-da-copa-com-estadio-97.json](./255668-show-da-copa-com-estadio-97.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
 | Show do Milhão | 122616 | [122616-show-do-milhao.json](./122616-show-do-milhao.json) |
@@ -17610,6 +17612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | SodaCity | 33958 | [33958-sodacity.json](./33958-sodacity.json) |
 | Sodahazard: Taste Test | 344653 | [344653-sodahazard-taste-test.json](./344653-sodahazard-taste-test.json) |
+| Sodaman | 177983 | [177983-sodaman.json](./177983-sodaman.json) |
 | Sodaman | 235442 | [235442-sodaman.json](./235442-sodaman.json) |
 | Sodatete! Mushiking | 198649 | [198649-sodatete-mushiking.json](./198649-sodatete-mushiking.json) |
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
@@ -18599,6 +18602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sometimes You Die | 58993 | [58993-sometimes-you-die.json](./58993-sometimes-you-die.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhen | 216531 | [216531-somewhen.json](./216531-somewhen.json) |
+| Somewhere | 177605 | [177605-somewhere.json](./177605-somewhere.json) |
 | Somewhere | 271542 | [271542-somewhere.json](./271542-somewhere.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere Better | 145839 | [145839-somewhere-better.json](./145839-somewhere-better.json) |
@@ -23976,6 +23980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
 | Spiker! Super Pro Volleyball | 41456 | [41456-spiker-super-pro-volleyball.json](./41456-spiker-super-pro-volleyball.json) |
+| SpikerMan Game | 177620 | [177620-spikerman-game.json](./177620-spikerman-game.json) |
 | SpikerMan X | 247947 | [247947-spikerman-x.json](./247947-spikerman-x.json) |
 | Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
@@ -26436,6 +26441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Command | 20556 | [20556-star-fox-command.json](./20556-star-fox-command.json) |
 | Star Fox Conquest | 314563 | [314563-star-fox-conquest.json](./314563-star-fox-conquest.json) |
 | Star Fox EX: Exploration Showcase | 233556 | [233556-star-fox-ex-exploration-showcase.json](./233556-star-fox-ex-exploration-showcase.json) |
+| Star Fox Game Watch | 178106 | [178106-star-fox-game-watch.json](./178106-star-fox-game-watch.json) |
 | Star Fox Guard | 19687 | [19687-star-fox-guard.json](./19687-star-fox-guard.json) |
 | Star Fox NES | 323905 | [323905-star-fox-nes.json](./323905-star-fox-nes.json) |
 | Star Fox Wii | 279750 | [279750-star-fox-wii.json](./279750-star-fox-wii.json) |
@@ -35207,6 +35213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Place | 273893 | [273893-super-mario-place.json](./273893-super-mario-place.json) |
 | Super Mario Prism | 320232 | [320232-super-mario-prism.json](./320232-super-mario-prism.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
+| Super Mario Race | 178105 | [178105-super-mario-race.json](./178105-super-mario-race.json) |
 | Super Mario Rainbow Road | 250090 | [250090-super-mario-rainbow-road.json](./250090-super-mario-rainbow-road.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
 | Super Mario Redux | 281807 | [281807-super-mario-redux.json](./281807-super-mario-redux.json) |
