@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Dragon | 264183 | [264183-jack-dragon.json](./264183-jack-dragon.json) |
 | Jack Dragon and the Stone of Peace | 284738 | [284738-jack-dragon-and-the-stone-of-peace.json](./284738-jack-dragon-and-the-stone-of-peace.json) |
+| Jack Ferguson and The Cursed Pyramid | 180167 | [180167-jack-ferguson-and-the-cursed-pyramid.json](./180167-jack-ferguson-and-the-cursed-pyramid.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Frost | 289146 | [289146-jack-frost.json](./289146-jack-frost.json) |
 | Jack Hayes: The Lazarus Sign | 133067 | [133067-jack-hayes-the-lazarus-sign.json](./133067-jack-hayes-the-lazarus-sign.json) |
