@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
+| Fantasy Jigsaw Puzzles: Elves | 236427 | [236427-fantasy-jigsaw-puzzles-elves.json](./236427-fantasy-jigsaw-puzzles-elves.json) |
 | Fantasy Jigsaw Puzzles: Forests | 237812 | [237812-fantasy-jigsaw-puzzles-forests.json](./237812-fantasy-jigsaw-puzzles-forests.json) |
 | Fantasy Jigsaw Puzzles: High Seas | 244172 | [244172-fantasy-jigsaw-puzzles-high-seas.json](./244172-fantasy-jigsaw-puzzles-high-seas.json) |
 | Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
@@ -14955,6 +14956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
 | Furry Survivals 18+ | 342684 | [342684-furry-survivals-18.json](./342684-furry-survivals-18.json) |
+| Furry Sweeper | 236491 | [236491-furry-sweeper.json](./236491-furry-sweeper.json) |
 | Furry Tale | 236940 | [236940-furry-tale.json](./236940-furry-tale.json) |
 | Furry Tales | 43462 | [43462-furry-tales.json](./43462-furry-tales.json) |
 | Furry Tangram Lite | 225758 | [225758-furry-tangram-lite.json](./225758-furry-tangram-lite.json) |
