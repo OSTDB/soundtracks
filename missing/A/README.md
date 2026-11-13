@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adams Ascending | 113210 | [113210-adams-ascending.json](./113210-adams-ascending.json) |
+| Adamstown | 197167 | [197167-adamstown.json](./197167-adamstown.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapt | 118085 | [118085-adapt.json](./118085-adapt.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
@@ -3643,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 2 | 192138 | [192138-adorable-witch-2.json](./192138-adorable-witch-2.json) |
+| Adorable Witch 3 | 197277 | [197277-adorable-witch-3.json](./197277-adorable-witch-3.json) |
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorables | 35342 | [35342-adorables.json](./35342-adorables.json) |
@@ -4238,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
 | Adventurers of Tamora | 151377 | [151377-adventurers-of-tamora.json](./151377-adventurers-of-tamora.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
+| Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures | 179815 | [179815-adventures.json](./179815-adventures.json) |
 | Adventures & Quests: The Black Crystal | 341750 | [341750-adventures-and-quests-the-black-crystal.json](./341750-adventures-and-quests-the-black-crystal.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
@@ -6212,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirBoost Airship Knight | 352475 | [352475-airboost-airship-knight.json](./352475-airboost-airship-knight.json) |
 | Airborn | 114234 | [114234-airborn.json](./114234-airborn.json) |
 | Airborn: Piño's Journey | 60474 | [60474-airborn-pinos-journey.json](./60474-airborn-pinos-journey.json) |
+| Airborne | 197308 | [197308-airborne.json](./197308-airborne.json) |
 | Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
 | Airborne Alien | 359197 | [359197-airborne-alien.json](./359197-airborne-alien.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
@@ -15157,6 +15161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Bubble | 242562 | [242562-ark-bubble.json](./242562-ark-bubble.json) |
 | Ark Defender | 195821 | [195821-ark-defender.json](./195821-ark-defender.json) |
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
+| Ark Mobius: Censored Edition | 197289 | [197289-ark-mobius-censored-edition.json](./197289-ark-mobius-censored-edition.json) |
 | Ark Noir | 82880 | [82880-ark-noir.json](./82880-ark-noir.json) |
 | Ark Nova | 338156 | [338156-ark-nova.json](./338156-ark-nova.json) |
 | Ark Odyssey | 278179 | [278179-ark-odyssey.json](./278179-ark-odyssey.json) |
@@ -17823,6 +17828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrokill | 35064 | [35064-astrokill.json](./35064-astrokill.json) |
 | Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
 | Astrolancer | 294943 | [294943-astrolancer.json](./294943-astrolancer.json) |
+| Astrolander | 197169 | [197169-astrolander.json](./197169-astrolander.json) |
 | Astrolight | 182144 | [182144-astrolight.json](./182144-astrolight.json) |
 | Astrolite | 372421 | [372421-astrolite.json](./372421-astrolite.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
