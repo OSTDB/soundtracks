@@ -3345,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensei Torimonocho | 263680 | [263680-gensei-torimonocho.json](./263680-gensei-torimonocho.json) |
 | Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
 | Genseishin Justirisers: Souchaku Chikyuu no Senshitachi | 278768 | [278768-genseishin-justirisers-souchaku-chikyuu-no-senshitachi.json](./278768-genseishin-justirisers-souchaku-chikyuu-no-senshitachi.json) |
+| Genseki Wakusei | 201191 | [201191-genseki-wakusei.json](./201191-genseki-wakusei.json) |
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshi Tou 1930's | 38653 | [38653-genshi-tou-1930s.json](./38653-genshi-tou-1930s.json) |
 | Genshin Impact: A Dance of Snowy Tides and Hoarfrost Groves | 356546 | [356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json](./356546-genshin-impact-a-dance-of-snowy-tides-and-hoarfrost-groves.json) |
