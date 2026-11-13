@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Call: Trigger 3D | 187311 | [187311-zombie-call-trigger-3d.json](./187311-zombie-call-trigger-3d.json) |
 | Zombie Cam Body Cam Shooter | 369790 | [369790-zombie-cam-body-cam-shooter.json](./369790-zombie-cam-body-cam-shooter.json) |
 | Zombie Camp | 31985 | [31985-zombie-camp.json](./31985-zombie-camp.json) |
+| Zombie Camp Apocalypse | 196614 | [196614-zombie-camp-apocalypse.json](./196614-zombie-camp-apocalypse.json) |
 | Zombie Camp: Last Survivor | 35540 | [35540-zombie-camp-last-survivor.json](./35540-zombie-camp-last-survivor.json) |
 | Zombie Camping | 155972 | [155972-zombie-camping.json](./155972-zombie-camping.json) |
 | Zombie Car Massacre | 55304 | [55304-zombie-car-massacre.json](./55304-zombie-car-massacre.json) |
