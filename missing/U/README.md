@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
 | Ultratank | 120679 | [120679-ultratank.json](./120679-ultratank.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
+| Ultratoro 2 | 238800 | [238800-ultratoro-2.json](./238800-ultratoro-2.json) |
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraverse Prime | 46407 | [46407-ultraverse-prime.json](./46407-ultraverse-prime.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
