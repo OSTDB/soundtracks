@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
 | NGU Industries | 143451 | [143451-ngu-industries.json](./143451-ngu-industries.json) |
+| Nguoi La Part 1 | 181824 | [181824-nguoi-la-part-1.json](./181824-nguoi-la-part-1.json) |
 | NH Bid at MSCYPAA: The Game | 391940 | [391940-nh-bid-at-mscypaa-the-game.json](./391940-nh-bid-at-mscypaa-the-game.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Academy: Space School - Math 4th Grade Part 1 | 122110 | [122110-nhk-academy-space-school-math-4th-grade-part-1.json](./122110-nhk-academy-space-school-math-4th-grade-part-1.json) |
@@ -5197,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nighttime Terror VR: Dessert Defender | 19041 | [19041-nighttime-terror-vr-dessert-defender.json](./19041-nighttime-terror-vr-dessert-defender.json) |
 | Nightvision: Drive Forever | 139525 | [139525-nightvision-drive-forever.json](./139525-nightvision-drive-forever.json) |
 | Nightwalk | 117447 | [117447-nightwalk.json](./117447-nightwalk.json) |
+| Nightwalk | 181833 | [181833-nightwalk.json](./181833-nightwalk.json) |
 | Nightwalk Simulator | 312445 | [312445-nightwalk-simulator.json](./312445-nightwalk-simulator.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
 | Nightwalker | 69516 | [69516-nightwalker.json](./69516-nightwalker.json) |
@@ -6137,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
 | NMO: No More Operators | 294341 | [294341-nmo-no-more-operators.json](./294341-nmo-no-more-operators.json) |
 | Nmpisun | 128751 | [128751-nmpisun.json](./128751-nmpisun.json) |
+| NNC News, with Tom Vandercar | 181821 | [181821-nnc-news-with-tom-vandercar.json](./181821-nnc-news-with-tom-vandercar.json) |
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No 1 Lives | 195878 | [195878-no-1-lives.json](./195878-no-1-lives.json) |
@@ -8554,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nysunder | 216975 | [216975-nysunder.json](./216975-nysunder.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
+| Nytro | 181817 | [181817-nytro.json](./181817-nytro.json) |
 | Nyx | 98804 | [98804-nyx.json](./98804-nyx.json) |
 | Nyx Legacy | 387508 | [387508-nyx-legacy.json](./387508-nyx-legacy.json) |
 | NYX x Barbie: The Movie | 256453 | [256453-nyx-x-barbie-the-movie.json](./256453-nyx-x-barbie-the-movie.json) |
