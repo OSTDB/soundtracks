@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Mogul | 53877 | [53877-vacation-mogul.json](./53877-vacation-mogul.json) |
 | Vacation Paradise: Alaska - Collector's Edition | 336988 | [336988-vacation-paradise-alaska-collectors-edition.json](./336988-vacation-paradise-alaska-collectors-edition.json) |
+| Vacation Paradise: California - Collector's Edition | 192473 | [192473-vacation-paradise-california-collectors-edition.json](./192473-vacation-paradise-california-collectors-edition.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
 | Vacation Paradise: France | 416158 | [416158-vacation-paradise-france.json](./416158-vacation-paradise-france.json) |
 | Vacation Paradise: France - Collector's Edition | 226489 | [226489-vacation-paradise-france-collectors-edition.json](./226489-vacation-paradise-france-collectors-edition.json) |
