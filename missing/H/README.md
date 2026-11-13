@@ -10407,6 +10407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
 | Honey Select Unlimited | 108930 | [108930-honey-select-unlimited.json](./108930-honey-select-unlimited.json) |
+| Honey Sweet Lies | 183103 | [183103-honey-sweet-lies.json](./183103-honey-sweet-lies.json) |
 | Honey Time! with Pooh! | 286613 | [286613-honey-time-with-pooh.json](./286613-honey-time-with-pooh.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap | 379540 | [379540-honey-trap.json](./379540-honey-trap.json) |
