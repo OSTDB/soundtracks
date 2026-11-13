@@ -6428,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobstruck | 398411 | [398411-gobstruck.json](./398411-gobstruck.json) |
 | Gobutiko | 367927 | [367927-gobutiko.json](./367927-gobutiko.json) |
 | Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
+| Gobz: To the Moon | 194492 | [194492-gobz-to-the-moon.json](./194492-gobz-to-the-moon.json) |
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | GOC-Streetz | 342311 | [342311-goc-streetz.json](./342311-goc-streetz.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosh A Ghost | 188872 | [188872-gosh-a-ghost.json](./188872-gosh-a-ghost.json) |
+| Goshujin-sama, Maid Fuku wo Nugasanaide. | 194489 | [194489-goshujin-sama-maid-fuku-wo-nugasanaide.json](./194489-goshujin-sama-maid-fuku-wo-nugasanaide.json) |
 | Goshzilla Is In Love | 319540 | [319540-goshzilla-is-in-love.json](./319540-goshzilla-is-in-love.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
