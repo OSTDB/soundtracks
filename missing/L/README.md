@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lián Yīxiē Xiǎo Qīngxīn de Lièqí Gùshì | 128313 | [128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json](./128313-lian-yixie-xiao-qingxin-de-lieqi-gushi.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
+| Lianhai Casino | 217048 | [217048-lianhai-casino.json](./217048-lianhai-casino.json) |
 | Lianliankan | 228208 | [228208-lianliankan.json](./228208-lianliankan.json) |
 | Liar & raiL FanDisk: Hotch Potch | 59171 | [59171-liar-and-rail-fandisk-hotch-potch.json](./59171-liar-and-rail-fandisk-hotch-potch.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Go Up | 422436 | [422436-line-go-up.json](./422436-line-go-up.json) |
 | Line Goes Up | 352470 | [352470-line-goes-up.json](./352470-line-goes-up.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
+| Line Hold | 217052 | [217052-line-hold.json](./217052-line-hold.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line Leader | 151509 | [151509-line-leader.json](./151509-line-leader.json) |
 | Line Link | 261653 | [261653-line-link.json](./261653-line-link.json) |
