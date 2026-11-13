@@ -7966,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore Rapture | 349080 | [349080-gore-rapture.json](./349080-gore-rapture.json) |
 | Gore Screaming Show | 224168 | [224168-gore-screaming-show.json](./224168-gore-screaming-show.json) |
 | Gore Sword | 387274 | [387274-gore-sword.json](./387274-gore-sword.json) |
+| Gore Tears | 190763 | [190763-gore-tears.json](./190763-gore-tears.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
