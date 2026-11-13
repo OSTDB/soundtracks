@@ -4639,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | People of Mine | 347730 | [347730-people-of-mine.json](./347730-people-of-mine.json) |
 | People of Note | 369842 | [369842-people-of-note.json](./369842-people-of-note.json) |
+| People of the Moon | 176528 | [176528-people-of-the-moon.json](./176528-people-of-the-moon.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People Power: The Game of Civil Resistance | 171526 | [171526-people-power-the-game-of-civil-resistance.json](./171526-people-power-the-game-of-civil-resistance.json) |
 | People Versus Everything | 225219 | [225219-people-versus-everything.json](./225219-people-versus-everything.json) |
@@ -6019,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Zero | 270275 | [270275-phase-zero.json](./270275-phase-zero.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasebreak | 404374 | [404374-phasebreak.json](./404374-phasebreak.json) |
+| Phased | 176527 | [176527-phased.json](./176527-phased.json) |
 | Phaser | 138492 | [138492-phaser.json](./138492-phaser.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
 | Phaser Patrol | 18564 | [18564-phaser-patrol.json](./18564-phaser-patrol.json) |
