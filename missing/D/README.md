@@ -11587,11 +11587,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 106270 | [106270-disneys-aladdin.json](./106270-disneys-aladdin.json) |
 | Disney's Aladdin | 141653 | [141653-disneys-aladdin.json](./141653-disneys-aladdin.json) |
 | Disney's Aladdin | 198669 | [198669-disneys-aladdin.json](./198669-disneys-aladdin.json) |
+| Disney's Aladdin | 204566 | [204566-disneys-aladdin.json](./204566-disneys-aladdin.json) |
+| Disney's Aladdin | 204613 | [204613-disneys-aladdin.json](./204613-disneys-aladdin.json) |
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's Aladdin in Nasira's Revenge | 10791 | [10791-disneys-aladdin-in-nasiras-revenge.json](./10791-disneys-aladdin-in-nasiras-revenge.json) |
 | Disney's Aladdin: Aladdin's Wonders of the World | 77061 | [77061-disneys-aladdin-aladdins-wonders-of-the-world.json](./77061-disneys-aladdin-aladdins-wonders-of-the-world.json) |
 | Disney's Aladdin: Chess Adventures | 78216 | [78216-disneys-aladdin-chess-adventures.json](./78216-disneys-aladdin-chess-adventures.json) |
+| Disney's Aladdin: Final Cut | 204619 | [204619-disneys-aladdin-final-cut.json](./204619-disneys-aladdin-final-cut.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's American Dragon: Jake Long - Attack of the Dark Dragon | 8464 | [8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json](./8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
@@ -11720,8 +11723,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 120518 | [120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Jungle Book | 204575 | [204575-disneys-the-jungle-book.json](./204575-disneys-the-jungle-book.json) |
+| Disney's The Jungle Book | 204576 | [204576-disneys-the-jungle-book.json](./204576-disneys-the-jungle-book.json) |
 | Disney's The Jungle Book | 204616 | [204616-disneys-the-jungle-book.json](./204616-disneys-the-jungle-book.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
+| Disney's The Lion King | 204571 | [204571-disneys-the-lion-king.json](./204571-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Lion King 1 1/2 | 79813 | [79813-disneys-the-lion-king-1-1-2.json](./79813-disneys-the-lion-king-1-1-2.json) |
 | Disney's The Lion King II: Simba's Pride | 109194 | [109194-disneys-the-lion-king-ii-simbas-pride.json](./109194-disneys-the-lion-king-ii-simbas-pride.json) |
@@ -18936,6 +18941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
 | Dstnce. | 157435 | [157435-dstnce.json](./157435-dstnce.json) |
 | Dstroy | 19223 | [19223-dstroy.json](./19223-dstroy.json) |
+| Dstroy 2 | 204610 | [204610-dstroy-2.json](./204610-dstroy-2.json) |
 | Dsync | 103361 | [103361-dsync.json](./103361-dsync.json) |
 | DT Bloodmasters | 299563 | [299563-dt-bloodmasters.json](./299563-dt-bloodmasters.json) |
 | DT Carnage | 42750 | [42750-dt-carnage.json](./42750-dt-carnage.json) |
@@ -19629,6 +19635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
 | Dungeon and Gravestone | 135414 | [135414-dungeon-and-gravestone.json](./135414-dungeon-and-gravestone.json) |
 | Dungeon and Puzzles | 142267 | [142267-dungeon-and-puzzles.json](./142267-dungeon-and-puzzles.json) |
+| Dungeon and the Hole | 204614 | [204614-dungeon-and-the-hole.json](./204614-dungeon-and-the-hole.json) |
 | Dungeon Antiqua | 318329 | [318329-dungeon-antiqua.json](./318329-dungeon-antiqua.json) |
 | Dungeon Antiqua 2 | 384193 | [384193-dungeon-antiqua-2.json](./384193-dungeon-antiqua-2.json) |
 | Dungeon Apollonios | 391579 | [391579-dungeon-apollonios.json](./391579-dungeon-apollonios.json) |
