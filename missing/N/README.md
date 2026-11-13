@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
 | Nightingale: Expanse | 237195 | [237195-nightingale-expanse.json](./237195-nightingale-expanse.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
+| Nightingale: Reverse Order | 174946 | [174946-nightingale-reverse-order.json](./174946-nightingale-reverse-order.json) |
 | NightKnight | 106329 | [106329-nightknight.json](./106329-nightknight.json) |
 | Nightlanders | 351411 | [351411-nightlanders.json](./351411-nightlanders.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
