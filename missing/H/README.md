@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
 | Half-Life: Weapon Edition | 221907 | [221907-half-life-weapon-edition.json](./221907-half-life-weapon-edition.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
+| Half-Life: Year of the Dragon | 188545 | [188545-half-life-year-of-the-dragon.json](./188545-half-life-year-of-the-dragon.json) |
 | Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
 | Half-Line Miami | 11748 | [11748-half-line-miami.json](./11748-half-line-miami.json) |
 | Half-Minute Hero | 21943 | [21943-half-minute-hero.json](./21943-half-minute-hero.json) |
