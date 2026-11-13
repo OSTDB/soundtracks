@@ -9908,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Them 2 | 143946 | [143946-shoot-them-2.json](./143946-shoot-them-2.json) |
 | Shoot Till You Meet Death | 390624 | [390624-shoot-till-you-meet-death.json](./390624-shoot-till-you-meet-death.json) |
 | Shoot to Escape | 231901 | [231901-shoot-to-escape.json](./231901-shoot-to-escape.json) |
+| Shoot to Kill | 217437 | [217437-shoot-to-kill.json](./217437-shoot-to-kill.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shoot to Shoot | 305638 | [305638-shoot-to-shoot.json](./305638-shoot-to-shoot.json) |
 | Shoot to Slide | 184427 | [184427-shoot-to-slide.json](./184427-shoot-to-slide.json) |
@@ -12286,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
+| Simulsaga: Data_Break | 217444 | [217444-simulsaga-data-break.json](./217444-simulsaga-data-break.json) |
 | Simultaneous Control | 196476 | [196476-simultaneous-control.json](./196476-simultaneous-control.json) |
 | Simultree | 349532 | [349532-simultree.json](./349532-simultree.json) |
 | Simulyator Odinochestva V Russkoy Derevne | 228853 | [228853-simulyator-odinochestva-v-russkoy-derevne.json](./228853-simulyator-odinochestva-v-russkoy-derevne.json) |
@@ -32510,6 +32512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | 136902 | [136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json](./136902-sumikko-gurashi-koko-ga-ochitsukun-desu.json) |
 | Sumikko Gurashi: Koko, Doko Nandesu? | 136908 | [136908-sumikko-gurashi-koko-doko-nandesu.json](./136908-sumikko-gurashi-koko-doko-nandesu.json) |
 | Sumikko Gurashi: Koko, Dokonan Desu? | 56216 | [56216-sumikko-gurashi-koko-dokonan-desu.json](./56216-sumikko-gurashi-koko-dokonan-desu.json) |
+| Sumikko Gurashi: Minna de Rhythm Party | 217568 | [217568-sumikko-gurashi-minna-de-rhythm-party.json](./217568-sumikko-gurashi-minna-de-rhythm-party.json) |
 | Sumikko Gurashi: Mura wo Tsukurun Desu | 56219 | [56219-sumikko-gurashi-mura-wo-tsukurun-desu.json](./56219-sumikko-gurashi-mura-wo-tsukurun-desu.json) |
 | Sumikko Gurashi: Oheya no Sumi de Tabikibun Sugoroku | 142044 | [142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json](./142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
