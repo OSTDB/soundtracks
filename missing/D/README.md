@@ -15340,6 +15340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
 | Doug The Digger | 347187 | [347187-doug-the-digger.json](./347187-doug-the-digger.json) |
+| Doug's Auto Repair | 180166 | [180166-dougs-auto-repair.json](./180166-dougs-auto-repair.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
 | Douga de Puzzle da! Puppukupuu | 227681 | [227681-douga-de-puzzle-da-puppukupuu.json](./227681-douga-de-puzzle-da-puppukupuu.json) |
