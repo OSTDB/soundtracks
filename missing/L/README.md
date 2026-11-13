@@ -10334,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lugaru | 14940 | [14940-lugaru.json](./14940-lugaru.json) |
 | Lugaru HD | 180628 | [180628-lugaru-hd.json](./180628-lugaru-hd.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
+| Luggage | 214795 | [214795-luggage.json](./214795-luggage.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luggage Retrieval Officer | 242147 | [242147-luggage-retrieval-officer.json](./242147-luggage-retrieval-officer.json) |
 | Lugh World | 267171 | [267171-lugh-world.json](./267171-lugh-world.json) |
