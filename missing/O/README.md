@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
 | Obéissance | 378586 | [378586-obeissance.json](./378586-obeissance.json) |
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
+| Obelisk | 244975 | [244975-obelisk.json](./244975-obelisk.json) |
 | Obelisk | 391668 | [391668-obelisk.json](./391668-obelisk.json) |
 | Obelix | 71703 | [71703-obelix.json](./71703-obelix.json) |
 | Obelixes Tower Defense | 204054 | [204054-obelixes-tower-defense.json](./204054-obelixes-tower-defense.json) |
@@ -2333,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once,in Times of Chaos | 164248 | [164248-once-in-times-of-chaos.json](./164248-once-in-times-of-chaos.json) |
 | Once' | 113662 | [113662-once.json](./113662-once.json) |
 | Once10 | 113664 | [113664-once10.json](./113664-once10.json) |
+| Onchu | 244957 | [244957-onchu.json](./244957-onchu.json) |
 | Oncoming Death Steam Edition | 36377 | [36377-oncoming-death-steam-edition.json](./36377-oncoming-death-steam-edition.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
@@ -3076,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
 | OneTry | 388951 | [388951-onetry.json](./388951-onetry.json) |
+| Oneway.exe | 244971 | [244971-oneway-exe.json](./244971-oneway-exe.json) |
 | OneyPlays Lost In Kickassia Disc 2 | 316317 | [316317-oneyplays-lost-in-kickassia-disc-2.json](./316317-oneyplays-lost-in-kickassia-disc-2.json) |
 | ONF: Tatakau Rasetsu he | 301935 | [301935-onf-tatakau-rasetsu-he.json](./301935-onf-tatakau-rasetsu-he.json) |
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
@@ -3521,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OOTP Baseball Go 23 | 211280 | [211280-ootp-baseball-go-23.json](./211280-ootp-baseball-go-23.json) |
 | OOTP Baseball Go! | 141512 | [141512-ootp-baseball-go.json](./141512-ootp-baseball-go.json) |
 | Ooumi Nobunaga Den: Geten II | 419450 | [419450-ooumi-nobunaga-den-geten-ii.json](./419450-ooumi-nobunaga-den-geten-ii.json) |
+| Ooze | 245062 | [245062-ooze.json](./245062-ooze.json) |
 | Ooze | 245117 | [245117-ooze.json](./245117-ooze.json) |
 | Ooze Keeper | 318118 | [318118-ooze-keeper.json](./318118-ooze-keeper.json) |
 | Ooze Less | 340825 | [340825-ooze-less.json](./340825-ooze-less.json) |
@@ -3755,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation Frog | 60411 | [60411-operation-frog.json](./60411-operation-frog.json) |
+| Operation Full Moon | 245068 | [245068-operation-full-moon.json](./245068-operation-full-moon.json) |
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
 | Operation G.H.O.S.T. | 124431 | [124431-operation-g-h-o-s-t.json](./124431-operation-g-h-o-s-t.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
@@ -4998,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otokiyome | 241380 | [241380-otokiyome.json](./241380-otokiyome.json) |
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otoko Cross: Naked Remix 2 | 381621 | [381621-otoko-cross-naked-remix-2.json](./381621-otoko-cross-naked-remix-2.json) |
+| Otoko Cross: Pretty Boys Breakup! | 244961 | [244961-otoko-cross-pretty-boys-breakup.json](./244961-otoko-cross-pretty-boys-breakup.json) |
 | Otoko Cross: Pretty Boys Dropout! | 249863 | [249863-otoko-cross-pretty-boys-dropout.json](./249863-otoko-cross-pretty-boys-dropout.json) |
 | Otoko Cross: Pretty Boys Dropout! | 259520 | [259520-otoko-cross-pretty-boys-dropout.json](./259520-otoko-cross-pretty-boys-dropout.json) |
 | Otoko Cross: Pretty Boys Klondike Solitaire | 207751 | [207751-otoko-cross-pretty-boys-klondike-solitaire.json](./207751-otoko-cross-pretty-boys-klondike-solitaire.json) |
