@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
 | Eden's Aegis | 143307 | [143307-edens-aegis.json](./143307-edens-aegis.json) |
 | Eden's Eclipse | 405559 | [405559-edens-eclipse.json](./405559-edens-eclipse.json) |
+| Eden's Edge | 221862 | [221862-edens-edge.json](./221862-edens-edge.json) |
 | Eden’s Frontier | 369836 | [369836-eden-s-frontier.json](./369836-eden-s-frontier.json) |
 | Eden's Guardian | 265806 | [265806-edens-guardian.json](./265806-edens-guardian.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
