@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Kotar | 169552 | [169552-saint-kotar.json](./169552-saint-kotar.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Kotar: The Crawling Man | 227124 | [227124-saint-kotar-the-crawling-man.json](./227124-saint-kotar-the-crawling-man.json) |
+| Saint Kotar: The Ritual | 220774 | [220774-saint-kotar-the-ritual.json](./220774-saint-kotar-the-ritual.json) |
 | Saint Kotar: The Yellow Mask | 104876 | [104876-saint-kotar-the-yellow-mask.json](./104876-saint-kotar-the-yellow-mask.json) |
 | Saint Maker | 195551 | [195551-saint-maker.json](./195551-saint-maker.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
@@ -9636,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
 | Shirou Day Online | 374533 | [374533-shirou-day-online.json](./374533-shirou-day-online.json) |
+| Shirube no Kazari | 220768 | [220768-shirube-no-kazari.json](./220768-shirube-no-kazari.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
 | Shiryou Sensen: War of the Dead | 41736 | [41736-shiryou-sensen-war-of-the-dead.json](./41736-shiryou-sensen-war-of-the-dead.json) |
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
@@ -10690,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Heist | 154065 | [154065-shutter-heist.json](./154065-shutter-heist.json) |
 | Shutter Island | 76992 | [76992-shutter-island.json](./76992-shutter-island.json) |
 | Shutter Labs | 211045 | [211045-shutter-labs.json](./211045-shutter-labs.json) |
+| Shutter Nyan!: Enhanced Edition | 220881 | [220881-shutter-nyan-enhanced-edition.json](./220881-shutter-nyan-enhanced-edition.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
@@ -13705,6 +13708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Gamblers: Storm Raiders 2 | 112078 | [112078-sky-gamblers-storm-raiders-2.json](./112078-sky-gamblers-storm-raiders-2.json) |
 | Sky Games | 186571 | [186571-sky-games.json](./186571-sky-games.json) |
+| Sky Games: Extended Edition | 220891 | [220891-sky-games-extended-edition.json](./220891-sky-games-extended-edition.json) |
 | Sky Games: Gold Edition | 375145 | [375145-sky-games-gold-edition.json](./375145-sky-games-gold-edition.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
@@ -18254,6 +18258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitude: Escape of Head | 102939 | [102939-solitude-escape-of-head.json](./102939-solitude-escape-of-head.json) |
 | Solitude: UTSS-4005 | 407608 | [407608-solitude-utss-4005.json](./407608-solitude-utss-4005.json) |
 | Solitune | 28266 | [28266-solitune.json](./28266-solitune.json) |
+| Solium Infernum | 220883 | [220883-solium-infernum.json](./220883-solium-infernum.json) |
 | Solium Infernum | 92627 | [92627-solium-infernum.json](./92627-solium-infernum.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Solium Infernum: Rectification | 238837 | [238837-solium-infernum-rectification.json](./238837-solium-infernum-rectification.json) |
@@ -30450,7 +30455,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamlands: Defense | 371947 | [371947-streamlands-defense.json](./371947-streamlands-defense.json) |
 | Streamline | 171512 | [171512-streamline.json](./171512-streamline.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
-| Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | Streamonaire | 215310 | [215310-streamonaire.json](./215310-streamonaire.json) |
 | StreamQuiz | 421859 | [421859-streamquiz.json](./421859-streamquiz.json) |
@@ -33919,6 +33923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fun Maths Science Quiz | 241771 | [241771-super-fun-maths-science-quiz.json](./241771-super-fun-maths-science-quiz.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
+| Super Funky Bowling | 220882 | [220882-super-funky-bowling.json](./220882-super-funky-bowling.json) |
 | Super Furball | 35417 | [35417-super-furball.json](./35417-super-furball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
 | Super FX Zelda | 257514 | [257514-super-fx-zelda.json](./257514-super-fx-zelda.json) |
