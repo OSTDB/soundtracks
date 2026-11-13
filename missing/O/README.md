@@ -6261,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 19 - Haunted Masquerade | 373424 | [373424-overwatch-2-season-19-haunted-masquerade.json](./373424-overwatch-2-season-19-haunted-masquerade.json) |
 | Overwatch 2: Season 2 - Greek Mythology | 228002 | [228002-overwatch-2-season-2-greek-mythology.json](./228002-overwatch-2-season-2-greek-mythology.json) |
 | Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
+| Overwatch 2: Season 3 - Asian Mythology | 234373 | [234373-overwatch-2-season-3-asian-mythology.json](./234373-overwatch-2-season-3-asian-mythology.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
 | Overwatch 2: Season 5 - High-Fantasy | 252775 | [252775-overwatch-2-season-5-high-fantasy.json](./252775-overwatch-2-season-5-high-fantasy.json) |
 | Overwatch 2: Season 6 - Invasion | 252842 | [252842-overwatch-2-season-6-invasion.json](./252842-overwatch-2-season-6-invasion.json) |
