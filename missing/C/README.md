@@ -6916,6 +6916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Bombers | 39490 | [39490-chase-bombers.json](./39490-chase-bombers.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
+| Chase Goose 2 | 242829 | [242829-chase-goose-2.json](./242829-chase-goose-2.json) |
 | Chase H.Q. | 265018 | [265018-chase-h-q.json](./265018-chase-h-q.json) |
 | Chase H.Q. | 265019 | [265019-chase-h-q.json](./265019-chase-h-q.json) |
 | Chase H.Q. | 265020 | [265020-chase-h-q.json](./265020-chase-h-q.json) |
@@ -12061,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coagula2: Flesh | 271437 | [271437-coagula2-flesh.json](./271437-coagula2-flesh.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
+| Coal Burnout | 242768 | [242768-coal-burnout.json](./242768-coal-burnout.json) |
 | Coal Duty | 405677 | [405677-coal-duty.json](./405677-coal-duty.json) |
 | Coal Escape | 194025 | [194025-coal-escape.json](./194025-coal-escape.json) |
 | Coal LLC | 333026 | [333026-coal-llc.json](./333026-coal-llc.json) |
@@ -16469,6 +16471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Dream | 229429 | [229429-cosmic-dream.json](./229429-cosmic-dream.json) |
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
 | Cosmic Drift | 308694 | [308694-cosmic-drift.json](./308694-cosmic-drift.json) |
+| Cosmic Dungeon | 242749 | [242749-cosmic-dungeon.json](./242749-cosmic-dungeon.json) |
 | Cosmic Dust & Rust | 32635 | [32635-cosmic-dust-and-rust.json](./32635-cosmic-dust-and-rust.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
@@ -19670,6 +19673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads of Helmia | 166884 | [166884-crossroads-of-helmia.json](./166884-crossroads-of-helmia.json) |
 | Crossroads of Life | 213323 | [213323-crossroads-of-life.json](./213323-crossroads-of-life.json) |
 | Crossroads OS | 272076 | [272076-crossroads-os.json](./272076-crossroads-os.json) |
+| Crossroads: Escaping the Dark | 242292 | [242292-crossroads-escaping-the-dark.json](./242292-crossroads-escaping-the-dark.json) |
 | Crossroads: Escaping the Dark - Collector's Edition | 225976 | [225976-crossroads-escaping-the-dark-collectors-edition.json](./225976-crossroads-escaping-the-dark-collectors-edition.json) |
 | Crossroads: Fatal Truths | 385225 | [385225-crossroads-fatal-truths.json](./385225-crossroads-fatal-truths.json) |
 | Crossroads: Fatal Truths - Collector's Edition | 383745 | [383745-crossroads-fatal-truths-collectors-edition.json](./383745-crossroads-fatal-truths-collectors-edition.json) |
