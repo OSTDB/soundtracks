@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
 | Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
 | Darwin Project | 27741 | [27741-darwin-project.json](./27741-darwin-project.json) |
+| Darwin's Aquarium | 190257 | [190257-darwins-aquarium.json](./190257-darwins-aquarium.json) |
 | Darwin's bots | 29080 | [29080-darwins-bots.json](./29080-darwins-bots.json) |
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
