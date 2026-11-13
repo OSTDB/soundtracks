@@ -6703,7 +6703,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
 | Little Red Hood | 48184 | [48184-little-red-hood.json](./48184-little-red-hood.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
-| Little Red Lie | 44280 | [44280-little-red-lie.json](./44280-little-red-lie.json) |
 | Little Red Memories | 278634 | [278634-little-red-memories.json](./278634-little-red-memories.json) |
 | Little Red Riding Hood | 128235 | [128235-little-red-riding-hood.json](./128235-little-red-riding-hood.json) |
 | Little Red Riding Hood | 372124 | [372124-little-red-riding-hood.json](./372124-little-red-riding-hood.json) |
