@@ -7637,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NotChess | 362748 | [362748-notchess.json](./362748-notchess.json) |
 | NotCoD | 33686 | [33686-notcod.json](./33686-notcod.json) |
 | Note 2 | 200409 | [200409-note-2.json](./200409-note-2.json) |
+| Note Brawl | 194521 | [194521-note-brawl.json](./194521-note-brawl.json) |
 | Note Fighter | 110252 | [110252-note-fighter.json](./110252-note-fighter.json) |
 | Note of Janus | 211158 | [211158-note-of-janus.json](./211158-note-of-janus.json) |
 | Note Rush: Learn to Read Music | 88948 | [88948-note-rush-learn-to-read-music.json](./88948-note-rush-learn-to-read-music.json) |
