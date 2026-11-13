@@ -12295,6 +12295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
 | Gunsport | 52239 | [52239-gunsport.json](./52239-gunsport.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
+| Gunstable Mayhem | 180872 | [180872-gunstable-mayhem.json](./180872-gunstable-mayhem.json) |
 | Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
 | Gunstar Heroes | 248636 | [248636-gunstar-heroes.json](./248636-gunstar-heroes.json) |
 | Gunstar Heroes | 6405 | [6405-gunstar-heroes.json](./6405-gunstar-heroes.json) |
