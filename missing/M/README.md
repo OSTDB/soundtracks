@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness: Off-Color | 179844 | [179844-madness-off-color.json](./179844-madness-off-color.json) |
 | Madness: Project Nexus | 58357 | [58357-madness-project-nexus.json](./58357-madness-project-nexus.json) |
 | Madness: Project Nexus - Classic | 239826 | [239826-madness-project-nexus-classic.json](./239826-madness-project-nexus-classic.json) |
+| Madness/Endless | 233264 | [233264-madness-endless.json](./233264-madness-endless.json) |
 | Madnessarum | 285318 | [285318-madnessarum.json](./285318-madnessarum.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Mado | 364841 | [364841-mado.json](./364841-mado.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madrun | 131720 | [131720-madrun.json](./131720-madrun.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
+| Madshot: Road to Madness | 233813 | [233813-madshot-road-to-madness.json](./233813-madshot-road-to-madness.json) |
 | MadSpace: To Hell and Beyond | 10144 | [10144-madspace-to-hell-and-beyond.json](./10144-madspace-to-hell-and-beyond.json) |
 | Madstone | 50721 | [50721-madstone.json](./50721-madstone.json) |
 | Madtale | 208094 | [208094-madtale.json](./208094-madtale.json) |
@@ -5944,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match Up! | 85618 | [85618-match-up.json](./85618-match-up.json) |
 | Match Venture HD | 175467 | [175467-match-venture-hd.json](./175467-match-venture-hd.json) |
+| Match Ventures | 233798 | [233798-match-ventures.json](./233798-match-ventures.json) |
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match Villains | 330634 | [330634-match-villains.json](./330634-match-villains.json) |
@@ -6720,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 399913 | [399913-maze.json](./399913-maze.json) |
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze | 77803 | [77803-maze.json](./77803-maze.json) |
+| Maze / Break | 233803 | [233803-maze-break.json](./233803-maze-break.json) |
 | Maze 100 | 232580 | [232580-maze-100.json](./232580-maze-100.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 3D | 113478 | [113478-maze-3d.json](./113478-maze-3d.json) |
@@ -13544,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Music Disc 11 | 361358 | [361358-minecraft-music-disc-11.json](./361358-minecraft-music-disc-11.json) |
 | Minecraft: Mutant Zombie Dungeons | 334047 | [334047-minecraft-mutant-zombie-dungeons.json](./334047-minecraft-mutant-zombie-dungeons.json) |
 | Minecraft: Mutants Add-On 2.0 | 334049 | [334049-minecraft-mutants-add-on-2-0.json](./334049-minecraft-mutants-add-on-2-0.json) |
+| Minecraft: N7 Mash-up | 233818 | [233818-minecraft-n7-mash-up.json](./233818-minecraft-n7-mash-up.json) |
 | Minecraft: Natural Texture Pack | 334052 | [334052-minecraft-natural-texture-pack.json](./334052-minecraft-natural-texture-pack.json) |
 | Minecraft: Nerf World | 269952 | [269952-minecraft-nerf-world.json](./269952-minecraft-nerf-world.json) |
 | Minecraft: New Nintendo 3DS Edition | 67191 | [67191-minecraft-new-nintendo-3ds-edition.json](./67191-minecraft-new-nintendo-3ds-edition.json) |
