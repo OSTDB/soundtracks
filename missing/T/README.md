@@ -7737,6 +7737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chain Witches | 299519 | [299519-the-chain-witches.json](./299519-the-chain-witches.json) |
 | The Chains That Bound Me | 125693 | [125693-the-chains-that-bound-me.json](./125693-the-chains-that-bound-me.json) |
 | The Chainsaw Incident | 52920 | [52920-the-chainsaw-incident.json](./52920-the-chainsaw-incident.json) |
+| The Chainsmokers Piano Tiles | 225399 | [225399-the-chainsmokers-piano-tiles.json](./225399-the-chainsmokers-piano-tiles.json) |
 | The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
@@ -25736,6 +25737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Fury | 317053 | [317053-titan-fury.json](./317053-titan-fury.json) |
 | Titan Glory | 147580 | [147580-titan-glory.json](./147580-titan-glory.json) |
 | Titan Hunter | 110621 | [110621-titan-hunter.json](./110621-titan-hunter.json) |
+| Titan Hunters | 225845 | [225845-titan-hunters.json](./225845-titan-hunters.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
 | Titan Lunch Retaliation | 396893 | [396893-titan-lunch-retaliation.json](./396893-titan-lunch-retaliation.json) |
@@ -28334,6 +28336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Cyberfunk | 171723 | [171723-totally-reliable-delivery-service-cyberfunk.json](./171723-totally-reliable-delivery-service-cyberfunk.json) |
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
+| Totally Reliable Delivery Service: Stunt Sets | 225919 | [225919-totally-reliable-delivery-service-stunt-sets.json](./225919-totally-reliable-delivery-service-stunt-sets.json) |
 | Totally Rigged | 407170 | [407170-totally-rigged.json](./407170-totally-rigged.json) |
 | Totally Safe Jump Enhancement System | 328303 | [328303-totally-safe-jump-enhancement-system.json](./328303-totally-safe-jump-enhancement-system.json) |
 | Totally Safe Moon Project | 403360 | [403360-totally-safe-moon-project.json](./403360-totally-safe-moon-project.json) |
