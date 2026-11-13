@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undeliverable | 289688 | [289688-undeliverable.json](./289688-undeliverable.json) |
 | Undelve | 406050 | [406050-undelve.json](./406050-undelve.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
+| Undeniable Feelings | 185176 | [185176-undeniable-feelings.json](./185176-undeniable-feelings.json) |
 | Under | 200292 | [200292-under.json](./200292-under.json) |
 | Under | 233136 | [233136-under.json](./233136-under.json) |
 | Under a Caustic Snow, I Danced | 129503 | [129503-under-a-caustic-snow-i-danced.json](./129503-under-a-caustic-snow-i-danced.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unshelved | 405254 | [405254-unshelved.json](./405254-unshelved.json) |
 | Unshuffle | 356609 | [356609-unshuffle.json](./356609-unshuffle.json) |
 | Unsight | 407039 | [407039-unsight.json](./407039-unsight.json) |
+| Unsigned Character | 185587 | [185587-unsigned-character.json](./185587-unsigned-character.json) |
 | Unslaad | 373834 | [373834-unslaad.json](./373834-unslaad.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
