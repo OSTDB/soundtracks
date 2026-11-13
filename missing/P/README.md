@@ -2060,9 +2060,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paquerette Down the Bunburrows | 193565 | [193565-paquerette-down-the-bunburrows.json](./193565-paquerette-down-the-bunburrows.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
+| Par 1 Golf 2 | 200086 | [200086-par-1-golf-2.json](./200086-par-1-golf-2.json) |
 | Par 1 Golf 3 | 175591 | [175591-par-1-golf-3.json](./175591-par-1-golf-3.json) |
 | Par 1 Golf 4 | 175308 | [175308-par-1-golf-4.json](./175308-par-1-golf-4.json) |
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
+| Par 1 Golf 6 | 200091 | [200091-par-1-golf-6.json](./200091-par-1-golf-6.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Par 72 Golf | 100375 | [100375-par-72-golf.json](./100375-par-72-golf.json) |
