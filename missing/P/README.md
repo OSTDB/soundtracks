@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
 | Paper Puzzle Ⅱ | 320787 | [320787-paper-puzzle-ii.json](./320787-paper-puzzle-ii.json) |
 | Paper Quest | 29519 | [29519-paper-quest.json](./29519-paper-quest.json) |
+| Paper Racer | 212398 | [212398-paper-racer.json](./212398-paper-racer.json) |
 | Paper Racer: Stickman Racing | 87525 | [87525-paper-racer-stickman-racing.json](./87525-paper-racer-stickman-racing.json) |
 | Paper Red and the Spirits Ink | 305484 | [305484-paper-red-and-the-spirits-ink.json](./305484-paper-red-and-the-spirits-ink.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
@@ -6736,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
 | Pictorial | 88368 | [88368-pictorial.json](./88368-pictorial.json) |
+| Pictorial 2 | 212408 | [212408-pictorial-2.json](./212408-pictorial-2.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictosaurus | 102710 | [102710-pictosaurus.json](./102710-pictosaurus.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
@@ -11272,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
 | Pocket Guild Game | 207990 | [207990-pocket-guild-game.json](./207990-pocket-guild-game.json) |
+| Pocket HalfPipe | 212391 | [212391-pocket-halfpipe.json](./212391-pocket-halfpipe.json) |
 | Pocket Hanafuda | 282472 | [282472-pocket-hanafuda.json](./282472-pocket-hanafuda.json) |
 | Pocket Harvest | 57466 | [57466-pocket-harvest.json](./57466-pocket-harvest.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
@@ -19908,11 +19911,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Fuzz: Idle Stories | 102009 | [102009-puzzle-fuzz-idle-stories.json](./102009-puzzle-fuzz-idle-stories.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
+| Puzzle Galaxy: Animal Album | 212363 | [212363-puzzle-galaxy-animal-album.json](./212363-puzzle-galaxy-animal-album.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
+| Puzzle Galaxy: Beautiful Views | 212362 | [212362-puzzle-galaxy-beautiful-views.json](./212362-puzzle-galaxy-beautiful-views.json) |
 | Puzzle Galaxy: Complete Bundle | 378866 | [378866-puzzle-galaxy-complete-bundle.json](./378866-puzzle-galaxy-complete-bundle.json) |
+| Puzzle Galaxy: Cuteness Overload | 212364 | [212364-puzzle-galaxy-cuteness-overload.json](./212364-puzzle-galaxy-cuteness-overload.json) |
 | Puzzle Galaxy: Drawings Bundle | 214000 | [214000-puzzle-galaxy-drawings-bundle.json](./214000-puzzle-galaxy-drawings-bundle.json) |
 | Puzzle Galaxy: Moody Pics - 57 new puzzles | 378864 | [378864-puzzle-galaxy-moody-pics-57-new-puzzles.json](./378864-puzzle-galaxy-moody-pics-57-new-puzzles.json) |
 | Puzzle Galaxy: Pet Show - 57 new puzzles | 378865 | [378865-puzzle-galaxy-pet-show-57-new-puzzles.json](./378865-puzzle-galaxy-pet-show-57-new-puzzles.json) |
+| Puzzle Galaxy: Space & Steam | 212365 | [212365-puzzle-galaxy-space-and-steam.json](./212365-puzzle-galaxy-space-and-steam.json) |
 | Puzzle Gallery: Jigsaw Art Collection | 383155 | [383155-puzzle-gallery-jigsaw-art-collection.json](./383155-puzzle-gallery-jigsaw-art-collection.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Game | 328906 | [328906-puzzle-game.json](./328906-puzzle-game.json) |
