@@ -3785,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: Site-19 | 242325 | [242325-scp-site-19.json](./242325-scp-site-19.json) |
 | SCP: Submerged | 223253 | [223253-scp-submerged.json](./223253-scp-submerged.json) |
+| SCP: Terror Hunt | 203471 | [203471-scp-terror-hunt.json](./203471-scp-terror-hunt.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
 | SCP: The Endurance | 228377 | [228377-scp-the-endurance.json](./228377-scp-the-endurance.json) |
 | SCP: The Paranormal | 212210 | [212210-scp-the-paranormal.json](./212210-scp-the-paranormal.json) |
@@ -15315,6 +15316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter UP Core | 65300 | [65300-slotter-up-core.json](./65300-slotter-up-core.json) |
 | Slotter Up Core 12: PinPon | 79035 | [79035-slotter-up-core-12-pinpon.json](./79035-slotter-up-core-12-pinpon.json) |
 | Slotter UP Core 2 | 65299 | [65299-slotter-up-core-2.json](./65299-slotter-up-core-2.json) |
+| Slotter Up Core 3: Doronjo ni Omakase! | 203998 | [203998-slotter-up-core-3-doronjo-ni-omakase.json](./203998-slotter-up-core-3-doronjo-ni-omakase.json) |
+| Slotter UP Core 4 | 204008 | [204008-slotter-up-core-4.json](./204008-slotter-up-core-4.json) |
 | Slotter Up Core 5 | 204223 | [204223-slotter-up-core-5.json](./204223-slotter-up-core-5.json) |
 | Slotter Up Core 6 | 204224 | [204224-slotter-up-core-6.json](./204224-slotter-up-core-6.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
@@ -28747,6 +28750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Steigar | 315598 | [315598-steigar.json](./315598-steigar.json) |
 | Steigenberger Hotelmanager | 94947 | [94947-steigenberger-hotelmanager.json](./94947-steigenberger-hotelmanager.json) |
+| Steiiaria | 204001 | [204001-steiiaria.json](./204001-steiiaria.json) |
 | Stein.World | 95575 | [95575-stein-world.json](./95575-stein-world.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate 0 | 11394 | [11394-steins-gate-0.json](./11394-steins-gate-0.json) |
@@ -37709,6 +37713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor in the Forest 2 | 304935 | [304935-survivor-in-the-forest-2.json](./304935-survivor-in-the-forest-2.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
 | Survivor Jones | 157356 | [157356-survivor-jones.json](./157356-survivor-jones.json) |
+| Survivor Legends | 204015 | [204015-survivor-legends.json](./204015-survivor-legends.json) |
 | Survivor Legion | 396867 | [396867-survivor-legion.json](./396867-survivor-legion.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
 | Survivor Mercs | 239709 | [239709-survivor-mercs.json](./239709-survivor-mercs.json) |
@@ -39193,6 +39198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiosis | 326843 | [326843-symbiosis.json](./326843-symbiosis.json) |
 | Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
 | Symbiotic | 199701 | [199701-symbiotic.json](./199701-symbiotic.json) |
+| Symbiotic | 204020 | [204020-symbiotic.json](./204020-symbiotic.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symble | 324850 | [324850-symble.json](./324850-symble.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
