@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
 | Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
 | CAPTCHA Hell | 394401 | [394401-captcha-hell.json](./394401-captcha-hell.json) |
+| Captcha Kills | 201738 | [201738-captcha-kills.json](./201738-captcha-kills.json) |
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
 | Captcha The Flag | 383453 | [383453-captcha-the-flag.json](./383453-captcha-the-flag.json) |
 | CAPTCHA.Exe | 406540 | [406540-captcha-exe.json](./406540-captcha-exe.json) |
@@ -16009,6 +16010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops | 321871 | [321871-cops.json](./321871-cops.json) |
 | Cops 'n' Robbers | 95488 | [95488-cops-n-robbers.json](./95488-cops-n-robbers.json) |
+| Cops 2170: The Power of Law | 201607 | [201607-cops-2170-the-power-of-law.json](./201607-cops-2170-the-power-of-law.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
 | Cops Chase | 245528 | [245528-cops-chase.json](./245528-cops-chase.json) |
