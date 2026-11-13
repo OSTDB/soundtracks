@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Grigsby's War in the West | 59528 | [59528-gary-grigsbys-war-in-the-west.json](./59528-gary-grigsbys-war-in-the-west.json) |
 | Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
 | Gary Grigsby's World At War | 22455 | [22455-gary-grigsbys-world-at-war.json](./22455-gary-grigsbys-world-at-war.json) |
+| Gary Grigsby's World at War: A World Divided | 208494 | [208494-gary-grigsbys-world-at-war-a-world-divided.json](./208494-gary-grigsbys-world-at-war-a-world-divided.json) |
 | Gary Lineker's Hot-Shot! | 107607 | [107607-gary-linekers-hot-shot.json](./107607-gary-linekers-hot-shot.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary: Dark Secrets | 376172 | [376172-gary-dark-secrets.json](./376172-gary-dark-secrets.json) |
@@ -11785,6 +11786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Spartan | 159568 | [159568-gun-spartan.json](./159568-gun-spartan.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
+| Gun Star | 208495 | [208495-gun-star.json](./208495-gun-star.json) |
 | Gun Store Simulator | 326422 | [326422-gun-store-simulator.json](./326422-gun-store-simulator.json) |
 | Gun Strike | 221459 | [221459-gun-strike.json](./221459-gun-strike.json) |
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
