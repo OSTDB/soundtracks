@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaithEater | 301372 | [301372-faitheater.json](./301372-faitheater.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
 | Faithful Backrooms | 212883 | [212883-faithful-backrooms.json](./212883-faithful-backrooms.json) |
+| Faithful Friend | 232226 | [232226-faithful-friend.json](./232226-faithful-friend.json) |
 | Faithless Trilogy | 148277 | [148277-faithless-trilogy.json](./148277-faithless-trilogy.json) |
 | Fajoce | 95256 | [95256-fajoce.json](./95256-fajoce.json) |
 | Fake Azure Arcology | 381773 | [381773-fake-azure-arcology.json](./381773-fake-azure-arcology.json) |
