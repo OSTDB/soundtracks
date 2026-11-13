@@ -6485,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
 | Fire Hop | 348173 | [348173-fire-hop.json](./348173-fire-hop.json) |
 | Fire Hose | 212296 | [212296-fire-hose.json](./212296-fire-hose.json) |
+| Fire in the Beastlands | 189211 | [189211-fire-in-the-beastlands.json](./189211-fire-in-the-beastlands.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Dark | 380759 | [380759-fire-in-the-dark.json](./380759-fire-in-the-dark.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
@@ -8287,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavor Rave | 401310 | [401310-flavor-rave.json](./401310-flavor-rave.json) |
 | Flavors of Fortune | 301882 | [301882-flavors-of-fortune.json](./301882-flavors-of-fortune.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
+| FlavorSpace | 189222 | [189222-flavorspace.json](./189222-flavorspace.json) |
 | Flavortown | 169555 | [169555-flavortown.json](./169555-flavortown.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
 | Flavour Fare | 416514 | [416514-flavour-fare.json](./416514-flavour-fare.json) |
