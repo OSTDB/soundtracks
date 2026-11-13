@@ -10919,6 +10919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
 | Horizon Chase | 10734 | [10734-horizon-chase.json](./10734-horizon-chase.json) |
+| Horizon Chase Turbo: Ayrton Senna Edition | 220901 | [220901-horizon-chase-turbo-ayrton-senna-edition.json](./220901-horizon-chase-turbo-ayrton-senna-edition.json) |
 | Horizon Chase Turbo: Rookie Series | 170428 | [170428-horizon-chase-turbo-rookie-series.json](./170428-horizon-chase-turbo-rookie-series.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Chase Turbo: Summer Vibes | 170427 | [170427-horizon-chase-turbo-summer-vibes.json](./170427-horizon-chase-turbo-summer-vibes.json) |
@@ -13965,6 +13966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
 | Hypogean | 212045 | [212045-hypogean.json](./212045-hypogean.json) |
+| Hypogean | 221311 | [221311-hypogean.json](./221311-hypogean.json) |
 | Hypogean Descent | 266791 | [266791-hypogean-descent.json](./266791-hypogean-descent.json) |
 | Hyposolus | 409360 | [409360-hyposolus.json](./409360-hyposolus.json) |
 | Hyposphere | 33020 | [33020-hyposphere.json](./33020-hyposphere.json) |
