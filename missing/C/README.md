@@ -4701,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs | 289565 | [289565-catacombs.json](./289565-catacombs.json) |
 | Catacombs | 341456 | [341456-catacombs.json](./341456-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
+| Catacombs of the Damned | 228181 | [228181-catacombs-of-the-damned.json](./228181-catacombs-of-the-damned.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
 | Catacombs of the Undercity | 35682 | [35682-catacombs-of-the-undercity.json](./35682-catacombs-of-the-undercity.json) |
 | Catacombs of the Yokai | 192647 | [192647-catacombs-of-the-yokai.json](./192647-catacombs-of-the-yokai.json) |
@@ -5467,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman the Game | 128154 | [128154-caveman-the-game.json](./128154-caveman-the-game.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
+| Caveman. | 228190 | [228190-caveman.json](./228190-caveman.json) |
 | CaveMania | 13470 | [13470-cavemania.json](./13470-cavemania.json) |
 | Cavemaze 3D | 359720 | [359720-cavemaze-3d.json](./359720-cavemaze-3d.json) |
 | Cavemen Tales | 341618 | [341618-cavemen-tales.json](./341618-cavemen-tales.json) |
@@ -9574,6 +9576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuzzle 2 | 233720 | [233720-chuzzle-2.json](./233720-chuzzle-2.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzle Snap | 266845 | [266845-chuzzle-snap.json](./266845-chuzzle-snap.json) |
+| Chuzzle: Christmas Edition | 228643 | [228643-chuzzle-christmas-edition.json](./228643-chuzzle-christmas-edition.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | CHV: VR Trunk Escape | 151306 | [151306-chv-vr-trunk-escape.json](./151306-chv-vr-trunk-escape.json) |
 | Chwæst: A Creeping Parasite Horror | 393633 | [393633-chw-st-a-creeping-parasite-horror.json](./393633-chw-st-a-creeping-parasite-horror.json) |
@@ -10634,6 +10637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
 | Clash Caddie | 104495 | [104495-clash-caddie.json](./104495-clash-caddie.json) |
+| Clash Cards | 228194 | [228194-clash-cards.json](./228194-clash-cards.json) |
 | Clash Cats | 262834 | [262834-clash-cats.json](./262834-clash-cats.json) |
 | Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
@@ -12233,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
 | Cocoricó: Brincando de Pega-Pega | 417542 | [417542-cocorico-brincando-de-pega-pega.json](./417542-cocorico-brincando-de-pega-pega.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
+| Cocoro Inside | 228176 | [228176-cocoro-inside.json](./228176-cocoro-inside.json) |
 | Cocoro Line Defender | 85036 | [85036-cocoro-line-defender.json](./85036-cocoro-line-defender.json) |
 | Cocoro no Cocoron | 232836 | [232836-cocoro-no-cocoron.json](./232836-cocoro-no-cocoron.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
@@ -15900,6 +15905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor 2056: Ukraine WW3 | 256292 | [256292-coopvalor-2056-ukraine-ww3.json](./256292-coopvalor-2056-ukraine-ww3.json) |
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
+| Cooties Attack! | 228182 | [228182-cooties-attack.json](./228182-cooties-attack.json) |
 | Cop 01 | 40022 | [40022-cop-01.json](./40022-cop-01.json) |
 | Cop Academy | 115913 | [115913-cop-academy.json](./115913-cop-academy.json) |
 | Cop Bastard | 183657 | [183657-cop-bastard.json](./183657-cop-bastard.json) |
@@ -18238,6 +18244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
 | Crazy City | 126769 | [126769-crazy-city.json](./126769-crazy-city.json) |
+| Crazy City Driving | 228197 | [228197-crazy-city-driving.json](./228197-crazy-city-driving.json) |
 | Crazy City Golf | 423215 | [423215-crazy-city-golf.json](./423215-crazy-city-golf.json) |
 | Crazy Click Thursday | 219746 | [219746-crazy-click-thursday.json](./219746-crazy-click-thursday.json) |
 | Crazy Climber | 218249 | [218249-crazy-climber.json](./218249-crazy-climber.json) |
@@ -20330,6 +20337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid Kitchen | 244328 | [244328-cryptid-kitchen.json](./244328-cryptid-kitchen.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
 | Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
+| Cryptids | 228159 | [228159-cryptids.json](./228159-cryptids.json) |
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptis | 250895 | [250895-cryptis.json](./250895-cryptis.json) |
 | Crypto Ball Z | 235403 | [235403-crypto-ball-z.json](./235403-crypto-ball-z.json) |
