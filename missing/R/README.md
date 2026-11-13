@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambell | 226477 | [226477-rambell.json](./226477-rambell.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
+| Rambling Man | 185561 | [185561-rambling-man.json](./185561-rambling-man.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Rambo | 218330 | [218330-rambo.json](./218330-rambo.json) |
@@ -10950,6 +10951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Inferno | 374783 | [374783-rogue-inferno.json](./374783-rogue-inferno.json) |
 | Rogue Invader | 149462 | [149462-rogue-invader.json](./149462-rogue-invader.json) |
 | Rogue Islands | 32073 | [32073-rogue-islands.json](./32073-rogue-islands.json) |
+| Rogue Janitor | 185585 | [185585-rogue-janitor.json](./185585-rogue-janitor.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdom | 406323 | [406323-rogue-kingdom.json](./406323-rogue-kingdom.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
