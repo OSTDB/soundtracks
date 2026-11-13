@@ -13440,6 +13440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skijoring | 391024 | [391024-skijoring.json](./391024-skijoring.json) |
 | Skilander | 342000 | [342000-skilander.json](./342000-skilander.json) |
 | Skill at Time | 159963 | [159963-skill-at-time.json](./159963-skill-at-time.json) |
+| Skill Drop | 185046 | [185046-skill-drop.json](./185046-skill-drop.json) |
 | Skill Eater | 406397 | [406397-skill-eater.json](./406397-skill-eater.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
@@ -21128,6 +21129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bouncer | 314691 | [314691-space-bouncer.json](./314691-space-bouncer.json) |
 | Space Bound | 115224 | [115224-space-bound.json](./115224-space-bound.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
+| Space Boy | 184010 | [184010-space-boy.json](./184010-space-boy.json) |
 | Space Break | 106331 | [106331-space-break.json](./106331-space-break.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
 | Space Break 2 | 187710 | [187710-space-break-2.json](./187710-space-break-2.json) |
@@ -38149,6 +38151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
 | Swam | 30179 | [30179-swam.json](./30179-swam.json) |
+| Swamp | 185054 | [185054-swamp.json](./185054-swamp.json) |
 | Swamp | 212696 | [212696-swamp.json](./212696-swamp.json) |
 | Swamp & Towne | 277956 | [277956-swamp-and-towne.json](./277956-swamp-and-towne.json) |
 | Swamp Alchemy | 182981 | [182981-swamp-alchemy.json](./182981-swamp-alchemy.json) |
