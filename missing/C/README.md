@@ -22524,6 +22524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberCity | 228595 | [228595-cybercity.json](./228595-cybercity.json) |
 | Cybercity: Sex Saga | 367013 | [367013-cybercity-sex-saga.json](./367013-cybercity-sex-saga.json) |
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
+| CyberCode Online | 205685 | [205685-cybercode-online.json](./205685-cybercode-online.json) |
 | Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
 | Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
 | Cybercon III | 12023 | [12023-cybercon-iii.json](./12023-cybercon-iii.json) |
