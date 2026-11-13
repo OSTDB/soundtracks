@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratty Catty | 51945 | [51945-ratty-catty.json](./51945-ratty-catty.json) |
 | Rattyivty Lab | 234559 | [234559-rattyivty-lab.json](./234559-rattyivty-lab.json) |
 | Rattyvity Lab | 194753 | [194753-rattyvity-lab.json](./194753-rattyvity-lab.json) |
+| Ratuz | 195656 | [195656-ratuz.json](./195656-ratuz.json) |
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratyrinth | 258922 | [258922-ratyrinth.json](./258922-ratyrinth.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
