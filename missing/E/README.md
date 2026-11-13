@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixir | 196378 | [196378-elixir.json](./196378-elixir.json) |
+| Elixir | 226378 | [226378-elixir.json](./226378-elixir.json) |
 | Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
 | Elixir of Immortality II: The League of Immortality | 101451 | [101451-elixir-of-immortality-ii-the-league-of-immortality.json](./101451-elixir-of-immortality-ii-the-league-of-immortality.json) |
 | Elixir of Imortality: Hidden Object Game | 145113 | [145113-elixir-of-imortality-hidden-object-game.json](./145113-elixir-of-imortality-hidden-object-game.json) |
