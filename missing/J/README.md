@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.B. Harold: Murder Club | 320847 | [320847-j-b-harold-murder-club.json](./320847-j-b-harold-murder-club.json) |
 | J.B... | 228005 | [228005-j-b.json](./228005-j-b.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
+| J.D. Spy | 230596 | [230596-j-d-spy.json](./230596-j-d-spy.json) |
 | J.Edgar Hoover Vs. Kennedy | 135087 | [135087-j-edgar-hoover-vs-kennedy.json](./135087-j-edgar-hoover-vs-kennedy.json) |
 | J.J. & Jeff | 42106 | [42106-j-j-and-jeff.json](./42106-j-j-and-jeff.json) |
 | J.J's Tennis Tour | 237006 | [237006-j-js-tennis-tour.json](./237006-j-js-tennis-tour.json) |
