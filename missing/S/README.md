@@ -10228,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Stop | 131105 | [131105-short-stop.json](./131105-short-stop.json) |
 | Short Stories Collection of Class Tangerine | 55302 | [55302-short-stories-collection-of-class-tangerine.json](./55302-short-stories-collection-of-class-tangerine.json) |
+| Short Stories Paranoia | 211336 | [211336-short-stories-paranoia.json](./211336-short-stories-paranoia.json) |
 | Short Track Racing: Trading Paint | 43398 | [43398-short-track-racing-trading-paint.json](./43398-short-track-racing-trading-paint.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp | 92215 | [92215-short-warp.json](./92215-short-warp.json) |
@@ -21696,6 +21697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Misadventures DX | 326708 | [326708-space-misadventures-dx.json](./326708-space-misadventures-dx.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission | 281174 | [281174-space-mission.json](./281174-space-mission.json) |
+| Space Mission Overdrive | 211350 | [211350-space-mission-overdrive.json](./211350-space-mission-overdrive.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Molmae | 202645 | [202645-space-molmae.json](./202645-space-molmae.json) |
@@ -27257,6 +27259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
 | Starcross | 7565 | [7565-starcross.json](./7565-starcross.json) |
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
+| Starcross Starcade Special | 211341 | [211341-starcross-starcade-special.json](./211341-starcross-starcade-special.json) |
 | StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
 | Stardander School for Witches | 197061 | [197061-stardander-school-for-witches.json](./197061-stardander-school-for-witches.json) |
@@ -28096,6 +28099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
 | Stasis | 223055 | [223055-stasis.json](./223055-stasis.json) |
 | Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
+| Stasis Valley | 211351 | [211351-stasis-valley.json](./211351-stasis-valley.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | Stasis: Special Edition | 53658 | [53658-stasis-special-edition.json](./53658-stasis-special-edition.json) |
@@ -31781,6 +31785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subs | 280959 | [280959-subs.json](./280959-subs.json) |
 | Subscribe To My Adventure | 125612 | [125612-subscribe-to-my-adventure.json](./125612-subscribe-to-my-adventure.json) |
 | Subself: Lies Deep | 407848 | [407848-subself-lies-deep.json](./407848-subself-lies-deep.json) |
+| Subsequence | 211345 | [211345-subsequence.json](./211345-subsequence.json) |
 | Subserial Network | 109136 | [109136-subserial-network.json](./109136-subserial-network.json) |
 | Subside | 265550 | [265550-subside.json](./265550-subside.json) |
 | Subsideria | 86591 | [86591-subsideria.json](./86591-subsideria.json) |
