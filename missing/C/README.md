@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C:\raft | 34862 | [34862-c-raft.json](./34862-c-raft.json) |
 | C. Kane | 34880 | [34880-c-kane.json](./34880-c-kane.json) |
 | C.A.G.E. | 414376 | [414376-c-a-g-e.json](./414376-c-a-g-e.json) |
+| C.A.L.O.R.I.E.S. 9000 | 183492 | [183492-c-a-l-o-r-i-e-s-9000.json](./183492-c-a-l-o-r-i-e-s-9000.json) |
 | C.A.P.I | 307422 | [307422-c-a-p-i.json](./307422-c-a-p-i.json) |
 | C.A.P.S.: Cyber Animal Planet Survival | 195969 | [195969-c-a-p-s-cyber-animal-planet-survival.json](./195969-c-a-p-s-cyber-animal-planet-survival.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
@@ -5117,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Soup: Fluffy Town | 383150 | [383150-cats-and-soup-fluffy-town.json](./383150-cats-and-soup-fluffy-town.json) |
 | Cats & Soup: Magic Recipe | 399748 | [399748-cats-and-soup-magic-recipe.json](./399748-cats-and-soup-magic-recipe.json) |
 | Cats Academy | 141766 | [141766-cats-academy.json](./141766-cats-academy.json) |
+| Cats and Coins | 183486 | [183486-cats-and-coins.json](./183486-cats-and-coins.json) |
 | Cats and Cows | 377933 | [377933-cats-and-cows.json](./377933-cats-and-cows.json) |
 | Cats and Dogs 3D: Pets at Play | 84589 | [84589-cats-and-dogs-3d-pets-at-play.json](./84589-cats-and-dogs-3d-pets-at-play.json) |
 | Cats and Food 4: New Year | 169775 | [169775-cats-and-food-4-new-year.json](./169775-cats-and-food-4-new-year.json) |
@@ -15419,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Contasion 2 | 33891 | [33891-contasion-2.json](./33891-contasion-2.json) |
 | Contemp | 105685 | [105685-contemp.json](./105685-contemp.json) |
+| Contemporary Gods | 183096 | [183096-contemporary-gods.json](./183096-contemporary-gods.json) |
 | Contender | 44853 | [44853-contender.json](./44853-contender.json) |
 | Contender 2 | 44955 | [44955-contender-2.json](./44955-contender-2.json) |
 | Contenders: Arena | 255684 | [255684-contenders-arena.json](./255684-contenders-arena.json) |
@@ -15578,6 +15581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Over | 150437 | [150437-control-over.json](./150437-control-over.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
 | Control Resonant: Special Edition | 423091 | [423091-control-resonant-special-edition.json](./423091-control-resonant-special-edition.json) |
+| Control Room | 183502 | [183502-control-room.json](./183502-control-room.json) |
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
@@ -16864,6 +16868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos | 161477 | [161477-cosmos.json](./161477-cosmos.json) |
 | Cosmos | 281862 | [281862-cosmos.json](./281862-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
+| Cosmos Arena | 183494 | [183494-cosmos-arena.json](./183494-cosmos-arena.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Cat | 265486 | [265486-cosmos-cat.json](./265486-cosmos-cat.json) |
 | Cosmos Chaos! | 123139 | [123139-cosmos-chaos.json](./123139-cosmos-chaos.json) |
@@ -17208,6 +17213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage the Cowardly Dog: Pharaoh Phobia | 203059 | [203059-courage-the-cowardly-dog-pharaoh-phobia.json](./203059-courage-the-cowardly-dog-pharaoh-phobia.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courage: ZaGame | 338284 | [338284-courage-zagame.json](./338284-courage-zagame.json) |
+| Courage's Curse | 183479 | [183479-courages-curse.json](./183479-courages-curse.json) |
 | Courage's Reasoning Nori 5 Chewed Rice Balls | 288305 | [288305-courages-reasoning-nori-5-chewed-rice-balls.json](./288305-courages-reasoning-nori-5-chewed-rice-balls.json) |
 | Courageous Perseus | 47530 | [47530-courageous-perseus.json](./47530-courageous-perseus.json) |
 | Courageous Reasoning Nori 6 MikiEdition Last | 298567 | [298567-courageous-reasoning-nori-6-mikiedition-last.json](./298567-courageous-reasoning-nori-6-mikiedition-last.json) |
@@ -20144,6 +20150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
 | Crumb Circuit Simulator | 225986 | [225986-crumb-circuit-simulator.json](./225986-crumb-circuit-simulator.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
+| Crumble and Fall | 183499 | [183499-crumble-and-fall.json](./183499-crumble-and-fall.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
 | Crumble Zone | 109103 | [109103-crumble-zone.json](./109103-crumble-zone.json) |
 | Crumble Zone HD | 38866 | [38866-crumble-zone-hd.json](./38866-crumble-zone-hd.json) |
