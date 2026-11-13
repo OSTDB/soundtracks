@@ -5231,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax Scramble: Endless Word Puzzle | 357992 | [357992-relax-scramble-endless-word-puzzle.json](./357992-relax-scramble-endless-word-puzzle.json) |
 | Relax Simulator | 129359 | [129359-relax-simulator.json](./129359-relax-simulator.json) |
 | Relax Walk VR | 37020 | [37020-relax-walk-vr.json](./37020-relax-walk-vr.json) |
+| Relax: Mow Some Grass | 180178 | [180178-relax-mow-some-grass.json](./180178-relax-mow-some-grass.json) |
 | Relaxation balls | 30765 | [30765-relaxation-balls.json](./30765-relaxation-balls.json) |
 | Relaxe | 346928 | [346928-relaxe.json](./346928-relaxe.json) |
 | Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
