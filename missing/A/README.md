@@ -4598,6 +4598,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly RC 10: RC Flight Simulator | 272642 | [272642-aerofly-rc-10-rc-flight-simulator.json](./272642-aerofly-rc-10-rc-flight-simulator.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aerofly RC 7: Professional Edition | 171709 | [171709-aerofly-rc-7-professional-edition.json](./171709-aerofly-rc-7-professional-edition.json) |
+| Aerofly RC 8 | 168976 | [168976-aerofly-rc-8.json](./168976-aerofly-rc-8.json) |
+| Aerofly RC 8: Expansion Pack 1 | 168977 | [168977-aerofly-rc-8-expansion-pack-1.json](./168977-aerofly-rc-8-expansion-pack-1.json) |
+| Aerofly RC 8: Expansion Pack 2 | 168978 | [168978-aerofly-rc-8-expansion-pack-2.json](./168978-aerofly-rc-8-expansion-pack-2.json) |
 | Aerofoil | 177006 | [177006-aerofoil.json](./177006-aerofoil.json) |
 | AeroGauge | 3329 | [3329-aerogauge.json](./3329-aerogauge.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
@@ -15483,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
 | Arma 3: Laws of War | 95413 | [95413-arma-3-laws-of-war.json](./95413-arma-3-laws-of-war.json) |
 | Arma 3: Malden | 168911 | [168911-arma-3-malden.json](./168911-arma-3-malden.json) |
+| Arma 3: Tac-Ops | 168458 | [168458-arma-3-tac-ops.json](./168458-arma-3-tac-ops.json) |
 | Arma 3: Tanks | 168907 | [168907-arma-3-tanks.json](./168907-arma-3-tanks.json) |
 | Arma 3: Zeus | 168908 | [168908-arma-3-zeus.json](./168908-arma-3-zeus.json) |
 | Arma 4 | 204636 | [204636-arma-4.json](./204636-arma-4.json) |
