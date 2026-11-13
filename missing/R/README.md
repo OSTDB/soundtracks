@@ -6026,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2 demake | 319513 | [319513-resident-evil-2-demake.json](./319513-resident-evil-2-demake.json) |
 | Resident Evil 2: Arcade | 387130 | [387130-resident-evil-2-arcade.json](./387130-resident-evil-2-arcade.json) |
 | Resident Evil 2: Claire Costume '98 | 327113 | [327113-resident-evil-2-claire-costume-98.json](./327113-resident-evil-2-claire-costume-98.json) |
+| Resident Evil 2: Cloud Version | 217561 | [217561-resident-evil-2-cloud-version.json](./217561-resident-evil-2-cloud-version.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Deluxe Edition | 110809 | [110809-resident-evil-2-deluxe-edition.json](./110809-resident-evil-2-deluxe-edition.json) |
@@ -6042,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2: Steelbook Edition | 111326 | [111326-resident-evil-2-steelbook-edition.json](./111326-resident-evil-2-steelbook-edition.json) |
 | Resident Evil 2: The Ghost Survivors | 228709 | [228709-resident-evil-2-the-ghost-survivors.json](./228709-resident-evil-2-the-ghost-survivors.json) |
 | Resident Evil 2: Zombie Crisis | 339246 | [339246-resident-evil-2-zombie-crisis.json](./339246-resident-evil-2-zombie-crisis.json) |
+| Resident Evil 3: Cloud Version | 217562 | [217562-resident-evil-3-cloud-version.json](./217562-resident-evil-3-cloud-version.json) |
 | Resident Evil 3: Collector's Edition | 136051 | [136051-resident-evil-3-collectors-edition.json](./136051-resident-evil-3-collectors-edition.json) |
 | Resident Evil 3: Dark Infection | 229088 | [229088-resident-evil-3-dark-infection.json](./229088-resident-evil-3-dark-infection.json) |
 | Resident Evil 3: Lenticular Edition | 386267 | [386267-resident-evil-3-lenticular-edition.json](./386267-resident-evil-3-lenticular-edition.json) |
@@ -6129,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Survivor 2 Code: Veronica | 19886 | [19886-resident-evil-survivor-2-code-veronica.json](./19886-resident-evil-survivor-2-code-veronica.json) |
 | Resident Evil Veronica | 404673 | [404673-resident-evil-veronica.json](./404673-resident-evil-veronica.json) |
 | Resident Evil Village & Resident Evil 7 Complete Bundle | 142813 | [142813-resident-evil-village-and-resident-evil-7-complete-bundle.json](./142813-resident-evil-village-and-resident-evil-7-complete-bundle.json) |
+| Resident Evil Village: Cloud Version | 217560 | [217560-resident-evil-village-cloud-version.json](./217560-resident-evil-village-cloud-version.json) |
 | Resident Evil Village: Collector's Edition | 142812 | [142812-resident-evil-village-collectors-edition.json](./142812-resident-evil-village-collectors-edition.json) |
 | Resident Evil Village: Deluxe Edition | 142810 | [142810-resident-evil-village-deluxe-edition.json](./142810-resident-evil-village-deluxe-edition.json) |
 | Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
@@ -7662,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Scarry's How Things Work In Busytown | 64086 | [64086-richard-scarrys-how-things-work-in-busytown.json](./64086-richard-scarrys-how-things-work-in-busytown.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richat Structure | 344095 | [344095-richat-structure.json](./344095-richat-structure.json) |
+| RichBroker | 217050 | [217050-richbroker.json](./217050-richbroker.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
 | Richest Thief | 369360 | [369360-richest-thief.json](./369360-richest-thief.json) |
@@ -10091,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
 | Rock Paper Scissors Champion | 33322 | [33322-rock-paper-scissors-champion.json](./33322-rock-paper-scissors-champion.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
+| Rock Paper Scissors Ultimate | 217440 | [217440-rock-paper-scissors-ultimate.json](./217440-rock-paper-scissors-ultimate.json) |
 | Rock Paper Scissors: Breakthrough Gaming Arcade | 199781 | [199781-rock-paper-scissors-breakthrough-gaming-arcade.json](./199781-rock-paper-scissors-breakthrough-gaming-arcade.json) |
 | Rock Paper Scissors: Breakthrough Gaming Arcade - Challenge Mode Edition | 207073 | [207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json](./207073-rock-paper-scissors-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Rock Paper Scissors: Extreme Deathmatch | 387956 | [387956-rock-paper-scissors-extreme-deathmatch.json](./387956-rock-paper-scissors-extreme-deathmatch.json) |
@@ -11202,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll of Fate | 311911 | [311911-roll-of-fate.json](./311911-roll-of-fate.json) |
+| Roll on Dice | 217423 | [217423-roll-on-dice.json](./217423-roll-on-dice.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll or Die | 417252 | [417252-roll-or-die.json](./417252-roll-or-die.json) |
 | Roll Out | 43151 | [43151-roll-out.json](./43151-roll-out.json) |
