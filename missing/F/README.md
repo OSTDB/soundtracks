@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
 | Fantasy Sino-Japanese War | 114268 | [114268-fantasy-sino-japanese-war.json](./114268-fantasy-sino-japanese-war.json) |
 | Fantasy Sliding Puzzle | 166638 | [166638-fantasy-sliding-puzzle.json](./166638-fantasy-sliding-puzzle.json) |
+| Fantasy Sliding Puzzle 3 | 173851 | [173851-fantasy-sliding-puzzle-3.json](./173851-fantasy-sliding-puzzle-3.json) |
 | Fantasy Sliding Puzzle 4 | 189970 | [189970-fantasy-sliding-puzzle-4.json](./189970-fantasy-sliding-puzzle-4.json) |
 | Fantasy Sliding Puzzle 5 | 286462 | [286462-fantasy-sliding-puzzle-5.json](./286462-fantasy-sliding-puzzle-5.json) |
 | Fantasy Slots: Adventure Slots and Games | 60449 | [60449-fantasy-slots-adventure-slots-and-games.json](./60449-fantasy-slots-adventure-slots-and-games.json) |
@@ -4439,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
 | Fetish Locator: S&M Studio | 393690 | [393690-fetish-locator-s-and-m-studio.json](./393690-fetish-locator-s-and-m-studio.json) |
+| Fetish Locator: Week Two | 173870 | [173870-fetish-locator-week-two.json](./173870-fetish-locator-week-two.json) |
 | Fetish: Every Second Counts | 398067 | [398067-fetish-every-second-counts.json](./398067-fetish-every-second-counts.json) |
 | Fetter and Feeling | 401325 | [401325-fetter-and-feeling.json](./401325-fetter-and-feeling.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
@@ -4532,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiber Twig | 135101 | [135101-fiber-twig.json](./135101-fiber-twig.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fiber Twig: Midnight Puzzle | 30701 | [30701-fiber-twig-midnight-puzzle.json](./30701-fiber-twig-midnight-puzzle.json) |
+| FiberTales: DummyKart | 173890 | [173890-fibertales-dummykart.json](./173890-fibertales-dummykart.json) |
 | Fibonacci Box | 184369 | [184369-fibonacci-box.json](./184369-fibonacci-box.json) |
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
 | Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
@@ -4997,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight-Quest | 349445 | [349445-fight-quest.json](./349445-fight-quest.json) |
 | Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
 | Fight! Olyn Island | 261605 | [261605-fight-olyn-island.json](./261605-fight-olyn-island.json) |
+| Fight.exe | 173895 | [173895-fight-exe.json](./173895-fight-exe.json) |
 | Fight'n Rage: 5th Anniversary Limited Edition | 242370 | [242370-fightn-rage-5th-anniversary-limited-edition.json](./242370-fightn-rage-5th-anniversary-limited-edition.json) |
 | Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
