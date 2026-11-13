@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi Fantast | 179382 | [179382-hanabi-fantast.json](./179382-hanabi-fantast.json) |
 | Hanabi Hyakkei Advance | 49636 | [49636-hanabi-hyakkei-advance.json](./49636-hanabi-hyakkei-advance.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
+| Hanabi Zekkei | 233288 | [233288-hanabi-zekkei.json](./233288-hanabi-zekkei.json) |
 | Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
 | Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
@@ -2472,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harshlands | 228879 | [228879-harshlands.json](./228879-harshlands.json) |
 | Hart's Toil | 300213 | [300213-harts-toil.json](./300213-harts-toil.json) |
 | Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
+| Hartenjagen | 233296 | [233296-hartenjagen.json](./233296-hartenjagen.json) |
 | Harthorn | 148203 | [148203-harthorn.json](./148203-harthorn.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Harts Island | 137771 | [137771-harts-island.json](./137771-harts-island.json) |
@@ -7729,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object Vampires Temple | 241213 | [241213-hidden-object-vampires-temple.json](./241213-hidden-object-vampires-temple.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
+| Hidden Object: Adventures Duke of Richelieu | 233259 | [233259-hidden-object-adventures-duke-of-richelieu.json](./233259-hidden-object-adventures-duke-of-richelieu.json) |
 | Hidden Object: Age of the Dinosaurs | 98352 | [98352-hidden-object-age-of-the-dinosaurs.json](./98352-hidden-object-age-of-the-dinosaurs.json) |
 | Hidden Object: Aliens - The Arrival | 98401 | [98401-hidden-object-aliens-the-arrival.json](./98401-hidden-object-aliens-the-arrival.json) |
 | Hidden Object: Ancient Mystery | 98555 | [98555-hidden-object-ancient-mystery.json](./98555-hidden-object-ancient-mystery.json) |
@@ -12808,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Badlands | 5864 | [5864-hummer-badlands.json](./5864-hummer-badlands.json) |
+| Hummer Extreme Edition | 233284 | [233284-hummer-extreme-edition.json](./233284-hummer-extreme-edition.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
