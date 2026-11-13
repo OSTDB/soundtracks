@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoMachina | 188915 | [188915-nanomachina.json](./188915-nanomachina.json) |
 | Nanoman | 238377 | [238377-nanoman.json](./238377-nanoman.json) |
 | Nanomedix Inc | 31023 | [31023-nanomedix-inc.json](./31023-nanomedix-inc.json) |
+| Nanomon | 220761 | [220761-nanomon.json](./220761-nanomon.json) |
 | Nanooborg | 31562 | [31562-nanooborg.json](./31562-nanooborg.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
@@ -6663,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Lord of Darkness | 394236 | [394236-nobunagas-ambition-lord-of-darkness.json](./394236-nobunagas-ambition-lord-of-darkness.json) |
 | Nobunaga's Ambition: Ranseiki | 267525 | [267525-nobunagas-ambition-ranseiki.json](./267525-nobunagas-ambition-ranseiki.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
+| Nobunaga's Ambition: Rebirth - Digital Deluxe Edition | 220890 | [220890-nobunagas-ambition-rebirth-digital-deluxe-edition.json](./220890-nobunagas-ambition-rebirth-digital-deluxe-edition.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Reppuden | 60093 | [60093-nobunagas-ambition-reppuden.json](./60093-nobunagas-ambition-reppuden.json) |
 | Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
@@ -7320,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Star | 131109 | [131109-north-star.json](./131109-north-star.json) |
 | North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
+| North Tower | 220231 | [220231-north-tower.json](./220231-north-tower.json) |
 | North Town | 143902 | [143902-north-town.json](./143902-north-town.json) |
 | North Wind: Eien no Yakusoku | 331050 | [331050-north-wind-eien-no-yakusoku.json](./331050-north-wind-eien-no-yakusoku.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
