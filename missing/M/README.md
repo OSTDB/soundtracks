@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagMax | 29033 | [29033-magmax.json](./29033-magmax.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
+| Magna Carta Portable | 196741 | [196741-magna-carta-portable.json](./196741-magna-carta-portable.json) |
 | Magna Carta: Tears of Blood | 22595 | [22595-magna-carta-tears-of-blood.json](./22595-magna-carta-tears-of-blood.json) |
 | Magna Carta: Tears of Blood - Deluxe Box Set | 43423 | [43423-magna-carta-tears-of-blood-deluxe-box-set.json](./43423-magna-carta-tears-of-blood-deluxe-box-set.json) |
 | Magna Carta: The Phantom of Avalanche | 69641 | [69641-magna-carta-the-phantom-of-avalanche.json](./69641-magna-carta-the-phantom-of-avalanche.json) |
@@ -3196,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
+| Man Without Organs | 196781 | [196781-man-without-organs.json](./196781-man-without-organs.json) |
 | Man Wreck | 125683 | [125683-man-wreck.json](./125683-man-wreck.json) |
 | Man, I Hate That Indie Game! | 233379 | [233379-man-i-hate-that-indie-game.json](./233379-man-i-hate-that-indie-game.json) |
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
@@ -9826,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of Torenia | 118632 | [118632-memory-of-torenia.json](./118632-memory-of-torenia.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
 | Memory Puzzle Adventure | 285893 | [285893-memory-puzzle-adventure.json](./285893-memory-puzzle-adventure.json) |
+| Memory Puzzle: Bad Girl | 196772 | [196772-memory-puzzle-bad-girl.json](./196772-memory-puzzle-bad-girl.json) |
 | Memory Puzzle: Futanari Boss | 212983 | [212983-memory-puzzle-futanari-boss.json](./212983-memory-puzzle-futanari-boss.json) |
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
