@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 I My Pet Hotel & My Vet Practice: In the Country | 127329 | [127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json](./127329-2-in-1-i-my-pet-hotel-and-my-vet-practice-in-the-country.json) |
 | 2 in 1 Pack: St. Thomas - Elisabeth I. | 137498 | [137498-2-in-1-pack-st-thomas-elisabeth-i.json](./137498-2-in-1-pack-st-thomas-elisabeth-i.json) |
 | 2 in 1 Pack: Super Bubsy/Lollypop | 182328 | [182328-2-in-1-pack-super-bubsy-lollypop.json](./182328-2-in-1-pack-super-bubsy-lollypop.json) |
+| 2 in 1 Series: SL - Gyakushuu Chika Teikoku | 225252 | [225252-2-in-1-series-sl-gyakushuu-chika-teikoku.json](./225252-2-in-1-series-sl-gyakushuu-chika-teikoku.json) |
 | 2 in 1 Trivia All-Stars | 79632 | [79632-2-in-1-trivia-all-stars.json](./79632-2-in-1-trivia-all-stars.json) |
 | 2 in 1 Workout | 232565 | [232565-2-in-1-workout.json](./232565-2-in-1-workout.json) |
 | 2 in 1: Block Buster/Cross High | 70870 | [70870-2-in-1-block-buster-cross-high.json](./70870-2-in-1-block-buster-cross-high.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
+| 96: Another Story | 224877 | [224877-96-another-story.json](./224877-96-another-story.json) |
 | 98xx | 249715 | [249715-98xx.json](./249715-98xx.json) |
 | 99 Arrows | 67204 | [67204-99-arrows.json](./67204-99-arrows.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
