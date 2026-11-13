@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
 | Dawn's Light 3 | 324737 | [324737-dawns-light-3.json](./324737-dawns-light-3.json) |
+| Dawnbreaker: Aeon's Reach | 170597 | [170597-dawnbreaker-aeons-reach.json](./170597-dawnbreaker-aeons-reach.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
 | DawnCraft | 272073 | [272073-dawncraft.json](./272073-dawncraft.json) |
@@ -17143,8 +17144,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw a Line Adventure | 220418 | [220418-draw-a-line-adventure.json](./220418-draw-a-line-adventure.json) |
 | Draw a Perfect Circle | 328844 | [328844-draw-a-perfect-circle.json](./328844-draw-a-perfect-circle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
+| Draw a Stickman: Epic - Friend's Journey | 170565 | [170565-draw-a-stickman-epic-friends-journey.json](./170565-draw-a-stickman-epic-friends-journey.json) |
 | Draw a Stickman: Epic & Epic 2 | 165876 | [165876-draw-a-stickman-epic-and-epic-2.json](./165876-draw-a-stickman-epic-and-epic-2.json) |
 | Draw a Stickman: Epic 2 | 34433 | [34433-draw-a-stickman-epic-2.json](./34433-draw-a-stickman-epic-2.json) |
+| Draw a Stickman: Epic 2 - Drawn Below | 170600 | [170600-draw-a-stickman-epic-2-drawn-below.json](./170600-draw-a-stickman-epic-2-drawn-below.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
 | Draw a Stickman: Epic HD | 89101 | [89101-draw-a-stickman-epic-hd.json](./89101-draw-a-stickman-epic-hd.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
