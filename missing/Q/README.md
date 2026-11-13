@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantineer | 189787 | [189787-quarantineer.json](./189787-quarantineer.json) |
 | Quarantini | 134923 | [134923-quarantini.json](./134923-quarantini.json) |
 | Quarion | 354122 | [354122-quarion.json](./354122-quarion.json) |
+| Quark | 232734 | [232734-quark.json](./232734-quark.json) |
 | Quarked up Omnibus: Clean - Fix - Escape | 372600 | [372600-quarked-up-omnibus-clean-fix-escape.json](./372600-quarked-up-omnibus-clean-fix-escape.json) |
 | Quarky & Quaysoo's Turbo Science | 46981 | [46981-quarky-and-quaysoos-turbo-science.json](./46981-quarky-and-quaysoos-turbo-science.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
 | Quiz Thiz France: Bronze Edition | 230776 | [230776-quiz-thiz-france-bronze-edition.json](./230776-quiz-thiz-france-bronze-edition.json) |
+| Quiz Thiz France: Gold Edition | 232720 | [232720-quiz-thiz-france-gold-edition.json](./232720-quiz-thiz-france-gold-edition.json) |
 | Quiz Thiz France: Silver Edition | 232021 | [232021-quiz-thiz-france-silver-edition.json](./232021-quiz-thiz-france-silver-edition.json) |
 | Quiz Thiz Germany | 242167 | [242167-quiz-thiz-germany.json](./242167-quiz-thiz-germany.json) |
 | Quiz Thiz Germany: Bronze Edition | 242549 | [242549-quiz-thiz-germany-bronze-edition.json](./242549-quiz-thiz-germany-bronze-edition.json) |
