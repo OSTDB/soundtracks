@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
+| Embers of the Zombie Battlemage: Halloween - Real Werewolves of Massachusetts | 225927 | [225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json](./225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json) |
 | Embers of War | 56608 | [56608-embers-of-war.json](./56608-embers-of-war.json) |
 | Embers: Return to Dragonland | 267273 | [267273-embers-return-to-dragonland.json](./267273-embers-return-to-dragonland.json) |
 | Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
