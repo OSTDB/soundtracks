@@ -6748,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
 | The Barkless Doctrine | 263834 | [263834-the-barkless-doctrine.json](./263834-the-barkless-doctrine.json) |
+| The Barnacle Goose Experiment | 227428 | [227428-the-barnacle-goose-experiment.json](./227428-the-barnacle-goose-experiment.json) |
 | The Barnacle Squad | 265284 | [265284-the-barnacle-squad.json](./265284-the-barnacle-squad.json) |
 | The Barney Fun Page! | 338038 | [338038-the-barney-fun-page.json](./338038-the-barney-fun-page.json) |
 | The Barnhouse Killer | 336277 | [336277-the-barnhouse-killer.json](./336277-the-barnhouse-killer.json) |
@@ -7257,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Aaru | 214267 | [214267-the-book-of-aaru.json](./214267-the-book-of-aaru.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Bondmaids | 171672 | [171672-the-book-of-bondmaids.json](./171672-the-book-of-bondmaids.json) |
+| The Book of Bondmaids: Tales | 226905 | [226905-the-book-of-bondmaids-tales.json](./226905-the-book-of-bondmaids-tales.json) |
 | The Book of Buja | 305248 | [305248-the-book-of-buja.json](./305248-the-book-of-buja.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
