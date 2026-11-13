@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit and Turtle | 285846 | [285846-rabbit-and-turtle.json](./285846-rabbit-and-turtle.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
+| Rabbit Canyon | 192852 | [192852-rabbit-canyon.json](./192852-rabbit-canyon.json) |
 | Rabbit Claw Party | 405542 | [405542-rabbit-claw-party.json](./405542-rabbit-claw-party.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Evolution Merge | 348420 | [348420-rabbit-evolution-merge.json](./348420-rabbit-evolution-merge.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | Ratocalypse | 381543 | [381543-ratocalypse.json](./381543-ratocalypse.json) |
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
+| Ratomon 2 | 192859 | [192859-ratomon-2.json](./192859-ratomon-2.json) |
 | Ratpad vs Everglide: Battle of the Pads | 24118 | [24118-ratpad-vs-everglide-battle-of-the-pads.json](./24118-ratpad-vs-everglide-battle-of-the-pads.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats - Time is running out! | 35805 | [35805-rats-time-is-running-out.json](./35805-rats-time-is-running-out.json) |
@@ -2926,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
 | Re:Red | 415332 | [415332-re-red.json](./415332-re-red.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
+| RE:Solver | 192862 | [192862-re-solver.json](./192862-re-solver.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Stage! Prism Step | 77720 | [77720-re-stage-prism-step.json](./77720-re-stage-prism-step.json) |
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
@@ -3416,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realization | 345438 | [345438-realization.json](./345438-realization.json) |
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
 | Realize Me | 307873 | [307873-realize-me.json](./307873-realize-me.json) |
+| Really Another True | 192858 | [192858-really-another-true.json](./192858-really-another-true.json) |
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
 | Really Bad Flying Machine | 137219 | [137219-really-bad-flying-machine.json](./137219-really-bad-flying-machine.json) |
 | Really Big Sky | 10755 | [10755-really-big-sky.json](./10755-really-big-sky.json) |
@@ -8599,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Robots | 301043 | [301043-rise-of-robots.json](./301043-rise-of-robots.json) |
 | Rise of Saiyan | 103695 | [103695-rise-of-saiyan.json](./103695-rise-of-saiyan.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
+| Rise of Stars | 192472 | [192472-rise-of-stars.json](./192472-rise-of-stars.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of State | 383450 | [383450-rise-of-state.json](./383450-rise-of-state.json) |
 | Rise of Stikeez | 176696 | [176696-rise-of-stikeez.json](./176696-rise-of-stikeez.json) |
