@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Profile: Lenneth | 22756 | [22756-valkyrie-profile-lenneth.json](./22756-valkyrie-profile-lenneth.json) |
 | Valkyrie Profile: Lenneth | 229482 | [229482-valkyrie-profile-lenneth.json](./229482-valkyrie-profile-lenneth.json) |
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
+| Valkyrie Rush | 194047 | [194047-valkyrie-rush.json](./194047-valkyrie-rush.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
 | Valkyrie Spirits | 189991 | [189991-valkyrie-spirits.json](./189991-valkyrie-spirits.json) |
 | Valkyrie Squad: Siege Breakers | 282263 | [282263-valkyrie-squad-siege-breakers.json](./282263-valkyrie-squad-siege-breakers.json) |
