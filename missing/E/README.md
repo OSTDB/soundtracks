@@ -7760,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: The Game - Deluxe Edition | 192308 | [192308-evil-dead-the-game-deluxe-edition.json](./192308-evil-dead-the-game-deluxe-edition.json) |
 | Evil Dead: The Game - Game of the Year Edition | 244790 | [244790-evil-dead-the-game-game-of-the-year-edition.json](./244790-evil-dead-the-game-game-of-the-year-edition.json) |
 | Evil Dead: The Game - Hail to the King Bundle | 227339 | [227339-evil-dead-the-game-hail-to-the-king-bundle.json](./227339-evil-dead-the-game-hail-to-the-king-bundle.json) |
+| Evil Dead: The Game - Immortal Power Bundle | 234978 | [234978-evil-dead-the-game-immortal-power-bundle.json](./234978-evil-dead-the-game-immortal-power-bundle.json) |
 | Evil Dead: The Game - The Classics Bundle | 227111 | [227111-evil-dead-the-game-the-classics-bundle.json](./227111-evil-dead-the-game-the-classics-bundle.json) |
 | Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
 | Evil Dead: Virtual Nightmare | 106683 | [106683-evil-dead-virtual-nightmare.json](./106683-evil-dead-virtual-nightmare.json) |
