@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beams | 113950 | [113950-beams.json](./113950-beams.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
 | Bean | 145760 | [145760-bean.json](./145760-bean.json) |
+| Bean | 182958 | [182958-bean.json](./182958-bean.json) |
 | Bean | 311237 | [311237-bean.json](./311237-bean.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
 | Bean and Nothingness | 171204 | [171204-bean-and-nothingness.json](./171204-bean-and-nothingness.json) |
@@ -12123,6 +12124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Red Fists | 190292 | [190292-blood-red-fists.json](./190292-blood-red-fists.json) |
 | Blood Red Rebirth | 384313 | [384313-blood-red-rebirth.json](./384313-blood-red-rebirth.json) |
 | Blood Relation Part1. | 148727 | [148727-blood-relation-part1.json](./148727-blood-relation-part1.json) |
+| Blood Reminds | 182573 | [182573-blood-reminds.json](./182573-blood-reminds.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Rivals: Survival Battleground Shooting Games | 216076 | [216076-blood-rivals-survival-battleground-shooting-games.json](./216076-blood-rivals-survival-battleground-shooting-games.json) |
