@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Sorrow 5 Game Pack Hidden Object | 145115 | [145115-darkness-and-sorrow-5-game-pack-hidden-object.json](./145115-darkness-and-sorrow-5-game-pack-hidden-object.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
+| Darkness Dwells | 183102 | [183102-darkness-dwells.json](./183102-darkness-dwells.json) |
 | Darkness Eternal | 150312 | [150312-darkness-eternal.json](./150312-darkness-eternal.json) |
 | Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
 | Darkness Has Eyes | 406857 | [406857-darkness-has-eyes.json](./406857-darkness-has-eyes.json) |
@@ -19515,6 +19516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
 | Dull Acres | 303495 | [303495-dull-acres.json](./303495-dull-acres.json) |
 | Dull Grey | 146168 | [146168-dull-grey.json](./146168-dull-grey.json) |
+| Dullahan | 183489 | [183489-dullahan.json](./183489-dullahan.json) |
 | Dullahan-san no Atama wo Omochikaeri Suru | 394771 | [394771-dullahan-san-no-atama-wo-omochikaeri-suru.json](./394771-dullahan-san-no-atama-wo-omochikaeri-suru.json) |
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
@@ -20082,6 +20084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Party | 15317 | [15317-dungeon-party.json](./15317-dungeon-party.json) |
 | Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
+| Dungeon Pest Control | 183099 | [183099-dungeon-pest-control.json](./183099-dungeon-pest-control.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Plunder | 175463 | [175463-dungeon-plunder.json](./175463-dungeon-plunder.json) |
 | Dungeon Princess 2 | 299197 | [299197-dungeon-princess-2.json](./299197-dungeon-princess-2.json) |
