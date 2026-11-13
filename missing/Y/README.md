@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
 | Yandere Goth Delinquent Trouble 3 | 389805 | [389805-yandere-goth-delinquent-trouble-3.json](./389805-yandere-goth-delinquent-trouble-3.json) |
 | Yandere Goth Delinquent Trouble 4 | 389810 | [389810-yandere-goth-delinquent-trouble-4.json](./389810-yandere-goth-delinquent-trouble-4.json) |
+| Yandere Heaven | 194510 | [194510-yandere-heaven.json](./194510-yandere-heaven.json) |
 | Yandere Institute Dating Simulator | 296311 | [296311-yandere-institute-dating-simulator.json](./296311-yandere-institute-dating-simulator.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere Maid: Love-Crazed Maid | 374870 | [374870-yandere-maid-love-crazed-maid.json](./374870-yandere-maid-love-crazed-maid.json) |
