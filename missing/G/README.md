@@ -6378,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin Towers | 41152 | [41152-goblin-towers.json](./41152-goblin-towers.json) |
+| Goblin Town | 190109 | [190109-goblin-town.json](./190109-goblin-town.json) |
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin Village | 353718 | [353718-goblin-village.json](./353718-goblin-village.json) |
