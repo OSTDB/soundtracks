@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Mario Bros. | 212694 | [212694-infinite-mario-bros.json](./212694-infinite-mario-bros.json) |
 | Infinite Maze | 101213 | [101213-infinite-maze.json](./101213-infinite-maze.json) |
 | Infinite Minefield | 386472 | [386472-infinite-minefield.json](./386472-infinite-minefield.json) |
+| Infinite Miner | 212402 | [212402-infinite-miner.json](./212402-infinite-miner.json) |
 | Infinite Minesweeper | 378587 | [378587-infinite-minesweeper.json](./378587-infinite-minesweeper.json) |
 | Infinite Minigolf: Hangar 37 | 170835 | [170835-infinite-minigolf-hangar-37.json](./170835-infinite-minigolf-hangar-37.json) |
 | Infinite Minigolf: Tortuga | 170834 | [170834-infinite-minigolf-tortuga.json](./170834-infinite-minigolf-tortuga.json) |
