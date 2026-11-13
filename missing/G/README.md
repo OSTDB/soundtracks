@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosting Vandal | 235036 | [235036-ghosting-vandal.json](./235036-ghosting-vandal.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
+| Ghostland Yard | 213509 | [213509-ghostland-yard.json](./213509-ghostland-yard.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
 | Ghostlight Manor | 30434 | [30434-ghostlight-manor.json](./30434-ghostlight-manor.json) |
 | Ghostlight Melancholia | 201082 | [201082-ghostlight-melancholia.json](./201082-ghostlight-melancholia.json) |
@@ -6786,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Kaijuu no Daishingeki | 46315 | [46315-godzilla-kaijuu-no-daishingeki.json](./46315-godzilla-kaijuu-no-daishingeki.json) |
 | Godzilla: King of the Monsters | 245471 | [245471-godzilla-king-of-the-monsters.json](./245471-godzilla-king-of-the-monsters.json) |
 | Godzilla: Monster of Monsters | 48161 | [48161-godzilla-monster-of-monsters.json](./48161-godzilla-monster-of-monsters.json) |
+| Godzilla: Omniverse | 213508 | [213508-godzilla-omniverse.json](./213508-godzilla-omniverse.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
 | Godzilla: Smash 3 | 61983 | [61983-godzilla-smash-3.json](./61983-godzilla-smash-3.json) |
