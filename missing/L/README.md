@@ -4207,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2023: Christmas Hits Song Pack | 257721 | [257721-lets-sing-2023-christmas-hits-song-pack.json](./257721-lets-sing-2023-christmas-hits-song-pack.json) |
 | Let's Sing 2023: Classic Rock Song Pack | 257723 | [257723-lets-sing-2023-classic-rock-song-pack.json](./257723-lets-sing-2023-classic-rock-song-pack.json) |
 | Let's Sing 2023: Country Hits Song Pack | 257720 | [257720-lets-sing-2023-country-hits-song-pack.json](./257720-lets-sing-2023-country-hits-song-pack.json) |
+| Let's Sing 2023: Double Mic Bundle | 241088 | [241088-lets-sing-2023-double-mic-bundle.json](./241088-lets-sing-2023-double-mic-bundle.json) |
 | Let's Sing 2023: Eurovision Hits Song Pack | 249597 | [249597-lets-sing-2023-eurovision-hits-song-pack.json](./249597-lets-sing-2023-eurovision-hits-song-pack.json) |
 | Let's Sing 2023: Incluye Canciones Españolas | 221328 | [221328-lets-sing-2023-incluye-canciones-espanolas.json](./221328-lets-sing-2023-incluye-canciones-espanolas.json) |
 | Let's Sing 2023: Legendary Hits vol. 1 Song Pack | 257719 | [257719-lets-sing-2023-legendary-hits-vol-1-song-pack.json](./257719-lets-sing-2023-legendary-hits-vol-1-song-pack.json) |
