@@ -8329,6 +8329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Saga | 277191 | [277191-destiny-saga.json](./277191-destiny-saga.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
+| Destiny Star Girlfriend | 194604 | [194604-destiny-star-girlfriend.json](./194604-destiny-star-girlfriend.json) |
 | Destiny Star Girlfriend | 262535 | [262535-destiny-star-girlfriend.json](./262535-destiny-star-girlfriend.json) |
 | Destiny Star Girlfriend 2 | 296892 | [296892-destiny-star-girlfriend-2.json](./296892-destiny-star-girlfriend-2.json) |
 | Destiny Star Girlfriend 2 | 304983 | [304983-destiny-star-girlfriend-2.json](./304983-destiny-star-girlfriend-2.json) |
@@ -13204,6 +13205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
 | Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
+| Doko Demo Issho: Toro to Nagareboshi | 194511 | [194511-doko-demo-issho-toro-to-nagareboshi.json](./194511-doko-demo-issho-toro-to-nagareboshi.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
 | Doko Demo Issyo | 72565 | [72565-doko-demo-issyo.json](./72565-doko-demo-issyo.json) |
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
@@ -21146,6 +21148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
 | Dynasty Heroes: Romance Samkok | 194061 | [194061-dynasty-heroes-romance-samkok.json](./194061-dynasty-heroes-romance-samkok.json) |
+| Dynasty Legends 2 | 194048 | [194048-dynasty-legends-2.json](./194048-dynasty-legends-2.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty of Egypt | 53975 | [53975-dynasty-of-egypt.json](./53975-dynasty-of-egypt.json) |
 | Dynasty of Shadows | 251131 | [251131-dynasty-of-shadows.json](./251131-dynasty-of-shadows.json) |
