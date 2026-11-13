@@ -7116,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
 | Noobow | 62598 | [62598-noobow.json](./62598-noobow.json) |
 | Noobs Are Coming | 332387 | [332387-noobs-are-coming.json](./332387-noobs-are-coming.json) |
+| Noobs Want to Live | 237709 | [237709-noobs-want-to-live.json](./237709-noobs-want-to-live.json) |
 | Nooch Farm | 291731 | [291731-nooch-farm.json](./291731-nooch-farm.json) |
 | Nood Climbrs | 236985 | [236985-nood-climbrs.json](./236985-nood-climbrs.json) |
 | Noodle Arm Royale | 61736 | [61736-noodle-arm-royale.json](./61736-noodle-arm-royale.json) |
