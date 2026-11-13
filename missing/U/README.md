@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexplored: Ripley Run | 155022 | [155022-unexplored-ripley-run.json](./155022-unexplored-ripley-run.json) |
 | Unexplored: The Dark Ritual | 155021 | [155021-unexplored-the-dark-ritual.json](./155021-unexplored-the-dark-ritual.json) |
 | UnExplored: Unlocked Edition | 98837 | [98837-unexplored-unlocked-edition.json](./98837-unexplored-unlocked-edition.json) |
+| Unexposed: Game of Dragons | 188061 | [188061-unexposed-game-of-dragons.json](./188061-unexposed-game-of-dragons.json) |
 | Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
