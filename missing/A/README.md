@@ -8565,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Betty and Friends | 133539 | [133539-alpha-betty-and-friends.json](./133539-alpha-betty-and-friends.json) |
 | Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
 | Alpha Blaster | 100284 | [100284-alpha-blaster.json](./100284-alpha-blaster.json) |
+| Alpha Box | 214204 | [214204-alpha-box.json](./214204-alpha-box.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Ceti TD | 389741 | [389741-alpha-ceti-td.json](./389741-alpha-ceti-td.json) |
@@ -14593,6 +14594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcmaze | 200816 | [200816-arcmaze.json](./200816-arcmaze.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
+| Arcobaleno! Portable | 214656 | [214656-arcobaleno-portable.json](./214656-arcobaleno-portable.json) |
 | Arcomage | 70264 | [70264-arcomage.json](./70264-arcomage.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
@@ -19658,6 +19660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
 | Aventuras en la Manigua | 317190 | [317190-aventuras-en-la-manigua.json](./317190-aventuras-en-la-manigua.json) |
 | Aventuras na floresta | 230640 | [230640-aventuras-na-floresta.json](./230640-aventuras-na-floresta.json) |
+| Aventuras na Ilha X | 214630 | [214630-aventuras-na-ilha-x.json](./214630-aventuras-na-ilha-x.json) |
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Avenue Escape | 390485 | [390485-avenue-escape.json](./390485-avenue-escape.json) |
 | Avenue Flo | 18878 | [18878-avenue-flo.json](./18878-avenue-flo.json) |
