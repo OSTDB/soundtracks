@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
 | Zombie Jam 1 | 322335 | [322335-zombie-jam-1.json](./322335-zombie-jam-1.json) |
 | Zombie Jam 2 | 322336 | [322336-zombie-jam-2.json](./322336-zombie-jam-2.json) |
+| Zombie jokers 2 | 243877 | [243877-zombie-jokers-2.json](./243877-zombie-jokers-2.json) |
 | Zombie Kill | 28591 | [28591-zombie-kill.json](./28591-zombie-kill.json) |
 | Zombie Kill | 373670 | [373670-zombie-kill.json](./373670-zombie-kill.json) |
 | Zombie Kill of the Week: Reborn | 9307 | [9307-zombie-kill-of-the-week-reborn.json](./9307-zombie-kill-of-the-week-reborn.json) |
