@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemorsys | 346602 | [346602-nemorsys.json](./346602-nemorsys.json) |
 | NemoSphere | 385086 | [385086-nemosphere.json](./385086-nemosphere.json) |
 | Nemoto Harumi Eizou Play | 243288 | [243288-nemoto-harumi-eizou-play.json](./243288-nemoto-harumi-eizou-play.json) |
+| Nemowangguk | 221316 | [221316-nemowangguk.json](./221316-nemowangguk.json) |
 | Nemu Neko Puzzle demo Neteimasu | 222375 | [222375-nemu-neko-puzzle-demo-neteimasu.json](./222375-nemu-neko-puzzle-demo-neteimasu.json) |
 | Nemulesis | 181433 | [181433-nemulesis.json](./181433-nemulesis.json) |
 | Nemunai | 374824 | [374824-nemunai.json](./374824-nemunai.json) |
