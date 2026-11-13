@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Eloquent | 339742 | [339742-eloquent.json](./339742-eloquent.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
+| Eloriasha | 242751 | [242751-eloriasha.json](./242751-eloriasha.json) |
 | Elowyn and the Stolen Souls | 271634 | [271634-elowyn-and-the-stolen-souls.json](./271634-elowyn-and-the-stolen-souls.json) |
 | Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
 | Elphame | 138475 | [138475-elphame.json](./138475-elphame.json) |
@@ -7898,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family: Season 3 | 185991 | [185991-evilmun-family-season-3.json](./185991-evilmun-family-season-3.json) |
 | Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
+| Evilmun Online | 242746 | [242746-evilmun-online.json](./242746-evilmun-online.json) |
 | Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
 | EvilQuest | 3237 | [3237-evilquest.json](./3237-evilquest.json) |
 | EvilSlayer | 367354 | [367354-evilslayer.json](./367354-evilslayer.json) |
