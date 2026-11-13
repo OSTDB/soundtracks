@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
 | Teenage Mutant Ninja Turtles: Tactical Takedown | 324571 | [324571-teenage-mutant-ninja-turtles-tactical-takedown.json](./324571-teenage-mutant-ninja-turtles-tactical-takedown.json) |
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection | 194206 | [194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json](./194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json) |
+| Teenage Mutant Ninja Turtles: The Cowabunga Collection - Limited Edition | 198397 | [198397-teenage-mutant-ninja-turtles-the-cowabunga-collection-limited-edition.json](./198397-teenage-mutant-ninja-turtles-the-cowabunga-collection-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Last Ronin | 261148 | [261148-teenage-mutant-ninja-turtles-the-last-ronin.json](./261148-teenage-mutant-ninja-turtles-the-last-ronin.json) |
 | Teenage Mutant Ninja Turtles: The Legend Returns | 379624 | [379624-teenage-mutant-ninja-turtles-the-legend-returns.json](./379624-teenage-mutant-ninja-turtles-the-legend-returns.json) |
@@ -16317,6 +16318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Place of Jinn | 179292 | [179292-the-place-of-jinn.json](./179292-the-place-of-jinn.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Places Where Snow Lingers | 327002 | [327002-the-places-where-snow-lingers.json](./327002-the-places-where-snow-lingers.json) |
+| The Plague | 198273 | [198273-the-plague.json](./198273-the-plague.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Plague | 310978 | [310978-the-plague.json](./310978-the-plague.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
@@ -24594,6 +24596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile & Error | 413899 | [413899-tile-and-error.json](./413899-tile-and-error.json) |
 | Tile Battle | 52775 | [52775-tile-battle.json](./52775-tile-battle.json) |
 | Tile Blocks | 171795 | [171795-tile-blocks.json](./171795-tile-blocks.json) |
+| Tile Cities | 198428 | [198428-tile-cities.json](./198428-tile-cities.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect Master: Match fun | 294506 | [294506-tile-connect-master-match-fun.json](./294506-tile-connect-master-match-fun.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
