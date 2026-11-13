@@ -6151,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidum: Mirrors | 298077 | [298077-liquidum-mirrors.json](./298077-liquidum-mirrors.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
 | Liquidum: Small & Tricky | 298051 | [298051-liquidum-small-and-tricky.json](./298051-liquidum-small-and-tricky.json) |
+| Liquisity | 240534 | [240534-liquisity.json](./240534-liquisity.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
 | Liquor Love Lady | 345807 | [345807-liquor-love-lady.json](./345807-liquor-love-lady.json) |
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
@@ -6440,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Groves | 422494 | [422494-little-groves.json](./422494-little-groves.json) |
 | Little Guardians: The Last Hope | 418878 | [418878-little-guardians-the-last-hope.json](./418878-little-guardians-the-last-hope.json) |
+| Little Guy Adventure | 240439 | [240439-little-guy-adventure.json](./240439-little-guy-adventure.json) |
 | Little Guy in Hell Fighting Demons | 337374 | [337374-little-guy-in-hell-fighting-demons.json](./337374-little-guy-in-hell-fighting-demons.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hats | 155880 | [155880-little-hats.json](./155880-little-hats.json) |
