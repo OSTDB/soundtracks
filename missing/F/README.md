@@ -8195,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Trip | 109843 | [109843-flat-trip.json](./109843-flat-trip.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
+| Flatcraft | 213496 | [213496-flatcraft.json](./213496-flatcraft.json) |
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
 | FlatFatCat | 54333 | [54333-flatfatcat.json](./54333-flatfatcat.json) |
 | Flathead | 296482 | [296482-flathead.json](./296482-flathead.json) |
@@ -9508,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Tobacco Eggs | 305922 | [305922-flying-tobacco-eggs.json](./305922-flying-tobacco-eggs.json) |
 | Flying Toyz | 258005 | [258005-flying-toyz.json](./258005-flying-toyz.json) |
 | Flying Turkey | 83982 | [83982-flying-turkey.json](./83982-flying-turkey.json) |
+| Flying Umbrella | 213494 | [213494-flying-umbrella.json](./213494-flying-umbrella.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
 | Flying Universe | 379019 | [379019-flying-universe.json](./379019-flying-universe.json) |
 | Flying Warriors | 48126 | [48126-flying-warriors.json](./48126-flying-warriors.json) |
