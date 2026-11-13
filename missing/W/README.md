@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
 | War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
+| War Song | 193984 | [193984-war-song.json](./193984-war-song.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Stars | 327719 | [327719-war-stars.json](./327719-war-stars.json) |
 | War Strategy | 261035 | [261035-war-strategy.json](./261035-war-strategy.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
+| West Battle Royale | 193920 | [193920-west-battle-royale.json](./193920-west-battle-royale.json) |
 | West Country Mayhem | 248223 | [248223-west-country-mayhem.json](./248223-west-country-mayhem.json) |
 | West Escape | 332361 | [332361-west-escape.json](./332361-west-escape.json) |
 | West Escape: Complete Edition | 335013 | [335013-west-escape-complete-edition.json](./335013-west-escape-complete-edition.json) |
@@ -9295,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
 | World War 2 Agenda | 302417 | [302417-world-war-2-agenda.json](./302417-world-war-2-agenda.json) |
 | World War 2 Craft | 148723 | [148723-world-war-2-craft.json](./148723-world-war-2-craft.json) |
+| World War 2 Reborn | 193908 | [193908-world-war-2-reborn.json](./193908-world-war-2-reborn.json) |
 | World War 2 Sniper | 53107 | [53107-world-war-2-sniper.json](./53107-world-war-2-sniper.json) |
 | World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
