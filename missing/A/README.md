@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drop of Magenta | 422441 | [422441-a-drop-of-magenta.json](./422441-a-drop-of-magenta.json) |
 | A Drunk Man Looks at the Thistle Decoded | 198134 | [198134-a-drunk-man-looks-at-the-thistle-decoded.json](./198134-a-drunk-man-looks-at-the-thistle-decoded.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
+| A Duck Has An Adventure | 172832 | [172832-a-duck-has-an-adventure.json](./172832-a-duck-has-an-adventure.json) |
 | A Duel Hand Disaster: Trackher | 31661 | [31661-a-duel-hand-disaster-trackher.json](./31661-a-duel-hand-disaster-trackher.json) |
 | A Dump in the Dark | 29823 | [29823-a-dump-in-the-dark.json](./29823-a-dump-in-the-dark.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
@@ -2284,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
+| About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | About Time! | 420209 | [420209-about-time.json](./420209-about-time.json) |
@@ -4628,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aerthlings | 373441 | [373441-aerthlings.json](./373441-aerthlings.json) |
 | Aeruta | 277563 | [277563-aeruta.json](./277563-aeruta.json) |
+| Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
 | Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
 | Aery VR: Broken Memories | 237248 | [237248-aery-vr-broken-memories.json](./237248-aery-vr-broken-memories.json) |
@@ -18457,6 +18460,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area "Heartscape" | 195809 | [195809-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-heartscape.json](./195809-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-heartscape.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream - Limited Edition | 172827 | [172827-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-limited-edition.json](./172827-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-limited-edition.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream - Premium Box | 172825 | [172825-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-premium-box.json](./172825-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-premium-box.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream - Special Collection Box | 172826 | [172826-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-special-collection-box.json](./172826-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-special-collection-box.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Ultimate Edition | 199870 | [199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json](./199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book | 12633 | [12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json](./12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book - Limited Edition | 384887 | [384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json](./384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json) |
