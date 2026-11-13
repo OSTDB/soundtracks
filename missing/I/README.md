@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Spy: Operation Espionage | 45851 | [45851-industrial-spy-operation-espionage.json](./45851-industrial-spy-operation-espionage.json) |
 | Industrial Trouble | 199745 | [199745-industrial-trouble.json](./199745-industrial-trouble.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
+| IndustrialCraft | 232721 | [232721-industrialcraft.json](./232721-industrialcraft.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industring | 303577 | [303577-industring.json](./303577-industring.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
@@ -4789,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent's Purgatory | 219685 | [219685-innocents-purgatory.json](./219685-innocents-purgatory.json) |
 | Innocentrea | 98015 | [98015-innocentrea.json](./98015-innocentrea.json) |
 | Innoquous | 100063 | [100063-innoquous.json](./100063-innoquous.json) |
+| Innoquous 4 | 232207 | [232207-innoquous-4.json](./232207-innoquous-4.json) |
 | Innoquous 5 | 33249 | [33249-innoquous-5.json](./33249-innoquous-5.json) |
 | Innovazione Vostra | 227919 | [227919-innovazione-vostra.json](./227919-innovazione-vostra.json) |
 | Innovetica | 119945 | [119945-innovetica.json](./119945-innovetica.json) |
