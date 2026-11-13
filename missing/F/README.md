@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All | 151614 | [151614-find-all.json](./151614-find-all.json) |
 | Find All 10: Greece | 416977 | [416977-find-all-10-greece.json](./416977-find-all-10-greece.json) |
 | Find All 2: Middle Ages | 173931 | [173931-find-all-2-middle-ages.json](./173931-find-all-2-middle-ages.json) |
+| Find All 3: Travel | 199545 | [199545-find-all-3-travel.json](./199545-find-all-3-travel.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All 6: Netherlands | 331587 | [331587-find-all-6-netherlands.json](./331587-find-all-6-netherlands.json) |
@@ -6543,6 +6544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Story | 205869 | [205869-fire-story.json](./205869-fire-story.json) |
 | Fire Strike | 317044 | [317044-fire-strike.json](./317044-fire-strike.json) |
 | Fire Survival | 172360 | [172360-fire-survival.json](./172360-fire-survival.json) |
+| Fire the Zombies | 199531 | [199531-fire-the-zombies.json](./199531-fire-the-zombies.json) |
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
