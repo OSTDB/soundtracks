@@ -12024,6 +12024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
 | Hourou | 181831 | [181831-hourou.json](./181831-hourou.json) |
+| Hours | 180170 | [180170-hours.json](./180170-hours.json) |
 | Hours After Midnight | 288954 | [288954-hours-after-midnight.json](./288954-hours-after-midnight.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
 | House | 342712 | [342712-house.json](./342712-house.json) |
@@ -12989,6 +12990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger Tower | 123710 | [123710-hunger-tower.json](./123710-hunger-tower.json) |
 | Hungover | 131792 | [131792-hungover.json](./131792-hungover.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
+| Hungro Seal | 180162 | [180162-hungro-seal.json](./180162-hungro-seal.json) |
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
 | Hungry | 307789 | [307789-hungry.json](./307789-hungry.json) |
 | Hungry | 393567 | [393567-hungry.json](./393567-hungry.json) |
