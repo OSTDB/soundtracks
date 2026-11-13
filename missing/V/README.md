@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Scary Eatery | 185172 | [185172-very-scary-eatery.json](./185172-very-scary-eatery.json) |
 | Very Scary Game | 420657 | [420657-very-scary-game.json](./420657-very-scary-game.json) |
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
+| Very Serious Future Detective | 179090 | [179090-very-serious-future-detective.json](./179090-very-serious-future-detective.json) |
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
