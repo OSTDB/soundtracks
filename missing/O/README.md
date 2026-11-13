@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opaline | 35246 | [35246-opaline.json](./35246-opaline.json) |
 | Opaloid Kingdom | 226025 | [226025-opaloid-kingdom.json](./226025-opaloid-kingdom.json) |
 | Opec Idle | 168041 | [168041-opec-idle.json](./168041-opec-idle.json) |
+| Open Air | 216381 | [216381-open-air.json](./216381-open-air.json) |
 | Open At Nine | 236104 | [236104-open-at-nine.json](./236104-open-at-nine.json) |
 | Open Bar | 161712 | [161712-open-bar.json](./161712-open-bar.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
