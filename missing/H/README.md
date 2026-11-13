@@ -10289,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld | 749 | [749-homeworld.json](./749-homeworld.json) |
 | Homeworld 2 | 750 | [750-homeworld-2.json](./750-homeworld-2.json) |
+| Homeworld 3: Collector's Edition | 198398 | [198398-homeworld-3-collectors-edition.json](./198398-homeworld-3-collectors-edition.json) |
 | Homeworld 3: Deluxe Edition | 279045 | [279045-homeworld-3-deluxe-edition.json](./279045-homeworld-3-deluxe-edition.json) |
 | Homeworld 3: Fleet Command Edition | 279046 | [279046-homeworld-3-fleet-command-edition.json](./279046-homeworld-3-fleet-command-edition.json) |
 | Homeworld Defense | 84040 | [84040-homeworld-defense.json](./84040-homeworld-defense.json) |
