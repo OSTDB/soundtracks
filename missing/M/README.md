@@ -5103,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
+| Marvel Putt Golf II | 239373 | [239373-marvel-putt-golf-ii.json](./239373-marvel-putt-golf-ii.json) |
 | Marvel Puzzle Quest | 7084 | [7084-marvel-puzzle-quest.json](./7084-marvel-puzzle-quest.json) |
 | Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
 | Marvel Quiz Quest | 295819 | [295819-marvel-quiz-quest.json](./295819-marvel-quiz-quest.json) |
