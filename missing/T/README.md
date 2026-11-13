@@ -4212,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi Muyo! Toko Muyo: Aniraji Collection | 289364 | [289364-tenchi-muyo-toko-muyo-aniraji-collection.json](./289364-tenchi-muyo-toko-muyo-aniraji-collection.json) |
 | Tenchi no Mon 2: Busouden | 69046 | [69046-tenchi-no-mon-2-busouden.json](./69046-tenchi-no-mon-2-busouden.json) |
+| Tenchi Shinden | 244986 | [244986-tenchi-shinden.json](./244986-tenchi-shinden.json) |
 | Tenchi wo Kurau | 287154 | [287154-tenchi-wo-kurau.json](./287154-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau II: Sekiheki no Tatakai | 45019 | [45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json](./45019-tenchi-wo-kurau-ii-sekiheki-no-tatakai.json) |
@@ -10731,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
+| The Gate I | 245063 | [245063-the-gate-i.json](./245063-the-gate-i.json) |
 | The Gate II | 245078 | [245078-the-gate-ii.json](./245078-the-gate-ii.json) |
 | The Gate III | 245100 | [245100-the-gate-iii.json](./245100-the-gate-iii.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
@@ -16071,6 +16073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Phoenix Gene | 348033 | [348033-the-phoenix-gene.json](./348033-the-phoenix-gene.json) |
+| The Phoenix Initiative | 244980 | [244980-the-phoenix-initiative.json](./244980-the-phoenix-initiative.json) |
 | The Phoenix Protocol | 279504 | [279504-the-phoenix-protocol.json](./279504-the-phoenix-protocol.json) |
 | The Phone Rings | 266716 | [266716-the-phone-rings.json](./266716-the-phone-rings.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
@@ -18441,6 +18444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squid Plays | 376269 | [376269-the-squid-plays.json](./376269-the-squid-plays.json) |
 | The Squiggles Saga | 331222 | [331222-the-squiggles-saga.json](./331222-the-squiggles-saga.json) |
+| The Squire | 244454 | [244454-the-squire.json](./244454-the-squire.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
 | The SS Destiny Disaster | 329451 | [329451-the-ss-destiny-disaster.json](./329451-the-ss-destiny-disaster.json) |
 | The Ssum | 194973 | [194973-the-ssum.json](./194973-the-ssum.json) |
@@ -24399,6 +24403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Jumper! | 354886 | [354886-tile-jumper.json](./354886-tile-jumper.json) |
 | Tile Kingdom | 335028 | [335028-tile-kingdom.json](./335028-tile-kingdom.json) |
+| Tile Lands | 244956 | [244956-tile-lands.json](./244956-tile-lands.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Miner | 17958 | [17958-tile-miner.json](./17958-tile-miner.json) |
 | Tile Perfect | 288598 | [288598-tile-perfect.json](./288598-tile-perfect.json) |
@@ -28620,6 +28625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kaisekiki: Arabasiri | 269930 | [269930-touhou-kaisekiki-arabasiri.json](./269930-touhou-kaisekiki-arabasiri.json) |
 | Touhou Kanjuden: Legacy of Lunatic Kingdom | 116271 | [116271-touhou-kanjuden-legacy-of-lunatic-kingdom.json](./116271-touhou-kanjuden-legacy-of-lunatic-kingdom.json) |
 | Touhou Kenbun Roku | 48878 | [48878-touhou-kenbun-roku.json](./48878-touhou-kenbun-roku.json) |
+| Touhou Ki Kai Record | 244983 | [244983-touhou-ki-kai-record.json](./244983-touhou-ki-kai-record.json) |
 | Touhou Kichouden: Mythos of Phantasmagoria 2 | 356558 | [356558-touhou-kichouden-mythos-of-phantasmagoria-2.json](./356558-touhou-kichouden-mythos-of-phantasmagoria-2.json) |
 | Touhou Kikeijuu: Wily Beast and Weakest Creature | 118815 | [118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json](./118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json) |
 | Touhou Kimono Blast | 219543 | [219543-touhou-kimono-blast.json](./219543-touhou-kimono-blast.json) |
@@ -29233,6 +29239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower Tactics: Celestial Dawn | 247699 | [247699-tower-tactics-celestial-dawn.json](./247699-tower-tactics-celestial-dawn.json) |
 | Tower Tactics: Liberation | 171196 | [171196-tower-tactics-liberation.json](./171196-tower-tactics-liberation.json) |
+| Tower Tales | 244963 | [244963-tower-tales.json](./244963-tower-tales.json) |
 | Tower Tank: TD Reversal | 113396 | [113396-tower-tank-td-reversal.json](./113396-tower-tank-td-reversal.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Up | 254631 | [254631-tower-up.json](./254631-tower-up.json) |
@@ -29451,6 +29458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
 | Town of idiots | 248388 | [248388-town-of-idiots.json](./248388-town-of-idiots.json) |
+| Town of Illustive | 244455 | [244455-town-of-illustive.json](./244455-town-of-illustive.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
 | Town of Night | 30852 | [30852-town-of-night.json](./30852-town-of-night.json) |
 | Town of Passion | 127633 | [127633-town-of-passion.json](./127633-town-of-passion.json) |
