@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
+| Paradox | 179775 | [179775-paradox.json](./179775-paradox.json) |
 | Paradox | 195842 | [195842-paradox.json](./195842-paradox.json) |
 | Paradox Boxing | 422478 | [422478-paradox-boxing.json](./422478-paradox-boxing.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
@@ -5021,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry Rhodan: Thoregon - Die verbotene Stadt | 116601 | [116601-perry-rhodan-thoregon-die-verbotene-stadt.json](./116601-perry-rhodan-thoregon-die-verbotene-stadt.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
+| Perseids, or, All This Will Go on Forever | 179766 | [179766-perseids-or-all-this-will-go-on-forever.json](./179766-perseids-or-all-this-will-go-on-forever.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
 | Persephone | 316568 | [316568-persephone.json](./316568-persephone.json) |
 | Persephone Lives | 350911 | [350911-persephone-lives.json](./350911-persephone-lives.json) |
