@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Comet | 277354 | [277354-elite-comet.json](./277354-elite-comet.json) |
 | Elite Commander | 168706 | [168706-elite-commander.json](./168706-elite-commander.json) |
 | Elite Dangerous: Commander Deluxe Edition | 85221 | [85221-elite-dangerous-commander-deluxe-edition.json](./85221-elite-dangerous-commander-deluxe-edition.json) |
+| Elite Dangerous: Commander Premium Edition | 219722 | [219722-elite-dangerous-commander-premium-edition.json](./219722-elite-dangerous-commander-premium-edition.json) |
 | Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Encounter | 28660 | [28660-elite-encounter.json](./28660-elite-encounter.json) |
@@ -3245,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
 | Embers of the Zombie Battlemage: Halloween - Real Werewolves of Massachusetts | 225927 | [225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json](./225927-embers-of-the-zombie-battlemage-halloween-real-werewolves-of-massachusetts.json) |
 | Embers of War | 56608 | [56608-embers-of-war.json](./56608-embers-of-war.json) |
+| Embers: Last Duel | 219840 | [219840-embers-last-duel.json](./219840-embers-last-duel.json) |
 | Embers: Return to Dragonland | 267273 | [267273-embers-return-to-dragonland.json](./267273-embers-return-to-dragonland.json) |
 | Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
