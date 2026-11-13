@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mahoutsukai Sally: Astrea Palace no Party | 293951 | [293951-mahoutsukai-sally-astrea-palace-no-party.json](./293951-mahoutsukai-sally-astrea-palace-no-party.json) |
+| Mahoutsukai to Goshujin-sama: New Ground | 214802 | [214802-mahoutsukai-to-goshujin-sama-new-ground.json](./214802-mahoutsukai-to-goshujin-sama-new-ground.json) |
 | Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
 | Mai and the Legendary Treasure | 248081 | [248081-mai-and-the-legendary-treasure.json](./248081-mai-and-the-legendary-treasure.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
@@ -15044,6 +15045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command: Sega Version | 398658 | [398658-missile-command-sega-version.json](./398658-missile-command-sega-version.json) |
 | Missile Conflict Blitz | 145815 | [145815-missile-conflict-blitz.json](./145815-missile-conflict-blitz.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
+| Missile Crank | 215273 | [215273-missile-crank.json](./215273-missile-crank.json) |
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
 | Missile Defender | 114137 | [114137-missile-defender.json](./114137-missile-defender.json) |
@@ -15336,6 +15338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistwinter Bay | 227026 | [227026-mistwinter-bay.json](./227026-mistwinter-bay.json) |
 | Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
 | Mistworld | 399996 | [399996-mistworld.json](./399996-mistworld.json) |
+| MistWorld the after | 215277 | [215277-mistworld-the-after.json](./215277-mistworld-the-after.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Misty | 251270 | [251270-misty.json](./251270-misty.json) |
 | Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
@@ -19972,6 +19975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
 | Movie Studio Boss: The Sequel | 36185 | [36185-movie-studio-boss-the-sequel.json](./36185-movie-studio-boss-the-sequel.json) |
 | Movie Studio Tycoon | 59794 | [59794-movie-studio-tycoon.json](./59794-movie-studio-tycoon.json) |
+| Movie studios party | 215284 | [215284-movie-studios-party.json](./215284-movie-studios-party.json) |
 | Movie Theater Simulator | 377798 | [377798-movie-theater-simulator.json](./377798-movie-theater-simulator.json) |
 | Movie to Movie | 229563 | [229563-movie-to-movie.json](./229563-movie-to-movie.json) |
 | Movie Trivia | 87079 | [87079-movie-trivia.json](./87079-movie-trivia.json) |
@@ -23808,6 +23812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Mummy | 12690 | [12690-mystery-of-the-mummy.json](./12690-mystery-of-the-mummy.json) |
+| Mystery of the Murderous Dreams | 215279 | [215279-mystery-of-the-murderous-dreams.json](./215279-mystery-of-the-murderous-dreams.json) |
 | Mystery of the Nile | 54591 | [54591-mystery-of-the-nile.json](./54591-mystery-of-the-nile.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of the Opera: The Phantom's Secret | 181525 | [181525-mystery-of-the-opera-the-phantoms-secret.json](./181525-mystery-of-the-opera-the-phantoms-secret.json) |
