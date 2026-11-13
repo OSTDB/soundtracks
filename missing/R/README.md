@@ -196,13 +196,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Coding! | 125162 | [125162-rabbids-coding.json](./125162-rabbids-coding.json) |
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
 | Rabbids Go Home | 193295 | [193295-rabbids-go-home.json](./193295-rabbids-go-home.json) |
+| Rabbids Go Home | 193377 | [193377-rabbids-go-home.json](./193377-rabbids-go-home.json) |
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
 | Rabbids Go Phone | 86172 | [86172-rabbids-go-phone.json](./86172-rabbids-go-phone.json) |
+| Rabbids Heroes | 193378 | [193378-rabbids-heroes.json](./193378-rabbids-heroes.json) |
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
 | Rabbids Invasion: The Interactive TV Show | 20308 | [20308-rabbids-invasion-the-interactive-tv-show.json](./20308-rabbids-invasion-the-interactive-tv-show.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
+| Rabbids Smart Brush | 193379 | [193379-rabbids-smart-brush.json](./193379-rabbids-smart-brush.json) |
 | Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
@@ -1617,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
 | Raising Archangel | 256133 | [256133-raising-archangel.json](./256133-raising-archangel.json) |
 | Raising Dead | 116960 | [116960-raising-dead.json](./116960-raising-dead.json) |
+| Raising the Bar: Redux | 193385 | [193385-raising-the-bar-redux.json](./193385-raising-the-bar-redux.json) |
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising the Flag on Mount Yo Momma | 78402 | [78402-raising-the-flag-on-mount-yo-momma.json](./78402-raising-the-flag-on-mount-yo-momma.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
@@ -2507,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
 | Raving Rabbids: Party Collection | 50646 | [50646-raving-rabbids-party-collection.json](./50646-raving-rabbids-party-collection.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
+| Raving Rabbids: Travel in Time - Collector's Edition | 193391 | [193391-raving-rabbids-travel-in-time-collectors-edition.json](./193391-raving-rabbids-travel-in-time-collectors-edition.json) |
 | Ravished Realms | 172359 | [172359-ravished-realms.json](./172359-ravished-realms.json) |
 | Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
@@ -2644,8 +2649,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Collector | 193335 | [193335-rayman-collector.json](./193335-rayman-collector.json) |
 | Rayman Collectors Edition | 193341 | [193341-rayman-collectors-edition.json](./193341-rayman-collectors-edition.json) |
 | Rayman Compilation | 193339 | [193339-rayman-compilation.json](./193339-rayman-compilation.json) |
+| Rayman CP | 193372 | [193372-rayman-cp.json](./193372-rayman-cp.json) |
 | Rayman Designer | 61351 | [61351-rayman-designer.json](./61351-rayman-designer.json) |
 | Rayman DS | 20210 | [20210-rayman-ds.json](./20210-rayman-ds.json) |
+| Rayman Éducation | 193375 | [193375-rayman-education.json](./193375-rayman-education.json) |
 | Rayman Fiesta Run | 19726 | [19726-rayman-fiesta-run.json](./19726-rayman-fiesta-run.json) |
 | Rayman Forever | 51879 | [51879-rayman-forever.json](./51879-rayman-forever.json) |
 | Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
@@ -2663,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends: Definitive Edition | 27239 | [27239-rayman-legends-definitive-edition.json](./27239-rayman-legends-definitive-edition.json) |
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
+| Rayman Maternelle | 193373 | [193373-rayman-maternelle.json](./193373-rayman-maternelle.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins: Collector's Edition | 43006 | [43006-rayman-origins-collectors-edition.json](./43006-rayman-origins-collectors-edition.json) |
 | Rayman Raving Rabbids | 151927 | [151927-rayman-raving-rabbids.json](./151927-rayman-raving-rabbids.json) |
@@ -2673,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 254521 | [254521-rayman-raving-rabbids.json](./254521-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids 2 | 193364 | [193364-rayman-raving-rabbids-2.json](./193364-rayman-raving-rabbids-2.json) |
+| Rayman Raving Rabbids 2 | 193376 | [193376-rayman-raving-rabbids-2.json](./193376-rayman-raving-rabbids-2.json) |
 | Rayman Raving Rabbids 2 | 2745 | [2745-rayman-raving-rabbids-2.json](./2745-rayman-raving-rabbids-2.json) |
 | Rayman Raving Rabbids Activity Centre | 193368 | [193368-rayman-raving-rabbids-activity-centre.json](./193368-rayman-raving-rabbids-activity-centre.json) |
 | Rayman Raving Rabbids TV Party | 193365 | [193365-rayman-raving-rabbids-tv-party.json](./193365-rayman-raving-rabbids-tv-party.json) |
