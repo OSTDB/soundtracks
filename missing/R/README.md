@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution: ViperJet | 291110 | [291110-realflight-evolution-viperjet.json](./291110-realflight-evolution-viperjet.json) |
 | RealFlight RF8 | 112570 | [112570-realflight-rf8.json](./112570-realflight-rf8.json) |
 | RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
+| Realife Simulator | 211323 | [211323-realife-simulator.json](./211323-realife-simulator.json) |
 | Realindustry | 396996 | [396996-realindustry.json](./396996-realindustry.json) |
 | Realistic Battle Tank | 216153 | [216153-realistic-battle-tank.json](./216153-realistic-battle-tank.json) |
 | Realistic Illusion | 97193 | [97193-realistic-illusion.json](./97193-realistic-illusion.json) |
@@ -5127,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejoinder | 192621 | [192621-rejoinder.json](./192621-rejoinder.json) |
 | Rejudgement: ReBlessZwei | 193949 | [193949-rejudgement-reblesszwei.json](./193949-rejudgement-reblesszwei.json) |
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
+| Reka | 211347 | [211347-reka.json](./211347-reka.json) |
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
 | Rekesh Gaal | 292232 | [292232-rekesh-gaal.json](./292232-rekesh-gaal.json) |
 | Rekindle | 155922 | [155922-rekindle.json](./155922-rekindle.json) |
@@ -9132,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Dogs | 28673 | [28673-road-dogs.json](./28673-road-dogs.json) |
 | Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
 | Road Doom | 108308 | [108308-road-doom.json](./108308-road-doom.json) |
+| Road Draftsman | 211334 | [211334-road-draftsman.json](./211334-road-draftsman.json) |
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
