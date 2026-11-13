@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
 | Talker Tales | 258923 | [258923-talker-tales.json](./258923-talker-tales.json) |
 | Talking ABC's: A Day at the Beach | 292118 | [292118-talking-abcs-a-day-at-the-beach.json](./292118-talking-abcs-a-day-at-the-beach.json) |
+| Talking Angela | 214782 | [214782-talking-angela.json](./214782-talking-angela.json) |
 | Talking Bacteria John, John and John | 343511 | [343511-talking-bacteria-john-john-and-john.json](./343511-talking-bacteria-john-john-and-john.json) |
 | Talking Ben the Dog | 191877 | [191877-talking-ben-the-dog.json](./191877-talking-ben-the-dog.json) |
 | Talking Bruce the Panda | 266251 | [266251-talking-bruce-the-panda.json](./266251-talking-bruce-the-panda.json) |
@@ -12466,6 +12467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Ice Cube | 315941 | [315941-the-jumping-ice-cube.json](./315941-the-jumping-ice-cube.json) |
 | The Jumping Kebab | 213230 | [213230-the-jumping-kebab.json](./213230-the-jumping-kebab.json) |
 | The Jumping Kebab: Turbo | 213350 | [213350-the-jumping-kebab-turbo.json](./213350-the-jumping-kebab-turbo.json) |
+| The Jumping Lasagne | 215265 | [215265-the-jumping-lasagne.json](./215265-the-jumping-lasagne.json) |
+| The Jumping Lasagne: Turbo | 215289 | [215289-the-jumping-lasagne-turbo.json](./215289-the-jumping-lasagne-turbo.json) |
 | The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
 | The Jumping Melon Rush 2 | 345362 | [345362-the-jumping-melon-rush-2.json](./345362-the-jumping-melon-rush-2.json) |
 | The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
@@ -16943,6 +16946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
 | The Respawn Banter | 281850 | [281850-the-respawn-banter.json](./281850-the-respawn-banter.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
+| The Rest of Our Lives | 215254 | [215254-the-rest-of-our-lives.json](./215254-the-rest-of-our-lives.json) |
 | The Restaurant Game | 69533 | [69533-the-restaurant-game.json](./69533-the-restaurant-game.json) |
 | The Restless | 133873 | [133873-the-restless.json](./133873-the-restless.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
@@ -27754,6 +27758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
+| Top Gun: Maverick | 214804 | [214804-top-gun-maverick.json](./214804-top-gun-maverick.json) |
 | Top Gun: The Second Mission | 218926 | [218926-top-gun-the-second-mission.json](./218926-top-gun-the-second-mission.json) |
 | Top Gun: The Second Mission | 22911 | [22911-top-gun-the-second-mission.json](./22911-top-gun-the-second-mission.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
