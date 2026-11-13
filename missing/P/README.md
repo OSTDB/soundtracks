@@ -2840,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parting Shadows | 397750 | [397750-parting-shadows.json](./397750-parting-shadows.json) |
 | Partisan | 10656 | [10656-partisan.json](./10656-partisan.json) |
 | Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
+| Partisans 1941: Back Into Battle | 172242 | [172242-partisans-1941-back-into-battle.json](./172242-partisans-1941-back-into-battle.json) |
 | Partisans 1941: Extended Edition | 193743 | [193743-partisans-1941-extended-edition.json](./193743-partisans-1941-extended-edition.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
