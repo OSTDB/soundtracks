@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orogenesis | 103047 | [103047-orogenesis.json](./103047-orogenesis.json) |
 | Orompaquenga | 184025 | [184025-orompaquenga.json](./184025-orompaquenga.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
+| Orph: The Lost Boy | 173328 | [173328-orph-the-lost-boy.json](./173328-orph-the-lost-boy.json) |
 | Orphan | 11580 | [11580-orphan.json](./11580-orphan.json) |
 | Orphan Age | 103133 | [103133-orphan-age.json](./103133-orphan-age.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
