@@ -3490,11 +3490,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Fall | 309698 | [309698-jump-fall.json](./309698-jump-fall.json) |
+| Jump Force: Character Pack 1 - Seto Kaiba | 187989 | [187989-jump-force-character-pack-1-seto-kaiba.json](./187989-jump-force-character-pack-1-seto-kaiba.json) |
 | Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
 | Jump Force: Character Pack 11 - Meruem | 167771 | [167771-jump-force-character-pack-11-meruem.json](./167771-jump-force-character-pack-11-meruem.json) |
 | Jump Force: Character Pack 12 - Hiei | 167774 | [167774-jump-force-character-pack-12-hiei.json](./167774-jump-force-character-pack-12-hiei.json) |
 | Jump Force: Character Pack 13 - Yoruichi Shihoin | 167769 | [167769-jump-force-character-pack-13-yoruichi-shihoin.json](./167769-jump-force-character-pack-13-yoruichi-shihoin.json) |
 | Jump Force: Character Pack 14 - Giorno Giovanna | 167773 | [167773-jump-force-character-pack-14-giorno-giovanna.json](./167773-jump-force-character-pack-14-giorno-giovanna.json) |
+| Jump Force: Character Pack 2 - Biscuit Krueger | 187992 | [187992-jump-force-character-pack-2-biscuit-krueger.json](./187992-jump-force-character-pack-2-biscuit-krueger.json) |
+| Jump Force: Character Pack 3 - All Might | 187990 | [187990-jump-force-character-pack-3-all-might.json](./187990-jump-force-character-pack-3-all-might.json) |
 | Jump Force: Character Pack 4 - Majin Buu (Good) | 167777 | [167777-jump-force-character-pack-4-majin-buu-good.json](./167777-jump-force-character-pack-4-majin-buu-good.json) |
 | Jump Force: Character Pack 5 - Katsuki Bakugo | 167772 | [167772-jump-force-character-pack-5-katsuki-bakugo.json](./167772-jump-force-character-pack-5-katsuki-bakugo.json) |
 | Jump Force: Character Pack 6 - Toshiro Hitsugaya | 167775 | [167775-jump-force-character-pack-6-toshiro-hitsugaya.json](./167775-jump-force-character-pack-6-toshiro-hitsugaya.json) |
