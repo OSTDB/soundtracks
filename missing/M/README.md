@@ -13429,6 +13429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineColonies | 225538 | [225538-minecolonies.json](./225538-minecolonies.json) |
 | MineColony | 24095 | [24095-minecolony.json](./24095-minecolony.json) |
 | Minecore | 426627 | [426627-minecore.json](./426627-minecore.json) |
+| Minecraft 1.9: Combat Update | 221874 | [221874-minecraft-1-9-combat-update.json](./221874-minecraft-1-9-combat-update.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Backrooms Found Footage | 346784 | [346784-minecraft-backrooms-found-footage.json](./346784-minecraft-backrooms-found-footage.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
@@ -13489,6 +13490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Biome Settlers 3 Skin Pack | 257345 | [257345-minecraft-biome-settlers-3-skin-pack.json](./257345-minecraft-biome-settlers-3-skin-pack.json) |
 | Minecraft: Biome Settlers Pack 1 | 302658 | [302658-minecraft-biome-settlers-pack-1.json](./302658-minecraft-biome-settlers-pack-1.json) |
 | Minecraft: Biome Settlers Pack 2 | 302660 | [302660-minecraft-biome-settlers-pack-2.json](./302660-minecraft-biome-settlers-pack-2.json) |
+| Minecraft: Bountiful Update | 221873 | [221873-minecraft-bountiful-update.json](./221873-minecraft-bountiful-update.json) |
 | Minecraft: Bundles of Bravery | 318247 | [318247-minecraft-bundles-of-bravery.json](./318247-minecraft-bundles-of-bravery.json) |
 | Minecraft: Bundles of Bravery | 318248 | [318248-minecraft-bundles-of-bravery.json](./318248-minecraft-bundles-of-bravery.json) |
 | Minecraft: Buzzy Bees | 221926 | [221926-minecraft-buzzy-bees.json](./221926-minecraft-buzzy-bees.json) |
@@ -13521,6 +13523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Essentials | 327115 | [327115-minecraft-essentials.json](./327115-minecraft-essentials.json) |
+| Minecraft: Exploration Update | 221876 | [221876-minecraft-exploration-update.json](./221876-minecraft-exploration-update.json) |
 | Minecraft: Extra Food | 326534 | [326534-minecraft-extra-food.json](./326534-minecraft-extra-food.json) |
 | Minecraft: Fantastic Fairgrounds | 316689 | [316689-minecraft-fantastic-fairgrounds.json](./316689-minecraft-fantastic-fairgrounds.json) |
 | Minecraft: Festive Mash-up | 234224 | [234224-minecraft-festive-mash-up.json](./234224-minecraft-festive-mash-up.json) |
@@ -13538,6 +13541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: Hermitcraft Season 9 Map | 316750 | [316750-minecraft-hermitcraft-season-9-map.json](./316750-minecraft-hermitcraft-season-9-map.json) |
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
+| Minecraft: Horse Update | 221871 | [221871-minecraft-horse-update.json](./221871-minecraft-horse-update.json) |
 | Minecraft: How To Train Your Dragon | 254209 | [254209-minecraft-how-to-train-your-dragon.json](./254209-minecraft-how-to-train-your-dragon.json) |
 | Minecraft: Ice Age | 254262 | [254262-minecraft-ice-age.json](./254262-minecraft-ice-age.json) |
 | Minecraft: Insane Disasters | 334048 | [334048-minecraft-insane-disasters.json](./334048-minecraft-insane-disasters.json) |
@@ -13595,8 +13599,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: PlayStation 4 Edition | 93620 | [93620-minecraft-playstation-4-edition.json](./93620-minecraft-playstation-4-edition.json) |
 | Minecraft: Playstation Vita Edition | 42696 | [42696-minecraft-playstation-vita-edition.json](./42696-minecraft-playstation-vita-edition.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
+| Minecraft: Pretty Scary Update | 221869 | [221869-minecraft-pretty-scary-update.json](./221869-minecraft-pretty-scary-update.json) |
 | Minecraft: PS1 Edition | 327037 | [327037-minecraft-ps1-edition.json](./327037-minecraft-ps1-edition.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
+| Minecraft: Redstone Update | 221870 | [221870-minecraft-redstone-update.json](./221870-minecraft-redstone-update.json) |
 | Minecraft: Skin Pack 3 | 302607 | [302607-minecraft-skin-pack-3.json](./302607-minecraft-skin-pack-3.json) |
 | Minecraft: Skin Pack 3 - Classic | 316749 | [316749-minecraft-skin-pack-3-classic.json](./316749-minecraft-skin-pack-3-classic.json) |
 | Minecraft: Solo - A Star Wars Story Pack | 307724 | [307724-minecraft-solo-a-star-wars-story-pack.json](./307724-minecraft-solo-a-star-wars-story-pack.json) |
@@ -13642,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Simpsons Skin Pack | 254825 | [254825-minecraft-the-simpsons-skin-pack.json](./254825-minecraft-the-simpsons-skin-pack.json) |
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
+| Minecraft: The Update that Changed the World | 221872 | [221872-minecraft-the-update-that-changed-the-world.json](./221872-minecraft-the-update-that-changed-the-world.json) |
 | Minecraft: The Wild Update | 222612 | [222612-minecraft-the-wild-update.json](./222612-minecraft-the-wild-update.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: The World Warrior | 276090 | [276090-minecraft-the-world-warrior.json](./276090-minecraft-the-world-warrior.json) |
@@ -19713,6 +19720,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motus: Endless Run | 17448 | [17448-motus-endless-run.json](./17448-motus-endless-run.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
+| Moujuutsukai to Ouji-sama Portable | 221451 | [221451-moujuutsukai-to-ouji-sama-portable.json](./221451-moujuutsukai-to-ouji-sama-portable.json) |
+| Moujuutsukai to Ouji-sama: Snow Bride Portable | 221452 | [221452-moujuutsukai-to-ouji-sama-snow-bride-portable.json](./221452-moujuutsukai-to-ouji-sama-snow-bride-portable.json) |
 | Moujya | 207029 | [207029-moujya.json](./207029-moujya.json) |
 | Mould | 351187 | [351187-mould.json](./351187-mould.json) |
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
@@ -23067,6 +23076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Special Summer Vacation 2 | 317178 | [317178-my-special-summer-vacation-2.json](./317178-my-special-summer-vacation-2.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
 | My Splitting Image | 355231 | [355231-my-splitting-image.json](./355231-my-splitting-image.json) |
+| My Star-Crossed Girlfriend | 221868 | [221868-my-star-crossed-girlfriend.json](./221868-my-star-crossed-girlfriend.json) |
 | My Starry Princess | 298996 | [298996-my-starry-princess.json](./298996-my-starry-princess.json) |
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
