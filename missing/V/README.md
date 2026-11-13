@@ -3141,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Blast | 157332 | [157332-virus-blast.json](./157332-virus-blast.json) |
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
+| Virus Buster | 234966 | [234966-virus-buster.json](./234966-virus-buster.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
 | Virus Crisis | 115911 | [115911-virus-crisis.json](./115911-virus-crisis.json) |
 | Virus Evolution - Merge & Create Mutant Diseases | 104201 | [104201-virus-evolution-merge-and-create-mutant-diseases.json](./104201-virus-evolution-merge-and-create-mutant-diseases.json) |
