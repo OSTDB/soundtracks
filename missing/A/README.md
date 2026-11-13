@@ -11506,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Paradise: Deluxe Edition | 268616 | [268616-anime-paradise-deluxe-edition.json](./268616-anime-paradise-deluxe-edition.json) |
 | Anime Paradise: Extended Edition | 279190 | [279190-anime-paradise-extended-edition.json](./279190-anime-paradise-extended-edition.json) |
 | Anime Paradise: Ultimate Edition | 276326 | [276326-anime-paradise-ultimate-edition.json](./276326-anime-paradise-ultimate-edition.json) |
+| Anime Parkour War | 192467 | [192467-anime-parkour-war.json](./192467-anime-parkour-war.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
 | Anime Poly Puzzle: Sci-Fi Maidens | 266164 | [266164-anime-poly-puzzle-sci-fi-maidens.json](./266164-anime-poly-puzzle-sci-fi-maidens.json) |
@@ -13320,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarian Age: Tokyo Wars | 419084 | [419084-aquarian-age-tokyo-wars.json](./419084-aquarian-age-tokyo-wars.json) |
 | Aquario | 311444 | [311444-aquario.json](./311444-aquario.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
+| Aquarist | 192478 | [192478-aquarist.json](./192478-aquarist.json) |
 | Aquarist Simulator VR | 216378 | [216378-aquarist-simulator-vr.json](./216378-aquarist-simulator-vr.json) |
 | Aquarist: American Fish DLC | 372367 | [372367-aquarist-american-fish-dlc.json](./372367-aquarist-american-fish-dlc.json) |
 | Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
@@ -13881,6 +13883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pinball | 68354 | [68354-arcade-archives-pinball.json](./68354-arcade-archives-pinball.json) |
 | Arcade Archives: Pinball Action | 342334 | [342334-arcade-archives-pinball-action.json](./342334-arcade-archives-pinball-action.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
+| Arcade Archives: Pistol Daimyo no Bouken | 192415 | [192415-arcade-archives-pistol-daimyo-no-bouken.json](./192415-arcade-archives-pistol-daimyo-no-bouken.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Plus Alpha | 147626 | [147626-arcade-archives-plus-alpha.json](./147626-arcade-archives-plus-alpha.json) |
 | Arcade Archives: Polaris | 398192 | [398192-arcade-archives-polaris.json](./398192-arcade-archives-polaris.json) |
