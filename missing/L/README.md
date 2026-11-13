@@ -6730,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Reds Forest Fun | 114958 | [114958-little-reds-forest-fun.json](./114958-little-reds-forest-fun.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
+| Little Rhapsody of Game | 204016 | [204016-little-rhapsody-of-game.json](./204016-little-rhapsody-of-game.json) |
 | Little Robbery | 294934 | [294934-little-robbery.json](./294934-little-robbery.json) |
 | Little Robo Climber | 195687 | [195687-little-robo-climber.json](./195687-little-robo-climber.json) |
 | Little Robot | 329208 | [329208-little-robot.json](./329208-little-robot.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Town Secrets | 350307 | [350307-little-town-secrets.json](./350307-little-town-secrets.json) |
+| Little Town Shooter VR | 204017 | [204017-little-town-shooter-vr.json](./204017-little-town-shooter-vr.json) |
 | Little Toys | 393216 | [393216-little-toys.json](./393216-little-toys.json) |
 | Little Traveler | 146429 | [146429-little-traveler.json](./146429-little-traveler.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
