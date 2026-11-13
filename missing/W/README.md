@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Jade Shadows - Constellations | 404480 | [404480-warframe-jade-shadows-constellations.json](./404480-warframe-jade-shadows-constellations.json) |
 | Warframe: Koumei & the Five Fates | 421814 | [421814-warframe-koumei-and-the-five-fates.json](./421814-warframe-koumei-and-the-five-fates.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
+| Warframe: Octavia's Anthem | 198435 | [198435-warframe-octavias-anthem.json](./198435-warframe-octavias-anthem.json) |
 | Warframe: Oraxia Bundle | 373871 | [373871-warframe-oraxia-bundle.json](./373871-warframe-oraxia-bundle.json) |
 | Warframe: Plains of Eidolon | 68335 | [68335-warframe-plains-of-eidolon.json](./68335-warframe-plains-of-eidolon.json) |
 | Warframe: PS4 Obsidian Azura Collection | 26080 | [26080-warframe-ps4-obsidian-azura-collection.json](./26080-warframe-ps4-obsidian-azura-collection.json) |
@@ -1447,9 +1448,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
 | Warframe: The Old Peace | 356126 | [356126-warframe-the-old-peace.json](./356126-warframe-the-old-peace.json) |
 | Warframe: The Sacrifice | 103321 | [103321-warframe-the-sacrifice.json](./103321-warframe-the-sacrifice.json) |
+| Warframe: The Second Dream | 198413 | [198413-warframe-the-second-dream.json](./198413-warframe-the-second-dream.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
 | Warframe: The Shadowgrapher | 420948 | [420948-warframe-the-shadowgrapher.json](./420948-warframe-the-shadowgrapher.json) |
 | Warframe: The Vallis Undermind | 374217 | [374217-warframe-the-vallis-undermind.json](./374217-warframe-the-vallis-undermind.json) |
+| Warframe: The War Within | 198429 | [198429-warframe-the-war-within.json](./198429-warframe-the-war-within.json) |
 | Warframe: Valkyr Prime Access Pack | 26083 | [26083-warframe-valkyr-prime-access-pack.json](./26083-warframe-valkyr-prime-access-pack.json) |
 | Warframe: Valkyr Prime Accessories Pack | 26082 | [26082-warframe-valkyr-prime-accessories-pack.json](./26082-warframe-valkyr-prime-accessories-pack.json) |
 | Warframe: Valkyr Unleashed | 200850 | [200850-warframe-valkyr-unleashed.json](./200850-warframe-valkyr-unleashed.json) |
@@ -6228,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windstorm: Start of a Great Friendship Remastered - Complete Edition | 331827 | [331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json](./331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
+| Windswept | 198422 | [198422-windswept.json](./198422-windswept.json) |
 | Windwalker | 14483 | [14483-windwalker.json](./14483-windwalker.json) |
 | Windwalker | 270013 | [270013-windwalker.json](./270013-windwalker.json) |
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
