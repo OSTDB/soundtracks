@@ -7360,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizardCraft Colonies | 120947 | [120947-wizardcraft-colonies.json](./120947-wizardcraft-colonies.json) |
 | Wizardia | 218344 | [218344-wizardia.json](./218344-wizardia.json) |
 | Wizardians: In Defence of Magic | 126896 | [126896-wizardians-in-defence-of-magic.json](./126896-wizardians-in-defence-of-magic.json) |
+| Wizardish | 202276 | [202276-wizardish.json](./202276-wizardish.json) |
 | WizardLand | 95528 | [95528-wizardland.json](./95528-wizardland.json) |
 | Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
 | WizardPunk | 128124 | [128124-wizardpunk.json](./128124-wizardpunk.json) |
