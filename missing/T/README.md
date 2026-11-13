@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
+| T-Rex Dinosaur Game | 231112 | [231112-t-rex-dinosaur-game.json](./231112-t-rex-dinosaur-game.json) |
 | T-Rex Memory Match | 245678 | [245678-t-rex-memory-match.json](./245678-t-rex-memory-match.json) |
 | T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
 | T-Rex Simulator | 96299 | [96299-t-rex-simulator.json](./96299-t-rex-simulator.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bastard of Camelot | 355995 | [355995-the-bastard-of-camelot.json](./355995-the-bastard-of-camelot.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Bat | 333986 | [333986-the-bat.json](./333986-the-bat.json) |
+| The Bat Quiz | 231101 | [231101-the-bat-quiz.json](./231101-the-bat-quiz.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse | 200475 | [200475-the-bathhouse.json](./200475-the-bathhouse.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
@@ -9297,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Paradox | 114806 | [114806-the-dungeon-paradox.json](./114806-the-dungeon-paradox.json) |
 | The Dungeon Power | 44204 | [44204-the-dungeon-power.json](./44204-the-dungeon-power.json) |
 | The Dungeon Revealed | 171248 | [171248-the-dungeon-revealed.json](./171248-the-dungeon-revealed.json) |
+| The Dungeon Rules | 231114 | [231114-the-dungeon-rules.json](./231114-the-dungeon-rules.json) |
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeon Vendor | 243497 | [243497-the-dungeon-vendor.json](./243497-the-dungeon-vendor.json) |
 | The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
@@ -11055,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great American Cross-Country Road Race | 26218 | [26218-the-great-american-cross-country-road-race.json](./26218-the-great-american-cross-country-road-race.json) |
 | The Great Art Heist | 150938 | [150938-the-great-art-heist.json](./150938-the-great-art-heist.json) |
 | The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
+| The Great Artists | 231113 | [231113-the-great-artists.json](./231113-the-great-artists.json) |
 | The Great Attic Escape | 386173 | [386173-the-great-attic-escape.json](./386173-the-great-attic-escape.json) |
 | The Great Axe | 365824 | [365824-the-great-axe.json](./365824-the-great-axe.json) |
 | The Great Basement Escape | 385192 | [385192-the-great-basement-escape.json](./385192-the-great-basement-escape.json) |
@@ -15949,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parvificent Seven | 223305 | [223305-the-parvificent-seven.json](./223305-the-parvificent-seven.json) |
 | The Passage | 234809 | [234809-the-passage.json](./234809-the-passage.json) |
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
+| The Passenger | 230615 | [230615-the-passenger.json](./230615-the-passenger.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Passive Voice | 325154 | [325154-the-passive-voice.json](./325154-the-passive-voice.json) |
 | The Password Game | 254888 | [254888-the-password-game.json](./254888-the-password-game.json) |
@@ -16987,6 +16992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
 | The Rising | 262542 | [262542-the-rising.json](./262542-the-rising.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
+| The Rising of Gourb | 230592 | [230592-the-rising-of-gourb.json](./230592-the-rising-of-gourb.json) |
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
 | The Rising of the Shield Hero | 175020 | [175020-the-rising-of-the-shield-hero.json](./175020-the-rising-of-the-shield-hero.json) |
@@ -18528,6 +18534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stars Under Lockehurst | 318722 | [318722-the-stars-under-lockehurst.json](./318722-the-stars-under-lockehurst.json) |
 | The Stars We Lost To Grief | 271250 | [271250-the-stars-we-lost-to-grief.json](./271250-the-stars-we-lost-to-grief.json) |
 | The Starship Damrey | 20853 | [20853-the-starship-damrey.json](./20853-the-starship-damrey.json) |
+| The Starving Tournament | 231115 | [231115-the-starving-tournament.json](./231115-the-starving-tournament.json) |
 | The State of Nowhere | 289961 | [289961-the-state-of-nowhere.json](./289961-the-state-of-nowhere.json) |
 | The Static | 253832 | [253832-the-static.json](./253832-the-static.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
@@ -20850,6 +20857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wrong Ones | 420754 | [420754-the-wrong-ones.json](./420754-the-wrong-ones.json) |
+| The Wrong Thing | 231103 | [231103-the-wrong-thing.json](./231103-the-wrong-thing.json) |
 | The Wungo Dungo Surprise | 338989 | [338989-the-wungo-dungo-surprise.json](./338989-the-wungo-dungo-surprise.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Animal | 54997 | [54997-the-x-animal.json](./54997-the-x-animal.json) |
@@ -32391,6 +32399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
 | TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
 | Trapdoors | 204203 | [204203-trapdoors.json](./204203-trapdoors.json) |
+| Trapers Platformer | 231111 | [231111-trapers-platformer.json](./231111-trapers-platformer.json) |
 | Trapfall | 70722 | [70722-trapfall.json](./70722-trapfall.json) |
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
@@ -33320,6 +33329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
 | Tribots | 404585 | [404585-tribots.json](./404585-tribots.json) |
+| Tribu | 231110 | [231110-tribu.json](./231110-tribu.json) |
 | Tribulation | 160105 | [160105-tribulation.json](./160105-tribulation.json) |
 | Tribulation Knights | 67176 | [67176-tribulation-knights.json](./67176-tribulation-knights.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
@@ -33994,6 +34004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
 | Trophy Bass 2 Deluxe | 94314 | [94314-trophy-bass-2-deluxe.json](./94314-trophy-bass-2-deluxe.json) |
+| Trophy Chaser | 230608 | [230608-trophy-chaser.json](./230608-trophy-chaser.json) |
 | Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Hunt: Evolution | 97161 | [97161-trophy-hunt-evolution.json](./97161-trophy-hunt-evolution.json) |
