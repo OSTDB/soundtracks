@@ -19382,6 +19382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny-girl with Golden Tummy | 296636 | [296636-bunny-girl-with-golden-tummy.json](./296636-bunny-girl-with-golden-tummy.json) |
 | Bunny-Hop | 211482 | [211482-bunny-hop.json](./211482-bunny-hop.json) |
 | Bunny: The Horror Game | 108001 | [108001-bunny-the-horror-game.json](./108001-bunny-the-horror-game.json) |
+| Bunny's Ban | 169499 | [169499-bunnys-ban.json](./169499-bunnys-ban.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
