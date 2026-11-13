@@ -13396,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCube | 52519 | [52519-colorcube.json](./52519-colorcube.json) |
 | Colordle | 420051 | [420051-colordle.json](./420051-colordle.json) |
 | Colored Ball: Speedball Rush | 285645 | [285645-colored-ball-speedball-rush.json](./285645-colored-ball-speedball-rush.json) |
+| Colored Effects | 211339 | [211339-colored-effects.json](./211339-colored-effects.json) |
 | Colored Eyes Girls | 271652 | [271652-colored-eyes-girls.json](./271652-colored-eyes-girls.json) |
 | Colored Pencil Bakery | 393211 | [393211-colored-pencil-bakery.json](./393211-colored-pencil-bakery.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
@@ -13667,6 +13668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
 | Colorless Poems | 285269 | [285269-colorless-poems.json](./285269-colorless-poems.json) |
+| Colorless World | 211328 | [211328-colorless-world.json](./211328-colorless-world.json) |
 | Colorma | 304967 | [304967-colorma.json](./304967-colorma.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
@@ -16990,6 +16992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
+| Counter Recon 2: The New War | 211314 | [211314-counter-recon-2-the-new-war.json](./211314-counter-recon-2-the-new-war.json) |
 | Counter Recon: The First Mission | 147636 | [147636-counter-recon-the-first-mission.json](./147636-counter-recon-the-first-mission.json) |
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
@@ -20842,6 +20845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Blitz | 85061 | [85061-cube-blitz.json](./85061-cube-blitz.json) |
 | Cube Boy | 418208 | [418208-cube-boy.json](./418208-cube-boy.json) |
 | Cube Burst 3D | 387740 | [387740-cube-burst-3d.json](./387740-cube-burst-3d.json) |
+| Cube Chaos | 211342 | [211342-cube-chaos.json](./211342-cube-chaos.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
 | Cube Clash: Rumble and Smash | 251966 | [251966-cube-clash-rumble-and-smash.json](./251966-cube-clash-rumble-and-smash.json) |
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
