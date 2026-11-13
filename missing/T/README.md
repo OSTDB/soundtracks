@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleroboxer | 20984 | [20984-teleroboxer.json](./20984-teleroboxer.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
+| Telestians | 195658 | [195658-telestians.json](./195658-telestians.json) |
 | Teletext | 286903 | [286903-teletext.json](./286903-teletext.json) |
 | Teletext Chaser | 302235 | [302235-teletext-chaser.json](./302235-teletext-chaser.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
@@ -6288,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing World of Gumball: Fellowship of the Things | 279435 | [279435-the-amazing-world-of-gumball-fellowship-of-the-things.json](./279435-the-amazing-world-of-gumball-fellowship-of-the-things.json) |
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
+| The Ambassador's Coterie | 195668 | [195668-the-ambassadors-coterie.json](./195668-the-ambassadors-coterie.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Ambush! | 306250 | [306250-the-ambush.json](./306250-the-ambush.json) |
 | The AMC Pleaser | 271976 | [271976-the-amc-pleaser.json](./271976-the-amc-pleaser.json) |
@@ -8295,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature | 231457 | [231457-the-creature.json](./231457-the-creature.json) |
 | The Creature in my Dreams | 330369 | [330369-the-creature-in-my-dreams.json](./330369-the-creature-in-my-dreams.json) |
 | The Creature Mafia | 415162 | [415162-the-creature-mafia.json](./415162-the-creature-mafia.json) |
+| The Creature of Chaos | 195665 | [195665-the-creature-of-chaos.json](./195665-the-creature-of-chaos.json) |
 | The Creature Zone VR | 201466 | [201466-the-creature-zone-vr.json](./201466-the-creature-zone-vr.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
@@ -9647,6 +9650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Dyeus | 155858 | [155858-the-end-of-dyeus.json](./155858-the-end-of-dyeus.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of History | 310154 | [310154-the-end-of-history.json](./310154-the-end-of-history.json) |
+| The End of it All | 195672 | [195672-the-end-of-it-all.json](./195672-the-end-of-it-all.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Nowhere | 272197 | [272197-the-end-of-nowhere.json](./272197-the-end-of-nowhere.json) |
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
@@ -13676,6 +13680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
 | The Legend of Myra | 64186 | [64186-the-legend-of-myra.json](./64186-the-legend-of-myra.json) |
 | The Legend of Mystic Zone | 274112 | [274112-the-legend-of-mystic-zone.json](./274112-the-legend-of-mystic-zone.json) |
+| The Legend of Mythos | 195674 | [195674-the-legend-of-mythos.json](./195674-the-legend-of-mythos.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Nayuta: Boundless Trails - Deluxe Edition | 284594 | [284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json](./284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json) |
 | The Legend of Nayuta: Boundless Trails - Limited Edition | 284595 | [284595-the-legend-of-nayuta-boundless-trails-limited-edition.json](./284595-the-legend-of-nayuta-boundless-trails-limited-edition.json) |
@@ -16925,6 +16930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
 | The Referee Committee | 410568 | [410568-the-referee-committee.json](./410568-the-referee-committee.json) |
 | The Refinery | 271580 | [271580-the-refinery.json](./271580-the-refinery.json) |
+| The Reflection | 195671 | [195671-the-reflection.json](./195671-the-reflection.json) |
 | The Reflection | 399671 | [399671-the-reflection.json](./399671-the-reflection.json) |
 | The Reflex Lab | 372410 | [372410-the-reflex-lab.json](./372410-the-reflex-lab.json) |
 | The Reformatory | 330654 | [330654-the-reformatory.json](./330654-the-reformatory.json) |
@@ -18615,6 +18621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spring | 183215 | [183215-the-spring.json](./183215-the-spring.json) |
 | The Spring | 366312 | [366312-the-spring.json](./366312-the-spring.json) |
 | The Springlock: Aftermath | 315504 | [315504-the-springlock-aftermath.json](./315504-the-springlock-aftermath.json) |
+| The Sprite Trials | 195649 | [195649-the-sprite-trials.json](./195649-the-sprite-trials.json) |
 | The Sprucecape Mod | 214851 | [214851-the-sprucecape-mod.json](./214851-the-sprucecape-mod.json) |
 | The SpudFather | 302329 | [302329-the-spudfather.json](./302329-the-spudfather.json) |
 | The Spy | 94115 | [94115-the-spy.json](./94115-the-spy.json) |
