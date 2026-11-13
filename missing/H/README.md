@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardboiled Pinball | 131260 | [131260-hardboiled-pinball.json](./131260-hardboiled-pinball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardcheologist | 405060 | [405060-hardcheologist.json](./405060-hardcheologist.json) |
+| Hardcode | 181828 | [181828-hardcode.json](./181828-hardcode.json) |
 | Hardcoded | 146619 | [146619-hardcoded.json](./146619-hardcoded.json) |
 | HardCoin | 203653 | [203653-hardcoin.json](./203653-hardcoin.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
@@ -5206,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
 | Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
 | Hen Town | 295599 | [295599-hen-town.json](./295599-hen-town.json) |
+| Hen-to-Heart | 181404 | [181404-hen-to-heart.json](./181404-hen-to-heart.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | HenapoLand | 271035 | [271035-henapoland.json](./271035-henapoland.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
@@ -12020,6 +12022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
+| Hourou | 181831 | [181831-hourou.json](./181831-hourou.json) |
 | Hours After Midnight | 288954 | [288954-hours-after-midnight.json](./288954-hours-after-midnight.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
 | House | 342712 | [342712-house.json](./342712-house.json) |
