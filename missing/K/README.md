@@ -4636,7 +4636,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klabater Complete Bundle | 401940 | [401940-klabater-complete-bundle.json](./401940-klabater-complete-bundle.json) |
 | Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
 | Klac | 119456 | [119456-klac.json](./119456-klac.json) |
-| Klang | 18752 | [18752-klang.json](./18752-klang.json) |
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klangwelt | 89207 | [89207-klangwelt.json](./89207-klangwelt.json) |
 | Klap!! Kind Love and Punish: Fun Party | 138232 | [138232-klap-kind-love-and-punish-fun-party.json](./138232-klap-kind-love-and-punish-fun-party.json) |
