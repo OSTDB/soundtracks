@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
 | Vampires Dawn 2: Ancient Blood | 80474 | [80474-vampires-dawn-2-ancient-blood.json](./80474-vampires-dawn-2-ancient-blood.json) |
+| Vampires Dawn: Deceit of Heretics | 172839 | [172839-vampires-dawn-deceit-of-heretics.json](./172839-vampires-dawn-deceit-of-heretics.json) |
 | Vampires Dawn: Reign of Blood | 80475 | [80475-vampires-dawn-reign-of-blood.json](./80475-vampires-dawn-reign-of-blood.json) |
 | Vampires Die | 346630 | [346630-vampires-die.json](./346630-vampires-die.json) |
 | Vampires Fable | 316731 | [316731-vampires-fable.json](./316731-vampires-fable.json) |
