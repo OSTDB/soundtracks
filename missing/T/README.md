@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dig - Idle Clicker Game | 100780 | [100780-tap-tap-dig-idle-clicker-game.json](./100780-tap-tap-dig-idle-clicker-game.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
+| Tap Tap Driver | 242764 | [242764-tap-tap-driver.json](./242764-tap-tap-driver.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Evil Mastermind | 290286 | [290286-tap-tap-evil-mastermind.json](./290286-tap-tap-evil-mastermind.json) |
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
@@ -4302,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Fubu Eiyuu-tachi no Houkou | 46383 | [46383-tenka-fubu-eiyuu-tachi-no-houkou.json](./46383-tenka-fubu-eiyuu-tachi-no-houkou.json) |
 | Tenka Hyakken: Zan | 76569 | [76569-tenka-hyakken-zan.json](./76569-tenka-hyakken-zan.json) |
 | Tenka no Goikenban: Mito Koumon | 48881 | [48881-tenka-no-goikenban-mito-koumon.json](./48881-tenka-no-goikenban-mito-koumon.json) |
+| Tenka Touitsu | 242744 | [242744-tenka-touitsu.json](./242744-tenka-touitsu.json) |
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
@@ -4944,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
+| Terrella | 242766 | [242766-terrella.json](./242766-terrella.json) |
 | Terrene | 133845 | [133845-terrene.json](./133845-terrene.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
 | Terreno di Caccia | 405971 | [405971-terreno-di-caccia.json](./405971-terreno-di-caccia.json) |
@@ -11687,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of Da Vinci VR | 314703 | [314703-the-house-of-da-vinci-vr.json](./314703-the-house-of-da-vinci-vr.json) |
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
+| The House of Evil Grandmother | 242743 | [242743-the-house-of-evil-grandmother.json](./242743-the-house-of-evil-grandmother.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hamelin | 370598 | [370598-the-house-of-hamelin.json](./370598-the-house-of-hamelin.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
@@ -16662,6 +16666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ravine | 176241 | [176241-the-ravine.json](./176241-the-ravine.json) |
 | The Ravine | 365387 | [365387-the-ravine.json](./365387-the-ravine.json) |
 | The Razorform | 353804 | [353804-the-razorform.json](./353804-the-razorform.json) |
+| The Reacher | 242761 | [242761-the-reacher.json](./242761-the-reacher.json) |
 | The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Academic Challenge High School Level | 401094 | [401094-the-real-academic-challenge-high-school-level.json](./401094-the-real-academic-challenge-high-school-level.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
@@ -24907,6 +24912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Tear | 417964 | [417964-times-tear.json](./417964-times-tear.json) |
 | Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
+| Time4Cat | 242827 | [242827-time4cat.json](./242827-time4cat.json) |
 | Timeater | 375054 | [375054-timeater.json](./375054-timeater.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | Timebomb | 135085 | [135085-timebomb.json](./135085-timebomb.json) |
@@ -29997,6 +30003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Boss BMX | 146945 | [146945-trail-boss-bmx.json](./146945-trail-boss-bmx.json) |
 | Trail Breaking | 99439 | [99439-trail-breaking.json](./99439-trail-breaking.json) |
 | Trail Climb | 106030 | [106030-trail-climb.json](./106030-trail-climb.json) |
+| Trail Hogs | 242750 | [242750-trail-hogs.json](./242750-trail-hogs.json) |
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail Mix | 176318 | [176318-trail-mix.json](./176318-trail-mix.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
@@ -32959,6 +32966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Foot | 271577 | [271577-trench-foot.json](./271577-trench-foot.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
 | Trench Punk | 272440 | [272440-trench-punk.json](./272440-trench-punk.json) |
+| Trench Racer | 242767 | [242767-trench-racer.json](./242767-trench-racer.json) |
 | Trench Rats: The First March | 360147 | [360147-trench-rats-the-first-march.json](./360147-trench-rats-the-first-march.json) |
 | Trench Run | 30370 | [30370-trench-run.json](./30370-trench-run.json) |
 | Trench Run VR | 86422 | [86422-trench-run-vr.json](./86422-trench-run-vr.json) |
