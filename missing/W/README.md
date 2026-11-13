@@ -3545,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Home | 305961 | [305961-welcome-home.json](./305961-welcome-home.json) |
 | Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
 | Welcome Home 2 | 181062 | [181062-welcome-home-2.json](./181062-welcome-home-2.json) |
+| Welcome Home Jacob | 232211 | [232211-welcome-home-jacob.json](./232211-welcome-home-jacob.json) |
 | Welcome Home, Love | 30594 | [30594-welcome-home-love.json](./30594-welcome-home-love.json) |
 | Welcome Home, Sweetie | 363079 | [363079-welcome-home-sweetie.json](./363079-welcome-home-sweetie.json) |
 | Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What’s in the Box? | 383452 | [383452-what-s-in-the-box.json](./383452-what-s-in-the-box.json) |
 | What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
+| What's In the Safe? | 232215 | [232215-whats-in-the-safe.json](./232215-whats-in-the-safe.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's it? Flags | 241194 | [241194-whats-it-flags.json](./241194-whats-it-flags.json) |
 | What's Left | 126209 | [126209-whats-left.json](./126209-whats-left.json) |
@@ -8162,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Ladders | 73094 | [73094-word-ladders.json](./73094-word-ladders.json) |
 | Word Land - Crosswords | 106955 | [106955-word-land-crosswords.json](./106955-word-land-crosswords.json) |
 | Word Lanes | 153749 | [153749-word-lanes.json](./153749-word-lanes.json) |
+| Word Life: Crossword puzzle | 232194 | [232194-word-life-crossword-puzzle.json](./232194-word-life-crossword-puzzle.json) |
 | Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 122627 | [122627-word-maker.json](./122627-word-maker.json) |
@@ -8372,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordimagesoundplay | 178180 | [178180-wordimagesoundplay.json](./178180-wordimagesoundplay.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | Wordism | 239093 | [239093-wordism.json](./239093-wordism.json) |
+| Wordium | 232195 | [232195-wordium.json](./232195-wordium.json) |
 | Wordix: Word Puzzle | 193778 | [193778-wordix-word-puzzle.json](./193778-wordix-word-puzzle.json) |
 | WordJong | 205886 | [205886-wordjong.json](./205886-wordjong.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
@@ -9956,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Way | 383859 | [383859-wrong-way.json](./383859-wrong-way.json) |
 | Wronged | 75780 | [75780-wronged.json](./75780-wronged.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
+| WrongKynd | 232223 | [232223-wrongkynd.json](./232223-wrongkynd.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroom Classic | 421437 | [421437-wroom-classic.json](./421437-wroom-classic.json) |
@@ -10051,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuppo: Ultimate Edition | 52120 | [52120-wuppo-ultimate-edition.json](./52120-wuppo-ultimate-edition.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdle | 105533 | [105533-wurdle.json](./105533-wurdle.json) |
+| Wurds | 232197 | [232197-wurds.json](./232197-wurds.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurm Unlimited | 35375 | [35375-wurm-unlimited.json](./35375-wurm-unlimited.json) |
 | Wurm: Journey to the Center of the Earth! | 48112 | [48112-wurm-journey-to-the-center-of-the-earth.json](./48112-wurm-journey-to-the-center-of-the-earth.json) |
