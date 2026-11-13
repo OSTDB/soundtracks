@@ -6249,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
 | Litchi Town | 244934 | [244934-litchi-town.json](./244934-litchi-town.json) |
+| Lite On: Indonesian Culture | 214647 | [214647-lite-on-indonesian-culture.json](./214647-lite-on-indonesian-culture.json) |
 | Liteboxer | 125949 | [125949-liteboxer.json](./125949-liteboxer.json) |
 | LiteBringer | 178150 | [178150-litebringer.json](./178150-litebringer.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
@@ -9428,6 +9429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Delation! | 77685 | [77685-love-delation.json](./77685-love-delation.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
+| Love Doki-doki! Yakusoku no Basho! Sweet Melody! | 214096 | [214096-love-doki-doki-yakusoku-no-basho-sweet-melody.json](./214096-love-doki-doki-yakusoku-no-basho-sweet-melody.json) |
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Drops | 204395 | [204395-love-drops.json](./204395-love-drops.json) |
 | Love Drops: Miracle Doukyo Monogatari | 204393 | [204393-love-drops-miracle-doukyo-monogatari.json](./204393-love-drops-miracle-doukyo-monogatari.json) |
