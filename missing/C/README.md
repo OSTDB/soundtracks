@@ -6792,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
+| Chaotic Thinking | 176944 | [176944-chaotic-thinking.json](./176944-chaotic-thinking.json) |
 | Chaotic Trinity | 271442 | [271442-chaotic-trinity.json](./271442-chaotic-trinity.json) |
 | Chaotic Void | 83986 | [83986-chaotic-void.json](./83986-chaotic-void.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
@@ -13871,6 +13872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Com__et | 267808 | [267808-com-et.json](./267808-com-et.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
 | Coma | 222695 | [222695-coma.json](./222695-coma.json) |
+| Coma State Eden | 176524 | [176524-coma-state-eden.json](./176524-coma-state-eden.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
