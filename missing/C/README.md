@@ -12563,7 +12563,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Simulator Tycoon | 301175 | [301175-coffee-simulator-tycoon.json](./301175-coffee-simulator-tycoon.json) |
 | Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
+| Coffee Talk: Double Shot Edition | 233271 | [233271-coffee-talk-double-shot-edition.json](./233271-coffee-talk-double-shot-edition.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
+| Coffee Talk: Episode 2 - Hibiscus & Butterfly: Collector's Edition | 233267 | [233267-coffee-talk-episode-2-hibiscus-and-butterfly-collectors-edition.json](./233267-coffee-talk-episode-2-hibiscus-and-butterfly-collectors-edition.json) |
+| Coffee Talk: Episode 2 - Hibiscus & Butterfly: Single Shot Edition | 233270 | [233270-coffee-talk-episode-2-hibiscus-and-butterfly-single-shot-edition.json](./233270-coffee-talk-episode-2-hibiscus-and-butterfly-single-shot-edition.json) |
+| Coffee Talk: Single Shot Edition | 233268 | [233268-coffee-talk-single-shot-edition.json](./233268-coffee-talk-single-shot-edition.json) |
 | Coffee Talk: Tokyo | 314928 | [314928-coffee-talk-tokyo.json](./314928-coffee-talk-tokyo.json) |
 | Coffee Time! | 239424 | [239424-coffee-time.json](./239424-coffee-time.json) |
 | Coffee Trainer VR | 110095 | [110095-coffee-trainer-vr.json](./110095-coffee-trainer-vr.json) |
@@ -17698,6 +17702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
 | Crank Snake Saga | 346916 | [346916-crank-snake-saga.json](./346916-crank-snake-saga.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
+| Crank Tanks | 233297 | [233297-crank-tanks.json](./233297-crank-tanks.json) |
 | Crank that Clicker | 280138 | [280138-crank-that-clicker.json](./280138-crank-that-clicker.json) |
 | Crank the Weasel | 65481 | [65481-crank-the-weasel.json](./65481-crank-the-weasel.json) |
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
