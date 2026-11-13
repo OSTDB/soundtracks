@@ -7345,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Leap | 318280 | [318280-shadow-leap.json](./318280-shadow-leap.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
 | Shadow Lens | 228210 | [228210-shadow-lens.json](./228210-shadow-lens.json) |
+| Shadow Life | 187571 | [187571-shadow-life.json](./187571-shadow-life.json) |
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
 | Shadow Madness | 44969 | [44969-shadow-madness.json](./44969-shadow-madness.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
@@ -8798,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Chapter One - Deluxe Edition | 173098 | [173098-sherlock-holmes-chapter-one-deluxe-edition.json](./173098-sherlock-holmes-chapter-one-deluxe-edition.json) |
 | Sherlock Holmes: Chapter One - Detective Pack | 245165 | [245165-sherlock-holmes-chapter-one-detective-pack.json](./245165-sherlock-holmes-chapter-one-detective-pack.json) |
 | Sherlock Holmes: Chapter One - M for Mystery | 194957 | [194957-sherlock-holmes-chapter-one-m-for-mystery.json](./194957-sherlock-holmes-chapter-one-m-for-mystery.json) |
+| Sherlock Holmes: Chapter One - Mycroft's Pride | 187572 | [187572-sherlock-holmes-chapter-one-mycrofts-pride.json](./187572-sherlock-holmes-chapter-one-mycrofts-pride.json) |
 | Sherlock Holmes: Chapter One - Plague Doctor Pack | 245166 | [245166-sherlock-holmes-chapter-one-plague-doctor-pack.json](./245166-sherlock-holmes-chapter-one-plague-doctor-pack.json) |
 | Sherlock Holmes: Chapter One - Saints and Sinners | 194958 | [194958-sherlock-holmes-chapter-one-saints-and-sinners.json](./194958-sherlock-holmes-chapter-one-saints-and-sinners.json) |
 | Sherlock Holmes: Chapter One - Victorian Starter Pack | 245164 | [245164-sherlock-holmes-chapter-one-victorian-starter-pack.json](./245164-sherlock-holmes-chapter-one-victorian-starter-pack.json) |
@@ -13187,6 +13189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Gelatin | 408472 | [408472-skeleton-gelatin.json](./408472-skeleton-gelatin.json) |
 | Skeleton Hell | 310294 | [310294-skeleton-hell.json](./310294-skeleton-hell.json) |
 | Skeleton Hotel | 247897 | [247897-skeleton-hotel.json](./247897-skeleton-hotel.json) |
+| Skeleton Jumper | 187999 | [187999-skeleton-jumper.json](./187999-skeleton-jumper.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
 | Skeleton Krew | 4548 | [4548-skeleton-krew.json](./4548-skeleton-krew.json) |
@@ -21560,6 +21563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Inc | 190878 | [190878-space-inc.json](./190878-space-inc.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
+| Space Inferno | 187995 | [187995-space-inferno.json](./187995-space-inferno.json) |
 | Space Inn | 347034 | [347034-space-inn.json](./347034-space-inn.json) |
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
 | Space Instigators | 84293 | [84293-space-instigators.json](./84293-space-instigators.json) |
@@ -29796,6 +29800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonerid | 9880 | [9880-stonerid.json](./9880-stonerid.json) |
 | Stonerill | 370161 | [370161-stonerill.json](./370161-stonerill.json) |
 | Stones | 282401 | [282401-stones.json](./282401-stones.json) |
+| Stones Keeper | 187559 | [187559-stones-keeper.json](./187559-stones-keeper.json) |
 | Stones Keeper II: Chaos Lord | 331038 | [331038-stones-keeper-ii-chaos-lord.json](./331038-stones-keeper-ii-chaos-lord.json) |
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
@@ -33430,6 +33435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Animal Royale: Season 4 | 204741 | [204741-super-animal-royale-season-4.json](./204741-super-animal-royale-season-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
+| Super Animal Royale: Super Edition | 187996 | [187996-super-animal-royale-super-edition.json](./187996-super-animal-royale-super-edition.json) |
 | Super Animal Soccer | 382536 | [382536-super-animal-soccer.json](./382536-super-animal-soccer.json) |
 | Super Animals TD | 426617 | [426617-super-animals-td.json](./426617-super-animals-td.json) |
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
@@ -37909,6 +37915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Ben VR | 152219 | [152219-sushi-ben-vr.json](./152219-sushi-ben-vr.json) |
 | Sushi Blast | 262041 | [262041-sushi-blast.json](./262041-sushi-blast.json) |
 | Sushi Break | 135577 | [135577-sushi-break.json](./135577-sushi-break.json) |
+| Sushi Break 2 | 187549 | [187549-sushi-break-2.json](./187549-sushi-break-2.json) |
 | Sushi Break: Head to Head | 214697 | [214697-sushi-break-head-to-head.json](./214697-sushi-break-head-to-head.json) |
 | Sushi Castle | 64879 | [64879-sushi-castle.json](./64879-sushi-castle.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
