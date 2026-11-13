@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty study for exams with a ghost | 111240 | [111240-naughty-study-for-exams-with-a-ghost.json](./111240-naughty-study-for-exams-with-a-ghost.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
+| Naui Yeou Yukseong Ilji | 219833 | [219833-naui-yeou-yukseong-ilji.json](./219833-naui-yeou-yukseong-ilji.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nauruan Dominatrixes Are the Best | 392978 | [392978-nauruan-dominatrixes-are-the-best.json](./392978-nauruan-dominatrixes-are-the-best.json) |
 | Naus | 304916 | [304916-naus.json](./304916-naus.json) |
