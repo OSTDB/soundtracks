@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spooky Item Game | 363043 | [363043-a-spooky-item-game.json](./363043-a-spooky-item-game.json) |
 | A Spooky Teaparty | 221172 | [221172-a-spooky-teaparty.json](./221172-a-spooky-teaparty.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
+| A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
 | A Steak Temple Panic | 202652 | [202652-a-steak-temple-panic.json](./202652-a-steak-temple-panic.json) |
 | A Steak Temple Panic: Chapter 2 - Welcome to Sanglinours | 226228 | [226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json](./226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json) |
 | A Steamboat Willie | 282679 | [282679-a-steamboat-willie.json](./282679-a-steamboat-willie.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk in the Park | 312860 | [312860-a-walk-in-the-park.json](./312860-a-walk-in-the-park.json) |
 | A Walk in the Park | 70829 | [70829-a-walk-in-the-park.json](./70829-a-walk-in-the-park.json) |
+| A Walk in the Silent Street | 179114 | [179114-a-walk-in-the-silent-street.json](./179114-a-walk-in-the-silent-street.json) |
 | A Walk in the Woods | 99117 | [99117-a-walk-in-the-woods.json](./99117-a-walk-in-the-woods.json) |
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
 | A Walk of Surrender | 183258 | [183258-a-walk-of-surrender.json](./183258-a-walk-of-surrender.json) |
@@ -4798,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
+| AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
 | AFKTower | 420200 | [420200-afktower.json](./420200-afktower.json) |
 | AFL | 4662 | [4662-afl.json](./4662-afl.json) |
 | AFL '98 | 79493 | [79493-afl-98.json](./79493-afl-98.json) |
@@ -4854,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After | 163792 | [163792-after.json](./163792-after.json) |
+| After | 179156 | [179156-after.json](./179156-after.json) |
 | After | 219966 | [219966-after.json](./219966-after.json) |
 | After | 237551 | [237551-after.json](./237551-after.json) |
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
