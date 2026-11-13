@@ -9041,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: The Legend of Mata Nui Rebuilt | 341838 | [341838-bionicle-the-legend-of-mata-nui-rebuilt.json](./341838-bionicle-the-legend-of-mata-nui-rebuilt.json) |
 | Bionics: We Will Evolve | 341824 | [341824-bionics-we-will-evolve.json](./341824-bionics-we-will-evolve.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
+| Bionix: Spore & Bacteria Simulator | 193919 | [193919-bionix-spore-and-bacteria-simulator.json](./193919-bionix-spore-and-bacteria-simulator.json) |
 | BioOcean Fantasy | 196528 | [196528-bioocean-fantasy.json](./196528-bioocean-fantasy.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
 | Biophilia | 25029 | [25029-biophilia.json](./25029-biophilia.json) |
@@ -11006,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Blenzzle | 367713 | [367713-blenzzle.json](./367713-blenzzle.json) |
 | Blepp Quest! | 326932 | [326932-blepp-quest.json](./326932-blepp-quest.json) |
+| Bless Eternal | 193985 | [193985-bless-eternal.json](./193985-bless-eternal.json) |
 | Bless Unleashed | 108559 | [108559-bless-unleashed.json](./108559-bless-unleashed.json) |
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
