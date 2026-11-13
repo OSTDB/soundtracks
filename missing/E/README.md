@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of Fate | 366720 | [366720-eclipse-of-fate.json](./366720-eclipse-of-fate.json) |
 | Eclipse of Illusion | 68983 | [68983-eclipse-of-illusion.json](./68983-eclipse-of-illusion.json) |
 | Eclipse of the Lost | 341827 | [341827-eclipse-of-the-lost.json](./341827-eclipse-of-the-lost.json) |
+| Eclipse of the Moon | 220364 | [220364-eclipse-of-the-moon.json](./220364-eclipse-of-the-moon.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
 | Eclipse: 2nd Dawn for the Galaxy | 368711 | [368711-eclipse-2nd-dawn-for-the-galaxy.json](./368711-eclipse-2nd-dawn-for-the-galaxy.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Verse 23,194,973,137 | 257538 | [257538-end-of-verse-23-194-973-137.json](./257538-end-of-verse-23-194-973-137.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | End Of World: Story | 291363 | [291363-end-of-world-story.json](./291363-end-of-world-story.json) |
+| End of world: Survivors | 220365 | [220365-end-of-world-survivors.json](./220365-end-of-world-survivors.json) |
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
 | End Point | 260861 | [260861-end-point.json](./260861-end-point.json) |
 | End Quest | 411415 | [411415-end-quest.json](./411415-end-quest.json) |
@@ -5912,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: Enchanting Tales | 174263 | [174263-escape-game-enchanting-tales.json](./174263-escape-game-enchanting-tales.json) |
 | Escape Game: Fort Boyard Edition 2021 | 154787 | [154787-escape-game-fort-boyard-edition-2021.json](./154787-escape-game-fort-boyard-edition-2021.json) |
 | Escape Game: Galleria | 370420 | [370420-escape-game-galleria.json](./370420-escape-game-galleria.json) |
+| Escape Game: Hanoi in Vietnam | 220233 | [220233-escape-game-hanoi-in-vietnam.json](./220233-escape-game-hanoi-in-vietnam.json) |
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: Rest room3 | 212543 | [212543-escape-game-rest-room3.json](./212543-escape-game-rest-room3.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
@@ -8095,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
 | Ex-Zodiac | 133089 | [133089-ex-zodiac.json](./133089-ex-zodiac.json) |
 | EX: Extra | 242154 | [242154-ex-extra.json](./242154-ex-extra.json) |
+| Ex.Emi | 220767 | [220767-ex-emi.json](./220767-ex-emi.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
 | EX0: Dark Moon | 76355 | [76355-ex0-dark-moon.json](./76355-ex0-dark-moon.json) |
