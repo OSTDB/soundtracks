@@ -7009,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomu | 302314 | [302314-nomu.json](./302314-nomu.json) |
 | Non Eternals | 397496 | [397496-non-eternals.json](./397496-non-eternals.json) |
 | Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
+| Non Fingo | 209080 | [209080-non-fingo.json](./209080-non-fingo.json) |
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
 | Non Human | 245086 | [245086-non-human.json](./245086-non-human.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
