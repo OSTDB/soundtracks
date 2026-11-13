@@ -4376,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PengoRoyale | 193274 | [193274-pengoroyale.json](./193274-pengoroyale.json) |
 | PengPeng: Save the Penguins | 234467 | [234467-pengpeng-save-the-penguins.json](./234467-pengpeng-save-the-penguins.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
+| Pengreens | 223194 | [223194-pengreens.json](./223194-pengreens.json) |
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
 | Pengu Never Left | 187399 | [187399-pengu-never-left.json](./187399-pengu-never-left.json) |
 | Penguemic: Word Domination | 61870 | [61870-penguemic-word-domination.json](./61870-penguemic-word-domination.json) |
@@ -11124,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
 | Pneuma | 426436 | [426436-pneuma.json](./426436-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
+| Pneumata | 223183 | [223183-pneumata.json](./223183-pneumata.json) |
 | Pneumata VR | 253173 | [253173-pneumata-vr.json](./253173-pneumata-vr.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | PneumaticCraft: Repressurized | 294671 | [294671-pneumaticcraft-repressurized.json](./294671-pneumaticcraft-repressurized.json) |
@@ -18609,6 +18611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchitto Rock Shooter: Pursue the Mystery of the Sexy Planet | 324802 | [324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json](./324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json) |
 | Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
+| Puck Man | 223117 | [223117-puck-man.json](./223117-puck-man.json) |
 | Puck Off | 67768 | [67768-puck-off.json](./67768-puck-off.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck'n Hell | 418648 | [418648-puckn-hell.json](./418648-puckn-hell.json) |
