@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pbouxhkiir Night on the Primox Alpha | 339780 | [339780-pbouxhkiir-night-on-the-primox-alpha.json](./339780-pbouxhkiir-night-on-the-primox-alpha.json) |
 | PBR: Raging Bulls | 241559 | [241559-pbr-raging-bulls.json](./241559-pbr-raging-bulls.json) |
 | PButtons | 356640 | [356640-pbuttons.json](./356640-pbuttons.json) |
+| Pbx | 173876 | [173876-pbx.json](./173876-pbx.json) |
 | PC Basket 4.0 | 320947 | [320947-pc-basket-4-0.json](./320947-pc-basket-4-0.json) |
 | Pc Building Empire | 357424 | [357424-pc-building-empire.json](./357424-pc-building-empire.json) |
 | PC Building Nightmare | 389603 | [389603-pc-building-nightmare.json](./389603-pc-building-nightmare.json) |
@@ -4729,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Pera Coda | 350877 | [350877-pera-coda.json](./350877-pera-coda.json) |
 | Peraglees: The Ooloufian Resistance | 249245 | [249245-peraglees-the-ooloufian-resistance.json](./249245-peraglees-the-ooloufian-resistance.json) |
+| Perang Laut: Maritime Warfare | 173882 | [173882-perang-laut-maritime-warfare.json](./173882-perang-laut-maritime-warfare.json) |
 | PeraPera Mountain | 310890 | [310890-perapera-mountain.json](./310890-perapera-mountain.json) |
 | Perash | 358442 | [358442-perash.json](./358442-perash.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
@@ -15506,6 +15508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
 | Pretty Girls Breakers! | 192067 | [192067-pretty-girls-breakers.json](./192067-pretty-girls-breakers.json) |
 | Pretty Girls Breakers! Plus | 237362 | [237362-pretty-girls-breakers-plus.json](./237362-pretty-girls-breakers-plus.json) |
+| Pretty Girls Breakout! | 173857 | [173857-pretty-girls-breakout.json](./173857-pretty-girls-breakout.json) |
 | Pretty Girls Breakout! Plus | 212238 | [212238-pretty-girls-breakout-plus.json](./212238-pretty-girls-breakout-plus.json) |
 | Pretty Girls Don’t Want You to Die | 392298 | [392298-pretty-girls-don-t-want-you-to-die.json](./392298-pretty-girls-don-t-want-you-to-die.json) |
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
@@ -18813,6 +18816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff Go | 188287 | [188287-puff-go.json](./188287-puff-go.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
+| Puff Town | 173856 | [173856-puff-town.json](./173856-puff-town.json) |
 | Puff Up | 345697 | [345697-puff-up.json](./345697-puff-up.json) |
 | Puff Up & 9 Minigames | 345698 | [345698-puff-up-and-9-minigames.json](./345698-puff-up-and-9-minigames.json) |
 | Puff Up: Classic Edition | 353983 | [353983-puff-up-classic-edition.json](./353983-puff-up-classic-edition.json) |
