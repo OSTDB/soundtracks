@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezha Legend | 334308 | [334308-nezha-legend.json](./334308-nezha-legend.json) |
 | Nezori | 350314 | [350314-nezori.json](./350314-nezori.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
+| NFBL: National Fantasy Basketball League | 244519 | [244519-nfbl-national-fantasy-basketball-league.json](./244519-nfbl-national-fantasy-basketball-league.json) |
 | NFK: Santa's Gone Postal | 50342 | [50342-nfk-santas-gone-postal.json](./50342-nfk-santas-gone-postal.json) |
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
@@ -5548,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
 | Ninja Gold Thief | 371146 | [371146-ninja-gold-thief.json](./371146-ninja-gold-thief.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
+| Ninja Golf 2 | 244969 | [244969-ninja-golf-2.json](./244969-ninja-golf-2.json) |
 | Ninja Grannies | 70859 | [70859-ninja-grannies.json](./70859-ninja-grannies.json) |
 | Ninja Guy | 27582 | [27582-ninja-guy.json](./27582-ninja-guy.json) |
 | Ninja Hagakure | 215621 | [215621-ninja-hagakure.json](./215621-ninja-hagakure.json) |
@@ -8023,8 +8025,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear War Simulator | 154350 | [154350-nuclear-war-simulator.json](./154350-nuclear-war-simulator.json) |
 | Nuclear Wasteland 2030 | 91787 | [91787-nuclear-wasteland-2030.json](./91787-nuclear-wasteland-2030.json) |
 | Nuclear Winter | 221663 | [221663-nuclear-winter.json](./221663-nuclear-winter.json) |
+| Nuclear Winter | 244977 | [244977-nuclear-winter.json](./244977-nuclear-winter.json) |
 | Nuclear Wipeout | 148624 | [148624-nuclear-wipeout.json](./148624-nuclear-wipeout.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
+| Nucleares | 245056 | [245056-nucleares.json](./245056-nucleares.json) |
 | Nucleares: New Generator Set | 302851 | [302851-nucleares-new-generator-set.json](./302851-nucleares-new-generator-set.json) |
 | Nuclearphobia | 385624 | [385624-nuclearphobia.json](./385624-nuclearphobia.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
