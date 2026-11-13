@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B1g Br0th3r | 136243 | [136243-b1g-br0th3r.json](./136243-b1g-br0th3r.json) |
 | B3 | 289382 | [289382-b3.json](./289382-b3.json) |
 | B3 Game Expo For Bees | 84775 | [84775-b3-game-expo-for-bees.json](./84775-b3-game-expo-for-bees.json) |
+| B3313 | 191278 | [191278-b3313.json](./191278-b3313.json) |
 | B3313 Unabandoned | 281260 | [281260-b3313-unabandoned.json](./281260-b3313-unabandoned.json) |
 | B360 | 133393 | [133393-b360.json](./133393-b360.json) |
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
@@ -18754,6 +18755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Crush! | 112183 | [112183-building-crush.json](./112183-building-crush.json) |
 | Building Destruction | 193563 | [193563-building-destruction.json](./193563-building-destruction.json) |
 | Building Destruction | 219214 | [219214-building-destruction.json](./219214-building-destruction.json) |
+| Building Hope: Refugee Camp Simulator | 191842 | [191842-building-hope-refugee-camp-simulator.json](./191842-building-hope-refugee-camp-simulator.json) |
 | Building Hopper | 130546 | [130546-building-hopper.json](./130546-building-hopper.json) |
 | Building Jumper | 365047 | [365047-building-jumper.json](./365047-building-jumper.json) |
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
