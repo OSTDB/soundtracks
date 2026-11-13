@@ -13129,6 +13129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boating Simulator 2022 | 199458 | [199458-boating-simulator-2022.json](./199458-boating-simulator-2022.json) |
 | BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
 | Boats N' Hoes | 298448 | [298448-boats-n-hoes.json](./298448-boats-n-hoes.json) |
+| Boats.io | 176540 | [176540-boats-io.json](./176540-boats-io.json) |
 | Boaty McBoatface | 99872 | [99872-boaty-mcboatface.json](./99872-boaty-mcboatface.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
@@ -18207,6 +18208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Shooting Robots | 266138 | [266138-bubble-shooting-robots.json](./266138-bubble-shooting-robots.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
+| Bubble Soccer | 176532 | [176532-bubble-soccer.json](./176532-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
 | Bubble Struggle | 199207 | [199207-bubble-struggle.json](./199207-bubble-struggle.json) |
