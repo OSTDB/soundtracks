@@ -16508,6 +16508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Ark | 301443 | [301443-cosmic-ark.json](./301443-cosmic-ark.json) |
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
 | Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
+| Cosmic Ascension | 196773 | [196773-cosmic-ascension.json](./196773-cosmic-ascension.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Awakening VR | 29490 | [29490-cosmic-awakening-vr.json](./29490-cosmic-awakening-vr.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
