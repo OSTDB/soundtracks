@@ -15326,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downpour | 35221 | [35221-downpour.json](./35221-downpour.json) |
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
 | Downpurr | 201169 | [201169-downpurr.json](./201169-downpurr.json) |
+| DownRight Fierce | 237707 | [237707-downright-fierce.json](./237707-downright-fierce.json) |
 | DownRiver | 179928 | [179928-downriver.json](./179928-downriver.json) |
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
@@ -20816,11 +20817,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2 Stay Human: Digital Extras Edition | 331266 | [331266-dying-light-2-stay-human-digital-extras-edition.json](./331266-dying-light-2-stay-human-digital-extras-edition.json) |
 | Dying Light 2: Stay Human - Black Friday Edition | 278186 | [278186-dying-light-2-stay-human-black-friday-edition.json](./278186-dying-light-2-stay-human-black-friday-edition.json) |
 | Dying Light 2: Stay Human - Bloody Ties | 214400 | [214400-dying-light-2-stay-human-bloody-ties.json](./214400-dying-light-2-stay-human-bloody-ties.json) |
+| Dying Light 2: Stay Human - Brecken Bundle | 237693 | [237693-dying-light-2-stay-human-brecken-bundle.json](./237693-dying-light-2-stay-human-brecken-bundle.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Cloud Version | 172429 | [172429-dying-light-2-stay-human-cloud-version.json](./172429-dying-light-2-stay-human-cloud-version.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light 2: Stay Human - Deluxe Edition | 151922 | [151922-dying-light-2-stay-human-deluxe-edition.json](./151922-dying-light-2-stay-human-deluxe-edition.json) |
 | Dying Light 2: Stay Human - Hakon Bundle | 256113 | [256113-dying-light-2-stay-human-hakon-bundle.json](./256113-dying-light-2-stay-human-hakon-bundle.json) |
+| Dying Light 2: Stay Human - Rais Bundle | 237692 | [237692-dying-light-2-stay-human-rais-bundle.json](./237692-dying-light-2-stay-human-rais-bundle.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
