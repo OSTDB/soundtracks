@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untrusted: Hackers at Large | 264532 | [264532-untrusted-hackers-at-large.json](./264532-untrusted-hackers-at-large.json) |
 | Untrusted: Web of Cybercrime | 179807 | [179807-untrusted-web-of-cybercrime.json](./179807-untrusted-web-of-cybercrime.json) |
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
+| Unturned Zombie PixelCraft | 174914 | [174914-unturned-zombie-pixelcraft.json](./174914-unturned-zombie-pixelcraft.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
 | Unusual Farm Operations | 335395 | [335395-unusual-farm-operations.json](./335395-unusual-farm-operations.json) |
@@ -3826,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USAID Approvals Department | 351543 | [351543-usaid-approvals-department.json](./351543-usaid-approvals-department.json) |
 | Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
+| USC: Counterforce | 174930 | [174930-usc-counterforce.json](./174930-usc-counterforce.json) |
 | USCF Chess | 391892 | [391892-uscf-chess.json](./391892-uscf-chess.json) |
 | USCF Chess | 41448 | [41448-uscf-chess.json](./41448-uscf-chess.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
