@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papo World Cleaning Day | 299233 | [299233-papo-world-cleaning-day.json](./299233-papo-world-cleaning-day.json) |
 | Papo World Dinosaur Island | 299272 | [299272-papo-world-dinosaur-island.json](./299272-papo-world-dinosaur-island.json) |
 | Papo World Playground | 299239 | [299239-papo-world-playground.json](./299239-papo-world-playground.json) |
+| Papper and Carrot VN | 184006 | [184006-papper-and-carrot-vn.json](./184006-papper-and-carrot-vn.json) |
 | Papper Balls | 110539 | [110539-papper-balls.json](./110539-papper-balls.json) |
 | Paprika Trainer | 280263 | [280263-paprika-trainer.json](./280263-paprika-trainer.json) |
 | Paprika x Persona False God Reincarnation | 386466 | [386466-paprika-x-persona-false-god-reincarnation.json](./386466-paprika-x-persona-false-god-reincarnation.json) |
@@ -15405,6 +15406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
 | Press Ctrl | 149770 | [149770-press-ctrl.json](./149770-press-ctrl.json) |
+| Press D to Die | 184534 | [184534-press-d-to-die.json](./184534-press-d-to-die.json) |
 | Press F to pay respects | 115384 | [115384-press-f-to-pay-respects.json](./115384-press-f-to-pay-respects.json) |
 | Press Forward Ooooonnnnn | 129965 | [129965-press-forward-ooooonnnnn.json](./129965-press-forward-ooooonnnnn.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
@@ -16045,6 +16047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Print I Love U | 415837 | [415837-print-i-love-u.json](./415837-print-i-love-u.json) |
+| Printed Mars | 185044 | [185044-printed-mars.json](./185044-printed-mars.json) |
 | Printersim | 170652 | [170652-printersim.json](./170652-printersim.json) |
 | Printfarm Simulator | 371522 | [371522-printfarm-simulator.json](./371522-printfarm-simulator.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
