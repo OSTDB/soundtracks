@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
+| Chests, City, Clicker | 239377 | [239377-chests-city-clicker.json](./239377-chests-city-clicker.json) |
 | Chetz! | 164088 | [164088-chetz.json](./164088-chetz.json) |
 | Chevalier Historie | 156907 | [156907-chevalier-historie.json](./156907-chevalier-historie.json) |
 | Chevalier Historie: Append | 219997 | [219997-chevalier-historie-append.json](./219997-chevalier-historie-append.json) |
