@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Deliver? Survival Kit | 402233 | [402233-can-deliver-survival-kit.json](./402233-can-deliver-survival-kit.json) |
 | Can Demons Be Good? | 409184 | [409184-can-demons-be-good.json](./409184-can-demons-be-good.json) |
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
+| Can Gym Break This? | 208519 | [208519-can-gym-break-this.json](./208519-can-gym-break-this.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Crash At Your Place? Oshikakene-chin | 342349 | [342349-can-i-crash-at-your-place-oshikakene-chin.json](./342349-can-i-crash-at-your-place-oshikakene-chin.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival King | 51127 | [51127-carnival-king.json](./51127-carnival-king.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnival Massacre | 319832 | [319832-carnival-massacre.json](./319832-carnival-massacre.json) |
+| Carnival of Gods: Oppression | 208536 | [208536-carnival-of-gods-oppression.json](./208536-carnival-of-gods-oppression.json) |
 | Carnival of Shadows | 287327 | [287327-carnival-of-shadows.json](./287327-carnival-of-shadows.json) |
 | Carnival of Souls | 309526 | [309526-carnival-of-souls.json](./309526-carnival-of-souls.json) |
 | Carnival of the Animals | 76910 | [76910-carnival-of-the-animals.json](./76910-carnival-of-the-animals.json) |
@@ -5866,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cells at Work | 213685 | [213685-cells-at-work.json](./213685-cells-at-work.json) |
 | Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
+| Cells of Immunity | 208528 | [208528-cells-of-immunity.json](./208528-cells-of-immunity.json) |
 | CellSar | 197971 | [197971-cellsar.json](./197971-cellsar.json) |
 | Cellscape | 366205 | [366205-cellscape.json](./366205-cellscape.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
@@ -12308,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
 | Code Age Brawls: Futatsu no Kodou | 287516 | [287516-code-age-brawls-futatsu-no-kodou.json](./287516-code-age-brawls-futatsu-no-kodou.json) |
 | Code Age Commanders: Tsugu Mono Tsugareru Mono | 91669 | [91669-code-age-commanders-tsugu-mono-tsugareru-mono.json](./91669-code-age-commanders-tsugu-mono-tsugareru-mono.json) |
+| Code Alkonost: Awakening of Evil | 208539 | [208539-code-alkonost-awakening-of-evil.json](./208539-code-alkonost-awakening-of-evil.json) |
 | Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Angel Reloaded VR | 374875 | [374875-code-angel-reloaded-vr.json](./374875-code-angel-reloaded-vr.json) |
@@ -12716,6 +12720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin idle | 379844 | [379844-coin-idle.json](./379844-coin-idle.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
+| Coin Operated Carnage | 208518 | [208518-coin-operated-carnage.json](./208518-coin-operated-carnage.json) |
 | Coin Pickers | 127804 | [127804-coin-pickers.json](./127804-coin-pickers.json) |
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Princess VIP | 104401 | [104401-coin-princess-vip.json](./104401-coin-princess-vip.json) |
@@ -13975,6 +13980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CombiPark Tonde Mat | 289738 | [289738-combipark-tonde-mat.json](./289738-combipark-tonde-mat.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Bombo | 245982 | [245982-combo-bombo.json](./245982-combo-bombo.json) |
+| Combo Card Clashers | 208491 | [208491-combo-card-clashers.json](./208491-combo-card-clashers.json) |
 | Combo Critters | 381060 | [381060-combo-critters.json](./381060-combo-critters.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
 | Combo Devils | 279373 | [279373-combo-devils.json](./279373-combo-devils.json) |
