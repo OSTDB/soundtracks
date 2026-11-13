@@ -17891,6 +17891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shopkeeper | 9481 | [9481-the-shopkeeper.json](./9481-the-shopkeeper.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
+| The Shore VR | 185734 | [185734-the-shore-vr.json](./185734-the-shore-vr.json) |
 | The Shore: Enhanced Edition | 391918 | [391918-the-shore-enhanced-edition.json](./391918-the-shore-enhanced-edition.json) |
 | The Shores of Stellaluna | 357001 | [357001-the-shores-of-stellaluna.json](./357001-the-shores-of-stellaluna.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
@@ -20614,6 +20615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Well of Essenwood | 290903 | [290903-the-well-of-essenwood.json](./290903-the-well-of-essenwood.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
+| The Well Speaks to Me | 185731 | [185731-the-well-speaks-to-me.json](./185731-the-well-speaks-to-me.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
 | The Well's Blessing | 343031 | [343031-the-wells-blessing.json](./343031-the-wells-blessing.json) |
 | The Wellmonts Case | 346400 | [346400-the-wellmonts-case.json](./346400-the-wellmonts-case.json) |
@@ -33452,6 +33454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Destiny | 123704 | [123704-trial-of-destiny.json](./123704-trial-of-destiny.json) |
 | Trial of Dragon | 232245 | [232245-trial-of-dragon.json](./232245-trial-of-dragon.json) |
+| Trial of Empires TD | 186856 | [186856-trial-of-empires-td.json](./186856-trial-of-empires-td.json) |
 | Trial of Fours | 242329 | [242329-trial-of-fours.json](./242329-trial-of-fours.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Greed VR | 410861 | [410861-trial-of-greed-vr.json](./410861-trial-of-greed-vr.json) |
