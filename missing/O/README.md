@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olli & Lissa: The Ghost of Shilmore Castle | 36655 | [36655-olli-and-lissa-the-ghost-of-shilmore-castle.json](./36655-olli-and-lissa-the-ghost-of-shilmore-castle.json) |
 | Ollie & Bollie: Outdoor Estate | 129660 | [129660-ollie-and-bollie-outdoor-estate.json](./129660-ollie-and-bollie-outdoor-estate.json) |
 | Ollie and the Merchant of Dreams | 391564 | [391564-ollie-and-the-merchant-of-dreams.json](./391564-ollie-and-the-merchant-of-dreams.json) |
+| Ollie Bonk | 179641 | [179641-ollie-bonk.json](./179641-ollie-bonk.json) |
 | Ollie King | 24494 | [24494-ollie-king.json](./24494-ollie-king.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | Ollie-Oop | 121995 | [121995-ollie-oop.json](./121995-ollie-oop.json) |
@@ -6046,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdawn | 372045 | [372045-overdawn.json](./372045-overdawn.json) |
 | Overdelivery | 224698 | [224698-overdelivery.json](./224698-overdelivery.json) |
 | Overdelivery: Delivery Simulator | 292923 | [292923-overdelivery-delivery-simulator.json](./292923-overdelivery-delivery-simulator.json) |
+| Overdisk | 177989 | [177989-overdisk.json](./177989-overdisk.json) |
 | Overdose | 337695 | [337695-overdose.json](./337695-overdose.json) |
 | Overdose Delusion | 277493 | [277493-overdose-delusion.json](./277493-overdose-delusion.json) |
 | Overdose WW2 | 197522 | [197522-overdose-ww2.json](./197522-overdose-ww2.json) |
