@@ -445,7 +445,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | Tadpole Tap | 187089 | [187089-tadpole-tap.json](./187089-tadpole-tap.json) |
-| Tadpole Treble | 22444 | [22444-tadpole-treble.json](./22444-tadpole-treble.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
 | Tae Kwon Dog | 321094 | [321094-tae-kwon-dog.json](./321094-tae-kwon-dog.json) |
