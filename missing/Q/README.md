@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
+| Quarto | 237602 | [237602-quarto.json](./237602-quarto.json) |
 | Quarto! | 374583 | [374583-quarto.json](./374583-quarto.json) |
 | Quartz | 15352 | [15352-quartz.json](./15352-quartz.json) |
 | Quartz Caverns | 329507 | [329507-quartz-caverns.json](./329507-quartz-caverns.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
 | Quick Draw | 313033 | [313033-quick-draw.json](./313033-quick-draw.json) |
 | Quick Draw McGraw | 66738 | [66738-quick-draw-mcgraw.json](./66738-quick-draw-mcgraw.json) |
+| Quick Drift | 237607 | [237607-quick-drift.json](./237607-quick-drift.json) |
 | Quick Fill Q | 84836 | [84836-quick-fill-q.json](./84836-quick-fill-q.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Golf | 288371 | [288371-quick-golf.json](./288371-quick-golf.json) |
