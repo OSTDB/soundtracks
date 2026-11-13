@@ -9847,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Warriors | 286448 | [286448-lovely-warriors.json](./286448-lovely-warriors.json) |
 | Lovely x Cation | 135501 | [135501-lovely-x-cation.json](./135501-lovely-x-cation.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
+| Lovely x Cation 2 | 218602 | [218602-lovely-x-cation-2.json](./218602-lovely-x-cation-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | Lovengrad | 150809 | [150809-lovengrad.json](./150809-lovengrad.json) |
 | Lovepical-Poppy! | 382067 | [382067-lovepical-poppy.json](./382067-lovepical-poppy.json) |
