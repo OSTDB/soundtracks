@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xibalba | 287599 | [287599-xibalba.json](./287599-xibalba.json) |
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
+| Xicatrice | 239279 | [239279-xicatrice.json](./239279-xicatrice.json) |
 | Xicon Exedra: Minor Advancement | 381786 | [381786-xicon-exedra-minor-advancement.json](./381786-xicon-exedra-minor-advancement.json) |
 | Xidia Gold | 261022 | [261022-xidia-gold.json](./261022-xidia-gold.json) |
 | Xié'è Zhīzǐ | 64047 | [64047-xiee-zhizi.json](./64047-xiee-zhizi.json) |
