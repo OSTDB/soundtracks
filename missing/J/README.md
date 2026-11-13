@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the King | 390990 | [390990-journey-to-the-king.json](./390990-journey-to-the-king.json) |
 | Journey to the Place of Tomorrow | 389270 | [389270-journey-to-the-place-of-tomorrow.json](./389270-journey-to-the-place-of-tomorrow.json) |
 | Journey to the Planets | 25333 | [25333-journey-to-the-planets.json](./25333-journey-to-the-planets.json) |
+| Journey to the Pumpkin Planet | 207420 | [207420-journey-to-the-pumpkin-planet.json](./207420-journey-to-the-pumpkin-planet.json) |
 | Journey to the Rift | 310830 | [310830-journey-to-the-rift.json](./310830-journey-to-the-rift.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
