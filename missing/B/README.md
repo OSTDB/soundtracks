@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Yaga's Great Adventure | 298006 | [298006-baba-yagas-great-adventure.json](./298006-baba-yagas-great-adventure.json) |
 | Baba Yaga's Helpmate | 297993 | [297993-baba-yagas-helpmate.json](./297993-baba-yagas-helpmate.json) |
 | Baba-Yaga za tridevyat' zemel'. Nachinaem uchit' nemetskiy | 365290 | [365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json](./365290-baba-yaga-za-tridevyat-zemel-nachinaem-uchit-nemetskiy.json) |
+| Baba-Yaga. Pojdi tuda, ne znayu kuda | 188147 | [188147-baba-yaga-pojdi-tuda-ne-znayu-kuda.json](./188147-baba-yaga-pojdi-tuda-ne-znayu-kuda.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk | 98838 | [98838-bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk.json](./98838-bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk.json) |
 | Babala | 338755 | [338755-babala.json](./338755-babala.json) |
@@ -19319,6 +19320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
+| Bunny Raiders | 188535 | [188535-bunny-raiders.json](./188535-bunny-raiders.json) |
 | Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
 | Bunny Revenge | 260543 | [260543-bunny-revenge.json](./260543-bunny-revenge.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
