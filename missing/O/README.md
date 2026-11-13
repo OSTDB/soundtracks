@@ -6382,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxidus Tales | 350602 | [350602-oxidus-tales.json](./350602-oxidus-tales.json) |
 | OXO | 11323 | [11323-oxo.json](./11323-oxo.json) |
 | OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
+| Oxu | 217433 | [217433-oxu.json](./217433-oxu.json) |
 | Oxu 2 | 387755 | [387755-oxu-2.json](./387755-oxu-2.json) |
 | Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
@@ -6392,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
 | OxyDungeon | 422501 | [422501-oxydungeon.json](./422501-oxydungeon.json) |
 | Oxygen | 177802 | [177802-oxygen.json](./177802-oxygen.json) |
+| Oxygen | 217442 | [217442-oxygen.json](./217442-oxygen.json) |
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included | 19542 | [19542-oxygen-not-included.json](./19542-oxygen-not-included.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozon I | 40375 | [40375-ozon-i.json](./40375-ozon-i.json) |
 | Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
 | Ozone Guardian | 139206 | [139206-ozone-guardian.json](./139206-ozone-guardian.json) |
+| Ozone Wipeout | 217053 | [217053-ozone-wipeout.json](./217053-ozone-wipeout.json) |
 | Ozonia | 224881 | [224881-ozonia.json](./224881-ozonia.json) |
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
 | OzTales Pikeman | 164899 | [164899-oztales-pikeman.json](./164899-oztales-pikeman.json) |
