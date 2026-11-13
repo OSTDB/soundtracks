@@ -1725,7 +1725,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
 | Warhammer Underworlds: Online | 117743 | [117743-warhammer-underworlds-online.json](./117743-warhammer-underworlds-online.json) |
+| Warhammer Underworlds: Online - Warband: Drepur's Wraithcreepers | 168972 | [168972-warhammer-underworlds-online-warband-drepurs-wraithcreepers.json](./168972-warhammer-underworlds-online-warband-drepurs-wraithcreepers.json) |
+| Warhammer Underworlds: Online - Warband: Eyes of the Nine | 168963 | [168963-warhammer-underworlds-online-warband-eyes-of-the-nine.json](./168963-warhammer-underworlds-online-warband-eyes-of-the-nine.json) |
+| Warhammer Underworlds: Online - Warband: Garrek's Reavers | 168971 | [168971-warhammer-underworlds-online-warband-garreks-reavers.json](./168971-warhammer-underworlds-online-warband-garreks-reavers.json) |
+| Warhammer Underworlds: Online - Warband: Ironskull's Boyz | 168967 | [168967-warhammer-underworlds-online-warband-ironskulls-boyz.json](./168967-warhammer-underworlds-online-warband-ironskulls-boyz.json) |
 | Warhammer Underworlds: Online - Warband: Mollog's Mob | 196057 | [196057-warhammer-underworlds-online-warband-mollogs-mob.json](./196057-warhammer-underworlds-online-warband-mollogs-mob.json) |
+| Warhammer Underworlds: Online - Warband: Sepulchral Guard | 168964 | [168964-warhammer-underworlds-online-warband-sepulchral-guard.json](./168964-warhammer-underworlds-online-warband-sepulchral-guard.json) |
+| Warhammer Underworlds: Online - Warband: Spiteclaw's Swarm | 168965 | [168965-warhammer-underworlds-online-warband-spiteclaws-swarm.json](./168965-warhammer-underworlds-online-warband-spiteclaws-swarm.json) |
+| Warhammer Underworlds: Online - Warband: The Chosen Axes | 168968 | [168968-warhammer-underworlds-online-warband-the-chosen-axes.json](./168968-warhammer-underworlds-online-warband-the-chosen-axes.json) |
+| Warhammer Underworlds: Online - Warband: The Farstriders | 168966 | [168966-warhammer-underworlds-online-warband-the-farstriders.json](./168966-warhammer-underworlds-online-warband-the-farstriders.json) |
+| Warhammer Underworlds: Online - Warband: The Storm of Celestus | 168970 | [168970-warhammer-underworlds-online-warband-the-storm-of-celestus.json](./168970-warhammer-underworlds-online-warband-the-storm-of-celestus.json) |
+| Warhammer Underworlds: Online - Warband: Thorns of the Briar Queen | 168969 | [168969-warhammer-underworlds-online-warband-thorns-of-the-briar-queen.json](./168969-warhammer-underworlds-online-warband-thorns-of-the-briar-queen.json) |
 | Warhammer Underworlds: Shadespire Edition | 251096 | [251096-warhammer-underworlds-shadespire-edition.json](./251096-warhammer-underworlds-shadespire-edition.json) |
 | Warhammer: Arcane Magic | 33565 | [33565-warhammer-arcane-magic.json](./33565-warhammer-arcane-magic.json) |
 | Warhammer: Arcane Magic Deluxe | 53907 | [53907-warhammer-arcane-magic-deluxe.json](./53907-warhammer-arcane-magic-deluxe.json) |
@@ -5919,8 +5929,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 2: Marine World | 17549 | [17549-wildlife-park-2-marine-world.json](./17549-wildlife-park-2-marine-world.json) |
 | Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
+| Wildlife Park 3: Africa | 168950 | [168950-wildlife-park-3-africa.json](./168950-wildlife-park-3-africa.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
+| Wildlife Park 3: Amazonas | 168952 | [168952-wildlife-park-3-amazonas.json](./168952-wildlife-park-3-amazonas.json) |
+| Wildlife Park 3: Asia | 168953 | [168953-wildlife-park-3-asia.json](./168953-wildlife-park-3-asia.json) |
+| Wildlife Park 3: Creatures of the Caribbean | 168954 | [168954-wildlife-park-3-creatures-of-the-caribbean.json](./168954-wildlife-park-3-creatures-of-the-caribbean.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
+| Wildlife Park 3: Down Under | 168951 | [168951-wildlife-park-3-down-under.json](./168951-wildlife-park-3-down-under.json) |
 | Wildlife Park Gold Reloaded | 44189 | [44189-wildlife-park-gold-reloaded.json](./44189-wildlife-park-gold-reloaded.json) |
 | Wildlife Park Tycoon | 25462 | [25462-wildlife-park-tycoon.json](./25462-wildlife-park-tycoon.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
