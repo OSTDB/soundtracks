@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 3 Hyper | 28368 | [28368-warriors-orochi-3-hyper.json](./28368-warriors-orochi-3-hyper.json) |
 | Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
+| Warriors Orochi 3: Ultimate - Definitive Edition | 209081 | [209081-warriors-orochi-3-ultimate-definitive-edition.json](./209081-warriors-orochi-3-ultimate-definitive-edition.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
 | Warriors Orochi 4 Ultimate | 122081 | [122081-warriors-orochi-4-ultimate.json](./122081-warriors-orochi-4-ultimate.json) |
 | Warriors Orochi 4 Ultimate: Deluxe Edition | 220895 | [220895-warriors-orochi-4-ultimate-deluxe-edition.json](./220895-warriors-orochi-4-ultimate-deluxe-edition.json) |
