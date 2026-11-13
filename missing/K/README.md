@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamaitachi no Yoru: Rinne Saisei | 76095 | [76095-kamaitachi-no-yoru-rinne-saisei.json](./76095-kamaitachi-no-yoru-rinne-saisei.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
+| Kamaria | 227581 | [227581-kamaria.json](./227581-kamaria.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
 | Kamasutra Connect : Sexy Hentai Girls | 111584 | [111584-kamasutra-connect-sexy-hentai-girls.json](./111584-kamasutra-connect-sexy-hentai-girls.json) |
 | Kamata | 348029 | [348029-kamata.json](./348029-kamata.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4218,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
 | Kiro II: The Wizards Guild | 236581 | [236581-kiro-ii-the-wizards-guild.json](./236581-kiro-ii-the-wizards-guild.json) |
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
+| Kiro the Kosmonaut | 227565 | [227565-kiro-the-kosmonaut.json](./227565-kiro-the-kosmonaut.json) |
 | KiroKiro BoBon | 351347 | [351347-kirokiro-bobon.json](./351347-kirokiro-bobon.json) |
 | Kiru Kiru Kiru | 257913 | [257913-kiru-kiru-kiru.json](./257913-kiru-kiru-kiru.json) |
 | Kirubiru | 93420 | [93420-kirubiru.json](./93420-kirubiru.json) |
