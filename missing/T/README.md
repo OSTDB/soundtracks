@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story: Ultimate Edition | 328782 | [328782-tell-me-your-story-ultimate-edition.json](./328782-tell-me-your-story-ultimate-edition.json) |
 | Tell Some Story: Foz | 159472 | [159472-tell-some-story-foz.json](./159472-tell-some-story-foz.json) |
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
+| Tell Word | 175869 | [175869-tell-word.json](./175869-tell-word.json) |
 | Tell: Das Spiel zum Film | 304972 | [304972-tell-das-spiel-zum-film.json](./304972-tell-das-spiel-zum-film.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telling Lies | 51528 | [51528-telling-lies.json](./51528-telling-lies.json) |
@@ -11453,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Han Dynasty Imperial Mausoleums | 91072 | [91072-the-han-dynasty-imperial-mausoleums.json](./91072-the-han-dynasty-imperial-mausoleums.json) |
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
+| The Hand Job! | 176407 | [176407-the-hand-job.json](./176407-the-hand-job.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
 | The Hand of Glory: The Blowtorch Files | 197455 | [197455-the-hand-of-glory-the-blowtorch-files.json](./197455-the-hand-of-glory-the-blowtorch-files.json) |
 | The Hand of Merlin | 103591 | [103591-the-hand-of-merlin.json](./103591-the-hand-of-merlin.json) |
@@ -14443,6 +14445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: War in the North | 1052 | [1052-the-lord-of-the-rings-war-in-the-north.json](./1052-the-lord-of-the-rings-war-in-the-north.json) |
 | The Lord of the Rings: War in the North - Legacy Edition | 413144 | [413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json](./413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json) |
 | The Lord of the Rings: War of the Ring | 9256 | [9256-the-lord-of-the-rings-war-of-the-ring.json](./9256-the-lord-of-the-rings-war-of-the-ring.json) |
+| The Lord of the Roads | 175863 | [175863-the-lord-of-the-roads.json](./175863-the-lord-of-the-roads.json) |
 | The Lord of the Tower | 205601 | [205601-the-lord-of-the-tower.json](./205601-the-lord-of-the-tower.json) |
 | The Lord of Time | 289677 | [289677-the-lord-of-time.json](./289677-the-lord-of-time.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
@@ -25026,6 +25029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Gap Puppies | 156518 | [156518-time-gap-puppies.json](./156518-time-gap-puppies.json) |
 | Time Gate: Knight's Chase | 2225 | [2225-time-gate-knights-chase.json](./2225-time-gate-knights-chase.json) |
 | Time Geeks | 92381 | [92381-time-geeks.json](./92381-time-geeks.json) |
+| Time Geeks: Find All! HD | 175451 | [175451-time-geeks-find-all-hd.json](./175451-time-geeks-find-all-hd.json) |
 | Time Gentlemen, Please! | 6253 | [6253-time-gentlemen-please.json](./6253-time-gentlemen-please.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time Glitch | 278506 | [278506-time-glitch.json](./278506-time-glitch.json) |
@@ -30512,6 +30516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
 | Train Delux 2026 Kurakyu | 375136 | [375136-train-delux-2026-kurakyu.json](./375136-train-delux-2026-kurakyu.json) |
 | Train Depart | 285858 | [285858-train-depart.json](./285858-train-depart.json) |
+| Train Drive ATS | 175860 | [175860-train-drive-ats.json](./175860-train-drive-ats.json) |
 | Train Drive Ats 2 | 175113 | [175113-train-drive-ats-2.json](./175113-train-drive-ats-2.json) |
 | Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
 | Train Driver 2 | 176687 | [176687-train-driver-2.json](./176687-train-driver-2.json) |
@@ -32747,6 +32752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Welcome to Beryl Part 1 | 343741 | [343741-trap-welcome-to-beryl-part-1.json](./343741-trap-welcome-to-beryl-part-1.json) |
 | Trap Yuri Garden | 289923 | [289923-trap-yuri-garden.json](./289923-trap-yuri-garden.json) |
 | Trap Yuri Tempest | 412443 | [412443-trap-yuri-tempest.json](./412443-trap-yuri-tempest.json) |
+| Trap: Welcome to Beryl | 176007 | [176007-trap-welcome-to-beryl.json](./176007-trap-welcome-to-beryl.json) |
 | TrapAdventure 2 | 88857 | [88857-trapadventure-2.json](./88857-trapadventure-2.json) |
 | Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
 | TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
@@ -35621,6 +35627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Speedway | 71381 | [71381-turbo-speedway.json](./71381-turbo-speedway.json) |
 | Turbo Sprint | 229785 | [229785-turbo-sprint.json](./229785-turbo-sprint.json) |
 | Turbo Sprint Racing | 248850 | [248850-turbo-sprint-racing.json](./248850-turbo-sprint-racing.json) |
+| Turbo Squad | 176413 | [176413-turbo-squad.json](./176413-turbo-squad.json) |
 | Turbo ST | 405249 | [405249-turbo-st.json](./405249-turbo-st.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Sub | 40866 | [40866-turbo-sub.json](./40866-turbo-sub.json) |
