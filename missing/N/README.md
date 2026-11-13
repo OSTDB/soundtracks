@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonBall | 52345 | [52345-neonball.json](./52345-neonball.json) |
 | NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neoncube | 34983 | [34983-neoncube.json](./34983-neoncube.json) |
+| NeonCyber.exe | 217426 | [217426-neoncyber-exe.json](./217426-neoncyber-exe.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
 | Neoneon Tribe | 399299 | [399299-neoneon-tribe.json](./399299-neoneon-tribe.json) |
 | Neonexus Wars | 297158 | [297158-neonexus-wars.json](./297158-neonexus-wars.json) |
