@@ -5820,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wild World: Tribe | 99709 | [99709-wild-world-tribe.json](./99709-wild-world-tribe.json) |
 | Wild-9 | 144067 | [144067-wild-9.json](./144067-wild-9.json) |
+| Wild-Gun | 180746 | [180746-wild-gun.json](./180746-wild-gun.json) |
 | Wild's Edge | 278956 | [278956-wilds-edge.json](./278956-wilds-edge.json) |
 | WildAge | 341460 | [341460-wildage.json](./341460-wildage.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
