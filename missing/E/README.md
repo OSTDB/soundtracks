@@ -4742,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entrepreneur | 62296 | [62296-entrepreneur.json](./62296-entrepreneur.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
 | Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
+| Entropic Float | 203979 | [203979-entropic-float.json](./203979-entropic-float.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
 | Entropoly | 236738 | [236738-entropoly.json](./236738-entropoly.json) |
@@ -5540,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape 2088 | 147658 | [147658-escape-2088.json](./147658-escape-2088.json) |
 | Escape 4: The Bathroom | 317401 | [317401-escape-4-the-bathroom.json](./317401-escape-4-the-bathroom.json) |
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
+| Escape Abstraction | 203980 | [203980-escape-abstraction.json](./203980-escape-abstraction.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
@@ -6104,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Emerald Star | 205994 | [205994-escape-the-emerald-star.json](./205994-escape-the-emerald-star.json) |
 | Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
+| Escape the Ether | 203981 | [203981-escape-the-ether.json](./203981-escape-the-ether.json) |
 | Escape The Evil | 297093 | [297093-escape-the-evil.json](./297093-escape-the-evil.json) |
 | Escape the Exomoon | 415419 | [415419-escape-the-exomoon.json](./415419-escape-the-exomoon.json) |
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
@@ -6525,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged | 131418 | [131418-estranged.json](./131418-estranged.json) |
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
+| Estranged: Arctic Cold | 203982 | [203982-estranged-arctic-cold.json](./203982-estranged-arctic-cold.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
 | Estress | 153583 | [153583-estress.json](./153583-estress.json) |
@@ -6555,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
 | Eterna | 137198 | [137198-eterna.json](./137198-eterna.json) |
 | Eterna: Heroes Fall | 139639 | [139639-eterna-heroes-fall.json](./139639-eterna-heroes-fall.json) |
+| Eternal | 203983 | [203983-eternal.json](./203983-eternal.json) |
 | Eternal | 218203 | [218203-eternal.json](./218203-eternal.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
@@ -6657,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Journey: New Atlantis | 52983 | [52983-eternal-journey-new-atlantis.json](./52983-eternal-journey-new-atlantis.json) |
 | Eternal Journey: New Atlantis Collector's Edition | 52982 | [52982-eternal-journey-new-atlantis-collectors-edition.json](./52982-eternal-journey-new-atlantis-collectors-edition.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
+| Eternal Kingdom Battle Peak | 203984 | [203984-eternal-kingdom-battle-peak.json](./203984-eternal-kingdom-battle-peak.json) |
 | Eternal Knight | 338281 | [338281-eternal-knight.json](./338281-eternal-knight.json) |
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
 | Eternal Lands | 69208 | [69208-eternal-lands.json](./69208-eternal-lands.json) |
@@ -7010,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Nordic Horizons | 284138 | [284138-euro-truck-simulator-2-nordic-horizons.json](./284138-euro-truck-simulator-2-nordic-horizons.json) |
 | Euro Truck Simulator 2: Platinum Edition | 52977 | [52977-euro-truck-simulator-2-platinum-edition.json](./52977-euro-truck-simulator-2-platinum-edition.json) |
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
+| Euro Truck Simulator 2: Renault Trucks T Tuning Pack | 203985 | [203985-euro-truck-simulator-2-renault-trucks-t-tuning-pack.json](./203985-euro-truck-simulator-2-renault-trucks-t-tuning-pack.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro Truck Simulator 2: Special Transport | 125025 | [125025-euro-truck-simulator-2-special-transport.json](./125025-euro-truck-simulator-2-special-transport.json) |
