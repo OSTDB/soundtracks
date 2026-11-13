@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safetopia | 74836 | [74836-safetopia.json](./74836-safetopia.json) |
 | Safety | 212775 | [212775-safety.json](./212775-safety.json) |
+| Safety Blanket | 180155 | [180155-safety-blanket.json](./180155-safety-blanket.json) |
 | Safety Corp. VR | 329094 | [329094-safety-corp-vr.json](./329094-safety-corp-vr.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
 | Safety Driving Simulator: Car | 33311 | [33311-safety-driving-simulator-car.json](./33311-safety-driving-simulator-car.json) |
@@ -1201,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage | 377349 | [377349-salvage.json](./377349-salvage.json) |
 | Salvage Crew | 206634 | [206634-salvage-crew.json](./206634-salvage-crew.json) |
+| Salvage Duty | 179769 | [179769-salvage-duty.json](./179769-salvage-duty.json) |
 | Salvage Op | 30336 | [30336-salvage-op.json](./30336-salvage-op.json) |
 | Salvage Protocol | 342544 | [342544-salvage-protocol.json](./342544-salvage-protocol.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
@@ -10645,6 +10647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
 | Shrouded Tales: The Spellbound Land - Collector's Edition | 30401 | [30401-shrouded-tales-the-spellbound-land-collectors-edition.json](./30401-shrouded-tales-the-spellbound-land-collectors-edition.json) |
 | Shroudfall Cove | 309244 | [309244-shroudfall-cove.json](./309244-shroudfall-cove.json) |
+| Shrubnaut | 179774 | [179774-shrubnaut.json](./179774-shrubnaut.json) |
 | Shrug Island: The Meeting | 34055 | [34055-shrug-island-the-meeting.json](./34055-shrug-island-the-meeting.json) |
 | Shrumblo and the Magical Grumblo | 190349 | [190349-shrumblo-and-the-magical-grumblo.json](./190349-shrumblo-and-the-magical-grumblo.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
@@ -12744,6 +12747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Magical Jelly | 197027 | [197027-sir-magical-jelly.json](./197027-sir-magical-jelly.json) |
+| Sir Mathew | 180173 | [180173-sir-mathew.json](./180173-sir-mathew.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Quest and the Temple of Apollo | 324279 | [324279-sir-quest-and-the-temple-of-apollo.json](./324279-sir-quest-and-the-temple-of-apollo.json) |
 | Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
@@ -21950,6 +21954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space Rangers: Quest and Space Rangers HD | 53647 | [53647-space-rangers-quest-and-space-rangers-hd.json](./53647-space-rangers-quest-and-space-rangers-hd.json) |
+| Space Rat | 179772 | [179772-space-rat.json](./179772-space-rat.json) |
 | Space Rats | 155767 | [155767-space-rats.json](./155767-space-rats.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
@@ -24073,6 +24078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinner Smash | 391387 | [391387-spinner-smash.json](./391387-spinner-smash.json) |
 | Spinner: Rogueblade | 347602 | [347602-spinner-rogueblade.json](./347602-spinner-rogueblade.json) |
 | Spinners | 309945 | [309945-spinners.json](./309945-spinners.json) |
+| Spinners' Bank | 180174 | [180174-spinners-bank.json](./180174-spinners-bank.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning Battles | 306323 | [306323-spinning-battles.json](./306323-spinning-battles.json) |
@@ -26629,6 +26635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Renegades: Prime Dimension | 193206 | [193206-star-renegades-prime-dimension.json](./193206-star-renegades-prime-dimension.json) |
 | Star Renegades: The Imperium Strikes Back | 169277 | [169277-star-renegades-the-imperium-strikes-back.json](./169277-star-renegades-the-imperium-strikes-back.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
+| Star Revenge 0: Galaxy of Origins | 180177 | [180177-star-revenge-0-galaxy-of-origins.json](./180177-star-revenge-0-galaxy-of-origins.json) |
 | Star Revenge 0.5: The Unused Levels | 260807 | [260807-star-revenge-0-5-the-unused-levels.json](./260807-star-revenge-0-5-the-unused-levels.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
 | Star Revenge 1: Star Takeover PC | 378289 | [378289-star-revenge-1-star-takeover-pc.json](./378289-star-revenge-1-star-takeover-pc.json) |
