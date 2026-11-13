@@ -5239,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
+| Deathgrip | 195660 | [195660-deathgrip.json](./195660-deathgrip.json) |
 | Deathground | 137282 | [137282-deathground.json](./137282-deathground.json) |
 | DeathGuessr | 419182 | [419182-deathguessr.json](./419182-deathguessr.json) |
 | DeathJack | 306902 | [306902-deathjack.json](./306902-deathjack.json) |
@@ -10841,6 +10842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Directionless | 32502 | [32502-directionless.json](./32502-directionless.json) |
 | Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
+| Directly Drink Milk from Cow | 195745 | [195745-directly-drink-milk-from-cow.json](./195745-directly-drink-milk-from-cow.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Director of Football | 71856 | [71856-director-of-football.json](./71856-director-of-football.json) |
 | Director Simulator | 309696 | [309696-director-simulator.json](./309696-director-simulator.json) |
@@ -14459,6 +14461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Sweeper | 259034 | [259034-doom-sweeper.json](./259034-doom-sweeper.json) |
 | Doom the Way id Did | 140172 | [140172-doom-the-way-id-did.json](./140172-doom-the-way-id-did.json) |
 | Doom the Way id Did: The Lost Episodes | 141065 | [141065-doom-the-way-id-did-the-lost-episodes.json](./141065-doom-the-way-id-did-the-lost-episodes.json) |
+| Doom Tomb | 195681 | [195681-doom-tomb.json](./195681-doom-tomb.json) |
 | Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
