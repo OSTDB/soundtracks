@@ -14879,6 +14879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
+| Botany? | 185183 | [185183-botany.json](./185183-botany.json) |
 | Botborgs | 191323 | [191323-botborgs.json](./191323-botborgs.json) |
 | Boter, kaas en eieren | 100034 | [100034-boter-kaas-en-eieren.json](./100034-boter-kaas-en-eieren.json) |
 | Botfestation | 291305 | [291305-botfestation.json](./291305-botfestation.json) |
@@ -17681,6 +17682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brownie's Adventure 2 | 294151 | [294151-brownies-adventure-2.json](./294151-brownies-adventure-2.json) |
 | Brownie's Adventure: The Final Resolution | 374355 | [374355-brownies-adventure-the-final-resolution.json](./374355-brownies-adventure-the-final-resolution.json) |
 | Brownie's Haunted Christmas | 280339 | [280339-brownies-haunted-christmas.json](./280339-brownies-haunted-christmas.json) |
+| Brownies and Brimstone | 185178 | [185178-brownies-and-brimstone.json](./185178-brownies-and-brimstone.json) |
 | Browning | 41980 | [41980-browning.json](./41980-browning.json) |
 | Browning African Safari Deluxe | 206686 | [206686-browning-african-safari-deluxe.json](./206686-browning-african-safari-deluxe.json) |
 | Browning Turkey Hunt Deluxe | 206687 | [206687-browning-turkey-hunt-deluxe.json](./206687-browning-turkey-hunt-deluxe.json) |
