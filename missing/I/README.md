@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested | 262554 | [262554-infested.json](./262554-infested.json) |
 | Infested | 58714 | [58714-infested.json](./58714-infested.json) |
 | Infested DX | 414851 | [414851-infested-dx.json](./414851-infested-dx.json) |
+| Infested Fortress | 213068 | [213068-infested-fortress.json](./213068-infested-fortress.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
 | Infested Inside Multiplayer Online | 119614 | [119614-infested-inside-multiplayer-online.json](./119614-infested-inside-multiplayer-online.json) |
 | Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
