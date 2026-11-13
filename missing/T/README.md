@@ -1752,6 +1752,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
 | Tamagotchi Garden | 229839 | [229839-tamagotchi-garden.json](./229839-tamagotchi-garden.json) |
 | Tamagotchi Gen 2 | 229871 | [229871-tamagotchi-gen-2.json](./229871-tamagotchi-gen-2.json) |
+| Tamagotchi iD | 230017 | [230017-tamagotchi-id.json](./230017-tamagotchi-id.json) |
+| Tamagotchi iD Lovely Melody ver. | 230018 | [230018-tamagotchi-id-lovely-melody-ver.json](./230018-tamagotchi-id-lovely-melody-ver.json) |
 | Tamagotchi Mesutchi | 229872 | [229872-tamagotchi-mesutchi.json](./229872-tamagotchi-mesutchi.json) |
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
@@ -1775,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Pix | 230051 | [230051-tamagotchi-pix.json](./230051-tamagotchi-pix.json) |
 | Tamagotchi Plaza | 337030 | [337030-tamagotchi-plaza.json](./337030-tamagotchi-plaza.json) |
 | Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
+| Tamagotchi Plus Color | 229991 | [229991-tamagotchi-plus-color.json](./229991-tamagotchi-plus-color.json) |
 | Tamagotchi Smart | 230053 | [230053-tamagotchi-smart.json](./230053-tamagotchi-smart.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi Uni | 257054 | [257054-tamagotchi-uni.json](./257054-tamagotchi-uni.json) |
@@ -1801,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
 | Tamashii | 115152 | [115152-tamashii.json](./115152-tamashii.json) |
 | Tamashii no Mon: Dante no Shinkyoku yori | 139107 | [139107-tamashii-no-mon-dante-no-shinkyoku-yori.json](./139107-tamashii-no-mon-dante-no-shinkyoku-yori.json) |
+| Tamashii Yume | 229401 | [229401-tamashii-yume.json](./229401-tamashii-yume.json) |
 | Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
 | Tamatot | 206040 | [206040-tamatot.json](./206040-tamatot.json) |
 | Tamatown | 250535 | [250535-tamatown.json](./250535-tamatown.json) |
@@ -10967,6 +10971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf Club 2 | 28247 | [28247-the-golf-club-2.json](./28247-the-golf-club-2.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
+| The Golf G | 229418 | [229418-the-golf-g.json](./229418-the-golf-g.json) |
 | The Golf Pro | 85914 | [85914-the-golf-pro.json](./85914-the-golf-pro.json) |
 | The Golf Pro 2 | 93083 | [93083-the-golf-pro-2.json](./93083-the-golf-pro-2.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
@@ -33142,6 +33147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
+| Trial | 229402 | [229402-trial.json](./229402-trial.json) |
 | Trial and Terror | 126915 | [126915-trial-and-terror.json](./126915-trial-and-terror.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial by Magic | 2502 | [2502-trial-by-magic.json](./2502-trial-by-magic.json) |
@@ -33785,6 +33791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
 | Trivia Genius | 358215 | [358215-trivia-genius.json](./358215-trivia-genius.json) |
 | Trivia King | 89040 | [89040-trivia-king.json](./89040-trivia-king.json) |
+| Trivia Live | 229420 | [229420-trivia-live.json](./229420-trivia-live.json) |
 | Trivia Machine | 53956 | [53956-trivia-machine.json](./53956-trivia-machine.json) |
 | Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
 | Trivia Munchers Deluxe | 113908 | [113908-trivia-munchers-deluxe.json](./113908-trivia-munchers-deluxe.json) |
