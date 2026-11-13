@@ -7417,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Pumpkinland | 422096 | [422096-alice-in-pumpkinland.json](./422096-alice-in-pumpkinland.json) |
 | Alice in Stardom | 116838 | [116838-alice-in-stardom.json](./116838-alice-in-stardom.json) |
 | Alice in the Manor | 351269 | [351269-alice-in-the-manor.json](./351269-alice-in-the-manor.json) |
+| Alice in the maze | 181288 | [181288-alice-in-the-maze.json](./181288-alice-in-the-maze.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice in Videoland | 13802 | [13802-alice-in-videoland.json](./13802-alice-in-videoland.json) |
 | Alice in Vivaldi's Four Seasons | 314191 | [314191-alice-in-vivaldis-four-seasons.json](./314191-alice-in-vivaldis-four-seasons.json) |
@@ -8158,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hail Temos | 196974 | [196974-all-hail-temos.json](./196974-all-hail-temos.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
+| All Hail the Spider God | 181268 | [181268-all-hail-the-spider-god.json](./181268-all-hail-the-spider-god.json) |
 | All Hallows | 405774 | [405774-all-hallows.json](./405774-all-hallows.json) |
 | All Hallows Evie | 215530 | [215530-all-hallows-evie.json](./215530-all-hallows-evie.json) |
 | All Hams on Deck! | 185835 | [185835-all-hams-on-deck.json](./185835-all-hams-on-deck.json) |
