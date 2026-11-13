@@ -8515,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChocoLot! | 278480 | [278480-chocolot.json](./278480-chocolot.json) |
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
 | Chocotto Land Online | 243781 | [243781-chocotto-land-online.json](./243781-chocotto-land-online.json) |
+| ChocuPixel | 218757 | [218757-chocupixel.json](./218757-chocupixel.json) |
 | Chodd | 424860 | [424860-chodd.json](./424860-chodd.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
 | Choi | 231201 | [231201-choi.json](./231201-choi.json) |
