@@ -8743,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Island | 169607 | [169607-the-darkest-island.json](./169607-the-darkest-island.json) |
 | The Darkest Night | 171841 | [171841-the-darkest-night.json](./171841-the-darkest-night.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
+| The Darkest Road | 201219 | [201219-the-darkest-road.json](./201219-the-darkest-road.json) |
 | The Darkest Star | 197013 | [197013-the-darkest-star.json](./197013-the-darkest-star.json) |
 | The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
@@ -13175,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Lover | 224973 | [224973-the-last-lover.json](./224973-the-last-lover.json) |
 | The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
+| The Last Man | 201220 | [201220-the-last-man.json](./201220-the-last-man.json) |
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Market | 391098 | [391098-the-last-market.json](./391098-the-last-market.json) |
 | The Last Martian | 267812 | [267812-the-last-martian.json](./267812-the-last-martian.json) |
@@ -13601,6 +13603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel - Lionheart Edition | 89911 | [89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json](./89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel - Northern War | 259316 | [259316-the-legend-of-heroes-trails-of-cold-steel-northern-war.json](./259316-the-legend-of-heroes-trails-of-cold-steel-northern-war.json) |
 | The Legend of Heroes: Trails of Cold Steel - Shining Pom Bait Pack 2 | 155420 | [155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json](./155420-the-legend-of-heroes-trails-of-cold-steel-shining-pom-bait-pack-2.json) |
+| The Legend of Heroes: Trails of Cold Steel I - IV & Trails into Reverie Complete Box | 201066 | [201066-the-legend-of-heroes-trails-of-cold-steel-i-iv-and-trails-into-reverie-complete-box.json](./201066-the-legend-of-heroes-trails-of-cold-steel-i-iv-and-trails-into-reverie-complete-box.json) |
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Heroes: Trails of Cold Steel II - Relentless Edition | 167087 | [167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json](./167087-the-legend-of-heroes-trails-of-cold-steel-ii-relentless-edition.json) |
@@ -14030,6 +14033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Library | 274430 | [274430-the-library.json](./274430-the-library.json) |
 | The Library | 339191 | [339191-the-library.json](./339191-the-library.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
+| The Library of Babel | 201214 | [201214-the-library-of-babel.json](./201214-the-library-of-babel.json) |
 | The Library of Babel: Deluxe Edition | 231576 | [231576-the-library-of-babel-deluxe-edition.json](./231576-the-library-of-babel-deluxe-edition.json) |
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
 | The Lie | 127515 | [127515-the-lie.json](./127515-the-lie.json) |
@@ -15865,6 +15869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other | 185366 | [185366-the-other.json](./185366-the-other.json) |
 | The Other 99 | 19535 | [19535-the-other-99.json](./19535-the-other-99.json) |
 | The Other Brothers | 116428 | [116428-the-other-brothers.json](./116428-the-other-brothers.json) |
+| The Other Line | 201193 | [201193-the-other-line.json](./201193-the-other-line.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Me Reborn | 389208 | [389208-the-other-me-reborn.json](./389208-the-other-me-reborn.json) |
 | The Other Order | 384793 | [384793-the-other-order.json](./384793-the-other-order.json) |
@@ -17046,6 +17051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhys510 Flash Back | 89598 | [89598-the-rhys510-flash-back.json](./89598-the-rhys510-flash-back.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
+| The Rhythm of the Knight | 201062 | [201062-the-rhythm-of-the-knight.json](./201062-the-rhythm-of-the-knight.json) |
 | The Ribbon Club ch1: Tea and Cake | 185267 | [185267-the-ribbon-club-ch1-tea-and-cake.json](./185267-the-ribbon-club-ch1-tea-and-cake.json) |
 | The Ribbon Club ch2: Spring Storm | 185281 | [185281-the-ribbon-club-ch2-spring-storm.json](./185281-the-ribbon-club-ch2-spring-storm.json) |
 | The Rice Story | 222767 | [222767-the-rice-story.json](./222767-the-rice-story.json) |
@@ -18436,6 +18442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitude Project | 350884 | [350884-the-solitude-project.json](./350884-the-solitude-project.json) |
 | The Solus Project | 11221 | [11221-the-solus-project.json](./11221-the-solus-project.json) |
 | The Solyani's Code | 403431 | [403431-the-solyanis-code.json](./403431-the-solyanis-code.json) |
+| The Somerton Man | 201058 | [201058-the-somerton-man.json](./201058-the-somerton-man.json) |
 | The Son of Art | 346279 | [346279-the-son-of-art.json](./346279-the-son-of-art.json) |
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
@@ -34465,6 +34472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2014 | 90774 | [90774-truck-simulator-2014.json](./90774-truck-simulator-2014.json) |
 | Truck Simulator 2016 - North America Cargo Routes | 98836 | [98836-truck-simulator-2016-north-america-cargo-routes.json](./98836-truck-simulator-2016-north-america-cargo-routes.json) |
 | Truck Simulator 2018 : Europe | 100808 | [100808-truck-simulator-2018-europe.json](./100808-truck-simulator-2018-europe.json) |
+| Truck Simulator 2021 | 200759 | [200759-truck-simulator-2021.json](./200759-truck-simulator-2021.json) |
 | Truck Simulator 2023: Driver Europe | 263841 | [263841-truck-simulator-2023-driver-europe.json](./263841-truck-simulator-2023-driver-europe.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
