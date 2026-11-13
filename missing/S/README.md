@@ -10128,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 25: Strawberry Thanksgiving | 324504 | [324504-shopping-clutter-25-strawberry-thanksgiving.json](./324504-shopping-clutter-25-strawberry-thanksgiving.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
 | Shopping Clutter 3: Blooming Tale | 215031 | [215031-shopping-clutter-3-blooming-tale.json](./215031-shopping-clutter-3-blooming-tale.json) |
+| Shopping Clutter 4: A Perfect Thanksgiving | 219183 | [219183-shopping-clutter-4-a-perfect-thanksgiving.json](./219183-shopping-clutter-4-a-perfect-thanksgiving.json) |
 | Shopping Clutter 5: Christmas Poetree | 223139 | [223139-shopping-clutter-5-christmas-poetree.json](./223139-shopping-clutter-5-christmas-poetree.json) |
 | Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
 | Shopping Clutter 7: Food Detectives | 249371 | [249371-shopping-clutter-7-food-detectives.json](./249371-shopping-clutter-7-food-detectives.json) |
@@ -15725,6 +15726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Star | 188158 | [188158-smash-star.json](./188158-smash-star.json) |
 | Smash T.V. | 20504 | [20504-smash-t-v.json](./20504-smash-t-v.json) |
 | Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
+| Smash T.V. | 218756 | [218756-smash-t-v.json](./218756-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
@@ -24155,8 +24157,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirited Thief | 169882 | [169882-spirited-thief.json](./169882-spirited-thief.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
 | Spiritfarer | 119304 | [119304-spiritfarer.json](./119304-spiritfarer.json) |
+| Spiritfarer: Beverly Update | 218759 | [218759-spiritfarer-beverly-update.json](./218759-spiritfarer-beverly-update.json) |
 | Spiritfarer: Digital Deluxe Edition | 204982 | [204982-spiritfarer-digital-deluxe-edition.json](./204982-spiritfarer-digital-deluxe-edition.json) |
 | Spiritfarer: Farewell Edition | 187506 | [187506-spiritfarer-farewell-edition.json](./187506-spiritfarer-farewell-edition.json) |
+| Spiritfarer: Jackie & Daria Update | 218760 | [218760-spiritfarer-jackie-and-daria-update.json](./218760-spiritfarer-jackie-and-daria-update.json) |
+| Spiritfarer: Lily Update | 218758 | [218758-spiritfarer-lily-update.json](./218758-spiritfarer-lily-update.json) |
 | Spiritfarer: Netflix Edition | 375281 | [375281-spiritfarer-netflix-edition.json](./375281-spiritfarer-netflix-edition.json) |
 | Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritlands | 28253 | [28253-spiritlands.json](./28253-spiritlands.json) |
@@ -37772,6 +37777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
 | Suspended: A Cryogenic Nightmare | 39092 | [39092-suspended-a-cryogenic-nightmare.json](./39092-suspended-a-cryogenic-nightmare.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
+| Suspension | 218765 | [218765-suspension.json](./218765-suspension.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspension Railroad Simulator 2013 | 108647 | [108647-suspension-railroad-simulator-2013.json](./108647-suspension-railroad-simulator-2013.json) |
 | Suspicious | 216508 | [216508-suspicious.json](./216508-suspicious.json) |
