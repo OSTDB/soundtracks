@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oilcap | 131046 | [131046-oilcap.json](./131046-oilcap.json) |
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
+| Oilo Oilo | 181407 | [181407-oilo-oilo.json](./181407-oilo-oilo.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
 | Oimostfonwy | 326562 | [326562-oimostfonwy.json](./326562-oimostfonwy.json) |
 | Oinari Origami | 181171 | [181171-oinari-origami.json](./181171-oinari-origami.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Opona | 380822 | [380822-opona.json](./380822-opona.json) |
 | Opossession | 312619 | [312619-opossession.json](./312619-opossession.json) |
+| Opossum Country | 181837 | [181837-opossum-country.json](./181837-opossum-country.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Daisuki | 393373 | [393373-oppai-daisuki.json](./393373-oppai-daisuki.json) |
 | Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
