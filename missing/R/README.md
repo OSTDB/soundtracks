@@ -2781,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re Watch | 312861 | [312861-re-watch.json](./312861-re-watch.json) |
+| Re-Activated | 244464 | [244464-re-activated.json](./244464-re-activated.json) |
 | Re-Blood | 198357 | [198357-re-blood.json](./198357-re-blood.json) |
 | Re-Bomber | 280035 | [280035-re-bomber.json](./280035-re-bomber.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
@@ -8813,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritterorden | 390083 | [390083-ritterorden.json](./390083-ritterorden.json) |
 | Ritterschlag | 398452 | [398452-ritterschlag.json](./398452-ritterschlag.json) |
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
+| Ritual | 244979 | [244979-ritual.json](./244979-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
 | Ritual | 343168 | [343168-ritual.json](./343168-ritual.json) |
@@ -13914,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing 4 | 56012 | [56012-russian-fishing-4.json](./56012-russian-fishing-4.json) |
 | Russian Fishing 4: Amber Lake | 161308 | [161308-russian-fishing-4-amber-lake.json](./161308-russian-fishing-4-amber-lake.json) |
 | Russian Fishing 4: Lower Tunguska River | 161307 | [161307-russian-fishing-4-lower-tunguska-river.json](./161307-russian-fishing-4-lower-tunguska-river.json) |
+| Russian Fishing 4: Norwegian Sea | 244955 | [244955-russian-fishing-4-norwegian-sea.json](./244955-russian-fishing-4-norwegian-sea.json) |
 | Russian Fool | 71853 | [71853-russian-fool.json](./71853-russian-fool.json) |
 | Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
