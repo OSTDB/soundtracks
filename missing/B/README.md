@@ -6248,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
 | Beaver Rampage | 341543 | [341543-beaver-rampage.json](./341543-beaver-rampage.json) |
+| Beaver Run | 215264 | [215264-beaver-run.json](./215264-beaver-run.json) |
 | Beaver TD | 369297 | [369297-beaver-td.json](./369297-beaver-td.json) |
 | Beaver's Revenge | 368227 | [368227-beavers-revenge.json](./368227-beavers-revenge.json) |
 | BeaverKarts | 253254 | [253254-beaverkarts.json](./253254-beaverkarts.json) |
@@ -9024,6 +9025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bios Ex: Yami no Wakusei | 114839 | [114839-bios-ex-yami-no-wakusei.json](./114839-bios-ex-yami-no-wakusei.json) |
 | Bios Fear | 290377 | [290377-bios-fear.json](./290377-bios-fear.json) |
 | BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
+| BioShock | 214791 | [214791-bioshock.json](./214791-bioshock.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | BioShock 2 Remastered | 34294 | [34294-bioshock-2-remastered.json](./34294-bioshock-2-remastered.json) |
 | BioShock 2: Kill 'em Kindly | 374311 | [374311-bioshock-2-kill-em-kindly.json](./374311-bioshock-2-kill-em-kindly.json) |
