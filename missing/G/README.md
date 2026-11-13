@@ -9669,6 +9669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Bee | 310325 | [310325-greedy-bee.json](./310325-greedy-bee.json) |
 | Greedy Bubble | 152580 | [152580-greedy-bubble.json](./152580-greedy-bubble.json) |
 | Greedy Chicken | 264171 | [264171-greedy-chicken.json](./264171-greedy-chicken.json) |
+| Greedy Corgi | 187569 | [187569-greedy-corgi.json](./187569-greedy-corgi.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Darts | 348128 | [348128-greedy-darts.json](./348128-greedy-darts.json) |
 | Greedy Drivers 2 | 398082 | [398082-greedy-drivers-2.json](./398082-greedy-drivers-2.json) |
@@ -12462,6 +12463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
 | Gwen the Hen 64 | 237180 | [237180-gwen-the-hen-64.json](./237180-gwen-the-hen-64.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
+| GwenBlade | 187567 | [187567-gwenblade.json](./187567-gwenblade.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
 | GwenBlade Witcheresque | 389530 | [389530-gwenblade-witcheresque.json](./389530-gwenblade-witcheresque.json) |
 | Gwendolyn: Pursuit of a Princess | 25830 | [25830-gwendolyn-pursuit-of-a-princess.json](./25830-gwendolyn-pursuit-of-a-princess.json) |
