@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quik: The Thunder Rabbit | 37233 | [37233-quik-the-thunder-rabbit.json](./37233-quik-the-thunder-rabbit.json) |
 | Quill | 273779 | [273779-quill.json](./273779-quill.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
+| Quill This Love | 181281 | [181281-quill-this-love.json](./181281-quill-this-love.json) |
 | Quiller's Code | 301473 | [301473-quillers-code.json](./301473-quillers-code.json) |
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | quilt | 366801 | [366801-quilt.json](./366801-quilt.json) |
