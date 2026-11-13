@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
 | Immortal Love: The Price of a Miracle | 397118 | [397118-immortal-love-the-price-of-a-miracle.json](./397118-immortal-love-the-price-of-a-miracle.json) |
 | Immortal Love: The Price of a Miracle - Collector's Edition | 397119 | [397119-immortal-love-the-price-of-a-miracle-collectors-edition.json](./397119-immortal-love-the-price-of-a-miracle-collectors-edition.json) |
+| Immortal Love: True Treasure | 196288 | [196288-immortal-love-true-treasure.json](./196288-immortal-love-true-treasure.json) |
 | Immortal Love: True Treasure - Collector's Edition | 192778 | [192778-immortal-love-true-treasure-collectors-edition.json](./192778-immortal-love-true-treasure-collectors-edition.json) |
 | Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
@@ -4551,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D | 43854 | [43854-initial-d.json](./43854-initial-d.json) |
 | Initial D Arcade Stage | 92218 | [92218-initial-d-arcade-stage.json](./92218-initial-d-arcade-stage.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
+| Initial D Arcade Stage 3 | 196740 | [196740-initial-d-arcade-stage-3.json](./196740-initial-d-arcade-stage-3.json) |
 | Initial D Arcade Stage 4 | 62308 | [62308-initial-d-arcade-stage-4.json](./62308-initial-d-arcade-stage-4.json) |
 | Initial D Arcade Stage 5 | 171294 | [171294-initial-d-arcade-stage-5.json](./171294-initial-d-arcade-stage-5.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
