@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebola 4 | 251945 | [251945-ebola-4.json](./251945-ebola-4.json) |
 | Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
 | Ebola Village | 238788 | [238788-ebola-village.json](./238788-ebola-village.json) |
+| Ebon Light | 180873 | [180873-ebon-light.json](./180873-ebon-light.json) |
 | EbonSide | 189251 | [189251-ebonside.json](./189251-ebonside.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
 | EcoGnomix | 259108 | [259108-ecognomix.json](./259108-ecognomix.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
+| Ecollapse 2030: the world is ending and also you are a penguin | 180857 | [180857-ecollapse-2030-the-world-is-ending-and-also-you-are-a-penguin.json](./180857-ecollapse-2030-the-world-is-ending-and-also-you-are-a-penguin.json) |
 | EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
 | Ecoman | 134920 | [134920-ecoman.json](./134920-ecoman.json) |
 | ECommerce '99 | 396604 | [396604-ecommerce-99.json](./396604-ecommerce-99.json) |
@@ -7778,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything You Didn't Get to Do | 282092 | [282092-everything-you-didnt-get-to-do.json](./282092-everything-you-didnt-get-to-do.json) |
 | Everything You Swallow Will One Day Come Up Like a Stone | 188548 | [188548-everything-you-swallow-will-one-day-come-up-like-a-stone.json](./188548-everything-you-swallow-will-one-day-come-up-like-a-stone.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
+| Everything's Fine | 180871 | [180871-everythings-fine.json](./180871-everythings-fine.json) |
 | Everything's Fine | 281302 | [281302-everythings-fine.json](./281302-everythings-fine.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
 | Everywhere | 358607 | [358607-everywhere.json](./358607-everywhere.json) |
