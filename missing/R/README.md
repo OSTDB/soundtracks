@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RectRacer | 43154 | [43154-rectracer.json](./43154-rectracer.json) |
 | Recuerdos de Invierno | 369861 | [369861-recuerdos-de-invierno.json](./369861-recuerdos-de-invierno.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
+| Recurrence | 220237 | [220237-recurrence.json](./220237-recurrence.json) |
 | Recurrence | 374412 | [374412-recurrence.json](./374412-recurrence.json) |
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
 | Recurring Nightmares | 376161 | [376161-recurring-nightmares.json](./376161-recurring-nightmares.json) |
@@ -5986,7 +5987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resensory | 133577 | [133577-resensory.json](./133577-resensory.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reservoir Dogs | 6003 | [6003-reservoir-dogs.json](./6003-reservoir-dogs.json) |
-| Reservoir Dogs: Bloody Days | 27728 | [27728-reservoir-dogs-bloody-days.json](./27728-reservoir-dogs-bloody-days.json) |
 | Reservoir Stroggs | 402809 | [402809-reservoir-stroggs.json](./402809-reservoir-stroggs.json) |
 | Reset | 15831 | [15831-reset.json](./15831-reset.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
