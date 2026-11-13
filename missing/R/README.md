@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's Fall | 265524 | [265524-rabbits-fall.json](./265524-rabbits-fall.json) |
 | Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
+| Rabbit's Tale | 197278 | [197278-rabbits-tale.json](./197278-rabbits-tale.json) |
 | RabbitConquest | 250260 | [250260-rabbitconquest.json](./250260-rabbitconquest.json) |
 | RabbitHole Island: Turn-based Vtuber Battles | 374387 | [374387-rabbithole-island-turn-based-vtuber-battles.json](./374387-rabbithole-island-turn-based-vtuber-battles.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Triad | 163083 | [163083-return-of-the-triad.json](./163083-return-of-the-triad.json) |
 | Return of the Twin Peaks | 419357 | [419357-return-of-the-twin-peaks.json](./419357-return-of-the-twin-peaks.json) |
 | Return of the USSR | 291854 | [291854-return-of-the-ussr.json](./291854-return-of-the-ussr.json) |
+| Return of the Video Dead: Demon in the Shell | 197283 | [197283-return-of-the-video-dead-demon-in-the-shell.json](./197283-return-of-the-video-dead-demon-in-the-shell.json) |
 | Return of the Zombie King | 57336 | [57336-return-of-the-zombie-king.json](./57336-return-of-the-zombie-king.json) |
 | Return of Warrior | 259491 | [259491-return-of-warrior.json](./259491-return-of-warrior.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
@@ -7072,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge On Gold Diggers | 372482 | [372482-revenge-on-gold-diggers.json](./372482-revenge-on-gold-diggers.json) |
 | Revenge on the Streets | 119726 | [119726-revenge-on-the-streets.json](./119726-revenge-on-the-streets.json) |
+| Revenge on the Streets 3 | 197279 | [197279-revenge-on-the-streets-3.json](./197279-revenge-on-the-streets-3.json) |
 | Revenge Quest | 30040 | [30040-revenge-quest.json](./30040-revenge-quest.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Revenge Story | 195540 | [195540-revenge-story.json](./195540-revenge-story.json) |
