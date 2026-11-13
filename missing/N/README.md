@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nammo | 368794 | [368794-nammo.json](./368794-nammo.json) |
 | Namnokh | 158880 | [158880-namnokh.json](./158880-namnokh.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
+| Namsiku: Path of the Fang | 171125 | [171125-namsiku-path-of-the-fang.json](./171125-namsiku-path-of-the-fang.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nan Creatures | 416875 | [416875-nan-creatures.json](./416875-nan-creatures.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navalny: Posledniy miting | 111016 | [111016-navalny-posledniy-miting.json](./111016-navalny-posledniy-miting.json) |
 | Navarone | 69478 | [69478-navarone.json](./69478-navarone.json) |
 | Navcom 6: The Persian Gulf Defense | 65569 | [65569-navcom-6-the-persian-gulf-defense.json](./65569-navcom-6-the-persian-gulf-defense.json) |
+| Nave: SOS Mars | 171653 | [171653-nave-sos-mars.json](./171653-nave-sos-mars.json) |
 | Navicula Meatus | 319727 | [319727-navicula-meatus.json](./319727-navicula-meatus.json) |
 | Navigating the Labyrinth | 274549 | [274549-navigating-the-labyrinth.json](./274549-navigating-the-labyrinth.json) |
 | Navigator | 105612 | [105612-navigator.json](./105612-navigator.json) |
@@ -3541,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Gundam Breaker: Premium Edition | 136654 | [136654-new-gundam-breaker-premium-edition.json](./136654-new-gundam-breaker-premium-edition.json) |
+| New Gundam Breaker: Special Mission - Her Name is Super Fumina | 171134 | [171134-new-gundam-breaker-special-mission-her-name-is-super-fumina.json](./171134-new-gundam-breaker-special-mission-her-name-is-super-fumina.json) |
 | New Heaven | 297965 | [297965-new-heaven.json](./297965-new-heaven.json) |
 | New Heights: Realistic Climbing and Bouldering | 243996 | [243996-new-heights-realistic-climbing-and-bouldering.json](./243996-new-heights-realistic-climbing-and-bouldering.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
@@ -4519,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nifa's First Mission | 248051 | [248051-nifas-first-mission.json](./248051-nifas-first-mission.json) |
 | Nife Wars | 398832 | [398832-nife-wars.json](./398832-nife-wars.json) |
 | Niffelheim | 20403 | [20403-niffelheim.json](./20403-niffelheim.json) |
+| Niffelheim: Bloody Moon | 171641 | [171641-niffelheim-bloody-moon.json](./171641-niffelheim-bloody-moon.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Niflhel Survival | 152594 | [152594-niflhel-survival.json](./152594-niflhel-survival.json) |
@@ -8209,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullnest | 428384 | [428384-nullnest.json](./428384-nullnest.json) |
+| Nullore: Beginning | 171651 | [171651-nullore-beginning.json](./171651-nullore-beginning.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
 | Nullpointer | 68446 | [68446-nullpointer.json](./68446-nullpointer.json) |
 | Nullpomino | 330075 | [330075-nullpomino.json](./330075-nullpomino.json) |
