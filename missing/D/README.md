@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashlab | 302023 | [302023-dashlab.json](./302023-dashlab.json) |
 | Dashosaur DX | 341922 | [341922-dashosaur-dx.json](./341922-dashosaur-dx.json) |
 | DashPoint | 420472 | [420472-dashpoint.json](./420472-dashpoint.json) |
+| Dashpong | 192855 | [192855-dashpong.json](./192855-dashpong.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashwalk Dueling | 189376 | [189376-dashwalk-dueling.json](./189376-dashwalk-dueling.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
@@ -5839,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
+| Deep Night Runner | 192849 | [192849-deep-night-runner.json](./192849-deep-night-runner.json) |
 | Deep Nightmare: Phobias | 416999 | [416999-deep-nightmare-phobias.json](./416999-deep-nightmare-phobias.json) |
 | Deep Noise | 104872 | [104872-deep-noise.json](./104872-deep-noise.json) |
 | Deep Ocean Rush | 125083 | [125083-deep-ocean-rush.json](./125083-deep-ocean-rush.json) |
@@ -15651,6 +15653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Popper | 85722 | [85722-dr-popper.json](./85722-dr-popper.json) |
 | Dr. Priori’s Time Escape | 319047 | [319047-dr-priori-s-time-escape.json](./319047-dr-priori-s-time-escape.json) |
+| Dr. Professor Scientist's Weapons Testing Facility | 192482 | [192482-dr-professor-scientists-weapons-testing-facility.json](./192482-dr-professor-scientists-weapons-testing-facility.json) |
 | Dr. Psycho: Hospital Escape | 401115 | [401115-dr-psycho-hospital-escape.json](./401115-dr-psycho-hospital-escape.json) |
 | Dr. Psycho: Hospital Escape 2 | 270512 | [270512-dr-psycho-hospital-escape-2.json](./270512-dr-psycho-hospital-escape-2.json) |
 | Dr. Rabbit's Toothpaste Tower | 320989 | [320989-dr-rabbits-toothpaste-tower.json](./320989-dr-rabbits-toothpaste-tower.json) |
@@ -17711,6 +17714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer's Wake | 420170 | [420170-dreamers-wake.json](./420170-dreamers-wake.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamera: Figment of Dreams | 389922 | [389922-dreamera-figment-of-dreams.json](./389922-dreamera-figment-of-dreams.json) |
+| Dreamers | 192479 | [192479-dreamers.json](./192479-dreamers.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
 | Dreamers: Digital Deluxe Edition | 295646 | [295646-dreamers-digital-deluxe-edition.json](./295646-dreamers-digital-deluxe-edition.json) |
