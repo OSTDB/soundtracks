@@ -8328,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
 | Graduate Battle | 358511 | [358511-graduate-battle.json](./358511-graduate-battle.json) |
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
+| Graduater | 196768 | [196768-graduater.json](./196768-graduater.json) |
 | Graduation | 71310 | [71310-graduation.json](./71310-graduation.json) |
 | Graduation Game | 350302 | [350302-graduation-game.json](./350302-graduation-game.json) |
 | Graduation Life Simulator | 326302 | [326302-graduation-life-simulator.json](./326302-graduation-life-simulator.json) |
