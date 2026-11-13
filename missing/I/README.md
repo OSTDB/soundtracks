@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impostor Inside Us | 167532 | [167532-impostor-inside-us.json](./167532-impostor-inside-us.json) |
 | Impostor Online | 303576 | [303576-impostor-online.json](./303576-impostor-online.json) |
 | Impostor syndrome | 110385 | [110385-impostor-syndrome.json](./110385-impostor-syndrome.json) |
+| Impower | 189230 | [189230-impower.json](./189230-impower.json) |
 | Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Imprecision | 254907 | [254907-imprecision.json](./254907-imprecision.json) |
