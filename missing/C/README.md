@@ -20753,6 +20753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystar | 103494 | [103494-crystar.json](./103494-crystar.json) |
 | Crystar: Limited Edition | 379946 | [379946-crystar-limited-edition.json](./379946-crystar-limited-edition.json) |
+| Crystarise | 189227 | [189227-crystarise.json](./189227-crystarise.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
@@ -22576,6 +22577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
+| Cyberbugs | 189214 | [189214-cyberbugs.json](./189214-cyberbugs.json) |
 | Cyberbykes: Shadow Racer VR | 71828 | [71828-cyberbykes-shadow-racer-vr.json](./71828-cyberbykes-shadow-racer-vr.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberception | 132482 | [132482-cyberception.json](./132482-cyberception.json) |
