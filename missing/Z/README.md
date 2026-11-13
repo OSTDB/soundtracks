@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zones of Fear | 274119 | [274119-zones-of-fear.json](./274119-zones-of-fear.json) |
 | Zonescape | 267785 | [267785-zonescape.json](./267785-zonescape.json) |
 | Zonex | 157901 | [157901-zonex.json](./157901-zonex.json) |
+| Zong | 242763 | [242763-zong.json](./242763-zong.json) |
 | Zong | 50382 | [50382-zong.json](./50382-zong.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zonk | 396956 | [396956-zonk.json](./396956-zonk.json) |
