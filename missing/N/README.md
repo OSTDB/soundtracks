@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Tail | 150902 | [150902-night-tail.json](./150902-night-tail.json) |
+| Night Terrors | 176555 | [176555-night-terrors.json](./176555-night-terrors.json) |
 | Night Terrors | 252436 | [252436-night-terrors.json](./252436-night-terrors.json) |
 | Night Terrors: Bloody Mary | 111439 | [111439-night-terrors-bloody-mary.json](./111439-night-terrors-bloody-mary.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
@@ -6380,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Room in Hell 2 | 149340 | [149340-no-more-room-in-hell-2.json](./149340-no-more-room-in-hell-2.json) |
 | No More Shopping | 334867 | [334867-no-more-shopping.json](./334867-no-more-shopping.json) |
 | No More Slimes!! | 414600 | [414600-no-more-slimes.json](./414600-no-more-slimes.json) |
+| No More Snow | 176548 | [176548-no-more-snow.json](./176548-no-more-snow.json) |
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
 | No More Work for Ito | 373056 | [373056-no-more-work-for-ito.json](./373056-no-more-work-for-ito.json) |
 | No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
