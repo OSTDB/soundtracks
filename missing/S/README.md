@@ -10818,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Siblings | 282607 | [282607-siblings.json](./282607-siblings.json) |
 | SIC-1 | 216526 | [216526-sic-1.json](./216526-sic-1.json) |
+| Sicari 2: The Brink of Time | 209077 | [209077-sicari-2-the-brink-of-time.json](./209077-sicari-2-the-brink-of-time.json) |
 | Sicari Remastered | 180986 | [180986-sicari-remastered.json](./180986-sicari-remastered.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
 | Sich Tactics | 208553 | [208553-sich-tactics.json](./208553-sich-tactics.json) |
@@ -11041,6 +11042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | Sidereal Wanderer St | 391439 | [391439-sidereal-wanderer-st.json](./391439-sidereal-wanderer-st.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
+| Sidestep Legends | 209108 | [209108-sidestep-legends.json](./209108-sidestep-legends.json) |
 | Sideswipe | 383536 | [383536-sideswipe.json](./383536-sideswipe.json) |
 | Sideswiped | 91666 | [91666-sideswiped.json](./91666-sideswiped.json) |
 | SideTracked! | 173339 | [173339-sidetracked.json](./173339-sidetracked.json) |
