@@ -16045,6 +16045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Paper Arcade | 247909 | [247909-the-paper-arcade.json](./247909-the-paper-arcade.json) |
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
+| The Paper Game | 191291 | [191291-the-paper-game.json](./191291-the-paper-game.json) |
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
 | The Paper Mario Christmas Special | 186399 | [186399-the-paper-mario-christmas-special.json](./186399-the-paper-mario-christmas-special.json) |
 | The Paper Parable | 262398 | [262398-the-paper-parable.json](./262398-the-paper-parable.json) |
@@ -18086,6 +18087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Business Chic Kit | 330394 | [330394-the-sims-4-business-chic-kit.json](./330394-the-sims-4-business-chic-kit.json) |
 | The Sims 4: Businesses & Hobbies | 330597 | [330597-the-sims-4-businesses-and-hobbies.json](./330597-the-sims-4-businesses-and-hobbies.json) |
 | The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
+| The Sims 4: Carnaval Streetwear Kit | 191847 | [191847-the-sims-4-carnaval-streetwear-kit.json](./191847-the-sims-4-carnaval-streetwear-kit.json) |
 | The Sims 4: Casanova Cave Kit | 330393 | [330393-the-sims-4-casanova-cave-kit.json](./330393-the-sims-4-casanova-cave-kit.json) |
 | The Sims 4: Castle Estate Kit | 285667 | [285667-the-sims-4-castle-estate-kit.json](./285667-the-sims-4-castle-estate-kit.json) |
 | The Sims 4: Cats & Dogs | 75675 | [75675-the-sims-4-cats-and-dogs.json](./75675-the-sims-4-cats-and-dogs.json) |
@@ -19793,6 +19795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
 | The Tribe | 23232 | [23232-the-tribe.json](./23232-the-tribe.json) |
+| The Tribe Game | 191292 | [191292-the-tribe-game.json](./191292-the-tribe-game.json) |
 | The Tribez | 38870 | [38870-the-tribez.json](./38870-the-tribez.json) |
 | The Tribez & Castlez | 38869 | [38869-the-tribez-and-castlez.json](./38869-the-tribez-and-castlez.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
@@ -28528,6 +28531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies!: Total Swamp Romp | 206079 | [206079-totally-spies-total-swamp-romp.json](./206079-totally-spies-total-swamp-romp.json) |
 | Totally Spies!: Zombie Jamboree! | 206091 | [206091-totally-spies-zombie-jamboree.json](./206091-totally-spies-zombie-jamboree.json) |
 | Totally Tattoos | 200603 | [200603-totally-tattoos.json](./200603-totally-tattoos.json) |
+| Totally Tiny Arcade | 191272 | [191272-totally-tiny-arcade.json](./191272-totally-tiny-arcade.json) |
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
@@ -28911,6 +28915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Komakyou | 262184 | [262184-touhou-komakyou.json](./262184-touhou-komakyou.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Kouhentan | 214371 | [214371-touhou-kouhentan.json](./214371-touhou-kouhentan.json) |
+| Touhou Koujoukaku: Over the Developed Eden | 191300 | [191300-touhou-koujoukaku-over-the-developed-eden.json](./191300-touhou-koujoukaku-over-the-developed-eden.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
 | Touhou Kouma Daimeikyuu | 203647 | [203647-touhou-kouma-daimeikyuu.json](./203647-touhou-kouma-daimeikyuu.json) |
 | Touhou Kouma Meikyuu: Adventures of Reimu | 203160 | [203160-touhou-kouma-meikyuu-adventures-of-reimu.json](./203160-touhou-kouma-meikyuu-adventures-of-reimu.json) |
