@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanevol Incident 44 | 285397 | [285397-sanevol-incident-44.json](./285397-sanevol-incident-44.json) |
 | Sanfu | 278786 | [278786-sanfu.json](./278786-sanfu.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
+| Sang: The Desert Blade | 211869 | [211869-sang-the-desert-blade.json](./211869-sang-the-desert-blade.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sangi | 272589 | [272589-sangi.json](./272589-sangi.json) |
 | Sango 2 | 24748 | [24748-sango-2.json](./24748-sango-2.json) |
@@ -1874,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Oblation | 362793 | [362793-sanguine-oblation.json](./362793-sanguine-oblation.json) |
 | Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
 | Sanguine Soul | 128168 | [128168-sanguine-soul.json](./128168-sanguine-soul.json) |
+| Sanguinite | 211872 | [211872-sanguinite.json](./211872-sanguinite.json) |
 | Sanguis Luna | 327535 | [327535-sanguis-luna.json](./327535-sanguis-luna.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
@@ -8859,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shichiya Shrine | 342535 | [342535-shichiya-shrine.json](./342535-shichiya-shrine.json) |
 | Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
+| Shido's World | 211858 | [211858-shidos-world.json](./211858-shidos-world.json) |
 | Shidunzi Parkour | 364168 | [364168-shidunzi-parkour.json](./364168-shidunzi-parkour.json) |
 | Shiei no Sona-Nyl Refrain: What a Beautiful Memories | 268861 | [268861-shiei-no-sona-nyl-refrain-what-a-beautiful-memories.json](./268861-shiei-no-sona-nyl-refrain-what-a-beautiful-memories.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
@@ -12812,6 +12815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit on bottle | 81966 | [81966-sit-on-bottle.json](./81966-sit-on-bottle.json) |
 | Sit-Back Attack | 327734 | [327734-sit-back-attack.json](./327734-sit-back-attack.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
+| SitBar's CT Pack | 211843 | [211843-sitbars-ct-pack.json](./211843-sitbars-ct-pack.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sítio do Pica-Pau Amarelo | 81031 | [81031-sitio-do-pica-pau-amarelo.json](./81031-sitio-do-pica-pau-amarelo.json) |
 | Sítio do Picapau Amarelo: A Nova Aritmética da Emília | 286931 | [286931-sitio-do-picapau-amarelo-a-nova-aritmetica-da-emilia.json](./286931-sitio-do-picapau-amarelo-a-nova-aritmetica-da-emilia.json) |
@@ -16904,6 +16908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Plowing Simulator | 218677 | [218677-snow-plowing-simulator.json](./218677-snow-plowing-simulator.json) |
 | Snow Plowing Simulator: First Snow | 279272 | [279272-snow-plowing-simulator-first-snow.json](./279272-snow-plowing-simulator-first-snow.json) |
 | Snow Plowing Simulator: Ski Resort | 374764 | [374764-snow-plowing-simulator-ski-resort.json](./374764-snow-plowing-simulator-ski-resort.json) |
+| Snow Problem | 211848 | [211848-snow-problem.json](./211848-snow-problem.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
 | Snow Queen Salon - Frosted Princess Makeover Game | 99347 | [99347-snow-queen-salon-frosted-princess-makeover-game.json](./99347-snow-queen-salon-frosted-princess-makeover-game.json) |
 | Snow Question | 268959 | [268959-snow-question.json](./268959-snow-question.json) |
@@ -31116,6 +31121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Witches: Hakugin no Tsubasa | 38449 | [38449-strike-witches-hakugin-no-tsubasa.json](./38449-strike-witches-hakugin-no-tsubasa.json) |
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
 | Strike World | 407294 | [407294-strike-world.json](./407294-strike-world.json) |
+| Strike Zero | 211864 | [211864-strike-zero.json](./211864-strike-zero.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
 | Strike! Real Money Bowling | 58911 | [58911-strike-real-money-bowling.json](./58911-strike-real-money-bowling.json) |
 | Strike! Ten Pin Bowling | 147619 | [147619-strike-ten-pin-bowling.json](./147619-strike-ten-pin-bowling.json) |
