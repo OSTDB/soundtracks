@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bart SimpSon Rambo Dwarf | 343927 | [343927-bart-simpson-rambo-dwarf.json](./343927-bart-simpson-rambo-dwarf.json) |
 | Bart Simpson Saw Game | 337137 | [337137-bart-simpson-saw-game.json](./337137-bart-simpson-saw-game.json) |
 | Bart Simpson vs. Dragon Ball | 365245 | [365245-bart-simpson-vs-dragon-ball.json](./365245-bart-simpson-vs-dragon-ball.json) |
+| Bart Simpson's Cupcake Crisis | 205734 | [205734-bart-simpsons-cupcake-crisis.json](./205734-bart-simpsons-cupcake-crisis.json) |
 | Bart Simpson's Escape from Camp Deadly | 2829 | [2829-bart-simpsons-escape-from-camp-deadly.json](./2829-bart-simpsons-escape-from-camp-deadly.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bart's Quest For TV | 317310 | [317310-barts-quest-for-tv.json](./317310-barts-quest-for-tv.json) |
@@ -17519,6 +17520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
 | Broken World | 287280 | [287280-broken-world.json](./287280-broken-world.json) |
 | Broken World: Save Your Children | 345407 | [345407-broken-world-save-your-children.json](./345407-broken-world-save-your-children.json) |
+| Broken: Paranormal Investigation | 205728 | [205728-broken-paranormal-investigation.json](./205728-broken-paranormal-investigation.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenFolx | 176642 | [176642-brokenfolx.json](./176642-brokenfolx.json) |
 | BrokenLore: Ascend | 377235 | [377235-brokenlore-ascend.json](./377235-brokenlore-ascend.json) |
@@ -18887,6 +18889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
+| Bullet Report | 205682 | [205682-bullet-report.json](./205682-bullet-report.json) |
 | Bullet Rodeo | 272183 | [272183-bullet-rodeo.json](./272183-bullet-rodeo.json) |
 | Bullet Roulette VR | 121064 | [121064-bullet-roulette-vr.json](./121064-bullet-roulette-vr.json) |
 | Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
