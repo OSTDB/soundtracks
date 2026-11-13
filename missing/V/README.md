@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
 | V-Gunn | 269477 | [269477-v-gunn.json](./269477-v-gunn.json) |
+| V-Hunter Puzzler DX | 238714 | [238714-v-hunter-puzzler-dx.json](./238714-v-hunter-puzzler-dx.json) |
 | V-Katsu | 106135 | [106135-v-katsu.json](./106135-v-katsu.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
 | V-Master Cross | 240903 | [240903-v-master-cross.json](./240903-v-master-cross.json) |
@@ -609,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
 | Vampire | 385535 | [385535-vampire.json](./385535-vampire.json) |
 | Vampire | 385536 | [385536-vampire.json](./385536-vampire.json) |
+| Vampire Ascent | 238770 | [238770-vampire-ascent.json](./238770-vampire-ascent.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Blood Dynasty | 389823 | [389823-vampire-blood-dynasty.json](./389823-vampire-blood-dynasty.json) |
 | Vampire Bloody Star X | 111349 | [111349-vampire-bloody-star-x.json](./111349-vampire-bloody-star-x.json) |
