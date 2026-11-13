@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires in your area | 330018 | [330018-vampires-in-your-area.json](./330018-vampires-in-your-area.json) |
 | Vampires Live | 79011 | [79011-vampires-live.json](./79011-vampires-live.json) |
 | Vampires of the 99th Night | 382735 | [382735-vampires-of-the-99th-night.json](./382735-vampires-of-the-99th-night.json) |
+| Vampires v. Zombies | 206260 | [206260-vampires-v-zombies.json](./206260-vampires-v-zombies.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlord Rising - Moonweaver's Edition | 401971 | [401971-vampires-bloodlord-rising-moonweavers-edition.json](./401971-vampires-bloodlord-rising-moonweavers-edition.json) |
@@ -2780,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Cop | 198653 | [198653-virtua-cop.json](./198653-virtua-cop.json) |
 | Virtua Cop | 198655 | [198655-virtua-cop.json](./198655-virtua-cop.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
+| Virtua Cop | 206268 | [206268-virtua-cop.json](./206268-virtua-cop.json) |
 | Virtua Cop | 6289 | [6289-virtua-cop.json](./6289-virtua-cop.json) |
 | Virtua Cop 2 | 2470 | [2470-virtua-cop-2.json](./2470-virtua-cop-2.json) |
 | Virtua Cop 3 | 66555 | [66555-virtua-cop-3.json](./66555-virtua-cop-3.json) |
@@ -4324,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Mini World Roller Coaster | 192238 | [192238-vr-mini-world-roller-coaster.json](./192238-vr-mini-world-roller-coaster.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Multi-Games | 32119 | [32119-vr-multi-games.json](./32119-vr-multi-games.json) |
+| VR Mummy Girl | 206287 | [206287-vr-mummy-girl.json](./206287-vr-mummy-girl.json) |
 | VR New York Story | 369756 | [369756-vr-new-york-story.json](./369756-vr-new-york-story.json) |
 | VR New York Story, Settle in New York | 224797 | [224797-vr-new-york-story-settle-in-new-york.json](./224797-vr-new-york-story-settle-in-new-york.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
