@@ -4768,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade breakout | 234995 | [234995-marmalade-breakout.json](./234995-marmalade-breakout.json) |
 | Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
 | Marmelade | 311426 | [311426-marmelade.json](./311426-marmelade.json) |
+| Marmitta | 182433 | [182433-marmitta.json](./182433-marmitta.json) |
 | Marmoreal | 148642 | [148642-marmoreal.json](./148642-marmoreal.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
@@ -6414,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawgate | 396639 | [396639-mawgate.json](./396639-mawgate.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
+| Mawn | 182564 | [182564-mawn.json](./182564-mawn.json) |
 | Mawthorne | 201504 | [201504-mawthorne.json](./201504-mawthorne.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max | 49044 | [49044-max.json](./49044-max.json) |
@@ -21426,6 +21428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
 | Museum of Sweet Potatoes | 390984 | [390984-museum-of-sweet-potatoes.json](./390984-museum-of-sweet-potatoes.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
+| Museum of the Saved Image | 182570 | [182570-museum-of-the-saved-image.json](./182570-museum-of-the-saved-image.json) |
 | Museum of War | 156766 | [156766-museum-of-war.json](./156766-museum-of-war.json) |
 | Museum Simulator | 349824 | [349824-museum-simulator.json](./349824-museum-simulator.json) |
 | Museum.exe | 318236 | [318236-museum-exe.json](./318236-museum-exe.json) |
