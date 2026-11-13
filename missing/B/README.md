@@ -3563,6 +3563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BastogneBreakout | 266448 | [266448-bastognebreakout.json](./266448-bastognebreakout.json) |
 | Baston | 388344 | [388344-baston.json](./388344-baston.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
+| Basureroes: Invasion | 199541 | [199541-basureroes-invasion.json](./199541-basureroes-invasion.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
 | Bat 'n Ball | 14477 | [14477-bat-n-ball.json](./14477-bat-n-ball.json) |
 | Bat & Ball | 362386 | [362386-bat-and-ball.json](./362386-bat-and-ball.json) |
