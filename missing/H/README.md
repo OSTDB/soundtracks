@@ -4439,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Division | 203683 | [203683-hell-division.json](./203683-hell-division.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
 | Hell Empire: Sinners Flow | 115893 | [115893-hell-empire-sinners-flow.json](./115893-hell-empire-sinners-flow.json) |
+| Hell Evolution: Devil Girls Raising | 244972 | [244972-hell-evolution-devil-girls-raising.json](./244972-hell-evolution-devil-girls-raising.json) |
 | Hell Express | 340274 | [340274-hell-express.json](./340274-hell-express.json) |
 | Hell Fighter | 242108 | [242108-hell-fighter.json](./242108-hell-fighter.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
@@ -6542,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Journey | 216013 | [216013-heros-journey.json](./216013-heros-journey.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Journey | 92023 | [92023-heros-journey.json](./92023-heros-journey.json) |
+| Hero's Land | 244960 | [244960-heros-land.json](./244960-heros-land.json) |
 | Hero's Last Words | 322285 | [322285-heros-last-words.json](./322285-heros-last-words.json) |
 | Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
 | Hero's Party R | 211566 | [211566-heros-party-r.json](./211566-heros-party-r.json) |
@@ -10136,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeland Defense: National Security Patrol | 209915 | [209915-homeland-defense-national-security-patrol.json](./209915-homeland-defense-national-security-patrol.json) |
 | Homeland: Lay to Rest | 150541 | [150541-homeland-lay-to-rest.json](./150541-homeland-lay-to-rest.json) |
 | Homeland: The Stone Of Night | 73455 | [73455-homeland-the-stone-of-night.json](./73455-homeland-the-stone-of-night.json) |
+| Homelander | 244466 | [244466-homelander.json](./244466-homelander.json) |
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
 | Homeless Dog Motel | 322640 | [322640-homeless-dog-motel.json](./322640-homeless-dog-motel.json) |
