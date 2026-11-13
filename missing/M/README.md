@@ -15513,6 +15513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | Mizzurna Falls | 43839 | [43839-mizzurna-falls.json](./43839-mizzurna-falls.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
+| MJ-05 | 224859 | [224859-mj-05.json](./224859-mj-05.json) |
 | Mk Creature.zip | 177702 | [177702-mk-creature-zip.json](./177702-mk-creature-zip.json) |
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
 | MK5 Mortal Kombat: Sub-Zero | 155515 | [155515-mk5-mortal-kombat-sub-zero.json](./155515-mk5-mortal-kombat-sub-zero.json) |
@@ -19343,6 +19344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Maniac 2 | 213814 | [213814-moto-maniac-2.json](./213814-moto-maniac-2.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
+| Moto Offroad Simulator | 224798 | [224798-moto-offroad-simulator.json](./224798-moto-offroad-simulator.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
 | Moto Pizza Courier | 220681 | [220681-moto-pizza-courier.json](./220681-moto-pizza-courier.json) |
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
