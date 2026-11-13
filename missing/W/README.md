@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Lilies: An Eons Lost Story | 182100 | [182100-war-of-the-lilies-an-eons-lost-story.json](./182100-war-of-the-lilies-an-eons-lost-story.json) |
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
+| War of the Monsters | 187562 | [187562-war-of-the-monsters.json](./187562-war-of-the-monsters.json) |
 | War of the Monsters | 3208 | [3208-war-of-the-monsters.json](./3208-war-of-the-monsters.json) |
 | War of the Old Gods | 338416 | [338416-war-of-the-old-gods.json](./338416-war-of-the-old-gods.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Went Back | 130185 | [130185-we-went-back.json](./130185-we-went-back.json) |
 | We Were Friends | 192555 | [192555-we-were-friends.json](./192555-we-were-friends.json) |
 | We Were Here Before | 405828 | [405828-we-were-here-before.json](./405828-we-were-here-before.json) |
+| We Were Here Series Bundle | 187987 | [187987-we-were-here-series-bundle.json](./187987-we-were-here-series-bundle.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Kidnapped | 202511 | [202511-we-were-kidnapped.json](./202511-we-were-kidnapped.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
@@ -6312,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing of Misadventure | 116065 | [116065-wing-of-misadventure.json](./116065-wing-of-misadventure.json) |
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
+| Wing Pilot | 187993 | [187993-wing-pilot.json](./187993-wing-pilot.json) |
 | Wing Shooting Championship | 40550 | [40550-wing-shooting-championship.json](./40550-wing-shooting-championship.json) |
 | Wing War | 131192 | [131192-wing-war.json](./131192-wing-war.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
@@ -7057,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches, Wishes and Whispers | 282193 | [282193-witches-wishes-and-whispers.json](./282193-witches-wishes-and-whispers.json) |
 | Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
 | Witches' Hand | 359134 | [359134-witches-hand.json](./359134-witches-hand.json) |
+| Witches' Legacy: Awakening Darkness | 187997 | [187997-witches-legacy-awakening-darkness.json](./187997-witches-legacy-awakening-darkness.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Dark Days to Come | 415975 | [415975-witches-legacy-dark-days-to-come.json](./415975-witches-legacy-dark-days-to-come.json) |
 | Witches' Legacy: Dark Days to Come - Collector's Edition | 415974 | [415974-witches-legacy-dark-days-to-come-collectors-edition.json](./415974-witches-legacy-dark-days-to-come-collectors-edition.json) |
@@ -9493,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds | 36277 | [36277-worlds.json](./36277-worlds.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
 | Worlds Adrift Island Creator | 36387 | [36387-worlds-adrift-island-creator.json](./36387-worlds-adrift-island-creator.json) |
+| Worlds Align: Beginning | 187933 | [187933-worlds-align-beginning.json](./187933-worlds-align-beginning.json) |
 | Worlds Align: Beginning - Collector's Edition | 254909 | [254909-worlds-align-beginning-collectors-edition.json](./254909-worlds-align-beginning-collectors-edition.json) |
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds Align: Deadly Dream - Collector's Edition | 170209 | [170209-worlds-align-deadly-dream-collectors-edition.json](./170209-worlds-align-deadly-dream-collectors-edition.json) |
