@@ -10151,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Bad News U Pack | 261929 | [261929-wwe-2k23-bad-news-u-pack.json](./261929-wwe-2k23-bad-news-u-pack.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K23: Deluxe Edition | 234209 | [234209-wwe-2k23-deluxe-edition.json](./234209-wwe-2k23-deluxe-edition.json) |
+| WWE 2K23: Icon Edition | 241079 | [241079-wwe-2k23-icon-edition.json](./241079-wwe-2k23-icon-edition.json) |
 | WWE 2K23: Pretty Sweet Pack | 279032 | [279032-wwe-2k23-pretty-sweet-pack.json](./279032-wwe-2k23-pretty-sweet-pack.json) |
 | WWE 2K23: Race to NXT Pack | 279049 | [279049-wwe-2k23-race-to-nxt-pack.json](./279049-wwe-2k23-race-to-nxt-pack.json) |
 | WWE 2K23: Revel with Wyatt Pack | 257324 | [257324-wwe-2k23-revel-with-wyatt-pack.json](./257324-wwe-2k23-revel-with-wyatt-pack.json) |
