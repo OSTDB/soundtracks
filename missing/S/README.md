@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
 | Sally and Snail | 365724 | [365724-sally-and-snail.json](./365724-sally-and-snail.json) |
+| Sally Can't Sleep | 238793 | [238793-sally-cant-sleep.json](./238793-sally-cant-sleep.json) |
 | Sally Face | 26580 | [26580-sally-face.json](./26580-sally-face.json) |
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
 | Sally.Exe | 274050 | [274050-sally-exe.json](./274050-sally-exe.json) |
@@ -5218,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed | 394683 | [394683-seed.json](./394683-seed.json) |
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
+| Seed Bash | 238794 | [238794-seed-bash.json](./238794-seed-bash.json) |
 | Seed Hunter | 118599 | [118599-seed-hunter.json](./118599-seed-hunter.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed no Mesu-tachi | 97727 | [97727-seed-no-mesu-tachi.json](./97727-seed-no-mesu-tachi.json) |
@@ -5311,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seeker Tactics | 412935 | [412935-seeker-tactics.json](./412935-seeker-tactics.json) |
 | Seeker VR | 180460 | [180460-seeker-vr.json](./180460-seeker-vr.json) |
+| Seeker: Halina | 238779 | [238779-seeker-halina.json](./238779-seeker-halina.json) |
 | Seeker: My Shadow | 211541 | [211541-seeker-my-shadow.json](./211541-seeker-my-shadow.json) |
 | Seeker: Quest | 250760 | [250760-seeker-quest.json](./250760-seeker-quest.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
@@ -9039,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: Fall of Man Premium Edition | 153640 | [153640-shin-megami-tensei-v-fall-of-man-premium-edition.json](./153640-shin-megami-tensei-v-fall-of-man-premium-edition.json) |
 | Shin Megami Tensei V: Return of the True Demon | 238173 | [238173-shin-megami-tensei-v-return-of-the-true-demon.json](./238173-shin-megami-tensei-v-return-of-the-true-demon.json) |
 | Shin Megami Tensei V: Steelbook Launch Edition | 153639 | [153639-shin-megami-tensei-v-steelbook-launch-edition.json](./153639-shin-megami-tensei-v-steelbook-launch-edition.json) |
+| Shin Megami Tensei V: The Doctor's Last Wish | 238165 | [238165-shin-megami-tensei-v-the-doctors-last-wish.json](./238165-shin-megami-tensei-v-the-doctors-last-wish.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Holy Will and Profane Dissent | 297317 | [297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json](./297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Sakura Cinders of the East | 297318 | [297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json](./297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json) |
@@ -28931,6 +28935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Combat: Fighting Platformer | 319330 | [319330-stick-combat-fighting-platformer.json](./319330-stick-combat-fighting-platformer.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
+| Stick Cricket 2 | 238792 | [238792-stick-cricket-2.json](./238792-stick-cricket-2.json) |
 | Stick Cricket Super League | 229878 | [229878-stick-cricket-super-league.json](./229878-stick-cricket-super-league.json) |
 | Stick Death | 70130 | [70130-stick-death.json](./70130-stick-death.json) |
 | Stick Em Up | 154857 | [154857-stick-em-up.json](./154857-stick-em-up.json) |
@@ -29336,6 +29341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitched: Mother's Nightmare | 152636 | [152636-stitched-mothers-nightmare.json](./152636-stitched-mothers-nightmare.json) |
 | Stitchlings | 399879 | [399879-stitchlings.json](./399879-stitchlings.json) |
 | Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
+| Stivenelvro Legends | 238701 | [238701-stivenelvro-legends.json](./238701-stivenelvro-legends.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | StixWorld | 76141 | [76141-stixworld.json](./76141-stixworld.json) |
 | STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
@@ -30160,6 +30166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straw Hat Samurai | 236616 | [236616-straw-hat-samurai.json](./236616-straw-hat-samurai.json) |
 | Straw Hat Samurai: Duels | 101931 | [101931-straw-hat-samurai-duels.json](./101931-straw-hat-samurai-duels.json) |
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
+| Strawb | 238797 | [238797-strawb.json](./238797-strawb.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
