@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haste | 221845 | [221845-haste.json](./221845-haste.json) |
 | Haste | 228918 | [228918-haste.json](./228918-haste.json) |
 | Haste Heist | 87775 | [87775-haste-heist.json](./87775-haste-heist.json) |
+| Haste-Miner 2 | 214640 | [214640-haste-miner-2.json](./214640-haste-miner-2.json) |
 | Hastilude | 33127 | [33127-hastilude.json](./33127-hastilude.json) |
 | Hasty Snow | 117704 | [117704-hasty-snow.json](./117704-hasty-snow.json) |
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
@@ -8643,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
 | Hiiro no Kakera DS | 71905 | [71905-hiiro-no-kakera-ds.json](./71905-hiiro-no-kakera-ds.json) |
+| Hiiro no Kakera Portable | 214655 | [214655-hiiro-no-kakera-portable.json](./214655-hiiro-no-kakera-portable.json) |
 | Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
 | Hiiro no Kakera: Ano Sora no Shita de | 71904 | [71904-hiiro-no-kakera-ano-sora-no-shita-de.json](./71904-hiiro-no-kakera-ano-sora-no-shita-de.json) |
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
@@ -8816,6 +8818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinamizawa Branch School Basketball Tournament | 257559 | [257559-hinamizawa-branch-school-basketball-tournament.json](./257559-hinamizawa-branch-school-basketball-tournament.json) |
 | Hinata in Hot Maze | 163888 | [163888-hinata-in-hot-maze.json](./163888-hinata-in-hot-maze.json) |
 | Hinatazaka46 to Fushigi na Toshoshitsu | 223967 | [223967-hinatazaka46-to-fushigi-na-toshoshitsu.json](./223967-hinatazaka46-to-fushigi-na-toshoshitsu.json) |
+| Hind | 214650 | [214650-hind.json](./214650-hind.json) |
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hindrance | 177720 | [177720-hindrance.json](./177720-hindrance.json) |
