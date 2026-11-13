@@ -12945,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggies | 25489 | [25489-doggies.json](./25489-doggies.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggnation | 240032 | [240032-doggnation.json](./240032-doggnation.json) |
+| Doggo | 190184 | [190184-doggo.json](./190184-doggo.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dentist | 229896 | [229896-doggo-dentist.json](./229896-doggo-dentist.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
