@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H1Z1 | 6188 | [6188-h1z1.json](./6188-h1z1.json) |
 | H2 Multiplayer Mod | 313561 | [313561-h2-multiplayer-mod.json](./313561-h2-multiplayer-mod.json) |
+| H2H-Xmas | 228036 | [228036-h2h-xmas.json](./228036-h2h-xmas.json) |
 | H2O | 99114 | [99114-h2o.json](./99114-h2o.json) |
 | H2O Root After and Another Complete Story Edition | 299541 | [299541-h2o-root-after-and-another-complete-story-edition.json](./299541-h2o-root-after-and-another-complete-story-edition.json) |
 | H2O: A Diabolic Game | 14473 | [14473-h2o-a-diabolic-game.json](./14473-h2o-a-diabolic-game.json) |
@@ -4090,6 +4091,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Wake | 417231 | [417231-heavy-wake.json](./417231-heavy-wake.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
+| Heavy Weapon | 227572 | [227572-heavy-weapon.json](./227572-heavy-weapon.json) |
+| Heavy Weapon | 227590 | [227590-heavy-weapon.json](./227590-heavy-weapon.json) |
 | Heavy Weapon Deluxe | 27812 | [27812-heavy-weapon-deluxe.json](./27812-heavy-weapon-deluxe.json) |
 | Heavy Weapons | 409261 | [409261-heavy-weapons.json](./409261-heavy-weapons.json) |
 | Heavy Works | 213482 | [213482-heavy-works.json](./213482-heavy-works.json) |
@@ -9256,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HitTone | 273676 | [273676-hittone.json](./273676-hittone.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
+| Hitwicket Superstars | 227562 | [227562-hitwicket-superstars.json](./227562-hitwicket-superstars.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
 | Hive | 14113 | [14113-hive.json](./14113-hive.json) |
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
@@ -11328,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
 | Hospital Doctor: Fix me up for Kids (Boys & Girls) | 257881 | [257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json](./257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json) |
 | Hospital Empire Tycoon | 196435 | [196435-hospital-empire-tycoon.json](./196435-hospital-empire-tycoon.json) |
+| Hospital Escape | 228030 | [228030-hospital-escape.json](./228030-hospital-escape.json) |
 | Hospital Escape | 398742 | [398742-hospital-escape.json](./398742-hospital-escape.json) |
 | Hospital Giant | 209887 | [209887-hospital-giant.json](./209887-hospital-giant.json) |
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
