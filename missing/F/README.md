@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm House Night | 323630 | [323630-farm-house-night.json](./323630-farm-house-night.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
+| Farm in the Horizon | 225990 | [225990-farm-in-the-horizon.json](./225990-farm-in-the-horizon.json) |
 | Farm Invader | 360883 | [360883-farm-invader.json](./360883-farm-invader.json) |
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Peas: Sayaendou | 257024 | [257024-field-peas-sayaendou.json](./257024-field-peas-sayaendou.json) |
 | Field Pong: Gamesforfarm | 388968 | [388968-field-pong-gamesforfarm.json](./388968-field-pong-gamesforfarm.json) |
 | Field Survivor | 159761 | [159761-field-survivor.json](./159761-field-survivor.json) |
+| Field Tactics | 226465 | [226465-field-tactics.json](./226465-field-tactics.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fieldrunners 2 | 9840 | [9840-fieldrunners-2.json](./9840-fieldrunners-2.json) |
 | Fieldrunners Attack! | 106966 | [106966-fieldrunners-attack.json](./106966-fieldrunners-attack.json) |
@@ -4609,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend | 69932 | [69932-fiend.json](./69932-fiend.json) |
 | Fiend Exile | 350520 | [350520-fiend-exile.json](./350520-fiend-exile.json) |
 | Fiend Folio: Reheated | 222491 | [222491-fiend-folio-reheated.json](./222491-fiend-folio-reheated.json) |
+| Fiend Heart | 226466 | [226466-fiend-heart.json](./226466-fiend-heart.json) |
 | Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
