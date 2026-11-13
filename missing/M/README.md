@@ -4212,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8 Deluxe: Booster Course Pass | 191419 | [191419-mario-kart-8-deluxe-booster-course-pass.json](./191419-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 1 | 231440 | [231440-mario-kart-8-deluxe-booster-course-pass-wave-1.json](./231440-mario-kart-8-deluxe-booster-course-pass-wave-1.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 2 | 231441 | [231441-mario-kart-8-deluxe-booster-course-pass-wave-2.json](./231441-mario-kart-8-deluxe-booster-course-pass-wave-2.json) |
+| Mario Kart 8 Deluxe: Booster Course Pass - Wave 3 | 217559 | [217559-mario-kart-8-deluxe-booster-course-pass-wave-3.json](./217559-mario-kart-8-deluxe-booster-course-pass-wave-3.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 4 | 231442 | [231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json](./231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 5 | 231444 | [231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json](./231444-mario-kart-8-deluxe-booster-course-pass-wave-5.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass - Wave 6 | 231445 | [231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json](./231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json) |
@@ -19324,6 +19325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothers and Daughters | 281782 | [281782-mothers-and-daughters.json](./281782-mothers-and-daughters.json) |
 | Mothers of the Animal Kingdom | 82194 | [82194-mothers-of-the-animal-kingdom.json](./82194-mothers-of-the-animal-kingdom.json) |
+| Mothership | 217417 | [217417-mothership.json](./217417-mothership.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 27211 | [27211-mothership.json](./27211-mothership.json) |
 | Mothership | 273235 | [273235-mothership.json](./273235-mothership.json) |
