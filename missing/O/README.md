@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
 | Oji-san Tomete Iede Gal to no Win Win Sex Life | 59125 | [59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json](./59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
+| Ojiv | 235379 | [235379-ojiv.json](./235379-ojiv.json) |
 | Ojo Por Ojo | 301893 | [301893-ojo-por-ojo.json](./301893-ojo-por-ojo.json) |
 | Ojou-sama Express | 270746 | [270746-ojou-sama-express.json](./270746-ojou-sama-express.json) |
 | Ojou-sama ha Gokigen Naname | 422520 | [422520-ojou-sama-ha-gokigen-naname.json](./422520-ojou-sama-ha-gokigen-naname.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of This World | 343405 | [343405-out-of-this-world.json](./343405-out-of-this-world.json) |
 | Out of This World | 343451 | [343451-out-of-this-world.json](./343451-out-of-this-world.json) |
 | Out of This World! / Helicopter Rescue! | 165255 | [165255-out-of-this-world-helicopter-rescue.json](./165255-out-of-this-world-helicopter-rescue.json) |
+| Out of Three | 235521 | [235521-out-of-three.json](./235521-out-of-three.json) |
 | Out of Time | 122135 | [122135-out-of-time.json](./122135-out-of-time.json) |
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
