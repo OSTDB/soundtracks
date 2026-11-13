@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
+| Viking Life | 210788 | [210788-viking-life.json](./210788-viking-life.json) |
 | Viking Nest | 425190 | [425190-viking-nest.json](./425190-viking-nest.json) |
 | Viking Nest: Collector's Edition | 425191 | [425191-viking-nest-collectors-edition.json](./425191-viking-nest-collectors-edition.json) |
 | Viking Rage VR | 28534 | [28534-viking-rage-vr.json](./28534-viking-rage-vr.json) |
