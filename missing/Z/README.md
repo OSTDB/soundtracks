@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarathustra: Cybergeddon | 276096 | [276096-zarathustra-cybergeddon.json](./276096-zarathustra-cybergeddon.json) |
 | Zarch | 37222 | [37222-zarch.json](./37222-zarch.json) |
 | Zardoz | 106301 | [106301-zardoz.json](./106301-zardoz.json) |
+| Zardy's Cave | 211352 | [211352-zardys-cave.json](./211352-zardys-cave.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zargon | 106302 | [106302-zargon.json](./106302-zargon.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy Detective: Cats Hidden | 244528 | [244528-zippy-detective-cats-hidden.json](./244528-zippy-detective-cats-hidden.json) |
 | Zippy Froger | 246376 | [246376-zippy-froger.json](./246376-zippy-froger.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
+| Zippy the Circle | 211361 | [211361-zippy-the-circle.json](./211361-zippy-the-circle.json) |
 | Zippy the Circle Challenge: Level 11C, Level 12C, and Level 13C | 213852 | [213852-zippy-the-circle-challenge-level-11c-level-12c-and-level-13c.json](./213852-zippy-the-circle-challenge-level-11c-level-12c-and-level-13c.json) |
 | Zippy the Circle Challenge: Level 1C and Level 2C | 213855 | [213855-zippy-the-circle-challenge-level-1c-and-level-2c.json](./213855-zippy-the-circle-challenge-level-1c-and-level-2c.json) |
 | Zippy the Circle Challenge: Level 3C and Level 4C | 213854 | [213854-zippy-the-circle-challenge-level-3c-and-level-4c.json](./213854-zippy-the-circle-challenge-level-3c-and-level-4c.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba Fitness Party | 421399 | [421399-zumba-fitness-party.json](./421399-zumba-fitness-party.json) |
 | Zumba Fitness Rush | 47389 | [47389-zumba-fitness-rush.json](./47389-zumba-fitness-rush.json) |
 | Zumba Fitness World Party | 5308 | [5308-zumba-fitness-world-party.json](./5308-zumba-fitness-world-party.json) |
+| Zumba Garden | 211320 | [211320-zumba-garden.json](./211320-zumba-garden.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba Marble Blast | 309056 | [309056-zumba-marble-blast.json](./309056-zumba-marble-blast.json) |
 | Zumba Royal Marble Shooter Mania | 323107 | [323107-zumba-royal-marble-shooter-mania.json](./323107-zumba-royal-marble-shooter-mania.json) |
