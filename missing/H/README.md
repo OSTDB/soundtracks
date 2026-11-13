@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathrow | 92752 | [92752-heathrow.json](./92752-heathrow.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatos | 57748 | [57748-heatos.json](./57748-heatos.json) |
+| Heatris | 190242 | [190242-heatris.json](./190242-heatris.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
 | Heatseeker | 4910 | [4910-heatseeker.json](./4910-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
