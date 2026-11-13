@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Quick Clips | 53574 | [53574-sallys-quick-clips.json](./53574-sallys-quick-clips.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
 | Sally's Salon | 315369 | [315369-sallys-salon.json](./315369-sallys-salon.json) |
+| Sally's Salon: Beauty Secrets | 177061 | [177061-sallys-salon-beauty-secrets.json](./177061-sallys-salon-beauty-secrets.json) |
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
 | Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
@@ -13760,6 +13761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
 | Sky Caravan | 189891 | [189891-sky-caravan.json](./189891-sky-caravan.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
+| Sky Chasers | 177060 | [177060-sky-chasers.json](./177060-sky-chasers.json) |
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
@@ -16615,6 +16617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Snedronningen | 389350 | [389350-snedronningen.json](./389350-snedronningen.json) |
+| Sneeter | 177465 | [177465-sneeter.json](./177465-sneeter.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies | 61744 | [61744-sneezies.json](./61744-sneezies.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
@@ -30593,6 +30596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Souls: Cult Classic Edition | 274648 | [274648-stray-souls-cult-classic-edition.json](./274648-stray-souls-cult-classic-edition.json) |
 | Stray Souls: Dollhouse Story - Collector's Edition | 85705 | [85705-stray-souls-dollhouse-story-collectors-edition.json](./85705-stray-souls-dollhouse-story-collectors-edition.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
+| Stray Souls: Stolen Memories - Collector's Edition | 177092 | [177092-stray-souls-stolen-memories-collectors-edition.json](./177092-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 53676 | [53676-stray-souls-stolen-memories-collectors-edition.json](./53676-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
 | Stray: Exotic | 288383 | [288383-stray-exotic.json](./288383-stray-exotic.json) |
