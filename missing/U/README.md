@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
 | Unicorn and Sweets | 149951 | [149951-unicorn-and-sweets.json](./149951-unicorn-and-sweets.json) |
 | Unicorn and Sweets 2 | 152804 | [152804-unicorn-and-sweets-2.json](./152804-unicorn-and-sweets-2.json) |
+| Unicorn Break | 188134 | [188134-unicorn-break.json](./188134-unicorn-break.json) |
 | Unicorn Break: Head to Head | 210697 | [210697-unicorn-break-head-to-head.json](./210697-unicorn-break-head-to-head.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Dungeon | 89612 | [89612-unicorn-dungeon.json](./89612-unicorn-dungeon.json) |
@@ -2821,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed SDVX Clone | 127486 | [127486-unnamed-sdvx-clone.json](./127486-unnamed-sdvx-clone.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
 | Unnamed Space Idle | 258933 | [258933-unnamed-space-idle.json](./258933-unnamed-space-idle.json) |
+| UnnamedGame RPG | 188534 | [188534-unnamedgame-rpg.json](./188534-unnamedgame-rpg.json) |
 | Unnatural | 104951 | [104951-unnatural.json](./104951-unnatural.json) |
 | Unnatural Beauties | 341296 | [341296-unnatural-beauties.json](./341296-unnatural-beauties.json) |
 | Unnatural Disaster | 150470 | [150470-unnatural-disaster.json](./150470-unnatural-disaster.json) |
