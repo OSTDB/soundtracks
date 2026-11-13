@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikeelya | 379329 | [379329-ikeelya.json](./379329-ikeelya.json) |
 | Ikemen Bakumatsu: Unmei no Koi Hana no Miyako to Koi no Ran | 226082 | [226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json](./226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json) |
 | Ikemen Genjiden Ayakashi Koi Enishi | 184284 | [184284-ikemen-genjiden-ayakashi-koi-enishi.json](./184284-ikemen-genjiden-ayakashi-koi-enishi.json) |
+| Ikemen Koi-to: Taishou Roman Hanayaka Naru Ichizoku | 227424 | [227424-ikemen-koi-to-taishou-roman-hanayaka-naru-ichizoku.json](./227424-ikemen-koi-to-taishou-roman-hanayaka-naru-ichizoku.json) |
 | Ikemen Live: Koi no Uta wo Kimi ni | 175002 | [175002-ikemen-live-koi-no-uta-wo-kimi-ni.json](./175002-ikemen-live-koi-no-uta-wo-kimi-ni.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
