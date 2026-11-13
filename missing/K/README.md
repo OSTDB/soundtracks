@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
 | Ketsu Battler | 330226 | [330226-ketsu-battler.json](./330226-ketsu-battler.json) |
+| Ketsugou Danshi: Elements with Emotions | 217566 | [217566-ketsugou-danshi-elements-with-emotions.json](./217566-ketsugou-danshi-elements-with-emotions.json) |
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
 | Ketsui Death Label | 47856 | [47856-ketsui-death-label.json](./47856-ketsui-death-label.json) |
 | Ketsui Deathtiny: Kizuna Jigoku Tachi | 106850 | [106850-ketsui-deathtiny-kizuna-jigoku-tachi.json](./106850-ketsui-deathtiny-kizuna-jigoku-tachi.json) |
