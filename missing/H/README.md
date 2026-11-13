@@ -10665,6 +10665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
 | Hoomanz! | 314446 | [314446-hoomanz.json](./314446-hoomanz.json) |
+| Hoomeez | 204617 | [204617-hoomeez.json](./204617-hoomeez.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
 | Hoop | 193886 | [193886-hoop.json](./193886-hoop.json) |
