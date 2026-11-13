@@ -5512,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Big Invasion | 32818 | [32818-lil-big-invasion.json](./32818-lil-big-invasion.json) |
 | Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
+| Lil Flutie 3D: Director's Pandemic Edition | 177982 | [177982-lil-flutie-3d-directors-pandemic-edition.json](./177982-lil-flutie-3d-directors-pandemic-edition.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Gator Game: Gator of the Year Edition | 385125 | [385125-lil-gator-game-gator-of-the-year-edition.json](./385125-lil-gator-game-gator-of-the-year-edition.json) |
 | Lil Gator Game: In the Dark | 328135 | [328135-lil-gator-game-in-the-dark.json](./328135-lil-gator-game-in-the-dark.json) |
@@ -10425,6 +10426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Cursed Fortune | 395362 | [395362-luigis-cursed-fortune.json](./395362-luigis-cursed-fortune.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Game | 318029 | [318029-luigis-game.json](./318029-luigis-game.json) |
+| Luigi's Hammer Toss Game | 178108 | [178108-luigis-hammer-toss-game.json](./178108-luigis-hammer-toss-game.json) |
 | Luigi's Invasion | 322899 | [322899-luigis-invasion.json](./322899-luigis-invasion.json) |
 | Luigi's Invasion 2: Mushroom Rebirth | 322897 | [322897-luigis-invasion-2-mushroom-rebirth.json](./322897-luigis-invasion-2-mushroom-rebirth.json) |
 | Luigi's Invasion 3 | 322898 | [322898-luigis-invasion-3.json](./322898-luigis-invasion-3.json) |
