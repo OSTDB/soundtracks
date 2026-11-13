@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Single Fallen Feather | 325299 | [325299-a-single-fallen-feather.json](./325299-a-single-fallen-feather.json) |
 | A Sinister Glitch | 389944 | [389944-a-sinister-glitch.json](./389944-a-sinister-glitch.json) |
 | A Siren's Call | 132562 | [132562-a-sirens-call.json](./132562-a-sirens-call.json) |
+| A Siren's Call VR: Death Comes At Night | 195228 | [195228-a-sirens-call-vr-death-comes-at-night.json](./195228-a-sirens-call-vr-death-comes-at-night.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Sister's Journey | 183157 | [183157-a-sisters-journey.json](./183157-a-sisters-journey.json) |
 | A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aberration Analyst | 167393 | [167393-aberration-analyst.json](./167393-aberration-analyst.json) |
 | Aberration Town | 164651 | [164651-aberration-town.json](./164651-aberration-town.json) |
 | Abettor | 172993 | [172993-abettor.json](./172993-abettor.json) |
+| Abfense | 195652 | [195652-abfense.json](./195652-abfense.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
@@ -19415,6 +19417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Legendary Tracks Part 2 - Adelaide | 156078 | [156078-automobilista-legendary-tracks-part-2-adelaide.json](./156078-automobilista-legendary-tracks-part-2-adelaide.json) |
 | Automobilista: Legendary Tracks Part 3 - Hockenheim | 171372 | [171372-automobilista-legendary-tracks-part-3-hockenheim.json](./171372-automobilista-legendary-tracks-part-3-hockenheim.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
+| Automoji | 195670 | [195670-automoji.json](./195670-automoji.json) |
 | Automon | 192226 | [192226-automon.json](./192226-automon.json) |
 | Automon Arena | 350115 | [350115-automon-arena.json](./350115-automon-arena.json) |
 | Automonopoli | 94566 | [94566-automonopoli.json](./94566-automonopoli.json) |
