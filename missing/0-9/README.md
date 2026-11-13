@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Shot Diary 2: Memory 4/4 | 327684 | [327684-2-shot-diary-2-memory-4-4.json](./327684-2-shot-diary-2-memory-4-4.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
+| 2 Surfers | 200102 | [200102-2-surfers.json](./200102-2-surfers.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2 Tasty | 143382 | [143382-2-tasty.json](./143382-2-tasty.json) |
 | 2 Tasty Too: l'Amour à Paris | 143384 | [143384-2-tasty-too-lamour-a-paris.json](./143384-2-tasty-too-lamour-a-paris.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
 | 24 Killers | 141454 | [141454-24-killers.json](./141454-24-killers.json) |
+| 24 Levels | 200104 | [200104-24-levels.json](./200104-24-levels.json) |
 | 24 Locks | 58470 | [58470-24-locks.json](./58470-24-locks.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 o 'clock | 283048 | [283048-24-o-clock.json](./283048-24-o-clock.json) |
