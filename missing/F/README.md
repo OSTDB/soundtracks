@@ -14297,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
 | FukTopia | 86601 | [86601-fuktopia.json](./86601-fuktopia.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
+| Fuktopia 4 | 220368 | [220368-fuktopia-4.json](./220368-fuktopia-4.json) |
 | FukTopia 5 | 220591 | [220591-fuktopia-5.json](./220591-fuktopia-5.json) |
 | Fuku-chan no Obake nanka Kowakunai | 349458 | [349458-fuku-chan-no-obake-nanka-kowakunai.json](./349458-fuku-chan-no-obake-nanka-kowakunai.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
@@ -14586,6 +14587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fundación 3M España: The Recycling Heroes | 377228 | [377228-fundacion-3m-espana-the-recycling-heroes.json](./377228-fundacion-3m-espana-the-recycling-heroes.json) |
 | Fundamental Paper Education | 299666 | [299666-fundamental-paper-education.json](./299666-fundamental-paper-education.json) |
 | Fune Tarou | 42241 | [42241-fune-tarou.json](./42241-fune-tarou.json) |
+| Funeral | 220369 | [220369-funeral.json](./220369-funeral.json) |
 | Funeral | 229326 | [229326-funeral.json](./229326-funeral.json) |
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Song for the Elemental Lords | 313260 | [313260-funeral-song-for-the-elemental-lords.json](./313260-funeral-song-for-the-elemental-lords.json) |
@@ -14614,6 +14616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fung Guys | 202461 | [202461-fung-guys.json](./202461-fung-guys.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
+| Fungal Descent | 220370 | [220370-fungal-descent.json](./220370-fungal-descent.json) |
 | Fungal Fiefdom | 293567 | [293567-fungal-fiefdom.json](./293567-fungal-fiefdom.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Funghi Explosion | 112100 | [112100-funghi-explosion.json](./112100-funghi-explosion.json) |
@@ -14730,6 +14733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
 | Funny Cats Puzzle | 386187 | [386187-funny-cats-puzzle.json](./386187-funny-cats-puzzle.json) |
+| Funny Cell Game | 220371 | [220371-funny-cell-game.json](./220371-funny-cell-game.json) |
 | Funny Circus 2 | 252425 | [252425-funny-circus-2.json](./252425-funny-circus-2.json) |
 | Funny Face | 94595 | [94595-funny-face.json](./94595-funny-face.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
@@ -14939,6 +14943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Hentai Jigsaw | 286717 | [286717-furry-hentai-jigsaw.json](./286717-furry-hentai-jigsaw.json) |
 | Furry Hentai Jigsaw 2 | 286718 | [286718-furry-hentai-jigsaw-2.json](./286718-furry-hentai-jigsaw-2.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
+| Furry Hentai Tangram | 220372 | [220372-furry-hentai-tangram.json](./220372-furry-hentai-tangram.json) |
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
 | Furry Holes | 280662 | [280662-furry-holes.json](./280662-furry-holes.json) |
