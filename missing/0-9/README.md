@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Attack on Titan | 316546 | [316546-2048-attack-on-titan.json](./316546-2048-attack-on-titan.json) |
+| 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Blocks VR | 282998 | [282998-2048-blocks-vr.json](./282998-2048-blocks-vr.json) |
 | 2048 Bosses | 358069 | [358069-2048-bosses.json](./358069-2048-bosses.json) |
