@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Tales HD | 175518 | [175518-ice-tales-hd.json](./175518-ice-tales-hd.json) |
 | Ice Trek | 18590 | [18590-ice-trek.json](./18590-ice-trek.json) |
 | Ice Truckers | 315616 | [315616-ice-truckers.json](./315616-ice-truckers.json) |
+| Ice Walker | 234950 | [234950-ice-walker.json](./234950-ice-walker.json) |
 | Ice World | 320856 | [320856-ice-world.json](./320856-ice-world.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
@@ -4298,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 110478 | [110478-infinity.json](./110478-infinity.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 176046 | [176046-infinity.json](./176046-infinity.json) |
+| Infinity | 234969 | [234969-infinity.json](./234969-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
 | Infinity | 319919 | [319919-infinity.json](./319919-infinity.json) |
 | Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
