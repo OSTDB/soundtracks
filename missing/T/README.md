@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telomeria | 323268 | [323268-telomeria.json](./323268-telomeria.json) |
 | Telophase | 99438 | [99438-telophase.json](./99438-telophase.json) |
 | Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
+| Telos Pragmaton | 207442 | [207442-telos-pragmaton.json](./207442-telos-pragmaton.json) |
 | Telstar Double Value Games: Pit-Fighter/Wrestle War | 64094 | [64094-telstar-double-value-games-pit-fighter-wrestle-war.json](./64094-telstar-double-value-games-pit-fighter-wrestle-war.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
@@ -10017,6 +10018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Chronicler | 58099 | [58099-the-fallen-chronicler.json](./58099-the-fallen-chronicler.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
 | The Fallen Eagle | 356032 | [356032-the-fallen-eagle.json](./356032-the-fallen-eagle.json) |
+| The Fallen God's Chronicles: Dmet Prison | 207410 | [207410-the-fallen-gods-chronicles-dmet-prison.json](./207410-the-fallen-gods-chronicles-dmet-prison.json) |
 | The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
 | The Fallen Kingdoms | 297935 | [297935-the-fallen-kingdoms.json](./297935-the-fallen-kingdoms.json) |
@@ -10517,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest of Conx | 258056 | [258056-the-forest-of-conx.json](./258056-the-forest-of-conx.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
 | The Forest of Drizzling Rain | 214209 | [214209-the-forest-of-drizzling-rain.json](./214209-the-forest-of-drizzling-rain.json) |
+| The Forest of Love | 207455 | [207455-the-forest-of-love.json](./207455-the-forest-of-love.json) |
 | The Forest of Noise | 362798 | [362798-the-forest-of-noise.json](./362798-the-forest-of-noise.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
 | The Forest Quartet | 159958 | [159958-the-forest-quartet.json](./159958-the-forest-quartet.json) |
@@ -25202,6 +25205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
 | Timeways | 199309 | [199309-timeways.json](./199309-timeways.json) |
+| Timewell: The Trail of Celestes | 207430 | [207430-timewell-the-trail-of-celestes.json](./207430-timewell-the-trail-of-celestes.json) |
 | Timewell: Trail of Celestes | 216397 | [216397-timewell-trail-of-celestes.json](./216397-timewell-trail-of-celestes.json) |
 | Timewinder | 288607 | [288607-timewinder.json](./288607-timewinder.json) |
 | Timeworks | 286959 | [286959-timeworks.json](./286959-timeworks.json) |
@@ -25462,6 +25466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Golf | 307505 | [307505-tiny-golf.json](./307505-tiny-golf.json) |
+| Tiny Golf Adventure | 207412 | [207412-tiny-golf-adventure.json](./207412-tiny-golf-adventure.json) |
 | Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
 | Tiny Hands Adventure | 102226 | [102226-tiny-hands-adventure.json](./102226-tiny-hands-adventure.json) |
@@ -31179,6 +31184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Northeast Corridor: New York - Philadelphia Route Add-On | 156352 | [156352-train-simulator-northeast-corridor-new-york-philadelphia-route-add-on.json](./156352-train-simulator-northeast-corridor-new-york-philadelphia-route-add-on.json) |
 | Train Simulator: Northeast Corridor: Washington DC - Baltimore Route Add-On | 156380 | [156380-train-simulator-northeast-corridor-washington-dc-baltimore-route-add-on.json](./156380-train-simulator-northeast-corridor-washington-dc-baltimore-route-add-on.json) |
 | Train Simulator: Nuremberg & Regensburg Bahn | 162568 | [162568-train-simulator-nuremberg-and-regensburg-bahn.json](./162568-train-simulator-nuremberg-and-regensburg-bahn.json) |
+| Train Simulator: ÖBB 1063 Loco | 207446 | [207446-train-simulator-obb-1063-loco.json](./207446-train-simulator-obb-1063-loco.json) |
 | Train Simulator: ÖBB 1142 Loco Add-On | 162544 | [162544-train-simulator-obb-1142-loco-add-on.json](./162544-train-simulator-obb-1142-loco-add-on.json) |
 | Train Simulator: ÖBB 1144 & CityShuttle Wiesel Loco Add-On | 162493 | [162493-train-simulator-obb-1144-and-cityshuttle-wiesel-loco-add-on.json](./162493-train-simulator-obb-1144-and-cityshuttle-wiesel-loco-add-on.json) |
 | Train Simulator: ÖBB 1822 Loco Add-On | 162502 | [162502-train-simulator-obb-1822-loco-add-on.json](./162502-train-simulator-obb-1822-loco-add-on.json) |
