@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Through Shadow, to Reach the Light. | 350292 | [350292-a-journey-through-shadow-to-reach-the-light.json](./350292-a-journey-through-shadow-to-reach-the-light.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey to Omega Station | 295245 | [295245-a-journey-to-omega-station.json](./295245-a-journey-to-omega-station.json) |
+| A Journey to the Centre of the Earth | 191287 | [191287-a-journey-to-the-centre-of-the-earth.json](./191287-a-journey-to-the-centre-of-the-earth.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Pharmaceuticals | 276745 | [276745-afterlife-pharmaceuticals.json](./276745-afterlife-pharmaceuticals.json) |
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
+| Afterlife Work | 191828 | [191828-afterlife-work.json](./191828-afterlife-work.json) |
 | Afterlife: Killing Death | 191010 | [191010-afterlife-killing-death.json](./191010-afterlife-killing-death.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlife: The Game | 318851 | [318851-afterlife-the-game.json](./318851-afterlife-the-game.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony | 79827 | [79827-agony.json](./79827-agony.json) |
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
+| Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
 | Agora | 179925 | [179925-agora.json](./179925-agora.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
@@ -5626,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
+| AgriLife | 191837 | [191837-agrilife.json](./191837-agrilife.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
 | Agro Racing | 374613 | [374613-agro-racing.json](./374613-agro-racing.json) |
