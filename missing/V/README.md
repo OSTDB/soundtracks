@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorious: Time to Shine | 9751 | [9751-victorious-time-to-shine.json](./9751-victorious-time-to-shine.json) |
 | Victory | 23570 | [23570-victory.json](./23570-victory.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
+| Victory 7 | 207452 | [207452-victory-7.json](./207452-victory-7.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
 | Victory and Glory: The American Civil War | 132487 | [132487-victory-and-glory-the-american-civil-war.json](./132487-victory-and-glory-the-american-civil-war.json) |
 | Victory at Sea | 9395 | [9395-victory-at-sea.json](./9395-victory-at-sea.json) |
