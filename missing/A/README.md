@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dinosaur's Tale | 14696 | [14696-a-dinosaurs-tale.json](./14696-a-dinosaurs-tale.json) |
 | A Dire Emergency in Space | 253157 | [253157-a-dire-emergency-in-space.json](./253157-a-dire-emergency-in-space.json) |
 | A Directionless Cycle | 329236 | [329236-a-directionless-cycle.json](./329236-a-directionless-cycle.json) |
+| A Distant Stabbing | 190131 | [190131-a-distant-stabbing.json](./190131-a-distant-stabbing.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
 | A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Doctor's Term | 297762 | [297762-a-doctors-term.json](./297762-a-doctors-term.json) |
