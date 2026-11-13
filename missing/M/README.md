@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicsea Online | 349787 | [349787-magicsea-online.json](./349787-magicsea-online.json) |
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
 | MagicShop3D | 165921 | [165921-magicshop3d.json](./165921-magicshop3d.json) |
+| Magicube | 237110 | [237110-magicube.json](./237110-magicube.json) |
 | Magiculon's Tower | 372622 | [372622-magiculons-tower.json](./372622-magiculons-tower.json) |
 | Magicus | 227904 | [227904-magicus.json](./227904-magicus.json) |
 | Magiczna Kula Papatki | 398702 | [398702-magiczna-kula-papatki.json](./398702-magiczna-kula-papatki.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
 | Mangút | 321714 | [321714-mangut.json](./321714-mangut.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
+| Manhattan | 237115 | [237115-manhattan.json](./237115-manhattan.json) |
 | Manhattan | 67462 | [67462-manhattan.json](./67462-manhattan.json) |
 | Manhattan Chase | 74030 | [74030-manhattan-chase.json](./74030-manhattan-chase.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
@@ -4902,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallows On Halloween | 272747 | [272747-marshmallows-on-halloween.json](./272747-marshmallows-on-halloween.json) |
 | Marshmello Music Dance | 259787 | [259787-marshmello-music-dance.json](./259787-marshmello-music-dance.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
+| Marshrutka | 237113 | [237113-marshrutka.json](./237113-marshrutka.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marslander | 289117 | [289117-marslander.json](./289117-marslander.json) |
 | Marsmare: Alienation | 199341 | [199341-marsmare-alienation.json](./199341-marsmare-alienation.json) |
@@ -7017,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McWorld | 283408 | [283408-mcworld.json](./283408-mcworld.json) |
 | MD Card Game 1 | 287862 | [287862-md-card-game-1.json](./287862-md-card-game-1.json) |
 | MD Card Game 2 | 287863 | [287863-md-card-game-2.json](./287863-md-card-game-2.json) |
+| MDF: Magical Defense Force | 237117 | [237117-mdf-magical-defense-force.json](./237117-mdf-magical-defense-force.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
 | MDK 2 HD | 29768 | [29768-mdk-2-hd.json](./29768-mdk-2-hd.json) |
@@ -13981,6 +13985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
 | Mini Kingdom War | 330650 | [330650-mini-kingdom-war.json](./330650-mini-kingdom-war.json) |
 | Mini Knight | 83488 | [83488-mini-knight.json](./83488-mini-knight.json) |
+| Mini Knight's Journey | 236571 | [236571-mini-knights-journey.json](./236571-mini-knights-journey.json) |
 | Mini Kyodai Robo Goemon Compact | 186457 | [186457-mini-kyodai-robo-goemon-compact.json](./186457-mini-kyodai-robo-goemon-compact.json) |
 | Mini Lax Sim 24 | 311836 | [311836-mini-lax-sim-24.json](./311836-mini-lax-sim-24.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
@@ -14918,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Kobayashi's Dragon Maid: Burst Forth!! Choro-gon Breath | 172393 | [172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json](./172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json) |
 | Miss Lisette's Assassin Maid | 118255 | [118255-miss-lisettes-assassin-maid.json](./118255-miss-lisettes-assassin-maid.json) |
+| Miss Lu | 236494 | [236494-miss-lu.json](./236494-miss-lu.json) |
 | Miss Macross | 59722 | [59722-miss-macross.json](./59722-miss-macross.json) |
 | Miss Management | 141760 | [141760-miss-management.json](./141760-miss-management.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
@@ -15849,6 +15855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobs, Inc. | 101851 | [101851-mobs-inc.json](./101851-mobs-inc.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
+| Mobspawn | 236590 | [236590-mobspawn.json](./236590-mobspawn.json) |
 | Mobsteria | 359354 | [359354-mobsteria.json](./359354-mobsteria.json) |
 | Mobsteria: Rise | 420548 | [420548-mobsteria-rise.json](./420548-mobsteria-rise.json) |
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
@@ -17515,6 +17522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
 | Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
+| Monster Racing League | 236487 | [236487-monster-racing-league.json](./236487-monster-racing-league.json) |
 | Monster Racing League: Ignition Premium Pass | 254836 | [254836-monster-racing-league-ignition-premium-pass.json](./254836-monster-racing-league-ignition-premium-pass.json) |
 | Monster Racing League: Medieval Cosmetics Pack | 254833 | [254833-monster-racing-league-medieval-cosmetics-pack.json](./254833-monster-racing-league-medieval-cosmetics-pack.json) |
 | Monster Racing League: Mythology Cosmetics Pack | 254834 | [254834-monster-racing-league-mythology-cosmetics-pack.json](./254834-monster-racing-league-mythology-cosmetics-pack.json) |
@@ -18553,6 +18561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
+| Moriarty Chronicles | 236573 | [236573-moriarty-chronicles.json](./236573-moriarty-chronicles.json) |
 | Moriarty: Endgame VR | 29069 | [29069-moriarty-endgame-vr.json](./29069-moriarty-endgame-vr.json) |
 | Moribund | 27882 | [27882-moribund.json](./27882-moribund.json) |
 | Moribund Gold: A Pirate Adventure | 401054 | [401054-moribund-gold-a-pirate-adventure.json](./401054-moribund-gold-a-pirate-adventure.json) |
@@ -19528,6 +19537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Upgrade Edition | 412584 | [412584-motorbikes-pro-2025-upgrade-edition.json](./412584-motorbikes-pro-2025-upgrade-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
+| MotorCubs RC | 237093 | [237093-motorcubs-rc.json](./237093-motorcubs-rc.json) |
 | Motorcycle Biker Simulator | 169141 | [169141-motorcycle-biker-simulator.json](./169141-motorcycle-biker-simulator.json) |
 | Motorcycle Biker Simulator: Motorcycle 4 | 170681 | [170681-motorcycle-biker-simulator-motorcycle-4.json](./170681-motorcycle-biker-simulator-motorcycle-4.json) |
 | Motorcycle Boy | 366743 | [366743-motorcycle-boy.json](./366743-motorcycle-boy.json) |
@@ -19706,6 +19716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain Mind | 29356 | [29356-mountain-mind.json](./29356-mountain-mind.json) |
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
+| Mountain Parkour | 236588 | [236588-mountain-parkour.json](./236588-mountain-parkour.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
 | Mountain Racing HD | 87394 | [87394-mountain-racing-hd.json](./87394-mountain-racing-hd.json) |
 | Mountain Rescue Simulator | 123737 | [123737-mountain-rescue-simulator.json](./123737-mountain-rescue-simulator.json) |
@@ -20886,6 +20897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy on the run | 107687 | [107687-mummy-on-the-run.json](./107687-mummy-on-the-run.json) |
+| Mummy Rumble VR | 236557 | [236557-mummy-rumble-vr.json](./236557-mummy-rumble-vr.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
 | Mummy Twist | 397511 | [397511-mummy-twist.json](./397511-mummy-twist.json) |
 | Mummy, mummy, mummy! | 165692 | [165692-mummy-mummy-mummy.json](./165692-mummy-mummy-mummy.json) |
