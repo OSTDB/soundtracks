@@ -25439,6 +25439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Seller! | 416586 | [416586-square-seller.json](./416586-square-seller.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
+| Square Sort | 219844 | [219844-square-sort.json](./219844-square-sort.json) |
 | Square Up | 184551 | [184551-square-up.json](./184551-square-up.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
@@ -38953,6 +38954,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Legends | 361838 | [361838-swords-of-legends.json](./361838-swords-of-legends.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Legends Online | 145522 | [145522-swords-of-legends-online.json](./145522-swords-of-legends-online.json) |
+| Swords of Legends Online: Collector's Edition | 219720 | [219720-swords-of-legends-online-collectors-edition.json](./219720-swords-of-legends-online-collectors-edition.json) |
+| Swords of Legends Online: Deluxe Edition | 219721 | [219721-swords-of-legends-online-deluxe-edition.json](./219721-swords-of-legends-online-deluxe-edition.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
 | Swords of Twilight | 12791 | [12791-swords-of-twilight.json](./12791-swords-of-twilight.json) |
 | Swords of Valdgir | 425863 | [425863-swords-of-valdgir.json](./425863-swords-of-valdgir.json) |
