@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Futa House: Dirty Election | 378216 | [378216-femboy-futa-house-dirty-election.json](./378216-femboy-futa-house-dirty-election.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboy Streamer | 349727 | [349727-femboy-streamer.json](./349727-femboy-streamer.json) |
+| Femboys & Fries | 211837 | [211837-femboys-and-fries.json](./211837-femboys-and-fries.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdemic | 259924 | [259924-femdemic.json](./259924-femdemic.json) |
 | Femdom Farm | 310906 | [310906-femdom-farm.json](./310906-femdom-farm.json) |
@@ -14468,6 +14469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist 2: Curse of the Crimson Elixir | 19072 | [19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json](./19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json) |
 | Fullmetal Alchemist 3: Kami wo Tsugu Shoujo | 57443 | [57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json](./57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json) |
 | Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
+| Fullmetal Alchemist Mobile | 211841 | [211841-fullmetal-alchemist-mobile.json](./211841-fullmetal-alchemist-mobile.json) |
 | Fullmetal Alchemist: Brotherhood | 25172 | [25172-fullmetal-alchemist-brotherhood.json](./25172-fullmetal-alchemist-brotherhood.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
 | Fullmetal Alchemist: Dream Carnival | 43405 | [43405-fullmetal-alchemist-dream-carnival.json](./43405-fullmetal-alchemist-dream-carnival.json) |
