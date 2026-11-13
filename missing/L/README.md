@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lataman | 188495 | [188495-lataman.json](./188495-lataman.json) |
 | Latangerine Last Journey | 116277 | [116277-latangerine-last-journey.json](./116277-latangerine-last-journey.json) |
 | Latarnik | 352360 | [352360-latarnik.json](./352360-latarnik.json) |
+| Latarnix Puzzle | 190183 | [190183-latarnix-puzzle.json](./190183-latarnix-puzzle.json) |
 | Late Amusement | 361821 | [361821-late-amusement.json](./361821-late-amusement.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
 | Late City Riders | 117592 | [117592-late-city-riders.json](./117592-late-city-riders.json) |
