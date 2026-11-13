@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have A Delivery | 328038 | [328038-you-have-a-delivery.json](./328038-you-have-a-delivery.json) |
 | You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
+| You Have No Legs | 242831 | [242831-you-have-no-legs.json](./242831-you-have-no-legs.json) |
 | You Have No Time | 244854 | [244854-you-have-no-time.json](./244854-you-have-no-time.json) |
 | You Have One Shot | 390120 | [390120-you-have-one-shot.json](./390120-you-have-one-shot.json) |
 | You Have Reached the End | 393259 | [393259-you-have-reached-the-end.json](./393259-you-have-reached-the-end.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Earth | 293700 | [293700-your-earth.json](./293700-your-earth.json) |
 | Your Fairytale | 97159 | [97159-your-fairytale.json](./97159-your-fairytale.json) |
 | Your Fear | 151000 | [151000-your-fear.json](./151000-your-fear.json) |
+| Your Final Days | 242742 | [242742-your-final-days.json](./242742-your-final-days.json) |
 | Your Financial Story | 193675 | [193675-your-financial-story.json](./193675-your-financial-story.json) |
 | Your First Girlfriend | 153043 | [153043-your-first-girlfriend.json](./153043-your-first-girlfriend.json) |
 | Your Forever Friend | 375081 | [375081-your-forever-friend.json](./375081-your-forever-friend.json) |
