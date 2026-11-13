@@ -7338,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
 | It's Paper Guy! | 105035 | [105035-its-paper-guy.json](./105035-its-paper-guy.json) |
 | It's possible | 111536 | [111536-its-possible.json](./111536-its-possible.json) |
+| It's Pretty Dark... | 180874 | [180874-its-pretty-dark.json](./180874-its-pretty-dark.json) |
 | It's Puzzles: Wild Nature | 257882 | [257882-its-puzzles-wild-nature.json](./257882-its-puzzles-wild-nature.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
