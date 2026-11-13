@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mausoleum of Memories | 295078 | [295078-mausoleum-of-memories.json](./295078-mausoleum-of-memories.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Mausuke no Ojama the World | 114036 | [114036-mausuke-no-ojama-the-world.json](./114036-mausuke-no-ojama-the-world.json) |
+| Mauvairdenai | 183086 | [183086-mauvairdenai.json](./183086-mauvairdenai.json) |
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
@@ -14662,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
 | Minute of Islands | 121524 | [121524-minute-of-islands.json](./121524-minute-of-islands.json) |
 | Minute of Mayhem | 108168 | [108168-minute-of-mayhem.json](./108168-minute-of-mayhem.json) |
+| Minute of Rage | 183488 | [183488-minute-of-rage.json](./183488-minute-of-rage.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
 | Minute to Win It | 418289 | [418289-minute-to-win-it.json](./418289-minute-to-win-it.json) |
 | MinuteDungeon | 144219 | [144219-minutedungeon.json](./144219-minutedungeon.json) |
