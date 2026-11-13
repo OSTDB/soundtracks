@@ -5080,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
 | Catography | 251067 | [251067-catography.json](./251067-catography.json) |
+| Catoise | 190250 | [190250-catoise.json](./190250-catoise.json) |
 | Catolonizer | 363325 | [363325-catolonizer.json](./363325-catolonizer.json) |
 | Catomic | 27432 | [27432-catomic.json](./27432-catomic.json) |
 | Catonium: Out of Chaos | 302856 | [302856-catonium-out-of-chaos.json](./302856-catonium-out-of-chaos.json) |
@@ -21429,6 +21430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of Five | 381923 | [381923-cult-of-five.json](./381923-cult-of-five.json) |
 | Cult of Flies | 346868 | [346868-cult-of-flies.json](./346868-cult-of-flies.json) |
 | Cult of Lily | 383586 | [383586-cult-of-lily.json](./383586-cult-of-lily.json) |
+| Cult of Mine | 190240 | [190240-cult-of-mine.json](./190240-cult-of-mine.json) |
 | Cult of Persona | 339354 | [339354-cult-of-persona.json](./339354-cult-of-persona.json) |
 | Cult of Personality | 244029 | [244029-cult-of-personality.json](./244029-cult-of-personality.json) |
 | Cult of Pin | 351132 | [351132-cult-of-pin.json](./351132-cult-of-pin.json) |
@@ -22143,6 +22145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cats Puzzles | 104221 | [104221-cute-cats-puzzles.json](./104221-cute-cats-puzzles.json) |
 | Cute Cats Slide | 277932 | [277932-cute-cats-slide.json](./277932-cute-cats-slide.json) |
 | Cute Chaos Demon Nyanbaba | 232907 | [232907-cute-chaos-demon-nyanbaba.json](./232907-cute-chaos-demon-nyanbaba.json) |
+| Cute Chess | 190253 | [190253-cute-chess.json](./190253-cute-chess.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Critters Pet Kitty | 278488 | [278488-cute-critters-pet-kitty.json](./278488-cute-critters-pet-kitty.json) |
 | Cute Cute Cuties | 368065 | [368065-cute-cute-cuties.json](./368065-cute-cute-cuties.json) |
@@ -22151,6 +22154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Dentist @ Little Doctor Nose Office | 99340 | [99340-cute-dentist-little-doctor-nose-office.json](./99340-cute-dentist-little-doctor-nose-office.json) |
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dog Caring | 90339 | [90339-cute-dog-caring.json](./90339-cute-dog-caring.json) |
+| Cute Dogs | 190254 | [190254-cute-dogs.json](./190254-cute-dogs.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Dragon Yongyong | 170631 | [170631-cute-dragon-yongyong.json](./170631-cute-dragon-yongyong.json) |
 | Cute Fame Highschool Days | 367992 | [367992-cute-fame-highschool-days.json](./367992-cute-fame-highschool-days.json) |
