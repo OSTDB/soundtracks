@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
 | Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
+| Fashion Friends | 219306 | [219306-fashion-friends.json](./219306-fashion-friends.json) |
 | Fashion Friends: Gold Edition | 317257 | [317257-fashion-friends-gold-edition.json](./317257-fashion-friends-gold-edition.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
 | Fashion Friends: Special Edition | 259585 | [259585-fashion-friends-special-edition.json](./259585-fashion-friends-special-edition.json) |
@@ -5683,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
+| Final Knight | 219308 | [219308-final-knight.json](./219308-final-knight.json) |
 | Final Lap | 218367 | [218367-final-lap.json](./218367-final-lap.json) |
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Lap 3 | 337555 | [337555-final-lap-3.json](./337555-final-lap-3.json) |
@@ -6147,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Shot RPG | 205007 | [205007-finger-shot-rpg.json](./205007-finger-shot-rpg.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Finger Slayer: WILD | 354717 | [354717-finger-slayer-wild.json](./354717-finger-slayer-wild.json) |
+| Finger Soccer | 219310 | [219310-finger-soccer.json](./219310-finger-soccer.json) |
 | Finger Soccer | 348158 | [348158-finger-soccer.json](./348158-finger-soccer.json) |
 | Finger Soccer League | 291171 | [291171-finger-soccer-league.json](./291171-finger-soccer-league.json) |
 | Finger Suck | 300782 | [300782-finger-suck.json](./300782-finger-suck.json) |
@@ -9338,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Me To The Home! | 296566 | [296566-fly-me-to-the-home.json](./296566-fly-me-to-the-home.json) |
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
 | Fly Me to the Stars | 241443 | [241443-fly-me-to-the-stars.json](./241443-fly-me-to-the-stars.json) |
+| Fly Missions | 219313 | [219313-fly-missions.json](./219313-fly-missions.json) |
 | Fly O'Clock | 20400 | [20400-fly-oclock.json](./20400-fly-oclock.json) |
 | Fly O'Clock: VS Edition | 220928 | [220928-fly-oclock-vs-edition.json](./220928-fly-oclock-vs-edition.json) |
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
@@ -10000,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Clubs | 306056 | [306056-football-clubs.json](./306056-football-clubs.json) |
 | Football Coach the Game 2022 | 167482 | [167482-football-coach-the-game-2022.json](./167482-football-coach-the-game-2022.json) |
+| Football Coach: College Dynasty | 219314 | [219314-football-coach-college-dynasty.json](./219314-football-coach-college-dynasty.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
 | Football Cup 2022 | 187296 | [187296-football-cup-2022.json](./187296-football-cup-2022.json) |
@@ -10438,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Valley | 269766 | [269766-forbidden-valley.json](./269766-forbidden-valley.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forbidden Z | 340090 | [340090-forbidden-z.json](./340090-forbidden-z.json) |
+| Forbidden zone | 219315 | [219315-forbidden-zone.json](./219315-forbidden-zone.json) |
 | Forbidden: A First's Obsession | 402364 | [402364-forbidden-a-firsts-obsession.json](./402364-forbidden-a-firsts-obsession.json) |
 | Forbidden.exe | 73618 | [73618-forbidden-exe.json](./73618-forbidden-exe.json) |
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
@@ -10542,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Dash | 157832 | [157832-forest-dash.json](./157832-forest-dash.json) |
 | Forest Defenders | 240920 | [240920-forest-defenders.json](./240920-forest-defenders.json) |
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
+| Forest Dongmul | 219316 | [219316-forest-dongmul.json](./219316-forest-dongmul.json) |
 | Forest Dungeon | 389487 | [389487-forest-dungeon.json](./389487-forest-dungeon.json) |
 | Forest Escape | 74230 | [74230-forest-escape.json](./74230-forest-escape.json) |
 | Forest Escape: Last Train | 389724 | [389724-forest-escape-last-train.json](./389724-forest-escape-last-train.json) |
@@ -10631,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
 | Forest Spirit | 261679 | [261679-forest-spirit.json](./261679-forest-spirit.json) |
 | Forest Spirit | 406266 | [406266-forest-spirit.json](./406266-forest-spirit.json) |
+| Forest Spring | 219317 | [219317-forest-spring.json](./219317-forest-spring.json) |
 | Forest Star | 189356 | [189356-forest-star.json](./189356-forest-star.json) |
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
@@ -10732,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge Horizon | 235805 | [235805-forge-horizon.json](./235805-forge-horizon.json) |
+| Forge Industry | 219319 | [219319-forge-industry.json](./219319-forge-industry.json) |
 | Forge Master | 380481 | [380481-forge-master.json](./380481-forge-master.json) |
 | Forge of Destiny | 226348 | [226348-forge-of-destiny.json](./226348-forge-of-destiny.json) |
 | Forge of Empires | 62923 | [62923-forge-of-empires.json](./62923-forge-of-empires.json) |
@@ -13439,6 +13448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 218581 | [218581-frogger.json](./218581-frogger.json) |
 | Frogger | 218590 | [218590-frogger.json](./218590-frogger.json) |
 | Frogger | 218591 | [218591-frogger.json](./218591-frogger.json) |
+| Frogger | 218768 | [218768-frogger.json](./218768-frogger.json) |
 | Frogger | 231813 | [231813-frogger.json](./231813-frogger.json) |
 | Frogger | 239552 | [239552-frogger.json](./239552-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
@@ -13521,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy's Adventures | 255654 | [255654-froggys-adventures.json](./255654-froggys-adventures.json) |
 | Froggy's Battle | 229257 | [229257-froggys-battle.json](./229257-froggys-battle.json) |
 | Froggy's Farm & Friends | 211047 | [211047-froggys-farm-and-friends.json](./211047-froggys-farm-and-friends.json) |
+| Frogice | 219307 | [219307-frogice.json](./219307-frogice.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
@@ -14813,6 +14824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furball | 92127 | [92127-furball.json](./92127-furball.json) |
 | Furball Blitz! | 297873 | [297873-furball-blitz.json](./297873-furball-blitz.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
+| Furball Over the Front: 1938 | 219190 | [219190-furball-over-the-front-1938.json](./219190-furball-over-the-front-1938.json) |
 | Furballs | 180467 | [180467-furballs.json](./180467-furballs.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
