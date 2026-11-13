@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
 | Paku Paku | 50327 | [50327-paku-paku.json](./50327-paku-paku.json) |
 | Pakucchauzo! | 160188 | [160188-pakucchauzo.json](./160188-pakucchauzo.json) |
+| Pal | 226389 | [226389-pal.json](./226389-pal.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
 | Pal Up! | 294094 | [294094-pal-up.json](./294094-pal-up.json) |
@@ -13163,6 +13164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
+| Poly Shoot | 226391 | [226391-poly-shoot.json](./226391-poly-shoot.json) |
 | Poly Shooter | 228200 | [228200-poly-shooter.json](./228200-poly-shooter.json) |
 | Poly Shooting Simulator | 277886 | [277886-poly-shooting-simulator.json](./277886-poly-shooting-simulator.json) |
 | Poly Skies | 199230 | [199230-poly-skies.json](./199230-poly-skies.json) |
@@ -20488,6 +20490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrene | 260275 | [260275-pyrene.json](./260275-pyrene.json) |
 | Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
+| Pyrmd | 226394 | [226394-pyrmd.json](./226394-pyrmd.json) |
 | Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
