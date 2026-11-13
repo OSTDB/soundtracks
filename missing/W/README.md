@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Team3 Gets Bored | 330091 | [330091-when-team3-gets-bored.json](./330091-when-team3-gets-bored.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When The Bell Goes Silent | 356517 | [356517-when-the-bell-goes-silent.json](./356517-when-the-bell-goes-silent.json) |
+| When the Bomb Goes Off | 188621 | [188621-when-the-bomb-goes-off.json](./188621-when-the-bomb-goes-off.json) |
 | When the Crow Sings | 341748 | [341748-when-the-crow-sings.json](./341748-when-the-crow-sings.json) |
 | When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
 | When the Embers Wake | 381581 | [381581-when-the-embers-wake.json](./381581-when-the-embers-wake.json) |
