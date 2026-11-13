@@ -6779,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroko no Basket: Shouri he no Kiseki | 63054 | [63054-kuroko-no-basket-shouri-he-no-kiseki.json](./63054-kuroko-no-basket-shouri-he-no-kiseki.json) |
 | Kuromaku | 391323 | [391323-kuromaku.json](./391323-kuromaku.json) |
 | Kuromifying the World Game | 356541 | [356541-kuromifying-the-world-game.json](./356541-kuromifying-the-world-game.json) |
+| Kuron and the Jelly Islands | 201734 | [201734-kuron-and-the-jelly-islands.json](./201734-kuron-and-the-jelly-islands.json) |
 | Kurone's Feelings: Apprentice Witch of Starfall Village | 371126 | [371126-kurones-feelings-apprentice-witch-of-starfall-village.json](./371126-kurones-feelings-apprentice-witch-of-starfall-village.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuroobi | 272462 | [272462-kuroobi.json](./272462-kuroobi.json) |
