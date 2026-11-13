@@ -13613,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
 | Colorizing: Sunrise | 334987 | [334987-colorizing-sunrise.json](./334987-colorizing-sunrise.json) |
 | Colorizing: Sunshine | 389049 | [389049-colorizing-sunshine.json](./389049-colorizing-sunshine.json) |
+| Colorless | 235500 | [235500-colorless.json](./235500-colorless.json) |
 | Colorless | 380078 | [380078-colorless.json](./380078-colorless.json) |
 | Colorless Kaina | 222351 | [222351-colorless-kaina.json](./222351-colorless-kaina.json) |
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
@@ -18550,6 +18551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy World | 189026 | [189026-crazy-world.json](./189026-crazy-world.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
+| Crazy World VR | 235522 | [235522-crazy-world-vr.json](./235522-crazy-world-vr.json) |
 | Crazy Zen Codeword | 185902 | [185902-crazy-zen-codeword.json](./185902-crazy-zen-codeword.json) |
 | Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
 | Crazy_Run | 175488 | [175488-crazy-run.json](./175488-crazy-run.json) |
