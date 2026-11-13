@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
 | Halloween Night Mahjong | 156831 | [156831-halloween-night-mahjong.json](./156831-halloween-night-mahjong.json) |
+| Halloween Night Mahjong 2 | 172227 | [172227-halloween-night-mahjong-2.json](./172227-halloween-night-mahjong-2.json) |
 | Halloween Night(Mare) | 145165 | [145165-halloween-night-mare.json](./145165-halloween-night-mare.json) |
 | Halloween on Goober Street | 423620 | [423620-halloween-on-goober-street.json](./423620-halloween-on-goober-street.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
@@ -13362,6 +13363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
 | Hunting Simulator | 27697 | [27697-hunting-simulator.json](./27697-hunting-simulator.json) |
 | Hunting Simulator 2 | 130000 | [130000-hunting-simulator-2.json](./130000-hunting-simulator-2.json) |
+| Hunting Simulator 2: A Ranger's Life | 172235 | [172235-hunting-simulator-2-a-rangers-life.json](./172235-hunting-simulator-2-a-rangers-life.json) |
 | Hunting Simulator 2: Bear Hunter Edition | 164746 | [164746-hunting-simulator-2-bear-hunter-edition.json](./164746-hunting-simulator-2-bear-hunter-edition.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
