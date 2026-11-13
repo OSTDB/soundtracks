@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 4: Expert Level Skirmishes | 304755 | [304755-valkyria-chronicles-4-expert-level-skirmishes.json](./304755-valkyria-chronicles-4-expert-level-skirmishes.json) |
 | Valkyria Chronicles 4: Launch Edition | 136324 | [136324-valkyria-chronicles-4-launch-edition.json](./136324-valkyria-chronicles-4-launch-edition.json) |
 | Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
+| Valkyria Chronicles 4: The Two Valkyria | 171139 | [171139-valkyria-chronicles-4-the-two-valkyria.json](./171139-valkyria-chronicles-4-the-two-valkyria.json) |
 | Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
 | Valkyria Chronicles Remastered | 18967 | [18967-valkyria-chronicles-remastered.json](./18967-valkyria-chronicles-remastered.json) |
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
@@ -4318,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
 | VR Horror | 99273 | [99273-vr-horror.json](./99273-vr-horror.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
+| VR Hot | 171128 | [171128-vr-hot.json](./171128-vr-hot.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
