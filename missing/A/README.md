@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
+| Abashment | 201766 | [201766-abashment.json](./201766-abashment.json) |
 | Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
 | Abathor | 237174 | [237174-abathor.json](./237174-abathor.json) |
 | Abathor: Atlantis Landing | 247789 | [247789-abathor-atlantis-landing.json](./247789-abathor-atlantis-landing.json) |
@@ -6955,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Rogue: Mia and the Mystery Labyrinth | 397497 | [397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json](./397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
+| Alchemia: Creatio Ex Nihilo | 201600 | [201600-alchemia-creatio-ex-nihilo.json](./201600-alchemia-creatio-ex-nihilo.json) |
 | Alchemic Beasts | 303138 | [303138-alchemic-beasts.json](./303138-alchemic-beasts.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Dungeons | 54657 | [54657-alchemic-dungeons.json](./54657-alchemic-dungeons.json) |
@@ -14798,6 +14800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area D | 102870 | [102870-area-d.json](./102870-area-d.json) |
 | Area F2 | 133607 | [133607-area-f2.json](./133607-area-f2.json) |
 | Area Man Lives | 130141 | [130141-area-man-lives.json](./130141-area-man-lives.json) |
+| Area Man Lives | 201728 | [201728-area-man-lives.json](./201728-area-man-lives.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
