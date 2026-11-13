@@ -14206,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel - Deluxe Edition | 164582 | [164582-fuga-melodies-of-steel-deluxe-edition.json](./164582-fuga-melodies-of-steel-deluxe-edition.json) |
 | Fuga: Melodies of Steel - Fantasy Costume Pack | 284455 | [284455-fuga-melodies-of-steel-fantasy-costume-pack.json](./284455-fuga-melodies-of-steel-fantasy-costume-pack.json) |
 | Fuga: Melodies of Steel - Ultimate Edition | 283145 | [283145-fuga-melodies-of-steel-ultimate-edition.json](./283145-fuga-melodies-of-steel-ultimate-edition.json) |
+| Fuga: Melodies of Steel - Way of the Sword Costume Pack | 228027 | [228027-fuga-melodies-of-steel-way-of-the-sword-costume-pack.json](./228027-fuga-melodies-of-steel-way-of-the-sword-costume-pack.json) |
 | Fuga: Melodies of Steel 1 & 2 - Double Pack | 310364 | [310364-fuga-melodies-of-steel-1-and-2-double-pack.json](./310364-fuga-melodies-of-steel-1-and-2-double-pack.json) |
 | Fuga: Melodies of Steel 2 | 212264 | [212264-fuga-melodies-of-steel-2.json](./212264-fuga-melodies-of-steel-2.json) |
 | Fuga: Melodies of Steel 2 - Animal Costume Pack | 278520 | [278520-fuga-melodies-of-steel-2-animal-costume-pack.json](./278520-fuga-melodies-of-steel-2-animal-costume-pack.json) |
