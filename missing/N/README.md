@@ -6419,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Prospect Company | 99087 | [99087-no-prospect-company.json](./99087-no-prospect-company.json) |
 | No Prospects | 423078 | [423078-no-prospects.json](./423078-no-prospects.json) |
 | No Questions Asked | 231191 | [231191-no-questions-asked.json](./231191-no-questions-asked.json) |
+| No Rage Quit Dude | 190180 | [190180-no-rage-quit-dude.json](./190180-no-rage-quit-dude.json) |
 | No Random Novels | 226127 | [226127-no-random-novels.json](./226127-no-random-novels.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
 | No Recollection | 270075 | [270075-no-recollection.json](./270075-no-recollection.json) |
@@ -6505,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Turning Back: The Pixel Art Action-Adventure Roguelike | 35547 | [35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json](./35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json) |
 | No Turning Back: The Pixel Art Action-Adventure Roguelike - Potions Starter Pack | 155266 | [155266-no-turning-back-the-pixel-art-action-adventure-roguelike-potions-starter-pack.json](./155266-no-turning-back-the-pixel-art-action-adventure-roguelike-potions-starter-pack.json) |
+| No Tyrant | 190119 | [190119-no-tyrant.json](./190119-no-tyrant.json) |
 | No Umbrellas Allowed | 137436 | [137436-no-umbrellas-allowed.json](./137436-no-umbrellas-allowed.json) |
 | No Vacancy Tonight | 267829 | [267829-no-vacancy-tonight.json](./267829-no-vacancy-tonight.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
