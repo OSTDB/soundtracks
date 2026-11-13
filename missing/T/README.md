@@ -8257,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Covenant | 13526 | [13526-the-covenant.json](./13526-the-covenant.json) |
 | The Coveted Mirror | 25038 | [25038-the-coveted-mirror.json](./25038-the-coveted-mirror.json) |
 | The Cow Flew Over the Moon | 8368 | [8368-the-cow-flew-over-the-moon.json](./8368-the-cow-flew-over-the-moon.json) |
+| The Cow G | 194515 | [194515-the-cow-g.json](./194515-the-cow-g.json) |
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cowlitz Gamers Adventure | 241673 | [241673-the-cowlitz-gamers-adventure.json](./241673-the-cowlitz-gamers-adventure.json) |
@@ -9790,6 +9791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Essence Reaper Ritual | 51412 | [51412-the-essence-reaper-ritual.json](./51412-the-essence-reaper-ritual.json) |
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
 | The Eternal Adventure | 73679 | [73679-the-eternal-adventure.json](./73679-the-eternal-adventure.json) |
+| The Eternal Battlefields | 194530 | [194530-the-eternal-battlefields.json](./194530-the-eternal-battlefields.json) |
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal City | 143241 | [143241-the-eternal-city.json](./143241-the-eternal-city.json) |
 | The Eternal Cylinder | 121715 | [121715-the-eternal-cylinder.json](./121715-the-eternal-cylinder.json) |
@@ -27426,6 +27428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomomon: Legacy of Light | 242514 | [242514-tomomon-legacy-of-light.json](./242514-tomomon-legacy-of-light.json) |
 | Tomoni | 256676 | [256676-tomoni.json](./256676-tomoni.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
+| Tomorrow | 194042 | [194042-tomorrow.json](./194042-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
 | Tomorrow Don't Come | 88255 | [88255-tomorrow-dont-come.json](./88255-tomorrow-dont-come.json) |
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
@@ -33934,6 +33937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripline | 87800 | [87800-tripline.json](./87800-tripline.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
 | Tripper | 296151 | [296151-tripper.json](./296151-tripper.json) |
+| Trippers: Kanojo to no Gakuen Seikatsu o Hakai Suru, Ittsuu no Tegami | 194485 | [194485-trippers-kanojo-to-no-gakuen-seikatsu-o-hakai-suru-ittsuu-no-tegami.json](./194485-trippers-kanojo-to-no-gakuen-seikatsu-o-hakai-suru-ittsuu-no-tegami.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | Trippy Tavern | 207575 | [207575-trippy-tavern.json](./207575-trippy-tavern.json) |
 | Trippy Trader: Schedule & Sell | 362214 | [362214-trippy-trader-schedule-and-sell.json](./362214-trippy-trader-schedule-and-sell.json) |
@@ -34059,6 +34063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
 | Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
 | Trivial Pursuit Featuring The Simpsons | 364836 | [364836-trivial-pursuit-featuring-the-simpsons.json](./364836-trivial-pursuit-featuring-the-simpsons.json) |
+| Trivial Pursuit Live! 2 | 194494 | [194494-trivial-pursuit-live-2.json](./194494-trivial-pursuit-live-2.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
 | Trivial Pursuit: Bet You Know It | 51114 | [51114-trivial-pursuit-bet-you-know-it.json](./51114-trivial-pursuit-bet-you-know-it.json) |
