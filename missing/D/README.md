@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Seven | 60277 | [60277-dark-seven.json](./60277-dark-seven.json) |
 | Dark Shadows | 419377 | [419377-dark-shadows.json](./419377-dark-shadows.json) |
 | Dark Sheep | 150884 | [150884-dark-sheep.json](./150884-dark-sheep.json) |
+| Dark Sheep: Master Chapter | 197299 | [197299-dark-sheep-master-chapter.json](./197299-dark-sheep-master-chapter.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shores | 29971 | [29971-dark-shores.json](./29971-dark-shores.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
@@ -11068,6 +11069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
 | Disc Golf Valley VR | 158107 | [158107-disc-golf-valley-vr.json](./158107-disc-golf-valley-vr.json) |
 | Disc Golf VR | 101325 | [101325-disc-golf-vr.json](./101325-disc-golf-vr.json) |
+| Disc Golf: Game On | 197309 | [197309-disc-golf-game-on.json](./197309-disc-golf-game-on.json) |
 | Disc League | 29500 | [29500-disc-league.json](./29500-disc-league.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
@@ -14334,6 +14336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
 | Doom & Destiny Worlds: Damsels & Dragons | 251099 | [251099-doom-and-destiny-worlds-damsels-and-dragons.json](./251099-doom-and-destiny-worlds-damsels-and-dragons.json) |
 | Doom & Destiny Worlds: Fantastic Quests and Where to Find Them | 197572 | [197572-doom-and-destiny-worlds-fantastic-quests-and-where-to-find-them.json](./197572-doom-and-destiny-worlds-fantastic-quests-and-where-to-find-them.json) |
+| Doom & Destiny Worlds: Iron Nerds | 197301 | [197301-doom-and-destiny-worlds-iron-nerds.json](./197301-doom-and-destiny-worlds-iron-nerds.json) |
 | Doom & Destiny Worlds: Randomicity | 208831 | [208831-doom-and-destiny-worlds-randomicity.json](./208831-doom-and-destiny-worlds-randomicity.json) |
 | Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
@@ -17796,6 +17799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlike Love with Seira | 314376 | [314376-dreamlike-love-with-seira.json](./314376-dreamlike-love-with-seira.json) |
 | Dreamlike Worlds | 28349 | [28349-dreamlike-worlds.json](./28349-dreamlike-worlds.json) |
 | Dreamline 404 | 339567 | [339567-dreamline-404.json](./339567-dreamline-404.json) |
+| Dreamlined | 197166 | [197166-dreamlined.json](./197166-dreamlined.json) |
 | Dreamlocked | 350703 | [350703-dreamlocked.json](./350703-dreamlocked.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
