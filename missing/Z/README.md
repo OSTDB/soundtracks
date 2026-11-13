@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeke's Peak | 119491 | [119491-zekes-peak.json](./119491-zekes-peak.json) |
 | Zekertune | 350318 | [350318-zekertune.json](./350318-zekertune.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
+| Zekkyou Senshi: Sakeburein | 210806 | [210806-zekkyou-senshi-sakeburein.json](./210806-zekkyou-senshi-sakeburein.json) |
 | Zeko | 150287 | [150287-zeko.json](./150287-zeko.json) |
 | Zektor | 24638 | [24638-zektor.json](./24638-zektor.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
