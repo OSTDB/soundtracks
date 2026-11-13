@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Games VR | 115611 | [115611-table-games-vr.json](./115611-table-games-vr.json) |
 | Table Gun | 191092 | [191092-table-gun.json](./191092-table-gun.json) |
 | Table Ice Hockey | 64348 | [64348-table-ice-hockey.json](./64348-table-ice-hockey.json) |
+| Table Knights | 180176 | [180176-table-knights.json](./180176-table-knights.json) |
 | Table Letters | 283837 | [283837-table-letters.json](./283837-table-letters.json) |
 | Table Magic | 230707 | [230707-table-magic.json](./230707-table-magic.json) |
 | Table Mini Golf | 63631 | [63631-table-mini-golf.json](./63631-table-mini-golf.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleport | 284707 | [284707-teleport.json](./284707-teleport.json) |
 | Teleport Jumper | 312044 | [312044-teleport-jumper.json](./312044-teleport-jumper.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
+| Teleport Tower | 179756 | [179756-teleport-tower.json](./179756-teleport-tower.json) |
 | Teleport VR | 240646 | [240646-teleport-vr.json](./240646-teleport-vr.json) |
 | Teleportal | 323580 | [323580-teleportal.json](./323580-teleportal.json) |
 | Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
@@ -9401,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duskbloods | 338104 | [338104-the-duskbloods.json](./338104-the-duskbloods.json) |
 | The Dust | 103059 | [103059-the-dust.json](./103059-the-dust.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
+| The Dust of the Violet Crystals | 180158 | [180158-the-dust-of-the-violet-crystals.json](./180158-the-dust-of-the-violet-crystals.json) |
 | The DvD Idle Game | 373325 | [373325-the-dvd-idle-game.json](./373325-the-dvd-idle-game.json) |
 | The Dwarf | 257879 | [257879-the-dwarf.json](./257879-the-dwarf.json) |
 | The Dwarf Kingdom | 310903 | [310903-the-dwarf-kingdom.json](./310903-the-dwarf-kingdom.json) |
@@ -11302,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Hornet: Wheels of Justice | 66022 | [66022-the-green-hornet-wheels-of-justice.json](./66022-the-green-hornet-wheels-of-justice.json) |
+| The Green Legion | 179776 | [179776-the-green-legion.json](./179776-the-green-legion.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
 | The Green Machine | 265992 | [265992-the-green-machine.json](./265992-the-green-machine.json) |
 | The Green Myste | 23549 | [23549-the-green-myste.json](./23549-the-green-myste.json) |
@@ -12075,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Beloved 2 | 284262 | [284262-the-immortal-beloved-2.json](./284262-the-immortal-beloved-2.json) |
 | The Immortal Is Watching | 403077 | [403077-the-immortal-is-watching.json](./403077-the-immortal-is-watching.json) |
 | The Immortal John Triptych | 412111 | [412111-the-immortal-john-triptych.json](./412111-the-immortal-john-triptych.json) |
+| The Immortal Kingdom | 179761 | [179761-the-immortal-kingdom.json](./179761-the-immortal-kingdom.json) |
 | The Immortal Lock | 308269 | [308269-the-immortal-lock.json](./308269-the-immortal-lock.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
@@ -16691,6 +16696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Qin Empire | 148081 | [148081-the-qin-empire.json](./148081-the-qin-empire.json) |
 | The Qin Empire | 224895 | [224895-the-qin-empire.json](./224895-the-qin-empire.json) |
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
+| The Quacken | 180181 | [180181-the-quacken.json](./180181-the-quacken.json) |
 | The Quaddle Family Mysteries 1: The Case of the Scarce Scarab - Lobby / Kitchen | 278214 | [278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json](./278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json) |
 | The Quarantine | 327118 | [327118-the-quarantine.json](./327118-the-quarantine.json) |
 | The Quarantine Sector | 371429 | [371429-the-quarantine-sector.json](./371429-the-quarantine-sector.json) |
@@ -24942,6 +24948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Break Chronicles | 138400 | [138400-time-break-chronicles.json](./138400-time-break-chronicles.json) |
 | Time Breaker | 256666 | [256666-time-breaker.json](./256666-time-breaker.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
+| Time Bricks | 180171 | [180171-time-bricks.json](./180171-time-bricks.json) |
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
 | Time Chaos | 399403 | [399403-time-chaos.json](./399403-time-chaos.json) |
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
