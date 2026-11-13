@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kage | 400586 | [400586-kage.json](./400586-kage.json) |
 | Kage Fumazu | 98056 | [98056-kage-fumazu.json](./98056-kage-fumazu.json) |
 | Kage-chara Love-Com | 253668 | [253668-kage-chara-love-com.json](./253668-kage-chara-love-com.json) |
+| Kage, Souzou, In | 201199 | [201199-kage-souzou-in.json](./201199-kage-souzou-in.json) |
 | Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
 | Kageki | 39726 | [39726-kageki.json](./39726-kageki.json) |
 | Kagenazo | 403985 | [403985-kagenazo.json](./403985-kagenazo.json) |
@@ -5802,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Kono Yokubukai Game ni Shinpan Wo!: Limited Edition | 165900 | [165900-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo-limited-edition.json](./165900-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo-limited-edition.json) |
+| Kono Subarashii Sekai ni Shukufuku Wo! Noroi no Ibutsu to Madoishi Bokensha-tachi: Limited Edition | 201064 | [201064-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-bokensha-tachi-limited-edition.json](./201064-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-bokensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Noroi no Ibutsu to Madoishi Boukensha-tachi | 197605 | [197605-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi.json](./197605-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi.json) |
 | Kono Subarashii Sekai ni Shukufuku wo! Noroi no Ibutsu to Madoishi Boukensha-tachi: Complete Edition | 197606 | [197606-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi-complete-edition.json](./197606-kono-subarashii-sekai-ni-shukufuku-wo-noroi-no-ibutsu-to-madoishi-boukensha-tachi-complete-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Attack of the Destroyer! | 145938 | [145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json](./145938-kono-subarashii-sekai-ni-shukufuku-wo-attack-of-the-destroyer.json) |
@@ -6967,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoto Tanoji Quest | 30420 | [30420-kyoto-tanoji-quest.json](./30420-kyoto-tanoji-quest.json) |
 | Kyoto Xanadu: The Blooming Phantom | 388439 | [388439-kyoto-xanadu-the-blooming-phantom.json](./388439-kyoto-xanadu-the-blooming-phantom.json) |
 | Kyotokei | 85236 | [85236-kyotokei.json](./85236-kyotokei.json) |
+| Kyou Kara Maou! Shin Makoku no Kyuujitsu | 201192 | [201192-kyou-kara-maou-shin-makoku-no-kyuujitsu.json](./201192-kyou-kara-maou-shin-makoku-no-kyuujitsu.json) |
 | Kyou Kara Maou!: Hajimari no Tabi | 200991 | [200991-kyou-kara-maou-hajimari-no-tabi.json](./200991-kyou-kara-maou-hajimari-no-tabi.json) |
 | Kyou Kara Maou!: Ore-sama Quest | 200801 | [200801-kyou-kara-maou-ore-sama-quest.json](./200801-kyou-kara-maou-ore-sama-quest.json) |
 | Kyou kara Tsukaeru Hisshou Business Shinrigaku | 261376 | [261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json](./261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json) |
