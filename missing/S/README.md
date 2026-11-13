@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatorium | 82652 | [82652-sanatorium.json](./82652-sanatorium.json) |
 | Sanatorium Purgatorium | 111140 | [111140-sanatorium-purgatorium.json](./111140-sanatorium-purgatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
+| Sanatorium: Anthropocene Retreat | 171661 | [171661-sanatorium-anthropocene-retreat.json](./171661-sanatorium-anthropocene-retreat.json) |
 | Sanatory Hallways | 85367 | [85367-sanatory-hallways.json](./85367-sanatory-hallways.json) |
 | Sancho Ponchek | 101905 | [101905-sancho-ponchek.json](./101905-sancho-ponchek.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Shā Online | 58909 | [58909-sanguo-sha-online.json](./58909-sanguo-sha-online.json) |
 | Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sanguo Warriors VR2 | 110534 | [110534-sanguo-warriors-vr2.json](./110534-sanguo-warriors-vr2.json) |
+| Sānguó Yǎnyì zhī Shǔhàn Chuánqí | 171131 | [171131-sanguo-yanyi-zhi-shuhan-chuanqi.json](./171131-sanguo-yanyi-zhi-shuhan-chuanqi.json) |
 | Sānguó Yǎnyì: Huǒshāo Chìbì | 356018 | [356018-sanguo-yanyi-huoshao-chibi.json](./356018-sanguo-yanyi-huoshao-chibi.json) |
 | Sānguó Yōngbīng Chuánqí | 114316 | [114316-sanguo-yongbing-chuanqi.json](./114316-sanguo-yongbing-chuanqi.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
@@ -22584,6 +22586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | Spacewrecked: 14 Billion Light Years From Earth | 50264 | [50264-spacewrecked-14-billion-light-years-from-earth.json](./50264-spacewrecked-14-billion-light-years-from-earth.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
+| SpaceXplorer | 171141 | [171141-spacexplorer.json](./171141-spacexplorer.json) |
 | Spacey McRacey | 134355 | [134355-spacey-mcracey.json](./134355-spacey-mcracey.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
@@ -23256,6 +23259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Bundle Stock & Truck | 147672 | [147672-speedway-bundle-stock-and-truck.json](./147672-speedway-bundle-stock-and-truck.json) |
 | Speedway Challenge 20 | 156931 | [156931-speedway-challenge-20.json](./156931-speedway-challenge-20.json) |
 | Speedway Challenge 2019 | 121301 | [121301-speedway-challenge-2019.json](./121301-speedway-challenge-2019.json) |
+| Speedway Challenge 2021 | 171143 | [171143-speedway-challenge-2021.json](./171143-speedway-challenge-2021.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2023 | 248381 | [248381-speedway-challenge-2023.json](./248381-speedway-challenge-2023.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
@@ -28097,6 +28101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Command 2 | 25329 | [25329-starship-command-2.json](./25329-starship-command-2.json) |
 | Starship Command: Orion Spur | 362739 | [362739-starship-command-orion-spur.json](./362739-starship-command-orion-spur.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
+| Starship Commander: Arcade | 171666 | [171666-starship-commander-arcade.json](./171666-starship-commander-arcade.json) |
 | StarShip Constructor | 38799 | [38799-starship-constructor.json](./38799-starship-constructor.json) |
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
 | Starship Danger! | 267315 | [267315-starship-danger.json](./267315-starship-danger.json) |
@@ -33533,6 +33538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arkanoid | 202477 | [202477-super-arkanoid.json](./202477-super-arkanoid.json) |
 | Super Armand | 134266 | [134266-super-armand.json](./134266-super-armand.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 | 29484 | [29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json](./29484-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2.json) |
+| Super Army of Tentacles 3: The Search for Army of Tentacles 2 - God Makes Gnome Mistakes | 171649 | [171649-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-god-makes-gnome-mistakes.json](./171649-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-god-makes-gnome-mistakes.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition | 84580 | [84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json](./84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json) |
