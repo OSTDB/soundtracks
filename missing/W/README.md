@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
 | Warriors Orochi 4 Ultimate | 122081 | [122081-warriors-orochi-4-ultimate.json](./122081-warriors-orochi-4-ultimate.json) |
+| Warriors Orochi 4 Ultimate: Deluxe Edition | 220895 | [220895-warriors-orochi-4-ultimate-deluxe-edition.json](./220895-warriors-orochi-4-ultimate-deluxe-edition.json) |
 | Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
@@ -8848,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Farming | 205849 | [205849-world-of-farming.json](./205849-world-of-farming.json) |
 | World of Fate | 235437 | [235437-world-of-fate.json](./235437-world-of-fate.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
+| World of Fighter | 220373 | [220373-world-of-fighter.json](./220373-world-of-fighter.json) |
 | World of Final Fantasy: Limited Edition | 41841 | [41841-world-of-final-fantasy-limited-edition.json](./41841-world-of-final-fantasy-limited-edition.json) |
 | World of Final Fantasy: Maxima | 109461 | [109461-world-of-final-fantasy-maxima.json](./109461-world-of-final-fantasy-maxima.json) |
 | World of Final Fantasy: Meli-Melo | 76160 | [76160-world-of-final-fantasy-meli-melo.json](./76160-world-of-final-fantasy-meli-melo.json) |
