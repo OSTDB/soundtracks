@@ -4764,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Day | 176629 | [176629-perfect-day.json](./176629-perfect-day.json) |
 | Perfect Dead | 74599 | [74599-perfect-dead.json](./74599-perfect-dead.json) |
 | Perfect Decision | 168704 | [168704-perfect-decision.json](./168704-perfect-decision.json) |
+| Perfect Detective Manual | 242840 | [242840-perfect-detective-manual.json](./242840-perfect-detective-manual.json) |
 | Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
