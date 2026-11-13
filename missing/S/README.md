@@ -33261,6 +33261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Eiyuutan R | 274074 | [274074-sunrise-eiyuutan-r.json](./274074-sunrise-eiyuutan-r.json) |
 | Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
+| Sunrise on the Moon | 181282 | [181282-sunrise-on-the-moon.json](./181282-sunrise-on-the-moon.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
 | Sunrise survival | 43094 | [43094-sunrise-survival.json](./43094-sunrise-survival.json) |
 | Sunrise Tragedy | 168614 | [168614-sunrise-tragedy.json](./168614-sunrise-tragedy.json) |
@@ -33956,6 +33957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dino: Extended Edition | 233907 | [233907-super-dino-extended-edition.json](./233907-super-dino-extended-edition.json) |
 | Super Dinoblasters | 256032 | [256032-super-dinoblasters.json](./256032-super-dinoblasters.json) |
 | Super Dirt Racers | 161697 | [161697-super-dirt-racers.json](./161697-super-dirt-racers.json) |
+| Super Disc Box | 181263 | [181263-super-disc-box.json](./181263-super-disc-box.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super Discus | 209446 | [209446-super-discus.json](./209446-super-discus.json) |
 | Super Distro | 35412 | [35412-super-distro.json](./35412-super-distro.json) |
