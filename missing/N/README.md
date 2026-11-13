@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Seals | 15268 | [15268-navy-seals.json](./15268-navy-seals.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy Seals | 369607 | [369607-navy-seals.json](./369607-navy-seals.json) |
+| Navy SEALs: Covert Operations | 218619 | [218619-navy-seals-covert-operations.json](./218619-navy-seals-covert-operations.json) |
 | Navy Strike | 69220 | [69220-navy-strike.json](./69220-navy-strike.json) |
 | Navy Training Exercise: Strike and Retrieve | 69830 | [69830-navy-training-exercise-strike-and-retrieve.json](./69830-navy-training-exercise-strike-and-retrieve.json) |
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
