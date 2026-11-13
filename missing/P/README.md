@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peach's Fury | 191373 | [191373-peachs-fury.json](./191373-peachs-fury.json) |
 | Peach's Journey | 331229 | [331229-peachs-journey.json](./331229-peachs-journey.json) |
+| Peach's Puzzle | 231654 | [231654-peachs-puzzle.json](./231654-peachs-puzzle.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
 | Peachboy Legend II | 37655 | [37655-peachboy-legend-ii.json](./37655-peachboy-legend-ii.json) |
 | Peaches and Dreams | 293852 | [293852-peaches-and-dreams.json](./293852-peaches-and-dreams.json) |
@@ -6300,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phuy | 427284 | [427284-phuy.json](./427284-phuy.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
+| Phylactery Factory | 231100 | [231100-phylactery-factory.json](./231100-phylactery-factory.json) |
 | Phylakterion | 226036 | [226036-phylakterion.json](./226036-phylakterion.json) |
 | Phyllis, The Receptionist of The Guild | 369384 | [369384-phyllis-the-receptionist-of-the-guild.json](./369384-phyllis-the-receptionist-of-the-guild.json) |
 | Phyllosoma | 384763 | [384763-phyllosoma.json](./384763-phyllosoma.json) |
