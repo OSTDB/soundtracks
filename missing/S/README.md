@@ -18762,6 +18762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Tails | 317280 | [317280-sonic-and-tails.json](./317280-sonic-and-tails.json) |
 | Sonic 04 | 265224 | [265224-sonic-04.json](./265224-sonic-04.json) |
 | Sonic 1 8-bit Redux | 317353 | [317353-sonic-1-8-bit-redux.json](./317353-sonic-1-8-bit-redux.json) |
+| Sonic 1 Beta Remake | 202285 | [202285-sonic-1-beta-remake.json](./202285-sonic-1-beta-remake.json) |
 | Sonic 1 Co-op | 361500 | [361500-sonic-1-co-op.json](./361500-sonic-1-co-op.json) |
 | Sonic 1 Delta | 333683 | [333683-sonic-1-delta.json](./333683-sonic-1-delta.json) |
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
@@ -19238,6 +19239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Heroes | 317279 | [317279-sonic-mania-heroes.json](./317279-sonic-mania-heroes.json) |
 | Sonic Mania Plus | 94873 | [94873-sonic-mania-plus.json](./94873-sonic-mania-plus.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
+| Sonic Mania: Blazey Mix Plus Moveset! | 202289 | [202289-sonic-mania-blazey-mix-plus-moveset.json](./202289-sonic-mania-blazey-mix-plus-moveset.json) |
 | Sonic Mania: Boss Rush+ | 333678 | [333678-sonic-mania-boss-rush.json](./333678-sonic-mania-boss-rush.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
 | Sonic Mania: Colorful Encore | 317132 | [317132-sonic-mania-colorful-encore.json](./317132-sonic-mania-colorful-encore.json) |
@@ -28732,6 +28734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep: Extreme Pack | 168476 | [168476-steep-extreme-pack.json](./168476-steep-extreme-pack.json) |
 | Steep: Gold Edition | 53668 | [53668-steep-gold-edition.json](./53668-steep-gold-edition.json) |
 | Steep: Rocket Wings DLC | 168475 | [168475-steep-rocket-wings-dlc.json](./168475-steep-rocket-wings-dlc.json) |
+| Steep: Winter Games - Gold Edition | 202879 | [202879-steep-winter-games-gold-edition.json](./202879-steep-winter-games-gold-edition.json) |
 | Steep: Winter Games Edition | 83776 | [83776-steep-winter-games-edition.json](./83776-steep-winter-games-edition.json) |
 | Steep: Winterfest Pack | 168474 | [168474-steep-winterfest-pack.json](./168474-steep-winterfest-pack.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
@@ -30128,6 +30131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Adventures | 272720 | [272720-strange-adventures.json](./272720-strange-adventures.json) |
 | Strange Adventures in Infinite Space | 23510 | [23510-strange-adventures-in-infinite-space.json](./23510-strange-adventures-in-infinite-space.json) |
+| Strange Aeons | 202307 | [202307-strange-aeons.json](./202307-strange-aeons.json) |
 | Strange Aeons | 216861 | [216861-strange-aeons.json](./216861-strange-aeons.json) |
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
 | Strange and Luig | 398155 | [398155-strange-and-luig.json](./398155-strange-and-luig.json) |
