@@ -9993,6 +9993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
 | Planet Love Story | 407895 | [407895-planet-love-story.json](./407895-planet-love-story.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
+| Planet Master | 227551 | [227551-planet-master.json](./227551-planet-master.json) |
 | Planet Miner | 158899 | [158899-planet-miner.json](./158899-planet-miner.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Miners | 323141 | [323141-planet-miners.json](./323141-planet-miners.json) |
@@ -15357,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 6 | 217813 | [217813-pretty-bird-6.json](./217813-pretty-bird-6.json) |
 | Pretty Bird 7 | 222799 | [222799-pretty-bird-7.json](./222799-pretty-bird-7.json) |
 | Pretty Bird 8 | 227114 | [227114-pretty-bird-8.json](./227114-pretty-bird-8.json) |
+| Pretty Bird 8 | 227589 | [227589-pretty-bird-8.json](./227589-pretty-bird-8.json) |
 | Pretty Bird 9 | 229476 | [229476-pretty-bird-9.json](./229476-pretty-bird-9.json) |
 | Pretty Bubble: Flappy Adventures | 253247 | [253247-pretty-bubble-flappy-adventures.json](./253247-pretty-bubble-flappy-adventures.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
