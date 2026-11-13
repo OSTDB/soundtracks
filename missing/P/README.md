@@ -9989,6 +9989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
 | Planet Commander: Space Action | 249665 | [249665-planet-commander-space-action.json](./249665-planet-commander-space-action.json) |
+| Planet Conqueror | 195138 | [195138-planet-conqueror.json](./195138-planet-conqueror.json) |
 | Planet Cracker | 66969 | [66969-planet-cracker.json](./66969-planet-cracker.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
 | Planet Crafter | 182874 | [182874-planet-crafter.json](./182874-planet-crafter.json) |
