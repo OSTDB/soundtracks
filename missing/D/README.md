@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dao Zhi Hua Yin | 415767 | [415767-dao-zhi-hua-yin.json](./415767-dao-zhi-hua-yin.json) |
 | Dào zhī Zhàn | 367570 | [367570-dao-zhi-zhan.json](./367570-dao-zhi-zhan.json) |
 | Daoker: A Banished Tiger | 101311 | [101311-daoker-a-banished-tiger.json](./101311-daoker-a-banished-tiger.json) |
+| Daomei Village | 217044 | [217044-daomei-village.json](./217044-daomei-village.json) |
 | Dap | 143326 | [143326-dap.json](./143326-dap.json) |
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
@@ -8108,6 +8109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolus | 58718 | [58718-desolus.json](./58718-desolus.json) |
 | Desomnia | 365844 | [365844-desomnia.json](./365844-desomnia.json) |
 | DésoPadéso | 140845 | [140845-desopadeso.json](./140845-desopadeso.json) |
+| Desordre: A Puzzle Game Adventure | 217441 | [217441-desordre-a-puzzle-game-adventure.json](./217441-desordre-a-puzzle-game-adventure.json) |
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despa | 370061 | [370061-despa.json](./370061-despa.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
@@ -10787,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dire Destiny: Time Travel-Gambler | 246841 | [246841-dire-destiny-time-travel-gambler.json](./246841-dire-destiny-time-travel-gambler.json) |
 | Dire Destiny: Time Travel-Mech Pilot | 246842 | [246842-dire-destiny-time-travel-mech-pilot.json](./246842-dire-destiny-time-travel-mech-pilot.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
+| Dire Fog: Tactical Card Combat | 217419 | [217419-dire-fog-tactical-card-combat.json](./217419-dire-fog-tactical-card-combat.json) |
 | Dire Island | 290482 | [290482-dire-island.json](./290482-dire-island.json) |
 | Dire Vengeance | 170344 | [170344-dire-vengeance.json](./170344-dire-vengeance.json) |
 | Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
@@ -12659,6 +12662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge that, Ronald! | 312832 | [312832-dodge-that-ronald.json](./312832-dodge-that-ronald.json) |
 | Dodge the Ball | 234984 | [234984-dodge-the-ball.json](./234984-dodge-the-ball.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
+| Dodge the Missionaries | 217420 | [217420-dodge-the-missionaries.json](./217420-dodge-the-missionaries.json) |
 | Dodge the Wall! | 117466 | [117466-dodge-the-wall.json](./117466-dodge-the-wall.json) |
 | Dodge These Asteroids | 353961 | [353961-dodge-these-asteroids.json](./353961-dodge-these-asteroids.json) |
 | Dodge These Balls | 147639 | [147639-dodge-these-balls.json](./147639-dodge-these-balls.json) |
@@ -17197,6 +17201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | DreadEye VR | 75167 | [75167-dreadeye-vr.json](./75167-dreadeye-vr.json) |
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
+| Dreadfire | 217041 | [217041-dreadfire.json](./217041-dreadfire.json) |
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
 | Dreadful | 31331 | [31331-dreadful.json](./31331-dreadful.json) |
 | Dreadful 5th Floor | 408497 | [408497-dreadful-5th-floor.json](./408497-dreadful-5th-floor.json) |
