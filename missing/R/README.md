@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaaSool | 326021 | [326021-raasool.json](./326021-raasool.json) |
 | Raatihuone | 116219 | [116219-raatihuone.json](./116219-raatihuone.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
+| Rabat Protocol: Metal Rhapsody | 236490 | [236490-rabat-protocol-metal-rhapsody.json](./236490-rabat-protocol-metal-rhapsody.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
 | Rabbat | 365908 | [365908-rabbat.json](./365908-rabbat.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
@@ -6368,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Restricted Area | 22448 | [22448-restricted-area.json](./22448-restricted-area.json) |
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
+| Restricted Footage | 237031 | [237031-restricted-footage.json](./237031-restricted-footage.json) |
 | Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
 | Restricted-RPS: All Aboard the Icarus | 35428 | [35428-restricted-rps-all-aboard-the-icarus.json](./35428-restricted-rps-all-aboard-the-icarus.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
