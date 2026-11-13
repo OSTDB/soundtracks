@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterside Chirping | 105017 | [105017-waterside-chirping.json](./105017-waterside-chirping.json) |
 | Waterski 3D | 416849 | [416849-waterski-3d.json](./416849-waterski-3d.json) |
 | Waterslide | 67021 | [67021-waterslide.json](./67021-waterslide.json) |
+| Waterslide Extreme | 241674 | [241674-waterslide-extreme.json](./241674-waterslide-extreme.json) |
 | Waterslide Inferno | 397137 | [397137-waterslide-inferno.json](./397137-waterslide-inferno.json) |
 | Waterslide Island | 153615 | [153615-waterslide-island.json](./153615-waterslide-island.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
+| We Will Get revenge | 241682 | [241682-we-will-get-revenge.json](./241682-we-will-get-revenge.json) |
 | We Wish You a Merry Christmas | 5277 | [5277-we-wish-you-a-merry-christmas.json](./5277-we-wish-you-a-merry-christmas.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
 | We. The Refugees: Ticket to Europe | 212022 | [212022-we-the-refugees-ticket-to-europe.json](./212022-we-the-refugees-ticket-to-europe.json) |
