@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L&M | 97400 | [97400-l-and-m.json](./97400-l-and-m.json) |
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
+| L30-P4RD | 227584 | [227584-l30-p4rd.json](./227584-l30-p4rd.json) |
 | l3bhm | 361280 | [361280-l3bhm.json](./361280-l3bhm.json) |
 | L4UR4 | 362230 | [362230-l4ur4.json](./362230-l4ur4.json) |
 | L5RC | 71324 | [71324-l5rc.json](./71324-l5rc.json) |
@@ -658,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lakitu's Great Adventure 2 | 222974 | [222974-lakitus-great-adventure-2.json](./222974-lakitus-great-adventure-2.json) |
 | Lakria Legends | 344166 | [344166-lakria-legends.json](./344166-lakria-legends.json) |
+| Lala Hentai | 227580 | [227580-lala-hentai.json](./227580-lala-hentai.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy | 94851 | [94851-lalaloopsy.json](./94851-lalaloopsy.json) |
