@@ -10766,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playnese: Master Japanese | 359105 | [359105-playnese-master-japanese.json](./359105-playnese-master-japanese.json) |
 | Playnicky | 221068 | [221068-playnicky.json](./221068-playnicky.json) |
 | Playover | 391444 | [391444-playover.json](./391444-playover.json) |
+| PlayPal Plug & Play | 202269 | [202269-playpal-plug-and-play.json](./202269-playpal-plug-and-play.json) |
 | PlayPark StreetBallers | 249691 | [249691-playpark-streetballers.json](./249691-playpark-streetballers.json) |
 | PlayPen | 242902 | [242902-playpen.json](./242902-playpen.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
@@ -11161,6 +11162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PMC Promiscuity | 296307 | [296307-pmc-promiscuity.json](./296307-pmc-promiscuity.json) |
 | PMC: Net Zero | 377277 | [377277-pmc-net-zero.json](./377277-pmc-net-zero.json) |
 | Pmcman | 178433 | [178433-pmcman.json](./178433-pmcman.json) |
+| PMFighter | 202301 | [202301-pmfighter.json](./202301-pmfighter.json) |
 | Pneuma | 384242 | [384242-pneuma.json](./384242-pneuma.json) |
 | Pneuma | 426436 | [426436-pneuma.json](./426436-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
