@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardrive | 190869 | [190869-wardrive.json](./190869-wardrive.json) |
 | Wardroid | 150863 | [150863-wardroid.json](./150863-wardroid.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
+| Wardudes | 190754 | [190754-wardudes.json](./190754-wardudes.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
 | WarEcon: Build & Conquer | 293659 | [293659-warecon-build-and-conquer.json](./293659-warecon-build-and-conquer.json) |
