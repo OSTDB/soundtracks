@@ -467,7 +467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Assault EX | 47647 | [47647-nano-assault-ex.json](./47647-nano-assault-ex.json) |
-| Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
 | Nano Assault Neo-X | 52606 | [52606-nano-assault-neo-x.json](./52606-nano-assault-neo-x.json) |
 | Nano Breaker | 22305 | [22305-nano-breaker.json](./22305-nano-breaker.json) |
 | Nano Citizens | 260555 | [260555-nano-citizens.json](./260555-nano-citizens.json) |
@@ -7435,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NostAlgic | 166463 | [166463-nostalgic.json](./166463-nostalgic.json) |
 | Nostalgic Entropy | 313906 | [313906-nostalgic-entropy.json](./313906-nostalgic-entropy.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
+| Nostalgic Nights at Freddy's | 228153 | [228153-nostalgic-nights-at-freddys.json](./228153-nostalgic-nights-at-freddys.json) |
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
 | Nostoi | 105006 | [105006-nostoi.json](./105006-nostoi.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
