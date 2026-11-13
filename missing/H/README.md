@@ -6576,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
 | Herod's Lost Tomb | 10409 | [10409-herods-lost-tomb.json](./10409-herods-lost-tomb.json) |
 | Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
+| Heroes | 235506 | [235506-heroes.json](./235506-heroes.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
 | Heroes & Dragons | 362013 | [362013-heroes-and-dragons.json](./362013-heroes-and-dragons.json) |
 | Heroes & Generals | 7435 | [7435-heroes-and-generals.json](./7435-heroes-and-generals.json) |
