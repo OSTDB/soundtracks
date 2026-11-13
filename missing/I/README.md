@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
 | Ice Cream Float | 335738 | [335738-ice-cream-float.json](./335738-ice-cream-float.json) |
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
+| Ice Cream Killer | 215259 | [215259-ice-cream-killer.json](./215259-ice-cream-killer.json) |
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
 | Ice Cream Master: Free Food Making Cooking Games | 95787 | [95787-ice-cream-master-free-food-making-cooking-games.json](./95787-ice-cream-master-free-food-making-cooking-games.json) |
@@ -3305,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Dreams | 423911 | [423911-in-your-dreams.json](./423911-in-your-dreams.json) |
 | In Your Face | 48991 | [48991-in-your-face.json](./48991-in-your-face.json) |
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
+| In Your Nightmares! | 215255 | [215255-in-your-nightmares.json](./215255-in-your-nightmares.json) |
 | In your Shadow | 112622 | [112622-in-your-shadow.json](./112622-in-your-shadow.json) |
 | In Your Veins | 395599 | [395599-in-your-veins.json](./395599-in-your-veins.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
