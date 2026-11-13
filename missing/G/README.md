@@ -10065,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grill’d: The Vanishing | 344851 | [344851-grill-d-the-vanishing.json](./344851-grill-d-the-vanishing.json) |
 | Grille Logic | 286580 | [286580-grille-logic.json](./286580-grille-logic.json) |
 | Grilled | 149459 | [149459-grilled.json](./149459-grilled.json) |
+| Grilled Dogs: Grillar - Es Geht Um Die Wurst | 241084 | [241084-grilled-dogs-grillar-es-geht-um-die-wurst.json](./241084-grilled-dogs-grillar-es-geht-um-die-wurst.json) |
 | Grilluminati | 410614 | [410614-grilluminati.json](./410614-grilluminati.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 261740 | [261740-grim.json](./261740-grim.json) |
