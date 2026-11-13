@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lelu | 321877 | [321877-lelu.json](./321877-lelu.json) |
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
+| Leman | 172254 | [172254-leman.json](./172254-leman.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
 | Lemma | 17386 | [17386-lemma.json](./17386-lemma.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
 | Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
 | Lo-fi Life | 168075 | [168075-lo-fi-life.json](./168075-lo-fi-life.json) |
+| Lo-Fi Lounge | 172239 | [172239-lo-fi-lounge.json](./172239-lo-fi-lounge.json) |
 | Lo-Fi Room | 135422 | [135422-lo-fi-room.json](./135422-lo-fi-room.json) |
 | Lo-Fi: Thexnerxxm | 189282 | [189282-lo-fi-thexnerxxm.json](./189282-lo-fi-thexnerxxm.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
