@@ -13036,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate It | 352870 | [352870-skate-it.json](./352870-skate-it.json) |
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
+| Skate Lines | 196343 | [196343-skate-lines.json](./196343-skate-lines.json) |
 | Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
 | Skate O'Clock | 298093 | [298093-skate-oclock.json](./298093-skate-oclock.json) |
 | Skate of Emergency | 74773 | [74773-skate-of-emergency.json](./74773-skate-of-emergency.json) |
@@ -14490,6 +14491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayin DX | 266754 | [266754-slayin-dx.json](./266754-slayin-dx.json) |
 | Slaymeji: Roguelite Desktop Survivor | 415784 | [415784-slaymeji-roguelite-desktop-survivor.json](./415784-slaymeji-roguelite-desktop-survivor.json) |
+| Slaypril Fools Day: The Video Game | 196746 | [196746-slaypril-fools-day-the-video-game.json](./196746-slaypril-fools-day-the-video-game.json) |
 | Slays Demons in the DaTang | 368369 | [368369-slays-demons-in-the-datang.json](./368369-slays-demons-in-the-datang.json) |
 | Slayscape | 302972 | [302972-slayscape.json](./302972-slayscape.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
@@ -27937,6 +27939,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
 | Starshine | 262015 | [262015-starshine.json](./262015-starshine.json) |
 | Starshine Legacy Episode 1: Mystery of the Soul Riders | 196735 | [196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json](./196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json) |
+| Starshine Legacy Episode 2: Secret of Pine Hill Mansion | 196737 | [196737-starshine-legacy-episode-2-secret-of-pine-hill-mansion.json](./196737-starshine-legacy-episode-2-secret-of-pine-hill-mansion.json) |
+| Starshine Legacy Episode 3: Legend of Pandoria | 196738 | [196738-starshine-legacy-episode-3-legend-of-pandoria.json](./196738-starshine-legacy-episode-3-legend-of-pandoria.json) |
+| Starshine Legacy Episode 4: The Riddle of Dark Core | 196739 | [196739-starshine-legacy-episode-4-the-riddle-of-dark-core.json](./196739-starshine-legacy-episode-4-the-riddle-of-dark-core.json) |
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
 | Starship | 268911 | [268911-starship.json](./268911-starship.json) |
@@ -34889,6 +34894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Special | 77228 | [77228-super-mario-bros-special.json](./77228-super-mario-bros-special.json) |
 | Super Mario Bros. Special Remastered | 378501 | [378501-super-mario-bros-special-remastered.json](./378501-super-mario-bros-special-remastered.json) |
+| Super Mario Bros. Special: 35th Anniversary Edition | 196743 | [196743-super-mario-bros-special-35th-anniversary-edition.json](./196743-super-mario-bros-special-35th-anniversary-edition.json) |
 | Super Mario Bros. Square Root 5 | 245621 | [245621-super-mario-bros-square-root-5.json](./245621-super-mario-bros-square-root-5.json) |
 | Super Mario Bros. Star Scramble | 214815 | [214815-super-mario-bros-star-scramble.json](./214815-super-mario-bros-star-scramble.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
@@ -36976,6 +36982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulation Grocery Empire 3D | 305561 | [305561-supermarket-simulation-grocery-empire-3d.json](./305561-supermarket-simulation-grocery-empire-3d.json) |
 | Supermarket Simulator | 128917 | [128917-supermarket-simulator.json](./128917-supermarket-simulator.json) |
+| Supermarket Simulator | 196771 | [196771-supermarket-simulator.json](./196771-supermarket-simulator.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
 | Supermarket Simulator 2024 | 315320 | [315320-supermarket-simulator-2024.json](./315320-supermarket-simulator-2024.json) |
 | Supermarket Simulator 2025 | 337980 | [337980-supermarket-simulator-2025.json](./337980-supermarket-simulator-2025.json) |
