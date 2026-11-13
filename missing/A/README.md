@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maze Against Time | 324980 | [324980-a-maze-against-time.json](./324980-a-maze-against-time.json) |
 | A Maze Dream: The Puzzle Journey | 293073 | [293073-a-maze-dream-the-puzzle-journey.json](./293073-a-maze-dream-the-puzzle-journey.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
+| A Maze Fox | 187535 | [187535-a-maze-fox.json](./187535-a-maze-fox.json) |
 | A maze in Citadel | 120037 | [120037-a-maze-in-citadel.json](./120037-a-maze-in-citadel.json) |
 | A Maze in Labyrinth | 406526 | [406526-a-maze-in-labyrinth.json](./406526-a-maze-in-labyrinth.json) |
 | A Maze In Love | 69381 | [69381-a-maze-in-love.json](./69381-a-maze-in-love.json) |
@@ -4285,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures in the Magic Kingdom: Sora Edition | 306736 | [306736-adventures-in-the-magic-kingdom-sora-edition.json](./306736-adventures-in-the-magic-kingdom-sora-edition.json) |
 | Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
+| Adventures Nearby | 187558 | [187558-adventures-nearby.json](./187558-adventures-nearby.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
@@ -4870,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark | 376844 | [376844-after-dark.json](./376844-after-dark.json) |
 | After Dark Games | 85943 | [85943-after-dark-games.json](./85943-after-dark-games.json) |
+| After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
 | After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
@@ -6072,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
 | Air Fleet | 264165 | [264165-air-fleet.json](./264165-air-fleet.json) |
 | Air Fli: Misuzu-chin Kiki Ippatsu | 205712 | [205712-air-fli-misuzu-chin-kiki-ippatsu.json](./205712-air-fli-misuzu-chin-kiki-ippatsu.json) |
+| Air Force 1943 | 187576 | [187576-air-force-1943.json](./187576-air-force-1943.json) |
 | Air Force 1945: Sky Strikers | 58150 | [58150-air-force-1945-sky-strikers.json](./58150-air-force-1945-sky-strikers.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
