@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball: Level 4 | 214571 | [214571-zj-the-ball-level-4.json](./214571-zj-the-ball-level-4.json) |
 | ZJ the Ball: Level 5 | 214572 | [214572-zj-the-ball-level-5.json](./214572-zj-the-ball-level-5.json) |
 | ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
+| ZJ the Ball: What's Different Game - Breakthrough Gaming Activity Center | 227588 | [227588-zj-the-ball-whats-different-game-breakthrough-gaming-activity-center.json](./227588-zj-the-ball-whats-different-game-breakthrough-gaming-activity-center.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | ZK1L4 | 373213 | [373213-zk1l4.json](./373213-zk1l4.json) |
 | Zkiller | 105153 | [105153-zkiller.json](./105153-zkiller.json) |
