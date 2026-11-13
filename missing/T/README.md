@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Furry | 37261 | [37261-tanks-furry.json](./37261-tanks-furry.json) |
 | Tanks in Labyrinth | 166942 | [166942-tanks-in-labyrinth.json](./166942-tanks-in-labyrinth.json) |
+| Tanks Logic | 226370 | [226370-tanks-logic.json](./226370-tanks-logic.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
 | Tanks of Battle: World War 2 | 233420 | [233420-tanks-of-battle-world-war-2.json](./233420-tanks-of-battle-world-war-2.json) |
@@ -4118,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
 | Tempo Quest | 103049 | [103049-tempo-quest.json](./103049-tempo-quest.json) |
 | Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
+| Tempo Trigger | 226002 | [226002-tempo-trigger.json](./226002-tempo-trigger.json) |
 | Tempo Typen | 386055 | [386055-tempo-typen.json](./386055-tempo-typen.json) |
 | Tempo Typen | 386056 | [386056-tempo-typen.json](./386056-tempo-typen.json) |
 | Tempo Wizard | 108672 | [108672-tempo-wizard.json](./108672-tempo-wizard.json) |
@@ -5640,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Level Again 3D | 320092 | [320092-that-level-again-3d.json](./320092-that-level-again-3d.json) |
 | That Level Again 4 | 144494 | [144494-that-level-again-4.json](./144494-that-level-again-4.json) |
 | That Lonesome Valley | 240569 | [240569-that-lonesome-valley.json](./240569-that-lonesome-valley.json) |
+| That Makes Sense | 226460 | [226460-that-makes-sense.json](./226460-that-makes-sense.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -20162,6 +20165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Wake: Mourning Father, Mourning Mother | 135439 | [135439-the-wake-mourning-father-mourning-mother.json](./135439-the-wake-mourning-father-mourning-mother.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
+| The Waking Knot | 226393 | [226393-the-waking-knot.json](./226393-the-waking-knot.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
 | The Walk | 62402 | [62402-the-walk.json](./62402-the-walk.json) |
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
@@ -20717,6 +20721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 5 - Cry Wolf | 127111 | [127111-the-wolf-among-us-episode-5-cry-wolf.json](./127111-the-wolf-among-us-episode-5-cry-wolf.json) |
 | The Wolf and the Blood Moon | 362213 | [362213-the-wolf-and-the-blood-moon.json](./362213-the-wolf-and-the-blood-moon.json) |
 | The Wolf Is Dead | 188972 | [188972-the-wolf-is-dead.json](./188972-the-wolf-is-dead.json) |
+| The Wolf of Derevnya | 226459 | [226459-the-wolf-of-derevnya.json](./226459-the-wolf-of-derevnya.json) |
 | The Wolf Wears Red | 409844 | [409844-the-wolf-wears-red.json](./409844-the-wolf-wears-red.json) |
 | The Wolf Within | 224979 | [224979-the-wolf-within.json](./224979-the-wolf-within.json) |
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
@@ -25652,6 +25657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyTan Tamagotchi | 230080 | [230080-tinytan-tamagotchi.json](./230080-tinytan-tamagotchi.json) |
 | TinyTiny | 235820 | [235820-tinytiny.json](./235820-tinytiny.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
+| Tinytown | 226387 | [226387-tinytown.json](./226387-tinytown.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
 | TinyWar | 83280 | [83280-tinywar.json](./83280-tinywar.json) |
 | TinyWar high-speed | 86587 | [86587-tinywar-high-speed.json](./86587-tinywar-high-speed.json) |
@@ -26073,6 +26079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
 | To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
 | To The Flame | 288587 | [288587-to-the-flame.json](./288587-to-the-flame.json) |
+| To the Grave | 226458 | [226458-to-the-grave.json](./226458-to-the-grave.json) |
 | To the Grave: The Battle for Faenora | 261938 | [261938-to-the-grave-the-battle-for-faenora.json](./261938-to-the-grave-the-battle-for-faenora.json) |
 | To The Grave: The Hunters of Faenora | 358385 | [358385-to-the-grave-the-hunters-of-faenora.json](./358385-to-the-grave-the-hunters-of-faenora.json) |
 | To The Grave: The Wildlands of Faenora | 307976 | [307976-to-the-grave-the-wildlands-of-faenora.json](./307976-to-the-grave-the-wildlands-of-faenora.json) |
