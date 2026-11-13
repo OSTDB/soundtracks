@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gael's Quest | 140734 | [140734-gaels-quest.json](./140734-gaels-quest.json) |
 | Gaelco Arcade 1 | 149291 | [149291-gaelco-arcade-1.json](./149291-gaelco-arcade-1.json) |
 | Gaelco Arcade 2 | 203515 | [203515-gaelco-arcade-2.json](./203515-gaelco-arcade-2.json) |
+| Gaelco Championship Tuning Race | 233282 | [233282-gaelco-championship-tuning-race.json](./233282-gaelco-championship-tuning-race.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
@@ -4221,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Six | 281243 | [281243-ghost-six.json](./281243-ghost-six.json) |
 | Ghost Soul M | 410205 | [410205-ghost-soul-m.json](./410205-ghost-soul-m.json) |
 | Ghost Squad | 4890 | [4890-ghost-squad.json](./4890-ghost-squad.json) |
+| Ghost Squad Evolution | 233283 | [233283-ghost-squad-evolution.json](./233283-ghost-squad-evolution.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
 | Ghost Stories | 179846 | [179846-ghost-stories.json](./179846-ghost-stories.json) |
 | Ghost Stories | 200443 | [200443-ghost-stories.json](./200443-ghost-stories.json) |
