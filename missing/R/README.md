@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
+| Ramses: Rise of Empire - Collector's Edition | 177082 | [177082-ramses-rise-of-empire-collectors-edition.json](./177082-ramses-rise-of-empire-collectors-edition.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Ramshackle.Exe | 289294 | [289294-ramshackle-exe.json](./289294-ramshackle-exe.json) |
 | Ramune's Square Dungeon | 367284 | [367284-ramunes-square-dungeon.json](./367284-ramunes-square-dungeon.json) |
@@ -9517,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood | 217733 | [217733-robin-hood.json](./217733-robin-hood.json) |
 | Robin Hood | 232903 | [232903-robin-hood.json](./232903-robin-hood.json) |
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
+| Robin Hood 3: Hail to the King - Collector's Edition | 177084 | [177084-robin-hood-3-hail-to-the-king-collectors-edition.json](./177084-robin-hood-3-hail-to-the-king-collectors-edition.json) |
 | Robin Hood Archer | 420173 | [420173-robin-hood-archer.json](./420173-robin-hood-archer.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Country Heroes | 126781 | [126781-robin-hood-country-heroes.json](./126781-robin-hood-country-heroes.json) |
@@ -9536,6 +9538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
 | Robin Hood: The Siege | 278216 | [278216-robin-hood-the-siege.json](./278216-robin-hood-the-siege.json) |
 | Robin Hood: Winds of Freedom | 161628 | [161628-robin-hood-winds-of-freedom.json](./161628-robin-hood-winds-of-freedom.json) |
+| Robin Hood: Winds of Freedom - Collector’s Edition | 177081 | [177081-robin-hood-winds-of-freedom-collector-s-edition.json](./177081-robin-hood-winds-of-freedom-collector-s-edition.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
 | Robin In Da Hood | 310796 | [310796-robin-in-da-hood.json](./310796-robin-in-da-hood.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
@@ -11149,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelike Chess | 291797 | [291797-roguelike-chess.json](./291797-roguelike-chess.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
+| Roguelike Simulator | 177463 | [177463-roguelike-simulator.json](./177463-roguelike-simulator.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | Roguelite | 112858 | [112858-roguelite.json](./112858-roguelite.json) |
 | Roguelite 2 | 128967 | [128967-roguelite-2.json](./128967-roguelite-2.json) |
@@ -12184,6 +12188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Riddle 2: Werewolf Shadow | 127619 | [127619-rose-riddle-2-werewolf-shadow.json](./127619-rose-riddle-2-werewolf-shadow.json) |
 | Rose Riddle: Fairy Tale Detective | 121975 | [121975-rose-riddle-fairy-tale-detective.json](./121975-rose-riddle-fairy-tale-detective.json) |
 | Rose Riddle: Fairy Tale Detective - Collector's Edition | 343359 | [343359-rose-riddle-fairy-tale-detective-collectors-edition.json](./343359-rose-riddle-fairy-tale-detective-collectors-edition.json) |
+| Rose Riddle: The Fairytale Detective - Collector's Edition | 177086 | [177086-rose-riddle-the-fairytale-detective-collectors-edition.json](./177086-rose-riddle-the-fairytale-detective-collectors-edition.json) |
 | Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
 | Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
