@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Felt Tanks | 173038 | [173038-league-of-felt-tanks.json](./173038-league-of-felt-tanks.json) |
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
 | League of Foes | 373487 | [373487-league-of-foes.json](./373487-league-of-foes.json) |
+| League of Golf | 201206 | [201206-league-of-golf.json](./201206-league-of-golf.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
 | League of Heroes | 85243 | [85243-league-of-heroes.json](./85243-league-of-heroes.json) |
 | League of Immortals | 274635 | [274635-league-of-immortals.json](./274635-league-of-immortals.json) |
