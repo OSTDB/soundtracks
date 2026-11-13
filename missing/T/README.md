@@ -4432,6 +4432,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
 | Tennis no Ouji-sama: 2005 Crystal Drive | 72928 | [72928-tennis-no-ouji-sama-2005-crystal-drive.json](./72928-tennis-no-ouji-sama-2005-crystal-drive.json) |
 | Tennis no Ouji-sama: Aim at the Victory! | 49851 | [49851-tennis-no-ouji-sama-aim-at-the-victory.json](./49851-tennis-no-ouji-sama-aim-at-the-victory.json) |
+| Tennis no Ouji-sama: Doki-doki Survival - Umibe no Secret | 205714 | [205714-tennis-no-ouji-sama-doki-doki-survival-umibe-no-secret.json](./205714-tennis-no-ouji-sama-doki-doki-survival-umibe-no-secret.json) |
+| Tennis no Ouji-sama: Doki-doki Survival Sanroku no Mystic | 205713 | [205713-tennis-no-ouji-sama-doki-doki-survival-sanroku-no-mystic.json](./205713-tennis-no-ouji-sama-doki-doki-survival-sanroku-no-mystic.json) |
 | Tennis no Ouji-sama: Doubles no Ouji-sama - Boys, Be Glorious! | 205202 | [205202-tennis-no-ouji-sama-doubles-no-ouji-sama-boys-be-glorious.json](./205202-tennis-no-ouji-sama-doubles-no-ouji-sama-boys-be-glorious.json) |
 | Tennis no Ouji-sama: Doubles no Ouji-sama - Girls, be Gracious! | 61218 | [61218-tennis-no-ouji-sama-doubles-no-ouji-sama-girls-be-gracious.json](./61218-tennis-no-ouji-sama-doubles-no-ouji-sama-girls-be-gracious.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
@@ -31511,6 +31513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Brazemore Yard | 205456 | [205456-trainz-plus-brazemore-yard.json](./205456-trainz-plus-brazemore-yard.json) |
 | Trainz Plus: British Rail Class 70 - Colas Rail | 205526 | [205526-trainz-plus-british-rail-class-70-colas-rail.json](./205526-trainz-plus-british-rail-class-70-colas-rail.json) |
 | Trainz Plus: British Rail Class 70 - Freightliner | 205482 | [205482-trainz-plus-british-rail-class-70-freightliner.json](./205482-trainz-plus-british-rail-class-70-freightliner.json) |
+| Trainz Plus: C&O Hinton Division | 205185 | [205185-trainz-plus-c-and-o-hinton-division.json](./205185-trainz-plus-c-and-o-hinton-division.json) |
 | Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack | 306102 | [306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json](./306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json) |
 | Trainz Plus: Canadian Rocky Mountains - Golden, BC | 205460 | [205460-trainz-plus-canadian-rocky-mountains-golden-bc.json](./205460-trainz-plus-canadian-rocky-mountains-golden-bc.json) |
 | Trainz Plus: Canadian Rocky Mountains - Rogers Pass | 205503 | [205503-trainz-plus-canadian-rocky-mountains-rogers-pass.json](./205503-trainz-plus-canadian-rocky-mountains-rogers-pass.json) |
@@ -31548,6 +31551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: CO17-4173 | 205473 | [205473-trainz-plus-co17-4173.json](./205473-trainz-plus-co17-4173.json) |
 | Trainz Plus: CO17-4174 | 205501 | [205501-trainz-plus-co17-4174.json](./205501-trainz-plus-co17-4174.json) |
 | Trainz Plus: CO17-4373 | 205188 | [205188-trainz-plus-co17-4373.json](./205188-trainz-plus-co17-4373.json) |
+| Trainz Plus: Coal Country | 205186 | [205186-trainz-plus-coal-country.json](./205186-trainz-plus-coal-country.json) |
 | Trainz Plus: Coalmint Mountains Railroad | 205455 | [205455-trainz-plus-coalmint-mountains-railroad.json](./205455-trainz-plus-coalmint-mountains-railroad.json) |
 | Trainz Plus: CONTZ Pack - Basic Edition | 205514 | [205514-trainz-plus-contz-pack-basic-edition.json](./205514-trainz-plus-contz-pack-basic-edition.json) |
 | Trainz Plus: CONTZ Pack - Standard Edition | 205496 | [205496-trainz-plus-contz-pack-standard-edition.json](./205496-trainz-plus-contz-pack-standard-edition.json) |
@@ -31591,6 +31595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Legacy of the Burlington Northern II | 205509 | [205509-trainz-plus-legacy-of-the-burlington-northern-ii.json](./205509-trainz-plus-legacy-of-the-burlington-northern-ii.json) |
 | Trainz Plus: LMS/NSR Wagon Pack 1 | 285515 | [285515-trainz-plus-lms-nsr-wagon-pack-1.json](./285515-trainz-plus-lms-nsr-wagon-pack-1.json) |
 | Trainz Plus: Lone Pine Branch | 205565 | [205565-trainz-plus-lone-pine-branch.json](./205565-trainz-plus-lone-pine-branch.json) |
+| Trainz Plus: Midwestern Branch | 205181 | [205181-trainz-plus-midwestern-branch.json](./205181-trainz-plus-midwestern-branch.json) |
 | Trainz Plus: Midwestern Rails | 235538 | [235538-trainz-plus-midwestern-rails.json](./235538-trainz-plus-midwestern-rails.json) |
 | Trainz Plus: Milton Valley Railroad | 306107 | [306107-trainz-plus-milton-valley-railroad.json](./306107-trainz-plus-milton-valley-railroad.json) |
 | Trainz Plus: Mine & Field railway | 205559 | [205559-trainz-plus-mine-and-field-railway.json](./205559-trainz-plus-mine-and-field-railway.json) |
@@ -31600,6 +31605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Model Trainz - New South Wales Region | 205506 | [205506-trainz-plus-model-trainz-new-south-wales-region.json](./205506-trainz-plus-model-trainz-new-south-wales-region.json) |
 | Trainz Plus: Model Trainz - UZ-Gbox | 262332 | [262332-trainz-plus-model-trainz-uz-gbox.json](./262332-trainz-plus-model-trainz-uz-gbox.json) |
 | Trainz Plus: Mojave Sub Division | 205472 | [205472-trainz-plus-mojave-sub-division.json](./205472-trainz-plus-mojave-sub-division.json) |
+| Trainz Plus: New York Central 10a 2-8-2 | 205180 | [205180-trainz-plus-new-york-central-10a-2-8-2.json](./205180-trainz-plus-new-york-central-10a-2-8-2.json) |
 | Trainz Plus: Newcastle Shunter | 205523 | [205523-trainz-plus-newcastle-shunter.json](./205523-trainz-plus-newcastle-shunter.json) |
 | Trainz Plus: Niddertalbahn | 205462 | [205462-trainz-plus-niddertalbahn.json](./205462-trainz-plus-niddertalbahn.json) |
 | Trainz Plus: Niddertalbahn | 205524 | [205524-trainz-plus-niddertalbahn.json](./205524-trainz-plus-niddertalbahn.json) |
@@ -31908,6 +31914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: ATSF B40-8W 500-559 | 354380 | [354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json](./354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json) |
 | Trainz Railroad Simulator 2022: ATSF GP38-2 Santa FE 2 Pack | 205192 | [205192-trainz-railroad-simulator-2022-atsf-gp38-2-santa-fe-2-pack.json](./205192-trainz-railroad-simulator-2022-atsf-gp38-2-santa-fe-2-pack.json) |
 | Trainz Railroad Simulator 2022: Avery - Drexel Route | 205332 | [205332-trainz-railroad-simulator-2022-avery-drexel-route.json](./205332-trainz-railroad-simulator-2022-avery-drexel-route.json) |
+| Trainz Railroad Simulator 2022: Avmz Intercity 71 | 205182 | [205182-trainz-railroad-simulator-2022-avmz-intercity-71.json](./205182-trainz-railroad-simulator-2022-avmz-intercity-71.json) |
 | Trainz Railroad Simulator 2022: Balezino Mosti | 205325 | [205325-trainz-railroad-simulator-2022-balezino-mosti.json](./205325-trainz-railroad-simulator-2022-balezino-mosti.json) |
 | Trainz Railroad Simulator 2022: Balezino Mosti Sessions - Lichachove to Mosti | 205428 | [205428-trainz-railroad-simulator-2022-balezino-mosti-sessions-lichachove-to-mosti.json](./205428-trainz-railroad-simulator-2022-balezino-mosti-sessions-lichachove-to-mosti.json) |
 | Trainz Railroad Simulator 2022: Bea-Dawe Model Railway | 205437 | [205437-trainz-railroad-simulator-2022-bea-dawe-model-railway.json](./205437-trainz-railroad-simulator-2022-bea-dawe-model-railway.json) |
@@ -31993,6 +32000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Industrial Mayhem | 219538 | [219538-trainz-railroad-simulator-2022-industrial-mayhem.json](./219538-trainz-railroad-simulator-2022-industrial-mayhem.json) |
 | Trainz Railroad Simulator 2022: Industrial Switching | 204270 | [204270-trainz-railroad-simulator-2022-industrial-switching.json](./204270-trainz-railroad-simulator-2022-industrial-switching.json) |
 | Trainz Railroad Simulator 2022: ITC GP7 Phase I & II | 205396 | [205396-trainz-railroad-simulator-2022-itc-gp7-phase-i-and-ii.json](./205396-trainz-railroad-simulator-2022-itc-gp7-phase-i-and-ii.json) |
+| Trainz Railroad Simulator 2022: JR Rolling Stock Pack TRS19 | 205183 | [205183-trainz-railroad-simulator-2022-jr-rolling-stock-pack-trs19.json](./205183-trainz-railroad-simulator-2022-jr-rolling-stock-pack-trs19.json) |
 | Trainz Railroad Simulator 2022: Kickstarter County Tane | 205301 | [205301-trainz-railroad-simulator-2022-kickstarter-county-tane.json](./205301-trainz-railroad-simulator-2022-kickstarter-county-tane.json) |
 | Trainz Railroad Simulator 2022: L&N M1 2-8-4 Big Emma | 205294 | [205294-trainz-railroad-simulator-2022-l-and-n-m1-2-8-4-big-emma.json](./205294-trainz-railroad-simulator-2022-l-and-n-m1-2-8-4-big-emma.json) |
 | Trainz Railroad Simulator 2022: Laadgs Transporter | 205348 | [205348-trainz-railroad-simulator-2022-laadgs-transporter.json](./205348-trainz-railroad-simulator-2022-laadgs-transporter.json) |
@@ -32021,6 +32029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: NS SD60E - 6920 Veterans Unit | 205417 | [205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json](./205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - 6963 GoRail | 205363 | [205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json](./205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json) |
 | Trainz Railroad Simulator 2022: NS SD60E - Horsehead Locomotive | 205352 | [205352-trainz-railroad-simulator-2022-ns-sd60e-horsehead-locomotive.json](./205352-trainz-railroad-simulator-2022-ns-sd60e-horsehead-locomotive.json) |
+| Trainz Railroad Simulator 2022: NS SD60E First Responders | 205184 | [205184-trainz-railroad-simulator-2022-ns-sd60e-first-responders.json](./205184-trainz-railroad-simulator-2022-ns-sd60e-first-responders.json) |
 | Trainz Railroad Simulator 2022: NSW 81 Class SRA Pack | 228218 | [228218-trainz-railroad-simulator-2022-nsw-81-class-sra-pack.json](./228218-trainz-railroad-simulator-2022-nsw-81-class-sra-pack.json) |
 | Trainz Railroad Simulator 2022: NYC J3a-Dreyfuss streamlined Hudson | 205305 | [205305-trainz-railroad-simulator-2022-nyc-j3a-dreyfuss-streamlined-hudson.json](./205305-trainz-railroad-simulator-2022-nyc-j3a-dreyfuss-streamlined-hudson.json) |
 | Trainz Railroad Simulator 2022: Orient Express Trainset | 205364 | [205364-trainz-railroad-simulator-2022-orient-express-trainset.json](./205364-trainz-railroad-simulator-2022-orient-express-trainset.json) |
