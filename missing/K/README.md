@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep 'em Out! | 363128 | [363128-keep-em-out.json](./363128-keep-em-out.json) |
 | Keep Away | 359741 | [359741-keep-away.json](./359741-keep-away.json) |
 | Keep Balance VR | 29454 | [29454-keep-balance-vr.json](./29454-keep-balance-vr.json) |
+| Keep Chicks Alive! | 181419 | [181419-keep-chicks-alive.json](./181419-keep-chicks-alive.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
 | Keep Cutting | 406146 | [406146-keep-cutting.json](./406146-keep-cutting.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keito | 384913 | [384913-keito.json](./384913-keito.json) |
 | Keiyaku Kanojo: Shinmai Kanojo to Hajimeru, Tottemo H de Pure na Renai Lesson | 409799 | [409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json](./409799-keiyaku-kanojo-shinmai-kanojo-to-hajimeru-tottemo-h-de-pure-na-renai-lesson.json) |
 | Keizudo | 169395 | [169395-keizudo.json](./169395-keizudo.json) |
+| Keji | 181405 | [181405-keji.json](./181405-keji.json) |
 | Kejora | 258675 | [258675-kejora.json](./258675-kejora.json) |
 | Kekcroc | 270241 | [270241-kekcroc.json](./270241-kekcroc.json) |
 | Kekcroc Forever | 230097 | [230097-kekcroc-forever.json](./230097-kekcroc-forever.json) |
@@ -2194,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyframes | 309185 | [309185-keyframes.json](./309185-keyframes.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
 | Keygeon | 182049 | [182049-keygeon.json](./182049-keygeon.json) |
+| KeyHen | 181410 | [181410-keyhen.json](./181410-keyhen.json) |
 | KeyHero | 190368 | [190368-keyhero.json](./190368-keyhero.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
