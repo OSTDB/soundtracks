@@ -4479,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostWire: Tokyo - Metal Plate Edition | 191322 | [191322-ghostwire-tokyo-metal-plate-edition.json](./191322-ghostwire-tokyo-metal-plate-edition.json) |
 | Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
 | Ghostwire: Tokyo 2 | 267309 | [267309-ghostwire-tokyo-2.json](./267309-ghostwire-tokyo-2.json) |
+| Ghostwriter Hatate-chan | 205733 | [205733-ghostwriter-hatate-chan.json](./205733-ghostwriter-hatate-chan.json) |
 | Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
 | GhostX | 375396 | [375396-ghostx.json](./375396-ghostx.json) |
 | Ghosty | 156049 | [156049-ghosty.json](./156049-ghosty.json) |
