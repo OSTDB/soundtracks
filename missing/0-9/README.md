@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minutes: DLC 1 | 377395 | [377395-5-minutes-dlc-1.json](./377395-5-minutes-dlc-1.json) |
 | 5 Minutes: DLC 2 | 377394 | [377394-5-minutes-dlc-2.json](./377394-5-minutes-dlc-2.json) |
 | 5 Minutes: DLC Final | 377393 | [377393-5-minutes-dlc-final.json](./377393-5-minutes-dlc-final.json) |
+| 5 More Minutes | 215271 | [215271-5-more-minutes.json](./215271-5-more-minutes.json) |
 | 5 Nights at Bobr Kurwa | 335223 | [335223-5-nights-at-bobr-kurwa.json](./335223-5-nights-at-bobr-kurwa.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Hoax Freddy's | 277810 | [277810-5-nights-at-hoax-freddys.json](./277810-5-nights-at-hoax-freddys.json) |
