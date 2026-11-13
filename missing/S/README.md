@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai | 94847 | [94847-samurai.json](./94847-samurai.json) |
 | Samurai & Dragons | 64544 | [64544-samurai-and-dragons.json](./64544-samurai-and-dragons.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
+| Samurai Aces | 210802 | [210802-samurai-aces.json](./210802-samurai-aces.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
 | Samurai Aces III: Sengoku Cannon for Nintendo Switch | 212633 | [212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json](./212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json) |
@@ -10761,6 +10762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
 | Shǔxìng yǔ Shēnghuó | 109823 | [109823-shuxing-yu-shenghuo.json](./109823-shuxing-yu-shenghuo.json) |
 | Shuyaku ni Narenai Boku-tachi ha Kadan de Kaeru wo Tsubusunda. | 314849 | [314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json](./314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json) |
+| Shuyaku Sentai Irem Fighter | 210800 | [210800-shuyaku-sentai-irem-fighter.json](./210800-shuyaku-sentai-irem-fighter.json) |
 | Shuyaku wa Zenigata | 66203 | [66203-shuyaku-wa-zenigata.json](./66203-shuyaku-wa-zenigata.json) |
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
 | Shuyan Saga: All Episodes | 103995 | [103995-shuyan-saga-all-episodes.json](./103995-shuyan-saga-all-episodes.json) |
@@ -28027,6 +28029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starting Life In Another World Naked | 208421 | [208421-starting-life-in-another-world-naked.json](./208421-starting-life-in-another-world-naked.json) |
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
 | StarTirant | 407299 | [407299-startirant.json](./407299-startirant.json) |
+| Startling Adventures | 210809 | [210809-startling-adventures.json](./210809-startling-adventures.json) |
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | Startling Odyssey 1: Blue Evolution | 63928 | [63928-startling-odyssey-1-blue-evolution.json](./63928-startling-odyssey-1-blue-evolution.json) |
 | Startling Odyssey II: Maryuu Sensou | 63929 | [63929-startling-odyssey-ii-maryuu-sensou.json](./63929-startling-odyssey-ii-maryuu-sensou.json) |
@@ -29483,6 +29486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stink Eye | 68379 | [68379-stink-eye.json](./68379-stink-eye.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
 | Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
+| Stinky and Loof in Wonderland | 210761 | [210761-stinky-and-loof-in-wonderland.json](./210761-stinky-and-loof-in-wonderland.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
 | Stinky Snake | 104245 | [104245-stinky-snake.json](./104245-stinky-snake.json) |
 | Stinkytown | 317185 | [317185-stinkytown.json](./317185-stinkytown.json) |
