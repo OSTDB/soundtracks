@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
 | Abble Dabble HD | 175478 | [175478-abble-dabble-hd.json](./175478-abble-dabble-hd.json) |
+| AbbleDabble | 174319 | [174319-abbledabble.json](./174319-abbledabble.json) |
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Basic Skills Pre K | 88921 | [88921-abby-monkey-basic-skills-pre-k.json](./88921-abby-monkey-basic-skills-pre-k.json) |
@@ -10517,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andi's Moving Company | 182139 | [182139-andis-moving-company.json](./182139-andis-moving-company.json) |
 | Ando Tale | 411940 | [411940-ando-tale.json](./411940-ando-tale.json) |
 | Andon | 401287 | [401287-andon.json](./401287-andon.json) |
+| Andor Ladies | 173858 | [173858-andor-ladies.json](./173858-andor-ladies.json) |
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andoran Skye XD | 30385 | [30385-andoran-skye-xd.json](./30385-andoran-skye-xd.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
@@ -13673,6 +13675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARCA-102 | 342290 | [342290-arca-102.json](./342290-arca-102.json) |
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
 | Arcabbit | 363172 | [363172-arcabbit.json](./363172-arcabbit.json) |
+| Arcade | 173884 | [173884-arcade.json](./173884-arcade.json) |
 | Arcade & Action: XP Championship | 206131 | [206131-arcade-and-action-xp-championship.json](./206131-arcade-and-action-xp-championship.json) |
 | Arcade & Motel Simulator Together | 423052 | [423052-arcade-and-motel-simulator-together.json](./423052-arcade-and-motel-simulator-together.json) |
 | Arcade & Puzzle Games | 79626 | [79626-arcade-and-puzzle-games.json](./79626-arcade-and-puzzle-games.json) |
@@ -17496,6 +17499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids & Deluxe | 73043 | [73043-asteroids-and-deluxe.json](./73043-asteroids-and-deluxe.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
 | Asteroids ++ | 270049 | [270049-asteroids.json](./270049-asteroids.json) |
+| Asteroids 44 | 173893 | [173893-asteroids-44.json](./173893-asteroids-44.json) |
 | Asteroids and more asteroids | 217489 | [217489-asteroids-and-more-asteroids.json](./217489-asteroids-and-more-asteroids.json) |
 | Asteroids Arcade | 417452 | [417452-asteroids-arcade.json](./417452-asteroids-arcade.json) |
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
@@ -17559,6 +17563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonishing Baseball 2019 | 119695 | [119695-astonishing-baseball-2019.json](./119695-astonishing-baseball-2019.json) |
 | Astonishing Baseball 2019 for Windows | 125988 | [125988-astonishing-baseball-2019-for-windows.json](./125988-astonishing-baseball-2019-for-windows.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
+| Astonishing Baseball Manager 21 | 173888 | [173888-astonishing-baseball-manager-21.json](./173888-astonishing-baseball-manager-21.json) |
 | Astonishing Basketball Manager | 224116 | [224116-astonishing-basketball-manager.json](./224116-astonishing-basketball-manager.json) |
 | Astor: Blade of the Monolith | 256291 | [256291-astor-blade-of-the-monolith.json](./256291-astor-blade-of-the-monolith.json) |
 | Astoria Legends: Red Moon | 159145 | [159145-astoria-legends-red-moon.json](./159145-astoria-legends-red-moon.json) |
