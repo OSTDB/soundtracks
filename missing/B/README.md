@@ -5962,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
 | Beat the Nettles! | 382714 | [382714-beat-the-nettles.json](./382714-beat-the-nettles.json) |
+| Beat the Nightmare: Evil Dreams Simulator VR | 172236 | [172236-beat-the-nightmare-evil-dreams-simulator-vr.json](./172236-beat-the-nightmare-evil-dreams-simulator-vr.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
@@ -6215,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Feet Cabin | 241722 | [241722-beautiful-feet-cabin.json](./241722-beautiful-feet-cabin.json) |
 | Beautiful Girl | 368619 | [368619-beautiful-girl.json](./368619-beautiful-girl.json) |
 | Beautiful Girl Fight School | 130207 | [130207-beautiful-girl-fight-school.json](./130207-beautiful-girl-fight-school.json) |
+| Beautiful Girls | 172230 | [172230-beautiful-girls.json](./172230-beautiful-girls.json) |
 | Beautiful Girls on Campus: Memories of Youth | 420678 | [420678-beautiful-girls-on-campus-memories-of-youth.json](./420678-beautiful-girls-on-campus-memories-of-youth.json) |
 | Beautiful Indie Worlds | 331807 | [331807-beautiful-indie-worlds.json](./331807-beautiful-indie-worlds.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
@@ -10085,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Stone | 283059 | [283059-black-stone.json](./283059-black-stone.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
+| Black Sun | 172211 | [172211-black-sun.json](./172211-black-sun.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
 | Black Surge Night | 194074 | [194074-black-surge-night.json](./194074-black-surge-night.json) |
 | Black Survival | 54956 | [54956-black-survival.json](./54956-black-survival.json) |
@@ -11912,6 +11915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Glory: Immortals | 137572 | [137572-blood-and-glory-immortals.json](./137572-blood-and-glory-immortals.json) |
 | Blood & Gold: Caribbean! | 34141 | [34141-blood-and-gold-caribbean.json](./34141-blood-and-gold-caribbean.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
+| Blood & Gold: Caribbean! - The Zombiest Adventures | 172252 | [172252-blood-and-gold-caribbean-the-zombiest-adventures.json](./172252-blood-and-gold-caribbean-the-zombiest-adventures.json) |
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
