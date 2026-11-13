@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Zero Action | 50461 | [50461-fatal-zero-action.json](./50461-fatal-zero-action.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | Fatale | 15989 | [15989-fatale.json](./15989-fatale.json) |
+| Fatale | 215274 | [215274-fatale.json](./215274-fatale.json) |
 | FatalZone | 258907 | [258907-fatalzone.json](./258907-fatalzone.json) |
 | Fatberg | 382298 | [382298-fatberg.json](./382298-fatberg.json) |
 | FatCat with Hat: Reload the Powergun | 133634 | [133634-fatcat-with-hat-reload-the-powergun.json](./133634-fatcat-with-hat-reload-the-powergun.json) |
@@ -14981,6 +14982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
+| Furry Lust | 214805 | [214805-furry-lust.json](./214805-furry-lust.json) |
 | Furry Master: Slutbunnies | 393381 | [393381-furry-master-slutbunnies.json](./393381-furry-master-slutbunnies.json) |
 | Furry Meow | 224241 | [224241-furry-meow.json](./224241-furry-meow.json) |
 | Furry Milfs | 248815 | [248815-furry-milfs.json](./248815-furry-milfs.json) |
