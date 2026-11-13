@@ -3476,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooh, Aah, & You: Fetch-a-Fruit | 98316 | [98316-ooh-aah-and-you-fetch-a-fruit.json](./98316-ooh-aah-and-you-fetch-a-fruit.json) |
 | Ooka Ooka Adventure | 291732 | [291732-ooka-ooka-adventure.json](./291732-ooka-ooka-adventure.json) |
 | Ookami Game | 151847 | [151847-ookami-game.json](./151847-ookami-game.json) |
+| Ookami Game Another | 202878 | [202878-ookami-game-another.json](./202878-ookami-game-another.json) |
 | Ookami Kakushi | 197613 | [197613-ookami-kakushi.json](./197613-ookami-kakushi.json) |
 | Ookami Okami | 343046 | [343046-ookami-okami.json](./343046-ookami-okami.json) |
 | Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
