@@ -9827,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | Circadian Cycle Deepest Sleep | 214708 | [214708-circadian-cycle-deepest-sleep.json](./214708-circadian-cycle-deepest-sleep.json) |
 | Circadian Dice | 148873 | [148873-circadian-dice.json](./148873-circadian-dice.json) |
+| Circe's revenge | 173855 | [173855-circes-revenge.json](./173855-circes-revenge.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle | 129066 | [129066-circle.json](./129066-circle.json) |
 | Circle | 186428 | [186428-circle.json](./186428-circle.json) |
@@ -22222,6 +22223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute Fish | 277682 | [277682-cute-fish.json](./277682-cute-fish.json) |
+| Cute Girl | 173860 | [173860-cute-girl.json](./173860-cute-girl.json) |
+| Cute Girl 2 | 173852 | [173852-cute-girl-2.json](./173852-cute-girl-2.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
 | Cute Hedgehog | 84100 | [84100-cute-hedgehog.json](./84100-cute-hedgehog.json) |
