@@ -4942,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers Beyond | 380811 | [380811-whispers-beyond.json](./380811-whispers-beyond.json) |
 | Whispers From Below | 422694 | [422694-whispers-from-below.json](./422694-whispers-from-below.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
+| Whispers from the Sky | 176543 | [176543-whispers-from-the-sky.json](./176543-whispers-from-the-sky.json) |
 | Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
 | Whispers in the Bitter Frost | 369289 | [369289-whispers-in-the-bitter-frost.json](./369289-whispers-in-the-bitter-frost.json) |
@@ -9868,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck the Fed | 204898 | [204898-wreck-the-fed.json](./204898-wreck-the-fed.json) |
 | Wreck the Insects | 150829 | [150829-wreck-the-insects.json](./150829-wreck-the-insects.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
+| Wreck the Party! Thanksgiving Edition | 176547 | [176547-wreck-the-party-thanksgiving-edition.json](./176547-wreck-the-party-thanksgiving-edition.json) |
 | Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreck-It Ralph: The Video Game | 51655 | [51655-wreck-it-ralph-the-video-game.json](./51655-wreck-it-ralph-the-video-game.json) |
