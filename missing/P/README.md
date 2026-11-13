@@ -12174,6 +12174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
 | Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
+| Pokémon Ethos | 188539 | [188539-pokemon-ethos.json](./188539-pokemon-ethos.json) |
 | Pokémon Evol | 314729 | [314729-pokemon-evol.json](./314729-pokemon-evol.json) |
 | Pokémon Exceeded | 317478 | [317478-pokemon-exceeded.json](./317478-pokemon-exceeded.json) |
 | Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
