@@ -12232,6 +12232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
 | Divinity: Original Sin 2 - Eternal Edition | 124977 | [124977-divinity-original-sin-2-eternal-edition.json](./124977-divinity-original-sin-2-eternal-edition.json) |
 | Divinity: Original Sin II - Definitive Edition | 103337 | [103337-divinity-original-sin-ii-definitive-edition.json](./103337-divinity-original-sin-ii-definitive-edition.json) |
+| Divinity: Original Sin II - Definitive Edition: Companion - Sir Lora the Squirrel | 172234 | [172234-divinity-original-sin-ii-definitive-edition-companion-sir-lora-the-squirrel.json](./172234-divinity-original-sin-ii-definitive-edition-companion-sir-lora-the-squirrel.json) |
 | Divinity: Original Sin II - Divine Edition | 154209 | [154209-divinity-original-sin-ii-divine-edition.json](./154209-divinity-original-sin-ii-divine-edition.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinum | 122521 | [122521-divinum.json](./122521-divinum.json) |
@@ -16880,6 +16881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Rock | 49303 | [49303-dragons-rock.json](./49303-dragons-rock.json) |
 | Dragon's Ruler | 268299 | [268299-dragons-ruler.json](./268299-dragons-ruler.json) |
+| Dragon's Tower | 172210 | [172210-dragons-tower.json](./172210-dragons-tower.json) |
 | Dragon's Treasure | 236589 | [236589-dragons-treasure.json](./236589-dragons-treasure.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Vengeance | 154047 | [154047-dragons-vengeance.json](./154047-dragons-vengeance.json) |
