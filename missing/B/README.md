@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BandFuse: Rock Legends | 5498 | [5498-bandfuse-rock-legends.json](./5498-bandfuse-rock-legends.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandido Rush | 348584 | [348584-bandido-rush.json](./348584-bandido-rush.json) |
+| Bandit | 234370 | [234370-bandit.json](./234370-bandit.json) |
 | Bandit | 251553 | [251553-bandit.json](./251553-bandit.json) |
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 372709 | [372709-bandit.json](./372709-bandit.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
 | Barrel It: The Water Adventure | 248392 | [248392-barrel-it-the-water-adventure.json](./248392-barrel-it-the-water-adventure.json) |
 | Barrel of DNA | 175220 | [175220-barrel-of-dna.json](./175220-barrel-of-dna.json) |
+| Barrel of Monkeys | 234786 | [234786-barrel-of-monkeys.json](./234786-barrel-of-monkeys.json) |
 | Barrel Patrol 3D | 359705 | [359705-barrel-patrol-3d.json](./359705-barrel-patrol-3d.json) |
 | Barrel Rescue | 7438 | [7438-barrel-rescue.json](./7438-barrel-rescue.json) |
 | Barrel River 2 | 196809 | [196809-barrel-river-2.json](./196809-barrel-river-2.json) |
@@ -16809,6 +16811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Remix | 134930 | [134930-brick-breaker-remix.json](./134930-brick-breaker-remix.json) |
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
 | Brick Breaker Saga | 28511 | [28511-brick-breaker-saga.json](./28511-brick-breaker-saga.json) |
+| Brick Breaker Star: Space King | 234955 | [234955-brick-breaker-star-space-king.json](./234955-brick-breaker-star-space-king.json) |
 | Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
 | Brick Breaker VR | 133667 | [133667-brick-breaker-vr.json](./133667-brick-breaker-vr.json) |
