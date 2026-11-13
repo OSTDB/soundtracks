@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Girls | 338192 | [338192-banana-girls.json](./338192-banana-girls.json) |
 | Banana Grab | 231626 | [231626-banana-grab.json](./231626-banana-grab.json) |
 | Banana Hell | 140861 | [140861-banana-hell.json](./140861-banana-hell.json) |
+| Banana Hell: Mountain of Madness | 208535 | [208535-banana-hell-mountain-of-madness.json](./208535-banana-hell-mountain-of-madness.json) |
 | Banana Heroes: Fruit Survivor | 245371 | [245371-banana-heroes-fruit-survivor.json](./245371-banana-heroes-fruit-survivor.json) |
 | Banana Hunter | 192954 | [192954-banana-hunter.json](./192954-banana-hunter.json) |
 | Banana Invaders | 121903 | [121903-banana-invaders.json](./121903-banana-invaders.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Red Cliffs VR | 74604 | [74604-battle-of-red-cliffs-vr.json](./74604-battle-of-red-cliffs-vr.json) |
+| Battle of S Fighters | 207954 | [207954-battle-of-s-fighters.json](./207954-battle-of-s-fighters.json) |
 | Battle of Ships 3D: Naval War | 88703 | [88703-battle-of-ships-3d-naval-war.json](./88703-battle-of-ships-3d-naval-war.json) |
 | Battle of Sunrise | 69399 | [69399-battle-of-sunrise.json](./69399-battle-of-sunrise.json) |
 | Battle of Tanks | 207468 | [207468-battle-of-tanks.json](./207468-battle-of-tanks.json) |
@@ -12229,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodpire | 216744 | [216744-bloodpire.json](./216744-bloodpire.json) |
+| BloodPit: Skelton II | 208489 | [208489-bloodpit-skelton-ii.json](./208489-bloodpit-skelton-ii.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | Bloodpunished: No Time Por Patience | 351373 | [351373-bloodpunished-no-time-por-patience.json](./351373-bloodpunished-no-time-por-patience.json) |
 | Bloodrails | 300599 | [300599-bloodrails.json](./300599-bloodrails.json) |
