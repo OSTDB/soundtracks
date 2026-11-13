@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
 | Game of War: Fire Age | 8685 | [8685-game-of-war-fire-age.json](./8685-game-of-war-fire-age.json) |
 | Game of Whores | 240561 | [240561-game-of-whores.json](./240561-game-of-whores.json) |
+| Game of Words | 227556 | [227556-game-of-words.json](./227556-game-of-words.json) |
 | Game of Words | 71254 | [71254-game-of-words.json](./71254-game-of-words.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
 | Game Over | 193065 | [193065-game-over.json](./193065-game-over.json) |
