@@ -19773,6 +19773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
 | Mountain Climb Driver | 253225 | [253225-mountain-climb-driver.json](./253225-mountain-climb-driver.json) |
 | Mountain Climb: Stunt | 175024 | [175024-mountain-climb-stunt.json](./175024-mountain-climb-stunt.json) |
+| Mountain Climber: Frozen Dream | 218611 | [218611-mountain-climber-frozen-dream.json](./218611-mountain-climber-frozen-dream.json) |
 | Mountain Crime: Requital | 34640 | [34640-mountain-crime-requital.json](./34640-mountain-crime-requital.json) |
 | Mountain Driving | 270989 | [270989-mountain-driving.json](./270989-mountain-driving.json) |
 | Mountain Goat Mountain | 22447 | [22447-mountain-goat-mountain.json](./22447-mountain-goat-mountain.json) |
@@ -19970,6 +19971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Trivia | 87079 | [87079-movie-trivia.json](./87079-movie-trivia.json) |
 | Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Movie World | 132349 | [132349-movie-world.json](./132349-movie-world.json) |
+| Moviedle | 218743 | [218743-moviedle.json](./218743-moviedle.json) |
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Moviehouse | 206428 | [206428-moviehouse.json](./206428-moviehouse.json) |
 | Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
