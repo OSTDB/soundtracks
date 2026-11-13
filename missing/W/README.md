@@ -4943,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Moss | 236480 | [236480-whispers-in-the-moss.json](./236480-whispers-in-the-moss.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
+| Whispers in the West | 190112 | [190112-whispers-in-the-west.json](./190112-whispers-in-the-west.json) |
 | Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of a Machine: Blue Edition | 124894 | [124894-whispers-of-a-machine-blue-edition.json](./124894-whispers-of-a-machine-blue-edition.json) |
@@ -5859,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness Survival: The Conservationist | 212895 | [212895-wilderness-survival-the-conservationist.json](./212895-wilderness-survival-the-conservationist.json) |
 | Wilderness: A Survival Adventure | 25888 | [25888-wilderness-a-survival-adventure.json](./25888-wilderness-a-survival-adventure.json) |
 | Wilderness: Survival | 336678 | [336678-wilderness-survival.json](./336678-wilderness-survival.json) |
+| Wilderplace | 190125 | [190125-wilderplace.json](./190125-wilderplace.json) |
 | Wildest of the Wild | 111250 | [111250-wildest-of-the-wild.json](./111250-wildest-of-the-wild.json) |
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
 | Wildfire | 245607 | [245607-wildfire.json](./245607-wildfire.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
 | Witchaven II: Blood Vengeance | 8688 | [8688-witchaven-ii-blood-vengeance.json](./8688-witchaven-ii-blood-vengeance.json) |
 | Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
+| Witchbane | 190110 | [190110-witchbane.json](./190110-witchbane.json) |
 | Witchbeat | 179618 | [179618-witchbeat.json](./179618-witchbeat.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 309021 | [309021-witchblood.json](./309021-witchblood.json) |
