@@ -70,4 +70,4 @@ In both cases the game's own cover art is **not** part of this file — it's fet
 
 ## License of your contribution
 
-By opening a pull request or submitting on ostdb.net, you agree that your contribution becomes part of the OSTDB database and is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), like the rest of the data (see [`NOTICE.md`](NOTICE.md)), and that OSTDB may use, edit, combine and publish it as part of the database, including under future versions of that license. Only submit links to official, publicly available releases.
+By opening a pull request or submitting on ostdb.net, you agree that your contribution becomes part of the OSTDB database and is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), like the rest of the data (see [`NOTICE.md`](NOTICE.md)), and that OSTDB may use, edit, combine and publish it as part of the database, including under future versions of that license. Only submit links to official, publicly available releases.
