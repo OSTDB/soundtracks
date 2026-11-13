@@ -14074,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
 | Port Royale 4 | 121764 | [121764-port-royale-4.json](./121764-port-royale-4.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
+| Port Royale 4: Buccaneers Edition | 220903 | [220903-port-royale-4-buccaneers-edition.json](./220903-port-royale-4-buccaneers-edition.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
 | Port Shipping Tycoon | 351718 | [351718-port-shipping-tycoon.json](./351718-port-shipping-tycoon.json) |
