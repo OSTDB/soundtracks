@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
 | A Passive Boy at the Huntress Clinic | 240215 | [240215-a-passive-boy-at-the-huntress-clinic.json](./240215-a-passive-boy-at-the-huntress-clinic.json) |
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
+| A Path to Light | 211326 | [211326-a-path-to-light.json](./211326-a-path-to-light.json) |
 | A Path to the Princess | 224586 | [224586-a-path-to-the-princess.json](./224586-a-path-to-the-princess.json) |
 | A Peculiar Adventure on Bast | 216720 | [216720-a-peculiar-adventure-on-bast.json](./216720-a-peculiar-adventure-on-bast.json) |
 | A Penny For Some Motivation | 95263 | [95263-a-penny-for-some-motivation.json](./95263-a-penny-for-some-motivation.json) |
@@ -3619,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adonis | 82358 | [82358-adonis.json](./82358-adonis.json) |
 | Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
+| Adopt an Animal Near Me | 211312 | [211312-adopt-an-animal-near-me.json](./211312-adopt-an-animal-near-me.json) |
 | Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
 | Adoption | 55670 | [55670-adoption.json](./55670-adoption.json) |
