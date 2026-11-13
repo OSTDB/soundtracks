@@ -7032,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Wheel Tuning Pack | 224304 | [224304-euro-truck-simulator-2-wheel-tuning-pack.json](./224304-euro-truck-simulator-2-wheel-tuning-pack.json) |
 | Euro Truck Simulator 2: Wielton Trailer Pack | 256992 | [256992-euro-truck-simulator-2-wielton-trailer-pack.json](./256992-euro-truck-simulator-2-wielton-trailer-pack.json) |
 | Euro Truck Simulator 2: XF Tuning Pack | 224305 | [224305-euro-truck-simulator-2-xf-tuning-pack.json](./224305-euro-truck-simulator-2-xf-tuning-pack.json) |
+| Euro Truck Simulator 2022 | 197843 | [197843-euro-truck-simulator-2022.json](./197843-euro-truck-simulator-2022.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
