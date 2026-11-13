@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Jam | 344982 | [344982-race-jam.json](./344982-race-jam.json) |
 | Race Journey | 227711 | [227711-race-journey.json](./227711-race-journey.json) |
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
+| Race Kings | 174929 | [174929-race-kings.json](./174929-race-kings.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Maniacs | 132605 | [132605-race-maniacs.json](./132605-race-maniacs.json) |
 | Race Master 3D | 421332 | [421332-race-master-3d.json](./421332-race-master-3d.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen | 93684 | [93684-ramen.json](./93684-ramen.json) |
 | Ramen Bowl Chicken Roll | 101442 | [101442-ramen-bowl-chicken-roll.json](./101442-ramen-bowl-chicken-roll.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
+| Ramen Craze | 174922 | [174922-ramen-craze.json](./174922-ramen-craze.json) |
 | Ramen Haven | 414728 | [414728-ramen-haven.json](./414728-ramen-haven.json) |
 | Ramen Heaven | 209318 | [209318-ramen-heaven.json](./209318-ramen-heaven.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
@@ -5199,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
 | Rekt Party | 332888 | [332888-rekt-party.json](./332888-rekt-party.json) |
+| Rekt: Crash Test | 174403 | [174403-rekt-crash-test.json](./174403-rekt-crash-test.json) |
 | Rekt! | 74162 | [74162-rekt.json](./74162-rekt.json) |
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
 | Rekt!: The Forge | 238027 | [238027-rekt-the-forge.json](./238027-rekt-the-forge.json) |
@@ -13884,6 +13887,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running With Rifles | 11584 | [11584-running-with-rifles.json](./11584-running-with-rifles.json) |
 | Running With Rifles 2 | 359709 | [359709-running-with-rifles-2.json](./359709-running-with-rifles-2.json) |
 | Running With Rifles: Eastern Front | 222673 | [222673-running-with-rifles-eastern-front.json](./222673-running-with-rifles-eastern-front.json) |
+| Running With Rifles: Edelweiss | 174406 | [174406-running-with-rifles-edelweiss.json](./174406-running-with-rifles-edelweiss.json) |
+| Running With Rifles: Pacific | 174405 | [174405-running-with-rifles-pacific.json](./174405-running-with-rifles-pacific.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
@@ -14197,6 +14202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
 | Rustil: Eternal Labyrinth Castle | 247984 | [247984-rustil-eternal-labyrinth-castle.json](./247984-rustil-eternal-labyrinth-castle.json) |
 | Rusting Souls | 257520 | [257520-rusting-souls.json](./257520-rusting-souls.json) |
+| Rustland | 174916 | [174916-rustland.json](./174916-rustland.json) |
 | Rustle | 181346 | [181346-rustle.json](./181346-rustle.json) |
 | Rustled Pete | 212822 | [212822-rustled-pete.json](./212822-rustled-pete.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
