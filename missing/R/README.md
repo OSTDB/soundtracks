@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Racing | 100787 | [100787-real-car-racing.json](./100787-real-car-racing.json) |
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
+| Real Coaster | 227553 | [227553-real-coaster.json](./227553-real-coaster.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
 | Real Craft: City Builder | 101382 | [101382-real-craft-city-builder.json](./101382-real-craft-city-builder.json) |
 | Real Cricket '14 | 61198 | [61198-real-cricket-14.json](./61198-real-cricket-14.json) |
@@ -9560,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocock | 240015 | [240015-robocock.json](./240015-robocock.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
 | Robocod: James Pond II | 368919 | [368919-robocod-james-pond-ii.json](./368919-robocod-james-pond-ii.json) |
+| Robocoder: Dwarf Mountain | 227585 | [227585-robocoder-dwarf-mountain.json](./227585-robocoder-dwarf-mountain.json) |
 | RoboCop | 112909 | [112909-robocop.json](./112909-robocop.json) |
 | RoboCop | 198282 | [198282-robocop.json](./198282-robocop.json) |
 | RoboCop | 198283 | [198283-robocop.json](./198283-robocop.json) |
