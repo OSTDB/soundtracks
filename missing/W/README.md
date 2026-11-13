@@ -4320,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie Bike 2 | 114725 | [114725-wheelie-bike-2.json](./114725-wheelie-bike-2.json) |
 | Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
+| Wheelie King 5 | 238712 | [238712-wheelie-king-5.json](./238712-wheelie-king-5.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
 | Wheelie King Online | 166883 | [166883-wheelie-king-online.json](./166883-wheelie-king-online.json) |
 | Wheelie King VR | 118035 | [118035-wheelie-king-vr.json](./118035-wheelie-king-vr.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Conqueror of Jiangdong | 267601 | [267601-wo-long-fallen-dynasty-conqueror-of-jiangdong.json](./267601-wo-long-fallen-dynasty-conqueror-of-jiangdong.json) |
+| Wo Long: Fallen Dynasty - Digital Deluxe Edition | 238702 | [238702-wo-long-fallen-dynasty-digital-deluxe-edition.json](./238702-wo-long-fallen-dynasty-digital-deluxe-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
 | Wo Long: Fallen Dynasty - Upheaval in Jingxiang | 280240 | [280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json](./280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json) |
 | Wǒ Shì Yuànzhǎng | 126166 | [126166-wo-shi-yuanzhang.json](./126166-wo-shi-yuanzhang.json) |
