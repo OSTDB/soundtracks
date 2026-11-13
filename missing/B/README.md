@@ -4293,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Pirates: Legend Return | 194147 | [194147-battle-of-pirates-legend-return.json](./194147-battle-of-pirates-legend-return.json) |
 | Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
+| Battle of Rebels | 192999 | [192999-battle-of-rebels.json](./192999-battle-of-rebels.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Red Cliffs VR | 74604 | [74604-battle-of-red-cliffs-vr.json](./74604-battle-of-red-cliffs-vr.json) |
 | Battle of S Fighters | 207954 | [207954-battle-of-s-fighters.json](./207954-battle-of-s-fighters.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships Combat: Evolved | 364609 | [364609-battleships-combat-evolved.json](./364609-battleships-combat-evolved.json) |
 | Battleships General Quarters | 273563 | [273563-battleships-general-quarters.json](./273563-battleships-general-quarters.json) |
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
+| Battleships: Command of the Sea | 193399 | [193399-battleships-command-of-the-sea.json](./193399-battleships-command-of-the-sea.json) |
 | Battleshots: Chaos Edition | 321945 | [321945-battleshots-chaos-edition.json](./321945-battleshots-chaos-edition.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesight | 132128 | [132128-battlesight.json](./132128-battlesight.json) |
@@ -8723,6 +8725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Fighter | 135412 | [135412-binary-fighter.json](./135412-binary-fighter.json) |
 | Binary Game | 369538 | [369538-binary-game.json](./369538-binary-game.json) |
 | Binary Gods | 142064 | [142064-binary-gods.json](./142064-binary-gods.json) |
+| Binary Golf | 192998 | [192998-binary-golf.json](./192998-binary-golf.json) |
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
