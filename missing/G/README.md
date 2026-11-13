@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
+| Genso Nikki | 202290 | [202290-genso-nikki.json](./202290-genso-nikki.json) |
 | Genso Rondo | 60319 | [60319-genso-rondo.json](./60319-genso-rondo.json) |
 | Genso Rondo: Additional character "Aya Shameimaru" | 212665 | [212665-genso-rondo-additional-character-aya-shameimaru.json](./212665-genso-rondo-additional-character-aya-shameimaru.json) |
 | Genso Rondo: Additional character "Flandre Scarlet" | 212666 | [212666-genso-rondo-additional-character-flandre-scarlet.json](./212666-genso-rondo-additional-character-flandre-scarlet.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleeb Glob | 221613 | [221613-gleeb-glob.json](./221613-gleeb-glob.json) |
 | Gleeorp the Great Great | 392984 | [392984-gleeorp-the-great-great.json](./392984-gleeorp-the-great-great.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
+| Glemsomhet | 202291 | [202291-glemsomhet.json](./202291-glemsomhet.json) |
 | Glen Hoddle Soccer | 85907 | [85907-glen-hoddle-soccer.json](./85907-glen-hoddle-soccer.json) |
 | Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
 | Glen: A Dull Journey into the Unremarkable | 306242 | [306242-glen-a-dull-journey-into-the-unremarkable.json](./306242-glen-a-dull-journey-into-the-unremarkable.json) |
@@ -8708,6 +8710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto VI: Ultimate Edition | 407999 | [407999-grand-theft-auto-vi-ultimate-edition.json](./407999-grand-theft-auto-vi-ultimate-edition.json) |
 | Grand Theft Auto VI: Vintage Vice City Pack | 408002 | [408002-grand-theft-auto-vi-vintage-vice-city-pack.json](./408002-grand-theft-auto-vi-vintage-vice-city-pack.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
+| Grand Theft Auto: Anime | 202302 | [202302-grand-theft-auto-anime.json](./202302-grand-theft-auto-anime.json) |
 | Grand Theft Auto: Brasil | 163114 | [163114-grand-theft-auto-brasil.json](./163114-grand-theft-auto-brasil.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
