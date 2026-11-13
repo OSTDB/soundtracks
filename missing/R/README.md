@@ -9719,6 +9719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboFarm | 376419 | [376419-robofarm.json](./376419-robofarm.json) |
 | RoboFight.io | 122888 | [122888-robofight-io.json](./122888-robofight-io.json) |
 | Roboforge | 92779 | [92779-roboforge.json](./92779-roboforge.json) |
+| Robogal | 171119 | [171119-robogal.json](./171119-robogal.json) |
 | RoboGal: Gaga Delta Lady | 306994 | [306994-robogal-gaga-delta-lady.json](./306994-robogal-gaga-delta-lady.json) |
 | RoboGenesis | 110629 | [110629-robogenesis.json](./110629-robogenesis.json) |
 | Roboggled | 156933 | [156933-roboggled.json](./156933-roboggled.json) |
