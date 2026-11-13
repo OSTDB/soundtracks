@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942 | 272544 | [272544-1942.json](./272544-1942.json) |
 | 1942 | 300045 | [300045-1942.json](./300045-1942.json) |
 | 1942 | 6075 | [6075-1942.json](./6075-1942.json) |
+| 1942 Delta | 191285 | [191285-1942-delta.json](./191285-1942-delta.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1942: Joint Strike | 21346 | [21346-1942-joint-strike.json](./21346-1942-joint-strike.json) |
