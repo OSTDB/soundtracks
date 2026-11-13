@@ -4319,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Cause Mobile | 141548 | [141548-just-cause-mobile.json](./141548-just-cause-mobile.json) |
 | Just Chatting | 393228 | [393228-just-chatting.json](./393228-just-chatting.json) |
+| Just Chill Buddhist Sports VR | 221297 | [221297-just-chill-buddhist-sports-vr.json](./221297-just-chill-buddhist-sports-vr.json) |
 | Just Clean Your Room | 415502 | [415502-just-clean-your-room.json](./415502-just-clean-your-room.json) |
 | Just Click the Button | 264738 | [264738-just-click-the-button.json](./264738-just-click-the-button.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
