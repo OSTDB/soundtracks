@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
 | Techwars Deathmatch | 96872 | [96872-techwars-deathmatch.json](./96872-techwars-deathmatch.json) |
 | Techwars Global Conflict | 123137 | [123137-techwars-global-conflict.json](./123137-techwars-global-conflict.json) |
+| Techwars Global Conflict: Birthday Edition | 188057 | [188057-techwars-global-conflict-birthday-edition.json](./188057-techwars-global-conflict-birthday-edition.json) |
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
@@ -13317,6 +13318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Road | 414813 | [414813-the-last-road.json](./414813-the-last-road.json) |
 | The Last Rocket | 64645 | [64645-the-last-rocket.json](./64645-the-last-rocket.json) |
 | The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
+| The Last Rolling Hero: Destiny | 187998 | [187998-the-last-rolling-hero-destiny.json](./187998-the-last-rolling-hero-destiny.json) |
 | The Last Roman Village | 113837 | [113837-the-last-roman-village.json](./113837-the-last-roman-village.json) |
 | The Last Roman Village 2 | 211988 | [211988-the-last-roman-village-2.json](./211988-the-last-roman-village-2.json) |
 | The Last Root | 244542 | [244542-the-last-root.json](./244542-the-last-root.json) |
@@ -14994,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Metronomicon: Slay the Dance Floor | 19880 | [19880-the-metronomicon-slay-the-dance-floor.json](./19880-the-metronomicon-slay-the-dance-floor.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 1 | 225230 | [225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json](./225230-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-1.json) |
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 2 | 225231 | [225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json](./225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json) |
+| The Metronomicon: Slay the Dance Floor - Deluxe Edition | 188062 | [188062-the-metronomicon-slay-the-dance-floor-deluxe-edition.json](./188062-the-metronomicon-slay-the-dance-floor-deluxe-edition.json) |
 | The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1 | 224485 | [224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json](./224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json) |
 | The Metronomicon: Slay the Dance Floor - J-Punch Challenge Pack | 225233 | [225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json](./225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json) |
 | The Metronomicon: Slay the Dance Floor - J-Punch Pack | 154690 | [154690-the-metronomicon-slay-the-dance-floor-j-punch-pack.json](./154690-the-metronomicon-slay-the-dance-floor-j-punch-pack.json) |
@@ -31046,6 +31049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: New Zealand Ja Class Steam Loco | 195434 | [195434-train-simulator-classic-new-zealand-ja-class-steam-loco.json](./195434-train-simulator-classic-new-zealand-ja-class-steam-loco.json) |
 | Train Simulator Classic: New Zealand Kb Class Steam Loco | 237406 | [237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json](./237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json) |
 | Train Simulator Classic: Norfolk Southern Saluda Grade Route Add-On | 357293 | [357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json](./357293-train-simulator-classic-norfolk-southern-saluda-grade-route-add-on.json) |
+| Train Simulator Classic: North Wales Coast Line - Crewe: Holyhead Route Add-On | 187573 | [187573-train-simulator-classic-north-wales-coast-line-crewe-holyhead-route-add-on.json](./187573-train-simulator-classic-north-wales-coast-line-crewe-holyhead-route-add-on.json) |
 | Train Simulator Classic: ÖBB 5081 Schienenbus | 264565 | [264565-train-simulator-classic-obb-5081-schienenbus.json](./264565-train-simulator-classic-obb-5081-schienenbus.json) |
 | Train Simulator Classic: ÖBB 8073 | 284880 | [284880-train-simulator-classic-obb-8073.json](./284880-train-simulator-classic-obb-8073.json) |
 | Train Simulator Classic: Ostbahn - Wien Hbf - Hegyeshalom - Bratislava-Petrzalka Route Add-On | 357280 | [357280-train-simulator-classic-ostbahn-wien-hbf-hegyeshalom-bratislava-petrzalka-route-add-on.json](./357280-train-simulator-classic-ostbahn-wien-hbf-hegyeshalom-bratislava-petrzalka-route-add-on.json) |
