@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Brief Tryst | 73658 | [73658-a-brief-tryst.json](./73658-a-brief-tryst.json) |
+| A Bright Light in the Middle of the Ocean | 182551 | [182551-a-bright-light-in-the-middle-of-the-ocean.json](./182551-a-bright-light-in-the-middle-of-the-ocean.json) |
 | A Bro's Desire | 253099 | [253099-a-bros-desire.json](./253099-a-bros-desire.json) |
 | A Broken City | 183537 | [183537-a-broken-city.json](./183537-a-broken-city.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Forgetful Loop | 140905 | [140905-a-forgetful-loop.json](./140905-a-forgetful-loop.json) |
 | A Fork in the Tale | 54635 | [54635-a-fork-in-the-tale.json](./54635-a-fork-in-the-tale.json) |
+| A Forsaken Place | 182956 | [182956-a-forsaken-place.json](./182956-a-forsaken-place.json) |
 | A Forwards, A Backwards | 364341 | [364341-a-forwards-a-backwards.json](./364341-a-forwards-a-backwards.json) |
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
@@ -2874,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Turnabout Of A Legend | 303001 | [303001-ace-attorney-turnabout-of-a-legend.json](./303001-ace-attorney-turnabout-of-a-legend.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
 | Ace Attorneydle | 349208 | [349208-ace-attorneydle.json](./349208-ace-attorneydle.json) |
+| Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
 | Ace Ball | 76162 | [76162-ace-ball.json](./76162-ace-ball.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Blackring in the Quest for Garlic Bread | 334418 | [334418-ace-blackring-in-the-quest-for-garlic-bread.json](./334418-ace-blackring-in-the-quest-for-garlic-bread.json) |
@@ -4953,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the End | 73577 | [73577-after-the-end.json](./73577-after-the-end.json) |
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
 | After the End Fan Fork | 355996 | [355996-after-the-end-fan-fork.json](./355996-after-the-end-fan-fork.json) |
+| After the End with Miaobot | 183009 | [183009-after-the-end-with-miaobot.json](./183009-after-the-end-with-miaobot.json) |
 | After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
 | After The End: The Harvest | 34892 | [34892-after-the-end-the-harvest.json](./34892-after-the-end-the-harvest.json) |
@@ -5495,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Hammer | 90780 | [90780-agent-hammer.json](./90780-agent-hammer.json) |
 | Agent Hawk | 338655 | [338655-agent-hawk.json](./338655-agent-hawk.json) |
 | Agent Heart: Deception | 259180 | [259180-agent-heart-deception.json](./259180-agent-heart-deception.json) |
+| Agent Hlina | 182430 | [182430-agent-hlina.json](./182430-agent-hlina.json) |
 | Agent Horny: Season 1 | 384893 | [384893-agent-horny-season-1.json](./384893-agent-horny-season-1.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
@@ -17916,6 +17921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
 | Astronarch | 132353 | [132353-astronarch.json](./132353-astronarch.json) |
+| Astronation | 182578 | [182578-astronation.json](./182578-astronation.json) |
 | Astronaut Adventure | 323489 | [323489-astronaut-adventure.json](./323489-astronaut-adventure.json) |
 | Astronaut Assault | 291286 | [291286-astronaut-assault.json](./291286-astronaut-assault.json) |
 | Astronaut Bundle | 247142 | [247142-astronaut-bundle.json](./247142-astronaut-bundle.json) |
