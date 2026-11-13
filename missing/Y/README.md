@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Left Me. | 99119 | [99119-you-left-me.json](./99119-you-left-me.json) |
 | You Left Us | 293968 | [293968-you-left-us.json](./293968-you-left-us.json) |
 | You Lose. Good Day, Sir. | 180454 | [180454-you-lose-good-day-sir.json](./180454-you-lose-good-day-sir.json) |
+| You Love Him | 179102 | [179102-you-love-him.json](./179102-you-love-him.json) |
 | You Make the Game | 342878 | [342878-you-make-the-game.json](./342878-you-make-the-game.json) |
 | You Make The Game | 377138 | [377138-you-make-the-game.json](./377138-you-make-the-game.json) |
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
@@ -1988,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki Jump | 396836 | [396836-yuki-jump.json](./396836-yuki-jump.json) |
 | Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
+| Yuki no Wai-wai Kids | 179217 | [179217-yuki-no-wai-wai-kids.json](./179217-yuki-no-wai-wai-kids.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki-iro Sign | 240708 | [240708-yuki-iro-sign.json](./240708-yuki-iro-sign.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
