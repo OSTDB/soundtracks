@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bad Game of Football | 203751 | [203751-a-bad-game-of-football.json](./203751-a-bad-game-of-football.json) |
 | A Bad Space Game | 379079 | [379079-a-bad-space-game.json](./379079-a-bad-space-game.json) |
 | A Baker's Dungeon | 423363 | [423363-a-bakers-dungeon.json](./423363-a-bakers-dungeon.json) |
+| A Balanced Brew | 209085 | [209085-a-balanced-brew.json](./209085-a-balanced-brew.json) |
 | A Ball Id | 365938 | [365938-a-ball-id.json](./365938-a-ball-id.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
@@ -9679,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amikin Survival | 304969 | [304969-amikin-survival.json](./304969-amikin-survival.json) |
 | Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
 | Amiko Arena | 425861 | [425861-amiko-arena.json](./425861-amiko-arena.json) |
+| Amiko Legends | 209097 | [209097-amiko-legends.json](./209097-amiko-legends.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | Amir Khan Khanage | 58599 | [58599-amir-khan-khanage.json](./58599-amir-khan-khanage.json) |
