@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sango Fighter | 46932 | [46932-sango-fighter.json](./46932-sango-fighter.json) |
 | Sango Fighter 2 | 46931 | [46931-sango-fighter-2.json](./46931-sango-fighter-2.json) |
 | Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
+| Sango: Tales from the Coral Cave | 182571 | [182571-sango-tales-from-the-coral-cave.json](./182571-sango-tales-from-the-coral-cave.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
 | Sangoku Hime: Ransei, Tenka Sanbun no Kei | 62130 | [62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json](./62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json) |
@@ -6621,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
 | Seven Days | 25709 | [25709-seven-days.json](./25709-seven-days.json) |
+| Seven Days in Purgatory | 182566 | [182566-seven-days-in-purgatory.json](./182566-seven-days-in-purgatory.json) |
 | Seven Days on the Edge: Galactic Fringe | 391423 | [391423-seven-days-on-the-edge-galactic-fringe.json](./391423-seven-days-on-the-edge-galactic-fringe.json) |
 | Seven Days Until Morning | 351527 | [351527-seven-days-until-morning.json](./351527-seven-days-until-morning.json) |
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
@@ -10842,6 +10844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sì Shèng Chuánshuō 1 | 117339 | [117339-si-sheng-chuanshuo-1.json](./117339-si-sheng-chuanshuo-1.json) |
 | Si-Ki | 397848 | [397848-si-ki.json](./397848-si-ki.json) |
 | SI4K Baseball | 208694 | [208694-si4k-baseball.json](./208694-si4k-baseball.json) |
+| Siam | 182582 | [182582-siam.json](./182582-siam.json) |
 | Siam | 375495 | [375495-siam.json](./375495-siam.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
 | Siames: Puzzle Heritage Game | 214703 | [214703-siames-puzzle-heritage-game.json](./214703-siames-puzzle-heritage-game.json) |
@@ -19734,6 +19737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic UltraSaturn | 316501 | [316501-sonic-ultrasaturn.json](./316501-sonic-ultrasaturn.json) |
 | Sonic Unborn | 361658 | [361658-sonic-unborn.json](./361658-sonic-unborn.json) |
 | Sonic Underground | 198587 | [198587-sonic-underground.json](./198587-sonic-underground.json) |
+| Sonic Unfair | 182428 | [182428-sonic-unfair.json](./182428-sonic-unfair.json) |
 | Sonic Unfair 2 | 198116 | [198116-sonic-unfair-2.json](./198116-sonic-unfair-2.json) |
 | Sonic Unite | 336359 | [336359-sonic-unite.json](./336359-sonic-unite.json) |
 | Sonic Universe 2 | 299877 | [299877-sonic-universe-2.json](./299877-sonic-universe-2.json) |
@@ -28117,6 +28121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsky & Hutch | 243809 | [243809-starsky-and-hutch.json](./243809-starsky-and-hutch.json) |
 | Starslave | 308523 | [308523-starslave.json](./308523-starslave.json) |
 | StarSmashers | 32140 | [32140-starsmashers.json](./32140-starsmashers.json) |
+| Starsnap | 182567 | [182567-starsnap.json](./182567-starsnap.json) |
 | StarsOne | 33171 | [33171-starsone.json](./33171-starsone.json) |
 | Starspawn: A Miskatonic Mystery | 347785 | [347785-starspawn-a-miskatonic-mystery.json](./347785-starspawn-a-miskatonic-mystery.json) |
 | Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
@@ -28143,6 +28148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
 | Start From School | 148780 | [148780-start-from-school.json](./148780-start-from-school.json) |
 | Start Over | 244584 | [244584-start-over.json](./244584-start-over.json) |
+| Start Powerless | 182962 | [182962-start-powerless.json](./182962-start-powerless.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
@@ -28361,6 +28367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statnett Balance | 114619 | [114619-statnett-balance.json](./114619-statnett-balance.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
+| Statues | 182961 | [182961-statues.json](./182961-statues.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
 | Status | 327418 | [327418-status.json](./327418-status.json) |
 | Status Entropos | 377918 | [377918-status-entropos.json](./377918-status-entropos.json) |
@@ -32121,6 +32128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
+| Succulents | 182569 | [182569-succulents.json](./182569-succulents.json) |
 | Succumate | 156855 | [156855-succumate.json](./156855-succumate.json) |
 | Succupie: An Erotic Short Story | 416613 | [416613-succupie-an-erotic-short-story.json](./416613-succupie-an-erotic-short-story.json) |
 | Such a guy | 374236 | [374236-such-a-guy.json](./374236-such-a-guy.json) |
@@ -32414,6 +32422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
 | Suffocate | 211897 | [211897-suffocate.json](./211897-suffocate.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
+| Sufjan Stevens' A Christmas Game | 182432 | [182432-sufjan-stevens-a-christmas-game.json](./182432-sufjan-stevens-a-christmas-game.json) |
 | Sufoco | 109849 | [109849-sufoco.json](./109849-sufoco.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
