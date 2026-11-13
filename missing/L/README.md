@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Abbaye des Morts | 270228 | [270228-labbaye-des-morts.json](./270228-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 299101 | [299101-labbaye-des-morts.json](./299101-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
+| L'affaire est Dans le Sac | 244958 | [244958-laffaire-est-dans-le-sac.json](./244958-laffaire-est-dans-le-sac.json) |
 | L'Affaire Santa Fe | 39050 | [39050-laffaire-santa-fe.json](./39050-laffaire-santa-fe.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Agonie Finale | 274115 | [274115-lagonie-finale.json](./274115-lagonie-finale.json) |
@@ -6772,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
 | Little Troubles in Spooky Town | 416076 | [416076-little-troubles-in-spooky-town.json](./416076-little-troubles-in-spooky-town.json) |
 | Little Trus Man | 62412 | [62412-little-trus-man.json](./62412-little-trus-man.json) |
+| Little Turrets | 244458 | [244458-little-turrets.json](./244458-little-turrets.json) |
 | Little Vampire | 132718 | [132718-little-vampire.json](./132718-little-vampire.json) |
 | Little Venture | 299586 | [299586-little-venture.json](./299586-little-venture.json) |
 | Little Viking | 197745 | [197745-little-viking.json](./197745-little-viking.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loonz | 256222 | [256222-loonz.json](./256222-loonz.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
 | Loop | 207803 | [207803-loop.json](./207803-loop.json) |
+| Loop | 244954 | [244954-loop.json](./244954-loop.json) |
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
 | Loop | 306402 | [306402-loop.json](./306402-loop.json) |
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
@@ -10104,6 +10107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Hunter | 293604 | [293604-lucky-hunter.json](./293604-lucky-hunter.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
+| Lucky Kaikai | 244984 | [244984-lucky-kaikai.json](./244984-lucky-kaikai.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Leap Maneki | 421763 | [421763-lucky-leap-maneki.json](./421763-lucky-leap-maneki.json) |
 | Lucky Lord: The Coin Pusher of Fate | 377622 | [377622-lucky-lord-the-coin-pusher-of-fate.json](./377622-lucky-lord-the-coin-pusher-of-fate.json) |
