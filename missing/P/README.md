@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous | 127254 | [127254-pathfinder-wrath-of-the-righteous.json](./127254-pathfinder-wrath-of-the-righteous.json) |
 | Pathfinder: Wrath of the Righteous - A Visitor from Distant Lands | 193129 | [193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json](./193129-pathfinder-wrath-of-the-righteous-a-visitor-from-distant-lands.json) |
+| Pathfinder: Wrath of the Righteous - Cloud Version | 219312 | [219312-pathfinder-wrath-of-the-righteous-cloud-version.json](./219312-pathfinder-wrath-of-the-righteous-cloud-version.json) |
 | Pathfinder: Wrath of the Righteous - Commander Edition | 166283 | [166283-pathfinder-wrath-of-the-righteous-commander-edition.json](./166283-pathfinder-wrath-of-the-righteous-commander-edition.json) |
 | Pathfinder: Wrath of the Righteous - Faces of War | 193128 | [193128-pathfinder-wrath-of-the-righteous-faces-of-war.json](./193128-pathfinder-wrath-of-the-righteous-faces-of-war.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
@@ -5234,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pestilence | 334622 | [334622-pestilence.json](./334622-pestilence.json) |
 | Pestilent Hunters | 201563 | [201563-pestilent-hunters.json](./201563-pestilent-hunters.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
+| Pestle: Volume 1 | 220238 | [220238-pestle-volume-1.json](./220238-pestle-volume-1.json) |
 | Pet | 240170 | [240170-pet.json](./240170-pet.json) |
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
@@ -6937,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Bank | 41465 | [41465-piggy-bank.json](./41465-piggy-bank.json) |
 | Piggy Chase | 113536 | [113536-piggy-chase.json](./113536-piggy-chase.json) |
 | Piggy Disco | 164133 | [164133-piggy-disco.json](./164133-piggy-disco.json) |
+| Piggy Gambit | 220886 | [220886-piggy-gambit.json](./220886-piggy-gambit.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Jump | 202529 | [202529-piggy-jump.json](./202529-piggy-jump.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
@@ -7738,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
 | Pinball Spire | 278785 | [278785-pinball-spire.json](./278785-pinball-spire.json) |
 | Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
+| Pinball Star | 219189 | [219189-pinball-star.json](./219189-pinball-star.json) |
 | Pinball Storm: Lokanta | 295212 | [295212-pinball-storm-lokanta.json](./295212-pinball-storm-lokanta.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
 | Pinball Track | 277644 | [277644-pinball-track.json](./277644-pinball-track.json) |
@@ -10068,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
+| Planet Smash | 220235 | [220235-planet-smash.json](./220235-planet-smash.json) |
 | Planet Smasher | 31434 | [31434-planet-smasher.json](./31434-planet-smasher.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
@@ -10817,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Don't Bring Me Back to Reality! Sinfonia Stage | 142293 | [142293-please-dont-bring-me-back-to-reality-sinfonia-stage.json](./142293-please-dont-bring-me-back-to-reality-sinfonia-stage.json) |
 | Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
 | Please Don't Hate Christmas | 257838 | [257838-please-dont-hate-christmas.json](./257838-please-dont-hate-christmas.json) |
+| Please Don't Litter | 220772 | [220772-please-dont-litter.json](./220772-please-dont-litter.json) |
 | Please Don't Shoot the Humans | 390048 | [390048-please-dont-shoot-the-humans.json](./390048-please-dont-shoot-the-humans.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
@@ -15505,6 +15511,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima Doll Encore | 218825 | [218825-prima-doll-encore.json](./218825-prima-doll-encore.json) |
+| Prima Doll: Fuyuzora Hanabi/Sekka Monyou | 218764 | [218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json](./218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json) |
+| Prima Doll: Kouto Tantei | 218766 | [218766-prima-doll-kouto-tantei.json](./218766-prima-doll-kouto-tantei.json) |
 | Prima Doll: Mumei Tenrei | 218777 | [218777-prima-doll-mumei-tenrei.json](./218777-prima-doll-mumei-tenrei.json) |
 | Prima Materia XXV | 349193 | [349193-prima-materia-xxv.json](./349193-prima-materia-xxv.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
@@ -18617,6 +18625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
 | Puck Man | 223117 | [223117-puck-man.json](./223117-puck-man.json) |
+| Puck Monster | 218767 | [218767-puck-monster.json](./218767-puck-monster.json) |
 | Puck Off | 67768 | [67768-puck-off.json](./67768-puck-off.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck'n Hell | 418648 | [418648-puckn-hell.json](./418648-puckn-hell.json) |
@@ -20249,6 +20258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Colors: Games for Kids - Space | 345731 | [345731-puzzles-and-colors-games-for-kids-space.json](./345731-puzzles-and-colors-games-for-kids-space.json) |
 | Puzzles & Colors: Games for Kids - Toddler Coloring Book Draw Paint | 345722 | [345722-puzzles-and-colors-games-for-kids-toddler-coloring-book-draw-paint.json](./345722-puzzles-and-colors-games-for-kids-toddler-coloring-book-draw-paint.json) |
 | Puzzles & Conquest | 234451 | [234451-puzzles-and-conquest.json](./234451-puzzles-and-conquest.json) |
+| Puzzles & Girls | 220230 | [220230-puzzles-and-girls.json](./220230-puzzles-and-girls.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles and Pieces | 304081 | [304081-puzzles-and-pieces.json](./304081-puzzles-and-pieces.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
