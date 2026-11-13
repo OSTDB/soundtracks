@@ -2774,6 +2774,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
+| Parodius | 174923 | [174923-parodius.json](./174923-parodius.json) |
+| Parodius | 174933 | [174933-parodius.json](./174933-parodius.json) |
 | Parodius | 19714 | [19714-parodius.json](./19714-parodius.json) |
 | Parodius | 280481 | [280481-parodius.json](./280481-parodius.json) |
 | Parodius | 280746 | [280746-parodius.json](./280746-parodius.json) |
@@ -20298,6 +20300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle Wars: Heroes | 261422 | [261422-puzzle-wars-heroes.json](./261422-puzzle-wars-heroes.json) |
+| Puzzle Wings | 174921 | [174921-puzzle-wings.json](./174921-puzzle-wings.json) |
 | Puzzle Wishes | 29910 | [29910-puzzle-wishes.json](./29910-puzzle-wishes.json) |
 | Puzzle With Your Friends | 81215 | [81215-puzzle-with-your-friends.json](./81215-puzzle-with-your-friends.json) |
 | Puzzle Wiz | 58174 | [58174-puzzle-wiz.json](./58174-puzzle-wiz.json) |
