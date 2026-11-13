@@ -19220,6 +19220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies Huddled Together | 324175 | [324175-bunnies-huddled-together.json](./324175-bunnies-huddled-together.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
+| Bunnies vs. Bunnies | 198410 | [198410-bunnies-vs-bunnies.json](./198410-bunnies-vs-bunnies.json) |
+| Bunnies vs. Bunnies: Ukraine Edition | 198411 | [198411-bunnies-vs-bunnies-ukraine-edition.json](./198411-bunnies-vs-bunnies-ukraine-edition.json) |
 | Bunniiies | 296695 | [296695-bunniiies.json](./296695-bunniiies.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
