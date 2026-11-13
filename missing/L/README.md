@@ -8800,6 +8800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Heroes | 184333 | [184333-lost-heroes.json](./184333-lost-heroes.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Heroes 2 | 136916 | [136916-lost-heroes-2.json](./136916-lost-heroes-2.json) |
+| Lost Heroes 2: Premium Edition | 220892 | [220892-lost-heroes-2-premium-edition.json](./220892-lost-heroes-2-premium-edition.json) |
 | Lost Highway | 273196 | [273196-lost-highway.json](./273196-lost-highway.json) |
 | Lost Home | 74666 | [74666-lost-home.json](./74666-lost-home.json) |
 | Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
@@ -9830,7 +9831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Overseer | 139704 | [139704-lovely-overseer.json](./139704-lovely-overseer.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet 2: April Skies | 119351 | [119351-lovely-planet-2-april-skies.json](./119351-lovely-planet-2-april-skies.json) |
-| Lovely Planet Arcade | 20112 | [20112-lovely-planet-arcade.json](./20112-lovely-planet-arcade.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
