@@ -6299,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Army Manager | 295179 | [295179-little-army-manager.json](./295179-little-army-manager.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
+| Little Avenger | 212378 | [212378-little-avenger.json](./212378-little-avenger.json) |
 | Little Aviary | 350694 | [350694-little-aviary.json](./350694-little-aviary.json) |
 | Little Awesome Dudes | 121589 | [121589-little-awesome-dudes.json](./121589-little-awesome-dudes.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
