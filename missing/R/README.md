@@ -2559,7 +2559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray: Part 1 | 294266 | [294266-ray-part-1.json](./294266-ray-part-1.json) |
 | Ray's Hotel Adventures | 393005 | [393005-rays-hotel-adventures.json](./393005-rays-hotel-adventures.json) |
 | Ray's Maze | 91489 | [91489-rays-maze.json](./91489-rays-maze.json) |
-| Ray's the Dead | 19514 | [19514-rays-the-dead.json](./19514-rays-the-dead.json) |
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
 | Rayadillo | 323232 | [323232-rayadillo.json](./323232-rayadillo.json) |
