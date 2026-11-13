@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T03:10:53.695Z",
-  "total_soundtracks": 3263,
+  "generated_at": "2026-11-13T03:25:51.739Z",
+  "total_soundtracks": 3264,
   "games": [
     {
       "igdb_id": 7522,
@@ -709,6 +709,20 @@
         {
           "album_name": "AdVenture Capitalist (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1JY3HSRAWfVkybADqAx24K",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24040,
+      "game_name": "Adventure Lamp",
+      "game_url": "https://ostdb.net/games/adventure-lamp",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273000f7e5fbad8bde9975f4a75",
+      "albums": [
+        {
+          "album_name": "Adventure Lamp (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0H3ujN7mRcHhez5LjGuEsW",
           "apple_music_url": "",
           "album_link_url": ""
         }
