@@ -3768,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
 | JumpStart Adventures 5th Grade: Jo Hammet, Kid Detective | 71317 | [71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json](./71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json) |
+| Jumpstart Apocalypse VR | 232205 | [232205-jumpstart-apocalypse-vr.json](./232205-jumpstart-apocalypse-vr.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
 | JumpStart Escape from Adventure Island | 50725 | [50725-jumpstart-escape-from-adventure-island.json](./50725-jumpstart-escape-from-adventure-island.json) |
