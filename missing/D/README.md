@@ -7017,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Man | 131726 | [131726-demolition-man.json](./131726-demolition-man.json) |
 | Demolition Man | 4341 | [4341-demolition-man.json](./4341-demolition-man.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
+| Demolition Master 3D HD | 175447 | [175447-demolition-master-3d-hd.json](./175447-demolition-master-3d-hd.json) |
 | Demolition Master: Project Implode All | 224993 | [224993-demolition-master-project-implode-all.json](./224993-demolition-master-project-implode-all.json) |
 | Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
 | Demolition Physics | 90510 | [90510-demolition-physics.json](./90510-demolition-physics.json) |
@@ -10625,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Trumps | 112075 | [112075-dino-trumps.json](./112075-dino-trumps.json) |
 | Dino V. Xeno | 238382 | [238382-dino-v-xeno.json](./238382-dino-v-xeno.json) |
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
+| Dino Walk Simulator | 175866 | [175866-dino-walk-simulator.json](./175866-dino-walk-simulator.json) |
 | Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
 | Dino World | 257706 | [257706-dino-world.json](./257706-dino-world.json) |
@@ -12774,6 +12776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeman | 246440 | [246440-dodgeman.json](./246440-dodgeman.json) |
 | Dodgems and Connect 4 | 319530 | [319530-dodgems-and-connect-4.json](./319530-dodgems-and-connect-4.json) |
 | Dodgeout+ | 245199 | [245199-dodgeout.json](./245199-dodgeout.json) |
+| Dodger | 176010 | [176010-dodger.json](./176010-dodger.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
 | DodgeSaw | 144803 | [144803-dodgesaw.json](./144803-dodgesaw.json) |
@@ -13908,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Island | 232025 | [232025-dont-touch-the-island.json](./232025-dont-touch-the-island.json) |
 | Don't Touch the Purple | 272386 | [272386-dont-touch-the-purple.json](./272386-dont-touch-the-purple.json) |
 | Don't Touch the Red Bubble | 174330 | [174330-dont-touch-the-red-bubble.json](./174330-dont-touch-the-red-bubble.json) |
+| Don't touch the shredder, Jim. | 176406 | [176406-dont-touch-the-shredder-jim.json](./176406-dont-touch-the-shredder-jim.json) |
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
 | Don't Touch the Vowels | 200280 | [200280-dont-touch-the-vowels.json](./200280-dont-touch-the-vowels.json) |
