@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Keepers: Deluxe Edition | 220941 | [220941-legend-of-keepers-deluxe-edition.json](./220941-legend-of-keepers-deluxe-edition.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
 | Legend of Keepers: Return of the Goddess | 152106 | [152106-legend-of-keepers-return-of-the-goddess.json](./152106-legend-of-keepers-return-of-the-goddess.json) |
+| Legend of Kendor | 204607 | [204607-legend-of-kendor.json](./204607-legend-of-kendor.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Krannia: Cursed Fate | 144626 | [144626-legend-of-krannia-cursed-fate.json](./144626-legend-of-krannia-cursed-fate.json) |
 | Legend of Krilona | 180021 | [180021-legend-of-krilona.json](./180021-legend-of-krilona.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
+| Life on the Edge | 204604 | [204604-life-on-the-edge.json](./204604-life-on-the-edge.json) |
 | Life on the Hook | 123731 | [123731-life-on-the-hook.json](./123731-life-on-the-hook.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
 | Life or Reach | 293674 | [293674-life-or-reach.json](./293674-life-or-reach.json) |
