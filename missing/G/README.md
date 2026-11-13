@@ -9391,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
 | GraWe | 346343 | [346343-grawe.json](./346343-grawe.json) |
+| Gray | 225995 | [225995-gray.json](./225995-gray.json) |
 | Gray | 284243 | [284243-gray.json](./284243-gray.json) |
 | Gray Cat | 95187 | [95187-gray-cat.json](./95187-gray-cat.json) |
 | Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
