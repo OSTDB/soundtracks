@@ -10862,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghoul's Forest 3 | 144841 | [144841-the-ghouls-forest-3.json](./144841-the-ghouls-forest-3.json) |
 | The Giant Crab in Space | 301063 | [301063-the-giant-crab-in-space.json](./301063-the-giant-crab-in-space.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
+| The Giant Run | 222007 | [222007-the-giant-run.json](./222007-the-giant-run.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gift | 183251 | [183251-the-gift.json](./183251-the-gift.json) |
 | The Gift | 186971 | [186971-the-gift.json](./186971-the-gift.json) |
@@ -11969,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Illusion: Curse | 242395 | [242395-the-illusion-curse.json](./242395-the-illusion-curse.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
 | The Illusory Wall | 101710 | [101710-the-illusory-wall.json](./101710-the-illusory-wall.json) |
+| The Illust Puzzle | 222012 | [222012-the-illust-puzzle.json](./222012-the-illust-puzzle.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Imagination Network | 92562 | [92562-the-imagination-network.json](./92562-the-imagination-network.json) |
 | The Immaculate Drag | 187194 | [187194-the-immaculate-drag.json](./187194-the-immaculate-drag.json) |
@@ -12255,6 +12257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
 | The Itchy & Scratchy Game | 2834 | [2834-the-itchy-and-scratchy-game.json](./2834-the-itchy-and-scratchy-game.json) |
 | The Itchy & Scratchy Game | 368895 | [368895-the-itchy-and-scratchy-game.json](./368895-the-itchy-and-scratchy-game.json) |
+| The Item Sagashi: Joshikousei Tantei Shinjitsu no Jikenbo | 222008 | [222008-the-item-sagashi-joshikousei-tantei-shinjitsu-no-jikenbo.json](./222008-the-item-sagashi-joshikousei-tantei-shinjitsu-no-jikenbo.json) |
 | The Ivory Tower | 271447 | [271447-the-ivory-tower.json](./271447-the-ivory-tower.json) |
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
@@ -14057,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 79742 | [79742-the-line.json](./79742-the-line.json) |
 | The Line Game | 262018 | [262018-the-line-game.json](./262018-the-line-game.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
+| The Line Puzzle | 222014 | [222014-the-line-puzzle.json](./222014-the-line-puzzle.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Line Zen | 295977 | [295977-the-line-zen.json](./295977-the-line-zen.json) |
 | The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
@@ -15015,9 +15019,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mishka Effect | 393274 | [393274-the-mishka-effect.json](./393274-the-mishka-effect.json) |
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
 | The Misshitsu kara no Dasshutsu: Celeb na Goutei-hen | 222045 | [222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json](./222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json) |
+| The Misshitsu kara no Dasshutsu: Enchou Hisshi no Karaoke-hen | 222016 | [222016-the-misshitsu-kara-no-dasshutsu-enchou-hisshi-no-karaoke-hen.json](./222016-the-misshitsu-kara-no-dasshutsu-enchou-hisshi-no-karaoke-hen.json) |
 | The Misshitsu kara no Dasshutsu: Fushigi na Kumadonaru Burger-hen | 222043 | [222043-the-misshitsu-kara-no-dasshutsu-fushigi-na-kumadonaru-burger-hen.json](./222043-the-misshitsu-kara-no-dasshutsu-fushigi-na-kumadonaru-burger-hen.json) |
 | The Misshitsu kara no Dasshutsu: Gakkou no Kyuukousha-hen | 222044 | [222044-the-misshitsu-kara-no-dasshutsu-gakkou-no-kyuukousha-hen.json](./222044-the-misshitsu-kara-no-dasshutsu-gakkou-no-kyuukousha-hen.json) |
 | The Misshitsu kara no Dasshutsu: Nangoku no Resort-hen | 222046 | [222046-the-misshitsu-kara-no-dasshutsu-nangoku-no-resort-hen.json](./222046-the-misshitsu-kara-no-dasshutsu-nangoku-no-resort-hen.json) |
+| The Misshitsu kara no Dasshutsu: Nou wo Kitaeru Sports Gym-hen | 222009 | [222009-the-misshitsu-kara-no-dasshutsu-nou-wo-kitaeru-sports-gym-hen.json](./222009-the-misshitsu-kara-no-dasshutsu-nou-wo-kitaeru-sports-gym-hen.json) |
 | The Misshitsu kara no Dasshutsu: Terebi Kyoku Micchaku 24-Ji-hen | 222037 | [222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json](./222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json) |
 | The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
@@ -15593,6 +15599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
 | The Number Devil: A Mathematical Adventure | 69013 | [69013-the-number-devil-a-mathematical-adventure.json](./69013-the-number-devil-a-mathematical-adventure.json) |
 | The Number Puzzle | 103953 | [103953-the-number-puzzle.json](./103953-the-number-puzzle.json) |
+| The Number Puzzle | 222015 | [222015-the-number-puzzle.json](./222015-the-number-puzzle.json) |
 | The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nun | 105998 | [105998-the-nun.json](./105998-the-nun.json) |
@@ -16872,6 +16879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Time Warp | 8102 | [8102-the-ren-and-stimpy-show-time-warp.json](./8102-the-ren-and-stimpy-show-time-warp.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renegades of Orion 2.0 | 33727 | [33727-the-renegades-of-orion-2-0.json](./33727-the-renegades-of-orion-2-0.json) |
+| The Rengeki Heroes | 222011 | [222011-the-rengeki-heroes.json](./222011-the-rengeki-heroes.json) |
 | The Renovator | 117070 | [117070-the-renovator.json](./117070-the-renovator.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
@@ -19013,6 +19021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tenacious Tentacle | 271443 | [271443-the-tenacious-tentacle.json](./271443-the-tenacious-tentacle.json) |
 | The Tenants: Pets | 248003 | [248003-the-tenants-pets.json](./248003-the-tenants-pets.json) |
 | The Tender Cut | 283341 | [283341-the-tender-cut.json](./283341-the-tender-cut.json) |
+| The Tennis | 222010 | [222010-the-tennis.json](./222010-the-tennis.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Tennis for Two Simulator | 340020 | [340020-the-tennis-for-two-simulator.json](./340020-the-tennis-for-two-simulator.json) |
