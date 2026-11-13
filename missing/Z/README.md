@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
 | Z War Apocalypse Shooter | 285663 | [285663-z-war-apocalypse-shooter.json](./285663-z-war-apocalypse-shooter.json) |
 | Z World | 252223 | [252223-z-world.json](./252223-z-world.json) |
+| Z World Zombie: Death War | 238709 | [238709-z-world-zombie-death-war.json](./238709-z-world-zombie-death-war.json) |
 | Z Zombies: Battle Royale | 259173 | [259173-z-zombies-battle-royale.json](./259173-z-zombies-battle-royale.json) |
 | Z-89 | 93371 | [93371-z-89.json](./93371-z-89.json) |
 | Z-Aftershock | 89478 | [89478-z-aftershock.json](./89478-z-aftershock.json) |
