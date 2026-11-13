@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway End | 399397 | [399397-railway-end.json](./399397-railway-end.json) |
 | Railway Escape | 236996 | [236996-railway-escape.json](./236996-railway-escape.json) |
 | Railway Fugitive | 267135 | [267135-railway-fugitive.json](./267135-railway-fugitive.json) |
+| Railway Fun: Adventure Park | 215937 | [215937-railway-fun-adventure-park.json](./215937-railway-fun-adventure-park.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
 | Railway Islands | 195424 | [195424-railway-islands.json](./195424-railway-islands.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
@@ -3884,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recluses | 128250 | [128250-recluses.json](./128250-recluses.json) |
 | Reclusion | 285344 | [285344-reclusion.json](./285344-reclusion.json) |
 | Reclusive | 240755 | [240755-reclusive.json](./240755-reclusive.json) |
+| RecNaviClub | 215940 | [215940-recnaviclub.json](./215940-recnaviclub.json) |
 | Reco Love: Blue Ocean | 136761 | [136761-reco-love-blue-ocean.json](./136761-reco-love-blue-ocean.json) |
 | Reco Love: Blue Ocean/Gold Beach | 77423 | [77423-reco-love-blue-ocean-gold-beach.json](./77423-reco-love-blue-ocean-gold-beach.json) |
 | Reco Love: Gold Beach | 136759 | [136759-reco-love-gold-beach.json](./136759-reco-love-gold-beach.json) |
@@ -8039,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
 | Rift Keeper | 99652 | [99652-rift-keeper.json](./99652-rift-keeper.json) |
+| Rift Loopers | 215954 | [215954-rift-loopers.json](./215954-rift-loopers.json) |
 | Rift Loopers: Pyro Class | 253318 | [253318-rift-loopers-pyro-class.json](./253318-rift-loopers-pyro-class.json) |
 | Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
@@ -10760,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roger Clemens' MVP Baseball | 48710 | [48710-roger-clemens-mvp-baseball.json](./48710-roger-clemens-mvp-baseball.json) |
 | Roger Kills The Smiths! | 327512 | [327512-roger-kills-the-smiths.json](./327512-roger-kills-the-smiths.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
+| Roghill Incident | 216387 | [216387-roghill-incident.json](./216387-roghill-incident.json) |
 | RoGlass | 271603 | [271603-roglass.json](./271603-roglass.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
