@@ -476,6 +476,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Handsome: Ito o Kashi | 181517 | [181517-gakuen-handsome-ito-o-kashi.json](./181517-gakuen-handsome-ito-o-kashi.json) |
 | Gakuen Heaven 2: Double Scramble! | 61262 | [61262-gakuen-heaven-2-double-scramble.json](./61262-gakuen-heaven-2-double-scramble.json) |
 | Gakuen Heaven: Boy's Love Scramble | 64610 | [64610-gakuen-heaven-boys-love-scramble.json](./64610-gakuen-heaven-boys-love-scramble.json) |
+| Gakuen Heaven: Boy's Love Scramble! Type B | 214652 | [214652-gakuen-heaven-boys-love-scramble-type-b.json](./214652-gakuen-heaven-boys-love-scramble-type-b.json) |
+| Gakuen Heaven: Okawari! | 214654 | [214654-gakuen-heaven-okawari.json](./214654-gakuen-heaven-okawari.json) |
 | Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
@@ -8292,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
 | Gradius II | 280486 | [280486-gradius-ii.json](./280486-gradius-ii.json) |
 | Gradius II: Gofer no Yabou | 213189 | [213189-gradius-ii-gofer-no-yabou.json](./213189-gradius-ii-gofer-no-yabou.json) |
+| Gradius II: Gofer no Yabou | 214653 | [214653-gradius-ii-gofer-no-yabou.json](./214653-gradius-ii-gofer-no-yabou.json) |
 | Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Gradius IV: Revival | 1486 | [1486-gradius-iv-revival.json](./1486-gradius-iv-revival.json) |
