@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Hand Game | 344968 | [344968-untitled-hand-game.json](./344968-untitled-hand-game.json) |
 | Untitled Hand Game: Titled Edition | 344969 | [344969-untitled-hand-game-titled-edition.json](./344969-untitled-hand-game-titled-edition.json) |
 | Untitled Hello Neighbor Game | 418235 | [418235-untitled-hello-neighbor-game.json](./418235-untitled-hello-neighbor-game.json) |
+| Untitled Hook Game | 241672 | [241672-untitled-hook-game.json](./241672-untitled-hook-game.json) |
 | Untitled Instagram Easter Egg | 308220 | [308220-untitled-instagram-easter-egg.json](./308220-untitled-instagram-easter-egg.json) |
 | Untitled Iron Man Game | 218272 | [218272-untitled-iron-man-game.json](./218272-untitled-iron-man-game.json) |
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
