@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Past Impossible | 76292 | [76292-half-past-impossible.json](./76292-half-past-impossible.json) |
 | Half Plan | 301058 | [301058-half-plan.json](./301058-half-plan.json) |
 | Half Step Princess | 410179 | [410179-half-step-princess.json](./410179-half-step-princess.json) |
+| Half Wing | 171667 | [171667-half-wing.json](./171667-half-wing.json) |
 | Half-A-Cado | 354953 | [354953-half-a-cado.json](./354953-half-a-cado.json) |
 | Half-Baked Girls | 151801 | [151801-half-baked-girls.json](./151801-half-baked-girls.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help! My Giant Goth Girlfriend Is Insane | 418858 | [418858-help-my-giant-goth-girlfriend-is-insane.json](./418858-help-my-giant-goth-girlfriend-is-insane.json) |
 | Help! My New Roommate Is a Hung Goth Futanari Ghost! | 369164 | [369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json](./369164-help-my-new-roommate-is-a-hung-goth-futanari-ghost.json) |
 | Help! No Brake | 223761 | [223761-help-no-brake.json](./223761-help-no-brake.json) |
+| Helper Cat | 171121 | [171121-helper-cat.json](./171121-helper-cat.json) |
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
 | Helping Ani | 249833 | [249833-helping-ani.json](./249833-helping-ani.json) |
 | Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
@@ -5846,6 +5848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
 | Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
+| Hentai Princess | 171664 | [171664-hentai-princess.json](./171664-hentai-princess.json) |
 | Hentai Princess | 374521 | [374521-hentai-princess.json](./374521-hentai-princess.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
@@ -13906,6 +13909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack | 154609 | [154609-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack.json](./154609-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack 2 | 154608 | [154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json](./154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Giant Island | 171374 | [171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json](./171374-hyperdimension-neptunia-re-birth3-v-generation-giant-island.json) |
+| Hyperdimension Neptunia Re;Birth3: V Generation - Let's Get Nepucated | 171140 | [171140-hyperdimension-neptunia-re-birth3-v-generation-lets-get-nepucated.json](./171140-hyperdimension-neptunia-re-birth3-v-generation-lets-get-nepucated.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island | 170401 | [170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json](./170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json) |
 | Hyperdimension Neptunia U: Action Unleashed | 9870 | [9870-hyperdimension-neptunia-u-action-unleashed.json](./9870-hyperdimension-neptunia-u-action-unleashed.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
