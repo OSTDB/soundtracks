@@ -17132,6 +17132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Battle! | 186526 | [186526-draw-battle.json](./186526-draw-battle.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
 | Draw Chilly | 104808 | [104808-draw-chilly.json](./104808-draw-chilly.json) |
+| Draw Dreamscape | 185582 | [185582-draw-dreamscape.json](./185582-draw-dreamscape.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
 | Draw In | 102528 | [102528-draw-in.json](./102528-draw-in.json) |
 | Draw In Maze 2 | 235146 | [235146-draw-in-maze-2.json](./235146-draw-in-maze-2.json) |
