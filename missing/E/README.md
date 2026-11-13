@@ -271,6 +271,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 2025 | 5585 | [5585-earth-defense-force-2025.json](./5585-earth-defense-force-2025.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1 for Nintendo Switch | 218057 | [218057-earth-defense-force-4-1-for-nintendo-switch.json](./218057-earth-defense-force-4-1-for-nintendo-switch.json) |
+| Earth Defense Force 4.1: Mission Pack 1 - Time of the Mutants | 168454 | [168454-earth-defense-force-4-1-mission-pack-1-time-of-the-mutants.json](./168454-earth-defense-force-4-1-mission-pack-1-time-of-the-mutants.json) |
+| Earth Defense Force 4.1: Mission Pack 2 - Extreme Battle | 168455 | [168455-earth-defense-force-4-1-mission-pack-2-extreme-battle.json](./168455-earth-defense-force-4-1-mission-pack-2-extreme-battle.json) |
 | Earth Defense Force 4.1: The Shadow of New Despair | 11002 | [11002-earth-defense-force-4-1-the-shadow-of-new-despair.json](./11002-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Earth Defense Force 4.1: The Shadow of New Despair - Sting Shot | 172310 | [172310-earth-defense-force-4-1-the-shadow-of-new-despair-sting-shot.json](./172310-earth-defense-force-4-1-the-shadow-of-new-despair-sting-shot.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
@@ -4243,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2 | 11550 | [11550-endless-space-2.json](./11550-endless-space-2.json) |
 | Endless Space 2: Awakening | 122653 | [122653-endless-space-2-awakening.json](./122653-endless-space-2-awakening.json) |
 | Endless Space 2: Celestial Worlds | 148837 | [148837-endless-space-2-celestial-worlds.json](./148837-endless-space-2-celestial-worlds.json) |
+| Endless Space 2: Dark Matter | 168464 | [168464-endless-space-2-dark-matter.json](./168464-endless-space-2-dark-matter.json) |
 | Endless Space 2: Definitive Edition | 255506 | [255506-endless-space-2-definitive-edition.json](./255506-endless-space-2-definitive-edition.json) |
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space 2: Harmonic Memories | 355694 | [355694-endless-space-2-harmonic-memories.json](./355694-endless-space-2-harmonic-memories.json) |
