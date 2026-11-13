@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baikonur Space | 102985 | [102985-baikonur-space.json](./102985-baikonur-space.json) |
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail | 200972 | [200972-bail-or-jail.json](./200972-bail-or-jail.json) |
+| Bail or Jail: Character DLC Bundle | 227579 | [227579-bail-or-jail-character-dlc-bundle.json](./227579-bail-or-jail-character-dlc-bundle.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
 | Bail or Jail: Character DLC Bundle 3 | 274651 | [274651-bail-or-jail-character-dlc-bundle-3.json](./274651-bail-or-jail-character-dlc-bundle-3.json) |
 | Baila Latino | 58946 | [58946-baila-latino.json](./58946-baila-latino.json) |
@@ -3315,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
 | Basement Crawl | 19916 | [19916-basement-crawl.json](./19916-basement-crawl.json) |
 | Basement Dweller | 158158 | [158158-basement-dweller.json](./158158-basement-dweller.json) |
+| Basement of Hellish | 228161 | [228161-basement-of-hellish.json](./228161-basement-of-hellish.json) |
 | Basement Server Simulator | 407371 | [407371-basement-server-simulator.json](./407371-basement-server-simulator.json) |
 | Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
 | Basemental Drugs | 259227 | [259227-basemental-drugs.json](./259227-basemental-drugs.json) |
@@ -5570,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastmancer | 30346 | [30346-beastmancer.json](./30346-beastmancer.json) |
 | Beastmaster | 195378 | [195378-beastmaster.json](./195378-beastmaster.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
+| Beastria | 228156 | [228156-beastria.json](./228156-beastria.json) |
 | Beastro | 362043 | [362043-beastro.json](./362043-beastro.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
 | Beasts & Bumpkins | 50151 | [50151-beasts-and-bumpkins.json](./50151-beasts-and-bumpkins.json) |
@@ -16989,6 +16993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Crossing | 261582 | [261582-bridge-crossing.json](./261582-bridge-crossing.json) |
 | Bridge Deluxe 2 With Omar Sharif | 85921 | [85921-bridge-deluxe-2-with-omar-sharif.json](./85921-bridge-deluxe-2-with-omar-sharif.json) |
 | Bridge Encounter | 337726 | [337726-bridge-encounter.json](./337726-bridge-encounter.json) |
+| Bridge Engineer | 228163 | [228163-bridge-engineer.json](./228163-bridge-engineer.json) |
 | Bridge Exercises | 95111 | [95111-bridge-exercises.json](./95111-bridge-exercises.json) |
 | Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
