@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sky Full of Stars | 76033 | [76033-a-sky-full-of-stars.json](./76033-a-sky-full-of-stars.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
+| A Slasher Dating Sim | 224876 | [224876-a-slasher-dating-sim.json](./224876-a-slasher-dating-sim.json) |
 | A Sleeper's Quest: A Labyrinth to Thee | 144041 | [144041-a-sleepers-quest-a-labyrinth-to-thee.json](./144041-a-sleepers-quest-a-labyrinth-to-thee.json) |
 | A Slice of Lunch | 372799 | [372799-a-slice-of-lunch.json](./372799-a-slice-of-lunch.json) |
 | A Slight Chance of Sawblades | 232313 | [232313-a-slight-chance-of-sawblades.json](./232313-a-slight-chance-of-sawblades.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A Weird Game About Sausage | 405185 | [405185-a-weird-game-about-sausage.json](./405185-a-weird-game-about-sausage.json) |
 | A Welcome Shower | 177119 | [177119-a-welcome-shower.json](./177119-a-welcome-shower.json) |
+| A Werewolf Opportunity, Obviously | 225265 | [225265-a-werewolf-opportunity-obviously.json](./225265-a-werewolf-opportunity-obviously.json) |
 | A Western Drama | 161706 | [161706-a-western-drama.json](./161706-a-western-drama.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
 | A Whale's Journey | 314383 | [314383-a-whales-journey.json](./314383-a-whales-journey.json) |
@@ -4804,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner: Black Falcon | 23085 | [23085-after-burner-black-falcon.json](./23085-after-burner-black-falcon.json) |
 | After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
+| After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
 | After Dark | 238130 | [238130-after-dark.json](./238130-after-dark.json) |
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark | 376844 | [376844-after-dark.json](./376844-after-dark.json) |
@@ -14289,6 +14292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcania: The Complete Tale | 47472 | [47472-arcania-the-complete-tale.json](./47472-arcania-the-complete-tale.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanika | 243603 | [243603-arcanika.json](./243603-arcanika.json) |
+| Arcanima: Mist of Oblivion | 224796 | [224796-arcanima-mist-of-oblivion.json](./224796-arcanima-mist-of-oblivion.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanion: The Mekanos Invasion | 409722 | [409722-arcanion-the-mekanos-invasion.json](./409722-arcanion-the-mekanos-invasion.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
