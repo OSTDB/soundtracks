@@ -7606,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capital of Feilai | 187779 | [187779-the-capital-of-feilai.json](./187779-the-capital-of-feilai.json) |
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
 | The Caponians | 395482 | [395482-the-caponians.json](./395482-the-caponians.json) |
+| The Capri Connection | 210771 | [210771-the-capri-connection.json](./210771-the-capri-connection.json) |
 | The Captain | 114666 | [114666-the-captain.json](./114666-the-captain.json) |
 | The Captain is Dead | 121386 | [121386-the-captain-is-dead.json](./121386-the-captain-is-dead.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
@@ -13459,6 +13460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
+| The Legend of Alfur | 210793 | [210793-the-legend-of-alfur.json](./210793-the-legend-of-alfur.json) |
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
 | The Legend of Atlantis | 66564 | [66564-the-legend-of-atlantis.json](./66564-the-legend-of-atlantis.json) |
@@ -28947,7 +28949,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soujiki | 142060 | [142060-touhou-soujiki.json](./142060-touhou-soujiki.json) |
 | Touhou Soujinengi V & Touhou Genso Maroku W Double Pack | 110845 | [110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json](./110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json) |
 | Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
+| Touhou Soujinengi Zansho: The Genius of Sappheiros - Shuumatsu | 210798 | [210798-touhou-soujinengi-zansho-the-genius-of-sappheiros-shuumatsu.json](./210798-touhou-soujinengi-zansho-the-genius-of-sappheiros-shuumatsu.json) |
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
+| Touhou Soujinengi: Zansho | 210795 | [210795-touhou-soujinengi-zansho.json](./210795-touhou-soujinengi-zansho.json) |
 | Touhou Sousenkyou: Land of Oracular Zeitgeist | 406532 | [406532-touhou-sousenkyou-land-of-oracular-zeitgeist.json](./406532-touhou-sousenkyou-land-of-oracular-zeitgeist.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
