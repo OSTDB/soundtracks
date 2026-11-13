@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule | 120064 | [120064-capsule.json](./120064-capsule.json) |
 | Capsule | 167907 | [167907-capsule.json](./167907-capsule.json) |
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
+| Capsule | 174948 | [174948-capsule.json](./174948-capsule.json) |
 | Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
 | Capsule Fight | 299518 | [299518-capsule-fight.json](./299518-capsule-fight.json) |
@@ -5087,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip Cosmos | 403294 | [403294-catnip-cosmos.json](./403294-catnip-cosmos.json) |
 | Catnip Dreams | 284795 | [284795-catnip-dreams.json](./284795-catnip-dreams.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
+| Cato the Cat | 174940 | [174940-cato-the-cat.json](./174940-cato-the-cat.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
 | Catography | 251067 | [251067-catography.json](./251067-catography.json) |
 | Catoise | 190250 | [190250-catoise.json](./190250-catoise.json) |
@@ -7754,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chez Maxime | 41527 | [41527-chez-maxime.json](./41527-chez-maxime.json) |
 | Chezz | 242660 | [242660-chezz.json](./242660-chezz.json) |
 | Chezz | 56445 | [56445-chezz.json](./56445-chezz.json) |
+| Chezzle | 174941 | [174941-chezzle.json](./174941-chezzle.json) |
 | Chi | 301424 | [301424-chi.json](./301424-chi.json) |
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
 | Chi Chi's Pro Challenge Golf | 4442 | [4442-chi-chis-pro-challenge-golf.json](./4442-chi-chis-pro-challenge-golf.json) |
@@ -8201,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fox | 368820 | [368820-chill-fox.json](./368820-chill-fox.json) |
 | Chill Hop Quest | 140779 | [140779-chill-hop-quest.json](./140779-chill-hop-quest.json) |
 | Chill II | 116072 | [116072-chill-ii.json](./116072-chill-ii.json) |
+| Chill IV | 174402 | [174402-chill-iv.json](./174402-chill-iv.json) |
 | Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 105696 | [105696-chill-out.json](./105696-chill-out.json) |
@@ -14366,6 +14370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
 | Commanding Officer Eastern Front | 52316 | [52316-commanding-officer-eastern-front.json](./52316-commanding-officer-eastern-front.json) |
+| Commando | 174947 | [174947-commando.json](./174947-commando.json) |
 | Commando | 247258 | [247258-commando.json](./247258-commando.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando | 306409 | [306409-commando.json](./306409-commando.json) |
@@ -16634,6 +16639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Crusader | 413237 | [413237-cosmic-crusader.json](./413237-cosmic-crusader.json) |
 | Cosmic Crush | 111922 | [111922-cosmic-crush.json](./111922-cosmic-crush.json) |
 | Cosmic Cube | 174439 | [174439-cosmic-cube.json](./174439-cosmic-cube.json) |
+| Cosmic Cube: DLC Free | 174398 | [174398-cosmic-cube-dlc-free.json](./174398-cosmic-cube-dlc-free.json) |
 | Cosmic Cursor | 272781 | [272781-cosmic-cursor.json](./272781-cosmic-cursor.json) |
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
 | Cosmic Decode | 338889 | [338889-cosmic-decode.json](./338889-cosmic-decode.json) |
