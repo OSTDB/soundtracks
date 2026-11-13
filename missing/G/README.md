@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gals Panic S3 | 40143 | [40143-gals-panic-s3.json](./40143-gals-panic-s3.json) |
 | Gals Panic SS | 74822 | [74822-gals-panic-ss.json](./74822-gals-panic-ss.json) |
 | Gals Quest | 82704 | [82704-gals-quest.json](./82704-gals-quest.json) |
+| GALSAD: Galactic Salvage and Disposal | 173889 | [173889-galsad-galactic-salvage-and-disposal.json](./173889-galsad-galactic-salvage-and-disposal.json) |
 | Galseed | 421556 | [421556-galseed.json](./421556-galseed.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galshell: Blood Red Skies | 266564 | [266564-galshell-blood-red-skies.json](./266564-galshell-blood-red-skies.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Life Kuzushi | 366434 | [366434-game-of-life-kuzushi.json](./366434-game-of-life-kuzushi.json) |
 | Game of Life: Time | 292263 | [292263-game-of-life-time.json](./292263-game-of-life-time.json) |
 | Game of Love | 163249 | [163249-game-of-love.json](./163249-game-of-love.json) |
+| Game of Lust | 173850 | [173850-game-of-lust.json](./173850-game-of-lust.json) |
 | Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
 | Game of Planets | 391569 | [391569-game-of-planets.json](./391569-game-of-planets.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
@@ -3969,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geunyeoga Dasi Noraehal Ttaekkaji | 225325 | [225325-geunyeoga-dasi-noraehal-ttaekkaji.json](./225325-geunyeoga-dasi-noraehal-ttaekkaji.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
+| Gewevo: Interstellar | 173892 | [173892-gewevo-interstellar.json](./173892-gewevo-interstellar.json) |
 | Gex | 4309 | [4309-gex.json](./4309-gex.json) |
 | Gex 3: Deep Cover Gecko | 210294 | [210294-gex-3-deep-cover-gecko.json](./210294-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
