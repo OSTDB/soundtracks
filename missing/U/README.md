@@ -3411,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upfall | 345737 | [345737-upfall.json](./345737-upfall.json) |
 | Upg | 323614 | [323614-upg.json](./323614-upg.json) |
 | UPG: Underground | 416384 | [416384-upg-underground.json](./416384-upg-underground.json) |
+| Upgrade | 194519 | [194519-upgrade.json](./194519-upgrade.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
 | Upgrade 2021-22: Bionic Traveler | 237792 | [237792-upgrade-2021-22-bionic-traveler.json](./237792-upgrade-2021-22-bionic-traveler.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
