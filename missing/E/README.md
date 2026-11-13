@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Shot Golf | 133531 | [133531-eagle-shot-golf.json](./133531-eagle-shot-golf.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
+| Eagle Simulator | 219305 | [219305-eagle-simulator.json](./219305-eagle-simulator.json) |
 | Eagle Simulator | 219468 | [219468-eagle-simulator.json](./219468-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle Summoner | 307825 | [307825-eagle-summoner.json](./307825-eagle-summoner.json) |
