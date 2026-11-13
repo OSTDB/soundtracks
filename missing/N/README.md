@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naomi's Exhibition | 224812 | [224812-naomis-exhibition.json](./224812-naomis-exhibition.json) |
 | Naos-01: The Quiet Sector | 411259 | [411259-naos-01-the-quiet-sector.json](./411259-naos-01-the-quiet-sector.json) |
 | Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
+| Nape Retroverse Collection | 187486 | [187486-nape-retroverse-collection.json](./187486-nape-retroverse-collection.json) |
 | Napobination | 320946 | [320946-napobination.json](./320946-napobination.json) |
 | Napoleon | 125336 | [125336-napoleon.json](./125336-napoleon.json) |
 | Napoleon | 421855 | [421855-napoleon.json](./421855-napoleon.json) |
