@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK 09: Superbike World Championship | 7179 | [7179-sbk-09-superbike-world-championship.json](./7179-sbk-09-superbike-world-championship.json) |
 | SBK 14: Official Mobile Game | 238673 | [238673-sbk-14-official-mobile-game.json](./238673-sbk-14-official-mobile-game.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
+| SBK 22 | 204630 | [204630-sbk-22.json](./204630-sbk-22.json) |
 | SBK Generations | 41582 | [41582-sbk-generations.json](./41582-sbk-generations.json) |
 | SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
 | SBK X: Superbike World Championship | 7180 | [7180-sbk-x-superbike-world-championship.json](./7180-sbk-x-superbike-world-championship.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 3 | 158945 | [158945-sea-of-thieves-season-3.json](./158945-sea-of-thieves-season-3.json) |
 | Sea of Thieves: Season 4 | 171154 | [171154-sea-of-thieves-season-4.json](./171154-sea-of-thieves-season-4.json) |
 | Sea of Thieves: Season 5 | 183119 | [183119-sea-of-thieves-season-5.json](./183119-sea-of-thieves-season-5.json) |
+| Sea of Thieves: Season 7 | 204625 | [204625-sea-of-thieves-season-7.json](./204625-sea-of-thieves-season-7.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: Smuggler's Tide - Season 17 | 348213 | [348213-sea-of-thieves-smugglers-tide-season-17.json](./348213-sea-of-thieves-smugglers-tide-season-17.json) |
@@ -4605,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
+| Seamless | 204585 | [204585-seamless.json](./204585-seamless.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seamspace: Minesweeper | 363359 | [363359-seamspace-minesweeper.json](./363359-seamspace-minesweeper.json) |
 | Sean World | 180368 | [180368-sean-world.json](./180368-sean-world.json) |
@@ -12673,6 +12676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sipher Odyssey | 293255 | [293255-sipher-odyssey.json](./293255-sipher-odyssey.json) |
 | Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
+| Siphonopolis | 204608 | [204608-siphonopolis.json](./204608-siphonopolis.json) |
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
 | Sippy Disco: Light Up The Dance Floor | 290257 | [290257-sippy-disco-light-up-the-dance-floor.json](./290257-sippy-disco-light-up-the-dance-floor.json) |
 | Sips | 242145 | [242145-sips.json](./242145-sips.json) |
@@ -16093,6 +16097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW For Your Kids Only | 290235 | [290235-smw-for-your-kids-only.json](./290235-smw-for-your-kids-only.json) |
 | SMW Friends and Rivalry | 367694 | [367694-smw-friends-and-rivalry.json](./367694-smw-friends-and-rivalry.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
+| SMW Remade from Memory | 204584 | [204584-smw-remade-from-memory.json](./204584-smw-remade-from-memory.json) |
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
@@ -17708,6 +17713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokogram | 390857 | [390857-sokogram.json](./390857-sokogram.json) |
 | Sokoku | 369349 | [369349-sokoku.json](./369349-sokoku.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
+| Sokolor | 204605 | [204605-sokolor.json](./204605-sokolor.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | Sokoman | 66575 | [66575-sokoman.json](./66575-sokoman.json) |
 | Sokoman 2 | 66576 | [66576-sokoman-2.json](./66576-sokoman-2.json) |
@@ -34782,6 +34788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. + | 307664 | [307664-super-mario-bros.json](./307664-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
 | Super Mario Bros. 0 | 345639 | [345639-super-mario-bros-0.json](./345639-super-mario-bros-0.json) |
+| Super Mario Bros. 1X | 204581 | [204581-super-mario-bros-1x.json](./204581-super-mario-bros-1x.json) |
 | Super Mario Bros. 2 | 163155 | [163155-super-mario-bros-2.json](./163155-super-mario-bros-2.json) |
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
 | Super Mario Bros. 2 | 270345 | [270345-super-mario-bros-2.json](./270345-super-mario-bros-2.json) |
@@ -35135,6 +35142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: Bowser's Cataclysmic Trap | 269721 | [269721-super-mario-world-bowsers-cataclysmic-trap.json](./269721-super-mario-world-bowsers-cataclysmic-trap.json) |
 | Super Mario World: Bowser's Kaizo Conspiracy | 269719 | [269719-super-mario-world-bowsers-kaizo-conspiracy.json](./269719-super-mario-world-bowsers-kaizo-conspiracy.json) |
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
+| Super Mario World: Christmas Edition | 204583 | [204583-super-mario-world-christmas-edition.json](./204583-super-mario-world-christmas-edition.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Neeberz's Hack | 268374 | [268374-super-mario-world-neeberzs-hack.json](./268374-super-mario-world-neeberzs-hack.json) |
 | Super Mario World: Piranha Island | 131895 | [131895-super-mario-world-piranha-island.json](./131895-super-mario-world-piranha-island.json) |
