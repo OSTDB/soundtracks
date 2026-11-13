@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Tiga & Ultraman Dyna: New Generations | 66409 | [66409-ultraman-tiga-and-ultraman-dyna-new-generations.json](./66409-ultraman-tiga-and-ultraman-dyna-new-generations.json) |
 | Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
 | Ultraman: Chou Toushi Gekiden | 49134 | [49134-ultraman-chou-toushi-gekiden.json](./49134-ultraman-chou-toushi-gekiden.json) |
+| Ultraman: Fighting Heroes | 193916 | [193916-ultraman-fighting-heroes.json](./193916-ultraman-fighting-heroes.json) |
 | Ultraman: Galaxy Alert | 205985 | [205985-ultraman-galaxy-alert.json](./205985-ultraman-galaxy-alert.json) |
 | Ultraman: Hikari no Kuni no Shisha | 37558 | [37558-ultraman-hikari-no-kuni-no-shisha.json](./37558-ultraman-hikari-no-kuni-no-shisha.json) |
 | Ultraman: Hikari no Kyojin Densetsu | 62370 | [62370-ultraman-hikari-no-kyojin-densetsu.json](./62370-ultraman-hikari-no-kyojin-densetsu.json) |
@@ -1540,12 +1541,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
 | Uncle Albert's Mysterious Island | 411252 | [411252-uncle-alberts-mysterious-island.json](./411252-uncle-alberts-mysterious-island.json) |
+| Uncle and Cat Super: Miracle Puzzle | 193925 | [193925-uncle-and-cat-super-miracle-puzzle.json](./193925-uncle-and-cat-super-miracle-puzzle.json) |
 | Uncle and His Friend | 393612 | [393612-uncle-and-his-friend.json](./393612-uncle-and-his-friend.json) |
 | Uncle Buddy's Phantom Funhouse | 172063 | [172063-uncle-buddys-phantom-funhouse.json](./172063-uncle-buddys-phantom-funhouse.json) |
 | Uncle Chop's Rocket Shop | 214710 | [214710-uncle-chops-rocket-shop.json](./214710-uncle-chops-rocket-shop.json) |
 | Uncle Chop's Rocket Shop: Deluxe Edition | 327460 | [327460-uncle-chops-rocket-shop-deluxe-edition.json](./327460-uncle-chops-rocket-shop-deluxe-edition.json) |
 | Uncle Chuck Incorporated | 319871 | [319871-uncle-chuck-incorporated.json](./319871-uncle-chuck-incorporated.json) |
 | Uncle Clyde's Consonant Slides | 285868 | [285868-uncle-clydes-consonant-slides.json](./285868-uncle-clydes-consonant-slides.json) |
+| Uncle Go | 193912 | [193912-uncle-go.json](./193912-uncle-go.json) |
 | Uncle Heff | 200788 | [200788-uncle-heff.json](./200788-uncle-heff.json) |
 | Uncle Henry's Playhouse | 20197 | [20197-uncle-henrys-playhouse.json](./20197-uncle-henrys-playhouse.json) |
 | Uncle Kenny: The Game | 241264 | [241264-uncle-kenny-the-game.json](./241264-uncle-kenny-the-game.json) |
@@ -2735,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Skills Hero | 227521 | [227521-unlimited-skills-hero.json](./227521-unlimited-skills-hero.json) |
 | Unlimited Trees' Sonic 1 | 319508 | [319508-unlimited-trees-sonic-1.json](./319508-unlimited-trees-sonic-1.json) |
 | Unlimited World 1 | 159423 | [159423-unlimited-world-1.json](./159423-unlimited-world-1.json) |
+| Unlimited World Book: Retro | 193513 | [193513-unlimited-world-book-retro.json](./193513-unlimited-world-book-retro.json) |
 | Unlimited Worlds | 298616 | [298616-unlimited-worlds.json](./298616-unlimited-worlds.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
 | Unlisted | 422034 | [422034-unlisted.json](./422034-unlisted.json) |
