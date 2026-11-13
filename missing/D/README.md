@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Love | 72663 | [72663-day-of-love.json](./72663-day-of-love.json) |
 | Day of Night | 277495 | [277495-day-of-night.json](./277495-day-of-night.json) |
+| Day of Pixel | 211861 | [211861-day-of-pixel.json](./211861-day-of-pixel.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
 | Day of the Bobteds | 319624 | [319624-day-of-the-bobteds.json](./319624-day-of-the-bobteds.json) |
 | Day of the dead | 243675 | [243675-day-of-the-dead.json](./243675-day-of-the-dead.json) |
@@ -17353,6 +17354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
 | Dream Dancer | 209170 | [209170-dream-dancer.json](./209170-dream-dancer.json) |
 | Dream Data | 229645 | [229645-dream-data.json](./229645-dream-data.json) |
+| Dream Date | 211839 | [211839-dream-date.json](./211839-dream-date.json) |
 | Dream Day Wedding: Viva Las Vegas | 69118 | [69118-dream-day-wedding-viva-las-vegas.json](./69118-dream-day-wedding-viva-las-vegas.json) |
 | Dream Day: Bella Italia | 89231 | [89231-dream-day-bella-italia.json](./89231-dream-day-bella-italia.json) |
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
