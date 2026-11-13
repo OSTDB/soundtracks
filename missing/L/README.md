@@ -7504,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
 | Loftlock | 301455 | [301455-loftlock.json](./301455-loftlock.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
+| Log 141 | 210768 | [210768-log-141.json](./210768-log-141.json) |
 | Log Away | 350204 | [350204-log-away.json](./350204-log-away.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
 | Log Away: Easter DLC | 395717 | [395717-log-away-easter-dlc.json](./395717-log-away-easter-dlc.json) |
