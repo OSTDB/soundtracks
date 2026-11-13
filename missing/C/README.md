@@ -17860,7 +17860,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
 | Crash Nitro Kart 2 | 148164 | [148164-crash-nitro-kart-2.json](./148164-crash-nitro-kart-2.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
-| Crash of Cars | 28710 | [28710-crash-of-cars.json](./28710-crash-of-cars.json) |
 | Crash of Magic | 180150 | [180150-crash-of-magic.json](./180150-crash-of-magic.json) |
 | Crash of the Titans | 1190 | [1190-crash-of-the-titans.json](./1190-crash-of-the-titans.json) |
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
