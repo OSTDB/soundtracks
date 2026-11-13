@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost with a Gun | 374512 | [374512-ghost-with-a-gun.json](./374512-ghost-with-a-gun.json) |
 | Ghost Writer | 404946 | [404946-ghost-writer.json](./404946-ghost-writer.json) |
 | Ghost Yantra | 290746 | [290746-ghost-yantra.json](./290746-ghost-yantra.json) |
+| Ghost: AC-130 Close Air Support | 239368 | [239368-ghost-ac-130-close-air-support.json](./239368-ghost-ac-130-close-air-support.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost? | 228987 | [228987-ghost.json](./228987-ghost.json) |
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
@@ -11583,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Bears Minigolf | 47722 | [47722-gummy-bears-minigolf.json](./47722-gummy-bears-minigolf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
+| Gummy Dummy Battles | 239280 | [239280-gummy-dummy-battles.json](./239280-gummy-dummy-battles.json) |
 | Gummy Invaders | 412945 | [412945-gummy-invaders.json](./412945-gummy-invaders.json) |
 | Gummy Jump | 214840 | [214840-gummy-jump.json](./214840-gummy-jump.json) |
 | Gummy Jump 2 | 321496 | [321496-gummy-jump-2.json](./321496-gummy-jump-2.json) |
