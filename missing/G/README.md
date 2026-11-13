@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girl | 200778 | [200778-gamer-girl.json](./200778-gamer-girl.json) |
 | Gamer Girl Adventure | 385034 | [385034-gamer-girl-adventure.json](./385034-gamer-girl-adventure.json) |
+| Gamer Girls 18+ | 211844 | [211844-gamer-girls-18.json](./211844-gamer-girls-18.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
 | Gamer Girls: Dating Sim | 199729 | [199729-gamer-girls-dating-sim.json](./199729-gamer-girls-dating-sim.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostie's Escape | 340299 | [340299-ghosties-escape.json](./340299-ghosties-escape.json) |
 | Ghosting Vandal | 235036 | [235036-ghosting-vandal.json](./235036-ghosting-vandal.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
+| Ghostkin Capers | 211867 | [211867-ghostkin-capers.json](./211867-ghostkin-capers.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostland Yard | 213509 | [213509-ghostland-yard.json](./213509-ghostland-yard.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
@@ -8052,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
 | Gossipdle | 378256 | [378256-gossipdle.json](./378256-gossipdle.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
+| Gost of Time | 211849 | [211849-gost-of-time.json](./211849-gost-of-time.json) |
 | Gost! Buster | 339153 | [339153-gost-buster.json](./339153-gost-buster.json) |
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
 | GoSub 2 | 381161 | [381161-gosub-2.json](./381161-gosub-2.json) |
@@ -11257,6 +11260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Gui Long Chao | 317049 | [317049-gui-long-chao.json](./317049-gui-long-chao.json) |
 | Guǐchù Zhànjì: Jīnkēlā Chuánshuō | 120722 | [120722-guichu-zhanji-jinkela-chuanshuo.json](./120722-guichu-zhanji-jinkela-chuanshuo.json) |
+| Guidance | 211854 | [211854-guidance.json](./211854-guidance.json) |
 | Guidance | 222349 | [222349-guidance.json](./222349-guidance.json) |
 | Guide | 109243 | [109243-guide.json](./109243-guide.json) |
 | Guide and Throw | 190835 | [190835-guide-and-throw.json](./190835-guide-and-throw.json) |
