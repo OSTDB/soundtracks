@@ -13653,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
 | Skull Port | 373993 | [373993-skull-port.json](./373993-skull-port.json) |
+| Skull Rider | 174925 | [174925-skull-rider.json](./174925-skull-rider.json) |
 | Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
 | Skull Scavenger | 267616 | [267616-skull-scavenger.json](./267616-skull-scavenger.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
@@ -15447,6 +15448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugmouth | 387141 | [387141-slugmouth.json](./387141-slugmouth.json) |
 | Slugs Destroyer | 55440 | [55440-slugs-destroyer.json](./55440-slugs-destroyer.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
+| Slugterra: Slug it Out 2 | 174924 | [174924-slugterra-slug-it-out-2.json](./174924-slugterra-slug-it-out-2.json) |
 | Slugterra: Slug it Out! | 60757 | [60757-slugterra-slug-it-out.json](./60757-slugterra-slug-it-out.json) |
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
@@ -18732,6 +18734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Iron II | 217637 | [217637-song-of-iron-ii.json](./217637-song-of-iron-ii.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
+| Song of Life | 174939 | [174939-song-of-life.json](./174939-song-of-life.json) |
 | Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
 | Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
 | Song of Nanzhao | 360334 | [360334-song-of-nanzhao.json](./360334-song-of-nanzhao.json) |
@@ -25797,6 +25800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
 | Squirm | 89252 | [89252-squirm.json](./89252-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
+| Squirm: Pocket Squirm | 174413 | [174413-squirm-pocket-squirm.json](./174413-squirm-pocket-squirm.json) |
 | Squirmer the Game | 73589 | [73589-squirmer-the-game.json](./73589-squirmer-the-game.json) |
 | Squirmish: The Videogame of Brawling Beasties | 291269 | [291269-squirmish-the-videogame-of-brawling-beasties.json](./291269-squirmish-the-videogame-of-brawling-beasties.json) |
 | Squirmunity: Ballad of the prankmonger | 222182 | [222182-squirmunity-ballad-of-the-prankmonger.json](./222182-squirmunity-ballad-of-the-prankmonger.json) |
@@ -38972,6 +38976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Lycoris - Limited Edition | 166309 | [166309-sword-art-online-alicization-lycoris-limited-edition.json](./166309-sword-art-online-alicization-lycoris-limited-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
+| Sword Art Online: Black Swordsman - Ace | 174917 | [174917-sword-art-online-black-swordsman-ace.json](./174917-sword-art-online-black-swordsman-ace.json) |
 | Sword Art Online: Eternal World | 62880 | [62880-sword-art-online-eternal-world.json](./62880-sword-art-online-eternal-world.json) |
 | Sword Art Online: Fatal Bullet | 36515 | [36515-sword-art-online-fatal-bullet.json](./36515-sword-art-online-fatal-bullet.json) |
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
