@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
 | Tactical Mission: Target Rush | 293588 | [293588-tactical-mission-target-rush.json](./293588-tactical-mission-target-rush.json) |
 | Tactical Monsters Rumble Arena | 68509 | [68509-tactical-monsters-rumble-arena.json](./68509-tactical-monsters-rumble-arena.json) |
+| Tactical Monsters: Strategy Edition | 173881 | [173881-tactical-monsters-strategy-edition.json](./173881-tactical-monsters-strategy-edition.json) |
 | Tactical Nexus | 126929 | [126929-tactical-nexus.json](./126929-tactical-nexus.json) |
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
 | Tactical Nexus: Chapter 4 - Tactical Star | 174546 | [174546-tactical-nexus-chapter-4-tactical-star.json](./174546-tactical-nexus-chapter-4-tactical-star.json) |
@@ -26533,6 +26534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
 | Tobarinker | 295431 | [295431-tobarinker.json](./295431-tobarinker.json) |
+| ToBas Zombies | 173886 | [173886-tobas-zombies.json](./173886-tobas-zombies.json) |
 | Tobby The Dog | 289942 | [289942-tobby-the-dog.json](./289942-tobby-the-dog.json) |
 | Tobe & Friends Hookshot Escape | 65325 | [65325-tobe-and-friends-hookshot-escape.json](./65325-tobe-and-friends-hookshot-escape.json) |
 | Tobe! Rockman | 401679 | [401679-tobe-rockman.json](./401679-tobe-rockman.json) |
@@ -27357,6 +27359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Forbidden Falcon | 298980 | [298980-tomb-of-the-forbidden-falcon.json](./298980-tomb-of-the-forbidden-falcon.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
+| Tomb of the Lost Sentry | 173878 | [173878-tomb-of-the-lost-sentry.json](./173878-tomb-of-the-lost-sentry.json) |
 | Tomb of the Mask | 58348 | [58348-tomb-of-the-mask.json](./58348-tomb-of-the-mask.json) |
 | Tomb of the Mask: Color | 154691 | [154691-tomb-of-the-mask-color.json](./154691-tomb-of-the-mask-color.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
