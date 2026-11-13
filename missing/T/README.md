@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Date Simulator | 75321 | [75321-teen-date-simulator.json](./75321-teen-date-simulator.json) |
 | Teen Patti Gold | 169896 | [169896-teen-patti-gold.json](./169896-teen-patti-gold.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
+| Teen Titans | 201730 | [201730-teen-titans.json](./201730-teen-titans.json) |
 | Teen Titans | 4195 | [4195-teen-titans.json](./4195-teen-titans.json) |
 | Teen Titans 2 | 49214 | [49214-teen-titans-2.json](./49214-teen-titans-2.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bastard of Camelot | 355995 | [355995-the-bastard-of-camelot.json](./355995-the-bastard-of-camelot.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Bat | 333986 | [333986-the-bat.json](./333986-the-bat.json) |
+| The Bat D | 201719 | [201719-the-bat-d.json](./201719-the-bat-d.json) |
 | The Bat Quiz | 231101 | [231101-the-bat-quiz.json](./231101-the-bat-quiz.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse | 200475 | [200475-the-bathhouse.json](./200475-the-bathhouse.json) |
@@ -12017,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
 | The Illusion: Curse | 242395 | [242395-the-illusion-curse.json](./242395-the-illusion-curse.json) |
+| The Illusion: Nightmare | 201603 | [201603-the-illusion-nightmare.json](./201603-the-illusion-nightmare.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
 | The Illusory Wall | 101710 | [101710-the-illusory-wall.json](./101710-the-illusory-wall.json) |
 | The Illust Puzzle | 222012 | [222012-the-illust-puzzle.json](./222012-the-illust-puzzle.json) |
@@ -12714,6 +12717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters - Kim Kaphwan | 243761 | [243761-the-king-of-fighters-xv-characters-kim-kaphwan.json](./243761-the-king-of-fighters-xv-characters-kim-kaphwan.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
+| The King of Fighters XV: Characters Team South Town | 201736 | [201736-the-king-of-fighters-xv-characters-team-south-town.json](./201736-the-king-of-fighters-xv-characters-team-south-town.json) |
 | The King of Fighters XV: Day One Edition | 171281 | [171281-the-king-of-fighters-xv-day-one-edition.json](./171281-the-king-of-fighters-xv-day-one-edition.json) |
 | The King of Fighters XV: Deluxe Edition | 172556 | [172556-the-king-of-fighters-xv-deluxe-edition.json](./172556-the-king-of-fighters-xv-deluxe-edition.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
@@ -17959,6 +17963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
 | The Simpsons: Night of the Dolphin! | 327507 | [327507-the-simpsons-night-of-the-dolphin.json](./327507-the-simpsons-night-of-the-dolphin.json) |
 | The Simpsons: Night of the Living - Treehouse of Horror | 2840 | [2840-the-simpsons-night-of-the-living-treehouse-of-horror.json](./2840-the-simpsons-night-of-the-living-treehouse-of-horror.json) |
+| The Simpsons: Road Rage | 201746 | [201746-the-simpsons-road-rage.json](./201746-the-simpsons-road-rage.json) |
 | The Simpsons: Road Rage | 2842 | [2842-the-simpsons-road-rage.json](./2842-the-simpsons-road-rage.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
@@ -26809,6 +26814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
 | Tokyo Psychodemic | 248944 | [248944-tokyo-psychodemic.json](./248944-tokyo-psychodemic.json) |
+| Tokyo purgatorio | 201331 | [201331-tokyo-purgatorio.json](./201331-tokyo-purgatorio.json) |
 | Tokyo Racer X | 343508 | [343508-tokyo-racer-x.json](./343508-tokyo-racer-x.json) |
 | Tokyo Ramen Drifter | 414096 | [414096-tokyo-ramen-drifter.json](./414096-tokyo-ramen-drifter.json) |
 | Tokyo Re:Connect | 166956 | [166956-tokyo-re-connect.json](./166956-tokyo-re-connect.json) |
@@ -33069,6 +33075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
 | Treasure Seekers 2: The Enchanted Canvases | 124404 | [124404-treasure-seekers-2-the-enchanted-canvases.json](./124404-treasure-seekers-2-the-enchanted-canvases.json) |
 | Treasure Seekers 3: Follow the Ghosts | 47031 | [47031-treasure-seekers-3-follow-the-ghosts.json](./47031-treasure-seekers-3-follow-the-ghosts.json) |
+| Treasure Seekers: Follow the Ghosts - Collector's Edition | 201744 | [201744-treasure-seekers-follow-the-ghosts-collectors-edition.json](./201744-treasure-seekers-follow-the-ghosts-collectors-edition.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Seekers: Visions of Gold | 64728 | [64728-treasure-seekers-visions-of-gold.json](./64728-treasure-seekers-visions-of-gold.json) |
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
@@ -34597,6 +34604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Idle Simulator | 368704 | [368704-true-idle-simulator.json](./368704-true-idle-simulator.json) |
 | True Idle Simulator 2 | 295294 | [295294-true-idle-simulator-2.json](./295294-true-idle-simulator-2.json) |
 | True Legacy | 88946 | [88946-true-legacy.json](./88946-true-legacy.json) |
+| True Lies | 201742 | [201742-true-lies.json](./201742-true-lies.json) |
 | True Lies | 282484 | [282484-true-lies.json](./282484-true-lies.json) |
 | True Lies | 9702 | [9702-true-lies.json](./9702-true-lies.json) |
 | True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
