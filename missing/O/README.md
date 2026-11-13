@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
+| Operation: Labrat | 180869 | [180869-operation-labrat.json](./180869-operation-labrat.json) |
 | Operation: Matriarchy | 33684 | [33684-operation-matriarchy.json](./33684-operation-matriarchy.json) |
 | Operation: New Earth | 31259 | [31259-operation-new-earth.json](./31259-operation-new-earth.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Home | 207806 | [207806-our-home.json](./207806-our-home.json) |
 | Our Home | 357732 | [357732-our-home.json](./357732-our-home.json) |
 | Our Home, My Keeper | 370056 | [370056-our-home-my-keeper.json](./370056-our-home-my-keeper.json) |
+| Our Home. | 181280 | [181280-our-home.json](./181280-our-home.json) |
 | Our Homeland | 126235 | [126235-our-homeland.json](./126235-our-homeland.json) |
 | Our House | 120011 | [120011-our-house.json](./120011-our-house.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
