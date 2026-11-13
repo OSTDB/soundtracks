@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Police: Christmas Dancing with Police Zombies | 288443 | [288443-zombie-police-christmas-dancing-with-police-zombies.json](./288443-zombie-police-christmas-dancing-with-police-zombies.json) |
 | Zombie Poly | 216084 | [216084-zombie-poly.json](./216084-zombie-poly.json) |
 | Zombie Pop | 74981 | [74981-zombie-pop.json](./74981-zombie-pop.json) |
+| Zombie Prison Break | 237106 | [237106-zombie-prison-break.json](./237106-zombie-prison-break.json) |
 | Zombie Protocol | 374254 | [374254-zombie-protocol.json](./374254-zombie-protocol.json) |
 | Zombie Quarantine | 43543 | [43543-zombie-quarantine.json](./43543-zombie-quarantine.json) |
 | Zombie Quarantine: Blackout Survival | 334106 | [334106-zombie-quarantine-blackout-survival.json](./334106-zombie-quarantine-blackout-survival.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombocalypse | 389509 | [389509-zombocalypse.json](./389509-zombocalypse.json) |
 | Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
+| Zombocity | 233809 | [233809-zombocity.json](./233809-zombocity.json) |
 | Zombocity | 377128 | [377128-zombocity.json](./377128-zombocity.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | ZomboidGuessr | 298763 | [298763-zomboidguessr.json](./298763-zomboidguessr.json) |
@@ -2529,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
 | Zooba | 123682 | [123682-zooba.json](./123682-zooba.json) |
 | Zoobles! Spring to Life! | 9753 | [9753-zoobles-spring-to-life.json](./9753-zoobles-spring-to-life.json) |
+| Zooblies | 231104 | [231104-zooblies.json](./231104-zooblies.json) |
 | Zoocastle | 234991 | [234991-zoocastle.json](./234991-zoocastle.json) |
 | Zooclan | 394137 | [394137-zooclan.json](./394137-zooclan.json) |
 | Zooconomy | 149141 | [149141-zooconomy.json](./149141-zooconomy.json) |
