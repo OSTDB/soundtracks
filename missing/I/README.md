@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Ambitions | 235944 | [235944-imperial-ambitions.json](./235944-imperial-ambitions.json) |
 | Imperial Arms: Curse of the Conqueror | 188452 | [188452-imperial-arms-curse-of-the-conqueror.json](./188452-imperial-arms-curse-of-the-conqueror.json) |
 | Imperial Bureaucracy Hero | 377963 | [377963-imperial-bureaucracy-hero.json](./377963-imperial-bureaucracy-hero.json) |
+| Imperial Chess | 187574 | [187574-imperial-chess.json](./187574-imperial-chess.json) |
 | Imperial Command | 386896 | [386896-imperial-command.json](./386896-imperial-command.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Glory | 9059 | [9059-imperial-glory.json](./9059-imperial-glory.json) |
