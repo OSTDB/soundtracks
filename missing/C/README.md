@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candied Carols | 177343 | [177343-candied-carols.json](./177343-candied-carols.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
 | Candies 'N Curses | 112174 | [112174-candies-n-curses.json](./112174-candies-n-curses.json) |
+| Candies in the Snow | 184007 | [184007-candies-in-the-snow.json](./184007-candies-in-the-snow.json) |
 | Candivity | 324058 | [324058-candivity.json](./324058-candivity.json) |
 | Candivity: Complete Edition | 346001 | [346001-candivity-complete-edition.json](./346001-candivity-complete-edition.json) |
 | Candivity: Deep Mines DLC | 324431 | [324431-candivity-deep-mines-dlc.json](./324431-candivity-deep-mines-dlc.json) |
@@ -9943,6 +9944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus of Death | 321106 | [321106-circus-of-death.json](./321106-circus-of-death.json) |
 | Circus of Pain | 349055 | [349055-circus-of-pain.json](./349055-circus-of-pain.json) |
 | Circus of TimTim | 278013 | [278013-circus-of-timtim.json](./278013-circus-of-timtim.json) |
+| Circus Pocus | 184535 | [184535-circus-pocus.json](./184535-circus-pocus.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
 | Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
 | CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
@@ -12933,6 +12935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldstar | 421577 | [421577-coldstar.json](./421577-coldstar.json) |
 | Coldsteel Adventure 7 | 275487 | [275487-coldsteel-adventure-7.json](./275487-coldsteel-adventure-7.json) |
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
+| ColdSun | 185048 | [185048-coldsun.json](./185048-coldsun.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | ColdTV | 329989 | [329989-coldtv.json](./329989-coldtv.json) |
@@ -18141,6 +18144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Wars | 150402 | [150402-crate-wars.json](./150402-crate-wars.json) |
 | Crategun | 176840 | [176840-crategun.json](./176840-crategun.json) |
 | CrateMage | 310103 | [310103-cratemage.json](./310103-cratemage.json) |
+| Crater | 185045 | [185045-crater.json](./185045-crater.json) |
 | Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
 | Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
 | Crater Song | 321254 | [321254-crater-song.json](./321254-crater-song.json) |
