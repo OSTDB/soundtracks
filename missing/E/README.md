@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Face Jump! | 272206 | [272206-emoji-face-jump.json](./272206-emoji-face-jump.json) |
 | Emoji Janken RPG | 416017 | [416017-emoji-janken-rpg.json](./416017-emoji-janken-rpg.json) |
+| Emoji Kart Racer | 229421 | [229421-emoji-kart-racer.json](./229421-emoji-kart-racer.json) |
 | Emoji Marble Dash | 387165 | [387165-emoji-marble-dash.json](./387165-emoji-marble-dash.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
 | Emoji Merge: Puzzle Matching | 369543 | [369543-emoji-merge-puzzle-matching.json](./369543-emoji-merge-puzzle-matching.json) |
@@ -3969,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enderal: Forgotten Stories | 109367 | [109367-enderal-forgotten-stories.json](./109367-enderal-forgotten-stories.json) |
 | Enderal: Forgotten Stories - Special Edition | 153743 | [153743-enderal-forgotten-stories-special-edition.json](./153743-enderal-forgotten-stories-special-edition.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
+| Enders Gate | 229995 | [229995-enders-gate.json](./229995-enders-gate.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
 | Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
@@ -5142,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eqqo | 301225 | [301225-eqqo.json](./301225-eqqo.json) |
 | Equaboreal 12.21 | 133903 | [133903-equaboreal-12-21.json](./133903-equaboreal-12-21.json) |
 | Equadle | 363029 | [363029-equadle.json](./363029-equadle.json) |
+| Equal People | 233810 | [233810-equal-people.json](./233810-equal-people.json) |
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
 | Equalicious | 106233 | [106233-equalicious.json](./106233-equalicious.json) |
 | Equaline | 169591 | [169591-equaline.json](./169591-equaline.json) |
@@ -8373,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
 | Exitium | 367909 | [367909-exitium.json](./367909-exitium.json) |
 | Exitium - Saviors of Vardonia | 38706 | [38706-exitium-saviors-of-vardonia.json](./38706-exitium-saviors-of-vardonia.json) |
+| ExitMan Deluxe | 233802 | [233802-exitman-deluxe.json](./233802-exitman-deluxe.json) |
 | Exitor | 230958 | [230958-exitor.json](./230958-exitor.json) |
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
 | Exits | 314964 | [314964-exits.json](./314964-exits.json) |
@@ -8970,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Go-Kart Racing | 45306 | [45306-extreme-go-kart-racing.json](./45306-extreme-go-kart-racing.json) |
 | Extreme Hangman | 67012 | [67012-extreme-hangman.json](./67012-extreme-hangman.json) |
 | Extreme Hangman 2 | 62255 | [62255-extreme-hangman-2.json](./62255-extreme-hangman-2.json) |
+| Extreme Highway Racing: Real Speed Driver | 233788 | [233788-extreme-highway-racing-real-speed-driver.json](./233788-extreme-highway-racing-real-speed-driver.json) |
 | Extreme Hill Driver | 414387 | [414387-extreme-hill-driver.json](./414387-extreme-hill-driver.json) |
 | Extreme Hunting | 39429 | [39429-extreme-hunting.json](./39429-extreme-hunting.json) |
 | Extreme Hunting 2 | 83432 | [83432-extreme-hunting-2.json](./83432-extreme-hunting-2.json) |
