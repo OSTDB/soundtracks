@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FairyWoods Patisserie | 258613 | [258613-fairywoods-patisserie.json](./258613-fairywoods-patisserie.json) |
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
+| Faith | 170596 | [170596-faith.json](./170596-faith.json) |
 | Faith | 195876 | [195876-faith.json](./195876-faith.json) |
 | Faith | 84197 | [84197-faith.json](./84197-faith.json) |
 | Faith & Shield: 4044 Tower Defense | 201519 | [201519-faith-and-shield-4044-tower-defense.json](./201519-faith-and-shield-4044-tower-defense.json) |
@@ -1614,9 +1615,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo | 148062 | [148062-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json](./148062-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo | 6674 | [6674-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json](./6674-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Kouhen | 47249 | [47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json](./47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json) |
+| Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zengohen | 170613 | [170613-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zengohen.json](./170613-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zengohen.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zenpen | 41415 | [41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json](./41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json) |
 | Famicom Tantei Club: Kieta Koukeisha | 6673 | [6673-famicom-tantei-club-kieta-koukeisha.json](./6673-famicom-tantei-club-kieta-koukeisha.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
+| Famicom Tantei Club: Kieta Koukeisha - Zengohen | 170612 | [170612-famicom-tantei-club-kieta-koukeisha-zengohen.json](./170612-famicom-tantei-club-kieta-koukeisha-zengohen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Zenpen | 41380 | [41380-famicom-tantei-club-kieta-koukeisha-zenpen.json](./41380-famicom-tantei-club-kieta-koukeisha-zenpen.json) |
 | Famicom Tantei Club: Seinaru Yoru ni | 275263 | [275263-famicom-tantei-club-seinaru-yoru-ni.json](./275263-famicom-tantei-club-seinaru-yoru-ni.json) |
 | Famicom Top Management | 48712 | [48712-famicom-top-management.json](./48712-famicom-top-management.json) |
