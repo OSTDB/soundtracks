@@ -5218,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
 | Our Dreadling | 372960 | [372960-our-dreadling.json](./372960-our-dreadling.json) |
 | Our Dying World | 203781 | [203781-our-dying-world.json](./203781-our-dying-world.json) |
+| Our Elusive Suffering | 195686 | [195686-our-elusive-suffering.json](./195686-our-elusive-suffering.json) |
 | Our End of the World | 36889 | [36889-our-end-of-the-world.json](./36889-our-end-of-the-world.json) |
 | Our Ephemeral Nights | 377032 | [377032-our-ephemeral-nights.json](./377032-our-ephemeral-nights.json) |
 | Our Exciting Summer Camp | 343549 | [343549-our-exciting-summer-camp.json](./343549-our-exciting-summer-camp.json) |
@@ -5859,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
+| Outside the Box | 195683 | [195683-outside-the-box.json](./195683-outside-the-box.json) |
 | Outside the Door | 291842 | [291842-outside-the-door.json](./291842-outside-the-door.json) |
 | Outside the Grid | 161544 | [161544-outside-the-grid.json](./161544-outside-the-grid.json) |
 | Outside the home | 176249 | [176249-outside-the-home.json](./176249-outside-the-home.json) |
