@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story in Bronze Ware | 263820 | [263820-a-story-in-bronze-ware.json](./263820-a-story-in-bronze-ware.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
+| A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Story of Distress | 86606 | [86606-a-story-of-distress.json](./86606-a-story-of-distress.json) |
 | A Story of Merchant | 172294 | [172294-a-story-of-merchant.json](./172294-a-story-of-merchant.json) |
 | A Story of Paradise Lost | 276040 | [276040-a-story-of-paradise-lost.json](./276040-a-story-of-paradise-lost.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aby's Playground | 237775 | [237775-abys-playground.json](./237775-abys-playground.json) |
 | ABYA: Paint Ball | 312664 | [312664-abya-paint-ball.json](./312664-abya-paint-ball.json) |
 | Abysm 2: Infernal Contract | 141322 | [141322-abysm-2-infernal-contract.json](./141322-abysm-2-infernal-contract.json) |
+| Abysm 2: Pharaoh's Judgement | 201229 | [201229-abysm-2-pharaohs-judgement.json](./201229-abysm-2-pharaohs-judgement.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abysm: Dawn of Innocence | 141321 | [141321-abysm-dawn-of-innocence.json](./141321-abysm-dawn-of-innocence.json) |
 | Abysmal Gateway | 312661 | [312661-abysmal-gateway.json](./312661-abysmal-gateway.json) |
@@ -2721,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy: Checkers | 84734 | [84734-academy-checkers.json](./84734-academy-checkers.json) |
 | Academy: Chess Puzzles | 84733 | [84733-academy-chess-puzzles.json](./84733-academy-chess-puzzles.json) |
 | Academy: Tic-Tac-Toe | 65075 | [65075-academy-tic-tac-toe.json](./65075-academy-tic-tac-toe.json) |
+| Academy34 | 200684 | [200684-academy34.json](./200684-academy34.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
 | Acalesia | 145361 | [145361-acalesia.json](./145361-acalesia.json) |
 | Acalius: Enemies of the Wild | 58069 | [58069-acalius-enemies-of-the-wild.json](./58069-acalius-enemies-of-the-wild.json) |
@@ -4400,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
+| Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
 | Aeon | 36635 | [36635-aeon.json](./36635-aeon.json) |
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
@@ -5321,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: The Titans | 8221 | [8221-age-of-mythology-the-titans.json](./8221-age-of-mythology-the-titans.json) |
 | Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
 | Age of Oracles: Tara's Journey | 293948 | [293948-age-of-oracles-taras-journey.json](./293948-age-of-oracles-taras-journey.json) |
+| Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pirates | 375060 | [375060-age-of-pirates.json](./375060-age-of-pirates.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
@@ -5662,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
 | Ahlman Arcade 2018 | 106546 | [106546-ahlman-arcade-2018.json](./106546-ahlman-arcade-2018.json) |
 | Ahlman Mansion 2020 | 150758 | [150758-ahlman-mansion-2020.json](./150758-ahlman-mansion-2020.json) |
+| Ahmes | 200704 | [200704-ahmes.json](./200704-ahmes.json) |
 | Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
@@ -16715,6 +16721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asou Youichi no Jikenbo: Dochiraka ga Kanojo wo Koroshita | 299681 | [299681-asou-youichi-no-jikenbo-dochiraka-ga-kanojo-wo-koroshita.json](./299681-asou-youichi-no-jikenbo-dochiraka-ga-kanojo-wo-koroshita.json) |
 | Aspar GP Master | 13336 | [13336-aspar-gp-master.json](./13336-aspar-gp-master.json) |
 | Aspect | 112059 | [112059-aspect.json](./112059-aspect.json) |
+| Aspect | 201222 | [201222-aspect.json](./201222-aspect.json) |
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
 | Aspect of Daedalus | 275207 | [275207-aspect-of-daedalus.json](./275207-aspect-of-daedalus.json) |
 | Aspectless One | 405547 | [405547-aspectless-one.json](./405547-aspectless-one.json) |
@@ -19465,6 +19472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Jiūjí Mahjong II | 247306 | [247306-av-jiuji-mahjong-ii.json](./247306-av-jiuji-mahjong-ii.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
 | AV Poker: World Gambler | 42089 | [42089-av-poker-world-gambler.json](./42089-av-poker-world-gambler.json) |
+| AV Racer | 201218 | [201218-av-racer.json](./201218-av-racer.json) |
 | AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
 | AV-17 | 110670 | [110670-av-17.json](./110670-av-17.json) |
 | AV.Runner | 217218 | [217218-av-runner.json](./217218-av-runner.json) |
