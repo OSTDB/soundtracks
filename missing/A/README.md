@@ -4201,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Calculon | 357781 | [357781-adventures-in-calculon.json](./357781-adventures-in-calculon.json) |
 | Adventures In Clairune | 307439 | [307439-adventures-in-clairune.json](./307439-adventures-in-clairune.json) |
+| Adventures in Equica: Unicorn Training | 242759 | [242759-adventures-in-equica-unicorn-training.json](./242759-adventures-in-equica-unicorn-training.json) |
 | Adventures in Flesh | 281330 | [281330-adventures-in-flesh.json](./281330-adventures-in-flesh.json) |
 | Adventures in Heaven | 299013 | [299013-adventures-in-heaven.json](./299013-adventures-in-heaven.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
@@ -8566,6 +8567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
 | Alpha Version.0 | 35483 | [35483-alpha-version-0.json](./35483-alpha-version-0.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
+| Alpha Warrior | 242756 | [242756-alpha-warrior.json](./242756-alpha-warrior.json) |
 | Alpha Wave | 38684 | [38684-alpha-wave.json](./38684-alpha-wave.json) |
 | Alpha Wing 2 | 263423 | [263423-alpha-wing-2.json](./263423-alpha-wing-2.json) |
 | Alpha Zen | 232476 | [232476-alpha-zen.json](./232476-alpha-zen.json) |
