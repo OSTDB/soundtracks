@@ -7389,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Item Tower | 259962 | [259962-item-tower.json](./259962-item-tower.json) |
 | ItemDay | 244659 | [244659-itemday.json](./244659-itemday.json) |
 | Iter | 398493 | [398493-iter.json](./398493-iter.json) |
+| Iter Itineris | 202293 | [202293-iter-itineris.json](./202293-iter-itineris.json) |
 | Iter Vehemens Ad Necem | 108171 | [108171-iter-vehemens-ad-necem.json](./108171-iter-vehemens-ad-necem.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
 | Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
