@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing Stone | 189881 | [189881-sailing-stone.json](./189881-sailing-stone.json) |
 | Sailing the Winds | 323699 | [323699-sailing-the-winds.json](./323699-sailing-the-winds.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
+| Sailing Wizard | 216923 | [216923-sailing-wizard.json](./216923-sailing-wizard.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
 | Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
 | Sailor Cats 2: Space Odyssey | 202051 | [202051-sailor-cats-2-space-odyssey.json](./202051-sailor-cats-2-space-odyssey.json) |
@@ -712,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Grave | 323572 | [323572-sailors-grave.json](./323572-sailors-grave.json) |
 | Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
+| Sailors: Age of Corsairs | 216922 | [216922-sailors-age-of-corsairs.json](./216922-sailors-age-of-corsairs.json) |
 | Sails | 412642 | [412642-sails.json](./412642-sails.json) |
 | SailSim | 204266 | [204266-sailsim.json](./204266-sailsim.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
@@ -961,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo | 60374 | [60374-sakura-mau-otome-no-rondo.json](./60374-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
+| Sakura Melody | 216921 | [216921-sakura-melody.json](./216921-sakura-melody.json) |
 | Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
 | Sakura MMO | 110779 | [110779-sakura-mmo.json](./110779-sakura-mmo.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
@@ -1373,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samu | 378279 | [378279-samu.json](./378279-samu.json) |
 | Samu Game | 385920 | [385920-samu-game.json](./385920-samu-game.json) |
 | Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
+| Samuda Interval | 216924 | [216924-samuda-interval.json](./216924-samuda-interval.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samudra | 126534 | [126534-samudra.json](./126534-samudra.json) |
 | Samuel Prince Attorney at Law: Chapter 1 | 365593 | [365593-samuel-prince-attorney-at-law-chapter-1.json](./365593-samuel-prince-attorney-at-law-chapter-1.json) |
@@ -7625,9 +7629,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Chronicles: Infected - Missions | 171365 | [171365-shadowrun-chronicles-infected-missions.json](./171365-shadowrun-chronicles-infected-missions.json) |
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
 | Shadowrun Complete Collection | 53603 | [53603-shadowrun-complete-collection.json](./53603-shadowrun-complete-collection.json) |
+| Shadowrun Returns: Deluxe Edition | 216372 | [216372-shadowrun-returns-deluxe-edition.json](./216372-shadowrun-returns-deluxe-edition.json) |
 | Shadowrun Trilogy | 154181 | [154181-shadowrun-trilogy.json](./154181-shadowrun-trilogy.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
+| Shadowrun: Hong Kong - Extended Edition Deluxe | 216373 | [216373-shadowrun-hong-kong-extended-edition-deluxe.json](./216373-shadowrun-hong-kong-extended-edition-deluxe.json) |
 | Shadows | 188162 | [188162-shadows.json](./188162-shadows.json) |
 | Shadows | 30305 | [30305-shadows.json](./30305-shadows.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
@@ -10026,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Survival | 248149 | [248149-shooting-survival.json](./248149-shooting-survival.json) |
 | Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
+| Shooting Waltz | 215942 | [215942-shooting-waltz.json](./215942-shooting-waltz.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootMania Storm | 16464 | [16464-shootmania-storm.json](./16464-shootmania-storm.json) |
 | Shootout | 245146 | [245146-shootout.json](./245146-shootout.json) |
@@ -14721,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Furry | 367207 | [367207-slide-furry.json](./367207-slide-furry.json) |
 | Slide Furry Boys | 385010 | [385010-slide-furry-boys.json](./385010-slide-furry-boys.json) |
 | Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
+| Slide Girls | 215939 | [215939-slide-girls.json](./215939-slide-girls.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide Mini | 157814 | [157814-slide-mini.json](./157814-slide-mini.json) |
@@ -20212,6 +20220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Detective | 254805 | [254805-soul-detective.json](./254805-soul-detective.json) |
 | Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
+| Soul Dier | 216896 | [216896-soul-dier.json](./216896-soul-dier.json) |
 | Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
 | Soul Dog TD | 215958 | [215958-soul-dog-td.json](./215958-soul-dog-td.json) |
 | Soul Dossier | 149761 | [149761-soul-dossier.json](./149761-soul-dossier.json) |
@@ -30043,6 +30052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
 | Stranded: A Mars Adventure | 99532 | [99532-stranded-a-mars-adventure.json](./99532-stranded-a-mars-adventure.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
+| Stranded: Escape Skull Cove | 216369 | [216369-stranded-escape-skull-cove.json](./216369-stranded-escape-skull-cove.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
 | Stranded: Mars ONE | 128412 | [128412-stranded-mars-one.json](./128412-stranded-mars-one.json) |
 | Stranded: Mysteries of Time | 65227 | [65227-stranded-mysteries-of-time.json](./65227-stranded-mysteries-of-time.json) |
@@ -34237,6 +34247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Kenya | 204191 | [204191-super-jigsaw-puzzle-generations-kenya.json](./204191-super-jigsaw-puzzle-generations-kenya.json) |
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
 | Super Jigsaw Puzzle: Generations - Kittens Puzzles | 155590 | [155590-super-jigsaw-puzzle-generations-kittens-puzzles.json](./155590-super-jigsaw-puzzle-generations-kittens-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Landscapes 2 | 216905 | [216905-super-jigsaw-puzzle-generations-landscapes-2.json](./216905-super-jigsaw-puzzle-generations-landscapes-2.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes 3 | 259088 | [259088-super-jigsaw-puzzle-generations-landscapes-3.json](./259088-super-jigsaw-puzzle-generations-landscapes-3.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes 4 | 271560 | [271560-super-jigsaw-puzzle-generations-landscapes-4.json](./271560-super-jigsaw-puzzle-generations-landscapes-4.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes 5 | 354152 | [354152-super-jigsaw-puzzle-generations-landscapes-5.json](./354152-super-jigsaw-puzzle-generations-landscapes-5.json) |
@@ -35465,6 +35476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paul World | 266034 | [266034-super-paul-world.json](./266034-super-paul-world.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
+| Super Pentagon | 216903 | [216903-super-pentagon.json](./216903-super-pentagon.json) |
 | Super People | 158813 | [158813-super-people.json](./158813-super-people.json) |
 | Super Perils of Baking | 201384 | [201384-super-perils-of-baking.json](./201384-super-perils-of-baking.json) |
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
@@ -36134,6 +36146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Snake Heroes | 24656 | [24656-super-snake-heroes.json](./24656-super-snake-heroes.json) |
 | Super Snot Put | 326727 | [326727-super-snot-put.json](./326727-super-snot-put.json) |
 | Super Snow Fight | 35384 | [35384-super-snow-fight.json](./35384-super-snow-fight.json) |
+| Super Snow Tubes | 216902 | [216902-super-snow-tubes.json](./216902-super-snow-tubes.json) |
 | Super Snowball Sunday | 74334 | [74334-super-snowball-sunday.json](./74334-super-snowball-sunday.json) |
 | Super Snowmobile Rally | 241121 | [241121-super-snowmobile-rally.json](./241121-super-snowmobile-rally.json) |
 | Super Soakdown | 245731 | [245731-super-soakdown.json](./245731-super-soakdown.json) |
@@ -36460,6 +36473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vampire Hunter | 184708 | [184708-super-vampire-hunter.json](./184708-super-vampire-hunter.json) |
 | Super Vampire Ninja Zero | 159013 | [159013-super-vampire-ninja-zero.json](./159013-super-vampire-ninja-zero.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
+| Super Vecter Elite Turbo | 216901 | [216901-super-vecter-elite-turbo.json](./216901-super-vecter-elite-turbo.json) |
 | Super Versus | 114291 | [114291-super-versus.json](./114291-super-versus.json) |
 | Super VHS | 244683 | [244683-super-vhs.json](./244683-super-vhs.json) |
 | Super Video Golf | 249343 | [249343-super-video-golf.json](./249343-super-video-golf.json) |
@@ -36599,6 +36613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
+| SuperColony | 216906 | [216906-supercolony.json](./216906-supercolony.json) |
 | Supercontinent LTD | 146472 | [146472-supercontinent-ltd.json](./146472-supercontinent-ltd.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
 | Supercow | 68432 | [68432-supercow.json](./68432-supercow.json) |
@@ -36911,6 +36926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Supernova TD | 158333 | [158333-supernova-td.json](./158333-supernova-td.json) |
 | Supernova: Galactic Wars | 347063 | [347063-supernova-galactic-wars.json](./347063-supernova-galactic-wars.json) |
+| SuperOffice | 216904 | [216904-superoffice.json](./216904-superoffice.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
 | SuperPacker | 411995 | [411995-superpacker.json](./411995-superpacker.json) |
@@ -38559,6 +38575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipez Puzzle | 175083 | [175083-swipez-puzzle.json](./175083-swipez-puzzle.json) |
 | Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
 | Swirl - The Ice Cream Saga | 106220 | [106220-swirl-the-ice-cream-saga.json](./106220-swirl-the-ice-cream-saga.json) |
+| Swirl W@tch | 216899 | [216899-swirl-w-tch.json](./216899-swirl-w-tch.json) |
 | Swiscape | 131765 | [131765-swiscape.json](./131765-swiscape.json) |
 | Swish | 239982 | [239982-swish.json](./239982-swish.json) |
 | Swish and Flick: Tidy Up Together | 427223 | [427223-swish-and-flick-tidy-up-together.json](./427223-swish-and-flick-tidy-up-together.json) |
