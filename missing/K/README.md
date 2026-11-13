@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin Van Dam Fishing | 91019 | [91019-kevin-van-dam-fishing.json](./91019-kevin-van-dam-fishing.json) |
 | Kevin Van Dam's Big Bass Challenge | 50969 | [50969-kevin-van-dams-big-bass-challenge.json](./50969-kevin-van-dams-big-bass-challenge.json) |
 | Kevin's Adventure | 174713 | [174713-kevins-adventure.json](./174713-kevins-adventure.json) |
+| Kevin's Path to Wizdom | 206276 | [206276-kevins-path-to-wizdom.json](./206276-kevins-path-to-wizdom.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevin(1997-2077) | 286904 | [286904-kevin-1997-2077.json](./286904-kevin-1997-2077.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
