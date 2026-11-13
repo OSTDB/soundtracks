@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verve | 311220 | [311220-verve.json](./311220-verve.json) |
 | Verwandlung | 230004 | [230004-verwandlung.json](./230004-verwandlung.json) |
 | VerX | 418099 | [418099-verx.json](./418099-verx.json) |
+| Very Bad Company | 196617 | [196617-very-bad-company.json](./196617-very-bad-company.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
