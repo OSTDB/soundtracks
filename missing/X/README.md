@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Sail | 249709 | [249709-x-sail.json](./249709-x-sail.json) |
 | X-Samkok | 328363 | [328363-x-samkok.json](./328363-x-samkok.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
+| X-Sports | 231105 | [231105-x-sports.json](./231105-x-sports.json) |
 | X-Squad | 19423 | [19423-x-squad.json](./19423-x-squad.json) |
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
 | X-Team | 127631 | [127631-x-team.json](./127631-x-team.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | Xploquest | 76926 | [76926-xploquest.json](./76926-xploquest.json) |
 | Xploquest 2 | 86593 | [86593-xploquest-2.json](./86593-xploquest-2.json) |
+| Xploquest 3 | 231106 | [231106-xploquest-3.json](./231106-xploquest-3.json) |
 | Xplora 1: Peter Gabriel's Secret World | 78862 | [78862-xplora-1-peter-gabriels-secret-world.json](./78862-xplora-1-peter-gabriels-secret-world.json) |
 | XPlorasi3D | 218312 | [218312-xplorasi3d.json](./218312-xplorasi3d.json) |
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
