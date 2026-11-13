@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth Moment | 259032 | [259032-rebirth-moment.json](./259032-rebirth-moment.json) |
 | Rebirth of Arcadia | 258059 | [258059-rebirth-of-arcadia.json](./258059-rebirth-of-arcadia.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
+| Rebirth of Fortune 2 | 212397 | [212397-rebirth-of-fortune-2.json](./212397-rebirth-of-fortune-2.json) |
 | Rebirth of Island | 33348 | [33348-rebirth-of-island.json](./33348-rebirth-of-island.json) |
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
 | Rebirth Online | 208143 | [208143-rebirth-online.json](./208143-rebirth-online.json) |
@@ -12210,6 +12211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rote2: RoteSquare | 195346 | [195346-rote2-rotesquare.json](./195346-rote2-rotesquare.json) |
 | Rotego | 158063 | [158063-rotego.json](./158063-rotego.json) |
 | Rotem | 372546 | [372546-rotem.json](./372546-rotem.json) |
+| Roterra 3: A Sovereign Twist | 212393 | [212393-roterra-3-a-sovereign-twist.json](./212393-roterra-3-a-sovereign-twist.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Roterra: Flip the Fairytale | 114537 | [114537-roterra-flip-the-fairytale.json](./114537-roterra-flip-the-fairytale.json) |
