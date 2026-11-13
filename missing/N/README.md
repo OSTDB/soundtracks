@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanomedix Inc | 31023 | [31023-nanomedix-inc.json](./31023-nanomedix-inc.json) |
 | Nanomon | 220761 | [220761-nanomon.json](./220761-nanomon.json) |
 | Nanooborg | 31562 | [31562-nanooborg.json](./31562-nanooborg.json) |
+| Nanook's Revenge | 190749 | [190749-nanooks-revenge.json](./190749-nanooks-revenge.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
 | Nanoplanet Survivors | 236145 | [236145-nanoplanet-survivors.json](./236145-nanoplanet-survivors.json) |
@@ -5231,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihon-shi Nengou Grid | 288434 | [288434-nihon-shi-nengou-grid.json](./288434-nihon-shi-nengou-grid.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
 | Nihongo DX7 | 392407 | [392407-nihongo-dx7.json](./392407-nihongo-dx7.json) |
+| Nihongo Heroes | 191137 | [191137-nihongo-heroes.json](./191137-nihongo-heroes.json) |
 | Nihongo Quest: N5 | 143704 | [143704-nihongo-quest-n5.json](./143704-nihongo-quest-n5.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | NiHonGoToKi | 116088 | [116088-nihongotoki.json](./116088-nihongotoki.json) |
