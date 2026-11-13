@@ -11125,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Greyrock: Card Pack - The Dying Forest | 335310 | [335310-guardians-of-greyrock-card-pack-the-dying-forest.json](./335310-guardians-of-greyrock-card-pack-the-dying-forest.json) |
 | Guardians of Greyrock: Card Pack - Traps And Treasure | 335314 | [335314-guardians-of-greyrock-card-pack-traps-and-treasure.json](./335314-guardians-of-greyrock-card-pack-traps-and-treasure.json) |
 | Guardians of Gridvale | 217113 | [217113-guardians-of-gridvale.json](./217113-guardians-of-gridvale.json) |
+| Guardians of Holme | 211354 | [211354-guardians-of-holme.json](./211354-guardians-of-holme.json) |
 | Guardians of Hyelore | 142534 | [142534-guardians-of-hyelore.json](./142534-guardians-of-hyelore.json) |
 | Guardians of Infinity: To Save Kennedy | 71677 | [71677-guardians-of-infinity-to-save-kennedy.json](./71677-guardians-of-infinity-to-save-kennedy.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
