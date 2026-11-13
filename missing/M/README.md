@@ -7087,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | me Igigu | 119937 | [119937-me-igigu.json](./119937-me-igigu.json) |
 | Me in the Office | 220412 | [220412-me-in-the-office.json](./220412-me-in-the-office.json) |
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
+| Me llow | 201334 | [201334-me-llow.json](./201334-me-llow.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
 | Me Red: The Ultimate Adventure | 294884 | [294884-me-red-the-ultimate-adventure.json](./294884-me-red-the-ultimate-adventure.json) |
@@ -12248,6 +12249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Grove | 323602 | [323602-midnight-grove.json](./323602-midnight-grove.json) |
 | Midnight Grub Session | 120098 | [120098-midnight-grub-session.json](./120098-midnight-grub-session.json) |
 | Midnight GT: Primary Racer | 73414 | [73414-midnight-gt-primary-racer.json](./73414-midnight-gt-primary-racer.json) |
+| Midnight Guns | 201731 | [201731-midnight-guns.json](./201731-midnight-guns.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
 | Midnight Heist | 184953 | [184953-midnight-heist.json](./184953-midnight-heist.json) |
@@ -12525,6 +12527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mightier | 341696 | [341696-mightier.json](./341696-mightier.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
+| Mighty & Ray in Sonic the Hedgehog 2 | 201720 | [201720-mighty-and-ray-in-sonic-the-hedgehog-2.json](./201720-mighty-and-ray-in-sonic-the-hedgehog-2.json) |
 | Mighty Action Heroes | 288660 | [288660-mighty-action-heroes.json](./288660-mighty-action-heroes.json) |
 | Mighty Action X | 221009 | [221009-mighty-action-x.json](./221009-mighty-action-x.json) |
 | Mighty Alpha Droid | 56384 | [56384-mighty-alpha-droid.json](./56384-mighty-alpha-droid.json) |
@@ -17863,6 +17866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
+| Monsters Loot Swag | 201606 | [201606-monsters-loot-swag.json](./201606-monsters-loot-swag.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters Mess | 232739 | [232739-monsters-mess.json](./232739-monsters-mess.json) |
 | Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
@@ -21511,6 +21515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Girl Hatsune Miku | 368411 | [368411-music-girl-hatsune-miku.json](./368411-music-girl-hatsune-miku.json) |
 | Music Girls | 196344 | [196344-music-girls.json](./196344-music-girls.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
+| Music GunGun! 2 | 201732 | [201732-music-gungun-2.json](./201732-music-gungun-2.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Inc | 232906 | [232906-music-inc.json](./232906-music-inc.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
