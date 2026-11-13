@@ -4730,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
 | Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
+| Aevenn | 185113 | [185113-aevenn.json](./185113-aevenn.json) |
 | Aevitas | 262227 | [262227-aevitas.json](./262227-aevitas.json) |
 | Aevum Obscurum | 69604 | [69604-aevum-obscurum.json](./69604-aevum-obscurum.json) |
 | Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
@@ -13205,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April Freebee | 324819 | [324819-april-freebee.json](./324819-april-freebee.json) |
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
+| April: Fall of Faith | 184014 | [184014-april-fall-of-faith.json](./184014-april-fall-of-faith.json) |
 | April's Diary | 249014 | [249014-aprils-diary.json](./249014-aprils-diary.json) |
 | Apsis | 193090 | [193090-apsis.json](./193090-apsis.json) |
 | Apsis Online | 169600 | [169600-apsis-online.json](./169600-apsis-online.json) |
@@ -16098,6 +16100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
 | Arthic | 108095 | [108095-arthic.json](./108095-arthic.json) |
+| Arthorse Exhibition | 184003 | [184003-arthorse-exhibition.json](./184003-arthorse-exhibition.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur & Susan: Almost Detectives | 270534 | [270534-arthur-and-susan-almost-detectives.json](./270534-arthur-and-susan-almost-detectives.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
@@ -16197,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Gravity Cat | 305688 | [305688-artificial-gravity-cat.json](./305688-artificial-gravity-cat.json) |
 | Artificial Heart | 306774 | [306774-artificial-heart.json](./306774-artificial-heart.json) |
+| Artificial Immunity | 185064 | [185064-artificial-immunity.json](./185064-artificial-immunity.json) |
 | Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
