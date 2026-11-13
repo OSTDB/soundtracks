@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
 | Samurai Shodown V | 6026 | [6026-samurai-shodown-v.json](./6026-samurai-shodown-v.json) |
+| Samurai Shodown V Perfect | 237685 | [237685-samurai-shodown-v-perfect.json](./237685-samurai-shodown-v-perfect.json) |
 | Samurai Shodown V Special | 39566 | [39566-samurai-shodown-v-special.json](./39566-samurai-shodown-v-special.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
@@ -13883,6 +13884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skye | 130902 | [130902-skye.json](./130902-skye.json) |
 | Skye | 408039 | [408039-skye.json](./408039-skye.json) |
 | Skye in the Sky | 359416 | [359416-skye-in-the-sky.json](./359416-skye-in-the-sky.json) |
+| Skye Learning Watch | 237617 | [237617-skye-learning-watch.json](./237617-skye-learning-watch.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skye Tales | 204532 | [204532-skye-tales.json](./204532-skye-tales.json) |
 | Skye: The Misty Isle | 163459 | [163459-skye-the-misty-isle.json](./163459-skye-the-misty-isle.json) |
@@ -38289,6 +38291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swift by Knight | 258918 | [258918-swift-by-knight.json](./258918-swift-by-knight.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift Elf | 152667 | [152667-swift-elf.json](./152667-swift-elf.json) |
+| Swift Ride | 237611 | [237611-swift-ride.json](./237611-swift-ride.json) |
 | Swift Striders Parkour | 368395 | [368395-swift-striders-parkour.json](./368395-swift-striders-parkour.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
@@ -38612,6 +38615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Destiny | 133670 | [133670-sword-of-destiny.json](./133670-sword-of-destiny.json) |
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
+| Sword of Destruction II: Kyouhen no Yakata | 237698 | [237698-sword-of-destruction-ii-kyouhen-no-yakata.json](./237698-sword-of-destruction-ii-kyouhen-no-yakata.json) |
 | Sword of Fargoal | 24452 | [24452-sword-of-fargoal.json](./24452-sword-of-fargoal.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Fortress the Onomuzim | 99469 | [99469-sword-of-fortress-the-onomuzim.json](./99469-sword-of-fortress-the-onomuzim.json) |
