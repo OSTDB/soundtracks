@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Level Survival | 150988 | [150988-50-level-survival.json](./150988-50-level-survival.json) |
+| 50 Loops | 174911 | [174911-50-loops.json](./174911-50-loops.json) |
 | 50 Minutes 'Til Impact | 369730 | [369730-50-minutes-til-impact.json](./369730-50-minutes-til-impact.json) |
 | 50 Mission Crush | 2414 | [2414-50-mission-crush.json](./2414-50-mission-crush.json) |
 | 50 Monsters | 259377 | [259377-50-monsters.json](./259377-50-monsters.json) |
