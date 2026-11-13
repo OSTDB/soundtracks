@@ -9180,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Di Gi Charat Fantasy | 109070 | [109070-di-gi-charat-fantasy.json](./109070-di-gi-charat-fantasy.json) |
 | Di Gi Charat Fantasy Excellent | 203830 | [203830-di-gi-charat-fantasy-excellent.json](./203830-di-gi-charat-fantasy-excellent.json) |
 | Di Gi Charat RPG | 270602 | [270602-di-gi-charat-rpg.json](./270602-di-gi-charat-rpg.json) |
+| Di-Da-Dobble | 186785 | [186785-di-da-dobble.json](./186785-di-da-dobble.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
 | Dì-Yīqiān Líng Èr Yè de Tónghuà | 188186 | [188186-di-yiqian-ling-er-ye-de-tonghua.json](./188186-di-yiqian-ling-er-ye-de-tonghua.json) |
@@ -9368,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of Lucie | 141337 | [141337-diary-of-lucie.json](./141337-diary-of-lucie.json) |
 | Diary of Lucie: Hammer Weapon Pack | 264506 | [264506-diary-of-lucie-hammer-weapon-pack.json](./264506-diary-of-lucie-hammer-weapon-pack.json) |
 | Diaspora | 139764 | [139764-diaspora.json](./139764-diaspora.json) |
+| Diaspora | 186790 | [186790-diaspora.json](./186790-diaspora.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
 | Diaspora: Shattered Armistice | 50396 | [50396-diaspora-shattered-armistice.json](./50396-diaspora-shattered-armistice.json) |
@@ -10567,6 +10569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Robot Infinity | 193842 | [193842-dino-robot-infinity.json](./193842-dino-robot-infinity.json) |
 | Dino Robot: Megalodon | 193796 | [193796-dino-robot-megalodon.json](./193796-dino-robot-megalodon.json) |
 | Dino Rocks | 241605 | [241605-dino-rocks.json](./241605-dino-rocks.json) |
+| Dino Run | 186211 | [186211-dino-run.json](./186211-dino-run.json) |
 | Dino Run | 260083 | [260083-dino-run.json](./260083-dino-run.json) |
 | Dino Run | 8309 | [8309-dino-run.json](./8309-dino-run.json) |
 | Dino Run 2 | 87853 | [87853-dino-run-2.json](./87853-dino-run-2.json) |
@@ -13813,6 +13816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Return to Wonderland | 407157 | [407157-don-t-return-to-wonderland.json](./407157-don-t-return-to-wonderland.json) |
 | Don't Rock The Boat | 294631 | [294631-dont-rock-the-boat.json](./294631-dont-rock-the-boat.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
+| Don't Save the Princess | 186200 | [186200-dont-save-the-princess.json](./186200-dont-save-the-princess.json) |
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
 | Don't Shit on My #!$@& Roof | 216308 | [216308-dont-shit-on-my-and-roof.json](./216308-dont-shit-on-my-and-roof.json) |
@@ -20252,6 +20256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
 | Dungeon4X | 398108 | [398108-dungeon4x.json](./398108-dungeon4x.json) |
+| Dungeonball | 186784 | [186784-dungeonball.json](./186784-dungeonball.json) |
 | Dungeonblade: Haunted Kingdom | 185836 | [185836-dungeonblade-haunted-kingdom.json](./185836-dungeonblade-haunted-kingdom.json) |
 | Dungeonborne | 125037 | [125037-dungeonborne.json](./125037-dungeonborne.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
