@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
 | Office Manager | 403785 | [403785-office-manager.json](./403785-office-manager.json) |
 | Office Masters | 127626 | [127626-office-masters.json](./127626-office-masters.json) |
+| Office Mayhem | 237104 | [237104-office-mayhem.json](./237104-office-mayhem.json) |
 | Office Nightmare | 302045 | [302045-office-nightmare.json](./302045-office-nightmare.json) |
 | Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office No. 41 | 186380 | [186380-office-no-41.json](./186380-office-no-41.json) |
@@ -5359,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Of Mind | 287731 | [287731-out-of-mind.json](./287731-out-of-mind.json) |
 | Out of Moves | 339548 | [339548-out-of-moves.json](./339548-out-of-moves.json) |
 | Out of Moves: Another Try | 359985 | [359985-out-of-moves-another-try.json](./359985-out-of-moves-another-try.json) |
+| Out of Nowhere | 236562 | [236562-out-of-nowhere.json](./236562-out-of-nowhere.json) |
 | Out of Oblivion | 151398 | [151398-out-of-oblivion.json](./151398-out-of-oblivion.json) |
 | Out of Orbit | 192652 | [192652-out-of-orbit.json](./192652-out-of-orbit.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
@@ -6422,6 +6424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozymandias: Deluxe Edition | 259524 | [259524-ozymandias-deluxe-edition.json](./259524-ozymandias-deluxe-edition.json) |
 | Ozymandias: Indonesia | 235555 | [235555-ozymandias-indonesia.json](./235555-ozymandias-indonesia.json) |
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
+| Ozymandias: Sahara Desert | 236053 | [236053-ozymandias-sahara-desert.json](./236053-ozymandias-sahara-desert.json) |
 | Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
 | Ozymandias: The World | 236446 | [236446-ozymandias-the-world.json](./236446-ozymandias-the-world.json) |
 | Ozzie's Funtime Garden | 208987 | [208987-ozzies-funtime-garden.json](./208987-ozzies-funtime-garden.json) |
