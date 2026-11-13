@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War On Christmas | 379836 | [379836-war-on-christmas.json](./379836-war-on-christmas.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on Folvos | 17724 | [17724-war-on-folvos.json](./17724-war-on-folvos.json) |
+| War on Mars | 206278 | [206278-war-on-mars.json](./206278-war-on-mars.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
 | War Operation: Full Contact | 220530 | [220530-war-operation-full-contact.json](./220530-war-operation-full-contact.json) |
