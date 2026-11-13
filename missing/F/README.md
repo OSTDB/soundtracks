@@ -11575,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune-499 | 87812 | [87812-fortune-499.json](./87812-fortune-499.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
+| Fortune: Rewritten | 219323 | [219323-fortune-rewritten.json](./219323-fortune-rewritten.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
 | Fortune's Tavern: Fantasy Tavern Simulation Remastered | 55292 | [55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json](./55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json) |
@@ -12133,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
 | Fraction Fever | 40880 | [40880-fraction-fever.json](./40880-fraction-fever.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
+| Fraction Reaction | 219324 | [219324-fraction-reaction.json](./219324-fraction-reaction.json) |
 | Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
@@ -12292,6 +12294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frail Hearts: Versicorae Domlion | 168467 | [168467-frail-hearts-versicorae-domlion.json](./168467-frail-hearts-versicorae-domlion.json) |
 | Frail Keep | 411376 | [411376-frail-keep.json](./411376-frail-keep.json) |
 | Frail Shells | 59638 | [59638-frail-shells.json](./59638-frail-shells.json) |
+| Fraim | 219325 | [219325-fraim.json](./219325-fraim.json) |
 | Frak | 257472 | [257472-frak.json](./257472-frak.json) |
 | Frak | 350484 | [350484-frak.json](./350484-frak.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
