@@ -19249,6 +19249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple The Adventurous Fruit | 386619 | [386619-purple-the-adventurous-fruit.json](./386619-purple-the-adventurous-fruit.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
+| Purple War: Extra Mission Pack 1 - Prelude of War | 239268 | [239268-purple-war-extra-mission-pack-1-prelude-of-war.json](./239268-purple-war-extra-mission-pack-1-prelude-of-war.json) |
 | Purple: Director's Cut | 306202 | [306202-purple-directors-cut.json](./306202-purple-directors-cut.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
 | Purplis Sandbox | 142623 | [142623-purplis-sandbox.json](./142623-purplis-sandbox.json) |
@@ -19492,6 +19493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
+| Putridum Horror | 239353 | [239353-putridum-horror.json](./239353-putridum-horror.json) |
 | Putrika 1st.Cut: The Reason She Must Perish | 291199 | [291199-putrika-1st-cut-the-reason-she-must-perish.json](./291199-putrika-1st-cut-the-reason-she-must-perish.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
 | Putt & Putter | 19505 | [19505-putt-and-putter.json](./19505-putt-and-putter.json) |
