@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarne | 145416 | [145416-yarne.json](./145416-yarne.json) |
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
+| Yarrow Valley | 225250 | [225250-yarrow-valley.json](./225250-yarrow-valley.json) |
 | Yarrr Royale | 422177 | [422177-yarrr-royale.json](./422177-yarrr-royale.json) |
 | Yars Rising | 298314 | [298314-yars-rising.json](./298314-yars-rising.json) |
 | Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
