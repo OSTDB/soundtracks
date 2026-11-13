@@ -7556,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Fang: Kuhga 2001 | 377549 | [377549-wolf-fang-kuhga-2001.json](./377549-wolf-fang-kuhga-2001.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
+| Wolf Girl With You: Full Moon Edition | 229417 | [229417-wolf-girl-with-you-full-moon-edition.json](./229417-wolf-girl-with-you-full-moon-edition.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf in the City | 250981 | [250981-wolf-in-the-city.json](./250981-wolf-in-the-city.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
