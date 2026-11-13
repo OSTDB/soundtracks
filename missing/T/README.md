@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporary Girl | 160206 | [160206-temporary-girl.json](./160206-temporary-girl.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
+| Temporian Tale | 224738 | [224738-temporian-tale.json](./224738-temporian-tale.json) |
 | Temporis Arts | 271870 | [271870-temporis-arts.json](./271870-temporis-arts.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
@@ -7929,6 +7930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clean Knife | 320076 | [320076-the-clean-knife.json](./320076-the-clean-knife.json) |
 | The Clean Up Clyde Collection | 111874 | [111874-the-clean-up-clyde-collection.json](./111874-the-clean-up-clyde-collection.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
+| The Cleaner | 224880 | [224880-the-cleaner.json](./224880-the-cleaner.json) |
 | The Cleaner | 399507 | [399507-the-cleaner.json](./399507-the-cleaner.json) |
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
@@ -9943,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
 | The Falconers: Moonlight | 29528 | [29528-the-falconers-moonlight.json](./29528-the-falconers-moonlight.json) |
 | The Falklands War 1982 | 64537 | [64537-the-falklands-war-1982.json](./64537-the-falklands-war-1982.json) |
+| The Fall | 224803 | [224803-the-fall.json](./224803-the-fall.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall and Rise of Sadcock-upon-Avon | 272057 | [272057-the-fall-and-rise-of-sadcock-upon-avon.json](./272057-the-fall-and-rise-of-sadcock-upon-avon.json) |
@@ -10878,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl Who Wasn't There | 318130 | [318130-the-girl-who-wasnt-there.json](./318130-the-girl-who-wasnt-there.json) |
 | The Girl With The Bow | 354515 | [354515-the-girl-with-the-bow.json](./354515-the-girl-with-the-bow.json) |
 | The Girl with the Golden Glance | 185404 | [185404-the-girl-with-the-golden-glance.json](./185404-the-girl-with-the-golden-glance.json) |
+| The Girl With the Gray Hair Awakens | 225244 | [225244-the-girl-with-the-gray-hair-awakens.json](./225244-the-girl-with-the-gray-hair-awakens.json) |
 | The Girl with the Guitar | 264169 | [264169-the-girl-with-the-guitar.json](./264169-the-girl-with-the-guitar.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
@@ -14200,6 +14204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Long Survival | 414793 | [414793-the-long-survival.json](./414793-the-long-survival.json) |
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
+| The Long Trek Back Home | 224878 | [224878-the-long-trek-back-home.json](./224878-the-long-trek-back-home.json) |
 | The Long Way | 249684 | [249684-the-long-way.json](./249684-the-long-way.json) |
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
 | The Long Winter: I Am Not an Animal | 390646 | [390646-the-long-winter-i-am-not-an-animal.json](./390646-the-long-winter-i-am-not-an-animal.json) |
@@ -18175,6 +18180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slappening | 177176 | [177176-the-slappening.json](./177176-the-slappening.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
 | The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
+| The Slaughter Spectrum | 224873 | [224873-the-slaughter-spectrum.json](./224873-the-slaughter-spectrum.json) |
 | The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
 | The Slaughter: Magdalene | 151272 | [151272-the-slaughter-magdalene.json](./151272-the-slaughter-magdalene.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
@@ -18437,6 +18443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Sphere | 407456 | [407456-the-sphere.json](./407456-the-sphere.json) |
 | The Sphere of Abyss | 126390 | [126390-the-sphere-of-abyss.json](./126390-the-sphere-of-abyss.json) |
+| The Spider | 224857 | [224857-the-spider.json](./224857-the-spider.json) |
 | The Spiderwick Chronicles | 5182 | [5182-the-spiderwick-chronicles.json](./5182-the-spiderwick-chronicles.json) |
 | The Spidy D | 205080 | [205080-the-spidy-d.json](./205080-the-spidy-d.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
@@ -28486,6 +28493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch the Dead | 20702 | [20702-touch-the-dead.json](./20702-touch-the-dead.json) |
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
+| Touch Theory | 225249 | [225249-touch-theory.json](./225249-touch-theory.json) |
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
 | Touch to Turn | 114031 | [114031-touch-to-turn.json](./114031-touch-to-turn.json) |
 | Touch Type Tale | 107986 | [107986-touch-type-tale.json](./107986-touch-type-tale.json) |
