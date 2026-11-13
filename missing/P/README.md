@@ -3134,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Cranker | 353788 | [353788-pastry-cranker.json](./353788-pastry-cranker.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Paradise | 58918 | [58918-pastry-paradise.json](./58918-pastry-paradise.json) |
+| Pastry Passion | 177069 | [177069-pastry-passion.json](./177069-pastry-passion.json) |
 | Pastry Pile Up | 396620 | [396620-pastry-pile-up.json](./396620-pastry-pile-up.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pastry Witches | 98150 | [98150-pastry-witches.json](./98150-pastry-witches.json) |
@@ -6983,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
 | Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
 | Pigglet in Mrs. Big Bad Werewolf | 211581 | [211581-pigglet-in-mrs-big-bad-werewolf.json](./211581-pigglet-in-mrs-big-bad-werewolf.json) |
+| Piggly | 177079 | [177079-piggly.json](./177079-piggly.json) |
 | Piggly Pagly Boom | 320072 | [320072-piggly-pagly-boom.json](./320072-piggly-pagly-boom.json) |
 | Piggy Bank | 41465 | [41465-piggy-bank.json](./41465-piggy-bank.json) |
 | Piggy Chase | 113536 | [113536-piggy-chase.json](./113536-piggy-chase.json) |
