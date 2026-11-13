@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus Irae | 270319 | [270319-tempus-irae.json](./270319-tempus-irae.json) |
 | Tempus Irae Redux | 416082 | [416082-tempus-irae-redux.json](./416082-tempus-irae-redux.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
+| Tempus Rail | 237710 | [237710-tempus-rail.json](./237710-tempus-rail.json) |
 | Tempus Triad | 309915 | [309915-tempus-triad.json](./309915-tempus-triad.json) |
 | Tempus Vitae | 404455 | [404455-tempus-vitae.json](./404455-tempus-vitae.json) |
 | Tempusia | 207559 | [207559-tempusia.json](./207559-tempusia.json) |
@@ -16576,7 +16577,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets the Movie: Five Memories of My Time With You - Limited Edition | 201033 | [201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json](./201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json) |
 | The Quintessential Quintuplets: Five Memories Spent With You | 201044 | [201044-the-quintessential-quintuplets-five-memories-spent-with-you.json](./201044-the-quintessential-quintuplets-five-memories-spent-with-you.json) |
 | The Quintessential Quintuplets: Five Promises Made With Her | 243630 | [243630-the-quintessential-quintuplets-five-promises-made-with-her.json](./243630-the-quintessential-quintuplets-five-promises-made-with-her.json) |
+| The Quintessential Quintuplets: Gotopazu Story | 237674 | [237674-the-quintessential-quintuplets-gotopazu-story.json](./237674-the-quintessential-quintuplets-gotopazu-story.json) |
 | The Quintessential Quintuplets: Gotopazu Story | 284393 | [284393-the-quintessential-quintuplets-gotopazu-story.json](./284393-the-quintessential-quintuplets-gotopazu-story.json) |
+| The Quintessential Quintuplets: Gotopazu Story - Ichika Nakano Set | 237676 | [237676-the-quintessential-quintuplets-gotopazu-story-ichika-nakano-set.json](./237676-the-quintessential-quintuplets-gotopazu-story-ichika-nakano-set.json) |
+| The Quintessential Quintuplets: Gotopazu Story - Itsuki Nakano Set | 237678 | [237678-the-quintessential-quintuplets-gotopazu-story-itsuki-nakano-set.json](./237678-the-quintessential-quintuplets-gotopazu-story-itsuki-nakano-set.json) |
+| The Quintessential Quintuplets: Gotopazu Story - Miku Nakano Set | 237677 | [237677-the-quintessential-quintuplets-gotopazu-story-miku-nakano-set.json](./237677-the-quintessential-quintuplets-gotopazu-story-miku-nakano-set.json) |
+| The Quintessential Quintuplets: Gotopazu Story - Nino Nakano Set | 237675 | [237675-the-quintessential-quintuplets-gotopazu-story-nino-nakano-set.json](./237675-the-quintessential-quintuplets-gotopazu-story-nino-nakano-set.json) |
+| The Quintessential Quintuplets: Gotopazu Story - Yotsuba Nakano Set | 237679 | [237679-the-quintessential-quintuplets-gotopazu-story-yotsuba-nakano-set.json](./237679-the-quintessential-quintuplets-gotopazu-story-yotsuba-nakano-set.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Quintessential Quintuplets: Memories of a Quintessential Summer | 301514 | [301514-the-quintessential-quintuplets-memories-of-a-quintessential-summer.json](./301514-the-quintessential-quintuplets-memories-of-a-quintessential-summer.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
@@ -22115,6 +22122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold RPG | 206985 | [206985-threshold-rpg.json](./206985-threshold-rpg.json) |
 | Threshold Sector | 305644 | [305644-threshold-sector.json](./305644-threshold-sector.json) |
 | Threshold Warden | 414794 | [414794-threshold-warden.json](./414794-threshold-warden.json) |
+| Thrice | 237697 | [237697-thrice.json](./237697-thrice.json) |
 | Thrice | 321323 | [321323-thrice.json](./321323-thrice.json) |
 | Thrice Cursed | 341987 | [341987-thrice-cursed.json](./341987-thrice-cursed.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
@@ -27629,6 +27637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Jump | 255584 | [255584-top-jump.json](./255584-top-jump.json) |
 | Top Jump | 259128 | [259128-top-jump.json](./259128-top-jump.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
+| Top Management Sannoudai Hen | 237691 | [237691-top-management-sannoudai-hen.json](./237691-top-management-sannoudai-hen.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
