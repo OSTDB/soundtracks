@@ -8084,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird | 107571 | [107571-word-bird.json](./107571-word-bird.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
+| Word Blitz | 227552 | [227552-word-blitz.json](./227552-word-blitz.json) |
 | Word Blitz | 371332 | [371332-word-blitz.json](./371332-word-blitz.json) |
 | Word Block | 63746 | [63746-word-block.json](./63746-word-block.json) |
 | Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
