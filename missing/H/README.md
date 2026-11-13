@@ -5093,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellsquad Rrrush! | 412078 | [412078-hellsquad-rrrush.json](./412078-hellsquad-rrrush.json) |
 | Hellstar | 182647 | [182647-hellstar.json](./182647-hellstar.json) |
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
+| Hellstrom Racer | 182963 | [182963-hellstrom-racer.json](./182963-hellstrom-racer.json) |
 | Hellstrom: Reign | 323493 | [323493-hellstrom-reign.json](./323493-hellstrom-reign.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Hellsweeper VR | 166324 | [166324-hellsweeper-vr.json](./166324-hellsweeper-vr.json) |
@@ -8487,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighScore Anomaly Shop | 292442 | [292442-highscore-anomaly-shop.json](./292442-highscore-anomaly-shop.json) |
 | HighScore Anomaly Underground | 296958 | [296958-highscore-anomaly-underground.json](./296958-highscore-anomaly-underground.json) |
 | Highscore Hunter Hodgepodge | 129412 | [129412-highscore-hunter-hodgepodge.json](./129412-highscore-hunter-hodgepodge.json) |
+| HighScore Killer | 182563 | [182563-highscore-killer.json](./182563-highscore-killer.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highspeed Etoile Paddock Stories | 338983 | [338983-highspeed-etoile-paddock-stories.json](./338983-highspeed-etoile-paddock-stories.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
@@ -9584,6 +9586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
 | Hold 'Em | 241668 | [241668-hold-em.json](./241668-hold-em.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
+| Hold A to Drift | 182951 | [182951-hold-a-to-drift.json](./182951-hold-a-to-drift.json) |
 | Hold Controller | 211904 | [211904-hold-controller.json](./211904-hold-controller.json) |
 | Hold Down Hoppip | 94457 | [94457-hold-down-hoppip.json](./94457-hold-down-hoppip.json) |
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
@@ -12674,6 +12677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
 | Hug Arena | 334444 | [334444-hug-arena.json](./334444-hug-arena.json) |
 | Hug Factory | 403440 | [403440-hug-factory.json](./403440-hug-factory.json) |
+| Hug me I'm cold | 182577 | [182577-hug-me-im-cold.json](./182577-hug-me-im-cold.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
 | Hug Survivor | 235533 | [235533-hug-survivor.json](./235533-hug-survivor.json) |
 | Hug Your Mama | 397020 | [397020-hug-your-mama.json](./397020-hug-your-mama.json) |
