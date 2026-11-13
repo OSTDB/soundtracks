@@ -5013,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
 | Terror House | 62798 | [62798-terror-house.json](./62798-terror-house.json) |
+| Terror in Christmas Town | 218622 | [218622-terror-in-christmas-town.json](./218622-terror-in-christmas-town.json) |
 | Terror In The Atomic Desert | 111806 | [111806-terror-in-the-atomic-desert.json](./111806-terror-in-the-atomic-desert.json) |
 | Terror In The Corn | 319649 | [319649-terror-in-the-corn.json](./319649-terror-in-the-corn.json) |
 | Terror in the Kitchen | 257897 | [257897-terror-in-the-kitchen.json](./257897-terror-in-the-kitchen.json) |
@@ -7246,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
 | The Bomb Split | 382701 | [382701-the-bomb-split.json](./382701-the-bomb-split.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
+| The Bombs Have Been Dropped, I am Listening to Steely Dan and Wearing Cheap Sunglasses. | 218610 | [218610-the-bombs-have-been-dropped-i-am-listening-to-steely-dan-and-wearing-cheap-sunglasses.json](./218610-the-bombs-have-been-dropped-i-am-listening-to-steely-dan-and-wearing-cheap-sunglasses.json) |
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
 | The Bone Crypt | 406235 | [406235-the-bone-crypt.json](./406235-the-bone-crypt.json) |
 | The Bone Maze | 267557 | [267557-the-bone-maze.json](./267557-the-bone-maze.json) |
@@ -8601,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
 | The Dark Cave | 286709 | [286709-the-dark-cave.json](./286709-the-dark-cave.json) |
 | The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
+| The Dark Conjunction | 218617 | [218617-the-dark-conjunction.json](./218617-the-dark-conjunction.json) |
 | The Dark Convergence | 171839 | [171839-the-dark-convergence.json](./171839-the-dark-convergence.json) |
 | The Dark Convergence II | 171840 | [171840-the-dark-convergence-ii.json](./171840-the-dark-convergence-ii.json) |
 | The Dark Cowboy | 269189 | [269189-the-dark-cowboy.json](./269189-the-dark-cowboy.json) |
@@ -27212,6 +27215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Slider | 262358 | [262358-tomb-slider.json](./262358-tomb-slider.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Sweeper | 163696 | [163696-tomb-sweeper.json](./163696-tomb-sweeper.json) |
+| Tomb Toad | 218604 | [218604-tomb-toad.json](./218604-tomb-toad.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomb Typing | 157850 | [157850-tomb-typing.json](./157850-tomb-typing.json) |
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
