@@ -4422,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tentacle | 53496 | [53496-red-tentacle.json](./53496-red-tentacle.json) |
 | Red Terror | 256208 | [256208-red-terror.json](./256208-red-terror.json) |
 | Red the Cook | 390770 | [390770-red-the-cook.json](./390770-red-the-cook.json) |
+| Red Thread | 232214 | [232214-red-thread.json](./232214-red-thread.json) |
 | Red Thunder | 69751 | [69751-red-thunder.json](./69751-red-thunder.json) |
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Miner: Zombie | 65372 | [65372-red-tie-miner-zombie.json](./65372-red-tie-miner-zombie.json) |
@@ -11781,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Cleaning | 264988 | [264988-room-cleaning.json](./264988-room-cleaning.json) |
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Cleaning Simulator 2014 | 178937 | [178937-room-cleaning-simulator-2014.json](./178937-room-cleaning-simulator-2014.json) |
+| Room Cliker | 232228 | [232228-room-cliker.json](./232228-room-cliker.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Dot Exe | 369804 | [369804-room-dot-exe.json](./369804-room-dot-exe.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
@@ -11940,6 +11942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
 | Rootown | 244626 | [244626-rootown.json](./244626-rootown.json) |
 | Roots | 180891 | [180891-roots.json](./180891-roots.json) |
+| Roots | 232735 | [232735-roots.json](./232735-roots.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots | 409376 | [409376-roots.json](./409376-roots.json) |
 | Roots and Recipes: Farm and Restaurant Simulator | 326368 | [326368-roots-and-recipes-farm-and-restaurant-simulator.json](./326368-roots-and-recipes-farm-and-restaurant-simulator.json) |
@@ -13302,6 +13305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Ninja Run 2 | 394144 | [394144-run-ninja-run-2.json](./394144-run-ninja-run-2.json) |
 | Run of Mydan | 38336 | [38336-run-of-mydan.json](./38336-run-of-mydan.json) |
 | Run On Home | 242333 | [242333-run-on-home.json](./242333-run-on-home.json) |
+| Run on the Beat | 232598 | [232598-run-on-the-beat.json](./232598-run-on-the-beat.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Die | 260998 | [260998-run-or-die.json](./260998-run-or-die.json) |
@@ -13382,6 +13386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Elric! | 379319 | [379319-run-elric.json](./379319-run-elric.json) |
 | Run, Goo, Run | 37544 | [37544-run-goo-run.json](./37544-run-goo-run.json) |
+| Run, Gun, Key, Fun | 232224 | [232224-run-gun-key-fun.json](./232224-run-gun-key-fun.json) |
 | Run, Jesus Run! | 242900 | [242900-run-jesus-run.json](./242900-run-jesus-run.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, my little pixel | 74215 | [74215-run-my-little-pixel.json](./74215-run-my-little-pixel.json) |
