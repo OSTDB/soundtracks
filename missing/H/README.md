@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hollow | 63437 | [63437-haunted-hollow.json](./63437-haunted-hollow.json) |
 | Haunted Home AR | 82294 | [82294-haunted-home-ar.json](./82294-haunted-home-ar.json) |
 | Haunted Horror Stories: Gone With The Wind | 249544 | [249544-haunted-horror-stories-gone-with-the-wind.json](./249544-haunted-horror-stories-gone-with-the-wind.json) |
+| Haunted Hospital Asylum Escape: Hidden Objects | 241590 | [241590-haunted-hospital-asylum-escape-hidden-objects.json](./241590-haunted-hospital-asylum-escape-hidden-objects.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
 | Haunted Hotel 19: Lost Time | 140183 | [140183-haunted-hotel-19-lost-time.json](./140183-haunted-hotel-19-lost-time.json) |
@@ -3543,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hear No Evil | 114727 | [114727-hear-no-evil.json](./114727-hear-no-evil.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Hear The Bell Toll | 357719 | [357719-hear-the-bell-toll.json](./357719-hear-the-bell-toll.json) |
+| Hear the Picture | 241589 | [241589-hear-the-picture.json](./241589-hear-the-picture.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Heardle | 193526 | [193526-heardle.json](./193526-heardle.json) |
 | Hearing | 94131 | [94131-hearing.json](./94131-hearing.json) |
@@ -9375,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
 | Hockey Camp - Goaltender | 114930 | [114930-hockey-camp-goaltender.json](./114930-hockey-camp-goaltender.json) |
 | Hockey Classic 16 | 175252 | [175252-hockey-classic-16.json](./175252-hockey-classic-16.json) |
+| Hockey Clicker | 241587 | [241587-hockey-clicker.json](./241587-hockey-clicker.json) |
 | Hockey Club | 361733 | [361733-hockey-club.json](./361733-hockey-club.json) |
 | Hockey de mesa | 230654 | [230654-hockey-de-mesa.json](./230654-hockey-de-mesa.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
@@ -9490,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoky | 314692 | [314692-hoky.json](./314692-hoky.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
+| Hold 'Em | 241668 | [241668-hold-em.json](./241668-hold-em.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
 | Hold Controller | 211904 | [211904-hold-controller.json](./211904-hold-controller.json) |
 | Hold Down Hoppip | 94457 | [94457-hold-down-hoppip.json](./94457-hold-down-hoppip.json) |
