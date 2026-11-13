@@ -29570,7 +29570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Skimming | 104378 | [104378-stone-skimming.json](./104378-stone-skimming.json) |
 | Stone Smash | 64787 | [64787-stone-smash.json](./64787-stone-smash.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
-| Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
 | Stone Story: Ascension | 392328 | [392328-stone-story-ascension.json](./392328-stone-story-ascension.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
 | Stone Turmoil | 315403 | [315403-stone-turmoil.json](./315403-stone-turmoil.json) |
