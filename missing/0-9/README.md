@@ -3777,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Ball Quick Fire Pool | 323631 | [323631-9-ball-quick-fire-pool.json](./323631-9-ball-quick-fire-pool.json) |
 | 9 Ball Shootout | 39846 | [39846-9-ball-shootout.json](./39846-9-ball-shootout.json) |
 | 9 Balls | 96944 | [96944-9-balls.json](./96944-9-balls.json) |
+| 9 Black Boxes | 179163 | [179163-9-black-boxes.json](./179163-9-black-boxes.json) |
 | 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Classic Card & Board Games: No. 2 | 15585 | [15585-9-classic-card-and-board-games-no-2.json](./15585-9-classic-card-and-board-games-no-2.json) |
