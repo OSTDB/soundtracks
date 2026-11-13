@@ -13852,6 +13852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Moonrise Regalia | 413105 | [413105-the-legend-of-zelda-moonrise-regalia.json](./413105-the-legend-of-zelda-moonrise-regalia.json) |
 | The Legend of Zelda: Mystery of Solarus DX | 243615 | [243615-the-legend-of-zelda-mystery-of-solarus-dx.json](./243615-the-legend-of-zelda-mystery-of-solarus-dx.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
+| The Legend of Zelda: Mystical Seed of Wisdom | 208493 | [208493-the-legend-of-zelda-mystical-seed-of-wisdom.json](./208493-the-legend-of-zelda-mystical-seed-of-wisdom.json) |
 | The Legend of Zelda: Navi Trackers | 91680 | [91680-the-legend-of-zelda-navi-trackers.json](./91680-the-legend-of-zelda-navi-trackers.json) |
 | The Legend of Zelda: Navi’s Quest | 330579 | [330579-the-legend-of-zelda-navi-s-quest.json](./330579-the-legend-of-zelda-navi-s-quest.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
@@ -15134,6 +15135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster in the Woods | 178870 | [178870-the-monster-in-the-woods.json](./178870-the-monster-in-the-woods.json) |
+| The Monster Mole | 208537 | [208537-the-monster-mole.json](./208537-the-monster-mole.json) |
 | The Monster of Memory: Destiny | 150765 | [150765-the-monster-of-memory-destiny.json](./150765-the-monster-of-memory-destiny.json) |
 | The Monster Under Your Skin | 207563 | [207563-the-monster-under-your-skin.json](./207563-the-monster-under-your-skin.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
@@ -32613,6 +32615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
+| Trash Bomber | 208541 | [208541-trash-bomber.json](./208541-trash-bomber.json) |
 | Trash Bunny House | 248983 | [248983-trash-bunny-house.json](./248983-trash-bunny-house.json) |
 | Trash Buster Simulator | 326320 | [326320-trash-buster-simulator.json](./326320-trash-buster-simulator.json) |
 | Trash can Army | 278243 | [278243-trash-can-army.json](./278243-trash-can-army.json) |
