@@ -3571,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OP: Voyage Chronicles | 199960 | [199960-op-voyage-chronicles.json](./199960-op-voyage-chronicles.json) |
 | OP. After-Mass N1 | 216967 | [216967-op-after-mass-n1.json](./216967-op-after-mass-n1.json) |
 | OP.1953 | 263339 | [263339-op-1953.json](./263339-op-1953.json) |
+| Opa: Definitive Edition | 171124 | [171124-opa-definitive-edition.json](./171124-opa-definitive-edition.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
 | Opai Puzzle | 106431 | [106431-opai-puzzle.json](./106431-opai-puzzle.json) |
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
