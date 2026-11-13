@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
 | Rapid Rocket | 232886 | [232886-rapid-rocket.json](./232886-rapid-rocket.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
+| Rapid Roller | 242765 | [242765-rapid-roller.json](./242765-rapid-roller.json) |
 | Rapid Soccer | 285321 | [285321-rapid-soccer.json](./285321-rapid-soccer.json) |
 | Rapid Squirrel | 32632 | [32632-rapid-squirrel.json](./32632-rapid-squirrel.json) |
 | Rapid Stream | 246363 | [246363-rapid-stream.json](./246363-rapid-stream.json) |
@@ -4771,6 +4772,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Refinery Complex | 259398 | [259398-refinery-complex.json](./259398-refinery-complex.json) |
 | Refixion | 242739 | [242739-refixion.json](./242739-refixion.json) |
+| Refixion II: Museum or Hospital | 242740 | [242740-refixion-ii-museum-or-hospital.json](./242740-refixion-ii-museum-or-hospital.json) |
+| Refixion III: The Reindeer Story | 242741 | [242741-refixion-iii-the-reindeer-story.json](./242741-refixion-iii-the-reindeer-story.json) |
 | Reflec Beat Colette | 60820 | [60820-reflec-beat-colette.json](./60820-reflec-beat-colette.json) |
 | Reflec Beat Groovin'!! | 60819 | [60819-reflec-beat-groovin.json](./60819-reflec-beat-groovin.json) |
 | Reflec Beat Groovin'!! Upper | 395944 | [395944-reflec-beat-groovin-upper.json](./395944-reflec-beat-groovin-upper.json) |
