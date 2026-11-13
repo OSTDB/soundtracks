@@ -20532,6 +20532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. The Hamster's Math Class | 60918 | [60918-mr-the-hamsters-math-class.json](./60918-mr-the-hamsters-math-class.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. TNT telco | 39720 | [39720-mr-tnt-telco.json](./39720-mr-tnt-telco.json) |
+| Mr. Traffic | 200092 | [200092-mr-traffic.json](./200092-mr-traffic.json) |
 | Mr. Transporter - Night Driver | 101647 | [101647-mr-transporter-night-driver.json](./101647-mr-transporter-night-driver.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Travel | 60728 | [60728-mr-travel.json](./60728-mr-travel.json) |
@@ -20857,6 +20858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukou no Yume | 329905 | [329905-mukou-no-yume.json](./329905-mukou-no-yume.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Muksha Space | 306248 | [306248-muksha-space.json](./306248-muksha-space.json) |
+| Muksi | 200073 | [200073-muksi.json](./200073-muksi.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mukuro no Rasen | 389820 | [389820-mukuro-no-rasen.json](./389820-mukuro-no-rasen.json) |
