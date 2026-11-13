@@ -1018,7 +1018,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Paladog! | 198003 | [198003-paladog.json](./198003-paladog.json) |
+| Palais de Carnaval | 221453 | [221453-palais-de-carnaval.json](./221453-palais-de-carnaval.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
+| Palais de Royale | 221454 | [221454-palais-de-royale.json](./221454-palais-de-royale.json) |
 | Palallel | 161460 | [161460-palallel.json](./161460-palallel.json) |
 | Palamedes | 344064 | [344064-palamedes.json](./344064-palamedes.json) |
 | Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
@@ -1951,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaperMan | 80081 | [80081-paperman.json](./80081-paperman.json) |
 | Paperman: Adventure Delivered | 201528 | [201528-paperman-adventure-delivered.json](./201528-paperman-adventure-delivered.json) |
 | PaperPlane | 203634 | [203634-paperplane.json](./203634-paperplane.json) |
+| PaperPlane | 221867 | [221867-paperplane.json](./221867-paperplane.json) |
 | PaperPlane Minigames | 375681 | [375681-paperplane-minigames.json](./375681-paperplane-minigames.json) |
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
@@ -17574,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
 | Project Surfing | 291816 | [291816-project-surfing.json](./291816-project-surfing.json) |
 | Project Survivor | 225977 | [225977-project-survivor.json](./225977-project-survivor.json) |
+| Project Sushi | 221863 | [221863-project-sushi.json](./221863-project-sushi.json) |
 | Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
 | Project Sylpheed | 7136 | [7136-project-sylpheed.json](./7136-project-sylpheed.json) |
 | Project Syria | 32344 | [32344-project-syria.json](./32344-project-syria.json) |
