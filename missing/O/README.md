@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnia | 160099 | [160099-omnia.json](./160099-omnia.json) |
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | Omniblast | 171745 | [171745-omniblast.json](./171745-omniblast.json) |
+| Omnibullet | 223184 | [223184-omnibullet.json](./223184-omnibullet.json) |
 | Omnibus | 19871 | [19871-omnibus.json](./19871-omnibus.json) |
 | Omnibus Princess | 299644 | [299644-omnibus-princess.json](./299644-omnibus-princess.json) |
 | OmniBus: Game of the Year Edition | 51862 | [51862-omnibus-game-of-the-year-edition.json](./51862-omnibus-game-of-the-year-edition.json) |
