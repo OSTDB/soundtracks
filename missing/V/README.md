@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
 | Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
 | Virtual Frenzy: Nexus Corps | 349970 | [349970-virtual-frenzy-nexus-corps.json](./349970-virtual-frenzy-nexus-corps.json) |
+| Virtual Girl | 185058 | [185058-virtual-girl.json](./185058-virtual-girl.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Girl: Sex Simulator VR | 326327 | [326327-virtual-girl-sex-simulator-vr.json](./326327-virtual-girl-sex-simulator-vr.json) |
 | Virtual Girlfriend | 389786 | [389786-virtual-girlfriend.json](./389786-virtual-girlfriend.json) |
