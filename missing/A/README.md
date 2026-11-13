@@ -5525,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agni: Village of Calamity | 316461 | [316461-agni-village-of-calamity.json](./316461-agni-village-of-calamity.json) |
 | Agnition: Ignis | 316460 | [316460-agnition-ignis.json](./316460-agnition-ignis.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
+| Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agnry Faic 2 | 407670 | [407670-agnry-faic-2.json](./407670-agnry-faic-2.json) |
@@ -12025,6 +12026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World/Flashback | 130804 | [130804-another-world-flashback.json](./130804-another-world-flashback.json) |
 | Another Zero | 313889 | [313889-another-zero.json](./313889-another-zero.json) |
 | Another Zombie Shooter | 403288 | [403288-another-zombie-shooter.json](./403288-another-zombie-shooter.json) |
+| Another_World | 224180 | [224180-another-world.json](./224180-another-world.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anothereal | 303031 | [303031-anothereal.json](./303031-anothereal.json) |
 | AnotherEidos Of Dragon Vein R | 356002 | [356002-anothereidos-of-dragon-vein-r.json](./356002-anothereidos-of-dragon-vein-r.json) |
