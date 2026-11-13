@@ -4410,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Imouto ga Konnani Kawaii Wake ga Nai. HappyenD | 62803 | [62803-ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-happyend.json](./62803-ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-happyend.json) |
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Kanojo ga Gachi Hentai Sugiru | 97480 | [97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json](./97480-ore-no-kanojo-ga-gachi-hentai-sugiru.json) |
+| Ore no Ryomi 2 | 240535 | [240535-ore-no-ryomi-2.json](./240535-ore-no-ryomi-2.json) |
 | Ore no Ryouri | 44880 | [44880-ore-no-ryouri.json](./44880-ore-no-ryouri.json) |
 | Ore no Sentai Oranger | 290383 | [290383-ore-no-sentai-oranger.json](./290383-ore-no-sentai-oranger.json) |
 | Ore no Shikabane wo Koete Yuke | 305798 | [305798-ore-no-shikabane-wo-koete-yuke.json](./305798-ore-no-shikabane-wo-koete-yuke.json) |
