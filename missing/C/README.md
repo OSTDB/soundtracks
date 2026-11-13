@@ -5296,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
+| Catty Shack | 180862 | [180862-catty-shack.json](./180862-catty-shack.json) |
 | Catventure | 139580 | [139580-catventure.json](./139580-catventure.json) |
 | Catventure: The Curse of the Dark Tower | 391981 | [391981-catventure-the-curse-of-the-dark-tower.json](./391981-catventure-the-curse-of-the-dark-tower.json) |
 | CatWalk | 231688 | [231688-catwalk.json](./231688-catwalk.json) |
