@@ -10427,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion | 90109 | [90109-luigis-mansion.json](./90109-luigis-mansion.json) |
 | Luigi's Mansion 2 HD | 254328 | [254328-luigis-mansion-2-hd.json](./254328-luigis-mansion-2-hd.json) |
+| Luigi's Mansion 2D: Eternal Night | 183480 | [183480-luigis-mansion-2d-eternal-night.json](./183480-luigis-mansion-2d-eternal-night.json) |
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 1 | 127549 | [127549-luigis-mansion-3-multiplayer-pack-part-1.json](./127549-luigis-mansion-3-multiplayer-pack-part-1.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
