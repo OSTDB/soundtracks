@@ -5103,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light and Embers | 168660 | [168660-light-and-embers.json](./168660-light-and-embers.json) |
+| Light and Night | 199955 | [199955-light-and-night.json](./199955-light-and-night.json) |
 | Light and Shadow | 335739 | [335739-light-and-shadow.json](./335739-light-and-shadow.json) |
 | Light and Shadow: Doppelganger | 235540 | [235540-light-and-shadow-doppelganger.json](./235540-light-and-shadow-doppelganger.json) |
 | Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
