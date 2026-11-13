@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiao Wo Zhu Zao Shi | 126204 | [126204-jiao-wo-zhu-zao-shi.json](./126204-jiao-wo-zhu-zao-shi.json) |
 | Jiaozi & Shopkeeper | 383578 | [383578-jiaozi-and-shopkeeper.json](./383578-jiaozi-and-shopkeeper.json) |
 | Jiayou MemoVirus | 134978 | [134978-jiayou-memovirus.json](./134978-jiayou-memovirus.json) |
+| Jibaku Kanojo: Kanojo wa Kakurete Mimodaeru | 194603 | [194603-jibaku-kanojo-kanojo-wa-kakurete-mimodaeru.json](./194603-jibaku-kanojo-kanojo-wa-kakurete-mimodaeru.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jibbers | 389170 | [389170-jibbers.json](./389170-jibbers.json) |
 | Jibbin | 2452 | [2452-jibbin.json](./2452-jibbin.json) |
