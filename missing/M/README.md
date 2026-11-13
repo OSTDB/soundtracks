@@ -9533,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memasiki Is My 2007th | 363076 | [363076-memasiki-is-my-2007th.json](./363076-memasiki-is-my-2007th.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membal | 287163 | [287163-membal.json](./287163-membal.json) |
+| Member of War | 176533 | [176533-member-of-war.json](./176533-member-of-war.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
 | Membrane | 74285 | [74285-membrane.json](./74285-membrane.json) |
 | Membrillo Hid My Socks | 402527 | [402527-membrillo-hid-my-socks.json](./402527-membrillo-hid-my-socks.json) |
@@ -14904,6 +14905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrors of Deception: The Silver Peaks Secret | 386201 | [386201-mirrors-of-deception-the-silver-peaks-secret.json](./386201-mirrors-of-deception-the-silver-peaks-secret.json) |
 | Mirrors of Deception: The Silver Peaks Secret - Collector's Edition | 420635 | [420635-mirrors-of-deception-the-silver-peaks-secret-collectors-edition.json](./420635-mirrors-of-deception-the-silver-peaks-secret-collectors-edition.json) |
 | Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
+| Mirrors of Grimaldi | 176558 | [176558-mirrors-of-grimaldi.json](./176558-mirrors-of-grimaldi.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
@@ -17176,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Business | 12685 | [12685-monster-business.json](./12685-monster-business.json) |
 | Monster Buster Club | 84602 | [84602-monster-buster-club.json](./84602-monster-buster-club.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
+| Monster Café | 176549 | [176549-monster-cafe.json](./176549-monster-cafe.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
 | Monster Capture King | 127451 | [127451-monster-capture-king.json](./127451-monster-capture-king.json) |
