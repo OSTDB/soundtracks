@@ -780,7 +780,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween Filled With Cats | 392558 | [392558-halloween-filled-with-cats.json](./392558-halloween-filled-with-cats.json) |
-| Halloween Forever | 25361 | [25361-halloween-forever.json](./25361-halloween-forever.json) |
 | Halloween Games for Toddlers and Babies | 271518 | [271518-halloween-games-for-toddlers-and-babies.json](./271518-halloween-games-for-toddlers-and-babies.json) |
 | Halloween Games for Toddlers and Kids | 266987 | [266987-halloween-games-for-toddlers-and-kids.json](./266987-halloween-games-for-toddlers-and-kids.json) |
 | Halloween Ghost Grabbers | 379001 | [379001-halloween-ghost-grabbers.json](./379001-halloween-ghost-grabbers.json) |
