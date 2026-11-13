@@ -5144,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death tree | 291735 | [291735-death-tree.json](./291735-death-tree.json) |
 | Death Trial | 357670 | [357670-death-trial.json](./357670-death-trial.json) |
 | Death Trials | 171224 | [171224-death-trials.json](./171224-death-trials.json) |
+| Death Trick: Double Blind | 236579 | [236579-death-trick-double-blind.json](./236579-death-trick-double-blind.json) |
 | Death Trips | 124611 | [124611-death-trips.json](./124611-death-trips.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel | 257829 | [257829-death-under-tuscan-skies-a-dana-knightstone-novel.json](./257829-death-under-tuscan-skies-a-dana-knightstone-novel.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel - Collector's Edition | 257830 | [257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json](./257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathly Stillness | 166619 | [166619-deathly-stillness.json](./166619-deathly-stillness.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | Deathly Survival | 74509 | [74509-deathly-survival.json](./74509-deathly-survival.json) |
+| Deathmans Island | 236050 | [236050-deathmans-island.json](./236050-deathmans-island.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
 | Deathmatch Classics Vol. 1 | 322453 | [322453-deathmatch-classics-vol-1.json](./322453-deathmatch-classics-vol-1.json) |
