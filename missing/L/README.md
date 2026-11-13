@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
+| Letina's Odyssey | 211881 | [211881-letinas-odyssey.json](./211881-letinas-odyssey.json) |
 | Letiste | 273192 | [273192-letiste.json](./273192-letiste.json) |
 | LetMeOut | 275991 | [275991-letmeout.json](./275991-letmeout.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lich Lords | 407890 | [407890-lich-lords.json](./407890-lich-lords.json) |
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
+| Lich Queen's Curse | 211883 | [211883-lich-queens-curse.json](./211883-lich-queens-curse.json) |
 | Lich's Dungeon | 295604 | [295604-lichs-dungeon.json](./295604-lichs-dungeon.json) |
 | Lichbound | 258666 | [258666-lichbound.json](./258666-lichbound.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
@@ -7941,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Since The Eschaton | 319072 | [319072-long-since-the-eschaton.json](./319072-long-since-the-eschaton.json) |
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
+| Long Starlight | 211830 | [211830-long-starlight.json](./211830-long-starlight.json) |
 | Long Steel | 235537 | [235537-long-steel.json](./235537-long-steel.json) |
 | Long Story Short | 264750 | [264750-long-story-short.json](./264750-long-story-short.json) |
 | Long Tail | 189238 | [189238-long-tail.json](./189238-long-tail.json) |
