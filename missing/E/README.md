@@ -6656,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dreamers Rising | 236554 | [236554-eternal-dreamers-rising.json](./236554-eternal-dreamers-rising.json) |
+| Eternal Dreamers: Anna, the Blood Driver | 172251 | [172251-eternal-dreamers-anna-the-blood-driver.json](./172251-eternal-dreamers-anna-the-blood-driver.json) |
 | Eternal Dreamers: ShirA.I., the Newscaster | 195305 | [195305-eternal-dreamers-shira-i-the-newscaster.json](./195305-eternal-dreamers-shira-i-the-newscaster.json) |
 | Eternal Dreamers: Sylfie, the Electric | 193242 | [193242-eternal-dreamers-sylfie-the-electric.json](./193242-eternal-dreamers-sylfie-the-electric.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
