@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
 | Battle of Vicksburg | 100829 | [100829-battle-of-vicksburg.json](./100829-battle-of-vicksburg.json) |
+| Battle of Vukovar: Rain of Steel | 233671 | [233671-battle-of-vukovar-rain-of-steel.json](./233671-battle-of-vukovar-rain-of-steel.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle Of Witches | 331075 | [331075-battle-of-witches.json](./331075-battle-of-witches.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
@@ -4881,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSphere | 71125 | [71125-battlesphere.json](./71125-battlesphere.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
+| BattleSquared | 233255 | [233255-battlesquared.json](./233255-battlesquared.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
 | BattleStar | 46705 | [46705-battlestar.json](./46705-battlestar.json) |
 | Battlestar Galactica | 5744 | [5744-battlestar-galactica.json](./5744-battlestar-galactica.json) |
@@ -9755,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Emperor | 223319 | [223319-black-emperor.json](./223319-black-emperor.json) |
 | Black Equation | 398296 | [398296-black-equation.json](./398296-black-equation.json) |
+| Black Eye | 233262 | [233262-black-eye.json](./233262-black-eye.json) |
 | Black Eye Spin | 233726 | [233726-black-eye-spin.json](./233726-black-eye-spin.json) |
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
