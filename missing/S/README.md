@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
+| Sakura Succubus 6 | 199534 | [199534-sakura-succubus-6.json](./199534-sakura-succubus-6.json) |
 | Sakura Succubus 7 | 238671 | [238671-sakura-succubus-7.json](./238671-sakura-succubus-7.json) |
 | Sakura Succubus 7 | 289180 | [289180-sakura-succubus-7.json](./289180-sakura-succubus-7.json) |
 | Sakura Succubus 8 | 279520 | [279520-sakura-succubus-8.json](./279520-sakura-succubus-8.json) |
@@ -3333,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Rumble: Neru Musume ha Sodatsu | 72583 | [72583-school-rumble-neru-musume-ha-sodatsu.json](./72583-school-rumble-neru-musume-ha-sodatsu.json) |
 | School Simulator | 55721 | [55721-school-simulator.json](./55721-school-simulator.json) |
 | School Simulator RPG | 195387 | [195387-school-simulator-rpg.json](./195387-school-simulator-rpg.json) |
+| School Sweets Discovery: Granulated Sugar Edition | 199546 | [199546-school-sweets-discovery-granulated-sugar-edition.json](./199546-school-sweets-discovery-granulated-sugar-edition.json) |
 | School Tales | 388496 | [388496-school-tales.json](./388496-school-tales.json) |
 | School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
@@ -22685,6 +22687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Spawn: The Eternal | 45208 | [45208-spawn-the-eternal.json](./45208-spawn-the-eternal.json) |
 | Spawn: The Ultimate | 107626 | [107626-spawn-the-ultimate.json](./107626-spawn-the-ultimate.json) |
+| Spe:x | 199524 | [199524-spe-x.json](./199524-spe-x.json) |
 | Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
 | Speak of my sin | 336648 | [336648-speak-of-my-sin.json](./336648-speak-of-my-sin.json) |
@@ -25736,6 +25739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquirrelWarz | 259694 | [259694-squirrelwarz.json](./259694-squirrelwarz.json) |
 | Squirt's Adventure | 16838 | [16838-squirts-adventure.json](./16838-squirts-adventure.json) |
 | Squish | 145221 | [145221-squish.json](./145221-squish.json) |
+| Squish | 199542 | [199542-squish.json](./199542-squish.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
 | Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
@@ -35784,6 +35788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
 | Super Ricko’s Islands | 324341 | [324341-super-ricko-s-islands.json](./324341-super-ricko-s-islands.json) |
 | Super Ricko's Odyssey | 333133 | [333133-super-rickos-odyssey.json](./333133-super-rickos-odyssey.json) |
+| Super Ride Grandpa | 199530 | [199530-super-ride-grandpa.json](./199530-super-ride-grandpa.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super RMN All-Stars | 419753 | [419753-super-rmn-all-stars.json](./419753-super-rmn-all-stars.json) |
 | Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
@@ -37024,6 +37029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova: Galactic Wars | 347063 | [347063-supernova-galactic-wars.json](./347063-supernova-galactic-wars.json) |
 | SuperOffice | 216904 | [216904-superoffice.json](./216904-superoffice.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
+| Superola: Champion Edition | 199543 | [199543-superola-champion-edition.json](./199543-superola-champion-edition.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
 | SuperPacker | 411995 | [411995-superpacker.json](./411995-superpacker.json) |
 | Superpanda | 186549 | [186549-superpanda.json](./186549-superpanda.json) |
