@@ -10608,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 3 | 237878 | [237878-groove-coaster-wai-wai-party-vocaloid-pack-3.json](./237878-groove-coaster-wai-wai-party-vocaloid-pack-3.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 4 | 237879 | [237879-groove-coaster-wai-wai-party-vocaloid-pack-4.json](./237879-groove-coaster-wai-wai-party-vocaloid-pack-4.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 5 | 237880 | [237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json](./237880-groove-coaster-wai-wai-party-vocaloid-pack-5.json) |
+| Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 8 | 238710 | [238710-groove-coaster-wai-wai-party-vocaloid-pack-8.json](./238710-groove-coaster-wai-wai-party-vocaloid-pack-8.json) |
 | Groove Coaster: Wai Wai Party!!!! - Vocaloid Pack 9 | 283180 | [283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json](./283180-groove-coaster-wai-wai-party-vocaloid-pack-9.json) |
 | Groove Coaster: Wai Wai Party!!!! - Wacca + Hardcore Tano*c Pack | 237881 | [237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json](./237881-groove-coaster-wai-wai-party-wacca-hardcore-tano-c-pack.json) |
 | Groove Coaster: Wai Wai Party!!!!: Hololive Pack 2 | 308837 | [308837-groove-coaster-wai-wai-party-hololive-pack-2.json](./308837-groove-coaster-wai-wai-party-hololive-pack-2.json) |
