@@ -3919,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearsome Five | 177217 | [177217-fearsome-five.json](./177217-fearsome-five.json) |
 | Fearsome Shadows Bundle | 125135 | [125135-fearsome-shadows-bundle.json](./125135-fearsome-shadows-bundle.json) |
 | Fearstruck | 405854 | [405854-fearstruck.json](./405854-fearstruck.json) |
+| Feartress | 207419 | [207419-feartress.json](./207419-feartress.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Fearz! | 242757 | [242757-fearz.json](./242757-fearz.json) |
