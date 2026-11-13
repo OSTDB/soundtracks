@@ -6496,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom II | 13661 | [13661-hero-of-the-kingdom-ii.json](./13661-hero-of-the-kingdom-ii.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
 | Hero of the Kingdom: The Lost Tales 1 | 132174 | [132174-hero-of-the-kingdom-the-lost-tales-1.json](./132174-hero-of-the-kingdom-the-lost-tales-1.json) |
+| Hero of the Kingdom: The Lost Tales 2 | 183641 | [183641-hero-of-the-kingdom-the-lost-tales-2.json](./183641-hero-of-the-kingdom-the-lost-tales-2.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero of the Obelisk | 23551 | [23551-hero-of-the-obelisk.json](./23551-hero-of-the-obelisk.json) |
 | Hero of War | 203614 | [203614-hero-of-war.json](./203614-hero-of-war.json) |
@@ -7483,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Ten Chara Bom | 64335 | [64335-hi-ten-chara-bom.json](./64335-hi-ten-chara-bom.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hi, How Are You | 251426 | [251426-hi-how-are-you.json](./251426-hi-how-are-you.json) |
+| HI, Robot | 184008 | [184008-hi-robot.json](./184008-hi-robot.json) |
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
 | Hi! These Are Your Eyeballs | 319049 | [319049-hi-these-are-your-eyeballs.json](./319049-hi-these-are-your-eyeballs.json) |
 | Hiarcs Chess for iPad | 103135 | [103135-hiarcs-chess-for-ipad.json](./103135-hiarcs-chess-for-ipad.json) |
@@ -9413,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
 | Hoarder's Cloud | 182585 | [182585-hoarders-cloud.json](./182585-hoarders-cloud.json) |
+| Hoarder's Horrible House of Stuff | 185059 | [185059-hoarders-horrible-house-of-stuff.json](./185059-hoarders-horrible-house-of-stuff.json) |
 | Hoarding Simulator | 126367 | [126367-hoarding-simulator.json](./126367-hoarding-simulator.json) |
 | Hoarding Simulator 2.0 | 329443 | [329443-hoarding-simulator-2-0.json](./329443-hoarding-simulator-2-0.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
@@ -10387,6 +10390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Grove | 313030 | [313030-honey-grove.json](./313030-honey-grove.json) |
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
+| Honey Home | 185065 | [185065-honey-home.json](./185065-honey-home.json) |
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
 | Honey Hunt | 179931 | [179931-honey-hunt.json](./179931-honey-hunt.json) |
 | Honey Hunt | 44369 | [44369-honey-hunt.json](./44369-honey-hunt.json) |
