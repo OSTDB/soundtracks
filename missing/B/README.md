@@ -14390,6 +14390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
 | Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
+| Boomshine Plus | 216386 | [216386-boomshine-plus.json](./216386-boomshine-plus.json) |
 | Boomshine2x | 194301 | [194301-boomshine2x.json](./194301-boomshine2x.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTown | 134797 | [134797-boomtown.json](./134797-boomtown.json) |
@@ -17625,6 +17626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee II | 41203 | [41203-bruce-lee-ii.json](./41203-bruce-lee-ii.json) |
 | Bruce Lee Lives: The Fall of Hong Kong Palace | 72232 | [72232-bruce-lee-lives-the-fall-of-hong-kong-palace.json](./72232-bruce-lee-lives-the-fall-of-hong-kong-palace.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
+| Bruce Lee: Iron Fist 3D | 216370 | [216370-bruce-lee-iron-fist-3d.json](./216370-bruce-lee-iron-fist-3d.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
 | Bruce Lee: Return of the Legend | 6339 | [6339-bruce-lee-return-of-the-legend.json](./6339-bruce-lee-return-of-the-legend.json) |
