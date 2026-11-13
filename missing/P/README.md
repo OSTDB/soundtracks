@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | PacDoom III: Halloween Party | 71857 | [71857-pacdoom-iii-halloween-party.json](./71857-pacdoom-iii-halloween-party.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
+| Pace Chasers | 208540 | [208540-pace-chasers.json](./208540-pace-chasers.json) |
 | PaceBreak | 386663 | [386663-pacebreak.json](./386663-pacebreak.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacer: Classic | 255811 | [255811-pacer-classic.json](./255811-pacer-classic.json) |
@@ -3171,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Patchy Matchy | 307853 | [307853-patchy-matchy.json](./307853-patchy-matchy.json) |
 | Patchy Patients | 177285 | [177285-patchy-patients.json](./177285-patchy-patients.json) |
+| Patchy's Magical Maze | 208484 | [208484-patchys-magical-maze.json](./208484-patchys-magical-maze.json) |
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent Tycoon | 377028 | [377028-patent-tycoon.json](./377028-patent-tycoon.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
@@ -8510,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
 | Pit-Fighter/Super Space Invaders | 78567 | [78567-pit-fighter-super-space-invaders.json](./78567-pit-fighter-super-space-invaders.json) |
 | Pit: The Bite-Sized Shooter | 331721 | [331721-pit-the-bite-sized-shooter.json](./331721-pit-the-bite-sized-shooter.json) |
+| Pita-Ten Minigame: Gohan to ka dekimasu | 208505 | [208505-pita-ten-minigame-gohan-to-ka-dekimasu.json](./208505-pita-ten-minigame-gohan-to-ka-dekimasu.json) |
 | Pitapat | 62870 | [62870-pitapat.json](./62870-pitapat.json) |
 | Pitapat-Beat | 202908 | [202908-pitapat-beat.json](./202908-pitapat-beat.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
@@ -8600,6 +8603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixa | 233257 | [233257-pixa.json](./233257-pixa.json) |
+| Pixa Clicker | 208526 | [208526-pixa-clicker.json](./208526-pixa-clicker.json) |
 | Pixacrea | 217097 | [217097-pixacrea.json](./217097-pixacrea.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixal Bitsonia | 419208 | [419208-pixal-bitsonia.json](./419208-pixal-bitsonia.json) |
@@ -12615,6 +12619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon XD: Gale of Darkness | 2724 | [2724-pokemon-xd-gale-of-darkness.json](./2724-pokemon-xd-gale-of-darkness.json) |
 | Pokémon Xenoverse: Per Aspera Ad Astra | 218201 | [218201-pokemon-xenoverse-per-aspera-ad-astra.json](./218201-pokemon-xenoverse-per-aspera-ad-astra.json) |
+| Pokémon XG: NeXt Gen | 208508 | [208508-pokemon-xg-next-gen.json](./208508-pokemon-xg-next-gen.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
 | Pokémon Yellow: Cramorant Edition | 251360 | [251360-pokemon-yellow-cramorant-edition.json](./251360-pokemon-yellow-cramorant-edition.json) |
 | Pokémon Z | 314724 | [314724-pokemon-z.json](./314724-pokemon-z.json) |
@@ -13929,6 +13934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
 | Popgoes Arcade | 136256 | [136256-popgoes-arcade.json](./136256-popgoes-arcade.json) |
 | Popgoes Arcade | 140319 | [140319-popgoes-arcade.json](./140319-popgoes-arcade.json) |
+| Popgoes Arcade 2 | 208516 | [208516-popgoes-arcade-2.json](./208516-popgoes-arcade-2.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
 | Popgoes Encore! | 238959 | [238959-popgoes-encore.json](./238959-popgoes-encore.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
