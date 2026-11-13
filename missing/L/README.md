@@ -9955,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Fast | 219148 | [219148-low-fast.json](./219148-low-fast.json) |
 | Low Frequency | 304111 | [304111-low-frequency.json](./304111-low-frequency.json) |
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
+| Low Grade Fraud Shop | 185583 | [185583-low-grade-fraud-shop.json](./185583-low-grade-fraud-shop.json) |
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Grav Racer 2 | 63192 | [63192-low-grav-racer-2.json](./63192-low-grav-racer-2.json) |
 | Low Gravity | 309278 | [309278-low-gravity.json](./309278-low-gravity.json) |
