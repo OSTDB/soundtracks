@@ -2181,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mall | 74738 | [74738-fantasy-mall.json](./74738-fantasy-mall.json) |
 | Fantasy Manager: The Computer Game | 73997 | [73997-fantasy-manager-the-computer-game.json](./73997-fantasy-manager-the-computer-game.json) |
 | Fantasy Map Simulator | 312457 | [312457-fantasy-map-simulator.json](./312457-fantasy-map-simulator.json) |
+| Fantasy Match Puzzle | 171122 | [171122-fantasy-match-puzzle.json](./171122-fantasy-match-puzzle.json) |
 | Fantasy Maze | 105802 | [105802-fantasy-maze.json](./105802-fantasy-maze.json) |
 | Fantasy Memory Card Game: Expansion Pack 1 | 224288 | [224288-fantasy-memory-card-game-expansion-pack-1.json](./224288-fantasy-memory-card-game-expansion-pack-1.json) |
 | Fantasy Memory Card Game: Expansion Pack 10 | 224287 | [224287-fantasy-memory-card-game-expansion-pack-10.json](./224287-fantasy-memory-card-game-expansion-pack-10.json) |
@@ -6824,6 +6825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
+| First | 171658 | [171658-first.json](./171658-first.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
 | First & Sight Words | 106470 | [106470-first-and-sight-words.json](./106470-first-and-sight-words.json) |
 | First Adventure | 140849 | [140849-first-adventure.json](./140849-first-adventure.json) |
@@ -8485,6 +8487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Tennis | 223598 | [223598-flick-tennis.json](./223598-flick-tennis.json) |
 | FlickaDrink | 123230 | [123230-flickadrink.json](./123230-flickadrink.json) |
 | FlickBlocks | 182880 | [182880-flickblocks.json](./182880-flickblocks.json) |
+| Flicker | 171656 | [171656-flicker.json](./171656-flicker.json) |
 | Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicker of Hope | 138345 | [138345-flicker-of-hope.json](./138345-flicker-of-hope.json) |
@@ -15399,6 +15402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Football Manager | 214110 | [214110-future-football-manager.json](./214110-future-football-manager.json) |
 | Future Fortune | 173194 | [173194-future-fortune.json](./173194-future-fortune.json) |
 | Future Fragments | 161486 | [161486-future-fragments.json](./161486-future-fragments.json) |
+| Future Fragments: Command Z | 171644 | [171644-future-fragments-command-z.json](./171644-future-fragments-command-z.json) |
 | Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Games | 28471 | [28471-future-games.json](./28471-future-games.json) |
