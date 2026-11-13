@@ -15942,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
 | Mochi's Cosy Quest | 333905 | [333905-mochis-cosy-quest.json](./333905-mochis-cosy-quest.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
+| MochiCat Collection | 219850 | [219850-mochicat-collection.json](./219850-mochicat-collection.json) |
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | MochiMochi | 107533 | [107533-mochimochi.json](./107533-mochimochi.json) |
@@ -17576,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
 | Monster Quest | 301863 | [301863-monster-quest.json](./301863-monster-quest.json) |
+| Monster Quest: Seven Sins | 219842 | [219842-monster-quest-seven-sins.json](./219842-monster-quest-seven-sins.json) |
 | Monster Race | 64019 | [64019-monster-race.json](./64019-monster-race.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
@@ -22409,6 +22411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is a Vamp | 394365 | [394365-my-girlfriend-is-a-vamp.json](./394365-my-girlfriend-is-a-vamp.json) |
 | My Girlfriend is... Centaur | 303103 | [303103-my-girlfriend-is-centaur.json](./303103-my-girlfriend-is-centaur.json) |
 | My Girlfriend Loves a Mystery | 209021 | [209021-my-girlfriend-loves-a-mystery.json](./209021-my-girlfriend-loves-a-mystery.json) |
+| My Girlfriend Loves My Blood | 219715 | [219715-my-girlfriend-loves-my-blood.json](./219715-my-girlfriend-loves-my-blood.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Girlfriends | 306289 | [306289-my-girlfriends.json](./306289-my-girlfriends.json) |
 | My Girls’ Secrets | 277480 | [277480-my-girls-secrets.json](./277480-my-girls-secrets.json) |
