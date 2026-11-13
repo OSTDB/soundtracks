@@ -9454,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley | 199892 | [199892-bit-orchard-animal-valley.json](./199892-bit-orchard-animal-valley.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
+| Bit Orchard: Animal Valley - Deluxe Edition | 201723 | [201723-bit-orchard-animal-valley-deluxe-edition.json](./201723-bit-orchard-animal-valley-deluxe-edition.json) |
 | Bit Orchard: Animal Valley - Director's Cut | 246876 | [246876-bit-orchard-animal-valley-directors-cut.json](./246876-bit-orchard-animal-valley-directors-cut.json) |
 | Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
 | Bit Orchard: Animal Valley - GOTY Edition | 249563 | [249563-bit-orchard-animal-valley-goty-edition.json](./249563-bit-orchard-animal-valley-goty-edition.json) |
@@ -10846,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazer | 54577 | [54577-blazer.json](./54577-blazer.json) |
 | Blazer Drive | 70575 | [70575-blazer-drive.json](./70575-blazer-drive.json) |
 | BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
+| BlazeRush: Star Track | 201729 | [201729-blazerush-star-track.json](./201729-blazerush-star-track.json) |
 | BlazeRush: Star Track | 341992 | [341992-blazerush-star-track.json](./341992-blazerush-star-track.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
