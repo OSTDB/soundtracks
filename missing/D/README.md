@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day and Knight | 137953 | [137953-day-and-knight.json](./137953-day-and-knight.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day and Night | 415229 | [415229-day-and-night.json](./415229-day-and-night.json) |
+| Day at School My Teacher Game | 221462 | [221462-day-at-school-my-teacher-game.json](./221462-day-at-school-my-teacher-game.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
@@ -9181,6 +9182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Grand Edition - Limited Edition | 166268 | [166268-diabolik-lovers-grand-edition-limited-edition.json](./166268-diabolik-lovers-grand-edition-limited-edition.json) |
 | Diabolik Lovers: Haunted Dark Bridal | 85952 | [85952-diabolik-lovers-haunted-dark-bridal.json](./85952-diabolik-lovers-haunted-dark-bridal.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
+| Diabolik Lovers: Limited V Edition | 221875 | [221875-diabolik-lovers-limited-v-edition.json](./221875-diabolik-lovers-limited-v-edition.json) |
 | Diabolik Lovers: Vandead Carnival | 61260 | [61260-diabolik-lovers-vandead-carnival.json](./61260-diabolik-lovers-vandead-carnival.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
@@ -13120,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
 | Doki-Doki Universe: Limited Edition Bundle | 99934 | [99934-doki-doki-universe-limited-edition-bundle.json](./99934-doki-doki-universe-limited-edition-bundle.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
+| Doki: Maternal | 221866 | [221866-doki-maternal.json](./221866-doki-maternal.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
 | DokiDoki LoveUnholyc Class | 200012 | [200012-dokidoki-loveunholyc-class.json](./200012-dokidoki-loveunholyc-class.json) |
@@ -13674,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mess Up | 29992 | [29992-dont-mess-up.json](./29992-dont-mess-up.json) |
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
+| Don't Mess With My Papitas | 221861 | [221861-dont-mess-with-my-papitas.json](./221861-dont-mess-with-my-papitas.json) |
 | Don't Mess With Nanny | 150449 | [150449-dont-mess-with-nanny.json](./150449-dont-mess-with-nanny.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
 | Don't Mind Liam | 317066 | [317066-dont-mind-liam.json](./317066-dont-mind-liam.json) |
@@ -17181,6 +17185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Hours | 202540 | [202540-dreadful-hours.json](./202540-dreadful-hours.json) |
 | Dreadful Night at School | 368462 | [368462-dreadful-night-at-school.json](./368462-dreadful-night-at-school.json) |
 | Dreadful Shadows | 168981 | [168981-dreadful-shadows.json](./168981-dreadful-shadows.json) |
+| Dreadful Tales: The Fire Within - Collector's Edition | 222013 | [222013-dreadful-tales-the-fire-within-collectors-edition.json](./222013-dreadful-tales-the-fire-within-collectors-edition.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
 | Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
