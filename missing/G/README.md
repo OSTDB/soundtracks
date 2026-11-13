@@ -9686,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green | 133321 | [133321-green.json](./133321-green.json) |
 | Green 9 Deal | 134846 | [134846-green-9-deal.json](./134846-green-9-deal.json) |
 | Green Alert | 368274 | [368274-green-alert.json](./368274-green-alert.json) |
+| Green Army Adventure | 199958 | [199958-green-army-adventure.json](./199958-green-army-adventure.json) |
 | Green Bakery | 332278 | [332278-green-bakery.json](./332278-green-bakery.json) |
 | Green Berets | 70763 | [70763-green-berets.json](./70763-green-berets.json) |
 | Green Biker Dude | 317088 | [317088-green-biker-dude.json](./317088-green-biker-dude.json) |
