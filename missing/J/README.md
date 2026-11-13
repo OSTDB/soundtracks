@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joulumato | 178589 | [178589-joulumato.json](./178589-joulumato.json) |
 | Joumee the Hedgehog | 75828 | [75828-joumee-the-hedgehog.json](./75828-joumee-the-hedgehog.json) |
 | Journal | 16808 | [16808-journal.json](./16808-journal.json) |
+| Journal Nikki | 202294 | [202294-journal-nikki.json](./202294-journal-nikki.json) |
 | Journalism class | 108047 | [108047-journalism-class.json](./108047-journalism-class.json) |
 | Journalism Class: Hot Part 3 | 109890 | [109890-journalism-class-hot-part-3.json](./109890-journalism-class-hot-part-3.json) |
 | Journalism Class: Part 2 | 107708 | [107708-journalism-class-part-2.json](./107708-journalism-class-part-2.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
 | Journey of Wrestling | 144618 | [144618-journey-of-wrestling.json](./144618-journey-of-wrestling.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
+| Journey Record | 202295 | [202295-journey-record.json](./202295-journey-record.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey TD | 420791 | [420791-journey-td.json](./420791-journey-td.json) |
 | Journey Through Memories | 110666 | [110666-journey-through-memories.json](./110666-journey-through-memories.json) |
