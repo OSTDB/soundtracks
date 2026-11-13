@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
 | Save the Dodos | 33885 | [33885-save-the-dodos.json](./33885-save-the-dodos.json) |
 | Save the Dodos: Special Edition | 53577 | [53577-save-the-dodos-special-edition.json](./53577-save-the-dodos-special-edition.json) |
+| Save The Dog | 243981 | [243981-save-the-dog.json](./243981-save-the-dog.json) |
 | Save the Doge | 212441 | [212441-save-the-doge.json](./212441-save-the-doge.json) |
 | Save The Doge | 387574 | [387574-save-the-doge.json](./387574-save-the-doge.json) |
 | Save The Doge 2 | 325779 | [325779-save-the-doge-2.json](./325779-save-the-doge-2.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sayri: The Beginning | 130521 | [130521-sayri-the-beginning.json](./130521-sayri-the-beginning.json) |
+| Saziri | 243912 | [243912-saziri.json](./243912-saziri.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | Sbeve | 380928 | [380928-sbeve.json](./380928-sbeve.json) |
 | SBK 09: Superbike World Championship | 7179 | [7179-sbk-09-superbike-world-championship.json](./7179-sbk-09-superbike-world-championship.json) |
@@ -29929,6 +29931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Dungeon | 216521 | [216521-strange-dungeon.json](./216521-strange-dungeon.json) |
 | Strange Encounter | 111244 | [111244-strange-encounter.json](./111244-strange-encounter.json) |
 | Strange Field Football | 145850 | [145850-strange-field-football.json](./145850-strange-field-football.json) |
+| Strange Flesh | 243905 | [243905-strange-flesh.json](./243905-strange-flesh.json) |
 | Strange girl beside | 95137 | [95137-strange-girl-beside.json](./95137-strange-girl-beside.json) |
 | Strange Gravity | 177188 | [177188-strange-gravity.json](./177188-strange-gravity.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
@@ -33455,6 +33458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Contra X | 48892 | [48892-super-contra-x.json](./48892-super-contra-x.json) |
 | Super Contraption 3D | 255048 | [255048-super-contraption-3d.json](./255048-super-contraption-3d.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
+| Super Cooks | 243913 | [243913-super-cooks.json](./243913-super-cooks.json) |
 | Super copa | 38224 | [38224-super-copa.json](./38224-super-copa.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
 | Super Corporate Tax Evader | 199992 | [199992-super-corporate-tax-evader.json](./199992-super-corporate-tax-evader.json) |
@@ -33557,6 +33561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Destroyer | 175631 | [175631-super-destroyer.json](./175631-super-destroyer.json) |
 | Super Destroyer | 378394 | [378394-super-destroyer.json](./378394-super-destroyer.json) |
 | Super Dev Quest | 414269 | [414269-super-dev-quest.json](./414269-super-dev-quest.json) |
+| Super DGR World | 243904 | [243904-super-dgr-world.json](./243904-super-dgr-world.json) |
 | Super Diagonal Mario | 316018 | [316018-super-diagonal-mario.json](./316018-super-diagonal-mario.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Diego Bros. | 269893 | [269893-super-diego-bros.json](./269893-super-diego-bros.json) |
@@ -34284,6 +34289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Luigi! The Forgotten Adventure! | 254946 | [254946-super-luigi-the-forgotten-adventure.json](./254946-super-luigi-the-forgotten-adventure.json) |
+| Super Luke Kart | 243910 | [243910-super-luke-kart.json](./243910-super-luke-kart.json) |
 | Super Lula Escape From Prison | 95277 | [95277-super-lula-escape-from-prison.json](./95277-super-lula-escape-from-prison.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
 | Super Lumi Live | 27490 | [27490-super-lumi-live.json](./27490-super-lumi-live.json) |
