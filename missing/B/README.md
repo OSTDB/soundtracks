@@ -1375,6 +1375,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
 | Bakusei | 416974 | [416974-bakusei.json](./416974-bakusei.json) |
 | Bakushou Jinsei 64: Mezase! Resort-ou | 44039 | [44039-bakushou-jinsei-64-mezase-resort-ou.json](./44039-bakushou-jinsei-64-mezase-resort-ou.json) |
+| Bakushou Mondai no Houkago no Ou-sama | 179218 | [179218-bakushou-mondai-no-houkago-no-ou-sama.json](./179218-bakushou-mondai-no-houkago-no-ou-sama.json) |
+| Bakushou Mondai no Silicon Chounaikai | 179215 | [179215-bakushou-mondai-no-silicon-chounaikai.json](./179215-bakushou-mondai-no-silicon-chounaikai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates | 134496 | [134496-bakushou-mondai-no-totsugeki-star-pirates.json](./134496-bakushou-mondai-no-totsugeki-star-pirates.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai | 179956 | [179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json](./179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai | 179957 | [179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json](./179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json) |
@@ -14211,6 +14213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
 | Boobserman | 104950 | [104950-boobserman.json](./104950-boobserman.json) |
 | Boobsle | 284269 | [284269-boobsle.json](./284269-boobsle.json) |
+| Boobstar | 179635 | [179635-boobstar.json](./179635-boobstar.json) |
 | Booby and the Booby Trap | 121279 | [121279-booby-and-the-booby-trap.json](./121279-booby-and-the-booby-trap.json) |
 | Booby Boys | 49068 | [49068-booby-boys.json](./49068-booby-boys.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
