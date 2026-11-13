@@ -15233,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doujin Jigsaw Puzzle | 334806 | [334806-doujin-jigsaw-puzzle.json](./334806-doujin-jigsaw-puzzle.json) |
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
+| Doukoku Soshite... | 227429 | [227429-doukoku-soshite.json](./227429-doukoku-soshite.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukutsu Randamu | 216421 | [216421-doukutsu-randamu.json](./216421-doukutsu-randamu.json) |
 | Doukyuu Re-Mix Billiard Multiple | 286489 | [286489-doukyuu-re-mix-billiard-multiple.json](./286489-doukyuu-re-mix-billiard-multiple.json) |
