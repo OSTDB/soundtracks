@@ -6431,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Service Please | 346532 | [346532-service-please.json](./346532-service-please.json) |
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
 | Service With a Shotgun | 356554 | [356554-service-with-a-shotgun.json](./356554-service-with-a-shotgun.json) |
+| ServiceIT | 225996 | [225996-serviceit.json](./225996-serviceit.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
 | ServiceIT: Phone Service DLC | 378681 | [378681-serviceit-phone-service-dlc.json](./378681-serviceit-phone-service-dlc.json) |
 | Servo | 17509 | [17509-servo.json](./17509-servo.json) |
@@ -10467,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shrew | 320265 | [320265-shrew.json](./320265-shrew.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
+| Shrieking Darkness | 225997 | [225997-shrieking-darkness.json](./225997-shrieking-darkness.json) |
 | Shrike | 371394 | [371394-shrike.json](./371394-shrike.json) |
 | Shrike Avenger | 25883 | [25883-shrike-avenger.json](./25883-shrike-avenger.json) |
 | Shrimp | 171749 | [171749-shrimp.json](./171749-shrimp.json) |
@@ -13616,6 +13618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Balloon Freakout DX | 284711 | [284711-sky-balloon-freakout-dx.json](./284711-sky-balloon-freakout-dx.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Base | 41105 | [41105-sky-base.json](./41105-sky-base.json) |
+| Sky Base Venus | 226000 | [226000-sky-base-venus.json](./226000-sky-base-venus.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
 | Sky Beneath | 122621 | [122621-sky-beneath.json](./122621-sky-beneath.json) |
 | Sky Bouncer | 241202 | [241202-sky-bouncer.json](./241202-sky-bouncer.json) |
@@ -24100,6 +24103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit: Stallion of the Cimarron - Forever Free | 80314 | [80314-spirit-stallion-of-the-cimarron-forever-free.json](./80314-spirit-stallion-of-the-cimarron-forever-free.json) |
 | Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
 | Spirita Battler | 280375 | [280375-spirita-battler.json](./280375-spirita-battler.json) |
+| SpiriTales | 226463 | [226463-spiritales.json](./226463-spiritales.json) |
 | SpiritBall Fever | 235014 | [235014-spiritball-fever.json](./235014-spiritball-fever.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart | 61536 | [61536-spirited-heart.json](./61536-spirited-heart.json) |
@@ -26284,6 +26288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Knightess Aura | 192746 | [192746-star-knightess-aura.json](./192746-star-knightess-aura.json) |
 | Star Lane | 417956 | [417956-star-lane.json](./417956-star-lane.json) |
 | Star League Baseball | 307766 | [307766-star-league-baseball.json](./307766-star-league-baseball.json) |
+| Star Leaping Story | 226385 | [226385-star-leaping-story.json](./226385-star-leaping-story.json) |
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Legends | 294107 | [294107-star-legends.json](./294107-star-legends.json) |
@@ -36375,6 +36380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Universe Brawl | 317503 | [317503-super-universe-brawl.json](./317503-super-universe-brawl.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Urban Wizard | 111414 | [111414-super-urban-wizard.json](./111414-super-urban-wizard.json) |
+| Super Uriel | 226461 | [226461-super-uriel.json](./226461-super-uriel.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super V.G. | 38197 | [38197-super-v-g.json](./38197-super-v-g.json) |
 | Super Vadimka | 194310 | [194310-super-vadimka.json](./194310-super-vadimka.json) |
