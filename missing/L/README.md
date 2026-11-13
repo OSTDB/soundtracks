@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legasista | 20881 | [20881-legasista.json](./20881-legasista.json) |
 | Legbreaker | 129546 | [129546-legbreaker.json](./129546-legbreaker.json) |
+| Legeclo: Legend Clover | 172836 | [172836-legeclo-legend-clover.json](./172836-legeclo-legend-clover.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
 | Legend | 12663 | [12663-legend.json](./12663-legend.json) |
 | Legend | 15247 | [15247-legend.json](./15247-legend.json) |
@@ -3494,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Legends of Chima Online | 233277 | [233277-lego-legends-of-chima-online.json](./233277-lego-legends-of-chima-online.json) |
 | LEGO Legends of Chima: Laval's Journey | 6839 | [6839-lego-legends-of-chima-lavals-journey.json](./6839-lego-legends-of-chima-lavals-journey.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
+| LEGO Mario 64 | 172833 | [172833-lego-mario-64.json](./172833-lego-mario-64.json) |
 | LEGO Mars Mission: CrystAlien Conflict | 153692 | [153692-lego-mars-mission-crystalien-conflict.json](./153692-lego-mars-mission-crystalien-conflict.json) |
 | LEGO Marvel Collection | 115019 | [115019-lego-marvel-collection.json](./115019-lego-marvel-collection.json) |
 | LEGO Marvel Super Heroes 2 | 28815 | [28815-lego-marvel-super-heroes-2.json](./28815-lego-marvel-super-heroes-2.json) |
