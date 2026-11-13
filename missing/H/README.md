@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
 | Hack'n Stalk 2.0 | 129490 | [129490-hackn-stalk-2-0.json](./129490-hackn-stalk-2-0.json) |
+| Hack9 | 218181 | [218181-hack9.json](./218181-hack9.json) |
 | HackBot Hacking Game | 398259 | [398259-hackbot-hacking-game.json](./398259-hackbot-hacking-game.json) |
 | Hacked | 108948 | [108948-hacked.json](./108948-hacked.json) |
 | Hacked | 33233 | [33233-hacked.json](./33233-hacked.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
 | Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
 | Hacker's Life | 271030 | [271030-hackers-life.json](./271030-hackers-life.json) |
+| Hacker9 | 218180 | [218180-hacker9.json](./218180-hacker9.json) |
 | HackeRPG | 280125 | [280125-hackerpg.json](./280125-hackerpg.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
 | Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
@@ -10296,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homunculus Hotel | 192268 | [192268-homunculus-hotel.json](./192268-homunculus-hotel.json) |
 | Homunculus Meat | 375503 | [375503-homunculus-meat.json](./375503-homunculus-meat.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
+| Homura Combat | 218182 | [218182-homura-combat.json](./218182-homura-combat.json) |
 | Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
 | Homura: The Crimson Warriors | 387933 | [387933-homura-the-crimson-warriors.json](./387933-homura-the-crimson-warriors.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
