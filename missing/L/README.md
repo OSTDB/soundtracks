@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition | 120329 | [120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json](./120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
 | Layup Legends | 321885 | [321885-layup-legends.json](./321885-layup-legends.json) |
+| LAZ3RZ | 208514 | [208514-laz3rz.json](./208514-laz3rz.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazaretto | 36454 | [36454-lazaretto.json](./36454-lazaretto.json) |
