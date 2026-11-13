@@ -5871,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inu Oh | 245221 | [245221-inu-oh.json](./245221-inu-oh.json) |
 | Inu to Neko, Tokidoki Panda | 410088 | [410088-inu-to-neko-tokidoki-panda.json](./410088-inu-to-neko-tokidoki-panda.json) |
+| Inu: A Glimpse of Infinity | 192860 | [192860-inu-a-glimpse-of-infinity.json](./192860-inu-a-glimpse-of-infinity.json) |
 | Inu's Adventure | 212092 | [212092-inus-adventure.json](./212092-inus-adventure.json) |
 | Inua: A Story in Ice and Time | 159773 | [159773-inua-a-story-in-ice-and-time.json](./159773-inua-a-story-in-ice-and-time.json) |
 | Inugami: Doggy Dojo! | 284241 | [284241-inugami-doggy-dojo.json](./284241-inugami-doggy-dojo.json) |
