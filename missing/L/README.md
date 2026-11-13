@@ -10098,7 +10098,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
-| Luckslinger | 24595 | [24595-luckslinger.json](./24595-luckslinger.json) |
 | Lucky | 67070 | [67070-lucky.json](./67070-lucky.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
