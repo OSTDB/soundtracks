@@ -4631,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Rampage: Suckin' Grits on Route 66 | 9003 | [9003-redneck-rampage-suckin-grits-on-route-66.json](./9003-redneck-rampage-suckin-grits-on-route-66.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
+| RedNeg 3Stars | 208504 | [208504-redneg-3stars.json](./208504-redneg-3stars.json) |
 | Redneg AllStars Swing-By Edition | 277637 | [277637-redneg-allstars-swing-by-edition.json](./277637-redneg-allstars-swing-by-edition.json) |
 | ReDo | 340711 | [340711-redo.json](./340711-redo.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
@@ -7042,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja | 19823 | [19823-revenge-of-the-ninja.json](./19823-revenge-of-the-ninja.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
+| Revenge of the Orcs: Flag of Conquest | 208523 | [208523-revenge-of-the-orcs-flag-of-conquest.json](./208523-revenge-of-the-orcs-flag-of-conquest.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
 | Revenge of the Savage Planet: Bingo Brawl | 378129 | [378129-revenge-of-the-savage-planet-bingo-brawl.json](./378129-revenge-of-the-savage-planet-bingo-brawl.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
