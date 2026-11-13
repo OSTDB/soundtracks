@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redhawk Simulator | 326360 | [326360-redhawk-simulator.json](./326360-redhawk-simulator.json) |
 | Redhill Manor | 185303 | [185303-redhill-manor.json](./185303-redhill-manor.json) |
 | Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
+| Redhot Rabbit | 212952 | [212952-redhot-rabbit.json](./212952-redhot-rabbit.json) |
 | Redhowl | 382862 | [382862-redhowl.json](./382862-redhowl.json) |
 | Redial | 419796 | [419796-redial.json](./419796-redial.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
@@ -4886,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Refoil | 115351 | [115351-refoil.json](./115351-refoil.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
+| Reforger | 212951 | [212951-reforger.json](./212951-reforger.json) |
 | Reforger '88 | 24674 | [24674-reforger-88.json](./24674-reforger-88.json) |
 | Reforj | 317076 | [317076-reforj.json](./317076-reforj.json) |
 | Reformers | 76405 | [76405-reformers.json](./76405-reformers.json) |
@@ -6582,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Bundle | 378837 | [378837-retro-horror-bundle.json](./378837-retro-horror-bundle.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
+| Retro Invasion | 212950 | [212950-retro-invasion.json](./212950-retro-invasion.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
 | Retro Jam 2 | 271449 | [271449-retro-jam-2.json](./271449-retro-jam-2.json) |
 | Retro Jam 3 | 271450 | [271450-retro-jam-3.json](./271450-retro-jam-3.json) |
