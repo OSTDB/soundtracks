@@ -10560,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blank Relish: Remastered | 298828 | [298828-blank-relish-remastered.json](./298828-blank-relish-remastered.json) |
 | Blank Room Soup.exe | 378545 | [378545-blank-room-soup-exe.json](./378545-blank-room-soup-exe.json) |
+| Blank Space | 197310 | [197310-blank-space.json](./197310-blank-space.json) |
 | Blank_01 | 361627 | [361627-blank-01.json](./361627-blank-01.json) |
 | Blanka in Shura no Kuni | 267575 | [267575-blanka-in-shura-no-kuni.json](./267575-blanka-in-shura-no-kuni.json) |
 | Blanket Cat | 395179 | [395179-blanket-cat.json](./395179-blanket-cat.json) |
@@ -11474,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block King | 31131 | [31131-block-king.json](./31131-block-king.json) |
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Koala | 318468 | [318468-block-koala.json](./318468-block-koala.json) |
+| Block Kuzushi | 197298 | [197298-block-kuzushi.json](./197298-block-kuzushi.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Kuzushi GB | 49069 | [49069-block-kuzushi-gb.json](./49069-block-kuzushi-gb.json) |
 | Block Kuzushi Kowashite Help! | 286362 | [286362-block-kuzushi-kowashite-help.json](./286362-block-kuzushi-kowashite-help.json) |
@@ -17367,6 +17369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
 | Broadway: 1849 | 76299 | [76299-broadway-1849.json](./76299-broadway-1849.json) |
 | Brober man | 179926 | [179926-brober-man.json](./179926-brober-man.json) |
+| BroBlast | 197311 | [197311-broblast.json](./197311-broblast.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
 | Broccoli | 310240 | [310240-broccoli.json](./310240-broccoli.json) |
