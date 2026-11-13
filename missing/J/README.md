@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Flower Garden | 238250 | [238250-jigsaw-masterpieces-flower-garden.json](./238250-jigsaw-masterpieces-flower-garden.json) |
 | Jigsaw Masterpieces: Flowers & Organisms | 204870 | [204870-jigsaw-masterpieces-flowers-and-organisms.json](./204870-jigsaw-masterpieces-flowers-and-organisms.json) |
 | Jigsaw Masterpieces: Fluffy Animals in Hokkaido / Kenta Igarashi | 238263 | [238263-jigsaw-masterpieces-fluffy-animals-in-hokkaido-kenta-igarashi.json](./238263-jigsaw-masterpieces-fluffy-animals-in-hokkaido-kenta-igarashi.json) |
+| Jigsaw Masterpieces: France - Most beautiful places in the World | 212369 | [212369-jigsaw-masterpieces-france-most-beautiful-places-in-the-world.json](./212369-jigsaw-masterpieces-france-most-beautiful-places-in-the-world.json) |
 | Jigsaw Masterpieces: Fujiyama - Mountain Fuji | 238246 | [238246-jigsaw-masterpieces-fujiyama-mountain-fuji.json](./238246-jigsaw-masterpieces-fujiyama-mountain-fuji.json) |
 | Jigsaw Masterpieces: Hawaii - Most Beautiful Places in the World | 199836 | [199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json](./199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json) |
 | Jigsaw Masterpieces: Hokkaido - Most beautiful places in Japan | 199835 | [199835-jigsaw-masterpieces-hokkaido-most-beautiful-places-in-japan.json](./199835-jigsaw-masterpieces-hokkaido-most-beautiful-places-in-japan.json) |
@@ -1878,14 +1879,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Americas vol.1 | 204871 | [204871-jigsaw-masterpieces-landscapes-with-flags-of-the-world-americas-vol-1.json](./204871-jigsaw-masterpieces-landscapes-with-flags-of-the-world-americas-vol-1.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
 | Jigsaw Masterpieces: Little Animals | 199832 | [199832-jigsaw-masterpieces-little-animals.json](./199832-jigsaw-masterpieces-little-animals.json) |
+| Jigsaw Masterpieces: Masterpieces of World - Brimming with Flowers | 212370 | [212370-jigsaw-masterpieces-masterpieces-of-world-brimming-with-flowers.json](./212370-jigsaw-masterpieces-masterpieces-of-world-brimming-with-flowers.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Dogs and Cats in the Painting | 226323 | [226323-jigsaw-masterpieces-masterpieces-of-world-dogs-and-cats-in-the-painting.json](./226323-jigsaw-masterpieces-masterpieces-of-world-dogs-and-cats-in-the-painting.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Girls in the Paintings | 238020 | [238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json](./238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Realism | 238019 | [238019-jigsaw-masterpieces-masterpieces-of-world-realism.json](./238019-jigsaw-masterpieces-masterpieces-of-world-realism.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Ukiyo-e, Hokusai's Thirty-Six Views of Mt.Fuji Vol.1 | 231260 | [231260-jigsaw-masterpieces-masterpieces-of-world-ukiyo-e-hokusais-thirty-six-views-of-mt-fuji-vol-1.json](./231260-jigsaw-masterpieces-masterpieces-of-world-ukiyo-e-hokusais-thirty-six-views-of-mt-fuji-vol-1.json) |
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
 | Jigsaw Masterpieces: Scenes with Horses | 201023 | [201023-jigsaw-masterpieces-scenes-with-horses.json](./201023-jigsaw-masterpieces-scenes-with-horses.json) |
+| Jigsaw Masterpieces: Seasonal Flowers in Japan | 212371 | [212371-jigsaw-masterpieces-seasonal-flowers-in-japan.json](./212371-jigsaw-masterpieces-seasonal-flowers-in-japan.json) |
 | Jigsaw Masterpieces: Shin Bakumatsu Sinsengumi | 238026 | [238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json](./238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json) |
 | Jigsaw Masterpieces: Street Cats in Japan | 238024 | [238024-jigsaw-masterpieces-street-cats-in-japan.json](./238024-jigsaw-masterpieces-street-cats-in-japan.json) |
+| Jigsaw Masterpieces: Summer Colors | 212368 | [212368-jigsaw-masterpieces-summer-colors.json](./212368-jigsaw-masterpieces-summer-colors.json) |
 | Jigsaw Masterpieces: Superb View of Blue | 238022 | [238022-jigsaw-masterpieces-superb-view-of-blue.json](./238022-jigsaw-masterpieces-superb-view-of-blue.json) |
 | Jigsaw Masterpieces: Superb View of Red | 238023 | [238023-jigsaw-masterpieces-superb-view-of-red.json](./238023-jigsaw-masterpieces-superb-view-of-red.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
