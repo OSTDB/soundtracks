@@ -9382,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Mage 2 | 87866 | [87866-dice-mage-2.json](./87866-dice-mage-2.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mayor | 253470 | [253470-dice-mayor.json](./253470-dice-mayor.json) |
+| Dice Merge | 228155 | [228155-dice-merge.json](./228155-dice-merge.json) |
 | Dice Merge | 370358 | [370358-dice-merge.json](./370358-dice-merge.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Mice | 409217 | [409217-dice-mice.json](./409217-dice-mice.json) |
@@ -10519,6 +10520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Tales | 204286 | [204286-dino-tales.json](./204286-dino-tales.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Terror 2: Jurassic Escape | 234424 | [234424-dino-terror-2-jurassic-escape.json](./234424-dino-terror-2-jurassic-escape.json) |
+| Dino Terror 3 | 228154 | [228154-dino-terror-3.json](./228154-dino-terror-3.json) |
 | Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
 | Dino Tower Arena | 272768 | [272768-dino-tower-arena.json](./272768-dino-tower-arena.json) |
@@ -13116,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | DokiSui: Doki-doki Suikoden | 278827 | [278827-dokisui-doki-doki-suikoden.json](./278827-dokisui-doki-doki-suikoden.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
+| Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
 | Doko Demo Issho: Let's Gakkou! | 72561 | [72561-doko-demo-issho-lets-gakkou.json](./72561-doko-demo-issho-lets-gakkou.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
@@ -15634,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DraconG | 285826 | [285826-dracong.json](./285826-dracong.json) |
 | Draconia | 143903 | [143903-draconia.json](./143903-draconia.json) |
 | Draconia Saga | 309216 | [309216-draconia-saga.json](./309216-draconia-saga.json) |
+| Draconian | 228152 | [228152-draconian.json](./228152-draconian.json) |
 | Draconian | 416868 | [416868-draconian.json](./416868-draconian.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconian: Conquest of Dawnbird | 363141 | [363141-draconian-conquest-of-dawnbird.json](./363141-draconian-conquest-of-dawnbird.json) |
