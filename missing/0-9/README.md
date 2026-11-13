@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
 | 3D Lemmings Winterland | 93313 | [93313-3d-lemmings-winterland.json](./93313-3d-lemmings-winterland.json) |
+| 3D Live Pool | 204578 | [204578-3d-live-pool.json](./204578-3d-live-pool.json) |
 | 3D Lunattack | 28476 | [28476-3d-lunattack.json](./28476-3d-lunattack.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
 | 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
