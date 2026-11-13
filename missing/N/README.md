@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL All-Star Hockey '98 | 45121 | [45121-nhl-all-star-hockey-98.json](./45121-nhl-all-star-hockey-98.json) |
 | NHL Blades of Steel | 45125 | [45125-nhl-blades-of-steel.json](./45125-nhl-blades-of-steel.json) |
 | NHL Blades of Steel '99 | 3562 | [3562-nhl-blades-of-steel-99.json](./3562-nhl-blades-of-steel-99.json) |
+| NHL Blades of Steel 2000 | 206295 | [206295-nhl-blades-of-steel-2000.json](./206295-nhl-blades-of-steel-2000.json) |
 | NHL Blades of Steel 2000 | 45124 | [45124-nhl-blades-of-steel-2000.json](./45124-nhl-blades-of-steel-2000.json) |
 | NHL Breakaway 98 | 3563 | [3563-nhl-breakaway-98.json](./3563-nhl-breakaway-98.json) |
 | NHL Breakaway 99 | 3564 | [3564-nhl-breakaway-99.json](./3564-nhl-breakaway-99.json) |
