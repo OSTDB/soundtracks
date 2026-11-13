@@ -6793,6 +6793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
 | Maze Domination | 318450 | [318450-maze-domination.json](./318450-maze-domination.json) |
+| Maze Dungeon | 201216 | [201216-maze-dungeon.json](./201216-maze-dungeon.json) |
 | Maze Dungeon | 317039 | [317039-maze-dungeon.json](./317039-maze-dungeon.json) |
 | Maze Endless | 302827 | [302827-maze-endless.json](./302827-maze-endless.json) |
 | Maze Escape | 160303 | [160303-maze-escape.json](./160303-maze-escape.json) |
