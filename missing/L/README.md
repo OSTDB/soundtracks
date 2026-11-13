@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Quest Set | 237804 | [237804-labyrinth-of-galleria-the-moon-society-quest-set.json](./237804-labyrinth-of-galleria-the-moon-society-quest-set.json) |
 | Labyrinth of Galleria: The Moon Society - Special Soul Pact Quest | 232468 | [232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json](./232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json) |
+| Labyrinth of Legendary Loot | 176520 | [176520-labyrinth-of-legendary-loot.json](./176520-labyrinth-of-legendary-loot.json) |
 | Labyrinth of Legends: Roguelike Battle Quest | 284943 | [284943-labyrinth-of-legends-roguelike-battle-quest.json](./284943-labyrinth-of-legends-roguelike-battle-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
 | Le Vilain Petit Canard | 139064 | [139064-le-vilain-petit-canard.json](./139064-le-vilain-petit-canard.json) |
 | Le Voyage de Toki | 142809 | [142809-le-voyage-de-toki.json](./142809-le-voyage-de-toki.json) |
+| Le Vrai jeu Vidéo, C'est payant. | 176535 | [176535-le-vrai-jeu-video-cest-payant.json](./176535-le-vrai-jeu-video-cest-payant.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lea | 269228 | [269228-lea.json](./269228-lea.json) |
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
@@ -4916,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Pointless | 113651 | [113651-life-is-pointless.json](./113651-life-is-pointless.json) |
 | Life is sad | 157407 | [157407-life-is-sad.json](./157407-life-is-sad.json) |
 | Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
+| Life is Snot | 176947 | [176947-life-is-snot.json](./176947-life-is-snot.json) |
 | Life is Strange 2: Episode 1 - Roads | 111824 | [111824-life-is-strange-2-episode-1-roads.json](./111824-life-is-strange-2-episode-1-roads.json) |
 | Life Is Strange 2: Episode 2 - Rules | 113432 | [113432-life-is-strange-2-episode-2-rules.json](./113432-life-is-strange-2-episode-2-rules.json) |
 | Life is Strange 2: Episode 3 - Wastelands | 116540 | [116540-life-is-strange-2-episode-3-wastelands.json](./116540-life-is-strange-2-episode-3-wastelands.json) |
