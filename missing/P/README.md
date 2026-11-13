@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
 | Pastaghi | 187611 | [187611-pastaghi.json](./187611-pastaghi.json) |
 | Pastel | 136629 | [136629-pastel.json](./136629-pastel.json) |
+| Pastel Chime 3: Bind Seeker | 198401 | [198401-pastel-chime-3-bind-seeker.json](./198401-pastel-chime-3-bind-seeker.json) |
 | Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Chime: Koi no Skill Up | 90927 | [90927-pastel-chime-koi-no-skill-up.json](./90927-pastel-chime-koi-no-skill-up.json) |
 | Pastel Fantasy | 94298 | [94298-pastel-fantasy.json](./94298-pastel-fantasy.json) |
@@ -7078,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2: Yellow Edition | 375785 | [375785-pikmin-2-yellow-edition.json](./375785-pikmin-2-yellow-edition.json) |
 | Pikmin 2: Yet Another Purple Cave | 314785 | [314785-pikmin-2-yet-another-purple-cave.json](./314785-pikmin-2-yet-another-purple-cave.json) |
 | Pikmin 216 | 287482 | [287482-pikmin-216.json](./287482-pikmin-216.json) |
+| Pikmin 251 | 198419 | [198419-pikmin-251.json](./198419-pikmin-251.json) |
 | Pikmin 2D | 387584 | [387584-pikmin-2d.json](./387584-pikmin-2d.json) |
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
@@ -10037,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Lev | 150452 | [150452-planet-lev.json](./150452-planet-lev.json) |
 | Planet Love Story | 407895 | [407895-planet-love-story.json](./407895-planet-love-story.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
+| Planet M.U.L.E. | 198441 | [198441-planet-m-u-l-e.json](./198441-planet-m-u-l-e.json) |
 | Planet Master | 227551 | [227551-planet-master.json](./227551-planet-master.json) |
 | Planet Miner | 158899 | [158899-planet-miner.json](./158899-planet-miner.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
@@ -19129,6 +19132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
 | Puppet Blaster | 110669 | [110669-puppet-blaster.json](./110669-puppet-blaster.json) |
+| Puppet Boss | 198405 | [198405-puppet-boss.json](./198405-puppet-boss.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet House | 291281 | [291281-puppet-house.json](./291281-puppet-house.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
