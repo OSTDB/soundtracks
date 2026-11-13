@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | Sarpedon | 340663 | [340663-sarpedon.json](./340663-sarpedon.json) |
+| Sarrisa and the Legendary Sword | 197297 | [197297-sarrisa-and-the-legendary-sword.json](./197297-sarrisa-and-the-legendary-sword.json) |
 | Saru Ga Daisuki | 199197 | [199197-saru-ga-daisuki.json](./199197-saru-ga-daisuki.json) |
 | Saru Get You: Pipo Saru Racer | 66511 | [66511-saru-get-you-pipo-saru-racer.json](./66511-saru-get-you-pipo-saru-racer.json) |
 | Saru Getchu Saru Saru Daisakusen | 79069 | [79069-saru-getchu-saru-saru-daisakusen.json](./79069-saru-getchu-saru-saru-daisakusen.json) |
@@ -17288,6 +17289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Soar: Pillars of Tasneem | 293476 | [293476-soar-pillars-of-tasneem.json](./293476-soar-pillars-of-tasneem.json) |
 | Soaring | 171187 | [171187-soaring.json](./171187-soaring.json) |
+| Soaring | 197291 | [197291-soaring.json](./197291-soaring.json) |
 | Soaring Machinariae | 152643 | [152643-soaring-machinariae.json](./152643-soaring-machinariae.json) |
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soaring Tales of Skylines | 155286 | [155286-soaring-tales-of-skylines.json](./155286-soaring-tales-of-skylines.json) |
@@ -18635,6 +18637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonder: Embrace The World | 409268 | [409268-sonder-embrace-the-world.json](./409268-sonder-embrace-the-world.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Sonder. Episode ONE | 34546 | [34546-sonder-episode-one.json](./34546-sonder-episode-one.json) |
+| SonderDo | 197306 | [197306-sonderdo.json](./197306-sonderdo.json) |
 | Sondro Gomez: A Sunova Story | 170662 | [170662-sondro-gomez-a-sunova-story.json](./170662-sondro-gomez-a-sunova-story.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
