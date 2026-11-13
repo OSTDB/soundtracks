@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mayhem | 119511 | [119511-car-mayhem.json](./119511-car-mayhem.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
+| Car Mechanic Manager 2023 | 197276 | [197276-car-mechanic-manager-2023.json](./197276-car-mechanic-manager-2023.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Mechanic Shop Simulator | 322660 | [322660-car-mechanic-shop-simulator.json](./322660-car-mechanic-shop-simulator.json) |
 | Car Mechanic Simulator | 115392 | [115392-car-mechanic-simulator.json](./115392-car-mechanic-simulator.json) |
@@ -14173,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Desires | 187146 | [187146-comixxx-desires.json](./187146-comixxx-desires.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
 | Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
+| Comixxx Memories | 197307 | [197307-comixxx-memories.json](./197307-comixxx-memories.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Comixxx Temptations | 286858 | [286858-comixxx-temptations.json](./286858-comixxx-temptations.json) |
@@ -15040,6 +15042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Three Kingdoms | 411543 | [411543-conquerors-blade-three-kingdoms.json](./411543-conquerors-blade-three-kingdoms.json) |
 | Conquerors of Fate | 419426 | [419426-conquerors-of-fate.json](./419426-conquerors-of-fate.json) |
 | Conquest | 186436 | [186436-conquest.json](./186436-conquest.json) |
+| Conquest | 197296 | [197296-conquest.json](./197296-conquest.json) |
 | Conquest | 339778 | [339778-conquest.json](./339778-conquest.json) |
 | Conquest | 379715 | [379715-conquest.json](./379715-conquest.json) |
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
@@ -15405,6 +15408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Context | 126225 | [126225-context.json](./126225-context.json) |
 | Context Catacombs | 347501 | [347501-context-catacombs.json](./347501-context-catacombs.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
+| Contexto | 197284 | [197284-contexto.json](./197284-contexto.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
 | Continent of the Ninth Seal | 15305 | [15305-continent-of-the-ninth-seal.json](./15305-continent-of-the-ninth-seal.json) |
 | Continental | 67396 | [67396-continental.json](./67396-continental.json) |
@@ -21799,6 +21803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Digicam | 327543 | [327543-cursed-digicam.json](./327543-cursed-digicam.json) |
 | Cursed Digilens | 347481 | [347481-cursed-digilens.json](./347481-cursed-digilens.json) |
 | Cursed Dungeon | 190017 | [190017-cursed-dungeon.json](./190017-cursed-dungeon.json) |
+| Cursed Dungeon Raider | 197282 | [197282-cursed-dungeon-raider.json](./197282-cursed-dungeon-raider.json) |
 | Cursed Enigma: Priest and Prayers | 278276 | [278276-cursed-enigma-priest-and-prayers.json](./278276-cursed-enigma-priest-and-prayers.json) |
 | Cursed Enigma: The Midnight Apartment | 294103 | [294103-cursed-enigma-the-midnight-apartment.json](./294103-cursed-enigma-the-midnight-apartment.json) |
 | Cursed Exped | 203474 | [203474-cursed-exped.json](./203474-cursed-exped.json) |
