@@ -6056,10 +6056,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Extra DLC Pack | 266401 | [266401-resident-evil-4-extra-dlc-pack.json](./266401-resident-evil-4-extra-dlc-pack.json) |
 | Resident Evil 4: GameStop Special Edition | 9668 | [9668-resident-evil-4-gamestop-special-edition.json](./9668-resident-evil-4-gamestop-special-edition.json) |
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
+| Resident Evil 4: Lenticular Edition | 223106 | [223106-resident-evil-4-lenticular-edition.json](./223106-resident-evil-4-lenticular-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Otome Edition | 29145 | [29145-resident-evil-4-otome-edition.json](./29145-resident-evil-4-otome-edition.json) |
 | Resident Evil 4: Premium Edition | 41861 | [41861-resident-evil-4-premium-edition.json](./41861-resident-evil-4-premium-edition.json) |
 | Resident Evil 4: Separate Ways | 266717 | [266717-resident-evil-4-separate-ways.json](./266717-resident-evil-4-separate-ways.json) |
+| Resident Evil 4: Steelbook Edition | 223105 | [223105-resident-evil-4-steelbook-edition.json](./223105-resident-evil-4-steelbook-edition.json) |
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Treasure Map - Expansion | 266389 | [266389-resident-evil-4-treasure-map-expansion.json](./266389-resident-evil-4-treasure-map-expansion.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
@@ -9374,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
 | Roarr! | 96870 | [96870-roarr.json](./96870-roarr.json) |
 | Roarr!: Jurassic Edition | 111909 | [111909-roarr-jurassic-edition.json](./111909-roarr-jurassic-edition.json) |
+| Roary the Racing Car | 223113 | [223113-roary-the-racing-car.json](./223113-roary-the-racing-car.json) |
 | Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
 | Roast Party | 98368 | [98368-roast-party.json](./98368-roast-party.json) |
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
