@@ -7737,6 +7737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evets: The Ultimate Adventure | 73793 | [73793-evets-the-ultimate-adventure.json](./73793-evets-the-ultimate-adventure.json) |
 | Evhacon | 267961 | [267961-evhacon.json](./267961-evhacon.json) |
 | Evhacon 2 | 129607 | [129607-evhacon-2.json](./129607-evhacon-2.json) |
+| Evhacon 2: Collector's Edition | 212372 | [212372-evhacon-2-collectors-edition.json](./212372-evhacon-2-collectors-edition.json) |
 | Eviction | 267800 | [267800-eviction.json](./267800-eviction.json) |
 | Eviction | 276365 | [276365-eviction.json](./276365-eviction.json) |
 | Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
