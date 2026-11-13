@@ -13095,6 +13095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Delivery: Island Transport Simulator | 334989 | [334989-boat-delivery-island-transport-simulator.json](./334989-boat-delivery-island-transport-simulator.json) |
 | Boat Driver: Ship Parking Simulator | 305573 | [305573-boat-driver-ship-parking-simulator.json](./305573-boat-driver-ship-parking-simulator.json) |
 | Boat Go | 235118 | [235118-boat-go.json](./235118-boat-go.json) |
+| Boat History | 180866 | [180866-boat-history.json](./180866-boat-history.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Party | 258402 | [258402-boat-party.json](./258402-boat-party.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
@@ -19593,6 +19594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn Your Fat with Me! | 210716 | [210716-burn-your-fat-with-me.json](./210716-burn-your-fat-with-me.json) |
 | Burn Zombie Burn! | 16174 | [16174-burn-zombie-burn.json](./16174-burn-zombie-burn.json) |
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
+| Burn-Out | 181283 | [181283-burn-out.json](./181283-burn-out.json) |
 | Burn, Clown, Burn! | 74940 | [74940-burn-clown-burn.json](./74940-burn-clown-burn.json) |
 | Burn:Cycle | 45942 | [45942-burn-cycle.json](./45942-burn-cycle.json) |
 | Burn! SuperTrucks | 142836 | [142836-burn-supertrucks.json](./142836-burn-supertrucks.json) |
