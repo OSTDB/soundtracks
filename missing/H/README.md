@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
+| Hacker Typing | 231102 | [231102-hacker-typing.json](./231102-hacker-typing.json) |
 | Hacker vs It | 412745 | [412745-hacker-vs-it.json](./412745-hacker-vs-it.json) |
 | Hacker.exe | 96503 | [96503-hacker-exe.json](./96503-hacker-exe.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
 | Hapervil | 410714 | [410714-hapervil.json](./410714-hapervil.json) |
 | Haphazard Angel | 251872 | [251872-haphazard-angel.json](./251872-haphazard-angel.json) |
+| Hapland | 230604 | [230604-hapland.json](./230604-hapland.json) |
 | Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Hapland 3 | 336009 | [336009-hapland-3.json](./336009-hapland-3.json) |
 | Hapland Trilogy | 164044 | [164044-hapland-trilogy.json](./164044-hapland-trilogy.json) |
@@ -3001,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted House: Cryptic Graves | 17673 | [17673-haunted-house-cryptic-graves.json](./17673-haunted-house-cryptic-graves.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
+| Haunted Houses | 230599 | [230599-haunted-houses.json](./230599-haunted-houses.json) |
 | Haunted Hues | 337373 | [337373-haunted-hues.json](./337373-haunted-hues.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
 | Haunted Investigation | 248840 | [248840-haunted-investigation.json](./248840-haunted-investigation.json) |
@@ -8075,6 +8078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Kingdom Fall | 291418 | [291418-hiddenverse-kingdom-fall.json](./291418-hiddenverse-kingdom-fall.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
+| Hiddenverse: Rise of Ariadna | 230602 | [230602-hiddenverse-rise-of-ariadna.json](./230602-hiddenverse-rise-of-ariadna.json) |
 | Hiddenverse: Tale of Ariadna | 218228 | [218228-hiddenverse-tale-of-ariadna.json](./218228-hiddenverse-tale-of-ariadna.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide | 183997 | [183997-hide.json](./183997-hide.json) |
