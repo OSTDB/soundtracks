@@ -7071,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter 4: Riddles of Light | 88000 | [88000-demon-hunter-4-riddles-of-light.json](./88000-demon-hunter-4-riddles-of-light.json) |
 | Demon Hunter 5: Ascendance | 116856 | [116856-demon-hunter-5-ascendance.json](./116856-demon-hunter-5-ascendance.json) |
+| Demon Hunter Bundle | 188058 | [188058-demon-hunter-bundle.json](./188058-demon-hunter-bundle.json) |
 | Demon Hunter Collection | 52892 | [52892-demon-hunter-collection.json](./52892-demon-hunter-collection.json) |
 | Demon Hunter High School | 210607 | [210607-demon-hunter-high-school.json](./210607-demon-hunter-high-school.json) |
 | Demon Hunter Mai | 134603 | [134603-demon-hunter-mai.json](./134603-demon-hunter-mai.json) |
@@ -10305,6 +10306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Shift | 155307 | [155307-dimension-shift.json](./155307-dimension-shift.json) |
 | Dimension Shift | 272106 | [272106-dimension-shift.json](./272106-dimension-shift.json) |
 | Dimension Shift | 323884 | [323884-dimension-shift.json](./323884-dimension-shift.json) |
+| Dimension Shifter | 187555 | [187555-dimension-shifter.json](./187555-dimension-shifter.json) |
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
 | Dimension Warrior | 334232 | [334232-dimension-warrior.json](./334232-dimension-warrior.json) |
@@ -14160,6 +14162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Be Seen | 183305 | [183305-donut-be-seen.json](./183305-donut-be-seen.json) |
 | Donut Blast | 340529 | [340529-donut-blast.json](./340529-donut-blast.json) |
 | Donut Boi | 130268 | [130268-donut-boi.json](./130268-donut-boi.json) |
+| Donut Break | 187563 | [187563-donut-break.json](./187563-donut-break.json) |
 | Donut Break 2 | 187764 | [187764-donut-break-2.json](./187764-donut-break-2.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Break: Head to Head | 214566 | [214566-donut-break-head-to-head.json](./214566-donut-break-head-to-head.json) |
@@ -15821,6 +15824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula's Castle | 265455 | [265455-draculas-castle.json](./265455-draculas-castle.json) |
 | Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
 | Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
+| Dracula's Legacy Remastered | 188064 | [188064-draculas-legacy-remastered.json](./188064-draculas-legacy-remastered.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
 | Dracula's Pizza Delivery | 184755 | [184755-draculas-pizza-delivery.json](./184755-draculas-pizza-delivery.json) |
 | Dracula's Prey: A Nightmare in Rome | 270020 | [270020-draculas-prey-a-nightmare-in-rome.json](./270020-draculas-prey-a-nightmare-in-rome.json) |
