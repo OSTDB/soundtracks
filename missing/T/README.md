@@ -8035,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
 | The Collector | 68424 | [68424-the-collector.json](./68424-the-collector.json) |
 | The Collector’s Curio Cabinet: Toy Soldiers | 416776 | [416776-the-collector-s-curio-cabinet-toy-soldiers.json](./416776-the-collector-s-curio-cabinet-toy-soldiers.json) |
+| The Collector's Legends | 211853 | [211853-the-collectors-legends.json](./211853-the-collectors-legends.json) |
 | The Collectors | 380920 | [380920-the-collectors.json](./380920-the-collectors.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The College Fantasy Before the End of the Empire | 298349 | [298349-the-college-fantasy-before-the-end-of-the-empire.json](./298349-the-college-fantasy-before-the-end-of-the-empire.json) |
@@ -17341,6 +17342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Santa Paradox | 156903 | [156903-the-santa-paradox.json](./156903-the-santa-paradox.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
+| The Saragossa Manuscript | 211868 | [211868-the-saragossa-manuscript.json](./211868-the-saragossa-manuscript.json) |
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
 | The Sarah Jane Adventures: Plant and Animal Habitats | 343939 | [343939-the-sarah-jane-adventures-plant-and-animal-habitats.json](./343939-the-sarah-jane-adventures-plant-and-animal-habitats.json) |
 | The Sargosian Abyss | 196927 | [196927-the-sargosian-abyss.json](./196927-the-sargosian-abyss.json) |
@@ -28734,6 +28736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Maroku | 211530 | [211530-touhou-genso-maroku.json](./211530-touhou-genso-maroku.json) |
 | Touhou Genso Maroku W: The Devil of Decline | 114022 | [114022-touhou-genso-maroku-w-the-devil-of-decline.json](./114022-touhou-genso-maroku-w-the-devil-of-decline.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
+| Touhou Genso Maroku: Matsuri | 211835 | [211835-touhou-genso-maroku-matsuri.json](./211835-touhou-genso-maroku-matsuri.json) |
 | Touhou Genso Maroku: Utage | 212096 | [212096-touhou-genso-maroku-utage.json](./212096-touhou-genso-maroku-utage.json) |
 | Touhou Genso Rondo: Bullet Ballet | 23281 | [23281-touhou-genso-rondo-bullet-ballet.json](./23281-touhou-genso-rondo-bullet-ballet.json) |
 | Touhou Genso Wanderer Lotus Labyrinth R: Complete Edition | 209968 | [209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json](./209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json) |
@@ -32002,6 +32005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train - Class 68 Chiltern Railways | 205400 | [205400-trainz-railroad-simulator-2022-pro-train-class-68-chiltern-railways.json](./205400-trainz-railroad-simulator-2022-pro-train-class-68-chiltern-railways.json) |
 | Trainz Railroad Simulator 2022: Pro Train - Class 68 ScotRail | 208340 | [208340-trainz-railroad-simulator-2022-pro-train-class-68-scotrail.json](./208340-trainz-railroad-simulator-2022-pro-train-class-68-scotrail.json) |
 | Trainz Railroad Simulator 2022: Pro Train - Class 68 TPN TRS | 205410 | [205410-trainz-railroad-simulator-2022-pro-train-class-68-tpn-trs.json](./205410-trainz-railroad-simulator-2022-pro-train-class-68-tpn-trs.json) |
+| Trainz Railroad Simulator 2022: Pro Train - DB BR Class 85 001 | 211885 | [211885-trainz-railroad-simulator-2022-pro-train-db-br-class-85-001.json](./211885-trainz-railroad-simulator-2022-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2022: Pro Train - DB Class 44 | 227275 | [227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json](./227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2022: Pro Train - Hamburg Flyer SVT 877 | 237265 | [237265-trainz-railroad-simulator-2022-pro-train-hamburg-flyer-svt-877.json](./237265-trainz-railroad-simulator-2022-pro-train-hamburg-flyer-svt-877.json) |
 | Trainz Railroad Simulator 2022: Pro Train - NS Heritage Loco Bundle 2 | 331624 | [331624-trainz-railroad-simulator-2022-pro-train-ns-heritage-loco-bundle-2.json](./331624-trainz-railroad-simulator-2022-pro-train-ns-heritage-loco-bundle-2.json) |
