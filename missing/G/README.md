@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Squares | 309946 | [309946-game-of-squares.json](./309946-game-of-squares.json) |
 | Game of Stones | 99518 | [99518-game-of-stones.json](./99518-game-of-stones.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
+| Game of the Dead | 207433 | [207433-game-of-the-dead.json](./207433-game-of-the-dead.json) |
 | Game of The Forgotten Gods. Wake Up | 96864 | [96864-game-of-the-forgotten-gods-wake-up.json](./96864-game-of-the-forgotten-gods-wake-up.json) |
 | Game of the Month 2025 | 425215 | [425215-game-of-the-month-2025.json](./425215-game-of-the-month-2025.json) |
 | Game of the Year | 127720 | [127720-game-of-the-year.json](./127720-game-of-the-year.json) |
@@ -7972,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
 | Gorgon's Garden | 375358 | [375358-gorgons-garden.json](./375358-gorgons-garden.json) |
+| Gorgon's quest | 207437 | [207437-gorgons-quest.json](./207437-gorgons-quest.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gorgons' Gaze | 216255 | [216255-gorgons-gaze.json](./216255-gorgons-gaze.json) |
 | Gori: Cuddly Carnage | 133341 | [133341-gori-cuddly-carnage.json](./133341-gori-cuddly-carnage.json) |
@@ -8503,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
 | Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Ages: Rome - Reign of Augustus | 10375 | [10375-grand-ages-rome-reign-of-augustus.json](./10375-grand-ages-rome-reign-of-augustus.json) |
+| Grand Arms: March of the Red Dragon | 207440 | [207440-grand-arms-march-of-the-red-dragon.json](./207440-grand-arms-march-of-the-red-dragon.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
 | Grand Auto Survival City Crime Gangster | 216016 | [216016-grand-auto-survival-city-crime-gangster.json](./216016-grand-auto-survival-city-crime-gangster.json) |
 | Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
