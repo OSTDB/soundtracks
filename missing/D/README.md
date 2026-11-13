@@ -5861,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Rival Tech Pack | 224176 | [224176-deep-rock-galactic-rival-tech-pack.json](./224176-deep-rock-galactic-rival-tech-pack.json) |
 | Deep Rock Galactic: Robot Rebellion Pack | 224175 | [224175-deep-rock-galactic-robot-rebellion-pack.json](./224175-deep-rock-galactic-robot-rebellion-pack.json) |
 | Deep Rock Galactic: Roughneck Pack | 224183 | [224183-deep-rock-galactic-roughneck-pack.json](./224183-deep-rock-galactic-roughneck-pack.json) |
+| Deep Rock Galactic: Season 1 - Rival Incursion | 198276 | [198276-deep-rock-galactic-season-1-rival-incursion.json](./198276-deep-rock-galactic-season-1-rival-incursion.json) |
 | Deep Rock Galactic: Season 2 - Rival Escalation | 209974 | [209974-deep-rock-galactic-season-2-rival-escalation.json](./209974-deep-rock-galactic-season-2-rival-escalation.json) |
 | Deep Rock Galactic: Season 3 - Plaguefall | 224166 | [224166-deep-rock-galactic-season-3-plaguefall.json](./224166-deep-rock-galactic-season-3-plaguefall.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
