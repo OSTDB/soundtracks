@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dash: Las Vegas | 288392 | [288392-paper-dash-las-vegas.json](./288392-paper-dash-las-vegas.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
+| Paper Doll | 181826 | [181826-paper-doll.json](./181826-paper-doll.json) |
 | Paper Dolls | 99053 | [99053-paper-dolls.json](./99053-paper-dolls.json) |
 | Paper Dolls 2 | 156935 | [156935-paper-dolls-2.json](./156935-paper-dolls-2.json) |
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
@@ -8178,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
 | Pipi Is You | 196396 | [196396-pipi-is-you.json](./196396-pipi-is-you.json) |
+| Pipi's Adventure | 181412 | [181412-pipis-adventure.json](./181412-pipis-adventure.json) |
 | Piping Hot | 126842 | [126842-piping-hot.json](./126842-piping-hot.json) |
 | Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
