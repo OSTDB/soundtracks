@@ -6414,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
 | Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
+| Deflector | 188531 | [188531-deflector.json](./188531-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
 | Deflector: Specimen One | 193602 | [193602-deflector-specimen-one.json](./193602-deflector-specimen-one.json) |
 | Deflector: Specimen Zero | 189925 | [189925-deflector-specimen-zero.json](./189925-deflector-specimen-zero.json) |
@@ -8489,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detecti Meow | 363112 | [363112-detecti-meow.json](./363112-detecti-meow.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
+| Detective Agency | 188530 | [188530-detective-agency.json](./188530-detective-agency.json) |
 | Detective Agency | 53960 | [53960-detective-agency.json](./53960-detective-agency.json) |
 | Detective Agency 2 | 191046 | [191046-detective-agency-2.json](./191046-detective-agency-2.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
@@ -12910,6 +12912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Simulator | 76897 | [76897-doge-simulator.json](./76897-doge-simulator.json) |
 | Doge Storm | 360698 | [360698-doge-storm.json](./360698-doge-storm.json) |
 | Doge to the Moon | 149505 | [149505-doge-to-the-moon.json](./149505-doge-to-the-moon.json) |
+| Doge to the Moon | 188532 | [188532-doge-to-the-moon.json](./188532-doge-to-the-moon.json) |
 | Doge Trader | 212014 | [212014-doge-trader.json](./212014-doge-trader.json) |
 | DogeFight | 196508 | [196508-dogefight.json](./196508-dogefight.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
@@ -14182,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Wrangler | 177192 | [177192-donut-wrangler.json](./177192-donut-wrangler.json) |
 | Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
 | Donutis Simulator | 159538 | [159538-donutis-simulator.json](./159538-donutis-simulator.json) |
+| DonutRun | 188137 | [188137-donutrun.json](./188137-donutrun.json) |
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
 | Donuts Drift | 91087 | [91087-donuts-drift.json](./91087-donuts-drift.json) |
@@ -21060,6 +21064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
 | Dying: Reborn Ultimate Bundle | 118723 | [118723-dying-reborn-ultimate-bundle.json](./118723-dying-reborn-ultimate-bundle.json) |
+| Dying: Reborn VR | 188144 | [188144-dying-reborn-vr.json](./188144-dying-reborn-vr.json) |
 | Dying: Sinner Escape | 63361 | [63361-dying-sinner-escape.json](./63361-dying-sinner-escape.json) |
 | Dylan Dog: Gli Uccisori | 73160 | [73160-dylan-dog-gli-uccisori.json](./73160-dylan-dog-gli-uccisori.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
