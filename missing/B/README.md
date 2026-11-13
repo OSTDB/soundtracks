@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Monster | 228951 | [228951-balloon-monster.json](./228951-balloon-monster.json) |
 | Balloon Party | 186068 | [186068-balloon-party.json](./186068-balloon-party.json) |
 | Balloon Party | 350294 | [350294-balloon-party.json](./350294-balloon-party.json) |
+| Balloon Pop | 172844 | [172844-balloon-pop.json](./172844-balloon-pop.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop | 4704 | [4704-balloon-pop.json](./4704-balloon-pop.json) |
 | Balloon Pop | 88845 | [88845-balloon-pop.json](./88845-balloon-pop.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Volleyball | 359297 | [359297-beach-volleyball.json](./359297-beach-volleyball.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Boys: Hot Spike | 412948 | [412948-beach-volleyball-boys-hot-spike.json](./412948-beach-volleyball-boys-hot-spike.json) |
+| Beach Volleyball Challenge | 172845 | [172845-beach-volleyball-challenge.json](./172845-beach-volleyball-challenge.json) |
 | Beach Volleyball Competition | 169635 | [169635-beach-volleyball-competition.json](./169635-beach-volleyball-competition.json) |
 | Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
@@ -12833,6 +12835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection: Seasons Pass | 396318 | [396318-blue-reflection-seasons-pass.json](./396318-blue-reflection-seasons-pass.json) |
 | Blue Reflection: Second Light | 154784 | [154784-blue-reflection-second-light.json](./154784-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
+| Blue Reflection: Second Light - Digital Deluxe Edition | 172823 | [172823-blue-reflection-second-light-digital-deluxe-edition.json](./172823-blue-reflection-second-light-digital-deluxe-edition.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
 | Blue Reflection: Second Light - Ryza's Outfit: Special Costume for Ao | 396265 | [396265-blue-reflection-second-light-ryzas-outfit-special-costume-for-ao.json](./396265-blue-reflection-second-light-ryzas-outfit-special-costume-for-ao.json) |
 | Blue Reflection: Second Light - Season Pass | 396336 | [396336-blue-reflection-second-light-season-pass.json](./396336-blue-reflection-second-light-season-pass.json) |
@@ -15197,6 +15200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
 | Bouncy Bread | 338014 | [338014-bouncy-bread.json](./338014-bouncy-bread.json) |
 | Bouncy Bullets | 119889 | [119889-bouncy-bullets.json](./119889-bouncy-bullets.json) |
+| Bouncy Bullets 2 | 172842 | [172842-bouncy-bullets-2.json](./172842-bouncy-bullets-2.json) |
 | Bouncy Bunnies | 185814 | [185814-bouncy-bunnies.json](./185814-bouncy-bunnies.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Butter Ball | 102314 | [102314-bouncy-butter-ball.json](./102314-bouncy-butter-ball.json) |
