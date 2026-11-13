@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T09:25:49.816Z",
-  "total_soundtracks": 3285,
+  "generated_at": "2026-11-13T09:35:49.712Z",
+  "total_soundtracks": 3286,
   "games": [
     {
       "igdb_id": 7522,
@@ -40329,6 +40329,20 @@
         {
           "album_name": "Warpips (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2s8gF0mQgiYwOE5radYLR4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18185,
+      "game_name": "Wartile",
+      "game_url": "https://ostdb.net/games/wartile",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273159a18195815d292b14d2cee",
+      "albums": [
+        {
+          "album_name": "Wartile (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6rgbJIT0V3VS6Z62GO8rrM",
           "apple_music_url": "",
           "album_link_url": ""
         }
