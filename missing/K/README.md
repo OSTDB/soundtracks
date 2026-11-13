@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki the Nano Bot | 299702 | [299702-kiki-the-nano-bot.json](./299702-kiki-the-nano-bot.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
+| Kiki&Lala's Twinkle Puzzle | 215949 | [215949-kiki-and-lalas-twinkle-puzzle.json](./215949-kiki-and-lalas-twinkle-puzzle.json) |
 | KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
 | Kikimora's Clean-Up | 253708 | [253708-kikimoras-clean-up.json](./253708-kikimoras-clean-up.json) |
 | Kiko and the Game Kids | 326677 | [326677-kiko-and-the-game-kids.json](./326677-kiko-and-the-game-kids.json) |
@@ -6864,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kvaka-zadavaka | 367906 | [367906-kvaka-zadavaka.json](./367906-kvaka-zadavaka.json) |
 | Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
+| Kvlt | 216390 | [216390-kvlt.json](./216390-kvlt.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
 | Kwah! | 36685 | [36685-kwah.json](./36685-kwah.json) |
