@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 2780 | [2780-tak-the-great-juju-challenge.json](./2780-tak-the-great-juju-challenge.json) |
 | Taka Taka | 244162 | [244162-taka-taka.json](./244162-taka-taka.json) |
+| Takagari Ou | 221434 | [221434-takagari-ou.json](./221434-takagari-ou.json) |
 | Takahashi Akiko no Mahjong Seminar | 54944 | [54944-takahashi-akiko-no-mahjong-seminar.json](./54944-takahashi-akiko-no-mahjong-seminar.json) |
 | Takahashi Meijin no Bouken-jima | 41748 | [41748-takahashi-meijin-no-bouken-jima.json](./41748-takahashi-meijin-no-bouken-jima.json) |
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
@@ -17101,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
 | The Rogue of Nexus | 329220 | [329220-the-rogue-of-nexus.json](./329220-the-rogue-of-nexus.json) |
+| The Rogue with Dead | 221303 | [221303-the-rogue-with-dead.json](./221303-the-rogue-with-dead.json) |
 | The Roll Game | 182148 | [182148-the-roll-game.json](./182148-the-roll-game.json) |
 | The Rolling Edge | 26966 | [26966-the-rolling-edge.json](./26966-the-rolling-edge.json) |
 | The Rolling Rolling Rolling Rice Ball | 414889 | [414889-the-rolling-rolling-rolling-rice-ball.json](./414889-the-rolling-rolling-rolling-rice-ball.json) |
@@ -24675,6 +24677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberlodge Inn | 232838 | [232838-timberlodge-inn.json](./232838-timberlodge-inn.json) |
 | Timberman VR | 210843 | [210843-timberman-vr.json](./210843-timberman-vr.json) |
 | Timberman VS | 99289 | [99289-timberman-vs.json](./99289-timberman-vs.json) |
+| Timberman VS Edition | 220908 | [220908-timberman-vs-edition.json](./220908-timberman-vs-edition.json) |
 | Timberman: The Big Adventure | 213804 | [213804-timberman-the-big-adventure.json](./213804-timberman-the-big-adventure.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timbertales | 51722 | [51722-timbertales.json](./51722-timbertales.json) |
@@ -25884,6 +25887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tits Monkey | 82293 | [82293-tits-monkey.json](./82293-tits-monkey.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | Tits Okay Tits Fine Milkshake | 379553 | [379553-tits-okay-tits-fine-milkshake.json](./379553-tits-okay-tits-fine-milkshake.json) |
+| Tits Okay Tits Fine: Need more Tits creampie | 220911 | [220911-tits-okay-tits-fine-need-more-tits-creampie.json](./220911-tits-okay-tits-fine-need-more-tits-creampie.json) |
 | Tittilium | 385898 | [385898-tittilium.json](./385898-tittilium.json) |
 | Tittivillus Teaches Typning | 397184 | [397184-tittivillus-teaches-typning.json](./397184-tittivillus-teaches-typning.json) |
 | TitTok | 171866 | [171866-tittok.json](./171866-tittok.json) |
@@ -33032,6 +33036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Sacrifice | 369147 | [369147-tree-of-sacrifice.json](./369147-tree-of-sacrifice.json) |
 | Tree of Savior | 14391 | [14391-tree-of-savior.json](./14391-tree-of-savior.json) |
 | Tree of Savior DB | 50483 | [50483-tree-of-savior-db.json](./50483-tree-of-savior-db.json) |
+| Tree of Savior M | 221314 | [221314-tree-of-savior-m.json](./221314-tree-of-savior-m.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
 | Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
 | Tree Simulator 2021 | 230253 | [230253-tree-simulator-2021.json](./230253-tree-simulator-2021.json) |
@@ -33644,10 +33649,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger DX | 420686 | [420686-trinity-trigger-dx.json](./420686-trinity-trigger-dx.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
+| Trinity Trigger: Deluxe Edition | 220905 | [220905-trinity-trigger-deluxe-edition.json](./220905-trinity-trigger-deluxe-edition.json) |
 | Trinity Trigger: Extra Episode - Cyan | 247259 | [247259-trinity-trigger-extra-episode-cyan.json](./247259-trinity-trigger-extra-episode-cyan.json) |
 | Trinity Trigger: Extra Episode - Elise | 247260 | [247260-trinity-trigger-extra-episode-elise.json](./247260-trinity-trigger-extra-episode-elise.json) |
 | Trinity Trigger: Extra Episode - Violet | 247262 | [247262-trinity-trigger-extra-episode-violet.json](./247262-trinity-trigger-extra-episode-violet.json) |
 | Trinity Trigger: Extra Episode - Zantis | 247261 | [247261-trinity-trigger-extra-episode-zantis.json](./247261-trinity-trigger-extra-episode-zantis.json) |
+| Trinity Trigger: Ultimate Edition | 220904 | [220904-trinity-trigger-ultimate-edition.json](./220904-trinity-trigger-ultimate-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
