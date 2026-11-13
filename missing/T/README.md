@@ -6155,6 +6155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Decadence | 4641 | [4641-the-age-of-decadence.json](./4641-the-age-of-decadence.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Age of Heroes | 414778 | [414778-the-age-of-heroes.json](./414778-the-age-of-heroes.json) |
+| The Age of Navigation | 193897 | [193897-the-age-of-navigation.json](./193897-the-age-of-navigation.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
 | The Agency of Anomalies: Cinderstone Orphanage | 58044 | [58044-the-agency-of-anomalies-cinderstone-orphanage.json](./58044-the-agency-of-anomalies-cinderstone-orphanage.json) |
@@ -6312,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anarchic Kingdom | 183705 | [183705-the-anarchic-kingdom.json](./183705-the-anarchic-kingdom.json) |
+| The Ancestral Legacy! | 193983 | [193983-the-ancestral-legacy.json](./193983-the-ancestral-legacy.json) |
 | The Ancestral Trail | 204911 | [204911-the-ancestral-trail.json](./204911-the-ancestral-trail.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Art of Staying Alive | 134268 | [134268-the-ancient-art-of-staying-alive.json](./134268-the-ancient-art-of-staying-alive.json) |
@@ -12878,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth of Far Water Grove | 182741 | [182741-the-labyrinth-of-far-water-grove.json](./182741-the-labyrinth-of-far-water-grove.json) |
 | The Labyrinth of Greed | 190003 | [190003-the-labyrinth-of-greed.json](./190003-the-labyrinth-of-greed.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
+| The Labyrinth of Ragnarok | 193981 | [193981-the-labyrinth-of-ragnarok.json](./193981-the-labyrinth-of-ragnarok.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
 | The Labyrinth on Burrow Hill | 403545 | [403545-the-labyrinth-on-burrow-hill.json](./403545-the-labyrinth-on-burrow-hill.json) |
 | The Labyrinth Plus! Edition | 95502 | [95502-the-labyrinth-plus-edition.json](./95502-the-labyrinth-plus-edition.json) |
@@ -18506,6 +18509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Stone Escape | 315793 | [315793-the-soul-stone-escape.json](./315793-the-soul-stone-escape.json) |
 | The Soul Stone War | 128922 | [128922-the-soul-stone-war.json](./128922-the-soul-stone-war.json) |
 | The Soul Stone War 2 | 186404 | [186404-the-soul-stone-war-2.json](./186404-the-soul-stone-war-2.json) |
+| The Soul Stone War 2: Web of Shadows | 193512 | [193512-the-soul-stone-war-2-web-of-shadows.json](./193512-the-soul-stone-war-2-web-of-shadows.json) |
 | The Soul Stone War 3 | 344280 | [344280-the-soul-stone-war-3.json](./344280-the-soul-stone-war-3.json) |
 | The Soul's Choice | 233830 | [233830-the-souls-choice.json](./233830-the-souls-choice.json) |
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
@@ -22232,6 +22236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Battle of Generals | 269199 | [269199-three-kingdoms-battle-of-generals.json](./269199-three-kingdoms-battle-of-generals.json) |
 | Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
 | Three Kingdoms: Fate of the Dragon | 6985 | [6985-three-kingdoms-fate-of-the-dragon.json](./6985-three-kingdoms-fate-of-the-dragon.json) |
+| Three Kingdoms: God vs Devil | 193923 | [193923-three-kingdoms-god-vs-devil.json](./193923-three-kingdoms-god-vs-devil.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
 | Three Kingdoms: Legends of War | 208124 | [208124-three-kingdoms-legends-of-war.json](./208124-three-kingdoms-legends-of-war.json) |
@@ -33280,6 +33285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trendpoker 3D Community Edition | 76437 | [76437-trendpoker-3d-community-edition.json](./76437-trendpoker-3d-community-edition.json) |
 | Trendpoker 3D: Free Online Poker | 288550 | [288550-trendpoker-3d-free-online-poker.json](./288550-trendpoker-3d-free-online-poker.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
+| Trendy Boy | 193898 | [193898-trendy-boy.json](./193898-trendy-boy.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
 | Trepang | 350757 | [350757-trepang.json](./350757-trepang.json) |
