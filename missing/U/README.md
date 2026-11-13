@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under a Desert Sun: Seekers of the Cursed Vessel | 372637 | [372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json](./372637-under-a-desert-sun-seekers-of-the-cursed-vessel.json) |
 | Under a Freezing Sea | 143362 | [143362-under-a-freezing-sea.json](./143362-under-a-freezing-sea.json) |
 | Under a Groove | 402667 | [402667-under-a-groove.json](./402667-under-a-groove.json) |
+| Under A New Sun | 212953 | [212953-under-a-new-sun.json](./212953-under-a-new-sun.json) |
 | Under a Porcelain Sun | 90761 | [90761-under-a-porcelain-sun.json](./90761-under-a-porcelain-sun.json) |
 | Under a Rock | 211912 | [211912-under-a-rock.json](./211912-under-a-rock.json) |
 | Under a Star Called Sun | 135632 | [135632-under-a-star-called-sun.json](./135632-under-a-star-called-sun.json) |
