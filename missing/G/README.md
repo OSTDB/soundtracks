@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 3: Customization Pack | 385184 | [385184-gear-club-unlimited-3-customization-pack.json](./385184-gear-club-unlimited-3-customization-pack.json) |
 | Gear.Club Unlimited 3: Deluxe Edition | 385200 | [385200-gear-club-unlimited-3-deluxe-edition.json](./385200-gear-club-unlimited-3-deluxe-edition.json) |
 | Gear.Club Unlimited 3: Performance Cars Pack | 385183 | [385183-gear-club-unlimited-3-performance-cars-pack.json](./385183-gear-club-unlimited-3-performance-cars-pack.json) |
+| Gear.Club Unlimited: Deluxe Edition | 220907 | [220907-gear-club-unlimited-deluxe-edition.json](./220907-gear-club-unlimited-deluxe-edition.json) |
 | Gear.Club Unlimited: Limited Edition Cars Pack 1 | 238247 | [238247-gear-club-unlimited-limited-edition-cars-pack-1.json](./238247-gear-club-unlimited-limited-edition-cars-pack-1.json) |
 | Gear.Club Unlimited: Limited Edition Cars Pack 2 | 238248 | [238248-gear-club-unlimited-limited-edition-cars-pack-2.json](./238248-gear-club-unlimited-limited-edition-cars-pack-2.json) |
 | Gear.Club Unlimited: Premium Cars Pack | 238259 | [238259-gear-club-unlimited-premium-cars-pack.json](./238259-gear-club-unlimited-premium-cars-pack.json) |
@@ -6474,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Of This World | 279278 | [279278-god-of-this-world.json](./279278-god-of-this-world.json) |
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
+| God of Wall: Makyuu no Hihou | 221446 | [221446-god-of-wall-makyuu-no-hihou.json](./221446-god-of-wall-makyuu-no-hihou.json) |
 | God of War | 117883 | [117883-god-of-war.json](./117883-god-of-war.json) |
 | God of War | 273174 | [273174-god-of-war.json](./273174-god-of-war.json) |
 | God of War Collection | 20068 | [20068-god-of-war-collection.json](./20068-god-of-war-collection.json) |
@@ -6867,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goku Mahjong Deluxe: Mirai Senshi 21 | 49639 | [49639-goku-mahjong-deluxe-mirai-senshi-21.json](./49639-goku-mahjong-deluxe-mirai-senshi-21.json) |
 | Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
 | Gokuaku Doumei Dump Matsumoto | 409994 | [409994-gokuaku-doumei-dump-matsumoto.json](./409994-gokuaku-doumei-dump-matsumoto.json) |
+| Gokudou ja! Kou ni Somaru Kobushi to Kokoro | 221299 | [221299-gokudou-ja-kou-ni-somaru-kobushi-to-kokoro.json](./221299-gokudou-ja-kou-ni-somaru-kobushi-to-kokoro.json) |
 | Gokudou no Hanayome | 394081 | [394081-gokudou-no-hanayome.json](./394081-gokudou-no-hanayome.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
