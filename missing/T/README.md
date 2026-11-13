@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails Noir | 97257 | [97257-tails-noir.json](./97257-tails-noir.json) |
 | Tails Noir Preludes | 215067 | [215067-tails-noir-preludes.json](./215067-tails-noir-preludes.json) |
+| Tails Noir Preludes: Deluxe Edition | 234977 | [234977-tails-noir-preludes-deluxe-edition.json](./234977-tails-noir-preludes-deluxe-edition.json) |
 | Tails Noir: Rebel Rush | 311881 | [311881-tails-noir-rebel-rush.json](./311881-tails-noir-rebel-rush.json) |
 | Tails of Fate | 238553 | [238553-tails-of-fate.json](./238553-tails-of-fate.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tama and Friends: 3-choume ha Oosawagi | 218270 | [218270-tama-and-friends-3-choume-ha-oosawagi.json](./218270-tama-and-friends-3-choume-ha-oosawagi.json) |
 | Tama and Friends: Kankeri Hajimeru yo! | 218298 | [218298-tama-and-friends-kankeri-hajimeru-yo.json](./218298-tama-and-friends-kankeri-hajimeru-yo.json) |
 | Tama and Friends: Pop Step Tama | 218297 | [218297-tama-and-friends-pop-step-tama.json](./218297-tama-and-friends-pop-step-tama.json) |
+| Tama Cannon | 234982 | [234982-tama-cannon.json](./234982-tama-cannon.json) |
 | Tama In-Between | 355580 | [355580-tama-in-between.json](./355580-tama-in-between.json) |
 | Tama: Adventurous Ball in Giddy Labyrinth | 60361 | [60361-tama-adventurous-ball-in-giddy-labyrinth.json](./60361-tama-adventurous-ball-in-giddy-labyrinth.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
@@ -6580,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
 | The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
 | The Bachelor: The Videogame | 6571 | [6571-the-bachelor-the-videogame.json](./6571-the-bachelor-the-videogame.json) |
+| The Backbone Series Bundle | 234979 | [234979-the-backbone-series-bundle.json](./234979-the-backbone-series-bundle.json) |
 | The Backroom Project | 201474 | [201474-the-backroom-project.json](./201474-the-backroom-project.json) |
 | The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
 | The Backrooms | 120761 | [120761-the-backrooms.json](./120761-the-backrooms.json) |
@@ -6902,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bedtime Story | 30640 | [30640-the-bedtime-story.json](./30640-the-bedtime-story.json) |
 | The Bee Game | 49480 | [49480-the-bee-game.json](./49480-the-bee-game.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
+| The Beekeeper's Picnic | 235520 | [235520-the-beekeepers-picnic.json](./235520-the-beekeepers-picnic.json) |
 | The Beer War! | 72169 | [72169-the-beer-war.json](./72169-the-beer-war.json) |
 | The Beggar's Ride | 26532 | [26532-the-beggars-ride.json](./26532-the-beggars-ride.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
@@ -7933,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
+| The Cloud Bazaar | 235505 | [235505-the-cloud-bazaar.json](./235505-the-cloud-bazaar.json) |
 | The Cloud Dream of the Nine | 189817 | [189817-the-cloud-dream-of-the-nine.json](./189817-the-cloud-dream-of-the-nine.json) |
 | The Cloud Dream of the Nine: A new beginning of a dream | 193177 | [193177-the-cloud-dream-of-the-nine-a-new-beginning-of-a-dream.json](./193177-the-cloud-dream-of-the-nine-a-new-beginning-of-a-dream.json) |
 | The Cloud Forest | 362188 | [362188-the-cloud-forest.json](./362188-the-cloud-forest.json) |
@@ -11160,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
 | The Great War: 1914-1918 | 46972 | [46972-the-great-war-1914-1918.json](./46972-the-great-war-1914-1918.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
+| The Great War: Western Front - Victory Edition | 234980 | [234980-the-great-war-western-front-victory-edition.json](./234980-the-great-war-western-front-victory-edition.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
 | The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
@@ -26315,6 +26321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Toey Weedz Smoke Dead Mirror | 386534 | [386534-toey-weedz-smoke-dead-mirror.json](./386534-toey-weedz-smoke-dead-mirror.json) |
 | Toey Weedz Smoke One | 338959 | [338959-toey-weedz-smoke-one.json](./338959-toey-weedz-smoke-one.json) |
+| Tofas Sahin: Online Car Driving | 235509 | [235509-tofas-sahin-online-car-driving.json](./235509-tofas-sahin-online-car-driving.json) |
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
 | Toffee Trouble in Creamville | 232841 | [232841-toffee-trouble-in-creamville.json](./232841-toffee-trouble-in-creamville.json) |
 | Toffifee: Fantasy Forest | 325938 | [325938-toffifee-fantasy-forest.json](./325938-toffifee-fantasy-forest.json) |
@@ -32185,6 +32192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Earthspark - Expedition | 254819 | [254819-transformers-earthspark-expedition.json](./254819-transformers-earthspark-expedition.json) |
 | Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
 | Transformers: Fall of Cybertron - Dinobot Destructor Pack | 235422 | [235422-transformers-fall-of-cybertron-dinobot-destructor-pack.json](./235422-transformers-fall-of-cybertron-dinobot-destructor-pack.json) |
+| Transformers: Fall of Cybertron - Massive Fury Pack | 235518 | [235518-transformers-fall-of-cybertron-massive-fury-pack.json](./235518-transformers-fall-of-cybertron-massive-fury-pack.json) |
 | Transformers: Fall of Cybertron - Multiplayer Havoc Pack | 235400 | [235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json](./235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json) |
 | Transformers: Fall of Cybertron - Ultimate Edition | 99964 | [99964-transformers-fall-of-cybertron-ultimate-edition.json](./99964-transformers-fall-of-cybertron-ultimate-edition.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
