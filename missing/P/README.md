@@ -14393,6 +14393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Pantry | 424645 | [424645-potion-pantry.json](./424645-potion-pantry.json) |
 | Potion Pantry: Sort the Apothecary | 424647 | [424647-potion-pantry-sort-the-apothecary.json](./424647-potion-pantry-sort-the-apothecary.json) |
 | Potion Party | 127583 | [127583-potion-party.json](./127583-potion-party.json) |
+| Potion Path | 245061 | [245061-potion-path.json](./245061-potion-path.json) |
 | Potion Permit: Christmas Tree | 366954 | [366954-potion-permit-christmas-tree.json](./366954-potion-permit-christmas-tree.json) |
 | Potion Permit: Complete DLC Bundle | 304803 | [304803-potion-permit-complete-dlc-bundle.json](./304803-potion-permit-complete-dlc-bundle.json) |
 | Potion Permit: Complete Edition | 285665 | [285665-potion-permit-complete-edition.json](./285665-potion-permit-complete-edition.json) |
