@@ -14495,11 +14495,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2 | 1369 | [1369-company-of-heroes-2.json](./1369-company-of-heroes-2.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
+| Company of Heroes 2: Case Blue Mission Pack | 168461 | [168461-company-of-heroes-2-case-blue-mission-pack.json](./168461-company-of-heroes-2-case-blue-mission-pack.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 2: German Commander - Lightning War Doctrine | 168086 | [168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json](./168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
 | Company of Heroes 2: Platinum Edition | 35362 | [35362-company-of-heroes-2-platinum-edition.json](./35362-company-of-heroes-2-platinum-edition.json) |
 | Company of Heroes 2: Red Star Edition | 19461 | [19461-company-of-heroes-2-red-star-edition.json](./19461-company-of-heroes-2-red-star-edition.json) |
+| Company of Heroes 2: Southern Fronts Mission Pack | 168460 | [168460-company-of-heroes-2-southern-fronts-mission-pack.json](./168460-company-of-heroes-2-southern-fronts-mission-pack.json) |
 | Company of Heroes 2: Soviet Commander - Counterattack Tactics | 158409 | [158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json](./158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
@@ -14510,6 +14512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: The Western Front Armies - US Forces | 36374 | [36374-company-of-heroes-2-the-western-front-armies-us-forces.json](./36374-company-of-heroes-2-the-western-front-armies-us-forces.json) |
 | Company of Heroes 2: US Forces Commander - Rifle Company | 168290 | [168290-company-of-heroes-2-us-forces-commander-rifle-company.json](./168290-company-of-heroes-2-us-forces-commander-rifle-company.json) |
 | Company of Heroes 2: Victory at Stalingrad | 52834 | [52834-company-of-heroes-2-victory-at-stalingrad.json](./52834-company-of-heroes-2-victory-at-stalingrad.json) |
+| Company of Heroes 2: Victory at Stalingrad Mission Pack | 168459 | [168459-company-of-heroes-2-victory-at-stalingrad-mission-pack.json](./168459-company-of-heroes-2-victory-at-stalingrad-mission-pack.json) |
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Dare & Destroy | 398517 | [398517-company-of-heroes-3-dare-and-destroy.json](./398517-company-of-heroes-3-dare-and-destroy.json) |
