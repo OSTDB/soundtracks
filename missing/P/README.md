@@ -9400,6 +9400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | Pixelcalypse: Pixel Art Game | 145128 | [145128-pixelcalypse-pixel-art-game.json](./145128-pixelcalypse-pixel-art-game.json) |
+| Pixelcraft Dungeons | 196289 | [196289-pixelcraft-dungeons.json](./196289-pixelcraft-dungeons.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
 | Pixeled | 235028 | [235028-pixeled.json](./235028-pixeled.json) |
@@ -14874,6 +14875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power Supplied | 76496 | [76496-power-supplied.json](./76496-power-supplied.json) |
 | Power Surge | 40399 | [40399-power-surge.json](./40399-power-surge.json) |
+| Power Swing | 196750 | [196750-power-swing.json](./196750-power-swing.json) |
 | Power Tennis | 43198 | [43198-power-tennis.json](./43198-power-tennis.json) |
 | Power the Ark | 208138 | [208138-power-the-ark.json](./208138-power-the-ark.json) |
 | Power the Future | 369353 | [369353-power-the-future.json](./369353-power-the-future.json) |
@@ -15955,6 +15957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Puikoru: A Space Time Vendetta | 423622 | [423622-princess-puikoru-a-space-time-vendetta.json](./423622-princess-puikoru-a-space-time-vendetta.json) |
 | Princess Puzzle | 246555 | [246555-princess-puzzle.json](./246555-princess-puzzle.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
+| Princess Pyro | 196752 | [196752-princess-pyro.json](./196752-princess-pyro.json) |
 | Princess Quest | 147183 | [147183-princess-quest.json](./147183-princess-quest.json) |
 | Princess Quest | 255427 | [255427-princess-quest.json](./255427-princess-quest.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
@@ -16977,6 +16980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Abel | 84122 | [84122-project-abel.json](./84122-project-abel.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Accipiter | 398697 | [398697-project-accipiter.json](./398697-project-accipiter.json) |
+| Project Acka Dimensions | 196767 | [196767-project-acka-dimensions.json](./196767-project-acka-dimensions.json) |
 | Project Adaloria | 266436 | [266436-project-adaloria.json](./266436-project-adaloria.json) |
 | Project Adam: AI Attack | 268322 | [268322-project-adam-ai-attack.json](./268322-project-adam-ai-attack.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
@@ -18095,6 +18099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect the Planet | 257969 | [257969-protect-the-planet.json](./257969-protect-the-planet.json) |
 | Protect The Town: Armageddon | 291165 | [291165-protect-the-town-armageddon.json](./291165-protect-the-town-armageddon.json) |
 | Protect the Treasure | 368235 | [368235-protect-the-treasure.json](./368235-protect-the-treasure.json) |
+| Protect Ukraine | 196776 | [196776-protect-ukraine.json](./196776-protect-ukraine.json) |
 | Protect Your Fool | 126936 | [126936-protect-your-fool.json](./126936-protect-your-fool.json) |
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protect your planet | 74663 | [74663-protect-your-planet.json](./74663-protect-your-planet.json) |
