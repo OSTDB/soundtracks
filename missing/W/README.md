@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Fighter | 259341 | [259341-wandering-fighter.json](./259341-wandering-fighter.json) |
 | Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Hamster | 124654 | [124654-wandering-hamster.json](./124654-wandering-hamster.json) |
+| Wandering Home | 179758 | [179758-wandering-home.json](./179758-wandering-home.json) |
 | Wandering Hunter | 370164 | [370164-wandering-hunter.json](./370164-wandering-hunter.json) |
 | Wandering in Space | 207072 | [207072-wandering-in-space.json](./207072-wandering-in-space.json) |
 | Wandering in Space | 74591 | [74591-wandering-in-space.json](./74591-wandering-in-space.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchsword Remake | 129342 | [129342-witchsword-remake.json](./129342-witchsword-remake.json) |
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | WitchWay | 56831 | [56831-witchway.json](./56831-witchway.json) |
+| Witchwood Academy | 179765 | [179765-witchwood-academy.json](./179765-witchwood-academy.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
 | Witchy Business | 338315 | [338315-witchy-business.json](./338315-witchy-business.json) |
 | Witchy Life Story | 152184 | [152184-witchy-life-story.json](./152184-witchy-life-story.json) |
