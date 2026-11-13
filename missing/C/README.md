@@ -16073,6 +16073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops | 321871 | [321871-cops.json](./321871-cops.json) |
 | Cops 'n' Robbers | 95488 | [95488-cops-n-robbers.json](./95488-cops-n-robbers.json) |
+| Cops & Robbers Jailbreak | 175865 | [175865-cops-and-robbers-jailbreak.json](./175865-cops-and-robbers-jailbreak.json) |
 | Cops 2170: The Power of Law | 201607 | [201607-cops-2170-the-power-of-law.json](./201607-cops-2170-the-power-of-law.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
@@ -17084,6 +17085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
 | Counter Force | 4773 | [4773-counter-force.json](./4773-counter-force.json) |
 | Counter Force: Tactical Warfare | 300735 | [300735-counter-force-tactical-warfare.json](./300735-counter-force-tactical-warfare.json) |
+| Counter Knights | 175873 | [175873-counter-knights.json](./175873-counter-knights.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Protocol: Origins | 420682 | [420682-counter-protocol-origins.json](./420682-counter-protocol-origins.json) |
@@ -18145,6 +18147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
 | CrashOut Xtreme | 240715 | [240715-crashout-xtreme.json](./240715-crashout-xtreme.json) |
 | Crashphalt | 110459 | [110459-crashphalt.json](./110459-crashphalt.json) |
+| Crashteroids | 175446 | [175446-crashteroids.json](./175446-crashteroids.json) |
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
 | CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
 | Crashword | 206924 | [206924-crashword.json](./206924-crashword.json) |
@@ -20655,6 +20658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Defenders: Vanguard Storm | 23265 | [23265-crystal-defenders-vanguard-storm.json](./23265-crystal-defenders-vanguard-storm.json) |
 | Crystal Defense | 120683 | [120683-crystal-defense.json](./120683-crystal-defense.json) |
+| Crystal Down | 176412 | [176412-crystal-down.json](./176412-crystal-down.json) |
 | Crystal Dragon | 12019 | [12019-crystal-dragon.json](./12019-crystal-dragon.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
 | Crystal Eyes | 291887 | [291887-crystal-eyes.json](./291887-crystal-eyes.json) |
