@@ -3245,6 +3245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
 | Real Robot Regiment | 59332 | [59332-real-robot-regiment.json](./59332-real-robot-regiment.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
+| Real Rode | 221457 | [221457-real-rode.json](./221457-real-rode.json) |
+| Real Rode Portable | 221458 | [221458-real-rode-portable.json](./221458-real-rode-portable.json) |
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real School Girl Simulator | 296760 | [296760-real-school-girl-simulator.json](./296760-real-school-girl-simulator.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
