@@ -5840,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
 | The 7th Sign Project | 201675 | [201675-the-7th-sign-project.json](./201675-the-7th-sign-project.json) |
+| The 8 Sins: New Hell Order | 190248 | [190248-the-8-sins-new-hell-order.json](./190248-the-8-sins-new-hell-order.json) |
 | The 80's Game with Martha Quinn | 206205 | [206205-the-80s-game-with-martha-quinn.json](./206205-the-80s-game-with-martha-quinn.json) |
 | The 8ight | 329204 | [329204-the-8ight.json](./329204-the-8ight.json) |
 | The 8th Annual Vanilla Level Design Contest: Collaboration Hack | 228322 | [228322-the-8th-annual-vanilla-level-design-contest-collaboration-hack.json](./228322-the-8th-annual-vanilla-level-design-contest-collaboration-hack.json) |
@@ -14012,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
 | The Legends of Owlia | 30059 | [30059-the-legends-of-owlia.json](./30059-the-legends-of-owlia.json) |
 | The Legends of Oz: One Hundred Years of Oz | 269668 | [269668-the-legends-of-oz-one-hundred-years-of-oz.json](./269668-the-legends-of-oz-one-hundred-years-of-oz.json) |
+| The Legends of Tynedale | 190247 | [190247-the-legends-of-tynedale.json](./190247-the-legends-of-tynedale.json) |
 | The Legion of Maelstrom | 148802 | [148802-the-legion-of-maelstrom.json](./148802-the-legion-of-maelstrom.json) |
 | The Legion: FringeBound | 118028 | [118028-the-legion-fringebound.json](./118028-the-legion-fringebound.json) |
 | The Legions of Rome | 31353 | [31353-the-legions-of-rome.json](./31353-the-legions-of-rome.json) |
@@ -16258,6 +16260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Picture in the House | 142789 | [142789-the-picture-in-the-house.json](./142789-the-picture-in-the-house.json) |
 | The Picture of Cafe au Lait | 248442 | [248442-the-picture-of-cafe-au-lait.json](./248442-the-picture-of-cafe-au-lait.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
+| The Pied Piper of Gamelin | 190255 | [190255-the-pied-piper-of-gamelin.json](./190255-the-pied-piper-of-gamelin.json) |
 | The Pier Arcade | 211327 | [211327-the-pier-arcade.json](./211327-the-pier-arcade.json) |
 | The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
 | The Pig D | 180895 | [180895-the-pig-d.json](./180895-the-pig-d.json) |
