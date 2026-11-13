@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Empire | 395732 | [395732-oil-empire.json](./395732-oil-empire.json) |
 | Oil Era | 214286 | [214286-oil-era.json](./214286-oil-era.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
+| Oil Invasion | 196754 | [196754-oil-invasion.json](./196754-oil-invasion.json) |
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
 | Oil Mogul | 126758 | [126758-oil-mogul.json](./126758-oil-mogul.json) |
 | Oil Panic | 145208 | [145208-oil-panic.json](./145208-oil-panic.json) |
@@ -4901,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osyaberi! Horijyo! Holin Slash | 147841 | [147841-osyaberi-horijyo-holin-slash.json](./147841-osyaberi-horijyo-holin-slash.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
 | Osylla | 169026 | [169026-osylla.json](./169026-osylla.json) |
+| Otakle | 196766 | [196766-otakle.json](./196766-otakle.json) |
 | Otaku and Bubbly Girl | 392312 | [392312-otaku-and-bubbly-girl.json](./392312-otaku-and-bubbly-girl.json) |
 | Otaku Club | 156924 | [156924-otaku-club.json](./156924-otaku-club.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
@@ -5545,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Epidemic - Definitive Edition | 164845 | [164845-outbreak-epidemic-definitive-edition.json](./164845-outbreak-epidemic-definitive-edition.json) |
 | Outbreak: Epidemic Viral Terror | 261361 | [261361-outbreak-epidemic-viral-terror.json](./261361-outbreak-epidemic-viral-terror.json) |
 | Outbreak: Genesis Collection | 331430 | [331430-outbreak-genesis-collection.json](./331430-outbreak-genesis-collection.json) |
+| Outbreak: Gold Collection | 196290 | [196290-outbreak-gold-collection.json](./196290-outbreak-gold-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
 | Outbreak: Heart and Brains Collection | 306486 | [306486-outbreak-heart-and-brains-collection.json](./306486-outbreak-heart-and-brains-collection.json) |
 | Outbreak: Hideous Hallucinations Collection | 331429 | [331429-outbreak-hideous-hallucinations-collection.json](./331429-outbreak-hideous-hallucinations-collection.json) |
