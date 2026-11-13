@@ -5419,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying West | 344268 | [344268-decaying-west.json](./344268-decaying-west.json) |
 | Decaying West | 40493 | [40493-decaying-west.json](./40493-decaying-west.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
+| DecayLore | 215263 | [215263-decaylore.json](./215263-decaylore.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
 | DeceasedCraft | 402627 | [402627-deceasedcraft.json](./402627-deceasedcraft.json) |
@@ -6564,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious in Dungeon | 245638 | [245638-delicious-in-dungeon.json](./245638-delicious-in-dungeon.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious Quest | 255580 | [255580-delicious-quest.json](./255580-delicious-quest.json) |
+| Delicious Solitaire | 215257 | [215257-delicious-solitaire.json](./215257-delicious-solitaire.json) |
 | Delicious Vinyl DJ | 21778 | [21778-delicious-vinyl-dj.json](./21778-delicious-vinyl-dj.json) |
 | Delicious Winter Edition | 373506 | [373506-delicious-winter-edition.json](./373506-delicious-winter-edition.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
@@ -13045,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki College Club 2 | 336272 | [336272-doki-doki-college-club-2.json](./336272-doki-doki-college-club-2.json) |
 | Doki Doki Compatibility Quest: 3 | 59830 | [59830-doki-doki-compatibility-quest-3.json](./59830-doki-doki-compatibility-quest-3.json) |
 | Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
+| Doki Doki Daigaku | 215280 | [215280-doki-doki-daigaku.json](./215280-doki-doki-daigaku.json) |
 | Doki Doki Densha Sekai | 177771 | [177771-doki-doki-densha-sekai.json](./177771-doki-doki-densha-sekai.json) |
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
@@ -18496,6 +18499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone-Locked | 374100 | [374100-drone-locked.json](./374100-drone-locked.json) |
 | Drone: Modern Warfare | 348001 | [348001-drone-modern-warfare.json](./348001-drone-modern-warfare.json) |
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
+| Droneboi 2 | 215260 | [215260-droneboi-2.json](./215260-droneboi-2.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | DroneGlitch | 171702 | [171702-droneglitch.json](./171702-droneglitch.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
