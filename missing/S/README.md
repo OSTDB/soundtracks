@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum | 31712 | [31712-scum.json](./31712-scum.json) |
 | Scum Haters | 73101 | [73101-scum-haters.json](./73101-scum-haters.json) |
+| Scum: Danny Trejo Character Pack | 226928 | [226928-scum-danny-trejo-character-pack.json](./226928-scum-danny-trejo-character-pack.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scum's Errand | 409322 | [409322-scums-errand.json](./409322-scums-errand.json) |
 | Scumbag Streamer | 391538 | [391538-scumbag-streamer.json](./391538-scumbag-streamer.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen-Know | 178163 | [178163-sen-know.json](./178163-sen-know.json) |
 | SEN: Seven Eight Nine | 129943 | [129943-sen-seven-eight-nine.json](./129943-sen-seven-eight-nine.json) |
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
+| Senalux: Level Pack 2 | 226927 | [226927-senalux-level-pack-2.json](./226927-senalux-level-pack-2.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Senara: The Sacrament | 384122 | [384122-senara-the-sacrament.json](./384122-senara-the-sacrament.json) |
@@ -6003,8 +6005,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Run | 335035 | [335035-senran-kagura-run.json](./335035-senran-kagura-run.json) |
 | Senran Kagura: Estival Versus | 11006 | [11006-senran-kagura-estival-versus.json](./11006-senran-kagura-estival-versus.json) |
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
+| Senran Kagura: Estival Versus - Mission Pack | 226926 | [226926-senran-kagura-estival-versus-mission-pack.json](./226926-senran-kagura-estival-versus-mission-pack.json) |
 | Senran Kagura: Estival Versus - Sakura Edition | 136688 | [136688-senran-kagura-estival-versus-sakura-edition.json](./136688-senran-kagura-estival-versus-sakura-edition.json) |
+| Senran Kagura: Estival Versus - Shinobi Pack | 226925 | [226925-senran-kagura-estival-versus-shinobi-pack.json](./226925-senran-kagura-estival-versus-shinobi-pack.json) |
 | Senran Kagura: Estival Versus - Splash Pack | 226793 | [226793-senran-kagura-estival-versus-splash-pack.json](./226793-senran-kagura-estival-versus-splash-pack.json) |
+| Senran Kagura: Estival Versus - Surprise Pack | 226924 | [226924-senran-kagura-estival-versus-surprise-pack.json](./226924-senran-kagura-estival-versus-surprise-pack.json) |
 | Senran Kagura: New Link | 54520 | [54520-senran-kagura-new-link.json](./54520-senran-kagura-new-link.json) |
 | Senran Kagura: New Wave | 64152 | [64152-senran-kagura-new-wave.json](./64152-senran-kagura-new-wave.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
@@ -6012,10 +6017,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach Beach Splash - Basho Character Pack | 156240 | [156240-senran-kagura-peach-beach-splash-basho-character-pack.json](./156240-senran-kagura-peach-beach-splash-basho-character-pack.json) |
 | Senran Kagura: Peach Beach Splash - DOAX3 Collaboration Pack | 156241 | [156241-senran-kagura-peach-beach-splash-doax3-collaboration-pack.json](./156241-senran-kagura-peach-beach-splash-doax3-collaboration-pack.json) |
 | Senran Kagura: Peach Beach Splash - Ikki Tousen EE Collaboration Pack | 156239 | [156239-senran-kagura-peach-beach-splash-ikki-tousen-ee-collaboration-pack.json](./156239-senran-kagura-peach-beach-splash-ikki-tousen-ee-collaboration-pack.json) |
+| Senran Kagura: Peach Beach Splash - Mega Accessory Pack | 226923 | [226923-senran-kagura-peach-beach-splash-mega-accessory-pack.json](./226923-senran-kagura-peach-beach-splash-mega-accessory-pack.json) |
+| Senran Kagura: Peach Beach Splash - Mega Weapon Pack | 226922 | [226922-senran-kagura-peach-beach-splash-mega-weapon-pack.json](./226922-senran-kagura-peach-beach-splash-mega-weapon-pack.json) |
 | Senran Kagura: Peach Beach Splash - Neptune Character Pack | 156243 | [156243-senran-kagura-peach-beach-splash-neptune-character-pack.json](./156243-senran-kagura-peach-beach-splash-neptune-character-pack.json) |
 | Senran Kagura: Peach Beach Splash - No Shirt, No Shoes, All Service Edition | 136217 | [136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json](./136217-senran-kagura-peach-beach-splash-no-shirt-no-shoes-all-service-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sunshine Edition | 136669 | [136669-senran-kagura-peach-beach-splash-sunshine-edition.json](./136669-senran-kagura-peach-beach-splash-sunshine-edition.json) |
+| Senran Kagura: Peach Beach Splash - Sunshine Swimsuit Pack | 226921 | [226921-senran-kagura-peach-beach-splash-sunshine-swimsuit-pack.json](./226921-senran-kagura-peach-beach-splash-sunshine-swimsuit-pack.json) |
 | Senran Kagura: Peach Beach Splash - Taunt Pack | 156242 | [156242-senran-kagura-peach-beach-splash-taunt-pack.json](./156242-senran-kagura-peach-beach-splash-taunt-pack.json) |
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
 | Senran Kagura: Shinovi Versus - Let's Get Physical Edition | 42703 | [42703-senran-kagura-shinovi-versus-lets-get-physical-edition.json](./42703-senran-kagura-shinovi-versus-lets-get-physical-edition.json) |
@@ -12441,6 +12449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singular Stone | 182230 | [182230-singular-stone.json](./182230-singular-stone.json) |
 | Singularis | 146485 | [146485-singularis.json](./146485-singularis.json) |
 | Singularity | 171896 | [171896-singularity.json](./171896-singularity.json) |
+| Singularity | 226920 | [226920-singularity.json](./226920-singularity.json) |
 | Singularity | 302486 | [302486-singularity.json](./302486-singularity.json) |
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
@@ -14364,6 +14373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
 | Slayaway Camp: Monthly Murderers Series 1 | 174430 | [174430-slayaway-camp-monthly-murderers-series-1.json](./174430-slayaway-camp-monthly-murderers-series-1.json) |
+| Slayaway Camp: Supernatural Forces Killer Pack | 226919 | [226919-slayaway-camp-supernatural-forces-killer-pack.json](./226919-slayaway-camp-supernatural-forces-killer-pack.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
 | Slayer | 197595 | [197595-slayer.json](./197595-slayer.json) |
@@ -16164,6 +16174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Dimension | 89716 | [89716-snake-dimension.json](./89716-snake-dimension.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake Effect | 280634 | [280634-snake-effect.json](./280634-snake-effect.json) |
+| Snake Escape | 226918 | [226918-snake-escape.json](./226918-snake-escape.json) |
 | Snake Escape | 45245 | [45245-snake-escape.json](./45245-snake-escape.json) |
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
 | Snake EX2 | 119435 | [119435-snake-ex2.json](./119435-snake-ex2.json) |
@@ -16520,6 +16531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Deluxe Edition | 194661 | [194661-sniper-elite-5-deluxe-edition.json](./194661-sniper-elite-5-deluxe-edition.json) |
 | Sniper Elite 5: Kraken Awakes - Mission, Weapon and Skin Pack | 255688 | [255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json](./255688-sniper-elite-5-kraken-awakes-mission-weapon-and-skin-pack.json) |
+| Sniper Elite 5: Landing Force Mission and Weapon Pack | 226917 | [226917-sniper-elite-5-landing-force-mission-and-weapon-pack.json](./226917-sniper-elite-5-landing-force-mission-and-weapon-pack.json) |
 | Sniper Elite 5: P.1938 Suppressed Pistol | 307286 | [307286-sniper-elite-5-p-1938-suppressed-pistol.json](./307286-sniper-elite-5-p-1938-suppressed-pistol.json) |
 | Sniper Elite 5: Rough Landing - Mission and Weapon Pack | 255687 | [255687-sniper-elite-5-rough-landing-mission-and-weapon-pack.json](./255687-sniper-elite-5-rough-landing-mission-and-weapon-pack.json) |
 | Sniper Elite 5: Saboteur Weapon and Skin Pack | 307285 | [307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json](./307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json) |
@@ -16682,6 +16694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker | 401990 | [401990-snooker.json](./401990-snooker.json) |
 | Snooker | 79490 | [79490-snooker.json](./79490-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
+| Snooker 19: Challenge Pack | 226916 | [226916-snooker-19-challenge-pack.json](./226916-snooker-19-challenge-pack.json) |
 | Snooker 19: Gold Edition | 136015 | [136015-snooker-19-gold-edition.json](./136015-snooker-19-gold-edition.json) |
 | Snooker Blitz | 315913 | [315913-snooker-blitz.json](./315913-snooker-blitz.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
@@ -20757,6 +20770,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet City | 19866 | [19866-soviet-city.json](./19866-soviet-city.json) |
 | Soviet Hentai | 167409 | [167409-soviet-hentai.json](./167409-soviet-hentai.json) |
 | Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
+| Soviet Jump Game: Founder's Pack | 226915 | [226915-soviet-jump-game-founders-pack.json](./226915-soviet-jump-game-founders-pack.json) |
+| Soviet Jump Game: Kaiju Chaos Bundle | 226914 | [226914-soviet-jump-game-kaiju-chaos-bundle.json](./226914-soviet-jump-game-kaiju-chaos-bundle.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
 | Soviet Project | 272423 | [272423-soviet-project.json](./272423-soviet-project.json) |
@@ -22973,6 +22988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
 | SpeedOverflow | 251784 | [251784-speedoverflow.json](./251784-speedoverflow.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
+| Speedpunk: Garage Pack | 226913 | [226913-speedpunk-garage-pack.json](./226913-speedpunk-garage-pack.json) |
 | Speedpunk: Greeble city | 168002 | [168002-speedpunk-greeble-city.json](./168002-speedpunk-greeble-city.json) |
 | Speedpunk: Last neo | 168001 | [168001-speedpunk-last-neo.json](./168001-speedpunk-last-neo.json) |
 | Speedpunk: Scorching heat | 168003 | [168003-speedpunk-scorching-heat.json](./168003-speedpunk-scorching-heat.json) |
@@ -22994,10 +23010,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
 | SpeedRunners | 9527 | [9527-speedrunners.json](./9527-speedrunners.json) |
 | SpeedRunners 2: King of Speed | 339614 | [339614-speedrunners-2-king-of-speed.json](./339614-speedrunners-2-king-of-speed.json) |
+| SpeedRunners: Civil Dispute! Character Pack | 226912 | [226912-speedrunners-civil-dispute-character-pack.json](./226912-speedrunners-civil-dispute-character-pack.json) |
 | SpeedRunners: Deluxe Edition | 165849 | [165849-speedrunners-deluxe-edition.json](./165849-speedrunners-deluxe-edition.json) |
 | SpeedRunners: FortKnight's Fast Faction | 238042 | [238042-speedrunners-fortknights-fast-faction.json](./238042-speedrunners-fortknights-fast-faction.json) |
 | SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
+| SpeedRunners: Youtuber Pack 1 | 226911 | [226911-speedrunners-youtuber-pack-1.json](./226911-speedrunners-youtuber-pack-1.json) |
 | SpeedRunners: Youtuber Pack 2 | 202202 | [202202-speedrunners-youtuber-pack-2.json](./202202-speedrunners-youtuber-pack-2.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
 | Speedshot | 387827 | [387827-speedshot.json](./387827-speedshot.json) |
@@ -23929,6 +23947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
 | SpiralGo | 360871 | [360871-spiralgo.json](./360871-spiralgo.json) |
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
+| Spire | 226910 | [226910-spire.json](./226910-spire.json) |
 | Spire | 312244 | [312244-spire.json](./312244-spire.json) |
 | Spire | 61767 | [61767-spire.json](./61767-spire.json) |
 | Spire Adventure | 233422 | [233422-spire-adventure.json](./233422-spire-adventure.json) |
@@ -29919,6 +29938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straight!? | 215781 | [215781-straight.json](./215781-straight.json) |
 | Straightforward | 372238 | [372238-straightforward.json](./372238-straightforward.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
+| Strain | 226909 | [226909-strain.json](./226909-strain.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strain | 260826 | [260826-strain.json](./260826-strain.json) |
 | Strain Tactics | 28701 | [28701-strain-tactics.json](./28701-strain-tactics.json) |
@@ -30707,6 +30727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
 | Street Legal | 73757 | [73757-street-legal.json](./73757-street-legal.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
+| Street Legal Racing: Redline - High Quality Cars Pack | 226908 | [226908-street-legal-racing-redline-high-quality-cars-pack.json](./226908-street-legal-racing-redline-high-quality-cars-pack.json) |
 | Street Legal Racing: Redline v2.3.1 | 32221 | [32221-street-legal-racing-redline-v2-3-1.json](./32221-street-legal-racing-redline-v2-3-1.json) |
 | Street Legal: Revision | 173363 | [173363-street-legal-revision.json](./173363-street-legal-revision.json) |
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
@@ -35659,6 +35680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
 | Super Robot War X | 342999 | [342999-super-robot-war-x.json](./342999-super-robot-war-x.json) |
 | Super Robot Wars 30 | 152371 | [152371-super-robot-wars-30.json](./152371-super-robot-wars-30.json) |
+| Super Robot Wars 30: Bonus Mission Pack | 226906 | [226906-super-robot-wars-30-bonus-mission-pack.json](./226906-super-robot-wars-30-bonus-mission-pack.json) |
 | Super Robot Wars 30: Digital Deluxe Edition | 220922 | [220922-super-robot-wars-30-digital-deluxe-edition.json](./220922-super-robot-wars-30-digital-deluxe-edition.json) |
 | Super Robot Wars 30: Digital Ultimate Edition | 220923 | [220923-super-robot-wars-30-digital-ultimate-edition.json](./220923-super-robot-wars-30-digital-ultimate-edition.json) |
 | Super Robot Wars 30: DLC 2 | 238811 | [238811-super-robot-wars-30-dlc-2.json](./238811-super-robot-wars-30-dlc-2.json) |
