@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Expurriment | 254020 | [254020-a-simple-expurriment.json](./254020-a-simple-expurriment.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
+| A Simple Job | 220764 | [220764-a-simple-job.json](./220764-a-simple-job.json) |
 | A Simple Job | 347422 | [347422-a-simple-job.json](./347422-a-simple-job.json) |
 | A Simple Life | 300879 | [300879-a-simple-life.json](./300879-a-simple-life.json) |
 | A Simple Life with My Unobtrusive Sister | 373573 | [373573-a-simple-life-with-my-unobtrusive-sister.json](./373573-a-simple-life-with-my-unobtrusive-sister.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
 | ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
+| ABC Match with Me: Extended Edition | 220896 | [220896-abc-match-with-me-extended-edition.json](./220896-abc-match-with-me-extended-edition.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Monday Night Football | 11884 | [11884-abc-monday-night-football.json](./11884-abc-monday-night-football.json) |
 | ABC Monday Night Football '98 | 62319 | [62319-abc-monday-night-football-98.json](./62319-abc-monday-night-football-98.json) |
@@ -5817,6 +5819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikatsu On Parade! | 320311 | [320311-aikatsu-on-parade.json](./320311-aikatsu-on-parade.json) |
 | Aikatsu Stars! First Appeal | 222422 | [222422-aikatsu-stars-first-appeal.json](./222422-aikatsu-stars-first-appeal.json) |
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
+| Aikatsu! Cinderella Lesson | 220359 | [220359-aikatsu-cinderella-lesson.json](./220359-aikatsu-cinderella-lesson.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
 | Aikatsu! My No. 1 Stage | 165144 | [165144-aikatsu-my-no-1-stage.json](./165144-aikatsu-my-no-1-stage.json) |
 | Aikatsu! Photo on Stage!! | 58935 | [58935-aikatsu-photo-on-stage.json](./58935-aikatsu-photo-on-stage.json) |
