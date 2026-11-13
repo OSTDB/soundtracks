@@ -18019,6 +18019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
 | The Sims 3: Showtime Katy Perry Collector's Edition | 30145 | [30145-the-sims-3-showtime-katy-perry-collectors-edition.json](./30145-the-sims-3-showtime-katy-perry-collectors-edition.json) |
+| The Sims 3: Starter Pack | 202308 | [202308-the-sims-3-starter-pack.json](./202308-the-sims-3-starter-pack.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
 | The Sims 3: Supernatural | 7645 | [7645-the-sims-3-supernatural.json](./7645-the-sims-3-supernatural.json) |
 | The Sims 3: Town Life Stuff | 13120 | [13120-the-sims-3-town-life-stuff.json](./13120-the-sims-3-town-life-stuff.json) |
@@ -27951,6 +27952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toradora Portable! | 42752 | [42752-toradora-portable.json](./42752-toradora-portable.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
+| Toraware no Kan | 202877 | [202877-toraware-no-kan.json](./202877-toraware-no-kan.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
 | Toraware no Palm: Deluxe Edition | 136967 | [136967-toraware-no-palm-deluxe-edition.json](./136967-toraware-no-palm-deluxe-edition.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
@@ -29384,6 +29386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Hanoi | 306294 | [306294-tower-of-hanoi.json](./306294-tower-of-hanoi.json) |
 | Tower of Hanoi Puzzle | 219893 | [219893-tower-of-hanoi-puzzle.json](./219893-tower-of-hanoi-puzzle.json) |
+| Tower of Hell | 202284 | [202284-tower-of-hell.json](./202284-tower-of-hell.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower of Hermes | 298776 | [298776-tower-of-hermes.json](./298776-tower-of-hermes.json) |
 | Tower of Hero | 314204 | [314204-tower-of-hero.json](./314204-tower-of-hero.json) |
@@ -36427,6 +36430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two-Sided Runner | 333741 | [333741-two-sided-runner.json](./333741-two-sided-runner.json) |
 | Two-Tenkaku | 43849 | [43849-two-tenkaku.json](./43849-two-tenkaku.json) |
 | Two-Timin' Towers | 142113 | [142113-two-timin-towers.json](./142113-two-timin-towers.json) |
+| Two's | 202287 | [202287-twos.json](./202287-twos.json) |
 | TwoBrains OneShip | 378588 | [378588-twobrains-oneship.json](./378588-twobrains-oneship.json) |
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofishtysix | 397481 | [397481-twofishtysix.json](./397481-twofishtysix.json) |
