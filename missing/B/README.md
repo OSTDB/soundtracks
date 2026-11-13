@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista: Rise and Grind | 210963 | [210963-barista-rise-and-grind.json](./210963-barista-rise-and-grind.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barji Kart | 223065 | [223065-barji-kart.json](./223065-barji-kart.json) |
+| Bark | 202426 | [202426-bark.json](./202426-bark.json) |
 | Bark & Blade | 420015 | [420015-bark-and-blade.json](./420015-bark-and-blade.json) |
 | Bark and Catch | 392070 | [392070-bark-and-catch.json](./392070-bark-and-catch.json) |
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
@@ -10832,6 +10833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
 | Blaze Rush | 330569 | [330569-blaze-rush.json](./330569-blaze-rush.json) |
+| Blaze the Cat Dress Up | 202305 | [202305-blaze-the-cat-dress-up.json](./202305-blaze-the-cat-dress-up.json) |
 | Blaze the Cat in Sonic the Hedgehog | 203483 | [203483-blaze-the-cat-in-sonic-the-hedgehog.json](./203483-blaze-the-cat-in-sonic-the-hedgehog.json) |
 | Blaze Union + Knights in the Nightmare Remastered Collection | 410803 | [410803-blaze-union-knights-in-the-nightmare-remastered-collection.json](./410803-blaze-union-knights-in-the-nightmare-remastered-collection.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
@@ -12666,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Balls | 376832 | [376832-blue-balls.json](./376832-blue-balls.json) |
 | Blue Balls | 64035 | [64035-blue-balls.json](./64035-blue-balls.json) |
 | Blue Barbarian Man | 181067 | [181067-blue-barbarian-man.json](./181067-blue-barbarian-man.json) |
+| Blue Bayou | 202268 | [202268-blue-bayou.json](./202268-blue-bayou.json) |
 | Blue Beard | 194786 | [194786-blue-beard.json](./194786-blue-beard.json) |
 | Blue Beard 2 | 194787 | [194787-blue-beard-2.json](./194787-blue-beard-2.json) |
 | Blue Bird | 33721 | [33721-blue-bird.json](./33721-blue-bird.json) |
@@ -15811,6 +15814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games | 167193 | [167193-brain-games.json](./167193-brain-games.json) |
 | Brain Games | 247277 | [247277-brain-games.json](./247277-brain-games.json) |
 | Brain Games | 54843 | [54843-brain-games.json](./54843-brain-games.json) |
+| Brain Games Colour | 202880 | [202880-brain-games-colour.json](./202880-brain-games-colour.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
@@ -19458,6 +19462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | Burger: The Tasty Burger Game | 87294 | [87294-burger-the-tasty-burger-game.json](./87294-burger-the-tasty-burger-game.json) |
 | Burgerkill | 66987 | [66987-burgerkill.json](./66987-burgerkill.json) |
+| Burgerline | 202272 | [202272-burgerline.json](./202272-burgerline.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
 | Burgers 2 | 30521 | [30521-burgers-2.json](./30521-burgers-2.json) |
 | BurgerTime | 199462 | [199462-burgertime.json](./199462-burgertime.json) |
