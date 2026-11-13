@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Puzzle | 207199 | [207199-heavenly-puzzle.json](./207199-heavenly-puzzle.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenly Way Legend | 326013 | [326013-heavenly-way-legend.json](./326013-heavenly-way-legend.json) |
+| Heavens' Revolution: A Lion Among the Cypress | 211332 | [211332-heavens-revolution-a-lion-among-the-cypress.json](./211332-heavens-revolution-a-lion-among-the-cypress.json) |
 | Heavensborne | 276535 | [276535-heavensborne.json](./276535-heavensborne.json) |
 | Heavenscape | 252442 | [252442-heavenscape.json](./252442-heavenscape.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
@@ -7126,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexahedra | 148188 | [148188-hexahedra.json](./148188-hexahedra.json) |
 | Hexahedral | 314461 | [314461-hexahedral.json](./314461-hexahedral.json) |
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
+| Hexahedron | 211343 | [211343-hexahedron.json](./211343-hexahedron.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | HexaLife | 158117 | [158117-hexalife.json](./158117-hexalife.json) |
 | Hexalith | 350702 | [350702-hexalith.json](./350702-hexalith.json) |
@@ -10169,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
 | Homebound: New Beginnings | 237214 | [237214-homebound-new-beginnings.json](./237214-homebound-new-beginnings.json) |
+| Homebound: The Last Stand | 211353 | [211353-homebound-the-last-stand.json](./211353-homebound-the-last-stand.json) |
 | Homebrew32 | 279473 | [279473-homebrew32.json](./279473-homebrew32.json) |
 | Homecall | 310789 | [310789-homecall.json](./310789-homecall.json) |
 | Homecoming | 179386 | [179386-homecoming.json](./179386-homecoming.json) |
@@ -13043,6 +13046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt in Town | 137840 | [137840-hunt-in-town.json](./137840-hunt-in-town.json) |
 | Hunt Me | 305972 | [305972-hunt-me.json](./305972-hunt-me.json) |
+| Hunt of the Reptorians | 211344 | [211344-hunt-of-the-reptorians.json](./211344-hunt-of-the-reptorians.json) |
 | Hunt or Die! | 389506 | [389506-hunt-or-die.json](./389506-hunt-or-die.json) |
 | Hunt or Hunted Bundle | 330439 | [330439-hunt-or-hunted-bundle.json](./330439-hunt-or-hunted-bundle.json) |
 | Hunt Planet Bug | 133351 | [133351-hunt-planet-bug.json](./133351-hunt-planet-bug.json) |
