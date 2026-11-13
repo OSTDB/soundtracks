@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yars' Return | 130702 | [130702-yars-return.json](./130702-yars-return.json) |
 | Yars' Revenge | 151837 | [151837-yars-revenge.json](./151837-yars-revenge.json) |
 | Yars' Revenge | 9757 | [9757-yars-revenge.json](./9757-yars-revenge.json) |
+| Yars' Revenge Enhanced | 230601 | [230601-yars-revenge-enhanced.json](./230601-yars-revenge-enhanced.json) |
 | Yart | 274124 | [274124-yart.json](./274124-yart.json) |
 | Yarudora Portable: Blood the Last Vampire | 65025 | [65025-yarudora-portable-blood-the-last-vampire.json](./65025-yarudora-portable-blood-the-last-vampire.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Buddy Duo Pack | 154556 | [154556-yooka-laylee-buddy-duo-pack.json](./154556-yooka-laylee-buddy-duo-pack.json) |
 | Yooka-Laylee: Collector's Edition | 109236 | [109236-yooka-laylee-collectors-edition.json](./109236-yooka-laylee-collectors-edition.json) |
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
+| Yoomp! | 230603 | [230603-yoomp.json](./230603-yoomp.json) |
 | Yoomp! 64 | 196372 | [196372-yoomp-64.json](./196372-yoomp-64.json) |
 | Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
@@ -2219,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurei Station | 28495 | [28495-yurei-station.json](./28495-yurei-station.json) |
 | Yurei: Ink of the Damned | 388552 | [388552-yurei-ink-of-the-damned.json](./388552-yurei-ink-of-the-damned.json) |
 | Yureishia Eiyuusenki: Chronicle of Arstenia 500 | 409846 | [409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json](./409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json) |
+| Yuri Academy: My Secret Girl | 232737 | [232737-yuri-academy-my-secret-girl.json](./232737-yuri-academy-my-secret-girl.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
 | Yuri Dating Agency | 150818 | [150818-yuri-dating-agency.json](./150818-yuri-dating-agency.json) |
 | Yuri Kago no Sora | 133739 | [133739-yuri-kago-no-sora.json](./133739-yuri-kago-no-sora.json) |
