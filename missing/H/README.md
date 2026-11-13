@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution: Untold | 1024 | [1024-hacker-evolution-untold.json](./1024-hacker-evolution-untold.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacker life simulator | 205750 | [205750-hacker-life-simulator.json](./205750-hacker-life-simulator.json) |
+| Hacker Man | 204004 | [204004-hacker-man.json](./204004-hacker-man.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
@@ -3257,6 +3258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayarigami: Keishichou Kaii Jiken File | 257765 | [257765-hayarigami-keishichou-kaii-jiken-file.json](./257765-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayarigami: Keishichou Kaii Jiken File | 259602 | [259602-hayarigami-keishichou-kaii-jiken-file.json](./259602-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
+| Hayate no Gotoku! CardBattlers | 203999 | [203999-hayate-no-gotoku-cardbattlers.json](./203999-hayate-no-gotoku-cardbattlers.json) |
+| Hayate no Gotoku! Nightmare Paradise | 203996 | [203996-hayate-no-gotoku-nightmare-paradise.json](./203996-hayate-no-gotoku-nightmare-paradise.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
 | Hayate the Battle: Hyper Real Battle Action | 350193 | [350193-hayate-the-battle-hyper-real-battle-action.json](./350193-hayate-the-battle-hyper-real-battle-action.json) |
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
@@ -8483,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Cross | 220429 | [220429-highway-cross.json](./220429-highway-cross.json) |
 | Highway Crossing Madruga | 252898 | [252898-highway-crossing-madruga.json](./252898-highway-crossing-madruga.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
+| Highway Driving | 204014 | [204014-highway-driving.json](./204014-highway-driving.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
 | Highway Encounter | 13877 | [13877-highway-encounter.json](./13877-highway-encounter.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
