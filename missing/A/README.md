@@ -4108,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Kanjiro Chapter 1 | 410401 | [410401-adventure-of-kanjiro-chapter-1.json](./410401-adventure-of-kanjiro-chapter-1.json) |
 | Adventure of Leek | 191068 | [191068-adventure-of-leek.json](./191068-adventure-of-leek.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
+| Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Roger | 284264 | [284264-adventure-of-roger.json](./284264-adventure-of-roger.json) |
 | Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
@@ -4818,6 +4819,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Armageddon Gaiden: Majuu Toushouden Eclipse | 46396 | [46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json](./46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 198606 | [198606-after-burner.json](./198606-after-burner.json) |
+| After Burner | 200148 | [200148-after-burner.json](./200148-after-burner.json) |
+| After Burner | 200166 | [200166-after-burner.json](./200166-after-burner.json) |
 | After Burner | 309253 | [309253-after-burner.json](./309253-after-burner.json) |
 | After Burner | 365007 | [365007-after-burner.json](./365007-after-burner.json) |
 | After Burner | 365008 | [365008-after-burner.json](./365008-after-burner.json) |
@@ -6411,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Simulator: First Class | 228158 | [228158-airport-simulator-first-class.json](./228158-airport-simulator-first-class.json) |
+| Airport Time Machine | 200087 | [200087-airport-time-machine.json](./200087-airport-time-machine.json) |
 | Airport Tower Simulator 2012 | 52385 | [52385-airport-tower-simulator-2012.json](./52385-airport-tower-simulator-2012.json) |
 | Airport Trucks Car Parking Simulator | 254722 | [254722-airport-trucks-car-parking-simulator.json](./254722-airport-trucks-car-parking-simulator.json) |
 | Airport Tycoon | 78900 | [78900-airport-tycoon.json](./78900-airport-tycoon.json) |
@@ -10081,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ananas: Pineapple Idle Game | 337815 | [337815-ananas-pineapple-idle-game.json](./337815-ananas-pineapple-idle-game.json) |
 | Anandala | 303159 | [303159-anandala.json](./303159-anandala.json) |
 | Ananias | 56898 | [56898-ananias.json](./56898-ananias.json) |
+| Ananias Fellowship | 200083 | [200083-ananias-fellowship.json](./200083-ananias-fellowship.json) |
 | Ananke | 221293 | [221293-ananke.json](./221293-ananke.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anant Express | 361950 | [361950-anant-express.json](./361950-anant-express.json) |
@@ -17535,6 +17540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
+| Astral Light | 200085 | [200085-astral-light.json](./200085-astral-light.json) |
 | Astral Lodge | 347459 | [347459-astral-lodge.json](./347459-astral-lodge.json) |
 | Astral Lords | 392083 | [392083-astral-lords.json](./392083-astral-lords.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
