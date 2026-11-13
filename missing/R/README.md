@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Robin | 123829 | [123829-rainbow-robin.json](./123829-rainbow-robin.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
 | Rainbow Run | 119979 | [119979-rainbow-run.json](./119979-rainbow-run.json) |
+| Rainbow Run: Free Expansion Pack | 226983 | [226983-rainbow-run-free-expansion-pack.json](./226983-rainbow-run-free-expansion-pack.json) |
 | Rainbow Runner | 249586 | [249586-rainbow-runner.json](./249586-rainbow-runner.json) |
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
 | Rainbow Six Mobile | 200333 | [200333-rainbow-six-mobile.json](./200333-rainbow-six-mobile.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage 2: Universal Tour | 200417 | [200417-rampage-2-universal-tour.json](./200417-rampage-2-universal-tour.json) |
 | Rampage 2: Universal Tour | 3583 | [3583-rampage-2-universal-tour.json](./3583-rampage-2-universal-tour.json) |
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
+| Rampage Ball 2048 | 226980 | [226980-rampage-ball-2048.json](./226980-rampage-ball-2048.json) |
 | Rampage Kage | 406993 | [406993-rampage-kage.json](./406993-rampage-kage.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Puzzle Attack | 6552 | [6552-rampage-puzzle-attack.json](./6552-rampage-puzzle-attack.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
 | Rat Bastard | 184771 | [184771-rat-bastard.json](./184771-rat-bastard.json) |
+| Rat Cage | 226981 | [226981-rat-cage.json](./226981-rat-cage.json) |
 | Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
 | Rat Chaos | 173423 | [173423-rat-chaos.json](./173423-rat-chaos.json) |
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
@@ -2576,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayland 2 | 235499 | [235499-rayland-2.json](./235499-rayland-2.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
 | Rayless | 29655 | [29655-rayless.json](./29655-rayless.json) |
+| Rayless Blade | 226982 | [226982-rayless-blade.json](./226982-rayless-blade.json) |
 | Rayman | 142129 | [142129-rayman.json](./142129-rayman.json) |
 | Rayman | 165558 | [165558-rayman.json](./165558-rayman.json) |
 | Rayman | 193321 | [193321-rayman.json](./193321-rayman.json) |
