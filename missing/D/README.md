@@ -15768,6 +15768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draculesti | 265622 | [265622-draculesti.json](./265622-draculesti.json) |
 | Draculius | 69406 | [69406-draculius.json](./69406-draculius.json) |
+| DraeAscaria | 211346 | [211346-draeascaria.json](./211346-draeascaria.json) |
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports College Basketball 3 | 34174 | [34174-draft-day-sports-college-basketball-3.json](./34174-draft-day-sports-college-basketball-3.json) |
