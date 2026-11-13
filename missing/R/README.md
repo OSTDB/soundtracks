@@ -5346,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remedy | 93324 | [93324-remedy.json](./93324-remedy.json) |
+| Remegeton | 229400 | [229400-remegeton.json](./229400-remegeton.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
 | Remember | 350935 | [350935-remember.json](./350935-remember.json) |
 | Remember Christmas | 329334 | [329334-remember-christmas.json](./329334-remember-christmas.json) |
