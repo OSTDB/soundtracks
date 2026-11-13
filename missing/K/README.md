@@ -5771,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
 | Kongregate Chat | 262050 | [262050-kongregate-chat.json](./262050-kongregate-chat.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
+| Koni: The Secrets of Castle | 192485 | [192485-koni-the-secrets-of-castle.json](./192485-koni-the-secrets-of-castle.json) |
 | Konike | 249974 | [249974-konike.json](./249974-konike.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Makai no Bookmark | 49679 | [49679-konjiki-no-gash-bell-makai-no-bookmark.json](./49679-konjiki-no-gash-bell-makai-no-bookmark.json) |
