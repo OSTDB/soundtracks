@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
 | In Fair Spirits | 271008 | [271008-in-fair-spirits.json](./271008-in-fair-spirits.json) |
 | In Falsus | 342204 | [342204-in-falsus.json](./342204-in-falsus.json) |
+| In Fear I Trust: Episode 2 - The Last Desk | 171647 | [171647-in-fear-i-trust-episode-2-the-last-desk.json](./171647-in-fear-i-trust-episode-2-the-last-desk.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
 | In Freedom Rest Ideal Tomorrows | 247900 | [247900-in-freedom-rest-ideal-tomorrows.json](./247900-in-freedom-rest-ideal-tomorrows.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invader of the Galaxy | 374528 | [374528-invader-of-the-galaxy.json](./374528-invader-of-the-galaxy.json) |
 | Invader Signal | 207404 | [207404-invader-signal.json](./207404-invader-signal.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
+| Invader TD | 171646 | [171646-invader-td.json](./171646-invader-td.json) |
 | Invader's Revenge | 38572 | [38572-invaders-revenge.json](./38572-invaders-revenge.json) |
 | Invaders | 170422 | [170422-invaders.json](./170422-invaders.json) |
 | Invaders | 217960 | [217960-invaders.json](./217960-invaders.json) |
