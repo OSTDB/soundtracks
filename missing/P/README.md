@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
 | Patton Strikes Back: The Battle of the Bulge | 73568 | [73568-patton-strikes-back-the-battle-of-the-bulge.json](./73568-patton-strikes-back-the-battle-of-the-bulge.json) |
 | Patton: Armored Assault | 210016 | [210016-patton-armored-assault.json](./210016-patton-armored-assault.json) |
+| Patty's Pumpkin Patch | 223734 | [223734-pattys-pumpkin-patch.json](./223734-pattys-pumpkin-patch.json) |
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
