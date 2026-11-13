@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Creature's Journey | 260560 | [260560-a-creatures-journey.json](./260560-a-creatures-journey.json) |
 | A credit card | 176659 | [176659-a-credit-card.json](./176659-a-credit-card.json) |
+| A Crimp in Time | 186212 | [186212-a-crimp-in-time.json](./186212-a-crimp-in-time.json) |
 | A Crimson Spring | 71436 | [71436-a-crimson-spring.json](./71436-a-crimson-spring.json) |
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
 | A Crow in Hell | 393519 | [393519-a-crow-in-hell.json](./393519-a-crow-in-hell.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
+| A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
 | A Key(s) Path | 182617 | [182617-a-key-s-path.json](./182617-a-key-s-path.json) |
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
@@ -5900,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikokuryuu no Memoria | 257455 | [257455-aikokuryuu-no-memoria.json](./257455-aikokuryuu-no-memoria.json) |
 | Aikyam | 302904 | [302904-aikyam.json](./302904-aikyam.json) |
 | Aileronia | 392098 | [392098-aileronia.json](./392098-aileronia.json) |
+| AiliA | 185733 | [185733-ailia.json](./185733-ailia.json) |
 | Ailin: Traps and Treasures | 210576 | [210576-ailin-traps-and-treasures.json](./210576-ailin-traps-and-treasures.json) |
 | Ailing Space | 176201 | [176201-ailing-space.json](./176201-ailing-space.json) |
 | Ailment | 120310 | [120310-ailment.json](./120310-ailment.json) |
@@ -19782,6 +19785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
+| Average4k | 185725 | [185725-average4k.json](./185725-average4k.json) |
 | Averi the Accursed | 406910 | [406910-averi-the-accursed.json](./406910-averi-the-accursed.json) |
 | Averno | 13358 | [13358-averno.json](./13358-averno.json) |
 | Avernoth | 390049 | [390049-avernoth.json](./390049-avernoth.json) |
