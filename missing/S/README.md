@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy | 388188 | [388188-sandy.json](./388188-sandy.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sandy and the "Jewelry" | 421815 | [421815-sandy-and-the-jewelry.json](./421815-sandy-and-the-jewelry.json) |
+| Sandy at the Telephone Company | 229980 | [229980-sandy-at-the-telephone-company.json](./229980-sandy-at-the-telephone-company.json) |
 | Sandy Beach | 85366 | [85366-sandy-beach.json](./85366-sandy-beach.json) |
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
@@ -21160,6 +21161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
 | Space Engineers: Ultimate Edition 2020 | 164714 | [164714-space-engineers-ultimate-edition-2020.json](./164714-space-engineers-ultimate-edition-2020.json) |
 | Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
+| Space Engineers: Ultimate Edition 2022 | 229989 | [229989-space-engineers-ultimate-edition-2022.json](./229989-space-engineers-ultimate-edition-2022.json) |
 | Space Engineers: Ultimate Edition 2023 | 280417 | [280417-space-engineers-ultimate-edition-2023.json](./280417-space-engineers-ultimate-edition-2023.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
 | Space Entity | 253622 | [253622-space-entity.json](./253622-space-entity.json) |
