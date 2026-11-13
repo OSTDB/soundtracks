@@ -12423,6 +12423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutspill | 403929 | [403929-gutspill.json](./403929-gutspill.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
+| Gutsy the Guinea Pig | 185736 | [185736-gutsy-the-guinea-pig.json](./185736-gutsy-the-guinea-pig.json) |
 | Guttang Gottong | 91509 | [91509-guttang-gottong.json](./91509-guttang-gottong.json) |
 | Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
 | Gutter | 94371 | [94371-gutter.json](./94371-gutter.json) |
