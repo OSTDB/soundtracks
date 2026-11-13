@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of Blackveil | 341668 | [341668-raiders-of-blackveil.json](./341668-raiders-of-blackveil.json) |
 | Raiders of Chanyu | 121940 | [121940-raiders-of-chanyu.json](./121940-raiders-of-chanyu.json) |
 | Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
+| Raiders of Ruin | 228196 | [228196-raiders-of-ruin.json](./228196-raiders-of-ruin.json) |
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders of the Broken Planet - Founders Pack | 82424 | [82424-raiders-of-the-broken-planet-founders-pack.json](./82424-raiders-of-the-broken-planet-founders-pack.json) |
@@ -13381,6 +13382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
 | Run Zeus Run | 68498 | [68498-run-zeus-run.json](./68498-run-zeus-run.json) |
 | Run Zombie Run | 100373 | [100373-run-zombie-run.json](./100373-run-zombie-run.json) |
+| Run-A-Whale | 228185 | [228185-run-a-whale.json](./228185-run-a-whale.json) |
 | Run-Gunners' Revenge | 240663 | [240663-run-gunners-revenge.json](./240663-run-gunners-revenge.json) |
 | Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
