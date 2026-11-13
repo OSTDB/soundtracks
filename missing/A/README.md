@@ -7780,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien3: The Gun | 38520 | [38520-alien3-the-gun.json](./38520-alien3-the-gun.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienated | 259790 | [259790-alienated.json](./259790-alienated.json) |
+| Alienated 2 | 241610 | [241610-alienated-2.json](./241610-alienated-2.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | Alienators: Evolution Continues | 49166 | [49166-alienators-evolution-continues.json](./49166-alienators-evolution-continues.json) |
@@ -9169,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
+| Amazo | 241680 | [241680-amazo.json](./241680-amazo.json) |
 | Amazon | 2305 | [2305-amazon.json](./2305-amazon.json) |
 | Amazon Animals | 346901 | [346901-amazon-animals.json](./346901-amazon-animals.json) |
 | Amazon Odyssey | 75111 | [75111-amazon-odyssey.json](./75111-amazon-odyssey.json) |
