@@ -4933,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
 | Terranova | 176160 | [176160-terranova.json](./176160-terranova.json) |
 | Terranova | 193634 | [193634-terranova.json](./193634-terranova.json) |
+| TerraNova: Escape Room | 196783 | [196783-terranova-escape-room.json](./196783-terranova-escape-room.json) |
 | TerraNova: Legend of the Runes | 423303 | [423303-terranova-legend-of-the-runes.json](./423303-terranova-legend-of-the-runes.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
@@ -22408,6 +22409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Gates | 361354 | [361354-through-the-gates.json](./361354-through-the-gates.json) |
 | Through the Helios | 148849 | [148849-through-the-helios.json](./148849-through-the-helios.json) |
 | Through the Hoop | 239442 | [239442-through-the-hoop.json](./239442-through-the-hoop.json) |
+| Through the Kill Screen | 196756 | [196756-through-the-kill-screen.json](./196756-through-the-kill-screen.json) |
 | Through the Lens | 392977 | [392977-through-the-lens.json](./392977-through-the-lens.json) |
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
@@ -26408,6 +26410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
+| Tobor Party | 196782 | [196782-tobor-party.json](./196782-tobor-party.json) |
 | Tobot: Action Quiz Heroes | 346000 | [346000-tobot-action-quiz-heroes.json](./346000-tobot-action-quiz-heroes.json) |
 | TobPaCharge | 311841 | [311841-tobpacharge.json](./311841-tobpacharge.json) |
 | Tobruk: The Clash of Armour | 36906 | [36906-tobruk-the-clash-of-armour.json](./36906-tobruk-the-clash-of-armour.json) |
