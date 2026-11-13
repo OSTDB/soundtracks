@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
 | Kaiju Busters | 85225 | [85225-kaiju-busters.json](./85225-kaiju-busters.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
+| Kaiju Cleaner | 227048 | [227048-kaiju-cleaner.json](./227048-kaiju-cleaner.json) |
 | Kaiju Cleaner Simulator | 368798 | [368798-kaiju-cleaner-simulator.json](./368798-kaiju-cleaner-simulator.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaisa: Resurrection | 212145 | [212145-kaisa-resurrection.json](./212145-kaisa-resurrection.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaiser | 15236 | [15236-kaiser.json](./15236-kaiser.json) |
+| Kaiser | 227051 | [227051-kaiser.json](./227051-kaiser.json) |
 | Kaiser | 76157 | [76157-kaiser.json](./76157-kaiser.json) |
 | KaiseR Land 01 | 273181 | [273181-kaiser-land-01.json](./273181-kaiser-land-01.json) |
 | KaiseR Land 02 | 273182 | [273182-kaiser-land-02.json](./273182-kaiser-land-02.json) |
@@ -1530,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaz: Pushing the Virtual Divide | 22147 | [22147-kaz-pushing-the-virtual-divide.json](./22147-kaz-pushing-the-virtual-divide.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
 | Kaz's Adventure 2: Lost Souls | 219879 | [219879-kazs-adventure-2-lost-souls.json](./219879-kazs-adventure-2-lost-souls.json) |
+| Kaz's Adventure: Extra Level Pack | 227050 | [227050-kazs-adventure-extra-level-pack.json](./227050-kazs-adventure-extra-level-pack.json) |
 | Kazaam | 217676 | [217676-kazaam.json](./217676-kazaam.json) |
 | Kazak | 239685 | [239685-kazak.json](./239685-kazak.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
@@ -1862,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemeko Deluxe! DS: Yome to Meka to Otoko to Onna | 123343 | [123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json](./123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json) |
 | Kemet X | 271089 | [271089-kemet-x.json](./271089-kemet-x.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
+| Kemomi-chan's Journey: Enlightened Girl and the Innocent Doll | 227049 | [227049-kemomi-chans-journey-enlightened-girl-and-the-innocent-doll.json](./227049-kemomi-chans-journey-enlightened-girl-and-the-innocent-doll.json) |
 | Kemono Dash! | 222247 | [222247-kemono-dash.json](./222247-kemono-dash.json) |
 | Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
 | Kemono Friends 3 | 114000 | [114000-kemono-friends-3.json](./114000-kemono-friends-3.json) |
@@ -3054,7 +3058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
