@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven Sunrises | 210962 | [210962-eleven-sunrises.json](./210962-eleven-sunrises.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleven's Quest | 245183 | [245183-elevens-quest.json](./245183-elevens-quest.json) |
+| Elevenses | 228178 | [228178-elevenses.json](./228178-elevenses.json) |
 | Elevenses: The Flask | 123974 | [123974-elevenses-the-flask.json](./123974-elevenses-the-flask.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elevral | 393044 | [393044-elevral.json](./393044-elevral.json) |
@@ -2916,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elkabo: Selina's Dark Spirit | 137845 | [137845-elkabo-selinas-dark-spirit.json](./137845-elkabo-selinas-dark-spirit.json) |
 | Elkrone no Atelier: Dear for Otomate | 58057 | [58057-elkrone-no-atelier-dear-for-otomate.json](./58057-elkrone-no-atelier-dear-for-otomate.json) |
 | Elkrone no Atelier: Dear for Otomate Limited Edition | 253495 | [253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json](./253495-elkrone-no-atelier-dear-for-otomate-limited-edition.json) |
+| Ell's Kitchen | 228177 | [228177-ells-kitchen.json](./228177-ells-kitchen.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
 | Ella's Nightmare | 384173 | [384173-ellas-nightmare.json](./384173-ellas-nightmare.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
@@ -5868,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia | 311586 | [311586-escape-gaia.json](./311586-escape-gaia.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
+| Escape Game | 228150 | [228150-escape-game.json](./228150-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
 | Escape game & Card search game: R01m | 213801 | [213801-escape-game-and-card-search-game-r01m.json](./213801-escape-game-and-card-search-game-r01m.json) |
 | Escape Game Cake | 122037 | [122037-escape-game-cake.json](./122037-escape-game-cake.json) |
