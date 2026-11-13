@@ -6861,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
 | Ben 10 Game Generator | 130941 | [130941-ben-10-game-generator.json](./130941-ben-10-game-generator.json) |
 | Ben 10 Game Generator 4D | 131350 | [131350-ben-10-game-generator-4d.json](./131350-ben-10-game-generator-4d.json) |
+| Ben 10 Omni-Charged | 242835 | [242835-ben-10-omni-charged.json](./242835-ben-10-omni-charged.json) |
 | Ben 10 Omniverse: Rise of Heroes | 298766 | [298766-ben-10-omniverse-rise-of-heroes.json](./298766-ben-10-omniverse-rise-of-heroes.json) |
 | Ben 10 Omniverse: The Return of Psyphon | 344520 | [344520-ben-10-omniverse-the-return-of-psyphon.json](./344520-ben-10-omniverse-the-return-of-psyphon.json) |
 | Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
 | Ben 10 Ultimate Alien: Ultimate Defense | 353641 | [353641-ben-10-ultimate-alien-ultimate-defense.json](./353641-ben-10-ultimate-alien-ultimate-defense.json) |
 | Ben 10 Ultimate Alien: Xenodrome Plus | 405291 | [405291-ben-10-ultimate-alien-xenodrome-plus.json](./405291-ben-10-ultimate-alien-xenodrome-plus.json) |
+| Ben 10 VR | 242828 | [242828-ben-10-vr.json](./242828-ben-10-vr.json) |
 | Ben 10: 001 - Character: Ben Tennyson | 363184 | [363184-ben-10-001-character-ben-tennyson.json](./363184-ben-10-001-character-ben-tennyson.json) |
 | Ben 10: 002 - Character: Four Arms | 363186 | [363186-ben-10-002-character-four-arms.json](./363186-ben-10-002-character-four-arms.json) |
 | Ben 10: 003 - Character: Stinkfly | 363187 | [363187-ben-10-003-character-stinkfly.json](./363187-ben-10-003-character-stinkfly.json) |
@@ -15651,6 +15653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
 | Bradshaw Football '98 | 206473 | [206473-bradshaw-football-98.json](./206473-bradshaw-football-98.json) |
 | Bradyon Veda | 372659 | [372659-bradyon-veda.json](./372659-bradyon-veda.json) |
+| Brageskålen | 242752 | [242752-brageskalen.json](./242752-brageskalen.json) |
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
 | Bragnarok | 275123 | [275123-bragnarok.json](./275123-bragnarok.json) |
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
