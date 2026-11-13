@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Headcase | 129400 | [129400-dead-by-daylight-headcase.json](./129400-dead-by-daylight-headcase.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
 | Dead by Daylight: Hour of the Witch Chapter | 193756 | [193756-dead-by-daylight-hour-of-the-witch-chapter.json](./193756-dead-by-daylight-hour-of-the-witch-chapter.json) |
+| Dead by Daylight: Killer Expansion Pack | 225408 | [225408-dead-by-daylight-killer-expansion-pack.json](./225408-dead-by-daylight-killer-expansion-pack.json) |
 | Dead by Daylight: Leatherface | 76225 | [76225-dead-by-daylight-leatherface.json](./76225-dead-by-daylight-leatherface.json) |
 | Dead by Daylight: Left Behind | 129398 | [129398-dead-by-daylight-left-behind.json](./129398-dead-by-daylight-left-behind.json) |
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Stranger Things Chapter 2 | 388693 | [388693-dead-by-daylight-stranger-things-chapter-2.json](./388693-dead-by-daylight-stranger-things-chapter-2.json) |
 | Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
 | Dead by Daylight: Survivor Edition | 136716 | [136716-dead-by-daylight-survivor-edition.json](./136716-dead-by-daylight-survivor-edition.json) |
+| Dead by Daylight: Survivor Expansion Pack | 225409 | [225409-dead-by-daylight-survivor-expansion-pack.json](./225409-dead-by-daylight-survivor-expansion-pack.json) |
 | Dead by Daylight: The 80's Suitcase | 227406 | [227406-dead-by-daylight-the-80s-suitcase.json](./227406-dead-by-daylight-the-80s-suitcase.json) |
 | Dead by Daylight: The Bloodstained Sack | 227407 | [227407-dead-by-daylight-the-bloodstained-sack.json](./227407-dead-by-daylight-the-bloodstained-sack.json) |
 | Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
@@ -5384,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay - Part 3 | 92220 | [92220-decay-part-3.json](./92220-decay-part-3.json) |
+| Decay Collection | 225410 | [225410-decay-collection.json](./225410-decay-collection.json) |
 | Decay in Crevice | 358621 | [358621-decay-in-crevice.json](./358621-decay-in-crevice.json) |
 | Decay of Logos | 56510 | [56510-decay-of-logos.json](./56510-decay-of-logos.json) |
 | Decay of Men | 394353 | [394353-decay-of-men.json](./394353-decay-of-men.json) |
@@ -9849,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | Dig-N-Rig | 51309 | [51309-dig-n-rig.json](./51309-dig-n-rig.json) |
+| Dig-Rock: Documentary of Youthful Sounds | 225387 | [225387-dig-rock-documentary-of-youthful-sounds.json](./225387-dig-rock-documentary-of-youthful-sounds.json) |
 | Dig, Craft, Kill | 391547 | [391547-dig-craft-kill.json](./391547-dig-craft-kill.json) |
 | Dig, Dig, Die | 384126 | [384126-dig-dig-die.json](./384126-dig-dig-die.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
@@ -13909,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 3: Another Rise! | 234771 | [234771-donkey-kong-3-another-rise.json](./234771-donkey-kong-3-another-rise.json) |
 | Donkey Kong 3: Dai Gyakushuu | 56218 | [56218-donkey-kong-3-dai-gyakushuu.json](./56218-donkey-kong-3-dai-gyakushuu.json) |
+| Donkey Kong 4 | 225405 | [225405-donkey-kong-4.json](./225405-donkey-kong-4.json) |
 | Donkey Kong 5: The Journey of Over Time and Space | 222279 | [222279-donkey-kong-5-the-journey-of-over-time-and-space.json](./222279-donkey-kong-5-the-journey-of-over-time-and-space.json) |
 | Donkey Kong 64 | 1096 | [1096-donkey-kong-64.json](./1096-donkey-kong-64.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
@@ -20835,6 +20840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyadem | 381352 | [381352-dyadem.json](./381352-dyadem.json) |
 | Dyadin | 84450 | [84450-dyadin.json](./84450-dyadin.json) |
 | Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
+| Dyar Beach | 225404 | [225404-dyar-beach.json](./225404-dyar-beach.json) |
 | Dyatlov Canyon | 264393 | [264393-dyatlov-canyon.json](./264393-dyatlov-canyon.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
 | Dye Hard | 211512 | [211512-dye-hard.json](./211512-dye-hard.json) |
