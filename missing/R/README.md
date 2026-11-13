@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
 | Race for Tuning | 115167 | [115167-race-for-tuning.json](./115167-race-for-tuning.json) |
+| Race for Your Life | 190114 | [190114-race-for-your-life.json](./190114-race-for-your-life.json) |
 | Race Horses Champions | 87488 | [87488-race-horses-champions.json](./87488-race-horses-champions.json) |
 | Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
@@ -2349,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Ratdoodle Adventure | 381982 | [381982-ratdoodle-adventure.json](./381982-ratdoodle-adventure.json) |
 | Rate & State | 423050 | [423050-rate-and-state.json](./423050-rate-and-state.json) |
+| Rated Mutant | 190121 | [190121-rated-mutant.json](./190121-rated-mutant.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
@@ -5528,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Reaper: FPV Drone | 338625 | [338625-remote-reaper-fpv-drone.json](./338625-remote-reaper-fpv-drone.json) |
 | Remote Union | 410941 | [410941-remote-union.json](./410941-remote-union.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
+| Remoteness | 190111 | [190111-remoteness.json](./190111-remoteness.json) |
 | Remothered: Broken Porcelain | 117309 | [117309-remothered-broken-porcelain.json](./117309-remothered-broken-porcelain.json) |
 | Remothered: Broken Porcelain Remastered | 409008 | [409008-remothered-broken-porcelain-remastered.json](./409008-remothered-broken-porcelain-remastered.json) |
 | Remothered: Red Nun's Legacy | 394670 | [394670-remothered-red-nuns-legacy.json](./394670-remothered-red-nuns-legacy.json) |
@@ -8669,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Vanguard | 346525 | [346525-rise-of-the-vanguard.json](./346525-rise-of-the-vanguard.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
+| Rise of the White Sun | 190122 | [190122-rise-of-the-white-sun.json](./190122-rise-of-the-white-sun.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise of the Wool Ball | 195859 | [195859-rise-of-the-wool-ball.json](./195859-rise-of-the-wool-ball.json) |
 | Rise of Three Kingdoms | 172068 | [172068-rise-of-three-kingdoms.json](./172068-rise-of-three-kingdoms.json) |
