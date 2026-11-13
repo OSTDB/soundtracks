@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsword M Shadow of Luna | 109972 | [109972-elsword-m-shadow-of-luna.json](./109972-elsword-m-shadow-of-luna.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
 | Elta: Defy All Gods | 414942 | [414942-elta-defy-all-gods.json](./414942-elta-defy-all-gods.json) |
+| Elthinia | 200069 | [200069-elthinia.json](./200069-elthinia.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
 | Elude | 93802 | [93802-elude.json](./93802-elude.json) |
