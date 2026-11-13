@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 45743 | [45743-magic-bubble.json](./45743-magic-bubble.json) |
 | Magic Bubble Shooter: Classic Bubbles Arcade | 248868 | [248868-magic-bubble-shooter-classic-bubbles-arcade.json](./248868-magic-bubble-shooter-classic-bubbles-arcade.json) |
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
+| Magic Builder | 204591 | [204591-magic-builder.json](./204591-magic-builder.json) |
 | Magic Card: CZ12 | 287690 | [287690-magic-card-cz12.json](./287690-magic-card-cz12.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
@@ -4576,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Final Adventure Wii | 294772 | [294772-marios-final-adventure-wii.json](./294772-marios-final-adventure-wii.json) |
 | Mario's Final Adventure Wii Returns | 336105 | [336105-marios-final-adventure-wii-returns.json](./336105-marios-final-adventure-wii-returns.json) |
 | Mario's Game Gallery | 21624 | [21624-marios-game-gallery.json](./21624-marios-game-gallery.json) |
+| Mario's Grand Adventure | 204588 | [204588-marios-grand-adventure.json](./204588-marios-grand-adventure.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
 | Mario's Journey | 318862 | [318862-marios-journey.json](./318862-marios-journey.json) |
@@ -4646,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marippy | 310649 | [310649-marippy.json](./310649-marippy.json) |
 | Marisa and Alice | 83712 | [83712-marisa-and-alice.json](./83712-marisa-and-alice.json) |
+| Marisa and Alice's Trap Tower | 204589 | [204589-marisa-and-alices-trap-tower.json](./204589-marisa-and-alices-trap-tower.json) |
 | Marisa and Alice's Trap Tower Remake | 63064 | [63064-marisa-and-alices-trap-tower-remake.json](./63064-marisa-and-alices-trap-tower-remake.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
@@ -21508,6 +21511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Kingdom | 108690 | [108690-music-kingdom.json](./108690-music-kingdom.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
+| Music Man | 204601 | [204601-music-man.json](./204601-music-man.json) |
 | Music Man 2: New land | 259707 | [259707-music-man-2-new-land.json](./259707-music-man-2-new-land.json) |
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
 | Music Maniaz | 425442 | [425442-music-maniaz.json](./425442-music-maniaz.json) |
@@ -23026,6 +23030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pretend Mall | 95802 | [95802-my-pretend-mall.json](./95802-my-pretend-mall.json) |
 | My Pretend New York City - Big Apple Friends | 102667 | [102667-my-pretend-new-york-city-big-apple-friends.json](./102667-my-pretend-new-york-city-big-apple-friends.json) |
 | My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
+| My Pretty Kitty | 204597 | [204597-my-pretty-kitty.json](./204597-my-pretty-kitty.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
 | My Puppy Fiancé | 196452 | [196452-my-puppy-fiance.json](./196452-my-puppy-fiance.json) |
