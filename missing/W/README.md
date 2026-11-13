@@ -5736,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West | 76861 | [76861-wild-west.json](./76861-wild-west.json) |
 | Wild West and Wizards | 117639 | [117639-wild-west-and-wizards.json](./117639-wild-west-and-wizards.json) |
 | Wild West Blast | 298454 | [298454-wild-west-blast.json](./298454-wild-west-blast.json) |
+| Wild West Builder | 211880 | [211880-wild-west-builder.json](./211880-wild-west-builder.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Chase | 415991 | [415991-wild-west-chase.json](./415991-wild-west-chase.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
@@ -7376,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Online | 27131 | [27131-wizardry-online.json](./27131-wizardry-online.json) |
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
 | Wizardry Scenario #1: Proving Grounds of the Mad Overlord | 370739 | [370739-wizardry-scenario-1-proving-grounds-of-the-mad-overlord.json](./370739-wizardry-scenario-1-proving-grounds-of-the-mad-overlord.json) |
+| Wizardry School: Escape Room | 211855 | [211855-wizardry-school-escape-room.json](./211855-wizardry-school-escape-room.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Summoner | 60870 | [60870-wizardry-summoner.json](./60870-wizardry-summoner.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
@@ -9298,6 +9300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
 | World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
+| World War II Europe 1939-1945 | 211845 | [211845-world-war-ii-europe-1939-1945.json](./211845-world-war-ii-europe-1939-1945.json) |
 | World War II GI | 2533 | [2533-world-war-ii-gi.json](./2533-world-war-ii-gi.json) |
 | World War II Shooting Simulator | 289197 | [289197-world-war-ii-shooting-simulator.json](./289197-world-war-ii-shooting-simulator.json) |
 | World War II: Airplanes Battle | 313443 | [313443-world-war-ii-airplanes-battle.json](./313443-world-war-ii-airplanes-battle.json) |
