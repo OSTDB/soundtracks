@@ -9758,6 +9758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Even More Incredible Machine | 70233 | [70233-the-even-more-incredible-machine.json](./70233-the-even-more-incredible-machine.json) |
 | The Evening of the Son | 393155 | [393155-the-evening-of-the-son.json](./393155-the-evening-of-the-son.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
+| The Event Horizon | 223103 | [223103-the-event-horizon.json](./223103-the-event-horizon.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Events at Unity Farm: Magic & Melee | 279391 | [279391-the-events-at-unity-farm-magic-and-melee.json](./279391-the-events-at-unity-farm-magic-and-melee.json) |
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
@@ -9840,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expedition | 197577 | [197577-the-expedition.json](./197577-the-expedition.json) |
 | The Expedition | 343022 | [343022-the-expedition.json](./343022-the-expedition.json) |
+| The Expedition Squad | 223187 | [223187-the-expedition-squad.json](./223187-the-expedition-squad.json) |
 | The Expendables | 23368 | [23368-the-expendables.json](./23368-the-expendables.json) |
 | The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
@@ -11367,6 +11369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
 | The Happenings At Bowers End | 323627 | [323627-the-happenings-at-bowers-end.json](./323627-the-happenings-at-bowers-end.json) |
+| The Happies: Amber Falcon | 223191 | [223191-the-happies-amber-falcon.json](./223191-the-happies-amber-falcon.json) |
 | The Happies: Doomsday Stories | 247879 | [247879-the-happies-doomsday-stories.json](./247879-the-happies-doomsday-stories.json) |
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
 | The Happy Dismal Town | 192718 | [192718-the-happy-dismal-town.json](./192718-the-happy-dismal-town.json) |
@@ -12393,6 +12396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Burger Climb | 332565 | [332565-the-jumping-burger-climb.json](./332565-the-jumping-burger-climb.json) |
 | The Jumping Burger Rush | 317418 | [317418-the-jumping-burger-rush.json](./317418-the-jumping-burger-rush.json) |
 | The Jumping Burger: Halloween Edition | 221689 | [221689-the-jumping-burger-halloween-edition.json](./221689-the-jumping-burger-halloween-edition.json) |
+| The Jumping Burger: Halloween Edition - Turbo | 222588 | [222588-the-jumping-burger-halloween-edition-turbo.json](./222588-the-jumping-burger-halloween-edition-turbo.json) |
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Jumping Burrito | 208381 | [208381-the-jumping-burrito.json](./208381-the-jumping-burrito.json) |
 | The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
@@ -25717,6 +25721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tireless: Prepare For the Adrenaline | 103279 | [103279-tireless-prepare-for-the-adrenaline.json](./103279-tireless-prepare-for-the-adrenaline.json) |
 | Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tireur de Couleur | 197983 | [197983-tireur-de-couleur.json](./197983-tireur-de-couleur.json) |
+| Tiririca Interativo | 223118 | [223118-tiririca-interativo.json](./223118-tiririca-interativo.json) |
 | Tiris | 363646 | [363646-tiris.json](./363646-tiris.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tirsy's Tale | 207611 | [207611-tirsys-tale.json](./207611-tirsys-tale.json) |
