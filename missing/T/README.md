@@ -14183,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
+| The Little Spirit of the East | 209079 | [209079-the-little-spirit-of-the-east.json](./209079-the-little-spirit-of-the-east.json) |
 | The Little Star Spirit | 199998 | [199998-the-little-star-spirit.json](./199998-the-little-star-spirit.json) |
 | The Little Tales of Alexandria | 304757 | [304757-the-little-tales-of-alexandria.json](./304757-the-little-tales-of-alexandria.json) |
 | The Little Tank Hunter | 152940 | [152940-the-little-tank-hunter.json](./152940-the-little-tank-hunter.json) |
@@ -28962,13 +28963,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
 | Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
 | Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
+| Touhou Spell Bubble: Gensokyo Holoism Pack | 209096 | [209096-touhou-spell-bubble-gensokyo-holoism-pack.json](./209096-touhou-spell-bubble-gensokyo-holoism-pack.json) |
 | Touhou Spell Bubble: Liz Triangle Song Pack | 209355 | [209355-touhou-spell-bubble-liz-triangle-song-pack.json](./209355-touhou-spell-bubble-liz-triangle-song-pack.json) |
 | Touhou Spell Bubble: Rhythm Game Song Pack | 209443 | [209443-touhou-spell-bubble-rhythm-game-song-pack.json](./209443-touhou-spell-bubble-rhythm-game-song-pack.json) |
 | Touhou Spell Bubble: Rhythm Game Song Pack Vol.2 | 226059 | [226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json](./226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
+| Touhou Spell Bubble: Side Story Pack - Cirno Arc | 209114 | [209114-touhou-spell-bubble-side-story-pack-cirno-arc.json](./209114-touhou-spell-bubble-side-story-pack-cirno-arc.json) |
 | Touhou Spell Bubble: Side Story Pack - Yukari Arc | 209120 | [209120-touhou-spell-bubble-side-story-pack-yukari-arc.json](./209120-touhou-spell-bubble-side-story-pack-yukari-arc.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Sound Holic - Song Pack | 224507 | [224507-touhou-spell-bubble-sound-holic-song-pack.json](./224507-touhou-spell-bubble-sound-holic-song-pack.json) |
+| Touhou Spell Bubble: Special Music Pack Vol. 3 | 209075 | [209075-touhou-spell-bubble-special-music-pack-vol-3.json](./209075-touhou-spell-bubble-special-music-pack-vol-3.json) |
+| Touhou Spell Bubble: Special Music Pack Vol. 4 | 209086 | [209086-touhou-spell-bubble-special-music-pack-vol-4.json](./209086-touhou-spell-bubble-special-music-pack-vol-4.json) |
+| Touhou Spell Bubble: Special Music Pack Vol. 5 | 209093 | [209093-touhou-spell-bubble-special-music-pack-vol-5.json](./209093-touhou-spell-bubble-special-music-pack-vol-5.json) |
 | Touhou Spell Bubble: Special Song Pack Vol. 1 | 208752 | [208752-touhou-spell-bubble-special-song-pack-vol-1.json](./208752-touhou-spell-bubble-special-song-pack-vol-1.json) |
 | Touhou Spell Bubble: TamaOnSen - Song Pack | 209326 | [209326-touhou-spell-bubble-tamaonsen-song-pack.json](./209326-touhou-spell-bubble-tamaonsen-song-pack.json) |
 | Touhou Spell Bubble: Touhou Chireiden - Arrangements Pack | 209325 | [209325-touhou-spell-bubble-touhou-chireiden-arrangements-pack.json](./209325-touhou-spell-bubble-touhou-chireiden-arrangements-pack.json) |
@@ -28978,6 +28984,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Touhou Eurobeat Pack Vol.2 | 209327 | [209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json](./209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json) |
 | Touhou Spell Bubble: Touhou Fujinroku Arrangements Pack | 209138 | [209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json](./209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Seirensen Arrangements Pack | 209524 | [209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json](./209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json) |
+| Touhou Spell Bubble: Touhou Youyoumu - Arrangements Pack | 209112 | [209112-touhou-spell-bubble-touhou-youyoumu-arrangements-pack.json](./209112-touhou-spell-bubble-touhou-youyoumu-arrangements-pack.json) |
+| Touhou Spell Bubble: Yuuhei Satellite Music Pack | 209104 | [209104-touhou-spell-bubble-yuuhei-satellite-music-pack.json](./209104-touhou-spell-bubble-yuuhei-satellite-music-pack.json) |
 | Touhou Spell Carnival | 280479 | [280479-touhou-spell-carnival.json](./280479-touhou-spell-carnival.json) |
 | Touhou Spell Carnival: Digital Deluxe Edition | 320673 | [320673-touhou-spell-carnival-digital-deluxe-edition.json](./320673-touhou-spell-carnival-digital-deluxe-edition.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
