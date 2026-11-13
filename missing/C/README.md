@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
 | Cactus Simulator 2 | 266986 | [266986-cactus-simulator-2.json](./266986-cactus-simulator-2.json) |
 | Cactus Simulator Remake | 370166 | [370166-cactus-simulator-remake.json](./370166-cactus-simulator-remake.json) |
+| Cactus Simulator: Bofete Stories | 195675 | [195675-cactus-simulator-bofete-stories.json](./195675-cactus-simulator-bofete-stories.json) |
 | Cactus Venture | 246017 | [246017-cactus-venture.json](./246017-cactus-venture.json) |
 | Cad Cam Warrior | 313335 | [313335-cad-cam-warrior.json](./313335-cad-cam-warrior.json) |
 | Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
@@ -8006,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico Bento: A Fuga das Galinhas | 281887 | [281887-chico-bento-a-fuga-das-galinhas.json](./281887-chico-bento-a-fuga-das-galinhas.json) |
 | Chico Bento: Um Dia na Roça | 216294 | [216294-chico-bento-um-dia-na-roca.json](./216294-chico-bento-um-dia-na-roca.json) |
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
+| Chico's Family-Friendly Circus | 195685 | [195685-chicos-family-friendly-circus.json](./195685-chicos-family-friendly-circus.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | Chicobanana: Space Pong | 232101 | [232101-chicobanana-space-pong.json](./232101-chicobanana-space-pong.json) |
 | Chicocos S.A. | 276896 | [276896-chicocos-s-a.json](./276896-chicocos-s-a.json) |
@@ -11425,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climate Survivors | 306307 | [306307-climate-survivors.json](./306307-climate-survivors.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climax Cards: Blackjack | 382086 | [382086-climax-cards-blackjack.json](./382086-climax-cards-blackjack.json) |
+| Climax Heroines | 195653 | [195653-climax-heroines.json](./195653-climax-heroines.json) |
 | Climax Landers: Motte ke! Minige Campaign | 283331 | [283331-climax-landers-motte-ke-minige-campaign.json](./283331-climax-landers-motte-ke-minige-campaign.json) |
 | Climax Tennis: WTA Tour Edition | 58387 | [58387-climax-tennis-wta-tour-edition.json](./58387-climax-tennis-wta-tour-edition.json) |
 | Climb | 103965 | [103965-climb.json](./103965-climb.json) |
@@ -18032,6 +18035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
 | Crash Test Launcher | 132074 | [132074-crash-test-launcher.json](./132074-crash-test-launcher.json) |
+| Crash Test Oliver | 195743 | [195743-crash-test-oliver.json](./195743-crash-test-oliver.json) |
 | Crash The Car Death Race | 364074 | [364074-crash-the-car-death-race.json](./364074-crash-the-car-death-race.json) |
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
 | Crash the Core | 139669 | [139669-crash-the-core.json](./139669-crash-the-core.json) |
