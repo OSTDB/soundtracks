@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the Mafia | 157395 | [157395-fall-of-the-mafia.json](./157395-fall-of-the-mafia.json) |
 | Fall of the Mist | 293684 | [293684-fall-of-the-mist.json](./293684-fall-of-the-mist.json) |
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
+| Fall of the New Age | 177095 | [177095-fall-of-the-new-age.json](./177095-fall-of-the-new-age.json) |
 | Fall of the New Age: Collector's Edition | 251468 | [251468-fall-of-the-new-age-collectors-edition.json](./251468-fall-of-the-new-age-collectors-edition.json) |
 | Fall of the New Age: Premium Edition | 36265 | [36265-fall-of-the-new-age-premium-edition.json](./36265-fall-of-the-new-age-premium-edition.json) |
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
