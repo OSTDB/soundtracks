@@ -1031,7 +1031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4744,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleline: Steel Warfare | 23630 | [23630-battleline-steel-warfare.json](./23630-battleline-steel-warfare.json) |
 | BattleLive: ZombieGhetto | 216085 | [216085-battlelive-zombieghetto.json](./216085-battlelive-zombieghetto.json) |
 | Battleloot Adventure | 186442 | [186442-battleloot-adventure.json](./186442-battleloot-adventure.json) |
+| BattleLore: Command: Locust - Expansion Pack | 227042 | [227042-battlelore-command-locust-expansion-pack.json](./227042-battlelore-command-locust-expansion-pack.json) |
 | Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
 | Battlemage Training | 74137 | [74137-battlemage-training.json](./74137-battlemage-training.json) |
 | Battlemage VR | 113450 | [113450-battlemage-vr.json](./113450-battlemage-vr.json) |
@@ -9991,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Spire | 207102 | [207102-black-spire.json](./207102-black-spire.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
+| Black Squad Royal Road | 227436 | [227436-black-squad-royal-road.json](./227436-black-squad-royal-road.json) |
 | Black Square | 335204 | [335204-black-square.json](./335204-black-square.json) |
 | Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
