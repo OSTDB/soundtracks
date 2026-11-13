@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReactorX 3 | 331906 | [331906-reactorx-3.json](./331906-reactorx-3.json) |
 | ReactorX 4 | 428427 | [428427-reactorx-4.json](./428427-reactorx-4.json) |
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
+| Read and Learn Bible | 209232 | [209232-read-and-learn-bible.json](./209232-read-and-learn-bible.json) |
 | Read Only Memories: Double Pack | 323983 | [323983-read-only-memories-double-pack.json](./323983-read-only-memories-double-pack.json) |
 | Read Only Memories: Neurodiver | 119401 | [119401-read-only-memories-neurodiver.json](./119401-read-only-memories-neurodiver.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
@@ -9104,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road & Car | 70141 | [70141-road-and-car.json](./70141-road-and-car.json) |
 | Road & Car: Test Drive III - The Passion: Add-On Disk 1 | 218647 | [218647-road-and-car-test-drive-iii-the-passion-add-on-disk-1.json](./218647-road-and-car-test-drive-iii-the-passion-add-on-disk-1.json) |
 | Road & Track Presents: The Need for Speed | 45465 | [45465-road-and-track-presents-the-need-for-speed.json](./45465-road-and-track-presents-the-need-for-speed.json) |
+| Road & Track Presents: The Need for Speed - Special Edition | 209107 | [209107-road-and-track-presents-the-need-for-speed-special-edition.json](./209107-road-and-track-presents-the-need-for-speed-special-edition.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
 | Road 7 | 334535 | [334535-road-7.json](./334535-road-7.json) |
 | Road 88 | 427839 | [427839-road-88.json](./427839-road-88.json) |
@@ -9996,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocher no Nagai Yoru | 265215 | [265215-rocher-no-nagai-yoru.json](./265215-rocher-no-nagai-yoru.json) |
 | Rochinko | 366572 | [366572-rochinko.json](./366572-rochinko.json) |
 | Rock - A True Story | 70852 | [70852-rock-a-true-story.json](./70852-rock-a-true-story.json) |
+| Rock 'em Sock 'em Fish | 209099 | [209099-rock-em-sock-em-fish.json](./209099-rock-em-sock-em-fish.json) |
 | Rock 'Em Sock 'Em Robots | 146679 | [146679-rock-em-sock-em-robots.json](./146679-rock-em-sock-em-robots.json) |
 | Rock 'N Racing Bundle 3 in 1 | 147689 | [147689-rock-n-racing-bundle-3-in-1.json](./147689-rock-n-racing-bundle-3-in-1.json) |
 | Rock 'N Racing Bundle Grand Prix & Rally | 147793 | [147793-rock-n-racing-bundle-grand-prix-and-rally.json](./147793-rock-n-racing-bundle-grand-prix-and-rally.json) |
@@ -10137,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock the Rim | 379545 | [379545-rock-the-rim.json](./379545-rock-the-rim.json) |
 | Rock the World: A Reading Adventure | 230448 | [230448-rock-the-world-a-reading-adventure.json](./230448-rock-the-world-a-reading-adventure.json) |
+| Rock Tour | 209088 | [209088-rock-tour.json](./209088-rock-tour.json) |
 | Rock Tour Tycoon | 59289 | [59289-rock-tour-tycoon.json](./59289-rock-tour-tycoon.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
 | Rock UFO | 267331 | [267331-rock-ufo.json](./267331-rock-ufo.json) |
@@ -10191,6 +10195,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Boots Mania: Space Train | 332909 | [332909-rocket-boots-mania-space-train.json](./332909-rocket-boots-mania-space-train.json) |
 | Rocket Bots | 155941 | [155941-rocket-bots.json](./155941-rocket-bots.json) |
+| Rocket Bowl | 209105 | [209105-rocket-bowl.json](./209105-rocket-bowl.json) |
+| Rocket Bowl | 209106 | [209106-rocket-bowl.json](./209106-rocket-bowl.json) |
 | Rocket Boy | 120594 | [120594-rocket-boy.json](./120594-rocket-boy.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
@@ -10311,6 +10317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Man | 152089 | [152089-rocket-man.json](./152089-rocket-man.json) |
 | Rocket Man | 315331 | [315331-rocket-man.json](./315331-rocket-man.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
+| Rocket Mania | 209101 | [209101-rocket-mania.json](./209101-rocket-mania.json) |
 | Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
 | Rocket Monsters | 222689 | [222689-rocket-monsters.json](./222689-rocket-monsters.json) |
 | Rocket Mouse | 113254 | [113254-rocket-mouse.json](./113254-rocket-mouse.json) |
@@ -10673,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksuki: The Rescue of Ember! | 225403 | [225403-rocksuki-the-rescue-of-ember.json](./225403-rocksuki-the-rescue-of-ember.json) |
 | RockTop | 252270 | [252270-rocktop.json](./252270-rocktop.json) |
 | Rocktopus | 301904 | [301904-rocktopus.json](./301904-rocktopus.json) |
+| Rocky | 209089 | [209089-rocky.json](./209089-rocky.json) |
 | Rocky | 247438 | [247438-rocky.json](./247438-rocky.json) |
 | Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
