@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Ebb | 409903 | [409903-ebb.json](./409903-ebb.json) |
 | Ebbil: Alternative Bible | 284703 | [284703-ebbil-alternative-bible.json](./284703-ebbil-alternative-bible.json) |
+| EBE | 170595 | [170595-ebe.json](./170595-ebe.json) |
 | Ebenezer and the Invisible World | 244457 | [244457-ebenezer-and-the-invisible-world.json](./244457-ebenezer-and-the-invisible-world.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EEP 13 | 30969 | [30969-eep-13.json](./30969-eep-13.json) |
 | EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
 | EEP 15 | 112615 | [112615-eep-15.json](./112615-eep-15.json) |
+| EEP 16 | 170575 | [170575-eep-16.json](./170575-eep-16.json) |
 | EEP 17 | 193588 | [193588-eep-17.json](./193588-eep-17.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
 | EEP TSM Gotthard | 99066 | [99066-eep-tsm-gotthard.json](./99066-eep-tsm-gotthard.json) |
@@ -8472,6 +8474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | Exmortis 2 | 242164 | [242164-exmortis-2.json](./242164-exmortis-2.json) |
 | Exmortis 3 | 242163 | [242163-exmortis-3.json](./242163-exmortis-3.json) |
+| Exo | 170598 | [170598-exo.json](./170598-exo.json) |
 | Exo | 185737 | [185737-exo.json](./185737-exo.json) |
 | Exo | 398008 | [398008-exo.json](./398008-exo.json) |
 | Exo Attack | 346284 | [346284-exo-attack.json](./346284-exo-attack.json) |
