@@ -4036,7 +4036,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Kitty: Drill Buster - Lights Out | 316028 | [316028-adventure-kitty-drill-buster-lights-out.json](./316028-adventure-kitty-drill-buster-lights-out.json) |
-| Adventure Lamp | 24040 | [24040-adventure-lamp.json](./24040-adventure-lamp.json) |
 | Adventure Land | 78201 | [78201-adventure-land.json](./78201-adventure-land.json) |
 | Adventure Land: The Code MMORPG | 113728 | [113728-adventure-land-the-code-mmorpg.json](./113728-adventure-land-the-code-mmorpg.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
