@@ -9974,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherafflesia Flowering Abyss | 151691 | [151691-menherafflesia-flowering-abyss.json](./151691-menherafflesia-flowering-abyss.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
+| Menimals | 187570 | [187570-menimals.json](./187570-menimals.json) |
 | Menkalinan | 271058 | [271058-menkalinan.json](./271058-menkalinan.json) |
 | Menkyo wo Torou | 198292 | [198292-menkyo-wo-torou.json](./198292-menkyo-wo-torou.json) |
 | Menma's TERA | 249096 | [249096-menmas-tera.json](./249096-menmas-tera.json) |
@@ -12168,6 +12169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
 | Middle-earth: Shadow of War - Slaughter Tribe Nemesis | 164839 | [164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json](./164839-middle-earth-shadow-of-war-slaughter-tribe-nemesis.json) |
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
+| Middle-earth: The Shadow Bundle | 188059 | [188059-middle-earth-the-shadow-bundle.json](./188059-middle-earth-the-shadow-bundle.json) |
 | Miden Tower | 132190 | [132190-miden-tower.json](./132190-miden-tower.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
@@ -24387,6 +24389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: The Veil | 101234 | [101234-myths-of-the-world-the-veil.json](./101234-myths-of-the-world-the-veil.json) |
 | Myths of the World: The Whispering Marsh | 100052 | [100052-myths-of-the-world-the-whispering-marsh.json](./100052-myths-of-the-world-the-whispering-marsh.json) |
 | Myths of the World: Under the Surface - Collector's Edition | 345418 | [345418-myths-of-the-world-under-the-surface-collectors-edition.json](./345418-myths-of-the-world-under-the-surface-collectors-edition.json) |
+| Myths or Reality: Fairy Lands - Collector's Edition | 187991 | [187991-myths-or-reality-fairy-lands-collectors-edition.json](./187991-myths-or-reality-fairy-lands-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythsfall | 419973 | [419973-mythsfall.json](./419973-mythsfall.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
