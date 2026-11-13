@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
 | Voice of Cards: The Forsaken Maiden | 191259 | [191259-voice-of-cards-the-forsaken-maiden.json](./191259-voice-of-cards-the-forsaken-maiden.json) |
 | Voice of Cards: The Isle Dragon Roars | 171768 | [171768-voice-of-cards-the-isle-dragon-roars.json](./171768-voice-of-cards-the-isle-dragon-roars.json) |
+| Voice of Chernobyl | 193457 | [193457-voice-of-chernobyl.json](./193457-voice-of-chernobyl.json) |
 | Voice of Flowers | 274503 | [274503-voice-of-flowers.json](./274503-voice-of-flowers.json) |
 | Voice of God | 181349 | [181349-voice-of-god.json](./181349-voice-of-god.json) |
 | Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
