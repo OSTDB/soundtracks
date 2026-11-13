@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Mania | 255866 | [255866-action-mania.json](./255866-action-mania.json) |
 | Action Masters | 92808 | [92808-action-masters.json](./92808-action-masters.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
+| Action Ninja Dash | 237608 | [237608-action-ninja-dash.json](./237608-action-ninja-dash.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Pack 2 | 360238 | [360238-action-pack-2.json](./360238-action-pack-2.json) |
 | Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
@@ -4009,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in Russia: Road to Harvetsky | 367690 | [367690-adventure-in-russia-road-to-harvetsky.json](./367690-adventure-in-russia-road-to-harvetsky.json) |
+| Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
 | Adventure in the Dungeon | 316448 | [316448-adventure-in-the-dungeon.json](./316448-adventure-in-the-dungeon.json) |
 | Adventure in the Fifth Dimension | 21556 | [21556-adventure-in-the-fifth-dimension.json](./21556-adventure-in-the-fifth-dimension.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
@@ -7657,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Protection | 251926 | [251926-alien-protection.json](./251926-alien-protection.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
 | Alien Pyramid Challenge! | 67415 | [67415-alien-pyramid-challenge.json](./67415-alien-pyramid-challenge.json) |
+| Alien Quarantine | 237704 | [237704-alien-quarantine.json](./237704-alien-quarantine.json) |
 | Alien Quest: Eve | 159148 | [159148-alien-quest-eve.json](./159148-alien-quest-eve.json) |
 | Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
 | Alien Raiders | 72438 | [72438-alien-raiders.json](./72438-alien-raiders.json) |
