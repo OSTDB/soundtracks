@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Drift Kings | 233710 | [233710-idle-drift-kings.json](./233710-idle-drift-kings.json) |
 | Idle Drops | 99348 | [99348-idle-drops.json](./99348-idle-drops.json) |
 | Idle Dungeon | 285365 | [285365-idle-dungeon.json](./285365-idle-dungeon.json) |
+| Idle Dungeon Tycoon | 243983 | [243983-idle-dungeon-tycoon.json](./243983-idle-dungeon-tycoon.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
 | Idle Dunk Masters | 106663 | [106663-idle-dunk-masters.json](./106663-idle-dunk-masters.json) |
 | Idle Dyson Swarm | 313189 | [313189-idle-dyson-swarm.json](./313189-idle-dyson-swarm.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pixel Battle | 411410 | [411410-idle-pixel-battle.json](./411410-idle-pixel-battle.json) |
 | Idle Pixel Crush - Ball Crush | 105876 | [105876-idle-pixel-crush-ball-crush.json](./105876-idle-pixel-crush-ball-crush.json) |
 | Idle Pixel Fantasy | 369699 | [369699-idle-pixel-fantasy.json](./369699-idle-pixel-fantasy.json) |
+| Idle Pixel Heroes | 243986 | [243986-idle-pixel-heroes.json](./243986-idle-pixel-heroes.json) |
 | Idle Pixels | 364147 | [364147-idle-pixels.json](./364147-idle-pixels.json) |
 | Idle Pizza Business | 373736 | [373736-idle-pizza-business.json](./373736-idle-pizza-business.json) |
 | Idle Pizza Empire | 235299 | [235299-idle-pizza-empire.json](./235299-idle-pizza-empire.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Tycoon Manufacturing | 380951 | [380951-idle-tycoon-manufacturing.json](./380951-idle-tycoon-manufacturing.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
+| Idle Universe: Offline Miner MOD | 243990 | [243990-idle-universe-offline-miner-mod.json](./243990-idle-universe-offline-miner-mod.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
 | Idle University | 216124 | [216124-idle-university.json](./216124-idle-university.json) |
 | Idle Vikings Clicker | 215343 | [215343-idle-vikings-clicker.json](./215343-idle-vikings-clicker.json) |
