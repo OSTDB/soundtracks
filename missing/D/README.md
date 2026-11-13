@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Duelists | 272470 | [272470-dancing-duelists.json](./272470-dancing-duelists.json) |
 | Dancing Eyes | 392872 | [392872-dancing-eyes.json](./392872-dancing-eyes.json) |
 | Dancing Eyes | 39305 | [39305-dancing-eyes.json](./39305-dancing-eyes.json) |
+| Dancing For Cats | 179634 | [179634-dancing-for-cats.json](./179634-dancing-for-cats.json) |
 | Dancing Furby | 85717 | [85717-dancing-furby.json](./85717-dancing-furby.json) |
 | Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -10270,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dim Tower | 217074 | [217074-dim-tower.json](./217074-dim-tower.json) |
 | Dim X: Dimensional Explorer | 354576 | [354576-dim-x-dimensional-explorer.json](./354576-dim-x-dimensional-explorer.json) |
+| Dim-Egion | 179212 | [179212-dim-egion.json](./179212-dim-egion.json) |
 | Dim: A Light in the Dark | 181594 | [181594-dim-a-light-in-the-dark.json](./181594-dim-a-light-in-the-dark.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
@@ -15635,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
 | Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
 | Dr. Maria | 245761 | [245761-dr-maria.json](./245761-dr-maria.json) |
+| Dr. Mario | 179222 | [179222-dr-mario.json](./179222-dr-mario.json) |
 | Dr. Mario | 208424 | [208424-dr-mario.json](./208424-dr-mario.json) |
 | Dr. Mario | 311343 | [311343-dr-mario.json](./311343-dr-mario.json) |
 | Dr. Mario | 341926 | [341926-dr-mario.json](./341926-dr-mario.json) |
