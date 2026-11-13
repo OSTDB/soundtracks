@@ -7966,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Balls | 126711 | [126711-mega-balls.json](./126711-mega-balls.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bloks Halo | 26731 | [26731-mega-bloks-halo.json](./26731-mega-bloks-halo.json) |
+| Mega Bloks: Diego's Build and Rescue | 209111 | [209111-mega-bloks-diegos-build-and-rescue.json](./209111-mega-bloks-diegos-build-and-rescue.json) |
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Box | 123213 | [123213-mega-box.json](./123213-mega-box.json) |
@@ -12835,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilioNESy | 195511 | [195511-milionesy.json](./195511-milionesy.json) |
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | MilitAnt | 20877 | [20877-militant.json](./20877-militant.json) |
+| Militarism | 209225 | [209225-militarism.json](./209225-militarism.json) |
 | Militaristic Rain of Terror | 188461 | [188461-militaristic-rain-of-terror.json](./188461-militaristic-rain-of-terror.json) |
 | Military | 129942 | [129942-military.json](./129942-military.json) |
 | Military Action Pack Volume 1 | 80786 | [80786-military-action-pack-volume-1.json](./80786-military-action-pack-volume-1.json) |
@@ -12949,6 +12951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Dream | 349036 | [349036-millennium-dream.json](./349036-millennium-dream.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
 | Millennium Gamepak Platinum | 273906 | [273906-millennium-gamepak-platinum.json](./273906-millennium-gamepak-platinum.json) |
+| Millennium Gold | 209224 | [209224-millennium-gold.json](./209224-millennium-gold.json) |
 | Millennium Mantra | 209223 | [209223-millennium-mantra.json](./209223-millennium-mantra.json) |
 | Millennium MegaHits | 137374 | [137374-millennium-megahits.json](./137374-millennium-megahits.json) |
 | Millennium Mini-Episode | 263422 | [263422-millennium-mini-episode.json](./263422-millennium-mini-episode.json) |
