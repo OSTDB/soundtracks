@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Berserker: Endless War | 81132 | [81132-last-berserker-endless-war.json](./81132-last-berserker-endless-war.json) |
 | Last Bet | 221035 | [221035-last-bet.json](./221035-last-bet.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
+| Last Blood | 195669 | [195669-last-blood.json](./195669-last-blood.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
 | Last Bone | 406785 | [406785-last-bone.json](./406785-last-bone.json) |
@@ -5743,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminalcore | 312982 | [312982-liminalcore.json](./312982-liminalcore.json) |
 | Liminalia | 215646 | [215646-liminalia.json](./215646-liminalia.json) |
+| Liminality | 195139 | [195139-liminality.json](./195139-liminality.json) |
 | Liminality | 295190 | [295190-liminality.json](./295190-liminality.json) |
 | Liminality | 362804 | [362804-liminality.json](./362804-liminality.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
@@ -7741,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop Chainsaw 2 Back2Back | 356930 | [356930-lollipop-chainsaw-2-back2back.json](./356930-lollipop-chainsaw-2-back2back.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | Lollipop Chainsaw: Premium Edition | 268855 | [268855-lollipop-chainsaw-premium-edition.json](./268855-lollipop-chainsaw-premium-edition.json) |
+| Lollipop Knight | 195137 | [195137-lollipop-knight.json](./195137-lollipop-knight.json) |
 | Lollipop Land | 230625 | [230625-lollipop-land.json](./230625-lollipop-land.json) |
 | Lollipop: Summer! | 217202 | [217202-lollipop-summer.json](./217202-lollipop-summer.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
@@ -8646,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Artifacts: Mysterious Book | 244020 | [244020-lost-artifacts-mysterious-book.json](./244020-lost-artifacts-mysterious-book.json) |
+| Lost Artifacts: Mysterious Book - Collector's Edition | 195676 | [195676-lost-artifacts-mysterious-book-collectors-edition.json](./195676-lost-artifacts-mysterious-book-collectors-edition.json) |
 | Lost Artifacts: Soulstone | 113320 | [113320-lost-artifacts-soulstone.json](./113320-lost-artifacts-soulstone.json) |
 | Lost Artifacts: The Ghost of Florence | 420583 | [420583-lost-artifacts-the-ghost-of-florence.json](./420583-lost-artifacts-the-ghost-of-florence.json) |
 | Lost Artifacts: The Ghost of Florence - Collector's Edition | 378352 | [378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json](./378352-lost-artifacts-the-ghost-of-florence-collectors-edition.json) |
