@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salamander | 261907 | [261907-salamander.json](./261907-salamander.json) |
 | Salamander 2 | 1483 | [1483-salamander-2.json](./1483-salamander-2.json) |
 | Salamander Capital | 257549 | [257549-salamander-capital.json](./257549-salamander-capital.json) |
+| Salamander County Public Television | 207443 | [207443-salamander-county-public-television.json](./207443-salamander-county-public-television.json) |
 | Salamander Deluxe Pack Plus | 58294 | [58294-salamander-deluxe-pack-plus.json](./58294-salamander-deluxe-pack-plus.json) |
 | Salamander III | 337029 | [337029-salamander-iii.json](./337029-salamander-iii.json) |
 | Salamander Portable | 42869 | [42869-salamander-portable.json](./42869-salamander-portable.json) |
@@ -13168,6 +13169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Warriors: The Dark Crusade | 217688 | [217688-skeleton-warriors-the-dark-crusade.json](./217688-skeleton-warriors-the-dark-crusade.json) |
 | Skeleton Wave | 156894 | [156894-skeleton-wave.json](./156894-skeleton-wave.json) |
 | Skeleton+ | 79512 | [79512-skeleton.json](./79512-skeleton.json) |
+| Skeletons | 207431 | [207431-skeletons.json](./207431-skeletons.json) |
 | Skeletons and Skulls | 232237 | [232237-skeletons-and-skulls.json](./232237-skeletons-and-skulls.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
@@ -24076,6 +24078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
 | Spirit Arena | 122258 | [122258-spirit-arena.json](./122258-spirit-arena.json) |
 | Spirit Axis | 410713 | [410713-spirit-axis.json](./410713-spirit-axis.json) |
+| Spirit Below the Waves | 207421 | [207421-spirit-below-the-waves.json](./207421-spirit-below-the-waves.json) |
 | Spirit Bounce | 156587 | [156587-spirit-bounce.json](./156587-spirit-bounce.json) |
 | Spirit Camera: The Cursed Memoir | 6889 | [6889-spirit-camera-the-cursed-memoir.json](./6889-spirit-camera-the-cursed-memoir.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
