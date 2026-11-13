@@ -3888,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get!! Colonies | 67082 | [67082-get-colonies.json](./67082-get-colonies.json) |
 | Get'Trump'ed Trivia | 380495 | [380495-gettrumped-trivia.json](./380495-gettrumped-trivia.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
+| GetAmped Fighters | 225320 | [225320-getamped-fighters.json](./225320-getamped-fighters.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Driver | 290762 | [290762-getaway-driver.json](./290762-getaway-driver.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
+| Geunyeoga Dasi Noraehal Ttaekkaji | 225325 | [225325-geunyeoga-dasi-noraehal-ttaekkaji.json](./225325-geunyeoga-dasi-noraehal-ttaekkaji.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
 | Gevaudan | 41106 | [41106-gevaudan.json](./41106-gevaudan.json) |
 | Gex | 4309 | [4309-gex.json](./4309-gex.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Bus Simulator | 223227 | [223227-ghost-bus-simulator.json](./223227-ghost-bus-simulator.json) |
 | Ghost Buster 3D | 114937 | [114937-ghost-buster-3d.json](./114937-ghost-buster-3d.json) |
 | Ghost Buster:Village | 401063 | [401063-ghost-buster-village.json](./401063-ghost-buster-village.json) |
+| Ghost Cam | 224801 | [224801-ghost-cam.json](./224801-ghost-cam.json) |
 | Ghost Car | 385440 | [385440-ghost-car.json](./385440-ghost-car.json) |
 | Ghost Case | 174696 | [174696-ghost-case.json](./174696-ghost-case.json) |
 | Ghost Case | 415228 | [415228-ghost-case.json](./415228-ghost-case.json) |
@@ -9434,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
+| Greaser | 224871 | [224871-greaser.json](./224871-greaser.json) |
 | GreasyMac: Void Wilds | 410023 | [410023-greasymac-void-wilds.json](./410023-greasymac-void-wilds.json) |
 | Great 1000 Miles Rally: Evolution Model!!! | 40157 | [40157-great-1000-miles-rally-evolution-model.json](./40157-great-1000-miles-rally-evolution-model.json) |
 | Great Adventure in the World of Sky | 367104 | [367104-great-adventure-in-the-world-of-sky.json](./367104-great-adventure-in-the-world-of-sky.json) |
