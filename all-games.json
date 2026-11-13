@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T01:05:52.753Z",
-  "total_soundtracks": 3257,
+  "generated_at": "2026-11-13T01:20:50.532Z",
+  "total_soundtracks": 3258,
   "games": [
     {
       "igdb_id": 7522,
@@ -7187,6 +7187,20 @@
           "spotify_url": "https://open.spotify.com/album/1kTQBz8Kkv2jbEIMCUfyAV",
           "apple_music_url": "https://music.apple.com/us/album/crash-bandicoot-the-wrath-of-cortex-soundtrack/1891522398",
           "album_link_url": "https://album.link/i/1891522398"
+        }
+      ]
+    },
+    {
+      "igdb_id": 28710,
+      "game_name": "Crash of Cars",
+      "game_url": "https://ostdb.net/games/crash-of-cars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273268bdc7f2e46e14a9e00a57a",
+      "albums": [
+        {
+          "album_name": "Crash of Cars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4gVqvtBgRYwIzxRhxfv74T",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
