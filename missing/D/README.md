@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksyne | 245115 | [245115-darksyne.json](./245115-darksyne.json) |
 | Darktide | 58375 | [58375-darktide.json](./58375-darktide.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
+| DarkTimes | 171662 | [171662-darktimes.json](./171662-darktimes.json) |
 | DarkTrail | 111139 | [111139-darktrail.json](./111139-darktrail.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
@@ -7119,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
 | Demon Loop | 252578 | [252578-demon-loop.json](./252578-demon-loop.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
+| Demon Lord Jill: Revival | 171120 | [171120-demon-lord-jill-revival.json](./171120-demon-lord-jill-revival.json) |
 | Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
 | Demon Lord Tamer | 237097 | [237097-demon-lord-tamer.json](./237097-demon-lord-tamer.json) |
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
