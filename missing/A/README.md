@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Labyrinth Game / Supermind | 92166 | [92166-a-labyrinth-game-supermind.json](./92166-a-labyrinth-game-supermind.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Land Fit For Heroes | 22441 | [22441-a-land-fit-for-heroes.json](./22441-a-land-fit-for-heroes.json) |
+| A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
 | A Last Ditch Effort | 308683 | [308683-a-last-ditch-effort.json](./308683-a-last-ditch-effort.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
@@ -17691,6 +17692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Simulator | 35580 | [35580-astronaut-simulator.json](./35580-astronaut-simulator.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
+| Astronaut Training | 238791 | [238791-astronaut-training.json](./238791-astronaut-training.json) |
 | Astronaut: The Moon Eclipse | 110475 | [110475-astronaut-the-moon-eclipse.json](./110475-astronaut-the-moon-eclipse.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
 | Astronave | 292265 | [292265-astronave.json](./292265-astronave.json) |
