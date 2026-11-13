@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Borderlands: Episode 3 - Catch a Ride | 95011 | [95011-tales-from-the-borderlands-episode-3-catch-a-ride.json](./95011-tales-from-the-borderlands-episode-3-catch-a-ride.json) |
 | Tales from the Borderlands: Episode 4 - Escape Plan Bravo | 127037 | [127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json](./127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json) |
 | Tales from the Borderlands: Episode 5 - The Vault of the Traveler | 127038 | [127038-tales-from-the-borderlands-episode-5-the-vault-of-the-traveler.json](./127038-tales-from-the-borderlands-episode-5-the-vault-of-the-traveler.json) |
+| Tales from the Burning Sea | 228160 | [228160-tales-from-the-burning-sea.json](./228160-tales-from-the-burning-sea.json) |
 | Tales from the Cache | 145420 | [145420-tales-from-the-cache.json](./145420-tales-from-the-cache.json) |
 | Tales from the Commonwealth | 356619 | [356619-tales-from-the-commonwealth.json](./356619-tales-from-the-commonwealth.json) |
 | Tales from the Crossing: The Captain's Chair | 195126 | [195126-tales-from-the-crossing-the-captains-chair.json](./195126-tales-from-the-crossing-the-captains-chair.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Zombies 3 | 29353 | [29353-tequila-zombies-3.json](./29353-tequila-zombies-3.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Tera | 7533 | [7533-tera.json](./7533-tera.json) |
+| Tera Hero | 228165 | [228165-tera-hero.json](./228165-tera-hero.json) |
 | Tera M | 77714 | [77714-tera-m.json](./77714-tera-m.json) |
 | Tera Origin | 117283 | [117283-tera-origin.json](./117283-tera-origin.json) |
 | Tera-Turbine | 184735 | [184735-tera-turbine.json](./184735-tera-turbine.json) |
@@ -8435,6 +8437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse 404 | 401440 | [401440-the-curse-404.json](./401440-the-curse-404.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
+| The Curse of AstaroK | 228183 | [228183-the-curse-of-astarok.json](./228183-the-curse-of-astarok.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
 | The Curse of Blackwater | 63118 | [63118-the-curse-of-blackwater.json](./63118-the-curse-of-blackwater.json) |
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
@@ -12729,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight of the Crimson Tower | 228895 | [228895-the-knight-of-the-crimson-tower.json](./228895-the-knight-of-the-crimson-tower.json) |
 | The Knight of Thistledown | 318461 | [318461-the-knight-of-thistledown.json](./318461-the-knight-of-thistledown.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
+| The Knight Witch: Deluxe Edition | 228195 | [228195-the-knight-witch-deluxe-edition.json](./228195-the-knight-witch-deluxe-edition.json) |
 | The Knight's Challenge | 350369 | [350369-the-knights-challenge.json](./350369-the-knights-challenge.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
@@ -24401,6 +24405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour Online | 21159 | [21159-tiger-woods-pga-tour-online.json](./21159-tiger-woods-pga-tour-online.json) |
 | Tiger-Heli | 364617 | [364617-tiger-heli.json](./364617-tiger-heli.json) |
 | Tiger's Baseball All-Stars | 217705 | [217705-tigers-baseball-all-stars.json](./217705-tigers-baseball-all-stars.json) |
+| Tigerball | 228173 | [228173-tigerball.json](./228173-tigerball.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
 | Tigers on the Prowl | 47113 | [47113-tigers-on-the-prowl.json](./47113-tigers-on-the-prowl.json) |
 | Tigershark | 73047 | [73047-tigershark.json](./73047-tigershark.json) |
@@ -26398,7 +26403,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
 | Togo Dave | 79027 | [79027-togo-dave.json](./79027-togo-dave.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
+| ToHeart | 228169 | [228169-toheart.json](./228169-toheart.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
+| ToHeart Portable | 228170 | [228170-toheart-portable.json](./228170-toheart-portable.json) |
+| ToHeart PSE | 228171 | [228171-toheart-pse.json](./228171-toheart-pse.json) |
 | ToHeart: Extra Stories - Serio & Masashi | 351148 | [351148-toheart-extra-stories-serio-and-masashi.json](./351148-toheart-extra-stories-serio-and-masashi.json) |
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | ToHeart2 DX Plus | 65567 | [65567-toheart2-dx-plus.json](./65567-toheart2-dx-plus.json) |
@@ -29965,6 +29973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader HD | 175085 | [175085-trader-hd.json](./175085-trader-hd.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
+| Trader Life Simulator 2 | 228645 | [228645-trader-life-simulator-2.json](./228645-trader-life-simulator-2.json) |
 | Trader of Stories - Chapter 1 | 95968 | [95968-trader-of-stories-chapter-1.json](./95968-trader-of-stories-chapter-1.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Trader Tavern | 183827 | [183827-trader-tavern.json](./183827-trader-tavern.json) |
