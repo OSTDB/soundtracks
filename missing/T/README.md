@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanimura Hitoshi no Don Quixote ga Iku | 282672 | [282672-tanimura-hitoshi-no-don-quixote-ga-iku.json](./282672-tanimura-hitoshi-no-don-quixote-ga-iku.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tanita: Plasticine Dream | 35204 | [35204-tanita-plasticine-dream.json](./35204-tanita-plasticine-dream.json) |
+| Tanitani Wizard | 214651 | [214651-tanitani-wizard.json](./214651-tanitani-wizard.json) |
 | Tanith Travels Through Time | 349747 | [349747-tanith-travels-through-time.json](./349747-tanith-travels-through-time.json) |
 | Tanium | 142767 | [142767-tanium.json](./142767-tanium.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
@@ -9332,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon of Lulu Farea | 113800 | [113800-the-dungeon-of-lulu-farea.json](./113800-the-dungeon-of-lulu-farea.json) |
 | The Dungeon of Lulu Farea: Rebirth | 410948 | [410948-the-dungeon-of-lulu-farea-rebirth.json](./410948-the-dungeon-of-lulu-farea-rebirth.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos | 120654 | [120654-the-dungeon-of-naheulbeuk-the-amulet-of-chaos.json](./120654-the-dungeon-of-naheulbeuk-the-amulet-of-chaos.json) |
+| The Dungeon of Naheulbeuk: The Amulet of Chaos - Back to the Futon | 214206 | [214206-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-back-to-the-futon.json](./214206-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-back-to-the-futon.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition | 146166 | [146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json](./146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
@@ -10508,6 +10510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest of Black Eden | 348146 | [348146-the-forest-of-black-eden.json](./348146-the-forest-of-black-eden.json) |
 | The Forest of Conx | 258056 | [258056-the-forest-of-conx.json](./258056-the-forest-of-conx.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
+| The Forest of Drizzling Rain | 214209 | [214209-the-forest-of-drizzling-rain.json](./214209-the-forest-of-drizzling-rain.json) |
 | The Forest of Noise | 362798 | [362798-the-forest-of-noise.json](./362798-the-forest-of-noise.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
 | The Forest Quartet | 159958 | [159958-the-forest-quartet.json](./159958-the-forest-quartet.json) |
@@ -29070,6 +29073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour de France 2026 | 396261 | [396261-tour-de-france-2026.json](./396261-tour-de-france-2026.json) |
+| Tour de Paseban | 214628 | [214628-tour-de-paseban.json](./214628-tour-de-paseban.json) |
 | Tour Du Monde | 277715 | [277715-tour-du-monde.json](./277715-tour-du-monde.json) |
 | Tour Manager: Secret Stories | 275365 | [275365-tour-manager-secret-stories.json](./275365-tour-manager-secret-stories.json) |
 | Tour of Duty | 259426 | [259426-tour-of-duty.json](./259426-tour-of-duty.json) |
@@ -34700,6 +34704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
 | Try to Fall Asleep | 84085 | [84085-try-to-fall-asleep.json](./84085-try-to-fall-asleep.json) |
 | Try to Fit | 259965 | [259965-try-to-fit.json](./259965-try-to-fit.json) |
+| Try to Fly | 214641 | [214641-try-to-fly.json](./214641-try-to-fly.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Remember | 150409 | [150409-try-to-remember.json](./150409-try-to-remember.json) |
 | Try to seize me | 97075 | [97075-try-to-seize-me.json](./97075-try-to-seize-me.json) |
