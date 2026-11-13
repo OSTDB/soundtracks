@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raisond'etre | 324849 | [324849-raisondetre.json](./324849-raisondetre.json) |
 | Raivo | 161514 | [161514-raivo.json](./161514-raivo.json) |
+| Raji Pazu | 179227 | [179227-raji-pazu.json](./179227-raji-pazu.json) |
 | Raji: An Ancient Epic | 70828 | [70828-raji-an-ancient-epic.json](./70828-raji-an-ancient-epic.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Raji: Kaliyuga | 378233 | [378233-raji-kaliyuga.json](./378233-raji-kaliyuga.json) |
@@ -7825,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle School 2: Legacy Edition | 180004 | [180004-riddle-school-2-legacy-edition.json](./180004-riddle-school-2-legacy-edition.json) |
 | Riddle School 3 | 178234 | [178234-riddle-school-3.json](./178234-riddle-school-3.json) |
 | Riddle School 3: Legacy Edition | 180006 | [180006-riddle-school-3-legacy-edition.json](./180006-riddle-school-3-legacy-edition.json) |
+| Riddle School 4 | 179229 | [179229-riddle-school-4.json](./179229-riddle-school-4.json) |
 | Riddle School 4: Legacy Edition | 180007 | [180007-riddle-school-4-legacy-edition.json](./180007-riddle-school-4-legacy-edition.json) |
 | Riddle School 5 | 180138 | [180138-riddle-school-5.json](./180138-riddle-school-5.json) |
 | Riddle School 5: Legacy Edition | 180139 | [180139-riddle-school-5-legacy-edition.json](./180139-riddle-school-5-legacy-edition.json) |
@@ -9008,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
 | Rive: Ultimate Edition | 84837 | [84837-rive-ultimate-edition.json](./84837-rive-ultimate-edition.json) |
+| Rivelon | 179104 | [179104-rivelon.json](./179104-rivelon.json) |
 | Riven Crown | 339237 | [339237-riven-crown.json](./339237-riven-crown.json) |
 | Riven: The Sequel to Myst | 238 | [238-riven-the-sequel-to-myst.json](./238-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
@@ -11086,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Vault | 420645 | [420645-rogue-vault.json](./420645-rogue-vault.json) |
 | Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
 | Rogue Voltage | 211857 | [211857-rogue-voltage.json](./211857-rogue-voltage.json) |
+| Rogue vs Evil | 179093 | [179093-rogue-vs-evil.json](./179093-rogue-vs-evil.json) |
 | Rogue Warlords | 199340 | [199340-rogue-warlords.json](./199340-rogue-warlords.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Wars | 169581 | [169581-rogue-wars.json](./169581-rogue-wars.json) |
