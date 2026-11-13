@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Date | 315912 | [315912-end-date.json](./315912-end-date.json) |
 | End Game | 263407 | [263407-end-game.json](./263407-end-game.json) |
 | End Gate: The Last Passenger | 311612 | [311612-end-gate-the-last-passenger.json](./311612-end-gate-the-last-passenger.json) |
+| End it, please... | 192483 | [192483-end-it-please.json](./192483-end-it-please.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Abyss | 347637 | [347637-end-of-abyss.json](./347637-end-of-abyss.json) |
 | End of Aspiration | 207977 | [207977-end-of-aspiration.json](./207977-end-of-aspiration.json) |
