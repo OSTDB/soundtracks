@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Flowers | 315135 | [315135-labyrinth-flowers.json](./315135-labyrinth-flowers.json) |
 | Labyrinth Flowers | 315136 | [315136-labyrinth-flowers.json](./315136-labyrinth-flowers.json) |
 | Labyrinth Hearts | 149120 | [149120-labyrinth-hearts.json](./149120-labyrinth-hearts.json) |
+| Labyrinth Hearts II | 224794 | [224794-labyrinth-hearts-ii.json](./224794-labyrinth-hearts-ii.json) |
 | Labyrinth Hotel | 302887 | [302887-labyrinth-hotel.json](./302887-labyrinth-hotel.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Legend | 158874 | [158874-labyrinth-legend.json](./158874-labyrinth-legend.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
+| Liars Maze | 225248 | [225248-liars-maze.json](./225248-liars-maze.json) |
 | Liars Race in Lost Ruins | 224968 | [224968-liars-race-in-lost-ruins.json](./224968-liars-race-in-lost-ruins.json) |
 | Liars Village | 143248 | [143248-liars-village.json](./143248-liars-village.json) |
 | Libbet the Boulder Girl | 309224 | [309224-libbet-the-boulder-girl.json](./309224-libbet-the-boulder-girl.json) |
@@ -6212,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Wishless | 222114 | [222114-lisa-the-wishless.json](./222114-lisa-the-wishless.json) |
 | Lisa: Timeless in Pointless - Drunkard's Paradise | 359332 | [359332-lisa-timeless-in-pointless-drunkards-paradise.json](./359332-lisa-timeless-in-pointless-drunkards-paradise.json) |
 | Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
+| Lisarune | 225243 | [225243-lisarune.json](./225243-lisarune.json) |
 | Lisc: Season 1 | 382008 | [382008-lisc-season-1.json](./382008-lisc-season-1.json) |
 | Lishogi | 321664 | [321664-lishogi.json](./321664-lishogi.json) |
 | Lisia | 408606 | [408606-lisia.json](./408606-lisia.json) |
