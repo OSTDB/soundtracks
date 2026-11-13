@@ -4225,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Basketball Hoops | 148686 | [148686-vr-basketball-hoops.json](./148686-vr-basketball-hoops.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
+| VR Black Hole Travel Hypothesis | 172248 | [172248-vr-black-hole-travel-hypothesis.json](./172248-vr-black-hole-travel-hypothesis.json) |
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Brewing Simulator | 158631 | [158631-vr-brewing-simulator.json](./158631-vr-brewing-simulator.json) |
