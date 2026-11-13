@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Journey With: Noelle | 383557 | [383557-a-christmas-journey-with-noelle.json](./383557-a-christmas-journey-with-noelle.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
 | A Christmas Peril | 113603 | [113603-a-christmas-peril.json](./113603-a-christmas-peril.json) |
+| A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Christmas Yarn | 237182 | [237182-a-christmas-yarn.json](./237182-a-christmas-yarn.json) |
 | A Christmassy Christmas | 283894 | [283894-a-christmassy-christmas.json](./283894-a-christmassy-christmas.json) |
 | A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aberration Analyst | 167393 | [167393-aberration-analyst.json](./167393-aberration-analyst.json) |
 | Aberration Town | 164651 | [164651-aberration-town.json](./164651-aberration-town.json) |
 | Abettor | 172993 | [172993-abettor.json](./172993-abettor.json) |
+| Abeyance | 189218 | [189218-abeyance.json](./189218-abeyance.json) |
 | Abfense | 195652 | [195652-abfense.json](./195652-abfense.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
@@ -4917,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School Simulator | 194078 | [194078-after-school-simulator.json](./194078-after-school-simulator.json) |
 | After School: A Vocaloid RPG | 178202 | [178202-after-school-a-vocaloid-rpg.json](./178202-after-school-a-vocaloid-rpg.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
+| After Shadows | 189225 | [189225-after-shadows.json](./189225-after-shadows.json) |
 | After Solitary | 223864 | [223864-after-solitary.json](./223864-after-solitary.json) |
 | After Story: Witch Dragon | 309552 | [309552-after-story-witch-dragon.json](./309552-after-story-witch-dragon.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
@@ -5508,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Sirius | 357802 | [357802-agent-sirius.json](./357802-agent-sirius.json) |
 | Agent Skunk: Stink Ops | 419356 | [419356-agent-skunk-stink-ops.json](./419356-agent-skunk-stink-ops.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
+| Agent Stilus | 189228 | [189228-agent-stilus.json](./189228-agent-stilus.json) |
 | Agent Team Simulator | 235405 | [235405-agent-team-simulator.json](./235405-agent-team-simulator.json) |
 | Agent Team Simulator: Your Agent in the Game | 253466 | [253466-agent-team-simulator-your-agent-in-the-game.json](./253466-agent-team-simulator-your-agent-in-the-game.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
@@ -7081,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemystic | 386439 | [386439-alchemystic.json](./386439-alchemystic.json) |
 | AlchePot | 283884 | [283884-alchepot.json](./283884-alchepot.json) |
 | Alchera | 189141 | [189141-alchera.json](./189141-alchera.json) |
+| Alcheverse: Shadow from Gladview | 189220 | [189220-alcheverse-shadow-from-gladview.json](./189220-alcheverse-shadow-from-gladview.json) |
 | Alchewizard | 401361 | [401361-alchewizard.json](./401361-alchewizard.json) |
 | AlchiMerge: Merge & Craft | 200846 | [200846-alchimerge-merge-and-craft.json](./200846-alchimerge-merge-and-craft.json) |
 | Alchimia | 257781 | [257781-alchimia.json](./257781-alchimia.json) |
@@ -15463,6 +15468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armchair Commander | 267865 | [267865-armchair-commander.json](./267865-armchair-commander.json) |
 | Armchair Detective | 343162 | [343162-armchair-detective.json](./343162-armchair-detective.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
+| Armchair Racer | 189216 | [189216-armchair-racer.json](./189216-armchair-racer.json) |
 | Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
 | Armed & Delirious | 71321 | [71321-armed-and-delirious.json](./71321-armed-and-delirious.json) |
 | Armed 7 DX | 147074 | [147074-armed-7-dx.json](./147074-armed-7-dx.json) |
