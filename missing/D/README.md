@@ -12031,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Legacy | 132942 | [132942-divine-legacy.json](./132942-divine-legacy.json) |
 | Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
 | Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
+| Divine Might | 240429 | [240429-divine-might.json](./240429-divine-might.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orbit | 398801 | [398801-divine-orbit.json](./398801-divine-orbit.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
@@ -15108,6 +15109,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoubleTap | 76380 | [76380-doubletap.json](./76380-doubletap.json) |
 | DoubleTheSnake | 50278 | [50278-doublethesnake.json](./50278-doublethesnake.json) |
 | Doubloon Trouble | 421802 | [421802-doubloon-trouble.json](./421802-doubloon-trouble.json) |
+| Doubt: Anata wa Dark na Uso ga Suki? | 240528 | [240528-doubt-anata-wa-dark-na-uso-ga-suki.json](./240528-doubt-anata-wa-dark-na-uso-ga-suki.json) |
+| Doubt: Moteru Otoko wa Konkatsu Appli ni Uso to Hisomu | 240529 | [240529-doubt-moteru-otoko-wa-konkatsu-appli-ni-uso-to-hisomu.json](./240529-doubt-moteru-otoko-wa-konkatsu-appli-ni-uso-to-hisomu.json) |
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
@@ -15450,6 +15453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
 | Dr. Gloom’s Lab | 302082 | [302082-dr-gloom-s-lab.json](./302082-dr-gloom-s-lab.json) |
 | Dr. Hello | 45638 | [45638-dr-hello.json](./45638-dr-hello.json) |
+| Dr. Janggi | 240549 | [240549-dr-janggi.json](./240549-dr-janggi.json) |
 | Dr. Jekyll and Mr Hyde: The Strange Case | 122091 | [122091-dr-jekyll-and-mr-hyde-the-strange-case.json](./122091-dr-jekyll-and-mr-hyde-the-strange-case.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
@@ -16790,6 +16794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
 | Dragonworld | 24778 | [24778-dragonworld.json](./24778-dragonworld.json) |
+| Dragonyhm | 240428 | [240428-dragonyhm.json](./240428-dragonyhm.json) |
 | Dragoon | 62788 | [62788-dragoon.json](./62788-dragoon.json) |
 | Dragoon Armor for Adult | 67259 | [67259-dragoon-armor-for-adult.json](./67259-dragoon-armor-for-adult.json) |
 | Dragoon Drop | 182845 | [182845-dragoon-drop.json](./182845-dragoon-drop.json) |
@@ -17699,6 +17704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams: VR | 344447 | [344447-dreams-vr.json](./344447-dreams-vr.json) |
 | Dreamscape | 10245 | [10245-dreamscape.json](./10245-dreamscape.json) |
 | Dreamscape 2 | 188311 | [188311-dreamscape-2.json](./188311-dreamscape-2.json) |
+| Dreamscape 64 | 240460 | [240460-dreamscape-64.json](./240460-dreamscape-64.json) |
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
