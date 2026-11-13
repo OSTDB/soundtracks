@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaena | 85925 | [85925-kaena.json](./85925-kaena.json) |
 | Kaepernick Football | 234007 | [234007-kaepernick-football.json](./234007-kaepernick-football.json) |
 | Kaerazu no Mori | 98523 | [98523-kaerazu-no-mori.json](./98523-kaerazu-no-mori.json) |
+| Kaeri Yume | 202296 | [202296-kaeri-yume.json](./202296-kaeri-yume.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
 | Kaeru B Back | 49654 | [49654-kaeru-b-back.json](./49654-kaeru-b-back.json) |
 | Kaeru Batake DE Tsukamaete | 218510 | [218510-kaeru-batake-de-tsukamaete.json](./218510-kaeru-batake-de-tsukamaete.json) |
@@ -3737,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Isles | 423281 | [423281-kingdom-isles.json](./423281-kingdom-isles.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
 | Kingdom Knights | 217195 | [217195-kingdom-knights.json](./217195-kingdom-knights.json) |
+| Kingdom Legends: The Fallen Kings | 202876 | [202876-kingdom-legends-the-fallen-kings.json](./202876-kingdom-legends-the-fallen-kings.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
 | Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
@@ -6374,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
 | Krosmaster Arena | 17964 | [17964-krosmaster-arena.json](./17964-krosmaster-arena.json) |
+| Kross | 202297 | [202297-kross.json](./202297-kross.json) |
 | Krotruvink | 81047 | [81047-krotruvink.json](./81047-krotruvink.json) |
 | KRTL: Jay Und Die Spielzeugdiebe | 94155 | [94155-krtl-jay-und-die-spielzeugdiebe.json](./94155-krtl-jay-und-die-spielzeugdiebe.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
@@ -6942,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyokou Eiyuu GinGaia Vol.1 | 395054 | [395054-kyokou-eiyuu-gingaia-vol-1.json](./395054-kyokou-eiyuu-gingaia-vol-1.json) |
 | Kyokou Eiyuu GinGaia Vol.2 | 395055 | [395055-kyokou-eiyuu-gingaia-vol-2.json](./395055-kyokou-eiyuu-gingaia-vol-2.json) |
 | Kyokou Eiyuu GinGaia Vol.3 | 395056 | [395056-kyokou-eiyuu-gingaia-vol-3.json](./395056-kyokou-eiyuu-gingaia-vol-3.json) |
+| Kyoku Yume | 202298 | [202298-kyoku-yume.json](./202298-kyoku-yume.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyokujitsu ni Kokoro Arawasu | 153685 | [153685-kyokujitsu-ni-kokoro-arawasu.json](./153685-kyokujitsu-ni-kokoro-arawasu.json) |
 | Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
