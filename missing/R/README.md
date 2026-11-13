@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
 | Rebellion Gaia | 164165 | [164165-rebellion-gaia.json](./164165-rebellion-gaia.json) |
+| Rebellion Godsoul: Awakening | 173896 | [173896-rebellion-godsoul-awakening.json](./173896-rebellion-godsoul-awakening.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
 | Rebellion Stryker | 316471 | [316471-rebellion-stryker.json](./316471-rebellion-stryker.json) |
@@ -4711,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | RedShip | 188968 | [188968-redship.json](./188968-redship.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
+| Redside: Episode 1 | 173879 | [173879-redside-episode-1.json](./173879-redside-episode-1.json) |
 | RedSpaceOps | 244641 | [244641-redspaceops.json](./244641-redspaceops.json) |
 | RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
@@ -13475,6 +13477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Kyousoukyoku | 210821 | [210821-run-run-kyousoukyoku.json](./210821-run-run-kyousoukyoku.json) |
 | Run Run My Bride! | 309428 | [309428-run-run-my-bride.json](./309428-run-run-my-bride.json) |
 | Run Run Piñata | 187261 | [187261-run-run-pinata.json](./187261-run-run-pinata.json) |
+| Run Run Run | 173887 | [173887-run-run-run.json](./173887-run-run-run.json) |
 | Run Run Water Elf | 301166 | [301166-run-run-water-elf.json](./301166-run-run-water-elf.json) |
 | Run Saber | 22358 | [22358-run-saber.json](./22358-run-saber.json) |
 | Run Salmon Run | 338692 | [338692-run-salmon-run.json](./338692-run-salmon-run.json) |
