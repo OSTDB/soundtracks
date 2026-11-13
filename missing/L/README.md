@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Day | 57759 | [57759-leap-day.json](./57759-leap-day.json) |
 | Leap Frog | 388926 | [388926-leap-frog.json](./388926-leap-frog.json) |
 | Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
+| Leap From Hell | 237127 | [237127-leap-from-hell.json](./237127-leap-from-hell.json) |
 | Leap Galaxy | 347854 | [347854-leap-galaxy.json](./347854-leap-galaxy.json) |
 | Leap Hero | 267707 | [267707-leap-hero.json](./267707-leap-hero.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
@@ -3431,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
 | LEGO Harry Potter: Years 1-4 | 237596 | [237596-lego-harry-potter-years-1-4.json](./237596-lego-harry-potter-years-1-4.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
+| LEGO Harry Potter: Years 5-7 | 237616 | [237616-lego-harry-potter-years-5-7.json](./237616-lego-harry-potter-years-5-7.json) |
 | LEGO Harry Potter: Years 5-7 | 3150 | [3150-lego-harry-potter-years-5-7.json](./3150-lego-harry-potter-years-5-7.json) |
 | Lego Harry Potter: Years 5-7 Spell pack | 254891 | [254891-lego-harry-potter-years-5-7-spell-pack.json](./254891-lego-harry-potter-years-5-7-spell-pack.json) |
 | LEGO Hero Factory: Brain Attack | 193329 | [193329-lego-hero-factory-brain-attack.json](./193329-lego-hero-factory-brain-attack.json) |
@@ -8907,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Transit | 123983 | [123983-lost-in-transit.json](./123983-lost-in-transit.json) |
 | Lost in Transit | 409724 | [409724-lost-in-transit.json](./409724-lost-in-transit.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
+| Lost in Translation | 237705 | [237705-lost-in-translation.json](./237705-lost-in-translation.json) |
 | Lost in Translation | 394118 | [394118-lost-in-translation.json](./394118-lost-in-translation.json) |
 | Lost in Translation: Silly | 288716 | [288716-lost-in-translation-silly.json](./288716-lost-in-translation-silly.json) |
 | Lost in Tropics | 319031 | [319031-lost-in-tropics.json](./319031-lost-in-tropics.json) |
