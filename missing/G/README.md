@@ -7041,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
 | Golden Knight Garo | 79099 | [79099-golden-knight-garo.json](./79099-golden-knight-garo.json) |
+| Golden Knights Metaverse | 227433 | [227433-golden-knights-metaverse.json](./227433-golden-knights-metaverse.json) |
 | Golden Krone Hotel | 32193 | [32193-golden-krone-hotel.json](./32193-golden-krone-hotel.json) |
 | Golden Lap | 294353 | [294353-golden-lap.json](./294353-golden-lap.json) |
 | Golden Leaf Jigsaw Puzzles | 266470 | [266470-golden-leaf-jigsaw-puzzles.json](./266470-golden-leaf-jigsaw-puzzles.json) |
