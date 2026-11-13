@@ -8760,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hime to Inyoku no Testament | 328121 | [328121-hime-to-inyoku-no-testament.json](./328121-hime-to-inyoku-no-testament.json) |
 | Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
+| Hime's Quest | 227435 | [227435-himes-quest.json](./227435-himes-quest.json) |
 | Himegashima Island | 311555 | [311555-himegashima-island.json](./311555-himegashima-island.json) |
 | Himegimi Detective | 74694 | [74694-himegimi-detective.json](./74694-himegimi-detective.json) |
 | Himegoto | 281943 | [281943-himegoto.json](./281943-himegoto.json) |
