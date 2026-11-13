@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Maleta | 153766 | [153766-la-maleta.json](./153766-la-maleta.json) |
 | La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
+| La Maupin to the Rescue! | 221307 | [221307-la-maupin-to-the-rescue.json](./221307-la-maupin-to-the-rescue.json) |
 | La Mémoire | 126928 | [126928-la-memoire.json](./126928-la-memoire.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | LA Monsters | 154970 | [154970-la-monsters.json](./154970-la-monsters.json) |
