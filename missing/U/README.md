@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Overlord | 36363 | [36363-undead-overlord.json](./36363-undead-overlord.json) |
 | Undead Paradise | 310790 | [310790-undead-paradise.json](./310790-undead-paradise.json) |
 | Undead Party | 222268 | [222268-undead-party.json](./222268-undead-party.json) |
+| Undead Pixel Monks | 190239 | [190239-undead-pixel-monks.json](./190239-undead-pixel-monks.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
 | Undead Presidents | 348191 | [348191-undead-presidents.json](./348191-undead-presidents.json) |
 | Undead Quest | 227787 | [227787-undead-quest.json](./227787-undead-quest.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnMetal | 132312 | [132312-unmetal.json](./132312-unmetal.json) |
 | UnMetal: Collector's Edition | 240034 | [240034-unmetal-collectors-edition.json](./240034-unmetal-collectors-edition.json) |
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
+| Unmetaverse | 190251 | [190251-unmetaverse.json](./190251-unmetaverse.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
 | Unmourned | 330058 | [330058-unmourned.json](./330058-unmourned.json) |
