@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampirium: 1997 | 409402 | [409402-vampirium-1997.json](./409402-vampirium-1997.json) |
 | Vampirix | 232904 | [232904-vampirix.json](./232904-vampirix.json) |
 | Vampiromania: O Game | 163702 | [163702-vampiromania-o-game.json](./163702-vampiromania-o-game.json) |
+| Vampliar | 185174 | [185174-vampliar.json](./185174-vampliar.json) |
 | Vampolitics: Vassals of the Void | 375375 | [375375-vampolitics-vassals-of-the-void.json](./375375-vampolitics-vassals-of-the-void.json) |
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vandal Hearts II | 6543 | [6543-vandal-hearts-ii.json](./6543-vandal-hearts-ii.json) |
 | Vandal Hearts: Flames of Judgment | 53025 | [53025-vandal-hearts-flames-of-judgment.json](./53025-vandal-hearts-flames-of-judgment.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
+| Vandalizer | 185574 | [185574-vandalizer.json](./185574-vandalizer.json) |
 | Vandals | 95550 | [95550-vandals.json](./95550-vandals.json) |
 | Vandell: Knight of the Tortured Souls | 69753 | [69753-vandell-knight-of-the-tortured-souls.json](./69753-vandell-knight-of-the-tortured-souls.json) |
 | Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Retrouvaille | 142584 | [142584-very-retrouvaille.json](./142584-very-retrouvaille.json) |
 | Very Safe Dino Park | 408586 | [408586-very-safe-dino-park.json](./408586-very-safe-dino-park.json) |
 | Very Scary Backrooms Game | 274336 | [274336-very-scary-backrooms-game.json](./274336-very-scary-backrooms-game.json) |
+| Very Scary Eatery | 185172 | [185172-very-scary-eatery.json](./185172-very-scary-eatery.json) |
 | Very Scary Game | 420657 | [420657-very-scary-game.json](./420657-very-scary-game.json) |
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
