@@ -4856,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflections: Dreams and Reality | 115625 | [115625-reflections-dreams-and-reality.json](./115625-reflections-dreams-and-reality.json) |
 | Reflections: Nightingale | 282528 | [282528-reflections-nightingale.json](./282528-reflections-nightingale.json) |
+| Reflector | 215266 | [215266-reflector.json](./215266-reflector.json) |
 | Reflector | 322411 | [322411-reflector.json](./322411-reflector.json) |
 | Reflector Rhythm Master | 251746 | [251746-reflector-rhythm-master.json](./251746-reflector-rhythm-master.json) |
 | Reflector Satellites | 317411 | [317411-reflector-satellites.json](./317411-reflector-satellites.json) |
@@ -11896,6 +11897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
 | Roomrush Racer | 404166 | [404166-roomrush-racer.json](./404166-roomrush-racer.json) |
+| Rooms | 215268 | [215268-rooms.json](./215268-rooms.json) |
 | Rooms | 260280 | [260280-rooms.json](./260280-rooms.json) |
 | Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
