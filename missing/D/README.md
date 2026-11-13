@@ -4985,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in sands | 190850 | [190850-death-in-sands.json](./190850-death-in-sands.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
+| Death in the Family | 189209 | [189209-death-in-the-family.json](./189209-death-in-the-family.json) |
 | Death in the Manor | 375227 | [375227-death-in-the-manor.json](./375227-death-in-the-manor.json) |
 | Death in the Night | 215538 | [215538-death-in-the-night.json](./215538-death-in-the-night.json) |
 | Death in the Water | 122793 | [122793-death-in-the-water.json](./122793-death-in-the-water.json) |
