@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living with Demon Lord chan | 263259 | [263259-living-with-demon-lord-chan.json](./263259-living-with-demon-lord-chan.json) |
 | Living With Dragons | 219638 | [219638-living-with-dragons.json](./219638-living-with-dragons.json) |
 | Living with ghosts | 321928 | [321928-living-with-ghosts.json](./321928-living-with-ghosts.json) |
+| Living with Horses: My Horse Farm | 242754 | [242754-living-with-horses-my-horse-farm.json](./242754-living-with-horses-my-horse-farm.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Living with Jaguars VR | 104146 | [104146-living-with-jaguars-vr.json](./104146-living-with-jaguars-vr.json) |
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
