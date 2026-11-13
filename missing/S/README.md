@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotaj | 138972 | [138972-sabotaj.json](./138972-sabotaj.json) |
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur | 192134 | [192134-saboteur.json](./192134-saboteur.json) |
+| Saboteur | 230600 | [230600-saboteur.json](./230600-saboteur.json) |
 | Saboteur SiO | 147702 | [147702-saboteur-sio.json](./147702-saboteur-sio.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
@@ -9819,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot 2048 - reinvention of the classic puzzle | 102670 | [102670-shoot-2048-reinvention-of-the-classic-puzzle.json](./102670-shoot-2048-reinvention-of-the-classic-puzzle.json) |
 | Shoot 2nd | 97666 | [97666-shoot-2nd.json](./97666-shoot-2nd.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
+| Shoot Away | 230598 | [230598-shoot-away.json](./230598-shoot-away.json) |
 | Shoot Away Pro | 326742 | [326742-shoot-away-pro.json](./326742-shoot-away-pro.json) |
 | Shoot Ball Fruit Splash | 105895 | [105895-shoot-ball-fruit-splash.json](./105895-shoot-ball-fruit-splash.json) |
 | Shoot Bubble | 208947 | [208947-shoot-bubble.json](./208947-shoot-bubble.json) |
@@ -12691,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SisPuri Vanish! | 98066 | [98066-sispuri-vanish.json](./98066-sispuri-vanish.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
+| Sissyfight 2000 | 230597 | [230597-sissyfight-2000.json](./230597-sissyfight-2000.json) |
 | Sister | 241694 | [241694-sister.json](./241694-sister.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
 | Sister Harassment | 97595 | [97595-sister-harassment.json](./97595-sister-harassment.json) |
@@ -24768,6 +24771,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Games | 399790 | [399790-sports-games.json](./399790-sports-games.json) |
 | Sports Games Collection | 403725 | [403725-sports-games-collection.json](./403725-sports-games-collection.json) |
 | Sports Girl: Village | 319890 | [319890-sports-girl-village.json](./319890-sports-girl-village.json) |
+| Sports Heads: Basketball | 230612 | [230612-sports-heads-basketball.json](./230612-sports-heads-basketball.json) |
+| Sports Heads: Football | 230609 | [230609-sports-heads-football.json](./230609-sports-heads-football.json) |
+| Sports Heads: Football Championship | 230610 | [230610-sports-heads-football-championship.json](./230610-sports-heads-football-championship.json) |
+| Sports Heads: Tennis | 230611 | [230611-sports-heads-tennis.json](./230611-sports-heads-tennis.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated Championship Football & Baseball | 38437 | [38437-sports-illustrated-championship-football-and-baseball.json](./38437-sports-illustrated-championship-football-and-baseball.json) |
@@ -30806,6 +30813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
 | Streets of Moscow | 50202 | [50202-streets-of-moscow.json](./50202-streets-of-moscow.json) |
 | Streets of Neotokio | 127467 | [127467-streets-of-neotokio.json](./127467-streets-of-neotokio.json) |
+| Streets of Rage 2: New Era | 230607 | [230607-streets-of-rage-2-new-era.json](./230607-streets-of-rage-2-new-era.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Robotnik Wars | 333891 | [333891-streets-of-rage-2-robotnik-wars.json](./333891-streets-of-rage-2-robotnik-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
