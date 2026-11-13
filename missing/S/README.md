@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salann | 379033 | [379033-salann.json](./379033-salann.json) |
 | Salary Man Champ Tatakau Salary man | 383718 | [383718-salary-man-champ-tatakau-salary-man.json](./383718-salary-man-champ-tatakau-salary-man.json) |
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
+| Salary Man Kintarou: The Game | 233811 | [233811-salary-man-kintarou-the-game.json](./233811-salary-man-kintarou-the-game.json) |
 | Salary Man Mario | 249751 | [249751-salary-man-mario.json](./249751-salary-man-mario.json) |
 | Salary-Mon: Hiro Versus His Demons | 334408 | [334408-salary-mon-hiro-versus-his-demons.json](./334408-salary-mon-hiro-versus-his-demons.json) |
 | Salaryman Rescue! | 268953 | [268953-salaryman-rescue.json](./268953-salaryman-rescue.json) |
@@ -1707,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Skyline | 244129 | [244129-sandbox-skyline.json](./244129-sandbox-skyline.json) |
 | Sandbox Survivors | 415842 | [415842-sandbox-survivors.json](./415842-sandbox-survivors.json) |
 | Sandbox Testing Game | 157343 | [157343-sandbox-testing-game.json](./157343-sandbox-testing-game.json) |
+| Sandbox War Dispatch | 233294 | [233294-sandbox-war-dispatch.json](./233294-sandbox-war-dispatch.json) |
 | Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
 | Sandbox Zombies | 196406 | [196406-sandbox-zombies.json](./196406-sandbox-zombies.json) |
 | Sandboxels | 187147 | [187147-sandboxels.json](./187147-sandboxels.json) |
@@ -8176,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Attack | 365605 | [365605-shark-attack.json](./365605-shark-attack.json) |
 | Shark Attack Deathmatch | 80057 | [80057-shark-attack-deathmatch.json](./80057-shark-attack-deathmatch.json) |
 | Shark Attack Deathmatch 2 | 17981 | [17981-shark-attack-deathmatch-2.json](./17981-shark-attack-deathmatch-2.json) |
+| Shark Attack: Fish Predator Ocean Sea Adventure Survival | 233794 | [233794-shark-attack-fish-predator-ocean-sea-adventure-survival.json](./233794-shark-attack-fish-predator-ocean-sea-adventure-survival.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
@@ -10699,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
 | Shuyan Saga: All Episodes | 103995 | [103995-shuyan-saga-all-episodes.json](./103995-shuyan-saga-all-episodes.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
+| Shuzle | 233728 | [233728-shuzle.json](./233728-shuzle.json) |
 | Shuzzler | 168046 | [168046-shuzzler.json](./168046-shuzzler.json) |
 | Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
 | Shy | 179927 | [179927-shy.json](./179927-shy.json) |
@@ -11477,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sileo: Tales of a New Dawn | 140917 | [140917-sileo-tales-of-a-new-dawn.json](./140917-sileo-tales-of-a-new-dawn.json) |
 | Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
 | Silhouette | 132061 | [132061-silhouette.json](./132061-silhouette.json) |
+| Silhouette | 233673 | [233673-silhouette.json](./233673-silhouette.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
 | Silhouette Mirage | 1356 | [1356-silhouette-mirage.json](./1356-silhouette-mirage.json) |
 | Silhouette of Darkness | 271767 | [271767-silhouette-of-darkness.json](./271767-silhouette-of-darkness.json) |
@@ -17268,6 +17273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager Pro | 64784 | [64784-soccer-manager-pro.json](./64784-soccer-manager-pro.json) |
 | Soccer Mania | 6597 | [6597-soccer-mania.json](./6597-soccer-mania.json) |
 | Soccer Master | 228131 | [228131-soccer-master.json](./228131-soccer-master.json) |
+| Soccer Match | 233263 | [233263-soccer-match.json](./233263-soccer-match.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
 | Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
@@ -18900,6 +18906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Club | 317488 | [317488-sonic-dash-club.json](./317488-sonic-dash-club.json) |
+| Sonic Dash Extreme | 233289 | [233289-sonic-dash-extreme.json](./233289-sonic-dash-extreme.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
 | Sonic Dash Remastered 3 | 321079 | [321079-sonic-dash-remastered-3.json](./321079-sonic-dash-remastered-3.json) |
 | Sonic Dash S | 232771 | [232771-sonic-dash-s.json](./232771-sonic-dash-s.json) |
@@ -20447,6 +20454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
 | Souls Inferno | 399668 | [399668-souls-inferno.json](./399668-souls-inferno.json) |
 | Souls of Amethyst | 145326 | [145326-souls-of-amethyst.json](./145326-souls-of-amethyst.json) |
+| Souls of Chronos | 233791 | [233791-souls-of-chronos.json](./233791-souls-of-chronos.json) |
 | Souls of Chronos Gaiden | 346370 | [346370-souls-of-chronos-gaiden.json](./346370-souls-of-chronos-gaiden.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Purgatory | 148194 | [148194-souls-of-purgatory.json](./148194-souls-of-purgatory.json) |
@@ -20588,6 +20596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundStage | 27777 | [27777-soundstage.json](./27777-soundstage.json) |
+| SoundStorm | 233804 | [233804-soundstorm.json](./233804-soundstorm.json) |
 | soundStrider | 134872 | [134872-soundstrider.json](./134872-soundstrider.json) |
 | Soundsxworld | 193063 | [193063-soundsxworld.json](./193063-soundsxworld.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
@@ -31513,6 +31522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubLight | 116568 | [116568-sublight.json](./116568-sublight.json) |
 | Sublime Element | 250790 | [250790-sublime-element.json](./250790-sublime-element.json) |
 | Sublime Solitaire | 270244 | [270244-sublime-solitaire.json](./270244-sublime-solitaire.json) |
+| Subliminal | 233669 | [233669-subliminal.json](./233669-subliminal.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
 | Subliminal Realms: The Masterpiece HD | 99717 | [99717-subliminal-realms-the-masterpiece-hd.json](./99717-subliminal-realms-the-masterpiece-hd.json) |
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
@@ -35480,6 +35490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pyonpon | 349749 | [349749-super-pyonpon.json](./349749-super-pyonpon.json) |
 | Super Qix | 39408 | [39408-super-qix.json](./39408-super-qix.json) |
 | Super Qube Hopper | 128857 | [128857-super-qube-hopper.json](./128857-super-qube-hopper.json) |
+| Super Quest | 233260 | [233260-super-quest.json](./233260-super-quest.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super Quintet | 68782 | [68782-super-quintet.json](./68782-super-quintet.json) |
 | Super R-Type | 42574 | [42574-super-r-type.json](./42574-super-r-type.json) |
