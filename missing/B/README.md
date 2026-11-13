@@ -197,6 +197,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BabelBloX | 96410 | [96410-babelblox.json](./96410-babelblox.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes | 273250 | [273250-babes.json](./273250-babes.json) |
+| Babes & Balls Vol. 1: X-Treme Beach Volleyball | 218628 | [218628-babes-and-balls-vol-1-x-treme-beach-volleyball.json](./218628-babes-and-balls-vol-1-x-treme-beach-volleyball.json) |
+| Babes & Balls Vol. 2: X-Treme Beach Soccer | 218629 | [218629-babes-and-balls-vol-2-x-treme-beach-soccer.json](./218629-babes-and-balls-vol-2-x-treme-beach-soccer.json) |
 | Babes & Balls Vol. 3: Gotcha Babes X-Treme | 218630 | [218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json](./218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json) |
 | Babes in Toyland | 69957 | [69957-babes-in-toyland.json](./69957-babes-in-toyland.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
@@ -12866,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueprint Tycoon | 28727 | [28727-blueprint-tycoon.json](./28727-blueprint-tycoon.json) |
 | Blueprint Word | 102980 | [102980-blueprint-word.json](./102980-blueprint-word.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
+| Blueprints | 218613 | [218613-blueprints.json](./218613-blueprints.json) |
 | Blues and Bullets: Episode 2 | 173376 | [173376-blues-and-bullets-episode-2.json](./173376-blues-and-bullets-episode-2.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
@@ -19432,6 +19435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burgleville | 336299 | [336299-burgleville.json](./336299-burgleville.json) |
 | Burglin' Gnomes | 383882 | [383882-burglin-gnomes.json](./383882-burglin-gnomes.json) |
+| Burial | 218614 | [218614-burial.json](./218614-burial.json) |
 | Burial | 334404 | [334404-burial.json](./334404-burial.json) |
 | Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
