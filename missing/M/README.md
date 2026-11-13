@@ -6621,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies: Ship of Spirits | 140188 | [140188-mayan-prophecies-ship-of-spirits.json](./140188-mayan-prophecies-ship-of-spirits.json) |
 | Mayan Prophecies: Ship of Spirits - Collector's Edition | 30005 | [30005-mayan-prophecies-ship-of-spirits-collectors-edition.json](./30005-mayan-prophecies-ship-of-spirits-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
+| Mayapan | 198408 | [198408-mayapan.json](./198408-mayapan.json) |
 | MayaQuest: The Mystery Trail | 73964 | [73964-mayaquest-the-mystery-trail.json](./73964-mayaquest-the-mystery-trail.json) |
 | Mayas' Virtual Brush | 63741 | [63741-mayas-virtual-brush.json](./63741-mayas-virtual-brush.json) |
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
@@ -9478,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood: Type Lumina | 145017 | [145017-melty-blood-type-lumina.json](./145017-melty-blood-type-lumina.json) |
 | Melty Blood: Type Lumina - Deluxe Edition | 165597 | [165597-melty-blood-type-lumina-deluxe-edition.json](./165597-melty-blood-type-lumina-deluxe-edition.json) |
 | Melty Blood: Type Lumina - Melty Blood Archives | 153649 | [153649-melty-blood-type-lumina-melty-blood-archives.json](./153649-melty-blood-type-lumina-melty-blood-archives.json) |
+| Melty Blood: Type Lumina - Powered Ciel Playable Character | 197842 | [197842-melty-blood-type-lumina-powered-ciel-playable-character.json](./197842-melty-blood-type-lumina-powered-ciel-playable-character.json) |
 | MeltyFlow: A Cozy Desktop Lava Lamp | 406676 | [406676-meltyflow-a-cozy-desktop-lava-lamp.json](./406676-meltyflow-a-cozy-desktop-lava-lamp.json) |
 | Meltylancer Re-inforce | 340415 | [340415-meltylancer-re-inforce.json](./340415-meltylancer-re-inforce.json) |
 | Meltylancer Re-inforce | 60976 | [60976-meltylancer-re-inforce.json](./60976-meltylancer-re-inforce.json) |
