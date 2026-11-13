@@ -13392,6 +13392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
 | Hydlide | 411363 | [411363-hydlide.json](./411363-hydlide.json) |
 | Hydlide | 9071 | [9071-hydlide.json](./9071-hydlide.json) |
+| Hydlide 1, 2, 3 | 240525 | [240525-hydlide-1-2-3.json](./240525-hydlide-1-2-3.json) |
 | Hydlide 3: Arranged | 388669 | [388669-hydlide-3-arranged.json](./388669-hydlide-3-arranged.json) |
 | Hydlide 3: Special Version | 388656 | [388656-hydlide-3-special-version.json](./388656-hydlide-3-special-version.json) |
 | Hydlide 3: Special Version | 388667 | [388667-hydlide-3-special-version.json](./388667-hydlide-3-special-version.json) |
