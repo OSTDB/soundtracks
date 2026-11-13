@@ -3292,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Command 2 | 151902 | [151902-carrier-command-2.json](./151902-carrier-command-2.json) |
 | Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
 | Carrier Command: Gaea Mission | 6934 | [6934-carrier-command-gaea-mission.json](./6934-carrier-command-gaea-mission.json) |
+| Carrier Commander | 186799 | [186799-carrier-commander.json](./186799-carrier-commander.json) |
 | Carrier Cuties: Pets in Mechs! | 403371 | [403371-carrier-cuties-pets-in-mechs.json](./403371-carrier-cuties-pets-in-mechs.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
@@ -4906,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Them All! | 407882 | [407882-catch-them-all.json](./407882-catch-them-all.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
 | Catch Them Sweetie | 271075 | [271075-catch-them-sweetie.json](./271075-catch-them-sweetie.json) |
+| Catch them! | 186857 | [186857-catch-them.json](./186857-catch-them.json) |
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch Time | 40590 | [40590-catch-time.json](./40590-catch-time.json) |
 | Catch Up | 261491 | [261491-catch-up.json](./261491-catch-up.json) |
