@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart | 195350 | [195350-wart.json](./195350-wart.json) |
+| Wart Worm Wingding | 185588 | [185588-wart-worm-wingding.json](./185588-wart-worm-wingding.json) |
 | Wart's Turn-Based Revenge | 256794 | [256794-warts-turn-based-revenge.json](./256794-warts-turn-based-revenge.json) |
 | Wartale | 55864 | [55864-wartale.json](./55864-wartale.json) |
 | Wartales: Contract - Fires in the Capital | 395803 | [395803-wartales-contract-fires-in-the-capital.json](./395803-wartales-contract-fires-in-the-capital.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within a Dead City | 244414 | [244414-within-a-dead-city.json](./244414-within-a-dead-city.json) |
 | Within a Deep Forest | 50465 | [50465-within-a-deep-forest.json](./50465-within-a-deep-forest.json) |
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
+| Within Her HeArt | 185578 | [185578-within-her-heart.json](./185578-within-her-heart.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within Lattice | 376278 | [376278-within-lattice.json](./376278-within-lattice.json) |
 | Within of Static: Ashburg Rental | 382077 | [382077-within-of-static-ashburg-rental.json](./382077-within-of-static-ashburg-rental.json) |
