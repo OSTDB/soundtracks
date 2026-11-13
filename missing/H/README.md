@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
 | Headstart | 54648 | [54648-headstart.json](./54648-headstart.json) |
 | HeadStart Fun Pac | 78891 | [78891-headstart-fun-pac.json](./78891-headstart-fun-pac.json) |
+| Headup Adventure Bundle | 192411 | [192411-headup-adventure-bundle.json](./192411-headup-adventure-bundle.json) |
 | Headup Multiplayer Bundle | 308620 | [308620-headup-multiplayer-bundle.json](./308620-headup-multiplayer-bundle.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
@@ -5143,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me Jack: Save the Dogs | 175731 | [175731-help-me-jack-save-the-dogs.json](./175731-help-me-jack-save-the-dogs.json) |
 | Help Me Now | 133221 | [133221-help-me-now.json](./133221-help-me-now.json) |
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
+| Help Me Remember, Satori-sama! | 192471 | [192471-help-me-remember-satori-sama.json](./192471-help-me-remember-satori-sama.json) |
 | Help Me, I'm Drowning | 128435 | [128435-help-me-im-drowning.json](./128435-help-me-im-drowning.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
 | Help Me! | 336959 | [336959-help-me.json](./336959-help-me.json) |
@@ -6836,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
+| Heroes of the Sacred Tree | 192934 | [192934-heroes-of-the-sacred-tree.json](./192934-heroes-of-the-sacred-tree.json) |
 | Heroes of the Seasons | 285671 | [285671-heroes-of-the-seasons.json](./285671-heroes-of-the-seasons.json) |
 | Heroes of the Seven Islands | 324252 | [324252-heroes-of-the-seven-islands.json](./324252-heroes-of-the-seven-islands.json) |
 | Heroes of the Seven Seas | 33673 | [33673-heroes-of-the-seven-seas.json](./33673-heroes-of-the-seven-seas.json) |
@@ -13046,6 +13049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | Hungry Tiger | 295746 | [295746-hungry-tiger.json](./295746-hungry-tiger.json) |
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
+| Hungry Zombies | 192468 | [192468-hungry-zombies.json](./192468-hungry-zombies.json) |
 | HungryMaster | 254258 | [254258-hungrymaster.json](./254258-hungrymaster.json) |
 | Huni Kuin: Beya Xinã Bena | 226009 | [226009-huni-kuin-beya-xina-bena.json](./226009-huni-kuin-beya-xina-bena.json) |
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
@@ -13657,6 +13661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Heroes | 54992 | [54992-hyper-heroes.json](./54992-hyper-heroes.json) |
 | Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
+| Hyper Hyper Hook | 192850 | [192850-hyper-hyper-hook.json](./192850-hyper-hyper-hook.json) |
 | Hyper Iria | 42334 | [42334-hyper-iria.json](./42334-hyper-iria.json) |
 | Hyper Jam | 30515 | [30515-hyper-jam.json](./30515-hyper-jam.json) |
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
@@ -13968,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
 | Hyperstar | 168649 | [168649-hyperstar.json](./168649-hyperstar.json) |
 | HyperStorm | 123741 | [123741-hyperstorm.json](./123741-hyperstorm.json) |
+| Hyperstrix | 192469 | [192469-hyperstrix.json](./192469-hyperstrix.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | HyperTag | 77408 | [77408-hypertag.json](./77408-hypertag.json) |
 | Hypertension | 256498 | [256498-hypertension.json](./256498-hypertension.json) |
