@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadbury Creme Egg: Goo the Egg | 307347 | [307347-cadbury-creme-egg-goo-the-egg.json](./307347-cadbury-creme-egg-goo-the-egg.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Caddie | 246321 | [246321-caddie.json](./246321-caddie.json) |
+| Caddywack | 207428 | [207428-caddywack.json](./207428-caddywack.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Caden's Climb | 291346 | [291346-cadens-climb.json](./291346-cadens-climb.json) |
@@ -3653,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashrooms | 338494 | [338494-cashrooms.json](./338494-cashrooms.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
+| Casino | 206887 | [206887-casino.json](./206887-casino.json) |
 | Casino | 54797 | [54797-casino.json](./54797-casino.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
@@ -3663,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Challenge | 44640 | [44640-casino-challenge.json](./44640-casino-challenge.json) |
 | Casino Chaos | 25541 | [25541-casino-chaos.json](./25541-casino-chaos.json) |
 | Casino Clicker: Vegas Style | 373221 | [373221-casino-clicker-vegas-style.json](./373221-casino-clicker-vegas-style.json) |
+| Casino Coach | 206888 | [206888-casino-coach.json](./206888-casino-coach.json) |
 | Casino Conqueror | 273376 | [273376-casino-conqueror.json](./273376-casino-conqueror.json) |
 | Casino Crime | 372784 | [372784-casino-crime.json](./372784-casino-crime.json) |
 | Casino De Luxe | 131274 | [131274-casino-de-luxe.json](./131274-casino-de-luxe.json) |
@@ -6835,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
+| Charlie and Friends | 207423 | [207423-charlie-and-friends.json](./207423-charlie-and-friends.json) |
 | Charlie and Lola Colouring | 108094 | [108094-charlie-and-lola-colouring.json](./108094-charlie-and-lola-colouring.json) |
 | Charlie and the Chocolate Factory | 22449 | [22449-charlie-and-the-chocolate-factory.json](./22449-charlie-and-the-chocolate-factory.json) |
 | Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
@@ -16318,6 +16322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corpses 'N Souls | 11066 | [11066-corpses-n-souls.json](./11066-corpses-n-souls.json) |
 | Corpses & Custards Character Creator | 179841 | [179841-corpses-and-custards-character-creator.json](./179841-corpses-and-custards-character-creator.json) |
+| Corpus Edax | 207444 | [207444-corpus-edax.json](./207444-corpus-edax.json) |
 | Corpus et Spiritus | 389092 | [389092-corpus-et-spiritus.json](./389092-corpus-et-spiritus.json) |
 | Corpus Machina | 375975 | [375975-corpus-machina.json](./375975-corpus-machina.json) |
 | Corpus Pugna | 318545 | [318545-corpus-pugna.json](./318545-corpus-pugna.json) |
@@ -17451,6 +17456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
 | Cozy Tide | 406852 | [406852-cozy-tide.json](./406852-cozy-tide.json) |
 | Cozy Tides | 342366 | [342366-cozy-tides.json](./342366-cozy-tides.json) |
+| Cozy Time | 207424 | [207424-cozy-time.json](./207424-cozy-time.json) |
 | Cozy Together | 320701 | [320701-cozy-together.json](./320701-cozy-together.json) |
 | Cozy Town | 380093 | [380093-cozy-town.json](./380093-cozy-town.json) |
 | Cozy Toy Shop | 378283 | [378283-cozy-toy-shop.json](./378283-cozy-toy-shop.json) |
