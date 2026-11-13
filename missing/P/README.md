@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paleophage | 236601 | [236601-paleophage.json](./236601-paleophage.json) |
 | Palesuckers | 268968 | [268968-palesuckers.json](./268968-palesuckers.json) |
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
+| Palette | 185576 | [185576-palette.json](./185576-palette.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palette: Glass Shard Mosaic | 410046 | [410046-palette-glass-shard-mosaic.json](./410046-palette-glass-shard-mosaic.json) |
@@ -7983,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Pong | 287585 | [287585-pink-pong.json](./287585-pink-pong.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
+| Pink Rose | 185169 | [185169-pink-rose.json](./185169-pink-rose.json) |
 | Pink Sweets: Ibara Sorekara | 66444 | [66444-pink-sweets-ibara-sorekara.json](./66444-pink-sweets-ibara-sorekara.json) |
 | Pink Takes Shape | 325995 | [325995-pink-takes-shape.json](./325995-pink-takes-shape.json) |
 | Pink World | 388950 | [388950-pink-world.json](./388950-pink-world.json) |
@@ -13141,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Politon | 259099 | [259099-politon.json](./259099-politon.json) |
 | Polity | 149228 | [149228-polity.json](./149228-polity.json) |
 | Polka | 153071 | [153071-polka.json](./153071-polka.json) |
+| Polka Dot Pirate | 185170 | [185170-polka-dot-pirate.json](./185170-polka-dot-pirate.json) |
 | Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
 | Polku! | 366380 | [366380-polku.json](./366380-polku.json) |
 | Pollen | 311239 | [311239-pollen.json](./311239-pollen.json) |
@@ -14037,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime: Chapter 3 - Deep Sleep | 258842 | [258842-poppy-playtime-chapter-3-deep-sleep.json](./258842-poppy-playtime-chapter-3-deep-sleep.json) |
 | Poppy Playtime: Chapter 4 - Safe Haven | 318284 | [318284-poppy-playtime-chapter-4-safe-haven.json](./318284-poppy-playtime-chapter-4-safe-haven.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
+| Poppy Saves Paintland | 185570 | [185570-poppy-saves-paintland.json](./185570-poppy-saves-paintland.json) |
 | Poppy Toast | 190776 | [190776-poppy-toast.json](./190776-poppy-toast.json) |
 | Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
 | PopSauce | 186044 | [186044-popsauce.json](./186044-popsauce.json) |
@@ -18863,6 +18867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulling USA | 87505 | [87505-pulling-usa.json](./87505-pulling-usa.json) |
 | Pulling USA 2 | 86883 | [86883-pulling-usa-2.json](./86883-pulling-usa-2.json) |
 | Pullstation | 349930 | [349930-pullstation.json](./349930-pullstation.json) |
+| Pullto | 185171 | [185171-pullto.json](./185171-pullto.json) |
 | Pullywog | 186636 | [186636-pullywog.json](./186636-pullywog.json) |
 | PulmEx | 215244 | [215244-pulmex.json](./215244-pulmex.json) |
 | Pulmonary | 106742 | [106742-pulmonary.json](./106742-pulmonary.json) |
