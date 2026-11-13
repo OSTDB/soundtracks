@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Parking | 309784 | [309784-hard-parking.json](./309784-hard-parking.json) |
 | Hard Place | 83987 | [83987-hard-place.json](./83987-hard-place.json) |
 | Hard Platformers Bundle | 331529 | [331529-hard-platformers-bundle.json](./331529-hard-platformers-bundle.json) |
+| Hard Platformers Pack: Super Cyborg and Dead Dungeon | 219185 | [219185-hard-platformers-pack-super-cyborg-and-dead-dungeon.json](./219185-hard-platformers-pack-super-cyborg-and-dead-dungeon.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Racing: Stunt Car Driving | 283264 | [283264-hard-racing-stunt-car-driving.json](./283264-hard-racing-stunt-car-driving.json) |
 | Hard Rank | 308701 | [308701-hard-rank.json](./308701-hard-rank.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazel Sky | 131883 | [131883-hazel-sky.json](./131883-hazel-sky.json) |
 | Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
 | Hazel the Plant Witch | 140790 | [140790-hazel-the-plant-witch.json](./140790-hazel-the-plant-witch.json) |
+| Hazelight Bundle | 219184 | [219184-hazelight-bundle.json](./219184-hazelight-bundle.json) |
 | Hazelnut Bastille | 36927 | [36927-hazelnut-bastille.json](./36927-hazelnut-bastille.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
