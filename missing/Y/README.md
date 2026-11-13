@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
 | Yukizuki no Seisou | 422661 | [422661-yukizuki-no-seisou.json](./422661-yukizuki-no-seisou.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
+| Yukkuri Iru | 221304 | [221304-yukkuri-iru.json](./221304-yukkuri-iru.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukkuri My Friends | 264845 | [264845-yukkuri-my-friends.json](./264845-yukkuri-my-friends.json) |
 | Yukkuri no Meikyuu | 54703 | [54703-yukkuri-no-meikyuu.json](./54703-yukkuri-no-meikyuu.json) |
