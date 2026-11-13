@@ -17264,6 +17264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid 69 | 197043 | [197043-covid-69.json](./197043-covid-69.json) |
 | Covid Cafe | 147171 | [147171-covid-cafe.json](./147171-covid-cafe.json) |
+| Covid Carl | 199535 | [199535-covid-carl.json](./199535-covid-carl.json) |
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid City | 147174 | [147174-covid-city.json](./147174-covid-city.json) |
 | Covid Kawaii! | 137406 | [137406-covid-kawaii.json](./137406-covid-kawaii.json) |
@@ -22281,6 +22282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Bodies | 224842 | [224842-cyber-bodies.json](./224842-cyber-bodies.json) |
 | Cyber Boxing Arena | 391419 | [391419-cyber-boxing-arena.json](./391419-cyber-boxing-arena.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
+| Cyber Car | 199407 | [199407-cyber-car.json](./199407-cyber-car.json) |
 | Cyber Car Seller Simulator | 347062 | [347062-cyber-car-seller-simulator.json](./347062-cyber-car-seller-simulator.json) |
 | Cyber Cars Punk Racing 2 | 248827 | [248827-cyber-cars-punk-racing-2.json](./248827-cyber-cars-punk-racing-2.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
