@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
 | Hack n Slash Prototype | 352243 | [352243-hack-n-slash-prototype.json](./352243-hack-n-slash-prototype.json) |
+| Hack Net | 208500 | [208500-hack-net.json](./208500-hack-net.json) |
 | Hack or Die! | 161469 | [161469-hack-or-die.json](./161469-hack-or-die.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack Run Zero | 34898 | [34898-hack-run-zero.json](./34898-hack-run-zero.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack the Planet | 402489 | [402489-hack-the-planet.json](./402489-hack-the-planet.json) |
 | Hack the System | 236355 | [236355-hack-the-system.json](./236355-hack-the-system.json) |
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
+| Hack Watch | 208501 | [208501-hack-watch.json](./208501-hack-watch.json) |
 | Hack_It | 33489 | [33489-hack-it.json](./33489-hack-it.json) |
 | Hack_Me | 31309 | [31309-hack-me.json](./31309-hack-me.json) |
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
@@ -7313,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexonex | 169658 | [169658-hexonex.json](./169658-hexonex.json) |
 | Hexonia | 153775 | [153775-hexonia.json](./153775-hexonia.json) |
 | Hexonomy | 168618 | [168618-hexonomy.json](./168618-hexonomy.json) |
+| Hexoplanet | 208490 | [208490-hexoplanet.json](./208490-hexoplanet.json) |
 | Hexopods | 75339 | [75339-hexopods.json](./75339-hexopods.json) |
 | Hexora | 347740 | [347740-hexora.json](./347740-hexora.json) |
 | Hexoria | 244722 | [244722-hexoria.json](./244722-hexoria.json) |
