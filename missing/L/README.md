@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landoria | 296637 | [296637-landoria.json](./296637-landoria.json) |
 | Landorus Therian Dating Simulator | 330104 | [330104-landorus-therian-dating-simulator.json](./330104-landorus-therian-dating-simulator.json) |
 | LandPort | 201005 | [201005-landport.json](./201005-landport.json) |
+| LandR | 185061 | [185061-landr.json](./185061-landr.json) |
 | Landraisers | 261585 | [261585-landraisers.json](./261585-landraisers.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands 101 | 143550 | [143550-lands-101.json](./143550-lands-101.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
 | Lead | 258843 | [258843-lead.json](./258843-lead.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
+| Lead Haul | 185066 | [185066-lead-haul.json](./185066-lead-haul.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
 | Lead Soldier | 270616 | [270616-lead-soldier.json](./270616-lead-soldier.json) |
 | Lead The Dragon | 356349 | [356349-lead-the-dragon.json](./356349-lead-the-dragon.json) |
@@ -2813,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Edda Brasil | 235639 | [235639-legend-of-edda-brasil.json](./235639-legend-of-edda-brasil.json) |
 | Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
 | Legend of Egypt: Jewels of the Gods | 275970 | [275970-legend-of-egypt-jewels-of-the-gods.json](./275970-legend-of-egypt-jewels-of-the-gods.json) |
+| Legend of Egypt: Jewels of the Gods 2 | 184532 | [184532-legend-of-egypt-jewels-of-the-gods-2.json](./184532-legend-of-egypt-jewels-of-the-gods-2.json) |
 | Legend of Egypt: Pharaoh's Garden 2 - The Sacred Crocodile | 227100 | [227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Elements | 368160 | [368160-legend-of-elements.json](./368160-legend-of-elements.json) |
@@ -5062,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
 | Lifeline: Whiteout 2 | 233833 | [233833-lifeline-whiteout-2.json](./233833-lifeline-whiteout-2.json) |
+| Lifeling | 185055 | [185055-lifeling.json](./185055-lifeling.json) |
 | Lifelong | 262851 | [262851-lifelong.json](./262851-lifelong.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Liferaft: Zero | 56329 | [56329-liferaft-zero.json](./56329-liferaft-zero.json) |
