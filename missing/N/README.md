@@ -1887,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
 | NecroWorld | 332946 | [332946-necroworld.json](./332946-necroworld.json) |
 | NecroWorm | 131969 | [131969-necroworm.json](./131969-necroworm.json) |
+| Nectar | 199544 | [199544-nectar.json](./199544-nectar.json) |
 | Nectar | 201541 | [201541-nectar.json](./201541-nectar.json) |
 | Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
@@ -5072,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare: The Elemental Curse | 25123 | [25123-nightmare-the-elemental-curse.json](./25123-nightmare-the-elemental-curse.json) |
 | Nightmare: The Lunatic | 186025 | [186025-nightmare-the-lunatic.json](./186025-nightmare-the-lunatic.json) |
 | Nightmare: The Origins | 173218 | [173218-nightmare-the-origins.json](./173218-nightmare-the-origins.json) |
+| Nightmare: The Origins - Curse of Night | 199553 | [199553-nightmare-the-origins-curse-of-night.json](./199553-nightmare-the-origins-curse-of-night.json) |
 | Nightmare: Worlds Collide | 248082 | [248082-nightmare-worlds-collide.json](./248082-nightmare-worlds-collide.json) |
 | Nightmare's Revenge | 322006 | [322006-nightmares-revenge.json](./322006-nightmares-revenge.json) |
 | NightmareBullet | 105364 | [105364-nightmarebullet.json](./105364-nightmarebullet.json) |
