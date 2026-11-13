@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
 | OK Golf | 89011 | [89011-ok-golf.json](./89011-ok-golf.json) |
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
+| OK K.O.!: Lakewood Plaza - Turbo | 193896 | [193896-ok-k-o-lakewood-plaza-turbo.json](./193896-ok-k-o-lakewood-plaza-turbo.json) |
 | OK, Dracula | 124507 | [124507-ok-dracula.json](./124507-ok-dracula.json) |
 | OK! Bird: Wing Up | 240863 | [240863-ok-bird-wing-up.json](./240863-ok-bird-wing-up.json) |
 | OK! Puzzle Stars | 308078 | [308078-ok-puzzle-stars.json](./308078-ok-puzzle-stars.json) |
@@ -6163,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord: Raising Hell | 45 | [45-overlord-raising-hell.json](./45-overlord-raising-hell.json) |
+| Overlord's Ambition | 193902 | [193902-overlords-ambition.json](./193902-overlords-ambition.json) |
 | Overlord's New Mansion | 120485 | [120485-overlords-new-mansion.json](./120485-overlords-new-mansion.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
 | Overlords | 77196 | [77196-overlords.json](./77196-overlords.json) |
