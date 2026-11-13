@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Shogun | 233835 | [233835-kingdom-two-crowns-shogun.json](./233835-kingdom-two-crowns-shogun.json) |
 | Kingdom Under Fire II | 6414 | [6414-kingdom-under-fire-ii.json](./6414-kingdom-under-fire-ii.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
+| Kingdom Under Fire: Avalanche | 205704 | [205704-kingdom-under-fire-avalanche.json](./205704-kingdom-under-fire-avalanche.json) |
 | Kingdom Under Fire: Circle of Doom | 18108 | [18108-kingdom-under-fire-circle-of-doom.json](./18108-kingdom-under-fire-circle-of-doom.json) |
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
 | Kingdom Under Fire: Heroes | 5882 | [5882-kingdom-under-fire-heroes.json](./5882-kingdom-under-fire-heroes.json) |
