@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 256 cosas en común entre una cama, un libro y una cerveza | 331972 | [331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json](./331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json) |
 | 256 vs. 256 | 284786 | [284786-256-vs-256.json](./284786-256-vs-256.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
+| 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 26 Rob Plays | 107326 | [107326-26-rob-plays.json](./107326-26-rob-plays.json) |
 | 2601: Teikoku Kidou Butai no Koubou | 66233 | [66233-2601-teikoku-kidou-butai-no-koubou.json](./66233-2601-teikoku-kidou-butai-no-koubou.json) |
