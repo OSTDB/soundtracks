@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Bunny's Big Day | 44947 | [44947-easter-bunnys-big-day.json](./44947-easter-bunnys-big-day.json) |
 | Easter Candy Break | 145310 | [145310-easter-candy-break.json](./145310-easter-candy-break.json) |
 | Easter Candy Break: Head to Head | 210696 | [210696-easter-candy-break-head-to-head.json](./210696-easter-candy-break-head-to-head.json) |
+| Easter Candy Run | 208499 | [208499-easter-candy-run.json](./208499-easter-candy-run.json) |
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
@@ -6744,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Survival | 341100 | [341100-eternal-survival.json](./341100-eternal-survival.json) |
 | Eternal Survivor | 247427 | [247427-eternal-survivor.json](./247427-eternal-survivor.json) |
+| Eternal Sword M | 207955 | [207955-eternal-sword-m.json](./207955-eternal-sword-m.json) |
 | Eternal Threads | 116400 | [116400-eternal-threads.json](./116400-eternal-threads.json) |
 | Eternal Tombs | 186118 | [186118-eternal-tombs.json](./186118-eternal-tombs.json) |
 | Eternal Towers | 420598 | [420598-eternal-towers.json](./420598-eternal-towers.json) |
@@ -8839,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Rider Simulator | 392602 | [392602-express-rider-simulator.json](./392602-express-rider-simulator.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
+| ExpressLane | 208488 | [208488-expresslane.json](./208488-expresslane.json) |
 | Expresso | 400609 | [400609-expresso.json](./400609-expresso.json) |
 | Expresso Espresso | 189848 | [189848-expresso-espresso.json](./189848-expresso-espresso.json) |
 | Expresso Run | 209183 | [209183-expresso-run.json](./209183-expresso-run.json) |
