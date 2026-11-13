@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Wars 2: Heroes | 91781 | [91781-cartoon-wars-2-heroes.json](./91781-cartoon-wars-2-heroes.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
+| Cartoonite | 238699 | [238699-cartoonite.json](./238699-cartoonite.json) |
 | Cartoonway: Mini Cars | 100470 | [100470-cartoonway-mini-cars.json](./100470-cartoonway-mini-cars.json) |
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
@@ -16017,6 +16018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Blaster | 208794 | [208794-core-blaster.json](./208794-core-blaster.json) |
 | Core Blaze | 28130 | [28130-core-blaze.json](./28130-core-blaze.json) |
 | Core Breach | 292991 | [292991-core-breach.json](./292991-core-breach.json) |
+| Core Crossing | 238778 | [238778-core-crossing.json](./238778-core-crossing.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defence | 266618 | [266618-core-defence.json](./266618-core-defence.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
