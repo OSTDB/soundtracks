@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton League | 308679 | [308679-badminton-league.json](./308679-badminton-league.json) |
+| Badminton Manager | 200079 | [200079-badminton-manager.json](./200079-badminton-manager.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
 | Badminton Stars! | 104276 | [104276-badminton-stars.json](./104276-badminton-stars.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
@@ -8471,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Hike | 362423 | [362423-bike-hike.json](./362423-bike-hike.json) |
 | Bike Hop: Crazy BMX Bike Jump | 216073 | [216073-bike-hop-crazy-bmx-bike-jump.json](./216073-bike-hop-crazy-bmx-bike-jump.json) |
 | Bike Jump | 203701 | [203701-bike-jump.json](./203701-bike-jump.json) |
+| Bike Mayhem | 200072 | [200072-bike-mayhem.json](./200072-bike-mayhem.json) |
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
 | Bike Mechanic Simulator 2023 | 199766 | [199766-bike-mechanic-simulator-2023.json](./199766-bike-mechanic-simulator-2023.json) |
 | Bike Messenger | 159466 | [159466-bike-messenger.json](./159466-bike-messenger.json) |
