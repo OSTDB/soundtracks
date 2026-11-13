@@ -9274,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
 | Gravity Guy Race | 237733 | [237733-gravity-guy-race.json](./237733-gravity-guy-race.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
+| Gravity Hook | 242824 | [242824-gravity-hook.json](./242824-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
 | Gravity Hop: Space Adventure | 111392 | [111392-gravity-hop-space-adventure.json](./111392-gravity-hop-space-adventure.json) |
 | Gravity House Duology | 378513 | [378513-gravity-house-duology.json](./378513-gravity-house-duology.json) |
