@@ -14580,6 +14580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Must Run | 326894 | [326894-slenderman-must-run.json](./326894-slenderman-must-run.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slenderman vs. Freddy the Fazbear | 241740 | [241740-slenderman-vs-freddy-the-fazbear.json](./241740-slenderman-vs-freddy-the-fazbear.json) |
+| Slenderman: Lost Children | 228188 | [228188-slenderman-lost-children.json](./228188-slenderman-lost-children.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
 | Slenderman: The Game | 79818 | [79818-slenderman-the-game.json](./79818-slenderman-the-game.json) |
 | Slenderman: Unbecoming | 173907 | [173907-slenderman-unbecoming.json](./173907-slenderman-unbecoming.json) |
@@ -27400,6 +27401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarLight Terminus | 180047 | [180047-starlight-terminus.json](./180047-starlight-terminus.json) |
 | Starlight Vega | 35041 | [35041-starlight-vega.json](./35041-starlight-vega.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
+| Starlight: Defence Command | 228646 | [228646-starlight-defence-command.json](./228646-starlight-defence-command.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlights | 251861 | [251861-starlights.json](./251861-starlights.json) |
@@ -31472,6 +31474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
 | Sub Hunter | 180661 | [180661-sub-hunter.json](./180661-sub-hunter.json) |
+| Sub Ninja | 228186 | [228186-sub-ninja.json](./228186-sub-ninja.json) |
 | Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
@@ -36470,6 +36473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | SuperBike TT | 36013 | [36013-superbike-tt.json](./36013-superbike-tt.json) |
 | Superbikes Riding Challenge | 23130 | [23130-superbikes-riding-challenge.json](./23130-superbikes-riding-challenge.json) |
+| SuperBolt | 228174 | [228174-superbolt.json](./228174-superbolt.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
 | Superbowl | 172527 | [172527-superbowl.json](./172527-superbowl.json) |
