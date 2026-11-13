@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Martha | 45367 | [45367-mad-martha.json](./45367-mad-martha.json) |
 | Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
 | Mad Marvin's Great Escape | 419115 | [419115-mad-marvins-great-escape.json](./419115-mad-marvins-great-escape.json) |
+| Mad Massacre | 211871 | [211871-mad-massacre.json](./211871-mad-massacre.json) |
 | Mad Max | 3034 | [3034-mad-max.json](./3034-mad-max.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
 | Mad Maze | 72969 | [72969-mad-maze.json](./72969-mad-maze.json) |
@@ -13357,6 +13358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindSweeper | 194773 | [194773-mindsweeper.json](./194773-mindsweeper.json) |
 | Mindtrap | 91406 | [91406-mindtrap.json](./91406-mindtrap.json) |
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
+| MindVenture | 211866 | [211866-mindventure.json](./211866-mindventure.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | MindWorks | 159566 | [159566-mindworks.json](./159566-mindworks.json) |
 | Mindworks: The Great Division | 227582 | [227582-mindworks-the-great-division.json](./227582-mindworks-the-great-division.json) |
@@ -13761,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner to Die | 378249 | [378249-miner-to-die.json](./378249-miner-to-die.json) |
 | Miner Tower Defense | 304439 | [304439-miner-tower-defense.json](./304439-miner-tower-defense.json) |
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
+| Miner Ultra Adventures 2: Illuminati Trail | 211884 | [211884-miner-ultra-adventures-2-illuminati-trail.json](./211884-miner-ultra-adventures-2-illuminati-trail.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
 | Miner Vidis | 305681 | [305681-miner-vidis.json](./305681-miner-vidis.json) |
