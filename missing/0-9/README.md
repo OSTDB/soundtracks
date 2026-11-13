@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
 | 6 Day Assassin | 171790 | [171790-6-day-assassin.json](./171790-6-day-assassin.json) |
 | 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
+| 6 Degrees of Sabotage | 185645 | [185645-6-degrees-of-sabotage.json](./185645-6-degrees-of-sabotage.json) |
 | 6 Differences | 261077 | [261077-6-differences.json](./261077-6-differences.json) |
 | 6 Feet Behind | 148729 | [148729-6-feet-behind.json](./148729-6-feet-behind.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
