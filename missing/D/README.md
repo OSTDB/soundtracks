@@ -6238,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown: The Legend Returns | 394671 | [394671-defender-of-the-crown-the-legend-returns.json](./394671-defender-of-the-crown-the-legend-returns.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Kingdom | 379851 | [379851-defender-of-the-kingdom.json](./379851-defender-of-the-kingdom.json) |
+| Defender of the Oasis | 214634 | [214634-defender-of-the-oasis.json](./214634-defender-of-the-oasis.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of the Wood | 249592 | [249592-defender-of-the-wood.json](./249592-defender-of-the-wood.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
@@ -7861,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Island Fishing | 56289 | [56289-desert-island-fishing.json](./56289-desert-island-fishing.json) |
 | Desert Island Survival | 212525 | [212525-desert-island-survival.json](./212525-desert-island-survival.json) |
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
+| Desert Journey: Nitro | 214644 | [214644-desert-journey-nitro.json](./214644-desert-journey-nitro.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom | 221611 | [221611-desert-kingdom.json](./221611-desert-kingdom.json) |
 | Desert Kingdom Portable | 64158 | [64158-desert-kingdom-portable.json](./64158-desert-kingdom-portable.json) |
@@ -10199,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dikes & Polders | 183292 | [183292-dikes-and-polders.json](./183292-dikes-and-polders.json) |
 | DiktaPunk: Fighting for Dominance | 239363 | [239363-diktapunk-fighting-for-dominance.json](./239363-diktapunk-fighting-for-dominance.json) |
 | DikuMUD | 419100 | [419100-dikumud.json](./419100-dikumud.json) |
+| Dilan | 214629 | [214629-dilan.json](./214629-dilan.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
 | Dilbert's Desktop Games | 131183 | [131183-dilberts-desktop-games.json](./131183-dilberts-desktop-games.json) |
 | Dildo Catcher | 253981 | [253981-dildo-catcher.json](./253981-dildo-catcher.json) |
@@ -15655,6 +15658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Mememe want to sleep | 335200 | [335200-dr-mememe-want-to-sleep.json](./335200-dr-mememe-want-to-sleep.json) |
 | Dr.Pumpkin | 210678 | [210678-dr-pumpkin.json](./210678-dr-pumpkin.json) |
 | Dr.Roland | 270768 | [270768-dr-roland.json](./270768-dr-roland.json) |
+| Dr.Stanley's House II | 214098 | [214098-dr-stanleys-house-ii.json](./214098-dr-stanleys-house-ii.json) |
 | Dr.Tool Augen Training | 91615 | [91615-dr-tool-augen-training.json](./91615-dr-tool-augen-training.json) |
 | Dr.Tool Augen Training 2 | 91616 | [91616-dr-tool-augen-training-2.json](./91616-dr-tool-augen-training-2.json) |
 | Dr.Tool Gehirn Sport | 81395 | [81395-dr-tool-gehirn-sport.json](./81395-dr-tool-gehirn-sport.json) |
