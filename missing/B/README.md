@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
 | Backrooms Blocks | 420918 | [420918-backrooms-blocks.json](./420918-backrooms-blocks.json) |
+| Backrooms Break | 237029 | [237029-backrooms-break.json](./237029-backrooms-break.json) |
 | Backrooms Brotherhood | 307641 | [307641-backrooms-brotherhood.json](./307641-backrooms-brotherhood.json) |
 | Backrooms Cats and Lava | 304830 | [304830-backrooms-cats-and-lava.json](./304830-backrooms-cats-and-lava.json) |
 | Backrooms Cleanup Crew | 317758 | [317758-backrooms-cleanup-crew.json](./317758-backrooms-cleanup-crew.json) |
@@ -2488,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Oasis 2 | 264973 | [264973-bar-oasis-2.json](./264973-bar-oasis-2.json) |
 | Bar Owner Simulator | 423402 | [423402-bar-owner-simulator.json](./423402-bar-owner-simulator.json) |
+| Bar Simulator | 236561 | [236561-bar-simulator.json](./236561-bar-simulator.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
 | Bar Soviet | 346544 | [346544-bar-soviet.json](./346544-bar-soviet.json) |
 | Bar Stella Abyss | 277489 | [277489-bar-stella-abyss.json](./277489-bar-stella-abyss.json) |
@@ -6242,6 +6244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beboblast | 326114 | [326114-beboblast.json](./326114-beboblast.json) |
 | Bebok Invasion | 226253 | [226253-bebok-invasion.json](./226253-bebok-invasion.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
+| Bebop | 237035 | [237035-bebop.json](./237035-bebop.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Bebshoru Lodbuka | 350675 | [350675-bebshoru-lodbuka.json](./350675-bebshoru-lodbuka.json) |
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
@@ -6393,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeeeeeeam | 82765 | [82765-beeeeeeeam.json](./82765-beeeeeeeam.json) |
 | Beef Cat Ultra | 295104 | [295104-beef-cat-ultra.json](./295104-beef-cat-ultra.json) |
 | Beef Drop | 14706 | [14706-beef-drop.json](./14706-beef-drop.json) |
+| Beef Jerky | 237039 | [237039-beef-jerky.json](./237039-beef-jerky.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
 | BeefArena | 345262 | [345262-beefarena.json](./345262-beefarena.json) |
 | BeefeaterXO | 29517 | [29517-beefeaterxo.json](./29517-beefeaterxo.json) |
@@ -10136,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack: Cheat the House! | 405149 | [405149-blackjack-cheat-the-house.json](./405149-blackjack-cheat-the-house.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
 | Blackjack/Poker/Acey-Deucey | 100176 | [100176-blackjack-poker-acey-deucey.json](./100176-blackjack-poker-acey-deucey.json) |
+| Blacklight | 237100 | [237100-blacklight.json](./237100-blacklight.json) |
 | Blacklight: Retribution | 2118 | [2118-blacklight-retribution.json](./2118-blacklight-retribution.json) |
 | Blacklight: Retribution - Evacuation Pack | 226259 | [226259-blacklight-retribution-evacuation-pack.json](./226259-blacklight-retribution-evacuation-pack.json) |
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
@@ -17674,6 +17679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Street 2 | 103893 | [103893-brutal-street-2.json](./103893-brutal-street-2.json) |
 | Brutal Strife | 198683 | [198683-brutal-strife.json](./198683-brutal-strife.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
+| Brutal TD | 237098 | [237098-brutal-td.json](./237098-brutal-td.json) |
 | Brutal Universe | 178979 | [178979-brutal-universe.json](./178979-brutal-universe.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
 | Brutal War | 391543 | [391543-brutal-war.json](./391543-brutal-war.json) |
@@ -19268,6 +19274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burg | 208562 | [208562-burg.json](./208562-burg.json) |
 | Burg Battle | 153391 | [153391-burg-battle.json](./153391-burg-battle.json) |
 | Burg Schreckenstein: Der Dieb von Burg Schreckenstein | 376559 | [376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json](./376559-burg-schreckenstein-der-dieb-von-burg-schreckenstein.json) |
+| Burg Wimmel | 236563 | [236563-burg-wimmel.json](./236563-burg-wimmel.json) |
 | Burg's Buyout | 411262 | [411262-burgs-buyout.json](./411262-burgs-buyout.json) |
 | Burgaholic | 343793 | [343793-burgaholic.json](./343793-burgaholic.json) |
 | Burgal's Bounty | 205604 | [205604-burgals-bounty.json](./205604-burgals-bounty.json) |
