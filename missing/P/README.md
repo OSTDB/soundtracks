@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
+| Paranormal Cleanup | 235510 | [235510-paranormal-cleanup.json](./235510-paranormal-cleanup.json) |
 | ParaNormal Commute | 237234 | [237234-paranormal-commute.json](./237234-paranormal-commute.json) |
 | Paranormal Cryptid Lovers | 228881 | [228881-paranormal-cryptid-lovers.json](./228881-paranormal-cryptid-lovers.json) |
 | Paranormal Detective: Escape from the 80's | 120813 | [120813-paranormal-detective-escape-from-the-80s.json](./120813-paranormal-detective-escape-from-the-80s.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | Paranoya | 204269 | [204269-paranoya.json](./204269-paranoya.json) |
+| Paraopticon | 235504 | [235504-paraopticon.json](./235504-paraopticon.json) |
 | Parapara Leloluv | 226473 | [226473-parapara-leloluv.json](./226473-parapara-leloluv.json) |
 | ParaParaParadise | 77554 | [77554-paraparaparadise.json](./77554-paraparaparadise.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
