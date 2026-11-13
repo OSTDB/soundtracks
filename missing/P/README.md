@@ -12816,6 +12816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokettohiro | 333063 | [333063-pokettohiro.json](./333063-pokettohiro.json) |
 | PokeVoid | 343903 | [343903-pokevoid.json](./343903-pokevoid.json) |
 | Pokéwalker | 245421 | [245421-pokewalker.json](./245421-pokewalker.json) |
+| PokéWilds | 204629 | [204629-pokewilds.json](./204629-pokewilds.json) |
 | PokeXGames | 145038 | [145038-pokexgames.json](./145038-pokexgames.json) |
 | PokExp | 144250 | [144250-pokexp.json](./144250-pokexp.json) |
 | Pokey Ball | 325665 | [325665-pokey-ball.json](./325665-pokey-ball.json) |
@@ -15646,6 +15647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime Mover | 100491 | [100491-prime-mover.json](./100491-prime-mover.json) |
 | Prime Mover | 12722 | [12722-prime-mover.json](./12722-prime-mover.json) |
+| Prime of Flames | 204606 | [204606-prime-of-flames.json](./204606-prime-of-flames.json) |
 | Prime Remastered | 314573 | [314573-prime-remastered.json](./314573-prime-remastered.json) |
 | Prime Rush | 380924 | [380924-prime-rush.json](./380924-prime-rush.json) |
 | Prime Shift | 51771 | [51771-prime-shift.json](./51771-prime-shift.json) |
