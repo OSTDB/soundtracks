@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | Rageblocks | 259950 | [259950-rageblocks.json](./259950-rageblocks.json) |
 | RageByte | 383677 | [383677-ragebyte.json](./383677-ragebyte.json) |
+| RageChicken | 181414 | [181414-ragechicken.json](./181414-ragechicken.json) |
 | Ragedanger Earth | 203664 | [203664-ragedanger-earth.json](./203664-ragedanger-earth.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Rager | 295512 | [295512-rager.json](./295512-rager.json) |
@@ -6886,6 +6887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return To Booty Grotto | 363003 | [363003-return-to-booty-grotto.json](./363003-return-to-booty-grotto.json) |
 | Return to Campus | 328926 | [328926-return-to-campus.json](./328926-return-to-campus.json) |
 | Return To Castle Arbeitsamt | 402874 | [402874-return-to-castle-arbeitsamt.json](./402874-return-to-castle-arbeitsamt.json) |
+| Return to Castle Monkey Ball | 181820 | [181820-return-to-castle-monkey-ball.json](./181820-return-to-castle-monkey-ball.json) |
 | Return to Castle Wolfenstein: Game of the Year Edition | 209195 | [209195-return-to-castle-wolfenstein-game-of-the-year-edition.json](./209195-return-to-castle-wolfenstein-game-of-the-year-edition.json) |
 | Return to Castle Wolfenstein: Operation Resurrection | 77219 | [77219-return-to-castle-wolfenstein-operation-resurrection.json](./77219-return-to-castle-wolfenstein-operation-resurrection.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
@@ -11448,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
 | Rolling Car | 198069 | [198069-rolling-car.json](./198069-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
+| Rolling Chicken TD | 181417 | [181417-rolling-chicken-td.json](./181417-rolling-chicken-td.json) |
 | Rolling Combine | 292573 | [292573-rolling-combine.json](./292573-rolling-combine.json) |
 | Rolling Core | 372713 | [372713-rolling-core.json](./372713-rolling-core.json) |
 | Rolling Crash | 277500 | [277500-rolling-crash.json](./277500-rolling-crash.json) |
@@ -12294,6 +12297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rothschild: The Sheep Will Wake | 34136 | [34136-rothschild-the-sheep-will-wake.json](./34136-rothschild-the-sheep-will-wake.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
+| Rotisserie Relapse | 181413 | [181413-rotisserie-relapse.json](./181413-rotisserie-relapse.json) |
 | ROTN Quiz game 2 | 71168 | [71168-rotn-quiz-game-2.json](./71168-rotn-quiz-game-2.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | Roto16 | 234055 | [234055-roto16.json](./234055-roto16.json) |
@@ -14303,6 +14307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
 | Ryan Marks Revenge Mission | 136821 | [136821-ryan-marks-revenge-mission.json](./136821-ryan-marks-revenge-mission.json) |
 | Ryan Veeder's Authentic Fly Fishing | 216330 | [216330-ryan-veeders-authentic-fly-fishing.json](./216330-ryan-veeders-authentic-fly-fishing.json) |
+| Ryan Veeder's Mud Warriors | 181823 | [181823-ryan-veeders-mud-warriors.json](./181823-ryan-veeders-mud-warriors.json) |
 | Ryan Ward's Lunch-Out!! | 371521 | [371521-ryan-wards-lunch-out.json](./371521-ryan-wards-lunch-out.json) |
 | Ryan's Apparition Wandering Restaurant | 336065 | [336065-ryans-apparition-wandering-restaurant.json](./336065-ryans-apparition-wandering-restaurant.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
