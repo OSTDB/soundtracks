@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Deluxe Bundle | 331479 | [331479-need-for-speed-deluxe-bundle.json](./331479-need-for-speed-deluxe-bundle.json) |
 | Need for Speed GT | 137897 | [137897-need-for-speed-gt.json](./137897-need-for-speed-gt.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
+| Need for Speed II: Special Edition | 201747 | [201747-need-for-speed-ii-special-edition.json](./201747-need-for-speed-ii-special-edition.json) |
 | Need for Speed Most Wanted U | 21699 | [21699-need-for-speed-most-wanted-u.json](./21699-need-for-speed-most-wanted-u.json) |
 | Need For Speed Pro Street Pepega Edition | 257349 | [257349-need-for-speed-pro-street-pepega-edition.json](./257349-need-for-speed-pro-street-pepega-edition.json) |
 | Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
@@ -5200,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
 | Nigudin Really Fought Against Furong Wangyuan | 341373 | [341373-nigudin-really-fought-against-furong-wangyuan.json](./341373-nigudin-really-fought-against-furong-wangyuan.json) |
+| Nihil | 201332 | [201332-nihil.json](./201332-nihil.json) |
 | Nihil Ignis Incident 48 | 285400 | [285400-nihil-ignis-incident-48.json](./285400-nihil-ignis-incident-48.json) |
 | Nihilism | 71163 | [71163-nihilism.json](./71163-nihilism.json) |
 | Nihilist | 37287 | [37287-nihilist.json](./37287-nihilist.json) |
@@ -6059,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Street Run 2 | 300349 | [300349-nitro-street-run-2.json](./300349-nitro-street-run-2.json) |
 | Nitro Stunt Racing: Stage 1 | 97529 | [97529-nitro-stunt-racing-stage-1.json](./97529-nitro-stunt-racing-stage-1.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
+| Nitro Trucks | 201733 | [201733-nitro-trucks.json](./201733-nitro-trucks.json) |
 | Nitro Turtles | 371518 | [371518-nitro-turtles.json](./371518-nitro-turtles.json) |
 | Nitro Type | 56235 | [56235-nitro-type.json](./56235-nitro-type.json) |
 | Nitro: Stream Racing | 231860 | [231860-nitro-stream-racing.json](./231860-nitro-stream-racing.json) |
@@ -7523,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Chess | 360284 | [360284-not-chess.json](./360284-not-chess.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
+| Not Dream Syndrome | 201335 | [201335-not-dream-syndrome.json](./201335-not-dream-syndrome.json) |
 | Not Dying Today | 29995 | [29995-not-dying-today.json](./29995-not-dying-today.json) |
 | Not Easy | 348533 | [348533-not-easy.json](./348533-not-easy.json) |
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
