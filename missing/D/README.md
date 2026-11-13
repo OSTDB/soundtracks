@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D Pistols | 261005 | [261005-d-pistols.json](./261005-d-pistols.json) |
 | D Series Off Road Driving Simulation | 35478 | [35478-d-series-off-road-driving-simulation.json](./35478-d-series-off-road-driving-simulation.json) |
+| D_Cide Traumerei | 172834 | [172834-d-cide-traumerei.json](./172834-d-cide-traumerei.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
 | D-Beat Heroes | 403380 | [403380-d-beat-heroes.json](./403380-d-beat-heroes.json) |
 | D-Corp | 142824 | [142824-d-corp.json](./142824-d-corp.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Junkie | 302848 | [302848-dance-junkie.json](./302848-dance-junkie.json) |
 | Dance Killer Trick!!!: Boys, Be Dancing | 274080 | [274080-dance-killer-trick-boys-be-dancing.json](./274080-dance-killer-trick-boys-be-dancing.json) |
 | Dance Legend | 56818 | [56818-dance-legend.json](./56818-dance-legend.json) |
+| Dance Like a Butterfly, Shot Like a Bee! | 173322 | [173322-dance-like-a-butterfly-shot-like-a-bee.json](./173322-dance-like-a-butterfly-shot-like-a-bee.json) |
 | Dance Loop | 368715 | [368715-dance-loop.json](./368715-dance-loop.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
@@ -11862,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisplaceMen | 328919 | [328919-displacemen.json](./328919-displacemen.json) |
 | Displacement | 341422 | [341422-displacement.json](./341422-displacement.json) |
 | Displacement of Water | 417574 | [417574-displacement-of-water.json](./417574-displacement-of-water.json) |
+| Displacer Beast | 172831 | [172831-displacer-beast.json](./172831-displacer-beast.json) |
 | Disposable | 185047 | [185047-disposable.json](./185047-disposable.json) |
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
@@ -18240,6 +18243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
 | Drifting Hearts | 182952 | [182952-drifting-hearts.json](./182952-drifting-hearts.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
+| Drifting: Weight of Feathers | 172818 | [172818-drifting-weight-of-feathers.json](./172818-drifting-weight-of-feathers.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | DriftKing 2D | 135464 | [135464-driftking-2d.json](./135464-driftking-2d.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
@@ -21274,6 +21278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Digital Deluxe Edition | 118662 | [118662-dynasty-warriors-9-digital-deluxe-edition.json](./118662-dynasty-warriors-9-digital-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
+| Dynasty Warriors 9: Empires - 20th Anniversary Box | 172824 | [172824-dynasty-warriors-9-empires-20th-anniversary-box.json](./172824-dynasty-warriors-9-empires-20th-anniversary-box.json) |
 | Dynasty Warriors 9: Empires - Deluxe Edition | 194262 | [194262-dynasty-warriors-9-empires-deluxe-edition.json](./194262-dynasty-warriors-9-empires-deluxe-edition.json) |
 | Dynasty Warriors 9: Empires - Idol Stage | 191040 | [191040-dynasty-warriors-9-empires-idol-stage.json](./191040-dynasty-warriors-9-empires-idol-stage.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
