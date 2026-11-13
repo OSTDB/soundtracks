@@ -35277,6 +35277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario: The Cubeland Story | 324071 | [324071-super-paper-mario-the-cubeland-story.json](./324071-super-paper-mario-the-cubeland-story.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
+| Super Passport Bros | 241667 | [241667-super-passport-bros.json](./241667-super-passport-bros.json) |
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
 | Super Paul World | 266034 | [266034-super-paul-world.json](./266034-super-paul-world.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
