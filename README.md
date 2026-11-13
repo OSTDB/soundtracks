@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,272" src="https://img.shields.io/badge/soundtracks-3%2C272-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,789" src="https://img.shields.io/badge/games-2%2C789-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 345,912" src="https://img.shields.io/badge/missing-345%2C912-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 346,967" src="https://img.shields.io/badge/missing-346%2C967-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/power-hover"><img src="https://i.scdn.co/image/ab67616d0000b273e88d199a4f84bf9e4a1bc74a" width="120" height="120" alt="" /></a><br /><sub><b>Power Hover</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bombslinger"><img src="https://i.scdn.co/image/ab67616d0000b273f70be896624be44180175c2f" width="120" height="120" alt="" /></a><br /><sub><b>Bombslinger</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/engare"><img src="https://i.scdn.co/image/ab67616d0000b273b831049eb254f8a2d23713cc" width="120" height="120" alt="" /></a><br /><sub><b>Engare</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/evochron-legacy"><img src="https://i.scdn.co/image/ab67616d0000b27331edd42e857f8a8fc26f48a6" width="120" height="120" alt="" /></a><br /><sub><b>Evochron Legacy</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/florensia"><img src="https://i.scdn.co/image/ab67616d0000b2733d43089162cfbaeb1e225c5c" width="120" height="120" alt="" /></a><br /><sub><b>Florensia</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/taimumari"><img src="https://i.scdn.co/image/ab67616d0000b2731c7189aa61f03fed5e828460" width="120" height="120" alt="" /></a><br /><sub><b>Taimumari</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/teslapunk"><img src="https://i.scdn.co/image/ab67616d0000b273536aecc5c33a954322267e04" width="120" height="120" alt="" /></a><br /><sub><b>Teslapunk</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lego-universe"><img src="https://i.scdn.co/image/ab67616d0000b27320309d8a375ad835e6e9d458" width="120" height="120" alt="" /></a><br /><sub><b>LEGO Universe</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/nano-assault-neo"><img src="https://i.scdn.co/image/ab67616d0000b273e3ae5069ffda815fd671544b" width="120" height="120" alt="" /></a><br /><sub><b>Nano Assault Neo</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/arthur-and-the-invisibles"><img src="https://i.scdn.co/image/ab67616d0000b273d2361d74114cc6356258306c" width="120" height="120" alt="" /></a><br /><sub><b>Arthur and the Invisibles</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/choice-chamber"><img src="https://i.scdn.co/image/ab67616d0000b27370ef4f44bdafdcbd452eca88" width="120" height="120" alt="" /></a><br /><sub><b>Choice Chamber</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/laser-disco-defenders"><img src="https://i.scdn.co/image/ab67616d0000b2731f70e816bfbbd8b0b6b6e88e" width="120" height="120" alt="" /></a><br /><sub><b>Laser Disco Defenders</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/colina-legacy"><img src="https://i.scdn.co/image/ab67616d0000b273af850b885d4991095344e027" width="120" height="120" alt="" /></a><br /><sub><b>Colina: Legacy</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/one-more-line"><img src="https://i.scdn.co/image/ab67616d0000b2734070e0052bf70d038f1df602" width="120" height="120" alt="" /></a><br /><sub><b>One More Line</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skeleton-boomerang"><img src="https://i.scdn.co/image/ab67616d0000b27312fe3580bad68f91f41e16f9" width="120" height="120" alt="" /></a><br /><sub><b>Skeleton Boomerang</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/puyo-puyo-7"><img src="https://i.scdn.co/image/ab67616d0000b273b497f6c22937cead8cc50f39" width="120" height="120" alt="" /></a><br /><sub><b>Puyo Puyo 7</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/eselmir-and-the-five-magical-gifts"><img src="https://i.scdn.co/image/ab67616d0000b273e8d5118e9889f44e66ba5a4a" width="120" height="120" alt="" /></a><br /><sub><b>Eselmir and the Five Magical Gifts</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/earthworms"><img src="https://i.scdn.co/image/ab67616d0000b27398387b4e7da471d8b685edb3" width="120" height="120" alt="" /></a><br /><sub><b>EarthWorms</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tadpole-treble"><img src="https://i.scdn.co/image/ab67616d0000b27377a81ef61f5a8d413f2c0c93" width="120" height="120" alt="" /></a><br /><sub><b>Tadpole Treble</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ians-eyes"><img src="https://i.scdn.co/image/ab67616d0000b2734428a673f9dde323ab50ae9b" width="120" height="120" alt="" /></a><br /><sub><b>Ian's Eyes</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/adventure-lamp"><img src="https://i.scdn.co/image/ab67616d0000b273000f7e5fbad8bde9975f4a75" width="120" height="120" alt="" /></a><br /><sub><b>Adventure Lamp</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/luckslinger"><img src="https://i.scdn.co/image/ab67616d0000b2733ba697dd360c0988c5676872" width="120" height="120" alt="" /></a><br /><sub><b>Luckslinger</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/karma-incarnation-1"><img src="https://i.scdn.co/image/ab67616d0000b2733634549c073055c9d4921d60" width="120" height="120" alt="" /></a><br /><sub><b>Karma. Incarnation 1</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/halloween-forever"><img src="https://i.scdn.co/image/ab67616d0000b2738d14b0f384ccbf23a3b58df4" width="120" height="120" alt="" /></a><br /><sub><b>Halloween Forever</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (345,912 games).
+More in **[missing/](missing/README.md)** (346,967 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,272 soundtracks &middot; last updated 2026-11-13T06:35:49.349Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,272 soundtracks &middot; last updated 2026-11-13T06:41:07.523Z</sub>
