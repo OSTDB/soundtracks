@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Cover! | 120243 | [120243-take-cover.json](./120243-take-cover.json) |
 | Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
 | Take Five CD-Rom: The Entertainer - Five Entertaining Titles in One Box | 84128 | [84128-take-five-cd-rom-the-entertainer-five-entertaining-titles-in-one-box.json](./84128-take-five-cd-rom-the-entertainer-five-entertaining-titles-in-one-box.json) |
+| Take Flight 2 | 212388 | [212388-take-flight-2.json](./212388-take-flight-2.json) |
 | Take It Easy | 105531 | [105531-take-it-easy.json](./105531-take-it-easy.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take It Seriously! Extreme Common Sense Challenge | 401095 | [401095-take-it-seriously-extreme-common-sense-challenge.json](./401095-take-it-seriously-extreme-common-sense-challenge.json) |
@@ -8882,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deed of Deception | 148941 | [148941-the-deed-of-deception.json](./148941-the-deed-of-deception.json) |
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
+| The Deep | 212387 | [212387-the-deep.json](./212387-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
 | The Deep | 79737 | [79737-the-deep.json](./79737-the-deep.json) |
 | The Deep Cave | 66257 | [66257-the-deep-cave.json](./66257-the-deep-cave.json) |
@@ -19071,6 +19073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Tennis for Two Simulator | 340020 | [340020-the-tennis-for-two-simulator.json](./340020-the-tennis-for-two-simulator.json) |
 | The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
+| The Tennis T | 212382 | [212382-the-tennis-t.json](./212382-the-tennis-t.json) |
 | The Tension | 110764 | [110764-the-tension.json](./110764-the-tension.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
 | The Tentacle Hunter, Yuri | 97619 | [97619-the-tentacle-hunter-yuri.json](./97619-the-tentacle-hunter-yuri.json) |
@@ -21240,6 +21243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Them's Fightin' Herds: Texas | 230998 | [230998-thems-fightin-herds-texas.json](./230998-thems-fightin-herds-texas.json) |
 | Them's Tale: The Road to Her | 395882 | [395882-thems-tale-the-road-to-her.json](./395882-thems-tale-the-road-to-her.json) |
 | TheMafioso | 387471 | [387471-themafioso.json](./387471-themafioso.json) |
+| TheMagicEgg | 212401 | [212401-themagicegg.json](./212401-themagicegg.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
 | Theme Hospital | 216009 | [216009-theme-hospital.json](./216009-theme-hospital.json) |
@@ -21768,6 +21772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirteen Tombs of the Brilliant Dynasty | 271532 | [271532-thirteen-tombs-of-the-brilliant-dynasty.json](./271532-thirteen-tombs-of-the-brilliant-dynasty.json) |
 | Thirtle | 370381 | [370381-thirtle.json](./370381-thirtle.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
+| Thirty Days & Seven Seas: Pirate Battle Board Game Starring Clarence, Jeff and Sumo | 212404 | [212404-thirty-days-and-seven-seas-pirate-battle-board-game-starring-clarence-jeff-and-sumo.json](./212404-thirty-days-and-seven-seas-pirate-battle-board-game-starring-clarence-jeff-and-sumo.json) |
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
@@ -26380,6 +26385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Race Driver 2 | 6201 | [6201-toca-race-driver-2.json](./6201-toca-race-driver-2.json) |
 | TOCA Race Driver 3 | 907 | [907-toca-race-driver-3.json](./907-toca-race-driver-3.json) |
 | TOCA Race Driver 3 Challenge | 42849 | [42849-toca-race-driver-3-challenge.json](./42849-toca-race-driver-3-challenge.json) |
+| Toca Store | 212411 | [212411-toca-store.json](./212411-toca-store.json) |
 | TOCA Touring Car Championship | 201751 | [201751-toca-touring-car-championship.json](./201751-toca-touring-car-championship.json) |
 | Toca Train | 108650 | [108650-toca-train.json](./108650-toca-train.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
