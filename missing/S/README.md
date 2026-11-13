@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus in Trouble... Again! | 351561 | [351561-santa-claus-in-trouble-again.json](./351561-santa-claus-in-trouble-again.json) |
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
+| Santa Claus Journey | 242837 | [242837-santa-claus-journey.json](./242837-santa-claus-journey.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
 | Santa Claus no Takara-bako | 41250 | [41250-santa-claus-no-takara-bako.json](./41250-santa-claus-no-takara-bako.json) |
 | Santa Claus Saves The Earth | 49237 | [49237-santa-claus-saves-the-earth.json](./49237-santa-claus-saves-the-earth.json) |
@@ -12982,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Cally | 109320 | [109320-skater-cally.json](./109320-skater-cally.json) |
 | Skater Cat | 85377 | [85377-skater-cat.json](./85377-skater-cat.json) |
+| Skater Escape | 242290 | [242290-skater-escape.json](./242290-skater-escape.json) |
 | Skater Frog | 129048 | [129048-skater-frog.json](./129048-skater-frog.json) |
 | Skater Girl - Makeup & Dressup | 87874 | [87874-skater-girl-makeup-and-dressup.json](./87874-skater-girl-makeup-and-dressup.json) |
 | Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
@@ -28059,6 +28061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alight | 35890 | [35890-stay-alight.json](./35890-stay-alight.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 201419 | [201419-stay-alive.json](./201419-stay-alive.json) |
+| Stay Alive | 242832 | [242832-stay-alive.json](./242832-stay-alive.json) |
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son PC | 367706 | [367706-stay-alive-my-son-pc.json](./367706-stay-alive-my-son-pc.json) |
@@ -34792,6 +34795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Scene Creator | 328343 | [328343-super-mario-scene-creator.json](./328343-super-mario-scene-creator.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Skycastle | 222648 | [222648-super-mario-skycastle.json](./222648-super-mario-skycastle.json) |
+| Super Mario Solarshine | 242841 | [242841-super-mario-solarshine.json](./242841-super-mario-solarshine.json) |
 | Super Mario Spectral | 401859 | [401859-super-mario-spectral.json](./401859-super-mario-spectral.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Path | 314130 | [314130-super-mario-star-path.json](./314130-super-mario-star-path.json) |
