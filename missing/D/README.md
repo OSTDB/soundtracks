@@ -8290,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: The Witch Queen - Deluxe Edition | 165326 | [165326-destiny-2-the-witch-queen-deluxe-edition.json](./165326-destiny-2-the-witch-queen-deluxe-edition.json) |
 | Destiny 2: The Witch Queen - Season of Plunder | 214424 | [214424-destiny-2-the-witch-queen-season-of-plunder.json](./214424-destiny-2-the-witch-queen-season-of-plunder.json) |
 | Destiny 2: The Witch Queen - Season of the Haunted | 202604 | [202604-destiny-2-the-witch-queen-season-of-the-haunted.json](./202604-destiny-2-the-witch-queen-season-of-the-haunted.json) |
+| Destiny 2: The Witch Queen - Season of the Risen | 191766 | [191766-destiny-2-the-witch-queen-season-of-the-risen.json](./191766-destiny-2-the-witch-queen-season-of-the-risen.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
@@ -14875,6 +14876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
+| Dordle | 191279 | [191279-dordle.json](./191279-dordle.json) |
 | Dordogne | 132188 | [132188-dordogne.json](./132188-dordogne.json) |
 | Dorei Iinchou: Haramase Choukyou | 97481 | [97481-dorei-iinchou-haramase-choukyou.json](./97481-dorei-iinchou-haramase-choukyou.json) |
 | Dorei Same | 279986 | [279986-dorei-same.json](./279986-dorei-same.json) |
@@ -18664,6 +18666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
 | DropCore | 58329 | [58329-dropcore.json](./58329-dropcore.json) |
 | DropDisk | 339573 | [339573-dropdisk.json](./339573-dropdisk.json) |
+| Dropdom: Jigsaw Puzzle | 191771 | [191771-dropdom-jigsaw-puzzle.json](./191771-dropdom-jigsaw-puzzle.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | DropingBalls | 265364 | [265364-dropingballs.json](./265364-dropingballs.json) |
 | Dropkick Navvy | 267716 | [267716-dropkick-navvy.json](./267716-dropkick-navvy.json) |
@@ -19356,6 +19359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelists of Eden | 196748 | [196748-duelists-of-eden.json](./196748-duelists-of-eden.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duelmasters | 370157 | [370157-duelmasters.json](./370157-duelmasters.json) |
+| Duels | 191763 | [191763-duels.json](./191763-duels.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | Duels of Fortune | 138441 | [138441-duels-of-fortune.json](./138441-duels-of-fortune.json) |
@@ -19895,6 +19899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
+| Dungeon Ikusa | 191274 | [191274-dungeon-ikusa.json](./191274-dungeon-ikusa.json) |
 | Dungeon in a Bottle | 222353 | [222353-dungeon-in-a-bottle.json](./222353-dungeon-in-a-bottle.json) |
 | Dungeon in Grid Puzzles | 237244 | [237244-dungeon-in-grid-puzzles.json](./237244-dungeon-in-grid-puzzles.json) |
 | Dungeon Infinite | 56029 | [56029-dungeon-infinite.json](./56029-dungeon-infinite.json) |
