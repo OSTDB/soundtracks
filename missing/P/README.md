@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
 | Paper Beast: VR Upgrade for Folded Edition | 381754 | [381754-paper-beast-vr-upgrade-for-folded-edition.json](./381754-paper-beast-vr-upgrade-for-folded-edition.json) |
+| Paper Birds | 192856 | [192856-paper-birds.json](./192856-paper-birds.json) |
 | Paper Blast | 102674 | [102674-paper-blast.json](./102674-paper-blast.json) |
 | Paper Bleed | 350019 | [350019-paper-bleed.json](./350019-paper-bleed.json) |
 | Paper Boats | 161155 | [161155-paper-boats.json](./161155-paper-boats.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
 | Paraside: Duality Unbound | 293600 | [293600-paraside-duality-unbound.json](./293600-paraside-duality-unbound.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
+| Parasite | 192932 | [192932-parasite.json](./192932-parasite.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
 | Parasite | 234787 | [234787-parasite.json](./234787-parasite.json) |
 | Parasite | 33748 | [33748-parasite.json](./33748-parasite.json) |
@@ -9645,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Agent | 379948 | [379948-pizza-agent.json](./379948-pizza-agent.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
+| Pizza Arena | 192481 | [192481-pizza-arena.json](./192481-pizza-arena.json) |
 | Pizza at Resort 64 | 394367 | [394367-pizza-at-resort-64.json](./394367-pizza-at-resort-64.json) |
 | Pizza Bandit | 258559 | [258559-pizza-bandit.json](./258559-pizza-bandit.json) |
 | Pizza Bar Tycoon | 125058 | [125058-pizza-bar-tycoon.json](./125058-pizza-bar-tycoon.json) |
@@ -14563,6 +14566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
 | Potions: A Curious Tale | 22554 | [22554-potions-a-curious-tale.json](./22554-potions-a-curious-tale.json) |
+| Potions! | 192477 | [192477-potions.json](./192477-potions.json) |
 | Potionworm | 350304 | [350304-potionworm.json](./350304-potionworm.json) |
 | Potluck | 407006 | [407006-potluck.json](./407006-potluck.json) |
 | Poto & Cabenga | 242903 | [242903-poto-and-cabenga.json](./242903-poto-and-cabenga.json) |
@@ -16167,6 +16171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison in Cafe | 272702 | [272702-prison-in-cafe.json](./272702-prison-in-cafe.json) |
 | Prison King | 216658 | [216658-prison-king.json](./216658-prison-king.json) |
 | Prison Legacy | 411918 | [411918-prison-legacy.json](./411918-prison-legacy.json) |
+| Prison Life | 192936 | [192936-prison-life.json](./192936-prison-life.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life Sim 2025: Survival | 343504 | [343504-prison-life-sim-2025-survival.json](./343504-prison-life-sim-2025-survival.json) |
@@ -19648,6 +19653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
+| Putridness | 192853 | [192853-putridness.json](./192853-putridness.json) |
 | Putridum Horror | 239353 | [239353-putridum-horror.json](./239353-putridum-horror.json) |
 | Putrika 1st.Cut: The Reason She Must Perish | 291199 | [291199-putrika-1st-cut-the-reason-she-must-perish.json](./291199-putrika-1st-cut-the-reason-she-must-perish.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
