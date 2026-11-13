@@ -5639,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deductopia Chapter 1: Bring Your Pet to School Day | 334610 | [334610-deductopia-chapter-1-bring-your-pet-to-school-day.json](./334610-deductopia-chapter-1-bring-your-pet-to-school-day.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
+| Dee Dee Planet | 210790 | [210790-dee-dee-planet.json](./210790-dee-dee-planet.json) |
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
 | Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
 | Dee's Nuts 2 | 275871 | [275871-dees-nuts-2.json](./275871-dees-nuts-2.json) |
@@ -16091,6 +16092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Shin Butouden | 45464 | [45464-dragon-ball-z-shin-butouden.json](./45464-dragon-ball-z-shin-butouden.json) |
 | Dragon Ball Z: Shin Saiya-jin Zetsumetsu Keikaku - Chikyuu-hen | 66082 | [66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json](./66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json) |
 | Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
+| Dragon Ball Z: Super Butouden 2 | 210765 | [210765-dragon-ball-z-super-butouden-2.json](./210765-dragon-ball-z-super-butouden-2.json) |
 | Dragon Ball Z: Super Butouden 2 | 2546 | [2546-dragon-ball-z-super-butouden-2.json](./2546-dragon-ball-z-super-butouden-2.json) |
 | Dragon Ball Z: Super Butouden 3 | 2550 | [2550-dragon-ball-z-super-butouden-3.json](./2550-dragon-ball-z-super-butouden-3.json) |
 | Dragon Ball Z: Super Goku-den - Kakusei-hen | 74038 | [74038-dragon-ball-z-super-goku-den-kakusei-hen.json](./74038-dragon-ball-z-super-goku-den-kakusei-hen.json) |
