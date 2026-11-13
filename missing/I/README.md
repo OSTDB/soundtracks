@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectica | 395076 | [395076-infectica.json](./395076-infectica.json) |
 | Infection | 129082 | [129082-infection.json](./129082-infection.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
+| Infection | 180164 | [180164-infection.json](./180164-infection.json) |
 | Infection | 259494 | [259494-infection.json](./259494-infection.json) |
 | Infection | 361278 | [361278-infection.json](./361278-infection.json) |
 | Infection Bio War | 343978 | [343978-infection-bio-war.json](./343978-infection-bio-war.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
 | Into the Rhythm VR | 56620 | [56620-into-the-rhythm-vr.json](./56620-into-the-rhythm-vr.json) |
 | Into the Rift | 25318 | [25318-into-the-rift.json](./25318-into-the-rift.json) |
+| Into the Shadows | 180179 | [180179-into-the-shadows.json](./180179-into-the-shadows.json) |
 | Into the Sinkhole | 213201 | [213201-into-the-sinkhole.json](./213201-into-the-sinkhole.json) |
 | Into the Sky | 236142 | [236142-into-the-sky.json](./236142-into-the-sky.json) |
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
