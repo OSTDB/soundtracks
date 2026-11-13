@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dastardly & Muttley: Operation - Pigeon Pursuit | 313186 | [313186-dastardly-and-muttley-operation-pigeon-pursuit.json](./313186-dastardly-and-muttley-operation-pigeon-pursuit.json) |
 | Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
 | Dat Gaem | 146749 | [146749-dat-gaem.json](./146749-dat-gaem.json) |
+| Dat Hentai Game | 173861 | [173861-dat-hentai-game.json](./173861-dat-hentai-game.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
 | Data Breach | 388566 | [388566-data-breach.json](./388566-data-breach.json) |
@@ -7239,6 +7240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Souls: Digital Deluxe Edition | 336469 | [336469-demons-souls-digital-deluxe-edition.json](./336469-demons-souls-digital-deluxe-edition.json) |
 | Demon's Souls: Red-Eye Knight Armor | 344306 | [344306-demons-souls-red-eye-knight-armor.json](./344306-demons-souls-red-eye-knight-armor.json) |
 | Demon's Sword | 127653 | [127653-demons-sword.json](./127653-demons-sword.json) |
+| Demon's Sword Snakes: Sweet Dreams of the Cursed Snake | 173849 | [173849-demons-sword-snakes-sweet-dreams-of-the-cursed-snake.json](./173849-demons-sword-snakes-sweet-dreams-of-the-cursed-snake.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's Tilt | 106363 | [106363-demons-tilt.json](./106363-demons-tilt.json) |
 | Demon's Tomb: The Awakening | 12045 | [12045-demons-tomb-the-awakening.json](./12045-demons-tomb-the-awakening.json) |
@@ -10978,6 +10980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DirtRace | 104761 | [104761-dirtrace.json](./104761-dirtrace.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
+| Dirty and Lascivious Awakening RPG by Lecher Knight Reika | 173863 | [173863-dirty-and-lascivious-awakening-rpg-by-lecher-knight-reika.json](./173863-dirty-and-lascivious-awakening-rpg-by-lecher-knight-reika.json) |
 | Dirty Beastly Muscles | 379650 | [379650-dirty-beastly-muscles.json](./379650-dirty-beastly-muscles.json) |
 | Dirty Birdy: An Evil Minded Rhyme Game | 101429 | [101429-dirty-birdy-an-evil-minded-rhyme-game.json](./101429-dirty-birdy-an-evil-minded-rhyme-game.json) |
 | Dirty Blood | 150822 | [150822-dirty-blood.json](./150822-dirty-blood.json) |
@@ -13494,6 +13497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Drop | 87620 | [87620-domino-drop.json](./87620-domino-drop.json) |
 | Domino Dungeon | 68813 | [68813-domino-dungeon.json](./68813-domino-dungeon.json) |
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
+| Domino Effect: Build and Topple | 173894 | [173894-domino-effect-build-and-topple.json](./173894-domino-effect-build-and-topple.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino for iPad | 103086 | [103086-domino-for-ipad.json](./103086-domino-for-ipad.json) |
@@ -15767,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Tool Mathe Trainer und Nonogram | 91619 | [91619-dr-tool-mathe-trainer-und-nonogram.json](./91619-dr-tool-mathe-trainer-und-nonogram.json) |
 | Dr.Tool Toy Factory | 78928 | [78928-dr-tool-toy-factory.json](./78928-dr-tool-toy-factory.json) |
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
+| Dr4x | 173885 | [173885-dr4x.json](./173885-dr4x.json) |
 | Drabidiboo | 155264 | [155264-drabidiboo.json](./155264-drabidiboo.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac is Back | 285298 | [285298-drac-is-back.json](./285298-drac-is-back.json) |
@@ -20917,6 +20922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVG Survivors | 391975 | [391975-dvg-survivors.json](./391975-dvg-survivors.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
+| Dvorec | 173869 | [173869-dvorec.json](./173869-dvorec.json) |
 | DVR Simulator | 151374 | [151374-dvr-simulator.json](./151374-dvr-simulator.json) |
 | DW | 168616 | [168616-dw.json](./168616-dw.json) |
 | Dwagons | 350125 | [350125-dwagons.json](./350125-dwagons.json) |
