@@ -11743,6 +11743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Spartan | 159568 | [159568-gun-spartan.json](./159568-gun-spartan.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
 | Gun Store Simulator | 326422 | [326422-gun-store-simulator.json](./326422-gun-store-simulator.json) |
+| Gun Strike | 221459 | [221459-gun-strike.json](./221459-gun-strike.json) |
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
 | Gun Swinger | 386922 | [386922-gun-swinger.json](./386922-gun-swinger.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
