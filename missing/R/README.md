@@ -11529,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollScape | 295403 | [295403-rollscape.json](./295403-rollscape.json) |
 | RollTale | 292483 | [292483-rolltale.json](./292483-rolltale.json) |
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
+| Rolly | 181266 | [181266-rolly.json](./181266-rolly.json) |
 | Rolly | 346858 | [346858-rolly.json](./346858-rolly.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Rolly Dango | 306042 | [306042-rolly-dango.json](./306042-rolly-dango.json) |
@@ -12365,6 +12366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
 | Roughhousing | 403907 | [403907-roughhousing.json](./403907-roughhousing.json) |
 | Roughly Crafted | 376432 | [376432-roughly-crafted.json](./376432-roughly-crafted.json) |
+| RoughTrain | 180867 | [180867-roughtrain.json](./180867-roughtrain.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
 | Rougle | 231558 | [231558-rougle.json](./231558-rougle.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
@@ -12400,6 +12402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round Rooms | 120055 | [120055-round-rooms.json](./120055-round-rooms.json) |
 | Round Space | 232100 | [232100-round-space.json](./232100-round-space.json) |
 | Round Spike | 348954 | [348954-round-spike.json](./348954-round-spike.json) |
+| Round Table | 181284 | [181284-round-table.json](./181284-round-table.json) |
 | Round Table | 202719 | [202719-round-table.json](./202719-round-table.json) |
 | Round the Bend! | 73670 | [73670-round-the-bend.json](./73670-round-the-bend.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
@@ -14172,6 +14175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustbrook | 426097 | [426097-rustbrook.json](./426097-rustbrook.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
+| Rustea Conversation | 181286 | [181286-rustea-conversation.json](./181286-rustea-conversation.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rusted Awakening | 309487 | [309487-rusted-awakening.json](./309487-rusted-awakening.json) |
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
