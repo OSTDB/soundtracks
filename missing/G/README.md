@@ -8216,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
 | Govnovoz | 332894 | [332894-govnovoz.json](./332894-govnovoz.json) |
+| Gowang: Clash on Demonhead | 196898 | [196898-gowang-clash-on-demonhead.json](./196898-gowang-clash-on-demonhead.json) |
 | Gowf: A Golf Adventure | 168601 | [168601-gowf-a-golf-adventure.json](./168601-gowf-a-golf-adventure.json) |
 | GoWings Safari | 30088 | [30088-gowings-safari.json](./30088-gowings-safari.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
