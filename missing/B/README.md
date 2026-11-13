@@ -1031,7 +1031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -8184,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Giant Tanghulu: Tanghulu Legend | 364118 | [364118-big-giant-tanghulu-tanghulu-legend.json](./364118-big-giant-tanghulu-tanghulu-legend.json) |
 | Big Golden Rock | 408713 | [408713-big-golden-rock.json](./408713-big-golden-rock.json) |
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
+| Big Head: Guess Words & Head Charades | 232196 | [232196-big-head-guess-words-and-head-charades.json](./232196-big-head-guess-words-and-head-charades.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Helmet Heroes: Exalted Edition | 330618 | [330618-big-helmet-heroes-exalted-edition.json](./330618-big-helmet-heroes-exalted-edition.json) |
@@ -9757,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Emperor | 223319 | [223319-black-emperor.json](./223319-black-emperor.json) |
 | Black Equation | 398296 | [398296-black-equation.json](./398296-black-equation.json) |
+| Black Evil 2 | 232203 | [232203-black-evil-2.json](./232203-black-evil-2.json) |
 | Black Eye | 233262 | [233262-black-eye.json](./233262-black-eye.json) |
 | Black Eye Spin | 233726 | [233726-black-eye-spin.json](./233726-black-eye-spin.json) |
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
@@ -11958,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
 | Blood Lust | 309724 | [309724-blood-lust.json](./309724-blood-lust.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
+| Blood Magic | 232651 | [232651-blood-magic.json](./232651-blood-magic.json) |
 | Blood Mall | 344852 | [344852-blood-mall.json](./344852-blood-mall.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
 | Blood Mall: Retaped | 400039 | [400039-blood-mall-retaped.json](./400039-blood-mall-retaped.json) |
@@ -14767,6 +14769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botafogo | 119140 | [119140-botafogo.json](./119140-botafogo.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
+| Botania | 232653 | [232653-botania.json](./232653-botania.json) |
 | Botanic | 240028 | [240028-botanic.json](./240028-botanic.json) |
 | Botanic Bits | 360872 | [360872-botanic-bits.json](./360872-botanic-bits.json) |
 | Botanica | 281961 | [281961-botanica.json](./281961-botanica.json) |
@@ -17309,6 +17312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Wizards | 411184 | [411184-broke-wizards.json](./411184-broke-wizards.json) |
 | Broken | 114723 | [114723-broken.json](./114723-broken.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
+| Broken | 232213 | [232213-broken.json](./232213-broken.json) |
 | Broken | 94070 | [94070-broken.json](./94070-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
 | Broken Alliance | 199278 | [199278-broken-alliance.json](./199278-broken-alliance.json) |
@@ -20020,6 +20024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy My Snake Oil | 236645 | [236645-buy-my-snake-oil.json](./236645-buy-my-snake-oil.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
+| Buy the Game, I Have a Gun: Sheesh-Man | 232718 | [232718-buy-the-game-i-have-a-gun-sheesh-man.json](./232718-buy-the-game-i-have-a-gun-sheesh-man.json) |
 | Buy the Game, I Have a Gun: Sheesh-Man - Digital Deluxe Mega Chad Edition | 375704 | [375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json](./375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
