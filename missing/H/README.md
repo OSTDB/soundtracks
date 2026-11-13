@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
 | Haligen Zero | 405135 | [405135-haligen-zero.json](./405135-haligen-zero.json) |
 | Halite AI | 77817 | [77817-halite-ai.json](./77817-halite-ai.json) |
+| Hall Infinite | 197275 | [197275-hall-infinite.json](./197275-hall-infinite.json) |
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happiness 1 Definitive Edition | 336340 | [336340-happiness-1-definitive-edition.json](./336340-happiness-1-definitive-edition.json) |
 | Happiness Charge Pretty Cure! Kawarun Collection | 216184 | [216184-happiness-charge-pretty-cure-kawarun-collection.json](./216184-happiness-charge-pretty-cure-kawarun-collection.json) |
+| Happiness Double Room | 197300 | [197300-happiness-double-room.json](./197300-happiness-double-room.json) |
 | Happiness Drops! | 81687 | [81687-happiness-drops.json](./81687-happiness-drops.json) |
 | Happiness Inc. | 301374 | [301374-happiness-inc.json](./301374-happiness-inc.json) |
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat Retreat | 348159 | [348159-heat-retreat.json](./348159-heat-retreat.json) |
+| Heat Runner | 196897 | [196897-heat-runner.json](./196897-heat-runner.json) |
 | Heat Rush | 409267 | [409267-heat-rush.json](./409267-heat-rush.json) |
 | Heat Sand Race | 416357 | [416357-heat-sand-race.json](./416357-heat-sand-race.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
