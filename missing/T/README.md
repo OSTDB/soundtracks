@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consortium: Master Edition | 51699 | [51699-the-consortium-master-edition.json](./51699-the-consortium-master-edition.json) |
 | The Construct | 31388 | [31388-the-construct.json](./31388-the-construct.json) |
+| The Constructors | 204632 | [204632-the-constructors.json](./204632-the-constructors.json) |
 | The Consuming Shadow | 19969 | [19969-the-consuming-shadow.json](./19969-the-consuming-shadow.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
 | The Contact | 288981 | [288981-the-contact.json](./288981-the-contact.json) |
