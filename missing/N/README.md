@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Jump | 148640 | [148640-neko-jump.json](./148640-neko-jump.json) |
 | Neko Kitchen | 359552 | [359552-neko-kitchen.json](./359552-neko-kitchen.json) |
 | Neko Loop | 230100 | [230100-neko-loop.json](./230100-neko-loop.json) |
+| Neko Maid | 195651 | [195651-neko-maid.json](./195651-neko-maid.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
@@ -4867,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightDirge | 341372 | [341372-nightdirge.json](./341372-nightdirge.json) |
 | Nightenfell: Shared AR | 96780 | [96780-nightenfell-shared-ar.json](./96780-nightenfell-shared-ar.json) |
 | Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
+| Nightfall | 195280 | [195280-nightfall.json](./195280-nightfall.json) |
 | Nightfall | 267191 | [267191-nightfall.json](./267191-nightfall.json) |
 | Nightfall | 60020 | [60020-nightfall.json](./60020-nightfall.json) |
 | Nightfall | 80403 | [80403-nightfall.json](./80403-nightfall.json) |
