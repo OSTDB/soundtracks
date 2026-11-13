@@ -6190,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her War | 135752 | [135752-her-war.json](./135752-her-war.json) |
 | Her World | 218401 | [218401-her-world.json](./218401-her-world.json) |
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
+| Hera: The Sword of Rhin | 210804 | [210804-hera-the-sword-of-rhin.json](./210804-hera-the-sword-of-rhin.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
 | Heracles Chariot Racing | 21113 | [21113-heracles-chariot-racing.json](./21113-heracles-chariot-racing.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
