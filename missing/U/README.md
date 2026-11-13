@@ -3887,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta no Prince-sama: All Star | 56321 | [56321-uta-no-prince-sama-all-star.json](./56321-uta-no-prince-sama-all-star.json) |
 | Uta no Prince-sama: All Star After Secret | 56323 | [56323-uta-no-prince-sama-all-star-after-secret.json](./56323-uta-no-prince-sama-all-star-after-secret.json) |
 | Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
+| Uta no Prince-sama: All Star for Nintendo Switch | 172806 | [172806-uta-no-prince-sama-all-star-for-nintendo-switch.json](./172806-uta-no-prince-sama-all-star-for-nintendo-switch.json) |
 | Uta no Prince-sama: Amazing Aria | 56298 | [56298-uta-no-prince-sama-amazing-aria.json](./56298-uta-no-prince-sama-amazing-aria.json) |
 | Uta no Prince-sama: Amazing Aria & Sweet Serenade Love | 136840 | [136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json](./136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json) |
 | Uta no Prince-sama: Debut | 56322 | [56322-uta-no-prince-sama-debut.json](./56322-uta-no-prince-sama-debut.json) |
