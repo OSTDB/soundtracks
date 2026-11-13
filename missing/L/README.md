@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Traps | 232220 | [232220-land-of-traps.json](./232220-land-of-traps.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
+| Land of Warfare: Battle Maps | 196762 | [196762-land-of-warfare-battle-maps.json](./196762-land-of-warfare-battle-maps.json) |
 | Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
 | Land of Wind and Shade | 217616 | [217616-land-of-wind-and-shade.json](./217616-land-of-wind-and-shade.json) |
 | Land of Zombies | 245777 | [245777-land-of-zombies.json](./245777-land-of-zombies.json) |
@@ -3153,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Iona RPG | 55492 | [55492-legends-of-iona-rpg.json](./55492-legends-of-iona-rpg.json) |
 | Legends of Ith | 62551 | [62551-legends-of-ith.json](./62551-legends-of-ith.json) |
 | Legends of Kailrate | 309212 | [309212-legends-of-kailrate.json](./309212-legends-of-kailrate.json) |
+| Legends of Kesmai | 196764 | [196764-legends-of-kesmai.json](./196764-legends-of-kesmai.json) |
 | Legends of Kingdom Rush | 159076 | [159076-legends-of-kingdom-rush.json](./159076-legends-of-kingdom-rush.json) |
 | Legends of Kong | 368214 | [368214-legends-of-kong.json](./368214-legends-of-kong.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
@@ -10257,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
 | Lucky Tower Ultimate | 165270 | [165270-lucky-tower-ultimate.json](./165270-lucky-tower-ultimate.json) |
+| Lucky Villager | 196753 | [196753-lucky-villager.json](./196753-lucky-villager.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
 | Lucky Zombie Survival | 348560 | [348560-lucky-zombie-survival.json](./348560-lucky-zombie-survival.json) |
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
