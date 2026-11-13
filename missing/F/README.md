@@ -4864,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifrelin | 404985 | [404985-fifrelin.json](./404985-fifrelin.json) |
 | Fifteen | 279135 | [279135-fifteen.json](./279135-fifteen.json) |
 | Fifteen | 54673 | [54673-fifteen.json](./54673-fifteen.json) |
+| Fifteen Minutes | 188156 | [188156-fifteen-minutes.json](./188156-fifteen-minutes.json) |
 | Fifteen Puzzle | 311368 | [311368-fifteen-puzzle.json](./311368-fifteen-puzzle.json) |
 | Fifth Aile | 93976 | [93976-fifth-aile.json](./93976-fifth-aile.json) |
 | Fifth Element II Hikari to Yami no Ouji | 58742 | [58742-fifth-element-ii-hikari-to-yami-no-ouji.json](./58742-fifth-element-ii-hikari-to-yami-no-ouji.json) |
@@ -13663,6 +13664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Frontier | 169097 | [169097-from-frontier.json](./169097-from-frontier.json) |
 | From Glory To Goo | 271048 | [271048-from-glory-to-goo.json](./271048-from-glory-to-goo.json) |
 | From Head to Toe | 120053 | [120053-from-head-to-toe.json](./120053-from-head-to-toe.json) |
+| From Heaven to Earth | 188536 | [188536-from-heaven-to-earth.json](./188536-from-heaven-to-earth.json) |
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
@@ -15315,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
 | Futbol Argentino 96 | 38187 | [38187-futbol-argentino-96.json](./38187-futbol-argentino-96.json) |
+| Futbol Break | 188154 | [188154-futbol-break.json](./188154-futbol-break.json) |
 | Futbol Break: Head to Head | 194396 | [194396-futbol-break-head-to-head.json](./194396-futbol-break-head-to-head.json) |
 | Fútbol Club Barcelona | 217959 | [217959-futbol-club-barcelona.json](./217959-futbol-club-barcelona.json) |
 | Futbol Colombiano 96 | 38200 | [38200-futbol-colombiano-96.json](./38200-futbol-colombiano-96.json) |
