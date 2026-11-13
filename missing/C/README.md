@@ -3960,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kingdoms | 73954 | [73954-castle-kingdoms.json](./73954-castle-kingdoms.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
 | Castle Line Wars | 235025 | [235025-castle-line-wars.json](./235025-castle-line-wars.json) |
+| Castle Manager | 211862 | [211862-castle-manager.json](./211862-castle-manager.json) |
 | Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
 | Castle Master II: The Crypt | 11995 | [11995-castle-master-ii-the-crypt.json](./11995-castle-master-ii-the-crypt.json) |
 | Castle Master TD | 270165 | [270165-castle-master-td.json](./270165-castle-master-td.json) |
@@ -4401,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Designer Mocha | 152192 | [152192-cat-designer-mocha.json](./152192-cat-designer-mocha.json) |
 | Cat Detective | 271546 | [271546-cat-detective.json](./271546-cat-detective.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
+| Cat Dimension | 211856 | [211856-cat-dimension.json](./211856-cat-dimension.json) |
 | Cat Doctor | 372763 | [372763-cat-doctor.json](./372763-cat-doctor.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat doesn't like banana | 108033 | [108033-cat-doesnt-like-banana.json](./108033-cat-doesnt-like-banana.json) |
@@ -11407,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Cry | 405627 | [405627-climb-and-cry.json](./405627-climb-and-cry.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
+| Climb and Fight: Mafia | 211879 | [211879-climb-and-fight-mafia.json](./211879-climb-and-fight-mafia.json) |
 | Climb Challenge | 125385 | [125385-climb-challenge.json](./125385-climb-challenge.json) |
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
 | Climb Challenge: Find Items 4 | 291314 | [291314-climb-challenge-find-items-4.json](./291314-climb-challenge-find-items-4.json) |
@@ -14368,6 +14371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community Chest | 319531 | [319531-community-chest.json](./319531-community-chest.json) |
+| Community College Hero: All Things End | 211877 | [211877-community-college-hero-all-things-end.json](./211877-community-college-hero-all-things-end.json) |
 | Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
 | Community College Hero: Knowledge is Power | 102552 | [102552-community-college-hero-knowledge-is-power.json](./102552-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
@@ -21379,6 +21383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
 | Cult of the Mask | 226039 | [226039-cult-of-the-mask.json](./226039-cult-of-the-mask.json) |
 | Cult of the Red Heifer | 423955 | [423955-cult-of-the-red-heifer.json](./423955-cult-of-the-red-heifer.json) |
+| Cult of the Sons | 211865 | [211865-cult-of-the-sons.json](./211865-cult-of-the-sons.json) |
 | Cult of the Wind | 9816 | [9816-cult-of-the-wind.json](./9816-cult-of-the-wind.json) |
 | Cult Trials: Incarnation | 348009 | [348009-cult-trials-incarnation.json](./348009-cult-trials-incarnation.json) |
 | Cult Vacui | 364848 | [364848-cult-vacui.json](./364848-cult-vacui.json) |
@@ -21618,6 +21623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Aros | 124372 | [124372-curse-of-aros.json](./124372-curse-of-aros.json) |
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Babylon | 283360 | [283360-curse-of-babylon.json](./283360-curse-of-babylon.json) |
+| Curse of Black Bone | 211873 | [211873-curse-of-black-bone.json](./211873-curse-of-black-bone.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Cards | 422033 | [422033-curse-of-cards.json](./422033-curse-of-cards.json) |
