@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was a Teenage Exocolonist | 146054 | [146054-i-was-a-teenage-exocolonist.json](./146054-i-was-a-teenage-exocolonist.json) |
 | I Was Always Filled With Anger | 139266 | [139266-i-was-always-filled-with-anger.json](./139266-i-was-always-filled-with-anger.json) |
 | I Was An Atomic Mutant! | 24084 | [24084-i-was-an-atomic-mutant.json](./24084-i-was-an-atomic-mutant.json) |
+| I Was cursed | 185579 | [185579-i-was-cursed.json](./185579-i-was-cursed.json) |
 | I Was Dead, But… | 243139 | [243139-i-was-dead-but.json](./243139-i-was-dead-but.json) |
 | I was here | 68681 | [68681-i-was-here.json](./68681-i-was-here.json) |
 | I Was Here | 179047 | [179047-i-was-here.json](./179047-i-was-here.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immemory | 313939 | [313939-immemory.json](./313939-immemory.json) |
 | Immense Threat | 160040 | [160040-immense-threat.json](./160040-immense-threat.json) |
+| Immensity | 185580 | [185580-immensity.json](./185580-immensity.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immercenary | 4296 | [4296-immercenary.json](./4296-immercenary.json) |
 | Immerguest: The Veiled Inn | 415699 | [415699-immerguest-the-veiled-inn.json](./415699-immerguest-the-veiled-inn.json) |
@@ -3880,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iNetHack | 351126 | [351126-inethack.json](./351126-inethack.json) |
 | Inevitability | 36491 | [36491-inevitability.json](./36491-inevitability.json) |
 | Inevitable | 179067 | [179067-inevitable.json](./179067-inevitable.json) |
+| Inevitable | 185186 | [185186-inevitable.json](./185186-inevitable.json) |
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inevitable Outcome | 67014 | [67014-inevitable-outcome.json](./67014-inevitable-outcome.json) |
 | Inevitable Path | 31379 | [31379-inevitable-path.json](./31379-inevitable-path.json) |
@@ -5389,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlude | 289769 | [289769-interlude.json](./289769-interlude.json) |
 | Interlude | 355855 | [355855-interlude.json](./355855-interlude.json) |
 | Interlude | 64764 | [64764-interlude.json](./64764-interlude.json) |
+| Interminal | 185565 | [185565-interminal.json](./185565-interminal.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
 | Intern Astronaut | 58556 | [58556-intern-astronaut.json](./58556-intern-astronaut.json) |
 | Intern Ian | 180363 | [180363-intern-ian.json](./180363-intern-ian.json) |
@@ -6792,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Adventure | 175769 | [175769-island-adventure.json](./175769-island-adventure.json) |
 | Island Adventure 3: Penultimate Climax | 302637 | [302637-island-adventure-3-penultimate-climax.json](./302637-island-adventure-3-penultimate-climax.json) |
 | Island and Factories | 148821 | [148821-island-and-factories.json](./148821-island-and-factories.json) |
+| Island Artist | 185581 | [185581-island-artist.json](./185581-island-artist.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Berry | 188843 | [188843-island-berry.json](./188843-island-berry.json) |
