@@ -4485,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
+| Battle Thunder Front: The Lost Red Sea | 220756 | [220756-battle-thunder-front-the-lost-red-sea.json](./220756-battle-thunder-front-the-lost-red-sea.json) |
 | Battle Tiers Invasion | 62646 | [62646-battle-tiers-invasion.json](./62646-battle-tiers-invasion.json) |
 | Battle Tiny | 185305 | [185305-battle-tiny.json](./185305-battle-tiny.json) |
 | Battle Titan Rainbow | 234686 | [234686-battle-titan-rainbow.json](./234686-battle-titan-rainbow.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Fun Summer Challenge | 50739 | [50739-beach-fun-summer-challenge.json](./50739-beach-fun-summer-challenge.json) |
 | Beach Games | 197184 | [197184-beach-games.json](./197184-beach-games.json) |
+| Beach Games | 220356 | [220356-beach-games.json](./220356-beach-games.json) |
 | Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
 | Beach Girl Block Crush!! | 294060 | [294060-beach-girl-block-crush.json](./294060-beach-girl-block-crush.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
@@ -5902,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the Clock | 291928 | [291928-beat-the-clock.json](./291928-beat-the-clock.json) |
 | Beat the Clock: Hardcore | 291929 | [291929-beat-the-clock-hardcore.json](./291929-beat-the-clock-hardcore.json) |
+| Beat the Devil | 220757 | [220757-beat-the-devil.json](./220757-beat-the-devil.json) |
 | Beat the Dictators | 31683 | [31683-beat-the-dictators.json](./31683-beat-the-dictators.json) |
 | Beat the Fed | 301073 | [301073-beat-the-fed.json](./301073-beat-the-fed.json) |
 | Beat the Game | 27573 | [27573-beat-the-game.json](./27573-beat-the-game.json) |
@@ -10637,6 +10640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasted Lands | 287270 | [287270-blasted-lands.json](./287270-blasted-lands.json) |
 | Blasted Road Terror | 34658 | [34658-blasted-road-terror.json](./34658-blasted-road-terror.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
+| Blaster | 220758 | [220758-blaster.json](./220758-blaster.json) |
 | Blaster | 282971 | [282971-blaster.json](./282971-blaster.json) |
 | Blaster | 345949 | [345949-blaster.json](./345949-blaster.json) |
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
@@ -13372,6 +13376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boki: The Summit | 271913 | [271913-boki-the-summit.json](./271913-boki-the-summit.json) |
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
 | Bokkie | 292360 | [292360-bokkie.json](./292360-bokkie.json) |
+| Bokoron Dungeons | 220296 | [220296-bokoron-dungeons.json](./220296-bokoron-dungeons.json) |
 | Bokosuka Girls: Tatsunoko Gakuen Climax | 60980 | [60980-bokosuka-girls-tatsunoko-gakuen-climax.json](./60980-bokosuka-girls-tatsunoko-gakuen-climax.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Bokosuka Wars | 48540 | [48540-bokosuka-wars.json](./48540-bokosuka-wars.json) |
