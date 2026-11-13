@@ -7333,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends | 24985 | [24985-golf-with-your-friends.json](./24985-golf-with-your-friends.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Bouncy Castle Course | 204956 | [204956-golf-with-your-friends-bouncy-castle-course.json](./204956-golf-with-your-friends-bouncy-castle-course.json) |
+| Golf With Your Friends: Caddy Pack | 225411 | [225411-golf-with-your-friends-caddy-pack.json](./225411-golf-with-your-friends-caddy-pack.json) |
 | Golf With Your Friends: Corrupted Forest Course | 250169 | [250169-golf-with-your-friends-corrupted-forest-course.json](./250169-golf-with-your-friends-corrupted-forest-course.json) |
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
 | Golf With Your Friends: Deluxe Edition | 223789 | [223789-golf-with-your-friends-deluxe-edition.json](./223789-golf-with-your-friends-deluxe-edition.json) |
@@ -7343,9 +7344,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Olympus Odyssey Course | 317687 | [317687-golf-with-your-friends-olympus-odyssey-course.json](./317687-golf-with-your-friends-olympus-odyssey-course.json) |
 | Golf With Your Friends: Peaceful Pines Course | 265868 | [265868-golf-with-your-friends-peaceful-pines-course.json](./265868-golf-with-your-friends-peaceful-pines-course.json) |
 | Golf With Your Friends: Pizza Party Pack | 251318 | [251318-golf-with-your-friends-pizza-party-pack.json](./251318-golf-with-your-friends-pizza-party-pack.json) |
+| Golf With Your Friends: Racing Pack | 225412 | [225412-golf-with-your-friends-racing-pack.json](./225412-golf-with-your-friends-racing-pack.json) |
 | Golf With Your Friends: Soaring Eagles Cosplay Pack | 355846 | [355846-golf-with-your-friends-soaring-eagles-cosplay-pack.json](./355846-golf-with-your-friends-soaring-eagles-cosplay-pack.json) |
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
+| Golf With Your Friends: Summer Party Pack | 225413 | [225413-golf-with-your-friends-summer-party-pack.json](./225413-golf-with-your-friends-summer-party-pack.json) |
 | Golf With Your Friends: Teams Mascot Sticker Pack | 355847 | [355847-golf-with-your-friends-teams-mascot-sticker-pack.json](./355847-golf-with-your-friends-teams-mascot-sticker-pack.json) |
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
 | Golf With Your Grandmother | 158352 | [158352-golf-with-your-grandmother.json](./158352-golf-with-your-grandmother.json) |
