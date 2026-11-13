@@ -6125,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal Finger | 245631 | [245631-goal-finger.json](./245631-goal-finger.json) |
+| Goal Hero | 241594 | [241594-goal-hero.json](./241594-goal-hero.json) |
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
 | Goal Keeper | 287519 | [287519-goal-keeper.json](./287519-goal-keeper.json) |
@@ -6152,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalie Madness | 226712 | [226712-goalie-madness.json](./226712-goalie-madness.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | Goalienator | 148461 | [148461-goalienator.json](./148461-goalienator.json) |
+| Goalkeeper 2D | 241593 | [241593-goalkeeper-2d.json](./241593-goalkeeper-2d.json) |
 | Goalkeeper Journey | 340313 | [340313-goalkeeper-journey.json](./340313-goalkeeper-journey.json) |
 | Goalkeeper Legend | 107996 | [107996-goalkeeper-legend.json](./107996-goalkeeper-legend.json) |
 | Goalkeeper VR Challenge | 112499 | [112499-goalkeeper-vr-challenge.json](./112499-goalkeeper-vr-challenge.json) |
@@ -7267,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf My Way | 45893 | [45893-golf-my-way.json](./45893-golf-my-way.json) |
+| Golf N Bloom | 241592 | [241592-golf-n-bloom.json](./241592-golf-n-bloom.json) |
 | Golf Navigator Vol.1 | 203767 | [203767-golf-navigator-vol-1.json](./203767-golf-navigator-vol-1.json) |
 | Golf Navigator Vol.2 | 203768 | [203768-golf-navigator-vol-2.json](./203768-golf-navigator-vol-2.json) |
 | Golf Navigator Vol.3 | 203769 | [203769-golf-navigator-vol-3.json](./203769-golf-navigator-vol-3.json) |
