@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsumira: From the Future Undying | 197543 | [197543-hatsumira-from-the-future-undying.json](./197543-hatsumira-from-the-future-undying.json) |
 | Hatsumonogatari | 314834 | [314834-hatsumonogatari.json](./314834-hatsumonogatari.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
+| Hatsune Miku Amiguru Train | 215953 | [215953-hatsune-miku-amiguru-train.json](./215953-hatsune-miku-amiguru-train.json) |
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori | 192035 | [192035-hatsune-miku-connecting-puzzle-tamagotori.json](./192035-hatsune-miku-connecting-puzzle-tamagotori.json) |
@@ -9958,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
+| Holy Potatoes! I'm A Hero?! | 217036 | [217036-holy-potatoes-im-a-hero.json](./217036-holy-potatoes-im-a-hero.json) |
 | Holy Potatoes! We're in Space?! | 27339 | [27339-holy-potatoes-were-in-space.json](./27339-holy-potatoes-were-in-space.json) |
 | Holy Potatoes! What the Hell?! | 55695 | [55695-holy-potatoes-what-the-hell.json](./55695-holy-potatoes-what-the-hell.json) |
 | Holy Purge | 191509 | [191509-holy-purge.json](./191509-holy-purge.json) |
@@ -11166,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Zombies from the Crypt | 12145 | [12145-horror-zombies-from-the-crypt.json](./12145-horror-zombies-from-the-crypt.json) |
 | Horror: Evil Residents | 303571 | [303571-horror-evil-residents.json](./303571-horror-evil-residents.json) |
 | HorrorBot | 57310 | [57310-horrorbot.json](./57310-horrorbot.json) |
+| HorrorBox | 217032 | [217032-horrorbox.json](./217032-horrorbox.json) |
 | HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
 | HorrorDriven: A story for the road | 154052 | [154052-horrordriven-a-story-for-the-road.json](./154052-horrordriven-a-story-for-the-road.json) |
 | Horrorfield | 124593 | [124593-horrorfield.json](./124593-horrorfield.json) |
@@ -11887,6 +11890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotline Omsk | 255156 | [255156-hotline-omsk.json](./255156-hotline-omsk.json) |
 | Hotline Trail | 128716 | [128716-hotline-trail.json](./128716-hotline-trail.json) |
 | Hotloop | 235845 | [235845-hotloop.json](./235845-hotloop.json) |
+| Hoton | 217037 | [217037-hoton.json](./217037-hoton.json) |
 | Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
 | Hototogisu Tairan 1553: Ryuko Aiutsu | 108779 | [108779-hototogisu-tairan-1553-ryuko-aiutsu.json](./108779-hototogisu-tairan-1553-ryuko-aiutsu.json) |
 | Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
