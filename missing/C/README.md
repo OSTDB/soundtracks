@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp 1 | 134815 | [134815-camp-1.json](./134815-camp-1.json) |
 | Camp Buddy | 127114 | [127114-camp-buddy.json](./127114-camp-buddy.json) |
+| Camp Buddy: Scoutmaster Season | 198415 | [198415-camp-buddy-scoutmaster-season.json](./198415-camp-buddy-scoutmaster-season.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp Cadaver | 56024 | [56024-camp-cadaver.json](./56024-camp-cadaver.json) |
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
@@ -5994,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Bank | 364014 | [364014-central-bank.json](./364014-central-bank.json) |
 | Central de Atividades | 290098 | [290098-central-de-atividades.json](./290098-central-de-atividades.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
+| Central Fugitive | 198423 | [198423-central-fugitive.json](./198423-central-fugitive.json) |
 | Central Intelligence | 72300 | [72300-central-intelligence.json](./72300-central-intelligence.json) |
 | Central Killing Agency | 296719 | [296719-central-killing-agency.json](./296719-central-killing-agency.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
@@ -15025,6 +15027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conqueror's Blade: Hounds of War | 168184 | [168184-conquerors-blade-hounds-of-war.json](./168184-conquerors-blade-hounds-of-war.json) |
+| Conqueror's Blade: Paragons | 198271 | [198271-conquerors-blade-paragons.json](./198271-conquerors-blade-paragons.json) |
 | Conqueror's Blade: Season II - Wrath of the Nomads | 157942 | [157942-conquerors-blade-season-ii-wrath-of-the-nomads.json](./157942-conquerors-blade-season-ii-wrath-of-the-nomads.json) |
 | Conqueror's Blade: Season III - Soldiers of Fortune | 157967 | [157967-conquerors-blade-season-iii-soldiers-of-fortune.json](./157967-conquerors-blade-season-iii-soldiers-of-fortune.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
@@ -15813,6 +15816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Pix | 257772 | [257772-cooking-pix.json](./257772-cooking-pix.json) |
 | Cooking Princess | 213766 | [213766-cooking-princess.json](./213766-cooking-princess.json) |
 | Cooking Quest | 52308 | [52308-cooking-quest.json](./52308-cooking-quest.json) |
+| Cooking Quest: Food Wagon Adventure | 198404 | [198404-cooking-quest-food-wagon-adventure.json](./198404-cooking-quest-food-wagon-adventure.json) |
 | Cooking Simulator 2: Better Together | 259127 | [259127-cooking-simulator-2-better-together.json](./259127-cooking-simulator-2-better-together.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
@@ -16945,6 +16949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
 | Couch Combat | 171420 | [171420-couch-combat.json](./171420-couch-combat.json) |
 | Couch Detective | 372676 | [372676-couch-detective.json](./372676-couch-detective.json) |
+| Couch Goblins | 198424 | [198424-couch-goblins.json](./198424-couch-goblins.json) |
 | Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Kittens | 272368 | [272368-couch-kittens.json](./272368-couch-kittens.json) |
 | Couch Monsters | 144532 | [144532-couch-monsters.json](./144532-couch-monsters.json) |
@@ -20020,6 +20025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. - Dark Horse | 197562 | [197562-crsed-f-o-a-d-dark-horse.json](./197562-crsed-f-o-a-d-dark-horse.json) |
 | CRSED: F.O.A.D. - Dieselpunk | 222979 | [222979-crsed-f-o-a-d-dieselpunk.json](./222979-crsed-f-o-a-d-dieselpunk.json) |
 | CRSED: F.O.A.D. - Fangs | 183139 | [183139-crsed-f-o-a-d-fangs.json](./183139-crsed-f-o-a-d-fangs.json) |
+| CRSED: F.O.A.D. - Glitch | 198274 | [198274-crsed-f-o-a-d-glitch.json](./198274-crsed-f-o-a-d-glitch.json) |
 | CRSED: F.O.A.D. - Holy Beast | 171059 | [171059-crsed-f-o-a-d-holy-beast.json](./171059-crsed-f-o-a-d-holy-beast.json) |
 | CRSED: F.O.A.D. - Ice Age | 183133 | [183133-crsed-f-o-a-d-ice-age.json](./183133-crsed-f-o-a-d-ice-age.json) |
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
