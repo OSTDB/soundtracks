@@ -1272,9 +1272,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Corporation 2 | 190449 | [190449-railroad-corporation-2.json](./190449-railroad-corporation-2.json) |
 | Railroad Corporation: All or Nothing | 174164 | [174164-railroad-corporation-all-or-nothing.json](./174164-railroad-corporation-all-or-nothing.json) |
+| Railroad Corporation: Christmas Rush | 170572 | [170572-railroad-corporation-christmas-rush.json](./170572-railroad-corporation-christmas-rush.json) |
+| Railroad Corporation: Civil War | 170570 | [170570-railroad-corporation-civil-war.json](./170570-railroad-corporation-civil-war.json) |
 | Railroad Corporation: Competitive Spirit DLC | 262300 | [262300-railroad-corporation-competitive-spirit-dlc.json](./262300-railroad-corporation-competitive-spirit-dlc.json) |
 | Railroad Corporation: Niagara River | 213053 | [213053-railroad-corporation-niagara-river.json](./213053-railroad-corporation-niagara-river.json) |
 | Railroad Corporation: Roadmaster Mission Pack | 227662 | [227662-railroad-corporation-roadmaster-mission-pack.json](./227662-railroad-corporation-roadmaster-mission-pack.json) |
+| Railroad Corporation: Volatile Markets | 170574 | [170574-railroad-corporation-volatile-markets.json](./170574-railroad-corporation-volatile-markets.json) |
+| Railroad Corporation: Wonderful Forest | 170573 | [170573-railroad-corporation-wonderful-forest.json](./170573-railroad-corporation-wonderful-forest.json) |
+| Railroad Corporation: Yellow Fever | 170571 | [170571-railroad-corporation-yellow-fever.json](./170571-railroad-corporation-yellow-fever.json) |
 | Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
@@ -11830,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RonRon | 229462 | [229462-ronron.json](./229462-ronron.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
+| Rony: Rise of New York | 170605 | [170605-rony-rise-of-new-york.json](./170605-rony-rise-of-new-york.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
 | Roober | 251993 | [251993-roober.json](./251993-roober.json) |
 | Roodies Factory | 336813 | [336813-roodies-factory.json](./336813-roodies-factory.json) |
