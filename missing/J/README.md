@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpscare Storey Loop | 395757 | [395757-jumpscare-storey-loop.json](./395757-jumpscare-storey-loop.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
+| JumpStart 1st Grade | 176011 | [176011-jumpstart-1st-grade.json](./176011-jumpstart-1st-grade.json) |
 | JumpStart 1st Grade | 94349 | [94349-jumpstart-1st-grade.json](./94349-jumpstart-1st-grade.json) |
 | JumpStart 1st Grade Math | 97395 | [97395-jumpstart-1st-grade-math.json](./97395-jumpstart-1st-grade-math.json) |
 | JumpStart 1st Grade Reading | 286668 | [286668-jumpstart-1st-grade-reading.json](./286668-jumpstart-1st-grade-reading.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
 | JumpStart Adventures 4th Grade: Sapphire Falls | 406755 | [406755-jumpstart-adventures-4th-grade-sapphire-falls.json](./406755-jumpstart-adventures-4th-grade-sapphire-falls.json) |
 | JumpStart Adventures 5th Grade: Jo Hammet, Kid Detective | 71317 | [71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json](./71317-jumpstart-adventures-5th-grade-jo-hammet-kid-detective.json) |
+| JumpStart Adventures: 3rd Grade - Mystery Mountain | 176012 | [176012-jumpstart-adventures-3rd-grade-mystery-mountain.json](./176012-jumpstart-adventures-3rd-grade-mystery-mountain.json) |
 | Jumpstart Apocalypse VR | 232205 | [232205-jumpstart-apocalypse-vr.json](./232205-jumpstart-apocalypse-vr.json) |
 | JumpStart Artist | 294512 | [294512-jumpstart-artist.json](./294512-jumpstart-artist.json) |
 | JumpStart Baby | 144858 | [144858-jumpstart-baby.json](./144858-jumpstart-baby.json) |
@@ -3814,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Junior | 129485 | [129485-jumpstart-junior.json](./129485-jumpstart-junior.json) |
 | JumpStart Kindergarten | 123589 | [123589-jumpstart-kindergarten.json](./123589-jumpstart-kindergarten.json) |
 | JumpStart Kindergarten | 212881 | [212881-jumpstart-kindergarten.json](./212881-jumpstart-kindergarten.json) |
+| JumpStart Kindergarten Reading | 176015 | [176015-jumpstart-kindergarten-reading.json](./176015-jumpstart-kindergarten-reading.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
 | JumpStart Music | 72290 | [72290-jumpstart-music.json](./72290-jumpstart-music.json) |
