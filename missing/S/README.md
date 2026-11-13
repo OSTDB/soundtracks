@@ -15120,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloptoberfest | 423070 | [423070-sloptoberfest.json](./423070-sloptoberfest.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
+| Slot | 240442 | [240442-slot.json](./240442-slot.json) |
 | Slot | 403279 | [403279-slot.json](./403279-slot.json) |
 | Slot & Dungeons | 333408 | [333408-slot-and-dungeons.json](./333408-slot-and-dungeons.json) |
 | Slot & Learn Country Names in Kanji | 308496 | [308496-slot-and-learn-country-names-in-kanji.json](./308496-slot-and-learn-country-names-in-kanji.json) |
@@ -23020,6 +23021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spelen met Bassie & Adriaan Deel 1 | 242644 | [242644-spelen-met-bassie-and-adriaan-deel-1.json](./242644-spelen-met-bassie-and-adriaan-deel-1.json) |
 | Spelen met Bassie & Adriaan Deel 2 | 242645 | [242645-spelen-met-bassie-and-adriaan-deel-2.json](./242645-spelen-met-bassie-and-adriaan-deel-2.json) |
+| Speleomorph | 240541 | [240541-speleomorph.json](./240541-speleomorph.json) |
 | Spelesammlung 1,000 XP-Spiele | 320703 | [320703-spelesammlung-1-000-xp-spiele.json](./320703-spelesammlung-1-000-xp-spiele.json) |
 | Spell 9 | 57552 | [57552-spell-9.json](./57552-spell-9.json) |
 | Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
@@ -29016,6 +29018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Hero Tower Defense | 216135 | [216135-stick-war-hero-tower-defense.json](./216135-stick-war-hero-tower-defense.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Stick Warfare: Blood Strike | 240543 | [240543-stick-warfare-blood-strike.json](./240543-stick-warfare-blood-strike.json) |
 | Stick Wars: The Laneborn | 421555 | [421555-stick-wars-the-laneborn.json](./421555-stick-wars-the-laneborn.json) |
 | Stick With It | 137747 | [137747-stick-with-it.json](./137747-stick-with-it.json) |
 | Stick With It | 366557 | [366557-stick-with-it.json](./366557-stick-with-it.json) |
@@ -29666,6 +29669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm over Thyrion | 386849 | [386849-storm-over-thyrion.json](./386849-storm-over-thyrion.json) |
 | Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
+| Storm Rider 2 | 240536 | [240536-storm-rider-2.json](./240536-storm-rider-2.json) |
 | Storm Seas | 358577 | [358577-storm-seas.json](./358577-storm-seas.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Sharks | 53675 | [53675-storm-sharks.json](./53675-storm-sharks.json) |
@@ -32949,6 +32953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
 | Sunset Runner | 71147 | [71147-sunset-runner.json](./71147-sunset-runner.json) |
 | Sunset Shapes | 157384 | [157384-sunset-shapes.json](./157384-sunset-shapes.json) |
+| Sunset Shore | 240438 | [240438-sunset-shore.json](./240438-sunset-shore.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
 | Sunset Spirit Steel | 187066 | [187066-sunset-spirit-steel.json](./187066-sunset-spirit-steel.json) |
@@ -34588,6 +34593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
 | Super Mario Bros. Dimensions Deluxe | 356137 | [356137-super-mario-bros-dimensions-deluxe.json](./356137-super-mario-bros-dimensions-deluxe.json) |
 | Super Mario Bros. DX | 372198 | [372198-super-mario-bros-dx.json](./372198-super-mario-bros-dx.json) |
+| Super Mario Bros. Enhanced | 240441 | [240441-super-mario-bros-enhanced.json](./240441-super-mario-bros-enhanced.json) |
 | Super Mario Bros. Extreme Adventure | 314104 | [314104-super-mario-bros-extreme-adventure.json](./314104-super-mario-bros-extreme-adventure.json) |
 | Super Mario Bros. for Lost Players | 221521 | [221521-super-mario-bros-for-lost-players.json](./221521-super-mario-bros-for-lost-players.json) |
 | Super Mario Bros. Friends | 265897 | [265897-super-mario-bros-friends.json](./265897-super-mario-bros-friends.json) |
