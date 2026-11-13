@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T02:35:50.465Z",
-  "total_soundtracks": 3262,
+  "generated_at": "2026-11-13T03:10:53.695Z",
+  "total_soundtracks": 3263,
   "games": [
     {
       "igdb_id": 7522,
@@ -20087,6 +20087,20 @@
         {
           "album_name": "Lucius II - Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6CRQEFeklxduZERYFwOSWL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24595,
+      "game_name": "Luckslinger",
+      "game_url": "https://ostdb.net/games/luckslinger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733ba697dd360c0988c5676872",
+      "albums": [
+        {
+          "album_name": "Luckslinger Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1n5QXIHcfpNEmCRdpKEIcj",
           "apple_music_url": "",
           "album_link_url": ""
         }
