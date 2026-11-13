@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Noir's Hollywood Crimes | 6830 | [6830-james-noirs-hollywood-crimes.json](./6830-james-noirs-hollywood-crimes.json) |
 | James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
+| James Peris 2: The Fountain of Eternal Drunkenness | 188533 | [188533-james-peris-2-the-fountain-of-eternal-drunkenness.json](./188533-james-peris-2-the-fountain-of-eternal-drunkenness.json) |
 | James Peris es el Agente 00,5 | 323045 | [323045-james-peris-es-el-agente-00-5.json](./323045-james-peris-es-el-agente-00-5.json) |
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 2: Codename - RoboCod | 368921 | [368921-james-pond-2-codename-robocod.json](./368921-james-pond-2-codename-robocod.json) |
