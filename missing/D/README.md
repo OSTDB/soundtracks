@@ -6094,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
 | Defeat the Goblin King | 366366 | [366366-defeat-the-goblin-king.json](./366366-defeat-the-goblin-king.json) |
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
+| DefeatMe | 242826 | [242826-defeatme.json](./242826-defeatme.json) |
 | Defect | 21928 | [21928-defect.json](./21928-defect.json) |
 | Defect | 313764 | [313764-defect.json](./313764-defect.json) |
 | Defect detector | 219237 | [219237-defect-detector.json](./219237-defect-detector.json) |
@@ -14017,6 +14018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Dontrel Dolphin 3 | 306186 | [306186-dontrel-dolphin-3.json](./306186-dontrel-dolphin-3.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
+| Donut Adventure | 242291 | [242291-donut-adventure.json](./242291-donut-adventure.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Be Seen | 183305 | [183305-donut-be-seen.json](./183305-donut-be-seen.json) |
 | Donut Blast | 340529 | [340529-donut-blast.json](./340529-donut-blast.json) |
