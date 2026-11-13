@@ -8181,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
 | Flatliners | 60342 | [60342-flatliners.json](./60342-flatliners.json) |
+| Flatout | 224858 | [224858-flatout.json](./224858-flatout.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
 | FlatOut | 309220 | [309220-flatout.json](./309220-flatout.json) |
 | FlatOut | 309227 | [309227-flatout.json](./309227-flatout.json) |
@@ -12336,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank N Stein | 79118 | [79118-frank-n-stein.json](./79118-frank-n-stein.json) |
 | Frank the Farmhand Part 1 | 169516 | [169516-frank-the-farmhand-part-1.json](./169516-frank-the-farmhand-part-1.json) |
 | Frank the Farmhand Part 2 | 169517 | [169517-frank-the-farmhand-part-2.json](./169517-frank-the-farmhand-part-2.json) |
+| Frank the Flea | 225245 | [225245-frank-the-flea.json](./225245-frank-the-flea.json) |
 | Frank the Fruit Fly | 218078 | [218078-frank-the-fruit-fly.json](./218078-frank-the-fruit-fly.json) |
 | Frank the Miner | 88088 | [88088-frank-the-miner.json](./88088-frank-the-miner.json) |
 | Frank Thomas Big Hurt Baseball | 138072 | [138072-frank-thomas-big-hurt-baseball.json](./138072-frank-thomas-big-hurt-baseball.json) |
@@ -15172,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Sex Adventures: Episode 4 | 368101 | [368101-futanari-sex-adventures-episode-4.json](./368101-futanari-sex-adventures-episode-4.json) |
 | Futanari Sex Adventures: Episode 6 | 368410 | [368410-futanari-sex-adventures-episode-6.json](./368410-futanari-sex-adventures-episode-6.json) |
 | Futanari Sex: BDSM Room | 201564 | [201564-futanari-sex-bdsm-room.json](./201564-futanari-sex-bdsm-room.json) |
+| Futanari Sex: Locker Room Affair | 224793 | [224793-futanari-sex-locker-room-affair.json](./224793-futanari-sex-locker-room-affair.json) |
 | Futanari Sex: Mile High Fun | 208225 | [208225-futanari-sex-mile-high-fun.json](./208225-futanari-sex-mile-high-fun.json) |
 | Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
 | Futanari Sex: Naughty Visit | 368124 | [368124-futanari-sex-naughty-visit.json](./368124-futanari-sex-naughty-visit.json) |
