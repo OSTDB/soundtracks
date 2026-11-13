@@ -4341,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat a Sketch | 401930 | [401930-cat-a-sketch.json](./401930-cat-a-sketch.json) |
 | Cat Ace | 134881 | [134881-cat-ace.json](./134881-cat-ace.json) |
 | Cat Adoption Tales | 390739 | [390739-cat-adoption-tales.json](./390739-cat-adoption-tales.json) |
+| Cat Adventure | 187566 | [187566-cat-adventure.json](./187566-cat-adventure.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat and Can | 226299 | [226299-cat-and-can.json](./226299-cat-and-can.json) |
 | Cat and Dog Adventure | 95564 | [95564-cat-and-dog-adventure.json](./95564-cat-and-dog-adventure.json) |
@@ -5204,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats of the Tang Dynasty | 302819 | [302819-cats-of-the-tang-dynasty.json](./302819-cats-of-the-tang-dynasty.json) |
 | Cats of the Yuan Dynasty | 364443 | [364443-cats-of-the-yuan-dynasty.json](./364443-cats-of-the-yuan-dynasty.json) |
+| Cats of War | 187550 | [187550-cats-of-war.json](./187550-cats-of-war.json) |
 | Cats on Broombas | 260285 | [260285-cats-on-broombas.json](./260285-cats-on-broombas.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Mars | 178884 | [178884-cats-on-mars.json](./178884-cats-on-mars.json) |
@@ -6614,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
 | Chaos A La Maison | 144076 | [144076-chaos-a-la-maison.json](./144076-chaos-a-la-maison.json) |
 | Chaos Academy | 208057 | [208057-chaos-academy.json](./208057-chaos-academy.json) |
+| Chaos Adrift | 187988 | [187988-chaos-adrift.json](./187988-chaos-adrift.json) |
 | Chaos Adventure | 281990 | [281990-chaos-adventure.json](./281990-chaos-adventure.json) |
 | Chaos Agents | 356774 | [356774-chaos-agents.json](./356774-chaos-agents.json) |
 | Chaos among Realms: Reborn The Game | 364649 | [364649-chaos-among-realms-reborn-the-game.json](./364649-chaos-among-realms-reborn-the-game.json) |
