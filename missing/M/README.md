@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamegoma Yoi Ko Marui Ko Genki na Ko! | 148652 | [148652-mamegoma-yoi-ko-marui-ko-genki-na-ko.json](./148652-mamegoma-yoi-ko-marui-ko-genki-na-ko.json) |
 | Mamegoma: Happy! Sweets Farm | 221581 | [221581-mamegoma-happy-sweets-farm.json](./221581-mamegoma-happy-sweets-farm.json) |
+| Mamegoma: Honobono Nikki | 241009 | [241009-mamegoma-honobono-nikki.json](./241009-mamegoma-honobono-nikki.json) |
 | Mameshiba | 141729 | [141729-mameshiba.json](./141729-mameshiba.json) |
 | Mameshiba Tankentai: Kieta Taicho wo sosaku seyo! | 349253 | [349253-mameshiba-tankentai-kieta-taicho-wo-sosaku-seyo.json](./349253-mameshiba-tankentai-kieta-taicho-wo-sosaku-seyo.json) |
 | MAMH | 252919 | [252919-mamh.json](./252919-mamh.json) |
