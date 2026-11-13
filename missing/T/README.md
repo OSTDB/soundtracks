@@ -8261,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
 | The Crew Motorfest: Year 1 Pass | 298706 | [298706-the-crew-motorfest-year-1-pass.json](./298706-the-crew-motorfest-year-1-pass.json) |
 | The Crew Road Empire | 420316 | [420316-the-crew-road-empire.json](./420316-the-crew-road-empire.json) |
+| The Crew: Extreme Pack | 239350 | [239350-the-crew-extreme-pack.json](./239350-the-crew-extreme-pack.json) |
 | The Crew: Gold Edition | 53703 | [53703-the-crew-gold-edition.json](./53703-the-crew-gold-edition.json) |
 | The Crew: Motorfest - Alfa Romeo Double Car Pack | 408888 | [408888-the-crew-motorfest-alfa-romeo-double-car-pack.json](./408888-the-crew-motorfest-alfa-romeo-double-car-pack.json) |
 | The Crew: Motorfest - Audi Double Car Pack | 393735 | [393735-the-crew-motorfest-audi-double-car-pack.json](./393735-the-crew-motorfest-audi-double-car-pack.json) |
@@ -10410,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog Fall 4 | 392739 | [392739-the-fog-fall-4.json](./392739-the-fog-fall-4.json) |
 | The Fog Knows Your Name | 126246 | [126246-the-fog-knows-your-name.json](./126246-the-fog-knows-your-name.json) |
 | The Fog: Trap for Moths | 53738 | [53738-the-fog-trap-for-moths.json](./53738-the-fog-trap-for-moths.json) |
+| The Foglands | 239380 | [239380-the-foglands.json](./239380-the-foglands.json) |
 | The Fold: Ingression | 133625 | [133625-the-fold-ingression.json](./133625-the-fold-ingression.json) |
 | The Folk | 379417 | [379417-the-folk.json](./379417-the-folk.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
@@ -10452,6 +10454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest Watches | 383947 | [383947-the-forest-watches.json](./383947-the-forest-watches.json) |
 | The Forestale | 102875 | [102875-the-forestale.json](./102875-the-forestale.json) |
 | The Foretold: Exordium | 267675 | [267675-the-foretold-exordium.json](./267675-the-foretold-exordium.json) |
+| The Foretold: Westmark Legacy | 239388 | [239388-the-foretold-westmark-legacy.json](./239388-the-foretold-westmark-legacy.json) |
 | The Forever Labyrinth | 285049 | [285049-the-forever-labyrinth.json](./285049-the-forever-labyrinth.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
 | The Forever Winter: Holiday Hangover | 383130 | [383130-the-forever-winter-holiday-hangover.json](./383130-the-forever-winter-holiday-hangover.json) |
@@ -30289,6 +30292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: BR Class 31 Loco | 215996 | [215996-train-sim-world-3-br-class-31-loco.json](./215996-train-sim-world-3-br-class-31-loco.json) |
 | Train Sim World 3: BR Class 33 Loco | 215962 | [215962-train-sim-world-3-br-class-33-loco.json](./215962-train-sim-world-3-br-class-33-loco.json) |
 | Train Sim World 3: BR Class 52 Western Loco | 215963 | [215963-train-sim-world-3-br-class-52-western-loco.json](./215963-train-sim-world-3-br-class-52-western-loco.json) |
+| Train Sim World 3: Cajon Pass | 239264 | [239264-train-sim-world-3-cajon-pass.json](./239264-train-sim-world-3-cajon-pass.json) |
 | Train Sim World 3: Cajon Pass: Barstow - San Bernardino Route | 215973 | [215973-train-sim-world-3-cajon-pass-barstow-san-bernardino-route.json](./215973-train-sim-world-3-cajon-pass-barstow-san-bernardino-route.json) |
 | Train Sim World 3: Caltrain MP15DC Diesel Switcher Loco | 215997 | [215997-train-sim-world-3-caltrain-mp15dc-diesel-switcher-loco.json](./215997-train-sim-world-3-caltrain-mp15dc-diesel-switcher-loco.json) |
 | Train Sim World 3: Caltrain MP36PH-3C 'Baby Bullet' Loco | 215998 | [215998-train-sim-world-3-caltrain-mp36ph-3c-baby-bullet-loco.json](./215998-train-sim-world-3-caltrain-mp36ph-3c-baby-bullet-loco.json) |
@@ -30314,10 +30318,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Loco Add-On Bundle 2 | 243233 | [243233-train-sim-world-3-loco-add-on-bundle-2.json](./243233-train-sim-world-3-loco-add-on-bundle-2.json) |
 | Train Sim World 3: London Underground 1938 Tube Stock EMU Loco | 215993 | [215993-train-sim-world-3-london-underground-1938-tube-stock-emu-loco.json](./215993-train-sim-world-3-london-underground-1938-tube-stock-emu-loco.json) |
 | Train Sim World 3: Nahverkehr Dresden -Riesa Route | 215990 | [215990-train-sim-world-3-nahverkehr-dresden-riesa-route.json](./215990-train-sim-world-3-nahverkehr-dresden-riesa-route.json) |
+| Train Sim World 3: NEC - New York: Trenton | 239276 | [239276-train-sim-world-3-nec-new-york-trenton.json](./239276-train-sim-world-3-nec-new-york-trenton.json) |
 | Train Sim World 3: New Journeys - CSX SD40 | 227133 | [227133-train-sim-world-3-new-journeys-csx-sd40.json](./227133-train-sim-world-3-new-journeys-csx-sd40.json) |
 | Train Sim World 3: New Journeys - S-Bahn Köln BR 423 | 227192 | [227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json](./227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 3: Norfolk Southern Heritage Livery Collection Add-On | 261094 | [261094-train-sim-world-3-norfolk-southern-heritage-livery-collection-add-on.json](./261094-train-sim-world-3-norfolk-southern-heritage-livery-collection-add-on.json) |
+| Train Sim World 3: Northeast Corridor - Boston: Providence Route | 239263 | [239263-train-sim-world-3-northeast-corridor-boston-providence-route.json](./239263-train-sim-world-3-northeast-corridor-boston-providence-route.json) |
 | Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
 | Train Sim World 3: Rail Head Treatment Train Add-On | 220713 | [220713-train-sim-world-3-rail-head-treatment-train-add-on.json](./220713-train-sim-world-3-rail-head-treatment-train-add-on.json) |
@@ -31581,6 +31587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: ITC GP7 Phase I & II (2 Pack) | 153178 | [153178-trainz-railroad-simulator-2019-itc-gp7-phase-i-and-ii-2-pack.json](./153178-trainz-railroad-simulator-2019-itc-gp7-phase-i-and-ii-2-pack.json) |
 | Trainz Railroad Simulator 2019: Japan - Model Trainz | 153276 | [153276-trainz-railroad-simulator-2019-japan-model-trainz.json](./153276-trainz-railroad-simulator-2019-japan-model-trainz.json) |
 | Trainz Railroad Simulator 2019: JR Rolling Stock Pack TRS19 | 153263 | [153263-trainz-railroad-simulator-2019-jr-rolling-stock-pack-trs19.json](./153263-trainz-railroad-simulator-2019-jr-rolling-stock-pack-trs19.json) |
+| Trainz Railroad Simulator 2019: Keio 3000 & Asanogawa 8800 Series | 239260 | [239260-trainz-railroad-simulator-2019-keio-3000-and-asanogawa-8800-series.json](./239260-trainz-railroad-simulator-2019-keio-3000-and-asanogawa-8800-series.json) |
 | Trainz Railroad Simulator 2019: Kickstarter County | 153210 | [153210-trainz-railroad-simulator-2019-kickstarter-county.json](./153210-trainz-railroad-simulator-2019-kickstarter-county.json) |
 | Trainz Railroad Simulator 2019: L&N M1 2-8-4 Big Emma | 162701 | [162701-trainz-railroad-simulator-2019-l-and-n-m1-2-8-4-big-emma.json](./162701-trainz-railroad-simulator-2019-l-and-n-m1-2-8-4-big-emma.json) |
 | Trainz Railroad Simulator 2019: Laadgs Transporter | 153106 | [153106-trainz-railroad-simulator-2019-laadgs-transporter.json](./153106-trainz-railroad-simulator-2019-laadgs-transporter.json) |
@@ -34103,6 +34110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubleshooter | 84113 | [84113-troubleshooter.json](./84113-troubleshooter.json) |
 | Troubleshooter: Abandoned Children | 80002 | [80002-troubleshooter-abandoned-children.json](./80002-troubleshooter-abandoned-children.json) |
 | Troubleshooter: Abandoned Children - Crimson Crow | 224997 | [224997-troubleshooter-abandoned-children-crimson-crow.json](./224997-troubleshooter-abandoned-children-crimson-crow.json) |
+| TROUBLESHOOTER: Abandoned Children - Giselle's Costume Set | 239267 | [239267-troubleshooter-abandoned-children-giselles-costume-set.json](./239267-troubleshooter-abandoned-children-giselles-costume-set.json) |
 | Troubleshooter: Abandoned Children - White Lion and Black Witch | 144452 | [144452-troubleshooter-abandoned-children-white-lion-and-black-witch.json](./144452-troubleshooter-abandoned-children-white-lion-and-black-witch.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
