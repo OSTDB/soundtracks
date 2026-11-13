@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takoyaki Surprise | 258779 | [258779-takoyaki-surprise.json](./258779-takoyaki-surprise.json) |
 | Taksakah | 396649 | [396649-taksakah.json](./396649-taksakah.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
+| Takt Op. Symphony | 174918 | [174918-takt-op-symphony.json](./174918-takt-op-symphony.json) |
 | Takua 64 | 277080 | [277080-takua-64.json](./277080-takua-64.json) |
 | Takuhai Maid Shiiko & Nono | 77901 | [77901-takuhai-maid-shiiko-and-nono.json](./77901-takuhai-maid-shiiko-and-nono.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
@@ -6044,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Elmo in Grouchland | 69682 | [69682-the-adventures-of-elmo-in-grouchland.json](./69682-the-adventures-of-elmo-in-grouchland.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
+| The Adventures of Emoji 4: Fly High Mouse | 174942 | [174942-the-adventures-of-emoji-4-fly-high-mouse.json](./174942-the-adventures-of-emoji-4-fly-high-mouse.json) |
 | The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
 | The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
 | The Adventures of Fatman: Intergalactic Indigestion | 170124 | [170124-the-adventures-of-fatman-intergalactic-indigestion.json](./170124-the-adventures-of-fatman-intergalactic-indigestion.json) |
@@ -31155,6 +31157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Arosa Line Route Add-On | 156467 | [156467-train-simulator-arosa-line-route-add-on.json](./156467-train-simulator-arosa-line-route-add-on.json) |
 | Train Simulator: AT&N Consolidation Class 280-157 Loco Add-On | 161992 | [161992-train-simulator-at-and-n-consolidation-class-280-157-loco-add-on.json](./161992-train-simulator-at-and-n-consolidation-class-280-157-loco-add-on.json) |
 | Train Simulator: B&O Kingwood Branch: Tunnelton - Kingwood Route Add-On | 156384 | [156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json](./156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json) |
+| Train Simulator: B&O Mountain Subdivision: Cumberland - Grafton Route | 174407 | [174407-train-simulator-b-and-o-mountain-subdivision-cumberland-grafton-route.json](./174407-train-simulator-b-and-o-mountain-subdivision-cumberland-grafton-route.json) |
 | Train Simulator: Bahnstrecke Leipzig - Riesa Route | 199758 | [199758-train-simulator-bahnstrecke-leipzig-riesa-route.json](./199758-train-simulator-bahnstrecke-leipzig-riesa-route.json) |
 | Train Simulator: Bahnstrecke Riesa - Dresden Route Add-On | 156404 | [156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json](./156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json) |
 | Train Simulator: Bahnstrecke Strasbourg - Karlsruhe Route | 191015 | [191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json](./191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json) |
@@ -32028,6 +32031,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Port Saturn | 288210 | [288210-trainz-railroad-simulator-2019-port-saturn.json](./288210-trainz-railroad-simulator-2019-port-saturn.json) |
 | Trainz Railroad Simulator 2019: Port Zyd & Fulazturn Railroad | 153232 | [153232-trainz-railroad-simulator-2019-port-zyd-and-fulazturn-railroad.json](./153232-trainz-railroad-simulator-2019-port-zyd-and-fulazturn-railroad.json) |
 | Trainz Railroad Simulator 2019: Potteries Loop Line | 205042 | [205042-trainz-railroad-simulator-2019-potteries-loop-line.json](./205042-trainz-railroad-simulator-2019-potteries-loop-line.json) |
+| Trainz Railroad Simulator 2019: PREG B16mnopux 087 | 174399 | [174399-trainz-railroad-simulator-2019-preg-b16mnopux-087.json](./174399-trainz-railroad-simulator-2019-preg-b16mnopux-087.json) |
+| Trainz Railroad Simulator 2019: PREG B16mnopux 106 | 174400 | [174400-trainz-railroad-simulator-2019-preg-b16mnopux-106.json](./174400-trainz-railroad-simulator-2019-preg-b16mnopux-106.json) |
+| Trainz Railroad Simulator 2019: PREG Bmnopux 003 | 174401 | [174401-trainz-railroad-simulator-2019-preg-bmnopux-003.json](./174401-trainz-railroad-simulator-2019-preg-bmnopux-003.json) |
 | Trainz Railroad Simulator 2019: Pro Train - Class 68 ScotRail | 208341 | [208341-trainz-railroad-simulator-2019-pro-train-class-68-scotrail.json](./208341-trainz-railroad-simulator-2019-pro-train-class-68-scotrail.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB Class 44 | 227274 | [227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json](./227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json) |
