@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c490482c949c23881b719aa7" width="60" /> | [E.X. Troopers](https://ostdb.net/games/e-x-troopers) | **E.X.TROOPERS - ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/4EPb4MRbWS9oOTHlvlUJP4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398387b4e7da471d8b685edb3" width="60" /> | [EarthWorms](https://ostdb.net/games/earthworms) | **Earthworms (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/523GUNEStwiepZm422AHNg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273844b974bfe453f84b20255e9" width="60" /> | [Earthlock](https://ostdb.net/games/earthlock) | **Earthlock (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7bMX4g0P6Oet956phBRXhu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7923f7598e3e468b2911610" width="60" /> | [Eastshade](https://ostdb.net/games/eastshade) | **Eastshade (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/402LWi8n8m3dPBlR6HCyln) |
