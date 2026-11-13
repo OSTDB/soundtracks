@@ -5509,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck & Defense | 424637 | [424637-deck-and-defense.json](./424637-deck-and-defense.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
+| Deck Adventurers: Origins | 193914 | [193914-deck-adventurers-origins.json](./193914-deck-adventurers-origins.json) |
 | Deck Beasts | 418622 | [418622-deck-beasts.json](./418622-deck-beasts.json) |
 | Deck Box Dungeons | 118611 | [118611-deck-box-dungeons.json](./118611-deck-box-dungeons.json) |
 | Deck Breaker | 417774 | [417774-deck-breaker.json](./417774-deck-breaker.json) |
@@ -6099,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Hunter: Interactive Hunting Experience | 263 | [263-deer-hunter-interactive-hunting-experience.json](./263-deer-hunter-interactive-hunting-experience.json) |
 | Deer Hunter's Extended Season | 252 | [252-deer-hunters-extended-season.json](./252-deer-hunters-extended-season.json) |
+| Deer Hunting 2: Hunting Season | 193900 | [193900-deer-hunting-2-hunting-season.json](./193900-deer-hunting-2-hunting-season.json) |
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Hunting Camp | 339048 | [339048-deer-hunting-camp.json](./339048-deer-hunting-camp.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
@@ -16359,6 +16361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fury VR | 157815 | [157815-dragon-fury-vr.json](./157815-dragon-fury-vr.json) |
 | Dragon Gal: Shura no Yabou | 58692 | [58692-dragon-gal-shura-no-yabou.json](./58692-dragon-gal-shura-no-yabou.json) |
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
+| Dragon Genesis: Seisen no Kizuna | 193910 | [193910-dragon-genesis-seisen-no-kizuna.json](./193910-dragon-genesis-seisen-no-kizuna.json) |
 | Dragon Girl | 328416 | [328416-dragon-girl.json](./328416-dragon-girl.json) |
 | Dragon Glory | 68571 | [68571-dragon-glory.json](./68571-dragon-glory.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
@@ -16429,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon March | 348179 | [348179-dragon-march.json](./348179-dragon-march.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Marked for Death: Frontline Fighters | 147676 | [147676-dragon-marked-for-death-frontline-fighters.json](./147676-dragon-marked-for-death-frontline-fighters.json) |
+| Dragon Master | 193909 | [193909-dragon-master.json](./193909-dragon-master.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
 | Dragon Master Spell Caster | 51118 | [51118-dragon-master-spell-caster.json](./51118-dragon-master-spell-caster.json) |
