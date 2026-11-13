@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100-hito Taisen Bomberman | 198060 | [198060-100-hito-taisen-bomberman.json](./198060-100-hito-taisen-bomberman.json) |
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
+| 100-Nichikan no Princess Mou Hitotsu no Ikemen Oukyuu | 227426 | [227426-100-nichikan-no-princess-mou-hitotsu-no-ikemen-oukyuu.json](./227426-100-nichikan-no-princess-mou-hitotsu-no-ikemen-oukyuu.json) |
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
 | 100-Player Twitch Chat Party Pack | 146456 | [146456-100-player-twitch-chat-party-pack.json](./146456-100-player-twitch-chat-party-pack.json) |
 | 100,000 Games | 67177 | [67177-100-000-games.json](./67177-100-000-games.json) |
