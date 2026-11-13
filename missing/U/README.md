@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mahjongg 15 | 206056 | [206056-ultimate-mahjongg-15.json](./206056-ultimate-mahjongg-15.json) |
 | Ultimate Mahjongg 20 | 53942 | [53942-ultimate-mahjongg-20.json](./53942-ultimate-mahjongg-20.json) |
 | Ultimate MahJongg 5 | 206055 | [206055-ultimate-mahjongg-5.json](./206055-ultimate-mahjongg-5.json) |
+| Ultimate Mario Bros. | 250072 | [250072-ultimate-mario-bros.json](./250072-ultimate-mario-bros.json) |
 | Ultimate Marvel vs. Capcom 3 | 2066 | [2066-ultimate-marvel-vs-capcom-3.json](./2066-ultimate-marvel-vs-capcom-3.json) |
 | Ultimate Marvel vs. Capcom 3: Community Edition | 406534 | [406534-ultimate-marvel-vs-capcom-3-community-edition.json](./406534-ultimate-marvel-vs-capcom-3-community-edition.json) |
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Shotgun Championship | 117602 | [117602-ultimate-shotgun-championship.json](./117602-ultimate-shotgun-championship.json) |
 | Ultimate Sim | 91425 | [91425-ultimate-sim.json](./91425-ultimate-sim.json) |
 | Ultimate Simplicity | 256815 | [256815-ultimate-simplicity.json](./256815-ultimate-simplicity.json) |
+| Ultimate Skate | 242760 | [242760-ultimate-skate.json](./242760-ultimate-skate.json) |
 | Ultimate Ski Jumping 2020 | 131979 | [131979-ultimate-ski-jumping-2020.json](./131979-ultimate-ski-jumping-2020.json) |
 | Ultimate Ski Jumping 2020 + Glaive: Brick Breaker Bundle | 225477 | [225477-ultimate-ski-jumping-2020-glaive-brick-breaker-bundle.json](./225477-ultimate-ski-jumping-2020-glaive-brick-breaker-bundle.json) |
 | Ultimate Skyrim | 132068 | [132068-ultimate-skyrim.json](./132068-ultimate-skyrim.json) |
@@ -3783,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USCF Chess | 391892 | [391892-uscf-chess.json](./391892-uscf-chess.json) |
 | USCF Chess | 41448 | [41448-uscf-chess.json](./41448-uscf-chess.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
+| Use Boxmen | 242825 | [242825-use-boxmen.json](./242825-use-boxmen.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
 | Use Your Brainz Edu | 395718 | [395718-use-your-brainz-edu.json](./395718-use-your-brainz-edu.json) |
 | Use Your Mind | 241470 | [241470-use-your-mind.json](./241470-use-your-mind.json) |
