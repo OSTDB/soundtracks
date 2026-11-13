@@ -5692,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's Exactly What a Wolf Would Say! | 419755 | [419755-thats-exactly-what-a-wolf-would-say.json](./419755-thats-exactly-what-a-wolf-would-say.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
+| That's My Family: Family Fun Night | 241102 | [241102-thats-my-family-family-fun-night.json](./241102-thats-my-family-family-fun-night.json) |
 | That's My Seat | 387467 | [387467-thats-my-seat.json](./387467-thats-my-seat.json) |
 | That's My Space | 250740 | [250740-thats-my-space.json](./250740-thats-my-space.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
@@ -28737,6 +28738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Renkyouto: Subterranean Festival of Love and Jealousy | 318452 | [318452-touhou-renkyouto-subterranean-festival-of-love-and-jealousy.json](./318452-touhou-renkyouto-subterranean-festival-of-love-and-jealousy.json) |
 | Touhou Rhythm Carnival! Kurenai | 77860 | [77860-touhou-rhythm-carnival-kurenai.json](./77860-touhou-rhythm-carnival-kurenai.json) |
 | Touhou Rinrinki: Crafts of the Lucky Beast | 356040 | [356040-touhou-rinrinki-crafts-of-the-lucky-beast.json](./356040-touhou-rinrinki-crafts-of-the-lucky-beast.json) |
+| Touhou Rinroushou: Eirin Is Going To Get Married | 241089 | [241089-touhou-rinroushou-eirin-is-going-to-get-married.json](./241089-touhou-rinroushou-eirin-is-going-to-get-married.json) |
 | Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
 | Touhou Rock Maiden 3: Houraisan Kaguya no Saigo!? | 203649 | [203649-touhou-rock-maiden-3-houraisan-kaguya-no-saigo.json](./203649-touhou-rock-maiden-3-houraisan-kaguya-no-saigo.json) |
