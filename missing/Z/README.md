@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zinkara | 348343 | [348343-zinkara.json](./348343-zinkara.json) |
 | Zinnia | 145595 | [145595-zinnia.json](./145595-zinnia.json) |
 | Zinuru the Great | 157213 | [157213-zinuru-the-great.json](./157213-zinuru-the-great.json) |
+| Zio and the Magic Scrolls | 194602 | [194602-zio-and-the-magic-scrolls.json](./194602-zio-and-the-magic-scrolls.json) |
 | Ziode Shadow | 164075 | [164075-ziode-shadow.json](./164075-ziode-shadow.json) |
 | Zion | 198308 | [198308-zion.json](./198308-zion.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
