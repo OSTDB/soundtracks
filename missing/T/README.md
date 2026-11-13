@@ -9072,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Gospel | 184448 | [184448-the-devils-gospel.json](./184448-the-devils-gospel.json) |
 | The Devil's Imago | 276009 | [276009-the-devils-imago.json](./276009-the-devils-imago.json) |
 | The Devil's in the Details | 423982 | [423982-the-devils-in-the-details.json](./423982-the-devils-in-the-details.json) |
+| The Devil's Luck | 172219 | [172219-the-devils-luck.json](./172219-the-devils-luck.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
 | The Devil's Shoes | 165813 | [165813-the-devils-shoes.json](./165813-the-devils-shoes.json) |
@@ -25436,6 +25437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timore Avaritia | 366350 | [366350-timore-avaritia.json](./366350-timore-avaritia.json) |
 | Timore Inferno | 32422 | [32422-timore-inferno.json](./32422-timore-inferno.json) |
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
+| Timore Redo | 172209 | [172209-timore-redo.json](./172209-timore-redo.json) |
 | Timore Remake | 220547 | [220547-timore-remake.json](./220547-timore-remake.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Mysterious Forest | 122144 | [122144-timothy-and-the-mysterious-forest.json](./122144-timothy-and-the-mysterious-forest.json) |
@@ -28867,6 +28869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Big Big Battle: Character Pack 2.3 | 224359 | [224359-touhou-big-big-battle-character-pack-2-3.json](./224359-touhou-big-big-battle-character-pack-2-3.json) |
 | Touhou Big Big Battle: Character Pack 2.5 | 224358 | [224358-touhou-big-big-battle-character-pack-2-5.json](./224358-touhou-big-big-battle-character-pack-2-5.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
+| Touhou Big Big Battle: Yuyuko's Food-hunting Adventure | 172241 | [172241-touhou-big-big-battle-yuyukos-food-hunting-adventure.json](./172241-touhou-big-big-battle-yuyukos-food-hunting-adventure.json) |
 | Touhou Block Fall: Yukari | 169554 | [169554-touhou-block-fall-yukari.json](./169554-touhou-block-fall-yukari.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 1 | 170962 | [170962-touhou-blooming-chaos-2-chara-pack-1.json](./170962-touhou-blooming-chaos-2-chara-pack-1.json) |
@@ -32772,6 +32775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapers Platformer | 231111 | [231111-trapers-platformer.json](./231111-trapers-platformer.json) |
 | Trapfall | 70722 | [70722-trapfall.json](./70722-trapfall.json) |
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
+| Traphouse Druglord | 172244 | [172244-traphouse-druglord.json](./172244-traphouse-druglord.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
 | Trapped | 148725 | [148725-trapped.json](./148725-trapped.json) |
@@ -35616,6 +35620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Light Rush | 207707 | [207707-turbo-light-rush.json](./207707-turbo-light-rush.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo Loop | 406952 | [406952-turbo-loop.json](./406952-turbo-loop.json) |
+| Turbo Machines Mini Racing | 172203 | [172203-turbo-machines-mini-racing.json](./172203-turbo-machines-mini-racing.json) |
 | Turbo Maze Man | 268705 | [268705-turbo-maze-man.json](./268705-turbo-maze-man.json) |
 | Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
