@@ -8629,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Mind Training: Mystery Choices | 409666 | [409666-detective-mind-training-mystery-choices.json](./409666-detective-mind-training-mystery-choices.json) |
 | Detective Mio | 174801 | [174801-detective-mio.json](./174801-detective-mio.json) |
 | Detective Mouse | 278865 | [278865-detective-mouse.json](./278865-detective-mouse.json) |
+| Detective Nakamura: The Azure Case | 162473 | [162473-detective-nakamura-the-azure-case.json](./162473-detective-nakamura-the-azure-case.json) |
 | Detective Nekko | 317760 | [317760-detective-nekko.json](./317760-detective-nekko.json) |
 | Detective Noir | 29608 | [29608-detective-noir.json](./29608-detective-noir.json) |
 | Detective Notes: Lighthouse Mystery Solitaire | 172384 | [172384-detective-notes-lighthouse-mystery-solitaire.json](./172384-detective-notes-lighthouse-mystery-solitaire.json) |
