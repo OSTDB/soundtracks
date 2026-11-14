@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Engineer | 239815 | [239815-photon-engineer.json](./239815-photon-engineer.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
+| Photon Highway | 100441 | [100441-photon-highway.json](./100441-photon-highway.json) |
 | Photon Rush | 44197 | [44197-photon-rush.json](./44197-photon-rush.json) |
 | Photon Storm | 12716 | [12716-photon-storm.json](./12716-photon-storm.json) |
 | Photon: Planet Regenerator | 250272 | [250272-photon-planet-regenerator.json](./250272-photon-planet-regenerator.json) |
@@ -17790,6 +17791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Queen's Meadow | 180898 | [180898-project-queens-meadow.json](./180898-project-queens-meadow.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
+| Project R.A.T. | 100421 | [100421-project-r-a-t.json](./100421-project-r-a-t.json) |
 | Project R2 | 367829 | [367829-project-r2.json](./367829-project-r2.json) |
 | Project R4T | 384159 | [384159-project-r4t.json](./384159-project-r4t.json) |
 | Project Rabbit | 402088 | [402088-project-rabbit.json](./402088-project-rabbit.json) |
