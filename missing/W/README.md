@@ -7499,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards of Alamar | 182670 | [182670-wizards-of-alamar.json](./182670-wizards-of-alamar.json) |
 | Wizards of Chaos | 216823 | [216823-wizards-of-chaos.json](./216823-wizards-of-chaos.json) |
 | Wizards of Nature | 329674 | [329674-wizards-of-nature.json](./329674-wizards-of-nature.json) |
+| Wizards of the West | 155749 | [155749-wizards-of-the-west.json](./155749-wizards-of-the-west.json) |
 | Wizards of Waverly Place | 44065 | [44065-wizards-of-waverly-place.json](./44065-wizards-of-waverly-place.json) |
 | Wizards of Waverly Place: Spellbound | 24309 | [24309-wizards-of-waverly-place-spellbound.json](./24309-wizards-of-waverly-place-spellbound.json) |
 | Wizards Quest: Adventure in the Kingdom | 274940 | [274940-wizards-quest-adventure-in-the-kingdom.json](./274940-wizards-quest-adventure-in-the-kingdom.json) |
