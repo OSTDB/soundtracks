@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
 | Echoes Runner | 395939 | [395939-echoes-runner.json](./395939-echoes-runner.json) |
 | Echoes Untold | 380961 | [380961-echoes-untold.json](./380961-echoes-untold.json) |
+| Echoes World | 111119 | [111119-echoes-world.json](./111119-echoes-world.json) |
 | Echoes: Deep-sea Exploration | 116440 | [116440-echoes-deep-sea-exploration.json](./116440-echoes-deep-sea-exploration.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
@@ -1349,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar Torronteras' Moto-X 2000 | 63629 | [63629-edgar-torronteras-moto-x-2000.json](./63629-edgar-torronteras-moto-x-2000.json) |
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
+| Edge | 111122 | [111122-edge.json](./111122-edge.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
 | Edge Grinder | 39079 | [39079-edge-grinder.json](./39079-edge-grinder.json) |
@@ -3250,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Souls | 306942 | [306942-ember-souls.json](./306942-ember-souls.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
+| Ember Sword | 111113 | [111113-ember-sword.json](./111113-ember-sword.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
 | Ember Throne Online | 247807 | [247807-ember-throne-online.json](./247807-ember-throne-online.json) |
 | Ember: Console Edition | 175498 | [175498-ember-console-edition.json](./175498-ember-console-edition.json) |
@@ -4173,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Jump: Infinity Loop | 232331 | [232331-endless-jump-infinity-loop.json](./232331-endless-jump-infinity-loop.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Labyrinth | 32264 | [32264-endless-labyrinth.json](./32264-endless-labyrinth.json) |
+| Endless League | 111129 | [111129-endless-league.json](./111129-endless-league.json) |
 | Endless Legend | 9278 | [9278-endless-legend.json](./9278-endless-legend.json) |
 | Endless Legend - Inferno | 143844 | [143844-endless-legend-inferno.json](./143844-endless-legend-inferno.json) |
 | Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
@@ -4450,6 +4454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Cycle Edge | 112590 | [112590-energy-cycle-edge.json](./112590-energy-cycle-edge.json) |
 | Energy Czar | 91704 | [91704-energy-czar.json](./91704-energy-czar.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
+| Energy Girl | 111114 | [111114-energy-girl.json](./111114-energy-girl.json) |
 | Energy Heroes | 58619 | [58619-energy-heroes.json](./58619-energy-heroes.json) |
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
@@ -6825,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Sonata | 6990 | [6990-eternal-sonata.json](./6990-eternal-sonata.json) |
 | Eternal Sonata: Reprise | 412771 | [412771-eternal-sonata-reprise.json](./412771-eternal-sonata-reprise.json) |
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
+| Eternal Space Battles | 111125 | [111125-eternal-space-battles.json](./111125-eternal-space-battles.json) |
 | Eternal Spectre | 195584 | [195584-eternal-spectre.json](./195584-eternal-spectre.json) |
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
 | Eternal Starlight | 174548 | [174548-eternal-starlight.json](./174548-eternal-starlight.json) |
@@ -6895,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternower | 132404 | [132404-eternower.json](./132404-eternower.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
 | Eternum Ao | 255413 | [255413-eternum-ao.json](./255413-eternum-ao.json) |
+| Eternum Ex | 111128 | [111128-eternum-ex.json](./111128-eternum-ex.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan Lit 2 | 180404 | [180404-ethan-lit-2.json](./180404-ethan-lit-2.json) |
 | Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
