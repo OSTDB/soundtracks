@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Animal Preschool Games for Kids | 58575 | [58575-123-animal-preschool-games-for-kids.json](./58575-123-animal-preschool-games-for-kids.json) |
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
 | 123 Dots | 159402 | [159402-123-dots.json](./159402-123-dots.json) |
+| 123 Kids Fun Alphabet | 104335 | [104335-123-kids-fun-alphabet.json](./104335-123-kids-fun-alphabet.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Kids Fun Education | 91076 | [91076-123-kids-fun-education.json](./91076-123-kids-fun-education.json) |
 | 123 Kids Fun Flashcards | 87397 | [87397-123-kids-fun-flashcards.json](./87397-123-kids-fun-flashcards.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Attack on Titan | 316546 | [316546-2048-attack-on-titan.json](./316546-2048-attack-on-titan.json) |
 | 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
+| 2048 Best! | 104318 | [104318-2048-best.json](./104318-2048-best.json) |
 | 2048 Blocks VR | 282998 | [282998-2048-blocks-vr.json](./282998-2048-blocks-vr.json) |
 | 2048 Bosses | 358069 | [358069-2048-bosses.json](./358069-2048-bosses.json) |
 | 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
@@ -3939,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
 | 94 Super World Cup Soccer | 45635 | [45635-94-super-world-cup-soccer.json](./45635-94-super-world-cup-soccer.json) |
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
+| 94%: Quiz, Trivia & Logic | 104342 | [104342-94-quiz-trivia-and-logic.json](./104342-94-quiz-trivia-and-logic.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
 | 96: Another Story | 224877 | [224877-96-another-story.json](./224877-96-another-story.json) |
