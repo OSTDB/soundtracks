@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Player's Heart | 128932 | [128932-a-players-heart.json](./128932-a-players-heart.json) |
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
+| A Plot from the Stars | 134096 | [134096-a-plot-from-the-stars.json](./134096-a-plot-from-the-stars.json) |
 | A Plot Story | 59243 | [59243-a-plot-story.json](./59243-a-plot-story.json) |
 | A Plumber for All Seasons | 204718 | [204718-a-plumber-for-all-seasons.json](./204718-a-plumber-for-all-seasons.json) |
 | A Plunge into Darkness | 128100 | [128100-a-plunge-into-darkness.json](./128100-a-plunge-into-darkness.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
 | A Thief's Quest | 328933 | [328933-a-thiefs-quest.json](./328933-a-thiefs-quest.json) |
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
+| A Thirst for Eternity | 134121 | [134121-a-thirst-for-eternity.json](./134121-a-thirst-for-eternity.json) |
 | A Thousand Acres | 420214 | [420214-a-thousand-acres.json](./420214-a-thousand-acres.json) |
 | A Thousand Cloys | 418433 | [418433-a-thousand-cloys.json](./418433-a-thousand-cloys.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
@@ -12459,6 +12461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
 | Anthropomachy | 118050 | [118050-anthropomachy.json](./118050-anthropomachy.json) |
 | Anthropomorphic Suspect | 181458 | [181458-anthropomorphic-suspect.json](./181458-anthropomorphic-suspect.json) |
+| Anti Air | 134089 | [134089-anti-air.json](./134089-anti-air.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
 | Anti Chess | 56434 | [56434-anti-chess.json](./56434-anti-chess.json) |
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
@@ -17195,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Complete Edition | 191960 | [191960-assassins-creed-valhalla-complete-edition.json](./191960-assassins-creed-valhalla-complete-edition.json) |
 | Assassin's Creed Valhalla: Deluxe Edition | 164835 | [164835-assassins-creed-valhalla-deluxe-edition.json](./164835-assassins-creed-valhalla-deluxe-edition.json) |
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
+| Assassin's Creed Valhalla: Gold Edition | 134119 | [134119-assassins-creed-valhalla-gold-edition.json](./134119-assassins-creed-valhalla-gold-edition.json) |
 | Assassin's Creed Valhalla: Limited Edition | 136108 | [136108-assassins-creed-valhalla-limited-edition.json](./136108-assassins-creed-valhalla-limited-edition.json) |
 | Assassin's Creed Valhalla: Mastery Challenge | 222815 | [222815-assassins-creed-valhalla-mastery-challenge.json](./222815-assassins-creed-valhalla-mastery-challenge.json) |
 | Assassin's Creed Valhalla: Ragnarök Edition | 188167 | [188167-assassins-creed-valhalla-ragnarok-edition.json](./188167-assassins-creed-valhalla-ragnarok-edition.json) |
@@ -17704,6 +17708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra | 148829 | [148829-astra.json](./148829-astra.json) |
 | Astra | 278180 | [278180-astra.json](./278180-astra.json) |
 | Astra | 300055 | [300055-astra.json](./300055-astra.json) |
+| Astrå | 134130 | [134130-astra.json](./134130-astra.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Bestiary | 365968 | [365968-astra-bestiary.json](./365968-astra-bestiary.json) |
 | Astra Defender | 223311 | [223311-astra-defender.json](./223311-astra-defender.json) |
