@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybringer | 133058 | [133058-daybringer.json](./133058-daybringer.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
 | Daycare Dungeon | 324947 | [324947-daycare-dungeon.json](./324947-daycare-dungeon.json) |
+| Daycare Manager | 154114 | [154114-daycare-manager.json](./154114-daycare-manager.json) |
 | Daycare Nightmare | 208683 | [208683-daycare-nightmare.json](./208683-daycare-nightmare.json) |
 | Daycare Of Happy Children | 380583 | [380583-daycare-of-happy-children.json](./380583-daycare-of-happy-children.json) |
 | DayD Time Mayhem TD | 101195 | [101195-dayd-time-mayhem-td.json](./101195-dayd-time-mayhem-td.json) |
@@ -16360,6 +16361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Break Classic Plus | 310366 | [310366-dragon-break-classic-plus.json](./310366-dragon-break-classic-plus.json) |
 | Dragon Breed | 6791 | [6791-dragon-breed.json](./6791-dragon-breed.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
+| Dragon Bridge | 154042 | [154042-dragon-bridge.json](./154042-dragon-bridge.json) |
 | Dragon Bros: Collector's Edition | 52946 | [52946-dragon-bros-collectors-edition.json](./52946-dragon-bros-collectors-edition.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
@@ -19817,6 +19819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Bosses | 118225 | [118225-dungeon-bosses.json](./118225-dungeon-bosses.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
+| Dungeon Brawlers | 154034 | [154034-dungeon-brawlers.json](./154034-dungeon-brawlers.json) |
 | Dungeon Break TD | 152969 | [152969-dungeon-break-td.json](./152969-dungeon-break-td.json) |
 | Dungeon Breakers | 188281 | [188281-dungeon-breakers.json](./188281-dungeon-breakers.json) |
 | Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
