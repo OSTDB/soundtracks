@@ -14444,6 +14444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Parties: AmamaNia | 225185 | [225185-the-lord-of-the-parties-amamania.json](./225185-the-lord-of-the-parties-amamania.json) |
 | The Lord of the Parties: Byakko Akine | 225186 | [225186-the-lord-of-the-parties-byakko-akine.json](./225186-the-lord-of-the-parties-byakko-akine.json) |
 | The Lord of The Rings ACG: The Shadow's Fall Expansion | 174415 | [174415-the-lord-of-the-rings-acg-the-shadows-fall-expansion.json](./174415-the-lord-of-the-rings-acg-the-shadows-fall-expansion.json) |
+| The Lord of the Rings Collectie | 138323 | [138323-the-lord-of-the-rings-collectie.json](./138323-the-lord-of-the-rings-collectie.json) |
 | The Lord of the Rings Online Trading Card Game | 131347 | [131347-the-lord-of-the-rings-online-trading-card-game.json](./131347-the-lord-of-the-rings-online-trading-card-game.json) |
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
@@ -19498,6 +19499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tides | 212724 | [212724-the-tides.json](./212724-the-tides.json) |
 | The Tides of Time | 141790 | [141790-the-tides-of-time.json](./141790-the-tides-of-time.json) |
 | The Tideshell Keeper | 211805 | [211805-the-tideshell-keeper.json](./211805-the-tideshell-keeper.json) |
+| The Tiger Grand Prix | 138877 | [138877-the-tiger-grand-prix.json](./138877-the-tiger-grand-prix.json) |
 | The Tiger Online Simulator | 145948 | [145948-the-tiger-online-simulator.json](./145948-the-tiger-online-simulator.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Time Game | 310054 | [310054-the-time-game.json](./310054-the-time-game.json) |
@@ -26452,6 +26454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNT: Renascence | 260860 | [260860-tnt-renascence.json](./260860-tnt-renascence.json) |
 | TNT: Resistance | 315732 | [315732-tnt-resistance.json](./315732-tnt-resistance.json) |
+| TNT: Revilution | 138846 | [138846-tnt-revilution.json](./138846-tnt-revilution.json) |
 | TNT: Threevilution | 316174 | [316174-tnt-threevilution.json](./316174-tnt-threevilution.json) |
 | TNT! | 118978 | [118978-tnt.json](./118978-tnt.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
@@ -28649,6 +28652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Funpak | 77890 | [77890-total-funpak.json](./77890-total-funpak.json) |
 | Total Gravity | 271565 | [271565-total-gravity.json](./271565-total-gravity.json) |
 | Total Havoc | 149750 | [149750-total-havoc.json](./149750-total-havoc.json) |
+| Total Heaven | 138321 | [138321-total-heaven.json](./138321-total-heaven.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Infiltration | 273229 | [273229-total-infiltration.json](./273229-total-infiltration.json) |
@@ -34034,6 +34038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Ball | 102279 | [102279-tricky-ball.json](./102279-tricky-ball.json) |
 | Tricky Brain Story: DOP Puzzle | 223878 | [223878-tricky-brain-story-dop-puzzle.json](./223878-tricky-brain-story-dop-puzzle.json) |
+| Tricky Castle | 138861 | [138861-tricky-castle.json](./138861-tricky-castle.json) |
 | Tricky Challenge 2 | 90839 | [90839-tricky-challenge-2.json](./90839-tricky-challenge-2.json) |
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
