@@ -8460,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Searcher III | 124336 | [124336-word-searcher-iii.json](./124336-word-searcher-iii.json) |
 | Word Searcher IV | 124334 | [124334-word-searcher-iv.json](./124334-word-searcher-iv.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
+| Word Seek HD | 95017 | [95017-word-seek-hd.json](./95017-word-seek-hd.json) |
 | Word Shaker HD | 97195 | [97195-word-shaker-hd.json](./97195-word-shaker-hd.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Shot | 119424 | [119424-word-shot.json](./119424-word-shot.json) |
