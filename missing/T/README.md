@@ -16051,6 +16051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outbreak Story | 149852 | [149852-the-outbreak-story.json](./149852-the-outbreak-story.json) |
 | The Outbreak: Wilderness | 167519 | [167519-the-outbreak-wilderness.json](./167519-the-outbreak-wilderness.json) |
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
+| The Outcast Mobile | 142515 | [142515-the-outcast-mobile.json](./142515-the-outcast-mobile.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Frame | 399859 | [399859-the-outer-frame.json](./399859-the-outer-frame.json) |
 | The Outer Radius | 211602 | [211602-the-outer-radius.json](./211602-the-outer-radius.json) |
@@ -26205,6 +26206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Tit-E-Bar | 308444 | [308444-tit-e-bar.json](./308444-tit-e-bar.json) |
 | Tita Planet | 165211 | [165211-tita-planet.json](./165211-tita-planet.json) |
+| Titan | 142521 | [142521-titan.json](./142521-titan.json) |
 | Titan | 159107 | [159107-titan.json](./159107-titan.json) |
 | Titan (working title) | 131476 | [131476-titan-working-title.json](./131476-titan-working-title.json) |
 | Titan 2 | 262259 | [262259-titan-2.json](./262259-titan-2.json) |
