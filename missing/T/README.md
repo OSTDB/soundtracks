@@ -9753,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enthralling Realms 7: Curse of the Wildwood | 424255 | [424255-the-enthralling-realms-7-curse-of-the-wildwood.json](./424255-the-enthralling-realms-7-curse-of-the-wildwood.json) |
 | The Enthralling Realms: An Alchemist's Tale | 114544 | [114544-the-enthralling-realms-an-alchemists-tale.json](./114544-the-enthralling-realms-an-alchemists-tale.json) |
 | The Enthralling Realms: Curse of Darkness | 104806 | [104806-the-enthralling-realms-curse-of-darkness.json](./104806-the-enthralling-realms-curse-of-darkness.json) |
+| The Enthralling Realms: The Blacksmith's Revenge | 167752 | [167752-the-enthralling-realms-the-blacksmiths-revenge.json](./167752-the-enthralling-realms-the-blacksmiths-revenge.json) |
 | The Enthralling Realms: The Fairy's Quest | 416275 | [416275-the-enthralling-realms-the-fairys-quest.json](./416275-the-enthralling-realms-the-fairys-quest.json) |
 | The Enthralling Realms: The Witch and the Elven Princess | 416274 | [416274-the-enthralling-realms-the-witch-and-the-elven-princess.json](./416274-the-enthralling-realms-the-witch-and-the-elven-princess.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
@@ -19231,6 +19232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
 | The Terminal 2 | 17635 | [17635-the-terminal-2.json](./17635-the-terminal-2.json) |
+| The Termination | 167344 | [167344-the-termination.json](./167344-the-termination.json) |
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
 | The Terminator | 234211 | [234211-the-terminator.json](./234211-the-terminator.json) |
 | The Terminator | 327476 | [327476-the-terminator.json](./327476-the-terminator.json) |
