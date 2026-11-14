@@ -4169,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Loop Complete | 52949 | [52949-endless-loop-complete.json](./52949-endless-loop-complete.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Machines | 414044 | [414044-endless-machines.json](./414044-endless-machines.json) |
+| Endless mahjong | 165782 | [165782-endless-mahjong.json](./165782-endless-mahjong.json) |
 | Endless Maneuver | 112445 | [112445-endless-maneuver.json](./112445-endless-maneuver.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Match | 191147 | [191147-endless-match.json](./191147-endless-match.json) |
@@ -9138,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
 | Extreme Soccer | 143208 | [143208-extreme-soccer.json](./143208-extreme-soccer.json) |
 | Extreme Social Distancing | 163761 | [163761-extreme-social-distancing.json](./163761-extreme-social-distancing.json) |
+| Extreme Speed | 165795 | [165795-extreme-speed.json](./165795-extreme-speed.json) |
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
