@@ -7454,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
 | Best of Tilted Mill | 52466 | [52466-best-of-tilted-mill.json](./52466-best-of-tilted-mill.json) |
 | Best of Upscale Studio Bundle: 5 in 1 | 385141 | [385141-best-of-upscale-studio-bundle-5-in-1.json](./385141-best-of-upscale-studio-bundle-5-in-1.json) |
+| Best of Voodoo | 138318 | [138318-best-of-voodoo.json](./138318-best-of-voodoo.json) |
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
 | Best Pearl | 240046 | [240046-best-pearl.json](./240046-best-pearl.json) |
 | Best Play Baseball | 242686 | [242686-best-play-baseball.json](./242686-best-play-baseball.json) |
@@ -8189,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Pro | 220075 | [220075-big-buck-hunter-pro.json](./220075-big-buck-hunter-pro.json) |
 | Big Buck Hunter Pro | 62603 | [62603-big-buck-hunter-pro.json](./62603-big-buck-hunter-pro.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
+| Big Buck Hunter Reloaded | 138878 | [138878-big-buck-hunter-reloaded.json](./138878-big-buck-hunter-reloaded.json) |
 | Big Buck Hunter: Call of the Wild | 263653 | [263653-big-buck-hunter-call-of-the-wild.json](./263653-big-buck-hunter-call-of-the-wild.json) |
 | Big Buck Hunter: Marksman | 259691 | [259691-big-buck-hunter-marksman.json](./259691-big-buck-hunter-marksman.json) |
 | Big Buck Hunter: Shooter's Challenge | 263651 | [263651-big-buck-hunter-shooters-challenge.json](./263651-big-buck-hunter-shooters-challenge.json) |
@@ -12964,6 +12966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
 | Blue's Clues: Blue's Art Time Activities | 73403 | [73403-blues-clues-blues-art-time-activities.json](./73403-blues-clues-blues-art-time-activities.json) |
 | Blue's Clues: Blue's Big Musical | 9701 | [9701-blues-clues-blues-big-musical.json](./9701-blues-clues-blues-big-musical.json) |
+| Blue's Clues: Blue's Treasure Hunt | 138893 | [138893-blues-clues-blues-treasure-hunt.json](./138893-blues-clues-blues-treasure-hunt.json) |
 | Blue's Clues: Meet Blue's Baby Brother | 206460 | [206460-blues-clues-meet-blues-baby-brother.json](./206460-blues-clues-meet-blues-baby-brother.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
 | Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
@@ -17320,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Memory: Infinite - Platinum Edition | 212286 | [212286-bright-memory-infinite-platinum-edition.json](./212286-bright-memory-infinite-platinum-edition.json) |
 | Bright Memory: Infinite - Ultimate Edition | 186532 | [186532-bright-memory-infinite-ultimate-edition.json](./186532-bright-memory-infinite-ultimate-edition.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
+| Bright Paw | 138888 | [138888-bright-paw.json](./138888-bright-paw.json) |
 | Bright Paw: Definitive Edition | 212285 | [212285-bright-paw-definitive-edition.json](./212285-bright-paw-definitive-edition.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Red Skies | 112840 | [112840-bright-red-skies.json](./112840-bright-red-skies.json) |
@@ -17881,6 +17885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom: Power Fantasy | 198662 | [198662-brutal-doom-power-fantasy.json](./198662-brutal-doom-power-fantasy.json) |
 | Brutal Doom: Project Brutality | 198667 | [198667-brutal-doom-project-brutality.json](./198667-brutal-doom-project-brutality.json) |
 | Brutal Doom: ZioMcCall's Vision | 198693 | [198693-brutal-doom-ziomccalls-vision.json](./198693-brutal-doom-ziomccalls-vision.json) |
+| Brutal Fate | 138865 | [138865-brutal-fate.json](./138865-brutal-fate.json) |
 | Brutal Force | 286804 | [286804-brutal-force.json](./286804-brutal-force.json) |
 | Brutal Games | 119898 | [119898-brutal-games.json](./119898-brutal-games.json) |
 | Brutal Grounds | 137881 | [137881-brutal-grounds.json](./137881-brutal-grounds.json) |
