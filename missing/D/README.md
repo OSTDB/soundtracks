@@ -12433,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Bee 2 | 182333 | [182333-dizzy-bee-2.json](./182333-dizzy-bee-2.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
+| Dizzy Dungeon | 86313 | [86313-dizzy-dungeon.json](./86313-dizzy-dungeon.json) |
 | Dizzy Dwarves | 174744 | [174744-dizzy-dwarves.json](./174744-dizzy-dwarves.json) |
 | Dizzy Fight | 276294 | [276294-dizzy-fight.json](./276294-dizzy-fight.json) |
 | Dizzy Fruit | 58916 | [58916-dizzy-fruit.json](./58916-dizzy-fruit.json) |
