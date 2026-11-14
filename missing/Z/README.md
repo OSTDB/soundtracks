@@ -940,6 +940,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeo Effect | 235638 | [235638-zeo-effect.json](./235638-zeo-effect.json) |
 | Zeon | 57340 | [57340-zeon.json](./57340-zeon.json) |
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
+| Zep | 117198 | [117198-zep.json](./117198-zep.json) |
+| Zep | 117201 | [117201-zep.json](./117201-zep.json) |
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
 | Zepball Deluxe | 135696 | [135696-zepball-deluxe.json](./135696-zepball-deluxe.json) |
 | Zeph | 133173 | [133173-zeph.json](./133173-zeph.json) |
