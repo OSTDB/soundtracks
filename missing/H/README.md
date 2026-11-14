@@ -9394,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Blood Money Vegas | 125150 | [125150-hitman-blood-money-vegas.json](./125150-hitman-blood-money-vegas.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Contracts HD | 99815 | [99815-hitman-contracts-hd.json](./99815-hitman-contracts-hd.json) |
+| Hitman: Episode 1 - Paris | 90953 | [90953-hitman-episode-1-paris.json](./90953-hitman-episode-1-paris.json) |
 | Hitman: Episode 2 - Sapienza | 91021 | [91021-hitman-episode-2-sapienza.json](./91021-hitman-episode-2-sapienza.json) |
 | Hitman: Episode 3 - Marrakesh | 91022 | [91022-hitman-episode-3-marrakesh.json](./91022-hitman-episode-3-marrakesh.json) |
 | Hitman: Episode 4 - Bangkok | 91023 | [91023-hitman-episode-4-bangkok.json](./91023-hitman-episode-4-bangkok.json) |
