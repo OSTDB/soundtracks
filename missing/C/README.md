@@ -4754,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Showdown | 357707 | [357707-cats-showdown.json](./357707-cats-showdown.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
 | Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
+| Cat's Yarn | 104907 | [104907-cats-yarn.json](./104907-cats-yarn.json) |
 | Cat&Line | 134405 | [134405-cat-and-line.json](./134405-cat-and-line.json) |
 | Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
 | Cata-Bomb | 412437 | [412437-cata-bomb.json](./412437-cata-bomb.json) |
@@ -16916,6 +16917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Race: Galactic Showdown | 260267 | [260267-cosmic-race-galactic-showdown.json](./260267-cosmic-race-galactic-showdown.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
 | Cosmic Rain | 301694 | [301694-cosmic-rain.json](./301694-cosmic-rain.json) |
+| Cosmic Ray | 105588 | [105588-cosmic-ray.json](./105588-cosmic-ray.json) |
 | Cosmic Rays | 390253 | [390253-cosmic-rays.json](./390253-cosmic-rays.json) |
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
