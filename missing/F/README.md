@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
 | F of X | 423208 | [423208-f-of-x.json](./423208-f-of-x.json) |
 | F_Episode 2 | 312242 | [312242-f-episode-2.json](./312242-f-episode-2.json) |
+| F-1 | 130989 | [130989-f-1.json](./130989-f-1.json) |
 | F-1 | 398651 | [398651-f-1.json](./398651-f-1.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
 | F-1 Dream | 39482 | [39482-f-1-dream.json](./39482-f-1-dream.json) |
@@ -4116,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Your Cat. | 334438 | [334438-feed-your-cat.json](./334438-feed-your-cat.json) |
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
 | Feed’em Burger | 248276 | [248276-feed-em-burger.json](./248276-feed-em-burger.json) |
+| Feedback | 131029 | [131029-feedback.json](./131029-feedback.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
 | FeedBee and Friends: Left to Rock | 259780 | [259780-feedbee-and-friends-left-to-rock.json](./259780-feedbee-and-friends-left-to-rock.json) |
 | Feeder | 183692 | [183692-feeder.json](./183692-feeder.json) |
@@ -12873,6 +12875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freebooter of Splorr!! | 152492 | [152492-freebooter-of-splorr.json](./152492-freebooter-of-splorr.json) |
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | Freecell | 421223 | [421223-freecell.json](./421223-freecell.json) |
+| FreeCell | 131022 | [131022-freecell.json](./131022-freecell.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell - Card Game | 87152 | [87152-freecell-card-game.json](./87152-freecell-card-game.json) |
 | FreeCell + | 96176 | [96176-freecell.json](./96176-freecell.json) |
@@ -14980,6 +14983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
 | Funny Road Chase Simulator | 122029 | [122029-funny-road-chase-simulator.json](./122029-funny-road-chase-simulator.json) |
 | Funny Soccer | 263411 | [263411-funny-soccer.json](./263411-funny-soccer.json) |
+| Funny Soccor | 131025 | [131025-funny-soccor.json](./131025-funny-soccor.json) |
 | Funny Sunny | 246200 | [246200-funny-sunny.json](./246200-funny-sunny.json) |
 | Funny Truck | 159019 | [159019-funny-truck.json](./159019-funny-truck.json) |
 | Funny UFOs Scene Creator | 396688 | [396688-funny-ufos-scene-creator.json](./396688-funny-ufos-scene-creator.json) |
