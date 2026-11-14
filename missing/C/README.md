@@ -2244,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captain's Choice Bundle | 164706 | [164706-captains-choice-bundle.json](./164706-captains-choice-bundle.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
+| Captain's Tail | 113079 | [113079-captains-tail.json](./113079-captains-tail.json) |
 | CaptainMarlene | 117385 | [117385-captainmarlene.json](./117385-captainmarlene.json) |
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
 | Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
@@ -14948,6 +14949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conduct AR! | 318365 | [318365-conduct-ar.json](./318365-conduct-ar.json) |
 | Conduct Deluxe! | 76438 | [76438-conduct-deluxe.json](./76438-conduct-deluxe.json) |
 | Conduct This! | 99888 | [99888-conduct-this.json](./99888-conduct-this.json) |
+| Conduct Together! | 113078 | [113078-conduct-together.json](./113078-conduct-together.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
@@ -17255,6 +17257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Delta: The Bullet Rain | 192065 | [192065-counter-delta-the-bullet-rain.json](./192065-counter-delta-the-bullet-rain.json) |
 | Counter Ducks | 414033 | [414033-counter-ducks.json](./414033-counter-ducks.json) |
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
+| Counter Fight 3 | 113065 | [113065-counter-fight-3.json](./113065-counter-fight-3.json) |
 | Counter Fight 4 | 129385 | [129385-counter-fight-4.json](./129385-counter-fight-4.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Fight: Samurai Edition | 40553 | [40553-counter-fight-samurai-edition.json](./40553-counter-fight-samurai-edition.json) |
