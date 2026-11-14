@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
 | Nekopon | 295979 | [295979-nekopon.json](./295979-nekopon.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
+| NekoPugi | 128060 | [128060-nekopugi.json](./128060-nekopugi.json) |
 | NekoRogue | 399335 | [399335-nekorogue.json](./399335-nekorogue.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekosan | 217614 | [217614-nekosan.json](./217614-nekosan.json) |
@@ -4407,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Quest | 176032 | [176032-nick-quest.json](./176032-nick-quest.json) |
 | Nick Racers Revolution 3D | 259986 | [259986-nick-racers-revolution-3d.json](./259986-nick-racers-revolution-3d.json) |
 | Nick Racing Stars | 259984 | [259984-nick-racing-stars.json](./259984-nick-racing-stars.json) |
+| Nick Reckless in The Curse of the Lost Cause | 128043 | [128043-nick-reckless-in-the-curse-of-the-lost-cause.json](./128043-nick-reckless-in-the-curse-of-the-lost-cause.json) |
 | Nick SpongeBob SquarePants: Snowball Showdown | 243825 | [243825-nick-spongebob-squarepants-snowball-showdown.json](./243825-nick-spongebob-squarepants-snowball-showdown.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick vs. the Brick of Ick from space | 424657 | [424657-nick-vs-the-brick-of-ick-from-space.json](./424657-nick-vs-the-brick-of-ick-from-space.json) |
