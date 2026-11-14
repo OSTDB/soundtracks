@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Later On | 81597 | [81597-later-on.json](./81597-later-on.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
 | Latest Issue | 329097 | [329097-latest-issue.json](./329097-latest-issue.json) |
+| Latest Jump Cube Game | 119843 | [119843-latest-jump-cube-game.json](./119843-latest-jump-cube-game.json) |
 | Latex, Leather, Lipstick, Love, Lust | 340901 | [340901-latex-leather-lipstick-love-lust.json](./340901-latex-leather-lipstick-love-lust.json) |
 | Lathe Safety Simulator | 38635 | [38635-lathe-safety-simulator.json](./38635-lathe-safety-simulator.json) |
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
@@ -7724,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 2 | 166381 | [166381-logistical-2.json](./166381-logistical-2.json) |
 | Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
 | Logistical 2: France | 166369 | [166369-logistical-2-france.json](./166369-logistical-2-france.json) |
+| Logistical 2: Indonesia | 119839 | [119839-logistical-2-indonesia.json](./119839-logistical-2-indonesia.json) |
 | Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
 | Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
 | Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
