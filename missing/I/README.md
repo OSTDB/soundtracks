@@ -4990,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Dude! Underground Roots | 346531 | [346531-insect-dude-underground-roots.json](./346531-insect-dude-underground-roots.json) |
 | Insect Empires | 333428 | [333428-insect-empires.json](./333428-insect-empires.json) |
 | Insect Flight Simulator VR | 293124 | [293124-insect-flight-simulator-vr.json](./293124-insect-flight-simulator-vr.json) |
+| Insect Hazard | 110440 | [110440-insect-hazard.json](./110440-insect-hazard.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
 | Insect Revolution VR | 117356 | [117356-insect-revolution-vr.json](./117356-insect-revolution-vr.json) |
