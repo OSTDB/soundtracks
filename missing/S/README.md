@@ -10373,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Block | 280056 | [280056-shot-block.json](./280056-shot-block.json) |
 | Shot Clock | 359303 | [359303-shot-clock.json](./359303-shot-clock.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
+| Shot in the Dark | 132922 | [132922-shot-in-the-dark.json](./132922-shot-in-the-dark.json) |
 | Shot in the Dark | 35162 | [35162-shot-in-the-dark.json](./35162-shot-in-the-dark.json) |
 | Shot of Rhythm | 156703 | [156703-shot-of-rhythm.json](./156703-shot-of-rhythm.json) |
 | Shot One | 130767 | [130767-shot-one.json](./130767-shot-one.json) |
@@ -24387,6 +24388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of dungeon | 156803 | [156803-spirit-of-dungeon.json](./156803-spirit-of-dungeon.json) |
 | Spirit of Europe: Origins | 172333 | [172333-spirit-of-europe-origins.json](./172333-spirit-of-europe-origins.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
+| Spirit of Glace | 132894 | [132894-spirit-of-glace.json](./132894-spirit-of-glace.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
 | Spirit of Meda | 260357 | [260357-spirit-of-meda.json](./260357-spirit-of-meda.json) |
 | Spirit of Midnight | 122013 | [122013-spirit-of-midnight.json](./122013-spirit-of-midnight.json) |
@@ -39684,6 +39686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
 | Symulator Farmy 2016 | 380494 | [380494-symulator-farmy-2016.json](./380494-symulator-farmy-2016.json) |
 | Symulator Tuska 2014 | 62204 | [62204-symulator-tuska-2014.json](./62204-symulator-tuska-2014.json) |
+| Syn | 132911 | [132911-syn.json](./132911-syn.json) |
 | Syn-Chorus 01: The New Life | 339424 | [339424-syn-chorus-01-the-new-life.json](./339424-syn-chorus-01-the-new-life.json) |
 | Syn-Factor | 78411 | [78411-syn-factor.json](./78411-syn-factor.json) |
 | Synaesthete | 79917 | [79917-synaesthete.json](./79917-synaesthete.json) |
