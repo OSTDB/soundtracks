@@ -6762,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Awakening - Scenario: Battle of Komaki-Nagakute | 283260 | [283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json](./283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json) |
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Awakening Complete Edition + Collector's Set | 345727 | [345727-nobunagas-ambition-awakening-complete-edition-collectors-set.json](./345727-nobunagas-ambition-awakening-complete-edition-collectors-set.json) |
+| Nobunaga's Ambition: Bushou Fuunroku | 90988 | [90988-nobunagas-ambition-bushou-fuunroku.json](./90988-nobunagas-ambition-bushou-fuunroku.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Haouden | 4279 | [4279-nobunagas-ambition-haouden.json](./4279-nobunagas-ambition-haouden.json) |
 | Nobunaga's Ambition: Haouden - Power Up Kit | 308209 | [308209-nobunagas-ambition-haouden-power-up-kit.json](./308209-nobunagas-ambition-haouden-power-up-kit.json) |
