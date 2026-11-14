@@ -14310,16 +14310,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations - Desert Storm | 167880 | [167880-command-modern-operations-desert-storm.json](./167880-command-modern-operations-desert-storm.json) |
 | Command: Modern Operations - Falklands | 219743 | [219743-command-modern-operations-falklands.json](./219743-command-modern-operations-falklands.json) |
 | Command: Modern Operations - Kashmir Fire | 167879 | [167879-command-modern-operations-kashmir-fire.json](./167879-command-modern-operations-kashmir-fire.json) |
+| Command: Modern Operations - Northern Inferno | 167873 | [167873-command-modern-operations-northern-inferno.json](./167873-command-modern-operations-northern-inferno.json) |
 | Command: Modern Operations - Red Tide | 196083 | [196083-command-modern-operations-red-tide.json](./196083-command-modern-operations-red-tide.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
+| Command: Modern Operations - The Silent Service | 167875 | [167875-command-modern-operations-the-silent-service.json](./167875-command-modern-operations-the-silent-service.json) |
 | Command: Modern Operations - The Silent Service | 87941 | [87941-command-modern-operations-the-silent-service.json](./87941-command-modern-operations-the-silent-service.json) |
 | Command: Modern Operations Live - Aegean in Flames | 167869 | [167869-command-modern-operations-live-aegean-in-flames.json](./167869-command-modern-operations-live-aegean-in-flames.json) |
+| Command: Modern Operations Live - Black Gold Blitz | 167872 | [167872-command-modern-operations-live-black-gold-blitz.json](./167872-command-modern-operations-live-black-gold-blitz.json) |
 | Command: Modern Operations Live - Commonwealth Collision | 167881 | [167881-command-modern-operations-live-commonwealth-collision.json](./167881-command-modern-operations-live-commonwealth-collision.json) |
+| Command: Modern Operations Live - Don of a New Era | 167871 | [167871-command-modern-operations-live-don-of-a-new-era.json](./167871-command-modern-operations-live-don-of-a-new-era.json) |
 | Command: Modern Operations Live - Korean Missile Crisis | 167882 | [167882-command-modern-operations-live-korean-missile-crisis.json](./167882-command-modern-operations-live-korean-missile-crisis.json) |
 | Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
+| Command: Modern Operations Live - Old Grudges Never Die | 167878 | [167878-command-modern-operations-live-old-grudges-never-die.json](./167878-command-modern-operations-live-old-grudges-never-die.json) |
+| Command: Modern Operations Live - Pole Positions | 167877 | [167877-command-modern-operations-live-pole-positions.json](./167877-command-modern-operations-live-pole-positions.json) |
+| Command: Modern Operations Live - Spratly Spat | 167874 | [167874-command-modern-operations-live-spratly-spat.json](./167874-command-modern-operations-live-spratly-spat.json) |
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
+| Command: Modern Operations Live - You Brexit, You Fix it! | 167876 | [167876-command-modern-operations-live-you-brexit-you-fix-it.json](./167876-command-modern-operations-live-you-brexit-you-fix-it.json) |
 | Command: Showcase - Icebreakers | 289514 | [289514-command-showcase-icebreakers.json](./289514-command-showcase-icebreakers.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
@@ -14497,19 +14505,35 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
 | Company of Heroes 2: Case Blue Mission Pack | 168461 | [168461-company-of-heroes-2-case-blue-mission-pack.json](./168461-company-of-heroes-2-case-blue-mission-pack.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
+| Company of Heroes 2: German Commander - Elite Troops Doctrine | 168276 | [168276-company-of-heroes-2-german-commander-elite-troops-doctrine.json](./168276-company-of-heroes-2-german-commander-elite-troops-doctrine.json) |
+| Company of Heroes 2: German Commander - Encirclement Doctrine | 168282 | [168282-company-of-heroes-2-german-commander-encirclement-doctrine.json](./168282-company-of-heroes-2-german-commander-encirclement-doctrine.json) |
+| Company of Heroes 2: German Commander - Fortified Armor Doctrine | 168281 | [168281-company-of-heroes-2-german-commander-fortified-armor-doctrine.json](./168281-company-of-heroes-2-german-commander-fortified-armor-doctrine.json) |
+| Company of Heroes 2: German Commander - Joint Operations Doctrine | 168283 | [168283-company-of-heroes-2-german-commander-joint-operations-doctrine.json](./168283-company-of-heroes-2-german-commander-joint-operations-doctrine.json) |
 | Company of Heroes 2: German Commander - Lightning War Doctrine | 168086 | [168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json](./168086-company-of-heroes-2-german-commander-lightning-war-doctrine.json) |
+| Company of Heroes 2: German Commander - Luftwaffe Supply Doctrine | 168280 | [168280-company-of-heroes-2-german-commander-luftwaffe-supply-doctrine.json](./168280-company-of-heroes-2-german-commander-luftwaffe-supply-doctrine.json) |
+| Company of Heroes 2: German Commander - Mechanized Assault Doctrine | 168279 | [168279-company-of-heroes-2-german-commander-mechanized-assault-doctrine.json](./168279-company-of-heroes-2-german-commander-mechanized-assault-doctrine.json) |
+| Company of Heroes 2: German Commander - Osttruppen Doctrine | 168278 | [168278-company-of-heroes-2-german-commander-osttruppen-doctrine.json](./168278-company-of-heroes-2-german-commander-osttruppen-doctrine.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
+| Company of Heroes 2: German Commander - Storm Doctrine | 168277 | [168277-company-of-heroes-2-german-commander-storm-doctrine.json](./168277-company-of-heroes-2-german-commander-storm-doctrine.json) |
+| Company of Heroes 2: OKW Commander - Elite Armor Doctrine | 168286 | [168286-company-of-heroes-2-okw-commander-elite-armor-doctrine.json](./168286-company-of-heroes-2-okw-commander-elite-armor-doctrine.json) |
+| Company of Heroes 2: OKW Commander - Fortifications Doctrine | 168287 | [168287-company-of-heroes-2-okw-commander-fortifications-doctrine.json](./168287-company-of-heroes-2-okw-commander-fortifications-doctrine.json) |
+| Company of Heroes 2: OKW Commander - Scavenge Doctrine | 168288 | [168288-company-of-heroes-2-okw-commander-scavenge-doctrine.json](./168288-company-of-heroes-2-okw-commander-scavenge-doctrine.json) |
 | Company of Heroes 2: Platinum Edition | 35362 | [35362-company-of-heroes-2-platinum-edition.json](./35362-company-of-heroes-2-platinum-edition.json) |
 | Company of Heroes 2: Red Star Edition | 19461 | [19461-company-of-heroes-2-red-star-edition.json](./19461-company-of-heroes-2-red-star-edition.json) |
 | Company of Heroes 2: Southern Fronts Mission Pack | 168460 | [168460-company-of-heroes-2-southern-fronts-mission-pack.json](./168460-company-of-heroes-2-southern-fronts-mission-pack.json) |
+| Company of Heroes 2: Soviet Commander - Anti-Infantry Tactics | 168275 | [168275-company-of-heroes-2-soviet-commander-anti-infantry-tactics.json](./168275-company-of-heroes-2-soviet-commander-anti-infantry-tactics.json) |
+| Company of Heroes 2: Soviet Commander - Armored Assault Tactics | 168285 | [168285-company-of-heroes-2-soviet-commander-armored-assault-tactics.json](./168285-company-of-heroes-2-soviet-commander-armored-assault-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Counterattack Tactics | 158409 | [158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json](./158409-company-of-heroes-2-soviet-commander-counterattack-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
+| Company of Heroes 2: Soviet Commander - Soviet Industry Tactics | 168284 | [168284-company-of-heroes-2-soviet-commander-soviet-industry-tactics.json](./168284-company-of-heroes-2-soviet-commander-soviet-industry-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Terror Tactics | 168293 | [168293-company-of-heroes-2-soviet-commander-terror-tactics.json](./168293-company-of-heroes-2-soviet-commander-terror-tactics.json) |
+| Company of Heroes 2: Soviet Commander - Urban Defense Tactics | 168274 | [168274-company-of-heroes-2-soviet-commander-urban-defense-tactics.json](./168274-company-of-heroes-2-soviet-commander-urban-defense-tactics.json) |
 | Company of Heroes 2: The British Forces | 11496 | [11496-company-of-heroes-2-the-british-forces.json](./11496-company-of-heroes-2-the-british-forces.json) |
 | Company of Heroes 2: The Western Front Armies | 8444 | [8444-company-of-heroes-2-the-western-front-armies.json](./8444-company-of-heroes-2-the-western-front-armies.json) |
 | Company of Heroes 2: The Western Front Armies - Oberkommando West | 36375 | [36375-company-of-heroes-2-the-western-front-armies-oberkommando-west.json](./36375-company-of-heroes-2-the-western-front-armies-oberkommando-west.json) |
 | Company of Heroes 2: The Western Front Armies - US Forces | 36374 | [36374-company-of-heroes-2-the-western-front-armies-us-forces.json](./36374-company-of-heroes-2-the-western-front-armies-us-forces.json) |
+| Company of Heroes 2: US Forces Commander - Mechanized Company | 168289 | [168289-company-of-heroes-2-us-forces-commander-mechanized-company.json](./168289-company-of-heroes-2-us-forces-commander-mechanized-company.json) |
 | Company of Heroes 2: US Forces Commander - Rifle Company | 168290 | [168290-company-of-heroes-2-us-forces-commander-rifle-company.json](./168290-company-of-heroes-2-us-forces-commander-rifle-company.json) |
 | Company of Heroes 2: Victory at Stalingrad | 52834 | [52834-company-of-heroes-2-victory-at-stalingrad.json](./52834-company-of-heroes-2-victory-at-stalingrad.json) |
 | Company of Heroes 2: Victory at Stalingrad Mission Pack | 168459 | [168459-company-of-heroes-2-victory-at-stalingrad-mission-pack.json](./168459-company-of-heroes-2-victory-at-stalingrad-mission-pack.json) |
@@ -18550,6 +18574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kung Fu | 142161 | [142161-crazy-kung-fu.json](./142161-crazy-kung-fu.json) |
 | Crazy Lakitu | 322917 | [322917-crazy-lakitu.json](./322917-crazy-lakitu.json) |
 | Crazy Lakitu DX | 250061 | [250061-crazy-lakitu-dx.json](./250061-crazy-lakitu-dx.json) |
+| Crazy Lemmings | 168272 | [168272-crazy-lemmings.json](./168272-crazy-lemmings.json) |
 | Crazy Life | 415632 | [415632-crazy-life.json](./415632-crazy-life.json) |
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
