@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallstreak: Requiem For My Homeland | 141631 | [141631-fallstreak-requiem-for-my-homeland.json](./141631-fallstreak-requiem-for-my-homeland.json) |
 | Fallstruktur | 348018 | [348018-fallstruktur.json](./348018-fallstruktur.json) |
 | FallThru | 229317 | [229317-fallthru.json](./229317-fallthru.json) |
+| FallTower | 166801 | [166801-falltower.json](./166801-falltower.json) |
 | Fallumns | 163139 | [163139-fallumns.json](./163139-fallumns.json) |
 | Falnarion Tactics | 111931 | [111931-falnarion-tactics.json](./111931-falnarion-tactics.json) |
 | Falnarion Tactics II | 118040 | [118040-falnarion-tactics-ii.json](./118040-falnarion-tactics-ii.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Colony | 259451 | [259451-farm-colony.json](./259451-farm-colony.json) |
 | Farm Craft | 209263 | [209263-farm-craft.json](./209263-farm-craft.json) |
 | Farm Crush | 106178 | [106178-farm-crush.json](./106178-farm-crush.json) |
+| Farm Day 2021 | 166335 | [166335-farm-day-2021.json](./166335-farm-day-2021.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
 | Farm Debt Repay Life | 291862 | [291862-farm-debt-repay-life.json](./291862-farm-debt-repay-life.json) |
