@@ -19381,6 +19381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Pit Stop | 369811 | [369811-bunny-pit-stop.json](./369811-bunny-pit-stop.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
+| Bunny Puzzle | 163508 | [163508-bunny-puzzle.json](./163508-bunny-puzzle.json) |
 | Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
 | Bunny Raiders | 188535 | [188535-bunny-raiders.json](./188535-bunny-raiders.json) |
 | Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
