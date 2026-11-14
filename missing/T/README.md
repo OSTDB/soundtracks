@@ -9358,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Drawratos | 423855 | [423855-the-drawratos.json](./423855-the-drawratos.json) |
 | The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
+| The Dread Wolf Rises | 113117 | [113117-the-dread-wolf-rises.json](./113117-the-dread-wolf-rises.json) |
 | The Dreadful Space | 197096 | [197096-the-dreadful-space.json](./197096-the-dreadful-space.json) |
 | The Dreadful Whispers | 121181 | [121181-the-dreadful-whispers.json](./121181-the-dreadful-whispers.json) |
 | The Dreadmill | 238302 | [238302-the-dreadmill.json](./238302-the-dreadmill.json) |
@@ -11314,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Divide | 238531 | [238531-the-great-divide.json](./238531-the-great-divide.json) |
 | The Great Easter Egg Hunt | 79951 | [79951-the-great-easter-egg-hunt.json](./79951-the-great-easter-egg-hunt.json) |
 | The Great Empire: Relic of Egypt | 153335 | [153335-the-great-empire-relic-of-egypt.json](./153335-the-great-empire-relic-of-egypt.json) |
+| The Great Emu War | 113086 | [113086-the-great-emu-war.json](./113086-the-great-emu-war.json) |
 | The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Escape | 310406 | [310406-the-great-escape.json](./310406-the-great-escape.json) |
@@ -14892,6 +14894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magick | 178230 | [178230-the-magick.json](./178230-the-magick.json) |
 | The Magister | 137351 | [137351-the-magister.json](./137351-the-magister.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
+| The Magnet Trials | 113270 | [113270-the-magnet-trials.json](./113270-the-magnet-trials.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
 | The magnet: Second night | 180359 | [180359-the-magnet-second-night.json](./180359-the-magnet-second-night.json) |
 | The Magnetic Scrolls Collection | 69623 | [69623-the-magnetic-scrolls-collection.json](./69623-the-magnetic-scrolls-collection.json) |
@@ -17929,6 +17932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Awakenings: I Randall | 249383 | [249383-the-seven-awakenings-i-randall.json](./249383-the-seven-awakenings-i-randall.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Betrayers | 282033 | [282033-the-seven-betrayers.json](./282033-the-seven-betrayers.json) |
+| The Seven Chambers | 113077 | [113077-the-seven-chambers.json](./113077-the-seven-chambers.json) |
 | The Seven Chambers | 268779 | [268779-the-seven-chambers.json](./268779-the-seven-chambers.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
 | The Seven Cities of Gold: Commemorative Edition | 8996 | [8996-the-seven-cities-of-gold-commemorative-edition.json](./8996-the-seven-cities-of-gold-commemorative-edition.json) |
@@ -28121,6 +28125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Hot to Handle 3 | 305103 | [305103-too-hot-to-handle-3.json](./305103-too-hot-to-handle-3.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
+| Too Hot! | 113062 | [113062-too-hot.json](./113062-too-hot.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
 | Too Human | 5648 | [5648-too-human.json](./5648-too-human.json) |
 | Too Impatient | 191470 | [191470-too-impatient.json](./191470-too-impatient.json) |
@@ -35602,6 +35607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukumogami | 16819 | [16819-tsukumogami.json](./16819-tsukumogami.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
 | Tsukumohime | 81725 | [81725-tsukumohime.json](./81725-tsukumohime.json) |
+| Tsukumono | 113263 | [113263-tsukumono.json](./113263-tsukumono.json) |
 | Tsukumono Yume | 166470 | [166470-tsukumono-yume.json](./166470-tsukumono-yume.json) |
 | Tsukumonogatari | 66115 | [66115-tsukumonogatari.json](./66115-tsukumonogatari.json) |
 | Tsukutori | 395001 | [395001-tsukutori.json](./395001-tsukutori.json) |
@@ -36243,6 +36249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnpike | 308463 | [308463-turnpike.json](./308463-turnpike.json) |
 | TurnSkull | 280436 | [280436-turnskull.json](./280436-turnskull.json) |
 | Turntablist: DJ Battle | 37527 | [37527-turntablist-dj-battle.json](./37527-turntablist-dj-battle.json) |
+| TurnTack | 113084 | [113084-turntack.json](./113084-turntack.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turoid | 335022 | [335022-turoid.json](./335022-turoid.json) |
 | Turok | 1330 | [1330-turok.json](./1330-turok.json) |
