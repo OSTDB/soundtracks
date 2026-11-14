@@ -9053,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extraction Valley | 121020 | [121020-extraction-valley.json](./121020-extraction-valley.json) |
 | Extraction: Project Outbreak | 23395 | [23395-extraction-project-outbreak.json](./23395-extraction-project-outbreak.json) |
 | Extracurricular Activities | 205696 | [205696-extracurricular-activities.json](./205696-extracurricular-activities.json) |
+| ExtraGalactica | 128033 | [128033-extragalactica.json](./128033-extragalactica.json) |
 | Extraktion 1943 | 273486 | [273486-extraktion-1943.json](./273486-extraktion-1943.json) |
 | Extraneum | 178441 | [178441-extraneum.json](./178441-extraneum.json) |
 | Extraordinary Ball | 368605 | [368605-extraordinary-ball.json](./368605-extraordinary-ball.json) |
