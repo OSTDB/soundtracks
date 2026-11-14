@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison Gauntlet | 108017 | [108017-garrison-gauntlet.json](./108017-garrison-gauntlet.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
+| Garrison: A Mercenary's Story | 155765 | [155765-garrison-a-mercenarys-story.json](./155765-garrison-a-mercenarys-story.json) |
 | Garrison: Archangel | 36762 | [36762-garrison-archangel.json](./36762-garrison-archangel.json) |
 | Garrulismo | 314745 | [314745-garrulismo.json](./314745-garrulismo.json) |
 | Garry Kitchen's Battletank | 10623 | [10623-garry-kitchens-battletank.json](./10623-garry-kitchens-battletank.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
 | Gate Zero | 247358 | [247358-gate-zero.json](./247358-gate-zero.json) |
 | Gate2up | 377089 | [377089-gate2up.json](./377089-gate2up.json) |
+| Gateball VR | 155724 | [155724-gateball-vr.json](./155724-gateball-vr.json) |
 | Gatebreakers | 350705 | [350705-gatebreakers.json](./350705-gatebreakers.json) |
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
 | Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
@@ -9687,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Is Bad | 189340 | [189340-greed-is-bad.json](./189340-greed-is-bad.json) |
 | Greed is Good | 263065 | [263065-greed-is-good.json](./263065-greed-is-good.json) |
 | Greed Knight | 58680 | [58680-greed-knight.json](./58680-greed-knight.json) |
+| Greed Knights | 155738 | [155738-greed-knights.json](./155738-greed-knights.json) |
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
