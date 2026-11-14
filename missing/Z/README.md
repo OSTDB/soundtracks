@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorlac's Revenge | 386321 | [386321-zorlacs-revenge.json](./386321-zorlacs-revenge.json) |
 | Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
 | Zornhau | 408281 | [408281-zornhau.json](./408281-zornhau.json) |
+| Zoroastra | 108678 | [108678-zoroastra.json](./108678-zoroastra.json) |
 | ZoroMe | 252550 | [252550-zorome.json](./252550-zorome.json) |
 | Zorovan Powerplant | 285407 | [285407-zorovan-powerplant.json](./285407-zorovan-powerplant.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
