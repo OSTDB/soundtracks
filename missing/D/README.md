@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | Dayshift at Freddy's 2: Electric Boogaloo | 211382 | [211382-dayshift-at-freddys-2-electric-boogaloo.json](./211382-dayshift-at-freddys-2-electric-boogaloo.json) |
 | Dayshift at Freddy's 3 | 216206 | [216206-dayshift-at-freddys-3.json](./216206-dayshift-at-freddys-3.json) |
+| Daytime Drama | 165204 | [165204-daytime-drama.json](./165204-daytime-drama.json) |
 | Daytona | 245119 | [245119-daytona.json](./245119-daytona.json) |
 | Daytona Championship USA | 57333 | [57333-daytona-championship-usa.json](./57333-daytona-championship-usa.json) |
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
@@ -21207,6 +21208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
 | Dynamite Deka | 296787 | [296787-dynamite-deka.json](./296787-dynamite-deka.json) |
+| Dynamite Duchess | 165205 | [165205-dynamite-duchess.json](./165205-dynamite-duchess.json) |
 | Dynamite Duchess 2: Appetite for Detention | 300633 | [300633-dynamite-duchess-2-appetite-for-detention.json](./300633-dynamite-duchess-2-appetite-for-detention.json) |
 | Dynamite Duchess 3: Carnival of Souls | 300632 | [300632-dynamite-duchess-3-carnival-of-souls.json](./300632-dynamite-duchess-3-carnival-of-souls.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
