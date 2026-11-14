@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot | 412512 | [412512-fighter-pilot.json](./412512-fighter-pilot.json) |
+| Fighter Pilot | 81552 | [81552-fighter-pilot.json](./81552-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
 | Fighter Royale | 126093 | [126093-fighter-royale.json](./126093-fighter-royale.json) |
 | Fighter Royale: Last Ace Flying | 117345 | [117345-fighter-royale-last-ace-flying.json](./117345-fighter-royale-last-ace-flying.json) |
@@ -5179,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
 | Fighting Fantasy: The Forest of Doom | 175216 | [175216-fighting-fantasy-the-forest-of-doom.json](./175216-fighting-fantasy-the-forest-of-doom.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
+| Fighting Fantasy: The Warlock of Firetop Mountain | 81501 | [81501-fighting-fantasy-the-warlock-of-firetop-mountain.json](./81501-fighting-fantasy-the-warlock-of-firetop-mountain.json) |
 | Fighting Fiends | 180488 | [180488-fighting-fiends.json](./180488-fighting-fiends.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
 | Fighting For One Piece | 65911 | [65911-fighting-for-one-piece.json](./65911-fighting-for-one-piece.json) |
@@ -15112,6 +15114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Fighters | 14700 | [14700-fur-fighters.json](./14700-fur-fighters.json) |
 | Fur Fighters: Viggo on Glass | 299539 | [299539-fur-fighters-viggo-on-glass.json](./299539-fur-fighters-viggo-on-glass.json) |
+| Fur Fighters: Viggo's Revenge | 81565 | [81565-fur-fighters-viggos-revenge.json](./81565-fur-fighters-viggos-revenge.json) |
 | Fur Fun | 29544 | [29544-fur-fun.json](./29544-fur-fun.json) |
 | Fur Fury | 104917 | [104917-fur-fury.json](./104917-fur-fury.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
