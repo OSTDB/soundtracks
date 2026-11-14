@@ -9615,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Oudan Ultra Quiz | 269336 | [269336-america-oudan-ultra-quiz.json](./269336-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 282817 | [282817-america-oudan-ultra-quiz.json](./282817-america-oudan-ultra-quiz.json) |
 | America Oudan Ultra Quiz | 45442 | [45442-america-oudan-ultra-quiz.json](./45442-america-oudan-ultra-quiz.json) |
+| America Oudan Ultra Quiz: Part 2 | 123112 | [123112-america-oudan-ultra-quiz-part-2.json](./123112-america-oudan-ultra-quiz-part-2.json) |
 | America Oudan Ultra Quiz: Part 3 | 300695 | [300695-america-oudan-ultra-quiz-part-3.json](./300695-america-oudan-ultra-quiz-part-3.json) |
 | America Oudan Ultra Quiz: Part 4 | 282822 | [282822-america-oudan-ultra-quiz-part-4.json](./282822-america-oudan-ultra-quiz-part-4.json) |
 | America Oudan Ultra Quiz: Shijou Saidai no Tatakai | 48603 | [48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json](./48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json) |
