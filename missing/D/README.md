@@ -12330,6 +12330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinity: Dragon Commander | 2905 | [2905-divinity-dragon-commander.json](./2905-divinity-dragon-commander.json) |
 | Divinity: Dragon Commander - Imperial Edition | 51751 | [51751-divinity-dragon-commander-imperial-edition.json](./51751-divinity-dragon-commander-imperial-edition.json) |
+| Divinity: Fallen Heroes | 116642 | [116642-divinity-fallen-heroes.json](./116642-divinity-fallen-heroes.json) |
 | Divinity: Original Sin - Collector's Edition | 52924 | [52924-divinity-original-sin-collectors-edition.json](./52924-divinity-original-sin-collectors-edition.json) |
 | Divinity: Original Sin - Enhanced Edition | 14177 | [14177-divinity-original-sin-enhanced-edition.json](./14177-divinity-original-sin-enhanced-edition.json) |
 | Divinity: Original Sin - Enhanced Edition Collector's Edition | 124869 | [124869-divinity-original-sin-enhanced-edition-collectors-edition.json](./124869-divinity-original-sin-enhanced-edition-collectors-edition.json) |
