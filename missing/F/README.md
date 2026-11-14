@@ -8650,6 +8650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
+| Flight Simulator (Bombardier CRJ 900 Edition) - Become Airplane Pilot | 103728 | [103728-flight-simulator-bombardier-crj-900-edition-become-airplane-pilot.json](./103728-flight-simulator-bombardier-crj-900-edition-become-airplane-pilot.json) |
 | Flight Simulator 0 | 102231 | [102231-flight-simulator-0.json](./102231-flight-simulator-0.json) |
 | Flight Simulator 2.0 | 50293 | [50293-flight-simulator-2-0.json](./50293-flight-simulator-2-0.json) |
 | Flight Simulator 2016 FlyWings - Collectors Edition | 90803 | [90803-flight-simulator-2016-flywings-collectors-edition.json](./90803-flight-simulator-2016-flywings-collectors-edition.json) |
@@ -15325,6 +15326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furwind: Special Edition | 136005 | [136005-furwind-special-edition.json](./136005-furwind-special-edition.json) |
 | Fury | 21227 | [21227-fury.json](./21227-fury.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
+| Fury Assassin Sniper War | 103576 | [103576-fury-assassin-sniper-war.json](./103576-fury-assassin-sniper-war.json) |
 | Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
 | Fury Captain | 157228 | [157228-fury-captain.json](./157228-fury-captain.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
