@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
+| Happy Farm Simulator | 165789 | [165789-happy-farm-simulator.json](./165789-happy-farm-simulator.json) |
 | Happy Farm: Field's Puzzle | 378421 | [378421-happy-farm-fields-puzzle.json](./378421-happy-farm-fields-puzzle.json) |
 | Happy Farm: Harvest Blast | 378420 | [378420-happy-farm-harvest-blast.json](./378420-happy-farm-harvest-blast.json) |
 | Happy Feet | 243189 | [243189-happy-feet.json](./243189-happy-feet.json) |
@@ -3631,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
 | Heart Lake | 204147 | [204147-heart-lake.json](./204147-heart-lake.json) |
 | Heart Like a Wheel | 282772 | [282772-heart-like-a-wheel.json](./282772-heart-like-a-wheel.json) |
+| Heart Lock: A Free Metroid Inspired Game | 165719 | [165719-heart-lock-a-free-metroid-inspired-game.json](./165719-heart-lock-a-free-metroid-inspired-game.json) |
 | Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
@@ -6896,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of War | 286215 | [286215-heroes-of-war.json](./286215-heroes-of-war.json) |
 | Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
 | Heroes of Xanfurth | 182182 | [182182-heroes-of-xanfurth.json](./182182-heroes-of-xanfurth.json) |
+| Heroes of Yore | 165797 | [165797-heroes-of-yore.json](./165797-heroes-of-yore.json) |
 | Heroes of Zaruban | 159652 | [159652-heroes-of-zaruban.json](./159652-heroes-of-zaruban.json) |
 | Heroes of Zulula | 63381 | [63381-heroes-of-zulula.json](./63381-heroes-of-zulula.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
