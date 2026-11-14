@@ -5463,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
 | Mask of Mists | 128299 | [128299-mask-of-mists.json](./128299-mask-of-mists.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
+| Mask of Semblance | 105459 | [105459-mask-of-semblance.json](./105459-mask-of-semblance.json) |
 | Mask of Soul | 390325 | [390325-mask-of-soul.json](./390325-mask-of-soul.json) |
 | Mask of Souls | 391657 | [391657-mask-of-souls.json](./391657-mask-of-souls.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
@@ -22376,6 +22377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Big Sister: Remastered | 222871 | [222871-my-big-sister-remastered.json](./222871-my-big-sister-remastered.json) |
 | My Billionaire Girlfriend | 220335 | [220335-my-billionaire-girlfriend.json](./220335-my-billionaire-girlfriend.json) |
 | My Bimbo Dream: Season 1 | 368058 | [368058-my-bimbo-dream-season-1.json](./368058-my-bimbo-dream-season-1.json) |
+| My Bingo | 104913 | [104913-my-bingo.json](./104913-my-bingo.json) |
 | My Bird | 368664 | [368664-my-bird.json](./368664-my-bird.json) |
 | My Birthday: Herpit | 385766 | [385766-my-birthday-herpit.json](./385766-my-birthday-herpit.json) |
 | My Bitter Sweet Romance | 299648 | [299648-my-bitter-sweet-romance.json](./299648-my-bitter-sweet-romance.json) |
