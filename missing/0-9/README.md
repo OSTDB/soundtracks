@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
 | 10 Pin: Champions Alley | 97356 | [97356-10-pin-champions-alley.json](./97356-10-pin-champions-alley.json) |
 | 10 Puzzle | 82571 | [82571-10-puzzle.json](./82571-10-puzzle.json) |
+| 10 Score | 103580 | [103580-10-score.json](./103580-10-score.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
 | 10 Second Ninja | 9848 | [9848-10-second-ninja.json](./9848-10-second-ninja.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Pony Pets 3D | 84671 | [84671-101-pony-pets-3d.json](./84671-101-pony-pets-3d.json) |
 | 101 Puppy Pets | 91862 | [91862-101-puppy-pets.json](./91862-101-puppy-pets.json) |
 | 101 Shark Pets | 78409 | [78409-101-shark-pets.json](./78409-101-shark-pets.json) |
+| 101 Tangrams | 103713 | [103713-101-tangrams.json](./103713-101-tangrams.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
@@ -1602,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1cm Time | 325355 | [325355-1cm-time.json](./325355-1cm-time.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1days | 424687 | [424687-1days.json](./424687-1days.json) |
+| 1Dimensional Desperado | 103033 | [103033-1dimensional-desperado.json](./103033-1dimensional-desperado.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Dreamboy 2 | 264978 | [264978-1dreamboy-2.json](./264978-1dreamboy-2.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
