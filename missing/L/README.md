@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeGenesis | 282403 | [282403-lifegenesis.json](./282403-lifegenesis.json) |
 | Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeguard Simulator | 169732 | [169732-lifeguard-simulator.json](./169732-lifeguard-simulator.json) |
+| LifeLeech | 146373 | [146373-lifeleech.json](./146373-lifeleech.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
 | Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
@@ -9085,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Land Adventure | 124422 | [124422-lost-land-adventure.json](./124422-lost-land-adventure.json) |
 | Lost Lands | 246264 | [246264-lost-lands.json](./246264-lost-lands.json) |
+| Lost Lands 2: The Four Horsemen | 146930 | [146930-lost-lands-2-the-four-horsemen.json](./146930-lost-lands-2-the-four-horsemen.json) |
 | Lost Lands Collection | 53293 | [53293-lost-lands-collection.json](./53293-lost-lands-collection.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
