@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Archery | 32298 | [32298-archery.json](./32298-archery.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #COMPASS | 107623 | [107623-compass.json](./107623-compass.json) |
+| #CuteSnake | 90003 | [90003-cutesnake.json](./90003-cutesnake.json) |
 | #Doubleblush | 218792 | [218792-doubleblush.json](./218792-doubleblush.json) |
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
 | #Funtime | 119369 | [119369-funtime.json](./119369-funtime.json) |
