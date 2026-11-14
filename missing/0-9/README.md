@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 0.0035％ | 387443 | [387443-0-0035.json](./387443-0-0035.json) |
 | 0°N 0°W | 55486 | [55486-0-n-0-w.json](./55486-0-n-0-w.json) |
+| 0°N 0°W: VR | 167933 | [167933-0-n-0-w-vr.json](./167933-0-n-0-w-vr.json) |
 | 00 | 227596 | [227596-00.json](./227596-00.json) |
 | 00:00 Zerotime | 180856 | [180856-00-00-zerotime.json](./180856-00-00-zerotime.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
