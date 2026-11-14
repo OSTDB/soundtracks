@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Manage that Waste | 73416 | [73416-manage-that-waste.json](./73416-manage-that-waste.json) |
 | Manage the Stars: Sports Agent | 251737 | [251737-manage-the-stars-sports-agent.json](./251737-manage-the-stars-sports-agent.json) |
+| Manage Your Football Club | 84411 | [84411-manage-your-football-club.json](./84411-manage-your-football-club.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
@@ -7110,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
 | Mazgeon | 121381 | [121381-mazgeon.json](./121381-mazgeon.json) |
 | Mazi - Remastered | 126308 | [126308-mazi-remastered.json](./126308-mazi-remastered.json) |
+| Maziac | 83087 | [83087-maziac.json](./83087-maziac.json) |
 | Maziacs | 93136 | [93136-maziacs.json](./93136-maziacs.json) |
 | Mazie | 296038 | [296038-mazie.json](./296038-mazie.json) |
 | Mazin Saga: Mutant Fighter | 36947 | [36947-mazin-saga-mutant-fighter.json](./36947-mazin-saga-mutant-fighter.json) |
