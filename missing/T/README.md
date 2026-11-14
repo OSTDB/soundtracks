@@ -4171,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
 | Temple of the Winds | 282968 | [282968-temple-of-the-winds.json](./282968-temple-of-the-winds.json) |
 | Temple of the Wumpus | 148767 | [148767-temple-of-the-wumpus.json](./148767-temple-of-the-wumpus.json) |
+| Temple of Xiala | 86317 | [86317-temple-of-xiala.json](./86317-temple-of-xiala.json) |
 | Temple of Yog | 60419 | [60419-temple-of-yog.json](./60419-temple-of-yog.json) |
 | Temple of Your Mom | 423954 | [423954-temple-of-your-mom.json](./423954-temple-of-your-mom.json) |
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
@@ -6260,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency of Anomalies: Cinderstone Orphanage | 58044 | [58044-the-agency-of-anomalies-cinderstone-orphanage.json](./58044-the-agency-of-anomalies-cinderstone-orphanage.json) |
 | The Agency of Anomalies: Cinderstone Orphanage - Collector's Edition | 30419 | [30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json](./30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json) |
 | The Agency of Anomalies: Mind Invasion | 58043 | [58043-the-agency-of-anomalies-mind-invasion.json](./58043-the-agency-of-anomalies-mind-invasion.json) |
+| The Agency of Anomalies: Mind Invasion - Collector's Edition | 86282 | [86282-the-agency-of-anomalies-mind-invasion-collectors-edition.json](./86282-the-agency-of-anomalies-mind-invasion-collectors-edition.json) |
 | The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
 | The Agency of Anomalies: Mystic Hospital - Collector's Edition | 32015 | [32015-the-agency-of-anomalies-mystic-hospital-collectors-edition.json](./32015-the-agency-of-anomalies-mystic-hospital-collectors-edition.json) |
 | The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
@@ -6318,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Aloha Bakery | 129355 | [129355-the-aloha-bakery.json](./129355-the-aloha-bakery.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
+| The Alpha Device | 86327 | [86327-the-alpha-device.json](./86327-the-alpha-device.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
 | The Alphax Z | 39969 | [39969-the-alphax-z.json](./39969-the-alphax-z.json) |
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
@@ -10838,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frosted | 160030 | [160030-the-frosted.json](./160030-the-frosted.json) |
 | The Frostrune | 18751 | [18751-the-frostrune.json](./18751-the-frostrune.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
+| The Frosty Leaves | 86308 | [86308-the-frosty-leaves.json](./86308-the-frosty-leaves.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
 | The Frozen Garden | 257800 | [257800-the-frozen-garden.json](./257800-the-frozen-garden.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
@@ -19625,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Musketeers | 36867 | [36867-the-three-musketeers.json](./36867-the-three-musketeers.json) |
 | The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
+| The Three Musketeers: The Game (PC) | 85684 | [85684-the-three-musketeers-the-game-pc.json](./85684-the-three-musketeers-the-game-pc.json) |
 | The Three Princes and Adarna | 182740 | [182740-the-three-princes-and-adarna.json](./182740-the-three-princes-and-adarna.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
@@ -30122,6 +30127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower War: Tactical Conquest | 245333 | [245333-tower-war-tactical-conquest.json](./245333-tower-war-tactical-conquest.json) |
 | Tower Wizard | 327010 | [327010-tower-wizard.json](./327010-tower-wizard.json) |
 | Tower Words | 195130 | [195130-tower-words.json](./195130-tower-words.json) |
+| Tower! 2011 | 85685 | [85685-tower-2011.json](./85685-tower-2011.json) |
 | Tower! Simulator 3 | 226586 | [226586-tower-simulator-3.json](./226586-tower-simulator-3.json) |
 | Tower! Simulator 3: CYVR Airport | 396509 | [396509-tower-simulator-3-cyvr-airport.json](./396509-tower-simulator-3-cyvr-airport.json) |
 | Tower! Simulator 3: CYYZ Airport | 353335 | [353335-tower-simulator-3-cyyz-airport.json](./353335-tower-simulator-3-cyyz-airport.json) |
@@ -34720,6 +34726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Mini Mixed Trivia 2 | 55738 | [55738-trivia-vault-mini-mixed-trivia-2.json](./55738-trivia-vault-mini-mixed-trivia-2.json) |
 | Trivia Vault: Mini Mixed Trivia 3 | 59131 | [59131-trivia-vault-mini-mixed-trivia-3.json](./59131-trivia-vault-mini-mixed-trivia-3.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
+| Trivia Vault: Mixed Trivia 2 | 86310 | [86310-trivia-vault-mixed-trivia-2.json](./86310-trivia-vault-mixed-trivia-2.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
 | Trivia Vault: Music Trivia | 104219 | [104219-trivia-vault-music-trivia.json](./104219-trivia-vault-music-trivia.json) |
 | Trivia Vault: Science & History Trivia | 94777 | [94777-trivia-vault-science-and-history-trivia.json](./94777-trivia-vault-science-and-history-trivia.json) |
