@@ -4030,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace on Earth | 398662 | [398662-peace-on-earth.json](./398662-peace-on-earth.json) |
 | Peace Park | 262352 | [262352-peace-park.json](./262352-peace-park.json) |
 | Peace Phantom | 81952 | [81952-peace-phantom.json](./81952-peace-phantom.json) |
+| Peace Restored | 121814 | [121814-peace-restored.json](./121814-peace-restored.json) |
 | Peace, Death! 2 | 158078 | [158078-peace-death-2.json](./158078-peace-death-2.json) |
 | Peace, Death! Complete Edition | 112814 | [112814-peace-death-complete-edition.json](./112814-peace-death-complete-edition.json) |
 | Peace@Pieces | 80365 | [80365-peace-pieces.json](./80365-peace-pieces.json) |
@@ -4791,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
 | PercussOne | 85721 | [85721-percussone.json](./85721-percussone.json) |
 | Percy Jackson and the Olympians: The Lightning Thief | 47899 | [47899-percy-jackson-and-the-olympians-the-lightning-thief.json](./47899-percy-jackson-and-the-olympians-the-lightning-thief.json) |
+| Percy Lancaster | 121781 | [121781-percy-lancaster.json](./121781-percy-lancaster.json) |
 | Percy Parcel | 212958 | [212958-percy-parcel.json](./212958-percy-parcel.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy the Penguin Saves Christmas | 78548 | [78548-percy-the-penguin-saves-christmas.json](./78548-percy-the-penguin-saves-christmas.json) |
@@ -18474,6 +18476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proven: A Math RPG | 158059 | [158059-proven-a-math-rpg.json](./158059-proven-a-math-rpg.json) |
 | Provenance | 287603 | [287603-provenance.json](./287603-provenance.json) |
 | Provenance: Room 226 | 173956 | [173956-provenance-room-226.json](./173956-provenance-room-226.json) |
+| Proverbidoms | 121829 | [121829-proverbidoms.json](./121829-proverbidoms.json) |
 | Proverbs | 318962 | [318962-proverbs.json](./318962-proverbs.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
