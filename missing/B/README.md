@@ -6027,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcore Zero | 405143 | [405143-beatcore-zero.json](./405143-beatcore-zero.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
+| Beatcrash | 117866 | [117866-beatcrash.json](./117866-beatcrash.json) |
 | Beatdown | 95492 | [95492-beatdown.json](./95492-beatdown.json) |
 | Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
 | Beatdown City Survivors | 346350 | [346350-beatdown-city-survivors.json](./346350-beatdown-city-survivors.json) |
@@ -15357,6 +15358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound To Fail | 396718 | [396718-bound-to-fail.json](./396718-bound-to-fail.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
 | Bound Up & Squirming! | 113674 | [113674-bound-up-and-squirming.json](./113674-bound-up-and-squirming.json) |
+| Bound: Shattered Kingdom | 118464 | [118464-bound-shattered-kingdom.json](./118464-bound-shattered-kingdom.json) |
 | Bounda | 199441 | [199441-bounda.json](./199441-bounda.json) |
 | Bounda Forever | 249361 | [249361-bounda-forever.json](./249361-bounda-forever.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
