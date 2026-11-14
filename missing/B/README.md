@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Heroes | 342287 | [342287-baseball-heroes.json](./342287-baseball-heroes.json) |
 | Baseball Heroes | 40835 | [40835-baseball-heroes.json](./40835-baseball-heroes.json) |
 | Baseball Highlights 2045 | 96293 | [96293-baseball-highlights-2045.json](./96293-baseball-highlights-2045.json) |
+| Baseball Highlights 2045 | 96335 | [96335-baseball-highlights-2045.json](./96335-baseball-highlights-2045.json) |
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Smile | 374800 | [374800-behind-the-smile.json](./374800-behind-the-smile.json) |
 | Behind the Sword | 333825 | [333825-behind-the-sword.json](./333825-behind-the-sword.json) |
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
+| Behind Walls | 96375 | [96375-behind-walls.json](./96375-behind-walls.json) |
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
 | Behind You | 384592 | [384592-behind-you.json](./384592-behind-you.json) |
@@ -11668,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
 | Block Racer | 251342 | [251342-block-racer.json](./251342-block-racer.json) |
 | Block Rancher | 310248 | [310248-block-rancher.json](./310248-block-rancher.json) |
+| Block Rigs | 96345 | [96345-block-rigs.json](./96345-block-rigs.json) |
 | Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
 | Block Rockin' | 101149 | [101149-block-rockin.json](./101149-block-rockin.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
@@ -13279,6 +13282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Mazzolini Racing | 151428 | [151428-bob-mazzolini-racing.json](./151428-bob-mazzolini-racing.json) |
 | Bob Mod | 89122 | [89122-bob-mod.json](./89122-bob-mod.json) |
+| Bob Monster Truck Underwater Sponge Racing | 96325 | [96325-bob-monster-truck-underwater-sponge-racing.json](./96325-bob-monster-truck-underwater-sponge-racing.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
