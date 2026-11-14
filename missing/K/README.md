@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KardVenture | 252720 | [252720-kardventure.json](./252720-kardventure.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Kare wa Kanojo | 116215 | [116215-kare-wa-kanojo.json](./116215-kare-wa-kanojo.json) |
+| Karen | 148591 | [148591-karen.json](./148591-karen.json) |
 | Karen | 395926 | [395926-karen.json](./395926-karen.json) |
 | Karen and the Body pillow | 185360 | [185360-karen-and-the-body-pillow.json](./185360-karen-and-the-body-pillow.json) |
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
@@ -4844,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Age: Jousting | 387935 | [387935-knight-age-jousting.json](./387935-knight-age-jousting.json) |
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
+| Knight Arena | 148616 | [148616-knight-arena.json](./148616-knight-arena.json) |
 | Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
 | Knight Before Dawn | 420220 | [420220-knight-before-dawn.json](./420220-knight-before-dawn.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
