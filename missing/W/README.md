@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
 | Wanted: Weapons of Fate | 7240 | [7240-wanted-weapons-of-fate.json](./7240-wanted-weapons-of-fate.json) |
 | Wanted: Yokai Uprising | 309889 | [309889-wanted-yokai-uprising.json](./309889-wanted-yokai-uprising.json) |
+| Wanted! | 150222 | [150222-wanted.json](./150222-wanted.json) |
 | Wanted!: Monty Mole | 26278 | [26278-wanted-monty-mole.json](./26278-wanted-monty-mole.json) |
 | Wanted? | 327455 | [327455-wanted.json](./327455-wanted.json) |
 | Wanting Shock | 361675 | [361675-wanting-shock.json](./361675-wanting-shock.json) |
@@ -1830,7 +1831,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
 | Wario Land: Super Mario Land 3 Color Edition | 263620 | [263620-wario-land-super-mario-land-3-color-edition.json](./263620-wario-land-super-mario-land-3-color-edition.json) |
 | Wario Land: The Shake Dimension | 328671 | [328671-wario-land-the-shake-dimension.json](./328671-wario-land-the-shake-dimension.json) |
+| Wario no Mori: Bakushou Version | 150207 | [150207-wario-no-mori-bakushou-version.json](./150207-wario-no-mori-bakushou-version.json) |
 | Wario no Mori: Event Ban Ver. 1 | 401088 | [401088-wario-no-mori-event-ban-ver-1.json](./401088-wario-no-mori-event-ban-ver-1.json) |
+| Wario no Mori: Event Ban Ver. 2 | 150216 | [150216-wario-no-mori-event-ban-ver-2.json](./150216-wario-no-mori-event-ban-ver-2.json) |
+| Wario no Mori: Futatabi | 150208 | [150208-wario-no-mori-futatabi.json](./150208-wario-no-mori-futatabi.json) |
 | Wario Pill's Pill-Based Journey! | 325808 | [325808-wario-pills-pill-based-journey.json](./325808-wario-pills-pill-based-journey.json) |
 | Wario Pool | 230170 | [230170-wario-pool.json](./230170-wario-pool.json) |
 | Wario Time! | 314119 | [314119-wario-time.json](./314119-wario-time.json) |
