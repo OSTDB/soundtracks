@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
 | Baseball Advance | 6319 | [6319-baseball-advance.json](./6319-baseball-advance.json) |
+| Baseball Adventure | 154099 | [154099-baseball-adventure.json](./154099-baseball-adventure.json) |
 | Baseball Battle | 243738 | [243738-baseball-battle.json](./243738-baseball-battle.json) |
 | Baseball Blast! | 51048 | [51048-baseball-blast.json](./51048-baseball-blast.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
@@ -6818,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bel's Fanfare | 385696 | [385696-bels-fanfare.json](./385696-bels-fanfare.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
 | Belarus Simulator: Preemptive Strike | 202446 | [202446-belarus-simulator-preemptive-strike.json](./202446-belarus-simulator-preemptive-strike.json) |
+| Beldamos Miner | 154037 | [154037-beldamos-miner.json](./154037-beldamos-miner.json) |
 | Belegost | 391449 | [391449-belegost.json](./391449-belegost.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
@@ -7350,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
 | Berzerk Ball | 51340 | [51340-berzerk-ball.json](./51340-berzerk-ball.json) |
 | Berzerk Ball 2 | 75505 | [75505-berzerk-ball-2.json](./75505-berzerk-ball-2.json) |
+| Berzerk Flashback | 153559 | [153559-berzerk-flashback.json](./153559-berzerk-flashback.json) |
 | Berzerk Redux | 362418 | [362418-berzerk-redux.json](./362418-berzerk-redux.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
@@ -8832,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Beavers: Terrace | 293558 | [293558-bingo-beavers-terrace.json](./293558-bingo-beavers-terrace.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
+| Bingo Blitz | 153547 | [153547-bingo-blitz.json](./153547-bingo-blitz.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
 | Bingo Bugglebee Presents: Home Alone | 362426 | [362426-bingo-bugglebee-presents-home-alone.json](./362426-bingo-bugglebee-presents-home-alone.json) |
 | Bingo Caller Machine | 88150 | [88150-bingo-caller-machine.json](./88150-bingo-caller-machine.json) |
@@ -10251,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackJack Math Cross Numbers | 238877 | [238877-blackjack-math-cross-numbers.json](./238877-blackjack-math-cross-numbers.json) |
 | Blackjack of Strip | 111340 | [111340-blackjack-of-strip.json](./111340-blackjack-of-strip.json) |
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
+| Blackjack Professional | 153545 | [153545-blackjack-professional.json](./153545-blackjack-professional.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
 | Blackjack Royale | 90986 | [90986-blackjack-royale.json](./90986-blackjack-royale.json) |
