@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Kaibyo Shioki No Emaki | 406901 | [406901-neko-miko-kaibyo-shioki-no-emaki.json](./406901-neko-miko-kaibyo-shioki-no-emaki.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
+| Neko Min | 150196 | [150196-neko-min.json](./150196-neko-min.json) |
 | Neko Navy | 29482 | [29482-neko-navy.json](./29482-neko-navy.json) |
 | Neko Navy: Daydream Edition | 110318 | [110318-neko-navy-daydream-edition.json](./110318-neko-navy-daydream-edition.json) |
 | Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
