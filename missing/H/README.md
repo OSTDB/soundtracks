@@ -12052,6 +12052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
 | Hotlap Heroes | 115876 | [115876-hotlap-heroes.json](./115876-hotlap-heroes.json) |
 | HotLead | 34241 | [34241-hotlead.json](./34241-hotlead.json) |
+| Hotline Miami 2: Wrong Number - Digital Special Edition | 124881 | [124881-hotline-miami-2-wrong-number-digital-special-edition.json](./124881-hotline-miami-2-wrong-number-digital-special-edition.json) |
 | Hotline Miami Collection | 99733 | [99733-hotline-miami-collection.json](./99733-hotline-miami-collection.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
 | Hotline Miami: Redux-Redux | 400935 | [400935-hotline-miami-redux-redux.json](./400935-hotline-miami-redux-redux.json) |
