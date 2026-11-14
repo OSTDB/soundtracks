@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.R.S. | 141374 | [141374-m-a-r-s.json](./141374-m-a-r-s.json) |
 | M.A.R.S.S | 148230 | [148230-m-a-r-s-s.json](./148230-m-a-r-s-s.json) |
+| M.A.S.H. | 99264 | [99264-m-a-s-h.json](./99264-m-a-s-h.json) |
 | M.A.S.S. Builder | 78063 | [78063-m-a-s-s-builder.json](./78063-m-a-s-s-builder.json) |
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Carnival | 59735 | [59735-mahjong-carnival.json](./59735-mahjong-carnival.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
+| Mahjong City Tours | 99833 | [99833-mahjong-city-tours.json](./99833-mahjong-city-tours.json) |
 | Mahjong Club | 108666 | [108666-mahjong-club.json](./108666-mahjong-club.json) |
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
 | Mahjong Club 90's | 409087 | [409087-mahjong-club-90s.json](./409087-mahjong-club-90s.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
 | Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
+| Master Chef - 14 in 1 Cooking Game | 99828 | [99828-master-chef-14-in-1-cooking-game.json](./99828-master-chef-14-in-1-cooking-game.json) |
 | Master Chess | 43231 | [43231-master-chess.json](./43231-master-chess.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Chu and the Drunkard Hu | 48178 | [48178-master-chu-and-the-drunkard-hu.json](./48178-master-chu-and-the-drunkard-hu.json) |
@@ -7167,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McRogue | 77162 | [77162-mcrogue.json](./77162-mcrogue.json) |
 | McSpace Colosseum | 150399 | [150399-mcspace-colosseum.json](./150399-mcspace-colosseum.json) |
 | MCSR Ranked | 386756 | [386756-mcsr-ranked.json](./386756-mcsr-ranked.json) |
+| McSudoku | 99829 | [99829-mcsudoku.json](./99829-mcsudoku.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | McTremson Bar | 179548 | [179548-mctremson-bar.json](./179548-mctremson-bar.json) |
 | MCW Regicide! | 360127 | [360127-mcw-regicide.json](./360127-mcw-regicide.json) |
@@ -13211,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
 | Million Depth | 262869 | [262869-million-depth.json](./262869-million-depth.json) |
 | Million Dollar Adventure | 88658 | [88658-million-dollar-adventure.json](./88658-million-dollar-adventure.json) |
+| Million Dollar Adventure: hidden object game | 99860 | [99860-million-dollar-adventure-hidden-object-game.json](./99860-million-dollar-adventure-hidden-object-game.json) |
 | Million Dollar Boys: OtomeGame | 405895 | [405895-million-dollar-boys-otomegame.json](./405895-million-dollar-boys-otomegame.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
@@ -14300,6 +14305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Kyodai Robo Goemon Compact | 186457 | [186457-mini-kyodai-robo-goemon-compact.json](./186457-mini-kyodai-robo-goemon-compact.json) |
 | Mini Lax Sim 24 | 311836 | [311836-mini-lax-sim-24.json](./311836-mini-lax-sim-24.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
+| Mini Legend | 99849 | [99849-mini-legend.json](./99849-mini-legend.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
 | Mini Lunar Ball | 304236 | [304236-mini-lunar-ball.json](./304236-mini-lunar-ball.json) |
 | Mini Madness | 162733 | [162733-mini-madness.json](./162733-mini-madness.json) |
