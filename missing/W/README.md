@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | WarWizard | 233329 | [233329-warwizard.json](./233329-warwizard.json) |
 | Waryong Three Kingdoms | 208741 | [208741-waryong-three-kingdoms.json](./208741-waryong-three-kingdoms.json) |
+| Warzone | 123645 | [123645-warzone.json](./123645-warzone.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
 | Warzone | 80966 | [80966-warzone.json](./80966-warzone.json) |
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
@@ -6591,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 4: Maximum | 63597 | [63597-winning-post-4-maximum.json](./63597-winning-post-4-maximum.json) |
 | Winning Post 4: Maximum 2001 | 63593 | [63593-winning-post-4-maximum-2001.json](./63593-winning-post-4-maximum-2001.json) |
 | Winning Post 4: Program 2000 | 63595 | [63595-winning-post-4-program-2000.json](./63595-winning-post-4-program-2000.json) |
+| Winning Post 5 | 123658 | [123658-winning-post-5.json](./123658-winning-post-5.json) |
 | Winning Post 5 Maximum 2003 | 354943 | [354943-winning-post-5-maximum-2003.json](./354943-winning-post-5-maximum-2003.json) |
 | Winning Post 6 | 65013 | [65013-winning-post-6.json](./65013-winning-post-6.json) |
 | Winning Post 6 2008 | 269509 | [269509-winning-post-6-2008.json](./269509-winning-post-6-2008.json) |
@@ -7346,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
 | Wittle Mistakes | 322041 | [322041-wittle-mistakes.json](./322041-wittle-mistakes.json) |
 | Witty Apee | 54914 | [54914-witty-apee.json](./54914-witty-apee.json) |
+| Witty Cat | 123131 | [123131-witty-cat.json](./123131-witty-cat.json) |
 | Witty witch | 152455 | [152455-witty-witch.json](./152455-witty-witch.json) |
 | Witz | 377527 | [377527-witz.json](./377527-witz.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
