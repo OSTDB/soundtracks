@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 19XX: Tournament Edition | 135357 | [135357-19xx-tournament-edition.json](./135357-19xx-tournament-edition.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
+| 1BeatHeart | 125516 | [125516-1beatheart.json](./125516-1beatheart.json) |
 | 1BillionHex | 92214 | [92214-1billionhex.json](./92214-1billionhex.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
