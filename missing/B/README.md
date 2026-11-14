@@ -6043,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
 | Beatdown! | 89815 | [89815-beatdown.json](./89815-beatdown.json) |
 | BeatDrop | 137200 | [137200-beatdrop.json](./137200-beatdrop.json) |
+| Beatem Ladybug and Cat Noir | 101141 | [101141-beatem-ladybug-and-cat-noir.json](./101141-beatem-ladybug-and-cat-noir.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beater Spirit | 32524 | [32524-beater-spirit.json](./32524-beater-spirit.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biplane Racer | 116754 | [116754-biplane-racer.json](./116754-biplane-racer.json) |
 | Biplanes | 385124 | [385124-biplanes.json](./385124-biplanes.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
+| Bipolar | 101137 | [101137-bipolar.json](./101137-bipolar.json) |
 | Bipolar | 134092 | [134092-bipolar.json](./134092-bipolar.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
@@ -11699,6 +11701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
 | Block Twist Challenge | 338250 | [338250-block-twist-challenge.json](./338250-block-twist-challenge.json) |
+| Block vs Block II | 100448 | [100448-block-vs-block-ii.json](./100448-block-vs-block-ii.json) |
 | Block vs. Block | 175053 | [175053-block-vs-block.json](./175053-block-vs-block.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
