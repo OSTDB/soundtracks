@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
 | Respect The Horde | 417143 | [417143-respect-the-horde.json](./417143-respect-the-horde.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
+| Respite 2.0 | 135364 | [135364-respite-2-0.json](./135364-respite-2-0.json) |
 | Resplendent | 316560 | [316560-resplendent.json](./316560-resplendent.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
@@ -8937,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
 | Rita's Flower Shop | 394136 | [394136-ritas-flower-shop.json](./394136-ritas-flower-shop.json) |
 | Ritbone | 118780 | [118780-ritbone.json](./118780-ritbone.json) |
+| Rite | 135362 | [135362-rite.json](./135362-rite.json) |
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
 | Rite of Ilk | 55066 | [55066-rite-of-ilk.json](./55066-rite-of-ilk.json) |
@@ -9650,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Inc Project | 121090 | [121090-robo-inc-project.json](./121090-robo-inc-project.json) |
 | Robo Jumper 3D | 102276 | [102276-robo-jumper-3d.json](./102276-robo-jumper-3d.json) |
 | Robo Legend | 202555 | [202555-robo-legend.json](./202555-robo-legend.json) |
+| Robo Meltdown | 135352 | [135352-robo-meltdown.json](./135352-robo-meltdown.json) |
 | Robo Miner | 35016 | [35016-robo-miner.json](./35016-robo-miner.json) |
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
 | Robo Miner: Remastered | 361066 | [361066-robo-miner-remastered.json](./361066-robo-miner-remastered.json) |
@@ -14486,6 +14489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
 | Ryuusei-gou ni Notte | 259311 | [259311-ryuusei-gou-ni-notte.json](./259311-ryuusei-gou-ni-notte.json) |
 | Ryuuteki Gosennen: Dragons of China | 214812 | [214812-ryuuteki-gosennen-dragons-of-china.json](./214812-ryuuteki-gosennen-dragons-of-china.json) |
+| Ryza Roads | 135365 | [135365-ryza-roads.json](./135365-ryza-roads.json) |
 | Ryzer: The Reflectors Path | 187561 | [187561-ryzer-the-reflectors-path.json](./187561-ryzer-the-reflectors-path.json) |
 | Ryzy Nyil | 394292 | [394292-ryzy-nyil.json](./394292-ryzy-nyil.json) |
 | RZR | 340676 | [340676-rzr.json](./340676-rzr.json) |
