@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Tasks | 316457 | [316457-after-tasks.json](./316457-after-tasks.json) |
 | After The Afterlife | 361684 | [361684-after-the-afterlife.json](./361684-after-the-afterlife.json) |
 | After the Bell | 394819 | [394819-after-the-bell.json](./394819-after-the-bell.json) |
+| After the Bell Rings | 148052 | [148052-after-the-bell-rings.json](./148052-after-the-bell-rings.json) |
 | After the Crash: Colony | 379499 | [379499-after-the-crash-colony.json](./379499-after-the-crash-colony.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After the Empire | 28111 | [28111-after-the-empire.json](./28111-after-the-empire.json) |
@@ -20391,6 +20392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayahuasca | 128131 | [128131-ayahuasca.json](./128131-ayahuasca.json) |
 | Ayahuasca: Polyventure | 81599 | [81599-ayahuasca-polyventure.json](./81599-ayahuasca-polyventure.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
+| Ayakashi Akashi | 148006 | [148006-ayakashi-akashi.json](./148006-ayakashi-akashi.json) |
 | Ayakashi Gohan | 70885 | [70885-ayakashi-gohan.json](./70885-ayakashi-gohan.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
 | Ayakashi Gohan: Oomori! | 200007 | [200007-ayakashi-gohan-oomori.json](./200007-ayakashi-gohan-oomori.json) |
