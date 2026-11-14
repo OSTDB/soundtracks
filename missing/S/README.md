@@ -3824,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
 | SCP: Pale Weaver | 405867 | [405867-scp-pale-weaver.json](./405867-scp-pale-weaver.json) |
 | SCP: Permafrost | 409328 | [409328-scp-permafrost.json](./409328-scp-permafrost.json) |
+| SCP: Recontainment | 132290 | [132290-scp-recontainment.json](./132290-scp-recontainment.json) |
 | SCP: ReEnter | 377925 | [377925-scp-reenter.json](./377925-scp-reenter.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
 | SCP: Resonance | 126252 | [126252-scp-resonance.json](./126252-scp-resonance.json) |
@@ -22264,6 +22265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Escape | 293963 | [293963-space-station-escape.json](./293963-space-station-escape.json) |
 | Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
+| Space Station Manager | 132301 | [132301-space-station-manager.json](./132301-space-station-manager.json) |
 | Space Station Multiverse | 268237 | [268237-space-station-multiverse.json](./268237-space-station-multiverse.json) |
 | Space Station Oblivion | 12059 | [12059-space-station-oblivion.json](./12059-space-station-oblivion.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
@@ -22607,6 +22609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
 | SpaceMine | 255941 | [255941-spacemine.json](./255941-spacemine.json) |
 | Spaceminers | 264263 | [264263-spaceminers.json](./264263-spaceminers.json) |
+| Spacen: The Beginning | 132281 | [132281-spacen-the-beginning.json](./132281-spacen-the-beginning.json) |
 | SpaceNet: A Space Adventure | 169344 | [169344-spacenet-a-space-adventure.json](./169344-spacenet-a-space-adventure.json) |
 | SpacePig | 75650 | [75650-spacepig.json](./75650-spacepig.json) |
 | Spaceplan | 28454 | [28454-spaceplan.json](./28454-spaceplan.json) |
@@ -25952,6 +25955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel Divorce | 157409 | [157409-squirrel-divorce.json](./157409-squirrel-divorce.json) |
+| Squirrel Forest | 132318 | [132318-squirrel-forest.json](./132318-squirrel-forest.json) |
 | Squirrel Horse | 349190 | [349190-squirrel-horse.json](./349190-squirrel-horse.json) |
 | Squirrel Jump | 122165 | [122165-squirrel-jump.json](./122165-squirrel-jump.json) |
 | Squirrel Jump: Forest Pathway | 280367 | [280367-squirrel-jump-forest-pathway.json](./280367-squirrel-jump-forest-pathway.json) |
