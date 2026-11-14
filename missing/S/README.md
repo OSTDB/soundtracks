@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
 | Sakura Taisen 2: Kimi, Shinitamou Koto Nakare | 50214 | [50214-sakura-taisen-2-kimi-shinitamou-koto-nakare.json](./50214-sakura-taisen-2-kimi-shinitamou-koto-nakare.json) |
 | Sakura Taisen 3: Paris ha Moeteiru ka? | 80143 | [80143-sakura-taisen-3-paris-ha-moeteiru-ka.json](./80143-sakura-taisen-3-paris-ha-moeteiru-ka.json) |
+| Sakura Taisen 4: Koi seyo, Otome | 93261 | [93261-sakura-taisen-4-koi-seyo-otome.json](./93261-sakura-taisen-4-koi-seyo-otome.json) |
 | Sakura Taisen Complete Box | 62869 | [62869-sakura-taisen-complete-box.json](./62869-sakura-taisen-complete-box.json) |
 | Sakura Taisen GB: Geki Hanagumi Nyuutai! | 79482 | [79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json](./79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json) |
 | Sakura Taisen GB2 | 65844 | [65844-sakura-taisen-gb2.json](./65844-sakura-taisen-gb2.json) |
@@ -20321,6 +20322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Additional Scenario Vol. 1 | 137721 | [137721-sorcerian-additional-scenario-vol-1.json](./137721-sorcerian-additional-scenario-vol-1.json) |
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
+| Sorcerian Forever | 93286 | [93286-sorcerian-forever.json](./93286-sorcerian-forever.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | Sorcerian Original | 70777 | [70777-sorcerian-original.json](./70777-sorcerian-original.json) |
 | Sorcerian System New Scenario Vol.1: Uchuu kara no Houmonsa (1989) | 326937 | [326937-sorcerian-system-new-scenario-vol-1-uchuu-kara-no-houmonsa-1989.json](./326937-sorcerian-system-new-scenario-vol-1-uchuu-kara-no-houmonsa-1989.json) |
@@ -24685,6 +24687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirou: The Robot Invasion | 97487 | [97487-spirou-the-robot-invasion.json](./97487-spirou-the-robot-invasion.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
+| Spit Wad Willy | 93252 | [93252-spit-wad-willy.json](./93252-spit-wad-willy.json) |
 | Spitball Sparky | 145236 | [145236-spitball-sparky.json](./145236-spitball-sparky.json) |
 | Spite & Malice | 175485 | [175485-spite-and-malice.json](./175485-spite-and-malice.json) |
 | Spite & Malice | 256505 | [256505-spite-and-malice.json](./256505-spite-and-malice.json) |
@@ -32367,6 +32370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substance Wars 64 | 384878 | [384878-substance-wars-64.json](./384878-substance-wars-64.json) |
 | Substantia Cana | 160027 | [160027-substantia-cana.json](./160027-substantia-cana.json) |
+| Substation | 93247 | [93247-substation.json](./93247-substation.json) |
 | Substitute Priest | 271559 | [271559-substitute-priest.json](./271559-substitute-priest.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substratum | 128432 | [128432-substratum.json](./128432-substratum.json) |
@@ -34571,6 +34575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Formation Soccer 95: della Serie A - UCC Xaqua | 236673 | [236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json](./236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json) |
 | Super Formation Soccer 96: World Club Edition | 42359 | [42359-super-formation-soccer-96-world-club-edition.json](./42359-super-formation-soccer-96-world-club-edition.json) |
 | Super Formation Soccer II | 42363 | [42363-super-formation-soccer-ii.json](./42363-super-formation-soccer-ii.json) |
+| Super Foul Egg | 93242 | [93242-super-foul-egg.json](./93242-super-foul-egg.json) |
 | Super Fowlst | 111314 | [111314-super-fowlst.json](./111314-super-fowlst.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox | 146575 | [146575-super-fox.json](./146575-super-fox.json) |
@@ -35060,6 +35065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Laydock: Mission Striker | 72144 | [72144-super-laydock-mission-striker.json](./72144-super-laydock-mission-striker.json) |
 | Super Laydock: Mission Striker Network Version | 41681 | [41681-super-laydock-mission-striker-network-version.json](./41681-super-laydock-mission-striker-network-version.json) |
 | Super League | 415935 | [415935-super-league.json](./415935-super-league.json) |
+| Super League Manager | 93251 | [93251-super-league-manager.json](./93251-super-league-manager.json) |
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
 | Super Leap Day | 193770 | [193770-super-leap-day.json](./193770-super-leap-day.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
