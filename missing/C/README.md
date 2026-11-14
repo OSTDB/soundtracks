@@ -17049,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmotrons | 130675 | [130675-cosmotrons.json](./130675-cosmotrons.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
+| Cospida | 138873 | [138873-cospida.json](./138873-cospida.json) |
 | Cosplay Alien | 78407 | [78407-cosplay-alien.json](./78407-cosplay-alien.json) |
 | Cosplay Chu | 97771 | [97771-cosplay-chu.json](./97771-cosplay-chu.json) |
 | Cosplay Club | 220442 | [220442-cosplay-club.json](./220442-cosplay-club.json) |
