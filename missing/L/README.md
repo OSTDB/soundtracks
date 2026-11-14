@@ -6174,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
 | Lionel Trains: On Track | 10738 | [10738-lionel-trains-on-track.json](./10738-lionel-trains-on-track.json) |
 | Lionessy Story | 39778 | [39778-lionessy-story.json](./39778-lionessy-story.json) |
+| Lionfish Reef Patrol | 156759 | [156759-lionfish-reef-patrol.json](./156759-lionfish-reef-patrol.json) |
 | Liong: the Dragon Dance | 144210 | [144210-liong-the-dragon-dance.json](./144210-liong-the-dragon-dance.json) |
 | Liong: the Lost Amulets | 144209 | [144209-liong-the-lost-amulets.json](./144209-liong-the-lost-amulets.json) |
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
@@ -9302,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
 | Lostmiao Mjao | 377510 | [377510-lostmiao-mjao.json](./377510-lostmiao-mjao.json) |
 | LostMiner: Build & Craft Game | 298747 | [298747-lostminer-build-and-craft-game.json](./298747-lostminer-build-and-craft-game.json) |
+| Lostria | 157245 | [157245-lostria.json](./157245-lostria.json) |
 | LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
 | LostWinds: Winter of the Melodias | 21245 | [21245-lostwinds-winter-of-the-melodias.json](./21245-lostwinds-winter-of-the-melodias.json) |
 | LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
