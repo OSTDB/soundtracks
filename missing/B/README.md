@@ -4809,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
 | BattleOps | 224097 | [224097-battleops.json](./224097-battleops.json) |
 | BattlePaint | 388288 | [388288-battlepaint.json](./388288-battlepaint.json) |
+| Battlepalooza: Free PvP Arena Battle Royale | 143132 | [143132-battlepalooza-free-pvp-arena-battle-royale.json](./143132-battlepalooza-free-pvp-arena-battle-royale.json) |
 | BattlePan's Odyssey | 184848 | [184848-battlepans-odyssey.json](./184848-battlepans-odyssey.json) |
 | BattleParty | 143937 | [143937-battleparty.json](./143937-battleparty.json) |
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
@@ -17217,6 +17218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: A Trail of Breadcrumbs | 397112 | [397112-bridge-to-another-world-a-trail-of-breadcrumbs.json](./397112-bridge-to-another-world-a-trail-of-breadcrumbs.json) |
 | Bridge to Another World: A Trail of Breadcrumbs - Collector's Edition | 397113 | [397113-bridge-to-another-world-a-trail-of-breadcrumbs-collectors-edition.json](./397113-bridge-to-another-world-a-trail-of-breadcrumbs-collectors-edition.json) |
+| Bridge to Another World: Alice in Shadowland | 143147 | [143147-bridge-to-another-world-alice-in-shadowland.json](./143147-bridge-to-another-world-alice-in-shadowland.json) |
+| Bridge to Another World: Alice in Shadowland - Collector's Edition | 143133 | [143133-bridge-to-another-world-alice-in-shadowland-collectors-edition.json](./143133-bridge-to-another-world-alice-in-shadowland-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams | 140288 | [140288-bridge-to-another-world-burnt-dreams.json](./140288-bridge-to-another-world-burnt-dreams.json) |
 | Bridge to Another World: Burnt Dreams - Collector's Edition | 28677 | [28677-bridge-to-another-world-burnt-dreams-collectors-edition.json](./28677-bridge-to-another-world-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams HD | 95659 | [95659-bridge-to-another-world-burnt-dreams-hd.json](./95659-bridge-to-another-world-burnt-dreams-hd.json) |
