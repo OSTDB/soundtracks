@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kink.inc | 237131 | [237131-kink-inc.json](./237131-kink-inc.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
 | Kinki Spiritual Affairs Bureau | 320073 | [320073-kinki-spiritual-affairs-bureau.json](./320073-kinki-spiritual-affairs-bureau.json) |
+| Kinkoi: Golden Loveriche | 154651 | [154651-kinkoi-golden-loveriche.json](./154651-kinkoi-golden-loveriche.json) |
 | Kinkoi: Golden Time | 207708 | [207708-kinkoi-golden-time.json](./207708-kinkoi-golden-time.json) |
 | Kinkshamed | 105181 | [105181-kinkshamed.json](./105181-kinkshamed.json) |
 | Kinky Cats | 367359 | [367359-kinky-cats.json](./367359-kinky-cats.json) |
