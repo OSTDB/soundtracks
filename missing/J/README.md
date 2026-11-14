@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Adventures 4 | 362959 | [362959-jungle-adventures-4.json](./362959-jungle-adventures-4.json) |
 | Jungle Animal Hair Salon | 95291 | [95291-jungle-animal-hair-salon.json](./95291-jungle-animal-hair-salon.json) |
 | Jungle Animal Hair Salon 2 | 109226 | [109226-jungle-animal-hair-salon-2.json](./109226-jungle-animal-hair-salon-2.json) |
+| Jungle Animals | 90987 | [90987-jungle-animals.json](./90987-jungle-animals.json) |
 | Jungle Blocks | 67967 | [67967-jungle-blocks.json](./67967-jungle-blocks.json) |
 | Jungle Bloody Operation | 287788 | [287788-jungle-bloody-operation.json](./287788-jungle-bloody-operation.json) |
 | Jungle Bomb Fever | 232916 | [232916-jungle-bomb-fever.json](./232916-jungle-bomb-fever.json) |
