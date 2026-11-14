@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo 2 | 120529 | [120529-vertigo-2.json](./120529-vertigo-2.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigo Enigma | 407062 | [407062-vertigo-enigma.json](./407062-vertigo-enigma.json) |
+| Vertigo FPS | 103707 | [103707-vertigo-fps.json](./103707-vertigo-fps.json) |
 | Vertigo Racing | 57402 | [57402-vertigo-racing.json](./57402-vertigo-racing.json) |
 | Vertigo Void | 34255 | [34255-vertigo-void.json](./34255-vertigo-void.json) |
 | Vertigo: Binaural Beats | 233063 | [233063-vertigo-binaural-beats.json](./233063-vertigo-binaural-beats.json) |
