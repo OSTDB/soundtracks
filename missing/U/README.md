@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | UP 9 - Hexa Puzzle! | 100653 | [100653-up-9-hexa-puzzle.json](./100653-up-9-hexa-puzzle.json) |
 | UP 9 - Hexa Puzzle! Merge Numbers to get 9 | 100946 | [100946-up-9-hexa-puzzle-merge-numbers-to-get-9.json](./100946-up-9-hexa-puzzle-merge-numbers-to-get-9.json) |
+| Up a Cave | 99269 | [99269-up-a-cave.json](./99269-up-a-cave.json) |
 | Up Against Aliens | 265264 | [265264-up-against-aliens.json](./265264-up-against-aliens.json) |
 | Up All Knight | 232371 | [232371-up-all-knight.json](./232371-up-all-knight.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
