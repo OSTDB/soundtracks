@@ -17313,6 +17313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rodinia Project | 52077 | [52077-the-rodinia-project.json](./52077-the-rodinia-project.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
+| The Rogue Cavern | 149623 | [149623-the-rogue-cavern.json](./149623-the-rogue-cavern.json) |
 | The Rogue of Nexus | 329220 | [329220-the-rogue-of-nexus.json](./329220-the-rogue-of-nexus.json) |
 | The Rogue with Dead | 221303 | [221303-the-rogue-with-dead.json](./221303-the-rogue-with-dead.json) |
 | The Roll Game | 182148 | [182148-the-roll-game.json](./182148-the-roll-game.json) |
@@ -29770,6 +29771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Pandemonium | 253416 | [253416-tower-of-pandemonium.json](./253416-tower-of-pandemonium.json) |
 | Tower Of Penguinaria | 338954 | [338954-tower-of-penguinaria.json](./338954-tower-of-penguinaria.json) |
 | Tower of Pestilence | 347482 | [347482-tower-of-pestilence.json](./347482-tower-of-pestilence.json) |
+| Tower of Portal | 149613 | [149613-tower-of-portal.json](./149613-tower-of-portal.json) |
 | Tower of Radia | 48876 | [48876-tower-of-radia.json](./48876-tower-of-radia.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Scherbenmark | 413023 | [413023-tower-of-scherbenmark.json](./413023-tower-of-scherbenmark.json) |
@@ -37069,6 +37071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyred | 75539 | [75539-tyred.json](./75539-tyred.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
+| Tyrgard Archer VR | 149646 | [149646-tyrgard-archer-vr.json](./149646-tyrgard-archer-vr.json) |
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
 | Tyrion Cuthbert: Attorney of the Arcane | 149149 | [149149-tyrion-cuthbert-attorney-of-the-arcane.json](./149149-tyrion-cuthbert-attorney-of-the-arcane.json) |
