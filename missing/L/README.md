@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.S.D.: Lasting Spiritual Derangement | 174018 | [174018-l-s-d-lasting-spiritual-derangement.json](./174018-l-s-d-lasting-spiritual-derangement.json) |
 | L.S.S | 56675 | [56675-l-s-s.json](./56675-l-s-s.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
+| L'a L'a Cofflhu Fhtagnyaa | 150792 | [150792-la-la-cofflhu-fhtagnyaa.json](./150792-la-la-cofflhu-fhtagnyaa.json) |
 | L'Abbaye des Morts | 270228 | [270228-labbaye-des-morts.json](./270228-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 299101 | [299101-labbaye-des-morts.json](./299101-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
@@ -9334,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lots of Cats in Every Moment: The Whereabouts of the Photo | 310693 | [310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json](./310693-lots-of-cats-in-every-moment-the-whereabouts-of-the-photo.json) |
 | Lots of Cats on an Adventure | 347450 | [347450-lots-of-cats-on-an-adventure.json](./347450-lots-of-cats-on-an-adventure.json) |
 | Lots of Cats on an Adventure: Alien Showdown | 347451 | [347451-lots-of-cats-on-an-adventure-alien-showdown.json](./347451-lots-of-cats-on-an-adventure-alien-showdown.json) |
+| Lots of guns | 150730 | [150730-lots-of-guns.json](./150730-lots-of-guns.json) |
 | Lots of Guns | 65466 | [65466-lots-of-guns.json](./65466-lots-of-guns.json) |
 | Lots of Slots | 147892 | [147892-lots-of-slots.json](./147892-lots-of-slots.json) |
 | Lots of Swords | 184214 | [184214-lots-of-swords.json](./184214-lots-of-swords.json) |
@@ -10058,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
 | Lowmoor Idle RPG: An Adventurer's Chronicle | 412647 | [412647-lowmoor-idle-rpg-an-adventurers-chronicle.json](./412647-lowmoor-idle-rpg-an-adventurers-chronicle.json) |
+| LowPolis | 150791 | [150791-lowpolis.json](./150791-lowpolis.json) |
 | LowPoly 3D Art Paint by Number | 390548 | [390548-lowpoly-3d-art-paint-by-number.json](./390548-lowpoly-3d-art-paint-by-number.json) |
 | LowPoly Cars | 423219 | [423219-lowpoly-cars.json](./423219-lowpoly-cars.json) |
 | Lowpoly Hero | 81820 | [81820-lowpoly-hero.json](./81820-lowpoly-hero.json) |
