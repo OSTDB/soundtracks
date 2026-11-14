@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiji J.B. Harold no Jikenbo: Manhattan Requiem & Kiss of Murder | 77507 | [77507-keiji-j-b-harold-no-jikenbo-manhattan-requiem-and-kiss-of-murder.json](./77507-keiji-j-b-harold-no-jikenbo-manhattan-requiem-and-kiss-of-murder.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 320848 | [320848-keiji-j-b-harold-no-jikenbo-murder-club.json](./320848-keiji-j-b-harold-no-jikenbo-murder-club.json) |
+| Keika: A Puzzle Adventure | 120440 | [120440-keika-a-puzzle-adventure.json](./120440-keika-a-puzzle-adventure.json) |
 | Keikaku | 266574 | [266574-keikaku.json](./266574-keikaku.json) |
 | Keiken Zero na Classmate | 154711 | [154711-keiken-zero-na-classmate.json](./154711-keiken-zero-na-classmate.json) |
 | Keiken Zero na Classmate: Premium Edition | 154710 | [154710-keiken-zero-na-classmate-premium-edition.json](./154710-keiken-zero-na-classmate-premium-edition.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
 | Kiki&Lala's Twinkle Puzzle | 215949 | [215949-kiki-and-lalas-twinkle-puzzle.json](./215949-kiki-and-lalas-twinkle-puzzle.json) |
+| KikiMimi | 120438 | [120438-kikimimi.json](./120438-kikimimi.json) |
 | KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
 | Kikimora's Clean-Up | 253708 | [253708-kikimoras-clean-up.json](./253708-kikimoras-clean-up.json) |
 | Kiko and the Game Kids | 326677 | [326677-kiko-and-the-game-kids.json](./326677-kiko-and-the-game-kids.json) |
