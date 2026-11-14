@@ -7145,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
 | Sexy Stories | 389758 | [389758-sexy-stories.json](./389758-sexy-stories.json) |
 | Sexy Strippers | 275834 | [275834-sexy-strippers.json](./275834-sexy-strippers.json) |
+| Sexy Tails and Other Puzzlingly Attractive Furry Things | 157240 | [157240-sexy-tails-and-other-puzzlingly-attractive-furry-things.json](./157240-sexy-tails-and-other-puzzlingly-attractive-furry-things.json) |
 | Sexy Valentine | 235607 | [235607-sexy-valentine.json](./235607-sexy-valentine.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Sexycraft | 301657 | [301657-sexycraft.json](./301657-sexycraft.json) |
@@ -12507,6 +12508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingFever: Your Sing Game | 365871 | [365871-singfever-your-sing-game.json](./365871-singfever-your-sing-game.json) |
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
+| Singing Iris | 156756 | [156756-singing-iris.json](./156756-singing-iris.json) |
 | Singing Stones VR | 30353 | [30353-singing-stones-vr.json](./30353-singing-stones-vr.json) |
 | SingIt Portugal Hits Summer Party | 312402 | [312402-singit-portugal-hits-summer-party.json](./312402-singit-portugal-hits-summer-party.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
@@ -12758,6 +12760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sipher Odyssey | 293255 | [293255-sipher-odyssey.json](./293255-sipher-odyssey.json) |
 | Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
+| Siphonophore | 156761 | [156761-siphonophore.json](./156761-siphonophore.json) |
 | Siphonopolis | 204608 | [204608-siphonopolis.json](./204608-siphonopolis.json) |
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
 | Sippy Disco: Light Up The Dance Floor | 290257 | [290257-sippy-disco-light-up-the-dance-floor.json](./290257-sippy-disco-light-up-the-dance-floor.json) |
@@ -17198,6 +17201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowmobile Extreme Racing | 87247 | [87247-snowmobile-extreme-racing.json](./87247-snowmobile-extreme-racing.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
 | Snowpack Park | 85383 | [85383-snowpack-park.json](./85383-snowpack-park.json) |
+| Snowpainters | 157248 | [157248-snowpainters.json](./157248-snowpainters.json) |
 | Snowpult | 286231 | [286231-snowpult.json](./286231-snowpult.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
 | Snowrifters | 163244 | [163244-snowrifters.json](./163244-snowrifters.json) |
@@ -17573,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Democracy: Petrograd 1917 - An Alternate History | 345454 | [345454-social-democracy-petrograd-1917-an-alternate-history.json](./345454-social-democracy-petrograd-1917-an-alternate-history.json) |
 | Social Democracy: Popular Front | 410565 | [410565-social-democracy-popular-front.json](./410565-social-democracy-popular-front.json) |
 | Social Dev Story | 276131 | [276131-social-dev-story.json](./276131-social-dev-story.json) |
+| Social Distancing | 156748 | [156748-social-distancing.json](./156748-social-distancing.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Empires | 172812 | [172812-social-empires.json](./172812-social-empires.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
@@ -21328,6 +21333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Cycler | 412602 | [412602-space-cycler.json](./412602-space-cycler.json) |
 | Space Cyclone | 39308 | [39308-space-cyclone.json](./39308-space-cyclone.json) |
+| Space Dance | 157250 | [157250-space-dance.json](./157250-space-dance.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Dance Harmony | 149323 | [149323-space-dance-harmony.json](./149323-space-dance-harmony.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
@@ -24501,6 +24507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Lake | 37610 | [37610-splash-lake.json](./37610-splash-lake.json) |
 | Splash of Color | 393631 | [393631-splash-of-color.json](./393631-splash-of-color.json) |
 | Splash Out! | 258686 | [258686-splash-out.json](./258686-splash-out.json) |
+| Splash Road | 157252 | [157252-splash-road.json](./157252-splash-road.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splash: O Bichinho Virtual | 300533 | [300533-splash-o-bichinho-virtual.json](./300533-splash-o-bichinho-virtual.json) |
