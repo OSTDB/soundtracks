@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rampant | 304417 | [304417-red-rampant.json](./304417-red-rampant.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Red Tarmac: XL Deluxe | 294613 | [294613-red-red-tarmac-xl-deluxe.json](./294613-red-red-tarmac-xl-deluxe.json) |
+| Red Reign | 125510 | [125510-red-reign.json](./125510-red-reign.json) |
 | Red Remover | 143141 | [143141-red-remover.json](./143141-red-remover.json) |
 | Red Remover Blast | 253266 | [253266-red-remover-blast.json](./253266-red-remover-blast.json) |
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
@@ -10570,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketpult | 177128 | [177128-rocketpult.json](./177128-rocketpult.json) |
 | Rocketpult Mini | 339170 | [339170-rocketpult-mini.json](./339170-rocketpult-mini.json) |
 | RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
+| Rocketron | 125487 | [125487-rocketron.json](./125487-rocketron.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rockets Defender | 106054 | [106054-rockets-defender.json](./106054-rockets-defender.json) |
 | Rockets Fucking Everywhere | 62322 | [62322-rockets-fucking-everywhere.json](./62322-rockets-fucking-everywhere.json) |
