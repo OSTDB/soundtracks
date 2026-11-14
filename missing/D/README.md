@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn | 380240 | [380240-dawn.json](./380240-dawn.json) |
 | Dawn After Dusk | 366137 | [366137-dawn-after-dusk.json](./366137-dawn-after-dusk.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
+| Dawn at my Neighbourhood | 132308 | [132308-dawn-at-my-neighbourhood.json](./132308-dawn-at-my-neighbourhood.json) |
 | Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
 | Dawn Bell | 405255 | [405255-dawn-bell.json](./405255-dawn-bell.json) |
 | Dawn Break -Origin- | 117629 | [117629-dawn-break-origin.json](./117629-dawn-break-origin.json) |
@@ -10301,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
 | Digitanks | 53971 | [53971-digitanks.json](./53971-digitanks.json) |
 | DigitDash3 | 412705 | [412705-digitdash3.json](./412705-digitdash3.json) |
+| Digitizer | 132297 | [132297-digitizer.json](./132297-digitizer.json) |
 | Digitris | 267866 | [267866-digitris.json](./267866-digitris.json) |
 | Digits | 245515 | [245515-digits.json](./245515-digits.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
