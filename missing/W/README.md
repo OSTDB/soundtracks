@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
 | Waterpark Simulator 25 | 371604 | [371604-waterpark-simulator-25.json](./371604-waterpark-simulator-25.json) |
 | Waterpark Tycoon | 53133 | [53133-waterpark-tycoon.json](./53133-waterpark-tycoon.json) |
+| WaterPolo Inter Nation | 150707 | [150707-waterpolo-inter-nation.json](./150707-waterpolo-inter-nation.json) |
 | Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
 | Waterputer | 402128 | [402128-waterputer.json](./402128-waterputer.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why is the Princess in a Magic Forest?! | 31577 | [31577-why-is-the-princess-in-a-magic-forest.json](./31577-why-is-the-princess-in-a-magic-forest.json) |
 | Why Is There A Girl In My House?! | 128418 | [128418-why-is-there-a-girl-in-my-house.json](./128418-why-is-there-a-girl-in-my-house.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
+| Why It's Empty Here: The Game | 150801 | [150801-why-its-empty-here-the-game.json](./150801-why-its-empty-here-the-game.json) |
 | Why Jeff | 183297 | [183297-why-jeff.json](./183297-why-jeff.json) |
 | Why Jump | 342499 | [342499-why-jump.json](./342499-why-jump.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
@@ -7368,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard of Legend Mobile | 174701 | [174701-wizard-of-legend-mobile.json](./174701-wizard-of-legend-mobile.json) |
 | Wizard of the 4 Corners | 301903 | [301903-wizard-of-the-4-corners.json](./301903-wizard-of-the-4-corners.json) |
 | Wizard of Wall Street | 68043 | [68043-wizard-of-wall-street.json](./68043-wizard-of-wall-street.json) |
+| Wizard of Walls | 150718 | [150718-wizard-of-walls.json](./150718-wizard-of-walls.json) |
 | Wizard of White Box | 124465 | [124465-wizard-of-white-box.json](./124465-wizard-of-white-box.json) |
 | Wizard of Wings | 309550 | [309550-wizard-of-wings.json](./309550-wizard-of-wings.json) |
 | Wizard of Wor | 282083 | [282083-wizard-of-wor.json](./282083-wizard-of-wor.json) |
