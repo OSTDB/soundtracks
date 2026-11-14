@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
 | Quadron | 113349 | [113349-quadron.json](./113349-quadron.json) |
 | Quadropus Rampage | 39180 | [39180-quadropus-rampage.json](./39180-quadropus-rampage.json) |
+| Quadrox Lite | 100403 | [100403-quadrox-lite.json](./100403-quadrox-lite.json) |
 | QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
 | Quadrun | 40713 | [40713-quadrun.json](./40713-quadrun.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
