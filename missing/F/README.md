@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 14: Fourth Color | 32397 | [32397-fantasy-mosaics-14-fourth-color.json](./32397-fantasy-mosaics-14-fourth-color.json) |
 | Fantasy Mosaics 17: New Palette | 38777 | [38777-fantasy-mosaics-17-new-palette.json](./38777-fantasy-mosaics-17-new-palette.json) |
 | Fantasy Mosaics 18: Explore New Colors | 38778 | [38778-fantasy-mosaics-18-explore-new-colors.json](./38778-fantasy-mosaics-18-explore-new-colors.json) |
+| Fantasy Mosaics 19: Edge of the World | 86281 | [86281-fantasy-mosaics-19-edge-of-the-world.json](./86281-fantasy-mosaics-19-edge-of-the-world.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
 | Fantasy Mosaics 20: Castle of Puzzles | 86293 | [86293-fantasy-mosaics-20-castle-of-puzzles.json](./86293-fantasy-mosaics-20-castle-of-puzzles.json) |
 | Fantasy Mosaics 21: On the Movie Set | 86398 | [86398-fantasy-mosaics-21-on-the-movie-set.json](./86398-fantasy-mosaics-21-on-the-movie-set.json) |
