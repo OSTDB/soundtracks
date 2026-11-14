@@ -5156,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reikai Doushi | 40390 | [40390-reikai-doushi.json](./40390-reikai-doushi.json) |
 | Reikai Nikki | 269900 | [269900-reikai-nikki.json](./269900-reikai-nikki.json) |
 | Reiko's Fragments | 125118 | [125118-reikos-fragments.json](./125118-reikos-fragments.json) |
+| Reikoku: Ikeda Kizoku Shinrei Kenkyuujo | 115858 | [115858-reikoku-ikeda-kizoku-shinrei-kenkyuujo.json](./115858-reikoku-ikeda-kizoku-shinrei-kenkyuujo.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
 | Reilla: Sweets Adventure | 220484 | [220484-reilla-sweets-adventure.json](./220484-reilla-sweets-adventure.json) |
@@ -6750,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Robots 2D | 319402 | [319402-retro-robots-2d.json](./319402-retro-robots-2d.json) |
 | Retro Rocket Raiders | 249514 | [249514-retro-rocket-raiders.json](./249514-retro-rocket-raiders.json) |
 | Retro Rocket Robot | 97081 | [97081-retro-rocket-robot.json](./97081-retro-rocket-robot.json) |
+| Retro Rockets | 115933 | [115933-retro-rockets.json](./115933-retro-rockets.json) |
 | Retro Rollers Bundle | 254076 | [254076-retro-rollers-bundle.json](./254076-retro-rollers-bundle.json) |
 | Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
