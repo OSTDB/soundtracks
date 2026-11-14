@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer 2 Reloaded | 165593 | [165593-hammer-2-reloaded.json](./165593-hammer-2-reloaded.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
 | Hammer Bees | 57802 | [57802-hammer-bees.json](./57802-hammer-bees.json) |
+| Hammer Bomb | 134732 | [134732-hammer-bomb.json](./134732-hammer-bomb.json) |
 | Hammer Boy | 70460 | [70460-hammer-boy.json](./70460-hammer-boy.json) |
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer Champ | 337564 | [337564-hammer-champ.json](./337564-hammer-champ.json) |
@@ -14052,6 +14053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | Hyperplane | 427850 | [427850-hyperplane.json](./427850-hyperplane.json) |
 | Hyperplasm | 142656 | [142656-hyperplasm.json](./142656-hyperplasm.json) |
+| Hyperplex 3D | 134722 | [134722-hyperplex-3d.json](./134722-hyperplex-3d.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | Hyperquiz | 391406 | [391406-hyperquiz.json](./391406-hyperquiz.json) |
