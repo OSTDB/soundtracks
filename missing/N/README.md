@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
 | Netveil | 341368 | [341368-netveil.json](./341368-netveil.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
+| Netwar | 81562 | [81562-netwar.json](./81562-netwar.json) |
 | NetWars | 14505 | [14505-netwars.json](./14505-netwars.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 147404 | [147404-network.json](./147404-network.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nifty League | 184289 | [184289-nifty-league.json](./184289-nifty-league.json) |
 | Nifty Smashers | 331616 | [331616-nifty-smashers.json](./331616-nifty-smashers.json) |
 | NiftyVille | 178174 | [178174-niftyville.json](./178174-niftyville.json) |
+| Nigaoe Artist | 84420 | [84420-nigaoe-artist.json](./84420-nigaoe-artist.json) |
 | Nigate Tale | 139175 | [139175-nigate-tale.json](./139175-nigate-tale.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
 | Nigel | 134885 | [134885-nigel.json](./134885-nigel.json) |
@@ -5261,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
 | Nightwatch | 272599 | [272599-nightwatch.json](./272599-nightwatch.json) |
 | Nightwatch | 81339 | [81339-nightwatch.json](./81339-nightwatch.json) |
+| Nightwatch | 81506 | [81506-nightwatch.json](./81506-nightwatch.json) |
 | Nightwatch at the Hopkins' Cliffside | 371597 | [371597-nightwatch-at-the-hopkins-cliffside.json](./371597-nightwatch-at-the-hopkins-cliffside.json) |
 | Nightwatch at the Museum | 415874 | [415874-nightwatch-at-the-museum.json](./415874-nightwatch-at-the-museum.json) |
 | Nightwatch: Nightmare Creatures | 275361 | [275361-nightwatch-nightmare-creatures.json](./275361-nightwatch-nightmare-creatures.json) |
