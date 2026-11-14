@@ -14725,6 +14725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Thriller: Steamed Potato Edition | 32432 | [32432-potato-thriller-steamed-potato-edition.json](./32432-potato-thriller-steamed-potato-edition.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
 | Potato's Dream | 164958 | [164958-potatos-dream.json](./164958-potatos-dream.json) |
+| Potatoe | 86289 | [86289-potatoe.json](./86289-potatoe.json) |
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
 | Potatogeddon | 370603 | [370603-potatogeddon.json](./370603-potatogeddon.json) |
 | Potatoman Seeks the Troof | 36224 | [36224-potatoman-seeks-the-troof.json](./36224-potatoman-seeks-the-troof.json) |
@@ -19505,6 +19506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Porcelain Smile | 140277 | [140277-puppetshow-porcelain-smile.json](./140277-puppetshow-porcelain-smile.json) |
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: Return to Joyville | 140278 | [140278-puppetshow-return-to-joyville.json](./140278-puppetshow-return-to-joyville.json) |
+| PuppetShow: Return to Joyville - Collector's Edition | 86284 | [86284-puppetshow-return-to-joyville-collectors-edition.json](./86284-puppetshow-return-to-joyville-collectors-edition.json) |
 | PuppetShow: Souls of the Innocent | 140279 | [140279-puppetshow-souls-of-the-innocent.json](./140279-puppetshow-souls-of-the-innocent.json) |
 | PuppetShow: Souls of the Innocent - Collector's Edition | 47695 | [47695-puppetshow-souls-of-the-innocent-collectors-edition.json](./47695-puppetshow-souls-of-the-innocent-collectors-edition.json) |
 | PuppetShow: The Curse of Ophelia - Collector's Edition | 369298 | [369298-puppetshow-the-curse-of-ophelia-collectors-edition.json](./369298-puppetshow-the-curse-of-ophelia-collectors-edition.json) |
@@ -20653,6 +20655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler - Arrowwords , Crosswords & Wordsearch Volume One | 25451 | [25451-puzzler-arrowwords-crosswords-and-wordsearch-volume-one.json](./25451-puzzler-arrowwords-crosswords-and-wordsearch-volume-one.json) |
+| Puzzler - Arrowwords , Crosswords & Wordsearch Volume Two | 85691 | [85691-puzzler-arrowwords-crosswords-and-wordsearch-volume-two.json](./85691-puzzler-arrowwords-crosswords-and-wordsearch-volume-two.json) |
 | Puzzler Brain Games | 84788 | [84788-puzzler-brain-games.json](./84788-puzzler-brain-games.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzler Collection | 47726 | [47726-puzzler-collection.json](./47726-puzzler-collection.json) |
