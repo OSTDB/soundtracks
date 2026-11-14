@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Chark | 141243 | [141243-land-of-chark.json](./141243-land-of-chark.json) |
 | Land Of Chasers | 278409 | [278409-land-of-chasers.json](./278409-land-of-chasers.json) |
 | Land of Crystals | 266600 | [266600-land-of-crystals.json](./266600-land-of-crystals.json) |
+| Land of Dread | 114469 | [114469-land-of-dread.json](./114469-land-of-dread.json) |
 | Land of Empires: Immortal | 194128 | [194128-land-of-empires-immortal.json](./194128-land-of-empires-immortal.json) |
 | Land of Eno | 193775 | [193775-land-of-eno.json](./193775-land-of-eno.json) |
 | Land of Foot | 192657 | [192657-land-of-foot.json](./192657-land-of-foot.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Legacy | 172442 | [172442-last-legacy.json](./172442-last-legacy.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Lesson | 266085 | [266085-last-lesson.json](./266085-last-lesson.json) |
+| Last Letter | 114473 | [114473-last-letter.json](./114473-last-letter.json) |
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
 | Last Life | 58430 | [58430-last-life.json](./58430-last-life.json) |
 | Last Light | 163779 | [163779-last-light.json](./163779-last-light.json) |
@@ -6443,6 +6445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Briar Rose | 30541 | [30541-little-briar-rose.json](./30541-little-briar-rose.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
+| Little Broken Robots | 113975 | [113975-little-broken-robots.json](./113975-little-broken-robots.json) |
 | Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
 | Little Brother's Turn | 155814 | [155814-little-brothers-turn.json](./155814-little-brothers-turn.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hentai: Endgame | 286403 | [286403-love-hentai-endgame.json](./286403-love-hentai-endgame.json) |
 | Love Hentai: Fap Fast, Die Young | 367021 | [367021-love-hentai-fap-fast-die-young.json](./367021-love-hentai-fap-fast-die-young.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
+| Love Hero | 114486 | [114486-love-hero.json](./114486-love-hero.json) |
 | Love Hex | 326847 | [326847-love-hex.json](./326847-love-hex.json) |
 | Love Hina 2: Kotoba wa Konayuki no You ni | 43837 | [43837-love-hina-2-kotoba-wa-konayuki-no-you-ni.json](./43837-love-hina-2-kotoba-wa-konayuki-no-you-ni.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
