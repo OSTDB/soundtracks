@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
 | Rainbow Dawn | 225809 | [225809-rainbow-dawn.json](./225809-rainbow-dawn.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
+| Rainbow Draw | 90970 | [90970-rainbow-draw.json](./90970-rainbow-draw.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
 | Rainbow Duck | 51605 | [51605-rainbow-duck.json](./51605-rainbow-duck.json) |
 | Rainbow Expansion 3 | 332877 | [332877-rainbow-expansion-3.json](./332877-rainbow-expansion-3.json) |
@@ -4814,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reeelz | 348952 | [348952-reeelz.json](./348952-reeelz.json) |
 | Reef Escape | 56807 | [56807-reef-escape.json](./56807-reef-escape.json) |
 | Reef Light Conundrum | 285405 | [285405-reef-light-conundrum.json](./285405-reef-light-conundrum.json) |
+| Reef Rescue: Match 3 Adventure | 90960 | [90960-reef-rescue-match-3-adventure.json](./90960-reef-rescue-match-3-adventure.json) |
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Rumble | 186469 | [186469-reef-rumble.json](./186469-reef-rumble.json) |
 | Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
@@ -10596,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
 | Rocket: Robot on Wheels | 2644 | [2644-rocket-robot-on-wheels.json](./2644-rocket-robot-on-wheels.json) |
+| Rocket's Renegades - Awesomenauts Assemble! Character Pack | 90983 | [90983-rockets-renegades-awesomenauts-assemble-character-pack.json](./90983-rockets-renegades-awesomenauts-assemble-character-pack.json) |
 | Rocket1994 | 411352 | [411352-rocket1994.json](./411352-rocket1994.json) |
 | Rocketball | 47184 | [47184-rocketball.json](./47184-rocketball.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
@@ -14519,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | Rxcovery | 83358 | [83358-rxcovery.json](./83358-rxcovery.json) |
+| RXE | 90978 | [90978-rxe.json](./90978-rxe.json) |
 | RXN: Raijin | 75959 | [75959-rxn-raijin.json](./75959-rxn-raijin.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryahs Rhythm | 327534 | [327534-ryahs-rhythm.json](./327534-ryahs-rhythm.json) |
