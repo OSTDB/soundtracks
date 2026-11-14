@@ -6944,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of Memory | 48014 | [48014-piece-of-memory.json](./48014-piece-of-memory.json) |
 | Piece of Memory 2: Prologue | 48010 | [48010-piece-of-memory-2-prologue.json](./48010-piece-of-memory-2-prologue.json) |
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
+| Piece of Princess Cake | 101834 | [101834-piece-of-princess-cake.json](./101834-piece-of-princess-cake.json) |
 | Piece of Ship | 393196 | [393196-piece-of-ship.json](./393196-piece-of-ship.json) |
 | Piece of the Pie Pursuit | 97155 | [97155-piece-of-the-pie-pursuit.json](./97155-piece-of-the-pie-pursuit.json) |
 | Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
@@ -9515,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel vs. Zombies | 381159 | [381159-pixel-vs-zombies.json](./381159-pixel-vs-zombies.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel War | 54855 | [54855-pixel-war.json](./54855-pixel-war.json) |
+| Pixel Warfare 4 | 101836 | [101836-pixel-warfare-4.json](./101836-pixel-warfare-4.json) |
 | Pixel Warrior | 340098 | [340098-pixel-warrior.json](./340098-pixel-warrior.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
@@ -20253,6 +20255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
 | Puzzle Frenzy | 187276 | [187276-puzzle-frenzy.json](./187276-puzzle-frenzy.json) |
 | Puzzle Fruit Merge: Match Game | 376229 | [376229-puzzle-fruit-merge-match-game.json](./376229-puzzle-fruit-merge-match-game.json) |
+| Puzzle Fuzz | 101815 | [101815-puzzle-fuzz.json](./101815-puzzle-fuzz.json) |
 | Puzzle Fuzz: Idle Stories | 102009 | [102009-puzzle-fuzz-idle-stories.json](./102009-puzzle-fuzz-idle-stories.json) |
 | Puzzle Fuzzle | 312651 | [312651-puzzle-fuzzle.json](./312651-puzzle-fuzzle.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
