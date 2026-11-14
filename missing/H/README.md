@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halp! | 32467 | [32467-halp.json](./32467-halp.json) |
 | Halt | 219493 | [219493-halt.json](./219493-halt.json) |
 | Halt the Heist! | 185193 | [185193-halt-the-heist.json](./185193-halt-the-heist.json) |
+| Halunazi | 98621 | [98621-halunazi.json](./98621-halunazi.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | HALVA Studio 2023 Bundle | 308618 | [308618-halva-studio-2023-bundle.json](./308618-halva-studio-2023-bundle.json) |
@@ -3456,6 +3457,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head of the Student Council Himeno: Lewd Manifesto | 82613 | [82613-head-of-the-student-council-himeno-lewd-manifesto.json](./82613-head-of-the-student-council-himeno-lewd-manifesto.json) |
 | Head On | 16971 | [16971-head-on.json](./16971-head-on.json) |
 | Head On | 339852 | [339852-head-on.json](./339852-head-on.json) |
+| Head on 2 | 98611 | [98611-head-on-2.json](./98611-head-on-2.json) |
+| Head on N | 98646 | [98646-head-on-n.json](./98646-head-on-n.json) |
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
 | Head Over Heels | 12138 | [12138-head-over-heels.json](./12138-head-over-heels.json) |
 | Head Over Heels | 121632 | [121632-head-over-heels.json](./121632-head-over-heels.json) |
@@ -7882,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object Vampires Temple | 241213 | [241213-hidden-object-vampires-temple.json](./241213-hidden-object-vampires-temple.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
+| Hidden Object: A Happy Thanksgiving | 98640 | [98640-hidden-object-a-happy-thanksgiving.json](./98640-hidden-object-a-happy-thanksgiving.json) |
 | Hidden Object: Adventures Duke of Richelieu | 233259 | [233259-hidden-object-adventures-duke-of-richelieu.json](./233259-hidden-object-adventures-duke-of-richelieu.json) |
 | Hidden Object: Age of the Dinosaurs | 98352 | [98352-hidden-object-age-of-the-dinosaurs.json](./98352-hidden-object-age-of-the-dinosaurs.json) |
 | Hidden Object: Aliens - The Arrival | 98401 | [98401-hidden-object-aliens-the-arrival.json](./98401-hidden-object-aliens-the-arrival.json) |
@@ -7895,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Be My Valentine | 98554 | [98554-hidden-object-be-my-valentine.json](./98554-hidden-object-be-my-valentine.json) |
 | Hidden Object: Beautiful Places | 98675 | [98675-hidden-object-beautiful-places.json](./98675-hidden-object-beautiful-places.json) |
 | Hidden Object: Bunny Hop | 83642 | [83642-hidden-object-bunny-hop.json](./83642-hidden-object-bunny-hop.json) |
+| Hidden Object: California Dreams | 98654 | [98654-hidden-object-california-dreams.json](./98654-hidden-object-california-dreams.json) |
 | Hidden Object: Candy Crunch | 82177 | [82177-hidden-object-candy-crunch.json](./82177-hidden-object-candy-crunch.json) |
 | Hidden Object: Candyland Sweet Paradise | 83631 | [83631-hidden-object-candyland-sweet-paradise.json](./83631-hidden-object-candyland-sweet-paradise.json) |
 | Hidden Object: Cat Tailz | 82164 | [82164-hidden-object-cat-tailz.json](./82164-hidden-object-cat-tailz.json) |
@@ -7929,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Faries Trail | 98387 | [98387-hidden-object-faries-trail.json](./98387-hidden-object-faries-trail.json) |
 | Hidden Object: Farm Adventure | 83637 | [83637-hidden-object-farm-adventure.json](./83637-hidden-object-farm-adventure.json) |
 | Hidden Object: Find a Diamond Eye - Atlantida Adventure Gold | 238299 | [238299-hidden-object-find-a-diamond-eye-atlantida-adventure-gold.json](./238299-hidden-object-find-a-diamond-eye-atlantida-adventure-gold.json) |
+| Hidden Object: Finding Santa | 98642 | [98642-hidden-object-finding-santa.json](./98642-hidden-object-finding-santa.json) |
 | Hidden Object: Food | 65782 | [65782-hidden-object-food.json](./65782-hidden-object-food.json) |
 | Hidden Object: Forest Haven | 98364 | [98364-hidden-object-forest-haven.json](./98364-hidden-object-forest-haven.json) |
 | Hidden Object: Furball Adventures | 83634 | [83634-hidden-object-furball-adventures.json](./83634-hidden-object-furball-adventures.json) |
@@ -7939,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Ghost of Misty Shore | 98678 | [98678-hidden-object-ghost-of-misty-shore.json](./98678-hidden-object-ghost-of-misty-shore.json) |
 | Hidden Object: Ghostly Night | 98359 | [98359-hidden-object-ghostly-night.json](./98359-hidden-object-ghostly-night.json) |
 | Hidden Object: Golden Trails - Secret of the Princess | 240197 | [240197-hidden-object-golden-trails-secret-of-the-princess.json](./240197-hidden-object-golden-trails-secret-of-the-princess.json) |
+| Hidden Object: Halloween House | 98655 | [98655-hidden-object-halloween-house.json](./98655-hidden-object-halloween-house.json) |
 | Hidden Object: Halloween Time | 98360 | [98360-hidden-object-halloween-time.json](./98360-hidden-object-halloween-time.json) |
 | Hidden Object: Hallows Eve | 98591 | [98591-hidden-object-hallows-eve.json](./98591-hidden-object-hallows-eve.json) |
 | Hidden Object: Happy Christmas | 98661 | [98661-hidden-object-happy-christmas.json](./98661-hidden-object-happy-christmas.json) |
@@ -7949,7 +7956,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Haunted House 3 | 98594 | [98594-hidden-object-haunted-house-3.json](./98594-hidden-object-haunted-house-3.json) |
 | Hidden Object: Haunted House 4 | 98592 | [98592-hidden-object-haunted-house-4.json](./98592-hidden-object-haunted-house-4.json) |
 | Hidden Object: Haunted Museum | 98562 | [98562-hidden-object-haunted-museum.json](./98562-hidden-object-haunted-museum.json) |
+| Hidden Object: Heathcliff! Christmas Time! | 98649 | [98649-hidden-object-heathcliff-christmas-time.json](./98649-hidden-object-heathcliff-christmas-time.json) |
 | Hidden Object: Holidays | 98361 | [98361-hidden-object-holidays.json](./98361-hidden-object-holidays.json) |
+| Hidden Object: Home for the Holidays | 98659 | [98659-hidden-object-home-for-the-holidays.json](./98659-hidden-object-home-for-the-holidays.json) |
 | Hidden Object: Home Kitchen | 83630 | [83630-hidden-object-home-kitchen.json](./83630-hidden-object-home-kitchen.json) |
 | Hidden Object: Home Sweet Home | 83625 | [83625-hidden-object-home-sweet-home.json](./83625-hidden-object-home-sweet-home.json) |
 | Hidden Object: Hugs & Cuddles | 98354 | [98354-hidden-object-hugs-and-cuddles.json](./98354-hidden-object-hugs-and-cuddles.json) |
@@ -7968,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Magician's Quest | 98347 | [98347-hidden-object-magicians-quest.json](./98347-hidden-object-magicians-quest.json) |
 | Hidden Object: Manor Fable | 71206 | [71206-hidden-object-manor-fable.json](./71206-hidden-object-manor-fable.json) |
 | Hidden Object: Marionettes Dolls on Strings | 98348 | [98348-hidden-object-marionettes-dolls-on-strings.json](./98348-hidden-object-marionettes-dolls-on-strings.json) |
+| Hidden Object: Masquerade | 98657 | [98657-hidden-object-masquerade.json](./98657-hidden-object-masquerade.json) |
 | Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
 | Hidden Object: Mother Nature | 83624 | [83624-hidden-object-mother-nature.json](./83624-hidden-object-mother-nature.json) |
@@ -7996,17 +8006,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Sherlock | 82166 | [82166-hidden-object-sherlock.json](./82166-hidden-object-sherlock.json) |
 | Hidden Object: Snow White | 98674 | [98674-hidden-object-snow-white.json](./98674-hidden-object-snow-white.json) |
 | Hidden Object: Soulmates | 98341 | [98341-hidden-object-soulmates.json](./98341-hidden-object-soulmates.json) |
+| Hidden Object: Spirit of Christmas | 98650 | [98650-hidden-object-spirit-of-christmas.json](./98650-hidden-object-spirit-of-christmas.json) |
 | Hidden Object: St. Patrick's Day | 98568 | [98568-hidden-object-st-patricks-day.json](./98568-hidden-object-st-patricks-day.json) |
 | Hidden Object: Stars & Stripes | 98567 | [98567-hidden-object-stars-and-stripes.json](./98567-hidden-object-stars-and-stripes.json) |
 | Hidden Object: Steam City | 98338 | [98338-hidden-object-steam-city.json](./98338-hidden-object-steam-city.json) |
 | Hidden Object: Strange Places | 98580 | [98580-hidden-object-strange-places.json](./98580-hidden-object-strange-places.json) |
 | Hidden Object: Summer's End | 98339 | [98339-hidden-object-summers-end.json](./98339-hidden-object-summers-end.json) |
+| Hidden Object: Sweet Valentine | 98656 | [98656-hidden-object-sweet-valentine.json](./98656-hidden-object-sweet-valentine.json) |
 | Hidden Object: That's Amore | 98321 | [98321-hidden-object-thats-amore.json](./98321-hidden-object-thats-amore.json) |
 | Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
 | Hidden Object: The Fox Says | 98336 | [98336-hidden-object-the-fox-says.json](./98336-hidden-object-the-fox-says.json) |
 | Hidden Object: The Lost Islands | 98351 | [98351-hidden-object-the-lost-islands.json](./98351-hidden-object-the-lost-islands.json) |
 | Hidden Object: The Luck of the Irish | 98563 | [98563-hidden-object-the-luck-of-the-irish.json](./98563-hidden-object-the-luck-of-the-irish.json) |
 | Hidden Object: The Mystery of Zion | 98564 | [98564-hidden-object-the-mystery-of-zion.json](./98564-hidden-object-the-mystery-of-zion.json) |
+| Hidden Object: The Nutcracker | 98641 | [98641-hidden-object-the-nutcracker.json](./98641-hidden-object-the-nutcracker.json) |
 | Hidden Object: The World of Icarus | 98356 | [98356-hidden-object-the-world-of-icarus.json](./98356-hidden-object-the-world-of-icarus.json) |
 | Hidden Object: The Writer's Muse | 98548 | [98548-hidden-object-the-writers-muse.json](./98548-hidden-object-the-writers-muse.json) |
 | Hidden Object: Thumbelina | 98566 | [98566-hidden-object-thumbelina.json](./98566-hidden-object-thumbelina.json) |
@@ -8020,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
 | Hidden Object: Urban Legends | 98332 | [98332-hidden-object-urban-legends.json](./98332-hidden-object-urban-legends.json) |
 | Hidden Object: Victoria & Steve Vikings Adventures | 267337 | [267337-hidden-object-victoria-and-steve-vikings-adventures.json](./267337-hidden-object-victoria-and-steve-vikings-adventures.json) |
+| Hidden Object: Walk the Plank | 98651 | [98651-hidden-object-walk-the-plank.json](./98651-hidden-object-walk-the-plank.json) |
 | Hidden Object: Werewolves - The Nightwalkers | 98571 | [98571-hidden-object-werewolves-the-nightwalkers.json](./98571-hidden-object-werewolves-the-nightwalkers.json) |
 | Hidden Object: Wild Fantasy | 98327 | [98327-hidden-object-wild-fantasy.json](./98327-hidden-object-wild-fantasy.json) |
 | Hidden Object: Winter Wonderland | 98700 | [98700-hidden-object-winter-wonderland.json](./98700-hidden-object-winter-wonderland.json) |
