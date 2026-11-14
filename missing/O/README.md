@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongaku Tsukuuru: Kanadeeru | 44385 | [44385-ongaku-tsukuuru-kanadeeru.json](./44385-ongaku-tsukuuru-kanadeeru.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongaku Tsukuuru: Kanadeeru - Senyou Score Data | 234784 | [234784-ongaku-tsukuuru-kanadeeru-senyou-score-data.json](./234784-ongaku-tsukuuru-kanadeeru-senyou-score-data.json) |
+| Ongeki | 122479 | [122479-ongeki.json](./122479-ongeki.json) |
 | Ongeki Bright | 206150 | [206150-ongeki-bright.json](./206150-ongeki-bright.json) |
 | Ongeki Bright Memory | 281570 | [281570-ongeki-bright-memory.json](./281570-ongeki-bright-memory.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
