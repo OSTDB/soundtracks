@@ -19307,6 +19307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Constructor | 35379 | [35379-bunker-constructor.json](./35379-bunker-constructor.json) |
 | Bunker Constructor Simulator | 326479 | [326479-bunker-constructor-simulator.json](./326479-bunker-constructor-simulator.json) |
 | Bunker Defense | 161631 | [161631-bunker-defense.json](./161631-bunker-defense.json) |
+| Bunker Down | 148602 | [148602-bunker-down.json](./148602-bunker-down.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Game | 305831 | [305831-bunker-game.json](./305831-bunker-game.json) |
@@ -19436,6 +19437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny-Hop | 211482 | [211482-bunny-hop.json](./211482-bunny-hop.json) |
 | Bunny: The Horror Game | 108001 | [108001-bunny-the-horror-game.json](./108001-bunny-the-horror-game.json) |
 | Bunny's Ban | 169499 | [169499-bunnys-ban.json](./169499-bunnys-ban.json) |
+| Bunny's Buddy | 148589 | [148589-bunnys-buddy.json](./148589-bunnys-buddy.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
