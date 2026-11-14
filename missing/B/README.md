@@ -12728,6 +12728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blu Caligo | 295064 | [295064-blu-caligo.json](./295064-blu-caligo.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blu-dude in the Quest of Reality in Time | 346480 | [346480-blu-dude-in-the-quest-of-reality-in-time.json](./346480-blu-dude-in-the-quest-of-reality-in-time.json) |
+| Blu: Chronicles of Talpa | 142512 | [142512-blu-chronicles-of-talpa.json](./142512-blu-chronicles-of-talpa.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blub Emporium | 158418 | [158418-blub-emporium.json](./158418-blub-emporium.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
