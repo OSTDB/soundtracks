@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Shadow | 217095 | [217095-hand-shadow.json](./217095-hand-shadow.json) |
 | Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
 | Hand Simulator: Aliens | 264579 | [264579-hand-simulator-aliens.json](./264579-hand-simulator-aliens.json) |
+| Hand Simulator: Horror | 157726 | [157726-hand-simulator-horror.json](./157726-hand-simulator-horror.json) |
 | Hand Simulator: Rendezvous | 220031 | [220031-hand-simulator-rendezvous.json](./220031-hand-simulator-rendezvous.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand Simulator: Survival | 127156 | [127156-hand-simulator-survival.json](./127156-hand-simulator-survival.json) |
@@ -2028,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard as Nails | 371636 | [371636-hard-as-nails.json](./371636-hard-as-nails.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Battle | 268903 | [268903-hard-battle.json](./268903-hard-battle.json) |
+| Hard Block Girls | 157752 | [157752-hard-block-girls.json](./157752-hard-block-girls.json) |
 | Hard Block Girls: Sex Life | 199814 | [199814-hard-block-girls-sex-life.json](./199814-hard-block-girls-sex-life.json) |
 | Hard Boiled | 228883 | [228883-hard-boiled.json](./228883-hard-boiled.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
