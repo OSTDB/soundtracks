@@ -23173,6 +23173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Melody: Negai ga Kanau Fushigi na Hako | 97813 | [97813-my-melody-negai-ga-kanau-fushigi-na-hako.json](./97813-my-melody-negai-ga-kanau-fushigi-na-hako.json) |
 | My Memorial Lover | 299623 | [299623-my-memorial-lover.json](./299623-my-memorial-lover.json) |
+| My Memory of Us: Collector's Edition | 124850 | [124850-my-memory-of-us-collectors-edition.json](./124850-my-memory-of-us-collectors-edition.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry May | 247400 | [247400-my-merry-may.json](./247400-my-merry-may.json) |
 | My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
