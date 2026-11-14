@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks!!! | 91260 | [91260-tanks.json](./91260-tanks.json) |
+| Tanks.V.S | 90943 | [90943-tanks-v-s.json](./90943-tanks-v-s.json) |
 | Tanks+: New Era | 237146 | [237146-tanks-new-era.json](./237146-tanks-new-era.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
 | Tanktics | 11780 | [11780-tanktics.json](./11780-tanktics.json) |
@@ -5174,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | TerTD | 120731 | [120731-tertd.json](./120731-tertd.json) |
 | Terunyan to Amanoiwato | 298100 | [298100-terunyan-to-amanoiwato.json](./298100-terunyan-to-amanoiwato.json) |
+| Terwilliger | 90944 | [90944-terwilliger.json](./90944-terwilliger.json) |
 | Teryndor: Caelorn’s Quest | 390850 | [390850-teryndor-caelorn-s-quest.json](./390850-teryndor-caelorn-s-quest.json) |
 | Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
 | Tesco: Delivery Dash | 274994 | [274994-tesco-delivery-dash.json](./274994-tesco-delivery-dash.json) |
@@ -10114,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
 | The Facility Project | 172942 | [172942-the-facility-project.json](./172942-the-facility-project.json) |
 | The Factory | 359659 | [359659-the-factory.json](./359659-the-factory.json) |
+| The Factory | 90940 | [90940-the-factory.json](./90940-the-factory.json) |
 | The Factory in the Shadows | 423067 | [423067-the-factory-in-the-shadows.json](./423067-the-factory-in-the-shadows.json) |
 | The Factory Must Fall | 394065 | [394065-the-factory-must-fall.json](./394065-the-factory-must-fall.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
@@ -16065,6 +16068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
 | The Open House | 141389 | [141389-the-open-house.json](./141389-the-open-house.json) |
 | The Open League | 367999 | [367999-the-open-league.json](./367999-the-open-league.json) |
+| The Open Racing Car Simulator | 90951 | [90951-the-open-racing-car-simulator.json](./90951-the-open-racing-car-simulator.json) |
 | The Open Sky | 181135 | [181135-the-open-sky.json](./181135-the-open-sky.json) |
 | The Open World Survival Craft Hunters | 235819 | [235819-the-open-world-survival-craft-hunters.json](./235819-the-open-world-survival-craft-hunters.json) |
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
@@ -21846,6 +21850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
 | Theta and Paralldoxs on Worldlines | 317165 | [317165-theta-and-paralldoxs-on-worldlines.json](./317165-theta-and-paralldoxs-on-worldlines.json) |
+| Theta Poker Pro-Texas Hold 'Em | 90969 | [90969-theta-poker-pro-texas-hold-em.json](./90969-theta-poker-pro-texas-hold-em.json) |
 | Thetaball | 81831 | [81831-thetaball.json](./81831-thetaball.json) |
 | Thetan Arena | 172547 | [172547-thetan-arena.json](./172547-thetan-arena.json) |
 | Thetan Rivals | 271329 | [271329-thetan-rivals.json](./271329-thetan-rivals.json) |
@@ -25325,6 +25330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
 | Time and Space Legacy | 374029 | [374029-time-and-space-legacy.json](./374029-time-and-space-legacy.json) |
 | Time and Summon | 208082 | [208082-time-and-summon.json](./208082-time-and-summon.json) |
+| Time and Tune | 90942 | [90942-time-and-tune.json](./90942-time-and-tune.json) |
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
@@ -28642,6 +28648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torimodosu | 89607 | [89607-torimodosu.json](./89607-torimodosu.json) |
 | Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
 | Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
+| Torino-X | 90939 | [90939-torino-x.json](./90939-torino-x.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Torinto | 123868 | [123868-torinto.json](./123868-torinto.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
@@ -30074,6 +30081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower RE | 269896 | [269896-tower-re.json](./269896-tower-re.json) |
+| Tower Revolution | 90941 | [90941-tower-revolution.json](./90941-tower-revolution.json) |
 | Tower Rumble | 57805 | [57805-tower-rumble.json](./57805-tower-rumble.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Sim: Pixel Tycoon City | 174966 | [174966-tower-sim-pixel-tycoon-city.json](./174966-tower-sim-pixel-tycoon-city.json) |
@@ -30371,6 +30379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
 | Toxa | 169822 | [169822-toxa.json](./169822-toxa.json) |
 | Toxastra | 132699 | [132699-toxastra.json](./132699-toxastra.json) |
+| Toxic | 90946 | [90946-toxic.json](./90946-toxic.json) |
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
@@ -35788,6 +35797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
+| TT Isle of Man: Ride on the Edge - Day One Edition | 90957 | [90957-tt-isle-of-man-ride-on-the-edge-day-one-edition.json](./90957-tt-isle-of-man-ride-on-the-edge-day-one-edition.json) |
 | TT Isle of Man: Ride on the Edge - Sidecar Thrill | 170793 | [170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./170793-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
 | TT Isle of Man: Ride on the Edge - Sidecar Thrill | 91203 | [91203-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json](./91203-tt-isle-of-man-ride-on-the-edge-sidecar-thrill.json) |
 | TT Isle of Man: Ride on the Edge 2 | 129800 | [129800-tt-isle-of-man-ride-on-the-edge-2.json](./129800-tt-isle-of-man-ride-on-the-edge-2.json) |
