@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach Coin | 128120 | [128120-reach-coin.json](./128120-reach-coin.json) |
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
 | Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
+| Reach for the Stars | 136513 | [136513-reach-for-the-stars.json](./136513-reach-for-the-stars.json) |
 | Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
 | Reach Me | 76362 | [76362-reach-me.json](./76362-reach-me.json) |
 | Reach of the River | 419927 | [419927-reach-of-the-river.json](./419927-reach-of-the-river.json) |
@@ -11953,6 +11954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room | 276984 | [276984-room.json](./276984-room.json) |
 | Room | 291092 | [291092-room.json](./291092-room.json) |
 | Room | 293847 | [293847-room.json](./293847-room.json) |
+| Room 0 | 136518 | [136518-room-0.json](./136518-room-0.json) |
 | Room 0 | 410478 | [410478-room-0.json](./410478-room-0.json) |
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
 | Room 13 | 173324 | [173324-room-13.json](./173324-room-13.json) |
