@@ -4580,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero | 377498 | [377498-aero.json](./377498-aero.json) |
+| Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
 | Aero Battle | 158892 | [158892-aero-battle.json](./158892-aero-battle.json) |
 | Aero Battle Royale | 311922 | [311922-aero-battle-royale.json](./311922-aero-battle-royale.json) |
 | Aero Chimera | 241759 | [241759-aero-chimera.json](./241759-aero-chimera.json) |
@@ -8452,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All You Can Eat | 27896 | [27896-all-you-can-eat.json](./27896-all-you-can-eat.json) |
 | All You Can Fish! | 398056 | [398056-all-you-can-fish.json](./398056-all-you-can-fish.json) |
 | All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
+| All You Can Shoot | 115257 | [115257-all-you-can-shoot.json](./115257-all-you-can-shoot.json) |
 | All You Can Take | 289662 | [289662-all-you-can-take.json](./289662-all-you-can-take.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
 | All You Need is Help | 299592 | [299592-all-you-need-is-help.json](./299592-all-you-need-is-help.json) |
@@ -13225,6 +13227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aposis: Infinity Hero | 387448 | [387448-aposis-infinity-hero.json](./387448-aposis-infinity-hero.json) |
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
+| Apostatic: Revenge From Hell | 115845 | [115845-apostatic-revenge-from-hell.json](./115845-apostatic-revenge-from-hell.json) |
 | Apostle | 115592 | [115592-apostle.json](./115592-apostle.json) |
 | Apostle 3D | 150358 | [150358-apostle-3d.json](./150358-apostle-3d.json) |
 | Apostle: Rebellion | 173199 | [173199-apostle-rebellion.json](./173199-apostle-rebellion.json) |
