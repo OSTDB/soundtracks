@@ -8625,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Goes Right | 61907 | [61907-sheep-goes-right.json](./61907-sheep-goes-right.json) |
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
 | Sheep in Dreams | 383992 | [383992-sheep-in-dreams.json](./383992-sheep-in-dreams.json) |
+| Sheep in Hell | 122490 | [122490-sheep-in-hell.json](./122490-sheep-in-hell.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
 | Sheep in Wolf's Clothing | 288008 | [288008-sheep-in-wolfs-clothing.json](./288008-sheep-in-wolfs-clothing.json) |
@@ -12554,6 +12555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SinEater | 415666 | [415666-sineater.json](./415666-sineater.json) |
 | Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
 | Sinergy | 268964 | [268964-sinergy.json](./268964-sinergy.json) |
+| Sinespace | 122467 | [122467-sinespace.json](./122467-sinespace.json) |
 | Sinesperia | 317471 | [317471-sinesperia.json](./317471-sinesperia.json) |
 | Sineus Arena Survivors | 384856 | [384856-sineus-arena-survivors.json](./384856-sineus-arena-survivors.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
@@ -18410,6 +18412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Klondike Minimal | 147646 | [147646-solitaire-klondike-minimal.json](./147646-solitaire-klondike-minimal.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Knights | 93747 | [93747-solitaire-knights.json](./93747-solitaire-knights.json) |
+| Solitaire Legend of the Pirates | 122473 | [122473-solitaire-legend-of-the-pirates.json](./122473-solitaire-legend-of-the-pirates.json) |
 | Solitaire Legend of the Pirates 2 | 124388 | [124388-solitaire-legend-of-the-pirates-2.json](./124388-solitaire-legend-of-the-pirates-2.json) |
 | Solitaire Legend of the Pirates 3 | 124387 | [124387-solitaire-legend-of-the-pirates-3.json](./124387-solitaire-legend-of-the-pirates-3.json) |
 | Solitaire Legends Collection | 53627 | [53627-solitaire-legends-collection.json](./53627-solitaire-legends-collection.json) |
@@ -23536,6 +23539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellborn | 251759 | [251759-spellborn.json](./251759-spellborn.json) |
 | Spellborne | 230198 | [230198-spellborne.json](./230198-spellborne.json) |
 | Spellbounce | 281328 | [281328-spellbounce.json](./281328-spellbounce.json) |
+| Spellbound | 122469 | [122469-spellbound.json](./122469-spellbound.json) |
 | Spellbound | 12361 | [12361-spellbound.json](./12361-spellbound.json) |
 | Spellbound | 15482 | [15482-spellbound.json](./15482-spellbound.json) |
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
@@ -29268,6 +29272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
 | Stellar Sweeper | 208700 | [208700-stellar-sweeper.json](./208700-stellar-sweeper.json) |
+| Stellar Swing | 122464 | [122464-stellar-swing.json](./122464-stellar-swing.json) |
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
@@ -30400,6 +30405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Universe | 122915 | [122915-story-universe.json](./122915-story-universe.json) |
 | Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
 | Story Warriors: Fairy Tales | 58594 | [58594-story-warriors-fairy-tales.json](./58594-story-warriors-fairy-tales.json) |
+| Story: The Afterlife Heaven of Hell | 122456 | [122456-story-the-afterlife-heaven-of-hell.json](./122456-story-the-afterlife-heaven-of-hell.json) |
 | StoryArcana | 138842 | [138842-storyarcana.json](./138842-storyarcana.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
@@ -33162,6 +33168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports: Paradise Island | 5197 | [5197-summer-sports-paradise-island.json](./5197-summer-sports-paradise-island.json) |
 | Summer Sprint | 262771 | [262771-summer-sprint.json](./262771-summer-sprint.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
+| Summer Sweetheart | 122443 | [122443-summer-sweetheart.json](./122443-summer-sweetheart.json) |
 | Summer Time Render: Another Horizon | 233927 | [233927-summer-time-render-another-horizon.json](./233927-summer-time-render-another-horizon.json) |
 | Summer times Afternoon | 30032 | [30032-summer-times-afternoon.json](./30032-summer-times-afternoon.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
@@ -33931,6 +33938,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brain Cube | 159435 | [159435-super-brain-cube.json](./159435-super-brain-cube.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
+| Super Brain Tease: Geography Edition | 122486 | [122486-super-brain-tease-geography-edition.json](./122486-super-brain-tease-geography-edition.json) |
+| Super Brain Tease: History Edition | 122485 | [122485-super-brain-tease-history-edition.json](./122485-super-brain-tease-history-edition.json) |
+| Super Brain Tease: Movies Edition | 122484 | [122484-super-brain-tease-movies-edition.json](./122484-super-brain-tease-movies-edition.json) |
+| Super Brain Tease: Music Edition | 122483 | [122483-super-brain-tease-music-edition.json](./122483-super-brain-tease-music-edition.json) |
 | Super Brawl | 63640 | [63640-super-brawl.json](./63640-super-brawl.json) |
 | Super Brawl 2 | 63641 | [63641-super-brawl-2.json](./63641-super-brawl-2.json) |
 | Super Brawl 3: Good vs. Evil | 63643 | [63643-super-brawl-3-good-vs-evil.json](./63643-super-brawl-3-good-vs-evil.json) |
@@ -34585,6 +34596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
+| Super Hiking League | 122444 | [122444-super-hiking-league.json](./122444-super-hiking-league.json) |
 | Super Hiking League DX | 163174 | [163174-super-hiking-league-dx.json](./163174-super-hiking-league-dx.json) |
 | Super Hiking Simulator 2020 | 129990 | [129990-super-hiking-simulator-2020.json](./129990-super-hiking-simulator-2020.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
@@ -34836,6 +34848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Jump Soccer | 188363 | [188363-super-jump-soccer.json](./188363-super-jump-soccer.json) |
+| Super Jumpy Ball | 122482 | [122482-super-jumpy-ball.json](./122482-super-jumpy-ball.json) |
 | Super Jungle Wrestling | 184559 | [184559-super-jungle-wrestling.json](./184559-super-jungle-wrestling.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
 | Super Junkoid | 263863 | [263863-super-junkoid.json](./263863-super-junkoid.json) |
@@ -38946,6 +38959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Wedding | 339432 | [339432-sweet-wedding.json](./339432-sweet-wedding.json) |
 | Sweet Wife | 389633 | [389633-sweet-wife.json](./389633-sweet-wife.json) |
 | Sweet Winter | 339431 | [339431-sweet-winter.json](./339431-sweet-winter.json) |
+| Sweet Witches | 122489 | [122489-sweet-witches.json](./122489-sweet-witches.json) |
 | Sweet X'mas | 326183 | [326183-sweet-xmas.json](./326183-sweet-xmas.json) |
 | Sweet Zodiac 1 | 339429 | [339429-sweet-zodiac-1.json](./339429-sweet-zodiac-1.json) |
 | Sweet Zodiac 2 | 339428 | [339428-sweet-zodiac-2.json](./339428-sweet-zodiac-2.json) |
@@ -39191,6 +39205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
 | Switchquiz | 71302 | [71302-switchquiz.json](./71302-switchquiz.json) |
 | SwitchTrack | 381532 | [381532-switchtrack.json](./381532-switchtrack.json) |
+| Switchy Road | 122488 | [122488-switchy-road.json](./122488-switchy-road.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
@@ -39775,6 +39790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
 | Synchrobeatings | 333707 | [333707-synchrobeatings.json](./333707-synchrobeatings.json) |
 | Synchrom | 34710 | [34710-synchrom.json](./34710-synchrom.json) |
+| Synchronica | 122480 | [122480-synchronica.json](./122480-synchronica.json) |
 | Synchronicity | 223400 | [223400-synchronicity.json](./223400-synchronicity.json) |
 | Synchronite_Drive1 | 383744 | [383744-synchronite-drive1.json](./383744-synchronite-drive1.json) |
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
