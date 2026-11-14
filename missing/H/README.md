@@ -10994,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hopper Copper | 14117 | [14117-hopper-copper.json](./14117-hopper-copper.json) |
 | Hopper Hunt | 245200 | [245200-hopper-hunt.json](./245200-hopper-hunt.json) |
+| Hopper Rabbit | 113085 | [113085-hopper-rabbit.json](./113085-hopper-rabbit.json) |
 | Hopper Robo | 40057 | [40057-hopper-robo.json](./40057-hopper-robo.json) |
 | Hoppi's Adventure | 336402 | [336402-hoppis-adventure.json](./336402-hoppis-adventure.json) |
 | Hoppie | 209882 | [209882-hoppie.json](./209882-hoppie.json) |
@@ -13395,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Legacy | 24022 | [24022-hunters-legacy.json](./24022-hunters-legacy.json) |
 | Hunter's Legacy | 315945 | [315945-hunters-legacy.json](./315945-hunters-legacy.json) |
+| Hunter's Legacy: Purrfect Edition | 113081 | [113081-hunters-legacy-purrfect-edition.json](./113081-hunters-legacy-purrfect-edition.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Moon | 37310 | [37310-hunters-moon.json](./37310-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
