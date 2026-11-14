@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitaland | 415843 | [415843-capitaland.json](./415843-capitaland.json) |
 | CapitalCraft | 391461 | [391461-capitalcraft.json](./391461-capitalcraft.json) |
 | Capitale | 330772 | [330772-capitale.json](./330772-capitale.json) |
+| Capitalism | 113976 | [113976-capitalism.json](./113976-capitalism.json) |
 | Capitalism | 9210 | [9210-capitalism.json](./9210-capitalism.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
+| Card Adventures | 114490 | [114490-card-adventures.json](./114490-card-adventures.json) |
 | Card Age | 258590 | [258590-card-age.json](./258590-card-age.json) |
 | Card Apocalypse | 148839 | [148839-card-apocalypse.json](./148839-card-apocalypse.json) |
 | Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
@@ -8646,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
 | Chocolate makes you happy: Lunar New Year | 115615 | [115615-chocolate-makes-you-happy-lunar-new-year.json](./115615-chocolate-makes-you-happy-lunar-new-year.json) |
 | Chocolate makes you happy: New Year | 112372 | [112372-chocolate-makes-you-happy-new-year.json](./112372-chocolate-makes-you-happy-new-year.json) |
+| Chocolate makes you happy: St.Patrick's Day | 114478 | [114478-chocolate-makes-you-happy-st-patricks-day.json](./114478-chocolate-makes-you-happy-st-patricks-day.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
 | Chocolate Parade | 412912 | [412912-chocolate-parade.json](./412912-chocolate-parade.json) |
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
