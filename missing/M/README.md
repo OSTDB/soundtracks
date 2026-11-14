@@ -15008,6 +15008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misguided: Never Back Home | 194083 | [194083-misguided-never-back-home.json](./194083-misguided-never-back-home.json) |
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
 | Misha | 414031 | [414031-misha.json](./414031-misha.json) |
+| Misha Adventures | 166792 | [166792-misha-adventures.json](./166792-misha-adventures.json) |
 | Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | MiSide | 255777 | [255777-miside.json](./255777-miside.json) |
