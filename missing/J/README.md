@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J8 Princess Rhapsody | 316669 | [316669-j8-princess-rhapsody.json](./316669-j8-princess-rhapsody.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Ja'afar's nightmare | 281331 | [281331-jaafars-nightmare.json](./281331-jaafars-nightmare.json) |
+| Jaahg: The Crows Cry | 154097 | [154097-jaahg-the-crows-cry.json](./154097-jaahg-the-crows-cry.json) |
 | Jab Juggernauts | 309785 | [309785-jab-juggernauts.json](./309785-jab-juggernauts.json) |
 | Jab! | 148189 | [148189-jab.json](./148189-jab.json) |
 | Jabato | 78204 | [78204-jabato.json](./78204-jabato.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jail Escape | 322159 | [322159-jail-escape.json](./322159-jail-escape.json) |
 | Jail Escape Plan VR | 291871 | [291871-jail-escape-plan-vr.json](./291871-jail-escape-plan-vr.json) |
 | Jail House Breakdown | 323025 | [323025-jail-house-breakdown.json](./323025-jail-house-breakdown.json) |
+| Jail Simulator | 153542 | [153542-jail-simulator.json](./153542-jail-simulator.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
