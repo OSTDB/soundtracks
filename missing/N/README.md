@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northbound: Long Road Ahead | 133014 | [133014-northbound-long-road-ahead.json](./133014-northbound-long-road-ahead.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
 | Northbury Grove: Entity | 187605 | [187605-northbury-grove-entity.json](./187605-northbury-grove-entity.json) |
+| Northbury Grove: King's Comfort | 125492 | [125492-northbury-grove-kings-comfort.json](./125492-northbury-grove-kings-comfort.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northeast Past | 407787 | [407787-northeast-past.json](./407787-northeast-past.json) |
 | Northend Tower Defense | 159733 | [159733-northend-tower-defense.json](./159733-northend-tower-defense.json) |
