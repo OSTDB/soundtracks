@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
 | Falsehood | 414054 | [414054-falsehood.json](./414054-falsehood.json) |
 | Falsemen | 86616 | [86616-falsemen.json](./86616-falsemen.json) |
+| Falsemen: Rebirth | 115832 | [115832-falsemen-rebirth.json](./115832-falsemen-rebirth.json) |
 | Falsepine | 227448 | [227448-falsepine.json](./227448-falsepine.json) |
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
 | Falskaar | 313266 | [313266-falskaar.json](./313266-falskaar.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Festa Estranha | 180884 | [180884-festa-estranha.json](./180884-festa-estranha.json) |
 | Festa!! Hyper Girls Party | 326637 | [326637-festa-hyper-girls-party.json](./326637-festa-hyper-girls-party.json) |
+| Fester Mudd: Curse of the Gold | 115837 | [115837-fester-mudd-curse-of-the-gold.json](./115837-fester-mudd-curse-of-the-gold.json) |
 | Fester Mudd: Curse of the Gold - Episode 1 | 7726 | [7726-fester-mudd-curse-of-the-gold-episode-1.json](./7726-fester-mudd-curse-of-the-gold-episode-1.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festered | 331200 | [331200-festered.json](./331200-festered.json) |
@@ -11682,6 +11684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Interior | 272168 | [272168-fortress-interior.json](./272168-fortress-interior.json) |
 | Fortress Legends | 323128 | [323128-fortress-legends.json](./323128-fortress-legends.json) |
 | Fortress Merge | 417272 | [417272-fortress-merge.json](./417272-fortress-merge.json) |
+| Fortress of Hell | 115818 | [115818-fortress-of-hell.json](./115818-fortress-of-hell.json) |
 | Fortress of Narzod | 23343 | [23343-fortress-of-narzod.json](./23343-fortress-of-narzod.json) |
 | Fortress of the Arcane Conduit | 282617 | [282617-fortress-of-the-arcane-conduit.json](./282617-fortress-of-the-arcane-conduit.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
