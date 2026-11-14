@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
 | Gamshal: The Forsaken Monk | 184156 | [184156-gamshal-the-forsaken-monk.json](./184156-gamshal-the-forsaken-monk.json) |
 | Gamshara | 269943 | [269943-gamshara.json](./269943-gamshara.json) |
+| GAN-CD: Gansitos and Friends in the World of Adventure | 97588 | [97588-gan-cd-gansitos-and-friends-in-the-world-of-adventure.json](./97588-gan-cd-gansitos-and-friends-in-the-world-of-adventure.json) |
 | Gan-gan Gan-chan | 38023 | [38023-gan-gan-gan-chan.json](./38023-gan-gan-gan-chan.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
 | GanaBlade | 253404 | [253404-ganablade.json](./253404-ganablade.json) |
@@ -6028,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go All Out | 221571 | [221571-go-all-out.json](./221571-go-all-out.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
 | Go All Out! | 90015 | [90015-go-all-out.json](./90015-go-all-out.json) |
+| Go All Out! | 97566 | [97566-go-all-out.json](./97566-go-all-out.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Away My Fat | 93668 | [93668-go-away-my-fat.json](./93668-go-away-my-fat.json) |
 | Go Away, There's Kumis Over There! | 30893 | [30893-go-away-theres-kumis-over-there.json](./30893-go-away-theres-kumis-over-there.json) |
