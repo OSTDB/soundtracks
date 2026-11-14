@@ -4056,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Force | 408455 | [408455-junk-force.json](./408455-junk-force.json) |
 | Junk Jack | 26307 | [26307-junk-jack.json](./26307-junk-jack.json) |
 | Junk Jack Retro | 89003 | [89003-junk-jack-retro.json](./89003-junk-jack-retro.json) |
+| Junk Jack X | 78767 | [78767-junk-jack-x.json](./78767-junk-jack-x.json) |
 | Junk on Wheels | 126316 | [126316-junk-on-wheels.json](./126316-junk-on-wheels.json) |
 | Junk Planet | 116637 | [116637-junk-planet.json](./116637-junk-planet.json) |
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
