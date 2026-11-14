@@ -4771,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redsun 2020 | 218948 | [218948-redsun-2020.json](./218948-redsun-2020.json) |
+| RedSun RTS | 110403 | [110403-redsun-rts.json](./110403-redsun-rts.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | Redtape | 158999 | [158999-redtape.json](./158999-redtape.json) |
 | Redtape | 388152 | [388152-redtape.json](./388152-redtape.json) |
@@ -6205,11 +6206,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: e-Capcom Limited Edition | 145197 | [145197-resident-evil-5-e-capcom-limited-edition.json](./145197-resident-evil-5-e-capcom-limited-edition.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
 | Resident Evil 5: Lost in Nightmares | 21666 | [21666-resident-evil-5-lost-in-nightmares.json](./21666-resident-evil-5-lost-in-nightmares.json) |
+| Resident Evil 5: Steelbook Edition | 110408 | [110408-resident-evil-5-steelbook-edition.json](./110408-resident-evil-5-steelbook-edition.json) |
 | Resident Evil 5: Untold Stories Bundle | 53505 | [53505-resident-evil-5-untold-stories-bundle.json](./53505-resident-evil-5-untold-stories-bundle.json) |
 | Resident Evil 5: Versus | 23014 | [23014-resident-evil-5-versus.json](./23014-resident-evil-5-versus.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 6: Anthology | 41860 | [41860-resident-evil-6-anthology.json](./41860-resident-evil-6-anthology.json) |
 | Resident Evil 6: Archives | 79137 | [79137-resident-evil-6-archives.json](./79137-resident-evil-6-archives.json) |
+| Resident Evil 6: Steelbook Edition | 110409 | [110409-resident-evil-6-steelbook-edition.json](./110409-resident-evil-6-steelbook-edition.json) |
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 6: Ultimate Edition | 99927 | [99927-resident-evil-6-ultimate-edition.json](./99927-resident-evil-6-ultimate-edition.json) |
 | Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
@@ -7471,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
 | Reworld | 130807 | [130807-reworld.json](./130807-reworld.json) |
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
+| ReWorld Online | 110437 | [110437-reworld-online.json](./110437-reworld-online.json) |
 | Rewound | 408417 | [408417-rewound.json](./408417-rewound.json) |
 | Rewoven Self | 377635 | [377635-rewoven-self.json](./377635-rewoven-self.json) |
 | Rewrite | 6193 | [6193-rewrite.json](./6193-rewrite.json) |
@@ -12361,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
 | Roskis: A Boozy Beginning | 184530 | [184530-roskis-a-boozy-beginning.json](./184530-roskis-a-boozy-beginning.json) |
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
+| Rosso Rabbit in Trouble | 110414 | [110414-rosso-rabbit-in-trouble.json](./110414-rosso-rabbit-in-trouble.json) |
 | Roster: Alice's White Mouse | 392110 | [392110-roster-alices-white-mouse.json](./392110-roster-alices-white-mouse.json) |
 | Rostros de la arena | 391660 | [391660-rostros-de-la-arena.json](./391660-rostros-de-la-arena.json) |
 | Rosttle | 319914 | [319914-rosttle.json](./319914-rosttle.json) |
