@@ -7615,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beventlaed | 231736 | [231736-beventlaed.json](./231736-beventlaed.json) |
 | Beverage Craft | 245718 | [245718-beverage-craft.json](./245718-beverage-craft.json) |
 | Beverage Hills | 219203 | [219203-beverage-hills.json](./219203-beverage-hills.json) |
+| Beverage: The Last Call | 150735 | [150735-beverage-the-last-call.json](./150735-beverage-the-last-call.json) |
 | Beverly Hills Cop | 11956 | [11956-beverly-hills-cop.json](./11956-beverly-hills-cop.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
@@ -14133,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown: The Second Coming Edition - Kinks Straight | 303351 | [303351-bonetown-the-second-coming-edition-kinks-straight.json](./303351-bonetown-the-second-coming-edition-kinks-straight.json) |
 | Bonetox | 381180 | [381180-bonetox.json](./381180-bonetox.json) |
 | Boneworks | 115789 | [115789-boneworks.json](./115789-boneworks.json) |
+| Boney's Research on Humans! | 150795 | [150795-boneys-research-on-humans.json](./150795-boneys-research-on-humans.json) |
 | Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonez | 278289 | [278289-bonez.json](./278289-bonez.json) |
 | Bonez Adventures: Tomb of Fulaos | 120874 | [120874-bonez-adventures-tomb-of-fulaos.json](./120874-bonez-adventures-tomb-of-fulaos.json) |
@@ -17619,6 +17621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Thunder | 287605 | [287605-broken-thunder.json](./287605-broken-thunder.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
 | Broken Time | 323466 | [323466-broken-time.json](./323466-broken-time.json) |
+| Broken Universe | 150788 | [150788-broken-universe.json](./150788-broken-universe.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
 | Broken Veil | 149154 | [149154-broken-veil.json](./149154-broken-veil.json) |
