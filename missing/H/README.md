@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Doctor 2049 | 236085 | [236085-hentai-doctor-2049.json](./236085-hentai-doctor-2049.json) |
 | Hentai Dojo | 107111 | [107111-hentai-dojo.json](./107111-hentai-dojo.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
+| Hentai Dreams | 111804 | [111804-hentai-dreams.json](./111804-hentai-dreams.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Elf | 370973 | [370973-hentai-elf.json](./370973-hentai-elf.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
@@ -10394,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestar Runner: Halloween Hide n' Seek | 251780 | [251780-homestar-runner-halloween-hide-n-seek.json](./251780-homestar-runner-halloween-hide-n-seek.json) |
 | Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
 | Homestay à la Mode | 396492 | [396492-homestay-a-la-mode.json](./396492-homestay-a-la-mode.json) |
+| Homestead | 111764 | [111764-homestead.json](./111764-homestead.json) |
 | Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
