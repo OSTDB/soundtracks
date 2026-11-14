@@ -5675,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Space Bar | 398133 | [398133-outer-space-bar.json](./398133-outer-space-bar.json) |
 | Outer Space Casino | 131140 | [131140-outer-space-casino.json](./131140-outer-space-casino.json) |
 | Outer Space Combat | 310997 | [310997-outer-space-combat.json](./310997-outer-space-combat.json) |
+| Outer Space Shack | 158263 | [158263-outer-space-shack.json](./158263-outer-space-shack.json) |
 | Outer Space Survival | 207033 | [207033-outer-space-survival.json](./207033-outer-space-survival.json) |
 | Outer Space: War Gears | 211622 | [211622-outer-space-war-gears.json](./211622-outer-space-war-gears.json) |
 | Outer Storms | 323003 | [323003-outer-storms.json](./323003-outer-storms.json) |
