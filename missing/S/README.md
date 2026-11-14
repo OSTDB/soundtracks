@@ -11958,6 +11958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Hospital | 376147 | [376147-sim-hospital.json](./376147-sim-hospital.json) |
 | Sim Hospital: Emergency Rescue | 376148 | [376148-sim-hospital-emergency-rescue.json](./376148-sim-hospital-emergency-rescue.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
+| Sim Racing Dashboard | 104314 | [104314-sim-racing-dashboard.json](./104314-sim-racing-dashboard.json) |
 | Sim Settlements 2 | 298970 | [298970-sim-settlements-2.json](./298970-sim-settlements-2.json) |
 | Sim Solver | 309928 | [309928-sim-solver.json](./309928-sim-solver.json) |
 | Sim Sports Raid | 384213 | [384213-sim-sports-raid.json](./384213-sim-sports-raid.json) |
@@ -20993,6 +20994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sounds of Music | 76115 | [76115-sounds-of-music.json](./76115-sounds-of-music.json) |
 | Sounds of Shadows | 307533 | [307533-sounds-of-shadows.json](./307533-sounds-of-shadows.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
+| Sounds Of Transport | 104167 | [104167-sounds-of-transport.json](./104167-sounds-of-transport.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
 | Sounds of War | 297351 | [297351-sounds-of-war.json](./297351-sounds-of-war.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
@@ -25217,6 +25219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
 | Sports Car GT | 22822 | [22822-sports-car-gt.json](./22822-sports-car-gt.json) |
+| Sports Car Maker Factory: Auto Car Mechanic Games | 104300 | [104300-sports-car-maker-factory-auto-car-mechanic-games.json](./104300-sports-car-maker-factory-auto-car-mechanic-games.json) |
 | Sports Car Test Driver: Monaco Trials | 90539 | [90539-sports-car-test-driver-monaco-trials.json](./90539-sports-car-test-driver-monaco-trials.json) |
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
 | Sports Card Shop Simulator | 389101 | [389101-sports-card-shop-simulator.json](./389101-sports-card-shop-simulator.json) |
@@ -28657,6 +28660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statnett Balance | 114619 | [114619-statnett-balance.json](./114619-statnett-balance.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
+| Statue of Liberty the Lost Symbol | 104337 | [104337-statue-of-liberty-the-lost-symbol.json](./104337-statue-of-liberty-the-lost-symbol.json) |
 | Statues | 182961 | [182961-statues.json](./182961-statues.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
 | Status | 327418 | [327418-status.json](./327418-status.json) |
@@ -33736,6 +33740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex GO! | 106055 | [106055-supaplex-go.json](./106055-supaplex-go.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex Squares | 105513 | [105513-supaplex-squares.json](./105513-supaplex-squares.json) |
+| Supaplex Think! | 104291 | [104291-supaplex-think.json](./104291-supaplex-think.json) |
 | Supaplex WOW! | 109314 | [109314-supaplex-wow.json](./109314-supaplex-wow.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
 | Supapoon | 42324 | [42324-supapoon.json](./42324-supapoon.json) |
