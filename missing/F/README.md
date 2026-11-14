@@ -7179,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish! | 100331 | [100331-fish.json](./100331-fish.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
 | Fish'n Feathers | 207286 | [207286-fishn-feathers.json](./207286-fishn-feathers.json) |
+| Fish's Revenge | 83670 | [83670-fishs-revenge.json](./83670-fishs-revenge.json) |
 | Fish's Trip | 59239 | [59239-fishs-trip.json](./59239-fishs-trip.json) |
 | Fishao | 221821 | [221821-fishao.json](./221821-fishao.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
@@ -14309,6 +14310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Factory | 149653 | [149653-fruit-factory.json](./149653-fruit-factory.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
+| Fruit Fall Crush | 83077 | [83077-fruit-fall-crush.json](./83077-fruit-fall-crush.json) |
 | Fruit Farm | 54048 | [54048-fruit-farm.json](./54048-fruit-farm.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit for the Village | 59868 | [59868-fruit-for-the-village.json](./59868-fruit-for-the-village.json) |
