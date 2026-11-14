@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journalism Class: Part 2 | 107708 | [107708-journalism-class-part-2.json](./107708-journalism-class-part-2.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey | 298669 | [298669-journey.json](./298669-journey.json) |
+| Journey | 85680 | [85680-journey.json](./85680-journey.json) |
 | Journey 2050 | 89801 | [89801-journey-2050.json](./89801-journey-2050.json) |
 | Journey Across Japan: Mysteries of Mt Aso | 326149 | [326149-journey-across-japan-mysteries-of-mt-aso.json](./326149-journey-across-japan-mysteries-of-mt-aso.json) |
 | Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
