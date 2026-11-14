@@ -5099,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otoko Orgy at Maid Boy Manor | 289518 | [289518-otoko-orgy-at-maid-boy-manor.json](./289518-otoko-orgy-at-maid-boy-manor.json) |
+| Otokomizu | 111783 | [111783-otokomizu.json](./111783-otokomizu.json) |
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
 | Otomaid @ Cafe | 191361 | [191361-otomaid-cafe.json](./191361-otomaid-cafe.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
