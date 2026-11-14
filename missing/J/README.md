@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe's Fists | 129086 | [129086-joes-fists.json](./129086-joes-fists.json) |
 | Joe's Horrible Hell | 170041 | [170041-joes-horrible-hell.json](./170041-joes-horrible-hell.json) |
 | Joe's Miserable Life | 170040 | [170040-joes-miserable-life.json](./170040-joes-miserable-life.json) |
+| Joe's Wrath | 110604 | [110604-joes-wrath.json](./110604-joes-wrath.json) |
 | Joedle | 351572 | [351572-joedle.json](./351572-joedle.json) |
 | Joel Mayer's Purgatory | 126249 | [126249-joel-mayers-purgatory.json](./126249-joel-mayers-purgatory.json) |
 | Joel's Bizarre Pokéventure | 374586 | [374586-joels-bizarre-pokeventure.json](./374586-joels-bizarre-pokeventure.json) |
