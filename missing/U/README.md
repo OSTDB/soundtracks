@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimechs Spectator | 244068 | [244068-ultimechs-spectator.json](./244068-ultimechs-spectator.json) |
 | Ultimo Reino | 111993 | [111993-ultimo-reino.json](./111993-ultimo-reino.json) |
 | Ultimo Reino 2 | 132371 | [132371-ultimo-reino-2.json](./132371-ultimo-reino-2.json) |
+| Ultimo Soccer UDC | 157249 | [157249-ultimo-soccer-udc.json](./157249-ultimo-soccer-udc.json) |
 | Ultimotion: Fitness | 220270 | [220270-ultimotion-fitness.json](./220270-ultimotion-fitness.json) |
 | Ultimotion: Sleeping Beauty & Tinker Bell | 220271 | [220271-ultimotion-sleeping-beauty-and-tinker-bell.json](./220271-ultimotion-sleeping-beauty-and-tinker-bell.json) |
 | Ultimotion: Swing Zone Sports | 220269 | [220269-ultimotion-swing-zone-sports.json](./220269-ultimotion-swing-zone-sports.json) |
