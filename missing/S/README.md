@@ -4816,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebastian's Sea Urchin Symphony | 246518 | [246518-sebastians-sea-urchin-symphony.json](./246518-sebastians-sea-urchin-symphony.json) |
 | Sebastian's Treasure Hunt | 246520 | [246520-sebastians-treasure-hunt.json](./246520-sebastians-treasure-hunt.json) |
+| Sébastien Loeb Rally Evo: Rallycross Pack | 166332 | [166332-sebastien-loeb-rally-evo-rallycross-pack.json](./166332-sebastien-loeb-rally-evo-rallycross-pack.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
 | Sebi 16 | 386072 | [386072-sebi-16.json](./386072-sebi-16.json) |
 | Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
@@ -18516,6 +18517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolveWithMe | 241203 | [241203-solvewithme.json](./241203-solvewithme.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Solward | 335468 | [335468-solward.json](./335468-solward.json) |
+| Solys | 166867 | [166867-solys.json](./166867-solys.json) |
 | SoM Soul of Mask | 75424 | [75424-som-soul-of-mask.json](./75424-som-soul-of-mask.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Soma Spirits: Rebalance | 29590 | [29590-soma-spirits-rebalance.json](./29590-soma-spirits-rebalance.json) |
@@ -20000,6 +20002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
 | Sons of Triskelion | 29487 | [29487-sons-of-triskelion.json](./29487-sons-of-triskelion.json) |
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
+| Sons of Valhalla | 166788 | [166788-sons-of-valhalla.json](./166788-sons-of-valhalla.json) |
 | Sonsgorod: The Archipelago | 311900 | [311900-sonsgorod-the-archipelago.json](./311900-sonsgorod-the-archipelago.json) |
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
 | Sonya | 391412 | [391412-sonya.json](./391412-sonya.json) |
@@ -21587,6 +21590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Ascension - Dark Angels | 53642 | [53642-space-hulk-ascension-dark-angels.json](./53642-space-hulk-ascension-dark-angels.json) |
 | Space Hulk: Ascension - Imperial Fist | 53643 | [53643-space-hulk-ascension-imperial-fist.json](./53643-space-hulk-ascension-imperial-fist.json) |
 | Space Hulk: Ascension - Salamanders | 53644 | [53644-space-hulk-ascension-salamanders.json](./53644-space-hulk-ascension-salamanders.json) |
+| Space Hulk: Ascension - Successor Chapter Pack | 167207 | [167207-space-hulk-ascension-successor-chapter-pack.json](./167207-space-hulk-ascension-successor-chapter-pack.json) |
 | Space Hulk: Deathwing - Enhanced Edition | 154595 | [154595-space-hulk-deathwing-enhanced-edition.json](./154595-space-hulk-deathwing-enhanced-edition.json) |
 | Space Hulk: Deathwing - Enhanced Edition | 95068 | [95068-space-hulk-deathwing-enhanced-edition.json](./95068-space-hulk-deathwing-enhanced-edition.json) |
 | Space Hulk: Deathwing - Enhanced Edition: Infested Mines | 154596 | [154596-space-hulk-deathwing-enhanced-edition-infested-mines.json](./154596-space-hulk-deathwing-enhanced-edition-infested-mines.json) |
@@ -25537,6 +25541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqorp | 339493 | [339493-sqorp.json](./339493-sqorp.json) |
 | SQP Run | 273259 | [273259-sqp-run.json](./273259-sqp-run.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
+| Sqr 2 | 166786 | [166786-sqr-2.json](./166786-sqr-2.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqrl Golf | 325340 | [325340-sqrl-golf.json](./325340-sqrl-golf.json) |
 | Sqrl Golf II | 325344 | [325344-sqrl-golf-ii.json](./325344-sqrl-golf-ii.json) |
@@ -29705,6 +29710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
 | Stinky and Loof in Wonderland | 210761 | [210761-stinky-and-loof-in-wonderland.json](./210761-stinky-and-loof-in-wonderland.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
+| Stinky Feet: The Adventure of BigFoot | 166854 | [166854-stinky-feet-the-adventure-of-bigfoot.json](./166854-stinky-feet-the-adventure-of-bigfoot.json) |
 | Stinky Snake | 104245 | [104245-stinky-snake.json](./104245-stinky-snake.json) |
 | Stinkytown | 317185 | [317185-stinkytown.json](./317185-stinkytown.json) |
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
