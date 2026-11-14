@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess | 2603 | [2603-battle-chess.json](./2603-battle-chess.json) |
 | Battle Chess | 280808 | [280808-battle-chess.json](./280808-battle-chess.json) |
 | Battle Chess | 283606 | [283606-battle-chess.json](./283606-battle-chess.json) |
+| Battle Chess 3 | 144402 | [144402-battle-chess-3.json](./144402-battle-chess-3.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess Enhanced | 144453 | [144453-battle-chess-enhanced.json](./144453-battle-chess-enhanced.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
@@ -7945,6 +7946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BHU | 60309 | [60309-bhu.json](./60309-bhu.json) |
 | BHunter | 78521 | [78521-bhunter.json](./78521-bhunter.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
+| Bi-Fi Roll: Action in Hollywood | 144399 | [144399-bi-fi-roll-action-in-hollywood.json](./144399-bi-fi-roll-action-in-hollywood.json) |
+| Bi-Fi Roll: Snackzone | 144398 | [144398-bi-fi-roll-snackzone.json](./144398-bi-fi-roll-snackzone.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
 | Bia | 183921 | [183921-bia.json](./183921-bia.json) |
 | Bianka Lovesick | 363025 | [363025-bianka-lovesick.json](./363025-bianka-lovesick.json) |
@@ -8652,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill's Shooting Game | 295950 | [295950-bills-shooting-game.json](./295950-bills-shooting-game.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Billard | 40763 | [40763-billard.json](./40763-billard.json) |
+| Billard Total: Pool & Snooker | 144400 | [144400-billard-total-pool-and-snooker.json](./144400-billard-total-pool-and-snooker.json) |
 | Bille & Trille: Da Fantasien slap løs | 78394 | [78394-bille-and-trille-da-fantasien-slap-l-s.json](./78394-bille-and-trille-da-fantasien-slap-l-s.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
@@ -16520,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
 | Breach the Abyss | 298612 | [298612-breach-the-abyss.json](./298612-breach-the-abyss.json) |
+| Breach Wanderers | 143813 | [143813-breach-wanderers.json](./143813-breach-wanderers.json) |
 | Breach: 83 | 350968 | [350968-breach-83.json](./350968-breach-83.json) |
 | Breach: Chicago War Zone | 252007 | [252007-breach-chicago-war-zone.json](./252007-breach-chicago-war-zone.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
@@ -19267,7 +19272,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundesfighter 2 Turbo | 246234 | [246234-bundesfighter-2-turbo.json](./246234-bundesfighter-2-turbo.json) |
 | Bundesliga 99 | 92947 | [92947-bundesliga-99.json](./92947-bundesliga-99.json) |
 | Bundesliga Manager | 71985 | [71985-bundesliga-manager.json](./71985-bundesliga-manager.json) |
+| Bundesliga Manager 98 | 144403 | [144403-bundesliga-manager-98.json](./144403-bundesliga-manager-98.json) |
 | Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
+| Bundesliga Manager X | 144405 | [144405-bundesliga-manager-x.json](./144405-bundesliga-manager-x.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle | 328983 | [328983-bundle.json](./328983-bundle.json) |
 | Bundle Cats + Dog | 199886 | [199886-bundle-cats-dog.json](./199886-bundle-cats-dog.json) |
