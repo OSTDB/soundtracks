@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Supermarket Simulator 3D | 309637 | [309637-ultimate-fishing-supermarket-simulator-3d.json](./309637-ultimate-fishing-supermarket-simulator-3d.json) |
 | Ultimate Flash Sonic | 140408 | [140408-ultimate-flash-sonic.json](./140408-ultimate-flash-sonic.json) |
 | Ultimate Flickball Arena | 122021 | [122021-ultimate-flickball-arena.json](./122021-ultimate-flickball-arena.json) |
+| Ultimate Flight Pack | 138317 | [138317-ultimate-flight-pack.json](./138317-ultimate-flight-pack.json) |
 | Ultimate Flight Simulator Pro | 233895 | [233895-ultimate-flight-simulator-pro.json](./233895-ultimate-flight-simulator-pro.json) |
 | Ultimate Flying Car | 233618 | [233618-ultimate-flying-car.json](./233618-ultimate-flying-car.json) |
 | Ultimate Flying Car Adventures | 108109 | [108109-ultimate-flying-car-adventures.json](./108109-ultimate-flying-car-adventures.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underlight | 112974 | [112974-underlight.json](./112974-underlight.json) |
 | Underliner | 199497 | [199497-underliner.json](./199497-underliner.json) |
 | Underling Uprising | 195566 | [195566-underling-uprising.json](./195566-underling-uprising.json) |
+| Underlings | 138892 | [138892-underlings.json](./138892-underlings.json) |
 | Underload | 25763 | [25763-underload.json](./25763-underload.json) |
 | UnderMine | 107198 | [107198-undermine.json](./107198-undermine.json) |
 | UnderMine 2 | 296836 | [296836-undermine-2.json](./296836-undermine-2.json) |
