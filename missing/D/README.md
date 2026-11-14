@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreamer 2 | 192369 | [192369-daydreamer-2.json](./192369-daydreamer-2.json) |
 | Daydreamer: Awakened Edition | 20751 | [20751-daydreamer-awakened-edition.json](./20751-daydreamer-awakened-edition.json) |
 | Daydreaming in the Oval Office | 73524 | [73524-daydreaming-in-the-oval-office.json](./73524-daydreaming-in-the-oval-office.json) |
+| Daydreamour | 134735 | [134735-daydreamour.json](./134735-daydreamour.json) |
 | Daydreams in Red | 187625 | [187625-daydreams-in-red.json](./187625-daydreams-in-red.json) |
 | Daydreamy | 268319 | [268319-daydreamy.json](./268319-daydreamy.json) |
 | Daylife in Japan: Animated Jigsaw Puzzle Series | 124208 | [124208-daylife-in-japan-animated-jigsaw-puzzle-series.json](./124208-daylife-in-japan-animated-jigsaw-puzzle-series.json) |
@@ -5570,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Combo | 368903 | [368903-deck-combo.json](./368903-deck-combo.json) |
 | Deck Dash | 311725 | [311725-deck-dash.json](./311725-deck-dash.json) |
+| Deck Defenders | 134726 | [134726-deck-defenders.json](./134726-deck-defenders.json) |
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Heroes | 38673 | [38673-deck-heroes.json](./38673-deck-heroes.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper and Driller | 183708 | [183708-deeper-and-driller.json](./183708-deeper-and-driller.json) |
 | Deeper Club | 396698 | [396698-deeper-club.json](./396698-deeper-club.json) |
 | Deeper in the Dark | 240047 | [240047-deeper-in-the-dark.json](./240047-deeper-in-the-dark.json) |
+| Deeper Into Space | 134725 | [134725-deeper-into-space.json](./134725-deeper-into-space.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
 | Deeper Still | 398088 | [398088-deeper-still.json](./398088-deeper-still.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
@@ -7972,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
 | Desert Mirage | 420492 | [420492-desert-mirage.json](./420492-desert-mirage.json) |
+| Desert Mothers | 134738 | [134738-desert-mothers.json](./134738-desert-mothers.json) |
 | Desert Mystery | 155787 | [155787-desert-mystery.json](./155787-desert-mystery.json) |
 | Desert Nightmare | 131034 | [131034-desert-nightmare.json](./131034-desert-nightmare.json) |
 | Desert of Ash: a Post-Apocalyptic Gay Sex Simulator | 326457 | [326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json](./326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json) |
