@@ -5980,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage II | 2971 | [2971-lineage-ii.json](./2971-lineage-ii.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
 | Lineage II: Grand Crusade | 56276 | [56276-lineage-ii-grand-crusade.json](./56276-lineage-ii-grand-crusade.json) |
+| Lineage II: Salvation | 98631 | [98631-lineage-ii-salvation.json](./98631-lineage-ii-salvation.json) |
 | Lineage II: The Chaotic Chronicle | 102485 | [102485-lineage-ii-the-chaotic-chronicle.json](./102485-lineage-ii-the-chaotic-chronicle.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineage M | 78248 | [78248-lineage-m.json](./78248-lineage-m.json) |
@@ -8687,6 +8688,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorraine | 269894 | [269894-lorraine.json](./269894-lorraine.json) |
 | Lorsvale | 375998 | [375998-lorsvale.json](./375998-lorsvale.json) |
 | Lort | 345444 | [345444-lort.json](./345444-lort.json) |
+| Los 40 Principales: Karaoke Party | 98653 | [98653-los-40-principales-karaoke-party.json](./98653-los-40-principales-karaoke-party.json) |
+| Los 40 Principales: Karaoke Party Vol. 2 | 98652 | [98652-los-40-principales-karaoke-party-vol-2.json](./98652-los-40-principales-karaoke-party-vol-2.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles Crimes | 194101 | [194101-los-angeles-crimes.json](./194101-los-angeles-crimes.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
