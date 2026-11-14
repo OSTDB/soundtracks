@@ -9321,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatose | 115926 | [115926-chromatose.json](./115926-chromatose.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
+| Chromatron 1, 2, 3, 4: The Complete Collection | 93284 | [93284-chromatron-1-2-3-4-the-complete-collection.json](./93284-chromatron-1-2-3-4-the-complete-collection.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome | 7873 | [7873-chrome.json](./7873-chrome.json) |
@@ -11914,6 +11915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clotilde Soffritti in Never Double Park your Spaceship | 217876 | [217876-clotilde-soffritti-in-never-double-park-your-spaceship.json](./217876-clotilde-soffritti-in-never-double-park-your-spaceship.json) |
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
+| Cloud | 93270 | [93270-cloud.json](./93270-cloud.json) |
 | Cloud 9 | 273594 | [273594-cloud-9.json](./273594-cloud-9.json) |
 | Cloud 9 | 313579 | [313579-cloud-9.json](./313579-cloud-9.json) |
 | Cloud Bashers | 125554 | [125554-cloud-bashers.json](./125554-cloud-bashers.json) |
@@ -14087,6 +14089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Dungeon | 266936 | [266936-combat-dungeon.json](./266936-combat-dungeon.json) |
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
+| Combat Engineer | 93265 | [93265-combat-engineer.json](./93265-combat-engineer.json) |
 | Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
 | Combat Fire | 137775 | [137775-combat-fire.json](./137775-combat-fire.json) |
 | Combat Force | 124249 | [124249-combat-force.json](./124249-combat-force.json) |
@@ -15273,6 +15276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror Of The Galaxy | 327046 | [327046-conqueror-of-the-galaxy.json](./327046-conqueror-of-the-galaxy.json) |
 | Conqueror of the Seas | 236162 | [236162-conqueror-of-the-seas.json](./236162-conqueror-of-the-seas.json) |
 | Conqueror of Time | 267810 | [267810-conqueror-of-time.json](./267810-conqueror-of-time.json) |
+| Conqueror: A.D. 1086 | 93285 | [93285-conqueror-a-d-1086.json](./93285-conqueror-a-d-1086.json) |
 | Conqueror's Blade | 70985 | [70985-conquerors-blade.json](./70985-conquerors-blade.json) |
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
@@ -19751,6 +19755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak Croak On The Sea | 291186 | [291186-croak-croak-on-the-sea.json](./291186-croak-croak-on-the-sea.json) |
 | Croak Crusader: Spawn of the Spore Spectre | 319898 | [319898-croak-crusader-spawn-of-the-spore-spectre.json](./319898-croak-crusader-spawn-of-the-spore-spectre.json) |
 | Croak Crusader: The Champion of Canada | 330753 | [330753-croak-crusader-the-champion-of-canada.json](./330753-croak-crusader-the-champion-of-canada.json) |
+| Croak! | 93255 | [93255-croak.json](./93255-croak.json) |
 | Croak'd | 368991 | [368991-croakd.json](./368991-croakd.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
@@ -22799,6 +22804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
+| Cyber Rats | 93276 | [93276-cyber-rats.json](./93276-cyber-rats.json) |
 | Cyber Rebellion | 159510 | [159510-cyber-rebellion.json](./159510-cyber-rebellion.json) |
 | Cyber Rebellion | 224065 | [224065-cyber-rebellion.json](./224065-cyber-rebellion.json) |
 | Cyber Rescue: Virus Eruption | 180573 | [180573-cyber-rescue-virus-eruption.json](./180573-cyber-rescue-virus-eruption.json) |
