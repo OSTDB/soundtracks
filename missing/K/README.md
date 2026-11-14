@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keo | 168124 | [168124-keo.json](./168124-keo.json) |
 | Keo and the Cosmic Crystals | 266070 | [266070-keo-and-the-cosmic-crystals.json](./266070-keo-and-the-cosmic-crystals.json) |
 | Keomtuseu Peuroyagu V22 | 215844 | [215844-keomtuseu-peuroyagu-v22.json](./215844-keomtuseu-peuroyagu-v22.json) |
+| Keotoshi! Treasure Hunter! | 119135 | [119135-keotoshi-treasure-hunter.json](./119135-keotoshi-treasure-hunter.json) |
 | Kepler 186F | 383670 | [383670-kepler-186f.json](./383670-kepler-186f.json) |
 | Kepler Attack | 259973 | [259973-kepler-attack.json](./259973-kepler-attack.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Before Dawn | 420220 | [420220-knight-before-dawn.json](./420220-knight-before-dawn.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
 | Knight Bewitched 2 | 137205 | [137205-knight-bewitched-2.json](./137205-knight-bewitched-2.json) |
+| Knight Brawl | 119121 | [119121-knight-brawl.json](./119121-knight-brawl.json) |
 | Knight Case Files | 275522 | [275522-knight-case-files.json](./275522-knight-case-files.json) |
 | Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
 | Knight Cats: Leaves on the Road - Collector's Edition | 238689 | [238689-knight-cats-leaves-on-the-road-collectors-edition.json](./238689-knight-cats-leaves-on-the-road-collectors-edition.json) |
@@ -5006,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Path | 384342 | [384342-knights-path.json](./384342-knights-path.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
 | Knight's Pride | 340885 | [340885-knights-pride.json](./340885-knights-pride.json) |
+| Knight's Quest | 118468 | [118468-knights-quest.json](./118468-knights-quest.json) |
 | Knight's Quest | 356665 | [356665-knights-quest.json](./356665-knights-quest.json) |
 | Knight's Quest | 356666 | [356666-knights-quest.json](./356666-knights-quest.json) |
 | Knight's Raid: Lost Skytopia | 191608 | [191608-knights-raid-lost-skytopia.json](./191608-knights-raid-lost-skytopia.json) |
@@ -5577,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koihime Musou: Doki Otome Darake no Sangokushi Engi | 94819 | [94819-koihime-musou-doki-otome-darake-no-sangokushi-engi.json](./94819-koihime-musou-doki-otome-darake-no-sangokushi-engi.json) |
 | Koiiro Chu! Lips | 407152 | [407152-koiiro-chu-lips.json](./407152-koiiro-chu-lips.json) |
 | Koikata: How Our Love Grows | 387050 | [387050-koikata-how-our-love-grows.json](./387050-koikata-how-our-love-grows.json) |
+| Koikatsu | 119119 | [119119-koikatsu.json](./119119-koikatsu.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikatsu Sunshine | 186357 | [186357-koikatsu-sunshine.json](./186357-koikatsu-sunshine.json) |
 | Koiken Otome | 141941 | [141941-koiken-otome.json](./141941-koiken-otome.json) |
