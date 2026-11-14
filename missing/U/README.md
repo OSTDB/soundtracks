@@ -3845,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usagi Shima | 204511 | [204511-usagi-shima.json](./204511-usagi-shima.json) |
 | Usagi Yojimbo: Way of the Ronin | 36060 | [36060-usagi-yojimbo-way-of-the-ronin.json](./36060-usagi-yojimbo-way-of-the-ronin.json) |
 | Usagi: Yasei no Touhai - Yamashiro Mahjong-hen | 154843 | [154843-usagi-yasei-no-touhai-yamashiro-mahjong-hen.json](./154843-usagi-yasei-no-touhai-yamashiro-mahjong-hen.json) |
+| Usagiri | 126108 | [126108-usagiri.json](./126108-usagiri.json) |
 | Usagito Watashi | 280908 | [280908-usagito-watashi.json](./280908-usagito-watashi.json) |
 | USAID Approvals Department | 351543 | [351543-usaid-approvals-department.json](./351543-usaid-approvals-department.json) |
 | Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
