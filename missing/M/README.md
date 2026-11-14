@@ -17910,6 +17910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
+| Monster Puzzle Games: Toddler Kids Learning Apps | 96352 | [96352-monster-puzzle-games-toddler-kids-learning-apps.json](./96352-monster-puzzle-games-toddler-kids-learning-apps.json) |
 | Monster Quest | 301863 | [301863-monster-quest.json](./301863-monster-quest.json) |
 | Monster Quest: Seven Sins | 219842 | [219842-monster-quest-seven-sins.json](./219842-monster-quest-seven-sins.json) |
 | Monster Race | 64019 | [64019-monster-race.json](./64019-monster-race.json) |
@@ -20622,6 +20623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
 | Mr Success | 388648 | [388648-mr-success.json](./388648-mr-success.json) |
 | Mr The Killer | 294526 | [294526-mr-the-killer.json](./294526-mr-the-killer.json) |
+| Mr Tic Toc & the Endless City | 96377 | [96377-mr-tic-toc-and-the-endless-city.json](./96377-mr-tic-toc-and-the-endless-city.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr Toro 2 | 220826 | [220826-mr-toro-2.json](./220826-mr-toro-2.json) |
