@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | Harlem Globetrotters | 245468 | [245468-harlem-globetrotters.json](./245468-harlem-globetrotters.json) |
+| Harlem Globetrotters | 92724 | [92724-harlem-globetrotters.json](./92724-harlem-globetrotters.json) |
 | Harlem Globetrotters World Tour | 6430 | [6430-harlem-globetrotters-world-tour.json](./6430-harlem-globetrotters-world-tour.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harlequin | 14897 | [14897-harlequin.json](./14897-harlequin.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
+| Helbreath | 92742 | [92742-helbreath.json](./92742-helbreath.json) |
 | Helbreath Apocalypse | 133642 | [133642-helbreath-apocalypse.json](./133642-helbreath-apocalypse.json) |
 | Helbreath Argentina | 306180 | [306180-helbreath-argentina.json](./306180-helbreath-argentina.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
@@ -11014,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless 3: Dark Hollow Earth | 56274 | [56274-hopeless-3-dark-hollow-earth.json](./56274-hopeless-3-dark-hollow-earth.json) |
 | Hopeless Divine: Wake of Vultures | 307453 | [307453-hopeless-divine-wake-of-vultures.json](./307453-hopeless-divine-wake-of-vultures.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
+| Hopeless Heroes: Tap Attack | 92202 | [92202-hopeless-heroes-tap-attack.json](./92202-hopeless-heroes-tap-attack.json) |
 | Hopeless Sea | 291395 | [291395-hopeless-sea.json](./291395-hopeless-sea.json) |
 | Hopeless: Football Cup | 56273 | [56273-hopeless-football-cup.json](./56273-hopeless-football-cup.json) |
 | Hopeless: Space Shooting | 56278 | [56278-hopeless-space-shooting.json](./56278-hopeless-space-shooting.json) |
@@ -12436,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Phoenix | 394197 | [394197-hover-phoenix.json](./394197-hover-phoenix.json) |
 | Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
+| Hover Racing | 92710 | [92710-hover-racing.json](./92710-hover-racing.json) |
 | Hover Raid | 423859 | [423859-hover-raid.json](./423859-hover-raid.json) |
 | Hover Rancher | 373048 | [373048-hover-rancher.json](./373048-hover-rancher.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
@@ -14129,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | Hyperide: Vector Raid | 112815 | [112815-hyperide-vector-raid.json](./112815-hyperide-vector-raid.json) |
 | Hyperion | 382134 | [382134-hyperion.json](./382134-hyperion.json) |
+| Hyperion | 92718 | [92718-hyperion.json](./92718-hyperion.json) |
 | Hyperjustice | 189815 | [189815-hyperjustice.json](./189815-hyperjustice.json) |
 | Hyperjustice: Hyper Holidays Expansion | 285320 | [285320-hyperjustice-hyper-holidays-expansion.json](./285320-hyperjustice-hyper-holidays-expansion.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
