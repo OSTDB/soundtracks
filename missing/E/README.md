@@ -5886,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the 70's | 193917 | [193917-escape-from-the-70s.json](./193917-escape-from-the-70s.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
+| Escape From the Asylum | 99266 | [99266-escape-from-the-asylum.json](./99266-escape-from-the-asylum.json) |
 | Escape From the BadTrip: Episode 1 | 195843 | [195843-escape-from-the-badtrip-episode-1.json](./195843-escape-from-the-badtrip-episode-1.json) |
 | Escape from the Black Monolith | 386762 | [386762-escape-from-the-black-monolith.json](./386762-escape-from-the-black-monolith.json) |
 | Escape From The Boykisser | 298928 | [298928-escape-from-the-boykisser.json](./298928-escape-from-the-boykisser.json) |
@@ -7295,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EV3 - Drag Racing | 88251 | [88251-ev3-drag-racing.json](./88251-ev3-drag-racing.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
 | Eva | 272354 | [272354-eva.json](./272354-eva.json) |
+| Eva | 99864 | [99864-eva.json](./99864-eva.json) |
 | Eva 4: Sim Date RPG | 211380 | [211380-eva-4-sim-date-rpg.json](./211380-eva-4-sim-date-rpg.json) |
 | Eva Dawn | 150111 | [150111-eva-dawn.json](./150111-eva-dawn.json) |
 | Eva Reynes | 116841 | [116841-eva-reynes.json](./116841-eva-reynes.json) |
