@@ -20262,6 +20262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Piecer: The World Below | 330806 | [330806-puzzle-piecer-the-world-below.json](./330806-puzzle-piecer-the-world-below.json) |
 | Puzzle Pieces 4: Farewell Dear Winter | 238281 | [238281-puzzle-pieces-4-farewell-dear-winter.json](./238281-puzzle-pieces-4-farewell-dear-winter.json) |
 | Puzzle Pieces 5: Fairy Ring | 226345 | [226345-puzzle-pieces-5-fairy-ring.json](./226345-puzzle-pieces-5-fairy-ring.json) |
+| Puzzle Pipes | 152519 | [152519-puzzle-pipes.json](./152519-puzzle-pipes.json) |
 | Puzzle Pirates | 15129 | [15129-puzzle-pirates.json](./15129-puzzle-pirates.json) |
 | Puzzle Pirates: Dark Seas | 59866 | [59866-puzzle-pirates-dark-seas.json](./59866-puzzle-pirates-dark-seas.json) |
 | Puzzle Pits | 62400 | [62400-puzzle-pits.json](./62400-puzzle-pits.json) |
