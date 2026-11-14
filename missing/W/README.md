@@ -5989,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | Wildrise | 344412 | [344412-wildrise.json](./344412-wildrise.json) |
 | WildRoot | 409708 | [409708-wildroot.json](./409708-wildroot.json) |
+| Wilds | 141935 | [141935-wilds.json](./141935-wilds.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintertale | 371564 | [371564-wintertale.json](./371564-wintertale.json) |
 | WinterThunder | 224805 | [224805-winterthunder.json](./224805-winterthunder.json) |
 | Wintertwined | 189299 | [189299-wintertwined.json](./189299-wintertwined.json) |
+| Winterwood | 141954 | [141954-winterwood.json](./141954-winterwood.json) |
 | Winthorp's Mansion | 213764 | [213764-winthorps-mansion.json](./213764-winthorps-mansion.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | WinWar II | 315396 | [315396-winwar-ii.json](./315396-winwar-ii.json) |
