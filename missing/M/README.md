@@ -22749,6 +22749,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My IShowSpeed | 286333 | [286333-my-ishowspeed.json](./286333-my-ishowspeed.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
+| My Jigsaw Adventures: A Lost Story | 162964 | [162964-my-jigsaw-adventures-a-lost-story.json](./162964-my-jigsaw-adventures-a-lost-story.json) |
+| My Jigsaw Adventures: Forgotten Destiny | 162967 | [162967-my-jigsaw-adventures-forgotten-destiny.json](./162967-my-jigsaw-adventures-forgotten-destiny.json) |
 | My Jigsaw Adventures: Roads of Life | 129306 | [129306-my-jigsaw-adventures-roads-of-life.json](./129306-my-jigsaw-adventures-roads-of-life.json) |
 | My Jigsaw Adventures: The Source of Power | 163002 | [163002-my-jigsaw-adventures-the-source-of-power.json](./163002-my-jigsaw-adventures-the-source-of-power.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
