@@ -12260,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Fighter | 185751 | [185751-fractal-fighter.json](./185751-fractal-fighter.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
 | Fractal Foundry | 398725 | [398725-fractal-foundry.json](./398725-fractal-foundry.json) |
+| Fractal Fury | 148581 | [148581-fractal-fury.json](./148581-fractal-fury.json) |
 | Fractal Gallery VR | 372217 | [372217-fractal-gallery-vr.json](./372217-fractal-gallery-vr.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractal Odyssey | 350784 | [350784-fractal-odyssey.json](./350784-fractal-odyssey.json) |
