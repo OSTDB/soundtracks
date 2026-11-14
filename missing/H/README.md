@@ -11021,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde of Plenty | 100474 | [100474-horde-of-plenty.json](./100474-horde-of-plenty.json) |
 | Horde of Viscount | 372780 | [372780-horde-of-viscount.json](./372780-horde-of-viscount.json) |
 | Horde Reapers | 418616 | [418616-horde-reapers.json](./418616-horde-reapers.json) |
+| Horde Slayer | 144440 | [144440-horde-slayer.json](./144440-horde-slayer.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
 | Horde Survival Bundle Xbox: Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King | 333692 | [333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json](./333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json) |
 | Horde Survival Bundle Xbox: Andromeda, Godsvivors and Farmer Survivors | 333691 | [333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json](./333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json) |
