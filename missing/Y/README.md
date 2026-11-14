@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorumorukimiri: Hajimari no Shoujo | 325374 | [325374-yorumorukimiri-hajimari-no-shoujo.json](./325374-yorumorukimiri-hajimari-no-shoujo.json) |
 | Yorumorukimiri: Shippo-tachi no Kizuna | 147337 | [147337-yorumorukimiri-shippo-tachi-no-kizuna.json](./147337-yorumorukimiri-shippo-tachi-no-kizuna.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
+| Yosaku | 123667 | [123667-yosaku.json](./123667-yosaku.json) |
 | Yosamikalo | 368165 | [368165-yosamikalo.json](./368165-yosamikalo.json) |
 | Yosei Wars | 347421 | [347421-yosei-wars.json](./347421-yosei-wars.json) |
 | Yosemite Forest Ranger | 201126 | [201126-yosemite-forest-ranger.json](./201126-yosemite-forest-ranger.json) |
