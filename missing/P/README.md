@@ -14828,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Nazoler | 289752 | [289752-power-nazoler.json](./289752-power-nazoler.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
+| Power of Language | 157743 | [157743-power-of-language.json](./157743-power-of-language.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
 | Power of Love | 35287 | [35287-power-of-love.json](./35287-power-of-love.json) |
 | Power of Petanque | 292191 | [292191-power-of-petanque.json](./292191-power-of-petanque.json) |
