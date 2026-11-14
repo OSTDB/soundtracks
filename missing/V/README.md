@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vector's Adventures | 102292 | [102292-vectors-adventures.json](./102292-vectors-adventures.json) |
 | Vectorball | 13043 | [13043-vectorball.json](./13043-vectorball.json) |
+| VectorBall | 161454 | [161454-vectorball.json](./161454-vectorball.json) |
 | VectorBall | 263720 | [263720-vectorball.json](./263720-vectorball.json) |
 | Vectored | 395662 | [395662-vectored.json](./395662-vectored.json) |
 | VectorField | 181524 | [181524-vectorfield.json](./181524-vectorfield.json) |
