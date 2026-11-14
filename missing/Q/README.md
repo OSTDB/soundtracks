@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadcopter Pilot Challenge | 85358 | [85358-quadcopter-pilot-challenge.json](./85358-quadcopter-pilot-challenge.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadcubes | 357178 | [357178-quadcubes.json](./357178-quadcubes.json) |
+| Quaddro 2 | 90275 | [90275-quaddro-2.json](./90275-quaddro-2.json) |
 | Quaddro 2: Blue Level Pack | 165958 | [165958-quaddro-2-blue-level-pack.json](./165958-quaddro-2-blue-level-pack.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadline | 194181 | [194181-quadline.json](./194181-quadline.json) |
