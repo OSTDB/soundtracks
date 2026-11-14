@@ -6803,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuro no Kyoushitsu | 77892 | [77892-kuro-no-kyoushitsu.json](./77892-kuro-no-kyoushitsu.json) |
 | Kuro survival | 38041 | [38041-kuro-survival.json](./38041-kuro-survival.json) |
 | Kuro Tactics | 154245 | [154245-kuro-tactics.json](./154245-kuro-tactics.json) |
+| Kuro-senpai to Kuroyashiki no Yami ni Mayowanai | 150190 | [150190-kuro-senpai-to-kuroyashiki-no-yami-ni-mayowanai.json](./150190-kuro-senpai-to-kuroyashiki-no-yami-ni-mayowanai.json) |
 | KurOba | 275735 | [275735-kuroba.json](./275735-kuroba.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
 | Kurofune: descobrimentos portugueses | 278545 | [278545-kurofune-descobrimentos-portugueses.json](./278545-kurofune-descobrimentos-portugueses.json) |
