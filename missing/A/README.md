@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game of Hockey | 92320 | [92320-a-game-of-hockey.json](./92320-a-game-of-hockey.json) |
+| A Game of Humans | 136546 | [136546-a-game-of-humans.json](./136546-a-game-of-humans.json) |
 | A Game of Tennis | 92621 | [92621-a-game-of-tennis.json](./92621-a-game-of-tennis.json) |
 | A Game of Thrones | 356004 | [356004-a-game-of-thrones.json](./356004-a-game-of-thrones.json) |
 | A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
@@ -12067,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Hotel | 298446 | [298446-anomaly-hotel.json](./298446-anomaly-hotel.json) |
+| Anomaly Hunter | 136495 | [136495-anomaly-hunter.json](./136495-anomaly-hunter.json) |
 | Anomaly Hunter: Observation Duty | 336812 | [336812-anomaly-hunter-observation-duty.json](./336812-anomaly-hunter-observation-duty.json) |
 | Anomaly Investigations | 298740 | [298740-anomaly-investigations.json](./298740-anomaly-investigations.json) |
 | Anomaly Jobs: Data Center | 402105 | [402105-anomaly-jobs-data-center.json](./402105-anomaly-jobs-data-center.json) |
@@ -12116,6 +12118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous;Code: Steelbook Launch Edition | 209836 | [209836-anonymous-code-steelbook-launch-edition.json](./209836-anonymous-code-steelbook-launch-edition.json) |
 | Anopek | 154066 | [154066-anopek.json](./154066-anopek.json) |
 | Anorak City | 308468 | [308468-anorak-city.json](./308468-anorak-city.json) |
+| Anord | 136541 | [136541-anord.json](./136541-anord.json) |
 | Anosognosia | 398584 | [398584-anosognosia.json](./398584-anosognosia.json) |
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
 | Another Adventure in NSMBU | 261013 | [261013-another-adventure-in-nsmbu.json](./261013-another-adventure-in-nsmbu.json) |
@@ -12444,6 +12447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthro-Terra | 293562 | [293562-anthro-terra.json](./293562-anthro-terra.json) |
 | Anthropeum | 418085 | [418085-anthropeum.json](./418085-anthropeum.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
+| Anthropocene Timeshare | 136507 | [136507-anthropocene-timeshare.json](./136507-anthropocene-timeshare.json) |
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
 | Anthropomachy | 118050 | [118050-anthropomachy.json](./118050-anthropomachy.json) |
 | Anthropomorphic Suspect | 181458 | [181458-anthropomorphic-suspect.json](./181458-anthropomorphic-suspect.json) |
@@ -17705,6 +17709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
 | Astra Noctis | 250808 | [250808-astra-noctis.json](./250808-astra-noctis.json) |
 | Astra Nova | 295069 | [295069-astra-nova.json](./295069-astra-nova.json) |
+| Astra Protocol | 136514 | [136514-astra-protocol.json](./136514-astra-protocol.json) |
 | Astra Protocol 2 | 165305 | [165305-astra-protocol-2.json](./165305-astra-protocol-2.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Protocol Remake | 364172 | [364172-astra-protocol-remake.json](./364172-astra-protocol-remake.json) |
