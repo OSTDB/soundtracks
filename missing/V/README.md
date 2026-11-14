@@ -4473,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
 | VR Store Simulator | 326321 | [326321-vr-store-simulator.json](./326321-vr-store-simulator.json) |
 | VR Summer Sports | 174058 | [174058-vr-summer-sports.json](./174058-vr-summer-sports.json) |
+| VR Super Sports | 125481 | [125481-vr-super-sports.json](./125481-vr-super-sports.json) |
 | VR Super Sports: 10 Edition | 170866 | [170866-vr-super-sports-10-edition.json](./170866-vr-super-sports-10-edition.json) |
 | VR Super Sports: Golf | 170865 | [170865-vr-super-sports-golf.json](./170865-vr-super-sports-golf.json) |
 | VR Super Sports: Table Tennis | 170867 | [170867-vr-super-sports-table-tennis.json](./170867-vr-super-sports-table-tennis.json) |
