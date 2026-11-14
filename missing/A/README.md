@@ -18838,6 +18838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atoms! | 110874 | [110874-atoms.json](./110874-atoms.json) |
 | Aton | 155054 | [155054-aton.json](./155054-aton.json) |
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
+| Atonal Dreams | 156752 | [156752-atonal-dreams.json](./156752-atonal-dreams.json) |
 | Atone | 277308 | [277308-atone.json](./277308-atone.json) |
 | Atone: Heart of the Elder Tree | 84479 | [84479-atone-heart-of-the-elder-tree.json](./84479-atone-heart-of-the-elder-tree.json) |
 | Atonement | 260992 | [260992-atonement.json](./260992-atonement.json) |
