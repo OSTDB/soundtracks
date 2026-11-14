@@ -8213,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide & Secret: Cliff hanger Castle | 201888 | [201888-hide-and-secret-cliff-hanger-castle.json](./201888-hide-and-secret-cliff-hanger-castle.json) |
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
+| Hide & Sink | 135340 | [135340-hide-and-sink.json](./135340-hide-and-sink.json) |
 | Hide & Spook: The Haunted Alchemist | 32722 | [32722-hide-and-spook-the-haunted-alchemist.json](./32722-hide-and-spook-the-haunted-alchemist.json) |
 | Hide Alone | 208560 | [208560-hide-alone.json](./208560-hide-alone.json) |
 | Hide and Fuse | 412742 | [412742-hide-and-fuse.json](./412742-hide-and-fuse.json) |
@@ -8971,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hippo Engineering Patrol | 108211 | [108211-hippo-engineering-patrol.json](./108211-hippo-engineering-patrol.json) |
 | Hippo Hop | 415168 | [415168-hippo-hop.json](./415168-hippo-hop.json) |
+| Hippo on Elm Street | 135325 | [135325-hippo-on-elm-street.json](./135325-hippo-on-elm-street.json) |
 | Hippo Rush | 74893 | [74893-hippo-rush.json](./74893-hippo-rush.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo Teeth | 47259 | [47259-hippo-teeth.json](./47259-hippo-teeth.json) |
