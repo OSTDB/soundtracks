@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek the Discrepancy | 268337 | [268337-seek-the-discrepancy.json](./268337-seek-the-discrepancy.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
+| SeekBlade | 151782 | [151782-seekblade.json](./151782-seekblade.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker 2 | 158319 | [158319-seeker-2.json](./158319-seeker-2.json) |
@@ -8118,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
+| Shape of Stars | 151764 | [151764-shape-of-stars.json](./151764-shape-of-stars.json) |
 | Shape of the Toilet Rim | 218308 | [218308-shape-of-the-toilet-rim.json](./218308-shape-of-the-toilet-rim.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
@@ -32669,6 +32671,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Victoria Vogue | 380845 | [380845-sugoi-girls-victoria-vogue.json](./380845-sugoi-girls-victoria-vogue.json) |
 | Sugoi Girls: Vivacious Vampire | 320458 | [320458-sugoi-girls-vivacious-vampire.json](./320458-sugoi-girls-vivacious-vampire.json) |
 | Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
+| Sugoi RPG? III | 151863 | [151863-sugoi-rpg-iii.json](./151863-sugoi-rpg-iii.json) |
+| Sugoi RPG?: Kouhen | 151861 | [151861-sugoi-rpg-kouhen.json](./151861-sugoi-rpg-kouhen.json) |
 | Sugoro Chronicle | 59327 | [59327-sugoro-chronicle.json](./59327-sugoro-chronicle.json) |
 | Sugoro Quest: Dice Heroes | 330241 | [330241-sugoro-quest-dice-heroes.json](./330241-sugoro-quest-dice-heroes.json) |
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
