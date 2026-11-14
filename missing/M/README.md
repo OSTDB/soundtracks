@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou Company | 292050 | [292050-maou-company.json](./292050-maou-company.json) |
 | Maou ga Ochiru Hi | 295047 | [295047-maou-ga-ochiru-hi.json](./295047-maou-ga-ochiru-hi.json) |
+| Maou Monogatari | 151773 | [151773-maou-monogatari.json](./151773-maou-monogatari.json) |
 | Maou no Musume-tachi | 109119 | [109119-maou-no-musume-tachi.json](./109119-maou-no-musume-tachi.json) |
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou-gun Dai-nana Kouhei-daitai Teisatsu-han | 157254 | [157254-maou-gun-dai-nana-kouhei-daitai-teisatsu-han.json](./157254-maou-gun-dai-nana-kouhei-daitai-teisatsu-han.json) |
@@ -21799,6 +21800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | MustScream | 357139 | [357139-mustscream.json](./357139-mustscream.json) |
+| Musubareta Te | 151769 | [151769-musubareta-te.json](./151769-musubareta-te.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musume | 329463 | [329463-musume.json](./329463-musume.json) |
 | Musuu | 166358 | [166358-musuu.json](./166358-musuu.json) |
