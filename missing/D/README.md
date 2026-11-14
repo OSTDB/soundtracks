@@ -18113,6 +18113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
+| Dreampath: The Two Kingdoms HD | 88531 | [88531-dreampath-the-two-kingdoms-hd.json](./88531-dreampath-the-two-kingdoms-hd.json) |
 | Dreampedia | 402368 | [402368-dreampedia.json](./402368-dreampedia.json) |
 | DreamPost | 412688 | [412688-dreampost.json](./412688-dreampost.json) |
 | Dreampunk | 248798 | [248798-dreampunk.json](./248798-dreampunk.json) |
@@ -20818,6 +20819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Blood and Dream | 257836 | [257836-dungeons-of-blood-and-dream.json](./257836-dungeons-of-blood-and-dream.json) |
 | Dungeons of Bonk | 184243 | [184243-dungeons-of-bonk.json](./184243-dungeons-of-bonk.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
+| Dungeons of Chaos: Revamped Edition. | 88539 | [88539-dungeons-of-chaos-revamped-edition.json](./88539-dungeons-of-chaos-revamped-edition.json) |
 | Dungeons of Clay | 148742 | [148742-dungeons-of-clay.json](./148742-dungeons-of-clay.json) |
 | Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
