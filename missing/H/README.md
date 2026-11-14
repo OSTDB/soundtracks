@@ -5422,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Collection: Memory | 167415 | [167415-hentai-collection-memory.json](./167415-hentai-collection-memory.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Cookie | 365419 | [365419-hentai-cookie.json](./365419-hentai-cookie.json) |
+| Hentai Cool Girls | 167401 | [167401-hentai-cool-girls.json](./167401-hentai-cool-girls.json) |
 | Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
 | Hentai Cosplay USSR | 286486 | [286486-hentai-cosplay-ussr.json](./286486-hentai-cosplay-ussr.json) |
 | Hentai Cowgirl | 177630 | [177630-hentai-cowgirl.json](./177630-hentai-cowgirl.json) |
@@ -5451,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Premium Edition | 317913 | [317913-hentai-dating-stories-brazil-premium-edition.json](./317913-hentai-dating-stories-brazil-premium-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Dating Stories: Brazil - Ultimate Edition | 310432 | [310432-hentai-dating-stories-brazil-ultimate-edition.json](./310432-hentai-dating-stories-brazil-ultimate-edition.json) |
+| Hentai Day: Ringsel in Trouble | 167403 | [167403-hentai-day-ringsel-in-trouble.json](./167403-hentai-day-ringsel-in-trouble.json) |
 | Hentai Demon | 365423 | [365423-hentai-demon.json](./365423-hentai-demon.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
@@ -5559,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls Stories | 370950 | [370950-hentai-girls-stories.json](./370950-hentai-girls-stories.json) |
 | Hentai Girls Succubus | 344302 | [344302-hentai-girls-succubus.json](./344302-hentai-girls-succubus.json) |
+| Hentai Girls VR | 167407 | [167407-hentai-girls-vr.json](./167407-hentai-girls-vr.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
 | Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
 | Hentai Girls: Amazing America | 308515 | [308515-hentai-girls-amazing-america.json](./308515-hentai-girls-amazing-america.json) |
@@ -5687,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai IQ Puzzle: Puzzle Pack - 5 IQ | 163571 | [163571-hentai-iq-puzzle-puzzle-pack-5-iq.json](./163571-hentai-iq-puzzle-puzzle-pack-5-iq.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
 | Hentai it's my life | 284531 | [284531-hentai-its-my-life.json](./284531-hentai-its-my-life.json) |
+| Hentai Jazz | 167402 | [167402-hentai-jazz.json](./167402-hentai-jazz.json) |
 | Hentai Jigsaw | 284529 | [284529-hentai-jigsaw.json](./284529-hentai-jigsaw.json) |
 | Hentai Jigsaw Alison | 162998 | [162998-hentai-jigsaw-alison.json](./162998-hentai-jigsaw-alison.json) |
 | Hentai Jigsaw Emma | 162997 | [162997-hentai-jigsaw-emma.json](./162997-hentai-jigsaw-emma.json) |
@@ -5848,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
 | Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
+| Hentai Pretty | 167406 | [167406-hentai-pretty.json](./167406-hentai-pretty.json) |
 | Hentai Princess | 171664 | [171664-hentai-princess.json](./171664-hentai-princess.json) |
 | Hentai Princess | 374521 | [374521-hentai-princess.json](./374521-hentai-princess.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
@@ -6076,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Violet | 301671 | [301671-hentai-violet.json](./301671-hentai-violet.json) |
 | Hentai Vision | 378850 | [378850-hentai-vision.json](./378850-hentai-vision.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
+| Hentai VR | 167404 | [167404-hentai-vr.json](./167404-hentai-vr.json) |
 | Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
 | Hentai VR 4 | 152620 | [152620-hentai-vr-4.json](./152620-hentai-vr-4.json) |
@@ -11305,6 +11311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
 | Horse Mansion | 301795 | [301795-horse-mansion.json](./301795-horse-mansion.json) |
 | Horse Master | 62453 | [62453-horse-master.json](./62453-horse-master.json) |
+| Horse Paradise: My Dream Ranch - Mystic Cave & Paradise Cove | 167339 | [167339-horse-paradise-my-dream-ranch-mystic-cave-and-paradise-cove.json](./167339-horse-paradise-my-dream-ranch-mystic-cave-and-paradise-cove.json) |
 | Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Park Tycoon 2 | 116445 | [116445-horse-park-tycoon-2.json](./116445-horse-park-tycoon-2.json) |
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
@@ -14039,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperTyper 2000 | 359685 | [359685-hypertyper-2000.json](./359685-hypertyper-2000.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
 | Hyperventila: The Game | 125059 | [125059-hyperventila-the-game.json](./125059-hyperventila-the-game.json) |
+| HyperViolent | 167750 | [167750-hyperviolent.json](./167750-hyperviolent.json) |
 | Hypervox | 393191 | [393191-hypervox.json](./393191-hypervox.json) |
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
