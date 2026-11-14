@@ -4676,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Saints and Sinners | 35425 | [35425-redemption-saints-and-sinners.json](./35425-redemption-saints-and-sinners.json) |
 | Redemption: The Sin Eternal | 423656 | [423656-redemption-the-sin-eternal.json](./423656-redemption-the-sin-eternal.json) |
+| Redemption: Tyranny of Daetorem | 86315 | [86315-redemption-tyranny-of-daetorem.json](./86315-redemption-tyranny-of-daetorem.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
 | Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
 | Redemption's Guild | 76417 | [76417-redemptions-guild.json](./76417-redemptions-guild.json) |
@@ -7979,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles of Egypt | 108139 | [108139-riddles-of-egypt.json](./108139-riddles-of-egypt.json) |
 | Riddles of Fate: Into Oblivion | 140145 | [140145-riddles-of-fate-into-oblivion.json](./140145-riddles-of-fate-into-oblivion.json) |
 | Riddles of Fate: Memento Mori | 140148 | [140148-riddles-of-fate-memento-mori.json](./140148-riddles-of-fate-memento-mori.json) |
+| Riddles of Fate: Memento Mori - Collector's Edition | 86283 | [86283-riddles-of-fate-memento-mori-collectors-edition.json](./86283-riddles-of-fate-memento-mori-collectors-edition.json) |
 | Riddles of Fate: Wild Hunt | 140149 | [140149-riddles-of-fate-wild-hunt.json](./140149-riddles-of-fate-wild-hunt.json) |
 | Riddles of Fate: Wild Hunt - Collector's Edition | 30538 | [30538-riddles-of-fate-wild-hunt-collectors-edition.json](./30538-riddles-of-fate-wild-hunt-collectors-edition.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
