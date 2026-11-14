@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einlanzer | 30575 | [30575-einlanzer.json](./30575-einlanzer.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
+| Einstein | 92731 | [92731-einstein.json](./92731-einstein.json) |
 | Einstein Riddle Island Puzzle | 388272 | [388272-einstein-riddle-island-puzzle.json](./388272-einstein-riddle-island-puzzle.json) |
 | Einstein: Brain Training | 106916 | [106916-einstein-brain-training.json](./106916-einstein-brain-training.json) |
 | Einstein's Brain Power | 209189 | [209189-einsteins-brain-power.json](./209189-einsteins-brain-power.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Adventure: The Lost Castle | 344553 | [344553-elf-adventure-the-lost-castle.json](./344553-elf-adventure-the-lost-castle.json) |
 | Elf Bowling | 51319 | [51319-elf-bowling.json](./51319-elf-bowling.json) |
+| Elf Bowling 1 & 2 | 92708 | [92708-elf-bowling-1-and-2.json](./92708-elf-bowling-1-and-2.json) |
 | Elf Bowling 3 | 71862 | [71862-elf-bowling-3.json](./71862-elf-bowling-3.json) |
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
@@ -4265,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Run: Woopy's Travel | 72466 | [72466-endless-run-woopys-travel.json](./72466-endless-run-woopys-travel.json) |
 | Endless Runner | 307500 | [307500-endless-runner.json](./307500-endless-runner.json) |
 | Endless Rush | 261857 | [261857-endless-rush.json](./261857-endless-rush.json) |
+| Endless Saga | 92711 | [92711-endless-saga.json](./92711-endless-saga.json) |
 | Endless Salvation | 333168 | [333168-endless-salvation.json](./333168-endless-salvation.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Sans | 370384 | [370384-endless-sans.json](./370384-endless-sans.json) |
