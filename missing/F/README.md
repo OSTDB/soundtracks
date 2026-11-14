@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 4: Ultimate Kyrat Edition | 7829 | [7829-far-cry-4-ultimate-kyrat-edition.json](./7829-far-cry-4-ultimate-kyrat-edition.json) |
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
+| Far Cry 5 + Far Cry New Dawn Deluxe Edition Bundle | 164613 | [164613-far-cry-5-far-cry-new-dawn-deluxe-edition-bundle.json](./164613-far-cry-5-far-cry-new-dawn-deluxe-edition-bundle.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
 | Far Cry 5 Season Pass | 95960 | [95960-far-cry-5-season-pass.json](./95960-far-cry-5-season-pass.json) |
 | Far Cry 5: Dead Living Zombies | 90081 | [90081-far-cry-5-dead-living-zombies.json](./90081-far-cry-5-dead-living-zombies.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: KUHN Equipment Pack | 166090 | [166090-farming-simulator-17-kuhn-equipment-pack.json](./166090-farming-simulator-17-kuhn-equipment-pack.json) |
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
+| Farming Simulator 17: Premium Digital Edition | 164622 | [164622-farming-simulator-17-premium-digital-edition.json](./164622-farming-simulator-17-premium-digital-edition.json) |
 | Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
 | Farming Simulator 18 | 41027 | [41027-farming-simulator-18.json](./41027-farming-simulator-18.json) |
 | Farming Simulator 19 | 87210 | [87210-farming-simulator-19.json](./87210-farming-simulator-19.json) |
