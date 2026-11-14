@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: Amazon River DLC | 164525 | [164525-ultimate-fishing-simulator-amazon-river-dlc.json](./164525-ultimate-fishing-simulator-amazon-river-dlc.json) |
 | Ultimate Fishing Simulator: Aquariums DLC | 250707 | [250707-ultimate-fishing-simulator-aquariums-dlc.json](./250707-ultimate-fishing-simulator-aquariums-dlc.json) |
 | Ultimate Fishing Simulator: Florida | 263151 | [263151-ultimate-fishing-simulator-florida.json](./263151-ultimate-fishing-simulator-florida.json) |
+| Ultimate Fishing Simulator: Greenland | 124870 | [124870-ultimate-fishing-simulator-greenland.json](./124870-ultimate-fishing-simulator-greenland.json) |
 | Ultimate Fishing Simulator: Greenland DLC | 164524 | [164524-ultimate-fishing-simulator-greenland-dlc.json](./164524-ultimate-fishing-simulator-greenland-dlc.json) |
 | Ultimate Fishing Simulator: Japan | 154483 | [154483-ultimate-fishing-simulator-japan.json](./154483-ultimate-fishing-simulator-japan.json) |
 | Ultimate Fishing Simulator: Japan DLC | 164526 | [164526-ultimate-fishing-simulator-japan-dlc.json](./164526-ultimate-fishing-simulator-japan-dlc.json) |
