@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oathbreaker | 178754 | [178754-oathbreaker.json](./178754-oathbreaker.json) |
 | Oathbreaker: Season 2 | 178745 | [178745-oathbreaker-season-2.json](./178745-oathbreaker-season-2.json) |
 | Oathbreakers | 221072 | [221072-oathbreakers.json](./221072-oathbreakers.json) |
+| Oaths of Light | 155744 | [155744-oaths-of-light.json](./155744-oaths-of-light.json) |
 | Oathwood Realms | 389368 | [389368-oathwood-realms.json](./389368-oathwood-realms.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
