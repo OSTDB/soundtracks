@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day Of The Tank | 292999 | [292999-day-of-the-tank.json](./292999-day-of-the-tank.json) |
+| Day of the Tiki | 90950 | [90950-day-of-the-tiki.json](./90950-day-of-the-tiki.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
 | Day of the Trumplings | 31622 | [31622-day-of-the-trumplings.json](./31622-day-of-the-trumplings.json) |
 | Day of the Undead | 360728 | [360728-day-of-the-undead.json](./360728-day-of-the-undead.json) |
@@ -11250,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc League | 29500 | [29500-disc-league.json](./29500-disc-league.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
+| Disc Pop | 90959 | [90959-disc-pop.json](./90959-disc-pop.json) |
 | Disc Room | 22700 | [22700-disc-room.json](./22700-disc-room.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
@@ -14376,6 +14378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Dodo Do! | 252062 | [252062-donut-dodo-do.json](./252062-donut-dodo-do.json) |
 | Donut Dodo Fantastico | 347603 | [347603-donut-dodo-fantastico.json](./347603-donut-dodo-fantastico.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
+| Donut Drop With Molly & Friends | 90965 | [90965-donut-drop-with-molly-and-friends.json](./90965-donut-drop-with-molly-and-friends.json) |
 | Donut Factory : Hollywood Money Tycoon | 108551 | [108551-donut-factory-hollywood-money-tycoon.json](./108551-donut-factory-hollywood-money-tycoon.json) |
 | Donut Fun | 221076 | [221076-donut-fun.json](./221076-donut-fun.json) |
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
@@ -15419,6 +15422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
 | Double Play Adventure: Urquahart Castle / The Golden Rose | 78828 | [78828-double-play-adventure-urquahart-castle-the-golden-rose.json](./78828-double-play-adventure-urquahart-castle-the-golden-rose.json) |
+| Double Play: 2-Player VR Baseball | 90954 | [90954-double-play-2-player-vr-baseball.json](./90954-double-play-2-player-vr-baseball.json) |
 | Double Point | 40097 | [40097-double-point.json](./40097-double-point.json) |
 | Double Pug Switch | 110687 | [110687-double-pug-switch.json](./110687-double-pug-switch.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
@@ -17312,6 +17316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakula's Ascension | 351589 | [351589-drakulas-ascension.json](./351589-drakulas-ascension.json) |
 | Drama | 162066 | [162066-drama.json](./162066-drama.json) |
 | Drama Queens | 339565 | [339565-drama-queens.json](./339565-drama-queens.json) |
+| Drama Queens | 90949 | [90949-drama-queens.json](./90949-drama-queens.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatic Dungeon: Sakura Taisen - Kimi Arugatame | 65843 | [65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json](./65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
