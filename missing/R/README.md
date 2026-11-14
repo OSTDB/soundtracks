@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil | 277347 | [277347-recoil.json](./277347-recoil.json) |
 | Recoil | 340715 | [340715-recoil.json](./340715-recoil.json) |
 | Recoil | 344252 | [344252-recoil.json](./344252-recoil.json) |
+| Recoil | 94454 | [94454-recoil.json](./94454-recoil.json) |
 | ReCoil | 295911 | [295911-recoil.json](./295911-recoil.json) |
 | Recoil Cluck | 290962 | [290962-recoil-cluck.json](./290962-recoil-cluck.json) |
 | Recoil Control: The Adventures of Rico Ché | 340714 | [340714-recoil-control-the-adventures-of-rico-che.json](./340714-recoil-control-the-adventures-of-rico-che.json) |
