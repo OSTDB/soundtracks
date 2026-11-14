@@ -8081,6 +8081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride to Hell: Retribution | 2110 | [2110-ride-to-hell-retribution.json](./2110-ride-to-hell-retribution.json) |
 | Ride to Hell: Route 666 | 63561 | [63561-ride-to-hell-route-666.json](./63561-ride-to-hell-route-666.json) |
 | Ride to hill: Offroad Hill Climb | 95784 | [95784-ride-to-hill-offroad-hill-climb.json](./95784-ride-to-hill-offroad-hill-climb.json) |
+| Ride to Hill: Offroad travel | 102463 | [102463-ride-to-hill-offroad-travel.json](./102463-ride-to-hill-offroad-travel.json) |
 | Ride Up | 374890 | [374890-ride-up.json](./374890-ride-up.json) |
 | Ride Up Together | 410574 | [410574-ride-up-together.json](./410574-ride-up-together.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
