@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave of Color | 389942 | [389942-wave-of-color.json](./389942-wave-of-color.json) |
 | Wave of Darkness | 17704 | [17704-wave-of-darkness.json](./17704-wave-of-darkness.json) |
 | Wave of Elms | 244927 | [244927-wave-of-elms.json](./244927-wave-of-elms.json) |
+| Wave of Time | 151318 | [151318-wave-of-time.json](./151318-wave-of-time.json) |
 | Wave of Vengeance | 240606 | [240606-wave-of-vengeance.json](./240606-wave-of-vengeance.json) |
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
 | Wave Race 64 | 286694 | [286694-wave-race-64.json](./286694-wave-race-64.json) |
