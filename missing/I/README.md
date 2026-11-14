@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis Universia: Awakening of the Erudite Empress | 171380 | [171380-ignis-universia-awakening-of-the-erudite-empress.json](./171380-ignis-universia-awakening-of-the-erudite-empress.json) |
 | Ignis Universia: Eternal Sisters Saga | 182020 | [182020-ignis-universia-eternal-sisters-saga.json](./182020-ignis-universia-eternal-sisters-saga.json) |
 | Ignis Universia: Eternal Sisters Saga DX | 144213 | [144213-ignis-universia-eternal-sisters-saga-dx.json](./144213-ignis-universia-eternal-sisters-saga-dx.json) |
+| Ignis: Duels of Wizards | 123648 | [123648-ignis-duels-of-wizards.json](./123648-ignis-duels-of-wizards.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignistone | 248000 | [248000-ignistone.json](./248000-ignistone.json) |
 | Ignite | 138125 | [138125-ignite.json](./138125-ignite.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuvium | 198140 | [198140-illuvium.json](./198140-illuvium.json) |
 | Illuyanka: A Hittite Story | 343161 | [343161-illuyanka-a-hittite-story.json](./343161-illuyanka-a-hittite-story.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
+| Illvelo: Illmatic Envelope | 123127 | [123127-illvelo-illmatic-envelope.json](./123127-illvelo-illmatic-envelope.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | illWill | 191579 | [191579-illwill.json](./191579-illwill.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
