@@ -6391,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Aid | 56558 | [56558-little-aid.json](./56558-little-aid.json) |
 | Little Aid Portable | 204389 | [204389-little-aid-portable.json](./204389-little-aid-portable.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
+| Little Alchemist | 112403 | [112403-little-alchemist.json](./112403-little-alchemist.json) |
 | Little Alchemist: Remastered | 284147 | [284147-little-alchemist-remastered.json](./284147-little-alchemist-remastered.json) |
 | Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
 | Little Alchemy 2 | 68111 | [68111-little-alchemy-2.json](./68111-little-alchemy-2.json) |
