@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Space Conqueror | 118615 | [118615-dark-space-conqueror.json](./118615-dark-space-conqueror.json) |
 | Dark Spasm | 232236 | [232236-dark-spasm.json](./232236-dark-spasm.json) |
+| Dark Sphere | 152506 | [152506-dark-sphere.json](./152506-dark-sphere.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Spot | 157377 | [157377-dark-spot.json](./157377-dark-spot.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
@@ -16692,6 +16693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest: Monster Battle Road Victory - V Navigator | 127270 | [127270-dragon-quest-monster-battle-road-victory-v-navigator.json](./127270-dragon-quest-monster-battle-road-victory-v-navigator.json) |
 | Dragon Quest: Monster Parade | 55959 | [55959-dragon-quest-monster-parade.json](./55959-dragon-quest-monster-parade.json) |
 | Dragon Quest: The Adventure of Dai - A Hero's Bonds | 174673 | [174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json](./174673-dragon-quest-the-adventure-of-dai-a-heros-bonds.json) |
+| Dragon Question | 152516 | [152516-dragon-question.json](./152516-dragon-question.json) |
 | Dragon Quiz | 73196 | [73196-dragon-quiz.json](./73196-dragon-quiz.json) |
 | Dragon Racer | 113791 | [113791-dragon-racer.json](./113791-dragon-racer.json) |
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
