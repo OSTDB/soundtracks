@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RandoJumper | 308148 | [308148-randojumper.json](./308148-randojumper.json) |
 | Random Access Rememberer | 184697 | [184697-random-access-rememberer.json](./184697-random-access-rememberer.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
+| Random Blacksmith Game | 157241 | [157241-random-blacksmith-game.json](./157241-random-blacksmith-game.json) |
 | Random Card Defense | 143392 | [143392-random-card-defense.json](./143392-random-card-defense.json) |
 | Random Chaos Dungeon | 394278 | [394278-random-chaos-dungeon.json](./394278-random-chaos-dungeon.json) |
 | Random Chat | 229913 | [229913-random-chat.json](./229913-random-chat.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectanglez | 187837 | [187837-rectanglez.json](./187837-rectanglez.json) |
 | Rectangulong | 305842 | [305842-rectangulong.json](./305842-rectangulong.json) |
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
+| Rectifying Zion | 157242 | [157242-rectifying-zion.json](./157242-rectifying-zion.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | RectRacer | 43154 | [43154-rectracer.json](./43154-rectracer.json) |
 | Recuerdos de Invierno | 369861 | [369861-recuerdos-de-invierno.json](./369861-recuerdos-de-invierno.json) |
@@ -5781,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replicat | 332307 | [332307-replicat.json](./332307-replicat.json) |
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
+| Replicators Defence | 157253 | [157253-replicators-defence.json](./157253-replicators-defence.json) |
 | Replicomica | 361252 | [361252-replicomica.json](./361252-replicomica.json) |
 | Replicon | 312315 | [312315-replicon.json](./312315-replicon.json) |
 | Replicore | 298401 | [298401-replicore.json](./298401-replicore.json) |
