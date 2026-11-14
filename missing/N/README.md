@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
 | Nex-Ara | 364884 | [364884-nex-ara.json](./364884-nex-ara.json) |
 | Nex:Os Colosseum | 108760 | [108760-nex-os-colosseum.json](./108760-nex-os-colosseum.json) |
+| Nex:Os Colosseum | 158247 | [158247-nex-os-colosseum.json](./158247-nex-os-colosseum.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexagon: Deathmatch | 23691 | [23691-nexagon-deathmatch.json](./23691-nexagon-deathmatch.json) |
 | Nexen | 375713 | [375713-nexen.json](./375713-nexen.json) |
@@ -5082,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Simulator 2 Rebirth | 148967 | [148967-nightmare-simulator-2-rebirth.json](./148967-nightmare-simulator-2-rebirth.json) |
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
 | Nightmare SuperHighway | 336235 | [336235-nightmare-superhighway.json](./336235-nightmare-superhighway.json) |
+| Nightmare Survival | 158257 | [158257-nightmare-survival.json](./158257-nightmare-survival.json) |
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Train | 383878 | [383878-nightmare-train.json](./383878-nightmare-train.json) |
