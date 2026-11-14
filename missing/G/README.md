@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet | 7293 | [7293-gauntlet.json](./7293-gauntlet.json) |
 | Gauntlet | 7294 | [7294-gauntlet.json](./7294-gauntlet.json) |
 | Gauntlet | 81204 | [81204-gauntlet.json](./81204-gauntlet.json) |
+| Gauntlet / Rampart | 78814 | [78814-gauntlet-rampart.json](./78814-gauntlet-rampart.json) |
 | Gauntlet Arcade Version | 45533 | [45533-gauntlet-arcade-version.json](./45533-gauntlet-arcade-version.json) |
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
 | Gauntlet Dark Legacy | 85795 | [85795-gauntlet-dark-legacy.json](./85795-gauntlet-dark-legacy.json) |
@@ -3965,7 +3966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
 | Get-'em-All Bundle | 136351 | [136351-get-em-all-bundle.json](./136351-get-em-all-bundle.json) |
-| Get-A-Grip Chip | 132314 | [132314-get-a-grip-chip.json](./132314-get-a-grip-chip.json) |
 | Get-A-Grip Chip and the Body Bugs | 194722 | [194722-get-a-grip-chip-and-the-body-bugs.json](./194722-get-a-grip-chip-and-the-body-bugs.json) |
 | GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Get! Monster | 240110 | [240110-get-monster.json](./240110-get-monster.json) |
@@ -4000,7 +4000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
-| GetsuFumaDen: Undying Moon | 145785 | [145785-getsufumaden-undying-moon.json](./145785-getsufumaden-undying-moon.json) |
 | GetsuFumaDen: Undying Moon - Deluxe Edition | 249961 | [249961-getsufumaden-undying-moon-deluxe-edition.json](./249961-getsufumaden-undying-moon-deluxe-edition.json) |
 | GetsuFumaDen: Undying Moon - Digital Deluxe Edition | 199824 | [199824-getsufumaden-undying-moon-digital-deluxe-edition.json](./199824-getsufumaden-undying-moon-digital-deluxe-edition.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
@@ -4694,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibtropolis | 299848 | [299848-gibtropolis.json](./299848-gibtropolis.json) |
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
+| Giddy II: Hero in an Egg Shell | 78786 | [78786-giddy-ii-hero-in-an-egg-shell.json](./78786-giddy-ii-hero-in-an-egg-shell.json) |
 | Gidget & The Mysterious Thievery of Hoppity Town | 200006 | [200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json](./200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
 | GiDon Duet | 61830 | [61830-gidon-duet.json](./61830-gidon-duet.json) |
@@ -6299,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
 | Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
+| Goal! | 78774 | [78774-goal.json](./78774-goal.json) |
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
 | Goal! Two | 48162 | [48162-goal-two.json](./48162-goal-two.json) |
 | Goal!: The Club Manager | 195379 | [195379-goal-the-club-manager.json](./195379-goal-the-club-manager.json) |
@@ -9770,6 +9771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gred | 126943 | [126943-gred.json](./126943-gred.json) |
 | Greda Inferno | 397591 | [397591-greda-inferno.json](./397591-greda-inferno.json) |
 | Grederys | 201226 | [201226-grederys.json](./201226-grederys.json) |
+| Greebles | 78781 | [78781-greebles.json](./78781-greebles.json) |
 | Greeblings | 351110 | [351110-greeblings.json](./351110-greeblings.json) |
 | Greebly Gambit | 407336 | [407336-greebly-gambit.json](./407336-greebly-gambit.json) |
 | Greece Defense TD | 90300 | [90300-greece-defense-td.json](./90300-greece-defense-td.json) |
