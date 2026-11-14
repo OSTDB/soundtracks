@@ -5200,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agama Versus Bugs | 303123 | [303123-agama-versus-bugs.json](./303123-agama-versus-bugs.json) |
 | Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
+| Agar.cc | 154630 | [154630-agar-cc.json](./154630-agar-cc.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
 | Agarest Senki Zero: Dawn of War | 66468 | [66468-agarest-senki-zero-dawn-of-war.json](./66468-agarest-senki-zero-dawn-of-war.json) |
@@ -17852,6 +17853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Chase 3D | 107639 | [107639-astro-chase-3d.json](./107639-astro-chase-3d.json) |
 | Astro Chef | 289381 | [289381-astro-chef.json](./289381-astro-chef.json) |
 | Astro Chef | 83192 | [83192-astro-chef.json](./83192-astro-chef.json) |
+| Astro Colony | 154626 | [154626-astro-colony.json](./154626-astro-colony.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Combat | 345097 | [345097-astro-combat.json](./345097-astro-combat.json) |
 | Astro Command | 284220 | [284220-astro-command.json](./284220-astro-command.json) |
