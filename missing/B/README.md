@@ -4536,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Unit Zeoth | 7775 | [7775-battle-unit-zeoth.json](./7775-battle-unit-zeoth.json) |
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
 | Battle Valley | 11946 | [11946-battle-valley.json](./11946-battle-valley.json) |
+| Battle Village | 149643 | [149643-battle-village.json](./149643-battle-village.json) |
 | Battle Vision | 305029 | [305029-battle-vision.json](./305029-battle-vision.json) |
 | Battle vs. Chess | 177076 | [177076-battle-vs-chess.json](./177076-battle-vs-chess.json) |
 | Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
@@ -13426,6 +13427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. - Line Wars | 137670 | [137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json](./137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json) |
 | Bofyne Unit: The Omega Contract | 303348 | [303348-bofyne-unit-the-omega-contract.json](./303348-bofyne-unit-the-omega-contract.json) |
 | Bog | 176593 | [176593-bog.json](./176593-bog.json) |
+| Bog Lord | 149640 | [149640-bog-lord.json](./149640-bog-lord.json) |
 | Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bog Roll | 248963 | [248963-bog-roll.json](./248963-bog-roll.json) |
@@ -17097,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
 | Bricks Defender | 147572 | [147572-bricks-defender.json](./147572-bricks-defender.json) |
 | Bricks Defender 4 | 146948 | [146948-bricks-defender-4.json](./146948-bricks-defender-4.json) |
+| Bricks Frenzy | 149615 | [149615-bricks-frenzy.json](./149615-bricks-frenzy.json) |
 | Bricks in the Box | 104741 | [104741-bricks-in-the-box.json](./104741-bricks-in-the-box.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
@@ -19765,6 +19768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Snow | 395620 | [395620-burning-snow.json](./395620-burning-snow.json) |
 | Burning Soldier | 11861 | [11861-burning-soldier.json](./11861-burning-soldier.json) |
 | Burning Steel: Superschiffe im Atlantik | 92067 | [92067-burning-steel-superschiffe-im-atlantik.json](./92067-burning-steel-superschiffe-im-atlantik.json) |
+| Burning Sun | 149641 | [149641-burning-sun.json](./149641-burning-sun.json) |
 | Burning Sword: Death Sun | 272780 | [272780-burning-sword-death-sun.json](./272780-burning-sword-death-sun.json) |
 | Burning Tail Banquet | 403789 | [403789-burning-tail-banquet.json](./403789-burning-tail-banquet.json) |
 | Burning Tenshi | 184970 | [184970-burning-tenshi.json](./184970-burning-tenshi.json) |
