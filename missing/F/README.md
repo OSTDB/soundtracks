@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
 | Falling Rain | 327121 | [327121-falling-rain.json](./327121-falling-rain.json) |
 | Falling Robots | 26162 | [26162-falling-robots.json](./26162-falling-robots.json) |
+| Falling Sand | 90245 | [90245-falling-sand.json](./90245-falling-sand.json) |
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
 | Falling Sands Fast | 152038 | [152038-falling-sands-fast.json](./152038-falling-sands-fast.json) |
 | Falling Skies | 135084 | [135084-falling-skies.json](./135084-falling-skies.json) |
@@ -8233,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Planes | 183743 | [183743-flappy-planes.json](./183743-flappy-planes.json) |
 | Flappy Puffy | 385965 | [385965-flappy-puffy.json](./385965-flappy-puffy.json) |
 | Flappy Putin: Hardbass Gopnik | 202094 | [202094-flappy-putin-hardbass-gopnik.json](./202094-flappy-putin-hardbass-gopnik.json) |
+| Flappy Rainbow | 89463 | [89463-flappy-rainbow.json](./89463-flappy-rainbow.json) |
 | Flappy Rainbow Unicorn | 99918 | [99918-flappy-rainbow-unicorn.json](./99918-flappy-rainbow-unicorn.json) |
 | Flappy Royale | 130743 | [130743-flappy-royale.json](./130743-flappy-royale.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
