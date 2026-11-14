@@ -17521,6 +17521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans | 115477 | [115477-monster-jam-steel-titans.json](./115477-monster-jam-steel-titans.json) |
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
+| Monster Jam Steel Titans Power Out Bundle | 164614 | [164614-monster-jam-steel-titans-power-out-bundle.json](./164614-monster-jam-steel-titans-power-out-bundle.json) |
 | Monster Jam Steel Titans: Fire & Ice Truck Bundle | 225943 | [225943-monster-jam-steel-titans-fire-and-ice-truck-bundle.json](./225943-monster-jam-steel-titans-fire-and-ice-truck-bundle.json) |
 | Monster Jam: Crush It! | 42932 | [42932-monster-jam-crush-it.json](./42932-monster-jam-crush-it.json) |
 | Monster Jam: Maximum Destruction | 242805 | [242805-monster-jam-maximum-destruction.json](./242805-monster-jam-maximum-destruction.json) |
@@ -21765,8 +21766,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
 | Mutant Football League: Demonic Legion Pack | 116643 | [116643-mutant-football-league-demonic-legion-pack.json](./116643-mutant-football-league-demonic-legion-pack.json) |
+| Mutant Football League: Demonic Legion Pack | 164548 | [164548-mutant-football-league-demonic-legion-pack.json](./164548-mutant-football-league-demonic-legion-pack.json) |
 | Mutant Football League: Diami Krakens | 226704 | [226704-mutant-football-league-diami-krakens.json](./226704-mutant-football-league-diami-krakens.json) |
 | Mutant Football League: Diami Krakens | 227388 | [227388-mutant-football-league-diami-krakens.json](./227388-mutant-football-league-diami-krakens.json) |
+| Mutant Football League: Dynasty | 164546 | [164546-mutant-football-league-dynasty.json](./164546-mutant-football-league-dynasty.json) |
 | Mutant Football League: Dynasty Edition | 104819 | [104819-mutant-football-league-dynasty-edition.json](./104819-mutant-football-league-dynasty-edition.json) |
 | Mutant Football League: Dynasty Edition - Purple Oil Pack | 154927 | [154927-mutant-football-league-dynasty-edition-purple-oil-pack.json](./154927-mutant-football-league-dynasty-edition-purple-oil-pack.json) |
 | Mutant Football League: Dynasty Edition DLC Pack | 118973 | [118973-mutant-football-league-dynasty-edition-dlc-pack.json](./118973-mutant-football-league-dynasty-edition-dlc-pack.json) |
@@ -21781,6 +21784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
 | Mutant Football League: Werewolf Rampage Pack | 116644 | [116644-mutant-football-league-werewolf-rampage-pack.json](./116644-mutant-football-league-werewolf-rampage-pack.json) |
+| Mutant Football League: Werewolf Rampage Pack | 164547 | [164547-mutant-football-league-werewolf-rampage-pack.json](./164547-mutant-football-league-werewolf-rampage-pack.json) |
 | Mutant Forge | 261488 | [261488-mutant-forge.json](./261488-mutant-forge.json) |
 | Mutant Fridge Mayhem | 87211 | [87211-mutant-fridge-mayhem.json](./87211-mutant-fridge-mayhem.json) |
 | Mutant Frog | 270520 | [270520-mutant-frog.json](./270520-mutant-frog.json) |
@@ -24010,6 +24014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Dreamcatcher 3 | 237255 | [237255-mystery-solitaire-dreamcatcher-3.json](./237255-mystery-solitaire-dreamcatcher-3.json) |
 | Mystery Solitaire: Grimm's Tales | 124386 | [124386-mystery-solitaire-grimms-tales.json](./124386-mystery-solitaire-grimms-tales.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
+| Mystery Solitaire: Grimm's Tales 3 | 164549 | [164549-mystery-solitaire-grimms-tales-3.json](./164549-mystery-solitaire-grimms-tales-3.json) |
 | Mystery Solitaire: Grimm's Tales 4 | 193649 | [193649-mystery-solitaire-grimms-tales-4.json](./193649-mystery-solitaire-grimms-tales-4.json) |
 | Mystery Solitaire: Grimm's Tales 5 | 195869 | [195869-mystery-solitaire-grimms-tales-5.json](./195869-mystery-solitaire-grimms-tales-5.json) |
 | Mystery Solitaire: Grimm's Tales 6 | 208822 | [208822-mystery-solitaire-grimms-tales-6.json](./208822-mystery-solitaire-grimms-tales-6.json) |
