@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
 | You Are Undead | 180665 | [180665-you-are-undead.json](./180665-you-are-undead.json) |
+| You Are Weak | 140081 | [140081-you-are-weak.json](./140081-you-are-weak.json) |
 | You Are What You Eat | 181461 | [181461-you-are-what-you-eat.json](./181461-you-are-what-you-eat.json) |
 | You Arrive In A Town | 138653 | [138653-you-arrive-in-a-town.json](./138653-you-arrive-in-a-town.json) |
 | You Belong Here | 382695 | [382695-you-belong-here.json](./382695-you-belong-here.json) |
