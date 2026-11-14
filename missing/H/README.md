@@ -6798,6 +6798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hammerwatch | 75100 | [75100-heroes-of-hammerwatch.json](./75100-heroes-of-hammerwatch.json) |
 | Heroes of Hammerwatch II | 319818 | [319818-heroes-of-hammerwatch-ii.json](./319818-heroes-of-hammerwatch-ii.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
+| Heroes of Hammerwatch: Moon Temple | 143184 | [143184-heroes-of-hammerwatch-moon-temple.json](./143184-heroes-of-hammerwatch-moon-temple.json) |
 | Heroes of Hammerwatch: Pyramid of Prophecy | 125001 | [125001-heroes-of-hammerwatch-pyramid-of-prophecy.json](./125001-heroes-of-hammerwatch-pyramid-of-prophecy.json) |
 | Heroes of Hammerwatch: Witch Hunter | 124902 | [124902-heroes-of-hammerwatch-witch-hunter.json](./124902-heroes-of-hammerwatch-witch-hunter.json) |
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
@@ -7761,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Kittens: Kingdom of Cats | 311906 | [311906-hidden-kittens-kingdom-of-cats.json](./311906-hidden-kittens-kingdom-of-cats.json) |
 | Hidden Kooky Set | 362584 | [362584-hidden-kooky-set.json](./362584-hidden-kooky-set.json) |
 | Hidden Land: Land of Dusk | 416485 | [416485-hidden-land-land-of-dusk.json](./416485-hidden-land-land-of-dusk.json) |
+| Hidden Lands | 143154 | [143154-hidden-lands.json](./143154-hidden-lands.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
