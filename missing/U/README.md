@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima 4+5+6 | 154173 | [154173-ultima-4-5-6.json](./154173-ultima-4-5-6.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
+| Ultima Defesa | 122492 | [122492-ultima-defesa.json](./122492-ultima-defesa.json) |
 | Ultima Forever | 22193 | [22193-ultima-forever.json](./22193-ultima-forever.json) |
 | Ultima Forever: Quest for the Avatar | 64923 | [64923-ultima-forever-quest-for-the-avatar.json](./64923-ultima-forever-quest-for-the-avatar.json) |
 | Ultima I | 378507 | [378507-ultima-i.json](./378507-ultima-i.json) |
