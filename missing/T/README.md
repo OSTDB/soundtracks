@@ -9140,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diamond Mystery in Rosemond Valley | 125305 | [125305-the-diamond-mystery-in-rosemond-valley.json](./125305-the-diamond-mystery-in-rosemond-valley.json) |
 | The Diary | 208755 | [208755-the-diary.json](./208755-the-diary.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
+| The Dictatress | 132920 | [132920-the-dictatress.json](./132920-the-dictatress.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Die Is Cast | 303947 | [303947-the-die-is-cast.json](./303947-the-die-is-cast.json) |
 | The Difference Between Us | 184309 | [184309-the-difference-between-us.json](./184309-the-difference-between-us.json) |
@@ -9991,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
+| The Explorer | 132875 | [132875-the-explorer.json](./132875-the-explorer.json) |
 | The Explorer | 380910 | [380910-the-explorer.json](./380910-the-explorer.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
@@ -11024,6 +11026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl In White | 376655 | [376655-the-girl-in-white.json](./376655-the-girl-in-white.json) |
+| The Girl of Glass: A Summer Bird's Tale | 132919 | [132919-the-girl-of-glass-a-summer-birds-tale.json](./132919-the-girl-of-glass-a-summer-birds-tale.json) |
 | The Girl on the Train | 74247 | [74247-the-girl-on-the-train.json](./74247-the-girl-on-the-train.json) |
 | The Girl Under The Tree: Anna | 288796 | [288796-the-girl-under-the-tree-anna.json](./288796-the-girl-under-the-tree-anna.json) |
 | The Girl Walks Back | 393542 | [393542-the-girl-walks-back.json](./393542-the-girl-walks-back.json) |
@@ -12291,6 +12294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inner World 2 | 99344 | [99344-the-inner-world-2.json](./99344-the-inner-world-2.json) |
 | The Inner World: The Last Wind Monk | 29065 | [29065-the-inner-world-the-last-wind-monk.json](./29065-the-inner-world-the-last-wind-monk.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
+| The Innkeeper | 132874 | [132874-the-innkeeper.json](./132874-the-innkeeper.json) |
 | The Innocent | 177610 | [177610-the-innocent.json](./177610-the-innocent.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
@@ -12898,6 +12902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Syree III: The Depths of Hell | 231537 | [231537-the-kingdom-of-syree-iii-the-depths-of-hell.json](./231537-the-kingdom-of-syree-iii-the-depths-of-hell.json) |
 | The Kingdom of the Golden Thread and the MadClocks | 396652 | [396652-the-kingdom-of-the-golden-thread-and-the-madclocks.json](./396652-the-kingdom-of-the-golden-thread-and-the-madclocks.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
+| The Kingless Land | 132889 | [132889-the-kingless-land.json](./132889-the-kingless-land.json) |
 | The Kingpin | 245775 | [245775-the-kingpin.json](./245775-the-kingpin.json) |
 | The Kings Crusade | 2039 | [2039-the-kings-crusade.json](./2039-the-kings-crusade.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
@@ -13067,6 +13072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Alchemist | 214839 | [214839-the-last-alchemist.json](./214839-the-last-alchemist.json) |
 | The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
 | The Last AntLion | 120753 | [120753-the-last-antlion.json](./120753-the-last-antlion.json) |
+| The Last Archwing | 132898 | [132898-the-last-archwing.json](./132898-the-last-archwing.json) |
 | The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
 | The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
 | The Last Barbarian | 217745 | [217745-the-last-barbarian.json](./217745-the-last-barbarian.json) |
@@ -19989,6 +19995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trouble With Robots | 23344 | [23344-the-trouble-with-robots.json](./23344-the-trouble-with-robots.json) |
 | The Trouble: Defense | 316661 | [316661-the-trouble-defense.json](./316661-the-trouble-defense.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
+| The Trud | 132901 | [132901-the-trud.json](./132901-the-trud.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
 | The True Ingredients | 229885 | [229885-the-true-ingredients.json](./229885-the-true-ingredients.json) |
 | The True Love Rings | 220514 | [220514-the-true-love-rings.json](./220514-the-true-love-rings.json) |
@@ -29685,6 +29692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
 | Tower Ball | 170624 | [170624-tower-ball.json](./170624-tower-ball.json) |
 | Tower Behind the Moon | 113808 | [113808-tower-behind-the-moon.json](./113808-tower-behind-the-moon.json) |
+| Tower Blitz | 132900 | [132900-tower-blitz.json](./132900-tower-blitz.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower Bloxx: New York | 66423 | [66423-tower-bloxx-new-york.json](./66423-tower-bloxx-new-york.json) |
@@ -34421,6 +34429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristoy | 17443 | [17443-tristoy.json](./17443-tristoy.json) |
 | Triteckka: The pure shooter | 109842 | [109842-triteckka-the-pure-shooter.json](./109842-triteckka-the-pure-shooter.json) |
 | Tritime Space | 310718 | [310718-tritime-space.json](./310718-tritime-space.json) |
+| Tritium | 132897 | [132897-tritium.json](./132897-tritium.json) |
 | Trito's Adventure | 241815 | [241815-tritos-adventure.json](./241815-tritos-adventure.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Triton Wing | 55609 | [55609-triton-wing.json](./55609-triton-wing.json) |
