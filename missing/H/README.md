@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadron | 59632 | [59632-hadron.json](./59632-hadron.json) |
 | Hadron's Forge | 51666 | [51666-hadrons-forge.json](./51666-hadrons-forge.json) |
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
+| Hae | 121837 | [121837-hae.json](./121837-hae.json) |
 | HAE Stack | 400502 | [400502-hae-stack.json](./400502-hae-stack.json) |
 | Haecia | 125903 | [125903-haecia.json](./125903-haecia.json) |
 | Haegemonia: Gold Edition | 51824 | [51824-haegemonia-gold-edition.json](./51824-haegemonia-gold-edition.json) |
@@ -6963,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Strategy・Heroes Strategy・Kards | 284271 | [284271-heroes-strategy-heroes-strategy-kards.json](./284271-heroes-strategy-heroes-strategy-kards.json) |
 | Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
 | Heroes Suck | 258747 | [258747-heroes-suck.json](./258747-heroes-suck.json) |
+| Heroes Swipe Right | 121798 | [121798-heroes-swipe-right.json](./121798-heroes-swipe-right.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
 | Heroes Tactics: Fire Emblem | 389655 | [389655-heroes-tactics-fire-emblem.json](./389655-heroes-tactics-fire-emblem.json) |
 | Heroes TD | 237430 | [237430-heroes-td.json](./237430-heroes-td.json) |
