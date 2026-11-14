@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango | 153803 | [153803-mango.json](./153803-mango.json) |
 | Mango | 393833 | [393833-mango.json](./393833-mango.json) |
 | Mango 64 | 296972 | [296972-mango-64.json](./296972-mango-64.json) |
+| Mango Cart | 115820 | [115820-mango-cart.json](./115820-mango-cart.json) |
 | Mango Goes to Mewsic School | 292256 | [292256-mango-goes-to-mewsic-school.json](./292256-mango-goes-to-mewsic-school.json) |
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MassEve | 350003 | [350003-masseve.json](./350003-masseve.json) |
 | Massi | 223868 | [223868-massi.json](./223868-massi.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
+| Massive Air Combat | 115823 | [115823-massive-air-combat.json](./115823-massive-air-combat.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
 | Massive Assault | 9378 | [9378-massive-assault.json](./9378-massive-assault.json) |
 | Massive Assault Network | 9379 | [9379-massive-assault-network.json](./9379-massive-assault-network.json) |
@@ -11623,6 +11625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
 | Michel Teló Around the World | 248621 | [248621-michel-telo-around-the-world.json](./248621-michel-telo-around-the-world.json) |
 | Michelangelo: Stonemason Simulator | 344717 | [344717-michelangelo-stonemason-simulator.json](./344717-michelangelo-stonemason-simulator.json) |
+| Michelin Rally Masters: Race of Champions | 115838 | [115838-michelin-rally-masters-race-of-champions.json](./115838-michelin-rally-masters-race-of-champions.json) |
 | Michelle Kwan Figure Skating | 307405 | [307405-michelle-kwan-figure-skating.json](./307405-michelle-kwan-figure-skating.json) |
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
@@ -16898,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money and Lady | 309421 | [309421-money-and-lady.json](./309421-money-and-lady.json) |
 | Money Bags: Beat the Gnome of Zurich | 68886 | [68886-money-bags-beat-the-gnome-of-zurich.json](./68886-money-bags-beat-the-gnome-of-zurich.json) |
+| Money Bath VR | 115829 | [115829-money-bath-vr.json](./115829-money-bath-vr.json) |
 | Money Block | 341248 | [341248-money-block.json](./341248-money-block.json) |
 | Money Burner | 420525 | [420525-money-burner.json](./420525-money-burner.json) |
 | Money Cascade Challenge | 411244 | [411244-money-cascade-challenge.json](./411244-money-cascade-challenge.json) |
