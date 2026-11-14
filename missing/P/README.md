@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | Palmoni | 420959 | [420959-palmoni.json](./420959-palmoni.json) |
 | Palmora | 348679 | [348679-palmora.json](./348679-palmora.json) |
+| PalmRide | 166785 | [166785-palmride.json](./166785-palmride.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmvil Haunted Villa | 371142 | [371142-palmvil-haunted-villa.json](./371142-palmvil-haunted-villa.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
@@ -9923,6 +9924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Plan Bee | 278842 | [278842-plan-bee.json](./278842-plan-bee.json) |
 | Plan it Green | 10703 | [10703-plan-it-green.json](./10703-plan-it-green.json) |
+| Plan Z | 166859 | [166859-plan-z.json](./166859-plan-z.json) |
 | Plan Z Chapter 1 | 32420 | [32420-plan-z-chapter-1.json](./32420-plan-z-chapter-1.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
 | Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
@@ -13296,6 +13298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Speed | 285792 | [285792-poly-speed.json](./285792-poly-speed.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
+| Poly Synth Gunner | 166797 | [166797-poly-synth-gunner.json](./166797-poly-synth-gunner.json) |
 | Poly TD | 333342 | [333342-poly-td.json](./333342-poly-td.json) |
 | Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
 | Poly Towns | 33588 | [33588-poly-towns.json](./33588-poly-towns.json) |
