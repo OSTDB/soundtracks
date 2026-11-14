@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
 | Zip! Speedster of Valiant City | 129318 | [129318-zip-speedster-of-valiant-city.json](./129318-zip-speedster-of-valiant-city.json) |
 | Zip's Jumping Adventure | 364796 | [364796-zips-jumping-adventure.json](./364796-zips-jumping-adventure.json) |
+| Zipang | 131021 | [131021-zipang.json](./131021-zipang.json) |
 | Zipang | 42066 | [42066-zipang.json](./42066-zipang.json) |
 | Zipangu Jima: Unmei ha Saikoro ga Kimeru!? | 350188 | [350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json](./350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
