@@ -4414,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Unending | 234268 | [234268-dead-unending.json](./234268-dead-unending.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead War Rise of Zombies | 305647 | [305647-dead-war-rise-of-zombies.json](./305647-dead-war-rise-of-zombies.json) |
+| Dead Warrior Tribute | 141294 | [141294-dead-warrior-tribute.json](./141294-dead-warrior-tribute.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Way | 181015 | [181015-dead-way.json](./181015-dead-way.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
@@ -15665,6 +15666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr Voss' Escape Room | 360859 | [360859-dr-voss-escape-room.json](./360859-dr-voss-escape-room.json) |
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
+| DR!FT Hybrid Gaming | 141312 | [141312-dr-ft-hybrid-gaming.json](./141312-dr-ft-hybrid-gaming.json) |
 | Dr. Alb's Prodigy | 291844 | [291844-dr-albs-prodigy.json](./291844-dr-albs-prodigy.json) |
 | Dr. Atominus | 142807 | [142807-dr-atominus.json](./142807-dr-atominus.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
@@ -19362,6 +19364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducking Grenades | 297954 | [297954-ducking-grenades.json](./297954-ducking-grenades.json) |
 | DuckLaserDuck | 320584 | [320584-ducklaserduck.json](./320584-ducklaserduck.json) |
 | Duckles: the Jigsaw Witch | 31733 | [31733-duckles-the-jigsaw-witch.json](./31733-duckles-the-jigsaw-witch.json) |
+| Ducklin | 141319 | [141319-ducklin.json](./141319-ducklin.json) |
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
@@ -19871,6 +19874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Bucko | 416376 | [416376-dungeon-bucko.json](./416376-dungeon-bucko.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Burglars | 250411 | [250411-dungeon-burglars.json](./250411-dungeon-burglars.json) |
+| Dungeon Burnout | 141260 | [141260-dungeon-burnout.json](./141260-dungeon-burnout.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
 | Dungeon Cards | 127627 | [127627-dungeon-cards.json](./127627-dungeon-cards.json) |
