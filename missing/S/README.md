@@ -20903,6 +20903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundmarine | 180889 | [180889-soundmarine.json](./180889-soundmarine.json) |
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
 | Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
+| Soundpatch | 135354 | [135354-soundpatch.json](./135354-soundpatch.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
 | Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
@@ -21078,6 +21079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Jump Game: Kaiju Chaos Bundle | 226914 | [226914-soviet-jump-game-kaiju-chaos-bundle.json](./226914-soviet-jump-game-kaiju-chaos-bundle.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
+| Soviet Prisoner | 135346 | [135346-soviet-prisoner.json](./135346-soviet-prisoner.json) |
 | Soviet Project | 272423 | [272423-soviet-project.json](./272423-soviet-project.json) |
 | Soviet Simulator | 164194 | [164194-soviet-simulator.json](./164194-soviet-simulator.json) |
 | Soviet Soldier | 291402 | [291402-soviet-soldier.json](./291402-soviet-soldier.json) |
@@ -21855,6 +21857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
 | Space M+A+X | 37157 | [37157-space-m-a-x.json](./37157-space-m-a-x.json) |
+| Space Madness | 135332 | [135332-space-madness.json](./135332-space-madness.json) |
 | Space Mages | 381644 | [381644-space-mages.json](./381644-space-mages.json) |
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Major Miner | 207324 | [207324-space-major-miner.json](./207324-space-major-miner.json) |
@@ -25339,6 +25342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
 | Springshot | 263575 | [263575-springshot.json](./263575-springshot.json) |
+| Springtale | 135353 | [135353-springtale.json](./135353-springtale.json) |
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Hike | 264231 | [264231-springtime-hike.json](./264231-springtime-hike.json) |
 | Springtime Mahjongg 2 | 215258 | [215258-springtime-mahjongg-2.json](./215258-springtime-mahjongg-2.json) |
@@ -30367,6 +30371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stötnisse Åker Hiss | 187026 | [187026-stotnisse-aker-hiss.json](./187026-stotnisse-aker-hiss.json) |
 | Stouthollow Tales | 149634 | [149634-stouthollow-tales.json](./149634-stouthollow-tales.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
+| Stowaway | 135366 | [135366-stowaway.json](./135366-stowaway.json) |
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
 | Stowaway | 187078 | [187078-stowaway.json](./187078-stowaway.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
@@ -31754,6 +31759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
 | Student Council President Shizuka: Undercover Investigation into Neglectful Men's School | 82614 | [82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json](./82614-student-council-president-shizuka-undercover-investigation-into-neglectful-mens-school.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
+| Student Union | 135355 | [135355-student-union.json](./135355-student-union.json) |
 | Students of Light Bonds: Typing RPG with Character Creation | 237184 | [237184-students-of-light-bonds-typing-rpg-with-character-creation.json](./237184-students-of-light-bonds-typing-rpg-with-character-creation.json) |
 | Students of Psionic Power | 211260 | [211260-students-of-psionic-power.json](./211260-students-of-psionic-power.json) |
 | Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
