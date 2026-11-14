@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, My Warlord | 368394 | [368394-yes-my-warlord.json](./368394-yes-my-warlord.json) |
 | Yes, No, Goodbye | 365359 | [365359-yes-no-goodbye.json](./365359-yes-no-goodbye.json) |
 | Yes, Sir | 284252 | [284252-yes-sir.json](./284252-yes-sir.json) |
+| Yes, the Queen is the Best! | 125522 | [125522-yes-the-queen-is-the-best.json](./125522-yes-the-queen-is-the-best.json) |
 | Yes, Your Grace | 122729 | [122729-yes-your-grace.json](./122729-yes-your-grace.json) |
 | Yes, Your Grace: Snowfall | 252483 | [252483-yes-your-grace-snowfall.json](./252483-yes-your-grace-snowfall.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
