@@ -14041,6 +14041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing!! 2: A Graffiti Paradise | 225700 | [225700-bombing-2-a-graffiti-paradise.json](./225700-bombing-2-a-graffiti-paradise.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
+| Bombjour | 107459 | [107459-bombjour.json](./107459-bombjour.json) |
 | BomBliss | 263865 | [263865-bombliss.json](./263865-bombliss.json) |
 | BombMachine Gunzohg | 365336 | [365336-bombmachine-gunzohg.json](./365336-bombmachine-gunzohg.json) |
 | Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
@@ -15084,6 +15085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Journey | 155778 | [155778-bottle-journey.json](./155778-bottle-journey.json) |
 | Bottle of Ghouls | 281969 | [281969-bottle-of-ghouls.json](./281969-bottle-of-ghouls.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
+| Bottle of truth | 107975 | [107975-bottle-of-truth.json](./107975-bottle-of-truth.json) |
 | Bottle Rockets | 177447 | [177447-bottle-rockets.json](./177447-bottle-rockets.json) |
 | Bottle Shooting: Club Bar Gun | 108207 | [108207-bottle-shooting-club-bar-gun.json](./108207-bottle-shooting-club-bar-gun.json) |
 | Bottle Tap | 289767 | [289767-bottle-tap.json](./289767-bottle-tap.json) |
@@ -17846,6 +17848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms: Furious 4 | 2034 | [2034-brothers-in-arms-furious-4.json](./2034-brothers-in-arms-furious-4.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers in Arms: Hour of Heroes | 21648 | [21648-brothers-in-arms-hour-of-heroes.json](./21648-brothers-in-arms-hour-of-heroes.json) |
+| Brothers in Arms: Kill to Survive | 107949 | [107949-brothers-in-arms-kill-to-survive.json](./107949-brothers-in-arms-kill-to-survive.json) |
 | Brothers in Arms: Road to Hill 30 | 619 | [619-brothers-in-arms-road-to-hill-30.json](./619-brothers-in-arms-road-to-hill-30.json) |
 | Brothers in Blood | 132559 | [132559-brothers-in-blood.json](./132559-brothers-in-blood.json) |
 | Brothers In Duty: Space Brawl | 390775 | [390775-brothers-in-duty-space-brawl.json](./390775-brothers-in-duty-space-brawl.json) |
@@ -19843,6 +19846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Fists: Force Striker | 46403 | [46403-burning-fists-force-striker.json](./46403-burning-fists-force-striker.json) |
 | Burning Force | 39492 | [39492-burning-force.json](./39492-burning-force.json) |
 | Burning Horns | 192271 | [192271-burning-horns.json](./192271-burning-horns.json) |
+| Burning Instinct | 107472 | [107472-burning-instinct.json](./107472-burning-instinct.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Lands | 236126 | [236126-burning-lands.json](./236126-burning-lands.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
