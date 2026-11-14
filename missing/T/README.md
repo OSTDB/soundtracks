@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Inu to Yobareta Otoko | 347628 | [347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json](./347628-tantei-jinguji-saburo-inu-to-yobareta-otoko.json) |
 | Tantei Jinguji Saburo: Kadan no Itte | 347615 | [347615-tantei-jinguji-saburo-kadan-no-itte.json](./347615-tantei-jinguji-saburo-kadan-no-itte.json) |
 | Tantei Jinguji Saburo: Kadan no Itte & Nazono-Jikenbo | 67367 | [67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json](./67367-tantei-jinguji-saburo-kadan-no-itte-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Kiken na Futari | 84410 | [84410-tantei-jinguji-saburo-kiken-na-futari.json](./84410-tantei-jinguji-saburo-kiken-na-futari.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zengohen | 171534 | [171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json](./171534-tantei-jinguji-saburo-kiken-na-futari-zengohen.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Zenpen | 41413 | [41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json](./41413-tantei-jinguji-saburo-kiken-na-futari-zenpen.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
 | Tearing Spaces | 236651 | [236651-tearing-spaces.json](./236651-tearing-spaces.json) |
 | Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
+| Tears - 9, 10 | 83665 | [83665-tears-9-10.json](./83665-tears-9-10.json) |
 | Tears Apart | 400422 | [400422-tears-apart.json](./400422-tears-apart.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
@@ -7577,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
 | The Browning Duck Hunter | 119582 | [119582-the-browning-duck-hunter.json](./119582-the-browning-duck-hunter.json) |
 | The Browning Elk Hunter | 142897 | [142897-the-browning-elk-hunter.json](./142897-the-browning-elk-hunter.json) |
+| The Brutal Ballad of Fangus Klot | 84427 | [84427-the-brutal-ballad-of-fangus-klot.json](./84427-the-brutal-ballad-of-fangus-klot.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bubonicz | 384061 | [384061-the-bubonicz.json](./384061-the-bubonicz.json) |
 | The Bucketlist Tourist | 306357 | [306357-the-bucketlist-tourist.json](./306357-the-bucketlist-tourist.json) |
@@ -14458,6 +14461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Wizard | 206999 | [206999-the-little-wizard.json](./206999-the-little-wizard.json) |
 | The Little World | 333337 | [333337-the-little-world.json](./333337-the-little-world.json) |
 | The Littlest Fry | 302550 | [302550-the-littlest-fry.json](./302550-the-littlest-fry.json) |
+| The Lives | 83666 | [83666-the-lives.json](./83666-the-lives.json) |
 | The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Living Graveyard | 422052 | [422052-the-living-graveyard.json](./422052-the-living-graveyard.json) |
@@ -18881,6 +18885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
 | The Spiral Scouts | 96200 | [96200-the-spiral-scouts.json](./96200-the-spiral-scouts.json) |
+| The Spire | 84404 | [84404-the-spire.json](./84404-the-spire.json) |
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit and the Mouse | 134474 | [134474-the-spirit-and-the-mouse.json](./134474-the-spirit-and-the-mouse.json) |
@@ -18916,6 +18921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The SpongeBob SquarePants Movie: Revealing Image | 396063 | [396063-the-spongebob-squarepants-movie-revealing-image.json](./396063-the-spongebob-squarepants-movie-revealing-image.json) |
+| The Spook Inspectors | 83654 | [83654-the-spook-inspectors.json](./83654-the-spook-inspectors.json) |
 | The Spookening | 34602 | [34602-the-spookening.json](./34602-the-spookening.json) |
 | The Spooky Cave | 181194 | [181194-the-spooky-cave.json](./181194-the-spooky-cave.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
@@ -27436,6 +27442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Twilight Ghost Hunters: Daybreak Special Gigs | 12209 | [12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json](./12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Valkyries | 341785 | [341785-tokyo-valkyries.json](./341785-tokyo-valkyries.json) |
+| Tokyo Wakusei Planetokio | 83663 | [83663-tokyo-wakusei-planetokio.json](./83663-tokyo-wakusei-planetokio.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Waning Moon | 244567 | [244567-tokyo-waning-moon.json](./244567-tokyo-waning-moon.json) |
