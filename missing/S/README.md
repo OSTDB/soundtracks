@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Slide Rush | 401446 | [401446-santa-slide-rush.json](./401446-santa-slide-rush.json) |
 | Santa Slides to Town | 324615 | [324615-santa-slides-to-town.json](./324615-santa-slides-to-town.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
+| Santa Soccer | 148595 | [148595-santa-soccer.json](./148595-santa-soccer.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa Tracker | 62475 | [62475-santa-tracker.json](./62475-santa-tracker.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
@@ -36870,6 +36871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
 | Super VR Trainer | 31907 | [31907-super-vr-trainer.json](./31907-super-vr-trainer.json) |
+| Super vs. World | 148587 | [148587-super-vs-world.json](./148587-super-vs-world.json) |
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
 | Super Wagyan Land 2 | 38195 | [38195-super-wagyan-land-2.json](./38195-super-wagyan-land-2.json) |
 | Super Waifu Bakery Simulator | 278892 | [278892-super-waifu-bakery-simulator.json](./278892-super-waifu-bakery-simulator.json) |
@@ -39653,6 +39655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate Wars | 214456 | [214456-syndicate-wars.json](./214456-syndicate-wars.json) |
 | Syndicate Wars | 51 | [51-syndicate-wars.json](./51-syndicate-wars.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
+| Syndication Cyberpunk | 148613 | [148613-syndication-cyberpunk.json](./148613-syndication-cyberpunk.json) |
 | Syndoy | 251064 | [251064-syndoy.json](./251064-syndoy.json) |
 | Syndream | 402689 | [402689-syndream.json](./402689-syndream.json) |
 | Syndrome | 13366 | [13366-syndrome.json](./13366-syndrome.json) |
