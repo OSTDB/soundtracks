@@ -6081,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: New Wave | 64152 | [64152-senran-kagura-new-wave.json](./64152-senran-kagura-new-wave.json) |
 | Senran Kagura: Peach and Reflexions Limited Double Pack | 136928 | [136928-senran-kagura-peach-and-reflexions-limited-double-pack.json](./136928-senran-kagura-peach-and-reflexions-limited-double-pack.json) |
 | Senran Kagura: Peach Beach Splash | 25656 | [25656-senran-kagura-peach-beach-splash.json](./25656-senran-kagura-peach-beach-splash.json) |
+| Senran Kagura: Peach Beach Splash - Awakened Character Pack | 156237 | [156237-senran-kagura-peach-beach-splash-awakened-character-pack.json](./156237-senran-kagura-peach-beach-splash-awakened-character-pack.json) |
 | Senran Kagura: Peach Beach Splash - Basho Character Pack | 156240 | [156240-senran-kagura-peach-beach-splash-basho-character-pack.json](./156240-senran-kagura-peach-beach-splash-basho-character-pack.json) |
 | Senran Kagura: Peach Beach Splash - DOAX3 Collaboration Pack | 156241 | [156241-senran-kagura-peach-beach-splash-doax3-collaboration-pack.json](./156241-senran-kagura-peach-beach-splash-doax3-collaboration-pack.json) |
 | Senran Kagura: Peach Beach Splash - Ikki Tousen EE Collaboration Pack | 156239 | [156239-senran-kagura-peach-beach-splash-ikki-tousen-ee-collaboration-pack.json](./156239-senran-kagura-peach-beach-splash-ikki-tousen-ee-collaboration-pack.json) |
@@ -6091,7 +6092,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach Beach Splash - Sexy Soaker Edition | 300524 | [300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json](./300524-senran-kagura-peach-beach-splash-sexy-soaker-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sunshine Edition | 136669 | [136669-senran-kagura-peach-beach-splash-sunshine-edition.json](./136669-senran-kagura-peach-beach-splash-sunshine-edition.json) |
 | Senran Kagura: Peach Beach Splash - Sunshine Swimsuit Pack | 226921 | [226921-senran-kagura-peach-beach-splash-sunshine-swimsuit-pack.json](./226921-senran-kagura-peach-beach-splash-sunshine-swimsuit-pack.json) |
+| Senran Kagura: Peach Beach Splash - Super Sonico Character Pack | 156236 | [156236-senran-kagura-peach-beach-splash-super-sonico-character-pack.json](./156236-senran-kagura-peach-beach-splash-super-sonico-character-pack.json) |
 | Senran Kagura: Peach Beach Splash - Taunt Pack | 156242 | [156242-senran-kagura-peach-beach-splash-taunt-pack.json](./156242-senran-kagura-peach-beach-splash-taunt-pack.json) |
+| Senran Kagura: Peach Beach Splash - Valkyrie Drive Bhikkhuni Collaboration Pack | 156238 | [156238-senran-kagura-peach-beach-splash-valkyrie-drive-bhikkhuni-collaboration-pack.json](./156238-senran-kagura-peach-beach-splash-valkyrie-drive-bhikkhuni-collaboration-pack.json) |
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
 | Senran Kagura: Shinovi Versus - Let's Get Physical Edition | 42703 | [42703-senran-kagura-shinovi-versus-lets-get-physical-edition.json](./42703-senran-kagura-shinovi-versus-lets-get-physical-edition.json) |
 | Senran Kagura: Shoujo-tachi no Shinei | 47625 | [47625-senran-kagura-shoujo-tachi-no-shinei.json](./47625-senran-kagura-shoujo-tachi-no-shinei.json) |
@@ -9799,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shizuoka Curse | 335999 | [335999-shizuoka-curse.json](./335999-shizuoka-curse.json) |
 | Shkilagames Story: Episode 1 | 280840 | [280840-shkilagames-story-episode-1.json](./280840-shkilagames-story-episode-1.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
+| Shleepy Time Catching Z's | 155725 | [155725-shleepy-time-catching-zs.json](./155725-shleepy-time-catching-zs.json) |
 | Shlob | 270920 | [270920-shlob.json](./270920-shlob.json) |
 | Shmackle | 337514 | [337514-shmackle.json](./337514-shmackle.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
