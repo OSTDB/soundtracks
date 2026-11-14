@@ -6945,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
 | Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
+| Delve | 102445 | [102445-delve.json](./102445-delve.json) |
 | Delve | 361676 | [361676-delve.json](./361676-delve.json) |
 | Delve Deeper | 16204 | [16204-delve-deeper.json](./16204-delve-deeper.json) |
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
@@ -7631,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depixtion: Halloween | 121874 | [121874-depixtion-halloween.json](./121874-depixtion-halloween.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Deplau | 105642 | [105642-deplau.json](./105642-deplau.json) |
+| Deploy and Destroy | 102422 | [102422-deploy-and-destroy.json](./102422-deploy-and-destroy.json) |
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
 | Deployment | 80985 | [80985-deployment.json](./80985-deployment.json) |
 | DEPO: Buy Me a Coffee | 296583 | [296583-depo-buy-me-a-coffee.json](./296583-depo-buy-me-a-coffee.json) |
@@ -20234,6 +20236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mage | 244654 | [244654-dungeon-mage.json](./244654-dungeon-mage.json) |
 | Dungeon Magic | 39359 | [39359-dungeon-magic.json](./39359-dungeon-magic.json) |
 | Dungeon Magic: Sword of the Elements | 48131 | [48131-dungeon-magic-sword-of-the-elements.json](./48131-dungeon-magic-sword-of-the-elements.json) |
+| Dungeon Maker | 102456 | [102456-dungeon-maker.json](./102456-dungeon-maker.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
 | Dungeon Maker: Hunting Ground | 24284 | [24284-dungeon-maker-hunting-ground.json](./24284-dungeon-maker-hunting-ground.json) |
 | Dungeon Man | 188253 | [188253-dungeon-man.json](./188253-dungeon-man.json) |
@@ -20560,6 +20563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonforge | 61737 | [61737-dungeonforge.json](./61737-dungeonforge.json) |
 | Dungeongame | 195020 | [195020-dungeongame.json](./195020-dungeongame.json) |
 | DungeonGoGo | 68473 | [68473-dungeongogo.json](./68473-dungeongogo.json) |
+| Dungeonhaven | 102427 | [102427-dungeonhaven.json](./102427-dungeonhaven.json) |
 | Dungeoning | 290242 | [290242-dungeoning.json](./290242-dungeoning.json) |
 | Dungeonite | 152822 | [152822-dungeonite.json](./152822-dungeonite.json) |
 | Dungeonland | 2017 | [2017-dungeonland.json](./2017-dungeonland.json) |
