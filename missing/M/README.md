@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Restaurant People | 107398 | [107398-mad-restaurant-people.json](./107398-mad-restaurant-people.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
 | Mad Riders | 8035 | [8035-mad-riders.json](./8035-mad-riders.json) |
+| Mad Road 3D - Combat cars game | 88534 | [88534-mad-road-3d-combat-cars-game.json](./88534-mad-road-3d-combat-cars-game.json) |
 | Mad Road Driver | 233165 | [233165-mad-road-driver.json](./233165-mad-road-driver.json) |
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
@@ -17328,6 +17329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly: SpongeBob SquarePants Edition | 68109 | [68109-monopoly-spongebob-squarepants-edition.json](./68109-monopoly-spongebob-squarepants-edition.json) |
 | Monopoly: Star Wars Heroes vs. Villains | 395183 | [395183-monopoly-star-wars-heroes-vs-villains.json](./395183-monopoly-star-wars-heroes-vs-villains.json) |
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
+| Monoposto | 88522 | [88522-monoposto.json](./88522-monoposto.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | MonoRaceVR | 192755 | [192755-monoracevr.json](./192755-monoracevr.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
