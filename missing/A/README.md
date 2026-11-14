@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adivinhe o Jogo | 254249 | [254249-adivinhe-o-jogo.json](./254249-adivinhe-o-jogo.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adjacency | 29306 | [29306-adjacency.json](./29306-adjacency.json) |
+| ADK | 112379 | [112379-adk.json](./112379-adk.json) |
 | ADK Damashii | 151930 | [151930-adk-damashii.json](./151930-adk-damashii.json) |
 | ADK Damashii | 79572 | [79572-adk-damashii.json](./79572-adk-damashii.json) |
 | ADK World | 61322 | [61322-adk-world.json](./61322-adk-world.json) |
@@ -6726,6 +6727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
 | Akagawa Jirou: Tsuki no Hikari - Shizumeru Kane no Satsujin | 112540 | [112540-akagawa-jirou-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./112540-akagawa-jirou-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Akagawa Jirou: Yasoukyoku | 62544 | [62544-akagawa-jirou-yasoukyoku.json](./62544-akagawa-jirou-yasoukyoku.json) |
+| Akagawa Jirou: Yasoukyoku 2 | 112551 | [112551-akagawa-jirou-yasoukyoku-2.json](./112551-akagawa-jirou-yasoukyoku-2.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
 | Akahane Academy | 251330 | [251330-akahane-academy.json](./251330-akahane-academy.json) |
 | Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
@@ -6808,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayaisdead | 377626 | [377626-akayaisdead.json](./377626-akayaisdead.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akayo Therapy | 236306 | [236306-akayo-therapy.json](./236306-akayo-therapy.json) |
+| Akazu no Ma | 112563 | [112563-akazu-no-ma.json](./112563-akazu-no-ma.json) |
 | Akazu: Off limits | 291430 | [291430-akazu-off-limits.json](./291430-akazu-off-limits.json) |
 | Akazukin | 249524 | [249524-akazukin.json](./249524-akazukin.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
@@ -10544,6 +10547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Taxi | 91557 | [91557-ancient-taxi.json](./91557-ancient-taxi.json) |
 | Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
 | Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
+| Ancient Tower | 112396 | [112396-ancient-tower.json](./112396-ancient-tower.json) |
 | Ancient Trader | 22956 | [22956-ancient-trader.json](./22956-ancient-trader.json) |
 | Ancient Treasure | 76806 | [76806-ancient-treasure.json](./76806-ancient-treasure.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
