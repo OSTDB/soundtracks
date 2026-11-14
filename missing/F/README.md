@@ -4289,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Hero 3 | 384909 | [384909-femdom-hero-3.json](./384909-femdom-hero-3.json) |
 | Femdom Hero 4 | 384590 | [384590-femdom-hero-4.json](./384590-femdom-hero-4.json) |
 | Femdom Lines | 368130 | [368130-femdom-lines.json](./368130-femdom-lines.json) |
+| Femdom Maid | 97552 | [97552-femdom-maid.json](./97552-femdom-maid.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | Femdom Stories: Findom Simulator Sex Game | 368129 | [368129-femdom-stories-findom-simulator-sex-game.json](./368129-femdom-stories-findom-simulator-sex-game.json) |
 | Femdom University 0 | 371036 | [371036-femdom-university-0.json](./371036-femdom-university-0.json) |
@@ -13414,6 +13415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
 | Friends: Always Stick Together | 247253 | [247253-friends-always-stick-together.json](./247253-friends-always-stick-together.json) |
 | Friends: Seishun no Kagayaki | 258854 | [258854-friends-seishun-no-kagayaki.json](./258854-friends-seishun-no-kagayaki.json) |
+| Friends: Seishun no Kagayaki | 97574 | [97574-friends-seishun-no-kagayaki.json](./97574-friends-seishun-no-kagayaki.json) |
 | Friends: Seishun no Kagayaki - Best Version | 258859 | [258859-friends-seishun-no-kagayaki-best-version.json](./258859-friends-seishun-no-kagayaki-best-version.json) |
 | Friends: The One With All The Trivia | 43623 | [43623-friends-the-one-with-all-the-trivia.json](./43623-friends-the-one-with-all-the-trivia.json) |
 | Friends' Kitchen | 347970 | [347970-friends-kitchen.json](./347970-friends-kitchen.json) |
