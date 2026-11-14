@@ -9308,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
 | Chronicles of Cyberpunk: Lost dream | 224965 | [224965-chronicles-of-cyberpunk-lost-dream.json](./224965-chronicles-of-cyberpunk-lost-dream.json) |
 | Chronicles of Deeps | 188881 | [188881-chronicles-of-deeps.json](./188881-chronicles-of-deeps.json) |
+| Chronicles of Elmyra | 158268 | [158268-chronicles-of-elmyra.json](./158268-chronicles-of-elmyra.json) |
 | Chronicles of Elyria | 58484 | [58484-chronicles-of-elyria.json](./58484-chronicles-of-elyria.json) |
 | Chronicles of Emerland | 52509 | [52509-chronicles-of-emerland.json](./52509-chronicles-of-emerland.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
@@ -16909,6 +16910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmobreeder Yiffai | 341726 | [341726-cosmobreeder-yiffai.json](./341726-cosmobreeder-yiffai.json) |
 | Cosmocade: The Arcade of Tomorrow | 181436 | [181436-cosmocade-the-arcade-of-tomorrow.json](./181436-cosmocade-the-arcade-of-tomorrow.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
+| Cosmodome | 158240 | [158240-cosmodome.json](./158240-cosmodome.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | CosmoDreamer | 151677 | [151677-cosmodreamer.json](./151677-cosmodreamer.json) |
 | Cosmodrill | 361836 | [361836-cosmodrill.json](./361836-cosmodrill.json) |
