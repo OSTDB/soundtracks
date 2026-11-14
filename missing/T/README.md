@@ -5283,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Project | 122602 | [122602-tetra-project.json](./122602-tetra-project.json) |
 | Tetra Quest | 69493 | [69493-tetra-quest.json](./69493-tetra-quest.json) |
 | Tetra Rise | 379629 | [379629-tetra-rise.json](./379629-tetra-rise.json) |
+| Tetra Tactics | 140086 | [140086-tetra-tactics.json](./140086-tetra-tactics.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape 2 | 347304 | [347304-tetras-escape-2.json](./347304-tetras-escape-2.json) |
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
@@ -8097,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Colditz Story | 14008 | [14008-the-colditz-story.json](./14008-the-colditz-story.json) |
 | The Collaborative: Automaton #0059 | 124542 | [124542-the-collaborative-automaton-0059.json](./124542-the-collaborative-automaton-0059.json) |
+| The Collage Atlas | 140068 | [140068-the-collage-atlas.json](./140068-the-collage-atlas.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collectables | 62548 | [62548-the-collectables.json](./62548-the-collectables.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
@@ -11273,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Gatsby: Secret Treasure | 28589 | [28589-the-great-gatsby-secret-treasure.json](./28589-the-great-gatsby-secret-treasure.json) |
 | The Great Geometric Multiverse Tour | 105337 | [105337-the-great-geometric-multiverse-tour.json](./105337-the-great-geometric-multiverse-tour.json) |
+| The Great Ghoul Duel | 140061 | [140061-the-great-ghoul-duel.json](./140061-the-great-ghoul-duel.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
@@ -15684,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Escape | 333493 | [333493-the-night-of-escape.json](./333493-the-night-of-escape.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
+| The Night of Joe | 139517 | [139517-the-night-of-joe.json](./139517-the-night-of-joe.json) |
 | The Night of the Exorcism | 332788 | [332788-the-night-of-the-exorcism.json](./332788-the-night-of-the-exorcism.json) |
 | The Night of the Inquisitor | 249924 | [249924-the-night-of-the-inquisitor.json](./249924-the-night-of-the-inquisitor.json) |
 | The Night of The Penanggalan | 224852 | [224852-the-night-of-the-penanggalan.json](./224852-the-night-of-the-penanggalan.json) |
@@ -18940,6 +18944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stray Cat | 99061 | [99061-the-stray-cat.json](./99061-the-stray-cat.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Strayed | 30018 | [30018-the-strayed.json](./30018-the-strayed.json) |
+| The Streamers Guide | 140079 | [140079-the-streamers-guide.json](./140079-the-streamers-guide.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
 | The Strike | 34011 | [34011-the-strike.json](./34011-the-strike.json) |
@@ -21620,6 +21625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There’s No Way That Tsundere Girl I Met in the Infirmary Will Be My Girlfriend | 192510 | [192510-there-s-no-way-that-tsundere-girl-i-met-in-the-infirmary-will-be-my-girlfriend.json](./192510-there-s-no-way-that-tsundere-girl-i-met-in-the-infirmary-will-be-my-girlfriend.json) |
 | There's Nobody | 218791 | [218791-theres-nobody.json](./218791-theres-nobody.json) |
 | There's Nothing Down There | 397606 | [397606-theres-nothing-down-there.json](./397606-theres-nothing-down-there.json) |
+| There's Nothing to Do in This Town | 140052 | [140052-theres-nothing-to-do-in-this-town.json](./140052-theres-nothing-to-do-in-this-town.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | There's Something in the Ice | 289956 | [289956-theres-something-in-the-ice.json](./289956-theres-something-in-the-ice.json) |
@@ -27106,6 +27112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 30 days | 269200 | [269200-tokyo-30-days.json](./269200-tokyo-30-days.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
+| Tokyo 42 - Smaceshi's Castles | 140098 | [140098-tokyo-42-smaceshis-castles.json](./140098-tokyo-42-smaceshis-castles.json) |
 | Tokyo 42 + Smaceshi's Castles | 83772 | [83772-tokyo-42-smaceshis-castles.json](./83772-tokyo-42-smaceshis-castles.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
@@ -27650,6 +27657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness | 319751 | [319751-tomb-raider-the-angel-of-darkness.json](./319751-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
+| Tomb Raider: The Dagger Of Xian | 140092 | [140092-tomb-raider-the-dagger-of-xian.json](./140092-tomb-raider-the-dagger-of-xian.json) |
 | Tomb Raider: The Kurtis Trent Chronicles - Chapter 1 | 315366 | [315366-tomb-raider-the-kurtis-trent-chronicles-chapter-1.json](./315366-tomb-raider-the-kurtis-trent-chronicles-chapter-1.json) |
 | Tomb Raider: The Last Revelation | 1158 | [1158-tomb-raider-the-last-revelation.json](./1158-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
@@ -33598,6 +33606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree Simulator 2024 | 312419 | [312419-tree-simulator-2024.json](./312419-tree-simulator-2024.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree Strike | 151612 | [151612-tree-strike.json](./151612-tree-strike.json) |
+| Tree Trunk Brook | 140067 | [140067-tree-trunk-brook.json](./140067-tree-trunk-brook.json) |
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
 | Tree.Bonsai | 104946 | [104946-tree-bonsai.json](./104946-tree-bonsai.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
