@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Knights 3 Gold | 53026 | [53026-valhalla-knights-3-gold.json](./53026-valhalla-knights-3-gold.json) |
 | Valhalla Knights: Eldar Saga | 5255 | [5255-valhalla-knights-eldar-saga.json](./5255-valhalla-knights-eldar-saga.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
+| Valhalla Online | 123657 | [123657-valhalla-online.json](./123657-valhalla-online.json) |
 | Valhalla Path | 382543 | [382543-valhalla-path.json](./382543-valhalla-path.json) |
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
 | Valhalla, Vikings, Ragnarok! | 404617 | [404617-valhalla-vikings-ragnarok.json](./404617-valhalla-vikings-ragnarok.json) |
@@ -786,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
 | Vampires Dawn 2: Ancient Blood | 80474 | [80474-vampires-dawn-2-ancient-blood.json](./80474-vampires-dawn-2-ancient-blood.json) |
+| Vampires Dawn 3: The Crimson Realm | 123646 | [123646-vampires-dawn-3-the-crimson-realm.json](./123646-vampires-dawn-3-the-crimson-realm.json) |
 | Vampires Dawn: Deceit of Heretics | 172839 | [172839-vampires-dawn-deceit-of-heretics.json](./172839-vampires-dawn-deceit-of-heretics.json) |
 | Vampires Dawn: Reign of Blood | 80475 | [80475-vampires-dawn-reign-of-blood.json](./80475-vampires-dawn-reign-of-blood.json) |
 | Vampires Die | 346630 | [346630-vampires-die.json](./346630-vampires-die.json) |
