@@ -10796,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Problems | 161705 | [161705-forest-problems.json](./161705-forest-problems.json) |
 | Forest Puzzle | 209561 | [209561-forest-puzzle.json](./209561-forest-puzzle.json) |
+| Forest Rabbit | 105577 | [105577-forest-rabbit.json](./105577-forest-rabbit.json) |
 | Forest Ranger Life Simulator | 334983 | [334983-forest-ranger-life-simulator.json](./334983-forest-ranger-life-simulator.json) |
 | Forest Ranger Services | 351376 | [351376-forest-ranger-services.json](./351376-forest-ranger-services.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
@@ -15067,6 +15068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur Fighters | 14700 | [14700-fur-fighters.json](./14700-fur-fighters.json) |
 | Fur Fighters: Viggo on Glass | 299539 | [299539-fur-fighters-viggo-on-glass.json](./299539-fur-fighters-viggo-on-glass.json) |
 | Fur Fun | 29544 | [29544-fur-fun.json](./29544-fur-fun.json) |
+| Fur Fury | 104917 | [104917-fur-fury.json](./104917-fur-fury.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
 | Fura-fura Bouken Flan-chan | 205069 | [205069-fura-fura-bouken-flan-chan.json](./205069-fura-fura-bouken-flan-chan.json) |
