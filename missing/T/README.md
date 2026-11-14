@@ -7327,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Pendrive | 306220 | [306220-the-blue-pendrive.json](./306220-the-blue-pendrive.json) |
 | The Blue Stars | 260578 | [260578-the-blue-stars.json](./260578-the-blue-stars.json) |
 | The Blue Zula VR Concert Series | 110500 | [110500-the-blue-zula-vr-concert-series.json](./110500-the-blue-zula-vr-concert-series.json) |
+| The Blue-diamond Damsel in Distress | 111801 | [111801-the-blue-diamond-damsel-in-distress.json](./111801-the-blue-diamond-damsel-in-distress.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Blue-G Interactive Vector Archive 77-97 | 406232 | [406232-the-blue-g-interactive-vector-archive-77-97.json](./406232-the-blue-g-interactive-vector-archive-77-97.json) |
 | The Bluecoats: North & South | 140958 | [140958-the-bluecoats-north-and-south.json](./140958-the-bluecoats-north-and-south.json) |
@@ -22132,6 +22133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One | 90775 | [90775-thirty-one.json](./90775-thirty-one.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
+| Thirty Two | 111770 | [111770-thirty-two.json](./111770-thirty-two.json) |
 | Thirty Two HardMod | 152967 | [152967-thirty-two-hardmod.json](./152967-thirty-two-hardmod.json) |
 | Thirty Years' War | 32550 | [32550-thirty-years-war.json](./32550-thirty-years-war.json) |
 | Thirty-One 3D Premium | 189790 | [189790-thirty-one-3d-premium.json](./189790-thirty-one-3d-premium.json) |
@@ -26650,6 +26652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Hell and Back | 306327 | [306327-to-hell-and-back.json](./306327-to-hell-and-back.json) |
 | To Hell and Back | 363142 | [363142-to-hell-and-back.json](./363142-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
+| To Hell With Dave | 111794 | [111794-to-hell-with-dave.json](./111794-to-hell-with-dave.json) |
 | To Hell with Hell | 104867 | [104867-to-hell-with-hell.json](./104867-to-hell-with-hell.json) |
 | To Hell With It | 145803 | [145803-to-hell-with-it.json](./145803-to-hell-with-it.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
@@ -28279,6 +28282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Down Racer | 172848 | [172848-top-down-racer.json](./172848-top-down-racer.json) |
+| Top Down Survivor | 111946 | [111946-top-down-survivor.json](./111946-top-down-survivor.json) |
 | Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
 | Top Driver | 336225 | [336225-top-driver.json](./336225-top-driver.json) |
 | Top Drives | 88508 | [88508-top-drives.json](./88508-top-drives.json) |
