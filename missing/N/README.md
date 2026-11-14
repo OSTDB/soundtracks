@@ -8122,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubla 2 | 118539 | [118539-nubla-2.json](./118539-nubla-2.json) |
 | Nubs! Arena | 318813 | [318813-nubs-arena.json](./318813-nubs-arena.json) |
 | NUC: After the Blast | 170583 | [170583-nuc-after-the-blast.json](./170583-nuc-after-the-blast.json) |
+| Nuclear 2050 | 90269 | [90269-nuclear-2050.json](./90269-nuclear-2050.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
 | Nuclear Arena | 231585 | [231585-nuclear-arena.json](./231585-nuclear-arena.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan Cat: Lost In Space | 34115 | [34115-nyan-cat-lost-in-space.json](./34115-nyan-cat-lost-in-space.json) |
 | Nyan Cat: The Space Journey | 344905 | [344905-nyan-cat-the-space-journey.json](./344905-nyan-cat-the-space-journey.json) |
 | Nyan Cat! | 64260 | [64260-nyan-cat.json](./64260-nyan-cat.json) |
+| Nyan Destroyer | 90249 | [90249-nyan-destroyer.json](./90249-nyan-destroyer.json) |
 | Nyan Heroes | 291952 | [291952-nyan-heroes.json](./291952-nyan-heroes.json) |
 | Nyan Nikki | 229663 | [229663-nyan-nikki.json](./229663-nyan-nikki.json) |
 | Nyan Nyan Nyan Nyan Nyan | 386783 | [386783-nyan-nyan-nyan-nyan-nyan.json](./386783-nyan-nyan-nyan-nyan-nyan.json) |
