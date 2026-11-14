@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Mine | 192586 | [192586-only-mine.json](./192586-only-mine.json) |
 | Only Mining: Cozy Digging Game | 392859 | [392859-only-mining-cozy-digging-game.json](./392859-only-mining-cozy-digging-game.json) |
 | Only Multiplayer: Up! | 265536 | [265536-only-multiplayer-up.json](./265536-only-multiplayer-up.json) |
+| Only On | 82216 | [82216-only-on.json](./82216-only-on.json) |
 | Only One | 17482 | [17482-only-one.json](./17482-only-one.json) |
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
@@ -5810,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Heart | 233815 | [233815-outlaw-heart.json](./233815-outlaw-heart.json) |
+| Outlaw Hunt | 82203 | [82203-outlaw-hunt.json](./82203-outlaw-hunt.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
 | Outlaw Mayor Panic | 144675 | [144675-outlaw-mayor-panic.json](./144675-outlaw-mayor-panic.json) |
 | Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
