@@ -5903,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West World | 73529 | [73529-wild-west-world.json](./73529-wild-west-world.json) |
 | Wild West Z | 171812 | [171812-wild-west-z.json](./171812-wild-west-z.json) |
 | Wild West: Hidden Object Games | 233454 | [233454-wild-west-hidden-object-games.json](./233454-wild-west-hidden-object-games.json) |
+| Wild West: New Frontier | 90976 | [90976-wild-west-new-frontier.json](./90976-wild-west-new-frontier.json) |
 | Wild West: The Last Cowboy | 372534 | [372534-wild-west-the-last-cowboy.json](./372534-wild-west-the-last-cowboy.json) |
 | Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
@@ -10040,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecked | 333503 | [333503-wrecked.json](./333503-wrecked.json) |
 | Wrecked | 356952 | [356952-wrecked.json](./356952-wrecked.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
+| Wrecked (1st Class) | 90980 | [90980-wrecked-1st-class.json](./90980-wrecked-1st-class.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked Shot | 314970 | [314970-wrecked-shot.json](./314970-wrecked-shot.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
