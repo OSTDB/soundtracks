@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Get Keen | 228289 | [228289-david-get-keen.json](./228289-david-get-keen.json) |
 | David Haye's Jungle Rumble | 237011 | [237011-david-hayes-jungle-rumble.json](./237011-david-hayes-jungle-rumble.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
+| David Lynch Teaches Typing | 89989 | [89989-david-lynch-teaches-typing.json](./89989-david-lynch-teaches-typing.json) |
 | David O'Leary's Total Soccer 2000 | 49998 | [49998-david-olearys-total-soccer-2000.json](./49998-david-olearys-total-soccer-2000.json) |
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
 | David Slade Mysteries: Case Files | 253161 | [253161-david-slade-mysteries-case-files.json](./253161-david-slade-mysteries-case-files.json) |
@@ -15837,6 +15838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Franken II | 48948 | [48948-dr-franken-ii.json](./48948-dr-franken-ii.json) |
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
 | Dr. Gloom’s Lab | 302082 | [302082-dr-gloom-s-lab.json](./302082-dr-gloom-s-lab.json) |
+| Dr. Grordbort's Invaders | 89995 | [89995-dr-grordborts-invaders.json](./89995-dr-grordborts-invaders.json) |
 | Dr. Hello | 45638 | [45638-dr-hello.json](./45638-dr-hello.json) |
 | Dr. Janggi | 240549 | [240549-dr-janggi.json](./240549-dr-janggi.json) |
 | Dr. Jekyll and Mr Hyde: The Strange Case | 122091 | [122091-dr-jekyll-and-mr-hyde-the-strange-case.json](./122091-dr-jekyll-and-mr-hyde-the-strange-case.json) |
