@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
 | Galactic Civilizations III: Altarian Prophecy | 155245 | [155245-galactic-civilizations-iii-altarian-prophecy.json](./155245-galactic-civilizations-iii-altarian-prophecy.json) |
+| Galactic Civilizations III: Builder's Kit | 124847 | [124847-galactic-civilizations-iii-builders-kit.json](./124847-galactic-civilizations-iii-builders-kit.json) |
 | Galactic Civilizations III: Crusade | 27054 | [27054-galactic-civilizations-iii-crusade.json](./27054-galactic-civilizations-iii-crusade.json) |
 | Galactic Civilizations III: Heroes of Star Control - Origins | 155246 | [155246-galactic-civilizations-iii-heroes-of-star-control-origins.json](./155246-galactic-civilizations-iii-heroes-of-star-control-origins.json) |
 | Galactic Civilizations III: Intrigue | 83809 | [83809-galactic-civilizations-iii-intrigue.json](./83809-galactic-civilizations-iii-intrigue.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Mega Events DLC | 163377 | [163377-galactic-civilizations-iii-mega-events-dlc.json](./163377-galactic-civilizations-iii-mega-events-dlc.json) |
 | Galactic Civilizations III: Mercenaries | 16990 | [16990-galactic-civilizations-iii-mercenaries.json](./16990-galactic-civilizations-iii-mercenaries.json) |
 | Galactic Civilizations III: Mercenaries Expansion Pack | 163378 | [163378-galactic-civilizations-iii-mercenaries-expansion-pack.json](./163378-galactic-civilizations-iii-mercenaries-expansion-pack.json) |
+| Galactic Civilizations III: Precursor Worlds | 124883 | [124883-galactic-civilizations-iii-precursor-worlds.json](./124883-galactic-civilizations-iii-precursor-worlds.json) |
 | Galactic Civilizations III: Precursor Worlds DLC | 163380 | [163380-galactic-civilizations-iii-precursor-worlds-dlc.json](./163380-galactic-civilizations-iii-precursor-worlds-dlc.json) |
 | Galactic Civilizations III: Retribution | 113995 | [113995-galactic-civilizations-iii-retribution.json](./113995-galactic-civilizations-iii-retribution.json) |
 | Galactic Civilizations III: Retribution Expansion | 163379 | [163379-galactic-civilizations-iii-retribution-expansion.json](./163379-galactic-civilizations-iii-retribution-expansion.json) |
@@ -592,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Revenge of the Snathi DLC | 163375 | [163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json](./163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations III: Rise of the Terrans DLC | 163370 | [163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json](./163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json) |
+| Galactic Civilizations III: Star Control Heroes | 124857 | [124857-galactic-civilizations-iii-star-control-heroes.json](./124857-galactic-civilizations-iii-star-control-heroes.json) |
 | Galactic Civilizations III: Ultimate Edition | 159691 | [159691-galactic-civilizations-iii-ultimate-edition.json](./159691-galactic-civilizations-iii-ultimate-edition.json) |
 | Galactic Civilizations III: Villains of Star Control | 124933 | [124933-galactic-civilizations-iii-villains-of-star-control.json](./124933-galactic-civilizations-iii-villains-of-star-control.json) |
 | Galactic Civilizations III: Villains of Star Control - Origins | 163382 | [163382-galactic-civilizations-iii-villains-of-star-control-origins.json](./163382-galactic-civilizations-iii-villains-of-star-control-origins.json) |
