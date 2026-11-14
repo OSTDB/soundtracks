@@ -4510,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudal Craft | 358256 | [358256-feudal-craft.json](./358256-feudal-craft.json) |
 | Feudal Friends | 239587 | [239587-feudal-friends.json](./239587-feudal-friends.json) |
 | Feudal Kingdoms | 167545 | [167545-feudal-kingdoms.json](./167545-feudal-kingdoms.json) |
+| Feudal Lords | 123653 | [123653-feudal-lords.json](./123653-feudal-lords.json) |
 | Feudal Lords | 98735 | [98735-feudal-lords.json](./98735-feudal-lords.json) |
 | Feudal Wars | 291162 | [291162-feudal-wars.json](./291162-feudal-wars.json) |
 | Feudal Wars | 58897 | [58897-feudal-wars.json](./58897-feudal-wars.json) |
@@ -6163,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Doggy | 54043 | [54043-finding-doggy.json](./54043-finding-doggy.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
+| Finding Dory: Just Keep Swimming | 123663 | [123663-finding-dory-just-keep-swimming.json](./123663-finding-dory-just-keep-swimming.json) |
 | Finding Dragons | 356350 | [356350-finding-dragons.json](./356350-finding-dragons.json) |
 | Finding Ducks | 405807 | [405807-finding-ducks.json](./405807-finding-ducks.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
@@ -10654,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fore Score | 158829 | [158829-fore-score.json](./158829-fore-score.json) |
 | Fore! Track | 311436 | [311436-fore-track.json](./311436-fore-track.json) |
 | Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
+| Forebearers: Hearth & Home | 123650 | [123650-forebearers-hearth-and-home.json](./123650-forebearers-hearth-and-home.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forebloomed: Evergreen Edition | 268302 | [268302-forebloomed-evergreen-edition.json](./268302-forebloomed-evergreen-edition.json) |
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
@@ -12310,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractal Space | 33683 | [33683-fractal-space.json](./33683-fractal-space.json) |
 | Fractal Space HD | 283429 | [283429-fractal-space-hd.json](./283429-fractal-space-hd.json) |
+| Fractal Space: Pocket Edition | 123123 | [123123-fractal-space-pocket-edition.json](./123123-fractal-space-pocket-edition.json) |
 | Fractala Sandbox | 361028 | [361028-fractala-sandbox.json](./361028-fractala-sandbox.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractaloid Attacks! | 389850 | [389850-fractaloid-attacks.json](./389850-fractaloid-attacks.json) |
