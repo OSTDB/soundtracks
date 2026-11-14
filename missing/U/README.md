@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
 | Ultimate Scroll | 272716 | [272716-ultimate-scroll.json](./272716-ultimate-scroll.json) |
+| Ultimate Select Hero | 90164 | [90164-ultimate-select-hero.json](./90164-ultimate-select-hero.json) |
 | Ultimate Shark Simulator | 87336 | [87336-ultimate-shark-simulator.json](./87336-ultimate-shark-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shifumi Championship | 288548 | [288548-ultimate-shifumi-championship.json](./288548-ultimate-shifumi-championship.json) |
