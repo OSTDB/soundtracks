@@ -4407,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters VR: Firehouse | 105257 | [105257-ghostbusters-vr-firehouse.json](./105257-ghostbusters-vr-firehouse.json) |
 | Ghostbusters VR: Now Hiring | 27932 | [27932-ghostbusters-vr-now-hiring.json](./27932-ghostbusters-vr-now-hiring.json) |
 | Ghostbusters VR: Showdown | 105293 | [105293-ghostbusters-vr-showdown.json](./105293-ghostbusters-vr-showdown.json) |
+| Ghostbusters World | 95033 | [95033-ghostbusters-world.json](./95033-ghostbusters-world.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostbusters: Paranormal Blast | 63144 | [63144-ghostbusters-paranormal-blast.json](./63144-ghostbusters-paranormal-blast.json) |
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
