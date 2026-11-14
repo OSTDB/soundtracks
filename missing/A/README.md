@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absoloot | 30530 | [30530-absoloot.json](./30530-absoloot.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
+| Absolute Acey Deucey | 104169 | [104169-absolute-acey-deucey.json](./104169-absolute-acey-deucey.json) |
 | Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
@@ -6254,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Black | 219942 | [219942-air-hockey-black.json](./219942-air-hockey-black.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
+| Air Hockey Challenge | 104301 | [104301-air-hockey-challenge.json](./104301-air-hockey-challenge.json) |
 | Air Hockey Championship | 254714 | [254714-air-hockey-championship.json](./254714-air-hockey-championship.json) |
 | Air Hockey Gamepack | 153699 | [153699-air-hockey-gamepack.json](./153699-air-hockey-gamepack.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
@@ -12284,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Night at the Archive | 407877 | [407877-another-night-at-the-archive.json](./407877-another-night-at-the-archive.json) |
 | Another Nightmare | 217856 | [217856-another-nightmare.json](./217856-another-nightmare.json) |
 | Another Nightmare | 377102 | [377102-another-nightmare.json](./377102-another-nightmare.json) |
+| Another Otter | 104322 | [104322-another-otter.json](./104322-another-otter.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
 | Another Piece of Candy: Sweet Fusions | 182856 | [182856-another-piece-of-candy-sweet-fusions.json](./182856-another-piece-of-candy-sweet-fusions.json) |
@@ -18552,6 +18555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
 | ATC Ground Point | 319410 | [319410-atc-ground-point.json](./319410-atc-ground-point.json) |
 | ATC Infinite | 157318 | [157318-atc-infinite.json](./157318-atc-infinite.json) |
+| ATC Mania | 104170 | [104170-atc-mania.json](./104170-atc-mania.json) |
 | ATC Voice: Air Traffic Control Voice Recognition | 87468 | [87468-atc-voice-air-traffic-control-voice-recognition.json](./87468-atc-voice-air-traffic-control-voice-recognition.json) |
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
 | Atchafalaya Arcade | 135453 | [135453-atchafalaya-arcade.json](./135453-atchafalaya-arcade.json) |
