@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abacus | 154764 | [154764-abacus.json](./154764-abacus.json) |
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
+| Abacus HD | 100412 | [100412-abacus-hd.json](./100412-abacus-hd.json) |
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abaddon | 376840 | [376840-abaddon.json](./376840-abaddon.json) |
 | Abaddon | 67097 | [67097-abaddon.json](./67097-abaddon.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
 | After You | 149776 | [149776-after-you.json](./149776-after-you.json) |
 | After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
+| After-H | 100434 | [100434-after-h.json](./100434-after-h.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
@@ -18744,6 +18746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier's Key | 407743 | [407743-ateliers-key.json](./407743-ateliers-key.json) |
 | AteloPhobia:The Story Begins | 201501 | [201501-atelophobia-the-story-begins.json](./201501-atelophobia-the-story-begins.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
+| Atex Brawl | 100425 | [100425-atex-brawl.json](./100425-atex-brawl.json) |
 | ATF: Advanced Tactical Fighter | 13344 | [13344-atf-advanced-tactical-fighter.json](./13344-atf-advanced-tactical-fighter.json) |
 | ATF: Armored Task Force | 59564 | [59564-atf-armored-task-force.json](./59564-atf-armored-task-force.json) |
 | Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
