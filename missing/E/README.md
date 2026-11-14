@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Elsewhere | 168661 | [168661-edge-of-elsewhere.json](./168661-edge-of-elsewhere.json) |
 | Edge of Endless | 302091 | [302091-edge-of-endless.json](./302091-edge-of-endless.json) |
 | Edge of Eternity | 28526 | [28526-edge-of-eternity.json](./28526-edge-of-eternity.json) |
+| Edge of Eternity: Digital Deluxe Edition | 164628 | [164628-edge-of-eternity-digital-deluxe-edition.json](./164628-edge-of-eternity-digital-deluxe-edition.json) |
 | Edge Of Existence | 74189 | [74189-edge-of-existence.json](./74189-edge-of-existence.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
