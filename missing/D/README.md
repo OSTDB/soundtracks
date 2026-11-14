@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara | 355957 | [355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json](./355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
+| Dai-2-ji Super Robot Taisen Alpha | 78766 | [78766-dai-2-ji-super-robot-taisen-alpha.json](./78766-dai-2-ji-super-robot-taisen-alpha.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
 | Dai-2-ji Super Robot Taisen OG | 7264 | [7264-dai-2-ji-super-robot-taisen-og.json](./7264-dai-2-ji-super-robot-taisen-og.json) |
 | Dai-2-ji Super Robot Taisen Z: Saisei-hen | 80145 | [80145-dai-2-ji-super-robot-taisen-z-saisei-hen.json](./80145-dai-2-ji-super-robot-taisen-z-saisei-hen.json) |
@@ -635,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
 | Dalig the Ghost Killer | 415795 | [415795-dalig-the-ghost-killer.json](./415795-dalig-the-ghost-killer.json) |
+| Dalk | 78183 | [78183-dalk.json](./78183-dalk.json) |
 | Dallen Clicker Ultimate | 149768 | [149768-dallen-clicker-ultimate.json](./149768-dallen-clicker-ultimate.json) |
 | Dally Doo You Can Too! Numbers | 375719 | [375719-dally-doo-you-can-too-numbers.json](./375719-dally-doo-you-can-too-numbers.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
