@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tal: Arctic 5 | 234517 | [234517-tal-arctic-5.json](./234517-tal-arctic-5.json) |
 | TAL: Jungle | 111921 | [111921-tal-jungle.json](./111921-tal-jungle.json) |
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
+| Tala | 96379 | [96379-tala.json](./96379-tala.json) |
 | Talaire | 423953 | [423953-talaire.json](./423953-talaire.json) |
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
 | Taldi's Hardware Store: Factory Reset | 400946 | [400946-taldis-hardware-store-factory-reset.json](./400946-taldis-hardware-store-factory-reset.json) |
@@ -6839,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
 | The Banner Saga Trilogy | 109108 | [109108-the-banner-saga-trilogy.json](./109108-the-banner-saga-trilogy.json) |
+| The Banner Saga Trilogy: Bonus Edition | 96369 | [96369-the-banner-saga-trilogy-bonus-edition.json](./96369-the-banner-saga-trilogy-bonus-edition.json) |
 | The Banner Saga Trilogy: Stoic Edition | 169191 | [169191-the-banner-saga-trilogy-stoic-edition.json](./169191-the-banner-saga-trilogy-stoic-edition.json) |
 | The Banner Saga: Deluxe Edition | 54435 | [54435-the-banner-saga-deluxe-edition.json](./54435-the-banner-saga-deluxe-edition.json) |
 | The Banner Saga: Factions | 12649 | [12649-the-banner-saga-factions.json](./12649-the-banner-saga-factions.json) |
@@ -8927,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day Before | 380907 | [380907-the-day-before.json](./380907-the-day-before.json) |
 | The Day Before You Gone | 235556 | [235556-the-day-before-you-gone.json](./235556-the-day-before-you-gone.json) |
 | The Day I Became a Bird | 390967 | [390967-the-day-i-became-a-bird.json](./390967-the-day-i-became-a-bird.json) |
+| The Day I Died | 96347 | [96347-the-day-i-died.json](./96347-the-day-i-died.json) |
 | The Day I Went Away For a While | 128790 | [128790-the-day-i-went-away-for-a-while.json](./128790-the-day-i-went-away-for-a-while.json) |
 | The Day II | 92558 | [92558-the-day-ii.json](./92558-the-day-ii.json) |
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
@@ -12511,6 +12514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
 | The Jackbox Naughty and Nice Bundle | 328720 | [328720-the-jackbox-naughty-and-nice-bundle.json](./328720-the-jackbox-naughty-and-nice-bundle.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
+| The Jackbox Party Bundle | 96362 | [96362-the-jackbox-party-bundle.json](./96362-the-jackbox-party-bundle.json) |
 | The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 12 | 400686 | [400686-the-jackbox-party-pack-12.json](./400686-the-jackbox-party-pack-12.json) |
@@ -22603,6 +22607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three of Cards | 159564 | [159564-three-of-cards.json](./159564-three-of-cards.json) |
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
 | Three Pigeons in a Trench Coat | 170088 | [170088-three-pigeons-in-a-trench-coat.json](./170088-three-pigeons-in-a-trench-coat.json) |
+| Three Point Contest - My Basketball Team | 96344 | [96344-three-point-contest-my-basketball-team.json](./96344-three-point-contest-my-basketball-team.json) |
 | Three Quarters Space Station | 220518 | [220518-three-quarters-space-station.json](./220518-three-quarters-space-station.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Sheets | 338972 | [338972-three-sheets.json](./338972-three-sheets.json) |
@@ -29801,6 +29806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towa and the Guardians of the Sacred Tree: Deluxe Edition | 349599 | [349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json](./349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
+| Towaga | 96340 | [96340-towaga.json](./96340-towaga.json) |
 | Towaga 2 | 116641 | [116641-towaga-2.json](./116641-towaga-2.json) |
 | Towaga: Among Shadows | 124407 | [124407-towaga-among-shadows.json](./124407-towaga-among-shadows.json) |
 | Toward Dawn | 331596 | [331596-toward-dawn.json](./331596-toward-dawn.json) |
