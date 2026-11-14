@@ -5210,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
 | Glad Tidings | 379320 | [379320-glad-tidings.json](./379320-glad-tidings.json) |
 | Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
+| Glad Valakas Tower Defence | 113072 | [113072-glad-valakas-tower-defence.json](./113072-glad-valakas-tower-defence.json) |
 | Glad Valakas Tower Defence 2 | 115215 | [115215-glad-valakas-tower-defence-2.json](./115215-glad-valakas-tower-defence-2.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Glade and Ritual | 411535 | [411535-glade-and-ritual.json](./411535-glade-and-ritual.json) |
