@@ -12607,6 +12607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
 | Gyaruzuma Sex: Hoka no Otoko ni Inwai Houshi Suru Ai Suru Tsuma | 159165 | [159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json](./159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json) |
 | Gyatm | 121875 | [121875-gyatm.json](./121875-gyatm.json) |
+| GYATM: Dragon Edition | 130999 | [130999-gyatm-dragon-edition.json](./130999-gyatm-dragon-edition.json) |
 | Gyee | 198074 | [198074-gyee.json](./198074-gyee.json) |
 | Gyelfars | 188818 | [188818-gyelfars.json](./188818-gyelfars.json) |
 | Gylt | 119247 | [119247-gylt.json](./119247-gylt.json) |
