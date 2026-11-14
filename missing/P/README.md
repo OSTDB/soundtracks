@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
 | Parkour Civilization | 329416 | [329416-parkour-civilization.json](./329416-parkour-civilization.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
+| Parkour Extreme | 103723 | [103723-parkour-extreme.json](./103723-parkour-extreme.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Flight 2 | 93813 | [93813-parkour-flight-2.json](./93813-parkour-flight-2.json) |
 | Parkour Fortress: Redux | 350570 | [350570-parkour-fortress-redux.json](./350570-parkour-fortress-redux.json) |
@@ -3326,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
 | Path of Titans | 122927 | [122927-path-of-titans.json](./122927-path-of-titans.json) |
+| Path of Traffic- Bridge Building | 103724 | [103724-path-of-traffic-bridge-building.json](./103724-path-of-traffic-bridge-building.json) |
 | Path of Trials | 273074 | [273074-path-of-trials.json](./273074-path-of-trials.json) |
 | Path of Vidya | 154915 | [154915-path-of-vidya.json](./154915-path-of-vidya.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
@@ -6499,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pianistic | 159479 | [159479-pianistic.json](./159479-pianistic.json) |
 | Piano at 5 am | 247431 | [247431-piano-at-5-am.json](./247431-piano-at-5-am.json) |
 | Piano at 5 am Encore | 366722 | [366722-piano-at-5-am-encore.json](./366722-piano-at-5-am-encore.json) |
+| Piano Ball : Music Dance Tiles | 103719 | [103719-piano-ball-music-dance-tiles.json](./103719-piano-ball-music-dance-tiles.json) |
 | Piano Bar | 108368 | [108368-piano-bar.json](./108368-piano-bar.json) |
 | Piano Cat | 89638 | [89638-piano-cat.json](./89638-piano-cat.json) |
 | Piano City: Spring Music Festival Story | 245635 | [245635-piano-city-spring-music-festival-story.json](./245635-piano-city-spring-music-festival-story.json) |
@@ -8457,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Money | 304401 | [304401-pirates-money.json](./304401-pirates-money.json) |
 | Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
+| Pirate's Solitaire 3 | 103702 | [103702-pirates-solitaire-3.json](./103702-pirates-solitaire-3.json) |
 | Pirate101 | 23536 | [23536-pirate101.json](./23536-pirate101.json) |
 | Piratecraft | 150410 | [150410-piratecraft.json](./150410-piratecraft.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
@@ -10752,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play English | 57316 | [57316-play-english.json](./57316-play-english.json) |
 | Play Faster | 401781 | [401781-play-faster.json](./401781-play-faster.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
+| Play Football Match 2017- Real Soccer world Stars | 103699 | [103699-play-football-match-2017-real-soccer-world-stars.json](./103699-play-football-match-2017-real-soccer-world-stars.json) |
 | Play for Granny Grandpa Part 4 | 248173 | [248173-play-for-granny-grandpa-part-4.json](./248173-play-for-granny-grandpa-part-4.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
 | Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
@@ -19777,6 +19782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
 | Push sticks | 127588 | [127588-push-sticks.json](./127588-push-sticks.json) |
+| Push Sushi - puzzle&unblock | 103575 | [103575-push-sushi-puzzle-and-unblock.json](./103575-push-sushi-puzzle-and-unblock.json) |
 | Push That Cat!! | 258642 | [258642-push-that-cat.json](./258642-push-that-cat.json) |
 | Push the Ball | 277645 | [277645-push-the-ball.json](./277645-push-the-ball.json) |
 | Push the Blocks | 207625 | [207625-push-the-blocks.json](./207625-push-the-blocks.json) |
@@ -20751,6 +20757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlink | 283379 | [283379-puzzlink.json](./283379-puzzlink.json) |
 | Puzzlix | 68543 | [68543-puzzlix.json](./68543-puzzlix.json) |
 | Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
+| Puzzly | 103710 | [103710-puzzly.json](./103710-puzzly.json) |
 | Puzzly | 359155 | [359155-puzzly.json](./359155-puzzly.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
 | Puzzmagic | 188229 | [188229-puzzmagic.json](./188229-puzzmagic.json) |
