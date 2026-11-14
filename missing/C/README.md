@@ -9602,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck the Sheep | 386081 | [386081-chuck-the-sheep.json](./386081-chuck-the-sheep.json) |
+| Chuck Wagon Bill's Language Skills | 133525 | [133525-chuck-wagon-bills-language-skills.json](./133525-chuck-wagon-bills-language-skills.json) |
 | Chuck Yeagar's Fighter Combat | 48367 | [48367-chuck-yeagars-fighter-combat.json](./48367-chuck-yeagars-fighter-combat.json) |
 | Chuck Yeager's Advanced Flight Trainer | 13493 | [13493-chuck-yeagers-advanced-flight-trainer.json](./13493-chuck-yeagers-advanced-flight-trainer.json) |
 | Chuck Yeager's Advanced Flight Trainer 2.0 | 13494 | [13494-chuck-yeagers-advanced-flight-trainer-2-0.json](./13494-chuck-yeagers-advanced-flight-trainer-2-0.json) |
@@ -14658,6 +14659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compel | 134761 | [134761-compel.json](./134761-compel.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Compensation Not Guaranteed | 328419 | [328419-compensation-not-guaranteed.json](./328419-compensation-not-guaranteed.json) |
+| Competition Golf: Final Round | 133529 | [133529-competition-golf-final-round.json](./133529-competition-golf-final-round.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Competitions At Rosemond Hill | 202065 | [202065-competitions-at-rosemond-hill.json](./202065-competitions-at-rosemond-hill.json) |
 | Competitive Checkers | 262583 | [262583-competitive-checkers.json](./262583-competitive-checkers.json) |
