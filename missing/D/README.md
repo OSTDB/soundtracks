@@ -6034,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Expedition 47 | 190895 | [190895-deep-space-expedition-47.json](./190895-deep-space-expedition-47.json) |
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
 | Deep Space Gardening | 157817 | [157817-deep-space-gardening.json](./157817-deep-space-gardening.json) |
+| Deep Space Invaders | 101146 | [101146-deep-space-invaders.json](./101146-deep-space-invaders.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
 | Deep Space Rush | 125189 | [125189-deep-space-rush.json](./125189-deep-space-rush.json) |
@@ -6219,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
 | DeFacto | 180875 | [180875-defacto.json](./180875-defacto.json) |
 | Defagra | 184545 | [184545-defagra.json](./184545-defagra.json) |
+| DeFaster | 100428 | [100428-defaster.json](./100428-defaster.json) |
 | Default Unreal Physics and Assets AKA DUPA Project | 380367 | [380367-default-unreal-physics-and-assets-aka-dupa-project.json](./380367-default-unreal-physics-and-assets-aka-dupa-project.json) |
 | Defcom | 13586 | [13586-defcom.json](./13586-defcom.json) |
 | Defcom 1 | 13584 | [13584-defcom-1.json](./13584-defcom-1.json) |
@@ -18968,6 +18970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropsy: Warm Damp Hug | 51748 | [51748-dropsy-warm-damp-hug.json](./51748-dropsy-warm-damp-hug.json) |
 | Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
 | Droptic | 250265 | [250265-droptic.json](./250265-droptic.json) |
+| DropWord | 101127 | [101127-dropword.json](./101127-dropword.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
 | Dropzone | 26028 | [26028-dropzone.json](./26028-dropzone.json) |
 | Dropzone | 30116 | [30116-dropzone.json](./30116-dropzone.json) |
