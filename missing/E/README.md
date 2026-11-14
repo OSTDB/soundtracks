@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
 | Endless Legend: Guardians | 14603 | [14603-endless-legend-guardians.json](./14603-endless-legend-guardians.json) |
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
+| Endless Legend: Shifters | 141264 | [141264-endless-legend-shifters.json](./141264-endless-legend-shifters.json) |
 | Endless Legend: Symbiosis | 114035 | [114035-endless-legend-symbiosis.json](./114035-endless-legend-symbiosis.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
@@ -8933,6 +8934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Rider Simulator | 392602 | [392602-express-rider-simulator.json](./392602-express-rider-simulator.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
+| Express Thru | 141303 | [141303-express-thru.json](./141303-express-thru.json) |
 | ExpressLane | 208488 | [208488-expresslane.json](./208488-expresslane.json) |
 | Expresso | 400609 | [400609-expresso.json](./400609-expresso.json) |
 | Expresso Espresso | 189848 | [189848-expresso-espresso.json](./189848-expresso-espresso.json) |
