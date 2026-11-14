@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I wish I was | 182697 | [182697-i-wish-i-was.json](./182697-i-wish-i-was.json) |
 | I Wish I Were the Moon | 55976 | [55976-i-wish-i-were-the-moon.json](./55976-i-wish-i-were-the-moon.json) |
 | I Wish it Was Morning All the Time | 237193 | [237193-i-wish-it-was-morning-all-the-time.json](./237193-i-wish-it-was-morning-all-the-time.json) |
+| I Wish Michael Phantomino Were Here | 158244 | [158244-i-wish-michael-phantomino-were-here.json](./158244-i-wish-michael-phantomino-were-here.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
 | I Wish... Todoke, Kono Omoi | 77940 | [77940-i-wish-todoke-kono-omoi.json](./77940-i-wish-todoke-kono-omoi.json) |
 | I Witness | 298139 | [298139-i-witness.json](./298139-i-witness.json) |
@@ -3226,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In The Dark Collection | 410282 | [410282-in-the-dark-collection.json](./410282-in-the-dark-collection.json) |
+| In the dark forest | 158251 | [158251-in-the-dark-forest.json](./158251-in-the-dark-forest.json) |
 | In the Darkness | 212990 | [212990-in-the-darkness.json](./212990-in-the-darkness.json) |
 | In the Darkness of the Sea | 29559 | [29559-in-the-darkness-of-the-sea.json](./29559-in-the-darkness-of-the-sea.json) |
 | In the Days of My Life | 214239 | [214239-in-the-days-of-my-life.json](./214239-in-the-days-of-my-life.json) |
