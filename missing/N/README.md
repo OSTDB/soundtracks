@@ -6664,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobetsu Maku Nashi | 222693 | [222693-nobetsu-maku-nashi.json](./222693-nobetsu-maku-nashi.json) |
 | Nobk Overlay | 314199 | [314199-nobk-overlay.json](./314199-nobk-overlay.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
+| Noble & Knightess: Episode 1 | 110442 | [110442-noble-and-knightess-episode-1.json](./110442-noble-and-knightess-episode-1.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Blood | 339684 | [339684-noble-blood.json](./339684-noble-blood.json) |
 | Noble Crusade | 105736 | [105736-noble-crusade.json](./105736-noble-crusade.json) |
@@ -6802,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
+| Nobunaga's Ambition: Taishi with Power-Up Kit | 110406 | [110406-nobunagas-ambition-taishi-with-power-up-kit.json](./110406-nobunagas-ambition-taishi-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tendou | 78305 | [78305-nobunagas-ambition-tendou.json](./78305-nobunagas-ambition-tendou.json) |
 | Nobunaga's Ambition: Tendou - Power Up Kit | 79481 | [79481-nobunagas-ambition-tendou-power-up-kit.json](./79481-nobunagas-ambition-tendou-power-up-kit.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
