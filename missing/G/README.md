@@ -4778,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme Money! Neverquaker | 181563 | [181563-gimme-money-neverquaker.json](./181563-gimme-money-neverquaker.json) |
 | Gimme Space Battle | 401611 | [401611-gimme-space-battle.json](./401611-gimme-space-battle.json) |
 | Gimmick | 415500 | [415500-gimmick.json](./415500-gimmick.json) |
+| Gimmick Heart | 150185 | [150185-gimmick-heart.json](./150185-gimmick-heart.json) |
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
 | Gimmick Land: Tomato Atama no Himitsu | 176001 | [176001-gimmick-land-tomato-atama-no-himitsu.json](./176001-gimmick-land-tomato-atama-no-himitsu.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
@@ -8598,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Criminal Online | 174987 | [174987-grand-criminal-online.json](./174987-grand-criminal-online.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
+| Grand Cross Renovation | 150187 | [150187-grand-cross-renovation.json](./150187-grand-cross-renovation.json) |
 | Grand Cross S | 194109 | [194109-grand-cross-s.json](./194109-grand-cross-s.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Cross: Age of Titans | 261101 | [261101-grand-cross-age-of-titans.json](./261101-grand-cross-age-of-titans.json) |
