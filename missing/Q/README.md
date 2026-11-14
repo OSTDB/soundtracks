@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
 | Queer and Chill | 149965 | [149965-queer-and-chill.json](./149965-queer-and-chill.json) |
 | Queer Man Peering Into A Rock Pool.jpg | 192610 | [192610-queer-man-peering-into-a-rock-pool-jpg.json](./192610-queer-man-peering-into-a-rock-pool-jpg.json) |
+| Queer Power | 128690 | [128690-queer-power.json](./128690-queer-power.json) |
 | Queer Quest: All in a Gay's Work | 272945 | [272945-queer-quest-all-in-a-gays-work.json](./272945-queer-quest-all-in-a-gays-work.json) |
 | Queers in Love at the End of the World | 130792 | [130792-queers-in-love-at-the-end-of-the-world.json](./130792-queers-in-love-at-the-end-of-the-world.json) |
 | Queerskins: A love story | 159649 | [159649-queerskins-a-love-story.json](./159649-queerskins-a-love-story.json) |
