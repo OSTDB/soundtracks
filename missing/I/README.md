@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Saw Her Standing There | 200891 | [200891-i-saw-her-standing-there.json](./200891-i-saw-her-standing-there.json) |
 | i saw her too, with lasers | 293990 | [293990-i-saw-her-too-with-lasers.json](./293990-i-saw-her-too-with-lasers.json) |
 | I saw IT | 105429 | [105429-i-saw-it.json](./105429-i-saw-it.json) |
+| I saw the night | 132331 | [132331-i-saw-the-night.json](./132331-i-saw-the-night.json) |
 | I Scream | 276653 | [276653-i-scream.json](./276653-i-scream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See Me | 348563 | [348563-i-see-me.json](./348563-i-see-me.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ian's Rocket | 411524 | [411524-ians-rocket.json](./411524-ians-rocket.json) |
 | IAssociate | 254453 | [254453-iassociate.json](./254453-iassociate.json) |
 | IAssociate 2 | 254457 | [254457-iassociate-2.json](./254457-iassociate-2.json) |
+| iB Cricket | 132324 | [132324-ib-cricket.json](./132324-ib-cricket.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibara Kuro: Black Label | 91793 | [91793-ibara-kuro-black-label.json](./91793-ibara-kuro-black-label.json) |
 | Ibasket Manager 3: Online Basketball Manager | 340500 | [340500-ibasket-manager-3-online-basketball-manager.json](./340500-ibasket-manager-3-online-basketball-manager.json) |
@@ -4408,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Fury | 401760 | [401760-infinity-fury.json](./401760-infinity-fury.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
 | Infinity Golf | 285949 | [285949-infinity-golf.json](./285949-infinity-golf.json) |
+| Infinity Heroes | 132294 | [132294-infinity-heroes.json](./132294-infinity-heroes.json) |
 | Infinity Imperium | 151505 | [151505-infinity-imperium.json](./151505-infinity-imperium.json) |
 | Infinity Inc. | 201614 | [201614-infinity-inc.json](./201614-infinity-inc.json) |
 | Infinity Is What We Will Be | 286102 | [286102-infinity-is-what-we-will-be.json](./286102-infinity-is-what-we-will-be.json) |
@@ -7571,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwaihime: Extra Chapter - Musubihime | 168844 | [168844-iwaihime-extra-chapter-musubihime.json](./168844-iwaihime-extra-chapter-musubihime.json) |
 | Iwakutsugi | 356266 | [356266-iwakutsugi.json](./356266-iwakutsugi.json) |
 | iWarehouse: World Tour | 269346 | [269346-iwarehouse-world-tour.json](./269346-iwarehouse-world-tour.json) |
+| Iwate Mountain Dance | 132313 | [132313-iwate-mountain-dance.json](./132313-iwate-mountain-dance.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
 | Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari | 185678 | [185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json](./185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json) |
 | IWL: Interstellar Wrestling League | 363912 | [363912-iwl-interstellar-wrestling-league.json](./363912-iwl-interstellar-wrestling-league.json) |
