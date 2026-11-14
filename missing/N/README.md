@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
 | Narwhale.io | 97743 | [97743-narwhale-io.json](./97743-narwhale-io.json) |
+| Narwhar Project Hornwhale | 129836 | [129836-narwhar-project-hornwhale.json](./129836-narwhar-project-hornwhale.json) |
 | Nary | 32342 | [32342-nary.json](./32342-nary.json) |
 | NASA's Eyes | 69376 | [69376-nasas-eyes.json](./69376-nasas-eyes.json) |
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
@@ -3852,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newdoom Community Project | 261016 | [261016-newdoom-community-project.json](./261016-newdoom-community-project.json) |
 | NewDoom Community Project II | 261017 | [261017-newdoom-community-project-ii.json](./261017-newdoom-community-project-ii.json) |
 | Newer Mario Kart Wii | 257275 | [257275-newer-mario-kart-wii.json](./257275-newer-mario-kart-wii.json) |
+| Newer Super Luigi Wii Dark Moon | 129829 | [129829-newer-super-luigi-wii-dark-moon.json](./129829-newer-super-luigi-wii-dark-moon.json) |
 | Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
 | Newer Super Mario Bros. DS | 115860 | [115860-newer-super-mario-bros-ds.json](./115860-newer-super-mario-bros-ds.json) |
 | Newer Super Mario Bros. Wii | 115859 | [115859-newer-super-mario-bros-wii.json](./115859-newer-super-mario-bros-wii.json) |
