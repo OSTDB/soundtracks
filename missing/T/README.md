@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Hunter Tow Operator | 240679 | [240679-tank-hunter-tow-operator.json](./240679-tank-hunter-tow-operator.json) |
 | Tank Hurricane | 131326 | [131326-tank-hurricane.json](./131326-tank-hurricane.json) |
 | Tank Impact | 126227 | [126227-tank-impact.json](./126227-tank-impact.json) |
+| Tank Island 3D - Strategy game | 88524 | [88524-tank-island-3d-strategy-game.json](./88524-tank-island-3d-strategy-game.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
@@ -10369,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Disciple | 73185 | [73185-the-fifth-disciple.json](./73185-the-fifth-disciple.json) |
 | The Fifth Element | 50805 | [50805-the-fifth-element.json](./50805-the-fifth-element.json) |
 | The Fifth Expedition | 33260 | [33260-the-fifth-expedition.json](./33260-the-fifth-expedition.json) |
+| The Fifth Gate | 88671 | [88671-the-fifth-gate.json](./88671-the-fifth-gate.json) |
 | The Fifth Horseman | 118058 | [118058-the-fifth-horseman.json](./118058-the-fifth-horseman.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Quadrant | 14064 | [14064-the-fifth-quadrant.json](./14064-the-fifth-quadrant.json) |
@@ -22805,6 +22807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw It | 149926 | [149926-throw-it.json](./149926-throw-it.json) |
 | Throw it! Dinosaur Panic | 308665 | [308665-throw-it-dinosaur-panic.json](./308665-throw-it-dinosaur-panic.json) |
+| Throw Knife | 88562 | [88562-throw-knife.json](./88562-throw-knife.json) |
 | Throw Knives | 151099 | [151099-throw-knives.json](./151099-throw-knives.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
@@ -29181,6 +29184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Down Football Solitaire | 108077 | [108077-touch-down-football-solitaire.json](./108077-touch-down-football-solitaire.json) |
 | Touch Egg | 295438 | [295438-touch-egg.json](./295438-touch-egg.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
+| Touch Fly | 88678 | [88678-touch-fly.json](./88678-touch-fly.json) |
 | Touch Force | 274935 | [274935-touch-force.json](./274935-touch-force.json) |
 | Touch from a Raindrop | 175123 | [175123-touch-from-a-raindrop.json](./175123-touch-from-a-raindrop.json) |
 | Touch Game Party | 124103 | [124103-touch-game-party.json](./124103-touch-game-party.json) |
@@ -30830,6 +30834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Manager | 53945 | [53945-traffic-manager.json](./53945-traffic-manager.json) |
 | Traffic Master | 288574 | [288574-traffic-master.json](./288574-traffic-master.json) |
 | Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
+| Traffic Ops 3D Sniper Shooter | 88676 | [88676-traffic-ops-3d-sniper-shooter.json](./88676-traffic-ops-3d-sniper-shooter.json) |
 | Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Puzzle | 216113 | [216113-traffic-puzzle.json](./216113-traffic-puzzle.json) |
