@@ -4089,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Cast | 104986 | [104986-orange-cast.json](./104986-orange-cast.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange County | 140573 | [140573-orange-county.json](./140573-orange-county.json) |
+| Orange Dancer [HD+] | 104298 | [104298-orange-dancer-hd.json](./104298-orange-dancer-hd.json) |
 | Orange Honey: Boku ha Kimi ni Koishiteru | 72580 | [72580-orange-honey-boku-ha-kimi-ni-koishiteru.json](./72580-orange-honey-boku-ha-kimi-ni-koishiteru.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Island | 116936 | [116936-orange-island.json](./116936-orange-island.json) |
