@@ -6085,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
 | Kosmos | 354569 | [354569-kosmos.json](./354569-kosmos.json) |
 | Kosmos | 93461 | [93461-kosmos.json](./93461-kosmos.json) |
+| Kosmos Connections | 151316 | [151316-kosmos-connections.json](./151316-kosmos-connections.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
 | Kosmosis | 356608 | [356608-kosmosis.json](./356608-kosmosis.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
