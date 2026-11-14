@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana Sniper | 108138 | [108138-kana-sniper.json](./108138-kana-sniper.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
 | Kana: Imouto - Limited Edition | 381889 | [381889-kana-imouto-limited-edition.json](./381889-kana-imouto-limited-edition.json) |
+| Kana! Kana? | 159410 | [159410-kana-kana.json](./159410-kana-kana.json) |
 | Kanade | 317332 | [317332-kanade.json](./317332-kanade.json) |
 | Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
@@ -2875,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Depths | 362392 | [362392-killer-depths.json](./362392-killer-depths.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
 | Killer Dolls Battle Arena | 244403 | [244403-killer-dolls-battle-arena.json](./244403-killer-dolls-battle-arena.json) |
+| Killer Dolls United | 159375 | [159375-killer-dolls-united.json](./159375-killer-dolls-united.json) |
 | Killer Elite: Time to Die | 29549 | [29549-killer-elite-time-to-die.json](./29549-killer-elite-time-to-die.json) |
 | Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
 | Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
@@ -4470,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune | 338411 | [338411-kitsune.json](./338411-kitsune.json) |
 | Kitsune Battlemage | 190236 | [190236-kitsune-battlemage.json](./190236-kitsune-battlemage.json) |
 | Kitsune Dungeon Maid | 179609 | [179609-kitsune-dungeon-maid.json](./179609-kitsune-dungeon-maid.json) |
+| Kitsune Killer | 159411 | [159411-kitsune-killer.json](./159411-kitsune-killer.json) |
 | Kitsune Kitchen | 102376 | [102376-kitsune-kitchen.json](./102376-kitsune-kitchen.json) |
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune Quest | 181468 | [181468-kitsune-quest.json](./181468-kitsune-quest.json) |
@@ -5028,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights | 399122 | [399122-knights.json](./399122-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
 | Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
+| Knights & Guns | 159386 | [159386-knights-and-guns.json](./159386-knights-and-guns.json) |
 | Knights & Guns Arcane Arsenal | 380708 | [380708-knights-and-guns-arcane-arsenal.json](./380708-knights-and-guns-arcane-arsenal.json) |
 | Knights & Guns Content Bundle | 390905 | [390905-knights-and-guns-content-bundle.json](./390905-knights-and-guns-content-bundle.json) |
 | Knights & Guns Dragon's Wrath | 385166 | [385166-knights-and-guns-dragons-wrath.json](./385166-knights-and-guns-dragons-wrath.json) |
