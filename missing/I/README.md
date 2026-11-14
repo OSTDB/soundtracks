@@ -3381,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inabatron | 134847 | [134847-inabatron.json](./134847-inabatron.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
 | Inagawa de Ikou!! | 317803 | [317803-inagawa-de-ikou.json](./317803-inagawa-de-ikou.json) |
+| Inagawa Junji: Kyoufu no Yashiki | 112554 | [112554-inagawa-junji-kyoufu-no-yashiki.json](./112554-inagawa-junji-kyoufu-no-yashiki.json) |
 | Inagawa Junji: Mayonaka no Taxi | 112549 | [112549-inagawa-junji-mayonaka-no-taxi.json](./112549-inagawa-junji-mayonaka-no-taxi.json) |
 | Inago Rage | 335797 | [335797-inago-rage.json](./335797-inago-rage.json) |
 | Inaka Gurashi: Minami no Shima no Monogatari | 56385 | [56385-inaka-gurashi-minami-no-shima-no-monogatari.json](./56385-inaka-gurashi-minami-no-shima-no-monogatari.json) |
