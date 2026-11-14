@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Crashers | 297326 | [297326-caribbean-crashers.json](./297326-caribbean-crashers.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
+| Caribbean Jigsaw | 162953 | [162953-caribbean-jigsaw.json](./162953-caribbean-jigsaw.json) |
 | Caribbean Legend | 268309 | [268309-caribbean-legend.json](./268309-caribbean-legend.json) |
 | Caribbean Legend: Age of Pirates | 377894 | [377894-caribbean-legend-age-of-pirates.json](./377894-caribbean-legend-age-of-pirates.json) |
 | Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
