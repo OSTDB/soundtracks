@@ -8391,6 +8391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Island | 245801 | [245801-pirate-island.json](./245801-pirate-island.json) |
 | Pirate Island | 406902 | [406902-pirate-island.json](./406902-pirate-island.json) |
 | Pirate Island Mini Golf VR | 150875 | [150875-pirate-island-mini-golf-vr.json](./150875-pirate-island-mini-golf-vr.json) |
+| Pirate Island Rescue | 107480 | [107480-pirate-island-rescue.json](./107480-pirate-island-rescue.json) |
 | Pirate Island Survival Simulator 3D | 351038 | [351038-pirate-island-survival-simulator-3d.json](./351038-pirate-island-survival-simulator-3d.json) |
 | Pirate Jam | 193024 | [193024-pirate-jam.json](./193024-pirate-jam.json) |
 | Pirate Jam: Space DLC | 280331 | [280331-pirate-jam-space-dlc.json](./280331-pirate-jam-space-dlc.json) |
@@ -14353,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Simulator 2012 - Hamburg | 54282 | [54282-port-simulator-2012-hamburg.json](./54282-port-simulator-2012-hamburg.json) |
 | Port Town: Survival | 319828 | [319828-port-town-survival.json](./319828-port-town-survival.json) |
 | Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
+| Port Valley | 107965 | [107965-port-valley.json](./107965-port-valley.json) |
 | Porta Nubi | 400670 | [400670-porta-nubi.json](./400670-porta-nubi.json) |
 | Porta-Pilots | 370600 | [370600-porta-pilots.json](./370600-porta-pilots.json) |
 | Porta-Tower | 260203 | [260203-porta-tower.json](./260203-porta-tower.json) |
