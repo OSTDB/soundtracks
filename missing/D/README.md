@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Room | 129640 | [129640-dark-room.json](./129640-dark-room.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
 | Dark Room | 405623 | [405623-dark-room.json](./405623-dark-room.json) |
+| Dark Room VR | 150732 | [150732-dark-room-vr.json](./150732-dark-room-vr.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
 | Dark Rose Valkyrie | 25746 | [25746-dark-rose-valkyrie.json](./25746-dark-rose-valkyrie.json) |
 | Dark Rose Valkyrie: Limited Edition | 167148 | [167148-dark-rose-valkyrie-limited-edition.json](./167148-dark-rose-valkyrie-limited-edition.json) |
@@ -15512,6 +15513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Word | 292506 | [292506-down-word.json](./292506-down-word.json) |
 | Down, the Serpent and the Sun | 191390 | [191390-down-the-serpent-and-the-sun.json](./191390-down-the-serpent-and-the-sun.json) |
 | Down. | 134994 | [134994-down.json](./134994-down.json) |
+| Down2Die | 150727 | [150727-down2die.json](./150727-down2die.json) |
 | Downbass Warriors: Heroes of Maydamn | 235561 | [235561-downbass-warriors-heroes-of-maydamn.json](./235561-downbass-warriors-heroes-of-maydamn.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
@@ -17811,6 +17813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamed Away | 216600 | [216600-dreamed-away.json](./216600-dreamed-away.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
+| Dreamer | 150702 | [150702-dreamer.json](./150702-dreamer.json) |
 | Dreamer Adventure | 245216 | [245216-dreamer-adventure.json](./245216-dreamer-adventure.json) |
 | Dreamer Series: Babysitter | 79532 | [79532-dreamer-series-babysitter.json](./79532-dreamer-series-babysitter.json) |
 | Dreamer Series: Horse Trainer | 79533 | [79533-dreamer-series-horse-trainer.json](./79533-dreamer-series-horse-trainer.json) |
