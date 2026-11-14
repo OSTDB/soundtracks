@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
 | Legacy of Sin: The Father Sacrifice | 129984 | [129984-legacy-of-sin-the-father-sacrifice.json](./129984-legacy-of-sin-the-father-sacrifice.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
+| Legacy of Suffering | 144394 | [144394-legacy-of-suffering.json](./144394-legacy-of-suffering.json) |
 | Legacy of Svarog | 59050 | [59050-legacy-of-svarog.json](./59050-legacy-of-svarog.json) |
 | Legacy of the Ancients | 19794 | [19794-legacy-of-the-ancients.json](./19794-legacy-of-the-ancients.json) |
 | Legacy of the Ark: The Long Awakening | 410014 | [410014-legacy-of-the-ark-the-long-awakening.json](./410014-legacy-of-the-ark-the-long-awakening.json) |
@@ -4997,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
+| Life of Fly | 144417 | [144417-life-of-fly.json](./144417-life-of-fly.json) |
 | Life of Fly 2 | 148321 | [148321-life-of-fly-2.json](./148321-life-of-fly-2.json) |
 | Life of Food | 157368 | [157368-life-of-food.json](./157368-life-of-food.json) |
 | Life of George | 65364 | [65364-life-of-george.json](./65364-life-of-george.json) |
