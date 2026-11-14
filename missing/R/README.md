@@ -13447,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rum & Gun | 127620 | [127620-rum-and-gun.json](./127620-rum-and-gun.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Rum no Izumi Dungeon | 206551 | [206551-rum-no-izumi-dungeon.json](./206551-rum-no-izumi-dungeon.json) |
+| Rum Ram | 90276 | [90276-rum-ram.json](./90276-rum-ram.json) |
 | Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumba Lumber | 272680 | [272680-rumba-lumber.json](./272680-rumba-lumber.json) |
