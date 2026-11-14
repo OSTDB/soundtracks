@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Me Hero | 305924 | [305924-call-me-hero.json](./305924-call-me-hero.json) |
 | Call Me Psycho | 13988 | [13988-call-me-psycho.json](./13988-call-me-psycho.json) |
 | Call Me Skyfish | 54334 | [54334-call-me-skyfish.json](./54334-call-me-skyfish.json) |
+| Call Me Under | 154649 | [154649-call-me-under.json](./154649-call-me-under.json) |
 | Call of Abdulov | 400234 | [400234-call-of-abdulov.json](./400234-call-of-abdulov.json) |
 | Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
@@ -9607,16 +9608,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm | 56388 | [56388-chunithm.json](./56388-chunithm.json) |
 | Chunithm Air | 154228 | [154228-chunithm-air.json](./154228-chunithm-air.json) |
 | Chunithm Air Plus | 154229 | [154229-chunithm-air-plus.json](./154229-chunithm-air-plus.json) |
+| Chunithm Amazon | 154638 | [154638-chunithm-amazon.json](./154638-chunithm-amazon.json) |
+| Chunithm Amazon Plus | 154639 | [154639-chunithm-amazon-plus.json](./154639-chunithm-amazon-plus.json) |
 | Chunithm Crystal | 151998 | [151998-chunithm-crystal.json](./151998-chunithm-crystal.json) |
+| Chunithm Crystal Plus | 154641 | [154641-chunithm-crystal-plus.json](./154641-chunithm-crystal-plus.json) |
 | Chunithm Luminous | 281381 | [281381-chunithm-luminous.json](./281381-chunithm-luminous.json) |
 | Chunithm Luminous Plus | 309593 | [309593-chunithm-luminous-plus.json](./309593-chunithm-luminous-plus.json) |
 | Chunithm New | 191359 | [191359-chunithm-new.json](./191359-chunithm-new.json) |
 | Chunithm New Plus | 231771 | [231771-chunithm-new-plus.json](./231771-chunithm-new-plus.json) |
+| Chunithm Paradise | 154642 | [154642-chunithm-paradise.json](./154642-chunithm-paradise.json) |
+| Chunithm Paradise Lost | 154643 | [154643-chunithm-paradise-lost.json](./154643-chunithm-paradise-lost.json) |
 | Chunithm Plus | 153805 | [153805-chunithm-plus.json](./153805-chunithm-plus.json) |
 | Chunithm Star | 154231 | [154231-chunithm-star.json](./154231-chunithm-star.json) |
 | Chunithm Star Plus | 154232 | [154232-chunithm-star-plus.json](./154232-chunithm-star-plus.json) |
 | Chunithm Sun | 231772 | [231772-chunithm-sun.json](./231772-chunithm-sun.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
+| Chunithm Super Star | 154645 | [154645-chunithm-super-star.json](./154645-chunithm-super-star.json) |
 | Chunithm Super Star Plus | 191379 | [191379-chunithm-super-star-plus.json](./191379-chunithm-super-star-plus.json) |
 | Chunithm Verse | 335960 | [335960-chunithm-verse.json](./335960-chunithm-verse.json) |
 | Chunithm X-Verse | 360313 | [360313-chunithm-x-verse.json](./360313-chunithm-x-verse.json) |
@@ -20579,6 +20586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid Coffeehouse | 207474 | [207474-cryptid-coffeehouse.json](./207474-cryptid-coffeehouse.json) |
 | Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
 | Cryptid Crew | 169634 | [169634-cryptid-crew.json](./169634-cryptid-crew.json) |
+| Cryptid Crush | 154624 | [154624-cryptid-crush.json](./154624-cryptid-crush.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
 | Cryptid Farm | 179817 | [179817-cryptid-farm.json](./179817-cryptid-farm.json) |
 | Cryptid Hunt feat. Mothman | 419997 | [419997-cryptid-hunt-feat-mothman.json](./419997-cryptid-hunt-feat-mothman.json) |
