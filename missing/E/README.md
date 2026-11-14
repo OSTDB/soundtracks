@@ -6224,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to Dating | 228149 | [228149-escape-to-dating.json](./228149-escape-to-dating.json) |
 | Escape to Hell | 179517 | [179517-escape-to-hell.json](./179517-escape-to-hell.json) |
 | Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
+| Escape to Moscow | 166800 | [166800-escape-to-moscow.json](./166800-escape-to-moscow.json) |
 | Escape to Moscow 2 | 355150 | [355150-escape-to-moscow-2.json](./355150-escape-to-moscow-2.json) |
 | Escape to Paradise Light | 89047 | [89047-escape-to-paradise-light.json](./89047-escape-to-paradise-light.json) |
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
@@ -7581,6 +7582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II | 18293 | [18293-everquest-ii.json](./18293-everquest-ii.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Altar of Malice | 61169 | [61169-everquest-ii-altar-of-malice.json](./61169-everquest-ii-altar-of-malice.json) |
+| EverQuest II: Altar of Malice - Collector's Edition | 167200 | [167200-everquest-ii-altar-of-malice-collectors-edition.json](./167200-everquest-ii-altar-of-malice-collectors-edition.json) |
 | EverQuest II: Blood of Luclin | 130466 | [130466-everquest-ii-blood-of-luclin.json](./130466-everquest-ii-blood-of-luclin.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: Chaos Descending | 110883 | [110883-everquest-ii-chaos-descending.json](./110883-everquest-ii-chaos-descending.json) |
@@ -7626,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: The Buried Sea | 70262 | [70262-everquest-the-buried-sea.json](./70262-everquest-the-buried-sea.json) |
 | EverQuest: The Burning Lands | 111811 | [111811-everquest-the-burning-lands.json](./111811-everquest-the-burning-lands.json) |
 | EverQuest: The Darkened Sea | 61170 | [61170-everquest-the-darkened-sea.json](./61170-everquest-the-darkened-sea.json) |
+| EverQuest: The Darkened Sea - Collector's Edition | 167199 | [167199-everquest-the-darkened-sea-collectors-edition.json](./167199-everquest-the-darkened-sea-collectors-edition.json) |
 | EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
