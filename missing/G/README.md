@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studies | 311959 | [311959-game-studies.json](./311959-game-studies.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
+| Game Studio Tycoon | 104321 | [104321-game-studio-tycoon.json](./104321-game-studio-tycoon.json) |
 | Game Studio Tycoon 2: Next Gen Developer | 103621 | [103621-game-studio-tycoon-2-next-gen-developer.json](./103621-game-studio-tycoon-2-next-gen-developer.json) |
 | Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
 | Game Tech Simulator | 359153 | [359153-game-tech-simulator.json](./359153-game-tech-simulator.json) |
