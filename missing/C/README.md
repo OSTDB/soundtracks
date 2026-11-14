@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camera | 307051 | [307051-camera.json](./307051-camera.json) |
 | Camera Anima | 259647 | [259647-camera-anima.json](./259647-camera-anima.json) |
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
+| Camera Cafe': Il gioco | 148055 | [148055-camera-cafe-il-gioco.json](./148055-camera-cafe-il-gioco.json) |
 | Camera Lens | 291526 | [291526-camera-lens.json](./291526-camera-lens.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | Cameraman: The Pilot Episode | 349064 | [349064-cameraman-the-pilot-episode.json](./349064-cameraman-the-pilot-episode.json) |
@@ -7949,6 +7950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Hero in Wulin | 219998 | [219998-chicken-hero-in-wulin.json](./219998-chicken-hero-in-wulin.json) |
 | Chicken Hike | 177718 | [177718-chicken-hike.json](./177718-chicken-hike.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
+| Chicken Holmes: Chanislavski Whispers | 148037 | [148037-chicken-holmes-chanislavski-whispers.json](./148037-chicken-holmes-chanislavski-whispers.json) |
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken Hunter | 83235 | [83235-chicken-hunter.json](./83235-chicken-hunter.json) |
 | Chicken Hunter: Jewel of Darkness | 69088 | [69088-chicken-hunter-jewel-of-darkness.json](./69088-chicken-hunter-jewel-of-darkness.json) |
@@ -12886,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
 | Coins & Wishpalm | 288419 | [288419-coins-and-wishpalm.json](./288419-coins-and-wishpalm.json) |
+| Coins Battle | 148025 | [148025-coins-battle.json](./148025-coins-battle.json) |
 | Coins Challenge | 75386 | [75386-coins-challenge.json](./75386-coins-challenge.json) |
 | Coins Collector Simulator | 188752 | [188752-coins-collector-simulator.json](./188752-coins-collector-simulator.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
@@ -13822,6 +13825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
 | Colors Invasion | 424022 | [424022-colors-invasion.json](./424022-colors-invasion.json) |
+| Colors Live | 148019 | [148019-colors-live.json](./148019-colors-live.json) |
 | Colors of Fate | 259788 | [259788-colors-of-fate.json](./259788-colors-of-fate.json) |
 | Colors of Nobility | 247731 | [247731-colors-of-nobility.json](./247731-colors-of-nobility.json) |
 | Colors of the Cube | 150382 | [150382-colors-of-the-cube.json](./150382-colors-of-the-cube.json) |
