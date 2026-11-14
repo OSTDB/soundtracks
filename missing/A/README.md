@@ -5316,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - Mexico Civilization | 193234 | [193234-age-of-empires-iii-definitive-edition-mexico-civilization.json](./193234-age-of-empires-iii-definitive-edition-mexico-civilization.json) |
+| Age of Empires III: Definitive Edition - The African Royals | 164610 | [164610-age-of-empires-iii-definitive-edition-the-african-royals.json](./164610-age-of-empires-iii-definitive-edition-the-african-royals.json) |
 | Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
 | Age of Empires III: Definitive Edition - United States Civilization | 164609 | [164609-age-of-empires-iii-definitive-edition-united-states-civilization.json](./164609-age-of-empires-iii-definitive-edition-united-states-civilization.json) |
 | Age of Empires III: Definitive Edition – Hero Cosmetic Pack: Lizzie | 265617 | [265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json](./265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json) |
@@ -12509,6 +12510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
 | Antisquad | 9773 | [9773-antisquad.json](./9773-antisquad.json) |
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
+| Antisquad: Hotseat | 164542 | [164542-antisquad-hotseat.json](./164542-antisquad-hotseat.json) |
 | Antistar 3D: Rising | 315676 | [315676-antistar-3d-rising.json](./315676-antistar-3d-rising.json) |
 | Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
 | Antistatic | 114215 | [114215-antistatic.json](./114215-antistatic.json) |
@@ -17106,6 +17108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla + Immortals Fenyx Rising Bundle | 164694 | [164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json](./164694-assassins-creed-valhalla-immortals-fenyx-rising-bundle.json) |
+| Assassin's Creed Valhalla + Watch Dogs: Legion Bundle | 164617 | [164617-assassins-creed-valhalla-watch-dogs-legion-bundle.json](./164617-assassins-creed-valhalla-watch-dogs-legion-bundle.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
 | Assassin's Creed Valhalla: Complete Edition | 191960 | [191960-assassins-creed-valhalla-complete-edition.json](./191960-assassins-creed-valhalla-complete-edition.json) |
