@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
 | A Boy and His Beard | 86651 | [86651-a-boy-and-his-beard.json](./86651-a-boy-and-his-beard.json) |
 | A Boy and His Blob | 4656 | [4656-a-boy-and-his-blob.json](./4656-a-boy-and-his-blob.json) |
+| A Boy and His Blob DS | 78182 | [78182-a-boy-and-his-blob-ds.json](./78182-a-boy-and-his-blob-ds.json) |
 | A Boy and His Blob: Retro Collection | 203773 | [203773-a-boy-and-his-blob-retro-collection.json](./203773-a-boy-and-his-blob-retro-collection.json) |
 | A Boy and His Blob: Trouble on Blobolonia | 2109 | [2109-a-boy-and-his-blob-trouble-on-blobolonia.json](./2109-a-boy-and-his-blob-trouble-on-blobolonia.json) |
 | A Boy's Journey | 158681 | [158681-a-boys-journey.json](./158681-a-boys-journey.json) |
@@ -1002,7 +1003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Murder of Scarecrows | 138973 | [138973-a-murder-of-scarecrows.json](./138973-a-murder-of-scarecrows.json) |
 | a Museum of Dubious Splendors | 90075 | [90075-a-museum-of-dubious-splendors.json](./90075-a-museum-of-dubious-splendors.json) |
 | A Museum of Self & Space | 148950 | [148950-a-museum-of-self-and-space.json](./148950-a-museum-of-self-and-space.json) |
-| A Musical Story | 144483 | [144483-a-musical-story.json](./144483-a-musical-story.json) |
 | A Musical Story: Digital Deluxe Edition | 193735 | [193735-a-musical-story-digital-deluxe-edition.json](./193735-a-musical-story-digital-deluxe-edition.json) |
 | A Mysterious Gallery | 148679 | [148679-a-mysterious-gallery.json](./148679-a-mysterious-gallery.json) |
 | A Mysterious Thief | 40613 | [40613-a-mysterious-thief.json](./40613-a-mysterious-thief.json) |
@@ -4542,7 +4542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
 | Aeon Directive: The Interview | 378687 | [378687-aeon-directive-the-interview.json](./378687-aeon-directive-the-interview.json) |
-| Aeon Drive | 135410 | [135410-aeon-drive.json](./135410-aeon-drive.json) |
 | Aeon Flux | 138356 | [138356-aeon-flux.json](./138356-aeon-flux.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
@@ -6506,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
 | Airline Manager 4 | 152471 | [152471-airline-manager-4.json](./152471-airline-manager-4.json) |
 | Airline Pilots | 112070 | [112070-airline-pilots.json](./112070-airline-pilots.json) |
+| Airline Simulation | 78804 | [78804-airline-simulation.json](./78804-airline-simulation.json) |
 | Airline Simulator | 306760 | [306760-airline-simulator.json](./306760-airline-simulator.json) |
 | Airline Technician | 155842 | [155842-airline-technician.json](./155842-airline-technician.json) |
 | Airline Tycoon | 9957 | [9957-airline-tycoon.json](./9957-airline-tycoon.json) |
@@ -9939,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidst the Darkness | 160129 | [160129-amidst-the-darkness.json](./160129-amidst-the-darkness.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
+| Amiga Champions | 78806 | [78806-amiga-champions.json](./78806-amiga-champions.json) |
 | Amiga Classix 3 | 70939 | [70939-amiga-classix-3.json](./70939-amiga-classix-3.json) |
 | Amiga Classix 4 | 73411 | [73411-amiga-classix-4.json](./73411-amiga-classix-4.json) |
 | Amiga Encounter | 76230 | [76230-amiga-encounter.json](./76230-amiga-encounter.json) |
@@ -14407,6 +14408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Starfire and Fire One | 410003 | [410003-arcade-classics-starfire-and-fire-one.json](./410003-arcade-classics-starfire-and-fire-one.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
+| Arcade Classics: Volume One | 78764 | [78764-arcade-classics-volume-one.json](./78764-arcade-classics-volume-one.json) |
 | Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Darts | 52045 | [52045-arcade-darts.json](./52045-arcade-darts.json) |
@@ -18072,6 +18074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Combat | 345097 | [345097-astro-combat.json](./345097-astro-combat.json) |
 | Astro Command | 284220 | [284220-astro-command.json](./284220-astro-command.json) |
+| Astro Command | 78784 | [78784-astro-command.json](./78784-astro-command.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
