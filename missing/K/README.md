@@ -6741,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunKunNest | 390073 | [390073-kunkunnest.json](./390073-kunkunnest.json) |
 | KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
+| Kūnlún | 154107 | [154107-kunlun.json](./154107-kunlun.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
 | Kunlun Ruins | 108085 | [108085-kunlun-ruins.json](./108085-kunlun-ruins.json) |
 | Kunoi | 134183 | [134183-kunoi.json](./134183-kunoi.json) |
