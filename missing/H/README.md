@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanagane Kanade Gram: Chapter 4 - Ayase Kanade: Saishuushou | 396462 | [396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json](./396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
+| Hanagumi Taisen Columns 2 | 81567 | [81567-hanagumi-taisen-columns-2.json](./81567-hanagumi-taisen-columns-2.json) |
 | Hanahime no Kuni | 321900 | [321900-hanahime-no-kuni.json](./321900-hanahime-no-kuni.json) |
 | Hanahira | 59286 | [59286-hanahira.json](./59286-hanahira.json) |
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
