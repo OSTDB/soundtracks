@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nefiriya and the Sands of Eternity | 331470 | [331470-nefiriya-and-the-sands-of-eternity.json](./331470-nefiriya-and-the-sands-of-eternity.json) |
 | Nefiriya x Super Astro Cat Bundle | 331471 | [331471-nefiriya-x-super-astro-cat-bundle.json](./331471-nefiriya-x-super-astro-cat-bundle.json) |
 | Neftelia | 63175 | [63175-neftelia.json](./63175-neftelia.json) |
+| Neftelia 2 | 145754 | [145754-neftelia-2.json](./145754-neftelia-2.json) |
 | NEG: The Threefold Cord | 217255 | [217255-neg-the-threefold-cord.json](./217255-neg-the-threefold-cord.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
@@ -7869,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novalance | 128954 | [128954-novalance.json](./128954-novalance.json) |
 | Novalie | 191610 | [191610-novalie.json](./191610-novalie.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
+| NovaMundi: The Spear of Chaquén | 145718 | [145718-novamundi-the-spear-of-chaquen.json](./145718-novamundi-the-spear-of-chaquen.json) |
 | Novantica | 265312 | [265312-novantica.json](./265312-novantica.json) |
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
 | NovaRush | 397483 | [397483-novarush.json](./397483-novarush.json) |
@@ -8502,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
 | Nya Nya Nya Girls 2 | 286727 | [286727-nya-nya-nya-girls-2.json](./286727-nya-nya-nya-girls-2.json) |
 | Nyaa to Chuu no Rainbow Magic 2 | 287263 | [287263-nyaa-to-chuu-no-rainbow-magic-2.json](./287263-nyaa-to-chuu-no-rainbow-magic-2.json) |
+| Nyaa-kuza!! | 145756 | [145756-nyaa-kuza.json](./145756-nyaa-kuza.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
 | Nyaf | 159484 | [159484-nyaf.json](./159484-nyaf.json) |
 | Nyakamon | 292902 | [292902-nyakamon.json](./292902-nyakamon.json) |
