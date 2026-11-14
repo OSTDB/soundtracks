@@ -8805,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Runner | 91060 | [91060-chop-chop-runner.json](./91060-chop-chop-runner.json) |
 | Chop Chop Soccer | 212421 | [212421-chop-chop-soccer.json](./212421-chop-chop-soccer.json) |
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
+| Chop is Dish | 112387 | [112387-chop-is-dish.json](./112387-chop-is-dish.json) |
 | Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
 | Chop It Down | 359135 | [359135-chop-it-down.json](./359135-chop-it-down.json) |
 | Chop Loop | 428391 | [428391-chop-loop.json](./428391-chop-loop.json) |
@@ -13406,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Dots | 253244 | [253244-color-dots.json](./253244-color-dots.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
 | Color Dots! | 65572 | [65572-color-dots.json](./65572-color-dots.json) |
+| Color Drop (By iMancha) | 112421 | [112421-color-drop-by-imancha.json](./112421-color-drop-by-imancha.json) |
 | Color Energy: Blow the monster! | 323223 | [323223-color-energy-blow-the-monster.json](./323223-color-energy-blow-the-monster.json) |
 | Color Escape: The Love Levels | 293867 | [293867-color-escape-the-love-levels.json](./293867-color-escape-the-love-levels.json) |
 | Color Factory | 333418 | [333418-color-factory.json](./333418-color-factory.json) |
@@ -13626,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
 | ColorFusion | 289119 | [289119-colorfusion.json](./289119-colorfusion.json) |
 | Colorider | 213324 | [213324-colorider.json](./213324-colorider.json) |
+| Colorify | 112406 | [112406-colorify.json](./112406-colorify.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
