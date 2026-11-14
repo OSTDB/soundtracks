@@ -7319,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Mega-Game | 373002 | [373002-fishing-mega-game.json](./373002-fishing-mega-game.json) |
 | Fishing Minigame 2 | 273921 | [273921-fishing-minigame-2.json](./273921-fishing-minigame-2.json) |
 | Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
+| Fishing on the Fly | 98620 | [98620-fishing-on-the-fly.json](./98620-fishing-on-the-fly.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
 | Fishing Paradiso | 191846 | [191846-fishing-paradiso.json](./191846-fishing-paradiso.json) |
