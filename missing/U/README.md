@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate VR Collection | 108863 | [108863-ultimate-vr-collection.json](./108863-ultimate-vr-collection.json) |
 | Ultimate Waifu Battle Online | 219530 | [219530-ultimate-waifu-battle-online.json](./219530-ultimate-waifu-battle-online.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
+| Ultimate War | 104926 | [104926-ultimate-war.json](./104926-ultimate-war.json) |
 | Ultimate Winter Games | 49207 | [49207-ultimate-winter-games.json](./49207-ultimate-winter-games.json) |
 | Ultimate Wizard | 28705 | [28705-ultimate-wizard.json](./28705-ultimate-wizard.json) |
 | Ultimate Wizard | 398392 | [398392-ultimate-wizard.json](./398392-ultimate-wizard.json) |
