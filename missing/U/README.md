@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Vendetta | 322309 | [322309-undead-vendetta.json](./322309-undead-vendetta.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
+| Undead vs. Plants War - Fun Ricochet Shooter | 93861 | [93861-undead-vs-plants-war-fun-ricochet-shooter.json](./93861-undead-vs-plants-war-fun-ricochet-shooter.json) |
 | Undead Walking Experiment | 106724 | [106724-undead-walking-experiment.json](./106724-undead-walking-experiment.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
 | Undead Wilderness | 257257 | [257257-undead-wilderness.json](./257257-undead-wilderness.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhinged | 375056 | [375056-unhinged.json](./375056-unhinged.json) |
 | Unhinged | 380740 | [380740-unhinged.json](./380740-unhinged.json) |
 | Unhinged | 408623 | [408623-unhinged.json](./408623-unhinged.json) |
+| Unhinged | 93858 | [93858-unhinged.json](./93858-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
 | Unhinged Pet Store Simulator | 349457 | [349457-unhinged-pet-store-simulator.json](./349457-unhinged-pet-store-simulator.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
