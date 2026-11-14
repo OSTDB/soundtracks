@@ -25959,6 +25959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Snow | 115330 | [115330-tiny-snow.json](./115330-tiny-snow.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
+| Tiny Space Academy | 151320 | [151320-tiny-space-academy.json](./151320-tiny-space-academy.json) |
 | Tiny Space Program | 174525 | [174525-tiny-space-program.json](./174525-tiny-space-program.json) |
 | Tiny Speedster | 307636 | [307636-tiny-speedster.json](./307636-tiny-speedster.json) |
 | Tiny Squads | 244628 | [244628-tiny-squads.json](./244628-tiny-squads.json) |
@@ -36745,6 +36746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Lovers | 184013 | [184013-two-lovers.json](./184013-two-lovers.json) |
 | Two Men Go On A Date And Don't Fall In Love | 330367 | [330367-two-men-go-on-a-date-and-dont-fall-in-love.json](./330367-two-men-go-on-a-date-and-dont-fall-in-love.json) |
 | Two Minutes | 185049 | [185049-two-minutes.json](./185049-two-minutes.json) |
+| Two Months | 151323 | [151323-two-months.json](./151323-two-months.json) |
 | Two Moon: Space Rabbit | 270141 | [270141-two-moon-space-rabbit.json](./270141-two-moon-space-rabbit.json) |
 | Two Move Chess | 215680 | [215680-two-move-chess.json](./215680-two-move-chess.json) |
 | Two Neons One Brain | 262359 | [262359-two-neons-one-brain.json](./262359-two-neons-one-brain.json) |
