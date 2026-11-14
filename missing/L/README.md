@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladder Larry | 220389 | [220389-ladder-larry.json](./220389-ladder-larry.json) |
 | Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
 | Ladder Slasher | 56878 | [56878-ladder-slasher.json](./56878-ladder-slasher.json) |
+| Ladderhead | 129848 | [129848-ladderhead.json](./129848-ladderhead.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Lade's Sandbox | 303621 | [303621-lades-sandbox.json](./303621-lades-sandbox.json) |
