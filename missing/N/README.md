@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Run | 314116 | [314116-new-super-mario-run.json](./314116-new-super-mario-run.json) |
 | New Super Mario World 1: The Twelve Magic Orbs | 130007 | [130007-new-super-mario-world-1-the-twelve-magic-orbs.json](./130007-new-super-mario-world-1-the-twelve-magic-orbs.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
+| New Super Mario World 2: Around the World | 148007 | [148007-new-super-mario-world-2-around-the-world.json](./148007-new-super-mario-world-2-around-the-world.json) |
 | New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
 | New Super Realistic Mario Bros. | 208506 | [208506-new-super-realistic-mario-bros.json](./208506-new-super-realistic-mario-bros.json) |
 | New Super Triv III | 307370 | [307370-new-super-triv-iii.json](./307370-new-super-triv-iii.json) |
@@ -4962,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
 | Nightmara | 106855 | [106855-nightmara.json](./106855-nightmara.json) |
 | Nightmare | 118819 | [118819-nightmare.json](./118819-nightmare.json) |
+| Nightmare | 148039 | [148039-nightmare.json](./148039-nightmare.json) |
 | Nightmare | 166042 | [166042-nightmare.json](./166042-nightmare.json) |
 | Nightmare | 192775 | [192775-nightmare.json](./192775-nightmare.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
