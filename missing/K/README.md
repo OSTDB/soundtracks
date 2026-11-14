@@ -3859,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
 | Kingdom Two Crowns: 10th Rulerversary Update | 368699 | [368699-kingdom-two-crowns-10th-rulerversary-update.json](./368699-kingdom-two-crowns-10th-rulerversary-update.json) |
 | Kingdom Two Crowns: Call of Olympus | 291949 | [291949-kingdom-two-crowns-call-of-olympus.json](./291949-kingdom-two-crowns-call-of-olympus.json) |
+| Kingdom Two Crowns: Dead Lands | 140696 | [140696-kingdom-two-crowns-dead-lands.json](./140696-kingdom-two-crowns-dead-lands.json) |
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
@@ -4553,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitties on Planets | 424004 | [424004-kitties-on-planets.json](./424004-kitties-on-planets.json) |
 | Kitties Solitaire | 412344 | [412344-kitties-solitaire.json](./412344-kitties-solitaire.json) |
 | Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
+| Kitto, Sumiwataru Asairo Yori mo, | 141313 | [141313-kitto-sumiwataru-asairo-yori-mo.json](./141313-kitto-sumiwataru-asairo-yori-mo.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Adventure | 163652 | [163652-kitty-adventure.json](./163652-kitty-adventure.json) |
 | Kitty Ball | 194686 | [194686-kitty-ball.json](./194686-kitty-ball.json) |
