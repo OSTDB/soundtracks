@@ -4357,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Mini Bowling 2 | 202207 | [202207-vr-mini-bowling-2.json](./202207-vr-mini-bowling-2.json) |
 | VR Mini Golf | 138609 | [138609-vr-mini-golf.json](./138609-vr-mini-golf.json) |
 | VR Mini World Roller Coaster | 192238 | [192238-vr-mini-world-roller-coaster.json](./192238-vr-mini-world-roller-coaster.json) |
+| VR Modern Wars: Advance Under Air Raid | 159408 | [159408-vr-modern-wars-advance-under-air-raid.json](./159408-vr-modern-wars-advance-under-air-raid.json) |
 | VR Monster Awakens | 30176 | [30176-vr-monster-awakens.json](./30176-vr-monster-awakens.json) |
 | VR Multi-Games | 32119 | [32119-vr-multi-games.json](./32119-vr-multi-games.json) |
 | VR Mummy Girl | 206287 | [206287-vr-mummy-girl.json](./206287-vr-mummy-girl.json) |
