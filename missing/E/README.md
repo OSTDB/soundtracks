@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Shaker | 46042 | [46042-earth-shaker.json](./46042-earth-shaker.json) |
 | Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
+| Earth Special Forces | 95036 | [95036-earth-special-forces.json](./95036-earth-special-forces.json) |
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
 | Earth Taken 2 | 365133 | [365133-earth-taken-2.json](./365133-earth-taken-2.json) |
 | Earth Taken 3 | 365131 | [365131-earth-taken-3.json](./365131-earth-taken-3.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Egyptian Senet | 34742 | [34742-egyptian-senet.json](./34742-egyptian-senet.json) |
+| Egyptian Senet | 94800 | [94800-egyptian-senet.json](./94800-egyptian-senet.json) |
 | Egyptian Settlement | 53993 | [53993-egyptian-settlement.json](./53993-egyptian-settlement.json) |
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
@@ -2341,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Year Knockout | 130663 | [130663-election-year-knockout.json](./130663-election-year-knockout.json) |
 | Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
 | Electioneering | 174080 | [174080-electioneering.json](./174080-electioneering.json) |
+| Elections Simulator 2018 | 95029 | [95029-elections-simulator-2018.json](./95029-elections-simulator-2018.json) |
 | Electoral Carnage | 350040 | [350040-electoral-carnage.json](./350040-electoral-carnage.json) |
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
 | Electoral Empire: All Lies Trump Truth | 347969 | [347969-electoral-empire-all-lies-trump-truth.json](./347969-electoral-empire-all-lies-trump-truth.json) |
