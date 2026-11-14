@@ -7015,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
+| Kyiv: From Dusk till Dawn with Lenovo Explorer | 107471 | [107471-kyiv-from-dusk-till-dawn-with-lenovo-explorer.json](./107471-kyiv-from-dusk-till-dawn-with-lenovo-explorer.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyklos | 407088 | [407088-kyklos.json](./407088-kyklos.json) |
 | Kyklos Code | 74607 | [74607-kyklos-code.json](./74607-kyklos-code.json) |
