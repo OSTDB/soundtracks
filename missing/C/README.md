@@ -7402,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChemCaper: Act I - Petticles in Peril | 75369 | [75369-chemcaper-act-i-petticles-in-peril.json](./75369-chemcaper-act-i-petticles-in-peril.json) |
 | Chemia | 303412 | [303412-chemia.json](./303412-chemia.json) |
 | Chemical | 251954 | [251954-chemical.json](./251954-chemical.json) |
+| Chemical Chimpet | 128059 | [128059-chemical-chimpet.json](./128059-chemical-chimpet.json) |
 | Chemical Combat | 356217 | [356217-chemical-combat.json](./356217-chemical-combat.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
