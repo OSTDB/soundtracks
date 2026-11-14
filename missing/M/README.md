@@ -21157,6 +21157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Mugen Sweeper | 256910 | [256910-mugen-sweeper.json](./256910-mugen-sweeper.json) |
 | Mugen Yakou | 378004 | [378004-mugen-yakou.json](./378004-mugen-yakou.json) |
+| Mugen Yaso: Yoimu | 97544 | [97544-mugen-yaso-yoimu.json](./97544-mugen-yaso-yoimu.json) |
 | Mugenborg | 49710 | [49710-mugenborg.json](./49710-mugenborg.json) |
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
 | Mugengikyou: First Disaster | 301352 | [301352-mugengikyou-first-disaster.json](./301352-mugengikyou-first-disaster.json) |
@@ -21958,6 +21959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musings in Nonograms | 418592 | [418592-musings-in-nonograms.json](./418592-musings-in-nonograms.json) |
 | Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
+| Musket & Artillery: American Revolutionary War | 97004 | [97004-musket-and-artillery-american-revolutionary-war.json](./97004-musket-and-artillery-american-revolutionary-war.json) |
 | Musket & Pike: Great Northern War | 244408 | [244408-musket-and-pike-great-northern-war.json](./244408-musket-and-pike-great-northern-war.json) |
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
 | Musket Smoke | 262593 | [262593-musket-smoke.json](./262593-musket-smoke.json) |
