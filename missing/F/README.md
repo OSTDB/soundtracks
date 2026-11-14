@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate War | 360916 | [360916-fate-war.json](./360916-fate-war.json) |
 | Fate: Gates of Dawn | 73057 | [73057-fate-gates-of-dawn.json](./73057-fate-gates-of-dawn.json) |
 | Fate: Reawakened | 319819 | [319819-fate-reawakened.json](./319819-fate-reawakened.json) |
+| Fate: The Complete Adventure | 155231 | [155231-fate-the-complete-adventure.json](./155231-fate-the-complete-adventure.json) |
 | Fate: The Traitor Soul | 15471 | [15471-fate-the-traitor-soul.json](./15471-fate-the-traitor-soul.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
