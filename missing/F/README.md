@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Facts 'N Fractions | 83096 | [83096-facts-n-fractions.json](./83096-facts-n-fractions.json) |
 | Factum Solus | 323562 | [323562-factum-solus.json](./323562-factum-solus.json) |
+| Fade | 141928 | [141928-fade.json](./141928-fade.json) |
 | Fade | 148828 | [148828-fade.json](./148828-fade.json) |
 | Fade | 342517 | [342517-fade.json](./342517-fade.json) |
 | Fade Away | 68888 | [68888-fade-away.json](./68888-fade-away.json) |
@@ -15374,6 +15375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusterclucks 2015 | 60710 | [60710-fusterclucks-2015.json](./60710-fusterclucks-2015.json) |
 | Fusty Dungeon | 415043 | [415043-fusty-dungeon.json](./415043-fusty-dungeon.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
+| Futa Fix Dick Dine and Dash | 141937 | [141937-futa-fix-dick-dine-and-dash.json](./141937-futa-fix-dick-dine-and-dash.json) |
 | Futa Heim | 410599 | [410599-futa-heim.json](./410599-futa-heim.json) |
 | Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
