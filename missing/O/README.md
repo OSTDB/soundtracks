@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocraft | 256236 | [256236-ocraft.json](./256236-ocraft.json) |
 | OCRPG | 291909 | [291909-ocrpg.json](./291909-ocrpg.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
+| OctaFight | 132914 | [132914-octafight.json](./132914-octafight.json) |
 | Octagon | 356063 | [356063-octagon.json](./356063-octagon.json) |
 | Octagon | 51640 | [51640-octagon.json](./51640-octagon.json) |
 | Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dog's Stay | 326272 | [326272-one-dogs-stay.json](./326272-one-dogs-stay.json) |
 | One Dollar Empire | 402252 | [402252-one-dollar-empire.json](./402252-one-dollar-empire.json) |
 | One Dollar Simulator | 286745 | [286745-one-dollar-simulator.json](./286745-one-dollar-simulator.json) |
+| One Dreamer | 132925 | [132925-one-dreamer.json](./132925-one-dreamer.json) |
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
 | One Drone | 236251 | [236251-one-drone.json](./236251-one-drone.json) |
 | One Drop | 284396 | [284396-one-drop.json](./284396-one-drop.json) |
@@ -2489,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Got in the House | 179882 | [179882-one-got-in-the-house.json](./179882-one-got-in-the-house.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
 | One Gun Army | 423643 | [423643-one-gun-army.json](./423643-one-gun-army.json) |
+| One Gun Guy | 132917 | [132917-one-gun-guy.json](./132917-one-gun-guy.json) |
 | One Gun: Cat | 106908 | [106908-one-gun-cat.json](./106908-one-gun-cat.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
@@ -4771,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Os Invasores do Futuro | 300447 | [300447-os-invasores-do-futuro.json](./300447-os-invasores-do-futuro.json) |
 | Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
 | Os Man | 41088 | [41088-os-man.json](./41088-os-man.json) |
+| OS Omega | 132877 | [132877-os-omega.json](./132877-os-omega.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | Os Três Porquinhos | 281880 | [281880-os-tres-porquinhos.json](./281880-os-tres-porquinhos.json) |
 | OS: Memories | 188787 | [188787-os-memories.json](./188787-os-memories.json) |
