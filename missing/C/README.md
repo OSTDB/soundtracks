@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Caliross, the Shapeshifter's Legacy | 380463 | [380463-caliross-the-shapeshifters-legacy.json](./380463-caliross-the-shapeshifters-legacy.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
+| Calith 3D | 78775 | [78775-calith-3d.json](./78775-calith-3d.json) |
 | Calix | 346508 | [346508-calix.json](./346508-calix.json) |
 | Calixto Island | 36910 | [36910-calixto-island.json](./36910-calixto-island.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
@@ -6485,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Man 16 | 58377 | [58377-champ-man-16.json](./58377-champ-man-16.json) |
 | Champ Manager 2006 | 38459 | [38459-champ-manager-2006.json](./38459-champ-manager-2006.json) |
 | Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
+| Champ Pac-em | 78801 | [78801-champ-pac-em.json](./78801-champ-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
 | Champi | 338508 | [338508-champi.json](./338508-champi.json) |
 | Champion | 67134 | [67134-champion.json](./67134-champion.json) |
@@ -14251,6 +14253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combolite | 338675 | [338675-combolite.json](./338675-combolite.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
+| Combots | 78794 | [78794-combots.json](./78794-combots.json) |
 | Combustion | 218099 | [218099-combustion.json](./218099-combustion.json) |
 | Come Again, Chachii? | 396005 | [396005-come-again-chachii.json](./396005-come-again-chachii.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
@@ -21469,6 +21472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CuberPunk 2089 | 139031 | [139031-cuberpunk-2089.json](./139031-cuberpunk-2089.json) |
 | CuberPunk 2090 | 173942 | [173942-cuberpunk-2090.json](./173942-cuberpunk-2090.json) |
 | Cubers: Arena | 138918 | [138918-cubers-arena.json](./138918-cubers-arena.json) |
+| Cubert Badbone, P.I. | 78797 | [78797-cubert-badbone-p-i.json](./78797-cubert-badbone-p-i.json) |
 | Cuberun | 336954 | [336954-cuberun.json](./336954-cuberun.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
