@@ -2278,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | Darkblood Chronicles | 75833 | [75833-darkblood-chronicles.json](./75833-darkblood-chronicles.json) |
 | DarkBlood Gaiden | 238795 | [238795-darkblood-gaiden.json](./238795-darkblood-gaiden.json) |
+| DarkBlood Reborn | 151765 | [151765-darkblood-reborn.json](./151765-darkblood-reborn.json) |
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
@@ -4851,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
 | Deardrops Distortion | 125741 | [125741-deardrops-distortion.json](./125741-deardrops-distortion.json) |
+| Dearend | 151793 | [151793-dearend.json](./151793-dearend.json) |
 | Dearest You | 179889 | [179889-dearest-you.json](./179889-dearest-you.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
@@ -5388,6 +5390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 372431 | [372431-debris.json](./372431-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
 | Debris 2x1 Hentai | 345782 | [345782-debris-2x1-hentai.json](./345782-debris-2x1-hentai.json) |
+| Debris 3: The Devil In I | 151856 | [151856-debris-3-the-devil-in-i.json](./151856-debris-3-the-devil-in-i.json) |
 | Debris 32 | 399533 | [399533-debris-32.json](./399533-debris-32.json) |
 | Debris Field | 113229 | [113229-debris-field.json](./113229-debris-field.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
@@ -9190,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon 3D | 3470 | [3470-dezaemon-3d.json](./3470-dezaemon-3d.json) |
 | Dezaemon BS-X Version: BS-X Shooting | 142409 | [142409-dezaemon-bs-x-version-bs-x-shooting.json](./142409-dezaemon-bs-x-version-bs-x-shooting.json) |
 | Dezaemon BS-X Version: Sugoi STG 2 - Crystal Guardian | 151833 | [151833-dezaemon-bs-x-version-sugoi-stg-2-crystal-guardian.json](./151833-dezaemon-bs-x-version-sugoi-stg-2-crystal-guardian.json) |
+| Dezaemon BS-X Version: Sugoi STG!! Jintai | 151869 | [151869-dezaemon-bs-x-version-sugoi-stg-jintai.json](./151869-dezaemon-bs-x-version-sugoi-stg-jintai.json) |
 | Dezaemon DD | 182337 | [182337-dezaemon-dd.json](./182337-dezaemon-dd.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
@@ -11855,6 +11859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disneyland Adventures | 108251 | [108251-disneyland-adventures.json](./108251-disneyland-adventures.json) |
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disobey - Revolt Simulator | 33031 | [33031-disobey-revolt-simulator.json](./33031-disobey-revolt-simulator.json) |
+| Disomnia: Lullaby | 151866 | [151866-disomnia-lullaby.json](./151866-disomnia-lullaby.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
 | Disorder | 117946 | [117946-disorder.json](./117946-disorder.json) |
 | Disorder | 17827 | [17827-disorder.json](./17827-disorder.json) |
@@ -20214,6 +20219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rollers | 151449 | [151449-dungeon-rollers.json](./151449-dungeon-rollers.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Route | 350066 | [350066-dungeon-route.json](./350066-dungeon-route.json) |
+| Dungeon Royale | 151862 | [151862-dungeon-royale.json](./151862-dungeon-royale.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
 | Dungeon RPG: Abyssal Dystopia | 219920 | [219920-dungeon-rpg-abyssal-dystopia.json](./219920-dungeon-rpg-abyssal-dystopia.json) |
 | Dungeon RPG: Hero | 235161 | [235161-dungeon-rpg-hero.json](./235161-dungeon-rpg-hero.json) |
