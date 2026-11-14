@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia Party | 235415 | [235415-paranoia-party.json](./235415-paranoia-party.json) |
 | Paranoia Place | 214118 | [214118-paranoia-place.json](./214118-paranoia-place.json) |
 | Paranoia Vol 1 | 398269 | [398269-paranoia-vol-1.json](./398269-paranoia-vol-1.json) |
+| Paranoia: Deliver Me | 111782 | [111782-paranoia-deliver-me.json](./111782-paranoia-deliver-me.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
@@ -4891,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Knife | 298352 | [298352-perfect-knife.json](./298352-perfect-knife.json) |
 | Perfect Landing | 265587 | [265587-perfect-landing.json](./265587-perfect-landing.json) |
 | Perfect Liar | 373536 | [373536-perfect-liar.json](./373536-perfect-liar.json) |
+| Perfect Life VR | 111792 | [111792-perfect-life-vr.json](./111792-perfect-life-vr.json) |
 | Perfect Loop: Soleris | 388711 | [388711-perfect-loop-soleris.json](./388711-perfect-loop-soleris.json) |
 | Perfect Love | 304089 | [304089-perfect-love.json](./304089-perfect-love.json) |
 | Perfect Mahjong | 385762 | [385762-perfect-mahjong.json](./385762-perfect-mahjong.json) |
@@ -13613,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pombero: The Lord of the Night | 144445 | [144445-pombero-the-lord-of-the-night.json](./144445-pombero-the-lord-of-the-night.json) |
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
 | Pombo Piorado 2 | 278869 | [278869-pombo-piorado-2.json](./278869-pombo-piorado-2.json) |
+| PomboTroll | 111780 | [111780-pombotroll.json](./111780-pombotroll.json) |
 | Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
 | Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
 | Pomegranate Housing Complex | 346854 | [346854-pomegranate-housing-complex.json](./346854-pomegranate-housing-complex.json) |
@@ -17475,6 +17478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project First Contact | 47985 | [47985-project-first-contact.json](./47985-project-first-contact.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Fleet | 351362 | [351362-project-fleet.json](./351362-project-fleet.json) |
+| Project Flesh | 111950 | [111950-project-flesh.json](./111950-project-flesh.json) |
 | Project Float | 332206 | [332206-project-float.json](./332206-project-float.json) |
 | Project FNZ | 114641 | [114641-project-fnz.json](./114641-project-fnz.json) |
 | Project Fog: The Wounded | 230087 | [230087-project-fog-the-wounded.json](./230087-project-fog-the-wounded.json) |
