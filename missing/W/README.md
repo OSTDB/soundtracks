@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpswap | 182609 | [182609-warpswap.json](./182609-warpswap.json) |
 | Warpswap | 333817 | [333817-warpswap.json](./333817-warpswap.json) |
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
+| WarpThrough | 115936 | [115936-warpthrough.json](./115936-warpthrough.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
 | Warpzone Drifter 2 | 276583 | [276583-warpzone-drifter-2.json](./276583-warpzone-drifter-2.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
+| West Front Battle Pack I | 115857 | [115857-west-front-battle-pack-i.json](./115857-west-front-battle-pack-i.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Gunfighter | 100923 | [100923-west-gunfighter.json](./100923-west-gunfighter.json) |
 | West Hunt | 145463 | [145463-west-hunt.json](./145463-west-hunt.json) |
@@ -6350,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
 | Windy Days | 397441 | [397441-windy-days.json](./397441-windy-days.json) |
 | Windy Kingdom | 119822 | [119822-windy-kingdom.json](./119822-windy-kingdom.json) |
+| Windy Lights | 115844 | [115844-windy-lights.json](./115844-windy-lights.json) |
 | Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
