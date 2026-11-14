@@ -6024,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
+| Lines Master | 96331 | [96331-lines-master.json](./96331-lines-master.json) |
 | Lines Millennium | 79432 | [79432-lines-millennium.json](./79432-lines-millennium.json) |
 | Lines of Balls | 362319 | [362319-lines-of-balls.json](./362319-lines-of-balls.json) |
 | Lines of Battle | 374536 | [374536-lines-of-battle.json](./374536-lines-of-battle.json) |
@@ -7693,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Levels | 40888 | [40888-logic-levels.json](./40888-logic-levels.json) |
 | Logic Light | 170898 | [170898-logic-light.json](./170898-logic-light.json) |
 | Logic Machines | 47770 | [47770-logic-machines.json](./47770-logic-machines.json) |
+| Logic Mahjong Souryu: Yon-nin Uchi / San-nin Uchi | 96368 | [96368-logic-mahjong-souryu-yon-nin-uchi-san-nin-uchi.json](./96368-logic-mahjong-souryu-yon-nin-uchi-san-nin-uchi.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Master Detective 2 | 175188 | [175188-logic-master-detective-2.json](./175188-logic-master-detective-2.json) |
 | Logic Master Detective 3 | 255006 | [255006-logic-master-detective-3.json](./255006-logic-master-detective-3.json) |
