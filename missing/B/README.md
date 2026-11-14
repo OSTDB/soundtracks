@@ -18528,6 +18528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bite Tower Defence | 297939 | [297939-bug-bite-tower-defence.json](./297939-bug-bite-tower-defence.json) |
 | Bug Bite! | 256929 | [256929-bug-bite.json](./256929-bug-bite.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
+| Bug Blast | 158265 | [158265-bug-blast.json](./158265-bug-blast.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
 | Bug Blasters: The Exterminators | 46550 | [46550-bug-blasters-the-exterminators.json](./46550-bug-blasters-the-exterminators.json) |
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
