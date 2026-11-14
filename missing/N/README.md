@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necronom | 12698 | [12698-necronom.json](./12698-necronom.json) |
 | Necronomicon: The Gateway to Beyond | 17425 | [17425-necronomicon-the-gateway-to-beyond.json](./17425-necronomicon-the-gateway-to-beyond.json) |
 | Necronomistore | 117361 | [117361-necronomistore.json](./117361-necronomistore.json) |
+| Necronomistore: Before Black Friday | 153544 | [153544-necronomistore-before-black-friday.json](./153544-necronomistore-before-black-friday.json) |
 | Necronomistore: Black Friday - Season One | 170226 | [170226-necronomistore-black-friday-season-one.json](./170226-necronomistore-black-friday-season-one.json) |
 | NecroNomNomNom: Eldritch Horror Dating | 220638 | [220638-necronomnomnom-eldritch-horror-dating.json](./220638-necronomnomnom-eldritch-horror-dating.json) |
 | Necrophobia | 211715 | [211715-necrophobia.json](./211715-necrophobia.json) |
@@ -7284,6 +7285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoReason's Speedmaps | 222622 | [222622-noreasons-speedmaps.json](./222622-noreasons-speedmaps.json) |
 | NoReason's Speedmaps 2 | 221850 | [221850-noreasons-speedmaps-2.json](./221850-noreasons-speedmaps-2.json) |
 | NoReason's Speedmaps 3 | 222620 | [222620-noreasons-speedmaps-3.json](./222620-noreasons-speedmaps-3.json) |
+| Norega | 154116 | [154116-norega.json](./154116-norega.json) |
 | NoReload Heroes: Enhanced Edition | 143879 | [143879-noreload-heroes-enhanced-edition.json](./143879-noreload-heroes-enhanced-edition.json) |
 | Noren | 158583 | [158583-noren.json](./158583-noren.json) |
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
