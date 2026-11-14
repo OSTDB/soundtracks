@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōu Sōng Zhuàn | 174442 | [174442-zhou-song-zhuan.json](./174442-zhou-song-zhuan.json) |
 | Zhouyi Six Lines Divination Game | 337753 | [337753-zhouyi-six-lines-divination-game.json](./337753-zhouyi-six-lines-divination-game.json) |
 | Zhù Mèng Sānguó | 157219 | [157219-zhu-meng-sanguo.json](./157219-zhu-meng-sanguo.json) |
+| Zhu Zhu Babies | 122487 | [122487-zhu-zhu-babies.json](./122487-zhu-zhu-babies.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhu Zhu Pets 2: The Wild Bunch | 47878 | [47878-zhu-zhu-pets-2-the-wild-bunch.json](./47878-zhu-zhu-pets-2-the-wild-bunch.json) |
 | Zhu Zhu Pets: Quest for Zhu | 122524 | [122524-zhu-zhu-pets-quest-for-zhu.json](./122524-zhu-zhu-pets-quest-for-zhu.json) |
