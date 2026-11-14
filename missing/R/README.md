@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
 | Re:Red | 415332 | [415332-re-red.json](./415332-re-red.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
+| Re:Run | 154633 | [154633-re-run.json](./154633-re-run.json) |
 | RE:Solver | 192862 | [192862-re-solver.json](./192862-re-solver.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Stage! Prism Step | 77720 | [77720-re-stage-prism-step.json](./77720-re-stage-prism-step.json) |
@@ -3677,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reasoning of Courage Nori Courage Journey | 305574 | [305574-reasoning-of-courage-nori-courage-journey.json](./305574-reasoning-of-courage-nori-courage-journey.json) |
 | Reasons | 349789 | [349789-reasons.json](./349789-reasons.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
+| Reassembly: Fields Expansion | 154658 | [154658-reassembly-fields-expansion.json](./154658-reassembly-fields-expansion.json) |
 | Reave | 335126 | [335126-reave.json](./335126-reave.json) |
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Reavers of New Rome | 138133 | [138133-reavers-of-new-rome.json](./138133-reavers-of-new-rome.json) |
@@ -5131,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Reimus Awesome Holiday | 216204 | [216204-reimus-awesome-holiday.json](./216204-reimus-awesome-holiday.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
+| Reina & Jericho | 154654 | [154654-reina-and-jericho.json](./154654-reina-and-jericho.json) |
 | Reinbo | 331736 | [331736-reinbo.json](./331736-reinbo.json) |
 | Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
 | Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999 | 385413 | [385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json](./385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json) |
