@@ -2362,11 +2362,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game | 344509 | [344509-jinsei-game.json](./344509-jinsei-game.json) |
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game Advance | 49659 | [49659-jinsei-game-advance.json](./49659-jinsei-game-advance.json) |
+| Jinsei Game Densetsu | 97573 | [97573-jinsei-game-densetsu.json](./97573-jinsei-game-densetsu.json) |
 | Jinsei Game DS | 269781 | [269781-jinsei-game-ds.json](./269781-jinsei-game-ds.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
 | Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
 | Jinsei Game Q: DS Heisei no Dekigoto | 269782 | [269782-jinsei-game-q-ds-heisei-no-dekigoto.json](./269782-jinsei-game-q-ds-heisei-no-dekigoto.json) |
 | Jinsei Game Q: DS Shouwa no Dekigoto | 269783 | [269783-jinsei-game-q-ds-shouwa-no-dekigoto.json](./269783-jinsei-game-q-ds-shouwa-no-dekigoto.json) |
+| Jinsei Game: Happy Family | 97570 | [97570-jinsei-game-happy-family.json](./97570-jinsei-game-happy-family.json) |
 | Jinsei Game: Happy Step | 344633 | [344633-jinsei-game-happy-step.json](./344633-jinsei-game-happy-step.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
