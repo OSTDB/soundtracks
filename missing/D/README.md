@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dain Squares | 380617 | [380617-dain-squares.json](./380617-dain-squares.json) |
 | Daina Airan | 165448 | [165448-daina-airan.json](./165448-daina-airan.json) |
 | Dainty Pain | 136232 | [136232-dainty-pain.json](./136232-dainty-pain.json) |
+| Daiobake Yashiki: Hamamura Jun no Jitsuwa Kaidan | 112559 | [112559-daiobake-yashiki-hamamura-jun-no-jitsuwa-kaidan.json](./112559-daiobake-yashiki-hamamura-jun-no-jitsuwa-kaidan.json) |
 | Daioh | 39863 | [39863-daioh.json](./39863-daioh.json) |
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dair | 259764 | [259764-dair.json](./259764-dair.json) |
@@ -4228,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3: Fortune | 24525 | [24525-dead-or-alive-xtreme-3-fortune.json](./24525-dead-or-alive-xtreme-3-fortune.json) |
 | Dead or Alive Xtreme 3: Fortune - VR Paradise | 26930 | [26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json](./26930-dead-or-alive-xtreme-3-fortune-vr-paradise.json) |
 | Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
+| Dead or Alive Xtreme 3: Scarlet | 112407 | [112407-dead-or-alive-xtreme-3-scarlet.json](./112407-dead-or-alive-xtreme-3-scarlet.json) |
 | Dead or Alive Xtreme 3: Scarlet - Collector's Edition | 136672 | [136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json](./136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json) |
 | Dead or Alive Xtreme 3: Venus | 24198 | [24198-dead-or-alive-xtreme-3-venus.json](./24198-dead-or-alive-xtreme-3-venus.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
@@ -4816,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Agent | 185739 | [185739-dear-agent.json](./185739-dear-agent.json) |
 | Dear Agony Aunt | 173073 | [173073-dear-agony-aunt.json](./173073-dear-agony-aunt.json) |
 | Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
+| Dear Apothecary | 112391 | [112391-dear-apothecary.json](./112391-dear-apothecary.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
 | Dear Boys | 44419 | [44419-dear-boys.json](./44419-dear-boys.json) |
 | Dear Boys: Fast Break! | 334860 | [334860-dear-boys-fast-break.json](./334860-dear-boys-fast-break.json) |
@@ -10175,6 +10178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story: Cyber Sleuth - Hacker's Memory | 27920 | [27920-digimon-story-cyber-sleuth-hackers-memory.json](./27920-digimon-story-cyber-sleuth-hackers-memory.json) |
 | Digimon Story: Cyber Sleuth - Hacker's Memory: Digimon 20th Anniversary Box | 167006 | [167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json](./167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
+| Digimon Story: Super Xros Wars Blue | 112400 | [112400-digimon-story-super-xros-wars-blue.json](./112400-digimon-story-super-xros-wars-blue.json) |
+| Digimon Story: Super Xros Wars Red | 112401 | [112401-digimon-story-super-xros-wars-red.json](./112401-digimon-story-super-xros-wars-red.json) |
 | Digimon Story: Time Stranger - Additional Digimon & Episode Pack 2: Gaku-Ran | 386646 | [386646-digimon-story-time-stranger-additional-digimon-and-episode-pack-2-gaku-ran.json](./386646-digimon-story-time-stranger-additional-digimon-and-episode-pack-2-gaku-ran.json) |
 | Digimon Story: Time Stranger - Costume Digimon Costume Set | 372277 | [372277-digimon-story-time-stranger-costume-digimon-costume-set.json](./372277-digimon-story-time-stranger-costume-digimon-costume-set.json) |
 | Digimon Story: Time Stranger - Costume Pack | 372276 | [372276-digimon-story-time-stranger-costume-pack.json](./372276-digimon-story-time-stranger-costume-pack.json) |
@@ -16194,6 +16199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Cooler | 144710 | [144710-dragon-ball-fighterz-cooler.json](./144710-dragon-ball-fighterz-cooler.json) |
 | Dragon Ball FighterZ: Daima Pack | 399111 | [399111-dragon-ball-fighterz-daima-pack.json](./399111-dragon-ball-fighterz-daima-pack.json) |
 | Dragon Ball FighterZ: Day One Edition | 121166 | [121166-dragon-ball-fighterz-day-one-edition.json](./121166-dragon-ball-fighterz-day-one-edition.json) |
+| Dragon Ball FighterZ: Deluxe Edition | 112411 | [112411-dragon-ball-fighterz-deluxe-edition.json](./112411-dragon-ball-fighterz-deluxe-edition.json) |
 | Dragon Ball FighterZ: Dio | 385628 | [385628-dragon-ball-fighterz-dio.json](./385628-dragon-ball-fighterz-dio.json) |
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
