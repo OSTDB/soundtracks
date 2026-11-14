@@ -14686,6 +14686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minit Man | 293669 | [293669-minit-man.json](./293669-minit-man.json) |
 | MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
 | MiniTank: Desert Strike | 336973 | [336973-minitank-desert-strike.json](./336973-minitank-desert-strike.json) |
+| Minitary Girls | 110407 | [110407-minitary-girls.json](./110407-minitary-girls.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Minitime | 99687 | [99687-minitime.json](./99687-minitime.json) |
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
@@ -16162,6 +16163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobility: A City in Motion | 73739 | [73739-mobility-a-city-in-motion.json](./73739-mobility-a-city-in-motion.json) |
 | Mobility! | 134789 | [134789-mobility.json](./134789-mobility.json) |
 | Mobilization | 250400 | [250400-mobilization.json](./250400-mobilization.json) |
+| Mobilmo | 109964 | [109964-mobilmo.json](./109964-mobilmo.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobius | 404583 | [404583-mobius.json](./404583-mobius.json) |
@@ -20181,6 +20183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Games | 234986 | [234986-mouse-games.json](./234986-mouse-games.json) |
+| Mouse Gang | 109963 | [109963-mouse-gang.json](./109963-mouse-gang.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse House | 66984 | [66984-mouse-house.json](./66984-mouse-house.json) |
 | Mouse Hunter | 152565 | [152565-mouse-hunter.json](./152565-mouse-hunter.json) |
@@ -20689,6 +20692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gomoku | 345165 | [345165-mr-gomoku.json](./345165-mr-gomoku.json) |
 | Mr. Goofer’s Mini Game Arcade Party! | 317151 | [317151-mr-goofer-s-mini-game-arcade-party.json](./317151-mr-goofer-s-mini-game-arcade-party.json) |
 | Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
+| Mr. Grayscale | 110441 | [110441-mr-grayscale.json](./110441-mr-grayscale.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
 | Mr. Grumpy | 125622 | [125622-mr-grumpy.json](./125622-mr-grumpy.json) |
 | Mr. Healer | 223271 | [223271-mr-healer.json](./223271-mr-healer.json) |
