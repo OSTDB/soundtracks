@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
+| Abnormal Treatment | 121105 | [121105-abnormal-treatment.json](./121105-abnormal-treatment.json) |
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
 | Abnormality | 316442 | [316442-abnormality.json](./316442-abnormality.json) |
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
@@ -6044,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim for the Top! Gunbuster | 57987 | [57987-aim-for-the-top-gunbuster.json](./57987-aim-for-the-top-gunbuster.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
+| Aim for the Win | 121059 | [121059-aim-for-the-win.json](./121059-aim-for-the-win.json) |
 | Aim for the Win: The Forge | 174507 | [174507-aim-for-the-win-the-forge.json](./174507-aim-for-the-win-the-forge.json) |
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
 | Aim Gods | 133724 | [133724-aim-gods.json](./133724-aim-gods.json) |
@@ -11425,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Village | 141261 | [141261-animal-village.json](./141261-animal-village.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
 | Animal Voyage: Island Adventure | 38901 | [38901-animal-voyage-island-adventure.json](./38901-animal-voyage-island-adventure.json) |
+| Animal war | 121100 | [121100-animal-war.json](./121100-animal-war.json) |
 | Animal Warfare | 355887 | [355887-animal-warfare.json](./355887-animal-warfare.json) |
 | Animal Warfare Battle Simulator | 127872 | [127872-animal-warfare-battle-simulator.json](./127872-animal-warfare-battle-simulator.json) |
 | Animal Wars | 270138 | [270138-animal-wars.json](./270138-animal-wars.json) |
@@ -19892,6 +19895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
 | Avaris3 | 271104 | [271104-avaris3.json](./271104-avaris3.json) |
 | Avaritia | 232635 | [232635-avaritia.json](./232635-avaritia.json) |
+| Avast Ye: Antventure be Calling | 121085 | [121085-avast-ye-antventure-be-calling.json](./121085-avast-ye-antventure-be-calling.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
 | Avatar | 228749 | [228749-avatar.json](./228749-avatar.json) |
