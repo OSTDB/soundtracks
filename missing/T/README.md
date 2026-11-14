@@ -636,6 +636,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko Web | 219123 | [219123-taiko-web.json](./219123-taiko-web.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
 | Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
+| Taikou Risshiden II | 123114 | [123114-taikou-risshiden-ii.json](./123114-taikou-risshiden-ii.json) |
+| Taikou Risshiden III | 123115 | [123115-taikou-risshiden-iii.json](./123115-taikou-risshiden-iii.json) |
 | Taikou Risshiden IV | 59364 | [59364-taikou-risshiden-iv.json](./59364-taikou-risshiden-iv.json) |
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
 | Taikou Risshiden V DX | 191519 | [191519-taikou-risshiden-v-dx.json](./191519-taikou-risshiden-v-dx.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Nordic Cove | 35544 | [35544-the-curse-of-nordic-cove.json](./35544-the-curse-of-nordic-cove.json) |
 | The Curse of Orion The Next Encounter | 305060 | [305060-the-curse-of-orion-the-next-encounter.json](./305060-the-curse-of-orion-the-next-encounter.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
+| The Curse of RA | 123665 | [123665-the-curse-of-ra.json](./123665-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
 | The Curse of Sherwood | 13538 | [13538-the-curse-of-sherwood.json](./13538-the-curse-of-sherwood.json) |
 | The Curse of Silent Marshes | 213327 | [213327-the-curse-of-silent-marshes.json](./213327-the-curse-of-silent-marshes.json) |
@@ -11436,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grindstone | 369169 | [369169-the-grindstone.json](./369169-the-grindstone.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
 | The Grip of Madness | 189810 | [189810-the-grip-of-madness.json](./189810-the-grip-of-madness.json) |
+| The Grisaia Trilogy | 123655 | [123655-the-grisaia-trilogy.json](./123655-the-grisaia-trilogy.json) |
 | The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Groom of Gallagher Mansion | 249060 | [249060-the-groom-of-gallagher-mansion.json](./249060-the-groom-of-gallagher-mansion.json) |
@@ -15483,6 +15487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
 | The Museum | 231807 | [231807-the-museum.json](./231807-the-museum.json) |
 | The Museum | 348961 | [348961-the-museum.json](./348961-the-museum.json) |
+| The Museum of Anything Goes | 123122 | [123122-the-museum-of-anything-goes.json](./123122-the-museum-of-anything-goes.json) |
 | The Museum of Hauntology | 339183 | [339183-the-museum-of-hauntology.json](./339183-the-museum-of-hauntology.json) |
 | The Museum of Mid 2000s Forum Signatures | 269050 | [269050-the-museum-of-mid-2000s-forum-signatures.json](./269050-the-museum-of-mid-2000s-forum-signatures.json) |
 | The Museum Of Mr. Pence | 377934 | [377934-the-museum-of-mr-pence.json](./377934-the-museum-of-mr-pence.json) |
@@ -27169,6 +27174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro-san no Daifugou | 125975 | [125975-tokoro-san-no-daifugou.json](./125975-tokoro-san-no-daifugou.json) |
 | Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
 | Tokoro-san no Mamoru mo Semeru mo | 48385 | [48385-tokoro-san-no-mamoru-mo-semeru-mo.json](./48385-tokoro-san-no-mamoru-mo-semeru-mo.json) |
+| Tokoro-san no Setagaya Country Club | 123135 | [123135-tokoro-san-no-setagaya-country-club.json](./123135-tokoro-san-no-setagaya-country-club.json) |
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | TokoToko | 124705 | [124705-tokotoko.json](./124705-tokotoko.json) |
@@ -36526,6 +36532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
 | Twilight's Last Gleaming | 106061 | [106061-twilights-last-gleaming.json](./106061-twilights-last-gleaming.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
+| TwilightStar: Heart of Eir | 123662 | [123662-twilightstar-heart-of-eir.json](./123662-twilightstar-heart-of-eir.json) |
 | TwilioQuest | 124416 | [124416-twilioquest.json](./124416-twilioquest.json) |
 | Twin | 310512 | [310512-twin.json](./310512-twin.json) |
 | Twin Balls | 160247 | [160247-twin-balls.json](./160247-twin-balls.json) |
