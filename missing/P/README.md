@@ -3926,6 +3926,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Building Simulator: Nzxt Workshop | 154682 | [154682-pc-building-simulator-nzxt-workshop.json](./154682-pc-building-simulator-nzxt-workshop.json) |
 | PC Building Simulator: Overclockers UK Workshop | 154686 | [154686-pc-building-simulator-overclockers-uk-workshop.json](./154686-pc-building-simulator-overclockers-uk-workshop.json) |
+| PC Building Simulator: Razer Workshop | 154680 | [154680-pc-building-simulator-razer-workshop.json](./154680-pc-building-simulator-razer-workshop.json) |
+| PC Building Simulator: Republic of Gamers Workshop | 154679 | [154679-pc-building-simulator-republic-of-gamers-workshop.json](./154679-pc-building-simulator-republic-of-gamers-workshop.json) |
 | PC Calciatori 2004 | 71304 | [71304-pc-calciatori-2004.json](./71304-pc-calciatori-2004.json) |
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
 | PC Calcio 7.0 | 298779 | [298779-pc-calcio-7-0.json](./298779-pc-calcio-7-0.json) |
@@ -7907,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineview Drive: Homeless | 116487 | [116487-pineview-drive-homeless.json](./116487-pineview-drive-homeless.json) |
 | Pineview Drive: Rising Storm | 234706 | [234706-pineview-drive-rising-storm.json](./234706-pineview-drive-rising-storm.json) |
 | Pinewater | 413782 | [413782-pinewater.json](./413782-pinewater.json) |
+| Pinewood Computer Core | 154627 | [154627-pinewood-computer-core.json](./154627-pinewood-computer-core.json) |
 | Pinewood Derby | 209961 | [209961-pinewood-derby.json](./209961-pinewood-derby.json) |
 | Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
 | Pinewood Valley | 239719 | [239719-pinewood-valley.json](./239719-pinewood-valley.json) |
