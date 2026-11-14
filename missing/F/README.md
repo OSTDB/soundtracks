@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falklands | 59313 | [59313-falklands.json](./59313-falklands.json) |
 | Falklands 82 | 14063 | [14063-falklands-82.json](./14063-falklands-82.json) |
 | Falklands 82 - "The Empire Strikes Back" | 93436 | [93436-falklands-82-the-empire-strikes-back.json](./93436-falklands-82-the-empire-strikes-back.json) |
+| Fall | 107969 | [107969-fall.json](./107969-fall.json) |
 | Fall | 292370 | [292370-fall.json](./292370-fall.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: Starfall | 59249 | [59249-faria-starfall.json](./59249-faria-starfall.json) |
 | Fariwalk: The Prelude | 74997 | [74997-fariwalk-the-prelude.json](./74997-fariwalk-the-prelude.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
+| Farjob | 107976 | [107976-farjob.json](./107976-farjob.json) |
 | FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
 | Farkeep | 171808 | [171808-farkeep.json](./171808-farkeep.json) |
@@ -9501,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Missions | 219313 | [219313-fly-missions.json](./219313-fly-missions.json) |
 | Fly O'Clock | 20400 | [20400-fly-oclock.json](./20400-fly-oclock.json) |
 | Fly O'Clock: VS Edition | 220928 | [220928-fly-oclock-vs-edition.json](./220928-fly-oclock-vs-edition.json) |
+| Fly of butterfly | 107944 | [107944-fly-of-butterfly.json](./107944-fly-of-butterfly.json) |
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
 | Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
@@ -12888,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Dragons | 117249 | [117249-free-the-dragons.json](./117249-free-the-dragons.json) |
 | Free the Fobbles! For Two | 219927 | [219927-free-the-fobbles-for-two.json](./219927-free-the-fobbles-for-two.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
+| Free Throw | 107948 | [107948-free-throw.json](./107948-free-throw.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
 | Free Time Puzzle | 422516 | [422516-free-time-puzzle.json](./422516-free-time-puzzle.json) |
 | Free to Fit | 351346 | [351346-free-to-fit.json](./351346-free-to-fit.json) |
