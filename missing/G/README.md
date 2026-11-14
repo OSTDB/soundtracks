@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Precursor Worlds DLC | 163380 | [163380-galactic-civilizations-iii-precursor-worlds-dlc.json](./163380-galactic-civilizations-iii-precursor-worlds-dlc.json) |
 | Galactic Civilizations III: Retribution | 113995 | [113995-galactic-civilizations-iii-retribution.json](./113995-galactic-civilizations-iii-retribution.json) |
 | Galactic Civilizations III: Retribution Expansion | 163379 | [163379-galactic-civilizations-iii-retribution-expansion.json](./163379-galactic-civilizations-iii-retribution-expansion.json) |
+| Galactic Civilizations III: Revenge of the Snathi | 155244 | [155244-galactic-civilizations-iii-revenge-of-the-snathi.json](./155244-galactic-civilizations-iii-revenge-of-the-snathi.json) |
 | Galactic Civilizations III: Revenge of the Snathi DLC | 163375 | [163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json](./163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations III: Rise of the Terrans DLC | 163370 | [163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json](./163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json) |
