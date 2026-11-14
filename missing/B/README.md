@@ -5121,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka: Rhythm Game | 413619 | [413619-bazooka-rhythm-game.json](./413619-bazooka-rhythm-game.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazookarrots | 301765 | [301765-bazookarrots.json](./301765-bazookarrots.json) |
+| Bazookrash | 134740 | [134740-bazookrash.json](./134740-bazookrash.json) |
 | BAZR | 340351 | [340351-bazr.json](./340351-bazr.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
@@ -17617,6 +17618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Rules Collection | 370829 | [370829-broken-rules-collection.json](./370829-broken-rules-collection.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
+| Broken Signal | 134759 | [134759-broken-signal.json](./134759-broken-signal.json) |
 | Broken Signal | 380040 | [380040-broken-signal.json](./380040-broken-signal.json) |
 | Broken Silence | 183151 | [183151-broken-silence.json](./183151-broken-silence.json) |
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
