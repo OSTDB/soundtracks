@@ -6291,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Quest VR : The Search for the Crown of Calculation | 339302 | [339302-math-quest-vr-the-search-for-the-crown-of-calculation.json](./339302-math-quest-vr-the-search-for-the-crown-of-calculation.json) |
 | Math Quiz | 287256 | [287256-math-quiz.json](./287256-math-quiz.json) |
+| Math Quiz Games - Best way to Learn and have Fun | 103696 | [103696-math-quiz-games-best-way-to-learn-and-have-fun.json](./103696-math-quiz-games-best-way-to-learn-and-have-fun.json) |
 | Math Rabbit: Deluxe! | 73669 | [73669-math-rabbit-deluxe.json](./73669-math-rabbit-deluxe.json) |
 | Math Race | 98722 | [98722-math-race.json](./98722-math-race.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
@@ -14069,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
+| Minesweeper 2 | 103704 | [103704-minesweeper-2.json](./103704-minesweeper-2.json) |
 | Minesweeper 2018 | 104319 | [104319-minesweeper-2018.json](./104319-minesweeper-2018.json) |
 | Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
 | Minesweeper 3D | 391924 | [391924-minesweeper-3d.json](./391924-minesweeper-3d.json) |
