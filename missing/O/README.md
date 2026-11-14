@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.M.N.I.S.: Overnight Train | 357346 | [357346-o-m-n-i-s-overnight-train.json](./357346-o-m-n-i-s-overnight-train.json) |
 | O.M.S | 128053 | [128053-o-m-s.json](./128053-o-m-s.json) |
 | O.R.B. Offensive Rolling Bot | 140353 | [140353-o-r-b-offensive-rolling-bot.json](./140353-o-r-b-offensive-rolling-bot.json) |
+| O.R.I.G.I.N | 119118 | [119118-o-r-i-g-i-n.json](./119118-o-r-i-g-i-n.json) |
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O.To.I.Re: Dreamcast Sequencer | 283303 | [283303-o-to-i-re-dreamcast-sequencer.json](./283303-o-to-i-re-dreamcast-sequencer.json) |
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
 | Oddworld Soulstorm: Limited Oddition | 210461 | [210461-oddworld-soulstorm-limited-oddition.json](./210461-oddworld-soulstorm-limited-oddition.json) |
+| Oddworld: Abe Boxx | 118466 | [118466-oddworld-abe-boxx.json](./118466-oddworld-abe-boxx.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Abe's Exoddus | 306055 | [306055-oddworld-abes-exoddus.json](./306055-oddworld-abes-exoddus.json) |
 | Oddworld: Abe's Oddysee | 351909 | [351909-oddworld-abes-oddysee.json](./351909-oddworld-abes-oddysee.json) |
@@ -5268,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Dark Heart | 258376 | [258376-our-dark-heart.json](./258376-our-dark-heart.json) |
 | Our Darker Purpose | 16830 | [16830-our-darker-purpose.json](./16830-our-darker-purpose.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
+| Our Dear Kingdom | 118474 | [118474-our-dear-kingdom.json](./118474-our-dear-kingdom.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
 | Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
 | Our Dreadling | 372960 | [372960-our-dreadling.json](./372960-our-dreadling.json) |
