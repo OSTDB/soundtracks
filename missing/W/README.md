@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waluigi's Wadventure | 269772 | [269772-waluigis-wadventure.json](./269772-waluigis-wadventure.json) |
 | Wampee Helicopters | 117714 | [117714-wampee-helicopters.json](./117714-wampee-helicopters.json) |
 | Wampir Dungeon | 215317 | [215317-wampir-dungeon.json](./215317-wampir-dungeon.json) |
+| Wampus | 134718 | [134718-wampus.json](./134718-wampus.json) |
 | Wamu Wamu | 132020 | [132020-wamu-wamu.json](./132020-wamu-wamu.json) |
 | Wamu Wamu 2 | 129430 | [129430-wamu-wamu-2.json](./129430-wamu-wamu-2.json) |
 | Wan Chai Connection | 62134 | [62134-wan-chai-connection.json](./62134-wan-chai-connection.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whipseey and the Lost Atlas | 117311 | [117311-whipseey-and-the-lost-atlas.json](./117311-whipseey-and-the-lost-atlas.json) |
 | Whirl Tour | 4233 | [4233-whirl-tour.json](./4233-whirl-tour.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
+| Whirlibird | 134733 | [134733-whirlibird.json](./134733-whirlibird.json) |
 | Whirlight: No Time To Trip | 287707 | [287707-whirlight-no-time-to-trip.json](./287707-whirlight-no-time-to-trip.json) |
 | Whirligig | 12931 | [12931-whirligig.json](./12931-whirligig.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
@@ -6770,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterland Solitaire 2 | 386132 | [386132-winterland-solitaire-2.json](./386132-winterland-solitaire-2.json) |
 | Winterland Solitaire 3 | 415966 | [415966-winterland-solitaire-3.json](./415966-winterland-solitaire-3.json) |
 | Winterlight: Where Silence Says It All | 369529 | [369529-winterlight-where-silence-says-it-all.json](./369529-winterlight-where-silence-says-it-all.json) |
+| Winterlore I | 134730 | [134730-winterlore-i.json](./134730-winterlore-i.json) |
 | Winterlore II | 174284 | [174284-winterlore-ii.json](./174284-winterlore-ii.json) |
 | Wintermoor Tactics Club | 107436 | [107436-wintermoor-tactics-club.json](./107436-wintermoor-tactics-club.json) |
 | Winterpack 2005-2006 | 271438 | [271438-winterpack-2005-2006.json](./271438-winterpack-2005-2006.json) |
@@ -6927,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishful Journey: Love Across Time | 291185 | [291185-wishful-journey-love-across-time.json](./291185-wishful-journey-love-across-time.json) |
 | Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
 | Wishful Thinking | 313822 | [313822-wishful-thinking.json](./313822-wishful-thinking.json) |
+| Wishing Sarah | 134707 | [134707-wishing-sarah.json](./134707-wishing-sarah.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
 | Wishing Well Simulator | 415812 | [415812-wishing-well-simulator.json](./415812-wishing-well-simulator.json) |
@@ -9803,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten | 107584 | [107584-woten.json](./107584-woten.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
+| Woter-a tale of two water cans | 134754 | [134754-woter-a-tale-of-two-water-cans.json](./134754-woter-a-tale-of-two-water-cans.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
 | Would You Call Him a Bad Man? | 337932 | [337932-would-you-call-him-a-bad-man.json](./337932-would-you-call-him-a-bad-man.json) |
 | Would You Help Me Draw a Picture? | 376959 | [376959-would-you-help-me-draw-a-picture.json](./376959-would-you-help-me-draw-a-picture.json) |
