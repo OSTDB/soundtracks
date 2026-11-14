@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
+| Wargamer's Choice: Strategy Six Pack | 138316 | [138316-wargamers-choice-strategy-six-pack.json](./138316-wargamers-choice-strategy-six-pack.json) |
 | WarGames | 205922 | [205922-wargames.json](./205922-wargames.json) |
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Wars | 123196 | [123196-water-wars.json](./123196-water-wars.json) |
 | Water We Doing? | 406626 | [406626-water-we-doing.json](./406626-water-we-doing.json) |
 | Water Wheel | 249401 | [249401-water-wheel.json](./249401-water-wheel.json) |
+| Water Womb World | 138844 | [138844-water-womb-world.json](./138844-water-womb-world.json) |
 | Water You Doing? | 406878 | [406878-water-you-doing.json](./406878-water-you-doing.json) |
 | Water Zero | 427812 | [427812-water-zero.json](./427812-water-zero.json) |
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
@@ -8104,6 +8106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woods of Disturbance | 221040 | [221040-woods-of-disturbance.json](./221040-woods-of-disturbance.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woods: David's Story | 171715 | [171715-woods-davids-story.json](./171715-woods-davids-story.json) |
+| Woodsalt | 138889 | [138889-woodsalt.json](./138889-woodsalt.json) |
 | Woodside | 271893 | [271893-woodside.json](./271893-woodside.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
 | Woodstock 1969 | 96474 | [96474-woodstock-1969.json](./96474-woodstock-1969.json) |
@@ -8963,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Empires 2 | 176619 | [176619-world-of-empires-2.json](./176619-world-of-empires-2.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Epicia | 195627 | [195627-world-of-epicia.json](./195627-world-of-epicia.json) |
+| World of Fantasy | 138322 | [138322-world-of-fantasy.json](./138322-world-of-fantasy.json) |
 | World of Fantasy: Zero | 155366 | [155366-world-of-fantasy-zero.json](./155366-world-of-fantasy-zero.json) |
 | World of Farming | 205849 | [205849-world-of-farming.json](./205849-world-of-farming.json) |
 | World of Fate | 235437 | [235437-world-of-fate.json](./235437-world-of-fate.json) |
