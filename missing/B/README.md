@@ -19060,6 +19060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Monday Black | 142912 | [142912-bullet-hell-monday-black.json](./142912-bullet-hell-monday-black.json) |
 | Bullet Hell Monday Finale | 142915 | [142915-bullet-hell-monday-finale.json](./142915-bullet-hell-monday-finale.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
+| Bullet League | 123121 | [123121-bullet-league.json](./123121-bullet-league.json) |
 | Bullet Life 2010 | 32641 | [32641-bullet-life-2010.json](./32641-bullet-life-2010.json) |
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
