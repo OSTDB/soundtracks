@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
 | Salad Bar Tycoon: Premium Edition | 238107 | [238107-salad-bar-tycoon-premium-edition.json](./238107-salad-bar-tycoon-premium-edition.json) |
 | Salad Fields | 122820 | [122820-salad-fields.json](./122820-salad-fields.json) |
+| Salad Hunt | 105454 | [105454-salad-hunt.json](./105454-salad-hunt.json) |
 | Salagander | 181222 | [181222-salagander.json](./181222-salagander.json) |
 | Salamander | 1477 | [1477-salamander.json](./1477-salamander.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
@@ -1833,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy and the "Jewelry" | 421815 | [421815-sandy-and-the-jewelry.json](./421815-sandy-and-the-jewelry.json) |
 | Sandy at the Telephone Company | 229980 | [229980-sandy-at-the-telephone-company.json](./229980-sandy-at-the-telephone-company.json) |
 | Sandy Beach | 85366 | [85366-sandy-beach.json](./85366-sandy-beach.json) |
+| Sandy Path | 105589 | [105589-sandy-path.json](./105589-sandy-path.json) |
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
 | Sandy's Surf Adventure | 245703 | [245703-sandys-surf-adventure.json](./245703-sandys-surf-adventure.json) |
@@ -22487,6 +22489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Warrior | 310126 | [310126-space-warrior.json](./310126-space-warrior.json) |
 | Space Warrior | 359208 | [359208-space-warrior.json](./359208-space-warrior.json) |
 | Space Warrior: The Origin | 58149 | [58149-space-warrior-the-origin.json](./58149-space-warrior-the-origin.json) |
+| Space Wars | 105580 | [105580-space-wars.json](./105580-space-wars.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
 | Space Wars | 19372 | [19372-space-wars.json](./19372-space-wars.json) |
@@ -27681,6 +27684,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrop | 302398 | [302398-stardrop.json](./302398-stardrop.json) |
 | Stardrop | 30634 | [30634-stardrop.json](./30634-stardrop.json) |
+| Stardrop Blaster | 105450 | [105450-stardrop-blaster.json](./105450-stardrop-blaster.json) |
+| Stardrop Sprint | 105451 | [105451-stardrop-sprint.json](./105451-stardrop-sprint.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
 | StarDunk | 232619 | [232619-stardunk.json](./232619-stardunk.json) |
@@ -27739,6 +27744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfend | 268962 | [268962-starfend.json](./268962-starfend.json) |
 | Starfield Battlegrounds | 352468 | [352468-starfield-battlegrounds.json](./352468-starfield-battlegrounds.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
+| Starfield Wars | 104915 | [104915-starfield-wars.json](./104915-starfield-wars.json) |
 | Starfield: Constellation Edition | 254216 | [254216-starfield-constellation-edition.json](./254216-starfield-constellation-edition.json) |
 | Starfield: Premium Edition | 254215 | [254215-starfield-premium-edition.json](./254215-starfield-premium-edition.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
@@ -31838,6 +31844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle | 123799 | [123799-struggle.json](./123799-struggle.json) |
 | Struggle F.O | 276603 | [276603-struggle-f-o.json](./276603-struggle-f-o.json) |
+| Struggle For Light | 104904 | [104904-struggle-for-light.json](./104904-struggle-for-light.json) |
 | Struggle For Survival VR | 98757 | [98757-struggle-for-survival-vr.json](./98757-struggle-for-survival-vr.json) |
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
@@ -34561,6 +34568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
 | Super Glow Puzzle | 145711 | [145711-super-glow-puzzle.json](./145711-super-glow-puzzle.json) |
 | Super Glyph Quest | 60731 | [60731-super-glyph-quest.json](./60731-super-glyph-quest.json) |
+| Super GMA | 105584 | [105584-super-gma.json](./105584-super-gma.json) |
 | Super Go-Kart Racing | 264417 | [264417-super-go-kart-racing.json](./264417-super-go-kart-racing.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Goal! 2 | 38419 | [38419-super-goal-2.json](./38419-super-goal-2.json) |
