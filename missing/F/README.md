@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Manager | 394602 | [394602-farm-manager.json](./394602-farm-manager.json) |
 | Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
 | Farm Manager 2018: Brewing & Winemaking DLC | 164652 | [164652-farm-manager-2018-brewing-and-winemaking-dlc.json](./164652-farm-manager-2018-brewing-and-winemaking-dlc.json) |
+| Farm Manager 2020 | 127430 | [127430-farm-manager-2020.json](./127430-farm-manager-2020.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Agrotourism | 187436 | [187436-farm-manager-2021-agrotourism.json](./187436-farm-manager-2021-agrotourism.json) |
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
@@ -7534,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Boxing: Touken Ranbu - Shutsujin! Exercise Honmaru | 417191 | [417191-fit-boxing-touken-ranbu-shutsujin-exercise-honmaru.json](./417191-fit-boxing-touken-ranbu-shutsujin-exercise-honmaru.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
+| FIT Food | 126695 | [126695-fit-food.json](./126695-fit-food.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit Happens | 407485 | [407485-fit-happens.json](./407485-fit-happens.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
@@ -13397,6 +13399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frig | 260916 | [260916-frig.json](./260916-frig.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
+| Fright | 127410 | [127410-fright.json](./127410-fright.json) |
 | Fright Animatronics | 391129 | [391129-fright-animatronics.json](./391129-fright-animatronics.json) |
 | Fright Animatronics 2 | 266459 | [266459-fright-animatronics-2.json](./266459-fright-animatronics-2.json) |
 | Fright Chasers: Dark Exposure | 106704 | [106704-fright-chasers-dark-exposure.json](./106704-fright-chasers-dark-exposure.json) |
