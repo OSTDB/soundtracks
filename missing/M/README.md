@@ -8669,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
+| Mega Man Star Force DX | 150232 | [150232-mega-man-star-force-dx.json](./150232-mega-man-star-force-dx.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Star Force: Legacy Collection | 366898 | [366898-mega-man-star-force-legacy-collection.json](./366898-mega-man-star-force-legacy-collection.json) |
 | Mega Man Star Force: Leo | 1782 | [1782-mega-man-star-force-leo.json](./1782-mega-man-star-force-leo.json) |
@@ -17657,6 +17658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Looter | 101756 | [101756-monster-looter.json](./101756-monster-looter.json) |
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Love | 101844 | [101844-monster-love.json](./101844-monster-love.json) |
+| Monster Love Party | 150209 | [150209-monster-love-party.json](./150209-monster-love-party.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
 | Monster Lover: Balasque | 247708 | [247708-monster-lover-balasque.json](./247708-monster-lover-balasque.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
