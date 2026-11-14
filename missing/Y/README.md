@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | Yours Truly | 364624 | [364624-yours-truly.json](./364624-yours-truly.json) |
 | Yourself!Fitness | 5029 | [5029-yourself-fitness.json](./5029-yourself-fitness.json) |
+| yourSudoku | 94797 | [94797-yoursudoku.json](./94797-yoursudoku.json) |
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
 | Yousei | 62968 | [62968-yousei.json](./62968-yousei.json) |
 | Yousei Daisensou: Touhou Sangetsusei | 27172 | [27172-yousei-daisensou-touhou-sangetsusei.json](./27172-yousei-daisensou-touhou-sangetsusei.json) |
