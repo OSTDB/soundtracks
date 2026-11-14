@@ -6457,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Engage - Expansion Pass: Wave 3 | 236701 | [236701-fire-emblem-engage-expansion-pass-wave-3.json](./236701-fire-emblem-engage-expansion-pass-wave-3.json) |
 | Fire Emblem: Engage - Expansion Pass: Wave 4 | 236702 | [236702-fire-emblem-engage-expansion-pass-wave-4.json](./236702-fire-emblem-engage-expansion-pass-wave-4.json) |
 | Fire Emblem: Engage Expansion Pass | 236704 | [236704-fire-emblem-engage-expansion-pass.json](./236704-fire-emblem-engage-expansion-pass.json) |
+| Fire Emblem: Fallen King | 140094 | [140094-fire-emblem-fallen-king.json](./140094-fire-emblem-fallen-king.json) |
 | Fire Emblem: Fortune's Weave | 366896 | [366896-fire-emblem-fortunes-weave.json](./366896-fire-emblem-fortunes-weave.json) |
 | Fire Emblem: Fortune's Weave - Dagdan Collection | 407117 | [407117-fire-emblem-fortunes-weave-dagdan-collection.json](./407117-fire-emblem-fortunes-weave-dagdan-collection.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
