@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 6th style | 72915 | [72915-beatmania-iidx-6th-style.json](./72915-beatmania-iidx-6th-style.json) |
 | Beatmania IIDX 7th style | 72914 | [72914-beatmania-iidx-7th-style.json](./72914-beatmania-iidx-7th-style.json) |
 | Beatmania IIDX 8th style | 94024 | [94024-beatmania-iidx-8th-style.json](./94024-beatmania-iidx-8th-style.json) |
+| Beatmania IIDX 9th style | 81505 | [81505-beatmania-iidx-9th-style.json](./81505-beatmania-iidx-9th-style.json) |
 | Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
 | Beatmania IIDX Infinitas | 143204 | [143204-beatmania-iidx-infinitas.json](./143204-beatmania-iidx-infinitas.json) |
 | Beatmania IIDX Infinitas | 80106 | [80106-beatmania-iidx-infinitas.json](./80106-beatmania-iidx-infinitas.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda Survivor | 333278 | [333278-bermuda-survivor.json](./333278-bermuda-survivor.json) |
 | Bermuda Syndrome | 8337 | [8337-bermuda-syndrome.json](./8337-bermuda-syndrome.json) |
 | Bermuda Triangle | 22557 | [22557-bermuda-triangle.json](./22557-bermuda-triangle.json) |
+| Bermuda Triangle | 81493 | [81493-bermuda-triangle.json](./81493-bermuda-triangle.json) |
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
@@ -7822,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Service | 345180 | [345180-beyond-service.json](./345180-beyond-service.json) |
+| Beyond Shadowgate | 81492 | [81492-beyond-shadowgate.json](./81492-beyond-shadowgate.json) |
 | Beyond Shadowgate | 8698 | [8698-beyond-shadowgate.json](./8698-beyond-shadowgate.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
@@ -8375,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big League Soccer | 13394 | [13394-big-league-soccer.json](./13394-big-league-soccer.json) |
 | Big League Soccer II | 13395 | [13395-big-league-soccer-ii.json](./13395-big-league-soccer-ii.json) |
 | Big League Sports | 20223 | [20223-big-league-sports.json](./20223-big-league-sports.json) |
+| Big League Sports | 81510 | [81510-big-league-sports.json](./81510-big-league-sports.json) |
 | Big League Sports: Summer | 50926 | [50926-big-league-sports-summer.json](./50926-big-league-sports-summer.json) |
 | Big Loot | 345048 | [345048-big-loot.json](./345048-big-loot.json) |
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
