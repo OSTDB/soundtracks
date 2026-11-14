@@ -4394,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
 | Mario Kart Wii: Awesome Edition | 313085 | [313085-mario-kart-wii-awesome-edition.json](./313085-mario-kart-wii-awesome-edition.json) |
+| Mario Kart Wii: CTGP Revolution | 145732 | [145732-mario-kart-wii-ctgp-revolution.json](./145732-mario-kart-wii-ctgp-revolution.json) |
 | Mario Kart World | 338067 | [338067-mario-kart-world.json](./338067-mario-kart-world.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart Zero | 231822 | [231822-mario-kart-zero.json](./231822-mario-kart-zero.json) |
@@ -5935,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterType | 315412 | [315412-mastertype.json](./315412-mastertype.json) |
 | MasterWorks: Journey Through History | 281263 | [281263-masterworks-journey-through-history.json](./281263-masterworks-journey-through-history.json) |
 | Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
+| Mastho is Together | 145741 | [145741-mastho-is-together.json](./145741-mastho-is-together.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
 | Masturbrowse | 394684 | [394684-masturbrowse.json](./394684-masturbrowse.json) |
 | Masuku | 406740 | [406740-masuku.json](./406740-masuku.json) |
@@ -22982,6 +22984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Helper: Spring Cleaning | 146117 | [146117-my-little-helper-spring-cleaning.json](./146117-my-little-helper-spring-cleaning.json) |
 | My Little Icecream Booth | 146747 | [146747-my-little-icecream-booth.json](./146747-my-little-icecream-booth.json) |
 | My Little Idol | 218850 | [218850-my-little-idol.json](./218850-my-little-idol.json) |
+| My Little Investigations | 145715 | [145715-my-little-investigations.json](./145715-my-little-investigations.json) |
 | My Little Jellymon | 208161 | [208161-my-little-jellymon.json](./208161-my-little-jellymon.json) |
 | My Little Karaoke: Singing is Magic | 266924 | [266924-my-little-karaoke-singing-is-magic.json](./266924-my-little-karaoke-singing-is-magic.json) |
 | My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
@@ -24105,6 +24108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
 | Mystery of the Capsmith | 300212 | [300212-mystery-of-the-capsmith.json](./300212-mystery-of-the-capsmith.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
+| Mystery of the Crystal Portal 2 | 145111 | [145111-mystery-of-the-crystal-portal-2.json](./145111-mystery-of-the-crystal-portal-2.json) |
 | Mystery of the Dark Jewels | 54243 | [54243-mystery-of-the-dark-jewels.json](./54243-mystery-of-the-dark-jewels.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
 | Mystery of the Lunar Archipelago | 25292 | [25292-mystery-of-the-lunar-archipelago.json](./25292-mystery-of-the-lunar-archipelago.json) |
