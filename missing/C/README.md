@@ -5516,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Story's Secret Santa | 185317 | [185317-cave-storys-secret-santa.json](./185317-cave-storys-secret-santa.json) |
 | Cave Story+ | 8214 | [8214-cave-story.json](./8214-cave-story.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
+| Cave to Kingdom | 127400 | [127400-cave-to-kingdom.json](./127400-cave-to-kingdom.json) |
 | Cave Traveler | 212531 | [212531-cave-traveler.json](./212531-cave-traveler.json) |
 | Cave Up | 334848 | [334848-cave-up.json](./334848-cave-up.json) |
 | Cave VR | 202444 | [202444-cave-vr.json](./202444-cave-vr.json) |
@@ -6282,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Towards Heaven | 322433 | [322433-chained-towards-heaven.json](./322433-chained-towards-heaven.json) |
 | Chained Up Together | 335967 | [335967-chained-up-together.json](./335967-chained-up-together.json) |
 | Chained Wheels | 386507 | [386507-chained-wheels.json](./386507-chained-wheels.json) |
+| Chained: A Victorian Nightmare | 127392 | [127392-chained-a-victorian-nightmare.json](./127392-chained-a-victorian-nightmare.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
 | Chainitaire | 185332 | [185332-chainitaire.json](./185332-chainitaire.json) |
@@ -8585,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Chef | 157862 | [157862-choco-chef.json](./157862-choco-chef.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
+| Choco Pixel | 127415 | [127415-choco-pixel.json](./127415-choco-pixel.json) |
 | Choco Pixel 2 | 129452 | [129452-choco-pixel-2.json](./129452-choco-pixel-2.json) |
 | Choco Pixel 3 | 151366 | [151366-choco-pixel-3.json](./151366-choco-pixel-3.json) |
 | Choco Pixel 4 | 157448 | [157448-choco-pixel-4.json](./157448-choco-pixel-4.json) |
@@ -16977,6 +16980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
 | Cosmo Solitaire 4: Edge of the Galaxy | 421790 | [421790-cosmo-solitaire-4-edge-of-the-galaxy.json](./421790-cosmo-solitaire-4-edge-of-the-galaxy.json) |
+| Cosmo story | 126696 | [126696-cosmo-story.json](./126696-cosmo-story.json) |
 | Cosmo Strike: Complete Edition | 389184 | [389184-cosmo-strike-complete-edition.json](./389184-cosmo-strike-complete-edition.json) |
 | Cosmo Tales | 362053 | [362053-cosmo-tales.json](./362053-cosmo-tales.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
@@ -18266,6 +18270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash-Course Domo | 68061 | [68061-crash-course-domo.json](./68061-crash-course-domo.json) |
 | Crash-Land Fantasy | 309481 | [309481-crash-land-fantasy.json](./309481-crash-land-fantasy.json) |
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
+| Crash: Autodrive | 127391 | [127391-crash-autodrive.json](./127391-crash-autodrive.json) |
 | Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
 | Crash! Powertape July '91 | 94463 | [94463-crash-powertape-july-91.json](./94463-crash-powertape-july-91.json) |
@@ -19786,6 +19791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
 | Cross Board Soccer | 154278 | [154278-cross-board-soccer.json](./154278-cross-board-soccer.json) |
 | Cross Bomber | 311956 | [311956-cross-bomber.json](./311956-cross-bomber.json) |
+| Cross Border VR | 126697 | [126697-cross-border-vr.json](./126697-cross-border-vr.json) |
 | Cross Brawl | 311158 | [311158-cross-brawl.json](./311158-cross-brawl.json) |
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
@@ -20695,6 +20701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Unicorns | 202053 | [202053-crypto-unicorns.json](./202053-crypto-unicorns.json) |
 | Crypto-Fascist | 364561 | [364561-crypto-fascist.json](./364561-crypto-fascist.json) |
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
+| Crypto: Against All Odds | 127403 | [127403-crypto-against-all-odds.json](./127403-crypto-against-all-odds.json) |
 | Cryptobiosis | 378257 | [378257-cryptobiosis.json](./378257-cryptobiosis.json) |
 | Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
 | CryptoCannoneer | 165128 | [165128-cryptocannoneer.json](./165128-cryptocannoneer.json) |
