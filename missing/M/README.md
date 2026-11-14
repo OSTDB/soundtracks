@@ -16638,6 +16638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molly Maggot | 84603 | [84603-molly-maggot.json](./84603-molly-maggot.json) |
 | Molly Medusa: Queen of Spit | 244046 | [244046-molly-medusa-queen-of-spit.json](./244046-molly-medusa-queen-of-spit.json) |
 | Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
+| Molly: Can You Survive 100 Nights? | 117211 | [117211-molly-can-you-survive-100-nights.json](./117211-molly-can-you-survive-100-nights.json) |
 | Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
 | Molly: The Near Mint Hero | 385355 | [385355-molly-the-near-mint-hero.json](./385355-molly-the-near-mint-hero.json) |
 | Mollycoddle Mayhem | 149318 | [149318-mollycoddle-mayhem.json](./149318-mollycoddle-mayhem.json) |
@@ -21625,6 +21626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Champion: Kinnikutou Kessen | 4022 | [4022-muscle-champion-kinnikutou-kessen.json](./4022-muscle-champion-kinnikutou-kessen.json) |
 | Muscle Giants | 236059 | [236059-muscle-giants.json](./236059-muscle-giants.json) |
 | Muscle Girl Lisa: Training Diary | 310063 | [310063-muscle-girl-lisa-training-diary.json](./310063-muscle-girl-lisa-training-diary.json) |
+| Muscle Magic | 117209 | [117209-muscle-magic.json](./117209-muscle-magic.json) |
 | Muscle March | 15914 | [15914-muscle-march.json](./15914-muscle-march.json) |
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
@@ -24310,6 +24312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
 | Mystery Trackers: Winterpoint Tragedy | 57723 | [57723-mystery-trackers-winterpoint-tragedy.json](./57723-mystery-trackers-winterpoint-tragedy.json) |
+| Mystery Trackers: Winterpoint Tragedy - Collector's Edition | 117185 | [117185-mystery-trackers-winterpoint-tragedy-collectors-edition.json](./117185-mystery-trackers-winterpoint-tragedy-collectors-edition.json) |
 | Mystery Trails | 217073 | [217073-mystery-trails.json](./217073-mystery-trails.json) |
 | Mystery USA! - Fun Seek and Find Hidden Object Puzzles | 101391 | [101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json](./101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json) |
 | Mystery Valley | 228240 | [228240-mystery-valley.json](./228240-mystery-valley.json) |
