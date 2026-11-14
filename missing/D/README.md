@@ -12426,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy 3 and a Half: Into Magicland | 45239 | [45239-dizzy-3-and-a-half-into-magicland.json](./45239-dizzy-3-and-a-half-into-magicland.json) |
 | Dizzy Ball | 26206 | [26206-dizzy-ball.json](./26206-dizzy-ball.json) |
+| Dizzy Bee | 92723 | [92723-dizzy-bee.json](./92723-dizzy-bee.json) |
 | Dizzy Bee 2 | 182333 | [182333-dizzy-bee-2.json](./182333-dizzy-bee-2.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
@@ -13209,6 +13210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogsbody | 13600 | [13600-dogsbody.json](./13600-dogsbody.json) |
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
+| DogTag | 92712 | [92712-dogtag.json](./92712-dogtag.json) |
 | Dogtown Barkery | 115756 | [115756-dogtown-barkery.json](./115756-dogtown-barkery.json) |
 | Dogu the Adventurer | 253457 | [253457-dogu-the-adventurer.json](./253457-dogu-the-adventurer.json) |
 | Doguria | 98298 | [98298-doguria.json](./98298-doguria.json) |
@@ -19095,6 +19097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
 | DrumMania 2ndMix | 418657 | [418657-drummania-2ndmix.json](./418657-drummania-2ndmix.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
+| DrumMania v4 | 92704 | [92704-drummania-v4.json](./92704-drummania-v4.json) |
 | DrumMania V8 | 60432 | [60432-drummania-v8.json](./60432-drummania-v8.json) |
 | DrumMasterVR | 120035 | [120035-drummastervr.json](./120035-drummastervr.json) |
 | Drummer Talent VR | 29128 | [29128-drummer-talent-vr.json](./29128-drummer-talent-vr.json) |
@@ -21468,6 +21471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
 | Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
+| Dynamite's Action News: OK K.O.! | 92198 | [92198-dynamites-action-news-ok-k-o.json](./92198-dynamites-action-news-ok-k-o.json) |
 | Dynamix | 14045 | [14045-dynamix.json](./14045-dynamix.json) |
 | Dynamix | 56355 | [56355-dynamix.json](./56355-dynamix.json) |
 | DynamixVR: D.R.I.L.L | 98633 | [98633-dynamixvr-d-r-i-l-l.json](./98633-dynamixvr-d-r-i-l-l.json) |
