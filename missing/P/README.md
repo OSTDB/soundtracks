@@ -6228,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phobos | 414061 | [414061-phobos.json](./414061-phobos.json) |
+| Phobos | 80038 | [80038-phobos.json](./80038-phobos.json) |
 | Phobos Dere.GB | 260851 | [260851-phobos-dere-gb.json](./260851-phobos-dere-gb.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Massacre | 268424 | [268424-phobos-massacre.json](./268424-phobos-massacre.json) |
@@ -10673,6 +10674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Chess | 416205 | [416205-platform-chess.json](./416205-platform-chess.json) |
 | Platform Control | 315346 | [315346-platform-control.json](./315346-platform-control.json) |
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
+| Platform Golf | 79997 | [79997-platform-golf.json](./79997-platform-golf.json) |
 | Platform Golf | 81936 | [81936-platform-golf.json](./81936-platform-golf.json) |
 | Platform Gun | 262728 | [262728-platform-gun.json](./262728-platform-gun.json) |
 | Platform Hell | 363108 | [363108-platform-hell.json](./363108-platform-hell.json) |
@@ -17460,6 +17462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project D | 219958 | [219958-project-d.json](./219958-project-d.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
+| Project D Online | 80043 | [80043-project-d-online.json](./80043-project-d-online.json) |
 | Project D: Human Risen | 126632 | [126632-project-d-human-risen.json](./126632-project-d-human-risen.json) |
 | Project Dagger | 195993 | [195993-project-dagger.json](./195993-project-dagger.json) |
 | Project Dar | 350937 | [350937-project-dar.json](./350937-project-dar.json) |
