@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
+| Railroad Tracks | 104927 | [104927-railroad-tracks.json](./104927-railroad-tracks.json) |
 | Railroad Tycoon | 350134 | [350134-railroad-tycoon.json](./350134-railroad-tycoon.json) |
 | Railroad Tycoon 2: Platinum Edition | 124961 | [124961-railroad-tycoon-2-platinum-edition.json](./124961-railroad-tycoon-2-platinum-edition.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
@@ -9010,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Hide and Seek HD | 104215 | [104215-rite-of-passage-hide-and-seek-hd.json](./104215-rite-of-passage-hide-and-seek-hd.json) |
 | Rite of Passage: Sword of Fury | 105487 | [105487-rite-of-passage-sword-of-fury.json](./105487-rite-of-passage-sword-of-fury.json) |
 | Rite of Passage: The Lost Tides | 140151 | [140151-rite-of-passage-the-lost-tides.json](./140151-rite-of-passage-the-lost-tides.json) |
+| Rite of Passage: The Lost Tides - Collector's Edition | 104925 | [104925-rite-of-passage-the-lost-tides-collectors-edition.json](./104925-rite-of-passage-the-lost-tides-collectors-edition.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Passage: The Perfect Show | 140152 | [140152-rite-of-passage-the-perfect-show.json](./140152-rite-of-passage-the-perfect-show.json) |
 | Rite of Passage: The Perfect Show - Collector's Edition | 30628 | [30628-rite-of-passage-the-perfect-show-collectors-edition.json](./30628-rite-of-passage-the-perfect-show-collectors-edition.json) |
