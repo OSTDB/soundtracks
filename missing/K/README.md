@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
 | Kwah! | 36685 | [36685-kwah.json](./36685-kwah.json) |
+| Kwaidan: Azuma Manor Story | 102426 | [102426-kwaidan-azuma-manor-story.json](./102426-kwaidan-azuma-manor-story.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwari | 21544 | [21544-kwari.json](./21544-kwari.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
