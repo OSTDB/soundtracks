@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Strike | 237744 | [237744-galactic-strike.json](./237744-galactic-strike.json) |
 | Galactic Striker | 329174 | [329174-galactic-striker.json](./329174-galactic-striker.json) |
+| Galactic Tanks | 90273 | [90273-galactic-tanks.json](./90273-galactic-tanks.json) |
 | Galactic Taz Ball | 23643 | [23643-galactic-taz-ball.json](./23643-galactic-taz-ball.json) |
 | Galactic Thunderdome | 211536 | [211536-galactic-thunderdome.json](./211536-galactic-thunderdome.json) |
 | Galactic Tower Defense | 114096 | [114096-galactic-tower-defense.json](./114096-galactic-tower-defense.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Highways | 167364 | [167364-galaxy-highways.json](./167364-galaxy-highways.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
+| Galaxy Hotel | 89991 | [89991-galaxy-hotel.json](./89991-galaxy-hotel.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
 | Galaxy Idle Clicker | 311697 | [311697-galaxy-idle-clicker.json](./311697-galaxy-idle-clicker.json) |
 | Galaxy II | 305455 | [305455-galaxy-ii.json](./305455-galaxy-ii.json) |
@@ -11844,6 +11846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
 | Gummy Dummy Battles | 239280 | [239280-gummy-dummy-battles.json](./239280-gummy-dummy-battles.json) |
+| Gummy Goo Clean Up | 90274 | [90274-gummy-goo-clean-up.json](./90274-gummy-goo-clean-up.json) |
 | Gummy Invaders | 412945 | [412945-gummy-invaders.json](./412945-gummy-invaders.json) |
 | Gummy Jump | 214840 | [214840-gummy-jump.json](./214840-gummy-jump.json) |
 | Gummy Jump 2 | 321496 | [321496-gummy-jump-2.json](./321496-gummy-jump-2.json) |
