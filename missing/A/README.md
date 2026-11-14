@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A todas las palomas de Madrid les faltan dedos | 377319 | [377319-a-todas-las-palomas-de-madrid-les-faltan-dedos.json](./377319-a-todas-las-palomas-de-madrid-les-faltan-dedos.json) |
 | A todas mis memorias futuras | 352758 | [352758-a-todas-mis-memorias-futuras.json](./352758-a-todas-mis-memorias-futuras.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
+| A Token War | 146409 | [146409-a-token-war.json](./146409-a-token-war.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
 | A Ton of Feathers | 116596 | [116596-a-ton-of-feathers.json](./116596-a-ton-of-feathers.json) |
 | A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
@@ -13910,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
 | Arcade Archives: Formation Z | 147105 | [147105-arcade-archives-formation-z.json](./147105-arcade-archives-formation-z.json) |
 | Arcade Archives: Frisky Tom | 145810 | [145810-arcade-archives-frisky-tom.json](./145810-arcade-archives-frisky-tom.json) |
+| Arcade Archives: Frogger | 146936 | [146936-arcade-archives-frogger.json](./146936-arcade-archives-frogger.json) |
 | Arcade Archives: Front Line | 99472 | [99472-arcade-archives-front-line.json](./99472-arcade-archives-front-line.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
@@ -14148,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Thunder Ceptor | 207107 | [207107-arcade-archives-thunder-ceptor.json](./207107-arcade-archives-thunder-ceptor.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
 | Arcade Archives: Thunder Cross | 147101 | [147101-arcade-archives-thunder-cross.json](./147101-arcade-archives-thunder-cross.json) |
+| Arcade Archives: Thunder Cross II | 146391 | [146391-arcade-archives-thunder-cross-ii.json](./146391-arcade-archives-thunder-cross-ii.json) |
 | Arcade Archives: Thunder Dragon | 147104 | [147104-arcade-archives-thunder-dragon.json](./147104-arcade-archives-thunder-dragon.json) |
 | Arcade Archives: Thunder Dragon 2 | 192053 | [192053-arcade-archives-thunder-dragon-2.json](./192053-arcade-archives-thunder-dragon-2.json) |
 | Arcade Archives: Thunder Fox | 330002 | [330002-arcade-archives-thunder-fox.json](./330002-arcade-archives-thunder-fox.json) |
@@ -18896,6 +18899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrevete a Soñar | 253800 | [253800-atrevete-a-sonar.json](./253800-atrevete-a-sonar.json) |
 | Atrévete a Soñar | 6569 | [6569-atrevete-a-sonar.json](./6569-atrevete-a-sonar.json) |
 | Atria | 203839 | [203839-atria.json](./203839-atria.json) |
+| Atria II: The Ressurection | 146379 | [146379-atria-ii-the-ressurection.json](./146379-atria-ii-the-ressurection.json) |
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Atriage | 33219 | [33219-atriage.json](./33219-atriage.json) |
@@ -19254,6 +19258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augur | 128811 | [128811-augur.json](./128811-augur.json) |
 | Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
+| Augury | 146397 | [146397-augury.json](./146397-augury.json) |
 | Augury | 211081 | [211081-augury.json](./211081-augury.json) |
 | Augury Point | 280298 | [280298-augury-point.json](./280298-augury-point.json) |
 | August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
