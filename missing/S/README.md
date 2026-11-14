@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sap: School Days | 255940 | [255940-sap-school-days.json](./255940-sap-school-days.json) |
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
+| Sapiens | 117186 | [117186-sapiens.json](./117186-sapiens.json) |
 | Sapiens | 55032 | [55032-sapiens.json](./55032-sapiens.json) |
 | Sapiens Craft | 251941 | [251941-sapiens-craft.json](./251941-sapiens-craft.json) |
 | Sapiens Craft Puzzle | 270087 | [270087-sapiens-craft-puzzle.json](./270087-sapiens-craft-puzzle.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Saposo Supimpa | 372173 | [372173-saposo-supimpa.json](./372173-saposo-supimpa.json) |
+| Sapper | 117190 | [117190-sapper.json](./117190-sapper.json) |
 | Sapper | 127519 | [127519-sapper.json](./127519-sapper.json) |
 | Sapper | 172297 | [172297-sapper.json](./172297-sapper.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
@@ -9908,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockman | 42098 | [42098-shockman.json](./42098-shockman.json) |
 | Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
 | Shockman Collection vol. 2 | 323117 | [323117-shockman-collection-vol-2.json](./323117-shockman-collection-vol-2.json) |
+| ShockRods | 116525 | [116525-shockrods.json](./116525-shockrods.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
 | Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
@@ -13819,6 +13822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkullX: Aibohphobia | 346314 | [346314-skullx-aibohphobia.json](./346314-skullx-aibohphobia.json) |
 | Skully | 133902 | [133902-skully.json](./133902-skully.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
+| Skully Pinball | 117183 | [117183-skully-pinball.json](./117183-skully-pinball.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
 | Skumring | 90228 | [90228-skumring.json](./90228-skumring.json) |
 | Skunk Meat | 393148 | [393148-skunk-meat.json](./393148-skunk-meat.json) |
@@ -16929,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipers: Invisible, Silent, Deadly | 83883 | [83883-snipers-invisible-silent-deadly.json](./83883-snipers-invisible-silent-deadly.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
+| Snipiyo | 116519 | [116519-snipiyo.json](./116519-snipiyo.json) |
 | Snips & Snails | 140754 | [140754-snips-and-snails.json](./140754-snips-and-snails.json) |
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
@@ -17408,6 +17413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snuggle Truck | 9025 | [9025-snuggle-truck.json](./9025-snuggle-truck.json) |
 | Snugglebat | 131794 | [131794-snugglebat.json](./131794-snugglebat.json) |
+| Snuse 221 | 116508 | [116508-snuse-221.json](./116508-snuse-221.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
 | Snyatcher | 292387 | [292387-snyatcher.json](./292387-snyatcher.json) |
@@ -22373,6 +22379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tower | 126507 | [126507-space-tower.json](./126507-space-tower.json) |
 | Space Tower Defense | 195556 | [195556-space-tower-defense.json](./195556-space-tower-defense.json) |
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
+| Space Trade Fleet 1.5 | 117204 | [117204-space-trade-fleet-1-5.json](./117204-space-trade-fleet-1-5.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trader: Merchant Marine | 29191 | [29191-space-trader-merchant-marine.json](./29191-space-trader-merchant-marine.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
@@ -25491,6 +25498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Summer | 308831 | [308831-sprout-valley-summer.json](./308831-sprout-valley-summer.json) |
 | Sprout Valley: Summer Edition | 328779 | [328779-sprout-valley-summer-edition.json](./328779-sprout-valley-summer-edition.json) |
 | Sprout Valley: Ultimate Edition | 328778 | [328778-sprout-valley-ultimate-edition.json](./328778-sprout-valley-ultimate-edition.json) |
+| Sprout: Idle Garden | 116529 | [116529-sprout-idle-garden.json](./116529-sprout-idle-garden.json) |
 | Sprout's Meadow | 414110 | [414110-sprouts-meadow.json](./414110-sprouts-meadow.json) |
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
@@ -26616,6 +26624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
 | Star Fighter | 26745 | [26745-star-fighter.json](./26745-star-fighter.json) |
 | Star Fighter | 383702 | [383702-star-fighter.json](./383702-star-fighter.json) |
+| Star Fighters | 116517 | [116517-star-fighters.json](./116517-star-fighters.json) |
 | Star Fire | 23160 | [23160-star-fire.json](./23160-star-fire.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire Spirits | 37538 | [37538-star-fire-spirits.json](./37538-star-fire-spirits.json) |
