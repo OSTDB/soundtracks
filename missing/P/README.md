@@ -6298,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
 | Photo Studio Simulator | 309730 | [309730-photo-studio-simulator.json](./309730-photo-studio-simulator.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
+| Photo-Life: Rina's Journey | 159405 | [159405-photo-life-rinas-journey.json](./159405-photo-life-rinas-journey.json) |
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
 | Photobomb | 177266 | [177266-photobomb.json](./177266-photobomb.json) |
 | Photobound | 181164 | [181164-photobound.json](./181164-photobound.json) |
@@ -11110,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber | 148446 | [148446-plumber.json](./148446-plumber.json) |
 | Plumber | 246358 | [246358-plumber.json](./246358-plumber.json) |
 | Plumber | 343771 | [343771-plumber.json](./343771-plumber.json) |
+| Plumber 2 | 159381 | [159381-plumber-2.json](./159381-plumber-2.json) |
 | Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber 3D | 55529 | [55529-plumber-3d.json](./55529-plumber-3d.json) |
@@ -20288,6 +20290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Shuffle | 77115 | [77115-puzzle-shuffle.json](./77115-puzzle-shuffle.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
+| Puzzle Soccer | 159418 | [159418-puzzle-soccer.json](./159418-puzzle-soccer.json) |
 | Puzzle Spy International | 329773 | [329773-puzzle-spy-international.json](./329773-puzzle-spy-international.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star BT21 | 97061 | [97061-puzzle-star-bt21.json](./97061-puzzle-star-bt21.json) |
