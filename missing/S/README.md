@@ -3597,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooter Space | 223919 | [223919-scooter-space.json](./223919-scooter-space.json) |
 | Scooter War3z | 72160 | [72160-scooter-war3z.json](./72160-scooter-war3z.json) |
 | Scooter's Magic Castle | 72173 | [72173-scooters-magic-castle.json](./72173-scooters-magic-castle.json) |
+| ScooterFlow | 152451 | [152451-scooterflow.json](./152451-scooterflow.json) |
 | Scooternia | 311970 | [311970-scooternia.json](./311970-scooternia.json) |
 | ScootX | 362005 | [362005-scootx.json](./362005-scootx.json) |
 | Scooty Shooty | 151429 | [151429-scooty-shooty.json](./151429-scooty-shooty.json) |
@@ -11096,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SID the Spellbinder | 41557 | [41557-sid-the-spellbinder.json](./41557-sid-the-spellbinder.json) |
 | Side | 149025 | [149025-side.json](./149025-side.json) |
 | Side Alley | 319084 | [319084-side-alley.json](./319084-side-alley.json) |
+| Side B | 152514 | [152514-side-b.json](./152514-side-b.json) |
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side 2 | 39944 | [39944-side-by-side-2.json](./39944-side-by-side-2.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
@@ -27806,6 +27808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | Staroot | 337290 | [337290-staroot.json](./337290-staroot.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
+| Staroyale | 152512 | [152512-staroyale.json](./152512-staroyale.json) |
 | Starpatch | 330055 | [330055-starpatch.json](./330055-starpatch.json) |
 | Starpath | 402419 | [402419-starpath.json](./402419-starpath.json) |
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
@@ -36521,6 +36524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
 | Super Soccer | 77457 | [77457-super-soccer.json](./77457-super-soccer.json) |
 | Super Soccer Blast | 135585 | [135585-super-soccer-blast.json](./135585-super-soccer-blast.json) |
+| Super Soccer Blast: America VS Europe | 152520 | [152520-super-soccer-blast-america-vs-europe.json](./152520-super-soccer-blast-america-vs-europe.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
 | Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
 | Super Sokoban | 38291 | [38291-super-sokoban.json](./38291-super-sokoban.json) |
@@ -39036,6 +39040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Swooning Over Stans | 178753 | [178753-swooning-over-stans.json](./178753-swooning-over-stans.json) |
 | Swoop | 78988 | [78988-swoop.json](./78988-swoop.json) |
+| Swooping Justice | 152448 | [152448-swooping-justice.json](./152448-swooping-justice.json) |
 | Swoops! | 40750 | [40750-swoops.json](./40750-swoops.json) |
 | Swoords: Friends Word Game | 232624 | [232624-swoords-friends-word-game.json](./232624-swoords-friends-word-game.json) |
 | Swoosh | 143926 | [143926-swoosh.json](./143926-swoosh.json) |
@@ -39945,6 +39950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Shooterz | 310139 | [310139-system-shooterz.json](./310139-system-shooterz.json) |
 | System Siege | 87763 | [87763-system-siege.json](./87763-system-siege.json) |
 | System Syzygy | 252684 | [252684-system-syzygy.json](./252684-system-syzygy.json) |
+| System Under Surveillance | 152508 | [152508-system-under-surveillance.json](./152508-system-under-surveillance.json) |
 | System Upkeep | 310123 | [310123-system-upkeep.json](./310123-system-upkeep.json) |
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
 | System_Reboot | 409207 | [409207-system-reboot.json](./409207-system-reboot.json) |
