@@ -6098,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
 | Phero | 348817 | [348817-phero.json](./348817-phero.json) |
+| Phi | 143165 | [143165-phi.json](./143165-phi.json) |
 | Phi Brain: Kizuna no Puzzle | 63780 | [63780-phi-brain-kizuna-no-puzzle.json](./63780-phi-brain-kizuna-no-puzzle.json) |
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
@@ -17255,6 +17256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS 3: Power Pack | 162310 | [162310-project-cars-3-power-pack.json](./162310-project-cars-3-power-pack.json) |
 | Project Cars 3: Season Pass | 293725 | [293725-project-cars-3-season-pass.json](./293725-project-cars-3-season-pass.json) |
 | Project CARS 3: Style Pack | 162308 | [162308-project-cars-3-style-pack.json](./162308-project-cars-3-style-pack.json) |
+| Project CARS Go | 143182 | [143182-project-cars-go.json](./143182-project-cars-go.json) |
 | Project CARS: Aston Martin Track Expansion | 120193 | [120193-project-cars-aston-martin-track-expansion.json](./120193-project-cars-aston-martin-track-expansion.json) |
 | Project CARS: Audi Ruapuna Speedway Expansion | 120196 | [120196-project-cars-audi-ruapuna-speedway-expansion.json](./120196-project-cars-audi-ruapuna-speedway-expansion.json) |
 | Project CARS: Classic Lotus Track Expansion | 120191 | [120191-project-cars-classic-lotus-track-expansion.json](./120191-project-cars-classic-lotus-track-expansion.json) |
@@ -18678,6 +18680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychological Challenge | 348561 | [348561-psychological-challenge.json](./348561-psychological-challenge.json) |
 | Psychological Hacker 2044 | 297198 | [297198-psychological-hacker-2044.json](./297198-psychological-hacker-2044.json) |
 | Psychological Operation | 309396 | [309396-psychological-operation.json](./309396-psychological-operation.json) |
+| Psycholonials | 143143 | [143143-psycholonials.json](./143143-psycholonials.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychomachia | 361048 | [361048-psychomachia.json](./361048-psychomachia.json) |
