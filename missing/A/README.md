@@ -9287,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranthine Voyage: The Orb of Purity | 58030 | [58030-amaranthine-voyage-the-orb-of-purity.json](./58030-amaranthine-voyage-the-orb-of-purity.json) |
 | Amaranthine Voyage: The Orb of Purity - Collector's Edition | 22075 | [22075-amaranthine-voyage-the-orb-of-purity-collectors-edition.json](./22075-amaranthine-voyage-the-orb-of-purity-collectors-edition.json) |
 | Amaranthine Voyage: The Shadow of Torment | 58032 | [58032-amaranthine-voyage-the-shadow-of-torment.json](./58032-amaranthine-voyage-the-shadow-of-torment.json) |
+| Amaranthine Voyage: The Shadow of Torment - Collector's Edition | 86285 | [86285-amaranthine-voyage-the-shadow-of-torment-collectors-edition.json](./86285-amaranthine-voyage-the-shadow-of-torment-collectors-edition.json) |
 | Amaranthine Voyage: The Shadow of Torment HD | 95910 | [95910-amaranthine-voyage-the-shadow-of-torment-hd.json](./95910-amaranthine-voyage-the-shadow-of-torment-hd.json) |
 | Amaranthine Voyage: The Sky | 89143 | [89143-amaranthine-voyage-the-sky.json](./89143-amaranthine-voyage-the-sky.json) |
 | Amaranthine Voyage: The Tree of Life | 58029 | [58029-amaranthine-voyage-the-tree-of-life.json](./58029-amaranthine-voyage-the-tree-of-life.json) |
@@ -13119,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apinaraivo | 271432 | [271432-apinaraivo.json](./271432-apinaraivo.json) |
 | APlaceDominatedByFire | 390019 | [390019-aplacedominatedbyfire.json](./390019-aplacedominatedbyfire.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
+| Aplestia | 86301 | [86301-aplestia.json](./86301-aplestia.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | AploVVare Collection:18+ DLC | 266990 | [266990-aplovvare-collection-18-dlc.json](./266990-aplovvare-collection-18-dlc.json) |
@@ -13479,6 +13481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AQtion | 202662 | [202662-aqtion.json](./202662-aqtion.json) |
 | Aqua | 183698 | [183698-aqua.json](./183698-aqua.json) |
 | Aqua | 37278 | [37278-aqua.json](./37278-aqua.json) |
+| Aqua | 85681 | [85681-aqua.json](./85681-aqua.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
@@ -15590,6 +15593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkansas 2125 | 410031 | [410031-arkansas-2125.json](./410031-arkansas-2125.json) |
+| Arkasha | 86287 | [86287-arkasha.json](./86287-arkasha.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
 | ArkCraft: The Rebirth of the World | 312981 | [312981-arkcraft-the-rebirth-of-the-world.json](./312981-arkcraft-the-rebirth-of-the-world.json) |
 | Arkedo Series | 99819 | [99819-arkedo-series.json](./99819-arkedo-series.json) |
