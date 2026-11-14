@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Haven: Chrysalis | 170625 | [170625-lake-haven-chrysalis.json](./170625-lake-haven-chrysalis.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
+| Lake Kindred Origin | 110427 | [110427-lake-kindred-origin.json](./110427-lake-kindred-origin.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters EX | 70570 | [70570-lake-masters-ex.json](./70570-lake-masters-ex.json) |
@@ -2540,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play: Pumpkin Smash! | 375132 | [375132-learn-to-play-pumpkin-smash.json](./375132-learn-to-play-pumpkin-smash.json) |
 | Learn with Illustrations! English Prepositions 4-Choice Quiz | 399658 | [399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json](./399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json) |
 | Learn Words: Use Syllables | 243329 | [243329-learn-words-use-syllables.json](./243329-learn-words-use-syllables.json) |
+| LearnEng | 110595 | [110595-learneng.json](./110595-learneng.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Eidolons | 290296 | [290296-little-eidolons.json](./290296-little-eidolons.json) |
 | Little Einar | 52065 | [52065-little-einar.json](./52065-little-einar.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
+| Little elf | 110607 | [110607-little-elf.json](./110607-little-elf.json) |
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
 | Little Eternal Chronicle | 236485 | [236485-little-eternal-chronicle.json](./236485-little-eternal-chronicle.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
