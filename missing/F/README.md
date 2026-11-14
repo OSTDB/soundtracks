@@ -12740,6 +12740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Icecream | 328404 | [328404-free-icecream.json](./328404-free-icecream.json) |
 | Free Jazz Party Animals | 185271 | [185271-free-jazz-party-animals.json](./185271-free-jazz-party-animals.json) |
 | Free Kick | 111306 | [111306-free-kick.json](./111306-free-kick.json) |
+| Free Kick X | 167747 | [167747-free-kick-x.json](./167747-free-kick-x.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Lottery | 370038 | [370038-free-lottery.json](./370038-free-lottery.json) |
 | Free Nights with Freddy's | 242308 | [242308-free-nights-with-freddys.json](./242308-free-nights-with-freddys.json) |
