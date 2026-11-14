@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Rattler | 294746 | [294746-rattler.json](./294746-rattler.json) |
+| Rattler Race | 78811 | [78811-rattler-race.json](./78811-rattler-race.json) |
 | Rattlesnake | 185319 | [185319-rattlesnake.json](./185319-rattlesnake.json) |
 | Rattus | 130115 | [130115-rattus.json](./130115-rattus.json) |
 | Rattus Velocitas | 351195 | [351195-rattus-velocitas.json](./351195-rattus-velocitas.json) |
@@ -6767,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Mystery Club Vol.2: The Beppu Case | 289264 | [289264-retro-mystery-club-vol-2-the-beppu-case.json](./289264-retro-mystery-club-vol-2-the-beppu-case.json) |
 | Retro Ninja Runner | 74810 | [74810-retro-ninja-runner.json](./74810-retro-ninja-runner.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
+| Retro One - Part 2 | 78809 | [78809-retro-one-part-2.json](./78809-retro-one-part-2.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Parking | 31129 | [31129-retro-parking.json](./31129-retro-parking.json) |
 | Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
