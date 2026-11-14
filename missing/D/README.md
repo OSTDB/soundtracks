@@ -9987,6 +9987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Deep: Chunky Pets | 246881 | [246881-dig-deep-chunky-pets.json](./246881-dig-deep-chunky-pets.json) |
 | Dig Deep: Complete Edition | 249578 | [249578-dig-deep-complete-edition.json](./249578-dig-deep-complete-edition.json) |
 | Dig Deep: Race to the Core! | 150895 | [150895-dig-deep-race-to-the-core.json](./150895-dig-deep-race-to-the-core.json) |
+| Dig Deep! | 93911 | [93911-dig-deep.json](./93911-dig-deep.json) |
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
 | Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
 | Dig Dig Burrito! | 391996 | [391996-dig-dig-burrito.json](./391996-dig-dig-burrito.json) |
