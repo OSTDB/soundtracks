@@ -14069,6 +14069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
 | Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
+| Minesweeper 2018 | 104319 | [104319-minesweeper-2018.json](./104319-minesweeper-2018.json) |
 | Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
 | Minesweeper 3D | 391924 | [391924-minesweeper-3d.json](./391924-minesweeper-3d.json) |
 | Minesweeper 3D | 412739 | [412739-minesweeper-3d.json](./412739-minesweeper-3d.json) |
@@ -23446,6 +23447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Rose | 384317 | [384317-my-rose.json](./384317-my-rose.json) |
 | My Royal Guardian | 299511 | [299511-my-royal-guardian.json](./299511-my-royal-guardian.json) |
 | My Royal Maid R | 385884 | [385884-my-royal-maid-r.json](./385884-my-royal-maid-r.json) |
+| My Russian Trip | 104326 | [104326-my-russian-trip.json](./104326-my-russian-trip.json) |
 | My Rusty Submarine | 176411 | [176411-my-rusty-submarine.json](./176411-my-rusty-submarine.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
@@ -24193,6 +24195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Murders: Jack the Ripper | 84703 | [84703-mystery-murders-jack-the-ripper.json](./84703-mystery-murders-jack-the-ripper.json) |
 | Mystery Murders: The Sleeping Palace | 84702 | [84702-mystery-murders-the-sleeping-palace.json](./84702-mystery-murders-the-sleeping-palace.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
+| Mystery Neighbor Battleground | 104293 | [104293-mystery-neighbor-battleground.json](./104293-mystery-neighbor-battleground.json) |
 | Mystery no Tobira: Nazotoki no Jikan 2 | 238116 | [238116-mystery-no-tobira-nazotoki-no-jikan-2.json](./238116-mystery-no-tobira-nazotoki-no-jikan-2.json) |
 | Mystery Objects | 152025 | [152025-mystery-objects.json](./152025-mystery-objects.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
