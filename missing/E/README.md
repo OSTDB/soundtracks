@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Day | 340995 | [340995-election-day.json](./340995-election-day.json) |
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
 | Election Manager 2016 | 94887 | [94887-election-manager-2016.json](./94887-election-manager-2016.json) |
+| Election simulator | 127421 | [127421-election-simulator.json](./127421-election-simulator.json) |
 | Election Town | 218055 | [218055-election-town.json](./218055-election-town.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
 | Election Tycoon: Trump vs. Harris | 322288 | [322288-election-tycoon-trump-vs-harris.json](./322288-election-tycoon-trump-vs-harris.json) |
@@ -6210,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the MonStalkers! | 343042 | [343042-escape-the-monstalkers.json](./343042-escape-the-monstalkers.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
+| Escape the Ninja Room | 127429 | [127429-escape-the-ninja-room.json](./127429-escape-the-ninja-room.json) |
 | Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
 | Escape the Office VR | 339771 | [339771-escape-the-office-vr.json](./339771-escape-the-office-vr.json) |
 | Escape the Omnochronom! | 108632 | [108632-escape-the-omnochronom.json](./108632-escape-the-omnochronom.json) |
