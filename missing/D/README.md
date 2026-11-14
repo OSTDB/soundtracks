@@ -9807,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Drei ??? und der Riesenkrake | 283439 | [283439-die-drei-und-der-riesenkrake.json](./283439-die-drei-und-der-riesenkrake.json) |
 | Die drei ???: Das Gold der Inkas | 361324 | [361324-die-drei-das-gold-der-inkas.json](./361324-die-drei-das-gold-der-inkas.json) |
 | Die drei ???: Fluch des Flaschenteufels | 262522 | [262522-die-drei-fluch-des-flaschenteufels.json](./262522-die-drei-fluch-des-flaschenteufels.json) |
+| Die Drei ???: Rätsel aus der Geisterwelt | 81526 | [81526-die-drei-ratsel-aus-der-geisterwelt.json](./81526-die-drei-ratsel-aus-der-geisterwelt.json) |
 | Die Drei ???: Ruf Der Trolle | 371610 | [371610-die-drei-ruf-der-trolle.json](./371610-die-drei-ruf-der-trolle.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die Drei??? Kids: Jagd auf Das Phantom | 136371 | [136371-die-drei-kids-jagd-auf-das-phantom.json](./136371-die-drei-kids-jagd-auf-das-phantom.json) |
@@ -9830,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Gekirin II | 137463 | [137463-die-gekirin-ii.json](./137463-die-gekirin-ii.json) |
 | Die Gekirin III | 137458 | [137458-die-gekirin-iii.json](./137458-die-gekirin-iii.json) |
 | Die Geschichte des Herrn P. | 405495 | [405495-die-geschichte-des-herrn-p.json](./405495-die-geschichte-des-herrn-p.json) |
+| Die Gilde DS | 81509 | [81509-die-gilde-ds.json](./81509-die-gilde-ds.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Große Jump & Run-Box | 93971 | [93971-die-gro-e-jump-and-run-box.json](./93971-die-gro-e-jump-and-run-box.json) |
 | Die Hard | 131004 | [131004-die-hard.json](./131004-die-hard.json) |
@@ -11825,6 +11827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
 | Disney's Darkwing Duck | 145266 | [145266-disneys-darkwing-duck.json](./145266-disneys-darkwing-duck.json) |
+| Disney's Darkwing Duck | 81487 | [81487-disneys-darkwing-duck.json](./81487-disneys-darkwing-duck.json) |
 | Disney's Darkwing Duck | 8452 | [8452-disneys-darkwing-duck.json](./8452-disneys-darkwing-duck.json) |
 | Disney's Dinosaur | 46446 | [46446-disneys-dinosaur.json](./46446-disneys-dinosaur.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
@@ -17079,6 +17082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair II: Time Warp | 14660 | [14660-dragons-lair-ii-time-warp.json](./14660-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
+| Dragon's Lair III | 81564 | [81564-dragons-lair-iii.json](./81564-dragons-lair-iii.json) |
 | Dragon's Lair Part II: Escape from Singe's Castle | 418248 | [418248-dragons-lair-part-ii-escape-from-singes-castle.json](./418248-dragons-lair-part-ii-escape-from-singes-castle.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
