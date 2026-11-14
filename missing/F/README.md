@@ -2552,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
 | Faraway Lands: Rise of Yokai | 139668 | [139668-faraway-lands-rise-of-yokai.json](./139668-faraway-lands-rise-of-yokai.json) |
 | Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
+| Faraway Qualia | 148044 | [148044-faraway-qualia.json](./148044-faraway-qualia.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
 | Faraway: Director's Cut | 138349 | [138349-faraway-directors-cut.json](./138349-faraway-directors-cut.json) |
 | Faraway: Jungle Escape | 192883 | [192883-faraway-jungle-escape.json](./192883-faraway-jungle-escape.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Together: Candy Pack | 223573 | [223573-farm-together-candy-pack.json](./223573-farm-together-candy-pack.json) |
 | Farm Together: Celery Pack | 224272 | [224272-farm-together-celery-pack.json](./224272-farm-together-celery-pack.json) |
 | Farm Together: Chickpea Pack | 224271 | [224271-farm-together-chickpea-pack.json](./224271-farm-together-chickpea-pack.json) |
+| Farm Together: Deluxe Edition | 148048 | [148048-farm-together-deluxe-edition.json](./148048-farm-together-deluxe-edition.json) |
 | Farm Together: Fantasy Pack | 203729 | [203729-farm-together-fantasy-pack.json](./203729-farm-together-fantasy-pack.json) |
 | Farm Together: Ginger Pack | 224270 | [224270-farm-together-ginger-pack.json](./224270-farm-together-ginger-pack.json) |
 | Farm Together: Jalapeño Pack | 224269 | [224269-farm-together-jalapeno-pack.json](./224269-farm-together-jalapeno-pack.json) |
@@ -2921,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 15: New Holland Pack | 166083 | [166083-farming-simulator-15-new-holland-pack.json](./166083-farming-simulator-15-new-holland-pack.json) |
 | Farming Simulator 17 | 19409 | [19409-farming-simulator-17.json](./19409-farming-simulator-17.json) |
 | Farming Simulator 17 big bud pack | 110336 | [110336-farming-simulator-17-big-bud-pack.json](./110336-farming-simulator-17-big-bud-pack.json) |
+| Farming Simulator 17: Ambassador Edition | 148043 | [148043-farming-simulator-17-ambassador-edition.json](./148043-farming-simulator-17-ambassador-edition.json) |
 | Farming Simulator 17: KUHN Equipment Pack | 166090 | [166090-farming-simulator-17-kuhn-equipment-pack.json](./166090-farming-simulator-17-kuhn-equipment-pack.json) |
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
@@ -9235,6 +9238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers for Time | 181191 | [181191-flowers-for-time.json](./181191-flowers-for-time.json) |
 | Flowers for You | 185173 | [185173-flowers-for-you.json](./185173-flowers-for-you.json) |
 | Flowers for You | 330895 | [330895-flowers-for-you.json](./330895-flowers-for-you.json) |
+| Flowers for You: a pleasant walk | 148028 | [148028-flowers-for-you-a-pleasant-walk.json](./148028-flowers-for-you-a-pleasant-walk.json) |
 | Flowers Garden Solitaire | 284558 | [284558-flowers-garden-solitaire.json](./284558-flowers-garden-solitaire.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers Mosaics | 294388 | [294388-flowers-mosaics.json](./294388-flowers-mosaics.json) |
@@ -11330,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Boyard: Les défis du père Fouras | 295458 | [295458-fort-boyard-les-defis-du-pere-fouras.json](./295458-fort-boyard-les-defis-du-pere-fouras.json) |
 | Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
 | Fort Boyard: Nouvelle Edition | 136117 | [136117-fort-boyard-nouvelle-edition.json](./136117-fort-boyard-nouvelle-edition.json) |
+| Fort Boyard: Nouvelle Edition - Toujours Plus Fort | 148047 | [148047-fort-boyard-nouvelle-edition-toujours-plus-fort.json](./148047-fort-boyard-nouvelle-edition-toujours-plus-fort.json) |
 | Fort Boyard: The Challenge | 388268 | [388268-fort-boyard-the-challenge.json](./388268-fort-boyard-the-challenge.json) |
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
@@ -14205,6 +14210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
 | Fruit Hoop | 103765 | [103765-fruit-hoop.json](./103765-fruit-hoop.json) |
 | Fruit Hoop 2 | 358311 | [358311-fruit-hoop-2.json](./358311-fruit-hoop-2.json) |
+| Fruit Hunter | 148024 | [148024-fruit-hunter.json](./148024-fruit-hunter.json) |
 | Fruit Jammin' | 245807 | [245807-fruit-jammin.json](./245807-fruit-jammin.json) |
 | Fruit Juice | 168648 | [168648-fruit-juice.json](./168648-fruit-juice.json) |
 | Fruit Juice | 200856 | [200856-fruit-juice.json](./200856-fruit-juice.json) |
