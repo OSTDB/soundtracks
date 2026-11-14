@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Sanity | 150746 | [150746-race-to-sanity.json](./150746-race-to-sanity.json) |
 | Race to the Line | 85362 | [85362-race-to-the-line.json](./85362-race-to-the-line.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
+| Race Track Driver | 159392 | [159392-race-track-driver.json](./159392-race-track-driver.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
 | Race With Ryan | 122042 | [122042-race-with-ryan.json](./122042-race-with-ryan.json) |
 | Race With Ryan: Adventure Track Pack | 168140 | [168140-race-with-ryan-adventure-track-pack.json](./168140-race-with-ryan-adventure-track-pack.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
+| Red Square Escape | 159387 | [159387-red-square-escape.json](./159387-red-square-escape.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Squares | 174567 | [174567-red-squares.json](./174567-red-squares.json) |
 | Red Stack | 308705 | [308705-red-stack.json](./308705-red-stack.json) |
@@ -5694,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent-A-Hero | 6001 | [6001-rent-a-hero.json](./6001-rent-a-hero.json) |
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
 | Rent-a-Vice | 100579 | [100579-rent-a-vice.json](./100579-rent-a-vice.json) |
+| Rent's Due: The Game | 159370 | [159370-rents-due-the-game.json](./159370-rents-due-the-game.json) |
 | Rental | 225523 | [225523-rental.json](./225523-rental.json) |
 | Rental Chan | 228823 | [228823-rental-chan.json](./228823-rental-chan.json) |
 | Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
