@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
 | Zuumtype | 361110 | [361110-zuumtype.json](./361110-zuumtype.json) |
 | Zuwaka | 231996 | [231996-zuwaka.json](./231996-zuwaka.json) |
+| Zvezda | 111791 | [111791-zvezda.json](./111791-zvezda.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | Zwackery | 40975 | [40975-zwackery.json](./40975-zwackery.json) |
 | Zwamman | 395176 | [395176-zwamman.json](./395176-zwamman.json) |
