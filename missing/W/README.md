@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Covered 2: Censored Edition | 392892 | [392892-waifu-covered-2-censored-edition.json](./392892-waifu-covered-2-censored-edition.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
 | Waifu Desire | 226577 | [226577-waifu-desire.json](./226577-waifu-desire.json) |
+| Waifu Discovered 2 | 157225 | [157225-waifu-discovered-2.json](./157225-waifu-discovered-2.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
 | Waifu Discovered 3: Cyberpunk Fantasy | 409881 | [409881-waifu-discovered-3-cyberpunk-fantasy.json](./409881-waifu-discovered-3-cyberpunk-fantasy.json) |
 | Waifu Fight: Dango Style | 90777 | [90777-waifu-fight-dango-style.json](./90777-waifu-fight-dango-style.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Gold 2 Mission 99 | 226694 | [226694-war-of-gold-2-mission-99.json](./226694-war-of-gold-2-mission-99.json) |
 | War of Kingdoms | 208116 | [208116-war-of-kingdoms.json](./208116-war-of-kingdoms.json) |
 | War of Kings | 236207 | [236207-war-of-kings.json](./236207-war-of-kings.json) |
+| War of Kosovo: 2033 | 157223 | [157223-war-of-kosovo-2033.json](./157223-war-of-kosovo-2033.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of Legions | 302995 | [302995-war-of-legions.json](./302995-war-of-legions.json) |
 | War of Mafia | 208115 | [208115-war-of-mafia.json](./208115-war-of-mafia.json) |
@@ -4619,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
+| Where Is My Vodka? | 157226 | [157226-where-is-my-vodka.json](./157226-where-is-my-vodka.json) |
 | Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
 | Where is Ploppy? | 232261 | [232261-where-is-ploppy.json](./232261-where-is-ploppy.json) |
 | Where is Santa? | 113401 | [113401-where-is-santa.json](./113401-where-is-santa.json) |
