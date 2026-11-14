@@ -14653,6 +14653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Compassionate Simulation | 185910 | [185910-compassionate-simulation.json](./185910-compassionate-simulation.json) |
+| Compel | 134761 | [134761-compel.json](./134761-compel.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Compensation Not Guaranteed | 328419 | [328419-compensation-not-guaranteed.json](./328419-compensation-not-guaranteed.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
