@@ -29270,6 +29270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
 | Stellar Warrior | 83604 | [83604-stellar-warrior.json](./83604-stellar-warrior.json) |
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
+| Stellar Wars | 128076 | [128076-stellar-wars.json](./128076-stellar-wars.json) |
 | Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
 | Stellar Winds | 145830 | [145830-stellar-winds.json](./145830-stellar-winds.json) |
 | Stellar Wreck | 399421 | [399421-stellar-wreck.json](./399421-stellar-wreck.json) |
@@ -32892,6 +32893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suite Room no Nemurihime Celebteki Zeitaku Ren'ai | 229029 | [229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json](./229029-suite-room-no-nemurihime-celebteki-zeitaku-renai.json) |
 | Suite Snake | 198045 | [198045-suite-snake.json](./198045-suite-snake.json) |
 | Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
+| Suits: Absolute Power | 128034 | [128034-suits-absolute-power.json](./128034-suits-absolute-power.json) |
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Suiyue | 180427 | [180427-suiyue.json](./180427-suiyue.json) |
@@ -37450,6 +37452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPower 2 | 24250 | [24250-superpower-2.json](./24250-superpower-2.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
 | SuperPower 3 | 171217 | [171217-superpower-3.json](./171217-superpower-3.json) |
+| Superpower Squad | 128040 | [128040-superpower-squad.json](./128040-superpower-squad.json) |
 | Superpower Squad | 208126 | [208126-superpower-squad.json](./208126-superpower-squad.json) |
 | SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
