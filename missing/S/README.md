@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scout | 231533 | [231533-scout.json](./231533-scout.json) |
 | Scout | 56584 | [56584-scout.json](./56584-scout.json) |
 | Scout Duty | 236429 | [236429-scout-duty.json](./236429-scout-duty.json) |
+| Scout M@ster: Takumi Mukai | 83675 | [83675-scout-m-ster-takumi-mukai.json](./83675-scout-m-ster-takumi-mukai.json) |
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scout: An Apocalypse Story | 177355 | [177355-scout-an-apocalypse-story.json](./177355-scout-an-apocalypse-story.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
@@ -9555,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi, Koi Utsutsu for Nintendo Switch | 253739 | [253739-shinobi-koi-utsutsu-for-nintendo-switch.json](./253739-shinobi-koi-utsutsu-for-nintendo-switch.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
+| Shinobi, Koi Utsutsu: Kanmitsu Hana Emaki | 83669 | [83669-shinobi-koi-utsutsu-kanmitsu-hana-emaki.json](./83669-shinobi-koi-utsutsu-kanmitsu-hana-emaki.json) |
 | Shinobi, Koi Utsutsu: Setsugekka Koi Emaki | 224194 | [224194-shinobi-koi-utsutsu-setsugekka-koi-emaki.json](./224194-shinobi-koi-utsutsu-setsugekka-koi-emaki.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
 | Shinobi: Art of Vengeance - Digital Deluxe Edition | 349598 | [349598-shinobi-art-of-vengeance-digital-deluxe-edition.json](./349598-shinobi-art-of-vengeance-digital-deluxe-edition.json) |
@@ -25331,6 +25333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Illustrated: Championship Football & Baseball | 49013 | [49013-sports-illustrated-championship-football-and-baseball.json](./49013-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Illustrated: Golf Classic | 49086 | [49086-sports-illustrated-golf-classic.json](./49086-sports-illustrated-golf-classic.json) |
 | Sports Jam | 45841 | [45841-sports-jam.json](./45841-sports-jam.json) |
+| Sports Mix | 83685 | [83685-sports-mix.json](./83685-sports-mix.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
@@ -26912,6 +26915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Overdrive: Deluxe Upgrade DLC | 330630 | [330630-star-overdrive-deluxe-upgrade-dlc.json](./330630-star-overdrive-deluxe-upgrade-dlc.json) |
 | Star Overhead | 274357 | [274357-star-overhead.json](./274357-star-overhead.json) |
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
+| Star Paizlar 2: A New Erection | 83672 | [83672-star-paizlar-2-a-new-erection.json](./83672-star-paizlar-2-a-new-erection.json) |
 | Star Parodier | 37605 | [37605-star-parodier.json](./37605-star-parodier.json) |
 | Star Patrol Nova | 306399 | [306399-star-patrol-nova.json](./306399-star-patrol-nova.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
@@ -27897,6 +27901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Online Trading Card Game | 67750 | [67750-stargate-online-trading-card-game.json](./67750-stargate-online-trading-card-game.json) |
 | Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
 | Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
+| Stargate SG-1: The Alliance | 84407 | [84407-stargate-sg-1-the-alliance.json](./84407-stargate-sg-1-the-alliance.json) |
 | Stargate SG-1: Unleashed - Episode 1 | 1984 | [1984-stargate-sg-1-unleashed-episode-1.json](./1984-stargate-sg-1-unleashed-episode-1.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
@@ -31947,6 +31952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggling Ball | 150810 | [150810-struggling-ball.json](./150810-struggling-ball.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
+| Strush | 84423 | [84423-strush.json](./84423-strush.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | Stryker's Run | 5876 | [5876-strykers-run.json](./5876-strykers-run.json) |
@@ -34761,6 +34767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Flying School | 207875 | [207875-super-hero-flying-school.json](./207875-super-hero-flying-school.json) |
 | Super Hero Generation | 80615 | [80615-super-hero-generation.json](./80615-super-hero-generation.json) |
 | Super Hero I.T. Software | 304658 | [304658-super-hero-i-t-software.json](./304658-super-hero-i-t-software.json) |
+| Super Hero Math | 84921 | [84921-super-hero-math.json](./84921-super-hero-math.json) |
 | Super Hero Sakusen | 292101 | [292101-super-hero-sakusen.json](./292101-super-hero-sakusen.json) |
 | Super Hero Sakusen: Daidaru no Yabou | 387265 | [387265-super-hero-sakusen-daidaru-no-yabou.json](./387265-super-hero-sakusen-daidaru-no-yabou.json) |
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
