@@ -21454,6 +21454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Dweller | 190818 | [190818-cubic-dweller.json](./190818-cubic-dweller.json) |
 | Cubic Enigma | 296287 | [296287-cubic-enigma.json](./296287-cubic-enigma.json) |
+| Cubic Factory | 111952 | [111952-cubic-factory.json](./111952-cubic-factory.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Gallery | 343946 | [343946-cubic-gallery.json](./343946-cubic-gallery.json) |
@@ -21707,6 +21708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
 | Cult of the Child Eater | 344685 | [344685-cult-of-the-child-eater.json](./344685-cult-of-the-child-eater.json) |
 | Cult of the Dragon | 374987 | [374987-cult-of-the-dragon.json](./374987-cult-of-the-dragon.json) |
+| Cult of the Glitch King | 111767 | [111767-cult-of-the-glitch-king.json](./111767-cult-of-the-glitch-king.json) |
 | Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist and Heretic Pack Bundle | 249585 | [249585-cult-of-the-lamb-cultist-and-heretic-pack-bundle.json](./249585-cult-of-the-lamb-cultist-and-heretic-pack-bundle.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
