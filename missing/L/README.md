@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latebus | 177832 | [177832-latebus.json](./177832-latebus.json) |
 | Latent Experience | 340899 | [340899-latent-experience.json](./340899-latent-experience.json) |
 | Latent Leftovers | 340900 | [340900-latent-leftovers.json](./340900-latent-leftovers.json) |
+| Later | 128035 | [128035-later.json](./128035-later.json) |
 | Later | 348328 | [348328-later.json](./348328-later.json) |
 | Later Daters: Part 2 | 166796 | [166796-later-daters-part-2.json](./166796-later-daters-part-2.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
@@ -11189,6 +11190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux, City of Secrets | 156926 | [156926-lux-city-of-secrets.json](./156926-lux-city-of-secrets.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Lux: The Journey | 149305 | [149305-lux-the-journey.json](./149305-lux-the-journey.json) |
+| Luxar | 128084 | [128084-luxar.json](./128084-luxar.json) |
 | Luxaren Allure | 124653 | [124653-luxaren-allure.json](./124653-luxaren-allure.json) |
 | Luxavia | 392356 | [392356-luxavia.json](./392356-luxavia.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
