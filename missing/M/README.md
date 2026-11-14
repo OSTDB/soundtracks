@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator I:The Hand Behind | 164201 | [164201-manipulator-i-the-hand-behind.json](./164201-manipulator-i-the-hand-behind.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
+| Manipulatoren | 91466 | [91466-manipulatoren.json](./91466-manipulatoren.json) |
 | Manipulus | 322631 | [322631-manipulus.json](./322631-manipulus.json) |
 | Manitas Kitchen | 250796 | [250796-manitas-kitchen.json](./250796-manitas-kitchen.json) |
 | Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
@@ -11665,6 +11666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
 | Michi Café | 412794 | [412794-michi-cafe.json](./412794-michi-cafe.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
+| Michigan Cargo Campaign: Grand Transport Alliance | 90963 | [90963-michigan-cargo-campaign-grand-transport-alliance.json](./90963-michigan-cargo-campaign-grand-transport-alliance.json) |
 | Michigan: Report from Hell | 26294 | [26294-michigan-report-from-hell.json](./26294-michigan-report-from-hell.json) |
 | Michihaku Lucient 2: Itsuka, Kimi ga Otona ni Natte mo | 279981 | [279981-michihaku-lucient-2-itsuka-kimi-ga-otona-ni-natte-mo.json](./279981-michihaku-lucient-2-itsuka-kimi-ga-otona-ni-natte-mo.json) |
 | Michijiro no Lucent: Maou Fukkatsu | 249048 | [249048-michijiro-no-lucent-maou-fukkatsu.json](./249048-michijiro-no-lucent-maou-fukkatsu.json) |
@@ -14854,6 +14856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | Minskies: The Abduction | 73102 | [73102-minskies-the-abduction.json](./73102-minskies-the-abduction.json) |
 | MinSweeper | 84137 | [84137-minsweeper.json](./84137-minsweeper.json) |
+| Mint | 90989 | [90989-mint.json](./90989-mint.json) |
 | Mint Christmas | 273781 | [273781-mint-christmas.json](./273781-mint-christmas.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
 | Mint Fantome's Freak or Treat | 321270 | [321270-mint-fantomes-freak-or-treat.json](./321270-mint-fantomes-freak-or-treat.json) |
