@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager 2024: Deluxe Edition | 309629 | [309629-f1-manager-2024-deluxe-edition.json](./309629-f1-manager-2024-deluxe-edition.json) |
 | F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
+| F1 Mobile Racing | 126068 | [126068-f1-mobile-racing.json](./126068-f1-mobile-racing.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
 | F1 Pilot | 44326 | [44326-f1-pilot.json](./44326-f1-pilot.json) |
 | F1 Pole Position | 259870 | [259870-f1-pole-position.json](./259870-f1-pole-position.json) |
@@ -5085,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot | 412512 | [412512-fighter-pilot.json](./412512-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
+| Fighter Royale | 126093 | [126093-fighter-royale.json](./126093-fighter-royale.json) |
 | Fighter Royale: Last Ace Flying | 117345 | [117345-fighter-royale-last-ace-flying.json](./117345-fighter-royale-last-ace-flying.json) |
 | Fighter Saiyan: Super | 104398 | [104398-fighter-saiyan-super.json](./104398-fighter-saiyan-super.json) |
 | Fighter Street II | 276007 | [276007-fighter-street-ii.json](./276007-fighter-street-ii.json) |
@@ -12346,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
 | Fractured Memories | 332789 | [332789-fractured-memories.json](./332789-fractured-memories.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
+| Fractured Online | 126060 | [126060-fractured-online.json](./126060-fractured-online.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Realms: Season 1 | 385972 | [385972-fractured-realms-season-1.json](./385972-fractured-realms-season-1.json) |
 | Fractured Red | 374009 | [374009-fractured-red.json](./374009-fractured-red.json) |
@@ -14088,6 +14091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostbite Friends | 316179 | [316179-frostbite-friends.json](./316179-frostbite-friends.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
 | Frostbitten | 199101 | [199101-frostbitten.json](./199101-frostbitten.json) |
+| Frostborn | 126073 | [126073-frostborn.json](./126073-frostborn.json) |
 | Frostborn | 381040 | [381040-frostborn.json](./381040-frostborn.json) |
 | Frostborn: Coop Survival | 141199 | [141199-frostborn-coop-survival.json](./141199-frostborn-coop-survival.json) |
 | Frostbound | 344112 | [344112-frostbound.json](./344112-frostbound.json) |
@@ -15173,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Futanari Jigsaw | 286716 | [286716-furry-futanari-jigsaw.json](./286716-furry-futanari-jigsaw.json) |
 | Furry Futanari Jigsaw 2 | 259118 | [259118-furry-futanari-jigsaw-2.json](./259118-furry-futanari-jigsaw-2.json) |
 | Furry Futanari: 3 in 1 | 367042 | [367042-furry-futanari-3-in-1.json](./367042-furry-futanari-3-in-1.json) |
+| Furry Girl | 126062 | [126062-furry-girl.json](./126062-furry-girl.json) |
 | Furry Girl Puzzle | 281345 | [281345-furry-girl-puzzle.json](./281345-furry-girl-puzzle.json) |
 | Furry Girlfriend Simulator | 367038 | [367038-furry-girlfriend-simulator.json](./367038-furry-girlfriend-simulator.json) |
 | Furry Girls Paradise: Love & Fun | 386793 | [386793-furry-girls-paradise-love-and-fun.json](./386793-furry-girls-paradise-love-and-fun.json) |
@@ -15598,6 +15603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
 | Fuuraiki 5 | 335573 | [335573-fuuraiki-5.json](./335573-fuuraiki-5.json) |
 | Fuuu...! | 390168 | [390168-fuuu.json](./390168-fuuu.json) |
+| Fuuun Gokuu Ninden | 126087 | [126087-fuuun-gokuu-ninden.json](./126087-fuuun-gokuu-ninden.json) |
 | Fuuun Gokuu Ninden | 145764 | [145764-fuuun-gokuu-ninden.json](./145764-fuuun-gokuu-ninden.json) |
 | Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
 | Fuuun Shaolin Ken | 376690 | [376690-fuuun-shaolin-ken.json](./376690-fuuun-shaolin-ken.json) |
