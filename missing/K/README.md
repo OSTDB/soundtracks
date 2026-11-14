@@ -5477,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohan: Immortal Sovereigns Special Awards Edition | 209823 | [209823-kohan-immortal-sovereigns-special-awards-edition.json](./209823-kohan-immortal-sovereigns-special-awards-edition.json) |
 | Kohana | 180399 | [180399-kohana.json](./180399-kohana.json) |
+| Kohate | 138876 | [138876-kohate.json](./138876-kohate.json) |
 | Kohctpyktop: Engineer of the People | 402390 | [402390-kohctpyktop-engineer-of-the-people.json](./402390-kohctpyktop-engineer-of-the-people.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohitsuji Hokaku Keikaku! Sweet Boys Life | 289362 | [289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json](./289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json) |
