@@ -11189,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteormath 2 | 130472 | [130472-meteormath-2.json](./130472-meteormath-2.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteoroids 3D | 159961 | [159961-meteoroids-3d.json](./159961-meteoroids-3d.json) |
+| Meteoroids! | 126058 | [126058-meteoroids.json](./126058-meteoroids.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Meteors | 80993 | [80993-meteors.json](./80993-meteors.json) |
 | Meteorus: O Universo em Conflito | 296190 | [296190-meteorus-o-universo-em-conflito.json](./296190-meteorus-o-universo-em-conflito.json) |
@@ -14333,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
+| Mini Royale: Nations | 126094 | [126094-mini-royale-nations.json](./126094-mini-royale-nations.json) |
 | Mini Rugby: World Tour | 364117 | [364117-mini-rugby-world-tour.json](./364117-mini-rugby-world-tour.json) |
 | Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
 | Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
