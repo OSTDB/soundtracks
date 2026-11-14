@@ -2274,6 +2274,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
 | Paraiso Island | 133025 | [133025-paraiso-island.json](./133025-paraiso-island.json) |
+| Paraiso Island: Disaster Relief | 158756 | [158756-paraiso-island-disaster-relief.json](./158756-paraiso-island-disaster-relief.json) |
+| Paraiso Island: Hotel Expansion | 158765 | [158765-paraiso-island-hotel-expansion.json](./158765-paraiso-island-hotel-expansion.json) |
+| Paraiso Island: Job Pass | 158768 | [158768-paraiso-island-job-pass.json](./158768-paraiso-island-job-pass.json) |
+| Paraiso Island: Mysterious Stranger | 158767 | [158767-paraiso-island-mysterious-stranger.json](./158767-paraiso-island-mysterious-stranger.json) |
+| Paraiso Island: Restaurant Expansion | 158766 | [158766-paraiso-island-restaurant-expansion.json](./158766-paraiso-island-restaurant-expansion.json) |
 | Paralax VR Aim Trainer | 172361 | [172361-paralax-vr-aim-trainer.json](./172361-paralax-vr-aim-trainer.json) |
 | ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
 | ParaLily | 126258 | [126258-paralily.json](./126258-paralily.json) |
@@ -14673,6 +14678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pouch | 340596 | [340596-pouch.json](./340596-pouch.json) |
 | Poulet Poulet | 151473 | [151473-poulet-poulet.json](./151473-poulet-poulet.json) |
 | Poultry Panic | 81996 | [81996-poultry-panic.json](./81996-poultry-panic.json) |
+| Poultry Parade | 158791 | [158791-poultry-parade.json](./158791-poultry-parade.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Poultry Princess | 306626 | [306626-poultry-princess.json](./306626-poultry-princess.json) |
 | Poumosa | 406642 | [406642-poumosa.json](./406642-poumosa.json) |
