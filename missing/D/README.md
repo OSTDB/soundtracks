@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Bygone: Castle Defense | 256573 | [256573-days-bygone-castle-defense.json](./256573-days-bygone-castle-defense.json) |
 | Days End | 255495 | [255495-days-end.json](./255495-days-end.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
+| Days Gone 2 | 126104 | [126104-days-gone-2.json](./126104-days-gone-2.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Broken Road | 331216 | [331216-days-gone-broken-road.json](./331216-days-gone-broken-road.json) |
 | Days Gone: Challenge Mode | 321218 | [321218-days-gone-challenge-mode.json](./321218-days-gone-challenge-mode.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicards: A Delicious Card Game | 265379 | [265379-delicards-a-delicious-card-game.json](./265379-delicards-a-delicious-card-game.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
+| Delicious | 126050 | [126050-delicious.json](./126050-delicious.json) |
 | Delicious 2 | 177111 | [177111-delicious-2.json](./177111-delicious-2.json) |
 | Delicious 2 Deluxe | 61382 | [61382-delicious-2-deluxe.json](./61382-delicious-2-deluxe.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
@@ -12361,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Paper Doll: Classy Edition | 284940 | [284940-diy-paper-doll-classy-edition.json](./284940-diy-paper-doll-classy-edition.json) |
 | DIY Paper Doll: Complete Edition | 280604 | [280604-diy-paper-doll-complete-edition.json](./280604-diy-paper-doll-complete-edition.json) |
+| DIY Simulator | 126090 | [126090-diy-simulator.json](./126090-diy-simulator.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
 | DIYCraft2D | 179287 | [179287-diycraft2d.json](./179287-diycraft2d.json) |
@@ -14708,6 +14711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 274167 | [274167-doomsday.json](./274167-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
+| DoomsDay | 126079 | [126079-doomsday.json](./126079-doomsday.json) |
 | DoomsDay | 192161 | [192161-doomsday.json](./192161-doomsday.json) |
 | Doomsday Beans | 277741 | [277741-doomsday-beans.json](./277741-doomsday-beans.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
@@ -19183,6 +19187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
 | DTM Race Driver: Director's Cut | 73371 | [73371-dtm-race-driver-directors-cut.json](./73371-dtm-race-driver-directors-cut.json) |
 | DTT: Defend the Tree | 425179 | [425179-dtt-defend-the-tree.json](./425179-dtt-defend-the-tree.json) |
+| DTX HD | 126083 | [126083-dtx-hd.json](./126083-dtx-hd.json) |
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
 | DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
