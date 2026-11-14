@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimbusfall | 297968 | [297968-nimbusfall.json](./297968-nimbusfall.json) |
 | Nimby Rails | 132749 | [132749-nimby-rails.json](./132749-nimby-rails.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
+| Nimian Legends: Vandgels | 121832 | [121832-nimian-legends-vandgels.json](./121832-nimian-legends-vandgels.json) |
 | Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
 | Nimoyd | 152104 | [152104-nimoyd.json](./152104-nimoyd.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
