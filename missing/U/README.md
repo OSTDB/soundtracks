@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraball | 170897 | [170897-ultraball.json](./170897-ultraball.json) |
 | Ultraball | 79104 | [79104-ultraball.json](./79104-ultraball.json) |
 | Ultraball | 82318 | [82318-ultraball.json](./82318-ultraball.json) |
+| Ultrablast | 114624 | [114624-ultrablast.json](./114624-ultrablast.json) |
 | Ultrabots | 68909 | [68909-ultrabots.json](./68909-ultrabots.json) |
 | Ultrabots: Sanction Earth | 214891 | [214891-ultrabots-sanction-earth.json](./214891-ultrabots-sanction-earth.json) |
 | Ultrabouters | 177242 | [177242-ultrabouters.json](./177242-ultrabouters.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbranomicon | 386166 | [386166-umbranomicon.json](./386166-umbranomicon.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
 | Umbratica Tactics | 244038 | [244038-umbratica-tactics.json](./244038-umbratica-tactics.json) |
+| Umbrella | 114472 | [114472-umbrella.json](./114472-umbrella.json) |
 | Umbrella | 365382 | [365382-umbrella.json](./365382-umbrella.json) |
 | Umbrella Basketball | 174595 | [174595-umbrella-basketball.json](./174595-umbrella-basketball.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
