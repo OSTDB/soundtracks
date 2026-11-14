@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Solitaire 3 | 10476 | [10476-jewel-quest-solitaire-3.json](./10476-jewel-quest-solitaire-3.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Solitaire III | 67120 | [67120-jewel-quest-solitaire-iii.json](./67120-jewel-quest-solitaire-iii.json) |
+| Jewel Quest Solitaire Trio | 98622 | [98622-jewel-quest-solitaire-trio.json](./98622-jewel-quest-solitaire-trio.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
