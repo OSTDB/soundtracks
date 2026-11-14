@@ -11327,6 +11327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Liberation Squad | 155777 | [155777-animal-liberation-squad.json](./155777-animal-liberation-squad.json) |
 | Animal Life: Africa | 122744 | [122744-animal-life-africa.json](./122744-animal-life-africa.json) |
+| Animal Life: Australia | 122454 | [122454-animal-life-australia.json](./122454-animal-life-australia.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
@@ -11345,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Pals Bubble Pop | 147590 | [147590-animal-pals-bubble-pop.json](./147590-animal-pals-bubble-pop.json) |
 | Animal Paradise | 153614 | [153614-animal-paradise.json](./153614-animal-paradise.json) |
+| Animal Paradise Wild | 122453 | [122453-animal-paradise-wild.json](./122453-animal-paradise-wild.json) |
 | Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
 | Animal Party Puzzles: Meet All the Friends | 356524 | [356524-animal-party-puzzles-meet-all-the-friends.json](./356524-animal-party-puzzles-meet-all-the-friends.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
@@ -14263,9 +14265,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: War of Aero | 289185 | [289185-arcade-archives-war-of-aero.json](./289185-arcade-archives-war-of-aero.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Warrior Blade | 327538 | [327538-arcade-archives-warrior-blade.json](./327538-arcade-archives-warrior-blade.json) |
+| Arcade Archives: Water Ski | 122458 | [122458-arcade-archives-water-ski.json](./122458-arcade-archives-water-ski.json) |
 | Arcade Archives: Wild Western | 118579 | [118579-arcade-archives-wild-western.json](./118579-arcade-archives-wild-western.json) |
 | Arcade Archives: Wiz | 135582 | [135582-arcade-archives-wiz.json](./135582-arcade-archives-wiz.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
+| Arcade Archives: X Multiply | 122457 | [122457-arcade-archives-x-multiply.json](./122457-arcade-archives-x-multiply.json) |
 | Arcade Archives: Xevious | 172432 | [172432-arcade-archives-xevious.json](./172432-arcade-archives-xevious.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
 | Arcade Archives: Yie Ar Kung-Fu | 125660 | [125660-arcade-archives-yie-ar-kung-fu.json](./125660-arcade-archives-yie-ar-kung-fu.json) |
