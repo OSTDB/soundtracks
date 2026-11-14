@@ -3613,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maou ga Ochiru Hi | 295047 | [295047-maou-ga-ochiru-hi.json](./295047-maou-ga-ochiru-hi.json) |
 | Maou no Musume-tachi | 109119 | [109119-maou-no-musume-tachi.json](./109119-maou-no-musume-tachi.json) |
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
+| Maou-gun Dai-nana Kouhei-daitai Teisatsu-han | 157254 | [157254-maou-gun-dai-nana-kouhei-daitai-teisatsu-han.json](./157254-maou-gun-dai-nana-kouhei-daitai-teisatsu-han.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Maouisho: La Dolce Vita with Another World's Demon Lord | 279988 | [279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json](./279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json) |
 | Màoxiǎn Shíguāngjī | 148779 | [148779-maoxian-shiguangji.json](./148779-maoxian-shiguangji.json) |
@@ -5450,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters 2 | 33746 | [33746-masked-shooters-2.json](./33746-masked-shooters-2.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
+| Masked Vale | 157235 | [157235-masked-vale.json](./157235-masked-vale.json) |
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
 | Masken | 103551 | [103551-masken.json](./103551-masken.json) |
 | Maskerade: The Deadpan Cry | 304100 | [304100-maskerade-the-deadpan-cry.json](./304100-maskerade-the-deadpan-cry.json) |
@@ -11477,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miaow.Emma | 296977 | [296977-miaow-emma.json](./296977-miaow-emma.json) |
+| Miàoyǔ Liánzhū | 157239 | [157239-miaoyu-lianzhu.json](./157239-miaoyu-lianzhu.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma | 257289 | [257289-miasma.json](./257289-miasma.json) |
 | Miasma 2 | 54205 | [54205-miasma-2.json](./54205-miasma-2.json) |
@@ -19393,6 +19396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Business Simulator | 367733 | [367733-motel-business-simulator.json](./367733-motel-business-simulator.json) |
 | Motel Life Simulator | 219633 | [219633-motel-life-simulator.json](./219633-motel-life-simulator.json) |
 | Motel Manager Simulator | 268254 | [268254-motel-manager-simulator.json](./268254-motel-manager-simulator.json) |
+| Motel Murder | 157232 | [157232-motel-murder.json](./157232-motel-murder.json) |
 | Motel Nightmares | 372965 | [372965-motel-nightmares.json](./372965-motel-nightmares.json) |
 | Motel Owner Simulator | 344289 | [344289-motel-owner-simulator.json](./344289-motel-owner-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
