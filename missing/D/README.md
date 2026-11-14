@@ -9454,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Gambit | 211497 | [211497-dice-gambit.json](./211497-dice-gambit.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
+| Dice Girls: Lying Dice | 159407 | [159407-dice-girls-lying-dice.json](./159407-dice-girls-lying-dice.json) |
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
 | Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
 | Dice Guess | 295089 | [295089-dice-guess.json](./295089-dice-guess.json) |
@@ -17574,6 +17575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream House : Interior Design | 103927 | [103927-dream-house-interior-design.json](./103927-dream-house-interior-design.json) |
 | Dream House Cleaning | 410543 | [410543-dream-house-cleaning.json](./410543-dream-house-cleaning.json) |
 | Dream House Days | 246937 | [246937-dream-house-days.json](./246937-dream-house-days.json) |
+| Dream House Days DX | 159394 | [159394-dream-house-days-dx.json](./159394-dream-house-days-dx.json) |
 | Dream Hunter Toys: Evil Dolls | 227110 | [227110-dream-hunter-toys-evil-dolls.json](./227110-dream-hunter-toys-evil-dolls.json) |
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
 | Dream Inn: Driftwood | 63433 | [63433-dream-inn-driftwood.json](./63433-dream-inn-driftwood.json) |
@@ -18499,6 +18501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
 | Driving School Classics 2019 | 245628 | [245628-driving-school-classics-2019.json](./245628-driving-school-classics-2019.json) |
 | Driving School Original | 120065 | [120065-driving-school-original.json](./120065-driving-school-original.json) |
+| Driving School Sim | 159393 | [159393-driving-school-sim.json](./159393-driving-school-sim.json) |
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
 | Driving School Simulator | 10248 | [10248-driving-school-simulator.json](./10248-driving-school-simulator.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
@@ -20086,6 +20089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
 | Dungeon of Calibris: Demon Orb | 412011 | [412011-dungeon-of-calibris-demon-orb.json](./412011-dungeon-of-calibris-demon-orb.json) |
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
+| Dungeon of Crawl | 159384 | [159384-dungeon-of-crawl.json](./159384-dungeon-of-crawl.json) |
 | Dungeon of Dark | 132444 | [132444-dungeon-of-dark.json](./132444-dungeon-of-dark.json) |
 | Dungeon of Death | 68812 | [68812-dungeon-of-death.json](./68812-dungeon-of-death.json) |
 | Dungeon of Departure | 378235 | [378235-dungeon-of-departure.json](./378235-dungeon-of-departure.json) |
