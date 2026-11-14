@@ -6597,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
 | Airport Simulator | 52386 | [52386-airport-simulator.json](./52386-airport-simulator.json) |
+| Airport Simulator 2 | 102417 | [102417-airport-simulator-2.json](./102417-airport-simulator-2.json) |
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
 | Airport Simulator 2015 | 17771 | [17771-airport-simulator-2015.json](./17771-airport-simulator-2015.json) |
@@ -12634,6 +12635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antirocketh | 104149 | [104149-antirocketh.json](./104149-antirocketh.json) |
 | AntiShatter | 219693 | [219693-antishatter.json](./219693-antishatter.json) |
 | Antishoot | 283918 | [283918-antishoot.json](./283918-antishoot.json) |
+| Antisnake | 102441 | [102441-antisnake.json](./102441-antisnake.json) |
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
 | Antisquad | 9773 | [9773-antisquad.json](./9773-antisquad.json) |
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
@@ -15315,6 +15317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonavis: Kimi ga Mita Stage he | 259201 | [259201-argonavis-kimi-ga-mita-stage-he.json](./259201-argonavis-kimi-ga-mita-stage-he.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
 | Argonus and the Gods of Stone | 118458 | [118458-argonus-and-the-gods-of-stone.json](./118458-argonus-and-the-gods-of-stone.json) |
+| Argos | 102444 | [102444-argos.json](./102444-argos.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
