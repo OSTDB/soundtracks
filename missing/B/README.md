@@ -18909,6 +18909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulk | 390638 | [390638-bulk.json](./390638-bulk.json) |
 | Bulk Dominoes VR: Kinetic Rush | 160141 | [160141-bulk-dominoes-vr-kinetic-rush.json](./160141-bulk-dominoes-vr-kinetic-rush.json) |
 | Bulk Slash | 45462 | [45462-bulk-slash.json](./45462-bulk-slash.json) |
+| Bulkado | 148031 | [148031-bulkado.json](./148031-bulkado.json) |
 | Bulken | 273826 | [273826-bulken.json](./273826-bulken.json) |
 | Bulkhead | 152676 | [152676-bulkhead.json](./152676-bulkhead.json) |
 | Bulky Head: Use your head to smash nasty objects! | 26751 | [26751-bulky-head-use-your-head-to-smash-nasty-objects.json](./26751-bulky-head-use-your-head-to-smash-nasty-objects.json) |
@@ -19120,6 +19121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | BullShoppe | 180157 | [180157-bullshoppe.json](./180157-bullshoppe.json) |
 | Bullshot | 26221 | [26221-bullshot.json](./26221-bullshot.json) |
+| BullSquid | 148021 | [148021-bullsquid.json](./148021-bullsquid.json) |
 | BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Brigade | 347727 | [347727-bully-ball-brigade.json](./347727-bully-ball-brigade.json) |
