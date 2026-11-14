@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
 | Happy Empire: A Bouquet for the Princess | 30918 | [30918-happy-empire-a-bouquet-for-the-princess.json](./30918-happy-empire-a-bouquet-for-the-princess.json) |
 | Happy Endings | 418081 | [418081-happy-endings.json](./418081-happy-endings.json) |
+| Happy Endings | 82209 | [82209-happy-endings.json](./82209-happy-endings.json) |
 | Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
@@ -1848,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Happy Clover | 70635 | [70635-happy-happy-clover.json](./70635-happy-happy-clover.json) |
 | Happy Happy Land | 222792 | [222792-happy-happy-land.json](./222792-happy-happy-land.json) |
 | Happy Harvest | 394106 | [394106-happy-harvest.json](./394106-happy-harvest.json) |
+| Happy Harvest | 82204 | [82204-happy-harvest.json](./82204-happy-harvest.json) |
 | Happy Harvest! | 255797 | [255797-happy-harvest.json](./255797-happy-harvest.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
 | Happy Hippo's World Tour | 123317 | [123317-happy-hippos-world-tour.json](./123317-happy-hippos-world-tour.json) |
@@ -1911,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy picture | 114242 | [114242-happy-picture.json](./114242-happy-picture.json) |
 | Happy Piggy 2 | 370062 | [370062-happy-piggy-2.json](./370062-happy-piggy-2.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
+| Happy Place | 82212 | [82212-happy-place.json](./82212-happy-place.json) |
 | Happy Place Remake | 264734 | [264734-happy-place-remake.json](./264734-happy-place-remake.json) |
 | Happy Poker | 258286 | [258286-happy-poker.json](./258286-happy-poker.json) |
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
@@ -7986,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Haunted House 3 | 98594 | [98594-hidden-object-haunted-house-3.json](./98594-hidden-object-haunted-house-3.json) |
 | Hidden Object: Haunted House 4 | 98592 | [98592-hidden-object-haunted-house-4.json](./98592-hidden-object-haunted-house-4.json) |
 | Hidden Object: Haunted Museum | 98562 | [98562-hidden-object-haunted-museum.json](./98562-hidden-object-haunted-museum.json) |
+| Hidden Object: Haunted Places | 82202 | [82202-hidden-object-haunted-places.json](./82202-hidden-object-haunted-places.json) |
 | Hidden Object: Heathcliff! Christmas Time! | 98649 | [98649-hidden-object-heathcliff-christmas-time.json](./98649-hidden-object-heathcliff-christmas-time.json) |
 | Hidden Object: Hide & Seek | 83651 | [83651-hidden-object-hide-and-seek.json](./83651-hidden-object-hide-and-seek.json) |
 | Hidden Object: Holidays | 98361 | [98361-hidden-object-holidays.json](./98361-hidden-object-holidays.json) |
@@ -8108,19 +8112,34 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Thanksgiving & 3 puzzle games | 98725 | [98725-hidden-objects-thanksgiving-and-3-puzzle-games.json](./98725-hidden-objects-thanksgiving-and-3-puzzle-games.json) |
 | Hidden Objects USA - New York, Florida, Vegas, Hollywood & Puzzle Travel Games | 70901 | [70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json](./70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json) |
 | Hidden Objects with Edgar Allan Poe | 207445 | [207445-hidden-objects-with-edgar-allan-poe.json](./207445-hidden-objects-with-edgar-allan-poe.json) |
+| Hidden Objects: Adventure | 82217 | [82217-hidden-objects-adventure.json](./82217-hidden-objects-adventure.json) |
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
+| Hidden Objects: Chaos in the House | 82229 | [82229-hidden-objects-chaos-in-the-house.json](./82229-hidden-objects-chaos-in-the-house.json) |
+| Hidden Objects: City Adventure | 82232 | [82232-hidden-objects-city-adventure.json](./82232-hidden-objects-city-adventure.json) |
 | Hidden Objects: Coastal Hill Mystery | 115182 | [115182-hidden-objects-coastal-hill-mystery.json](./115182-hidden-objects-coastal-hill-mystery.json) |
+| Hidden Objects: Crime Scene | 82224 | [82224-hidden-objects-crime-scene.json](./82224-hidden-objects-crime-scene.json) |
+| Hidden Objects: Fairyland | 82234 | [82234-hidden-objects-fairyland.json](./82234-hidden-objects-fairyland.json) |
+| Hidden Objects: Fashion Shop | 82236 | [82236-hidden-objects-fashion-shop.json](./82236-hidden-objects-fashion-shop.json) |
+| Hidden Objects: Ghost Town | 82231 | [82231-hidden-objects-ghost-town.json](./82231-hidden-objects-ghost-town.json) |
+| Hidden Objects: House of Fear | 82226 | [82226-hidden-objects-house-of-fear.json](./82226-hidden-objects-house-of-fear.json) |
 | Hidden Objects: Items Find | 405154 | [405154-hidden-objects-items-find.json](./405154-hidden-objects-items-find.json) |
 | Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
+| Hidden Objects: Lost City | 82235 | [82235-hidden-objects-lost-city.json](./82235-hidden-objects-lost-city.json) |
+| Hidden Objects: Magic School | 82221 | [82221-hidden-objects-magic-school.json](./82221-hidden-objects-magic-school.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
 | Hidden Objects: Million Dollar Home | 89317 | [89317-hidden-objects-million-dollar-home.json](./89317-hidden-objects-million-dollar-home.json) |
 | Hidden Objects: Mystery Crimes | 128818 | [128818-hidden-objects-mystery-crimes.json](./128818-hidden-objects-mystery-crimes.json) |
 | Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
+| Hidden Objects: Mystery Story | 82227 | [82227-hidden-objects-mystery-story.json](./82227-hidden-objects-mystery-story.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
 | Hidden Objects: New York Rain Storm - The Pharaohs Treasure Hunt: Spa Massage Meditation Center - California | 88348 | [88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json](./88348-hidden-objects-new-york-rain-storm-the-pharaohs-treasure-hunt-spa-massage-meditation-center-california.json) |
+| Hidden Objects: Ocean | 82225 | [82225-hidden-objects-ocean.json](./82225-hidden-objects-ocean.json) |
+| Hidden Objects: Old Castle | 82219 | [82219-hidden-objects-old-castle.json](./82219-hidden-objects-old-castle.json) |
+| Hidden Objects: Police Detective | 82228 | [82228-hidden-objects-police-detective.json](./82228-hidden-objects-police-detective.json) |
 | Hidden Objects: Romance with Chocolate | 104384 | [104384-hidden-objects-romance-with-chocolate.json](./104384-hidden-objects-romance-with-chocolate.json) |
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
+| Hidden Objects: Room Cleaning | 82223 | [82223-hidden-objects-room-cleaning.json](./82223-hidden-objects-room-cleaning.json) |
 | Hidden Objects: Secret Garden | 98701 | [98701-hidden-objects-secret-garden.json](./98701-hidden-objects-secret-garden.json) |
 | Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
@@ -8131,8 +8150,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: The Witches of Pumpkin Avenue | 91200 | [91200-hidden-objects-the-witches-of-pumpkin-avenue.json](./91200-hidden-objects-the-witches-of-pumpkin-avenue.json) |
 | Hidden Objects: Tranquil Valley | 193618 | [193618-hidden-objects-tranquil-valley.json](./193618-hidden-objects-tranquil-valley.json) |
 | Hidden Objects: Travel London - Farm: Detective | 88669 | [88669-hidden-objects-travel-london-farm-detective.json](./88669-hidden-objects-travel-london-farm-detective.json) |
+| Hidden Objects: Treasure Hunt | 82220 | [82220-hidden-objects-treasure-hunt.json](./82220-hidden-objects-treasure-hunt.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Objects: Wallace & Gromit | 334916 | [334916-hidden-objects-wallace-and-gromit.json](./334916-hidden-objects-wallace-and-gromit.json) |
+| Hidden Objects: Water Park | 82218 | [82218-hidden-objects-water-park.json](./82218-hidden-objects-water-park.json) |
+| Hidden Objects: World of Fairy Tales | 82230 | [82230-hidden-objects-world-of-fairy-tales.json](./82230-hidden-objects-world-of-fairy-tales.json) |
+| Hidden Objects: Zombie | 82233 | [82233-hidden-objects-zombie.json](./82233-hidden-objects-zombie.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
 | Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
@@ -12968,6 +12991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo's House of Horrors | 8881 | [8881-hugos-house-of-horrors.json](./8881-hugos-house-of-horrors.json) |
 | Hugs | 176567 | [176567-hugs.json](./176567-hugs.json) |
 | Hugs | 179542 | [179542-hugs.json](./179542-hugs.json) |
+| Hugs & Cuddles | 82206 | [82206-hugs-and-cuddles.json](./82206-hugs-and-cuddles.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huh?: and the Adventures of Something | 367123 | [367123-huh-and-the-adventures-of-something.json](./367123-huh-and-the-adventures-of-something.json) |
 | Hui-shuo | 349081 | [349081-hui-shuo.json](./349081-hui-shuo.json) |
