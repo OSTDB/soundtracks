@@ -3771,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Brave and the Bold Game Creator | 210354 | [210354-batman-the-brave-and-the-bold-game-creator.json](./210354-batman-the-brave-and-the-bold-game-creator.json) |
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
+| Batman: The Dark Knight | 140095 | [140095-batman-the-dark-knight.json](./140095-batman-the-dark-knight.json) |
 | Batman: The Dark Knight | 283976 | [283976-batman-the-dark-knight.json](./283976-batman-the-dark-knight.json) |
 | Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
 | Batman: The Enemy Within - Episode 1: The Enigma | 91033 | [91033-batman-the-enemy-within-episode-1-the-enigma.json](./91033-batman-the-enemy-within-episode-1-the-enigma.json) |
@@ -12477,6 +12478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Hell 2 | 331033 | [331033-bloody-hell-2.json](./331033-bloody-hell-2.json) |
 | Bloody Hell Hotel | 213557 | [213557-bloody-hell-hotel.json](./213557-bloody-hell-hotel.json) |
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
+| Bloody Horde | 140096 | [140096-bloody-horde.json](./140096-bloody-horde.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Human Freeway | 40610 | [40610-bloody-human-freeway.json](./40610-bloody-human-freeway.json) |
 | Bloody Knuckles Street Boxing | 279505 | [279505-bloody-knuckles-street-boxing.json](./279505-bloody-knuckles-street-boxing.json) |
