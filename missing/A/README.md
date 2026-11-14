@@ -4447,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
+| Aefen Fall | 141252 | [141252-aefen-fall.json](./141252-aefen-fall.json) |
 | Aegean Voyage | 57311 | [57311-aegean-voyage.json](./57311-aegean-voyage.json) |
 | Aegeankai no Shizuku | 194501 | [194501-aegeankai-no-shizuku.json](./194501-aegeankai-no-shizuku.json) |
 | Aegers Borg | 377496 | [377496-aegers-borg.json](./377496-aegers-borg.json) |
@@ -6814,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip | 44279 | [44279-akibas-trip.json](./44279-akibas-trip.json) |
 | Akiba's Trip 2+A | 78472 | [78472-akibas-trip-2-a.json](./78472-akibas-trip-2-a.json) |
 | Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
+| Akiba's Trip Plus | 141285 | [141285-akibas-trip-plus.json](./141285-akibas-trip-plus.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Hellbound & Debriefed | 119460 | [119460-akibas-trip-hellbound-and-debriefed.json](./119460-akibas-trip-hellbound-and-debriefed.json) |
 | Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
@@ -11385,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Use Protocol | 321054 | [321054-animal-use-protocol.json](./321054-animal-use-protocol.json) |
+| Animal Village | 141261 | [141261-animal-village.json](./141261-animal-village.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
 | Animal Voyage: Island Adventure | 38901 | [38901-animal-voyage-island-adventure.json](./38901-animal-voyage-island-adventure.json) |
 | Animal Warfare | 355887 | [355887-animal-warfare.json](./355887-animal-warfare.json) |
@@ -15200,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argonauts Agency: Wrath of Olympus | 371127 | [371127-argonauts-agency-wrath-of-olympus.json](./371127-argonauts-agency-wrath-of-olympus.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
+| Argonavis from BanG Dream! AAside | 141265 | [141265-argonavis-from-bang-dream-aaside.json](./141265-argonavis-from-bang-dream-aaside.json) |
 | Argonavis: Kimi ga Mita Stage he | 259201 | [259201-argonavis-kimi-ga-mita-stage-he.json](./259201-argonavis-kimi-ga-mita-stage-he.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
 | Argonus and the Gods of Stone | 118458 | [118458-argonus-and-the-gods-of-stone.json](./118458-argonus-and-the-gods-of-stone.json) |
@@ -16933,6 +16937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Slicing: Nice Cuts Edition | 284941 | [284941-asmr-slicing-nice-cuts-edition.json](./284941-asmr-slicing-nice-cuts-edition.json) |
 | Asoberu Eigo: Word Magic | 122747 | [122747-asoberu-eigo-word-magic.json](./122747-asoberu-eigo-word-magic.json) |
 | Asoberu Eigo: Word Magic DS | 130497 | [130497-asoberu-eigo-word-magic-ds.json](./130497-asoberu-eigo-word-magic-ds.json) |
+| Asobi | 141304 | [141304-asobi.json](./141304-asobi.json) |
 | Asobi ni Iku yo! Chikyuu Pinch no Konyaku Sengen | 269349 | [269349-asobi-ni-iku-yo-chikyuu-pinch-no-konyaku-sengen.json](./269349-asobi-ni-iku-yo-chikyuu-pinch-no-konyaku-sengen.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asobu Tights | 145964 | [145964-asobu-tights.json](./145964-asobu-tights.json) |
