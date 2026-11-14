@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramel Quest: Meitenkyou no Megami-zou | 374960 | [374960-caramel-quest-meitenkyou-no-megami-zou.json](./374960-caramel-quest-meitenkyou-no-megami-zou.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
+| Caravan Beast | 101841 | [101841-caravan-beast.json](./101841-caravan-beast.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
 | Caravan Chaos | 139526 | [139526-caravan-chaos.json](./139526-caravan-chaos.json) |
 | Caravan Journey | 225957 | [225957-caravan-journey.json](./225957-caravan-journey.json) |
@@ -13462,6 +13463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Meme | 107057 | [107057-color-meme.json](./107057-color-meme.json) |
 | Color Meteoroids | 93449 | [93449-color-meteoroids.json](./93449-color-meteoroids.json) |
 | Color Mismatch Brain Quiz | 390488 | [390488-color-mismatch-brain-quiz.json](./390488-color-mismatch-brain-quiz.json) |
+| Color Move | 101807 | [101807-color-move.json](./101807-color-move.json) |
 | Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Mumble | 243308 | [243308-color-mumble.json](./243308-color-mumble.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
@@ -13917,6 +13919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colortoons Chikara | 175535 | [175535-colortoons-chikara.json](./175535-colortoons-chikara.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
+| Coloruid 2 | 101812 | [101812-coloruid-2.json](./101812-coloruid-2.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | Colorvore | 115245 | [115245-colorvore.json](./115245-colorvore.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
