@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam | 332595 | [332595-jam.json](./332595-jam.json) |
 | Jam Above Jam Below | 234114 | [234114-jam-above-jam-below.json](./234114-jam-above-jam-below.json) |
 | Jam and the Mystery of the Mysteriously Spooky Mansion | 134098 | [134098-jam-and-the-mystery-of-the-mysteriously-spooky-mansion.json](./134098-jam-and-the-mystery-of-the-mysteriously-spooky-mansion.json) |
+| Jam Band | 84426 | [84426-jam-band.json](./84426-jam-band.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
 | Jam Gods | 211538 | [211538-jam-gods.json](./211538-jam-gods.json) |
 | Jam It | 41178 | [41178-jam-it.json](./41178-jam-it.json) |
@@ -1078,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Belly | 286313 | [286313-jelly-belly.json](./286313-jelly-belly.json) |
 | Jelly Belly: Ballistic Beans | 43396 | [43396-jelly-belly-ballistic-beans.json](./43396-jelly-belly-ballistic-beans.json) |
 | Jelly Blocks | 117165 | [117165-jelly-blocks.json](./117165-jelly-blocks.json) |
+| Jelly Blocks | 81533 | [81533-jelly-blocks.json](./81533-jelly-blocks.json) |
 | Jelly Bomber | 107713 | [107713-jelly-bomber.json](./107713-jelly-bomber.json) |
 | Jelly Boy | 23858 | [23858-jelly-boy.json](./23858-jelly-boy.json) |
 | Jelly Boy | 365693 | [365693-jelly-boy.json](./365693-jelly-boy.json) |
