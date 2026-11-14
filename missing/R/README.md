@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: DLC Bundle | 227357 | [227357-railway-empire-dlc-bundle.json](./227357-railway-empire-dlc-bundle.json) |
 | Railway Empire: Down Under | 145498 | [145498-railway-empire-down-under.json](./145498-railway-empire-down-under.json) |
 | Railway Empire: France | 145499 | [145499-railway-empire-france.json](./145499-railway-empire-france.json) |
+| Railway Empire: Germany | 124861 | [124861-railway-empire-germany.json](./124861-railway-empire-germany.json) |
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
 | Railway Empire: Japan | 154942 | [154942-railway-empire-japan.json](./154942-railway-empire-japan.json) |
 | Railway Empire: Mexico | 145501 | [145501-railway-empire-mexico.json](./145501-railway-empire-mexico.json) |
@@ -2857,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Exit | 336728 | [336728-re-exit.json](./336728-re-exit.json) |
 | Re-Fracture: The Prophet’s Awakening | 348410 | [348410-re-fracture-the-prophet-s-awakening.json](./348410-re-fracture-the-prophet-s-awakening.json) |
 | Re-Legion | 81352 | [81352-re-legion.json](./81352-re-legion.json) |
+| Re-Legion: Deluxe Edition | 124860 | [124860-re-legion-deluxe-edition.json](./124860-re-legion-deluxe-edition.json) |
 | Re-Loaded | 72263 | [72263-re-loaded.json](./72263-re-loaded.json) |
 | Re-Mission | 70718 | [70718-re-mission.json](./70718-re-mission.json) |
 | Re-Move Blocks | 57454 | [57454-re-move-blocks.json](./57454-re-move-blocks.json) |
@@ -11901,6 +11903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin Rush | 298211 | [298211-ronin-rush.json](./298211-ronin-rush.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
+| Ronin: Digital Special Edition | 124873 | [124873-ronin-digital-special-edition.json](./124873-ronin-digital-special-edition.json) |
 | Ronin: Samurai Redemption | 216936 | [216936-ronin-samurai-redemption.json](./216936-ronin-samurai-redemption.json) |
 | Ronin: Tales of a Ghost | 187117 | [187117-ronin-tales-of-a-ghost.json](./187117-ronin-tales-of-a-ghost.json) |
 | Ronin: The Last Samurai | 174599 | [174599-ronin-the-last-samurai.json](./174599-ronin-the-last-samurai.json) |
