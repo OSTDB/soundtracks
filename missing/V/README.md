@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veni, Vidi, Vici | 243479 | [243479-veni-vidi-vici.json](./243479-veni-vidi-vici.json) |
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice | 14810 | [14810-venice.json](./14810-venice.json) |
+| Venice 2089 | 136519 | [136519-venice-2089.json](./136519-venice-2089.json) |
 | Venice After Dark | 247794 | [247794-venice-after-dark.json](./247794-venice-after-dark.json) |
 | Venice Bridges | 268821 | [268821-venice-bridges.json](./268821-venice-bridges.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigour | 283216 | [283216-vigour.json](./283216-vigour.json) |
 | Vigtafl | 185036 | [185036-vigtafl.json](./185036-vigtafl.json) |
 | VII | 129121 | [129121-vii.json](./129121-vii.json) |
+| Vikavoltius | 136501 | [136501-vikavoltius.json](./136501-vikavoltius.json) |
 | Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
 | Viki Spotter: Complete Bundle | 268331 | [268331-viki-spotter-complete-bundle.json](./268331-viki-spotter-complete-bundle.json) |
