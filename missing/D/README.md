@@ -15306,6 +15306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
 | Double Detective | 344841 | [344841-double-detective.json](./344841-double-detective.json) |
 | Double Deuce Poker HD | 354972 | [354972-double-deuce-poker-hd.json](./354972-double-deuce-poker-hd.json) |
+| Double Digger | 93279 | [93279-double-digger.json](./93279-double-digger.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
 | Double Doodle | 62797 | [62797-double-doodle.json](./62797-double-doodle.json) |
 | Double Down | 368149 | [368149-double-down.json](./368149-double-down.json) |
