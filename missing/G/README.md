@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pocket Dating | 290734 | [290734-galactic-pocket-dating.json](./290734-galactic-pocket-dating.json) |
 | Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
+| Galactic Protection Squad: Episode 1 | 132884 | [132884-galactic-protection-squad-episode-1.json](./132884-galactic-protection-squad-episode-1.json) |
 | Galactic Protector | 45652 | [45652-galactic-protector.json](./45652-galactic-protector.json) |
 | Galactic Racing Online | 192475 | [192475-galactic-racing-online.json](./192475-galactic-racing-online.json) |
 | Galactic Rangers VR | 123941 | [123941-galactic-rangers-vr.json](./123941-galactic-rangers-vr.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
 | Gates of Siberia | 189900 | [189900-gates-of-siberia.json](./189900-gates-of-siberia.json) |
 | Gates of the Mind | 261733 | [261733-gates-of-the-mind.json](./261733-gates-of-the-mind.json) |
+| Gates of Troy | 132871 | [132871-gates-of-troy.json](./132871-gates-of-troy.json) |
 | Gates of War | 235168 | [235168-gates-of-war.json](./235168-gates-of-war.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates of Zendocon | 6035 | [6035-gates-of-zendocon.json](./6035-gates-of-zendocon.json) |
@@ -8153,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Got-cha Mini Game Festival | 38644 | [38644-got-cha-mini-game-festival.json](./38644-got-cha-mini-game-festival.json) |
 | GOT3D | 412100 | [412100-got3d.json](./412100-got3d.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
+| Gotcha | 132888 | [132888-gotcha.json](./132888-gotcha.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
 | Gotcha Babes X-treme | 57912 | [57912-gotcha-babes-x-treme.json](./57912-gotcha-babes-x-treme.json) |
