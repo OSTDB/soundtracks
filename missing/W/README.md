@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft 2000: Nuclear Epidemic | 233549 | [233549-warcraft-2000-nuclear-epidemic.json](./233549-warcraft-2000-nuclear-epidemic.json) |
 | Warcraft Adventures: Lord of the Clans | 11704 | [11704-warcraft-adventures-lord-of-the-clans.json](./11704-warcraft-adventures-lord-of-the-clans.json) |
+| Warcraft I & II Bundle | 154674 | [154674-warcraft-i-and-ii-bundle.json](./154674-warcraft-i-and-ii-bundle.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Battle.net Edition | 127782 | [127782-warcraft-ii-battle-net-edition.json](./127782-warcraft-ii-battle-net-edition.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
