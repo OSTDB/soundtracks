@@ -8488,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: King's Edition | 220760 | [220760-chivalry-2-kings-edition.json](./220760-chivalry-2-kings-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
+| Chivalry 2: Special Edition | 164620 | [164620-chivalry-2-special-edition.json](./164620-chivalry-2-special-edition.json) |
 | Chivalry 2: Steelbook Edition | 153644 | [153644-chivalry-2-steelbook-edition.json](./153644-chivalry-2-steelbook-edition.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
 | Chivalry Quest: Sword and Flame | 416530 | [416530-chivalry-quest-sword-and-flame.json](./416530-chivalry-quest-sword-and-flame.json) |
@@ -15755,6 +15756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook, Serve, Delicious: Remustard! | 259216 | [259216-cook-serve-delicious-remustard.json](./259216-cook-serve-delicious-remustard.json) |
 | Cook, Serve, Delicious! 1/2 Bundle!! | 301202 | [301202-cook-serve-delicious-1-2-bundle.json](./301202-cook-serve-delicious-1-2-bundle.json) |
 | Cook, Serve, Delicious! 2!! | 23236 | [23236-cook-serve-delicious-2.json](./23236-cook-serve-delicious-2.json) |
+| Cook, Serve, Delicious! 2/3 Bundle!! | 164618 | [164618-cook-serve-delicious-2-3-bundle.json](./164618-cook-serve-delicious-2-3-bundle.json) |
 | Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
 | Cook'n'Slash | 244261 | [244261-cooknslash.json](./244261-cooknslash.json) |
 | Cookard | 298697 | [298697-cookard.json](./298697-cookard.json) |
