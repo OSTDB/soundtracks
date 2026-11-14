@@ -9527,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
 | The Eagle Keita | 384572 | [384572-the-eagle-keita.json](./384572-the-eagle-keita.json) |
 | The Eagle's Heir | 29125 | [29125-the-eagles-heir.json](./29125-the-eagles-heir.json) |
+| The earl octopusor | 101822 | [101822-the-earl-octopusor.json](./101822-the-earl-octopusor.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Early Years of Flight | 21380 | [21380-the-early-years-of-flight.json](./21380-the-early-years-of-flight.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
@@ -15466,6 +15467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moth Inside Me | 333644 | [333644-the-moth-inside-me.json](./333644-the-moth-inside-me.json) |
 | The Moth Oracle's Poem | 135774 | [135774-the-moth-oracles-poem.json](./135774-the-moth-oracles-poem.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
+| The mother of the bird men | 101831 | [101831-the-mother-of-the-bird-men.json](./101831-the-mother-of-the-bird-men.json) |
 | The Mothering | 269193 | [269193-the-mothering.json](./269193-the-mothering.json) |
 | The Moto Racer Collection | 304325 | [304325-the-moto-racer-collection.json](./304325-the-moto-racer-collection.json) |
 | The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
@@ -16420,6 +16422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
 | The Perfect Square | 103596 | [103596-the-perfect-square.json](./103596-the-perfect-square.json) |
+| The Perfect Tower | 101829 | [101829-the-perfect-tower.json](./101829-the-perfect-tower.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perfect Trilogy | 70182 | [70182-the-perfect-trilogy.json](./70182-the-perfect-trilogy.json) |
@@ -21787,6 +21790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thermomorph | 232776 | [232776-thermomorph.json](./232776-thermomorph.json) |
 | Thermonuclear | 167363 | [167363-thermonuclear.json](./167363-thermonuclear.json) |
 | Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
+| Theropods | 101830 | [101830-theropods.json](./101830-theropods.json) |
 | Thesaurus | 326659 | [326659-thesaurus.json](./326659-thesaurus.json) |
 | These are not Heroes | 187239 | [187239-these-are-not-heroes.json](./187239-these-are-not-heroes.json) |
 | These Are Them | 365215 | [365215-these-are-them.json](./365215-these-are-them.json) |
@@ -25533,6 +25537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
 | Time Thief | 235277 | [235277-time-thief.json](./235277-time-thief.json) |
 | Time Titans VR | 237103 | [237103-time-titans-vr.json](./237103-time-titans-vr.json) |
+| Time to be a Hero | 101813 | [101813-time-to-be-a-hero.json](./101813-time-to-be-a-hero.json) |
 | Time to Belong | 271854 | [271854-time-to-belong.json](./271854-time-to-belong.json) |
 | Time to Die | 379802 | [379802-time-to-die.json](./379802-time-to-die.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
