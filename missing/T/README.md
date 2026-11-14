@@ -15461,6 +15461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
 | The Most Difficult Ball Game | 387617 | [387617-the-most-difficult-ball-game.json](./387617-the-most-difficult-ball-game.json) |
 | The Most Epicest Snowball Fight Ever! | 364993 | [364993-the-most-epicest-snowball-fight-ever.json](./364993-the-most-epicest-snowball-fight-ever.json) |
+| The Most Forbidden Love in the World | 98131 | [98131-the-most-forbidden-love-in-the-world.json](./98131-the-most-forbidden-love-in-the-world.json) |
 | The Most Lecherous | 241849 | [241849-the-most-lecherous.json](./241849-the-most-lecherous.json) |
 | The Most Perfect Revenge in the World | 339184 | [339184-the-most-perfect-revenge-in-the-world.json](./339184-the-most-perfect-revenge-in-the-world.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
@@ -22917,6 +22918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Ronin | 292468 | [292468-thunder-ronin.json](./292468-thunder-ronin.json) |
 | Thunder Run: Firestrike | 83321 | [83321-thunder-run-firestrike.json](./83321-thunder-run-firestrike.json) |
+| Thunder Run: War of Clans | 98118 | [98118-thunder-run-war-of-clans.json](./98118-thunder-run-war-of-clans.json) |
 | Thunder Shooting | 195061 | [195061-thunder-shooting.json](./195061-thunder-shooting.json) |
 | Thunder Spheres | 30436 | [30436-thunder-spheres.json](./30436-thunder-spheres.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
@@ -26683,6 +26685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Farm Lands | 361353 | [361353-to-farm-lands.json](./361353-to-farm-lands.json) |
 | To Farm Lands: Sowing Fields | 399652 | [399652-to-farm-lands-sowing-fields.json](./399652-to-farm-lands-sowing-fields.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
+| To Fight | 98106 | [98106-to-fight.json](./98106-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Find Her | 341715 | [341715-to-find-her.json](./341715-to-find-her.json) |
 | To Gather | 176589 | [176589-to-gather.json](./176589-to-gather.json) |
@@ -28624,6 +28627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torinto | 123868 | [123868-torinto.json](./123868-torinto.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
+| Tork and Kral | 98128 | [98128-tork-and-kral.json](./98128-tork-and-kral.json) |
 | Tork: Prehistoric Punk | 6206 | [6206-tork-prehistoric-punk.json](./6206-tork-prehistoric-punk.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
 | Torment | 257751 | [257751-torment.json](./257751-torment.json) |
