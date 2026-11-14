@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Ton Bang Bang | 234722 | [234722-one-ton-bang-bang.json](./234722-one-ton-bang-bang.json) |
 | One Ton Reloaded | 234173 | [234173-one-ton-reloaded.json](./234173-one-ton-reloaded.json) |
+| One touch | 86279 | [86279-one-touch.json](./86279-one-touch.json) |
 | One Tower | 58103 | [58103-one-tower.json](./58103-one-tower.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One Trillion Free Draws | 360317 | [360317-one-trillion-free-draws.json](./360317-one-trillion-free-draws.json) |
