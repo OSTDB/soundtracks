@@ -7957,6 +7957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bharat Police | 374770 | [374770-bharat-police.json](./374770-bharat-police.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | Bhavacakra Grace | 114829 | [114829-bhavacakra-grace.json](./114829-bhavacakra-grace.json) |
+| Bhavacakra Maco | 121096 | [121096-bhavacakra-maco.json](./121096-bhavacakra-maco.json) |
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
 | Bher | 359361 | [359361-bher.json](./359361-bher.json) |
 | Bhop Craze | 201503 | [201503-bhop-craze.json](./201503-bhop-craze.json) |
