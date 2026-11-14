@@ -4709,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark of the Ninja: Special Edition DLC | 26891 | [26891-mark-of-the-ninja-special-edition-dlc.json](./26891-mark-of-the-ninja-special-edition-dlc.json) |
 | Mark of the Void | 220405 | [220405-mark-of-the-void.json](./220405-mark-of-the-void.json) |
 | Mark One | 160121 | [160121-mark-one.json](./160121-mark-one.json) |
+| Mark Out! The Wrestling Card Game | 154103 | [154103-mark-out-the-wrestling-card-game.json](./154103-mark-out-the-wrestling-card-game.json) |
 | Mark Sharp & The Bar Thieves | 341212 | [341212-mark-sharp-and-the-bar-thieves.json](./341212-mark-sharp-and-the-bar-thieves.json) |
 | Mark the Game | 369268 | [369268-mark-the-game.json](./369268-mark-the-game.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
@@ -12527,6 +12528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midori no Makibaoo | 228619 | [228619-midori-no-makibaoo.json](./228619-midori-no-makibaoo.json) |
 | Midsummer | 369285 | [369285-midsummer.json](./369285-midsummer.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
+| Midsummer Madness | 154040 | [154040-midsummer-madness.json](./154040-midsummer-madness.json) |
 | Midsummer Night | 34176 | [34176-midsummer-night.json](./34176-midsummer-night.json) |
 | Midtown Crazy Race | 85290 | [85290-midtown-crazy-race.json](./85290-midtown-crazy-race.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
@@ -21746,6 +21748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musician | 41563 | [41563-musician.json](./41563-musician.json) |
 | Musician | 86748 | [86748-musician.json](./86748-musician.json) |
 | Musician Simulator | 308514 | [308514-musician-simulator.json](./308514-musician-simulator.json) |
+| Musicle | 153538 | [153538-musicle.json](./153538-musicle.json) |
 | Musicle | 205777 | [205777-musicle.json](./205777-musicle.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | MusicRunner | 374574 | [374574-musicrunner.json](./374574-musicrunner.json) |
