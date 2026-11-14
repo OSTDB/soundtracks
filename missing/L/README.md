@@ -7526,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Lockey | 412471 | [412471-lockey.json](./412471-lockey.json) |
 | Lockheart Indigo | 121956 | [121956-lockheart-indigo.json](./121956-lockheart-indigo.json) |
+| Lockheed Martin: Prepar3D | 79992 | [79992-lockheed-martin-prepar3d.json](./79992-lockheed-martin-prepar3d.json) |
 | Lockjaw | 297327 | [297327-lockjaw.json](./297327-lockjaw.json) |
 | Lockpicks-11 | 415331 | [415331-lockpicks-11.json](./415331-lockpicks-11.json) |
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
