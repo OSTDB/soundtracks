@@ -7460,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Board Games DS | 84785 | [84785-best-of-board-games-ds.json](./84785-best-of-board-games-ds.json) |
 | Best of Board Games: Chess | 84981 | [84981-best-of-board-games-chess.json](./84981-best-of-board-games-chess.json) |
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
+| Best of Card Games DS | 98615 | [98615-best-of-card-games-ds.json](./98615-best-of-card-games-ds.json) |
 | Best of Casual Games | 84784 | [84784-best-of-casual-games.json](./84784-best-of-casual-games.json) |
 | Best of Chess: Volume I - American Triumph | 362419 | [362419-best-of-chess-volume-i-american-triumph.json](./362419-best-of-chess-volume-i-american-triumph.json) |
 | Best of Eleven | 202488 | [202488-best-of-eleven.json](./202488-best-of-eleven.json) |
@@ -7697,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade X Evobattle: Digital Beybooster Vol.8 | 409938 | [409938-beyblade-x-evobattle-digital-beybooster-vol-8.json](./409938-beyblade-x-evobattle-digital-beybooster-vol-8.json) |
 | Beyblade X Evobattle: Digital Beybooster Vol.9 | 409939 | [409939-beyblade-x-evobattle-digital-beybooster-vol-9.json](./409939-beyblade-x-evobattle-digital-beybooster-vol-9.json) |
 | Beyblade X Xone | 314959 | [314959-beyblade-x-xone.json](./314959-beyblade-x-xone.json) |
+| Beyblade: Burst God | 98617 | [98617-beyblade-burst-god.json](./98617-beyblade-burst-god.json) |
 | Beyblade: Burst Rivals | 108628 | [108628-beyblade-burst-rivals.json](./108628-beyblade-burst-rivals.json) |
 | Beyblade: Evolution | 21566 | [21566-beyblade-evolution.json](./21566-beyblade-evolution.json) |
 | BeyBlade: Fighting Tournament | 65706 | [65706-beyblade-fighting-tournament.json](./65706-beyblade-fighting-tournament.json) |
@@ -17151,6 +17153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick on the Head | 266101 | [266101-brick-on-the-head.json](./266101-brick-on-the-head.json) |
 | Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
 | Brick People | 65701 | [65701-brick-people.json](./65701-brick-people.json) |
+| Brick Planet | 98636 | [98636-brick-planet.json](./98636-brick-planet.json) |
 | Brick Rage | 243079 | [243079-brick-rage.json](./243079-brick-rage.json) |
 | Brick Red | 271349 | [271349-brick-red.json](./271349-brick-red.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
