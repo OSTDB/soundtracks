@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotrix 2 | 109986 | [109986-zotrix-2.json](./109986-zotrix-2.json) |
 | Zotrix Bundle | 52098 | [52098-zotrix-bundle.json](./52098-zotrix-bundle.json) |
 | Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
+| Zotrix: Solar Division | 96371 | [96371-zotrix-solar-division.json](./96371-zotrix-solar-division.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zou's App | 52300 | [52300-zous-app.json](./52300-zous-app.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
