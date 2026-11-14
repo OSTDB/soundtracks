@@ -5249,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City | 143615 | [143615-knockout-city.json](./143615-knockout-city.json) |
 | Knockout City: Block Party Edition | 169177 | [169177-knockout-city-block-party-edition.json](./169177-knockout-city-block-party-edition.json) |
 | Knockout City: Deluxe Block Party Edition | 169176 | [169176-knockout-city-deluxe-block-party-edition.json](./169176-knockout-city-deluxe-block-party-edition.json) |
+| Knockout City: Deluxe Edition | 148032 | [148032-knockout-city-deluxe-edition.json](./148032-knockout-city-deluxe-edition.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Knockout City: Season 1 - Welcome to Knockout City | 159120 | [159120-knockout-city-season-1-welcome-to-knockout-city.json](./159120-knockout-city-season-1-welcome-to-knockout-city.json) |
 | Knockout City: Season 2 - Fight at the Movies | 159118 | [159118-knockout-city-season-2-fight-at-the-movies.json](./159118-knockout-city-season-2-fight-at-the-movies.json) |
