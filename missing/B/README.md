@@ -13860,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Crew: U.S. Army Air Forces | 140184 | [140184-bomber-crew-u-s-army-air-forces.json](./140184-bomber-crew-u-s-army-air-forces.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
+| Bomber Fox | 127384 | [127384-bomber-fox.json](./127384-bomber-fox.json) |
 | Bomber Friends | 114677 | [114677-bomber-friends.json](./114677-bomber-friends.json) |
 | Bomber Hehhe | 46363 | [46363-bomber-hehhe.json](./46363-bomber-hehhe.json) |
 | Bomber Hero | 101192 | [101192-bomber-hero.json](./101192-bomber-hero.json) |
@@ -15056,6 +15057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottle: Pilgrim Redux | 254088 | [254088-bottle-pilgrim-redux.json](./254088-bottle-pilgrim-redux.json) |
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
+| Bottler3000 | 127408 | [127408-bottler3000.json](./127408-bottler3000.json) |
 | Bottles to the Ground | 271973 | [271973-bottles-to-the-ground.json](./271973-bottles-to-the-ground.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
 | Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
@@ -17621,6 +17623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Minds | 249607 | [249607-broken-minds.json](./249607-broken-minds.json) |
 | Broken Needle | 351169 | [351169-broken-needle.json](./351169-broken-needle.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
+| Broken of Darkness | 127399 | [127399-broken-of-darkness.json](./127399-broken-of-darkness.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Path | 154443 | [154443-broken-path.json](./154443-broken-path.json) |
@@ -17984,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | Bryant's Freeski | 164204 | [164204-bryants-freeski.json](./164204-bryants-freeski.json) |
 | Bryce Tiles | 236740 | [236740-bryce-tiles.json](./236740-bryce-tiles.json) |
+| Bryce's Movement Engine 1 | 127423 | [127423-bryces-movement-engine-1.json](./127423-bryces-movement-engine-1.json) |
 | Brytag Studio | 152449 | [152449-brytag-studio.json](./152449-brytag-studio.json) |
 | Bryte | 80252 | [80252-bryte.json](./80252-bryte.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
