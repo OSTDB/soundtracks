@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-14T23:41:20.413Z",
-  "total_soundtracks": 3311,
+  "generated_at": "2026-11-14T23:46:46.554Z",
+  "total_soundtracks": 3320,
   "games": [
     {
       "igdb_id": 7522,
@@ -3059,6 +3059,20 @@
       ]
     },
     {
+      "igdb_id": 204645,
+      "game_name": "BackfireWall",
+      "game_url": "https://ostdb.net/games/backfirewall",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f7827dada5ea701853bc1df3",
+      "albums": [
+        {
+          "album_name": "Backfirewall (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0QJcQdc8GPPjdgPwDbQ2md",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 178264,
       "game_name": "Bad End Theater",
       "game_url": "https://ostdb.net/games/bad-end-theater",
@@ -4121,6 +4135,20 @@
       ]
     },
     {
+      "igdb_id": 213287,
+      "game_name": "Biomorph",
+      "game_url": "https://ostdb.net/games/biomorph",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735da0b002a198fd8d355d528d",
+      "albums": [
+        {
+          "album_name": "Biomorph (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5JadVoGhn8PamXP33QaVBi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 54842,
       "game_name": "Biomutant",
       "game_url": "https://ostdb.net/games/biomutant",
@@ -4922,6 +4950,20 @@
           "album_name": "Borderlands: The Pre-Sequel - Claptastic Voyage (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4w6dJISMPFbanSqo3wafmL",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 250809,
+      "game_name": "Bore Blasters",
+      "game_url": "https://ostdb.net/games/bore-blasters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732f1f09979fe343ede514dd51",
+      "albums": [
+        {
+          "album_name": "BORE BLASTERS (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2baeEXJNvrfCK4bhlcKEiS",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -5773,6 +5815,20 @@
       ]
     },
     {
+      "igdb_id": 248740,
+      "game_name": "Captain America: Super Soldier",
+      "game_url": "https://ostdb.net/games/captain-america-super-soldier",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dda38c0f397468277157e8c4",
+      "albums": [
+        {
+          "album_name": "Captain America Super Soldier (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6D0YOjvriLoeOWy3zzHjbT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 145029,
       "game_name": "Caravan SandWitch",
       "game_url": "https://ostdb.net/games/caravan-sandwitch",
@@ -5999,6 +6055,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4",
           "album_link_url": "https://album.link/i/1762343344"
+        }
+      ]
+    },
+    {
+      "igdb_id": 219095,
+      "game_name": "Cavern of Dreams",
+      "game_url": "https://ostdb.net/games/cavern-of-dreams",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a416206127902302cd16e6f",
+      "albums": [
+        {
+          "album_name": "Cavern of Dreams (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ITU1DYoWe9Zl1xjUziCkj",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -7655,6 +7725,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cthulhu-the-cosmic-abyss-original-soundtrack-feat-tina-guo/1894271902?uo=4",
           "album_link_url": "https://album.link/i/1894271902"
+        }
+      ]
+    },
+    {
+      "igdb_id": 211330,
+      "game_name": "Cuisineer",
+      "game_url": "https://ostdb.net/games/cuisineer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5c8ff14ea727e755508df27",
+      "albums": [
+        {
+          "album_name": "Cuisineer: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1j3DdZ3mUo4pKhnBYRhrY6",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -13709,6 +13793,20 @@
       ]
     },
     {
+      "igdb_id": 152051,
+      "game_name": "Frogun",
+      "game_url": "https://ostdb.net/games/frogun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27316879dd6f371ceac9f4f3209",
+      "albums": [
+        {
+          "album_name": "Frogun Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1Lb82zadlcJ94haFbv4mL3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 157916,
       "game_name": "From Space",
       "game_url": "https://ostdb.net/games/from-space",
@@ -19553,6 +19651,20 @@
         {
           "album_name": "Let's Find Larry! (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4v1AARP98h337tzn1m44ui",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 242101,
+      "game_name": "Let's! Revolution!",
+      "game_url": "https://ostdb.net/games/lets-revolution",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27393f012cd6d839ea269e4bcf8",
+      "albums": [
+        {
+          "album_name": "Let's! Revolution! (Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/66w59pF7JYXD6FwjDrFwV7",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26049,6 +26161,20 @@
         {
           "album_name": "Pixel Piracy Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4TmkhWJalPzZXqY04Hzpty",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 242384,
+      "game_name": "Pixel Ripped 1978",
+      "game_url": "https://ostdb.net/games/pixel-ripped-1978",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a53be3abe5f05db5371b37b",
+      "albums": [
+        {
+          "album_name": "Pixel Ripped 1978 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/351Y2EfuXN30B9PnPCVuaR",
           "apple_music_url": "",
           "album_link_url": ""
         }
