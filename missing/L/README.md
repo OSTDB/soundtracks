@@ -5134,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifescape 2: Bodybionics | 351552 | [351552-lifescape-2-bodybionics.json](./351552-lifescape-2-bodybionics.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
+| Lifeslide | 111101 | [111101-lifeslide.json](./111101-lifeslide.json) |
 | Lifespace Traveler | 226482 | [226482-lifespace-traveler.json](./226482-lifespace-traveler.json) |
 | Lifespan | 173419 | [173419-lifespan.json](./173419-lifespan.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil Ye Land | 328123 | [328123-lil-ye-land.json](./328123-lil-ye-land.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
+| Lil' Arena | 111275 | [111275-lil-arena.json](./111275-lil-arena.json) |
 | Lil' Blue Buddy | 44249 | [44249-lil-blue-buddy.json](./44249-lil-blue-buddy.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Guardsman | 243914 | [243914-lil-guardsman.json](./243914-lil-guardsman.json) |
