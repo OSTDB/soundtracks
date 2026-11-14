@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
 | Sacred Citadel: Jungle Hunt | 53569 | [53569-sacred-citadel-jungle-hunt.json](./53569-sacred-citadel-jungle-hunt.json) |
+| Sacred Cubes | 158248 | [158248-sacred-cubes.json](./158248-sacred-cubes.json) |
 | Sacred Cubes 2 | 156833 | [156833-sacred-cubes-2.json](./156833-sacred-cubes-2.json) |
 | Sacred Curse | 188970 | [188970-sacred-curse.json](./188970-sacred-curse.json) |
 | Sacred Dark | 327383 | [327383-sacred-dark.json](./327383-sacred-dark.json) |
