@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | %100 | 83221 | [83221-100.json](./83221-100.json) |
 | %s, Computer Love | 134302 | [134302-s-computer-love.json](./134302-s-computer-love.json) |
 | ^_^ | 165499 | [165499-.json](./165499-.json) |
+| + = x | 145730 | [145730-x.json](./145730-x.json) |
 | + Fence | 347176 | [347176-fence.json](./347176-fence.json) |
 | +1 | 308928 | [308928-1.json](./308928-1.json) |
 | +1% | 320805 | [320805-1.json](./320805-1.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Impossible Levels | 33054 | [33054-30-impossible-levels.json](./33054-30-impossible-levels.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 in 1 Game Collection Vol.1 | 135976 | [135976-30-in-1-game-collection-vol-1.json](./135976-30-in-1-game-collection-vol-1.json) |
+| 30 Millions D'amis | 145700 | [145700-30-millions-damis.json](./145700-30-millions-damis.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
 | 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
 | 30 minutes until my brain dies | 358080 | [358080-30-minutes-until-my-brain-dies.json](./358080-30-minutes-until-my-brain-dies.json) |
