@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephant Rampage | 253250 | [253250-elephant-rampage.json](./253250-elephant-rampage.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elephant Rave 2 | 265084 | [265084-elephant-rave-2.json](./265084-elephant-rave-2.json) |
+| Elephant Simulator | 90977 | [90977-elephant-simulator.json](./90977-elephant-simulator.json) |
 | Elephant's Graveyard | 195463 | [195463-elephants-graveyard.json](./195463-elephants-graveyard.json) |
 | Elephantastic | 256397 | [256397-elephantastic.json](./256397-elephantastic.json) |
 | Elephantasy | 143407 | [143407-elephantasy.json](./143407-elephantasy.json) |
@@ -5409,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
 | Erik | 354577 | [354577-erik.json](./354577-erik.json) |
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
+| Erika | 91464 | [91464-erika.json](./91464-erika.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Erika to Satoru no Yume Bouken | 48508 | [48508-erika-to-satoru-no-yume-bouken.json](./48508-erika-to-satoru-no-yume-bouken.json) |
 | Eriksholm: The Stolen Dream | 305107 | [305107-eriksholm-the-stolen-dream.json](./305107-eriksholm-the-stolen-dream.json) |
