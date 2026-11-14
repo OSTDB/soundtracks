@@ -4042,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vortex Escape | 156549 | [156549-vortex-escape.json](./156549-vortex-escape.json) |
 | Vortex of Hostility | 93998 | [93998-vortex-of-hostility.json](./93998-vortex-of-hostility.json) |
+| Vortex of Pain | 111120 | [111120-vortex-of-pain.json](./111120-vortex-of-pain.json) |
 | Vortex Point 2: Nensha | 95980 | [95980-vortex-point-2-nensha.json](./95980-vortex-point-2-nensha.json) |
 | Vortex Point 3: Lake Monsters | 95979 | [95979-vortex-point-3-lake-monsters.json](./95979-vortex-point-3-lake-monsters.json) |
 | Vortex Point 4: The Golem | 95978 | [95978-vortex-point-4-the-golem.json](./95978-vortex-point-4-the-golem.json) |
