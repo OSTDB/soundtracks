@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack Walker: Ethereal | 158332 | [158332-jack-walker-ethereal.json](./158332-jack-walker-ethereal.json) |
 | Jack-In-A-Castle | 118440 | [118440-jack-in-a-castle.json](./118440-jack-in-a-castle.json) |
+| Jack-O-Lantern Covers of Darkness | 127383 | [127383-jack-o-lantern-covers-of-darkness.json](./127383-jack-o-lantern-covers-of-darkness.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
 | Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
