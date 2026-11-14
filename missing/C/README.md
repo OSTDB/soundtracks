@@ -2194,10 +2194,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Jun Misugi | 226547 | [226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json](./226547-captain-tsubasa-rise-of-new-champions-jun-misugi.json) |
 | Captain Tsubasa: Rise of New Champions - Kojiro Hyuga | 226548 | [226548-captain-tsubasa-rise-of-new-champions-kojiro-hyuga.json](./226548-captain-tsubasa-rise-of-new-champions-kojiro-hyuga.json) |
+| Captain Tsubasa: Rise of New Champions - Mark Owairan | 167745 | [167745-captain-tsubasa-rise-of-new-champions-mark-owairan.json](./167745-captain-tsubasa-rise-of-new-champions-mark-owairan.json) |
+| Captain Tsubasa: Rise of New Champions - Pepe | 167743 | [167743-captain-tsubasa-rise-of-new-champions-pepe.json](./167743-captain-tsubasa-rise-of-new-champions-pepe.json) |
+| Captain Tsubasa: Rise of New Champions - Ricardo Espadas | 167746 | [167746-captain-tsubasa-rise-of-new-champions-ricardo-espadas.json](./167746-captain-tsubasa-rise-of-new-champions-ricardo-espadas.json) |
+| Captain Tsubasa: Rise of New Champions - Ryoma Hino | 167742 | [167742-captain-tsubasa-rise-of-new-champions-ryoma-hino.json](./167742-captain-tsubasa-rise-of-new-champions-ryoma-hino.json) |
+| Captain Tsubasa: Rise of New Champions - Shingo Aoi | 167738 | [167738-captain-tsubasa-rise-of-new-champions-shingo-aoi.json](./167738-captain-tsubasa-rise-of-new-champions-shingo-aoi.json) |
+| Captain Tsubasa: Rise of New Champions - Singprasert Bunnaak | 167740 | [167740-captain-tsubasa-rise-of-new-champions-singprasert-bunnaak.json](./167740-captain-tsubasa-rise-of-new-champions-singprasert-bunnaak.json) |
 | Captain Tsubasa: Rise of New Champions - Special Edition | 139856 | [139856-captain-tsubasa-rise-of-new-champions-special-edition.json](./139856-captain-tsubasa-rise-of-new-champions-special-edition.json) |
+| Captain Tsubasa: Rise of New Champions - Stefan Levin | 167744 | [167744-captain-tsubasa-rise-of-new-champions-stefan-levin.json](./167744-captain-tsubasa-rise-of-new-champions-stefan-levin.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
+| Captain Tsubasa: Rise of New Champions - Taichi Nakanishi | 167739 | [167739-captain-tsubasa-rise-of-new-champions-taichi-nakanishi.json](./167739-captain-tsubasa-rise-of-new-champions-taichi-nakanishi.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
+| Captain Tsubasa: Rise of New Champions - Xiao Junguang | 167741 | [167741-captain-tsubasa-rise-of-new-champions-xiao-junguang.json](./167741-captain-tsubasa-rise-of-new-champions-xiao-junguang.json) |
 | Captain Tsubasa: Zero - Showdown! Miracle Shoot | 233414 | [233414-captain-tsubasa-zero-showdown-miracle-shoot.json](./233414-captain-tsubasa-zero-showdown-miracle-shoot.json) |
 | Captain U | 186940 | [186940-captain-u.json](./186940-captain-u.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
@@ -14895,6 +14904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict FPS | 306208 | [306208-conflict-fps.json](./306208-conflict-fps.json) |
 | Conflict in Vietnam | 26153 | [26153-conflict-in-vietnam.json](./26153-conflict-in-vietnam.json) |
 | Conflict of Heroes: Ghost Divisions | 174514 | [174514-conflict-of-heroes-ghost-divisions.json](./174514-conflict-of-heroes-ghost-divisions.json) |
+| Conflict of Heroes: Storms of Steel | 167345 | [167345-conflict-of-heroes-storms-of-steel.json](./167345-conflict-of-heroes-storms-of-steel.json) |
 | Conflict of Lords | 267809 | [267809-conflict-of-lords.json](./267809-conflict-of-lords.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
