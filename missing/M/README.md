@@ -5799,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzles - Vintage | 213773 | [213773-master-of-pieces-jigsaw-puzzles-vintage.json](./213773-master-of-pieces-jigsaw-puzzles-vintage.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
 | Master of Puppets | 235690 | [235690-master-of-puppets.json](./235690-master-of-puppets.json) |
+| Master of Puppets | 98107 | [98107-master-of-puppets.json](./98107-master-of-puppets.json) |
 | Master of Refraction | 153163 | [153163-master-of-refraction.json](./153163-master-of-refraction.json) |
 | Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
 | Master of Secrets: Dark Europe | 113860 | [113860-master-of-secrets-dark-europe.json](./113860-master-of-secrets-dark-europe.json) |
@@ -9385,6 +9386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meian | 416759 | [416759-meian.json](./416759-meian.json) |
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
+| Meida!! | 98100 | [98100-meida.json](./98100-meida.json) |
 | MeiErWo Plan | 385987 | [385987-meierwo-plan.json](./385987-meierwo-plan.json) |
 | Meifumado | 176026 | [176026-meifumado.json](./176026-meifumado.json) |
 | Meiga to Tanoshimu Otona no Machigai Sagashi | 222476 | [222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json](./222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json) |
