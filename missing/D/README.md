@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonum | 224564 | [224564-daemonum.json](./224564-daemonum.json) |
 | Daemonus | 273247 | [273247-daemonus.json](./273247-daemonus.json) |
 | Daenerys Doesn’t Want Hentai | 367376 | [367376-daenerys-doesn-t-want-hentai.json](./367376-daenerys-doesn-t-want-hentai.json) |
+| Daenerys Miracle | 157755 | [157755-daenerys-miracle.json](./157755-daenerys-miracle.json) |
 | Daescent | 408162 | [408162-daescent.json](./408162-daescent.json) |
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
