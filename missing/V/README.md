@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vainglory | 13174 | [13174-vainglory.json](./13174-vainglory.json) |
 | Vainglory 5V5 | 88078 | [88078-vainglory-5v5.json](./88078-vainglory-5v5.json) |
 | Vainglory All Stars | 136750 | [136750-vainglory-all-stars.json](./136750-vainglory-all-stars.json) |
+| Vainly | 154111 | [154111-vainly.json](./154111-vainly.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
 | Vairon's Wrath | 33256 | [33256-vairons-wrath.json](./33256-vairons-wrath.json) |
 | Vaitz Blade | 37469 | [37469-vaitz-blade.json](./37469-vaitz-blade.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ven VR Adventure | 129938 | [129938-ven-vr-adventure.json](./129938-ven-vr-adventure.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
 | Vena | 378561 | [378561-vena.json](./378561-vena.json) |
+| Venaitura | 154110 | [154110-venaitura.json](./154110-venaitura.json) |
 | Venal Soul: Chapter One | 99132 | [99132-venal-soul-chapter-one.json](./99132-venal-soul-chapter-one.json) |
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
 | Venari | 128434 | [128434-venari.json](./128434-venari.json) |
