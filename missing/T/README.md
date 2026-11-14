@@ -5796,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
 | That’s Not My Mom | 409739 | [409739-that-s-not-my-mom.json](./409739-that-s-not-my-mom.json) |
 | That's Not Your Neighbor | 380939 | [380939-thats-not-your-neighbor.json](./380939-thats-not-your-neighbor.json) |
+| That's Pretty Clever | 119814 | [119814-thats-pretty-clever.json](./119814-thats-pretty-clever.json) |
 | That's QT | 256319 | [256319-thats-qt.json](./256319-thats-qt.json) |
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
@@ -12059,6 +12060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
+| The Hunters Journals: Vile Philosophy | 120437 | [120437-the-hunters-journals-vile-philosophy.json](./120437-the-hunters-journals-vile-philosophy.json) |
 | The Hunting God | 51418 | [51418-the-hunting-god.json](./51418-the-hunting-god.json) |
 | The Hunting! | 339195 | [339195-the-hunting.json](./339195-the-hunting.json) |
 | The Huntress of the Hollow | 108934 | [108934-the-huntress-of-the-hollow.json](./108934-the-huntress-of-the-hollow.json) |
@@ -16508,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
 | The Pit Is Hungry | 418320 | [418320-the-pit-is-hungry.json](./418320-the-pit-is-hungry.json) |
+| The PIT: Broken Bones | 119813 | [119813-the-pit-broken-bones.json](./119813-the-pit-broken-bones.json) |
 | The Pit: Infinity | 128068 | [128068-the-pit-infinity.json](./128068-the-pit-infinity.json) |
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
@@ -17312,6 +17315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Righteous Scar | 322685 | [322685-the-righteous-scar.json](./322685-the-righteous-scar.json) |
+| The Ring of Truth | 119831 | [119831-the-ring-of-truth.json](./119831-the-ring-of-truth.json) |
 | The Ring: Terror's Realm | 45832 | [45832-the-ring-terrors-realm.json](./45832-the-ring-terrors-realm.json) |
 | The Ringing of Twilight | 334925 | [334925-the-ringing-of-twilight.json](./334925-the-ringing-of-twilight.json) |
 | The Rings of Powder | 251790 | [251790-the-rings-of-powder.json](./251790-the-rings-of-powder.json) |
@@ -21670,6 +21674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There was something here | 183873 | [183873-there-was-something-here.json](./183873-there-was-something-here.json) |
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There Was the Moon | 135628 | [135628-there-was-the-moon.json](./135628-there-was-the-moon.json) |
+| There Will Be Ink | 119846 | [119846-there-will-be-ink.json](./119846-there-will-be-ink.json) |
 | There Will Be Light | 347186 | [347186-there-will-be-light.json](./347186-there-will-be-light.json) |
 | There Will Be No Turkey This Christmas | 185783 | [185783-there-will-be-no-turkey-this-christmas.json](./185783-there-will-be-no-turkey-this-christmas.json) |
 | There Won't be Light | 196911 | [196911-there-wont-be-light.json](./196911-there-wont-be-light.json) |
@@ -29754,6 +29759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
+| Tower Ascend | 119860 | [119860-tower-ascend.json](./119860-tower-ascend.json) |
 | Tower Ascent | 30393 | [30393-tower-ascent.json](./30393-tower-ascent.json) |
 | Tower Attack | 174056 | [174056-tower-attack.json](./174056-tower-attack.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
@@ -33358,6 +33364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Riddles: Trip to India | 29230 | [29230-travel-riddles-trip-to-india.json](./29230-travel-riddles-trip-to-india.json) |
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
+| Travel story | 119864 | [119864-travel-story.json](./119864-travel-story.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
 | Travel the Words | 205736 | [205736-travel-the-words.json](./205736-travel-the-words.json) |
 | Travel to Australia | 293160 | [293160-travel-to-australia.json](./293160-travel-to-australia.json) |
