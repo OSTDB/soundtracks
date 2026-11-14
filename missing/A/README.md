@@ -16003,6 +16003,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
 | Arslan Senki | 79467 | [79467-arslan-senki.json](./79467-arslan-senki.json) |
 | Arslan: The Warriors of Legend | 11489 | [11489-arslan-the-warriors-of-legend.json](./11489-arslan-the-warriors-of-legend.json) |
+| Arslan: The Warriors of Legend - Scenario Set 1 | 167940 | [167940-arslan-the-warriors-of-legend-scenario-set-1.json](./167940-arslan-the-warriors-of-legend-scenario-set-1.json) |
+| Arslan: The Warriors of Legend - Scenario Set 2 | 167943 | [167943-arslan-the-warriors-of-legend-scenario-set-2.json](./167943-arslan-the-warriors-of-legend-scenario-set-2.json) |
+| Arslan: The Warriors of Legend - Scenario Set 3 | 167934 | [167934-arslan-the-warriors-of-legend-scenario-set-3.json](./167934-arslan-the-warriors-of-legend-scenario-set-3.json) |
+| Arslan: The Warriors of Legend - Scenario Set 4 | 167942 | [167942-arslan-the-warriors-of-legend-scenario-set-4.json](./167942-arslan-the-warriors-of-legend-scenario-set-4.json) |
+| Arslan: The Warriors of Legend - Scenario Set 5 | 167941 | [167941-arslan-the-warriors-of-legend-scenario-set-5.json](./167941-arslan-the-warriors-of-legend-scenario-set-5.json) |
+| Arslan: The Warriors of Legend - Skill Card Set 1 | 167939 | [167939-arslan-the-warriors-of-legend-skill-card-set-1.json](./167939-arslan-the-warriors-of-legend-skill-card-set-1.json) |
+| Arslan: The Warriors of Legend - Skill Card Set 2 | 167945 | [167945-arslan-the-warriors-of-legend-skill-card-set-2.json](./167945-arslan-the-warriors-of-legend-skill-card-set-2.json) |
+| Arslan: The Warriors of Legend - Skill Card Set 3 | 167944 | [167944-arslan-the-warriors-of-legend-skill-card-set-3.json](./167944-arslan-the-warriors-of-legend-skill-card-set-3.json) |
 | ARSoccer | 343471 | [343471-arsoccer.json](./343471-arsoccer.json) |
 | Arsolid Productions | 201660 | [201660-arsolid-productions.json](./201660-arsolid-productions.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
