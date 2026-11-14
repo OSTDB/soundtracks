@@ -8809,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Defense: Fragmented Reality | 35201 | [35201-world-defense-fragmented-reality.json](./35201-world-defense-fragmented-reality.json) |
 | World Derby | 46305 | [46305-world-derby.json](./46305-world-derby.json) |
 | World Destroyers | 30702 | [30702-world-destroyers.json](./30702-world-destroyers.json) |
+| World Destruction League: Thunder Tanks | 140070 | [140070-world-destruction-league-thunder-tanks.json](./140070-world-destruction-league-thunder-tanks.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
 | World Domination wit Cam | 309239 | [309239-world-domination-wit-cam.json](./309239-world-domination-wit-cam.json) |
 | World Drawn | 322822 | [322822-world-drawn.json](./322822-world-drawn.json) |
