@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfbrick Sports: Football | 336282 | [336282-halfbrick-sports-football.json](./336282-halfbrick-sports-football.json) |
 | HalfLight | 83971 | [83971-halflight.json](./83971-halflight.json) |
 | Halfling | 316562 | [316562-halfling.json](./316562-halfling.json) |
+| Halfling Tycoon | 101843 | [101843-halfling-tycoon.json](./101843-halfling-tycoon.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
 | Halfpipe Hero | 113978 | [113978-halfpipe-hero.json](./113978-halfpipe-hero.json) |
@@ -7250,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | HexaLife | 158117 | [158117-hexalife.json](./158117-hexalife.json) |
 | Hexalith | 350702 | [350702-hexalith.json](./350702-hexalith.json) |
+| Hexallin | 101818 | [101818-hexallin.json](./101818-hexallin.json) |
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
 | Hexaluga: Dungeons and Hunting | 101400 | [101400-hexaluga-dungeons-and-hunting.json](./101400-hexaluga-dungeons-and-hunting.json) |
 | Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
@@ -8853,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Defender | 349933 | [349933-hill-defender.json](./349933-hill-defender.json) |
 | Hill Dig: The Boring Adventure | 249900 | [249900-hill-dig-the-boring-adventure.json](./249900-hill-dig-the-boring-adventure.json) |
 | Hill Dirt Master 3 | 257871 | [257871-hill-dirt-master-3.json](./257871-hill-dirt-master-3.json) |
+| Hill of the King | 101809 | [101809-hill-of-the-king.json](./101809-hill-of-the-king.json) |
 | Hill Quest | 81915 | [81915-hill-quest.json](./81915-hill-quest.json) |
 | Hill Racer | 106760 | [106760-hill-racer.json](./106760-hill-racer.json) |
 | Hill Racer Champions | 106768 | [106768-hill-racer-champions.json](./106768-hill-racer-champions.json) |
