@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lander | 94300 | [94300-lander.json](./94300-lander.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Lander Odyssey | 199229 | [199229-lander-odyssey.json](./199229-lander-odyssey.json) |
+| Landers: Black Moon | 155736 | [155736-landers-black-moon.json](./155736-landers-black-moon.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
 | Landflix Odyssey | 86450 | [86450-landflix-odyssey.json](./86450-landflix-odyssey.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Year: March | 331790 | [331790-leap-year-march.json](./331790-leap-year-march.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
 | Leapbound | 413883 | [413883-leapbound.json](./413883-leapbound.json) |
+| Leaper | 155760 | [155760-leaper.json](./155760-leaper.json) |
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | Leapfrog | 310992 | [310992-leapfrog.json](./310992-leapfrog.json) |
 | Leapfrog 2-in-1 Leaptop Touch | 288929 | [288929-leapfrog-2-in-1-leaptop-touch.json](./288929-leapfrog-2-in-1-leaptop-touch.json) |
@@ -7910,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
 | Lonely Arts | 132577 | [132577-lonely-arts.json](./132577-lonely-arts.json) |
 | Lonely Astronaut | 76303 | [76303-lonely-astronaut.json](./76303-lonely-astronaut.json) |
+| Lonely Birds | 155739 | [155739-lonely-birds.json](./155739-lonely-birds.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Chess | 181628 | [181628-lonely-chess.json](./181628-lonely-chess.json) |
 | Lonely Christmas | 326140 | [326140-lonely-christmas.json](./326140-lonely-christmas.json) |
