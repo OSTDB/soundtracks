@@ -5255,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Trainer: Cooking | 85049 | [85049-personal-trainer-cooking.json](./85049-personal-trainer-cooking.json) |
 | Personal Trainer: Math | 78996 | [78996-personal-trainer-math.json](./78996-personal-trainer-math.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
+| Personal Trip to the Moon | 128697 | [128697-personal-trip-to-the-moon.json](./128697-personal-trip-to-the-moon.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
 | Personality Dating Sim | 157118 | [157118-personality-dating-sim.json](./157118-personality-dating-sim.json) |
 | PersoNO | 252911 | [252911-persono.json](./252911-persono.json) |
