@@ -5142,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
 | Gish Reloaded | 227086 | [227086-gish-reloaded.json](./227086-gish-reloaded.json) |
 | Gish: The Mobile Game | 227031 | [227031-gish-the-mobile-game.json](./227031-gish-the-mobile-game.json) |
+| Gisobo, Choukyou Chuu. Nakayoshi no Hiketsu wa SM desu. | 98123 | [98123-gisobo-choukyou-chuu-nakayoshi-no-hiketsu-wa-sm-desu.json](./98123-gisobo-choukyou-chuu-nakayoshi-no-hiketsu-wa-sm-desu.json) |
 | Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
 | Git (Game Involving Triangles) | 295964 | [295964-git-game-involving-triangles.json](./295964-git-game-involving-triangles.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
@@ -11901,6 +11902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Games 3D Offline Fps Games | 296769 | [296769-gun-games-3d-offline-fps-games.json](./296769-gun-games-3d-offline-fps-games.json) |
 | Gun Glade | 397627 | [397627-gun-glade.json](./397627-gun-glade.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
+| Gun Gladiators | 98121 | [98121-gun-gladiators.json](./98121-gun-gladiators.json) |
 | Gun Gun Create | 159962 | [159962-gun-gun-create.json](./159962-gun-gun-create.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Gun Pixies H H | 222105 | [222105-gun-gun-pixies-h-h.json](./222105-gun-gun-pixies-h-h.json) |
