@@ -11534,6 +11534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guildrun | 410290 | [410290-guildrun.json](./410290-guildrun.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Delenar | 112724 | [112724-guilds-of-delenar.json](./112724-guilds-of-delenar.json) |
+| Guilds of Destiny | 101820 | [101820-guilds-of-destiny.json](./101820-guilds-of-destiny.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
 | Guilds of Gods | 182098 | [182098-guilds-of-gods.json](./182098-guilds-of-gods.json) |
 | Guilds of Greybrook | 373166 | [373166-guilds-of-greybrook.json](./373166-guilds-of-greybrook.json) |
