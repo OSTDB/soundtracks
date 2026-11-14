@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Ice Empire | 102820 | [102820-galaxy-wars-ice-empire.json](./102820-galaxy-wars-ice-empire.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
+| Galaxy Wide Domination | 86325 | [86325-galaxy-wide-domination.json](./86325-galaxy-wide-domination.json) |
 | Galaxy X | 159742 | [159742-galaxy-x.json](./159742-galaxy-x.json) |
 | Galaxy X | 417136 | [417136-galaxy-x.json](./417136-galaxy-x.json) |
 | Galaxy Xross | 133492 | [133492-galaxy-xross.json](./133492-galaxy-xross.json) |
@@ -2728,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears N Gators | 136227 | [136227-gears-n-gators.json](./136227-gears-n-gators.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
 | Gears of Dragoon: Fragments of a New Era | 261650 | [261650-gears-of-dragoon-fragments-of-a-new-era.json](./261650-gears-of-dragoon-fragments-of-a-new-era.json) |
+| Gears of Eden | 86298 | [86298-gears-of-eden.json](./86298-gears-of-eden.json) |
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
 | Gears of Freedom | 414092 | [414092-gears-of-freedom.json](./414092-gears-of-freedom.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
@@ -3089,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
+| Genderwrecked | 86273 | [86273-genderwrecked.json](./86273-genderwrecked.json) |
 | GenDino | 382074 | [382074-gendino.json](./382074-gendino.json) |
 | Gendo The Gatherer | 404352 | [404352-gendo-the-gatherer.json](./404352-gendo-the-gatherer.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
@@ -5866,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glut: A Superabundance of Nothing | 191500 | [191500-glut-a-superabundance-of-nothing.json](./191500-glut-a-superabundance-of-nothing.json) |
 | Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
 | Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
+| Glutton Man | 86303 | [86303-glutton-man.json](./86303-glutton-man.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Gluttony Gods | 321941 | [321941-gluttony-gods.json](./321941-gluttony-gods.json) |
 | Gluttony Monster | 241216 | [241216-gluttony-monster.json](./241216-gluttony-monster.json) |
