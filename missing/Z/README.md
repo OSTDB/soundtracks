@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zukkoke Threesome: Drama Murder Case | 289762 | [289762-zukkoke-threesome-drama-murder-case.json](./289762-zukkoke-threesome-drama-murder-case.json) |
 | ZukuRace | 308920 | [308920-zukurace.json](./308920-zukurace.json) |
 | Zula | 38029 | [38029-zula.json](./38029-zula.json) |
+| Zuldaxx | 123119 | [123119-zuldaxx.json](./123119-zuldaxx.json) |
 | Zulin Time | 116718 | [116718-zulin-time.json](./116718-zulin-time.json) |
 | Zulkania | 338323 | [338323-zulkania.json](./338323-zulkania.json) |
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
