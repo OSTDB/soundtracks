@@ -10830,6 +10830,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerUnknown's Battlegrounds: Season 10 | 144042 | [144042-playerunknowns-battlegrounds-season-10.json](./144042-playerunknowns-battlegrounds-season-10.json) |
 | PlayerUnknown's Battlegrounds: Season 11 | 158956 | [158956-playerunknowns-battlegrounds-season-11.json](./158956-playerunknowns-battlegrounds-season-11.json) |
 | PlayerUnknown's Battlegrounds: Season 12 | 158958 | [158958-playerunknowns-battlegrounds-season-12.json](./158958-playerunknowns-battlegrounds-season-12.json) |
+| PlayerUnknown's Battlegrounds: Season 4 | 129869 | [129869-playerunknowns-battlegrounds-season-4.json](./129869-playerunknowns-battlegrounds-season-4.json) |
+| PlayerUnknown's Battlegrounds: Season 5 | 129868 | [129868-playerunknowns-battlegrounds-season-5.json](./129868-playerunknowns-battlegrounds-season-5.json) |
+| PlayerUnknown's Battlegrounds: Season 6 | 129867 | [129867-playerunknowns-battlegrounds-season-6.json](./129867-playerunknowns-battlegrounds-season-6.json) |
 | PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayerUnknown's Battlegrounds: Season 9 | 140975 | [140975-playerunknowns-battlegrounds-season-9.json](./140975-playerunknowns-battlegrounds-season-9.json) |
@@ -12310,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon FireRed VR Missions | 214216 | [214216-pokemon-firered-vr-missions.json](./214216-pokemon-firered-vr-missions.json) |
+| Pokémon Flora Sky | 129817 | [129817-pokemon-flora-sky.json](./129817-pokemon-flora-sky.json) |
 | Pokémon Floral Tempus EX | 240005 | [240005-pokemon-floral-tempus-ex.json](./240005-pokemon-floral-tempus-ex.json) |
 | Pokemon Flux | 250199 | [250199-pokemon-flux.json](./250199-pokemon-flux.json) |
 | Pokémon Following Platinum | 395562 | [395562-pokemon-following-platinum.json](./395562-pokemon-following-platinum.json) |
@@ -12335,6 +12339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Garden | 253801 | [253801-pokemon-garden.json](./253801-pokemon-garden.json) |
 | Pokémon Garnet | 323792 | [323792-pokemon-garnet.json](./323792-pokemon-garnet.json) |
 | Pokémon Giovanni Origins | 252055 | [252055-pokemon-giovanni-origins.json](./252055-pokemon-giovanni-origins.json) |
+| Pokémon Giratina Strikes Back | 129820 | [129820-pokemon-giratina-strikes-back.json](./129820-pokemon-giratina-strikes-back.json) |
 | Pokémon Glacial Chronicles | 360193 | [360193-pokemon-glacial-chronicles.json](./360193-pokemon-glacial-chronicles.json) |
 | Pokémon Glazed | 147055 | [147055-pokemon-glazed.json](./147055-pokemon-glazed.json) |
 | Pokémon Go: Adventures Abound | 383002 | [383002-pokemon-go-adventures-abound.json](./383002-pokemon-go-adventures-abound.json) |
@@ -12412,6 +12417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Legends: Z-A - Mega Dimension | 366894 | [366894-pokemon-legends-z-a-mega-dimension.json](./366894-pokemon-legends-z-a-mega-dimension.json) |
 | Pokemon Lightning Yellow | 365745 | [365745-pokemon-lightning-yellow.json](./365745-pokemon-lightning-yellow.json) |
 | Pokémon Lime Version | 359917 | [359917-pokemon-lime-version.json](./359917-pokemon-lime-version.json) |
+| Pokémon Liquid Crystal | 129822 | [129822-pokemon-liquid-crystal.json](./129822-pokemon-liquid-crystal.json) |
 | Pokémon Little Cup Red | 264094 | [264094-pokemon-little-cup-red.json](./264094-pokemon-little-cup-red.json) |
 | Pokémon Lost Silver | 320167 | [320167-pokemon-lost-silver.json](./320167-pokemon-lost-silver.json) |
 | Pokémon Lost World: Echoes of Eternity | 360181 | [360181-pokemon-lost-world-echoes-of-eternity.json](./360181-pokemon-lost-world-echoes-of-eternity.json) |
@@ -12486,6 +12492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
 | Pokémon Otherside | 369472 | [369472-pokemon-otherside.json](./369472-pokemon-otherside.json) |
+| Pokémon Outlaw | 129823 | [129823-pokemon-outlaw.json](./129823-pokemon-outlaw.json) |
 | Pokémon Overlord | 383168 | [383168-pokemon-overlord.json](./383168-pokemon-overlord.json) |
 | Pokémon Panteón | 314723 | [314723-pokemon-panteon.json](./314723-pokemon-panteon.json) |
 | Pokémon Parallel Emerald | 397762 | [397762-pokemon-parallel-emerald.json](./397762-pokemon-parallel-emerald.json) |
@@ -12593,6 +12600,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
 | Pokémon RP | 200948 | [200948-pokemon-rp.json](./200948-pokemon-rp.json) |
+| Pokémon Ruby Destiny: Life of Guardians | 129824 | [129824-pokemon-ruby-destiny-life-of-guardians.json](./129824-pokemon-ruby-destiny-life-of-guardians.json) |
+| Pokémon Ruby Destiny: Reign of Legends | 129825 | [129825-pokemon-ruby-destiny-reign-of-legends.json](./129825-pokemon-ruby-destiny-reign-of-legends.json) |
+| Pokémon Ruby Destiny: Rescue Rangers | 129826 | [129826-pokemon-ruby-destiny-rescue-rangers.json](./129826-pokemon-ruby-destiny-rescue-rangers.json) |
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
@@ -12745,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Uranium | 24949 | [24949-pokemon-uranium.json](./24949-pokemon-uranium.json) |
 | Pokémon Vanguard | 242897 | [242897-pokemon-vanguard.json](./242897-pokemon-vanguard.json) |
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
+| Pokémon Vega | 129828 | [129828-pokemon-vega.json](./129828-pokemon-vega.json) |
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon verde musgo | 276893 | [276893-pokemon-verde-musgo.json](./276893-pokemon-verde-musgo.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
