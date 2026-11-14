@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnfall | 129925 | [129925-dawnfall.json](./129925-dawnfall.json) |
 | Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
+| Dawngrown | 148578 | [148578-dawngrown.json](./148578-dawngrown.json) |
 | Dawnhold | 415622 | [415622-dawnhold.json](./415622-dawnhold.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
@@ -8186,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
 | Desolation Seed | 183301 | [183301-desolation-seed.json](./183301-desolation-seed.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
+| Desolation: End of Days | 148583 | [148583-desolation-end-of-days.json](./148583-desolation-end-of-days.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
 | Desolator | 79458 | [79458-desolator.json](./79458-desolator.json) |
@@ -9361,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Hollow | 286649 | [286649-diamond-hollow.json](./286649-diamond-hollow.json) |
 | Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
 | Diamond Hunt | 108926 | [108926-diamond-hunt.json](./108926-diamond-hunt.json) |
+| Diamond Hunt | 148592 | [148592-diamond-hunt.json](./148592-diamond-hunt.json) |
 | Diamond Hunt | 245519 | [245519-diamond-hunt.json](./245519-diamond-hunt.json) |
 | Diamond Hunt | 371575 | [371575-diamond-hunt.json](./371575-diamond-hunt.json) |
 | Diamond Hunter | 155269 | [155269-diamond-hunter.json](./155269-diamond-hunter.json) |
@@ -15133,6 +15136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
+| Dots n Lines | 148600 | [148600-dots-n-lines.json](./148600-dots-n-lines.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
 | Dots on Dash | 89800 | [89800-dots-on-dash.json](./89800-dots-on-dash.json) |
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
@@ -20178,6 +20182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
 | Dungeon of the Gods | 184875 | [184875-dungeon-of-the-gods.json](./184875-dungeon-of-the-gods.json) |
 | Dungeon of Theseus | 235933 | [235933-dungeon-of-theseus.json](./235933-dungeon-of-theseus.json) |
+| Dungeon of Trials | 148607 | [148607-dungeon-of-trials.json](./148607-dungeon-of-trials.json) |
 | Dungeon of Weirdos | 166295 | [166295-dungeon-of-weirdos.json](./166295-dungeon-of-weirdos.json) |
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar | 24703 | [24703-dungeon-of-zaar.json](./24703-dungeon-of-zaar.json) |
