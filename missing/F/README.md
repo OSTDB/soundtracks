@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 21 | 134101 | [134101-fifa-21.json](./134101-fifa-21.json) |
 | FIFA 21: Champions Edition | 136062 | [136062-fifa-21-champions-edition.json](./136062-fifa-21-champions-edition.json) |
 | FIFA 21: Legacy Edition | 136335 | [136335-fifa-21-legacy-edition.json](./136335-fifa-21-legacy-edition.json) |
+| FIFA 21: NXT LVL Edition | 141310 | [141310-fifa-21-nxt-lvl-edition.json](./141310-fifa-21-nxt-lvl-edition.json) |
 | FIFA 21: Ultimate Edition | 136056 | [136056-fifa-21-ultimate-edition.json](./136056-fifa-21-ultimate-edition.json) |
 | FIFA 22 | 154986 | [154986-fifa-22.json](./154986-fifa-22.json) |
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
@@ -4956,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Club World | 336882 | [336882-fight-club-world.json](./336882-fight-club-world.json) |
 | Fight Club: All Stars | 207642 | [207642-fight-club-all-stars.json](./207642-fight-club-all-stars.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
+| Fight Corp. | 141315 | [141315-fight-corp.json](./141315-fight-corp.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
 | Fight desserts | 76116 | [76116-fight-desserts.json](./76116-fight-desserts.json) |
