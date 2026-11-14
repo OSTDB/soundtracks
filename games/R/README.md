@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273afc6150e88b4173df738d23a" width="60" /> | [R-Type Final 3 Evolved](https://ostdb.net/games/r-type-final-3-evolved) | **R-TYPE FINAL 3 EVOLVED Soundtrack** · [Spotify](https://open.spotify.com/album/07qD3Dyfi7N7l3T333OHZo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27368ab57b0a7f0cf6d83f11db0" width="60" /> | [R: Racing Evolution](https://ostdb.net/games/r-racing-evolution) | **R:RACING EVOLUTION Original Soundtrack** · [Spotify](https://open.spotify.com/album/0rzsxy1QdcIHNEBL7DWvkc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e6d10ec0fd5bc1817d16050" width="60" /> | [RV There Yet?](https://ostdb.net/games/rv-there-yet) | **RV There Yet? (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ceZp3sb8alQ7kWFgSzYOm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305cc1af0f85c03f35d6b67d6" width="60" /> | [Rabbids Land](https://ostdb.net/games/rabbids-land) | **Rabbids Land (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Qa5zJr179nAE65jhiVbhA) |
