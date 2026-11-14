@@ -11724,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
 | Anime Studio Simulator | 57330 | [57330-anime-studio-simulator.json](./57330-anime-studio-simulator.json) |
 | Anime Studio Story | 58912 | [58912-anime-studio-story.json](./58912-anime-studio-story.json) |
+| Anime Studio Tycoon | 128027 | [128027-anime-studio-tycoon.json](./128027-anime-studio-tycoon.json) |
 | Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
