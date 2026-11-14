@@ -12529,6 +12529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Chess Royale | 130516 | [130516-might-and-magic-chess-royale.json](./130516-might-and-magic-chess-royale.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Clash of Heroes - Definitive Edition | 247376 | [247376-might-and-magic-clash-of-heroes-definitive-edition.json](./247376-might-and-magic-clash-of-heroes-definitive-edition.json) |
+| Might & Magic: Clash of Heroes - I Am the Boss | 167938 | [167938-might-and-magic-clash-of-heroes-i-am-the-boss.json](./167938-might-and-magic-clash-of-heroes-i-am-the-boss.json) |
 | Might & Magic: Duel of Champions | 1890 | [1890-might-and-magic-duel-of-champions.json](./1890-might-and-magic-duel-of-champions.json) |
 | Might & Magic: Duel of Champions - Five Towers | 383112 | [383112-might-and-magic-duel-of-champions-five-towers.json](./383112-might-and-magic-duel-of-champions-five-towers.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 383111 | [383111-might-and-magic-duel-of-champions-forgotten-wars.json](./383111-might-and-magic-duel-of-champions-forgotten-wars.json) |
@@ -19640,6 +19641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 14: Moto2 and Moto3 | 238653 | [238653-motogp-14-moto2-and-moto3.json](./238653-motogp-14-moto2-and-moto3.json) |
 | MotoGP 14: Red Bull Rookies Cup DLC | 168357 | [168357-motogp-14-red-bull-rookies-cup-dlc.json](./168357-motogp-14-red-bull-rookies-cup-dlc.json) |
 | MotoGP 15 | 11275 | [11275-motogp-15.json](./11275-motogp-15.json) |
+| MotoGP 15: 4 Stroke Champions and Events | 167937 | [167937-motogp-15-4-stroke-champions-and-events.json](./167937-motogp-15-4-stroke-champions-and-events.json) |
 | MotoGP 15: GP de Portugal Circuito Estoril | 168359 | [168359-motogp-15-gp-de-portugal-circuito-estoril.json](./168359-motogp-15-gp-de-portugal-circuito-estoril.json) |
 | MotoGP 15: Red Bull Rookies Cup | 167923 | [167923-motogp-15-red-bull-rookies-cup.json](./167923-motogp-15-red-bull-rookies-cup.json) |
 | MotoGP 15: Special Edition | 53366 | [53366-motogp-15-special-edition.json](./53366-motogp-15-special-edition.json) |
@@ -20456,6 +20458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
 | Mr. Fish | 239110 | [239110-mr-fish.json](./239110-mr-fish.json) |
+| Mr. Fish and his Assistants Sardines | 168267 | [168267-mr-fish-and-his-assistants-sardines.json](./168267-mr-fish-and-his-assistants-sardines.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Flesh Flam | 389668 | [389668-mr-flesh-flam.json](./389668-mr-flesh-flam.json) |
 | Mr. Flip | 305113 | [305113-mr-flip.json](./305113-mr-flip.json) |
@@ -24118,6 +24121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Destinies: Serendipity of Aeons - Shou | 168504 | [168504-mystic-destinies-serendipity-of-aeons-shou.json](./168504-mystic-destinies-serendipity-of-aeons-shou.json) |
 | Mystic Destinies: Serendipity of Aeons - Shou Epilogue | 168500 | [168500-mystic-destinies-serendipity-of-aeons-shou-epilogue.json](./168500-mystic-destinies-serendipity-of-aeons-shou-epilogue.json) |
 | Mystic Destinies: Serendipity of Aeons - Takumi | 168497 | [168497-mystic-destinies-serendipity-of-aeons-takumi.json](./168497-mystic-destinies-serendipity-of-aeons-takumi.json) |
+| Mystic Destinies: Serendipity of Aeons - Takumi Epilogue | 168262 | [168262-mystic-destinies-serendipity-of-aeons-takumi-epilogue.json](./168262-mystic-destinies-serendipity-of-aeons-takumi-epilogue.json) |
 | Mystic Destinies: Serendipity of Aeons - Tatsuya | 168498 | [168498-mystic-destinies-serendipity-of-aeons-tatsuya.json](./168498-mystic-destinies-serendipity-of-aeons-tatsuya.json) |
 | Mystic Destinies: Serendipity of Aeons - Tatsuya Epilogue | 168499 | [168499-mystic-destinies-serendipity-of-aeons-tatsuya-epilogue.json](./168499-mystic-destinies-serendipity-of-aeons-tatsuya-epilogue.json) |
 | Mystic Diamonds | 146571 | [146571-mystic-diamonds.json](./146571-mystic-diamonds.json) |
