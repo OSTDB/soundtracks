@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Space Force: Retro Clicker | 256569 | [256569-idle-space-force-retro-clicker.json](./256569-idle-space-force-retro-clicker.json) |
 | Idle Space Navy | 266983 | [266983-idle-space-navy.json](./266983-idle-space-navy.json) |
+| Idle Space Raider | 114451 | [114451-idle-space-raider.json](./114451-idle-space-raider.json) |
 | Idle Space Shooter | 384986 | [384986-idle-space-shooter.json](./384986-idle-space-shooter.json) |
 | Idle Space Station | 214101 | [214101-idle-space-station.json](./214101-idle-space-station.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
@@ -2304,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Iku Iku Succubus | 201360 | [201360-iku-iku-succubus.json](./201360-iku-iku-succubus.json) |
+| Ikue | 114629 | [114629-ikue.json](./114629-ikue.json) |
 | Ikuma: The Frozen Compass | 339619 | [339619-ikuma-the-frozen-compass.json](./339619-ikuma-the-frozen-compass.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
 | Ikun vs. Xhz | 407798 | [407798-ikun-vs-xhz.json](./407798-ikun-vs-xhz.json) |
