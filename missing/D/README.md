@@ -9640,6 +9640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictocracy | 344704 | [344704-dictocracy.json](./344704-dictocracy.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did It Myself ABC123 | 85087 | [85087-did-it-myself-abc123.json](./85087-did-it-myself-abc123.json) |
+| Did You Hear That? | 159945 | [159945-did-you-hear-that.json](./159945-did-you-hear-that.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
 | Didactic Jesus Game | 224333 | [224333-didactic-jesus-game.json](./224333-didactic-jesus-game.json) |
