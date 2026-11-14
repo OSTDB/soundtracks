@@ -9122,6 +9122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
 | Historic Helix | 372360 | [372360-historic-helix.json](./372360-historic-helix.json) |
 | Historica Fantasia | 132464 | [132464-historica-fantasia.json](./132464-historica-fantasia.json) |
+| Historical Games: Chariot Racing | 149661 | [149661-historical-games-chariot-racing.json](./149661-historical-games-chariot-racing.json) |
 | Historical Invaders | 291880 | [291880-historical-invaders.json](./291880-historical-invaders.json) |
 | Historical Jigsaw Puzzle: World War I | 154287 | [154287-historical-jigsaw-puzzle-world-war-i.json](./154287-historical-jigsaw-puzzle-world-war-i.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
