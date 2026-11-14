@@ -6513,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man 3: The Official Game | 63404 | [63404-iron-man-3-the-official-game.json](./63404-iron-man-3-the-official-game.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 240164 | [240164-iron-man-and-x-o-manowar-in-heavy-metal.json](./240164-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
+| Iron Man Nun | 106823 | [106823-iron-man-nun.json](./106823-iron-man-nun.json) |
 | Iron Man: Aerial Assault | 69167 | [69167-iron-man-aerial-assault.json](./69167-iron-man-aerial-assault.json) |
 | Iron Man: Mushroom Avenger | 308982 | [308982-iron-man-mushroom-avenger.json](./308982-iron-man-mushroom-avenger.json) |
 | Iron Mandate | 226003 | [226003-iron-mandate.json](./226003-iron-mandate.json) |
@@ -6647,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irony Curtain: From Matryoshka with Love | 106108 | [106108-irony-curtain-from-matryoshka-with-love.json](./106108-irony-curtain-from-matryoshka-with-love.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irony of Nightmare | 76540 | [76540-irony-of-nightmare.json](./76540-irony-of-nightmare.json) |
+| iRoom Basketball | 106665 | [106665-iroom-basketball.json](./106665-iroom-basketball.json) |
 | Irooni: Color Tag | 395324 | [395324-irooni-color-tag.json](./395324-irooni-color-tag.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
