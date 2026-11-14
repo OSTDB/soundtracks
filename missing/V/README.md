@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Trivia | 252597 | [252597-video-game-trivia.json](./252597-video-game-trivia.json) |
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
+| Video Horror Society | 167751 | [167751-video-horror-society.json](./167751-video-horror-society.json) |
 | Video Horror Society: Anomaly | 243481 | [243481-video-horror-society-anomaly.json](./243481-video-horror-society-anomaly.json) |
 | Video Horror Society: Deathwire | 227720 | [227720-video-horror-society-deathwire.json](./227720-video-horror-society-deathwire.json) |
 | Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
