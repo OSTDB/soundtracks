@@ -9059,6 +9059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hishou Same! Same! Same! | 186708 | [186708-hishou-same-same-same.json](./186708-hishou-same-same-same.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hisou Kihei X-Serd | 59349 | [59349-hisou-kihei-x-serd.json](./59349-hisou-kihei-x-serd.json) |
+| Hisou Ningyou | 151785 | [151785-hisou-ningyou.json](./151785-hisou-ningyou.json) |
 | Hispalis Cardgame | 341784 | [341784-hispalis-cardgame.json](./341784-hispalis-cardgame.json) |
 | Hispalis: Proyecto NoDo | 341783 | [341783-hispalis-proyecto-nodo.json](./341783-hispalis-proyecto-nodo.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
