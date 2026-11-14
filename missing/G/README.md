@@ -5500,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchskier | 113946 | [113946-glitchskier.json](./113946-glitchskier.json) |
 | Glitchspace | 6070 | [6070-glitchspace.json](./6070-glitchspace.json) |
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
+| Glitchy Apocalypse Simulator | 132289 | [132289-glitchy-apocalypse-simulator.json](./132289-glitchy-apocalypse-simulator.json) |
 | Glitchy: Cute Loop | 396475 | [396475-glitchy-cute-loop.json](./396475-glitchy-cute-loop.json) |
 | Glitchy: Not So Sweet | 398793 | [398793-glitchy-not-so-sweet.json](./398793-glitchy-not-so-sweet.json) |
 | Glitter | 291266 | [291266-glitter.json](./291266-glitter.json) |
@@ -6089,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Kart Mania: Prime Edition | 328762 | [328762-go-kart-mania-prime-edition.json](./328762-go-kart-mania-prime-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
+| Go Kart Run! | 132302 | [132302-go-kart-run.json](./132302-go-kart-run.json) |
 | Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
 | Go Kart Survival | 76824 | [76824-go-kart-survival.json](./76824-go-kart-survival.json) |
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
@@ -7330,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
 | Golf 5: The Playoff Edition | 377656 | [377656-golf-5-the-playoff-edition.json](./377656-golf-5-the-playoff-edition.json) |
 | Golf a Guy! | 199332 | [199332-golf-a-guy.json](./199332-golf-a-guy.json) |
+| Golf Ace | 132305 | [132305-golf-ace.json](./132305-golf-ace.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
@@ -7720,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning Phobos | 257306 | [257306-good-morning-phobos.json](./257306-good-morning-phobos.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
+| Good Morning, World | 132292 | [132292-good-morning-world.json](./132292-good-morning-world.json) |
 | Good Morning! | 177660 | [177660-good-morning.json](./177660-good-morning.json) |
 | Good Morningstar | 185488 | [185488-good-morningstar.json](./185488-good-morningstar.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
@@ -10330,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
 | Grim Tales: The Final Suspect - Collector's Edition | 151438 | [151438-grim-tales-the-final-suspect-collectors-edition.json](./151438-grim-tales-the-final-suspect-collectors-edition.json) |
 | Grim Tales: The Generous Gift | 140220 | [140220-grim-tales-the-generous-gift.json](./140220-grim-tales-the-generous-gift.json) |
+| Grim Tales: The Generous Gift - Collector's Edition | 132298 | [132298-grim-tales-the-generous-gift-collectors-edition.json](./132298-grim-tales-the-generous-gift-collectors-edition.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
 | Grim Tales: The Heir - Collector's Edition | 159440 | [159440-grim-tales-the-heir-collectors-edition.json](./159440-grim-tales-the-heir-collectors-edition.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
