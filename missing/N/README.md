@@ -5010,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Files: Clap Clap | 302877 | [302877-nightmare-files-clap-clap.json](./302877-nightmare-files-clap-clap.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Flight | 322883 | [322883-nightmare-flight.json](./322883-nightmare-flight.json) |
+| Nightmare Frames | 152450 | [152450-nightmare-frames.json](./152450-nightmare-frames.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
 | Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
 | Nightmare Gallery | 282441 | [282441-nightmare-gallery.json](./282441-nightmare-gallery.json) |
