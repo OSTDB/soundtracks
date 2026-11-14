@@ -13510,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindJack | 7072 | [7072-mindjack.json](./7072-mindjack.json) |
 | MindJam! The Knowledge Guru | 28456 | [28456-mindjam-the-knowledge-guru.json](./28456-mindjam-the-knowledge-guru.json) |
 | MindKatt | 285334 | [285334-mindkatt.json](./285334-mindkatt.json) |
+| Mindkeeper: The Lurking Fear | 134139 | [134139-mindkeeper-the-lurking-fear.json](./134139-mindkeeper-the-lurking-fear.json) |
 | Mindless | 153001 | [153001-mindless.json](./153001-mindless.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindless Breakpoint | 236440 | [236440-mindless-breakpoint.json](./236440-mindless-breakpoint.json) |
