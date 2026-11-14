@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromunda: Underhive Wars - Gangs Bundle | 223869 | [223869-necromunda-underhive-wars-gangs-bundle.json](./223869-necromunda-underhive-wars-gangs-bundle.json) |
 | Necromunda: Underhive Wars - Gold Edition | 164820 | [164820-necromunda-underhive-wars-gold-edition.json](./164820-necromunda-underhive-wars-gold-edition.json) |
 | Necromunda: Underhive Wars - Van Saar Gang | 162857 | [162857-necromunda-underhive-wars-van-saar-gang.json](./162857-necromunda-underhive-wars-van-saar-gang.json) |
+| Necron: Aptor Quest | 138853 | [138853-necron-aptor-quest.json](./138853-necron-aptor-quest.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
 | Necronator: Dead Wrong | 122064 | [122064-necronator-dead-wrong.json](./122064-necronator-dead-wrong.json) |
