@@ -5944,6 +5944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Tower | 409200 | [409200-phantom-tower.json](./409200-phantom-tower.json) |
 | Phantom Train | 164231 | [164231-phantom-train.json](./164231-phantom-train.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
+| Phantom Typist | 157251 | [157251-phantom-typist.json](./157251-phantom-typist.json) |
 | Phantom Unit 999 | 280153 | [280153-phantom-unit-999.json](./280153-phantom-unit-999.json) |
 | Phantom Void | 381661 | [381661-phantom-void.json](./381661-phantom-void.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
