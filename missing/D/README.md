@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Days: Devil Hunt | 224605 | [224605-dark-days-devil-hunt.json](./224605-dark-days-devil-hunt.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
 | Dark Dead | 243582 | [243582-dark-dead.json](./243582-dark-dead.json) |
+| Dark Dealings | 138880 | [138880-dark-dealings.json](./138880-dark-dealings.json) |
 | Dark Dealings | 167252 | [167252-dark-dealings.json](./167252-dark-dealings.json) |
 | Dark December | 367568 | [367568-dark-december.json](./367568-dark-december.json) |
 | Dark Deception | 61859 | [61859-dark-deception.json](./61859-dark-deception.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksburg | 105029 | [105029-darksburg.json](./105029-darksburg.json) |
 | DarkScape | 284140 | [284140-darkscape.json](./284140-darkscape.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
+| Darkscrolls 2: Last Hope | 138863 | [138863-darkscrolls-2-last-hope.json](./138863-darkscrolls-2-last-hope.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
 | Darkside | 243476 | [243476-darkside.json](./243476-darkside.json) |
@@ -7261,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Gate: Teito Shinshin Taisen - Tokyo Mokushiroku-hen | 153679 | [153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json](./153679-demons-gate-teito-shinshin-taisen-tokyo-mokushiroku-hen.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
+| Demon's Kiss | 138852 | [138852-demons-kiss.json](./138852-demons-kiss.json) |
 | Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
 | Demon's Nightmare: Ar Ek-Qua Er Seta | 177704 | [177704-demons-nightmare-ar-ek-qua-er-seta.json](./177704-demons-nightmare-ar-ek-qua-er-seta.json) |
 | Demon's Regalia: Colosseum | 296708 | [296708-demons-regalia-colosseum.json](./296708-demons-regalia-colosseum.json) |
@@ -7660,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Dagon | 148276 | [148276-depths-of-dagon.json](./148276-depths-of-dagon.json) |
 | Depths of Darkness | 292484 | [292484-depths-of-darkness.json](./292484-depths-of-darkness.json) |
 | Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
+| Depths of Destrus | 138860 | [138860-depths-of-destrus.json](./138860-depths-of-destrus.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
 | Depths of Endor | 320627 | [320627-depths-of-endor.json](./320627-depths-of-endor.json) |
 | Depths of Europa | 413404 | [413404-depths-of-europa.json](./413404-depths-of-europa.json) |
