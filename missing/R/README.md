@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Attorney | 349748 | [349748-race-attorney.json](./349748-race-attorney.json) |
 | Race Boat Simulator | 256029 | [256029-race-boat-simulator.json](./256029-race-boat-simulator.json) |
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
+| Race Car! | 99263 | [99263-race-car.json](./99263-race-car.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
 | Race Day | 251331 | [251331-race-day.json](./251331-race-day.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race me now | 154385 | [154385-race-me-now.json](./154385-race-me-now.json) |
 | Race n Chase 3D Car Racing Game | 107542 | [107542-race-n-chase-3d-car-racing-game.json](./107542-race-n-chase-3d-car-racing-game.json) |
+| Race of Champions | 99868 | [99868-race-of-champions.json](./99868-race-of-champions.json) |
 | Race of Life | 240079 | [240079-race-of-life.json](./240079-race-of-life.json) |
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
 | Race On | 19363 | [19363-race-on.json](./19363-race-on.json) |
@@ -3192,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Cake Maker: Cool Kidz | 316245 | [316245-real-cake-maker-cool-kidz.json](./316245-real-cake-maker-cool-kidz.json) |
 | Real Cake Maker: Sugar Rush | 316246 | [316246-real-cake-maker-sugar-rush.json](./316246-real-cake-maker-sugar-rush.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
+| Real Car Drift Sim | 99852 | [99852-real-car-drift-sim.json](./99852-real-car-drift-sim.json) |
 | Real Car Driving | 219458 | [219458-real-car-driving.json](./219458-real-car-driving.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Car Parking 2 : Driving School 2018 | 101092 | [101092-real-car-parking-2-driving-school-2018.json](./101092-real-car-parking-2-driving-school-2018.json) |
@@ -3201,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Parking: 2024 Authentic Simulation | 266536 | [266536-real-car-parking-2024-authentic-simulation.json](./266536-real-car-parking-2024-authentic-simulation.json) |
 | Real Car Racing | 100787 | [100787-real-car-racing.json](./100787-real-car-racing.json) |
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
+| Real Chess 3D | 99267 | [99267-real-chess-3d.json](./99267-real-chess-3d.json) |
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
 | Real Coaster | 227553 | [227553-real-coaster.json](./227553-real-coaster.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
@@ -11905,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Romguns | 125089 | [125089-romguns.json](./125089-romguns.json) |
 | Romi | 96285 | [96285-romi.json](./96285-romi.json) |
+| Romi for iPad | 99839 | [99839-romi-for-ipad.json](./99839-romi-for-ipad.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rommel: Battles for North Africa | 68478 | [68478-rommel-battles-for-north-africa.json](./68478-rommel-battles-for-north-africa.json) |
 | Rommel: Battles for Tobruk | 26152 | [26152-rommel-battles-for-tobruk.json](./26152-rommel-battles-for-tobruk.json) |
