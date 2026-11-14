@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
 | Paradise Away | 150953 | [150953-paradise-away.json](./150953-paradise-away.json) |
+| Paradise Bay | 99834 | [99834-paradise-bay.json](./99834-paradise-bay.json) |
 | Paradise Beach | 90735 | [90735-paradise-beach.json](./90735-paradise-beach.json) |
 | Paradise Beach 2: Around the World | 378589 | [378589-paradise-beach-2-around-the-world.json](./378589-paradise-beach-2-around-the-world.json) |
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petmagotchi | 387102 | [387102-petmagotchi.json](./387102-petmagotchi.json) |
 | Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
+| Petown | 99271 | [99271-petown.json](./99271-petown.json) |
 | Petpet Park | 268054 | [268054-petpet-park.json](./268054-petpet-park.json) |
 | Petra and the Thylacine | 149815 | [149815-petra-and-the-thylacine.json](./149815-petra-and-the-thylacine.json) |
 | Petra Theos | 395609 | [395609-petra-theos.json](./395609-petra-theos.json) |
@@ -11315,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
+| Pluszle: Brain Logic Game | 99844 | [99844-pluszle-brain-logic-game.json](./99844-pluszle-brain-logic-game.json) |
 | Pluto Lost Its Colors | 318426 | [318426-pluto-lost-its-colors.json](./318426-pluto-lost-its-colors.json) |
 | Pluto Rim: Storm Commander | 141507 | [141507-pluto-rim-storm-commander.json](./141507-pluto-rim-storm-commander.json) |
 | Pluto Strikes Back | 51216 | [51216-pluto-strikes-back.json](./51216-pluto-strikes-back.json) |
@@ -16123,6 +16126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Guard | 122494 | [122494-princess-guard.json](./122494-princess-guard.json) |
 | Princess Hit! | 125071 | [125071-princess-hit.json](./125071-princess-hit.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
+| Princess Horse Racing | 99832 | [99832-princess-horse-racing.json](./99832-princess-horse-racing.json) |
 | Princess hunter | 216544 | [216544-princess-hunter.json](./216544-princess-hunter.json) |
 | Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
