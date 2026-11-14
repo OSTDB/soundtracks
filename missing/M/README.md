@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
 | Magehunter: Phoenix Flame | 250834 | [250834-magehunter-phoenix-flame.json](./250834-magehunter-phoenix-flame.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
+| Magellania | 143149 | [143149-magellania.json](./143149-magellania.json) |
 | Magemania | 247364 | [247364-magemania.json](./247364-magemania.json) |
 | Magenta | 333771 | [333771-magenta.json](./333771-magenta.json) |
 | Magenta Arcade | 202976 | [202976-magenta-arcade.json](./202976-magenta-arcade.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mageye | 343147 | [343147-mageye.json](./343147-mageye.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
 | MagForce Racing | 45806 | [45806-magforce-racing.json](./45806-magforce-racing.json) |
+| Maggie Milly Molly May | 143183 | [143183-maggie-milly-molly-may.json](./143183-maggie-milly-molly-may.json) |
 | Maggie the Magnet | 201456 | [201456-maggie-the-magnet.json](./201456-maggie-the-magnet.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
 | Maggie's Grinning Soul | 182145 | [182145-maggies-grinning-soul.json](./182145-maggies-grinning-soul.json) |
@@ -15126,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misión Triple R | 260084 | [260084-mision-triple-r.json](./260084-mision-triple-r.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miska | 204523 | [204523-miska.json](./204523-miska.json) |
+| Miska's Cave | 143150 | [143150-miskas-cave.json](./143150-miskas-cave.json) |
 | Miskal | 237519 | [237519-miskal.json](./237519-miskal.json) |
 | Miskatonic | 188932 | [188932-miskatonic.json](./188932-miskatonic.json) |
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
@@ -15452,6 +15455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mist Hunter | 114067 | [114067-mist-hunter.json](./114067-mist-hunter.json) |
+| Mist Legacy | 143135 | [143135-mist-legacy.json](./143135-mist-legacy.json) |
 | Mist Monkey: Wanderer | 207461 | [207461-mist-monkey-wanderer.json](./207461-mist-monkey-wanderer.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of Stagnation | 62860 | [62860-mist-of-stagnation.json](./62860-mist-of-stagnation.json) |
@@ -15784,6 +15788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 9 Innings 22 | 187603 | [187603-mlb-9-innings-22.json](./187603-mlb-9-innings-22.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
 | MLB 9 Innings 24 | 303182 | [303182-mlb-9-innings-24.json](./303182-mlb-9-innings-24.json) |
+| MLB 9 Innings GM | 143167 | [143167-mlb-9-innings-gm.json](./143167-mlb-9-innings-gm.json) |
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
 | MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
 | MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
@@ -23165,6 +23170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Needy Neighbour Girls | 223257 | [223257-my-needy-neighbour-girls.json](./223257-my-needy-neighbour-girls.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
+| My Neighbor is a Yandere!?: Chapter 2 | 143136 | [143136-my-neighbor-is-a-yandere-chapter-2.json](./143136-my-neighbor-is-a-yandere-chapter-2.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
 | My Neighbor Neko | 232630 | [232630-my-neighbor-neko.json](./232630-my-neighbor-neko.json) |
 | My Neighbor Stinks | 401573 | [401573-my-neighbor-stinks.json](./401573-my-neighbor-stinks.json) |
