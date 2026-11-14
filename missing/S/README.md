@@ -1517,12 +1517,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown V Perfect | 237685 | [237685-samurai-shodown-v-perfect.json](./237685-samurai-shodown-v-perfect.json) |
 | Samurai Shodown V Special | 39566 | [39566-samurai-shodown-v-special.json](./39566-samurai-shodown-v-special.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
+| Samurai Shodown: Basara | 155208 | [155208-samurai-shodown-basara.json](./155208-samurai-shodown-basara.json) |
+| Samurai Shodown: Cham Cham | 155200 | [155200-samurai-shodown-cham-cham.json](./155200-samurai-shodown-cham-cham.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
 | Samurai Shodown: Genjuro Retro 3D Costume | 350169 | [350169-samurai-shodown-genjuro-retro-3d-costume.json](./350169-samurai-shodown-genjuro-retro-3d-costume.json) |
 | Samurai Shodown: Haohmaru Retro 3D Costume | 350170 | [350170-samurai-shodown-haohmaru-retro-3d-costume.json](./350170-samurai-shodown-haohmaru-retro-3d-costume.json) |
+| Samurai Shodown: Hibiki Takane | 155203 | [155203-samurai-shodown-hibiki-takane.json](./155203-samurai-shodown-hibiki-takane.json) |
+| Samurai Shodown: Iroha | 155202 | [155202-samurai-shodown-iroha.json](./155202-samurai-shodown-iroha.json) |
+| Samurai Shodown: Kazuki Kazama | 155204 | [155204-samurai-shodown-kazuki-kazama.json](./155204-samurai-shodown-kazuki-kazama.json) |
+| Samurai Shodown: Mina Majikina | 155198 | [155198-samurai-shodown-mina-majikina.json](./155198-samurai-shodown-mina-majikina.json) |
 | Samurai Shodown: Nakoruru Retro 3D Costume | 350223 | [350223-samurai-shodown-nakoruru-retro-3d-costume.json](./350223-samurai-shodown-nakoruru-retro-3d-costume.json) |
 | Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
+| Samurai Shodown: Rimururu | 155201 | [155201-samurai-shodown-rimururu.json](./155201-samurai-shodown-rimururu.json) |
+| Samurai Shodown: Shiro Tokisada Amakusa | 155197 | [155197-samurai-shodown-shiro-tokisada-amakusa.json](./155197-samurai-shodown-shiro-tokisada-amakusa.json) |
+| Samurai Shodown: Sogetsu Kazama | 155199 | [155199-samurai-shodown-sogetsu-kazama.json](./155199-samurai-shodown-sogetsu-kazama.json) |
+| Samurai Shodown: Wan-Fu | 155205 | [155205-samurai-shodown-wan-fu.json](./155205-samurai-shodown-wan-fu.json) |
+| Samurai Shodown: Warden | 155206 | [155206-samurai-shodown-warden.json](./155206-samurai-shodown-warden.json) |
 | Samurai Shodown: Warriors Rage | 45053 | [45053-samurai-shodown-warriors-rage.json](./45053-samurai-shodown-warriors-rage.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
@@ -1765,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Decay | 386085 | [386085-sands-of-decay.json](./386085-sands-of-decay.json) |
 | Sands of Destruction | 24331 | [24331-sands-of-destruction.json](./24331-sands-of-destruction.json) |
 | Sands of Fate | 414293 | [414293-sands-of-fate.json](./414293-sands-of-fate.json) |
+| Sands of Fire | 155228 | [155228-sands-of-fire.json](./155228-sands-of-fire.json) |
 | Sands of Hope | 289459 | [289459-sands-of-hope.json](./289459-sands-of-hope.json) |
 | Sands of Liberty | 177602 | [177602-sands-of-liberty.json](./177602-sands-of-liberty.json) |
 | Sands of Mars | 280882 | [280882-sands-of-mars.json](./280882-sands-of-mars.json) |
@@ -8763,10 +8775,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue II | 1218 | [1218-shenmue-ii.json](./1218-shenmue-ii.json) |
 | Shenmue III Enhanced | 361664 | [361664-shenmue-iii-enhanced.json](./361664-shenmue-iii-enhanced.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
+| Shenmue III: Big Merry Cruise | 155217 | [155217-shenmue-iii-big-merry-cruise.json](./155217-shenmue-iii-big-merry-cruise.json) |
 | Shenmue III: Collector's Edition | 296044 | [296044-shenmue-iii-collectors-edition.json](./296044-shenmue-iii-collectors-edition.json) |
 | Shenmue III: Day One Edition | 136001 | [136001-shenmue-iii-day-one-edition.json](./136001-shenmue-iii-day-one-edition.json) |
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shenmue III: Digital Deluxe Edition | 119897 | [119897-shenmue-iii-digital-deluxe-edition.json](./119897-shenmue-iii-digital-deluxe-edition.json) |
+| Shenmue III: Story Quest Pack | 155219 | [155219-shenmue-iii-story-quest-pack.json](./155219-shenmue-iii-story-quest-pack.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | Shénqiāng Shàonǚ | 129918 | [129918-shenqiang-shaonu.json](./129918-shenqiang-shaonu.json) |
@@ -11842,6 +11856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverbrook: a Text-Based RPG | 404609 | [404609-silverbrook-a-text-based-rpg.json](./404609-silverbrook-a-text-based-rpg.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
+| Silverfall: Complete | 155226 | [155226-silverfall-complete.json](./155226-silverfall-complete.json) |
 | Silverfall: Earth Awakening | 11353 | [11353-silverfall-earth-awakening.json](./11353-silverfall-earth-awakening.json) |
 | SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
 | Silverio Saga Series: Artemis Package | 113205 | [113205-silverio-saga-series-artemis-package.json](./113205-silverio-saga-series-artemis-package.json) |
@@ -21410,6 +21425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Elite Force 2 in 1 | 213856 | [213856-space-elite-force-2-in-1.json](./213856-space-elite-force-2-in-1.json) |
 | Space Elite Force II | 128181 | [128181-space-elite-force-ii.json](./128181-space-elite-force-ii.json) |
 | Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
+| Space Empires Complete Pack | 155232 | [155232-space-empires-complete-pack.json](./155232-space-empires-complete-pack.json) |
 | Space Empires I | 290580 | [290580-space-empires-i.json](./290580-space-empires-i.json) |
 | Space Empires II | 15650 | [15650-space-empires-ii.json](./15650-space-empires-ii.json) |
 | Space Empires III | 15651 | [15651-space-empires-iii.json](./15651-space-empires-iii.json) |
@@ -32279,6 +32295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
+| Sudden Strike 3: The Last Stand | 155243 | [155243-sudden-strike-3-the-last-stand.json](./155243-sudden-strike-3-the-last-stand.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
 | Sudden Strike 4: Complete Collection | 119921 | [119921-sudden-strike-4-complete-collection.json](./119921-sudden-strike-4-complete-collection.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
