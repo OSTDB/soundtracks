@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-14T23:21:08.429Z",
-  "total_soundtracks": 3307,
+  "generated_at": "2026-11-14T23:41:20.413Z",
+  "total_soundtracks": 3311,
   "games": [
     {
       "igdb_id": 7522,
@@ -6415,6 +6415,20 @@
         {
           "album_name": "Chronology (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4RPvSwYDQnKjPplQxvomHk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 185757,
+      "game_name": "Circus Electrique",
+      "game_url": "https://ostdb.net/games/circus-electrique",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273975ab4410c5392cfcd5be5a7",
+      "albums": [
+        {
+          "album_name": "Circus Electrique (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6T15OJrSyY8fkVc3RnRHvI",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13897,6 +13911,20 @@
       ]
     },
     {
+      "igdb_id": 208399,
+      "game_name": "Gangs of Sherwood",
+      "game_url": "https://ostdb.net/games/gangs-of-sherwood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d1a38f6f1f33dd64644df9d7",
+      "albums": [
+        {
+          "album_name": "Gangs of Sherwood (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2wGivRG1kY7kFhMSiu5CWZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119856,
       "game_name": "Garden Story",
       "game_url": "https://ostdb.net/games/garden-story",
@@ -20437,6 +20465,20 @@
         {
           "album_name": "Lumino City (The Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0GBB1OjjksPBDEOUI7N1oc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 173097,
+      "game_name": "Lumote: The Mastermote Chronicles",
+      "game_url": "https://ostdb.net/games/lumote-the-mastermote-chronicles",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c635490c9c9c5415a0181739",
+      "albums": [
+        {
+          "album_name": "Lumote: The Mastermote Chronicles (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3fKOjIFXYJsvtPZEWg4h0k",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -41008,6 +41050,20 @@
           "album_name": "What Remains of Edith Finch (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0dI3DcRX27ovAqUgSkyxlJ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204348,
+      "game_name": "What the Bat?",
+      "game_url": "https://ostdb.net/games/what-the-bat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377fb8b90db2edfee6ca30ffa",
+      "albums": [
+        {
+          "album_name": "WHAT THE BAT? (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/52LCenkn6RhHRBthhKcTB5",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
