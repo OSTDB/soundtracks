@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julia's Quest: United Kingdom | 54147 | [54147-julias-quest-united-kingdom.json](./54147-julias-quest-united-kingdom.json) |
 | Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
 | Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
+| Julie's Sweets | 111960 | [111960-julies-sweets.json](./111960-julies-sweets.json) |
 | Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
 | Julius | 405771 | [405771-julius.json](./405771-julius.json) |
 | Julius Styles: The International | 65732 | [65732-julius-styles-the-international.json](./65732-julius-styles-the-international.json) |
