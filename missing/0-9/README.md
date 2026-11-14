@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Animal Math Games For Kids | 79085 | [79085-123-animal-math-games-for-kids.json](./79085-123-animal-math-games-for-kids.json) |
 | 123 Animal Preschool Games for Kids | 58575 | [58575-123-animal-preschool-games-for-kids.json](./58575-123-animal-preschool-games-for-kids.json) |
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
+| 123 Dots | 159402 | [159402-123-dots.json](./159402-123-dots.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Kids Fun Education | 91076 | [91076-123-kids-fun-education.json](./91076-123-kids-fun-education.json) |
 | 123 Kids Fun Flashcards | 87397 | [87397-123-kids-fun-flashcards.json](./87397-123-kids-fun-flashcards.json) |
@@ -1491,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942 Delta | 191285 | [191285-1942-delta.json](./191285-1942-delta.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
+| 1942 Wing Baron | 159403 | [159403-1942-wing-baron.json](./159403-1942-wing-baron.json) |
 | 1942: Joint Strike | 21346 | [21346-1942-joint-strike.json](./21346-1942-joint-strike.json) |
 | 1942: Joint Strike Elefunk | 99980 | [99980-1942-joint-strike-elefunk.json](./99980-1942-joint-strike-elefunk.json) |
 | 1942: Pacific Air War | 47006 | [47006-1942-pacific-air-war.json](./47006-1942-pacific-air-war.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3Chess | 400449 | [400449-3chess.json](./400449-3chess.json) |
+| 3D Advantime | 159401 | [159401-3d-advantime.json](./159401-3d-advantime.json) |
 | 3D After Burner II | 84678 | [84678-3d-after-burner-ii.json](./84678-3d-after-burner-ii.json) |
 | 3D Aim Trainer | 133615 | [133615-3d-aim-trainer.json](./133615-3d-aim-trainer.json) |
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
