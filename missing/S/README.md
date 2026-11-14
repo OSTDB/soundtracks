@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
 | Schwarzschild EX: Tessa no Seigun | 79440 | [79440-schwarzschild-ex-tessa-no-seigun.json](./79440-schwarzschild-ex-tessa-no-seigun.json) |
 | Schwarzschild GX: Sabita Sousei | 91645 | [91645-schwarzschild-gx-sabita-sousei.json](./91645-schwarzschild-gx-sabita-sousei.json) |
+| Schwarzschild V: Shinnou Tanjou | 124331 | [124331-schwarzschild-v-shinnou-tanjou.json](./124331-schwarzschild-v-shinnou-tanjou.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
@@ -8891,6 +8892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
 | Sherlock Holmes: Hakushaku Reijou Yuukai Jiken | 48396 | [48396-sherlock-holmes-hakushaku-reijou-yuukai-jiken.json](./48396-sherlock-holmes-hakushaku-reijou-yuukai-jiken.json) |
 | Sherlock Holmes: Nemesis | 6863 | [6863-sherlock-holmes-nemesis.json](./6863-sherlock-holmes-nemesis.json) |
+| Sherlock Holmes: Nemesis - Remastered | 124854 | [124854-sherlock-holmes-nemesis-remastered.json](./124854-sherlock-holmes-nemesis-remastered.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
 | Sherlock Holmes: The Awakened | 6815 | [6815-sherlock-holmes-the-awakened.json](./6815-sherlock-holmes-the-awakened.json) |
 | Sherlock Holmes: The Awakened - Deluxe Edition | 240984 | [240984-sherlock-holmes-the-awakened-deluxe-edition.json](./240984-sherlock-holmes-the-awakened-deluxe-edition.json) |
@@ -26521,6 +26523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Galactic Edition | 154224 | [154224-star-control-origins-galactic-edition.json](./154224-star-control-origins-galactic-edition.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
+| Star Control: Origins - Reinforcements | 124876 | [124876-star-control-origins-reinforcements.json](./124876-star-control-origins-reinforcements.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
 | Star Court | 184774 | [184774-star-court.json](./184774-star-court.json) |
 | Star Crafter | 329131 | [329131-star-crafter.json](./329131-star-crafter.json) |
@@ -27922,6 +27925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpoint Gemini Warlords - Titans Return | 124923 | [124923-starpoint-gemini-warlords-titans-return.json](./124923-starpoint-gemini-warlords-titans-return.json) |
 | Starpoint Gemini Warlords: Digital Deluxe Edition | 51895 | [51895-starpoint-gemini-warlords-digital-deluxe-edition.json](./51895-starpoint-gemini-warlords-digital-deluxe-edition.json) |
 | Starpoint Gemini Warlords: Endpoint | 124780 | [124780-starpoint-gemini-warlords-endpoint.json](./124780-starpoint-gemini-warlords-endpoint.json) |
+| Starpoint Gemini Warlords: Rise of Numibia | 124848 | [124848-starpoint-gemini-warlords-rise-of-numibia.json](./124848-starpoint-gemini-warlords-rise-of-numibia.json) |
 | Starpoly | 296261 | [296261-starpoly.json](./296261-starpoly.json) |
 | Starport: Galactic Empires | 98266 | [98266-starport-galactic-empires.json](./98266-starport-galactic-empires.json) |
 | StarPrey | 143027 | [143027-starprey.json](./143027-starprey.json) |
@@ -28700,6 +28704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth ATF | 48237 | [48237-stealth-atf.json](./48237-stealth-atf.json) |
 | Stealth Bastard | 10923 | [10923-stealth-bastard.json](./10923-stealth-bastard.json) |
 | Stealth Bastard Deluxe | 10922 | [10922-stealth-bastard-deluxe.json](./10922-stealth-bastard-deluxe.json) |
+| Stealth Bastard Deluxe: Complete Edition | 124874 | [124874-stealth-bastard-deluxe-complete-edition.json](./124874-stealth-bastard-deluxe-complete-edition.json) |
 | Stealth Bastard Deluxe: The Teleporter Chambers | 10924 | [10924-stealth-bastard-deluxe-the-teleporter-chambers.json](./10924-stealth-bastard-deluxe-the-teleporter-chambers.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
@@ -28873,6 +28878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Heist | 15167 | [15167-steamworld-heist.json](./15167-steamworld-heist.json) |
 | SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
+| SteamWorld Heist: Hatbox - Hatful Eight + 2 | 124849 | [124849-steamworld-heist-hatbox-hatful-eight-2.json](./124849-steamworld-heist-hatbox-hatful-eight-2.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
 | SteamWorld Quest: Hand of Gilgamech | 114415 | [114415-steamworld-quest-hand-of-gilgamech.json](./114415-steamworld-quest-hand-of-gilgamech.json) |
 | Steamwrecked | 387023 | [387023-steamwrecked.json](./387023-steamwrecked.json) |
@@ -29312,6 +29318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Galaxy Command | 138570 | [138570-stellaris-galaxy-command.json](./138570-stellaris-galaxy-command.json) |
 | Stellaris: Galaxy Edition | 53670 | [53670-stellaris-galaxy-edition.json](./53670-stellaris-galaxy-edition.json) |
 | Stellaris: Grand Archive | 298125 | [298125-stellaris-grand-archive.json](./298125-stellaris-grand-archive.json) |
+| Stellaris: Horizon Signal | 124856 | [124856-stellaris-horizon-signal.json](./124856-stellaris-horizon-signal.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: Infernals Species Pack | 401938 | [401938-stellaris-infernals-species-pack.json](./401938-stellaris-infernals-species-pack.json) |
 | Stellaris: Leviathans | 25566 | [25566-stellaris-leviathans.json](./25566-stellaris-leviathans.json) |
@@ -30428,6 +30435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Stradiwackius: The Counting Concert | 207114 | [207114-stradiwackius-the-counting-concert.json](./207114-stradiwackius-the-counting-concert.json) |
 | Strafe | 9062 | [9062-strafe.json](./9062-strafe.json) |
+| Strafe: Millennium Edition | 124855 | [124855-strafe-millennium-edition.json](./124855-strafe-millennium-edition.json) |
 | Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Straftat: Weapons, Maps and Hats | 326569 | [326569-straftat-weapons-maps-and-hats.json](./326569-straftat-weapons-maps-and-hats.json) |
@@ -31716,6 +31724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader II: Delivering Justice mini-campaign | 87806 | [87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json](./87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json) |
 | Stronghold Crusader II: Freedom Fighters mini-campaign | 87805 | [87805-stronghold-crusader-ii-freedom-fighters-mini-campaign.json](./87805-stronghold-crusader-ii-freedom-fighters-mini-campaign.json) |
 | Stronghold Crusader II: The Emperor and The Hermit | 89218 | [89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json](./89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json) |
+| Stronghold Crusader II: The Jackal & The Khan | 124862 | [124862-stronghold-crusader-ii-the-jackal-and-the-khan.json](./124862-stronghold-crusader-ii-the-jackal-and-the-khan.json) |
 | Stronghold Crusader II: The Princess and The Pig | 89217 | [89217-stronghold-crusader-ii-the-princess-and-the-pig.json](./89217-stronghold-crusader-ii-the-princess-and-the-pig.json) |
 | Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
 | Stronghold Crusader: Definitive Edition - Baldwin & Bullseye | 396611 | [396611-stronghold-crusader-definitive-edition-baldwin-and-bullseye.json](./396611-stronghold-crusader-definitive-edition-baldwin-and-bullseye.json) |
@@ -32435,6 +32444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4: Complete Collection | 119921 | [119921-sudden-strike-4-complete-collection.json](./119921-sudden-strike-4-complete-collection.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
+| Sudden Strike 4: Road to Dunkirk | 124839 | [124839-sudden-strike-4-road-to-dunkirk.json](./124839-sudden-strike-4-road-to-dunkirk.json) |
 | Sudden Strike 4: Steelbook Edition | 166280 | [166280-sudden-strike-4-steelbook-edition.json](./166280-sudden-strike-4-steelbook-edition.json) |
 | Sudden Strike 4: The Pacific War | 125002 | [125002-sudden-strike-4-the-pacific-war.json](./125002-sudden-strike-4-the-pacific-war.json) |
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
