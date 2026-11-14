@@ -8839,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Color | 258110 | [258110-lost-color.json](./258110-lost-color.json) |
 | Lost Colors | 112520 | [112520-lost-colors.json](./112520-lost-colors.json) |
 | Lost Colors: World of Secrets | 237599 | [237599-lost-colors-world-of-secrets.json](./237599-lost-colors-world-of-secrets.json) |
+| Lost Connection | 111800 | [111800-lost-connection.json](./111800-lost-connection.json) |
 | Lost Connection | 378392 | [378392-lost-connection.json](./378392-lost-connection.json) |
 | Lost Connections | 254371 | [254371-lost-connections.json](./254371-lost-connections.json) |
 | Lost Contact | 189334 | [189334-lost-contact.json](./189334-lost-contact.json) |
