@@ -866,6 +866,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenkai | 239596 | [239596-zenkai.json](./239596-zenkai.json) |
 | Zenkat | 119470 | [119470-zenkat.json](./119470-zenkat.json) |
 | Zenko: A Fox's Tale | 152848 | [152848-zenko-a-foxs-tale.json](./152848-zenko-a-foxs-tale.json) |
+| Zenkoku Baken Ouja Ketteisen | 150201 | [150201-zenkoku-baken-ouja-ketteisen.json](./150201-zenkoku-baken-ouja-ketteisen.json) |
+| Zenkoku Baken Ouja Ketteisen 2 | 150205 | [150205-zenkoku-baken-ouja-ketteisen-2.json](./150205-zenkoku-baken-ouja-ketteisen-2.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Omoshiro Bamei S | 341157 | [341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json](./341157-zenkoku-baken-ouja-ketteisen-2-omoshiro-bamei-s.json) |
 | Zenkoku Baken Ouja Ketteisen 2: Satella Mile Yosen 1 | 341158 | [341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json](./341158-zenkoku-baken-ouja-ketteisen-2-satella-mile-yosen-1.json) |
 | Zenkoku Dekotora Matsuri | 198171 | [198171-zenkoku-dekotora-matsuri.json](./198171-zenkoku-dekotora-matsuri.json) |
