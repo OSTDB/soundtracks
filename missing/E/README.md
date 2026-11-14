@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastpunk: Journey | 249668 | [249668-eastpunk-journey.json](./249668-eastpunk-journey.json) |
 | Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
 | Eastside Hockey Manager | 71414 | [71414-eastside-hockey-manager.json](./71414-eastside-hockey-manager.json) |
+| Eastville Chronicles: The Drama Queen Murder | 122438 | [122438-eastville-chronicles-the-drama-queen-murder.json](./122438-eastville-chronicles-the-drama-queen-murder.json) |
 | Eastward Legend: The Empyrean | 119414 | [119414-eastward-legend-the-empyrean.json](./119414-eastward-legend-the-empyrean.json) |
 | Eastward: Between Two Worlds Bundle | 284949 | [284949-eastward-between-two-worlds-bundle.json](./284949-eastward-between-two-worlds-bundle.json) |
 | Eastward: Octopia! | 266688 | [266688-eastward-octopia.json](./266688-eastward-octopia.json) |
@@ -7705,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertale | 113924 | [113924-evertale.json](./113924-evertale.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertech Sandbox | 102662 | [102662-evertech-sandbox.json](./102662-evertech-sandbox.json) |
+| Evertile: Battle Arena | 122463 | [122463-evertile-battle-arena.json](./122463-evertile-battle-arena.json) |
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
 | Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
