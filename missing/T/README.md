@@ -13202,6 +13202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope | 368609 | [368609-the-last-hope.json](./368609-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
 | The Last Hope: Dead Zone Survival | 255502 | [255502-the-last-hope-dead-zone-survival.json](./255502-the-last-hope-dead-zone-survival.json) |
+| The Last Hope: Zombie Defense TD | 163581 | [163581-the-last-hope-zombie-defense-td.json](./163581-the-last-hope-zombie-defense-td.json) |
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
 | The Last Hour | 139050 | [139050-the-last-hour.json](./139050-the-last-hour.json) |
