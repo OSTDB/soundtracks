@@ -6452,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon: DYH - Chapter 2 | 243613 | [243613-chameleon-dyh-chapter-2.json](./243613-chameleon-dyh-chapter-2.json) |
 | Chameleon: DYH - Season Finale | 373608 | [373608-chameleon-dyh-season-finale.json](./373608-chameleon-dyh-season-finale.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
+| ChameleonMan | 102434 | [102434-chameleonman.json](./102434-chameleonman.json) |
 | Chameneon | 185921 | [185921-chameneon.json](./185921-chameneon.json) |
 | Champ Against Chumps | 108839 | [108839-champ-against-chumps.json](./108839-champ-against-chumps.json) |
 | Champ Against Chumps Upgrade Edition | 97176 | [97176-champ-against-chumps-upgrade-edition.json](./97176-champ-against-chumps-upgrade-edition.json) |
@@ -8269,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Sandbox | 361930 | [361930-childrens-sandbox.json](./361930-childrens-sandbox.json) |
 | Children's Story | 128755 | [128755-childrens-story.json](./128755-childrens-story.json) |
 | ChildrenBreak | 97239 | [97239-childrenbreak.json](./97239-childrenbreak.json) |
+| Childrens Coloring Book Age 3 -10 | 102460 | [102460-childrens-coloring-book-age-3-10.json](./102460-childrens-coloring-book-age-3-10.json) |
 | ChildStory | 152529 | [152529-childstory.json](./152529-childstory.json) |
 | Chili Con Carnage | 23111 | [23111-chili-con-carnage.json](./23111-chili-con-carnage.json) |
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
