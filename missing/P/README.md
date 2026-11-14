@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papo World Cleaning Day | 299233 | [299233-papo-world-cleaning-day.json](./299233-papo-world-cleaning-day.json) |
 | Papo World Dinosaur Island | 299272 | [299272-papo-world-dinosaur-island.json](./299272-papo-world-dinosaur-island.json) |
 | Papo World Playground | 299239 | [299239-papo-world-playground.json](./299239-papo-world-playground.json) |
+| Pappara Paoon | 109079 | [109079-pappara-paoon.json](./109079-pappara-paoon.json) |
 | Papper and Carrot VN | 184006 | [184006-papper-and-carrot-vn.json](./184006-papper-and-carrot-vn.json) |
 | Papper Balls | 110539 | [110539-papper-balls.json](./110539-papper-balls.json) |
 | Paprika Trainer | 280263 | [280263-paprika-trainer.json](./280263-paprika-trainer.json) |
@@ -15732,6 +15733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey at the Altar | 300360 | [300360-prey-at-the-altar.json](./300360-prey-at-the-altar.json) |
+| Prey Day: Survival | 109091 | [109091-prey-day-survival.json](./109091-prey-day-survival.json) |
 | Prey Evil | 225437 | [225437-prey-evil.json](./225437-prey-evil.json) |
 | Prey Invasion | 67860 | [67860-prey-invasion.json](./67860-prey-invasion.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
