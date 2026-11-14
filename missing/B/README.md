@@ -7255,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bepuzzled Jigsaw Puzzle: Sweets | 241660 | [241660-bepuzzled-jigsaw-puzzle-sweets.json](./241660-bepuzzled-jigsaw-puzzle-sweets.json) |
 | Bepuzzled Kittens Jigsaw Puzzle | 119727 | [119727-bepuzzled-kittens-jigsaw-puzzle.json](./119727-bepuzzled-kittens-jigsaw-puzzle.json) |
 | Bepuzzled Puppy Dog Jigsaw Puzzle | 241656 | [241656-bepuzzled-puppy-dog-jigsaw-puzzle.json](./241656-bepuzzled-puppy-dog-jigsaw-puzzle.json) |
+| Bepuzzled Space Jigsaw Puzzle | 119837 | [119837-bepuzzled-space-jigsaw-puzzle.json](./119837-bepuzzled-space-jigsaw-puzzle.json) |
 | Bepuzzled Ultimate Jigsaw Puzzle Mega Bundle | 226250 | [226250-bepuzzled-ultimate-jigsaw-puzzle-mega-bundle.json](./226250-bepuzzled-ultimate-jigsaw-puzzle-mega-bundle.json) |
 | BER Bausimulator | 137651 | [137651-ber-bausimulator.json](./137651-ber-bausimulator.json) |
 | Beraboh Man | 40264 | [40264-beraboh-man.json](./40264-beraboh-man.json) |
@@ -12002,6 +12003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Guts Bundle | 147758 | [147758-blood-and-guts-bundle.json](./147758-blood-and-guts-bundle.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
 | Blood and Lust | 119885 | [119885-blood-and-lust.json](./119885-blood-and-lust.json) |
+| Blood and Mead | 119859 | [119859-blood-and-mead.json](./119859-blood-and-mead.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
 | Blood and Sorcery | 215484 | [215484-blood-and-sorcery.json](./215484-blood-and-sorcery.json) |
 | Blood and Soul | 135803 | [135803-blood-and-soul.json](./135803-blood-and-soul.json) |
@@ -14860,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born Into Fear | 164980 | [164980-born-into-fear.json](./164980-born-into-fear.json) |
 | Born of Bread | 146525 | [146525-born-of-bread.json](./146525-born-of-bread.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
+| Born of Fire | 119863 | [119863-born-of-fire.json](./119863-born-of-fire.json) |
 | Born Punk | 128459 | [128459-born-punk.json](./128459-born-punk.json) |
 | Born Race | 145757 | [145757-born-race.json](./145757-born-race.json) |
 | Born to Be Big | 228825 | [228825-born-to-be-big.json](./228825-born-to-be-big.json) |
@@ -18763,6 +18766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 299090 | [299090-bugs.json](./299090-bugs.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs | 397851 | [397851-bugs.json](./397851-bugs.json) |
+| Bugs 'N Boo Hags | 119812 | [119812-bugs-n-boo-hags.json](./119812-bugs-n-boo-hags.json) |
 | Bugs & Birdies | 416204 | [416204-bugs-and-birdies.json](./416204-bugs-and-birdies.json) |
 | Bugs and Bullets | 235055 | [235055-bugs-and-bullets.json](./235055-bugs-and-bullets.json) |
 | Bugs Bunny | 198703 | [198703-bugs-bunny.json](./198703-bugs-bunny.json) |
