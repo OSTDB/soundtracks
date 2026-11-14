@@ -3573,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
 | Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
 | Weird Wormholes | 323438 | [323438-weird-wormholes.json](./323438-weird-wormholes.json) |
+| Weird-Egg and Crushing Finger | 128700 | [128700-weird-egg-and-crushing-finger.json](./128700-weird-egg-and-crushing-finger.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
 | Weirdest Thing | 110617 | [110617-weirdest-thing.json](./110617-weirdest-thing.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
@@ -10134,6 +10135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | Wrought Flesh | 184780 | [184780-wrought-flesh.json](./184780-wrought-flesh.json) |
+| Wrrrmz | 128694 | [128694-wrrrmz.json](./128694-wrrrmz.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
 | WSC Real 09: World Snooker Championship | 5293 | [5293-wsc-real-09-world-snooker-championship.json](./5293-wsc-real-09-world-snooker-championship.json) |
 | WSC Real 11 | 95364 | [95364-wsc-real-11.json](./95364-wsc-real-11.json) |
