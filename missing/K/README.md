@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Hell | 298671 | [298671-king-of-hell.json](./298671-king-of-hell.json) |
 | King of Heroes | 188773 | [188773-king-of-heroes.json](./188773-king-of-heroes.json) |
 | King of Holo | 405116 | [405116-king-of-holo.json](./405116-king-of-holo.json) |
+| King of Hunters | 125501 | [125501-king-of-hunters.json](./125501-king-of-hunters.json) |
 | King of Kalimpong | 203312 | [203312-king-of-kalimpong.json](./203312-king-of-kalimpong.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 1 - Kipper-Hen | 140933 | [140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json](./140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json) |
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 2 | 139568 | [139568-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-2.json](./139568-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-2.json) |
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 3 - Chip-Hen | 140932 | [140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json](./140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json) |
+| Kipulkai: La Légende des 3 Masques | 125496 | [125496-kipulkai-la-legende-des-3-masques.json](./125496-kipulkai-la-legende-des-3-masques.json) |
 | Kira | 29151 | [29151-kira.json](./29151-kira.json) |
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
 | Kira Kano | 304485 | [304485-kira-kano.json](./304485-kira-kano.json) |
@@ -5717,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komrad | 171774 | [171774-komrad.json](./171774-komrad.json) |
 | Komu | 409598 | [409598-komu.json](./409598-komu.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
+| Kon Kon | 125486 | [125486-kon-kon.json](./125486-kon-kon.json) |
 | KON: Knights of Night | 57545 | [57545-kon-knights-of-night.json](./57545-kon-knights-of-night.json) |
 | Kon's Lesson! | 263801 | [263801-kons-lesson.json](./263801-kons-lesson.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
