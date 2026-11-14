@@ -12196,6 +12196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Sins | 284016 | [284016-blood-sins.json](./284016-blood-sins.json) |
 | Blood Soaked Bastard! | 349997 | [349997-blood-soaked-bastard.json](./349997-blood-soaked-bastard.json) |
 | Blood Souls | 199339 | [199339-blood-souls.json](./199339-blood-souls.json) |
+| Blood Soup | 150182 | [150182-blood-soup.json](./150182-blood-soup.json) |
+| Blood Soup 2 | 150183 | [150183-blood-soup-2.json](./150183-blood-soup-2.json) |
 | Blood Spear | 163208 | [163208-blood-spear.json](./163208-blood-spear.json) |
 | Blood Sport | 13243 | [13243-blood-sport.json](./13243-blood-sport.json) |
 | Blood Storm | 405339 | [405339-blood-storm.json](./405339-blood-storm.json) |
@@ -12889,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Rose Reprise | 35464 | [35464-blue-rose-reprise.json](./35464-blue-rose-reprise.json) |
 | Blue Roses: Yousei to Aoi Hitomi no Senshi-tachi | 56538 | [56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json](./56538-blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi.json) |
+| Blue Sabers: Early Mission | 150200 | [150200-blue-sabers-early-mission.json](./150200-blue-sabers-early-mission.json) |
 | Blue Sabers: Operation Orbital Hammer | 130510 | [130510-blue-sabers-operation-orbital-hammer.json](./130510-blue-sabers-operation-orbital-hammer.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Screen Adventures | 31519 | [31519-blue-screen-adventures.json](./31519-blue-screen-adventures.json) |
