@@ -10793,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Shell | 408593 | [408593-angel-shell.json](./408593-angel-shell.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Squad | 216082 | [216082-angel-squad.json](./216082-angel-squad.json) |
+| Angel Star Road: Champion Carnival | 125488 | [125488-angel-star-road-champion-carnival.json](./125488-angel-star-road-champion-carnival.json) |
 | Angel Sweet | 261446 | [261446-angel-sweet.json](./261446-angel-sweet.json) |
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
 | Angel Tear: Goddess Betrayed | 291845 | [291845-angel-tear-goddess-betrayed.json](./291845-angel-tear-goddess-betrayed.json) |
@@ -14651,6 +14652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanum Bonus Maps | 271954 | [271954-arcanum-bonus-maps.json](./271954-arcanum-bonus-maps.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
 | Arcanum Fortuna | 288711 | [288711-arcanum-fortuna.json](./288711-arcanum-fortuna.json) |
+| Arcanum Knights | 125512 | [125512-arcanum-knights.json](./125512-arcanum-knights.json) |
 | Arcanum: of Steamworks and Magick Obscura | 255 | [255-arcanum-of-steamworks-and-magick-obscura.json](./255-arcanum-of-steamworks-and-magick-obscura.json) |
 | Arcanum: Theory of Magic | 328899 | [328899-arcanum-theory-of-magic.json](./328899-arcanum-theory-of-magic.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
@@ -15168,6 +15170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
 | Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
 | Arena66 | 132195 | [132195-arena66.json](./132195-arena66.json) |
+| ArenaM | 125533 | [125533-arenam.json](./125533-arenam.json) |
 | ArenaMania | 228205 | [228205-arenamania.json](./228205-arenamania.json) |
 | Arenas of Tanks | 201394 | [201394-arenas-of-tanks.json](./201394-arenas-of-tanks.json) |
 | ArenaWar | 275109 | [275109-arenawar.json](./275109-arenawar.json) |
