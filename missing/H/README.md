@@ -8435,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
 | High School Fighting Game | 297988 | [297988-high-school-fighting-game.json](./297988-high-school-fighting-game.json) |
 | High School Games Offline 2023 | 296759 | [296759-high-school-games-offline-2023.json](./296759-high-school-games-offline-2023.json) |
+| High School Gang | 102435 | [102435-high-school-gang.json](./102435-high-school-gang.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
