@@ -7202,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
 | Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
 | Alchemist | 406376 | [406376-alchemist.json](./406376-alchemist.json) |
+| Alchemist | 81557 | [81557-alchemist.json](./81557-alchemist.json) |
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
 | Alchemist Arena | 195460 | [195460-alchemist-arena.json](./195460-alchemist-arena.json) |
 | Alchemist Bundle | 295645 | [295645-alchemist-bundle.json](./295645-alchemist-bundle.json) |
