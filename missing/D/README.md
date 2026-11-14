@@ -9783,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Geschichte des Herrn P. | 405495 | [405495-die-geschichte-des-herrn-p.json](./405495-die-geschichte-des-herrn-p.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Große Jump & Run-Box | 93971 | [93971-die-gro-e-jump-and-run-box.json](./93971-die-gro-e-jump-and-run-box.json) |
+| Die Hard | 131004 | [131004-die-hard.json](./131004-die-hard.json) |
 | Die Hard | 245290 | [245290-die-hard.json](./245290-die-hard.json) |
 | Die Hard | 47188 | [47188-die-hard.json](./47188-die-hard.json) |
 | Die Hard | 72331 | [72331-die-hard.json](./72331-die-hard.json) |
@@ -12818,6 +12819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Dots | 187686 | [187686-dodge-dots.json](./187686-dodge-dots.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
+| Dodge If you Can! | 130974 | [130974-dodge-if-you-can.json](./130974-dodge-if-you-can.json) |
 | Dodge It | 369805 | [369805-dodge-it.json](./369805-dodge-it.json) |
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
 | Dodge It! 2 | 188724 | [188724-dodge-it-2.json](./188724-dodge-it-2.json) |
