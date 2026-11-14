@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Neko | 134184 | [134184-last-neko.json](./134184-last-neko.json) |
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
+| Last Night in Tokyo | 148050 | [148050-last-night-in-tokyo.json](./148050-last-night-in-tokyo.json) |
 | Last Night in Zombie Village | 231182 | [231182-last-night-in-zombie-village.json](./231182-last-night-in-zombie-village.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Night on Actaeon | 237141 | [237141-last-night-on-actaeon.json](./237141-last-night-on-actaeon.json) |
@@ -8318,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
 | Loot Box Waifus | 391689 | [391689-loot-box-waifus.json](./391689-loot-box-waifus.json) |
+| Loot City | 148016 | [148016-loot-city.json](./148016-loot-city.json) |
 | Loot Clicker | 184176 | [184176-loot-clicker.json](./184176-loot-clicker.json) |
 | Loot Collection: Mahjong | 68814 | [68814-loot-collection-mahjong.json](./68814-loot-collection-mahjong.json) |
 | Loot Dungeon | 313941 | [313941-loot-dungeon.json](./313941-loot-dungeon.json) |
@@ -9207,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Satellite | 88115 | [88115-lost-satellite.json](./88115-lost-satellite.json) |
+| Lost Scale: Part One | 148045 | [148045-lost-scale-part-one.json](./148045-lost-scale-part-one.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
 | Lost Sea | 19708 | [19708-lost-sea.json](./19708-lost-sea.json) |
 | Lost Secrets Ancient Mysteries | 25061 | [25061-lost-secrets-ancient-mysteries.json](./25061-lost-secrets-ancient-mysteries.json) |
