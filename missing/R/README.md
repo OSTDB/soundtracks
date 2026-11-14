@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
 | Reeve | 223463 | [223463-reeve.json](./223463-reeve.json) |
 | ReEvolve | 103178 | [103178-reevolve.json](./103178-reevolve.json) |
+| Refactor | 134705 | [134705-refactor.json](./134705-refactor.json) |
 | Refactor | 155510 | [155510-refactor.json](./155510-refactor.json) |
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refactoro: Chaotic Farm | 294961 | [294961-refactoro-chaotic-farm.json](./294961-refactoro-chaotic-farm.json) |
