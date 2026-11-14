@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing Era: Adventure of 2233 | 231122 | [231122-sailing-era-adventure-of-2233.json](./231122-sailing-era-adventure-of-2233.json) |
 | Sailing Era: Edge of the World | 264959 | [264959-sailing-era-edge-of-the-world.json](./264959-sailing-era-edge-of-the-world.json) |
+| Sailing Regatta | 88559 | [88559-sailing-regatta.json](./88559-sailing-regatta.json) |
 | Sailing Simulator: Baltic Sea & Caribbean | 195998 | [195998-sailing-simulator-baltic-sea-and-caribbean.json](./195998-sailing-simulator-baltic-sea-and-caribbean.json) |
 | Sailing Stone | 189881 | [189881-sailing-stone.json](./189881-sailing-stone.json) |
 | Sailing the Winds | 323699 | [323699-sailing-the-winds.json](./323699-sailing-the-winds.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea and Adventure | 289689 | [289689-sea-and-adventure.json](./289689-sea-and-adventure.json) |
 | Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
+| Sea Animals Puzzle Preschool kids Learning Games | 88523 | [88523-sea-animals-puzzle-preschool-kids-learning-games.json](./88523-sea-animals-puzzle-preschool-kids-learning-games.json) |
 | Sea Balloon | 336296 | [336296-sea-balloon.json](./336296-sea-balloon.json) |
 | Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
@@ -10358,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Parking Lot | 93853 | [93853-shopping-mall-parking-lot.json](./93853-shopping-mall-parking-lot.json) |
 | Shopping Mall Renovator | 216671 | [216671-shopping-mall-renovator.json](./216671-shopping-mall-renovator.json) |
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
+| Shopping Mall: The Dress Up Game | 88675 | [88675-shopping-mall-the-dress-up-game.json](./88675-shopping-mall-the-dress-up-game.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
 | Shopping Marathon | 145116 | [145116-shopping-marathon.json](./145116-shopping-marathon.json) |
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
@@ -10650,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
 | Shredder 9 | 92886 | [92886-shredder-9.json](./92886-shredder-9.json) |
+| Shredder Chess for iPad | 88538 | [88538-shredder-chess-for-ipad.json](./88538-shredder-chess-for-ipad.json) |
 | Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
@@ -30416,6 +30420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
 | Storm the Field | 401067 | [401067-storm-the-field.json](./401067-storm-the-field.json) |
+| Storm the Gates | 88546 | [88546-storm-the-gates.json](./88546-storm-the-gates.json) |
 | Storm the House | 341954 | [341954-storm-the-house.json](./341954-storm-the-house.json) |
 | Storm the House 3 | 234944 | [234944-storm-the-house-3.json](./234944-storm-the-house-3.json) |
 | Storm the Swan | 327288 | [327288-storm-the-swan.json](./327288-storm-the-swan.json) |
@@ -32603,6 +32608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Market | 228055 | [228055-sudden-market.json](./228055-sudden-market.json) |
 | Sudden Market: Free Cosmetic DLC | 286982 | [286982-sudden-market-free-cosmetic-dlc.json](./286982-sudden-market-free-cosmetic-dlc.json) |
 | Sudden Soul | 325335 | [325335-sudden-soul.json](./325335-sudden-soul.json) |
+| Sudden Sticks | 88552 | [88552-sudden-sticks.json](./88552-sudden-sticks.json) |
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
@@ -32669,6 +32675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
 | Sudoku | 86387 | [86387-sudoku.json](./86387-sudoku.json) |
 | Sudoku | 86840 | [86840-sudoku.json](./86840-sudoku.json) |
+| Sudoku | 88518 | [88518-sudoku.json](./88518-sudoku.json) |
 | Sudoku - Classic Logic Game | 88778 | [88778-sudoku-classic-logic-game.json](./88778-sudoku-classic-logic-game.json) |
 | Sudoku - Premium Number Puzzle | 89125 | [89125-sudoku-premium-number-puzzle.json](./89125-sudoku-premium-number-puzzle.json) |
 | SuDoku & KaKuro Collector's Edition | 208360 | [208360-sudoku-and-kakuro-collectors-edition.json](./208360-sudoku-and-kakuro-collectors-edition.json) |
@@ -33820,6 +33827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
 | Supaplex | 201721 | [201721-supaplex.json](./201721-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
+| Supaplex 2 | 88566 | [88566-supaplex-2.json](./88566-supaplex-2.json) |
 | Supaplex GO! | 106055 | [106055-supaplex-go.json](./106055-supaplex-go.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex Squares | 105513 | [105513-supaplex-squares.json](./105513-supaplex-squares.json) |
@@ -35873,6 +35881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
+| Super Mega Worm | 88565 | [88565-super-mega-worm.json](./88565-super-mega-worm.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
 | Super Melee Adventure 64 | 194874 | [194874-super-melee-adventure-64.json](./194874-super-melee-adventure-64.json) |
 | Super Meme Clicker | 402666 | [402666-super-meme-clicker.json](./402666-super-meme-clicker.json) |
