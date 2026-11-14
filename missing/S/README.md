@@ -4428,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
+| Sea Diver Simulator 3D - The ocean world | 103729 | [103729-sea-diver-simulator-3d-the-ocean-world.json](./103729-sea-diver-simulator-3d-the-ocean-world.json) |
 | Sea Dogs | 193077 | [193077-sea-dogs.json](./193077-sea-dogs.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: City of Abandoned Ships | 51867 | [51867-sea-dogs-city-of-abandoned-ships.json](./51867-sea-dogs-city-of-abandoned-ships.json) |
@@ -10288,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Cart Defense | 233198 | [233198-shopping-cart-defense.json](./233198-shopping-cart-defense.json) |
 | Shopping Cart Hero | 234985 | [234985-shopping-cart-hero.json](./234985-shopping-cart-hero.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
+| Shopping Cart Hero 3 | 103717 | [103717-shopping-cart-hero-3.json](./103717-shopping-cart-hero-3.json) |
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
 | Shopping Center Tycoon | 110003 | [110003-shopping-center-tycoon.json](./110003-shopping-center-tycoon.json) |
 | Shopping Clutter 10: The Walkers Take the Stage | 281899 | [281899-shopping-clutter-10-the-walkers-take-the-stage.json](./281899-shopping-clutter-10-the-walkers-take-the-stage.json) |
@@ -22149,6 +22151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Rage | 184672 | [184672-space-rage.json](./184672-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
+| Space Raider | 103577 | [103577-space-raider.json](./103577-space-raider.json) |
 | Space Raider | 401271 | [401271-space-raider.json](./401271-space-raider.json) |
 | Space Raiders | 281208 | [281208-space-raiders.json](./281208-space-raiders.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
@@ -25769,6 +25772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Killer | 145190 | [145190-squad-killer.json](./145190-squad-killer.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
 | Squad of Dangerous | 154109 | [154109-squad-of-dangerous.json](./154109-squad-of-dangerous.json) |
+| Squad Rivals | 103727 | [103727-squad-rivals.json](./103727-squad-rivals.json) |
 | Squad Strike 4 | 175013 | [175013-squad-strike-4.json](./175013-squad-strike-4.json) |
 | Squad Tactics | 244415 | [244415-squad-tactics.json](./244415-squad-tactics.json) |
 | Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
@@ -25935,6 +25939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squash Sport Game 2024 | 310167 | [310167-squash-sport-game-2024.json](./310167-squash-sport-game-2024.json) |
 | Squat Life | 345976 | [345976-squat-life.json](./345976-squat-life.json) |
 | Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
+| Squatbot | 103709 | [103709-squatbot.json](./103709-squatbot.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
 | Squawky | 334461 | [334461-squawky.json](./334461-squawky.json) |
@@ -33523,6 +33528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
 | Sungka | 369459 | [369459-sungka.json](./369459-sungka.json) |
+| Sunken | 103715 | [103715-sunken.json](./103715-sunken.json) |
 | Sunken | 19347 | [19347-sunken.json](./19347-sunken.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Cathedral | 403267 | [403267-sunken-cathedral.json](./403267-sunken-cathedral.json) |
@@ -34745,6 +34751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super James Pond | 368907 | [368907-super-james-pond.json](./368907-super-james-pond.json) |
 | Super Jangou | 37826 | [37826-super-jangou.json](./37826-super-jangou.json) |
 | Super Jazz Man | 57626 | [57626-super-jazz-man.json](./57626-super-jazz-man.json) |
+| Super Jelly Troopers | 103737 | [103737-super-jelly-troopers.json](./103737-super-jelly-troopers.json) |
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jetpak DX | 141618 | [141618-super-jetpak-dx.json](./141618-super-jetpak-dx.json) |
