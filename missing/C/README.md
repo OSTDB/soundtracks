@@ -19113,6 +19113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
+| Creatures Match-3 | 88569 | [88569-creatures-match-3.json](./88569-creatures-match-3.json) |
 | Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
 | Creatures of Ava: Deluxe Backpack Trinkets Set | 312948 | [312948-creatures-of-ava-deluxe-backpack-trinkets-set.json](./312948-creatures-of-ava-deluxe-backpack-trinkets-set.json) |
 | Creatures of Ava: Deluxe Edition | 312976 | [312976-creatures-of-ava-deluxe-edition.json](./312976-creatures-of-ava-deluxe-edition.json) |
@@ -22420,6 +22421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut It! | 378530 | [378530-cut-it.json](./378530-cut-it.json) |
 | Cut Master Spades | 258576 | [258576-cut-master-spades.json](./258576-cut-master-spades.json) |
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
+| Cut My Rope | 88680 | [88680-cut-my-rope.json](./88680-cut-my-rope.json) |
 | Cut Off | 175192 | [175192-cut-off.json](./175192-cut-off.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
