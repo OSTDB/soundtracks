@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
 | Rank Insignia Super Explosion | 231913 | [231913-rank-insignia-super-explosion.json](./231913-rank-insignia-super-explosion.json) |
 | Rank Runner | 120423 | [120423-rank-runner.json](./120423-rank-runner.json) |
+| Rank: Warmaster | 148003 | [148003-rank-warmaster.json](./148003-rank-warmaster.json) |
 | Rank: Warmaster Bunker Buster | 343871 | [343871-rank-warmaster-bunker-buster.json](./343871-rank-warmaster-bunker-buster.json) |
 | Rankdle | 294221 | [294221-rankdle.json](./294221-rankdle.json) |
 | Ranking Narabete Joushiki Quiz | 251615 | [251615-ranking-narabete-joushiki-quiz.json](./251615-ranking-narabete-joushiki-quiz.json) |
@@ -5854,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
 | Repton Infinity | 135408 | [135408-repton-infinity.json](./135408-repton-infinity.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
+| Reptrails | 148011 | [148011-reptrails.json](./148011-reptrails.json) |
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
 | Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
 | Republic of Pirates | 278603 | [278603-republic-of-pirates.json](./278603-republic-of-pirates.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Réussir: Code de la Route - Nouvelle édition | 144206 | [144206-reussir-code-de-la-route-nouvelle-edition.json](./144206-reussir-code-de-la-route-nouvelle-edition.json) |
 | Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
+| Réussir: Galops 1 à 7 | 148020 | [148020-reussir-galops-1-a-7.json](./148020-reussir-galops-1-a-7.json) |
 | Rev | 133003 | [133003-rev.json](./133003-rev.json) |
 | Rev Grav | 322065 | [322065-rev-grav.json](./322065-rev-grav.json) |
 | Rev Heads Rally | 101172 | [101172-rev-heads-rally.json](./101172-rev-heads-rally.json) |
