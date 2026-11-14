@@ -4948,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Assassin | 239509 | [239509-epic-assassin.json](./239509-epic-assassin.json) |
 | Epic Astro Story | 65482 | [65482-epic-astro-story.json](./65482-epic-astro-story.json) |
 | Epic Auto Towers | 261702 | [261702-epic-auto-towers.json](./261702-epic-auto-towers.json) |
+| Epic Bakery Chronicle | 98629 | [98629-epic-bakery-chronicle.json](./98629-epic-bakery-chronicle.json) |
 | Epic Balls Smashing | 403101 | [403101-epic-balls-smashing.json](./403101-epic-balls-smashing.json) |
 | Epic Baseball | 79506 | [79506-epic-baseball.json](./79506-epic-baseball.json) |
 | Epic Battle Dude | 62724 | [62724-epic-battle-dude.json](./62724-epic-battle-dude.json) |
