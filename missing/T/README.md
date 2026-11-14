@@ -3929,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telenet Shooting Collection | 251524 | [251524-telenet-shooting-collection.json](./251524-telenet-shooting-collection.json) |
 | Telenet Shooting Collection II | 396486 | [396486-telenet-shooting-collection-ii.json](./396486-telenet-shooting-collection-ii.json) |
 | Telengard | 2879 | [2879-telengard.json](./2879-telengard.json) |
+| TeleNovela | 159378 | [159378-telenovela.json](./159378-telenovela.json) |
 | Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
@@ -12083,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
+| The Illusion | 159379 | [159379-the-illusion.json](./159379-the-illusion.json) |
 | The Illusion: Curse | 242395 | [242395-the-illusion-curse.json](./242395-the-illusion-curse.json) |
 | The Illusion: Nightmare | 201603 | [201603-the-illusion-nightmare.json](./201603-the-illusion-nightmare.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
@@ -21441,6 +21443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
 | Theocracy | 6028 | [6028-theocracy.json](./6028-theocracy.json) |
+| Theofil | 159400 | [159400-theofil.json](./159400-theofil.json) |
 | Theogony: Crystal Water Blue | 172314 | [172314-theogony-crystal-water-blue.json](./172314-theogony-crystal-water-blue.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
