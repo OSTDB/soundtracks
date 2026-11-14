@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
 | 16 Shot! Shooting Watch | 84687 | [84687-16-shot-shooting-watch.json](./84687-16-shot-shooting-watch.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
+| 16 Tales: Vol. 2 | 143075 | [143075-16-tales-vol-2.json](./143075-16-tales-vol-2.json) |
 | 16 Tiles Mahjong | 247291 | [247291-16-tiles-mahjong.json](./247291-16-tiles-mahjong.json) |
 | 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
 | 16 Ways to Kill a Vampire at McDonalds | 57524 | [57524-16-ways-to-kill-a-vampire-at-mcdonalds.json](./57524-16-ways-to-kill-a-vampire-at-mcdonalds.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
 | 868-Back | 323173 | [323173-868-back.json](./323173-868-back.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
+| 868-Hack: Plan.B | 143096 | [143096-868-hack-plan-b.json](./143096-868-hack-plan-b.json) |
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
 | 88 at an Exhibition | 377401 | [377401-88-at-an-exhibition.json](./377401-88-at-an-exhibition.json) |
 | 88 Constellations for Wittgenstein | 352158 | [352158-88-constellations-for-wittgenstein.json](./352158-88-constellations-for-wittgenstein.json) |
