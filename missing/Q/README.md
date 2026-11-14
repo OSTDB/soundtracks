@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qiybz | 389268 | [389268-qiybz.json](./389268-qiybz.json) |
 | Qīyún Yìmèng | 250442 | [250442-qiyun-yimeng.json](./250442-qiyun-yimeng.json) |
 | Qiyun's World | 265597 | [265597-qiyuns-world.json](./265597-qiyuns-world.json) |
+| QJ | 130992 | [130992-qj.json](./130992-qj.json) |
 | QL Pawn | 203377 | [203377-ql-pawn.json](./203377-ql-pawn.json) |
 | Qlanet | 206376 | [206376-qlanet.json](./206376-qlanet.json) |
 | QLewds | 375403 | [375403-qlewds.json](./375403-qlewds.json) |
