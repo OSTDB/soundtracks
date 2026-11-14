@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's North American Adventures | 7809 | [7809-cabelas-north-american-adventures.json](./7809-cabelas-north-american-adventures.json) |
 | Cabela's Outdoor Adventures | 3844 | [3844-cabelas-outdoor-adventures.json](./3844-cabelas-outdoor-adventures.json) |
 | Cabela's Outdoor Adventures | 91390 | [91390-cabelas-outdoor-adventures.json](./91390-cabelas-outdoor-adventures.json) |
+| Cabela's Outdoor Adventures | 95007 | [95007-cabelas-outdoor-adventures.json](./95007-cabelas-outdoor-adventures.json) |
 | Cabela's Sportman's Challenge | 93435 | [93435-cabelas-sportmans-challenge.json](./93435-cabelas-sportmans-challenge.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Trophy Bucks | 4739 | [4739-cabelas-trophy-bucks.json](./4739-cabelas-trophy-bucks.json) |
@@ -13605,6 +13606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorami | 378517 | [378517-colorami.json](./378517-colorami.json) |
 | Coloratura | 410054 | [410054-coloratura.json](./410054-coloratura.json) |
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
+| ColorBlend FX: Desaturation | 95024 | [95024-colorblend-fx-desaturation.json](./95024-colorblend-fx-desaturation.json) |
 | Colorboration | 390884 | [390884-colorboration.json](./390884-colorboration.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
@@ -19595,6 +19597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
 | Crimsonwood | 319680 | [319680-crimsonwood.json](./319680-crimsonwood.json) |
+| Crimsonworld | 94796 | [94796-crimsonworld.json](./94796-crimsonworld.json) |
 | Crimsooon Sun | 400077 | [400077-crimsooon-sun.json](./400077-crimsooon-sun.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
