@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.R.D. | 389796 | [389796-b-i-r-d.json](./389796-b-i-r-d.json) |
 | B.I.R.D.S. | 362249 | [362249-b-i-r-d-s.json](./362249-b-i-r-d-s.json) |
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
+| B.i.t.Lock | 121796 | [121796-b-i-t-lock.json](./121796-b-i-t-lock.json) |
 | B.L.A.C.K. 1 | 211467 | [211467-b-l-a-c-k-1.json](./211467-b-l-a-c-k-1.json) |
 | B.L.U.E. Legend of Water | 43754 | [43754-b-l-u-e-legend-of-water.json](./43754-b-l-u-e-legend-of-water.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
@@ -7689,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade: Metal Fusion - Battle Fortress | 50936 | [50936-beyblade-metal-fusion-battle-fortress.json](./50936-beyblade-metal-fusion-battle-fortress.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
 | Beyond | 111191 | [111191-beyond.json](./111191-beyond.json) |
+| Beyond | 121812 | [121812-beyond.json](./121812-beyond.json) |
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
 | Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
@@ -9043,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
 | Biome: Mr. Self Destruct | 271330 | [271330-biome-mr-self-destruct.json](./271330-biome-mr-self-destruct.json) |
 | Biomeat Huskworld | 346318 | [346318-biomeat-huskworld.json](./346318-biomeat-huskworld.json) |
+| Biomech | 121800 | [121800-biomech.json](./121800-biomech.json) |
 | Biomech Hell | 250983 | [250983-biomech-hell.json](./250983-biomech-hell.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
@@ -20485,5 +20488,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byteworld | 372398 | [372398-byteworld.json](./372398-byteworld.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
 | Byzantine: The Betrayal | 25457 | [25457-byzantine-the-betrayal.json](./25457-byzantine-the-betrayal.json) |
+| BZFlag | 121833 | [121833-bzflag.json](./121833-bzflag.json) |
 | Bzzzt | 133446 | [133446-bzzzt.json](./133446-bzzzt.json) |
 | B画少说 | 114896 | [114896-b.json](./114896-b.json) |
