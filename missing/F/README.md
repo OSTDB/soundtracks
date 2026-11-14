@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallacy Quiz | 291432 | [291432-fallacy-quiz.json](./291432-fallacy-quiz.json) |
 | Fallalypse | 55792 | [55792-fallalypse.json](./55792-fallalypse.json) |
 | Fallalypse: Death or Cress | 84053 | [84053-fallalypse-death-or-cress.json](./84053-fallalypse-death-or-cress.json) |
+| Fallalypse: Disconnect | 111949 | [111949-fallalypse-disconnect.json](./111949-fallalypse-disconnect.json) |
 | Fallback | 102397 | [102397-fallback.json](./102397-fallback.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
 | Fallcone | 219924 | [219924-fallcone.json](./219924-fallcone.json) |
@@ -15136,6 +15137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
 | Furquest | 191765 | [191765-furquest.json](./191765-furquest.json) |
 | Furriend | 311234 | [311234-furriend.json](./311234-furriend.json) |
+| Furries & Scalies & Bears OH MY! | 111943 | [111943-furries-and-scalies-and-bears-oh-my.json](./111943-furries-and-scalies-and-bears-oh-my.json) |
 | Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furries & Scalies & Bears OH MY!: Charity Bonus | 171044 | [171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json](./171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json) |
