@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
 | Saisai: Ingoku no Yakata | 97725 | [97725-saisai-ingoku-no-yakata.json](./97725-saisai-ingoku-no-yakata.json) |
 | Saisen Meikyuu | 206547 | [206547-saisen-meikyuu.json](./206547-saisen-meikyuu.json) |
+| Saishuu Densha | 112558 | [112558-saishuu-densha.json](./112558-saishuu-densha.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saishuu Shiken Kujira: Alive | 166453 | [166453-saishuu-shiken-kujira-alive.json](./166453-saishuu-shiken-kujira-alive.json) |
 | Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
@@ -20923,6 +20924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Novel Evolution 1: Otogirisou Sosei-Hen | 194817 | [194817-sound-novel-evolution-1-otogirisou-sosei-hen.json](./194817-sound-novel-evolution-1-otogirisou-sosei-hen.json) |
 | Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu-hen | 178334 | [178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json](./178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json) |
 | Sound Novel Tsukuuru | 37851 | [37851-sound-novel-tsukuuru.json](./37851-sound-novel-tsukuuru.json) |
+| Sound Novel Tsukuuru 2 | 112557 | [112557-sound-novel-tsukuuru-2.json](./112557-sound-novel-tsukuuru-2.json) |
 | Sound Novel Tsukuuru Taiou: Okiraku Kouza | 234882 | [234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json](./234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json) |
 | Sound Novel Tsukuuru Taiou: Zapping Gekijou | 234883 | [234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json](./234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json) |
 | Sound Novel: Machi | 8169 | [8169-sound-novel-machi.json](./8169-sound-novel-machi.json) |
@@ -32299,6 +32301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Subtrade: Return to Irata | 74102 | [74102-subtrade-return-to-irata.json](./74102-subtrade-return-to-irata.json) |
 | Subtransit Drive | 232246 | [232246-subtransit-drive.json](./232246-subtransit-drive.json) |
+| Subtype Grounds | 112377 | [112377-subtype-grounds.json](./112377-subtype-grounds.json) |
 | Subtyrannya - A story-driven merchant game | 112898 | [112898-subtyrannya-a-story-driven-merchant-game.json](./112898-subtyrannya-a-story-driven-merchant-game.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Subugs | 187064 | [187064-subugs.json](./187064-subugs.json) |
@@ -37355,6 +37358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: The Curling | 98244 | [98244-superlite-1500-series-the-curling.json](./98244-superlite-1500-series-the-curling.json) |
 | SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
+| SuperLite 1500: Makikou | 112550 | [112550-superlite-1500-makikou.json](./112550-superlite-1500-makikou.json) |
 | SuperLite 2000 Table Hanafuda | 351068 | [351068-superlite-2000-table-hanafuda.json](./351068-superlite-2000-table-hanafuda.json) |
 | SuperLite 2000: Mahjong | 123217 | [123217-superlite-2000-mahjong.json](./123217-superlite-2000-mahjong.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
