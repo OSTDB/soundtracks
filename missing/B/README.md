@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrage | 78603 | [78603-barrage.json](./78603-barrage.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Girl | 100754 | [100754-barrage-girl.json](./100754-barrage-girl.json) |
+| Barrage Musical: A Fantasy of Tempest | 165196 | [165196-barrage-musical-a-fantasy-of-tempest.json](./165196-barrage-musical-a-fantasy-of-tempest.json) |
 | Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
 | Barrage Populaire | 308966 | [308966-barrage-populaire.json](./308966-barrage-populaire.json) |
 | Barraka | 301891 | [301891-barraka.json](./301891-barraka.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
 | Behind Every Great One | 112012 | [112012-behind-every-great-one.json](./112012-behind-every-great-one.json) |
+| Behind Glass: Aquarium Simulator | 165793 | [165793-behind-glass-aquarium-simulator.json](./165793-behind-glass-aquarium-simulator.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind Stars and Under Hills | 110015 | [110015-behind-stars-and-under-hills.json](./110015-behind-stars-and-under-hills.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
