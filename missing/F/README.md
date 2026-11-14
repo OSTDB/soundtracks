@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmdale | 266125 | [266125-farmdale.json](./266125-farmdale.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
 | Farmer Against Potatoes Idle | 199507 | [199507-farmer-against-potatoes-idle.json](./199507-farmer-against-potatoes-idle.json) |
+| Farmer and Tree | 151308 | [151308-farmer-and-tree.json](./151308-farmer-and-tree.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
 | Farmer Bundle | 271840 | [271840-farmer-bundle.json](./271840-farmer-bundle.json) |
 | Farmer Crates | 146566 | [146566-farmer-crates.json](./146566-farmer-crates.json) |
