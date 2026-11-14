@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
 | Zoo Strikers | 142193 | [142193-zoo-strikers.json](./142193-zoo-strikers.json) |
 | Zoo Time | 369685 | [369685-zoo-time.json](./369685-zoo-time.json) |
+| Zoo Train: Tracks 'n' Trains | 104295 | [104295-zoo-train-tracks-n-trains.json](./104295-zoo-train-tracks-n-trains.json) |
 | Zoo Transport | 270597 | [270597-zoo-transport.json](./270597-zoo-transport.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon | 334 | [334-zoo-tycoon.json](./334-zoo-tycoon.json) |
