@@ -3473,6 +3473,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
 | DCS World | 3769 | [3769-dcs-world.json](./3769-dcs-world.json) |
+| DCS World: A-10C - Advanced Aircraft Training Qualification Campaign | 158774 | [158774-dcs-world-a-10c-advanced-aircraft-training-qualification-campaign.json](./158774-dcs-world-a-10c-advanced-aircraft-training-qualification-campaign.json) |
+| DCS World: A-10C - Basic Flight Training Campaign | 158779 | [158779-dcs-world-a-10c-basic-flight-training-campaign.json](./158779-dcs-world-a-10c-basic-flight-training-campaign.json) |
+| DCS World: A-10C - Operation Piercing Fury Campaign | 158778 | [158778-dcs-world-a-10c-operation-piercing-fury-campaign.json](./158778-dcs-world-a-10c-operation-piercing-fury-campaign.json) |
+| DCS World: A-10C - Red Flag Campaign | 158771 | [158771-dcs-world-a-10c-red-flag-campaign.json](./158771-dcs-world-a-10c-red-flag-campaign.json) |
+| DCS World: A-10C - Stone Shield Campaign | 158776 | [158776-dcs-world-a-10c-stone-shield-campaign.json](./158776-dcs-world-a-10c-stone-shield-campaign.json) |
+| DCS World: A-10C - Tactical Training Qualification Campaign | 158777 | [158777-dcs-world-a-10c-tactical-training-qualification-campaign.json](./158777-dcs-world-a-10c-tactical-training-qualification-campaign.json) |
+| DCS World: A-10C - The Enemy Within Campaign | 158775 | [158775-dcs-world-a-10c-the-enemy-within-campaign.json](./158775-dcs-world-a-10c-the-enemy-within-campaign.json) |
 | DCS World: A-10C II Iron Flag Part 1 Campaign | 195416 | [195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json](./195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json) |
 | DCS World: A-10C II Tank Killer | 156307 | [156307-dcs-world-a-10c-ii-tank-killer.json](./156307-dcs-world-a-10c-ii-tank-killer.json) |
 | DCS World: A-10C II Tank Killer Operation Persian Freedom Campaign | 156278 | [156278-dcs-world-a-10c-ii-tank-killer-operation-persian-freedom-campaign.json](./156278-dcs-world-a-10c-ii-tank-killer-operation-persian-freedom-campaign.json) |
@@ -4660,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpact | 407818 | [407818-deadpact.json](./407818-deadpact.json) |
 | Deadpoint | 265115 | [265115-deadpoint.json](./265115-deadpoint.json) |
+| DeadPoly | 158761 | [158761-deadpoly.json](./158761-deadpoly.json) |
 | Deadpool | 141334 | [141334-deadpool.json](./141334-deadpool.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadpool Hardcore Edition | 338851 | [338851-deadpool-hardcore-edition.json](./338851-deadpool-hardcore-edition.json) |
