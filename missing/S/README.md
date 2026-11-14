@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
 | S.O.V.A. | 421327 | [421327-s-o-v-a.json](./421327-s-o-v-a.json) |
+| S.P.A.T. | 165718 | [165718-s-p-a-t.json](./165718-s-p-a-t.json) |
 | S.P.I.C.E Arena | 96829 | [96829-s-p-i-c-e-arena.json](./96829-s-p-i-c-e-arena.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.P.L.O.S.H | 366707 | [366707-s-p-l-o-s-h.json](./366707-s-p-l-o-s-h.json) |
@@ -8428,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
 | Shattered Plains | 279164 | [279164-shattered-plains.json](./279164-shattered-plains.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
+| Shattered Reality | 165799 | [165799-shattered-reality.json](./165799-shattered-reality.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Realms | 76210 | [76210-shattered-realms.json](./76210-shattered-realms.json) |
 | Shattered Reflections: The Abyss Within | 258276 | [258276-shattered-reflections-the-abyss-within.json](./258276-shattered-reflections-the-abyss-within.json) |
@@ -9723,6 +9725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
 | ShiroKuro: Shiroi Kokoro to Kuroi Tsurugi | 300444 | [300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json](./300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json) |
+| ShiroKuro's Adventure | 165787 | [165787-shirokuros-adventure.json](./165787-shirokuros-adventure.json) |
 | Shirone: the Dragon Girl | 192782 | [192782-shirone-the-dragon-girl.json](./192782-shirone-the-dragon-girl.json) |
 | Shironeko Project Infinity | 105054 | [105054-shironeko-project-infinity.json](./105054-shironeko-project-infinity.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
@@ -22555,6 +22558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | Spaceship Trucker | 55576 | [55576-spaceship-trucker.json](./55576-spaceship-trucker.json) |
 | Spaceship Typing | 328897 | [328897-spaceship-typing.json](./328897-spaceship-typing.json) |
+| Spaceship War | 165721 | [165721-spaceship-war.json](./165721-spaceship-war.json) |
 | Spaceship Warlock | 72522 | [72522-spaceship-warlock.json](./72522-spaceship-warlock.json) |
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
 | Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
@@ -24378,6 +24382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits | 7403 | [7403-spirits.json](./7403-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
+| Spirits & Spells | 165201 | [165201-spirits-and-spells.json](./165201-spirits-and-spells.json) |
 | Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
 | Spirits Abyss | 118101 | [118101-spirits-abyss.json](./118101-spirits-abyss.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
@@ -37715,6 +37720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nation: Map Expansion Update | 279384 | [279384-survival-nation-map-expansion-update.json](./279384-survival-nation-map-expansion-update.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
+| Survival Night | 165783 | [165783-survival-night.json](./165783-survival-night.json) |
 | Survival Odyssey | 345391 | [345391-survival-odyssey.json](./345391-survival-odyssey.json) |
 | Survival Of Exon | 293599 | [293599-survival-of-exon.json](./293599-survival-of-exon.json) |
 | Survival of Primitive | 214021 | [214021-survival-of-primitive.json](./214021-survival-of-primitive.json) |
