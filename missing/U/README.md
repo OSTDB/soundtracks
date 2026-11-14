@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
+| Ugh! | 81518 | [81518-ugh.json](./81518-ugh.json) |
 | Ugly | 140815 | [140815-ugly.json](./140815-ugly.json) |
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncivilized | 176176 | [176176-uncivilized.json](./176176-uncivilized.json) |
 | Unclaimed | 424678 | [424678-unclaimed.json](./424678-unclaimed.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
+| Unclaimed World | 81528 | [81528-unclaimed-world.json](./81528-unclaimed-world.json) |
 | Unclaimed: Loot or Junk | 415035 | [415035-unclaimed-loot-or-junk.json](./415035-unclaimed-loot-or-junk.json) |
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
