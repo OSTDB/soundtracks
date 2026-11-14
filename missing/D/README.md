@@ -3968,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Junction #4 At World's End | 58092 | [58092-dead-end-junction-4-at-worlds-end.json](./58092-dead-end-junction-4-at-worlds-end.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead End Road | 33350 | [33350-dead-end-road.json](./33350-dead-end-road.json) |
+| Dead End St. | 101795 | [101795-dead-end-st.json](./101795-dead-end-st.json) |
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
@@ -8810,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Determinable Unstable | 132999 | [132999-determinable-unstable.json](./132999-determinable-unstable.json) |
 | Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
+| Deterministic Dungeon | 101817 | [101817-deterministic-dungeon.json](./101817-deterministic-dungeon.json) |
 | Deterrence | 224334 | [224334-deterrence.json](./224334-deterrence.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
@@ -9481,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diario: Rebirth Moon Legend | 6965 | [6965-diario-rebirth-moon-legend.json](./6965-diario-rebirth-moon-legend.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
+| Diary of A Cat | 101837 | [101837-diary-of-a-cat.json](./101837-diary-of-a-cat.json) |
 | Diary of a certain A: Chapter I | 180365 | [180365-diary-of-a-certain-a-chapter-i.json](./180365-diary-of-a-certain-a-chapter-i.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
 | Diary of a Stoner | 295191 | [295191-diary-of-a-stoner.json](./295191-diary-of-a-stoner.json) |
@@ -15589,6 +15592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down in the Dungeon | 175937 | [175937-down-in-the-dungeon.json](./175937-down-in-the-dungeon.json) |
 | Down In The Dungeon | 307684 | [307684-down-in-the-dungeon.json](./307684-down-in-the-dungeon.json) |
 | Down is Relative | 286220 | [286220-down-is-relative.json](./286220-down-is-relative.json) |
+| Down is Up | 101819 | [101819-down-is-up.json](./101819-down-is-up.json) |
 | Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
 | Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
