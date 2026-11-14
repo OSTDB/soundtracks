@@ -20649,6 +20649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Flesh Flam | 389668 | [389668-mr-flesh-flam.json](./389668-mr-flesh-flam.json) |
 | Mr. Flip | 305113 | [305113-mr-flip.json](./305113-mr-flip.json) |
+| Mr. Flipper | 121820 | [121820-mr-flipper.json](./121820-mr-flipper.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
 | Mr. Friendly | 131754 | [131754-mr-friendly.json](./131754-mr-friendly.json) |
 | Mr. Future Ninja | 113931 | [113931-mr-future-ninja.json](./113931-mr-future-ninja.json) |
@@ -21299,6 +21300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummification | 243063 | [243063-mummification.json](./243063-mummification.json) |
 | Mummmaster! | 150769 | [150769-mummmaster.json](./150769-mummmaster.json) |
 | Mummy Candies | 148857 | [148857-mummy-candies.json](./148857-mummy-candies.json) |
+| Mummy contact | 121782 | [121782-mummy-contact.json](./121782-mummy-contact.json) |
 | Mummy Hunter | 194088 | [194088-mummy-hunter.json](./194088-mummy-hunter.json) |
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
