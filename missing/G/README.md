@@ -7068,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Fever | 77030 | [77030-gold-fever.json](./77030-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold for Retirement | 348181 | [348181-gold-for-retirement.json](./348181-gold-for-retirement.json) |
+| Gold Game for Who's Your Daddy | 93900 | [93900-gold-game-for-whos-your-daddy.json](./93900-gold-game-for-whos-your-daddy.json) |
 | Gold Games 3 | 161710 | [161710-gold-games-3.json](./161710-gold-games-3.json) |
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
 | Gold Gold Adventure Gold | 317162 | [317162-gold-gold-adventure-gold.json](./317162-gold-gold-adventure-gold.json) |
