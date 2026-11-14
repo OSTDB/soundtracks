@@ -13646,6 +13646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
 | Pongo | 35298 | [35298-pongo.json](./35298-pongo.json) |
+| Pongo! | 137708 | [137708-pongo.json](./137708-pongo.json) |
 | Pongo17 | 251371 | [251371-pongo17.json](./251371-pongo17.json) |
 | PongPD | 364428 | [364428-pongpd.json](./364428-pongpd.json) |
 | PongPong Girl | 211836 | [211836-pongpong-girl.json](./211836-pongpong-girl.json) |
@@ -19093,6 +19094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Prime | 60815 | [60815-pump-it-up-prime.json](./60815-pump-it-up-prime.json) |
 | Pump It Up Prime 2 | 97387 | [97387-pump-it-up-prime-2.json](./97387-pump-it-up-prime-2.json) |
 | Pump It Up Rise | 345431 | [345431-pump-it-up-rise.json](./345431-pump-it-up-rise.json) |
+| Pump it up StepF2 | 137718 | [137718-pump-it-up-stepf2.json](./137718-pump-it-up-stepf2.json) |
 | Pump it Up StepP1 | 139378 | [139378-pump-it-up-stepp1.json](./139378-pump-it-up-stepp1.json) |
 | Pump It Up XX: 20th Anniversary Edition | 115410 | [115410-pump-it-up-xx-20th-anniversary-edition.json](./115410-pump-it-up-xx-20th-anniversary-edition.json) |
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
