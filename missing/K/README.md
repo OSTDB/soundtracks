@@ -5555,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koikata: How Our Love Grows | 387050 | [387050-koikata-how-our-love-grows.json](./387050-koikata-how-our-love-grows.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikatsu Sunshine | 186357 | [186357-koikatsu-sunshine.json](./186357-koikatsu-sunshine.json) |
+| Koiken Otome | 141941 | [141941-koiken-otome.json](./141941-koiken-otome.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
 | KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
 | Koino no Kokoro Ikusei Game | 49683 | [49683-koino-no-kokoro-ikusei-game.json](./49683-koino-no-kokoro-ikusei-game.json) |
