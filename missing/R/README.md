@@ -7486,6 +7486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewinder | 179784 | [179784-rewinder.json](./179784-rewinder.json) |
 | Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
 | Rewinder | 184227 | [184227-rewinder.json](./184227-rewinder.json) |
+| Rewinder | 98111 | [98111-rewinder.json](./98111-rewinder.json) |
 | RewindGirl | 302997 | [302997-rewindgirl.json](./302997-rewindgirl.json) |
 | Rewinding Cadence | 350187 | [350187-rewinding-cadence.json](./350187-rewinding-cadence.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
@@ -9230,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rixa | 388697 | [388697-rixa.json](./388697-rixa.json) |
 | Rixe | 392111 | [392111-rixe.json](./392111-rixe.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
+| Riya's Cha Cha Cha World | 98094 | [98094-riyas-cha-cha-cha-world.json](./98094-riyas-cha-cha-cha-world.json) |
 | Riyou | 369076 | [369076-riyou.json](./369076-riyou.json) |
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rize of the Summonds | 25594 | [25594-rize-of-the-summonds.json](./25594-rize-of-the-summonds.json) |
