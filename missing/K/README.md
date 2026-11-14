@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandagawa Jet Girls: Yumi & Asuka Character Set | 225926 | [225926-kandagawa-jet-girls-yumi-and-asuka-character-set.json](./225926-kandagawa-jet-girls-yumi-and-asuka-character-set.json) |
 | Kandidat | 115322 | [115322-kandidat.json](./115322-kandidat.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
+| Kandidatos Kart | 144418 | [144418-kandidatos-kart.json](./144418-kandidatos-kart.json) |
 | Kandinhale | 326743 | [326743-kandinhale.json](./326743-kandinhale.json) |
 | Kando Realm | 356684 | [356684-kando-realm.json](./356684-kando-realm.json) |
 | Kando World | 64061 | [64061-kando-world.json](./64061-kando-world.json) |
