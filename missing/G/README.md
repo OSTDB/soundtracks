@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gebockers | 165260 | [165260-gebockers.json](./165260-gebockers.json) |
 | Gebub's Adventure | 31869 | [31869-gebubs-adventure.json](./31869-gebubs-adventure.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
+| Gecko Gods | 151312 | [151312-gecko-gods.json](./151312-gecko-gods.json) |
 | Gecko Shuffle | 402846 | [402846-gecko-shuffle.json](./402846-gecko-shuffle.json) |
 | Geckorientalism | 370998 | [370998-geckorientalism.json](./370998-geckorientalism.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
@@ -9723,6 +9724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Dwarf | 114656 | [114656-greedy-dwarf.json](./114656-greedy-dwarf.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
+| Greedy Goblin | 151317 | [151317-greedy-goblin.json](./151317-greedy-goblin.json) |
 | Greedy Goblin | 184219 | [184219-greedy-goblin.json](./184219-greedy-goblin.json) |
 | Greedy Goblins | 125787 | [125787-greedy-goblins.json](./125787-greedy-goblins.json) |
 | Greedy Goose | 306430 | [306430-greedy-goose.json](./306430-greedy-goose.json) |
