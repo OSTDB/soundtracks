@@ -20615,6 +20615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
 | PuzzXXI | 68518 | [68518-puzzxxi.json](./68518-puzzxxi.json) |
+| Puzzzeni Easy | 151759 | [151759-puzzzeni-easy.json](./151759-puzzzeni-easy.json) |
 | Puzzzle | 142218 | [142218-puzzzle.json](./142218-puzzzle.json) |
 | PVKK: Planetenverteidigungskanonenkommandant | 307368 | [307368-pvkk-planetenverteidigungskanonenkommandant.json](./307368-pvkk-planetenverteidigungskanonenkommandant.json) |
 | PvNP | 203737 | [203737-pvnp.json](./203737-pvnp.json) |
