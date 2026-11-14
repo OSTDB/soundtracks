@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zargs | 286184 | [286184-zargs.json](./286184-zargs.json) |
 | Zaria | 386069 | [386069-zaria.json](./386069-zaria.json) |
 | Zarie: The Story of Sin | 266575 | [266575-zarie-the-story-of-sin.json](./266575-zarie-the-story-of-sin.json) |
+| Zarjas | 142525 | [142525-zarjas.json](./142525-zarjas.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarlor Mercenary | 12371 | [12371-zarlor-mercenary.json](./12371-zarlor-mercenary.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
