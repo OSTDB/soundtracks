@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Rabbit: Puzzle | 111196 | [111196-king-rabbit-puzzle.json](./111196-king-rabbit-puzzle.json) |
 | King Rabbit: Race | 185913 | [185913-king-rabbit-race.json](./185913-king-rabbit-race.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
+| King rocket | 130978 | [130978-king-rocket.json](./130978-king-rocket.json) |
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Salmon: The Big Catch | 4480 | [4480-king-salmon-the-big-catch.json](./4480-king-salmon-the-big-catch.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
