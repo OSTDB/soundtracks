@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
 | Neko Ningen Eugene | 349439 | [349439-neko-ningen-eugene.json](./349439-neko-ningen-eugene.json) |
 | Neko no Famires: Nyanko-tachi to Issho ni Omise wo Moriageyou!!~ | 214382 | [214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json](./214382-neko-no-famires-nyanko-tachi-to-issho-ni-omise-wo-moriageyou.json) |
+| Neko no Hime | 97549 | [97549-neko-no-hime.json](./97549-neko-no-hime.json) |
 | Neko no Sentouki | 343390 | [343390-neko-no-sentouki.json](./343390-neko-no-sentouki.json) |
 | Neko Nyaa~ | 195479 | [195479-neko-nyaa.json](./195479-neko-nyaa.json) |
 | Neko Odyssey | 261383 | [261383-neko-odyssey.json](./261383-neko-odyssey.json) |
