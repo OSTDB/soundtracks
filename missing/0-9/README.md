@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 for the Money Demo | 93687 | [93687-4-for-the-money-demo.json](./93687-4-for-the-money-demo.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 Games in 1 Cartridge | 281290 | [281290-4-games-in-1-cartridge.json](./281290-4-games-in-1-cartridge.json) |
+| 4 Games on One Game Pak | 78800 | [78800-4-games-on-one-game-pak.json](./78800-4-games-on-one-game-pak.json) |
 | 4 Get It | 80027 | [80027-4-get-it.json](./80027-4-get-it.json) |
 | 4 Gewinnt | 85728 | [85728-4-gewinnt.json](./85728-4-gewinnt.json) |
 | 4 Giga Boss Fights | 181904 | [181904-4-giga-boss-fights.json](./181904-4-giga-boss-fights.json) |
