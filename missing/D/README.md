@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreamer: Awakened Edition | 20751 | [20751-daydreamer-awakened-edition.json](./20751-daydreamer-awakened-edition.json) |
 | Daydreaming in the Oval Office | 73524 | [73524-daydreaming-in-the-oval-office.json](./73524-daydreaming-in-the-oval-office.json) |
 | Daydreamour | 134735 | [134735-daydreamour.json](./134735-daydreamour.json) |
+| Daydreams | 82205 | [82205-daydreams.json](./82205-daydreams.json) |
 | Daydreams in Red | 187625 | [187625-daydreams-in-red.json](./187625-daydreams-in-red.json) |
 | Daydreamy | 268319 | [268319-daydreamy.json](./268319-daydreamy.json) |
 | Daylife in Japan: Animated Jigsaw Puzzle Series | 124208 | [124208-daylife-in-japan-animated-jigsaw-puzzle-series.json](./124208-daylife-in-japan-animated-jigsaw-puzzle-series.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Blob 2 | 207100 | [207100-de-blob-2.json](./207100-de-blob-2.json) |
 | De Blob 2 | 4796 | [4796-de-blob-2.json](./4796-de-blob-2.json) |
 | De Blob Online | 225354 | [225354-de-blob-online.json](./225354-de-blob-online.json) |
+| De Blob Revolution | 84403 | [84403-de-blob-revolution.json](./84403-de-blob-revolution.json) |
 | De Blob: Utrecht | 253718 | [253718-de-blob-utrecht.json](./253718-de-blob-utrecht.json) |
 | De Cara no Muro | 242901 | [242901-de-cara-no-muro.json](./242901-de-cara-no-muro.json) |
 | De Fobos y Deimos | 103966 | [103966-de-fobos-y-deimos.json](./103966-de-fobos-y-deimos.json) |
