@@ -12879,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Guide | 113294 | [113294-cohabitation-guide.json](./113294-cohabitation-guide.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
+| Cohabitation: Oshikake Nyoubou wa Onee-san!? | 97582 | [97582-cohabitation-oshikake-nyoubou-wa-onee-san.json](./97582-cohabitation-oshikake-nyoubou-wa-onee-san.json) |
 | Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
 | Cohort Chess | 232881 | [232881-cohort-chess.json](./232881-cohort-chess.json) |
 | Cohort II | 73198 | [73198-cohort-ii.json](./73198-cohort-ii.json) |
