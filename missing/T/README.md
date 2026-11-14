@@ -6071,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Jet Fusion | 242423 | [242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json](./242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Jet Fusion | 3780 | [3780-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json](./3780-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json) |
+| The Adventures of John Killbot | 166869 | [166869-the-adventures-of-john-killbot.json](./166869-the-adventures-of-john-killbot.json) |
 | The Adventures of Jonny Quest | 73650 | [73650-the-adventures-of-jonny-quest.json](./73650-the-adventures-of-jonny-quest.json) |
 | The Adventures of JP and Cosmo: A Friend Indeed... | 58050 | [58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json](./58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
@@ -10096,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falling Skies | 405879 | [405879-the-falling-skies.json](./405879-the-falling-skies.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Falling Sun | 36167 | [36167-the-falling-sun.json](./36167-the-falling-sun.json) |
+| The Falling Tower | 166871 | [166871-the-falling-tower.json](./166871-the-falling-tower.json) |
 | The Fallow City | 330578 | [330578-the-fallow-city.json](./330578-the-fallow-city.json) |
 | The False Alice: Retold Tale | 371528 | [371528-the-false-alice-retold-tale.json](./371528-the-false-alice-retold-tale.json) |
 | The False Culprit | 374562 | [374562-the-false-culprit.json](./374562-the-false-culprit.json) |
@@ -14320,6 +14322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Soldier | 180422 | [180422-the-lone-soldier.json](./180422-the-lone-soldier.json) |
 | The Lone Survivor | 105818 | [105818-the-lone-survivor.json](./105818-the-lone-survivor.json) |
 | The Lone Warrior | 37180 | [37180-the-lone-warrior.json](./37180-the-lone-warrior.json) |
+| The Loneliest Artist | 166862 | [166862-the-loneliest-artist.json](./166862-the-loneliest-artist.json) |
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
 | The Lonely Dog Yearns For Love | 401251 | [401251-the-lonely-dog-yearns-for-love.json](./401251-the-lonely-dog-yearns-for-love.json) |
@@ -18039,6 +18042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simple Balance | 142079 | [142079-the-simple-balance.json](./142079-the-simple-balance.json) |
 | The Simple Climb Game | 309410 | [309410-the-simple-climb-game.json](./309410-the-simple-climb-game.json) |
 | The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
+| The Simplest Game | 166866 | [166866-the-simplest-game.json](./166866-the-simplest-game.json) |
 | The Simplest Game in the World | 262872 | [262872-the-simplest-game-in-the-world.json](./262872-the-simplest-game-in-the-world.json) |
 | The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
 | The Simpsons | 198887 | [198887-the-simpsons.json](./198887-the-simpsons.json) |
@@ -35739,6 +35743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Hunt 3D | 141041 | [141041-turkey-hunt-3d.json](./141041-turkey-hunt-3d.json) |
 | Turkey Hunter 3D | 70317 | [70317-turkey-hunter-3d.json](./70317-turkey-hunter-3d.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
+| Turkey Hunting Unlimited | 166787 | [166787-turkey-hunting-unlimited.json](./166787-turkey-hunting-unlimited.json) |
 | Turkey Hunting USA | 331746 | [331746-turkey-hunting-usa.json](./331746-turkey-hunting-usa.json) |
 | Turkey Man | 304477 | [304477-turkey-man.json](./304477-turkey-man.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
