@@ -4294,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tender Frog House | 144240 | [144240-tender-frog-house.json](./144240-tender-frog-house.json) |
 | Tender Love and Care: A Leorio Dating Sim! | 178531 | [178531-tender-love-and-care-a-leorio-dating-sim.json](./178531-tender-love-and-care-a-leorio-dating-sim.json) |
+| Tender Offer | 145749 | [145749-tender-offer.json](./145749-tender-offer.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tender: Creature Comforts | 146098 | [146098-tender-creature-comforts.json](./146098-tender-creature-comforts.json) |
 | Tenderfoot | 139547 | [139547-tenderfoot.json](./139547-tenderfoot.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Worlds | 4200 | [4200-tetris-worlds.json](./4200-tetris-worlds.json) |
 | Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
 | Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
+| Tetris x Hello Kitty | 145723 | [145723-tetris-x-hello-kitty.json](./145723-tetris-x-hello-kitty.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris-Retro | 380368 | [380368-tetris-retro.json](./380368-tetris-retro.json) |
 | Tetris: Featuring Madilyn Bailey | 145807 | [145807-tetris-featuring-madilyn-bailey.json](./145807-tetris-featuring-madilyn-bailey.json) |
@@ -8321,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
 | The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
+| The Cradle of Eve | 145734 | [145734-the-cradle-of-eve.json](./145734-the-cradle-of-eve.json) |
 | The Cradle of Ruin | 115143 | [115143-the-cradle-of-ruin.json](./115143-the-cradle-of-ruin.json) |
 | The Cradle of Thorns: My Brother Belongs to Me | 273258 | [273258-the-cradle-of-thorns-my-brother-belongs-to-me.json](./273258-the-cradle-of-thorns-my-brother-belongs-to-me.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
@@ -12898,6 +12901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight in Pajamas | 352314 | [352314-the-knight-in-pajamas.json](./352314-the-knight-in-pajamas.json) |
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
+| The Knight of Queen | 145738 | [145738-the-knight-of-queen.json](./145738-the-knight-of-queen.json) |
 | The Knight of the Castles | 184453 | [184453-the-knight-of-the-castles.json](./184453-the-knight-of-the-castles.json) |
 | The Knight of the Crimson Tower | 228895 | [228895-the-knight-of-the-crimson-tower.json](./228895-the-knight-of-the-crimson-tower.json) |
 | The Knight of Thistledown | 318461 | [318461-the-knight-of-thistledown.json](./318461-the-knight-of-thistledown.json) |
@@ -26988,6 +26992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
 | Toki Island | 125890 | [125890-toki-island.json](./125890-toki-island.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
+| Toki no Kizuna Hanayuitsuzuri | 145725 | [145725-toki-no-kizuna-hanayuitsuzuri.json](./145725-toki-no-kizuna-hanayuitsuzuri.json) |
 | Toki no Komorebi | 412332 | [412332-toki-no-komorebi.json](./412332-toki-no-komorebi.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
 | Toki Pona Island | 288593 | [288593-toki-pona-island.json](./288593-toki-pona-island.json) |
@@ -33102,6 +33107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Punk: Premium Edition | 301184 | [301184-trash-punk-premium-edition.json](./301184-trash-punk-premium-edition.json) |
+| Trash Quest | 145745 | [145745-trash-quest.json](./145745-trash-quest.json) |
 | Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
 | Trash Rage | 117343 | [117343-trash-rage.json](./117343-trash-rage.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
