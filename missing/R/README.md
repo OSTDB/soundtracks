@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Before the Nexus | 78234 | [78234-ratchet-and-clank-before-the-nexus.json](./78234-ratchet-and-clank-before-the-nexus.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
 | Ratchet & Clank: Full Frontal Assault | 1797 | [1797-ratchet-and-clank-full-frontal-assault.json](./1797-ratchet-and-clank-full-frontal-assault.json) |
+| Ratchet & Clank: Ginga Saikyo Tristar Pack | 80014 | [80014-ratchet-and-clank-ginga-saikyo-tristar-pack.json](./80014-ratchet-and-clank-ginga-saikyo-tristar-pack.json) |
 | Ratchet & Clank: Going Commando | 1770 | [1770-ratchet-and-clank-going-commando.json](./1770-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratchet & Clank: Into the Nexus | 2589 | [2589-ratchet-and-clank-into-the-nexus.json](./2589-ratchet-and-clank-into-the-nexus.json) |
@@ -10111,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotex | 9017 | [9017-robotex.json](./9017-robotex.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
+| Robotfindskitten3d | 80039 | [80039-robotfindskitten3d.json](./80039-robotfindskitten3d.json) |
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
