@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Wars of Prasia | 188381 | [188381-wars-of-prasia.json](./188381-wars-of-prasia.json) |
 | Wars of Succession | 79814 | [79814-wars-of-succession.json](./79814-wars-of-succession.json) |
+| Wars of the Roses | 106201 | [106201-wars-of-the-roses.json](./106201-wars-of-the-roses.json) |
 | Wars of the Roses: Rosenkönig | 103567 | [103567-wars-of-the-roses-rosenkonig.json](./103567-wars-of-the-roses-rosenkonig.json) |
 | Warsaken | 218843 | [218843-warsaken.json](./218843-warsaken.json) |
 | Warsaw Rising: City of Heroes | 115659 | [115659-warsaw-rising-city-of-heroes.json](./115659-warsaw-rising-city-of-heroes.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WestSlingers | 53313 | [53313-westslingers.json](./53313-westslingers.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
 | Westward | 7503 | [7503-westward.json](./7503-westward.json) |
+| Westward 2 | 106210 | [106210-westward-2.json](./106210-westward-2.json) |
 | Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
 | Westward II: Heroes of the Frontier | 7529 | [7529-westward-ii-heroes-of-the-frontier.json](./7529-westward-ii-heroes-of-the-frontier.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
@@ -4121,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whalien: Unexpected Guests | 165277 | [165277-whalien-unexpected-guests.json](./165277-whalien-unexpected-guests.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | Wham-o Frisbee Golf | 209571 | [209571-wham-o-frisbee-golf.json](./209571-wham-o-frisbee-golf.json) |
+| WhamBam Warriors | 106801 | [106801-whambam-warriors.json](./106801-whambam-warriors.json) |
 | Whamble | 268812 | [268812-whamble.json](./268812-whamble.json) |
 | WhamPunch | 361974 | [361974-whampunch.json](./361974-whampunch.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
@@ -8545,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
 | Wordfeud | 65636 | [65636-wordfeud.json](./65636-wordfeud.json) |
 | Wordfish | 178304 | [178304-wordfish.json](./178304-wordfish.json) |
+| WordFloat | 106203 | [106203-wordfloat.json](./106203-wordfloat.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordFu | 92336 | [92336-wordfu.json](./92336-wordfu.json) |
 | WordGirl Word Hunt | 106944 | [106944-wordgirl-word-hunt.json](./106944-wordgirl-word-hunt.json) |
