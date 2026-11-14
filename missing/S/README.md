@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Wan-Fu | 155205 | [155205-samurai-shodown-wan-fu.json](./155205-samurai-shodown-wan-fu.json) |
 | Samurai Shodown: Warden | 155206 | [155206-samurai-shodown-warden.json](./155206-samurai-shodown-warden.json) |
 | Samurai Shodown: Warriors Rage | 45053 | [45053-samurai-shodown-warriors-rage.json](./45053-samurai-shodown-warriors-rage.json) |
+| Samurai Shodown! 2 | 81513 | [81513-samurai-shodown-2.json](./81513-samurai-shodown-2.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
 | Samurai Slash | 254326 | [254326-samurai-slash.json](./254326-samurai-slash.json) |
@@ -5630,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Network Taisen Mahjong MJ2 | 165299 | [165299-sega-network-taisen-mahjong-mj2.json](./165299-sega-network-taisen-mahjong-mj2.json) |
 | Sega Network Taisen Mahjong MJ3 | 165300 | [165300-sega-network-taisen-mahjong-mj3.json](./165300-sega-network-taisen-mahjong-mj3.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
+| Sega Network Taisen Mahjong MJ4 Evolution | 81566 | [81566-sega-network-taisen-mahjong-mj4-evolution.json](./81566-sega-network-taisen-mahjong-mj4-evolution.json) |
 | Sega Ninja | 38634 | [38634-sega-ninja.json](./38634-sega-ninja.json) |
 | Sega Pocket Club Manager | 102430 | [102430-sega-pocket-club-manager.json](./102430-sega-pocket-club-manager.json) |
 | Sega Puzzle Pack | 56839 | [56839-sega-puzzle-pack.json](./56839-sega-puzzle-pack.json) |
@@ -8836,6 +8838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
 | Sheng Tian: Episode 1 | 395257 | [395257-sheng-tian-episode-1.json](./395257-sheng-tian-episode-1.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
+| Shengnü Zhi Ge: Heroine Anthem II - The Angel of Sarem | 81491 | [81491-shengnu-zhi-ge-heroine-anthem-ii-the-angel-of-sarem.json](./81491-shengnu-zhi-ge-heroine-anthem-ii-the-angel-of-sarem.json) |
 | Shèngshì Zhē Tiān | 130097 | [130097-shengshi-zhe-tian.json](./130097-shengshi-zhe-tian.json) |
 | Shēngsǐ Jūjī: Zhànhuǒ Chóng Rán - Guójì Bǎn | 407746 | [407746-shengsi-juji-zhanhuo-chong-ran-guoji-ban.json](./407746-shengsi-juji-zhanhuo-chong-ran-guoji-ban.json) |
 | Shēngwù Dàmàoxiǎn | 128326 | [128326-shengwu-damaoxian.json](./128326-shengwu-damaoxian.json) |
@@ -26304,6 +26307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
 | Stack Tower | 238110 | [238110-stack-tower.json](./238110-stack-tower.json) |
 | Stack Twist | 220232 | [220232-stack-twist.json](./220232-stack-twist.json) |
+| Stack Up | 81490 | [81490-stack-up.json](./81490-stack-up.json) |
 | Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
@@ -27025,6 +27029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Runner | 170632 | [170632-star-runner.json](./170632-star-runner.json) |
 | Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
 | Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
+| Star Saga One: Rise of the Dominators | 81555 | [81555-star-saga-one-rise-of-the-dominators.json](./81555-star-saga-one-rise-of-the-dominators.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
 | Star Sailors | 378737 | [378737-star-sailors.json](./378737-star-sailors.json) |
@@ -32210,6 +32215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
+| Sub Rosa | 81535 | [81535-sub-rosa.json](./81535-sub-rosa.json) |
 | Sub Rosa Tournament | 418293 | [418293-sub-rosa-tournament.json](./418293-sub-rosa-tournament.json) |
 | Sub Scan | 24466 | [24466-sub-scan.json](./24466-sub-scan.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
