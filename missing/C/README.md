@@ -8191,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChildMare | 410489 | [410489-childmare.json](./410489-childmare.json) |
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
 | Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
+| Children of Belgrade Metro | 150204 | [150204-children-of-belgrade-metro.json](./150204-children-of-belgrade-metro.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
 | Children of Colossus | 30426 | [30426-children-of-colossus.json](./30426-children-of-colossus.json) |
 | Children of Hell | 317507 | [317507-children-of-hell.json](./317507-children-of-hell.json) |
@@ -11594,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
+| Clioneko | 150188 | [150188-clioneko.json](./150188-clioneko.json) |
 | Clip Grip Power | 110014 | [110014-clip-grip-power.json](./110014-clip-grip-power.json) |
 | Clipmatrix | 414073 | [414073-clipmatrix.json](./414073-clipmatrix.json) |
 | Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
@@ -16571,6 +16573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Commander | 110626 | [110626-corrupted-commander.json](./110626-corrupted-commander.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
+| Corrupted Hospital: Part 1 | 150213 | [150213-corrupted-hospital-part-1.json](./150213-corrupted-hospital-part-1.json) |
 | Corrupted Hottie | 303431 | [303431-corrupted-hottie.json](./303431-corrupted-hottie.json) |
 | Corrupted Kingdoms | 232550 | [232550-corrupted-kingdoms.json](./232550-corrupted-kingdoms.json) |
 | Corrupted Paradise | 290809 | [290809-corrupted-paradise.json](./290809-corrupted-paradise.json) |
@@ -21335,6 +21338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubey's Adventure | 191971 | [191971-cubeys-adventure.json](./191971-cubeys-adventure.json) |
 | Cubey's Adventures Classic | 200805 | [200805-cubeys-adventures-classic.json](./200805-cubeys-adventures-classic.json) |
 | Cubey's Adventures Rewritten | 200808 | [200808-cubeys-adventures-rewritten.json](./200808-cubeys-adventures-rewritten.json) |
+| Cubey's Quest | 150220 | [150220-cubeys-quest.json](./150220-cubeys-quest.json) |
 | CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
 | CubeZ | 17658 | [17658-cubez.json](./17658-cubez.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
@@ -22149,6 +22153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
 | Curupira the Forest Guardian | 371859 | [371859-curupira-the-forest-guardian.json](./371859-curupira-the-forest-guardian.json) |
+| Curupon | 150189 | [150189-curupon.json](./150189-curupon.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Curvatron | 34417 | [34417-curvatron.json](./34417-curvatron.json) |
 | Curvature | 213524 | [213524-curvature.json](./213524-curvature.json) |
