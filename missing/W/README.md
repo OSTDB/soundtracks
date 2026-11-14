@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome | 183928 | [183928-welcome.json](./183928-welcome.json) |
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
+| Welcome Aboard: A Muppet Cruise to Computer Literacy | 137163 | [137163-welcome-aboard-a-muppet-cruise-to-computer-literacy.json](./137163-welcome-aboard-a-muppet-cruise-to-computer-literacy.json) |
 | Welcome Above | 111225 | [111225-welcome-above.json](./111225-welcome-above.json) |
 | Welcome Archaeology Enthusiast | 183250 | [183250-welcome-archaeology-enthusiast.json](./183250-welcome-archaeology-enthusiast.json) |
 | Welcome Azrael | 233330 | [233330-welcome-azrael.json](./233330-welcome-azrael.json) |
