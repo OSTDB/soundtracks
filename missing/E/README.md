@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ídolo | 411379 | [411379-el-idolo.json](./411379-el-idolo.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Interrogatorio | 135564 | [135564-el-interrogatorio.json](./135564-el-interrogatorio.json) |
+| El Juli presenta: Torero - Arte y Pasion en la Arena | 93288 | [93288-el-juli-presenta-torero-arte-y-pasion-en-la-arena.json](./93288-el-juli-presenta-torero-arte-y-pasion-en-la-arena.json) |
 | El Laberinto Esférico | 321086 | [321086-el-laberinto-esferico.json](./321086-el-laberinto-esferico.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
 | Expert Laser Man | 120879 | [120879-expert-laser-man.json](./120879-expert-laser-man.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
+| Expert Pool | 93253 | [93253-expert-pool.json](./93253-expert-pool.json) |
 | Expert Puzzles & Mazes | 285257 | [285257-expert-puzzles-and-mazes.json](./285257-expert-puzzles-and-mazes.json) |
 | Expert's Las Vegas Casino and Devil's Island Pinball | 206890 | [206890-experts-las-vegas-casino-and-devils-island-pinball.json](./206890-experts-las-vegas-casino-and-devils-island-pinball.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
