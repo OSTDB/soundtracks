@@ -8684,6 +8684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Forgotten | 268637 | [268637-lost-and-forgotten.json](./268637-lost-and-forgotten.json) |
 | Lost and Found | 260936 | [260936-lost-and-found.json](./260936-lost-and-found.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
+| Lost and Found: What if I Come and Find It | 167749 | [167749-lost-and-found-what-if-i-come-and-find-it.json](./167749-lost-and-found-what-if-i-come-and-find-it.json) |
 | Lost and Foundry | 287304 | [287304-lost-and-foundry.json](./287304-lost-and-foundry.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
 | Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
