@@ -11759,6 +11759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 2 | 7326 | [7326-forza-horizon-2.json](./7326-forza-horizon-2.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
 | Forza Horizon 2: 10th Anniversary Edition | 83743 | [83743-forza-horizon-2-10th-anniversary-edition.json](./83743-forza-horizon-2-10th-anniversary-edition.json) |
+| Forza Horizon 2: Porsche Expansion | 144421 | [144421-forza-horizon-2-porsche-expansion.json](./144421-forza-horizon-2-porsche-expansion.json) |
 | Forza Horizon 2: Storm Island | 20307 | [20307-forza-horizon-2-storm-island.json](./20307-forza-horizon-2-storm-island.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
 | Forza Horizon 3: Deluxe Edition | 85132 | [85132-forza-horizon-3-deluxe-edition.json](./85132-forza-horizon-3-deluxe-edition.json) |
@@ -11792,12 +11793,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 4: 2019 BMW i8 Roadster | 153725 | [153725-forza-horizon-4-2019-bmw-i8-roadster.json](./153725-forza-horizon-4-2019-bmw-i8-roadster.json) |
 | Forza Horizon 4: 2019 Chevrolet Corvette ZR1 | 153714 | [153714-forza-horizon-4-2019-chevrolet-corvette-zr1.json](./153714-forza-horizon-4-2019-chevrolet-corvette-zr1.json) |
 | Forza Horizon 4: 2019 Porsche 911 Carrera S | 153719 | [153719-forza-horizon-4-2019-porsche-911-carrera-s.json](./153719-forza-horizon-4-2019-porsche-911-carrera-s.json) |
+| Forza Horizon 4: Barrett-Jackson Car Pack | 144415 | [144415-forza-horizon-4-barrett-jackson-car-pack.json](./144415-forza-horizon-4-barrett-jackson-car-pack.json) |
 | Forza Horizon 4: Best of Bond Car Pack | 140292 | [140292-forza-horizon-4-best-of-bond-car-pack.json](./140292-forza-horizon-4-best-of-bond-car-pack.json) |
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
 | Forza Horizon 4: Deluxe Edition | 111318 | [111318-forza-horizon-4-deluxe-edition.json](./111318-forza-horizon-4-deluxe-edition.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
 | Forza Horizon 4: Formula Drift Car Pack | 140285 | [140285-forza-horizon-4-formula-drift-car-pack.json](./140285-forza-horizon-4-formula-drift-car-pack.json) |
 | Forza Horizon 4: Fortune Island | 112024 | [112024-forza-horizon-4-fortune-island.json](./112024-forza-horizon-4-fortune-island.json) |
+| Forza Horizon 4: Hot Wheels Legends Car Pack | 144414 | [144414-forza-horizon-4-hot-wheels-legends-car-pack.json](./144414-forza-horizon-4-hot-wheels-legends-car-pack.json) |
 | Forza Horizon 4: Icons Car Pack | 153717 | [153717-forza-horizon-4-icons-car-pack.json](./153717-forza-horizon-4-icons-car-pack.json) |
 | Forza Horizon 4: LEGO Speed Champions | 121517 | [121517-forza-horizon-4-lego-speed-champions.json](./121517-forza-horizon-4-lego-speed-champions.json) |
 | Forza Horizon 4: Mitsubishi Motors Car Pack | 140365 | [140365-forza-horizon-4-mitsubishi-motors-car-pack.json](./140365-forza-horizon-4-mitsubishi-motors-car-pack.json) |
@@ -12593,6 +12596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fraudulent Idols | 288384 | [288384-fraudulent-idols.json](./288384-fraudulent-idols.json) |
+| Frauki's Adventure! | 144447 | [144447-fraukis-adventure.json](./144447-fraukis-adventure.json) |
 | Fraulein Lolita First Date With You | 157955 | [157955-fraulein-lolita-first-date-with-you.json](./157955-fraulein-lolita-first-date-with-you.json) |
 | Fraxinus Decay | 188373 | [188373-fraxinus-decay.json](./188373-fraxinus-decay.json) |
 | Fraxy | 124574 | [124574-fraxy.json](./124574-fraxy.json) |
@@ -13922,6 +13926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Control: Invasion | 394396 | [394396-frontier-control-invasion.json](./394396-frontier-control-invasion.json) |
 | Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Diver Progenexis | 177342 | [177342-frontier-diver-progenexis.json](./177342-frontier-diver-progenexis.json) |
+| Frontier Diver: Aquatic Research Simulator | 144391 | [144391-frontier-diver-aquatic-research-simulator.json](./144391-frontier-diver-aquatic-research-simulator.json) |
 | Frontier Ferris For Adventurers | 273496 | [273496-frontier-ferris-for-adventurers.json](./273496-frontier-ferris-for-adventurers.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
