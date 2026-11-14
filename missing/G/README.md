@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems | 74656 | [74656-gems.json](./74656-gems.json) |
+| Gems | 99837 | [99837-gems.json](./99837-gems.json) |
 | Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
 | Gems Defenders | 220423 | [220423-gems-defenders.json](./220423-gems-defenders.json) |
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
@@ -5825,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowmonkey Skateboarding | 234725 | [234725-glowmonkey-skateboarding.json](./234725-glowmonkey-skateboarding.json) |
 | Glowmonkey vs. Meltdown | 234724 | [234724-glowmonkey-vs-meltdown.json](./234724-glowmonkey-vs-meltdown.json) |
 | Glowmonkey2k | 229617 | [229617-glowmonkey2k.json](./229617-glowmonkey2k.json) |
+| GlowOne | 99845 | [99845-glowone.json](./99845-glowone.json) |
 | glowWorm | 104576 | [104576-glowworm.json](./104576-glowworm.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Gloxinia | 385008 | [385008-gloxinia.json](./385008-gloxinia.json) |
