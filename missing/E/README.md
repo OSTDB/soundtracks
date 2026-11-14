@@ -6875,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Egg | 166475 | [166475-eternity-egg.json](./166475-eternity-egg.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternity Inn | 170343 | [170343-eternity-inn.json](./170343-eternity-inn.json) |
+| Eternity Legends | 119109 | [119109-eternity-legends.json](./119109-eternity-legends.json) |
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
 | Eternity Protectors | 157373 | [157373-eternity-protectors.json](./157373-eternity-protectors.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
@@ -8117,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
 | Evolution - Multiplayer FPS | 100071 | [100071-evolution-multiplayer-fps.json](./100071-evolution-multiplayer-fps.json) |
 | Evolution & Climate Bundle | 238043 | [238043-evolution-and-climate-bundle.json](./238043-evolution-and-climate-bundle.json) |
+| Evolution 2: Battle for Utopia | 119107 | [119107-evolution-2-battle-for-utopia.json](./119107-evolution-2-battle-for-utopia.json) |
 | Evolution 2: Far Off Promise | 45858 | [45858-evolution-2-far-off-promise.json](./45858-evolution-2-far-off-promise.json) |
 | Evolution Adventure | 332796 | [332796-evolution-adventure.json](./332796-evolution-adventure.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
