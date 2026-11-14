@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faeria: Fall of Everlife | 163526 | [163526-faeria-fall-of-everlife.json](./163526-faeria-fall-of-everlife.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
+| Faeria: Puzzle Pack Elements | 163522 | [163522-faeria-puzzle-pack-elements.json](./163522-faeria-puzzle-pack-elements.json) |
 | Faeria: Resurgence | 163524 | [163524-faeria-resurgence.json](./163524-faeria-resurgence.json) |
 | Faerie Afterlight | 133272 | [133272-faerie-afterlight.json](./133272-faerie-afterlight.json) |
 | Faerie Alchemy: Puzzle Game | 174246 | [174246-faerie-alchemy-puzzle-game.json](./174246-faerie-alchemy-puzzle-game.json) |
@@ -13206,11 +13207,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th Revisited | 395706 | [395706-friday-the-13th-revisited.json](./395706-friday-the-13th-revisited.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
 | Friday the 13th: Killer Puzzle | 83891 | [83891-friday-the-13th-killer-puzzle.json](./83891-friday-the-13th-killer-puzzle.json) |
+| Friday the 13th: Killer Puzzle - Bloodbath Jason | 163481 | [163481-friday-the-13th-killer-puzzle-bloodbath-jason.json](./163481-friday-the-13th-killer-puzzle-bloodbath-jason.json) |
 | Friday the 13th: Killer Puzzle - Cyber Jason | 163476 | [163476-friday-the-13th-killer-puzzle-cyber-jason.json](./163476-friday-the-13th-killer-puzzle-cyber-jason.json) |
+| Friday the 13th: Killer Puzzle - Electrical Jason | 163483 | [163483-friday-the-13th-killer-puzzle-electrical-jason.json](./163483-friday-the-13th-killer-puzzle-electrical-jason.json) |
+| Friday the 13th: Killer Puzzle - Episode 10: The Ripper | 163486 | [163486-friday-the-13th-killer-puzzle-episode-10-the-ripper.json](./163486-friday-the-13th-killer-puzzle-episode-10-the-ripper.json) |
 | Friday the 13th: Killer Puzzle - Episode 11: Knightmare | 163472 | [163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json](./163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json) |
+| Friday the 13th: Killer Puzzle - Episode 12: Jurassic Jason | 163485 | [163485-friday-the-13th-killer-puzzle-episode-12-jurassic-jason.json](./163485-friday-the-13th-killer-puzzle-episode-12-jurassic-jason.json) |
+| Friday the 13th: Killer Puzzle - Episode 2: Lockdown | 163477 | [163477-friday-the-13th-killer-puzzle-episode-2-lockdown.json](./163477-friday-the-13th-killer-puzzle-episode-2-lockdown.json) |
 | Friday the 13th: Killer Puzzle - Episode 3: Winter Kills | 163471 | [163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json](./163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json) |
 | Friday the 13th: Killer Puzzle - Episode 4: Imaskny | 163475 | [163475-friday-the-13th-killer-puzzle-episode-4-imaskny.json](./163475-friday-the-13th-killer-puzzle-episode-4-imaskny.json) |
+| Friday the 13th: Killer Puzzle - Episode 5: Last Resort | 163484 | [163484-friday-the-13th-killer-puzzle-episode-5-last-resort.json](./163484-friday-the-13th-killer-puzzle-episode-5-last-resort.json) |
+| Friday the 13th: Killer Puzzle - Episode 6: Slayground | 163482 | [163482-friday-the-13th-killer-puzzle-episode-6-slayground.json](./163482-friday-the-13th-killer-puzzle-episode-6-slayground.json) |
+| Friday the 13th: Killer Puzzle - Episode 7: Wasteland | 163479 | [163479-friday-the-13th-killer-puzzle-episode-7-wasteland.json](./163479-friday-the-13th-killer-puzzle-episode-7-wasteland.json) |
+| Friday the 13th: Killer Puzzle - Episode 8: Future Shock | 163480 | [163480-friday-the-13th-killer-puzzle-episode-8-future-shock.json](./163480-friday-the-13th-killer-puzzle-episode-8-future-shock.json) |
+| Friday the 13th: Killer Puzzle - Episode 9: Return to Crystal Lake | 163478 | [163478-friday-the-13th-killer-puzzle-episode-9-return-to-crystal-lake.json](./163478-friday-the-13th-killer-puzzle-episode-9-return-to-crystal-lake.json) |
 | Friday the 13th: Killer Puzzle - Flaming Jason | 163474 | [163474-friday-the-13th-killer-puzzle-flaming-jason.json](./163474-friday-the-13th-killer-puzzle-flaming-jason.json) |
+| Friday the 13th: Killer Puzzle - Part 3 Jason | 163487 | [163487-friday-the-13th-killer-puzzle-part-3-jason.json](./163487-friday-the-13th-killer-puzzle-part-3-jason.json) |
 | Friday the 13th: Killer Puzzle - Retro Jason | 163470 | [163470-friday-the-13th-killer-puzzle-retro-jason.json](./163470-friday-the-13th-killer-puzzle-retro-jason.json) |
 | Friday the 13th: Killer Puzzle - Toxic Jason | 163473 | [163473-friday-the-13th-killer-puzzle-toxic-jason.json](./163473-friday-the-13th-killer-puzzle-toxic-jason.json) |
 | Friday the 13th: Return to Camp Blood | 176822 | [176822-friday-the-13th-return-to-camp-blood.json](./176822-friday-the-13th-return-to-camp-blood.json) |
@@ -15055,6 +15067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Fairy Tales | 310487 | [310487-furry-fairy-tales.json](./310487-furry-fairy-tales.json) |
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
 | Furry Farm | 329099 | [329099-furry-farm.json](./329099-furry-farm.json) |
+| Furry Feet | 163576 | [163576-furry-feet.json](./163576-furry-feet.json) |
 | Furry Feet 2: 18+ Content | 297126 | [297126-furry-feet-2-18-content.json](./297126-furry-feet-2-18-content.json) |
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Feet: Femboys! | 213530 | [213530-furry-feet-femboys.json](./213530-furry-feet-femboys.json) |
