@@ -18218,6 +18218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
 | The Sims 4: Cottage Living | 152316 | [152316-the-sims-4-cottage-living.json](./152316-the-sims-4-cottage-living.json) |
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
+| The Sims 4: Courtyard Oasis Kit | 148049 | [148049-the-sims-4-courtyard-oasis-kit.json](./148049-the-sims-4-courtyard-oasis-kit.json) |
 | The Sims 4: Cozy Bistro Kit | 303888 | [303888-the-sims-4-cozy-bistro-kit.json](./303888-the-sims-4-cozy-bistro-kit.json) |
 | The Sims 4: Cozy Kitsch Kit | 330389 | [330389-the-sims-4-cozy-kitsch-kit.json](./330389-the-sims-4-cozy-kitsch-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
@@ -25692,6 +25693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinselfly | 121312 | [121312-tinselfly.json](./121312-tinselfly.json) |
 | Tinseltown Dreams | 54193 | [54193-tinseltown-dreams.json](./54193-tinseltown-dreams.json) |
 | Tinseltown Tycoon | 157889 | [157889-tinseltown-tycoon.json](./157889-tinseltown-tycoon.json) |
+| TinShift | 148008 | [148008-tinshift.json](./148008-tinshift.json) |
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
@@ -25847,6 +25849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
 | Tiny Hero Idle | 279471 | [279471-tiny-hero-idle.json](./279471-tiny-hero-idle.json) |
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
+| Tiny Heroes 2 | 148015 | [148015-tiny-heroes-2.json](./148015-tiny-heroes-2.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Hoops: Idle Shooter | 392304 | [392304-tiny-hoops-idle-shooter.json](./392304-tiny-hoops-idle-shooter.json) |
 | Tiny Hope | 70895 | [70895-tiny-hope.json](./70895-tiny-hope.json) |
@@ -34105,6 +34108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triggerman | 43555 | [43555-triggerman.json](./43555-triggerman.json) |
 | Triggerun | 105713 | [105713-triggerun.json](./105713-triggerun.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
+| Triglav | 148004 | [148004-triglav.json](./148004-triglav.json) |
 | Trigo | 193021 | [193021-trigo.json](./193021-trigo.json) |
 | Trigodpats RPG | 387413 | [387413-trigodpats-rpg.json](./387413-trigodpats-rpg.json) |
 | Trigon | 103077 | [103077-trigon.json](./103077-trigon.json) |
