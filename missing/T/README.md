@@ -4038,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempered Hue | 361260 | [361260-tempered-hue.json](./361260-tempered-hue.json) |
 | Temperia: Soul of Majestic | 182127 | [182127-temperia-soul-of-majestic.json](./182127-temperia-soul-of-majestic.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
+| Tempest | 150212 | [150212-tempest.json](./150212-tempest.json) |
 | Tempest | 15383 | [15383-tempest.json](./15383-tempest.json) |
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
 | Tempest | 22807 | [22807-tempest.json](./22807-tempest.json) |
@@ -6167,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 181822 | [181822-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./181822-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
+| The Adventures of Zozo | 150193 | [150193-the-adventures-of-zozo.json](./150193-the-adventures-of-zozo.json) |
 | The Adventures on Uranus | 158838 | [158838-the-adventures-on-uranus.json](./158838-the-adventures-on-uranus.json) |
 | The Adventurous Four | 90163 | [90163-the-adventurous-four.json](./90163-the-adventurous-four.json) |
 | The Advisor: Episode 1 - Royal Pain | 171189 | [171189-the-advisor-episode-1-royal-pain.json](./171189-the-advisor-episode-1-royal-pain.json) |
@@ -16083,6 +16085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oversight Bureau | 373507 | [373507-the-oversight-bureau.json](./373507-the-oversight-bureau.json) |
 | The Overtaken | 177822 | [177822-the-overtaken.json](./177822-the-overtaken.json) |
 | The Overthrow | 216507 | [216507-the-overthrow.json](./216507-the-overthrow.json) |
+| The Owl and Lighthouse | 150199 | [150199-the-owl-and-lighthouse.json](./150199-the-owl-and-lighthouse.json) |
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
 | The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
@@ -21717,6 +21720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Hunger: Lost Souls | 73003 | [73003-they-hunger-lost-souls.json](./73003-they-hunger-lost-souls.json) |
+| They Hunger: Trilogy | 150230 | [150230-they-hunger-trilogy.json](./150230-they-hunger-trilogy.json) |
 | They Killed Your Cat | 392679 | [392679-they-killed-your-cat.json](./392679-they-killed-your-cat.json) |
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
@@ -33343,6 +33347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Defence | 286348 | [286348-treasure-defence.json](./286348-treasure-defence.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Dive | 317459 | [317459-treasure-dive.json](./317459-treasure-dive.json) |
+| Treasure Drifter: Nian | 150195 | [150195-treasure-drifter-nian.json](./150195-treasure-drifter-nian.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Algae Valley DLC | 373987 | [373987-treasure-drop-algae-valley-dlc.json](./373987-treasure-drop-algae-valley-dlc.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
