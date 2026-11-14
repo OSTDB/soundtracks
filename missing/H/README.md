@@ -6480,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero | 379936 | [379936-hero.json](./379936-hero.json) |
 | Hero | 46879 | [46879-hero.json](./46879-hero.json) |
 | Hero 2048 | 365606 | [365606-hero-2048.json](./365606-hero-2048.json) |
+| Hero Academy 2 | 93842 | [93842-hero-academy-2.json](./93842-hero-academy-2.json) |
 | Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero and a Wicked Man | 372938 | [372938-hero-and-a-wicked-man.json](./372938-hero-and-a-wicked-man.json) |
@@ -9607,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Clicker | 241587 | [241587-hockey-clicker.json](./241587-hockey-clicker.json) |
 | Hockey Club | 361733 | [361733-hockey-club.json](./361733-hockey-club.json) |
 | Hockey de mesa | 230654 | [230654-hockey-de-mesa.json](./230654-hockey-de-mesa.json) |
+| Hockey Fight | 93908 | [93908-hockey-fight.json](./93908-hockey-fight.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
 | Hockey General Manager | 90729 | [90729-hockey-general-manager.json](./90729-hockey-general-manager.json) |
@@ -13412,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
 | Hunter W | 208751 | [208751-hunter-w.json](./208751-hunter-w.json) |
 | Hunter White | 406438 | [406438-hunter-white.json](./406438-hunter-white.json) |
+| Hunter Willie Hunting Wild Safari Dinosaurs | 93885 | [93885-hunter-willie-hunting-wild-safari-dinosaurs.json](./93885-hunter-willie-hunting-wild-safari-dinosaurs.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter x Hunter: Battle Allstars | 58385 | [58385-hunter-x-hunter-battle-allstars.json](./58385-hunter-x-hunter-battle-allstars.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
