@@ -9759,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuukara Shisen | 206579 | [206579-chuukara-shisen.json](./206579-chuukara-shisen.json) |
+| Chuuni Hime no Teikoku | 98137 | [98137-chuuni-hime-no-teikoku.json](./98137-chuuni-hime-no-teikoku.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
 | Chuusotsu: 1st Graduation | 27942 | [27942-chuusotsu-1st-graduation.json](./27942-chuusotsu-1st-graduation.json) |
 | Chuusotsu! 1.5th Graduation: The Moving Castle | 128188 | [128188-chuusotsu-1-5th-graduation-the-moving-castle.json](./128188-chuusotsu-1-5th-graduation-the-moving-castle.json) |
