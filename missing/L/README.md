@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Changing the Past - Collector's Edition | 46955 | [46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json](./46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json) |
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
+| Labyrinths of the World: Fool's Gold - Collector's Edition | 121811 | [121811-labyrinths-of-the-world-fools-gold-collectors-edition.json](./121811-labyrinths-of-the-world-fools-gold-collectors-edition.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
 | Labyrinths of the World: Hearts of the Planet - Collector's Edition | 170204 | [170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json](./170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json) |
 | Labyrinths of the World: Secrets of Easter Island | 198093 | [198093-labyrinths-of-the-world-secrets-of-easter-island.json](./198093-labyrinths-of-the-world-secrets-of-easter-island.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legende im Eis | 138525 | [138525-legende-im-eis.json](./138525-legende-im-eis.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
+| Legends | 121810 | [121810-legends.json](./121810-legends.json) |
 | Legends | 268259 | [268259-legends.json](./268259-legends.json) |
 | Legends & Myths Bundle | 125137 | [125137-legends-and-myths-bundle.json](./125137-legends-and-myths-bundle.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
@@ -5395,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightless: The 21st Sacrifice | 135482 | [135482-lightless-the-21st-sacrifice.json](./135482-lightless-the-21st-sacrifice.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightman | 121385 | [121385-lightman.json](./121385-lightman.json) |
+| Lightmare Castle | 121806 | [121806-lightmare-castle.json](./121806-lightmare-castle.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightmoth | 106841 | [106841-lightmoth.json](./106841-lightmoth.json) |
 | Lightner | 136242 | [136242-lightner.json](./136242-lightner.json) |
