@@ -1975,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Chaos | 420481 | [420481-garage-chaos.json](./420481-garage-chaos.json) |
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
+| Garage Master 2018 | 104906 | [104906-garage-master-2018.json](./104906-garage-master-2018.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Mechanic Simulator 3D | 315895 | [315895-garage-mechanic-simulator-3d.json](./315895-garage-mechanic-simulator-3d.json) |
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaurodan | 50350 | [50350-gaurodan.json](./50350-gaurodan.json) |
 | Gaussian Mansion | 381507 | [381507-gaussian-mansion.json](./381507-gaussian-mansion.json) |
 | Gav-Gav Odyssey | 187758 | [187758-gav-gav-odyssey.json](./187758-gav-gav-odyssey.json) |
+| Gavel | 105457 | [105457-gavel.json](./105457-gavel.json) |
 | Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
 | Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
 | Gavis Arenarium | 336866 | [336866-gavis-arenarium.json](./336866-gavis-arenarium.json) |
@@ -10922,6 +10924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
 | Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
 | Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
+| Groundless | 105455 | [105455-groundless.json](./105455-groundless.json) |
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
 | Groundskeeper | 399329 | [399329-groundskeeper.json](./399329-groundskeeper.json) |
