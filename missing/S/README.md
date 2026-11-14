@@ -13080,6 +13080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Rules | 124673 | [124673-six-rules.json](./124673-six-rules.json) |
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
+| Six Second Slam | 114445 | [114445-six-second-slam.json](./114445-six-second-slam.json) |
 | Six Seven Nights | 393049 | [393049-six-seven-nights.json](./393049-six-seven-nights.json) |
 | Six Shooters | 217107 | [217107-six-shooters.json](./217107-six-shooters.json) |
 | Six Shots | 176796 | [176796-six-shots.json](./176796-six-shots.json) |
@@ -13611,6 +13612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin Doctor | 108696 | [108696-skin-doctor.json](./108696-skin-doctor.json) |
 | Skin Stealers | 128147 | [128147-skin-stealers.json](./128147-skin-stealers.json) |
 | Skin Tailor | 382084 | [382084-skin-tailor.json](./382084-skin-tailor.json) |
+| Skin Tight Bitch Fight | 113974 | [113974-skin-tight-bitch-fight.json](./113974-skin-tight-bitch-fight.json) |
 | Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | SkinCrawler Ranch | 364740 | [364740-skincrawler-ranch.json](./364740-skincrawler-ranch.json) |
@@ -15981,6 +15983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash T.V. | 218754 | [218754-smash-t-v.json](./218754-smash-t-v.json) |
 | Smash T.V. | 218756 | [218756-smash-t-v.json](./218756-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
+| Smash team | 114450 | [114450-smash-team.json](./114450-smash-team.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
 | Smash the Buddy: Kick Dude | 108700 | [108700-smash-the-buddy-kick-dude.json](./108700-smash-the-buddy-kick-dude.json) |
@@ -31978,6 +31981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
 | Stupid Cars | 328893 | [328893-stupid-cars.json](./328893-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
+| Stupid Cupid | 114474 | [114474-stupid-cupid.json](./114474-stupid-cupid.json) |
 | Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
 | Stupid Dungeon | 119828 | [119828-stupid-dungeon.json](./119828-stupid-dungeon.json) |
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
