@@ -4698,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Mouth | 223387 | [223387-hells-mouth.json](./223387-hells-mouth.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hell's On Hold | 300544 | [300544-hells-on-hold.json](./300544-hells-on-hold.json) |
+| Hell's Pharma | 128042 | [128042-hells-pharma.json](./128042-hells-pharma.json) |
 | Hell's Revenge 3D | 149348 | [149348-hells-revenge-3d.json](./149348-hells-revenge-3d.json) |
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
 | Hell's Underground | 302864 | [302864-hells-underground.json](./302864-hells-underground.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Rococo | 333345 | [333345-help-rococo.json](./333345-help-rococo.json) |
 | Help the Cats | 290657 | [290657-help-the-cats.json](./290657-help-the-cats.json) |
 | Help the Cats to Go Home ! - Use the Cats Food to Help Them ! | 197680 | [197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json](./197680-help-the-cats-to-go-home-use-the-cats-food-to-help-them.json) |
+| Help the Minotaur | 128056 | [128056-help-the-minotaur.json](./128056-help-the-minotaur.json) |
 | Help Wanted | 122722 | [122722-help-wanted.json](./122722-help-wanted.json) |
 | Help Wanted: 50 Wacky Jobs! | 21190 | [21190-help-wanted-50-wacky-jobs.json](./21190-help-wanted-50-wacky-jobs.json) |
 | Help Will Come Tomorrow | 121989 | [121989-help-will-come-tomorrow.json](./121989-help-will-come-tomorrow.json) |
@@ -6335,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here Be No Sirens | 312949 | [312949-here-be-no-sirens.json](./312949-here-be-no-sirens.json) |
+| Here Come the Mystery Teens! | 128064 | [128064-here-come-the-mystery-teens.json](./128064-here-come-the-mystery-teens.json) |
 | Here Comes Niko! | 142405 | [142405-here-comes-niko.json](./142405-here-comes-niko.json) |
 | Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
 | Here Comes the Hero | 172816 | [172816-here-comes-the-hero.json](./172816-here-comes-the-hero.json) |
@@ -9462,6 +9465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
 | HJ: Sacrifice | 76504 | [76504-hj-sacrifice.json](./76504-hj-sacrifice.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
+| Hjem | 128075 | [128075-hjem.json](./128075-hjem.json) |
 | HK Project | 57890 | [57890-hk-project.json](./57890-hk-project.json) |
 | HL: Minimal Edition | 177973 | [177973-hl-minimal-edition.json](./177973-hl-minimal-edition.json) |
 | HLFX: Lost in Black Mesa | 323780 | [323780-hlfx-lost-in-black-mesa.json](./323780-hlfx-lost-in-black-mesa.json) |
@@ -12509,6 +12513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to God | 343055 | [343055-how-to-god.json](./343055-how-to-god.json) |
 | How to Grow a Black Hole | 405789 | [405789-how-to-grow-a-black-hole.json](./405789-how-to-grow-a-black-hole.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
+| How to Hack in? | 128057 | [128057-how-to-hack-in.json](./128057-how-to-hack-in.json) |
 | How to Kill a Fly | 397986 | [397986-how-to-kill-a-fly.json](./397986-how-to-kill-a-fly.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Loot | 145703 | [145703-how-to-loot.json](./145703-how-to-loot.json) |
