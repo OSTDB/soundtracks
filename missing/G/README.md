@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
 | Galagi Shooter Ultimate Blast | 332164 | [332164-galagi-shooter-ultimate-blast.json](./332164-galagi-shooter-ultimate-blast.json) |
 | Galago | 338052 | [338052-galago.json](./338052-galago.json) |
+| Galagon | 93241 | [93241-galagon.json](./93241-galagon.json) |
 | Galah Galah | 228958 | [228958-galah-galah.json](./228958-galah-galah.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
 | Galahad 3093 | 141324 | [141324-galahad-3093.json](./141324-galahad-3093.json) |
@@ -6514,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlomb | 422663 | [422663-goblomb.json](./422663-goblomb.json) |
 | Goblomite | 348893 | [348893-goblomite.json](./348893-goblomite.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
+| GobMan | 93254 | [93254-gobman.json](./93254-gobman.json) |
 | Gobo & Spike | 357303 | [357303-gobo-and-spike.json](./357303-gobo-and-spike.json) |
 | Gobo’s Arena | 260173 | [260173-gobo-s-arena.json](./260173-gobo-s-arena.json) |
 | Gobocore: Goblin Rescue Squad | 295850 | [295850-gobocore-goblin-rescue-squad.json](./295850-gobocore-goblin-rescue-squad.json) |
@@ -9474,6 +9476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 125685 | [125685-gravity-garden.json](./125685-gravity-garden.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
+| Gravity Gems | 93257 | [93257-gravity-gems.json](./93257-gravity-gems.json) |
 | Gravity Ghost | 16669 | [16669-gravity-ghost.json](./16669-gravity-ghost.json) |
 | Gravity Ghost: Deluxe Edition | 120546 | [120546-gravity-ghost-deluxe-edition.json](./120546-gravity-ghost-deluxe-edition.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
