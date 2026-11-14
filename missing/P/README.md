@@ -3309,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
 | Path of the Rabbit | 177230 | [177230-path-of-the-rabbit.json](./177230-path-of-the-rabbit.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
+| Path of the Sramana | 132883 | [132883-path-of-the-sramana.json](./132883-path-of-the-sramana.json) |
 | Path of the Tank | 293663 | [293663-path-of-the-tank.json](./293663-path-of-the-tank.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
@@ -18475,6 +18476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy: Ultimate Hacker | 31260 | [31260-proxy-ultimate-hacker.json](./31260-proxy-ultimate-hacker.json) |
 | Proxyah | 121170 | [121170-proxyah.json](./121170-proxyah.json) |
 | Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
+| Proyecto Flamingo X1 | 132878 | [132878-proyecto-flamingo-x1.json](./132878-proyecto-flamingo-x1.json) |
 | Proyecto Huemul | 415746 | [415746-proyecto-huemul.json](./415746-proyecto-huemul.json) |
 | Proyecto infernal | 302892 | [302892-proyecto-infernal.json](./302892-proyecto-infernal.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
