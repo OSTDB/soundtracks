@@ -2550,9 +2550,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de 5: Kazahanaki | 146664 | [146664-harukanaru-toki-no-naka-de-5-kazahanaki.json](./146664-harukanaru-toki-no-naka-de-5-kazahanaki.json) |
 | Harukanaru Toki no Naka de 6 | 60958 | [60958-harukanaru-toki-no-naka-de-6.json](./60958-harukanaru-toki-no-naka-de-6.json) |
 | Harukanaru Toki no Naka de 6 DX | 111839 | [111839-harukanaru-toki-no-naka-de-6-dx.json](./111839-harukanaru-toki-no-naka-de-6-dx.json) |
+| Harukanaru Toki no Naka de 6 Gentou Rondo | 136527 | [136527-harukanaru-toki-no-naka-de-6-gentou-rondo.json](./136527-harukanaru-toki-no-naka-de-6-gentou-rondo.json) |
 | Harukanaru Toki no Naka de 7 | 121519 | [121519-harukanaru-toki-no-naka-de-7.json](./121519-harukanaru-toki-no-naka-de-7.json) |
 | Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
 | Harukanaru Toki no Naka de 7: Treasure Box Edition | 136775 | [136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json](./136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json) |
+| Harukanaru Toki no Naka de Ultimate | 136526 | [136526-harukanaru-toki-no-naka-de-ultimate.json](./136526-harukanaru-toki-no-naka-de-ultimate.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harukanaru Toki no Naka de: Maihitoyo | 146658 | [146658-harukanaru-toki-no-naka-de-maihitoyo.json](./146658-harukanaru-toki-no-naka-de-maihitoyo.json) |
@@ -12875,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Electric Company | 347024 | [347024-human-electric-company.json](./347024-human-electric-company.json) |
 | Human Element | 1938 | [1938-human-element.json](./1938-human-element.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
+| Human Errors | 136505 | [136505-human-errors.json](./136505-human-errors.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
 | Human Expenditure Program | 368739 | [368739-human-expenditure-program.json](./368739-human-expenditure-program.json) |
 | Human Extinction Simulator | 28588 | [28588-human-extinction-simulator.json](./28588-human-extinction-simulator.json) |
