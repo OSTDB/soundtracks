@@ -12996,6 +12996,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Resurrection | 260904 | [260904-apex-legends-resurrection.json](./260904-apex-legends-resurrection.json) |
 | Apex Legends: Revelry | 236655 | [236655-apex-legends-revelry.json](./236655-apex-legends-revelry.json) |
 | Apex Legends: Saviors | 198605 | [198605-apex-legends-saviors.json](./198605-apex-legends-saviors.json) |
+| Apex Legends: Season 1 | 129860 | [129860-apex-legends-season-1.json](./129860-apex-legends-season-1.json) |
+| Apex Legends: Season 2 | 129861 | [129861-apex-legends-season-2.json](./129861-apex-legends-season-2.json) |
+| Apex Legends: Season 3 | 129862 | [129862-apex-legends-season-3.json](./129862-apex-legends-season-3.json) |
+| Apex Legends: Season 4 | 129863 | [129863-apex-legends-season-4.json](./129863-apex-legends-season-4.json) |
 | Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
 | Apex Legends: Season 6 | 136736 | [136736-apex-legends-season-6.json](./136736-apex-legends-season-6.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
@@ -18237,6 +18241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka-san ha Nabikanai | 214859 | [214859-asuka-san-ha-nabikanai.json](./214859-asuka-san-ha-nabikanai.json) |
 | Asuka-san ha Nabikanai | 251635 | [251635-asuka-san-ha-nabikanai.json](./251635-asuka-san-ha-nabikanai.json) |
 | Asuka: The Ascent | 340840 | [340840-asuka-the-ascent.json](./340840-asuka-the-ascent.json) |
+| Asuncia: Matsue no Jubaku | 129855 | [129855-asuncia-matsue-no-jubaku.json](./129855-asuncia-matsue-no-jubaku.json) |
 | Asunder | 76283 | [76283-asunder.json](./76283-asunder.json) |
 | Asunder II | 318894 | [318894-asunder-ii.json](./318894-asunder-ii.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
