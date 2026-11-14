@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Slayer | 35111 | [35111-orc-slayer.json](./35111-orc-slayer.json) |
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc Survivors | 231192 | [231192-orc-survivors.json](./231192-orc-survivors.json) |
+| Orc Towers VR | 113260 | [113260-orc-towers-vr.json](./113260-orc-towers-vr.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
 | Orc's Bride | 367196 | [367196-orcs-bride.json](./367196-orcs-bride.json) |
