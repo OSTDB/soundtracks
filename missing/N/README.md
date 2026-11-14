@@ -8460,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Quest: Love Hurts! | 396429 | [396429-nurse-quest-love-hurts.json](./396429-nurse-quest-love-hurts.json) |
 | Nurse Sofi | 280079 | [280079-nurse-sofi.json](./280079-nurse-sofi.json) |
 | Nurse Story | 268644 | [268644-nurse-story.json](./268644-nurse-story.json) |
+| Nurse Witch Komugi-Chan Magikarte | 109080 | [109080-nurse-witch-komugi-chan-magikarte.json](./109080-nurse-witch-komugi-chan-magikarte.json) |
 | Nursery Curse | 176310 | [176310-nursery-curse.json](./176310-nursery-curse.json) |
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
