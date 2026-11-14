@@ -10378,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Bay | 150604 | [150604-blacksmith-bay.json](./150604-blacksmith-bay.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
+| Blacksmith Lab | 101838 | [101838-blacksmith-lab.json](./101838-blacksmith-lab.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
 | Blacksmith Master | 240253 | [240253-blacksmith-master.json](./240253-blacksmith-master.json) |
 | Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
@@ -18984,6 +18985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Manager | 401833 | [401833-building-manager.json](./401833-building-manager.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
+| Building Rush 2 | 101801 | [101801-building-rush-2.json](./101801-building-rush-2.json) |
 | Building Simulator | 46454 | [46454-building-simulator.json](./46454-building-simulator.json) |
 | Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
 | Building the Universe | 132402 | [132402-building-the-universe.json](./132402-building-the-universe.json) |
