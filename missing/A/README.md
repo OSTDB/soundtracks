@@ -6812,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 5480 | [5480-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./5480-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 67296 | [67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
+| Akatsuki no Eiyuu: Breakers | 98645 | [98645-akatsuki-no-eiyuu-breakers.json](./98645-akatsuki-no-eiyuu-breakers.json) |
 | Akatsuki no Goei | 202951 | [202951-akatsuki-no-goei.json](./202951-akatsuki-no-goei.json) |
 | Akatsuki no Goei Trinity | 202954 | [202954-akatsuki-no-goei-trinity.json](./202954-akatsuki-no-goei-trinity.json) |
 | Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
@@ -13828,6 +13829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Savior | 107856 | [107856-arc-savior.json](./107856-arc-savior.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
+| Arc Style Freecell | 98624 | [98624-arc-style-freecell.json](./98624-arc-style-freecell.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
 | Arc Style: Baseball 3D | 84761 | [84761-arc-style-baseball-3d.json](./84761-arc-style-baseball-3d.json) |
 | Arc Style: Girls Soccer 3D | 222181 | [222181-arc-style-girls-soccer-3d.json](./222181-arc-style-girls-soccer-3d.json) |
@@ -13837,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style: Simple Mahjong 3D | 222186 | [222186-arc-style-simple-mahjong-3d.json](./222186-arc-style-simple-mahjong-3d.json) |
 | Arc Style: Soccer!! 2014 | 137748 | [137748-arc-style-soccer-2014.json](./137748-arc-style-soccer-2014.json) |
 | Arc Style: Soccer!! 3D | 64548 | [64548-arc-style-soccer-3d.json](./64548-arc-style-soccer-3d.json) |
+| Arc Style: Spider Solitaire | 98623 | [98623-arc-style-spider-solitaire.json](./98623-arc-style-spider-solitaire.json) |
 | Arc Surfer | 95155 | [95155-arc-surfer.json](./95155-arc-surfer.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
