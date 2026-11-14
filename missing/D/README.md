@@ -13569,6 +13569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino: The Little One | 275939 | [275939-domino-the-little-one.json](./275939-domino-the-little-one.json) |
 | Domino! | 281483 | [281483-domino.json](./281483-domino.json) |
 | Domino! | 359139 | [359139-domino.json](./359139-domino.json) |
+| Domino's App feat. Hatsune Miku | 150225 | [150225-dominos-app-feat-hatsune-miku.json](./150225-dominos-app-feat-hatsune-miku.json) |
 | Dominocalypse | 404644 | [404644-dominocalypse.json](./404644-dominocalypse.json) |
 | Dominoes | 60322 | [60322-dominoes.json](./60322-dominoes.json) |
 | Dominoes 3D Simulator | 192488 | [192488-dominoes-3d-simulator.json](./192488-dominoes-3d-simulator.json) |
