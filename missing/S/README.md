@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
 | S.T.A.R.W.I.E.L.D. | 303710 | [303710-s-t-a-r-w-i-e-l-d.json](./303710-s-t-a-r-w-i-e-l-d.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
+| S.T.I. | 133481 | [133481-s-t-i.json](./133481-s-t-i.json) |
 | S.T.O.R.M. | 207113 | [207113-s-t-o-r-m.json](./207113-s-t-o-r-m.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
@@ -2502,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Wars: Laser Massacre | 248062 | [248062-sausage-wars-laser-massacre.json](./248062-sausage-wars-laser-massacre.json) |
 | Sausage Wars: Trapdoor Hell | 248061 | [248061-sausage-wars-trapdoor-hell.json](./248061-sausage-wars-trapdoor-hell.json) |
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
+| Saute Canton | 133520 | [133520-saute-canton.json](./133520-saute-canton.json) |
 | Sauve le Shérif | 403945 | [403945-sauve-le-sherif.json](./403945-sauve-le-sherif.json) |
 | Savage | 129527 | [129527-savage.json](./129527-savage.json) |
 | Savage | 15361 | [15361-savage.json](./15361-savage.json) |
@@ -11832,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Galaxy Bound Curse | 307178 | [307178-silver-falls-galaxy-bound-curse.json](./307178-silver-falls-galaxy-bound-curse.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
+| Silver Falls: Undertakers | 133502 | [133502-silver-falls-undertakers.json](./133502-silver-falls-undertakers.json) |
 | Silver Falls: White Inside Its Umbra | 278009 | [278009-silver-falls-white-inside-its-umbra.json](./278009-silver-falls-white-inside-its-umbra.json) |
 | Silver Flash: Pinball 1 | 70809 | [70809-silver-flash-pinball-1.json](./70809-silver-flash-pinball-1.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
@@ -12093,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 57: The Meiro | 203040 | [203040-simple-1500-series-vol-57-the-meiro.json](./203040-simple-1500-series-vol-57-the-meiro.json) |
 | Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
+| Simple 1500 Series Vol. 59: The Suiri - IT Tantei: 18 no Jikenbo | 133491 | [133491-simple-1500-series-vol-59-the-suiri-it-tantei-18-no-jikenbo.json](./133491-simple-1500-series-vol-59-the-suiri-it-tantei-18-no-jikenbo.json) |
 | Simple 1500 Series Vol. 6: The Hanafuda | 82268 | [82268-simple-1500-series-vol-6-the-hanafuda.json](./82268-simple-1500-series-vol-6-the-hanafuda.json) |
 | Simple 1500 Series Vol. 60: The Table Hockey | 203054 | [203054-simple-1500-series-vol-60-the-table-hockey.json](./203054-simple-1500-series-vol-60-the-table-hockey.json) |
 | Simple 1500 Series Vol. 61: The Quiz 2 | 203055 | [203055-simple-1500-series-vol-61-the-quiz-2.json](./203055-simple-1500-series-vol-61-the-quiz-2.json) |
@@ -12182,6 +12186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 36: The Musume-Ikusei Simulation - Otousan to Issho | 203261 | [203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json](./203261-simple-2000-series-vol-36-the-musume-ikusei-simulation-otousan-to-issho.json) |
 | Simple 2000 Series Vol. 4: The Double Mahjong Puzzle | 70561 | [70561-simple-2000-series-vol-4-the-double-mahjong-puzzle.json](./70561-simple-2000-series-vol-4-the-double-mahjong-puzzle.json) |
 | Simple 2000 Series Vol. 40: The Touyou Sandai Uranjustsu | 56964 | [56964-simple-2000-series-vol-40-the-touyou-sandai-uranjustsu.json](./56964-simple-2000-series-vol-40-the-touyou-sandai-uranjustsu.json) |
+| Simple 2000 Series Vol. 43: The Saiban - Shinmai Shihoukan Momota Tsukasa no 10 no Saiban File | 133490 | [133490-simple-2000-series-vol-43-the-saiban-shinmai-shihoukan-momota-tsukasa-no-10-no-saiban-file.json](./133490-simple-2000-series-vol-43-the-saiban-shinmai-shihoukan-momota-tsukasa-no-10-no-saiban-file.json) |
 | Simple 2000 Series Vol. 44: The Hajimete no RPG - Densetsu no Keishousha | 203264 | [203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json](./203264-simple-2000-series-vol-44-the-hajimete-no-rpg-densetsu-no-keishousha.json) |
 | Simple 2000 Series Vol. 45: The Koi to Namida to, Tsukioku to... - Thread Colors Sayonara no Mukougawa | 203265 | [203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json](./203265-simple-2000-series-vol-45-the-koi-to-namida-to-tsukioku-to-thread-colors-sayonara-no-mukougawa.json) |
 | Simple 2000 Series Vol. 46: The Kanji Quiz - Challenge Kanji Kentei | 79015 | [79015-simple-2000-series-vol-46-the-kanji-quiz-challenge-kanji-kentei.json](./79015-simple-2000-series-vol-46-the-kanji-quiz-challenge-kanji-kentei.json) |
@@ -12190,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 59: The Uchuujin to Hanasou! Uchuujin-tte Naani? | 203277 | [203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json](./203277-simple-2000-series-vol-59-the-uchuujin-to-hanasou-uchuujin-tte-naani.json) |
 | Simple 2000 Series Vol. 62: The Super Puzzle Bobble DX | 61339 | [61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json](./61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json) |
 | Simple 2000 Series vol. 66: The Party Unou Quiz | 124079 | [124079-simple-2000-series-vol-66-the-party-unou-quiz.json](./124079-simple-2000-series-vol-66-the-party-unou-quiz.json) |
+| Simple 2000 Series Vol. 67: The Suiri - Soshite Daremo Inakunatta | 133487 | [133487-simple-2000-series-vol-67-the-suiri-soshite-daremo-inakunatta.json](./133487-simple-2000-series-vol-67-the-suiri-soshite-daremo-inakunatta.json) |
 | Simple 2000 Series Vol. 69: The Board Game Collection | 203279 | [203279-simple-2000-series-vol-69-the-board-game-collection.json](./203279-simple-2000-series-vol-69-the-board-game-collection.json) |
 | Simple 2000 Series Vol. 70: The Kanshikikan | 124078 | [124078-simple-2000-series-vol-70-the-kanshikikan.json](./124078-simple-2000-series-vol-70-the-kanshikikan.json) |
 | Simple 2000 Series Vol. 71: The Fantasy Renai Adventure - Kanojo no Densetsu, Boku no Sekiban | 203280 | [203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json](./203280-simple-2000-series-vol-71-the-fantasy-renai-adventure-kanojo-no-densetsu-boku-no-sekiban.json) |
@@ -12212,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
 | Simple 2000 Series: The Renai Adventure - Bittersweet Fools | 70559 | [70559-simple-2000-series-the-renai-adventure-bittersweet-fools.json](./70559-simple-2000-series-the-renai-adventure-bittersweet-fools.json) |
 | Simple 2000 Ultimate Vol. 10: Love Songs - Idol ga Classmate | 63602 | [63602-simple-2000-ultimate-vol-10-love-songs-idol-ga-classmate.json](./63602-simple-2000-ultimate-vol-10-love-songs-idol-ga-classmate.json) |
+| Simple 2500 Series Portable Vol. 3: The Dokodemo Suiri - IT Tantei: Zen 68 no Jikenbo | 133488 | [133488-simple-2500-series-portable-vol-3-the-dokodemo-suiri-it-tantei-zen-68-no-jikenbo.json](./133488-simple-2500-series-portable-vol-3-the-dokodemo-suiri-it-tantei-zen-68-no-jikenbo.json) |
 | Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 | 203397 | [203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json](./203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json) |
 | Simple 2500 Series Portable Vol. 8: The Doko Demo Gal Mahjong | 63618 | [63618-simple-2500-series-portable-vol-8-the-doko-demo-gal-mahjong.json](./63618-simple-2500-series-portable-vol-8-the-doko-demo-gal-mahjong.json) |
 | Simple 2500 Series Portable Vol. 9: The My Taxi! | 203398 | [203398-simple-2500-series-portable-vol-9-the-my-taxi.json](./203398-simple-2500-series-portable-vol-9-the-my-taxi.json) |
@@ -12261,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 34: The Haisha-San | 63624 | [63624-simple-ds-series-vol-34-the-haisha-san.json](./63624-simple-ds-series-vol-34-the-haisha-san.json) |
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
 | Simple DS Series Vol. 40: The Gekai | 98680 | [98680-simple-ds-series-vol-40-the-gekai.json](./98680-simple-ds-series-vol-40-the-gekai.json) |
+| Simple DS Series Vol. 41: The Bakudan Shori-han | 133486 | [133486-simple-ds-series-vol-41-the-bakudan-shori-han.json](./133486-simple-ds-series-vol-41-the-bakudan-shori-han.json) |
 | Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King | 63621 | [63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json](./63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json) |
 | Simple DS Series Vol. 44: The Gal Mahjong | 63620 | [63620-simple-ds-series-vol-44-the-gal-mahjong.json](./63620-simple-ds-series-vol-44-the-gal-mahjong.json) |
 | Simple DS Series Vol. 47: The Suiri Shinshou 2009 | 69408 | [69408-simple-ds-series-vol-47-the-suiri-shinshou-2009.json](./69408-simple-ds-series-vol-47-the-suiri-shinshou-2009.json) |
@@ -15881,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Hit Museum | 383180 | [383180-smash-hit-museum.json](./383180-smash-hit-museum.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
 | Smash Hit Plunder | 112180 | [112180-smash-hit-plunder.json](./112180-smash-hit-plunder.json) |
+| Smash Hockey | 133498 | [133498-smash-hockey.json](./133498-smash-hockey.json) |
 | Smash Hue | 263578 | [263578-smash-hue.json](./263578-smash-hue.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash Island | 105785 | [105785-smash-island.json](./105785-smash-island.json) |
@@ -22392,6 +22401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War Commander | 25431 | [25431-space-war-commander.json](./25431-space-war-commander.json) |
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
+| Space War Machine | 133507 | [133507-space-war-machine.json](./133507-space-war-machine.json) |
 | Space War Plane | 227462 | [227462-space-war-plane.json](./227462-space-war-plane.json) |
 | Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
@@ -22611,6 +22621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
 | Spacer Project | 128260 | [128260-spacer-project.json](./128260-spacer-project.json) |
 | Spacer Rescue: To Valhalla | 251901 | [251901-spacer-rescue-to-valhalla.json](./251901-spacer-rescue-to-valhalla.json) |
+| Spacer: Legacies | 133516 | [133516-spacer-legacies.json](./133516-spacer-legacies.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | SpaceRiddle | 409833 | [409833-spaceriddle.json](./409833-spaceriddle.json) |
@@ -29849,6 +29860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
 | Stitch Laser Blast | 133749 | [133749-stitch-laser-blast.json](./133749-stitch-laser-blast.json) |
 | Stitch Master of Disguise | 133747 | [133747-stitch-master-of-disguise.json](./133747-stitch-master-of-disguise.json) |
+| Stitch: Cosmic Slugger | 133527 | [133527-stitch-cosmic-slugger.json](./133527-stitch-cosmic-slugger.json) |
 | Stitch: Hoop Pack 1 | 333196 | [333196-stitch-hoop-pack-1.json](./333196-stitch-hoop-pack-1.json) |
 | Stitch! Super Chef | 71154 | [71154-stitch-super-chef.json](./71154-stitch-super-chef.json) |
 | Stitch!Now | 107622 | [107622-stitch-now.json](./107622-stitch-now.json) |
@@ -34091,6 +34103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crossbar Challenge | 100790 | [100790-super-crossbar-challenge.json](./100790-super-crossbar-challenge.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
+| Super Crowns Golf | 133528 | [133528-super-crowns-golf.json](./133528-super-crowns-golf.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
 | Super Cube 3D | 278959 | [278959-super-cube-3d.json](./278959-super-cube-3d.json) |
