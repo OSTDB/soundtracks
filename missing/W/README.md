@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
 | Where Is My Mom | 157457 | [157457-where-is-my-mom.json](./157457-where-is-my-mom.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
+| Where Is My Parking Spot: Parking Reimagined | 141307 | [141307-where-is-my-parking-spot-parking-reimagined.json](./141307-where-is-my-parking-spot-parking-reimagined.json) |
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where Is My Vodka? | 157226 | [157226-where-is-my-vodka.json](./157226-where-is-my-vodka.json) |
@@ -6677,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
 | Winter Resort Simulator | 123362 | [123362-winter-resort-simulator.json](./123362-winter-resort-simulator.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
+| Winter Resort Simulator Season 2 | 141268 | [141268-winter-resort-simulator-season-2.json](./141268-winter-resort-simulator-season-2.json) |
 | Winter Resort Simulator Season 2: Content Pack | 226882 | [226882-winter-resort-simulator-season-2-content-pack.json](./226882-winter-resort-simulator-season-2-content-pack.json) |
 | Winter Resort Simulator Season 2: TechnoAlpin - Snow Expert Pack | 226883 | [226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json](./226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json) |
 | Winter Resort Simulator: TechnoAlpin - Snow Expert Pack | 155253 | [155253-winter-resort-simulator-technoalpin-snow-expert-pack.json](./155253-winter-resort-simulator-technoalpin-snow-expert-pack.json) |
