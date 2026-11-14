@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiongguan Mandao, Yi Meng Wan Li | 386760 | [386760-xiongguan-mandao-yi-meng-wan-li.json](./386760-xiongguan-mandao-yi-meng-wan-li.json) |
 | Xiphos | 72242 | [72242-xiphos.json](./72242-xiphos.json) |
 | Xite | 278477 | [278477-xite.json](./278477-xite.json) |
+| Xiu's SuperMarket | 119816 | [119816-xius-supermarket.json](./119816-xius-supermarket.json) |
 | Xiuhcuetzin | 395166 | [395166-xiuhcuetzin.json](./395166-xiuhcuetzin.json) |
 | Xiūzhēn Fēngyún Lù | 107381 | [107381-xiuzhen-fengyun-lu.json](./107381-xiuzhen-fengyun-lu.json) |
 | Xiuzhen Idle | 237480 | [237480-xiuzhen-idle.json](./237480-xiuzhen-idle.json) |
