@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry the Unlucky: Part 3 | 188847 | [188847-larry-the-unlucky-part-3.json](./188847-larry-the-unlucky-part-3.json) |
 | Larry Vales II: Dead Girls are Easy | 76463 | [76463-larry-vales-ii-dead-girls-are-easy.json](./76463-larry-vales-ii-dead-girls-are-easy.json) |
 | Larry Vales: Traffic Division | 73137 | [73137-larry-vales-traffic-division.json](./73137-larry-vales-traffic-division.json) |
+| Larry-Boy: The Mission | 125531 | [125531-larry-boy-the-mission.json](./125531-larry-boy-the-mission.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Larry's Big Score | 65077 | [65077-larrys-big-score.json](./65077-larrys-big-score.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
@@ -4102,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Fishing!! | 400416 | [400416-lets-go-fishing.json](./400416-lets-go-fishing.json) |
 | Let's go Flyfishing | 387120 | [387120-lets-go-flyfishing.json](./387120-lets-go-flyfishing.json) |
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
+| Let's Go Island!: Lost on the Island of Tropics | 125495 | [125495-lets-go-island-lost-on-the-island-of-tropics.json](./125495-lets-go-island-lost-on-the-island-of-tropics.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let’s Go Mightycat! | 355854 | [355854-let-s-go-mightycat.json](./355854-let-s-go-mightycat.json) |
 | Let's Go Nuts! | 99700 | [99700-lets-go-nuts.json](./99700-lets-go-nuts.json) |
@@ -6025,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ling House: Echoes Within | 414423 | [414423-ling-house-echoes-within.json](./414423-ling-house-echoes-within.json) |
 | Ling Hun | 277452 | [277452-ling-hun.json](./277452-ling-hun.json) |
 | Ling Rise | 143665 | [143665-ling-rise.json](./143665-ling-rise.json) |
+| Ling: A Road Alone | 125482 | [125482-ling-a-road-alone.json](./125482-ling-a-road-alone.json) |
 | Linger | 139417 | [139417-linger.json](./139417-linger.json) |
 | Linger In Shadows | 7727 | [7727-linger-in-shadows.json](./7727-linger-in-shadows.json) |
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
@@ -6258,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
 | Liquidation: Zombie Apocalypse | 317889 | [317889-liquidation-zombie-apocalypse.json](./317889-liquidation-zombie-apocalypse.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
+| Liquidator 2: Welcome to Hell | 125532 | [125532-liquidator-2-welcome-to-hell.json](./125532-liquidator-2-welcome-to-hell.json) |
 | Liquidator: 3D Action Game | 205975 | [205975-liquidator-3d-action-game.json](./205975-liquidator-3d-action-game.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
 | Liquidum | 287430 | [287430-liquidum.json](./287430-liquidum.json) |
