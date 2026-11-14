@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Combat: Collector's Edition | 206064 | [206064-universal-combat-collectors-edition.json](./206064-universal-combat-collectors-edition.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Constellation | 299667 | [299667-universal-constellation.json](./299667-universal-constellation.json) |
+| Universal Enemies | 151797 | [151797-universal-enemies.json](./151797-universal-enemies.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
 | Universal Flight Simulator 3 PvP | 409304 | [409304-universal-flight-simulator-3-pvp.json](./409304-universal-flight-simulator-3-pvp.json) |
 | Universal Flight Simulator: Extended | 281900 | [281900-universal-flight-simulator-extended.json](./281900-universal-flight-simulator-extended.json) |
