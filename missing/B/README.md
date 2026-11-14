@@ -9384,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
 | Biscuitts | 137793 | [137793-biscuitts.json](./137793-biscuitts.json) |
 | Biscuitts 2 | 156814 | [156814-biscuitts-2.json](./156814-biscuitts-2.json) |
+| Biscuitts 3 | 157230 | [157230-biscuitts-3.json](./157230-biscuitts-3.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
 | Bish Bash Bots | 244419 | [244419-bish-bash-bots.json](./244419-bish-bash-bots.json) |
@@ -9566,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Escape | 253283 | [253283-bitcoin-escape.json](./253283-bitcoin-escape.json) |
 | Bitcoin Farm | 76487 | [76487-bitcoin-farm.json](./76487-bitcoin-farm.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
+| Bitcoin Hodler | 157246 | [157246-bitcoin-hodler.json](./157246-bitcoin-hodler.json) |
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
 | Bitcoin Miner Farm: Clicker Game | 118960 | [118960-bitcoin-miner-farm-clicker-game.json](./118960-bitcoin-miner-farm-clicker-game.json) |
@@ -9744,6 +9746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
 | Black Abyss Zero | 421362 | [421362-black-abyss-zero.json](./421362-black-abyss-zero.json) |
+| Black Academy | 156754 | [156754-black-academy.json](./156754-black-academy.json) |
 | Black Ace | 191067 | [191067-black-ace.json](./191067-black-ace.json) |
 | Black Annex | 55549 | [55549-black-annex.json](./55549-black-annex.json) |
 | Black Arhat: Wujing | 391644 | [391644-black-arhat-wujing.json](./391644-black-arhat-wujing.json) |
@@ -11615,6 +11618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
 | Block Strategy | 271879 | [271879-block-strategy.json](./271879-block-strategy.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
+| Block Sumo | 157237 | [157237-block-sumo.json](./157237-block-sumo.json) |
 | Block Survival: Legend of the Lost Islands | 37041 | [37041-block-survival-legend-of-the-lost-islands.json](./37041-block-survival-legend-of-the-lost-islands.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
 | Block Tower Online | 206414 | [206414-block-tower-online.json](./206414-block-tower-online.json) |
@@ -14591,6 +14595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Calls | 104803 | [104803-booty-calls.json](./104803-booty-calls.json) |
 | Booty Calls: Eve Pack | 226266 | [226266-booty-calls-eve-pack.json](./226266-booty-calls-eve-pack.json) |
 | Booty Calls: Lulu Furry Pack | 226267 | [226267-booty-calls-lulu-furry-pack.json](./226267-booty-calls-lulu-furry-pack.json) |
+| Booty Calls: Men At Work | 157238 | [157238-booty-calls-men-at-work.json](./157238-booty-calls-men-at-work.json) |
 | Booty Calls: Miyu Pack | 226268 | [226268-booty-calls-miyu-pack.json](./226268-booty-calls-miyu-pack.json) |
 | Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Farm | 209082 | [209082-booty-farm.json](./209082-booty-farm.json) |
@@ -15582,6 +15587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box or Void | 389388 | [389388-box-or-void.json](./389388-box-or-void.json) |
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
 | Box Party | 214131 | [214131-box-party.json](./214131-box-party.json) |
+| Box Pusher | 157247 | [157247-box-pusher.json](./157247-box-pusher.json) |
 | Box Pusher | 85005 | [85005-box-pusher.json](./85005-box-pusher.json) |
 | Box Puzzle | 246316 | [246316-box-puzzle.json](./246316-box-puzzle.json) |
 | Box Room | 285895 | [285895-box-room.json](./285895-box-room.json) |
