@@ -10993,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten House | 244569 | [244569-forgotten-house.json](./244569-forgotten-house.json) |
 | Forgotten In Hell | 292735 | [292735-forgotten-in-hell.json](./292735-forgotten-in-hell.json) |
 | Forgotten Isle | 422067 | [422067-forgotten-isle.json](./422067-forgotten-isle.json) |
+| Forgotten Journey | 154105 | [154105-forgotten-journey.json](./154105-forgotten-journey.json) |
 | Forgotten Journey | 350352 | [350352-forgotten-journey.json](./350352-forgotten-journey.json) |
 | Forgotten Knight | 277124 | [277124-forgotten-knight.json](./277124-forgotten-knight.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
@@ -12438,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame Cat | 353960 | [353960-frame-cat.json](./353960-frame-cat.json) |
 | Frame City Killer | 67948 | [67948-frame-city-killer.json](./67948-frame-city-killer.json) |
+| Frame Game | 154113 | [154113-frame-game.json](./154113-frame-game.json) |
 | Frame Gride | 10908 | [10908-frame-gride.json](./10908-frame-gride.json) |
 | Frame Machina: OcularZero | 364060 | [364060-frame-machina-ocularzero.json](./364060-frame-machina-ocularzero.json) |
 | Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
@@ -12533,6 +12535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein's Monsters, Inc. | 179561 | [179561-frankensteins-monsters-inc.json](./179561-frankensteins-monsters-inc.json) |
 | Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
+| FrankenStorm TD: Prologue | 154108 | [154108-frankenstorm-td-prologue.json](./154108-frankenstorm-td-prologue.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
 | Frankie Goes to Hollywood | 22519 | [22519-frankie-goes-to-hollywood.json](./22519-frankie-goes-to-hollywood.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
