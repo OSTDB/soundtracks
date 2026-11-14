@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
 | Kid A Mnesia Exhibition | 180960 | [180960-kid-a-mnesia-exhibition.json](./180960-kid-a-mnesia-exhibition.json) |
 | Kid Adventures: Sky Captain | 23644 | [23644-kid-adventures-sky-captain.json](./23644-kid-adventures-sky-captain.json) |
+| Kid Baby: Starchild | 112418 | [112418-kid-baby-starchild.json](./112418-kid-baby-starchild.json) |
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Blocks | 340971 | [340971-kid-blocks.json](./340971-kid-blocks.json) |
 | Kid Bludd's Treacherous Tower | 177256 | [177256-kid-bludds-treacherous-tower.json](./177256-kid-bludds-treacherous-tower.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS | 122959 | [122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json](./122959-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds.json) |
 | Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS 2010 Nendo-ban | 124528 | [124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json](./124528-kodawari-saihai-simulation-ocha-no-ma-pro-yakyuu-ds-2010-nendo-ban.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
+| Koden Koureijutsu Hyaku Monogatari: Honto ni Atta Kowai Hanashi | 112561 | [112561-koden-koureijutsu-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json](./112561-koden-koureijutsu-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json) |
 | Kodoku | 387318 | [387318-kodoku.json](./387318-kodoku.json) |
 | Kodoku | 52531 | [52531-kodoku.json](./52531-kodoku.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
@@ -6844,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
 | Kuro no Danshou: The Literary Fragment | 413081 | [413081-kuro-no-danshou-the-literary-fragment.json](./413081-kuro-no-danshou-the-literary-fragment.json) |
+| Kuro no Juusan | 112564 | [112564-kuro-no-juusan.json](./112564-kuro-no-juusan.json) |
 | Kuro no Ken | 178243 | [178243-kuro-no-ken.json](./178243-kuro-no-ken.json) |
 | Kuro no Kyoushitsu | 77892 | [77892-kuro-no-kyoushitsu.json](./77892-kuro-no-kyoushitsu.json) |
 | Kuro survival | 38041 | [38041-kuro-survival.json](./38041-kuro-survival.json) |
