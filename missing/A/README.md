@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aah Impossible Rescue | 66256 | [66256-aah-impossible-rescue.json](./66256-aah-impossible-rescue.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aah, Halloween pie! | 125723 | [125723-aah-halloween-pie.json](./125723-aah-halloween-pie.json) |
+| Aahh! Spot the Difference | 84864 | [84864-aahh-spot-the-difference.json](./84864-aahh-spot-the-difference.json) |
 | Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
 | Aam Aadmi | 377419 | [377419-aam-aadmi.json](./377419-aam-aadmi.json) |
 | Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
+| Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
 | Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
@@ -2438,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
 | Absolute Redemption | 150223 | [150223-absolute-redemption.json](./150223-absolute-redemption.json) |
+| Absolute Reversi | 84862 | [84862-absolute-reversi.json](./84862-absolute-reversi.json) |
 | Absolute Schafkopf | 94117 | [94117-absolute-schafkopf.json](./94117-absolute-schafkopf.json) |
 | Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
@@ -2467,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Nothing | 381588 | [381588-absolutely-nothing.json](./381588-absolutely-nothing.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
+| Absolutely Unstoppable MineRun | 84861 | [84861-absolutely-unstoppable-minerun.json](./84861-absolutely-unstoppable-minerun.json) |
 | Absolutely: A True Crime Story | 117996 | [117996-absolutely-a-true-crime-story.json](./117996-absolutely-a-true-crime-story.json) |
 | Absolution | 412708 | [412708-absolution.json](./412708-absolution.json) |
 | Absolution of the Dead | 345661 | [345661-absolution-of-the-dead.json](./345661-absolution-of-the-dead.json) |
@@ -4187,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Joystick | 214687 | [214687-adventure-joystick.json](./214687-adventure-joystick.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Kitty: Drill Buster - Lights Out | 316028 | [316028-adventure-kitty-drill-buster-lights-out.json](./316028-adventure-kitty-drill-buster-lights-out.json) |
+| Adventure Labyrinth Story | 84867 | [84867-adventure-labyrinth-story.json](./84867-adventure-labyrinth-story.json) |
 | Adventure Land | 78201 | [78201-adventure-land.json](./78201-adventure-land.json) |
 | Adventure Land: The Code MMORPG | 113728 | [113728-adventure-land-the-code-mmorpg.json](./113728-adventure-land-the-code-mmorpg.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
@@ -4237,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Tuck | 188805 | [188805-adventure-of-tuck.json](./188805-adventure-of-tuck.json) |
 | Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
 | Adventure Park | 9947 | [9947-adventure-park.json](./9947-adventure-park.json) |
+| Adventure Party: Cats and Caverns | 84866 | [84866-adventure-party-cats-and-caverns.json](./84866-adventure-party-cats-and-caverns.json) |
 | Adventure Paws | 316446 | [316446-adventure-paws.json](./316446-adventure-paws.json) |
 | Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
 | Adventure Pinball Bundle | 147570 | [147570-adventure-pinball-bundle.json](./147570-adventure-pinball-bundle.json) |
@@ -5230,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterworld King | 189321 | [189321-afterworld-king.json](./189321-afterworld-king.json) |
 | Afterworld: The Age of Tomorrow | 141501 | [141501-afterworld-the-age-of-tomorrow.json](./141501-afterworld-the-age-of-tomorrow.json) |
 | AfterZoom | 84738 | [84738-afterzoom.json](./84738-afterzoom.json) |
+| AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | Aftonbuilt | 204390 | [204390-aftonbuilt.json](./204390-aftonbuilt.json) |
 | AG Drive | 54693 | [54693-ag-drive.json](./54693-ag-drive.json) |
@@ -7506,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
+| Ali | 84413 | [84413-ali.json](./84413-ali.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
 | Ali Baba and 40 Thieves | 39468 | [39468-ali-baba-and-40-thieves.json](./39468-ali-baba-and-40-thieves.json) |
 | Ali Baba and the Forty Thieves | 18750 | [18750-ali-baba-and-the-forty-thieves.json](./18750-ali-baba-and-the-forty-thieves.json) |
@@ -12205,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous Notes: Chapter 1 - From the Abyss | 84745 | [84745-anonymous-notes-chapter-1-from-the-abyss.json](./84745-anonymous-notes-chapter-1-from-the-abyss.json) |
 | Anonymous Notes: Chapter 2 - From the Abyss | 84746 | [84746-anonymous-notes-chapter-2-from-the-abyss.json](./84746-anonymous-notes-chapter-2-from-the-abyss.json) |
 | Anonymous Notes: Chapter 3 - From the Abyss | 84747 | [84747-anonymous-notes-chapter-3-from-the-abyss.json](./84747-anonymous-notes-chapter-3-from-the-abyss.json) |
+| Anonymous Notes: Chapter 4 - From the Abyss | 84925 | [84925-anonymous-notes-chapter-4-from-the-abyss.json](./84925-anonymous-notes-chapter-4-from-the-abyss.json) |
 | Anonymous Player | 126878 | [126878-anonymous-player.json](./126878-anonymous-player.json) |
 | Anonymous_Hack | 347489 | [347489-anonymous-hack.json](./347489-anonymous-hack.json) |
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
@@ -19966,6 +19975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon: The Journey Begins | 32008 | [32008-avalon-the-journey-begins.json](./32008-avalon-the-journey-begins.json) |
 | Avalon: The Legend Lives | 60350 | [60350-avalon-the-legend-lives.json](./60350-avalon-the-legend-lives.json) |
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
+| Avalonia Online | 83678 | [83678-avalonia-online.json](./83678-avalonia-online.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avani: The Primal Land | 144538 | [144538-avani-the-primal-land.json](./144538-avani-the-primal-land.json) |
 | Avanipaala Praasaada | 271439 | [271439-avanipaala-praasaada.json](./271439-avanipaala-praasaada.json) |
