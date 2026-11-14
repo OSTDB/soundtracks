@@ -7283,6 +7283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Puzzle | 156080 | [156080-pill-puzzle.json](./156080-pill-puzzle.json) |
 | Pill Puzzle | 241868 | [241868-pill-puzzle.json](./241868-pill-puzzle.json) |
 | Pill Puzzle 2 | 163549 | [163549-pill-puzzle-2.json](./163549-pill-puzzle-2.json) |
+| Pill Puzzle: One Move | 163518 | [163518-pill-puzzle-one-move.json](./163518-pill-puzzle-one-move.json) |
 | Pilla's Paradise | 255573 | [255573-pillas-paradise.json](./255573-pillas-paradise.json) |
 | Pillage the Village | 269937 | [269937-pillage-the-village.json](./269937-pillage-the-village.json) |
 | Pillaged Village: Humbled by Savages | 315133 | [315133-pillaged-village-humbled-by-savages.json](./315133-pillaged-village-humbled-by-savages.json) |
@@ -10978,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Party | 206318 | [206318-pleasure-party.json](./206318-pleasure-party.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
 | Pleasure Puzzle: Portrait | 109901 | [109901-pleasure-puzzle-portrait.json](./109901-pleasure-puzzle-portrait.json) |
+| Pleasure Puzzle: Portrait Plus | 163502 | [163502-pleasure-puzzle-portrait-plus.json](./163502-pleasure-puzzle-portrait-plus.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
 | Pleasure Puzzle:Workshop - Part 2 | 163467 | [163467-pleasure-puzzle-workshop-part-2.json](./163467-pleasure-puzzle-workshop-part-2.json) |
 | Pleasure Puzzle:Workshop - Part 3 | 163466 | [163466-pleasure-puzzle-workshop-part-3.json](./163466-pleasure-puzzle-workshop-part-3.json) |
@@ -19947,6 +19949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Box Palace | 144124 | [144124-puzzle-box-palace.json](./144124-puzzle-box-palace.json) |
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
 | Puzzle Box: Animals | 305617 | [305617-puzzle-box-animals.json](./305617-puzzle-box-animals.json) |
+| Puzzle Box: Level Pack DLC #1 | 163493 | [163493-puzzle-box-level-pack-dlc-1.json](./163493-puzzle-box-level-pack-dlc-1.json) |
 | Puzzle Boy | 250213 | [250213-puzzle-boy.json](./250213-puzzle-boy.json) |
 | Puzzle Boys | 257741 | [257741-puzzle-boys.json](./257741-puzzle-boys.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
@@ -19987,6 +19990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
 | Puzzle by Nikoli X: Sudoku | 106260 | [106260-puzzle-by-nikoli-x-sudoku.json](./106260-puzzle-by-nikoli-x-sudoku.json) |
 | Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
+| Puzzle Car | 163517 | [163517-puzzle-car.json](./163517-puzzle-car.json) |
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
 | Puzzle Castle | 307449 | [307449-puzzle-castle.json](./307449-puzzle-castle.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
@@ -20344,6 +20348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
 | Puzzle: Fire Sticks | 125702 | [125702-puzzle-fire-sticks.json](./125702-puzzle-fire-sticks.json) |
 | Puzzle: Landscapes | 106589 | [106589-puzzle-landscapes.json](./106589-puzzle-landscapes.json) |
+| Puzzle: Landscapes - Puzzle Pack: Autumn | 163491 | [163491-puzzle-landscapes-puzzle-pack-autumn.json](./163491-puzzle-landscapes-puzzle-pack-autumn.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
 | Puzzle: Lines and Knots - Levels Pack 1 | 163436 | [163436-puzzle-lines-and-knots-levels-pack-1.json](./163436-puzzle-lines-and-knots-levels-pack-1.json) |
 | Puzzle: Lines and Knots - Levels Pack 2 | 163437 | [163437-puzzle-lines-and-knots-levels-pack-2.json](./163437-puzzle-lines-and-knots-levels-pack-2.json) |
@@ -20354,6 +20359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Nature | 195418 | [195418-puzzle-nature.json](./195418-puzzle-nature.json) |
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ocean | 116941 | [116941-puzzle-ocean.json](./116941-puzzle-ocean.json) |
+| Puzzle: Ocean - Puzzle Pack: Fish Pack | 163503 | [163503-puzzle-ocean-puzzle-pack-fish-pack.json](./163503-puzzle-ocean-puzzle-pack-fish-pack.json) |
 | Puzzle: Stone Blocks | 163555 | [163555-puzzle-stone-blocks.json](./163555-puzzle-stone-blocks.json) |
 | Puzzle: Stone Blocks - Levels Pack 1 Greece | 168482 | [168482-puzzle-stone-blocks-levels-pack-1-greece.json](./168482-puzzle-stone-blocks-levels-pack-1-greece.json) |
 | Puzzle: Stone Blocks - Levels Pack 2 Persia | 168483 | [168483-puzzle-stone-blocks-levels-pack-2-persia.json](./168483-puzzle-stone-blocks-levels-pack-2-persia.json) |
