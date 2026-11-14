@@ -1156,6 +1156,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | xXx | 85941 | [85941-xxx.json](./85941-xxx.json) |
 | XXX | 273193 | [273193-xxx.json](./273193-xxx.json) |
 | XXX Puzzle | 103646 | [103646-xxx-puzzle.json](./103646-xxx-puzzle.json) |
+| XXX Puzzle: Expansion Pack 1 | 163511 | [163511-xxx-puzzle-expansion-pack-1.json](./163511-xxx-puzzle-expansion-pack-1.json) |
+| XXX Puzzle: Expansion Pack 2 | 163513 | [163513-xxx-puzzle-expansion-pack-2.json](./163513-xxx-puzzle-expansion-pack-2.json) |
+| XXX Puzzle: Expansion Pack 3 | 163512 | [163512-xxx-puzzle-expansion-pack-3.json](./163512-xxx-puzzle-expansion-pack-3.json) |
+| XXX Puzzle: Expansion Pack 4 | 163514 | [163514-xxx-puzzle-expansion-pack-4.json](./163514-xxx-puzzle-expansion-pack-4.json) |
 | Xxx Talent | 385865 | [385865-xxx-talent.json](./385865-xxx-talent.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XXX, I Want You to Keep Fighting | 294385 | [294385-xxx-i-want-you-to-keep-fighting.json](./294385-xxx-i-want-you-to-keep-fighting.json) |
