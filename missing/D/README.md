@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Tell-Tale Heart | 140126 | [140126-dark-tales-edgar-allan-poes-the-tell-tale-heart.json](./140126-dark-tales-edgar-allan-poes-the-tell-tale-heart.json) |
 | Dark Tales: Edgar Allan Poe's The Tell-Tale Heart - Collector's Edition | 105224 | [105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json](./105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json) |
+| Dark Tales: From the Lost Soul | 123644 | [123644-dark-tales-from-the-lost-soul.json](./123644-dark-tales-from-the-lost-soul.json) |
 | Dark Tales: Lenore | 100642 | [100642-dark-tales-lenore.json](./100642-dark-tales-lenore.json) |
 | Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
 | Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
@@ -6822,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force: Xtreme | 1273 | [1273-delta-force-xtreme.json](./1273-delta-force-xtreme.json) |
 | Delta Force: Xtreme 2 | 9352 | [9352-delta-force-xtreme-2.json](./9352-delta-force-xtreme-2.json) |
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
+| Delta Hero | 123133 | [123133-delta-hero.json](./123133-delta-hero.json) |
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
 | Delta Light 2 | 390277 | [390277-delta-light-2.json](./390277-delta-light-2.json) |
 | Delta Man | 39777 | [39777-delta-man.json](./39777-delta-man.json) |
@@ -9332,6 +9334,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Haunted Dark Bridal | 85952 | [85952-diabolik-lovers-haunted-dark-bridal.json](./85952-diabolik-lovers-haunted-dark-bridal.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diabolik Lovers: Limited V Edition | 221875 | [221875-diabolik-lovers-limited-v-edition.json](./221875-diabolik-lovers-limited-v-edition.json) |
+| Diabolik Lovers: Lost Eden | 123129 | [123129-diabolik-lovers-lost-eden.json](./123129-diabolik-lovers-lost-eden.json) |
+| Diabolik Lovers: Lunatic Parade | 123130 | [123130-diabolik-lovers-lunatic-parade.json](./123130-diabolik-lovers-lunatic-parade.json) |
 | Diabolik Lovers: Vandead Carnival | 61260 | [61260-diabolik-lovers-vandead-carnival.json](./61260-diabolik-lovers-vandead-carnival.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
@@ -13730,6 +13734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Cheat on Me | 142662 | [142662-dont-cheat-on-me.json](./142662-dont-cheat-on-me.json) |
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
 | Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
+| Don't Close Your Eyes | 123118 | [123118-dont-close-your-eyes.json](./123118-dont-close-your-eyes.json) |
 | Don't Cock It Up | 66768 | [66768-dont-cock-it-up.json](./66768-dont-cock-it-up.json) |
 | Don't Crash Go | 85092 | [85092-dont-crash-go.json](./85092-dont-crash-go.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
@@ -14087,6 +14092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
 | Done & Dusted | 272135 | [272135-done-and-dusted.json](./272135-done-and-dusted.json) |
 | Done Drinkin' | 67022 | [67022-done-drinkin.json](./67022-done-drinkin.json) |
+| Donensbourgh - Medieval RPG | 123120 | [123120-donensbourgh-medieval-rpg.json](./123120-donensbourgh-medieval-rpg.json) |
 | Doner Master Simulator | 326439 | [326439-doner-master-simulator.json](./326439-doner-master-simulator.json) |
 | Dong Dong Never Die | 50367 | [50367-dong-dong-never-die.json](./50367-dong-dong-never-die.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
@@ -19530,6 +19536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Masters 3 | 412221 | [412221-duel-masters-3.json](./412221-duel-masters-3.json) |
 | Duel Masters Play's | 130561 | [130561-duel-masters-plays.json](./130561-duel-masters-plays.json) |
 | Duel Masters: Kaijudo Showdown | 24257 | [24257-duel-masters-kaijudo-showdown.json](./24257-duel-masters-kaijudo-showdown.json) |
+| Duel Masters: Netto! Battle Arena | 123116 | [123116-duel-masters-netto-battle-arena.json](./123116-duel-masters-netto-battle-arena.json) |
 | Duel Masters: Sempai Legends | 49198 | [49198-duel-masters-sempai-legends.json](./49198-duel-masters-sempai-legends.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
