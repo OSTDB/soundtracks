@@ -13278,6 +13278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Gift | 337328 | [337328-the-last-gift.json](./337328-the-last-gift.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
+| The Last Girl: Janna's Diary of Shame | 110449 | [110449-the-last-girl-jannas-diary-of-shame.json](./110449-the-last-girl-jannas-diary-of-shame.json) |
 | The Last Gladiator | 24502 | [24502-the-last-gladiator.json](./24502-the-last-gladiator.json) |
 | The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
 | The Last Golfer | 311915 | [311915-the-last-golfer.json](./311915-the-last-golfer.json) |
