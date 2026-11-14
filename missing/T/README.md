@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
 | Tap Sports Football 2016 | 58260 | [58260-tap-sports-football-2016.json](./58260-tap-sports-football-2016.json) |
 | Tap Streak | 87606 | [87606-tap-streak.json](./87606-tap-streak.json) |
+| Tap Strike Boom! | 135326 | [135326-tap-strike-boom.json](./135326-tap-strike-boom.json) |
 | Tap Sword | 240728 | [240728-tap-sword.json](./240728-tap-sword.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Arcade | 58901 | [58901-tap-tap-arcade.json](./58901-tap-tap-arcade.json) |
@@ -7677,6 +7678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capri Connection | 210771 | [210771-the-capri-connection.json](./210771-the-capri-connection.json) |
 | The Captain | 114666 | [114666-the-captain.json](./114666-the-captain.json) |
 | The Captain is Dead | 121386 | [121386-the-captain-is-dead.json](./121386-the-captain-is-dead.json) |
+| The Captain's Log | 135314 | [135314-the-captains-log.json](./135314-the-captains-log.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
@@ -21741,6 +21743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
 | They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
+| They Came From Uranus! | 135367 | [135367-they-came-from-uranus.json](./135367-they-came-from-uranus.json) |
 | They Came From Venus | 282038 | [282038-they-came-from-venus.json](./282038-they-came-from-venus.json) |
 | They Came... | 245097 | [245097-they-came.json](./245097-they-came.json) |
 | They Can Fart | 295301 | [295301-they-can-fart.json](./295301-they-can-fart.json) |
@@ -22681,6 +22684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrusta X | 236153 | [236153-thrusta-x.json](./236153-thrusta-x.json) |
 | Thrusters | 245070 | [245070-thrusters.json](./245070-thrusters.json) |
 | ThrustLander | 150443 | [150443-thrustlander.json](./150443-thrustlander.json) |
+| ThrustMe | 135328 | [135328-thrustme.json](./135328-thrustme.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
@@ -25660,6 +25664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Timun Mas and Green Giants | 101095 | [101095-timun-mas-and-green-giants.json](./101095-timun-mas-and-green-giants.json) |
+| Tin & Kuna | 135334 | [135334-tin-and-kuna.json](./135334-tin-and-kuna.json) |
 | Tin Can | 139282 | [139282-tin-can.json](./139282-tin-can.json) |
 | Tin Can + Starward Rogue: Survive in Space Bundle Deluxe | 301757 | [301757-tin-can-starward-rogue-survive-in-space-bundle-deluxe.json](./301757-tin-can-starward-rogue-survive-in-space-bundle-deluxe.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
@@ -29155,6 +29160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Eternal Frontier | 371124 | [371124-touhou-eternal-frontier.json](./371124-touhou-eternal-frontier.json) |
 | Touhou Eternal Spell Cards | 289936 | [289936-touhou-eternal-spell-cards.json](./289936-touhou-eternal-spell-cards.json) |
 | Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
+| Touhou Fan Game Jam Black Lives Matter Collection | 135368 | [135368-touhou-fan-game-jam-black-lives-matter-collection.json](./135368-touhou-fan-game-jam-black-lives-matter-collection.json) |
 | Touhou Fan of Destiny | 109893 | [109893-touhou-fan-of-destiny.json](./109893-touhou-fan-of-destiny.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
 | Touhou Fantasia | 148225 | [148225-touhou-fantasia.json](./148225-touhou-fantasia.json) |
@@ -33764,6 +33770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-Tri-Triobelisk | 257243 | [257243-tri-tri-triobelisk.json](./257243-tri-tri-triobelisk.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
 | Tri: Of Friendship and Madness - Deluxe Edition | 124903 | [124903-tri-of-friendship-and-madness-deluxe-edition.json](./124903-tri-of-friendship-and-madness-deluxe-edition.json) |
+| tri.Attack(); | 135329 | [135329-tri-attack.json](./135329-tri-attack.json) |
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
 | Tri6: Infinite | 132538 | [132538-tri6-infinite.json](./132538-tri6-infinite.json) |
 | Tri6: Infinite 2 | 381199 | [381199-tri6-infinite-2.json](./381199-tri6-infinite-2.json) |
