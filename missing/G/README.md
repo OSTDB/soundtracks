@@ -9827,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Bakery | 332278 | [332278-green-bakery.json](./332278-green-bakery.json) |
 | Green Berets | 70763 | [70763-green-berets.json](./70763-green-berets.json) |
 | Green Biker Dude | 317088 | [317088-green-biker-dude.json](./317088-green-biker-dude.json) |
+| Green Blood | 103034 | [103034-green-blood.json](./103034-green-blood.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Button | 309270 | [309270-green-button.json](./309270-green-button.json) |
 | Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
