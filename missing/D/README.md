@@ -7385,6 +7385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
 | Demonschool: Puzzle Killers | 404883 | [404883-demonschool-puzzle-killers.json](./404883-demonschool-puzzle-killers.json) |
+| Demonsions: Industry | 145747 | [145747-demonsions-industry.json](./145747-demonsions-industry.json) |
 | Demonsomnia | 258278 | [258278-demonsomnia.json](./258278-demonsomnia.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
