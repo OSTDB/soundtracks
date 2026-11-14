@@ -9735,6 +9735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Warzone Edition | 305596 | [305596-hole-io-warzone-edition.json](./305596-hole-io-warzone-edition.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
+| Hole of the Legend Monster - Monster Complete World Ver.2 | 141287 | [141287-hole-of-the-legend-monster-monster-complete-world-ver-2.json](./141287-hole-of-the-legend-monster-monster-complete-world-ver-2.json) |
 | Hole Punch | 142634 | [142634-hole-punch.json](./142634-hole-punch.json) |
 | Hole Switch | 267492 | [267492-hole-switch.json](./267492-hole-switch.json) |
 | Hole Theory | 308512 | [308512-hole-theory.json](./308512-hole-theory.json) |
