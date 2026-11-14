@@ -3695,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADK Damashii | 79572 | [79572-adk-damashii.json](./79572-adk-damashii.json) |
 | ADK World | 61322 | [61322-adk-world.json](./61322-adk-world.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
+| ADM 2: When Worlds Collide | 119862 | [119862-adm-2-when-worlds-collide.json](./119862-adm-2-when-worlds-collide.json) |
 | Admeowture | 195118 | [195118-admeowture.json](./195118-admeowture.json) |
 | Admin | 179622 | [179622-admin.json](./179622-admin.json) |
 | Admin Simulator | 119597 | [119597-admin-simulator.json](./119597-admin-simulator.json) |
@@ -10471,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Journey | 101299 | [101299-ancient-journey.json](./101299-ancient-journey.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
+| Ancient Knowledge | 119836 | [119836-ancient-knowledge.json](./119836-ancient-knowledge.json) |
 | Ancient lands: the Tsar awakening | 112705 | [112705-ancient-lands-the-tsar-awakening.json](./112705-ancient-lands-the-tsar-awakening.json) |
 | Ancient Legacy | 405301 | [405301-ancient-legacy.json](./405301-ancient-legacy.json) |
 | Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
@@ -17804,6 +17806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Ascent: Arven - The Wolf Blade | 404539 | [404539-astral-ascent-arven-the-wolf-blade.json](./404539-astral-ascent-arven-the-wolf-blade.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
+| Astral Battlefield | 120439 | [120439-astral-battlefield.json](./120439-astral-battlefield.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
 | Astral Blitz | 321280 | [321280-astral-blitz.json](./321280-astral-blitz.json) |
 | Astral Blitz | 390093 | [390093-astral-blitz.json](./390093-astral-blitz.json) |
@@ -20304,6 +20307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
+| Awesome taxi | 119819 | [119819-awesome-taxi.json](./119819-awesome-taxi.json) |
 | Awesome Zombie Games Bundle | 165865 | [165865-awesome-zombie-games-bundle.json](./165865-awesome-zombie-games-bundle.json) |
 | Awesome: The Game | 313359 | [313359-awesome-the-game.json](./313359-awesome-the-game.json) |
 | Awesomenauts Assemble! | 5595 | [5595-awesomenauts-assemble.json](./5595-awesomenauts-assemble.json) |
