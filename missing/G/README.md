@@ -7987,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goose-A-Gotchi | 251373 | [251373-goose-a-gotchi.json](./251373-goose-a-gotchi.json) |
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
 | Goosebumps Ghouls Slime Slinger | 254232 | [254232-goosebumps-ghouls-slime-slinger.json](./254232-goosebumps-ghouls-slime-slinger.json) |
+| Goosebumps Horror Town | 109089 | [109089-goosebumps-horror-town.json](./109089-goosebumps-horror-town.json) |
 | Goosebumps HorrorTown | 100554 | [100554-goosebumps-horrortown.json](./100554-goosebumps-horrortown.json) |
 | Goosebumps Night of Scares | 79275 | [79275-goosebumps-night-of-scares.json](./79275-goosebumps-night-of-scares.json) |
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
