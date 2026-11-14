@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking in Fog | 338422 | [338422-walking-in-fog.json](./338422-walking-in-fog.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking into Walls | 164315 | [164315-walking-into-walls.json](./164315-walking-into-walls.json) |
+| Walking on a Star Unknown | 125520 | [125520-walking-on-a-star-unknown.json](./125520-walking-on-a-star-unknown.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls | 343015 | [343015-walls.json](./343015-walls.json) |
 | Walls | 383534 | [383534-walls.json](./383534-walls.json) |
 | Walls and Tower Party | 372372 | [372372-walls-and-tower-party.json](./372372-walls-and-tower-party.json) |
+| Walls Closing In | 125493 | [125493-walls-closing-in.json](./125493-walls-closing-in.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
@@ -2977,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
 | Way of the Samurai Portable | 38486 | [38486-way-of-the-samurai-portable.json](./38486-way-of-the-samurai-portable.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
+| Way of the Turtle | 125506 | [125506-way-of-the-turtle.json](./125506-way-of-the-turtle.json) |
 | Way of the Warrior | 370975 | [370975-way-of-the-warrior.json](./370975-way-of-the-warrior.json) |
 | Way of the Warrior | 4326 | [4326-way-of-the-warrior.json](./4326-way-of-the-warrior.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
@@ -3211,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Only Come Out at Night | 375484 | [375484-we-only-come-out-at-night.json](./375484-we-only-come-out-at-night.json) |
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
 | We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
+| We Ride | 125498 | [125498-we-ride.json](./125498-we-ride.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
 | We See You | 207618 | [207618-we-see-you.json](./207618-we-see-you.json) |
 | We should talk. | 132400 | [132400-we-should-talk.json](./132400-we-should-talk.json) |
