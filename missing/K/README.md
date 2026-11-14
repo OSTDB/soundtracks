@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagami no Kuni no Legend | 256323 | [256323-kagami-no-kuni-no-legend.json](./256323-kagami-no-kuni-no-legend.json) |
 | Kagami: An Odyssey in Japanese Language Learning | 284190 | [284190-kagami-an-odyssey-in-japanese-language-learning.json](./284190-kagami-an-odyssey-in-japanese-language-learning.json) |
 | Kagamihara/Justice | 222256 | [222256-kagamihara-justice.json](./222256-kagamihara-justice.json) |
+| KagamiMochi | 108530 | [108530-kagamimochi.json](./108530-kagamimochi.json) |
 | Kagaribi | 398118 | [398118-kagaribi.json](./398118-kagaribi.json) |
 | Kagawa Manao to Futari de Shogi | 221469 | [221469-kagawa-manao-to-futari-de-shogi.json](./221469-kagawa-manao-to-futari-de-shogi.json) |
 | Kage | 400586 | [400586-kage.json](./400586-kage.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kahmate | 207992 | [207992-kahmate.json](./207992-kahmate.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
 | Kahoro and Tetra | 321690 | [321690-kahoro-and-tetra.json](./321690-kahoro-and-tetra.json) |
+| Kahuna | 108548 | [108548-kahuna.json](./108548-kahuna.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
 | Kai Entity | 107510 | [107510-kai-entity.json](./107510-kai-entity.json) |
 | Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Art Coloring Book | 400191 | [400191-kids-art-coloring-book.json](./400191-kids-art-coloring-book.json) |
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
 | Kid's EduPack | 87091 | [87091-kids-edupack.json](./87091-kids-edupack.json) |
+| Kid's Kards | 108539 | [108539-kids-kards.json](./108539-kids-kards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kid's Safety With George Blessure | 120988 | [120988-kids-safety-with-george-blessure.json](./120988-kids-safety-with-george-blessure.json) |
@@ -3541,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
 | King Solomon's Trivia Challenge | 209831 | [209831-king-solomons-trivia-challenge.json](./209831-king-solomons-trivia-challenge.json) |
 | King Story: Prologue | 253551 | [253551-king-story-prologue.json](./253551-king-story-prologue.json) |
+| King Tide | 109081 | [109081-king-tide.json](./109081-king-tide.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Towers | 291311 | [291311-king-towers.json](./291311-king-towers.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
@@ -4466,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Madness | 258905 | [258905-kitchen-madness.json](./258905-kitchen-madness.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
 | Kitchen of Gods | 408241 | [408241-kitchen-of-gods.json](./408241-kitchen-of-gods.json) |
+| Kitchen Panic | 109082 | [109082-kitchen-panic.json](./109082-kitchen-panic.json) |
 | Kitchen Quest | 265507 | [265507-kitchen-quest.json](./265507-kitchen-quest.json) |
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
