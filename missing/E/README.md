@@ -7000,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclid's Nightmare | 277094 | [277094-euclids-nightmare.json](./277094-euclids-nightmare.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
+| Euclidean Skies | 114482 | [114482-euclidean-skies.json](./114482-euclidean-skies.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
