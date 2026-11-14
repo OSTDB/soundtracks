@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of the Fireflies | 68729 | [68729-ghost-of-the-fireflies.json](./68729-ghost-of-the-fireflies.json) |
 | Ghost of the Seas | 150995 | [150995-ghost-of-the-seas.json](./150995-ghost-of-the-seas.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
+| Ghost of Tomorrow | 134758 | [134758-ghost-of-tomorrow.json](./134758-ghost-of-tomorrow.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
 | Ghost of Tsushima: Digital Deluxe Edition | 132978 | [132978-ghost-of-tsushima-digital-deluxe-edition.json](./132978-ghost-of-tsushima-digital-deluxe-edition.json) |
 | Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
@@ -6699,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
 | Goddess Scroll: The Last Starlight | 344407 | [344407-goddess-scroll-the-last-starlight.json](./344407-goddess-scroll-the-last-starlight.json) |
 | Goddess: Primal Chaos | 74864 | [74864-goddess-primal-chaos.json](./74864-goddess-primal-chaos.json) |
+| Godeater | 134756 | [134756-godeater.json](./134756-godeater.json) |
 | Godessess' Whim | 336944 | [336944-godessess-whim.json](./336944-godessess-whim.json) |
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
