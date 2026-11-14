@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Plate | 275460 | [275460-dead-plate.json](./275460-dead-plate.json) |
 | Dead Position | 421162 | [421162-dead-position.json](./421162-dead-position.json) |
 | Dead Prints | 422415 | [422415-dead-prints.json](./422415-dead-prints.json) |
+| Dead Prison | 107460 | [107460-dead-prison.json](./107460-dead-prison.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Pulse | 393989 | [393989-dead-pulse.json](./393989-dead-pulse.json) |
 | Dead Quest | 117401 | [117401-dead-quest.json](./117401-dead-quest.json) |
@@ -10613,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dana : Dino Express | 103670 | [103670-dino-dana-dino-express.json](./103670-dino-dana-dino-express.json) |
 | Dino Dana: Dino Exhibit | 100697 | [100697-dino-dana-dino-exhibit.json](./100697-dino-dana-dino-exhibit.json) |
+| Dino Dana: Dino Picnic | 108102 | [108102-dino-dana-dino-picnic.json](./108102-dino-dana-dino-picnic.json) |
 | Dino Dash | 246189 | [246189-dino-dash.json](./246189-dino-dash.json) |
 | Dino Dash | 325987 | [325987-dino-dash.json](./325987-dino-dash.json) |
 | Dino Dash Party | 244017 | [244017-dino-dash-party.json](./244017-dino-dash-party.json) |
@@ -12302,6 +12304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
 | Divine Might | 240429 | [240429-divine-might.json](./240429-divine-might.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
+| Divine Miracle Defense | 107962 | [107962-divine-miracle-defense.json](./107962-divine-miracle-defense.json) |
 | Divine Orbit | 398801 | [398801-divine-orbit.json](./398801-divine-orbit.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Pearl: Survivors | 248090 | [248090-divine-pearl-survivors.json](./248090-divine-pearl-survivors.json) |
@@ -12644,6 +12647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Smile | 271107 | [271107-do-not-smile.json](./271107-do-not-smile.json) |
 | Do Not Take This Cat Home | 289118 | [289118-do-not-take-this-cat-home.json](./289118-do-not-take-this-cat-home.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
+| Do or Die | 107973 | [107973-do-or-die.json](./107973-do-or-die.json) |
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
@@ -13116,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggo | 190184 | [190184-doggo.json](./190184-doggo.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dentist | 229896 | [229896-doggo-dentist.json](./229896-doggo-dentist.json) |
+| Doggo Dig Down | 107954 | [107954-doggo-dig-down.json](./107954-doggo-dig-down.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Estates | 210998 | [210998-doggo-estates.json](./210998-doggo-estates.json) |
 | Doggo Garden Defense | 246012 | [246012-doggo-garden-defense.json](./246012-doggo-garden-defense.json) |
