@@ -8649,6 +8649,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cycle: Frontier - Breakthrough | 243632 | [243632-the-cycle-frontier-breakthrough.json](./243632-the-cycle-frontier-breakthrough.json) |
 | The Cycle: Frontier - Howler Tamer Bundle | 243304 | [243304-the-cycle-frontier-howler-tamer-bundle.json](./243304-the-cycle-frontier-howler-tamer-bundle.json) |
 | The Cycle: Frontier - Vivid Party Style Pack | 243303 | [243303-the-cycle-frontier-vivid-party-style-pack.json](./243303-the-cycle-frontier-vivid-party-style-pack.json) |
+| The Cycle: Season 1 | 129881 | [129881-the-cycle-season-1.json](./129881-the-cycle-season-1.json) |
+| The Cycle: Season 2 | 129883 | [129883-the-cycle-season-2.json](./129883-the-cycle-season-2.json) |
 | The Cycle: Season 3 | 137010 | [137010-the-cycle-season-3.json](./137010-the-cycle-season-3.json) |
 | The Cycles: International Grand Prix Racing | 12026 | [12026-the-cycles-international-grand-prix-racing.json](./12026-the-cycles-international-grand-prix-racing.json) |
 | The Cycling Games | 405100 | [405100-the-cycling-games.json](./405100-the-cycling-games.json) |
@@ -27427,6 +27429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Dust Line | 24500 | [24500-tom-clancys-rainbow-six-siege-operation-dust-line.json](./24500-tom-clancys-rainbow-six-siege-operation-dust-line.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Ember Rise | 129902 | [129902-tom-clancys-rainbow-six-siege-operation-ember-rise.json](./129902-tom-clancys-rainbow-six-siege-operation-ember-rise.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Grim Sky | 129896 | [129896-tom-clancys-rainbow-six-siege-operation-grim-sky.json](./129896-tom-clancys-rainbow-six-siege-operation-grim-sky.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Health | 129879 | [129879-tom-clancys-rainbow-six-siege-operation-health.json](./129879-tom-clancys-rainbow-six-siege-operation-health.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Para Bellum | 129895 | [129895-tom-clancys-rainbow-six-siege-operation-para-bellum.json](./129895-tom-clancys-rainbow-six-siege-operation-para-bellum.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Phantom Sight | 129901 | [129901-tom-clancys-rainbow-six-siege-operation-phantom-sight.json](./129901-tom-clancys-rainbow-six-siege-operation-phantom-sight.json) |
@@ -28989,6 +28992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toubatsu | 385825 | [385825-toubatsu.json](./385825-toubatsu.json) |
 | Toucan Adventure: Rio de Janeiro | 317884 | [317884-toucan-adventure-rio-de-janeiro.json](./317884-toucan-adventure-rio-de-janeiro.json) |
 | Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
+| Touch | 129827 | [129827-touch.json](./129827-touch.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
 | Touch 'N' Go | 73214 | [73214-touch-n-go.json](./73214-touch-n-go.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
