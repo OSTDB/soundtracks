@@ -17700,6 +17700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
 | Dream Job: Delivery Simulator | 249713 | [249713-dream-job-delivery-simulator.json](./249713-dream-job-delivery-simulator.json) |
 | Dream Journey | 201623 | [201623-dream-journey.json](./201623-dream-journey.json) |
+| Dream Keeper | 121097 | [121097-dream-keeper.json](./121097-dream-keeper.json) |
 | Dream Kingdom | 313395 | [313395-dream-kingdom.json](./313395-dream-kingdom.json) |
 | Dream Kitchen | 190421 | [190421-dream-kitchen.json](./190421-dream-kitchen.json) |
 | Dream Knights | 151481 | [151481-dream-knights.json](./151481-dream-knights.json) |
