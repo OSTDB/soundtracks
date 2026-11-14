@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fer.al | 134534 | [134534-fer-al.json](./134534-fer-al.json) |
+| Fera Gokko | 98095 | [98095-fera-gokko.json](./98095-fera-gokko.json) |
 | Fera Knight | 212000 | [212000-fera-knight.json](./212000-fera-knight.json) |
 | Fera: The Sundered Tribes | 264289 | [264289-fera-the-sundered-tribes.json](./264289-fera-the-sundered-tribes.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
@@ -9127,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | Floral Disaffect | 386065 | [386065-floral-disaffect.json](./386065-floral-disaffect.json) |
+| Floral Flowlove | 98085 | [98085-floral-flowlove.json](./98085-floral-flowlove.json) |
 | Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
 | Floral Fury Online | 389923 | [389923-floral-fury-online.json](./389923-floral-fury-online.json) |
 | Floral Gate | 255271 | [255271-floral-gate.json](./255271-floral-gate.json) |
@@ -9517,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Or Die | 367058 | [367058-fly-or-die.json](./367058-fly-or-die.json) |
 | Fly Over! 100KM! Mountains! | 373677 | [373677-fly-over-100km-mountains.json](./373677-fly-over-100km-mountains.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
+| Fly Punch Boom! | 98110 | [98110-fly-punch-boom.json](./98110-fly-punch-boom.json) |
 | Fly Simulator | 40706 | [40706-fly-simulator.json](./40706-fly-simulator.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly Swatter | 359725 | [359725-fly-swatter.json](./359725-fly-swatter.json) |
