@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.Y.K: Shinsetsu Saiyuuki | 202994 | [202994-s-y-k-shinsetsu-saiyuuki.json](./202994-s-y-k-shinsetsu-saiyuuki.json) |
 | S.Y.K: Shinsetsu Saiyuuki Portable | 203020 | [203020-s-y-k-shinsetsu-saiyuuki-portable.json](./203020-s-y-k-shinsetsu-saiyuuki-portable.json) |
 | S'More Words | 421371 | [421371-smore-words.json](./421371-smore-words.json) |
+| S*xdays Going to school | 115741 | [115741-s-xdays-going-to-school.json](./115741-s-xdays-going-to-school.json) |
 | S//D | 166355 | [166355-s-d.json](./166355-s-d.json) |
 | S&box | 142355 | [142355-s-and-box.json](./142355-s-and-box.json) |
 | S&M: FL | 214373 | [214373-s-and-m-fl.json](./214373-s-and-m-fl.json) |
@@ -2729,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Us: Hello Zombie | 297675 | [297675-save-us-hello-zombie.json](./297675-save-us-hello-zombie.json) |
 | Save You | 180390 | [180390-save-you.json](./180390-save-you.json) |
+| Save Your Camp | 115853 | [115853-save-your-camp.json](./115853-save-your-camp.json) |
 | Save Your Chicks | 341965 | [341965-save-your-chicks.json](./341965-save-your-chicks.json) |
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
 | Save Your Mother | 33944 | [33944-save-your-mother.json](./33944-save-your-mother.json) |
@@ -9876,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup Collection | 133583 | [133583-shmup-collection.json](./133583-shmup-collection.json) |
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
+| Shmup Moments | 115825 | [115825-shmup-moments.json](./115825-shmup-moments.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shmups Pack 2x1 | 230129 | [230129-shmups-pack-2x1.json](./230129-shmups-pack-2x1.json) |
 | Shmups Skill Test | 33834 | [33834-shmups-skill-test.json](./33834-shmups-skill-test.json) |
@@ -25459,6 +25462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
 | Sprite's City Scramble | 378690 | [378690-sprites-city-scramble.json](./378690-sprites-city-scramble.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
+| Sprited Away, the Boiler Room | 115732 | [115732-sprited-away-the-boiler-room.json](./115732-sprited-away-the-boiler-room.json) |
 | SpritePile | 119789 | [119789-spritepile.json](./119789-spritepile.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
@@ -33218,6 +33222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer: Life in the Countryside - Outing | 213521 | [213521-summer-life-in-the-countryside-outing.json](./213521-summer-life-in-the-countryside-outing.json) |
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summer's Gone: Season 2 - Constellations | 402138 | [402138-summers-gone-season-2-constellations.json](./402138-summers-gone-season-2-constellations.json) |
+| Summerford | 115836 | [115836-summerford.json](./115836-summerford.json) |
 | Summerhill | 252498 | [252498-summerhill.json](./252498-summerhill.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
 | Summerland | 141339 | [141339-summerland.json](./141339-summerland.json) |
