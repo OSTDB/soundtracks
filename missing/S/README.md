@@ -6496,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent | 360187 | [360187-serpent.json](./360187-serpent.json) |
 | Serpent | 49021 | [49021-serpent.json](./49021-serpent.json) |
 | Serpent at the Vernissage | 353386 | [353386-serpent-at-the-vernissage.json](./353386-serpent-at-the-vernissage.json) |
+| Serpent Fusion | 126110 | [126110-serpent-fusion.json](./126110-serpent-fusion.json) |
 | Serpent in the Staglands | 23440 | [23440-serpent-in-the-staglands.json](./23440-serpent-in-the-staglands.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
 | Serpent Showdown | 137698 | [137698-serpent-showdown.json](./137698-serpent-showdown.json) |
@@ -22730,6 +22731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades | 88610 | [88610-spades.json](./88610-spades.json) |
 | Spades classic card game | 95285 | [95285-spades-classic-card-game.json](./95285-spades-classic-card-game.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
+| Spades Plus | 126066 | [126066-spades-plus.json](./126066-spades-plus.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades: Classic Fun Card Game | 92011 | [92011-spades-classic-fun-card-game.json](./92011-spades-classic-fun-card-game.json) |
 | Spades. | 88403 | [88403-spades.json](./88403-spades.json) |
@@ -36778,6 +36780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 2 | 22170 | [22170-super-stickman-golf-2.json](./22170-super-stickman-golf-2.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Stock Car | 126054 | [126054-super-stock-car.json](./126054-super-stock-car.json) |
 | Super Storm | 208136 | [208136-super-storm.json](./208136-super-storm.json) |
 | Super Storm | 42144 | [42144-super-storm.json](./42144-super-storm.json) |
 | Super Strawberry Clock | 361284 | [361284-super-strawberry-clock.json](./361284-super-strawberry-clock.json) |
@@ -37503,6 +37506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Loona | 232092 | [232092-superstar-loona.json](./232092-superstar-loona.json) |
 | Superstar Mario World | 277067 | [277067-superstar-mario-world.json](./277067-superstar-mario-world.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
+| Superstar Racing | 126056 | [126056-superstar-racing.json](./126056-superstar-racing.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | SuperStar SMTown | 98683 | [98683-superstar-smtown.json](./98683-superstar-smtown.json) |
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
@@ -39233,6 +39237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Black Swordsman - Ace | 174917 | [174917-sword-art-online-black-swordsman-ace.json](./174917-sword-art-online-black-swordsman-ace.json) |
+| Sword Art Online: Code Register | 126061 | [126061-sword-art-online-code-register.json](./126061-sword-art-online-code-register.json) |
 | Sword Art Online: Eternal World | 62880 | [62880-sword-art-online-eternal-world.json](./62880-sword-art-online-eternal-world.json) |
 | Sword Art Online: Fatal Bullet | 36515 | [36515-sword-art-online-fatal-bullet.json](./36515-sword-art-online-fatal-bullet.json) |
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
