@@ -14438,6 +14438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
 | Commandos 2: HD Remaster | 119381 | [119381-commandos-2-hd-remaster.json](./119381-commandos-2-hd-remaster.json) |
 | Commandos 2: Men of Courage | 653 | [653-commandos-2-men-of-courage.json](./653-commandos-2-men-of-courage.json) |
+| Commandos 2+3 | 155237 | [155237-commandos-2-3.json](./155237-commandos-2-3.json) |
 | Commandos 3: Destination Berlin | 477 | [477-commandos-3-destination-berlin.json](./477-commandos-3-destination-berlin.json) |
 | Commandos 3: HD Remaster | 204961 | [204961-commandos-3-hd-remaster.json](./204961-commandos-3-hd-remaster.json) |
 | Commandos 5 | 9760 | [9760-commandos-5.json](./9760-commandos-5.json) |
