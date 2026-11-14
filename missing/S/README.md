@@ -18041,6 +18041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cresta: Wing Galiber II | 231236 | [231236-sol-cresta-wing-galiber-ii.json](./231236-sol-cresta-wing-galiber-ii.json) |
 | SOL Cycling | 151407 | [151407-sol-cycling.json](./151407-sol-cycling.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
+| Sol Divide: Sword of Darkness | 95051 | [95051-sol-divide-sword-of-darkness.json](./95051-sol-divide-sword-of-darkness.json) |
 | Sol Dorado Heist | 158331 | [158331-sol-dorado-heist.json](./158331-sol-dorado-heist.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Free Solitaire | 131020 | [131020-sol-free-solitaire.json](./131020-sol-free-solitaire.json) |
@@ -23982,6 +23983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Go Solitaire | 370351 | [370351-spider-go-solitaire.json](./370351-spider-go-solitaire.json) |
 | Spider Hero | 407886 | [407886-spider-hero.json](./407886-spider-hero.json) |
 | Spider Hero Lava Floor 2: Craft Exploration | 99360 | [99360-spider-hero-lava-floor-2-craft-exploration.json](./99360-spider-hero-lava-floor-2-craft-exploration.json) |
+| Spider Hero: Final Battle | 95037 | [95037-spider-hero-final-battle.json](./95037-spider-hero-final-battle.json) |
 | Spider Hotel | 374371 | [374371-spider-hotel.json](./374371-spider-hotel.json) |
 | Spider Hunter | 234527 | [234527-spider-hunter.json](./234527-spider-hunter.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
@@ -30596,6 +30598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 376811 | [376811-stranded.json](./376811-stranded.json) |
 | Stranded | 411980 | [411980-stranded.json](./411980-stranded.json) |
 | Stranded 2 | 170896 | [170896-stranded-2.json](./170896-stranded-2.json) |
+| Stranded 3 | 95034 | [95034-stranded-3.json](./95034-stranded-3.json) |
 | Stranded Alone | 81874 | [81874-stranded-alone.json](./81874-stranded-alone.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
