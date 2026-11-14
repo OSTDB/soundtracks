@@ -4828,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
 | While (true) | 312594 | [312594-while-true.json](./312594-while-true.json) |
+| While (You) World.Create() | 132325 | [132325-while-you-world-create.json](./132325-while-you-world-create.json) |
 | While 1: | 364620 | [364620-while-1.json](./364620-while-1.json) |
 | While Dreaming | 185357 | [185357-while-dreaming.json](./185357-while-dreaming.json) |
 | While I Sleep I am Debug | 84005 | [84005-while-i-sleep-i-am-debug.json](./84005-while-i-sleep-i-am-debug.json) |
