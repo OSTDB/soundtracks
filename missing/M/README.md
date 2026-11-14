@@ -9676,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
 | Mémoire d'Arumac | 167983 | [167983-memoire-darumac.json](./167983-memoire-darumac.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
+| Memoirs of a Battle Brothel | 137697 | [137697-memoirs-of-a-battle-brothel.json](./137697-memoirs-of-a-battle-brothel.json) |
 | Memoirs of an Angel | 308283 | [308283-memoirs-of-an-angel.json](./308283-memoirs-of-an-angel.json) |
 | Memoirs of Magic | 117893 | [117893-memoirs-of-magic.json](./117893-memoirs-of-magic.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
