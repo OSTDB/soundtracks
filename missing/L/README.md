@@ -2221,6 +2221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LDS Articles of Faith | 102738 | [102738-lds-articles-of-faith.json](./102738-lds-articles-of-faith.json) |
 | LDS Fun | 100939 | [100939-lds-fun.json](./100939-lds-fun.json) |
 | LDS Gun Dating | 400272 | [400272-lds-gun-dating.json](./400272-lds-gun-dating.json) |
+| LDS Hangman | 93868 | [93868-lds-hangman.json](./93868-lds-hangman.json) |
+| LDS Scripture Reference Mastery | 93867 | [93867-lds-scripture-reference-mastery.json](./93867-lds-scripture-reference-mastery.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
@@ -5361,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightBike 2 | 234015 | [234015-lightbike-2.json](./234015-lightbike-2.json) |
 | Lightblade VR | 32546 | [32546-lightblade-vr.json](./32546-lightblade-vr.json) |
 | Lightblue | 144505 | [144505-lightblue.json](./144505-lightblue.json) |
+| Lightbot Jr: Coding Puzzles | 93907 | [93907-lightbot-jr-coding-puzzles.json](./93907-lightbot-jr-coding-puzzles.json) |
 | Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
