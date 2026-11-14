@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Ghost: Game de Kaigan!! | 59464 | [59464-kamen-rider-ghost-game-de-kaigan.json](./59464-kamen-rider-ghost-game-de-kaigan.json) |
 | Kamen Rider Hibiki | 59004 | [59004-kamen-rider-hibiki.json](./59004-kamen-rider-hibiki.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
+| Kamen Rider Kiva: Hiragana Suuji Chie Battle!! | 123660 | [123660-kamen-rider-kiva-hiragana-suuji-chie-battle.json](./123660-kamen-rider-kiva-hiragana-suuji-chie-battle.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
 | Kamen Rider SD: GranShocker no Yabou | 48748 | [48748-kamen-rider-sd-granshocker-no-yabou.json](./48748-kamen-rider-sd-granshocker-no-yabou.json) |
@@ -1881,6 +1882,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelvin and the Infamous Machine | 21631 | [21631-kelvin-and-the-infamous-machine.json](./21631-kelvin-and-the-infamous-machine.json) |
 | Kem Alpha 1 | 267830 | [267830-kem-alpha-1.json](./267830-kem-alpha-1.json) |
 | Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
+| Kemco RPG Selection Vol. 1 | 123651 | [123651-kemco-rpg-selection-vol-1.json](./123651-kemco-rpg-selection-vol-1.json) |
+| Kemco RPG Selection Vol. 2 | 123652 | [123652-kemco-rpg-selection-vol-2.json](./123652-kemco-rpg-selection-vol-2.json) |
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
 | Kemco RPG Selection Vol. 4 | 136652 | [136652-kemco-rpg-selection-vol-4.json](./136652-kemco-rpg-selection-vol-4.json) |
 | Kemco RPG Selection Vol. 6 | 140887 | [140887-kemco-rpg-selection-vol-6.json](./140887-kemco-rpg-selection-vol-6.json) |
@@ -5825,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Koni: The Secrets of Castle | 192485 | [192485-koni-the-secrets-of-castle.json](./192485-koni-the-secrets-of-castle.json) |
 | Konike | 249974 | [249974-konike.json](./249974-konike.json) |
+| Konji | 123136 | [123136-konji.json](./123136-konji.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Makai no Bookmark | 49679 | [49679-konjiki-no-gash-bell-makai-no-bookmark.json](./49679-konjiki-no-gash-bell-makai-no-bookmark.json) |
 | Konjiki no Gash Bell!! The Card Battle for GBA | 49677 | [49677-konjiki-no-gash-bell-the-card-battle-for-gba.json](./49677-konjiki-no-gash-bell-the-card-battle-for-gba.json) |
