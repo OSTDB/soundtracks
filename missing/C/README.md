@@ -11138,6 +11138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
+| Clay Game | 137727 | [137727-clay-game.json](./137727-clay-game.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Hunt | 175235 | [175235-clay-hunt.json](./175235-clay-hunt.json) |
 | Clay Hunt PRO | 87495 | [87495-clay-hunt-pro.json](./87495-clay-hunt-pro.json) |
@@ -13796,6 +13797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorium | 398384 | [398384-colorium.json](./398384-colorium.json) |
+| Colorize | 137725 | [137725-colorize.json](./137725-colorize.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
 | Colorize Inspect | 150425 | [150425-colorize-inspect.json](./150425-colorize-inspect.json) |
@@ -13895,6 +13897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colour Box | 89363 | [89363-colour-box.json](./89363-colour-box.json) |
 | Colour Chain | 314841 | [314841-colour-chain.json](./314841-colour-chain.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
+| Colour Flux | 137729 | [137729-colour-flux.json](./137729-colour-flux.json) |
 | Colour My Dreams | 384039 | [384039-colour-my-dreams.json](./384039-colour-my-dreams.json) |
 | Colour My Fate | 384053 | [384053-colour-my-fate.json](./384053-colour-my-fate.json) |
 | Colour My Heart | 384025 | [384025-colour-my-heart.json](./384025-colour-my-heart.json) |
@@ -16702,6 +16705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Carnage | 253342 | [253342-cosmic-carnage.json](./253342-cosmic-carnage.json) |
 | Cosmic Carnage | 45883 | [45883-cosmic-carnage.json](./45883-cosmic-carnage.json) |
 | Cosmic Carnage: Prologue | 277943 | [277943-cosmic-carnage-prologue.json](./277943-cosmic-carnage-prologue.json) |
+| Cosmic Cart Racing | 137702 | [137702-cosmic-cart-racing.json](./137702-cosmic-cart-racing.json) |
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Castaway | 177731 | [177731-cosmic-castaway.json](./177731-cosmic-castaway.json) |
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
@@ -19759,6 +19763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Brawl | 311158 | [311158-cross-brawl.json](./311158-cross-brawl.json) |
 | Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
+| Cross Channel: For All People | 137171 | [137171-cross-channel-for-all-people.json](./137171-cross-channel-for-all-people.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Concerto | 368707 | [368707-cross-concerto.json](./368707-cross-concerto.json) |
 | Cross Core | 193899 | [193899-cross-core.json](./193899-cross-core.json) |
