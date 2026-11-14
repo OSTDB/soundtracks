@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jangou | 131433 | [131433-jangou.json](./131433-jangou.json) |
 | Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
 | Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
+| Jangou 4 | 126072 | [126072-jangou-4.json](./126072-jangou-4.json) |
 | Jangou Simulation: Mahjong-dou 64 | 47741 | [47741-jangou-simulation-mahjong-dou-64.json](./47741-jangou-simulation-mahjong-dou-64.json) |
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
 | Janitor Bleeds | 144938 | [144938-janitor-bleeds.json](./144938-janitor-bleeds.json) |
