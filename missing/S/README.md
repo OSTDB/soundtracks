@@ -6436,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
 | Serenity | 418862 | [418862-serenity.json](./418862-serenity.json) |
+| Serenity | 82207 | [82207-serenity.json](./82207-serenity.json) |
 | Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
 | Serenity Ov Ball | 185459 | [185459-serenity-ov-ball.json](./185459-serenity-ov-ball.json) |
 | Serenity VR | 182665 | [182665-serenity-vr.json](./182665-serenity-vr.json) |
@@ -32386,6 +32387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
 | Subs | 280959 | [280959-subs.json](./280959-subs.json) |
+| Subscribe & Punch! | 82241 | [82241-subscribe-and-punch.json](./82241-subscribe-and-punch.json) |
 | Subscribe To My Adventure | 125612 | [125612-subscribe-to-my-adventure.json](./125612-subscribe-to-my-adventure.json) |
 | Subself: Lies Deep | 407848 | [407848-subself-lies-deep.json](./407848-subself-lies-deep.json) |
 | Subsequence | 211345 | [211345-subsequence.json](./211345-subsequence.json) |
@@ -38966,6 +38968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dream Succubus: Nightmare Edition | 214407 | [214407-sweet-dream-succubus-nightmare-edition.json](./214407-sweet-dream-succubus-nightmare-edition.json) |
 | Sweet Dreams | 251404 | [251404-sweet-dreams.json](./251404-sweet-dreams.json) |
 | Sweet Dreams | 260479 | [260479-sweet-dreams.json](./260479-sweet-dreams.json) |
+| Sweet Dreams | 82208 | [82208-sweet-dreams.json](./82208-sweet-dreams.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
