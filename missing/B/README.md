@@ -6034,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatblock | 306804 | [306804-beatblock.json](./306804-beatblock.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
 | BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
+| Beatbox Sausages | 90244 | [90244-beatbox-sausages.json](./90244-beatbox-sausages.json) |
 | BeatBucs | 372024 | [372024-beatbucs.json](./372024-beatbucs.json) |
 | Beatbuddy HD | 175102 | [175102-beatbuddy-hd.json](./175102-beatbuddy-hd.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
@@ -7156,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Ink Machine: Chapter Four | 164635 | [164635-bendy-and-the-ink-machine-chapter-four.json](./164635-bendy-and-the-ink-machine-chapter-four.json) |
 | Bendy and the Ink Machine: Chapter Three | 164636 | [164636-bendy-and-the-ink-machine-chapter-three.json](./164636-bendy-and-the-ink-machine-chapter-three.json) |
 | Bendy and the Ink Machine: Chapter Two | 164637 | [164637-bendy-and-the-ink-machine-chapter-two.json](./164637-bendy-and-the-ink-machine-chapter-two.json) |
+| Bendy in Nightmare Run | 90246 | [90246-bendy-in-nightmare-run.json](./90246-bendy-in-nightmare-run.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Royale | 283438 | [283438-bendy-royale.json](./283438-bendy-royale.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
@@ -8113,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biff | 13393 | [13393-biff.json](./13393-biff.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost Breakout | 40606 | [40606-bifrost-breakout.json](./40606-bifrost-breakout.json) |
+| Bifrost Project | 90267 | [90267-bifrost-project.json](./90267-bifrost-project.json) |
 | Bifrost Spire | 71387 | [71387-bifrost-spire.json](./71387-bifrost-spire.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
