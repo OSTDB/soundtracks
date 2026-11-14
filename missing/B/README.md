@@ -10957,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze of Empires | 392080 | [392080-blaze-of-empires.json](./392080-blaze-of-empires.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
+| Blaze Race the Skytrack | 102459 | [102459-blaze-race-the-skytrack.json](./102459-blaze-race-the-skytrack.json) |
 | Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
 | Blaze Rush | 330569 | [330569-blaze-rush.json](./330569-blaze-rush.json) |
 | Blaze the Cat Dress Up | 202305 | [202305-blaze-the-cat-dress-up.json](./202305-blaze-the-cat-dress-up.json) |
@@ -12759,6 +12760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
 | Blox 3D City Creator | 186424 | [186424-blox-3d-city-creator.json](./186424-blox-3d-city-creator.json) |
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
+| Blox 3D World Creator | 102466 | [102466-blox-3d-world-creator.json](./102466-blox-3d-world-creator.json) |
 | BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
 | Bloxcalibur | 322043 | [322043-bloxcalibur.json](./322043-bloxcalibur.json) |
 | Bloxd.io | 280970 | [280970-bloxd-io.json](./280970-bloxd-io.json) |
@@ -18291,6 +18293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
 | Bubble Cube | 56945 | [56945-bubble-cube.json](./56945-bubble-cube.json) |
+| Bubble Date Mania | 102431 | [102431-bubble-date-mania.json](./102431-bubble-date-mania.json) |
 | Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de... | 396487 | [396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json](./396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
 | Bubble Dizzy | 11981 | [11981-bubble-dizzy.json](./11981-bubble-dizzy.json) |
