@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Nightfall | 401846 | [401846-dark-souls-nightfall.json](./401846-dark-souls-nightfall.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Souls: Remastered Seamless Co-op | 354911 | [354911-dark-souls-remastered-seamless-co-op.json](./354911-dark-souls-remastered-seamless-co-op.json) |
+| Dark Space | 133513 | [133513-dark-space.json](./133513-dark-space.json) |
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Space Conqueror | 118615 | [118615-dark-space-conqueror.json](./118615-dark-space-conqueror.json) |
 | Dark Spasm | 232236 | [232236-dark-spasm.json](./232236-dark-spasm.json) |
@@ -18777,6 +18778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop by Hippo Cooperation | 107020 | [107020-drop-by-hippo-cooperation.json](./107020-drop-by-hippo-cooperation.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
+| Drop Dead: Dual Strike Edition | 133504 | [133504-drop-dead-dual-strike-edition.json](./133504-drop-dead-dual-strike-edition.json) |
 | Drop Dead: Extended Edit | 387830 | [387830-drop-dead-extended-edit.json](./387830-drop-dead-extended-edit.json) |
 | Drop Dead: Remains | 95986 | [95986-drop-dead-remains.json](./95986-drop-dead-remains.json) |
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
