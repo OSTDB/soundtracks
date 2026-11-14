@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N6: Top Secret Mission | 343503 | [343503-n6-top-secret-mission.json](./343503-n6-top-secret-mission.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Na-Re: Great Chain of Being | 341358 | [341358-na-re-great-chain-of-being.json](./341358-na-re-great-chain-of-being.json) |
+| Na.No | 150721 | [150721-na-no.json](./150721-na-no.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
 | Naamu: The Lost Essence | 181600 | [181600-naamu-the-lost-essence.json](./181600-naamu-the-lost-essence.json) |
 | Naàra: Contos de Resistencia | 191065 | [191065-naara-contos-de-resistencia.json](./191065-naara-contos-de-resistencia.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nage Libre: Seijaku no Suishin | 37915 | [37915-nage-libre-seijaku-no-suishin.json](./37915-nage-libre-seijaku-no-suishin.json) |
 | Nagi no Koi | 304834 | [304834-nagi-no-koi.json](./304834-nagi-no-koi.json) |
 | Naginami and the Crimson Thread | 294917 | [294917-naginami-and-the-crimson-thread.json](./294917-naginami-and-the-crimson-thread.json) |
+| Naginata | 150737 | [150737-naginata.json](./150737-naginata.json) |
 | NagiQ | 54971 | [54971-nagiq.json](./54971-nagiq.json) |
 | NagiQ 2 | 70701 | [70701-nagiq-2.json](./70701-nagiq-2.json) |
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
@@ -7739,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing To Declare | 366945 | [366945-nothing-to-declare.json](./366945-nothing-to-declare.json) |
 | Nothing to God | 88138 | [88138-nothing-to-god.json](./88138-nothing-to-god.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
+| Nothing to Remember | 150703 | [150703-nothing-to-remember.json](./150703-nothing-to-remember.json) |
 | Nothing to Say | 178748 | [178748-nothing-to-say.json](./178748-nothing-to-say.json) |
 | Nothing Together | 285162 | [285162-nothing-together.json](./285162-nothing-together.json) |
 | Nothing Together: Banana Theme | 290219 | [290219-nothing-together-banana-theme.json](./290219-nothing-together-banana-theme.json) |
