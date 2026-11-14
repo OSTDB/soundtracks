@@ -4672,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
 | Field of Glory II: Immortal Fire | 124901 | [124901-field-of-glory-ii-immortal-fire.json](./124901-field-of-glory-ii-immortal-fire.json) |
+| Field of Glory II: Legions Triumphant | 124885 | [124885-field-of-glory-ii-legions-triumphant.json](./124885-field-of-glory-ii-legions-triumphant.json) |
 | Field of Glory II: Masters Edition | 395288 | [395288-field-of-glory-ii-masters-edition.json](./395288-field-of-glory-ii-masters-edition.json) |
 | Field of Glory II: Medieval | 140929 | [140929-field-of-glory-ii-medieval.json](./140929-field-of-glory-ii-medieval.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
@@ -4681,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
 | Field of Glory II: Swifter than Eagles | 234222 | [234222-field-of-glory-ii-swifter-than-eagles.json](./234222-field-of-glory-ii-swifter-than-eagles.json) |
+| Field of Glory II: Wolves at the Gate | 124887 | [124887-field-of-glory-ii-wolves-at-the-gate.json](./124887-field-of-glory-ii-wolves-at-the-gate.json) |
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Glory: Kingdoms | 200987 | [200987-field-of-glory-kingdoms.json](./200987-field-of-glory-kingdoms.json) |
