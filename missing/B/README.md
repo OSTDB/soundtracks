@@ -16788,6 +16788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
 | Breakbox | 390349 | [390349-breakbox.json](./390349-breakbox.json) |
+| BreakClassic | 92732 | [92732-breakclassic.json](./92732-breakclassic.json) |
 | Breakdown | 195948 | [195948-breakdown.json](./195948-breakdown.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
