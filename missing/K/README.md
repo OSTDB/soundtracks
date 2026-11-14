@@ -6061,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshmar: The Last Reverie | 397836 | [397836-koshmar-the-last-reverie.json](./397836-koshmar-the-last-reverie.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmic Kanga | 306802 | [306802-kosmic-kanga.json](./306802-kosmic-kanga.json) |
+| Kosmickop | 157236 | [157236-kosmickop.json](./157236-kosmickop.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmitcheskii most | 367913 | [367913-kosmitcheskii-most.json](./367913-kosmitcheskii-most.json) |
 | Kosmo & Klax: Treehouse-Party | 95693 | [95693-kosmo-and-klax-treehouse-party.json](./95693-kosmo-and-klax-treehouse-party.json) |
