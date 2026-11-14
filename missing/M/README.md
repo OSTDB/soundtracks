@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.Z.E | 364956 | [364956-m-a-z-e.json](./364956-m-a-z-e.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
+| M.C.I. Escapes | 114464 | [114464-m-c-i-escapes.json](./114464-m-c-i-escapes.json) |
 | M.Duck | 197797 | [197797-m-duck.json](./197797-m-duck.json) |
 | M.E.A.T. | 143408 | [143408-m-e-a-t.json](./143408-m-e-a-t.json) |
 | M.E.A.T. II: Absolute Zero | 225190 | [225190-m-e-a-t-ii-absolute-zero.json](./225190-m-e-a-t-ii-absolute-zero.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
 | Magic Wolfgirl | 177703 | [177703-magic-wolfgirl.json](./177703-magic-wolfgirl.json) |
+| Magic Word Alchemist | 114456 | [114456-magic-word-alchemist.json](./114456-magic-word-alchemist.json) |
 | Magic Words: Craft Words | 243720 | [243720-magic-words-craft-words.json](./243720-magic-words-craft-words.json) |
 | Magic World | 372634 | [372634-magic-world.json](./372634-magic-world.json) |
 | Magic World Mahjong | 95320 | [95320-magic-world-mahjong.json](./95320-magic-world-mahjong.json) |
@@ -14514,6 +14516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf the Game | 66598 | [66598-minigolf-the-game.json](./66598-minigolf-the-game.json) |
 | MiniGolf Tour | 165603 | [165603-minigolf-tour.json](./165603-minigolf-tour.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
+| MinigolfParkVR | 114465 | [114465-minigolfparkvr.json](./114465-minigolfparkvr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
 | Minigore 2: Zombies | 64188 | [64188-minigore-2-zombies.json](./64188-minigore-2-zombies.json) |
 | Minigun Miner | 387148 | [387148-minigun-miner.json](./387148-minigun-miner.json) |
@@ -17106,6 +17109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Turn V | 58065 | [58065-monkey-turn-v.json](./58065-monkey-turn-v.json) |
 | Monkey Valley | 216627 | [216627-monkey-valley.json](./216627-monkey-valley.json) |
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
+| Monkey Wall | 114481 | [114481-monkey-wall.json](./114481-monkey-wall.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
 | Monkey Wrench | 78456 | [78456-monkey-wrench.json](./78456-monkey-wrench.json) |
