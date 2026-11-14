@@ -6509,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins | 282964 | [282964-goblins.json](./282964-goblins.json) |
 | Goblins | 306054 | [306054-goblins.json](./306054-goblins.json) |
 | Goblins & Grottos | 20379 | [20379-goblins-and-grottos.json](./20379-goblins-and-grottos.json) |
+| Goblins 2 Go | 79991 | [79991-goblins-2-go.json](./79991-goblins-2-go.json) |
 | Goblins and Gunslingers | 415761 | [415761-goblins-and-gunslingers.json](./415761-goblins-and-gunslingers.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
