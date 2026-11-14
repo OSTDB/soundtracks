@@ -4667,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's Eventide | 263487 | [263487-hells-eventide.json](./263487-hells-eventide.json) |
 | Hell's Farthest Shore | 261452 | [261452-hells-farthest-shore.json](./261452-hells-farthest-shore.json) |
+| Hell's Gate: Slide Puzzle | 163520 | [163520-hells-gate-slide-puzzle.json](./163520-hells-gate-slide-puzzle.json) |
 | Hell's High Harmonizers | 156986 | [156986-hells-high-harmonizers.json](./156986-hells-high-harmonizers.json) |
 | Hell's House | 311705 | [311705-hells-house.json](./311705-hells-house.json) |
 | Hell's Island | 162569 | [162569-hells-island.json](./162569-hells-island.json) |
@@ -6015,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stories: Elven | 167410 | [167410-hentai-stories-elven.json](./167410-hentai-stories-elven.json) |
 | Hentai Strawberry | 366517 | [366517-hentai-strawberry.json](./366517-hentai-strawberry.json) |
 | Hentai Strip Shot | 109389 | [109389-hentai-strip-shot.json](./109389-hentai-strip-shot.json) |
+| Hentai Students: Love Puzzle | 163519 | [163519-hentai-students-love-puzzle.json](./163519-hentai-students-love-puzzle.json) |
 | Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
 | Hentai Succubus Puzzle | 411206 | [411206-hentai-succubus-puzzle.json](./411206-hentai-succubus-puzzle.json) |
@@ -6130,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Wild | 369828 | [369828-hentai-world-wild.json](./369828-hentai-world-wild.json) |
 | Hentai World Winter | 340464 | [340464-hentai-world-winter.json](./340464-hentai-world-winter.json) |
 | Hentai World: Amazing Edition | 300890 | [300890-hentai-world-amazing-edition.json](./300890-hentai-world-amazing-edition.json) |
+| Hentai World: Animated Puzzle | 163510 | [163510-hentai-world-animated-puzzle.json](./163510-hentai-world-animated-puzzle.json) |
 | Hentai World: Chiyo | 403405 | [403405-hentai-world-chiyo.json](./403405-hentai-world-chiyo.json) |
 | Hentai World: Complete + | 324453 | [324453-hentai-world-complete.json](./324453-hentai-world-complete.json) |
 | Hentai World: Complete Edition | 262327 | [262327-hentai-world-complete-edition.json](./262327-hentai-world-complete-edition.json) |
