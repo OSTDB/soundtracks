@@ -5220,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
 | Death's Apprentice | 314813 | [314813-deaths-apprentice.json](./314813-deaths-apprentice.json) |
 | Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
+| Death's Door: Deluxe Edition | 164626 | [164626-deaths-door-deluxe-edition.json](./164626-deaths-door-deluxe-edition.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Dungeon | 235671 | [235671-deaths-dungeon.json](./235671-deaths-dungeon.json) |
 | Death's End | 273516 | [273516-deaths-end.json](./273516-deaths-end.json) |
@@ -20199,6 +20200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
 | Dungeon Scavenger 2 | 220362 | [220362-dungeon-scavenger-2.json](./220362-dungeon-scavenger-2.json) |
+| Dungeon Scavenger: Inferno | 164538 | [164538-dungeon-scavenger-inferno.json](./164538-dungeon-scavenger-inferno.json) |
 | Dungeon Scoundrel | 113942 | [113942-dungeon-scoundrel.json](./113942-dungeon-scoundrel.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Scroll | 70458 | [70458-dungeon-scroll.json](./70458-dungeon-scroll.json) |
