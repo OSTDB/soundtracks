@@ -28132,6 +28132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | Starship Commander: Arcade | 171666 | [171666-starship-commander-arcade.json](./171666-starship-commander-arcade.json) |
 | StarShip Constructor | 38799 | [38799-starship-constructor.json](./38799-starship-constructor.json) |
+| Starship Corporation: Cruise Ships | 158793 | [158793-starship-corporation-cruise-ships.json](./158793-starship-corporation-cruise-ships.json) |
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
 | Starship Danger! | 267315 | [267315-starship-danger.json](./267315-starship-danger.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
@@ -39792,6 +39793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Soul: Reset | 310918 | [310918-synthetic-soul-reset.json](./310918-synthetic-soul-reset.json) |
 | Synthetica: Cyber Club Manager | 291839 | [291839-synthetica-cyber-club-manager.json](./291839-synthetica-cyber-club-manager.json) |
 | SynthetiCell BioClicker | 339423 | [339423-syntheticell-bioclicker.json](./339423-syntheticell-bioclicker.json) |
+| Synthetik 2 | 158796 | [158796-synthetik-2.json](./158796-synthetik-2.json) |
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
 | Synthetik: Legion Rising | 86395 | [86395-synthetik-legion-rising.json](./86395-synthetik-legion-rising.json) |
 | Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
