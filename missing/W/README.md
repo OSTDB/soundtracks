@@ -8381,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word of Prey | 232308 | [232308-word-of-prey.json](./232308-word-of-prey.json) |
 | Word of the Law: Death Mask - Collector's Edition | 186850 | [186850-word-of-the-law-death-mask-collectors-edition.json](./186850-word-of-the-law-death-mask-collectors-edition.json) |
 | Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
+| Word Painting - Search, connect & blast letters | 101133 | [101133-word-painting-search-connect-and-blast-letters.json](./101133-word-painting-search-connect-and-blast-letters.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
 | Word Party | 96133 | [96133-word-party.json](./96133-word-party.json) |
 | Word Path - Word Puzzle Game | 105762 | [105762-word-path-word-puzzle-game.json](./105762-word-path-word-puzzle-game.json) |
