@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiserreich: Legacy of the Weltkrieg | 198440 | [198440-kaiserreich-legacy-of-the-weltkrieg.json](./198440-kaiserreich-legacy-of-the-weltkrieg.json) |
 | Kaiserreich: Legacy of the Weltkrieg | 403344 | [403344-kaiserreich-legacy-of-the-weltkrieg.json](./403344-kaiserreich-legacy-of-the-weltkrieg.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
+| Kaisuo | 117111 | [117111-kaisuo.json](./117111-kaisuo.json) |
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
 | Kaite Shabette Hajimeyou! Monster Farm DS | 98248 | [98248-kaite-shabette-hajimeyou-monster-farm-ds.json](./98248-kaite-shabette-hajimeyou-monster-farm-ds.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenseiden | 65579 | [65579-kenseiden.json](./65579-kenseiden.json) |
 | Kenseiki Alpha Ride | 336507 | [336507-kenseiki-alpha-ride.json](./336507-kenseiki-alpha-ride.json) |
 | Kenshi | 30225 | [30225-kenshi.json](./30225-kenshi.json) |
+| Kenshi 2 | 116521 | [116521-kenshi-2.json](./116521-kenshi-2.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentei TV! Wii: Minna de Gotouchi Quiz Battle | 67845 | [67845-kentei-tv-wii-minna-de-gotouchi-quiz-battle.json](./67845-kentei-tv-wii-minna-de-gotouchi-quiz-battle.json) |
