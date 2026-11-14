@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Le Parker: Sous Chef Extraordinaire | 99102 | [99102-le-parker-sous-chef-extraordinaire.json](./99102-le-parker-sous-chef-extraordinaire.json) |
 | Le pays d'Adibou | 307626 | [307626-le-pays-dadibou.json](./307626-le-pays-dadibou.json) |
+| Le Pendu en Français | 89464 | [89464-le-pendu-en-francais.json](./89464-le-pendu-en-francais.json) |
 | Le Petit Raccoon | 388944 | [388944-le-petit-raccoon.json](./388944-le-petit-raccoon.json) |
 | Le Plan Spectral | 346368 | [346368-le-plan-spectral.json](./346368-le-plan-spectral.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
