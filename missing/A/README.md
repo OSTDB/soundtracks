@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dragon's Tale: Fading Light | 264017 | [264017-a-dragons-tale-fading-light.json](./264017-a-dragons-tale-fading-light.json) |
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
 | A Drawing's Journey | 84686 | [84686-a-drawings-journey.json](./84686-a-drawings-journey.json) |
+| A Dream : Remake | 134757 | [134757-a-dream-remake.json](./134757-a-dream-remake.json) |
 | A Dream 2 | 272121 | [272121-a-dream-2.json](./272121-a-dream-2.json) |
 | A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
 | A Dream About Parking Lots | 340114 | [340114-a-dream-about-parking-lots.json](./340114-a-dream-about-parking-lots.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wise Use of Time | 34579 | [34579-a-wise-use-of-time.json](./34579-a-wise-use-of-time.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
+| A Wish Upon A Star | 134711 | [134711-a-wish-upon-a-star.json](./134711-a-wish-upon-a-star.json) |
 | A Witch in Time: Yamada-kun to Nananin no Majo | 292009 | [292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json](./292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json) |
 | A Witch Shall be Born | 315559 | [315559-a-witch-shall-be-born.json](./315559-a-witch-shall-be-born.json) |
 | A Witch's Game | 293552 | [293552-a-witchs-game.json](./293552-a-witchs-game.json) |
@@ -7835,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Life | 405105 | [405105-alien-life.json](./405105-alien-life.json) |
+| Alien Life Lab | 134716 | [134716-alien-life-lab.json](./134716-alien-life-lab.json) |
 | Alien Looter | 267270 | [267270-alien-looter.json](./267270-alien-looter.json) |
 | Alien Madness | 363161 | [363161-alien-madness.json](./363161-alien-madness.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
@@ -11855,6 +11858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie and the Art Gallery | 192656 | [192656-annie-and-the-art-gallery.json](./192656-annie-and-the-art-gallery.json) |
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
+| Annie: Last Hope | 134743 | [134743-annie-last-hope.json](./134743-annie-last-hope.json) |
 | Annie's Dineinn | 416982 | [416982-annies-dineinn.json](./416982-annies-dineinn.json) |
 | Annie's Millions: A Hidden Object Shopping Spree! | 198079 | [198079-annies-millions-a-hidden-object-shopping-spree.json](./198079-annies-millions-a-hidden-object-shopping-spree.json) |
 | Annihilate | 215553 | [215553-annihilate.json](./215553-annihilate.json) |
@@ -18881,6 +18885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic War | 171811 | [171811-atomic-war.json](./171811-atomic-war.json) |
 | Atomic Warfare | 303901 | [303901-atomic-warfare.json](./303901-atomic-warfare.json) |
 | Atomic Wilds | 216661 | [216661-atomic-wilds.json](./216661-atomic-wilds.json) |
+| Atomica | 134753 | [134753-atomica.json](./134753-atomica.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicboy 2 | 334999 | [334999-atomicboy-2.json](./334999-atomicboy-2.json) |
