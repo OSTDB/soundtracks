@@ -6422,6 +6422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest in Pieces | 115315 | [115315-rest-in-pieces.json](./115315-rest-in-pieces.json) |
+| Rest in Pieces | 126106 | [126106-rest-in-pieces.json](./126106-rest-in-pieces.json) |
 | Rest Stop | 404476 | [404476-rest-stop.json](./404476-rest-stop.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Rest: In a Dark Room | 391447 | [391447-rest-in-a-dark-room.json](./391447-rest-in-a-dark-room.json) |
@@ -13173,6 +13174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
 | Rugby League Team Manager 3 | 128263 | [128263-rugby-league-team-manager-3.json](./128263-rugby-league-team-manager-3.json) |
 | Rugby League Team Manager 4 | 324617 | [324617-rugby-league-team-manager-4.json](./324617-rugby-league-team-manager-4.json) |
+| Rugby Manager | 126086 | [126086-rugby-manager.json](./126086-rugby-manager.json) |
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
@@ -14009,6 +14011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | RunOut | 220490 | [220490-runout.json](./220490-runout.json) |
 | RunOut: Hothead Paws | 260350 | [260350-runout-hothead-paws.json](./260350-runout-hothead-paws.json) |
+| Runoveryou | 126105 | [126105-runoveryou.json](./126105-runoveryou.json) |
 | RunPostmanRun | 94132 | [94132-runpostmanrun.json](./94132-runpostmanrun.json) |
 | RunPunk: The Parkour Game | 363649 | [363649-runpunk-the-parkour-game.json](./363649-runpunk-the-parkour-game.json) |
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
