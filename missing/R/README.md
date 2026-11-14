@@ -6848,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrold | 170813 | [170813-retrold.json](./170813-retrold.json) |
 | Retrolution Racing | 290841 | [290841-retrolution-racing.json](./290841-retrolution-racing.json) |
 | Retroman | 25281 | [25281-retroman.json](./25281-retroman.json) |
+| Retromancer | 114457 | [114457-retromancer.json](./114457-retromancer.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
@@ -8456,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringlorn Saga | 217145 | [217145-ringlorn-saga.json](./217145-ringlorn-saga.json) |
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
 | Ringmaster Clause | 150210 | [150210-ringmaster-clause.json](./150210-ringmaster-clause.json) |
+| Ringo | 114626 | [114626-ringo.json](./114626-ringo.json) |
 | Ringo Party | 296867 | [296867-ringo-party.json](./296867-ringo-party.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
 | Ringo-san no Jump Action | 396254 | [396254-ringo-san-no-jump-action.json](./396254-ringo-san-no-jump-action.json) |
@@ -11635,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollingBall: Unlimited World | 96428 | [96428-rollingball-unlimited-world.json](./96428-rollingball-unlimited-world.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
+| Rollman | 114487 | [114487-rollman.json](./114487-rollman.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
 | Rollo and the Brush Brothers | 73622 | [73622-rollo-and-the-brush-brothers.json](./73622-rollo-and-the-brush-brothers.json) |
 | Rollo Boi | 370260 | [370260-rollo-boi.json](./370260-rollo-boi.json) |
