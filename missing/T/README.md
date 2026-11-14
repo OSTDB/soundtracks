@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TanukiTumble | 103143 | [103143-tanukitumble.json](./103143-tanukitumble.json) |
 | Tanx | 296009 | [296009-tanx.json](./296009-tanx.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
+| Tànxiǎn yǔ Mófǎ | 126694 | [126694-tanxian-yu-mofa.json](./126694-tanxian-yu-mofa.json) |
 | Tanxl | 412622 | [412622-tanxl.json](./412622-tanxl.json) |
 | Tanxy | 173946 | [173946-tanxy.json](./173946-tanxy.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
@@ -16186,6 +16187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pale | 212082 | [212082-the-pale.json](./212082-the-pale.json) |
 | The Pale Beyond: Collectors Edition | 238307 | [238307-the-pale-beyond-collectors-edition.json](./238307-the-pale-beyond-collectors-edition.json) |
 | The Pale Beyond: Deluxe Edition | 238308 | [238308-the-pale-beyond-deluxe-edition.json](./238308-the-pale-beyond-deluxe-edition.json) |
+| The Pale City | 127389 | [127389-the-pale-city.json](./127389-the-pale-city.json) |
 | The Pale Deep | 349740 | [349740-the-pale-deep.json](./349740-the-pale-deep.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Mimic | 403874 | [403874-the-pale-mimic.json](./403874-the-pale-mimic.json) |
@@ -20602,6 +20604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walls of Jericho | 344120 | [344120-the-walls-of-jericho.json](./344120-the-walls-of-jericho.json) |
 | The Walls Still Stand | 310717 | [310717-the-walls-still-stand.json](./310717-the-walls-still-stand.json) |
 | The Wallway | 342790 | [342790-the-wallway.json](./342790-the-wallway.json) |
+| The Walsingham Files - Chapter 2 | 127413 | [127413-the-walsingham-files-chapter-2.json](./127413-the-walsingham-files-chapter-2.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
 | The Walsingham Files: Chapter 1 | 179416 | [179416-the-walsingham-files-chapter-1.json](./179416-the-walsingham-files-chapter-1.json) |
 | The Walt Disney World Explorer | 132096 | [132096-the-walt-disney-world-explorer.json](./132096-the-walt-disney-world-explorer.json) |
@@ -24991,6 +24994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
 | Til Nord | 145905 | [145905-til-nord.json](./145905-til-nord.json) |
+| Tilcolity Eyes | 127390 | [127390-tilcolity-eyes.json](./127390-tilcolity-eyes.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile | 30139 | [30139-tile.json](./30139-tile.json) |
 | Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
