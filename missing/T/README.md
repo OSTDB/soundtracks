@@ -5172,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
 | Tesla VR | 368353 | [368353-tesla-vr.json](./368353-tesla-vr.json) |
 | Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
+| Tesla vs Lovecraft: For Science! | 112410 | [112410-tesla-vs-lovecraft-for-science.json](./112410-tesla-vs-lovecraft-for-science.json) |
 | Tesla vs Lovecraft: Game of the Year Edition | 164692 | [164692-tesla-vs-lovecraft-game-of-the-year-edition.json](./164692-tesla-vs-lovecraft-game-of-the-year-edition.json) |
 | Tesla Wars | 63177 | [63177-tesla-wars.json](./63177-tesla-wars.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
@@ -21777,6 +21778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
 | These Trees Are Spectral Fingers | 225450 | [225450-these-trees-are-spectral-fingers.json](./225450-these-trees-are-spectral-fingers.json) |
 | These Waves of Girls | 393842 | [393842-these-waves-of-girls.json](./393842-these-waves-of-girls.json) |
+| TheSecretGame2 | 112422 | [112422-thesecretgame2.json](./112422-thesecretgame2.json) |
 | Theseis | 92339 | [92339-theseis.json](./92339-theseis.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
 | Theseus | 145161 | [145161-theseus.json](./145161-theseus.json) |
@@ -33379,6 +33381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
 | Travel Mosaics 4: Adventures In Rio | 147124 | [147124-travel-mosaics-4-adventures-in-rio.json](./147124-travel-mosaics-4-adventures-in-rio.json) |
 | Travel Mosaics 5: Waltzing Vienna | 147088 | [147088-travel-mosaics-5-waltzing-vienna.json](./147088-travel-mosaics-5-waltzing-vienna.json) |
+| Travel Mosaics 6: Christmas Around the World | 112420 | [112420-travel-mosaics-6-christmas-around-the-world.json](./112420-travel-mosaics-6-christmas-around-the-world.json) |
 | Travel Mosaics 7: Fantastic Berlin | 147125 | [147125-travel-mosaics-7-fantastic-berlin.json](./147125-travel-mosaics-7-fantastic-berlin.json) |
 | Travel Mosaics 8: Breathtaking Seoul | 147126 | [147126-travel-mosaics-8-breathtaking-seoul.json](./147126-travel-mosaics-8-breathtaking-seoul.json) |
 | Travel Mosaics 9: Mysterious Prague | 147127 | [147127-travel-mosaics-9-mysterious-prague.json](./147127-travel-mosaics-9-mysterious-prague.json) |
