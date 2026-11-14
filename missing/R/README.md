@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi-Ribi: Cocoa Mode & Before Next Adventure | 171713 | [171713-rabi-ribi-cocoa-mode-and-before-next-adventure.json](./171713-rabi-ribi-cocoa-mode-and-before-next-adventure.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabi-Ribi: Platinum Edition DLC Pack | 324392 | [324392-rabi-ribi-platinum-edition-dlc-pack.json](./324392-rabi-ribi-platinum-edition-dlc-pack.json) |
+| Rabid Gophers | 84409 | [84409-rabid-gophers.json](./84409-rabid-gophers.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabiez: Epidemic | 33347 | [33347-rabiez-epidemic.json](./33347-rabiez-epidemic.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
+| Raven Blade | 84408 | [84408-raven-blade.json](./84408-raven-blade.json) |
 | Raven Estate | 216539 | [216539-raven-estate.json](./216539-raven-estate.json) |
 | Raven Fighter | 285429 | [285429-raven-fighter.json](./285429-raven-fighter.json) |
 | Raven Go! | 280639 | [280639-raven-go.json](./280639-raven-go.json) |
@@ -4584,6 +4586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Zero | 269542 | [269542-red-zero.json](./269542-red-zero.json) |
 | Red Zirion | 131692 | [131692-red-zirion.json](./131692-red-zirion.json) |
 | Red Zone | 12744 | [12744-red-zone.json](./12744-red-zone.json) |
+| Red Zone | 81530 | [81530-red-zone.json](./81530-red-zone.json) |
+| Red Zone | 81531 | [81531-red-zone.json](./81531-red-zone.json) |
 | Red-Handed Robin | 179691 | [179691-red-handed-robin.json](./179691-red-handed-robin.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | Red: Flame & Fable | 402221 | [402221-red-flame-and-fable.json](./402221-red-flame-and-fable.json) |
@@ -6272,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Mercenaries Vs. | 77341 | [77341-resident-evil-mercenaries-vs.json](./77341-resident-evil-mercenaries-vs.json) |
 | Resident Evil Outbreak | 972 | [972-resident-evil-outbreak.json](./972-resident-evil-outbreak.json) |
 | Resident Evil Outbreak File #2 | 973 | [973-resident-evil-outbreak-file-2.json](./973-resident-evil-outbreak-file-2.json) |
+| Resident Evil Portable | 84412 | [84412-resident-evil-portable.json](./84412-resident-evil-portable.json) |
 | Resident Evil Re:Verse | 142740 | [142740-resident-evil-re-verse.json](./142740-resident-evil-re-verse.json) |
 | Resident Evil Remake Trilogy | 341779 | [341779-resident-evil-remake-trilogy.json](./341779-resident-evil-remake-trilogy.json) |
 | Resident Evil Requiem: Deluxe Kit | 378871 | [378871-resident-evil-requiem-deluxe-kit.json](./378871-resident-evil-requiem-deluxe-kit.json) |
@@ -13533,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run 2 | 80484 | [80484-run-2.json](./80484-run-2.json) |
+| Run 8 Train Simulator | 81515 | [81515-run-8-train-simulator.json](./81515-run-8-train-simulator.json) |
 | Run a Café | 245743 | [245743-run-a-cafe.json](./245743-run-a-cafe.json) |
 | Run An Empire | 322541 | [322541-run-an-empire.json](./322541-run-an-empire.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
