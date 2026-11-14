@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Brokers | 74845 | [74845-war-brokers.json](./74845-war-brokers.json) |
 | War Builder League | 55993 | [55993-war-builder-league.json](./55993-war-builder-league.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
+| War Card Game - Royal Battle | 103730 | [103730-war-card-game-royal-battle.json](./103730-war-card-game-royal-battle.json) |
 | War Card Game_uvr | 365279 | [365279-war-card-game-uvr.json](./365279-war-card-game-uvr.json) |
 | War Cars Construction Set | 136917 | [136917-war-cars-construction-set.json](./136917-war-cars-construction-set.json) |
 | War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
@@ -7288,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | With Your Destiny | 90317 | [90317-with-your-destiny.json](./90317-with-your-destiny.json) |
 | With Your Mom's Tits | 181487 | [181487-with-your-moms-tits.json](./181487-with-your-moms-tits.json) |
+| With: Magic Tales | 103726 | [103726-with-magic-tales.json](./103726-with-magic-tales.json) |
 | Withdrawals | 390845 | [390845-withdrawals.json](./390845-withdrawals.json) |
 | Wither | 376822 | [376822-wither.json](./376822-wither.json) |
 | Wither | 57199 | [57199-wither.json](./57199-wither.json) |
