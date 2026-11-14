@@ -7131,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Defense - VR | 114079 | [114079-hex-defense-vr.json](./114079-hex-defense-vr.json) |
 | Hex Empire | 101917 | [101917-hex-empire.json](./101917-hex-empire.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
+| Hex FRVR | 105456 | [105456-hex-frvr.json](./105456-hex-frvr.json) |
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
 | HEX Hacking Simulator | 156205 | [156205-hex-hacking-simulator.json](./156205-hex-hacking-simulator.json) |
@@ -13190,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Monster Food Rain | 356503 | [356503-hungry-monster-food-rain.json](./356503-hungry-monster-food-rain.json) |
 | Hungry Penguin | 223838 | [223838-hungry-penguin.json](./223838-hungry-penguin.json) |
 | Hungry Pets | 252419 | [252419-hungry-pets.json](./252419-hungry-pets.json) |
+| Hungry Piggy Donuts Mania | 105585 | [105585-hungry-piggy-donuts-mania.json](./105585-hungry-piggy-donuts-mania.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Piranha Hunting - Shark Spear-fishing world | 104527 | [104527-hungry-piranha-hunting-shark-spear-fishing-world.json](./104527-hungry-piranha-hunting-shark-spear-fishing-world.json) |
