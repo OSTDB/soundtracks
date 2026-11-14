@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heatwalker | 418106 | [418106-heatwalker.json](./418106-heatwalker.json) |
 | Heatwarped | 414518 | [414518-heatwarped.json](./414518-heatwarped.json) |
+| Heatwave | 145752 | [145752-heatwave.json](./145752-heatwave.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
 | HeatWave | 137366 | [137366-heatwave.json](./137366-heatwave.json) |
 | Heave Ho | 116685 | [116685-heave-ho.json](./116685-heave-ho.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcoming | 185336 | [185336-hellcoming.json](./185336-hellcoming.json) |
 | HellCopter | 223071 | [223071-hellcopter.json](./223071-hellcopter.json) |
 | Hellcrackers | 371629 | [371629-hellcrackers.json](./371629-hellcrackers.json) |
+| Hellcraze | 145727 | [145727-hellcraze.json](./145727-hellcraze.json) |
 | Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
 | Hellcrown | 412367 | [412367-hellcrown.json](./412367-hellcrown.json) |
 | HellCrunch | 89400 | [89400-hellcrunch.json](./89400-hellcrunch.json) |
@@ -5248,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henite | 179302 | [179302-henite.json](./179302-henite.json) |
 | Henk Stroem in: Lost in Cellar | 322824 | [322824-henk-stroem-in-lost-in-cellar.json](./322824-henk-stroem-in-lost-in-cellar.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
+| Henosis | 145712 | [145712-henosis.json](./145712-henosis.json) |
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | HenPri: Hentai Prison | 192094 | [192094-henpri-hentai-prison.json](./192094-henpri-hentai-prison.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
@@ -12484,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Kill a Fly | 397986 | [397986-how-to-kill-a-fly.json](./397986-how-to-kill-a-fly.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
+| How to Loot | 145703 | [145703-how-to-loot.json](./145703-how-to-loot.json) |
 | How to Lose One's Virginity | 265791 | [265791-how-to-lose-ones-virginity.json](./265791-how-to-lose-ones-virginity.json) |
 | How to Make a Cup of Tea | 176118 | [176118-how-to-make-a-cup-of-tea.json](./176118-how-to-make-a-cup-of-tea.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
