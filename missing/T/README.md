@@ -7829,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat and the Coup (4K Remaster) | 107750 | [107750-the-cat-and-the-coup-4k-remaster.json](./107750-the-cat-and-the-coup-4k-remaster.json) |
 | The Cat Banny | 157737 | [157737-the-cat-banny.json](./157737-the-cat-banny.json) |
+| The Cat Family | 82200 | [82200-the-cat-family.json](./82200-the-cat-family.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in 14a | 117805 | [117805-the-cat-in-14a.json](./117805-the-cat-in-14a.json) |
 | The Cat in the Hat | 71403 | [71403-the-cat-in-the-hat.json](./71403-the-cat-in-the-hat.json) |
@@ -30881,6 +30882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix: City Rush | 175138 | [175138-traffix-city-rush.json](./175138-traffix-city-rush.json) |
 | Trafic Road Rush | 111869 | [111869-trafic-road-rush.json](./111869-trafic-road-rush.json) |
 | Trafico | 81797 | [81797-trafico.json](./81797-trafico.json) |
+| Tráfico | 82240 | [82240-trafico.json](./82240-trafico.json) |
 | Tragala | 304496 | [304496-tragala.json](./304496-tragala.json) |
 | Tragedy at Ashville Lane | 329459 | [329459-tragedy-at-ashville-lane.json](./329459-tragedy-at-ashville-lane.json) |
 | Tragedy in Reality | 282166 | [282166-tragedy-in-reality.json](./282166-tragedy-in-reality.json) |
@@ -33880,6 +33882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TreeConnect | 92140 | [92140-treeconnect.json](./92140-treeconnect.json) |
 | Treefender | 204263 | [204263-treefender.json](./204263-treefender.json) |
 | Treefiner | 338611 | [338611-treefiner.json](./338611-treefiner.json) |
+| Treehouse | 82210 | [82210-treehouse.json](./82210-treehouse.json) |
 | Treehouse Basketball | 30024 | [30024-treehouse-basketball.json](./30024-treehouse-basketball.json) |
 | Treehouse Riddle | 123888 | [123888-treehouse-riddle.json](./123888-treehouse-riddle.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
