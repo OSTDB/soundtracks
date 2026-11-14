@@ -8722,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
 | Billion Citizens | 404028 | [404028-billion-citizens.json](./404028-billion-citizens.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
+| Billion Lords | 108554 | [108554-billion-lords.json](./108554-billion-lords.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire | 77137 | [77137-billionaire.json](./77137-billionaire.json) |
 | Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
@@ -10714,6 +10715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Arena | 280039 | [280039-blast-arena.json](./280039-blast-arena.json) |
 | Blast Attack | 248962 | [248962-blast-attack.json](./248962-blast-attack.json) |
 | Blast Ball | 22328 | [22328-blast-ball.json](./22328-blast-ball.json) |
+| Blast Balls Legend | 108536 | [108536-blast-balls-legend.json](./108536-blast-balls-legend.json) |
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Beats | 235288 | [235288-blast-beats.json](./235288-blast-beats.json) |
 | Blast Bebop | 372592 | [372592-blast-bebop.json](./372592-blast-bebop.json) |
@@ -13159,6 +13161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Bo's Adventure: Merging Islands | 187148 | [187148-bos-adventure-merging-islands.json](./187148-bos-adventure-merging-islands.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
+| BOAA | 109088 | [109088-boaa.json](./109088-boaa.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | BoaBite 3D | 126078 | [126078-boabite-3d.json](./126078-boabite-3d.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
@@ -16212,6 +16215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
 | BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
+| Brasfoot 2018 | 109073 | [109073-brasfoot-2018.json](./109073-brasfoot-2018.json) |
 | Brasfoot 2020 | 137776 | [137776-brasfoot-2020.json](./137776-brasfoot-2020.json) |
 | Brasfoot 2021 | 144713 | [144713-brasfoot-2021.json](./144713-brasfoot-2021.json) |
 | Brasfoot 2022 | 196763 | [196763-brasfoot-2022.json](./196763-brasfoot-2022.json) |
@@ -18441,6 +18445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | Bubbles Popper 2 | 255009 | [255009-bubbles-popper-2.json](./255009-bubbles-popper-2.json) |
+| Bubbles Reward 3 | 108549 | [108549-bubbles-reward-3.json](./108549-bubbles-reward-3.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
 | Bubbles the Cat | 112934 | [112934-bubbles-the-cat.json](./112934-bubbles-the-cat.json) |
