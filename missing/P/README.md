@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius Da!: Shinwa kara Owarai he | 42095 | [42095-parodius-da-shinwa-kara-owarai-he.json](./42095-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parody World: Monster Party | 48570 | [48570-parody-world-monster-party.json](./48570-parody-world-monster-party.json) |
+| Paroniria | 111095 | [111095-paroniria.json](./111095-paroniria.json) |
 | Paroxysm | 71673 | [71673-paroxysm.json](./71673-paroxysm.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parralysis | 399271 | [399271-parralysis.json](./399271-parralysis.json) |
@@ -7800,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Williams Pinball - Season 1 Bundle | 354048 | [354048-pinball-fx3-williams-pinball-season-1-bundle.json](./354048-pinball-fx3-williams-pinball-season-1-bundle.json) |
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
+| Pinball FX3: Williams Table Pack Vol. 1 | 111280 | [111280-pinball-fx3-williams-table-pack-vol-1.json](./111280-pinball-fx3-williams-table-pack-vol-1.json) |
 | Pinball FX3: Zen Classics | 151055 | [151055-pinball-fx3-zen-classics.json](./151055-pinball-fx3-zen-classics.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
 | Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
@@ -17664,6 +17666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
 | Project Mod | 177631 | [177631-project-mod.json](./177631-project-mod.json) |
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
+| Project Monolith | 111281 | [111281-project-monolith.json](./111281-project-monolith.json) |
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
 | Project Motor Racing | 342092 | [342092-project-motor-racing.json](./342092-project-motor-racing.json) |
@@ -17699,6 +17702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
 | Project Nortubel | 353639 | [353639-project-nortubel.json](./353639-project-nortubel.json) |
 | Project Nosferatu | 233893 | [233893-project-nosferatu.json](./233893-project-nosferatu.json) |
+| Project Nova | 111284 | [111284-project-nova.json](./111284-project-nova.json) |
 | Project Nova | 28696 | [28696-project-nova.json](./28696-project-nova.json) |
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
@@ -17746,6 +17750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
 | Project Plink | 197711 | [197711-project-plink.json](./197711-project-plink.json) |
+| Project Police | 111131 | [111131-project-police.json](./111131-project-police.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
 | Project Prelude Rune | 27354 | [27354-project-prelude-rune.json](./27354-project-prelude-rune.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
@@ -20363,6 +20368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle One | 46465 | [46465-puzzle-one.json](./46465-puzzle-one.json) |
 | Puzzle Out - Dots, Hexa Lines, Pipes, Tangram | 107101 | [107101-puzzle-out-dots-hexa-lines-pipes-tangram.json](./107101-puzzle-out-dots-hexa-lines-pipes-tangram.json) |
+| Puzzle Out VR | 111124 | [111124-puzzle-out-vr.json](./111124-puzzle-out-vr.json) |
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Pandemonium | 68544 | [68544-puzzle-pandemonium.json](./68544-puzzle-pandemonium.json) |
 | Puzzle Panic | 92146 | [92146-puzzle-panic.json](./92146-puzzle-panic.json) |
