@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
 | A Day in the Palace | 296304 | [296304-a-day-in-the-palace.json](./296304-a-day-in-the-palace.json) |
+| A Day in the Park | 167225 | [167225-a-day-in-the-park.json](./167225-a-day-in-the-park.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
 | A Day of Slacking | 325230 | [325230-a-day-of-slacking.json](./325230-a-day-of-slacking.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
@@ -5769,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahoge Chanbara | 398034 | [398034-ahoge-chanbara.json](./398034-ahoge-chanbara.json) |
 | Ahorcado 3D: Hangedman 3D | 284207 | [284207-ahorcado-3d-hangedman-3d.json](./284207-ahorcado-3d-hangedman-3d.json) |
 | Ahoy | 153516 | [153516-ahoy.json](./153516-ahoy.json) |
+| Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
 | Ahro | 190479 | [190479-ahro.json](./190479-ahro.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
@@ -10624,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anesthesia | 216468 | [216468-anesthesia.json](./216468-anesthesia.json) |
 | Anesthesia | 385388 | [385388-anesthesia.json](./385388-anesthesia.json) |
 | Anetha | 284279 | [284279-anetha.json](./284279-anetha.json) |
+| Anetona | 166794 | [166794-anetona.json](./166794-anetona.json) |
 | Anett Futatabi | 5359 | [5359-anett-futatabi.json](./5359-anett-futatabi.json) |
 | Aneurism IV | 297064 | [297064-aneurism-iv.json](./297064-aneurism-iv.json) |
 | Anew: The Distant Light | 27214 | [27214-anew-the-distant-light.json](./27214-anew-the-distant-light.json) |
@@ -16523,6 +16526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension Trail | 392696 | [392696-ascension-trail.json](./392696-ascension-trail.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
+| Ascension VR: War of Shadows | 167206 | [167206-ascension-vr-war-of-shadows.json](./167206-ascension-vr-war-of-shadows.json) |
 | Ascension X | 263823 | [263823-ascension-x.json](./263823-ascension-x.json) |
 | Ascension: Arenas of War | 64823 | [64823-ascension-arenas-of-war.json](./64823-ascension-arenas-of-war.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
