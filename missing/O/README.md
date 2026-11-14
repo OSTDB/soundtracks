@@ -2690,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night Two Crazies | 31876 | [31876-one-night-two-crazies.json](./31876-one-night-two-crazies.json) |
 | One Night With Baba Yaga: A Gnosis Tale | 297994 | [297994-one-night-with-baba-yaga-a-gnosis-tale.json](./297994-one-night-with-baba-yaga-a-gnosis-tale.json) |
 | One Night with Clara | 171003 | [171003-one-night-with-clara.json](./171003-one-night-with-clara.json) |
+| One Night With Haro | 163507 | [163507-one-night-with-haro.json](./163507-one-night-with-haro.json) |
 | One Night With Kawaii | 304921 | [304921-one-night-with-kawaii.json](./304921-one-night-with-kawaii.json) |
 | One Night With Stalin | 392939 | [392939-one-night-with-stalin.json](./392939-one-night-with-stalin.json) |
 | One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
