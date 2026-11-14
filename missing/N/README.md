@@ -5438,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Nights | 258262 | [258262-nine-nights.json](./258262-nine-nights.json) |
 | Nine Nights | 289678 | [289678-nine-nights.json](./289678-nine-nights.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
+| Nine Nines | 134723 | [134723-nine-nines.json](./134723-nine-nines.json) |
 | Nine Noir Lives | 107432 | [107432-nine-noir-lives.json](./107432-nine-noir-lives.json) |
 | Nine of Wands | 163106 | [163106-nine-of-wands.json](./163106-nine-of-wands.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
@@ -6480,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rest for Lex | 394423 | [394423-no-rest-for-lex.json](./394423-no-rest-for-lex.json) |
 | No Rest for the Living | 313179 | [313179-no-rest-for-the-living.json](./313179-no-rest-for-the-living.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
+| No Rest for the Wicked | 134755 | [134755-no-rest-for-the-wicked.json](./134755-no-rest-for-the-wicked.json) |
 | No Results Found | 412478 | [412478-no-results-found.json](./412478-no-results-found.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
 | No Return | 198350 | [198350-no-return.json](./198350-no-return.json) |
