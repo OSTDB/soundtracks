@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
 | Offworld Trading Company: Ceres Initiative | 154480 | [154480-offworld-trading-company-ceres-initiative.json](./154480-offworld-trading-company-ceres-initiative.json) |
+| Offworld Trading Company: Conspicuous Consumption | 124845 | [124845-offworld-trading-company-conspicuous-consumption.json](./124845-offworld-trading-company-conspicuous-consumption.json) |
 | Offworld Trading Company: Interdimensional | 167924 | [167924-offworld-trading-company-interdimensional.json](./167924-offworld-trading-company-interdimensional.json) |
 | Offworld Trading Company: Limited Supply | 154477 | [154477-offworld-trading-company-limited-supply.json](./154477-offworld-trading-company-limited-supply.json) |
 | Offworld Trading Company: Market Corrections | 167925 | [167925-offworld-trading-company-market-corrections.json](./167925-offworld-trading-company-market-corrections.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
 | Oriental Dreams: The Forgotten Realm | 349020 | [349020-oriental-dreams-the-forgotten-realm.json](./349020-oriental-dreams-the-forgotten-realm.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
+| Oriental Empires: Genghis | 124846 | [124846-oriental-empires-genghis.json](./124846-oriental-empires-genghis.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
 | Oriental Games | 74906 | [74906-oriental-games.json](./74906-oriental-games.json) |
 | Oriental Immortal | 236765 | [236765-oriental-immortal.json](./236765-oriental-immortal.json) |
@@ -4761,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
 | Orwell: Ignorance is Strength | 54574 | [54574-orwell-ignorance-is-strength.json](./54574-orwell-ignorance-is-strength.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
+| Orwell: Ignorance is Strength Seasons Complete | 124852 | [124852-orwell-ignorance-is-strength-seasons-complete.json](./124852-orwell-ignorance-is-strength-seasons-complete.json) |
 | Orwell: Keeping an Eye on You | 22704 | [22704-orwell-keeping-an-eye-on-you.json](./22704-orwell-keeping-an-eye-on-you.json) |
 | Orx | 118588 | [118588-orx.json](./118588-orx.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
@@ -6079,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcooked! 2: Spring Festival | 143179 | [143179-overcooked-2-spring-festival.json](./143179-overcooked-2-spring-festival.json) |
 | Overcooked! 2: Sun's Out Buns Out | 135386 | [135386-overcooked-2-suns-out-buns-out.json](./135386-overcooked-2-suns-out-buns-out.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
+| Overcooked! 2: Too Many Cooks | 124872 | [124872-overcooked-2-too-many-cooks.json](./124872-overcooked-2-too-many-cooks.json) |
 | Overcooked! 2: Too Many Cooks Pack | 151307 | [151307-overcooked-2-too-many-cooks-pack.json](./151307-overcooked-2-too-many-cooks-pack.json) |
 | Overcooked! 2: Winter Wonderland | 143178 | [143178-overcooked-2-winter-wonderland.json](./143178-overcooked-2-winter-wonderland.json) |
 | Overcooked! All You Can Eat | 135915 | [135915-overcooked-all-you-can-eat.json](./135915-overcooked-all-you-can-eat.json) |
@@ -6462,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Ox & Horse Work in Hell | 345784 | [345784-ox-and-horse-work-in-hell.json](./345784-ox-and-horse-work-in-hell.json) |
+| OX Logic Puzzle 1000! | 124875 | [124875-ox-logic-puzzle-1000.json](./124875-ox-logic-puzzle-1000.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
 | Oxenfree: Director's Cut | 22446 | [22446-oxenfree-directors-cut.json](./22446-oxenfree-directors-cut.json) |
 | Oxide Room 208 | 240258 | [240258-oxide-room-208.json](./240258-oxide-room-208.json) |
