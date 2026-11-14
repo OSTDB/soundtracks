@@ -9101,7 +9101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioMetal | 10685 | [10685-biometal.json](./10685-biometal.json) |
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
-| Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Biomotor Unitron | 43991 | [43991-biomotor-unitron.json](./43991-biomotor-unitron.json) |
 | Biomutant: Atomic Edition | 136313 | [136313-biomutant-atomic-edition.json](./136313-biomutant-atomic-edition.json) |
 | Biomutant: Collector's Edition | 30392 | [30392-biomutant-collectors-edition.json](./30392-biomutant-collectors-edition.json) |
@@ -11736,6 +11735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
 | Block Warriors: Definitive Edition | 195917 | [195917-block-warriors-definitive-edition.json](./195917-block-warriors-definitive-edition.json) |
+| Block Warriors: Open World Game | 77501 | [77501-block-warriors-open-world-game.json](./77501-block-warriors-open-world-game.json) |
 | Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
 | Block Wars: Falling Duel | 421186 | [421186-block-wars-falling-duel.json](./421186-block-wars-falling-duel.json) |
 | Block Wave | 31410 | [31410-block-wave.json](./31410-block-wave.json) |
@@ -14882,7 +14882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderus: Angels & Demons | 150547 | [150547-borderus-angels-and-demons.json](./150547-borderus-angels-and-demons.json) |
 | Borderwatch: Dark Armada | 244686 | [244686-borderwatch-dark-armada.json](./244686-borderwatch-dark-armada.json) |
 | Bore | 417776 | [417776-bore.json](./417776-bore.json) |
-| Bore Blasters | 250809 | [250809-bore-blasters.json](./250809-bore-blasters.json) |
 | Bore Dome | 129431 | [129431-bore-dome.json](./129431-bore-dome.json) |
 | Boreal Blade | 122099 | [122099-boreal-blade.json](./122099-boreal-blade.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
