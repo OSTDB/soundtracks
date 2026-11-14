@@ -4038,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Eagles Collection | 53583 | [53583-screaming-eagles-collection.json](./53583-screaming-eagles-collection.json) |
 | Screaming Head | 332464 | [332464-screaming-head.json](./332464-screaming-head.json) |
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
+| Screaming Loaf | 153554 | [153554-screaming-loaf.json](./153554-screaming-loaf.json) |
 | Screaming Noppy | 212948 | [212948-screaming-noppy.json](./212948-screaming-noppy.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
@@ -20064,6 +20065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
+| Sophia the Traveler | 153562 | [153562-sophia-the-traveler.json](./153562-sophia-the-traveler.json) |
 | Sophia’s Animal Clinic: Mission Wildlife Park | 380652 | [380652-sophia-s-animal-clinic-mission-wildlife-park.json](./380652-sophia-s-animal-clinic-mission-wildlife-park.json) |
 | Sophia's Path | 390863 | [390863-sophias-path.json](./390863-sophias-path.json) |
 | Sophia's Spa | 272222 | [272222-sophias-spa.json](./272222-sophias-spa.json) |
@@ -25611,6 +25613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Game | 242956 | [242956-squad-game.json](./242956-squad-game.json) |
 | Squad Killer | 145190 | [145190-squad-killer.json](./145190-squad-killer.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
+| Squad of Dangerous | 154109 | [154109-squad-of-dangerous.json](./154109-squad-of-dangerous.json) |
 | Squad Strike 4 | 175013 | [175013-squad-strike-4.json](./175013-squad-strike-4.json) |
 | Squad Tactics | 244415 | [244415-squad-tactics.json](./244415-squad-tactics.json) |
 | Squad Z | 105071 | [105071-squad-z.json](./105071-squad-z.json) |
