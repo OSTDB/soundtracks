@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare to Dream | 57598 | [57598-dare-to-dream.json](./57598-dare-to-dream.json) |
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
+| Dare to Play 2 | 104316 | [104316-dare-to-play-2.json](./104316-dare-to-play-2.json) |
 | Dare to Speed | 244089 | [244089-dare-to-speed.json](./244089-dare-to-speed.json) |
 | Dare to Spread | 238696 | [238696-dare-to-spread.json](./238696-dare-to-spread.json) |
 | Dare to Stay | 207014 | [207014-dare-to-stay.json](./207014-dare-to-stay.json) |
@@ -10325,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Seclusion | 246697 | [246697-digital-seclusion.json](./246697-digital-seclusion.json) |
 | Digital Shift | 398380 | [398380-digital-shift.json](./398380-digital-shift.json) |
+| Digital Siege | 104334 | [104334-digital-siege.json](./104334-digital-siege.json) |
 | Digital Soul Data | 322329 | [322329-digital-soul-data.json](./322329-digital-soul-data.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
@@ -10669,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Land | 4430 | [4430-dino-land.json](./4430-dino-land.json) |
 | Dino Learning Games: Dinosaurs Puzzles for Kids | 90442 | [90442-dino-learning-games-dinosaurs-puzzles-for-kids.json](./90442-dino-learning-games-dinosaurs-puzzles-for-kids.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
+| Dino Madness Pinball | 104336 | [104336-dino-madness-pinball.json](./104336-dino-madness-pinball.json) |
 | Dino Market | 312710 | [312710-dino-market.json](./312710-dino-market.json) |
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
 | Dino Master | 69143 | [69143-dino-master.json](./69143-dino-master.json) |
@@ -21168,6 +21171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Digger | 346742 | [346742-dwarf-digger.json](./346742-dwarf-digger.json) |
 | Dwarf Dove | 293507 | [293507-dwarf-dove.json](./293507-dwarf-dove.json) |
 | Dwarf Eats Mountain | 390780 | [390780-dwarf-eats-mountain.json](./390780-dwarf-eats-mountain.json) |
+| Dwarf Fortress Remote | 104312 | [104312-dwarf-fortress-remote.json](./104312-dwarf-fortress-remote.json) |
 | Dwarf Fortress: Siege Update | 375483 | [375483-dwarf-fortress-siege-update.json](./375483-dwarf-fortress-siege-update.json) |
 | Dwarf Guild Mania | 387026 | [387026-dwarf-guild-mania.json](./387026-dwarf-guild-mania.json) |
 | Dwarf Hall | 258432 | [258432-dwarf-hall.json](./258432-dwarf-hall.json) |
