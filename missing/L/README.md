@@ -8241,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
 | Loop | 344257 | [344257-loop.json](./344257-loop.json) |
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
+| Loop - the Slitherlink | 106192 | [106192-loop-the-slitherlink.json](./106192-loop-the-slitherlink.json) |
 | Loop Apartment: Visitor | 415654 | [415654-loop-apartment-visitor.json](./415654-loop-apartment-visitor.json) |
 | Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
 | Loop Chain | 234494 | [234494-loop-chain.json](./234494-loop-chain.json) |
