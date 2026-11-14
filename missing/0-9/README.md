@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Years of Doom | 260499 | [260499-10-years-of-doom.json](./260499-10-years-of-doom.json) |
 | 10-103: Null Kelvin | 176835 | [176835-10-103-null-kelvin.json](./176835-10-103-null-kelvin.json) |
 | 10-33 Officer Down | 422841 | [422841-10-33-officer-down.json](./422841-10-33-officer-down.json) |
+| 10-4 | 117210 | [117210-10-4.json](./117210-10-4.json) |
 | 10-4 Indirect Contact | 125549 | [125549-10-4-indirect-contact.json](./125549-10-4-indirect-contact.json) |
 | 10-Day Champion | 319123 | [319123-10-day-champion.json](./319123-10-day-champion.json) |
 | 10-in-1 Christmas Collection | 325891 | [325891-10-in-1-christmas-collection.json](./325891-10-in-1-christmas-collection.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8AM: The Warehouse | 375238 | [375238-8am-the-warehouse.json](./375238-8am-the-warehouse.json) |
 | 8Ball Zig Zig Zi | 90865 | [90865-8ball-zig-zig-zi.json](./90865-8ball-zig-zig-zi.json) |
 | 8BallAllstars | 55079 | [55079-8ballallstars.json](./55079-8ballallstars.json) |
+| 8bit Arena | 117108 | [117108-8bit-arena.json](./117108-8bit-arena.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8Bit Fiesta | 24822 | [24822-8bit-fiesta.json](./24822-8bit-fiesta.json) |
 | 8Bit Fiesta: Game Pack 1 | 167670 | [167670-8bit-fiesta-game-pack-1.json](./167670-8bit-fiesta-game-pack-1.json) |
