@@ -10109,6 +10109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mensalão, O Jogo | 221252 | [221252-mensalao-o-jogo.json](./221252-mensalao-o-jogo.json) |
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
+| Mensch Ärgere Dich Nicht! | 108541 | [108541-mensch-argere-dich-nicht.json](./108541-mensch-argere-dich-nicht.json) |
 | Mensch Ärgere Dich! | 85713 | [85713-mensch-argere-dich.json](./85713-mensch-argere-dich.json) |
 | Menseki Genius | 192068 | [192068-menseki-genius.json](./192068-menseki-genius.json) |
 | Menseki: Area Maze puzzles | 186956 | [186956-menseki-area-maze-puzzles.json](./186956-menseki-area-maze-puzzles.json) |
@@ -15191,6 +15192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic Diaries | 201631 | [201631-miskatonic-diaries.json](./201631-miskatonic-diaries.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
+| Mislead | 108547 | [108547-mislead.json](./108547-mislead.json) |
 | Misled Madness | 290217 | [290217-misled-madness.json](./290217-misled-madness.json) |
 | Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
 | Mislight | 224411 | [224411-mislight.json](./224411-mislight.json) |
@@ -17987,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: First Class | 163698 | [163698-monster-train-first-class.json](./163698-monster-train-first-class.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
+| Monster Trainer | 108535 | [108535-monster-trainer.json](./108535-monster-trainer.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
 | Monster Travels | 411230 | [411230-monster-travels.json](./411230-monster-travels.json) |
@@ -21336,6 +21339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mummy Maze Deluxe | 62007 | [62007-mummy-maze-deluxe.json](./62007-mummy-maze-deluxe.json) |
 | Mummy on the run | 107687 | [107687-mummy-on-the-run.json](./107687-mummy-on-the-run.json) |
+| Mummy Pinball | 108543 | [108543-mummy-pinball.json](./108543-mummy-pinball.json) |
 | Mummy Rumble VR | 236557 | [236557-mummy-rumble-vr.json](./236557-mummy-rumble-vr.json) |
 | Mummy Sandbox | 175883 | [175883-mummy-sandbox.json](./175883-mummy-sandbox.json) |
 | Mummy Twist | 397511 | [397511-mummy-twist.json](./397511-mummy-twist.json) |
@@ -24295,6 +24299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: The Lost Hope - Collector's Edition | 29499 | [29499-mystery-tales-the-lost-hope-collectors-edition.json](./29499-mystery-tales-the-lost-hope-collectors-edition.json) |
 | Mystery Tales: The Twilight World | 140239 | [140239-mystery-tales-the-twilight-world.json](./140239-mystery-tales-the-twilight-world.json) |
 | Mystery Tales: The Twilight World - Collector's Edition | 74994 | [74994-mystery-tales-the-twilight-world-collectors-edition.json](./74994-mystery-tales-the-twilight-world-collectors-edition.json) |
+| Mystery Tales: The Twilight World HD | 108680 | [108680-mystery-tales-the-twilight-world-hd.json](./108680-mystery-tales-the-twilight-world-hd.json) |
 | Mystery Tales: Til Death | 140240 | [140240-mystery-tales-til-death.json](./140240-mystery-tales-til-death.json) |
 | Mystery Tales: Til Death - Collector's Edition | 133142 | [133142-mystery-tales-til-death-collectors-edition.json](./133142-mystery-tales-til-death-collectors-edition.json) |
 | Mystery Tapes | 79536 | [79536-mystery-tapes.json](./79536-mystery-tapes.json) |
