@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: Fool's Gold - Collector's Edition | 121811 | [121811-labyrinths-of-the-world-fools-gold-collectors-edition.json](./121811-labyrinths-of-the-world-fools-gold-collectors-edition.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
+| Labyrinths of the World: Forbidden Muse HD | 101136 | [101136-labyrinths-of-the-world-forbidden-muse-hd.json](./101136-labyrinths-of-the-world-forbidden-muse-hd.json) |
 | Labyrinths of the World: Hearts of the Planet - Collector's Edition | 170204 | [170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json](./170204-labyrinths-of-the-world-hearts-of-the-planet-collectors-edition.json) |
 | Labyrinths of the World: Secrets of Easter Island | 198093 | [198093-labyrinths-of-the-world-secrets-of-easter-island.json](./198093-labyrinths-of-the-world-secrets-of-easter-island.json) |
 | Labyrinths of the World: Secrets of Easter Island - Collector's Edition | 198094 | [198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json](./198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Santa Standing | 77719 | [77719-last-santa-standing.json](./77719-last-santa-standing.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
+| Last Saver: Zombie Hunter Master | 101139 | [101139-last-saver-zombie-hunter-master.json](./101139-last-saver-zombie-hunter-master.json) |
 | Last Scenario | 124549 | [124549-last-scenario.json](./124549-last-scenario.json) |
 | Last Second | 215338 | [215338-last-second.json](./215338-last-second.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
@@ -3082,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Football | 194118 | [194118-legendary-football.json](./194118-legendary-football.json) |
 | Legendary Gary | 76560 | [76560-legendary-gary.json](./76560-legendary-gary.json) |
 | Legendary gun | 123750 | [123750-legendary-gun.json](./123750-legendary-gun.json) |
+| Legendary Heroes | 101144 | [101144-legendary-heroes.json](./101144-legendary-heroes.json) |
 | Legendary Heroes Survivors | 337419 | [337419-legendary-heroes-survivors.json](./337419-legendary-heroes-survivors.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
