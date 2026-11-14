@@ -6674,19 +6674,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
 | Heroes & Generals: GE Soldier Pack - Heavy Tanker | 161720 | [161720-heroes-and-generals-ge-soldier-pack-heavy-tanker.json](./161720-heroes-and-generals-ge-soldier-pack-heavy-tanker.json) |
+| Heroes & Generals: GE Soldier Pack - Infantry Assault | 161924 | [161924-heroes-and-generals-ge-soldier-pack-infantry-assault.json](./161924-heroes-and-generals-ge-soldier-pack-infantry-assault.json) |
+| Heroes & Generals: GE Soldier Pack - Infantry Medic | 161927 | [161927-heroes-and-generals-ge-soldier-pack-infantry-medic.json](./161927-heroes-and-generals-ge-soldier-pack-infantry-medic.json) |
 | Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
 | Heroes & Generals: GE Soldier Pack - Medium Tanker | 161919 | [161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json](./161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: GE Super Pack | 156172 | [156172-heroes-and-generals-ge-super-pack.json](./156172-heroes-and-generals-ge-super-pack.json) |
 | Heroes & Generals: SU Mega Pack | 161918 | [161918-heroes-and-generals-su-mega-pack.json](./161918-heroes-and-generals-su-mega-pack.json) |
 | Heroes & Generals: SU Soldier Pack - Heavy Tanker | 161915 | [161915-heroes-and-generals-su-soldier-pack-heavy-tanker.json](./161915-heroes-and-generals-su-soldier-pack-heavy-tanker.json) |
+| Heroes & Generals: SU Soldier Pack - Infantry Anti-Tank | 161926 | [161926-heroes-and-generals-su-soldier-pack-infantry-anti-tank.json](./161926-heroes-and-generals-su-soldier-pack-infantry-anti-tank.json) |
 | Heroes & Generals: SU Soldier Pack - Infantry Assault | 161922 | [161922-heroes-and-generals-su-soldier-pack-infantry-assault.json](./161922-heroes-and-generals-su-soldier-pack-infantry-assault.json) |
+| Heroes & Generals: SU Soldier Pack - Infantry Medic | 161928 | [161928-heroes-and-generals-su-soldier-pack-infantry-medic.json](./161928-heroes-and-generals-su-soldier-pack-infantry-medic.json) |
 | Heroes & Generals: SU Soldier Pack - Light Tanker | 161909 | [161909-heroes-and-generals-su-soldier-pack-light-tanker.json](./161909-heroes-and-generals-su-soldier-pack-light-tanker.json) |
 | Heroes & Generals: SU Soldier Pack - Medium Tanker | 161920 | [161920-heroes-and-generals-su-soldier-pack-medium-tanker.json](./161920-heroes-and-generals-su-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: SU Super Pack | 161913 | [161913-heroes-and-generals-su-super-pack.json](./161913-heroes-and-generals-su-super-pack.json) |
 | Heroes & Generals: US Giga Pack | 161912 | [161912-heroes-and-generals-us-giga-pack.json](./161912-heroes-and-generals-us-giga-pack.json) |
 | Heroes & Generals: US Mega Pack | 161914 | [161914-heroes-and-generals-us-mega-pack.json](./161914-heroes-and-generals-us-mega-pack.json) |
 | Heroes & Generals: US Soldier Pack - Heavy Tanker | 161907 | [161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json](./161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json) |
+| Heroes & Generals: US Soldier Pack - Infantry Anti-Tank | 161923 | [161923-heroes-and-generals-us-soldier-pack-infantry-anti-tank.json](./161923-heroes-and-generals-us-soldier-pack-infantry-anti-tank.json) |
 | Heroes & Generals: US Soldier Pack - Infantry Assault | 161921 | [161921-heroes-and-generals-us-soldier-pack-infantry-assault.json](./161921-heroes-and-generals-us-soldier-pack-infantry-assault.json) |
+| Heroes & Generals: US Soldier Pack - Infantry Medic | 161925 | [161925-heroes-and-generals-us-soldier-pack-infantry-medic.json](./161925-heroes-and-generals-us-soldier-pack-infantry-medic.json) |
 | Heroes & Generals: US Soldier Pack - Light Tanker | 161908 | [161908-heroes-and-generals-us-soldier-pack-light-tanker.json](./161908-heroes-and-generals-us-soldier-pack-light-tanker.json) |
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
