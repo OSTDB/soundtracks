@@ -4618,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levistone Story | 219865 | [219865-levistone-story.json](./219865-levistone-story.json) |
 | Levitation Simulator | 187051 | [187051-levitation-simulator.json](./187051-levitation-simulator.json) |
 | Levitation Simulator 2 | 339382 | [339382-levitation-simulator-2.json](./339382-levitation-simulator-2.json) |
+| Lew Leon | 92720 | [92720-lew-leon.json](./92720-lew-leon.json) |
 | Lew Pulsipher's Doomstar | 32151 | [32151-lew-pulsiphers-doomstar.json](./32151-lew-pulsiphers-doomstar.json) |
 | Lewandowski: Football Star | 247324 | [247324-lewandowski-football-star.json](./247324-lewandowski-football-star.json) |
 | Lewd & Nude: Anime Collector | 368112 | [368112-lewd-and-nude-anime-collector.json](./368112-lewd-and-nude-anime-collector.json) |
