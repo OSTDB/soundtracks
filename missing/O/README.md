@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Record: The Italian Affair - Collector's Edition | 32016 | [32016-off-the-record-the-italian-affair-collectors-edition.json](./32016-off-the-record-the-italian-affair-collectors-edition.json) |
 | Off the Record: The Linden Shades | 98410 | [98410-off-the-record-the-linden-shades.json](./98410-off-the-record-the-linden-shades.json) |
 | Off the Road | 106749 | [106749-off-the-road.json](./106749-off-the-road.json) |
+| Off the Road: Unleashed | 164612 | [164612-off-the-road-unleashed.json](./164612-off-the-road-unleashed.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Text | 372680 | [372680-off-the-text.json](./372680-off-the-text.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Chaos | 381524 | [381524-orbital-chaos.json](./381524-orbital-chaos.json) |
 | Orbital Checkpoint | 413803 | [413803-orbital-checkpoint.json](./413803-orbital-checkpoint.json) |
 | Orbital Clash | 226165 | [226165-orbital-clash.json](./226165-orbital-clash.json) |
+| Orbital Combat | 164543 | [164543-orbital-combat.json](./164543-orbital-combat.json) |
 | Orbital Crash | 392462 | [392462-orbital-crash.json](./392462-orbital-crash.json) |
 | Orbital Crew | 379696 | [379696-orbital-crew.json](./379696-orbital-crew.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
