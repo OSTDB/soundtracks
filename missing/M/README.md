@@ -9180,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
+| Megami Ibunroku Persona: Iku no Tou-hen | 138845 | [138845-megami-ibunroku-persona-iku-no-tou-hen.json](./138845-megami-ibunroku-persona-iku-no-tou-hen.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
 | Megami no Ken: Werner no Shou | 242341 | [242341-megami-no-ken-werner-no-shou.json](./242341-megami-no-ken-werner-no-shou.json) |
@@ -20831,6 +20832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MrToilet | 401824 | [401824-mrtoilet.json](./401824-mrtoilet.json) |
 | MrWang and Love | 235274 | [235274-mrwang-and-love.json](./235274-mrwang-and-love.json) |
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
+| Ms Pac PC | 138848 | [138848-ms-pac-pc.json](./138848-ms-pac-pc.json) |
 | MS Saga: A New Dawn | 20492 | [20492-ms-saga-a-new-dawn.json](./20492-ms-saga-a-new-dawn.json) |
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
 | MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
