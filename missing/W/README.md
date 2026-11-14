@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
 | Walk Master | 165342 | [165342-walk-master.json](./165342-walk-master.json) |
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
+| Walk of Shame | 154104 | [154104-walk-of-shame.json](./154104-walk-of-shame.json) |
 | Walk on Arrow | 104956 | [104956-walk-on-arrow.json](./104956-walk-on-arrow.json) |
 | Walk on Mars | 147068 | [147068-walk-on-mars.json](./147068-walk-on-mars.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
@@ -7960,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderputt | 64053 | [64053-wonderputt.json](./64053-wonderputt.json) |
 | Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
 | WonderRun | 206417 | [206417-wonderrun.json](./206417-wonderrun.json) |
+| Wonders of Aether | 153557 | [153557-wonders-of-aether.json](./153557-wonders-of-aether.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
 | Wonders of the World: Collector's Edition | 338065 | [338065-wonders-of-the-world-collectors-edition.json](./338065-wonders-of-the-world-collectors-edition.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
