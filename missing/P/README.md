@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patched | 404034 | [404034-patched.json](./404034-patched.json) |
 | Patched World | 237481 | [237481-patched-world.json](./237481-patched-world.json) |
+| Patches of Adventure | 134760 | [134760-patches-of-adventure.json](./134760-patches-of-adventure.json) |
 | Patchman Adventures | 174237 | [174237-patchman-adventures.json](./174237-patchman-adventures.json) |
 | Patchman vs. Blue Squares | 90119 | [90119-patchman-vs-blue-squares.json](./90119-patchman-vs-blue-squares.json) |
 | Patchman vs. Red Circles | 35012 | [35012-patchman-vs-red-circles.json](./35012-patchman-vs-red-circles.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Péché Mignon | 394644 | [394644-peche-mignon.json](./394644-peche-mignon.json) |
 | Pechka | 250802 | [250802-pechka.json](./250802-pechka.json) |
 | Pechowy Prezent | 91039 | [91039-pechowy-prezent.json](./91039-pechowy-prezent.json) |
+| Peck N Run | 134712 | [134712-peck-n-run.json](./134712-peck-n-run.json) |
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
 | Peck'Em | 224924 | [224924-peckem.json](./224924-peckem.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
@@ -15195,6 +15197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
+| PQ93 | 134720 | [134720-pq93.json](./134720-pq93.json) |
 | PR: Rivenverse | 326841 | [326841-pr-rivenverse.json](./326841-pr-rivenverse.json) |
 | Praamžius | 293290 | [293290-praamzius.json](./293290-praamzius.json) |
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
