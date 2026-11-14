@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Frenzy | 84590 | [84590-cat-frenzy.json](./84590-cat-frenzy.json) |
 | Cat From Hell 2 | 369364 | [369364-cat-from-hell-2.json](./369364-cat-from-hell-2.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
+| Cat from the Box | 157257 | [157257-cat-from-the-box.json](./157257-cat-from-the-box.json) |
 | Cat Fu Mi | 109388 | [109388-cat-fu-mi.json](./109388-cat-fu-mi.json) |
 | Cat Fun | 222589 | [222589-cat-fun.json](./222589-cat-fun.json) |
 | Cat Fusion Quest | 312759 | [312759-cat-fusion-quest.json](./312759-cat-fusion-quest.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
 | Cat Girl Without Justice | 364547 | [364547-cat-girl-without-justice.json](./364547-cat-girl-without-justice.json) |
 | Cat Gladiator | 392072 | [392072-cat-gladiator.json](./392072-cat-gladiator.json) |
+| Cat Go! Ultimate Challenge | 157231 | [157231-cat-go-ultimate-challenge.json](./157231-cat-go-ultimate-challenge.json) |
 | Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
 | Cat God Ranch:​​ Age of Dinosaurs​ | 359551 | [359551-cat-god-ranch-age-of-dinosaurs.json](./359551-cat-god-ranch-age-of-dinosaurs.json) |
 | Cat Goes Fishing | 35910 | [35910-cat-goes-fishing.json](./35910-cat-goes-fishing.json) |
@@ -15139,6 +15141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conqueror's Blade: Hounds of War | 168184 | [168184-conquerors-blade-hounds-of-war.json](./168184-conquerors-blade-hounds-of-war.json) |
 | Conqueror's Blade: Paragons | 198271 | [198271-conquerors-blade-paragons.json](./198271-conquerors-blade-paragons.json) |
+| Conqueror's Blade: Season I - Seize the Crown | 157243 | [157243-conquerors-blade-season-i-seize-the-crown.json](./157243-conquerors-blade-season-i-seize-the-crown.json) |
 | Conqueror's Blade: Season II - Wrath of the Nomads | 157942 | [157942-conquerors-blade-season-ii-wrath-of-the-nomads.json](./157942-conquerors-blade-season-ii-wrath-of-the-nomads.json) |
 | Conqueror's Blade: Season III - Soldiers of Fortune | 157967 | [157967-conquerors-blade-season-iii-soldiers-of-fortune.json](./157967-conquerors-blade-season-iii-soldiers-of-fortune.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
@@ -16377,6 +16380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoronaFighter | 238254 | [238254-coronafighter.json](./238254-coronafighter.json) |
 | Coronarun | 156704 | [156704-coronarun.json](./156704-coronarun.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
+| Coronator | 157220 | [157220-coronator.json](./157220-coronator.json) |
 | Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
 | Coronavirus | 215444 | [215444-coronavirus.json](./215444-coronavirus.json) |
 | Coronavirus Attack | 405275 | [405275-coronavirus-attack.json](./405275-coronavirus-attack.json) |
@@ -23057,6 +23061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclopong | 253251 | [253251-cyclopong.json](./253251-cyclopong.json) |
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
+| Cyclotronica | 157233 | [157233-cyclotronica.json](./157233-cyclotronica.json) |
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
 | Cydoku | 260276 | [260276-cydoku.json](./260276-cydoku.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
