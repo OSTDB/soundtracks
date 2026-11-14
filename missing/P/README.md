@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchwork Beast | 247932 | [247932-patchwork-beast.json](./247932-patchwork-beast.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
+| Patchwork Image | 148580 | [148580-patchwork-image.json](./148580-patchwork-image.json) |
 | Patchworkz | 87630 | [87630-patchworkz.json](./87630-patchworkz.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
@@ -5230,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Murder Theater: Strangled Roots | 337548 | [337548-personal-murder-theater-strangled-roots.json](./337548-personal-murder-theater-strangled-roots.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
+| Personal Rocket | 148593 | [148593-personal-rocket.json](./148593-personal-rocket.json) |
 | Personal Sam-Y | 252333 | [252333-personal-sam-y.json](./252333-personal-sam-y.json) |
 | Personal Space | 133063 | [133063-personal-space.json](./133063-personal-space.json) |
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
