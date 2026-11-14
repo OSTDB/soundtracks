@@ -10792,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Park Building Simulator 3D | 99136 | [99136-dinosaur-park-building-simulator-3d.json](./99136-dinosaur-park-building-simulator-3d.json) |
 | Dinosaur Park: Jurassic Trex World | 105462 | [105462-dinosaur-park-jurassic-trex-world.json](./105462-dinosaur-park-jurassic-trex-world.json) |
+| Dinosaur Park: Primeval Zoo | 143162 | [143162-dinosaur-park-primeval-zoo.json](./143162-dinosaur-park-primeval-zoo.json) |
 | Dinosaur Planet | 134251 | [134251-dinosaur-planet.json](./134251-dinosaur-planet.json) |
 | Dinosaur Planet: Recompiled | 343047 | [343047-dinosaur-planet-recompiled.json](./343047-dinosaur-planet-recompiled.json) |
 | Dinosaur Planet: Recompiled - Dinomod Enhanced | 387175 | [387175-dinosaur-planet-recompiled-dinomod-enhanced.json](./387175-dinosaur-planet-recompiled-dinomod-enhanced.json) |
@@ -13778,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Angry! 2 | 71325 | [71325-dont-get-angry-2.json](./71325-dont-get-angry-2.json) |
 | Don't Get Angry! 3 | 25493 | [25493-dont-get-angry-3.json](./25493-dont-get-angry-3.json) |
+| Don't Get Bit | 143158 | [143158-dont-get-bit.json](./143158-dont-get-bit.json) |
 | Don't Get Caught | 348027 | [348027-dont-get-caught.json](./348027-dont-get-caught.json) |
 | Don't Get Caught | 353153 | [353153-dont-get-caught.json](./353153-dont-get-caught.json) |
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
