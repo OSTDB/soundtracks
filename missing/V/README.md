@@ -4219,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyager | 237586 | [237586-voyager.json](./237586-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
+| Voyager | 81545 | [81545-voyager.json](./81545-voyager.json) |
 | Voyager 2 | 212034 | [212034-voyager-2.json](./212034-voyager-2.json) |
 | Voyager Battles | 309314 | [309314-voyager-battles.json](./309314-voyager-battles.json) |
 | Voyager EP | 308074 | [308074-voyager-ep.json](./308074-voyager-ep.json) |
@@ -4659,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VS Mahjong: Otome Ryouran | 310348 | [310348-vs-mahjong-otome-ryouran.json](./310348-vs-mahjong-otome-ryouran.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
+| VS-robo | 84416 | [84416-vs-robo.json](./84416-vs-robo.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
 | Vs. Babel no Tou | 214582 | [214582-vs-babel-no-tou.json](./214582-vs-babel-no-tou.json) |
 | Vs. Balloon Fight | 40516 | [40516-vs-balloon-fight.json](./40516-vs-balloon-fight.json) |
