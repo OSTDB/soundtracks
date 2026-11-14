@@ -9544,6 +9544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinonome Abyss: The Maiden Exorcist | 310825 | [310825-shinonome-abyss-the-maiden-exorcist.json](./310825-shinonome-abyss-the-maiden-exorcist.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinovi Nexus: Senran Kagura | 403208 | [403208-shinovi-nexus-senran-kagura.json](./403208-shinovi-nexus-senran-kagura.json) |
+| Shinpi no Sekai El-Hazard | 109078 | [109078-shinpi-no-sekai-el-hazard.json](./109078-shinpi-no-sekai-el-hazard.json) |
 | Shinpi no Sekai El-Hazard | 343694 | [343694-shinpi-no-sekai-el-hazard.json](./343694-shinpi-no-sekai-el-hazard.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
@@ -16170,6 +16171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
 | Smog City | 313958 | [313958-smog-city.json](./313958-smog-city.json) |
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
+| Smogpunk | 108677 | [108677-smogpunk.json](./108677-smogpunk.json) |
 | Smok: Legend of the Laid-Back Heroes | 216298 | [216298-smok-legend-of-the-laid-back-heroes.json](./216298-smok-legend-of-the-laid-back-heroes.json) |
 | Smoke & Lottery Simulator | 399354 | [399354-smoke-and-lottery-simulator.json](./399354-smoke-and-lottery-simulator.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
@@ -21447,6 +21449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Corgi | 345433 | [345433-space-corgi.json](./345433-space-corgi.json) |
 | Space Corgi 2: Snowhound Protocol | 384610 | [384610-space-corgi-2-snowhound-protocol.json](./384610-space-corgi-2-snowhound-protocol.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
+| Space Cowboy | 108675 | [108675-space-cowboy.json](./108675-space-cowboy.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
 | Space Cowboys: Riders of the Storm | 261113 | [261113-space-cowboys-riders-of-the-storm.json](./261113-space-cowboys-riders-of-the-storm.json) |
@@ -22721,6 +22724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | Spaceship Trucker | 55576 | [55576-spaceship-trucker.json](./55576-spaceship-trucker.json) |
 | Spaceship Typing | 328897 | [328897-spaceship-typing.json](./328897-spaceship-typing.json) |
+| Spaceship vs. Bricks | 108529 | [108529-spaceship-vs-bricks.json](./108529-spaceship-vs-bricks.json) |
 | Spaceship War | 165721 | [165721-spaceship-war.json](./165721-spaceship-war.json) |
 | Spaceship Warlock | 72522 | [72522-spaceship-warlock.json](./72522-spaceship-warlock.json) |
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
@@ -27025,6 +27029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trader | 86153 | [86153-star-trader.json](./86153-star-trader.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders 4X Empires Elite | 88590 | [88590-star-traders-4x-empires-elite.json](./88590-star-traders-4x-empires-elite.json) |
+| Star Traders RPG | 108555 | [108555-star-traders-rpg.json](./108555-star-traders-rpg.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
 | Star Trap | 92890 | [92890-star-trap.json](./92890-star-trap.json) |
 | Star Trapper FX | 196037 | [196037-star-trapper-fx.json](./196037-star-trapper-fx.json) |
