@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
 | Pelican | 345633 | [345633-pelican.json](./345633-pelican.json) |
+| Pelican and Medjed | 122471 | [122471-pelican-and-medjed.json](./122471-pelican-and-medjed.json) |
 | Pelican Deep | 393195 | [393195-pelican-deep.json](./393195-pelican-deep.json) |
 | Pelican Empyrean | 373187 | [373187-pelican-empyrean.json](./373187-pelican-empyrean.json) |
 | Pelican Harbor | 302057 | [302057-pelican-harbor.json](./302057-pelican-harbor.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pestle: Volume 1 | 220238 | [220238-pestle-volume-1.json](./220238-pestle-volume-1.json) |
 | Pet | 240170 | [240170-pet.json](./240170-pet.json) |
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
+| Pet Adoption Center | 122470 | [122470-pet-adoption-center.json](./122470-pet-adoption-center.json) |
 | Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
 | Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
 | Pet Cam | 319272 | [319272-pet-cam.json](./319272-pet-cam.json) |
@@ -7615,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breaker VI | 147356 | [147356-pinball-breaker-vi.json](./147356-pinball-breaker-vi.json) |
 | Pinball Breakout | 57322 | [57322-pinball-breakout.json](./57322-pinball-breakout.json) |
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
+| Pinball Breakout 3 | 122472 | [122472-pinball-breakout-3.json](./122472-pinball-breakout-3.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Builder: A Construction Kit for Windows | 71134 | [71134-pinball-builder-a-construction-kit-for-windows.json](./71134-pinball-builder-a-construction-kit-for-windows.json) |
 | Pinball by Kotai | 252651 | [252651-pinball-by-kotai.json](./252651-pinball-by-kotai.json) |
@@ -8273,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipp vs Flupp | 368257 | [368257-pipp-vs-flupp.json](./368257-pipp-vs-flupp.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
 | Pippa Funnell 2 | 49461 | [49461-pippa-funnell-2.json](./49461-pippa-funnell-2.json) |
+| Pippa Funnell 2: Farm Adventures | 122497 | [122497-pippa-funnell-2-farm-adventures.json](./122497-pippa-funnell-2-farm-adventures.json) |
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
 | Pippa Funnell: Ranch Rescue | 284231 | [284231-pippa-funnell-ranch-rescue.json](./284231-pippa-funnell-ranch-rescue.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
@@ -16067,6 +16071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
 | Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
 | Princess Farmer | 134882 | [134882-princess-farmer.json](./134882-princess-farmer.json) |
+| Princess Guard | 122494 | [122494-princess-guard.json](./122494-princess-guard.json) |
 | Princess Hit! | 125071 | [125071-princess-hit.json](./125071-princess-hit.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
 | Princess hunter | 216544 | [216544-princess-hunter.json](./216544-princess-hunter.json) |
