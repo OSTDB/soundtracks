@@ -8448,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot | 312943 | [312943-bigfoot.json](./312943-bigfoot.json) |
 | Bigfoot | 31851 | [31851-bigfoot.json](./31851-bigfoot.json) |
 | Bigfoot | 377823 | [377823-bigfoot.json](./377823-bigfoot.json) |
+| Bigfoot Blood Trap | 158800 | [158800-bigfoot-blood-trap.json](./158800-bigfoot-blood-trap.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
 | Bigfoot Evolution: French Classics | 60032 | [60032-bigfoot-evolution-french-classics.json](./60032-bigfoot-evolution-french-classics.json) |
 | BigFoot Finding | 95744 | [95744-bigfoot-finding.json](./95744-bigfoot-finding.json) |
@@ -9399,6 +9400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishook. | 250117 | [250117-bishook.json](./250117-bishook.json) |
 | Bishoujo Battle Cyber Panic! | 144501 | [144501-bishoujo-battle-cyber-panic.json](./144501-bishoujo-battle-cyber-panic.json) |
 | Bishoujo Battle Hanafuda Koi-Koi | 133146 | [133146-bishoujo-battle-hanafuda-koi-koi.json](./133146-bishoujo-battle-hanafuda-koi-koi.json) |
+| Bishoujo Battle Mahjong Solitaire | 158789 | [158789-bishoujo-battle-mahjong-solitaire.json](./158789-bishoujo-battle-mahjong-solitaire.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
 | Bishoujo Control | 41253 | [41253-bishoujo-control.json](./41253-bishoujo-control.json) |
 | Bishoujo Hanafuda Club Vol.1: Oichokabu-hen | 41280 | [41280-bishoujo-hanafuda-club-vol-1-oichokabu-hen.json](./41280-bishoujo-hanafuda-club-vol-1-oichokabu-hen.json) |
