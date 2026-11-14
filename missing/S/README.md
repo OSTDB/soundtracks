@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Network Taisen Mahjong MJ3 | 165300 | [165300-sega-network-taisen-mahjong-mj3.json](./165300-sega-network-taisen-mahjong-mj3.json) |
 | Sega Network Taisen Mahjong MJ4 | 165395 | [165395-sega-network-taisen-mahjong-mj4.json](./165395-sega-network-taisen-mahjong-mj4.json) |
 | Sega Ninja | 38634 | [38634-sega-ninja.json](./38634-sega-ninja.json) |
+| Sega Pocket Club Manager | 102430 | [102430-sega-pocket-club-manager.json](./102430-sega-pocket-club-manager.json) |
 | Sega Puzzle Pack | 56839 | [56839-sega-puzzle-pack.json](./56839-sega-puzzle-pack.json) |
 | Sega Race TV | 19523 | [19523-sega-race-tv.json](./19523-sega-race-tv.json) |
 | Sega Raceway | 198636 | [198636-sega-raceway.json](./198636-sega-raceway.json) |
@@ -6163,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
+| Sense: A Cyberpunk Ghost Story | 102421 | [102421-sense-a-cyberpunk-ghost-story.json](./102421-sense-a-cyberpunk-ghost-story.json) |
 | Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
 | Sense: The Game | 358430 | [358430-sense-the-game.json](./358430-sense-the-game.json) |
 | Sensei, Issho ni Kitekuremasu ka? | 285876 | [285876-sensei-issho-ni-kitekuremasu-ka.json](./285876-sensei-issho-ni-kitekuremasu-ka.json) |
@@ -11927,6 +11929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | Silverfall: Complete | 155226 | [155226-silverfall-complete.json](./155226-silverfall-complete.json) |
 | Silverfall: Earth Awakening | 11353 | [11353-silverfall-earth-awakening.json](./11353-silverfall-earth-awakening.json) |
+| Silverfish DX | 102425 | [102425-silverfish-dx.json](./102425-silverfish-dx.json) |
 | SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
 | Silverio Saga Series: Artemis Package | 113205 | [113205-silverio-saga-series-artemis-package.json](./113205-silverio-saga-series-artemis-package.json) |
 | Silverio Trinity | 113204 | [113204-silverio-trinity.json](./113204-silverio-trinity.json) |
@@ -16225,6 +16228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smolitaire | 201994 | [201994-smolitaire.json](./201994-smolitaire.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoop Can't Sleep! | 175847 | [175847-smoop-cant-sleep.json](./175847-smoop-cant-sleep.json) |
+| Smoosh LAB | 102429 | [102429-smoosh-lab.json](./102429-smoosh-lab.json) |
 | Smoosh! | 117990 | [117990-smoosh.json](./117990-smoosh.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
@@ -21448,6 +21452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commanders II | 85797 | [85797-space-commanders-ii.json](./85797-space-commanders-ii.json) |
 | Space Company Simulator | 114108 | [114108-space-company-simulator.json](./114108-space-company-simulator.json) |
 | Space Company Simulator | 117891 | [117891-space-company-simulator.json](./117891-space-company-simulator.json) |
+| Space Cone | 102461 | [102461-space-cone.json](./102461-space-cone.json) |
 | Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
 | Space Conflict: Runner | 241548 | [241548-space-conflict-runner.json](./241548-space-conflict-runner.json) |
 | Space Conquest | 44133 | [44133-space-conquest.json](./44133-space-conquest.json) |
@@ -29712,6 +29717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
 | Stickman Awakens | 233185 | [233185-stickman-awakens.json](./233185-stickman-awakens.json) |
+| Stickman Backflip Killer 5 | 102470 | [102470-stickman-backflip-killer-5.json](./102470-stickman-backflip-killer-5.json) |
 | Stickman Backflip Killer zone | 89596 | [89596-stickman-backflip-killer-zone.json](./89596-stickman-backflip-killer-zone.json) |
 | Stickman Badminton | 313547 | [313547-stickman-badminton.json](./313547-stickman-badminton.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
