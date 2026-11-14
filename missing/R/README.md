@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Dungeon Sweeper | 83984 | [83984-radical-dungeon-sweeper.json](./83984-radical-dungeon-sweeper.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
 | Radical Friday | 365619 | [365619-radical-friday.json](./365619-radical-friday.json) |
+| Radical Gear | 121092 | [121092-radical-gear.json](./121092-radical-gear.json) |
 | Radical Heights | 96239 | [96239-radical-heights.json](./96239-radical-heights.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Problems | 316114 | [316114-radical-problems.json](./316114-radical-problems.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refixion | 242739 | [242739-refixion.json](./242739-refixion.json) |
 | Refixion II: Museum or Hospital | 242740 | [242740-refixion-ii-museum-or-hospital.json](./242740-refixion-ii-museum-or-hospital.json) |
 | Refixion III: The Reindeer Story | 242741 | [242741-refixion-iii-the-reindeer-story.json](./242741-refixion-iii-the-reindeer-story.json) |
+| Reflaser | 121109 | [121109-reflaser.json](./121109-reflaser.json) |
 | Reflec Beat Colette | 60820 | [60820-reflec-beat-colette.json](./60820-reflec-beat-colette.json) |
 | Reflec Beat Groovin'!! | 60819 | [60819-reflec-beat-groovin.json](./60819-reflec-beat-groovin.json) |
 | Reflec Beat Groovin'!! Upper | 395944 | [395944-reflec-beat-groovin-upper.json](./395944-reflec-beat-groovin-upper.json) |
@@ -6007,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue HQ: The Tycoon | 118670 | [118670-rescue-hq-the-tycoon.json](./118670-rescue-hq-the-tycoon.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
 | Rescue Love Revenge | 34576 | [34576-rescue-love-revenge.json](./34576-rescue-love-revenge.json) |
+| Rescue Lucy 2 | 121098 | [121098-rescue-lucy-2.json](./121098-rescue-lucy-2.json) |
 | Rescue Mael! | 185105 | [185105-rescue-mael.json](./185105-rescue-mael.json) |
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
