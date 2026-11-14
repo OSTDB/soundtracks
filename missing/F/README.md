@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
 | Factory Rally Madness | 131763 | [131763-factory-rally-madness.json](./131763-factory-rally-madness.json) |
 | Factory Reset | 359654 | [359654-factory-reset.json](./359654-factory-reset.json) |
+| Factory Runner | 138885 | [138885-factory-runner.json](./138885-factory-runner.json) |
 | Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Tower | 293011 | [293011-factory-tower.json](./293011-factory-tower.json) |
@@ -14343,6 +14344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruity Rogue | 327702 | [327702-fruity-rogue.json](./327702-fruity-rogue.json) |
 | Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
 | Frupu VR Fruit Punch | 250717 | [250717-frupu-vr-fruit-punch.json](./250717-frupu-vr-fruit-punch.json) |
+| Frustrain | 138849 | [138849-frustrain.json](./138849-frustrain.json) |
 | Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
 | Frustration Factory | 359652 | [359652-frustration-factory.json](./359652-frustration-factory.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
