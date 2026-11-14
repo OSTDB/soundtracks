@@ -2789,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
 | Neon Rage | 90333 | [90333-neon-rage.json](./90333-neon-rage.json) |
 | Neon Raiders | 363147 | [363147-neon-raiders.json](./363147-neon-raiders.json) |
+| Neon Rain | 100450 | [100450-neon-rain.json](./100450-neon-rain.json) |
 | Neon Rain | 305125 | [305125-neon-rain.json](./305125-neon-rain.json) |
 | Neon Rhythm | 359883 | [359883-neon-rhythm.json](./359883-neon-rhythm.json) |
 | Neon Rhythm Plus | 427230 | [427230-neon-rhythm-plus.json](./427230-neon-rhythm-plus.json) |
