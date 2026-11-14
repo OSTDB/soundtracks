@@ -7941,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Car: Custom Mods | 102630 | [102630-fix-my-car-custom-mods.json](./102630-fix-my-car-custom-mods.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Car: Luxury Sports Build and Race | 102631 | [102631-fix-my-car-luxury-sports-build-and-race.json](./102631-fix-my-car-luxury-sports-build-and-race.json) |
+| Fix My Car: Zombie Survival | 106197 | [106197-fix-my-car-zombie-survival.json](./106197-fix-my-car-zombie-survival.json) |
 | Fix My Cat Doc | 215572 | [215572-fix-my-cat-doc.json](./215572-fix-my-cat-doc.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Heart | 184835 | [184835-fix-my-heart.json](./184835-fix-my-heart.json) |
