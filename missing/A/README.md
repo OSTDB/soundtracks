@@ -6212,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Control | 13160 | [13160-air-control.json](./13160-air-control.json) |
 | Air Control | 136711 | [136711-air-control.json](./136711-air-control.json) |
 | Air Dash | 76691 | [76691-air-dash.json](./76691-air-dash.json) |
+| Air Dash Online | 97565 | [97565-air-dash-online.json](./97565-air-dash-online.json) |
 | Air Dash: Sky Racing Simulator | 365004 | [365004-air-dash-sky-racing-simulator.json](./365004-air-dash-sky-racing-simulator.json) |
 | Air Dasher | 198318 | [198318-air-dasher.json](./198318-air-dasher.json) |
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
@@ -10828,6 +10829,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Nieto Pole 500 | 11902 | [11902-angel-nieto-pole-500.json](./11902-angel-nieto-pole-500.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
+| Angel or Devil | 97551 | [97551-angel-or-devil.json](./97551-angel-or-devil.json) |
+| Angel or Devil 2 | 97547 | [97547-angel-or-devil-2.json](./97547-angel-or-devil-2.json) |
 | Angel Paradise Vol. 1: Sakaki Yuko - Koi no Yokan in Hollywood | 45439 | [45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json](./45439-angel-paradise-vol-1-sakaki-yuko-koi-no-yokan-in-hollywood.json) |
 | Angel Paradise Vol. 2: Yoshino Kimika - Isshoni I-ta-i in Hawaii | 45438 | [45438-angel-paradise-vol-2-yoshino-kimika-isshoni-i-ta-i-in-hawaii.json](./45438-angel-paradise-vol-2-yoshino-kimika-isshoni-i-ta-i-in-hawaii.json) |
 | Angel Pop | 274679 | [274679-angel-pop.json](./274679-angel-pop.json) |
@@ -16048,6 +16051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
+| ArmyGrid | 97580 | [97580-armygrid.json](./97580-armygrid.json) |
 | ArMystic | 415800 | [415800-armystic.json](./415800-armystic.json) |
 | ArmZ | 114075 | [114075-armz.json](./114075-armz.json) |
 | ArmZ VR | 116562 | [116562-armz-vr.json](./116562-armz-vr.json) |
