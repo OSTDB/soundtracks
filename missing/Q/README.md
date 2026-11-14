@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 2 25th Anniversary Collaborative Unit | 402807 | [402807-quake-2-25th-anniversary-collaborative-unit.json](./402807-quake-2-25th-anniversary-collaborative-unit.json) |
 | Quake 2 TC | 201187 | [201187-quake-2-tc.json](./201187-quake-2-tc.json) |
+| Quake 2: Co-Op or Die! | 94997 | [94997-quake-2-co-op-or-die.json](./94997-quake-2-co-op-or-die.json) |
 | Quake 3 Fortress | 397034 | [397034-quake-3-fortress.json](./397034-quake-3-fortress.json) |
 | Quake 3 Rally | 278874 | [278874-quake-3-rally.json](./278874-quake-3-rally.json) |
 | Quake 30th Anniversary 1024 Jam | 417228 | [417228-quake-30th-anniversary-1024-jam.json](./417228-quake-30th-anniversary-1024-jam.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quinn | 414940 | [414940-quinn.json](./414940-quinn.json) |
 | Quinn & Flynn | 272728 | [272728-quinn-and-flynn.json](./272728-quinn-and-flynn.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
+| Quinpl | 94452 | [94452-quinpl.json](./94452-quinpl.json) |
 | Quint's Revenge | 209269 | [209269-quints-revenge.json](./209269-quints-revenge.json) |
 | Quintaesencia | 156989 | [156989-quintaesencia.json](./156989-quintaesencia.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
