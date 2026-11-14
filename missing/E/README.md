@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixirs and Enigmas Bundle: Moonshine Inc. Supporter Edition + Cultist Simulator: Anthology | 331552 | [331552-elixirs-and-enigmas-bundle-moonshine-inc-supporter-edition-cultist-simulator-anthology.json](./331552-elixirs-and-enigmas-bundle-moonshine-inc-supporter-edition-cultist-simulator-anthology.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Elizabeth | 130081 | [130081-elizabeth.json](./130081-elizabeth.json) |
+| Elizabeth Find M.D. Diagnosis Mystery | 85689 | [85689-elizabeth-find-m-d-diagnosis-mystery.json](./85689-elizabeth-find-m-d-diagnosis-mystery.json) |
 | Elizabeth Find M.D.: Diagnosis Mystery - Season 2 | 14968 | [14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json](./14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json) |
 | Elizabeth's Score | 150329 | [150329-elizabeths-score.json](./150329-elizabeths-score.json) |
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Girl | 111114 | [111114-energy-girl.json](./111114-energy-girl.json) |
 | Energy Heroes | 58619 | [58619-energy-heroes.json](./58619-energy-heroes.json) |
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
+| Energy Hook | 85697 | [85697-energy-hook.json](./85697-energy-hook.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
 | Energy Island Corp. | 161581 | [161581-energy-island-corp.json](./161581-energy-island-corp.json) |
