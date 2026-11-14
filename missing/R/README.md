@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
 | Raid Auctus | 328948 | [328948-raid-auctus.json](./328948-raid-auctus.json) |
+| Raid Boss | 137165 | [137165-raid-boss.json](./137165-raid-boss.json) |
 | Raid Brigade | 58558 | [58558-raid-brigade.json](./58558-raid-brigade.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Haven | 418577 | [418577-raid-haven.json](./418577-raid-haven.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
 | Ralph's Party RPG | 200784 | [200784-ralphs-party-rpg.json](./200784-ralphs-party-rpg.json) |
+| RalphGame | 137701 | [137701-ralphgame.json](./137701-ralphgame.json) |
 | Ralsei Hwrot | 370385 | [370385-ralsei-hwrot.json](./370385-ralsei-hwrot.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
@@ -4679,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | Redline: Xtreme Air Racing 2 | 61742 | [61742-redline-xtreme-air-racing-2.json](./61742-redline-xtreme-air-racing-2.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
+| Redmatch 2 | 137704 | [137704-redmatch-2.json](./137704-redmatch-2.json) |
 | Redmoon | 71923 | [71923-redmoon.json](./71923-redmoon.json) |
 | RedMoon | 383862 | [383862-redmoon.json](./383862-redmoon.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
@@ -5347,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics of Aurelia | 322027 | [322027-relics-of-aurelia.json](./322027-relics-of-aurelia.json) |
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
+| Relics of Deldroneye | 137175 | [137175-relics-of-deldroneye.json](./137175-relics-of-deldroneye.json) |
 | Relics of Deldroneye 1.5: Return to Zantis | 137199 | [137199-relics-of-deldroneye-1-5-return-to-zantis.json](./137199-relics-of-deldroneye-1-5-return-to-zantis.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Fate: A Penny Macey Mystery | 355593 | [355593-relics-of-fate-a-penny-macey-mystery.json](./355593-relics-of-fate-a-penny-macey-mystery.json) |
@@ -10134,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
+| Rock & Roll Racing 2 | 137170 | [137170-rock-and-roll-racing-2.json](./137170-rock-and-roll-racing-2.json) |
 | Rock A Bye | 270925 | [270925-rock-a-bye.json](./270925-rock-a-bye.json) |
 | Rock and Girls | 292708 | [292708-rock-and-girls.json](./292708-rock-and-girls.json) |
 | Rock and Roll Jeopardy! | 78874 | [78874-rock-and-roll-jeopardy.json](./78874-rock-and-roll-jeopardy.json) |
@@ -13745,6 +13750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Song | 251934 | [251934-rune-song.json](./251934-rune-song.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
 | Rune Stones Quest 2 | 96401 | [96401-rune-stones-quest-2.json](./96401-rune-stones-quest-2.json) |
+| Rune Story | 137719 | [137719-rune-story.json](./137719-rune-story.json) |
 | Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
 | Rune Tales : Underground | 228838 | [228838-rune-tales-underground.json](./228838-rune-tales-underground.json) |
 | Rune Tales: The Citadel | 228828 | [228828-rune-tales-the-citadel.json](./228828-rune-tales-the-citadel.json) |
