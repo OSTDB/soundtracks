@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro T23 | 246957 | [246957-barro-t23.json](./246957-barro-t23.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
 | Barro T23: Pack #2 | 322732 | [322732-barro-t23-pack-2.json](./322732-barro-t23-pack-2.json) |
+| Barro: 2020 | 167334 | [167334-barro-2020.json](./167334-barro-2020.json) |
 | Barro: Track Pack 1 | 171162 | [171162-barro-track-pack-1.json](./171162-barro-track-pack-1.json) |
 | Barro: Track Pack 2 | 171159 | [171159-barro-track-pack-2.json](./171159-barro-track-pack-2.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
@@ -11137,6 +11138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
 | Blind Panic | 72526 | [72526-blind-panic.json](./72526-blind-panic.json) |
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
+| Blind Postman | 167341 | [167341-blind-postman.json](./167341-blind-postman.json) |
 | Blind Quest: The Enchanted Castle | 131779 | [131779-blind-quest-the-enchanted-castle.json](./131779-blind-quest-the-enchanted-castle.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
 | Blind Quest: The Ivy Queen | 295498 | [295498-blind-quest-the-ivy-queen.json](./295498-blind-quest-the-ivy-queen.json) |
@@ -16075,6 +16077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 4: Nemureru Kami no Tou | 105741 | [105741-brandish-4-nemureru-kami-no-tou.json](./105741-brandish-4-nemureru-kami-no-tou.json) |
 | Brandish: The Dark Revenant | 23806 | [23806-brandish-the-dark-revenant.json](./23806-brandish-the-dark-revenant.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
+| Brandon, You're Going to Hell! | 167748 | [167748-brandon-youre-going-to-hell.json](./167748-brandon-youre-going-to-hell.json) |
 | Brands Hatch | 55997 | [55997-brands-hatch.json](./55997-brands-hatch.json) |
 | Brane | 183261 | [183261-brane.json](./183261-brane.json) |
 | Brane: Prototype | 104586 | [104586-brane-prototype.json](./104586-brane-prototype.json) |
@@ -17121,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
 | Bridge Constructor Portal: Portal Proficiency | 155047 | [155047-bridge-constructor-portal-portal-proficiency.json](./155047-bridge-constructor-portal-portal-proficiency.json) |
 | Bridge Constructor Studio | 325559 | [325559-bridge-constructor-studio.json](./325559-bridge-constructor-studio.json) |
+| Bridge Constructor Trains: Expansion Pack | 167337 | [167337-bridge-constructor-trains-expansion-pack.json](./167337-bridge-constructor-trains-expansion-pack.json) |
 | Bridge Constructor: Medieval | 10063 | [10063-bridge-constructor-medieval.json](./10063-bridge-constructor-medieval.json) |
 | Bridge Constructor: Playground | 17098 | [17098-bridge-constructor-playground.json](./17098-bridge-constructor-playground.json) |
 | Bridge Constructor: Stunts | 26664 | [26664-bridge-constructor-stunts.json](./26664-bridge-constructor-stunts.json) |
