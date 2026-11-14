@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Studio Tycoon 2: Next Gen Developer | 103621 | [103621-game-studio-tycoon-2-next-gen-developer.json](./103621-game-studio-tycoon-2-next-gen-developer.json) |
 | Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
 | Game Tech Simulator | 359153 | [359153-game-tech-simulator.json](./359153-game-tech-simulator.json) |
+| Game Tengoku Cruisin Mix Special | 112414 | [112414-game-tengoku-cruisin-mix-special.json](./112414-game-tengoku-cruisin-mix-special.json) |
 | Game Tengoku CruisinMix Special: Clarice | 155341 | [155341-game-tengoku-cruisinmix-special-clarice.json](./155341-game-tengoku-cruisinmix-special-clarice.json) |
 | Game Tengoku CruisinMix Special: Homura Banto | 172287 | [172287-game-tengoku-cruisinmix-special-homura-banto.json](./172287-game-tengoku-cruisinmix-special-homura-banto.json) |
 | Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
@@ -5089,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls und Panzer: Atsumare! Minna no Sensha-dou | 208242 | [208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json](./208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json) |
 | Girls und Panzer: Dream Tank Match | 54539 | [54539-girls-und-panzer-dream-tank-match.json](./54539-girls-und-panzer-dream-tank-match.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
+| Girls und Panzer: Dream Tank Match DX | 112413 | [112413-girls-und-panzer-dream-tank-match-dx.json](./112413-girls-und-panzer-dream-tank-match-dx.json) |
 | Girls und Panzer: Senshado, Kiwamemasu! | 42699 | [42699-girls-und-panzer-senshado-kiwamemasu.json](./42699-girls-und-panzer-senshado-kiwamemasu.json) |
 | Girls und Panzer: Senshadou Daisakusen! | 208236 | [208236-girls-und-panzer-senshadou-daisakusen.json](./208236-girls-und-panzer-senshadou-daisakusen.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
@@ -10963,6 +10965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow School | 406794 | [406794-grow-school.json](./406794-grow-school.json) |
+| Grow Stone Online | 112562 | [112562-grow-stone-online.json](./112562-grow-stone-online.json) |
 | Grow Survivor - Dead Survival | 96822 | [96822-grow-survivor-dead-survival.json](./96822-grow-survivor-dead-survival.json) |
 | Grow the Hell up by Dusty Lane | 199555 | [199555-grow-the-hell-up-by-dusty-lane.json](./199555-grow-the-hell-up-by-dusty-lane.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
