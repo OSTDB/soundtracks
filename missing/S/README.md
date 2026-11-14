@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scoot Scoot | 180469 | [180469-scoot-scoot.json](./180469-scoot-scoot.json) |
 | Scooter Boy | 238389 | [238389-scooter-boy.json](./238389-scooter-boy.json) |
+| Scooter Freestyle Extreme 3D | 90875 | [90875-scooter-freestyle-extreme-3d.json](./90875-scooter-freestyle-extreme-3d.json) |
 | Scooter Rush | 235112 | [235112-scooter-rush.json](./235112-scooter-rush.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
@@ -8244,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
 | ShapeRockets | 31196 | [31196-shaperockets.json](./31196-shaperockets.json) |
 | Shaperoid | 105503 | [105503-shaperoid.json](./105503-shaperoid.json) |
+| Shapes | 91001 | [91001-shapes.json](./91001-shapes.json) |
 | Shapes 'N' Mates | 128831 | [128831-shapes-n-mates.json](./128831-shapes-n-mates.json) |
 | Shapes & Colors Farm Puzzles | 175095 | [175095-shapes-and-colors-farm-puzzles.json](./175095-shapes-and-colors-farm-puzzles.json) |
 | Shapes & Colors Learning: Free Toddler Kids Games | 89822 | [89822-shapes-and-colors-learning-free-toddler-kids-games.json](./89822-shapes-and-colors-learning-free-toddler-kids-games.json) |
@@ -8853,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shenmue III: Digital Deluxe Edition | 119897 | [119897-shenmue-iii-digital-deluxe-edition.json](./119897-shenmue-iii-digital-deluxe-edition.json) |
 | Shenmue III: Story Quest Pack | 155219 | [155219-shenmue-iii-story-quest-pack.json](./155219-shenmue-iii-story-quest-pack.json) |
+| Shenmue Online | 91465 | [91465-shenmue-online.json](./91465-shenmue-online.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | Shénqiāng Shàonǚ | 129918 | [129918-shenqiang-shaonu.json](./129918-shenqiang-shaonu.json) |
@@ -12302,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Ball: Extended Edition | 32406 | [32406-simple-ball-extended-edition.json](./32406-simple-ball-extended-edition.json) |
 | Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
+| Simple Brickout | 90880 | [90880-simple-brickout.json](./90880-simple-brickout.json) |
 | Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi | 203131 | [203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json](./203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json) |
 | Simple Characters 2000 Series Vol. 02: Afro Ken - The Puzzle | 58588 | [58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json](./58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
@@ -15849,6 +15853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Baby Rattle | 89123 | [89123-smart-baby-rattle.json](./89123-smart-baby-rattle.json) |
 | Smart Baby Shapes | 88908 | [88908-smart-baby-shapes.json](./88908-smart-baby-shapes.json) |
+| Smart Baby Shapes: Food | 90961 | [90961-smart-baby-shapes-food.json](./90961-smart-baby-shapes-food.json) |
 | Smart Baby Sorter 2 | 88815 | [88815-smart-baby-sorter-2.json](./88815-smart-baby-sorter-2.json) |
 | Smart Baby Sorter HD | 88918 | [88918-smart-baby-sorter-hd.json](./88918-smart-baby-sorter-hd.json) |
 | Smart Bomb | 72930 | [72930-smart-bomb.json](./72930-smart-bomb.json) |
@@ -29675,6 +29680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
+| Stick Man: Helping Santa | 90968 | [90968-stick-man-helping-santa.json](./90968-stick-man-helping-santa.json) |
 | Stick Match | 185219 | [185219-stick-match.json](./185219-stick-match.json) |
 | Stick Match 2 | 179439 | [179439-stick-match-2.json](./179439-stick-match-2.json) |
 | Stick Mountain | 412503 | [412503-stick-mountain.json](./412503-stick-mountain.json) |
