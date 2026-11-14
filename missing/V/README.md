@@ -4618,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Kaboom | 96847 | [96847-vroom-kaboom.json](./96847-vroom-kaboom.json) |
 | Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
+| Vroom Vroom Bundle! | 96360 | [96360-vroom-vroom-bundle.json](./96360-vroom-vroom-bundle.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
 | Vroom: Aerie | 19052 | [19052-vroom-aerie.json](./19052-vroom-aerie.json) |
 | Vroom: Galleon | 34188 | [34188-vroom-galleon.json](./34188-vroom-galleon.json) |
