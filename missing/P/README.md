@@ -16560,6 +16560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2017 | 37385 | [37385-pro-cycling-manager-2017.json](./37385-pro-cycling-manager-2017.json) |
 | Pro Cycling Manager 2018 | 103062 | [103062-pro-cycling-manager-2018.json](./103062-pro-cycling-manager-2018.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
+| Pro Cycling Manager 2020 | 132335 | [132335-pro-cycling-manager-2020.json](./132335-pro-cycling-manager-2020.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
 | Pro Cycling Manager 2022 | 194715 | [194715-pro-cycling-manager-2022.json](./194715-pro-cycling-manager-2022.json) |
 | Pro Cycling Manager 2023 | 241245 | [241245-pro-cycling-manager-2023.json](./241245-pro-cycling-manager-2023.json) |
@@ -18884,6 +18885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchitto Rock Shooter: Pursue the Mystery of the Sexy Planet | 324802 | [324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json](./324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json) |
 | Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
+| Puck Buddies | 132296 | [132296-puck-buddies.json](./132296-puck-buddies.json) |
 | Puck Man | 223117 | [223117-puck-man.json](./223117-puck-man.json) |
 | Puck Monster | 218767 | [218767-puck-monster.json](./218767-puck-monster.json) |
 | Puck Off | 67768 | [67768-puck-off.json](./67768-puck-off.json) |
