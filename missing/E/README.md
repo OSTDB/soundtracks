@@ -6802,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Return: Character Bundle 1 | 225947 | [225947-eternal-return-character-bundle-1.json](./225947-eternal-return-character-bundle-1.json) |
 | Eternal Return: Character Bundle 2 | 225948 | [225948-eternal-return-character-bundle-2.json](./225948-eternal-return-character-bundle-2.json) |
 | Eternal Return: Character Pack | 197473 | [197473-eternal-return-character-pack.json](./197473-eternal-return-character-pack.json) |
+| Eternal Rhapsody | 117196 | [117196-eternal-rhapsody.json](./117196-eternal-rhapsody.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rising | 244175 | [244175-eternal-rising.json](./244175-eternal-rising.json) |
 | Eternal Roadster | 244097 | [244097-eternal-roadster.json](./244097-eternal-roadster.json) |
