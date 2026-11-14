@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Wars: Anniversary Edition | 75588 | [75588-tank-wars-anniversary-edition.json](./75588-tank-wars-anniversary-edition.json) |
 | Tank Warz | 343487 | [343487-tank-warz.json](./343487-tank-warz.json) |
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
+| Tank You | 108534 | [108534-tank-you.json](./108534-tank-you.json) |
 | Tank Zero | 372050 | [372050-tank-zero.json](./372050-tank-zero.json) |
 | Tank Zombie Smasher | 156209 | [156209-tank-zombie-smasher.json](./156209-tank-zombie-smasher.json) |
 | Tank-a-Boom | 419746 | [419746-tank-a-boom.json](./419746-tank-a-boom.json) |
@@ -16182,6 +16183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlived | 108658 | [108658-the-outlived.json](./108658-the-outlived.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
+| The Outpost Nine: Episode 1 | 109084 | [109084-the-outpost-nine-episode-1.json](./109084-the-outpost-nine-episode-1.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
 | The Outsider | 370069 | [370069-the-outsider.json](./370069-the-outsider.json) |
@@ -34745,6 +34747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolls and Tribulations: Omega | 178554 | [178554-trolls-and-tribulations-omega.json](./178554-trolls-and-tribulations-omega.json) |
 | Trolls de Troy: La Cité de la mort rose | 388737 | [388737-trolls-de-troy-la-cite-de-la-mort-rose.json](./388737-trolls-de-troy-la-cite-de-la-mort-rose.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
+| Trolls Smash | 109076 | [109076-trolls-smash.json](./109076-trolls-smash.json) |
 | Trolls Vs. Vikings 2 | 114620 | [114620-trolls-vs-vikings-2.json](./114620-trolls-vs-vikings-2.json) |
 | Trolls vs. Vikings: Reborn | 331285 | [331285-trolls-vs-vikings-reborn.json](./331285-trolls-vs-vikings-reborn.json) |
 | Trollskog | 24834 | [24834-trollskog.json](./24834-trollskog.json) |
