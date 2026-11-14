@@ -11173,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
 | Clazer | 31035 | [31035-clazer.json](./31035-clazer.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
+| Clea 2 | 139516 | [139516-clea-2.json](./139516-clea-2.json) |
 | Clea: Complete Collection | 225417 | [225417-clea-complete-collection.json](./225417-clea-complete-collection.json) |
 | Clean Adventure | 185273 | [185273-clean-adventure.json](./185273-clean-adventure.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
@@ -22561,6 +22562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Doll | 71716 | [71716-cyber-doll.json](./71716-cyber-doll.json) |
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
+| Cyber Drak-Cools-Yas From Mars: Rat and Bat. Love and Hate. | 140077 | [140077-cyber-drak-cools-yas-from-mars-rat-and-bat-love-and-hate.json](./140077-cyber-drak-cools-yas-from-mars-rat-and-bat-love-and-hate.json) |
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Drift | 205857 | [205857-cyber-drift.json](./205857-cyber-drift.json) |
 | Cyber Drive | 169645 | [169645-cyber-drive.json](./169645-cyber-drive.json) |
