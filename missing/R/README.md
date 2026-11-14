@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
+| Ramses: Rise of Empire | 157728 | [157728-ramses-rise-of-empire.json](./157728-ramses-rise-of-empire.json) |
 | Ramses: Rise of Empire - Collector's Edition | 177082 | [177082-ramses-rise-of-empire-collectors-edition.json](./177082-ramses-rise-of-empire-collectors-edition.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Ramshackle.Exe | 289294 | [289294-ramshackle-exe.json](./289294-ramshackle-exe.json) |
@@ -6014,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Magnetic Storm | 247225 | [247225-rescue-team-magnetic-storm.json](./247225-rescue-team-magnetic-storm.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
+| Rescue Team: Planet Savers | 157735 | [157735-rescue-team-planet-savers.json](./157735-rescue-team-planet-savers.json) |
 | Rescue Team: Power Eaters | 188860 | [188860-rescue-team-power-eaters.json](./188860-rescue-team-power-eaters.json) |
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
 | Rescue the Enchanter | 87270 | [87270-rescue-the-enchanter.json](./87270-rescue-the-enchanter.json) |
