@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
+| Ohio John: Get Out! | 165790 | [165790-ohio-john-get-out.json](./165790-ohio-john-get-out.json) |
 | Ohka Bots | 233831 | [233831-ohka-bots.json](./233831-ohka-bots.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
 | OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
