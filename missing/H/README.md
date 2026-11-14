@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
 | Heading Out | 154290 | [154290-heading-out.json](./154290-heading-out.json) |
+| Headland | 100440 | [100440-headland.json](./100440-headland.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headless Chicken | 260503 | [260503-headless-chicken.json](./260503-headless-chicken.json) |
 | Headless D | 223629 | [223629-headless-d.json](./223629-headless-d.json) |
@@ -9500,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hlína | 335501 | [335501-hlina.json](./335501-hlina.json) |
 | Hlípa | 131414 | [131414-hlipa.json](./131414-hlipa.json) |
 | Hljod | 235919 | [235919-hljod.json](./235919-hljod.json) |
+| Hmmsim 2: Train Simulator | 101134 | [101134-hmmsim-2-train-simulator.json](./101134-hmmsim-2-train-simulator.json) |
 | Hmmsim Metro | 149786 | [149786-hmmsim-metro.json](./149786-hmmsim-metro.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
 | HMS Marulken | 20995 | [20995-hms-marulken.json](./20995-hms-marulken.json) |
@@ -9531,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
 | Hobbs Home | 169871 | [169871-hobbs-home.json](./169871-hobbs-home.json) |
+| Hobby Farm | 101148 | [101148-hobby-farm.json](./101148-hobby-farm.json) |
 | Hobby Farm Free | 87072 | [87072-hobby-farm-free.json](./87072-hobby-farm-free.json) |
 | Hobby Horse | 345790 | [345790-hobby-horse.json](./345790-hobby-horse.json) |
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
