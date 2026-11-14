@@ -2785,6 +2785,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East Arcade 1 | 149290 | [149290-data-east-arcade-1.json](./149290-data-east-arcade-1.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
 | Data East Arcade Classics | 4793 | [4793-data-east-arcade-classics.json](./4793-data-east-arcade-classics.json) |
+| Data East Arcade Collection #1 | 155216 | [155216-data-east-arcade-collection-1.json](./155216-data-east-arcade-collection-1.json) |
+| Data East Arcade Pack #1 | 155215 | [155215-data-east-arcade-pack-1.json](./155215-data-east-arcade-pack-1.json) |
+| Data East Co-op Pack #1 | 155214 | [155214-data-east-co-op-pack-1.json](./155214-data-east-co-op-pack-1.json) |
 | Data East Collection 1 | 130815 | [130815-data-east-collection-1.json](./130815-data-east-collection-1.json) |
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
