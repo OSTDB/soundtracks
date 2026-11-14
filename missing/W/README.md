@@ -5984,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildKids | 113560 | [113560-wildkids.json](./113560-wildkids.json) |
 | Wildkins | 263725 | [263725-wildkins.json](./263725-wildkins.json) |
 | Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
+| Wildland Animal Hunting | 104304 | [104304-wildland-animal-hunting.json](./104304-wildland-animal-hunting.json) |
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
 | Wildlands | 265559 | [265559-wildlands.json](./265559-wildlands.json) |
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Farm Adventure | 154793 | [154793-word-farm-adventure.json](./154793-word-farm-adventure.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
+| Word Fire | 104310 | [104310-word-fire.json](./104310-word-fire.json) |
 | Word Flowers | 87481 | [87481-word-flowers.json](./87481-word-flowers.json) |
 | Word Flyer | 367714 | [367714-word-flyer.json](./367714-word-flyer.json) |
 | Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
