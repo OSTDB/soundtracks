@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Kingmaker - Noble Edition | 210942 | [210942-pathfinder-kingmaker-noble-edition.json](./210942-pathfinder-kingmaker-noble-edition.json) |
 | Pathfinder: Kingmaker - Royal Ascension | 134569 | [134569-pathfinder-kingmaker-royal-ascension.json](./134569-pathfinder-kingmaker-royal-ascension.json) |
 | Pathfinder: Kingmaker - Royal Edition | 210943 | [210943-pathfinder-kingmaker-royal-edition.json](./210943-pathfinder-kingmaker-royal-edition.json) |
+| Pathfinder: Kingmaker - Special Edition | 144424 | [144424-pathfinder-kingmaker-special-edition.json](./144424-pathfinder-kingmaker-special-edition.json) |
 | Pathfinder: Kingmaker - The Wildcards | 124972 | [124972-pathfinder-kingmaker-the-wildcards.json](./124972-pathfinder-kingmaker-the-wildcards.json) |
 | Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous | 127254 | [127254-pathfinder-wrath-of-the-righteous.json](./127254-pathfinder-wrath-of-the-righteous.json) |
@@ -6599,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Your Poison | 126789 | [126789-pick-your-poison.json](./126789-pick-your-poison.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick-a-Pocket | 257696 | [257696-pick-a-pocket.json](./257696-pick-a-pocket.json) |
+| Pick-up League Hockey | 144441 | [144441-pick-up-league-hockey.json](./144441-pick-up-league-hockey.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Picka: 30 Days to Love | 199215 | [199215-picka-30-days-to-love.json](./199215-picka-30-days-to-love.json) |
 | Pickaxe Friends | 258678 | [258678-pickaxe-friends.json](./258678-pickaxe-friends.json) |
@@ -9581,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
 | Pixelord | 74657 | [74657-pixelord.json](./74657-pixelord.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
+| Pixelot | 144437 | [144437-pixelot.json](./144437-pixelot.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | PixelPlanet.fun | 125561 | [125561-pixelplanet-fun.json](./125561-pixelplanet-fun.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
@@ -13542,6 +13545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pom-Bar: Weltenbauer | 330361 | [330361-pom-bar-weltenbauer.json](./330361-pom-bar-weltenbauer.json) |
 | Pom-Bear Interactive CD | 330358 | [330358-pom-bear-interactive-cd.json](./330358-pom-bear-interactive-cd.json) |
 | Pomberito | 286078 | [286078-pomberito.json](./286078-pomberito.json) |
+| Pombero: The Lord of the Night | 144445 | [144445-pombero-the-lord-of-the-night.json](./144445-pombero-the-lord-of-the-night.json) |
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
 | Pombo Piorado 2 | 278869 | [278869-pombo-piorado-2.json](./278869-pombo-piorado-2.json) |
 | Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
@@ -17630,6 +17634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Orpheus | 119264 | [119264-project-orpheus.json](./119264-project-orpheus.json) |
 | Project Osiris: Alien Breed 3D | 165467 | [165467-project-osiris-alien-breed-3d.json](./165467-project-osiris-alien-breed-3d.json) |
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
+| Project OutFox | 144430 | [144430-project-outfox.json](./144430-project-outfox.json) |
 | Project Overdrive | 186140 | [186140-project-overdrive.json](./186140-project-overdrive.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
