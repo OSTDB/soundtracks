@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yestertide | 224416 | [224416-yestertide.json](./224416-yestertide.json) |
 | Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
 | Yet Another Climbing Game | 323422 | [323422-yet-another-climbing-game.json](./323422-yet-another-climbing-game.json) |
+| Yet Another Exhausted Day | 111286 | [111286-yet-another-exhausted-day.json](./111286-yet-another-exhausted-day.json) |
 | Yet Another Exhausting Day | 106278 | [106278-yet-another-exhausting-day.json](./106278-yet-another-exhausting-day.json) |
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
 | Yet Another FireRed Hack | 377801 | [377801-yet-another-firered-hack.json](./377801-yet-another-firered-hack.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuza | 188779 | [188779-yuza.json](./188779-yuza.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
 | Yuzi Lims: anime runner | 81961 | [81961-yuzi-lims-anime-runner.json](./81961-yuzi-lims-anime-runner.json) |
+| Yuzi Lims: Hentai | 111109 | [111109-yuzi-lims-hentai.json](./111109-yuzi-lims-hentai.json) |
 | Yuzi Lims: Puzzle | 173862 | [173862-yuzi-lims-puzzle.json](./173862-yuzi-lims-puzzle.json) |
 | Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
 | Yves: Crazy Student | 327967 | [327967-yves-crazy-student.json](./327967-yves-crazy-student.json) |
