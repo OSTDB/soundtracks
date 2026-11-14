@@ -11095,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
 | Bleeding Neon | 184764 | [184764-bleeding-neon.json](./184764-bleeding-neon.json) |
 | Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
+| Bleeding Sun | 104920 | [104920-bleeding-sun.json](./104920-bleeding-sun.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleemcast! for Tekken 3 | 398277 | [398277-bleemcast-for-tekken-3.json](./398277-bleemcast-for-tekken-3.json) |
 | Bleentoro | 100942 | [100942-bleentoro.json](./100942-bleentoro.json) |
@@ -15366,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound | 145795 | [145795-bound.json](./145795-bound.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
+| Bound By | 105460 | [105460-bound-by.json](./105460-bound-by.json) |
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
 | Bound By Blades | 106680 | [106680-bound-by-blades.json](./106680-bound-by-blades.json) |
 | Bound By Blood | 140545 | [140545-bound-by-blood.json](./140545-bound-by-blood.json) |
