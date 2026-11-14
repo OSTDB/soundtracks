@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanisan Shooting Game | 296013 | [296013-wanisan-shooting-game.json](./296013-wanisan-shooting-game.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
 | Wanko Mix | 287433 | [287433-wanko-mix.json](./287433-wanko-mix.json) |
+| Wanko of Marriage: Welcome to the Dog's Tail! | 132891 | [132891-wanko-of-marriage-welcome-to-the-dogs-tail.json](./132891-wanko-of-marriage-welcome-to-the-dogs-tail.json) |
 | Wanko to Asobou! Mezase Dog Trainer! | 285664 | [285664-wanko-to-asobou-mezase-dog-trainer.json](./285664-wanko-to-asobou-mezase-dog-trainer.json) |
 | Wanko Wanko Adventure | 336969 | [336969-wanko-wanko-adventure.json](./336969-wanko-wanko-adventure.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
