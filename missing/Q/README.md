@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Replica | 32642 | [32642-quantum-replica.json](./32642-quantum-replica.json) |
 | Quantum Resonance | 350930 | [350930-quantum-resonance.json](./350930-quantum-resonance.json) |
 | Quantum Retribution | 111235 | [111235-quantum-retribution.json](./111235-quantum-retribution.json) |
+| Quantum Revenge | 93856 | [93856-quantum-revenge.json](./93856-quantum-revenge.json) |
 | Quantum Robot | 68445 | [68445-quantum-robot.json](./68445-quantum-robot.json) |
 | Quantum Ruins | 182077 | [182077-quantum-ruins.json](./182077-quantum-ruins.json) |
 | Quantum Runners | 151006 | [151006-quantum-runners.json](./151006-quantum-runners.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Golf | 288371 | [288371-quick-golf.json](./288371-quick-golf.json) |
 | Quick Hit Slots | 308028 | [308028-quick-hit-slots.json](./308028-quick-hit-slots.json) |
+| Quick Jumps! | 93878 | [93878-quick-jumps.json](./93878-quick-jumps.json) |
 | Quick Mafs | 178307 | [178307-quick-mafs.json](./178307-quick-mafs.json) |
 | Quick Mafs Advanced | 193731 | [193731-quick-mafs-advanced.json](./193731-quick-mafs-advanced.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
