@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Maaaaath! | 418879 | [418879-maaaaath.json](./418879-maaaaath.json) |
+| Maabus | 93258 | [93258-maabus.json](./93258-maabus.json) |
 | Maanu: Academic Version | 254908 | [254908-maanu-academic-version.json](./254908-maanu-academic-version.json) |
 | Maat | 58415 | [58415-maat.json](./58415-maat.json) |
 | Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
@@ -16184,6 +16185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
 | Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen | 146602 | [146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
 | Mobile Train Simulator: Keisei Toei Asakusa Keikyu-sen | 91801 | [91801-mobile-train-simulator-keisei-toei-asakusa-keikyu-sen.json](./91801-mobile-train-simulator-keisei-toei-asakusa-keikyu-sen.json) |
+| Mobile Warfare | 93256 | [93256-mobile-warfare.json](./93256-mobile-warfare.json) |
 | Mobile Wars X | 113875 | [113875-mobile-wars-x.json](./113875-mobile-wars-x.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobile Zombie | 56637 | [56637-mobile-zombie.json](./56637-mobile-zombie.json) |
@@ -17162,6 +17164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys & Dragons | 110922 | [110922-monkeys-and-dragons.json](./110922-monkeys-and-dragons.json) |
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
 | Monkeys Ahoy | 105478 | [105478-monkeys-ahoy.json](./105478-monkeys-ahoy.json) |
+| Monkeys Odyssey | 93263 | [93263-monkeys-odyssey.json](./93263-monkeys-odyssey.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monkeys With Guns | 177414 | [177414-monkeys-with-guns.json](./177414-monkeys-with-guns.json) |
 | Monkeys!! | 179506 | [179506-monkeys.json](./179506-monkeys.json) |
