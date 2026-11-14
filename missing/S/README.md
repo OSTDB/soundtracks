@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage Op | 30336 | [30336-salvage-op.json](./30336-salvage-op.json) |
 | Salvage Protocol | 342544 | [342544-salvage-protocol.json](./342544-salvage-protocol.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
+| Salvage Solitude 8140 | 134729 | [134729-salvage-solitude-8140.json](./134729-salvage-solitude-8140.json) |
 | Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
 | Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
 | Salvage Yard Simulator | 129888 | [129888-salvage-yard-simulator.json](./129888-salvage-yard-simulator.json) |
@@ -5857,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
 | Self: Where's My Father | 164740 | [164740-self-wheres-my-father.json](./164740-self-wheres-my-father.json) |
+| Self.destroy() | 134736 | [134736-self-destroy.json](./134736-self-destroy.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games [TV]: Party Game | 105494 | [105494-selfie-games-tv-party-game.json](./105494-selfie-games-tv-party-game.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
@@ -16262,6 +16264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
 | SMW The Princess Rescue 3: The Turnabout | 261124 | [261124-smw-the-princess-rescue-3-the-turnabout.json](./261124-smw-the-princess-rescue-3-the-turnabout.json) |
 | SMW: Gaiden | 260810 | [260810-smw-gaiden.json](./260810-smw-gaiden.json) |
+| SMW2+ | 134750 | [134750-smw2.json](./134750-smw2.json) |
+| SMW2+2 | 134749 | [134749-smw2-2.json](./134749-smw2-2.json) |
 | SMW2+3: The Essence Star | 268099 | [268099-smw2-3-the-essence-star.json](./268099-smw2-3-the-essence-star.json) |
 | SMWC Island | 269703 | [269703-smwc-island.json](./269703-smwc-island.json) |
 | SMWLV | 267974 | [267974-smwlv.json](./267974-smwlv.json) |
@@ -18784,6 +18788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonar Scout | 319043 | [319043-sonar-scout.json](./319043-sonar-scout.json) |
 | Sonar Shock | 280376 | [280376-sonar-shock.json](./280376-sonar-shock.json) |
+| Sonar Smash | 134737 | [134737-sonar-smash.json](./134737-sonar-smash.json) |
 | Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
 | Sonata | 383787 | [383787-sonata.json](./383787-sonata.json) |
 | Sonata of Y | 412750 | [412750-sonata-of-y.json](./412750-sonata-of-y.json) |
@@ -28140,6 +28145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Commander | 311532 | [311532-stars-commander.json](./311532-stars-commander.json) |
+| Stars Die | 134715 | [134715-stars-die.json](./134715-stars-die.json) |
 | Stars End | 76288 | [76288-stars-end.json](./76288-stars-end.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
 | Stars Era: Lost Stars | 128238 | [128238-stars-era-lost-stars.json](./128238-stars-era-lost-stars.json) |
@@ -29983,6 +29989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneAge M | 109138 | [109138-stoneage-m.json](./109138-stoneage-m.json) |
 | StoneBack | 180032 | [180032-stoneback.json](./180032-stoneback.json) |
 | StoneBack \| Prehistory | 32067 | [32067-stoneback-prehistory.json](./32067-stoneback-prehistory.json) |
+| Stoneblade | 134713 | [134713-stoneblade.json](./134713-stoneblade.json) |
 | Stonebond: The Gargoyle's Domain | 31420 | [31420-stonebond-the-gargoyles-domain.json](./31420-stonebond-the-gargoyles-domain.json) |
 | Stoneborn | 401028 | [401028-stoneborn.json](./401028-stoneborn.json) |
 | Stonebot Adventures | 154433 | [154433-stonebot-adventures.json](./154433-stonebot-adventures.json) |
@@ -34490,6 +34497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Health Club | 191533 | [191533-super-health-club.json](./191533-super-health-club.json) |
 | Super Heavy Sword | 61134 | [61134-super-heavy-sword.json](./61134-super-heavy-sword.json) |
 | Super Helmets on Fire DX Ultra Edition Plus Alpha | 33863 | [33863-super-helmets-on-fire-dx-ultra-edition-plus-alpha.json](./33863-super-helmets-on-fire-dx-ultra-edition-plus-alpha.json) |
+| Super HelmKnight | 134719 | [134719-super-helmknight.json](./134719-super-helmknight.json) |
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
 | Super Hentai Puzzle | 375135 | [375135-super-hentai-puzzle.json](./375135-super-hentai-puzzle.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
@@ -35534,6 +35542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
 | Super Mario: Battle for the Mushroom Kingdom | 318457 | [318457-super-mario-battle-for-the-mushroom-kingdom.json](./318457-super-mario-battle-for-the-mushroom-kingdom.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
+| Super Mario: Blue Twilight DX | 134746 | [134746-super-mario-blue-twilight-dx.json](./134746-super-mario-blue-twilight-dx.json) |
 | Super Mario: Bob-omb Blast | 313419 | [313419-super-mario-bob-omb-blast.json](./313419-super-mario-bob-omb-blast.json) |
 | Super Mario: Christmas Season | 268396 | [268396-super-mario-christmas-season.json](./268396-super-mario-christmas-season.json) |
 | Super Mario: Dark Depths | 314105 | [314105-super-mario-dark-depths.json](./314105-super-mario-dark-depths.json) |
