@@ -16745,6 +16745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Doggie | 382487 | [382487-sneaky-doggie.json](./382487-sneaky-doggie.json) |
 | Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
 | Sneaky Forest | 221517 | [221517-sneaky-forest.json](./221517-sneaky-forest.json) |
+| Sneaky Funk | 111786 | [111786-sneaky-funk.json](./111786-sneaky-funk.json) |
 | Sneaky IT Support | 211572 | [211572-sneaky-it-support.json](./211572-sneaky-it-support.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
@@ -17209,6 +17210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
 | Snowball! | 30835 | [30835-snowball.json](./30835-snowball.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
+| Snowballed: Crazy Downhill | 111953 | [111953-snowballed-crazy-downhill.json](./111953-snowballed-crazy-downhill.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
 | Snowballs | 131221 | [131221-snowballs.json](./131221-snowballs.json) |
 | Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
@@ -25343,6 +25345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spray | 385404 | [385404-spray.json](./385404-spray.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spray Dynamite X Radioactive Insects | 111391 | [111391-spray-dynamite-x-radioactive-insects.json](./111391-spray-dynamite-x-radioactive-insects.json) |
+| Spray Girl | 111779 | [111779-spray-girl.json](./111779-spray-girl.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
 | Spray Paint Simulator | 322702 | [322702-spray-paint-simulator.json](./322702-spray-paint-simulator.json) |
 | Spray Trace | 422480 | [422480-spray-trace.json](./422480-spray-trace.json) |
@@ -39751,6 +39754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetra's Qualifying Matches | 184325 | [184325-symmetras-qualifying-matches.json](./184325-symmetras-qualifying-matches.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
+| Symmetric | 111790 | [111790-symmetric.json](./111790-symmetric.json) |
 | Symmetrical Logic Puzzles 1000 | 322532 | [322532-symmetrical-logic-puzzles-1000.json](./322532-symmetrical-logic-puzzles-1000.json) |
 | Symmetry | 30988 | [30988-symmetry.json](./30988-symmetry.json) |
 | Symmetry - Drawing Puzzles | 101090 | [101090-symmetry-drawing-puzzles.json](./101090-symmetry-drawing-puzzles.json) |
