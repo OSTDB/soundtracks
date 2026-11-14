@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Boats | 378133 | [378133-wee-boats.json](./378133-wee-boats.json) |
 | Wee Curl | 60846 | [60846-wee-curl.json](./60846-wee-curl.json) |
+| Wee Kids Mazes | 99865 | [99865-wee-kids-mazes.json](./99865-wee-kids-mazes.json) |
 | Wee Survivors | 223274 | [223274-wee-survivors.json](./223274-wee-survivors.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
@@ -8312,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Craft | 205889 | [205889-word-craft.json](./205889-word-craft.json) |
 | Word Cross - Word Cheese | 107582 | [107582-word-cross-word-cheese.json](./107582-word-cross-word-cheese.json) |
 | Word Cross Farm: Search Games | 100655 | [100655-word-cross-farm-search-games.json](./100655-word-cross-farm-search-games.json) |
+| Word Cross: Crossword Games | 99855 | [99855-word-cross-crossword-games.json](./99855-word-cross-crossword-games.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 213689 | [213689-word-crush.json](./213689-word-crush.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
@@ -8362,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Lanes | 153749 | [153749-word-lanes.json](./153749-word-lanes.json) |
 | Word Life: Crossword puzzle | 232194 | [232194-word-life-crossword-puzzle.json](./232194-word-life-crossword-puzzle.json) |
 | Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
+| Word Link - Word Puzzle Game | 99853 | [99853-word-link-word-puzzle-game.json](./99853-word-link-word-puzzle-game.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 122627 | [122627-word-maker.json](./122627-word-maker.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
@@ -9884,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
+| Would You Rather - Social Game | 99272 | [99272-would-you-rather-social-game.json](./99272-would-you-rather-social-game.json) |
 | Would You Rather? For Adults | 108104 | [108104-would-you-rather-for-adults.json](./108104-would-you-rather-for-adults.json) |
 | Would You Rather? For Battle Royale | 106779 | [106779-would-you-rather-for-battle-royale.json](./106779-would-you-rather-for-battle-royale.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
