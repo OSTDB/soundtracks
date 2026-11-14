@@ -23796,53 +23796,101 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: A-Gun MP001 | 160329 | [160329-tiger-tank-59-i-a-gun-mp001.json](./160329-tiger-tank-59-i-a-gun-mp001.json) |
 | Tiger Tank 59 I: A-Gun MP003 | 160976 | [160976-tiger-tank-59-i-a-gun-mp003.json](./160976-tiger-tank-59-i-a-gun-mp003.json) |
 | Tiger Tank 59 I: A-Gun MP004 | 160978 | [160978-tiger-tank-59-i-a-gun-mp004.json](./160978-tiger-tank-59-i-a-gun-mp004.json) |
+| Tiger Tank 59 I: A-Gun MP005 | 160944 | [160944-tiger-tank-59-i-a-gun-mp005.json](./160944-tiger-tank-59-i-a-gun-mp005.json) |
+| Tiger Tank 59 I: A-Gun MP006 | 160961 | [160961-tiger-tank-59-i-a-gun-mp006.json](./160961-tiger-tank-59-i-a-gun-mp006.json) |
+| Tiger Tank 59 I: A-Gun MP007 | 160947 | [160947-tiger-tank-59-i-a-gun-mp007.json](./160947-tiger-tank-59-i-a-gun-mp007.json) |
+| Tiger Tank 59 I: A-Gun MP008 | 160920 | [160920-tiger-tank-59-i-a-gun-mp008.json](./160920-tiger-tank-59-i-a-gun-mp008.json) |
+| Tiger Tank 59 I: A-Gun MP009 | 160948 | [160948-tiger-tank-59-i-a-gun-mp009.json](./160948-tiger-tank-59-i-a-gun-mp009.json) |
 | Tiger Tank 59 I: A-Gun MP010 | 160473 | [160473-tiger-tank-59-i-a-gun-mp010.json](./160473-tiger-tank-59-i-a-gun-mp010.json) |
 | Tiger Tank 59 I: A-Gun MP011 | 160551 | [160551-tiger-tank-59-i-a-gun-mp011.json](./160551-tiger-tank-59-i-a-gun-mp011.json) |
+| Tiger Tank 59 I: A-Gun MP014 | 160931 | [160931-tiger-tank-59-i-a-gun-mp014.json](./160931-tiger-tank-59-i-a-gun-mp014.json) |
+| Tiger Tank 59 I: A-Gun MP015 | 160938 | [160938-tiger-tank-59-i-a-gun-mp015.json](./160938-tiger-tank-59-i-a-gun-mp015.json) |
+| Tiger Tank 59 I: A-Gun MP016 | 160963 | [160963-tiger-tank-59-i-a-gun-mp016.json](./160963-tiger-tank-59-i-a-gun-mp016.json) |
+| Tiger Tank 59 I: A-Gun MP017 | 160922 | [160922-tiger-tank-59-i-a-gun-mp017.json](./160922-tiger-tank-59-i-a-gun-mp017.json) |
 | Tiger Tank 59 I: A-Gun MP018 | 160977 | [160977-tiger-tank-59-i-a-gun-mp018.json](./160977-tiger-tank-59-i-a-gun-mp018.json) |
 | Tiger Tank 59 I: A-Gun MP019 | 160505 | [160505-tiger-tank-59-i-a-gun-mp019.json](./160505-tiger-tank-59-i-a-gun-mp019.json) |
 | Tiger Tank 59 I: A-Gun MP020 | 160530 | [160530-tiger-tank-59-i-a-gun-mp020.json](./160530-tiger-tank-59-i-a-gun-mp020.json) |
+| Tiger Tank 59 I: A-Gun MP021 | 160955 | [160955-tiger-tank-59-i-a-gun-mp021.json](./160955-tiger-tank-59-i-a-gun-mp021.json) |
+| Tiger Tank 59 I: A-Gun MP022 | 160933 | [160933-tiger-tank-59-i-a-gun-mp022.json](./160933-tiger-tank-59-i-a-gun-mp022.json) |
 | Tiger Tank 59 I: A-Gun MP023 | 160331 | [160331-tiger-tank-59-i-a-gun-mp023.json](./160331-tiger-tank-59-i-a-gun-mp023.json) |
+| Tiger Tank 59 I: A-Gun MP024 | 160932 | [160932-tiger-tank-59-i-a-gun-mp024.json](./160932-tiger-tank-59-i-a-gun-mp024.json) |
+| Tiger Tank 59 I: A-Gun MP025 | 160942 | [160942-tiger-tank-59-i-a-gun-mp025.json](./160942-tiger-tank-59-i-a-gun-mp025.json) |
+| Tiger Tank 59 I: A-Gun MP026 | 160949 | [160949-tiger-tank-59-i-a-gun-mp026.json](./160949-tiger-tank-59-i-a-gun-mp026.json) |
+| Tiger Tank 59 I: A-Gun MP027 | 160960 | [160960-tiger-tank-59-i-a-gun-mp027.json](./160960-tiger-tank-59-i-a-gun-mp027.json) |
 | Tiger Tank 59 I: A-Gun MP028 | 160362 | [160362-tiger-tank-59-i-a-gun-mp028.json](./160362-tiger-tank-59-i-a-gun-mp028.json) |
+| Tiger Tank 59 I: A-Gun MP029 | 160926 | [160926-tiger-tank-59-i-a-gun-mp029.json](./160926-tiger-tank-59-i-a-gun-mp029.json) |
 | Tiger Tank 59 I: A-Gun MP030 | 160973 | [160973-tiger-tank-59-i-a-gun-mp030.json](./160973-tiger-tank-59-i-a-gun-mp030.json) |
+| Tiger Tank 59 I: A-Gun MP031 | 160951 | [160951-tiger-tank-59-i-a-gun-mp031.json](./160951-tiger-tank-59-i-a-gun-mp031.json) |
 | Tiger Tank 59 I: A-Gun MP032 | 160968 | [160968-tiger-tank-59-i-a-gun-mp032.json](./160968-tiger-tank-59-i-a-gun-mp032.json) |
 | Tiger Tank 59 I: A-Gun MP033 | 160547 | [160547-tiger-tank-59-i-a-gun-mp033.json](./160547-tiger-tank-59-i-a-gun-mp033.json) |
 | Tiger Tank 59 I: A-Gun MP034 | 160532 | [160532-tiger-tank-59-i-a-gun-mp034.json](./160532-tiger-tank-59-i-a-gun-mp034.json) |
+| Tiger Tank 59 I: A-Gun MP035 | 160919 | [160919-tiger-tank-59-i-a-gun-mp035.json](./160919-tiger-tank-59-i-a-gun-mp035.json) |
+| Tiger Tank 59 I: A-Gun MP036 | 160930 | [160930-tiger-tank-59-i-a-gun-mp036.json](./160930-tiger-tank-59-i-a-gun-mp036.json) |
 | Tiger Tank 59 I: A-Gun MP037 | 160379 | [160379-tiger-tank-59-i-a-gun-mp037.json](./160379-tiger-tank-59-i-a-gun-mp037.json) |
+| Tiger Tank 59 I: A-Gun MP039 | 160946 | [160946-tiger-tank-59-i-a-gun-mp039.json](./160946-tiger-tank-59-i-a-gun-mp039.json) |
 | Tiger Tank 59 I: A-Gun MP040 | 238717 | [238717-tiger-tank-59-i-a-gun-mp040.json](./238717-tiger-tank-59-i-a-gun-mp040.json) |
 | Tiger Tank 59 I: A-Gun MP041 | 238517 | [238517-tiger-tank-59-i-a-gun-mp041.json](./238517-tiger-tank-59-i-a-gun-mp041.json) |
+| Tiger Tank 59 I: A-Gun MP042 | 160918 | [160918-tiger-tank-59-i-a-gun-mp042.json](./160918-tiger-tank-59-i-a-gun-mp042.json) |
+| Tiger Tank 59 I: A-Gun MP043 | 160935 | [160935-tiger-tank-59-i-a-gun-mp043.json](./160935-tiger-tank-59-i-a-gun-mp043.json) |
 | Tiger Tank 59 I: A-Gun MP044 | 160967 | [160967-tiger-tank-59-i-a-gun-mp044.json](./160967-tiger-tank-59-i-a-gun-mp044.json) |
+| Tiger Tank 59 I: A-Gun MP045 | 160929 | [160929-tiger-tank-59-i-a-gun-mp045.json](./160929-tiger-tank-59-i-a-gun-mp045.json) |
 | Tiger Tank 59 I: A-Gun MP046 | 160981 | [160981-tiger-tank-59-i-a-gun-mp046.json](./160981-tiger-tank-59-i-a-gun-mp046.json) |
 | Tiger Tank 59 I: A-Gun MP047 | 160332 | [160332-tiger-tank-59-i-a-gun-mp047.json](./160332-tiger-tank-59-i-a-gun-mp047.json) |
+| Tiger Tank 59 I: A-Gun MP048 | 160925 | [160925-tiger-tank-59-i-a-gun-mp048.json](./160925-tiger-tank-59-i-a-gun-mp048.json) |
 | Tiger Tank 59 I: A-Gun MP050 | 160975 | [160975-tiger-tank-59-i-a-gun-mp050.json](./160975-tiger-tank-59-i-a-gun-mp050.json) |
+| Tiger Tank 59 I: A-Gun MP051 | 160943 | [160943-tiger-tank-59-i-a-gun-mp051.json](./160943-tiger-tank-59-i-a-gun-mp051.json) |
 | Tiger Tank 59 I: A-Gun MP052 | 160524 | [160524-tiger-tank-59-i-a-gun-mp052.json](./160524-tiger-tank-59-i-a-gun-mp052.json) |
 | Tiger Tank 59 I: A-Gun MP053 | 160971 | [160971-tiger-tank-59-i-a-gun-mp053.json](./160971-tiger-tank-59-i-a-gun-mp053.json) |
 | Tiger Tank 59 I: A-Gun MP054 | 160965 | [160965-tiger-tank-59-i-a-gun-mp054.json](./160965-tiger-tank-59-i-a-gun-mp054.json) |
 | Tiger Tank 59 I: A-Gun MP055 | 160531 | [160531-tiger-tank-59-i-a-gun-mp055.json](./160531-tiger-tank-59-i-a-gun-mp055.json) |
+| Tiger Tank 59 I: A-Gun MP057 | 160950 | [160950-tiger-tank-59-i-a-gun-mp057.json](./160950-tiger-tank-59-i-a-gun-mp057.json) |
+| Tiger Tank 59 I: A-Gun MP058 | 160927 | [160927-tiger-tank-59-i-a-gun-mp058.json](./160927-tiger-tank-59-i-a-gun-mp058.json) |
+| Tiger Tank 59 I: A-Gun MP059 | 160957 | [160957-tiger-tank-59-i-a-gun-mp059.json](./160957-tiger-tank-59-i-a-gun-mp059.json) |
 | Tiger Tank 59 I: A-Gun MP060 | 160374 | [160374-tiger-tank-59-i-a-gun-mp060.json](./160374-tiger-tank-59-i-a-gun-mp060.json) |
 | Tiger Tank 59 I: A-Gun MP061 | 160405 | [160405-tiger-tank-59-i-a-gun-mp061.json](./160405-tiger-tank-59-i-a-gun-mp061.json) |
+| Tiger Tank 59 I: A-Gun MP062 | 160954 | [160954-tiger-tank-59-i-a-gun-mp062.json](./160954-tiger-tank-59-i-a-gun-mp062.json) |
 | Tiger Tank 59 I: A-Gun MP063 | 160398 | [160398-tiger-tank-59-i-a-gun-mp063.json](./160398-tiger-tank-59-i-a-gun-mp063.json) |
 | Tiger Tank 59 I: A-Gun MP064 | 160964 | [160964-tiger-tank-59-i-a-gun-mp064.json](./160964-tiger-tank-59-i-a-gun-mp064.json) |
 | Tiger Tank 59 I: A-Gun MP065 | 160972 | [160972-tiger-tank-59-i-a-gun-mp065.json](./160972-tiger-tank-59-i-a-gun-mp065.json) |
+| Tiger Tank 59 I: A-Gun MP066 | 160928 | [160928-tiger-tank-59-i-a-gun-mp066.json](./160928-tiger-tank-59-i-a-gun-mp066.json) |
+| Tiger Tank 59 I: A-Gun MP067 | 160934 | [160934-tiger-tank-59-i-a-gun-mp067.json](./160934-tiger-tank-59-i-a-gun-mp067.json) |
+| Tiger Tank 59 I: A-Gun MP068 | 160952 | [160952-tiger-tank-59-i-a-gun-mp068.json](./160952-tiger-tank-59-i-a-gun-mp068.json) |
 | Tiger Tank 59 I: A-Gun MP069 | 160324 | [160324-tiger-tank-59-i-a-gun-mp069.json](./160324-tiger-tank-59-i-a-gun-mp069.json) |
+| Tiger Tank 59 I: A-Gun MP070 | 160921 | [160921-tiger-tank-59-i-a-gun-mp070.json](./160921-tiger-tank-59-i-a-gun-mp070.json) |
 | Tiger Tank 59 I: A-Gun MP071 | 160979 | [160979-tiger-tank-59-i-a-gun-mp071.json](./160979-tiger-tank-59-i-a-gun-mp071.json) |
 | Tiger Tank 59 I: A-Gun MP072 | 160371 | [160371-tiger-tank-59-i-a-gun-mp072.json](./160371-tiger-tank-59-i-a-gun-mp072.json) |
 | Tiger Tank 59 I: A-Gun MP073 | 160499 | [160499-tiger-tank-59-i-a-gun-mp073.json](./160499-tiger-tank-59-i-a-gun-mp073.json) |
 | Tiger Tank 59 I: A-Gun MP074 | 160503 | [160503-tiger-tank-59-i-a-gun-mp074.json](./160503-tiger-tank-59-i-a-gun-mp074.json) |
+| Tiger Tank 59 I: A-Gun MP075 | 160924 | [160924-tiger-tank-59-i-a-gun-mp075.json](./160924-tiger-tank-59-i-a-gun-mp075.json) |
 | Tiger Tank 59 I: A-Gun MP076 | 160558 | [160558-tiger-tank-59-i-a-gun-mp076.json](./160558-tiger-tank-59-i-a-gun-mp076.json) |
+| Tiger Tank 59 I: A-Gun MP077 | 160953 | [160953-tiger-tank-59-i-a-gun-mp077.json](./160953-tiger-tank-59-i-a-gun-mp077.json) |
+| Tiger Tank 59 I: A-Gun MP078 | 160962 | [160962-tiger-tank-59-i-a-gun-mp078.json](./160962-tiger-tank-59-i-a-gun-mp078.json) |
 | Tiger Tank 59 I: A-Gun MP079 | 160966 | [160966-tiger-tank-59-i-a-gun-mp079.json](./160966-tiger-tank-59-i-a-gun-mp079.json) |
+| Tiger Tank 59 I: A-Gun MP080 | 160917 | [160917-tiger-tank-59-i-a-gun-mp080.json](./160917-tiger-tank-59-i-a-gun-mp080.json) |
 | Tiger Tank 59 I: A-Gun MP081 | 160969 | [160969-tiger-tank-59-i-a-gun-mp081.json](./160969-tiger-tank-59-i-a-gun-mp081.json) |
+| Tiger Tank 59 I: A-Gun MP082 | 160945 | [160945-tiger-tank-59-i-a-gun-mp082.json](./160945-tiger-tank-59-i-a-gun-mp082.json) |
+| Tiger Tank 59 I: A-Gun MP083 | 160941 | [160941-tiger-tank-59-i-a-gun-mp083.json](./160941-tiger-tank-59-i-a-gun-mp083.json) |
+| Tiger Tank 59 I: A-Gun MP084 | 160923 | [160923-tiger-tank-59-i-a-gun-mp084.json](./160923-tiger-tank-59-i-a-gun-mp084.json) |
+| Tiger Tank 59 I: A-Gun MP085 | 160937 | [160937-tiger-tank-59-i-a-gun-mp085.json](./160937-tiger-tank-59-i-a-gun-mp085.json) |
 | Tiger Tank 59 I: A-Gun MP086 | 160974 | [160974-tiger-tank-59-i-a-gun-mp086.json](./160974-tiger-tank-59-i-a-gun-mp086.json) |
+| Tiger Tank 59 I: A-Gun MP087 | 160936 | [160936-tiger-tank-59-i-a-gun-mp087.json](./160936-tiger-tank-59-i-a-gun-mp087.json) |
 | Tiger Tank 59 I: A-Gun MP088 | 160498 | [160498-tiger-tank-59-i-a-gun-mp088.json](./160498-tiger-tank-59-i-a-gun-mp088.json) |
 | Tiger Tank 59 I: A-Gun MP089 | 160515 | [160515-tiger-tank-59-i-a-gun-mp089.json](./160515-tiger-tank-59-i-a-gun-mp089.json) |
 | Tiger Tank 59 I: A-Gun MP090 | 160980 | [160980-tiger-tank-59-i-a-gun-mp090.json](./160980-tiger-tank-59-i-a-gun-mp090.json) |
 | Tiger Tank 59 I: A-Gun MP091 | 160388 | [160388-tiger-tank-59-i-a-gun-mp091.json](./160388-tiger-tank-59-i-a-gun-mp091.json) |
+| Tiger Tank 59 I: A-Gun MP093 | 160958 | [160958-tiger-tank-59-i-a-gun-mp093.json](./160958-tiger-tank-59-i-a-gun-mp093.json) |
+| Tiger Tank 59 I: A-Gun MP094 | 160959 | [160959-tiger-tank-59-i-a-gun-mp094.json](./160959-tiger-tank-59-i-a-gun-mp094.json) |
+| Tiger Tank 59 I: A-Gun MP095 | 160939 | [160939-tiger-tank-59-i-a-gun-mp095.json](./160939-tiger-tank-59-i-a-gun-mp095.json) |
 | Tiger Tank 59 I: A-Gun MP097 | 160548 | [160548-tiger-tank-59-i-a-gun-mp097.json](./160548-tiger-tank-59-i-a-gun-mp097.json) |
 | Tiger Tank 59 I: A-Gun MP098 | 160970 | [160970-tiger-tank-59-i-a-gun-mp098.json](./160970-tiger-tank-59-i-a-gun-mp098.json) |
+| Tiger Tank 59 I: A-Gun MP099 | 160956 | [160956-tiger-tank-59-i-a-gun-mp099.json](./160956-tiger-tank-59-i-a-gun-mp099.json) |
+| Tiger Tank 59 I: A-Gun MP100 | 160940 | [160940-tiger-tank-59-i-a-gun-mp100.json](./160940-tiger-tank-59-i-a-gun-mp100.json) |
 | Tiger Tank 59 I: Air Strike MP001 | 160892 | [160892-tiger-tank-59-i-air-strike-mp001.json](./160892-tiger-tank-59-i-air-strike-mp001.json) |
 | Tiger Tank 59 I: Air Strike MP002 | 160882 | [160882-tiger-tank-59-i-air-strike-mp002.json](./160882-tiger-tank-59-i-air-strike-mp002.json) |
 | Tiger Tank 59 I: Air Strike MP003 | 160378 | [160378-tiger-tank-59-i-air-strike-mp003.json](./160378-tiger-tank-59-i-air-strike-mp003.json) |
 | Tiger Tank 59 I: Air Strike MP004 | 160894 | [160894-tiger-tank-59-i-air-strike-mp004.json](./160894-tiger-tank-59-i-air-strike-mp004.json) |
 | Tiger Tank 59 I: Air Strike MP005 | 160404 | [160404-tiger-tank-59-i-air-strike-mp005.json](./160404-tiger-tank-59-i-air-strike-mp005.json) |
+| Tiger Tank 59 I: Air Strike MP006 | 160915 | [160915-tiger-tank-59-i-air-strike-mp006.json](./160915-tiger-tank-59-i-air-strike-mp006.json) |
 | Tiger Tank 59 I: Air Strike MP007 | 160486 | [160486-tiger-tank-59-i-air-strike-mp007.json](./160486-tiger-tank-59-i-air-strike-mp007.json) |
 | Tiger Tank 59 I: Air Strike MP008 | 160350 | [160350-tiger-tank-59-i-air-strike-mp008.json](./160350-tiger-tank-59-i-air-strike-mp008.json) |
 | Tiger Tank 59 I: Air Strike MP009 | 160906 | [160906-tiger-tank-59-i-air-strike-mp009.json](./160906-tiger-tank-59-i-air-strike-mp009.json) |
@@ -23906,6 +23954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP072 | 160872 | [160872-tiger-tank-59-i-air-strike-mp072.json](./160872-tiger-tank-59-i-air-strike-mp072.json) |
 | Tiger Tank 59 I: Air Strike MP073 | 160889 | [160889-tiger-tank-59-i-air-strike-mp073.json](./160889-tiger-tank-59-i-air-strike-mp073.json) |
 | Tiger Tank 59 I: Air Strike MP074 | 160507 | [160507-tiger-tank-59-i-air-strike-mp074.json](./160507-tiger-tank-59-i-air-strike-mp074.json) |
+| Tiger Tank 59 I: Air Strike MP075 | 160914 | [160914-tiger-tank-59-i-air-strike-mp075.json](./160914-tiger-tank-59-i-air-strike-mp075.json) |
 | Tiger Tank 59 I: Air Strike MP076 | 160485 | [160485-tiger-tank-59-i-air-strike-mp076.json](./160485-tiger-tank-59-i-air-strike-mp076.json) |
 | Tiger Tank 59 I: Air Strike MP077 | 160871 | [160871-tiger-tank-59-i-air-strike-mp077.json](./160871-tiger-tank-59-i-air-strike-mp077.json) |
 | Tiger Tank 59 I: Air Strike MP078 | 160402 | [160402-tiger-tank-59-i-air-strike-mp078.json](./160402-tiger-tank-59-i-air-strike-mp078.json) |
@@ -23924,6 +23973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Air Strike MP091 | 160469 | [160469-tiger-tank-59-i-air-strike-mp091.json](./160469-tiger-tank-59-i-air-strike-mp091.json) |
 | Tiger Tank 59 I: Air Strike MP092 | 160491 | [160491-tiger-tank-59-i-air-strike-mp092.json](./160491-tiger-tank-59-i-air-strike-mp092.json) |
 | Tiger Tank 59 I: Air Strike MP093 | 160478 | [160478-tiger-tank-59-i-air-strike-mp093.json](./160478-tiger-tank-59-i-air-strike-mp093.json) |
+| Tiger Tank 59 I: Air Strike MP094 | 160916 | [160916-tiger-tank-59-i-air-strike-mp094.json](./160916-tiger-tank-59-i-air-strike-mp094.json) |
 | Tiger Tank 59 I: Air Strike MP096 | 160334 | [160334-tiger-tank-59-i-air-strike-mp096.json](./160334-tiger-tank-59-i-air-strike-mp096.json) |
 | Tiger Tank 59 I: Air Strike MP097 | 160886 | [160886-tiger-tank-59-i-air-strike-mp097.json](./160886-tiger-tank-59-i-air-strike-mp097.json) |
 | Tiger Tank 59 I: Air Strike MP098 | 160874 | [160874-tiger-tank-59-i-air-strike-mp098.json](./160874-tiger-tank-59-i-air-strike-mp098.json) |
