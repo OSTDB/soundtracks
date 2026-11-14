@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenalatro | 305707 | [305707-tenalatro.json](./305707-tenalatro.json) |
 | Tenami | 139011 | [139011-tenami.json](./139011-tenami.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
+| Tenant | 134138 | [134138-tenant.json](./134138-tenant.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenbin no La Dea: Ikusa Megami Memoria | 258818 | [258818-tenbin-no-la-dea-ikusa-megami-memoria.json](./258818-tenbin-no-la-dea-ikusa-megami-memoria.json) |
 | Tenbu Mega CD Special | 46384 | [46384-tenbu-mega-cd-special.json](./46384-tenbu-mega-cd-special.json) |
@@ -5436,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Mini | 218085 | [218085-tetris-mini.json](./218085-tetris-mini.json) |
 | Tetris New Century | 236719 | [236719-tetris-new-century.json](./236719-tetris-new-century.json) |
+| Tetris Online | 134117 | [134117-tetris-online.json](./134117-tetris-online.json) |
 | Tetris Party | 5217 | [5217-tetris-party.json](./5217-tetris-party.json) |
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
 | Tetris Party Live | 21166 | [21166-tetris-party-live.json](./21166-tetris-party-live.json) |
@@ -7582,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butterfly Collector | 339213 | [339213-the-butterfly-collector.json](./339213-the-butterfly-collector.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
 | The Butterfly Sign: Human Error | 30543 | [30543-the-butterfly-sign-human-error.json](./30543-the-butterfly-sign-human-error.json) |
+| The Butterfly's Dream | 134149 | [134149-the-butterflys-dream.json](./134149-the-butterflys-dream.json) |
 | The Button | 181743 | [181743-the-button.json](./181743-the-button.json) |
 | The Button Affair | 63765 | [63765-the-button-affair.json](./63765-the-button-affair.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
@@ -11848,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Host | 158888 | [158888-the-host.json](./158888-the-host.json) |
 | The Host | 334057 | [334057-the-host.json](./334057-the-host.json) |
 | The Host: Cataclysm | 216919 | [216919-the-host-cataclysm.json](./216919-the-host-cataclysm.json) |
+| The Hostage | 134091 | [134091-the-hostage.json](./134091-the-hostage.json) |
 | The Hostage | 259480 | [259480-the-hostage.json](./259480-the-hostage.json) |
 | The Hostel: Night Terrors | 249842 | [249842-the-hostel-night-terrors.json](./249842-the-hostel-night-terrors.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
@@ -13732,6 +13736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel III - Digital Deluxe Edition | 238167 | [238167-the-legend-of-heroes-trails-of-cold-steel-iii-digital-deluxe-edition.json](./238167-the-legend-of-heroes-trails-of-cold-steel-iii-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Early Enrollment Edition | 136071 | [136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json](./136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel III - Extracurricular Edition | 134107 | [134107-the-legend-of-heroes-trails-of-cold-steel-iii-extracurricular-edition.json](./134107-the-legend-of-heroes-trails-of-cold-steel-iii-extracurricular-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III / The Legend of Heroes: Trails of Cold Steel IV | 267628 | [267628-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv.json](./267628-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv.json) |
@@ -25256,6 +25261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Hacker | 129013 | [129013-time-hacker.json](./129013-time-hacker.json) |
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
 | Time Heals | 385304 | [385304-time-heals.json](./385304-time-heals.json) |
+| Time Heist | 134093 | [134093-time-heist.json](./134093-time-heist.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
 | Time Heroes | 412797 | [412797-time-heroes.json](./412797-time-heroes.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
@@ -25707,6 +25713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
 | Tinker Bell and the Great Fairy Rescue | 47789 | [47789-tinker-bell-and-the-great-fairy-rescue.json](./47789-tinker-bell-and-the-great-fairy-rescue.json) |
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
+| Tinker Island | 134148 | [134148-tinker-island.json](./134148-tinker-island.json) |
 | Tinker Island 2 | 257223 | [257223-tinker-island-2.json](./257223-tinker-island-2.json) |
 | Tinker Islands | 410820 | [410820-tinker-islands.json](./410820-tinker-islands.json) |
 | Tinker Pilot | 226478 | [226478-tinker-pilot.json](./226478-tinker-pilot.json) |
