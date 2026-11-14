@@ -1613,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Fortification Pack | 153084 | [153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json](./153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Lord of Skulls | 124937 | [124937-warhammer-40-000-gladius-relics-of-war-lord-of-skulls.json](./124937-warhammer-40-000-gladius-relics-of-war-lord-of-skulls.json) |
+| Warhammer 40,000: Gladius - Relics of War: Lord of Skulls | 155222 | [155222-warhammer-40-000-gladius-relics-of-war-lord-of-skulls.json](./155222-warhammer-40-000-gladius-relics-of-war-lord-of-skulls.json) |
 | Warhammer 40,000: Gladius - Relics of War: Reinforcement Pack | 153085 | [153085-warhammer-40-000-gladius-relics-of-war-reinforcement-pack.json](./153085-warhammer-40-000-gladius-relics-of-war-reinforcement-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Specialist Pack | 153083 | [153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json](./153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json) |
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
@@ -2235,9 +2236,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Austerlitz 1805 | 159603 | [159603-wars-across-the-world-austerlitz-1805.json](./159603-wars-across-the-world-austerlitz-1805.json) |
 | Wars Across the World: Berlin 1945 | 159634 | [159634-wars-across-the-world-berlin-1945.json](./159634-wars-across-the-world-berlin-1945.json) |
 | Wars Across the World: Bosworth 1485 | 150925 | [150925-wars-across-the-world-bosworth-1485.json](./150925-wars-across-the-world-bosworth-1485.json) |
+| Wars Across the World: Bouvines 1214 | 155191 | [155191-wars-across-the-world-bouvines-1214.json](./155191-wars-across-the-world-bouvines-1214.json) |
 | Wars Across the World: Bulgaria 1913 | 350611 | [350611-wars-across-the-world-bulgaria-1913.json](./350611-wars-across-the-world-bulgaria-1913.json) |
 | Wars across the World: Bulge 1944 | 150510 | [150510-wars-across-the-world-bulge-1944.json](./150510-wars-across-the-world-bulge-1944.json) |
 | Wars Across the World: Bull Run 1861 | 159629 | [159629-wars-across-the-world-bull-run-1861.json](./159629-wars-across-the-world-bull-run-1861.json) |
+| Wars Across the World: Burma 1942 | 155192 | [155192-wars-across-the-world-burma-1942.json](./155192-wars-across-the-world-burma-1942.json) |
 | Wars Across the World: Byzantium 1116 | 159627 | [159627-wars-across-the-world-byzantium-1116.json](./159627-wars-across-the-world-byzantium-1116.json) |
 | Wars Across the World: Caesar 54 | 159609 | [159609-wars-across-the-world-caesar-54.json](./159609-wars-across-the-world-caesar-54.json) |
 | Wars Across the World: Caesar 56 | 159616 | [159616-wars-across-the-world-caesar-56.json](./159616-wars-across-the-world-caesar-56.json) |
@@ -2247,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Classic Collection | 53138 | [53138-wars-across-the-world-classic-collection.json](./53138-wars-across-the-world-classic-collection.json) |
 | Wars Across the World: Columbus 1492 | 155185 | [155185-wars-across-the-world-columbus-1492.json](./155185-wars-across-the-world-columbus-1492.json) |
 | Wars Across the World: Congo 1964 | 159614 | [159614-wars-across-the-world-congo-1964.json](./159614-wars-across-the-world-congo-1964.json) |
+| Wars Across the World: Coral Sea 1942 | 155193 | [155193-wars-across-the-world-coral-sea-1942.json](./155193-wars-across-the-world-coral-sea-1942.json) |
 | Wars Across the World: Cortenuova 1237 | 193188 | [193188-wars-across-the-world-cortenuova-1237.json](./193188-wars-across-the-world-cortenuova-1237.json) |
 | Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
 | Wars Across The World: Dacia 101 | 276416 | [276416-wars-across-the-world-dacia-101.json](./276416-wars-across-the-world-dacia-101.json) |
@@ -2264,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Hamilkar 264 | 159607 | [159607-wars-across-the-world-hamilkar-264.json](./159607-wars-across-the-world-hamilkar-264.json) |
 | Wars Across the World: Hastings 1066 | 159626 | [159626-wars-across-the-world-hastings-1066.json](./159626-wars-across-the-world-hastings-1066.json) |
 | Wars Across the World: Illyria 229 | 155181 | [155181-wars-across-the-world-illyria-229.json](./155181-wars-across-the-world-illyria-229.json) |
+| Wars Across the World: Innsmouth 1928 | 155194 | [155194-wars-across-the-world-innsmouth-1928.json](./155194-wars-across-the-world-innsmouth-1928.json) |
 | Wars Across the World: Kavkaz 1804 | 159608 | [159608-wars-across-the-world-kavkaz-1804.json](./159608-wars-across-the-world-kavkaz-1804.json) |
 | Wars Across the World: Kentucky 1861 | 159617 | [159617-wars-across-the-world-kentucky-1861.json](./159617-wars-across-the-world-kentucky-1861.json) |
 | Wars Across the World: Kippur 1973 | 155190 | [155190-wars-across-the-world-kippur-1973.json](./155190-wars-across-the-world-kippur-1973.json) |
@@ -2371,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
 | Wartile: Complete Edition | 175996 | [175996-wartile-complete-edition.json](./175996-wartile-complete-edition.json) |
+| Wartile: Hel's Nightmare | 155225 | [155225-wartile-hels-nightmare.json](./155225-wartile-hels-nightmare.json) |
 | Wartime Glory | 269902 | [269902-wartime-glory.json](./269902-wartime-glory.json) |
 | Wartime Prologue | 115231 | [115231-wartime-prologue.json](./115231-wartime-prologue.json) |
 | Wartime X | 109992 | [109992-wartime-x.json](./109992-wartime-x.json) |
@@ -3864,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Legends | 112237 | [112237-west-legends.json](./112237-west-legends.json) |
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead | 125625 | [125625-west-of-dead.json](./125625-west-of-dead.json) |
+| West of Dead: Crow | 155233 | [155233-west-of-dead-crow.json](./155233-west-of-dead-crow.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West of Loathing: Reckonin' at Gun Manor | 154168 | [154168-west-of-loathing-reckonin-at-gun-manor.json](./154168-west-of-loathing-reckonin-at-gun-manor.json) |
 | West of Red | 59137 | [59137-west-of-red.json](./59137-west-of-red.json) |
