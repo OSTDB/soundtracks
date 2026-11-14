@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappyHazard | 319476 | [319476-happyhazard.json](./319476-happyhazard.json) |
 | HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
+| Happyland Adventures - Xmas Edition | 138841 | [138841-happyland-adventures-xmas-edition.json](./138841-happyland-adventures-xmas-edition.json) |
 | HappyPlayers | 201186 | [201186-happyplayers.json](./201186-happyplayers.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | HappyTruck: Fruit Express | 261945 | [261945-happytruck-fruit-express.json](./261945-happytruck-fruit-express.json) |
