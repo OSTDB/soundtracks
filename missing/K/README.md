@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Baby | 256975 | [256975-killer-baby.json](./256975-killer-baby.json) |
 | Killer Backflip 5 | 95599 | [95599-killer-backflip-5.json](./95599-killer-backflip-5.json) |
 | Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
+| Killer Bean | 165199 | [165199-killer-bean.json](./165199-killer-bean.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
 | Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
