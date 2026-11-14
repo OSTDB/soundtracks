@@ -21481,6 +21481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in Crayontopia | 337522 | [337522-murder-in-crayontopia.json](./337522-murder-in-crayontopia.json) |
 | Murder In Tehran's Alleys 2016 | 40858 | [40858-murder-in-tehrans-alleys-2016.json](./40858-murder-in-tehrans-alleys-2016.json) |
+| Murder in the Alps | 111292 | [111292-murder-in-the-alps.json](./111292-murder-in-the-alps.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder in the Pines | 422843 | [422843-murder-in-the-pines.json](./422843-murder-in-the-pines.json) |
 | Murder in the Snow Bundle | 284759 | [284759-murder-in-the-snow-bundle.json](./284759-murder-in-the-snow-bundle.json) |
