@@ -18839,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's MoreJongg | 209193 | [209193-moraffs-morejongg.json](./209193-moraffs-morejongg.json) |
 | Moraff's Revenge | 71841 | [71841-moraffs-revenge.json](./71841-moraffs-revenge.json) |
+| Moraff's Stones | 94451 | [94451-moraffs-stones.json](./94451-moraffs-stones.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Moral Conflict | 184679 | [184679-moral-conflict.json](./184679-moral-conflict.json) |
 | Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
