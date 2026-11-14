@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 6 | 400095 | [400095-ea-sports-ufc-6.json](./400095-ea-sports-ufc-6.json) |
 | EA Sports UFC 6: Ultimate Edition | 402962 | [402962-ea-sports-ufc-6-ultimate-edition.json](./402962-ea-sports-ufc-6-ultimate-edition.json) |
 | EA Sports UFC Mobile | 218949 | [218949-ea-sports-ufc-mobile.json](./218949-ea-sports-ufc-mobile.json) |
+| EA Sports UFC Mobile 2 | 146389 | [146389-ea-sports-ufc-mobile-2.json](./146389-ea-sports-ufc-mobile-2.json) |
 | EA Sports WRC | 264412 | [264412-ea-sports-wrc.json](./264412-ea-sports-wrc.json) |
 | EA Sports WRC 24 | 319197 | [319197-ea-sports-wrc-24.json](./319197-ea-sports-wrc-24.json) |
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
@@ -5532,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | Erwin's Timewarp | 34689 | [34689-erwins-timewarp.json](./34689-erwins-timewarp.json) |
 | Eryi's Action | 10278 | [10278-eryis-action.json](./10278-eryis-action.json) |
+| Eryner | 146378 | [146378-eryner.json](./146378-eryner.json) |
 | Erz Online | 346225 | [346225-erz-online.json](./346225-erz-online.json) |
 | Erzurum | 143289 | [143289-erzurum.json](./143289-erzurum.json) |
 | Es | 131273 | [131273-es.json](./131273-es.json) |
@@ -8567,6 +8569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Guilty Vol. 1 Present | 61957 | [61957-exodus-guilty-vol-1-present.json](./61957-exodus-guilty-vol-1-present.json) |
 | Exodus Guilty Vol. 2 Past | 61955 | [61955-exodus-guilty-vol-2-past.json](./61955-exodus-guilty-vol-2-past.json) |
 | Exodus Guilty Vol. 3 Future | 61954 | [61954-exodus-guilty-vol-3-future.json](./61954-exodus-guilty-vol-3-future.json) |
+| Exodus H | 146372 | [146372-exodus-h.json](./146372-exodus-h.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
 | Exodus II | 383857 | [383857-exodus-ii.json](./383857-exodus-ii.json) |
 | Exodus of Descent | 244059 | [244059-exodus-of-descent.json](./244059-exodus-of-descent.json) |
