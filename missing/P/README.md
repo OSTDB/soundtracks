@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Adventure | 126174 | [126174-path-of-adventure.json](./126174-path-of-adventure.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
+| Path of Aurora | 121108 | [121108-path-of-aurora.json](./121108-path-of-aurora.json) |
 | Path Of Balls | 332793 | [332793-path-of-balls.json](./332793-path-of-balls.json) |
 | Path of Becoming | 197316 | [197316-path-of-becoming.json](./197316-path-of-becoming.json) |
 | Path of Clicks | 341967 | [341967-path-of-clicks.json](./341967-path-of-clicks.json) |
@@ -5658,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Saddle Club | 66407 | [66407-petz-saddle-club.json](./66407-petz-saddle-club.json) |
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
 | Pew Dew Redemption | 117387 | [117387-pew-dew-redemption.json](./117387-pew-dew-redemption.json) |
+| Pew Paw | 121075 | [121075-pew-paw.json](./121075-pew-paw.json) |
 | Pew Pew Crew! | 265309 | [265309-pew-pew-crew.json](./265309-pew-pew-crew.json) |
 | Pew Pew Gaem 3 | 326260 | [326260-pew-pew-gaem-3.json](./326260-pew-pew-gaem-3.json) |
 | Pew Pew Land | 91171 | [91171-pew-pew-land.json](./91171-pew-pew-land.json) |
@@ -11822,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Noir: Desire, Time & Gangsters | 172341 | [172341-poison-noir-desire-time-and-gangsters.json](./172341-poison-noir-desire-time-and-gangsters.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
+| Poisoner's Teacup | 121065 | [121065-poisoners-teacup.json](./121065-poisoners-teacup.json) |
 | Poisonous Abyss | 324271 | [324271-poisonous-abyss.json](./324271-poisonous-abyss.json) |
 | Poizoned Mind | 191949 | [191949-poizoned-mind.json](./191949-poizoned-mind.json) |
 | Pojangmacha: Korean Street Food Management Simulator | 398115 | [398115-pojangmacha-korean-street-food-management-simulator.json](./398115-pojangmacha-korean-street-food-management-simulator.json) |
