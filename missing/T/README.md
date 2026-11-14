@@ -21799,6 +21799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Town | 11223 | [11223-thief-town.json](./11223-thief-town.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: Deadly Shadows | 3 | [3-thief-deadly-shadows.json](./3-thief-deadly-shadows.json) |
+| Thief: Definitive Edition | 154657 | [154657-thief-definitive-edition.json](./154657-thief-definitive-edition.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
 | Thief: The Black Parade | 278770 | [278770-thief-the-black-parade.json](./278770-thief-the-black-parade.json) |
