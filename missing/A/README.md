@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Boney Night | 313569 | [313569-a-boney-night.json](./313569-a-boney-night.json) |
 | A Bonnie Odyssey | 252351 | [252351-a-bonnie-odyssey.json](./252351-a-bonnie-odyssey.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
+| A Book of Beasts and Buddies | 111773 | [111773-a-book-of-beasts-and-buddies.json](./111773-a-book-of-beasts-and-buddies.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
 | A Boring Place: The Road 2 Head | 321426 | [321426-a-boring-place-the-road-2-head.json](./321426-a-boring-place-the-road-2-head.json) |
 | A Bots Color Adventure | 284790 | [284790-a-bots-color-adventure.json](./284790-a-bots-color-adventure.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bunch of you in a Crowded Room | 177363 | [177363-a-bunch-of-you-in-a-crowded-room.json](./177363-a-bunch-of-you-in-a-crowded-room.json) |
 | A Burger in Space | 306907 | [306907-a-burger-in-space.json](./306907-a-burger-in-space.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
+| A Business Power | 111785 | [111785-a-business-power.json](./111785-a-business-power.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
 | A Busty Student Council President and H Monsters | 82731 | [82731-a-busty-student-council-president-and-h-monsters.json](./82731-a-busty-student-council-president-and-h-monsters.json) |
@@ -162,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Change in the Weather | 60182 | [60182-a-change-in-the-weather.json](./60182-a-change-in-the-weather.json) |
 | A Change of Heart: A Magical Girl Adventure | 249532 | [249532-a-change-of-heart-a-magical-girl-adventure.json](./249532-a-change-of-heart-a-magical-girl-adventure.json) |
 | A Chase in Rainsville | 185181 | [185181-a-chase-in-rainsville.json](./185181-a-chase-in-rainsville.json) |
+| A Cheesy Game | 111957 | [111957-a-cheesy-game.json](./111957-a-cheesy-game.json) |
 | A Chef's Oncoming Breakdown | 386163 | [386163-a-chefs-oncoming-breakdown.json](./386163-a-chefs-oncoming-breakdown.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
 | A Child's Courage | 184960 | [184960-a-childs-courage.json](./184960-a-childs-courage.json) |
@@ -6066,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Master H | 169787 | [169787-aim-master-h.json](./169787-aim-master-h.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
 | Aim Shooter Game | 252475 | [252475-aim-shooter-game.json](./252475-aim-shooter-game.json) |
+| Aim Theory: Trainer | 111777 | [111777-aim-theory-trainer.json](./111777-aim-theory-trainer.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
 | Aim Trainer Asylum | 361917 | [361917-aim-trainer-asylum.json](./361917-aim-trainer-asylum.json) |
 | Aim Trainer Gauntlet | 337802 | [337802-aim-trainer-gauntlet.json](./337802-aim-trainer-gauntlet.json) |
@@ -10613,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
 | And Yet, We Dream | 394624 | [394624-and-yet-we-dream.json](./394624-and-yet-we-dream.json) |
+| And You're There, Too | 111761 | [111761-and-youre-there-too.json](./111761-and-youre-there-too.json) |
 | And-Kensaku | 4953 | [4953-and-kensaku.json](./4953-and-kensaku.json) |
 | Anda | 266885 | [266885-anda.json](./266885-anda.json) |
 | Andalas: Realms of Eternal Lights | 330946 | [330946-andalas-realms-of-eternal-lights.json](./330946-andalas-realms-of-eternal-lights.json) |
@@ -12699,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
 | Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
+| Anubis' Challenge | 111787 | [111787-anubis-challenge.json](./111787-anubis-challenge.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
 | Anunnaki & the Kingdom of Goku | 391776 | [391776-anunnaki-and-the-kingdom-of-goku.json](./391776-anunnaki-and-the-kingdom-of-goku.json) |
@@ -14729,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeology: Post-Apocalypse | 337973 | [337973-archaeology-post-apocalypse.json](./337973-archaeology-post-apocalypse.json) |
 | Archaeology: Sand Fantasy | 326174 | [326174-archaeology-sand-fantasy.json](./326174-archaeology-sand-fantasy.json) |
 | Archaeology: Sand Japanese | 337974 | [337974-archaeology-sand-japanese.json](./337974-archaeology-sand-japanese.json) |
+| ArchaeologyX | 111954 | [111954-archaeologyx.json](./111954-archaeologyx.json) |
 | Archage | 50251 | [50251-archage.json](./50251-archage.json) |
 | Archaic | 278890 | [278890-archaic.json](./278890-archaic.json) |
 | Archaica: The Path Of Light | 25625 | [25625-archaica-the-path-of-light.json](./25625-archaica-the-path-of-light.json) |
