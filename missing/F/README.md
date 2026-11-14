@@ -13688,6 +13688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy's Battle | 229257 | [229257-froggys-battle.json](./229257-froggys-battle.json) |
 | Froggy's Farm & Friends | 211047 | [211047-froggys-farm-and-friends.json](./211047-froggys-farm-and-friends.json) |
 | Frogice | 219307 | [219307-frogice.json](./219307-frogice.json) |
+| Frogiee | 149655 | [149655-frogiee.json](./149655-frogiee.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
@@ -14188,6 +14189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
 | Fruit Defense | 323079 | [323079-fruit-defense.json](./323079-fruit-defense.json) |
 | Fruit Drops Part II | 200219 | [200219-fruit-drops-part-ii.json](./200219-fruit-drops-part-ii.json) |
+| Fruit Factory | 149653 | [149653-fruit-factory.json](./149653-fruit-factory.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
 | Fruit Farm | 54048 | [54048-fruit-farm.json](./54048-fruit-farm.json) |
