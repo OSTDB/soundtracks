@@ -20827,6 +20827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.DomusMundi | 173904 | [173904-mr-domusmundi.json](./173904-mr-domusmundi.json) |
 | Mr.Egg: Adventure | 211647 | [211647-mr-egg-adventure.json](./211647-mr-egg-adventure.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
+| Mr.King Luo! Don't Be Kidding | 127393 | [127393-mr-king-luo-dont-be-kidding.json](./127393-mr-king-luo-dont-be-kidding.json) |
 | Mr.King Luo! Don't Be Kidding: Chapter 2 | 173369 | [173369-mr-king-luo-dont-be-kidding-chapter-2.json](./173369-mr-king-luo-dont-be-kidding-chapter-2.json) |
 | Mr.Knight | 164595 | [164595-mr-knight.json](./164595-mr-knight.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
