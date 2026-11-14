@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Basketball ‘01 | 377818 | [377818-backyard-basketball-01.json](./377818-backyard-basketball-01.json) |
 | Backyard Basketball 2001 | 50297 | [50297-backyard-basketball-2001.json](./50297-backyard-basketball-2001.json) |
 | Backyard Basketball 2004 | 94474 | [94474-backyard-basketball-2004.json](./94474-backyard-basketball-2004.json) |
+| Backyard Basketball 2008 | 122461 | [122461-backyard-basketball-2008.json](./122461-backyard-basketball-2008.json) |
 | Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
 | Backyard Beans | 314567 | [314567-backyard-beans.json](./314567-backyard-beans.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
@@ -3859,6 +3860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle | 299815 | [299815-battle.json](./299815-battle.json) |
 | Battle | 333448 | [333448-battle.json](./333448-battle.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
+| Battle & Crash | 122465 | [122465-battle-and-crash.json](./122465-battle-and-crash.json) |
 | Battle 100 | 103818 | [103818-battle-100.json](./103818-battle-100.json) |
 | Battle 19XX | 195667 | [195667-battle-19xx.json](./195667-battle-19xx.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
@@ -4503,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Support: Deluxe Edition | 256110 | [256110-battle-support-deluxe-edition.json](./256110-battle-support-deluxe-edition.json) |
 | Battle Support: Ultimate Edition | 256109 | [256109-battle-support-ultimate-edition.json](./256109-battle-support-ultimate-edition.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
+| Battle Supremacy: Ground Assault | 122468 | [122468-battle-supremacy-ground-assault.json](./122468-battle-supremacy-ground-assault.json) |
 | Battle Survival in Space | 215472 | [215472-battle-survival-in-space.json](./215472-battle-survival-in-space.json) |
 | Battle Survive Hentai | 126399 | [126399-battle-survive-hentai.json](./126399-battle-survive-hentai.json) |
 | Battle Sweeper | 139250 | [139250-battle-sweeper.json](./139250-battle-sweeper.json) |
