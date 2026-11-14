@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Hole | 195023 | [195023-in-the-hole.json](./195023-in-the-hole.json) |
 | In the Hollow of the Valley | 202569 | [202569-in-the-hollow-of-the-valley.json](./202569-in-the-hollow-of-the-valley.json) |
 | In The Hours of Darkness | 351349 | [351349-in-the-hours-of-darkness.json](./351349-in-the-hours-of-darkness.json) |
+| In the House of Silence | 139515 | [139515-in-the-house-of-silence.json](./139515-in-the-house-of-silence.json) |
 | In the Hunt | 10456 | [10456-in-the-hunt.json](./10456-in-the-hunt.json) |
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intensive (S)care Unit | 318459 | [318459-intensive-s-care-unit.json](./318459-intensive-s-care-unit.json) |
 | Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
 | Intensive Exposure | 23725 | [23725-intensive-exposure.json](./23725-intensive-exposure.json) |
+| Intent | 140065 | [140065-intent.json](./140065-intent.json) |
 | Inter Milan Club Football | 267887 | [267887-inter-milan-club-football.json](./267887-inter-milan-club-football.json) |
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Inter Solar 83 | 236231 | [236231-inter-solar-83.json](./236231-inter-solar-83.json) |
