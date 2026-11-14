@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmful: The Second Tape | 187884 | [187884-harmful-the-second-tape.json](./187884-harmful-the-second-tape.json) |
 | Harmless Demons | 138399 | [138399-harmless-demons.json](./138399-harmless-demons.json) |
 | Harmless Lies | 337041 | [337041-harmless-lies.json](./337041-harmless-lies.json) |
+| Harmless Skeleton | 86278 | [86278-harmless-skeleton.json](./86278-harmless-skeleton.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
 | HarmonEy | 98129 | [98129-harmoney.json](./98129-harmoney.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
 | Headache | 227067 | [227067-headache.json](./227067-headache.json) |
+| Headache | 86291 | [86291-headache.json](./86291-headache.json) |
 | HeadAche: Visual Novel | 235545 | [235545-headache-visual-novel.json](./235545-headache-visual-novel.json) |
 | Headball Soccer Deluxe | 119443 | [119443-headball-soccer-deluxe.json](./119443-headball-soccer-deluxe.json) |
 | Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
