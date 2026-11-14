@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
 | Kids Station: Soreike! Anpanman 2 - Anpanman to Daibouken! | 56240 | [56240-kids-station-soreike-anpanman-2-anpanman-to-daibouken.json](./56240-kids-station-soreike-anpanman-2-anpanman-to-daibouken.json) |
 | Kids Station: Ultraman Cosmos | 56241 | [56241-kids-station-ultraman-cosmos.json](./56241-kids-station-ultraman-cosmos.json) |
+| Kids Teaser Puzzles | 88553 | [88553-kids-teaser-puzzles.json](./88553-kids-teaser-puzzles.json) |
 | Kids Tetris | 202059 | [202059-kids-tetris.json](./202059-kids-tetris.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Trucks: Alphabet Letter Identification Games | 89768 | [89768-kids-trucks-alphabet-letter-identification-games.json](./89768-kids-trucks-alphabet-letter-identification-games.json) |
