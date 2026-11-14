@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Battle Royale Chompionship | 327012 | [327012-pac-man-battle-royale-chompionship.json](./327012-pac-man-battle-royale-chompionship.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Championship Edition 2 Plus | 85323 | [85323-pac-man-championship-edition-2-plus.json](./85323-pac-man-championship-edition-2-plus.json) |
+| Pac-Man Chomp Mania | 126049 | [126049-pac-man-chomp-mania.json](./126049-pac-man-chomp-mania.json) |
 | Pac-Man Collection | 219433 | [219433-pac-man-collection.json](./219433-pac-man-collection.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
+| Perpetuum Mobile | 126063 | [126063-perpetuum-mobile.json](./126063-perpetuum-mobile.json) |
 | Perplex | 328127 | [328127-perplex.json](./328127-perplex.json) |
 | Perplex City | 71320 | [71320-perplex-city.json](./71320-perplex-city.json) |
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
@@ -11226,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
 | PlunderPiece | 292404 | [292404-plunderpiece.json](./292404-plunderpiece.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
+| Plünge | 126067 | [126067-plunge.json](./126067-plunge.json) |
 | Plunge the Plumber | 196934 | [196934-plunge-the-plumber.json](./196934-plunge-the-plumber.json) |
 | Plunged | 261612 | [261612-plunged.json](./261612-plunged.json) |
 | Plungeez | 309499 | [309499-plungeez.json](./309499-plungeez.json) |
@@ -13669,6 +13672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongis 2 | 416654 | [416654-pongis-2.json](./416654-pongis-2.json) |
 | Pongis Golf | 143258 | [143258-pongis-golf.json](./143258-pongis-golf.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
+| Pongis Run | 126084 | [126084-pongis-run.json](./126084-pongis-run.json) |
 | PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
 | Pongo | 35298 | [35298-pongo.json](./35298-pongo.json) |
@@ -15017,6 +15021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Scadle | 388099 | [388099-power-scadle.json](./388099-power-scadle.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
+| Power Singer: Ellance Saga #1 | 126089 | [126089-power-singer-ellance-saga-1.json](./126089-power-singer-ellance-saga-1.json) |
 | Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
 | Power Slap | 261159 | [261159-power-slap.json](./261159-power-slap.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
