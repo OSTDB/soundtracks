@@ -5853,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Mystery: Crime of Fashion | 341071 | [341071-masters-of-mystery-crime-of-fashion.json](./341071-masters-of-mystery-crime-of-fashion.json) |
 | Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
+| Masters of Puzzle: Battlegroup Selcior | 163521 | [163521-masters-of-puzzle-battlegroup-selcior.json](./163521-masters-of-puzzle-battlegroup-selcior.json) |
 | Masters of Puzzle: Black and White - 980 | 151252 | [151252-masters-of-puzzle-black-and-white-980.json](./151252-masters-of-puzzle-black-and-white-980.json) |
 | Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
 | Masters of Puzzle: Christmas Edition - Mystery Town | 151215 | [151215-masters-of-puzzle-christmas-edition-mystery-town.json](./151215-masters-of-puzzle-christmas-edition-mystery-town.json) |
@@ -23520,6 +23521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Western Horse 3D | 84708 | [84708-my-western-horse-3d.json](./84708-my-western-horse-3d.json) |
 | My Wet Leto Comic | 129118 | [129118-my-wet-leto-comic.json](./129118-my-wet-leto-comic.json) |
 | My Wet Leto Comic: A Day of Green | 311391 | [311391-my-wet-leto-comic-a-day-of-green.json](./311391-my-wet-leto-comic-a-day-of-green.json) |
+| My Wife | 163577 | [163577-my-wife.json](./163577-my-wife.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
 | My Wife Is a Football Coach | 389639 | [389639-my-wife-is-a-football-coach.json](./389639-my-wife-is-a-football-coach.json) |
 | My Wife Is a Maid | 385242 | [385242-my-wife-is-a-maid.json](./385242-my-wife-is-a-maid.json) |
