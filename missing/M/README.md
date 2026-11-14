@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Challenge | 210205 | [210205-mahjongg-challenge.json](./210205-mahjongg-challenge.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
+| Mahjongg Dimensions Deluxe | 93871 | [93871-mahjongg-dimensions-deluxe.json](./93871-mahjongg-dimensions-deluxe.json) |
 | Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
 | Mahjongg Empire | 210203 | [210203-mahjongg-empire.json](./210203-mahjongg-empire.json) |
 | Mahjongg MAC | 131010 | [131010-mahjongg-mac.json](./131010-mahjongg-mac.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
 | Match Point | 39121 | [39121-match-point.json](./39121-match-point.json) |
 | Match Point Tennis: Summer Update | 354378 | [354378-match-point-tennis-summer-update.json](./354378-match-point-tennis-summer-update.json) |
+| Match Puzzle | 93886 | [93886-match-puzzle.json](./93886-match-puzzle.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
 | Match Quest | 314842 | [314842-match-quest.json](./314842-match-quest.json) |
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
@@ -19055,6 +19057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
 | Moros | 418206 | [418206-moros.json](./418206-moros.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
+| Morph Adventure | 93879 | [93879-morph-adventure.json](./93879-morph-adventure.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
 | Morph Chess 3D | 92009 | [92009-morph-chess-3d.json](./92009-morph-chess-3d.json) |
 | Morph Girl | 54443 | [54443-morph-girl.json](./54443-morph-girl.json) |
@@ -21310,6 +21313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
 | Multiple Views Objects | 117220 | [117220-multiple-views-objects.json](./117220-multiple-views-objects.json) |
 | MultipleGamePack | 135544 | [135544-multiplegamepack.json](./135544-multiplegamepack.json) |
+| Multiplication Dojo | 93884 | [93884-multiplication-dojo.json](./93884-multiplication-dojo.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Flash Cards Games Fun Math Problems | 91228 | [91228-multiplication-flash-cards-games-fun-math-problems.json](./91228-multiplication-flash-cards-games-fun-math-problems.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
