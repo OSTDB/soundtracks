@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emil: A Hero's Journey | 236559 | [236559-emil-a-heros-journey.json](./236559-emil-a-heros-journey.json) |
 | Emiline: The Ghost of White Willow | 249978 | [249978-emiline-the-ghost-of-white-willow.json](./249978-emiline-the-ghost-of-white-willow.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
+| Emilio Sanchez Vicario Grand Slam | 78813 | [78813-emilio-sanchez-vicario-grand-slam.json](./78813-emilio-sanchez-vicario-grand-slam.json) |
 | Emily | 334036 | [334036-emily.json](./334036-emily.json) |
 | Emily Archer and the Curse of Tutankhamun | 128290 | [128290-emily-archer-and-the-curse-of-tutankhamun.json](./128290-emily-archer-and-the-curse-of-tutankhamun.json) |
 | Emily Archer: The Curse of King Tut's Tomb | 209211 | [209211-emily-archer-the-curse-of-king-tuts-tomb.json](./209211-emily-archer-the-curse-of-king-tuts-tomb.json) |
@@ -9135,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Bike X | 213142 | [213142-extreme-bike-x.json](./213142-extreme-bike-x.json) |
 | Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
+| Extreme Boards and Blades | 78788 | [78788-extreme-boards-and-blades.json](./78788-extreme-boards-and-blades.json) |
 | Extreme Bullrider | 71846 | [71846-extreme-bullrider.json](./71846-extreme-bullrider.json) |
 | Extreme Burger Defense | 201342 | [201342-extreme-burger-defense.json](./201342-extreme-burger-defense.json) |
 | Extreme Bus Driver 2024 | 261401 | [261401-extreme-bus-driver-2024.json](./261401-extreme-bus-driver-2024.json) |
