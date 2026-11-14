@@ -12850,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Quest and the Temple of Apollo | 324279 | [324279-sir-quest-and-the-temple-of-apollo.json](./324279-sir-quest-and-the-temple-of-apollo.json) |
 | Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
+| Sir Smedieval | 129838 | [129838-sir-smedieval.json](./129838-sir-smedieval.json) |
 | Sir Squire | 220496 | [220496-sir-squire.json](./220496-sir-squire.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Stretchalot: The Wenches in the Well | 155370 | [155370-sir-stretchalot-the-wenches-in-the-well.json](./155370-sir-stretchalot-the-wenches-in-the-well.json) |
@@ -16567,6 +16568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
 | SnakEscape | 34278 | [34278-snakescape.json](./34278-snakescape.json) |
+| SnakEscape: Remastered | 129834 | [129834-snakescape-remastered.json](./129834-snakescape-remastered.json) |
 | SnakeScout | 102675 | [102675-snakescout.json](./102675-snakescout.json) |
 | Snakespell | 347445 | [347445-snakespell.json](./347445-snakespell.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
