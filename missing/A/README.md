@@ -6686,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
 | Aisle Lord | 46395 | [46395-aisle-lord.json](./46395-aisle-lord.json) |
 | Aisle Survive | 410432 | [410432-aisle-survive.json](./410432-aisle-survive.json) |
+| Aisleen | 101840 | [101840-aisleen.json](./101840-aisleen.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aisling and the Tavern of Elves | 169855 | [169855-aisling-and-the-tavern-of-elves.json](./169855-aisling-and-the-tavern-of-elves.json) |
@@ -7231,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Frogs | 295600 | [295600-alchemy-frogs.json](./295600-alchemy-frogs.json) |
 | Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy Hearts | 401065 | [401065-alchemy-hearts.json](./401065-alchemy-hearts.json) |
+| Alchemy Idle Clicker | 101804 | [101804-alchemy-idle-clicker.json](./101804-alchemy-idle-clicker.json) |
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
 | Alchemy Laboratory: Simulator | 326484 | [326484-alchemy-laboratory-simulator.json](./326484-alchemy-laboratory-simulator.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
@@ -13186,6 +13188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptica | 22278 | [22278-apocalyptica.json](./22278-apocalyptica.json) |
 | Apocalyptica | 377103 | [377103-apocalyptica.json](./377103-apocalyptica.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
+| Apocashop | 101808 | [101808-apocashop.json](./101808-apocashop.json) |
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
 | Apococlicks | 392754 | [392754-apococlicks.json](./392754-apococlicks.json) |
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
@@ -20342,6 +20345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Ghosts vs Stupid Zombies | 392570 | [392570-awesome-ghosts-vs-stupid-zombies.json](./392570-awesome-ghosts-vs-stupid-zombies.json) |
 | Awesome Golf | 12363 | [12363-awesome-golf.json](./12363-awesome-golf.json) |
 | Awesome Golf Simulator | 426042 | [426042-awesome-golf-simulator.json](./426042-awesome-golf-simulator.json) |
+| Awesome Happy Heroes | 101826 | [101826-awesome-happy-heroes.json](./101826-awesome-happy-heroes.json) |
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
