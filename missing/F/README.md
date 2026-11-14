@@ -1534,6 +1534,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falos | 310873 | [310873-falos.json](./310873-falos.json) |
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Alarm | 406656 | [406656-false-alarm.json](./406656-false-alarm.json) |
+| False Awakening - Episode 1 | 128677 | [128677-false-awakening-episode-1.json](./128677-false-awakening-episode-1.json) |
+| False Awakening - Episode 2 | 128678 | [128678-false-awakening-episode-2.json](./128678-false-awakening-episode-2.json) |
 | False Calamity | 211826 | [211826-false-calamity.json](./211826-false-calamity.json) |
 | False Dawn | 266378 | [266378-false-dawn.json](./266378-false-dawn.json) |
 | False Destination | 287271 | [287271-false-destination.json](./287271-false-destination.json) |
@@ -1554,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Oath | 415653 | [415653-false-oath.json](./415653-false-oath.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Princess Iruruu | 330020 | [330020-false-princess-iruruu.json](./330020-false-princess-iruruu.json) |
+| False Rebirth | 128676 | [128676-false-rebirth.json](./128676-false-rebirth.json) |
 | False Rebirth: Enhanced Edition | 179345 | [179345-false-rebirth-enhanced-edition.json](./179345-false-rebirth-enhanced-edition.json) |
 | False Server | 179311 | [179311-false-server.json](./179311-false-server.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
