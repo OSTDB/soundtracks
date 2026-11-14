@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carthanc | 281867 | [281867-carthanc.json](./281867-carthanc.json) |
 | Cartier 06 | 335139 | [335139-cartier-06.json](./335139-cartier-06.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
+| CartoGráfico | 134095 | [134095-cartografico.json](./134095-cartografico.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
 | Cartographers | 175748 | [175748-cartographers.json](./175748-cartographers.json) |
 | Cartomancy | 382554 | [382554-cartomancy.json](./382554-cartomancy.json) |
@@ -6162,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerius | 14001 | [14001-cerius.json](./14001-cerius.json) |
 | Cerkio | 176382 | [176382-cerkio.json](./176382-cerkio.json) |
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
+| Cerulean | 134113 | [134113-cerulean.json](./134113-cerulean.json) |
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
 | Cerulean Invasion | 370072 | [370072-cerulean-invasion.json](./370072-cerulean-invasion.json) |
 | Cerulean Moon | 120220 | [120220-cerulean-moon.json](./120220-cerulean-moon.json) |
@@ -21343,6 +21345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
 | Cubesc | 98760 | [98760-cubesc.json](./98760-cubesc.json) |
+| Cubesc: Dream of Mira | 134132 | [134132-cubesc-dream-of-mira.json](./134132-cubesc-dream-of-mira.json) |
 | Cubescape | 354736 | [354736-cubescape.json](./354736-cubescape.json) |
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
