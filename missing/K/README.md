@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kaptain Brawe: A Brawe New World | 10480 | [10480-kaptain-brawe-a-brawe-new-world.json](./10480-kaptain-brawe-a-brawe-new-world.json) |
 | Kaptajn Kaper | 112044 | [112044-kaptajn-kaper.json](./112044-kaptajn-kaper.json) |
+| Kaptein Sabeltann og Skatten i Lama Rama | 114623 | [114623-kaptein-sabeltann-og-skatten-i-lama-rama.json](./114623-kaptein-sabeltann-og-skatten-i-lama-rama.json) |
 | Kaputte Kranz Chap1 | 370992 | [370992-kaputte-kranz-chap1.json](./370992-kaputte-kranz-chap1.json) |
 | Kar Racing | 209845 | [209845-kar-racing.json](./209845-kar-racing.json) |
 | Kara | 405836 | [405836-kara.json](./405836-kara.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KickNSlap | 380188 | [380188-kicknslap.json](./380188-kicknslap.json) |
 | Kickochet | 128298 | [128298-kickochet.json](./128298-kickochet.json) |
 | KickOff | 165841 | [165841-kickoff.json](./165841-kickoff.json) |
+| Kickoff CM | 114627 | [114627-kickoff-cm.json](./114627-kickoff-cm.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
@@ -3613,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight | 41723 | [41723-kings-knight.json](./41723-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
+| King's Lair | 114470 | [114470-kings-lair.json](./114470-kings-lair.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's League: Odyssey | 174594 | [174594-kings-league-odyssey.json](./174594-kings-league-odyssey.json) |
 | King's Legacy | 10488 | [10488-kings-legacy.json](./10488-kings-legacy.json) |
