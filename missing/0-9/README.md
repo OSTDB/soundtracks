@@ -3421,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 | 45576 | [45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json](./45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json) |
 | 600Seconds: The Deep Church | 164079 | [164079-600seconds-the-deep-church.json](./164079-600seconds-the-deep-church.json) |
 | 60FPS Kitten | 252549 | [252549-60fps-kitten.json](./252549-60fps-kitten.json) |
+| 61 Days | 121088 | [121088-61-days.json](./121088-61-days.json) |
 | 6120 | 117257 | [117257-6120.json](./117257-6120.json) |
 | 615≠0 Repost Request | 394069 | [394069-615-0-repost-request.json](./394069-615-0-repost-request.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
