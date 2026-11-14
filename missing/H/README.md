@@ -12285,6 +12285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Rules | 169138 | [169138-house-of-rules.json](./169138-house-of-rules.json) |
 | House of Saturn | 379191 | [379191-house-of-saturn.json](./379191-house-of-saturn.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
+| House of Shadows | 125518 | [125518-house-of-shadows.json](./125518-house-of-shadows.json) |
 | House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
