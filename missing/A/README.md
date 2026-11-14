@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tower Full of Cats | 234411 | [234411-a-tower-full-of-cats.json](./234411-a-tower-full-of-cats.json) |
 | A Tower's Will | 324249 | [324249-a-towers-will.json](./324249-a-towers-will.json) |
 | A Town Called Happenstance | 211084 | [211084-a-town-called-happenstance.json](./211084-a-town-called-happenstance.json) |
+| A Township Tale | 98115 | [98115-a-township-tale.json](./98115-a-township-tale.json) |
 | A tractor | 105073 | [105073-a-tractor.json](./105073-a-tractor.json) |
 | A Tragic Accidental Still Life | 215468 | [215468-a-tragic-accidental-still-life.json](./215468-a-tragic-accidental-still-life.json) |
 | A Trail of Ooze: Chapter 1 | 174094 | [174094-a-trail-of-ooze-chapter-1.json](./174094-a-trail-of-ooze-chapter-1.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Space | 172031 | [172031-ace-of-space.json](./172031-ace-of-space.json) |
 | Ace of Space | 376841 | [376841-ace-of-space.json](./376841-ace-of-space.json) |
 | Ace of Spades | 236386 | [236386-ace-of-spades.json](./236386-ace-of-spades.json) |
+| Ace of Spades 2 | 98086 | [98086-ace-of-spades-2.json](./98086-ace-of-spades-2.json) |
 | Ace of Spades: Battle Builder | 23400 | [23400-ace-of-spades-battle-builder.json](./23400-ace-of-spades-battle-builder.json) |
 | Ace of Wands | 321410 | [321410-ace-of-wands.json](./321410-ace-of-wands.json) |
 | Ace of Words | 34543 | [34543-ace-of-words.json](./34543-ace-of-words.json) |
@@ -7738,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Boom Boom | 247917 | [247917-alien-boom-boom.json](./247917-alien-boom-boom.json) |
+| Alien Breaker | 98130 | [98130-alien-breaker.json](./98130-alien-breaker.json) |
 | Alien Breaker Deluxe | 225515 | [225515-alien-breaker-deluxe.json](./225515-alien-breaker-deluxe.json) |
 | Alien Breakout | 350717 | [350717-alien-breakout.json](./350717-alien-breakout.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
@@ -11770,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Shop Simulator | 326485 | [326485-anime-shop-simulator.json](./326485-anime-shop-simulator.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Slayer | 258352 | [258352-anime-slayer.json](./258352-anime-slayer.json) |
+| Anime Slot Revolution: Pachi-Slot Kidou Senshi Gundam II - Ai Senshi-hen | 98138 | [98138-anime-slot-revolution-pachi-slot-kidou-senshi-gundam-ii-ai-senshi-hen.json](./98138-anime-slot-revolution-pachi-slot-kidou-senshi-gundam-ii-ai-senshi-hen.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
 | Anime Solitaire | 334820 | [334820-anime-solitaire.json](./334820-anime-solitaire.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
@@ -12836,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoharu Distortion: Chapter.1 | 397975 | [397975-aoharu-distortion-chapter-1.json](./397975-aoharu-distortion-chapter-1.json) |
 | Aoharu Distortion: Chapter.2 | 397976 | [397976-aoharu-distortion-chapter-2.json](./397976-aoharu-distortion-chapter-2.json) |
 | Aoharu Distortion: Chapter.3 | 397978 | [397978-aoharu-distortion-chapter-3.json](./397978-aoharu-distortion-chapter-3.json) |
+| Aohina | 98091 | [98091-aohina.json](./98091-aohina.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
 | Aoi Blink | 42093 | [42093-aoi-blink.json](./42093-aoi-blink.json) |
@@ -15734,6 +15739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | Armageddon Riders + Planets Under Attack Bundle | 99803 | [99803-armageddon-riders-planets-under-attack-bundle.json](./99803-armageddon-riders-planets-under-attack-bundle.json) |
+| Armageddon Squadron | 98127 | [98127-armageddon-squadron.json](./98127-armageddon-squadron.json) |
 | Armageddon War: Old Era Wreckers | 199678 | [199678-armageddon-war-old-era-wreckers.json](./199678-armageddon-war-old-era-wreckers.json) |
 | Armageddon: For the Crimson Glory | 191374 | [191374-armageddon-for-the-crimson-glory.json](./191374-armageddon-for-the-crimson-glory.json) |
 | Armageddonica | 361832 | [361832-armageddonica.json](./361832-armageddonica.json) |
