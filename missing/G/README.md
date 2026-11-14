@@ -4735,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giggleport: A Brainrot-Style Read-Along Adventure | 412578 | [412578-giggleport-a-brainrot-style-read-along-adventure.json](./412578-giggleport-a-brainrot-style-read-along-adventure.json) |
 | Gigils | 391762 | [391762-gigils.json](./391762-gigils.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
+| Gigycube | 165203 | [165203-gigycube.json](./165203-gigycube.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
 | Gilbert: Escape from Drill | 69159 | [69159-gilbert-escape-from-drill.json](./69159-gilbert-escape-from-drill.json) |
