@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires Shall Fall | 216641 | [216641-empires-shall-fall.json](./216641-empires-shall-fall.json) |
 | Empires Through the Aeons | 240690 | [240690-empires-through-the-aeons.json](./240690-empires-through-the-aeons.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
+| Empires:The Rise | 111781 | [111781-empires-the-rise.json](./111781-empires-the-rise.json) |
 | Empis | 215869 | [215869-empis.json](./215869-empis.json) |
 | Emplacement | 239804 | [239804-emplacement.json](./239804-emplacement.json) |
 | Employee 925 | 364167 | [364167-employee-925.json](./364167-employee-925.json) |
@@ -6796,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Rain | 306273 | [306273-eternal-rain.json](./306273-eternal-rain.json) |
 | Eternal Realm | 280723 | [280723-eternal-realm.json](./280723-eternal-realm.json) |
 | Eternal Realm | 35156 | [35156-eternal-realm.json](./35156-eternal-realm.json) |
+| Eternal Realm II: Dark Matter | 111951 | [111951-eternal-realm-ii-dark-matter.json](./111951-eternal-realm-ii-dark-matter.json) |
 | Eternal Reckoning | 287733 | [287733-eternal-reckoning.json](./287733-eternal-reckoning.json) |
 | Eternal Refresh | 419948 | [419948-eternal-refresh.json](./419948-eternal-refresh.json) |
 | Eternal Remnant: The First Chapter | 195411 | [195411-eternal-remnant-the-first-chapter.json](./195411-eternal-remnant-the-first-chapter.json) |
@@ -8828,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
 | Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
 | Experiment Anglerfish: White Hook River | 420908 | [420908-experiment-anglerfish-white-hook-river.json](./420908-experiment-anglerfish-white-hook-river.json) |
+| Experiment Gone Rogue | 111797 | [111797-experiment-gone-rogue.json](./111797-experiment-gone-rogue.json) |
 | Experiment of Being | 189045 | [189045-experiment-of-being.json](./189045-experiment-of-being.json) |
 | Experiment Z: Zombie Survival | 338776 | [338776-experiment-z-zombie-survival.json](./338776-experiment-z-zombie-survival.json) |
 | Experiment: Groceries | 229299 | [229299-experiment-groceries.json](./229299-experiment-groceries.json) |
