@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
 | Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart Star | 113945 | [113945-heart-star.json](./113945-heart-star.json) |
+| Heart the Beat | 128695 | [128695-heart-the-beat.json](./128695-heart-the-beat.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
 | Heart vs HP | 242302 | [242302-heart-vs-hp.json](./242302-heart-vs-hp.json) |
 | Heart World | 157329 | [157329-heart-world.json](./157329-heart-world.json) |
@@ -12481,6 +12482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
 | How to Be a Tree | 177185 | [177185-how-to-be-a-tree.json](./177185-how-to-be-a-tree.json) |
 | How to be Best Russian Game Developer | 292739 | [292739-how-to-be-best-russian-game-developer.json](./292739-how-to-be-best-russian-game-developer.json) |
+| How to be Happy | 128706 | [128706-how-to-be-happy.json](./128706-how-to-be-happy.json) |
 | How to Become a Ninja: Part 1 | 126353 | [126353-how-to-become-a-ninja-part-1.json](./126353-how-to-become-a-ninja-part-1.json) |
 | How to Blorrble-Blobble | 179007 | [179007-how-to-blorrble-blobble.json](./179007-how-to-blorrble-blobble.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
