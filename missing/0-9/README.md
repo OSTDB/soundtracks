@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1775: Rebellion - Southern Theatre Scenario | 168108 | [168108-1775-rebellion-southern-theatre-scenario.json](./168108-1775-rebellion-southern-theatre-scenario.json) |
 | 17CF Quest | 95065 | [95065-17cf-quest.json](./95065-17cf-quest.json) |
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
+| 18 Classic Card Games | 98616 | [98616-18-classic-card-games.json](./98616-18-classic-card-games.json) |
 | 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
 | 18 Floors | 104939 | [104939-18-floors.json](./104939-18-floors.json) |
 | 18 Floors | 411268 | [411268-18-floors.json](./411268-18-floors.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 in 1: Fashion Games! | 223754 | [223754-3-in-1-fashion-games.json](./223754-3-in-1-fashion-games.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
+| 3 in 1: Solitaire, Mahjong, & Tangram | 98626 | [98626-3-in-1-solitaire-mahjong-and-tangram.json](./98626-3-in-1-solitaire-mahjong-and-tangram.json) |
 | 3 In 1: Sudoku, Mahjong, MineSweeper | 263396 | [263396-3-in-1-sudoku-mahjong-minesweeper.json](./263396-3-in-1-sudoku-mahjong-minesweeper.json) |
 | 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
 | 3 in1 Racing Collection | 391258 | [391258-3-in1-racing-collection.json](./391258-3-in1-racing-collection.json) |
