@@ -17307,6 +17307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowmobile Championship 2000 | 70325 | [70325-snowmobile-championship-2000.json](./70325-snowmobile-championship-2000.json) |
 | Snowmobile Extreme Racing | 87247 | [87247-snowmobile-extreme-racing.json](./87247-snowmobile-extreme-racing.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
+| SnowNight | 113061 | [113061-snownight.json](./113061-snownight.json) |
 | Snowpack Park | 85383 | [85383-snowpack-park.json](./85383-snowpack-park.json) |
 | Snowpainters | 157248 | [157248-snowpainters.json](./157248-snowpainters.json) |
 | Snowpult | 286231 | [286231-snowpult.json](./286231-snowpult.json) |
@@ -36886,6 +36887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Rally Racer 2 in 1 | 148650 | [148650-super-street-rally-racer-2-in-1.json](./148650-super-street-rally-racer-2-in-1.json) |
 | Super Street: The Game | 109292 | [109292-super-street-the-game.json](./109292-super-street-the-game.json) |
 | Super Strike Eagle | 42449 | [42449-super-strike-eagle.json](./42449-super-strike-eagle.json) |
+| Super Strike Trilogy | 113097 | [113097-super-strike-trilogy.json](./113097-super-strike-trilogy.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Stroke the Pants | 343931 | [343931-super-stroke-the-pants.json](./343931-super-stroke-the-pants.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
