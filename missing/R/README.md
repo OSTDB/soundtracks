@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | RantCPU's: ClickBait | 310239 | [310239-rantcpus-clickbait.json](./310239-rantcpus-clickbait.json) |
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
+| ranTrainer | 141933 | [141933-rantrainer.json](./141933-rantrainer.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
 | Ranx Xerox | 37264 | [37264-ranx-xerox.json](./37264-ranx-xerox.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconquest | 31253 | [31253-reconquest.json](./31253-reconquest.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
 | Reconquista | 384598 | [384598-reconquista.json](./384598-reconquista.json) |
+| Reconsider | 141940 | [141940-reconsider.json](./141940-reconsider.json) |
 | Reconstruction | 130101 | [130101-reconstruction.json](./130101-reconstruction.json) |
 | Reconstruction/Decomposition | 261497 | [261497-reconstruction-decomposition.json](./261497-reconstruction-decomposition.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
@@ -8002,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
 | Ride Hailing Simulator | 326363 | [326363-ride-hailing-simulator.json](./326363-ride-hailing-simulator.json) |
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
+| Ride n' Chill | 141939 | [141939-ride-n-chill.json](./141939-ride-n-chill.json) |
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride or Die! | 250997 | [250997-ride-or-die.json](./250997-ride-or-die.json) |
 | Ride Out Heroes | 124515 | [124515-ride-out-heroes.json](./124515-ride-out-heroes.json) |
