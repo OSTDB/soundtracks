@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Busters: Boss Challenge Pack | 261854 | [261854-glitch-busters-boss-challenge-pack.json](./261854-glitch-busters-boss-challenge-pack.json) |
 | Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
+| Glitch Dash | 88548 | [88548-glitch-dash.json](./88548-glitch-dash.json) |
 | Glitch Dream | 182755 | [182755-glitch-dream.json](./182755-glitch-dream.json) |
 | Glitch Dungeon | 177250 | [177250-glitch-dungeon.json](./177250-glitch-dungeon.json) |
 | Glitch Escape | 155925 | [155925-glitch-escape.json](./155925-glitch-escape.json) |
@@ -7327,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldie | 143351 | [143351-goldie.json](./143351-goldie.json) |
 | Goldilock One: Boss Arena | 138247 | [138247-goldilock-one-boss-arena.json](./138247-goldilock-one-boss-arena.json) |
 | Goldilock One: The Mists of Jakaira | 253940 | [253940-goldilock-one-the-mists-of-jakaira.json](./253940-goldilock-one-the-mists-of-jakaira.json) |
+| Goldilocks and the Three Bears - Search and find | 88520 | [88520-goldilocks-and-the-three-bears-search-and-find.json](./88520-goldilocks-and-the-three-bears-search-and-find.json) |
 | Goldio | 316185 | [316185-goldio.json](./316185-goldio.json) |
 | GoldMan HD | 89794 | [89794-goldman-hd.json](./89794-goldman-hd.json) |
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
@@ -8993,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa's Table | 32664 | [32664-grandpas-table.json](./32664-grandpas-table.json) |
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
 | GrandPaper | 322676 | [322676-grandpaper.json](./322676-grandpaper.json) |
+| GrandPrix Unlimited 2017 | 88537 | [88537-grandprix-unlimited-2017.json](./88537-grandprix-unlimited-2017.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
 | Grandread | 130469 | [130469-grandread.json](./130469-grandread.json) |
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
@@ -9621,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
 | Graymerca | 330779 | [330779-graymerca.json](./330779-graymerca.json) |
+| Grayout | 88532 | [88532-grayout.json](./88532-grayout.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
 | GrayScale | 120921 | [120921-grayscale.json](./120921-grayscale.json) |
