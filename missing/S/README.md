@@ -4447,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Monster Simulator | 239987 | [239987-sea-monster-simulator.json](./239987-sea-monster-simulator.json) |
 | Sea Monsters: A Prehistoric Adventure | 206650 | [206650-sea-monsters-a-prehistoric-adventure.json](./206650-sea-monsters-a-prehistoric-adventure.json) |
 | Sea Monsters: A Prehistoric Adventure | 21480 | [21480-sea-monsters-a-prehistoric-adventure.json](./21480-sea-monsters-a-prehistoric-adventure.json) |
+| Sea of Blood | 150796 | [150796-sea-of-blood.json](./150796-sea-of-blood.json) |
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Radiation 2 | 360154 | [360154-sea-of-radiation-2.json](./360154-sea-of-radiation-2.json) |
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
 | Sea Of Rifts | 279270 | [279270-sea-of-rifts.json](./279270-sea-of-rifts.json) |
+| Sea of Roses | 150722 | [150722-sea-of-roses.json](./150722-sea-of-roses.json) |
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Solitude: The Director's Cut | 141535 | [141535-sea-of-solitude-the-directors-cut.json](./141535-sea-of-solitude-the-directors-cut.json) |
 | Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
@@ -6677,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Doors | 135475 | [135475-seven-doors.json](./135475-seven-doors.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Dragon Saga | 60626 | [60626-seven-dragon-saga.json](./60626-seven-dragon-saga.json) |
+| Seven Dunes: Curse on the Golden Sand | 150798 | [150798-seven-dunes-curse-on-the-golden-sand.json](./150798-seven-dunes-curse-on-the-golden-sand.json) |
 | Seven Favors | 399024 | [399024-seven-favors.json](./399024-seven-favors.json) |
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Haunted Seas | 69148 | [69148-seven-haunted-seas.json](./69148-seven-haunted-seas.json) |
@@ -20739,6 +20742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
 | Souls Inferno | 399668 | [399668-souls-inferno.json](./399668-souls-inferno.json) |
+| Souls Lore | 150725 | [150725-souls-lore.json](./150725-souls-lore.json) |
 | Souls of Amethyst | 145326 | [145326-souls-of-amethyst.json](./145326-souls-of-amethyst.json) |
 | Souls of Chronos | 233791 | [233791-souls-of-chronos.json](./233791-souls-of-chronos.json) |
 | Souls of Chronos Gaiden | 346370 | [346370-souls-of-chronos-gaiden.json](./346370-souls-of-chronos-gaiden.json) |
@@ -35949,6 +35953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
 | Super Professional Baseball II | 37854 | [37854-super-professional-baseball-ii.json](./37854-super-professional-baseball-ii.json) |
 | Super Professor | 44275 | [44275-super-professor.json](./44275-super-professor.json) |
+| Super Psy Penguin | 150790 | [150790-super-psy-penguin.json](./150790-super-psy-penguin.json) |
 | Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
 | Super Puck Monster | 218774 | [218774-super-puck-monster.json](./218774-super-puck-monster.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
@@ -38773,6 +38778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
 | Sweet Tooth | 155575 | [155575-sweet-tooth.json](./155575-sweet-tooth.json) |
 | Sweet Tooth 2 | 157449 | [157449-sweet-tooth-2.json](./157449-sweet-tooth-2.json) |
+| Sweet Tooth 3 | 150734 | [150734-sweet-tooth-3.json](./150734-sweet-tooth-3.json) |
 | Sweet Tooth to Go | 208349 | [208349-sweet-tooth-to-go.json](./208349-sweet-tooth-to-go.json) |
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Town | 273815 | [273815-sweet-town.json](./273815-sweet-town.json) |
