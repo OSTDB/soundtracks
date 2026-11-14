@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfling | 316562 | [316562-halfling.json](./316562-halfling.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
+| Halfpipe Hero | 113978 | [113978-halfpipe-hero.json](./113978-halfpipe-hero.json) |
 | Halfquake | 272151 | [272151-halfquake.json](./272151-halfquake.json) |
 | Halfquake Amen | 272152 | [272152-halfquake-amen.json](./272152-halfquake-amen.json) |
 | Halfquake Sunrise | 272153 | [272153-halfquake-sunrise.json](./272153-halfquake-sunrise.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy's Humble Burger Cult | 407065 | [407065-happys-humble-burger-cult.json](./407065-happys-humble-burger-cult.json) |
 | Happy's Humble Burger Cult: Trial by Fryer | 418061 | [418061-happys-humble-burger-cult-trial-by-fryer.json](./418061-happys-humble-burger-cult-trial-by-fryer.json) |
 | Happy's Humble Burger Farm | 140654 | [140654-happys-humble-burger-farm.json](./140654-happys-humble-burger-farm.json) |
+| Happybluebear | 114454 | [114454-happybluebear.json](./114454-happybluebear.json) |
 | HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
@@ -10477,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Bee | 71186 | [71186-honey-bee.json](./71186-honey-bee.json) |
 | Honey Bee With Guns | 298663 | [298663-honey-bee-with-guns.json](./298663-honey-bee-with-guns.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
+| Honey Comb Home | 114461 | [114461-honey-comb-home.json](./114461-honey-comb-home.json) |
 | Honey Coming Clair Mini Fan Disc | 410716 | [410716-honey-coming-clair-mini-fan-disc.json](./410716-honey-coming-clair-mini-fan-disc.json) |
 | Honey Dance | 130083 | [130083-honey-dance.json](./130083-honey-dance.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
