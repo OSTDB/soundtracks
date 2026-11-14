@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou x Alice: All in One | 54926 | [54926-taishou-x-alice-all-in-one.json](./54926-taishou-x-alice-all-in-one.json) |
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
+| Taito Chase H.Q. Plus S.C.I.: Special Criminal Investigation | 78771 | [78771-taito-chase-h-q-plus-s-c-i-special-criminal-investigation.json](./78771-taito-chase-h-q-plus-s-c-i-special-criminal-investigation.json) |
 | Taito Grand Prix | 65380 | [65380-taito-grand-prix.json](./65380-taito-grand-prix.json) |
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
 | Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
 | Tegami Bachi: Kokoro Tsumugu-mono he | 269514 | [269514-tegami-bachi-kokoro-tsumugu-mono-he.json](./269514-tegami-bachi-kokoro-tsumugu-mono-he.json) |
+| Tegel's Mercenaries | 78796 | [78796-tegels-mercenaries.json](./78796-tegels-mercenaries.json) |
 | Tegra: Post Apocalypse Survival | 231886 | [231886-tegra-post-apocalypse-survival.json](./231886-tegra-post-apocalypse-survival.json) |
 | Tegridy Puzzles | 195417 | [195417-tegridy-puzzles.json](./195417-tegridy-puzzles.json) |
 | Tegzer | 288691 | [288691-tegzer.json](./288691-tegzer.json) |
@@ -10778,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forsaken Tomb | 384820 | [384820-the-forsaken-tomb.json](./384820-the-forsaken-tomb.json) |
 | The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
 | The Fortress of Doom | 285260 | [285260-the-fortress-of-doom.json](./285260-the-fortress-of-doom.json) |
+| The Fortress of Dr. Radiaki | 78778 | [78778-the-fortress-of-dr-radiaki.json](./78778-the-fortress-of-dr-radiaki.json) |
 | The Fortress of Varnolis | 176114 | [176114-the-fortress-of-varnolis.json](./176114-the-fortress-of-varnolis.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
@@ -13915,6 +13918,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Monster Mountain | 106490 | [106490-the-legend-of-monster-mountain.json](./106490-the-legend-of-monster-mountain.json) |
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
 | The Legend of Myra | 64186 | [64186-the-legend-of-myra.json](./64186-the-legend-of-myra.json) |
+| The Legend of Mystery: Europe | 78798 | [78798-the-legend-of-mystery-europe.json](./78798-the-legend-of-mystery-europe.json) |
+| The Legend of Mystery: High Cultures | 78799 | [78799-the-legend-of-mystery-high-cultures.json](./78799-the-legend-of-mystery-high-cultures.json) |
 | The Legend of Mystic Zone | 274112 | [274112-the-legend-of-mystic-zone.json](./274112-the-legend-of-mystic-zone.json) |
 | The Legend of Mythos | 195674 | [195674-the-legend-of-mythos.json](./195674-the-legend-of-mythos.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
@@ -19381,6 +19386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Redbox: An Escape From Desire | 149377 | [149377-the-tales-of-redbox-an-escape-from-desire.json](./149377-the-tales-of-redbox-an-escape-from-desire.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
+| The Talisman | 78793 | [78793-the-talisman.json](./78793-the-talisman.json) |
 | The Talking Words Factory | 230453 | [230453-the-talking-words-factory.json](./230453-the-talking-words-factory.json) |
 | The Tall Man Tapes | 393557 | [393557-the-tall-man-tapes.json](./393557-the-tall-man-tapes.json) |
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
@@ -28184,6 +28190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Underground 2: The Shell Secret | 314453 | [314453-tony-hawks-underground-2-the-shell-secret.json](./314453-tony-hawks-underground-2-the-shell-secret.json) |
 | Tony Hawk's Underground 2: Wuhu Island from Mario Kart 7 | 314454 | [314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json](./314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json) |
 | Tony Hawk's Vert | 199792 | [199792-tony-hawks-vert.json](./199792-tony-hawks-vert.json) |
+| Tony La Russa Baseball | 78789 | [78789-tony-la-russa-baseball.json](./78789-tony-la-russa-baseball.json) |
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony La Russa Baseball 4 | 62323 | [62323-tony-la-russa-baseball-4.json](./62323-tony-la-russa-baseball-4.json) |
@@ -28858,6 +28865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Conflict: Resistance - Eastern Airborne Forces | 304418 | [304418-total-conflict-resistance-eastern-airborne-forces.json](./304418-total-conflict-resistance-eastern-airborne-forces.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Control | 288583 | [288583-total-control.json](./288583-total-control.json) |
+| Total Control Football | 78782 | [78782-total-control-football.json](./78782-total-control-football.json) |
 | Total Dark | 156834 | [156834-total-dark.json](./156834-total-dark.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
 | Total Distortion | 13787 | [13787-total-distortion.json](./13787-total-distortion.json) |
