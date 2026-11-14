@@ -10062,6 +10062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alcatraz | 36385 | [36385-planet-alcatraz.json](./36385-planet-alcatraz.json) |
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
+| Planet Alpha: Digital Deluxe Edition | 124893 | [124893-planet-alpha-digital-deluxe-edition.json](./124893-planet-alpha-digital-deluxe-edition.json) |
 | Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
 | Planet Ancyra Chronicles | 38795 | [38795-planet-ancyra-chronicles.json](./38795-planet-ancyra-chronicles.json) |
 | Planet Arkadia | 16614 | [16614-planet-arkadia.json](./16614-planet-arkadia.json) |
@@ -13076,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
 | Polaris Outpost | 272037 | [272037-polaris-outpost.json](./272037-polaris-outpost.json) |
 | Polaris Sector | 24620 | [24620-polaris-sector.json](./24620-polaris-sector.json) |
+| Polaris Sector: Gold Edition | 124871 | [124871-polaris-sector-gold-edition.json](./124871-polaris-sector-gold-edition.json) |
 | Polaris Sector: Lumens | 172277 | [172277-polaris-sector-lumens.json](./172277-polaris-sector-lumens.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polaris SnoCross | 3575 | [3575-polaris-snocross.json](./3575-polaris-snocross.json) |
@@ -16289,6 +16291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
 | Prison Architect | 1338 | [1338-prison-architect.json](./1338-prison-architect.json) |
 | Prison Architect DLC Bundle | 118886 | [118886-prison-architect-dlc-bundle.json](./118886-prison-architect-dlc-bundle.json) |
+| Prison Architect: Aficionado | 124866 | [124866-prison-architect-aficionado.json](./124866-prison-architect-aficionado.json) |
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
 | Prison Architect: All Day and a Night Edition | 82440 | [82440-prison-architect-all-day-and-a-night-edition.json](./82440-prison-architect-all-day-and-a-night-edition.json) |
 | Prison Architect: All Day and a Psych | 118834 | [118834-prison-architect-all-day-and-a-psych.json](./118834-prison-architect-all-day-and-a-psych.json) |
