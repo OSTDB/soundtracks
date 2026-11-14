@@ -4864,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
 | Knife to Meet You | 159062 | [159062-knife-to-meet-you.json](./159062-knife-to-meet-you.json) |
 | Knife vs Fruit: Just Shoot It! | 102650 | [102650-knife-vs-fruit-just-shoot-it.json](./102650-knife-vs-fruit-just-shoot-it.json) |
+| Knifeboy | 113261 | [113261-knifeboy.json](./113261-knifeboy.json) |
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
