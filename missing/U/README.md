@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Chaos | 8469 | [8469-urban-chaos.json](./8469-urban-chaos.json) |
 | Urban Chaos: Riot Response | 6223 | [6223-urban-chaos-riot-response.json](./6223-urban-chaos-riot-response.json) |
 | Urban Chase | 279458 | [279458-urban-chase.json](./279458-urban-chase.json) |
+| Urban Constructor | 83075 | [83075-urban-constructor.json](./83075-urban-constructor.json) |
 | Urban Crooks | 247122 | [247122-urban-crooks.json](./247122-urban-crooks.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
