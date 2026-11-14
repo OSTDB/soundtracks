@@ -5797,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: Death in Hardcover | 187924 | [187924-phantasmat-death-in-hardcover.json](./187924-phantasmat-death-in-hardcover.json) |
 | Phantasmat: Death in Hardcover - Collector’s Edition | 234556 | [234556-phantasmat-death-in-hardcover-collector-s-edition.json](./234556-phantasmat-death-in-hardcover-collector-s-edition.json) |
 | Phantasmat: Déjà Vu - Collector's Edition | 234555 | [234555-phantasmat-deja-vu-collectors-edition.json](./234555-phantasmat-deja-vu-collectors-edition.json) |
+| Phantasmat: Insidious Dreams | 90722 | [90722-phantasmat-insidious-dreams.json](./90722-phantasmat-insidious-dreams.json) |
 | Phantasmat: Insidious Dreams - Collector’s Edition | 228239 | [228239-phantasmat-insidious-dreams-collector-s-edition.json](./228239-phantasmat-insidious-dreams-collector-s-edition.json) |
 | Phantasmat: Mournful Loch - Collector's Edition | 228238 | [228238-phantasmat-mournful-loch-collectors-edition.json](./228238-phantasmat-mournful-loch-collectors-edition.json) |
 | Phantasmat: Reign of Shadows - Collector’s Edition | 228237 | [228237-phantasmat-reign-of-shadows-collector-s-edition.json](./228237-phantasmat-reign-of-shadows-collector-s-edition.json) |
@@ -17126,6 +17127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progenitor | 378978 | [378978-progenitor.json](./378978-progenitor.json) |
 | Progeny VR | 81101 | [81101-progeny-vr.json](./81101-progeny-vr.json) |
 | Progeria: Vae Victis | 190323 | [190323-progeria-vae-victis.json](./190323-progeria-vae-victis.json) |
+| Progetto Ustica | 90717 | [90717-progetto-ustica.json](./90717-progetto-ustica.json) |
 | Prognostic | 178287 | [178287-prognostic.json](./178287-prognostic.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
 | Program Penguin | 349405 | [349405-program-penguin.json](./349405-program-penguin.json) |
