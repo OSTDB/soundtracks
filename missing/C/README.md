@@ -8017,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 3: Revenge of the Yolk - Christmas Edition | 52703 | [52703-chicken-invaders-3-revenge-of-the-yolk-christmas-edition.json](./52703-chicken-invaders-3-revenge-of-the-yolk-christmas-edition.json) |
 | Chicken Invaders 4 | 36308 | [36308-chicken-invaders-4.json](./36308-chicken-invaders-4.json) |
 | Chicken Invaders 4 Deluxe | 52699 | [52699-chicken-invaders-4-deluxe.json](./52699-chicken-invaders-4-deluxe.json) |
+| Chicken Invaders 4 Xmas | 93859 | [93859-chicken-invaders-4-xmas.json](./93859-chicken-invaders-4-xmas.json) |
 | Chicken Invaders 4: Christmas Edition | 52701 | [52701-chicken-invaders-4-christmas-edition.json](./52701-chicken-invaders-4-christmas-edition.json) |
 | Chicken Invaders 4: Easter Edition | 170138 | [170138-chicken-invaders-4-easter-edition.json](./170138-chicken-invaders-4-easter-edition.json) |
 | Chicken Invaders 4: Thanksgiving Edition | 52700 | [52700-chicken-invaders-4-thanksgiving-edition.json](./52700-chicken-invaders-4-thanksgiving-edition.json) |
@@ -9100,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fever! | 181648 | [181648-christmas-fever.json](./181648-christmas-fever.json) |
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
+| Christmas Games Puzzle For Kids | 93862 | [93862-christmas-games-puzzle-for-kids.json](./93862-christmas-games-puzzle-for-kids.json) |
 | Christmas Gift Catcher | 325789 | [325789-christmas-gift-catcher.json](./325789-christmas-gift-catcher.json) |
 | Christmas Girls | 279522 | [279522-christmas-girls.json](./279522-christmas-girls.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
@@ -13563,6 +13565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Together | 256390 | [256390-color-together.json](./256390-color-together.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Tower Defence | 309712 | [309712-color-tower-defence.json](./309712-color-tower-defence.json) |
+| Color Trick - Challenge Your Brain | 93857 | [93857-color-trick-challenge-your-brain.json](./93857-color-trick-challenge-your-brain.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Trouble | 108587 | [108587-color-trouble.json](./108587-color-trouble.json) |
 | Color Tube | 101674 | [101674-color-tube.json](./101674-color-tube.json) |
@@ -13673,6 +13676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book - Halloween MAX | 99856 | [99856-coloring-book-halloween-max.json](./99856-coloring-book-halloween-max.json) |
 | Coloring Book - Monsters | 89789 | [89789-coloring-book-monsters.json](./89789-coloring-book-monsters.json) |
+| Coloring Book - Ocean | 93854 | [93854-coloring-book-ocean.json](./93854-coloring-book-ocean.json) |
 | Coloring Book - Santa | 89029 | [89029-coloring-book-santa.json](./89029-coloring-book-santa.json) |
 | Coloring Book - Sports | 90772 | [90772-coloring-book-sports.json](./90772-coloring-book-sports.json) |
 | Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
@@ -20764,6 +20768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptis | 250895 | [250895-cryptis.json](./250895-cryptis.json) |
 | Crypto Ball Z | 235403 | [235403-crypto-ball-z.json](./235403-crypto-ball-z.json) |
+| Crypto by Powgi | 93864 | [93864-crypto-by-powgi.json](./93864-crypto-by-powgi.json) |
 | Crypto Cars World | 166476 | [166476-crypto-cars-world.json](./166476-crypto-cars-world.json) |
 | Crypto Clicker | 391693 | [391693-crypto-clicker.json](./391693-crypto-clicker.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
