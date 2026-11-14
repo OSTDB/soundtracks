@@ -7841,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Drift | 56109 | [56109-nova-drift.json](./56109-nova-drift.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Era: Atom | 320080 | [320080-nova-era-atom.json](./320080-nova-era-atom.json) |
+| Nova Escape - Space Runner | 123124 | [123124-nova-escape-space-runner.json](./123124-nova-escape-space-runner.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
@@ -8478,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | Nutmeg! | 360208 | [360208-nutmeg.json](./360208-nutmeg.json) |
+| NuTokyo 2199 | 123659 | [123659-nutokyo-2199.json](./123659-nutokyo-2199.json) |
 | Nutrients for Life | 107417 | [107417-nutrients-for-life.json](./107417-nutrients-for-life.json) |
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
 | Nuts | 282631 | [282631-nuts.json](./282631-nuts.json) |
