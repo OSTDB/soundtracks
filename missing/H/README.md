@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair of the Dog | 144638 | [144638-hair-of-the-dog.json](./144638-hair-of-the-dog.json) |
 | Hair Removal Salon Simulator | 412917 | [412917-hair-removal-salon-simulator.json](./412917-hair-removal-salon-simulator.json) |
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
+| Hair Salon: Pocket Stylist | 84493 | [84493-hair-salon-pocket-stylist.json](./84493-hair-salon-pocket-stylist.json) |
 | Hair Tattoo: Barbershop Master | 208920 | [208920-hair-tattoo-barbershop-master.json](./208920-hair-tattoo-barbershop-master.json) |
 | Hairdresser Builder Bundle | 311044 | [311044-hairdresser-builder-bundle.json](./311044-hairdresser-builder-bundle.json) |
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Fate: Deluxe Edition | 118664 | [118664-hand-of-fate-deluxe-edition.json](./118664-hand-of-fate-deluxe-edition.json) |
 | Hand of Fate: Hordes | 334544 | [334544-hand-of-fate-hordes.json](./334544-hand-of-fate-hordes.json) |
 | Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
+| Hand of Hades Chapter 1 | 83674 | [83674-hand-of-hades-chapter-1.json](./83674-hand-of-hades-chapter-1.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
 | Hand of Horzasha | 114078 | [114078-hand-of-horzasha.json](./114078-hand-of-horzasha.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
@@ -1704,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
 | Hantu and Hunted | 408579 | [408579-hantu-and-hunted.json](./408579-hantu-and-hunted.json) |
 | Hanuman Chalisa 3D | 100507 | [100507-hanuman-chalisa-3d.json](./100507-hanuman-chalisa-3d.json) |
+| Hanuman: Boy Warrior | 83673 | [83673-hanuman-boy-warrior.json](./83673-hanuman-boy-warrior.json) |
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hany Party Game | 65315 | [65315-hany-party-game.json](./65315-hany-party-game.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
@@ -1764,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday | 295110 | [295110-happy-birthday.json](./295110-happy-birthday.json) |
+| Happy Birthday Mart | 84491 | [84491-happy-birthday-mart.json](./84491-happy-birthday-mart.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthday, Adolf! | 132593 | [132593-happy-birthday-adolf.json](./132593-happy-birthday-adolf.json) |
 | Happy birthday, Alfie Atkins! | 90872 | [90872-happy-birthday-alfie-atkins.json](./90872-happy-birthday-alfie-atkins.json) |
@@ -2149,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard Work | 133262 | [133262-hard-work.json](./133262-hard-work.json) |
 | Hard Work | 343766 | [343766-hard-work.json](./343766-hard-work.json) |
+| Hard Yardage | 84406 | [84406-hard-yardage.json](./84406-hard-yardage.json) |
 | Hard-Hat Domo | 69134 | [69134-hard-hat-domo.json](./69134-hard-hat-domo.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | Hard, Fast, & Flashy | 128963 | [128963-hard-fast-and-flashy.json](./128963-hard-fast-and-flashy.json) |
@@ -4711,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell: Distant Lights | 244950 | [244950-hell-distant-lights.json](./244950-hell-distant-lights.json) |
 | Hell: Fight for Gilrand | 187781 | [187781-hell-fight-for-gilrand.json](./187781-hell-fight-for-gilrand.json) |
 | Hell's 8th Avenue: Miori's Mysterious Notebook | 348699 | [348699-hells-8th-avenue-mioris-mysterious-notebook.json](./348699-hells-8th-avenue-mioris-mysterious-notebook.json) |
+| Hell's Abyss | 83677 | [83677-hells-abyss.json](./83677-hells-abyss.json) |
 | Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Delivery | 188747 | [188747-hells-delivery.json](./188747-hells-delivery.json) |
@@ -7912,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Animal Royalties | 98399 | [98399-hidden-object-animal-royalties.json](./98399-hidden-object-animal-royalties.json) |
 | Hidden Object: Animal Seasons | 98400 | [98400-hidden-object-animal-seasons.json](./98400-hidden-object-animal-seasons.json) |
 | Hidden Object: April Showers | 83640 | [83640-hidden-object-april-showers.json](./83640-hidden-object-april-showers.json) |
+| Hidden Object: Autumn Colors | 83660 | [83660-hidden-object-autumn-colors.json](./83660-hidden-object-autumn-colors.json) |
 | Hidden Object: Autumn Harvest | 98660 | [98660-hidden-object-autumn-harvest.json](./98660-hidden-object-autumn-harvest.json) |
 | Hidden Object: Autumn Splendors | 98590 | [98590-hidden-object-autumn-splendors.json](./98590-hidden-object-autumn-splendors.json) |
 | Hidden Object: Be My Valentine | 98554 | [98554-hidden-object-be-my-valentine.json](./98554-hidden-object-be-my-valentine.json) |
@@ -7922,14 +7929,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Candyland Sweet Paradise | 83631 | [83631-hidden-object-candyland-sweet-paradise.json](./83631-hidden-object-candyland-sweet-paradise.json) |
 | Hidden Object: Cat Tailz | 82164 | [82164-hidden-object-cat-tailz.json](./82164-hidden-object-cat-tailz.json) |
 | Hidden Object: Chocolat | 83636 | [83636-hidden-object-chocolat.json](./83636-hidden-object-chocolat.json) |
+| Hidden Object: Christmas Cards | 83647 | [83647-hidden-object-christmas-cards.json](./83647-hidden-object-christmas-cards.json) |
 | Hidden Object: Christmas in July | 82169 | [82169-hidden-object-christmas-in-july.json](./82169-hidden-object-christmas-in-july.json) |
 | Hidden Object: Christmas Tree | 82163 | [82163-hidden-object-christmas-tree.json](./82163-hidden-object-christmas-tree.json) |
 | Hidden Object: Christmas Wish | 98676 | [98676-hidden-object-christmas-wish.json](./98676-hidden-object-christmas-wish.json) |
+| Hidden Object: Christmastide | 83658 | [83658-hidden-object-christmastide.json](./83658-hidden-object-christmastide.json) |
 | Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
+| Hidden Object: Country Corner | 83662 | [83662-hidden-object-country-corner.json](./83662-hidden-object-country-corner.json) |
 | Hidden Object: Country Living | 82193 | [82193-hidden-object-country-living.json](./82193-hidden-object-country-living.json) |
 | Hidden Object: Coyote the Outlander | 96007 | [96007-hidden-object-coyote-the-outlander.json](./96007-hidden-object-coyote-the-outlander.json) |
 | Hidden Object: Cozy Christmas | 82171 | [82171-hidden-object-cozy-christmas.json](./82171-hidden-object-cozy-christmas.json) |
 | Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
+| Hidden Object: Creepy Carnival | 83648 | [83648-hidden-object-creepy-carnival.json](./83648-hidden-object-creepy-carnival.json) |
 | Hidden Object: Crime in Penthouse Special Edition | 240340 | [240340-hidden-object-crime-in-penthouse-special-edition.json](./240340-hidden-object-crime-in-penthouse-special-edition.json) |
 | Hidden Object: Cursed by Diamonds | 98556 | [98556-hidden-object-cursed-by-diamonds.json](./98556-hidden-object-cursed-by-diamonds.json) |
 | Hidden Object: Deck the Halls | 98385 | [98385-hidden-object-deck-the-halls.json](./98385-hidden-object-deck-the-halls.json) |
@@ -7938,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Detective Story about Ancient Case Premium | 175496 | [175496-hidden-object-detective-story-about-ancient-case-premium.json](./175496-hidden-object-detective-story-about-ancient-case-premium.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
+| Hidden Object: Egg Garden | 83650 | [83650-hidden-object-egg-garden.json](./83650-hidden-object-egg-garden.json) |
 | Hidden Object: Egg Hunt | 83643 | [83643-hidden-object-egg-hunt.json](./83643-hidden-object-egg-hunt.json) |
 | Hidden Object: Elemental Guardians | 98386 | [98386-hidden-object-elemental-guardians.json](./98386-hidden-object-elemental-guardians.json) |
 | Hidden Object: Emma Easter Day | 83629 | [83629-hidden-object-emma-easter-day.json](./83629-hidden-object-emma-easter-day.json) |
@@ -7975,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Haunted House 4 | 98592 | [98592-hidden-object-haunted-house-4.json](./98592-hidden-object-haunted-house-4.json) |
 | Hidden Object: Haunted Museum | 98562 | [98562-hidden-object-haunted-museum.json](./98562-hidden-object-haunted-museum.json) |
 | Hidden Object: Heathcliff! Christmas Time! | 98649 | [98649-hidden-object-heathcliff-christmas-time.json](./98649-hidden-object-heathcliff-christmas-time.json) |
+| Hidden Object: Hide & Seek | 83651 | [83651-hidden-object-hide-and-seek.json](./83651-hidden-object-hide-and-seek.json) |
 | Hidden Object: Holidays | 98361 | [98361-hidden-object-holidays.json](./98361-hidden-object-holidays.json) |
 | Hidden Object: Home for the Holidays | 98659 | [98659-hidden-object-home-for-the-holidays.json](./98659-hidden-object-home-for-the-holidays.json) |
 | Hidden Object: Home Kitchen | 83630 | [83630-hidden-object-home-kitchen.json](./83630-hidden-object-home-kitchen.json) |
@@ -7989,13 +8002,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Let the Dogs Out | 98350 | [98350-hidden-object-let-the-dogs-out.json](./98350-hidden-object-let-the-dogs-out.json) |
 | Hidden Object: Los Angeles Detective Gold | 252568 | [252568-hidden-object-los-angeles-detective-gold.json](./252568-hidden-object-los-angeles-detective-gold.json) |
 | Hidden Object: Lost Princess | 98349 | [98349-hidden-object-lost-princess.json](./98349-hidden-object-lost-princess.json) |
+| Hidden Object: Love XOXO | 83681 | [83681-hidden-object-love-xoxo.json](./83681-hidden-object-love-xoxo.json) |
 | Hidden Object: Lucky Leprechaun | 98582 | [98582-hidden-object-lucky-leprechaun.json](./98582-hidden-object-lucky-leprechaun.json) |
 | Hidden Object: Magic Forest | 96443 | [96443-hidden-object-magic-forest.json](./96443-hidden-object-magic-forest.json) |
 | Hidden Object: Magic of Easter | 83632 | [83632-hidden-object-magic-of-easter.json](./83632-hidden-object-magic-of-easter.json) |
+| Hidden Object: Magical Companions | 83659 | [83659-hidden-object-magical-companions.json](./83659-hidden-object-magical-companions.json) |
 | Hidden Object: Magician's Quest | 98347 | [98347-hidden-object-magicians-quest.json](./98347-hidden-object-magicians-quest.json) |
 | Hidden Object: Manor Fable | 71206 | [71206-hidden-object-manor-fable.json](./71206-hidden-object-manor-fable.json) |
 | Hidden Object: Marionettes Dolls on Strings | 98348 | [98348-hidden-object-marionettes-dolls-on-strings.json](./98348-hidden-object-marionettes-dolls-on-strings.json) |
 | Hidden Object: Masquerade | 98657 | [98657-hidden-object-masquerade.json](./98657-hidden-object-masquerade.json) |
+| Hidden Object: May Flowers | 83649 | [83649-hidden-object-may-flowers.json](./83649-hidden-object-may-flowers.json) |
+| Hidden Object: Mermaid Magic | 83646 | [83646-hidden-object-mermaid-magic.json](./83646-hidden-object-mermaid-magic.json) |
+| Hidden Object: Merry Christmas | 83657 | [83657-hidden-object-merry-christmas.json](./83657-hidden-object-merry-christmas.json) |
 | Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
 | Hidden Object: Mother Nature | 83624 | [83624-hidden-object-mother-nature.json](./83624-hidden-object-mother-nature.json) |
@@ -8034,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: That's Amore | 98321 | [98321-hidden-object-thats-amore.json](./98321-hidden-object-thats-amore.json) |
 | Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
 | Hidden Object: The Fox Says | 98336 | [98336-hidden-object-the-fox-says.json](./98336-hidden-object-the-fox-says.json) |
+| Hidden Object: The Graveyard | 83661 | [83661-hidden-object-the-graveyard.json](./83661-hidden-object-the-graveyard.json) |
 | Hidden Object: The Lost Islands | 98351 | [98351-hidden-object-the-lost-islands.json](./98351-hidden-object-the-lost-islands.json) |
 | Hidden Object: The Luck of the Irish | 98563 | [98563-hidden-object-the-luck-of-the-irish.json](./98563-hidden-object-the-luck-of-the-irish.json) |
 | Hidden Object: The Mystery of Zion | 98564 | [98564-hidden-object-the-mystery-of-zion.json](./98564-hidden-object-the-mystery-of-zion.json) |
@@ -8042,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: The Writer's Muse | 98548 | [98548-hidden-object-the-writers-muse.json](./98548-hidden-object-the-writers-muse.json) |
 | Hidden Object: Thumbelina | 98566 | [98566-hidden-object-thumbelina.json](./98566-hidden-object-thumbelina.json) |
 | Hidden Object: Tick Tock | 98584 | [98584-hidden-object-tick-tock.json](./98584-hidden-object-tick-tock.json) |
+| Hidden Object: Time Traveller's Journey | 83652 | [83652-hidden-object-time-travellers-journey.json](./83652-hidden-object-time-travellers-journey.json) |
 | Hidden Object: Tomorrowland - The Land of Machines | 98335 | [98335-hidden-object-tomorrowland-the-land-of-machines.json](./98335-hidden-object-tomorrowland-the-land-of-machines.json) |
 | Hidden Object: Tracks of Terrorin the world Premium | 175474 | [175474-hidden-object-tracks-of-terrorin-the-world-premium.json](./175474-hidden-object-tracks-of-terrorin-the-world-premium.json) |
 | Hidden Object: Travel the World | 98549 | [98549-hidden-object-travel-the-world.json](./98549-hidden-object-travel-the-world.json) |
@@ -13646,6 +13666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Simulator | 224980 | [224980-hustle-simulator.json](./224980-hustle-simulator.json) |
 | HustleGame | 293575 | [293575-hustlegame.json](./293575-hustlegame.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
+| Hustler 2055 | 84425 | [84425-hustler-2055.json](./84425-hustler-2055.json) |
 | Hustlerix | 260277 | [260277-hustlerix.json](./260277-hustlerix.json) |
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
 | Hutaoriji: Emoji Girl Menhera | 188360 | [188360-hutaoriji-emoji-girl-menhera.json](./188360-hutaoriji-emoji-girl-menhera.json) |
