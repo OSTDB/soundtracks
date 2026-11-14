@@ -8479,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordlase | 28429 | [28429-wordlase.json](./28429-wordlase.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
 | Wordle | 311030 | [311030-wordle.json](./311030-wordle.json) |
+| Wordle 2 | 157751 | [157751-wordle-2.json](./157751-wordle-2.json) |
 | Wordle 3 | 149865 | [149865-wordle-3.json](./149865-wordle-3.json) |
 | Wordle 4 | 158887 | [158887-wordle-4.json](./158887-wordle-4.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
