@@ -2922,7 +2922,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
+| Scally's world of problems | 110425 | [110425-scallys-world-of-problems.json](./110425-scallys-world-of-problems.json) |
 | Scally's World: Numbers & Sums | 110566 | [110566-scallys-world-numbers-and-sums.json](./110566-scallys-world-numbers-and-sums.json) |
+| Scally's World: Verbs | 110426 | [110426-scallys-world-verbs.json](./110426-scallys-world-verbs.json) |
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
 | Scallywag's Honor | 119852 | [119852-scallywags-honor.json](./119852-scallywags-honor.json) |
 | Scallywags | 404605 | [404605-scallywags.json](./404605-scallywags.json) |
@@ -23893,6 +23895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | Spiceshifter | 189798 | [189798-spiceshifter.json](./189798-spiceshifter.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
+| Spicy Deck | 110431 | [110431-spicy-deck.json](./110431-spicy-deck.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
 | Spicy Piggy | 115307 | [115307-spicy-piggy.json](./115307-spicy-piggy.json) |
 | Spicy Strip Poker | 385691 | [385691-spicy-strip-poker.json](./385691-spicy-strip-poker.json) |
@@ -27747,6 +27750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Overkill | 261160 | [261160-starfighter-overkill.json](./261160-starfighter-overkill.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
+| Starfighter X | 110444 | [110444-starfighter-x.json](./110444-starfighter-x.json) |
 | Starfighter: Disputed Galaxy | 331174 | [331174-starfighter-disputed-galaxy.json](./331174-starfighter-disputed-galaxy.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfighter: Infinity | 108170 | [108170-starfighter-infinity.json](./108170-starfighter-infinity.json) |
@@ -28885,6 +28889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk and Magic | 193928 | [193928-steampunk-and-magic.json](./193928-steampunk-and-magic.json) |
 | Steampunk Defense Pro | 91188 | [91188-steampunk-defense-pro.json](./91188-steampunk-defense-pro.json) |
 | Steampunk Genius | 130056 | [130056-steampunk-genius.json](./130056-steampunk-genius.json) |
+| Steampunk Graveyard | 110606 | [110606-steampunk-graveyard.json](./110606-steampunk-graveyard.json) |
 | Steampunk Gravity | 216523 | [216523-steampunk-gravity.json](./216523-steampunk-gravity.json) |
 | Steampunk Idle Spinner | 116243 | [116243-steampunk-idle-spinner.json](./116243-steampunk-idle-spinner.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
@@ -31483,6 +31488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strewn Runes | 187273 | [187273-strewn-runes.json](./187273-strewn-runes.json) |
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
+| Strid | 110402 | [110402-strid.json](./110402-strid.json) |
 | Strid: Full Edition | 170800 | [170800-strid-full-edition.json](./170800-strid-full-edition.json) |
 | Stride | 132959 | [132959-stride.json](./132959-stride.json) |
 | Stride: Fates | 253151 | [253151-stride-fates.json](./253151-stride-fates.json) |
@@ -31548,6 +31554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike Force Red Cell | 67093 | [67093-strike-force-red-cell.json](./67093-strike-force-red-cell.json) |
+| Strike Force Remastered | 110447 | [110447-strike-force-remastered.json](./110447-strike-force-remastered.json) |
 | Strike Force: Arctic Storm | 31352 | [31352-strike-force-arctic-storm.json](./31352-strike-force-arctic-storm.json) |
 | Strike Force: Cobra | 36670 | [36670-strike-force-cobra.json](./36670-strike-force-cobra.json) |
 | Strike Force: Dragon VIP | 97208 | [97208-strike-force-dragon-vip.json](./97208-strike-force-dragon-vip.json) |
@@ -37279,6 +37286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Fruit: Robot War | 154731 | [154731-superhero-fruit-robot-war.json](./154731-superhero-fruit-robot-war.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
+| SuperHero in Training | 110598 | [110598-superhero-in-training.json](./110598-superhero-in-training.json) |
 | Superhero League of Hoboken | 249 | [249-superhero-league-of-hoboken.json](./249-superhero-league-of-hoboken.json) |
 | Superhero Market | 325970 | [325970-superhero-market.json](./325970-superhero-market.json) |
 | Superhero Recruitment Simulator | 171680 | [171680-superhero-recruitment-simulator.json](./171680-superhero-recruitment-simulator.json) |
