@@ -21599,6 +21599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult ni Kibishii Gal: Cult vs. Gal | 285361 | [285361-cult-ni-kibishii-gal-cult-vs-gal.json](./285361-cult-ni-kibishii-gal-cult-vs-gal.json) |
 | Cult of Babel | 209794 | [209794-cult-of-babel.json](./209794-cult-of-babel.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
+| Cult of Dawn | 149612 | [149612-cult-of-dawn.json](./149612-cult-of-dawn.json) |
 | Cult of Five | 381923 | [381923-cult-of-five.json](./381923-cult-of-five.json) |
 | Cult of Flies | 346868 | [346868-cult-of-flies.json](./346868-cult-of-flies.json) |
 | Cult of Lily | 383586 | [383586-cult-of-lily.json](./383586-cult-of-lily.json) |
