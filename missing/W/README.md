@@ -10117,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Cardboard Championship | 204609 | [204609-wrestling-cardboard-championship.json](./204609-wrestling-cardboard-championship.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
+| Wrestling Encore | 92737 | [92737-wrestling-encore.json](./92737-wrestling-encore.json) |
 | Wrestling GM | 145800 | [145800-wrestling-gm.json](./145800-wrestling-gm.json) |
 | Wrestling Manager | 65625 | [65625-wrestling-manager.json](./65625-wrestling-manager.json) |
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
