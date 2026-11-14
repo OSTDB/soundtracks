@@ -3781,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
 | Casio Mario World | 257840 | [257840-casio-mario-world.json](./257840-casio-mario-world.json) |
+| Casio World Open | 131026 | [131026-casio-world-open.json](./131026-casio-world-open.json) |
 | Casketball Queen | 311684 | [311684-casketball-queen.json](./311684-casketball-queen.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
 | Casper | 198715 | [198715-casper.json](./198715-casper.json) |
@@ -16659,6 +16660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corum: Legend of Anpnentria | 146208 | [146208-corum-legend-of-anpnentria.json](./146208-corum-legend-of-anpnentria.json) |
 | Coruscant Attack | 245965 | [245965-coruscant-attack.json](./245965-coruscant-attack.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
+| Corvette | 130996 | [130996-corvette.json](./130996-corvette.json) |
 | Corvette | 418594 | [418594-corvette.json](./418594-corvette.json) |
 | Corvette | 5788 | [5788-corvette.json](./5788-corvette.json) |
 | Corvette Evolution GT | 328286 | [328286-corvette-evolution-gt.json](./328286-corvette-evolution-gt.json) |
