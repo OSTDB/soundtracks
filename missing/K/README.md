@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kaila | 236606 | [236606-kaila.json](./236606-kaila.json) |
 | Kaila: The Journey to the Underworld | 337922 | [337922-kaila-the-journey-to-the-underworld.json](./337922-kaila-the-journey-to-the-underworld.json) |
+| Kaima | 126070 | [126070-kaima.json](./126070-kaima.json) |
 | Kaimeishi | 312654 | [312654-kaimeishi.json](./312654-kaimeishi.json) |
 | Kaimyou Maker | 324191 | [324191-kaimyou-maker.json](./324191-kaimyou-maker.json) |
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karmx | 371198 | [371198-karmx.json](./371198-karmx.json) |
 | Karnaaj Rally | 6489 | [6489-karnaaj-rally.json](./6489-karnaaj-rally.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
+| Karnage.io | 126064 | [126064-karnage-io.json](./126064-karnage-io.json) |
 | Karnal | 261611 | [261611-karnal.json](./261611-karnal.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 13234 | [13234-karnov.json](./13234-karnov.json) |
