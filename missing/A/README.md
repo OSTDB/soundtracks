@@ -20654,6 +20654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azada: in Libro | 63778 | [63778-azada-in-libro.json](./63778-azada-in-libro.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
+| Azai: TD | 90994 | [90994-azai-td.json](./90994-azai-td.json) |
 | Azalea | 140830 | [140830-azalea.json](./140830-azalea.json) |
 | AzAlice | 398078 | [398078-azalice.json](./398078-azalice.json) |
 | Azalta | 165515 | [165515-azalta.json](./165515-azalta.json) |
