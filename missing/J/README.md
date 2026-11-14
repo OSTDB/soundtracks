@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Lander | 18777 | [18777-jupiter-lander.json](./18777-jupiter-lander.json) |
 | Jupiter Lander | 86198 | [86198-jupiter-lander.json](./86198-jupiter-lander.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
+| Jupiter Moons: Mecha | 136500 | [136500-jupiter-moons-mecha.json](./136500-jupiter-moons-mecha.json) |
 | Jupiter Probe | 15089 | [15089-jupiter-probe.json](./15089-jupiter-probe.json) |
 | Jupiter Scope | 245066 | [245066-jupiter-scope.json](./245066-jupiter-scope.json) |
 | Jupiter Strike | 20251 | [20251-jupiter-strike.json](./20251-jupiter-strike.json) |
