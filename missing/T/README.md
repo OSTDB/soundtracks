@@ -2468,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
 | Tap Busters | 124667 | [124667-tap-busters.json](./124667-tap-busters.json) |
+| Tap Busters: Galaxy Heroes | 93850 | [93850-tap-busters-galaxy-heroes.json](./93850-tap-busters-galaxy-heroes.json) |
 | Tap Cat RPG: Simple Emoji Cat Idle Game | 297642 | [297642-tap-cat-rpg-simple-emoji-cat-idle-game.json](./297642-tap-cat-rpg-simple-emoji-cat-idle-game.json) |
 | Tap City | 259079 | [259079-tap-city.json](./259079-tap-city.json) |
 | Tap City Tycoon | 256434 | [256434-tap-city-tycoon.json](./256434-tap-city-tycoon.json) |
@@ -22009,6 +22010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief: Deadly Shadows | 3 | [3-thief-deadly-shadows.json](./3-thief-deadly-shadows.json) |
 | Thief: Definitive Edition | 154657 | [154657-thief-definitive-edition.json](./154657-thief-definitive-edition.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
+| Thief: Shadow Edition | 93888 | [93888-thief-shadow-edition.json](./93888-thief-shadow-edition.json) |
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
 | Thief: The Black Parade | 278770 | [278770-thief-the-black-parade.json](./278770-thief-the-black-parade.json) |
 | Thief: The Complete Collection | 275496 | [275496-thief-the-complete-collection.json](./275496-thief-the-complete-collection.json) |
@@ -31538,6 +31540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Chatham Main Line - London-Gillingham Route Add-On | 156463 | [156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json](./156463-train-simulator-classic-chatham-main-line-london-gillingham-route-add-on.json) |
 | Train Simulator Classic: China Railways DF11G | 289511 | [289511-train-simulator-classic-china-railways-df11g.json](./289511-train-simulator-classic-china-railways-df11g.json) |
 | Train Simulator Classic: CR400AF Loco Add-On | 339157 | [339157-train-simulator-classic-cr400af-loco-add-on.json](./339157-train-simulator-classic-cr400af-loco-add-on.json) |
+| Train Simulator Classic: CSX SD70MAC Add-on Livery | 93895 | [93895-train-simulator-classic-csx-sd70mac-add-on-livery.json](./93895-train-simulator-classic-csx-sd70mac-add-on-livery.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
 | Train Simulator Classic: DB BR 247 Loco | 191019 | [191019-train-simulator-classic-db-br-247-loco.json](./191019-train-simulator-classic-db-br-247-loco.json) |
 | Train Simulator Classic: DB BR218 + 761 | 357278 | [357278-train-simulator-classic-db-br218-761.json](./357278-train-simulator-classic-db-br218-761.json) |
@@ -31571,6 +31574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
 | Train Simulator Classic: Santa Fe Super Fleet GP60M | 357290 | [357290-train-simulator-classic-santa-fe-super-fleet-gp60m.json](./357290-train-simulator-classic-santa-fe-super-fleet-gp60m.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
+| Train Simulator Classic: South London Network Route Add-On | 93890 | [93890-train-simulator-classic-south-london-network-route-add-on.json](./93890-train-simulator-classic-south-london-network-route-add-on.json) |
 | Train Simulator Classic: Southern Railway Retro Pack 01 | 277351 | [277351-train-simulator-classic-southern-railway-retro-pack-01.json](./277351-train-simulator-classic-southern-railway-retro-pack-01.json) |
 | Train Simulator Classic: Suburban Glasgow - Airdrie Route Extension | 238621 | [238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json](./238621-train-simulator-classic-suburban-glasgow-airdrie-route-extension.json) |
 | Train Simulator Classic: SW1 Switcher | 357393 | [357393-train-simulator-classic-sw1-switcher.json](./357393-train-simulator-classic-sw1-switcher.json) |
@@ -31674,6 +31678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: CRH2A EMU Add-On | 162005 | [162005-train-simulator-crh2a-emu-add-on.json](./162005-train-simulator-crh2a-emu-add-on.json) |
 | Train Simulator: CRH380D EMU Add-On | 162556 | [162556-train-simulator-crh380d-emu-add-on.json](./162556-train-simulator-crh380d-emu-add-on.json) |
 | Train Simulator: CSX AC6000CW Loco Add-On | 162038 | [162038-train-simulator-csx-ac6000cw-loco-add-on.json](./162038-train-simulator-csx-ac6000cw-loco-add-on.json) |
+| Train Simulator: CSX ES44AC Add-on Livery | 93894 | [93894-train-simulator-csx-es44ac-add-on-livery.json](./93894-train-simulator-csx-es44ac-add-on-livery.json) |
 | Train Simulator: CSX Hanover Subdivision: Hanover - Hagerstown Route Add-On | 156449 | [156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json](./156449-train-simulator-csx-hanover-subdivision-hanover-hagerstown-route-add-on.json) |
 | Train Simulator: CSX SD45-2 Loco | 191017 | [191017-train-simulator-csx-sd45-2-loco.json](./191017-train-simulator-csx-sd45-2-loco.json) |
 | Train Simulator: CSX SD80MAC Loco Add-On | 162036 | [162036-train-simulator-csx-sd80mac-loco-add-on.json](./162036-train-simulator-csx-sd80mac-loco-add-on.json) |
@@ -31862,6 +31867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Odakyu Electric Railway Odakyu Line Type 5000 | 92252 | [92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json](./92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json) |
 | Train Simulator: Ohio Steel 2 Route Add-On | 156458 | [156458-train-simulator-ohio-steel-2-route-add-on.json](./156458-train-simulator-ohio-steel-2-route-add-on.json) |
 | Train Simulator: Outeniqua Choo Tjoe Route Add-On | 156451 | [156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json](./156451-train-simulator-outeniqua-choo-tjoe-route-add-on.json) |
+| Train Simulator: Pacific Surfliner LA - San Diego Route Add-On | 93889 | [93889-train-simulator-pacific-surfliner-la-san-diego-route-add-on.json](./93889-train-simulator-pacific-surfliner-la-san-diego-route-add-on.json) |
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
 | Train Simulator: Peninsula Corridor: San Francisco - Gilroy Route Add-On | 156376 | [156376-train-simulator-peninsula-corridor-san-francisco-gilroy-route-add-on.json](./156376-train-simulator-peninsula-corridor-san-francisco-gilroy-route-add-on.json) |
 | Train Simulator: Portsmouth Direct Line Route Add-On | 156401 | [156401-train-simulator-portsmouth-direct-line-route-add-on.json](./156401-train-simulator-portsmouth-direct-line-route-add-on.json) |
