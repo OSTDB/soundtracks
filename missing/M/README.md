@@ -24180,6 +24180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Detective Adventure | 308509 | [308509-mystery-detective-adventure.json](./308509-mystery-detective-adventure.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
+| Mystery Eater 2nd! | 82215 | [82215-mystery-eater-2nd.json](./82215-mystery-eater-2nd.json) |
 | Mystery Egg Shop Simulator | 391526 | [391526-mystery-egg-shop-simulator.json](./391526-mystery-egg-shop-simulator.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
 | Mystery Escape | 296568 | [296568-mystery-escape.json](./296568-mystery-escape.json) |
