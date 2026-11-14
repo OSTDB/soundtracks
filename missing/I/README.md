@@ -4245,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Golf | 217605 | [217605-infinite-golf.json](./217605-infinite-golf.json) |
 | Infinite Golf | 56139 | [56139-infinite-golf.json](./56139-infinite-golf.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
+| Infinite Gravity | 90716 | [90716-infinite-gravity.json](./90716-infinite-gravity.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
 | Infinite Hole Sim Remix | 414896 | [414896-infinite-hole-sim-remix.json](./414896-infinite-hole-sim-remix.json) |
 | Infinite Horizon | 76081 | [76081-infinite-horizon.json](./76081-infinite-horizon.json) |
