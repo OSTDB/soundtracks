@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
+| Captain Disaster in: The Dark Side of the Moon | 166798 | [166798-captain-disaster-in-the-dark-side-of-the-moon.json](./166798-captain-disaster-in-the-dark-side-of-the-moon.json) |
 | Captain Dodger: The Hidden Cargo | 242039 | [242039-captain-dodger-the-hidden-cargo.json](./242039-captain-dodger-the-hidden-cargo.json) |
 | Captain Downes and the Pirate Princess | 125613 | [125613-captain-downes-and-the-pirate-princess.json](./125613-captain-downes-and-the-pirate-princess.json) |
 | Captain Dynamo | 11990 | [11990-captain-dynamo.json](./11990-captain-dynamo.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardlike | 224647 | [224647-cardlike.json](./224647-cardlike.json) |
 | Cardlings | 118787 | [118787-cardlings.json](./118787-cardlings.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
+| CardMaker | 166789 | [166789-cardmaker.json](./166789-cardmaker.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | CardMart: TCG Supermarket | 322507 | [322507-cardmart-tcg-supermarket.json](./322507-cardmart-tcg-supermarket.json) |
 | CardMatch | 116951 | [116951-cardmatch.json](./116951-cardmatch.json) |
