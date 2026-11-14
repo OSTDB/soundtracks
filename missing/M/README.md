@@ -7368,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Game | 164223 | [164223-mech-game.json](./164223-mech-game.json) |
 | Mech Gun | 180579 | [180579-mech-gun.json](./180579-mech-gun.json) |
 | Mech Havoc | 317764 | [317764-mech-havoc.json](./317764-mech-havoc.json) |
+| Mech Hunter | 121103 | [121103-mech-hunter.json](./121103-mech-hunter.json) |
 | Mech in the City | 365779 | [365779-mech-in-the-city.json](./365779-mech-in-the-city.json) |
 | Mech Invasion: Combat Robots | 193885 | [193885-mech-invasion-combat-robots.json](./193885-mech-invasion-combat-robots.json) |
 | Mech Jam 3: Encounters on the Red Planet | 395893 | [395893-mech-jam-3-encounters-on-the-red-planet.json](./395893-mech-jam-3-encounters-on-the-red-planet.json) |
