@@ -9678,6 +9678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixies 'n Crafts | 204218 | [204218-pixies-n-crafts.json](./204218-pixies-n-crafts.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | Piximalism | 30010 | [30010-piximalism.json](./30010-piximalism.json) |
+| PixKeeper | 151314 | [151314-pixkeeper.json](./151314-pixkeeper.json) |
 | Pixlaria | 420942 | [420942-pixlaria.json](./420942-pixlaria.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | Pixld | 64325 | [64325-pixld.json](./64325-pixld.json) |
@@ -15682,6 +15683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest Simulator: Heavy Duty | 188962 | [188962-priest-simulator-heavy-duty.json](./188962-priest-simulator-heavy-duty.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
+| Priest vs. Poltergeist | 151313 | [151313-priest-vs-poltergeist.json](./151313-priest-vs-poltergeist.json) |
 | Priest With a Gun | 336583 | [336583-priest-with-a-gun.json](./336583-priest-with-a-gun.json) |
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
@@ -16397,6 +16399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pritto Prisoner: Robot Skin - Bloody Pack | 381844 | [381844-pritto-prisoner-robot-skin-bloody-pack.json](./381844-pritto-prisoner-robot-skin-bloody-pack.json) |
 | Pritto Prisoner: Ultimate Poopie Edition | 381805 | [381805-pritto-prisoner-ultimate-poopie-edition.json](./381805-pritto-prisoner-ultimate-poopie-edition.json) |
 | Privacy | 114082 | [114082-privacy.json](./114082-privacy.json) |
+| Private Agent | 151319 | [151319-private-agent.json](./151319-private-agent.json) |
 | Private Crusade | 240132 | [240132-private-crusade.json](./240132-private-crusade.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Dancer | 76461 | [76461-private-dancer.json](./76461-private-dancer.json) |
