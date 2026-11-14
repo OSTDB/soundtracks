@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego's Spark | 280158 | [280158-egos-spark.json](./280158-egos-spark.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
+| Egon | 132924 | [132924-egon.json](./132924-egon.json) |
 | Egony | 103824 | [103824-egony.json](./103824-egony.json) |
 | Egosoft Collection | 24727 | [24727-egosoft-collection.json](./24727-egosoft-collection.json) |
 | EgoVersus: The First Strike | 309801 | [309801-egoversus-the-first-strike.json](./309801-egoversus-the-first-strike.json) |
@@ -4407,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Front | 5647 | [5647-enemy-front.json](./5647-enemy-front.json) |
 | Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
 | Enemy Front: Multiplayer Map Pack | 263311 | [263311-enemy-front-multiplayer-map-pack.json](./263311-enemy-front-multiplayer-map-pack.json) |
+| Enemy Gates Stealth War | 132886 | [132886-enemy-gates-stealth-war.json](./132886-enemy-gates-stealth-war.json) |
 | Enemy Infestation | 52526 | [52526-enemy-infestation.json](./52526-enemy-infestation.json) |
 | Enemy Inside | 297089 | [297089-enemy-inside.json](./297089-enemy-inside.json) |
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
