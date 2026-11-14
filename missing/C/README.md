@@ -9926,6 +9926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires Rivals | 124215 | [124215-circle-empires-rivals.json](./124215-circle-empires-rivals.json) |
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
+| Circle Empires: Apex Monsters! | 124853 | [124853-circle-empires-apex-monsters.json](./124853-circle-empires-apex-monsters.json) |
 | Circle Illusion: Calm Clicker | 383316 | [383316-circle-illusion-calm-clicker.json](./383316-circle-illusion-calm-clicker.json) |
 | Circle Killer | 253653 | [253653-circle-killer.json](./253653-circle-killer.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
@@ -17913,6 +17914,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Skyland World City | 188329 | [188329-craft-skyland-world-city.json](./188329-craft-skyland-world-city.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
+| Craft the World: Abandoned Mines | 124844 | [124844-craft-the-world-abandoned-mines.json](./124844-craft-the-world-abandoned-mines.json) |
+| Craft the World: Bosses & Monsters | 124841 | [124841-craft-the-world-bosses-and-monsters.json](./124841-craft-the-world-bosses-and-monsters.json) |
 | Craft the World: Dig with Friends | 51758 | [51758-craft-the-world-dig-with-friends.json](./51758-craft-the-world-dig-with-friends.json) |
 | Craft the World: Episodes Edition | 207989 | [207989-craft-the-world-episodes-edition.json](./207989-craft-the-world-episodes-edition.json) |
 | Craft the World: Grottoes | 125142 | [125142-craft-the-world-grottoes.json](./125142-craft-the-world-grottoes.json) |
@@ -17921,6 +17924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World: Lonely Mountain | 133892 | [133892-craft-the-world-lonely-mountain.json](./133892-craft-the-world-lonely-mountain.json) |
 | Craft the World: Pocket Edition | 87877 | [87877-craft-the-world-pocket-edition.json](./87877-craft-the-world-pocket-edition.json) |
 | Craft the World: Sisters in Arms | 51757 | [51757-craft-the-world-sisters-in-arms.json](./51757-craft-the-world-sisters-in-arms.json) |
+| Craft the World: Temples of 4 Elements | 124842 | [124842-craft-the-world-temples-of-4-elements.json](./124842-craft-the-world-temples-of-4-elements.json) |
 | Craft The World: Wonderwood | 333812 | [333812-craft-the-world-wonderwood.json](./333812-craft-the-world-wonderwood.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
