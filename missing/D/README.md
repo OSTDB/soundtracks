@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Kagura: Keika's Story | 325309 | [325309-dawn-of-kagura-keikas-story.json](./325309-dawn-of-kagura-keikas-story.json) |
 | Dawn of Kagura: Maika's Story - The Dragon's Wrath | 220008 | [220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json](./220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json) |
 | Dawn of Kagura: Natsu's Story | 402618 | [402618-dawn-of-kagura-natsus-story.json](./402618-dawn-of-kagura-natsus-story.json) |
+| Dawn of Light | 157234 | [157234-dawn-of-light.json](./157234-dawn-of-light.json) |
 | Dawn of Mages | 241855 | [241855-dawn-of-mages.json](./241855-dawn-of-mages.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic | 321727 | [321727-dawn-of-magic.json](./321727-dawn-of-magic.json) |
@@ -14018,6 +14019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dongeng Bayang Kulit | 239266 | [239266-dongeng-bayang-kulit.json](./239266-dongeng-bayang-kulit.json) |
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
+| Dōngfāng Xiūxiān Zhuán | 157222 | [157222-dongfang-xiuxian-zhuan.json](./157222-dongfang-xiuxian-zhuan.json) |
 | Dongo Adventure | 90826 | [90826-dongo-adventure.json](./90826-dongo-adventure.json) |
 | Dongri Shuxia de Huiyi | 411513 | [411513-dongri-shuxia-de-huiyi.json](./411513-dongri-shuxia-de-huiyi.json) |
 | Dongri Shuxia de Huiyi After | 411514 | [411514-dongri-shuxia-de-huiyi-after.json](./411514-dongri-shuxia-de-huiyi-after.json) |
@@ -17837,6 +17839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming | 370777 | [370777-dreaming.json](./370777-dreaming.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming After You | 296881 | [296881-dreaming-after-you.json](./296881-dreaming-after-you.json) |
+| Dreaming Atlas | 157229 | [157229-dreaming-atlas.json](./157229-dreaming-atlas.json) |
 | Dreaming Bad | 229661 | [229661-dreaming-bad.json](./229661-dreaming-bad.json) |
 | Dreaming Blue | 407853 | [407853-dreaming-blue.json](./407853-dreaming-blue.json) |
 | Dreaming by day | 182982 | [182982-dreaming-by-day.json](./182982-dreaming-by-day.json) |
@@ -19201,6 +19204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
 | Duck Collector | 397992 | [397992-duck-collector.json](./397992-duck-collector.json) |
 | Duck Commander: Hunting Video Game | 221675 | [221675-duck-commander-hunting-video-game.json](./221675-duck-commander-hunting-video-game.json) |
+| Duck Creator | 156757 | [156757-duck-creator.json](./156757-duck-creator.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
 | Duck Dash | 365615 | [365615-duck-dash.json](./365615-duck-dash.json) |
