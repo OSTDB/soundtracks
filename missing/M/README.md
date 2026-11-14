@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marblearium | 400091 | [400091-marblearium.json](./400091-marblearium.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
+| Marbledrome: Crazy Stunt Balls | 107966 | [107966-marbledrome-crazy-stunt-balls.json](./107966-marbledrome-crazy-stunt-balls.json) |
 | MarbleGP | 341211 | [341211-marblegp.json](./341211-marblegp.json) |
 | Marblelous Animals | 120174 | [120174-marblelous-animals.json](./120174-marblelous-animals.json) |
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcus Comes Out Online | 330150 | [330150-marcus-comes-out-online.json](./330150-marcus-comes-out-online.json) |
 | Marcus Level | 34063 | [34063-marcus-level.json](./34063-marcus-level.json) |
 | Marcy | 180887 | [180887-marcy.json](./180887-marcy.json) |
+| Mard | 107475 | [107475-mard.json](./107475-mard.json) |
 | Mardek | 150427 | [150427-mardek.json](./150427-mardek.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
@@ -17942,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Slayer | 152985 | [152985-monster-slayer.json](./152985-monster-slayer.json) |
 | Monster Slayer Extermination | 215602 | [215602-monster-slayer-extermination.json](./215602-monster-slayer-extermination.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
+| Monster Slayers | 107961 | [107961-monster-slayers.json](./107961-monster-slayers.json) |
 | Monster Slayers | 27975 | [27975-monster-slayers.json](./27975-monster-slayers.json) |
 | Monster Slayers | 387938 | [387938-monster-slayers.json](./387938-monster-slayers.json) |
 | Monster Slayers Incorporated | 372110 | [372110-monster-slayers-incorporated.json](./372110-monster-slayers-incorporated.json) |
@@ -22924,6 +22927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hobby: Needlework Galore - Tiny Home | 311731 | [311731-my-hobby-needlework-galore-tiny-home.json](./311731-my-hobby-needlework-galore-tiny-home.json) |
 | My Hobby: Needlework Galore - Vintage | 312054 | [312054-my-hobby-needlework-galore-vintage.json](./312054-my-hobby-needlework-galore-vintage.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
+| My Holiday | 107967 | [107967-my-holiday.json](./107967-my-holiday.json) |
 | My Holiday 2 | 150866 | [150866-my-holiday-2.json](./150866-my-holiday-2.json) |
 | My Holiday Car | 106996 | [106996-my-holiday-car.json](./106996-my-holiday-car.json) |
 | My Holiday Car: Sunrise City | 104455 | [104455-my-holiday-car-sunrise-city.json](./104455-my-holiday-car-sunrise-city.json) |
