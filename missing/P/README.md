@@ -9987,6 +9987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaguemon: Lost Diaries | 247362 | [247362-plaguemon-lost-diaries.json](./247362-plaguemon-lost-diaries.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
 | Plaguetrix | 373482 | [373482-plaguetrix.json](./373482-plaguetrix.json) |
+| Plagueworld | 119810 | [119810-plagueworld.json](./119810-plagueworld.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plaid - A Unique Puzzle Game | 101193 | [101193-plaid-a-unique-puzzle-game.json](./101193-plaid-a-unique-puzzle-game.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
@@ -13003,6 +13004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokExp | 144250 | [144250-pokexp.json](./144250-pokexp.json) |
 | Pokey Ball | 325665 | [325665-pokey-ball.json](./325665-pokey-ball.json) |
 | Pokey Dokey Paradise | 122051 | [122051-pokey-dokey-paradise.json](./122051-pokey-dokey-paradise.json) |
+| PokeyPoke | 119853 | [119853-pokeypoke.json](./119853-pokeypoke.json) |
 | Pokhozhdeniya bravogo soldata Shveyka | 257512 | [257512-pokhozhdeniya-bravogo-soldata-shveyka.json](./257512-pokhozhdeniya-bravogo-soldata-shveyka.json) |
 | Poki | 286697 | [286697-poki.json](./286697-poki.json) |
 | Pokie the Stickfigure | 156525 | [156525-pokie-the-stickfigure.json](./156525-pokie-the-stickfigure.json) |
