@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 10 | 389793 | [389793-sakura-succubus-10.json](./389793-sakura-succubus-10.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
+| Sakura Succubus 4 | 163504 | [163504-sakura-succubus-4.json](./163504-sakura-succubus-4.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
 | Sakura Succubus 6 | 199534 | [199534-sakura-succubus-6.json](./199534-sakura-succubus-6.json) |
 | Sakura Succubus 7 | 238671 | [238671-sakura-succubus-7.json](./238671-sakura-succubus-7.json) |
@@ -24814,6 +24815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sponsor-A-Planet | 155710 | [155710-sponsor-a-planet.json](./155710-sponsor-a-planet.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
+| Spoofing Car Splash to Wild Kids | 163578 | [163578-spoofing-car-splash-to-wild-kids.json](./163578-spoofing-car-splash-to-wild-kids.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
 | Spook & Sell | 424629 | [424629-spook-and-sell.json](./424629-spook-and-sell.json) |
 | Spook and Thunder | 182672 | [182672-spook-and-thunder.json](./182672-spook-and-thunder.json) |
@@ -26043,6 +26045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stackems | 112501 | [112501-stackems.json](./112501-stackems.json) |
 | Stacker | 228667 | [228667-stacker.json](./228667-stacker.json) |
 | Stacker | 75715 | [75715-stacker.json](./75715-stacker.json) |
+| Stacker Puzzle | 163516 | [163516-stacker-puzzle.json](./163516-stacker-puzzle.json) |
 | Stackflow | 361687 | [361687-stackflow.json](./361687-stackflow.json) |
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
 | StackHoops | 244698 | [244698-stackhoops.json](./244698-stackhoops.json) |
@@ -36929,6 +36932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercross Circuit | 44963 | [44963-supercross-circuit.json](./44963-supercross-circuit.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
+| Supercup Online | 163579 | [163579-supercup-online.json](./163579-supercup-online.json) |
 | SuperDanny 2 | 210343 | [210343-superdanny-2.json](./210343-superdanny-2.json) |
 | SuperDanny Powered Up | 209272 | [209272-superdanny-powered-up.json](./209272-superdanny-powered-up.json) |
 | SuperDanny's Adventure | 210344 | [210344-superdannys-adventure.json](./210344-superdannys-adventure.json) |
