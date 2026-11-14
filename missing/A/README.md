@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
+| Abandoned Snowy Castle | 118470 | [118470-abandoned-snowy-castle.json](./118470-abandoned-snowy-castle.json) |
 | Abandoned Souls | 249029 | [249029-abandoned-souls.json](./249029-abandoned-souls.json) |
 | Abandoned Stories: Inherited Silence | 395245 | [395245-abandoned-stories-inherited-silence.json](./395245-abandoned-stories-inherited-silence.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
@@ -12821,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Tsubasa no Chevalier | 233903 | [233903-aoki-tsubasa-no-chevalier.json](./233903-aoki-tsubasa-no-chevalier.json) |
 | AOL Girls Museum | 313758 | [313758-aol-girls-museum.json](./313758-aol-girls-museum.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
+| Aonatsu Line | 119114 | [119114-aonatsu-line.json](./119114-aonatsu-line.json) |
 | Aonatsu Line | 214547 | [214547-aonatsu-line.json](./214547-aonatsu-line.json) |
 | Aonatsu Line: Limited Edition | 166965 | [166965-aonatsu-line-limited-edition.json](./166965-aonatsu-line-limited-edition.json) |
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
