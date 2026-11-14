@@ -26707,6 +26707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 1.5: Star Takeover Redone | 180247 | [180247-star-revenge-1-5-star-takeover-redone.json](./180247-star-revenge-1-5-star-takeover-redone.json) |
 | Star Revenge 11: Star Adventure | 268708 | [268708-star-revenge-11-star-adventure.json](./268708-star-revenge-11-star-adventure.json) |
 | Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
+| Star Revenge 2: Act II - Night of Doom | 161963 | [161963-star-revenge-2-act-ii-night-of-doom.json](./161963-star-revenge-2-act-ii-night-of-doom.json) |
 | Star Revenge 2: Night of Doom PC | 378290 | [378290-star-revenge-2-night-of-doom-pc.json](./378290-star-revenge-2-night-of-doom-pc.json) |
 | Star Revenge 2.5: Remnant of Doom | 194728 | [194728-star-revenge-2-5-remnant-of-doom.json](./194728-star-revenge-2-5-remnant-of-doom.json) |
 | Star Revenge 2.5: Remnant of Doom PC | 378297 | [378297-star-revenge-2-5-remnant-of-doom-pc.json](./378297-star-revenge-2-5-remnant-of-doom-pc.json) |
@@ -38114,6 +38115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
 | Suspect | 12625 | [12625-suspect.json](./12625-suspect.json) |
+| Suspect Enemy | 161942 | [161942-suspect-enemy.json](./161942-suspect-enemy.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
 | Suspects Room: Keishichou Monzensho Torishirabe-han | 301143 | [301143-suspects-room-keishichou-monzensho-torishirabe-han.json](./301143-suspects-room-keishichou-monzensho-torishirabe-han.json) |
