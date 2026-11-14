@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts: Fragmented Keys | 332480 | [332480-kingdom-hearts-fragmented-keys.json](./332480-kingdom-hearts-fragmented-keys.json) |
 | Kingdom Hearts: Melody of Memory | 135108 | [135108-kingdom-hearts-melody-of-memory.json](./135108-kingdom-hearts-melody-of-memory.json) |
 | Kingdom Hearts: Missing-Link | 196765 | [196765-kingdom-hearts-missing-link.json](./196765-kingdom-hearts-missing-link.json) |
+| Kingdom Hearts: The Story So Far | 110592 | [110592-kingdom-hearts-the-story-so-far.json](./110592-kingdom-hearts-the-story-so-far.json) |
 | Kingdom Hearts: Union x Dark Road | 135639 | [135639-kingdom-hearts-union-x-dark-road.json](./135639-kingdom-hearts-union-x-dark-road.json) |
 | Kingdom Hearts: VR Experience | 109275 | [109275-kingdom-hearts-vr-experience.json](./109275-kingdom-hearts-vr-experience.json) |
 | Kingdom Heritage Bundle | 301194 | [301194-kingdom-heritage-bundle.json](./301194-kingdom-heritage-bundle.json) |
