@@ -7345,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Crusade | 326939 | [326939-mech-crusade.json](./326939-mech-crusade.json) |
 | Mech Delivery Mayhem | 362247 | [362247-mech-delivery-mayhem.json](./362247-mech-delivery-mayhem.json) |
 | Mech Down | 417135 | [417135-mech-down.json](./417135-mech-down.json) |
+| Mech Engineer | 141931 | [141931-mech-engineer.json](./141931-mech-engineer.json) |
 | Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
@@ -8842,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
 | Mega Met | 326496 | [326496-mega-met.json](./326496-mega-met.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
+| Mega Mine | 141945 | [141945-mega-mine.json](./141945-mega-mine.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
@@ -15098,6 +15100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misericorde: Volume One | 165896 | [165896-misericorde-volume-one.json](./165896-misericorde-volume-one.json) |
 | Misery | 342489 | [342489-misery.json](./342489-misery.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
+| Misery Mansion | 142526 | [142526-misery-mansion.json](./142526-misery-mansion.json) |
 | Misery Nights | 392008 | [392008-misery-nights.json](./392008-misery-nights.json) |
 | Misery Street | 154063 | [154063-misery-street.json](./154063-misery-street.json) |
 | Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
@@ -15243,6 +15246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Conflict Blitz | 145815 | [145815-missile-conflict-blitz.json](./145815-missile-conflict-blitz.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Crank | 215273 | [215273-missile-crank.json](./215273-missile-crank.json) |
+| Missile Dancer | 142510 | [142510-missile-dancer.json](./142510-missile-dancer.json) |
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
 | Missile Defender | 114137 | [114137-missile-defender.json](./114137-missile-defender.json) |
@@ -21527,6 +21531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murky Divers | 303304 | [303304-murky-divers.json](./303304-murky-divers.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
 | Murky Waters | 133156 | [133156-murky-waters.json](./133156-murky-waters.json) |
+| Murloc RPG Classic | 141955 | [141955-murloc-rpg-classic.json](./141955-murloc-rpg-classic.json) |
 | MurmAllmaus | 249541 | [249541-murmallmaus.json](./249541-murmallmaus.json) |
 | Murmel TCG | 408398 | [408398-murmel-tcg.json](./408398-murmel-tcg.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
