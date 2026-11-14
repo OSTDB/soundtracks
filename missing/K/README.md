@@ -3578,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Field: Additional I | 38465 | [38465-kings-field-additional-i.json](./38465-kings-field-additional-i.json) |
 | King's Field: Additional II | 38463 | [38463-kings-field-additional-ii.json](./38463-kings-field-additional-ii.json) |
 | King's Field: Dark Side Box | 382354 | [382354-kings-field-dark-side-box.json](./382354-kings-field-dark-side-box.json) |
+| King's Field: Pilot Style | 129857 | [129857-kings-field-pilot-style.json](./129857-kings-field-pilot-style.json) |
 | King's Field: The Ancient City | 9501 | [9501-kings-field-the-ancient-city.json](./9501-kings-field-the-ancient-city.json) |
 | King's Gambit | 309540 | [309540-kings-gambit.json](./309540-kings-gambit.json) |
 | King's Game | 416752 | [416752-kings-game.json](./416752-kings-game.json) |
@@ -4006,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of the Beach | 41117 | [41117-kings-of-the-beach.json](./41117-kings-of-the-beach.json) |
 | Kings of the Castle | 123693 | [123693-kings-of-the-castle.json](./123693-kings-of-the-castle.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
+| Kings of Wings | 129831 | [129831-kings-of-wings.json](./129831-kings-of-wings.json) |
 | Kings on the Corner | 411290 | [411290-kings-on-the-corner.json](./411290-kings-on-the-corner.json) |
 | Kings Origin | 375714 | [375714-kings-origin.json](./375714-kings-origin.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
