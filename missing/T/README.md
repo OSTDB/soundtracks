@@ -8160,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colony | 380902 | [380902-the-colony.json](./380902-the-colony.json) |
 | The Colony 2044 | 271081 | [271081-the-colony-2044.json](./271081-the-colony-2044.json) |
 | The Colony: New Haven Chronicles | 309805 | [309805-the-colony-new-haven-chronicles.json](./309805-the-colony-new-haven-chronicles.json) |
+| The Color of the Roses | 115822 | [115822-the-color-of-the-roses.json](./115822-the-color-of-the-roses.json) |
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
 | The Colorado Cannibal - A Custom Campaign | 420336 | [420336-the-colorado-cannibal-a-custom-campaign.json](./420336-the-colorado-cannibal-a-custom-campaign.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
@@ -15134,6 +15135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meowfficer | 337334 | [337334-the-meowfficer.json](./337334-the-meowfficer.json) |
 | The Meownth | 342354 | [342354-the-meownth.json](./342354-the-meownth.json) |
 | the Mercenary | 154297 | [154297-the-mercenary.json](./154297-the-mercenary.json) |
+| The Mercenary Rise | 115939 | [115939-the-mercenary-rise.json](./115939-the-mercenary-rise.json) |
 | The Mercenary's Adventure | 388420 | [388420-the-mercenarys-adventure.json](./388420-the-mercenarys-adventure.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Merchant Memoirs | 74233 | [74233-the-merchant-memoirs.json](./74233-the-merchant-memoirs.json) |
@@ -28463,6 +28465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tora Tora! | 172257 | [172257-tora-tora.json](./172257-tora-tora.json) |
 | Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
 | Toradora Portable! | 42752 | [42752-toradora-portable.json](./42752-toradora-portable.json) |
+| Toran | 115828 | [115828-toran.json](./115828-toran.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
 | Toraware no Kan | 202877 | [202877-toraware-no-kan.json](./202877-toraware-no-kan.json) |
@@ -30491,6 +30494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | Toyshop Trouble | 40608 | [40608-toyshop-trouble.json](./40608-toyshop-trouble.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
+| Toytank | 115256 | [115256-toytank.json](./115256-toytank.json) |
 | Toytles | 355818 | [355818-toytles.json](./355818-toytles.json) |
 | Toytopia | 273291 | [273291-toytopia.json](./273291-toytopia.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
