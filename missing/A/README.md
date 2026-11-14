@@ -4736,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
 | AeternoBlade | 52034 | [52034-aeternoblade.json](./52034-aeternoblade.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
+| AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
 | Aeternum | 50223 | [50223-aeternum.json](./50223-aeternum.json) |
 | Aeternum Grand Plaza | 350210 | [350210-aeternum-grand-plaza.json](./350210-aeternum-grand-plaza.json) |
@@ -12604,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
+| Antraxx | 137714 | [137714-antraxx.json](./137714-antraxx.json) |
 | Antreya Chronicles Online | 123154 | [123154-antreya-chronicles-online.json](./123154-antreya-chronicles-online.json) |
 | Antrio | 207439 | [207439-antrio.json](./207439-antrio.json) |
 | Antro | 204787 | [204787-antro.json](./204787-antro.json) |
