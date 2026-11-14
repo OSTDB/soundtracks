@@ -14818,6 +14818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born of Bread | 146525 | [146525-born-of-bread.json](./146525-born-of-bread.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Born Punk | 128459 | [128459-born-punk.json](./128459-born-punk.json) |
+| Born Race | 145757 | [145757-born-race.json](./145757-born-race.json) |
 | Born to Be Big | 228825 | [228825-born-to-be-big.json](./228825-born-to-be-big.json) |
 | Born to Breed | 352459 | [352459-born-to-breed.json](./352459-born-to-breed.json) |
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
@@ -19429,6 +19430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
 | Bunny Revenge | 260543 | [260543-bunny-revenge.json](./260543-bunny-revenge.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
+| Bunny Ribbit | 145710 | [145710-bunny-ribbit.json](./145710-bunny-ribbit.json) |
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Shadow | 303384 | [303384-bunny-shadow.json](./303384-bunny-shadow.json) |
 | Bunny Space Odyssey: FlopHop | 379177 | [379177-bunny-space-odyssey-flophop.json](./379177-bunny-space-odyssey-flophop.json) |
