@@ -5563,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapatoria | 125195 | [125195-escapatoria.json](./125195-escapatoria.json) |
 | Escape | 114755 | [114755-escape.json](./114755-escape.json) |
 | Escape | 147210 | [147210-escape.json](./147210-escape.json) |
+| Escape | 148053 | [148053-escape.json](./148053-escape.json) |
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 168071 | [168071-escape.json](./168071-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
