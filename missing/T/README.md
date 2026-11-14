@@ -14334,7 +14334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light That Binds Us | 410035 | [410035-the-light-that-binds-us.json](./410035-the-light-that-binds-us.json) |
 | The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
-| The Lightbringer | 145527 | [145527-the-lightbringer.json](./145527-the-lightbringer.json) |
 | The Lightbringers | 156758 | [156758-the-lightbringers.json](./156758-the-lightbringers.json) |
 | The Lighthouse | 177634 | [177634-the-lighthouse.json](./177634-the-lighthouse.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
