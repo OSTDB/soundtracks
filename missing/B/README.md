@@ -18006,6 +18006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Zelda Restoration Map 2 | 322561 | [322561-bs-zelda-restoration-map-2.json](./322561-bs-zelda-restoration-map-2.json) |
 | BS-X: Sore ha Namae wo Nusumareta Machi no Monogatari | 38156 | [38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json](./38156-bs-x-sore-ha-namae-wo-nusumareta-machi-no-monogatari.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
+| BSF | 166795 | [166795-bsf.json](./166795-bsf.json) |
 | Bside | 348558 | [348558-bside.json](./348558-bside.json) |
 | BSL Winter Game Challenge | 88048 | [88048-bsl-winter-game-challenge.json](./88048-bsl-winter-game-challenge.json) |
 | BSL Winter Games Challenge | 87331 | [87331-bsl-winter-games-challenge.json](./87331-bsl-winter-games-challenge.json) |
