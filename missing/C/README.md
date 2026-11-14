@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp McTex Lake | 136530 | [136530-camp-mctex-lake.json](./136530-camp-mctex-lake.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
+| Camp Pinewood | 115744 | [115744-camp-pinewood.json](./115744-camp-pinewood.json) |
 | Camp Pokémon | 52197 | [52197-camp-pokemon.json](./52197-camp-pokemon.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
 | Camp Rock: The Final Jam | 122508 | [122508-camp-rock-the-final-jam.json](./122508-camp-rock-the-final-jam.json) |
@@ -7493,6 +7494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Blossom Fleet | 172009 | [172009-cherry-blossom-fleet.json](./172009-cherry-blossom-fleet.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Bomb | 285589 | [285589-cherry-bomb.json](./285589-cherry-bomb.json) |
+| Cherry Boy | 115833 | [115833-cherry-boy.json](./115833-cherry-boy.json) |
 | Cherry Cough Syrup | 374809 | [374809-cherry-cough-syrup.json](./374809-cherry-cough-syrup.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry Hill | 368458 | [368458-cherry-hill.json](./368458-cherry-hill.json) |
@@ -12988,6 +12990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Ground | 265523 | [265523-cold-ground.json](./265523-cold-ground.json) |
 | Cold Harvest | 191195 | [191195-cold-harvest.json](./191195-cold-harvest.json) |
 | Cold Heart | 138683 | [138683-cold-heart.json](./138683-cold-heart.json) |
+| Cold Hearts | 115827 | [115827-cold-hearts.json](./115827-cold-hearts.json) |
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
 | Cold Ice Remastered | 229223 | [229223-cold-ice-remastered.json](./229223-cold-ice-remastered.json) |
@@ -15783,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conur Life | 240051 | [240051-conur-life.json](./240051-conur-life.json) |
 | Conurbation | 176738 | [176738-conurbation.json](./176738-conurbation.json) |
 | Convalescent Codex: An Alchemist's Story | 349217 | [349217-convalescent-codex-an-alchemists-story.json](./349217-convalescent-codex-an-alchemists-story.json) |
+| Convallaria | 115847 | [115847-convallaria.json](./115847-convallaria.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
 | Conveni Wars: Barcode Battler Senki - Super Senshi Shutsugeki seyo! | 38147 | [38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json](./38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json) |
 | Convenience Store | 123956 | [123956-convenience-store.json](./123956-convenience-store.json) |
@@ -22245,6 +22249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curve Fever 2 | 63080 | [63080-curve-fever-2.json](./63080-curve-fever-2.json) |
+| Curve Fever Pro | 115841 | [115841-curve-fever-pro.json](./115841-curve-fever-pro.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curveball | 96590 | [96590-curveball.json](./96590-curveball.json) |
 | Curved World | 428426 | [428426-curved-world.json](./428426-curved-world.json) |
