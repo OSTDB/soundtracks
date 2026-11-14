@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Arctic | 104837 | [104837-tal-arctic.json](./104837-tal-arctic.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
 | TAL: Arctic 3 | 107516 | [107516-tal-arctic-3.json](./107516-tal-arctic-3.json) |
+| TAL: Arctic 4 | 158259 | [158259-tal-arctic-4.json](./158259-tal-arctic-4.json) |
 | Tal: Arctic 5 | 234517 | [234517-tal-arctic-5.json](./234517-tal-arctic-5.json) |
 | TAL: Jungle | 111921 | [111921-tal-jungle.json](./111921-tal-jungle.json) |
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
@@ -13203,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hollow | 309907 | [309907-the-last-hollow.json](./309907-the-last-hollow.json) |
+| The Last Hope | 158243 | [158243-the-last-hope.json](./158243-the-last-hope.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope | 368609 | [368609-the-last-hope.json](./368609-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
@@ -26029,6 +26031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Troopers: Alliance | 344293 | [344293-tiny-troopers-alliance.json](./344293-tiny-troopers-alliance.json) |
+| Tiny Troopers: Global Ops | 158262 | [158262-tiny-troopers-global-ops.json](./158262-tiny-troopers-global-ops.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Troopers: Joint Ops | 21320 | [21320-tiny-troopers-joint-ops.json](./21320-tiny-troopers-joint-ops.json) |
