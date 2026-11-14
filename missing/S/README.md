@@ -15100,6 +15100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
+| Slime Rancher: Deluxe Edition | 134106 | [134106-slime-rancher-deluxe-edition.json](./134106-slime-rancher-deluxe-edition.json) |
 | Slime Rancher: Plortable Edition | 163631 | [163631-slime-rancher-plortable-edition.json](./163631-slime-rancher-plortable-edition.json) |
 | Slime Rancher: Secret Style Pack | 118666 | [118666-slime-rancher-secret-style-pack.json](./118666-slime-rancher-secret-style-pack.json) |
 | Slime Rancher: VR Playground | 171210 | [171210-slime-rancher-vr-playground.json](./171210-slime-rancher-vr-playground.json) |
@@ -27423,6 +27424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
 | Star86 | 281795 | [281795-star86.json](./281795-star86.json) |
+| Star99 | 134129 | [134129-star99.json](./134129-star99.json) |
 | StarAbyss Heroes | 379108 | [379108-starabyss-heroes.json](./379108-starabyss-heroes.json) |
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
@@ -34797,6 +34799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kick-Off | 45797 | [45797-super-kick-off.json](./45797-super-kick-off.json) |
 | Super Kickers League | 115435 | [115435-super-kickers-league.json](./115435-super-kickers-league.json) |
+| Super Kickers League Ultimate | 134105 | [134105-super-kickers-league-ultimate.json](./134105-super-kickers-league-ultimate.json) |
 | Super Kickers League: Goths and Vampires! | 168520 | [168520-super-kickers-league-goths-and-vampires.json](./168520-super-kickers-league-goths-and-vampires.json) |
 | Super Kickers League: Vikings and Valkyries! | 168519 | [168519-super-kickers-league-vikings-and-valkyries.json](./168519-super-kickers-league-vikings-and-valkyries.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
@@ -35232,6 +35235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
 | Super Mario Bros. X | 87816 | [87816-super-mario-bros-x.json](./87816-super-mario-bros-x.json) |
 | Super Mario Bros. X by 5438A38A | 358335 | [358335-super-mario-bros-x-by-5438a38a.json](./358335-super-mario-bros-x-by-5438a38a.json) |
+| Super Mario Bros. X2 | 134088 | [134088-super-mario-bros-x2.json](./134088-super-mario-bros-x2.json) |
 | Super Mario Bros. Z: The Game | 148005 | [148005-super-mario-bros-z-the-game.json](./148005-super-mario-bros-z-the-game.json) |
 | Super Mario Bros.: Crimson Hours | 318944 | [318944-super-mario-bros-crimson-hours.json](./318944-super-mario-bros-crimson-hours.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
