@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash Simulator | 343750 | [343750-car-wash-simulator.json](./343750-car-wash-simulator.json) |
 | Car Wash TD: Tower Defense | 174070 | [174070-car-wash-td-tower-defense.json](./174070-car-wash-td-tower-defense.json) |
 | Car Wash Tycoon Business Simulator | 328727 | [328727-car-wash-tycoon-business-simulator.json](./328727-car-wash-tycoon-business-simulator.json) |
+| Car Wash: Cars & Trucks Garage Game for Toddlers & Kids | 158790 | [158790-car-wash-cars-and-trucks-garage-game-for-toddlers-and-kids.json](./158790-car-wash-cars-and-trucks-garage-game-for-toddlers-and-kids.json) |
 | Car Washer: Summer of the Ninja | 35260 | [35260-car-washer-summer-of-the-ninja.json](./35260-car-washer-summer-of-the-ninja.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
 | Cartoon Kreedz | 123880 | [123880-cartoon-kreedz.json](./123880-cartoon-kreedz.json) |
 | Cartoon Line: Part One | 13244 | [13244-cartoon-line-part-one.json](./13244-cartoon-line-part-one.json) |
+| Cartoon Magic world | 158758 | [158758-cartoon-magic-world.json](./158758-cartoon-magic-world.json) |
 | Cartoon Network Arcade | 125012 | [125012-cartoon-network-arcade.json](./125012-cartoon-network-arcade.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
@@ -7162,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checker | 230666 | [230666-checker.json](./230666-checker.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
 | Checker King | 92408 | [92408-checker-king.json](./92408-checker-king.json) |
+| Checkered Flag | 158753 | [158753-checkered-flag.json](./158753-checkered-flag.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
@@ -9761,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
 | Cinders | 9723 | [9723-cinders.json](./9723-cinders.json) |
 | Cinders Magic | 248432 | [248432-cinders-magic.json](./248432-cinders-magic.json) |
+| Cinders of Hades | 158772 | [158772-cinders-of-hades.json](./158772-cinders-of-hades.json) |
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
@@ -18558,6 +18562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Golf Party | 343138 | [343138-crazy-golf-party.json](./343138-crazy-golf-party.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
+| Crazy Gravity | 158769 | [158769-crazy-gravity.json](./158769-crazy-gravity.json) |
 | Crazy Gravity Challenge | 381511 | [381511-crazy-gravity-challenge.json](./381511-crazy-gravity-challenge.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
