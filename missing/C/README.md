@@ -7027,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charma: Land of Enchantment | 52498 | [52498-charma-land-of-enchantment.json](./52498-charma-land-of-enchantment.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charmcraft Idle | 385957 | [385957-charmcraft-idle.json](./385957-charmcraft-idle.json) |
+| Charmed | 84421 | [84421-charmed.json](./84421-charmed.json) |
 | Charming Blood | 215506 | [215506-charming-blood.json](./215506-charming-blood.json) |
 | Charming Girls | 154144 | [154144-charming-girls.json](./154144-charming-girls.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
@@ -16477,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
+| Corleone Online | 83667 | [83667-corleone-online.json](./83667-corleone-online.json) |
 | Corlero | 240668 | [240668-corlero.json](./240668-corlero.json) |
 | Corma | 112620 | [112620-corma.json](./112620-corma.json) |
 | Corn | 309919 | [309919-corn.json](./309919-corn.json) |
