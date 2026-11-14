@@ -7596,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evermoon | 238080 | [238080-evermoon.json](./238080-evermoon.json) |
 | Evermore | 57514 | [57514-evermore.json](./57514-evermore.json) |
 | Evermore Knights | 235096 | [235096-evermore-knights.json](./235096-evermore-knights.json) |
+| Evernight | 136517 | [136517-evernight.json](./136517-evernight.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | Everpath: A pixel art roguelite | 113516 | [113516-everpath-a-pixel-art-roguelite.json](./113516-everpath-a-pixel-art-roguelite.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
