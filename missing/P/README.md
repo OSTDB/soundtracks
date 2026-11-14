@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Poetry | 386862 | [386862-palace-of-poetry.json](./386862-palace-of-poetry.json) |
 | Palace of Sand | 171240 | [171240-palace-of-sand.json](./171240-palace-of-sand.json) |
 | Palace of sky | 128296 | [128296-palace-of-sky.json](./128296-palace-of-sky.json) |
+| Palace of the Azure Dragon | 112383 | [112383-palace-of-the-azure-dragon.json](./112383-palace-of-the-azure-dragon.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
 | Paladin | 131415 | [131415-paladin.json](./131415-paladin.json) |
 | Paladin | 71600 | [71600-paladin.json](./71600-paladin.json) |
@@ -15297,6 +15298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pranksterz: From Russia With Love | 23195 | [23195-pranksterz-from-russia-with-love.json](./23195-pranksterz-from-russia-with-love.json) |
 | Pranksterz: No Rest for the Wicked | 23196 | [23196-pranksterz-no-rest-for-the-wicked.json](./23196-pranksterz-no-rest-for-the-wicked.json) |
 | Pranksterz: Off Your Boss | 23197 | [23197-pranksterz-off-your-boss.json](./23197-pranksterz-off-your-boss.json) |
+| Pranky Cat | 112382 | [112382-pranky-cat.json](./112382-pranky-cat.json) |
 | Praser 5 | 60181 | [60181-praser-5.json](./60181-praser-5.json) |
 | Pratagon | 110654 | [110654-pratagon.json](./110654-pratagon.json) |
 | Pratfall | 382522 | [382522-pratfall.json](./382522-pratfall.json) |
@@ -16929,6 +16931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigy Math Game | 103984 | [103984-prodigy-math-game.json](./103984-prodigy-math-game.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
+| Proditur | 112384 | [112384-proditur.json](./112384-proditur.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Produce | 77560 | [77560-produce.json](./77560-produce.json) |
 | Producer (2021) | 154283 | [154283-producer-2021.json](./154283-producer-2021.json) |
@@ -19276,6 +19279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Monkey | 316512 | [316512-punch-monkey.json](./316512-punch-monkey.json) |
 | Punch Out | 311981 | [311981-punch-out.json](./311981-punch-out.json) |
 | Punch Pad Workout | 107985 | [107985-punch-pad-workout.json](./107985-punch-pad-workout.json) |
+| Punch Perfect | 112426 | [112426-punch-perfect.json](./112426-punch-perfect.json) |
 | Punch Planet | 57268 | [57268-punch-planet.json](./57268-punch-planet.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
