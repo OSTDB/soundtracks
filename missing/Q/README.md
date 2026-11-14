@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quid Pro Quo | 407179 | [407179-quid-pro-quo.json](./407179-quid-pro-quo.json) |
 | Quidditch Manager | 60730 | [60730-quidditch-manager.json](./60730-quidditch-manager.json) |
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
+| Quien es Cualo? | 93243 | [93243-quien-es-cualo.json](./93243-quien-es-cualo.json) |
 | Quién Habla | 139533 | [139533-quien-habla.json](./139533-quien-habla.json) |
 | Quién Quiere ser Millonario? | 106037 | [106037-quien-quiere-ser-millonario.json](./106037-quien-quiere-ser-millonario.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
