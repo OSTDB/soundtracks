@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekojishi Expansion Pack: A Sunny Day | 167340 | [167340-nekojishi-expansion-pack-a-sunny-day.json](./167340-nekojishi-expansion-pack-a-sunny-day.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
+| Nekoland Studio | 119855 | [119855-nekoland-studio.json](./119855-nekoland-studio.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancer of Nowhere | 325512 | [325512-nekomancer-of-nowhere.json](./325512-nekomancer-of-nowhere.json) |
 | Nekomancer: Seeded by Darkness | 211554 | [211554-nekomancer-seeded-by-darkness.json](./211554-nekomancer-seeded-by-darkness.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Love Project Vol. 1 | 307680 | [307680-nekopara-love-project-vol-1.json](./307680-nekopara-love-project-vol-1.json) |
 | Nekopara Love Project Vol. 4 | 384258 | [384258-nekopara-love-project-vol-4.json](./384258-nekopara-love-project-vol-4.json) |
+| Nekopara Sekai Connect | 120434 | [120434-nekopara-sekai-connect.json](./120434-nekopara-sekai-connect.json) |
 | Nekopara Vol. 0 | 26654 | [26654-nekopara-vol-0.json](./26654-nekopara-vol-0.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 2 | 34053 | [34053-nekopara-vol-2.json](./34053-nekopara-vol-2.json) |
