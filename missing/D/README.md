@@ -17099,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScales 1-7 Bundle | 224328 | [224328-dragonscales-1-7-bundle.json](./224328-dragonscales-1-7-bundle.json) |
 | DragonScales 2: Beneath a Bloodstained Moon | 55821 | [55821-dragonscales-2-beneath-a-bloodstained-moon.json](./55821-dragonscales-2-beneath-a-bloodstained-moon.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
+| DragonScales 4: Master Chambers | 125503 | [125503-dragonscales-4-master-chambers.json](./125503-dragonscales-4-master-chambers.json) |
 | DragonScales 5: The Frozen Tomb | 111935 | [111935-dragonscales-5-the-frozen-tomb.json](./111935-dragonscales-5-the-frozen-tomb.json) |
 | DragonScales 6: Love and Redemption | 131446 | [131446-dragonscales-6-love-and-redemption.json](./131446-dragonscales-6-love-and-redemption.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
@@ -19492,6 +19493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duder | 89599 | [89599-duder.json](./89599-duder.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudeski | 187799 | [187799-dudeski.json](./187799-dudeski.json) |
+| Dudley and the Mysterious Tower | 125519 | [125519-dudley-and-the-mysterious-tower.json](./125519-dudley-and-the-mysterious-tower.json) |
 | DuDu Kingdom | 159456 | [159456-dudu-kingdom.json](./159456-dudu-kingdom.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due | 327285 | [327285-due.json](./327285-due.json) |
