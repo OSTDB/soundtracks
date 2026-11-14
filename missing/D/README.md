@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashpong | 192855 | [192855-dashpong.json](./192855-dashpong.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashwalk Dueling | 189376 | [189376-dashwalk-dueling.json](./189376-dashwalk-dueling.json) |
+| Dashy Crashy | 121836 | [121836-dashy-crashy.json](./121836-dashy-crashy.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Dango | 307497 | [307497-dashy-dango.json](./307497-dashy-dango.json) |
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
@@ -8375,6 +8376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep - Season of Dawn | 129884 | [129884-destiny-2-shadowkeep-season-of-dawn.json](./129884-destiny-2-shadowkeep-season-of-dawn.json) |
 | Destiny 2: Shadowkeep - Season of the Undying | 129885 | [129885-destiny-2-shadowkeep-season-of-the-undying.json](./129885-destiny-2-shadowkeep-season-of-the-undying.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
+| Destiny 2: The Collection | 121825 | [121825-destiny-2-the-collection.json](./121825-destiny-2-the-collection.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
 | Destiny 2: The Final Shape | 250645 | [250645-destiny-2-the-final-shape.json](./250645-destiny-2-the-final-shape.json) |
 | Destiny 2: The Witch Queen | 134831 | [134831-destiny-2-the-witch-queen.json](./134831-destiny-2-the-witch-queen.json) |
@@ -12233,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
+| Divine Commander | 121787 | [121787-divine-commander.json](./121787-divine-commander.json) |
 | Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
 | Divine Dawn | 223232 | [223232-divine-dawn.json](./223232-divine-dawn.json) |
 | Divine Dice | 382126 | [382126-divine-dice.json](./382126-divine-dice.json) |
@@ -19365,6 +19368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Hunting Challenge | 115333 | [115333-duck-hunting-challenge.json](./115333-duck-hunting-challenge.json) |
 | Duck HuntR | 110634 | [110634-duck-huntr.json](./110634-duck-huntr.json) |
+| Duck in Town: A Rising Knight | 121803 | [121803-duck-in-town-a-rising-knight.json](./121803-duck-in-town-a-rising-knight.json) |
 | Duck Jam | 168546 | [168546-duck-jam.json](./168546-duck-jam.json) |
 | Duck Life | 210659 | [210659-duck-life.json](./210659-duck-life.json) |
 | Duck Life | 58367 | [58367-duck-life.json](./58367-duck-life.json) |
@@ -21190,6 +21194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwerg Saga | 134764 | [134764-dwerg-saga.json](./134764-dwerg-saga.json) |
+| Dwerve | 121791 | [121791-dwerve.json](./121791-dwerve.json) |
 | DWG 2024 Bundle | 331555 | [331555-dwg-2024-bundle.json](./331555-dwg-2024-bundle.json) |
 | Dwingle B.O.T | 37387 | [37387-dwingle-b-o-t.json](./37387-dwingle-b-o-t.json) |
 | DWK 5: Hinter dem Horizont | 81577 | [81577-dwk-5-hinter-dem-horizont.json](./81577-dwk-5-hinter-dem-horizont.json) |
