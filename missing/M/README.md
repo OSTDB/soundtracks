@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
 | M.A.V. | 17103 | [17103-m-a-v.json](./17103-m-a-v.json) |
+| M.A.X. + M.A.X. 2 | 155236 | [155236-m-a-x-m-a-x-2.json](./155236-m-a-x-m-a-x-2.json) |
 | M.A.X. 2: Mechanized Assault & Exploration | 80979 | [80979-m-a-x-2-mechanized-assault-and-exploration.json](./80979-m-a-x-2-mechanized-assault-and-exploration.json) |
 | M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
