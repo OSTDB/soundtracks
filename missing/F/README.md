@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fareast Four Season: Hello World | 269014 | [269014-fareast-four-season-hello-world.json](./269014-fareast-four-season-hello-world.json) |
 | Faren Touga | 172696 | [172696-faren-touga.json](./172696-faren-touga.json) |
 | Fareo: Shadowlands | 130916 | [130916-fareo-shadowlands.json](./130916-fareo-shadowlands.json) |
+| Fares | 121074 | [121074-fares.json](./121074-fares.json) |
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
 | Farever | 348295 | [348295-farever.json](./348295-farever.json) |
 | Farewell | 167123 | [167123-farewell.json](./167123-farewell.json) |
@@ -4995,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For America: Zap Gun DLC | 380718 | [380718-fight-for-america-zap-gun-dlc.json](./380718-fight-for-america-zap-gun-dlc.json) |
 | Fight For Eden | 164989 | [164989-fight-for-eden.json](./164989-fight-for-eden.json) |
 | Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
+| Fight For Freedom | 121053 | [121053-fight-for-freedom.json](./121053-fight-for-freedom.json) |
 | Fight for Freedom: Civil War | 294192 | [294192-fight-for-freedom-civil-war.json](./294192-fight-for-freedom-civil-war.json) |
 | Fight for Gold II | 111854 | [111854-fight-for-gold-ii.json](./111854-fight-for-gold-ii.json) |
 | Fight For It | 208530 | [208530-fight-for-it.json](./208530-fight-for-it.json) |
