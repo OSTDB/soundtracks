@@ -10741,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Storm | 92597 | [92597-dino-storm.json](./92597-dino-storm.json) |
 | Dino Strike | 85563 | [85563-dino-strike.json](./85563-dino-strike.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
+| Dino Survival Zone | 96343 | [96343-dino-survival-zone.json](./96343-dino-survival-zone.json) |
 | Dino Survivors | 276211 | [276211-dino-survivors.json](./276211-dino-survivors.json) |
 | Dino Tales | 204286 | [204286-dino-tales.json](./204286-dino-tales.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
@@ -16640,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
 | Dragon Jumper | 69898 | [69898-dragon-jumper.json](./69898-dragon-jumper.json) |
 | Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
+| Dragon Keeper | 96337 | [96337-dragon-keeper.json](./96337-dragon-keeper.json) |
 | Dragon Keeper 2 | 356182 | [356182-dragon-keeper-2.json](./356182-dragon-keeper-2.json) |
 | Dragon Khan | 383486 | [383486-dragon-khan.json](./383486-dragon-khan.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
