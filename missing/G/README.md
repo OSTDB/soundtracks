@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
 | Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
+| Galak-Z: Variant Mobile/S | 122460 | [122460-galak-z-variant-mobile-s.json](./122460-galak-z-variant-mobile-s.json) |
 | Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galak-Z: Varient Mobile | 103085 | [103085-galak-z-varient-mobile.json](./103085-galak-z-varient-mobile.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
