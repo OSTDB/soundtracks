@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
 | Adastra | 135341 | [135341-adastra.json](./135341-adastra.json) |
+| Add | 145704 | [145704-add.json](./145704-add.json) |
 | Add & Subtract with ALF | 64535 | [64535-add-and-subtract-with-alf.json](./64535-add-and-subtract-with-alf.json) |
 | Add Flyers To Dreams | 400472 | [400472-add-flyers-to-dreams.json](./400472-add-flyers-to-dreams.json) |
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
@@ -3638,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adiboo: Magical Playland | 56328 | [56328-adiboo-magical-playland.json](./56328-adiboo-magical-playland.json) |
 | Adiboo: Nature, Animals & Planets | 205973 | [205973-adiboo-nature-animals-and-planets.json](./205973-adiboo-nature-animals-and-planets.json) |
 | Adibou Anglais | 242506 | [242506-adibou-anglais.json](./242506-adibou-anglais.json) |
+| Adibou Aventure: J'Explore le Corps Humain | 145699 | [145699-adibou-aventure-jexplore-le-corps-humain.json](./145699-adibou-aventure-jexplore-le-corps-humain.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
 | Adibou d'chou au Pays des Bonbons | 242532 | [242532-adibou-dchou-au-pays-des-bonbons.json](./242532-adibou-dchou-au-pays-des-bonbons.json) |
 | Adibou d'chou fête son anniversaire | 242535 | [242535-adibou-dchou-fete-son-anniversaire.json](./242535-adibou-dchou-fete-son-anniversaire.json) |
@@ -4689,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Peace of Mind 2 | 302305 | [302305-aery-peace-of-mind-2.json](./302305-aery-peace-of-mind-2.json) |
 | Aery: Peace of Mind 3 | 347383 | [347383-aery-peace-of-mind-3.json](./347383-aery-peace-of-mind-3.json) |
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
+| Aery: Sky Castle | 145645 | [145645-aery-sky-castle.json](./145645-aery-sky-castle.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
 | Aery: The King's Messenger | 393040 | [393040-aery-the-kings-messenger.json](./393040-aery-the-kings-messenger.json) |
@@ -4837,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afghanistan '11 | 29744 | [29744-afghanistan-11.json](./29744-afghanistan-11.json) |
 | Afghanistan '11: Royal Marines | 172322 | [172322-afghanistan-11-royal-marines.json](./172322-afghanistan-11-royal-marines.json) |
 | AFK Arena | 125930 | [125930-afk-arena.json](./125930-afk-arena.json) |
+| AFK Battle: Idle Princess | 145705 | [145705-afk-battle-idle-princess.json](./145705-afk-battle-idle-princess.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Chess | 272641 | [272641-afk-chess.json](./272641-afk-chess.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
@@ -10016,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphibia: Locust Pocus | 334006 | [334006-amphibia-locust-pocus.json](./334006-amphibia-locust-pocus.json) |
 | Amphibian | 413972 | [413972-amphibian.json](./413972-amphibian.json) |
 | Amphibian Assault | 290331 | [290331-amphibian-assault.json](./290331-amphibian-assault.json) |
+| Amphibios | 145714 | [145714-amphibios.json](./145714-amphibios.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
 | Amphitheater Of Abaddon | 309194 | [309194-amphitheater-of-abaddon.json](./309194-amphitheater-of-abaddon.json) |
