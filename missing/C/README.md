@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | CandySnake | 334789 | [334789-candysnake.json](./334789-candysnake.json) |
+| CandySnake 2 | 107463 | [107463-candysnake-2.json](./107463-candysnake-2.json) |
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
 | CandyVenture: Rebaked | 280308 | [280308-candyventure-rebaked.json](./280308-candyventure-rebaked.json) |
 | Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
@@ -11764,6 +11765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone | 336972 | [336972-clone.json](./336972-clone.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
 | Clone 2048 | 193883 | [193883-clone-2048.json](./193883-clone-2048.json) |
+| Clone Adventures | 107940 | [107940-clone-adventures.json](./107940-clone-adventures.json) |
 | Clone Armies | 254741 | [254741-clone-armies.json](./254741-clone-armies.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
@@ -14904,6 +14906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
 | Concluse 2: The Drifting Prefecture | 116553 | [116553-concluse-2-the-drifting-prefecture.json](./116553-concluse-2-the-drifting-prefecture.json) |
 | Conclusion | 32197 | [32197-conclusion.json](./32197-conclusion.json) |
+| Concord | 107972 | [107972-concord.json](./107972-concord.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
 | Concordia: Digital Edition - Aegyptus & Creta | 193169 | [193169-concordia-digital-edition-aegyptus-and-creta.json](./193169-concordia-digital-edition-aegyptus-and-creta.json) |
 | Concordia: Digital Edition - Britannia & Germania | 193171 | [193171-concordia-digital-edition-britannia-and-germania.json](./193171-concordia-digital-edition-britannia-and-germania.json) |
@@ -15090,6 +15093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
 | Conjure Craft | 119928 | [119928-conjure-craft.json](./119928-conjure-craft.json) |
+| Conjure Strike | 107466 | [107466-conjure-strike.json](./107466-conjure-strike.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
@@ -15484,6 +15488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Site Driver | 186578 | [186578-construction-site-driver.json](./186578-construction-site-driver.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
 | Construction Store Simulator | 391445 | [391445-construction-store-simulator.json](./391445-construction-store-simulator.json) |
+| Construction Truck Simulator | 107946 | [107946-construction-truck-simulator.json](./107946-construction-truck-simulator.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
 | Construction: Action | 354053 | [354053-construction-action.json](./354053-construction-action.json) |
 | Construction: Action - D-46-#: Juggler | 354479 | [354479-construction-action-d-46-juggler.json](./354479-construction-action-d-46-juggler.json) |
@@ -15633,6 +15638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Continental Galaxy 2020 | 59811 | [59811-continental-galaxy-2020.json](./59811-continental-galaxy-2020.json) |
 | Contingence | 364946 | [364946-contingence.json](./364946-contingence.json) |
+| Contingency | 107953 | [107953-contingency.json](./107953-contingency.json) |
 | Contingency | 181626 | [181626-contingency.json](./181626-contingency.json) |
 | Contingency Creatures | 150719 | [150719-contingency-creatures.json](./150719-contingency-creatures.json) |
 | Contingency Plan | 303425 | [303425-contingency-plan.json](./303425-contingency-plan.json) |
