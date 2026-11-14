@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Cute Cats 2 | 211385 | [211385-1001-jigsaw-cute-cats-2.json](./211385-1001-jigsaw-cute-cats-2.json) |
 | 1001 Jigsaw: Cute Cats 3 | 232629 | [232629-1001-jigsaw-cute-cats-3.json](./232629-1001-jigsaw-cute-cats-3.json) |
 | 1001 Jigsaw: Cute Cats 5 | 244869 | [244869-1001-jigsaw-cute-cats-5.json](./244869-1001-jigsaw-cute-cats-5.json) |
+| 1001 Jigsaw: Earth Chronicles | 113090 | [113090-1001-jigsaw-earth-chronicles.json](./113090-1001-jigsaw-earth-chronicles.json) |
 | 1001 Jigsaw: Earth Chronicles 2 | 163000 | [163000-1001-jigsaw-earth-chronicles-2.json](./163000-1001-jigsaw-earth-chronicles-2.json) |
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
@@ -925,12 +926,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 7 | 195443 | [195443-1001-jigsaw-earth-chronicles-7.json](./195443-1001-jigsaw-earth-chronicles-7.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Earth Chronicles 9 | 193044 | [193044-1001-jigsaw-earth-chronicles-9.json](./193044-1001-jigsaw-earth-chronicles-9.json) |
+| 1001 Jigsaw: Home Sweet Home | 113088 | [113088-1001-jigsaw-home-sweet-home.json](./113088-1001-jigsaw-home-sweet-home.json) |
 | 1001 Jigsaw: Home Sweet Home - Back from Vacation | 188933 | [188933-1001-jigsaw-home-sweet-home-back-from-vacation.json](./188933-1001-jigsaw-home-sweet-home-back-from-vacation.json) |
 | 1001 Jigsaw: Home Sweet Home - Wedding Ceremony | 157963 | [157963-1001-jigsaw-home-sweet-home-wedding-ceremony.json](./157963-1001-jigsaw-home-sweet-home-wedding-ceremony.json) |
 | 1001 Jigsaw: Home Sweet Home 2 | 202729 | [202729-1001-jigsaw-home-sweet-home-2.json](./202729-1001-jigsaw-home-sweet-home-2.json) |
 | 1001 Jigsaw: Home Sweet Home 3 | 211386 | [211386-1001-jigsaw-home-sweet-home-3.json](./211386-1001-jigsaw-home-sweet-home-3.json) |
 | 1001 Jigsaw: Ice Age | 268041 | [268041-1001-jigsaw-ice-age.json](./268041-1001-jigsaw-ice-age.json) |
 | 1001 Jigsaw: Interior Design | 208836 | [208836-1001-jigsaw-interior-design.json](./208836-1001-jigsaw-interior-design.json) |
+| 1001 Jigsaw: Legends of Mystery | 113091 | [113091-1001-jigsaw-legends-of-mystery.json](./113091-1001-jigsaw-legends-of-mystery.json) |
 | 1001 Jigsaw: Legends of Mystery 2 | 154768 | [154768-1001-jigsaw-legends-of-mystery-2.json](./154768-1001-jigsaw-legends-of-mystery-2.json) |
 | 1001 Jigsaw: Legends of Mystery 3 | 197597 | [197597-1001-jigsaw-legends-of-mystery-3.json](./197597-1001-jigsaw-legends-of-mystery-3.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
@@ -940,8 +943,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Wild Animals | 195447 | [195447-1001-jigsaw-wild-animals.json](./195447-1001-jigsaw-wild-animals.json) |
 | 1001 Jigsaw: World Tour - Africa | 162968 | [162968-1001-jigsaw-world-tour-africa.json](./162968-1001-jigsaw-world-tour-africa.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
+| 1001 Jigsaw: World Tour - Australian Puzzles | 113089 | [113089-1001-jigsaw-world-tour-australian-puzzles.json](./113089-1001-jigsaw-world-tour-australian-puzzles.json) |
 | 1001 Jigsaw: World Tour - France | 127518 | [127518-1001-jigsaw-world-tour-france.json](./127518-1001-jigsaw-world-tour-france.json) |
 | 1001 Jigsaw: World Tour - Great America | 91255 | [91255-1001-jigsaw-world-tour-great-america.json](./91255-1001-jigsaw-world-tour-great-america.json) |
+| 1001 Jigsaw: World Tour - London | 113087 | [113087-1001-jigsaw-world-tour-london.json](./113087-1001-jigsaw-world-tour-london.json) |
 | 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
 | 1001 MiniGolf Challenge | 52343 | [52343-1001-minigolf-challenge.json](./52343-1001-minigolf-challenge.json) |
 | 1001 Nights | 283040 | [283040-1001-nights.json](./283040-1001-nights.json) |
@@ -2546,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
 | 3D Beee | 60722 | [60722-3d-beee.json](./60722-3d-beee.json) |
 | 3D Billiards & 3D MiniGolf Bundle | 99724 | [99724-3d-billiards-and-3d-minigolf-bundle.json](./99724-3d-billiards-and-3d-minigolf-bundle.json) |
+| 3D Billiards: Pool & Snooker | 113076 | [113076-3d-billiards-pool-and-snooker.json](./113076-3d-billiards-pool-and-snooker.json) |
 | 3D Billiards: Pool & Snooker Remastered | 143828 | [143828-3d-billiards-pool-and-snooker-remastered.json](./143828-3d-billiards-pool-and-snooker-remastered.json) |
 | 3D Blade Skating | 217723 | [217723-3d-blade-skating.json](./217723-3d-blade-skating.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
