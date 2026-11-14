@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Assault VR | 242021 | [242021-tactical-assault-vr.json](./242021-tactical-assault-vr.json) |
 | Tactical Assault VR: Winter Cosmetics Pack | 400737 | [400737-tactical-assault-vr-winter-cosmetics-pack.json](./400737-tactical-assault-vr-winter-cosmetics-pack.json) |
 | Tactical Bandits | 207578 | [207578-tactical-bandits.json](./207578-tactical-bandits.json) |
+| Tactical Battle Chronicles: Prelude to a War | 157739 | [157739-tactical-battle-chronicles-prelude-to-a-war.json](./157739-tactical-battle-chronicles-prelude-to-a-war.json) |
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temp Name - Customizable Space Shooter | 93659 | [93659-temp-name-customizable-space-shooter.json](./93659-temp-name-customizable-space-shooter.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
+| Temper My Blade | 157729 | [157729-temper-my-blade.json](./157729-temper-my-blade.json) |
 | Temper Tantrum | 13377 | [13377-temper-tantrum.json](./13377-temper-tantrum.json) |
 | Temperance | 418062 | [418062-temperance.json](./418062-temperance.json) |
 | Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
@@ -7743,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat and the Box | 116747 | [116747-the-cat-and-the-box.json](./116747-the-cat-and-the-box.json) |
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat and the Coup (4K Remaster) | 107750 | [107750-the-cat-and-the-coup-4k-remaster.json](./107750-the-cat-and-the-coup-4k-remaster.json) |
+| The Cat Banny | 157737 | [157737-the-cat-banny.json](./157737-the-cat-banny.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in 14a | 117805 | [117805-the-cat-in-14a.json](./117805-the-cat-in-14a.json) |
 | The Cat in the Hat | 71403 | [71403-the-cat-in-the-hat.json](./71403-the-cat-in-the-hat.json) |
@@ -14807,6 +14810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maimed God's Saga | 348380 | [348380-the-maimed-gods-saga.json](./348380-the-maimed-gods-saga.json) |
 | The Main Event | 39499 | [39499-the-main-event.json](./39499-the-main-event.json) |
 | The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
+| The Majesti | 157734 | [157734-the-majesti.json](./157734-the-majesti.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
 | The Majesty of Colors Remastered | 95084 | [95084-the-majesty-of-colors-remastered.json](./95084-the-majesty-of-colors-remastered.json) |
@@ -15446,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Bikini Island | 286519 | [286519-the-mystery-of-bikini-island.json](./286519-the-mystery-of-bikini-island.json) |
 | The Mystery of Blackthorn Castle | 89766 | [89766-the-mystery-of-blackthorn-castle.json](./89766-the-mystery-of-blackthorn-castle.json) |
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
+| The Mystery of Caketropolis | 157738 | [157738-the-mystery-of-caketropolis.json](./157738-the-mystery-of-caketropolis.json) |
 | The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
 | The Mystery of Doomsday Valley | 398557 | [398557-the-mystery-of-doomsday-valley.json](./398557-the-mystery-of-doomsday-valley.json) |
 | The Mystery Of Eigengrau | 296798 | [296798-the-mystery-of-eigengrau.json](./296798-the-mystery-of-eigengrau.json) |
@@ -17987,6 +17992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
 | The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
 | The Sickle Family | 367993 | [367993-the-sickle-family.json](./367993-the-sickle-family.json) |
+| The Sickle Upon Sekigahara | 157745 | [157745-the-sickle-upon-sekigahara.json](./157745-the-sickle-upon-sekigahara.json) |
 | The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
@@ -22062,6 +22068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Isn't Just Tower Defense | 372241 | [372241-this-isnt-just-tower-defense.json](./372241-this-isnt-just-tower-defense.json) |
 | This isn't Moirai | 177849 | [177849-this-isnt-moirai.json](./177849-this-isnt-moirai.json) |
 | This Land Is My Land | 104788 | [104788-this-land-is-my-land.json](./104788-this-land-is-my-land.json) |
+| This Legion Kills | 157740 | [157740-this-legion-kills.json](./157740-this-legion-kills.json) |
 | This Little Piggy | 181391 | [181391-this-little-piggy.json](./181391-this-little-piggy.json) |
 | This Little Piggy | 185521 | [185521-this-little-piggy.json](./185521-this-little-piggy.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
@@ -33463,6 +33470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasure-hunting on Sekai Camera | 108135 | [108135-treasure-hunting-on-sekai-camera.json](./108135-treasure-hunting-on-sekai-camera.json) |
+| Treasured | 157736 | [157736-treasured.json](./157736-treasured.json) |
 | TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
 | Treasurer | 415751 | [415751-treasurer.json](./415751-treasurer.json) |
@@ -35593,6 +35601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumblebee | 404477 | [404477-tumblebee.json](./404477-tumblebee.json) |
 | Tumblebugs | 85908 | [85908-tumblebugs.json](./85908-tumblebugs.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
+| Tumbled | 157742 | [157742-tumbled.json](./157742-tumbled.json) |
 | Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
 | Tumbledrop | 61843 | [61843-tumbledrop.json](./61843-tumbledrop.json) |
 | Tumblefire | 188738 | [188738-tumblefire.json](./188738-tumblefire.json) |
