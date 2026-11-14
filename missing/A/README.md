@@ -8594,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alolan Volcanic Panic | 74818 | [74818-alolan-volcanic-panic.json](./74818-alolan-volcanic-panic.json) |
 | Alon | 152986 | [152986-alon.json](./152986-alon.json) |
 | Alon | 311568 | [311568-alon.json](./311568-alon.json) |
+| Alone | 152509 | [152509-alone.json](./152509-alone.json) |
 | Alone | 153218 | [153218-alone.json](./153218-alone.json) |
 | Alone | 172309 | [172309-alone.json](./172309-alone.json) |
 | Alone | 195984 | [195984-alone.json](./195984-alone.json) |
@@ -14066,6 +14067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Scramble Formation | 278567 | [278567-arcade-archives-scramble-formation.json](./278567-arcade-archives-scramble-formation.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
 | Arcade Archives: Sea Fighter Poseidon | 154981 | [154981-arcade-archives-sea-fighter-poseidon.json](./154981-arcade-archives-sea-fighter-poseidon.json) |
+| Arcade Archives: Seicross | 152523 | [152523-arcade-archives-seicross.json](./152523-arcade-archives-seicross.json) |
 | Arcade Archives: Senjyo | 231212 | [231212-arcade-archives-senjyo.json](./231212-arcade-archives-senjyo.json) |
 | Arcade Archives: Senkyu | 336227 | [336227-arcade-archives-senkyu.json](./336227-arcade-archives-senkyu.json) |
 | Arcade Archives: Shao-Lin's Road | 275809 | [275809-arcade-archives-shao-lins-road.json](./275809-arcade-archives-shao-lins-road.json) |
@@ -14336,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Slots: AGAW Edition | 61931 | [61931-arcade-slots-agaw-edition.json](./61931-arcade-slots-agaw-edition.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
+| Arcade Space Shooter 2 in 1 | 152522 | [152522-arcade-space-shooter-2-in-1.json](./152522-arcade-space-shooter-2-in-1.json) |
 | Arcade Space Survivor | 303342 | [303342-arcade-space-survivor.json](./303342-arcade-space-survivor.json) |
 | Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Sports | 51093 | [51093-arcade-sports.json](./51093-arcade-sports.json) |
