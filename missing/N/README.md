@@ -6179,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
 | Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
 | NMO: No More Operators | 294341 | [294341-nmo-no-more-operators.json](./294341-nmo-no-more-operators.json) |
+| NMORPG | 132910 | [132910-nmorpg.json](./132910-nmorpg.json) |
 | Nmpisun | 128751 | [128751-nmpisun.json](./128751-nmpisun.json) |
 | NNC News, with Tom Vandercar | 181821 | [181821-nnc-news-with-tom-vandercar.json](./181821-nnc-news-with-tom-vandercar.json) |
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
