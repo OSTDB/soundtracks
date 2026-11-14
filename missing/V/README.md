@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videopulp: Super Carty's Dread | 133320 | [133320-videopulp-super-cartys-dread.json](./133320-videopulp-super-cartys-dread.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
+| Vidiot Game | 128683 | [128683-vidiot-game.json](./128683-vidiot-game.json) |
 | Vidora's Silence | 152674 | [152674-vidoras-silence.json](./152674-vidoras-silence.json) |
 | Viduzzles | 214704 | [214704-viduzzles.json](./214704-viduzzles.json) |
 | Vidya Poker | 367836 | [367836-vidya-poker.json](./367836-vidya-poker.json) |
