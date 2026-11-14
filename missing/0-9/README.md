@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-2-1, Rattle Battle! | 51056 | [51056-3-2-1-rattle-battle.json](./51056-3-2-1-rattle-battle.json) |
 | 3-Bit Explorer | 326037 | [326037-3-bit-explorer.json](./326037-3-bit-explorer.json) |
 | 3-byou Banana | 288734 | [288734-3-byou-banana.json](./288734-3-byou-banana.json) |
+| 3-choume no Tama: Momo-chan ha Doko! | 138855 | [138855-3-choume-no-tama-momo-chan-ha-doko.json](./138855-3-choume-no-tama-momo-chan-ha-doko.json) |
 | 3-choume no Tama: Tama and Friends - 3-choume Obake Panic!! | 49149 | [49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json](./49149-3-choume-no-tama-tama-and-friends-3-choume-obake-panic.json) |
 | 3-D Body Adventure | 129505 | [129505-3-d-body-adventure.json](./129505-3-d-body-adventure.json) |
 | 3-D Bomberman | 85953 | [85953-3-d-bomberman.json](./85953-3-d-bomberman.json) |
