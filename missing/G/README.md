@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
 | Ghost Girl Lasling | 204035 | [204035-ghost-girl-lasling.json](./204035-ghost-girl-lasling.json) |
 | Ghost Girl Lasling: Chibi Stickers | 291134 | [291134-ghost-girl-lasling-chibi-stickers.json](./291134-ghost-girl-lasling-chibi-stickers.json) |
+| Ghost Girl Room | 98609 | [98609-ghost-girl-room.json](./98609-ghost-girl-room.json) |
 | Ghost Golfing | 350721 | [350721-ghost-golfing.json](./350721-ghost-golfing.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
@@ -10292,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 289684 | [289684-grim.json](./289684-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
+| Grim & Evil: Battle Forts | 98635 | [98635-grim-and-evil-battle-forts.json](./98635-grim-and-evil-battle-forts.json) |
 | Grim Axiom | 357039 | [357039-grim-axiom.json](./357039-grim-axiom.json) |
 | Grim Ball | 241127 | [241127-grim-ball.json](./241127-grim-ball.json) |
 | Grim Blaster | 64778 | [64778-grim-blaster.json](./64778-grim-blaster.json) |
