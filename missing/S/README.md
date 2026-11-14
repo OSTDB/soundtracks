@@ -8389,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shàshí Qíngyīn | 107401 | [107401-shashi-qingyin.json](./107401-shashi-qingyin.json) |
 | Shashingo: Learn Japanese With Photography | 151903 | [151903-shashingo-learn-japanese-with-photography.json](./151903-shashingo-learn-japanese-with-photography.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
+| Shatris: Infinite Puzzles | 151309 | [151309-shatris-infinite-puzzles.json](./151309-shatris-infinite-puzzles.json) |
 | Shatter | 13101 | [13101-shatter.json](./13101-shatter.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter | 237200 | [237200-shatter.json](./237200-shatter.json) |
@@ -24372,6 +24373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Slider | 228616 | [228616-spirit-slider.json](./228616-spirit-slider.json) |
 | Spirit Solitaire | 90511 | [90511-spirit-solitaire.json](./90511-spirit-solitaire.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
+| Spirit Stone | 151311 | [151311-spirit-stone.json](./151311-spirit-stone.json) |
 | Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
 | Spirit Summoner | 286020 | [286020-spirit-summoner.json](./286020-spirit-summoner.json) |
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
