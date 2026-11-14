@@ -9368,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiji Tokyo Renka Twilight Kiss | 420641 | [420641-meiji-tokyo-renka-twilight-kiss.json](./420641-meiji-tokyo-renka-twilight-kiss.json) |
 | Meiji Tokyo Renka: Haikara Date | 153732 | [153732-meiji-tokyo-renka-haikara-date.json](./153732-meiji-tokyo-renka-haikara-date.json) |
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
+| Meijin-sen | 123666 | [123666-meijin-sen.json](./123666-meijin-sen.json) |
 | Meikei no Lupercalia | 191957 | [191957-meikei-no-lupercalia.json](./191957-meikei-no-lupercalia.json) |
 | Meikei no Lupercalia: Limited Edition | 191961 | [191961-meikei-no-lupercalia-limited-edition.json](./191961-meikei-no-lupercalia-limited-edition.json) |
 | Meikyu | 414461 | [414461-meikyu.json](./414461-meikyu.json) |
@@ -12526,6 +12527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
 | Midnight Saturn | 374024 | [374024-midnight-saturn.json](./374024-midnight-saturn.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
+| Midnight Scenes Episode 2: The Goodbye Note | 123647 | [123647-midnight-scenes-episode-2-the-goodbye-note.json](./123647-midnight-scenes-episode-2-the-goodbye-note.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
 | Midnight Scenes: Among Graves | 378524 | [378524-midnight-scenes-among-graves.json](./378524-midnight-scenes-among-graves.json) |
 | Midnight Scenes: From the Woods | 226475 | [226475-midnight-scenes-from-the-woods.json](./226475-midnight-scenes-from-the-woods.json) |
@@ -21617,8 +21619,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Power | 148732 | [148732-muscle-power.json](./148732-muscle-power.json) |
 | Muscle Princess 2 | 207991 | [207991-muscle-princess-2.json](./207991-muscle-princess-2.json) |
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
+| Muscle Ranking GB: Chousensha ha Kimi da! | 123111 | [123111-muscle-ranking-gb-chousensha-ha-kimi-da.json](./123111-muscle-ranking-gb-chousensha-ha-kimi-da.json) |
 | Muscle Ranking GB2: Mezase! Muscle Champion | 228583 | [228583-muscle-ranking-gb2-mezase-muscle-champion.json](./228583-muscle-ranking-gb2-mezase-muscle-champion.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
+| Muscle Ranking Vol.1: Ore ga Saikyou no Otoko da! | 123110 | [123110-muscle-ranking-vol-1-ore-ga-saikyou-no-otoko-da.json](./123110-muscle-ranking-vol-1-ore-ga-saikyou-no-otoko-da.json) |
 | Muscle Ranking: Kimeru! Kiseki no Kanzen Seiha | 49642 | [49642-muscle-ranking-kimeru-kiseki-no-kanzen-seiha.json](./49642-muscle-ranking-kimeru-kiseki-no-kanzen-seiha.json) |
 | Muscle Ranking: Muscle Wars 21 | 58998 | [58998-muscle-ranking-muscle-wars-21.json](./58998-muscle-ranking-muscle-wars-21.json) |
 | Muscle World | 152096 | [152096-muscle-world.json](./152096-muscle-world.json) |
