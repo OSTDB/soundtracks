@@ -5664,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent Versus | 379515 | [379515-agent-versus.json](./379515-agent-versus.json) |
 | Agent Walker: Secret Journey | 32184 | [32184-agent-walker-secret-journey.json](./32184-agent-walker-secret-journey.json) |
+| Agent Wonky | 96366 | [96366-agent-wonky.json](./96366-agent-wonky.json) |
 | Agent X | 159525 | [159525-agent-x.json](./159525-agent-x.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
@@ -14222,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Seicross | 152523 | [152523-arcade-archives-seicross.json](./152523-arcade-archives-seicross.json) |
 | Arcade Archives: Senjyo | 231212 | [231212-arcade-archives-senjyo.json](./231212-arcade-archives-senjyo.json) |
 | Arcade Archives: Senkyu | 336227 | [336227-arcade-archives-senkyu.json](./336227-arcade-archives-senkyu.json) |
+| Arcade Archives: Shanghai III | 96361 | [96361-arcade-archives-shanghai-iii.json](./96361-arcade-archives-shanghai-iii.json) |
 | Arcade Archives: Shao-Lin's Road | 275809 | [275809-arcade-archives-shao-lins-road.json](./275809-arcade-archives-shao-lins-road.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Shusse Ozumo | 75706 | [75706-arcade-archives-shusse-ozumo.json](./75706-arcade-archives-shusse-ozumo.json) |
@@ -14933,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archive: Zero | 367102 | [367102-archive-zero.json](./367102-archive-zero.json) |
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archivist: Tidy Up & Sort | 403093 | [403093-archivist-tidy-up-and-sort.json](./403093-archivist-tidy-up-and-sort.json) |
+| Archlion Saga | 96367 | [96367-archlion-saga.json](./96367-archlion-saga.json) |
 | ArchLord | 20598 | [20598-archlord.json](./20598-archlord.json) |
 | Archlord 2 | 23615 | [23615-archlord-2.json](./23615-archlord-2.json) |
 | Archlyphion: Migration | 361047 | [361047-archlyphion-migration.json](./361047-archlyphion-migration.json) |
@@ -18963,6 +18966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Driver | 73731 | [73731-atomic-driver.json](./73731-atomic-driver.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Exile | 303900 | [303900-atomic-exile.json](./303900-atomic-exile.json) |
+| Atomic Girl | 95713 | [95713-atomic-girl.json](./95713-atomic-girl.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
 | Atomic Gringo | 396275 | [396275-atomic-gringo.json](./396275-atomic-gringo.json) |
 | Atomic Guardians | 149766 | [149766-atomic-guardians.json](./149766-atomic-guardians.json) |
