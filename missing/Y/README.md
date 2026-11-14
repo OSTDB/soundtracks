@@ -1745,6 +1745,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Consumable Bundle | 224381 | [224381-ys-ix-monstrum-nox-consumable-bundle.json](./224381-ys-ix-monstrum-nox-consumable-bundle.json) |
 | Ys IX: Monstrum Nox - Crimson King's "Monstrum Troupe" Costume | 411011 | [411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json](./411011-ys-ix-monstrum-nox-crimson-kings-monstrum-troupe-costume.json) |
 | Ys IX: Monstrum Nox - Deluxe Edition | 222952 | [222952-ys-ix-monstrum-nox-deluxe-edition.json](./222952-ys-ix-monstrum-nox-deluxe-edition.json) |
+| Ys IX: Monstrum Nox - Digital Deluxe Edition | 164624 | [164624-ys-ix-monstrum-nox-digital-deluxe-edition.json](./164624-ys-ix-monstrum-nox-digital-deluxe-edition.json) |
+| Ys IX: Monstrum Nox - Digital Ultimate Edition | 164623 | [164623-ys-ix-monstrum-nox-digital-ultimate-edition.json](./164623-ys-ix-monstrum-nox-digital-ultimate-edition.json) |
 | Ys IX: Monstrum Nox - Doll's "Monstrum Troupe" Costume | 411012 | [411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json](./411012-ys-ix-monstrum-nox-dolls-monstrum-troupe-costume.json) |
 | Ys IX: Monstrum Nox - Eyewear Set A | 411013 | [411013-ys-ix-monstrum-nox-eyewear-set-a.json](./411013-ys-ix-monstrum-nox-eyewear-set-a.json) |
 | Ys IX: Monstrum Nox - Eyewear Set B | 411014 | [411014-ys-ix-monstrum-nox-eyewear-set-b.json](./411014-ys-ix-monstrum-nox-eyewear-set-b.json) |
