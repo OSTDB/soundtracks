@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon the Miner | 129669 | [129669-raccoon-the-miner.json](./129669-raccoon-the-miner.json) |
 | Raccoon Unhappy | 199916 | [199916-raccoon-unhappy.json](./199916-raccoon-unhappy.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
+| Raccoon: The Orc Invasion | 127401 | [127401-raccoon-the-orc-invasion.json](./127401-raccoon-the-orc-invasion.json) |
 | Raccooneering | 306601 | [306601-raccooneering.json](./306601-raccooneering.json) |
 | Raccoons to Riches | 351355 | [351355-raccoons-to-riches.json](./351355-raccoons-to-riches.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
@@ -4991,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RefRain: Prism Memories | 33659 | [33659-refrain-prism-memories.json](./33659-refrain-prism-memories.json) |
 | RefRain: Prism Memories - Collector's Edition | 53499 | [53499-refrain-prism-memories-collectors-edition.json](./53499-refrain-prism-memories-collectors-edition.json) |
 | Reframe | 346523 | [346523-reframe.json](./346523-reframe.json) |
+| ReFrame | 127381 | [127381-reframe.json](./127381-reframe.json) |
 | Reframed | 93794 | [93794-reframed.json](./93794-reframed.json) |
 | Refrega | 289533 | [289533-refrega.json](./289533-refrega.json) |
 | Refreshing Sideways Puzzle Ghost Hammer | 147716 | [147716-refreshing-sideways-puzzle-ghost-hammer.json](./147716-refreshing-sideways-puzzle-ghost-hammer.json) |
@@ -5616,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
 | Rén Líng Shìwùsuǒ: Yī Chǎng Kěyǐ Wǎnjiù de Bēijù | 316964 | [316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json](./316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json) |
+| Ren Qi Dong Man Da Luan Dou | 127427 | [127427-ren-qi-dong-man-da-luan-dou.json](./127427-ren-qi-dong-man-da-luan-dou.json) |
 | Ren the Summoner and the Erotic Dungeon | 196127 | [196127-ren-the-summoner-and-the-erotic-dungeon.json](./196127-ren-the-summoner-and-the-erotic-dungeon.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
 | Ren'ai Shoshinsha | 221046 | [221046-renai-shoshinsha.json](./221046-renai-shoshinsha.json) |
@@ -5702,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
+| Réngōng Mièjué | 127395 | [127395-rengong-miejue.json](./127395-rengong-miejue.json) |
 | Renju | 93485 | [93485-renju.json](./93485-renju.json) |
 | Renketsu Puzzle Tsunagete Pon! | 47623 | [47623-renketsu-puzzle-tsunagete-pon.json](./47623-renketsu-puzzle-tsunagete-pon.json) |
 | Rennova: The New Frontier | 345787 | [345787-rennova-the-new-frontier.json](./345787-rennova-the-new-frontier.json) |
@@ -5828,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replikator | 145251 | [145251-replikator.json](./145251-replikator.json) |
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
 | Repo Man | 117403 | [117403-repo-man.json](./117403-repo-man.json) |
+| Repo Man VR | 127412 | [127412-repo-man-vr.json](./127412-repo-man-vr.json) |
 | Report Extraction | 343505 | [343505-report-extraction.json](./343505-report-extraction.json) |
 | Report II | 322812 | [322812-report-ii.json](./322812-report-ii.json) |
 | Report III | 322813 | [322813-report-iii.json](./322813-report-iii.json) |
@@ -7041,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2: Ice Age | 363682 | [363682-reus-2-ice-age.json](./363682-reus-2-ice-age.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Réussir: Code de la Route | 126199 | [126199-reussir-code-de-la-route.json](./126199-reussir-code-de-la-route.json) |
+| Réussir: Code de la Route | 127426 | [127426-reussir-code-de-la-route.json](./127426-reussir-code-de-la-route.json) |
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Réussir: Code de la Route - Nouvelle édition | 144206 | [144206-reussir-code-de-la-route-nouvelle-edition.json](./144206-reussir-code-de-la-route-nouvelle-edition.json) |
 | Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
