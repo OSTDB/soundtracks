@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cure for Jessica | 169597 | [169597-a-cure-for-jessica.json](./169597-a-cure-for-jessica.json) |
 | A Cure for the Common Cold | 72389 | [72389-a-cure-for-the-common-cold.json](./72389-a-cure-for-the-common-cold.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
+| A Curse from Beyond | 149632 | [149632-a-curse-from-beyond.json](./149632-a-curse-from-beyond.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
 | A Daily Cup of Tea | 397847 | [397847-a-daily-cup-of-tea.json](./397847-a-daily-cup-of-tea.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
 | Adventure Mosaics: Forest Spirits | 123865 | [123865-adventure-mosaics-forest-spirits.json](./123865-adventure-mosaics-forest-spirits.json) |
+| Adventure Mosaics: Granny's Farm | 149627 | [149627-adventure-mosaics-grannys-farm.json](./149627-adventure-mosaics-grannys-farm.json) |
 | Adventure Mosaics: Land of the Rising Sun | 378338 | [378338-adventure-mosaics-land-of-the-rising-sun.json](./378338-adventure-mosaics-land-of-the-rising-sun.json) |
 | Adventure Mosaics: Lost Expedition | 231193 | [231193-adventure-mosaics-lost-expedition.json](./231193-adventure-mosaics-lost-expedition.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
@@ -10271,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
 | Anaria: Reborn | 391383 | [391383-anaria-reborn.json](./391383-anaria-reborn.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
+| Anarkade | 149638 | [149638-anarkade.json](./149638-anarkade.json) |
 | Anarko Zmeu | 370616 | [370616-anarko-zmeu.json](./370616-anarko-zmeu.json) |
 | Anasazi Tasholiiwe | 69621 | [69621-anasazi-tasholiiwe.json](./69621-anasazi-tasholiiwe.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
