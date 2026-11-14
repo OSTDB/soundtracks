@@ -5604,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold 'Em Poker | 18051 | [18051-texas-hold-em-poker.json](./18051-texas-hold-em-poker.json) |
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
+| Texas Hold'em | 81524 | [81524-texas-holdem.json](./81524-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Hold'em 3D | 146446 | [146446-texas-holdem-3d.json](./146446-texas-holdem-3d.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
@@ -6523,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apprentice | 127154 | [127154-the-apprentice.json](./127154-the-apprentice.json) |
 | The Apprentice | 13326 | [13326-the-apprentice.json](./13326-the-apprentice.json) |
 | The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
+| The Apprentice | 81551 | [81551-the-apprentice.json](./81551-the-apprentice.json) |
 | The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
 | The Approaching Quiet | 383494 | [383494-the-approaching-quiet.json](./383494-the-approaching-quiet.json) |
 | The Aquarians | 298160 | [298160-the-aquarians.json](./298160-the-aquarians.json) |
@@ -7237,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bizarre Creations of Keith the Magnificent | 34691 | [34691-the-bizarre-creations-of-keith-the-magnificent.json](./34691-the-bizarre-creations-of-keith-the-magnificent.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
 | The Black Bass | 17458 | [17458-the-black-bass.json](./17458-the-black-bass.json) |
+| The Black Bass | 81527 | [81527-the-black-bass.json](./81527-the-black-bass.json) |
 | The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
 | The Black Cauldron | 11963 | [11963-the-black-cauldron.json](./11963-the-black-cauldron.json) |
 | The Black Death | 34155 | [34155-the-black-death.json](./34155-the-black-death.json) |
@@ -21382,6 +21385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
 | The Yamamura Estate | 376857 | [376857-the-yamamura-estate.json](./376857-the-yamamura-estate.json) |
+| The Yamanote-sen: Train Simulator Real | 81514 | [81514-the-yamanote-sen-train-simulator-real.json](./81514-the-yamanote-sen-train-simulator-real.json) |
 | The Yandere CEO | 322487 | [322487-the-yandere-ceo.json](./322487-the-yandere-ceo.json) |
 | The Yanus Plan for Escape from the Void | 283057 | [283057-the-yanus-plan-for-escape-from-the-void.json](./283057-the-yanus-plan-for-escape-from-the-void.json) |
 | The Yapori Clicker | 338977 | [338977-the-yapori-clicker.json](./338977-the-yapori-clicker.json) |
@@ -34753,6 +34757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triviador World | 249242 | [249242-triviador-world.json](./249242-triviador-world.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
+| Trivial Pursuit | 81544 | [81544-trivial-pursuit.json](./81544-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
 | Trivial Pursuit Arcade | 131504 | [131504-trivial-pursuit-arcade.json](./131504-trivial-pursuit-arcade.json) |
 | Trivial Pursuit Featuring The Simpsons | 364836 | [364836-trivial-pursuit-featuring-the-simpsons.json](./364836-trivial-pursuit-featuring-the-simpsons.json) |
@@ -35180,6 +35185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Parking Simulator 2026 | 410833 | [410833-truck-parking-simulator-2026.json](./410833-truck-parking-simulator-2026.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
 | Truck Preparation For Driving VR Training | 261386 | [261386-truck-preparation-for-driving-vr-training.json](./261386-truck-preparation-for-driving-vr-training.json) |
+| Truck Racer | 81537 | [81537-truck-racer.json](./81537-truck-racer.json) |
 | Truck Racing | 89072 | [89072-truck-racing.json](./89072-truck-racing.json) |
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
