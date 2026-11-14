@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
 | Car Town | 78819 | [78819-car-town.json](./78819-car-town.json) |
 | Car Track Fever | 220243 | [220243-car-track-fever.json](./220243-car-track-fever.json) |
+| Car Trader | 118469 | [118469-car-trader.json](./118469-car-trader.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Transport Simulator | 52485 | [52485-car-transport-simulator.json](./52485-car-transport-simulator.json) |
@@ -23219,6 +23220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
 | Cyndy | 425202 | [425202-cyndy.json](./425202-cyndy.json) |
+| Cynk 3030 | 117868 | [117868-cynk-3030.json](./117868-cynk-3030.json) |
 | Cynoclept: The Game | 55351 | [55351-cynoclept-the-game.json](./55351-cynoclept-the-game.json) |
 | Cynoroid Forsaken | 192538 | [192538-cynoroid-forsaken.json](./192538-cynoroid-forsaken.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
