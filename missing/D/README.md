@@ -12566,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DmC: Devil May Cry - Vergil's Downfall | 21024 | [21024-dmc-devil-may-cry-vergils-downfall.json](./21024-dmc-devil-may-cry-vergils-downfall.json) |
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
+| DmDJ | 99866 | [99866-dmdj.json](./99866-dmdj.json) |
 | DMG Deals Damage | 163219 | [163219-dmg-deals-damage.json](./163219-dmg-deals-damage.json) |
 | DMG Express | 183747 | [183747-dmg-express.json](./183747-dmg-express.json) |
 | DMN7 | 150472 | [150472-dmn7.json](./150472-dmn7.json) |
