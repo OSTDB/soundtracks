@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
 | Against the Light | 412992 | [412992-against-the-light.json](./412992-against-the-light.json) |
 | Against the Moon | 121493 | [121493-against-the-moon.json](./121493-against-the-moon.json) |
+| Against the Moon: Moonstorm | 155229 | [155229-against-the-moon-moonstorm.json](./155229-against-the-moon-moonstorm.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against The Tide | 269994 | [269994-against-the-tide.json](./269994-against-the-tide.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
 | AI War 2: Complete Edition | 199412 | [199412-ai-war-2-complete-edition.json](./199412-ai-war-2-complete-edition.json) |
 | AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
+| AI War 2: The Spire Rises | 155221 | [155221-ai-war-2-the-spire-rises.json](./155221-ai-war-2-the-spire-rises.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War Collection | 51695 | [51695-ai-war-collection.json](./51695-ai-war-collection.json) |
@@ -15683,6 +15685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Battalion | 205753 | [205753-armored-battalion.json](./205753-armored-battalion.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
+| Armored Brigade Nation Pack: Czechoslovakia - Netherlands | 155224 | [155224-armored-brigade-nation-pack-czechoslovakia-netherlands.json](./155224-armored-brigade-nation-pack-czechoslovakia-netherlands.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
 | Armored Brigade Nation Pack: Italy - Yugoslavia | 155058 | [155058-armored-brigade-nation-pack-italy-yugoslavia.json](./155058-armored-brigade-nation-pack-italy-yugoslavia.json) |
 | Armored Car | 40015 | [40015-armored-car.json](./40015-armored-car.json) |
