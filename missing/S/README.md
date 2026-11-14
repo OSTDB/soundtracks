@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | SA-1: Special Adventure - 1 | 277079 | [277079-sa-1-special-adventure-1.json](./277079-sa-1-special-adventure-1.json) |
+| SA-Anarchy | 106813 | [106813-sa-anarchy.json](./106813-sa-anarchy.json) |
 | Sa[meow]rai: Silverwing Stray | 340667 | [340667-sa-meow-rai-silverwing-stray.json](./340667-sa-meow-rai-silverwing-stray.json) |
 | SA7: Silent Ability Seven | 60824 | [60824-sa7-silent-ability-seven.json](./60824-sa7-silent-ability-seven.json) |
 | Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
@@ -9691,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | Ship Smash | 264216 | [264216-ship-smash.json](./264216-ship-smash.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
+| Ship Tycoon | 106829 | [106829-ship-tycoon.json](./106829-ship-tycoon.json) |
 | Ship Tycoon | 89757 | [89757-ship-tycoon.json](./89757-ship-tycoon.json) |
 | Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
 | Ship War | 179339 | [179339-ship-war.json](./179339-ship-war.json) |
@@ -17454,6 +17456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Long as There is Mercy | 188473 | [188473-so-long-as-there-is-mercy.json](./188473-so-long-as-there-is-mercy.json) |
 | So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
+| So Long, Oregon! | 106799 | [106799-so-long-oregon.json](./106799-so-long-oregon.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
 | So Many Me: Extended Edition | 147149 | [147149-so-many-me-extended-edition.json](./147149-so-many-me-extended-edition.json) |
 | So Many Spiders | 182136 | [182136-so-many-spiders.json](./182136-so-many-spiders.json) |
