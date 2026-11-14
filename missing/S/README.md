@@ -8025,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shaman's Mask of the Rune Magic | 296234 | [296234-shamans-mask-of-the-rune-magic.json](./296234-shamans-mask-of-the-rune-magic.json) |
 | Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
+| ShamanVille Lite | 100410 | [100410-shamanville-lite.json](./100410-shamanville-lite.json) |
 | Shambhala Gateway | 240580 | [240580-shambhala-gateway.json](./240580-shambhala-gateway.json) |
 | Shambled Spiral | 168112 | [168112-shambled-spiral.json](./168112-shambled-spiral.json) |
 | Shamblers Castle | 217697 | [217697-shamblers-castle.json](./217697-shamblers-castle.json) |
@@ -16239,6 +16240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Operators | 10836 | [10836-smooth-operators.json](./10836-smooth-operators.json) |
 | Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
 | Smooth Operators: Call Center Chaos | 63612 | [63612-smooth-operators-call-center-chaos.json](./63612-smooth-operators-call-center-chaos.json) |
+| Smooth Solitaire! | 101128 | [101128-smooth-solitaire.json](./101128-smooth-solitaire.json) |
 | Smoothcade | 130668 | [130668-smoothcade.json](./130668-smoothcade.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
@@ -22194,6 +22196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Repairman | 239224 | [239224-space-repairman.json](./239224-space-repairman.json) |
 | Space Rescue | 204328 | [204328-space-rescue.json](./204328-space-rescue.json) |
 | Space Rescue | 70231 | [70231-space-rescue.json](./70231-space-rescue.json) |
+| Space Rescue HD | 100406 | [100406-space-rescue-hd.json](./100406-space-rescue-hd.json) |
 | Space Rescue in Jupiter | 274860 | [274860-space-rescue-in-jupiter.json](./274860-space-rescue-in-jupiter.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Resistance | 208689 | [208689-space-resistance.json](./208689-space-resistance.json) |
@@ -29748,6 +29751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
 | Stickman go | 126708 | [126708-stickman-go.json](./126708-stickman-go.json) |
 | Stickman Golf | 212420 | [212420-stickman-golf.json](./212420-stickman-golf.json) |
+| Stickman Gun | 101132 | [101132-stickman-gun.json](./101132-stickman-gun.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Hide and Seek | 220823 | [220823-stickman-hide-and-seek.json](./220823-stickman-hide-and-seek.json) |
@@ -37721,6 +37725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supraland Crash | 143030 | [143030-supraland-crash.json](./143030-supraland-crash.json) |
 | Supraland: Complete Edition | 169180 | [169180-supraland-complete-edition.json](./169180-supraland-complete-edition.json) |
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
+| Supralympic Runners | 100432 | [100432-supralympic-runners.json](./100432-supralympic-runners.json) |
 | Suprapong | 111371 | [111371-suprapong.json](./111371-suprapong.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Supre-Immune | 365370 | [365370-supre-immune.json](./365370-supre-immune.json) |
