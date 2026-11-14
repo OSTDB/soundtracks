@@ -11458,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
 | The Grim Adventures of Billy & Mandy: Billy the Kid | 333844 | [333844-the-grim-adventures-of-billy-and-mandy-billy-the-kid.json](./333844-the-grim-adventures-of-billy-and-mandy-billy-the-kid.json) |
+| The Grim Adventures of Billy & Mandy: Freaky Freezeday | 98632 | [98632-the-grim-adventures-of-billy-and-mandy-freaky-freezeday.json](./98632-the-grim-adventures-of-billy-and-mandy-freaky-freezeday.json) |
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Nightmare of Nibras | 207792 | [207792-the-grim-nightmare-of-nibras.json](./207792-the-grim-nightmare-of-nibras.json) |
@@ -30484,6 +30485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Tamagotchi | 230076 | [230076-toy-story-tamagotchi.json](./230076-toy-story-tamagotchi.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
 | Toy Story: Retro Roundup! | 404006 | [404006-toy-story-retro-roundup.json](./404006-toy-story-retro-roundup.json) |
+| Toy Story: Smash It! | 98638 | [98638-toy-story-smash-it.json](./98638-toy-story-smash-it.json) |
 | Toy Stunt Bike | 85452 | [85452-toy-stunt-bike.json](./85452-toy-stunt-bike.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
