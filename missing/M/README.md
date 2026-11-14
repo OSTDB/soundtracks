@@ -5794,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Syougi | 75451 | [75451-master-of-syougi.json](./75451-master-of-syougi.json) |
 | Master of Syougi Color | 75452 | [75452-master-of-syougi-color.json](./75452-master-of-syougi-color.json) |
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
+| Master of the Forbidden Sea | 119842 | [119842-master-of-the-forbidden-sea.json](./119842-master-of-the-forbidden-sea.json) |
 | Master of the Grid | 122923 | [122923-master-of-the-grid.json](./122923-master-of-the-grid.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Lamps | 25938 | [25938-master-of-the-lamps.json](./25938-master-of-the-lamps.json) |
