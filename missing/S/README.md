@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Pirate: Sea Story - Ice Age | 172389 | [172389-save-the-pirate-sea-story-ice-age.json](./172389-save-the-pirate-sea-story-ice-age.json) |
 | Save the Pirate: Sea Story - Tribal Legacy | 168157 | [168157-save-the-pirate-sea-story-tribal-legacy.json](./168157-save-the-pirate-sea-story-tribal-legacy.json) |
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
+| Save the Planet | 149637 | [149637-save-the-planet.json](./149637-save-the-planet.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
 | Save The Planets: Meteor Storm | 263565 | [263565-save-the-planets-meteor-storm.json](./263565-save-the-planets-meteor-storm.json) |
 | Save the President: Trust Issues | 409995 | [409995-save-the-president-trust-issues.json](./409995-save-the-president-trust-issues.json) |
@@ -16273,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snack Stall | 200789 | [200789-snack-stall.json](./200789-snack-stall.json) |
+| Snack Tick | 149649 | [149649-snack-tick.json](./149649-snack-tick.json) |
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
 | Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
@@ -20570,6 +20572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shards | 89747 | [89747-soul-shards.json](./89747-soul-shards.json) |
+| Soul Shifter | 149631 | [149631-soul-shifter.json](./149631-soul-shifter.json) |
 | Soul Shifters: Online | 288949 | [288949-soul-shifters-online.json](./288949-soul-shifters-online.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
 | Soul Siblings | 412699 | [412699-soul-siblings.json](./412699-soul-siblings.json) |
@@ -30324,6 +30327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storytiming | 224869 | [224869-storytiming.json](./224869-storytiming.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
 | Stötnisse Åker Hiss | 187026 | [187026-stotnisse-aker-hiss.json](./187026-stotnisse-aker-hiss.json) |
+| Stouthollow Tales | 149634 | [149634-stouthollow-tales.json](./149634-stouthollow-tales.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
 | Stowaway | 187078 | [187078-stowaway.json](./187078-stowaway.json) |
@@ -37778,6 +37782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival in Snow | 247818 | [247818-survival-in-snow.json](./247818-survival-in-snow.json) |
 | Survival in the Backrooms | 224905 | [224905-survival-in-the-backrooms.json](./224905-survival-in-the-backrooms.json) |
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
+| Survival Instinct | 149617 | [149617-survival-instinct.json](./149617-survival-instinct.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
