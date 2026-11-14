@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rangers VR | 123941 | [123941-galactic-rangers-vr.json](./123941-galactic-rangers-vr.json) |
 | Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
+| Galactic Refugees | 166870 | [166870-galactic-refugees.json](./166870-galactic-refugees.json) |
 | Galactic Reign | 63665 | [63665-galactic-reign.json](./63665-galactic-reign.json) |
 | Galactic Revolution | 125315 | [125315-galactic-revolution.json](./125315-galactic-revolution.json) |
 | Galactic Revolution | 25345 | [25345-galactic-revolution.json](./25345-galactic-revolution.json) |
@@ -7759,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight Tea | 249321 | [249321-goodnight-tea.json](./249321-goodnight-tea.json) |
 | Goodnight Universe | 271129 | [271129-goodnight-universe.json](./271129-goodnight-universe.json) |
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
+| Goodnight, Lily | 166857 | [166857-goodnight-lily.json](./166857-goodnight-lily.json) |
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
 | Goodnight, Sweetie | 313647 | [313647-goodnight-sweetie.json](./313647-goodnight-sweetie.json) |
 | GoodNightGirls | 395643 | [395643-goodnightgirls.json](./395643-goodnightgirls.json) |
