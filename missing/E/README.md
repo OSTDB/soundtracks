@@ -4694,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
 | Entelechy | 130080 | [130080-entelechy.json](./130080-entelechy.json) |
 | Enter Digiton | 133084 | [133084-enter-digiton.json](./133084-enter-digiton.json) |
+| Enter Digiton: Heart of Corruption | 159377 | [159377-enter-digiton-heart-of-corruption.json](./159377-enter-digiton-heart-of-corruption.json) |
 | Enter Falconry | 295515 | [295515-enter-falconry.json](./295515-enter-falconry.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
 | Enter Passcode | 301453 | [301453-enter-passcode.json](./301453-enter-passcode.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverSiege: Untold Ages | 344068 | [344068-eversiege-untold-ages.json](./344068-eversiege-untold-ages.json) |
 | Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
+| Everslaught | 159372 | [159372-everslaught.json](./159372-everslaught.json) |
 | Everslaught Invasion | 252108 | [252108-everslaught-invasion.json](./252108-everslaught-invasion.json) |
 | Eversoul | 174607 | [174607-eversoul.json](./174607-eversoul.json) |
 | Everspace | 14172 | [14172-everspace.json](./14172-everspace.json) |
