@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O! Strelalka!!! | 55265 | [55265-o-strelalka.json](./55265-o-strelalka.json) |
 | O.A.C: World Begins | 197581 | [197581-o-a-c-world-begins.json](./197581-o-a-c-world-begins.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
+| O.C.D.: On Completeness & Dissonance | 104924 | [104924-o-c-d-on-completeness-and-dissonance.json](./104924-o-c-d-on-completeness-and-dissonance.json) |
 | O.D.T: Escape Again... Or Die Trying | 387172 | [387172-o-d-t-escape-again-or-die-trying.json](./387172-o-d-t-escape-again-or-die-trying.json) |
 | O.D.T.: Escape... ...Or Die Trying | 45213 | [45213-o-d-t-escape-or-die-trying.json](./45213-o-d-t-escape-or-die-trying.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
@@ -3674,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Sorcery: Jingle BEL/S | 134202 | [134202-open-sorcery-jingle-bel-s.json](./134202-open-sorcery-jingle-bel-s.json) |
 | Open Sorcery: Sea++ | 75619 | [75619-open-sorcery-sea.json](./75619-open-sorcery-sea.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
+| Open Space 2D | 104931 | [104931-open-space-2d.json](./104931-open-space-2d.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Spaces SE | 245763 | [245763-open-spaces-se.json](./245763-open-spaces-se.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
@@ -4047,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Cortex | 325763 | [325763-opus-cortex.json](./325763-opus-cortex.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
+| Opus Mortem | 104922 | [104922-opus-mortem.json](./104922-opus-mortem.json) |
 | Opus Torrentia | 386468 | [386468-opus-torrentia.json](./386468-opus-torrentia.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Echo of Starsong - Deluxe Edition | 186534 | [186534-opus-echo-of-starsong-deluxe-edition.json](./186534-opus-echo-of-starsong-deluxe-edition.json) |
@@ -5933,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside the Door | 291842 | [291842-outside-the-door.json](./291842-outside-the-door.json) |
 | Outside the Grid | 161544 | [161544-outside-the-grid.json](./161544-outside-the-grid.json) |
 | Outside the home | 176249 | [176249-outside-the-home.json](./176249-outside-the-home.json) |
+| Outside the Lines | 104914 | [104914-outside-the-lines.json](./104914-outside-the-lines.json) |
 | Outside the Realm | 85320 | [85320-outside-the-realm.json](./85320-outside-the-realm.json) |
 | Outside the Window | 204050 | [204050-outside-the-window.json](./204050-outside-the-window.json) |
 | Outside World | 54906 | [54906-outside-world.json](./54906-outside-world.json) |
