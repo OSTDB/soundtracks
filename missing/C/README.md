@@ -4747,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Menace | 166878 | [166878-cats-menace.json](./166878-cats-menace.json) |
 | Cat's Meow Live Wallpaper | 402102 | [402102-cats-meow-live-wallpaper.json](./402102-cats-meow-live-wallpaper.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
+| Cat's Puzzle | 110603 | [110603-cats-puzzle.json](./110603-cats-puzzle.json) |
 | Cat's Rage | 366550 | [366550-cats-rage.json](./366550-cats-rage.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Showdown | 357707 | [357707-cats-showdown.json](./357707-cats-showdown.json) |
@@ -7880,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi-Robo!: Photo Finder | 23516 | [23516-chibi-robo-photo-finder.json](./23516-chibi-robo-photo-finder.json) |
 | ChibiClubTD | 170083 | [170083-chibiclubtd.json](./170083-chibiclubtd.json) |
 | Chibikko Club | 289737 | [289737-chibikko-club.json](./289737-chibikko-club.json) |
+| Chibisu's Costume Combat | 110451 | [110451-chibisus-costume-combat.json](./110451-chibisus-costume-combat.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chibits | 150471 | [150471-chibits.json](./150471-chibits.json) |
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
@@ -22894,6 +22896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
 | Cyberdog 2050 | 401604 | [401604-cyberdog-2050.json](./401604-cyberdog-2050.json) |
 | Cyberdogs | 46935 | [46935-cyberdogs.json](./46935-cyberdogs.json) |
+| CyberDome! | 110599 | [110599-cyberdome.json](./110599-cyberdome.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
 | CyberDrifter | 29152 | [29152-cyberdrifter.json](./29152-cyberdrifter.json) |
 | CyberDrive 2077 | 395806 | [395806-cyberdrive-2077.json](./395806-cyberdrive-2077.json) |
