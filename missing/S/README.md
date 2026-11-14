@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
+| SAS VS Zombies | 90284 | [90284-sas-vs-zombies.json](./90284-sas-vs-zombies.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | SAS: Zombie Assault | 267508 | [267508-sas-zombie-assault.json](./267508-sas-zombie-assault.json) |
 | SAS: Zombie Assault 2 | 267983 | [267983-sas-zombie-assault-2.json](./267983-sas-zombie-assault-2.json) |
@@ -5145,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secretary's Hell | 183249 | [183249-secretarys-hell.json](./183249-secretarys-hell.json) |
 | Secretbot! | 419079 | [419079-secretbot.json](./419079-secretbot.json) |
 | SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
+| SecretLaboratory | 90282 | [90282-secretlaboratory.json](./90282-secretlaboratory.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
@@ -18850,6 +18852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere Under the Sea | 276366 | [276366-somewhere-under-the-sea.json](./276366-somewhere-under-the-sea.json) |
 | Somewhere, a Cat Sleeps | 373353 | [373353-somewhere-a-cat-sleeps.json](./373353-somewhere-a-cat-sleeps.json) |
 | Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
+| Somewhere: The Vault Papers | 89988 | [89988-somewhere-the-vault-papers.json](./89988-somewhere-the-vault-papers.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
 | Sommarlovskul | 399538 | [399538-sommarlovskul.json](./399538-sommarlovskul.json) |
 | Somme Trench | 275653 | [275653-somme-trench.json](./275653-somme-trench.json) |
@@ -21600,6 +21603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Duke | 117872 | [117872-space-duke.json](./117872-space-duke.json) |
 | Space Dungeon | 18842 | [18842-space-dungeon.json](./18842-space-dungeon.json) |
 | Space Dust | 240673 | [240673-space-dust.json](./240673-space-dust.json) |
+| Space Duty | 90268 | [90268-space-duty.json](./90268-space-duty.json) |
 | Space Dvrts | 31529 | [31529-space-dvrts.json](./31529-space-dvrts.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
@@ -24883,6 +24887,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spliti | 289722 | [289722-spliti.json](./289722-spliti.json) |
 | Splitmind | 35988 | [35988-splitmind.json](./35988-splitmind.json) |
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
+| Splitter | 90241 | [90241-splitter.json](./90241-splitter.json) |
+| Splitter 2 | 90242 | [90242-splitter-2.json](./90242-splitter-2.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splitz | 60266 | [60266-splitz.json](./60266-splitz.json) |
@@ -36176,6 +36182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pika Land Ultra: Chocolate Version | 223022 | [223022-super-pika-land-ultra-chocolate-version.json](./223022-super-pika-land-ultra-chocolate-version.json) |
 | Super PileUp! | 92801 | [92801-super-pileup.json](./92801-super-pileup.json) |
+| Super Pillow Fight | 90261 | [90261-super-pillow-fight.json](./90261-super-pillow-fight.json) |
 | Super Pilot | 57799 | [57799-super-pilot.json](./57799-super-pilot.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pinball Action | 40119 | [40119-super-pinball-action.json](./40119-super-pinball-action.json) |
