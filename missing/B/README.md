@@ -10266,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Descent | 383681 | [383681-blackjack-descent.json](./383681-blackjack-descent.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
+| Blackjack Hands | 133518 | [133518-blackjack-hands.json](./133518-blackjack-hands.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
 | BlackJack Math | 167427 | [167427-blackjack-math.json](./167427-blackjack-math.json) |
@@ -13987,6 +13988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberZone | 32628 | [32628-bomberzone.json](./32628-bomberzone.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | BombGears | 110713 | [110713-bombgears.json](./110713-bombgears.json) |
+| BombHopper | 133505 | [133505-bombhopper.json](./133505-bombhopper.json) |
 | Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
 | Bombing | 289288 | [289288-bombing.json](./289288-bombing.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
@@ -17114,6 +17116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks | 93476 | [93476-bricks.json](./93476-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
 | Bricks Ahead | 184792 | [184792-bricks-ahead.json](./184792-bricks-ahead.json) |
+| Bricks Ball Crusher | 133485 | [133485-bricks-ball-crusher.json](./133485-bricks-ball-crusher.json) |
 | Bricks Breaker | 395353 | [395353-bricks-breaker.json](./395353-bricks-breaker.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
 | Bricks Breaker Mission | 95808 | [95808-bricks-breaker-mission.json](./95808-bricks-breaker-mission.json) |
@@ -18186,6 +18189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
 | Bubble Bop | 245702 | [245702-bubble-bop.json](./245702-bubble-bop.json) |
+| Bubble Bounce | 133478 | [133478-bubble-bounce.json](./133478-bubble-bounce.json) |
 | Bubble Box: 6 In 1 | 253257 | [253257-bubble-box-6-in-1.json](./253257-bubble-box-6-in-1.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
@@ -20212,6 +20216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt-Ugly Martians: Martian Boot Camp | 124373 | [124373-butt-ugly-martians-martian-boot-camp.json](./124373-butt-ugly-martians-martian-boot-camp.json) |
 | Butt-Ugly Martians: Zoom or Doom | 3841 | [3841-butt-ugly-martians-zoom-or-doom.json](./3841-butt-ugly-martians-zoom-or-doom.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
+| Butter Royale | 133526 | [133526-butter-royale.json](./133526-butter-royale.json) |
 | Butterbies | 113214 | [113214-butterbies.json](./113214-butterbies.json) |
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
 | Butterflies | 249568 | [249568-butterflies.json](./249568-butterflies.json) |
