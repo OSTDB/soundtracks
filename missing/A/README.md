@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
+| A Short Tale | 93860 | [93860-a-short-tale.json](./93860-a-short-tale.json) |
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
@@ -11134,6 +11135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Golf | 122209 | [122209-angry-golf.json](./122209-angry-golf.json) |
 | Angry Golf 2 | 340803 | [340803-angry-golf-2.json](./340803-angry-golf-2.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
+| Angry Gran Run | 93852 | [93852-angry-gran-run.json](./93852-angry-gran-run.json) |
 | Angry Granny 2-Angry Neighbor | 102852 | [102852-angry-granny-2-angry-neighbor.json](./102852-angry-granny-2-angry-neighbor.json) |
 | Angry Henry And The Escape From The Helicopter Lords Part 17: The Re-Reckoning | 402732 | [402732-angry-henry-and-the-escape-from-the-helicopter-lords-part-17-the-re-reckoning.json](./402732-angry-henry-and-the-escape-from-the-helicopter-lords-part-17-the-re-reckoning.json) |
 | Angry Hills | 87100 | [87100-angry-hills.json](./87100-angry-hills.json) |
