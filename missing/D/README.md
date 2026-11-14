@@ -4667,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Rooms of Death: King Dugan's Dungeon | 69156 | [69156-deadly-rooms-of-death-king-dugans-dungeon.json](./69156-deadly-rooms-of-death-king-dugans-dungeon.json) |
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
+| Deadly Silence | 104893 | [104893-deadly-silence.json](./104893-deadly-silence.json) |
 | Deadly Sin | 35672 | [35672-deadly-sin.json](./35672-deadly-sin.json) |
 | Deadly Sin 2 | 9819 | [9819-deadly-sin-2.json](./9819-deadly-sin-2.json) |
 | Deadly Sin: Shining Faith | 53964 | [53964-deadly-sin-shining-faith.json](./53964-deadly-sin-shining-faith.json) |
@@ -15186,6 +15187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Spinner | 348736 | [348736-dot-spinner.json](./348736-dot-spinner.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
+| Dot to Dot Puzzles | 104897 | [104897-dot-to-dot-puzzles.json](./104897-dot-to-dot-puzzles.json) |
 | Dot to Dot Sweep | 258679 | [258679-dot-to-dot-sweep.json](./258679-dot-to-dot-sweep.json) |
 | Dot to Dot: Connect the Dots | 97186 | [97186-dot-to-dot-connect-the-dots.json](./97186-dot-to-dot-connect-the-dots.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
