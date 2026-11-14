@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle: Jigsaw Puzzles | 101394 | [101394-castle-jigsaw-puzzles.json](./101394-castle-jigsaw-puzzles.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle: The 3D Hidden Objects | 106344 | [106344-castle-the-3d-hidden-objects.json](./106344-castle-the-3d-hidden-objects.json) |
+| Castle: The Forbidden Divines | 85695 | [85695-castle-the-forbidden-divines.json](./85695-castle-the-forbidden-divines.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | CastleAbra | 35334 | [35334-castleabra.json](./35334-castleabra.json) |
 | Castlebound | 335841 | [335841-castlebound.json](./335841-castlebound.json) |
@@ -11367,6 +11368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra: Riddle of the Tomb | 21479 | [21479-cleopatra-riddle-of-the-tomb.json](./21479-cleopatra-riddle-of-the-tomb.json) |
 | Cleopatra's Pyramid HD | 102635 | [102635-cleopatras-pyramid-hd.json](./102635-cleopatras-pyramid-hd.json) |
 | Clergy Splode | 34400 | [34400-clergy-splode.json](./34400-clergy-splode.json) |
+| Clergyman | 86309 | [86309-clergyman.json](./86309-clergyman.json) |
 | Cleric and Goblins | 261629 | [261629-cleric-and-goblins.json](./261629-cleric-and-goblins.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Clerk Hot Tale | 157397 | [157397-clerk-hot-tale.json](./157397-clerk-hot-tale.json) |
@@ -15065,6 +15067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict of Heroes: Ghost Divisions | 174514 | [174514-conflict-of-heroes-ghost-divisions.json](./174514-conflict-of-heroes-ghost-divisions.json) |
 | Conflict of Heroes: Storms of Steel | 167345 | [167345-conflict-of-heroes-storms-of-steel.json](./167345-conflict-of-heroes-storms-of-steel.json) |
 | Conflict of Lords | 267809 | [267809-conflict-of-lords.json](./267809-conflict-of-lords.json) |
+| Conflict of Nations: World War 3 | 86324 | [86324-conflict-of-nations-world-war-3.json](./86324-conflict-of-nations-world-war-3.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Denied Ops | 5634 | [5634-conflict-denied-ops.json](./5634-conflict-denied-ops.json) |
@@ -18366,6 +18369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash! Powertape October 1991 | 73614 | [73614-crash-powertape-october-1991.json](./73614-crash-powertape-october-1991.json) |
 | Crash'em Derby | 139207 | [139207-crashem-derby.json](./139207-crashem-derby.json) |
 | Crashawk | 336162 | [336162-crashawk.json](./336162-crashawk.json) |
+| Crashbot | 86321 | [86321-crashbot.json](./86321-crashbot.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | CrashCourse VR | 115975 | [115975-crashcourse-vr.json](./115975-crashcourse-vr.json) |
 | CrashCrafter | 237597 | [237597-crashcrafter.json](./237597-crashcrafter.json) |
@@ -21201,6 +21205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubactory | 346345 | [346345-cubactory.json](./346345-cubactory.json) |
 | Cubage | 93924 | [93924-cubage.json](./93924-cubage.json) |
 | Cuban Missile Crisis | 35591 | [35591-cuban-missile-crisis.json](./35591-cuban-missile-crisis.json) |
+| Cuban Missile Crisis + Ice Crusade Pack | 85693 | [85693-cuban-missile-crisis-ice-crusade-pack.json](./85693-cuban-missile-crisis-ice-crusade-pack.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | Cubanoids | 110923 | [110923-cubanoids.json](./110923-cubanoids.json) |
 | CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
