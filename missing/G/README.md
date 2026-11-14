@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
 | Genkai Tokki: Castle Panzers - Limited Edition | 167090 | [167090-genkai-tokki-castle-panzers-limited-edition.json](./167090-genkai-tokki-castle-panzers-limited-edition.json) |
 | Genkai Tokki: Seven Pirates | 58722 | [58722-genkai-tokki-seven-pirates.json](./58722-genkai-tokki-seven-pirates.json) |
+| Genkai Tokki: Seven Pirates - Premium Edition | 148013 | [148013-genkai-tokki-seven-pirates-premium-edition.json](./148013-genkai-tokki-seven-pirates-premium-edition.json) |
 | Genkai Totsuki Monster Monpiece | 145407 | [145407-genkai-totsuki-monster-monpiece.json](./145407-genkai-totsuki-monster-monpiece.json) |
 | Genkai: Primal Awakening | 273497 | [273497-genkai-primal-awakening.json](./273497-genkai-primal-awakening.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Catch 'Em | 348523 | [348523-go-catch-em.json](./348523-go-catch-em.json) |
 | Go Cheetah Go | 142556 | [142556-go-cheetah-go.json](./142556-go-cheetah-go.json) |
+| Go Clubbing | 148012 | [148012-go-clubbing.json](./148012-go-clubbing.json) |
 | Go Cycling | 364056 | [364056-go-cycling.json](./364056-go-cycling.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
