@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Gonna Serve You 4 | 139036 | [139036-im-gonna-serve-you-4.json](./139036-im-gonna-serve-you-4.json) |
 | I'm Here to Shit Ass | 336306 | [336306-im-here-to-shit-ass.json](./336306-im-here-to-shit-ass.json) |
 | I'm Home Already | 350461 | [350461-im-home-already.json](./350461-im-home-already.json) |
+| I'm Hungry | 117212 | [117212-im-hungry.json](./117212-im-hungry.json) |
 | I'm In Charge | 249216 | [249216-im-in-charge.json](./249216-im-in-charge.json) |
 | I'm in Love With Your Dead Grandmother | 213585 | [213585-im-in-love-with-your-dead-grandmother.json](./213585-im-in-love-with-your-dead-grandmother.json) |
 | I'm in Love With Your Dead Grandmother Presents: Noah SmallJohnson's Puzzle Game | 321519 | [321519-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game.json](./321519-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Plain Sight | 132506 | [132506-in-plain-sight.json](./132506-in-plain-sight.json) |
 | In Print | 379788 | [379788-in-print.json](./379788-in-print.json) |
 | In Purr-Suit | 332966 | [332966-in-purr-suit.json](./332966-in-purr-suit.json) |
+| In Pursuit | 116531 | [116531-in-pursuit.json](./116531-in-pursuit.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Rays of the Light | 144416 | [144416-in-rays-of-the-light.json](./144416-in-rays-of-the-light.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
