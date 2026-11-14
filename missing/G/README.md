@@ -7683,6 +7683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Knight Story | 104386 | [104386-good-knight-story.json](./104386-good-knight-story.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Kniight | 408475 | [408475-good-kniight.json](./408475-good-kniight.json) |
+| Good Lookin Home Cookin | 145733 | [145733-good-lookin-home-cookin.json](./145733-good-lookin-home-cookin.json) |
 | Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?! | 307341 | [307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json](./307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json) |
 | Good Luck | 347955 | [347955-good-luck.json](./347955-good-luck.json) |
 | Good Luck Baby! | 240712 | [240712-good-luck-baby.json](./240712-good-luck-baby.json) |
