@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius! | 129325 | [129325-genius.json](./129325-genius.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep1 | 114116 | [114116-genius-nazi-girl-goeppels-chan-ep1.json](./114116-genius-nazi-girl-goeppels-chan-ep1.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
+| Genius! Nazi-Girl GoePpels-Chan Ep3 | 121060 | [121060-genius-nazi-girl-goeppels-chan-ep3.json](./121060-genius-nazi-girl-goeppels-chan-ep3.json) |
 | Genix Family | 38654 | [38654-genix-family.json](./38654-genix-family.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
 | Genji Reincarnation: The Seven Mysteries of Shirahata High | 391540 | [391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json](./391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json) |
