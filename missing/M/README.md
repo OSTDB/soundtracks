@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Triangles | 105737 | [105737-magic-triangles.json](./105737-magic-triangles.json) |
+| Magic Trick | 134751 | [134751-magic-trick.json](./134751-magic-trick.json) |
 | Magic Trickery | 330637 | [330637-magic-trickery.json](./330637-magic-trickery.json) |
 | Magic Trolls | 245456 | [245456-magic-trolls.json](./245456-magic-trolls.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
 | MarioQuest 3: The Ghost of SEGA | 318033 | [318033-marioquest-3-the-ghost-of-sega.json](./318033-marioquest-3-the-ghost-of-sega.json) |
 | Mariostro Strikers: Soccer League | 329719 | [329719-mariostro-strikers-soccer-league.json](./329719-mariostro-strikers-soccer-league.json) |
+| Mariovania | 134748 | [134748-mariovania.json](./134748-mariovania.json) |
 | Mariozza Cops | 153836 | [153836-mariozza-cops.json](./153836-mariozza-cops.json) |
 | Mariposa | 365839 | [365839-mariposa.json](./365839-mariposa.json) |
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
@@ -12433,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
 | Midnight Makeover | 295088 | [295088-midnight-makeover.json](./295088-midnight-makeover.json) |
 | Midnight Man | 330244 | [330244-midnight-man.json](./330244-midnight-man.json) |
+| Midnight Manor | 134721 | [134721-midnight-manor.json](./134721-midnight-manor.json) |
 | Midnight Mansion | 365804 | [365804-midnight-mansion.json](./365804-midnight-mansion.json) |
 | Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
 | Midnight Mayhem | 300814 | [300814-midnight-mayhem.json](./300814-midnight-mayhem.json) |
@@ -12978,6 +12981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miles Edgeworth: Ace Attorney - Shattered Glass | 303030 | [303030-miles-edgeworth-ace-attorney-shattered-glass.json](./303030-miles-edgeworth-ace-attorney-shattered-glass.json) |
 | Miles Edgeworth: Ace Attorney 2 - Trial by Fire | 303032 | [303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json](./303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json) |
 | Miles From Tomorrowland: Missions | 249365 | [249365-miles-from-tomorrowland-missions.json](./249365-miles-from-tomorrowland-missions.json) |
+| Miles Infernum | 134728 | [134728-miles-infernum.json](./134728-miles-infernum.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | Milestone Shooting Collection 2 | 85784 | [85784-milestone-shooting-collection-2.json](./85784-milestone-shooting-collection-2.json) |
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
@@ -18615,6 +18619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonSpire | 336056 | [336056-moonspire.json](./336056-moonspire.json) |
 | Moonsters | 180995 | [180995-moonsters.json](./180995-moonsters.json) |
 | Moonstone Crossroads | 116081 | [116081-moonstone-crossroads.json](./116081-moonstone-crossroads.json) |
+| Moonstone Deep | 134741 | [134741-moonstone-deep.json](./134741-moonstone-deep.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
 | Moonstone Island: Chef's Kiss DLC Pack | 310468 | [310468-moonstone-island-chefs-kiss-dlc-pack.json](./310468-moonstone-island-chefs-kiss-dlc-pack.json) |
