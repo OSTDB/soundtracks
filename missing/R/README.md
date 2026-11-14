@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit: I Can Read With Phonics | 366183 | [366183-reader-rabbit-i-can-read-with-phonics.json](./366183-reader-rabbit-i-can-read-with-phonics.json) |
 | Reader Rabbit: Kindergarten | 138102 | [138102-reader-rabbit-kindergarten.json](./138102-reader-rabbit-kindergarten.json) |
 | Reader Rabbit: Kindergarten | 67333 | [67333-reader-rabbit-kindergarten.json](./67333-reader-rabbit-kindergarten.json) |
+| Reader Rabbit: on a Mission to Help the Lion Flowers | 122496 | [122496-reader-rabbit-on-a-mission-to-help-the-lion-flowers.json](./122496-reader-rabbit-on-a-mission-to-help-the-lion-flowers.json) |
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
 | Reader Rabbit's Interactive Reading Journey 2 | 411094 | [411094-reader-rabbits-interactive-reading-journey-2.json](./411094-reader-rabbits-interactive-reading-journey-2.json) |
 | Reader Rabbit's Math Ages 6-9 | 209739 | [209739-reader-rabbits-math-ages-6-9.json](./209739-reader-rabbits-math-ages-6-9.json) |
