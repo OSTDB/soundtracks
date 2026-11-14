@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Ants VR: Definitive Edition | 359219 | [359219-zombie-ants-vr-definitive-edition.json](./359219-zombie-ants-vr-definitive-edition.json) |
 | Zombie Apocalypse | 106306 | [106306-zombie-apocalypse.json](./106306-zombie-apocalypse.json) |
 | Zombie Apocalypse | 115229 | [115229-zombie-apocalypse.json](./115229-zombie-apocalypse.json) |
+| Zombie Apocalypse | 115855 | [115855-zombie-apocalypse.json](./115855-zombie-apocalypse.json) |
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
 | Zombie Apocalypse | 18053 | [18053-zombie-apocalypse.json](./18053-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
