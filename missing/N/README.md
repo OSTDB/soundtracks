@@ -5835,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Usagimaru: Two Tails of Adventure | 44484 | [44484-ninja-usagimaru-two-tails-of-adventure.json](./44484-ninja-usagimaru-two-tails-of-adventure.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
+| Ninja Village Wars 2 | 80005 | [80005-ninja-village-wars-2.json](./80005-ninja-village-wars-2.json) |
 | Ninja vs. Knights | 314229 | [314229-ninja-vs-knights.json](./314229-ninja-vs-knights.json) |
 | Ninja vs. Zombies | 235893 | [235893-ninja-vs-zombies.json](./235893-ninja-vs-zombies.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
