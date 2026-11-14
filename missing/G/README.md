@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantic Army | 115300 | [115300-gigantic-army.json](./115300-gigantic-army.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
+| Gigantic X | 117197 | [117197-gigantic-x.json](./117197-gigantic-x.json) |
 | Gigantic: Rampage Edition | 288025 | [288025-gigantic-rampage-edition.json](./288025-gigantic-rampage-edition.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
@@ -9455,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
 | Gravity Guy Race | 237733 | [237733-gravity-guy-race.json](./237733-gravity-guy-race.json) |
+| Gravity Heroes | 116512 | [116512-gravity-heroes.json](./116512-gravity-heroes.json) |
 | Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
 | Gravity Hook | 242824 | [242824-gravity-hook.json](./242824-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
@@ -12384,6 +12386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger: Zombie Survival 2019 | 233396 | [233396-gunslinger-zombie-survival-2019.json](./233396-gunslinger-zombie-survival-2019.json) |
 | Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
 | Gunslingers | 94820 | [94820-gunslingers.json](./94820-gunslingers.json) |
+| Gunslingers & Zombies | 117184 | [117184-gunslingers-and-zombies.json](./117184-gunslingers-and-zombies.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs | 35187 | [35187-gunslugs.json](./35187-gunslugs.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
