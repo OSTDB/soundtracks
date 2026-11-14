@@ -10200,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary III: The Dion Crisis | 12680 | [12680-mercenary-iii-the-dion-crisis.json](./12680-mercenary-iii-the-dion-crisis.json) |
 | Mercenary Kings: Reloaded Edition | 84923 | [84923-mercenary-kings-reloaded-edition.json](./84923-mercenary-kings-reloaded-edition.json) |
 | Mercenary Leto | 105145 | [105145-mercenary-leto.json](./105145-mercenary-leto.json) |
+| Mercenary Operator: Wolves | 152550 | [152550-mercenary-operator-wolves.json](./152550-mercenary-operator-wolves.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary Skirmish | 149119 | [149119-mercenary-skirmish.json](./149119-mercenary-skirmish.json) |
 | Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
@@ -21079,6 +21080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multigun | 345108 | [345108-multigun.json](./345108-multigun.json) |
 | MultiHero | 312813 | [312813-multihero.json](./312813-multihero.json) |
 | Multilateral Planet | 280120 | [280120-multilateral-planet.json](./280120-multilateral-planet.json) |
+| Multilevel Parking Driver | 152521 | [152521-multilevel-parking-driver.json](./152521-multilevel-parking-driver.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | MultiMaze Party | 311537 | [311537-multimaze-party.json](./311537-multimaze-party.json) |
@@ -23034,6 +23036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Magical Girlfriends | 210775 | [210775-my-magical-girlfriends.json](./210775-my-magical-girlfriends.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
+| My Maitê | 152515 | [152515-my-maite.json](./152515-my-maite.json) |
 | My Make Believe Castle | 329472 | [329472-my-make-believe-castle.json](./329472-my-make-believe-castle.json) |
 | My Make Believe Treasure Isle | 329471 | [329471-my-make-believe-treasure-isle.json](./329471-my-make-believe-treasure-isle.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
@@ -23693,6 +23696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myopia | 362445 | [362445-myopia.json](./362445-myopia.json) |
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | Myosotis | 374001 | [374001-myosotis.json](./374001-myosotis.json) |
+| Myoubouh Catcher | 152518 | [152518-myoubouh-catcher.json](./152518-myoubouh-catcher.json) |
 | MyPawnShop | 327550 | [327550-mypawnshop.json](./327550-mypawnshop.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | MyPopgoes | 294744 | [294744-mypopgoes.json](./294744-mypopgoes.json) |
