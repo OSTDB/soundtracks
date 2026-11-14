@@ -18925,6 +18925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
 | Atomic Gringo | 396275 | [396275-atomic-gringo.json](./396275-atomic-gringo.json) |
 | Atomic Guardians | 149766 | [149766-atomic-guardians.json](./149766-atomic-guardians.json) |
+| Atomic Hangman | 108532 | [108532-atomic-hangman.json](./108532-atomic-hangman.json) |
 | Atomic Hazard | 270008 | [270008-atomic-hazard.json](./270008-atomic-hazard.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
