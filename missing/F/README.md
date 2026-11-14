@@ -14466,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuksoft | 209439 | [209439-fuksoft.json](./209439-fuksoft.json) |
 | Fuksoft II | 209440 | [209440-fuksoft-ii.json](./209440-fuksoft-ii.json) |
 | FukTopia | 86601 | [86601-fuktopia.json](./86601-fuktopia.json) |
+| FukTopia 2 | 152528 | [152528-fuktopia-2.json](./152528-fuktopia-2.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | Fuktopia 4 | 220368 | [220368-fuktopia-4.json](./220368-fuktopia-4.json) |
 | FukTopia 5 | 220591 | [220591-fuktopia-5.json](./220591-fuktopia-5.json) |
