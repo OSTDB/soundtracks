@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
 | A Blind Legend | 33641 | [33641-a-blind-legend.json](./33641-a-blind-legend.json) |
 | A Blind Spot | 342330 | [342330-a-blind-spot.json](./342330-a-blind-spot.json) |
+| A Blinding Void | 142508 | [142508-a-blinding-void.json](./142508-a-blinding-void.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
 | A Blocky Christmas | 319517 | [319517-a-blocky-christmas.json](./319517-a-blocky-christmas.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons Masterpiece Collection | 84218 | [84218-advanced-dungeons-and-dragons-masterpiece-collection.json](./84218-advanced-dungeons-and-dragons-masterpiece-collection.json) |
 | Advanced Dungeons & Dragons Ultimate Fantasy | 362470 | [362470-advanced-dungeons-and-dragons-ultimate-fantasy.json](./362470-advanced-dungeons-and-dragons-ultimate-fantasy.json) |
 | Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
+| Advanced Dungeons & Dragons: Collectors Edition Vol.1 | 141946 | [141946-advanced-dungeons-and-dragons-collectors-edition-vol-1.json](./141946-advanced-dungeons-and-dragons-collectors-edition-vol-1.json) |
 | Advanced Dungeons & Dragons: Collectors Edition Vol.2 | 206102 | [206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json](./206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json) |
 | Advanced Dungeons & Dragons: Dragons of Flame | 8602 | [8602-advanced-dungeons-and-dragons-dragons-of-flame.json](./8602-advanced-dungeons-and-dragons-dragons-of-flame.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
@@ -3847,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
+| Advanced Lawnmower Simulator | 142432 | [142432-advanced-lawnmower-simulator.json](./142432-advanced-lawnmower-simulator.json) |
 | Advanced Lord Monarch | 130548 | [130548-advanced-lord-monarch.json](./130548-advanced-lord-monarch.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
 | Advanced Ninja | 417803 | [417803-advanced-ninja.json](./417803-advanced-ninja.json) |
@@ -4789,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aethernaut | 136660 | [136660-aethernaut.json](./136660-aethernaut.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
+| Aethyr | 142476 | [142476-aethyr.json](./142476-aethyr.json) |
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
 | Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
@@ -6456,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
 | AirMech: Wastelands | 54816 | [54816-airmech-wastelands.json](./54816-airmech-wastelands.json) |
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
+| Airoheart | 142513 | [142513-airoheart.json](./142513-airoheart.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
 | Airplane | 176572 | [176572-airplane.json](./176572-airplane.json) |
@@ -9865,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amit the Paperman | 417681 | [417681-amit-the-paperman.json](./417681-amit-the-paperman.json) |
 | Amitabha Buddha | 408419 | [408419-amitabha-buddha.json](./408419-amitabha-buddha.json) |
 | Amity Park | 216452 | [216452-amity-park.json](./216452-amity-park.json) |
+| Amity x Li | 142505 | [142505-amity-x-li.json](./142505-amity-x-li.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Amma: Chronicles of Lost Stars | 204230 | [204230-amma-chronicles-of-lost-stars.json](./204230-amma-chronicles-of-lost-stars.json) |
