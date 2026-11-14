@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
 | Mahjongg Empire | 210203 | [210203-mahjongg-empire.json](./210203-mahjongg-empire.json) |
+| Mahjongg MAC | 131010 | [131010-mahjongg-mac.json](./131010-mahjongg-mac.json) |
 | Mahjongg Master | 94305 | [94305-mahjongg-master.json](./94305-mahjongg-master.json) |
 | MahJongg Master 2 | 200882 | [200882-mahjongg-master-2.json](./200882-mahjongg-master-2.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahJongg Master 6 | 210207 | [210207-mahjongg-master-6.json](./210207-mahjongg-master-6.json) |
 | Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
 | Mahjongg Mysteries: Ancient Egypt | 210197 | [210197-mahjongg-mysteries-ancient-egypt.json](./210197-mahjongg-mysteries-ancient-egypt.json) |
+| Mahjongg PC | 131011 | [131011-mahjongg-pc.json](./131011-mahjongg-pc.json) |
 | Mahjongg Platinum 3 | 210189 | [210189-mahjongg-platinum-3.json](./210189-mahjongg-platinum-3.json) |
 | Mahjongg Platinum 5: Deluxe Edition | 210190 | [210190-mahjongg-platinum-5-deluxe-edition.json](./210190-mahjongg-platinum-5-deluxe-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
@@ -11496,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | MHL | 129458 | [129458-mhl.json](./129458-mhl.json) |
 | MHRD | 29883 | [29883-mhrd.json](./29883-mhrd.json) |
+| MHS Pack | 130984 | [130984-mhs-pack.json](./130984-mhs-pack.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | MHZ | 369219 | [369219-mhz.json](./369219-mhz.json) |
 | Mì Chángshēng | 126763 | [126763-mi-changsheng.json](./126763-mi-changsheng.json) |
@@ -13187,6 +13190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million to One | 366711 | [366711-million-to-one.json](./366711-million-to-one.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | million x Pac-Man | 219447 | [219447-million-x-pac-man.json](./219447-million-x-pac-man.json) |
+| Millionaire | 130995 | [130995-millionaire.json](./130995-millionaire.json) |
 | Millionaire City | 115543 | [115543-millionaire-city.json](./115543-millionaire-city.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Millionaire Escape | 353582 | [353582-millionaire-escape.json](./353582-millionaire-escape.json) |
@@ -14854,6 +14858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Adventure Esparks | 49130 | [49130-miracle-adventure-esparks.json](./49130-miracle-adventure-esparks.json) |
 | Miracle Baseball | 385759 | [385759-miracle-baseball.json](./385759-miracle-baseball.json) |
 | Miracle Brave | 405560 | [405560-miracle-brave.json](./405560-miracle-brave.json) |
+| Miracle Calamity Homeostasis | 130982 | [130982-miracle-calamity-homeostasis.json](./130982-miracle-calamity-homeostasis.json) |
 | Miracle Casino Paradise | 37926 | [37926-miracle-casino-paradise.json](./37926-miracle-casino-paradise.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
@@ -15892,6 +15897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Life Simulator | 274692 | [274692-mma-life-simulator.json](./274692-mma-life-simulator.json) |
 | MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
+| MMA President | 130979 | [130979-mma-president.json](./130979-mma-president.json) |
 | MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMA: Fighting Clash 22 | 194046 | [194046-mma-fighting-clash-22.json](./194046-mma-fighting-clash-22.json) |
