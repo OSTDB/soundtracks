@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Pako: Car Chase Simulator | 30406 | [30406-pako-car-chase-simulator.json](./30406-pako-car-chase-simulator.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
+| PakPak Monster | 84428 | [84428-pakpak-monster.json](./84428-pakpak-monster.json) |
 | Pakpok | 181214 | [181214-pakpok.json](./181214-pakpok.json) |
 | Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
 | Paku Paku | 50327 | [50327-paku-paku.json](./50327-paku-paku.json) |
@@ -4034,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
 | Pea-Guy: Vengeance... or bust | 63081 | [63081-pea-guy-vengeance-or-bust.json](./63081-pea-guy-vengeance-or-bust.json) |
+| Peace and Love | 82213 | [82213-peace-and-love.json](./82213-peace-and-love.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
 | Peace Data | 128036 | [128036-peace-data.json](./128036-peace-data.json) |
 | Peace Dice | 390451 | [390451-peace-dice.json](./390451-peace-dice.json) |
@@ -6727,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
 | Pico Park: Classic Edition | 288208 | [288208-pico-park-classic-edition.json](./288208-pico-park-classic-edition.json) |
 | Pico Pico | 118991 | [118991-pico-pico.json](./118991-pico-pico.json) |
+| Pico Pico | 84422 | [84422-pico-pico.json](./84422-pico-pico.json) |
 | Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
 | Pico Pico Love Touch | 119914 | [119914-pico-pico-love-touch.json](./119914-pico-pico-love-touch.json) |
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
@@ -10223,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet M.U.L.E. | 198441 | [198441-planet-m-u-l-e.json](./198441-planet-m-u-l-e.json) |
 | Planet Master | 227551 | [227551-planet-master.json](./227551-planet-master.json) |
+| Planet Michael | 84417 | [84417-planet-michael.json](./84417-planet-michael.json) |
 | Planet Miner | 158899 | [158899-planet-miner.json](./158899-planet-miner.json) |
 | Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Miners | 323141 | [323141-planet-miners.json](./323141-planet-miners.json) |
@@ -15582,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presences: Dark Awakening | 250404 | [250404-presences-dark-awakening.json](./250404-presences-dark-awakening.json) |
 | Presences: Dark Awakening | 250549 | [250549-presences-dark-awakening.json](./250549-presences-dark-awakening.json) |
 | Present | 77268 | [77268-present.json](./77268-present.json) |
+| Present 2 | 84424 | [84424-present-2.json](./84424-present-2.json) |
 | Present Cannon Rebirth | 189835 | [189835-present-cannon-rebirth.json](./189835-present-cannon-rebirth.json) |
 | Present Danger | 169605 | [169605-present-danger.json](./169605-present-danger.json) |
 | Present for Manager | 100475 | [100475-present-for-manager.json](./100475-present-for-manager.json) |
