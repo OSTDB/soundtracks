@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
 | Easy Joe 2 | 399487 | [399487-easy-joe-2.json](./399487-easy-joe-2.json) |
 | Easy Joe 3 | 101864 | [101864-easy-joe-3.json](./101864-easy-joe-3.json) |
+| Easy Joe 4 | 101825 | [101825-easy-joe-4.json](./101825-easy-joe-4.json) |
 | Easy Joe World | 78537 | [78537-easy-joe-world.json](./78537-easy-joe-world.json) |
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
 | Easy Magic | 29354 | [29354-easy-magic.json](./29354-easy-magic.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Cavern 2 | 52953 | [52953-enchanted-cavern-2.json](./52953-enchanted-cavern-2.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
+| Enchanted Heroes | 101810 | [101810-enchanted-heroes.json](./101810-enchanted-heroes.json) |
 | Enchanted in the Moonlight | 238427 | [238427-enchanted-in-the-moonlight.json](./238427-enchanted-in-the-moonlight.json) |
 | Enchanted in the Moonlight: Fated Romance - A Foxy Butler!? | 238156 | [238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json](./238156-enchanted-in-the-moonlight-fated-romance-a-foxy-butler.json) |
 | Enchanted in the Moonlight: Fated Romance - Love in the Time of Blogging | 238155 | [238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json](./238155-enchanted-in-the-moonlight-fated-romance-love-in-the-time-of-blogging.json) |
@@ -6405,6 +6407,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | Eseapner | 75614 | [75614-eseapner.json](./75614-eseapner.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
+| Esgrima 2 | 101791 | [101791-esgrima-2.json](./101791-esgrima-2.json) |
+| Esgrima Online | 101792 | [101792-esgrima-online.json](./101792-esgrima-online.json) |
 | Esh's Aurunmilla | 39978 | [39978-eshs-aurunmilla.json](./39978-eshs-aurunmilla.json) |
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
 | Eshigami no Kizuna | 37300 | [37300-eshigami-no-kizuna.json](./37300-eshigami-no-kizuna.json) |
