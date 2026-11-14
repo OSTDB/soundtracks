@@ -4362,7 +4362,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
 | Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
-| Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
 | Let's! TV Play Namco Nostalgia 1 | 219424 | [219424-lets-tv-play-namco-nostalgia-1.json](./219424-lets-tv-play-namco-nostalgia-1.json) |
 | Let's! TV Play Namco Nostalgia 2 | 219426 | [219426-lets-tv-play-namco-nostalgia-2.json](./219426-lets-tv-play-namco-nostalgia-2.json) |
