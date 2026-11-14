@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacking Ball 3D | 193237 | [193237-hacking-ball-3d.json](./193237-hacking-ball-3d.json) |
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
+| Hacking locks Simulator | 129832 | [129832-hacking-locks-simulator.json](./129832-hacking-locks-simulator.json) |
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
 | Hacking The Moon to Find My Goddess | 337493 | [337493-hacking-the-moon-to-find-my-goddess.json](./337493-hacking-the-moon-to-find-my-goddess.json) |
 | Hacking with Benefits | 379646 | [379646-hacking-with-benefits.json](./379646-hacking-with-benefits.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Watershot | 258296 | [258296-halls-of-watershot.json](./258296-halls-of-watershot.json) |
 | Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
 | Hallucigenia | 166466 | [166466-hallucigenia.json](./166466-hallucigenia.json) |
+| Hallucination | 129843 | [129843-hallucination.json](./129843-hallucination.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
 | Hallunazi | 74685 | [74685-hallunazi.json](./74685-hallunazi.json) |
 | Hallway Defender | 220030 | [220030-hallway-defender.json](./220030-hallway-defender.json) |
@@ -3100,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Places | 207761 | [207761-haunted-places.json](./207761-haunted-places.json) |
 | Haunted Property | 309491 | [309491-haunted-property.json](./309491-haunted-property.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
+| Haunted PS1 Demo Disc 2020 | 129864 | [129864-haunted-ps1-demo-disc-2020.json](./129864-haunted-ps1-demo-disc-2020.json) |
 | Haunted PS1 Demo Disc 2021 | 145030 | [145030-haunted-ps1-demo-disc-2021.json](./145030-haunted-ps1-demo-disc-2021.json) |
 | Haunted PS1 Madvent Calendar 2020 | 141758 | [141758-haunted-ps1-madvent-calendar-2020.json](./141758-haunted-ps1-madvent-calendar-2020.json) |
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
@@ -8531,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | HighQ Quiz | 172370 | [172370-highq-quiz.json](./172370-highq-quiz.json) |
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
+| Highrise | 129841 | [129841-highrise.json](./129841-highrise.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise | 375211 | [375211-highrise.json](./375211-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
