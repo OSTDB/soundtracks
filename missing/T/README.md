@@ -5724,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
 | That Sausage Museum Game | 350177 | [350177-that-sausage-museum-game.json](./350177-that-sausage-museum-game.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
+| That Spelling Is Right!! | 133496 | [133496-that-spelling-is-right.json](./133496-that-spelling-is-right.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
 | That Stupid Game | 207467 | [207467-that-stupid-game.json](./207467-that-stupid-game.json) |
 | That Summer | 204256 | [204256-that-summer.json](./204256-that-summer.json) |
@@ -11557,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
+| The Harrowed | 133477 | [133477-the-harrowed.json](./133477-the-harrowed.json) |
 | The Harvest | 130220 | [130220-the-harvest.json](./130220-the-harvest.json) |
 | The Harvest | 66425 | [66425-the-harvest.json](./66425-the-harvest.json) |
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
@@ -14801,6 +14803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
 | The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
+| The Magic Seven | 133480 | [133480-the-magic-seven.json](./133480-the-magic-seven.json) |
 | The Magic Storm | 143896 | [143896-the-magic-storm.json](./143896-the-magic-storm.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
@@ -19058,6 +19061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Penguboy | 272178 | [272178-the-super-penguboy.json](./272178-the-super-penguboy.json) |
 | The Super Pie Throwing | 322254 | [322254-the-super-pie-throwing.json](./322254-the-super-pie-throwing.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
+| The Super Science Show | 133493 | [133493-the-super-science-show.json](./133493-the-super-science-show.json) |
 | The Super Shinobi | 266331 | [266331-the-super-shinobi.json](./266331-the-super-shinobi.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
 | The Super Stoo-Pendous World of Dr. Seuss | 238668 | [238668-the-super-stoo-pendous-world-of-dr-seuss.json](./238668-the-super-stoo-pendous-world-of-dr-seuss.json) |
@@ -28251,6 +28255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Racer Mini Arcade | 275279 | [275279-top-racer-mini-arcade.json](./275279-top-racer-mini-arcade.json) |
 | Top Racer: Crossroads | 262047 | [262047-top-racer-crossroads.json](./262047-top-racer-crossroads.json) |
 | Top Rank Tennis | 94186 | [94186-top-rank-tennis.json](./94186-top-rank-tennis.json) |
+| Top Readers' Club | 133522 | [133522-top-readers-club.json](./133522-top-readers-club.json) |
 | Top Rider | 64284 | [64284-top-rider.json](./64284-top-rider.json) |
 | Top Roller | 93399 | [93399-top-roller.json](./93399-top-roller.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
