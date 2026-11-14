@@ -12559,6 +12559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Open a Locked Chest | 344282 | [344282-how-to-open-a-locked-chest.json](./344282-how-to-open-a-locked-chest.json) |
 | How to Play Craps - Tips and Strategies | 91050 | [91050-how-to-play-craps-tips-and-strategies.json](./91050-how-to-play-craps-tips-and-strategies.json) |
+| How to Pua: Space | 110420 | [110420-how-to-pua-space.json](./110420-how-to-pua-space.json) |
 | How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
 | How to Raise a Dragon | 200814 | [200814-how-to-raise-a-dragon.json](./200814-how-to-raise-a-dragon.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
