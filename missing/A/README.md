@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
 | Active Health with Carol Vorderman | 67620 | [67620-active-health-with-carol-vorderman.json](./67620-active-health-with-carol-vorderman.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
+| Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
 | Active Life: Explorer | 4659 | [4659-active-life-explorer.json](./4659-active-life-explorer.json) |
 | Active Life: Magical Carnival | 50686 | [50686-active-life-magical-carnival.json](./50686-active-life-magical-carnival.json) |
 | Active Life: Outdoor Challenge | 50685 | [50685-active-life-outdoor-challenge.json](./50685-active-life-outdoor-challenge.json) |
@@ -4574,15 +4575,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aerofly FS | 16383 | [16383-aerofly-fs.json](./16383-aerofly-fs.json) |
 | Aerofly FS 1 Flight Simulator | 28220 | [28220-aerofly-fs-1-flight-simulator.json](./28220-aerofly-fs-1-flight-simulator.json) |
 | Aerofly FS 2 Flight Simulator | 33736 | [33736-aerofly-fs-2-flight-simulator.json](./33736-aerofly-fs-2-flight-simulator.json) |
+| Aerofly FS 2 Flight Simulator: Aerosoft - Germany Helgoland | 167731 | [167731-aerofly-fs-2-flight-simulator-aerosoft-germany-helgoland.json](./167731-aerofly-fs-2-flight-simulator-aerosoft-germany-helgoland.json) |
+| Aerofly FS 2 Flight Simulator: Aerosoft - Lukla Mount Everest | 167728 | [167728-aerofly-fs-2-flight-simulator-aerosoft-lukla-mount-everest.json](./167728-aerofly-fs-2-flight-simulator-aerosoft-lukla-mount-everest.json) |
+| Aerofly FS 2 Flight Simulator: France VFR - Paris-Ile-de-France | 167729 | [167729-aerofly-fs-2-flight-simulator-france-vfr-paris-ile-de-france.json](./167729-aerofly-fs-2-flight-simulator-france-vfr-paris-ile-de-france.json) |
+| Aerofly FS 2 Flight Simulator: France VFR - Paris-Ile-de-France Airport Pack | 167725 | [167725-aerofly-fs-2-flight-simulator-france-vfr-paris-ile-de-france-airport-pack.json](./167725-aerofly-fs-2-flight-simulator-france-vfr-paris-ile-de-france-airport-pack.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Cessna 152 | 162744 | [162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json](./162744-aerofly-fs-2-flight-simulator-just-flight-cessna-152.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Duchess | 162742 | [162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json](./162742-aerofly-fs-2-flight-simulator-just-flight-duchess.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Falke SF25 | 162740 | [162740-aerofly-fs-2-flight-simulator-just-flight-falke-sf25.json](./162740-aerofly-fs-2-flight-simulator-just-flight-falke-sf25.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Hawk T1/A | 162739 | [162739-aerofly-fs-2-flight-simulator-just-flight-hawk-t1-a.json](./162739-aerofly-fs-2-flight-simulator-just-flight-hawk-t1-a.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Tomahawk | 162741 | [162741-aerofly-fs-2-flight-simulator-just-flight-tomahawk.json](./162741-aerofly-fs-2-flight-simulator-just-flight-tomahawk.json) |
 | Aerofly FS 2 Flight Simulator: Just Flight - Turbo Arrow III / IV | 162743 | [162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json](./162743-aerofly-fs-2-flight-simulator-just-flight-turbo-arrow-iii-iv.json) |
+| Aerofly FS 2 Flight Simulator: Northeastern USA | 167732 | [167732-aerofly-fs-2-flight-simulator-northeastern-usa.json](./167732-aerofly-fs-2-flight-simulator-northeastern-usa.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Chicago Meigs Field | 161723 | [161723-aerofly-fs-2-flight-simulator-orbx-chicago-meigs-field.json](./161723-aerofly-fs-2-flight-simulator-orbx-chicago-meigs-field.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Eagle County Colorado | 167724 | [167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json](./167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json) |
+| Aerofly FS 2 Flight Simulator: Orbx - Innsbruck Airport | 167727 | [167727-aerofly-fs-2-flight-simulator-orbx-innsbruck-airport.json](./167727-aerofly-fs-2-flight-simulator-orbx-innsbruck-airport.json) |
 | Aerofly FS 2 Flight Simulator: Orbx - Monterey Regional Airport | 167720 | [167720-aerofly-fs-2-flight-simulator-orbx-monterey-regional-airport.json](./167720-aerofly-fs-2-flight-simulator-orbx-monterey-regional-airport.json) |
+| Aerofly FS 2 Flight Simulator: Orbx - Netherlands TrueEarth | 167730 | [167730-aerofly-fs-2-flight-simulator-orbx-netherlands-trueearth.json](./167730-aerofly-fs-2-flight-simulator-orbx-netherlands-trueearth.json) |
+| Aerofly FS 2 Flight Simulator: Orbx - Palm Springs International Airport | 167726 | [167726-aerofly-fs-2-flight-simulator-orbx-palm-springs-international-airport.json](./167726-aerofly-fs-2-flight-simulator-orbx-palm-springs-international-airport.json) |
+| Aerofly FS 2 Flight Simulator: Q400 | 167733 | [167733-aerofly-fs-2-flight-simulator-q400.json](./167733-aerofly-fs-2-flight-simulator-q400.json) |
 | Aerofly FS 2 Flight Simulator: Switzerland | 167721 | [167721-aerofly-fs-2-flight-simulator-switzerland.json](./167721-aerofly-fs-2-flight-simulator-switzerland.json) |
 | Aerofly FS 2 Flight Simulator: USA Colorado | 167723 | [167723-aerofly-fs-2-flight-simulator-usa-colorado.json](./167723-aerofly-fs-2-flight-simulator-usa-colorado.json) |
 | Aerofly FS 2 Flight Simulator: USA South Florida | 167722 | [167722-aerofly-fs-2-flight-simulator-usa-south-florida.json](./167722-aerofly-fs-2-flight-simulator-usa-south-florida.json) |
@@ -5336,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Farming | 30500 | [30500-age-of-farming.json](./30500-age-of-farming.json) |
 | Age of Fear 2: The Chaos Lord | 35992 | [35992-age-of-fear-2-the-chaos-lord.json](./35992-age-of-fear-2-the-chaos-lord.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
+| Age of Fear 3: The Blood and Moon Expansion | 167338 | [167338-age-of-fear-3-the-blood-and-moon-expansion.json](./167338-age-of-fear-3-the-blood-and-moon-expansion.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear 4: The Iron Killer | 118733 | [118733-age-of-fear-4-the-iron-killer.json](./118733-age-of-fear-4-the-iron-killer.json) |
 | Age of Fear 4: The Storm Mountain Expansion | 158802 | [158802-age-of-fear-4-the-storm-mountain-expansion.json](./158802-age-of-fear-4-the-storm-mountain-expansion.json) |
@@ -9686,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
 | American Truck Simulator: Heavy Cargo Pack | 44120 | [44120-american-truck-simulator-heavy-cargo-pack.json](./44120-american-truck-simulator-heavy-cargo-pack.json) |
+| American Truck Simulator: Idaho | 167405 | [167405-american-truck-simulator-idaho.json](./167405-american-truck-simulator-idaho.json) |
 | American Truck Simulator: Illinois | 348974 | [348974-american-truck-simulator-illinois.json](./348974-american-truck-simulator-illinois.json) |
 | American Truck Simulator: International 9900i | 195805 | [195805-american-truck-simulator-international-9900i.json](./195805-american-truck-simulator-international-9900i.json) |
 | American Truck Simulator: International LoneStar | 288629 | [288629-american-truck-simulator-international-lonestar.json](./288629-american-truck-simulator-international-lonestar.json) |
@@ -14590,6 +14602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheAge: Unchained | 125340 | [125340-archeage-unchained.json](./125340-archeage-unchained.json) |
+| ArcheAge: Unchained - Garden of the Gods | 167336 | [167336-archeage-unchained-garden-of-the-gods.json](./167336-archeage-unchained-garden-of-the-gods.json) |
 | Archean | 301128 | [301128-archean.json](./301128-archean.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archeholder | 238560 | [238560-archeholder.json](./238560-archeholder.json) |
