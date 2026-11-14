@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombase | 161555 | [161555-zombase.json](./161555-zombase.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
+| Zombasite: Orc Schism | 124877 | [124877-zombasite-orc-schism.json](./124877-zombasite-orc-schism.json) |
 | Zombastic | 394985 | [394985-zombastic.json](./394985-zombastic.json) |
 | ZomBay | 287002 | [287002-zombay.json](./287002-zombay.json) |
 | ZombCube | 305975 | [305975-zombcube.json](./305975-zombcube.json) |
