@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIX | 282701 | [282701-xix.json](./282701-xix.json) |
 | Xixit | 94532 | [94532-xixit.json](./94532-xixit.json) |
 | Xiyan | 312935 | [312935-xiyan.json](./312935-xiyan.json) |
+| Xīyóu Wàizhuàn | 166868 | [166868-xiyou-waizhuan.json](./166868-xiyou-waizhuan.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
 | XL1: Clipping Point | 86621 | [86621-xl1-clipping-point.json](./86621-xl1-clipping-point.json) |
