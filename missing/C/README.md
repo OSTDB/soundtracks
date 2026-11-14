@@ -12235,6 +12235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Gun | 134997 | [134997-cluster-gun.json](./134997-cluster-gun.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
 | Cluster Tower | 246853 | [246853-cluster-tower.json](./246853-cluster-tower.json) |
+| Cluster Traffic: Parkour Trucks | 108545 | [108545-cluster-traffic-parkour-trucks.json](./108545-cluster-traffic-parkour-trucks.json) |
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
@@ -14873,6 +14874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
 | Concealed Intent | 35142 | [35142-concealed-intent.json](./35142-concealed-intent.json) |
 | Concealment | 147066 | [147066-concealment.json](./147066-concealment.json) |
+| Concentration | 108544 | [108544-concentration.json](./108544-concentration.json) |
 | Concentration | 207016 | [207016-concentration.json](./207016-concentration.json) |
 | Concentration | 217829 | [217829-concentration.json](./217829-concentration.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
@@ -15947,6 +15949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies! Theory of Super Evolution | 222257 | [222257-cookies-theory-of-super-evolution.json](./222257-cookies-theory-of-super-evolution.json) |
 | Cookiesaner | 417483 | [417483-cookiesaner.json](./417483-cookiesaner.json) |
 | Cookiette and the Vanilla Crystal | 386180 | [386180-cookiette-and-the-vanilla-crystal.json](./386180-cookiette-and-the-vanilla-crystal.json) |
+| CookieWars | 108553 | [108553-cookiewars.json](./108553-cookiewars.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | CooKing | 148596 | [148596-cooking.json](./148596-cooking.json) |
