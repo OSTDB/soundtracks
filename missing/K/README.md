@@ -2593,6 +2593,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Slide Puzzle World mystic squares 15 game | 100290 | [100290-kids-slide-puzzle-world-mystic-squares-15-game.json](./100290-kids-slide-puzzle-world-mystic-squares-15-game.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
 | Kids Station: Barbapapa | 148377 | [148377-kids-station-barbapapa.json](./148377-kids-station-barbapapa.json) |
+| Kids Station: Bishoujo Senshi Sailor Moon World Chibiusa to Tanoshii Mainichi | 168268 | [168268-kids-station-bishoujo-senshi-sailor-moon-world-chibiusa-to-tanoshii-mainichi.json](./168268-kids-station-bishoujo-senshi-sailor-moon-world-chibiusa-to-tanoshii-mainichi.json) |
+| Kids Station: Bokura to Asobou! Ultraman TV | 168269 | [168269-kids-station-bokura-to-asobou-ultraman-tv.json](./168269-kids-station-bokura-to-asobou-ultraman-tv.json) |
 | Kids Station: Crayon Shin-Chan Ora to Omoide Tsukuru Zo! | 56243 | [56243-kids-station-crayon-shin-chan-ora-to-omoide-tsukuru-zo.json](./56243-kids-station-crayon-shin-chan-ora-to-omoide-tsukuru-zo.json) |
 | Kids Station: Digimon Park | 58808 | [58808-kids-station-digimon-park.json](./58808-kids-station-digimon-park.json) |
 | Kids Station: Doraemon - Himitsu no Yojigen Pocket | 91774 | [91774-kids-station-doraemon-himitsu-no-yojigen-pocket.json](./91774-kids-station-doraemon-himitsu-no-yojigen-pocket.json) |
