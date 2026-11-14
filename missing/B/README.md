@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's on fire | 95283 | [95283-babys-on-fire.json](./95283-babys-on-fire.json) |
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
 | Babycar Driver | 101401 | [101401-babycar-driver.json](./101401-babycar-driver.json) |
+| Babyface | 141292 | [141292-babyface.json](./141292-babyface.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon 5 Armada 2 | 342961 | [342961-babylon-5-armada-2.json](./342961-babylon-5-armada-2.json) |
@@ -7904,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond You! | 122707 | [122707-beyond-you.json](./122707-beyond-you.json) |
 | Beyond Your Fear | 195596 | [195596-beyond-your-fear.json](./195596-beyond-your-fear.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
+| Beyond Your Window | 141302 | [141302-beyond-your-window.json](./141302-beyond-your-window.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond Zero Tolerance | 45762 | [45762-beyond-zero-tolerance.json](./45762-beyond-zero-tolerance.json) |
 | Beyond Zork: The Coconut of Quendor | 1951 | [1951-beyond-zork-the-coconut-of-quendor.json](./1951-beyond-zork-the-coconut-of-quendor.json) |
@@ -14834,6 +14836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born to Rock | 60765 | [60765-born-to-rock.json](./60765-born-to-rock.json) |
 | Born Tubi Wild | 76105 | [76105-born-tubi-wild.json](./76105-born-tubi-wild.json) |
 | Born Under the Rain | 124529 | [124529-born-under-the-rain.json](./124529-born-under-the-rain.json) |
+| Bornard | 141263 | [141263-bornard.json](./141263-bornard.json) |
 | Borneo: A Jungle Nightmare | 197906 | [197906-borneo-a-jungle-nightmare.json](./197906-borneo-a-jungle-nightmare.json) |
 | Börnies Journey | 164506 | [164506-bornies-journey.json](./164506-bornies-journey.json) |
 | BornWild Versus S1: Ep.1 to 8 | 215479 | [215479-bornwild-versus-s1-ep-1-to-8.json](./215479-bornwild-versus-s1-ep-1-to-8.json) |
@@ -15940,6 +15943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Jam | 83695 | [83695-brain-jam.json](./83695-brain-jam.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
+| Brain Meltdown: Into Despair | 141274 | [141274-brain-meltdown-into-despair.json](./141274-brain-meltdown-into-despair.json) |
 | Brain Memory | 224910 | [224910-brain-memory.json](./224910-brain-memory.json) |
 | Brain Memory 2 | 293370 | [293370-brain-memory-2.json](./293370-brain-memory-2.json) |
 | Brain Memory 2: Cards Pack 1 | 300949 | [300949-brain-memory-2-cards-pack-1.json](./300949-brain-memory-2-cards-pack-1.json) |
@@ -17167,6 +17171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Builder Simulator | 291966 | [291966-bridge-builder-simulator.json](./291966-bridge-builder-simulator.json) |
 | Bridge by Dodofox | 99911 | [99911-bridge-by-dodofox.json](./99911-bridge-by-dodofox.json) |
 | Bridge Challenge | 15687 | [15687-bridge-challenge.json](./15687-bridge-challenge.json) |
+| Bridge Challenger | 141282 | [141282-bridge-challenger.json](./141282-bridge-challenger.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
 | Bridge Construction Simulator | 194076 | [194076-bridge-construction-simulator.json](./194076-bridge-construction-simulator.json) |
