@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
 | Dangerous Superheroes After Dark: Heroes Behind the Mask | 395652 | [395652-dangerous-superheroes-after-dark-heroes-behind-the-mask.json](./395652-dangerous-superheroes-after-dark-heroes-behind-the-mask.json) |
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
+| Dangerous Toys | 98088 | [98088-dangerous-toys.json](./98088-dangerous-toys.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous Waters | 14789 | [14789-dangerous-waters.json](./14789-dangerous-waters.json) |
 | Dangerous World | 291791 | [291791-dangerous-world.json](./291791-dangerous-world.json) |
@@ -10338,6 +10339,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Soul Data | 322329 | [322329-digital-soul-data.json](./322329-digital-soul-data.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
+| Digital Talk Series 1: Sherry | 98109 | [98109-digital-talk-series-1-sherry.json](./98109-digital-talk-series-1-sherry.json) |
+| Digital Talk Series 2: Haruka | 98103 | [98103-digital-talk-series-2-haruka.json](./98103-digital-talk-series-2-haruka.json) |
+| Digital Talk Series 3: Hitomi | 98102 | [98102-digital-talk-series-3-hitomi.json](./98102-digital-talk-series-3-hitomi.json) |
 | Digital Tamers 2 | 315728 | [315728-digital-tamers-2.json](./315728-digital-tamers-2.json) |
 | Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
 | Digital Terrarium: Pogona Virtual Pet | 175846 | [175846-digital-terrarium-pogona-virtual-pet.json](./175846-digital-terrarium-pogona-virtual-pet.json) |
