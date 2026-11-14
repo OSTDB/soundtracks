@@ -263,10 +263,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0°N 0°W | 55486 | [55486-0-n-0-w.json](./55486-0-n-0-w.json) |
 | 0°N 0°W: VR | 167933 | [167933-0-n-0-w-vr.json](./167933-0-n-0-w-vr.json) |
 | 00 | 227596 | [227596-00.json](./227596-00.json) |
+| 00 mem.: ~Le Chat~ | 83078 | [83078-00-mem-le-chat.json](./83078-00-mem-le-chat.json) |
 | 00:00 Zerotime | 180856 | [180856-00-00-zerotime.json](./180856-00-00-zerotime.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 000000FF0000 | 129818 | [129818-000000ff0000.json](./129818-000000ff0000.json) |
+| 0008: The Story | 83079 | [83079-0008-the-story.json](./83079-0008-the-story.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
 | 007 Charles 2 | 349891 | [349891-007-charles-2.json](./349891-007-charles-2.json) |
 | 007 First Light: Deluxe Edition | 405431 | [405431-007-first-light-deluxe-edition.json](./405431-007-first-light-deluxe-edition.json) |
@@ -511,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Things You Can Be | 379985 | [379985-10-things-you-can-be.json](./379985-10-things-you-can-be.json) |
 | 10 voor Taal | 268068 | [268068-10-voor-taal.json](./268068-10-voor-taal.json) |
 | 10 Ways From Sunday | 165500 | [165500-10-ways-from-sunday.json](./165500-10-ways-from-sunday.json) |
+| 10 x 10 | 83086 | [83086-10-x-10.json](./83086-10-x-10.json) |
 | 10 Years After | 36024 | [36024-10-years-after.json](./36024-10-years-after.json) |
 | 10 Years of Doom | 260499 | [260499-10-years-of-doom.json](./260499-10-years-of-doom.json) |
 | 10-103: Null Kelvin | 176835 | [176835-10-103-null-kelvin.json](./176835-10-103-null-kelvin.json) |
@@ -522,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-in-1 Games Bundle for Kids & Toddlers | 324219 | [324219-10-in-1-games-bundle-for-kids-and-toddlers.json](./324219-10-in-1-games-bundle-for-kids-and-toddlers.json) |
 | 10-in-1: Arcade Collection | 84612 | [84612-10-in-1-arcade-collection.json](./84612-10-in-1-arcade-collection.json) |
 | 10-Lignes 4en1 by retropoke | 267215 | [267215-10-lignes-4en1-by-retropoke.json](./267215-10-lignes-4en1-by-retropoke.json) |
+| 10-nin Yaru!: Soshite Densetsu he | 83072 | [83072-10-nin-yaru-soshite-densetsu-he.json](./83072-10-nin-yaru-soshite-densetsu-he.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
 | 10-Second Ghost | 314855 | [314855-10-second-ghost.json](./314855-10-second-ghost.json) |
@@ -885,8 +889,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Waves | 325500 | [325500-1000-waves.json](./325500-1000-waves.json) |
 | 1000 Word Search Puzzles | 232481 | [232481-1000-word-search-puzzles.json](./232481-1000-word-search-puzzles.json) |
 | 1000 Words | 322687 | [322687-1000-words.json](./322687-1000-words.json) |
+| 1000 Words | 83074 | [83074-1000-words.json](./83074-1000-words.json) |
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
 | 1000-Bit | 137930 | [137930-1000-bit.json](./137930-1000-bit.json) |
+| 1000-nen Oukoku | 83076 | [83076-1000-nen-oukoku.json](./83076-1000-nen-oukoku.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 1000$ | 213174 | [213174-1000.json](./213174-1000.json) |
 | 1000000 shrimp | 383975 | [383975-1000000-shrimp.json](./383975-1000000-shrimp.json) |
@@ -1226,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
 | 12 Rounds Against Satan | 100913 | [100913-12-rounds-against-satan.json](./100913-12-rounds-against-satan.json) |
 | 12 Tails Online | 208758 | [208758-12-tails-online.json](./208758-12-tails-online.json) |
+| 12 Tajnyh Knig | 83081 | [83081-12-tajnyh-knig.json](./83081-12-tajnyh-knig.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
 | 12 Word Searches | 381921 | [381921-12-word-searches.json](./381921-12-word-searches.json) |
 | 12-ji no Kane to Cinderella ~Halloween Wedding~ | 56552 | [56552-12-ji-no-kane-to-cinderella-halloween-wedding.json](./56552-12-ji-no-kane-to-cinderella-halloween-wedding.json) |
@@ -1252,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Kids Fun Puzzle Gold | 89543 | [89543-123-kids-fun-puzzle-gold.json](./89543-123-kids-fun-puzzle-gold.json) |
 | 123 Kids Fun Puzzle Green | 89721 | [89721-123-kids-fun-puzzle-green.json](./89721-123-kids-fun-puzzle-green.json) |
 | 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
+| 123 Maze | 83080 | [83080-123-maze.json](./83080-123-maze.json) |
 | 123 Mazes | 358058 | [358058-123-mazes.json](./358058-123-mazes.json) |
 | 123 Picture Match | 110220 | [110220-123-picture-match.json](./110220-123-picture-match.json) |
 | 123 Slaughter Me Street | 19810 | [19810-123-slaughter-me-street.json](./19810-123-slaughter-me-street.json) |
@@ -3994,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99Bullets | 84689 | [84689-99bullets.json](./84689-99bullets.json) |
 | 99Day Survival Guide | 424842 | [424842-99day-survival-guide.json](./424842-99day-survival-guide.json) |
 | 99Floors | 109093 | [109093-99floors.json](./109093-99floors.json) |
+| 99Moves | 84926 | [84926-99moves.json](./84926-99moves.json) |
 | 99Rooms | 346335 | [346335-99rooms.json](./346335-99rooms.json) |
 | 99Seconds | 84691 | [84691-99seconds.json](./84691-99seconds.json) |
 | 99Seconds | 84726 | [84726-99seconds.json](./84726-99seconds.json) |
