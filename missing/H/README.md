@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hear The Bell Toll | 357719 | [357719-hear-the-bell-toll.json](./357719-hear-the-bell-toll.json) |
 | Hear the Picture | 241589 | [241589-hear-the-picture.json](./241589-hear-the-picture.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
+| Heard There Was A Chosen One | 148009 | [148009-heard-there-was-a-chosen-one.json](./148009-heard-there-was-a-chosen-one.json) |
 | Heardle | 193526 | [193526-heardle.json](./193526-heardle.json) |
 | Hearing | 94131 | [94131-hearing.json](./94131-hearing.json) |
 | Hearing Voices | 405323 | [405323-hearing-voices.json](./405323-hearing-voices.json) |
@@ -11724,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Sugar Presents: The Melody of Dust | 31317 | [31317-hot-sugar-presents-the-melody-of-dust.json](./31317-hot-sugar-presents-the-melody-of-dust.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Summer Sylvie | 422815 | [422815-hot-summer-sylvie.json](./422815-hot-summer-sylvie.json) |
+| Hot Swap | 148010 | [148010-hot-swap.json](./148010-hot-swap.json) |
 | Hot Swap: Cyberlust | 169521 | [169521-hot-swap-cyberlust.json](./169521-hot-swap-cyberlust.json) |
 | Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
