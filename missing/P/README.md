@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Seed | 417739 | [417739-pandoras-seed.json](./417739-pandoras-seed.json) |
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
 | Pandoras Books | 241564 | [241564-pandoras-books.json](./241564-pandoras-books.json) |
+| Pandorex | 148057 | [148057-pandorex.json](./148057-pandorex.json) |
 | Pandoria | 148465 | [148465-pandoria.json](./148465-pandoria.json) |
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
 | Pandu | 169681 | [169681-pandu.json](./169681-pandu.json) |
@@ -3317,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path To Dragon | 301711 | [301711-path-to-dragon.json](./301711-path-to-dragon.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Gaea | 189324 | [189324-path-to-gaea.json](./189324-path-to-gaea.json) |
+| Path to Heaven | 148026 | [148026-path-to-heaven.json](./148026-path-to-heaven.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
 | Path to Magehood | 286941 | [286941-path-to-magehood.json](./286941-path-to-magehood.json) |
 | Path to Mnemosyne | 68450 | [68450-path-to-mnemosyne.json](./68450-path-to-mnemosyne.json) |
