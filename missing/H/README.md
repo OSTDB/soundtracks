@@ -4716,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbreachers | 145888 | [145888-hellbreachers.json](./145888-hellbreachers.json) |
 | Hellbreak | 323576 | [323576-hellbreak.json](./323576-hellbreak.json) |
 | Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
+| Hellbreath | 154100 | [154100-hellbreath.json](./154100-hellbreath.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellbridge | 399268 | [399268-hellbridge.json](./399268-hellbridge.json) |
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
@@ -10722,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | Hook&Loop | 220378 | [220378-hook-and-loop.json](./220378-hook-and-loop.json) |
+| Hookah Cafe Simulator | 154035 | [154035-hookah-cafe-simulator.json](./154035-hookah-cafe-simulator.json) |
 | Hookah Haze | 278806 | [278806-hookah-haze.json](./278806-hookah-haze.json) |
 | Hookbots | 112138 | [112138-hookbots.json](./112138-hookbots.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
