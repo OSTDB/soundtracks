@@ -5549,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Bass Fishing Duel | 22231 | [22231-sega-bass-fishing-duel.json](./22231-sega-bass-fishing-duel.json) |
 | Sega Brawlers Megamix | 316327 | [316327-sega-brawlers-megamix.json](./316327-sega-brawlers-megamix.json) |
 | Sega Casino | 22569 | [22569-sega-casino.json](./22569-sega-casino.json) |
+| Sega Casino Games | 130983 | [130983-sega-casino-games.json](./130983-sega-casino-games.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
@@ -11884,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver World | 290571 | [290571-silver-world.json](./290571-silver-world.json) |
 | Silver's Adventure | 326552 | [326552-silvers-adventure.json](./326552-silvers-adventure.json) |
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
+| Silverball Mania | 131003 | [131003-silverball-mania.json](./131003-silverball-mania.json) |
 | Silverblood | 196931 | [196931-silverblood.json](./196931-silverblood.json) |
 | Silverbrook: a Text-Based RPG | 404609 | [404609-silverbrook-a-text-based-rpg.json](./404609-silverbrook-a-text-based-rpg.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
@@ -15409,6 +15411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
 | Slot Car VR | 325809 | [325809-slot-car-vr.json](./325809-slot-car-vr.json) |
 | Slot Cave | 393245 | [393245-slot-cave.json](./393245-slot-cave.json) |
+| Slot City | 130991 | [130991-slot-city.json](./130991-slot-city.json) |
 | Slot Fever | 289286 | [289286-slot-fever.json](./289286-slot-fever.json) |
 | Slot Grind | 407715 | [407715-slot-grind.json](./407715-slot-grind.json) |
 | Slot Gun | 311124 | [311124-slot-gun.json](./311124-slot-gun.json) |
@@ -17952,6 +17955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
 | Sol Dorado Heist | 158331 | [158331-sol-dorado-heist.json](./158331-sol-dorado-heist.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
+| Sol Free Solitaire | 131020 | [131020-sol-free-solitaire.json](./131020-sol-free-solitaire.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
@@ -18401,6 +18405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Legends: Fables and Fairytales | 402012 | [402012-solitaire-legends-fables-and-fairytales.json](./402012-solitaire-legends-fables-and-fairytales.json) |
 | Solitaire Legends: Sakura Dreams | 405915 | [405915-solitaire-legends-sakura-dreams.json](./405915-solitaire-legends-sakura-dreams.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
+| Solitaire MAC | 131009 | [131009-solitaire-mac.json](./131009-solitaire-mac.json) |
 | Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
 | Solitaire Master 2 | 208878 | [208878-solitaire-master-2.json](./208878-solitaire-master-2.json) |
 | Solitaire Master 3 | 208879 | [208879-solitaire-master-3.json](./208879-solitaire-master-3.json) |
@@ -25207,6 +25212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporty Peppers | 227621 | [227621-sporty-peppers.json](./227621-sporty-peppers.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot and His Friends | 208768 | [208768-spot-and-his-friends.json](./208768-spot-and-his-friends.json) |
+| Spot Bowler | 131014 | [131014-spot-bowler.json](./131014-spot-bowler.json) |
 | Spot Challenge 3D | 379310 | [379310-spot-challenge-3d.json](./379310-spot-challenge-3d.json) |
 | Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
@@ -25739,6 +25745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Game | 159955 | [159955-square-game.json](./159955-square-game.json) |
 | Square Game | 373742 | [373742-square-game.json](./373742-square-game.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
+| Square Head | 131013 | [131013-square-head.json](./131013-square-head.json) |
 | Square Head Zombies | 65796 | [65796-square-head-zombies.json](./65796-square-head-zombies.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square Inertia | 251923 | [251923-square-inertia.json](./251923-square-inertia.json) |
@@ -26760,6 +26767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Platinum | 234564 | [234564-star-platinum.json](./234564-star-platinum.json) |
 | Star Point Explorer | 150563 | [150563-star-point-explorer.json](./150563-star-point-explorer.json) |
 | Star Police | 126962 | [126962-star-police.json](./126962-star-police.json) |
+| Star Pool | 131012 | [131012-star-pool.json](./131012-star-pool.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Project | 32068 | [32068-star-project.json](./32068-star-project.json) |
@@ -31436,6 +31444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Cars | 108331 | [108331-strike-cars.json](./108331-strike-cars.json) |
 | Strike City | 410390 | [410390-strike-city.json](./410390-strike-city.json) |
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
+| Strike Commander Speech Pack | 130998 | [130998-strike-commander-speech-pack.json](./130998-strike-commander-speech-pack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
 | Strike Daz Cans | 148325 | [148325-strike-daz-cans.json](./148325-strike-daz-cans.json) |
 | Strike Fighters | 80117 | [80117-strike-fighters.json](./80117-strike-fighters.json) |
@@ -32445,6 +32454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokiller | 417211 | [417211-sudokiller.json](./417211-sudokiller.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudokolorful | 162524 | [162524-sudokolorful.json](./162524-sudokolorful.json) |
+| Sudoku | 130985 | [130985-sudoku.json](./130985-sudoku.json) |
 | Sudoku | 131070 | [131070-sudoku.json](./131070-sudoku.json) |
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
@@ -33908,6 +33918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
 | Super Bros. 8 | 163222 | [163222-super-bros-8.json](./163222-super-bros-8.json) |
+| Super Bros. World. 1 | 130987 | [130987-super-bros-world-1.json](./130987-super-bros-world-1.json) |
 | Super Brothers Escape | 213384 | [213384-super-brothers-escape.json](./213384-super-brothers-escape.json) |
 | Super Bub Contest | 221786 | [221786-super-bub-contest.json](./221786-super-bub-contest.json) |
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
@@ -37157,6 +37168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Superfrog/Arcade Pool | 79510 | [79510-superfrog-arcade-pool.json](./79510-superfrog-arcade-pool.json) |
 | Supergalactix | 248241 | [248241-supergalactix.json](./248241-supergalactix.json) |
+| SuperGrind RPG | 130977 | [130977-supergrind-rpg.json](./130977-supergrind-rpg.json) |
 | Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHer | 63037 | [63037-superher.json](./63037-superher.json) |
