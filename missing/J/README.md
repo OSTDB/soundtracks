@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | J & J's Vegas Pack: Black-Jack | 131135 | [131135-j-and-js-vegas-pack-black-jack.json](./131135-j-and-js-vegas-pack-black-jack.json) |
 | J and the Sewer World | 285598 | [285598-j-and-the-sewer-world.json](./285598-j-and-the-sewer-world.json) |
+| J Connect | 119849 | [119849-j-connect.json](./119849-j-connect.json) |
 | J_O_U_R_N_E_Y | 390696 | [390696-j-o-u-r-n-e-y.json](./390696-j-o-u-r-n-e-y.json) |
 | J-Girl | 110141 | [110141-j-girl.json](./110141-j-girl.json) |
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
