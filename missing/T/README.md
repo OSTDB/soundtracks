@@ -33606,6 +33606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Enkidu | 379717 | [379717-trials-of-enkidu.json](./379717-trials-of-enkidu.json) |
 | Trials of Fire | 116992 | [116992-trials-of-fire.json](./116992-trials-of-fire.json) |
+| Trials of Fire: Inferno Edition | 164627 | [164627-trials-of-fire-inferno-edition.json](./164627-trials-of-fire-inferno-edition.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of Harmony ~ Experimental Visual Novel | 122816 | [122816-trials-of-harmony-experimental-visual-novel.json](./122816-trials-of-harmony-experimental-visual-novel.json) |
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
