@@ -14141,6 +14141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongirl | 191003 | [191003-bongirl.json](./191003-bongirl.json) |
 | Bongo | 13978 | [13978-bongo.json](./13978-bongo.json) |
 | Bongo | 240026 | [240026-bongo.json](./240026-bongo.json) |
+| Bongo Arena | 157725 | [157725-bongo-arena.json](./157725-bongo-arena.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
@@ -15382,6 +15383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boutique Builder Simulator | 337580 | [337580-boutique-builder-simulator.json](./337580-boutique-builder-simulator.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
+| Bow & Quiver | 157749 | [157749-bow-and-quiver.json](./157749-bow-and-quiver.json) |
 | Bow and Arrow | 67539 | [67539-bow-and-arrow.json](./67539-bow-and-arrow.json) |
 | Bow and Banister | 398052 | [398052-bow-and-banister.json](./398052-bow-and-banister.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
