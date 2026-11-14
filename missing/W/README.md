@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War on the Sea | 143137 | [143137-war-on-the-sea.json](./143137-war-on-the-sea.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
+| War Online Pacific | 113122 | [113122-war-online-pacific.json](./113122-war-online-pacific.json) |
 | War Operation: Full Contact | 220530 | [220530-war-operation-full-contact.json](./220530-war-operation-full-contact.json) |
 | War Operations | 17715 | [17715-war-operations.json](./17715-war-operations.json) |
 | War Over the Mideast | 59309 | [59309-war-over-the-mideast.json](./59309-war-over-the-mideast.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WEGO: WW2 Stalingrad | 194491 | [194491-wego-ww2-stalingrad.json](./194491-wego-ww2-stalingrad.json) |
 | Wehrschach | 139335 | [139335-wehrschach.json](./139335-wehrschach.json) |
 | Weightless | 183689 | [183689-weightless.json](./183689-weightless.json) |
+| Weightless: An immersive and relaxing experience | 113257 | [113257-weightless-an-immersive-and-relaxing-experience.json](./113257-weightless-an-immersive-and-relaxing-experience.json) |
 | WeightWare | 334162 | [334162-weightware.json](./334162-weightware.json) |
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
@@ -6618,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 8 2016 | 59618 | [59618-winning-post-8-2016.json](./59618-winning-post-8-2016.json) |
 | Winning Post 8 2017 | 54566 | [54566-winning-post-8-2017.json](./54566-winning-post-8-2017.json) |
 | Winning Post 8 2018 | 77782 | [77782-winning-post-8-2018.json](./77782-winning-post-8-2018.json) |
+| Winning Post 9 | 113105 | [113105-winning-post-9.json](./113105-winning-post-9.json) |
 | Winning Post 9 2020 | 136784 | [136784-winning-post-9-2020.json](./136784-winning-post-9-2020.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
 | Winning Post 9: 2022 | 201030 | [201030-winning-post-9-2022.json](./201030-winning-post-9-2022.json) |
