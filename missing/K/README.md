@@ -3810,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Pixels | 306219 | [306219-kingdom-of-pixels.json](./306219-kingdom-of-pixels.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
+| Kingdom of the Dead | 166793 | [166793-kingdom-of-the-dead.json](./166793-kingdom-of-the-dead.json) |
 | Kingdom of the Dinosaurs | 65072 | [65072-kingdom-of-the-dinosaurs.json](./65072-kingdom-of-the-dinosaurs.json) |
 | Kingdom of the Dragon | 54866 | [54866-kingdom-of-the-dragon.json](./54866-kingdom-of-the-dragon.json) |
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
