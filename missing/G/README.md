@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gasbound | 418611 | [418611-gasbound.json](./418611-gasbound.json) |
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gaserb | 188718 | [188718-gaserb.json](./188718-gaserb.json) |
+| Gasgar vs Gasgar | 92709 | [92709-gasgar-vs-gasgar.json](./92709-gasgar-vs-gasgar.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash | 260484 | [260484-gash.json](./260484-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
@@ -2945,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Shop | 54050 | [54050-gem-shop.json](./54050-gem-shop.json) |
 | Gem Smashers | 6419 | [6419-gem-smashers.json](./6419-gem-smashers.json) |
+| Gem Smashers | 92200 | [92200-gem-smashers.json](./92200-gem-smashers.json) |
 | Gem Stack | 216036 | [216036-gem-stack.json](./216036-gem-stack.json) |
 | Gem Stone Legend | 14775 | [14775-gem-stone-legend.json](./14775-gem-stone-legend.json) |
 | Gem Tales 2: Crystal Dragon | 415840 | [415840-gem-tales-2-crystal-dragon.json](./415840-gem-tales-2-crystal-dragon.json) |
@@ -5897,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
 | GM Golf Challenge | 401554 | [401554-gm-golf-challenge.json](./401554-gm-golf-challenge.json) |
 | GM Hockey 2009 | 72429 | [72429-gm-hockey-2009.json](./72429-gm-hockey-2009.json) |
+| GM Rally | 92736 | [92736-gm-rally.json](./92736-gm-rally.json) |
 | GMDX | 144168 | [144168-gmdx.json](./144168-gmdx.json) |
 | GMH: Good Morning Human! | 289246 | [289246-gmh-good-morning-human.json](./289246-gmh-good-morning-human.json) |
 | GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
@@ -6086,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Golf | 60885 | [60885-go-go-golf.json](./60885-go-go-golf.json) |
 | Go Go Gummo | 376523 | [376523-go-go-gummo.json](./376523-go-go-gummo.json) |
+| Go Go Jelly! | 92203 | [92203-go-go-jelly.json](./92203-go-go-jelly.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
 | Go Go Magnet! | 297513 | [297513-go-go-magnet.json](./297513-go-go-magnet.json) |
 | Go go mr yamaguchi | 39811 | [39811-go-go-mr-yamaguchi.json](./39811-go-go-mr-yamaguchi.json) |
@@ -10433,6 +10437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
+| Grimblood | 92743 | [92743-grimblood.json](./92743-grimblood.json) |
 | Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
 | Grimcastle: Battle Tales | 90156 | [90156-grimcastle-battle-tales.json](./90156-grimcastle-battle-tales.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
