@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastHands | 342997 | [342997-fasthands.json](./342997-fasthands.json) |
 | Fastidious | 130142 | [130142-fastidious.json](./130142-fastidious.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
+| Fastigium | 90938 | [90938-fastigium.json](./90938-fastigium.json) |
 | Fastigium: Dead End | 29089 | [29089-fastigium-dead-end.json](./29089-fastigium-dead-end.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
@@ -12942,6 +12943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell + | 96176 | [96176-freecell.json](./96176-freecell.json) |
 | FreeCell 2018 | 86693 | [86693-freecell-2018.json](./86693-freecell-2018.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
+| FreeCell Classic | 90878 | [90878-freecell-classic.json](./90878-freecell-classic.json) |
 | FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
 | FreeCell Quest | 35409 | [35409-freecell-quest.json](./35409-freecell-quest.json) |
 | Freecell Royale | 89049 | [89049-freecell-royale.json](./89049-freecell-royale.json) |
