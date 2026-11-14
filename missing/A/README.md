@@ -15984,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
 | Arrow | 215462 | [215462-arrow.json](./215462-arrow.json) |
 | Arrow a Row | 262248 | [262248-arrow-a-row.json](./262248-arrow-a-row.json) |
+| Arrow Battle Online | 151774 | [151774-arrow-battle-online.json](./151774-arrow-battle-online.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
