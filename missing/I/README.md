@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Print | 379788 | [379788-in-print.json](./379788-in-print.json) |
 | In Purr-Suit | 332966 | [332966-in-purr-suit.json](./332966-in-purr-suit.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
+| In Rays of the Light | 144416 | [144416-in-rays-of-the-light.json](./144416-in-rays-of-the-light.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
 | In Retrospect | 121112 | [121112-in-retrospect.json](./121112-in-retrospect.json) |
 | In Ruins | 418307 | [418307-in-ruins.json](./418307-in-ruins.json) |
@@ -4818,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Voices | 30429 | [30429-inner-voices.json](./30429-inner-voices.json) |
 | Inner Worlds | 132392 | [132392-inner-worlds.json](./132392-inner-worlds.json) |
 | Inner Worlds | 70482 | [70482-inner-worlds.json](./70482-inner-worlds.json) |
+| Inner-Tube Climber | 144411 | [144411-inner-tube-climber.json](./144411-inner-tube-climber.json) |
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
@@ -5683,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
 | Interview With the Whisperer | 141366 | [141366-interview-with-the-whisperer.json](./141366-interview-with-the-whisperer.json) |
+| Intervilles, le jeu officiel | 144396 | [144396-intervilles-le-jeu-officiel.json](./144396-intervilles-le-jeu-officiel.json) |
 | InterViolence | 387818 | [387818-interviolence.json](./387818-interviolence.json) |
 | Intervoid | 380166 | [380166-intervoid.json](./380166-intervoid.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
@@ -5884,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introvert | 337573 | [337573-introvert.json](./337573-introvert.json) |
 | Introvert | 80096 | [80096-introvert.json](./80096-introvert.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
+| Introvert: A Teenager Simulator | 144397 | [144397-introvert-a-teenager-simulator.json](./144397-introvert-a-teenager-simulator.json) |
 | Introvert: Consequences | 192727 | [192727-introvert-consequences.json](./192727-introvert-consequences.json) |
 | Intrude | 20469 | [20469-intrude.json](./20469-intrude.json) |
 | Intruder | 245134 | [245134-intruder.json](./245134-intruder.json) |
