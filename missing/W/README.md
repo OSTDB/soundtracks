@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand Out: A 3D Magical Gay Novel | 211891 | [211891-wand-out-a-3d-magical-gay-novel.json](./211891-wand-out-a-3d-magical-gay-novel.json) |
 | Wand Wars | 33992 | [33992-wand-wars.json](./33992-wand-wars.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
+| Wand Wars: Rise | 114471 | [114471-wand-wars-rise.json](./114471-wand-wars-rise.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
@@ -3798,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
 | Wells & Fargo | 78840 | [78840-wells-and-fargo.json](./78840-wells-and-fargo.json) |
 | Wellspring: Altar of Roots | 76984 | [76984-wellspring-altar-of-roots.json](./76984-wellspring-altar-of-roots.json) |
+| WellTown | 114477 | [114477-welltown.json](./114477-welltown.json) |
 | Welltris | 12872 | [12872-welltris.json](./12872-welltris.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
