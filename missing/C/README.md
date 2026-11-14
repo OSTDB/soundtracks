@@ -16348,6 +16348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corewave Defenders | 382292 | [382292-corewave-defenders.json](./382292-corewave-defenders.json) |
+| Corey Coolbrew | 135323 | [135323-corey-coolbrew.json](./135323-corey-coolbrew.json) |
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
 | Corgi | 202671 | [202671-corgi.json](./202671-corgi.json) |
 | Corgi Cove | 223514 | [223514-corgi-cove.json](./223514-corgi-cove.json) |
@@ -22751,6 +22752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War Apocalypse | 166934 | [166934-cyber-war-apocalypse.json](./166934-cyber-war-apocalypse.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
+| Cyber War: Fight to the Last Man | 135315 | [135315-cyber-war-fight-to-the-last-man.json](./135315-cyber-war-fight-to-the-last-man.json) |
 | Cyber Warrior | 83970 | [83970-cyber-warrior.json](./83970-cyber-warrior.json) |
 | Cyber West: Hidden Object Games - Western | 232525 | [232525-cyber-west-hidden-object-games-western.json](./232525-cyber-west-hidden-object-games-western.json) |
 | Cyber Workshop | 292405 | [292405-cyber-workshop.json](./292405-cyber-workshop.json) |
