@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Conspiracy | 26282 | [26282-watch-dogs-conspiracy.json](./26282-watch-dogs-conspiracy.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
+| Watch Dogs: Legion - Deluxe Edition | 164616 | [164616-watch-dogs-legion-deluxe-edition.json](./164616-watch-dogs-legion-deluxe-edition.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
 | Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
 | Watch Dogs: Legion - Limited Edition | 135982 | [135982-watch-dogs-legion-limited-edition.json](./135982-watch-dogs-legion-limited-edition.json) |
