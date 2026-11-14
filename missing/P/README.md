@@ -1597,9 +1597,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps: Grand Campaign - '43 | 167958 | [167958-panzer-corps-grand-campaign-43.json](./167958-panzer-corps-grand-campaign-43.json) |
 | Panzer Corps: Grand Campaign - '44 East | 167952 | [167952-panzer-corps-grand-campaign-44-east.json](./167952-panzer-corps-grand-campaign-44-east.json) |
 | Panzer Corps: Grand Campaign - '44 West | 167948 | [167948-panzer-corps-grand-campaign-44-west.json](./167948-panzer-corps-grand-campaign-44-west.json) |
+| Panzer Corps: Grand Campaign - '45 East | 167932 | [167932-panzer-corps-grand-campaign-45-east.json](./167932-panzer-corps-grand-campaign-45-east.json) |
 | Panzer Corps: Grand Campaign - '45 West | 167959 | [167959-panzer-corps-grand-campaign-45-west.json](./167959-panzer-corps-grand-campaign-45-west.json) |
 | Panzer Corps: Sea Lion | 167949 | [167949-panzer-corps-sea-lion.json](./167949-panzer-corps-sea-lion.json) |
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
+| Panzer Corps: U.S. Corps '42 | 167946 | [167946-panzer-corps-u-s-corps-42.json](./167946-panzer-corps-u-s-corps-42.json) |
 | Panzer Corps: U.S. Corps '43 | 167950 | [167950-panzer-corps-u-s-corps-43.json](./167950-panzer-corps-u-s-corps-43.json) |
 | Panzer Corps: U.S. Corps '44-'45 | 167955 | [167955-panzer-corps-u-s-corps-44-45.json](./167955-panzer-corps-u-s-corps-44-45.json) |
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
