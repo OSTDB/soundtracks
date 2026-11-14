@@ -9195,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Peace Simulator 2019 | 115170 | [115170-world-peace-simulator-2019.json](./115170-world-peace-simulator-2019.json) |
 | World Piece and Peace | 191335 | [191335-world-piece-and-peace.json](./191335-world-piece-and-peace.json) |
 | World Ping Pong Championship | 118890 | [118890-world-ping-pong-championship.json](./118890-world-ping-pong-championship.json) |
+| World Pirate Wars | 159409 | [159409-world-pirate-wars.json](./159409-world-pirate-wars.json) |
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
 | World Poker Championship 2: Final Table Showdown | 69956 | [69956-world-poker-championship-2-final-table-showdown.json](./69956-world-poker-championship-2-final-table-showdown.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
