@@ -4071,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
 | Feed Da King | 308139 | [308139-feed-da-king.json](./308139-feed-da-king.json) |
 | Feed Eggs | 252193 | [252193-feed-eggs.json](./252193-feed-eggs.json) |
+| Feed Eve | 88330 | [88330-feed-eve.json](./88330-feed-eve.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed Him | 236176 | [236176-feed-him.json](./236176-feed-him.json) |
 | Feed Hunter: Grow Fish Battle | 108093 | [108093-feed-hunter-grow-fish-battle.json](./108093-feed-hunter-grow-fish-battle.json) |
@@ -8185,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Birdie | 228224 | [228224-flappy-birdie.json](./228224-flappy-birdie.json) |
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
 | Flappy Birds Family | 61207 | [61207-flappy-birds-family.json](./61207-flappy-birds-family.json) |
+| Flappy Blue Bird | 88572 | [88572-flappy-blue-bird.json](./88572-flappy-blue-bird.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Boy | 305720 | [305720-flappy-boy.json](./305720-flappy-boy.json) |
 | Flappy Brolly | 255008 | [255008-flappy-brolly.json](./255008-flappy-brolly.json) |
@@ -8638,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Game | 245476 | [245476-flight-game.json](./245476-flight-game.json) |
 | Flight Level | 224931 | [224931-flight-level.json](./224931-flight-level.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
+| Flight Madness School Simulator | 88519 | [88519-flight-madness-school-simulator.json](./88519-flight-madness-school-simulator.json) |
 | Flight Mania | 76147 | [76147-flight-mania.json](./76147-flight-mania.json) |
 | Flight Masters: The Horizon Chase | 322121 | [322121-flight-masters-the-horizon-chase.json](./322121-flight-masters-the-horizon-chase.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
