@@ -1148,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natures Ascendancy | 301237 | [301237-natures-ascendancy.json](./301237-natures-ascendancy.json) |
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
 | Naturpark Lillebælt VR | 264721 | [264721-naturpark-lilleb-lt-vr.json](./264721-naturpark-lilleb-lt-vr.json) |
+| Naudrion: Fall of The Empire | 157227 | [157227-naudrion-fall-of-the-empire.json](./157227-naudrion-fall-of-the-empire.json) |
 | Naufrage | 182888 | [182888-naufrage.json](./182888-naufrage.json) |
 | Naufrago | 133610 | [133610-naufrago.json](./133610-naufrago.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
@@ -3011,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nero's Adventure | 189795 | [189795-neros-adventure.json](./189795-neros-adventure.json) |
 | Nerobi | 300485 | [300485-nerobi.json](./300485-nerobi.json) |
 | Nerraia | 192270 | [192270-nerraia.json](./192270-nerraia.json) |
+| Nerthus: Einar's Fate | 157256 | [157256-nerthus-einars-fate.json](./157256-nerthus-einars-fate.json) |
 | Nerts Extreme | 107660 | [107660-nerts-extreme.json](./107660-nerts-extreme.json) |
 | Nerts!: Online | 142226 | [142226-nerts-online.json](./142226-nerts-online.json) |
 | Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
