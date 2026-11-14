@@ -1409,7 +1409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
 | Samuda Interval | 216924 | [216924-samuda-interval.json](./216924-samuda-interval.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
-| Samudra | 126534 | [126534-samudra.json](./126534-samudra.json) |
 | Samuel Prince Attorney at Law: Chapter 1 | 365593 | [365593-samuel-prince-attorney-at-law-chapter-1.json](./365593-samuel-prince-attorney-at-law-chapter-1.json) |
 | Samuel Prince Attorney at Law: Chapter 3 | 386826 | [386826-samuel-prince-attorney-at-law-chapter-3.json](./386826-samuel-prince-attorney-at-law-chapter-3.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
@@ -4356,9 +4355,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Generation: Babylonia Kenkoku Senki | 66476 | [66476-sd-gundam-generation-babylonia-kenkoku-senki.json](./66476-sd-gundam-generation-babylonia-kenkoku-senki.json) |
 | SD Gundam Generation: Colony Kaku Senki | 66475 | [66475-sd-gundam-generation-colony-kaku-senki.json](./66475-sd-gundam-generation-colony-kaku-senki.json) |
 | SD Gundam Generation: Gryps Senki | 66478 | [66478-sd-gundam-generation-gryps-senki.json](./66478-sd-gundam-generation-gryps-senki.json) |
+| SD Gundam Generation: Ichi-nen Sensouki | 78768 | [78768-sd-gundam-generation-ichi-nen-sensouki.json](./78768-sd-gundam-generation-ichi-nen-sensouki.json) |
 | SD Gundam Generation: Zanscare Senki | 66474 | [66474-sd-gundam-generation-zanscare-senki.json](./66474-sd-gundam-generation-zanscare-senki.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
+| SD Gundam Next Evolution | 78770 | [78770-sd-gundam-next-evolution.json](./78770-sd-gundam-next-evolution.json) |
 | SD Gundam Online | 23616 | [23616-sd-gundam-online.json](./23616-sd-gundam-online.json) |
 | SD Gundam Over Galaxian | 159231 | [159231-sd-gundam-over-galaxian.json](./159231-sd-gundam-over-galaxian.json) |
 | SD Gundam Power Formation Puzzle | 38327 | [38327-sd-gundam-power-formation-puzzle.json](./38327-sd-gundam-power-formation-puzzle.json) |
@@ -7924,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Trial | 269467 | [269467-shady-trial.json](./269467-shady-trial.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Poopong | 63786 | [63786-shadys-poopong.json](./63786-shadys-poopong.json) |
+| Shady's Poopong: 20th Anniversary Edition | 78807 | [78807-shadys-poopong-20th-anniversary-edition.json](./78807-shadys-poopong-20th-anniversary-edition.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
 | Shaft Hero | 314209 | [314209-shaft-hero.json](./314209-shaft-hero.json) |
@@ -10558,7 +10560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
 | Shovel Knight: King of Cards | 27241 | [27241-shovel-knight-king-of-cards.json](./27241-shovel-knight-king-of-cards.json) |
 | Shovel Knight: Plague of Shadows | 20027 | [20027-shovel-knight-plague-of-shadows.json](./20027-shovel-knight-plague-of-shadows.json) |
-| Shovel Knight: Pocket Dungeon | 133503 | [133503-shovel-knight-pocket-dungeon.json](./133503-shovel-knight-pocket-dungeon.json) |
 | Shovel Knight: Pocket Dungeon - Paradox Pack DLC | 305756 | [305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json](./305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json) |
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
@@ -10704,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
 | Shrek Treasure Hunt | 44967 | [44967-shrek-treasure-hunt.json](./44967-shrek-treasure-hunt.json) |
 | Shrek-N-Roll | 21885 | [21885-shrek-n-roll.json](./21885-shrek-n-roll.json) |
+| Shrek: Dragon's Tale | 78808 | [78808-shrek-dragons-tale.json](./78808-shrek-dragons-tale.json) |
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek: Hassle at the Castle | 49241 | [49241-shrek-hassle-at-the-castle.json](./49241-shrek-hassle-at-the-castle.json) |
@@ -15000,6 +15002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicker City | 57492 | [57492-slicker-city.json](./57492-slicker-city.json) |
 | Slickpoo : The Clown | 103983 | [103983-slickpoo-the-clown.json](./103983-slickpoo-the-clown.json) |
+| Slicks | 78803 | [78803-slicks.json](./78803-slicks.json) |
 | Slicks 'n' Slide | 11773 | [11773-slicks-n-slide.json](./11773-slicks-n-slide.json) |
 | Slickwave | 423401 | [423401-slickwave.json](./423401-slickwave.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
@@ -31551,7 +31554,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage 4 | 241863 | [241863-streets-of-rage-4.json](./241863-streets-of-rage-4.json) |
 | Streets of Rage 4 Classic Edition | 384320 | [384320-streets-of-rage-4-classic-edition.json](./384320-streets-of-rage-4-classic-edition.json) |
 | Streets of Rage 4: Anniversary Edition | 155168 | [155168-streets-of-rage-4-anniversary-edition.json](./155168-streets-of-rage-4-anniversary-edition.json) |
-| Streets of Rage 4: Mr X. Nightmare | 152126 | [152126-streets-of-rage-4-mr-x-nightmare.json](./152126-streets-of-rage-4-mr-x-nightmare.json) |
 | Streets of Rage 4: Signature Edition | 136048 | [136048-streets-of-rage-4-signature-edition.json](./136048-streets-of-rage-4-signature-edition.json) |
 | Streets of Rage 4: Special Edition | 167055 | [167055-streets-of-rage-4-special-edition.json](./167055-streets-of-rage-4-special-edition.json) |
 | Streets of Rage Remake | 72327 | [72327-streets-of-rage-remake.json](./72327-streets-of-rage-remake.json) |
@@ -39606,7 +39608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Dimacreation: Side Story 3 - The Last, But Never End | 97517 | [97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json](./97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json) |
 | Sword of the Guardian | 96414 | [96414-sword-of-the-guardian.json](./96414-sword-of-the-guardian.json) |
 | Sword of the Last Second | 419433 | [419433-sword-of-the-last-second.json](./419433-sword-of-the-last-second.json) |
-| Sword of the Necromancer | 125885 | [125885-sword-of-the-necromancer.json](./125885-sword-of-the-necromancer.json) |
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Revenant | 228280 | [228280-sword-of-the-necromancer-revenant.json](./228280-sword-of-the-necromancer-revenant.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
