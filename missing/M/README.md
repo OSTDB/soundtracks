@@ -8939,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaCity | 262210 | [262210-megacity.json](./262210-megacity.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
+| Megacopter: Blades of the Goddess | 132927 | [132927-megacopter-blades-of-the-goddess.json](./132927-megacopter-blades-of-the-goddess.json) |
 | Megacraft Hentai And Zombies | 366533 | [366533-megacraft-hentai-and-zombies.json](./366533-megacraft-hentai-and-zombies.json) |
 | Megacraft Hentai Apocalipsis | 366534 | [366534-megacraft-hentai-apocalipsis.json](./366534-megacraft-hentai-apocalipsis.json) |
 | Megacraft Hentai Battlegrounds | 147543 | [147543-megacraft-hentai-battlegrounds.json](./147543-megacraft-hentai-battlegrounds.json) |
@@ -18019,6 +18020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster's Fair | 60660 | [60660-monsters-fair.json](./60660-monsters-fair.json) |
 | Monster’s First Love | 254945 | [254945-monster-s-first-love.json](./254945-monster-s-first-love.json) |
 | Monster's Inc. Peek A Boo Boo's Door Game | 343341 | [343341-monsters-inc-peek-a-boo-boos-door-game.json](./343341-monsters-inc-peek-a-boo-boos-door-game.json) |
+| Monster's Mall | 132876 | [132876-monsters-mall.json](./132876-monsters-mall.json) |
 | Monster&Strategy | 249993 | [249993-monster-and-strategy.json](./249993-monster-and-strategy.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
