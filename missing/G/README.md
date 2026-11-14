@@ -6404,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Quest: Remake | 313534 | [313534-goblin-quest-remake.json](./313534-goblin-quest-remake.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
+| Goblin Rush | 149647 | [149647-goblin-rush.json](./149647-goblin-rush.json) |
 | Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
 | Goblin Siege: Protect the Castle! | 271024 | [271024-goblin-siege-protect-the-castle.json](./271024-goblin-siege-protect-the-castle.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | Gourmet Chef Challenge: Around the World | 106731 | [106731-gourmet-chef-challenge-around-the-world.json](./106731-gourmet-chef-challenge-around-the-world.json) |
 | Gourmet Dream | 85630 | [85630-gourmet-dream.json](./85630-gourmet-dream.json) |
+| Gourmet Food Wizard | 149658 | [149658-gourmet-food-wizard.json](./149658-gourmet-food-wizard.json) |
 | Gourmet Guy's 1000 IQ Food Quiz | 215857 | [215857-gourmet-guys-1000-iq-food-quiz.json](./215857-gourmet-guys-1000-iq-food-quiz.json) |
 | Gourmet Race | 271261 | [271261-gourmet-race.json](./271261-gourmet-race.json) |
 | Gourmet Race | 271403 | [271403-gourmet-race.json](./271403-gourmet-race.json) |
