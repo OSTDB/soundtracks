@@ -6649,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
 | Before Began | 157363 | [157363-before-began.json](./157363-before-began.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
+| Before Crisis: Final Fantasy VII | 80033 | [80033-before-crisis-final-fantasy-vii.json](./80033-before-crisis-final-fantasy-vii.json) |
 | Before Crisis: Remake | 146943 | [146943-before-crisis-remake.json](./146943-before-crisis-remake.json) |
 | Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
 | Before Darkness Falls | 406411 | [406411-before-darkness-falls.json](./406411-before-darkness-falls.json) |
