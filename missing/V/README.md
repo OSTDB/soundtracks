@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Night Road: Secrets and Shadows | 174170 | [174170-vampire-the-masquerade-night-road-secrets-and-shadows.json](./174170-vampire-the-masquerade-night-road-secrets-and-shadows.json) |
 | Vampire: The Masquerade - Night Road: Usurpers and Outcasts | 172306 | [172306-vampire-the-masquerade-night-road-usurpers-and-outcasts.json](./172306-vampire-the-masquerade-night-road-usurpers-and-outcasts.json) |
+| Vampire: The Masquerade - Out for Blood | 133514 | [133514-vampire-the-masquerade-out-for-blood.json](./133514-vampire-the-masquerade-out-for-blood.json) |
 | Vampire: The Masquerade - Parliament of Knives | 133402 | [133402-vampire-the-masquerade-parliament-of-knives.json](./133402-vampire-the-masquerade-parliament-of-knives.json) |
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
 | Vampire: The Masquerade - Reckoning of New York | 305291 | [305291-vampire-the-masquerade-reckoning-of-new-york.json](./305291-vampire-the-masquerade-reckoning-of-new-york.json) |
