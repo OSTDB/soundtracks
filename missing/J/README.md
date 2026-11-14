@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Kung-Fu | 21038 | [21038-johnny-kung-fu.json](./21038-johnny-kung-fu.json) |
 | Johnny Lionface | 167541 | [167541-johnny-lionface.json](./167541-johnny-lionface.json) |
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
+| Johnny Mystery and the Halloween Killer | 150797 | [150797-johnny-mystery-and-the-halloween-killer.json](./150797-johnny-mystery-and-the-halloween-killer.json) |
 | Johnny Nero Action Hero | 72993 | [72993-johnny-nero-action-hero.json](./72993-johnny-nero-action-hero.json) |
 | Johnny Ostad's Collection Bundle | 332352 | [332352-johnny-ostads-collection-bundle.json](./332352-johnny-ostads-collection-bundle.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
