@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 210019 | [210019-paradise.json](./210019-paradise.json) |
 | Paradise | 288319 | [288319-paradise.json](./288319-paradise.json) |
 | Paradise | 86175 | [86175-paradise.json](./86175-paradise.json) |
+| Paradise | 90259 | [90259-paradise.json](./90259-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
 | Paradise Away | 150953 | [150953-paradise-away.json](./150953-paradise-away.json) |
@@ -6130,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pheasants Forever | 23393 | [23393-pheasants-forever.json](./23393-pheasants-forever.json) |
 | Pheasants Forever: Wingshooter | 51112 | [51112-pheasants-forever-wingshooter.json](./51112-pheasants-forever-wingshooter.json) |
 | Pheenix | 93432 | [93432-pheenix.json](./93432-pheenix.json) |
+| Pheer | 90171 | [90171-pheer.json](./90171-pheer.json) |
 | Pheles Rebirth | 423298 | [423298-pheles-rebirth.json](./423298-pheles-rebirth.json) |
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
