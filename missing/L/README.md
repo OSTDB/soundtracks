@@ -3533,6 +3533,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel's Avengers | 11069 | [11069-lego-marvels-avengers.json](./11069-lego-marvels-avengers.json) |
 | LEGO Marvel's Avengers | 423220 | [423220-lego-marvels-avengers.json](./423220-lego-marvels-avengers.json) |
+| LEGO Marvel's Avengers: All-New, All-Different Doctor Strange Pack | 137717 | [137717-lego-marvels-avengers-all-new-all-different-doctor-strange-pack.json](./137717-lego-marvels-avengers-all-new-all-different-doctor-strange-pack.json) |
+| LEGO Marvel's Avengers: Classic Black Panther Pack | 137699 | [137699-lego-marvels-avengers-classic-black-panther-pack.json](./137699-lego-marvels-avengers-classic-black-panther-pack.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
 | LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack | 137633 | [137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json](./137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json) |
@@ -4002,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
 | Let Them Fall | 265509 | [265509-let-them-fall.json](./265509-let-them-fall.json) |
 | Let Them Fight | 262841 | [262841-let-them-fight.json](./262841-let-them-fight.json) |
+| Let Them Trade | 137703 | [137703-let-them-trade.json](./137703-let-them-trade.json) |
 | Let There Be Cat! | 183539 | [183539-let-there-be-cat.json](./183539-let-there-be-cat.json) |
 | Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
 | Let There Be Light | 197025 | [197025-let-there-be-light.json](./197025-let-there-be-light.json) |
@@ -5243,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of the Mountain | 44213 | [44213-light-of-the-mountain.json](./44213-light-of-the-mountain.json) |
 | Light of the Past | 199480 | [199480-light-of-the-past.json](./199480-light-of-the-past.json) |
 | Light of the Stars | 298753 | [298753-light-of-the-stars.json](./298753-light-of-the-stars.json) |
+| Light of Thel: Glory of Cepheus | 137724 | [137724-light-of-thel-glory-of-cepheus.json](./137724-light-of-thel-glory-of-cepheus.json) |
 | Light of Tomorrow | 167667 | [167667-light-of-tomorrow.json](./167667-light-of-tomorrow.json) |
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light On | 244660 | [244660-light-on.json](./244660-light-on.json) |
