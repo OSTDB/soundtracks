@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger World | 345965 | [345965-danger-world.json](./345965-danger-world.json) |
+| Danger Zombies | 166860 | [166860-danger-zombies.json](./166860-danger-zombies.json) |
 | Danger Zombies | 169031 | [169031-danger-zombies.json](./169031-danger-zombies.json) |
 | Danger Zone | 277687 | [277687-danger-zone.json](./277687-danger-zone.json) |
 | Danger Zone | 28242 | [28242-danger-zone.json](./28242-danger-zone.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness: Prince of Shadows | 286023 | [286023-darkness-prince-of-shadows.json](./286023-darkness-prince-of-shadows.json) |
 | Darknesssssssssssssssss | 303458 | [303458-darknesssssssssssssssss.json](./303458-darknesssssssssssssssss.json) |
 | Darknet | 99512 | [99512-darknet.json](./99512-darknet.json) |
+| DarKnot | 166855 | [166855-darknot.json](./166855-darknot.json) |
 | Darko | 373124 | [373124-darko.json](./373124-darko.json) |
 | Darkodai | 361256 | [361256-darkodai.json](./361256-darkodai.json) |
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
@@ -10957,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | Dirt Rally 2.0 | 110411 | [110411-dirt-rally-2-0.json](./110411-dirt-rally-2-0.json) |
 | Dirt Rally 2.0: Bikernieki, Latvia (Rallycross Track) | 166342 | [166342-dirt-rally-2-0-bikernieki-latvia-rallycross-track.json](./166342-dirt-rally-2-0-bikernieki-latvia-rallycross-track.json) |
+| Dirt Rally 2.0: Colin McRae - Flat Out Pack | 166340 | [166340-dirt-rally-2-0-colin-mcrae-flat-out-pack.json](./166340-dirt-rally-2-0-colin-mcrae-flat-out-pack.json) |
 | Dirt Rally 2.0: Day One Edition | 135972 | [135972-dirt-rally-2-0-day-one-edition.json](./135972-dirt-rally-2-0-day-one-edition.json) |
 | DiRT Rally 2.0: Digital Deluxe Edition | 122656 | [122656-dirt-rally-2-0-digital-deluxe-edition.json](./122656-dirt-rally-2-0-digital-deluxe-edition.json) |
 | Dirt Rally 2.0: Estering, Germany (Rallycross Track) | 166347 | [166347-dirt-rally-2-0-estering-germany-rallycross-track.json](./166347-dirt-rally-2-0-estering-germany-rallycross-track.json) |
@@ -10965,8 +10968,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Rally 2.0: Germany (Rally Location) | 166345 | [166345-dirt-rally-2-0-germany-rally-location.json](./166345-dirt-rally-2-0-germany-rally-location.json) |
 | Dirt Rally 2.0: Greece (Rally Location) | 166343 | [166343-dirt-rally-2-0-greece-rally-location.json](./166343-dirt-rally-2-0-greece-rally-location.json) |
 | Dirt Rally 2.0: Killarney International Raceway, South Africa (Rallycross Track) | 166344 | [166344-dirt-rally-2-0-killarney-international-raceway-south-africa-rallycross-track.json](./166344-dirt-rally-2-0-killarney-international-raceway-south-africa-rallycross-track.json) |
+| Dirt Rally 2.0: Lydden Hill, UK (Rallycross Track) | 166339 | [166339-dirt-rally-2-0-lydden-hill-uk-rallycross-track.json](./166339-dirt-rally-2-0-lydden-hill-uk-rallycross-track.json) |
+| Dirt Rally 2.0: Monte Carlo (Rally Location) | 166337 | [166337-dirt-rally-2-0-monte-carlo-rally-location.json](./166337-dirt-rally-2-0-monte-carlo-rally-location.json) |
 | DiRT Rally 2.0: Super Deluxe Edition | 122657 | [122657-dirt-rally-2-0-super-deluxe-edition.json](./122657-dirt-rally-2-0-super-deluxe-edition.json) |
 | Dirt Rally 2.0: Sweden (Rally Location) | 166348 | [166348-dirt-rally-2-0-sweden-rally-location.json](./166348-dirt-rally-2-0-sweden-rally-location.json) |
+| Dirt Rally 2.0: Wales (Rally Location) | 166338 | [166338-dirt-rally-2-0-wales-rally-location.json](./166338-dirt-rally-2-0-wales-rally-location.json) |
+| Dirt Rally 2.0: Yas Marina Circuit, Abu Dhabi (Rallycross Track) | 166341 | [166341-dirt-rally-2-0-yas-marina-circuit-abu-dhabi-rallycross-track.json](./166341-dirt-rally-2-0-yas-marina-circuit-abu-dhabi-rallycross-track.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
@@ -15613,6 +15620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Brain Thinking Games: Puzzle Madness | 72141 | [72141-dr-brain-thinking-games-puzzle-madness.json](./72141-dr-brain-thinking-games-puzzle-madness.json) |
 | Dr. Brain: Action Reaction | 64016 | [64016-dr-brain-action-reaction.json](./64016-dr-brain-action-reaction.json) |
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
+| Dr. Byte | 166790 | [166790-dr-byte.json](./166790-dr-byte.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Cares: Family Practice | 112759 | [112759-dr-cares-family-practice.json](./112759-dr-cares-family-practice.json) |
 | Dr. Cares: Pet Rescue 911 | 59568 | [59568-dr-cares-pet-rescue-911.json](./59568-dr-cares-pet-rescue-911.json) |
