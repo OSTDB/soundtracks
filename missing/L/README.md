@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
 | L-Way | 105150 | [105150-l-way.json](./105150-l-way.json) |
+| L-Zone | 93271 | [93271-l-zone.json](./93271-l-zone.json) |
 | L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
 | L. Frank Baum's: The Wonderful Wizard of Oz | 64852 | [64852-l-frank-baums-the-wonderful-wizard-of-oz.json](./64852-l-frank-baums-the-wonderful-wizard-of-oz.json) |
 | L.3.3.T. | 248422 | [248422-l-3-3-t.json](./248422-l-3-3-t.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
 | La Crapule | 386319 | [386319-la-crapule.json](./386319-la-crapule.json) |
+| La Croix Pan | 93246 | [93246-la-croix-pan.json](./93246-la-croix-pan.json) |
 | La Crypte des Maudits | 320777 | [320777-la-crypte-des-maudits.json](./320777-la-crypte-des-maudits.json) |
 | La Crypte des Maudits | 334970 | [334970-la-crypte-des-maudits.json](./334970-la-crypte-des-maudits.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeadCount | 388450 | [388450-leadcount.json](./388450-leadcount.json) |
 | Leaden Sky: Nightmares | 286100 | [286100-leaden-sky-nightmares.json](./286100-leaden-sky-nightmares.json) |
 | Leader | 170846 | [170846-leader.json](./170846-leader.json) |
+| Leader Board Par 4 | 93287 | [93287-leader-board-par-4.json](./93287-leader-board-par-4.json) |
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leaderboard Executive Edition | 47185 | [47185-leaderboard-executive-edition.json](./47185-leaderboard-executive-edition.json) |
@@ -8712,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Reinos de Aethermoor | 396577 | [396577-los-reinos-de-aethermoor.json](./396577-los-reinos-de-aethermoor.json) |
 | Los Rostros del Bosque | 241258 | [241258-los-rostros-del-bosque.json](./241258-los-rostros-del-bosque.json) |
 | Los Secretos de Altura | 323849 | [323849-los-secretos-de-altura.json](./323849-los-secretos-de-altura.json) |
+| Los Templos Sagrados | 93266 | [93266-los-templos-sagrados.json](./93266-los-templos-sagrados.json) |
 | Lose 95 | 201112 | [201112-lose-95.json](./201112-lose-95.json) |
 | Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Control | 380642 | [380642-lose-control.json](./380642-lose-control.json) |
