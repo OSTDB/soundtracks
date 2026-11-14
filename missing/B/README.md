@@ -7301,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernadette and the Demon Circus | 129449 | [129449-bernadette-and-the-demon-circus.json](./129449-bernadette-and-the-demon-circus.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
+| Bernd das Brot und die Unmöglichen | 129882 | [129882-bernd-das-brot-und-die-unmoglichen.json](./129882-bernd-das-brot-und-die-unmoglichen.json) |
 | Bernie Needs Love | 35168 | [35168-bernie-needs-love.json](./35168-bernie-needs-love.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
@@ -16584,6 +16585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadbox Game Pack | 138711 | [138711-breadbox-game-pack.json](./138711-breadbox-game-pack.json) |
 | Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
+| BreadHead Adventure | 129837 | [129837-breadhead-adventure.json](./129837-breadhead-adventure.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
 | Breadleg | 344496 | [344496-breadleg.json](./344496-breadleg.json) |
