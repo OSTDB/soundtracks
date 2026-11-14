@@ -7170,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
 | Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
+| Checkers for Kids | 165210 | [165210-checkers-for-kids.json](./165210-checkers-for-kids.json) |
 | Checkers for Kids: Toy Box | 403407 | [403407-checkers-for-kids-toy-box.json](./403407-checkers-for-kids-toy-box.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
 | Checkers in the Park | 254436 | [254436-checkers-in-the-park.json](./254436-checkers-in-the-park.json) |
@@ -10365,6 +10366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
 | City of Heroes: Architect Edition | 286710 | [286710-city-of-heroes-architect-edition.json](./286710-city-of-heroes-architect-edition.json) |
 | City of Heroes: Homecoming | 281858 | [281858-city-of-heroes-homecoming.json](./281858-city-of-heroes-homecoming.json) |
+| City of Hope | 165800 | [165800-city-of-hope.json](./165800-city-of-hope.json) |
 | City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
 | City of Lambs | 28095 | [28095-city-of-lambs.json](./28095-city-of-lambs.json) |
 | City of Lost Hope | 299690 | [299690-city-of-lost-hope.json](./299690-city-of-lost-hope.json) |
@@ -18996,6 +18998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Mahjong | 179284 | [179284-creepy-mahjong.json](./179284-creepy-mahjong.json) |
 | Creepy Nights at Freddy's | 241729 | [241729-creepy-nights-at-freddys.json](./241729-creepy-nights-at-freddys.json) |
 | Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
+| Creepy Pizza Arcade | 165784 | [165784-creepy-pizza-arcade.json](./165784-creepy-pizza-arcade.json) |
 | Creepy Pomni | 316022 | [316022-creepy-pomni.json](./316022-creepy-pomni.json) |
 | Creepy Races | 44192 | [44192-creepy-races.json](./44192-creepy-races.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
