@@ -2201,7 +2201,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
 | Keyboard Warriors | 425178 | [425178-keyboard-warriors.json](./425178-keyboard-warriors.json) |
 | Keyboardkommander | 174075 | [174075-keyboardkommander.json](./174075-keyboardkommander.json) |
+| Keyboardmania | 92705 | [92705-keyboardmania.json](./92705-keyboardmania.json) |
 | Keyboardmania 2ndMix | 62579 | [62579-keyboardmania-2ndmix.json](./62579-keyboardmania-2ndmix.json) |
+| Keyboardmania 3rdMix | 92706 | [92706-keyboardmania-3rdmix.json](./92706-keyboardmania-3rdmix.json) |
 | Keyboardmania II: 2ndMix and 3rdMix | 62578 | [62578-keyboardmania-ii-2ndmix-and-3rdmix.json](./62578-keyboardmania-ii-2ndmix-and-3rdmix.json) |
 | Keyboardmania: Yamaha Edition | 69378 | [69378-keyboardmania-yamaha-edition.json](./69378-keyboardmania-yamaha-edition.json) |
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
