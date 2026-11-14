@@ -1577,7 +1577,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1999: Megallennium 6-in-1 Mega Cart | 136611 | [136611-1999-megallennium-6-in-1-mega-cart.json](./136611-1999-megallennium-6-in-1-mega-cart.json) |
 | 199X | 35602 | [35602-199x.json](./35602-199x.json) |
 | 19th Century Printing Press Experience VR | 337613 | [337613-19th-century-printing-press-experience-vr.json](./337613-19th-century-printing-press-experience-vr.json) |
+| 19XX: Complete Edition | 135358 | [135358-19xx-complete-edition.json](./135358-19xx-complete-edition.json) |
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
+| 19XX: Tournament Edition | 135357 | [135357-19xx-tournament-edition.json](./135357-19xx-tournament-edition.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1BillionHex | 92214 | [92214-1billionhex.json](./92214-1billionhex.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
