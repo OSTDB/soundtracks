@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-in-1 Version 2 | 106314 | [106314-4-in-1-version-2.json](./106314-4-in-1-version-2.json) |
 | 4-in-1 Version 3 | 106315 | [106315-4-in-1-version-3.json](./106315-4-in-1-version-3.json) |
 | 4-in-1 Version 4 | 106316 | [106316-4-in-1-version-4.json](./106316-4-in-1-version-4.json) |
+| 4-in-1 Version 9 | 106669 | [106669-4-in-1-version-9.json](./106669-4-in-1-version-9.json) |
 | 4-in-1: Hash Block/Jacky Lucky/Challenger Tank/Brain Power | 195064 | [195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json](./195064-4-in-1-hash-block-jacky-lucky-challenger-tank-brain-power.json) |
 | 4-Legged Heroine | 135072 | [135072-4-legged-heroine.json](./135072-4-legged-heroine.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
