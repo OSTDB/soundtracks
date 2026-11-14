@@ -10247,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Empire 2 | 328355 | [328355-shop-empire-2.json](./328355-shop-empire-2.json) |
 | Shop Empire 3 | 102005 | [102005-shop-empire-3.json](./102005-shop-empire-3.json) |
 | Shop Empire Galaxy | 95959 | [95959-shop-empire-galaxy.json](./95959-shop-empire-galaxy.json) |
+| Shop Empire Underground | 101805 | [101805-shop-empire-underground.json](./101805-shop-empire-underground.json) |
 | Shop Farm Tycoon | 395216 | [395216-shop-farm-tycoon.json](./395216-shop-farm-tycoon.json) |
 | Shop Heroes Legends: Idle RPG | 233118 | [233118-shop-heroes-legends-idle-rpg.json](./233118-shop-heroes-legends-idle-rpg.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
@@ -18183,6 +18184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarix | 17146 | [17146-solarix.json](./17146-solarix.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
+| Solarmax 2 | 101793 | [101793-solarmax-2.json](./101793-solarmax-2.json) |
 | Solarmax III | 228132 | [228132-solarmax-iii.json](./228132-solarmax-iii.json) |
 | Solaro | 237157 | [237157-solaro.json](./237157-solaro.json) |
 | Solaroids | 56017 | [56017-solaroids.json](./56017-solaroids.json) |
@@ -23549,6 +23551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Fragments | 372174 | [372174-spell-fragments.json](./372174-spell-fragments.json) |
 | Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
 | Spell Hero | 212405 | [212405-spell-hero.json](./212405-spell-hero.json) |
+| Spell idle 2 | 101828 | [101828-spell-idle-2.json](./101828-spell-idle-2.json) |
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
 | Spell Knight | 404683 | [404683-spell-knight.json](./404683-spell-knight.json) |
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
@@ -31580,6 +31583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
 | Strike Force Heroes | 277203 | [277203-strike-force-heroes.json](./277203-strike-force-heroes.json) |
 | Strike Force Heroes 2 | 141972 | [141972-strike-force-heroes-2.json](./141972-strike-force-heroes-2.json) |
+| Strike Force Heroes 3 | 101827 | [101827-strike-force-heroes-3.json](./101827-strike-force-heroes-3.json) |
 | Strike Force Heroes: Ninja Class | 298191 | [298191-strike-force-heroes-ninja-class.json](./298191-strike-force-heroes-ninja-class.json) |
 | Strike Force Heroes: Original Flash Outfits | 285304 | [285304-strike-force-heroes-original-flash-outfits.json](./285304-strike-force-heroes-original-flash-outfits.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
