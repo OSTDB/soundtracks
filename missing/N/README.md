@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: Hearthbridge Cabinet | 140200 | [140200-nevertales-hearthbridge-cabinet.json](./140200-nevertales-hearthbridge-cabinet.json) |
 | Nevertales: Hearthbridge Cabinet - Collector's Edition | 132557 | [132557-nevertales-hearthbridge-cabinet-collectors-edition.json](./132557-nevertales-hearthbridge-cabinet-collectors-edition.json) |
 | Nevertales: Hidden Doorway - Collector's Edition | 416617 | [416617-nevertales-hidden-doorway-collectors-edition.json](./416617-nevertales-hidden-doorway-collectors-edition.json) |
+| Nevertales: Legends | 103736 | [103736-nevertales-legends.json](./103736-nevertales-legends.json) |
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
 | Nevertales: Shattered Image | 140201 | [140201-nevertales-shattered-image.json](./140201-nevertales-shattered-image.json) |
 | Nevertales: Shattered Image - Collector's Edition | 31334 | [31334-nevertales-shattered-image-collectors-edition.json](./31334-nevertales-shattered-image-collectors-edition.json) |
