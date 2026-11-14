@@ -2977,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarab of Ra | 308677 | [308677-scarab-of-ra.json](./308677-scarab-of-ra.json) |
+| Scarab of Ra | 92733 | [92733-scarab-of-ra.json](./92733-scarab-of-ra.json) |
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarab Solitaire | 209029 | [209029-scarab-solitaire.json](./209029-scarab-solitaire.json) |
 | Scarab Tales | 35273 | [35273-scarab-tales.json](./35273-scarab-tales.json) |
@@ -7765,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowplay: Journey to Wonderland | 183696 | [183696-shadowplay-journey-to-wonderland.json](./183696-shadowplay-journey-to-wonderland.json) |
 | Shadowplay: Metropolis Foe | 125722 | [125722-shadowplay-metropolis-foe.json](./125722-shadowplay-metropolis-foe.json) |
 | Shadowplay: The Forsaken Island - Collector’s Edition | 228246 | [228246-shadowplay-the-forsaken-island-collector-s-edition.json](./228246-shadowplay-the-forsaken-island-collector-s-edition.json) |
+| Shadowplay: Whispers of Past | 92199 | [92199-shadowplay-whispers-of-past.json](./92199-shadowplay-whispers-of-past.json) |
 | Shadowplay: Whispers of the Past - Collector's Edition | 228245 | [228245-shadowplay-whispers-of-the-past-collectors-edition.json](./228245-shadowplay-whispers-of-the-past-collectors-edition.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
@@ -14312,6 +14314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight Freerange 2: Gachduine | 99522 | [99522-skylight-freerange-2-gachduine.json](./99522-skylight-freerange-2-gachduine.json) |
 | Skylight Racer | 117915 | [117915-skylight-racer.json](./117915-skylight-racer.json) |
 | Skyline | 370425 | [370425-skyline.json](./370425-skyline.json) |
+| Skyline Attack | 92734 | [92734-skyline-attack.json](./92734-skyline-attack.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling | 330609 | [330609-skyline-bowling.json](./330609-skyline-bowling.json) |
 | Skyline Bowling: Bright Style | 330626 | [330626-skyline-bowling-bright-style.json](./330626-skyline-bowling-bright-style.json) |
@@ -27558,6 +27561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wraith III: Shadows of Orion | 15111 | [15111-star-wraith-iii-shadows-of-orion.json](./15111-star-wraith-iii-shadows-of-orion.json) |
 | Star Wraith IV: Reviction | 15112 | [15112-star-wraith-iv-reviction.json](./15112-star-wraith-iv-reviction.json) |
 | Star Wrath | 391648 | [391648-star-wrath.json](./391648-star-wrath.json) |
+| Star Wreck | 92715 | [92715-star-wreck.json](./92715-star-wreck.json) |
 | Star X | 6610 | [6610-star-x.json](./6610-star-x.json) |
 | Star Zeal | 110483 | [110483-star-zeal.json](./110483-star-zeal.json) |
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
@@ -32124,6 +32128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Me Girl | 414875 | [414875-style-me-girl.json](./414875-style-me-girl.json) |
 | Style Savvy: Fashion Forward | 22796 | [22796-style-savvy-fashion-forward.json](./22796-style-savvy-fashion-forward.json) |
 | Style Savvy: Trendsetters | 6892 | [6892-style-savvy-trendsetters.json](./6892-style-savvy-trendsetters.json) |
+| Stylish eSper Shooting Sports League | 92703 | [92703-stylish-esper-shooting-sports-league.json](./92703-stylish-esper-shooting-sports-league.json) |
 | Stylish Girls | 271901 | [271901-stylish-girls.json](./271901-stylish-girls.json) |
 | Stylish Guards | 216865 | [216865-stylish-guards.json](./216865-stylish-guards.json) |
 | Stylish Sprint | 79748 | [79748-stylish-sprint.json](./79748-stylish-sprint.json) |
