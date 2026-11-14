@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Sentinel | 252027 | [252027-interstellar-sentinel.json](./252027-interstellar-sentinel.json) |
 | Interstellar Space: Genesis | 110011 | [110011-interstellar-space-genesis.json](./110011-interstellar-space-genesis.json) |
 | Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
+| Interstellar Space: Genesis - Natural Law | 155230 | [155230-interstellar-space-genesis-natural-law.json](./155230-interstellar-space-genesis-natural-law.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
 | Interstellar Strike Team | 395743 | [395743-interstellar-strike-team.json](./395743-interstellar-strike-team.json) |
 | Interstellar Together | 426601 | [426601-interstellar-together.json](./426601-interstellar-together.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Harvest: Complete Edition | 170036 | [170036-iron-harvest-complete-edition.json](./170036-iron-harvest-complete-edition.json) |
 | Iron Harvest: Deluxe Edition | 154221 | [154221-iron-harvest-deluxe-edition.json](./154221-iron-harvest-deluxe-edition.json) |
 | Iron Harvest: Operation Eagle | 154193 | [154193-iron-harvest-operation-eagle.json](./154193-iron-harvest-operation-eagle.json) |
+| Iron Harvest: Rusviet Revolution | 155240 | [155240-iron-harvest-rusviet-revolution.json](./155240-iron-harvest-rusviet-revolution.json) |
 | Iron Heart | 117355 | [117355-iron-heart.json](./117355-iron-heart.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
