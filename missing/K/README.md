@@ -2893,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer in the Cabin | 181016 | [181016-killer-in-the-cabin.json](./181016-killer-in-the-cabin.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 10354 | [10354-killer-instinct.json](./10354-killer-instinct.json) |
+| Killer Instinct | 134124 | [134124-killer-instinct.json](./134124-killer-instinct.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
 | Killer Instinct | 2907 | [2907-killer-instinct.json](./2907-killer-instinct.json) |
 | Killer Instinct | 324152 | [324152-killer-instinct.json](./324152-killer-instinct.json) |
@@ -3770,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
 | Kingdom Isles | 423281 | [423281-kingdom-isles.json](./423281-kingdom-isles.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
+| Kingdom Karnage | 134087 | [134087-kingdom-karnage.json](./134087-kingdom-karnage.json) |
 | Kingdom Knights | 217195 | [217195-kingdom-knights.json](./217195-kingdom-knights.json) |
 | Kingdom Legends: The Fallen Kings | 202876 | [202876-kingdom-legends-the-fallen-kings.json](./202876-kingdom-legends-the-fallen-kings.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
