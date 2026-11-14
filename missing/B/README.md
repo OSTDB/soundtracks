@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barony | 35189 | [35189-barony.json](./35189-barony.json) |
 | Barony: Deserters & Disciples | 387400 | [387400-barony-deserters-and-disciples.json](./387400-barony-deserters-and-disciples.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
+| Barony: Myths & Outcasts | 154655 | [154655-barony-myths-and-outcasts.json](./154655-barony-myths-and-outcasts.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Baroque | 4705 | [4705-baroque.json](./4705-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
@@ -7321,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk World | 379453 | [379453-berserk-world.json](./379453-berserk-world.json) |
 | Berserk: Millennium Falcon-hen - Seima Senki no Shou | 78212 | [78212-berserk-millennium-falcon-hen-seima-senki-no-shou.json](./78212-berserk-millennium-falcon-hen-seima-senki-no-shou.json) |
 | Berserk: The Cataclysm | 32417 | [32417-berserk-the-cataclysm.json](./32417-berserk-the-cataclysm.json) |
+| Berserk: Vulcanites Unleashed | 154625 | [154625-berserk-vulcanites-unleashed.json](./154625-berserk-vulcanites-unleashed.json) |
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
 | Berserker and Thumbnail Maker | 182606 | [182606-berserker-and-thumbnail-maker.json](./182606-berserker-and-thumbnail-maker.json) |
