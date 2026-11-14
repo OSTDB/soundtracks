@@ -5827,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Guns | 21805 | [21805-wild-west-guns.json](./21805-wild-west-guns.json) |
 | Wild West Guns | 239478 | [239478-wild-west-guns.json](./239478-wild-west-guns.json) |
 | Wild West Legacy | 149118 | [149118-wild-west-legacy.json](./149118-wild-west-legacy.json) |
+| Wild West Math | 133523 | [133523-wild-west-math.json](./133523-wild-west-math.json) |
 | Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
 | Wild West Online | 29139 | [29139-wild-west-online.json](./29139-wild-west-online.json) |
@@ -8470,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wreck | 241329 | [241329-word-wreck.json](./241329-word-wreck.json) |
 | Word x Word | 237030 | [237030-word-x-word.json](./237030-word-x-word.json) |
 | Word Yo! | 73355 | [73355-word-yo.json](./73355-word-yo.json) |
+| Word Zapper | 133521 | [133521-word-zapper.json](./133521-word-zapper.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
 | Word-O-Mania | 232475 | [232475-word-o-mania.json](./232475-word-o-mania.json) |
@@ -8676,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Through The End | 388180 | [388180-working-through-the-end.json](./388180-working-through-the-end.json) |
 | Working Tidal | 176142 | [176142-working-tidal.json](./176142-working-tidal.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
+| Working Zombies | 133499 | [133499-working-zombies.json](./133499-working-zombies.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
 | Workplace Fantasy | 263717 | [263717-workplace-fantasy.json](./263717-workplace-fantasy.json) |
 | Workplace Fantasy All Age Edition | 273797 | [273797-workplace-fantasy-all-age-edition.json](./273797-workplace-fantasy-all-age-edition.json) |
