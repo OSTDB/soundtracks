@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
 | Idle Monster | 194090 | [194090-idle-monster.json](./194090-idle-monster.json) |
+| Idle Monster Frontier | 166791 | [166791-idle-monster-frontier.json](./166791-idle-monster-frontier.json) |
 | Idle Monster Hunting | 103682 | [103682-idle-monster-hunting.json](./103682-idle-monster-hunting.json) |
 | Idle Monster TD: Evolved | 193654 | [193654-idle-monster-td-evolved.json](./193654-idle-monster-td-evolved.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
