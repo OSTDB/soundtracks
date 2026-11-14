@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur | 192134 | [192134-saboteur.json](./192134-saboteur.json) |
 | Saboteur | 230600 | [230600-saboteur.json](./230600-saboteur.json) |
+| Saboteur II: Avenging Angel | 121089 | [121089-saboteur-ii-avenging-angel.json](./121089-saboteur-ii-avenging-angel.json) |
 | Saboteur SiO | 147702 | [147702-saboteur-sio.json](./147702-saboteur-sio.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Samozbor: Rebellion | 112677 | [112677-samozbor-rebellion.json](./112677-samozbor-rebellion.json) |
+| Samozvaniets | 121107 | [121107-samozvaniets.json](./121107-samozvaniets.json) |
 | Samphi | 35944 | [35944-samphi.json](./35944-samphi.json) |
 | Sample Gunpowder | 310271 | [310271-sample-gunpowder.json](./310271-sample-gunpowder.json) |
 | Sample Sonic | 321726 | [321726-sample-sonic.json](./321726-sample-sonic.json) |
@@ -4978,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret City: London Calling | 396448 | [396448-secret-city-london-calling.json](./396448-secret-city-london-calling.json) |
 | Secret City: The Human Threat | 139732 | [139732-secret-city-the-human-threat.json](./139732-secret-city-the-human-threat.json) |
+| Secret City: The Human Threat - Collector's Edition | 121099 | [121099-secret-city-the-human-threat-collectors-edition.json](./121099-secret-city-the-human-threat-collectors-edition.json) |
 | Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
 | Secret Command | 213265 | [213265-secret-command.json](./213265-secret-command.json) |
 | Secret Crossing | 225647 | [225647-secret-crossing.json](./225647-secret-crossing.json) |
@@ -8242,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapez 2: Factory | 225512 | [225512-shapez-2-factory.json](./225512-shapez-2-factory.json) |
 | Shapez 2: Supporter Edition | 314519 | [314519-shapez-2-supporter-edition.json](./314519-shapez-2-supporter-edition.json) |
 | shapez.io: Puzzle DLC | 163537 | [163537-shapez-io-puzzle-dlc.json](./163537-shapez-io-puzzle-dlc.json) |
+| Shapik: The Moon Quest | 121071 | [121071-shapik-the-moon-quest.json](./121071-shapik-the-moon-quest.json) |
 | Shapik: The Quest | 211742 | [211742-shapik-the-quest.json](./211742-shapik-the-quest.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
@@ -11482,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Under the Dome | 360551 | [360551-silence-under-the-dome.json](./360551-silence-under-the-dome.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
+| Silenced | 121080 | [121080-silenced.json](./121080-silenced.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
 | Silencer | 367912 | [367912-silencer.json](./367912-silencer.json) |
 | Silencer | 93197 | [93197-silencer.json](./93197-silencer.json) |
@@ -11998,6 +12003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimEarth: The Living Planet | 5438 | [5438-simearth-the-living-planet.json](./5438-simearth-the-living-planet.json) |
 | SimFarm | 8804 | [8804-simfarm.json](./8804-simfarm.json) |
 | Simgirls | 289399 | [289399-simgirls.json](./289399-simgirls.json) |
+| Simgirls: Lovemore College RPG | 121076 | [121076-simgirls-lovemore-college-rpg.json](./121076-simgirls-lovemore-college-rpg.json) |
 | SimGolf | 46438 | [46438-simgolf.json](./46438-simgolf.json) |
 | SimHarbor | 171245 | [171245-simharbor.json](./171245-simharbor.json) |
 | Simhaus: Football | 425872 | [425872-simhaus-football.json](./425872-simhaus-football.json) |
@@ -12317,6 +12323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Multipliers | 243677 | [243677-simple-multipliers.json](./243677-simple-multipliers.json) |
 | Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
 | Simple Racing | 108404 | [108404-simple-racing.json](./108404-simple-racing.json) |
+| Simple Railroad | 121069 | [121069-simple-railroad.json](./121069-simple-railroad.json) |
 | Simple Rally | 236247 | [236247-simple-rally.json](./236247-simple-rally.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
 | Simple Rockets | 10997 | [10997-simple-rockets.json](./10997-simple-rockets.json) |
@@ -16787,6 +16794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper at Work | 329764 | [329764-sniper-at-work.json](./329764-sniper-at-work.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
 | Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026 | 386546 | [386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json](./386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json) |
+| Sniper Commando Attack | 121070 | [121070-sniper-commando-attack.json](./121070-sniper-commando-attack.json) |
 | Sniper Dan | 388436 | [388436-sniper-dan.json](./388436-sniper-dan.json) |
 | Sniper Elite | 3077 | [3077-sniper-elite.json](./3077-sniper-elite.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
@@ -17442,6 +17450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So you think you can Chad?: An Incel Dating Sim | 180531 | [180531-so-you-think-you-can-chad-an-incel-dating-sim.json](./180531-so-you-think-you-can-chad-an-incel-dating-sim.json) |
 | So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
+| So-called Hero | 121048 | [121048-so-called-hero.json](./121048-so-called-hero.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | So, uh... a spaceship crashed in my yard. | 105694 | [105694-so-uh-a-spaceship-crashed-in-my-yard.json](./105694-so-uh-a-spaceship-crashed-in-my-yard.json) |
 | So, You're Possessed! | 187802 | [187802-so-youre-possessed.json](./187802-so-youre-possessed.json) |
@@ -21692,6 +21701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hero: Intergalactic Titan | 244552 | [244552-space-hero-intergalactic-titan.json](./244552-space-hero-intergalactic-titan.json) |
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
+| Space Hockey | 121078 | [121078-space-hockey.json](./121078-space-hockey.json) |
 | Space Hodsola | 102481 | [102481-space-hodsola.json](./102481-space-hodsola.json) |
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
