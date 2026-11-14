@@ -3728,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Fury | 384562 | [384562-rebel-fury.json](./384562-rebel-fury.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Galaxy Outlaw | 107318 | [107318-rebel-galaxy-outlaw.json](./107318-rebel-galaxy-outlaw.json) |
+| Rebel Horizons | 117191 | [117191-rebel-horizons.json](./117191-rebel-horizons.json) |
 | Rebel Inc: Escalation | 123748 | [123748-rebel-inc-escalation.json](./123748-rebel-inc-escalation.json) |
 | Rebel Inc: Escalation - Dollars & Disasters | 237252 | [237252-rebel-inc-escalation-dollars-and-disasters.json](./237252-rebel-inc-escalation-dollars-and-disasters.json) |
 | Rebel Inc: Escalation - Sand & Secrets | 220482 | [220482-rebel-inc-escalation-sand-and-secrets.json](./220482-rebel-inc-escalation-sand-and-secrets.json) |
@@ -7436,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revomon | 153597 | [153597-revomon.json](./153597-revomon.json) |
 | Revs | 13750 | [13750-revs.json](./13750-revs.json) |
 | Revs+ | 44126 | [44126-revs.json](./44126-revs.json) |
+| Revue Starlight Re Live | 117187 | [117187-revue-starlight-re-live.json](./117187-revue-starlight-re-live.json) |
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
