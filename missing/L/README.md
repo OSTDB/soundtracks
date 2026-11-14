@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap In Deep | 371141 | [371141-leap-in-deep.json](./371141-leap-in-deep.json) |
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
+| Leap Leap Leap | 95030 | [95030-leap-leap-leap.json](./95030-leap-leap-leap.json) |
 | Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
 | Leap of Faith | 139130 | [139130-leap-of-faith.json](./139130-leap-of-faith.json) |
 | Leap of Faith | 394617 | [394617-leap-of-faith.json](./394617-leap-of-faith.json) |
