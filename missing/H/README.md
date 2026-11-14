@@ -4407,6 +4407,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helherron | 146986 | [146986-helherron.json](./146986-helherron.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli 100 | 119417 | [119417-heli-100.json](./119417-heli-100.json) |
+| Heli Attack | 90239 | [90239-heli-attack.json](./90239-heli-attack.json) |
+| Heli Attack 2 | 90238 | [90238-heli-attack-2.json](./90238-heli-attack-2.json) |
+| Heli Attack 3 | 90237 | [90237-heli-attack-3.json](./90237-heli-attack-3.json) |
 | Heli Brawl | 62307 | [62307-heli-brawl.json](./62307-heli-brawl.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
 | Heli Fire | 38565 | [38565-heli-fire.json](./38565-heli-fire.json) |
@@ -8527,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
 | High Speed Race: Need for Asphalt Racing | 314541 | [314541-high-speed-race-need-for-asphalt-racing.json](./314541-high-speed-race-need-for-asphalt-racing.json) |
+| High Speed Trains | 90166 | [90166-high-speed-trains.json](./90166-high-speed-trains.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
 | High Speed Trains 3D | 87501 | [87501-high-speed-trains-3d.json](./87501-high-speed-trains-3d.json) |
 | High Spirits | 317300 | [317300-high-spirits.json](./317300-high-spirits.json) |
@@ -12092,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
 | Hotel Solitaire | 177066 | [177066-hotel-solitaire.json](./177066-hotel-solitaire.json) |
 | Hotel Sowls | 112385 | [112385-hotel-sowls.json](./112385-hotel-sowls.json) |
+| Hotel Spring | 90172 | [90172-hotel-spring.json](./90172-hotel-spring.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
 | Hotel The Memory | 409710 | [409710-hotel-the-memory.json](./409710-hotel-the-memory.json) |
@@ -12863,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
 | Huetopia | 57756 | [57756-huetopia.json](./57756-huetopia.json) |
 | Huey | 109147 | [109147-huey.json](./109147-huey.json) |
+| Huey | 90247 | [90247-huey.json](./90247-huey.json) |
 | Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
 | Hug Arena | 334444 | [334444-hug-arena.json](./334444-hug-arena.json) |
