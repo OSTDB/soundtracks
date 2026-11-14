@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia III: Collector's Edition | 75679 | [75679-mafia-iii-collectors-edition.json](./75679-mafia-iii-collectors-edition.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
+| Mafia III: Rivals | 78802 | [78802-mafia-iii-rivals.json](./78802-mafia-iii-rivals.json) |
 | Mafia III: Stones Unturned | 39760 | [39760-mafia-iii-stones-unturned.json](./39760-mafia-iii-stones-unturned.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
 | Mafia Inc. | 249692 | [249692-mafia-inc.json](./249692-mafia-inc.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical x Spiral | 31488 | [31488-magical-x-spiral.json](./31488-magical-x-spiral.json) |
 | Magical x Spiral: Collector's Edition | 53323 | [53323-magical-x-spiral-collectors-edition.json](./53323-magical-x-spiral-collectors-edition.json) |
+| Magical Zhu Zhu Princess: Carriages and Castles | 78180 | [78180-magical-zhu-zhu-princess-carriages-and-castles.json](./78180-magical-zhu-zhu-princess-carriages-and-castles.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | MagicalCube | 270446 | [270446-magicalcube.json](./270446-magicalcube.json) |
 | MagicalGirl Mimi | 167397 | [167397-magicalgirl-mimi.json](./167397-magicalgirl-mimi.json) |
@@ -1827,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCirBrk | 98786 | [98786-magicirbrk.json](./98786-magicirbrk.json) |
 | Magicite | 7883 | [7883-magicite.json](./7883-magicite.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
+| Magick | 78181 | [78181-magick.json](./78181-magick.json) |
 | Magicka | 2042 | [2042-magicka.json](./2042-magicka.json) |
 | Magicka 2 Collection | 53321 | [53321-magicka-2-collection.json](./53321-magicka-2-collection.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
@@ -4790,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marks the Spot | 176762 | [176762-marks-the-spot.json](./176762-marks-the-spot.json) |
 | Marksman / Depth charge | 27220 | [27220-marksman-depth-charge.json](./27220-marksman-depth-charge.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
+| Marksman Shooting & Trap Shooting | 78779 | [78779-marksman-shooting-and-trap-shooting.json](./78779-marksman-shooting-and-trap-shooting.json) |
 | Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
 | Marksman: Long Range | 65875 | [65875-marksman-long-range.json](./65875-marksman-long-range.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
@@ -4865,7 +4869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 2030 | 34234 | [34234-mars-2030.json](./34234-mars-2030.json) |
 | Mars 2030 | 51519 | [51519-mars-2030.json](./51519-mars-2030.json) |
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
-| Mars 2120 | 154293 | [154293-mars-2120.json](./154293-mars-2120.json) |
 | Mars 3D | 159197 | [159197-mars-3d.json](./159197-mars-3d.json) |
 | Mars Accident | 157477 | [157477-mars-accident.json](./157477-mars-accident.json) |
 | Mars After Midnight | 151949 | [151949-mars-after-midnight.json](./151949-mars-after-midnight.json) |
@@ -5363,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvin Strikes Back! | 49854 | [49854-marvin-strikes-back.json](./49854-marvin-strikes-back.json) |
 | Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
 | Marvin the Martian vs. the Earth | 241129 | [241129-marvin-the-martian-vs-the-earth.json](./241129-marvin-the-martian-vs-the-earth.json) |
+| Marvin-mask | 78812 | [78812-marvin-mask.json](./78812-marvin-mask.json) |
 | Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
 | Marvin's Maze | 24631 | [24631-marvins-maze.json](./24631-marvins-maze.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
@@ -6410,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrix Rampage | 373665 | [373665-matrix-rampage.json](./373665-matrix-rampage.json) |
 | Matrix Runner | 62092 | [62092-matrix-runner.json](./62092-matrix-runner.json) |
 | Matrix World | 272953 | [272953-matrix-world.json](./272953-matrix-world.json) |
+| Matrix: Gridrunner 2 | 78783 | [78783-matrix-gridrunner-2.json](./78783-matrix-gridrunner-2.json) |
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
 | Matryoshka | 326572 | [326572-matryoshka.json](./326572-matryoshka.json) |
