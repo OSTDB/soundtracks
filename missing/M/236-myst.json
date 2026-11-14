@@ -1,10 +1,9 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See ../SUBMITTING.md for full instructions.",
   "igdb_id": "236",
   "game_name": "Myst",
-  "album_name": "",
-  "spotify_url": "",
-  "apple_music_url": "",
-  "album_link_url": "",
-  "album_cover_url": ""
+  "album_name": "Myst - The Soundtrack",
+  "spotify_url": "https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT",
+  "apple_music_url": "https://music.apple.com/us/album/myst-the-soundtrack/319450445",
+  "album_link_url": "https://album.link/i/319450445",
+  "album_cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/de/cb/c5decb90-17a8-34b0-ef1d-e9ead382714b/mzi.rchfblnt.jpg/600x600bb.jpg"
 }
