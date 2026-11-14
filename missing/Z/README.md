@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zenge | 18792 | [18792-zenge.json](./18792-zenge.json) |
 | Zenge: Starborn | 101823 | [101823-zenge-starborn.json](./101823-zenge-starborn.json) |
+| ZenGems | 93264 | [93264-zengems.json](./93264-zengems.json) |
 | Zengeon | 122953 | [122953-zengeon.json](./122953-zengeon.json) |
 | ZenGM Baseball | 333818 | [333818-zengm-baseball.json](./333818-zengm-baseball.json) |
 | ZenGM Hockey | 333245 | [333245-zengm-hockey.json](./333245-zengm-hockey.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zurd Hunt | 351539 | [351539-zurd-hunt.json](./351539-zurd-hunt.json) |
 | Zuria | 204433 | [204433-zuria.json](./204433-zuria.json) |
+| Zurk's Learning Safari | 93274 | [93274-zurks-learning-safari.json](./93274-zurks-learning-safari.json) |
 | Zurry: The Ritual Bat | 178369 | [178369-zurry-the-ritual-bat.json](./178369-zurry-the-ritual-bat.json) |
 | Zurviv.io | 351253 | [351253-zurviv-io.json](./351253-zurviv-io.json) |
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
