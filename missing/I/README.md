@@ -4127,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infested Inside Multiplayer Online | 119614 | [119614-infested-inside-multiplayer-online.json](./119614-infested-inside-multiplayer-online.json) |
 | Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
 | Infested Nation | 43106 | [43106-infested-nation.json](./43106-infested-nation.json) |
+| Infested Planet | 81504 | [81504-infested-planet.json](./81504-infested-planet.json) |
 | Infested Planet | 8795 | [8795-infested-planet.json](./8795-infested-planet.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
 | Infested Planet: Trickster's Arsenal | 51850 | [51850-infested-planet-tricksters-arsenal.json](./51850-infested-planet-tricksters-arsenal.json) |
