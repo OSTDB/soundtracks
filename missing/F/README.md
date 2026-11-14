@@ -6935,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Gen | 285328 | [285328-first-gen.json](./285328-first-gen.json) |
 | First Grade Learning Games | 87913 | [87913-first-grade-learning-games.json](./87913-first-grade-learning-games.json) |
 | First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
+| First Hero | 120435 | [120435-first-hero.json](./120435-first-hero.json) |
 | First Hero: Epic of Gilgamesh | 170726 | [170726-first-hero-epic-of-gilgamesh.json](./170726-first-hero-epic-of-gilgamesh.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
 | First in... Line? | 317170 | [317170-first-in-line.json](./317170-first-in-line.json) |
@@ -10766,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Destiny | 298974 | [298974-forest-of-destiny.json](./298974-forest-of-destiny.json) |
 | Forest of Drizzling Rain | 124466 | [124466-forest-of-drizzling-rain.json](./124466-forest-of-drizzling-rain.json) |
 | Forest of Elf | 122057 | [122057-forest-of-elf.json](./122057-forest-of-elf.json) |
+| Forest of Evil | 119817 | [119817-forest-of-evil.json](./119817-forest-of-evil.json) |
 | Forest of Fear | 298478 | [298478-forest-of-fear.json](./298478-forest-of-fear.json) |
 | Forest of Lesbians | 254726 | [254726-forest-of-lesbians.json](./254726-forest-of-lesbians.json) |
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
