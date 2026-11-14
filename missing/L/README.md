@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
 | Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
 | Last Meow Standing | 202490 | [202490-last-meow-standing.json](./202490-last-meow-standing.json) |
+| Last Message | 139521 | [139521-last-message.json](./139521-last-message.json) |
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
 | Last Mile | 310850 | [310850-last-mile.json](./310850-last-mile.json) |
