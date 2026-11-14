@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otometeki Koi Kakumei Love Revo!! 100kg Kara Hajimaru Koi Monogatari | 214562 | [214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json](./214562-otometeki-koi-kakumei-love-revo-100kg-kara-hajimaru-koi-monogatari.json) |
 | Otometeki Koi Kakumei Love Revo!! DS | 214553 | [214553-otometeki-koi-kakumei-love-revo-ds.json](./214553-otometeki-koi-kakumei-love-revo-ds.json) |
 | Otomon Drop: Monster Hunter Stories | 175726 | [175726-otomon-drop-monster-hunter-stories.json](./175726-otomon-drop-monster-hunter-stories.json) |
+| Otona no Gal Jan 2 | 123664 | [123664-otona-no-gal-jan-2.json](./123664-otona-no-gal-jan-2.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otona no Onnaryoku Kentei | 123376 | [123376-otona-no-onnaryoku-kentei.json](./123376-otona-no-onnaryoku-kentei.json) |
