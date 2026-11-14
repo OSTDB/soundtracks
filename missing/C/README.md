@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarCrash.Tube: Car Crash Simulator | 417332 | [417332-carcrash-tube-car-crash-simulator.json](./417332-carcrash-tube-car-crash-simulator.json) |
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
+| Card & Puzzle Collection Ginga | 98614 | [98614-card-and-puzzle-collection-ginga.json](./98614-card-and-puzzle-collection-ginga.json) |
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
 | Card Adventures | 114490 | [114490-card-adventures.json](./114490-card-adventures.json) |
 | Card Age | 258590 | [258590-card-age.json](./258590-card-age.json) |
@@ -2727,6 +2728,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
 | Card Fencer | 284806 | [284806-card-fencer.json](./284806-card-fencer.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
+| Card Game | 98613 | [98613-card-game.json](./98613-card-game.json) |
+| Card Game 9 | 98612 | [98612-card-game-9.json](./98612-card-game-9.json) |
 | Card Game Bundle Vol.1 | 118917 | [118917-card-game-bundle-vol-1.json](./118917-card-game-bundle-vol-1.json) |
 | Card Game Classics | 105668 | [105668-card-game-classics.json](./105668-card-game-classics.json) |
 | Card Games | 44957 | [44957-card-games.json](./44957-card-games.json) |
@@ -3447,6 +3450,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars vs Zombies | 157090 | [157090-cars-vs-zombies.json](./157090-cars-vs-zombies.json) |
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
 | Cars, Girls and Rock 'n' Roll | 258583 | [258583-cars-girls-and-rock-n-roll.json](./258583-cars-girls-and-rock-n-roll.json) |
+| Cars: Fast as Lightning | 98639 | [98639-cars-fast-as-lightning.json](./98639-cars-fast-as-lightning.json) |
+| Cars: Lightning League | 98637 | [98637-cars-lightning-league.json](./98637-cars-lightning-league.json) |
 | Cars: Radiator Springs Adventures | 18251 | [18251-cars-radiator-springs-adventures.json](./18251-cars-radiator-springs-adventures.json) |
 | Cars: Rev It Up In Radiator Springs | 220100 | [220100-cars-rev-it-up-in-radiator-springs.json](./220100-cars-rev-it-up-in-radiator-springs.json) |
 | Cars! Easy Car Games For Baby Boys | 101012 | [101012-cars-easy-car-games-for-baby-boys.json](./101012-cars-easy-car-games-for-baby-boys.json) |
