@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanks Etc. | 285934 | [285934-tanks-etc.json](./285934-tanks-etc.json) |
+| Tanks Evolution | 104315 | [104315-tanks-evolution.json](./104315-tanks-evolution.json) |
 | Tanks Fire Up:pocket wars hero | 103093 | [103093-tanks-fire-up-pocket-wars-hero.json](./103093-tanks-fire-up-pocket-wars-hero.json) |
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
 | Tanks Furry | 37261 | [37261-tanks-furry.json](./37261-tanks-furry.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
 | TankWars.io | 26742 | [26742-tankwars-io.json](./26742-tankwars-io.json) |
 | Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
+| Tanky Tank | 104339 | [104339-tanky-tank.json](./104339-tanky-tank.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanky Tanks 2 | 235910 | [235910-tanky-tanks-2.json](./235910-tanky-tanks-2.json) |
 | Tanky Tanks VR | 128928 | [128928-tanky-tanks-vr.json](./128928-tanky-tanks-vr.json) |
@@ -11364,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
 | The Great One Hand Challenge | 98574 | [98574-the-great-one-hand-challenge.json](./98574-the-great-one-hand-challenge.json) |
 | The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
+| The Great Ottomans - Strategy Battle for Throne | 104305 | [104305-the-great-ottomans-strategy-battle-for-throne.json](./104305-the-great-ottomans-strategy-battle-for-throne.json) |
 | The Great Palermo | 146002 | [146002-the-great-palermo.json](./146002-the-great-palermo.json) |
 | The Great Perhaps | 116497 | [116497-the-great-perhaps.json](./116497-the-great-perhaps.json) |
 | The Great Pickle Adventure | 157833 | [157833-the-great-pickle-adventure.json](./157833-the-great-pickle-adventure.json) |
@@ -12441,6 +12444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway | 25349 | [25349-the-island-castaway.json](./25349-the-island-castaway.json) |
 | The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
+| The Island Combat | 104333 | [104333-the-island-combat.json](./104333-the-island-combat.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Crossed Destinies | 353356 | [353356-the-island-of-crossed-destinies.json](./353356-the-island-of-crossed-destinies.json) |
 | The Island of Doctor Morose | 348474 | [348474-the-island-of-doctor-morose.json](./348474-the-island-of-doctor-morose.json) |
@@ -30027,6 +30031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Song: Eternal Knight | 221058 | [221058-tower-song-eternal-knight.json](./221058-tower-song-eternal-knight.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
+| Tower Stacker | 104329 | [104329-tower-stacker.json](./104329-tower-stacker.json) |
 | Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
 | Tower Survivor | 238616 | [238616-tower-survivor.json](./238616-tower-survivor.json) |
 | Tower Survivors | 216444 | [216444-tower-survivors.json](./216444-tower-survivors.json) |
