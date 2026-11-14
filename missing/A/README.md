@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Art of Fighting | 99746 | [99746-aca-neo-geo-art-of-fighting.json](./99746-aca-neo-geo-art-of-fighting.json) |
 | ACA Neo Geo: Art of Fighting 2 | 99489 | [99489-aca-neo-geo-art-of-fighting-2.json](./99489-aca-neo-geo-art-of-fighting-2.json) |
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
+| ACA Neo Geo: Baseball Stars 2 | 116527 | [116527-aca-neo-geo-baseball-stars-2.json](./116527-aca-neo-geo-baseball-stars-2.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
@@ -4094,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
 | Adventure Diary | 405273 | [405273-adventure-diary.json](./405273-adventure-diary.json) |
+| Adventure Dream Team | 117208 | [117208-adventure-dream-team.json](./117208-adventure-dream-team.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Jetpack | 235225 | [235225-adventure-escape-jetpack.json](./235225-adventure-escape-jetpack.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
@@ -5124,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
 | Afterland | 258267 | [258267-afterland.json](./258267-afterland.json) |
 | Afterlands | 268893 | [268893-afterlands.json](./268893-afterlands.json) |
+| Afterlife | 117202 | [117202-afterlife.json](./117202-afterlife.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 195976 | [195976-afterlife.json](./195976-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
@@ -8052,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Ate My Boyfriend | 212687 | [212687-aliens-ate-my-boyfriend.json](./212687-aliens-ate-my-boyfriend.json) |
 | Aliens Attack | 179300 | [179300-aliens-attack.json](./179300-aliens-attack.json) |
 | Aliens Attack | 255453 | [255453-aliens-attack.json](./255453-aliens-attack.json) |
+| Aliens Attack VR | 117110 | [117110-aliens-attack-vr.json](./117110-aliens-attack-vr.json) |
 | Aliens Don't Exist | 113526 | [113526-aliens-dont-exist.json](./113526-aliens-dont-exist.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Drive Me Crazy | 109104 | [109104-aliens-drive-me-crazy.json](./109104-aliens-drive-me-crazy.json) |
@@ -20685,6 +20689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
 | Azurael's Circle: Chapter 2 | 107732 | [107732-azuraels-circle-chapter-2.json](./107732-azuraels-circle-chapter-2.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
+| Azurael's Circle: Chapter 4 | 117113 | [117113-azuraels-circle-chapter-4.json](./117113-azuraels-circle-chapter-4.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
 | Azuran Tales: Trials | 99165 | [99165-azuran-tales-trials.json](./99165-azuran-tales-trials.json) |
 | Azure | 150658 | [150658-azure.json](./150658-azure.json) |
