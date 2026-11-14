@@ -3175,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | NetMech | 93422 | [93422-netmech.json](./93422-netmech.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
+| Netorare Joshi: Kare ni wa Ienai Watashi no Himitsu | 98126 | [98126-netorare-joshi-kare-ni-wa-ienai-watashi-no-himitsu.json](./98126-netorare-joshi-kare-ni-wa-ienai-watashi-no-himitsu.json) |
 | Netorare Osananajimi: Haruka to Chika | 82970 | [82970-netorare-osananajimi-haruka-to-chika.json](./82970-netorare-osananajimi-haruka-to-chika.json) |
 | NetPanzer | 122805 | [122805-netpanzer.json](./122805-netpanzer.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
@@ -6622,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | NO: Never Outside | 232819 | [232819-no-never-outside.json](./232819-no-never-outside.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
+| No! body knows: Sono Karada ga Shitteiru | 98132 | [98132-no-body-knows-sono-karada-ga-shitteiru.json](./98132-no-body-knows-sono-karada-ga-shitteiru.json) |
 | No! Stalgia! No! | 421592 | [421592-no-stalgia-no.json](./421592-no-stalgia-no.json) |
 | No!Ah!'s Ark | 163795 | [163795-no-ah-s-ark.json](./163795-no-ah-s-ark.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
