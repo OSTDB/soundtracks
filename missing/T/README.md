@@ -3226,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TealGrounds | 192649 | [192649-tealgrounds.json](./192649-tealgrounds.json) |
 | Team | 93207 | [93207-team.json](./93207-team.json) |
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
+| Team A.R.G. Anthology | 105581 | [105581-team-a-r-g-anthology.json](./105581-team-a-r-g-anthology.json) |
 | Team Apache | 93419 | [93419-team-apache.json](./93419-team-apache.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Awesome | 112056 | [112056-team-awesome.json](./112056-team-awesome.json) |
@@ -12533,6 +12534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jig Is Up! | 215152 | [215152-the-jig-is-up.json](./215152-the-jig-is-up.json) |
 | The Jigsaw Puzzle Room | 30168 | [30168-the-jigsaw-puzzle-room.json](./30168-the-jigsaw-puzzle-room.json) |
 | The Jimi Hendrix Case | 317508 | [317508-the-jimi-hendrix-case.json](./317508-the-jimi-hendrix-case.json) |
+| The Jimmy's Souls | 104894 | [104894-the-jimmys-souls.json](./104894-the-jimmys-souls.json) |
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
 | The Joker's Game | 347809 | [347809-the-jokers-game.json](./347809-the-jokers-game.json) |
@@ -12568,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey of Salem | 184852 | [184852-the-journey-of-salem.json](./184852-the-journey-of-salem.json) |
 | The Journey of the Gnomes: The Battle of the Elder Isles | 401337 | [401337-the-journey-of-the-gnomes-the-battle-of-the-elder-isles.json](./401337-the-journey-of-the-gnomes-the-battle-of-the-elder-isles.json) |
 | The Journey of the King | 146204 | [146204-the-journey-of-the-king.json](./146204-the-journey-of-the-king.json) |
+| The Journey to Fairytales | 104896 | [104896-the-journey-to-fairytales.json](./104896-the-journey-to-fairytales.json) |
 | The Journey to Life | 325067 | [325067-the-journey-to-life.json](./325067-the-journey-to-life.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
@@ -32870,6 +32873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajectory of summer flower Ⅱ | 289922 | [289922-trajectory-of-summer-flower-ii.json](./289922-trajectory-of-summer-flower-ii.json) |
 | Trajes Fatais Minimal | 176844 | [176844-trajes-fatais-minimal.json](./176844-trajes-fatais-minimal.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
+| Trakker | 104898 | [104898-trakker.json](./104898-trakker.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
 | Traktor | 46958 | [46958-traktor.json](./46958-traktor.json) |
 | Tralalero Tralala Backrooms Pools | 344244 | [344244-tralalero-tralala-backrooms-pools.json](./344244-tralalero-tralala-backrooms-pools.json) |
