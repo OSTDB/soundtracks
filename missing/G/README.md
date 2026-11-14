@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
 | Galactic Simulator2: Stargate | 344539 | [344539-galactic-simulator2-stargate.json](./344539-galactic-simulator2-stargate.json) |
 | Galactic Slice | 362320 | [362320-galactic-slice.json](./362320-galactic-slice.json) |
+| Galactic Solo Command | 150789 | [150789-galactic-solo-command.json](./150789-galactic-solo-command.json) |
 | Galactic Space Guard | 373171 | [373171-galactic-space-guard.json](./373171-galactic-space-guard.json) |
 | Galactic Speed Legends | 150944 | [150944-galactic-speed-legends.json](./150944-galactic-speed-legends.json) |
 | Galactic Starfire: Squadron | 310033 | [310033-galactic-starfire-squadron.json](./310033-galactic-starfire-squadron.json) |
@@ -4071,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Car | 385440 | [385440-ghost-car.json](./385440-ghost-car.json) |
 | Ghost Case | 174696 | [174696-ghost-case.json](./174696-ghost-case.json) |
 | Ghost Case | 415228 | [415228-ghost-case.json](./415228-ghost-case.json) |
+| Ghost Cash Collect | 150704 | [150704-ghost-cash-collect.json](./150704-ghost-cash-collect.json) |
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
 | Ghost Castle: Gengar's Love Quest | 357418 | [357418-ghost-castle-gengars-love-quest.json](./357418-ghost-castle-gengars-love-quest.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
