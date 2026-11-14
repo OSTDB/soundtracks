@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Soccer 2 | 44423 | [44423-battle-soccer-2.json](./44423-battle-soccer-2.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Sorcerer | 126959 | [126959-battle-sorcerer.json](./126959-battle-sorcerer.json) |
+| Battle Souls | 116528 | [116528-battle-souls.json](./116528-battle-souls.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
 | Battle Spirit CrossOver: [BSC41] Greatest Record 2023 Rare Card Set | 359602 | [359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json](./359602-battle-spirit-crossover-bsc41-greatest-record-2023-rare-card-set.json) |
@@ -11686,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Zombies! | 65415 | [65415-block-zombies.json](./65415-block-zombies.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Block-a-Pix Color | 102329 | [102329-block-a-pix-color.json](./102329-block-a-pix-color.json) |
+| Block-a-Pix Deluxe | 116526 | [116526-block-a-pix-deluxe.json](./116526-block-a-pix-deluxe.json) |
 | Block-ed | 276687 | [276687-block-ed.json](./276687-block-ed.json) |
 | Block-Man 1 | 64752 | [64752-block-man-1.json](./64752-block-man-1.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
@@ -15365,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
 | Boundary Pusher | 394469 | [394469-boundary-pusher.json](./394469-boundary-pusher.json) |
+| Boundary VR | 116515 | [116515-boundary-vr.json](./116515-boundary-vr.json) |
 | Boundary Walls | 233371 | [233371-boundary-walls.json](./233371-boundary-walls.json) |
 | Boundary: Elite Cosmetic Bundle Founders Pack | 263047 | [263047-boundary-elite-cosmetic-bundle-founders-pack.json](./263047-boundary-elite-cosmetic-bundle-founders-pack.json) |
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
