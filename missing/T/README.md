@@ -8731,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Mod | 50344 | [50344-the-dark-mod.json](./50344-the-dark-mod.json) |
 | The Dark Path to the Black Tower | 398065 | [398065-the-dark-path-to-the-black-tower.json](./398065-the-dark-path-to-the-black-tower.json) |
 | The Dark Phantom: Dawn of Darkness | 317496 | [317496-the-dark-phantom-dawn-of-darkness.json](./317496-the-dark-phantom-dawn-of-darkness.json) |
+| The Dark Pictures Anthology Triple Pack | 152511 | [152511-the-dark-pictures-anthology-triple-pack.json](./152511-the-dark-pictures-anthology-triple-pack.json) |
 | The Dark Pictures Anthology: House of Ashes - Pazuzu Edition | 152103 | [152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json](./152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
@@ -13072,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Chapter of Man | 62055 | [62055-the-last-chapter-of-man.json](./62055-the-last-chapter-of-man.json) |
 | The Last Chicken | 181451 | [181451-the-last-chicken.json](./181451-the-last-chicken.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
+| The Last Chimera | 152530 | [152530-the-last-chimera.json](./152530-the-last-chimera.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last Citadel | 192474 | [192474-the-last-citadel.json](./192474-the-last-citadel.json) |
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
@@ -21966,6 +21968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Days & Seven Seas: Pirate Battle Board Game Starring Clarence, Jeff and Sumo | 212404 | [212404-thirty-days-and-seven-seas-pirate-battle-board-game-starring-clarence-jeff-and-sumo.json](./212404-thirty-days-and-seven-seas-pirate-battle-board-game-starring-clarence-jeff-and-sumo.json) |
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
+| Thirty Minute Nightmare | 152549 | [152549-thirty-minute-nightmare.json](./152549-thirty-minute-nightmare.json) |
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One | 90775 | [90775-thirty-one.json](./90775-thirty-one.json) |
