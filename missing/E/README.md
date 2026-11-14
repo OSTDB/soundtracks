@@ -4093,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Chase: Fate of Bolek | 307211 | [307211-endless-chase-fate-of-bolek.json](./307211-endless-chase-fate-of-bolek.json) |
 | Endless Chimney | 424258 | [424258-endless-chimney.json](./424258-endless-chimney.json) |
+| Endless Circle | 119850 | [119850-endless-circle.json](./119850-endless-circle.json) |
 | Endless Cold Journey | 263813 | [263813-endless-cold-journey.json](./263813-endless-cold-journey.json) |
 | Endless Combat | 72365 | [72365-endless-combat.json](./72365-endless-combat.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
