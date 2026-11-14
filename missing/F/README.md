@@ -6588,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Dark | 380759 | [380759-fire-in-the-dark.json](./380759-fire-in-the-dark.json) |
 | Fire in the Goal | 31170 | [31170-fire-in-the-goal.json](./31170-fire-in-the-goal.json) |
+| Fire in the hole | 102451 | [102451-fire-in-the-hole.json](./102451-fire-in-the-hole.json) |
 | Fire in the Hole | 375228 | [375228-fire-in-the-hole.json](./375228-fire-in-the-hole.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
