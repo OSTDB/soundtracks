@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman Houou | 60603 | [60603-yakuman-houou.json](./60603-yakuman-houou.json) |
 | Yakuman Wii: Ide Yosuke no Kenkou Mahjong | 63040 | [63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json](./63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json) |
 | Yakumo | 419863 | [419863-yakumo.json](./419863-yakumo.json) |
+| Yakumo Shibari Aya | 97555 | [97555-yakumo-shibari-aya.json](./97555-yakumo-shibari-aya.json) |
 | Yakuza 0: Digital Deluxe Edition | 106688 | [106688-yakuza-0-digital-deluxe-edition.json](./106688-yakuza-0-digital-deluxe-edition.json) |
 | Yakuza 0: Director's Cut | 338084 | [338084-yakuza-0-directors-cut.json](./338084-yakuza-0-directors-cut.json) |
 | Yakuza 0: The Business Launch Edition | 194767 | [194767-yakuza-0-the-business-launch-edition.json](./194767-yakuza-0-the-business-launch-edition.json) |
