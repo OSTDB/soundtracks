@@ -4756,6 +4756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds of Eldhelm | 17955 | [17955-battlegrounds-of-eldhelm.json](./17955-battlegrounds-of-eldhelm.json) |
 | Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
 | Battlegrounds: At Enemy Gates | 266615 | [266615-battlegrounds-at-enemy-gates.json](./266615-battlegrounds-at-enemy-gates.json) |
+| Battlegrounds: First Blast | 159406 | [159406-battlegrounds-first-blast.json](./159406-battlegrounds-first-blast.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
 | Battlegrounds2D.io | 113318 | [113318-battlegrounds2d-io.json](./113318-battlegrounds2d-io.json) |
