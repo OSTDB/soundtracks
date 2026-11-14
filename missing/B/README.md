@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Beans | 314567 | [314567-backyard-beans.json](./314567-backyard-beans.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
+| Backyard Brawl | 111098 | [111098-backyard-brawl.json](./111098-backyard-brawl.json) |
 | Backyard Buzzing | 285134 | [285134-backyard-buzzing.json](./285134-backyard-buzzing.json) |
 | Backyard Digger | 346673 | [346673-backyard-digger.json](./346673-backyard-digger.json) |
 | Backyard Football | 122751 | [122751-backyard-football.json](./122751-backyard-football.json) |
@@ -1130,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Stars! | 104276 | [104276-badminton-stars.json](./104276-badminton-stars.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
 | Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
+| Badminton Warrior | 111116 | [111116-badminton-warrior.json](./111116-badminton-warrior.json) |
 | Badminton World | 323050 | [323050-badminton-world.json](./323050-badminton-world.json) |
 | Badnik Hunt 2 | 330115 | [330115-badnik-hunt-2.json](./330115-badnik-hunt-2.json) |
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
@@ -5492,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear the Terrain | 211095 | [211095-bear-the-terrain.json](./211095-bear-the-terrain.json) |
+| Bear Vs Hunter | 111104 | [111104-bear-vs-hunter.json](./111104-bear-vs-hunter.json) |
 | Bear vs. Wolf Jigsaw Puzzle | 357865 | [357865-bear-vs-wolf-jigsaw-puzzle.json](./357865-bear-vs-wolf-jigsaw-puzzle.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 1 | 357866 | [357866-bear-vs-wolf-jigsaw-puzzle-expansion-pack-1.json](./357866-bear-vs-wolf-jigsaw-puzzle-expansion-pack-1.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 2 | 357867 | [357867-bear-vs-wolf-jigsaw-puzzle-expansion-pack-2.json](./357867-bear-vs-wolf-jigsaw-puzzle-expansion-pack-2.json) |
@@ -13196,6 +13199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardz Freestyle Frenzy | 217655 | [217655-boardz-freestyle-frenzy.json](./217655-boardz-freestyle-frenzy.json) |
 | Boars in Rome | 380833 | [380833-boars-in-rome.json](./380833-boars-in-rome.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
+| Boat Basketball | 111108 | [111108-boat-basketball.json](./111108-boat-basketball.json) |
 | Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat Delivery: Island Transport Simulator | 334989 | [334989-boat-delivery-island-transport-simulator.json](./334989-boat-delivery-island-transport-simulator.json) |
@@ -16269,6 +16273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Bratz: The Movie | 4728 | [4728-bratz-the-movie.json](./4728-bratz-the-movie.json) |
 | Bravada | 17695 | [17695-bravada.json](./17695-bravada.json) |
+| Bravado | 111273 | [111273-bravado.json](./111273-bravado.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 229231 | [229231-brave.json](./229231-brave.json) |
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
