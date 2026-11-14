@@ -12467,6 +12467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntarticaRoyale | 255284 | [255284-antarticaroyale.json](./255284-antarticaroyale.json) |
 | Antbassador | 247162 | [247162-antbassador.json](./247162-antbassador.json) |
 | Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
+| Antbot | 106213 | [106213-antbot.json](./106213-antbot.json) |
 | Antbuster | 242158 | [242158-antbuster.json](./242158-antbuster.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
@@ -14126,6 +14127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ninja-Kid II | 111458 | [111458-arcade-archives-ninja-kid-ii.json](./111458-arcade-archives-ninja-kid-ii.json) |
 | Arcade Archives: Nova 2001 | 75701 | [75701-arcade-archives-nova-2001.json](./75701-arcade-archives-nova-2001.json) |
 | Arcade Archives: Numan Athletics | 299179 | [299179-arcade-archives-numan-athletics.json](./299179-arcade-archives-numan-athletics.json) |
+| Arcade Archives: Omega Fighter | 106666 | [106666-arcade-archives-omega-fighter.json](./106666-arcade-archives-omega-fighter.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
 | Arcade Archives: P.O.W. - Prisoners of War | 131846 | [131846-arcade-archives-p-o-w-prisoners-of-war.json](./131846-arcade-archives-p-o-w-prisoners-of-war.json) |
