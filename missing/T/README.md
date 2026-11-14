@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Open 2020 | 147604 | [147604-tennis-open-2020.json](./147604-tennis-open-2020.json) |
 | Tennis Pong! | 200229 | [200229-tennis-pong.json](./200229-tennis-pong.json) |
 | Tennis Pro '92 | 57387 | [57387-tennis-pro-92.json](./57387-tennis-pro-92.json) |
+| Tennis Pro 3D | 102462 | [102462-tennis-pro-3d.json](./102462-tennis-pro-3d.json) |
 | Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
@@ -11385,6 +11386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Space Race | 300555 | [300555-the-great-space-race.json](./300555-the-great-space-race.json) |
 | The Great Sperm Race | 324345 | [324345-the-great-sperm-race.json](./324345-the-great-sperm-race.json) |
+| The Great Story of a Mighty Hero - Remastered | 102446 | [102446-the-great-story-of-a-mighty-hero-remastered.json](./102446-the-great-story-of-a-mighty-hero-remastered.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
 | The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
 | The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
@@ -11420,6 +11422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greatest Hero | 28459 | [28459-the-greatest-hero.json](./28459-the-greatest-hero.json) |
 | The Greatest Penguin Heist of All Time | 154732 | [154732-the-greatest-penguin-heist-of-all-time.json](./154732-the-greatest-penguin-heist-of-all-time.json) |
 | The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
+| The Greedy Cave | 102467 | [102467-the-greedy-cave.json](./102467-the-greedy-cave.json) |
 | The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
@@ -16754,6 +16757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prison | 236692 | [236692-the-prison.json](./236692-the-prison.json) |
 | The Prison | 339012 | [339012-the-prison.json](./339012-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
+| The Prison Experiment | 102472 | [102472-the-prison-experiment.json](./102472-the-prison-experiment.json) |
 | The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
 | The Prisoner | 18759 | [18759-the-prisoner.json](./18759-the-prisoner.json) |
 | The Prisoner | 347059 | [347059-the-prisoner.json](./347059-the-prisoner.json) |
@@ -21123,6 +21127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
 | The Wizard of Oz | 77026 | [77026-the-wizard-of-oz.json](./77026-the-wizard-of-oz.json) |
 | The Wizard of Oz Magic Match | 140747 | [140747-the-wizard-of-oz-magic-match.json](./140747-the-wizard-of-oz-magic-match.json) |
+| The Wizard of Oz Magic Match 3 | 102419 | [102419-the-wizard-of-oz-magic-match-3.json](./102419-the-wizard-of-oz-magic-match-3.json) |
 | The Wizard of Oz: Beyond the Yellow Brick Road | 21116 | [21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json](./21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
@@ -26419,6 +26424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
 | Titan Tactics | 163135 | [163135-titan-tactics.json](./163135-titan-tactics.json) |
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
+| Titan Throne | 102474 | [102474-titan-throne.json](./102474-titan-throne.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan: The Ascension | 244152 | [244152-titan-the-ascension.json](./244152-titan-the-ascension.json) |
 | Titan's Shadow Killers | 420071 | [420071-titans-shadow-killers.json](./420071-titans-shadow-killers.json) |
