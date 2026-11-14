@@ -4329,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
 | VR Future Wars: Aircraft Carrier-UAV Confrontation | 154589 | [154589-vr-future-wars-aircraft-carrier-uav-confrontation.json](./154589-vr-future-wars-aircraft-carrier-uav-confrontation.json) |
 | VR Galactic Roller Coaster | 156196 | [156196-vr-galactic-roller-coaster.json](./156196-vr-galactic-roller-coaster.json) |
+| VR Game: Brick of War | 100431 | [100431-vr-game-brick-of-war.json](./100431-vr-game-brick-of-war.json) |
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Girls' Room in Darkness | 160139 | [160139-vr-girls-room-in-darkness.json](./160139-vr-girls-room-in-darkness.json) |
