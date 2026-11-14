@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Planet | 27297 | [27297-water-planet.json](./27297-water-planet.json) |
 | Water Polo | 308141 | [308141-water-polo.json](./308141-water-polo.json) |
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
+| Water Polo | 83684 | [83684-water-polo.json](./83684-water-polo.json) |
 | Water Power | 261410 | [261410-water-power.json](./261410-water-power.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Rapids | 213709 | [213709-water-rapids.json](./213709-water-rapids.json) |
@@ -9623,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Worst Handyman | 155675 | [155675-worlds-worst-handyman.json](./155675-worlds-worst-handyman.json) |
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldBox | 126489 | [126489-worldbox.json](./126489-worldbox.json) |
+| Worldcraft | 83653 | [83653-worldcraft.json](./83653-worldcraft.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCricketChampionship | 92012 | [92012-worldcricketchampionship.json](./92012-worldcricketchampionship.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
@@ -10010,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 9 | 133773 | [133773-wrc-9.json](./133773-wrc-9.json) |
 | WRC 9: Audi Quattro A2 1984 | 196111 | [196111-wrc-9-audi-quattro-a2-1984.json](./196111-wrc-9-audi-quattro-a2-1984.json) |
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
+| WRC Arcade | 84418 | [84418-wrc-arcade.json](./84418-wrc-arcade.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection FIA World Rally Championship | 83770 | [83770-wrc-collection-fia-world-rally-championship.json](./83770-wrc-collection-fia-world-rally-championship.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
