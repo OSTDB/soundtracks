@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
+| Last Land | 141277 | [141277-last-land.json](./141277-last-land.json) |
 | Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
 | Last Lawn Standing | 424817 | [424817-last-lawn-standing.json](./424817-last-lawn-standing.json) |
