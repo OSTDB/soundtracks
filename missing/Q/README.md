@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubica | 381414 | [381414-qubica.json](./381414-qubica.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
+| Qubika | 86276 | [86276-qubika.json](./86276-qubika.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | Qubo | 160041 | [160041-qubo.json](./160041-qubo.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
 | Questron II | 55324 | [55324-questron-ii.json](./55324-questron-ii.json) |
 | QuestRun | 17160 | [17160-questrun.json](./17160-questrun.json) |
+| Quests Unlimited | 86319 | [86319-quests-unlimited.json](./86319-quests-unlimited.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Questy Chess | 151976 | [151976-questy-chess.json](./151976-questy-chess.json) |
