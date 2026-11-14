@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of an Endless Journey | 107509 | [107509-land-of-an-endless-journey.json](./107509-land-of-an-endless-journey.json) |
 | Land of Anima: The Research of Artificer | 347387 | [347387-land-of-anima-the-research-of-artificer.json](./347387-land-of-anima-the-research-of-artificer.json) |
 | Land of Artificial Jellies | 294003 | [294003-land-of-artificial-jellies.json](./294003-land-of-artificial-jellies.json) |
+| Land of Arxox | 113256 | [113256-land-of-arxox.json](./113256-land-of-arxox.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
 | Land of Chaos Online | 65442 | [65442-land-of-chaos-online.json](./65442-land-of-chaos-online.json) |
 | Land of Chaos Online II: Revolution | 119634 | [119634-land-of-chaos-online-ii-revolution.json](./119634-land-of-chaos-online-ii-revolution.json) |
