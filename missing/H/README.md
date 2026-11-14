@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Half-Blood Prince | 166354 | [166354-harry-potter-and-the-half-blood-prince.json](./166354-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Half-Blood Prince | 4906 | [4906-harry-potter-and-the-half-blood-prince.json](./4906-harry-potter-and-the-half-blood-prince.json) |
+| Harry Potter and the Order of the Phoenix | 166336 | [166336-harry-potter-and-the-order-of-the-phoenix.json](./166336-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Order of the Phoenix | 266194 | [266194-harry-potter-and-the-order-of-the-phoenix.json](./266194-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Order of the Phoenix | 366316 | [366316-harry-potter-and-the-order-of-the-phoenix.json](./366316-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Order of the Phoenix Mini-Game | 318954 | [318954-harry-potter-and-the-order-of-the-phoenix-mini-game.json](./318954-harry-potter-and-the-order-of-the-phoenix-mini-game.json) |
@@ -8730,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack Overdrive | 170668 | [170668-hijack-overdrive.json](./170668-hijack-overdrive.json) |
 | Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
 | Hijacked | 398102 | [398102-hijacked.json](./398102-hijacked.json) |
+| Hijacker Jack | 166872 | [166872-hijacker-jack.json](./166872-hijacker-jack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
 | Hijos del Invierno | 120063 | [120063-hijos-del-invierno.json](./120063-hijos-del-invierno.json) |
