@@ -2501,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemasta | 342021 | [342021-elemasta.json](./342021-elemasta.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
 | Elemdian | 265500 | [265500-elemdian.json](./265500-elemdian.json) |
+| Elemenal Knights Online R | 110404 | [110404-elemenal-knights-online-r.json](./110404-elemenal-knights-online-r.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Elemensional Rift | 123261 | [123261-elemensional-rift.json](./123261-elemensional-rift.json) |
