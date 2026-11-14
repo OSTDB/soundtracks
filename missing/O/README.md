@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hour With Mr. Hopp | 344303 | [344303-one-hour-with-mr-hopp.json](./344303-one-hour-with-mr-hopp.json) |
 | One Humanity | 261964 | [261964-one-humanity.json](./261964-one-humanity.json) |
 | One Hundred and Eighty | 73928 | [73928-one-hundred-and-eighty.json](./73928-one-hundred-and-eighty.json) |
+| One Hundred Courage | 133509 | [133509-one-hundred-courage.json](./133509-one-hundred-courage.json) |
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
 | One Hunt | 105149 | [105149-one-hunt.json](./105149-one-hunt.json) |
