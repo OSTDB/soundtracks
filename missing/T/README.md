@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
+| Tadpole Tales | 144438 | [144438-tadpole-tales.json](./144438-tadpole-tales.json) |
 | Tadpole Tap | 187089 | [187089-tadpole-tap.json](./187089-tadpole-tap.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
@@ -5680,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
 | That Dream | 183665 | [183665-that-dream.json](./183665-that-dream.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
+| That Feeling Blue | 144436 | [144436-that-feeling-blue.json](./144436-that-feeling-blue.json) |
 | That Flipping Mountain | 119987 | [119987-that-flipping-mountain.json](./119987-that-flipping-mountain.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
@@ -14662,6 +14664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Valley | 171490 | [171490-the-lost-valley.json](./171490-the-lost-valley.json) |
 | The Lost Valley | 252295 | [252295-the-lost-valley.json](./252295-the-lost-valley.json) |
 | The Lost Valley | 35429 | [35429-the-lost-valley.json](./35429-the-lost-valley.json) |
+| The Lost Vikings | 144422 | [144422-the-lost-vikings.json](./144422-the-lost-vikings.json) |
 | The Lost Vikings | 144423 | [144423-the-lost-vikings.json](./144423-the-lost-vikings.json) |
 | The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
@@ -16710,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher | 307746 | [307746-the-punisher.json](./307746-the-punisher.json) |
 | The Punisher | 4447 | [4447-the-punisher.json](./4447-the-punisher.json) |
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
+| The Punisher WarZone: CaseBox 01 | 144390 | [144390-the-punisher-warzone-casebox-01.json](./144390-the-punisher-warzone-casebox-01.json) |
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
 | The Punk Allen Trilogy | 70811 | [70811-the-punk-allen-trilogy.json](./70811-the-punk-allen-trilogy.json) |
@@ -36396,6 +36400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Treasures | 73063 | [73063-twilight-treasures.json](./73063-twilight-treasures.json) |
 | Twilight Tunnels | 167528 | [167528-twilight-tunnels.json](./167528-twilight-tunnels.json) |
+| Twilight Warrior | 144408 | [144408-twilight-warrior.json](./144408-twilight-warrior.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars | 338602 | [338602-twilight-wars.json](./338602-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
