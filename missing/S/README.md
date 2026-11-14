@@ -38592,6 +38592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hero | 192506 | [192506-sweet-hero.json](./192506-sweet-hero.json) |
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Holes | 392899 | [392899-sweet-holes.json](./392899-sweet-holes.json) |
+| Sweet Holiday Jigsaws: Halloween Night | 157730 | [157730-sweet-holiday-jigsaws-halloween-night.json](./157730-sweet-holiday-jigsaws-halloween-night.json) |
 | Sweet Holiday Jigsaws: Trick or Treat | 226349 | [226349-sweet-holiday-jigsaws-trick-or-treat.json](./226349-sweet-holiday-jigsaws-trick-or-treat.json) |
 | Sweet Home | 310820 | [310820-sweet-home.json](./310820-sweet-home.json) |
 | Sweet Home | 349014 | [349014-sweet-home.json](./349014-sweet-home.json) |
