@@ -22957,6 +22957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbirds | 344248 | [344248-thunderbirds.json](./344248-thunderbirds.json) |
 | Thunderbirds | 74908 | [74908-thunderbirds.json](./74908-thunderbirds.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
+| ThunderBirds Are Go! | 93239 | [93239-thunderbirds-are-go.json](./93239-thunderbirds-are-go.json) |
 | Thunderbirds International Rescue | 49255 | [49255-thunderbirds-international-rescue.json](./49255-thunderbirds-international-rescue.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderbolt | 88236 | [88236-thunderbolt.json](./88236-thunderbolt.json) |
@@ -26591,6 +26592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
+| TLL: Tornado Low Level | 93278 | [93278-tll-tornado-low-level.json](./93278-tll-tornado-low-level.json) |
 | TLO: Casmita | 253817 | [253817-tlo-casmita.json](./253817-tlo-casmita.json) |
 | Tlon: A Misty Story | 67871 | [67871-tlon-a-misty-story.json](./67871-tlon-a-misty-story.json) |
 | Tm Driver | 219760 | [219760-tm-driver.json](./219760-tm-driver.json) |
