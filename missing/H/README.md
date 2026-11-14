@@ -8920,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
 | Himitsu Kessha Q | 261031 | [261031-himitsu-kessha-q.json](./261031-himitsu-kessha-q.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
+| Himitsu no Hanazono | 123126 | [123126-himitsu-no-hanazono.json](./123126-himitsu-no-hanazono.json) |
 | Himitsu no Ooku | 67771 | [67771-himitsu-no-ooku.json](./67771-himitsu-no-ooku.json) |
 | Himitsu Project | 137802 | [137802-himitsu-project.json](./137802-himitsu-project.json) |
 | Himitsu Sentai Metamor V | 107629 | [107629-himitsu-sentai-metamor-v.json](./107629-himitsu-sentai-metamor-v.json) |
