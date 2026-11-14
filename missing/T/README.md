@@ -20112,6 +20112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tuttles: Madcap Misadventures | 62156 | [62156-the-tuttles-madcap-misadventures.json](./62156-the-tuttles-madcap-misadventures.json) |
 | The TV Show | 54891 | [54891-the-tv-show.json](./54891-the-tv-show.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
+| The Twelve Trials | 107483 | [107483-the-twelve-trials.json](./107483-the-twelve-trials.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
 | The Twiggles VR | 107508 | [107508-the-twiggles-vr.json](./107508-the-twiggles-vr.json) |
 | The Twilight of Infinity | 201443 | [201443-the-twilight-of-infinity.json](./201443-the-twilight-of-infinity.json) |
@@ -21921,6 +21922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They're Not Monsters | 250759 | [250759-theyre-not-monsters.json](./250759-theyre-not-monsters.json) |
 | Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
+| Thibalryn | 107469 | [107469-thibalryn.json](./107469-thibalryn.json) |
 | Thicc Wet Paper Layers | 178862 | [178862-thicc-wet-paper-layers.json](./178862-thicc-wet-paper-layers.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thiccfoot | 426020 | [426020-thiccfoot.json](./426020-thiccfoot.json) |
