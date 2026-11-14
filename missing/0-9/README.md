@@ -185,7 +185,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | &0 | 255619 | [255619-and-0.json](./255619-and-0.json) |
 | #!/Bin/Bash | 302821 | [302821-bin-bash.json](./302821-bin-bash.json) |
 | #0 Iggy's Castle | 282334 | [282334-0-iggys-castle.json](./282334-0-iggys-castle.json) |
+| #1 Anagrams | 153555 | [153555-1-anagrams.json](./153555-1-anagrams.json) |
 | #1 Anagrams Sudokus Bundle | 192077 | [192077-1-anagrams-sudokus-bundle.json](./192077-1-anagrams-sudokus-bundle.json) |
+| #1 Crosswords | 153556 | [153556-1-crosswords.json](./153556-1-crosswords.json) |
 | #1 Crosswords Bundle | 153139 | [153139-1-crosswords-bundle.json](./153139-1-crosswords-bundle.json) |
 | #1 Crosswords Sudokus Bundle | 192413 | [192413-1-crosswords-sudokus-bundle.json](./192413-1-crosswords-sudokus-bundle.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
