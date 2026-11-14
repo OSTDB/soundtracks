@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mah~Jomino Deluxe | 146197 | [146197-mah-jomino-deluxe.json](./146197-mah-jomino-deluxe.json) |
 | Maharaja | 64197 | [64197-maharaja.json](./64197-maharaja.json) |
+| Mahasona | 149100 | [149100-mahasona.json](./149100-mahasona.json) |
 | Mahiru no Ankoku | 383421 | [383421-mahiru-no-ankoku.json](./383421-mahiru-no-ankoku.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
@@ -10045,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mèng Huí Sānguó | 154921 | [154921-meng-hui-sanguo.json](./154921-meng-hui-sanguo.json) |
 | Meng Jun Gan Si Dui | 319846 | [319846-meng-jun-gan-si-dui.json](./319846-meng-jun-gan-si-dui.json) |
 | Mèng Luò Fánchén | 148881 | [148881-meng-luo-fanchen.json](./148881-meng-luo-fanchen.json) |
+| Mènghuàn Jiānghú | 148576 | [148576-menghuan-jianghu.json](./148576-menghuan-jianghu.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
 | Mèngyá | 118031 | [118031-mengya.json](./118031-mengya.json) |
 | Menhera & Troll | 344713 | [344713-menhera-and-troll.json](./344713-menhera-and-troll.json) |
@@ -22649,6 +22651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friends the Monster Trainers | 394097 | [394097-my-friends-the-monster-trainers.json](./394097-my-friends-the-monster-trainers.json) |
 | My Frogger Toy Trials | 11482 | [11482-my-frogger-toy-trials.json](./11482-my-frogger-toy-trials.json) |
 | My Fun Facts Coach | 70554 | [70554-my-fun-facts-coach.json](./70554-my-fun-facts-coach.json) |
+| My Funeral Home | 148609 | [148609-my-funeral-home.json](./148609-my-funeral-home.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
 | My Furry Dictator | 168512 | [168512-my-furry-dictator.json](./168512-my-furry-dictator.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
