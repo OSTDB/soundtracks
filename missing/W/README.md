@@ -5000,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Into the Beyond | 139780 | [139780-whispered-secrets-into-the-beyond.json](./139780-whispered-secrets-into-the-beyond.json) |
 | Whispered Secrets: Into the Beyond - Collector's Edition | 43180 | [43180-whispered-secrets-into-the-beyond-collectors-edition.json](./43180-whispered-secrets-into-the-beyond-collectors-edition.json) |
 | Whispered Secrets: Into the Wind | 139781 | [139781-whispered-secrets-into-the-wind.json](./139781-whispered-secrets-into-the-wind.json) |
+| Whispered Secrets: Into the Wind - Collector's Edition | 88334 | [88334-whispered-secrets-into-the-wind-collectors-edition.json](./88334-whispered-secrets-into-the-wind-collectors-edition.json) |
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
 | Whispered Secrets: Poisoner's Masquerade - Collector's Edition | 409717 | [409717-whispered-secrets-poisoners-masquerade-collectors-edition.json](./409717-whispered-secrets-poisoners-masquerade-collectors-edition.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wholesome Monster Girl Academia | 237791 | [237791-wholesome-monster-girl-academia.json](./237791-wholesome-monster-girl-academia.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Wholesome: Heartdrawn | 253533 | [253533-wholesome-heartdrawn.json](./253533-wholesome-heartdrawn.json) |
+| Wholly Shot | 88567 | [88567-wholly-shot.json](./88567-wholly-shot.json) |
 | Whom the Telling Changed | 217677 | [217677-whom-the-telling-changed.json](./217677-whom-the-telling-changed.json) |
 | Whomp 'Em | 48257 | [48257-whomp-em.json](./48257-whomp-em.json) |
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
@@ -8383,6 +8385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Moments - Free Brain Puzzle Games | 102547 | [102547-word-moments-free-brain-puzzle-games.json](./102547-word-moments-free-brain-puzzle-games.json) |
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
 | Word Monsters | 241196 | [241196-word-monsters.json](./241196-word-monsters.json) |
+| Word Mouse | 88561 | [88561-word-mouse.json](./88561-word-mouse.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word Munchers Deluxe | 66722 | [66722-word-munchers-deluxe.json](./66722-word-munchers-deluxe.json) |
 | Word Nut | 104739 | [104739-word-nut.json](./104739-word-nut.json) |
