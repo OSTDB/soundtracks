@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
 | Cabela's Big Game Hunter 2012 (With Top Shot Elite) | 6650 | [6650-cabelas-big-game-hunter-2012-with-top-shot-elite.json](./6650-cabelas-big-game-hunter-2012-with-top-shot-elite.json) |
 | Cabela's Big Game Hunter 4 | 123687 | [123687-cabelas-big-game-hunter-4.json](./123687-cabelas-big-game-hunter-4.json) |
+| Cabela's Big Game Hunter 5: Platinum | 136544 | [136544-cabelas-big-game-hunter-5-platinum.json](./136544-cabelas-big-game-hunter-5-platinum.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter II | 95493 | [95493-cabelas-big-game-hunter-ii.json](./95493-cabelas-big-game-hunter-ii.json) |
 | Cabela's Big Game Hunter II: Open Season | 70190 | [70190-cabelas-big-game-hunter-ii-open-season.json](./70190-cabelas-big-game-hunter-ii-open-season.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Lazlo: Leaky Lake Games | 2808 | [2808-camp-lazlo-leaky-lake-games.json](./2808-camp-lazlo-leaky-lake-games.json) |
 | Camp Lazlo: Squirreled Away | 416333 | [416333-camp-lazlo-squirreled-away.json](./416333-camp-lazlo-squirreled-away.json) |
 | Camp Life: Wilderness Survival 2025 | 362209 | [362209-camp-life-wilderness-survival-2025.json](./362209-camp-life-wilderness-survival-2025.json) |
+| Camp McTex Lake | 136530 | [136530-camp-mctex-lake.json](./136530-camp-mctex-lake.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
 | Camp Pokémon | 52197 | [52197-camp-pokemon.json](./52197-camp-pokemon.json) |
@@ -8933,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
+| Chouchou Jiken Rhapsodic | 136524 | [136524-chouchou-jiken-rhapsodic.json](./136524-chouchou-jiken-rhapsodic.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Chouji Meikyuu Legion | 302247 | [302247-chouji-meikyuu-legion.json](./302247-chouji-meikyuu-legion.json) |
 | Choujikuu Yousai Macross | 281161 | [281161-choujikuu-yousai-macross.json](./281161-choujikuu-yousai-macross.json) |
@@ -15811,6 +15814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook Saga | 302016 | [302016-cook-saga.json](./302016-cook-saga.json) |
 | Cook Serve Forever | 198021 | [198021-cook-serve-forever.json](./198021-cook-serve-forever.json) |
+| Cook to the Beat | 136522 | [136522-cook-to-the-beat.json](./136522-cook-to-the-beat.json) |
 | Cook to Zero | 415341 | [415341-cook-to-zero.json](./415341-cook-to-zero.json) |
 | Cook Wars | 50941 | [50941-cook-wars.json](./50941-cook-wars.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
