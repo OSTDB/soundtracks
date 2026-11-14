@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
 | Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacrymo Tennis 2016 | 135065 | [135065-lacrymo-tennis-2016.json](./135065-lacrymo-tennis-2016.json) |
+| Lactea Volleyball | 166799 | [166799-lactea-volleyball.json](./166799-lactea-volleyball.json) |
 | Lacuna | 138733 | [138733-lacuna.json](./138733-lacuna.json) |
 | Lacuna + Encodya Bundle | 283194 | [283194-lacuna-encodya-bundle.json](./283194-lacuna-encodya-bundle.json) |
 | Lacuna Draft | 220592 | [220592-lacuna-draft.json](./220592-lacuna-draft.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latent Experience | 340899 | [340899-latent-experience.json](./340899-latent-experience.json) |
 | Latent Leftovers | 340900 | [340900-latent-leftovers.json](./340900-latent-leftovers.json) |
 | Later | 348328 | [348328-later.json](./348328-later.json) |
+| Later Daters: Part 2 | 166796 | [166796-later-daters-part-2.json](./166796-later-daters-part-2.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Later Daters: Premium | 204282 | [204282-later-daters-premium.json](./204282-later-daters-premium.json) |
 | Later Elevator | 344721 | [344721-later-elevator.json](./344721-later-elevator.json) |
@@ -4675,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Lianhai Casino | 217048 | [217048-lianhai-casino.json](./217048-lianhai-casino.json) |
 | Lianliankan | 228208 | [228208-lianliankan.json](./228208-lianliankan.json) |
+| Liáozhāi Sōushénjì: Guófēng Kǎpái | 166861 | [166861-liaozhai-soushenji-guofeng-kapai.json](./166861-liaozhai-soushenji-guofeng-kapai.json) |
 | Liar & raiL FanDisk: Hotch Potch | 59171 | [59171-liar-and-rail-fandisk-hotch-potch.json](./59171-liar-and-rail-fandisk-hotch-potch.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
 | Liar Jeannie in Crucifix Kingdom | 131339 | [131339-liar-jeannie-in-crucifix-kingdom.json](./131339-liar-jeannie-in-crucifix-kingdom.json) |
@@ -8241,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopMage: The Infinite Trials | 390835 | [390835-loopmage-the-infinite-trials.json](./390835-loopmage-the-infinite-trials.json) |
 | Loopmancer | 151934 | [151934-loopmancer.json](./151934-loopmancer.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
+| Loopomotive | 166863 | [166863-loopomotive.json](./166863-loopomotive.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
 | Loopover | 282364 | [282364-loopover.json](./282364-loopover.json) |
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
