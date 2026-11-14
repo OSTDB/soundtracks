@@ -9409,6 +9409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Maze | 223238 | [223238-gravity-maze.json](./223238-gravity-maze.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
 | Gravity Mummy | 173022 | [173022-gravity-mummy.json](./173022-gravity-mummy.json) |
+| Gravity Oddity | 168271 | [168271-gravity-oddity.json](./168271-gravity-oddity.json) |
 | Gravity Panda | 114263 | [114263-gravity-panda.json](./114263-gravity-panda.json) |
 | Gravity Pilot! | 194366 | [194366-gravity-pilot.json](./194366-gravity-pilot.json) |
 | Gravity Power | 28390 | [28390-gravity-power.json](./28390-gravity-power.json) |
