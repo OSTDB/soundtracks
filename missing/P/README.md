@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
+| Paradise City VR | 113060 | [113060-paradise-city-vr.json](./113060-paradise-city-vr.json) |
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning: Me and my Doctor's Life in the Hospital | 207648 | [207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json](./207648-paradise-cleaning-me-and-my-doctors-life-in-the-hospital.json) |
 | Paradise Cleaning! | 110652 | [110652-paradise-cleaning.json](./110652-paradise-cleaning.json) |
@@ -8911,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
+| Pixel Fishies | 113070 | [113070-pixel-fishies.json](./113070-pixel-fishies.json) |
 | Pixel Fixel | 289020 | [289020-pixel-fixel.json](./289020-pixel-fixel.json) |
 | Pixel Fixel: Remixel Edition | 336822 | [336822-pixel-fixel-remixel-edition.json](./336822-pixel-fixel-remixel-edition.json) |
 | Pixel Fixer | 161556 | [161556-pixel-fixer.json](./161556-pixel-fixer.json) |
@@ -17214,6 +17216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
 | Project Adventurer | 137523 | [137523-project-adventurer.json](./137523-project-adventurer.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
+| Project Aeronaut | 113095 | [113095-project-aeronaut.json](./113095-project-aeronaut.json) |
 | Project Aether: First Contact | 110732 | [110732-project-aether-first-contact.json](./110732-project-aether-first-contact.json) |
 | Project After: Shadow Theory | 316323 | [316323-project-after-shadow-theory.json](./316323-project-after-shadow-theory.json) |
 | Project Aftermath | 15964 | [15964-project-aftermath.json](./15964-project-aftermath.json) |
