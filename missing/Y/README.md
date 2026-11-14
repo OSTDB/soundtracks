@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Taiji | 152998 | [152998-yokai-taiji.json](./152998-yokai-taiji.json) |
 | Yokai Tales: Fox | 295411 | [295411-yokai-tales-fox.json](./295411-yokai-tales-fox.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
+| Yokai Tantei Chima Chima | 138872 | [138872-yokai-tantei-chima-chima.json](./138872-yokai-tantei-chima-chima.json) |
 | Yokai Watch Go | 231875 | [231875-yokai-watch-go.json](./231875-yokai-watch-go.json) |
 | Yokai Yashiki | 41265 | [41265-yokai-yashiki.json](./41265-yokai-yashiki.json) |
 | Yokai-dou | 137949 | [137949-yokai-dou.json](./137949-yokai-dou.json) |
