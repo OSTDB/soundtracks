@@ -16857,6 +16857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation - Gauntlet | 170302 | [170302-ashes-of-the-singularity-escalation-gauntlet.json](./170302-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Hunter / Prey | 167315 | [167315-ashes-of-the-singularity-escalation-hunter-prey.json](./167315-ashes-of-the-singularity-escalation-hunter-prey.json) |
 | Ashes of the Singularity: Escalation - Hunter/Prey | 155086 | [155086-ashes-of-the-singularity-escalation-hunter-prey.json](./155086-ashes-of-the-singularity-escalation-hunter-prey.json) |
+| Ashes of the Singularity: Escalation - Inception | 124888 | [124888-ashes-of-the-singularity-escalation-inception.json](./124888-ashes-of-the-singularity-escalation-inception.json) |
 | Ashes of the Singularity: Escalation - Juggernaut | 170301 | [170301-ashes-of-the-singularity-escalation-juggernaut.json](./170301-ashes-of-the-singularity-escalation-juggernaut.json) |
 | Ashes of the Singularity: Escalation - Oblivion | 124828 | [124828-ashes-of-the-singularity-escalation-oblivion.json](./124828-ashes-of-the-singularity-escalation-oblivion.json) |
 | Ashes of the Singularity: Escalation - Oblivion | 170299 | [170299-ashes-of-the-singularity-escalation-oblivion.json](./170299-ashes-of-the-singularity-escalation-oblivion.json) |
