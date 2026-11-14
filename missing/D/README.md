@@ -15572,7 +15572,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Douse | 126175 | [126175-douse.json](./126175-douse.json) |
 | Dousei | 98728 | [98728-dousei.json](./98728-dousei.json) |
+| Dousoukai 2: Again & Refrain | 97576 | [97576-dousoukai-2-again-and-refrain.json](./97576-dousoukai-2-again-and-refrain.json) |
+| Dousoukai Again | 97578 | [97578-dousoukai-again.json](./97578-dousoukai-again.json) |
+| Dousoukai Refrain | 97577 | [97577-dousoukai-refrain.json](./97577-dousoukai-refrain.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
+| Dousoukai: Yesterday Once More | 97575 | [97575-dousoukai-yesterday-once-more.json](./97575-dousoukai-yesterday-once-more.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
 | Dovadula's Burn | 125020 | [125020-dovadulas-burn.json](./125020-dovadulas-burn.json) |
 | Dove | 405294 | [405294-dove.json](./405294-dove.json) |
