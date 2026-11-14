@@ -5286,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaive 3 | 262011 | [262011-glaive-3.json](./262011-glaive-3.json) |
 | Glaive: Brick Breaker | 95216 | [95216-glaive-brick-breaker.json](./95216-glaive-brick-breaker.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
+| GlaiveZ | 126107 | [126107-glaivez.json](./126107-glaivez.json) |
 | Glam Descent | 260003 | [260003-glam-descent.json](./260003-glam-descent.json) |
 | Glam Doll House: Fashion Girls Craft & Exploration | 88025 | [88025-glam-doll-house-fashion-girls-craft-and-exploration.json](./88025-glam-doll-house-fashion-girls-craft-and-exploration.json) |
 | Glam Pursuit | 268279 | [268279-glam-pursuit.json](./268279-glam-pursuit.json) |
@@ -6902,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoFetch | 106449 | [106449-gofetch.json](./106449-gofetch.json) |
 | GoFish: Avoid the Dams | 252571 | [252571-gofish-avoid-the-dams.json](./252571-gofish-avoid-the-dams.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
+| GoFishing3D: The Real Fishing | 126092 | [126092-gofishing3d-the-real-fishing.json](./126092-gofishing3d-the-real-fishing.json) |
 | Gofungo no Sekai: Five Minutes from nowhere | 112546 | [112546-gofungo-no-sekai-five-minutes-from-nowhere.json](./112546-gofungo-no-sekai-five-minutes-from-nowhere.json) |
 | GOG Adventure & Puzzle Bundle | 233352 | [233352-gog-adventure-and-puzzle-bundle.json](./233352-gog-adventure-and-puzzle-bundle.json) |
 | GOG Collection Shooter Pack | 233349 | [233349-gog-collection-shooter-pack.json](./233349-gog-collection-shooter-pack.json) |
@@ -7019,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Crusader | 30517 | [30517-gold-crusader.json](./30517-gold-crusader.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
+| Gold Digger FRVR | 126088 | [126088-gold-digger-frvr.json](./126088-gold-digger-frvr.json) |
 | Gold Digger Maze | 105380 | [105380-gold-digger-maze.json](./105380-gold-digger-maze.json) |
 | Gold Digger: The Lost Mines | 214811 | [214811-gold-digger-the-lost-mines.json](./214811-gold-digger-the-lost-mines.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
@@ -9474,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Quest | 39764 | [39764-gravity-quest.json](./39764-gravity-quest.json) |
 | Gravity Racers | 379054 | [379054-gravity-racers.json](./379054-gravity-racers.json) |
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
+| Gravity Reversal | 126057 | [126057-gravity-reversal.json](./126057-gravity-reversal.json) |
 | Gravity Rider | 95075 | [95075-gravity-rider.json](./95075-gravity-rider.json) |
 | Gravity Rider Zero | 147134 | [147134-gravity-rider-zero.json](./147134-gravity-rider-zero.json) |
 | Gravity Rider: Space Bike Racing Game Online | 108239 | [108239-gravity-rider-space-bike-racing-game-online.json](./108239-gravity-rider-space-bike-racing-game-online.json) |
