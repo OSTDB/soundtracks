@@ -4130,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy load | 129927 | [129927-heavy-load.json](./129927-heavy-load.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
+| Heavy Memories | 112388 | [112388-heavy-memories.json](./112388-heavy-memories.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
 | Heavy Metal | 46797 | [46797-heavy-metal.json](./46797-heavy-metal.json) |
 | Heavy Metal Babes | 172332 | [172332-heavy-metal-babes.json](./172332-heavy-metal-babes.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs of the Fountains | 418724 | [418724-heirs-of-the-fountains.json](./418724-heirs-of-the-fountains.json) |
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
+| Heisa Byouin | 112555 | [112555-heisa-byouin.json](./112555-heisa-byouin.json) |
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
 | Heisei Inu Monogatari Bow: Pop'n Smash | 38123 | [38123-heisei-inu-monogatari-bow-popn-smash.json](./38123-heisei-inu-monogatari-bow-popn-smash.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
@@ -9016,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | HiQ Ace Deluxe | 234267 | [234267-hiq-ace-deluxe.json](./234267-hiq-ace-deluxe.json) |
 | HIQ Ace Unlimited | 142548 | [142548-hiq-ace-unlimited.json](./142548-hiq-ace-unlimited.json) |
+| Hir Corruption | 112380 | [112380-hir-corruption.json](./112380-hir-corruption.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 182591 | [182591-hiraeth.json](./182591-hiraeth.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
