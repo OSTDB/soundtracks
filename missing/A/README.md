@@ -13102,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo's Adventure | 211050 | [211050-apollos-adventure.json](./211050-apollos-adventure.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
+| Apollon 88 | 158254 | [158254-apollon-88.json](./158254-apollon-88.json) |
 | Apollyon | 423211 | [423211-apollyon.json](./423211-apollyon.json) |
 | Apollyon: River of Life | 158365 | [158365-apollyon-river-of-life.json](./158365-apollyon-river-of-life.json) |
 | Apologies, for what it's worth. | 181809 | [181809-apologies-for-what-its-worth.json](./181809-apologies-for-what-its-worth.json) |
@@ -13701,6 +13702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc the Lad: Twilight of the Spirits | 21558 | [21558-arc-the-lad-twilight-of-the-spirits.json](./21558-arc-the-lad-twilight-of-the-spirits.json) |
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
+| Arc Wizards | 158250 | [158250-arc-wizards.json](./158250-arc-wizards.json) |
 | Arc Wizards 2 | 149893 | [149893-arc-wizards-2.json](./149893-arc-wizards-2.json) |
 | Arc Wizards 3 | 157426 | [157426-arc-wizards-3.json](./157426-arc-wizards-3.json) |
 | Arc-en-ciel no Majuu | 411897 | [411897-arc-en-ciel-no-majuu.json](./411897-arc-en-ciel-no-majuu.json) |
