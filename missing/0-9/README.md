@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
+| 1979: The Game | 137172 | [137172-1979-the-game.json](./137172-1979-the-game.json) |
 | 1980 | 148608 | [148608-1980.json](./148608-1980.json) |
 | 1982 | 43126 | [43126-1982.json](./43126-1982.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games In 1: Disney's Brother Bear + Disney Princess | 79840 | [79840-2-games-in-1-disneys-brother-bear-disney-princess.json](./79840-2-games-in-1-disneys-brother-bear-disney-princess.json) |
 | 2 Games in 1: Finding Nemo + The Incredibles | 327394 | [327394-2-games-in-1-finding-nemo-the-incredibles.json](./327394-2-games-in-1-finding-nemo-the-incredibles.json) |
 | 2 Games In 1: Golden Nugget Casino & Texas Hold 'Em Poker | 98730 | [98730-2-games-in-1-golden-nugget-casino-and-texas-hold-em-poker.json](./98730-2-games-in-1-golden-nugget-casino-and-texas-hold-em-poker.json) |
+| 2 Games In 1: LEGO Knights' Kingdom + LEGO Bionicle | 137166 | [137166-2-games-in-1-lego-knights-kingdom-lego-bionicle.json](./137166-2-games-in-1-lego-knights-kingdom-lego-bionicle.json) |
 | 2 Games In 1: Monster Trucks & Quad Desert Fury | 79720 | [79720-2-games-in-1-monster-trucks-and-quad-desert-fury.json](./79720-2-games-in-1-monster-trucks-and-quad-desert-fury.json) |
 | 2 Games in 1: My Riding Stables 3D - Jumping for the Team + My Riding Stables 3D | 145525 | [145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json](./145525-2-games-in-1-my-riding-stables-3d-jumping-for-the-team-my-riding-stables-3d.json) |
 | 2 Games in 1: Sonic Advance + ChuChu Rocket! | 86053 | [86053-2-games-in-1-sonic-advance-chuchu-rocket.json](./86053-2-games-in-1-sonic-advance-chuchu-rocket.json) |
