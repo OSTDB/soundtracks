@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [ VOID ] | 384048 | [384048-void.json](./384048-void.json) |
 | [Afantasia] | 346494 | [346494-afantasia.json](./346494-afantasia.json) |
 | [Don't] Let Go | 371279 | [371279-dont-let-go.json](./371279-dont-let-go.json) |
+| [Grand Prototype] | 131690 | [131690-grand-prototype.json](./131690-grand-prototype.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
 | [Hell is Empty] | 412727 | [412727-hell-is-empty.json](./412727-hell-is-empty.json) |
 | [Herror] Gas Station Case | 369486 | [369486-herror-gas-station-case.json](./369486-herror-gas-station-case.json) |
@@ -3731,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8089: The Next Action RPG | 181023 | [181023-8089-the-next-action-rpg.json](./181023-8089-the-next-action-rpg.json) |
 | 808cc | 251894 | [251894-808cc.json](./251894-808cc.json) |
 | 808s&Genetics | 264544 | [264544-808s-and-genetics.json](./264544-808s-and-genetics.json) |
+| 80S escape | 132231 | [132231-80s-escape.json](./132231-80s-escape.json) |
 | 80s Mania Wrestling | 232083 | [232083-80s-mania-wrestling.json](./232083-80s-mania-wrestling.json) |
 | 80s Mania Wrestling Returns | 256502 | [256502-80s-mania-wrestling-returns.json](./256502-80s-mania-wrestling-returns.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
