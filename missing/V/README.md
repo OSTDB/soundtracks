@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
 | Vaccine Rebirth VR | 264178 | [264178-vaccine-rebirth-vr.json](./264178-vaccine-rebirth-vr.json) |
 | Vaccine War | 33231 | [33231-vaccine-war.json](./33231-vaccine-war.json) |
+| Vaccine19 | 149626 | [149626-vaccine19.json](./149626-vaccine19.json) |
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
 | Vacuous Sugar Quest | 350707 | [350707-vacuous-sugar-quest.json](./350707-vacuous-sugar-quest.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
+| VR Immortal Fight | 149621 | [149621-vr-immortal-fight.json](./149621-vr-immortal-fight.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
 | VR Invaders | 30365 | [30365-vr-invaders.json](./30365-vr-invaders.json) |
 | VR Invaders: Complete Edition | 53018 | [53018-vr-invaders-complete-edition.json](./53018-vr-invaders-complete-edition.json) |
