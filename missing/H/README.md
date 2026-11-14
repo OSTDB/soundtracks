@@ -7067,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
 | Heroines' Chord | 422068 | [422068-heroines-chord.json](./422068-heroines-chord.json) |
 | Heróis de Noname | 318850 | [318850-herois-de-noname.json](./318850-herois-de-noname.json) |
+| Heróis e Vampiros | 93240 | [93240-herois-e-vampiros.json](./93240-herois-e-vampiros.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
 | Heroki | 96612 | [96612-heroki.json](./96612-heroki.json) |
