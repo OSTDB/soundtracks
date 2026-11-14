@@ -3824,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
 | Heartless Corporation | 271625 | [271625-heartless-corporation.json](./271625-heartless-corporation.json) |
 | Heartless Dark | 176100 | [176100-heartless-dark.json](./176100-heartless-dark.json) |
+| Heartless Reseller is Roguelike | 132323 | [132323-heartless-reseller-is-roguelike.json](./132323-heartless-reseller-is-roguelike.json) |
 | Heartlight | 57585 | [57585-heartlight.json](./57585-heartlight.json) |
 | Heartlight PC | 408254 | [408254-heartlight-pc.json](./408254-heartlight-pc.json) |
 | Heartlines | 390264 | [390264-heartlines.json](./390264-heartlines.json) |
@@ -9216,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | Hit the Motherlode | 184137 | [184137-hit-the-motherlode.json](./184137-hit-the-motherlode.json) |
 | Hit the Pillar | 232339 | [232339-hit-the-pillar.json](./232339-hit-the-pillar.json) |
+| Hit Zero: Chronos | 132284 | [132284-hit-zero-chronos.json](./132284-hit-zero-chronos.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | Hit: Reboot | 224397 | [224397-hit-reboot.json](./224397-hit-reboot.json) |
 | Hit! Spin! Watermelon Party | 358658 | [358658-hit-spin-watermelon-party.json](./358658-hit-spin-watermelon-party.json) |
@@ -9960,6 +9962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holmes from Homes | 257184 | [257184-holmes-from-homes.json](./257184-holmes-from-homes.json) |
 | Holmes Sherlock & Mycroft | 247367 | [247367-holmes-sherlock-and-mycroft.json](./247367-holmes-sherlock-and-mycroft.json) |
+| Holmgang: Memories of the Forgotten | 132293 | [132293-holmgang-memories-of-the-forgotten.json](./132293-holmgang-memories-of-the-forgotten.json) |
 | Holo & Veil | 236079 | [236079-holo-and-veil.json](./236079-holo-and-veil.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
 | Holo Bike 3D | 293670 | [293670-holo-bike-3d.json](./293670-holo-bike-3d.json) |
