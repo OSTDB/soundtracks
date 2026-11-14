@@ -13658,9 +13658,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
+| The Legend of Heroes: Sora no Kiseki SC Evolution | 153539 | [153539-the-legend-of-heroes-sora-no-kiseki-sc-evolution.json](./153539-the-legend-of-heroes-sora-no-kiseki-sc-evolution.json) |
 | The Legend of Heroes: Sora no Kiseki SC Evolution - Chara-Ani Limited Box | 268053 | [268053-the-legend-of-heroes-sora-no-kiseki-sc-evolution-chara-ani-limited-box.json](./268053-the-legend-of-heroes-sora-no-kiseki-sc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki SC Evolution - Limited Edition | 268052 | [268052-the-legend-of-heroes-sora-no-kiseki-sc-evolution-limited-edition.json](./268052-the-legend-of-heroes-sora-no-kiseki-sc-evolution-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki SC Kai - HD Edition | 268050 | [268050-the-legend-of-heroes-sora-no-kiseki-sc-kai-hd-edition.json](./268050-the-legend-of-heroes-sora-no-kiseki-sc-kai-hd-edition.json) |
+| The Legend of Heroes: Sora no Kiseki the 3rd Evolution | 153540 | [153540-the-legend-of-heroes-sora-no-kiseki-the-3rd-evolution.json](./153540-the-legend-of-heroes-sora-no-kiseki-the-3rd-evolution.json) |
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
 | The Legend of Heroes: Trails Beyond the Horizon - Complete Launch Edition | 401965 | [401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json](./401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json) |
@@ -21727,6 +21729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Sold a Million | 56933 | [56933-they-sold-a-million.json](./56933-they-sold-a-million.json) |
 | They Sold a Million 3 | 70061 | [70061-they-sold-a-million-3.json](./70061-they-sold-a-million-3.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
+| They Speak From the Abyss | 153550 | [153550-they-speak-from-the-abyss.json](./153550-they-speak-from-the-abyss.json) |
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
 | They Speak To Us | 289830 | [289830-they-speak-to-us.json](./289830-they-speak-to-us.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
@@ -30289,6 +30292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toyota Celica GT Rally | 69772 | [69772-toyota-celica-gt-rally.json](./69772-toyota-celica-gt-rally.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys | 307649 | [307649-toys.json](./307649-toys.json) |
+| Toys 'n' Traps | 154044 | [154044-toys-n-traps.json](./154044-toys-n-traps.json) |
 | Toys & Physics | 153314 | [153314-toys-and-physics.json](./153314-toys-and-physics.json) |
 | Toys and Me: Bubble Pop | 98845 | [98845-toys-and-me-bubble-pop.json](./98845-toys-and-me-bubble-pop.json) |
 | Toys Cracker | 310081 | [310081-toys-cracker.json](./310081-toys-cracker.json) |
