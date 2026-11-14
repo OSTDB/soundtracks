@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Area 51 | 355889 | [355889-idle-area-51.json](./355889-idle-area-51.json) |
+| Idle Armada | 156750 | [156750-idle-armada.json](./156750-idle-armada.json) |
 | Idle Army Base | 135406 | [135406-idle-army-base.json](./135406-idle-army-base.json) |
 | Idle Asteroids | 419194 | [419194-idle-asteroids.json](./419194-idle-asteroids.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
@@ -5047,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Soccer | 169649 | [169649-inside-soccer.json](./169649-inside-soccer.json) |
 | Inside the Backrooms | 201506 | [201506-inside-the-backrooms.json](./201506-inside-the-backrooms.json) |
 | Inside The Backrooms | 397869 | [397869-inside-the-backrooms.json](./397869-inside-the-backrooms.json) |
+| Inside the Box | 157221 | [157221-inside-the-box.json](./157221-inside-the-box.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
 | Inside the Code | 33803 | [33803-inside-the-code.json](./33803-inside-the-code.json) |
 | Inside the Computer | 130095 | [130095-inside-the-computer.json](./130095-inside-the-computer.json) |
