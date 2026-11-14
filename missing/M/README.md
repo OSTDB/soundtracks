@@ -5687,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Dodging | 367631 | [367631-master-of-dodging.json](./367631-master-of-dodging.json) |
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
+| Master of Eternity(MOE) | 92205 | [92205-master-of-eternity-moe.json](./92205-master-of-eternity-moe.json) |
 | Master of Fried Rice | 302843 | [302843-master-of-fried-rice.json](./302843-master-of-fried-rice.json) |
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
@@ -6289,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Patrol: The Kleptoid Threat | 49475 | [49475-math-patrol-the-kleptoid-threat.json](./49475-math-patrol-the-kleptoid-threat.json) |
 | Math Patrol: The Venus Virus | 209543 | [209543-math-patrol-the-venus-virus.json](./209543-math-patrol-the-venus-virus.json) |
 | Math Pixels | 294260 | [294260-math-pixels.json](./294260-math-pixels.json) |
+| Math Play | 92738 | [92738-math-play.json](./92738-math-play.json) |
 | Math Playground for Kids | 103748 | [103748-math-playground-for-kids.json](./103748-math-playground-for-kids.json) |
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
 | Math Push | 380828 | [380828-math-push.json](./380828-math-push.json) |
@@ -6517,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MawaruWorld | 185235 | [185235-mawaruworld.json](./185235-mawaruworld.json) |
 | Mawashite Tsunageru Touch Panic | 66498 | [66498-mawashite-tsunageru-touch-panic.json](./66498-mawashite-tsunageru-touch-panic.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
+| Mawaza | 92722 | [92722-mawaza.json](./92722-mawaza.json) |
 | Mawgate | 396639 | [396639-mawgate.json](./396639-mawgate.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
 | Mawn | 182564 | [182564-mawn.json](./182564-mawn.json) |
@@ -16476,6 +16479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moémon: Heart of Gold | 261128 | [261128-moemon-heart-of-gold.json](./261128-moemon-heart-of-gold.json) |
 | MoeMoni Land | 275973 | [275973-moemoni-land.json](./275973-moemoni-land.json) |
 | Moen | 258350 | [258350-moen.json](./258350-moen.json) |
+| Moenikki | 92713 | [92713-moenikki.json](./92713-moenikki.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
 | Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
@@ -21416,6 +21420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchkin.io | 111823 | [111823-munchkin-io.json](./111823-munchkin-io.json) |
 | Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
+| MunchMobile | 92726 | [92726-munchmobile.json](./92726-munchmobile.json) |
 | Munchy 64 | 343415 | [343415-munchy-64.json](./343415-munchy-64.json) |
 | Munchy Cat | 389476 | [389476-munchy-cat.json](./389476-munchy-cat.json) |
 | Munchy Mammals | 248083 | [248083-munchy-mammals.json](./248083-munchy-mammals.json) |
