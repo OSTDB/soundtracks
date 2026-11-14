@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casina: A Visual Novel set in Ancient Greece | 144016 | [144016-casina-a-visual-novel-set-in-ancient-greece.json](./144016-casina-a-visual-novel-set-in-ancient-greece.json) |
 | Casino | 206887 | [206887-casino.json](./206887-casino.json) |
 | Casino | 54797 | [54797-casino.json](./54797-casino.json) |
+| Casino Bar Mokuyoubi: Poker | 151867 | [151867-casino-bar-mokuyoubi-poker.json](./151867-casino-bar-mokuyoubi-poker.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
@@ -4461,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Doctor | 372763 | [372763-cat-doctor.json](./372763-cat-doctor.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat doesn't like banana | 108033 | [108033-cat-doesnt-like-banana.json](./108033-cat-doesnt-like-banana.json) |
+| Cat Dog Adventure Casual RPG | 151772 | [151772-cat-dog-adventure-casual-rpg.json](./151772-cat-dog-adventure-casual-rpg.json) |
 | Cat Drift | 320824 | [320824-cat-drift.json](./320824-cat-drift.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Dungeon Escape | 153132 | [153132-cat-dungeon-escape.json](./153132-cat-dungeon-escape.json) |
@@ -14905,6 +14907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conejito Cagón | 398749 | [398749-conejito-cagon.json](./398749-conejito-cagon.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
+| Conet | 151761 | [151761-conet.json](./151761-conet.json) |
 | Conexo | 285651 | [285651-conexo.json](./285651-conexo.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
 | Conexus | 243652 | [243652-conexus.json](./243652-conexus.json) |
@@ -18827,6 +18830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
 | Crazy_Run | 175488 | [175488-crazy-run.json](./175488-crazy-run.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
+| Crazy! Laundry Game: Don't Hit Mom With Dangerous | 151767 | [151767-crazy-laundry-game-dont-hit-mom-with-dangerous.json](./151767-crazy-laundry-game-dont-hit-mom-with-dangerous.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
 | CrazyCaps | 217038 | [217038-crazycaps.json](./217038-crazycaps.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
