@@ -3629,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Beat Strikers | 304923 | [304923-heart-beat-strikers.json](./304923-heart-beat-strikers.json) |
 | Heart Box | 182008 | [182008-heart-box.json](./182008-heart-box.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
+| Heart Chain Kitty | 111107 | [111107-heart-chain-kitty.json](./111107-heart-chain-kitty.json) |
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
 | Heroes in the Sky | 66440 | [66440-heroes-in-the-sky.json](./66440-heroes-in-the-sky.json) |
 | Heroes in the Sky-Origin | 114198 | [114198-heroes-in-the-sky-origin.json](./114198-heroes-in-the-sky-origin.json) |
+| Heroes Legend: Idle RPG | 111287 | [111287-heroes-legend-idle-rpg.json](./111287-heroes-legend-idle-rpg.json) |
 | Heroes Legend: Sotalon Era | 181591 | [181591-heroes-legend-sotalon-era.json](./181591-heroes-legend-sotalon-era.json) |
 | Heroes Lineage | 210954 | [210954-heroes-lineage.json](./210954-heroes-lineage.json) |
 | Heroes Lore: Wind of Soltia | 323649 | [323649-heroes-lore-wind-of-soltia.json](./323649-heroes-lore-wind-of-soltia.json) |
@@ -12085,6 +12087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | Hotprops | 58929 | [58929-hotprops.json](./58929-hotprops.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
+| HotPuzzle:Grils | 111278 | [111278-hotpuzzle-grils.json](./111278-hotpuzzle-grils.json) |
 | HOTS: Heart of the Sand | 184019 | [184019-hots-heart-of-the-sand.json](./184019-hots-heart-of-the-sand.json) |
 | Hotseat Wagons 2 | 383898 | [383898-hotseat-wagons-2.json](./383898-hotseat-wagons-2.json) |
 | Hotseat Wagons 2: Level Pack | 383900 | [383900-hotseat-wagons-2-level-pack.json](./383900-hotseat-wagons-2-level-pack.json) |
