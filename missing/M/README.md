@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: The Omertà Collection | 413580 | [413580-mafia-the-omerta-collection.json](./413580-mafia-the-omerta-collection.json) |
 | Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
+| Mafia42 | 133506 | [133506-mafia42.json](./133506-mafia42.json) |
 | Mafiaens Hevn | 58368 | [58368-mafiaens-hevn.json](./58368-mafiaens-hevn.json) |
 | MafiaMatrix | 56015 | [56015-mafiamatrix.json](./56015-mafiamatrix.json) |
 | Mafiaspillet.no | 77693 | [77693-mafiaspillet-no.json](./77693-mafiaspillet-no.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Soldier | 337372 | [337372-magic-soldier.json](./337372-magic-soldier.json) |
 | Magic Solitaire | 54172 | [54172-magic-solitaire.json](./54172-magic-solitaire.json) |
 | Magic Sort! | 392972 | [392972-magic-sort.json](./392972-magic-sort.json) |
+| Magic Spellslingers | 133501 | [133501-magic-spellslingers.json](./133501-magic-spellslingers.json) |
 | Magic Spheres | 146500 | [146500-magic-spheres.json](./146500-magic-spheres.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Staves | 235439 | [235439-magic-staves.json](./235439-magic-staves.json) |
@@ -3693,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAPS (My Apocalyptic Plan for Survival) | 402668 | [402668-maps-my-apocalyptic-plan-for-survival.json](./402668-maps-my-apocalyptic-plan-for-survival.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
+| Maps and Graphs with Miss Melberry | 133495 | [133495-maps-and-graphs-with-miss-melberry.json](./133495-maps-and-graphs-with-miss-melberry.json) |
 | Maps of our World | 108213 | [108213-maps-of-our-world.json](./108213-maps-of-our-world.json) |
 | Maps: U.S.A. | 201011 | [201011-maps-u-s-a.json](./201011-maps-u-s-a.json) |
 | Mapsnatch | 186639 | [186639-mapsnatch.json](./186639-mapsnatch.json) |
@@ -5042,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty and the Trouble with Cheese | 144553 | [144553-marty-and-the-trouble-with-cheese.json](./144553-marty-and-the-trouble-with-cheese.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Marty Thinks 4th Dimensionally | 54807 | [54807-marty-thinks-4th-dimensionally.json](./54807-marty-thinks-4th-dimensionally.json) |
+| Marty's Family Reader | 133497 | [133497-martys-family-reader.json](./133497-martys-family-reader.json) |
 | Marty's Funducational Tour! | 348845 | [348845-martys-funducational-tour.json](./348845-martys-funducational-tour.json) |
 | Marty's Zapstack | 79633 | [79633-martys-zapstack.json](./79633-martys-zapstack.json) |
 | Martyr | 384148 | [384148-martyr.json](./384148-martyr.json) |
