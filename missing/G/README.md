@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostie Town | 423257 | [423257-ghostie-town.json](./423257-ghostie-town.json) |
 | Ghostie's Escape | 340299 | [340299-ghosties-escape.json](./340299-ghosties-escape.json) |
 | Ghosting Vandal | 235036 | [235036-ghosting-vandal.json](./235036-ghosting-vandal.json) |
+| Ghostist | 157754 | [157754-ghostist.json](./157754-ghostist.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostkin Capers | 211867 | [211867-ghostkin-capers.json](./211867-ghostkin-capers.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
