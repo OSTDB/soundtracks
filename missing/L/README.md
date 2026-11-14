@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
 | La Fabbrica Spaziale | 145977 | [145977-la-fabbrica-spaziale.json](./145977-la-fabbrica-spaziale.json) |
 | La Fattoria (Farm Slot) | 232278 | [232278-la-fattoria-farm-slot.json](./232278-la-fattoria-farm-slot.json) |
+| La femme qui ne supportait pas les ordinateurs | 138854 | [138854-la-femme-qui-ne-supportait-pas-les-ordinateurs.json](./138854-la-femme-qui-ne-supportait-pas-les-ordinateurs.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
 | La Forêt de Pago: La vengeance du Dragon | 120593 | [120593-la-foret-de-pago-la-vengeance-du-dragon.json](./120593-la-foret-de-pago-la-vengeance-du-dragon.json) |
