@@ -9645,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships at Sea | 251741 | [251741-ships-at-sea.json](./251741-ships-at-sea.json) |
+| Ships at War | 159416 | [159416-ships-at-war.json](./159416-ships-at-war.json) |
 | Ships N' Battles | 13097 | [13097-ships-n-battles.json](./13097-ships-n-battles.json) |
 | Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
 | Ships of Chaos | 288642 | [288642-ships-of-chaos.json](./288642-ships-of-chaos.json) |
@@ -11117,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | SideLine | 243796 | [243796-sideline.json](./243796-sideline.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
+| Sideliner | 159367 | [159367-sideliner.json](./159367-sideliner.json) |
 | Sidequest | 190758 | [190758-sidequest.json](./190758-sidequest.json) |
 | SideQuest | 398501 | [398501-sidequest.json](./398501-sidequest.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
@@ -16050,6 +16052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
 | Smithy of the Fishy | 184218 | [184218-smithy-of-the-fishy.json](./184218-smithy-of-the-fishy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
+| Smithy Wars | 159415 | [159415-smithy-wars.json](./159415-smithy-wars.json) |
 | Smitty 2 | 316525 | [316525-smitty-2.json](./316525-smitty-2.json) |
 | Smitty's Journey | 179327 | [179327-smittys-journey.json](./179327-smittys-journey.json) |
 | SML Wiki | 373446 | [373446-sml-wiki.json](./373446-sml-wiki.json) |
@@ -20816,6 +20819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Voltex: Exceed Gear | 187235 | [187235-sound-voltex-exceed-gear.json](./187235-sound-voltex-exceed-gear.json) |
 | Sound Voltex: Ultimate Mobile | 197332 | [197332-sound-voltex-ultimate-mobile.json](./197332-sound-voltex-ultimate-mobile.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
+| Sound Waves | 159397 | [159397-sound-waves.json](./159397-sound-waves.json) |
 | Soundart | 127076 | [127076-soundart.json](./127076-soundart.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
@@ -34409,6 +34413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Hook Girl Gaiden: For Smile Giving Birthday | 307972 | [307972-super-hook-girl-gaiden-for-smile-giving-birthday.json](./307972-super-hook-girl-gaiden-for-smile-giving-birthday.json) |
 | Super Hoopers | 234705 | [234705-super-hoopers.json](./234705-super-hoopers.json) |
+| Super Hoops | 159398 | [159398-super-hoops.json](./159398-super-hoops.json) |
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
 | Super Hop 'N' Bop Ultra | 31658 | [31658-super-hop-n-bop-ultra.json](./31658-super-hop-n-bop-ultra.json) |
 | Super Hornet F/A-18F | 49289 | [49289-super-hornet-f-a-18f.json](./49289-super-hornet-f-a-18f.json) |
@@ -39747,6 +39752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
 | Synth Riders: Toto - "Africa" | 352395 | [352395-synth-riders-toto-africa.json](./352395-synth-riders-toto-africa.json) |
 | Synth Riders: Wham! - "Wake Me Up Before You Go-Go" | 353167 | [353167-synth-riders-wham-wake-me-up-before-you-go-go.json](./353167-synth-riders-wham-wake-me-up-before-you-go-go.json) |
+| Synth Run | 159412 | [159412-synth-run.json](./159412-synth-run.json) |
 | Synth Swinger | 156051 | [156051-synth-swinger.json](./156051-synth-swinger.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
