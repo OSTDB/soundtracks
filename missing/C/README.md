@@ -8439,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinmoku no Kantai | 299821 | [299821-chinmoku-no-kantai.json](./299821-chinmoku-no-kantai.json) |
 | Chinomikon | 55269 | [55269-chinomikon.json](./55269-chinomikon.json) |
 | Chio Hero | 97266 | [97266-chio-hero.json](./97266-chio-hero.json) |
+| Chionophile | 145702 | [145702-chionophile.json](./145702-chionophile.json) |
 | Chior | 318131 | [318131-chior.json](./318131-chior.json) |
 | Chip | 7597 | [7597-chip.json](./7597-chip.json) |
 | Chip ‘n Clawz vs. The Brainioids | 333089 | [333089-chip-n-clawz-vs-the-brainioids.json](./333089-chip-n-clawz-vs-the-brainioids.json) |
@@ -8576,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Pixel D | 150855 | [150855-choco-pixel-d.json](./150855-choco-pixel-d.json) |
 | Choco Pixel S | 156828 | [156828-choco-pixel-s.json](./156828-choco-pixel-s.json) |
 | Choco Puzzle | 357980 | [357980-choco-puzzle.json](./357980-choco-puzzle.json) |
+| Choco Rabbit Revenge | 145708 | [145708-choco-rabbit-revenge.json](./145708-choco-rabbit-revenge.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
