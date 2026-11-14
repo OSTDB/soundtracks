@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship World War | 227731 | [227731-warship-world-war.json](./227731-warship-world-war.json) |
 | Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
+| Warships on the Halloween Night | 121783 | [121783-warships-on-the-halloween-night.json](./121783-warships-on-the-halloween-night.json) |
 | Warships Online | 23624 | [23624-warships-online.json](./23624-warships-online.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
 | Warshovel: Idle RPG | 324803 | [324803-warshovel-idle-rpg.json](./324803-warshovel-idle-rpg.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Awakening | 194089 | [194089-way-of-retribution-awakening.json](./194089-way-of-retribution-awakening.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
+| Way of Rhea | 121804 | [121804-way-of-rhea.json](./121804-way-of-rhea.json) |
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
 | Way of Tanks | 246253 | [246253-way-of-tanks.json](./246253-way-of-tanks.json) |
 | Way of the Bullet | 245723 | [245723-way-of-the-bullet.json](./245723-way-of-the-bullet.json) |
@@ -3235,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
 | We Ski & Snowboard | 5276 | [5276-we-ski-and-snowboard.json](./5276-we-ski-and-snowboard.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
+| We Stay Behind | 121827 | [121827-we-stay-behind.json](./121827-we-stay-behind.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Survive Tonight | 199227 | [199227-we-survive-tonight.json](./199227-we-survive-tonight.json) |
 | We Suspect Foul Play | 293338 | [293338-we-suspect-foul-play.json](./293338-we-suspect-foul-play.json) |
@@ -3705,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Paradize: Zombot Edition | 288857 | [288857-welcome-to-paradize-zombot-edition.json](./288857-welcome-to-paradize-zombot-edition.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
 | Welcome to Planet E1d0r4d0! | 279858 | [279858-welcome-to-planet-e1d0r4d0.json](./279858-welcome-to-planet-e1d0r4d0.json) |
+| Welcome to Primrose Lake | 121817 | [121817-welcome-to-primrose-lake.json](./121817-welcome-to-primrose-lake.json) |
 | Welcome to Primrose Lake 2 | 275102 | [275102-welcome-to-primrose-lake-2.json](./275102-welcome-to-primrose-lake-2.json) |
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
 | Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
@@ -4210,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What not coffee | 359629 | [359629-what-not-coffee.json](./359629-what-not-coffee.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
 | What on Earth? | 406778 | [406778-what-on-earth.json](./406778-what-on-earth.json) |
+| What Remains | 121834 | [121834-what-remains.json](./121834-what-remains.json) |
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
@@ -8681,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker Simulator | 275987 | [275987-worker-simulator.json](./275987-worker-simulator.json) |
 | Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
 | Workers & Resources: Soviet Republic - Biomes | 336837 | [336837-workers-and-resources-soviet-republic-biomes.json](./336837-workers-and-resources-soviet-republic-biomes.json) |
+| Workhard | 121799 | [121799-workhard.json](./121799-workhard.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
 | Workhorse Desktop | 387162 | [387162-workhorse-desktop.json](./387162-workhorse-desktop.json) |
 | Working Class Monsters | 390758 | [390758-working-class-monsters.json](./390758-working-class-monsters.json) |
