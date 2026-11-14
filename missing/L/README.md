@@ -10057,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovesick | 306933 | [306933-lovesick.json](./306933-lovesick.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
+| Lovestory | 105578 | [105578-lovestory.json](./105578-lovestory.json) |
 | LoveUnholyc | 194526 | [194526-loveunholyc.json](./194526-loveunholyc.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
 | LoveXLust | 279550 | [279550-lovexlust.json](./279550-lovexlust.json) |
