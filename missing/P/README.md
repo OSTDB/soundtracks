@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Battles: Battles of Normandy | 241428 | [241428-panzer-battles-battles-of-normandy.json](./241428-panzer-battles-battles-of-normandy.json) |
 | Panzer Campaign VII: Kursk '43 | 109182 | [109182-panzer-campaign-vii-kursk-43.json](./109182-panzer-campaign-vii-kursk-43.json) |
+| Panzer Campaigns - Bulge '44 | 106798 | [106798-panzer-campaigns-bulge-44.json](./106798-panzer-campaigns-bulge-44.json) |
 | Panzer Campaigns - Smolensk '41 | 106794 | [106794-panzer-campaigns-smolensk-41.json](./106794-panzer-campaigns-smolensk-41.json) |
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
 | Panzer Campaigns VI: Korsun '44 | 71370 | [71370-panzer-campaigns-vi-korsun-44.json](./71370-panzer-campaigns-vi-korsun-44.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papa's Quiz | 142177 | [142177-papas-quiz.json](./142177-papas-quiz.json) |
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
+| Papa's Scooperia HD | 106198 | [106198-papas-scooperia-hd.json](./106198-papas-scooperia-hd.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papa's Taco Mia To Go! | 345835 | [345835-papas-taco-mia-to-go.json](./345835-papas-taco-mia-to-go.json) |
@@ -8791,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Boy: Lost in the Castle | 231250 | [231250-pixel-boy-lost-in-the-castle.json](./231250-pixel-boy-lost-in-the-castle.json) |
 | Pixel Boy: The Legend of Tain | 219674 | [219674-pixel-boy-the-legend-of-tain.json](./219674-pixel-boy-the-legend-of-tain.json) |
 | Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
+| Pixel Bro: Endless Runner | 106216 | [106216-pixel-bro-endless-runner.json](./106216-pixel-bro-endless-runner.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe | 250826 | [250826-pixel-cafe.json](./250826-pixel-cafe.json) |
 | Pixel Cafe Dreamy Interiors | 378963 | [378963-pixel-cafe-dreamy-interiors.json](./378963-pixel-cafe-dreamy-interiors.json) |
@@ -11708,6 +11711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poeni Sensou: Chichuukai no Inazuma | 332742 | [332742-poeni-sensou-chichuukai-no-inazuma.json](./332742-poeni-sensou-chichuukai-no-inazuma.json) |
 | Poet Squad | 159511 | [159511-poet-squad.json](./159511-poet-squad.json) |
 | Poetic Trio | 369880 | [369880-poetic-trio.json](./369880-poetic-trio.json) |
+| Poetica | 106200 | [106200-poetica.json](./106200-poetica.json) |
 | PoeticRambling | 300663 | [300663-poeticrambling.json](./300663-poeticrambling.json) |
 | Poetry in Purgatory | 255471 | [255471-poetry-in-purgatory.json](./255471-poetry-in-purgatory.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
