@@ -3006,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach To Neighbor House | 241946 | [241946-reach-to-neighbor-house.json](./241946-reach-to-neighbor-house.json) |
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
+| Reach: SOS | 143138 | [143138-reach-sos.json](./143138-reach-sos.json) |
 | Reachin' Pichin | 322826 | [322826-reachin-pichin.json](./322826-reachin-pichin.json) |
 | Reaching for Petals: VR Edition | 68664 | [68664-reaching-for-petals-vr-edition.json](./68664-reaching-for-petals-vr-edition.json) |
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rampant | 304417 | [304417-red-rampant.json](./304417-red-rampant.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Red Tarmac: XL Deluxe | 294613 | [294613-red-red-tarmac-xl-deluxe.json](./294613-red-red-tarmac-xl-deluxe.json) |
+| Red Remover | 143141 | [143141-red-remover.json](./143141-red-remover.json) |
 | Red Remover Blast | 253266 | [253266-red-remover-blast.json](./253266-red-remover-blast.json) |
 | Red Riddles | 376135 | [376135-red-riddles.json](./376135-red-riddles.json) |
 | Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
@@ -7601,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Heaven Re-Megamix | 313055 | [313055-rhythm-heaven-re-megamix.json](./313055-rhythm-heaven-re-megamix.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
+| Rhythm Hive | 143148 | [143148-rhythm-hive.json](./143148-rhythm-hive.json) |
 | Rhythm Journey | 188305 | [188305-rhythm-journey.json](./188305-rhythm-journey.json) |
 | Rhythm Jungle | 174481 | [174481-rhythm-jungle.json](./174481-rhythm-jungle.json) |
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
