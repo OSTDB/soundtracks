@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Souls | 304845 | [304845-happy-souls.json](./304845-happy-souls.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
 | Happy Street | 63750 | [63750-happy-street.json](./63750-happy-street.json) |
+| Happy Summer Holiday | 158260 | [158260-happy-summer-holiday.json](./158260-happy-summer-holiday.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
 | Happy Supercop! Catch the Thief | 388528 | [388528-happy-supercop-catch-the-thief.json](./388528-happy-supercop-catch-the-thief.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Impact | 30485 | [30485-heavy-impact.json](./30485-heavy-impact.json) |
 | Heavy Industries | 176199 | [176199-heavy-industries.json](./176199-heavy-industries.json) |
 | Heavy is the Crown | 180917 | [180917-heavy-is-the-crown.json](./180917-heavy-is-the-crown.json) |
+| Heavy is the Hand that Holds the Six-Shooter | 158266 | [158266-heavy-is-the-hand-that-holds-the-six-shooter.json](./158266-heavy-is-the-hand-that-holds-the-six-shooter.json) |
 | Heavy Karate from Hell | 180402 | [180402-heavy-karate-from-hell.json](./180402-heavy-karate-from-hell.json) |
 | Heavy Lies the Crown | 223240 | [223240-heavy-lies-the-crown.json](./223240-heavy-lies-the-crown.json) |
 | Heavy load | 129927 | [129927-heavy-load.json](./129927-heavy-load.json) |
@@ -8518,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise Guardian | 248084 | [248084-highrise-guardian.json](./248084-highrise-guardian.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
 | Highrise Heroes: Word Challenge | 34120 | [34120-highrise-heroes-word-challenge.json](./34120-highrise-heroes-word-challenge.json) |
+| Highrise Mogul | 158239 | [158239-highrise-mogul.json](./158239-highrise-mogul.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
 | Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
@@ -13025,6 +13028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hundun | 157389 | [157389-hundun.json](./157389-hundun.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
+| Hùndùn Xīyóu | 158236 | [158236-hundun-xiyou.json](./158236-hundun-xiyou.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
 | Hungaz: Epic Minigames | 211876 | [211876-hungaz-epic-minigames.json](./211876-hungaz-epic-minigames.json) |
 | Hunger | 168530 | [168530-hunger.json](./168530-hunger.json) |
