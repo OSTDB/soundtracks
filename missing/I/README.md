@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Scream | 276653 | [276653-i-scream.json](./276653-i-scream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I See Me | 348563 | [348563-i-see-me.json](./348563-i-see-me.json) |
+| I See Red | 149625 | [149625-i-see-red.json](./149625-i-see-red.json) |
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I See You | 135609 | [135609-i-see-you.json](./135609-i-see-you.json) |
 | I See You | 259630 | [259630-i-see-you.json](./259630-i-see-you.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Slider | 409373 | [409373-ice-slider.json](./409373-ice-slider.json) |
 | Ice Slider Z | 294403 | [294403-ice-slider-z.json](./294403-ice-slider-z.json) |
 | Ice Star | 150630 | [150630-ice-star.json](./150630-ice-star.json) |
+| Ice Star Tribes | 149622 | [149622-ice-star-tribes.json](./149622-ice-star-tribes.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Station Z | 195312 | [195312-ice-station-z.json](./195312-ice-station-z.json) |
 | Ice Station Z | 85186 | [85186-ice-station-z.json](./85186-ice-station-z.json) |
