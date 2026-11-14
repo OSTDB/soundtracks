@@ -5267,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
+| Marvel's Avengers: Cosmic Cube | 154632 | [154632-marvels-avengers-cosmic-cube.json](./154632-marvels-avengers-cosmic-cube.json) |
 | Marvel's Avengers: Deluxe Edition | 132980 | [132980-marvels-avengers-deluxe-edition.json](./132980-marvels-avengers-deluxe-edition.json) |
 | Marvel's Avengers: Earth's Mightiest Edition | 135971 | [135971-marvels-avengers-earths-mightiest-edition.json](./135971-marvels-avengers-earths-mightiest-edition.json) |
 | Marvel's Avengers: Endgame Edition | 165868 | [165868-marvels-avengers-endgame-edition.json](./165868-marvels-avengers-endgame-edition.json) |
@@ -5664,6 +5665,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
 | Master of Magic Chess | 29369 | [29369-master-of-magic-chess.json](./29369-master-of-magic-chess.json) |
 | Master of Magic Classic | 148724 | [148724-master-of-magic-classic.json](./148724-master-of-magic-classic.json) |
+| Master of Magic: Caster of Magic | 154677 | [154677-master-of-magic-caster-of-magic.json](./154677-master-of-magic-caster-of-magic.json) |
+| Master of Magic: Caster of Magic for Windows | 154678 | [154678-master-of-magic-caster-of-magic-for-windows.json](./154678-master-of-magic-caster-of-magic-for-windows.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
 | Master of Marbles | 32435 | [32435-master-of-marbles.json](./32435-master-of-marbles.json) |
@@ -10389,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
 | Merge Your Room: Toys Pack | 231229 | [231229-merge-your-room-toys-pack.json](./231229-merge-your-room-toys-pack.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
+| MergeCrafter | 154644 | [154644-mergecrafter.json](./154644-mergecrafter.json) |
 | Merged | 57528 | [57528-merged.json](./57528-merged.json) |
 | Merged Gravity | 258655 | [258655-merged-gravity.json](./258655-merged-gravity.json) |
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
