@@ -5490,10 +5490,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 24: Last Bronx - Tokyo Bangaichi | 100110 | [100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json](./100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json) |
 | Sega Ages 2500 Vol. 25: Gunstar Heroes Treasure Box | 43223 | [43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json](./43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json) |
 | Sega Ages 2500 Vol. 26: Dynamite Deka | 71434 | [71434-sega-ages-2500-vol-26-dynamite-deka.json](./71434-sega-ages-2500-vol-26-dynamite-deka.json) |
+| Sega Ages 2500 Vol. 27: Panzer Dragoon | 140084 | [140084-sega-ages-2500-vol-27-panzer-dragoon.json](./140084-sega-ages-2500-vol-27-panzer-dragoon.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Ages 2500 Vol. 3: Fantasy Zone | 72315 | [72315-sega-ages-2500-vol-3-fantasy-zone.json](./72315-sega-ages-2500-vol-3-fantasy-zone.json) |
 | Sega Ages 2500 Vol. 30: Galaxy Force II - Special Extended Edition | 64897 | [64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json](./64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json) |
+| Sega Ages 2500 Vol. 31: Cyber Troopers Virtual-On | 140085 | [140085-sega-ages-2500-vol-31-cyber-troopers-virtual-on.json](./140085-sega-ages-2500-vol-31-cyber-troopers-virtual-on.json) |
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
 | Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
 | Sega Ages 2500 Vol. 5: Golden Axe | 73128 | [73128-sega-ages-2500-vol-5-golden-axe.json](./73128-sega-ages-2500-vol-5-golden-axe.json) |
@@ -16207,6 +16209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuggler's Run: Warzones | 4153 | [4153-smugglers-run-warzones.json](./4153-smugglers-run-warzones.json) |
 | Smugglers | 140106 | [140106-smugglers.json](./140106-smugglers.json) |
 | Smugglers 2 | 140105 | [140105-smugglers-2.json](./140105-smugglers-2.json) |
+| Smugglers 3 | 140099 | [140099-smugglers-3.json](./140099-smugglers-3.json) |
 | Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
 | Smugglers 5: Invasion - Warrior Within | 170285 | [170285-smugglers-5-invasion-warrior-within.json](./170285-smugglers-5-invasion-warrior-within.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
@@ -33795,6 +33798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bogus World | 64874 | [64874-super-bogus-world.json](./64874-super-bogus-world.json) |
+| Super Bogus World 2 | 140076 | [140076-super-bogus-world-2.json](./140076-super-bogus-world-2.json) |
 | Super Bomb Rush! | 34566 | [34566-super-bomb-rush.json](./34566-super-bomb-rush.json) |
 | Super Bomba League | 401978 | [401978-super-bomba-league.json](./401978-super-bomba-league.json) |
 | Super Bomberman | 198028 | [198028-super-bomberman.json](./198028-super-bomberman.json) |
@@ -34218,6 +34222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Bros | 14581 | [14581-super-dungeon-bros.json](./14581-super-dungeon-bros.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
+| Super Dungeon Designer | 139520 | [139520-super-dungeon-designer.json](./139520-super-dungeon-designer.json) |
 | Super Dungeon Explore | 58550 | [58550-super-dungeon-explore.json](./58550-super-dungeon-explore.json) |
 | Super Dungeon Maker | 152091 | [152091-super-dungeon-maker.json](./152091-super-dungeon-maker.json) |
 | Super Dungeon Maker: DIY Edition | 300884 | [300884-super-dungeon-maker-diy-edition.json](./300884-super-dungeon-maker-diy-edition.json) |
@@ -36686,7 +36691,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Wars: The Empire Strikes Back | 44463 | [44463-super-star-wars-the-empire-strikes-back.json](./44463-super-star-wars-the-empire-strikes-back.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
+| Super Stardust Delta Blast Pack | 140060 | [140060-super-stardust-delta-blast-pack.json](./140060-super-stardust-delta-blast-pack.json) |
 | Super Stardust HD | 2133 | [2133-super-stardust-hd.json](./2133-super-stardust-hd.json) |
+| Super Stardust HD Impact Mode | 140056 | [140056-super-stardust-hd-impact-mode.json](./140056-super-stardust-hd-impact-mode.json) |
+| Super Stardust HD Solo Add-on Pack | 140058 | [140058-super-stardust-hd-solo-add-on-pack.json](./140058-super-stardust-hd-solo-add-on-pack.json) |
+| Super Stardust HD Team Add-on Pack | 140057 | [140057-super-stardust-hd-team-add-on-pack.json](./140057-super-stardust-hd-team-add-on-pack.json) |
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
