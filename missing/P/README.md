@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
 | Pathfinder: Kingmaker | 36929 | [36929-pathfinder-kingmaker.json](./36929-pathfinder-kingmaker.json) |
+| Pathfinder: Kingmaker - Arcane Unleashed | 116523 | [116523-pathfinder-kingmaker-arcane-unleashed.json](./116523-pathfinder-kingmaker-arcane-unleashed.json) |
 | Pathfinder: Kingmaker - Beneath the Stolen Lands | 124975 | [124975-pathfinder-kingmaker-beneath-the-stolen-lands.json](./124975-pathfinder-kingmaker-beneath-the-stolen-lands.json) |
 | Pathfinder: Kingmaker - Bloody Mess | 124898 | [124898-pathfinder-kingmaker-bloody-mess.json](./124898-pathfinder-kingmaker-bloody-mess.json) |
 | Pathfinder: Kingmaker - Definitive Edition | 134568 | [134568-pathfinder-kingmaker-definitive-edition.json](./134568-pathfinder-kingmaker-definitive-edition.json) |
@@ -5784,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasmat: Town of Lost Hope | 104402 | [104402-phantasmat-town-of-lost-hope.json](./104402-phantasmat-town-of-lost-hope.json) |
 | Phantasmat: Town of Lost Hope - Collector’s Edition | 228236 | [228236-phantasmat-town-of-lost-hope-collector-s-edition.json](./228236-phantasmat-town-of-lost-hope-collector-s-edition.json) |
+| Phantasmata | 116511 | [116511-phantasmata.json](./116511-phantasmata.json) |
 | Phantasms: Maledictus | 335206 | [335206-phantasms-maledictus.json](./335206-phantasms-maledictus.json) |
 | Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
@@ -20358,6 +20360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Patrol | 126796 | [126796-puzzle-patrol.json](./126796-puzzle-patrol.json) |
 | Puzzle Pedestrians | 144276 | [144276-puzzle-pedestrians.json](./144276-puzzle-pedestrians.json) |
 | Puzzle Pedestrians | 147840 | [147840-puzzle-pedestrians.json](./147840-puzzle-pedestrians.json) |
+| Puzzle Pelago | 117200 | [117200-puzzle-pelago.json](./117200-puzzle-pelago.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Photographer | 403041 | [403041-puzzle-photographer.json](./403041-puzzle-photographer.json) |
 | Puzzle Photographer 2: Fairy Vacation | 403044 | [403044-puzzle-photographer-2-fairy-vacation.json](./403044-puzzle-photographer-2-fairy-vacation.json) |
