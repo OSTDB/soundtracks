@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elektra | 94018 | [94018-elektra.json](./94018-elektra.json) |
 | ElektraGlide | 13632 | [13632-elektraglide.json](./13632-elektraglide.json) |
 | Elektrek | 57589 | [57589-elektrek.json](./57589-elektrek.json) |
+| Elektrichka | 158238 | [158238-elektrichka.json](./158238-elektrichka.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektro Storm | 14052 | [14052-elektro-storm.json](./14052-elektro-storm.json) |
 | Elektronika 24-01. Igra na ekrane: Mickey Mouse | 245491 | [245491-elektronika-24-01-igra-na-ekrane-mickey-mouse.json](./245491-elektronika-24-01-igra-na-ekrane-mickey-mouse.json) |
@@ -5508,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertha | 201958 | [201958-ertha.json](./201958-ertha.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
+| Ertugrul Gazi | 158252 | [158252-ertugrul-gazi.json](./158252-ertugrul-gazi.json) |
 | Ertugrul Gazi 3 | 194073 | [194073-ertugrul-gazi-3.json](./194073-ertugrul-gazi-3.json) |
 | ERTX 2080TI Mining clicker | 107518 | [107518-ertx-2080ti-mining-clicker.json](./107518-ertx-2080ti-mining-clicker.json) |
 | Erudite with friends | 387456 | [387456-erudite-with-friends.json](./387456-erudite-with-friends.json) |
