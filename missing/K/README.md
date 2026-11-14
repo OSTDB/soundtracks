@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keen | 30163 | [30163-keen.json](./30163-keen.json) |
+| Keen Commander World | 80004 | [80004-keen-commander-world.json](./80004-keen-commander-world.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
 | Keep | 373786 | [373786-keep.json](./373786-keep.json) |
 | Keep 'em Out! | 363128 | [363128-keep-em-out.json](./363128-keep-em-out.json) |
