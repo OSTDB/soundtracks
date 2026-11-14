@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ILive | 110115 | [110115-ilive.json](./110115-ilive.json) |
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
 | Iljimae-jeon: Manpa Sikjeok-pyeon | 258846 | [258846-iljimae-jeon-manpa-sikjeok-pyeon.json](./258846-iljimae-jeon-manpa-sikjeok-pyeon.json) |
+| Ill | 142520 | [142520-ill.json](./142520-ill.json) |
 | Ill Flos | 394288 | [394288-ill-flos.json](./394288-ill-flos.json) |
 | Ill Natured | 340665 | [340665-ill-natured.json](./340665-ill-natured.json) |
 | Ill Ness | 217251 | [217251-ill-ness.json](./217251-ill-ness.json) |
@@ -6886,6 +6887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Keeper | 319051 | [319051-island-keeper.json](./319051-island-keeper.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
+| Island M | 142516 | [142516-island-m.json](./142516-island-m.json) |
 | Island Maker | 383738 | [383738-island-maker.json](./383738-island-maker.json) |
 | Island Marauder | 126371 | [126371-island-marauder.json](./126371-island-marauder.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
