@@ -6492,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent at the Vernissage | 353386 | [353386-serpent-at-the-vernissage.json](./353386-serpent-at-the-vernissage.json) |
 | Serpent in the Staglands | 23440 | [23440-serpent-in-the-staglands.json](./23440-serpent-in-the-staglands.json) |
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
+| Serpent Showdown | 137698 | [137698-serpent-showdown.json](./137698-serpent-showdown.json) |
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
 | Serpent: Resurrection | 268877 | [268877-serpent-resurrection.json](./268877-serpent-resurrection.json) |
@@ -17722,6 +17723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia in Exchange for Lies | 324789 | [324789-sofia-in-exchange-for-lies.json](./324789-sofia-in-exchange-for-lies.json) |
 | Sofia the First | 213469 | [213469-sofia-the-first.json](./213469-sofia-the-first.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
+| Sofia the First: Sofia's New Friends | 137177 | [137177-sofia-the-first-sofias-new-friends.json](./137177-sofia-the-first-sofias-new-friends.json) |
 | Sofia the Witch: Curse of the Monster Moon | 369278 | [369278-sofia-the-witch-curse-of-the-monster-moon.json](./369278-sofia-the-witch-curse-of-the-monster-moon.json) |
 | Sofia? | 177901 | [177901-sofia.json](./177901-sofia.json) |
 | Sofia's Dark Fantasies: Episode 1 | 393691 | [393691-sofias-dark-fantasies-episode-1.json](./393691-sofias-dark-fantasies-episode-1.json) |
@@ -20194,6 +20196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
 | Sorceress Solitaire | 106878 | [106878-sorceress-solitaire.json](./106878-sorceress-solitaire.json) |
 | Sorcerian | 14486 | [14486-sorcerian.json](./14486-sorcerian.json) |
+| Sorcerian Additional Scenario Vol. 1 | 137721 | [137721-sorcerian-additional-scenario-vol-1.json](./137721-sorcerian-additional-scenario-vol-1.json) |
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
@@ -36889,6 +36892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Ultra Usagi Rush!! | 335975 | [335975-super-ultra-usagi-rush.json](./335975-super-ultra-usagi-rush.json) |
+| Super Undercover Slime Agent | 137169 | [137169-super-undercover-slime-agent.json](./137169-super-undercover-slime-agent.json) |
 | Super Universe Brawl | 317503 | [317503-super-universe-brawl.json](./317503-super-universe-brawl.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Urban Wizard | 111414 | [111414-super-urban-wizard.json](./111414-super-urban-wizard.json) |
