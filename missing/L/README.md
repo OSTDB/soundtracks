@@ -5668,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
 | Lily's Memories | 259462 | [259462-lilys-memories.json](./259462-lilys-memories.json) |
 | Lily's Night Off | 104845 | [104845-lilys-night-off.json](./104845-lilys-night-off.json) |
+| LiLy's Revenge: Broken | 164539 | [164539-lilys-revenge-broken.json](./164539-lilys-revenge-broken.json) |
 | Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
 | Lily's Well | 186311 | [186311-lilys-well.json](./186311-lilys-well.json) |
 | Lily's World XD | 323462 | [323462-lilys-world-xd.json](./323462-lilys-world-xd.json) |
@@ -6103,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links LS 2000 | 47120 | [47120-links-ls-2000.json](./47120-links-ls-2000.json) |
 | Links LS 2000: 10 Course Pack | 131270 | [131270-links-ls-2000-10-course-pack.json](./131270-links-ls-2000-10-course-pack.json) |
 | Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
+| Links Puzzle | 164611 | [164611-links-puzzle.json](./164611-links-puzzle.json) |
 | Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
 | Links Quartz | 309389 | [309389-links-quartz.json](./309389-links-quartz.json) |
 | Links: Championship Course - Banff Springs | 69756 | [69756-links-championship-course-banff-springs.json](./69756-links-championship-course-banff-springs.json) |
