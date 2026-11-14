@@ -65,7 +65,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: Limited Edition | 143057 | [143057-r-type-final-2-limited-edition.json](./143057-r-type-final-2-limited-edition.json) |
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
 | R-Type Final 2: Ultimate Edition | 271121 | [271121-r-type-final-2-ultimate-edition.json](./271121-r-type-final-2-ultimate-edition.json) |
-| R-Type Final 3 Evolved | 225779 | [225779-r-type-final-3-evolved.json](./225779-r-type-final-3-evolved.json) |
 | R-Type Final 3 Evolved: Deluxe Edition | 225781 | [225781-r-type-final-3-evolved-deluxe-edition.json](./225781-r-type-final-3-evolved-deluxe-edition.json) |
 | R-Type Final 3 Evolved: Special Edition | 225780 | [225780-r-type-final-3-evolved-special-edition.json](./225780-r-type-final-3-evolved-special-edition.json) |
 | R-Type I | 210579 | [210579-r-type-i.json](./210579-r-type-i.json) |
