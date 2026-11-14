@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
 | Halloween Stories: Horror Movie - Collector's Edition | 173175 | [173175-halloween-stories-horror-movie-collectors-edition.json](./173175-halloween-stories-horror-movie-collectors-edition.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
+| Halloween Stories: Invitation | 99836 | [99836-halloween-stories-invitation.json](./99836-halloween-stories-invitation.json) |
 | Halloween Stories: Mark on the Bone - Collector's Edition | 225011 | [225011-halloween-stories-mark-on-the-bone-collectors-edition.json](./225011-halloween-stories-mark-on-the-bone-collectors-edition.json) |
 | Halloween Stories: The Death Card | 416609 | [416609-halloween-stories-the-death-card.json](./416609-halloween-stories-the-death-card.json) |
 | Halloween Stories: The Death Card - Collector's Edition | 409716 | [409716-halloween-stories-the-death-card-collectors-edition.json](./409716-halloween-stories-the-death-card-collectors-edition.json) |
@@ -5118,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellRazor64 | 226352 | [226352-hellrazor64.json](./226352-hellrazor64.json) |
 | Hellreaper | 371214 | [371214-hellreaper.json](./371214-hellreaper.json) |
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
+| Hellrider 2 | 99270 | [99270-hellrider-2.json](./99270-hellrider-2.json) |
 | Hellrider 3 | 232607 | [232607-hellrider-3.json](./232607-hellrider-3.json) |
 | Hellrifters | 390890 | [390890-hellrifters.json](./390890-hellrifters.json) |
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
@@ -8045,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
 | Hidden Objects Mermaids | 99281 | [99281-hidden-objects-mermaids.json](./99281-hidden-objects-mermaids.json) |
+| Hidden Objects Merry Christmas | 99861 | [99861-hidden-objects-merry-christmas.json](./99861-hidden-objects-merry-christmas.json) |
 | Hidden Objects Mystic Rain | 106709 | [106709-hidden-objects-mystic-rain.json](./106709-hidden-objects-mystic-rain.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
 | Hidden objects Play peek a boo | 100015 | [100015-hidden-objects-play-peek-a-boo.json](./100015-hidden-objects-play-peek-a-boo.json) |
@@ -11396,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
 | Horse Farm Simulator | 312442 | [312442-horse-farm-simulator.json](./312442-horse-farm-simulator.json) |
+| Horse Haven World Adventures | 99850 | [99850-horse-haven-world-adventures.json](./99850-horse-haven-world-adventures.json) |
 | Horse Illustrated Championship Season | 60929 | [60929-horse-illustrated-championship-season.json](./60929-horse-illustrated-championship-season.json) |
 | Horse Isle | 60048 | [60048-horse-isle.json](./60048-horse-isle.json) |
 | Horse Isle 3: Infinite Wilds | 137434 | [137434-horse-isle-3-infinite-wilds.json](./137434-horse-isle-3-infinite-wilds.json) |
