@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabha | 403376 | [403376-gabha.json](./403376-gabha.json) |
 | Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
+| Gabo | 141956 | [141956-gabo.json](./141956-gabo.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
 | Gabriel Knight: Sins of the Fathers | 1250 | [1250-gabriel-knight-sins-of-the-fathers.json](./1250-gabriel-knight-sins-of-the-fathers.json) |
 | Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition | 7859 | [7859-gabriel-knight-sins-of-the-fathers-20th-anniversary-edition.json](./7859-gabriel-knight-sins-of-the-fathers-20th-anniversary-edition.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
 | Gaelic Games: Hurling | 73465 | [73465-gaelic-games-hurling.json](./73465-gaelic-games-hurling.json) |
+| Gag | 141932 | [141932-gag.json](./141932-gag.json) |
 | Gag: Het Impotentie-Mysterie | 69607 | [69607-gag-het-impotentie-mysterie.json](./69607-gag-het-impotentie-mysterie.json) |
 | Gage | 264809 | [264809-gage.json](./264809-gage.json) |
 | Gagged Love | 371154 | [371154-gagged-love.json](./371154-gagged-love.json) |
@@ -3181,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
 | Genesis II | 296814 | [296814-genesis-ii.json](./296814-genesis-ii.json) |
+| Genesis Masterwork Apocalypse | 142506 | [142506-genesis-masterwork-apocalypse.json](./142506-genesis-masterwork-apocalypse.json) |
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
 | Genesis Noir: Collector's Edition | 214879 | [214879-genesis-noir-collectors-edition.json](./214879-genesis-noir-collectors-edition.json) |
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
@@ -9000,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Glide | 213533 | [213533-grapple-glide.json](./213533-grapple-glide.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
+| Grapple Hoops | 142529 | [142529-grapple-hoops.json](./142529-grapple-hoops.json) |
 | Grapple League | 249039 | [249039-grapple-league.json](./249039-grapple-league.json) |
 | Grapple Simulator | 332867 | [332867-grapple-simulator.json](./332867-grapple-simulator.json) |
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
