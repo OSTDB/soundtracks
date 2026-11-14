@@ -5642,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast: Second Contact - Digital Deluxe Edition | 122224 | [122224-outcast-second-contact-digital-deluxe-edition.json](./122224-outcast-second-contact-digital-deluxe-edition.json) |
 | Outcasters | 135825 | [135825-outcasters.json](./135825-outcasters.json) |
 | Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
+| Outcasts of Orion | 156760 | [156760-outcasts-of-orion.json](./156760-outcasts-of-orion.json) |
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
 | Outclaw | 354931 | [354931-outclaw.json](./354931-outclaw.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
