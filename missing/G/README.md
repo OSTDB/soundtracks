@@ -5297,7 +5297,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
 | Glass Masquerade | 25871 | [25871-glass-masquerade.json](./25871-glass-masquerade.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
+| Glass Masquerade 2: Illusions - Lunar Year Puzzle | 163499 | [163499-glass-masquerade-2-illusions-lunar-year-puzzle.json](./163499-glass-masquerade-2-illusions-lunar-year-puzzle.json) |
+| Glass Masquerade 2: Illusions - Revelations Puzzle Pack | 163500 | [163500-glass-masquerade-2-illusions-revelations-puzzle-pack.json](./163500-glass-masquerade-2-illusions-revelations-puzzle-pack.json) |
 | Glass Masquerade 2: Illusions - Scaryfolks Puzzle Pack | 230163 | [230163-glass-masquerade-2-illusions-scaryfolks-puzzle-pack.json](./230163-glass-masquerade-2-illusions-scaryfolks-puzzle-pack.json) |
+| Glass Masquerade 2: Illusions - Temptations Puzzle Pack | 163501 | [163501-glass-masquerade-2-illusions-temptations-puzzle-pack.json](./163501-glass-masquerade-2-illusions-temptations-puzzle-pack.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
 | Glass Masquerade 3: Honeylines - Tales & Strives | 341774 | [341774-glass-masquerade-3-honeylines-tales-and-strives.json](./341774-glass-masquerade-3-honeylines-tales-and-strives.json) |
@@ -5306,7 +5309,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
 | Glass Masquerade 4: Constellations - Tarots | 420062 | [420062-glass-masquerade-4-constellations-tarots.json](./420062-glass-masquerade-4-constellations-tarots.json) |
 | Glass Masquerade Double Pack | 146995 | [146995-glass-masquerade-double-pack.json](./146995-glass-masquerade-double-pack.json) |
+| Glass Masquerade: Christmas Day Puzzle | 163497 | [163497-glass-masquerade-christmas-day-puzzle.json](./163497-glass-masquerade-christmas-day-puzzle.json) |
 | Glass Masquerade: Halloween Puzzle Pack | 155413 | [155413-glass-masquerade-halloween-puzzle-pack.json](./155413-glass-masquerade-halloween-puzzle-pack.json) |
+| Glass Masquerade: Heritages Puzzle Pack | 163495 | [163495-glass-masquerade-heritages-puzzle-pack.json](./163495-glass-masquerade-heritages-puzzle-pack.json) |
+| Glass Masquerade: Inceptions Puzzle Pack | 163498 | [163498-glass-masquerade-inceptions-puzzle-pack.json](./163498-glass-masquerade-inceptions-puzzle-pack.json) |
+| Glass Masquerade: Lunar Year Puzzle | 163496 | [163496-glass-masquerade-lunar-year-puzzle.json](./163496-glass-masquerade-lunar-year-puzzle.json) |
 | Glass Painting: Winter Art | 111942 | [111942-glass-painting-winter-art.json](./111942-glass-painting-winter-art.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
