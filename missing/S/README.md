@@ -4976,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
 | Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
 | Secret Bureau | 321665 | [321665-secret-bureau.json](./321665-secret-bureau.json) |
+| Secret Case: Paranormal Investigation | 93887 | [93887-secret-case-paranormal-investigation.json](./93887-secret-case-paranormal-investigation.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Christmas | 324244 | [324244-secret-cats-christmas.json](./324244-secret-cats-christmas.json) |
 | Secret Cats: Easter | 368538 | [368538-secret-cats-easter.json](./368538-secret-cats-easter.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
 | Secret High School 8: 100 Years Love Story Diaries | 95807 | [95807-secret-high-school-8-100-years-love-story-diaries.json](./95807-secret-high-school-8-100-years-love-story-diaries.json) |
+| Secret High School 8:Old Diary | 93849 | [93849-secret-high-school-8-old-diary.json](./93849-secret-high-school-8-old-diary.json) |
 | Secret High School 9: Zac & Bella's Wedding | 100966 | [100966-secret-high-school-9-zac-and-bellas-wedding.json](./100966-secret-high-school-9-zac-and-bellas-wedding.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
@@ -12554,6 +12556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
 | SiN Gold | 51909 | [51909-sin-gold.json](./51909-sin-gold.json) |
 | Sin Hotel | 417823 | [417823-sin-hotel.json](./417823-sin-hotel.json) |
+| SiN Multiplayer | 93839 | [93839-sin-multiplayer.json](./93839-sin-multiplayer.json) |
 | Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
 | Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
@@ -15815,6 +15818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Rocket Ship | 183199 | [183199-small-town-rocket-ship.json](./183199-small-town-rocket-ship.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
 | Small Town Terrors: Galdor's Bluff - Collector's Edition | 33814 | [33814-small-town-terrors-galdors-bluff-collectors-edition.json](./33814-small-town-terrors-galdors-bluff-collectors-edition.json) |
+| Small Town Terrors: Galdor's Bluff HD | 93912 | [93912-small-town-terrors-galdors-bluff-hd.json](./93912-small-town-terrors-galdors-bluff-hd.json) |
 | Small Town Terrors: Livingston | 33771 | [33771-small-town-terrors-livingston.json](./33771-small-town-terrors-livingston.json) |
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
@@ -15954,6 +15958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Drums | 152212 | [152212-smash-drums.json](./152212-smash-drums.json) |
 | Smash Drums: Le Frickin’ Rock Show! | 306923 | [306923-smash-drums-le-frickin-rock-show.json](./306923-smash-drums-le-frickin-rock-show.json) |
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
+| Smash Dude | 93875 | [93875-smash-dude.json](./93875-smash-dude.json) |
 | Smash Dungeon | 115189 | [115189-smash-dungeon.json](./115189-smash-dungeon.json) |
 | Smash Frenzy | 54373 | [54373-smash-frenzy.json](./54373-smash-frenzy.json) |
 | Smash Frenzy 2 | 54374 | [54374-smash-frenzy-2.json](./54374-smash-frenzy-2.json) |
@@ -24316,6 +24321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Book | 304488 | [304488-spin-the-book.json](./304488-spin-the-book.json) |
+| Spin the Bottle | 93633 | [93633-spin-the-bottle.json](./93633-spin-the-bottle.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin the Fire | 336197 | [336197-spin-the-fire.json](./336197-spin-the-fire.json) |
 | Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
@@ -39245,6 +39251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swinging Over It with Alin Lucian | 116415 | [116415-swinging-over-it-with-alin-lucian.json](./116415-swinging-over-it-with-alin-lucian.json) |
 | Swinging Singles | 92158 | [92158-swinging-singles.json](./92158-swinging-singles.json) |
+| Swinging Stupendo | 93874 | [93874-swinging-stupendo.json](./93874-swinging-stupendo.json) |
 | Swinging-Man | 188428 | [188428-swinging-man.json](./188428-swinging-man.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | SwingShot | 185384 | [185384-swingshot.json](./185384-swingshot.json) |
