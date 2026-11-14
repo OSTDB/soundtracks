@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
 | Pachi-Slot Monogatari: Paru Kougyou Special | 37897 | [37897-pachi-slot-monogatari-paru-kougyou-special.json](./37897-pachi-slot-monogatari-paru-kougyou-special.json) |
 | Pachi-Slot Monogatari: Universal Special | 37896 | [37896-pachi-slot-monogatari-universal-special.json](./37896-pachi-slot-monogatari-universal-special.json) |
+| Pachi-slot Musou Orochi | 98133 | [98133-pachi-slot-musou-orochi.json](./98133-pachi-slot-musou-orochi.json) |
 | Pachi-Slot Teiou: Dream Slot - Heiwa SP | 97640 | [97640-pachi-slot-teiou-dream-slot-heiwa-sp.json](./97640-pachi-slot-teiou-dream-slot-heiwa-sp.json) |
 | Pachi-Slot Teiou: Golgo 13 Las Vegas | 100262 | [100262-pachi-slot-teiou-golgo-13-las-vegas.json](./100262-pachi-slot-teiou-golgo-13-las-vegas.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
@@ -4078,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
 | Peach vodka | 178721 | [178721-peach-vodka.json](./178721-peach-vodka.json) |
+| Peach, Strawberry, Orange | 98104 | [98104-peach-strawberry-orange.json](./98104-peach-strawberry-orange.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peach's Fury | 191373 | [191373-peachs-fury.json](./191373-peachs-fury.json) |
 | Peach's Journey | 331229 | [331229-peachs-journey.json](./331229-peachs-journey.json) |
@@ -4536,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
 | Penguin Wars | 48919 | [48919-penguin-wars.json](./48919-penguin-wars.json) |
 | Penguin Wars | 52022 | [52022-penguin-wars.json](./52022-penguin-wars.json) |
+| Penguin Wars: Limited Edition | 98084 | [98084-penguin-wars-limited-edition.json](./98084-penguin-wars-limited-edition.json) |
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
 | Penguin World | 271057 | [271057-penguin-world.json](./271057-penguin-world.json) |
@@ -5523,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
 | Petit Royaume | 321338 | [321338-petit-royaume.json](./321338-petit-royaume.json) |
+| Petit: Puchi | 98112 | [98112-petit-puchi.json](./98112-petit-puchi.json) |
 | Petite Adventure | 215698 | [215698-petite-adventure.json](./215698-petite-adventure.json) |
 | Petite Wife Devotes Herself to You | 98438 | [98438-petite-wife-devotes-herself-to-you.json](./98438-petite-wife-devotes-herself-to-you.json) |
 | Petite Zombies | 110981 | [110981-petite-zombies.json](./110981-petite-zombies.json) |
