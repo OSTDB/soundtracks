@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanthious | 211785 | [211785-tanthious.json](./211785-tanthious.json) |
 | Tantibus | 124589 | [124589-tantibus.json](./124589-tantibus.json) |
 | Tanto Cuore | 142676 | [142676-tanto-cuore.json](./142676-tanto-cuore.json) |
+| Tantra Online | 125514 | [125514-tantra-online.json](./125514-tantra-online.json) |
 | Tantra Rumble | 120357 | [120357-tantra-rumble.json](./120357-tantra-rumble.json) |
 | Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
@@ -8590,6 +8591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Kubel: Deluxe Edition | 242165 | [242165-the-curse-of-kubel-deluxe-edition.json](./242165-the-curse-of-kubel-deluxe-edition.json) |
 | The Curse of Kudan | 131892 | [131892-the-curse-of-kudan.json](./131892-the-curse-of-kudan.json) |
 | The Curse of Mantras | 150965 | [150965-the-curse-of-mantras.json](./150965-the-curse-of-mantras.json) |
+| The Curse of Montezuma | 125494 | [125494-the-curse-of-montezuma.json](./125494-the-curse-of-montezuma.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Nordic Cove | 35544 | [35544-the-curse-of-nordic-cove.json](./35544-the-curse-of-nordic-cove.json) |
 | The Curse of Orion The Next Encounter | 305060 | [305060-the-curse-of-orion-the-next-encounter.json](./305060-the-curse-of-orion-the-next-encounter.json) |
