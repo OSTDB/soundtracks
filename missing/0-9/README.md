@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Hidden Objects 2 | 177071 | [177071-100-hidden-objects-2.json](./177071-100-hidden-objects-2.json) |
 | 100% Hits | 235752 | [235752-100-hits.json](./235752-100-hits.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
+| 100% Orange Juice: Acceleration Pack | 164483 | [164483-100-orange-juice-acceleration-pack.json](./164483-100-orange-juice-acceleration-pack.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
 | 100% Orange Juice: All Stars Collection | 52527 | [52527-100-orange-juice-all-stars-collection.json](./52527-100-orange-juice-all-stars-collection.json) |
 | 100% Orange Juice: Arnelle & Maynie | 164463 | [164463-100-orange-juice-arnelle-and-maynie.json](./164463-100-orange-juice-arnelle-and-maynie.json) |
@@ -825,11 +826,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Shifu & Reika Character Pack | 201356 | [201356-100-orange-juice-shifu-and-reika-character-pack.json](./201356-100-orange-juice-shifu-and-reika-character-pack.json) |
 | 100% Orange Juice: Sweet Gods Pack | 263064 | [263064-100-orange-juice-sweet-gods-pack.json](./263064-100-orange-juice-sweet-gods-pack.json) |
 | 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
+| 100% Orange Juice: Toy Store Pack | 164479 | [164479-100-orange-juice-toy-store-pack.json](./164479-100-orange-juice-toy-store-pack.json) |
 | 100% Orange Juice: Tsih & Tequila | 164453 | [164453-100-orange-juice-tsih-and-tequila.json](./164453-100-orange-juice-tsih-and-tequila.json) |
 | 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
 | 100% Orange Juice: Waruda Prison Break Pack | 255025 | [255025-100-orange-juice-waruda-prison-break-pack.json](./255025-100-orange-juice-waruda-prison-break-pack.json) |
 | 100% Orange Juice: Watty & Pomeranius Character Pack | 263241 | [263241-100-orange-juice-watty-and-pomeranius-character-pack.json](./263241-100-orange-juice-watty-and-pomeranius-character-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
+| 100% Orange Juice: Yuuki & Islay | 164481 | [164481-100-orange-juice-yuuki-and-islay.json](./164481-100-orange-juice-yuuki-and-islay.json) |
 | 100% Pasukaru Sensei: Perfect Paint Bombers | 55906 | [55906-100-pasukaru-sensei-perfect-paint-bombers.json](./55906-100-pasukaru-sensei-perfect-paint-bombers.json) |
 | 100% Plasma Vitae | 283037 | [283037-100-plasma-vitae.json](./283037-100-plasma-vitae.json) |
 | 100% Wedding Mission: Love Love Christmas | 325510 | [325510-100-wedding-mission-love-love-christmas.json](./325510-100-wedding-mission-love-love-christmas.json) |
@@ -3372,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Minute Marathon | 272045 | [272045-60-minute-marathon.json](./272045-60-minute-marathon.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Minutes to Extinction: Escape Room | 370113 | [370113-60-minutes-to-extinction-escape-room.json](./370113-60-minutes-to-extinction-escape-room.json) |
+| 60 Parseconds! Bundle | 164619 | [164619-60-parseconds-bundle.json](./164619-60-parseconds-bundle.json) |
 | 60 Parsecs! | 11710 | [11710-60-parsecs.json](./11710-60-parsecs.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
 | 60 Second History | 332212 | [332212-60-second-history.json](./332212-60-second-history.json) |
