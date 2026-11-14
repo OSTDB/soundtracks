@@ -10745,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooklings | 122590 | [122590-hooklings.json](./122590-hooklings.json) |
 | Hooks & Shotguns | 125704 | [125704-hooks-and-shotguns.json](./125704-hooks-and-shotguns.json) |
 | Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
+| HookSharks | 148588 | [148588-hooksharks.json](./148588-hooksharks.json) |
 | Hookshot | 115261 | [115261-hookshot.json](./115261-hookshot.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
