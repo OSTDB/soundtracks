@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Savage Reign | 111396 | [111396-aca-neo-geo-savage-reign.json](./111396-aca-neo-geo-savage-reign.json) |
 | ACA Neo Geo: Sengoku | 85478 | [85478-aca-neo-geo-sengoku.json](./85478-aca-neo-geo-sengoku.json) |
+| ACA Neo Geo: Sengoku 2 | 89982 | [89982-aca-neo-geo-sengoku-2.json](./89982-aca-neo-geo-sengoku-2.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Shock Troopers 2nd Squad | 103847 | [103847-aca-neo-geo-shock-troopers-2nd-squad.json](./103847-aca-neo-geo-shock-troopers-2nd-squad.json) |
