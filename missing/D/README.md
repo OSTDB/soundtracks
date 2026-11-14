@@ -17691,6 +17691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
 | Dream League Soccer 2018 | 88879 | [88879-dream-league-soccer-2018.json](./88879-dream-league-soccer-2018.json) |
 | Dream League Soccer 2019 | 174601 | [174601-dream-league-soccer-2019.json](./174601-dream-league-soccer-2019.json) |
+| Dream League Soccer 2020 | 128063 | [128063-dream-league-soccer-2020.json](./128063-dream-league-soccer-2020.json) |
 | Dream League Soccer 2022 | 188310 | [188310-dream-league-soccer-2022.json](./188310-dream-league-soccer-2022.json) |
 | Dream League Soccer 2023 | 250143 | [250143-dream-league-soccer-2023.json](./250143-dream-league-soccer-2023.json) |
 | Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
@@ -17910,6 +17911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamfear | 414140 | [414140-dreamfear.json](./414140-dreamfear.json) |
 | Dreamflight VR | 35399 | [35399-dreamflight-vr.json](./35399-dreamflight-vr.json) |
+| DreamFly | 128047 | [128047-dreamfly.json](./128047-dreamfly.json) |
 | DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
 | Dreamgame | 229487 | [229487-dreamgame.json](./229487-dreamgame.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
