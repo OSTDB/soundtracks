@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180° | 406392 | [406392-180.json](./406392-180.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
 | 1811 | 343812 | [343812-1811.json](./343812-1811.json) |
+| 1812: Heart of Winter | 144409 | [144409-1812-heart-of-winter.json](./144409-1812-heart-of-winter.json) |
 | 1812: La Aventura | 309160 | [309160-1812-la-aventura.json](./309160-1812-la-aventura.json) |
 | 1812: Napoleon Wars | 123773 | [123773-1812-napoleon-wars.json](./123773-1812-napoleon-wars.json) |
 | 1812: The Invasion of Canada | 28752 | [28752-1812-the-invasion-of-canada.json](./28752-1812-the-invasion-of-canada.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Monster Maze | 25117 | [25117-3d-monster-maze.json](./25117-3d-monster-maze.json) |
 | 3D Monster Maze | 264371 | [264371-3d-monster-maze.json](./264371-3d-monster-maze.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
+| 3D Morris | 144318 | [144318-3d-morris.json](./144318-3d-morris.json) |
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
 | 3D Ms. Maze: Tropical Adventures | 62960 | [62960-3d-ms-maze-tropical-adventures.json](./62960-3d-ms-maze-tropical-adventures.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
