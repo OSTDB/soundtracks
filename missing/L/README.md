@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
+| Lìngyīzhǒng Xiūxiān | 158246 | [158246-lingyizhong-xiuxian.json](./158246-lingyizhong-xiuxian.json) |
 | Linia | 69417 | [69417-linia.json](./69417-linia.json) |
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
 | Linia Super | 196440 | [196440-linia-super.json](./196440-linia-super.json) |
@@ -7041,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Russia | 350091 | [350091-live-russia.json](./350091-live-russia.json) |
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
 | Live the Guitar | 89333 | [89333-live-the-guitar.json](./89333-live-the-guitar.json) |
+| Live the Life | 158235 | [158235-live-the-life.json](./158235-live-the-life.json) |
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
 | Live together Now | 278919 | [278919-live-together-now.json](./278919-live-together-now.json) |
 | Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
@@ -7983,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Boy: Escape Game | 199907 | [199907-long-boy-escape-game.json](./199907-long-boy-escape-game.json) |
 | Long Car Journey | 169491 | [169491-long-car-journey.json](./169491-long-car-journey.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
+| Long Distance | 158245 | [158245-long-distance.json](./158245-long-distance.json) |
 | Long Dives | 413166 | [413166-long-dives.json](./413166-long-dives.json) |
 | Long Dream | 217238 | [217238-long-dream.json](./217238-long-dream.json) |
 | Long Drive Island | 332959 | [332959-long-drive-island.json](./332959-long-drive-island.json) |
