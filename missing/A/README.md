@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drunk Man Looks at the Thistle Decoded | 198134 | [198134-a-drunk-man-looks-at-the-thistle-decoded.json](./198134-a-drunk-man-looks-at-the-thistle-decoded.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Duck Has An Adventure | 172832 | [172832-a-duck-has-an-adventure.json](./172832-a-duck-has-an-adventure.json) |
+| A Dudley Dilemma | 135853 | [135853-a-dudley-dilemma.json](./135853-a-dudley-dilemma.json) |
 | A Duel Hand Disaster: Trackher | 31661 | [31661-a-duel-hand-disaster-trackher.json](./31661-a-duel-hand-disaster-trackher.json) |
 | A Dump in the Dark | 29823 | [29823-a-dump-in-the-dark.json](./29823-a-dump-in-the-dark.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
@@ -793,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lenda de Niterói | 371852 | [371852-a-lenda-de-niteroi.json](./371852-a-lenda-de-niteroi.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Letter From Mom | 303137 | [303137-a-letter-from-mom.json](./303137-a-letter-from-mom.json) |
+| A Letter of Challenge | 135359 | [135359-a-letter-of-challenge.json](./135359-a-letter-of-challenge.json) |
 | A Letter to Luna | 297417 | [297417-a-letter-to-luna.json](./297417-a-letter-to-luna.json) |
 | A Letter to You! | 157438 | [157438-a-letter-to-you.json](./157438-a-letter-to-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
@@ -1511,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
 | A Tavern at Night | 299183 | [299183-a-tavern-at-night.json](./299183-a-tavern-at-night.json) |
 | A Tavern at Night: Firelight | 299184 | [299184-a-tavern-at-night-firelight.json](./299184-a-tavern-at-night-firelight.json) |
+| A Tavern for Tea | 135371 | [135371-a-tavern-for-tea.json](./135371-a-tavern-for-tea.json) |
 | A Technician's Nightmare | 280677 | [280677-a-technicians-nightmare.json](./280677-a-technicians-nightmare.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
@@ -3195,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AcidSolitaire | 205969 | [205969-acidsolitaire.json](./205969-acidsolitaire.json) |
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
 | AcidSpider | 205970 | [205970-acidspider.json](./205970-acidspider.json) |
+| Acidtrip | 135324 | [135324-acidtrip.json](./135324-acidtrip.json) |
 | Acies: Battle Runes | 142594 | [142594-acies-battle-runes.json](./142594-acies-battle-runes.json) |
 | Aciiiiiiiiiiiiiiid | 147559 | [147559-aciiiiiiiiiiiiiiid.json](./147559-aciiiiiiiiiiiiiiid.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
@@ -13339,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apricity | 253741 | [253741-apricity.json](./253741-apricity.json) |
 | Apricity | 322208 | [322208-apricity.json](./322208-apricity.json) |
 | Apricity | 337960 | [337960-apricity.json](./337960-apricity.json) |
+| Apricot Drop | 135349 | [135349-apricot-drop.json](./135349-apricot-drop.json) |
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April | 110045 | [110045-april.json](./110045-april.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
@@ -20523,6 +20528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
 | Azazel's Second Descent | 261483 | [261483-azazels-second-descent.json](./261483-azazels-second-descent.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
+| Azeri: Journey's End | 135350 | [135350-azeri-journeys-end.json](./135350-azeri-journeys-end.json) |
 | Azerion | 193671 | [193671-azerion.json](./193671-azerion.json) |
 | Azhar Erriad: Destruction | 362760 | [362760-azhar-erriad-destruction.json](./362760-azhar-erriad-destruction.json) |
 | Azhar Erriad: Hamzaoui Is Missing | 341919 | [341919-azhar-erriad-hamzaoui-is-missing.json](./341919-azhar-erriad-hamzaoui-is-missing.json) |
