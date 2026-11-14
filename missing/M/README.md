@@ -22055,6 +22055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants vs. the Chosen Part 2 | 371583 | [371583-mutants-vs-the-chosen-part-2.json](./371583-mutants-vs-the-chosen-part-2.json) |
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutasmagoria | 382498 | [382498-mutasmagoria.json](./382498-mutasmagoria.json) |
+| Mutate! | 111789 | [111789-mutate.json](./111789-mutate.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Mutated Muter's Invasion | 150984 | [150984-mutated-muters-invasion.json](./150984-mutated-muters-invasion.json) |
 | Mutation | 146539 | [146539-mutation.json](./146539-mutation.json) |
