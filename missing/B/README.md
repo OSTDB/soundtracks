@@ -6569,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong Basement | 321230 | [321230-beer-pong-basement.json](./321230-beer-pong-basement.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
+| Beer Ranger | 86297 | [86297-beer-ranger.json](./86297-beer-ranger.json) |
 | Beer Run | 18778 | [18778-beer-run.json](./18778-beer-run.json) |
 | Beer Run | 281957 | [281957-beer-run.json](./281957-beer-run.json) |
 | Beer Runner | 303945 | [303945-beer-runner.json](./303945-beer-runner.json) |
@@ -17527,6 +17528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
 | Brink of Broken | 381353 | [381353-brink-of-broken.json](./381353-brink-of-broken.json) |
 | Brink of Consciousness: Dorian Gray Syndrome | 50313 | [50313-brink-of-consciousness-dorian-gray-syndrome.json](./50313-brink-of-consciousness-dorian-gray-syndrome.json) |
+| Brink of Consciousness: Dorian Gray Syndrome - Collector's Edition | 85692 | [85692-brink-of-consciousness-dorian-gray-syndrome-collectors-edition.json](./85692-brink-of-consciousness-dorian-gray-syndrome-collectors-edition.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink of Consciousness: The Lonely Hearts Murders - Collector's Edition | 85704 | [85704-brink-of-consciousness-the-lonely-hearts-murders-collectors-edition.json](./85704-brink-of-consciousness-the-lonely-hearts-murders-collectors-edition.json) |
 | Brink of Death | 235383 | [235383-brink-of-death.json](./235383-brink-of-death.json) |
