@@ -2713,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
 | Johnny Platform's Biscuit Romp | 78301 | [78301-johnny-platforms-biscuit-romp.json](./78301-johnny-platforms-biscuit-romp.json) |
 | Johnny Reb | 137197 | [137197-johnny-reb.json](./137197-johnny-reb.json) |
+| Johnny Reb II | 142517 | [142517-johnny-reb-ii.json](./142517-johnny-reb-ii.json) |
 | Johnny Rocketfingers | 243896 | [243896-johnny-rocketfingers.json](./243896-johnny-rocketfingers.json) |
 | Johnny Rocketfingers 2 | 243897 | [243897-johnny-rocketfingers-2.json](./243897-johnny-rocketfingers-2.json) |
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution 3: Rebirth Expansion | 407074 | [407074-jurassic-world-evolution-3-rebirth-expansion.json](./407074-jurassic-world-evolution-3-rebirth-expansion.json) |
 | Jurassic World Evolution: Carnivore Dinosaur Pack | 152605 | [152605-jurassic-world-evolution-carnivore-dinosaur-pack.json](./152605-jurassic-world-evolution-carnivore-dinosaur-pack.json) |
+| Jurassic World Evolution: Claire's Sanctuary | 141943 | [141943-jurassic-world-evolution-claires-sanctuary.json](./141943-jurassic-world-evolution-claires-sanctuary.json) |
 | Jurassic World Evolution: Complete Edition | 138196 | [138196-jurassic-world-evolution-complete-edition.json](./138196-jurassic-world-evolution-complete-edition.json) |
 | Jurassic World Evolution: Cretaceous Dinosaur Pack | 113368 | [113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json](./113368-jurassic-world-evolution-cretaceous-dinosaur-pack.json) |
 | Jurassic World Evolution: Deluxe Dinosaur Pack | 226794 | [226794-jurassic-world-evolution-deluxe-dinosaur-pack.json](./226794-jurassic-world-evolution-deluxe-dinosaur-pack.json) |
@@ -4251,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution: Jurassic Park Edition | 165850 | [165850-jurassic-world-evolution-jurassic-park-edition.json](./165850-jurassic-world-evolution-jurassic-park-edition.json) |
 | Jurassic World Evolution: Raptor Squad Skin Collection | 152606 | [152606-jurassic-world-evolution-raptor-squad-skin-collection.json](./152606-jurassic-world-evolution-raptor-squad-skin-collection.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
+| Jurassic World Evolution: Secrets of Dr. Wu | 141951 | [141951-jurassic-world-evolution-secrets-of-dr-wu.json](./141951-jurassic-world-evolution-secrets-of-dr-wu.json) |
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
 | Jurassic World Tamagotchi | 230077 | [230077-jurassic-world-tamagotchi.json](./230077-jurassic-world-tamagotchi.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
