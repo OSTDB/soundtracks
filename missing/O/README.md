@@ -4579,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orgynizer | 212589 | [212589-orgynizer.json](./212589-orgynizer.json) |
 | Ori and the Will of the Wisps: Collector's Edition | 136149 | [136149-ori-and-the-will-of-the-wisps-collectors-edition.json](./136149-ori-and-the-will-of-the-wisps-collectors-edition.json) |
 | Ori Collector's Edition | 138965 | [138965-ori-collectors-edition.json](./138965-ori-collectors-edition.json) |
+| Ori Hunter | 100442 | [100442-ori-hunter.json](./100442-ori-hunter.json) |
 | Ori, Ochi, Onoe. | 417959 | [417959-ori-ochi-onoe.json](./417959-ori-ochi-onoe.json) |
 | Ori: The Collection | 143447 | [143447-ori-the-collection.json](./143447-ori-the-collection.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
