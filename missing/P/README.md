@@ -13013,6 +13013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokitaire | 158580 | [158580-pokitaire.json](./158580-pokitaire.json) |
 | Pokitaire | 350782 | [350782-pokitaire.json](./350782-pokitaire.json) |
 | Pokka Man | 93777 | [93777-pokka-man.json](./93777-pokka-man.json) |
+| Pokka Man Blast | 119102 | [119102-pokka-man-blast.json](./119102-pokka-man-blast.json) |
 | Pokkén Tournament | 18138 | [18138-pokken-tournament.json](./18138-pokken-tournament.json) |
 | Pokkén Tournament DX | 36794 | [36794-pokken-tournament-dx.json](./36794-pokken-tournament-dx.json) |
 | Pokkén Tournament DX + Pokkén Tournament DX: Battle Pack | 237897 | [237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json](./237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json) |
