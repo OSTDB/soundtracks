@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sect Leader's Decree | 393981 | [393981-sect-leaders-decree.json](./393981-sect-leaders-decree.json) |
 | Sect-Machina | 264928 | [264928-sect-machina.json](./264928-sect-machina.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
+| Sectant 2 | 144392 | [144392-sectant-2.json](./144392-sectant-2.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
 | Section 8: Prejudice | 19650 | [19650-section-8-prejudice.json](./19650-section-8-prejudice.json) |
@@ -27086,6 +27087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Collection | 54400 | [54400-star-wars-collection.json](./54400-star-wars-collection.json) |
 | Star Wars Combine | 139075 | [139075-star-wars-combine.json](./139075-star-wars-combine.json) |
 | Star Wars Dice | 91312 | [91312-star-wars-dice.json](./91312-star-wars-dice.json) |
+| Star Wars Doom | 144432 | [144432-star-wars-doom.json](./144432-star-wars-doom.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Restoration | 191026 | [191026-star-wars-galaxies-restoration.json](./191026-star-wars-galaxies-restoration.json) |
@@ -27147,6 +27149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Bounty Hunter | 4180 | [4180-star-wars-bounty-hunter.json](./4180-star-wars-bounty-hunter.json) |
 | Star Wars: Bounty Hunter & Republic Commando Bundle | 319331 | [319331-star-wars-bounty-hunter-and-republic-commando-bundle.json](./319331-star-wars-bounty-hunter-and-republic-commando-bundle.json) |
 | Star Wars: Cantina | 66790 | [66790-star-wars-cantina.json](./66790-star-wars-cantina.json) |
+| Star Wars: Chibi Rebellion | 144434 | [144434-star-wars-chibi-rebellion.json](./144434-star-wars-chibi-rebellion.json) |
 | Star Wars: Clone Trooper | 389232 | [389232-star-wars-clone-trooper.json](./389232-star-wars-clone-trooper.json) |
 | Star Wars: Clone Trooper Blaster Game | 389235 | [389235-star-wars-clone-trooper-blaster-game.json](./389235-star-wars-clone-trooper-blaster-game.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
