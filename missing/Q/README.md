@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quotes Quest - Match 3 | 114164 | [114164-quotes-quest-match-3.json](./114164-quotes-quest-match-3.json) |
 | Quoth | 196458 | [196458-quoth.json](./196458-quoth.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
+| Quotidian | 101839 | [101839-quotidian.json](./101839-quotidian.json) |
 | Quotle | 321113 | [321113-quotle.json](./321113-quotle.json) |
 | QuoVadis | 125792 | [125792-quovadis.json](./125792-quovadis.json) |
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei | 123631 | [123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json](./123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json) |
