@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-chan no Oekaki Logic | 37561 | [37561-o-chan-no-oekaki-logic.json](./37561-o-chan-no-oekaki-logic.json) |
 | O-chan no Oekaki Logic 2 | 58530 | [58530-o-chan-no-oekaki-logic-2.json](./58530-o-chan-no-oekaki-logic-2.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
+| O-SHI-KA-KE Saiminjutsushi: Toraware no In'yoku Marionette | 98124 | [98124-o-shi-ka-ke-saiminjutsushi-toraware-no-inyoku-marionette.json](./98124-o-shi-ka-ke-saiminjutsushi-toraware-no-inyoku-marionette.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
 | O-Void: Console Edition | 301190 | [301190-o-void-console-edition.json](./301190-o-void-console-edition.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojarumaru: Gekkou Machi Sanpo de Ojaru | 49739 | [49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json](./49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json) |
 | Ojarumaru: Mitsunegai Jinja no Ennichi de Ojaru! | 282392 | [282392-ojarumaru-mitsunegai-jinja-no-ennichi-de-ojaru.json](./282392-ojarumaru-mitsunegai-jinja-no-ennichi-de-ojaru.json) |
 | Ojarumaru: Tsukiyo ga Ike no Takaramono | 282393 | [282393-ojarumaru-tsukiyo-ga-ike-no-takaramono.json](./282393-ojarumaru-tsukiyo-ga-ike-no-takaramono.json) |
+| Ojaslo BanBan! | 98113 | [98113-ojaslo-banban.json](./98113-ojaslo-banban.json) |
 | Oji-Mama | 285113 | [285113-oji-mama.json](./285113-oji-mama.json) |
 | Oji-san Tomete Iede Gal to no Win Win Sex Life | 59125 | [59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json](./59125-oji-san-tomete-iede-gal-to-no-win-win-sex-life.json) |
 | Ojingeo Project | 393658 | [393658-ojingeo-project.json](./393658-ojingeo-project.json) |
