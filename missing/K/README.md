@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
 | Ken to Mahou to Gakuen Quest | 222230 | [222230-ken-to-mahou-to-gakuen-quest.json](./222230-ken-to-mahou-to-gakuen-quest.json) |
 | Ken Uston BlackJack/Poker | 131153 | [131153-ken-uston-blackjack-poker.json](./131153-ken-uston-blackjack-poker.json) |
+| Ken-chan to Chie Asobi | 151857 | [151857-ken-chan-to-chie-asobi.json](./151857-ken-chan-to-chie-asobi.json) |
 | Ken's Labyrinth | 8743 | [8743-kens-labyrinth.json](./8743-kens-labyrinth.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kena: Bridge of Spirits - Deluxe Edition | 173109 | [173109-kena-bridge-of-spirits-deluxe-edition.json](./173109-kena-bridge-of-spirits-deluxe-edition.json) |
@@ -6027,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korolevskaya Noch | 327667 | [327667-korolevskaya-noch.json](./327667-korolevskaya-noch.json) |
 | Koromeke | 386768 | [386768-koromeke.json](./386768-koromeke.json) |
 | Koromi | 388452 | [388452-koromi.json](./388452-koromi.json) |
+| Koromu Auto Battler | 151792 | [151792-koromu-auto-battler.json](./151792-koromu-auto-battler.json) |
 | Koron de Jump!! | 270349 | [270349-koron-de-jump.json](./270349-koron-de-jump.json) |
 | Korona:Nemesis | 121281 | [121281-korona-nemesis.json](./121281-korona-nemesis.json) |
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
