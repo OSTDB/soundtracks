@@ -14690,6 +14690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
 | The Lucky Stray Cat | 386824 | [386824-the-lucky-stray-cat.json](./386824-the-lucky-stray-cat.json) |
+| The Luffeltera Renovator | 151771 | [151771-the-luffeltera-renovator.json](./151771-the-luffeltera-renovator.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Lullaby of Life | 138907 | [138907-the-lullaby-of-life.json](./138907-the-lullaby-of-life.json) |
 | The Lullaby Weaver | 346316 | [346316-the-lullaby-weaver.json](./346316-the-lullaby-weaver.json) |
@@ -20208,6 +20209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
+| The Use of Life | 151784 | [151784-the-use-of-life.json](./151784-the-use-of-life.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
 | The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
 | The Useless Wizard | 372027 | [372027-the-useless-wizard.json](./372027-the-useless-wizard.json) |
@@ -21842,6 +21844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thin Judgment | 43090 | [43090-thin-judgment.json](./43090-thin-judgment.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
+| Thin Walls | 151790 | [151790-thin-walls.json](./151790-thin-walls.json) |
 | Thin Way | 282036 | [282036-thin-way.json](./282036-thin-way.json) |
 | Thine Cometh | 184258 | [184258-thine-cometh.json](./184258-thine-cometh.json) |
 | Thine Rogueth | 374229 | [374229-thine-rogueth.json](./374229-thine-rogueth.json) |
