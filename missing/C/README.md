@@ -8372,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chindouchou!! Pole no Daibouken | 50992 | [50992-chindouchou-pole-no-daibouken.json](./50992-chindouchou-pole-no-daibouken.json) |
 | Chindouchuu!! Pole no Daibouken | 79654 | [79654-chindouchuu-pole-no-daibouken.json](./79654-chindouchuu-pole-no-daibouken.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
+| Chinese Architect | 148586 | [148586-chinese-architect.json](./148586-chinese-architect.json) |
 | Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
 | Chinese Bull | 167445 | [167445-chinese-bull.json](./167445-chinese-bull.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
@@ -15877,6 +15878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookiette and the Vanilla Crystal | 386180 | [386180-cookiette-and-the-vanilla-crystal.json](./386180-cookiette-and-the-vanilla-crystal.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
+| CooKing | 148596 | [148596-cooking.json](./148596-cooking.json) |
 | Cooking Academy | 208792 | [208792-cooking-academy.json](./208792-cooking-academy.json) |
 | Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
 | Cooking Academy 3: Recipe for Success | 292064 | [292064-cooking-academy-3-recipe-for-success.json](./292064-cooking-academy-3-recipe-for-success.json) |
