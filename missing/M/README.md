@@ -9813,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lane | 171451 | [171451-memory-lane.json](./171451-memory-lane.json) |
 | Memory Lane | 304178 | [304178-memory-lane.json](./304178-memory-lane.json) |
 | Memory Lane | 62065 | [62065-memory-lane.json](./62065-memory-lane.json) |
+| Memory Lane 2 | 159389 | [159389-memory-lane-2.json](./159389-memory-lane-2.json) |
 | Memory Leak | 183355 | [183355-memory-leak.json](./183355-memory-leak.json) |
 | Memory Link | 283432 | [283432-memory-link.json](./283432-memory-link.json) |
 | Memory Lost | 172897 | [172897-memory-lost.json](./172897-memory-lost.json) |
@@ -15169,6 +15170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing | 374163 | [374163-missing.json](./374163-missing.json) |
 | Missing Banban | 315973 | [315973-missing-banban.json](./315973-missing-banban.json) |
 | Missing Blue | 125405 | [125405-missing-blue.json](./125405-missing-blue.json) |
+| Missing Bullet | 159413 | [159413-missing-bullet.json](./159413-missing-bullet.json) |
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
@@ -16035,6 +16037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moccasin | 29462 | [29462-moccasin.json](./29462-moccasin.json) |
 | Mocchiri Toraneko | 175008 | [175008-mocchiri-toraneko.json](./175008-mocchiri-toraneko.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
+| Mochi A Girl | 159371 | [159371-mochi-a-girl.json](./159371-mochi-a-girl.json) |
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
 | Mochi Jump | 152602 | [152602-mochi-jump.json](./152602-mochi-jump.json) |
