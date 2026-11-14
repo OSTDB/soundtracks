@@ -7916,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
 | Lone Fury | 338684 | [338684-lone-fury.json](./338684-lone-fury.json) |
 | Lone Hero Path | 292416 | [292416-lone-hero-path.json](./292416-lone-hero-path.json) |
+| Lone Hero RPG | 104307 | [104307-lone-hero-rpg.json](./104307-lone-hero-rpg.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
 | Lone King: Expansion | 247849 | [247849-lone-king-expansion.json](./247849-lone-king-expansion.json) |
 | Lone Knight | 226874 | [226874-lone-knight.json](./226874-lone-knight.json) |
