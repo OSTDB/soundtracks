@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daenerys Miracle | 157755 | [157755-daenerys-miracle.json](./157755-daenerys-miracle.json) |
 | Daescent | 408162 | [408162-daescent.json](./408162-daescent.json) |
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
+| Daffodil Yellow: A Few Poems From an Insect Collector | 149650 | [149650-daffodil-yellow-a-few-poems-from-an-insect-collector.json](./149650-daffodil-yellow-a-few-poems-from-an-insect-collector.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
 | Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
 | Daffy Duck in Hollywood | 4461 | [4461-daffy-duck-in-hollywood.json](./4461-daffy-duck-in-hollywood.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
 | Data mining 7 | 115953 | [115953-data-mining-7.json](./115953-data-mining-7.json) |
 | Data Mining 8 | 155344 | [155344-data-mining-8.json](./155344-data-mining-8.json) |
+| Data Mining X | 149624 | [149624-data-mining-x.json](./149624-data-mining-x.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Rot | 376979 | [376979-data-rot.json](./376979-data-rot.json) |
@@ -6011,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep Space: Unknown Universe | 76117 | [76117-deep-space-unknown-universe.json](./76117-deep-space-unknown-universe.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
+| Deep States Story | 149660 | [149660-deep-states-story.json](./149660-deep-states-story.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep Storm | 246323 | [246323-deep-storm.json](./246323-deep-storm.json) |
 | Deep Strike | 13583 | [13583-deep-strike.json](./13583-deep-strike.json) |
@@ -8502,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructions | 98733 | [98733-destructions.json](./98733-destructions.json) |
 | Destructivator 2 | 127778 | [127778-destructivator-2.json](./127778-destructivator-2.json) |
 | Destructivator SE | 180984 | [180984-destructivator-se.json](./180984-destructivator-se.json) |
+| Destructive Behavior | 149645 | [149645-destructive-behavior.json](./149645-destructive-behavior.json) |
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
 | Destructive physics | 127848 | [127848-destructive-physics.json](./127848-destructive-physics.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
@@ -10848,6 +10852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Dio's Bizarre Boutique | 184747 | [184747-dios-bizarre-boutique.json](./184747-dios-bizarre-boutique.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
+| Diodius: Premonition | 149620 | [149620-diodius-premonition.json](./149620-diodius-premonition.json) |
 | Diodius: Premonition - Horizon Sacrifice | 174418 | [174418-diodius-premonition-horizon-sacrifice.json](./174418-diodius-premonition-horizon-sacrifice.json) |
 | Diodius: Premonition - Roots of Naka | 174511 | [174511-diodius-premonition-roots-of-naka.json](./174511-diodius-premonition-roots-of-naka.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
@@ -11944,6 +11949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissida Final Fantasy NT: Riona Heartlilly Starter Pack | 404507 | [404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json](./404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json) |
 | Dissida Final Fantasy NT: Vayne Carudas Solidor Starter Pack | 404505 | [404505-dissida-final-fantasy-nt-vayne-carudas-solidor-starter-pack.json](./404505-dissida-final-fantasy-nt-vayne-carudas-solidor-starter-pack.json) |
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
+| Dissident: Frostland Escape | 149630 | [149630-dissident-frostland-escape.json](./149630-dissident-frostland-escape.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duellum Final Fantasy | 373430 | [373430-dissidia-duellum-final-fantasy.json](./373430-dissidia-duellum-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
