@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
 | LarsGadiel | 407730 | [407730-larsgadiel.json](./407730-larsgadiel.json) |
 | Laruaville 10 | 136565 | [136565-laruaville-10.json](./136565-laruaville-10.json) |
+| Laruaville 11 Match 3 Puzzle | 163494 | [163494-laruaville-11-match-3-puzzle.json](./163494-laruaville-11-match-3-puzzle.json) |
 | Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
 | Laruaville 13 | 226506 | [226506-laruaville-13.json](./226506-laruaville-13.json) |
 | Laruaville 14 | 259506 | [259506-laruaville-14.json](./259506-laruaville-14.json) |
@@ -9704,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Poem Written For a Fairy | 276575 | [276575-love-poem-written-for-a-fairy.json](./276575-love-poem-written-for-a-fairy.json) |
 | Love Pop! | 186954 | [186954-love-pop.json](./186954-love-pop.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
+| Love Puzzle | 163515 | [163515-love-puzzle.json](./163515-love-puzzle.json) |
 | Love Quest | 231678 | [231678-love-quest.json](./231678-love-quest.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
 | Love Quest VR: Los Angeles | 369544 | [369544-love-quest-vr-los-angeles.json](./369544-love-quest-vr-los-angeles.json) |
