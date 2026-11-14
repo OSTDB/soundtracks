@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Glory | 58443 | [58443-warriors-of-glory.json](./58443-warriors-of-glory.json) |
 | Warriors of Legend | 69947 | [69947-warriors-of-legend.json](./69947-warriors-of-legend.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
+| Warriors of Ragarök | 111796 | [111796-warriors-of-ragarok.json](./111796-warriors-of-ragarok.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
 | Warriors of Releyne | 12820 | [12820-warriors-of-releyne.json](./12820-warriors-of-releyne.json) |
