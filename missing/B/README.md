@@ -7496,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Spider Solitaire | 104604 | [104604-best-spider-solitaire.json](./104604-best-spider-solitaire.json) |
 | Best Streamer | 401785 | [401785-best-streamer.json](./401785-best-streamer.json) |
 | Best Time Kill | 51476 | [51476-best-time-kill.json](./51476-best-time-kill.json) |
+| Best Triple Yatzy Ever | 103721 | [103721-best-triple-yatzy-ever.json](./103721-best-triple-yatzy-ever.json) |
 | Best VRcase 9000 | 211450 | [211450-best-vrcase-9000.json](./211450-best-vrcase-9000.json) |
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
@@ -15327,6 +15328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Ball | 407017 | [407017-bouncy-ball.json](./407017-bouncy-ball.json) |
+| Bouncy Ball NG | 103703 | [103703-bouncy-ball-ng.json](./103703-bouncy-ball-ng.json) |
 | Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Bee Learns Letters | 71698 | [71698-bouncy-bee-learns-letters.json](./71698-bouncy-bee-learns-letters.json) |
