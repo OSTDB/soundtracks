@@ -11138,6 +11138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Drive | 157904 | [157904-disaster-drive.json](./157904-disaster-drive.json) |
 | Disaster Golf | 267719 | [267719-disaster-golf.json](./267719-disaster-golf.json) |
 | Disaster Island | 197091 | [197091-disaster-island.json](./197091-disaster-island.json) |
+| Disaster Log C | 134114 | [134114-disaster-log-c.json](./134114-disaster-log-c.json) |
 | Disaster Party! | 332862 | [332862-disaster-party.json](./332862-disaster-party.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
@@ -15292,6 +15293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Edged | 199250 | [199250-double-edged.json](./199250-double-edged.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
+| Double Exposure | 134115 | [134115-double-exposure.json](./134115-double-exposure.json) |
 | Double Feature Solitaire | 93350 | [93350-double-feature-solitaire.json](./93350-double-feature-solitaire.json) |
 | Double Fine Happy Action Theater | 47423 | [47423-double-fine-happy-action-theater.json](./47423-double-fine-happy-action-theater.json) |
 | Double Focus | 205683 | [205683-double-focus.json](./205683-double-focus.json) |
@@ -15644,6 +15646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DownWind | 83724 | [83724-downwind.json](./83724-downwind.json) |
 | Downwordly | 243316 | [243316-downwordly.json](./243316-downwordly.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
+| DOX: A Puzzle Game | 134144 | [134144-dox-a-puzzle-game.json](./134144-dox-a-puzzle-game.json) |
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
 | Doza 2: Novogodniy Peredoz | 116060 | [116060-doza-2-novogodniy-peredoz.json](./116060-doza-2-novogodniy-peredoz.json) |
@@ -18027,6 +18030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of the Void | 290614 | [290614-dreams-of-the-void.json](./290614-dreams-of-the-void.json) |
 | Dreams of Valhalla | 250448 | [250448-dreams-of-valhalla.json](./250448-dreams-of-valhalla.json) |
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
+| Dreams of Ylina | 134134 | [134134-dreams-of-ylina.json](./134134-dreams-of-ylina.json) |
 | Dreams on a Pillow | 342893 | [342893-dreams-on-a-pillow.json](./342893-dreams-on-a-pillow.json) |
 | Dreams Stories Online | 396016 | [396016-dreams-stories-online.json](./396016-dreams-stories-online.json) |
 | Dreams to Reality | 43742 | [43742-dreams-to-reality.json](./43742-dreams-to-reality.json) |
@@ -20761,6 +20765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
 | DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
+| Dunjunz | 134123 | [134123-dunjunz.json](./134123-dunjunz.json) |
 | Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
 | Dunk City Dynasty | 250569 | [250569-dunk-city-dynasty.json](./250569-dunk-city-dynasty.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
