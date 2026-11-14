@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mysteria | 34338 | [34338-legend-of-mysteria.json](./34338-legend-of-mysteria.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Numbers | 32449 | [32449-legend-of-numbers.json](./32449-legend-of-numbers.json) |
+| Legend of Orion: Adventure | 133479 | [133479-legend-of-orion-adventure.json](./133479-legend-of-orion-adventure.json) |
 | Legend of Pandonia | 188315 | [188315-legend-of-pandonia.json](./188315-legend-of-pandonia.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
 | Legend Of Peks: Halloween Horror | 272753 | [272753-legend-of-peks-halloween-horror.json](./272753-legend-of-peks-halloween-horror.json) |
@@ -8536,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lordress | 402680 | [402680-lordress.json](./402680-lordress.json) |
 | Lords & Knights | 323155 | [323155-lords-and-knights.json](./323155-lords-and-knights.json) |
 | Lords & Peasants | 20057 | [20057-lords-and-peasants.json](./20057-lords-and-peasants.json) |
+| Lords & Villeins | 133510 | [133510-lords-and-villeins.json](./133510-lords-and-villeins.json) |
 | Lords & Villeins: The Great Houses | 322627 | [322627-lords-and-villeins-the-great-houses.json](./322627-lords-and-villeins-the-great-houses.json) |
 | Lords and Legions | 348552 | [348552-lords-and-legions.json](./348552-lords-and-legions.json) |
 | Lords and Peasents | 220783 | [220783-lords-and-peasents.json](./220783-lords-and-peasents.json) |
