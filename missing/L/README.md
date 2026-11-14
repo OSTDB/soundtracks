@@ -3688,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
 | Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | 2910 | [2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json](./2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json) |
 | Leisure Suit Larry 6: Shape Up or Slip Out! | 2911 | [2911-leisure-suit-larry-6-shape-up-or-slip-out.json](./2911-leisure-suit-larry-6-shape-up-or-slip-out.json) |
+| Leisure Suit Larry Collection | 136548 | [136548-leisure-suit-larry-collection.json](./136548-leisure-suit-larry-collection.json) |
 | Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals | 2908 | [2908-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals.json](./2908-leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Bikini Beach Volleyball | 350153 | [350153-leisure-suit-larry-bikini-beach-volleyball.json](./350153-leisure-suit-larry-bikini-beach-volleyball.json) |
@@ -4844,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liekki | 290483 | [290483-liekki.json](./290483-liekki.json) |
 | Liero | 9078 | [9078-liero.json](./9078-liero.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
+| Lies & Cigars | 136506 | [136506-lies-and-cigars.json](./136506-lies-and-cigars.json) |
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
 | Lies Beneath | 133280 | [133280-lies-beneath.json](./133280-lies-beneath.json) |
 | Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
