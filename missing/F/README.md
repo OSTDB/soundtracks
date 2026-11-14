@@ -1918,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
 | Fant Kids Matching Game | 112864 | [112864-fant-kids-matching-game.json](./112864-fant-kids-matching-game.json) |
+| Fantage | 151858 | [151858-fantage.json](./151858-fantage.json) |
 | Fantahouse | 360834 | [360834-fantahouse.json](./360834-fantahouse.json) |
 | Fantamal | 132483 | [132483-fantamal.json](./132483-fantamal.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
@@ -4106,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
 | Feeding My Ducks | 390995 | [390995-feeding-my-ducks.json](./390995-feeding-my-ducks.json) |
+| Feeding My Fish: Make Aquarium | 151760 | [151760-feeding-my-fish-make-aquarium.json](./151760-feeding-my-fish-make-aquarium.json) |
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
 | Feeding the Velociraptors | 348578 | [348578-feeding-the-velociraptors.json](./348578-feeding-the-velociraptors.json) |
 | Feeding Yuyuko | 412226 | [412226-feeding-yuyuko.json](./412226-feeding-yuyuko.json) |
