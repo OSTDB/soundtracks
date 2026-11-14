@@ -1001,7 +1001,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
 | Karaoke Joysound for Steam | 405311 | [405311-karaoke-joysound-for-steam.json](./405311-karaoke-joysound-for-steam.json) |
 | Karaoke Joysound for Streamer | 316469 | [316469-karaoke-joysound-for-streamer.json](./316469-karaoke-joysound-for-streamer.json) |
+| Karaoke Joysound Wii Super DX: Hitori de Minna de Utai Houdai! | 83680 | [83680-karaoke-joysound-wii-super-dx-hitori-de-minna-de-utai-houdai.json](./83680-karaoke-joysound-wii-super-dx-hitori-de-minna-de-utai-houdai.json) |
+| Karaoke Joysound Wii: Duet Kyoku-hen | 83679 | [83679-karaoke-joysound-wii-duet-kyoku-hen.json](./83679-karaoke-joysound-wii-duet-kyoku-hen.json) |
 | Karaoke Joysound Wii: DX Deluxe Edition | 131263 | [131263-karaoke-joysound-wii-dx-deluxe-edition.json](./131263-karaoke-joysound-wii-dx-deluxe-edition.json) |
+| Karaoke Joysound Wii: Enka Kayoukyoku-hen | 83668 | [83668-karaoke-joysound-wii-enka-kayoukyoku-hen.json](./83668-karaoke-joysound-wii-enka-kayoukyoku-hen.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Love Song | 368741 | [368741-karaoke-love-song.json](./368741-karaoke-love-song.json) |
 | Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
@@ -2595,7 +2598,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Land | 270550 | [270550-kids-land.json](./270550-kids-land.json) |
 | Kids Learn | 105638 | [105638-kids-learn.json](./105638-kids-learn.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
+| Kids Learn Bundle | 83682 | [83682-kids-learn-bundle.json](./83682-kids-learn-bundle.json) |
+| Kids Learn Math | 83683 | [83683-kids-learn-math.json](./83683-kids-learn-math.json) |
 | Kids Learn Music A+ Edition | 47940 | [47940-kids-learn-music-a-edition.json](./47940-kids-learn-music-a-edition.json) |
+| Kids Learn Spelling and Grammar | 83676 | [83676-kids-learn-spelling-and-grammar.json](./83676-kids-learn-spelling-and-grammar.json) |
 | Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
 | Kids Learn to Tell Time: What Does the Clock Say? | 90972 | [90972-kids-learn-to-tell-time-what-does-the-clock-say.json](./90972-kids-learn-to-tell-time-what-does-the-clock-say.json) |
 | Kids Logic Land Adventure | 97065 | [97065-kids-logic-land-adventure.json](./97065-kids-logic-land-adventure.json) |
