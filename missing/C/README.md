@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canon: Legend of the New Gods | 150993 | [150993-canon-legend-of-the-new-gods.json](./150993-canon-legend-of-the-new-gods.json) |
 | Canopy | 258249 | [258249-canopy.json](./258249-canopy.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
+| Cantaloper | 152551 | [152551-cantaloper.json](./152551-cantaloper.json) |
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
 | Cantata | 121130 | [121130-cantata.json](./121130-cantata.json) |
@@ -2433,8 +2434,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2015: Visual Tuning | 152592 | [152592-car-mechanic-simulator-2015-visual-tuning.json](./152592-car-mechanic-simulator-2015-visual-tuning.json) |
 | Car Mechanic Simulator 2015: Youngtimer | 152585 | [152585-car-mechanic-simulator-2015-youngtimer.json](./152585-car-mechanic-simulator-2015-youngtimer.json) |
 | Car Mechanic Simulator 2018 | 40470 | [40470-car-mechanic-simulator-2018.json](./40470-car-mechanic-simulator-2018.json) |
+| Car Mechanic Simulator 2018: Bentley Remastered | 152539 | [152539-car-mechanic-simulator-2018-bentley-remastered.json](./152539-car-mechanic-simulator-2018-bentley-remastered.json) |
+| Car Mechanic Simulator 2018: Chrysler | 152542 | [152542-car-mechanic-simulator-2018-chrysler.json](./152542-car-mechanic-simulator-2018-chrysler.json) |
+| Car Mechanic Simulator 2018: Dodge | 152533 | [152533-car-mechanic-simulator-2018-dodge.json](./152533-car-mechanic-simulator-2018-dodge.json) |
+| Car Mechanic Simulator 2018: Dodge Modern | 152544 | [152544-car-mechanic-simulator-2018-dodge-modern.json](./152544-car-mechanic-simulator-2018-dodge-modern.json) |
+| Car Mechanic Simulator 2018: Ford | 152546 | [152546-car-mechanic-simulator-2018-ford.json](./152546-car-mechanic-simulator-2018-ford.json) |
+| Car Mechanic Simulator 2018: Garage Customization | 152532 | [152532-car-mechanic-simulator-2018-garage-customization.json](./152532-car-mechanic-simulator-2018-garage-customization.json) |
+| Car Mechanic Simulator 2018: Jeep | 152543 | [152543-car-mechanic-simulator-2018-jeep.json](./152543-car-mechanic-simulator-2018-jeep.json) |
+| Car Mechanic Simulator 2018: Lotus | 152538 | [152538-car-mechanic-simulator-2018-lotus.json](./152538-car-mechanic-simulator-2018-lotus.json) |
+| Car Mechanic Simulator 2018: Maserati Remastered | 152534 | [152534-car-mechanic-simulator-2018-maserati-remastered.json](./152534-car-mechanic-simulator-2018-maserati-remastered.json) |
+| Car Mechanic Simulator 2018: Mazda | 152536 | [152536-car-mechanic-simulator-2018-mazda.json](./152536-car-mechanic-simulator-2018-mazda.json) |
+| Car Mechanic Simulator 2018: Mercedes-Benz | 152541 | [152541-car-mechanic-simulator-2018-mercedes-benz.json](./152541-car-mechanic-simulator-2018-mercedes-benz.json) |
 | Car Mechanic Simulator 2018: Pagani | 152582 | [152582-car-mechanic-simulator-2018-pagani.json](./152582-car-mechanic-simulator-2018-pagani.json) |
+| Car Mechanic Simulator 2018: Plymouth | 152537 | [152537-car-mechanic-simulator-2018-plymouth.json](./152537-car-mechanic-simulator-2018-plymouth.json) |
+| Car Mechanic Simulator 2018: Porsche | 152545 | [152545-car-mechanic-simulator-2018-porsche.json](./152545-car-mechanic-simulator-2018-porsche.json) |
+| Car Mechanic Simulator 2018: RAM | 152535 | [152535-car-mechanic-simulator-2018-ram.json](./152535-car-mechanic-simulator-2018-ram.json) |
 | Car Mechanic Simulator 2018: Rims | 152583 | [152583-car-mechanic-simulator-2018-rims.json](./152583-car-mechanic-simulator-2018-rims.json) |
+| Car Mechanic Simulator 2018: Tuning | 152540 | [152540-car-mechanic-simulator-2018-tuning.json](./152540-car-mechanic-simulator-2018-tuning.json) |
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021 & Revhead | 267142 | [267142-car-mechanic-simulator-2021-and-revhead.json](./267142-car-mechanic-simulator-2021-and-revhead.json) |
 | Car Mechanic Simulator 2021: Aston Martin | 215499 | [215499-car-mechanic-simulator-2021-aston-martin.json](./215499-car-mechanic-simulator-2021-aston-martin.json) |
@@ -8210,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Sandbox | 361930 | [361930-childrens-sandbox.json](./361930-childrens-sandbox.json) |
 | Children's Story | 128755 | [128755-childrens-story.json](./128755-childrens-story.json) |
 | ChildrenBreak | 97239 | [97239-childrenbreak.json](./97239-childrenbreak.json) |
+| ChildStory | 152529 | [152529-childstory.json](./152529-childstory.json) |
 | Chili Con Carnage | 23111 | [23111-chili-con-carnage.json](./23111-chili-con-carnage.json) |
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
