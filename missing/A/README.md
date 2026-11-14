@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
 | A Role to Play | 224914 | [224914-a-role-to-play.json](./224914-a-role-to-play.json) |
+| A Roll-Back Story | 104912 | [104912-a-roll-back-story.json](./104912-a-roll-back-story.json) |
 | A Romantic Murder | 299680 | [299680-a-romantic-murder.json](./299680-a-romantic-murder.json) |
 | A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
 | A Room Where Art Conceals | 132949 | [132949-a-room-where-art-conceals.json](./132949-a-room-where-art-conceals.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.T.O.M. | 164426 | [164426-a-t-o-m.json](./164426-a-t-o-m.json) |
 | A.V. | 35959 | [35959-a-v.json](./35959-a-v.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
+| A.V.A: Dog Tag | 105458 | [105458-a-v-a-dog-tag.json](./105458-a-v-a-dog-tag.json) |
 | A.V.A: Global - Busters Content | 302806 | [302806-a-v-a-global-busters-content.json](./302806-a-v-a-global-busters-content.json) |
 | A.V.A: Global - Busters Content: Lilly Edition | 302807 | [302807-a-v-a-global-busters-content-lilly-edition.json](./302807-a-v-a-global-busters-content-lilly-edition.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
@@ -3102,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSpeeder! | 248370 | [248370-acespeeder.json](./248370-acespeeder.json) |
 | AceSpeeder2 | 248369 | [248369-acespeeder2.json](./248369-acespeeder2.json) |
+| AceSpeeder3 | 104910 | [104910-acespeeder3.json](./104910-acespeeder3.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Achaea, Dreams of Divine Lands | 11820 | [11820-achaea-dreams-of-divine-lands.json](./11820-achaea-dreams-of-divine-lands.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
@@ -10501,6 +10504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient lands: the Tsar awakening | 112705 | [112705-ancient-lands-the-tsar-awakening.json](./112705-ancient-lands-the-tsar-awakening.json) |
 | Ancient Legacy | 405301 | [405301-ancient-legacy.json](./405301-ancient-legacy.json) |
 | Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
+| Ancient Legends | 105452 | [105452-ancient-legends.json](./105452-ancient-legends.json) |
 | Ancient Life | 153154 | [153154-ancient-life.json](./153154-ancient-life.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
@@ -13788,6 +13792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
 | Arbor | 304498 | [304498-arbor.json](./304498-arbor.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
+| Arboreal | 104900 | [104900-arboreal.json](./104900-arboreal.json) |
 | Arboreal | 190052 | [190052-arboreal.json](./190052-arboreal.json) |
 | Arboreal | 195879 | [195879-arboreal.json](./195879-arboreal.json) |
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
@@ -17881,6 +17886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Guard | 218640 | [218640-astral-guard.json](./218640-astral-guard.json) |
 | Astral Guardian | 243600 | [243600-astral-guardian.json](./243600-astral-guardian.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
+| Astral Gunners | 105582 | [105582-astral-gunners.json](./105582-astral-gunners.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
 | Astral Light | 200085 | [200085-astral-light.json](./200085-astral-light.json) |
@@ -19770,6 +19776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
 | Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
 | Autonima | 168034 | [168034-autonima.json](./168034-autonima.json) |
+| Autonomica | 105587 | [105587-autonomica.json](./105587-autonomica.json) |
 | Autonomous | 63767 | [63767-autonomous.json](./63767-autonomous.json) |
 | Autonomous Air Combat | 414700 | [414700-autonomous-air-combat.json](./414700-autonomous-air-combat.json) |
 | Autonomous Anarchy | 289732 | [289732-autonomous-anarchy.json](./289732-autonomous-anarchy.json) |
