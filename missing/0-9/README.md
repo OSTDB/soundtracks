@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #Notifications | 176541 | [176541-notifications.json](./176541-notifications.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
+| #Pinocchio: Super Puzzles Dream | 158787 | [158787-pinocchio-super-puzzles-dream.json](./158787-pinocchio-super-puzzles-dream.json) |
 | #RaceDieRun | 122792 | [122792-racedierun.json](./122792-racedierun.json) |
 | #Rekt | 86142 | [86142-rekt.json](./86142-rekt.json) |
 | #RunningSnake 2 | 97089 | [97089-runningsnake-2.json](./97089-runningsnake-2.json) |
