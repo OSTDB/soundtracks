@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joshua & The Battle of Jericho | 46186 | [46186-joshua-and-the-battle-of-jericho.json](./46186-joshua-and-the-battle-of-jericho.json) |
 | Joshua's Legs | 201550 | [201550-joshuas-legs.json](./201550-joshuas-legs.json) |
 | Josie | 183295 | [183295-josie.json](./183295-josie.json) |
+| Josie's Tank | 122450 | [122450-josies-tank.json](./122450-josies-tank.json) |
 | Josou Gal Bitch Gakuen | 59047 | [59047-josou-gal-bitch-gakuen.json](./59047-josou-gal-bitch-gakuen.json) |
 | Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | Josou Shite Onnayu ni Sennyuu Shiyou to Shitara, Machigaete Haitta Otokoyu ga Hattenba Datta Ken | 57877 | [57877-josou-shite-onnayu-ni-sennyuu-shiyou-to-shitara-machigaete-haitta-otokoyu-ga-hattenba-datta-ken.json](./57877-josou-shite-onnayu-ni-sennyuu-shiyou-to-shitara-machigaete-haitta-otokoyu-ga-hattenba-datta-ken.json) |
