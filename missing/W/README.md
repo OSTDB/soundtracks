@@ -4310,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What’s in the Box? | 383452 | [383452-what-s-in-the-box.json](./383452-what-s-in-the-box.json) |
 | What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
 | What's In the Safe? | 232215 | [232215-whats-in-the-safe.json](./232215-whats-in-the-safe.json) |
+| What's Inside the Box? | 101814 | [101814-whats-inside-the-box.json](./101814-whats-inside-the-box.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's it? Flags | 241194 | [241194-whats-it-flags.json](./241194-whats-it-flags.json) |
 | What's Left | 126209 | [126209-whats-left.json](./126209-whats-left.json) |
