@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raindancer | 125396 | [125396-raindancer.json](./125396-raindancer.json) |
 | Raindrop Sprinters | 259612 | [259612-raindrop-sprinters.json](./259612-raindrop-sprinters.json) |
 | Raindrop Umbrella | 238780 | [238780-raindrop-umbrella.json](./238780-raindrop-umbrella.json) |
+| Raindrops | 133482 | [133482-raindrops.json](./133482-raindrops.json) |
 | Raindrops | 170468 | [170468-raindrops.json](./170468-raindrops.json) |
 | Rainette | 258476 | [258476-rainette.json](./258476-rainette.json) |
 | Rainforest Adventure | 53491 | [53491-rainforest-adventure.json](./53491-rainforest-adventure.json) |
@@ -8388,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
+| Ring of Life: Survive in Proxima | 133511 | [133511-ring-of-life-survive-in-proxima.json](./133511-ring-of-life-survive-in-proxima.json) |
 | Ring of Power | 296147 | [296147-ring-of-power.json](./296147-ring-of-power.json) |
 | Ring of Red | 22010 | [22010-ring-of-red.json](./22010-ring-of-red.json) |
 | Ring of Sias | 112568 | [112568-ring-of-sias.json](./112568-ring-of-sias.json) |
