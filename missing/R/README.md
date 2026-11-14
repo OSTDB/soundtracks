@@ -7186,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie: Limited Edition | 166303 | [166303-reverie-limited-edition.json](./166303-reverie-limited-edition.json) |
 | Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
 | Reveries: Soul Collector HD | 93829 | [93829-reveries-soul-collector-hd.json](./93829-reveries-soul-collector-hd.json) |
+| ReverieTale | 148617 | [148617-reverietale.json](./148617-reverietale.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal Challenge | 209197 | [209197-reversal-challenge.json](./209197-reversal-challenge.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
@@ -10466,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Smash EX | 41174 | [41174-rocket-smash-ex.json](./41174-rocket-smash-ex.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
+| Rocket Squad | 148605 | [148605-rocket-squad.json](./148605-rocket-squad.json) |
 | Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
 | Rocket Stop Incident | 151512 | [151512-rocket-stop-incident.json](./151512-rocket-stop-incident.json) |
 | Rocket Storm | 401445 | [401445-rocket-storm.json](./401445-rocket-storm.json) |
