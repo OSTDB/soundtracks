@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
 | Ultra Mega Planet Battles | 244743 | [244743-ultra-mega-planet-battles.json](./244743-ultra-mega-planet-battles.json) |
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
+| Ultra Mission | 159376 | [159376-ultra-mission.json](./159376-ultra-mission.json) |
 | Ultra Moto Hero | 175251 | [175251-ultra-moto-hero.json](./175251-ultra-moto-hero.json) |
 | Ultra Moto VR | 213304 | [213304-ultra-moto-vr.json](./213304-ultra-moto-vr.json) |
 | Ultra Mushroom | 302442 | [302442-ultra-mushroom.json](./302442-ultra-mushroom.json) |
@@ -2728,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlight:SchizoChronicle | 101274 | [101274-unlight-schizochronicle.json](./101274-unlight-schizochronicle.json) |
 | Unlighted | 306271 | [306271-unlighted.json](./306271-unlighted.json) |
 | Unlikely | 311437 | [311437-unlikely.json](./311437-unlikely.json) |
+| Unlikely Heroes | 159422 | [159422-unlikely-heroes.json](./159422-unlikely-heroes.json) |
 | Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
 | Unlikely Stickman | 55560 | [55560-unlikely-stickman.json](./55560-unlikely-stickman.json) |
 | Unlikely Suspects | 63916 | [63916-unlikely-suspects.json](./63916-unlikely-suspects.json) |
