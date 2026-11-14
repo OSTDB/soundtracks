@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: Legends of Mystery 5 | 203857 | [203857-1001-jigsaw-legends-of-mystery-5.json](./203857-1001-jigsaw-legends-of-mystery-5.json) |
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
+| 1001 Jigsaw: Myths of Ancient Greece | 130923 | [130923-1001-jigsaw-myths-of-ancient-greece.json](./130923-1001-jigsaw-myths-of-ancient-greece.json) |
 | 1001 Jigsaw: Wild Animals | 195447 | [195447-1001-jigsaw-wild-animals.json](./195447-1001-jigsaw-wild-animals.json) |
 | 1001 Jigsaw: World Tour - Africa | 162968 | [162968-1001-jigsaw-world-tour-africa.json](./162968-1001-jigsaw-world-tour-africa.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
