@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoba | 55348 | [55348-yoba.json](./55348-yoba.json) |
 | Yobarai Detective: Miasma Breaker | 324241 | [324241-yobarai-detective-miasma-breaker.json](./324241-yobarai-detective-miasma-breaker.json) |
 | YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
+| Yocchan to Chie Asobi | 151859 | [151859-yocchan-to-chie-asobi.json](./151859-yocchan-to-chie-asobi.json) |
 | Yochi | 92331 | [92331-yochi.json](./92331-yochi.json) |
 | Yoda | 327966 | [327966-yoda.json](./327966-yoda.json) |
 | Yoda's Escape | 243820 | [243820-yodas-escape.json](./243820-yodas-escape.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki Jump | 396836 | [396836-yuki-jump.json](./396836-yuki-jump.json) |
 | Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
+| Yuki no Jigsaw Kids | 151860 | [151860-yuki-no-jigsaw-kids.json](./151860-yuki-no-jigsaw-kids.json) |
 | Yuki no Wai-wai Kids | 179217 | [179217-yuki-no-wai-wai-kids.json](./179217-yuki-no-wai-wai-kids.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki-iro Sign | 240708 | [240708-yuki-iro-sign.json](./240708-yuki-iro-sign.json) |
