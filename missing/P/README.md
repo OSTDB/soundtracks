@@ -12896,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Fantasy World Edition | 146175 | [146175-poker-pretty-girls-battle-fantasy-world-edition.json](./146175-poker-pretty-girls-battle-fantasy-world-edition.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
+| Poker Quest | 130976 | [130976-poker-quest.json](./130976-poker-quest.json) |
 | Poker Relay | 328422 | [328422-poker-relay.json](./328422-poker-relay.json) |
 | Poker Rivals | 342478 | [342478-poker-rivals.json](./342478-poker-rivals.json) |
 | Poker Show VR | 29093 | [29093-poker-show-vr.json](./29093-poker-show-vr.json) |
@@ -14331,6 +14332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Defect | 155383 | [155383-portal-defect.json](./155383-portal-defect.json) |
 | Portal Defenders | 300449 | [300449-portal-defenders.json](./300449-portal-defenders.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
+| Portal Dogs | 130981 | [130981-portal-dogs.json](./130981-portal-dogs.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
 | Portal Dungeon | 201598 | [201598-portal-dungeon.json](./201598-portal-dungeon.json) |
 | Portal Dungeon: Character Pack - Duck | 275719 | [275719-portal-dungeon-character-pack-duck.json](./275719-portal-dungeon-character-pack-duck.json) |
@@ -15207,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
 | Practice Teacher | 388156 | [388156-practice-teacher.json](./388156-practice-teacher.json) |
 | Practice Your Bridge | 88664 | [88664-practice-your-bridge.json](./88664-practice-your-bridge.json) |
+| Practise English! | 131023 | [131023-practise-english.json](./131023-practise-english.json) |
 | Practisim VR | 36641 | [36641-practisim-vr.json](./36641-practisim-vr.json) |
 | Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
