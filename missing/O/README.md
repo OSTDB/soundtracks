@@ -3123,8 +3123,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Bright Memory | 281570 | [281570-ongeki-bright-memory.json](./281570-ongeki-bright-memory.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
+| Ongeki Plus | 154646 | [154646-ongeki-plus.json](./154646-ongeki-plus.json) |
 | Ongeki Re:Fresh | 344013 | [344013-ongeki-re-fresh.json](./344013-ongeki-re-fresh.json) |
+| Ongeki Red | 154652 | [154652-ongeki-red.json](./154652-ongeki-red.json) |
+| Ongeki Red Plus | 154653 | [154653-ongeki-red-plus.json](./154653-ongeki-red-plus.json) |
 | Ongeki Summer | 143317 | [143317-ongeki-summer.json](./143317-ongeki-summer.json) |
+| Ongeki Summer Plus | 154650 | [154650-ongeki-summer-plus.json](./154650-ongeki-summer-plus.json) |
 | Oni | 2413 | [2413-oni.json](./2413-oni.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni | 384838 | [384838-oni.json](./384838-oni.json) |
