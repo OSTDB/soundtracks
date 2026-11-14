@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
 | Mahjongg XP Championship | 210193 | [210193-mahjongg-xp-championship.json](./210193-mahjongg-xp-championship.json) |
+| Mahjongg: Legends of the Tiles | 125483 | [125483-mahjongg-legends-of-the-tiles.json](./125483-mahjongg-legends-of-the-tiles.json) |
 | MahJongg: Tiles of Time | 210192 | [210192-mahjongg-tiles-of-time.json](./210192-mahjongg-tiles-of-time.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjonggTiles | 86159 | [86159-mahjonggtiles.json](./86159-mahjonggtiles.json) |
@@ -3006,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malice: Two Sisters | 125641 | [125641-malice-two-sisters.json](./125641-malice-two-sisters.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
+| Malicious Dinner | 125523 | [125523-malicious-dinner.json](./125523-malicious-dinner.json) |
 | Malicious Mages | 216652 | [216652-malicious-mages.json](./216652-malicious-mages.json) |
 | Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
 | Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
@@ -7233,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Beans: Party Hat Pack | 257859 | [257859-mean-beans-party-hat-pack.json](./257859-mean-beans-party-hat-pack.json) |
 | Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
+| Mean Girls: High School Showdown | 125515 | [125515-mean-girls-high-school-showdown.json](./125515-mean-girls-high-school-showdown.json) |
 | Mean Machine | 413633 | [413633-mean-machine.json](./413633-mean-machine.json) |
 | Mean Machines | 246257 | [246257-mean-machines.json](./246257-mean-machines.json) |
 | Mean Machines | 51691 | [51691-mean-machines.json](./51691-mean-machines.json) |
@@ -14681,6 +14684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minkle's Masks of Mayhem | 413142 | [413142-minkles-masks-of-mayhem.json](./413142-minkles-masks-of-mayhem.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | Minky Momo no Panic Ball | 310519 | [310519-minky-momo-no-panic-ball.json](./310519-minky-momo-no-panic-ball.json) |
+| Minky Monkey | 125525 | [125525-minky-monkey.json](./125525-minky-monkey.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna Atsumore! Igo Kyoushitsu | 377944 | [377944-minna-atsumore-igo-kyoushitsu.json](./377944-minna-atsumore-igo-kyoushitsu.json) |
 | Minna de Asobo: Shanghai DS 2 | 71570 | [71570-minna-de-asobo-shanghai-ds-2.json](./71570-minna-de-asobo-shanghai-ds-2.json) |
@@ -15467,6 +15471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Thunderbolt | 103044 | [103044-mission-thunderbolt.json](./103044-mission-thunderbolt.json) |
 | Mission: Wolf | 68815 | [68815-mission-wolf.json](./68815-mission-wolf.json) |
 | Mission:Amazing | 128341 | [128341-mission-amazing.json](./128341-mission-amazing.json) |
+| Missionchief | 125500 | [125500-missionchief.json](./125500-missionchief.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Mississauga Tycoon | 368416 | [368416-mississauga-tycoon.json](./368416-mississauga-tycoon.json) |
 | Missland | 225613 | [225613-missland.json](./225613-missland.json) |
@@ -16437,6 +16442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
 | Moero!! Pro Yakyuu Homerun Kyousou | 40387 | [40387-moero-pro-yakyuu-homerun-kyousou.json](./40387-moero-pro-yakyuu-homerun-kyousou.json) |
 | Moero!! Pro Yakyuu Rookies | 37566 | [37566-moero-pro-yakyuu-rookies.json](./37566-moero-pro-yakyuu-rookies.json) |
+| Moero!! Pro Yakyuu: Home Run Kyousou SP | 125484 | [125484-moero-pro-yakyuu-home-run-kyousou-sp.json](./125484-moero-pro-yakyuu-home-run-kyousou-sp.json) |
 | Moeru Danmaku STG Moedan | 204490 | [204490-moeru-danmaku-stg-moedan.json](./204490-moeru-danmaku-stg-moedan.json) |
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
@@ -18539,6 +18545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Drive | 252422 | [252422-moonlight-drive.json](./252422-moonlight-drive.json) |
 | Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
+| Moonlight Ghost | 125521 | [125521-moonlight-ghost.json](./125521-moonlight-ghost.json) |
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
 | Moonlight Knight | 252665 | [252665-moonlight-knight.json](./252665-moonlight-knight.json) |
 | Moonlight Lady | 62537 | [62537-moonlight-lady.json](./62537-moonlight-lady.json) |
