@@ -11238,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl | 23361 | [23361-blindgirl.json](./23361-blindgirl.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
+| Blinding Blade | 114492 | [114492-blinding-blade.json](./114492-blinding-blade.json) |
 | Blinding Dark | 10053 | [10053-blinding-dark.json](./10053-blinding-dark.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
@@ -14706,6 +14707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Break: Sega Network Robot Wars | 78434 | [78434-border-break-sega-network-robot-wars.json](./78434-border-break-sega-network-robot-wars.json) |
 | Border Clash | 266089 | [266089-border-clash.json](./266089-border-clash.json) |
 | Border closure | 90018 | [90018-border-closure.json](./90018-border-closure.json) |
+| Border Control | 114488 | [114488-border-control.json](./114488-border-control.json) |
 | Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force | 114512 | [114512-border-force.json](./114512-border-force.json) |
@@ -15637,6 +15639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box Hustle | 369747 | [369747-box-hustle.json](./369747-box-hustle.json) |
 | Box in Box | 364799 | [364799-box-in-box.json](./364799-box-in-box.json) |
+| Box Island | 114625 | [114625-box-island.json](./114625-box-island.json) |
 | Box It | 102281 | [102281-box-it.json](./102281-box-it.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box It! | 177649 | [177649-box-it.json](./177649-box-it.json) |
@@ -20477,6 +20480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
 | Byte Cats | 206437 | [206437-byte-cats.json](./206437-byte-cats.json) |
 | Byte Chaser | 114216 | [114216-byte-chaser.json](./114216-byte-chaser.json) |
+| Byte Driver | 114453 | [114453-byte-driver.json](./114453-byte-driver.json) |
 | Byte Family | 30750 | [30750-byte-family.json](./30750-byte-family.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Hack | 287914 | [287914-byte-hack.json](./287914-byte-hack.json) |
