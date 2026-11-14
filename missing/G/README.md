@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geisterland | 159382 | [159382-geisterland.json](./159382-geisterland.json) |
 | Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
+| Geki Yaba Runner | 81486 | [81486-geki-yaba-runner.json](./81486-geki-yaba-runner.json) |
 | Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Geki Yaba Runner: Anniversary Edition | 119509 | [119509-geki-yaba-runner-anniversary-edition.json](./119509-geki-yaba-runner-anniversary-edition.json) |
@@ -7573,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo 13: File G-13 o Oe | 77335 | [77335-golgo-13-file-g-13-o-oe.json](./77335-golgo-13-file-g-13-o-oe.json) |
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
 | Golgo 13: Moretti Ichizoku Zansatsu Jiken | 80431 | [80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json](./80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json) |
+| Golgo 13: Ookami no Su | 81481 | [81481-golgo-13-ookami-no-su.json](./81481-golgo-13-ookami-no-su.json) |
 | Golgo 13: Top Secret Episode | 48059 | [48059-golgo-13-top-secret-episode.json](./48059-golgo-13-top-secret-episode.json) |
 | Golgo-13 | 131079 | [131079-golgo-13.json](./131079-golgo-13.json) |
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
@@ -8265,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic II: Gold Edition | 29207 | [29207-gothic-ii-gold-edition.json](./29207-gothic-ii-gold-edition.json) |
 | Gothic II: Odyssey | 272459 | [272459-gothic-ii-odyssey.json](./272459-gothic-ii-odyssey.json) |
 | Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
+| Gothic Masquerade | 84497 | [84497-gothic-masquerade.json](./84497-gothic-masquerade.json) |
 | Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
 | Gothic Murder: Adventure That Changes Destiny | 136503 | [136503-gothic-murder-adventure-that-changes-destiny.json](./136503-gothic-murder-adventure-that-changes-destiny.json) |
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
@@ -10876,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Fit Kingdom! | 135720 | [135720-groove-fit-kingdom.json](./135720-groove-fit-kingdom.json) |
 | Groove Galaxy | 58280 | [58280-groove-galaxy.json](./58280-groove-galaxy.json) |
 | Groove Gunner | 112778 | [112778-groove-gunner.json](./112778-groove-gunner.json) |
+| Groove Heaven | 84496 | [84496-groove-heaven.json](./84496-groove-heaven.json) |
 | Groove In The Grove | 376712 | [376712-groove-in-the-grove.json](./376712-groove-in-the-grove.json) |
 | Groove Jigoku V | 67774 | [67774-groove-jigoku-v.json](./67774-groove-jigoku-v.json) |
 | Groove on Fight | 39420 | [39420-groove-on-fight.json](./39420-groove-on-fight.json) |
@@ -11106,6 +11110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grumpy Gumphrey Supersleuth | 72262 | [72262-grumpy-gumphrey-supersleuth.json](./72262-grumpy-gumphrey-supersleuth.json) |
 | Grumpy Jack | 391288 | [391288-grumpy-jack.json](./391288-grumpy-jack.json) |
 | Grumpy Librarian | 181681 | [181681-grumpy-librarian.json](./181681-grumpy-librarian.json) |
+| Grumpy Reaper | 84495 | [84495-grumpy-reaper.json](./84495-grumpy-reaper.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | Grunder | 278517 | [278517-grunder.json](./278517-grunder.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
@@ -11273,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
+| Guardian of the Gears | 81532 | [81532-guardian-of-the-gears.json](./81532-guardian-of-the-gears.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
 | Guardian of the Jungle | 224901 | [224901-guardian-of-the-jungle.json](./224901-guardian-of-the-jungle.json) |
 | Guardian of the Rebellion | 347096 | [347096-guardian-of-the-rebellion.json](./347096-guardian-of-the-rebellion.json) |
@@ -11475,6 +11481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guide | 109243 | [109243-guide.json](./109243-guide.json) |
 | Guide and Throw | 190835 | [190835-guide-and-throw.json](./190835-guide-and-throw.json) |
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
+| Guide the Ghost | 84494 | [84494-guide-the-ghost.json](./84494-guide-the-ghost.json) |
 | Guide the Light | 175514 | [175514-guide-the-light.json](./175514-guide-the-light.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
@@ -12628,6 +12635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guus Winterpret | 350015 | [350015-guus-winterpret.json](./350015-guus-winterpret.json) |
 | Guwange | 21162 | [21162-guwange.json](./21162-guwange.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
+| Guxt | 84492 | [84492-guxt.json](./84492-guxt.json) |
 | Guy in a Box Killing Things Simulator | 415688 | [415688-guy-in-a-box-killing-things-simulator.json](./415688-guy-in-a-box-killing-things-simulator.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
