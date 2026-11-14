@@ -13430,6 +13430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DomiDo | 118144 | [118144-domido.json](./118144-domido.json) |
 | Domin'Ant | 131948 | [131948-dominant.json](./131948-dominant.json) |
 | Domina | 31173 | [31173-domina.json](./31173-domina.json) |
+| Domina: Ludus Expansion - Livery | 167335 | [167335-domina-ludus-expansion-livery.json](./167335-domina-ludus-expansion-livery.json) |
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | DominancE | 153783 | [153783-dominance.json](./153783-dominance.json) |
@@ -15068,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotLine | 109418 | [109418-dotline.json](./109418-dotline.json) |
 | DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
 | DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
+| Dotokoi | 167399 | [167399-dotokoi.json](./167399-dotokoi.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
 | Dotonpachi Maximum | 376949 | [376949-dotonpachi-maximum.json](./376949-dotonpachi-maximum.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
