@@ -11072,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleurghburg: Dark Ages | 79805 | [79805-pleurghburg-dark-ages.json](./79805-pleurghburg-dark-ages.json) |
 | Plexar | 84322 | [84322-plexar.json](./84322-plexar.json) |
 | Plexarium: Mega Maze Crawler | 55685 | [55685-plexarium-mega-maze-crawler.json](./55685-plexarium-mega-maze-crawler.json) |
+| pleXus VR | 142523 | [142523-plexus-vr.json](./142523-plexus-vr.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plight | 86370 | [86370-plight.json](./86370-plight.json) |
 | Plight of the Zombie | 33737 | [33737-plight-of-the-zombie.json](./33737-plight-of-the-zombie.json) |
@@ -11586,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Ware 2 | 413384 | [413384-pocket-ware-2.json](./413384-pocket-ware-2.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
+| Pocket Watch | 141929 | [141929-pocket-watch.json](./141929-pocket-watch.json) |
 | Pocket Wheels | 145755 | [145755-pocket-wheels.json](./145755-pocket-wheels.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
 | Pocket World 3D | 194120 | [194120-pocket-world-3d.json](./194120-pocket-world-3d.json) |
@@ -15933,6 +15935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Harem Adventures | 212850 | [212850-prince-of-persia-harem-adventures.json](./212850-prince-of-persia-harem-adventures.json) |
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
 | Prince of Persia: New Era Bundle | 407278 | [407278-prince-of-persia-new-era-bundle.json](./407278-prince-of-persia-new-era-bundle.json) |
+| Prince of Persia: Redemption | 142514 | [142514-prince-of-persia-redemption.json](./142514-prince-of-persia-redemption.json) |
 | Prince of Persia: Revelations | 22565 | [22565-prince-of-persia-revelations.json](./22565-prince-of-persia-revelations.json) |
 | Prince of Persia: Rival Swords | 22020 | [22020-prince-of-persia-rival-swords.json](./22020-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
@@ -16942,6 +16945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton and the Turnabout of the Golden Witch | 303037 | [303037-professor-layton-and-the-turnabout-of-the-golden-witch.json](./303037-professor-layton-and-the-turnabout-of-the-golden-witch.json) |
 | Professor Layton and the Unwound Future | 1399 | [1399-professor-layton-and-the-unwound-future.json](./1399-professor-layton-and-the-unwound-future.json) |
+| Professor Layton and the Unwound Future HD for Mobile | 141948 | [141948-professor-layton-and-the-unwound-future-hd-for-mobile.json](./141948-professor-layton-and-the-unwound-future-hd-for-mobile.json) |
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
@@ -20429,6 +20433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Fire Sticks | 125702 | [125702-puzzle-fire-sticks.json](./125702-puzzle-fire-sticks.json) |
 | Puzzle: Landscapes | 106589 | [106589-puzzle-landscapes.json](./106589-puzzle-landscapes.json) |
 | Puzzle: Landscapes - Puzzle Pack: Autumn | 163491 | [163491-puzzle-landscapes-puzzle-pack-autumn.json](./163491-puzzle-landscapes-puzzle-pack-autumn.json) |
+| Puzzle: Lines and Knots | 141927 | [141927-puzzle-lines-and-knots.json](./141927-puzzle-lines-and-knots.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
 | Puzzle: Lines and Knots - Levels Pack 1 | 163436 | [163436-puzzle-lines-and-knots-levels-pack-1.json](./163436-puzzle-lines-and-knots-levels-pack-1.json) |
 | Puzzle: Lines and Knots - Levels Pack 2 | 163437 | [163437-puzzle-lines-and-knots-levels-pack-2.json](./163437-puzzle-lines-and-knots-levels-pack-2.json) |
