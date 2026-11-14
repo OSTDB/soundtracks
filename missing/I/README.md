@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Road | 22158 | [22158-impossible-road.json](./22158-impossible-road.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
+| Impossible Simplified Cube | 165717 | [165717-impossible-simplified-cube.json](./165717-impossible-simplified-cube.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
 | Impossible Soaring | 127705 | [127705-impossible-soaring.json](./127705-impossible-soaring.json) |
 | Impossible Stunts | 254277 | [254277-impossible-stunts.json](./254277-impossible-stunts.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Fear I Trust: Episode 2 - The Last Desk | 171647 | [171647-in-fear-i-trust-episode-2-the-last-desk.json](./171647-in-fear-i-trust-episode-2-the-last-desk.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
+| In Flames | 165788 | [165788-in-flames.json](./165788-in-flames.json) |
 | In Freedom Rest Ideal Tomorrows | 247900 | [247900-in-freedom-rest-ideal-tomorrows.json](./247900-in-freedom-rest-ideal-tomorrows.json) |
 | In Full Bloom | 349756 | [349756-in-full-bloom.json](./349756-in-full-bloom.json) |
 | In Game | 116542 | [116542-in-game.json](./116542-in-game.json) |
@@ -3216,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Cards | 184896 | [184896-in-the-cards.json](./184896-in-the-cards.json) |
 | In the Chips | 307650 | [307650-in-the-chips.json](./307650-in-the-chips.json) |
 | In the Crags | 144683 | [144683-in-the-crags.json](./144683-in-the-crags.json) |
+| In the Dark | 165780 | [165780-in-the-dark.json](./165780-in-the-dark.json) |
 | In the Dark | 220386 | [220386-in-the-dark.json](./220386-in-the-dark.json) |
 | In the Dark | 327429 | [327429-in-the-dark.json](./327429-in-the-dark.json) |
 | In the Dark | 50748 | [50748-in-the-dark.json](./50748-in-the-dark.json) |
