@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade 2021-22: Bionic Traveler | 237792 | [237792-upgrade-2021-22-bionic-traveler.json](./237792-upgrade-2021-22-bionic-traveler.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
+| Upgrade Complete 3mium | 101821 | [101821-upgrade-complete-3mium.json](./101821-upgrade-complete-3mium.json) |
 | Upgrade It | 396581 | [396581-upgrade-it.json](./396581-upgrade-it.json) |
 | Upgrade the game | 118561 | [118561-upgrade-the-game.json](./118561-upgrade-the-game.json) |
 | Upgrade the game 2 | 118655 | [118655-upgrade-the-game-2.json](./118655-upgrade-the-game-2.json) |
