@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zigglox | 157378 | [157378-zigglox.json](./157378-zigglox.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
 | Ziggurat | 23876 | [23876-ziggurat.json](./23876-ziggurat.json) |
+| Ziggurat | 81517 | [81517-ziggurat.json](./81517-ziggurat.json) |
 | Ziggurat 2 | 139416 | [139416-ziggurat-2.json](./139416-ziggurat-2.json) |
 | Ziggurat 3D Chess | 52088 | [52088-ziggurat-3d-chess.json](./52088-ziggurat-3d-chess.json) |
 | Ziggy | 157325 | [157325-ziggy.json](./157325-ziggy.json) |
@@ -1713,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
 | Zombie Birds First Encounter Halloween | 31512 | [31512-zombie-birds-first-encounter-halloween.json](./31512-zombie-birds-first-encounter-halloween.json) |
 | Zombie Blast Crew | 125194 | [125194-zombie-blast-crew.json](./125194-zombie-blast-crew.json) |
+| Zombie Blaster | 84930 | [84930-zombie-blaster.json](./84930-zombie-blaster.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Blitz | 329423 | [329423-zombie-blitz.json](./329423-zombie-blitz.json) |
 | Zombie Blitzkrieg | 311515 | [311515-zombie-blitzkrieg.json](./311515-zombie-blitzkrieg.json) |
@@ -1724,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Bowl-O-Rama HD | 175226 | [175226-zombie-bowl-o-rama-hd.json](./175226-zombie-bowl-o-rama-hd.json) |
 | Zombie Brains | 233040 | [233040-zombie-brains.json](./233040-zombie-brains.json) |
 | Zombie Breakdown | 230900 | [230900-zombie-breakdown.json](./230900-zombie-breakdown.json) |
+| Zombie Brigade: No Brain No Gain | 84931 | [84931-zombie-brigade-no-brain-no-gain.json](./84931-zombie-brigade-no-brain-no-gain.json) |
 | Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Builder Defense 2 | 239766 | [239766-zombie-builder-defense-2.json](./239766-zombie-builder-defense-2.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
@@ -2513,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Life Simulator | 371825 | [371825-zoo-life-simulator.json](./371825-zoo-life-simulator.json) |
 | Zoo Maniacs Pinball | 97136 | [97136-zoo-maniacs-pinball.json](./97136-zoo-maniacs-pinball.json) |
 | Zoo Master | 133392 | [133392-zoo-master.json](./133392-zoo-master.json) |
+| Zoo Match | 84928 | [84928-zoo-match.json](./84928-zoo-match.json) |
 | Zoo Merge | 349307 | [349307-zoo-merge.json](./349307-zoo-merge.json) |
 | Zoo Orbs | 396870 | [396870-zoo-orbs.json](./396870-zoo-orbs.json) |
 | Zoo Orbs: Safari | 401726 | [401726-zoo-orbs-safari.json](./401726-zoo-orbs-safari.json) |
@@ -2634,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoomOut | 367285 | [367285-zoomout.json](./367285-zoomout.json) |
 | Zooms Rampage | 297754 | [297754-zooms-rampage.json](./297754-zooms-rampage.json) |
 | ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
+| Zoonies: Escape from Makatu | 84929 | [84929-zoonies-escape-from-makatu.json](./84929-zoonies-escape-from-makatu.json) |
 | Zoonomaly | 223526 | [223526-zoonomaly.json](./223526-zoonomaly.json) |
 | Zoony: World Tour | 114615 | [114615-zoony-world-tour.json](./114615-zoony-world-tour.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
