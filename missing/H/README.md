@@ -9930,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowforge | 333271 | [333271-hollowforge.json](./333271-hollowforge.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
 | Hollowgrace | 379067 | [379067-hollowgrace.json](./379067-hollowgrace.json) |
+| Hollowhead's VR Time Machine | 121095 | [121095-hollowheads-vr-time-machine.json](./121095-hollowheads-vr-time-machine.json) |
 | Hollowing | 350354 | [350354-hollowing.json](./350354-hollowing.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
