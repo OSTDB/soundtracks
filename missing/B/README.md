@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Birthday Party | 233381 | [233381-baby-pandas-birthday-party.json](./233381-baby-pandas-birthday-party.json) |
 | Baby Panda's Fire Safety | 188251 | [188251-baby-pandas-fire-safety.json](./188251-baby-pandas-fire-safety.json) |
 | Baby Panda's Forest Feast: Party Fun | 105846 | [105846-baby-pandas-forest-feast-party-fun.json](./105846-baby-pandas-forest-feast-party-fun.json) |
+| Baby Panda's Hair Salon | 104302 | [104302-baby-pandas-hair-salon.json](./104302-baby-pandas-hair-salon.json) |
 | Baby Panda's Holidays | 107546 | [107546-baby-pandas-holidays.json](./107546-baby-pandas-holidays.json) |
 | Baby Panda's Juice Shop | 100917 | [100917-baby-pandas-juice-shop.json](./100917-baby-pandas-juice-shop.json) |
 | Baby Panda's Photo Studio | 188263 | [188263-baby-pandas-photo-studio.json](./188263-baby-pandas-photo-studio.json) |
@@ -10946,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze | 268823 | [268823-blaze.json](./268823-blaze.json) |
 | Blaze & Blade Busters | 43787 | [43787-blaze-and-blade-busters.json](./43787-blaze-and-blade-busters.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
+| Blaze and the Monster Hill Racing Machines 2018 | 104303 | [104303-blaze-and-the-monster-hill-racing-machines-2018.json](./104303-blaze-and-the-monster-hill-racing-machines-2018.json) |
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines | 230339 | [230339-blaze-and-the-monster-machines.json](./230339-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
@@ -11642,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
 | Block Puzzle Advanced | 109939 | [109939-block-puzzle-advanced.json](./109939-block-puzzle-advanced.json) |
+| Block Puzzle Classic | 104299 | [104299-block-puzzle-classic.json](./104299-block-puzzle-classic.json) |
 | Block Puzzle Kool | 264907 | [264907-block-puzzle-kool.json](./264907-block-puzzle-kool.json) |
 | Block Puzzle Legend | 104585 | [104585-block-puzzle-legend.json](./104585-block-puzzle-legend.json) |
 | Block Puzzle Pop!! | 241805 | [241805-block-puzzle-pop.json](./241805-block-puzzle-pop.json) |
@@ -12459,6 +12462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstate | 407619 | [407619-bloodstate.json](./407619-bloodstate.json) |
 | Bloodstone | 129929 | [129929-bloodstone.json](./129929-bloodstone.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
+| Bloodstone Online: The Ancient Curse | 104338 | [104338-bloodstone-online-the-ancient-curse.json](./104338-bloodstone-online-the-ancient-curse.json) |
 | Bloodstone Rising | 344586 | [344586-bloodstone-rising.json](./344586-bloodstone-rising.json) |
 | Bloodstone: An Epic Dwarven Tale | 2433 | [2433-bloodstone-an-epic-dwarven-tale.json](./2433-bloodstone-an-epic-dwarven-tale.json) |
 | BloodStorm | 8937 | [8937-bloodstorm.json](./8937-bloodstorm.json) |
@@ -18366,6 +18370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
 | Bubble Shooter Blast | 108631 | [108631-bubble-shooter-blast.json](./108631-bubble-shooter-blast.json) |
 | Bubble Shooter by GameTaco | 87519 | [87519-bubble-shooter-by-gametaco.json](./87519-bubble-shooter-by-gametaco.json) |
+| Bubble Shooter Dragon Pop | 104340 | [104340-bubble-shooter-dragon-pop.json](./104340-bubble-shooter-dragon-pop.json) |
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
 | Bubble Shooter Heroes | 246590 | [246590-bubble-shooter-heroes.json](./246590-bubble-shooter-heroes.json) |
