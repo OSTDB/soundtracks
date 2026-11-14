@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire III: Armageddon | 24894 | [24894-empire-iii-armageddon.json](./24894-empire-iii-armageddon.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
 | Empire Invasion | 147135 | [147135-empire-invasion.json](./147135-empire-invasion.json) |
+| Empire Live | 126048 | [126048-empire-live.json](./126048-empire-live.json) |
 | Empire of Angels | 56126 | [56126-empire-of-angels.json](./56126-empire-of-angels.json) |
 | Empire of Angels II | 56124 | [56124-empire-of-angels-ii.json](./56124-empire-of-angels-ii.json) |
 | Empire of Angels III | 56122 | [56122-empire-of-angels-iii.json](./56122-empire-of-angels-iii.json) |
