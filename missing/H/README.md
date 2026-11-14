@@ -13794,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
 | Hyper Meteor | 151971 | [151971-hyper-meteor.json](./151971-hyper-meteor.json) |
+| Hyper Metroid | 134086 | [134086-hyper-metroid.json](./134086-hyper-metroid.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Mice Rescue | 347965 | [347965-hyper-mice-rescue.json](./347965-hyper-mice-rescue.json) |
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
