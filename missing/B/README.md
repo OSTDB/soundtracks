@@ -15428,6 +15428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Sword: Satellaview Special Time Attack Version | 327645 | [327645-bounty-sword-satellaview-special-time-attack-version.json](./327645-bounty-sword-satellaview-special-time-attack-version.json) |
 | Bounty Trail | 416850 | [416850-bounty-trail.json](./416850-bounty-trail.json) |
 | Bounty Train | 11802 | [11802-bounty-train.json](./11802-bounty-train.json) |
+| Bounty Train: New West | 124889 | [124889-bounty-train-new-west.json](./124889-bounty-train-new-west.json) |
 | Bounty Train: Trainium Edition | 52684 | [52684-bounty-train-trainium-edition.json](./52684-bounty-train-trainium-edition.json) |
 | Bounty: Drag Racing | 243047 | [243047-bounty-drag-racing.json](./243047-bounty-drag-racing.json) |
 | Bounty: Special Edition | 206470 | [206470-bounty-special-edition.json](./206470-bounty-special-edition.json) |
