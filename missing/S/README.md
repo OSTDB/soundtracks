@@ -6376,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
+| Serial Killer Life | 167735 | [167735-serial-killer-life.json](./167735-serial-killer-life.json) |
 | Serial Killers & Zombies: Horror Bundle | 393052 | [393052-serial-killers-and-zombies-horror-bundle.json](./393052-serial-killers-and-zombies-horror-bundle.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Serial Numbers | 112436 | [112436-serial-numbers.json](./112436-serial-numbers.json) |
