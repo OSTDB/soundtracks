@@ -4404,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Fluzz | 31449 | [31449-adventures-of-fluzz.json](./31449-adventures-of-fluzz.json) |
 | Adventures of forsenE: The Hobo Knight | 116699 | [116699-adventures-of-forsene-the-hobo-knight.json](./116699-adventures-of-forsene-the-hobo-knight.json) |
 | Adventures of Helio | 239399 | [239399-adventures-of-helio.json](./239399-adventures-of-helio.json) |
+| Adventures of Hendri | 88252 | [88252-adventures-of-hendri.json](./88252-adventures-of-hendri.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Hooi | 30312 | [30312-adventures-of-hooi.json](./30312-adventures-of-hooi.json) |
 | Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
@@ -11198,6 +11199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angvik 2 | 304928 | [304928-angvik-2.json](./304928-angvik-2.json) |
 | Angy | 211077 | [211077-angy.json](./211077-angy.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
+| Anhui Mahjong Solitaire Shanghai | 88571 | [88571-anhui-mahjong-solitaire-shanghai.json](./88571-anhui-mahjong-solitaire-shanghai.json) |
 | Ani | 312988 | [312988-ani.json](./312988-ani.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
@@ -15999,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
 | Army Men Advance | 6307 | [6307-army-men-advance.json](./6307-army-men-advance.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
+| Army Men Destroy 1.1 | 88568 | [88568-army-men-destroy-1-1.json](./88568-army-men-destroy-1-1.json) |
 | Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
 | Army Men II | 22830 | [22830-army-men-ii.json](./22830-army-men-ii.json) |
 | Army Men Strike: Toy Wars | 280923 | [280923-army-men-strike-toy-wars.json](./280923-army-men-strike-toy-wars.json) |
