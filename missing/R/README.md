@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realistic Illusion | 97193 | [97193-realistic-illusion.json](./97193-realistic-illusion.json) |
 | Realistic Kissing Simulator | 402156 | [402156-realistic-kissing-simulator.json](./402156-realistic-kissing-simulator.json) |
 | Realistic Ragdoll Sandbox | 351672 | [351672-realistic-ragdoll-sandbox.json](./351672-realistic-ragdoll-sandbox.json) |
+| Realistic Social Criticism | 128667 | [128667-realistic-social-criticism.json](./128667-realistic-social-criticism.json) |
 | Realistic Summer Sports | 175253 | [175253-realistic-summer-sports.json](./175253-realistic-summer-sports.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Realities | 33276 | [33276-realities.json](./33276-realities.json) |
@@ -7462,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Blade: The Apocalypse | 71822 | [71822-rex-blade-the-apocalypse.json](./71822-rex-blade-the-apocalypse.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Hard | 39149 | [39149-rex-hard.json](./39149-rex-hard.json) |
+| Rex Hightower and the Unicorn's Kiss | 128675 | [128675-rex-hightower-and-the-unicorns-kiss.json](./128675-rex-hightower-and-the-unicorns-kiss.json) |
 | Rex n Run | 343506 | [343506-rex-n-run.json](./343506-rex-n-run.json) |
 | Rex Nebular and the Cosmic Gender Bender | 8680 | [8680-rex-nebular-and-the-cosmic-gender-bender.json](./8680-rex-nebular-and-the-cosmic-gender-bender.json) |
 | Rex Rocket | 17191 | [17191-rex-rocket.json](./17191-rex-rocket.json) |
