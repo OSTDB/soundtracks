@@ -33221,6 +33221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner Tale | 379626 | [379626-summoner-tale.json](./379626-summoner-tale.json) |
+| Summoner VR | 127394 | [127394-summoner-vr.json](./127394-summoner-vr.json) |
 | Summoner VR: The Ruined Village | 367655 | [367655-summoner-vr-the-ruined-village.json](./367655-summoner-vr-the-ruined-village.json) |
 | Summoner Wars | 22159 | [22159-summoner-wars.json](./22159-summoner-wars.json) |
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
