@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aaron's Particle Space | 185416 | [185416-aarons-particle-space.json](./185416-aarons-particle-space.json) |
 | Aaron's Ping Pong | 92663 | [92663-aarons-ping-pong.json](./92663-aarons-ping-pong.json) |
+| Aarre Safari Ride | 121830 | [121830-aarre-safari-ride.json](./121830-aarre-safari-ride.json) |
 | Aaru's Awakening | 7171 | [7171-aarus-awakening.json](./7171-aarus-awakening.json) |
 | AAS Mos Apocalypse | 283871 | [283871-aas-mos-apocalypse.json](./283871-aas-mos-apocalypse.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
 | Absolute Tennis Manager | 370624 | [370624-absolute-tennis-manager.json](./370624-absolute-tennis-manager.json) |
 | Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
+| Absolute Territory | 121789 | [121789-absolute-territory.json](./121789-absolute-territory.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
 | Absolute Unit | 240546 | [240546-absolute-unit.json](./240546-absolute-unit.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
@@ -14253,6 +14255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
 | Arcade Archives: VS. Castlevania | 125015 | [125015-arcade-archives-vs-castlevania.json](./125015-arcade-archives-vs-castlevania.json) |
 | Arcade Archives: vs. Family Tennis | 328093 | [328093-arcade-archives-vs-family-tennis.json](./328093-arcade-archives-vs-family-tennis.json) |
+| Arcade Archives: VS. Gradius | 121826 | [121826-arcade-archives-vs-gradius.json](./121826-arcade-archives-vs-gradius.json) |
 | Arcade Archives: Vs. Mahjong | 147100 | [147100-arcade-archives-vs-mahjong.json](./147100-arcade-archives-vs-mahjong.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: vs. Star Luster | 305562 | [305562-arcade-archives-vs-star-luster.json](./305562-arcade-archives-vs-star-luster.json) |
