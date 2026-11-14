@@ -15364,6 +15364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Golf | 413514 | [413514-double-golf.json](./413514-double-golf.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
 | Double Hawk | 45659 | [45659-double-hawk.json](./45659-double-hawk.json) |
+| Double Head Shark Attack | 106802 | [106802-double-head-shark-attack.json](./106802-double-head-shark-attack.json) |
 | Double Header: Complete Onside Soccer and Power Slide | 294415 | [294415-double-header-complete-onside-soccer-and-power-slide.json](./294415-double-header-complete-onside-soccer-and-power-slide.json) |
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
 | Double Homework | 140108 | [140108-double-homework.json](./140108-double-homework.json) |
@@ -15898,6 +15899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Slump: Arale-chan | 61519 | [61519-dr-slump-arale-chan.json](./61519-dr-slump-arale-chan.json) |
 | Dr. Smart Space Adventure: In the Space | 241413 | [241413-dr-smart-space-adventure-in-the-space.json](./241413-dr-smart-space-adventure-in-the-space.json) |
 | Dr. Spacezoo | 35220 | [35220-dr-spacezoo.json](./35220-dr-spacezoo.json) |
+| Dr. Splorchy Presents Space Heroes | 106211 | [106211-dr-splorchy-presents-space-heroes.json](./106211-dr-splorchy-presents-space-heroes.json) |
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
@@ -19627,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelist's Gambit | 337319 | [337319-duelists-gambit.json](./337319-duelists-gambit.json) |
 | Duelists of Eden | 196748 | [196748-duelists-of-eden.json](./196748-duelists-of-eden.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
+| DueLito | 106675 | [106675-duelito.json](./106675-duelito.json) |
 | Duelmasters | 370157 | [370157-duelmasters.json](./370157-duelmasters.json) |
 | Duels | 191763 | [191763-duels.json](./191763-duels.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
