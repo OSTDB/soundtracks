@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paparazzi | 100038 | [100038-paparazzi.json](./100038-paparazzi.json) |
 | Paparazzi | 21550 | [21550-paparazzi.json](./21550-paparazzi.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
+| Paparazzi Simulator | 127428 | [127428-paparazzi-simulator.json](./127428-paparazzi-simulator.json) |
 | Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
 | Papaye Bang Bang VR | 256181 | [256181-papaye-bang-bang-vr.json](./256181-papaye-bang-bang-vr.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
@@ -14353,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Dungeon | 201598 | [201598-portal-dungeon.json](./201598-portal-dungeon.json) |
 | Portal Dungeon: Character Pack - Duck | 275719 | [275719-portal-dungeon-character-pack-duck.json](./275719-portal-dungeon-character-pack-duck.json) |
 | Portal Dungeon: Character Pack - Hamster | 291085 | [291085-portal-dungeon-character-pack-hamster.json](./291085-portal-dungeon-character-pack-hamster.json) |
+| Portal Dungeon: Goblin Escape | 127414 | [127414-portal-dungeon-goblin-escape.json](./127414-portal-dungeon-goblin-escape.json) |
 | Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
 | Portal for the C64 | 203152 | [203152-portal-for-the-c64.json](./203152-portal-for-the-c64.json) |
@@ -20846,6 +20848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyromaniacs | 110190 | [110190-pyromaniacs.json](./110190-pyromaniacs.json) |
 | Pyromasters | 387292 | [387292-pyromasters.json](./387292-pyromasters.json) |
 | PyroMind | 103051 | [103051-pyromind.json](./103051-pyromind.json) |
+| PyroNinja: Fire Dodge | 127411 | [127411-pyroninja-fire-dodge.json](./127411-pyroninja-fire-dodge.json) |
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
