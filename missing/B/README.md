@@ -4299,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Heroes: Land of Immortals | 232855 | [232855-battle-of-heroes-land-of-immortals.json](./232855-battle-of-heroes-land-of-immortals.json) |
 | Battle of Hořice 1423 | 240716 | [240716-battle-of-horice-1423.json](./240716-battle-of-horice-1423.json) |
 | Battle of Hoth | 339851 | [339851-battle-of-hoth.json](./339851-battle-of-hoth.json) |
+| Battle of Hunters: Beast Zone | 146399 | [146399-battle-of-hunters-beast-zone.json](./146399-battle-of-hunters-beast-zone.json) |
 | Battle of Keys | 90152 | [90152-battle-of-keys.json](./90152-battle-of-keys.json) |
 | Battle of Kingdom | 7772 | [7772-battle-of-kingdom.json](./7772-battle-of-kingdom.json) |
 | Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
@@ -14503,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang | 279059 | [279059-boomerang.json](./279059-boomerang.json) |
 | Boomerang | 413199 | [413199-boomerang.json](./413199-boomerang.json) |
 | Boomerang Battles | 243593 | [243593-boomerang-battles.json](./243593-boomerang-battles.json) |
+| Boomerang Fighter | 146381 | [146381-boomerang-fighter.json](./146381-boomerang-fighter.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang Fu: Just Desserts DLC | 305614 | [305614-boomerang-fu-just-desserts-dlc.json](./305614-boomerang-fu-just-desserts-dlc.json) |
@@ -19560,6 +19562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Lord | 111438 | [111438-burger-lord.json](./111438-burger-lord.json) |
 | Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
 | Burger Maker | 364156 | [364156-burger-maker.json](./364156-burger-maker.json) |
+| Burger Man | 146368 | [146368-burger-man.json](./146368-burger-man.json) |
 | Burger Man | 320647 | [320647-burger-man.json](./320647-burger-man.json) |
 | Burger Master | 147581 | [147581-burger-master.json](./147581-burger-master.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
