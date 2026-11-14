@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Encounters: Deadwood | 140254 | [140254-ghost-encounters-deadwood.json](./140254-ghost-encounters-deadwood.json) |
 | Ghost Encounters: Deadwood - Collector's Edition | 35691 | [35691-ghost-encounters-deadwood-collectors-edition.json](./35691-ghost-encounters-deadwood-collectors-edition.json) |
 | Ghost Exile | 186477 | [186477-ghost-exile.json](./186477-ghost-exile.json) |
+| Ghost Exorcism Inc. | 151868 | [151868-ghost-exorcism-inc.json](./151868-ghost-exorcism-inc.json) |
 | Ghost Exorcist | 408452 | [408452-ghost-exorcist.json](./408452-ghost-exorcist.json) |
 | Ghost Fake | 246830 | [246830-ghost-fake.json](./246830-ghost-fake.json) |
 | Ghost Feed | 369608 | [369608-ghost-feed.json](./369608-ghost-feed.json) |
@@ -12432,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
 | Guru Logic Champ | 49239 | [49239-guru-logic-champ.json](./49239-guru-logic-champ.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
+| Guru-guru Card Battle | 151779 | [151779-guru-guru-card-battle.json](./151779-guru-guru-card-battle.json) |
 | Guru-guru Garacters | 281537 | [281537-guru-guru-garacters.json](./281537-guru-guru-garacters.json) |
 | Guru-guru Garakutas | 228556 | [228556-guru-guru-garakutas.json](./228556-guru-guru-garakutas.json) |
 | Guru-guru Suika | 206331 | [206331-guru-guru-suika.json](./206331-guru-guru-suika.json) |
