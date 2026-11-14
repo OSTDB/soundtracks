@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders Sphere 4th | 59176 | [59176-raiders-sphere-4th.json](./59176-raiders-sphere-4th.json) |
+| Raiders took my dog | 101835 | [101835-raiders-took-my-dog.json](./101835-raiders-took-my-dog.json) |
 | Raiders! Forsaken Earth | 153676 | [153676-raiders-forsaken-earth.json](./153676-raiders-forsaken-earth.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach Me | 76362 | [76362-reach-me.json](./76362-reach-me.json) |
 | Reach of the River | 419927 | [419927-reach-of-the-river.json](./419927-reach-of-the-river.json) |
 | Reach the Beat | 297900 | [297900-reach-the-beat.json](./297900-reach-the-beat.json) |
+| Reach the core | 101842 | [101842-reach-the-core.json](./101842-reach-the-core.json) |
 | Reach the Hilltop | 236083 | [236083-reach-the-hilltop.json](./236083-reach-the-hilltop.json) |
 | Reach the light | 260871 | [260871-reach-the-light.json](./260871-reach-the-light.json) |
 | Reach the Moon! | 234741 | [234741-reach-the-moon.json](./234741-reach-the-moon.json) |
@@ -5815,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Repit | 190260 | [190260-repit.json](./190260-repit.json) |
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
+| Repixel Animals | 101833 | [101833-repixel-animals.json](./101833-repixel-animals.json) |
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
 | Replaceable | 226471 | [226471-replaceable.json](./226471-replaceable.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
@@ -9630,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robert Rodriguez's The Limit: An Immersive Cinema Experience | 112843 | [112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json](./112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json) |
+| Robert the Elf | 101816 | [101816-robert-the-elf.json](./101816-robert-the-elf.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robert's Spooktacular Ghost Train | 320775 | [320775-roberts-spooktacular-ghost-train.json](./320775-roberts-spooktacular-ghost-train.json) |
 | Roberta Williams' King's Quest I: Quest for the Crown | 213153 | [213153-roberta-williams-kings-quest-i-quest-for-the-crown.json](./213153-roberta-williams-kings-quest-i-quest-for-the-crown.json) |
