@@ -6044,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
 | Go Domino | 232271 | [232271-go-domino.json](./232271-go-domino.json) |
+| Go Down | 106800 | [106800-go-down.json](./106800-go-down.json) |
 | Go Escape! | 220242 | [220242-go-escape.json](./220242-go-escape.json) |
 | Go Far Away | 130077 | [130077-go-far-away.json](./130077-go-far-away.json) |
 | Go Far, M.I.N.G. | 417983 | [417983-go-far-m-i-n-g.json](./417983-go-far-m-i-n-g.json) |
@@ -8950,6 +8951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | GrandNestling | 130232 | [130232-grandnestling.json](./130232-grandnestling.json) |
 | Grandpa | 329782 | [329782-grandpa.json](./329782-grandpa.json) |
+| Grandpa 2: The Horror Games | 106827 | [106827-grandpa-2-the-horror-games.json](./106827-grandpa-2-the-horror-games.json) |
 | Grandpa and Granny 3: Hospital | 228146 | [228146-grandpa-and-granny-3-hospital.json](./228146-grandpa-and-granny-3-hospital.json) |
 | Grandpa And Granny Home Escape | 248177 | [248177-grandpa-and-granny-home-escape.json](./248177-grandpa-and-granny-home-escape.json) |
 | Grandpa and Me vs the Numbers | 414303 | [414303-grandpa-and-me-vs-the-numbers.json](./414303-grandpa-and-me-vs-the-numbers.json) |
