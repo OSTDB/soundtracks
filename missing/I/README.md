@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Soaring | 127705 | [127705-impossible-soaring.json](./127705-impossible-soaring.json) |
 | Impossible Stunts | 254277 | [254277-impossible-stunts.json](./254277-impossible-stunts.json) |
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
+| Impossible Tower Defense | 113071 | [113071-impossible-tower-defense.json](./113071-impossible-tower-defense.json) |
 | Impossible Tracks Car Driving | 28004 | [28004-impossible-tracks-car-driving.json](./28004-impossible-tracks-car-driving.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
 | Impossible VR Ninja | 107696 | [107696-impossible-vr-ninja.json](./107696-impossible-vr-ninja.json) |
