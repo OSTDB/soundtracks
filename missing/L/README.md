@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy | 377594 | [377594-legacy.json](./377594-legacy.json) |
 | Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy 1917 | 211724 | [211724-legacy-1917.json](./211724-legacy-1917.json) |
+| Legacy 2: The Ancient Curse | 88526 | [88526-legacy-2-the-ancient-curse.json](./88526-legacy-2-the-ancient-curse.json) |
 | Legacy 3: The Hidden Relic | 360301 | [360301-legacy-3-the-hidden-relic.json](./360301-legacy-3-the-hidden-relic.json) |
 | Legacy 4: Tomb of Secrets | 252563 | [252563-legacy-4-tomb-of-secrets.json](./252563-legacy-4-tomb-of-secrets.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
@@ -4145,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
 | Let's Golf 2 | 84436 | [84436-lets-golf-2.json](./84436-lets-golf-2.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
+| Let's Golf! 3 | 88679 | [88679-lets-golf-3.json](./88679-lets-golf-3.json) |
 | Let's Grow Together | 422432 | [422432-lets-grow-together.json](./422432-lets-grow-together.json) |
 | Let's Hide the Body! (Tee-hee~) | 288023 | [288023-lets-hide-the-body-tee-hee.json](./288023-lets-hide-the-body-tee-hee.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
@@ -4445,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Ride Corral Club | 24709 | [24709-lets-ride-corral-club.json](./24709-lets-ride-corral-club.json) |
 | Lets Ride!: Friends Forever | 142571 | [142571-lets-ride-friends-forever.json](./142571-lets-ride-friends-forever.json) |
 | Letsss Play | 373153 | [373153-letsss-play.json](./373153-letsss-play.json) |
+| Letter 2 | 88521 | [88521-letter-2.json](./88521-letter-2.json) |
 | Letter Bank: A Free Strategic Spelling Game | 232200 | [232200-letter-bank-a-free-strategic-spelling-game.json](./232200-letter-bank-a-free-strategic-spelling-game.json) |
 | Letter Bender | 195107 | [195107-letter-bender.json](./195107-letter-bender.json) |
 | Letter Boost | 241579 | [241579-letter-boost.json](./241579-letter-boost.json) |
