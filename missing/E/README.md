@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberwing: Lost Legacy - Collector's Edition | 416612 | [416612-emberwing-lost-legacy-collectors-edition.json](./416612-emberwing-lost-legacy-collectors-edition.json) |
 | Emberwood | 251723 | [251723-emberwood.json](./251723-emberwood.json) |
 | Emberzone | 169340 | [169340-emberzone.json](./169340-emberzone.json) |
+| Emblem | 80706 | [80706-emblem.json](./80706-emblem.json) |
 | Emblem of Gundam | 66595 | [66595-emblem-of-gundam.json](./66595-emblem-of-gundam.json) |
 | Emblem of Valor | 236602 | [236602-emblem-of-valor.json](./236602-emblem-of-valor.json) |
 | Emblem Tale: Heros | 200270 | [200270-emblem-tale-heros.json](./200270-emblem-tale-heros.json) |
