@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When It Rains | 397045 | [397045-when-it-rains.json](./397045-when-it-rains.json) |
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
+| When It's Safe Again | 151873 | [151873-when-its-safe-again.json](./151873-when-its-safe-again.json) |
 | When Life Gives You Lemons | 265489 | [265489-when-life-gives-you-lemons.json](./265489-when-life-gives-you-lemons.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
 | When Our Journey Ends | 25596 | [25596-when-our-journey-ends.json](./25596-when-our-journey-ends.json) |
