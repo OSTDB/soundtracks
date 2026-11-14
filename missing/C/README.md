@@ -7700,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess: The Gathering | 50446 | [50446-chess-the-gathering.json](./50446-chess-the-gathering.json) |
 | Chess: The Lost Pieces | 216702 | [216702-chess-the-lost-pieces.json](./216702-chess-the-lost-pieces.json) |
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
+| Chess? OK! - 3000 unique chess problems | 104320 | [104320-chess-ok-3000-unique-chess-problems.json](./104320-chess-ok-3000-unique-chess-problems.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
 | Chess'Extra | 140733 | [140733-chessextra.json](./140733-chessextra.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
@@ -21329,6 +21330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Space | 336957 | [336957-cube-space.json](./336957-cube-space.json) |
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
 | Cube Sumbledore | 244587 | [244587-cube-sumbledore.json](./244587-cube-sumbledore.json) |
+| Cube Survival: LDoE | 104309 | [104309-cube-survival-ldoe.json](./104309-cube-survival-ldoe.json) |
 | Cube Survivor | 274328 | [274328-cube-survivor.json](./274328-cube-survivor.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube Universe | 98759 | [98759-cube-universe.json](./98759-cube-universe.json) |
