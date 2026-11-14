@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age Adventures | 39202 | [39202-ice-age-adventures.json](./39202-ice-age-adventures.json) |
 | Ice Age Avalanche | 59543 | [59543-ice-age-avalanche.json](./59543-ice-age-avalanche.json) |
 | Ice Age Dawn Of The Dinosaurs | 247350 | [247350-ice-age-dawn-of-the-dinosaurs.json](./247350-ice-age-dawn-of-the-dinosaurs.json) |
+| Ice Age Hunter: Evolution | 99846 | [99846-ice-age-hunter-evolution.json](./99846-ice-age-hunter-evolution.json) |
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
 | Ice Age Race | 105986 | [105986-ice-age-race.json](./105986-ice-age-race.json) |
 | Ice Age Village | 64140 | [64140-ice-age-village.json](./64140-ice-age-village.json) |
