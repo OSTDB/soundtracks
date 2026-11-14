@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational Virtual Reality Campus | 341608 | [341608-educational-virtual-reality-campus.json](./341608-educational-virtual-reality-campus.json) |
 | Educative Cash Desk | 101197 | [101197-educative-cash-desk.json](./101197-educative-cash-desk.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
+| EduMath1-Math Games for Kids | 96351 | [96351-edumath1-math-games-for-kids.json](./96351-edumath1-math-games-for-kids.json) |
 | EduNumbers | 167481 | [167481-edunumbers.json](./167481-edunumbers.json) |
 | Edvog Explorer Game | 93667 | [93667-edvog-explorer-game.json](./93667-edvog-explorer-game.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
@@ -7550,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest Ascent | 14058 | [14058-everest-ascent.json](./14058-everest-ascent.json) |
 | Everest Explorer | 248217 | [248217-everest-explorer.json](./248217-everest-explorer.json) |
 | Everest Search and Rescue | 149477 | [149477-everest-search-and-rescue.json](./149477-everest-search-and-rescue.json) |
+| Everest Solitaire - iEverest | 96334 | [96334-everest-solitaire-ieverest.json](./96334-everest-solitaire-ieverest.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
 | Everest: Only the Strong Survive | 209220 | [209220-everest-only-the-strong-survive.json](./209220-everest-only-the-strong-survive.json) |
