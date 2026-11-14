@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailwind | 90648 | [90648-tailwind.json](./90648-tailwind.json) |
 | Tailwinds | 316298 | [316298-tailwinds.json](./316298-tailwinds.json) |
 | Tailypo | 191393 | [191393-tailypo.json](./191393-tailypo.json) |
+| Tailypo: The Game | 121106 | [121106-tailypo-the-game.json](./121106-tailypo-the-game.json) |
 | TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taima Miko Yuugi | 68673 | [68673-taima-miko-yuugi.json](./68673-taima-miko-yuugi.json) |
 | Taima Toushin Hachikuma Tok | 245929 | [245929-taima-toushin-hachikuma-tok.json](./245929-taima-toushin-hachikuma-tok.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
 | Tarzan Goes Ape! | 93160 | [93160-tarzan-goes-ape.json](./93160-tarzan-goes-ape.json) |
 | Tarzan Unleashed | 120245 | [120245-tarzan-unleashed.json](./120245-tarzan-unleashed.json) |
+| Tarzan VR | 121058 | [121058-tarzan-vr.json](./121058-tarzan-vr.json) |
 | Tarzan VR | 305903 | [305903-tarzan-vr.json](./305903-tarzan-vr.json) |
 | Tarzan VR: #3 The Dead of the Night | 219569 | [219569-tarzan-vr-3-the-dead-of-the-night.json](./219569-tarzan-vr-3-the-dead-of-the-night.json) |
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
@@ -4910,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracotta | 143435 | [143435-terracotta.json](./143435-terracotta.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | Terracotta | 419350 | [419350-terracotta.json](./419350-terracotta.json) |
+| Terracotta - Shards of Doom | 121055 | [121055-terracotta-shards-of-doom.json](./121055-terracotta-shards-of-doom.json) |
 | Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
 | TerraCraft | 179813 | [179813-terracraft.json](./179813-terracraft.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
@@ -10260,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate | 27618 | [27618-the-fate.json](./27618-the-fate.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
+| The Fate of the Bully | 121102 | [121102-the-fate-of-the-bully.json](./121102-the-fate-of-the-bully.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fateful Encounter | 299604 | [299604-the-fateful-encounter.json](./299604-the-fateful-encounter.json) |
 | The Fateful Saint’s Love | 254944 | [254944-the-fateful-saint-s-love.json](./254944-the-fateful-saint-s-love.json) |
@@ -11501,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gummiest Bear Challenge | 212073 | [212073-the-gummiest-bear-challenge.json](./212073-the-gummiest-bear-challenge.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
+| The Gun Knight | 121051 | [121051-the-gun-knight.json](./121051-the-gun-knight.json) |
 | The Gunslinger | 240595 | [240595-the-gunslinger.json](./240595-the-gunslinger.json) |
 | The Gunstringer | 7588 | [7588-the-gunstringer.json](./7588-the-gunstringer.json) |
 | The Gunstringer: El Diablo's 'Merican Adventure | 349729 | [349729-the-gunstringer-el-diablos-merican-adventure.json](./349729-the-gunstringer-el-diablos-merican-adventure.json) |
@@ -20832,6 +20837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The WereCleaner | 288623 | [288623-the-werecleaner.json](./288623-the-werecleaner.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
 | The Werewolf | 334341 | [334341-the-werewolf.json](./334341-the-werewolf.json) |
+| The Werewolf Hills | 121110 | [121110-the-werewolf-hills.json](./121110-the-werewolf-hills.json) |
 | The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
 | The Westcoast Drive: Lowrider Simulator | 271875 | [271875-the-westcoast-drive-lowrider-simulator.json](./271875-the-westcoast-drive-lowrider-simulator.json) |
@@ -21358,6 +21364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea: The Awakening | 14685 | [14685-thea-the-awakening.json](./14685-thea-the-awakening.json) |
 | Thea: The Awakening - Return of the Giants | 171334 | [171334-thea-the-awakening-return-of-the-giants.json](./171334-thea-the-awakening-return-of-the-giants.json) |
 | Thearchy | 158929 | [158929-thearchy.json](./158929-thearchy.json) |
+| Theater Commander: The Coming Wars | 121067 | [121067-theater-commander-the-coming-wars.json](./121067-theater-commander-the-coming-wars.json) |
 | Theater of Carnage | 157452 | [157452-theater-of-carnage.json](./157452-theater-of-carnage.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
@@ -22017,6 +22024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think to Die | 31084 | [31084-think-to-die.json](./31084-think-to-die.json) |
 | Think to Die 2 | 31016 | [31016-think-to-die-2.json](./31016-think-to-die-2.json) |
 | Think to Die 3 | 29071 | [29071-think-to-die-3.json](./29071-think-to-die-3.json) |
+| Think_ | 121057 | [121057-think.json](./121057-think.json) |
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
 | Think: Logik Trainer | 70447 | [70447-think-logik-trainer.json](./70447-think-logik-trainer.json) |
 | Think: Train Your Brain | 124092 | [124092-think-train-your-brain.json](./124092-think-train-your-brain.json) |
@@ -33506,6 +33514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Drop: Open Sea DLC | 373990 | [373990-treasure-drop-open-sea-dlc.json](./373990-treasure-drop-open-sea-dlc.json) |
 | Treasure Far Away | 184166 | [184166-treasure-far-away.json](./184166-treasure-far-away.json) |
 | Treasure Flea Market | 382355 | [382355-treasure-flea-market.json](./382355-treasure-flea-market.json) |
+| Treasure Fleet | 121081 | [121081-treasure-fleet.json](./121081-treasure-fleet.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
 | Treasure Galaxy! | 142146 | [142146-treasure-galaxy.json](./142146-treasure-galaxy.json) |
 | Treasure Gaust: Gaust Diver - Crimson Red | 123462 | [123462-treasure-gaust-gaust-diver-crimson-red.json](./123462-treasure-gaust-gaust-diver-crimson-red.json) |
