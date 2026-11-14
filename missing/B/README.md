@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bake it Till' You Make it! | 210544 | [210544-bake-it-till-you-make-it.json](./210544-bake-it-till-you-make-it.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
+| Bake Shop Drop | 136499 | [136499-bake-shop-drop.json](./136499-bake-shop-drop.json) |
 | Bake Star VR | 159535 | [159535-bake-star-vr.json](./159535-bake-star-vr.json) |
 | Bake Until Done | 347744 | [347744-bake-until-done.json](./347744-bake-until-done.json) |
 | Bake.gg | 408466 | [408466-bake-gg.json](./408466-bake-gg.json) |
@@ -20237,6 +20238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly: Inchworm Animation II | 57375 | [57375-butterfly-inchworm-animation-ii.json](./57375-butterfly-inchworm-animation-ii.json) |
 | Butterfly: Rin | 119728 | [119728-butterfly-rin.json](./119728-butterfly-rin.json) |
 | Butterfly's Big Knife Fight | 398640 | [398640-butterflys-big-knife-fight.json](./398640-butterflys-big-knife-fight.json) |
+| Butterfly's Poison: Blood Chains | 136525 | [136525-butterflys-poison-blood-chains.json](./136525-butterflys-poison-blood-chains.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
 | Butto Bird | 306193 | [306193-butto-bird.json](./306193-butto-bird.json) |
