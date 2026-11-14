@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Bullets | 36624 | [36624-dangerous-bullets.json](./36624-dangerous-bullets.json) |
+| Dangerous Chris | 155766 | [155766-dangerous-chris.json](./155766-dangerous-chris.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Community | 217154 | [217154-dangerous-community.json](./217154-dangerous-community.json) |
 | Dangerous Connections | 303452 | [303452-dangerous-connections.json](./303452-dangerous-connections.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Silent Hill - Cybil Bennett | 358413 | [358413-dead-by-daylight-silent-hill-cybil-bennett.json](./358413-dead-by-daylight-silent-hill-cybil-bennett.json) |
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
 | Dead by Daylight: Silent Hill - Lisa Garland | 358411 | [358411-dead-by-daylight-silent-hill-lisa-garland.json](./358411-dead-by-daylight-silent-hill-lisa-garland.json) |
+| Dead by Daylight: Silent Hill Chapter | 156230 | [156230-dead-by-daylight-silent-hill-chapter.json](./156230-dead-by-daylight-silent-hill-chapter.json) |
 | Dead by Daylight: Silent Hill Cosmetic Pack | 248343 | [248343-dead-by-daylight-silent-hill-cosmetic-pack.json](./248343-dead-by-daylight-silent-hill-cosmetic-pack.json) |
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
 | Dead by Daylight: Sinister Grace | 369789 | [369789-dead-by-daylight-sinister-grace.json](./369789-dead-by-daylight-sinister-grace.json) |
@@ -7758,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby: Extreme Racing | 122131 | [122131-derby-extreme-racing.json](./122131-derby-extreme-racing.json) |
 | Dere Evil.Exe | 104080 | [104080-dere-evil-exe.json](./104080-dere-evil-exe.json) |
 | Dere Exe: Classic Edition | 170220 | [170220-dere-exe-classic-edition.json](./170220-dere-exe-classic-edition.json) |
+| Dere Exe: Rebirth of Horror | 155735 | [155735-dere-exe-rebirth-of-horror.json](./155735-dere-exe-rebirth-of-horror.json) |
 | Dere Quartet | 337578 | [337578-dere-quartet.json](./337578-dere-quartet.json) |
 | Dere Vengeance | 261926 | [261926-dere-vengeance.json](./261926-dere-vengeance.json) |
 | Dere-chat | 199499 | [199499-dere-chat.json](./199499-dere-chat.json) |
@@ -10184,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Diamond Baseball V10 | 195371 | [195371-digital-diamond-baseball-v10.json](./195371-digital-diamond-baseball-v10.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
 | Digital Diamond Baseball V8 | 117166 | [117166-digital-diamond-baseball-v8.json](./117166-digital-diamond-baseball-v8.json) |
+| Digital Diamond Baseball V9 | 155762 | [155762-digital-diamond-baseball-v9.json](./155762-digital-diamond-baseball-v9.json) |
 | Digital Domain's Monkey King | 83721 | [83721-digital-domains-monkey-king.json](./83721-digital-domains-monkey-king.json) |
 | Digital Dreams | 308068 | [308068-digital-dreams.json](./308068-digital-dreams.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
@@ -10590,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Mercs | 190847 | [190847-dino-mercs.json](./190847-dino-mercs.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Nest | 147331 | [147331-dino-nest.json](./147331-dino-nest.json) |
+| Dino Nite | 156231 | [156231-dino-nite.json](./156231-dino-nite.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Park | 290253 | [290253-dino-park.json](./290253-dino-park.json) |
