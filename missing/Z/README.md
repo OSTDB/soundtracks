@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Berserk | 55268 | [55268-zombies-berserk.json](./55268-zombies-berserk.json) |
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Chasing My Cat | 56277 | [56277-zombies-chasing-my-cat.json](./56277-zombies-chasing-my-cat.json) |
+| Zombies Color Shot | 99831 | [99831-zombies-color-shot.json](./99831-zombies-color-shot.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies Desert and Guns | 151589 | [151589-zombies-desert-and-guns.json](./151589-zombies-desert-and-guns.json) |
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
