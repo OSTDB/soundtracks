@@ -3827,6 +3827,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 6: Bloodline Rebellion | 393420 | [393420-tekken-6-bloodline-rebellion.json](./393420-tekken-6-bloodline-rebellion.json) |
 | Tekken 7 + SoulCalibur VI Double Pack | 136121 | [136121-tekken-7-soulcalibur-vi-double-pack.json](./136121-tekken-7-soulcalibur-vi-double-pack.json) |
+| Tekken 7: Anna Williams | 119124 | [119124-tekken-7-anna-williams.json](./119124-tekken-7-anna-williams.json) |
+| Tekken 7: Armor King | 119127 | [119127-tekken-7-armor-king.json](./119127-tekken-7-armor-king.json) |
 | Tekken 7: Artist Collaboration Character Panel Set | 306852 | [306852-tekken-7-artist-collaboration-character-panel-set.json](./306852-tekken-7-artist-collaboration-character-panel-set.json) |
 | Tekken 7: Cave of Enlightenment | 163266 | [163266-tekken-7-cave-of-enlightenment.json](./163266-tekken-7-cave-of-enlightenment.json) |
 | Tekken 7: Collector's Edition | 166277 | [166277-tekken-7-collectors-edition.json](./166277-tekken-7-collectors-edition.json) |
@@ -3839,12 +3841,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Fated Retribution Round 2 | 326735 | [326735-tekken-7-fated-retribution-round-2.json](./326735-tekken-7-fated-retribution-round-2.json) |
 | Tekken 7: Frame Data Display | 163264 | [163264-tekken-7-frame-data-display.json](./163264-tekken-7-frame-data-display.json) |
 | Tekken 7: Ganryu | 173155 | [173155-tekken-7-ganryu.json](./173155-tekken-7-ganryu.json) |
+| Tekken 7: Geese Howard | 119122 | [119122-tekken-7-geese-howard.json](./119122-tekken-7-geese-howard.json) |
 | Tekken 7: Island Paradise | 173150 | [173150-tekken-7-island-paradise.json](./173150-tekken-7-island-paradise.json) |
+| Tekken 7: Julia Chang | 119128 | [119128-tekken-7-julia-chang.json](./119128-tekken-7-julia-chang.json) |
 | Tekken 7: Kunimitsu | 173148 | [173148-tekken-7-kunimitsu.json](./173148-tekken-7-kunimitsu.json) |
 | Tekken 7: Legendary Edition | 200681 | [200681-tekken-7-legendary-edition.json](./200681-tekken-7-legendary-edition.json) |
 | Tekken 7: Lei Wulong | 173147 | [173147-tekken-7-lei-wulong.json](./173147-tekken-7-lei-wulong.json) |
 | Tekken 7: Leroy Smith | 163262 | [163262-tekken-7-leroy-smith.json](./163262-tekken-7-leroy-smith.json) |
 | Tekken 7: Lidia Sobieska | 163267 | [163267-tekken-7-lidia-sobieska.json](./163267-tekken-7-lidia-sobieska.json) |
+| Tekken 7: Negan | 119129 | [119129-tekken-7-negan.json](./119129-tekken-7-negan.json) |
+| Tekken 7: Noctis Lucis Caelum | 119123 | [119123-tekken-7-noctis-lucis-caelum.json](./119123-tekken-7-noctis-lucis-caelum.json) |
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
 | Tekken 7: Ultimate Edition | 118704 | [118704-tekken-7-ultimate-edition.json](./118704-tekken-7-ultimate-edition.json) |
@@ -9385,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
+| The Dreamcatcher | 119094 | [119094-the-dreamcatcher.json](./119094-the-dreamcatcher.json) |
 | The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
 | The Dreamer Must Die | 259449 | [259449-the-dreamer-must-die.json](./259449-the-dreamer-must-die.json) |
 | The Dreamer's Demesne | 271431 | [271431-the-dreamers-demesne.json](./271431-the-dreamers-demesne.json) |
@@ -11447,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grindstone | 369169 | [369169-the-grindstone.json](./369169-the-grindstone.json) |
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
+| The Grip Games PS3 Collection | 118465 | [118465-the-grip-games-ps3-collection.json](./118465-the-grip-games-ps3-collection.json) |
 | The Grip of Madness | 189810 | [189810-the-grip-of-madness.json](./189810-the-grip-of-madness.json) |
 | The Grisaia Trilogy | 123655 | [123655-the-grisaia-trilogy.json](./123655-the-grisaia-trilogy.json) |
 | The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
@@ -17674,6 +17682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scroll of Taiwu | 103616 | [103616-the-scroll-of-taiwu.json](./103616-the-scroll-of-taiwu.json) |
 | The Scrolling Enigma | 288685 | [288685-the-scrolling-enigma.json](./288685-the-scrolling-enigma.json) |
 | The Scrolls of Abadon | 70148 | [70148-the-scrolls-of-abadon.json](./70148-the-scrolls-of-abadon.json) |
+| The Scrounge Recruit Program | 117865 | [117865-the-scrounge-recruit-program.json](./117865-the-scrounge-recruit-program.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
@@ -33088,6 +33097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transylvanian Tower | 45312 | [45312-transylvanian-tower.json](./45312-transylvanian-tower.json) |
 | Trantor: The Last Stormtrooper | 39097 | [39097-trantor-the-last-stormtrooper.json](./39097-trantor-the-last-stormtrooper.json) |
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
+| Tranzient | 119095 | [119095-tranzient.json](./119095-tranzient.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure | 153040 | [153040-trap-adventure.json](./153040-trap-adventure.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
@@ -36842,6 +36852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Tiles | 100637 | [100637-twisty-tiles.json](./100637-twisty-tiles.json) |
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
 | Twisty Tube | 104387 | [104387-twisty-tube.json](./104387-twisty-tube.json) |
+| Twisty Tumble | 119099 | [119099-twisty-tumble.json](./119099-twisty-tumble.json) |
 | Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Dates Pokemon | 246577 | [246577-twitch-dates-pokemon.json](./246577-twitch-dates-pokemon.json) |
