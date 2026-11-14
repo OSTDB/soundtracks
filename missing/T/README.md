@@ -34915,7 +34915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron: Evolution | 208754 | [208754-tron-evolution.json](./208754-tron-evolution.json) |
 | Tron: Evolution | 381659 | [381659-tron-evolution.json](./381659-tron-evolution.json) |
 | Tron: Evolution | 7220 | [7220-tron-evolution.json](./7220-tron-evolution.json) |
-| Tron: Identity | 216277 | [216277-tron-identity.json](./216277-tron-identity.json) |
 | Tron: Journey to the MCP | 58564 | [58564-tron-journey-to-the-mcp.json](./58564-tron-journey-to-the-mcp.json) |
 | Tron: Solar Sailer | 5698 | [5698-tron-solar-sailer.json](./5698-tron-solar-sailer.json) |
 | Tronic | 73163 | [73163-tronic.json](./73163-tronic.json) |
