@@ -7715,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Child Can Succeed 6 | 97755 | [97755-every-child-can-succeed-6.json](./97755-every-child-can-succeed-6.json) |
 | Every Child Can Succeed 7 | 97756 | [97756-every-child-can-succeed-7.json](./97756-every-child-can-succeed-7.json) |
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
+| Every Creeping Thing | 138850 | [138850-every-creeping-thing.json](./138850-every-creeping-thing.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
 | Every Day the Same Dream | 23166 | [23166-every-day-the-same-dream.json](./23166-every-day-the-same-dream.json) |
