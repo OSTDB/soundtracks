@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairly Nude | 75576 | [75576-fairly-nude.json](./75576-fairly-nude.json) |
 | Fairmoon Museum | 210964 | [210964-fairmoon-museum.json](./210964-fairmoon-museum.json) |
 | Fairspace | 17803 | [17803-fairspace.json](./17803-fairspace.json) |
+| Fairtravel Battle | 128023 | [128023-fairtravel-battle.json](./128023-fairtravel-battle.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
@@ -4006,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feathers & All | 406446 | [406446-feathers-and-all.json](./406446-feathers-and-all.json) |
 | Featherweight | 169514 | [169514-featherweight.json](./169514-featherweight.json) |
 | Feathery Ears | 122140 | [122140-feathery-ears.json](./122140-feathery-ears.json) |
+| FEB: Brazilian Elite Force | 128070 | [128070-feb-brazilian-elite-force.json](./128070-feb-brazilian-elite-force.json) |
 | Febilis | 255578 | [255578-febilis.json](./255578-febilis.json) |
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
 | February of Cards | 258370 | [258370-february-of-cards.json](./258370-february-of-cards.json) |
@@ -8767,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip-Flop Fury | 402521 | [402521-flip-flop-fury.json](./402521-flip-flop-fury.json) |
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
 | Flip-it & Magnose | 79067 | [79067-flip-it-and-magnose.json](./79067-flip-it-and-magnose.json) |
+| Flip-Out! | 128031 | [128031-flip-out.json](./128031-flip-out.json) |
 | Flip: Surfing Colors | 95098 | [95098-flip-surfing-colors.json](./95098-flip-surfing-colors.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
@@ -13592,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
 | Frog World | 313518 | [313518-frog-world.json](./313518-frog-world.json) |
 | Frog X Bird | 55642 | [55642-frog-x-bird.json](./55642-frog-x-bird.json) |
+| Frog X Log | 128083 | [128083-frog-x-log.json](./128083-frog-x-log.json) |
 | Frog Yyes | 407633 | [407633-frog-yyes.json](./407633-frog-yyes.json) |
 | Frog! | 246187 | [246187-frog.json](./246187-frog.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
