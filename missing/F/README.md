@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud | 68397 | [68397-family-feud.json](./68397-family-feud.json) |
 | Family Feud | 92028 | [92028-family-feud.json](./92028-family-feud.json) |
+| Family Feud | 92206 | [92206-family-feud.json](./92206-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud & Friends 2 | 83380 | [83380-family-feud-and-friends-2.json](./83380-family-feud-and-friends-2.json) |
 | Family Feud 3: Dream Home | 370725 | [370725-family-feud-3-dream-home.json](./370725-family-feud-3-dream-home.json) |
@@ -2423,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fapout 69 | 384910 | [384910-fapout-69.json](./384910-fapout-69.json) |
 | Fappy Bird | 261028 | [261028-fappy-bird.json](./261028-fappy-bird.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
+| FAQ Dodgers | 92208 | [92208-faq-dodgers.json](./92208-faq-dodgers.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Ahead | 288407 | [288407-far-ahead.json](./288407-far-ahead.json) |
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
@@ -12954,6 +12956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell+ | 87461 | [87461-freecell.json](./87461-freecell.json) |
 | FreeChicken | 274800 | [274800-freechicken.json](./274800-freechicken.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
+| FreeCol | 92716 | [92716-freecol.json](./92716-freecol.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
 | Freed Soft | 149847 | [149847-freed-soft.json](./149847-freed-soft.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
