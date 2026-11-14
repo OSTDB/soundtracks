@@ -7720,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning! | 177660 | [177660-good-morning.json](./177660-good-morning.json) |
 | Good Morningstar | 185488 | [185488-good-morningstar.json](./185488-good-morningstar.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
+| Good N Dead | 134133 | [134133-good-n-dead.json](./134133-good-n-dead.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
 | Good Night Mr. Snoozleberg | 321456 | [321456-good-night-mr-snoozleberg.json](./321456-good-night-mr-snoozleberg.json) |
 | Good Night Pan Pan | 316472 | [316472-good-night-pan-pan.json](./316472-good-night-pan-pan.json) |
