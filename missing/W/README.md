@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Plan Orange: Dreadnoughts in the Pacific 1922 - 1930 | 215078 | [215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json](./215078-war-plan-orange-dreadnoughts-in-the-pacific-1922-1930.json) |
 | War Plan Pacific | 59497 | [59497-war-plan-pacific.json](./59497-war-plan-pacific.json) |
 | War Planet Online | 75605 | [75605-war-planet-online.json](./75605-war-planet-online.json) |
+| War Planet Online: Global Conquest | 82243 | [82243-war-planet-online-global-conquest.json](./82243-war-planet-online-global-conquest.json) |
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Platform: US Aircraft Carrier | 170857 | [170857-war-platform-us-aircraft-carrier.json](./170857-war-platform-us-aircraft-carrier.json) |
 | War Platform: VR Air Force Golden - Enhanced Edition | 170858 | [170858-war-platform-vr-air-force-golden-enhanced-edition.json](./170858-war-platform-vr-air-force-golden-enhanced-edition.json) |
@@ -9354,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Rally Fever: Born on the Road | 8494 | [8494-world-rally-fever-born-on-the-road.json](./8494-world-rally-fever-born-on-the-road.json) |
 | World Reborn | 334447 | [334447-world-reborn.json](./334447-world-reborn.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
+| World Reformation Club Feels So Good: Busty JKs Mami & Yuu Will Save the Town! | 82214 | [82214-world-reformation-club-feels-so-good-busty-jks-mami-and-yuu-will-save-the-town.json](./82214-world-reformation-club-feels-so-good-busty-jks-mami-and-yuu-will-save-the-town.json) |
 | World Rescue | 109944 | [109944-world-rescue.json](./109944-world-rescue.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
 | World Riddles: Seven Wonders | 98155 | [98155-world-riddles-seven-wonders.json](./98155-world-riddles-seven-wonders.json) |
