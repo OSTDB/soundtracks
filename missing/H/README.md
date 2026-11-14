@@ -10646,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkstory 2: There was No 1 | 168702 | [168702-honkstory-2-there-was-no-1.json](./168702-honkstory-2-there-was-no-1.json) |
 | Honoo no Ryourijin: Cooking Fighter Hao | 70338 | [70338-honoo-no-ryourijin-cooking-fighter-hao.json](./70338-honoo-no-ryourijin-cooking-fighter-hao.json) |
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
+| Honoo no Takuhaibin | 140100 | [140100-honoo-no-takuhaibin.json](./140100-honoo-no-takuhaibin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 272812 | [272812-honoo-no-toukyuuji-dodge-danpei.json](./272812-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 38106 | [38106-honoo-no-toukyuuji-dodge-danpei.json](./38106-honoo-no-toukyuuji-dodge-danpei.json) |
@@ -11223,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
+| Horror Globes | 140063 | [140063-horror-globes.json](./140063-horror-globes.json) |
 | Horror Golf | 423871 | [423871-horror-golf.json](./423871-horror-golf.json) |
 | Horror haze | 196936 | [196936-horror-haze.json](./196936-horror-haze.json) |
 | Horror High | 321289 | [321289-horror-high.json](./321289-horror-high.json) |
@@ -11290,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tale: Remaster | 386209 | [386209-horror-tale-remaster.json](./386209-horror-tale-remaster.json) |
 | Horror Tales Eats The World | 358460 | [358460-horror-tales-eats-the-world.json](./358460-horror-tales-eats-the-world.json) |
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
+| Horror Tales: The Wine | 139514 | [139514-horror-tales-the-wine.json](./139514-horror-tales-the-wine.json) |
 | Horror Tomb | 295869 | [295869-horror-tomb.json](./295869-horror-tomb.json) |
 | Horror Tooth | 177280 | [177280-horror-tooth.json](./177280-horror-tooth.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
