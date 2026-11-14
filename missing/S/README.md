@@ -16500,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Colors: Slithering Game | 285336 | [285336-snake-colors-slithering-game.json](./285336-snake-colors-slithering-game.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Couple | 334805 | [334805-snake-couple.json](./334805-snake-couple.json) |
+| Snake Crash | 95712 | [95712-snake-crash.json](./95712-snake-crash.json) |
 | Snake Crash 2: Snake Rush | 100796 | [100796-snake-crash-2-snake-rush.json](./100796-snake-crash-2-snake-rush.json) |
 | Snake Crayon Run | 251644 | [251644-snake-crayon-run.json](./251644-snake-crayon-run.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
@@ -20690,6 +20691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Reflex | 377522 | [377522-soul-reflex.json](./377522-soul-reflex.json) |
 | Soul Return | 297346 | [297346-soul-return.json](./297346-soul-return.json) |
+| Soul Reverse | 96373 | [96373-soul-reverse.json](./96373-soul-reverse.json) |
 | Soul Reverse Zero | 137202 | [137202-soul-reverse-zero.json](./137202-soul-reverse-zero.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Riders | 211672 | [211672-soul-riders.json](./211672-soul-riders.json) |
@@ -27806,6 +27808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Aces | 170610 | [170610-starfighter-aces.json](./170610-starfighter-aces.json) |
 | Starfighter Arduxim | 31050 | [31050-starfighter-arduxim.json](./31050-starfighter-arduxim.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
+| Starfighter General | 96350 | [96350-starfighter-general.json](./96350-starfighter-general.json) |
 | Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
 | Starfighter Neon | 76442 | [76442-starfighter-neon.json](./76442-starfighter-neon.json) |
 | Starfighter Origins | 28262 | [28262-starfighter-origins.json](./28262-starfighter-origins.json) |
