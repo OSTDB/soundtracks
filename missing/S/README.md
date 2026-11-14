@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen Online: Paris no Yuuga na Hibi | 221783 | [221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json](./221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json) |
 | Sakura Taisen Online: Teito no Nagai Hibi | 63132 | [63132-sakura-taisen-online-teito-no-nagai-hibi.json](./63132-sakura-taisen-online-teito-no-nagai-hibi.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
+| Sakura Taisen Taishou Roman Gakuentan | 97567 | [97567-sakura-taisen-taishou-roman-gakuentan.json](./97567-sakura-taisen-taishou-roman-gakuentan.json) |
 | Sakura Taisen V Episode 0: Kouya no Samurai Musume | 74109 | [74109-sakura-taisen-v-episode-0-kouya-no-samurai-musume.json](./74109-sakura-taisen-v-episode-0-kouya-no-samurai-musume.json) |
 | Sakura Taisen: Atsuki Chishio ni | 43412 | [43412-sakura-taisen-atsuki-chishio-ni.json](./43412-sakura-taisen-atsuki-chishio-ni.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Quest | 393757 | [393757-school-quest.json](./393757-school-quest.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Rendezvous | 97784 | [97784-school-rendezvous.json](./97784-school-rendezvous.json) |
+| School Rendezvous Second Semester | 97541 | [97541-school-rendezvous-second-semester.json](./97541-school-rendezvous-second-semester.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
 | School Rumble Ni-Gakki Kyoufu no Natsugasshuku Youkan ni Yuurei Arawaru Otakara wo Megutte Makkou Shoubu no Maki | 94864 | [94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json](./94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json) |
 | School Rumble: Nee-san Jiken Desu! | 67683 | [67683-school-rumble-nee-san-jiken-desu.json](./67683-school-rumble-nee-san-jiken-desu.json) |
@@ -5753,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seirei Shoukan: Princess of Darkness | 138925 | [138925-seirei-shoukan-princess-of-darkness.json](./138925-seirei-shoukan-princess-of-darkness.json) |
 | Seireiki Rayblade | 166591 | [166591-seireiki-rayblade.json](./166591-seireiki-rayblade.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
+| Seiryou School Assault Club | 97538 | [97538-seiryou-school-assault-club.json](./97538-seiryou-school-assault-club.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seisenshi Denshou: Jantaku no Kishi | 403318 | [403318-seisenshi-denshou-jantaku-no-kishi.json](./403318-seisenshi-denshou-jantaku-no-kishi.json) |
@@ -6376,6 +6379,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seranu | 216534 | [216534-seranu.json](./216534-seranu.json) |
 | Seraph | 18717 | [18717-seraph.json](./18717-seraph.json) |
+| Seraph Legend vol.1 | 97553 | [97553-seraph-legend-vol-1.json](./97553-seraph-legend-vol-1.json) |
+| Seraph Legend vol.2 | 97550 | [97550-seraph-legend-vol-2.json](./97550-seraph-legend-vol-2.json) |
+| Seraph Legend vol.3 | 97548 | [97548-seraph-legend-vol-3.json](./97548-seraph-legend-vol-3.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraph: In the Darkness | 277875 | [277875-seraph-in-the-darkness.json](./277875-seraph-in-the-darkness.json) |
 | Seraph's Last Stand | 191984 | [191984-seraphs-last-stand.json](./191984-seraphs-last-stand.json) |
@@ -9481,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Wisdom | 46059 | [46059-shining-wisdom.json](./46059-shining-wisdom.json) |
 | Shinisagi | 120444 | [120444-shinisagi.json](./120444-shinisagi.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
+| Shinjin Nurse | 97558 | [97558-shinjin-nurse.json](./97558-shinjin-nurse.json) |
 | Shinjisougeki Carnival | 368986 | [368986-shinjisougeki-carnival.json](./368986-shinjisougeki-carnival.json) |
 | Shinju | 389337 | [389337-shinju.json](./389337-shinju.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
@@ -10491,6 +10498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagisa Another Day | 409797 | [409797-shoujo-minority-nagisa-another-day.json](./409797-shoujo-minority-nagisa-another-day.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
+| Shoujo no Michikusa: The Dirk Side of Comike | 97559 | [97559-shoujo-no-michikusa-the-dirk-side-of-comike.json](./97559-shoujo-no-michikusa-the-dirk-side-of-comike.json) |
 | Shoujo Shuryou no Suiri Ryouiki: Kogane Shima no Mitsuyaku | 153137 | [153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json](./153137-shoujo-shuryou-no-suiri-ryouiki-kogane-shima-no-mitsuyaku.json) |
 | Shoujo Taimashi Misato | 97739 | [97739-shoujo-taimashi-misato.json](./97739-shoujo-taimashi-misato.json) |
 | Shoujo Wars | 196346 | [196346-shoujo-wars.json](./196346-shoujo-wars.json) |
@@ -12976,6 +12984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
 | Sissyfight 2000 | 230597 | [230597-sissyfight-2000.json](./230597-sissyfight-2000.json) |
 | Sister | 241694 | [241694-sister.json](./241694-sister.json) |
+| Sister & Brother: Maid Cafe | 97536 | [97536-sister-and-brother-maid-cafe.json](./97536-sister-and-brother-maid-cafe.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
 | Sister Harassment | 97595 | [97595-sister-harassment.json](./97595-sister-harassment.json) |
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
@@ -12997,6 +13006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Splash | 205999 | [205999-sister-splash.json](./205999-sister-splash.json) |
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
+| Sister TyranT: Jisshi Kuppuku Choukyou | 97583 | [97583-sister-tyrant-jisshi-kuppuku-choukyou.json](./97583-sister-tyrant-jisshi-kuppuku-choukyou.json) |
 | Sister's Curriculum | 293815 | [293815-sisters-curriculum.json](./293815-sisters-curriculum.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sister's Little Helper | 326660 | [326660-sisters-little-helper.json](./326660-sisters-little-helper.json) |
@@ -24275,6 +24285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
 | Spin Fun | 404005 | [404005-spin-fun.json](./404005-spin-fun.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
+| Spin It Rich! | 97579 | [97579-spin-it-rich.json](./97579-spin-it-rich.json) |
 | Spin It! | 401964 | [401964-spin-it.json](./401964-spin-it.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
 | Spin Kick Ninjas | 226027 | [226027-spin-kick-ninjas.json](./226027-spin-kick-ninjas.json) |
@@ -27052,6 +27063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
 | Star Sweet | 76476 | [76476-star-sweet.json](./76476-star-sweet.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
+| Star Sword Chronicle | 97584 | [97584-star-sword-chronicle.json](./97584-star-sword-chronicle.json) |
 | Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
 | Star Tactics | 32001 | [32001-star-tactics.json](./32001-star-tactics.json) |
 | Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
