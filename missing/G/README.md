@@ -6563,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Hates Us | 135726 | [135726-god-hates-us.json](./135726-god-hates-us.json) |
 | God Help Us All | 375079 | [375079-god-help-us-all.json](./375079-god-help-us-all.json) |
 | God in a Closet | 360890 | [360890-god-in-a-closet.json](./360890-god-in-a-closet.json) |
+| God is a Cube: Programming Robot Cubes | 110445 | [110445-god-is-a-cube-programming-robot-cubes.json](./110445-god-is-a-cube-programming-robot-cubes.json) |
 | God is a Cube: Programming Robot Cubes | 58110 | [58110-god-is-a-cube-programming-robot-cubes.json](./58110-god-is-a-cube-programming-robot-cubes.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
