@@ -5549,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
 | Pets Resort 3D | 85340 | [85340-pets-resort-3d.json](./85340-pets-resort-3d.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
+| Pets VR | 149652 | [149652-pets-vr.json](./149652-pets-vr.json) |
 | Pets Vs. Monsters | 66830 | [66830-pets-vs-monsters.json](./66830-pets-vs-monsters.json) |
 | PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
 | PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
@@ -5756,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasms: Maledictus | 335206 | [335206-phantasms-maledictus.json](./335206-phantasms-maledictus.json) |
 | Phantasos | 297919 | [297919-phantasos.json](./297919-phantasos.json) |
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
+| Phantast | 149654 | [149654-phantast.json](./149654-phantast.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
 | Phantasy Star Adventure | 45253 | [45253-phantasy-star-adventure.json](./45253-phantasy-star-adventure.json) |
@@ -13336,6 +13338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Puzzle: Predators | 213493 | [213493-poly-puzzle-predators.json](./213493-poly-puzzle-predators.json) |
 | Poly Puzzle: Primates | 208820 | [208820-poly-puzzle-primates.json](./208820-poly-puzzle-primates.json) |
 | Poly Quest | 121916 | [121916-poly-quest.json](./121916-poly-quest.json) |
+| Poly Race | 149616 | [149616-poly-race.json](./149616-poly-race.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
@@ -13362,6 +13365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyaris | 307263 | [307263-polyaris.json](./307263-polyaris.json) |
 | Polyarmory: High Calibre Love | 369799 | [369799-polyarmory-high-calibre-love.json](./369799-polyarmory-high-calibre-love.json) |
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
+| Polybeyond | 149648 | [149648-polybeyond.json](./149648-polybeyond.json) |
 | Polybius | 178251 | [178251-polybius.json](./178251-polybius.json) |
 | Polybius | 239548 | [239548-polybius.json](./239548-polybius.json) |
 | Polybius | 246742 | [246742-polybius.json](./246742-polybius.json) |
