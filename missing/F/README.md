@@ -12093,6 +12093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Winds Fantasy | 123281 | [123281-four-winds-fantasy.json](./123281-four-winds-fantasy.json) |
 | Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
 | Four Winds Mahjong for iPad | 96599 | [96599-four-winds-mahjong-for-ipad.json](./96599-four-winds-mahjong-for-ipad.json) |
+| Four-color Fantasy | 114480 | [114480-four-color-fantasy.json](./114480-four-color-fantasy.json) |
 | Four-Knight | 242594 | [242594-four-knight.json](./242594-four-knight.json) |
 | Four-Play | 91492 | [91492-four-play.json](./91492-four-play.json) |
 | Four-Sight | 148359 | [148359-four-sight.json](./148359-four-sight.json) |
