@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
 | Westward Kingdoms | 7532 | [7532-westward-kingdoms.json](./7532-westward-kingdoms.json) |
 | Westwich Castle | 273537 | [273537-westwich-castle.json](./273537-westwich-castle.json) |
+| Westwood Shadows | 121094 | [121094-westwood-shadows.json](./121094-westwood-shadows.json) |
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
@@ -6779,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Wrath | 369460 | [369460-winters-wrath.json](./369460-winters-wrath.json) |
 | Winterbells | 95367 | [95367-winterbells.json](./95367-winterbells.json) |
 | WinterBunny444 | 328385 | [328385-winterbunny444.json](./328385-winterbunny444.json) |
+| Wintercearig | 121091 | [121091-wintercearig.json](./121091-wintercearig.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Wintercoffin | 323592 | [323592-wintercoffin.json](./323592-wintercoffin.json) |
 | WinterCraft: Forest Survival | 242758 | [242758-wintercraft-forest-survival.json](./242758-wintercraft-forest-survival.json) |
