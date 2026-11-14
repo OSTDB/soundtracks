@@ -11210,6 +11210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
 | Sidyq | 390472 | [390472-sidyq.json](./390472-sidyq.json) |
 | Siebenpolis | 308458 | [308458-siebenpolis.json](./308458-siebenpolis.json) |
+| Siebenstreich | 121822 | [121822-siebenstreich.json](./121822-siebenstreich.json) |
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 394227 | [394227-siege.json](./394227-siege.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
@@ -14878,6 +14879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice Adventure | 328201 | [328201-slice-adventure.json](./328201-slice-adventure.json) |
 | Slice and Bite | 247819 | [247819-slice-and-bite.json](./247819-slice-and-bite.json) |
+| Slice Back | 121797 | [121797-slice-back.json](./121797-slice-back.json) |
 | Slice Go | 107572 | [107572-slice-go.json](./107572-slice-go.json) |
 | Slice HD | 104491 | [104491-slice-hd.json](./104491-slice-hd.json) |
 | Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
@@ -25450,6 +25452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sproing! | 263372 | [263372-sproing.json](./263372-sproing.json) |
 | Sproink | 208773 | [208773-sproink.json](./208773-sproink.json) |
+| Sproots | 121818 | [121818-sproots.json](./121818-sproots.json) |
 | Sprout | 198150 | [198150-sprout.json](./198150-sprout.json) |
 | Sprout | 76798 | [76798-sprout.json](./76798-sprout.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
