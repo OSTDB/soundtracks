@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207055 | [207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207055-racing-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Racing: Breakthrough Gaming Arcade - Challenge Mode Edition | 207052 | [207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json](./207052-racing-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Racing: Storm Chase | 369232 | [369232-racing-storm-chase.json](./369232-racing-storm-chase.json) |
+| Racingmaybe | 132303 | [132303-racingmaybe.json](./132303-racingmaybe.json) |
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em | 94961 | [94961-rack-em.json](./94961-rack-em.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
@@ -9039,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Stars Basketball | 249385 | [249385-rival-stars-basketball.json](./249385-rival-stars-basketball.json) |
 | Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
+| Rival Stars Horse Racing: Desktop Edition | 132288 | [132288-rival-stars-horse-racing-desktop-edition.json](./132288-rival-stars-horse-racing-desktop-edition.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
 | Rival Threads: Last Class Heroes | 54587 | [54587-rival-threads-last-class-heroes.json](./54587-rival-threads-last-class-heroes.json) |
 | Rival Turf! | 42467 | [42467-rival-turf.json](./42467-rival-turf.json) |
