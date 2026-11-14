@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | LanthernStudio Paint | 131333 | [131333-lanthernstudio-paint.json](./131333-lanthernstudio-paint.json) |
 | LanVodis | 202895 | [202895-lanvodis.json](./202895-lanvodis.json) |
+| Lǎobǎn Gōnglüè | 121049 | [121049-laoban-gonglue.json](./121049-laoban-gonglue.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
 | Lapidary: Jewel Craft Simulator | 291323 | [291323-lapidary-jewel-craft-simulator.json](./291323-lapidary-jewel-craft-simulator.json) |
 | Lapin | 161220 | [161220-lapin.json](./161220-lapin.json) |
