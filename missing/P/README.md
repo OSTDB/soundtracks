@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paradoxical | 370005 | [370005-paradoxical.json](./370005-paradoxical.json) |
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
+| Paradoxion | 78785 | [78785-paradoxion.json](./78785-paradoxion.json) |
 | Paradream | 237455 | [237455-paradream.json](./237455-paradream.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
@@ -6513,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot e Youkoso!! 3.3 | 62745 | [62745-pia-carrot-e-youkoso-3-3.json](./62745-pia-carrot-e-youkoso-3-3.json) |
 | Pia Carrot e Youkoso!! 4 | 92254 | [92254-pia-carrot-e-youkoso-4.json](./92254-pia-carrot-e-youkoso-4.json) |
 | Pia Carrot e Youkoso!! G.O. | 72645 | [72645-pia-carrot-e-youkoso-g-o.json](./72645-pia-carrot-e-youkoso-g-o.json) |
+| Pia Carrot e Youkoso!! G.P. | 78795 | [78795-pia-carrot-e-youkoso-g-p.json](./78795-pia-carrot-e-youkoso-g-p.json) |
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 194720 | [194720-pia-carrot-he-youkoso-2.json](./194720-pia-carrot-he-youkoso-2.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
@@ -18716,6 +18718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psy-O-Blade | 28023 | [28023-psy-o-blade.json](./28023-psy-o-blade.json) |
 | Psy-O-Blade | 327404 | [327404-psy-o-blade.json](./327404-psy-o-blade.json) |
 | Psy-Phi | 66393 | [66393-psy-phi.json](./66393-psy-phi.json) |
+| Psybadek | 78791 | [78791-psybadek.json](./78791-psybadek.json) |
 | Psyborg | 93450 | [93450-psyborg.json](./93450-psyborg.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
 | Psycard | 57554 | [57554-psycard.json](./57554-psycard.json) |
