@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopath Traveler II + Various Daylife Bundle | 267153 | [267153-octopath-traveler-ii-various-daylife-bundle.json](./267153-octopath-traveler-ii-various-daylife-bundle.json) |
 | Octopath Traveler II: Steelbook Edition | 243868 | [243868-octopath-traveler-ii-steelbook-edition.json](./243868-octopath-traveler-ii-steelbook-edition.json) |
 | Octopath Traveler: Champions of the Continent | 115861 | [115861-octopath-traveler-champions-of-the-continent.json](./115861-octopath-traveler-champions-of-the-continent.json) |
+| Octopath Traveler: Traveler's Compendium Edition | 151865 | [151865-octopath-traveler-travelers-compendium-edition.json](./151865-octopath-traveler-travelers-compendium-edition.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopi: Snow Globe | 240112 | [240112-octopi-snow-globe.json](./240112-octopi-snow-globe.json) |
@@ -3264,7 +3265,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
 | Online Soccer Manager | 77576 | [77576-online-soccer-manager.json](./77576-online-soccer-manager.json) |
+| Online Sparkler | 151770 | [151770-online-sparkler.json](./151770-online-sparkler.json) |
 | Online World Drifting Championships | 373672 | [373672-online-world-drifting-championships.json](./373672-online-world-drifting-championships.json) |
+| Online Yuki Gassen DX | 151778 | [151778-online-yuki-gassen-dx.json](./151778-online-yuki-gassen-dx.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
 | Onlooker | 186460 | [186460-onlooker.json](./186460-onlooker.json) |
@@ -5214,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our 30-Minute Sessions | 257122 | [257122-our-30-minute-sessions.json](./257122-our-30-minute-sessions.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our Adventurer Guild | 212060 | [212060-our-adventurer-guild.json](./212060-our-adventurer-guild.json) |
+| Our After School Playzone | 151783 | [151783-our-after-school-playzone.json](./151783-our-after-school-playzone.json) |
 | Our America | 149337 | [149337-our-america.json](./149337-our-america.json) |
 | Our Apartment | 168617 | [168617-our-apartment.json](./168617-our-apartment.json) |
 | Our Ascent | 341520 | [341520-our-ascent.json](./341520-our-ascent.json) |
