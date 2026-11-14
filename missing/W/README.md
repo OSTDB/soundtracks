@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
 | WAR! Showdown | 108186 | [108186-war-showdown.json](./108186-war-showdown.json) |
+| War.app | 110436 | [110436-war-app.json](./110436-war-app.json) |
 | War.io : Survival Battle Royale | 105655 | [105655-war-io-survival-battle-royale.json](./105655-war-io-survival-battle-royale.json) |
 | War.io : Zombie Battle Royale | 106341 | [106341-war-io-zombie-battle-royale.json](./106341-war-io-zombie-battle-royale.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
@@ -5119,8 +5120,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
 | White Day 2: The Flower That Tells Lies - Ep.3 | 257484 | [257484-white-day-2-the-flower-that-tells-lies-ep-3.json](./257484-white-day-2-the-flower-that-tells-lies-ep-3.json) |
 | White Day VR: The Courage Test | 150390 | [150390-white-day-vr-the-courage-test.json](./150390-white-day-vr-the-courage-test.json) |
+| White Day: A Labyrinth Named School | 110590 | [110590-white-day-a-labyrinth-named-school.json](./110590-white-day-a-labyrinth-named-school.json) |
 | White Desert | 256973 | [256973-white-desert.json](./256973-white-desert.json) |
 | White Diamond | 82509 | [82509-white-diamond.json](./82509-white-diamond.json) |
+| White Dove | 110430 | [110430-white-dove.json](./110430-white-dove.json) |
 | White Dwarf | 414689 | [414689-white-dwarf.json](./414689-white-dwarf.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
