@@ -10964,6 +10964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze From Outer Space | 308127 | [308127-blaze-from-outer-space.json](./308127-blaze-from-outer-space.json) |
 | Blaze in Space: Beat a-Maze | 214278 | [214278-blaze-in-space-beat-a-maze.json](./214278-blaze-in-space-beat-a-maze.json) |
+| Blaze of Battle | 93873 | [93873-blaze-of-battle.json](./93873-blaze-of-battle.json) |
 | Blaze of Empires | 392080 | [392080-blaze-of-empires.json](./392080-blaze-of-empires.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
@@ -11329,6 +11330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bliss Maze | 110658 | [110658-bliss-maze.json](./110658-bliss-maze.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
 | Blissful Acres | 300610 | [300610-blissful-acres.json](./300610-blissful-acres.json) |
+| Blissfull | 93910 | [93910-blissfull.json](./93910-blissfull.json) |
 | Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
