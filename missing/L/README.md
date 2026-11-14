@@ -4455,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
 | Letter League | 254445 | [254445-letter-league.json](./254445-letter-league.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
+| Letter Master | 108552 | [108552-letter-master.json](./108552-letter-master.json) |
 | Letter Match / Spell N Score / Crosswords | 169790 | [169790-letter-match-spell-n-score-crosswords.json](./169790-letter-match-spell-n-score-crosswords.json) |
 | Letter Pick | 232123 | [232123-letter-pick.json](./232123-letter-pick.json) |
 | Letter Quest Remastered/Three Fourths Home Bundle | 99525 | [99525-letter-quest-remastered-three-fourths-home-bundle.json](./99525-letter-quest-remastered-three-fourths-home-bundle.json) |
@@ -6118,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link's Awakening DX HD | 280019 | [280019-links-awakening-dx-hd.json](./280019-links-awakening-dx-hd.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
 | Link's Quest for the Hookshot 2: Quest | 406464 | [406464-links-quest-for-the-hookshot-2-quest.json](./406464-links-quest-for-the-hookshot-2-quest.json) |
+| Linkage | 108542 | [108542-linkage.json](./108542-linkage.json) |
 | Linkage | 251273 | [251273-linkage.json](./251273-linkage.json) |
 | Linked | 29395 | [29395-linked.json](./29395-linked.json) |
 | Linked | 322034 | [322034-linked.json](./322034-linked.json) |
