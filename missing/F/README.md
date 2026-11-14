@@ -13524,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
+| Frog Fractions: Game of the Decade Edition - Hop's Iconic Cap | 136516 | [136516-frog-fractions-game-of-the-decade-edition-hops-iconic-cap.json](./136516-frog-fractions-game-of-the-decade-edition-hops-iconic-cap.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Frenzy 2 | 209579 | [209579-frog-frenzy-2.json](./209579-frog-frenzy-2.json) |
 | Frog Fun | 77553 | [77553-frog-fun.json](./77553-frog-fun.json) |
