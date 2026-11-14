@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Monday Night Football '98 | 62319 | [62319-abc-monday-night-football-98.json](./62319-abc-monday-night-football-98.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
+| ABC Paint | 107971 | [107971-abc-paint.json](./107971-abc-paint.json) |
 | ABC Preschool car truck and engine dot puzzles | 88725 | [88725-abc-preschool-car-truck-and-engine-dot-puzzles.json](./88725-abc-preschool-car-truck-and-engine-dot-puzzles.json) |
 | ABC Search with Me | 198072 | [198072-abc-search-with-me.json](./198072-abc-search-with-me.json) |
 | ABC Search With Me: Adventure Bundle | 199851 | [199851-abc-search-with-me-adventure-bundle.json](./199851-abc-search-with-me-adventure-bundle.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absoloot | 30530 | [30530-absoloot.json](./30530-absoloot.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
+| Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
@@ -4236,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ponies | 264456 | [264456-adventure-ponies.json](./264456-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
 | Adventure Pop | 56891 | [56891-adventure-pop.json](./56891-adventure-pop.json) |
+| Adventure Portal | 107947 | [107947-adventure-portal.json](./107947-adventure-portal.json) |
 | Adventure Puss | 244114 | [244114-adventure-puss.json](./244114-adventure-puss.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
@@ -5430,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Fear: War Machine | 297767 | [297767-age-of-fear-war-machine.json](./297767-age-of-fear-war-machine.json) |
+| Age of Forays | 107980 | [107980-age-of-forays.json](./107980-age-of-forays.json) |
 | Age of Giants | 97019 | [97019-age-of-giants.json](./97019-age-of-giants.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
@@ -9538,6 +9542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambient Channels: Zanfium Tower - Lounge | 170702 | [170702-ambient-channels-zanfium-tower-lounge.json](./170702-ambient-channels-zanfium-tower-lounge.json) |
 | Ambient Water | 66606 | [66606-ambient-water.json](./66606-ambient-water.json) |
 | Ambienz | 122822 | [122822-ambienz.json](./122822-ambienz.json) |
+| Ambition | 107963 | [107963-ambition.json](./107963-ambition.json) |
 | Ambition Episode 1: The Desperate Dad | 385665 | [385665-ambition-episode-1-the-desperate-dad.json](./385665-ambition-episode-1-the-desperate-dad.json) |
 | Ambition Episode 2: The Hitchhiker | 385666 | [385666-ambition-episode-2-the-hitchhiker.json](./385666-ambition-episode-2-the-hitchhiker.json) |
 | Ambition Episode 3: The Psychological Assessment | 385667 | [385667-ambition-episode-3-the-psychological-assessment.json](./385667-ambition-episode-3-the-psychological-assessment.json) |
