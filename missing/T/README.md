@@ -5621,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezz | 149262 | [149262-tezz.json](./149262-tezz.json) |
 | Tezz: Portals | 155249 | [155249-tezz-portals.json](./155249-tezz-portals.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
+| TFC: The Fertile Crescent | 126101 | [126101-tfc-the-fertile-crescent.json](./126101-tfc-the-fertile-crescent.json) |
 | TFM: The First Men | 125535 | [125535-tfm-the-first-men.json](./125535-tfm-the-first-men.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
@@ -9023,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
 | The Demon - Nicolas Eymerich Inquisitor Audiogame | 120466 | [120466-the-demon-nicolas-eymerich-inquisitor-audiogame.json](./120466-the-demon-nicolas-eymerich-inquisitor-audiogame.json) |
 | The Demon Blade | 309587 | [309587-the-demon-blade.json](./309587-the-demon-blade.json) |
+| The Demon Crystal | 126074 | [126074-the-demon-crystal.json](./126074-the-demon-crystal.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Crystal 2: Knither | 115534 | [115534-the-demon-crystal-2-knither.json](./115534-the-demon-crystal-2-knither.json) |
 | The Demon Crystal 3: Dark Storm | 115538 | [115538-the-demon-crystal-3-dark-storm.json](./115538-the-demon-crystal-3-dark-storm.json) |
@@ -9261,6 +9263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doom Collection | 420339 | [420339-the-doom-collection.json](./420339-the-doom-collection.json) |
 | The Doomed Cathedral | 309279 | [309279-the-doomed-cathedral.json](./309279-the-doomed-cathedral.json) |
 | The Doomed Knight | 149268 | [149268-the-doomed-knight.json](./149268-the-doomed-knight.json) |
+| The Doomsday | 126059 | [126059-the-doomsday.json](./126059-the-doomsday.json) |
 | The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
 | The Doonesbury Election Game Campaign '96 | 72014 | [72014-the-doonesbury-election-game-campaign-96.json](./72014-the-doonesbury-election-game-campaign-96.json) |
