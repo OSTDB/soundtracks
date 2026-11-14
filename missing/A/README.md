@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Long Night | 369474 | [369474-after-long-night.json](./369474-after-long-night.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
+| After Meeting | 155748 | [155748-after-meeting.json](./155748-after-meeting.json) |
 | After Midnight | 180438 | [180438-after-midnight.json](./180438-after-midnight.json) |
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
 | After Midnight | 98218 | [98218-after-midnight.json](./98218-after-midnight.json) |
@@ -10489,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Witch Arena | 215659 | [215659-ancient-witch-arena.json](./215659-ancient-witch-arena.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
 | Ancient Wonders: Pharaoh's Tomb | 253313 | [253313-ancient-wonders-pharaohs-tomb.json](./253313-ancient-wonders-pharaohs-tomb.json) |
+| Ancient World War | 155730 | [155730-ancient-world-war.json](./155730-ancient-world-war.json) |
 | Ancient Worlds: Egypt | 150305 | [150305-ancient-worlds-egypt.json](./150305-ancient-worlds-egypt.json) |
 | Ancient: Legacy of Azul | 153150 | [153150-ancient-legacy-of-azul.json](./153150-ancient-legacy-of-azul.json) |
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
@@ -16876,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asmodeus's Hell: Devil in the Sunshine State | 225753 | [225753-asmodeuss-hell-devil-in-the-sunshine-state.json](./225753-asmodeuss-hell-devil-in-the-sunshine-state.json) |
 | ASMR Food Experience | 217427 | [217427-asmr-food-experience.json](./217427-asmr-food-experience.json) |
 | ASMR Journey: Animated Jigsaw Puzzle | 162215 | [162215-asmr-journey-animated-jigsaw-puzzle.json](./162215-asmr-journey-animated-jigsaw-puzzle.json) |
+| ASMR Journey: Jigsaw Puzzle | 156232 | [156232-asmr-journey-jigsaw-puzzle.json](./156232-asmr-journey-jigsaw-puzzle.json) |
 | ASMR Lightness: Light painting | 148417 | [148417-asmr-lightness-light-painting.json](./148417-asmr-lightness-light-painting.json) |
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
