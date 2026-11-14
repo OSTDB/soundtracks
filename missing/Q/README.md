@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
+| Quarto | 104306 | [104306-quarto.json](./104306-quarto.json) |
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
 | Quarto | 237602 | [237602-quarto.json](./237602-quarto.json) |
 | Quarto! | 374583 | [374583-quarto.json](./374583-quarto.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Wiz: Cyber Trivia | 199432 | [199432-quiz-wiz-cyber-trivia.json](./199432-quiz-wiz-cyber-trivia.json) |
 | Quiz x RPG | 193253 | [193253-quiz-x-rpg.json](./193253-quiz-x-rpg.json) |
 | Quiz-Race | 102696 | [102696-quiz-race.json](./102696-quiz-race.json) |
+| Quiz: Adult Edition | 104168 | [104168-quiz-adult-edition.json](./104168-quiz-adult-edition.json) |
 | Quiz: Don’t Lose to a Kid! | 399786 | [399786-quiz-don-t-lose-to-a-kid.json](./399786-quiz-don-t-lose-to-a-kid.json) |
 | Quiz: Tac Toe | 93122 | [93122-quiz-tac-toe.json](./93122-quiz-tac-toe.json) |
 | Quiz: Toukou Shashin | 37659 | [37659-quiz-toukou-shashin.json](./37659-quiz-toukou-shashin.json) |
