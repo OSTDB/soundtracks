@@ -4700,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Survivors | 291130 | [291130-cat-survivors.json](./291130-cat-survivors.json) |
 | Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
+| Cat Sweet Life | 82199 | [82199-cat-sweet-life.json](./82199-cat-sweet-life.json) |
 | Cat Syndicate: Istanbul | 327648 | [327648-cat-syndicate-istanbul.json](./327648-cat-syndicate-istanbul.json) |
 | Cat Tales | 224917 | [224917-cat-tales.json](./224917-cat-tales.json) |
 | Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
@@ -5276,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in the Shell | 408988 | [408988-cats-in-the-shell.json](./408988-cats-in-the-shell.json) |
 | Cats in Time | 149706 | [149706-cats-in-time.json](./149706-cats-in-time.json) |
 | Cats in Wonderland | 304839 | [304839-cats-in-wonderland.json](./304839-cats-in-wonderland.json) |
+| Cats Island | 82201 | [82201-cats-island.json](./82201-cats-island.json) |
 | Cats Kill Zombies | 225183 | [225183-cats-kill-zombies.json](./225183-cats-kill-zombies.json) |
 | Cats Link | 299397 | [299397-cats-link.json](./299397-cats-link.json) |
 | Cats Logic | 334092 | [334092-cats-logic.json](./334092-cats-logic.json) |
