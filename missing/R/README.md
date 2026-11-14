@@ -8170,6 +8170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riff Racer | 18922 | [18922-riff-racer.json](./18922-riff-racer.json) |
 | Riff Raft | 184919 | [184919-riff-raft.json](./184919-riff-raft.json) |
 | Riff VR | 76330 | [76330-riff-vr.json](./76330-riff-vr.json) |
+| Riff VR for Arcades | 111272 | [111272-riff-vr-for-arcades.json](./111272-riff-vr-for-arcades.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
 | RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
