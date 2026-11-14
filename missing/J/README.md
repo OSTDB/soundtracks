@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | Johan: The Archer & The Witch | 133116 | [133116-johan-the-archer-and-the-witch.json](./133116-johan-the-archer-and-the-witch.json) |
 | Johann Sebastian Joust | 65370 | [65370-johann-sebastian-joust.json](./65370-johann-sebastian-joust.json) |
+| Johann Weiss | 133483 | [133483-johann-weiss.json](./133483-johann-weiss.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
 | John Barnes European Football | 12646 | [12646-john-barnes-european-football.json](./12646-john-barnes-european-football.json) |
