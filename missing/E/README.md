@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementals Reborn | 55484 | [55484-elementals-reborn.json](./55484-elementals-reborn.json) |
 | Elementals: Calm Skies | 199141 | [199141-elementals-calm-skies.json](./199141-elementals-calm-skies.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
+| ElementalsFight | 149633 | [149633-elementalsfight.json](./149633-elementalsfight.json) |
 | Elementalt Guardian | 372228 | [372228-elementalt-guardian.json](./372228-elementalt-guardian.json) |
 | Elementary Anatomy: With Story Mode | 369332 | [369332-elementary-anatomy-with-story-mode.json](./369332-elementary-anatomy-with-story-mode.json) |
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
@@ -5648,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
+| Escape Fishstop 3D | 149614 | [149614-escape-fishstop-3d.json](./149614-escape-fishstop-3d.json) |
 | Escape Floor 13 | 320650 | [320650-escape-floor-13.json](./320650-escape-floor-13.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape from 8-Bit High | 392212 | [392212-escape-from-8-bit-high.json](./392212-escape-from-8-bit-high.json) |
