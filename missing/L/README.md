@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | Lego Jurassic World DLC Pack | 264430 | [264430-lego-jurassic-world-dlc-pack.json](./264430-lego-jurassic-world-dlc-pack.json) |
 | LEGO Knights' Kingdom | 6498 | [6498-lego-knights-kingdom.json](./6498-lego-knights-kingdom.json) |
+| LEGO Legacy: Heroes Unboxed | 119112 | [119112-lego-legacy-heroes-unboxed.json](./119112-lego-legacy-heroes-unboxed.json) |
 | LEGO Legends of Chima Online | 233277 | [233277-lego-legends-of-chima-online.json](./233277-lego-legends-of-chima-online.json) |
 | LEGO Legends of Chima: Laval's Journey | 6839 | [6839-lego-legends-of-chima-lavals-journey.json](./6839-lego-legends-of-chima-lavals-journey.json) |
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
@@ -9665,6 +9666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
 | Love is in the Airship | 318363 | [318363-love-is-in-the-airship.json](./318363-love-is-in-the-airship.json) |
+| Love is in the Space | 119096 | [119096-love-is-in-the-space.json](./119096-love-is-in-the-space.json) |
 | Love is Our Specialty! | 210520 | [210520-love-is-our-specialty.json](./210520-love-is-our-specialty.json) |
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
 | Love is Trauma | 393419 | [393419-love-is-trauma.json](./393419-love-is-trauma.json) |
