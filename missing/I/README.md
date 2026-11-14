@@ -6480,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Harvest: Operation Eagle | 154193 | [154193-iron-harvest-operation-eagle.json](./154193-iron-harvest-operation-eagle.json) |
 | Iron Harvest: Rusviet Revolution | 155240 | [155240-iron-harvest-rusviet-revolution.json](./155240-iron-harvest-rusviet-revolution.json) |
 | Iron Heart | 117355 | [117355-iron-heart.json](./117355-iron-heart.json) |
+| Iron Heart: Steam Tower | 103705 | [103705-iron-heart-steam-tower.json](./103705-iron-heart-steam-tower.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
 | Iron Horse | 39373 | [39373-iron-horse.json](./39373-iron-horse.json) |
