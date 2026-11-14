@@ -5533,6 +5533,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
 | Sega Ages Herzog Zwei | 117159 | [117159-sega-ages-herzog-zwei.json](./117159-sega-ages-herzog-zwei.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
+| Sega Ages Memorial Selection Vol. 1 | 98648 | [98648-sega-ages-memorial-selection-vol-1.json](./98648-sega-ages-memorial-selection-vol-1.json) |
+| Sega Ages Memorial Selection Vol. 2 | 98647 | [98647-sega-ages-memorial-selection-vol-2.json](./98647-sega-ages-memorial-selection-vol-2.json) |
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Phantasy Star | 109596 | [109596-sega-ages-phantasy-star.json](./109596-sega-ages-phantasy-star.json) |
 | Sega Ages Puyo Puyo | 113379 | [113379-sega-ages-puyo-puyo.json](./113379-sega-ages-puyo-puyo.json) |
@@ -5671,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega-Galaga | 6131 | [6131-sega-galaga.json](./6131-sega-galaga.json) |
 | Segagaga | 28151 | [28151-segagaga.json](./28151-segagaga.json) |
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
+| Segare Ijiri | 98643 | [98643-segare-ijiri.json](./98643-segare-ijiri.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
 | SegaSonic Popcorn Shop | 140103 | [140103-segasonic-popcorn-shop.json](./140103-segasonic-popcorn-shop.json) |
 | SegaSonic the Hedgehog | 198602 | [198602-segasonic-the-hedgehog.json](./198602-segasonic-the-hedgehog.json) |
@@ -10841,6 +10844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuriken | 197495 | [197495-shuriken.json](./197495-shuriken.json) |
 | Shuriken | 57206 | [57206-shuriken.json](./57206-shuriken.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
+| Shuriken Attack | 98630 | [98630-shuriken-attack.json](./98630-shuriken-attack.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
 | Shuriken Sentai Ninninger: Game de Wasshoi!! | 59748 | [59748-shuriken-sentai-ninninger-game-de-wasshoi.json](./59748-shuriken-sentai-ninninger-game-de-wasshoi.json) |
@@ -12254,6 +12258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 85: The Sekai Meisaku Gekijou Quiz | 203324 | [203324-simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz.json](./203324-simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz.json) |
 | Simple 2000 Series Vol. 88: The Mini Suke Porisu | 43325 | [43325-simple-2000-series-vol-88-the-mini-suke-porisu.json](./43325-simple-2000-series-vol-88-the-mini-suke-porisu.json) |
 | Simple 2000 Series Vol. 89: The Party Games 2 | 203326 | [203326-simple-2000-series-vol-89-the-party-games-2.json](./203326-simple-2000-series-vol-89-the-party-games-2.json) |
+| Simple 2000 Series Vol. 92: The Noroi no Game | 98658 | [98658-simple-2000-series-vol-92-the-noroi-no-game.json](./98658-simple-2000-series-vol-92-the-noroi-no-game.json) |
 | Simple 2000 Series Vol. 93: The Unou Drill | 203327 | [203327-simple-2000-series-vol-93-the-unou-drill.json](./203327-simple-2000-series-vol-93-the-unou-drill.json) |
 | Simple 2000 Series Vol. 94: The Akachampion | 68267 | [68267-simple-2000-series-vol-94-the-akachampion.json](./68267-simple-2000-series-vol-94-the-akachampion.json) |
 | Simple 2000 Series Vol. 98: The Roman Sabou | 203329 | [203329-simple-2000-series-vol-98-the-roman-sabou.json](./203329-simple-2000-series-vol-98-the-roman-sabou.json) |
@@ -18493,6 +18498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire of Novel | 225322 | [225322-solitaire-of-novel.json](./225322-solitaire-of-novel.json) |
 | Solitaire One | 89617 | [89617-solitaire-one.json](./89617-solitaire-one.json) |
 | Solitaire Overload | 91676 | [91676-solitaire-overload.json](./91676-solitaire-overload.json) |
+| Solitaire Overload Plus | 98625 | [98625-solitaire-overload-plus.json](./98625-solitaire-overload-plus.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
@@ -18510,6 +18516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
 | Solitaire Royale | 400989 | [400989-solitaire-royale.json](./400989-solitaire-royale.json) |
 | Solitaire Royale | 400990 | [400990-solitaire-royale.json](./400990-solitaire-royale.json) |
+| Solitaire Royale / Puppy Love | 98619 | [98619-solitaire-royale-puppy-love.json](./98619-solitaire-royale-puppy-love.json) |
 | Solitaire Showdown | 127889 | [127889-solitaire-showdown.json](./127889-solitaire-showdown.json) |
 | Solitaire Spider Minimal | 147643 | [147643-solitaire-spider-minimal.json](./147643-solitaire-spider-minimal.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
@@ -31980,6 +31987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Cars | 85399 | [85399-stunt-cars.json](./85399-stunt-cars.json) |
 | Stunt Copter | 229021 | [229021-stunt-copter.json](./229021-stunt-copter.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
+| Stunt Corgi VR | 98634 | [98634-stunt-corgi-vr.json](./98634-stunt-corgi-vr.json) |
 | Stunt Cycle | 18584 | [18584-stunt-cycle.json](./18584-stunt-cycle.json) |
 | Stunt Cycle | 282783 | [282783-stunt-cycle.json](./282783-stunt-cycle.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
