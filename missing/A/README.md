@@ -8137,6 +8137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Versus Predator 2: Primal Hunt | 19214 | [19214-aliens-versus-predator-2-primal-hunt.json](./19214-aliens-versus-predator-2-primal-hunt.json) |
 | Aliens Versus Predator Classic 2000 | 14818 | [14818-aliens-versus-predator-classic-2000.json](./14818-aliens-versus-predator-classic-2000.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
+| Aliens Versus Predator: Gold Edition | 80034 | [80034-aliens-versus-predator-gold-edition.json](./80034-aliens-versus-predator-gold-edition.json) |
+| Aliens versus Predator: Millennium | 80035 | [80035-aliens-versus-predator-millennium.json](./80035-aliens-versus-predator-millennium.json) |
 | Aliens vs. Ghosts | 208331 | [208331-aliens-vs-ghosts.json](./208331-aliens-vs-ghosts.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
@@ -8839,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Ceti TD | 389741 | [389741-alpha-ceti-td.json](./389741-alpha-ceti-td.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpha Collapse | 356502 | [356502-alpha-collapse.json](./356502-alpha-collapse.json) |
+| Alpha Collexion | 80051 | [80051-alpha-collexion.json](./80051-alpha-collexion.json) |
 | Alpha Command | 164871 | [164871-alpha-command.json](./164871-alpha-command.json) |
 | Alpha Crisis | 390329 | [390329-alpha-crisis.json](./390329-alpha-crisis.json) |
 | Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
@@ -18087,6 +18090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Fighters 2178 | 151412 | [151412-astro-fighters-2178.json](./151412-astro-fighters-2178.json) |
 | Astro Flame: Starfighter | 259807 | [259807-astro-flame-starfighter.json](./259807-astro-flame-starfighter.json) |
+| Astro Fury | 80047 | [80047-astro-fury.json](./80047-astro-fury.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
 | Astro Heist | 260440 | [260440-astro-heist.json](./260440-astro-heist.json) |
@@ -18113,6 +18117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Miners | 354213 | [354213-astro-miners.json](./354213-astro-miners.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
+| Astro Ninja Man | 79988 | [79988-astro-ninja-man.json](./79988-astro-ninja-man.json) |
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
 | Astro Nova | 374511 | [374511-astro-nova.json](./374511-astro-nova.json) |
 | Astro Nut | 200779 | [200779-astro-nut.json](./200779-astro-nut.json) |
