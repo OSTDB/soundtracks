@@ -5072,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perraw - FPS Clone War | 34309 | [34309-perraw-fps-clone-war.json](./34309-perraw-fps-clone-war.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Perry Cooking American Hamburger | 365024 | [365024-perry-cooking-american-hamburger.json](./365024-perry-cooking-american-hamburger.json) |
+| Perry Pig Jump | 114458 | [114458-perry-pig-jump.json](./114458-perry-pig-jump.json) |
 | Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry Rhodan: Thoregon - Die verbotene Stadt | 116601 | [116601-perry-rhodan-thoregon-die-verbotene-stadt.json](./116601-perry-rhodan-thoregon-die-verbotene-stadt.json) |
@@ -6091,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phasing | 184136 | [184136-phasing.json](./184136-phasing.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phasmophobia: Ascension | 268059 | [268059-phasmophobia-ascension.json](./268059-phasmophobia-ascension.json) |
+| Phasmophobia: Hall of Specters 3D | 114459 | [114459-phasmophobia-hall-of-specters-3d.json](./114459-phasmophobia-hall-of-specters-3d.json) |
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | PhasR | 185834 | [185834-phasr.json](./185834-phasr.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
@@ -14389,6 +14391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
 | Portal Hopper | 383706 | [383706-portal-hopper.json](./383706-portal-hopper.json) |
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
+| Portal Hunters | 114628 | [114628-portal-hunters.json](./114628-portal-hunters.json) |
 | Portal Knights | 20392 | [20392-portal-knights.json](./20392-portal-knights.json) |
 | Portal Knights: Druids, Furfolk, and Relic Defense | 164772 | [164772-portal-knights-druids-furfolk-and-relic-defense.json](./164772-portal-knights-druids-furfolk-and-relic-defense.json) |
 | Portal Knights: Elves, Rogues, and Rifts | 170872 | [170872-portal-knights-elves-rogues-and-rifts.json](./170872-portal-knights-elves-rogues-and-rifts.json) |
