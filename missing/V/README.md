@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5: Final Showdown | 21669 | [21669-virtua-fighter-5-final-showdown.json](./21669-virtua-fighter-5-final-showdown.json) |
 | Virtua Fighter 5: Ultimate Showdown | 148696 | [148696-virtua-fighter-5-ultimate-showdown.json](./148696-virtua-fighter-5-ultimate-showdown.json) |
 | Virtua Fighter Animation | 1548 | [1548-virtua-fighter-animation.json](./1548-virtua-fighter-animation.json) |
+| Virtua Fighter CG Portrait Series the Final: Dural | 97585 | [97585-virtua-fighter-cg-portrait-series-the-final-dural.json](./97585-virtua-fighter-cg-portrait-series-the-final-dural.json) |
 | Virtua Fighter CG Portrait Series Vol. 10: Jeffry McWild | 97590 | [97590-virtua-fighter-cg-portrait-series-vol-10-jeffry-mcwild.json](./97590-virtua-fighter-cg-portrait-series-vol-10-jeffry-mcwild.json) |
 | Virtua Fighter CG Portrait Series Vol. 5: Wolf Hawkfield | 97598 | [97598-virtua-fighter-cg-portrait-series-vol-5-wolf-hawkfield.json](./97598-virtua-fighter-cg-portrait-series-vol-5-wolf-hawkfield.json) |
 | Virtua Fighter CG Portrait Series Vol. 7: Shun Di | 97593 | [97593-virtua-fighter-cg-portrait-series-vol-7-shun-di.json](./97593-virtua-fighter-cg-portrait-series-vol-7-shun-di.json) |
