@@ -3475,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
 | King of Stocks | 304446 | [304446-king-of-stocks.json](./304446-king-of-stocks.json) |
 | King of Sweets | 155958 | [155958-king-of-sweets.json](./155958-king-of-sweets.json) |
+| King of Texas | 115850 | [115850-king-of-texas.json](./115850-king-of-texas.json) |
 | King of the Apocalypse | 138912 | [138912-king-of-the-apocalypse.json](./138912-king-of-the-apocalypse.json) |
 | King of the Arcade | 245626 | [245626-king-of-the-arcade.json](./245626-king-of-the-arcade.json) |
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
