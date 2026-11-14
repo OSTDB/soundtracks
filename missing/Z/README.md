@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | zTime (Danger Noodles!) | 31444 | [31444-ztime-danger-noodles.json](./31444-ztime-danger-noodles.json) |
 | Ztime Story | 227162 | [227162-ztime-story.json](./227162-ztime-story.json) |
+| Zu Online | 92730 | [92730-zu-online.json](./92730-zu-online.json) |
 | Zu Xing | 404606 | [404606-zu-xing.json](./404606-zu-xing.json) |
 | Zub | 83382 | [83382-zub.json](./83382-zub.json) |
 | Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
