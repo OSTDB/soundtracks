@@ -4637,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacle Temptation | 274695 | [274695-tentacle-temptation.json](./274695-tentacle-temptation.json) |
 | Tentacle Typer | 152090 | [152090-tentacle-typer.json](./152090-tentacle-typer.json) |
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
+| Tentacle Wars | 90243 | [90243-tentacle-wars.json](./90243-tentacle-wars.json) |
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Invasion | 321820 | [321820-tentacles-invasion.json](./321820-tentacles-invasion.json) |
@@ -10767,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Fountain War | 110264 | [110264-the-fountain-war.json](./110264-the-fountain-war.json) |
+| The Four Colour Theorem | 90170 | [90170-the-four-colour-theorem.json](./90170-the-four-colour-theorem.json) |
 | The Four Crystals of Trazere | 79087 | [79087-the-four-crystals-of-trazere.json](./79087-the-four-crystals-of-trazere.json) |
 | The Four Elements: Zombies | 197049 | [197049-the-four-elements-zombies.json](./197049-the-four-elements-zombies.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
@@ -28742,6 +28744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torque Burnout | 95095 | [95095-torque-burnout.json](./95095-torque-burnout.json) |
 | Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
+| Torque: Simulation Begins | 90266 | [90266-torque-simulation-begins.json](./90266-torque-simulation-begins.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | TorqueL | 16654 | [16654-torquel.json](./16654-torquel.json) |
 | TorqueL: Physics Modified Edition | 86458 | [86458-torquel-physics-modified-edition.json](./86458-torquel-physics-modified-edition.json) |
@@ -29903,6 +29906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense Hero | 160032 | [160032-tower-defense-hero.json](./160032-tower-defense-hero.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense RPG | 288382 | [288382-tower-defense-rpg.json](./288382-tower-defense-rpg.json) |
+| Tower Defense Sudden Attack | 90283 | [90283-tower-defense-sudden-attack.json](./90283-tower-defense-sudden-attack.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
@@ -33569,6 +33573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travian: Legends | 22586 | [22586-travian-legends.json](./22586-travian-legends.json) |
 | Travians | 363543 | [363543-travians.json](./363543-travians.json) |
+| Travildorn | 90167 | [90167-travildorn.json](./90167-travildorn.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Travis Strikes Again: No More Heroes - Black Dandelion | 115482 | [115482-travis-strikes-again-no-more-heroes-black-dandelion.json](./115482-travis-strikes-again-no-more-heroes-black-dandelion.json) |
 | Travis Strikes Again: No More Heroes - Bubblegum Fatale | 117496 | [117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json](./117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json) |
@@ -34694,6 +34699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
 | Trivia Vault: 1980's Trivia 2 | 54879 | [54879-trivia-vault-1980s-trivia-2.json](./54879-trivia-vault-1980s-trivia-2.json) |
 | Trivia Vault: Art Trivia | 97241 | [97241-trivia-vault-art-trivia.json](./97241-trivia-vault-art-trivia.json) |
+| Trivia Vault: Auto Racing Trivia | 90285 | [90285-trivia-vault-auto-racing-trivia.json](./90285-trivia-vault-auto-racing-trivia.json) |
 | Trivia Vault: Boxing Trivia | 90180 | [90180-trivia-vault-boxing-trivia.json](./90180-trivia-vault-boxing-trivia.json) |
 | Trivia Vault: Business Trivia | 100633 | [100633-trivia-vault-business-trivia.json](./100633-trivia-vault-business-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
@@ -35795,6 +35801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuzuku Sekai to Wakarebana | 285869 | [285869-tsuzuku-sekai-to-wakarebana.json](./285869-tsuzuku-sekai-to-wakarebana.json) |
 | Tsuzumigusa | 387572 | [387572-tsuzumigusa.json](./387572-tsuzumigusa.json) |
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
+| Tsym Online | 89992 | [89992-tsym-online.json](./89992-tsym-online.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
 | TT Isle of Man: Ride on the Edge - Day One Edition | 90957 | [90957-tt-isle-of-man-ride-on-the-edge-day-one-edition.json](./90957-tt-isle-of-man-ride-on-the-edge-day-one-edition.json) |
