@@ -7272,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexasmash 2 | 57728 | [57728-hexasmash-2.json](./57728-hexasmash-2.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
 | Hexavale | 360063 | [360063-hexavale.json](./360063-hexavale.json) |
+| Hexaverse | 108528 | [108528-hexaverse.json](./108528-hexaverse.json) |
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
 | Hexavoid 2 | 96586 | [96586-hexavoid-2.json](./96586-hexavoid-2.json) |
 | Hexawar | 97259 | [97259-hexawar.json](./97259-hexawar.json) |
