@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar's World of Boxing | 45941 | [45941-caesars-world-of-boxing.json](./45941-caesars-world-of-boxing.json) |
 | Caesar's World of Gambling | 45940 | [45940-caesars-world-of-gambling.json](./45940-caesars-world-of-gambling.json) |
 | CaesarIA | 17927 | [17927-caesaria.json](./17927-caesaria.json) |
+| Caesars Palace | 144443 | [144443-caesars-palace.json](./144443-caesars-palace.json) |
 | Caesars Palace | 206697 | [206697-caesars-palace.json](./206697-caesars-palace.json) |
 | Caesars Palace | 206698 | [206698-caesars-palace.json](./206698-caesars-palace.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
@@ -2653,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
+| Carcavas | 144435 | [144435-carcavas.json](./144435-carcavas.json) |
 | Carcelera | 414708 | [414708-carcelera.json](./414708-carcelera.json) |
 | Carceri | 302562 | [302562-carceri.json](./302562-carceri.json) |
 | Carceri | 408562 | [408562-carceri.json](./408562-carceri.json) |
@@ -4176,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
 | Castles & Catapults | 155006 | [155006-castles-and-catapults.json](./155006-castles-and-catapults.json) |
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
+| Castles 1+2 | 143815 | [143815-castles-1-2.json](./143815-castles-1-2.json) |
 | Castles and Clowns | 13998 | [13998-castles-and-clowns.json](./13998-castles-and-clowns.json) |
 | Castles and Manors: Escape Room Bundle | 410387 | [410387-castles-and-manors-escape-room-bundle.json](./410387-castles-and-manors-escape-room-bundle.json) |
 | Castles II: Siege & Conquest | 51576 | [51576-castles-ii-siege-and-conquest.json](./51576-castles-ii-siege-and-conquest.json) |
