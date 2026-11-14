@@ -5785,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Soldier | 96154 | [96154-ninja-soldier.json](./96154-ninja-soldier.json) |
 | Ninja Soul | 189210 | [189210-ninja-soul.json](./189210-ninja-soul.json) |
 | Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
+| Ninja SpeedRush | 104930 | [104930-ninja-speedrush.json](./104930-ninja-speedrush.json) |
 | Ninja Spinki Challenges!! | 56904 | [56904-ninja-spinki-challenges.json](./56904-ninja-spinki-challenges.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
@@ -7055,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NolyRhythm | 390731 | [390731-nolyrhythm.json](./390731-nolyrhythm.json) |
 | Nom Cat | 60287 | [60287-nom-cat.json](./60287-nom-cat.json) |
 | Nom Nom | 225965 | [225965-nom-nom.json](./225965-nom-nom.json) |
+| Nom Nom Apocalypse | 104901 | [104901-nom-nom-apocalypse.json](./104901-nom-nom-apocalypse.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
