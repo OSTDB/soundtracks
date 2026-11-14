@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
 | Tempest X3 | 71878 | [71878-tempest-x3.json](./71878-tempest-x3.json) |
 | Tempest: Evolved | 329640 | [329640-tempest-evolved.json](./329640-tempest-evolved.json) |
+| Tempest: Jade Sea | 124858 | [124858-tempest-jade-sea.json](./124858-tempest-jade-sea.json) |
 | Tempest: Pirate Action RPG | 83322 | [83322-tempest-pirate-action-rpg.json](./83322-tempest-pirate-action-rpg.json) |
 | Tempest: Pirate City | 124941 | [124941-tempest-pirate-city.json](./124941-tempest-pirate-city.json) |
 | Tempest: Pirate Edition | 53716 | [53716-tempest-pirate-edition.json](./53716-tempest-pirate-edition.json) |
@@ -5842,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
 | The 257th Element | 289570 | [289570-the-257th-element.json](./289570-the-257th-element.json) |
 | The 25th Ward: The Silver Case | 30221 | [30221-the-25th-ward-the-silver-case.json](./30221-the-25th-ward-the-silver-case.json) |
+| The 25th Ward: The Silver Case - Digital Limited Edition | 124886 | [124886-the-25th-ward-the-silver-case-digital-limited-edition.json](./124886-the-25th-ward-the-silver-case-digital-limited-edition.json) |
 | The 2D Adventures of Rotating Octopus Character | 52925 | [52925-the-2d-adventures-of-rotating-octopus-character.json](./52925-the-2d-adventures-of-rotating-octopus-character.json) |
 | The 2k Sports Collection | 148124 | [148124-the-2k-sports-collection.json](./148124-the-2k-sports-collection.json) |
 | The 2nd Old-School Level Design Contest: Collaboration Hack | 306877 | [306877-the-2nd-old-school-level-design-contest-collaboration-hack.json](./306877-the-2nd-old-school-level-design-contest-collaboration-hack.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 2: Deluxe Edition | 51708 | [51708-the-banner-saga-2-deluxe-edition.json](./51708-the-banner-saga-2-deluxe-edition.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Deluxe Edition | 154211 | [154211-the-banner-saga-3-deluxe-edition.json](./154211-the-banner-saga-3-deluxe-edition.json) |
+| The Banner Saga 3: Eternal Arena | 124851 | [124851-the-banner-saga-3-eternal-arena.json](./124851-the-banner-saga-3-eternal-arena.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
 | The Banner Saga Trilogy | 109108 | [109108-the-banner-saga-trilogy.json](./109108-the-banner-saga-trilogy.json) |
@@ -9867,8 +9870,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Complete Edition | 220926 | [220926-the-escapists-2-complete-edition.json](./220926-the-escapists-2-complete-edition.json) |
 | The Escapists 2: Dungeons and Duct Tape | 155176 | [155176-the-escapists-2-dungeons-and-duct-tape.json](./155176-the-escapists-2-dungeons-and-duct-tape.json) |
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
+| The Escapists 2: Glorious Regime Prison | 124884 | [124884-the-escapists-2-glorious-regime-prison.json](./124884-the-escapists-2-glorious-regime-prison.json) |
 | The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
 | The Escapists 2: Special Edition | 83775 | [83775-the-escapists-2-special-edition.json](./83775-the-escapists-2-special-edition.json) |
+| The Escapists 2: Wicked Ward | 124882 | [124882-the-escapists-2-wicked-ward.json](./124882-the-escapists-2-wicked-ward.json) |
 | The Escapists DLC Bundle | 227091 | [227091-the-escapists-dlc-bundle.json](./227091-the-escapists-dlc-bundle.json) |
 | The Escapists: Alcatraz | 53732 | [53732-the-escapists-alcatraz.json](./53732-the-escapists-alcatraz.json) |
 | The Escapists: Complete Edition | 108196 | [108196-the-escapists-complete-edition.json](./108196-the-escapists-complete-edition.json) |
@@ -11977,6 +11982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
 | The Humans | 48657 | [48657-the-humans.json](./48657-the-humans.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
+| The Humans Bundle | 124840 | [124840-the-humans-bundle.json](./124840-the-humans-bundle.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
 | The Humans: Meet the Ancestors | 67847 | [67847-the-humans-meet-the-ancestors.json](./67847-the-humans-meet-the-ancestors.json) |
 | The Humans: Meet the Ancestors | 78749 | [78749-the-humans-meet-the-ancestors.json](./78749-the-humans-meet-the-ancestors.json) |
@@ -13219,6 +13225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Federation | 11050 | [11050-the-last-federation.json](./11050-the-last-federation.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Federation: Betrayed Hope | 8782 | [8782-the-last-federation-betrayed-hope.json](./8782-the-last-federation-betrayed-hope.json) |
+| The Last Federation: The Lost Technologies | 124867 | [124867-the-last-federation-the-lost-technologies.json](./124867-the-last-federation-the-lost-technologies.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flame | 226601 | [226601-the-last-flame.json](./226601-the-last-flame.json) |
 | The Last Flight | 407566 | [407566-the-last-flight.json](./407566-the-last-flight.json) |
@@ -19346,6 +19353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tentacularly Adorned Royal Knightess | 82730 | [82730-the-tentacularly-adorned-royal-knightess.json](./82730-the-tentacularly-adorned-royal-knightess.json) |
 | The Tentai-Show | 306818 | [306818-the-tentai-show.json](./306818-the-tentai-show.json) |
 | The Tenth Line | 27973 | [27973-the-tenth-line.json](./27973-the-tenth-line.json) |
+| The Tenth Line: Special Edition | 124843 | [124843-the-tenth-line-special-edition.json](./124843-the-tenth-line-special-edition.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminal | 176818 | [176818-the-terminal.json](./176818-the-terminal.json) |
 | The Terminal 2 | 17635 | [17635-the-terminal-2.json](./17635-the-terminal-2.json) |
@@ -36976,6 +36984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II HD: Shattered Embrace | 126972 | [126972-two-worlds-ii-hd-shattered-embrace.json](./126972-two-worlds-ii-hd-shattered-embrace.json) |
 | Two Worlds II: Call of the Tenebrae | 28283 | [28283-two-worlds-ii-call-of-the-tenebrae.json](./28283-two-worlds-ii-call-of-the-tenebrae.json) |
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
+| Two Worlds II: Echoes of the Dark Past 2 | 124859 | [124859-two-worlds-ii-echoes-of-the-dark-past-2.json](./124859-two-worlds-ii-echoes-of-the-dark-past-2.json) |
 | Two Worlds II: Epic Edition | 51798 | [51798-two-worlds-ii-epic-edition.json](./51798-two-worlds-ii-epic-edition.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds II: Royal Edition | 43007 | [43007-two-worlds-ii-royal-edition.json](./43007-two-worlds-ii-royal-edition.json) |
