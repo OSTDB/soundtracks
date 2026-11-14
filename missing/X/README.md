@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenrai | 122960 | [122960-xenrai.json](./122960-xenrai.json) |
 | Xentra Station | 361056 | [361056-xentra-station.json](./361056-xentra-station.json) |
 | Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
+| Xentron Attack | 138886 | [138886-xentron-attack.json](./138886-xentron-attack.json) |
 | Xenture | 181096 | [181096-xenture.json](./181096-xenture.json) |
 | Xenus 2: White Gold | 30872 | [30872-xenus-2-white-gold.json](./30872-xenus-2-white-gold.json) |
 | Xenus Bug Eater | 386941 | [386941-xenus-bug-eater.json](./386941-xenus-bug-eater.json) |
