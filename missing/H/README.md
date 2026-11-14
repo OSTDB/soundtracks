@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack the Babel Inc. | 207558 | [207558-hack-the-babel-inc.json](./207558-hack-the-babel-inc.json) |
 | Hack the Core | 108367 | [108367-hack-the-core.json](./108367-hack-the-core.json) |
 | Hack the FBI | 29702 | [29702-hack-the-fbi.json](./29702-hack-the-fbi.json) |
+| Hack the Game | 78815 | [78815-hack-the-game.json](./78815-hack-the-game.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
 | Hack the Planet | 402489 | [402489-hack-the-planet.json](./402489-hack-the-planet.json) |
 | Hack the System | 236355 | [236355-hack-the-system.json](./236355-hack-the-system.json) |
@@ -3534,7 +3535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headhunters: Bang Bang | 323694 | [323694-headhunters-bang-bang.json](./323694-headhunters-bang-bang.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Heading Home | 278954 | [278954-heading-home.json](./278954-heading-home.json) |
-| Heading Out | 154290 | [154290-heading-out.json](./154290-heading-out.json) |
 | Headland | 100440 | [100440-headland.json](./100440-headland.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
 | Headless Chicken | 260503 | [260503-headless-chicken.json](./260503-headless-chicken.json) |
@@ -7423,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexHorizon | 350079 | [350079-hexhorizon.json](./350079-hexhorizon.json) |
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
+| Hexic | 78810 | [78810-hexic.json](./78810-hexic.json) |
 | Hexic 2 | 21834 | [21834-hexic-2.json](./21834-hexic-2.json) |
 | Hexic HD | 2732 | [2732-hexic-hd.json](./2732-hexic-hd.json) |
 | Hexic Rush | 91836 | [91836-hexic-rush.json](./91836-hexic-rush.json) |
@@ -9051,7 +9052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hindrance | 177720 | [177720-hindrance.json](./177720-hindrance.json) |
-| Hindsight | 145781 | [145781-hindsight.json](./145781-hindsight.json) |
 | Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
 | Hinedere Beat | 107368 | [107368-hinedere-beat.json](./107368-hinedere-beat.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
@@ -9227,8 +9227,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu! | 269158 | [269158-hissatsu.json](./269158-hissatsu.json) |
 | Hisshou 777 Fighter III: Kuroryuuou no Fukkatsu | 58414 | [58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json](./58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
+| Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 2: Bomber Powerful & Yume Yume World DX | 78763 | [78763-hisshou-pachinko-pachi-slot-kouryoku-series-vol-2-bomber-powerful-and-yume-yume-world-dx.json](./78763-hisshou-pachinko-pachi-slot-kouryoku-series-vol-2-bomber-powerful-and-yume-yume-world-dx.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
+| Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 5: CR Shinseiki Evangelion 2nd Impact | 78776 | [78776-hisshou-pachinko-pachi-slot-kouryoku-series-vol-5-cr-shinseiki-evangelion-2nd-impact.json](./78776-hisshou-pachinko-pachi-slot-kouryoku-series-vol-5-cr-shinseiki-evangelion-2nd-impact.json) |
 | Hisshou Pachinko Kouryoku Series Vol. 1: CR Shinseiki Evangelion | 79636 | [79636-hisshou-pachinko-kouryoku-series-vol-1-cr-shinseiki-evangelion.json](./79636-hisshou-pachinko-kouryoku-series-vol-1-cr-shinseiki-evangelion.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 1: Shinseiki Evangelion - Magokoro o, Kimi ni | 269626 | [269626-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-1-shinseiki-evangelion-magokoro-o-kimi-ni.json](./269626-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-1-shinseiki-evangelion-magokoro-o-kimi-ni.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 2: CR Shinseiki Evangelion - Shito, Futatabi | 269627 | [269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json](./269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json) |
@@ -12055,7 +12057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
-| Hotel Barcelona | 125125 | [125125-hotel-barcelona.json](./125125-hotel-barcelona.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
 | Hotel Blue Rose no 99 no Heya | 330989 | [330989-hotel-blue-rose-no-99-no-heya.json](./330989-hotel-blue-rose-no-99-no-heya.json) |
 | Hotel Boom! | 251789 | [251789-hotel-boom.json](./251789-hotel-boom.json) |
@@ -12741,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyeonjigi | 111251 | [111251-hoyeonjigi.json](./111251-hoyeonjigi.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
 | Hoyle Blackjack | 62395 | [62395-hoyle-blackjack.json](./62395-hoyle-blackjack.json) |
+| Hoyle Blackjack Series | 78792 | [78792-hoyle-blackjack-series.json](./78792-hoyle-blackjack-series.json) |
 | Hoyle Board Games | 69737 | [69737-hoyle-board-games.json](./69737-hoyle-board-games.json) |
 | Hoyle Board Games 2001 | 71276 | [71276-hoyle-board-games-2001.json](./71276-hoyle-board-games-2001.json) |
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
