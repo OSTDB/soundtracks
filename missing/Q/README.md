@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrant | 390316 | [390316-quadrant.json](./390316-quadrant.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadrant M4 | 36981 | [36981-quadrant-m4.json](./36981-quadrant-m4.json) |
+| Quadrantica | 83655 | [83655-quadrantica.json](./83655-quadrantica.json) |
 | Quadrapassel | 122774 | [122774-quadrapassel.json](./122774-quadrapassel.json) |
 | Quadrapong | 79040 | [79040-quadrapong.json](./79040-quadrapong.json) |
 | QuadraPop | 225827 | [225827-quadrapop.json](./225827-quadrapop.json) |
