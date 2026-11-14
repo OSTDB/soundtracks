@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakikuku Jump! | 234590 | [234590-kakikuku-jump.json](./234590-kakikuku-jump.json) |
 | Kakinoki Shogi | 37968 | [37968-kakinoki-shogi.json](./37968-kakinoki-shogi.json) |
 | Kakka to Ma no Tsuku Present!? | 97507 | [97507-kakka-to-ma-no-tsuku-present.json](./97507-kakka-to-ma-no-tsuku-present.json) |
+| Kakkong: Land of Chaos | 146380 | [146380-kakkong-land-of-chaos.json](./146380-kakkong-land-of-chaos.json) |
 | Kakkote Efuefu 7 | 97609 | [97609-kakkote-efuefu-7.json](./97609-kakkote-efuefu-7.json) |
 | Kakkote ToHato2 | 97611 | [97611-kakkote-tohato2.json](./97611-kakkote-tohato2.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Boo's Dream Invasion | 242846 | [242846-king-boos-dream-invasion.json](./242846-king-boos-dream-invasion.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
+| King Bullseye: The Chess Strike | 146410 | [146410-king-bullseye-the-chess-strike.json](./146410-king-bullseye-the-chess-strike.json) |
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
 | King Charles: Rise of the Alpha | 391566 | [391566-king-charles-rise-of-the-alpha.json](./391566-king-charles-rise-of-the-alpha.json) |
 | King City: Open World | 422182 | [422182-king-city-open-world.json](./422182-king-city-open-world.json) |
