@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
 | Victoria 3: Update 1.2 | 240900 | [240900-victoria-3-update-1-2.json](./240900-victoria-3-update-1-2.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
+| Victoria Clair and the Mystery Express | 141944 | [141944-victoria-clair-and-the-mystery-express.json](./141944-victoria-clair-and-the-mystery-express.json) |
 | Victoria II | 11037 | [11037-victoria-ii.json](./11037-victoria-ii.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Civil War Edition | 124982 | [124982-victoria-ii-civil-war-edition.json](./124982-victoria-ii-civil-war-edition.json) |
@@ -2397,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
 | Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
 | Viking Gods | 224345 | [224345-viking-gods.json](./224345-viking-gods.json) |
+| Viking Heroes | 142507 | [142507-viking-heroes.json](./142507-viking-heroes.json) |
 | Viking Heroes 2 | 159496 | [159496-viking-heroes-2.json](./159496-viking-heroes-2.json) |
 | Viking Heroes 3 | 224739 | [224739-viking-heroes-3.json](./224739-viking-heroes-3.json) |
 | Viking Heroes 4 | 252319 | [252319-viking-heroes-4.json](./252319-viking-heroes-4.json) |
