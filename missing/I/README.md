@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Accidentally Restarted the USSR | 167527 | [167527-i-accidentally-restarted-the-ussr.json](./167527-i-accidentally-restarted-the-ussr.json) |
 | I Accidently Insulted a Witch and Now All of My Clothes Are Sentient and They Hate Me! | 178810 | [178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json](./178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json) |
 | I Alien | 54600 | [54600-i-alien.json](./54600-i-alien.json) |
+| I Am | 98610 | [98610-i-am.json](./98610-i-am.json) |
 | I Am 1 | 193415 | [193415-i-am-1.json](./193415-i-am-1.json) |
 | I Am 414C | 174216 | [174216-i-am-414c.json](./174216-i-am-414c.json) |
 | I am a box! | 165456 | [165456-i-am-a-box.json](./165456-i-am-a-box.json) |
