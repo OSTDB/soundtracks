@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintings | 207963 | [207963-paintings.json](./207963-paintings.json) |
 | Paintings Jigsaw Puzzles | 160112 | [160112-paintings-jigsaw-puzzles.json](./160112-paintings-jigsaw-puzzles.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
+| PaintOut! | 150202 | [150202-paintout.json](./150202-paintout.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
 | Painty Mob | 193769 | [193769-painty-mob.json](./193769-painty-mob.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite | 33748 | [33748-parasite.json](./33748-parasite.json) |
 | Parasite | 376608 | [376608-parasite.json](./376608-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
+| Parasite Days | 150198 | [150198-parasite-days.json](./150198-parasite-days.json) |
 | Parasite Elevator | 419438 | [419438-parasite-elevator.json](./419438-parasite-elevator.json) |
 | Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
 | Parasite Eve II | 7358 | [7358-parasite-eve-ii.json](./7358-parasite-eve-ii.json) |
@@ -3529,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
 | Patton Strikes Back: The Battle of the Bulge | 73568 | [73568-patton-strikes-back-the-battle-of-the-bulge.json](./73568-patton-strikes-back-the-battle-of-the-bulge.json) |
 | Patton: Armored Assault | 210016 | [210016-patton-armored-assault.json](./210016-patton-armored-assault.json) |
+| Patty & Mr. Miles | 150218 | [150218-patty-and-mr-miles.json](./150218-patty-and-mr-miles.json) |
 | Patty's Pumpkin Patch | 223734 | [223734-pattys-pumpkin-patch.json](./223734-pattys-pumpkin-patch.json) |
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
@@ -11742,6 +11745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point of Mew | 242312 | [242312-point-of-mew.json](./242312-point-of-mew.json) |
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
+| Point of View | 150227 | [150227-point-of-view.json](./150227-point-of-view.json) |
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
 | Point Rescue Arcade | 211998 | [211998-point-rescue-arcade.json](./211998-point-rescue-arcade.json) |
 | Point Salad | 275422 | [275422-point-salad.json](./275422-point-salad.json) |
