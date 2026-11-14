@@ -3740,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrian's Quest | 382723 | [382723-adrians-quest.json](./382723-adrians-quest.json) |
 | Adrian's Tale | 219112 | [219112-adrians-tale.json](./219112-adrians-tale.json) |
 | Adrianne and Oliver | 216781 | [216781-adrianne-and-oliver.json](./216781-adrianne-and-oliver.json) |
+| Adriatic Pizza | 159421 | [159421-adriatic-pizza.json](./159421-adriatic-pizza.json) |
 | Adrift | 304673 | [304673-adrift.json](./304673-adrift.json) |
 | Adrift | 316451 | [316451-adrift.json](./316451-adrift.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
@@ -10140,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Octave Higher | 35688 | [35688-an-octave-higher.json](./35688-an-octave-higher.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
+| An Odd Tale | 159380 | [159380-an-odd-tale.json](./159380-an-odd-tale.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
 | An Odyssey: Echoes of War | 127696 | [127696-an-odyssey-echoes-of-war.json](./127696-an-odyssey-echoes-of-war.json) |
 | An Opportunity | 215527 | [215527-an-opportunity.json](./215527-an-opportunity.json) |
@@ -14142,6 +14144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: USAAF Mustang | 194887 | [194887-arcade-archives-usaaf-mustang.json](./194887-arcade-archives-usaaf-mustang.json) |
 | Arcade Archives: V'Ball | 413942 | [413942-arcade-archives-vball.json](./413942-arcade-archives-vball.json) |
 | Arcade Archives: Vandyke | 165600 | [165600-arcade-archives-vandyke.json](./165600-arcade-archives-vandyke.json) |
+| Arcade Archives: Vendetta | 159395 | [159395-arcade-archives-vendetta.json](./159395-arcade-archives-vendetta.json) |
 | Arcade Archives: Victory Road | 121357 | [121357-arcade-archives-victory-road.json](./121357-arcade-archives-victory-road.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
