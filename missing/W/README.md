@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
 | Wake Up Before You Get Killed, Minions! | 321872 | [321872-wake-up-before-you-get-killed-minions.json](./321872-wake-up-before-you-get-killed-minions.json) |
 | Wake Up Calls | 397842 | [397842-wake-up-calls.json](./397842-wake-up-calls.json) |
+| Wake Up Joe! | 96330 | [96330-wake-up-joe.json](./96330-wake-up-joe.json) |
 | Wake Up Magical Girl | 311428 | [311428-wake-up-magical-girl.json](./311428-wake-up-magical-girl.json) |
 | Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
 | Wake up the House | 360888 | [360888-wake-up-the-house.json](./360888-wake-up-the-house.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Lands | 144794 | [144794-wicked-lands.json](./144794-wicked-lands.json) |
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! | 5279 | [5279-wicked-monsters-blast.json](./5279-wicked-monsters-blast.json) |
+| Wicked Monsters Blast! HD | 96355 | [96355-wicked-monsters-blast-hd.json](./96355-wicked-monsters-blast-hd.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Night: Holy Knights | 403387 | [403387-wicked-night-holy-knights.json](./403387-wicked-night-holy-knights.json) |
 | Wicked Paradise | 192644 | [192644-wicked-paradise.json](./192644-wicked-paradise.json) |
@@ -10196,6 +10198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroom Classic | 421437 | [421437-wroom-classic.json](./421437-wroom-classic.json) |
+| Wroom Wroom Bundle! | 96357 | [96357-wroom-wroom-bundle.json](./96357-wroom-wroom-bundle.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
 | Wrought Flesh | 184780 | [184780-wrought-flesh.json](./184780-wrought-flesh.json) |
