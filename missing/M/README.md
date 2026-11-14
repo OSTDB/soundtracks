@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | MA 2: President Simulator | 345231 | [345231-ma-2-president-simulator.json](./345231-ma-2-president-simulator.json) |
 | Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
+| Ma Clinique a la Campagne | 144449 | [144449-ma-clinique-a-la-campagne.json](./144449-ma-clinique-a-la-campagne.json) |
 | Ma Furu Yoru no Rin: Animation | 194487 | [194487-ma-furu-yoru-no-rin-animation.json](./194487-ma-furu-yoru-no-rin-animation.json) |
 | Ma Kai Quest | 45636 | [45636-ma-kai-quest.json](./45636-ma-kai-quest.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
