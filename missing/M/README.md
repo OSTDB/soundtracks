@@ -9827,6 +9827,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
 | Memory Match Saga: Expansion Pack 11 | 157558 | [157558-memory-match-saga-expansion-pack-11.json](./157558-memory-match-saga-expansion-pack-11.json) |
 | Memory Match Saga: Expansion Pack 12 | 167330 | [167330-memory-match-saga-expansion-pack-12.json](./167330-memory-match-saga-expansion-pack-12.json) |
+| Memory Match Saga: Expansion Pack 13 | 167331 | [167331-memory-match-saga-expansion-pack-13.json](./167331-memory-match-saga-expansion-pack-13.json) |
+| Memory Match Saga: Expansion Pack 14 | 167332 | [167332-memory-match-saga-expansion-pack-14.json](./167332-memory-match-saga-expansion-pack-14.json) |
+| Memory Match Saga: Expansion Pack 15 | 167333 | [167333-memory-match-saga-expansion-pack-15.json](./167333-memory-match-saga-expansion-pack-15.json) |
 | Memory Match Saga: Expansion Pack 2 | 167321 | [167321-memory-match-saga-expansion-pack-2.json](./167321-memory-match-saga-expansion-pack-2.json) |
 | Memory Match Saga: Expansion Pack 3 | 167322 | [167322-memory-match-saga-expansion-pack-3.json](./167322-memory-match-saga-expansion-pack-3.json) |
 | Memory Match Saga: Expansion Pack 4 | 167323 | [167323-memory-match-saga-expansion-pack-4.json](./167323-memory-match-saga-expansion-pack-4.json) |
@@ -20695,6 +20698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
 | Ms. Germinator | 63059 | [63059-ms-germinator.json](./63059-ms-germinator.json) |
+| Ms. Han's After-School Tutoring | 167400 | [167400-ms-hans-after-school-tutoring.json](./167400-ms-hans-after-school-tutoring.json) |
 | Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
 | Ms. Holmes: Five Orange Pips - Collector's Edition | 170212 | [170212-ms-holmes-five-orange-pips-collectors-edition.json](./170212-ms-holmes-five-orange-pips-collectors-edition.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
