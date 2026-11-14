@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Hunting | 419635 | [419635-easter-hunting.json](./419635-easter-hunting.json) |
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
+| Easter Pairs | 157744 | [157744-easter-pairs.json](./157744-easter-pairs.json) |
 | Easter Riddles | 149678 | [149678-easter-riddles.json](./149678-easter-riddles.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon Simulator | 261831 | [261831-elon-simulator.json](./261831-elon-simulator.json) |
 | Elon Simulator 2019 | 284521 | [284521-elon-simulator-2019.json](./284521-elon-simulator-2019.json) |
 | Elon Simulator VR | 250994 | [250994-elon-simulator-vr.json](./250994-elon-simulator-vr.json) |
+| Elon Tycoon | 157753 | [157753-elon-tycoon.json](./157753-elon-tycoon.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elon's Dream | 157210 | [157210-elons-dream.json](./157210-elons-dream.json) |
 | Elon's Dream 2 | 169669 | [169669-elons-dream-2.json](./169669-elons-dream-2.json) |
@@ -3450,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily is Away | 14762 | [14762-emily-is-away.json](./14762-emily-is-away.json) |
 | Emily is Away <3 | 116053 | [116053-emily-is-away-3.json](./116053-emily-is-away-3.json) |
 | Emily Is Away Too | 25211 | [25211-emily-is-away-too.json](./25211-emily-is-away-too.json) |
+| Emily the Strange: Skate Strange | 157757 | [157757-emily-the-strange-skate-strange.json](./157757-emily-the-strange-skate-strange.json) |
 | Emily the Strange: Strangerous | 47765 | [47765-emily-the-strange-strangerous.json](./47765-emily-the-strange-strangerous.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
