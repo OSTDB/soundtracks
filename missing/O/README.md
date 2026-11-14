@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | One/Iro | 363666 | [363666-one-iro.json](./363666-one-iro.json) |
 | One4 | 158881 | [158881-one4.json](./158881-one4.json) |
+| OneBit Adventure | 125517 | [125517-onebit-adventure.json](./125517-onebit-adventure.json) |
 | OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
 | OneBit Berzerk | 208430 | [208430-onebit-berzerk.json](./208430-onebit-berzerk.json) |
 | OneBit Demon Attack | 292055 | [292055-onebit-demon-attack.json](./292055-onebit-demon-attack.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator | 220613 | [220613-operator.json](./220613-operator.json) |
 | Operator | 226706 | [226706-operator.json](./226706-operator.json) |
 | Operator | 250827 | [250827-operator.json](./250827-operator.json) |
+| Operator 41 | 125511 | [125511-operator-41.json](./125511-operator-41.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Operator Overload | 32378 | [32378-operator-overload.json](./32378-operator-overload.json) |
 | Operator Unknown | 374424 | [374424-operator-unknown.json](./374424-operator-unknown.json) |
