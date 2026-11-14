@@ -13495,6 +13495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Castle | 87280 | [87280-hustle-castle.json](./87280-hustle-castle.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
+| Hustle Game | 157255 | [157255-hustle-game.json](./157255-hustle-game.json) |
 | Hustle Kings VR | 25834 | [25834-hustle-kings-vr.json](./25834-hustle-kings-vr.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustle Simulator | 224980 | [224980-hustle-simulator.json](./224980-hustle-simulator.json) |
@@ -13866,6 +13867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperblade | 191070 | [191070-hyperblade.json](./191070-hyperblade.json) |
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
+| HyperBlade | 157224 | [157224-hyperblade.json](./157224-hyperblade.json) |
 | HyperBlade 2050: Dystopian Sports Manager | 372373 | [372373-hyperblade-2050-dystopian-sports-manager.json](./372373-hyperblade-2050-dystopian-sports-manager.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | Hyperboard Extreme | 369176 | [369176-hyperboard-extreme.json](./369176-hyperboard-extreme.json) |
