@@ -15350,6 +15350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Genocide | 58868 | [58868-mission-genocide.json](./58868-mission-genocide.json) |
 | Mission Guido | 359381 | [359381-mission-guido.json](./359381-mission-guido.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
+| Mission Impossible / Programmed Trip | 148038 | [148038-mission-impossible-programmed-trip.json](./148038-mission-impossible-programmed-trip.json) |
 | Mission Impossible III | 264084 | [264084-mission-impossible-iii.json](./264084-mission-impossible-iii.json) |
 | Mission Impossibubble | 239134 | [239134-mission-impossibubble.json](./239134-mission-impossibubble.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
@@ -16179,6 +16180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Frostpunk | 196159 | [196159-model-builder-frostpunk.json](./196159-model-builder-frostpunk.json) |
 | Model Builder: Military Pack | 332602 | [332602-model-builder-military-pack.json](./332602-model-builder-military-pack.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
+| Model Building Restoration | 148036 | [148036-model-building-restoration.json](./148036-model-building-restoration.json) |
 | Model Casting | 331094 | [331094-model-casting.json](./331094-model-casting.json) |
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
 | Model de Fight | 103767 | [103767-model-de-fight.json](./103767-model-de-fight.json) |
@@ -19795,6 +19797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motoko Hime Adventure | 259489 | [259489-motoko-hime-adventure.json](./259489-motoko-hime-adventure.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
+| Motor Assailant | 148058 | [148058-motor-assailant.json](./148058-motor-assailant.json) |
 | Motor City Online | 23809 | [23809-motor-city-online.json](./23809-motor-city-online.json) |
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor City Turf Wars | 426058 | [426058-motor-city-turf-wars.json](./426058-motor-city-turf-wars.json) |
@@ -20008,6 +20011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
 | Mount Quest: Take the Upper Hand Among Classmates | 343546 | [343546-mount-quest-take-the-upper-hand-among-classmates.json](./343546-mount-quest-take-the-upper-hand-among-classmates.json) |
+| Mount Serenity: Guardian of the Spirits | 148029 | [148029-mount-serenity-guardian-of-the-spirits.json](./148029-mount-serenity-guardian-of-the-spirits.json) |
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
 | Mount Wingsuit 2 | 199301 | [199301-mount-wingsuit-2.json](./199301-mount-wingsuit-2.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
