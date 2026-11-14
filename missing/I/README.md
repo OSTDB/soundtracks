@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.C.B.M. Attack | 172407 | [172407-i-c-b-m-attack.json](./172407-i-c-b-m-attack.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.T.O.A.N. | 262179 | [262179-i-c-t-o-a-n.json](./262179-i-c-t-o-a-n.json) |
+| I.C.U. | 137715 | [137715-i-c-u.json](./137715-i-c-u.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
 | I.Cartel | 115798 | [115798-i-cartel.json](./115798-i-cartel.json) |
 | I.D.F.K. | 404366 | [404366-i-d-f-k.json](./404366-i-d-f-k.json) |
