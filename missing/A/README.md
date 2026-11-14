@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 212875 | [212875-advent-calendar.json](./212875-advent-calendar.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
+| Advent Heroes | 114468 | [114468-advent-heroes.json](./114468-advent-heroes.json) |
 | Advent Incremental | 382574 | [382574-advent-incremental.json](./382574-advent-incremental.json) |
 | Advent Neon | 139128 | [139128-advent-neon.json](./139128-advent-neon.json) |
 | Advent of Ascension | 232626 | [232626-advent-of-ascension.json](./232626-advent-of-ascension.json) |
@@ -13068,6 +13069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | AploVVare Collection:18+ DLC | 266990 | [266990-aplovvare-collection-18-dlc.json](./266990-aplovvare-collection-18-dlc.json) |
 | Aplowcalypse | 32769 | [32769-aplowcalypse.json](./32769-aplowcalypse.json) |
+| Apoapsis | 114494 | [114494-apoapsis.json](./114494-apoapsis.json) |
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalich | 175853 | [175853-apocalich.json](./175853-apocalich.json) |
 | Apocalipesec | 179876 | [179876-apocalipesec.json](./179876-apocalipesec.json) |
@@ -13209,6 +13211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollyon: River of Life | 158365 | [158365-apollyon-river-of-life.json](./158365-apollyon-river-of-life.json) |
 | Apologies, for what it's worth. | 181809 | [181809-apologies-for-what-its-worth.json](./181809-apologies-for-what-its-worth.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
+| Apolune | 114476 | [114476-apolune.json](./114476-apolune.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
 | Apolysis | 191304 | [191304-apolysis.json](./191304-apolysis.json) |
 | Apomo District | 301062 | [301062-apomo-district.json](./301062-apomo-district.json) |
@@ -15084,6 +15087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area F2 | 133607 | [133607-area-f2.json](./133607-area-f2.json) |
 | Area Man Lives | 130141 | [130141-area-man-lives.json](./130141-area-man-lives.json) |
 | Area Man Lives | 201728 | [201728-area-man-lives.json](./201728-area-man-lives.json) |
+| Area of Darkness: Sentinel | 114466 | [114466-area-of-darkness-sentinel.json](./114466-area-of-darkness-sentinel.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
