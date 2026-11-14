@@ -10098,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
 | Holy Paladin Cynthia | 235390 | [235390-holy-paladin-cynthia.json](./235390-holy-paladin-cynthia.json) |
 | Holy plague | 181271 | [181271-holy-plague.json](./181271-holy-plague.json) |
+| Holy Potatoes! A Bundle?! | 119104 | [119104-holy-potatoes-a-bundle.json](./119104-holy-potatoes-a-bundle.json) |
 | Holy Potatoes! A Spy Story?! | 96384 | [96384-holy-potatoes-a-spy-story.json](./96384-holy-potatoes-a-spy-story.json) |
 | Holy Potatoes! A Weapon Shop?!: Spud Tales - Journey to Olympus | 124836 | [124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json](./124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json) |
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
