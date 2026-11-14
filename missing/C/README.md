@@ -15942,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Trip | 117452 | [117452-cooking-trip.json](./117452-cooking-trip.json) |
 | Cooking Trip: Back on the Road | 120385 | [120385-cooking-trip-back-on-the-road.json](./120385-cooking-trip-back-on-the-road.json) |
 | Cooking Trip: Collector's Edition | 273341 | [273341-cooking-trip-collectors-edition.json](./273341-cooking-trip-collectors-edition.json) |
+| Cooking Trip: New Challenge | 163580 | [163580-cooking-trip-new-challenge.json](./163580-cooking-trip-new-challenge.json) |
 | Cooking Trip: New Challenge - Collector's Edition | 276299 | [276299-cooking-trip-new-challenge-collectors-edition.json](./276299-cooking-trip-new-challenge-collectors-edition.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons - 3 in 1 Bundle Upgrade Edition | 399815 | [399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json](./399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json) |
