@@ -3701,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Crisis: Programmers Search for Money | 108813 | [108813-cash-crisis-programmers-search-for-money.json](./108813-cash-crisis-programmers-search-for-money.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
 | Cash Dash Smash | 96589 | [96589-cash-dash-smash.json](./96589-cash-dash-smash.json) |
+| Cash Grab | 90263 | [90263-cash-grab.json](./90263-cash-grab.json) |
 | Cash Guardian: Collector Operation "Capital Defense" | 328096 | [328096-cash-guardian-collector-operation-capital-defense.json](./328096-cash-guardian-collector-operation-capital-defense.json) |
 | Cash Guns Chaos | 26101 | [26101-cash-guns-chaos.json](./26101-cash-guns-chaos.json) |
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
