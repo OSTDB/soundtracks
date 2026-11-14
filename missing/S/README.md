@@ -33552,6 +33552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition | 84580 | [84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json](./84580-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-black-goat-of-the-woods-edition.json) |
+| Super Army of Tentacles 3: XPack II.V - Apocalypse Bunny Saves Christmas | 167936 | [167936-super-army-of-tentacles-3-xpack-ii-v-apocalypse-bunny-saves-christmas.json](./167936-super-army-of-tentacles-3-xpack-ii-v-apocalypse-bunny-saves-christmas.json) |
 | Super Army War | 6617 | [6617-super-army-war.json](./6617-super-army-war.json) |
 | Super Arrow Online | 228135 | [228135-super-arrow-online.json](./228135-super-arrow-online.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
