@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinist | 208096 | [208096-machinist.json](./208096-machinist.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
+| Macho de Pon! ZZ | 119115 | [119115-macho-de-pon-zz.json](./119115-macho-de-pon-zz.json) |
 | Macho Harvest: Muscular Harvest Puzzle | 334600 | [334600-macho-harvest-muscular-harvest-puzzle.json](./334600-macho-harvest-muscular-harvest-puzzle.json) |
 | Macho Mouse | 40079 | [40079-macho-mouse.json](./40079-macho-mouse.json) |
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansions of Madness: Altered Fates | 155415 | [155415-mansions-of-madness-altered-fates.json](./155415-mansions-of-madness-altered-fates.json) |
 | Mansions of Madness: Dark Reflections | 168929 | [168929-mansions-of-madness-dark-reflections.json](./168929-mansions-of-madness-dark-reflections.json) |
 | Mansions of Madness: What Lies Within | 168928 | [168928-mansions-of-madness-what-lies-within.json](./168928-mansions-of-madness-what-lies-within.json) |
+| Manta | 118463 | [118463-manta.json](./118463-manta.json) |
 | Manticore | 293581 | [293581-manticore.json](./293581-manticore.json) |
 | Mantis Burn Racing | 24918 | [24918-mantis-burn-racing.json](./24918-mantis-burn-racing.json) |
 | Mantis Burn Racing: Battle Cars | 170307 | [170307-mantis-burn-racing-battle-cars.json](./170307-mantis-burn-racing-battle-cars.json) |
@@ -9907,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lost-Pairs | 181017 | [181017-memory-lost-pairs.json](./181017-memory-lost-pairs.json) |
 | Memory Mania | 83098 | [83098-memory-mania.json](./83098-memory-mania.json) |
 | Memory Manor | 40887 | [40887-memory-manor.json](./40887-memory-manor.json) |
+| Memory Mansion | 119110 | [119110-memory-mansion.json](./119110-memory-mansion.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match | 230700 | [230700-memory-match.json](./230700-memory-match.json) |
 | Memory Match - An Educational Game from School Zone | 99343 | [99343-memory-match-an-educational-game-from-school-zone.json](./99343-memory-match-an-educational-game-from-school-zone.json) |
@@ -17370,6 +17373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Cards: Skill Pack - Card of Named | 376426 | [376426-monster-cards-skill-pack-card-of-named.json](./376426-monster-cards-skill-pack-card-of-named.json) |
 | Monster Cards: Skill Pack - Card of Sunrise | 376424 | [376424-monster-cards-skill-pack-card-of-sunrise.json](./376424-monster-cards-skill-pack-card-of-sunrise.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
+| Monster Catch | 118475 | [118475-monster-catch.json](./118475-monster-catch.json) |
 | Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
 | Monster Chase | 60566 | [60566-monster-chase.json](./60566-monster-chase.json) |
@@ -19147,6 +19151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Cassie Quinn | 388870 | [388870-mortal-kombat-11-cassie-quinn.json](./388870-mortal-kombat-11-cassie-quinn.json) |
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
+| Mortal Kombat 11: Frost | 119130 | [119130-mortal-kombat-11-frost.json](./119130-mortal-kombat-11-frost.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
 | Mortal Kombat 11: Game & Film Double Pack | 324767 | [324767-mortal-kombat-11-game-and-film-double-pack.json](./324767-mortal-kombat-11-game-and-film-double-pack.json) |
 | Mortal Kombat 11: Gothic Horror Skin Pack | 405350 | [405350-mortal-kombat-11-gothic-horror-skin-pack.json](./405350-mortal-kombat-11-gothic-horror-skin-pack.json) |
@@ -19168,6 +19173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Rambo | 139444 | [139444-mortal-kombat-11-rambo.json](./139444-mortal-kombat-11-rambo.json) |
 | Mortal Kombat 11: RoboCop | 139440 | [139440-mortal-kombat-11-robocop.json](./139440-mortal-kombat-11-robocop.json) |
 | Mortal Kombat 11: Shang Tsung | 133273 | [133273-mortal-kombat-11-shang-tsung.json](./133273-mortal-kombat-11-shang-tsung.json) |
+| Mortal Kombat 11: Shao Kahn | 119131 | [119131-mortal-kombat-11-shao-kahn.json](./119131-mortal-kombat-11-shao-kahn.json) |
 | Mortal Kombat 11: Sheeva | 139441 | [139441-mortal-kombat-11-sheeva.json](./139441-mortal-kombat-11-sheeva.json) |
 | Mortal Kombat 11: Sindel | 133276 | [133276-mortal-kombat-11-sindel.json](./133276-mortal-kombat-11-sindel.json) |
 | Mortal Kombat 11: Spawn | 133277 | [133277-mortal-kombat-11-spawn.json](./133277-mortal-kombat-11-spawn.json) |
@@ -21052,6 +21058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudpies | 91480 | [91480-mudpies.json](./91480-mudpies.json) |
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | MudRunner VR | 299809 | [299809-mudrunner-vr.json](./299809-mudrunner-vr.json) |
+| MudRunner: American Wilds Edition | 119105 | [119105-mudrunner-american-wilds-edition.json](./119105-mudrunner-american-wilds-edition.json) |
 | MudRunner: Old-timers | 117888 | [117888-mudrunner-old-timers.json](./117888-mudrunner-old-timers.json) |
 | MudRunner: The Ridge | 117890 | [117890-mudrunner-the-ridge.json](./117890-mudrunner-the-ridge.json) |
 | MudRunner: The Valley | 117889 | [117889-mudrunner-the-valley.json](./117889-mudrunner-the-valley.json) |
