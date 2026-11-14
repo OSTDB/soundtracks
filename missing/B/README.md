@@ -5258,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Be Zero | 101649 | [101649-be-zero.json](./101649-be-zero.json) |
 | BE-A Walker | 102386 | [102386-be-a-walker.json](./102386-be-a-walker.json) |
+| Be-be-bears! | 99863 | [99863-be-be-bears.json](./99863-be-be-bears.json) |
 | Be-Bop High School: Koukousei Gokuraku Densetsu | 48546 | [48546-be-bop-high-school-koukousei-gokuraku-densetsu.json](./48546-be-bop-high-school-koukousei-gokuraku-densetsu.json) |
 | Be-Yond: Kurodaishou ni Mirareteru | 256643 | [256643-be-yond-kurodaishou-ni-mirareteru.json](./256643-be-yond-kurodaishou-ni-mirareteru.json) |
 | Be: Twin | 155712 | [155712-be-twin.json](./155712-be-twin.json) |
@@ -17258,6 +17259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge 4.0 | 362440 | [362440-bridge-4-0.json](./362440-bridge-4-0.json) |
 | Bridge 5.0 | 362441 | [362441-bridge-5-0.json](./362441-bridge-5-0.json) |
 | Bridge Baron | 88982 | [88982-bridge-baron.json](./88982-bridge-baron.json) |
+| Bridge Basics | 99830 | [99830-bridge-basics.json](./99830-bridge-basics.json) |
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Builder Adventure | 147603 | [147603-bridge-builder-adventure.json](./147603-bridge-builder-adventure.json) |
