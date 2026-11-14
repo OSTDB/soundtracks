@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Negligee: Opposites Attract | 160126 | [160126-negligee-opposites-attract.json](./160126-negligee-opposites-attract.json) |
 | Negligee: Spring Clean | 159218 | [159218-negligee-spring-clean.json](./159218-negligee-spring-clean.json) |
+| Negotiation | 128710 | [128710-negotiation.json](./128710-negotiation.json) |
 | Negotiation Love | 369108 | [369108-negotiation-love.json](./369108-negotiation-love.json) |
 | Negotiations Have Failed! | 374179 | [374179-negotiations-have-failed.json](./374179-negotiations-have-failed.json) |
 | Nehahra | 195994 | [195994-nehahra.json](./195994-nehahra.json) |
@@ -7761,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing to Declare | 410720 | [410720-nothing-to-declare.json](./410720-nothing-to-declare.json) |
 | Nothing To Declare | 366945 | [366945-nothing-to-declare.json](./366945-nothing-to-declare.json) |
 | Nothing to God | 88138 | [88138-nothing-to-god.json](./88138-nothing-to-god.json) |
+| Nothing to Hide Demo | 128696 | [128696-nothing-to-hide-demo.json](./128696-nothing-to-hide-demo.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
 | Nothing to Remember | 150703 | [150703-nothing-to-remember.json](./150703-nothing-to-remember.json) |
 | Nothing to Say | 178748 | [178748-nothing-to-say.json](./178748-nothing-to-say.json) |
