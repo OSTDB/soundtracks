@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want Out! | 179629 | [179629-i-want-out.json](./179629-i-want-out.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be a Girl and I Don't Know Why That's so Hard | 240121 | [240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json](./240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json) |
+| I Want to be a Triangle | 134734 | [134734-i-want-to-be-a-triangle.json](./134734-i-want-to-be-a-triangle.json) |
 | I Want to Be a Werewolf | 250676 | [250676-i-want-to-be-a-werewolf.json](./250676-i-want-to-be-a-werewolf.json) |
 | I Want to be Alive | 252610 | [252610-i-want-to-be-alive.json](./252610-i-want-to-be-alive.json) |
 | I Want To Be Happy | 293672 | [293672-i-want-to-be-happy.json](./293672-i-want-to-be-happy.json) |
