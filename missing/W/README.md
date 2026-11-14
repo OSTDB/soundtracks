@@ -6197,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind of Life | 189866 | [189866-wind-of-life.json](./189866-wind-of-life.json) |
 | Wind of Luck: Arena | 61206 | [61206-wind-of-luck-arena.json](./61206-wind-of-luck-arena.json) |
+| Wind of Shuriken | 148606 | [148606-wind-of-shuriken.json](./148606-wind-of-shuriken.json) |
 | Wind Peaks | 135843 | [135843-wind-peaks.json](./135843-wind-peaks.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
