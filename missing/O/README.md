@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
 | One Mistake | 418245 | [418245-one-mistake.json](./418245-one-mistake.json) |
+| One Monster RPG: Running out of slime | 121819 | [121819-one-monster-rpg-running-out-of-slime.json](./121819-one-monster-rpg-running-out-of-slime.json) |
 | One More Adventure | 423307 | [423307-one-more-adventure.json](./423307-one-more-adventure.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Order Zero | 377068 | [377068-out-of-order-zero.json](./377068-out-of-order-zero.json) |
 | Out of Ore | 208668 | [208668-out-of-ore.json](./208668-out-of-ore.json) |
 | Out of Ore: Mine Decoration Supporter Pack | 284881 | [284881-out-of-ore-mine-decoration-supporter-pack.json](./284881-out-of-ore-mine-decoration-supporter-pack.json) |
+| Out of Place | 121821 | [121821-out-of-place.json](./121821-out-of-place.json) |
 | Out of Place: Origin | 376136 | [376136-out-of-place-origin.json](./376136-out-of-place-origin.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Range | 403204 | [403204-out-of-range.json](./403204-out-of-range.json) |
