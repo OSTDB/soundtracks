@@ -17820,6 +17820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Physics | 331232 | [331232-monster-physics.json](./331232-monster-physics.json) |
 | Monster Pitfall | 56841 | [56841-monster-pitfall.json](./56841-monster-pitfall.json) |
+| Monster planet | 122491 | [122491-monster-planet.json](./122491-monster-planet.json) |
 | Monster Planet 2 | 233426 | [233426-monster-planet-2.json](./233426-monster-planet-2.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
 | Monster Popper | 336230 | [336230-monster-popper.json](./336230-monster-popper.json) |
