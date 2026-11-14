@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Sengoku | 250237 | [250237-heart-of-sengoku.json](./250237-heart-of-sengoku.json) |
 | Heart of Shadows | 301223 | [301223-heart-of-shadows.json](./301223-heart-of-shadows.json) |
 | Heart of Siam | 158916 | [158916-heart-of-siam.json](./158916-heart-of-siam.json) |
+| Heart of Smoke | 116516 | [116516-heart-of-smoke.json](./116516-heart-of-smoke.json) |
 | Heart of Squid | 312782 | [312782-heart-of-squid.json](./312782-heart-of-squid.json) |
 | Heart of Stone | 361003 | [361003-heart-of-stone.json](./361003-heart-of-stone.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
@@ -6910,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Indianapolis 500 | 209870 | [209870-heroes-of-the-indianapolis-500.json](./209870-heroes-of-the-indianapolis-500.json) |
 | Heroes of the Monkey Tavern | 32360 | [32360-heroes-of-the-monkey-tavern.json](./32360-heroes-of-the-monkey-tavern.json) |
+| Heroes of the Multiverse | 117213 | [117213-heroes-of-the-multiverse.json](./117213-heroes-of-the-multiverse.json) |
 | Heroes of the Multiverse | 175687 | [175687-heroes-of-the-multiverse.json](./175687-heroes-of-the-multiverse.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Offworld Arena | 102371 | [102371-heroes-of-the-offworld-arena.json](./102371-heroes-of-the-offworld-arena.json) |
@@ -12040,6 +12042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Monsters | 105851 | [105851-hotel-transylvania-monsters.json](./105851-hotel-transylvania-monsters.json) |
 | Hotel Transylvania: Scary-Tale Adventures | 185966 | [185966-hotel-transylvania-scary-tale-adventures.json](./185966-hotel-transylvania-scary-tale-adventures.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
+| Hotel Tutwin | 116518 | [116518-hotel-tutwin.json](./116518-hotel-tutwin.json) |
 | Hotel Tycoon | 180923 | [180923-hotel-tycoon.json](./180923-hotel-tycoon.json) |
 | Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
