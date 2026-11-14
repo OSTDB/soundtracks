@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
 | G Squad | 408577 | [408577-g-squad.json](./408577-g-squad.json) |
+| G String | 140064 | [140064-g-string.json](./140064-g-string.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Astro | 346327 | [346327-g-astro.json](./346327-g-astro.json) |
 | G-Ball | 9238 | [9238-g-ball.json](./9238-g-ball.json) |
