@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight-Minute Empire: Archipelago of Azra Map | 171947 | [171947-eight-minute-empire-archipelago-of-azra-map.json](./171947-eight-minute-empire-archipelago-of-azra-map.json) |
 | Eight-Minute Empire: Complete Edition | 147688 | [147688-eight-minute-empire-complete-edition.json](./147688-eight-minute-empire-complete-edition.json) |
 | Eight-Minute Empire: Mountains | 171946 | [171946-eight-minute-empire-mountains.json](./171946-eight-minute-empire-mountains.json) |
+| Eight.Domino.Heart | 107979 | [107979-eight-domino-heart.json](./107979-eight-domino-heart.json) |
 | EightBound Regal | 225790 | [225790-eightbound-regal.json](./225790-eightbound-regal.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
