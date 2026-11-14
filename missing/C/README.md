@@ -19280,6 +19280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimes of War | 21369 | [21369-crimes-of-war.json](./21369-crimes-of-war.json) |
 | Crimes: Open Cases | 299858 | [299858-crimes-open-cases.json](./299858-crimes-open-cases.json) |
 | CrimeSceneCleaners | 276258 | [276258-crimescenecleaners.json](./276258-crimescenecleaners.json) |
+| Crimesight | 153560 | [153560-crimesight.json](./153560-crimesight.json) |
 | CrimeStory: In the restaurant | 219934 | [219934-crimestory-in-the-restaurant.json](./219934-crimestory-in-the-restaurant.json) |
 | CrimeTrip | 240866 | [240866-crimetrip.json](./240866-crimetrip.json) |
 | CrimeWave | 73152 | [73152-crimewave.json](./73152-crimewave.json) |
@@ -22089,6 +22090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curses | 346510 | [346510-curses.json](./346510-curses.json) |
 | Curses | 92940 | [92940-curses.json](./92940-curses.json) |
 | Curses of Tarot | 186422 | [186422-curses-of-tarot.json](./186422-curses-of-tarot.json) |
+| Cursetorn | 153558 | [153558-cursetorn.json](./153558-cursetorn.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
 | Cursifix | 376638 | [376638-cursifix.json](./376638-cursifix.json) |
