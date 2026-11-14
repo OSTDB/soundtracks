@@ -8453,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
 | Riot City | 39851 | [39851-riot-city.json](./39851-riot-city.json) |
 | Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
+| Riot Control Simulator | 155742 | [155742-riot-control-simulator.json](./155742-riot-control-simulator.json) |
 | Riot of Willy | 266807 | [266807-riot-of-willy.json](./266807-riot-of-willy.json) |
 | Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
 | Riot Police | 63379 | [63379-riot-police.json](./63379-riot-police.json) |
@@ -13634,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunBunRunBun | 275977 | [275977-runbunrunbun.json](./275977-runbunrunbun.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rundom | 149817 | [149817-rundom.json](./149817-rundom.json) |
+| RunDrill | 155741 | [155741-rundrill.json](./155741-rundrill.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
 | Rune Ark | 334448 | [334448-rune-ark.json](./334448-rune-ark.json) |
 | Rune Bender VR | 262803 | [262803-rune-bender-vr.json](./262803-rune-bender-vr.json) |
