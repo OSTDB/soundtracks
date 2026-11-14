@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
 | Candy Witch Games for Kids | 102488 | [102488-candy-witch-games-for-kids.json](./102488-candy-witch-games-for-kids.json) |
+| Candy Worm | 128685 | [128685-candy-worm.json](./128685-candy-worm.json) |
 | Candy Wrapper | 184297 | [184297-candy-wrapper.json](./184297-candy-wrapper.json) |
 | Candy Zero | 249313 | [249313-candy-zero.json](./249313-candy-zero.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catrophy Trail | 230346 | [230346-catrophy-trail.json](./230346-catrophy-trail.json) |
 | Catrun | 384312 | [384312-catrun.json](./384312-catrun.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
+| Cats | 128682 | [128682-cats.json](./128682-cats.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
 | Cats 'n Blocks | 332280 | [332280-cats-n-blocks.json](./332280-cats-n-blocks.json) |
 | Cats & Cakes: The Card Game | 372703 | [372703-cats-and-cakes-the-card-game.json](./372703-cats-and-cakes-the-card-game.json) |
@@ -15604,6 +15606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
 | Continue/Stop/Rise | 222976 | [222976-continue-stop-rise.json](./222976-continue-stop-rise.json) |
+| Continuity | 128662 | [128662-continuity.json](./128662-continuity.json) |
 | Continuity | 380088 | [380088-continuity.json](./380088-continuity.json) |
 | Continuity 2 | 92551 | [92551-continuity-2.json](./92551-continuity-2.json) |
 | Continuous Girl | 55558 | [55558-continuous-girl.json](./55558-continuous-girl.json) |
@@ -16998,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
 | Cosmogenesis | 222625 | [222625-cosmogenesis.json](./222625-cosmogenesis.json) |
+| Cosmogenie | 128689 | [128689-cosmogenie.json](./128689-cosmogenie.json) |
 | Cosmogonic | 235428 | [235428-cosmogonic.json](./235428-cosmogonic.json) |
 | Cosmogony: The Complete Collection | 270450 | [270450-cosmogony-the-complete-collection.json](./270450-cosmogony-the-complete-collection.json) |
 | CosmoKick.io | 405868 | [405868-cosmokick-io.json](./405868-cosmokick-io.json) |
