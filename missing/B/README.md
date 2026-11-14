@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Credit? No Problem! | 313028 | [313028-bad-credit-no-problem.json](./313028-bad-credit-no-problem.json) |
 | Bad Dark Cistern | 271365 | [271365-bad-dark-cistern.json](./271365-bad-dark-cistern.json) |
 | Bad Day | 104824 | [104824-bad-day.json](./104824-bad-day.json) |
+| Bad Day | 88333 | [88333-bad-day.json](./88333-bad-day.json) |
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
@@ -4516,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Support: Deluxe Edition | 256110 | [256110-battle-support-deluxe-edition.json](./256110-battle-support-deluxe-edition.json) |
 | Battle Support: Ultimate Edition | 256109 | [256109-battle-support-ultimate-edition.json](./256109-battle-support-ultimate-edition.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
+| Battle Supremacy: Evolution | 88673 | [88673-battle-supremacy-evolution.json](./88673-battle-supremacy-evolution.json) |
 | Battle Supremacy: Ground Assault | 122468 | [122468-battle-supremacy-ground-assault.json](./122468-battle-supremacy-ground-assault.json) |
 | Battle Survival in Space | 215472 | [215472-battle-survival-in-space.json](./215472-battle-survival-in-space.json) |
 | Battle Survive Hentai | 126399 | [126399-battle-survive-hentai.json](./126399-battle-survive-hentai.json) |
@@ -8486,6 +8488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
 | Big-breast Angel Flleytea | 97539 | [97539-big-breast-angel-flleytea.json](./97539-big-breast-angel-flleytea.json) |
+| Big-Foot: Survival Hunter | 88332 | [88332-big-foot-survival-hunter.json](./88332-big-foot-survival-hunter.json) |
 | Big-Time Butter Baron | 313178 | [313178-big-time-butter-baron.json](./313178-big-time-butter-baron.json) |
 | Big's Big World | 224874 | [224874-bigs-big-world.json](./224874-bigs-big-world.json) |
 | Big's Fishing | 198597 | [198597-bigs-fishing.json](./198597-bigs-fishing.json) |
@@ -18359,6 +18362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Land | 119141 | [119141-bubble-land.json](./119141-bubble-land.json) |
 | Bubble Lead | 359371 | [359371-bubble-lead.json](./359371-bubble-lead.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
+| Bubble Mania | 88515 | [88515-bubble-mania.json](./88515-bubble-mania.json) |
 | Bubble Melody | 254410 | [254410-bubble-melody.json](./254410-bubble-melody.json) |
 | Bubble Memories: The Story of Bubble Bobble III | 64310 | [64310-bubble-memories-the-story-of-bubble-bobble-iii.json](./64310-bubble-memories-the-story-of-bubble-bobble-iii.json) |
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
