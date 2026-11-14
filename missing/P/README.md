@@ -13373,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly and the Marble Maze | 109414 | [109414-poly-and-the-marble-maze.json](./109414-poly-and-the-marble-maze.json) |
 | Poly art coloring pages - Color by number low poly | 107095 | [107095-poly-art-coloring-pages-color-by-number-low-poly.json](./107095-poly-art-coloring-pages-color-by-number-low-poly.json) |
 | Poly Art: Coloring Puzzle Game | 100322 | [100322-poly-art-coloring-puzzle-game.json](./100322-poly-art-coloring-puzzle-game.json) |
+| Poly Artbook | 104308 | [104308-poly-artbook.json](./104308-poly-artbook.json) |
 | Poly Backrooms | 262906 | [262906-poly-backrooms.json](./262906-poly-backrooms.json) |
 | Poly Beats | 288150 | [288150-poly-beats.json](./288150-poly-beats.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
@@ -17072,6 +17073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profezia | 80986 | [80986-profezia.json](./80986-profezia.json) |
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
+| Proficient Paddles | 104323 | [104323-proficient-paddles.json](./104323-proficient-paddles.json) |
 | Proficient Paddles Deluxe | 115935 | [115935-proficient-paddles-deluxe.json](./115935-proficient-paddles-deluxe.json) |
 | Profiler Files: New Orleans | 280384 | [280384-profiler-files-new-orleans.json](./280384-profiler-files-new-orleans.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
