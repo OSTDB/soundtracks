@@ -6443,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
 | Little Crow, Little Crow | 384491 | [384491-little-crow-little-crow.json](./384491-little-crow-little-crow.json) |
+| Little Cube Trip | 165781 | [165781-little-cube-trip.json](./165781-little-cube-trip.json) |
 | Little Dasher! | 271001 | [271001-little-dasher.json](./271001-little-dasher.json) |
 | Little Demon | 61476 | [61476-little-demon.json](./61476-little-demon.json) |
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
