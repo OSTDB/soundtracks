@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daenerys Miracle | 157755 | [157755-daenerys-miracle.json](./157755-daenerys-miracle.json) |
 | Daescent | 408162 | [408162-daescent.json](./408162-daescent.json) |
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
+| Dafen Oil Painting Village: An Immersive Reality | 111793 | [111793-dafen-oil-painting-village-an-immersive-reality.json](./111793-dafen-oil-painting-village-an-immersive-reality.json) |
 | Daffodil Yellow: A Few Poems From an Insect Collector | 149650 | [149650-daffodil-yellow-a-few-poems-from-an-insect-collector.json](./149650-daffodil-yellow-a-few-poems-from-an-insect-collector.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
 | Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Data mining 0 | 116944 | [116944-data-mining-0.json](./116944-data-mining-0.json) |
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
+| Data mining 3 | 111947 | [111947-data-mining-3.json](./111947-data-mining-3.json) |
 | Data mining 4 | 113563 | [113563-data-mining-4.json](./113563-data-mining-4.json) |
 | Data mining 5 | 114313 | [114313-data-mining-5.json](./114313-data-mining-5.json) |
 | Data mining 6 | 115125 | [115125-data-mining-6.json](./115125-data-mining-6.json) |
@@ -7829,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict Planet | 420039 | [420039-derelict-planet.json](./420039-derelict-planet.json) |
 | Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
+| Dereliction | 111955 | [111955-dereliction.json](./111955-dereliction.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
 | Derelicts | 191345 | [191345-derelicts.json](./191345-derelicts.json) |
 | DerenGo II | 62656 | [62656-derengo-ii.json](./62656-derengo-ii.json) |
@@ -8660,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Dotson: Chapter Two | 368627 | [368627-detective-dotson-chapter-two.json](./368627-detective-dotson-chapter-two.json) |
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
+| Detective escape1 | 111958 | [111958-detective-escape1.json](./111958-detective-escape1.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
 | Detective Face | 279175 | [279175-detective-face.json](./279175-detective-face.json) |
 | Detective Failure | 103768 | [103768-detective-failure.json](./103768-detective-failure.json) |
@@ -11406,6 +11410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disembodied | 306928 | [306928-disembodied.json](./306928-disembodied.json) |
 | Disembowel | 219750 | [219750-disembowel.json](./219750-disembowel.json) |
 | Disenchantment Heart | 161161 | [161161-disenchantment-heart.json](./161161-disenchantment-heart.json) |
+| Disenchantment Nirvana | 111776 | [111776-disenchantment-nirvana.json](./111776-disenchantment-nirvana.json) |
 | Disengage the Simulator | 271536 | [271536-disengage-the-simulator.json](./271536-disengage-the-simulator.json) |
 | Diseviled | 101846 | [101846-diseviled.json](./101846-diseviled.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
@@ -15515,6 +15520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
+| Douguo Keju | 111805 | [111805-douguo-keju.json](./111805-douguo-keju.json) |
 | Dòuhún Dàlù | 156770 | [156770-douhun-dalu.json](./156770-douhun-dalu.json) |
 | Doujin Jigsaw Puzzle | 334806 | [334806-doujin-jigsaw-puzzle.json](./334806-doujin-jigsaw-puzzle.json) |
 | Doujins and Dragons | 186158 | [186158-doujins-and-dragons.json](./186158-doujins-and-dragons.json) |
@@ -15541,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dovetail Games Flight School | 24722 | [24722-dovetail-games-flight-school.json](./24722-dovetail-games-flight-school.json) |
 | Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
+| DoVille | 111956 | [111956-doville.json](./111956-doville.json) |
 | Dowajwo! Enjeu | 208739 | [208739-dowajwo-enjeu.json](./208739-dowajwo-enjeu.json) |
 | Down | 295887 | [295887-down.json](./295887-down.json) |
 | Down & Out | 155799 | [155799-down-and-out.json](./155799-down-and-out.json) |
@@ -18734,6 +18741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Drome van Slange Bundle | 331558 | [331558-drome-van-slange-bundle.json](./331558-drome-van-slange-bundle.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
+| Dromenon - Academic Version | 111763 | [111763-dromenon-academic-version.json](./111763-dromenon-academic-version.json) |
 | Drömjobbet i Rosemond Valley | 196700 | [196700-dromjobbet-i-rosemond-valley.json](./196700-dromjobbet-i-rosemond-valley.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
 | Drone 'em All | 311194 | [311194-drone-em-all.json](./311194-drone-em-all.json) |
