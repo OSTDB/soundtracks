@@ -4485,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Swing Table Tennis Oculus | 30992 | [30992-vr-swing-table-tennis-oculus.json](./30992-vr-swing-table-tennis-oculus.json) |
 | VR T72 Battle in Afghanistan | 236920 | [236920-vr-t72-battle-in-afghanistan.json](./236920-vr-t72-battle-in-afghanistan.json) |
 | VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
+| VR takibi ~bonefire simulator~ | 121072 | [121072-vr-takibi-bonefire-simulator.json](./121072-vr-takibi-bonefire-simulator.json) |
 | VR Tennis | 247042 | [247042-vr-tennis.json](./247042-vr-tennis.json) |
 | VR Tennis Online | 53016 | [53016-vr-tennis-online.json](./53016-vr-tennis-online.json) |
 | VR the Anime Girls Method | 91065 | [91065-vr-the-anime-girls-method.json](./91065-vr-the-anime-girls-method.json) |
