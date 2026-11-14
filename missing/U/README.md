@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ungeon | 172268 | [172268-ungeon.json](./172268-ungeon.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
+| Ungrateful Birds | 136532 | [136532-ungrateful-birds.json](./136532-ungrateful-birds.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
 | Ungrateful Birds: No Good Deed | 231327 | [231327-ungrateful-birds-no-good-deed.json](./231327-ungrateful-birds-no-good-deed.json) |
 | Ungrounded | 134593 | [134593-ungrounded.json](./134593-ungrounded.json) |
