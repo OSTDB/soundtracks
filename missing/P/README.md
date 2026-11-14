@@ -8547,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piratopia: Raiders of Pirate Bay | 239585 | [239585-piratopia-raiders-of-pirate-bay.json](./239585-piratopia-raiders-of-pirate-bay.json) |
 | Pirofauna | 317189 | [317189-pirofauna.json](./317189-pirofauna.json) |
 | Piroker | 411258 | [411258-piroker.json](./411258-piroker.json) |
+| Piroku | 133519 | [133519-piroku.json](./133519-piroku.json) |
 | Piron Virus | 275091 | [275091-piron-virus.json](./275091-piron-virus.json) |
 | Piroot | 297977 | [297977-piroot.json](./297977-piroot.json) |
 | Piropa | 382587 | [382587-piropa.json](./382587-piropa.json) |
