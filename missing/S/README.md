@@ -11569,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Line: Armored Core | 44703 | [44703-silent-line-armored-core.json](./44703-silent-line-armored-core.json) |
 | Silent Love | 237794 | [237794-silent-love.json](./237794-silent-love.json) |
 | Silent Mainland | 415809 | [415809-silent-mainland.json](./415809-silent-mainland.json) |
+| Silent Mansion: Part 2 | 150214 | [150214-silent-mansion-part-2.json](./150214-silent-mansion-part-2.json) |
 | Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
 | Silent Mist | 196389 | [196389-silent-mist.json](./196389-silent-mist.json) |
 | Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
@@ -20823,6 +20824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Hidden Forest | 212106 | [212106-sound-hidden-forest.json](./212106-sound-hidden-forest.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound It Out Land | 46707 | [46707-sound-it-out-land.json](./46707-sound-it-out-land.json) |
+| Sound Journal for Lovers | 150215 | [150215-sound-journal-for-lovers.json](./150215-sound-journal-for-lovers.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
 | Sound Novel Evolution 1: Otogirisou Sosei-Hen | 194817 | [194817-sound-novel-evolution-1-otogirisou-sosei-hen.json](./194817-sound-novel-evolution-1-otogirisou-sosei-hen.json) |
@@ -38229,7 +38231,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sutte Hakkun | 176000 | [176000-sutte-hakkun.json](./176000-sutte-hakkun.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
+| Sutte Hakkun BS Version 2 | 150192 | [150192-sutte-hakkun-bs-version-2.json](./150192-sutte-hakkun-bs-version-2.json) |
 | Sutte Hakkun GB | 142903 | [142903-sutte-hakkun-gb.json](./142903-sutte-hakkun-gb.json) |
+| Sutte Hakkun: 98 Fuyu Event Version | 150197 | [150197-sutte-hakkun-98-fuyu-event-version.json](./150197-sutte-hakkun-98-fuyu-event-version.json) |
+| Sutte Hakkun: Event Version | 150194 | [150194-sutte-hakkun-event-version.json](./150194-sutte-hakkun-event-version.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
 | Suugaku Rikiou: Chukyuu Naka-2-Level | 141990 | [141990-suugaku-rikiou-chukyuu-naka-2-level.json](./141990-suugaku-rikiou-chukyuu-naka-2-level.json) |
 | Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
@@ -39913,6 +39918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syrian Warfare | 32461 | [32461-syrian-warfare.json](./32461-syrian-warfare.json) |
 | Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
+| Syringe | 150228 | [150228-syringe.json](./150228-syringe.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
 | Syrup 2: Candy Alchemy RPG | 362733 | [362733-syrup-2-candy-alchemy-rpg.json](./362733-syrup-2-candy-alchemy-rpg.json) |
 | Syrup and the Ultimate Sweet | 108174 | [108174-syrup-and-the-ultimate-sweet.json](./108174-syrup-and-the-ultimate-sweet.json) |
