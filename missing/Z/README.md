@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
 | Zone Warrior | 130079 | [130079-zone-warrior.json](./130079-zone-warrior.json) |
+| Zone X | 141295 | [141295-zone-x.json](./141295-zone-x.json) |
 | Zone Z | 223882 | [223882-zone-z.json](./223882-zone-z.json) |
 | Zone-0 | 357702 | [357702-zone-0.json](./357702-zone-0.json) |
 | Zone.E | 244193 | [244193-zone-e.json](./244193-zone-e.json) |
