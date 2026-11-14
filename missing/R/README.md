@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Hard | 67636 | [67636-rage-hard.json](./67636-rage-hard.json) |
 | Rage HD | 96441 | [96441-rage-hd.json](./96441-rage-hd.json) |
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
+| Rage Melee | 121838 | [121838-rage-melee.json](./121838-rage-melee.json) |
 | Rage Mountain Rally | 420485 | [420485-rage-mountain-rally.json](./420485-rage-mountain-rally.json) |
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
@@ -7748,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbiting Saga | 119366 | [119366-ribbiting-saga.json](./119366-ribbiting-saga.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribbits | 384081 | [384081-ribbits.json](./384081-ribbits.json) |
+| Ribbon | 121779 | [121779-ribbon.json](./121779-ribbon.json) |
 | Ribbon of Green | 124672 | [124672-ribbon-of-green.json](./124672-ribbon-of-green.json) |
 | Ribbon Racer | 110664 | [110664-ribbon-racer.json](./110664-ribbon-racer.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
@@ -12193,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Insanity | 19570 | [19570-roots-of-insanity.json](./19570-roots-of-insanity.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
 | Roots of the Mind | 250708 | [250708-roots-of-the-mind.json](./250708-roots-of-the-mind.json) |
+| Roots of the Woods | 121788 | [121788-roots-of-the-woods.json](./121788-roots-of-the-woods.json) |
 | Roots of Tomorrow | 176066 | [176066-roots-of-tomorrow.json](./176066-roots-of-tomorrow.json) |
 | Roots of Tomorrow: Additional Characters | 201097 | [201097-roots-of-tomorrow-additional-characters.json](./201097-roots-of-tomorrow-additional-characters.json) |
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
