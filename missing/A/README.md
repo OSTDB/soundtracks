@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Girl in the City: Extended Edition | 52347 | [52347-a-girl-in-the-city-extended-edition.json](./52347-a-girl-in-the-city-extended-edition.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
+| A Glass Room | 144367 | [144367-a-glass-room.json](./144367-a-glass-room.json) |
 | A Glider's Journey | 120462 | [120462-a-gliders-journey.json](./120462-a-gliders-journey.json) |
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
@@ -12999,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalich | 175853 | [175853-apocalich.json](./175853-apocalich.json) |
 | Apocalipesec | 179876 | [179876-apocalipesec.json](./179876-apocalipesec.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
+| Apocalipsis: One Night in the Woods | 144448 | [144448-apocalipsis-one-night-in-the-woods.json](./144448-apocalipsis-one-night-in-the-woods.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
 | Apocalipsis: Wormwood Edition | 114206 | [114206-apocalipsis-wormwood-edition.json](./114206-apocalipsis-wormwood-edition.json) |
 | Apocalive | 200787 | [200787-apocalive.json](./200787-apocalive.json) |
