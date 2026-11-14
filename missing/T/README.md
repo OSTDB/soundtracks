@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Football Star! 20-21 | 174014 | [174014-tap-football-star-20-21.json](./174014-tap-football-star-20-21.json) |
 | Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
+| Tap Gun! | 100443 | [100443-tap-gun.json](./100443-tap-gun.json) |
 | Tap Hero | 27380 | [27380-tap-hero.json](./27380-tap-hero.json) |
 | Tap Heroes | 35228 | [35228-tap-heroes.json](./35228-tap-heroes.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
@@ -7878,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chainsaw Incident | 52920 | [52920-the-chainsaw-incident.json](./52920-the-chainsaw-incident.json) |
 | The Chainsmokers Piano Tiles | 225399 | [225399-the-chainsmokers-piano-tiles.json](./225399-the-chainsmokers-piano-tiles.json) |
 | The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
+| The Chalet | 100436 | [100436-the-chalet.json](./100436-the-chalet.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
 | The Chalice of Souls | 326882 | [326882-the-chalice-of-souls.json](./326882-the-chalice-of-souls.json) |
@@ -30955,6 +30957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
 | Train Game | 46038 | [46038-train-game.json](./46038-train-game.json) |
+| Train Game Simulator : Realistic Train Drive Game | 101135 | [101135-train-game-simulator-realistic-train-drive-game.json](./101135-train-game-simulator-realistic-train-drive-game.json) |
 | Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
 | Train Graveyard Simulator | 409406 | [409406-train-graveyard-simulator.json](./409406-train-graveyard-simulator.json) |
 | Train Harder | 29016 | [29016-train-harder.json](./29016-train-harder.json) |
@@ -37000,6 +37003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Hundred Fifty Six | 362731 | [362731-two-hundred-fifty-six.json](./362731-two-hundred-fifty-six.json) |
 | Two Hundred Ways | 166636 | [166636-two-hundred-ways.json](./166636-two-hundred-ways.json) |
 | Two Identical | 207406 | [207406-two-identical.json](./207406-two-identical.json) |
+| Two Inns at Miller's Hollow | 100417 | [100417-two-inns-at-millers-hollow.json](./100417-two-inns-at-millers-hollow.json) |
 | Two Interviewees | 176187 | [176187-two-interviewees.json](./176187-two-interviewees.json) |
 | Two Jong Cell!! | 227698 | [227698-two-jong-cell.json](./227698-two-jong-cell.json) |
 | Two Kinds of People | 410827 | [410827-two-kinds-of-people.json](./410827-two-kinds-of-people.json) |
