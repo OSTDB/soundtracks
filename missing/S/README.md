@@ -13880,6 +13880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Jinks | 18529 | [18529-sky-jinks.json](./18529-sky-jinks.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
+| Sky Journey: Jigsaw Landscapes | 162966 | [162966-sky-journey-jigsaw-landscapes.json](./162966-sky-journey-jigsaw-landscapes.json) |
 | Sky Jump | 131106 | [131106-sky-jump.json](./131106-sky-jump.json) |
 | Sky Jump | 193633 | [193633-sky-jump.json](./193633-sky-jump.json) |
 | Sky Jumper | 114621 | [114621-sky-jumper.json](./114621-sky-jumper.json) |
