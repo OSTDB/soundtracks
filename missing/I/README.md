@@ -6377,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irisy Aqua | 342412 | [342412-irisy-aqua.json](./342412-irisy-aqua.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
+| Irkalla | 119111 | [119111-irkalla.json](./119111-irkalla.json) |
 | Irkalla | 261043 | [261043-irkalla.json](./261043-irkalla.json) |
 | IRL: Italian Ritual Live | 371752 | [371752-irl-italian-ritual-live.json](./371752-irl-italian-ritual-live.json) |
 | IRL: The Game | 202571 | [202571-irl-the-game.json](./202571-irl-the-game.json) |
