@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Monster's Insight | 178813 | [178813-a-monsters-insight.json](./178813-a-monsters-insight.json) |
 | A Month to Look at the Moon | 179779 | [179779-a-month-to-look-at-the-moon.json](./179779-a-month-to-look-at-the-moon.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
+| A Moose's Love | 128713 | [128713-a-mooses-love.json](./128713-a-mooses-love.json) |
 | A More Beautiful World: A Visual Novel | 33679 | [33679-a-more-beautiful-world-a-visual-novel.json](./33679-a-more-beautiful-world-a-visual-novel.json) |
 | A Morons Challenge | 67990 | [67990-a-morons-challenge.json](./67990-a-morons-challenge.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
@@ -16323,6 +16324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Birthday | 269991 | [269991-arthurs-birthday.json](./269991-arthurs-birthday.json) |
 | Arthur's Camping Adventure | 144668 | [144668-arthurs-camping-adventure.json](./144668-arthurs-camping-adventure.json) |
 | Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
+| Arthur's Dream of the Dragon and the Bear | 128663 | [128663-arthurs-dream-of-the-dragon-and-the-bear.json](./128663-arthurs-dream-of-the-dragon-and-the-bear.json) |
 | Arthur's Kindergarten | 375124 | [375124-arthurs-kindergarten.json](./375124-arthurs-kindergarten.json) |
 | Arthur's Knights: Tales of Chivalry | 71368 | [71368-arthurs-knights-tales-of-chivalry.json](./71368-arthurs-knights-tales-of-chivalry.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
