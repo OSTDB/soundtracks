@@ -11030,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Knight: Infested Lands | 193684 | [193684-rogue-knight-infested-lands.json](./193684-rogue-knight-infested-lands.json) |
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Legacy 2 | 132058 | [132058-rogue-legacy-2.json](./132058-rogue-legacy-2.json) |
+| Rogue Legacy: Wanderer Edition | 140073 | [140073-rogue-legacy-wanderer-edition.json](./140073-rogue-legacy-wanderer-edition.json) |
 | Rogue Legend: Tame the Wild | 102048 | [102048-rogue-legend-tame-the-wild.json](./102048-rogue-legend-tame-the-wild.json) |
 | Rogue Light Deck Builder | 300049 | [300049-rogue-light-deck-builder.json](./300049-rogue-light-deck-builder.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
