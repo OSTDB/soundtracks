@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way-z | 110933 | [110933-way-z.json](./110933-way-z.json) |
 | Wayblazer Dämmerung | 315312 | [315312-wayblazer-dammerung.json](./315312-wayblazer-dammerung.json) |
 | Wayblock | 104952 | [104952-wayblock.json](./104952-wayblock.json) |
+| WayDown | 111115 | [111115-waydown.json](./111115-waydown.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
@@ -3772,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chichester OVN : The Beach | 118033 | [118033-welcome-to-chichester-ovn-the-beach.json](./118033-welcome-to-chichester-ovn-the-beach.json) |
 | Welcome To... Chichester OVN 2 : Master Tormenter Grendel Jinx !? | 123961 | [123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json](./123961-welcome-to-chichester-ovn-2-master-tormenter-grendel-jinx.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
+| Welcome To... Chichester Redux : The Spy Of America And The Long Vacation | 111092 | [111092-welcome-to-chichester-redux-the-spy-of-america-and-the-long-vacation.json](./111092-welcome-to-chichester-redux-the-spy-of-america-and-the-long-vacation.json) |
 | Welcome To... Chichester: The Spy of America and the Long Vacation | 180082 | [180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json](./180082-welcome-to-chichester-the-spy-of-america-and-the-long-vacation.json) |
 | Welcome to... Chichester! | 103788 | [103788-welcome-to-chichester.json](./103788-welcome-to-chichester.json) |
 | Welcome_Owner | 179863 | [179863-welcome-owner.json](./179863-welcome-owner.json) |
@@ -7444,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Olympics | 176214 | [176214-wizard-olympics.json](./176214-wizard-olympics.json) |
 | Wizard Pinball | 19753 | [19753-wizard-pinball.json](./19753-wizard-pinball.json) |
 | Wizard Pool | 386287 | [386287-wizard-pool.json](./386287-wizard-pool.json) |
+| Wizard Prison | 111094 | [111094-wizard-prison.json](./111094-wizard-prison.json) |
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard Punks!!! | 392077 | [392077-wizard-punks.json](./392077-wizard-punks.json) |
 | Wizard Realm | 287684 | [287684-wizard-realm.json](./287684-wizard-realm.json) |
