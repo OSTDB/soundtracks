@@ -7639,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
 | Alice's Jigsaw: Wonderland Chronicles | 286516 | [286516-alices-jigsaw-wonderland-chronicles.json](./286516-alices-jigsaw-wonderland-chronicles.json) |
 | Alice's Jigsaw: Wonderland Chronicles 2 | 286517 | [286517-alices-jigsaw-wonderland-chronicles-2.json](./286517-alices-jigsaw-wonderland-chronicles-2.json) |
+| Alice's Jigsaw. Wonderland | 99847 | [99847-alices-jigsaw-wonderland.json](./99847-alices-jigsaw-wonderland.json) |
 | Alice's Lullaby | 171476 | [171476-alices-lullaby.json](./171476-alices-lullaby.json) |
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
@@ -14294,6 +14295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tube Panic | 135575 | [135575-arcade-archives-tube-panic.json](./135575-arcade-archives-tube-panic.json) |
 | Arcade Archives: Turbo Force | 241181 | [241181-arcade-archives-turbo-force.json](./241181-arcade-archives-turbo-force.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
+| Arcade Archives: TwinBee | 99827 | [99827-arcade-archives-twinbee.json](./99827-arcade-archives-twinbee.json) |
 | Arcade Archives: TX-1 | 411810 | [411810-arcade-archives-tx-1.json](./411810-arcade-archives-tx-1.json) |
 | Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
