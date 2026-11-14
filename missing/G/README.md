@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
 | Gear: Full Circle | 57010 | [57010-gear-full-circle.json](./57010-gear-full-circle.json) |
 | Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
+| Gear.Club - True Racing | 128061 | [128061-gear-club-true-racing.json](./128061-gear-club-true-racing.json) |
 | Gear.Club Stradale | 194331 | [194331-gear-club-stradale.json](./194331-gear-club-stradale.json) |
 | Gear.Club Unlimited | 55192 | [55192-gear-club-unlimited.json](./55192-gear-club-unlimited.json) |
 | Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
@@ -6645,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
 | God's Basement | 87965 | [87965-gods-basement.json](./87965-gods-basement.json) |
 | God’s Blessing on That Desire World! | 405872 | [405872-god-s-blessing-on-that-desire-world.json](./405872-god-s-blessing-on-that-desire-world.json) |
+| God's Challenge | 128080 | [128080-gods-challenge.json](./128080-gods-challenge.json) |
 | God's Continent | 365355 | [365355-gods-continent.json](./365355-gods-continent.json) |
 | God's Death | 32747 | [32747-gods-death.json](./32747-gods-death.json) |
 | God's Disdain | 331583 | [331583-gods-disdain.json](./331583-gods-disdain.json) |
@@ -8360,6 +8362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabity | 75073 | [75073-grabity.json](./75073-grabity.json) |
 | Grablox | 63623 | [63623-grablox.json](./63623-grablox.json) |
 | Grabover Manor | 419096 | [419096-grabover-manor.json](./419096-grabover-manor.json) |
+| Grace | 128052 | [128052-grace.json](./128052-grace.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
 | Grace of Letoile | 118166 | [118166-grace-of-letoile.json](./118166-grace-of-letoile.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
@@ -9557,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Tank | 29394 | [29394-gray-tank.json](./29394-gray-tank.json) |
 | Gray Trading | 406492 | [406492-gray-trading.json](./406492-gray-trading.json) |
 | Gray War Conflict | 353563 | [353563-gray-war-conflict.json](./353563-gray-war-conflict.json) |
+| Gray Zone | 128044 | [128044-gray-zone.json](./128044-gray-zone.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
