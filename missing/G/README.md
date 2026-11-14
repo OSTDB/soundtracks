@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
 | Gamehunt | 234253 | [234253-gamehunt.json](./234253-gamehunt.json) |
+| Gamejam Gamejam | 146374 | [146374-gamejam-gamejam.json](./146374-gamejam-gamejam.json) |
 | GameKey: Disney - Disney Sports Bowling / Goofy's Underwater Adventure | 221806 | [221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json](./221806-gamekey-disney-disney-sports-bowling-goofys-underwater-adventure.json) |
 | GameKey: Disney - Disney Sports Tennis / Disney Face Chase | 221799 | [221799-gamekey-disney-disney-sports-tennis-disney-face-chase.json](./221799-gamekey-disney-disney-sports-tennis-disney-face-chase.json) |
 | GameKey: Disney - Disney Sports Tennis / Disney Face Chase / The Riches of Agrabah with Disney | 221807 | [221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json](./221807-gamekey-disney-disney-sports-tennis-disney-face-chase-the-riches-of-agrabah-with-disney.json) |
