@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
 | Scally's World: Numbers & Sums | 110566 | [110566-scallys-world-numbers-and-sums.json](./110566-scallys-world-numbers-and-sums.json) |
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
+| Scallywag's Honor | 119852 | [119852-scallywags-honor.json](./119852-scallywags-honor.json) |
 | Scallywags | 404605 | [404605-scallywags.json](./404605-scallywags.json) |
 | Scallywags | 423093 | [423093-scallywags.json](./423093-scallywags.json) |
 | Scallywags | 73081 | [73081-scallywags.json](./73081-scallywags.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sef Saga | 351517 | [351517-sef-saga.json](./351517-sef-saga.json) |
 | Seferia Matrix | 418654 | [418654-seferia-matrix.json](./418654-seferia-matrix.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
+| Sefirot Shards | 119845 | [119845-sefirot-shards.json](./119845-sefirot-shards.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sefure Shindroomu | 91567 | [91567-sefure-shindroomu.json](./91567-sefure-shindroomu.json) |
 | Sega 3D Classics Collection | 19891 | [19891-sega-3d-classics-collection.json](./19891-sega-3d-classics-collection.json) |
@@ -6737,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Mortal Sins X-Tasy | 174741 | [174741-seven-mortal-sins-x-tasy.json](./174741-seven-mortal-sins-x-tasy.json) |
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
 | Seven Mysteries: The Last Page | 86461 | [86461-seven-mysteries-the-last-page.json](./86461-seven-mysteries-the-last-page.json) |
+| Seven Nations | 119823 | [119823-seven-nations.json](./119823-seven-nations.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven Nights Ghost | 247856 | [247856-seven-nights-ghost.json](./247856-seven-nights-ghost.json) |
 | Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
@@ -17297,6 +17300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowpult | 286231 | [286231-snowpult.json](./286231-snowpult.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
 | Snowrifters | 163244 | [163244-snowrifters.json](./163244-snowrifters.json) |
+| Snowrifters VEX | 119844 | [119844-snowrifters-vex.json](./119844-snowrifters-vex.json) |
 | SnowRocket | 189943 | [189943-snowrocket.json](./189943-snowrocket.json) |
 | SnowRunner | 107215 | [107215-snowrunner.json](./107215-snowrunner.json) |
 | SnowRunner + Expeditions: A MudRunner Game Bundle | 398397 | [398397-snowrunner-expeditions-a-mudrunner-game-bundle.json](./398397-snowrunner-expeditions-a-mudrunner-game-bundle.json) |
@@ -21081,6 +21085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Star River | 381286 | [381286-south-star-river.json](./381286-south-star-river.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | South Words Hero | 309818 | [309818-south-words-hero.json](./309818-south-words-hero.json) |
+| Southbound | 119807 | [119807-southbound.json](./119807-southbound.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
 | Southern Command | 24796 | [24796-southern-command.json](./24796-southern-command.json) |
@@ -26318,6 +26323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalingrad | 177096 | [177096-stalingrad.json](./177096-stalingrad.json) |
 | Stalingrad 1942 | 412808 | [412808-stalingrad-1942.json](./412808-stalingrad-1942.json) |
 | Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
+| StalinGulag | 119832 | [119832-stalingulag.json](./119832-stalingulag.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
 | Stalked At Home | 395259 | [395259-stalked-at-home.json](./395259-stalked-at-home.json) |
@@ -31959,6 +31965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Cars | 328893 | [328893-stupid-cars.json](./328893-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
 | Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
+| Stupid Dungeon | 119828 | [119828-stupid-dungeon.json](./119828-stupid-dungeon.json) |
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
 | Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
 | Stupid Ninjas | 326561 | [326561-stupid-ninjas.json](./326561-stupid-ninjas.json) |
