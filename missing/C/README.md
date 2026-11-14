@@ -9344,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
 | Chronicle of Infinity | 194117 | [194117-chronicle-of-infinity.json](./194117-chronicle-of-infinity.json) |
 | Chronicle of Innsmouth | 28527 | [28527-chronicle-of-innsmouth.json](./28527-chronicle-of-innsmouth.json) |
+| Chronicle of Innsmouth: Mountains of Madness | 111277 | [111277-chronicle-of-innsmouth-mountains-of-madness.json](./111277-chronicle-of-innsmouth-mountains-of-madness.json) |
 | Chronicle of Wuxia & Xianxia Survivors | 406548 | [406548-chronicle-of-wuxia-and-xianxia-survivors.json](./406548-chronicle-of-wuxia-and-xianxia-survivors.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: Rewritten | 307845 | [307845-chronicle-rewritten.json](./307845-chronicle-rewritten.json) |
@@ -9827,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella Phenomenon: Evermore | 156586 | [156586-cinderella-phenomenon-evermore.json](./156586-cinderella-phenomenon-evermore.json) |
 | Cinderella Princess Makeup and Dressup Salon Game | 100332 | [100332-cinderella-princess-makeup-and-dressup-salon-game.json](./100332-cinderella-princess-makeup-and-dressup-salon-game.json) |
+| Cinderella VR | 111099 | [111099-cinderella-vr.json](./111099-cinderella-vr.json) |
 | Cinderella: An Interactive Fairytale | 114183 | [114183-cinderella-an-interactive-fairytale.json](./114183-cinderella-an-interactive-fairytale.json) |
 | Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
 | Cinderella: Princess of the Magic Kingdom | 319787 | [319787-cinderella-princess-of-the-magic-kingdom.json](./319787-cinderella-princess-of-the-magic-kingdom.json) |
@@ -10094,6 +10096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
 | Citadale: Gate of Souls | 56152 | [56152-citadale-gate-of-souls.json](./56152-citadale-gate-of-souls.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
+| Citadale: The Ancestral Strain | 111105 | [111105-citadale-the-ancestral-strain.json](./111105-citadale-the-ancestral-strain.json) |
 | Citadale: The Awakened Spirit | 149677 | [149677-citadale-the-awakened-spirit.json](./149677-citadale-the-awakened-spirit.json) |
 | Citadale: The Legends Trilogy | 56151 | [56151-citadale-the-legends-trilogy.json](./56151-citadale-the-legends-trilogy.json) |
 | Citadel | 131861 | [131861-citadel.json](./131861-citadel.json) |
