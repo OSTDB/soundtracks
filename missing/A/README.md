@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
 | Africa Hunting | 76293 | [76293-africa-hunting.json](./76293-africa-hunting.json) |
+| Africa Trail | 93262 | [93262-africa-trail.json](./93262-africa-trail.json) |
 | Africa Wild | 90443 | [90443-africa-wild.json](./90443-africa-wild.json) |
 | Africa's Legends | 204612 | [204612-africas-legends.json](./204612-africas-legends.json) |
 | African Adventure | 80804 | [80804-african-adventure.json](./80804-african-adventure.json) |
@@ -19696,6 +19697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser IV | 210278 | [210278-autobahn-raser-iv.json](./210278-autobahn-raser-iv.json) |
 | Autobahn Raser: Das Spiel zum Film | 144385 | [144385-autobahn-raser-das-spiel-zum-film.json](./144385-autobahn-raser-das-spiel-zum-film.json) |
 | Autobahn Tokio | 37206 | [37206-autobahn-tokio.json](./37206-autobahn-tokio.json) |
+| Autobahn Total | 93245 | [93245-autobahn-total.json](./93245-autobahn-total.json) |
 | Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
 | AutoBlobber | 345066 | [345066-autoblobber.json](./345066-autoblobber.json) |
 | Autoboat Contest | 287425 | [287425-autoboat-contest.json](./287425-autoboat-contest.json) |
