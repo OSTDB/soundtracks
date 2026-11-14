@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Moon | 74725 | [74725-killing-moon.json](./74725-killing-moon.json) |
 | Killing random dudes online | 110668 | [110668-killing-random-dudes-online.json](./110668-killing-random-dudes-online.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
+| Killing Stream | 157750 | [157750-killing-stream.json](./157750-killing-stream.json) |
 | Killing Things With Your Friends | 389258 | [389258-killing-things-with-your-friends.json](./389258-killing-things-with-your-friends.json) |
 | Killing Time | 288936 | [288936-killing-time.json](./288936-killing-time.json) |
 | Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
