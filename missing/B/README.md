@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Rush: Ecogear PowerWorm Championship | 44038 | [44038-bass-rush-ecogear-powerworm-championship.json](./44038-bass-rush-ecogear-powerworm-championship.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
+| Bass Surf | 106674 | [106674-bass-surf.json](./106674-bass-surf.json) |
 | Bass Tsuri Shiyouze!: Tournament wa Senryaku da! | 49487 | [49487-bass-tsuri-shiyouze-tournament-wa-senryaku-da.json](./49487-bass-tsuri-shiyouze-tournament-wa-senryaku-da.json) |
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
 | BassDuel | 271172 | [271172-bassduel.json](./271172-bassduel.json) |
@@ -4205,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Kid 2: Mountain of Torment | 48370 | [48370-battle-kid-2-mountain-of-torment.json](./48370-battle-kid-2-mountain-of-torment.json) |
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
+| Battle Killer Bismarck 3D | 106215 | [106215-battle-killer-bismarck-3d.json](./106215-battle-killer-bismarck-3d.json) |
 | Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Kitty | 322249 | [322249-battle-kitty.json](./322249-battle-kitty.json) |
 | Battle Konchuuden | 242867 | [242867-battle-konchuuden.json](./242867-battle-konchuuden.json) |
@@ -4420,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Robot Retsuden | 44424 | [44424-battle-robot-retsuden.json](./44424-battle-robot-retsuden.json) |
 | Battle Robots | 226256 | [226256-battle-robots.json](./226256-battle-robots.json) |
 | Battle Robots: Confrontation | 308027 | [308027-battle-robots-confrontation.json](./308027-battle-robots-confrontation.json) |
+| Battle Rockets | 106671 | [106671-battle-rockets.json](./106671-battle-rockets.json) |
 | Battle Rollers | 152567 | [152567-battle-rollers.json](./152567-battle-rollers.json) |
 | Battle Room | 289530 | [289530-battle-room.json](./289530-battle-room.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
@@ -6770,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
 | Behind You | 384592 | [384592-behind-you.json](./384592-behind-you.json) |
+| Behind Zombie Lines | 106677 | [106677-behind-zombie-lines.json](./106677-behind-zombie-lines.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
 | Behold Battle | 247918 | [247918-behold-battle.json](./247918-behold-battle.json) |
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
@@ -15363,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
+| Bound By Blades | 106680 | [106680-bound-by-blades.json](./106680-bound-by-blades.json) |
 | Bound By Blood | 140545 | [140545-bound-by-blood.json](./140545-bound-by-blood.json) |
 | Bound by Bones | 346558 | [346558-bound-by-bones.json](./346558-bound-by-bones.json) |
 | Bound By Broadcast | 306432 | [306432-bound-by-broadcast.json](./306432-bound-by-broadcast.json) |
@@ -18379,6 +18384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Soccer | 176532 | [176532-bubble-soccer.json](./176532-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Squad | 104136 | [104136-bubble-squad.json](./104136-bubble-squad.json) |
+| Bubble Strike | 106195 | [106195-bubble-strike.json](./106195-bubble-strike.json) |
 | Bubble Struggle | 199207 | [199207-bubble-struggle.json](./199207-bubble-struggle.json) |
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
