@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Sanity | 150746 | [150746-race-to-sanity.json](./150746-race-to-sanity.json) |
 | Race to the Line | 85362 | [85362-race-to-the-line.json](./85362-race-to-the-line.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
+| Race Track | 93275 | [93275-race-track.json](./93275-race-track.json) |
 | Race Track Driver | 159392 | [159392-race-track-driver.json](./159392-race-track-driver.json) |
 | Race Track Maniacs | 333527 | [333527-race-track-maniacs.json](./333527-race-track-maniacs.json) |
 | Race With Ryan | 122042 | [122042-race-with-ryan.json](./122042-race-with-ryan.json) |
@@ -2271,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen | 384245 | [384245-rasen.json](./384245-rasen.json) |
 | Rasen no Sora | 116337 | [116337-rasen-no-sora.json](./116337-rasen-no-sora.json) |
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
+| Rasetsu | 93238 | [93238-rasetsu.json](./93238-rasetsu.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
 | Rasetsu Alternative | 389827 | [389827-rasetsu-alternative.json](./389827-rasetsu-alternative.json) |
 | Rasetsu Fumaden | 207676 | [207676-rasetsu-fumaden.json](./207676-rasetsu-fumaden.json) |
@@ -10950,6 +10952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | RODB: Rhythm of Deck Builder | 275389 | [275389-rodb-rhythm-of-deck-builder.json](./275389-rodb-rhythm-of-deck-builder.json) |
 | Rode Kill: A Day in the Life | 73564 | [73564-rode-kill-a-day-in-the-life.json](./73564-rode-kill-a-day-in-the-life.json) |
+| Rode Quest | 93280 | [93280-rode-quest.json](./93280-rode-quest.json) |
 | Rode Quest 2: The Sweet Smell of Stenchie | 70176 | [70176-rode-quest-2-the-sweet-smell-of-stenchie.json](./70176-rode-quest-2-the-sweet-smell-of-stenchie.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
