@@ -5224,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Queen Bee | 385768 | [385768-be-queen-bee.json](./385768-be-queen-bee.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
+| Be Reasonable, Diane | 128679 | [128679-be-reasonable-diane.json](./128679-be-reasonable-diane.json) |
 | Be Rich | 146461 | [146461-be-rich.json](./146461-be-rich.json) |
 | Be Rich! / Be Richer! | 206277 | [206277-be-rich-be-richer.json](./206277-be-rich-be-richer.json) |
 | Be Richer | 146468 | [146468-be-richer.json](./146468-be-richer.json) |
@@ -6903,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belonging | 217061 | [217061-belonging.json](./217061-belonging.json) |
 | Belongings | 158707 | [158707-belongings.json](./158707-belongings.json) |
 | Belote 3 in 1 | 326263 | [326263-belote-3-in-1.json](./326263-belote-3-in-1.json) |
+| Beloved | 128688 | [128688-beloved.json](./128688-beloved.json) |
 | Beloved Beatrice | 274278 | [274278-beloved-beatrice.json](./274278-beloved-beatrice.json) |
 | Beloved Nightmare | 267595 | [267595-beloved-nightmare.json](./267595-beloved-nightmare.json) |
 | Beloved Rapture | 211448 | [211448-beloved-rapture.json](./211448-beloved-rapture.json) |
@@ -7228,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bent Oak Island | 240719 | [240719-bent-oak-island.json](./240719-bent-oak-island.json) |
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
 | BenTen Puzzle | 118883 | [118883-benten-puzzle.json](./118883-benten-puzzle.json) |
+| Benthic Love | 128693 | [128693-benthic-love.json](./128693-benthic-love.json) |
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Blocks | 380971 | [380971-bento-blocks.json](./380971-bento-blocks.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
@@ -11821,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks That Matter | 8984 | [8984-blocks-that-matter.json](./8984-blocks-that-matter.json) |
 | Blocks Tracks Trains | 224594 | [224594-blocks-tracks-trains.json](./224594-blocks-tracks-trains.json) |
+| Blocks With Letters On | 128669 | [128669-blocks-with-letters-on.json](./128669-blocks-with-letters-on.json) |
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks: Richard III | 120791 | [120791-blocks-richard-iii.json](./120791-blocks-richard-iii.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
@@ -14408,6 +14412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Books of Grandura | 245806 | [245806-books-of-grandura.json](./245806-books-of-grandura.json) |
 | Books of Horror | 392572 | [392572-books-of-horror.json](./392572-books-of-horror.json) |
 | Books Upon Books | 303359 | [303359-books-upon-books.json](./303359-books-upon-books.json) |
+| Bookshelf | 128707 | [128707-bookshelf.json](./128707-bookshelf.json) |
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookshop Wonderland: Supermarket Simulator | 320452 | [320452-bookshop-wonderland-supermarket-simulator.json](./320452-bookshop-wonderland-supermarket-simulator.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
