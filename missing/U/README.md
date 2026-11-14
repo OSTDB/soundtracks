@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
 | Unknown Space | 401892 | [401892-unknown-space.json](./401892-unknown-space.json) |
 | Unknown Surge | 129047 | [129047-unknown-surge.json](./129047-unknown-surge.json) |
+| Unknown Survival battleground | 92197 | [92197-unknown-survival-battleground.json](./92197-unknown-survival-battleground.json) |
 | Unknown Tank Game | 286948 | [286948-unknown-tank-game.json](./286948-unknown-tank-game.json) |
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unknown Variable 2: Raven's Ridge | 278222 | [278222-unknown-variable-2-ravens-ridge.json](./278222-unknown-variable-2-ravens-ridge.json) |
