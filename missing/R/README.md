@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravager | 55676 | [55676-ravager.json](./55676-ravager.json) |
 | Ravager: Moon-friendly Edition | 360450 | [360450-ravager-moon-friendly-edition.json](./360450-ravager-moon-friendly-edition.json) |
 | Rave and Claw | 184785 | [184785-rave-and-claw.json](./184785-rave-and-claw.json) |
+| Rave Asylum | 164544 | [164544-rave-asylum.json](./164544-rave-asylum.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
 | Rave Heart+ | 369311 | [369311-rave-heart.json](./369311-rave-heart.json) |
@@ -7837,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Sphinx | 18480 | [18480-riddle-of-the-sphinx.json](./18480-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: An Egyptian Adventure | 80076 | [80076-riddle-of-the-sphinx-an-egyptian-adventure.json](./80076-riddle-of-the-sphinx-an-egyptian-adventure.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
+| Riddle of the Sphinx: The Awakening - Enhanced Edition | 164625 | [164625-riddle-of-the-sphinx-the-awakening-enhanced-edition.json](./164625-riddle-of-the-sphinx-the-awakening-enhanced-edition.json) |
 | Riddle of the Sphinx: The Awakening - Gil's Secret Library | 164632 | [164632-riddle-of-the-sphinx-the-awakening-gils-secret-library.json](./164632-riddle-of-the-sphinx-the-awakening-gils-secret-library.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
 | Riddle School 2 | 178160 | [178160-riddle-school-2.json](./178160-riddle-school-2.json) |
@@ -10909,6 +10911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Meltdown Starter Pack | 406762 | [406762-rogue-company-meltdown-starter-pack.json](./406762-rogue-company-meltdown-starter-pack.json) |
 | Rogue Company: Power Ballad Pack | 406820 | [406820-rogue-company-power-ballad-pack.json](./406820-rogue-company-power-ballad-pack.json) |
 | Rogue Company: Radioactive Revenant Pack | 406770 | [406770-rogue-company-radioactive-revenant-pack.json](./406770-rogue-company-radioactive-revenant-pack.json) |
+| Rogue Company: Rogue Edition | 164621 | [164621-rogue-company-rogue-edition.json](./164621-rogue-company-rogue-edition.json) |
 | Rogue Company: Scarlet Contract Starter Pack | 406757 | [406757-rogue-company-scarlet-contract-starter-pack.json](./406757-rogue-company-scarlet-contract-starter-pack.json) |
 | Rogue Company: Season 1 | 403225 | [403225-rogue-company-season-1.json](./403225-rogue-company-season-1.json) |
 | Rogue Company: Season 10 - Eternal Conflict | 406728 | [406728-rogue-company-season-10-eternal-conflict.json](./406728-rogue-company-season-10-eternal-conflict.json) |
