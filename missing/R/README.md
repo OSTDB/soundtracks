@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Racing | 159124 | [159124-random-racing.json](./159124-random-racing.json) |
 | Random Raiders | 169639 | [169639-random-raiders.json](./169639-random-raiders.json) |
 | Random Rooms | 86761 | [86761-random-rooms.json](./86761-random-rooms.json) |
+| Random Royale | 138883 | [138883-random-royale.json](./138883-random-royale.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random Three Kingdoms | 208141 | [208141-random-three-kingdoms.json](./208141-random-three-kingdoms.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
@@ -2976,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Zero -Starting Life in Another World- Death or Kiss Limited Edition | 167132 | [167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json](./167132-re-zero-starting-life-in-another-world-death-or-kiss-limited-edition.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | Re:Zero Kara Hajimeru Isekai Seikatsu Infinity | 130366 | [130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./130366-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
+| Re:Zero Puzzle Collection | 138879 | [138879-re-zero-puzzle-collection.json](./138879-re-zero-puzzle-collection.json) |
 | Re. Gambari Minoriko: Onee-chan no Shiren | 371219 | [371219-re-gambari-minoriko-onee-chan-no-shiren.json](./371219-re-gambari-minoriko-onee-chan-no-shiren.json) |
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
 | Re.dive Wonderland | 369110 | [369110-re-dive-wonderland.json](./369110-re-dive-wonderland.json) |
@@ -3552,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania 1+2 | 155258 | [155258-realms-of-arkania-1-2.json](./155258-realms-of-arkania-1-2.json) |
 | Realms of Arkania 2 - Star Trail Classic | 36434 | [36434-realms-of-arkania-2-star-trail-classic.json](./36434-realms-of-arkania-2-star-trail-classic.json) |
 | Realms of Arkania III: Shadows over Riva | 2498 | [2498-realms-of-arkania-iii-shadows-over-riva.json](./2498-realms-of-arkania-iii-shadows-over-riva.json) |
+| Realms of Arkania Trilogy | 138319 | [138319-realms-of-arkania-trilogy.json](./138319-realms-of-arkania-trilogy.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
 | Realms of Arkania: Blade of Destiny | 27345 | [27345-realms-of-arkania-blade-of-destiny.json](./27345-realms-of-arkania-blade-of-destiny.json) |
 | Realms of Arkania: Blade of Destiny | 8767 | [8767-realms-of-arkania-blade-of-destiny.json](./8767-realms-of-arkania-blade-of-destiny.json) |
@@ -13113,6 +13116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
+| Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
 | Rugby Champions | 122076 | [122076-rugby-champions.json](./122076-rugby-champions.json) |
 | Rugby Golf | 410662 | [410662-rugby-golf.json](./410662-rugby-golf.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
