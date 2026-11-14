@@ -9012,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard RE: 2 - Cloud Version: Z Version | 263845 | [263845-biohazard-re-2-cloud-version-z-version.json](./263845-biohazard-re-2-cloud-version-z-version.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
 | Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
+| Biohazard RE: 2 - Z Version: Premium Edition | 112425 | [112425-biohazard-re-2-z-version-premium-edition.json](./112425-biohazard-re-2-z-version-premium-edition.json) |
 | Biohazard RE: 3 - Z Version | 134239 | [134239-biohazard-re-3-z-version.json](./134239-biohazard-re-3-z-version.json) |
 | Biohazard RE:3 - Cloud Z Version | 251752 | [251752-biohazard-re-3-cloud-z-version.json](./251752-biohazard-re-3-cloud-z-version.json) |
 | Biohazard Revival Selection | 44553 | [44553-biohazard-revival-selection.json](./44553-biohazard-revival-selection.json) |
