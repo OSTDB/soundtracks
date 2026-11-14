@@ -9334,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluid Drift | 391783 | [391783-fluid-drift.json](./391783-fluid-drift.json) |
 | Fluid SE | 197645 | [197645-fluid-se.json](./197645-fluid-se.json) |
 | Fluid Simulation | 123498 | [123498-fluid-simulation.json](./123498-fluid-simulation.json) |
+| Fluid Simulator | 156753 | [156753-fluid-simulator.json](./156753-fluid-simulator.json) |
 | Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
 | Fluida | 291814 | [291814-fluida.json](./291814-fluida.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
@@ -10679,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest God | 313255 | [313255-forest-god.json](./313255-forest-god.json) |
 | Forest Goddess and Flower Magician | 82522 | [82522-forest-goddess-and-flower-magician.json](./82522-forest-goddess-and-flower-magician.json) |
 | Forest Golf Planner | 193698 | [193698-forest-golf-planner.json](./193698-forest-golf-planner.json) |
+| Forest Grove | 156751 | [156751-forest-grove.json](./156751-forest-grove.json) |
 | Forest Grump | 199471 | [199471-forest-grump.json](./199471-forest-grump.json) |
 | Forest Guardian | 147859 | [147859-forest-guardian.json](./147859-forest-guardian.json) |
 | Forest Guardian | 55597 | [55597-forest-guardian.json](./55597-forest-guardian.json) |
@@ -15221,6 +15223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury | 21227 | [21227-fury.json](./21227-fury.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
+| Fury Captain | 157228 | [157228-fury-captain.json](./157228-fury-captain.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury Fight | 195341 | [195341-fury-fight.json](./195341-fury-fight.json) |
 | Fury Fight: Gangsters of City | 231579 | [231579-fury-fight-gangsters-of-city.json](./231579-fury-fight-gangsters-of-city.json) |
