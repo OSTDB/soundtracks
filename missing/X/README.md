@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X, y, zed | 179875 | [179875-x-y-zed.json](./179875-x-y-zed.json) |
 | X: Card of Fate | 37348 | [37348-x-card-of-fate.json](./37348-x-card-of-fate.json) |
 | X: Gold | 51776 | [51776-x-gold.json](./51776-x-gold.json) |
+| X.A.O.C Online | 81539 | [81539-x-a-o-c-online.json](./81539-x-a-o-c-online.json) |
 | X.E.T. Xen Exploration Team | 222306 | [222306-x-e-t-xen-exploration-team.json](./222306-x-e-t-xen-exploration-team.json) |
 | X'mas Painter | 206046 | [206046-xmas-painter.json](./206046-xmas-painter.json) |
 | X's & O's | 131129 | [131129-xs-and-os.json](./131129-xs-and-os.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword | 93064 | [93064-xuan-yuan-sword.json](./93064-xuan-yuan-sword.json) |
 | Xuan-Yuan Sword 2 | 100097 | [100097-xuan-yuan-sword-2.json](./100097-xuan-yuan-sword-2.json) |
 | Xuan-Yuan Sword 3: The Scar of the Sky | 106678 | [106678-xuan-yuan-sword-3-the-scar-of-the-sky.json](./106678-xuan-yuan-sword-3-the-scar-of-the-sky.json) |
+| Xuan-Yuan Sword 4: The Black Dragon Dances as the Storm Rages | 81534 | [81534-xuan-yuan-sword-4-the-black-dragon-dances-as-the-storm-rages.json](./81534-xuan-yuan-sword-4-the-black-dragon-dances-as-the-storm-rages.json) |
 | Xuan-Yuan Sword 5: A Sword Above the Clouds and the Sentiments of the World of Shanhai | 78050 | [78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json](./78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json) |
 | Xuan-Yuan Sword 6: The Phoenix Soars in the Sky among Millennial Clouds | 126039 | [126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json](./126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json) |
 | Xuan-Yuan Sword VII | 132675 | [132675-xuan-yuan-sword-vii.json](./132675-xuan-yuan-sword-vii.json) |
