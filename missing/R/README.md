@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
+| RC Helicopter 3D simulator | 88535 | [88535-rc-helicopter-3d-simulator.json](./88535-rc-helicopter-3d-simulator.json) |
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Match 3 | 240648 | [240648-rc-match-3.json](./240648-rc-match-3.json) |
 | RC Mini Racers | 88405 | [88405-rc-mini-racers.json](./88405-rc-mini-racers.json) |
@@ -11454,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll For Initiative | 193644 | [193644-roll-for-initiative.json](./193644-roll-for-initiative.json) |
+| Roll For It! | 88527 | [88527-roll-for-it.json](./88527-roll-for-it.json) |
 | Roll for Order: Sort Every Set! | 420315 | [420315-roll-for-order-sort-every-set.json](./420315-roll-for-order-sort-every-set.json) |
 | Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
 | Roll Freak | 238807 | [238807-roll-freak.json](./238807-roll-freak.json) |
