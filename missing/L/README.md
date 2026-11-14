@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Explorer | 57394 | [57394-last-explorer.json](./57394-last-explorer.json) |
 | Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
 | Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
+| Last Farewell | 132890 | [132890-last-farewell.json](./132890-last-farewell.json) |
 | Last Fish | 134142 | [134142-last-fish.json](./134142-last-fish.json) |
 | Last Fisherman | 385001 | [385001-last-fisherman.json](./385001-last-fisherman.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion: Immortal Survivors | 399963 | [399963-legion-immortal-survivors.json](./399963-legion-immortal-survivors.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
 | Legion's Crawl | 105215 | [105215-legions-crawl.json](./105215-legions-crawl.json) |
+| Legion's Crawl 2 | 132899 | [132899-legions-crawl-2.json](./132899-legions-crawl-2.json) |
 | Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
 | Legioncraft | 125114 | [125114-legioncraft.json](./125114-legioncraft.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
@@ -5057,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Slash Death | 362587 | [362587-life-slash-death.json](./362587-life-slash-death.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
+| Life Tastes Like Cardboard | 132869 | [132869-life-tastes-like-cardboard.json](./132869-life-tastes-like-cardboard.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
 | Life Warp | 426070 | [426070-life-warp.json](./426070-life-warp.json) |
 | Life with a Homunculus | 364408 | [364408-life-with-a-homunculus.json](./364408-life-with-a-homunculus.json) |
