@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
 | Observer Protocol: The Station - Second Shift | 349714 | [349714-observer-protocol-the-station-second-shift.json](./349714-observer-protocol-the-station-second-shift.json) |
+| Observer: System Redux - Day One Edition | 148017 | [148017-observer-system-redux-day-one-edition.json](./148017-observer-system-redux-day-one-edition.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Observers | 116691 | [116691-observers.json](./116691-observers.json) |
 | Observo | 203661 | [203661-observo.json](./203661-observo.json) |
