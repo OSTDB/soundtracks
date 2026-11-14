@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
 | Zball III | 150827 | [150827-zball-iii.json](./150827-zball-iii.json) |
 | Zball IV | 153316 | [153316-zball-iv.json](./153316-zball-iv.json) |
+| Zball V | 149618 | [149618-zball-v.json](./149618-zball-v.json) |
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
 | ZBD: Zone Batel Dedrox | 177652 | [177652-zbd-zone-batel-dedrox.json](./177652-zbd-zone-batel-dedrox.json) |
 | ZBloody Hell | 195858 | [195858-zbloody-hell.json](./195858-zbloody-hell.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zheros: The forgotten land | 174158 | [174158-zheros-the-forgotten-land.json](./174158-zheros-the-forgotten-land.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zhiel's Mystery | 237390 | [237390-zhiels-mystery.json](./237390-zhiels-mystery.json) |
+| Zhìfú Shàonǚ | 149644 | [149644-zhifu-shaonu.json](./149644-zhifu-shaonu.json) |
 | Zhigu Military Exorcist | 302405 | [302405-zhigu-military-exorcist.json](./302405-zhigu-military-exorcist.json) |
 | Zhǐjiān Wèndào | 344512 | [344512-zhijian-wendao.json](./344512-zhijian-wendao.json) |
 | Zhījiāng Wǎngshì | 155549 | [155549-zhijiang-wangshi.json](./155549-zhijiang-wangshi.json) |
