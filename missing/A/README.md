@@ -9226,6 +9226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda's Magic Book 6: Aladdin's Magic Lamp | 230885 | [230885-amandas-magic-book-6-aladdins-magic-lamp.json](./230885-amandas-magic-book-6-aladdins-magic-lamp.json) |
 | Amanda's Magic Book 9: The Riftwalkers | 335786 | [335786-amandas-magic-book-9-the-riftwalkers.json](./335786-amandas-magic-book-9-the-riftwalkers.json) |
 | Amanda's Movie Night | 331605 | [331605-amandas-movie-night.json](./331605-amandas-movie-night.json) |
+| Amanda's Sticker Book | 113064 | [113064-amandas-sticker-book.json](./113064-amandas-sticker-book.json) |
 | Amanda's Sticker Book 2: Amazing Wldlife | 115704 | [115704-amandas-sticker-book-2-amazing-wldlife.json](./115704-amandas-sticker-book-2-amazing-wldlife.json) |
 | Amane Switch | 166081 | [166081-amane-switch.json](./166081-amane-switch.json) |
 | Amaneku Tenshi ni Yakusoku wo | 381633 | [381633-amaneku-tenshi-ni-yakusoku-wo.json](./381633-amaneku-tenshi-ni-yakusoku-wo.json) |
@@ -11316,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
 | Animal Hospital | 84754 | [84754-animal-hospital.json](./84754-animal-hospital.json) |
 | Animal Hospital for kids | 99195 | [99195-animal-hospital-for-kids.json](./99195-animal-hospital-for-kids.json) |
+| Animal Hunter Z | 113075 | [113075-animal-hunter-z.json](./113075-animal-hunter-z.json) |
 | Animal Hunting 3D | 301511 | [301511-animal-hunting-3d.json](./301511-animal-hunting-3d.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Intern | 182823 | [182823-animal-intern.json](./182823-animal-intern.json) |
