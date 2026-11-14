@@ -13389,6 +13389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Frip and Froop's Logical Labyrinth DX | 328181 | [328181-frip-and-froops-logical-labyrinth-dx.json](./328181-frip-and-froops-logical-labyrinth-dx.json) |
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
+| Frisbee For Fun | 155729 | [155729-frisbee-for-fun.json](./155729-frisbee-for-fun.json) |
 | Frisbee Forever | 338144 | [338144-frisbee-forever.json](./338144-frisbee-forever.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
 | Frisbros | 163871 | [163871-frisbros.json](./163871-frisbros.json) |
