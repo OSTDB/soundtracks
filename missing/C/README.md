@@ -9668,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunk DAW | 423861 | [423861-chunk-daw.json](./423861-chunk-daw.json) |
+| Chunker | 132879 | [132879-chunker.json](./132879-chunker.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chunks | 19838 | [19838-chunks.json](./19838-chunks.json) |
@@ -17934,6 +17935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Crafting Tycoon | 76298 | [76298-crafting-tycoon.json](./76298-crafting-tycoon.json) |
 | Craftiny | 404619 | [404619-craftiny.json](./404619-craftiny.json) |
+| Craftlands Workshoppe | 132912 | [132912-craftlands-workshoppe.json](./132912-craftlands-workshoppe.json) |
 | Craftlings | 324569 | [324569-craftlings.json](./324569-craftlings.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
 | Craftomation 101 | 184890 | [184890-craftomation-101.json](./184890-craftomation-101.json) |
