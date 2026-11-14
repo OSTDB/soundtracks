@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan Mahjong | 125867 | [125867-taiwan-mahjong.json](./125867-taiwan-mahjong.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiwan Monster Fruit: Prologue | 146216 | [146216-taiwan-monster-fruit-prologue.json](./146216-taiwan-monster-fruit-prologue.json) |
+| Taiwan Richman | 148599 | [148599-taiwan-richman.json](./148599-taiwan-richman.json) |
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
 | TaiWord: A Daily Word Game | 232039 | [232039-taiword-a-daily-word-game.json](./232039-taiword-a-daily-word-game.json) |
 | Taiyaki Fabulous Museum of Fish | 321266 | [321266-taiyaki-fabulous-museum-of-fish.json](./321266-taiyaki-fabulous-museum-of-fish.json) |
@@ -7854,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chase: Felix Meets Felicity | 21202 | [21202-the-chase-felix-meets-felicity.json](./21202-the-chase-felix-meets-felicity.json) |
 | The Chase: Police Rush | 364815 | [364815-the-chase-police-rush.json](./364815-the-chase-police-rush.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
+| The Chaser's Voyage | 148612 | [148612-the-chasers-voyage.json](./148612-the-chasers-voyage.json) |
 | The Chasm | 123752 | [123752-the-chasm.json](./123752-the-chasm.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
 | The Chatters Show | 151465 | [151465-the-chatters-show.json](./151465-the-chatters-show.json) |
@@ -9063,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Dev Can't Beat This | 180903 | [180903-the-dev-cant-beat-this.json](./180903-the-dev-cant-beat-this.json) |
 | The Dev: Enter The Blockchain | 372075 | [372075-the-dev-enter-the-blockchain.json](./372075-the-dev-enter-the-blockchain.json) |
+| The Developer | 148621 | [148621-the-developer.json](./148621-the-developer.json) |
 | The DeviantArt Grind | 369464 | [369464-the-deviantart-grind.json](./369464-the-deviantart-grind.json) |
 | The Devil | 177806 | [177806-the-devil.json](./177806-the-devil.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
@@ -10635,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
 | The Forgotten Halls | 185297 | [185297-the-forgotten-halls.json](./185297-the-forgotten-halls.json) |
 | The Forgotten Island | 368267 | [368267-the-forgotten-island.json](./368267-the-forgotten-island.json) |
+| The Forgotten Isles | 148601 | [148601-the-forgotten-isles.json](./148601-the-forgotten-isles.json) |
 | The Forgotten Journey Through Time | 133641 | [133641-the-forgotten-journey-through-time.json](./133641-the-forgotten-journey-through-time.json) |
 | The Forgotten Land | 126112 | [126112-the-forgotten-land.json](./126112-the-forgotten-land.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
@@ -13372,6 +13376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ramparts | 309903 | [309903-the-last-ramparts.json](./309903-the-last-ramparts.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
+| The Last Relic | 148604 | [148604-the-last-relic.json](./148604-the-last-relic.json) |
 | The Last Remnant | 7047 | [7047-the-last-remnant.json](./7047-the-last-remnant.json) |
 | The Last Remnant Remastered | 109282 | [109282-the-last-remnant-remastered.json](./109282-the-last-remnant-remastered.json) |
 | The Last Resistance | 177728 | [177728-the-last-resistance.json](./177728-the-last-resistance.json) |
@@ -15928,6 +15933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange | 302783 | [302783-the-orange.json](./302783-the-orange.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
+| The OrangeRice | 149099 | [149099-the-orangerice.json](./149099-the-orangerice.json) |
 | The Orb Chambers | 32466 | [32466-the-orb-chambers.json](./32466-the-orb-chambers.json) |
 | The Orb Chambers II | 32064 | [32064-the-orb-chambers-ii.json](./32064-the-orb-chambers-ii.json) |
 | The Orb Chambers Remastered | 166814 | [166814-the-orb-chambers-remastered.json](./166814-the-orb-chambers-remastered.json) |
@@ -27979,6 +27985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Many Super Shotguns | 251633 | [251633-too-many-super-shotguns.json](./251633-too-many-super-shotguns.json) |
 | Too Many Weapons | 37023 | [37023-too-many-weapons.json](./37023-too-many-weapons.json) |
+| Too Many Zombies! | 148610 | [148610-too-many-zombies.json](./148610-too-many-zombies.json) |
 | Too Much Baggage | 420480 | [420480-too-much-baggage.json](./420480-too-much-baggage.json) |
 | Too Much Water | 157879 | [157879-too-much-water.json](./157879-too-much-water.json) |
 | Too Shroom! | 265268 | [265268-too-shroom.json](./265268-too-shroom.json) |
@@ -34802,6 +34809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck and Forklift Logistic Simulator | 288373 | [288373-truck-and-forklift-logistic-simulator.json](./288373-truck-and-forklift-logistic-simulator.json) |
 | Truck City | 351149 | [351149-truck-city.json](./351149-truck-city.json) |
 | Truck Climb Racing | 248344 | [248344-truck-climb-racing.json](./248344-truck-climb-racing.json) |
+| Truck Crash | 148594 | [148594-truck-crash.json](./148594-truck-crash.json) |
 | Truck Dismount | 19284 | [19284-truck-dismount.json](./19284-truck-dismount.json) |
 | Truck Drag Racing Legends | 281047 | [281047-truck-drag-racing-legends.json](./281047-truck-drag-racing-legends.json) |
 | Truck Drag Racing Legends Simulator | 266338 | [266338-truck-drag-racing-legends-simulator.json](./266338-truck-drag-racing-legends-simulator.json) |
