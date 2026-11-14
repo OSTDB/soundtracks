@@ -5689,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiken Densetsu: Friends of Mana | 287438 | [287438-seiken-densetsu-friends-of-mana.json](./287438-seiken-densetsu-friends-of-mana.json) |
 | Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
 | Seiken Psycho Caliber: Maju no Mori Densetsu | 146454 | [146454-seiken-psycho-caliber-maju-no-mori-densetsu.json](./146454-seiken-psycho-caliber-maju-no-mori-densetsu.json) |
+| Seiken-Manifestia | 148046 | [148046-seiken-manifestia.json](./148046-seiken-manifestia.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikima II: Akuma no Gyakushuu! | 48399 | [48399-seikima-ii-akuma-no-gyakushuu.json](./48399-seikima-ii-akuma-no-gyakushuu.json) |
 | Seikimatsu Days: Our Era's End | 96405 | [96405-seikimatsu-days-our-eras-end.json](./96405-seikimatsu-days-our-eras-end.json) |
@@ -12496,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinbadexpress | 367987 | [367987-sinbadexpress.json](./367987-sinbadexpress.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Since Memories: Off the Starry Sky | 147007 | [147007-since-memories-off-the-starry-sky.json](./147007-since-memories-off-the-starry-sky.json) |
+| Since Memories: Off the Starry Sky - Limited Edition | 148041 | [148041-since-memories-off-the-starry-sky-limited-edition.json](./148041-since-memories-off-the-starry-sky-limited-edition.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | SincereMen | 121129 | [121129-sinceremen.json](./121129-sinceremen.json) |
@@ -20130,6 +20132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
 | Soraja Invaders | 302231 | [302231-soraja-invaders.json](./302231-soraja-invaders.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
+| Soraland | 148054 | [148054-soraland.json](./148054-soraland.json) |
 | Soralio: Cooperation mystery solving game | 157087 | [157087-soralio-cooperation-mystery-solving-game.json](./157087-soralio-cooperation-mystery-solving-game.json) |
 | Soran | 145415 | [145415-soran.json](./145415-soran.json) |
 | Soratobu Bunbun Baan | 85388 | [85388-soratobu-bunbun-baan.json](./85388-soratobu-bunbun-baan.json) |
@@ -30583,6 +30586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: Blitzkrieg | 129365 | [129365-strategic-mind-blitzkrieg.json](./129365-strategic-mind-blitzkrieg.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
+| Strategic Mind: Fight for Freedom | 148022 | [148022-strategic-mind-fight-for-freedom.json](./148022-strategic-mind-fight-for-freedom.json) |
 | Strategic Mind: Spectre of Communism | 148300 | [148300-strategic-mind-spectre-of-communism.json](./148300-strategic-mind-spectre-of-communism.json) |
 | Strategic Mind: Spirit of Liberty | 164145 | [164145-strategic-mind-spirit-of-liberty.json](./164145-strategic-mind-spirit-of-liberty.json) |
 | Strategic Mind: The Pacific | 113330 | [113330-strategic-mind-the-pacific.json](./113330-strategic-mind-the-pacific.json) |
@@ -35172,6 +35176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
 | Super Mario Bros. X | 87816 | [87816-super-mario-bros-x.json](./87816-super-mario-bros-x.json) |
 | Super Mario Bros. X by 5438A38A | 358335 | [358335-super-mario-bros-x-by-5438a38a.json](./358335-super-mario-bros-x-by-5438a38a.json) |
+| Super Mario Bros. Z: The Game | 148005 | [148005-super-mario-bros-z-the-game.json](./148005-super-mario-bros-z-the-game.json) |
 | Super Mario Bros.: Crimson Hours | 318944 | [318944-super-mario-bros-crimson-hours.json](./318944-super-mario-bros-crimson-hours.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
