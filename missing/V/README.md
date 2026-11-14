@@ -4236,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Catgirl | 162846 | [162846-vr-catgirl.json](./162846-vr-catgirl.json) |
 | VR Catgirl Isle 2100 | 325508 | [325508-vr-catgirl-isle-2100.json](./325508-vr-catgirl-isle-2100.json) |
 | VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
+| VR Chess Kingdom | 165779 | [165779-vr-chess-kingdom.json](./165779-vr-chess-kingdom.json) |
 | VR Coaster Extreme | 28994 | [28994-vr-coaster-extreme.json](./28994-vr-coaster-extreme.json) |
 | VR Coaster Madness | 123173 | [123173-vr-coaster-madness.json](./123173-vr-coaster-madness.json) |
 | VR Cop Simulator | 286323 | [286323-vr-cop-simulator.json](./286323-vr-cop-simulator.json) |
