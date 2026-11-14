@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
 | Schwarzschild EX: Tessa no Seigun | 79440 | [79440-schwarzschild-ex-tessa-no-seigun.json](./79440-schwarzschild-ex-tessa-no-seigun.json) |
 | Schwarzschild GX: Sabita Sousei | 91645 | [91645-schwarzschild-gx-sabita-sousei.json](./91645-schwarzschild-gx-sabita-sousei.json) |
+| Schwarzschild II: Teikoku no Haishin | 123109 | [123109-schwarzschild-ii-teikoku-no-haishin.json](./123109-schwarzschild-ii-teikoku-no-haishin.json) |
 | Schwarzschild V: Shinnou Tanjou | 124331 | [124331-schwarzschild-v-shinnou-tanjou.json](./124331-schwarzschild-v-shinnou-tanjou.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
@@ -17518,6 +17519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
 | Soccer Cards | 93113 | [93113-soccer-cards.json](./93113-soccer-cards.json) |
 | Soccer Challenge | 361111 | [361111-soccer-challenge.json](./361111-soccer-challenge.json) |
+| Soccer Champion | 123134 | [123134-soccer-champion.json](./123134-soccer-champion.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
 | Soccer Clicker | 257874 | [257874-soccer-clicker.json](./257874-soccer-clicker.json) |
 | Soccer Club Life Playing Manager | 141514 | [141514-soccer-club-life-playing-manager.json](./141514-soccer-club-life-playing-manager.json) |
@@ -33896,6 +33898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
 | Super Bombliss | 37842 | [37842-super-bombliss.json](./37842-super-bombliss.json) |
+| Super BomBliss DX | 123113 | [123113-super-bombliss-dx.json](./123113-super-bombliss-dx.json) |
 | Super Bonk | 9028 | [9028-super-bonk.json](./9028-super-bonk.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Bora Dragon Eyes | 122024 | [122024-super-bora-dragon-eyes.json](./122024-super-bora-dragon-eyes.json) |
