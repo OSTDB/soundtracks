@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard to the Future | 36094 | [36094-bard-to-the-future.json](./36094-bard-to-the-future.json) |
 | Bard: Keep the Story Alive | 178974 | [178974-bard-keep-the-story-alive.json](./178974-bard-keep-the-story-alive.json) |
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
+| Bard's Gold: Nintendo Switch Edition | 115746 | [115746-bards-gold-nintendo-switch-edition.json](./115746-bards-gold-nintendo-switch-edition.json) |
 | Bard's Lesson | 184419 | [184419-bards-lesson.json](./184419-bards-lesson.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
@@ -10385,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackSoul: Extended Edition | 30252 | [30252-blacksoul-extended-edition.json](./30252-blacksoul-extended-edition.json) |
 | BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
+| Blackstar Jump Drive | 115854 | [115854-blackstar-jump-drive.json](./115854-blackstar-jump-drive.json) |
 | Blackstar, Agent of Justice | 71334 | [71334-blackstar-agent-of-justice.json](./71334-blackstar-agent-of-justice.json) |
 | BlackStar: Theater Starless | 215169 | [215169-blackstar-theater-starless.json](./215169-blackstar-theater-starless.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
@@ -14011,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
 | BomberX | 127525 | [127525-bomberx.json](./127525-bomberx.json) |
 | BomberZone | 32628 | [32628-bomberzone.json](./32628-bomberzone.json) |
+| BombFall | 115747 | [115747-bombfall.json](./115747-bombfall.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | BombGears | 110713 | [110713-bombgears.json](./110713-bombgears.json) |
 | BombHopper | 133505 | [133505-bombhopper.json](./133505-bombhopper.json) |
