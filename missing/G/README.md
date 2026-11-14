@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Tactics | 336309 | [336309-galaxy-tactics.json](./336309-galaxy-tactics.json) |
 | Galaxy Tales: Story of Rapunzel | 172810 | [172810-galaxy-tales-story-of-rapunzel.json](./172810-galaxy-tales-story-of-rapunzel.json) |
 | Galaxy Too Far | 285947 | [285947-galaxy-too-far.json](./285947-galaxy-too-far.json) |
+| Galaxy Top Wing | 107959 | [107959-galaxy-top-wing.json](./107959-galaxy-top-wing.json) |
 | Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
 | Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
@@ -4528,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n Goblins Arcade | 41139 | [41139-ghostsn-goblins-arcade.json](./41139-ghostsn-goblins-arcade.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghostship | 417396 | [417396-ghostship.json](./417396-ghostship.json) |
+| Ghostship Chronicles | 107467 | [107467-ghostship-chronicles.json](./107467-ghostship-chronicles.json) |
 | GhostSlayer | 67039 | [67039-ghostslayer.json](./67039-ghostslayer.json) |
 | Ghostslayers | 325369 | [325369-ghostslayers.json](./325369-ghostslayers.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
@@ -7373,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Cart Drive | 95245 | [95245-golf-cart-drive.json](./95245-golf-cart-drive.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
+| Golf Clash Notebook | 108103 | [108103-golf-clash-notebook.json](./108103-golf-clash-notebook.json) |
 | Golf Club Architect | 190909 | [190909-golf-club-architect.json](./190909-golf-club-architect.json) |
 | Golf Club Nostalgia | 106027 | [106027-golf-club-nostalgia.json](./106027-golf-club-nostalgia.json) |
 | Golf Club Nostalgia + The Cub Bundle | 309293 | [309293-golf-club-nostalgia-the-cub-bundle.json](./309293-golf-club-nostalgia-the-cub-bundle.json) |
@@ -10291,6 +10294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Dragons | 32825 | [32825-grim-dragons.json](./32825-grim-dragons.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
+| Grim Earth | 107957 | [107957-grim-earth.json](./107957-grim-earth.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade 7: Monster In Disguise | 19895 | [19895-grim-facade-7-monster-in-disguise.json](./19895-grim-facade-7-monster-in-disguise.json) |
 | Grim Facade: A Wealth of Betrayal | 140214 | [140214-grim-facade-a-wealth-of-betrayal.json](./140214-grim-facade-a-wealth-of-betrayal.json) |
