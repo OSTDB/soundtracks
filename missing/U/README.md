@@ -664,6 +664,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
 | Ultimate Lion Simulator | 87341 | [87341-ultimate-lion-simulator.json](./87341-ultimate-lion-simulator.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
+| Ultimate Logic Puzzle Collection: Pack 1 | 163490 | [163490-ultimate-logic-puzzle-collection-pack-1.json](./163490-ultimate-logic-puzzle-collection-pack-1.json) |
+| Ultimate Logic Puzzle Collection: Pack 2 | 163488 | [163488-ultimate-logic-puzzle-collection-pack-2.json](./163488-ultimate-logic-puzzle-collection-pack-2.json) |
+| Ultimate Logic Puzzle Collection: Pack 3 | 163489 | [163489-ultimate-logic-puzzle-collection-pack-3.json](./163489-ultimate-logic-puzzle-collection-pack-3.json) |
 | Ultimate Low Poly Pet | 151277 | [151277-ultimate-low-poly-pet.json](./151277-ultimate-low-poly-pet.json) |
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
 | Ultimate Mahjongg | 206058 | [206058-ultimate-mahjongg.json](./206058-ultimate-mahjongg.json) |
