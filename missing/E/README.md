@@ -7701,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspell | 263251 | [263251-everspell.json](./263251-everspell.json) |
 | Everstead: Origins | 346498 | [346498-everstead-origins.json](./346498-everstead-origins.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
+| EverStopped | 121786 | [121786-everstopped.json](./121786-everstopped.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
 | Everstrife | 349019 | [349019-everstrife.json](./349019-everstrife.json) |
 | Evertale | 113924 | [113924-evertale.json](./113924-evertale.json) |
