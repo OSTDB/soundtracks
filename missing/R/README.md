@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratpad vs Everglide: Battle of the Pads | 24118 | [24118-ratpad-vs-everglide-battle-of-the-pads.json](./24118-ratpad-vs-everglide-battle-of-the-pads.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats - Time is running out! | 35805 | [35805-rats-time-is-running-out.json](./35805-rats-time-is-running-out.json) |
+| Rats and Spears | 104317 | [104317-rats-and-spears.json](./104317-rats-and-spears.json) |
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats in a Cage | 217092 | [217092-rats-in-a-cage.json](./217092-rats-in-a-cage.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
@@ -10432,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Hunting | 312268 | [312268-rocket-hunting.json](./312268-rocket-hunting.json) |
 | Rocket in Space: Running Games | 233388 | [233388-rocket-in-space-running-games.json](./233388-rocket-in-space-running-games.json) |
 | Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
+| Rocket Island | 104341 | [104341-rocket-island.json](./104341-rocket-island.json) |
 | Rocket Jockey | 245085 | [245085-rocket-jockey.json](./245085-rocket-jockey.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Jockeys | 148214 | [148214-rocket-jockeys.json](./148214-rocket-jockeys.json) |
@@ -13470,6 +13472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy | 370401 | [370401-rummy.json](./370401-rummy.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
+| Rummy + | 104294 | [104294-rummy.json](./104294-rummy.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy 500 | 83701 | [83701-rummy-500.json](./83701-rummy-500.json) |
 | Rummy Attack | 416578 | [416578-rummy-attack.json](./416578-rummy-attack.json) |
