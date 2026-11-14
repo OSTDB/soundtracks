@@ -4119,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Do You Do When You Ask Four People Out and They All Say Yes? | 179830 | [179830-what-do-you-do-when-you-ask-four-people-out-and-they-all-say-yes.json](./179830-what-do-you-do-when-you-ask-four-people-out-and-they-all-say-yes.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Friends Are For | 251375 | [251375-what-friends-are-for.json](./251375-what-friends-are-for.json) |
+| What Fuwa Bansaku Found | 145729 | [145729-what-fuwa-bansaku-found.json](./145729-what-fuwa-bansaku-found.json) |
 | What Games Does Your Dad Play | 276577 | [276577-what-games-does-your-dad-play.json](./276577-what-games-does-your-dad-play.json) |
 | What Girls Do in the Dark | 323557 | [323557-what-girls-do-in-the-dark.json](./323557-what-girls-do-in-the-dark.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
@@ -7748,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WolfFang Skull Fang: Saturn Tribute Boosted | 320440 | [320440-wolffang-skull-fang-saturn-tribute-boosted.json](./320440-wolffang-skull-fang-saturn-tribute-boosted.json) |
 | Wolfgate | 117396 | [117396-wolfgate.json](./117396-wolfgate.json) |
 | WolfGirl RoomMate | 337936 | [337936-wolfgirl-roommate.json](./337936-wolfgirl-roommate.json) |
+| Wolfgirls in Love | 145731 | [145731-wolfgirls-in-love.json](./145731-wolfgirls-in-love.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
 | Wolfhound | 305000 | [305000-wolfhound.json](./305000-wolfhound.json) |
 | Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
