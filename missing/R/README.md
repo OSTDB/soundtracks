@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit & Steel: Extra Mode | 388550 | [388550-rabbit-and-steel-extra-mode.json](./388550-rabbit-and-steel-extra-mode.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit and Turtle | 285846 | [285846-rabbit-and-turtle.json](./285846-rabbit-and-turtle.json) |
+| Rabbit BoBo | 112395 | [112395-rabbit-bobo.json](./112395-rabbit-bobo.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Canyon | 192852 | [192852-rabbit-canyon.json](./192852-rabbit-canyon.json) |
 | Rabbit Claw Party | 405542 | [405542-rabbit-claw-party.json](./405542-rabbit-claw-party.json) |
