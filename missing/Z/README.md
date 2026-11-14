@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies Desert and Guns | 151589 | [151589-zombies-desert-and-guns.json](./151589-zombies-desert-and-guns.json) |
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
+| Zombies Everywhere | 166858 | [166858-zombies-everywhere.json](./166858-zombies-everywhere.json) |
 | Zombies Everywhere 2 | 174068 | [174068-zombies-everywhere-2.json](./174068-zombies-everywhere-2.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
 | Zombies Everywhere! Augmented Reality Apocalypse (Halloween Edition) | 102652 | [102652-zombies-everywhere-augmented-reality-apocalypse-halloween-edition.json](./102652-zombies-everywhere-augmented-reality-apocalypse-halloween-edition.json) |
