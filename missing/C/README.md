@@ -7079,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
 | Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
+| Chasing Static | 141953 | [141953-chasing-static.json](./141953-chasing-static.json) |
 | Chasing Styx | 29443 | [29443-chasing-styx.json](./29443-chasing-styx.json) |
 | Chasing Sunsets | 323816 | [323816-chasing-sunsets.json](./323816-chasing-sunsets.json) |
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
