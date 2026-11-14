@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-13T09:35:49.712Z",
-  "total_soundtracks": 3286,
+  "generated_at": "2026-11-14T23:21:08.429Z",
+  "total_soundtracks": 3307,
   "games": [
     {
       "igdb_id": 7522,
@@ -319,6 +319,20 @@
         {
           "album_name": "A Little to the Left (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4JbNAjgYKr7JfUYLVdUuqQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144483,
+      "game_name": "A Musical Story",
+      "game_url": "https://ostdb.net/games/a-musical-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734765a3afa49d5749931322ee",
+      "albums": [
+        {
+          "album_name": "A Musical Story (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7eX7PJHqRIA3vIjwBkJUlN",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -737,6 +751,20 @@
         {
           "album_name": "Aeolis Tournament (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6A36WeeL7GTfOxiJB6wUJz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 135410,
+      "game_name": "Aeon Drive",
+      "game_url": "https://ostdb.net/games/aeon-drive",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273993289b9e1cb371f589085b1",
+      "albums": [
+        {
+          "album_name": "Aeon Drive (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1pRgxxrNMascuo6xyR4ICu",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13045,6 +13073,20 @@
       ]
     },
     {
+      "igdb_id": 189275,
+      "game_name": "Flat Eye",
+      "game_url": "https://ostdb.net/games/flat-eye",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372c35d5357e8f07fbed5936a",
+      "albums": [
+        {
+          "album_name": "Flat Eye (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6yBpX5mJjoNuOuRudX2Zl4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 20330,
       "game_name": "Flinthook",
       "game_url": "https://ostdb.net/games/flinthook",
@@ -14227,6 +14269,34 @@
         {
           "album_name": "Get To Work (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3J43YUqPGwwJaJQSfMzAh4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132314,
+      "game_name": "Get-A-Grip Chip",
+      "game_url": "https://ostdb.net/games/get-a-grip-chip",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731fff3e456ce5e35858cf1c5a",
+      "albums": [
+        {
+          "album_name": "Get-A-Grip Chip (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5UcUOFrXLpCRNNAScBxH4A",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145785,
+      "game_name": "GetsuFumaDen: Undying Moon",
+      "game_url": "https://ostdb.net/games/getsufumaden-undying-moon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b8f9c9b6be4970ee23bffad",
+      "albums": [
+        {
+          "album_name": "GetsuFumaDen: Undying Moon ORIGINAL SOUNDTRACK SELECTION",
+          "spotify_url": "https://open.spotify.com/album/1ZW6kFCkEeRFZKWsXK2DGM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16075,6 +16145,20 @@
       ]
     },
     {
+      "igdb_id": 154290,
+      "game_name": "Heading Out",
+      "game_url": "https://ostdb.net/games/heading-out",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273029fc08da2f6ca038fee6fb7",
+      "albums": [
+        {
+          "album_name": "Heading Out (Soundtrack EP)",
+          "spotify_url": "https://open.spotify.com/album/1qZE7RGppIJTZmKw5JUP2p",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 340595,
       "game_name": "Heartopia",
       "game_url": "https://ostdb.net/games/heartopia",
@@ -16509,6 +16593,20 @@
       ]
     },
     {
+      "igdb_id": 145781,
+      "game_name": "Hindsight",
+      "game_url": "https://ostdb.net/games/hindsight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730762014acb9ae789cccaeb5c",
+      "albums": [
+        {
+          "album_name": "Hindsight (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/78sSOiloma6fjo59VkRDRM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 748,
       "game_name": "Hitman 2: Silent Assassin",
       "game_url": "https://ostdb.net/games/hitman-2-silent-assassin",
@@ -16761,6 +16859,20 @@
       ]
     },
     {
+      "igdb_id": 125125,
+      "game_name": "Hotel Barcelona",
+      "game_url": "https://ostdb.net/games/hotel-barcelona",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738cf753fbefc2d33069615172",
+      "albums": [
+        {
+          "album_name": "HOTEL BARCELONA (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6NIOtwDSVZXPozjpLAmSer",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 305184,
       "game_name": "Hotel Galactic",
       "game_url": "https://ostdb.net/games/hotel-galactic",
@@ -16979,6 +17091,20 @@
         {
           "album_name": "HyperDot (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3FwBKNjAcw7y0YPymGyVPI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 129705,
+      "game_name": "Hypergalactic Psychic Table Tennis 3000",
+      "game_url": "https://ostdb.net/games/hypergalactic-psychic-table-tennis-3000",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a77019817a39d42a13adc021",
+      "albums": [
+        {
+          "album_name": "Hypergalactic Psychic Table Tennis 3000 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3wumU2p7SAxw5J8oDORwBq",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17255,6 +17381,20 @@
         {
           "album_name": "Immortals Fenyx Rising: The Lost Gods (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5dpVlbrog1mojsKkwFtlW0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144229,
+      "game_name": "Imp of the Sun",
+      "game_url": "https://ostdb.net/games/imp-of-the-sun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735c51c65a274b08b1be9c3218",
+      "albums": [
+        {
+          "album_name": "Imp of the Sun (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5UxDTY9IvMKRVkx1rtG6iA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -20693,6 +20833,20 @@
         {
           "album_name": "Married in Red (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7aexsf83r1g61i4HuUwBlQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 154293,
+      "game_name": "Mars 2120",
+      "game_url": "https://ostdb.net/games/mars-2120",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b00a84b1c9aeb66025d3f9ca",
+      "albums": [
+        {
+          "album_name": "Mars 2120 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2DEyce8NAsimjdx1rG31Jr",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28263,6 +28417,20 @@
       ]
     },
     {
+      "igdb_id": 135668,
+      "game_name": "Rims Racing",
+      "game_url": "https://ostdb.net/games/rims-racing",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27385d0077d422158a2c743778a",
+      "albums": [
+        {
+          "album_name": "Rims Racing (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5AhlhPIPDQHBmsCqHkLiDZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 9789,
       "game_name": "RimWorld",
       "game_url": "https://ostdb.net/games/rimworld",
@@ -29204,6 +29372,20 @@
           "album_name": "Samson (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7vmGJV1hPgmhZftFn5qiMg",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 126534,
+      "game_name": "Samudra",
+      "game_url": "https://ostdb.net/games/samudra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735a0a88a008c2e9420d138418",
+      "albums": [
+        {
+          "album_name": "SAMUDRA (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1T4Hm0Qke5SYS3IO3hsn4t",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -30287,6 +30469,20 @@
         {
           "album_name": "Shovel Knight Dig (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Db3ftiB12eMuDbtXS3pjL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 133503,
+      "game_name": "Shovel Knight: Pocket Dungeon",
+      "game_url": "https://ostdb.net/games/shovel-knight-pocket-dungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b32761b56f9a5229e9310a8",
+      "albums": [
+        {
+          "album_name": "Shovel Knight Pocket Dungeon (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4SeG49unn02bZIiXNCFHdC",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31715,6 +31911,20 @@
       ]
     },
     {
+      "igdb_id": 127188,
+      "game_name": "Soviet Jump Game",
+      "game_url": "https://ostdb.net/games/soviet-jump-game",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273044e5f1102651d4419aa039e",
+      "albums": [
+        {
+          "album_name": "Soviet Jump Game (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2OhBiaidkGHjkUrF1xn0Br",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 22248,
       "game_name": "Space Colony",
       "game_url": "https://ostdb.net/games/space-colony",
@@ -32001,6 +32211,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/spellbreak-original-game-soundtrack/1584226155?uo=4",
           "album_link_url": "https://album.link/i/1584226155"
+        }
+      ]
+    },
+    {
+      "igdb_id": 170263,
+      "game_name": "SpellForce III: Reforced",
+      "game_url": "https://ostdb.net/games/spellforce-iii-reforced",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27359779c98d5b3eef8b4dd905c",
+      "albums": [
+        {
+          "album_name": "SpellForce III Reforced (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0bH2bf9pTCBtWfKiKLUL9X",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -33267,6 +33491,20 @@
       ]
     },
     {
+      "igdb_id": 152126,
+      "game_name": "Streets of Rage 4: Mr X. Nightmare",
+      "game_url": "https://ostdb.net/games/streets-of-rage-4-mr-x-nightmare",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273355a8936173381107e587563",
+      "albums": [
+        {
+          "album_name": "Streets of Rage 4: Mr. X Nightmare (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4AGh1QoxUz2ImpgFYZWRXa",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 23275,
       "game_name": "Streets of Rogue",
       "game_url": "https://ostdb.net/games/streets-of-rogue",
@@ -33881,6 +34119,20 @@
         {
           "album_name": "Swarmlake (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/05G5uRZNYJpc5S5F5JZ2Ac",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 125885,
+      "game_name": "Sword of the Necromancer",
+      "game_url": "https://ostdb.net/games/sword-of-the-necromancer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27302fc1c3fe9855a650c60c021",
+      "albums": [
+        {
+          "album_name": "Sword of the Necromancer (Original Videogame Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4LG4zQ8ROkxxf8pefOT0C8",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34599,6 +34851,20 @@
       ]
     },
     {
+      "igdb_id": 191430,
+      "game_name": "Tentacular",
+      "game_url": "https://ostdb.net/games/tentacular",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273db855d075fe8347f618e810e",
+      "albums": [
+        {
+          "album_name": "Tentacular (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0V3KAgQ0LyjyUylmBhoNme",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 4204,
       "game_name": "Terminator Salvation",
       "game_url": "https://ostdb.net/games/terminator-salvation",
@@ -35155,6 +35421,20 @@
           "spotify_url": "https://open.spotify.com/album/22hbndfpmPHrxemQ0B8rgt",
           "apple_music_url": "https://music.apple.com/us/album/the-cat-lady-album-music-from-the-video-game/1563562290",
           "album_link_url": "https://album.link/i/1563562290"
+        }
+      ]
+    },
+    {
+      "igdb_id": 191420,
+      "game_name": "The Centennial Case: A Shijima Story",
+      "game_url": "https://ostdb.net/games/the-centennial-case-a-shijima-story",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735eaf24faa9d60d06083370fe",
+      "albums": [
+        {
+          "album_name": "The Centennial Case: A Shijima Story Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2XnCjmIXhzJjMSMLjd1BKh",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -36224,6 +36504,20 @@
           "album_name": "The Legend of Zelda: The Wind Waker - Covers",
           "spotify_url": "https://open.spotify.com/album/2wVI94YhcGv662x7pZ2eec",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145527,
+      "game_name": "The Lightbringer",
+      "game_url": "https://ostdb.net/games/the-lightbringer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e83000c3d3781f3a8e23ac8d",
+      "albums": [
+        {
+          "album_name": "The Lightbringer (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2xu4mWuKmsPpx8REEcBCL8",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
