@@ -16306,6 +16306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smurfette's Magic Match | 108977 | [108977-smurfettes-magic-match.json](./108977-smurfettes-magic-match.json) |
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
+| Smurfs Bubble Shooter Story | 99851 | [99851-smurfs-bubble-shooter-story.json](./99851-smurfs-bubble-shooter-story.json) |
 | Smurfs Bubble Story | 109176 | [109176-smurfs-bubble-story.json](./109176-smurfs-bubble-story.json) |
 | Smurfs Kart | 206680 | [206680-smurfs-kart.json](./206680-smurfs-kart.json) |
 | Smurfs Kart: Day 1 Edition | 210462 | [210462-smurfs-kart-day-1-edition.json](./210462-smurfs-kart-day-1-edition.json) |
@@ -22964,6 +22965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan Frontline | 374529 | [374529-spartan-frontline.json](./374529-spartan-frontline.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
+| Spartan Villa | 99838 | [99838-spartan-villa.json](./99838-spartan-villa.json) |
 | Spartan VR | 43067 | [43067-spartan-vr.json](./43067-spartan-vr.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
@@ -25470,6 +25472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
 | Sprinkle Islands | 22163 | [22163-sprinkle-islands.json](./22163-sprinkle-islands.json) |
 | Sprinkle Junior | 103088 | [103088-sprinkle-junior.json](./103088-sprinkle-junior.json) |
+| Sprinkle! | 99867 | [99867-sprinkle.json](./99867-sprinkle.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
 | Sprinkler Co. | 367890 | [367890-sprinkler-co.json](./367890-sprinkler-co.json) |
@@ -30204,6 +30207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Cats | 116739 | [116739-stop-cats.json](./116739-stop-cats.json) |
 | Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
+| Stop Robots | 99858 | [99858-stop-robots.json](./99858-stop-robots.json) |
 | Stop Rod | 291204 | [291204-stop-rod.json](./291204-stop-rod.json) |
 | Stop Santa - Tower Defense | 76275 | [76275-stop-santa-tower-defense.json](./76275-stop-santa-tower-defense.json) |
 | Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
