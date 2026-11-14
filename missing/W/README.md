@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
 | Warpzone Drifter 2 | 276583 | [276583-warpzone-drifter-2.json](./276583-warpzone-drifter-2.json) |
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
+| Warr: Global Domination | 97561 | [97561-warr-global-domination.json](./97561-warr-global-domination.json) |
 | Warraff Online | 417397 | [417397-warraff-online.json](./417397-warraff-online.json) |
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
 | Warranty Not Included | 328107 | [328107-warranty-not-included.json](./328107-warranty-not-included.json) |
