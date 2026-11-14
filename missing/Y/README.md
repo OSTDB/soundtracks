@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
 | Yatzy Yacht Free | 232280 | [232280-yatzy-yacht-free.json](./232280-yatzy-yacht-free.json) |
 | YatzyDOS | 298946 | [298946-yatzydos.json](./298946-yatzydos.json) |
+| Yauchi | 98101 | [98101-yauchi.json](./98101-yauchi.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
 | Yavi | 190342 | [190342-yavi.json](./190342-yavi.json) |
 | Yawara! | 58886 | [58886-yawara.json](./58886-yawara.json) |
