@@ -7876,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago Syndicate | 46352 | [46352-chicago-syndicate.json](./46352-chicago-syndicate.json) |
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
 | Chicane: Jenson Button Street Racing | 230472 | [230472-chicane-jenson-button-street-racing.json](./230472-chicane-jenson-button-street-racing.json) |
+| Chicaro Dentistry | 132282 | [132282-chicaro-dentistry.json](./132282-chicaro-dentistry.json) |
 | Chicco App Toys Blocks | 252566 | [252566-chicco-app-toys-blocks.json](./252566-chicco-app-toys-blocks.json) |
 | Chiccoo and Life | 303729 | [303729-chiccoo-and-life.json](./303729-chiccoo-and-life.json) |
 | Chichen Itza | 13486 | [13486-chichen-itza.json](./13486-chichen-itza.json) |
@@ -11944,6 +11945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
 | Clouds of Fire: Blazing Skies | 134899 | [134899-clouds-of-fire-blazing-skies.json](./134899-clouds-of-fire-blazing-skies.json) |
 | Clouds of Rain | 149667 | [149667-clouds-of-rain.json](./149667-clouds-of-rain.json) |
+| Cloudscape | 132299 | [132299-cloudscape.json](./132299-cloudscape.json) |
 | Cloudscrapers | 354887 | [354887-cloudscrapers.json](./354887-cloudscrapers.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudsea Frontier | 406268 | [406268-cloudsea-frontier.json](./406268-cloudsea-frontier.json) |
@@ -21387,6 +21389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Annihilation | 374113 | [374113-cubic-annihilation.json](./374113-cubic-annihilation.json) |
 | Cubic Blitz | 348984 | [348984-cubic-blitz.json](./348984-cubic-blitz.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
+| Cubic Chess | 132295 | [132295-cubic-chess.json](./132295-cubic-chess.json) |
 | Cubic Color | 93677 | [93677-cubic-color.json](./93677-cubic-color.json) |
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic complex | 32108 | [32108-cubic-complex.json](./32108-cubic-complex.json) |
