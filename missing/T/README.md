@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
 | Tale of Fortune | 115233 | [115233-tale-of-fortune.json](./115233-tale-of-fortune.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
+| Tale of Immortal | 143166 | [143166-tale-of-immortal.json](./143166-tale-of-immortal.json) |
 | Tale of Immortal Ring | 390592 | [390592-tale-of-immortal-ring.json](./390592-tale-of-immortal-ring.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testament | 415737 | [415737-testament.json](./415737-testament.json) |
 | Testament: The Order of High-Human | 250466 | [250466-testament-the-order-of-high-human.json](./250466-testament-the-order-of-high-human.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
+| Tested on Humans: Escape Room | 143171 | [143171-tested-on-humans-escape-room.json](./143171-tested-on-humans-escape-room.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
 | Tester Phase One | 98809 | [98809-tester-phase-one.json](./98809-tester-phase-one.json) |
@@ -7358,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Pooh | 50423 | [50423-the-book-of-pooh.json](./50423-the-book-of-pooh.json) |
 | The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
 | The Book of Regrets | 99488 | [99488-the-book-of-regrets.json](./99488-the-book-of-regrets.json) |
+| The Book of Shadows | 143152 | [143152-the-book-of-shadows.json](./143152-the-book-of-shadows.json) |
 | The Book of the Dead | 273287 | [273287-the-book-of-the-dead.json](./273287-the-book-of-the-dead.json) |
 | The Book of the Dead: Lost Souls | 279992 | [279992-the-book-of-the-dead-lost-souls.json](./279992-the-book-of-the-dead-lost-souls.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
@@ -32978,6 +32981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trap of the Alchemy | 98490 | [98490-trap-of-the-alchemy.json](./98490-trap-of-the-alchemy.json) |
+| Trap Quest | 143168 | [143168-trap-quest.json](./143168-trap-quest.json) |
 | Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
