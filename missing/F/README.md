@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous Crash | 257547 | [257547-famous-crash.json](./257547-famous-crash.json) |
 | Famous Duo Bundle | 255501 | [255501-famous-duo-bundle.json](./255501-famous-duo-bundle.json) |
 | Famous Five Adventure | 37262 | [37262-famous-five-adventure.json](./37262-famous-five-adventure.json) |
+| Famous Paintings Parodies | 101794 | [101794-famous-paintings-parodies.json](./101794-famous-paintings-parodies.json) |
 | Famous People Quiz | 89797 | [89797-famous-people-quiz.json](./89797-famous-people-quiz.json) |
 | Famousity | 83813 | [83813-famousity.json](./83813-famousity.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
@@ -11044,6 +11045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill Pico | 388678 | [388678-forgotten-hill-pico.json](./388678-forgotten-hill-pico.json) |
 | Forgotten Hill Tales | 142330 | [142330-forgotten-hill-tales.json](./142330-forgotten-hill-tales.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
+| Forgotten Hill: Puppeteer | 101796 | [101796-forgotten-hill-puppeteer.json](./101796-forgotten-hill-puppeteer.json) |
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
 | Forgotten Hill: The Wardrobe - Dark Mechanics | 393171 | [393171-forgotten-hill-the-wardrobe-dark-mechanics.json](./393171-forgotten-hill-the-wardrobe-dark-mechanics.json) |
