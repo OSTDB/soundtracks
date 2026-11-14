@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
+| 1980 | 148608 | [148608-1980.json](./148608-1980.json) |
 | 1982 | 43126 | [43126-1982.json](./43126-1982.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
@@ -3985,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ànyán no Shénzú Ove: Fēng zhī Zhāng | 394202 | [394202-anyan-no-shenzu-ove-feng-zhi-zhang.json](./394202-anyan-no-shenzu-ove-feng-zhi-zhang.json) |
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
 | Àohuáng Yì Jiànjué | 114337 | [114337-aohuang-yi-jianjue.json](./114337-aohuang-yi-jianjue.json) |
+| Àojiàn Qíngyuán | 148618 | [148618-aojian-qingyuan.json](./148618-aojian-qingyuan.json) |
 | Är Alfons Åberg hemma? | 336033 | [336033-ar-alfons-aberg-hemma.json](./336033-ar-alfons-aberg-hemma.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | ​ARZA: Adrenaline Rush Zombie Assault | 179884 | [179884-arza-adrenaline-rush-zombie-assault.json](./179884-arza-adrenaline-rush-zombie-assault.json) |
