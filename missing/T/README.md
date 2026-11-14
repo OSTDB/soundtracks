@@ -5869,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
 | The 95% Threshold | 131884 | [131884-the-95-threshold.json](./131884-the-95-threshold.json) |
+| The 99 | 158755 | [158755-the-99.json](./158755-the-99.json) |
 | The 9th Annual Vanilla Level Design Contest: Collaboration Hack | 187275 | [187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json](./187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 9th Charnel | 217129 | [217129-the-9th-charnel.json](./217129-the-9th-charnel.json) |
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
@@ -5983,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventurer and His Backpack | 36823 | [36823-the-adventurer-and-his-backpack.json](./36823-the-adventurer-and-his-backpack.json) |
 | The Adventurer: Episode 1 - Beginning of the End | 52766 | [52766-the-adventurer-episode-1-beginning-of-the-end.json](./52766-the-adventurer-episode-1-beginning-of-the-end.json) |
+| The Adventurer: Episode 2 - New Dreams | 158757 | [158757-the-adventurer-episode-2-new-dreams.json](./158757-the-adventurer-episode-2-new-dreams.json) |
 | The Adventurer's Domain Online | 190957 | [190957-the-adventurers-domain-online.json](./190957-the-adventurers-domain-online.json) |
 | The Adventurers | 315996 | [315996-the-adventurers.json](./315996-the-adventurers.json) |
 | The Adventurers | 72138 | [72138-the-adventurers.json](./72138-the-adventurers.json) |
@@ -25212,6 +25214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loop Fighter | 117331 | [117331-time-loop-fighter.json](./117331-time-loop-fighter.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
 | Time Lords | 396898 | [396898-time-lords.json](./396898-time-lords.json) |
+| Time Machine | 158795 | [158795-time-machine.json](./158795-time-machine.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
@@ -33990,6 +33993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
 | Tricolour Lovestory S: Heartful Memories | 175672 | [175672-tricolour-lovestory-s-heartful-memories.json](./175672-tricolour-lovestory-s-heartful-memories.json) |
+| Tricolour Lovestory: Chapter Zero | 158764 | [158764-tricolour-lovestory-chapter-zero.json](./158764-tricolour-lovestory-chapter-zero.json) |
 | Tricone Lab | 34686 | [34686-tricone-lab.json](./34686-tricone-lab.json) |
 | Tricula | 371204 | [371204-tricula.json](./371204-tricula.json) |
 | Tricycle Racers | 388146 | [388146-tricycle-racers.json](./388146-tricycle-racers.json) |
