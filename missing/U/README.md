@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnderDark | 313950 | [313950-underdark.json](./313950-underdark.json) |
 | Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
 | Underdeep | 423858 | [423858-underdeep.json](./423858-underdeep.json) |
+| Underdog Arena | 133515 | [133515-underdog-arena.json](./133515-underdog-arena.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdog Futsal | 390205 | [390205-underdog-futsal.json](./390205-underdog-futsal.json) |
 | Underdogs | 251563 | [251563-underdogs.json](./251563-underdogs.json) |
