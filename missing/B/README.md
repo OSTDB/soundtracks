@@ -15049,6 +15049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouken-Ou Beet: Darkness Century | 269385 | [269385-bouken-ou-beet-darkness-century.json](./269385-bouken-ou-beet-darkness-century.json) |
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
 | Bouken! Dondoko Shima | 65645 | [65645-bouken-dondoko-shima.json](./65645-bouken-dondoko-shima.json) |
+| Boukensha Guild he Youkoso! | 151777 | [151777-boukensha-guild-he-youkoso.json](./151777-boukensha-guild-he-youkoso.json) |
 | Boukoku no Aegis 2035: Warship Gunner | 269386 | [269386-boukoku-no-aegis-2035-warship-gunner.json](./269386-boukoku-no-aegis-2035-warship-gunner.json) |
 | Boukyaku no Edicius | 367544 | [367544-boukyaku-no-edicius.json](./367544-boukyaku-no-edicius.json) |
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
@@ -17508,6 +17509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Blades | 152787 | [152787-broken-blades.json](./152787-broken-blades.json) |
 | Broken Blue | 30404 | [30404-broken-blue.json](./30404-broken-blue.json) |
 | Broken Bots | 19681 | [19681-broken-bots.json](./19681-broken-bots.json) |
+| Broken Bottles | 151871 | [151871-broken-bottles.json](./151871-broken-bottles.json) |
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
 | Broken Brothers | 146475 | [146475-broken-brothers.json](./146475-broken-brothers.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
@@ -18462,6 +18464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
 | Bud Tucker in Double Trouble | 19240 | [19240-bud-tucker-in-double-trouble.json](./19240-bud-tucker-in-double-trouble.json) |
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
+| Buddha Go | 151794 | [151794-buddha-go.json](./151794-buddha-go.json) |
 | Buddhagillie | 268400 | [268400-buddhagillie.json](./268400-buddhagillie.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Buddies | 285842 | [285842-buddies.json](./285842-buddies.json) |
@@ -20148,6 +20151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butler Guillotine | 375077 | [375077-butler-guillotine.json](./375077-butler-guillotine.json) |
 | Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
 | Butler! Summon the Imps! | 382850 | [382850-butler-summon-the-imps.json](./382850-butler-summon-the-imps.json) |
+| Butou Soujin | 151768 | [151768-butou-soujin.json](./151768-butou-soujin.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt | 79045 | [79045-butt.json](./79045-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
