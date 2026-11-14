@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Walkers | 197174 | [197174-rail-walkers.json](./197174-rail-walkers.json) |
 | Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
 | Rail Wars! Karuizawa Yori Satsui wo Nosete | 11791 | [11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json](./11791-rail-wars-karuizawa-yori-satsui-wo-nosete.json) |
+| Rail World | 111961 | [111961-rail-world.json](./111961-rail-world.json) |
 | Rail&Write | 184416 | [184416-rail-and-write.json](./184416-rail-and-write.json) |
 | Railborn | 348300 | [348300-railborn.json](./348300-railborn.json) |
 | Railbound | 198623 | [198623-railbound.json](./198623-railbound.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Ball 2048 | 226980 | [226980-rampage-ball-2048.json](./226980-rampage-ball-2048.json) |
 | Rampage Kage | 406993 | [406993-rampage-kage.json](./406993-rampage-kage.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
+| Rampage Online | 111775 | [111775-rampage-online.json](./111775-rampage-online.json) |
 | Rampage Puzzle Attack | 6552 | [6552-rampage-puzzle-attack.json](./6552-rampage-puzzle-attack.json) |
 | Rampage Ragdoll | 81937 | [81937-rampage-ragdoll.json](./81937-rampage-ragdoll.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
@@ -4088,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursive | 382590 | [382590-recursive.json](./382590-recursive.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
 | Recursive Hate: Spider Hell | 155289 | [155289-recursive-hate-spider-hell.json](./155289-recursive-hate-spider-hell.json) |
+| Recursive Pain | 111788 | [111788-recursive-pain.json](./111788-recursive-pain.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Recursive Ruin | 187389 | [187389-recursive-ruin.json](./187389-recursive-ruin.json) |
 | Recursor | 182274 | [182274-recursor.json](./182274-recursor.json) |
@@ -8074,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridegear Guybrave | 70904 | [70904-ridegear-guybrave.json](./70904-ridegear-guybrave.json) |
 | Ridegear Guybrave II | 70903 | [70903-ridegear-guybrave-ii.json](./70903-ridegear-guybrave-ii.json) |
 | RideOp | 72415 | [72415-rideop.json](./72415-rideop.json) |
+| RideOp - VR Thrill Ride Experience | 111766 | [111766-rideop-vr-thrill-ride-experience.json](./111766-rideop-vr-thrill-ride-experience.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
 | Rider | 91264 | [91264-rider.json](./91264-rider.json) |
@@ -11133,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Racer | 273785 | [273785-rogue-racer.json](./273785-rogue-racer.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Raiders Online | 110005 | [110005-rogue-raiders-online.json](./110005-rogue-raiders-online.json) |
+| Rogue Rails | 111765 | [111765-rogue-rails.json](./111765-rogue-rails.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
