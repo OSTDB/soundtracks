@@ -7073,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon West: Call of Gun. Isekai | 340394 | [340394-pigeon-west-call-of-gun-isekai.json](./340394-pigeon-west-call-of-gun-isekai.json) |
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Pigeon West: Johnny the Pigeon | 338277 | [338277-pigeon-west-johnny-the-pigeon.json](./338277-pigeon-west-johnny-the-pigeon.json) |
+| Pigeon Wings | 88513 | [88513-pigeon-wings.json](./88513-pigeon-wings.json) |
 | Pigeon Wings Strike | 238390 | [238390-pigeon-wings-strike.json](./238390-pigeon-wings-strike.json) |
 | Pigeon: A Love Story | 235117 | [235117-pigeon-a-love-story.json](./235117-pigeon-a-love-story.json) |
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
@@ -9496,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Starships 2 | 220468 | [220468-pixel-starships-2.json](./220468-pixel-starships-2.json) |
 | Pixel Stories of Dungeon | 29523 | [29523-pixel-stories-of-dungeon.json](./29523-pixel-stories-of-dungeon.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
+| Pixel Strike 3D | 88331 | [88331-pixel-strike-3d.json](./88331-pixel-strike-3d.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
 | Pixel Survival Game 3 | 256437 | [256437-pixel-survival-game-3.json](./256437-pixel-survival-game-3.json) |
 | Pixel Survivor | 247986 | [247986-pixel-survivor.json](./247986-pixel-survivor.json) |
