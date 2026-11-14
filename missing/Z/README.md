@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatch Bell! The Electric Arena 2 | 202177 | [202177-zatch-bell-the-electric-arena-2.json](./202177-zatch-bell-the-electric-arena-2.json) |
 | Zathura | 47324 | [47324-zathura.json](./47324-zathura.json) |
 | Zatikon: Crusades | 52782 | [52782-zatikon-crusades.json](./52782-zatikon-crusades.json) |
+| Zatorski, Ph.D. | 132321 | [132321-zatorski-ph-d.json](./132321-zatorski-ph-d.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zatsugaku Olympic Watanabe Wataru-Hen | 232827 | [232827-zatsugaku-olympic-watanabe-wataru-hen.json](./232827-zatsugaku-olympic-watanabe-wataru-hen.json) |
 | Zauberfläche | 85936 | [85936-zauberflache.json](./85936-zauberflache.json) |
