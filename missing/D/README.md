@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
 | Daylight Savings | 178837 | [178837-daylight-savings.json](./178837-daylight-savings.json) |
 | Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
+| Daymare 1998: Black Edition | 135970 | [135970-daymare-1998-black-edition.json](./135970-daymare-1998-black-edition.json) |
 | Daymare Cat | 129557 | [129557-daymare-cat.json](./129557-daymare-cat.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Invaders | 257747 | [257747-daymare-invaders.json](./257747-daymare-invaders.json) |
@@ -5701,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
 | Dedektif Firtina | 19153 | [19153-dedektif-firtina.json](./19153-dedektif-firtina.json) |
 | DeDrive | 102267 | [102267-dedrive.json](./102267-dedrive.json) |
+| DEDstress | 136543 | [136543-dedstress.json](./136543-dedstress.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deducto | 149353 | [149353-deducto.json](./149353-deducto.json) |
 | Deducto 2 | 227140 | [227140-deducto-2.json](./227140-deducto-2.json) |
@@ -12188,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided Ground: Middle East Conflict | 61987 | [61987-divided-ground-middle-east-conflict.json](./61987-divided-ground-middle-east-conflict.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
+| Divided Land | 136542 | [136542-divided-land.json](./136542-divided-land.json) |
 | Divided Reigns | 132336 | [132336-divided-reigns.json](./132336-divided-reigns.json) |
 | Divided Skies | 235502 | [235502-divided-skies.json](./235502-divided-skies.json) |
 | Divided We Fall | 32256 | [32256-divided-we-fall.json](./32256-divided-we-fall.json) |
@@ -17320,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw-Play | 339158 | [339158-draw-play.json](./339158-draw-play.json) |
 | Draw-Play 2 | 339159 | [339159-draw-play-2.json](./339159-draw-play-2.json) |
 | Draw-Play 3 | 339160 | [339160-draw-play-3.json](./339160-draw-play-3.json) |
+| Drawaria.online | 136529 | [136529-drawaria-online.json](./136529-drawaria-online.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
