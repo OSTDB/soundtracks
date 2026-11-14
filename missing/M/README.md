@@ -18450,6 +18450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
 | Mooncat | 318309 | [318309-mooncat.json](./318309-mooncat.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
+| Mooncharmer | 140078 | [140078-mooncharmer.json](./140078-mooncharmer.json) |
 | Moonchild | 252022 | [252022-moonchild.json](./252022-moonchild.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
