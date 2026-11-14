@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canada Clash | 418736 | [418736-canada-clash.json](./418736-canada-clash.json) |
+| Canada Hunt | 92207 | [92207-canada-hunt.json](./92207-canada-hunt.json) |
 | Canadian Football 2017 | 41947 | [41947-canadian-football-2017.json](./41947-canadian-football-2017.json) |
 | Canadian Higurashi | 254361 | [254361-canadian-higurashi.json](./254361-canadian-higurashi.json) |
 | Canadian Robot Racing League | 127175 | [127175-canadian-robot-racing-league.json](./127175-canadian-robot-racing-league.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
 | Cannonball Crew | 328858 | [328858-cannonball-crew.json](./328858-cannonball-crew.json) |
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
+| CannonCrotch | 92735 | [92735-cannoncrotch.json](./92735-cannoncrotch.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
 | Cannoneer | 362777 | [362777-cannoneer.json](./362777-cannoneer.json) |
