@@ -18796,6 +18796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Jump and Run: Traps and Treasures 3 | 320462 | [320462-moorhuhn-jump-and-run-traps-and-treasures-3.json](./320462-moorhuhn-jump-and-run-traps-and-treasures-3.json) |
 | Moorhuhn Kart | 47070 | [47070-moorhuhn-kart.json](./47070-moorhuhn-kart.json) |
 | Moorhuhn Kart 4 | 328411 | [328411-moorhuhn-kart-4.json](./328411-moorhuhn-kart-4.json) |
+| Moorhuhn Knights & Castles | 80003 | [80003-moorhuhn-knights-and-castles.json](./80003-moorhuhn-knights-and-castles.json) |
 | Moorhuhn la Compil' | 282477 | [282477-moorhuhn-la-compil.json](./282477-moorhuhn-la-compil.json) |
 | Moorhuhn ohne Ende | 282434 | [282434-moorhuhn-ohne-ende.json](./282434-moorhuhn-ohne-ende.json) |
 | Moorhuhn präsentiert 10 Fun Games | 282439 | [282439-moorhuhn-prasentiert-10-fun-games.json](./282439-moorhuhn-prasentiert-10-fun-games.json) |
@@ -19029,6 +19030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Mork Folio | 374508 | [374508-mork-folio.json](./374508-mork-folio.json) |
 | Mörker | 389394 | [389394-morker.json](./389394-morker.json) |
+| Morkin 2 | 80026 | [80026-morkin-2.json](./80026-morkin-2.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
 | Morkredd: Ode | 171654 | [171654-morkredd-ode.json](./171654-morkredd-ode.json) |
 | Morkredd: Ra Edition | 164721 | [164721-morkredd-ra-edition.json](./164721-morkredd-ra-edition.json) |
@@ -20980,6 +20982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Infinity's Math Mansion - Kindergarten | 73098 | [73098-ms-infinitys-math-mansion-kindergarten.json](./73098-ms-infinitys-math-mansion-kindergarten.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
+| Ms. Metaverse | 80054 | [80054-ms-metaverse.json](./80054-ms-metaverse.json) |
 | Ms. Pac Man | 218321 | [218321-ms-pac-man.json](./218321-ms-pac-man.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
 | Ms. Pac-Man | 131815 | [131815-ms-pac-man.json](./131815-ms-pac-man.json) |
@@ -23430,6 +23433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Pet Rock | 30456 | [30456-my-pet-rock.json](./30456-my-pet-rock.json) |
 | My Pet School 3D | 84623 | [84623-my-pet-school-3d.json](./84623-my-pet-school-3d.json) |
+| My Pet Shop | 80031 | [80031-my-pet-shop.json](./80031-my-pet-shop.json) |
 | My Pet Sitter is a Futanari | 202467 | [202467-my-pet-sitter-is-a-futanari.json](./202467-my-pet-sitter-is-a-futanari.json) |
 | My Pet Store | 361007 | [361007-my-pet-store.json](./361007-my-pet-store.json) |
 | My Pet World | 268376 | [268376-my-pet-world.json](./268376-my-pet-world.json) |
@@ -24613,6 +24617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth II: Chimera | 72070 | [72070-myth-ii-chimera.json](./72070-myth-ii-chimera.json) |
 | Myth II: Soulblighter | 799 | [799-myth-ii-soulblighter.json](./799-myth-ii-soulblighter.json) |
 | Myth II: Worlds | 210108 | [210108-myth-ii-worlds.json](./210108-myth-ii-worlds.json) |
+| Myth III: The Wolf Age | 79984 | [79984-myth-iii-the-wolf-age.json](./79984-myth-iii-the-wolf-age.json) |
 | Myth Landers | 247617 | [247617-myth-landers.json](./247617-myth-landers.json) |
 | Myth Makers Super Kart GP | 5043 | [5043-myth-makers-super-kart-gp.json](./5043-myth-makers-super-kart-gp.json) |
 | Myth Makers: Orbs of Doom | 5041 | [5041-myth-makers-orbs-of-doom.json](./5041-myth-makers-orbs-of-doom.json) |
