@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
 | Tactics V: "Obsidian Brigade" | 119598 | [119598-tactics-v-obsidian-brigade.json](./119598-tactics-v-obsidian-brigade.json) |
 | Tactics Wanderer | 402654 | [402654-tactics-wanderer.json](./402654-tactics-wanderer.json) |
+| Tactics: Age of Affliction | 114489 | [114489-tactics-age-of-affliction.json](./114489-tactics-age-of-affliction.json) |
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | TacticTrainer | 87457 | [87457-tactictrainer.json](./87457-tactictrainer.json) |
@@ -12046,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 81421 | [81421-the-hunt-for-red-october.json](./81421-the-hunt-for-red-october.json) |
+| The Hunt for Teddy - A Storyshape Adventure | 114622 | [114622-the-hunt-for-teddy-a-storyshape-adventure.json](./114622-the-hunt-for-teddy-a-storyshape-adventure.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Gay Planet | 352150 | [352150-the-hunt-for-the-gay-planet.json](./352150-the-hunt-for-the-gay-planet.json) |
 | The Hunt for the Lost Ship | 89765 | [89765-the-hunt-for-the-lost-ship.json](./89765-the-hunt-for-the-lost-ship.json) |
@@ -14947,6 +14949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Man | 281824 | [281824-the-man-man.json](./281824-the-man-man.json) |
 | The Man of My Dreams | 377954 | [377954-the-man-of-my-dreams.json](./377954-the-man-of-my-dreams.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
+| The Man Who Calls the Shots | 114630 | [114630-the-man-who-calls-the-shots.json](./114630-the-man-who-calls-the-shots.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
 | The Man with the Ivory Cane | 121339 | [121339-the-man-with-the-ivory-cane.json](./121339-the-man-with-the-ivory-cane.json) |
@@ -25506,6 +25509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time To Live | 288606 | [288606-time-to-live.json](./288606-time-to-live.json) |
 | Time to Love | 405894 | [405894-time-to-love.json](./405894-time-to-love.json) |
 | Time to Morp | 185231 | [185231-time-to-morp.json](./185231-time-to-morp.json) |
+| Time to Parkour | 114479 | [114479-time-to-parkour.json](./114479-time-to-parkour.json) |
 | Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
