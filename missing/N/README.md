@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFSCO | 382828 | [382828-nfsco.json](./382828-nfsco.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
+| NGen Racing | 92727 | [92727-ngen-racing.json](./92727-ngen-racing.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | NGL Biathlon 2026 | 178185 | [178185-ngl-biathlon-2026.json](./178185-ngl-biathlon-2026.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
@@ -5653,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Go!! | 252426 | [252426-ninja-go.json](./252426-ninja-go.json) |
 | Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
+| Ninja Gold | 92739 | [92739-ninja-gold.json](./92739-ninja-gold.json) |
 | Ninja Gold Thief | 371146 | [371146-ninja-gold-thief.json](./371146-ninja-gold-thief.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
 | Ninja Golf 2 | 244969 | [244969-ninja-golf-2.json](./244969-ninja-golf-2.json) |
@@ -6767,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
 | Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
 | Nobunaga's Ambition: Kakushin - Power Up Kit | 308205 | [308205-nobunagas-ambition-kakushin-power-up-kit.json](./308205-nobunagas-ambition-kakushin-power-up-kit.json) |
+| Nobunaga's Ambition: Kakushin with Power Up Kit | 92195 | [92195-nobunagas-ambition-kakushin-with-power-up-kit.json](./92195-nobunagas-ambition-kakushin-with-power-up-kit.json) |
 | Nobunaga's Ambition: Lord of Darkness | 394236 | [394236-nobunagas-ambition-lord-of-darkness.json](./394236-nobunagas-ambition-lord-of-darkness.json) |
 | Nobunaga's Ambition: Ranseiki | 267525 | [267525-nobunagas-ambition-ranseiki.json](./267525-nobunagas-ambition-ranseiki.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
@@ -6815,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi with Power-Up Kit | 110406 | [110406-nobunagas-ambition-taishi-with-power-up-kit.json](./110406-nobunagas-ambition-taishi-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tendou | 78305 | [78305-nobunagas-ambition-tendou.json](./78305-nobunagas-ambition-tendou.json) |
 | Nobunaga's Ambition: Tendou - Power Up Kit | 79481 | [79481-nobunagas-ambition-tendou-power-up-kit.json](./79481-nobunagas-ambition-tendou-power-up-kit.json) |
+| Nobunaga's Ambition: Tendou with Power Up Kit | 92196 | [92196-nobunagas-ambition-tendou-with-power-up-kit.json](./92196-nobunagas-ambition-tendou-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki | 44402 | [44402-nobunagas-ambition-tenshouki.json](./44402-nobunagas-ambition-tenshouki.json) |
 | Nobunaga's Ambition: Tenshouki with Power Up Kit | 307166 | [307166-nobunagas-ambition-tenshouki-with-power-up-kit.json](./307166-nobunagas-ambition-tenshouki-with-power-up-kit.json) |
