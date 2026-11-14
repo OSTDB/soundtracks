@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Justice Academy: Winds Arise | 373177 | [373177-tales-of-justice-academy-winds-arise.json](./373177-tales-of-justice-academy-winds-arise.json) |
 | Tales of Kathay | 361259 | [361259-tales-of-kathay.json](./361259-tales-of-kathay.json) |
 | Tales of Kenzera: Zau | 279641 | [279641-tales-of-kenzera-zau.json](./279641-tales-of-kenzera-zau.json) |
+| Tales of Kid Goblin: Puzzle Crush! | 106214 | [106214-tales-of-kid-goblin-puzzle-crush.json](./106214-tales-of-kid-goblin-puzzle-crush.json) |
 | Tales of Kizna | 294593 | [294593-tales-of-kizna.json](./294593-tales-of-kizna.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Kongfu | 161602 | [161602-tales-of-kongfu.json](./161602-tales-of-kongfu.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Dragon: Little Knight Luna | 247329 | [247329-tap-dragon-little-knight-luna.json](./247329-tap-dragon-little-knight-luna.json) |
 | Tap Drift Car | 290846 | [290846-tap-drift-car.json](./290846-tap-drift-car.json) |
 | Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
+| Tap Duels Tournament | 106806 | [106806-tap-duels-tournament.json](./106806-tap-duels-tournament.json) |
 | Tap Empire | 110042 | [110042-tap-empire.json](./110042-tap-empire.json) |
 | Tap Football Star! 20-21 | 174014 | [174014-tap-football-star-20-21.json](./174014-tap-football-star-20-21.json) |
 | Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
@@ -11676,6 +11678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hearth and Harbour | 366973 | [366973-the-hearth-and-harbour.json](./366973-the-hearth-and-harbour.json) |
 | The Heartland Saga | 29427 | [29427-the-heartland-saga.json](./29427-the-heartland-saga.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
+| The Heat of Battle | 106673 | [106673-the-heat-of-battle.json](./106673-the-heat-of-battle.json) |
 | The Heat of War | 168596 | [168596-the-heat-of-war.json](./168596-the-heat-of-war.json) |
 | The Heaven | 346207 | [346207-the-heaven.json](./346207-the-heaven.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
@@ -15585,6 +15588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
 | The Mystery of the Cardboard Island | 294344 | [294344-the-mystery-of-the-cardboard-island.json](./294344-the-mystery-of-the-cardboard-island.json) |
+| The Mystery of the Crimson Manor | 106196 | [106196-the-mystery-of-the-crimson-manor.json](./106196-the-mystery-of-the-crimson-manor.json) |
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Druids | 12449 | [12449-the-mystery-of-the-druids.json](./12449-the-mystery-of-the-druids.json) |
@@ -28983,6 +28987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate Holiday Bowling | 331259 | [331259-totally-accurate-holiday-bowling.json](./331259-totally-accurate-holiday-bowling.json) |
 | Totally Accurate Kissing Booth Simulator | 365917 | [365917-totally-accurate-kissing-booth-simulator.json](./365917-totally-accurate-kissing-booth-simulator.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
+| Totally Battle Simulator | 106217 | [106217-totally-battle-simulator.json](./106217-totally-battle-simulator.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Defenceless | 331801 | [331801-totally-defenceless.json](./331801-totally-defenceless.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
