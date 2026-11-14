@@ -6901,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
 | Akui: The Insane Cultists | 261666 | [261666-akui-the-insane-cultists.json](./261666-akui-the-insane-cultists.json) |
+| Akuji the Demon | 138856 | [138856-akuji-the-demon.json](./138856-akuji-the-demon.json) |
 | Akuji the Heartless | 4145 | [4145-akuji-the-heartless.json](./4145-akuji-the-heartless.json) |
 | Akujo Densetsu | 71902 | [71902-akujo-densetsu.json](./71902-akujo-densetsu.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
@@ -12279,6 +12280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anothereal | 303031 | [303031-anothereal.json](./303031-anothereal.json) |
 | AnotherEidos Of Dragon Vein R | 356002 | [356002-anothereidos-of-dragon-vein-r.json](./356002-anothereidos-of-dragon-vein-r.json) |
+| AnotherOne | 138869 | [138869-anotherone.json](./138869-anotherone.json) |
 | AnotherQuizzGame | 214468 | [214468-anotherquizzgame.json](./214468-anotherquizzgame.json) |
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
@@ -13208,6 +13210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Apparition | 151958 | [151958-apparition.json](./151958-apparition.json) |
 | Apparition | 75926 | [75926-apparition.json](./75926-apparition.json) |
+| Apparition Finder | 138887 | [138887-apparition-finder.json](./138887-apparition-finder.json) |
 | Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
 | Apparitions | 202537 | [202537-apparitions.json](./202537-apparitions.json) |
 | Apparitions: Kotsmine Hills | 170593 | [170593-apparitions-kotsmine-hills.json](./170593-apparitions-kotsmine-hills.json) |
@@ -18356,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Collection: Racing | 255608 | [255608-atari-collection-racing.json](./255608-atari-collection-racing.json) |
 | Atari Collection: Rollenspiele | 70313 | [70313-atari-collection-rollenspiele.json](./70313-atari-collection-rollenspiele.json) |
 | Atari Collection: Strategie | 255607 | [255607-atari-collection-strategie.json](./255607-atari-collection-strategie.json) |
+| Atari Combat: Tank Fury | 138857 | [138857-atari-combat-tank-fury.json](./138857-atari-combat-tank-fury.json) |
 | Atari Couchcade | 304235 | [304235-atari-couchcade.json](./304235-atari-couchcade.json) |
 | Atari Flashback | 245961 | [245961-atari-flashback.json](./245961-atari-flashback.json) |
 | Atari Flashback 2 | 245962 | [245962-atari-flashback-2.json](./245962-atari-flashback-2.json) |
