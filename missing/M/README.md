@@ -3598,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manual Overcycle | 239104 | [239104-manual-overcycle.json](./239104-manual-overcycle.json) |
 | Manual Samuel | 18688 | [18688-manual-samuel.json](./18688-manual-samuel.json) |
 | Manufactoid | 401753 | [401753-manufactoid.json](./401753-manufactoid.json) |
+| Manufactoria | 128671 | [128671-manufactoria.json](./128671-manufactoria.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
@@ -8056,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck: Street Racing | 221627 | [221627-meetnfuck-street-racing.json](./221627-meetnfuck-street-racing.json) |
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | MeetCute | 192726 | [192726-meetcute.json](./192726-meetcute.json) |
+| Meeting | 128705 | [128705-meeting.json](./128705-meeting.json) |
 | Meeting a Hunk in the Park | 341223 | [341223-meeting-a-hunk-in-the-park.json](./341223-meeting-a-hunk-in-the-park.json) |
 | Meeting a Pony | 128825 | [128825-meeting-a-pony.json](./128825-meeting-a-pony.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
@@ -15036,6 +15038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
 | Mirrorama | 421415 | [421415-mirrorama.json](./421415-mirrorama.json) |
 | Mirrorbane | 423375 | [423375-mirrorbane.json](./423375-mirrorbane.json) |
+| Mirrored | 128712 | [128712-mirrored.json](./128712-mirrored.json) |
 | Mirrored Maze | 403655 | [403655-mirrored-maze.json](./403655-mirrored-maze.json) |
 | Mirrored Maze 2 | 403656 | [403656-mirrored-maze-2.json](./403656-mirrored-maze-2.json) |
 | Mirrored Maze 3 | 403697 | [403697-mirrored-maze-3.json](./403697-mirrored-maze-3.json) |
