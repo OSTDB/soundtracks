@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura MMO | 110779 | [110779-sakura-mmo.json](./110779-sakura-mmo.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura MMO 3 | 119492 | [119492-sakura-mmo-3.json](./119492-sakura-mmo-3.json) |
+| Sakura MMO Extra | 142522 | [142522-sakura-mmo-extra.json](./142522-sakura-mmo-extra.json) |
 | Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Momoko no Ukiuki Carnival | 6583 | [6583-sakura-momoko-no-ukiuki-carnival.json](./6583-sakura-momoko-no-ukiuki-carnival.json) |
@@ -21840,6 +21841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Lines: A Puzzle Arcade Game - Extra Levels! | 238171 | [238171-space-lines-a-puzzle-arcade-game-extra-levels.json](./238171-space-lines-a-puzzle-arcade-game-extra-levels.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
 | Space Lint | 132423 | [132423-space-lint.json](./132423-space-lint.json) |
+| Space Loner Chronicle | 141947 | [141947-space-loner-chronicle.json](./141947-space-loner-chronicle.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
 | Space M+A+X | 37157 | [37157-space-m-a-x.json](./37157-space-m-a-x.json) |
@@ -23239,6 +23241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Spin | 41097 | [41097-speed-spin.json](./41097-speed-spin.json) |
 | Speed Squared | 262568 | [262568-speed-squared.json](./262568-speed-squared.json) |
 | Speed Star Adventure | 268707 | [268707-speed-star-adventure.json](./268707-speed-star-adventure.json) |
+| Speed Stars | 141950 | [141950-speed-stars.json](./141950-speed-stars.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
 | Speed Sweeper | 133209 | [133209-speed-sweeper.json](./133209-speed-sweeper.json) |
 | Speed Swing | 137913 | [137913-speed-swing.json](./137913-speed-swing.json) |
@@ -30049,6 +30052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
+| Stop the War | 141925 | [141925-stop-the-war.json](./141925-stop-the-war.json) |
 | Stop Them All | 311923 | [311923-stop-them-all.json](./311923-stop-them-all.json) |
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
