@@ -19616,6 +19616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure-hearted Gyaru and the Shape of Happiness | 221700 | [221700-pure-hearted-gyaru-and-the-shape-of-happiness.json](./221700-pure-hearted-gyaru-and-the-shape-of-happiness.json) |
 | Purely x Cation | 396498 | [396498-purely-x-cation.json](./396498-purely-x-cation.json) |
 | Purenista | 309597 | [309597-purenista.json](./309597-purenista.json) |
+| Purepuri Niizuma wa Boku no Tannin | 97543 | [97543-purepuri-niizuma-wa-boku-no-tannin.json](./97543-purepuri-niizuma-wa-boku-no-tannin.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
