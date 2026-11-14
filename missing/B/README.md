@@ -9248,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Mania Party | 84995 | [84995-bird-mania-party.json](./84995-bird-mania-party.json) |
 | Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
+| Bird Missions | 132315 | [132315-bird-missions.json](./132315-bird-missions.json) |
 | Bird Mother | 312409 | [312409-bird-mother.json](./312409-bird-mother.json) |
 | Bird Museum | 145484 | [145484-bird-museum.json](./145484-bird-museum.json) |
 | Bird of Light | 33458 | [33458-bird-of-light.json](./33458-bird-of-light.json) |
@@ -14081,6 +14082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone and Arrow | 293108 | [293108-bone-and-arrow.json](./293108-bone-and-arrow.json) |
 | Bone App the Teeth | 179076 | [179076-bone-app-the-teeth.json](./179076-bone-app-the-teeth.json) |
+| Bone Appetit | 132307 | [132307-bone-appetit.json](./132307-bone-appetit.json) |
 | Bone Born | 258367 | [258367-bone-born.json](./258367-bone-born.json) |
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
 | Bone Cruncher | 11977 | [11977-bone-cruncher.json](./11977-bone-cruncher.json) |
@@ -17292,6 +17294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brief Battles | 77536 | [77536-brief-battles.json](./77536-brief-battles.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
 | Briefcase | 391559 | [391559-briefcase.json](./391559-briefcase.json) |
+| Briefcase Inc. | 132310 | [132310-briefcase-inc.json](./132310-briefcase-inc.json) |
 | Brig 12 | 105714 | [105714-brig-12.json](./105714-brig-12.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
 | Brigade E5: New Jagged Union | 10065 | [10065-brigade-e5-new-jagged-union.json](./10065-brigade-e5-new-jagged-union.json) |
