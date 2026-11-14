@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
+| Gekisou! Benza Race -Toilet Shooting Star- | 121813 | [121813-gekisou-benza-race-toilet-shooting-star.json](./121813-gekisou-benza-race-toilet-shooting-star.json) |
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
 | Gekitotsu Yonku Battle | 48484 | [48484-gekitotsu-yonku-battle.json](./48484-gekitotsu-yonku-battle.json) |
 | Gekitotsu! Pennant Race | 41679 | [41679-gekitotsu-pennant-race.json](./41679-gekitotsu-pennant-race.json) |
