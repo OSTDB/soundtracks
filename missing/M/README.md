@@ -20499,6 +20499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Magpie's Harmless Card Game | 349047 | [349047-mr-magpies-harmless-card-game.json](./349047-mr-magpies-harmless-card-game.json) |
 | Mr Maker 3D Level Editor | 192072 | [192072-mr-maker-3d-level-editor.json](./192072-mr-maker-3d-level-editor.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
+| Mr Mayor Tells Your Fortune Recounts a Story and Offers You Snacks | 135363 | [135363-mr-mayor-tells-your-fortune-recounts-a-story-and-offers-you-snacks.json](./135363-mr-mayor-tells-your-fortune-recounts-a-story-and-offers-you-snacks.json) |
 | Mr Meal | 190862 | [190862-mr-meal.json](./190862-mr-meal.json) |
 | Mr Mitty and the Itty Bitty Kitty Committee | 302200 | [302200-mr-mitty-and-the-itty-bitty-kitty-committee.json](./302200-mr-mitty-and-the-itty-bitty-kitty-committee.json) |
 | Mr Moneybag | 177864 | [177864-mr-moneybag.json](./177864-mr-moneybag.json) |
@@ -20907,6 +20908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSX-Dino | 267559 | [267559-msx-dino.json](./267559-msx-dino.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | Mt. Aki | 211533 | [211533-mt-aki.json](./211533-mt-aki.json) |
+| Mt. Apricot | 135347 | [135347-mt-apricot.json](./135347-mt-apricot.json) |
 | Mt. Doubt | 101979 | [101979-mt-doubt.json](./101979-mt-doubt.json) |
 | Mt. Recollection | 365946 | [365946-mt-recollection.json](./365946-mt-recollection.json) |
 | MTB Dirt | 154999 | [154999-mtb-dirt.json](./154999-mtb-dirt.json) |
