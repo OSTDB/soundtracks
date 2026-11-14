@@ -21984,6 +21984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
 | Space Probes | 155820 | [155820-space-probes.json](./155820-space-probes.json) |
 | Space Professor | 62842 | [62842-space-professor.json](./62842-space-professor.json) |
+| Space Punks | 154640 | [154640-space-punks.json](./154640-space-punks.json) |
 | Space Pussy Hunter | 384994 | [384994-space-pussy-hunter.json](./384994-space-pussy-hunter.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Quarks | 25296 | [25296-space-quarks.json](./25296-space-quarks.json) |
@@ -28823,16 +28824,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
 | Steel Diver: Sub Wars | 62171 | [62171-steel-diver-sub-wars.json](./62171-steel-diver-sub-wars.json) |
 | Steel Division 2 | 106112 | [106112-steel-division-2.json](./106112-steel-division-2.json) |
+| Steel Division 2: Back to War Pack | 154659 | [154659-steel-division-2-back-to-war-pack.json](./154659-steel-division-2-back-to-war-pack.json) |
+| Steel Division 2: Black Sunday | 154668 | [154668-steel-division-2-black-sunday.json](./154668-steel-division-2-black-sunday.json) |
 | Steel Division 2: Blood Feud in Transylvania | 223827 | [223827-steel-division-2-blood-feud-in-transylvania.json](./223827-steel-division-2-blood-feud-in-transylvania.json) |
+| Steel Division 2: Burning Baltics | 154669 | [154669-steel-division-2-burning-baltics.json](./154669-steel-division-2-burning-baltics.json) |
+| Steel Division 2: Commander Deluxe Edition | 154671 | [154671-steel-division-2-commander-deluxe-edition.json](./154671-steel-division-2-commander-deluxe-edition.json) |
+| Steel Division 2: Death on the Vistula | 154666 | [154666-steel-division-2-death-on-the-vistula.json](./154666-steel-division-2-death-on-the-vistula.json) |
+| Steel Division 2: General Deluxe Edition | 154673 | [154673-steel-division-2-general-deluxe-edition.json](./154673-steel-division-2-general-deluxe-edition.json) |
 | Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #1 - Sandomierz | 166413 | [166413-steel-division-2-nemesis-1-sandomierz.json](./166413-steel-division-2-nemesis-1-sandomierz.json) |
 | Steel Division 2: Nemesis #2 - Lvov Offensive | 166415 | [166415-steel-division-2-nemesis-2-lvov-offensive.json](./166415-steel-division-2-nemesis-2-lvov-offensive.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Nemesis #5 - Raid on Drvar | 204890 | [204890-steel-division-2-nemesis-5-raid-on-drvar.json](./204890-steel-division-2-nemesis-5-raid-on-drvar.json) |
+| Steel Division 2: Reinforcement Pack #1 | 154660 | [154660-steel-division-2-reinforcement-pack-1.json](./154660-steel-division-2-reinforcement-pack-1.json) |
+| Steel Division 2: Reinforcement Pack #10 - Tannenberg | 154670 | [154670-steel-division-2-reinforcement-pack-10-tannenberg.json](./154670-steel-division-2-reinforcement-pack-10-tannenberg.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
+| Steel Division 2: Reinforcement Pack #2 | 154662 | [154662-steel-division-2-reinforcement-pack-2.json](./154662-steel-division-2-reinforcement-pack-2.json) |
+| Steel Division 2: Reinforcement Pack #3 | 154663 | [154663-steel-division-2-reinforcement-pack-3.json](./154663-steel-division-2-reinforcement-pack-3.json) |
+| Steel Division 2: Reinforcement Pack #4 | 154664 | [154664-steel-division-2-reinforcement-pack-4.json](./154664-steel-division-2-reinforcement-pack-4.json) |
+| Steel Division 2: Reinforcement Pack #5 | 154665 | [154665-steel-division-2-reinforcement-pack-5.json](./154665-steel-division-2-reinforcement-pack-5.json) |
 | Steel Division 2: Reinforcement Pack #9 - Army General Versus | 166414 | [166414-steel-division-2-reinforcement-pack-9-army-general-versus.json](./166414-steel-division-2-reinforcement-pack-9-army-general-versus.json) |
+| Steel Division 2: The Fate of Finland | 154667 | [154667-steel-division-2-the-fate-of-finland.json](./154667-steel-division-2-the-fate-of-finland.json) |
+| Steel Division 2: Total Conflict Edition | 154672 | [154672-steel-division-2-total-conflict-edition.json](./154672-steel-division-2-total-conflict-edition.json) |
+| Steel Division 2: Tribute to D-Day Pack | 154661 | [154661-steel-division-2-tribute-to-d-day-pack.json](./154661-steel-division-2-tribute-to-d-day-pack.json) |
 | Steel Division 2: Tribute to Normandy '44 | 293542 | [293542-steel-division-2-tribute-to-normandy-44.json](./293542-steel-division-2-tribute-to-normandy-44.json) |
 | Steel Division 2: Tribute to the Liberation of Italy | 191036 | [191036-steel-division-2-tribute-to-the-liberation-of-italy.json](./191036-steel-division-2-tribute-to-the-liberation-of-italy.json) |
 | Steel Division: Normandy 44 | 27475 | [27475-steel-division-normandy-44.json](./27475-steel-division-normandy-44.json) |
