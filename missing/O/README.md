@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
 | Operation: Overkill II | 73711 | [73711-operation-overkill-ii.json](./73711-operation-overkill-ii.json) |
 | Operation: Overkill II | 73713 | [73713-operation-overkill-ii.json](./73713-operation-overkill-ii.json) |
+| Operation: Pinkeye | 154102 | [154102-operation-pinkeye.json](./154102-operation-pinkeye.json) |
 | Operation: Polarity Hook | 75592 | [75592-operation-polarity-hook.json](./75592-operation-polarity-hook.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
 | Operation: Polygon Storm - The Train | 317163 | [317163-operation-polygon-storm-the-train.json](./317163-operation-polygon-storm-the-train.json) |
