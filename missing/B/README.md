@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Wars | 176617 | [176617-base-wars.json](./176617-base-wars.json) |
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 128484 | [128484-baseball.json](./128484-baseball.json) |
+| Baseball | 131005 | [131005-baseball.json](./131005-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
 | Baseball | 171259 | [171259-baseball.json](./171259-baseball.json) |
 | Baseball | 198607 | [198607-baseball.json](./198607-baseball.json) |
