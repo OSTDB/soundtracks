@@ -10372,11 +10372,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Cards of Fate | 110197 | [110197-grimm-cards-of-fate.json](./110197-grimm-cards-of-fate.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimm: Episode 1 - A Boy Learns What Fear Is | 94099 | [94099-grimm-episode-1-a-boy-learns-what-fear-is.json](./94099-grimm-episode-1-a-boy-learns-what-fear-is.json) |
+| Grimm: Episode 10 - The Singing Bone | 164555 | [164555-grimm-episode-10-the-singing-bone.json](./164555-grimm-episode-10-the-singing-bone.json) |
 | Grimm: Episode 11 - King Midas | 164565 | [164565-grimm-episode-11-king-midas.json](./164565-grimm-episode-11-king-midas.json) |
 | Grimm: Episode 12 - Cinderella | 164560 | [164560-grimm-episode-12-cinderella.json](./164560-grimm-episode-12-cinderella.json) |
 | Grimm: Episode 13 - The Golden Goose | 164563 | [164563-grimm-episode-13-the-golden-goose.json](./164563-grimm-episode-13-the-golden-goose.json) |
+| Grimm: Episode 14 - Iron John | 164554 | [164554-grimm-episode-14-iron-john.json](./164554-grimm-episode-14-iron-john.json) |
+| Grimm: Episode 15 - The Pied Piper | 164557 | [164557-grimm-episode-15-the-pied-piper.json](./164557-grimm-episode-15-the-pied-piper.json) |
+| Grimm: Episode 16 - A Christmas Carol | 164556 | [164556-grimm-episode-16-a-christmas-carol.json](./164556-grimm-episode-16-a-christmas-carol.json) |
 | Grimm: Episode 17 - The Frog King | 164568 | [164568-grimm-episode-17-the-frog-king.json](./164568-grimm-episode-17-the-frog-king.json) |
 | Grimm: Episode 18 - Jack and the Beanstalk | 164564 | [164564-grimm-episode-18-jack-and-the-beanstalk.json](./164564-grimm-episode-18-jack-and-the-beanstalk.json) |
+| Grimm: Episode 19 - Mulan | 164553 | [164553-grimm-episode-19-mulan.json](./164553-grimm-episode-19-mulan.json) |
+| Grimm: Episode 2 - Little Red Riding Hood | 164550 | [164550-grimm-episode-2-little-red-riding-hood.json](./164550-grimm-episode-2-little-red-riding-hood.json) |
+| Grimm: Episode 20 - Pinnochio | 164558 | [164558-grimm-episode-20-pinnochio.json](./164558-grimm-episode-20-pinnochio.json) |
 | Grimm: Episode 21 - Sleeping Beauty | 166407 | [166407-grimm-episode-21-sleeping-beauty.json](./166407-grimm-episode-21-sleeping-beauty.json) |
 | Grimm: Episode 22 - The Adventures of Thumbling | 164567 | [164567-grimm-episode-22-the-adventures-of-thumbling.json](./164567-grimm-episode-22-the-adventures-of-thumbling.json) |
 | Grimm: Episode 23 - Snow White | 164559 | [164559-grimm-episode-23-snow-white.json](./164559-grimm-episode-23-snow-white.json) |
@@ -10386,6 +10393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Episode 6 - Godfather Death | 164561 | [164561-grimm-episode-6-godfather-death.json](./164561-grimm-episode-6-godfather-death.json) |
 | Grimm: Episode 7 - The Devil and His Three Golden Hairs | 166405 | [166405-grimm-episode-7-the-devil-and-his-three-golden-hairs.json](./166405-grimm-episode-7-the-devil-and-his-three-golden-hairs.json) |
 | Grimm: Episode 8 - Beauty and the Beast | 166406 | [166406-grimm-episode-8-beauty-and-the-beast.json](./166406-grimm-episode-8-beauty-and-the-beast.json) |
+| Grimm: Episode 9 - The Master Thief | 164552 | [164552-grimm-episode-9-the-master-thief.json](./164552-grimm-episode-9-the-master-thief.json) |
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Folly | 291508 | [291508-grimms-folly.json](./291508-grimms-folly.json) |
 | Grimm's Godfather | 80069 | [80069-grimms-godfather.json](./80069-grimms-godfather.json) |
