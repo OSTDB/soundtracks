@@ -27341,6 +27341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed II - The Battle of Endor | 74895 | [74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json](./74895-star-wars-the-force-unleashed-ii-the-battle-of-endor.json) |
 | Star Wars: The New Droid Army | 6607 | [6607-star-wars-the-new-droid-army.json](./6607-star-wars-the-new-droid-army.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
+| Star Wars: The Old Republic - Collector's Edition | 135969 | [135969-star-wars-the-old-republic-collectors-edition.json](./135969-star-wars-the-old-republic-collectors-edition.json) |
 | Star Wars: The Old Republic - Enter the Fight | 375222 | [375222-star-wars-the-old-republic-enter-the-fight.json](./375222-star-wars-the-old-republic-enter-the-fight.json) |
 | Star Wars: The Old Republic - Galactic Starfighter | 22656 | [22656-star-wars-the-old-republic-galactic-starfighter.json](./22656-star-wars-the-old-republic-galactic-starfighter.json) |
 | Star Wars: The Old Republic - Galactic Strongholds | 22657 | [22657-star-wars-the-old-republic-galactic-strongholds.json](./22657-star-wars-the-old-republic-galactic-strongholds.json) |
@@ -28237,6 +28238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Iwamachi | 229531 | [229531-starship-iwamachi.json](./229531-starship-iwamachi.json) |
 | Starship Kingdom | 73732 | [73732-starship-kingdom.json](./73732-starship-kingdom.json) |
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
+| Starship Quasar | 136537 | [136537-starship-quasar.json](./136537-starship-quasar.json) |
 | Starship Rubicon | 35191 | [35191-starship-rubicon.json](./35191-starship-rubicon.json) |
 | Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Scarwolf | 371933 | [371933-starship-scarwolf.json](./371933-starship-scarwolf.json) |
@@ -32002,6 +32004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subespaço | 247355 | [247355-subespaco.json](./247355-subespaco.json) |
 | Subespaço | 247356 | [247356-subespaco.json](./247356-subespaco.json) |
+| Subete ga F ni Naru | 136549 | [136549-subete-ga-f-ni-naru.json](./136549-subete-ga-f-ni-naru.json) |
 | Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
 | Subfault | 404509 | [404509-subfault.json](./404509-subfault.json) |
 | SUBG: Surgical Battlegrounds Multiplayer | 175039 | [175039-subg-surgical-battlegrounds-multiplayer.json](./175039-subg-surgical-battlegrounds-multiplayer.json) |
