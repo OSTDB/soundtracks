@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Frenzy: Hurricane Season | 35453 | [35453-farm-frenzy-hurricane-season.json](./35453-farm-frenzy-hurricane-season.json) |
+| Farm Frenzy: Refreshed | 143155 | [143155-farm-frenzy-refreshed.json](./143155-farm-frenzy-refreshed.json) |
 | Farm Frenzy: Refreshed - Collector's Edition | 177101 | [177101-farm-frenzy-refreshed-collectors-edition.json](./177101-farm-frenzy-refreshed-collectors-edition.json) |
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
 | Farm Fun | 359281 | [359281-farm-fun.json](./359281-farm-fun.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Foxes | 298926 | [298926-fate-of-the-foxes.json](./298926-fate-of-the-foxes.json) |
 | Fate of the Pharaoh | 10316 | [10316-fate-of-the-pharaoh.json](./10316-fate-of-the-pharaoh.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
+| Fate of the Storm Gods | 143153 | [143153-fate-of-the-storm-gods.json](./143153-fate-of-the-storm-gods.json) |
 | Fate of the Three Kingdoms | 340064 | [340064-fate-of-the-three-kingdoms.json](./340064-fate-of-the-three-kingdoms.json) |
 | Fate of the World | 15079 | [15079-fate-of-the-world.json](./15079-fate-of-the-world.json) |
 | Fate of the World: Denial | 159640 | [159640-fate-of-the-world-denial.json](./159640-fate-of-the-world-denial.json) |
@@ -6218,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Football: Goal in Two | 253204 | [253204-finger-football-goal-in-two.json](./253204-finger-football-goal-in-two.json) |
+| Finger Fortress | 143157 | [143157-finger-fortress.json](./143157-finger-fortress.json) |
 | Finger Frenzy World | 77118 | [77118-finger-frenzy-world.json](./77118-finger-frenzy-world.json) |
 | Finger Fury Showdown | 348535 | [348535-finger-fury-showdown.json](./348535-finger-fury-showdown.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
@@ -11375,6 +11378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortified Space | 372967 | [372967-fortified-space.json](./372967-fortified-space.json) |
 | Fortified Swiss | 107991 | [107991-fortified-swiss.json](./107991-fortified-swiss.json) |
 | Fortified Zone | 85637 | [85637-fortified-zone.json](./85637-fortified-zone.json) |
+| Fortify | 143188 | [143188-fortify.json](./143188-fortify.json) |
 | Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
 | Fortiori | 374937 | [374937-fortiori.json](./374937-fortiori.json) |
