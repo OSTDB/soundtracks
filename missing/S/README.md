@@ -38252,6 +38252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
 | Swallow Nine Tails | 264400 | [264400-swallow-nine-tails.json](./264400-swallow-nine-tails.json) |
 | Swallow the Blue | 369749 | [369749-swallow-the-blue.json](./369749-swallow-the-blue.json) |
+| Swallow the Blue: Remastered | 164540 | [164540-swallow-the-blue-remastered.json](./164540-swallow-the-blue-remastered.json) |
 | Swallow the Dark | 177827 | [177827-swallow-the-dark.json](./177827-swallow-the-dark.json) |
 | Swallow Up | 124065 | [124065-swallow-up.json](./124065-swallow-up.json) |
 | Swallows: Spring in Bishkek | 214658 | [214658-swallows-spring-in-bishkek.json](./214658-swallows-spring-in-bishkek.json) |
@@ -39533,6 +39534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
 | Synch | 29674 | [29674-synch.json](./29674-synch.json) |
 | Synchro | 296994 | [296994-synchro.json](./296994-synchro.json) |
+| Synchro Hedgehogs | 164615 | [164615-synchro-hedgehogs.json](./164615-synchro-hedgehogs.json) |
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
 | Synchrobeatings | 333707 | [333707-synchrobeatings.json](./333707-synchrobeatings.json) |
 | Synchrom | 34710 | [34710-synchrom.json](./34710-synchrom.json) |
