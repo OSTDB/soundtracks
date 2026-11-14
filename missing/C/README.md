@@ -10980,6 +10980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
 | Classic Bubble Bobble | 69953 | [69953-classic-bubble-bobble.json](./69953-classic-bubble-bobble.json) |
 | Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
+| Classic Car School:Driving Sim | 103700 | [103700-classic-car-school-driving-sim.json](./103700-classic-car-school-driving-sim.json) |
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
 | Classic Card Game Canasta | 129373 | [129373-classic-card-game-canasta.json](./129373-classic-card-game-canasta.json) |
 | Classic Card Game Euchre | 129374 | [129374-classic-card-game-euchre.json](./129374-classic-card-game-euchre.json) |
@@ -17097,6 +17098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
 | Cosmos Defenders | 85553 | [85553-cosmos-defenders.json](./85553-cosmos-defenders.json) |
 | Cosmos Defense | 107529 | [107529-cosmos-defense.json](./107529-cosmos-defense.json) |
+| Cosmos Invictus | 103030 | [103030-cosmos-invictus.json](./103030-cosmos-invictus.json) |
 | Cosmos Iter | 386884 | [386884-cosmos-iter.json](./386884-cosmos-iter.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmos Milk Tea | 372728 | [372728-cosmos-milk-tea.json](./372728-cosmos-milk-tea.json) |
