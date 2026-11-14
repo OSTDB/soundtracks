@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Destroyers | 238139 | [238139-castle-destroyers.json](./238139-castle-destroyers.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
+| Castle Doombad | 80052 | [80052-castle-doombad.json](./80052-castle-doombad.json) |
 | Castle Doombad 2: Muahaha! | 324787 | [324787-castle-doombad-2-muahaha.json](./324787-castle-doombad-2-muahaha.json) |
 | Castle Doombad Classic | 324781 | [324781-castle-doombad-classic.json](./324781-castle-doombad-classic.json) |
 | Castle Doombad: Free To Slay | 324780 | [324780-castle-doombad-free-to-slay.json](./324780-castle-doombad-free-to-slay.json) |
@@ -6405,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Park | 80989 | [80989-challenge-park.json](./80989-challenge-park.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
+| Challenge ProMode Arena | 80048 | [80048-challenge-promode-arena.json](./80048-challenge-promode-arena.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
 | Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
