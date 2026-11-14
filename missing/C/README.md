@@ -10328,6 +10328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Mania | 127491 | [127491-city-mania.json](./127491-city-mania.json) |
 | City Massacre | 220003 | [220003-city-massacre.json](./220003-city-massacre.json) |
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
+| City Match: A Block Pop Puzzle Game | 159399 | [159399-city-match-a-block-pop-puzzle-game.json](./159399-city-match-a-block-pop-puzzle-game.json) |
 | City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
 | City Monsters | 90405 | [90405-city-monsters.json](./90405-city-monsters.json) |
 | City Mysteries | 85031 | [85031-city-mysteries.json](./85031-city-mysteries.json) |
@@ -11761,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed Island | 214439 | [214439-closed-island.json](./214439-closed-island.json) |
 | Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
+| Closer | 159396 | [159396-closer.json](./159396-closer.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | Closer Than You Think | 108361 | [108361-closer-than-you-think.json](./108361-closer-than-you-think.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
@@ -13582,6 +13584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 3: Season Pass | 252761 | [252761-coloring-game-3-season-pass.json](./252761-coloring-game-3-season-pass.json) |
 | Coloring Game 3: Video Game No. 1 | 252760 | [252760-coloring-game-3-video-game-no-1.json](./252760-coloring-game-3-video-game-no-1.json) |
 | Coloring Game 3: Video Game No. 2 | 252758 | [252758-coloring-game-3-video-game-no-2.json](./252758-coloring-game-3-video-game-no-2.json) |
+| Coloring Game 4 | 159419 | [159419-coloring-game-4.json](./159419-coloring-game-4.json) |
 | Coloring Game 4: 2 Bit Palette | 252749 | [252749-coloring-game-4-2-bit-palette.json](./252749-coloring-game-4-2-bit-palette.json) |
 | Coloring Game 4: 3 Bit Palette | 252748 | [252748-coloring-game-4-3-bit-palette.json](./252748-coloring-game-4-3-bit-palette.json) |
 | Coloring Game 4: 4 Bit Palette | 252747 | [252747-coloring-game-4-4-bit-palette.json](./252747-coloring-game-4-4-bit-palette.json) |
@@ -21174,6 +21177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
 | Cube Zone | 320655 | [320655-cube-zone.json](./320655-cube-zone.json) |
 | Cube-C: VR Game Collection | 74204 | [74204-cube-c-vr-game-collection.json](./74204-cube-c-vr-game-collection.json) |
+| Cube-e | 159420 | [159420-cube-e.json](./159420-cube-e.json) |
 | Cube-e 2 | 165415 | [165415-cube-e-2.json](./165415-cube-e-2.json) |
 | Cube-Field+ | 392369 | [392369-cube-field.json](./392369-cube-field.json) |
 | Cube-Up | 56834 | [56834-cube-up.json](./56834-cube-up.json) |
