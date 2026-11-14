@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkMan | 23141 | [23141-talkman.json](./23141-talkman.json) |
+| Talkman Travel | 92721 | [92721-talkman-travel.json](./92721-talkman-travel.json) |
 | Talks With My Mom | 181746 | [181746-talks-with-my-mom.json](./181746-talks-with-my-mom.json) |
 | Talksport Interactive Quiz | 320902 | [320902-talksport-interactive-quiz.json](./320902-talksport-interactive-quiz.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tan Tank 2 | 296008 | [296008-tan-tank-2.json](./296008-tan-tank-2.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanaka 3D | 247113 | [247113-tanaka-3d.json](./247113-tanaka-3d.json) |
+| Tanarus | 92740 | [92740-tanarus.json](./92740-tanarus.json) |
 | Tanasurga | 190126 | [190126-tanasurga.json](./190126-tanasurga.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tanbi Musou: Meine Liebe | 49825 | [49825-tanbi-musou-meine-liebe.json](./49825-tanbi-musou-meine-liebe.json) |
@@ -2550,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge | 68955 | [68955-tap-tap-revenge.json](./68955-tap-tap-revenge.json) |
 | Tap Tap Revenge 2 | 92642 | [92642-tap-tap-revenge-2.json](./92642-tap-tap-revenge-2.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
+| Tap Tap Revenge 4 | 92194 | [92194-tap-tap-revenge-4.json](./92194-tap-tap-revenge-4.json) |
 | Tap Tap Revenge Tour | 64851 | [64851-tap-tap-revenge-tour.json](./64851-tap-tap-revenge-tour.json) |
 | Tap Tap Revenge: Coldplay Edition | 69135 | [69135-tap-tap-revenge-coldplay-edition.json](./69135-tap-tap-revenge-coldplay-edition.json) |
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
@@ -25719,6 +25722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timen runner | 28689 | [28689-timen-runner.json](./28689-timen-runner.json) |
 | TimeNot | 365265 | [365265-timenot.json](./365265-timenot.json) |
 | Timension | 75059 | [75059-timension.json](./75059-timension.json) |
+| TimeO | 92728 | [92728-timeo.json](./92728-timeo.json) |
 | Timeout | 305953 | [305953-timeout.json](./305953-timeout.json) |
 | TimeOut | 134271 | [134271-timeout.json](./134271-timeout.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
