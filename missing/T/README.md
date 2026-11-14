@@ -26194,6 +26194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Atlantis | 118280 | [118280-titan-quest-atlantis.json](./118280-titan-quest-atlantis.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
+| Titan Quest: Legendary Edition | 155209 | [155209-titan-quest-legendary-edition.json](./155209-titan-quest-legendary-edition.json) |
 | Titan Quest: Ragnarök | 75999 | [75999-titan-quest-ragnarok.json](./75999-titan-quest-ragnarok.json) |
 | Titan Revenge | 278356 | [278356-titan-revenge.json](./278356-titan-revenge.json) |
 | Titan Saga: Chains of Kronos | 112060 | [112060-titan-saga-chains-of-kronos.json](./112060-titan-saga-chains-of-kronos.json) |
@@ -34671,6 +34672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: Nintendo Switch Starter Bundle | 283202 | [283202-tropico-6-nintendo-switch-starter-bundle.json](./283202-tropico-6-nintendo-switch-starter-bundle.json) |
 | Tropico 6: Return to Nature | 334642 | [334642-tropico-6-return-to-nature.json](./334642-tropico-6-return-to-nature.json) |
 | Tropico 6: Spitter | 155172 | [155172-tropico-6-spitter.json](./155172-tropico-6-spitter.json) |
+| Tropico 6: The Llama of Wall Street | 155195 | [155195-tropico-6-the-llama-of-wall-street.json](./155195-tropico-6-the-llama-of-wall-street.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
 | Tropico 7 | 362040 | [362040-tropico-7.json](./362040-tropico-7.json) |
 | Tropico Jong: Butterfly Expedition | 416177 | [416177-tropico-jong-butterfly-expedition.json](./416177-tropico-jong-butterfly-expedition.json) |
