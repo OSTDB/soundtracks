@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Explorer | 57394 | [57394-last-explorer.json](./57394-last-explorer.json) |
 | Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
 | Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
+| Last Fish | 134142 | [134142-last-fish.json](./134142-last-fish.json) |
 | Last Fisherman | 385001 | [385001-last-fisherman.json](./385001-last-fisherman.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Flag | 347665 | [347665-last-flag.json](./347665-last-flag.json) |
@@ -6882,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tomato: Age of Tomatoes | 25277 | [25277-little-tomato-age-of-tomatoes.json](./25277-little-tomato-age-of-tomatoes.json) |
 | Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
+| Little Town Hero: Big Idea Edition | 134108 | [134108-little-town-hero-big-idea-edition.json](./134108-little-town-hero-big-idea-edition.json) |
 | Little Town Secrets | 350307 | [350307-little-town-secrets.json](./350307-little-town-secrets.json) |
 | Little Town Shooter VR | 204017 | [204017-little-town-shooter-vr.json](./204017-little-town-shooter-vr.json) |
 | Little Toys | 393216 | [393216-little-toys.json](./393216-little-toys.json) |
@@ -9933,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Fracture | 183363 | [183363-lovely-fracture.json](./183363-lovely-fracture.json) |
 | Lovely Girl Puzzle | 118239 | [118239-lovely-girl-puzzle.json](./118239-lovely-girl-puzzle.json) |
+| Lovely Girls | 134122 | [134122-lovely-girls.json](./134122-lovely-girls.json) |
 | Lovely Girls | 379630 | [379630-lovely-girls.json](./379630-lovely-girls.json) |
 | Lovely Girls Puzzle | 163540 | [163540-lovely-girls-puzzle.json](./163540-lovely-girls-puzzle.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
@@ -10838,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
+| Lunar Flowers | 134146 | [134146-lunar-flowers.json](./134146-lunar-flowers.json) |
 | Lunar Genesis: Dragon Song | 85266 | [85266-lunar-genesis-dragon-song.json](./85266-lunar-genesis-dragon-song.json) |
 | Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
 | Lunar Greenhouse | 311003 | [311003-lunar-greenhouse.json](./311003-lunar-greenhouse.json) |
