@@ -15788,6 +15788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
 | Conway's Game of Life | 213117 | [213117-conways-game-of-life.json](./213117-conways-game-of-life.json) |
 | Conway's Game of Life | 77879 | [77879-conways-game-of-life.json](./77879-conways-game-of-life.json) |
+| Coof Attack | 141272 | [141272-coof-attack.json](./141272-coof-attack.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
 | Cook 'Til Escape: Nyanzou & Kumakichi - Escape Game | 301178 | [301178-cook-til-escape-nyanzou-and-kumakichi-escape-game.json](./301178-cook-til-escape-nyanzou-and-kumakichi-escape-game.json) |
 | Cook and Play: Animal Friends | 366735 | [366735-cook-and-play-animal-friends.json](./366735-cook-and-play-animal-friends.json) |
