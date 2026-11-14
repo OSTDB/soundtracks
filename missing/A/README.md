@@ -5625,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Heart: Deception | 259180 | [259180-agent-heart-deception.json](./259180-agent-heart-deception.json) |
 | Agent Hlina | 182430 | [182430-agent-hlina.json](./182430-agent-hlina.json) |
 | Agent Horny: Season 1 | 384893 | [384893-agent-horny-season-1.json](./384893-agent-horny-season-1.json) |
+| Agent Hugo | 95462 | [95462-agent-hugo.json](./95462-agent-hugo.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
 | Agent Hugo: Roborumble | 141696 | [141696-agent-hugo-roborumble.json](./141696-agent-hugo-roborumble.json) |
@@ -20049,6 +20050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
 | Avatar: Realms Collide | 313029 | [313029-avatar-realms-collide.json](./313029-avatar-realms-collide.json) |
 | Avatar: Reckoning | 216279 | [216279-avatar-reckoning.json](./216279-avatar-reckoning.json) |
+| Avatar: The Burning Earth | 94993 | [94993-avatar-the-burning-earth.json](./94993-avatar-the-burning-earth.json) |
 | Avatar: The Last Airbender | 202100 | [202100-avatar-the-last-airbender.json](./202100-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 202168 | [202168-avatar-the-last-airbender.json](./202168-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
