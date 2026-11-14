@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
 | Red String of Fate | 29563 | [29563-red-string-of-fate.json](./29563-red-string-of-fate.json) |
+| Red Suitcase | 134140 | [134140-red-suitcase.json](./134140-red-suitcase.json) |
 | Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
 | Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
