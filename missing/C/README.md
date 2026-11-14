@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
 | Candy Disaster | 129334 | [129334-candy-disaster.json](./129334-candy-disaster.json) |
 | Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
+| Candy Factory | 122477 | [122477-candy-factory.json](./122477-candy-factory.json) |
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
@@ -3948,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Conquest: Medieval Strategy | 295177 | [295177-castle-conquest-medieval-strategy.json](./295177-castle-conquest-medieval-strategy.json) |
 | Castle Constructor | 157818 | [157818-castle-constructor.json](./157818-castle-constructor.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
+| Castle Costume | 122441 | [122441-castle-costume.json](./122441-castle-costume.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
 | Castle Craft: World War | 175031 | [175031-castle-craft-world-war.json](./175031-castle-craft-world-war.json) |
 | Castle Crafter | 253208 | [253208-castle-crafter.json](./253208-castle-crafter.json) |
@@ -19725,6 +19727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croixleur Sigma | 10116 | [10116-croixleur-sigma.json](./10116-croixleur-sigma.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
 | Croket! 4: Bank no Mori no Shugoshin | 125502 | [125502-croket-4-bank-no-mori-no-shugoshin.json](./125502-croket-4-bank-no-mori-no-shugoshin.json) |
+| Croket! DS: Tenkuu no Yuusha-tachi | 122459 | [122459-croket-ds-tenkuu-no-yuusha-tachi.json](./122459-croket-ds-tenkuu-no-yuusha-tachi.json) |
 | Croket! Kindan no Kinka Box | 248202 | [248202-croket-kindan-no-kinka-box.json](./248202-croket-kindan-no-kinka-box.json) |
 | Crollors Game Pack | 85559 | [85559-crollors-game-pack.json](./85559-crollors-game-pack.json) |
 | Crom: Journey of Conquest | 173217 | [173217-crom-journey-of-conquest.json](./173217-crom-journey-of-conquest.json) |
@@ -19894,6 +19897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
+| crossbeats REV. Sunrise | 122478 | [122478-crossbeats-rev-sunrise.json](./122478-crossbeats-rev-sunrise.json) |
 | CrossBlade | 177852 | [177852-crossblade.json](./177852-crossblade.json) |
 | Crossbow | 11868 | [11868-crossbow.json](./11868-crossbow.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
