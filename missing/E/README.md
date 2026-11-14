@@ -6423,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | Esoteria: Techno-Assassin of the Future | 73924 | [73924-esoteria-techno-assassin-of-the-future.json](./73924-esoteria-techno-assassin-of-the-future.json) |
 | Esoterica Order | 311588 | [311588-esoterica-order.json](./311588-esoterica-order.json) |
+| Esothe | 132311 | [132311-esothe.json](./132311-esothe.json) |
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
 | ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
 | ESP Ra.De. Psi: Limited Edition | 167029 | [167029-esp-ra-de-psi-limited-edition.json](./167029-esp-ra-de-psi-limited-edition.json) |
