@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
 | 911 Fire Rescue | 71612 | [71612-911-fire-rescue.json](./71612-911-fire-rescue.json) |
+| 911 FR | 119103 | [119103-911-fr.json](./119103-911-fr.json) |
 | 911 Operator | 20927 | [20927-911-operator.json](./20927-911-operator.json) |
 | 911 Operator + Special Resources | 99474 | [99474-911-operator-special-resources.json](./99474-911-operator-special-resources.json) |
 | 911 Operator Bundle | 237907 | [237907-911-operator-bundle.json](./237907-911-operator-bundle.json) |
@@ -3959,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
+| 996 de Zhēnshí Laǒbǎn Piān | 119101 | [119101-996-de-zhenshi-laoban-pian.json](./119101-996-de-zhenshi-laoban-pian.json) |
 | 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 999 Hidden Cats: Brazil Together | 349281 | [349281-999-hidden-cats-brazil-together.json](./349281-999-hidden-cats-brazil-together.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
