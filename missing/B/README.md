@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baguette Wars | 313638 | [313638-baguette-wars.json](./313638-baguette-wars.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
+| Bahamian Beat Down | 132881 | [132881-bahamian-beat-down.json](./132881-bahamian-beat-down.json) |
 | Bahamian Rhapsody | 167378 | [167378-bahamian-rhapsody.json](./167378-bahamian-rhapsody.json) |
 | Bahamut 2: Dragon's Bride | 288427 | [288427-bahamut-2-dragons-bride.json](./288427-bahamut-2-dragons-bride.json) |
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
@@ -13481,6 +13482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogos Binted? | 346205 | [346205-bogos-binted.json](./346205-bogos-binted.json) |
 | BogOut | 93212 | [93212-bogout.json](./93212-bogout.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
+| BOGs: Earth vs Sea | 132882 | [132882-bogs-earth-vs-sea.json](./132882-bogs-earth-vs-sea.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
 | BoHeM | 405747 | [405747-bohem.json](./405747-bohem.json) |
@@ -16872,6 +16874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Space | 262753 | [262753-breath-of-space.json](./262753-breath-of-space.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
 | Breath of the Depth | 265483 | [265483-breath-of-the-depth.json](./265483-breath-of-the-depth.json) |
+| Breath of the Forest | 132880 | [132880-breath-of-the-forest.json](./132880-breath-of-the-forest.json) |
 | Breath of the Gods | 223310 | [223310-breath-of-the-gods.json](./223310-breath-of-the-gods.json) |
 | Breath of the NES | 402394 | [402394-breath-of-the-nes.json](./402394-breath-of-the-nes.json) |
 | Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
@@ -19206,6 +19209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumbi | 289426 | [289426-bumbi.json](./289426-bumbi.json) |
 | Bumble Bee | 13825 | [13825-bumble-bee.json](./13825-bumble-bee.json) |
 | Bumble Brawlers | 330343 | [330343-bumble-brawlers.json](./330343-bumble-brawlers.json) |
+| Bumble Butt | 132926 | [132926-bumble-butt.json](./132926-bumble-butt.json) |
 | Bumble Games | 72171 | [72171-bumble-games.json](./72171-bumble-games.json) |
 | Bumble Plot | 68725 | [68725-bumble-plot.json](./68725-bumble-plot.json) |
 | Bumble Rumble | 346678 | [346678-bumble-rumble.json](./346678-bumble-rumble.json) |
