@@ -3024,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404 Survivor | 390894 | [390894-404-survivor.json](./390894-404-survivor.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
+| 408: The Forbidden Room | 166865 | [166865-408-the-forbidden-room.json](./166865-408-the-forbidden-room.json) |
 | 4089: Ghost Within | 11433 | [11433-4089-ghost-within.json](./11433-4089-ghost-within.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 4096 Space Traders Era | 414799 | [414799-4096-space-traders-era.json](./414799-4096-space-traders-era.json) |
