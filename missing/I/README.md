@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If My Heart Had Wings: Flight Diary | 110756 | [110756-if-my-heart-had-wings-flight-diary.json](./110756-if-my-heart-had-wings-flight-diary.json) |
 | If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
+| If Not Us | 135311 | [135311-if-not-us.json](./135311-if-not-us.json) |
 | If on a Winter's Night, Four Travelers | 144554 | [144554-if-on-a-winters-night-four-travelers.json](./144554-if-on-a-winters-night-four-travelers.json) |
 | If One Thing Changed | 183259 | [183259-if-one-thing-changed.json](./183259-if-one-thing-changed.json) |
 | If Only | 366475 | [366475-if-only.json](./366475-if-only.json) |
@@ -3733,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #37 | 362686 | [362686-indiepocalypse-37.json](./362686-indiepocalypse-37.json) |
 | Indiepocalypse #38 | 362687 | [362687-indiepocalypse-38.json](./362687-indiepocalypse-38.json) |
 | Indiepocalypse #39 | 362688 | [362688-indiepocalypse-39.json](./362688-indiepocalypse-39.json) |
+| Indiepocalypse #4 | 135361 | [135361-indiepocalypse-4.json](./135361-indiepocalypse-4.json) |
 | Indiepocalypse #40 | 362689 | [362689-indiepocalypse-40.json](./362689-indiepocalypse-40.json) |
 | Indiepocalypse #41 | 362690 | [362690-indiepocalypse-41.json](./362690-indiepocalypse-41.json) |
 | Indiepocalypse #42 | 256179 | [256179-indiepocalypse-42.json](./256179-indiepocalypse-42.json) |
