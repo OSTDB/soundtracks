@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.A.: Pursuit of Justice - The Sunset Boulevard Deuce | 71358 | [71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json](./71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json) |
 | D.A.D.S. | 381572 | [381572-d-a-d-s.json](./381572-d-a-d-s.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
+| D.A.M.A.G.E | 119861 | [119861-d-a-m-a-g-e.json](./119861-d-a-m-a-g-e.json) |
 | D.A.R: Deadly Alien Rogues | 327030 | [327030-d-a-r-deadly-alien-rogues.json](./327030-d-a-r-deadly-alien-rogues.json) |
 | D.A.T.A | 110471 | [110471-d-a-t-a.json](./110471-d-a-t-a.json) |
 | D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Eyes | 39305 | [39305-dancing-eyes.json](./39305-dancing-eyes.json) |
 | Dancing For Cats | 179634 | [179634-dancing-for-cats.json](./179634-dancing-for-cats.json) |
 | Dancing Furby | 85717 | [85717-dancing-furby.json](./85717-dancing-furby.json) |
+| Dancing Girl | 119840 | [119840-dancing-girl.json](./119840-dancing-girl.json) |
 | Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
@@ -7995,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Nightmare | 131034 | [131034-desert-nightmare.json](./131034-desert-nightmare.json) |
 | Desert of Ash: a Post-Apocalyptic Gay Sex Simulator | 326457 | [326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json](./326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
+| Desert of the Dead | 119834 | [119834-desert-of-the-dead.json](./119834-desert-of-the-dead.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
 | Desert Parkour | 151394 | [151394-desert-parkour.json](./151394-desert-parkour.json) |
@@ -11320,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
 | Disconsolate | 74167 | [74167-disconsolate.json](./74167-disconsolate.json) |
+| Discontinue | 119858 | [119858-discontinue.json](./119858-discontinue.json) |
 | Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
 | Discord Times | 93112 | [93112-discord-times.json](./93112-discord-times.json) |
@@ -13851,6 +13855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go Camp With Baldi | 106696 | [106696-dont-go-camp-with-baldi.json](./106696-dont-go-camp-with-baldi.json) |
 | Don't Go in the Old Greene House | 59175 | [59175-dont-go-in-the-old-greene-house.json](./59175-dont-go-in-the-old-greene-house.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
+| Don't Go into the Woods | 119847 | [119847-dont-go-into-the-woods.json](./119847-dont-go-into-the-woods.json) |
 | Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
 | Don't Go Maki-chan | 82715 | [82715-dont-go-maki-chan.json](./82715-dont-go-maki-chan.json) |
 | Don't Go Out | 350300 | [350300-dont-go-out.json](./350300-dont-go-out.json) |
@@ -17381,6 +17386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Carnival: Horror Style | 276961 | [276961-drawing-carnival-horror-style.json](./276961-drawing-carnival-horror-style.json) |
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing From Memory | 231412 | [231412-drawing-from-memory.json](./231412-drawing-from-memory.json) |
+| Drawing Path | 119818 | [119818-drawing-path.json](./119818-drawing-path.json) |
 | Drawing Rush | 233480 | [233480-drawing-rush.json](./233480-drawing-rush.json) |
 | Drawing Telephone Game: Telpic | 138635 | [138635-drawing-telephone-game-telpic.json](./138635-drawing-telephone-game-telpic.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
