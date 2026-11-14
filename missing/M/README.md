@@ -13204,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Dollar Boys: OtomeGame | 405895 | [405895-million-dollar-boys-otomegame.json](./405895-million-dollar-boys-otomegame.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
+| Million Dollar Question | 106212 | [106212-million-dollar-question.json](./106212-million-dollar-question.json) |
 | Million Dungeon | 130059 | [130059-million-dungeon.json](./130059-million-dungeon.json) |
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
@@ -22950,6 +22951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Farm | 206774 | [206774-my-horse-farm.json](./206774-my-horse-farm.json) |
 | My Horse Farm: Welcome to Trotterville | 206775 | [206775-my-horse-farm-welcome-to-trotterville.json](./206775-my-horse-farm-welcome-to-trotterville.json) |
 | My Horse Prince | 26786 | [26786-my-horse-prince.json](./26786-my-horse-prince.json) |
+| My Horse Simulator | 106828 | [106828-my-horse-simulator.json](./106828-my-horse-simulator.json) |
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
 | My Horse Stories: Classy Edition | 310425 | [310425-my-horse-stories-classy-edition.json](./310425-my-horse-stories-classy-edition.json) |
 | My Horse Stories: Fancy | 300931 | [300931-my-horse-stories-fancy.json](./300931-my-horse-stories-fancy.json) |
