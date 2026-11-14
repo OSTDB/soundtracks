@@ -6402,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Buster Q | 49662 | [49662-little-buster-q.json](./49662-little-buster-q.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
+| Little Busters! Ecstasy | 167935 | [167935-little-busters-ecstasy.json](./167935-little-busters-ecstasy.json) |
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little By Little By Little | 178992 | [178992-little-by-little-by-little.json](./178992-little-by-little-by-little.json) |
 | Little Cabin in the Woods: A Forgotten Hill Tale | 388554 | [388554-little-cabin-in-the-woods-a-forgotten-hill-tale.json](./388554-little-cabin-in-the-woods-a-forgotten-hill-tale.json) |
