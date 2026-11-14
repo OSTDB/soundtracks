@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
 | LeftRedRightBlue | 328175 | [328175-leftredrightblue.json](./328175-leftredrightblue.json) |
 | LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
+| LeftWay 2 | 158798 | [158798-leftway-2.json](./158798-leftway-2.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
 | Leg Day: Four Steps Through Hell | 415992 | [415992-leg-day-four-steps-through-hell.json](./415992-leg-day-four-steps-through-hell.json) |
@@ -3379,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
 | LEGO DC Super-Villains: Aquaman Pack 2 | 207239 | [207239-lego-dc-super-villains-aquaman-pack-2.json](./207239-lego-dc-super-villains-aquaman-pack-2.json) |
 | LEGO DC Super-Villains: Batman - The Animated Series Level Pack | 207265 | [207265-lego-dc-super-villains-batman-the-animated-series-level-pack.json](./207265-lego-dc-super-villains-batman-the-animated-series-level-pack.json) |
+| LEGO DC Super-Villains: DC Movies Character Pack | 158773 | [158773-lego-dc-super-villains-dc-movies-character-pack.json](./158773-lego-dc-super-villains-dc-movies-character-pack.json) |
 | LEGO DC Super-Villains: DC TV Series Super Heroes Character Pack | 214482 | [214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json](./214482-lego-dc-super-villains-dc-tv-series-super-heroes-character-pack.json) |
 | LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
@@ -7345,9 +7347,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital | 132379 | [132379-lock-n-load-tactical-digital.json](./132379-lock-n-load-tactical-digital.json) |
 | Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
 | Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack | 158741 | [158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json](./158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json) |
+| Lock 'n Load Tactical Digital: Day of Heroes - Battlepack 1 | 158750 | [158750-lock-n-load-tactical-digital-day-of-heroes-battlepack-1.json](./158750-lock-n-load-tactical-digital-day-of-heroes-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Days of Villainy Battlepack | 226700 | [226700-lock-n-load-tactical-digital-days-of-villainy-battlepack.json](./226700-lock-n-load-tactical-digital-days-of-villainy-battlepack.json) |
 | Lock 'n Load Tactical Digital: Enemy at the Gates Battlepack | 226702 | [226702-lock-n-load-tactical-digital-enemy-at-the-gates-battlepack.json](./226702-lock-n-load-tactical-digital-enemy-at-the-gates-battlepack.json) |
 | Lock 'n Load Tactical Digital: For the Emperor - Battlepack | 158738 | [158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json](./158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json) |
+| Lock 'n Load Tactical Digital: Hell Frozen Over - Battlepack | 158752 | [158752-lock-n-load-tactical-digital-hell-frozen-over-battlepack.json](./158752-lock-n-load-tactical-digital-hell-frozen-over-battlepack.json) |
 | Lock 'n Load Tactical Digital: Heroes Against the Red Star - Battlepack 1 | 158744 | [158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json](./158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes in Defiance - Battlepack 1 | 158733 | [158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json](./158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes in Defiance Battlepack 2 | 239343 | [239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json](./239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json) |
@@ -7361,11 +7365,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n Load Tactical Digital: Heroes of the Falklands - Pack 1 | 158734 | [158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json](./158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes of the Motherland - Battlepack 1 | 158735 | [158735-lock-n-load-tactical-digital-heroes-of-the-motherland-battlepack-1.json](./158735-lock-n-load-tactical-digital-heroes-of-the-motherland-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes of the Nam Battlepack 2 | 193207 | [193207-lock-n-load-tactical-digital-heroes-of-the-nam-battlepack-2.json](./193207-lock-n-load-tactical-digital-heroes-of-the-nam-battlepack-2.json) |
+| Lock 'n Load Tactical Digital: Heroes of the Pacific - Battlepack 1 | 158748 | [158748-lock-n-load-tactical-digital-heroes-of-the-pacific-battlepack-1.json](./158748-lock-n-load-tactical-digital-heroes-of-the-pacific-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Pledge of Honor - Battlepack | 158739 | [158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json](./158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json) |
 | Lock 'n Load Tactical Digital: Red Gauntlet - Battlepack | 158740 | [158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json](./158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json) |
+| Lock 'n Load Tactical Digital: Space Infantry Above and Beyond - Battle Pack 1 | 158751 | [158751-lock-n-load-tactical-digital-space-infantry-above-and-beyond-battle-pack-1.json](./158751-lock-n-load-tactical-digital-space-infantry-above-and-beyond-battle-pack-1.json) |
 | Lock 'n Load Tactical Digital: The Untold Stories - Battlepack | 158736 | [158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json](./158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json) |
 | Lock 'n Load Tactical Digital: Valor of the 13th Battlepack | 227046 | [227046-lock-n-load-tactical-digital-valor-of-the-13th-battlepack.json](./227046-lock-n-load-tactical-digital-valor-of-the-13th-battlepack.json) |
 | Lock 'n Load Tactical Digital: We Stand Alone - Battlepack | 158737 | [158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json](./158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json) |
+| Lock 'n Load Tactical Digital: Zombies the Final Enemy - Battlepack 1 | 158749 | [158749-lock-n-load-tactical-digital-zombies-the-final-enemy-battlepack-1.json](./158749-lock-n-load-tactical-digital-zombies-the-final-enemy-battlepack-1.json) |
 | Lock 'n' Chase | 169910 | [169910-lock-n-chase.json](./169910-lock-n-chase.json) |
 | Lock 'n' Chase | 22717 | [22717-lock-n-chase.json](./22717-lock-n-chase.json) |
 | Lock 'n' Chase | 276441 | [276441-lock-n-chase.json](./276441-lock-n-chase.json) |
