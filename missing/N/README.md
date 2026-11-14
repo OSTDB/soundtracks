@@ -6900,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodes Machine Escape | 315754 | [315754-nodes-machine-escape.json](./315754-nodes-machine-escape.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodes of Yesod: 25th Anniversary Edition | 264975 | [264975-nodes-of-yesod-25th-anniversary-edition.json](./264975-nodes-of-yesod-25th-anniversary-edition.json) |
+| Nodeshifter | 136547 | [136547-nodeshifter.json](./136547-nodeshifter.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
 | Nodge Pre-Alpha | 76697 | [76697-nodge-pre-alpha.json](./76697-nodge-pre-alpha.json) |
 | Nodiatis | 30966 | [30966-nodiatis.json](./30966-nodiatis.json) |
