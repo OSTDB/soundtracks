@@ -4135,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
 | Heavy Shreddin' | 48157 | [48157-heavy-shreddin.json](./48157-heavy-shreddin.json) |
+| Heavy Smash | 146370 | [146370-heavy-smash.json](./146370-heavy-smash.json) |
 | Heavy Spoilers RPG 2: Your Best Friend Is Actually the Great Demon King | 377945 | [377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json](./377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
 | Heavy Storm Shadow | 291319 | [291319-heavy-storm-shadow.json](./291319-heavy-storm-shadow.json) |
@@ -8831,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hills of Glory 3D | 17735 | [17735-hills-of-glory-3d.json](./17735-hills-of-glory-3d.json) |
+| Hills of Steel | 146405 | [146405-hills-of-steel.json](./146405-hills-of-steel.json) |
 | Hills of Steel 2 | 114731 | [114731-hills-of-steel-2.json](./114731-hills-of-steel-2.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
 | Hillshade Farm | 345426 | [345426-hillshade-farm.json](./345426-hillshade-farm.json) |
@@ -12116,6 +12118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Cleaner Simulator | 401145 | [401145-house-cleaner-simulator.json](./401145-house-cleaner-simulator.json) |
 | House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
+| House Cleaning Survival | 146933 | [146933-house-cleaning-survival.json](./146933-house-cleaning-survival.json) |
 | House Dating VR: Cute Korean Girl, Sehyun | 74506 | [74506-house-dating-vr-cute-korean-girl-sehyun.json](./74506-house-dating-vr-cute-korean-girl-sehyun.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
