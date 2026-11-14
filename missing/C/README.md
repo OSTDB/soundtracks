@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable City | 404017 | [404017-cable-city.json](./404017-cable-city.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
+| Cable Time hero vs Dual Sword Superhero Combat | 96346 | [96346-cable-time-hero-vs-dual-sword-superhero-combat.json](./96346-cable-time-hero-vs-dual-sword-superhero-combat.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
 | Cabous | 168560 | [168560-cabous.json](./168560-cabous.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Dummy Hunt | 411812 | [411812-chameleon-dummy-hunt.json](./411812-chameleon-dummy-hunt.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
+| Chameleon Legacy | 96349 | [96349-chameleon-legacy.json](./96349-chameleon-legacy.json) |
 | Chameleon Run | 58656 | [58656-chameleon-run.json](./58656-chameleon-run.json) |
 | Chameleon Run: Deluxe Edition | 103198 | [103198-chameleon-run-deluxe-edition.json](./103198-chameleon-run-deluxe-edition.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
@@ -7143,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | Chat Simulator: Blind Dates | 263246 | [263246-chat-simulator-blind-dates.json](./263246-chat-simulator-blind-dates.json) |
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
+| Chat with Jojo siwa 2018 | 96339 | [96339-chat-with-jojo-siwa-2018.json](./96339-chat-with-jojo-siwa-2018.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | Chat-A-Lot | 84577 | [84577-chat-a-lot.json](./84577-chat-a-lot.json) |
 | Chat, Is This Real? | 405799 | [405799-chat-is-this-real.json](./405799-chat-is-this-real.json) |
@@ -11944,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
 | Cloud Popper | 387737 | [387737-cloud-popper.json](./387737-cloud-popper.json) |
+| Cloud Puzzle | 96332 | [96332-cloud-puzzle.json](./96332-cloud-puzzle.json) |
 | Cloud Rack | 158640 | [158640-cloud-rack.json](./158640-cloud-rack.json) |
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Runner | 415682 | [415682-cloud-runner.json](./415682-cloud-runner.json) |
