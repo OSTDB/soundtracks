@@ -4996,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterpillar: Adventures in Time | 206094 | [206094-caterpillar-adventures-in-time.json](./206094-caterpillar-adventures-in-time.json) |
+| Caterpillarnoid | 155751 | [155751-caterpillarnoid.json](./155751-caterpillarnoid.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
 | Caterva | 158322 | [158322-caterva.json](./158322-caterva.json) |
 | Caterva: Outsider Dreams | 412535 | [412535-caterva-outsider-dreams.json](./412535-caterva-outsider-dreams.json) |
@@ -11973,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
 | Clowntown | 405107 | [405107-clowntown.json](./405107-clowntown.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
+| CLT | 155763 | [155763-clt.json](./155763-clt.json) |
 | CLTRS | 350692 | [350692-cltrs.json](./350692-cltrs.json) |
 | Clu Clu Land | 7573 | [7573-clu-clu-land.json](./7573-clu-clu-land.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
@@ -15041,6 +15043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the Stars | 409616 | [409616-connect-the-stars.json](./409616-connect-the-stars.json) |
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
+| Connect-X | 155761 | [155761-connect-x.json](./155761-connect-x.json) |
 | Connect'Em | 56949 | [56949-connectem.json](./56949-connectem.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
@@ -16375,6 +16378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona Kombat | 159582 | [159582-corona-kombat.json](./159582-corona-kombat.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Runner | 164181 | [164181-corona-runner.json](./164181-corona-runner.json) |
+| Corona Samurai | 155755 | [155755-corona-samurai.json](./155755-corona-samurai.json) |
 | Corona Simulator | 156889 | [156889-corona-simulator.json](./156889-corona-simulator.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
 | CoronaFighter | 238254 | [238254-coronafighter.json](./238254-coronafighter.json) |
@@ -16499,6 +16503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Sigma | 199382 | [199382-corridor-sigma.json](./199382-corridor-sigma.json) |
 | Corridor VR | 279489 | [279489-corridor-vr.json](./279489-corridor-vr.json) |
 | Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
+| Corridor: Amount of Fear | 155745 | [155745-corridor-amount-of-fear.json](./155745-corridor-amount-of-fear.json) |
 | Corridors | 191027 | [191027-corridors.json](./191027-corridors.json) |
 | Corridors | 418277 | [418277-corridors.json](./418277-corridors.json) |
 | Corridors of Genon | 14013 | [14013-corridors-of-genon.json](./14013-corridors-of-genon.json) |
@@ -18696,6 +18701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Qualle | 393212 | [393212-crazy-qualle.json](./393212-crazy-qualle.json) |
 | Crazy Quiz | 64845 | [64845-crazy-quiz.json](./64845-crazy-quiz.json) |
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
+| Crazy Rabbit AntiLogic | 155757 | [155757-crazy-rabbit-antilogic.json](./155757-crazy-rabbit-antilogic.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy Race | 166846 | [166846-crazy-race.json](./166846-crazy-race.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
