@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Growth | 409319 | [409319-garbage-growth.json](./409319-garbage-growth.json) |
 | Garbage Incident | 420487 | [420487-garbage-incident.json](./420487-garbage-incident.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
+| Garbage Pail Kids Game | 102453 | [102453-garbage-pail-kids-game.json](./102453-garbage-pail-kids-game.json) |
 | Garbage Pail Kids: Mad Mike and the Quest for Stale Gum | 221146 | [221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json](./221146-garbage-pail-kids-mad-mike-and-the-quest-for-stale-gum.json) |
 | Garbage Pail Kids: The Game | 110049 | [110049-garbage-pail-kids-the-game.json](./110049-garbage-pail-kids-the-game.json) |
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
