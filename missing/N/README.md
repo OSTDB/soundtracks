@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissu: Himeko's Epilogue | 122263 | [122263-narcissu-himekos-epilogue.json](./122263-narcissu-himekos-epilogue.json) |
 | Narcissu: Moshimo Ashita ga Aru Nara | 65349 | [65349-narcissu-moshimo-ashita-ga-aru-nara.json](./65349-narcissu-moshimo-ashita-ga-aru-nara.json) |
+| Narcissu: Sumire | 134097 | [134097-narcissu-sumire.json](./134097-narcissu-sumire.json) |
 | Narcissu: Zero | 172271 | [172271-narcissu-zero.json](./172271-narcissu-zero.json) |
 | Narcissus | 113943 | [113943-narcissus.json](./113943-narcissus.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
