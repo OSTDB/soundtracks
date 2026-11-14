@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Mascareri: Mask Making Simulator | 424005 | [424005-mascareri-mask-making-simulator.json](./424005-mascareri-mask-making-simulator.json) |
 | Maschinen Dolls | 260548 | [260548-maschinen-dolls.json](./260548-maschinen-dolls.json) |
+| MASCII Maker | 136520 | [136520-mascii-maker.json](./136520-mascii-maker.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
 | Mascot Girl's Sexual Harassment Days | 83690 | [83690-mascot-girls-sexual-harassment-days.json](./83690-mascot-girls-sexual-harassment-days.json) |
 | Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
@@ -18023,6 +18024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterfall | 341252 | [341252-monsterfall.json](./341252-monsterfall.json) |
 | MonsterGirl 3: Wukong | 372964 | [372964-monstergirl-3-wukong.json](./372964-monstergirl-3-wukong.json) |
 | Monstergirl Hunters | 389842 | [389842-monstergirl-hunters.json](./389842-monstergirl-hunters.json) |
+| Monstergirl Mansion | 136551 | [136551-monstergirl-mansion.json](./136551-monstergirl-mansion.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsteria | 55341 | [55341-monsteria.json](./55341-monsteria.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
@@ -23523,6 +23525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Talking Tom | 87024 | [87024-my-talking-tom.json](./87024-my-talking-tom.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
+| My Talking Tom Friends | 136504 | [136504-my-talking-tom-friends.json](./136504-my-talking-tom-friends.json) |
 | My Talking Unicorn Emily | 243843 | [243843-my-talking-unicorn-emily.json](./243843-my-talking-unicorn-emily.json) |
 | My Tamagotchi Forever | 76234 | [76234-my-tamagotchi-forever.json](./76234-my-tamagotchi-forever.json) |
 | My Taskbar Farm | 371197 | [371197-my-taskbar-farm.json](./371197-my-taskbar-farm.json) |
