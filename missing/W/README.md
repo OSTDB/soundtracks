@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
 | Warcat Parade | 293967 | [293967-warcat-parade.json](./293967-warcat-parade.json) |
 | Warchaic | 415175 | [415175-warchaic.json](./415175-warchaic.json) |
+| Warchasm | 126698 | [126698-warchasm.json](./126698-warchasm.json) |
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warchief | 140425 | [140425-warchief.json](./140425-warchief.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
@@ -4954,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
 | Whispered Secrets: Cursed Wealth - Collector's Edition | 351714 | [351714-whispered-secrets-cursed-wealth-collectors-edition.json](./351714-whispered-secrets-cursed-wealth-collectors-edition.json) |
 | Whispered Secrets: Dreadful Beauty | 139778 | [139778-whispered-secrets-dreadful-beauty.json](./139778-whispered-secrets-dreadful-beauty.json) |
+| Whispered Secrets: Dreadful Beauty - Collector's Edition | 126699 | [126699-whispered-secrets-dreadful-beauty-collectors-edition.json](./126699-whispered-secrets-dreadful-beauty-collectors-edition.json) |
 | Whispered Secrets: Enfant Terrible - Collector's Edition | 359215 | [359215-whispered-secrets-enfant-terrible-collectors-edition.json](./359215-whispered-secrets-enfant-terrible-collectors-edition.json) |
 | Whispered Secrets: Everburning Candle | 100344 | [100344-whispered-secrets-everburning-candle.json](./100344-whispered-secrets-everburning-candle.json) |
 | Whispered Secrets: Everburning Candle - Collector's Edition | 316694 | [316694-whispered-secrets-everburning-candle-collectors-edition.json](./316694-whispered-secrets-everburning-candle-collectors-edition.json) |
