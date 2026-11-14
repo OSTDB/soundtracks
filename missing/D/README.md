@@ -14649,6 +14649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Jam | 383434 | [383434-doom-jam.json](./383434-doom-jam.json) |
 | Doom Mapping Contest II: Hellectric Boogaloo | 262281 | [262281-doom-mapping-contest-ii-hellectric-boogaloo.json](./262281-doom-mapping-contest-ii-hellectric-boogaloo.json) |
 | Doom Nukem CSS | 354810 | [354810-doom-nukem-css.json](./354810-doom-nukem-css.json) |
+| Doom of Aliens | 103697 | [103697-doom-of-aliens.json](./103697-doom-of-aliens.json) |
 | Doom of the Clawn | 367726 | [367726-doom-of-the-clawn.json](./367726-doom-of-the-clawn.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
@@ -15388,6 +15389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Knoxels | 363990 | [363990-double-knoxels.json](./363990-double-knoxels.json) |
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Match | 83458 | [83458-double-match.json](./83458-double-match.json) |
+| Double Maze | 103698 | [103698-double-maze.json](./103698-double-maze.json) |
 | Double Memory | 68326 | [68326-double-memory.json](./68326-double-memory.json) |
 | Double Money | 214284 | [214284-double-money.json](./214284-double-money.json) |
 | Double Moon Densetsu | 48522 | [48522-double-moon-densetsu.json](./48522-double-moon-densetsu.json) |
