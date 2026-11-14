@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapDefense | 67023 | [67023-tapdefense.json](./67023-tapdefense.json) |
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
+| Tape Dream | 128665 | [128665-tape-dream.json](./128665-tape-dream.json) |
 | Tape it Up! | 103216 | [103216-tape-it-up.json](./103216-tape-it-up.json) |
 | Tape Man | 407020 | [407020-tape-man.json](./407020-tape-man.json) |
 | Tape of the Ghouls | 323569 | [323569-tape-of-the-ghouls.json](./323569-tape-of-the-ghouls.json) |
@@ -7861,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
 | The Chaos Engine 2 | 12541 | [12541-the-chaos-engine-2.json](./12541-the-chaos-engine-2.json) |
+| The Chaos Gallery | 128701 | [128701-the-chaos-gallery.json](./128701-the-chaos-gallery.json) |
 | The Chaos Gene | 172272 | [172272-the-chaos-gene.json](./172272-the-chaos-gene.json) |
 | The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
@@ -18660,6 +18662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
 | The Song Out of Space | 188157 | [188157-the-song-out-of-space.json](./188157-the-song-out-of-space.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
+| The Songs She Sings at the Other End of the Tunnel | 128666 | [128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json](./128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json) |
 | The Sophisticated Art of Friendship | 255469 | [255469-the-sophisticated-art-of-friendship.json](./255469-the-sophisticated-art-of-friendship.json) |
 | The Sophomore: Hartfeld Horror Story | 313618 | [313618-the-sophomore-hartfeld-horror-story.json](./313618-the-sophomore-hartfeld-horror-story.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
@@ -18973,6 +18976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strangers 3 | 393504 | [393504-the-strangers-3.json](./393504-the-strangers-3.json) |
 | The Strangers 4 | 393505 | [393505-the-strangers-4.json](./393505-the-strangers-4.json) |
 | The Strategy Game Room | 73046 | [73046-the-strategy-game-room.json](./73046-the-strategy-game-room.json) |
+| The Straw Man in the Wicker House | 128673 | [128673-the-straw-man-in-the-wicker-house.json](./128673-the-straw-man-in-the-wicker-house.json) |
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
 | The Stray Cat | 99061 | [99061-the-stray-cat.json](./99061-the-stray-cat.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
@@ -26539,6 +26543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Bee Jazz | 404537 | [404537-to-bee-jazz.json](./404537-to-bee-jazz.json) |
 | To Bee or Not to Bee | 184801 | [184801-to-bee-or-not-to-bee.json](./184801-to-bee-or-not-to-bee.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
+| To Build a Better Mousetrap | 128674 | [128674-to-build-a-better-mousetrap.json](./128674-to-build-a-better-mousetrap.json) |
 | To Build a Home | 295205 | [295205-to-build-a-home.json](./295205-to-build-a-home.json) |
 | To Burn in Memory | 33740 | [33740-to-burn-in-memory.json](./33740-to-burn-in-memory.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
@@ -26830,6 +26835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | TOCA 2: Touring Car Challenge | 8001 | [8001-toca-2-touring-car-challenge.json](./8001-toca-2-touring-car-challenge.json) |
+| Toca Band | 128703 | [128703-toca-band.json](./128703-toca-band.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | Toca Boca Jr Classics | 372161 | [372161-toca-boca-jr-classics.json](./372161-toca-boca-jr-classics.json) |
 | Toca Boo | 95743 | [95743-toca-boo.json](./95743-toca-boo.json) |
@@ -27945,6 +27951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
+| Tony Eagle: Amateur Skateboarding | 128686 | [128686-tony-eagle-amateur-skateboarding.json](./128686-tony-eagle-amateur-skateboarding.json) |
 | Tony Hawk: Ride | 2701 | [2701-tony-hawk-ride.json](./2701-tony-hawk-ride.json) |
 | Tony Hawk: Ride | 364476 | [364476-tony-hawk-ride.json](./364476-tony-hawk-ride.json) |
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
