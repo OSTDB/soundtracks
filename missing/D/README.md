@@ -7106,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
+| Demon Club | 115814 | [115814-demon-club.json](./115814-demon-club.json) |
 | Demon Compass | 323594 | [323594-demon-compass.json](./323594-demon-compass.json) |
 | Demon Contract Warrior | 367677 | [367677-demon-contract-warrior.json](./367677-demon-contract-warrior.json) |
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
@@ -8406,6 +8407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Encore | 311687 | [311687-destiny-encore.json](./311687-destiny-encore.json) |
 | Destiny Fails Us: A New Life | 134516 | [134516-destiny-fails-us-a-new-life.json](./134516-destiny-fails-us-a-new-life.json) |
 | Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
+| Destiny Hunter | 115815 | [115815-destiny-hunter.json](./115815-destiny-hunter.json) |
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Isle | 348203 | [348203-destiny-isle.json](./348203-destiny-isle.json) |
@@ -19471,6 +19473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckTape Inc. | 383071 | [383071-ducktape-inc.json](./383071-ducktape-inc.json) |
 | Duckthing's Rolling Rooms | 292417 | [292417-duckthings-rolling-rooms.json](./292417-duckthings-rolling-rooms.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
+| Duckumentary | 115816 | [115816-duckumentary.json](./115816-duckumentary.json) |
 | Duckweed | 324209 | [324209-duckweed.json](./324209-duckweed.json) |
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
