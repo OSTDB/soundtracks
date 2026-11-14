@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fēngsè Huànxiǎng 4: Shèngzhàn de Zhōngyān | 77236 | [77236-fengse-huanxiang-4-shengzhan-de-zhongyan.json](./77236-fengse-huanxiang-4-shengzhan-de-zhongyan.json) |
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fengse Huanxiang 6 | 230221 | [230221-fengse-huanxiang-6.json](./230221-fengse-huanxiang-6.json) |
+| Fēngsè Huànxiǎng II: Alive | 93267 | [93267-fengse-huanxiang-ii-alive.json](./93267-fengse-huanxiang-ii-alive.json) |
 | Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
 | Fēngshén Bǎng | 70218 | [70218-fengshen-bang.json](./70218-fengshen-bang.json) |
 | Fēngshén Cè | 128325 | [128325-fengshen-ce.json](./128325-fengshen-ce.json) |
@@ -5095,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
 | Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
 | Fighter Destiny 2 | 10683 | [10683-fighter-destiny-2.json](./10683-fighter-destiny-2.json) |
+| Fighter Duel | 93268 | [93268-fighter-duel.json](./93268-fighter-duel.json) |
 | Fighter Duel Pro 2 | 37216 | [37216-fighter-duel-pro-2.json](./37216-fighter-duel-pro-2.json) |
 | Fighter Mage Bard | 58705 | [58705-fighter-mage-bard.json](./58705-fighter-mage-bard.json) |
 | Fighter Maker | 4636 | [4636-fighter-maker.json](./4636-fighter-maker.json) |
@@ -5809,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
+| Final Justice | 93248 | [93248-final-justice.json](./93248-final-justice.json) |
 | Final Kick | 137712 | [137712-final-kick.json](./137712-final-kick.json) |
 | Final Knight | 219308 | [219308-final-knight.json](./219308-final-knight.json) |
 | Final Lap | 218367 | [218367-final-lap.json](./218367-final-lap.json) |
@@ -9706,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
 | Flyout | 271036 | [271036-flyout.json](./271036-flyout.json) |
+| Flyout | 93281 | [93281-flyout.json](./93281-flyout.json) |
 | Flypso | 342972 | [342972-flypso.json](./342972-flypso.json) |
 | Flyra: FPV Drone Simulator | 407654 | [407654-flyra-fpv-drone-simulator.json](./407654-flyra-fpv-drone-simulator.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
@@ -14617,6 +14621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact | 353613 | [353613-full-contact.json](./353613-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
+| Full Count Baseball | 93244 | [93244-full-count-baseball.json](./93244-full-count-baseball.json) |
 | Full Court Heroes | 235625 | [235625-full-court-heroes.json](./235625-full-court-heroes.json) |
 | Full Deck Poker Solitaire | 88733 | [88733-full-deck-poker-solitaire.json](./88733-full-deck-poker-solitaire.json) |
 | Full Deck Pro Solitaire | 87487 | [87487-full-deck-pro-solitaire.json](./87487-full-deck-pro-solitaire.json) |
