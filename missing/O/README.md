@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Wars | 354819 | [354819-office-wars.json](./354819-office-wars.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | Office7 | 292460 | [292460-office7.json](./292460-office7.json) |
+| OfficeBotsVR | 90952 | [90952-officebotsvr.json](./90952-officebotsvr.json) |
 | OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Officers and Crime | 179351 | [179351-officers-and-crime.json](./179351-officers-and-crime.json) |
