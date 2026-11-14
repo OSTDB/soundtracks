@@ -8830,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
 | Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
+| Rising Star 2 | 132887 | [132887-rising-star-2.json](./132887-rising-star-2.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm | 2609 | [2609-rising-storm.json](./2609-rising-storm.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
