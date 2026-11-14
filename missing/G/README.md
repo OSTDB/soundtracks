@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Galaxy X | 159742 | [159742-galaxy-x.json](./159742-galaxy-x.json) |
 | Galaxy X | 417136 | [417136-galaxy-x.json](./417136-galaxy-x.json) |
+| Galaxy Xross | 133492 | [133492-galaxy-xross.json](./133492-galaxy-xross.json) |
 | Galaxy-X | 214041 | [214041-galaxy-x.json](./214041-galaxy-x.json) |
 | Galaxy's Extreme | 169760 | [169760-galaxys-extreme.json](./169760-galaxys-extreme.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
@@ -11845,6 +11846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun in 60 Seconds Remix | 339319 | [339319-gun-in-60-seconds-remix.json](./339319-gun-in-60-seconds-remix.json) |
 | Gun in a Well | 349043 | [349043-gun-in-a-well.json](./349043-gun-in-a-well.json) |
+| Gun Jam | 133517 | [133517-gun-jam.json](./133517-gun-jam.json) |
 | Gun Jam VR | 254734 | [254734-gun-jam-vr.json](./254734-gun-jam-vr.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
