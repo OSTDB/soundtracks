@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters '99 | 106073 | [106073-aca-neo-geo-the-king-of-fighters-99.json](./106073-aca-neo-geo-the-king-of-fighters-99.json) |
 | ACA Neo Geo: The King of Fighters 2000 | 106074 | [106074-aca-neo-geo-the-king-of-fighters-2000.json](./106074-aca-neo-geo-the-king-of-fighters-2000.json) |
+| ACA Neo Geo: The King of Fighters 2001 | 110418 | [110418-aca-neo-geo-the-king-of-fighters-2001.json](./110418-aca-neo-geo-the-king-of-fighters-2001.json) |
 | ACA Neo Geo: The King of Fighters 2002 | 118497 | [118497-aca-neo-geo-the-king-of-fighters-2002.json](./118497-aca-neo-geo-the-king-of-fighters-2002.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade | 99507 | [99507-aca-neo-geo-the-last-blade.json](./99507-aca-neo-geo-the-last-blade.json) |
@@ -7075,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaska Solitaire Classic Card Game | 337804 | [337804-alaska-solitaire-classic-card-game.json](./337804-alaska-solitaire-classic-card-game.json) |
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
 | Alaskan Malamute G.C. | 240891 | [240891-alaskan-malamute-g-c.json](./240891-alaskan-malamute-g-c.json) |
+| Alaskan Road Truckers | 110400 | [110400-alaskan-road-truckers.json](./110400-alaskan-road-truckers.json) |
 | Alaskan Road Truckers: Highway Edition | 302737 | [302737-alaskan-road-truckers-highway-edition.json](./302737-alaskan-road-truckers-highway-edition.json) |
 | Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
 | Alaskan Road Truckers: Ice Roads | 280570 | [280570-alaskan-road-truckers-ice-roads.json](./280570-alaskan-road-truckers-ice-roads.json) |
@@ -11505,6 +11507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Memory: Birds | 81942 | [81942-animals-memory-birds.json](./81942-animals-memory-birds.json) |
 | Animals Memory: Dinosaurs | 81934 | [81934-animals-memory-dinosaurs.json](./81934-animals-memory-dinosaurs.json) |
 | Animals Memory: Dogs | 81984 | [81984-animals-memory-dogs.json](./81984-animals-memory-dogs.json) |
+| Animals Memory: Horses | 110602 | [110602-animals-memory-horses.json](./110602-animals-memory-horses.json) |
 | Animals Memory: Insect | 81992 | [81992-animals-memory-insect.json](./81992-animals-memory-insect.json) |
 | Animals Memory: Monkeys | 364050 | [364050-animals-memory-monkeys.json](./364050-animals-memory-monkeys.json) |
 | Animals Memory: Underwater Kingdom | 81976 | [81976-animals-memory-underwater-kingdom.json](./81976-animals-memory-underwater-kingdom.json) |
