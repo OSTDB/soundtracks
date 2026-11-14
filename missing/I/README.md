@@ -5461,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlude | 289769 | [289769-interlude.json](./289769-interlude.json) |
 | Interlude | 355855 | [355855-interlude.json](./355855-interlude.json) |
 | Interlude | 64764 | [64764-interlude.json](./64764-interlude.json) |
+| Interlude | 80037 | [80037-interlude.json](./80037-interlude.json) |
 | Interminal | 185565 | [185565-interminal.json](./185565-interminal.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
 | Intern Astronaut | 58556 | [58556-intern-astronaut.json](./58556-intern-astronaut.json) |
@@ -5832,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Haze | 54121 | [54121-into-the-haze.json](./54121-into-the-haze.json) |
 | Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
 | Into the Holoverse | 183671 | [183671-into-the-holoverse.json](./183671-into-the-holoverse.json) |
+| Into the Hoop | 79990 | [79990-into-the-hoop.json](./79990-into-the-hoop.json) |
 | Into the Ice: Nazis of Neuschwabenland | 38802 | [38802-into-the-ice-nazis-of-neuschwabenland.json](./38802-into-the-ice-nazis-of-neuschwabenland.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
 | Into the Inferno | 347981 | [347981-into-the-inferno.json](./347981-into-the-inferno.json) |
