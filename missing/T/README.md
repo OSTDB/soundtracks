@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Makes Sense | 226460 | [226460-that-makes-sense.json](./226460-that-makes-sense.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
+| That Night, Steeped by Blood River | 141284 | [141284-that-night-steeped-by-blood-river.json](./141284-that-night-steeped-by-blood-river.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
 | That One Dungeon | 289825 | [289825-that-one-dungeon.json](./289825-that-one-dungeon.json) |
 | That One Otter Game | 355527 | [355527-that-one-otter-game.json](./355527-that-one-otter-game.json) |
@@ -13257,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Joy | 384309 | [384309-the-last-joy.json](./384309-the-last-joy.json) |
 | The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
 | The Last Kich Of Us | 395050 | [395050-the-last-kich-of-us.json](./395050-the-last-kich-of-us.json) |
+| The Last Kids on Earth and The Staff of Doom | 141309 | [141309-the-last-kids-on-earth-and-the-staff-of-doom.json](./141309-the-last-kids-on-earth-and-the-staff-of-doom.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
@@ -17047,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Planet | 232202 | [232202-the-red-planet.json](./232202-the-red-planet.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Reactor | 117896 | [117896-the-red-reactor.json](./117896-the-red-reactor.json) |
+| The Red Room | 141290 | [141290-the-red-room.json](./141290-the-red-room.json) |
 | The Red Room | 283347 | [283347-the-red-room.json](./283347-the-red-room.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Selene | 247866 | [247866-the-red-selene.json](./247866-the-red-selene.json) |
@@ -18001,6 +18004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
 | The Shooting Range 3D: Shooting Gallery Simulator | 244048 | [244048-the-shooting-range-3d-shooting-gallery-simulator.json](./244048-the-shooting-range-3d-shooting-gallery-simulator.json) |
+| The Shop of Good Memories | 141276 | [141276-the-shop-of-good-memories.json](./141276-the-shop-of-good-memories.json) |
 | The Shopkeeper | 9481 | [9481-the-shopkeeper.json](./9481-the-shopkeeper.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
@@ -20137,6 +20141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unearthened | 189837 | [189837-the-unearthened.json](./189837-the-unearthened.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
+| The Unexpected Quest | 141300 | [141300-the-unexpected-quest.json](./141300-the-unexpected-quest.json) |
 | The Unexpected Quest Prologue | 155338 | [155338-the-unexpected-quest-prologue.json](./155338-the-unexpected-quest-prologue.json) |
 | The Unexplained | 215731 | [215731-the-unexplained.json](./215731-the-unexplained.json) |
 | The Unfair Platformer | 250494 | [250494-the-unfair-platformer.json](./250494-the-unfair-platformer.json) |
@@ -30449,6 +30454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
 | TrackMania: Build to Race | 50680 | [50680-trackmania-build-to-race.json](./50680-trackmania-build-to-race.json) |
 | TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
+| Trackmaster | 141266 | [141266-trackmaster.json](./141266-trackmaster.json) |
 | TrackMaster: Free For All Motorsport | 155376 | [155376-trackmaster-free-for-all-motorsport.json](./155376-trackmaster-free-for-all-motorsport.json) |
 | Trackminia | 336260 | [336260-trackminia.json](./336260-trackminia.json) |
 | TrackRace | 208230 | [208230-trackrace.json](./208230-trackrace.json) |
@@ -31750,6 +31756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Woodhead Route Add-On | 156433 | [156433-train-simulator-woodhead-route-add-on.json](./156433-train-simulator-woodhead-route-add-on.json) |
 | Train Simulator: Worcester - Mossel Bay Railway Route Add-On | 156432 | [156432-train-simulator-worcester-mossel-bay-railway-route-add-on.json](./156432-train-simulator-worcester-mossel-bay-railway-route-add-on.json) |
 | Train Simulator: Yellowhead Pass: Jasper - Valemount Route Add-On | 156423 | [156423-train-simulator-yellowhead-pass-jasper-valemount-route-add-on.json](./156423-train-simulator-yellowhead-pass-jasper-valemount-route-add-on.json) |
+| Train Song | 141305 | [141305-train-song.json](./141305-train-song.json) |
 | Train Station 2 | 233385 | [233385-train-station-2.json](./233385-train-station-2.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
