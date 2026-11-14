@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasabi | 407993 | [407993-wasabi.json](./407993-wasabi.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wasard | 264512 | [264512-wasard.json](./264512-wasard.json) |
+| Wasco | 146371 | [146371-wasco.json](./146371-wasco.json) |
 | WASD Quartet | 216840 | [216840-wasd-quartet.json](./216840-wasd-quartet.json) |
 | WASD Wizard | 373450 | [373450-wasd-wizard.json](./373450-wasd-wizard.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
