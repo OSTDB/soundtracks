@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z Mission Breakout | 343406 | [343406-z-mission-breakout.json](./343406-z-mission-breakout.json) |
+| Z Mutants | 164541 | [164541-z-mutants.json](./164541-z-mutants.json) |
 | Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
 | Z Ops: DeadZone | 337764 | [337764-z-ops-deadzone.json](./337764-z-ops-deadzone.json) |
 | Z Route: Redemption | 395510 | [395510-z-route-redemption.json](./395510-z-route-redemption.json) |
