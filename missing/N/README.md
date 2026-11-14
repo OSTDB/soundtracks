@@ -5450,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Lives Ninja: Explore! | 293798 | [293798-nine-lives-ninja-explore.json](./293798-nine-lives-ninja-explore.json) |
 | Nine Lives or Less | 204058 | [204058-nine-lives-or-less.json](./204058-nine-lives-or-less.json) |
+| Nine Men's Morris | 94798 | [94798-nine-mens-morris.json](./94798-nine-mens-morris.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Mile Ride | 384473 | [384473-nine-mile-ride.json](./384473-nine-mile-ride.json) |
 | Nine Nights | 258262 | [258262-nine-nights.json](./258262-nine-nights.json) |
@@ -5830,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
 | Ninja War | 373239 | [373239-ninja-war.json](./373239-ninja-war.json) |
 | Ninja War Hero | 194094 | [194094-ninja-war-hero.json](./194094-ninja-war-hero.json) |
+| Ninja War Stolen Scrolls | 94989 | [94989-ninja-war-stolen-scrolls.json](./94989-ninja-war-stolen-scrolls.json) |
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior | 92775 | [92775-ninja-warrior.json](./92775-ninja-warrior.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
@@ -7390,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norn9: Norn + Nonette | 21588 | [21588-norn9-norn-nonette.json](./21588-norn9-norn-nonette.json) |
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
+| Norns Fantasy | 95020 | [95020-norns-fantasy.json](./95020-norns-fantasy.json) |
 | Noroi Ayashi: The ∞th Oddity | 418666 | [418666-noroi-ayashi-the-th-oddity.json](./418666-noroi-ayashi-the-th-oddity.json) |
 | Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
 | Noroi E: Nightmares | 363678 | [363678-noroi-e-nightmares.json](./363678-noroi-e-nightmares.json) |
@@ -7857,6 +7860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Era: Atom | 320080 | [320080-nova-era-atom.json](./320080-nova-era-atom.json) |
 | Nova Escape - Space Runner | 123124 | [123124-nova-escape-space-runner.json](./123124-nova-escape-space-runner.json) |
+| Nova Flow | 95049 | [95049-nova-flow.json](./95049-nova-flow.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
