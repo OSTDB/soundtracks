@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
+| Olympus Griddlers | 108546 | [108546-olympus-griddlers.json](./108546-olympus-griddlers.json) |
 | Olympus Rising | 408496 | [408496-olympus-rising.json](./408496-olympus-rising.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Olympus Rising: Ragnarok | 408499 | [408499-olympus-rising-ragnarok.json](./408499-olympus-rising-ragnarok.json) |
