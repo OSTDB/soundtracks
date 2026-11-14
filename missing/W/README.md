@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on Folvos | 17724 | [17724-war-on-folvos.json](./17724-war-on-folvos.json) |
 | War on Mars | 206278 | [206278-war-on-mars.json](./206278-war-on-mars.json) |
+| War on the Sea | 143137 | [143137-war-on-the-sea.json](./143137-war-on-the-sea.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
 | War Operation: Full Contact | 220530 | [220530-war-operation-full-contact.json](./220530-war-operation-full-contact.json) |
@@ -1888,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock and Boobs | 262027 | [262027-warlock-and-boobs.json](./262027-warlock-and-boobs.json) |
+| Warlock Bentspine: Toilet Edition | 143144 | [143144-warlock-bentspine-toilet-edition.json](./143144-warlock-bentspine-toilet-edition.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
 | Warlock II: The Exiled | 6774 | [6774-warlock-ii-the-exiled.json](./6774-warlock-ii-the-exiled.json) |
 | Warlock II: The Exiled - The Good, the Bad, & the Muddy | 170192 | [170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json](./170192-warlock-ii-the-exiled-the-good-the-bad-and-the-muddy.json) |
@@ -7784,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfthorn | 126801 | [126801-wolfthorn.json](./126801-wolfthorn.json) |
 | WolfWars | 10498 | [10498-wolfwars.json](./10498-wolfwars.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
+| Wolkenkratzer: Shinpan No Tou | 143130 | [143130-wolkenkratzer-shinpan-no-tou.json](./143130-wolkenkratzer-shinpan-no-tou.json) |
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
 | Wòlóng Chuánshuō | 86178 | [86178-wolong-chuanshuo.json](./86178-wolong-chuanshuo.json) |
 | Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
@@ -9837,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith | 72505 | [72505-wraith.json](./72505-wraith.json) |
 | Wraith Ops | 165574 | [165574-wraith-ops.json](./165574-wraith-ops.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
+| Wraith: The Oblivion - The Orpheus Device | 143169 | [143169-wraith-the-oblivion-the-orpheus-device.json](./143169-wraith-the-oblivion-the-orpheus-device.json) |
 | Wraith’s Embrace | 393223 | [393223-wraith-s-embrace.json](./393223-wraith-s-embrace.json) |
 | Wraithbinder | 218300 | [218300-wraithbinder.json](./218300-wraithbinder.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
