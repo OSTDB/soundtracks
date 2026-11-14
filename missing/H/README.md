@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakata DyingZombies: Second Chance for Beautiful Live | 401597 | [401597-hakata-dyingzombies-second-chance-for-beautiful-live.json](./401597-hakata-dyingzombies-second-chance-for-beautiful-live.json) |
 | Hakei | 177744 | [177744-hakei.json](./177744-hakei.json) |
 | Haken wo Nigire: 47 Todoufuken Taisen | 110107 | [110107-haken-wo-nigire-47-todoufuken-taisen.json](./110107-haken-wo-nigire-47-todoufuken-taisen.json) |
+| Hakidame | 97556 | [97556-hakidame.json](./97556-hakidame.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
 | Hakken! Oshigoto Naanda? | 272426 | [272426-hakken-oshigoto-naanda.json](./272426-hakken-oshigoto-naanda.json) |
@@ -3197,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have Fun Together | 259605 | [259605-have-fun-together.json](./259605-have-fun-together.json) |
 | Have Fun Together | 259671 | [259671-have-fun-together.json](./259671-have-fun-together.json) |
 | Have It Coming | 391331 | [391331-have-it-coming.json](./391331-have-it-coming.json) |
+| Have Relations With... Maho to Kataho | 97545 | [97545-have-relations-with-maho-to-kataho.json](./97545-have-relations-with-maho-to-kataho.json) |
 | Have You Ever? - Harry Potter Edition | 98832 | [98832-have-you-ever-harry-potter-edition.json](./98832-have-you-ever-harry-potter-edition.json) |
 | Have You Heard | 299263 | [299263-have-you-heard.json](./299263-have-you-heard.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
@@ -5313,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
+| Henshin Inma Shoujo Karin: Midara na Akuma wa H ga Osuki | 97546 | [97546-henshin-inma-shoujo-karin-midara-na-akuma-wa-h-ga-osuki.json](./97546-henshin-inma-shoujo-karin-midara-na-akuma-wa-h-ga-osuki.json) |
 | Henshin MyBro! | 338627 | [338627-henshin-mybro.json](./338627-henshin-mybro.json) |
 | Henshinko! | 205757 | [205757-henshinko.json](./205757-henshinko.json) |
 | Hent-Ai Puzzle | 303669 | [303669-hent-ai-puzzle.json](./303669-hent-ai-puzzle.json) |
