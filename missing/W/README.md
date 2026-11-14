@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: AirLand Battle - Magna Carta | 170747 | [170747-wargame-airland-battle-magna-carta.json](./170747-wargame-airland-battle-magna-carta.json) |
 | Wargame: AirLand Battle - Vox Populi | 170748 | [170748-wargame-airland-battle-vox-populi.json](./170748-wargame-airland-battle-vox-populi.json) |
 | Wargame: European Escalation | 8383 | [8383-wargame-european-escalation.json](./8383-wargame-european-escalation.json) |
+| Wargame: European Escalation - Commander | 167736 | [167736-wargame-european-escalation-commander.json](./167736-wargame-european-escalation-commander.json) |
 | Wargame: European Escalation - Conquest | 168087 | [168087-wargame-european-escalation-conquest.json](./168087-wargame-european-escalation-conquest.json) |
 | Wargame: European Escalation - Fatal Error | 168089 | [168089-wargame-european-escalation-fatal-error.json](./168089-wargame-european-escalation-fatal-error.json) |
 | Wargame: European Escalation - New Battlefields | 168088 | [168088-wargame-european-escalation-new-battlefields.json](./168088-wargame-european-escalation-new-battlefields.json) |
