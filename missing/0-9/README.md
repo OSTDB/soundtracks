@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19 Line | 140088 | [140088-19-line.json](./140088-19-line.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
+| 19:03 Ueno Hatsu Yakou Ressha | 112552 | [112552-19-03-ueno-hatsu-yakou-ressha.json](./112552-19-03-ueno-hatsu-yakou-ressha.json) |
 | 1900 | 253249 | [253249-1900.json](./253249-1900.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
