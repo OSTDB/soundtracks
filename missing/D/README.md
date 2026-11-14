@@ -4584,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Connection | 322313 | [322313-deadly-connection.json](./322313-deadly-connection.json) |
 | Deadly Contact | 76810 | [76810-deadly-contact.json](./76810-deadly-contact.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
+| Deadly Convoy | 108550 | [108550-deadly-convoy.json](./108550-deadly-convoy.json) |
 | Deadly Cosmic | 146956 | [146956-deadly-cosmic.json](./146956-deadly-cosmic.json) |
 | Deadly Cryptids | 87966 | [87966-deadly-cryptids.json](./87966-deadly-cryptids.json) |
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
@@ -8420,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Isle | 348203 | [348203-destiny-isle.json](./348203-destiny-isle.json) |
 | Destiny Knight Romance | 299626 | [299626-destiny-knight-romance.json](./299626-destiny-knight-romance.json) |
+| Destiny Knights | 108540 | [108540-destiny-knights.json](./108540-destiny-knights.json) |
 | Destiny Links | 71946 | [71946-destiny-links.json](./71946-destiny-links.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
 | Destiny of a Wizard | 43109 | [43109-destiny-of-a-wizard.json](./43109-destiny-of-a-wizard.json) |
@@ -14346,6 +14348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Dodo Do! | 252062 | [252062-donut-dodo-do.json](./252062-donut-dodo-do.json) |
 | Donut Dodo Fantastico | 347603 | [347603-donut-dodo-fantastico.json](./347603-donut-dodo-fantastico.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
+| Donut Factory : Hollywood Money Tycoon | 108551 | [108551-donut-factory-hollywood-money-tycoon.json](./108551-donut-factory-hollywood-money-tycoon.json) |
 | Donut Fun | 221076 | [221076-donut-fun.json](./221076-donut-fun.json) |
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
@@ -19624,6 +19627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | Duels of Fortune | 138441 | [138441-duels-of-fortune.json](./138441-duels-of-fortune.json) |
+| Duels of the Planeswalkers Gold Deck Bundle | 108679 | [108679-duels-of-the-planeswalkers-gold-deck-bundle.json](./108679-duels-of-the-planeswalkers-gold-deck-bundle.json) |
 | Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
 | Duelstar | 213146 | [213146-duelstar.json](./213146-duelstar.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
@@ -20331,6 +20335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Pest Control | 183099 | [183099-dungeon-pest-control.json](./183099-dungeon-pest-control.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Plunder | 175463 | [175463-dungeon-plunder.json](./175463-dungeon-plunder.json) |
+| Dungeon Princess | 108533 | [108533-dungeon-princess.json](./108533-dungeon-princess.json) |
 | Dungeon Princess 2 | 299197 | [299197-dungeon-princess-2.json](./299197-dungeon-princess-2.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Punks | 32021 | [32021-dungeon-punks.json](./32021-dungeon-punks.json) |
