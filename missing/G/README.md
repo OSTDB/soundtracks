@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoBingo.io | 172403 | [172403-geobingo-io.json](./172403-geobingo-io.json) |
 | Geoblast | 215269 | [215269-geoblast.json](./215269-geoblast.json) |
 | GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
+| Geocells Quadcells | 127431 | [127431-geocells-quadcells.json](./127431-geocells-quadcells.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
 | GeoChatter | 191423 | [191423-geochatter.json](./191423-geochatter.json) |
@@ -9410,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Error | 24041 | [24041-gravity-error.json](./24041-gravity-error.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
+| Gravity Escape from the Maze | 127402 | [127402-gravity-escape-from-the-maze.json](./127402-gravity-escape-from-the-maze.json) |
 | Gravity Express | 233298 | [233298-gravity-express.json](./233298-gravity-express.json) |
 | Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
@@ -11270,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
 | Guardians of Restoration | 309739 | [309739-guardians-of-restoration.json](./309739-guardians-of-restoration.json) |
+| Guardians of Rings | 127405 | [127405-guardians-of-rings.json](./127405-guardians-of-rings.json) |
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
 | Guardians of The AfterLife | 304501 | [304501-guardians-of-the-afterlife.json](./304501-guardians-of-the-afterlife.json) |
 | Guardians of the Ashes | 127753 | [127753-guardians-of-the-ashes.json](./127753-guardians-of-the-ashes.json) |
