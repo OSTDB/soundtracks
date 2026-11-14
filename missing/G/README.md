@@ -11262,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Guava Juice: Tub Tapper | 101162 | [101162-guava-juice-tub-tapper.json](./101162-guava-juice-tub-tapper.json) |
 | Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
+| Guazu: The Rescue | 152531 | [152531-guazu-the-rescue.json](./152531-guazu-the-rescue.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble | 317757 | [317757-gubble.json](./317757-gubble.json) |
 | Gubble | 44937 | [44937-gubble.json](./44937-gubble.json) |
@@ -11339,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Who? | 331927 | [331927-guess-who.json](./331927-guess-who.json) |
 | Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
 | Guess Word | 104345 | [104345-guess-word.json](./104345-guess-word.json) |
+| Guess Your Fist | 152526 | [152526-guess-your-fist.json](./152526-guess-your-fist.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | GuessMe! | 183809 | [183809-guessme.json](./183809-guessme.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
