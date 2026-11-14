@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-LOC: Air Battle | 4464 | [4464-g-loc-air-battle.json](./4464-g-loc-air-battle.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 01: Flyhight Cloudia | 137769 | [137769-g-mode-archives-01-flyhight-cloudia.json](./137769-g-mode-archives-01-flyhight-cloudia.json) |
+| G-Mode Archives 02: Ai to Roudou no Hibi | 137706 | [137706-g-mode-archives-02-ai-to-roudou-no-hibi.json](./137706-g-mode-archives-02-ai-to-roudou-no-hibi.json) |
 | G-Mode Archives 03: Kururin Cafe | 137538 | [137538-g-mode-archives-03-kururin-cafe.json](./137538-g-mode-archives-03-kururin-cafe.json) |
 | G-Mode Archives 04: Beach Volleyball Girl Shizuku | 221780 | [221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json](./221780-g-mode-archives-04-beach-volleyball-girl-shizuku.json) |
 | G-Mode Archives 05: Sukebooo Man | 137813 | [137813-g-mode-archives-05-sukebooo-man.json](./137813-g-mode-archives-05-sukebooo-man.json) |
