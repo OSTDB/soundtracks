@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
 | Partisans 1941: Back Into Battle | 172242 | [172242-partisans-1941-back-into-battle.json](./172242-partisans-1941-back-into-battle.json) |
 | Partisans 1941: Extended Edition | 193743 | [193743-partisans-1941-extended-edition.json](./193743-partisans-1941-extended-edition.json) |
+| Partitas | 146390 | [146390-partitas.json](./146390-partitas.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partizan | 270055 | [270055-partizan.json](./270055-partizan.json) |
@@ -9699,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixoguess | 365628 | [365628-pixoguess.json](./365628-pixoguess.json) |
 | Pixoji | 101714 | [101714-pixoji.json](./101714-pixoji.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
+| PixPhys | 146403 | [146403-pixphys.json](./146403-pixphys.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
 | Pixplorer | 379950 | [379950-pixplorer.json](./379950-pixplorer.json) |
 | PixPuzzle | 241702 | [241702-pixpuzzle.json](./241702-pixpuzzle.json) |
