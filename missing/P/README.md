@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panorama Toh | 61938 | [61938-panorama-toh.json](./61938-panorama-toh.json) |
 | Panoramical | 12976 | [12976-panoramical.json](./12976-panoramical.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
+| Panqueca & Paçoca: A Friendship Jigsaw | 162970 | [162970-panqueca-and-pacoca-a-friendship-jigsaw.json](./162970-panqueca-and-pacoca-a-friendship-jigsaw.json) |
 | Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantaji Yeodongsaeng : Sujipyeong Bangchi RPG | 224404 | [224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json](./224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json) |
@@ -9073,27 +9074,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Locomotive | 357955 | [357955-pixel-puzzles-traditional-jigsaws-locomotive.json](./357955-pixel-puzzles-traditional-jigsaws-locomotive.json) |
 | Pixel Puzzles Traditional Jigsaws: Motorbikes | 357954 | [357954-pixel-puzzles-traditional-jigsaws-motorbikes.json](./357954-pixel-puzzles-traditional-jigsaws-motorbikes.json) |
 | Pixel Puzzles Traditional Jigsaws: Native American | 252521 | [252521-pixel-puzzles-traditional-jigsaws-native-american.json](./252521-pixel-puzzles-traditional-jigsaws-native-american.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Abstract | 162976 | [162976-pixel-puzzles-traditional-jigsaws-pack-abstract.json](./162976-pixel-puzzles-traditional-jigsaws-pack-abstract.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Americana | 162978 | [162978-pixel-puzzles-traditional-jigsaws-pack-americana.json](./162978-pixel-puzzles-traditional-jigsaws-pack-americana.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Autumn | 227006 | [227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json](./227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Bavaria | 162986 | [162986-pixel-puzzles-traditional-jigsaws-pack-bavaria.json](./162986-pixel-puzzles-traditional-jigsaws-pack-bavaria.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Butterflies | 227005 | [227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json](./227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Candy | 227004 | [227004-pixel-puzzles-traditional-jigsaws-pack-candy.json](./227004-pixel-puzzles-traditional-jigsaws-pack-candy.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Cats | 162985 | [162985-pixel-puzzles-traditional-jigsaws-pack-cats.json](./162985-pixel-puzzles-traditional-jigsaws-pack-cats.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Christmas | 162979 | [162979-pixel-puzzles-traditional-jigsaws-pack-christmas.json](./162979-pixel-puzzles-traditional-jigsaws-pack-christmas.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Christmas 2 | 227003 | [227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json](./227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Cyberpunk | 162981 | [162981-pixel-puzzles-traditional-jigsaws-pack-cyberpunk.json](./162981-pixel-puzzles-traditional-jigsaws-pack-cyberpunk.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Deutschland | 162971 | [162971-pixel-puzzles-traditional-jigsaws-pack-deutschland.json](./162971-pixel-puzzles-traditional-jigsaws-pack-deutschland.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Dogs | 162983 | [162983-pixel-puzzles-traditional-jigsaws-pack-dogs.json](./162983-pixel-puzzles-traditional-jigsaws-pack-dogs.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Fantasy | 227002 | [227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json](./227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Fast Food | 162973 | [162973-pixel-puzzles-traditional-jigsaws-pack-fast-food.json](./162973-pixel-puzzles-traditional-jigsaws-pack-fast-food.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - German Castles | 162972 | [162972-pixel-puzzles-traditional-jigsaws-pack-german-castles.json](./162972-pixel-puzzles-traditional-jigsaws-pack-german-castles.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Halloween | 227001 | [227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json](./227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Japan | 162982 | [162982-pixel-puzzles-traditional-jigsaws-pack-japan.json](./162982-pixel-puzzles-traditional-jigsaws-pack-japan.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Mexico | 227000 | [227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json](./227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Pacific Theater | 162974 | [162974-pixel-puzzles-traditional-jigsaws-pack-pacific-theater.json](./162974-pixel-puzzles-traditional-jigsaws-pack-pacific-theater.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Poland | 226999 | [226999-pixel-puzzles-traditional-jigsaws-pack-poland.json](./226999-pixel-puzzles-traditional-jigsaws-pack-poland.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 1 | 163003 | [163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json](./163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 2 | 162975 | [162975-pixel-puzzles-traditional-jigsaws-pack-variety-pack-2.json](./162975-pixel-puzzles-traditional-jigsaws-pack-variety-pack-2.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 3 | 162984 | [162984-pixel-puzzles-traditional-jigsaws-pack-variety-pack-3.json](./162984-pixel-puzzles-traditional-jigsaws-pack-variety-pack-3.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 4 | 226993 | [226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json](./226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 5 | 226992 | [226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json](./226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 7 | 247156 | [247156-pixel-puzzles-traditional-jigsaws-pack-variety-pack-7.json](./247156-pixel-puzzles-traditional-jigsaws-pack-variety-pack-7.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack XL | 162980 | [162980-pixel-puzzles-traditional-jigsaws-pack-variety-pack-xl.json](./162980-pixel-puzzles-traditional-jigsaws-pack-variety-pack-xl.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack XS | 197302 | [197302-pixel-puzzles-traditional-jigsaws-pack-variety-pack-xs.json](./197302-pixel-puzzles-traditional-jigsaws-pack-variety-pack-xs.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Winter | 162977 | [162977-pixel-puzzles-traditional-jigsaws-pack-winter.json](./162977-pixel-puzzles-traditional-jigsaws-pack-winter.json) |
 | Pixel Puzzles Traditional Jigsaws: Variety Pack XXS | 357953 | [357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json](./357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json) |
 | Pixel Puzzles Trivia | 288823 | [288823-pixel-puzzles-trivia.json](./288823-pixel-puzzles-trivia.json) |
 | Pixel Puzzles Ultimate | 35743 | [35743-pixel-puzzles-ultimate.json](./35743-pixel-puzzles-ultimate.json) |
@@ -9265,8 +9276,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles WW2 Jigsaw: Pack - Soviet Invasion of Poland | 268141 | [268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json](./268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json) |
 | Pixel Puzzles WW2 Jigsaw: Pack - The Blitz | 266037 | [266037-pixel-puzzles-ww2-jigsaw-pack-the-blitz.json](./266037-pixel-puzzles-ww2-jigsaw-pack-the-blitz.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Aliens | 162951 | [162951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-aliens.json](./162951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-aliens.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Angels | 162949 | [162949-pixel-puzzles-illustrations-and-anime-jigsaw-pack-angels.json](./162949-pixel-puzzles-illustrations-and-anime-jigsaw-pack-angels.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Book of Nature | 259951 | [259951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-book-of-nature.json](./259951-pixel-puzzles-illustrations-and-anime-jigsaw-pack-book-of-nature.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Cyberpunk | 162948 | [162948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-cyberpunk.json](./162948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-cyberpunk.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Deadswitch 3 | 303703 | [303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json](./303703-pixel-puzzles-illustrations-and-anime-jigsaw-pack-deadswitch-3.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dinosaurs | 227008 | [227008-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dinosaurs.json](./227008-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dinosaurs.json) |
@@ -9276,16 +9290,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Egypt | 303701 | [303701-pixel-puzzles-illustrations-and-anime-jigsaw-pack-egypt.json](./303701-pixel-puzzles-illustrations-and-anime-jigsaw-pack-egypt.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies | 163407 | [163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json](./163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Geishas | 357947 | [357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json](./357947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-geishas.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Goblins | 162944 | [162944-pixel-puzzles-illustrations-and-anime-jigsaw-pack-goblins.json](./162944-pixel-puzzles-illustrations-and-anime-jigsaw-pack-goblins.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls | 162934 | [162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json](./162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Halloween | 274584 | [274584-pixel-puzzles-illustrations-and-anime-jigsaw-pack-halloween.json](./274584-pixel-puzzles-illustrations-and-anime-jigsaw-pack-halloween.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Horror | 162946 | [162946-pixel-puzzles-illustrations-and-anime-jigsaw-pack-horror.json](./162946-pixel-puzzles-illustrations-and-anime-jigsaw-pack-horror.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Kuniyoshi | 253118 | [253118-pixel-puzzles-illustrations-and-anime-jigsaw-pack-kuniyoshi.json](./253118-pixel-puzzles-illustrations-and-anime-jigsaw-pack-kuniyoshi.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Legendary Beasts | 162947 | [162947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-legendary-beasts.json](./162947-pixel-puzzles-illustrations-and-anime-jigsaw-pack-legendary-beasts.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Little Dogs | 162936 | [162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json](./162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs | 163409 | [163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json](./163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Microorganisms | 357948 | [357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json](./357948-pixel-puzzles-illustrations-and-anime-jigsaw-pack-microorganisms.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Musix | 162943 | [162943-pixel-puzzles-illustrations-and-anime-jigsaw-pack-musix.json](./162943-pixel-puzzles-illustrations-and-anime-jigsaw-pack-musix.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Neko | 227007 | [227007-pixel-puzzles-illustrations-and-anime-jigsaw-pack-neko.json](./227007-pixel-puzzles-illustrations-and-anime-jigsaw-pack-neko.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls | 163408 | [163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json](./163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Occult | 303702 | [303702-pixel-puzzles-illustrations-and-anime-jigsaw-pack-occult.json](./303702-pixel-puzzles-illustrations-and-anime-jigsaw-pack-occult.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Samurai | 162939 | [162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json](./162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Sci-Fi | 162945 | [162945-pixel-puzzles-illustrations-and-anime-jigsaw-pack-sci-fi.json](./162945-pixel-puzzles-illustrations-and-anime-jigsaw-pack-sci-fi.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Soul of Giga | 162937 | [162937-pixel-puzzles-illustrations-and-anime-jigsaw-pack-soul-of-giga.json](./162937-pixel-puzzles-illustrations-and-anime-jigsaw-pack-soul-of-giga.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Space | 162942 | [162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json](./162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Thai Paintings | 357949 | [357949-pixel-puzzles-illustrations-and-anime-jigsaw-pack-thai-paintings.json](./357949-pixel-puzzles-illustrations-and-anime-jigsaw-pack-thai-paintings.json) |
@@ -9293,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 2 | 268973 | [268973-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-2.json](./268973-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-2.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 8 | 303700 | [303700-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-8.json](./303700-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-8.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack XL | 234531 | [234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json](./234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Warriors | 162950 | [162950-pixel-puzzles-illustrations-and-anime-jigsaw-pack-warriors.json](./162950-pixel-puzzles-illustrations-and-anime-jigsaw-pack-warriors.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Puzzles: UndeadZ | 17147 | [17147-pixel-puzzles-undeadz.json](./17147-pixel-puzzles-undeadz.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
