@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiGhostDeadline | 146630 | [146630-magighostdeadline.json](./146630-magighostdeadline.json) |
 | Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
 | Magika Land of Fantasy | 95621 | [95621-magika-land-of-fantasy.json](./95621-magika-land-of-fantasy.json) |
+| MagiKart: Retro Kart Racing | 132304 | [132304-magikart-retro-kart-racing.json](./132304-magikart-retro-kart-racing.json) |
 | Magikiras | 88127 | [88127-magikiras.json](./88127-magikiras.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
 | Magikoopa's Midnight Mayhem | 322293 | [322293-magikoopas-midnight-mayhem.json](./322293-magikoopas-midnight-mayhem.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
 | March of Industry | 35152 | [35152-march-of-industry.json](./35152-march-of-industry.json) |
 | March of Shrooms | 215020 | [215020-march-of-shrooms.json](./215020-march-of-shrooms.json) |
+| March of Soldiers | 132317 | [132317-march-of-soldiers.json](./132317-march-of-soldiers.json) |
 | March of the Drunken Sailors | 254994 | [254994-march-of-the-drunken-sailors.json](./254994-march-of-the-drunken-sailors.json) |
 | March of the Eagles | 2936 | [2936-march-of-the-eagles.json](./2936-march-of-the-eagles.json) |
 | March of the Eagles: British Unit Pack | 119427 | [119427-march-of-the-eagles-british-unit-pack.json](./119427-march-of-the-eagles-british-unit-pack.json) |
@@ -14732,6 +14734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna to Biohazard Clan Master | 251369 | [251369-minna-to-biohazard-clan-master.json](./251369-minna-to-biohazard-clan-master.json) |
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minna to Daikoukai Frontier | 64628 | [64628-minna-to-daikoukai-frontier.json](./64628-minna-to-daikoukai-frontier.json) |
+| Minnade Counter Fight | 132332 | [132332-minnade-counter-fight.json](./132332-minnade-counter-fight.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnesota Fats: Pool Legend | 4465 | [4465-minnesota-fats-pool-legend.json](./4465-minnesota-fats-pool-legend.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
@@ -19460,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss: The Twilight Garden | 162204 | [162204-moss-the-twilight-garden.json](./162204-moss-the-twilight-garden.json) |
 | Mossasis | 248978 | [248978-mossasis.json](./248978-mossasis.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
+| Mossen Seikkailut | 132319 | [132319-mossen-seikkailut.json](./132319-mossen-seikkailut.json) |
 | Mossfield Archives | 305030 | [305030-mossfield-archives.json](./305030-mossfield-archives.json) |
 | Mossfield Origins | 204536 | [204536-mossfield-origins.json](./204536-mossfield-origins.json) |
 | Mossland | 131753 | [131753-mossland.json](./131753-mossland.json) |
