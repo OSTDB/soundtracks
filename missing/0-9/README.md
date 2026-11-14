@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
 | 15 Puzzle | 67073 | [67073-15-puzzle.json](./67073-15-puzzle.json) |
 | 15 Puzzle Slide | 101125 | [101125-15-puzzle-slide.json](./101125-15-puzzle-slide.json) |
+| 15 Seconds | 102443 | [102443-15-seconds.json](./102443-15-seconds.json) |
 | 15 Weeks Before Summer! | 358063 | [358063-15-weeks-before-summer.json](./358063-15-weeks-before-summer.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
 | 15 ﾠ | 240102 | [240102-15.json](./240102-15.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
 | 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
+| 270 \| Two Seventy US Election | 102432 | [102432-270-two-seventy-us-election.json](./102432-270-two-seventy-us-election.json) |
 | 28 | 308937 | [308937-28.json](./308937-28.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 28 Days Later: The Game | 334843 | [334843-28-days-later-the-game.json](./334843-28-days-later-the-game.json) |
