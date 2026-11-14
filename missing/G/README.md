@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Hourouki | 56928 | [56928-gamble-hourouki.json](./56928-gamble-hourouki.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
+| Gamble of Gods | 111100 | [111100-gamble-of-gods.json](./111100-gamble-of-gods.json) |
 | Gamble Panic | 46318 | [46318-gamble-panic.json](./46318-gamble-panic.json) |
 | Gamble Scramble | 107555 | [107555-gamble-scramble.json](./107555-gamble-scramble.json) |
 | Gamble Tower | 172398 | [172398-gamble-tower.json](./172398-gamble-tower.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedle | 204658 | [204658-gamedle.json](./204658-gamedle.json) |
 | Gamedle | 401685 | [401685-gamedle.json](./401685-gamedle.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
+| GameEllen | 111088 | [111088-gameellen.json](./111088-gameellen.json) |
 | GameFactory AI | 359651 | [359651-gamefactory-ai.json](./359651-gamefactory-ai.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | GameFutebol | 250211 | [250211-gamefutebol.json](./250211-gamefutebol.json) |
