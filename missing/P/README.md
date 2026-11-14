@@ -14204,6 +14204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popmoji | 282053 | [282053-popmoji.json](./282053-popmoji.json) |
 | Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
+| Popo Ball - popstar! once you start, you can't stop | 96329 | [96329-popo-ball-popstar-once-you-start-you-cant-stop.json](./96329-popo-ball-popstar-once-you-start-you-cant-stop.json) |
 | Popo Team | 195067 | [195067-popo-team.json](./195067-popo-team.json) |
 | Popo's Tower | 136731 | [136731-popos-tower.json](./136731-popos-tower.json) |
 | Popol Maya | 178182 | [178182-popol-maya.json](./178182-popol-maya.json) |
@@ -18698,6 +18699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psych | 336823 | [336823-psych.json](./336823-psych.json) |
 | Psych | 86179 | [86179-psych.json](./86179-psych.json) |
 | Psych Rift | 403909 | [403909-psych-rift.json](./403909-psych-rift.json) |
+| Psych Yourself | 96356 | [96356-psych-yourself.json](./96356-psych-yourself.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psych! Outwit Your Friends | 88059 | [88059-psych-outwit-your-friends.json](./88059-psych-outwit-your-friends.json) |
 | Psychdive. | 366334 | [366334-psychdive.json](./366334-psychdive.json) |
@@ -18787,6 +18789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
 | Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
+| Psycho Wolf | 96370 | [96370-psycho-wolf.json](./96370-psycho-wolf.json) |
 | Psycho World | 248936 | [248936-psycho-world.json](./248936-psycho-world.json) |
 | Psycho World | 41715 | [41715-psycho-world.json](./41715-psycho-world.json) |
 | Psycho-Jirai In Love | 204002 | [204002-psycho-jirai-in-love.json](./204002-psycho-jirai-in-love.json) |
