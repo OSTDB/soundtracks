@@ -10585,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shred! 2 - ft Sam Pilgrim | 104447 | [104447-shred-2-ft-sam-pilgrim.json](./104447-shred-2-ft-sam-pilgrim.json) |
 | Shred! Remastered | 207278 | [207278-shred-remastered.json](./207278-shred-remastered.json) |
 | Shred! Remastered + Shred! 2 Bundle | 325013 | [325013-shred-remastered-shred-2-bundle.json](./325013-shred-remastered-shred-2-bundle.json) |
+| Shredd | 128702 | [128702-shredd.json](./128702-shredd.json) |
 | ShredDead | 422474 | [422474-shreddead.json](./422474-shreddead.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
@@ -16645,6 +16646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
 | Snapware ft. Tchabada | 276542 | [276542-snapware-ft-tchabada.json](./276542-snapware-ft-tchabada.json) |
 | Snapware Gun | 276538 | [276538-snapware-gun.json](./276538-snapware-gun.json) |
+| Snaquia | 128684 | [128684-snaquia.json](./128684-snaquia.json) |
 | Snare | 40938 | [40938-snare.json](./40938-snare.json) |
 | Snarekin | 426053 | [426053-snarekin.json](./426053-snarekin.json) |
 | Snares of Ruin | 81750 | [81750-snares-of-ruin.json](./81750-snares-of-ruin.json) |
@@ -18103,6 +18105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaria Moon | 37395 | [37395-solaria-moon.json](./37395-solaria-moon.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
+| Solaris | 128704 | [128704-solaris.json](./128704-solaris.json) |
 | Solaris | 154738 | [154738-solaris.json](./154738-solaris.json) |
 | Solaris | 370332 | [370332-solaris.json](./370332-solaris.json) |
 | Solaris | 40577 | [40577-solaris.json](./40577-solaris.json) |
@@ -30503,6 +30506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Cases: The Lighthouse Mystery | 64618 | [64618-strange-cases-the-lighthouse-mystery.json](./64618-strange-cases-the-lighthouse-mystery.json) |
 | Strange Cases: the Secrets of Grey Mist Lake | 64613 | [64613-strange-cases-the-secrets-of-grey-mist-lake.json](./64613-strange-cases-the-secrets-of-grey-mist-lake.json) |
 | Strange Cases: The Tarot Card Mystery | 64617 | [64617-strange-cases-the-tarot-card-mystery.json](./64617-strange-cases-the-tarot-card-mystery.json) |
+| Strange Climber | 128691 | [128691-strange-climber.json](./128691-strange-climber.json) |
 | Strange Creatures | 131759 | [131759-strange-creatures.json](./131759-strange-creatures.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
@@ -31639,6 +31643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
 | Strippers | 240145 | [240145-strippers.json](./240145-strippers.json) |
+| Striptease | 128692 | [128692-striptease.json](./128692-striptease.json) |
 | Strive | 102883 | [102883-strive.json](./102883-strive.json) |
 | Strive For Power: King Growth Program | 308868 | [308868-strive-for-power-king-growth-program.json](./308868-strive-for-power-king-growth-program.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
@@ -38338,6 +38343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susurye of Shadows | 231129 | [231129-susurye-of-shadows.json](./231129-susurye-of-shadows.json) |
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
 | Sutakomi: Star Communicator | 49804 | [49804-sutakomi-star-communicator.json](./49804-sutakomi-star-communicator.json) |
+| SuteF | 128698 | [128698-sutef.json](./128698-sutef.json) |
 | Suteki na Kanojo no Tsukurikata | 156919 | [156919-suteki-na-kanojo-no-tsukurikata.json](./156919-suteki-na-kanojo-no-tsukurikata.json) |
 | Suto Mani: Strobe Mania | 222637 | [222637-suto-mani-strobe-mania.json](./222637-suto-mani-strobe-mania.json) |
 | Sutobasu Yarou Shou | 42426 | [42426-sutobasu-yarou-shou.json](./42426-sutobasu-yarou-shou.json) |
@@ -39193,6 +39199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Siege: Crusades Book I | 335735 | [335735-sword-and-siege-crusades-book-i.json](./335735-sword-and-siege-crusades-book-i.json) |
 | Sword & Sorcery Bundle | 164724 | [164724-sword-and-sorcery-bundle.json](./164724-sword-and-sorcery-bundle.json) |
 | Sword & Spatula | 257892 | [257892-sword-and-spatula.json](./257892-sword-and-spatula.json) |
+| Sword Adventure Simulator and Instruction Manual | 128670 | [128670-sword-adventure-simulator-and-instruction-manual.json](./128670-sword-adventure-simulator-and-instruction-manual.json) |
 | Sword and Adventurer | 133115 | [133115-sword-and-adventurer.json](./133115-sword-and-adventurer.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
