@@ -15562,6 +15562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continental Galaxy 2020 | 59811 | [59811-continental-galaxy-2020.json](./59811-continental-galaxy-2020.json) |
 | Contingence | 364946 | [364946-contingence.json](./364946-contingence.json) |
 | Contingency | 181626 | [181626-contingency.json](./181626-contingency.json) |
+| Contingency Creatures | 150719 | [150719-contingency-creatures.json](./150719-contingency-creatures.json) |
 | Contingency Plan | 303425 | [303425-contingency-plan.json](./303425-contingency-plan.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent | 106441 | [106441-contingent.json](./106441-contingent.json) |
@@ -20139,6 +20140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Mardan | 67360 | [67360-crown-of-mardan.json](./67360-crown-of-mardan.json) |
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
+| Crown of the Empire | 150711 | [150711-crown-of-the-empire.json](./150711-crown-of-the-empire.json) |
 | Crown of the Empire Around the World | 151297 | [151297-crown-of-the-empire-around-the-world.json](./151297-crown-of-the-empire-around-the-world.json) |
 | Crown of the Empire: Around the World - Collectors Edition | 278187 | [278187-crown-of-the-empire-around-the-world-collectors-edition.json](./278187-crown-of-the-empire-around-the-world-collectors-edition.json) |
 | Crown of the Empire: Collector's Edition | 273342 | [273342-crown-of-the-empire-collectors-edition.json](./273342-crown-of-the-empire-collectors-edition.json) |
@@ -22341,6 +22343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Hedgehog | 84100 | [84100-cute-hedgehog.json](./84100-cute-hedgehog.json) |
 | Cute Hentai Waifu: Numbers | 255279 | [255279-cute-hentai-waifu-numbers.json](./255279-cute-hentai-waifu-numbers.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
+| Cute Honey | 150733 | [150733-cute-honey.json](./150733-cute-honey.json) |
 | Cute Honey 2 | 156985 | [156985-cute-honey-2.json](./156985-cute-honey-2.json) |
 | Cute Honey 3 | 149389 | [149389-cute-honey-3.json](./149389-cute-honey-3.json) |
 | Cute Honey: Bunny Girl | 189975 | [189975-cute-honey-bunny-girl.json](./189975-cute-honey-bunny-girl.json) |
