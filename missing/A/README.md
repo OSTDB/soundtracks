@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adapta Solva | 376842 | [376842-adapta-solva.json](./376842-adapta-solva.json) |
 | AdaptaTank | 143930 | [143930-adaptatank.json](./143930-adaptatank.json) |
 | Adaptation | 377484 | [377484-adaptation.json](./377484-adaptation.json) |
+| Adapted Adventures: Crystal Cave | 150705 | [150705-adapted-adventures-crystal-cave.json](./150705-adapted-adventures-crystal-cave.json) |
 | Adaptive Hero | 377485 | [377485-adaptive-hero.json](./377485-adaptive-hero.json) |
 | Adaptory | 222870 | [222870-adaptory.json](./222870-adaptory.json) |
 | Adaptr | 110574 | [110574-adaptr.json](./110574-adaptr.json) |
