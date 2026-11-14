@@ -6520,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Bowling | 131262 | [131262-championship-bowling.json](./131262-championship-bowling.json) |
 | Championship Bowling | 317525 | [317525-championship-bowling.json](./317525-championship-bowling.json) |
 | Championship Bowling | 388576 | [388576-championship-bowling.json](./388576-championship-bowling.json) |
+| Championship Chess | 146411 | [146411-championship-chess.json](./146411-championship-chess.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Darts | 206910 | [206910-championship-darts.json](./206910-championship-darts.json) |
 | Championship Foosball | 51017 | [51017-championship-foosball.json](./51017-championship-foosball.json) |
@@ -18837,6 +18838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
 | Crazy World VR | 235522 | [235522-crazy-world-vr.json](./235522-crazy-world-vr.json) |
 | Crazy Zen Codeword | 185902 | [185902-crazy-zen-codeword.json](./185902-crazy-zen-codeword.json) |
+| Crazy Zen Mini Golf | 146934 | [146934-crazy-zen-mini-golf.json](./146934-crazy-zen-mini-golf.json) |
 | Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
 | Crazy_Run | 175488 | [175488-crazy-run.json](./175488-crazy-run.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
