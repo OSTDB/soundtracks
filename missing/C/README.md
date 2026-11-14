@@ -830,8 +830,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
+| Call of Duty: Modern Warfare - Season One | 129865 | [129865-call-of-duty-modern-warfare-season-one.json](./129865-call-of-duty-modern-warfare-season-one.json) |
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
+| Call of Duty: Modern Warfare - Season Two | 129866 | [129866-call-of-duty-modern-warfare-season-two.json](./129866-call-of-duty-modern-warfare-season-two.json) |
 | Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
 | Call of Duty: Modern Warfare 2 - Hardened Edition | 154705 | [154705-call-of-duty-modern-warfare-2-hardened-edition.json](./154705-call-of-duty-modern-warfare-2-hardened-edition.json) |
 | Call of Duty: Modern Warfare 2 - Prestige Edition | 154704 | [154704-call-of-duty-modern-warfare-2-prestige-edition.json](./154704-call-of-duty-modern-warfare-2-prestige-edition.json) |
@@ -2339,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Car Up! | 303393 | [303393-car-car-up.json](./303393-car-car-up.json) |
 | Car Carrier Simulator | 326460 | [326460-car-carrier-simulator.json](./326460-car-carrier-simulator.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
+| Car Challenger | 129856 | [129856-car-challenger.json](./129856-car-challenger.json) |
 | Car Chase Simulator | 222760 | [222760-car-chase-simulator.json](./222760-car-chase-simulator.json) |
 | Car Clicker | 314233 | [314233-car-clicker.json](./314233-car-clicker.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
@@ -9356,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Etia: A Samhain Story | 173429 | [173429-chronicles-of-etia-a-samhain-story.json](./173429-chronicles-of-etia-a-samhain-story.json) |
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
+| Chronicles of Galdurvale | 129854 | [129854-chronicles-of-galdurvale.json](./129854-chronicles-of-galdurvale.json) |
 | Chronicles of Ghost Town | 257130 | [257130-chronicles-of-ghost-town.json](./257130-chronicles-of-ghost-town.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
 | Chronicles of Inotia: Legend of Feanor | 65876 | [65876-chronicles-of-inotia-legend-of-feanor.json](./65876-chronicles-of-inotia-legend-of-feanor.json) |
@@ -17318,6 +17322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country of Cities | 152664 | [152664-country-of-cities.json](./152664-country-of-cities.json) |
 | Country of Snow | 408285 | [408285-country-of-snow.json](./408285-country-of-snow.json) |
 | Country Park | 105136 | [105136-country-park.json](./105136-country-park.json) |
+| Country Road VR | 129835 | [129835-country-road-vr.json](./129835-country-road-vr.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Country Story | 342259 | [342259-country-story.json](./342259-country-story.json) |
 | Country Tales | 34633 | [34633-country-tales.json](./34633-country-tales.json) |
