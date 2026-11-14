@@ -2683,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkdens | 212059 | [212059-parkdens.json](./212059-parkdens.json) |
 | Parked in the Dark | 128281 | [128281-parked-in-the-dark.json](./128281-parked-in-the-dark.json) |
 | Parker & Lane | 87999 | [87999-parker-and-lane.json](./87999-parker-and-lane.json) |
+| Parker & Lane | 93881 | [93881-parker-and-lane.json](./93881-parker-and-lane.json) |
 | Parker & Lane: Criminal Justice | 112026 | [112026-parker-and-lane-criminal-justice.json](./112026-parker-and-lane-criminal-justice.json) |
 | Parker Brothers: Card Games | 100093 | [100093-parker-brothers-card-games.json](./100093-parker-brothers-card-games.json) |
 | Parket Evolution | 213780 | [213780-parket-evolution.json](./213780-parket-evolution.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dentist Office | 87539 | [87539-pet-dentist-office.json](./87539-pet-dentist-office.json) |
 | Pet Desktop Adventure | 373868 | [373868-pet-desktop-adventure.json](./373868-pet-desktop-adventure.json) |
+| Pet Doc | 93869 | [93869-pet-doc.json](./93869-pet-doc.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Dog | 247268 | [247268-pet-dog.json](./247268-pet-dog.json) |
 | Pet Dragon Girl | 230892 | [230892-pet-dragon-girl.json](./230892-pet-dragon-girl.json) |
