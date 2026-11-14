@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papa's Taco Mia To Go! | 345835 | [345835-papas-taco-mia-to-go.json](./345835-papas-taco-mia-to-go.json) |
+| Papa's Taco Mia! | 141320 | [141320-papas-taco-mia.json](./141320-papas-taco-mia.json) |
 | Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
 | Papa's Wingeria HD | 88960 | [88960-papas-wingeria-hd.json](./88960-papas-wingeria-hd.json) |
@@ -12235,6 +12236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Definitive Platinum | 315820 | [315820-pokemon-definitive-platinum.json](./315820-pokemon-definitive-platinum.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
 | Pokémon DerErif | 269909 | [269909-pokemon-dererif.json](./269909-pokemon-dererif.json) |
+| Pokémon Desolation | 140695 | [140695-pokemon-desolation.json](./140695-pokemon-desolation.json) |
 | Pokémon Diamond | 163099 | [163099-pokemon-diamond.json](./163099-pokemon-diamond.json) |
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Divine Sword | 197432 | [197432-pokemon-divine-sword.json](./197432-pokemon-divine-sword.json) |
