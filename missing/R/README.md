@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Run: Free Expansion Pack | 226983 | [226983-rainbow-run-free-expansion-pack.json](./226983-rainbow-run-free-expansion-pack.json) |
 | Rainbow Runner | 249586 | [249586-rainbow-runner.json](./249586-rainbow-runner.json) |
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
+| Rainbow Sea | 151763 | [151763-rainbow-sea.json](./151763-rainbow-sea.json) |
 | Rainbow Six Mobile | 200333 | [200333-rainbow-six-mobile.json](./200333-rainbow-six-mobile.json) |
 | Rainbow Six: Black Ops | 132046 | [132046-rainbow-six-black-ops.json](./132046-rainbow-six-black-ops.json) |
 | Rainbow Six: Raven Shield | 314237 | [314237-rainbow-six-raven-shield.json](./314237-rainbow-six-raven-shield.json) |
@@ -13418,6 +13419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Desnecessauro | 204862 | [204862-run-desnecessauro.json](./204862-run-desnecessauro.json) |
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
 | Run Die Retry | 109512 | [109512-run-die-retry.json](./109512-run-die-retry.json) |
+| Run Die Run Again | 151789 | [151789-run-die-run-again.json](./151789-run-die-run-again.json) |
 | Run Dorothy Run | 89380 | [89380-run-dorothy-run.json](./89380-run-dorothy-run.json) |
 | Run Dude | 128288 | [128288-run-dude.json](./128288-run-dude.json) |
 | Run Dummy Run | 166903 | [166903-run-dummy-run.json](./166903-run-dummy-run.json) |
