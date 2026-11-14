@@ -9652,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
 | Hold 'Em | 241668 | [241668-hold-em.json](./241668-hold-em.json) |
+| Hold 10 Seconds | 132929 | [132929-hold-10-seconds.json](./132929-hold-10-seconds.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
 | Hold A to Drift | 182951 | [182951-hold-a-to-drift.json](./182951-hold-a-to-drift.json) |
 | Hold Controller | 211904 | [211904-hold-controller.json](./211904-hold-controller.json) |
@@ -13549,6 +13550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huygens Principle | 51477 | [51477-huygens-principle.json](./51477-huygens-principle.json) |
 | HuZero: Caravan Edition | 222850 | [222850-huzero-caravan-edition.json](./222850-huzero-caravan-edition.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
+| Hvor | 132895 | [132895-hvor.json](./132895-hvor.json) |
 | Hvor: Confrontation | 169641 | [169641-hvor-confrontation.json](./169641-hvor-confrontation.json) |
 | HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
