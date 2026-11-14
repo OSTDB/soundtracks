@@ -7137,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge On Gold Diggers | 372482 | [372482-revenge-on-gold-diggers.json](./372482-revenge-on-gold-diggers.json) |
 | Revenge on the Streets | 119726 | [119726-revenge-on-the-streets.json](./119726-revenge-on-the-streets.json) |
+| Revenge on the Streets 2 | 149659 | [149659-revenge-on-the-streets-2.json](./149659-revenge-on-the-streets-2.json) |
 | Revenge on the Streets 3 | 197279 | [197279-revenge-on-the-streets-3.json](./197279-revenge-on-the-streets-3.json) |
 | Revenge Quest | 30040 | [30040-revenge-quest.json](./30040-revenge-quest.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
@@ -9438,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome: Portals 2 - Collector's Edition | 245984 | [245984-roads-of-rome-portals-2-collectors-edition.json](./245984-roads-of-rome-portals-2-collectors-edition.json) |
 | Roads of the Middle Ages: Collector's Edition | 336989 | [336989-roads-of-the-middle-ages-collectors-edition.json](./336989-roads-of-the-middle-ages-collectors-edition.json) |
 | Roads of Time | 129525 | [129525-roads-of-time.json](./129525-roads-of-time.json) |
+| Roads of Time 2: Odyssey | 149628 | [149628-roads-of-time-2-odyssey.json](./149628-roads-of-time-2-odyssey.json) |
 | Roads of Time Bundle | 301784 | [301784-roads-of-time-bundle.json](./301784-roads-of-time-bundle.json) |
 | Roads to the Red Night | 366165 | [366165-roads-to-the-red-night.json](./366165-roads-to-the-red-night.json) |
 | Roads Yet Traveled | 359048 | [359048-roads-yet-traveled.json](./359048-roads-yet-traveled.json) |
@@ -11019,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Mansion | 145424 | [145424-rogue-mansion.json](./145424-rogue-mansion.json) |
+| Rogue Masters | 149656 | [149656-rogue-masters.json](./149656-rogue-masters.json) |
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
 | Rogue Maze | 411407 | [411407-rogue-maze.json](./411407-rogue-maze.json) |
 | Rogue Mech | 268251 | [268251-rogue-mech.json](./268251-rogue-mech.json) |
@@ -14094,6 +14097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
 | Rushing Beat | 406400 | [406400-rushing-beat.json](./406400-rushing-beat.json) |
+| Rushing Beat of Rage | 149639 | [149639-rushing-beat-of-rage.json](./149639-rushing-beat-of-rage.json) |
 | Rushing Beat Ran: Fukusei Toshi | 406401 | [406401-rushing-beat-ran-fukusei-toshi.json](./406401-rushing-beat-ran-fukusei-toshi.json) |
 | Rushing Beat Shura | 406402 | [406402-rushing-beat-shura.json](./406402-rushing-beat-shura.json) |
 | Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
