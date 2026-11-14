@@ -6529,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Oz: Broken Kingdom | 57861 | [57861-oz-broken-kingdom.json](./57861-oz-broken-kingdom.json) |
 | Oz: The Magical Adventure | 78998 | [78998-oz-the-magical-adventure.json](./78998-oz-the-magical-adventure.json) |
+| Ozapell Mystery Text Adventure | 107465 | [107465-ozapell-mystery-text-adventure.json](./107465-ozapell-mystery-text-adventure.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozawa-Ken | 363765 | [363765-ozawa-ken.json](./363765-ozawa-ken.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
