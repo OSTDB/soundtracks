@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vendrán las aves | 329630 | [329630-vendran-las-aves.json](./329630-vendran-las-aves.json) |
 | Veneficium | 144539 | [144539-veneficium.json](./144539-veneficium.json) |
+| Veneficium | 162952 | [162952-veneficium.json](./162952-veneficium.json) |
 | Veneficium: A witch's tale | 169903 | [169903-veneficium-a-witchs-tale.json](./169903-veneficium-a-witchs-tale.json) |
 | Venera 31 | 399257 | [399257-venera-31.json](./399257-venera-31.json) |
 | Venetian Blinds | 40748 | [40748-venetian-blinds.json](./40748-venetian-blinds.json) |
