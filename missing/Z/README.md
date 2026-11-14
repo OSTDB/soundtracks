@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuma Boom | 213817 | [213817-zuma-boom.json](./213817-zuma-boom.json) |
 | Zuma Deluxe | 20509 | [20509-zuma-deluxe.json](./20509-zuma-deluxe.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
+| Zuma Legend VR | 112381 | [112381-zuma-legend-vr.json](./112381-zuma-legend-vr.json) |
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumaji Delux | 276546 | [276546-zumaji-delux.json](./276546-zumaji-delux.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
