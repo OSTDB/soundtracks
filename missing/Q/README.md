@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestLord 2 | 113385 | [113385-questlord-2.json](./113385-questlord-2.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questmore | 95970 | [95970-questmore.json](./95970-questmore.json) |
+| QuestNotes | 109090 | [109090-questnotes.json](./109090-questnotes.json) |
 | Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
 | Questprobe featuring Human Torch and the Thing | 24385 | [24385-questprobe-featuring-human-torch-and-the-thing.json](./24385-questprobe-featuring-human-torch-and-the-thing.json) |
 | Questprobe featuring Spider-Man | 24384 | [24384-questprobe-featuring-spider-man.json](./24384-questprobe-featuring-spider-man.json) |
