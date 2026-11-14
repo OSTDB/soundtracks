@@ -8988,6 +8988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun Mayhem | 384597 | [384597-pixel-gun-mayhem.json](./384597-pixel-gun-mayhem.json) |
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
+| Pixel Happy Game Girls | 115938 | [115938-pixel-happy-game-girls.json](./115938-pixel-happy-game-girls.json) |
 | Pixel Harvester | 372189 | [372189-pixel-harvester.json](./372189-pixel-harvester.json) |
 | Pixel Head Soccer | 148741 | [148741-pixel-head-soccer.json](./148741-pixel-head-soccer.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
@@ -12792,6 +12793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Volt White 2 | 261895 | [261895-pokemon-volt-white-2.json](./261895-pokemon-volt-white-2.json) |
 | Pokémon Volt White 2 Redux | 259198 | [259198-pokemon-volt-white-2-redux.json](./259198-pokemon-volt-white-2-redux.json) |
+| Pokémon VR: Ash's Room | 115731 | [115731-pokemon-vr-ashs-room.json](./115731-pokemon-vr-ashs-room.json) |
 | Pokémon Wack | 146556 | [146556-pokemon-wack.json](./146556-pokemon-wack.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
 | Pokémon WaterBlue Version | 214217 | [214217-pokemon-waterblue-version.json](./214217-pokemon-waterblue-version.json) |
@@ -17045,6 +17047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profezia | 80986 | [80986-profezia.json](./80986-profezia.json) |
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
+| Proficient Paddles Deluxe | 115935 | [115935-proficient-paddles-deluxe.json](./115935-proficient-paddles-deluxe.json) |
 | Profiler Files: New Orleans | 280384 | [280384-profiler-files-new-orleans.json](./280384-profiler-files-new-orleans.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
