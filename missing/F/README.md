@@ -13343,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Arena | 150946 | [150946-friendly-arena.json](./150946-friendly-arena.json) |
 | Friendly Blonding | 213527 | [213527-friendly-blonding.json](./213527-friendly-blonding.json) |
+| Friendly Bunny Mochi | 122462 | [122462-friendly-bunny-mochi.json](./122462-friendly-bunny-mochi.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
 | Friendly Find | 149373 | [149373-friendly-find.json](./149373-friendly-find.json) |
 | Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
@@ -14640,6 +14641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Pawer | 166918 | [166918-full-pawer.json](./166918-full-pawer.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
+| Full Quiet | 122475 | [122475-full-quiet.json](./122475-full-quiet.json) |
 | Full Service Shop | 134116 | [134116-full-service-shop.json](./134116-full-service-shop.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
 | Full Spectrum Warrior | 5840 | [5840-full-spectrum-warrior.json](./5840-full-spectrum-warrior.json) |
@@ -15567,6 +15569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Tanks: Tank Shooter Game | 87385 | [87385-future-tanks-tank-shooter-game.json](./87385-future-tanks-tank-shooter-game.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
+| Future Tom Tom | 122481 | [122481-future-tom-tom.json](./122481-future-tom-tom.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
 | Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
