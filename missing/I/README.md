@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie All Star vol. 3 | 322420 | [322420-indie-all-star-vol-3.json](./322420-indie-all-star-vol-3.json) |
 | Indie Arena Booth Online | 138721 | [138721-indie-arena-booth-online.json](./138721-indie-arena-booth-online.json) |
 | Indie Assault | 35631 | [35631-indie-assault.json](./35631-indie-assault.json) |
+| Indie Brawl | 97564 | [97564-indie-brawl.json](./97564-indie-brawl.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Darling Bundle Vol 2 | 147790 | [147790-indie-darling-bundle-vol-2.json](./147790-indie-darling-bundle-vol-2.json) |
 | Indie Darling Bundle Vol. 1 | 146693 | [146693-indie-darling-bundle-vol-1.json](./146693-indie-darling-bundle-vol-1.json) |
