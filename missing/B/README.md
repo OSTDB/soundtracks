@@ -4207,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends | 380014 | [380014-battle-legends.json](./380014-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
+| Battle Legion | 126053 | [126053-battle-legion.json](./126053-battle-legion.json) |
 | Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Live: Halloween Live | 179764 | [179764-battle-live-halloween-live.json](./179764-battle-live-halloween-live.json) |
@@ -13134,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bo's Adventure: Merging Islands | 187148 | [187148-bos-adventure-merging-islands.json](./187148-bos-adventure-merging-islands.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
+| BoaBite 3D | 126078 | [126078-boabite-3d.json](./126078-boabite-3d.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
 | Board | 204894 | [204894-board.json](./204894-board.json) |
 | Board 2 Death | 175484 | [175484-board-2-death.json](./175484-board-2-death.json) |
