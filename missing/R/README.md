@@ -8215,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rig or Skill: PC Brawl | 89327 | [89327-rig-or-skill-pc-brawl.json](./89327-rig-or-skill-pc-brawl.json) |
 | Rig Racer 2 | 5123 | [5123-rig-racer-2.json](./5123-rig-racer-2.json) |
 | Rig Riot | 337384 | [337384-rig-riot.json](./337384-rig-riot.json) |
+| Rig Score | 158255 | [158255-rig-score.json](./158255-rig-score.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rig'n'Roll | 10769 | [10769-rignroll.json](./10769-rignroll.json) |
 | Rig's Dream 3D | 28102 | [28102-rigs-dream-3d.json](./28102-rigs-dream-3d.json) |
@@ -11307,6 +11308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
+| Roll Control | 158258 | [158258-roll-control.json](./158258-roll-control.json) |
 | Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll For Initiative | 193644 | [193644-roll-for-initiative.json](./193644-roll-for-initiative.json) |
