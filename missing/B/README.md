@@ -13507,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boiling Bolt | 32983 | [32983-boiling-bolt.json](./32983-boiling-bolt.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
+| Boiling Steel: Preface | 128081 | [128081-boiling-steel-preface.json](./128081-boiling-steel-preface.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing | 223338 | [223338-boing.json](./223338-boing.json) |
