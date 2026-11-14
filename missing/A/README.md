@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abhay | 377430 | [377430-abhay.json](./377430-abhay.json) |
 | Abhorrent Light | 236067 | [236067-abhorrent-light.json](./236067-abhorrent-light.json) |
+| Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
 | ABI-DOS | 293628 | [293628-abi-dos.json](./293628-abi-dos.json) |
 | Abi: A Robot's Tale | 88929 | [88929-abi-a-robots-tale.json](./88929-abi-a-robots-tale.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
@@ -8018,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Revenge | 332170 | [332170-aliens-revenge.json](./332170-aliens-revenge.json) |
 | Aliens Roadside | 401364 | [401364-aliens-roadside.json](./401364-aliens-roadside.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
+| Aliens TC | 153552 | [153552-aliens-tc.json](./153552-aliens-tc.json) |
 | Aliens Took My Stuff | 407033 | [407033-aliens-took-my-stuff.json](./407033-aliens-took-my-stuff.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
@@ -8051,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
 | Aliens: Colonial Marines - Stasis Interrupted | 117903 | [117903-aliens-colonial-marines-stasis-interrupted.json](./117903-aliens-colonial-marines-stasis-interrupted.json) |
 | Aliens: Dark Descent - Lethe Recon Pack | 367093 | [367093-aliens-dark-descent-lethe-recon-pack.json](./367093-aliens-dark-descent-lethe-recon-pack.json) |
+| Aliens: Eradication | 153551 | [153551-aliens-eradication.json](./153551-aliens-eradication.json) |
 | Aliens: Fireteam Elite - Deluxe Edition | 154709 | [154709-aliens-fireteam-elite-deluxe-edition.json](./154709-aliens-fireteam-elite-deluxe-edition.json) |
 | Aliens: Fireteam Elite - Endeavor Veteran Pack | 223832 | [223832-aliens-fireteam-elite-endeavor-veteran-pack.json](./223832-aliens-fireteam-elite-endeavor-veteran-pack.json) |
 | Aliens: Fireteam Elite - Frontier Freelancer Pack | 223831 | [223831-aliens-fireteam-elite-frontier-freelancer-pack.json](./223831-aliens-fireteam-elite-frontier-freelancer-pack.json) |
