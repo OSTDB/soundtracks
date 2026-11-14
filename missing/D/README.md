@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
 | Debut Project: Cooking Cafe | 316507 | [316507-debut-project-cooking-cafe.json](./316507-debut-project-cooking-cafe.json) |
 | Debut: Planet Simulation | 12567 | [12567-debut-planet-simulation.json](./12567-debut-planet-simulation.json) |
+| Deca | 113066 | [113066-deca.json](./113066-deca.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
@@ -17428,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
 | drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
 | Drawy | 145283 | [145283-drawy.json](./145283-drawy.json) |
+| Drawz | 113265 | [113265-drawz.json](./113265-drawz.json) |
 | Drayt Empire | 32032 | [32032-drayt-empire.json](./32032-drayt-empire.json) |
 | Drazen Petrovic Basket | 69676 | [69676-drazen-petrovic-basket.json](./69676-drazen-petrovic-basket.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
@@ -19377,6 +19379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunt Remake | 254462 | [254462-duck-hunt-remake.json](./254462-duck-hunt-remake.json) |
 | Duck Hunt VR | 27517 | [27517-duck-hunt-vr.json](./27517-duck-hunt-vr.json) |
 | Duck Hunt VR | 372157 | [372157-duck-hunt-vr.json](./372157-duck-hunt-vr.json) |
+| Duck Hunter Pro | 113099 | [113099-duck-hunter-pro.json](./113099-duck-hunter-pro.json) |
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Hunting Challenge | 115333 | [115333-duck-hunting-challenge.json](./115333-duck-hunting-challenge.json) |
