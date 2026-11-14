@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
+| Umai | 128681 | [128681-umai.json](./128681-umai.json) |
 | Umami | 345582 | [345582-umami.json](./345582-umami.json) |
 | Umami Grove | 152645 | [152645-umami-grove.json](./152645-umami-grove.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
