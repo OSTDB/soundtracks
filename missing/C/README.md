@@ -15229,6 +15229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conner | 36786 | [36786-conner.json](./36786-conner.json) |
 | Connex | 94516 | [94516-connex.json](./94516-connex.json) |
 | Connie and the Essence of Chaos | 301325 | [301325-connie-and-the-essence-of-chaos.json](./301325-connie-and-the-essence-of-chaos.json) |
+| Connie Animal Pairs | 90967 | [90967-connie-animal-pairs.json](./90967-connie-animal-pairs.json) |
 | Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
@@ -20780,6 +20781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Clicker | 391693 | [391693-crypto-clicker.json](./391693-crypto-clicker.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
+| Crypto Girl: The Visual Novel | 90721 | [90721-crypto-girl-the-visual-novel.json](./90721-crypto-girl-the-visual-novel.json) |
 | Crypto Girls: SexCoin | 175796 | [175796-crypto-girls-sexcoin.json](./175796-crypto-girls-sexcoin.json) |
 | Crypto Hex | 18557 | [18557-crypto-hex.json](./18557-crypto-hex.json) |
 | Crypto Is Dead | 159138 | [159138-crypto-is-dead.json](./159138-crypto-is-dead.json) |
