@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takelshin | 148456 | [148456-takelshin.json](./148456-takelshin.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken | 35519 | [35519-taken.json](./35519-taken.json) |
+| Taken Away | 137735 | [137735-taken-away.json](./137735-taken-away.json) |
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Taken Souls: Blood Ritual - Collector's Edition | 29577 | [29577-taken-souls-blood-ritual-collectors-edition.json](./29577-taken-souls-blood-ritual-collectors-edition.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
 | Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
 | Tamiku | 140952 | [140952-tamiku.json](./140952-tamiku.json) |
+| Taming Master | 137738 | [137738-taming-master.json](./137738-taming-master.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
 | Taming Yore Dragon | 384319 | [384319-taming-yore-dragon.json](./384319-taming-yore-dragon.json) |
 | Taming.io | 144536 | [144536-taming-io.json](./144536-taming-io.json) |
@@ -5633,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thalassophobia | 266576 | [266576-thalassophobia.json](./266576-thalassophobia.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thalia | 348482 | [348482-thalia.json](./348482-thalia.json) |
+| Thalion: The First Year | 137174 | [137174-thalion-the-first-year.json](./137174-thalion-the-first-year.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
 | Thanatophobia | 27393 | [27393-thanatophobia.json](./27393-thanatophobia.json) |
@@ -10436,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
 | The First Skunk Bundle | 57866 | [57866-the-first-skunk-bundle.json](./57866-the-first-skunk-bundle.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
+| The First Song of Dissonance | 137178 | [137178-the-first-song-of-dissonance.json](./137178-the-first-song-of-dissonance.json) |
 | The First Spark | 32394 | [32394-the-first-spark.json](./32394-the-first-spark.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
@@ -14845,6 +14849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maimed God's Saga | 348380 | [348380-the-maimed-gods-saga.json](./348380-the-maimed-gods-saga.json) |
 | The Main Event | 39499 | [39499-the-main-event.json](./39499-the-main-event.json) |
 | The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
+| The Maitre D | 137732 | [137732-the-maitre-d.json](./137732-the-maitre-d.json) |
 | The Majesti | 157734 | [157734-the-majesti.json](./157734-the-majesti.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
@@ -20315,6 +20320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Velvet Green Witch: A Quiet Life | 407701 | [407701-the-velvet-green-witch-a-quiet-life.json](./407701-the-velvet-green-witch-a-quiet-life.json) |
 | The Vending Machine | 355890 | [355890-the-vending-machine.json](./355890-the-vending-machine.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
+| The Venture Bros. | 137739 | [137739-the-venture-bros.json](./137739-the-venture-bros.json) |
 | The Verbose Vault Venture | 311744 | [311744-the-verbose-vault-venture.json](./311744-the-verbose-vault-venture.json) |
 | The Verge Miner | 280161 | [280161-the-verge-miner.json](./280161-the-verge-miner.json) |
 | The Vermander Curse | 232759 | [232759-the-vermander-curse.json](./232759-the-vermander-curse.json) |
