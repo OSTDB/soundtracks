@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
 | Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
+| Velocity G | 107977 | [107977-velocity-g.json](./107977-velocity-g.json) |
 | Velocity High Speed | 337016 | [337016-velocity-high-speed.json](./337016-velocity-high-speed.json) |
 | Velocity Legends: Action Racing Game | 173983 | [173983-velocity-legends-action-racing-game.json](./173983-velocity-legends-action-racing-game.json) |
 | Velocity Noodle | 150373 | [150373-velocity-noodle.json](./150373-velocity-noodle.json) |
@@ -4362,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Invaders | 30365 | [30365-vr-invaders.json](./30365-vr-invaders.json) |
 | VR Invaders: Complete Edition | 53018 | [53018-vr-invaders-complete-edition.json](./53018-vr-invaders-complete-edition.json) |
 | VR Jetpack Game | 123389 | [123389-vr-jetpack-game.json](./123389-vr-jetpack-game.json) |
+| VR Jogger | 107951 | [107951-vr-jogger.json](./107951-vr-jogger.json) |
 | VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
 | VR Jurassic Escape | 146971 | [146971-vr-jurassic-escape.json](./146971-vr-jurassic-escape.json) |
 | VR Jurassic island roller coaster | 208645 | [208645-vr-jurassic-island-roller-coaster.json](./208645-vr-jurassic-island-roller-coaster.json) |
