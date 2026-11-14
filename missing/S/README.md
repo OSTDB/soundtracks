@@ -11165,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side View Golf | 256026 | [256026-side-view-golf.json](./256026-side-view-golf.json) |
 | Side Walls Multi Kicks | 364812 | [364812-side-walls-multi-kicks.json](./364812-side-walls-multi-kicks.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
+| SideArms | 125513 | [125513-sidearms.json](./125513-sidearms.json) |
 | Sidecar Evolution 2024 | 254900 | [254900-sidecar-evolution-2024.json](./254900-sidecar-evolution-2024.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
 | Sidekick Cycle | 238929 | [238929-sidekick-cycle.json](./238929-sidekick-cycle.json) |
@@ -23588,6 +23589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcrafter: The Path of Magic | 200298 | [200298-spellcrafter-the-path-of-magic.json](./200298-spellcrafter-the-path-of-magic.json) |
 | Spellcross: The Last Battle | 93405 | [93405-spellcross-the-last-battle.json](./93405-spellcross-the-last-battle.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
+| Spelldrifter | 125504 | [125504-spelldrifter.json](./125504-spelldrifter.json) |
 | Spellers | 199719 | [199719-spellers.json](./199719-spellers.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
 | Spellfall: Last Mage Standing | 390025 | [390025-spellfall-last-mage-standing.json](./390025-spellfall-last-mage-standing.json) |
@@ -27814,6 +27816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
 | StarLight | 267312 | [267312-starlight.json](./267312-starlight.json) |
+| Starlight Acres | 125534 | [125534-starlight-acres.json](./125534-starlight-acres.json) |
 | Starlight Alliance | 172849 | [172849-starlight-alliance.json](./172849-starlight-alliance.json) |
 | Starlight and the Silver Key | 237211 | [237211-starlight-and-the-silver-key.json](./237211-starlight-and-the-silver-key.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
@@ -29457,6 +29460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
+| Steven Universe: Unleash the Light | 125505 | [125505-steven-universe-unleash-the-light.json](./125505-steven-universe-unleash-the-light.json) |
 | Steven: The Jumpmaker | 57318 | [57318-steven-the-jumpmaker.json](./57318-steven-the-jumpmaker.json) |
 | Steven's Game | 209284 | [209284-stevens-game.json](./209284-stevens-game.json) |
 | Steventon Street | 180543 | [180543-steventon-street.json](./180543-steventon-street.json) |
@@ -36020,6 +36024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Plankton 64 | 313399 | [313399-super-plankton-64.json](./313399-super-plankton-64.json) |
 | Super Platform Tag | 325371 | [325371-super-platform-tag.json](./325371-super-platform-tag.json) |
 | Super Platformer | 182745 | [182745-super-platformer.json](./182745-super-platformer.json) |
+| Super Platformer Gun | 125485 | [125485-super-platformer-gun.json](./125485-super-platformer-gun.json) |
 | Super Play Action Football | 42454 | [42454-super-play-action-football.json](./42454-super-play-action-football.json) |
 | Super Plexis | 56346 | [56346-super-plexis.json](./56346-super-plexis.json) |
 | Super Plumber | 104802 | [104802-super-plumber.json](./104802-super-plumber.json) |
@@ -38920,6 +38925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Transit | 189909 | [189909-sweet-transit.json](./189909-sweet-transit.json) |
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
 | Sweet Treats | 104043 | [104043-sweet-treats.json](./104043-sweet-treats.json) |
+| Sweet Truth | 125529 | [125529-sweet-truth.json](./125529-sweet-truth.json) |
 | Sweet Valentine Chocolatier | 401644 | [401644-sweet-valentine-chocolatier.json](./401644-sweet-valentine-chocolatier.json) |
 | Sweet VTuber Shooter | 339434 | [339434-sweet-vtuber-shooter.json](./339434-sweet-vtuber-shooter.json) |
 | Sweet Warrior | 339433 | [339433-sweet-warrior.json](./339433-sweet-warrior.json) |
