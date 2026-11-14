@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Feel | 368620 | [368620-real-feel.json](./368620-real-feel.json) |
 | Real Fighter | 267951 | [267951-real-fighter.json](./267951-real-fighter.json) |
 | Real Fishing 3D | 275448 | [275448-real-fishing-3d.json](./275448-real-fishing-3d.json) |
+| Real Fishing Ace Pro : Wild Trophy Catch 3D | 103578 | [103578-real-fishing-ace-pro-wild-trophy-catch-3d.json](./103578-real-fishing-ace-pro-wild-trophy-catch-3d.json) |
 | Real Fishing Pro 3D | 93703 | [93703-real-fishing-pro-3d.json](./93703-real-fishing-pro-3d.json) |
 | Real Fishing VR | 115634 | [115634-real-fishing-vr.json](./115634-real-fishing-vr.json) |
 | Real Flight 9 | 138408 | [138408-real-flight-9.json](./138408-real-flight-9.json) |
@@ -5207,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reindeer Rescue | 80355 | [80355-reindeer-rescue.json](./80355-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
 | Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
+| Reiner Knizia Tigris & Euphrates | 103574 | [103574-reiner-knizia-tigris-and-euphrates.json](./103574-reiner-knizia-tigris-and-euphrates.json) |
 | Reiner Knizia Yellow & Yangtze | 130524 | [130524-reiner-knizia-yellow-and-yangtze.json](./130524-reiner-knizia-yellow-and-yangtze.json) |
 | Reiner Knizia's Kingdoms | 224994 | [224994-reiner-knizias-kingdoms.json](./224994-reiner-knizias-kingdoms.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
@@ -7332,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi | 88592 | [88592-reversi.json](./88592-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi also known as Othello | 54948 | [54948-reversi-also-known-as-othello.json](./54948-reversi-also-known-as-othello.json) |
+| Reversi Fun | 103579 | [103579-reversi-fun.json](./103579-reversi-fun.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
 | Reversi Temple | 289784 | [289784-reversi-temple.json](./289784-reversi-temple.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
@@ -13114,6 +13117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Puzzle Galaxy: Rush | 67731 | [67731-rubiks-puzzle-galaxy-rush.json](./67731-rubiks-puzzle-galaxy-rush.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
 | Rubikingdom | 150860 | [150860-rubikingdom.json](./150860-rubikingdom.json) |
+| Rubiks Unboxed - a Cube in 2D | 103712 | [103712-rubiks-unboxed-a-cube-in-2d.json](./103712-rubiks-unboxed-a-cube-in-2d.json) |
 | Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | RubPix | 241568 | [241568-rubpix.json](./241568-rubpix.json) |
@@ -13815,6 +13819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Knights | 138412 | [138412-rune-knights.json](./138412-rune-knights.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Lord | 117609 | [117609-rune-lord.json](./117609-rune-lord.json) |
+| Rune Magic HD | 103734 | [103734-rune-magic-hd.json](./103734-rune-magic-hd.json) |
 | Rune Master | 41669 | [41669-rune-master.json](./41669-rune-master.json) |
 | Rune Master II | 41668 | [41668-rune-master-ii.json](./41668-rune-master-ii.json) |
 | Rune Master III: Sangokushi Eiketsuden | 41667 | [41667-rune-master-iii-sangokushi-eiketsuden.json](./41667-rune-master-iii-sangokushi-eiketsuden.json) |
