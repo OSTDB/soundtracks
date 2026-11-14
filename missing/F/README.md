@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falco Totem Destroyer | 311216 | [311216-falco-totem-destroyer.json](./311216-falco-totem-destroyer.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
 | Falco Xolon | 330474 | [330474-falco-xolon.json](./330474-falco-xolon.json) |
+| Falcom Classics | 78765 | [78765-falcom-classics.json](./78765-falcom-classics.json) |
 | Falcomaster3000: Episode 1 | 179605 | [179605-falcomaster3000-episode-1.json](./179605-falcomaster3000-episode-1.json) |
 | Falcon | 12088 | [12088-falcon.json](./12088-falcon.json) |
 | Falcon | 214900 | [214900-falcon.json](./214900-falcon.json) |
