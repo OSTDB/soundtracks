@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Lernen Leicht Gemacht! Für Kids | 78243 | [78243-lernen-leicht-gemacht-fur-kids.json](./78243-lernen-leicht-gemacht-fur-kids.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
+| Les 4 Alice: Lorange Journey | 107950 | [107950-les-4-alice-lorange-journey.json](./107950-les-4-alice-lorange-journey.json) |
 | Les aventures de Fierot | 173873 | [173873-les-aventures-de-fierot.json](./173873-les-aventures-de-fierot.json) |
 | Les Aventures de Pepito au Mexique | 342556 | [342556-les-aventures-de-pepito-au-mexique.json](./342556-les-aventures-de-pepito-au-mexique.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
@@ -7061,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live and Learn | 76931 | [76931-live-and-learn.json](./76931-live-and-learn.json) |
+| Live Armor | 107478 | [107478-live-armor.json](./107478-live-armor.json) |
 | Live Art | 213147 | [213147-live-art.json](./213147-live-art.json) |
 | Live at Strummer's Pond | 253498 | [253498-live-at-strummers-pond.json](./253498-live-at-strummers-pond.json) |
 | Live Bingo | 186058 | [186058-live-bingo.json](./186058-live-bingo.json) |
