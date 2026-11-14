@@ -8036,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland | 230719 | [230719-woodland.json](./230719-woodland.json) |
 | Woodland Chasers | 135079 | [135079-woodland-chasers.json](./135079-woodland-chasers.json) |
+| Woodland Empire | 158242 | [158242-woodland-empire.json](./158242-woodland-empire.json) |
 | Woodland Hike | 244117 | [244117-woodland-hike.json](./244117-woodland-hike.json) |
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
