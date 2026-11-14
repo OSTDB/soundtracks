@@ -13582,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color-A-Cube: Scifi Pack #1 | 371290 | [371290-color-a-cube-scifi-pack-1.json](./371290-color-a-cube-scifi-pack-1.json) |
 | Color-A-Cube: Scifi Pack #2 | 371291 | [371291-color-a-cube-scifi-pack-2.json](./371291-color-a-cube-scifi-pack-2.json) |
 | Color.Motif Deluxe | 126198 | [126198-color-motif-deluxe.json](./126198-color-motif-deluxe.json) |
+| Color.Number - Draw Pixel Color by Number Coloring | 101140 | [101140-color-number-draw-pixel-color-by-number-coloring.json](./101140-color-number-draw-pixel-color-by-number-coloring.json) |
 | Colorace | 402659 | [402659-colorace.json](./402659-colorace.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Cocoa Club | 151351 | [151351-colorado-cocoa-club.json](./151351-colorado-cocoa-club.json) |
@@ -15949,6 +15950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Store | 150282 | [150282-cookie-store.json](./150282-cookie-store.json) |
 | Cookie Story Crush | 166302 | [166302-cookie-story-crush.json](./166302-cookie-story-crush.json) |
 | Cookie Tapper | 102545 | [102545-cookie-tapper.json](./102545-cookie-tapper.json) |
+| Cookie Word | 100449 | [100449-cookie-word.json](./100449-cookie-word.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
 | Cookie's Quiz Carnival | 106283 | [106283-cookies-quiz-carnival.json](./106283-cookies-quiz-carnival.json) |
@@ -16141,6 +16143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Cucumber Cricket | 291450 | [291450-cool-cucumber-cricket.json](./291450-cool-cucumber-cricket.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Cool Cycling | 359742 | [359742-cool-cycling.json](./359742-cool-cycling.json) |
+| Cool Dragon | 100433 | [100433-cool-dragon.json](./100433-cool-dragon.json) |
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
 | Cool Game | 203587 | [203587-cool-game.json](./203587-cool-game.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
@@ -17943,6 +17946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
+| Craft Castle: Knight and Princess | 101130 | [101130-craft-castle-knight-and-princess.json](./101130-craft-castle-knight-and-princess.json) |
 | Craft city | 155771 | [155771-craft-city.json](./155771-craft-city.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
 | Craft Connections | 393777 | [393777-craft-connections.json](./393777-craft-connections.json) |
@@ -21183,6 +21187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
 | Cube | 403618 | [403618-cube.json](./403618-cube.json) |
 | Cube | 81499 | [81499-cube.json](./81499-cube.json) |
+| Cube - The Jumper | 100429 | [100429-cube-the-jumper.json](./100429-cube-the-jumper.json) |
 | Cube & Seek | 409711 | [409711-cube-and-seek.json](./409711-cube-and-seek.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
 | Cube 2: Sauerbraten | 21615 | [21615-cube-2-sauerbraten.json](./21615-cube-2-sauerbraten.json) |
@@ -22860,6 +22865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-ART | 377689 | [377689-cyber-art.json](./377689-cyber-art.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | Cyber-Cat | 151477 | [151477-cyber-cat.json](./151477-cyber-cat.json) |
+| Cyber-Chicken | 100405 | [100405-cyber-chicken.json](./100405-cyber-chicken.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
 | Cyber-Core | 42112 | [42112-cyber-core.json](./42112-cyber-core.json) |
 | Cyber-doge 2077: Meme runner | 167422 | [167422-cyber-doge-2077-meme-runner.json](./167422-cyber-doge-2077-meme-runner.json) |
