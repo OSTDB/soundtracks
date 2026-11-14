@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Love | 43087 | [43087-panda-love.json](./43087-panda-love.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Lu Baby Bear City | 102672 | [102672-panda-lu-baby-bear-city.json](./102672-panda-lu-baby-bear-city.json) |
+| Panda Lu Baby Bear World - New Pet Care Adventure | 102473 | [102473-panda-lu-baby-bear-world-new-pet-care-adventure.json](./102473-panda-lu-baby-bear-world-new-pet-care-adventure.json) |
 | Panda Lu Fun Park | 88994 | [88994-panda-lu-fun-park.json](./88994-panda-lu-fun-park.json) |
 | Panda Magix: Golden Trains Edition - Slots | 276621 | [276621-panda-magix-golden-trains-edition-slots.json](./276621-panda-magix-golden-trains-edition-slots.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Hero vs. Zombie | 341119 | [341119-pet-hero-vs-zombie.json](./341119-pet-hero-vs-zombie.json) |
 | Pet Hospital | 85342 | [85342-pet-hospital.json](./85342-pet-hospital.json) |
+| Pet Hospital Vet Clinic Animal Vet Pet Doctor Game | 102469 | [102469-pet-hospital-vet-clinic-animal-vet-pet-doctor-game.json](./102469-pet-hospital-vet-clinic-animal-vet-pet-doctor-game.json) |
 | Pet Hotel Tycoon | 25066 | [25066-pet-hotel-tycoon.json](./25066-pet-hotel-tycoon.json) |
 | Pet Human | 428415 | [428415-pet-human.json](./428415-pet-human.json) |
 | Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
@@ -8792,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Bomb! Bomb!! | 30171 | [30171-pixel-bomb-bomb.json](./30171-pixel-bomb-bomb.json) |
 | Pixel Bombs | 111871 | [111871-pixel-bombs.json](./111871-pixel-bombs.json) |
 | Pixel Bombs | 395376 | [395376-pixel-bombs.json](./395376-pixel-bombs.json) |
+| Pixel Box: Zombie Revolution | 102457 | [102457-pixel-box-zombie-revolution.json](./102457-pixel-box-zombie-revolution.json) |
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
 | Pixel Boy 2: The Castle Revenge | 315090 | [315090-pixel-boy-2-the-castle-revenge.json](./315090-pixel-boy-2-the-castle-revenge.json) |
 | Pixel Boy and the Ever Expanding Dungeon | 16836 | [16836-pixel-boy-and-the-ever-expanding-dungeon.json](./16836-pixel-boy-and-the-ever-expanding-dungeon.json) |
@@ -11644,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Vampire Girl | 341401 | [341401-pocket-vampire-girl.json](./341401-pocket-vampire-girl.json) |
 | Pocket Vikings | 233299 | [233299-pocket-vikings.json](./233299-pocket-vikings.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
+| Pocket Waifu | 102423 | [102423-pocket-waifu.json](./102423-pocket-waifu.json) |
 | Pocket Waifu: Desktop Pet | 384611 | [384611-pocket-waifu-desktop-pet.json](./384611-pocket-waifu-desktop-pet.json) |
 | Pocket Waifu: Rekindled | 259117 | [259117-pocket-waifu-rekindled.json](./259117-pocket-waifu-rekindled.json) |
 | Pocket Ware | 413397 | [413397-pocket-ware.json](./413397-pocket-ware.json) |
