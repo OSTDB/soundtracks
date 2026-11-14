@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voenkomat | 158267 | [158267-voenkomat.json](./158267-voenkomat.json) |
 | Voez | 27397 | [27397-voez.json](./27397-voez.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
+| Vogue Tales | 146937 | [146937-vogue-tales.json](./146937-vogue-tales.json) |
 | Vogue, the Explorer | 104154 | [104154-vogue-the-explorer.json](./104154-vogue-the-explorer.json) |
 | Vogvhathos | 267275 | [267275-vogvhathos.json](./267275-vogvhathos.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
