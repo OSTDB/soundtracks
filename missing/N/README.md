@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.U.F.O | 113243 | [113243-n-e-u-f-o.json](./113243-n-e-u-f-o.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
+| N.E.X.O.R. | 142518 | [142518-n-e-x-o-r.json](./142518-n-e-x-o-r.json) |
 | N.M.E. Battle! | 381554 | [381554-n-m-e-battle.json](./381554-n-m-e-battle.json) |
 | N.O.B. - Neo Organic Bioform | 4318 | [4318-n-o-b-neo-organic-bioform.json](./4318-n-o-b-neo-organic-bioform.json) |
 | N.O.M.A.D. | 226135 | [226135-n-o-m-a-d.json](./226135-n-o-m-a-d.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectar | 199544 | [199544-nectar.json](./199544-nectar.json) |
 | Nectar | 201541 | [201541-nectar.json](./201541-nectar.json) |
 | Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
+| Nectar of the Gods | 142524 | [142524-nectar-of-the-gods.json](./142524-nectar-of-the-gods.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
 | Nectar Thief | 177829 | [177829-nectar-thief.json](./177829-nectar-thief.json) |
 | Nectar Vector | 105730 | [105730-nectar-vector.json](./105730-nectar-vector.json) |
