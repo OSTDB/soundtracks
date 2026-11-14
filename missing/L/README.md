@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Moon | 166480 | [166480-last-moon.json](./166480-last-moon.json) |
 | Last Moor | 278287 | [278287-last-moor.json](./278287-last-moor.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
+| Last Neighbor | 126693 | [126693-last-neighbor.json](./126693-last-neighbor.json) |
 | Last Neko | 134184 | [134184-last-neko.json](./134184-last-neko.json) |
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
 | Last Night in Tokyo | 148050 | [148050-last-night-in-tokyo.json](./148050-last-night-in-tokyo.json) |
@@ -8041,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Live the King! | 213246 | [213246-long-live-the-king.json](./213246-long-live-the-king.json) |
 | Long Live the Queen | 9722 | [9722-long-live-the-queen.json](./9722-long-live-the-queen.json) |
 | Long Long: A Snake Lies in the Past | 185353 | [185353-long-long-a-snake-lies-in-the-past.json](./185353-long-long-a-snake-lies-in-the-past.json) |
+| Long Loot the King | 127416 | [127416-long-loot-the-king.json](./127416-long-loot-the-king.json) |
 | Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
