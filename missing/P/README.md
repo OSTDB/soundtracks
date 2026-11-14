@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Duty | 185498 | [185498-paradise-duty.json](./185498-paradise-duty.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
+| Paradise Girls | 150714 | [150714-paradise-girls.json](./150714-paradise-girls.json) |
 | Paradise Heights | 57596 | [57596-paradise-heights.json](./57596-paradise-heights.json) |
 | Paradise Heights GB | 330593 | [330593-paradise-heights-gb.json](./330593-paradise-heights-gb.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
@@ -17595,6 +17596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Oasis | 426425 | [426425-project-oasis.json](./426425-project-oasis.json) |
 | Project Oasis World | 105063 | [105063-project-oasis-world.json](./105063-project-oasis-world.json) |
 | Project Obscure | 374370 | [374370-project-obscure.json](./374370-project-obscure.json) |
+| Project Océara | 150717 | [150717-project-oceara.json](./150717-project-oceara.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
 | Project of Cooling the Earth | 295061 | [295061-project-of-cooling-the-earth.json](./295061-project-of-cooling-the-earth.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
@@ -19219,6 +19221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punisher | 261955 | [261955-punisher.json](./261955-punisher.json) |
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
 | Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
+| Punishment Darkness Online | 150731 | [150731-punishment-darkness-online.json](./150731-punishment-darkness-online.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
 | Punishment Special Edition | 341434 | [341434-punishment-special-edition.json](./341434-punishment-special-edition.json) |
