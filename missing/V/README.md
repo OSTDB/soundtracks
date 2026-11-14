@@ -3846,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volar | 241423 | [241423-volar.json](./241423-volar.json) |
 | Volara | 339792 | [339792-volara.json](./339792-volara.json) |
 | Volatica: The Devil's Trap | 215004 | [215004-volatica-the-devils-trap.json](./215004-volatica-the-devils-trap.json) |
+| Volatile | 132885 | [132885-volatile.json](./132885-volatile.json) |
 | Volatile Defender | 180791 | [180791-volatile-defender.json](./180791-volatile-defender.json) |
 | Volatile Particle | 267013 | [267013-volatile-particle.json](./267013-volatile-particle.json) |
 | Volatile Triangle | 82397 | [82397-volatile-triangle.json](./82397-volatile-triangle.json) |
