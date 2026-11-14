@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Escape | 96160 | [96160-jelly-escape.json](./96160-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
+| Jelly Fill | 162954 | [162954-jelly-fill.json](./162954-jelly-fill.json) |
 | Jelly Forest | 202545 | [202545-jelly-forest.json](./202545-jelly-forest.json) |
 | Jelly Form | 375142 | [375142-jelly-form.json](./375142-jelly-form.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
@@ -1843,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Island | 308922 | [308922-jigsaw-island.json](./308922-jigsaw-island.json) |
 | Jigsaw Island: Japan Graffiti | 123396 | [123396-jigsaw-island-japan-graffiti.json](./123396-jigsaw-island-japan-graffiti.json) |
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
+| Jigsaw Jolt: Neural Style 1 | 162969 | [162969-jigsaw-jolt-neural-style-1.json](./162969-jigsaw-jolt-neural-style-1.json) |
 | Jigsaw Jumble | 65366 | [65366-jigsaw-jumble.json](./65366-jigsaw-jumble.json) |
 | Jigsaw Kids 1 | 289370 | [289370-jigsaw-kids-1.json](./289370-jigsaw-kids-1.json) |
 | Jigsaw Kitties | 246199 | [246199-jigsaw-kitties.json](./246199-jigsaw-kitties.json) |
@@ -1864,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
+| Jigsaw Masterpieces: Beautiful Sceneries in the USA | 162959 | [162959-jigsaw-masterpieces-beautiful-sceneries-in-the-usa.json](./162959-jigsaw-masterpieces-beautiful-sceneries-in-the-usa.json) |
 | Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
 | Jigsaw Masterpieces: Big Cat Friends | 231219 | [231219-jigsaw-masterpieces-big-cat-friends.json](./231219-jigsaw-masterpieces-big-cat-friends.json) |
 | Jigsaw Masterpieces: Black Cats in a Cat Welfare Cafe / Kenta Igarashi | 238151 | [238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json](./238151-jigsaw-masterpieces-black-cats-in-a-cat-welfare-cafe-kenta-igarashi.json) |
@@ -1872,7 +1875,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Colorful Birds | 238266 | [238266-jigsaw-masterpieces-colorful-birds.json](./238266-jigsaw-masterpieces-colorful-birds.json) |
 | Jigsaw Masterpieces: Colorful Sweets | 226332 | [226332-jigsaw-masterpieces-colorful-sweets.json](./226332-jigsaw-masterpieces-colorful-sweets.json) |
 | Jigsaw Masterpieces: Colorful Town | 238267 | [238267-jigsaw-masterpieces-colorful-town.json](./238267-jigsaw-masterpieces-colorful-town.json) |
+| Jigsaw Masterpieces: Cute Lovely Cats | 162957 | [162957-jigsaw-masterpieces-cute-lovely-cats.json](./162957-jigsaw-masterpieces-cute-lovely-cats.json) |
 | Jigsaw Masterpieces: Cute Lovely Cats | 238268 | [238268-jigsaw-masterpieces-cute-lovely-cats.json](./238268-jigsaw-masterpieces-cute-lovely-cats.json) |
+| Jigsaw Masterpieces: Cute Lovely Dogs | 162963 | [162963-jigsaw-masterpieces-cute-lovely-dogs.json](./162963-jigsaw-masterpieces-cute-lovely-dogs.json) |
 | Jigsaw Masterpieces: Cute Lovely Dogs | 238269 | [238269-jigsaw-masterpieces-cute-lovely-dogs.json](./238269-jigsaw-masterpieces-cute-lovely-dogs.json) |
 | Jigsaw Masterpieces: Fantastical Waterfalls | 199837 | [199837-jigsaw-masterpieces-fantastical-waterfalls.json](./199837-jigsaw-masterpieces-fantastical-waterfalls.json) |
 | Jigsaw Masterpieces: Fireworks and Nightscape | 238251 | [238251-jigsaw-masterpieces-fireworks-and-nightscape.json](./238251-jigsaw-masterpieces-fireworks-and-nightscape.json) |
@@ -1888,17 +1893,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Japan's Most Scenic Train Trips | 204869 | [204869-jigsaw-masterpieces-japans-most-scenic-train-trips.json](./204869-jigsaw-masterpieces-japans-most-scenic-train-trips.json) |
 | Jigsaw Masterpieces: Japanese Summer Scene | 237871 | [237871-jigsaw-masterpieces-japanese-summer-scene.json](./237871-jigsaw-masterpieces-japanese-summer-scene.json) |
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
+| Jigsaw Masterpieces: Kawaii Cute Goddesses | 162962 | [162962-jigsaw-masterpieces-kawaii-cute-goddesses.json](./162962-jigsaw-masterpieces-kawaii-cute-goddesses.json) |
 | Jigsaw Masterpieces: Kyoto - Most Beautiful Places in Japan | 231262 | [231262-jigsaw-masterpieces-kyoto-most-beautiful-places-in-japan.json](./231262-jigsaw-masterpieces-kyoto-most-beautiful-places-in-japan.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Americas vol.1 | 204871 | [204871-jigsaw-masterpieces-landscapes-with-flags-of-the-world-americas-vol-1.json](./204871-jigsaw-masterpieces-landscapes-with-flags-of-the-world-americas-vol-1.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
 | Jigsaw Masterpieces: Little Animals | 199832 | [199832-jigsaw-masterpieces-little-animals.json](./199832-jigsaw-masterpieces-little-animals.json) |
+| Jigsaw Masterpieces: Masterpieces of World - Baroque | 162958 | [162958-jigsaw-masterpieces-masterpieces-of-world-baroque.json](./162958-jigsaw-masterpieces-masterpieces-of-world-baroque.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Brimming with Flowers | 212370 | [212370-jigsaw-masterpieces-masterpieces-of-world-brimming-with-flowers.json](./212370-jigsaw-masterpieces-masterpieces-of-world-brimming-with-flowers.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Dogs and Cats in the Painting | 226323 | [226323-jigsaw-masterpieces-masterpieces-of-world-dogs-and-cats-in-the-painting.json](./226323-jigsaw-masterpieces-masterpieces-of-world-dogs-and-cats-in-the-painting.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Girls in the Paintings | 238020 | [238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json](./238020-jigsaw-masterpieces-masterpieces-of-world-girls-in-the-paintings.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Realism | 238019 | [238019-jigsaw-masterpieces-masterpieces-of-world-realism.json](./238019-jigsaw-masterpieces-masterpieces-of-world-realism.json) |
+| Jigsaw Masterpieces: Masterpieces of World - Renaissance | 162956 | [162956-jigsaw-masterpieces-masterpieces-of-world-renaissance.json](./162956-jigsaw-masterpieces-masterpieces-of-world-renaissance.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Ukiyo-e, Hokusai's Thirty-Six Views of Mt.Fuji Vol.1 | 231260 | [231260-jigsaw-masterpieces-masterpieces-of-world-ukiyo-e-hokusais-thirty-six-views-of-mt-fuji-vol-1.json](./231260-jigsaw-masterpieces-masterpieces-of-world-ukiyo-e-hokusais-thirty-six-views-of-mt-fuji-vol-1.json) |
 | Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
+| Jigsaw Masterpieces: Sakura - Japanese Cherry Blossoms | 162961 | [162961-jigsaw-masterpieces-sakura-japanese-cherry-blossoms.json](./162961-jigsaw-masterpieces-sakura-japanese-cherry-blossoms.json) |
 | Jigsaw Masterpieces: Scenes with Horses | 201023 | [201023-jigsaw-masterpieces-scenes-with-horses.json](./201023-jigsaw-masterpieces-scenes-with-horses.json) |
+| Jigsaw Masterpieces: Sea Slugs - Gems of the Sea | 162960 | [162960-jigsaw-masterpieces-sea-slugs-gems-of-the-sea.json](./162960-jigsaw-masterpieces-sea-slugs-gems-of-the-sea.json) |
 | Jigsaw Masterpieces: Seasonal Flowers in Japan | 212371 | [212371-jigsaw-masterpieces-seasonal-flowers-in-japan.json](./212371-jigsaw-masterpieces-seasonal-flowers-in-japan.json) |
 | Jigsaw Masterpieces: Shin Bakumatsu Sinsengumi | 238026 | [238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json](./238026-jigsaw-masterpieces-shin-bakumatsu-sinsengumi.json) |
 | Jigsaw Masterpieces: Street Cats in Japan | 238024 | [238024-jigsaw-masterpieces-street-cats-in-japan.json](./238024-jigsaw-masterpieces-street-cats-in-japan.json) |
@@ -2093,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Tile | 243736 | [243736-jigsaw-tile.json](./243736-jigsaw-tile.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
+| Jigsaw Tour | 162965 | [162965-jigsaw-tour.json](./162965-jigsaw-tour.json) |
 | Jigsaw Tour 2 | 102736 | [102736-jigsaw-tour-2.json](./102736-jigsaw-tour-2.json) |
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
 | Jigsaw Tour.London | 90883 | [90883-jigsaw-tour-london.json](./90883-jigsaw-tour-london.json) |
