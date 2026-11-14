@@ -19031,6 +19031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet'nTunes | 175342 | [175342-bulletntunes.json](./175342-bulletntunes.json) |
 | BulletAsylum | 93506 | [93506-bulletasylum.json](./93506-bulletasylum.json) |
 | Bulletfest | 327372 | [327372-bulletfest.json](./327372-bulletfest.json) |
+| BulletGarden | 155756 | [155756-bulletgarden.json](./155756-bulletgarden.json) |
 | BulletGBA | 298810 | [298810-bulletgba.json](./298810-bulletgba.json) |
 | Bulletgrounds | 110126 | [110126-bulletgrounds.json](./110126-bulletgrounds.json) |
 | Bullethead | 326734 | [326734-bullethead.json](./326734-bullethead.json) |
