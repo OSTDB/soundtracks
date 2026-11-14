@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voden's Job | 350110 | [350110-vodens-job.json](./350110-vodens-job.json) |
 | Vodka | 76052 | [76052-vodka.json](./76052-vodka.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
+| Voenkomat | 158267 | [158267-voenkomat.json](./158267-voenkomat.json) |
 | Voez | 27397 | [27397-voez.json](./27397-voez.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
 | Vogue, the Explorer | 104154 | [104154-vogue-the-explorer.json](./104154-vogue-the-explorer.json) |
