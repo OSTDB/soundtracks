@@ -5864,17 +5864,51 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
 | Masters of Mystery: Crime of Fashion | 341071 | [341071-masters-of-mystery-crime-of-fashion.json](./341071-masters-of-mystery-crime-of-fashion.json) |
 | Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
+| Masters of Puzzle : Halloween Edition - Scarecrow Watcher | 151223 | [151223-masters-of-puzzle-halloween-edition-scarecrow-watcher.json](./151223-masters-of-puzzle-halloween-edition-scarecrow-watcher.json) |
+| Masters of Puzzle: An Urban Walk | 151231 | [151231-masters-of-puzzle-an-urban-walk.json](./151231-masters-of-puzzle-an-urban-walk.json) |
+| Masters of Puzzle: Aurora Borealis | 151232 | [151232-masters-of-puzzle-aurora-borealis.json](./151232-masters-of-puzzle-aurora-borealis.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
 | Masters of Puzzle: Battlegroup Selcior | 163521 | [163521-masters-of-puzzle-battlegroup-selcior.json](./163521-masters-of-puzzle-battlegroup-selcior.json) |
+| Masters of Puzzle: Belfast | 151247 | [151247-masters-of-puzzle-belfast.json](./151247-masters-of-puzzle-belfast.json) |
 | Masters of Puzzle: Black and White - 980 | 151252 | [151252-masters-of-puzzle-black-and-white-980.json](./151252-masters-of-puzzle-black-and-white-980.json) |
+| Masters of Puzzle: Black and White - Beads in the Wall | 151229 | [151229-masters-of-puzzle-black-and-white-beads-in-the-wall.json](./151229-masters-of-puzzle-black-and-white-beads-in-the-wall.json) |
+| Masters of Puzzle: Byodoin Reflection | 151239 | [151239-masters-of-puzzle-byodoin-reflection.json](./151239-masters-of-puzzle-byodoin-reflection.json) |
 | Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
+| Masters of Puzzle: Christmas Edition - A Visitor in the Village Square | 151237 | [151237-masters-of-puzzle-christmas-edition-a-visitor-in-the-village-square.json](./151237-masters-of-puzzle-christmas-edition-a-visitor-in-the-village-square.json) |
+| Masters of Puzzle: Christmas Edition - Enter Frost | 151220 | [151220-masters-of-puzzle-christmas-edition-enter-frost.json](./151220-masters-of-puzzle-christmas-edition-enter-frost.json) |
+| Masters of Puzzle: Christmas Edition - Forest Sprites | 151250 | [151250-masters-of-puzzle-christmas-edition-forest-sprites.json](./151250-masters-of-puzzle-christmas-edition-forest-sprites.json) |
+| Masters of Puzzle: Christmas Edition - Frost Masters | 151242 | [151242-masters-of-puzzle-christmas-edition-frost-masters.json](./151242-masters-of-puzzle-christmas-edition-frost-masters.json) |
+| Masters of Puzzle: Christmas Edition - Gi'me That Present Already | 151222 | [151222-masters-of-puzzle-christmas-edition-gime-that-present-already.json](./151222-masters-of-puzzle-christmas-edition-gime-that-present-already.json) |
 | Masters of Puzzle: Christmas Edition - Mystery Town | 151215 | [151215-masters-of-puzzle-christmas-edition-mystery-town.json](./151215-masters-of-puzzle-christmas-edition-mystery-town.json) |
 | Masters of Puzzle: Clockwork Factory | 151214 | [151214-masters-of-puzzle-clockwork-factory.json](./151214-masters-of-puzzle-clockwork-factory.json) |
+| Masters of Puzzle: Cotopaxi | 151235 | [151235-masters-of-puzzle-cotopaxi.json](./151235-masters-of-puzzle-cotopaxi.json) |
 | Masters of Puzzle: Desolation | 151212 | [151212-masters-of-puzzle-desolation.json](./151212-masters-of-puzzle-desolation.json) |
 | Masters of Puzzle: Destruction | 151211 | [151211-masters-of-puzzle-destruction.json](./151211-masters-of-puzzle-destruction.json) |
 | Masters of Puzzle: Dream of Arcadia | 151210 | [151210-masters-of-puzzle-dream-of-arcadia.json](./151210-masters-of-puzzle-dream-of-arcadia.json) |
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
+| Masters of Puzzle: Escape | 151243 | [151243-masters-of-puzzle-escape.json](./151243-masters-of-puzzle-escape.json) |
+| Masters of Puzzle: Halloween Edition - Chess on Halloween Eve | 151227 | [151227-masters-of-puzzle-halloween-edition-chess-on-halloween-eve.json](./151227-masters-of-puzzle-halloween-edition-chess-on-halloween-eve.json) |
+| Masters of Puzzle: Halloween Edition - Haunted Mill | 151234 | [151234-masters-of-puzzle-halloween-edition-haunted-mill.json](./151234-masters-of-puzzle-halloween-edition-haunted-mill.json) |
+| Masters of Puzzle: Halloween Edition - Pumpkin Champion | 151226 | [151226-masters-of-puzzle-halloween-edition-pumpkin-champion.json](./151226-masters-of-puzzle-halloween-edition-pumpkin-champion.json) |
+| Masters of Puzzle: Halloween Edition - Pumpkin Garden House | 151221 | [151221-masters-of-puzzle-halloween-edition-pumpkin-garden-house.json](./151221-masters-of-puzzle-halloween-edition-pumpkin-garden-house.json) |
+| Masters of Puzzle: Halloween Edition - Sing Me a Pumpkin | 151230 | [151230-masters-of-puzzle-halloween-edition-sing-me-a-pumpkin.json](./151230-masters-of-puzzle-halloween-edition-sing-me-a-pumpkin.json) |
+| Masters of Puzzle: Halloween Edition - Undeadly Romance | 151241 | [151241-masters-of-puzzle-halloween-edition-undeadly-romance.json](./151241-masters-of-puzzle-halloween-edition-undeadly-romance.json) |
+| Masters of Puzzle: Halloween Edition - Witched Night | 151225 | [151225-masters-of-puzzle-halloween-edition-witched-night.json](./151225-masters-of-puzzle-halloween-edition-witched-night.json) |
+| Masters of Puzzle: Heart of the Andes | 151219 | [151219-masters-of-puzzle-heart-of-the-andes.json](./151219-masters-of-puzzle-heart-of-the-andes.json) |
 | Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
+| Masters of Puzzle: Old Age | 151251 | [151251-masters-of-puzzle-old-age.json](./151251-masters-of-puzzle-old-age.json) |
+| Masters of Puzzle: Skyhigh | 151244 | [151244-masters-of-puzzle-skyhigh.json](./151244-masters-of-puzzle-skyhigh.json) |
+| Masters of Puzzle: Steampunk Hearse | 151233 | [151233-masters-of-puzzle-steampunk-hearse.json](./151233-masters-of-puzzle-steampunk-hearse.json) |
+| Masters of Puzzle: The Arcadian or Pastoral State | 151249 | [151249-masters-of-puzzle-the-arcadian-or-pastoral-state.json](./151249-masters-of-puzzle-the-arcadian-or-pastoral-state.json) |
+| Masters of Puzzle: The Being | 151238 | [151238-masters-of-puzzle-the-being.json](./151238-masters-of-puzzle-the-being.json) |
+| Masters of Puzzle: The Consummation of Empire | 151228 | [151228-masters-of-puzzle-the-consummation-of-empire.json](./151228-masters-of-puzzle-the-consummation-of-empire.json) |
+| Masters of Puzzle: The Goblin Watermill | 151224 | [151224-masters-of-puzzle-the-goblin-watermill.json](./151224-masters-of-puzzle-the-goblin-watermill.json) |
+| Masters of Puzzle: The Halfway Point | 151236 | [151236-masters-of-puzzle-the-halfway-point.json](./151236-masters-of-puzzle-the-halfway-point.json) |
+| Masters of Puzzle: The Icebergs | 151245 | [151245-masters-of-puzzle-the-icebergs.json](./151245-masters-of-puzzle-the-icebergs.json) |
+| Masters of Puzzle: The Savage State | 151248 | [151248-masters-of-puzzle-the-savage-state.json](./151248-masters-of-puzzle-the-savage-state.json) |
+| Masters of Puzzle: Trip | 151240 | [151240-masters-of-puzzle-trip.json](./151240-masters-of-puzzle-trip.json) |
+| Masters of Puzzle: Worlds We Know | 151218 | [151218-masters-of-puzzle-worlds-we-know.json](./151218-masters-of-puzzle-worlds-we-know.json) |
+| Masters of Puzzle: Youth | 151246 | [151246-masters-of-puzzle-youth.json](./151246-masters-of-puzzle-youth.json) |
 | Masters of Sound | 73882 | [73882-masters-of-sound.json](./73882-masters-of-sound.json) |
 | Masters of the Air | 384327 | [384327-masters-of-the-air.json](./384327-masters-of-the-air.json) |
 | Masters of the Broken World | 65398 | [65398-masters-of-the-broken-world.json](./65398-masters-of-the-broken-world.json) |
@@ -7500,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechoEcho | 33730 | [33730-mechoecho.json](./33730-mechoecho.json) |
+| Mechone | 151321 | [151321-mechone.json](./151321-mechone.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechrunner | 19246 | [19246-mechrunner.json](./19246-mechrunner.json) |
 | Mechs and Mercs: Black Talons | 8721 | [8721-mechs-and-mercs-black-talons.json](./8721-mechs-and-mercs-black-talons.json) |
@@ -8826,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Ramp V5 | 104400 | [104400-mega-ramp-v5.json](./104400-mega-ramp-v5.json) |
 | Mega Rex Island | 234863 | [234863-mega-rex-island.json](./234863-mega-rex-island.json) |
 | Mega Roids | 418527 | [418527-mega-roids.json](./418527-mega-roids.json) |
+| Mega Roller Ball | 151315 | [151315-mega-roller-ball.json](./151315-mega-roller-ball.json) |
 | Mega Run: Redford's Adventure | 294887 | [294887-mega-run-redfords-adventure.json](./294887-mega-run-redfords-adventure.json) |
 | Mega Schwarzschild | 46388 | [46388-mega-schwarzschild.json](./46388-mega-schwarzschild.json) |
 | Mega Screen Solitaire | 330210 | [330210-mega-screen-solitaire.json](./330210-mega-screen-solitaire.json) |
