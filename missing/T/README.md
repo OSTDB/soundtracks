@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taguan | 377978 | [377978-taguan.json](./377978-taguan.json) |
 | Tahdani | 345232 | [345232-tahdani.json](./345232-tahdani.json) |
 | Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
+| Tahiti Hidden Pearls | 146412 | [146412-tahiti-hidden-pearls.json](./146412-tahiti-hidden-pearls.json) |
 | Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
 | Tahko Alpine Ski | 115220 | [115220-tahko-alpine-ski.json](./115220-tahko-alpine-ski.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
@@ -8069,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
 | The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
 | The Codemasters 'Full Tilt' Racing Bundle | 99761 | [99761-the-codemasters-full-tilt-racing-bundle.json](./99761-the-codemasters-full-tilt-racing-bundle.json) |
+| The Codex of Alchemical Engineering | 146402 | [146402-the-codex-of-alchemical-engineering.json](./146402-the-codex-of-alchemical-engineering.json) |
 | The CodFather | 360658 | [360658-the-codfather.json](./360658-the-codfather.json) |
 | The Coffee Machine | 182081 | [182081-the-coffee-machine.json](./182081-the-coffee-machine.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
@@ -18877,6 +18879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Of | 368197 | [368197-the-story-of.json](./368197-the-story-of.json) |
 | The Story of a World | 216154 | [216154-the-story-of-a-world.json](./216154-the-story-of-a-world.json) |
 | The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
+| The Story of Atria Land | 146377 | [146377-the-story-of-atria-land.json](./146377-the-story-of-atria-land.json) |
 | The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
 | The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
 | The Story Of Brewster Chipptooth | 311309 | [311309-the-story-of-brewster-chipptooth.json](./311309-the-story-of-brewster-chipptooth.json) |
