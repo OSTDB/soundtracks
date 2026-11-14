@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Back!: A Dinosaur's Story | 19685 | [19685-were-back-a-dinosaurs-story.json](./19685-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
+| We're Going on a Bear Hunt | 102452 | [102452-were-going-on-a-bear-hunt.json](./102452-were-going-on-a-bear-hunt.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
 | We’re In Trouble | 405340 | [405340-we-re-in-trouble.json](./405340-we-re-in-trouble.json) |
@@ -5664,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Americas | 247979 | [247979-wild-americas.json](./247979-wild-americas.json) |
 | Wild Angels: Episode 1 | 282209 | [282209-wild-angels-episode-1.json](./282209-wild-angels-episode-1.json) |
 | Wild Animals - Animated Jigsaws | 30862 | [30862-wild-animals-animated-jigsaws.json](./30862-wild-animals-animated-jigsaws.json) |
+| Wild Animals Kingdom Battle Simulator 2018 | 102458 | [102458-wild-animals-kingdom-battle-simulator-2018.json](./102458-wild-animals-kingdom-battle-simulator-2018.json) |
 | Wild Animals Transporter | 294334 | [294334-wild-animals-transporter.json](./294334-wild-animals-transporter.json) |
 | Wild Area | 237226 | [237226-wild-area.json](./237226-wild-area.json) |
 | Wild Arena | 31072 | [31072-wild-arena.json](./31072-wild-arena.json) |
@@ -5814,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Russia | 379599 | [379599-wild-russia.json](./379599-wild-russia.json) |
 | Wild Safari Run | 96579 | [96579-wild-safari-run.json](./96579-wild-safari-run.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
+| Wild Searching | 102433 | [102433-wild-searching.json](./102433-wild-searching.json) |
 | Wild Seas | 236605 | [236605-wild-seas.json](./236605-wild-seas.json) |
 | Wild Season | 47125 | [47125-wild-season.json](./47125-wild-season.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
@@ -8333,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Games - Order letters and create words | 96070 | [96070-word-games-order-letters-and-create-words.json](./96070-word-games-order-letters-and-create-words.json) |
 | Word Games Master | 96442 | [96442-word-games-master.json](./96442-word-games-master.json) |
 | Word Games with the Mr. Men | 97796 | [97796-word-games-with-the-mr-men.json](./97796-word-games-with-the-mr-men.json) |
+| Word Games(Cross, Connect, Search) | 102471 | [102471-word-games-cross-connect-search.json](./102471-word-games-cross-connect-search.json) |
 | Word Gems | 90420 | [90420-word-gems.json](./90420-word-gems.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
 | Word Go - Cross Word Puzzle Game | 104770 | [104770-word-go-cross-word-puzzle-game.json](./104770-word-go-cross-word-puzzle-game.json) |
