@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Thrones | 356004 | [356004-a-game-of-thrones.json](./356004-a-game-of-thrones.json) |
 | A Game of Thrones: Genesis | 15058 | [15058-a-game-of-thrones-genesis.json](./15058-a-game-of-thrones-genesis.json) |
 | A Game of Thrones: The Board Game - Digital Edition | 139376 | [139376-a-game-of-thrones-the-board-game-digital-edition.json](./139376-a-game-of-thrones-the-board-game-digital-edition.json) |
+| A Game of Thrones: The Board Game - Digital Edition: A Dance With Dragons | 158799 | [158799-a-game-of-thrones-the-board-game-digital-edition-a-dance-with-dragons.json](./158799-a-game-of-thrones-the-board-game-digital-edition-a-dance-with-dragons.json) |
 | A Game of Thrones: The Board Game - Digital Edition: A Feast for Crows | 163656 | [163656-a-game-of-thrones-the-board-game-digital-edition-a-feast-for-crows.json](./163656-a-game-of-thrones-the-board-game-digital-edition-a-feast-for-crows.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
@@ -9590,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
 | American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
 | American Billiards | 94656 | [94656-american-billiards.json](./94656-american-billiards.json) |
+| American Camper Simulator | 158792 | [158792-american-camper-simulator.json](./158792-american-camper-simulator.json) |
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
@@ -13848,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Darius II | 270465 | [270465-arcade-archives-darius-ii.json](./270465-arcade-archives-darius-ii.json) |
 | Arcade Archives: Dark Adventure | 262031 | [262031-arcade-archives-dark-adventure.json](./262031-arcade-archives-dark-adventure.json) |
+| Arcade Archives: Darwin 4078 | 158786 | [158786-arcade-archives-darwin-4078.json](./158786-arcade-archives-darwin-4078.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Devastators | 395647 | [395647-arcade-archives-devastators.json](./395647-arcade-archives-devastators.json) |
 | Arcade Archives: Dig Dug | 212615 | [212615-arcade-archives-dig-dug.json](./212615-arcade-archives-dig-dug.json) |
@@ -19899,6 +19902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura Copilului Albastru și Urât | 198321 | [198321-aventura-copilului-albastru-si-urat.json](./198321-aventura-copilului-albastru-si-urat.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Aventura na Selva com Gilberto Barros | 145386 | [145386-aventura-na-selva-com-gilberto-barros.json](./145386-aventura-na-selva-com-gilberto-barros.json) |
+| Aventura Pisicului Pierdut | 158762 | [158762-aventura-pisicului-pierdut.json](./158762-aventura-pisicului-pierdut.json) |
 | Aventuras en la Manigua | 317190 | [317190-aventuras-en-la-manigua.json](./317190-aventuras-en-la-manigua.json) |
 | Aventuras na floresta | 230640 | [230640-aventuras-na-floresta.json](./230640-aventuras-na-floresta.json) |
 | Aventuras na Ilha X | 214630 | [214630-aventuras-na-ilha-x.json](./214630-aventuras-na-ilha-x.json) |
