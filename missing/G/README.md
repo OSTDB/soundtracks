@@ -9679,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Series | 289186 | [289186-greed-series.json](./289186-greed-series.json) |
 | Greed Slash | 399334 | [399334-greed-slash.json](./399334-greed-slash.json) |
 | Greed Stays Home | 325971 | [325971-greed-stays-home.json](./325971-greed-stays-home.json) |
+| Greed: Abandoned Dogs | 167343 | [167343-greed-abandoned-dogs.json](./167343-greed-abandoned-dogs.json) |
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
