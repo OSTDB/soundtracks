@@ -10775,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestation | 76446 | [76446-forestation.json](./76446-forestation.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
+| Forester Simulator | 158241 | [158241-forester-simulator.json](./158241-forester-simulator.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forester: First Step | 359160 | [359160-forester-first-step.json](./359160-forester-first-step.json) |
 | Forestia Junior | 125581 | [125581-forestia-junior.json](./125581-forestia-junior.json) |
