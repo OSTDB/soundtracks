@@ -9530,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 364751 | [364751-shinobi.json](./364751-shinobi.json) |
 | Shinobi | 6899 | [6899-shinobi.json](./6899-shinobi.json) |
 | Shinobi 2: Phantom Ninja | 289489 | [289489-shinobi-2-phantom-ninja.json](./289489-shinobi-2-phantom-ninja.json) |
+| Shinobi Bad Buddies | 86326 | [86326-shinobi-bad-buddies.json](./86326-shinobi-bad-buddies.json) |
 | Shinobi Blade | 147666 | [147666-shinobi-blade.json](./147666-shinobi-blade.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
@@ -12672,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15091 | [15091-singstar.json](./15091-singstar.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
+| SingStar | 85700 | [85700-singstar.json](./85700-singstar.json) |
 | Singstar Aprés-Ski Party | 136394 | [136394-singstar-apres-ski-party.json](./136394-singstar-apres-ski-party.json) |
 | SingStar Bollywood | 20769 | [20769-singstar-bollywood.json](./20769-singstar-bollywood.json) |
 | SingStar Grandes Exitos | 268750 | [268750-singstar-grandes-exitos.json](./268750-singstar-grandes-exitos.json) |
@@ -17357,6 +17359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowlord | 273264 | [273264-snowlord.json](./273264-snowlord.json) |
 | Snowmageddon | 314174 | [314174-snowmageddon.json](./314174-snowmageddon.json) |
 | Snowman | 25012 | [25012-snowman.json](./25012-snowman.json) |
+| Snowman | 85686 | [85686-snowman.json](./85686-snowman.json) |
 | Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
 | Snowman Arena | 184236 | [184236-snowman-arena.json](./184236-snowman-arena.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
@@ -28605,6 +28608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwind | 392363 | [392363-starwind.json](./392363-starwind.json) |
 | Starwinder: The Ultimate Space Race | 72069 | [72069-starwinder-the-ultimate-space-race.json](./72069-starwinder-the-ultimate-space-race.json) |
 | StarWinds | 276601 | [276601-starwinds.json](./276601-starwinds.json) |
+| Starwing Paradox | 86272 | [86272-starwing-paradox.json](./86272-starwing-paradox.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Starwulf: Seeker of Secret Space | 254969 | [254969-starwulf-seeker-of-secret-space.json](./254969-starwulf-seeker-of-secret-space.json) |
 | Starxia | 297353 | [297353-starxia.json](./297353-starxia.json) |
@@ -38407,6 +38411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
 | Survivors Last Stand | 266464 | [266464-survivors-last-stand.json](./266464-survivors-last-stand.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
+| Survivors of Borridor | 86322 | [86322-survivors-of-borridor.json](./86322-survivors-of-borridor.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
 | Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
 | Survivors of Ragnarök | 64835 | [64835-survivors-of-ragnarok.json](./64835-survivors-of-ragnarok.json) |
