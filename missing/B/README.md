@@ -8197,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
+| Big Breezy Boat | 110600 | [110600-big-breezy-boat.json](./110600-big-breezy-boat.json) |
 | Big Brother | 201165 | [201165-big-brother.json](./201165-big-brother.json) |
 | Big Brother Brasil | 140880 | [140880-big-brother-brasil.json](./140880-big-brother-brasil.json) |
 | Big Brother Brasil 3D Online | 178205 | [178205-big-brother-brasil-3d-online.json](./178205-big-brother-brasil-3d-online.json) |
@@ -10323,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
 | Blackmail | 97654 | [97654-blackmail.json](./97654-blackmail.json) |
 | Blackmoon Prophecy II | 222977 | [222977-blackmoon-prophecy-ii.json](./222977-blackmoon-prophecy-ii.json) |
+| Blackmoor 2 | 110405 | [110405-blackmoor-2.json](./110405-blackmoor-2.json) |
 | Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
 | BlackMUD | 228900 | [228900-blackmud.json](./228900-blackmud.json) |
 | Blackout | 148342 | [148342-blackout.json](./148342-blackout.json) |
@@ -10610,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Triangulum | 41817 | [41817-blades-of-triangulum.json](./41817-blades-of-triangulum.json) |
 | Blades of Vengeance | 45565 | [45565-blades-of-vengeance.json](./45565-blades-of-vengeance.json) |
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
+| Blades of Worlds | 110448 | [110448-blades-of-worlds.json](./110448-blades-of-worlds.json) |
 | Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | BladeShield | 30566 | [30566-bladeshield.json](./30566-bladeshield.json) |
@@ -14477,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Ascent | 355803 | [355803-boom-ascent.json](./355803-boom-ascent.json) |
 | Boom Ball 3 for Kinect | 83757 | [83757-boom-ball-3-for-kinect.json](./83757-boom-ball-3-for-kinect.json) |
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
+| Boom Ball: Boost Edition | 110596 | [110596-boom-ball-boost-edition.json](./110596-boom-ball-boost-edition.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
 | Boom Beach | 7870 | [7870-boom-beach.json](./7870-boom-beach.json) |
