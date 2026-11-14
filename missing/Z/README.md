@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zalaga | 123285 | [123285-zalaga.json](./123285-zalaga.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
+| Zalinville MG | 90966 | [90966-zalinville-mg.json](./90966-zalinville-mg.json) |
 | Zalis | 343006 | [343006-zalis.json](./343006-zalis.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
 | Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
@@ -850,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZenGM Hockey | 333245 | [333245-zengm-hockey.json](./333245-zengm-hockey.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
+| ZenHak | 90945 | [90945-zenhak.json](./90945-zenhak.json) |
 | Zenite | 187720 | [187720-zenite.json](./187720-zenite.json) |
 | Zenith | 176041 | [176041-zenith.json](./176041-zenith.json) |
 | Zenith | 22437 | [22437-zenith.json](./22437-zenith.json) |
@@ -2615,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooma:Chapter 4 - "Temple of the Damned" | 168373 | [168373-zooma-chapter-4-temple-of-the-damned.json](./168373-zooma-chapter-4-temple-of-the-damned.json) |
 | Zoomageddon | 327170 | [327170-zoomageddon.json](./327170-zoomageddon.json) |
 | Zoomalia | 376443 | [376443-zoomalia.json](./376443-zoomalia.json) |
+| Zoomaroom | 90948 | [90948-zoomaroom.json](./90948-zoomaroom.json) |
 | Zoombies: Animales de la Muerte | 92761 | [92761-zoombies-animales-de-la-muerte.json](./92761-zoombies-animales-de-la-muerte.json) |
 | Zoombinis | 34591 | [34591-zoombinis.json](./34591-zoombinis.json) |
 | Zoombinis: Island Odyssey | 68248 | [68248-zoombinis-island-odyssey.json](./68248-zoombinis-island-odyssey.json) |
