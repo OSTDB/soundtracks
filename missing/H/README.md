@@ -8303,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higatana | 311386 | [311386-higatana.json](./311386-higatana.json) |
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
+| Higgs Boson: Challenging Puzzle | 152513 | [152513-higgs-boson-challenging-puzzle.json](./152513-higgs-boson-challenging-puzzle.json) |
 | Higgs Boson: Minimal Puzzle | 148739 | [148739-higgs-boson-minimal-puzzle.json](./148739-higgs-boson-minimal-puzzle.json) |
 | Higgs Boson: Particle Puzzle | 358045 | [358045-higgs-boson-particle-puzzle.json](./358045-higgs-boson-particle-puzzle.json) |
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
@@ -12863,6 +12864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Fast Food | 341723 | [341723-human-fast-food.json](./341723-human-fast-food.json) |
 | Human Grand Prix III: F1 Triple Battle | 38172 | [38172-human-grand-prix-iii-f1-triple-battle.json](./38172-human-grand-prix-iii-f1-triple-battle.json) |
 | Human Grand Prix IV: F1 Dream Battle | 38171 | [38171-human-grand-prix-iv-f1-dream-battle.json](./38171-human-grand-prix-iv-f1-dream-battle.json) |
+| Human Guise | 152527 | [152527-human-guise.json](./152527-human-guise.json) |
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
 | Human Heroes Curie on Matter | 200070 | [200070-human-heroes-curie-on-matter.json](./200070-human-heroes-curie-on-matter.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
