@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the City | 233164 | [233164-save-the-city.json](./233164-save-the-city.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
 | Save the Clock Tower | 311325 | [311325-save-the-clock-tower.json](./311325-save-the-clock-tower.json) |
+| Save the Cookie | 111106 | [111106-save-the-cookie.json](./111106-save-the-cookie.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Date | 159770 | [159770-save-the-date.json](./159770-save-the-date.json) |
 | Save the Date | 313845 | [313845-save-the-date.json](./313845-save-the-date.json) |
@@ -2781,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savior of Light | 189961 | [189961-savior-of-light.json](./189961-savior-of-light.json) |
 | Savior of the Abyss | 165560 | [165560-savior-of-the-abyss.json](./165560-savior-of-the-abyss.json) |
 | Savior Quest | 309842 | [309842-savior-quest.json](./309842-savior-quest.json) |
+| Savior Saga: Idle RPG | 111291 | [111291-savior-saga-idle-rpg.json](./111291-savior-saga-idle-rpg.json) |
 | Savior Syndrome: The Crimson Sun | 377929 | [377929-savior-syndrome-the-crimson-sun.json](./377929-savior-syndrome-the-crimson-sun.json) |
 | Savior's Hand | 313022 | [313022-saviors-hand.json](./313022-saviors-hand.json) |
 | Saviorless | 25338 | [25338-saviorless.json](./25338-saviorless.json) |
@@ -11846,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Bullet: Prometheus | 33437 | [33437-silver-bullet-prometheus.json](./33437-silver-bullet-prometheus.json) |
 | Silver Cats | 150495 | [150495-silver-cats.json](./150495-silver-cats.json) |
 | Silver Chains | 109550 | [109550-silver-chains.json](./109550-silver-chains.json) |
+| Silver Child | 111110 | [111110-silver-child.json](./111110-silver-child.json) |
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
 | Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
@@ -21659,6 +21662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Girls | 258820 | [258820-space-girls.json](./258820-space-girls.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
+| Space Gladiator | 111274 | [111274-space-gladiator.json](./111274-space-gladiator.json) |
 | Space Gladiators | 143871 | [143871-space-gladiators.json](./143871-space-gladiators.json) |
 | Space Gladiators: The Hole | 148776 | [148776-space-gladiators-the-hole.json](./148776-space-gladiators-the-hole.json) |
 | Space Gliders | 188819 | [188819-space-gliders.json](./188819-space-gliders.json) |
