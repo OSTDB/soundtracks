@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Generations 4: Blazing Guns | 80862 | [80862-capcom-generations-4-blazing-guns.json](./80862-capcom-generations-4-blazing-guns.json) |
 | Capcom Generations 5: Street Fighter Collection 2 | 126269 | [126269-capcom-generations-5-street-fighter-collection-2.json](./126269-capcom-generations-5-street-fighter-collection-2.json) |
+| Capcom Go! Apollo VR Planetarium | 121068 | [121068-capcom-go-apollo-vr-planetarium.json](./121068-capcom-go-apollo-vr-planetarium.json) |
 | Capcom Home Arcade | 384578 | [384578-capcom-home-arcade.json](./384578-capcom-home-arcade.json) |
 | Capcom Mystery Adventure Double Pack | 299313 | [299313-capcom-mystery-adventure-double-pack.json](./299313-capcom-mystery-adventure-double-pack.json) |
 | Capcom no Quiz: Tonosama no Yabou | 46392 | [46392-capcom-no-quiz-tonosama-no-yabou.json](./46392-capcom-no-quiz-tonosama-no-yabou.json) |
@@ -6076,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
+| Centralia | 121104 | [121104-centralia.json](./121104-centralia.json) |
 | Centralia: Homecoming | 123769 | [123769-centralia-homecoming.json](./123769-centralia-homecoming.json) |
 | Centration | 16566 | [16566-centration.json](./16566-centration.json) |
 | Centre Court | 13472 | [13472-centre-court.json](./13472-centre-court.json) |
@@ -6644,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changkabang! | 203651 | [203651-changkabang.json](./203651-changkabang.json) |
 | Chango | 268064 | [268064-chango.json](./268064-chango.json) |
 | Changuy: The Game | 320644 | [320644-changuy-the-game.json](./320644-changuy-the-game.json) |
+| Chǎngwài Rénshēng | 121082 | [121082-changwai-rensheng.json](./121082-changwai-rensheng.json) |
 | Channel 3 | 276042 | [276042-channel-3.json](./276042-channel-3.json) |
 | Channel 4 Midnight | 385434 | [385434-channel-4-midnight.json](./385434-channel-4-midnight.json) |
 | Channel 51 | 372282 | [372282-channel-51.json](./372282-channel-51.json) |
@@ -14092,6 +14095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Online | 131040 | [131040-combat-online.json](./131040-combat-online.json) |
 | Combat Online 2 | 414219 | [414219-combat-online-2.json](./414219-combat-online-2.json) |
 | Combat Ops: Arena | 378952 | [378952-combat-ops-arena.json](./378952-combat-ops-arena.json) |
+| Combat Overrun | 121086 | [121086-combat-overrun.json](./121086-combat-overrun.json) |
 | Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
 | Combat Queen | 74801 | [74801-combat-queen.json](./74801-combat-queen.json) |
 | Combat Raccoon | 54857 | [54857-combat-raccoon.json](./54857-combat-raccoon.json) |
@@ -17466,6 +17470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange Players Pack | 403308 | [403308-cover-orange-players-pack.json](./403308-cover-orange-players-pack.json) |
 | Cover Orange Players Pack 2 | 403311 | [403311-cover-orange-players-pack-2.json](./403311-cover-orange-players-pack-2.json) |
 | Cover Orange Players Pack 3 | 403355 | [403355-cover-orange-players-pack-3.json](./403355-cover-orange-players-pack-3.json) |
+| Cover Sky | 121077 | [121077-cover-sky.json](./121077-cover-sky.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
 | Cover Yourself in Blood | 279163 | [279163-cover-yourself-in-blood.json](./279163-cover-yourself-in-blood.json) |
