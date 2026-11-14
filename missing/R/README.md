@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Rodgers: World One | 23797 | [23797-rad-rodgers-world-one.json](./23797-rad-rodgers-world-one.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Survivor | 240642 | [240642-rad-survivor.json](./240642-rad-survivor.json) |
+| Rad Trails | 96376 | [96376-rad-trails.json](./96376-rad-trails.json) |
 | Rad TV | 120431 | [120431-rad-tv.json](./120431-rad-tv.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
@@ -10144,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
 | Robots n Lasers | 193270 | [193270-robots-n-lasers.json](./193270-robots-n-lasers.json) |
 | Robots of Dawn | 24432 | [24432-robots-of-dawn.json](./24432-robots-of-dawn.json) |
+| Robots Reloaded | 96338 | [96338-robots-reloaded.json](./96338-robots-reloaded.json) |
 | Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots vs. Zombies: Transform to Race and Fight | 105842 | [105842-robots-vs-zombies-transform-to-race-and-fight.json](./105842-robots-vs-zombies-transform-to-race-and-fight.json) |
@@ -10959,6 +10961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
 | Rodent Warriors | 114081 | [114081-rodent-warriors.json](./114081-rodent-warriors.json) |
 | Rodent's Revenge | 56881 | [56881-rodents-revenge.json](./56881-rodents-revenge.json) |
+| Rodentwars! | 96358 | [96358-rodentwars.json](./96358-rodentwars.json) |
 | Rodeo | 71559 | [71559-rodeo.json](./71559-rodeo.json) |
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
