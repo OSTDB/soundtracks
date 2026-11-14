@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
 | A Soul of Clay | 181469 | [181469-a-soul-of-clay.json](./181469-a-soul-of-clay.json) |
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
+| A Sound Plan | 111111 | [111111-a-sound-plan.json](./111111-a-sound-plan.json) |
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A South Sea Tale | 311961 | [311961-a-south-sea-tale.json](./311961-a-south-sea-tale.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akihabara Dennou-gumi Pata Pies! | 247573 | [247573-akihabara-dennou-gumi-pata-pies.json](./247573-akihabara-dennou-gumi-pata-pies.json) |
 | Akihabara Senryoukumi | 82584 | [82584-akihabara-senryoukumi.json](./82584-akihabara-senryoukumi.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
+| Akihabara: Feel the Rhythm Remixed | 111271 | [111271-akihabara-feel-the-rhythm-remixed.json](./111271-akihabara-feel-the-rhythm-remixed.json) |
 | Akiiwan: Survival | 361850 | [361850-akiiwan-survival.json](./361850-akiiwan-survival.json) |
 | Akiko Gold: The Queen of Adult | 299794 | [299794-akiko-gold-the-queen-of-adult.json](./299794-akiko-gold-the-queen-of-adult.json) |
 | Akiko Hard | 300662 | [300662-akiko-hard.json](./300662-akiko-hard.json) |
