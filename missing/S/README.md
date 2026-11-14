@@ -18849,6 +18849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
 | Son Son | 40010 | [40010-son-son.json](./40010-son-son.json) |
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
+| Son.Light.Sleepwalker | 107956 | [107956-son-light-sleepwalker.json](./107956-son-light-sleepwalker.json) |
 | Sona-Nyl of the Violet Shadows Refrain | 275986 | [275986-sona-nyl-of-the-violet-shadows-refrain.json](./275986-sona-nyl-of-the-violet-shadows-refrain.json) |
 | Sona-Nyl of the Violet Shadows: What Beautiful Memories | 57970 | [57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json](./57970-sona-nyl-of-the-violet-shadows-what-beautiful-memories.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
@@ -29528,6 +29529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Gerrard's Total Soccer 2002 | 49249 | [49249-steven-gerrards-total-soccer-2002.json](./49249-steven-gerrards-total-soccer-2002.json) |
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
+| Steven the Sperm | 107477 | [107477-steven-the-sperm.json](./107477-steven-the-sperm.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
 | Steven Universe: Unleash the Light | 125505 | [125505-steven-universe-unleash-the-light.json](./125505-steven-universe-unleash-the-light.json) |
