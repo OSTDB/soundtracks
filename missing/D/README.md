@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Ahead | 165927 | [165927-danger-ahead.json](./165927-danger-ahead.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
 | Danger Bounce | 26607 | [26607-danger-bounce.json](./26607-danger-bounce.json) |
+| Danger City | 127397 | [127397-danger-city.json](./127397-danger-city.json) |
 | Danger City | 279591 | [279591-danger-city.json](./279591-danger-city.json) |
 | Danger Cliff | 235677 | [235677-danger-cliff.json](./235677-danger-cliff.json) |
 | Danger Cliff 2 | 316149 | [316149-danger-cliff-2.json](./316149-danger-cliff-2.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Inside | 109830 | [109830-dark-inside.json](./109830-dark-inside.json) |
 | Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
+| Dark Invasion VR | 127388 | [127388-dark-invasion-vr.json](./127388-dark-invasion-vr.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
 | Dark Investigation | 296322 | [296322-dark-investigation.json](./296322-dark-investigation.json) |
 | Dark Investigation: Experiment | 349226 | [349226-dark-investigation-experiment.json](./349226-dark-investigation-experiment.json) |
@@ -4394,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Target | 348487 | [348487-dead-target.json](./348487-dead-target.json) |
 | Dead Target VR: Zombie Intensified | 80955 | [80955-dead-target-vr-zombie-intensified.json](./80955-dead-target-vr-zombie-intensified.json) |
 | Dead TD | 164117 | [164117-dead-td.json](./164117-dead-td.json) |
+| Dead Territory | 127396 | [127396-dead-territory.json](./127396-dead-territory.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
 | Dead to Rights | 3872 | [3872-dead-to-rights.json](./3872-dead-to-rights.json) |
 | Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
@@ -9028,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Summoner: Soul Hackers New Generation | 139091 | [139091-devil-summoner-soul-hackers-new-generation.json](./139091-devil-summoner-soul-hackers-new-generation.json) |
 | Devil Survivor 2: The Extra World | 139136 | [139136-devil-survivor-2-the-extra-world.json](./139136-devil-survivor-2-the-extra-world.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
+| Devil Threats | 127387 | [127387-devil-threats.json](./127387-devil-threats.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
@@ -18465,6 +18469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinkrime | 267717 | [267717-drinkrime.json](./267717-drinkrime.json) |
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
+| Drinks With Abbey | 127422 | [127422-drinks-with-abbey.json](./127422-drinks-with-abbey.json) |
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
 | Drip | 68147 | [68147-drip.json](./68147-drip.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
