@@ -13860,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber 3 | 223361 | [223361-bomber-3.json](./223361-bomber-3.json) |
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
 | Bomber Angel Bombriel: Forever the Kings | 415617 | [415617-bomber-angel-bombriel-forever-the-kings.json](./415617-bomber-angel-bombriel-forever-the-kings.json) |
+| Bomber Arena | 111799 | [111799-bomber-arena.json](./111799-bomber-arena.json) |
 | Bomber Attack | 21918 | [21918-bomber-attack.json](./21918-bomber-attack.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
@@ -17551,6 +17552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BroBlast | 197311 | [197311-broblast.json](./197311-broblast.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
+| Brocat: the B Game | 111769 | [111769-brocat-the-b-game.json](./111769-brocat-the-b-game.json) |
 | Broccoli | 310240 | [310240-broccoli.json](./310240-broccoli.json) |
 | Broccoli Bob | 29244 | [29244-broccoli-bob.json](./29244-broccoli-bob.json) |
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
