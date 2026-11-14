@@ -14022,6 +14022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donare | 376673 | [376673-donare.json](./376673-donare.json) |
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
+| Dondar | 151310 | [151310-dondar.json](./151310-dondar.json) |
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
 | DonDon Busters!! | 128284 | [128284-dondon-busters.json](./128284-dondon-busters.json) |
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
@@ -18589,6 +18590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
 | Droid Game 3D | 177142 | [177142-droid-game-3d.json](./177142-droid-game-3d.json) |
+| Droid Guier | 151322 | [151322-droid-guier.json](./151322-droid-guier.json) |
 | Droid Invaders | 100546 | [100546-droid-invaders.json](./100546-droid-invaders.json) |
 | Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
 | Droid Must Deliver | 386092 | [386092-droid-must-deliver.json](./386092-droid-must-deliver.json) |
