@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura no Mori Dreamers 2 | 114824 | [114824-sakura-no-mori-dreamers-2.json](./114824-sakura-no-mori-dreamers-2.json) |
 | Sakura no Sora to, Kimi no Koto: Sweet Petals For My Dear | 213832 | [213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json](./213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json) |
+| Sakura no Toki: Sakura no Mori no Shita wo Ayumu | 141314 | [141314-sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu.json](./141314-sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu.json) |
 | Sakura no Uta Re:Graphic - 10th Anniversary Edition | 355959 | [355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json](./355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json) |
 | Sakura no Uta Re:Graphic - Append Disc | 355964 | [355964-sakura-no-uta-re-graphic-append-disc.json](./355964-sakura-no-uta-re-graphic-append-disc.json) |
 | Sakura no Uta: Haru no Yuki | 198437 | [198437-sakura-no-uta-haru-no-yuki.json](./198437-sakura-no-uta-haru-no-yuki.json) |
@@ -13367,6 +13368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchbook | 98599 | [98599-sketchbook.json](./98599-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
 | Sketchbook: Schoolgirls in Love and Other Assorted Heartbreak | 413694 | [413694-sketchbook-schoolgirls-in-love-and-other-assorted-heartbreak.json](./413694-sketchbook-schoolgirls-in-love-and-other-assorted-heartbreak.json) |
+| Sketchbots | 141299 | [141299-sketchbots.json](./141299-sketchbots.json) |
 | Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | SketchFighter 4000 Alpha | 146190 | [146190-sketchfighter-4000-alpha.json](./146190-sketchfighter-4000-alpha.json) |
@@ -26310,6 +26312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
+| Standing on the Shoulders of Giants | 141291 | [141291-standing-on-the-shoulders-of-giants.json](./141291-standing-on-the-shoulders-of-giants.json) |
 | Standing There | 185401 | [185401-standing-there.json](./185401-standing-there.json) |
 | Standing Together | 374807 | [374807-standing-together.json](./374807-standing-together.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
@@ -30809,6 +30812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
 | Stream Skate | 148205 | [148205-stream-skate.json](./148205-stream-skate.json) |
 | Stream Smash | 160052 | [160052-stream-smash.json](./160052-stream-smash.json) |
+| Stream Spinners | 141311 | [141311-stream-spinners.json](./141311-stream-spinners.json) |
 | Stream Star: Sensations | 334531 | [334531-stream-star-sensations.json](./334531-stream-star-sensations.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
@@ -31761,6 +31765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuff and Nonsense | 57488 | [57488-stuff-and-nonsense.json](./57488-stuff-and-nonsense.json) |
 | Stuff Enuff | 213525 | [213525-stuff-enuff.json](./213525-stuff-enuff.json) |
 | Stuff It! | 385385 | [385385-stuff-it.json](./385385-stuff-it.json) |
+| Stuff of Legend | 141293 | [141293-stuff-of-legend.json](./141293-stuff-of-legend.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
 | Stuffed | 396544 | [396544-stuffed.json](./396544-stuffed.json) |
@@ -32001,6 +32006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 95 | 154136 | [154136-subject-95.json](./154136-subject-95.json) |
 | Subject Debris | 263851 | [263851-subject-debris.json](./263851-subject-debris.json) |
 | Subject F-011 | 236580 | [236580-subject-f-011.json](./236580-subject-f-011.json) |
+| Subject Teo | 141269 | [141269-subject-teo.json](./141269-subject-teo.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
