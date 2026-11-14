@@ -9847,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard with a Vengeance | 245292 | [245292-die-hard-with-a-vengeance.json](./245292-die-hard-with-a-vengeance.json) |
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
+| Die Höhlenwelt Saga: Der Leuchtende Kristall | 80021 | [80021-die-hohlenwelt-saga-der-leuchtende-kristall.json](./80021-die-hohlenwelt-saga-der-leuchtende-kristall.json) |
 | Die in the Dark | 105284 | [105284-die-in-the-dark.json](./105284-die-in-the-dark.json) |
 | Die in the Dungeon | 147285 | [147285-die-in-the-dungeon.json](./147285-die-in-the-dungeon.json) |
 | Die in the Dungeon: Classic | 325653 | [325653-die-in-the-dungeon-classic.json](./325653-die-in-the-dungeon-classic.json) |
@@ -13214,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
+| Dogs Playing Poker | 80045 | [80045-dogs-playing-poker.json](./80045-dogs-playing-poker.json) |
 | Dogs Throwing Swords II: Three Barks to the Wind | 134762 | [134762-dogs-throwing-swords-ii-three-barks-to-the-wind.json](./134762-dogs-throwing-swords-ii-three-barks-to-the-wind.json) |
 | Dogs.Io | 170075 | [170075-dogs-io.json](./170075-dogs-io.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
