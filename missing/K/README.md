@@ -5095,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights in Tight Spaces: Collector's Edition | 406335 | [406335-knights-in-tight-spaces-collectors-edition.json](./406335-knights-in-tight-spaces-collectors-edition.json) |
 | Knights of Ages | 143430 | [143430-knights-of-ages.json](./143430-knights-of-ages.json) |
+| Knights of Braveland | 158249 | [158249-knights-of-braveland.json](./158249-knights-of-braveland.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of Braveland: Fantastic Beasts | 254218 | [254218-knights-of-braveland-fantastic-beasts.json](./254218-knights-of-braveland-fantastic-beasts.json) |
 | Knights of Braveland: Fun And Memes | 284505 | [284505-knights-of-braveland-fun-and-memes.json](./284505-knights-of-braveland-fun-and-memes.json) |
