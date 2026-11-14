@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
+| Dashing Fire | 132908 | [132908-dashing-fire.json](./132908-dashing-fire.json) |
 | Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
 | Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
 | Dashing Orange | 197452 | [197452-dashing-orange.json](./197452-dashing-orange.json) |
@@ -5628,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckmate! | 249005 | [249005-deckmate.json](./249005-deckmate.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
+| Decks | 132873 | [132873-decks.json](./132873-decks.json) |
 | Decks & Daggers | 149809 | [149809-decks-and-daggers.json](./149809-decks-and-daggers.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Decks Against Destiny | 215543 | [215543-decks-against-destiny.json](./215543-decks-against-destiny.json) |
