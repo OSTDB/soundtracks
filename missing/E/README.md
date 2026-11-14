@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
 | Endless Archery: Chill & Shoot | 175592 | [175592-endless-archery-chill-and-shoot.json](./175592-endless-archery-chill-and-shoot.json) |
 | Endless Ark | 208087 | [208087-endless-ark.json](./208087-endless-ark.json) |
+| Endless Armory | 102454 | [102454-endless-armory.json](./102454-endless-armory.json) |
 | Endless Arrows | 27126 | [27126-endless-arrows.json](./27126-endless-arrows.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
@@ -8130,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvolRun | 339777 | [339777-evolrun.json](./339777-evolrun.json) |
 | EvoluShip | 199321 | [199321-evoluship.json](./199321-evoluship.json) |
 | Evoluth | 381993 | [381993-evoluth.json](./381993-evoluth.json) |
+| Evolution | 102438 | [102438-evolution.json](./102438-evolution.json) |
 | Evolution | 150743 | [150743-evolution.json](./150743-evolution.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 23915 | [23915-evolution.json](./23915-evolution.json) |
@@ -8960,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expo. Decay | 185318 | [185318-expo-decay.json](./185318-expo-decay.json) |
 | Exponent: The Scaling Tower Defense | 394589 | [394589-exponent-the-scaling-tower-defense.json](./394589-exponent-the-scaling-tower-defense.json) |
 | Exponential Idle | 138416 | [138416-exponential-idle.json](./138416-exponential-idle.json) |
+| Export Simulator | 102436 | [102436-export-simulator.json](./102436-export-simulator.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
 | Exposure | 101244 | [101244-exposure.json](./101244-exposure.json) |
