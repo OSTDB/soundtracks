@@ -11438,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollcage: Limited Edition | 43736 | [43736-rollcage-limited-edition.json](./43736-rollcage-limited-edition.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
+| Rolled Out! | 123117 | [123117-rolled-out.json](./123117-rolled-out.json) |
 | Rolled: A Pinball Nightmare | 305626 | [305626-rolled-a-pinball-nightmare.json](./305626-rolled-a-pinball-nightmare.json) |
 | Rollem.io | 165296 | [165296-rollem-io.json](./165296-rollem-io.json) |
 | Roller | 267528 | [267528-roller.json](./267528-roller.json) |
@@ -12059,6 +12060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room to Breathe | 399382 | [399382-room-to-breathe.json](./399382-room-to-breathe.json) |
 | Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
+| Room to Roam | 123132 | [123132-room-to-roam.json](./123132-room-to-roam.json) |
 | Room Washer | 329282 | [329282-room-washer.json](./329282-room-washer.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
@@ -12436,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotosaurus Adventure | 306285 | [306285-rotosaurus-adventure.json](./306285-rotosaurus-adventure.json) |
+| Rotoscape | 123125 | [123125-rotoscape.json](./123125-rotoscape.json) |
 | Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
 | Rotrex | 290978 | [290978-rotrex.json](./290978-rotrex.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
