@@ -14999,6 +14999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerboat Challenge | 97985 | [97985-powerboat-challenge.json](./97985-powerboat-challenge.json) |
 | PowerBoat Mega Ramp Racing | 105829 | [105829-powerboat-mega-ramp-racing.json](./105829-powerboat-mega-ramp-racing.json) |
 | Powerboat Racing | 129509 | [129509-powerboat-racing.json](./129509-powerboat-racing.json) |
+| Powerboat VR | 158261 | [158261-powerboat-vr.json](./158261-powerboat-vr.json) |
 | PowerBots Builders | 222812 | [222812-powerbots-builders.json](./222812-powerbots-builders.json) |
 | PowerBots Retro | 143566 | [143566-powerbots-retro.json](./143566-powerbots-retro.json) |
 | PowerBoxing | 94805 | [94805-powerboxing.json](./94805-powerboxing.json) |
@@ -19148,6 +19149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
 | Punch the Garden | 269982 | [269982-punch-the-garden.json](./269982-punch-the-garden.json) |
 | Punch the Monkey! Game Edition | 66201 | [66201-punch-the-monkey-game-edition.json](./66201-punch-the-monkey-game-edition.json) |
+| Punch the Potus | 158237 | [158237-punch-the-potus.json](./158237-punch-the-potus.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
