@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Dead | 361455 | [361455-dash-dash-dead.json](./361455-dash-dash-dead.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
+| Dash Dash World | 140069 | [140069-dash-dash-world.json](./140069-dash-dash-world.json) |
 | Dash DE Lei-Lei | 161711 | [161711-dash-de-lei-lei.json](./161711-dash-de-lei-lei.json) |
 | Dash Dot Die | 391634 | [391634-dash-dot-die.json](./391634-dash-dot-die.json) |
 | Dash Duels | 414390 | [414390-dash-duels.json](./414390-dash-duels.json) |
@@ -19391,6 +19392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckstazy Classic | 265755 | [265755-duckstazy-classic.json](./265755-duckstazy-classic.json) |
 | Duckstroma | 370296 | [370296-duckstroma.json](./370296-duckstroma.json) |
 | DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
+| DuckTales QuackShots | 140087 | [140087-ducktales-quackshots.json](./140087-ducktales-quackshots.json) |
 | DuckTales: Scrooge's Loot | 78640 | [78640-ducktales-scrooges-loot.json](./78640-ducktales-scrooges-loot.json) |
 | DuckTape Inc. | 383071 | [383071-ducktape-inc.json](./383071-ducktape-inc.json) |
 | Duckthing's Rolling Rooms | 292417 | [292417-duckthings-rolling-rooms.json](./292417-duckthings-rolling-rooms.json) |
@@ -19508,6 +19510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Dueling Dungeon | 95584 | [95584-dueling-dungeon.json](./95584-dueling-dungeon.json) |
 | Dueling Network | 136180 | [136180-dueling-network.json](./136180-dueling-network.json) |
+| Dueling Nexus | 140072 | [140072-dueling-nexus.json](./140072-dueling-nexus.json) |
 | DuelingGun | 89570 | [89570-duelinggun.json](./89570-duelinggun.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelist: Idle Expedition | 400826 | [400826-duelist-idle-expedition.json](./400826-duelist-idle-expedition.json) |
