@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Dungeon | 154398 | [154398-fire-and-dungeon.json](./154398-fire-and-dungeon.json) |
 | Fire and Forget | 46735 | [46735-fire-and-forget.json](./46735-fire-and-forget.json) |
 | Fire and Forget 2: The Death Convoy | 73184 | [73184-fire-and-forget-2-the-death-convoy.json](./73184-fire-and-forget-2-the-death-convoy.json) |
+| Fire and Fury: English Civil War | 112397 | [112397-fire-and-fury-english-civil-war.json](./112397-fire-and-fury-english-civil-war.json) |
 | Fire and Maneuver: Expansion - Boshin War | 246828 | [246828-fire-and-maneuver-expansion-boshin-war.json](./246828-fire-and-maneuver-expansion-boshin-war.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire and Thunder | 120014 | [120014-fire-and-thunder.json](./120014-fire-and-thunder.json) |
