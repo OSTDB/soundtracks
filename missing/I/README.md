@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
 | I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
 | I Miss When the Internet Was Chronological | 264366 | [264366-i-miss-when-the-internet-was-chronological.json](./264366-i-miss-when-the-internet-was-chronological.json) |
+| I Misteri di Maggia | 86290 | [86290-i-misteri-di-maggia.json](./86290-i-misteri-di-maggia.json) |
 | I Modo Mo Issho | 244003 | [244003-i-modo-mo-issho.json](./244003-i-modo-mo-issho.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I Must Eat Chili Oil | 259735 | [259735-i-must-eat-chili-oil.json](./259735-i-must-eat-chili-oil.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Quest | 32454 | [32454-impossible-quest.json](./32454-impossible-quest.json) |
 | Impossible Road | 22158 | [22158-impossible-road.json](./22158-impossible-road.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
+| Impossible Runner | 86296 | [86296-impossible-runner.json](./86296-impossible-runner.json) |
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
 | Impossible Simplified Cube | 165717 | [165717-impossible-simplified-cube.json](./165717-impossible-simplified-cube.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
@@ -7369,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's another hack with Mario in it! Yay! | 281809 | [281809-its-another-hack-with-mario-in-it-yay.json](./281809-its-another-hack-with-mario-in-it-yay.json) |
 | It's Barbaric: Euroza | 244164 | [244164-its-barbaric-euroza.json](./244164-its-barbaric-euroza.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
+| It's Chicken! | 86275 | [86275-its-chicken.json](./86275-its-chicken.json) |
 | It's Chopping Time! | 395265 | [395265-its-chopping-time.json](./395265-its-chopping-time.json) |
 | It's Chopping Time!: Gold Edition | 406871 | [406871-its-chopping-time-gold-edition.json](./406871-its-chopping-time-gold-edition.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
