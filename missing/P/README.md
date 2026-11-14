@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paparazzi | 100038 | [100038-paparazzi.json](./100038-paparazzi.json) |
 | Paparazzi | 21550 | [21550-paparazzi.json](./21550-paparazzi.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
+| Paparazzi | 81503 | [81503-paparazzi.json](./81503-paparazzi.json) |
 | Paparazzi Simulator | 127428 | [127428-paparazzi-simulator.json](./127428-paparazzi-simulator.json) |
 | Papaya Plaza | 403774 | [403774-papaya-plaza.json](./403774-papaya-plaza.json) |
 | Papaye Bang Bang VR | 256181 | [256181-papaye-bang-bang-vr.json](./256181-papaye-bang-bang-vr.json) |
