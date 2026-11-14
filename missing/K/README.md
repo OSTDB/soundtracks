@@ -3601,7 +3601,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Orders | 150880 | [150880-kings-orders.json](./150880-kings-orders.json) |
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
 | King's Quest | 8260 | [8260-kings-quest.json](./8260-kings-quest.json) |
+| King's Quest 1+2+3 | 155234 | [155234-kings-quest-1-2-3.json](./155234-kings-quest-1-2-3.json) |
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
+| King's Quest 7+8 | 155235 | [155235-kings-quest-7-8.json](./155235-kings-quest-7-8.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest Collector's Edition | 213196 | [213196-kings-quest-collectors-edition.json](./213196-kings-quest-collectors-edition.json) |
 | King's Quest I: Quest for the Crown | 132065 | [132065-kings-quest-i-quest-for-the-crown.json](./132065-kings-quest-i-quest-for-the-crown.json) |
