@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Song | 60440 | [60440-happy-song.json](./60440-happy-song.json) |
 | Happy Souls | 304845 | [304845-happy-souls.json](./304845-happy-souls.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
+| Happy STG | 126109 | [126109-happy-stg.json](./126109-happy-stg.json) |
 | Happy Street | 63750 | [63750-happy-street.json](./63750-happy-street.json) |
 | Happy Summer Holiday | 158260 | [158260-happy-summer-holiday.json](./158260-happy-summer-holiday.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
@@ -10687,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honor of Knight King | 174109 | [174109-honor-of-knight-king.json](./174109-honor-of-knight-king.json) |
 | Honor of Nations | 286871 | [286871-honor-of-nations.json](./286871-honor-of-nations.json) |
 | Honor: Episode 1 - The Invsation | 177984 | [177984-honor-episode-1-the-invsation.json](./177984-honor-episode-1-the-invsation.json) |
+| HonorBound | 126051 | [126051-honorbound.json](./126051-honorbound.json) |
 | Honored | 187082 | [187082-honored.json](./187082-honored.json) |
 | Honorless! | 346488 | [346488-honorless.json](./346488-honorless.json) |
 | Honour & Freedom | 282950 | [282950-honour-and-freedom.json](./282950-honour-and-freedom.json) |
