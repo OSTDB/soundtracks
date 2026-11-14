@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get Rich | 311645 | [311645-get-rich.json](./311645-get-rich.json) |
+| Get Rich or Die 2 | 123661 | [123661-get-rich-or-die-2.json](./123661-get-rich-or-die-2.json) |
 | Get Rich or Die Gaming | 34627 | [34627-get-rich-or-die-gaming.json](./34627-get-rich-or-die-gaming.json) |
 | Get Rich Quick | 350751 | [350751-get-rich-quick.json](./350751-get-rich-quick.json) |
 | Get Rich Slow | 250779 | [250779-get-rich-slow.json](./250779-get-rich-slow.json) |
@@ -6793,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Sand | 140268 | [140268-gods-of-sand.json](./140268-gods-of-sand.json) |
 | Gods of Savvarah: Part 1 | 224727 | [224727-gods-of-savvarah-part-1.json](./224727-gods-of-savvarah-part-1.json) |
 | Gods of Sparta | 174480 | [174480-gods-of-sparta.json](./174480-gods-of-sparta.json) |
+| Gods of the Arena | 123649 | [123649-gods-of-the-arena.json](./123649-gods-of-the-arena.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
@@ -10145,6 +10147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid-Tsugi | 386538 | [386538-grid-tsugi.json](./386538-grid-tsugi.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
 | Grid: Day One Edition | 136177 | [136177-grid-day-one-edition.json](./136177-grid-day-one-edition.json) |
+| Grid: Ultimate Edition | 123654 | [123654-grid-ultimate-edition.json](./123654-grid-ultimate-edition.json) |
 | Grid:Locked | 185956 | [185956-grid-locked.json](./185956-grid-locked.json) |
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | Gridball | 68149 | [68149-gridball.json](./68149-gridball.json) |
