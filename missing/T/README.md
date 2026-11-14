@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
 | Tales of Frah'Akin | 309783 | [309783-tales-of-frahakin.json](./309783-tales-of-frahakin.json) |
+| Tales of Gaia | 99841 | [99841-tales-of-gaia.json](./99841-tales-of-gaia.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Glory | 36618 | [36618-tales-of-glory.json](./36618-tales-of-glory.json) |
 | Tales of Glory 2: Retaliation | 170367 | [170367-tales-of-glory-2-retaliation.json](./170367-tales-of-glory-2-retaliation.json) |
@@ -25065,6 +25066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tikal Online | 414559 | [414559-tikal-online.json](./414559-tikal-online.json) |
 | Tiki Boom Boom | 206259 | [206259-tiki-boom-boom.json](./206259-tiki-boom-boom.json) |
 | Tiki Brawl | 147087 | [147087-tiki-brawl.json](./147087-tiki-brawl.json) |
+| Tiki Defense | 99857 | [99857-tiki-defense.json](./99857-tiki-defense.json) |
 | Tiki Galore | 35106 | [35106-tiki-galore.json](./35106-tiki-galore.json) |
 | Tiki Golf 2 | 175229 | [175229-tiki-golf-2.json](./175229-tiki-golf-2.json) |
 | Tiki Kart 3D | 108703 | [108703-tiki-kart-3d.json](./108703-tiki-kart-3d.json) |
@@ -26481,6 +26483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: The Lost Mission | 69620 | [69620-titanic-the-lost-mission.json](./69620-titanic-the-lost-mission.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanic: The Unsinkable | 93650 | [93650-titanic-the-unsinkable.json](./93650-titanic-the-unsinkable.json) |
+| Titanic's Keys to the Past | 99869 | [99869-titanics-keys-to-the-past.json](./99869-titanics-keys-to-the-past.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanis | 35381 | [35381-titanis.json](./35381-titanis.json) |
@@ -29207,6 +29210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
+| Touchgrind BMX 2 | 99835 | [99835-touchgrind-bmx-2.json](./99835-touchgrind-bmx-2.json) |
 | Touchgrind BMX 3: Rivals | 364425 | [364425-touchgrind-bmx-3-rivals.json](./364425-touchgrind-bmx-3-rivals.json) |
 | Touchgrind Scooter | 243313 | [243313-touchgrind-scooter.json](./243313-touchgrind-scooter.json) |
 | Touching Cloth At The End Of Time | 322011 | [322011-touching-cloth-at-the-end-of-time.json](./322011-touching-cloth-at-the-end-of-time.json) |
