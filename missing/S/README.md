@@ -7228,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sgt. Saunders' Combat! | 42368 | [42368-sgt-saunders-combat.json](./42368-sgt-saunders-combat.json) |
 | SgyuinBaldo | 151436 | [151436-sgyuinbaldo.json](./151436-sgyuinbaldo.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
+| SH1-R0 | 145743 | [145743-sh1-r0.json](./145743-sh1-r0.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaark! | 175152 | [175152-shaark.json](./175152-shaark.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
@@ -7918,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: Blood in Roses | 199961 | [199961-shall-we-date-blood-in-roses.json](./199961-shall-we-date-blood-in-roses.json) |
 | Shall we date?: Can't Say No | 225392 | [225392-shall-we-date-cant-say-no.json](./225392-shall-we-date-cant-say-no.json) |
 | Shall we date?: Castle Break | 225452 | [225452-shall-we-date-castle-break.json](./225452-shall-we-date-castle-break.json) |
+| Shall We Date?: Demons' Bond - The Path of Exile | 145724 | [145724-shall-we-date-demons-bond-the-path-of-exile.json](./145724-shall-we-date-demons-bond-the-path-of-exile.json) |
 | Shall We Date?: Destiny Ninja | 181497 | [181497-shall-we-date-destiny-ninja.json](./181497-shall-we-date-destiny-ninja.json) |
 | Shall We Date?: Destiny Ninja 2 | 122928 | [122928-shall-we-date-destiny-ninja-2.json](./122928-shall-we-date-destiny-ninja-2.json) |
 | Shall we date?: Guard Me, Sherlock! | 225667 | [225667-shall-we-date-guard-me-sherlock.json](./225667-shall-we-date-guard-me-sherlock.json) |
@@ -12407,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation World | 157573 | [157573-simulation-world.json](./157573-simulation-world.json) |
 | Simulation Zoo | 97987 | [97987-simulation-zoo.json](./97987-simulation-zoo.json) |
 | Simulation: Catalyst | 309385 | [309385-simulation-catalyst.json](./309385-simulation-catalyst.json) |
+| Simulations Collection | 145112 | [145112-simulations-collection.json](./145112-simulations-collection.json) |
 | Simulator Bundle: Gas Station Simulator and Barn Finders | 265190 | [265190-simulator-bundle-gas-station-simulator-and-barn-finders.json](./265190-simulator-bundle-gas-station-simulator-and-barn-finders.json) |
 | Simulator Countries | 326359 | [326359-simulator-countries.json](./326359-simulator-countries.json) |
 | Simulator gas station | 51414 | [51414-simulator-gas-station.json](./51414-simulator-gas-station.json) |
@@ -19775,6 +19778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
 | Sonic the Hedgehog XA | 370482 | [370482-sonic-the-hedgehog-xa.json](./370482-sonic-the-hedgehog-xa.json) |
 | Sonic the Hedgehog: A New Adventure | 361629 | [361629-sonic-the-hedgehog-a-new-adventure.json](./361629-sonic-the-hedgehog-a-new-adventure.json) |
+| Sonic the Hedgehog: Awakening | 145740 | [145740-sonic-the-hedgehog-awakening.json](./145740-sonic-the-hedgehog-awakening.json) |
 | Sonic the Hedgehog: Blasting Adventure | 317704 | [317704-sonic-the-hedgehog-blasting-adventure.json](./317704-sonic-the-hedgehog-blasting-adventure.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
 | Sonic the Hedgehog: Brutus | 326550 | [326550-sonic-the-hedgehog-brutus.json](./326550-sonic-the-hedgehog-brutus.json) |
@@ -22703,6 +22707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spank It | 270897 | [270897-spank-it.json](./270897-spank-it.json) |
 | Spank The Idle Monkey | 334194 | [334194-spank-the-idle-monkey.json](./334194-spank-the-idle-monkey.json) |
+| Spank the Monkey | 145707 | [145707-spank-the-monkey.json](./145707-spank-the-monkey.json) |
 | Spanker | 241552 | [241552-spanker.json](./241552-spanker.json) |
 | Spanking Exorcist | 409227 | [409227-spanking-exorcist.json](./409227-spanking-exorcist.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
@@ -34369,6 +34374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Glove Ball | 48234 | [48234-super-glove-ball.json](./48234-super-glove-ball.json) |
 | Super Glovekid | 317352 | [317352-super-glovekid.json](./317352-super-glovekid.json) |
 | Super Gloves Hero | 156597 | [156597-super-gloves-hero.json](./156597-super-gloves-hero.json) |
+| Super Glow Puzzle | 145711 | [145711-super-glow-puzzle.json](./145711-super-glow-puzzle.json) |
 | Super Glyph Quest | 60731 | [60731-super-glyph-quest.json](./60731-super-glyph-quest.json) |
 | Super Go-Kart Racing | 264417 | [264417-super-go-kart-racing.json](./264417-super-go-kart-racing.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
@@ -37944,6 +37950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive The Night | 295065 | [295065-survive-the-night.json](./295065-survive-the-night.json) |
 | Survive the Nights | 39279 | [39279-survive-the-nights.json](./39279-survive-the-nights.json) |
 | Survive the Orcs | 236795 | [236795-survive-the-orcs.json](./236795-survive-the-orcs.json) |
+| Survive the Rift | 145748 | [145748-survive-the-rift.json](./145748-survive-the-rift.json) |
 | Survive the Shift | 412736 | [412736-survive-the-shift.json](./412736-survive-the-shift.json) |
 | Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
