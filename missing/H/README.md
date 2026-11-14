@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Penguin 2 | 352530 | [352530-hello-penguin-2.json](./352530-hello-penguin-2.json) |
 | Hello Penguin 2 HD | 137246 | [137246-hello-penguin-2-hd.json](./137246-hello-penguin-2-hd.json) |
 | Hello Penguin 3D | 352549 | [352549-hello-penguin-3d.json](./352549-hello-penguin-3d.json) |
+| Hello Player | 127406 | [127406-hello-player.json](./127406-hello-player.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Princess | 242679 | [242679-hello-princess.json](./242679-hello-princess.json) |
