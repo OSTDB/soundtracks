@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Legends: The Count of New Orleans - Collector's Edition | 228251 | [228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json](./228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json) |
 | Vampire Legends: The True Story of Kisilova | 22131 | [22131-vampire-legends-the-true-story-of-kisilova.json](./22131-vampire-legends-the-true-story-of-kisilova.json) |
 | Vampire Legends: The True Story of Kisilova - Collector’s Edition | 228249 | [228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json](./228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json) |
+| Vampire Legends: The Untold Story of Elizabeth Bathory | 94793 | [94793-vampire-legends-the-untold-story-of-elizabeth-bathory.json](./94793-vampire-legends-the-untold-story-of-elizabeth-bathory.json) |
 | Vampire Legends: The Untold Story of Elizabeth Bathory - Collector's Edition | 228250 | [228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json](./228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json) |
 | Vampire Lollipop | 401004 | [401004-vampire-lollipop.json](./401004-vampire-lollipop.json) |
 | Vampire Love | 268661 | [268661-vampire-love.json](./268661-vampire-love.json) |
@@ -3041,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet | 325547 | [325547-virtual-pet.json](./325547-virtual-pet.json) |
 | Virtual Pet Dinosaur: Pterodactyl | 103990 | [103990-virtual-pet-dinosaur-pterodactyl.json](./103990-virtual-pet-dinosaur-pterodactyl.json) |
+| Virtual Pet Dinosaur: Spinosaurus | 94979 | [94979-virtual-pet-dinosaur-spinosaurus.json](./94979-virtual-pet-dinosaur-spinosaurus.json) |
 | Virtual Pet Dinosaur: Tyrannosaurus Rex | 90341 | [90341-virtual-pet-dinosaur-tyrannosaurus-rex.json](./90341-virtual-pet-dinosaur-tyrannosaurus-rex.json) |
 | Virtual Pet Dinosaur: Velociraptor | 106774 | [106774-virtual-pet-dinosaur-velociraptor.json](./106774-virtual-pet-dinosaur-velociraptor.json) |
 | Virtual Pet Dog | 101434 | [101434-virtual-pet-dog.json](./101434-virtual-pet-dog.json) |
