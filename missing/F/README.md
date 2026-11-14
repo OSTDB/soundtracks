@@ -10871,6 +10871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
 | Forge Shop | 404492 | [404492-forge-shop.json](./404492-forge-shop.json) |
 | Forge Simulator | 302811 | [302811-forge-simulator.json](./302811-forge-simulator.json) |
+| Forge Squad | 157748 | [157748-forge-squad.json](./157748-forge-squad.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
