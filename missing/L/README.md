@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Alien Trilogy | 309209 | [309209-left-4-dead-2-alien-trilogy.json](./309209-left-4-dead-2-alien-trilogy.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
+| Left 4 Dead 2: The Last Stand | 151870 | [151870-left-4-dead-2-the-last-stand.json](./151870-left-4-dead-2-the-last-stand.json) |
 | Left 4 Dead 2: The Sacrifice | 20416 | [20416-left-4-dead-2-the-sacrifice.json](./20416-left-4-dead-2-the-sacrifice.json) |
 | Left 4 Dead: Crash Course | 22887 | [22887-left-4-dead-crash-course.json](./22887-left-4-dead-crash-course.json) |
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
@@ -10537,6 +10538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lull Aby | 121221 | [121221-lull-aby.json](./121221-lull-aby.json) |
 | Lull Away | 184339 | [184339-lull-away.json](./184339-lull-away.json) |
 | Lullabies Made of Static | 389250 | [389250-lullabies-made-of-static.json](./389250-lullabies-made-of-static.json) |
+| Lullaby | 151864 | [151864-lullaby.json](./151864-lullaby.json) |
 | Lullaby | 203654 | [203654-lullaby.json](./203654-lullaby.json) |
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
