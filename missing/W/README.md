@@ -9869,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
 | Would You Rather | 326718 | [326718-would-you-rather.json](./326718-would-you-rather.json) |
+| Would You Rather? For Adults | 108104 | [108104-would-you-rather-for-adults.json](./108104-would-you-rather-for-adults.json) |
 | Would You Rather? For Battle Royale | 106779 | [106779-would-you-rather-for-battle-royale.json](./106779-would-you-rather-for-battle-royale.json) |
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul | 302418 | [302418-would-you-sell-your-soul.json](./302418-would-you-sell-your-soul.json) |
