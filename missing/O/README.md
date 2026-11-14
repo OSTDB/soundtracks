@@ -4674,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orly Kuukou Satsujin Jiken | 251269 | [251269-orly-kuukou-satsujin-jiken.json](./251269-orly-kuukou-satsujin-jiken.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
+| Ormagi Press | 139519 | [139519-ormagi-press.json](./139519-ormagi-press.json) |
 | Ormod: Directive | 378378 | [378378-ormod-directive.json](./378378-ormod-directive.json) |
 | Orms | 396626 | [396626-orms.json](./396626-orms.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
