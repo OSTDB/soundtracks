@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea | 171157 | [171157-pangea.json](./171157-pangea.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
+| Pangea Survival | 145737 | [145737-pangea-survival.json](./145737-pangea-survival.json) |
 | Pangea: Return to Planet Earth | 313601 | [313601-pangea-return-to-planet-earth.json](./313601-pangea-return-to-planet-earth.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
 | Pangeon | 113023 | [113023-pangeon.json](./113023-pangeon.json) |
@@ -8718,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Art | 334426 | [334426-pixel-art.json](./334426-pixel-art.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
+| Pixel Art Coloring Book | 145706 | [145706-pixel-art-coloring-book.json](./145706-pixel-art-coloring-book.json) |
 | Pixel Art Coloring Book 2 | 394280 | [394280-pixel-art-coloring-book-2.json](./394280-pixel-art-coloring-book-2.json) |
 | Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
 | Pixel Art School | 195808 | [195808-pixel-art-school.json](./195808-pixel-art-school.json) |
@@ -11269,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutosis | 275433 | [275433-plutosis.json](./275433-plutosis.json) |
 | Pluvia: Episode I | 170647 | [170647-pluvia-episode-i.json](./170647-pluvia-episode-i.json) |
 | Pluvia: Episode II | 211906 | [211906-pluvia-episode-ii.json](./211906-pluvia-episode-ii.json) |
+| Pluviophile | 145701 | [145701-pluviophile.json](./145701-pluviophile.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | Plylbl | 333977 | [333977-plylbl.json](./333977-plylbl.json) |
 | Plyxo Games | 393446 | [393446-plyxo-games.json](./393446-plyxo-games.json) |
@@ -11579,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Ware 2 | 413384 | [413384-pocket-ware-2.json](./413384-pocket-ware-2.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
+| Pocket Wheels | 145755 | [145755-pocket-wheels.json](./145755-pocket-wheels.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
 | Pocket World 3D | 194120 | [194120-pocket-world-3d.json](./194120-pocket-world-3d.json) |
 | Pocket World: Island of Adventure | 208088 | [208088-pocket-world-island-of-adventure.json](./208088-pocket-world-island-of-adventure.json) |
@@ -15787,6 +15791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime & Load: 1776 | 107470 | [107470-prime-and-load-1776.json](./107470-prime-and-load-1776.json) |
+| Prime 2D | 145726 | [145726-prime-2d.json](./145726-prime-2d.json) |
 | Prime Agents | 309399 | [309399-prime-agents.json](./309399-prime-agents.json) |
 | Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
 | Prime Directive | 212676 | [212676-prime-directive.json](./212676-prime-directive.json) |
