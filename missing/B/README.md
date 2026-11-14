@@ -13593,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokkie | 292360 | [292360-bokkie.json](./292360-bokkie.json) |
 | Bokoron Dungeons | 220296 | [220296-bokoron-dungeons.json](./220296-bokoron-dungeons.json) |
 | Bokosuka Girls: Tatsunoko Gakuen Climax | 60980 | [60980-bokosuka-girls-tatsunoko-gakuen-climax.json](./60980-bokosuka-girls-tatsunoko-gakuen-climax.json) |
+| Bokosuka to Heart | 98097 | [98097-bokosuka-to-heart.json](./98097-bokosuka-to-heart.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Bokosuka Wars | 48540 | [48540-bokosuka-wars.json](./48540-bokosuka-wars.json) |
 | Bokosuka Wars II | 56884 | [56884-bokosuka-wars-ii.json](./56884-bokosuka-wars-ii.json) |
@@ -19555,6 +19556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
 | Bunny Pit Berry | 428373 | [428373-bunny-pit-berry.json](./428373-bunny-pit-berry.json) |
 | Bunny Pit Stop | 369811 | [369811-bunny-pit-stop.json](./369811-bunny-pit-stop.json) |
+| Bunny Poker | 98105 | [98105-bunny-poker.json](./98105-bunny-poker.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Puzzle | 163508 | [163508-bunny-puzzle.json](./163508-bunny-puzzle.json) |
