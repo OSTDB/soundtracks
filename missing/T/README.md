@@ -16755,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purging | 335564 | [335564-the-purging.json](./335564-the-purging.json) |
 | The Purification | 164892 | [164892-the-purification.json](./164892-the-purification.json) |
 | The Purity of the Surf | 71173 | [71173-the-purity-of-the-surf.json](./71173-the-purity-of-the-surf.json) |
+| The Purple Coin | 134747 | [134747-the-purple-coin.json](./134747-the-purple-coin.json) |
 | The Purple Coin: Club Saturn Edition | 381765 | [381765-the-purple-coin-club-saturn-edition.json](./381765-the-purple-coin-club-saturn-edition.json) |
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
 | The Purple Peacock | 378712 | [378712-the-purple-peacock.json](./378712-the-purple-peacock.json) |
@@ -35701,6 +35702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble VR | 18400 | [18400-tumble-vr.json](./18400-tumble-vr.json) |
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
 | Tumblebee | 404477 | [404477-tumblebee.json](./404477-tumblebee.json) |
+| Tumbleblox | 134731 | [134731-tumbleblox.json](./134731-tumbleblox.json) |
 | Tumblebugs | 85908 | [85908-tumblebugs.json](./85908-tumblebugs.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
 | Tumbled | 157742 | [157742-tumbled.json](./157742-tumbled.json) |
