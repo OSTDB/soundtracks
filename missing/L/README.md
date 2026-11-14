@@ -9557,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
 | Love Challenge | 245717 | [245717-love-challenge.json](./245717-love-challenge.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
+| Love Chase | 101802 | [101802-love-chase.json](./101802-love-chase.json) |
 | Love Chemistry: Sibella's Formula | 369526 | [369526-love-chemistry-sibellas-formula.json](./369526-love-chemistry-sibellas-formula.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
