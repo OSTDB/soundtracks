@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltage Vamp | 401927 | [401927-voltage-vamp.json](./401927-voltage-vamp.json) |
 | Voltage: Episode 2 | 170303 | [170303-voltage-episode-2.json](./170303-voltage-episode-2.json) |
 | Voltage: Super Retro | 170188 | [170188-voltage-super-retro.json](./170188-voltage-super-retro.json) |
+| VoltAge:Genesis | 135320 | [135320-voltage-genesis.json](./135320-voltage-genesis.json) |
 | Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
 | Volted | 97025 | [97025-volted.json](./97025-volted.json) |
 | VolticPistol | 127801 | [127801-volticpistol.json](./127801-volticpistol.json) |
