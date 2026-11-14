@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachiakuta: Breakout | 382361 | [382361-gachiakuta-breakout.json](./382361-gachiakuta-breakout.json) |
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
 | Gachimuchi Arcade: Lustful Boys | 113296 | [113296-gachimuchi-arcade-lustful-boys.json](./113296-gachimuchi-arcade-lustful-boys.json) |
+| Gachimuchi Life Simulator | 159383 | [159383-gachimuchi-life-simulator.json](./159383-gachimuchi-life-simulator.json) |
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
 | Gachimuchi Rebirth | 113652 | [113652-gachimuchi-rebirth.json](./113652-gachimuchi-rebirth.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappo's Legacy VR | 55569 | [55569-gappos-legacy-vr.json](./55569-gappos-legacy-vr.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
+| Gaps by Powgi | 159388 | [159388-gaps-by-powgi.json](./159388-gaps-by-powgi.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
 | Garage | 108875 | [108875-garage.json](./108875-garage.json) |
@@ -2803,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geist Heist | 403931 | [403931-geist-heist.json](./403931-geist-heist.json) |
 | Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
+| Geisterland | 159382 | [159382-geisterland.json](./159382-geisterland.json) |
 | Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
@@ -10035,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 2: Spa-Francorchamps Track Pack | 166434 | [166434-grid-2-spa-francorchamps-track-pack.json](./166434-grid-2-spa-francorchamps-track-pack.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
+| Grid Attack | 159369 | [159369-grid-attack.json](./159369-grid-attack.json) |
 | Grid Autosport: Custom Edition | 175499 | [175499-grid-autosport-custom-edition.json](./175499-grid-autosport-custom-edition.json) |
 | Grid Battles | 370427 | [370427-grid-battles.json](./370427-grid-battles.json) |
 | Grid Chasers | 76832 | [76832-grid-chasers.json](./76832-grid-chasers.json) |
