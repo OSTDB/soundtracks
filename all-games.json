@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-14T23:50:55.123Z",
-  "total_soundtracks": 3321,
+  "generated_at": "2026-11-14T23:56:06.029Z",
+  "total_soundtracks": 3323,
   "games": [
     {
       "igdb_id": 7522,
@@ -27151,6 +27151,20 @@
       ]
     },
     {
+      "igdb_id": 225779,
+      "game_name": "R-Type Final 3 Evolved",
+      "game_url": "https://ostdb.net/games/r-type-final-3-evolved",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273afc6150e88b4173df738d23a",
+      "albums": [
+        {
+          "album_name": "R-TYPE FINAL 3 EVOLVED Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/07qD3Dyfi7N7l3T333OHZo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 4076,
       "game_name": "R: Racing Evolution",
       "game_url": "https://ostdb.net/games/r-racing-evolution",
@@ -38959,6 +38973,20 @@
         {
           "album_name": "Trine 4: The Nightmare Prince (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/75nJjVaDH6p2I2FqKvE9TD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 216277,
+      "game_name": "Tron: Identity",
+      "game_url": "https://ostdb.net/games/tron-identity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c8a65d9c5712149d9b44e5c1",
+      "albums": [
+        {
+          "album_name": "TRON: Identity (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0XZJqVjMD58OPei4j2CKDt",
           "apple_music_url": "",
           "album_link_url": ""
         }
