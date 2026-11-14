@@ -3395,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Piñata: Party Animals | 7237 | [7237-viva-pinata-party-animals.json](./7237-viva-pinata-party-animals.json) |
 | Viva Piñata: Pocket Paradise | 21357 | [21357-viva-pinata-pocket-paradise.json](./21357-viva-pinata-pocket-paradise.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
+| Viva Project | 115738 | [115738-viva-project.json](./115738-viva-project.json) |
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
 | Viva Soccer | 47084 | [47084-viva-soccer.json](./47084-viva-soccer.json) |
 | Viva Veloce | 306602 | [306602-viva-veloce.json](./306602-viva-veloce.json) |
@@ -4477,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
 | VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
 | VR Store Simulator | 326321 | [326321-vr-store-simulator.json](./326321-vr-store-simulator.json) |
+| VR Style Brothel of Benefits | 115743 | [115743-vr-style-brothel-of-benefits.json](./115743-vr-style-brothel-of-benefits.json) |
 | VR Summer Sports | 174058 | [174058-vr-summer-sports.json](./174058-vr-summer-sports.json) |
 | VR Super Sports | 125481 | [125481-vr-super-sports.json](./125481-vr-super-sports.json) |
 | VR Super Sports: 10 Edition | 170866 | [170866-vr-super-sports-10-edition.json](./170866-vr-super-sports-10-edition.json) |
