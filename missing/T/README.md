@@ -11534,6 +11534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
+| The Haunted Exmone Theatre | 155727 | [155727-the-haunted-exmone-theatre.json](./155727-the-haunted-exmone-theatre.json) |
 | The Haunted Farm | 274937 | [274937-the-haunted-farm.json](./274937-the-haunted-farm.json) |
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
 | The Haunted Grounds | 190933 | [190933-the-haunted-grounds.json](./190933-the-haunted-grounds.json) |
@@ -13454,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sunshine | 131232 | [131232-the-last-sunshine.json](./131232-the-last-sunshine.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
+| The Last Surface | 155759 | [155759-the-last-surface.json](./155759-the-last-surface.json) |
 | The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
 | The Last Survivor | 113878 | [113878-the-last-survivor.json](./113878-the-last-survivor.json) |
 | The Last Survivors | 101026 | [101026-the-last-survivors.json](./101026-the-last-survivors.json) |
@@ -21656,6 +21658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thexder 95 | 57565 | [57565-thexder-95.json](./57565-thexder-95.json) |
 | Thexder Neo | 42978 | [42978-thexder-neo.json](./42978-thexder-neo.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
+| They All Come Back | 156234 | [156234-they-all-come-back.json](./156234-they-all-come-back.json) |
 | They Always Run | 147190 | [147190-they-always-run.json](./147190-they-always-run.json) |
 | They Always Run: Deluxe Edition | 292927 | [292927-they-always-run-deluxe-edition.json](./292927-they-always-run-deluxe-edition.json) |
 | They Are Adorable | 426604 | [426604-they-are-adorable.json](./426604-they-are-adorable.json) |
@@ -33750,6 +33753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials HD: Big Thrills | 22950 | [22950-trials-hd-big-thrills.json](./22950-trials-hd-big-thrills.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
+| Trials of Argolis | 155733 | [155733-trials-of-argolis.json](./155733-trials-of-argolis.json) |
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
 | Trials of Ashur | 112003 | [112003-trials-of-ashur.json](./112003-trials-of-ashur.json) |
 | Trials of Azra | 32399 | [32399-trials-of-azra.json](./32399-trials-of-azra.json) |
