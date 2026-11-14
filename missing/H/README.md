@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Chronicles: Monsters Among Us - Collector's Edition | 185806 | [185806-halloween-chronicles-monsters-among-us-collectors-edition.json](./185806-halloween-chronicles-monsters-among-us-collectors-edition.json) |
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
+| Halloween Dentist | 106193 | [106193-halloween-dentist.json](./106193-halloween-dentist.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween Filled With Cats | 392558 | [392558-halloween-filled-with-cats.json](./392558-halloween-filled-with-cats.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanging Gardens | 273523 | [273523-hanging-gardens.json](./273523-hanging-gardens.json) |
 | Hanging With Friends | 65346 | [65346-hanging-with-friends.json](./65346-hanging-with-friends.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
+| Hangman | 106204 | [106204-hangman.json](./106204-hangman.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
 | Hangman | 228272 | [228272-hangman.json](./228272-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
@@ -4051,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heaven's Palace | 362725 | [362725-heavens-palace.json](./362725-heavens-palace.json) |
 | Heaven's Paws | 251781 | [251781-heavens-paws.json](./251781-heavens-paws.json) |
+| Heaven's Point | 106815 | [106815-heavens-point.json](./106815-heavens-point.json) |
 | Heaven's Vault | 27509 | [27509-heavens-vault.json](./27509-heavens-vault.json) |
 | Heaven's Voice Feast of Famine | 118023 | [118023-heavens-voice-feast-of-famine.json](./118023-heavens-voice-feast-of-famine.json) |
 | Heaven's Will | 56826 | [56826-heavens-will.json](./56826-heavens-will.json) |
