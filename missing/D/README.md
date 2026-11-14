@@ -12098,6 +12098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted | 150314 | [150314-distorted.json](./150314-distorted.json) |
 | Distorted | 372143 | [372143-distorted.json](./372143-distorted.json) |
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
+| Distorted Illusions | 110450 | [110450-distorted-illusions.json](./110450-distorted-illusions.json) |
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distorted Travesty | 54745 | [54745-distorted-travesty.json](./54745-distorted-travesty.json) |
@@ -12408,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Fight | 276294 | [276294-dizzy-fight.json](./276294-dizzy-fight.json) |
 | Dizzy Fruit | 58916 | [58916-dizzy-fruit.json](./58916-dizzy-fruit.json) |
 | Dizzy Hero | 322664 | [322664-dizzy-hero.json](./322664-dizzy-hero.json) |
+| Dizzy Knight | 110593 | [110593-dizzy-knight.json](./110593-dizzy-knight.json) |
 | Dizzy Panic | 12050 | [12050-dizzy-panic.json](./12050-dizzy-panic.json) |
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
 | Dizzy Sheep Disaster | 122476 | [122476-dizzy-sheep-disaster.json](./122476-dizzy-sheep-disaster.json) |
@@ -16642,6 +16644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon March | 348179 | [348179-dragon-march.json](./348179-dragon-march.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Marked for Death: Frontline Fighters | 147676 | [147676-dragon-marked-for-death-frontline-fighters.json](./147676-dragon-marked-for-death-frontline-fighters.json) |
+| Dragon Master | 110401 | [110401-dragon-master.json](./110401-dragon-master.json) |
 | Dragon Master | 193909 | [193909-dragon-master.json](./193909-dragon-master.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Master | 46780 | [46780-dragon-master.json](./46780-dragon-master.json) |
@@ -17470,6 +17473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
+| Dread of Laughter | 110432 | [110432-dread-of-laughter.json](./110432-dread-of-laughter.json) |
 | Dread or Dead | 418508 | [418508-dread-or-dead.json](./418508-dread-or-dead.json) |
 | Dread Pilots | 252854 | [252854-dread-pilots.json](./252854-dread-pilots.json) |
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
