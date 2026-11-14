@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunashi no Yume | 330298 | [330298-yunashi-no-yume.json](./330298-yunashi-no-yume.json) |
+| Yúnbǎo Dàmàoxiǎn | 155239 | [155239-yunbao-damaoxian.json](./155239-yunbao-damaoxian.json) |
 | Yúndiān | 129644 | [129644-yundian.json](./129644-yundian.json) |
 | Yunduan Zhi Yue | 407846 | [407846-yunduan-zhi-yue.json](./407846-yunduan-zhi-yue.json) |
 | Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
