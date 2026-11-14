@@ -4939,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars: Mars | 99293 | [99293-mars-mars.json](./99293-mars-mars.json) |
 | Mars: The Last Exodus | 333035 | [333035-mars-the-last-exodus.json](./333035-mars-the-last-exodus.json) |
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
+| Mars: Total Warfare | 112393 | [112393-mars-total-warfare.json](./112393-mars-total-warfare.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Mars4 | 266175 | [266175-mars4.json](./266175-mars4.json) |
 | Marsaction: Infinite Ambition | 219870 | [219870-marsaction-infinite-ambition.json](./219870-marsaction-infinite-ambition.json) |
@@ -5043,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
 | Martian Successor Nadesico ~Yappari Saigo ha [Ai ga Katsu] ?~ | 125375 | [125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json](./125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json) |
 | Martian Successor Nadesico: Nadesico the Mission | 125366 | [125366-martian-successor-nadesico-nadesico-the-mission.json](./125366-martian-successor-nadesico-nadesico-the-mission.json) |
+| Martian Successor Nadesico: The Blank of 3 Years | 112556 | [112556-martian-successor-nadesico-the-blank-of-3-years.json](./112556-martian-successor-nadesico-the-blank-of-3-years.json) |
 | Martian Supermarket Sim | 315946 | [315946-martian-supermarket-sim.json](./315946-martian-supermarket-sim.json) |
 | Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
@@ -8870,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Met | 326496 | [326496-mega-met.json](./326496-mega-met.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
 | Mega Mine | 141945 | [141945-mega-mine.json](./141945-mega-mine.json) |
+| Mega Miner | 112405 | [112405-mega-miner.json](./112405-mega-miner.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
@@ -18910,6 +18913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
 | Moreau | 111347 | [111347-moreau.json](./111347-moreau.json) |
+| Morels | 112394 | [112394-morels.json](./112394-morels.json) |
 | Morels: Homestead | 196373 | [196373-morels-homestead.json](./196373-morels-homestead.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
 | Morels: The Hunt | 123905 | [123905-morels-the-hunt.json](./123905-morels-the-hunt.json) |
@@ -22402,6 +22406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cabin | 185291 | [185291-my-cabin.json](./185291-my-cabin.json) |
+| My Cabin and I | 112386 | [112386-my-cabin-and-i.json](./112386-my-cabin-and-i.json) |
 | My Café Manager Simulator | 326462 | [326462-my-cafe-manager-simulator.json](./326462-my-cafe-manager-simulator.json) |
 | My Cafe: Recipes & Stories | 90874 | [90874-my-cafe-recipes-and-stories.json](./90874-my-cafe-recipes-and-stories.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
