@@ -16200,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Gogeta - SSGSS | 165891 | [165891-dragon-ball-fighterz-gogeta-ssgss.json](./165891-dragon-ball-fighterz-gogeta-ssgss.json) |
 | Dragon Ball FighterZ: Gogeta (SS4) | 165886 | [165886-dragon-ball-fighterz-gogeta-ss4.json](./165886-dragon-ball-fighterz-gogeta-ss4.json) |
 | Dragon Ball FighterZ: Goku | 144706 | [144706-dragon-ball-fighterz-goku.json](./144706-dragon-ball-fighterz-goku.json) |
+| Dragon Ball FighterZ: Goku (GT) | 119132 | [119132-dragon-ball-fighterz-goku-gt.json](./119132-dragon-ball-fighterz-goku-gt.json) |
 | Dragon Ball FighterZ: Goku (Ultra Instinct) | 165887 | [165887-dragon-ball-fighterz-goku-ultra-instinct.json](./165887-dragon-ball-fighterz-goku-ultra-instinct.json) |
 | Dragon Ball FighterZ: Janemba | 165890 | [165890-dragon-ball-fighterz-janemba.json](./165890-dragon-ball-fighterz-janemba.json) |
 | Dragon Ball FighterZ: Jiren | 165888 | [165888-dragon-ball-fighterz-jiren.json](./165888-dragon-ball-fighterz-jiren.json) |
@@ -17568,6 +17569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
 | Dream Busters | 192825 | [192825-dream-busters.json](./192825-dream-busters.json) |
+| Dream C Club Complete Edipyon! | 118467 | [118467-dream-c-club-complete-edipyon.json](./118467-dream-c-club-complete-edipyon.json) |
 | Dream C Club Gogo | 62523 | [62523-dream-c-club-gogo.json](./62523-dream-c-club-gogo.json) |
 | Dream C Club: Host Girls on Stage | 62711 | [62711-dream-c-club-host-girls-on-stage.json](./62711-dream-c-club-host-girls-on-stage.json) |
 | Dream Cafe | 271074 | [271074-dream-cafe.json](./271074-dream-cafe.json) |
@@ -18308,6 +18310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Legacy: Extended Edition | 315882 | [315882-drift-legacy-extended-edition.json](./315882-drift-legacy-extended-edition.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
+| Drift Live | 119093 | [119093-drift-live.json](./119093-drift-live.json) |
 | Drift Long Racing | 149783 | [149783-drift-long-racing.json](./149783-drift-long-racing.json) |
 | Drift Long Racing: CyberCity | 247335 | [247335-drift-long-racing-cybercity.json](./247335-drift-long-racing-cybercity.json) |
 | Drift Long Racing: JapaneseCity | 247338 | [247338-drift-long-racing-japanesecity.json](./247338-drift-long-racing-japanesecity.json) |
