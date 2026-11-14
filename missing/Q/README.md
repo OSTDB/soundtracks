@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartz Caverns | 329507 | [329507-quartz-caverns.json](./329507-quartz-caverns.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quarx | 68519 | [68519-quarx.json](./68519-quarx.json) |
+| Quarxon | 92707 | [92707-quarxon.json](./92707-quarxon.json) |
 | Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
 | Quasar | 35085 | [35085-quasar.json](./35085-quasar.json) |
 | Quasar | 95489 | [95489-quasar.json](./95489-quasar.json) |
