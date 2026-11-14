@@ -6348,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
 | Windy Days | 397441 | [397441-windy-days.json](./397441-windy-days.json) |
+| Windy Kingdom | 119822 | [119822-windy-kingdom.json](./119822-windy-kingdom.json) |
 | Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
