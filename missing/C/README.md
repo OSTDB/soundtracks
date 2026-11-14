@@ -5270,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
 | Cats, Coffee, and Love | 279421 | [279421-cats-coffee-and-love.json](./279421-cats-coffee-and-love.json) |
+| Cats: Classic Onet Connect | 161943 | [161943-cats-classic-onet-connect.json](./161943-cats-classic-onet-connect.json) |
 | Cats: Classic Onet Connect - Expansion Pack | 170687 | [170687-cats-classic-onet-connect-expansion-pack.json](./170687-cats-classic-onet-connect-expansion-pack.json) |
 | CATS: Crash Arena Turbo Stars | 55179 | [55179-cats-crash-arena-turbo-stars.json](./55179-cats-crash-arena-turbo-stars.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
