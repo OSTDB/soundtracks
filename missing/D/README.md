@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
 | Dark Runner | 153346 | [153346-dark-runner.json](./153346-dark-runner.json) |
+| Dark Sales | 137737 | [137737-dark-sales.json](./137737-dark-sales.json) |
 | Dark Samurai | 279273 | [279273-dark-samurai.json](./279273-dark-samurai.json) |
 | Dark Samurai Avengers | 298916 | [298916-dark-samurai-avengers.json](./298916-dark-samurai-avengers.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
@@ -4498,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadhaus Sonata | 111333 | [111333-deadhaus-sonata.json](./111333-deadhaus-sonata.json) |
 | Deadhead Angel! | 406389 | [406389-deadhead-angel.json](./406389-deadhead-angel.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
+| Deadheads | 137716 | [137716-deadheads.json](./137716-deadheads.json) |
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
 | DeadHex | 270566 | [270566-deadhex.json](./270566-deadhex.json) |
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
@@ -7560,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
 | Dentist Surgery Game | 93870 | [93870-dentist-surgery-game.json](./93870-dentist-surgery-game.json) |
+| Dentures and Demons | 137722 | [137722-dentures-and-demons.json](./137722-dentures-and-demons.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deo | 288087 | [288087-deo.json](./288087-deo.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
@@ -17218,6 +17221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
 | Draughts | 310988 | [310988-draughts.json](./310988-draughts.json) |
 | Draughts | 379618 | [379618-draughts.json](./379618-draughts.json) |
+| Draughts Genius | 137731 | [137731-draughts-genius.json](./137731-draughts-genius.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
@@ -19087,6 +19091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Bones | 345935 | [345935-dry-bones.json](./345935-dry-bones.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
+| Dry Grass | 137736 | [137736-dry-grass.json](./137736-dry-grass.json) |
 | Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
 | Dry Meadow | 393173 | [393173-dry-meadow.json](./393173-dry-meadow.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
@@ -19121,6 +19126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Kokoro Nurie | 220849 | [220849-ds-kokoro-nurie.json](./220849-ds-kokoro-nurie.json) |
 | DS Motte Tabi ni Deyo: Kyoto | 269711 | [269711-ds-motte-tabi-ni-deyo-kyoto.json](./269711-ds-motte-tabi-ni-deyo-kyoto.json) |
 | DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana | 71898 | [71898-ds-nishimura-kyotaro-suspense-shin-tantei-series-kyoto-atami-zekkai-no-kotou-satsui-no-wana.json](./71898-ds-nishimura-kyotaro-suspense-shin-tantei-series-kyoto-atami-zekkai-no-kotou-satsui-no-wana.json) |
+| DS Nishimura Kyoutarou Suspense 2: Shin Tantei Series | 137723 | [137723-ds-nishimura-kyoutarou-suspense-2-shin-tantei-series.json](./137723-ds-nishimura-kyoutarou-suspense-2-shin-tantei-series.json) |
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DS Puzzler: Nanpure Fan & Oekaki Logic - Wi-Fi Taiou | 269709 | [269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json](./269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json) |
@@ -21342,6 +21348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Feud: The Night Party | 171406 | [171406-dynasty-feud-the-night-party.json](./171406-dynasty-feud-the-night-party.json) |
 | Dynasty Heroes: Romance Samkok | 194061 | [194061-dynasty-heroes-romance-samkok.json](./194061-dynasty-heroes-romance-samkok.json) |
 | Dynasty Legends 2 | 194048 | [194048-dynasty-legends-2.json](./194048-dynasty-legends-2.json) |
+| Dynasty Legends: True Hero Rises from Chaos | 137728 | [137728-dynasty-legends-true-hero-rises-from-chaos.json](./137728-dynasty-legends-true-hero-rises-from-chaos.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty of Egypt | 53975 | [53975-dynasty-of-egypt.json](./53975-dynasty-of-egypt.json) |
 | Dynasty of Shadows | 251131 | [251131-dynasty-of-shadows.json](./251131-dynasty-of-shadows.json) |
