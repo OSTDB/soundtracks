@@ -11055,6 +11055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lúnhuí Xiūzhēn OL | 163890 | [163890-lunhui-xiuzhen-ol.json](./163890-lunhui-xiuzhen-ol.json) |
 | Lunia Record | 304511 | [304511-lunia-record.json](./304511-lunia-record.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
+| Lunia: Record of Lunia War | 78769 | [78769-lunia-record-of-lunia-war.json](./78769-lunia-record-of-lunia-war.json) |
 | Lunic: Possession | 289049 | [289049-lunic-possession.json](./289049-lunic-possession.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunio | 384486 | [384486-lunio.json](./384486-lunio.json) |
