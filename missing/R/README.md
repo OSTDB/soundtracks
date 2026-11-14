@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Jumping DX | 344478 | [344478-rabbit-jumping-dx.json](./344478-rabbit-jumping-dx.json) |
 | Rabbit Knight | 205598 | [205598-rabbit-knight.json](./205598-rabbit-knight.json) |
 | Rabbit Meadow | 190822 | [190822-rabbit-meadow.json](./190822-rabbit-meadow.json) |
+| Rabbit of Destiny | 107468 | [107468-rabbit-of-destiny.json](./107468-rabbit-of-destiny.json) |
 | Rabbit on Skateboard | 312206 | [312206-rabbit-on-skateboard.json](./312206-rabbit-on-skateboard.json) |
 | Rabbit Punch | 64330 | [64330-rabbit-punch.json](./64330-rabbit-punch.json) |
 | Rabbit Rabbit UFO | 279025 | [279025-rabbit-rabbit-ufo.json](./279025-rabbit-rabbit-ufo.json) |
