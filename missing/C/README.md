@@ -11043,6 +11043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Kong | 134306 | [134306-classic-kong.json](./134306-classic-kong.json) |
 | Classic Logical Bundle | 169545 | [169545-classic-logical-bundle.json](./169545-classic-logical-bundle.json) |
+| Classic Mahjong | 99859 | [99859-classic-mahjong.json](./99859-classic-mahjong.json) |
 | Classic Marathon | 300567 | [300567-classic-marathon.json](./300567-classic-marathon.json) |
 | Classic Marathon 2 | 300571 | [300571-classic-marathon-2.json](./300571-classic-marathon-2.json) |
 | Classic Marathon Infinity | 300572 | [300572-classic-marathon-infinity.json](./300572-classic-marathon-infinity.json) |
@@ -11834,6 +11835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Encounters of the Worst Kind | 64815 | [64815-close-encounters-of-the-worst-kind.json](./64815-close-encounters-of-the-worst-kind.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
+| Close Line | 99842 | [99842-close-line.json](./99842-close-line.json) |
 | Close Me | 51579 | [51579-close-me.json](./51579-close-me.json) |
 | Close Order | 34917 | [34917-close-order.json](./34917-close-order.json) |
 | Close Quarters | 277709 | [277709-close-quarters.json](./277709-close-quarters.json) |
@@ -13656,6 +13658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Dogs MAX | 89717 | [89717-coloring-book-dogs-max.json](./89717-coloring-book-dogs-max.json) |
 | Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
+| Coloring Book - Halloween MAX | 99856 | [99856-coloring-book-halloween-max.json](./99856-coloring-book-halloween-max.json) |
 | Coloring Book - Monsters | 89789 | [89789-coloring-book-monsters.json](./89789-coloring-book-monsters.json) |
 | Coloring Book - Santa | 89029 | [89029-coloring-book-santa.json](./89029-coloring-book-santa.json) |
 | Coloring Book - Sports | 90772 | [90772-coloring-book-sports.json](./90772-coloring-book-sports.json) |
