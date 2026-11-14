@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A One Rabbit Open Slay | 261000 | [261000-a-one-rabbit-open-slay.json](./261000-a-one-rabbit-open-slay.json) |
 | A Package for Space | 347956 | [347956-a-package-for-space.json](./347956-a-package-for-space.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
+| A Painter's Tale: Curon, 1950 | 143159 | [143159-a-painters-tale-curon-1950.json](./143159-a-painters-tale-curon-1950.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
 | A Palace for Fools | 182075 | [182075-a-palace-for-fools.json](./182075-a-palace-for-fools.json) |
 | A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
@@ -10145,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Eternity, Reflecting | 382243 | [382243-an-eternity-reflecting.json](./382243-an-eternity-reflecting.json) |
 | An Evening of Wonders | 258941 | [258941-an-evening-of-wonders.json](./258941-an-evening-of-wonders.json) |
 | An evening stroll | 183938 | [183938-an-evening-stroll.json](./183938-an-evening-stroll.json) |
+| An Evening's Entertainment | 143146 | [143146-an-evenings-entertainment.json](./143146-an-evenings-entertainment.json) |
 | An Everyday Story | 235642 | [235642-an-everyday-story.json](./235642-an-everyday-story.json) |
 | An Evil Existence | 140953 | [140953-an-evil-existence.json](./140953-an-evil-existence.json) |
 | An Exorcism | 375556 | [375556-an-exorcism.json](./375556-an-exorcism.json) |
