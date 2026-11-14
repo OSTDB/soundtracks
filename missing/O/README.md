@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
 | One Night: Young Bride for One Night | 341602 | [341602-one-night-young-bride-for-one-night.json](./341602-one-night-young-bride-for-one-night.json) |
 | One Ocean: Online | 60845 | [60845-one-ocean-online.json](./60845-one-ocean-online.json) |
+| One of | 132326 | [132326-one-of.json](./132326-one-of.json) |
 | One of 500 | 141637 | [141637-one-of-500.json](./141637-one-of-500.json) |
 | One of a Kind | 325551 | [325551-one-of-a-kind.json](./325551-one-of-a-kind.json) |
 | One of Everything | 401471 | [401471-one-of-everything.json](./401471-one-of-everything.json) |
