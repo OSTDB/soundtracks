@@ -167,8 +167,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Undisputed | 207088 | [207088-yakuza-undisputed.json](./207088-yakuza-undisputed.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon - Day One Edition | 136196 | [136196-yakuza-like-a-dragon-day-one-edition.json](./136196-yakuza-like-a-dragon-day-one-edition.json) |
+| Yakuza: Like a Dragon - Hero Edition | 136492 | [136492-yakuza-like-a-dragon-hero-edition.json](./136492-yakuza-like-a-dragon-hero-edition.json) |
 | Yakuza: Like a Dragon - Job Set | 156200 | [156200-yakuza-like-a-dragon-job-set.json](./156200-yakuza-like-a-dragon-job-set.json) |
 | Yakuza: Like a Dragon - Karaoke Set | 259523 | [259523-yakuza-like-a-dragon-karaoke-set.json](./259523-yakuza-like-a-dragon-karaoke-set.json) |
+| Yakuza: Like a Dragon - Legendary Hero Edition | 136493 | [136493-yakuza-like-a-dragon-legendary-hero-edition.json](./136493-yakuza-like-a-dragon-legendary-hero-edition.json) |
 | Yakuza: Like a Dragon - Legends Costume Set | 318035 | [318035-yakuza-like-a-dragon-legends-costume-set.json](./318035-yakuza-like-a-dragon-legends-costume-set.json) |
 | Yakuza: Like a Dragon - Limited Edition | 386271 | [386271-yakuza-like-a-dragon-limited-edition.json](./386271-yakuza-like-a-dragon-limited-edition.json) |
 | Yakuza: Like a Dragon - Management Mode Set | 259521 | [259521-yakuza-like-a-dragon-management-mode-set.json](./259521-yakuza-like-a-dragon-management-mode-set.json) |
