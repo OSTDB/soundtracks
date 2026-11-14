@@ -7698,7 +7698,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines 2 | 117082 | [117082-beyond-enemy-lines-2.json](./117082-beyond-enemy-lines-2.json) |
 | Beyond Enemy Lines 2 Online | 128112 | [128112-beyond-enemy-lines-2-online.json](./128112-beyond-enemy-lines-2-online.json) |
+| Beyond Enemy Lines 2: Burning Sand | 164535 | [164535-beyond-enemy-lines-2-burning-sand.json](./164535-beyond-enemy-lines-2-burning-sand.json) |
+| Beyond Enemy Lines 2: Covert Strike | 164530 | [164530-beyond-enemy-lines-2-covert-strike.json](./164530-beyond-enemy-lines-2-covert-strike.json) |
 | Beyond Enemy Lines 2: Enhanced Edition | 242371 | [242371-beyond-enemy-lines-2-enhanced-edition.json](./242371-beyond-enemy-lines-2-enhanced-edition.json) |
+| Beyond Enemy Lines 2: God | 164536 | [164536-beyond-enemy-lines-2-god.json](./164536-beyond-enemy-lines-2-god.json) |
+| Beyond Enemy Lines 2: Harbor | 164532 | [164532-beyond-enemy-lines-2-harbor.json](./164532-beyond-enemy-lines-2-harbor.json) |
+| Beyond Enemy Lines 2: Homecoming | 164537 | [164537-beyond-enemy-lines-2-homecoming.json](./164537-beyond-enemy-lines-2-homecoming.json) |
+| Beyond Enemy Lines 2: Military Airfield | 164533 | [164533-beyond-enemy-lines-2-military-airfield.json](./164533-beyond-enemy-lines-2-military-airfield.json) |
+| Beyond Enemy Lines 2: Stronghold | 164531 | [164531-beyond-enemy-lines-2-stronghold.json](./164531-beyond-enemy-lines-2-stronghold.json) |
+| Beyond Enemy Lines 2: Tank Base | 164534 | [164534-beyond-enemy-lines-2-tank-base.json](./164534-beyond-enemy-lines-2-tank-base.json) |
 | Beyond Enemy Lines: Covert Operations | 115467 | [115467-beyond-enemy-lines-covert-operations.json](./115467-beyond-enemy-lines-covert-operations.json) |
 | Beyond Enemy Lines: Essentials | 147869 | [147869-beyond-enemy-lines-essentials.json](./147869-beyond-enemy-lines-essentials.json) |
 | Beyond Enemy Lines: Operation - Arctic Hawk | 170165 | [170165-beyond-enemy-lines-operation-arctic-hawk.json](./170165-beyond-enemy-lines-operation-arctic-hawk.json) |
