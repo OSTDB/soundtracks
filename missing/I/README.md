@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iggy's Zombie A-Pug-Alypse | 53152 | [53152-iggys-zombie-a-pug-alypse.json](./53152-iggys-zombie-a-pug-alypse.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | IgKnight Food Fight | 113535 | [113535-igknight-food-fight.json](./113535-igknight-food-fight.json) |
+| IgKnight Golf Defender | 115940 | [115940-igknight-golf-defender.json](./115940-igknight-golf-defender.json) |
 | Iglacia | 273295 | [273295-iglacia.json](./273295-iglacia.json) |
 | Ignarus | 27507 | [27507-ignarus.json](./27507-ignarus.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
