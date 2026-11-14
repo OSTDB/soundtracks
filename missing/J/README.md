@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter's Orbit | 374248 | [374248-jupiters-orbit.json](./374248-jupiters-orbit.json) |
 | Jupiteration | 29483 | [29483-jupiteration.json](./29483-jupiteration.json) |
 | Jupitron Game Collection Vol. 4: Middleware | 198481 | [198481-jupitron-game-collection-vol-4-middleware.json](./198481-jupitron-game-collection-vol-4-middleware.json) |
+| Jupitron Game Collection Vol.1 | 134704 | [134704-jupitron-game-collection-vol-1.json](./134704-jupitron-game-collection-vol-1.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Jura Formula | 245672 | [245672-jura-formula.json](./245672-jura-formula.json) |
 | Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
