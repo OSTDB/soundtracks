@@ -7146,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bike: Moto Ride Simulator | 288163 | [288163-the-bike-moto-ride-simulator.json](./288163-the-bike-moto-ride-simulator.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
+| The Billiards | 122440 | [122440-the-billiards.json](./122440-the-billiards.json) |
 | The Billion Clicker | 387596 | [387596-the-billion-clicker.json](./387596-the-billion-clicker.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding Hour | 346909 | [346909-the-binding-hour.json](./346909-the-binding-hour.json) |
@@ -8057,6 +8058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
 | The Climber | 52069 | [52069-the-climber.json](./52069-the-climber.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
+| The Clique: Diss and Make-Up | 122439 | [122439-the-clique-diss-and-make-up.json](./122439-the-clique-diss-and-make-up.json) |
 | The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
 | The Clock the Queen and the Door on the Beach | 416285 | [416285-the-clock-the-queen-and-the-door-on-the-beach.json](./416285-the-clock-the-queen-and-the-door-on-the-beach.json) |
@@ -8345,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cowlitz Gamers Adventure | 241673 | [241673-the-cowlitz-gamers-adventure.json](./241673-the-cowlitz-gamers-adventure.json) |
+| The Cowlitz Gamers' 2nd Adventure | 122455 | [122455-the-cowlitz-gamers-2nd-adventure.json](./122455-the-cowlitz-gamers-2nd-adventure.json) |
 | The Cows Are Watching | 30313 | [30313-the-cows-are-watching.json](./30313-the-cows-are-watching.json) |
 | The Coyote Kills The Road Runner! | 327514 | [327514-the-coyote-kills-the-road-runner.json](./327514-the-coyote-kills-the-road-runner.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
