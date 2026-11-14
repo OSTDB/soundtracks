@@ -13220,6 +13220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 231538 | [231538-the-last-journey.json](./231538-the-last-journey.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
+| The Last Journey: 19 Shengli Road | 165804 | [165804-the-last-journey-19-shengli-road.json](./165804-the-last-journey-19-shengli-road.json) |
 | The Last Joy | 384309 | [384309-the-last-joy.json](./384309-the-last-joy.json) |
 | The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
 | The Last Kich Of Us | 395050 | [395050-the-last-kich-of-us.json](./395050-the-last-kich-of-us.json) |
@@ -14864,6 +14865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mapwich | 260994 | [260994-the-mapwich.json](./260994-the-mapwich.json) |
 | The Mapwich 2: The Mapwichening | 260995 | [260995-the-mapwich-2-the-mapwichening.json](./260995-the-mapwich-2-the-mapwichening.json) |
 | The Mara Witch | 296413 | [296413-the-mara-witch.json](./296413-the-mara-witch.json) |
+| The Maracot Deep | 165785 | [165785-the-maracot-deep.json](./165785-the-maracot-deep.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Marble Princess Had Secrets | 419080 | [419080-the-marble-princess-had-secrets.json](./419080-the-marble-princess-had-secrets.json) |
