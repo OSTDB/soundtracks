@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
 | Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
 | Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
+| Magic defense 2: The Return of the Legend | 165794 | [165794-magic-defense-2-the-return-of-the-legend.json](./165794-magic-defense-2-the-return-of-the-legend.json) |
 | Magic Destiny | 63519 | [63519-magic-destiny.json](./63519-magic-destiny.json) |
 | Magic Disc Golf | 189309 | [189309-magic-disc-golf.json](./189309-magic-disc-golf.json) |
 | Magic Dodgeball: Homeless Edition | 361875 | [361875-magic-dodgeball-homeless-edition.json](./361875-magic-dodgeball-homeless-edition.json) |
@@ -10772,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Genesis: Rogue Regime | 346533 | [346533-metal-genesis-rogue-regime.json](./346533-metal-genesis-rogue-regime.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
+| Metal Golem: First Contact | 165798 | [165798-metal-golem-first-contact.json](./165798-metal-golem-first-contact.json) |
 | Metal Goose | 388948 | [388948-metal-goose.json](./388948-metal-goose.json) |
 | Metal Gun III: Shout of the Arms | 340025 | [340025-metal-gun-iii-shout-of-the-arms.json](./340025-metal-gun-iii-shout-of-the-arms.json) |
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
