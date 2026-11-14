@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caelum: Into the Sky | 91202 | [91202-caelum-into-the-sky.json](./91202-caelum-into-the-sky.json) |
 | Caelum: Into the Sky Vol. 1 | 40523 | [40523-caelum-into-the-sky-vol-1.json](./40523-caelum-into-the-sky-vol-1.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
+| Caelus Trident | 116509 | [116509-caelus-trident.json](./116509-caelus-trident.json) |
 | Caemdale | 369492 | [369492-caemdale.json](./369492-caemdale.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Bubbles | 106883 | [106883-caesar-bubbles.json](./106883-caesar-bubbles.json) |
@@ -12548,6 +12549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Red | 292455 | [292455-code-red.json](./292455-code-red.json) |
 | Code Rivals | 211126 | [211126-code-rivals.json](./211126-code-rivals.json) |
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
+| Code S-44 : Episode 1 | 117207 | [117207-code-s-44-episode-1.json](./117207-code-s-44-episode-1.json) |
 | Code Shifter | 128062 | [128062-code-shifter.json](./128062-code-shifter.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
 | Code Trainer | 338871 | [338871-code-trainer.json](./338871-code-trainer.json) |
