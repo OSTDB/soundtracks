@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Reality: Lost Secrets of the Forest Collector's Edition | 197290 | [197290-edge-of-reality-lost-secrets-of-the-forest-collectors-edition.json](./197290-edge-of-reality-lost-secrets-of-the-forest-collectors-edition.json) |
 | Edge of Reality: Mark of Fate | 187904 | [187904-edge-of-reality-mark-of-fate.json](./187904-edge-of-reality-mark-of-fate.json) |
 | Edge of Reality: Mark of Fate - Collector's Edition | 397147 | [397147-edge-of-reality-mark-of-fate-collectors-edition.json](./397147-edge-of-reality-mark-of-fate-collectors-edition.json) |
+| Edge of Reality: Ring of Destiny | 93841 | [93841-edge-of-reality-ring-of-destiny.json](./93841-edge-of-reality-ring-of-destiny.json) |
 | Edge of Reality: Ring of Destiny - Collector's Edition | 397139 | [397139-edge-of-reality-ring-of-destiny-collectors-edition.json](./397139-edge-of-reality-ring-of-destiny-collectors-edition.json) |
 | Edge of Reality: The Legend of Greenbush | 397151 | [397151-edge-of-reality-the-legend-of-greenbush.json](./397151-edge-of-reality-the-legend-of-greenbush.json) |
 | Edge of Reality: The Legend of Greenbush Collector's Edition | 339726 | [339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json](./339726-edge-of-reality-the-legend-of-greenbush-collectors-edition.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
 | Elo Hell: Episodes 1-5 | 174429 | [174429-elo-hell-episodes-1-5.json](./174429-elo-hell-episodes-1-5.json) |
+| Elo Rating Chess | 93883 | [93883-elo-rating-chess.json](./93883-elo-rating-chess.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
 | Eloh | 123674 | [123674-eloh.json](./123674-eloh.json) |
