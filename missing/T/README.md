@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptation | 93800 | [93800-temptation.json](./93800-temptation.json) |
+| Temptation 2 | 97557 | [97557-temptation-2.json](./97557-temptation-2.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Tempus | 192223 | [192223-tempus.json](./192223-tempus.json) |
@@ -10914,7 +10915,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
 | The Game of Life Vacations | 120509 | [120509-the-game-of-life-vacations.json](./120509-the-game-of-life-vacations.json) |
 | The Game of Life: DX Jinsei Game | 93455 | [93455-the-game-of-life-dx-jinsei-game.json](./93455-the-game-of-life-dx-jinsei-game.json) |
+| The Game of Life: DX Jinsei Game II | 97571 | [97571-the-game-of-life-dx-jinsei-game-ii.json](./97571-the-game-of-life-dx-jinsei-game-ii.json) |
 | The Game of Life: DX Jinsei Game III | 364764 | [364764-the-game-of-life-dx-jinsei-game-iii.json](./364764-the-game-of-life-dx-jinsei-game-iii.json) |
+| The Game of Life: Jinsei Game | 97572 | [97572-the-game-of-life-jinsei-game.json](./97572-the-game-of-life-jinsei-game.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
@@ -14962,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Malice Kingdom | 250709 | [250709-the-malice-kingdom.json](./250709-the-malice-kingdom.json) |
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
+| The Man Called Crimson: Episode I - Girl of Quantum Computer | 97542 | [97542-the-man-called-crimson-episode-i-girl-of-quantum-computer.json](./97542-the-man-called-crimson-episode-i-girl-of-quantum-computer.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man Came Around | 148730 | [148730-the-man-came-around.json](./148730-the-man-came-around.json) |
 | The Man From Fugue State | 171847 | [171847-the-man-from-fugue-state.json](./171847-the-man-from-fugue-state.json) |
@@ -29805,6 +29809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Toward the Moon | 288577 | [288577-toward-the-moon.json](./288577-toward-the-moon.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
+| Towards Gold and Glory | 97006 | [97006-towards-gold-and-glory.json](./97006-towards-gold-and-glory.json) |
 | Towards the Enduring Light | 131712 | [131712-towards-the-enduring-light.json](./131712-towards-the-enduring-light.json) |
 | Towards the Light | 407512 | [407512-towards-the-light.json](./407512-towards-the-light.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
@@ -32051,6 +32056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrainFormation | 213204 | [213204-trainformation.json](./213204-trainformation.json) |
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
 | Trainiac | 100634 | [100634-trainiac.json](./100634-trainiac.json) |
+| Training Agent | 97540 | [97540-training-agent.json](./97540-training-agent.json) |
 | Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
 | Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
 | Training Grounds | 169489 | [169489-training-grounds.json](./169489-training-grounds.json) |
