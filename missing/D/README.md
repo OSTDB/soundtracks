@@ -7293,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
 | Demoneye-X | 40311 | [40311-demoneye-x.json](./40311-demoneye-x.json) |
+| Demonfear | 144407 | [144407-demonfear.json](./144407-demonfear.json) |
 | Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
@@ -8848,6 +8849,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutsch Pfiffikus 2 - 1995 | 91635 | [91635-deutsch-pfiffikus-2-1995.json](./91635-deutsch-pfiffikus-2-1995.json) |
 | Deutsch Pfiffikus 2009 | 91621 | [91621-deutsch-pfiffikus-2009.json](./91621-deutsch-pfiffikus-2009.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
+| Deutschlands Brettspiele | 144427 | [144427-deutschlands-brettspiele.json](./144427-deutschlands-brettspiele.json) |
+| Deutschlands Kartenspiele | 144428 | [144428-deutschlands-kartenspiele.json](./144428-deutschlands-kartenspiele.json) |
 | Dev Guy | 35720 | [35720-dev-guy.json](./35720-dev-guy.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Dev_Hell | 244583 | [244583-dev-hell.json](./244583-dev-hell.json) |
@@ -18513,10 +18516,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver Simulator Life | 245211 | [245211-driver-simulator-life.json](./245211-driver-simulator-life.json) |
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
+| Driver: L.A. Undercover | 144433 | [144433-driver-l-a-undercover.json](./144433-driver-l-a-undercover.json) |
 | Driver: Renegade | 6758 | [6758-driver-renegade.json](./6758-driver-renegade.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
 | Driver: San Francisco - Deluxe Edition | 24710 | [24710-driver-san-francisco-deluxe-edition.json](./24710-driver-san-francisco-deluxe-edition.json) |
 | Driver: Speedboat Paradise | 60464 | [60464-driver-speedboat-paradise.json](./60464-driver-speedboat-paradise.json) |
+| Driver: Vegas | 144431 | [144431-driver-vegas.json](./144431-driver-vegas.json) |
 | Driver's Dread! | 311689 | [311689-drivers-dread.json](./311689-drivers-dread.json) |
 | Driver's Edge | 39825 | [39825-drivers-edge.json](./39825-drivers-edge.json) |
 | Driver's Education '98 | 69331 | [69331-drivers-education-98.json](./69331-drivers-education-98.json) |
