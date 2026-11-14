@@ -2043,7 +2043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America: Sentinel of Liberty | 65603 | [65603-captain-america-sentinel-of-liberty.json](./65603-captain-america-sentinel-of-liberty.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
 | Captain America: Super Soldier | 248739 | [248739-captain-america-super-soldier.json](./248739-captain-america-super-soldier.json) |
-| Captain America: Super Soldier | 248740 | [248740-captain-america-super-soldier.json](./248740-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 4745 | [4745-captain-america-super-soldier.json](./4745-captain-america-super-soldier.json) |
 | Captain Backwater | 54870 | [54870-captain-backwater.json](./54870-captain-backwater.json) |
 | Captain Barrel | 320453 | [320453-captain-barrel.json](./320453-captain-barrel.json) |
@@ -5619,7 +5618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Escape | 30878 | [30878-cavern-escape.json](./30878-cavern-escape.json) |
 | Cavern Fighter | 69706 | [69706-cavern-fighter.json](./69706-cavern-fighter.json) |
 | Cavern Kings | 7874 | [7874-cavern-kings.json](./7874-cavern-kings.json) |
-| Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
 | Cavern Sweeper | 328334 | [328334-cavern-sweeper.json](./328334-cavern-sweeper.json) |
 | Caverna | 372829 | [372829-caverna.json](./372829-caverna.json) |
@@ -21735,7 +21733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cufflinks & Cages | 275872 | [275872-cufflinks-and-cages.json](./275872-cufflinks-and-cages.json) |
 | Cuisine Dimension | 112049 | [112049-cuisine-dimension.json](./112049-cuisine-dimension.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
-| Cuisineer | 211330 | [211330-cuisineer.json](./211330-cuisineer.json) |
 | Cuit | 28331 | [28331-cuit.json](./28331-cuit.json) |
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Cul-De-Sac | 288989 | [288989-cul-de-sac.json](./288989-cul-de-sac.json) |
