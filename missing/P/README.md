@@ -5320,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet City 2 | 356731 | [356731-pet-city-2.json](./356731-pet-city-2.json) |
 | Pet Clinic Simulator | 320372 | [320372-pet-clinic-simulator.json](./320372-pet-clinic-simulator.json) |
 | Pet Club: Inu Dai Suki! | 46296 | [46296-pet-club-inu-dai-suki.json](./46296-pet-club-inu-dai-suki.json) |
+| Pet Connect | 138870 | [138870-pet-connect.json](./138870-pet-connect.json) |
 | Pet Crossing | 310034 | [310034-pet-crossing.json](./310034-pet-crossing.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dentist Office | 87539 | [87539-pet-dentist-office.json](./87539-pet-dentist-office.json) |
@@ -11204,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Struck | 196919 | [196919-plunder-struck.json](./196919-plunder-struck.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
+| Plunderdome | 138875 | [138875-plunderdome.json](./138875-plunderdome.json) |
 | Plundered Hearts | 12621 | [12621-plundered-hearts.json](./12621-plundered-hearts.json) |
 | Plunderer's Adventures | 192074 | [192074-plunderers-adventures.json](./192074-plunderers-adventures.json) |
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
@@ -12549,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
 | Pokémon Race Mini | 91823 | [91823-pokemon-race-mini.json](./91823-pokemon-race-mini.json) |
+| Pokémon Radical Red | 138847 | [138847-pokemon-radical-red.json](./138847-pokemon-radical-red.json) |
 | Pokémon Ranger | 14606 | [14606-pokemon-ranger.json](./14606-pokemon-ranger.json) |
 | Pokémon Ranger Star | 387058 | [387058-pokemon-ranger-star.json](./387058-pokemon-ranger-star.json) |
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
