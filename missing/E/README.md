@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eonheart | 309738 | [309738-eonheart.json](./309738-eonheart.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonia Revelations | 259172 | [259172-eonia-revelations.json](./259172-eonia-revelations.json) |
+| Eonica Chess Battle | 137176 | [137176-eonica-chess-battle.json](./137176-eonica-chess-battle.json) |
 | Eons Away | 294411 | [294411-eons-away.json](./294411-eons-away.json) |
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
 | Eons of War | 110661 | [110661-eons-of-war.json](./110661-eons-of-war.json) |
@@ -7856,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
+| Evil Bane | 137711 | [137711-evil-bane.json](./137711-evil-bane.json) |
 | Evil behind the shadows | 126278 | [126278-evil-behind-the-shadows.json](./126278-evil-behind-the-shadows.json) |
 | Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
 | Evil Beneath | 288957 | [288957-evil-beneath.json](./288957-evil-beneath.json) |
@@ -8992,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | External | 370013 | [370013-external.json](./370013-external.json) |
 | External-Dimension: Mainframe | 224896 | [224896-external-dimension-mainframe.json](./224896-external-dimension-mainframe.json) |
+| Externus: Path of the Solari | 137167 | [137167-externus-path-of-the-solari.json](./137167-externus-path-of-the-solari.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
 | eXtinction | 221978 | [221978-extinction.json](./221978-extinction.json) |
