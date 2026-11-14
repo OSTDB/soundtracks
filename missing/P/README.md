@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare 3: Girl Werewolf Hamlet Absolutely Solves the War of the Roses | 398033 | [398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json](./398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Shakespeare: Modern Warfare | 120681 | [120681-paper-shakespeare-modern-warfare.json](./120681-paper-shakespeare-modern-warfare.json) |
+| Paper Shakespeare: Stick Julius Caesar (With a Dagger) | 105449 | [105449-paper-shakespeare-stick-julius-caesar-with-a-dagger.json](./105449-paper-shakespeare-stick-julius-caesar-with-a-dagger.json) |
 | Paper Shakespeare: Stick Julius Caesar (With a Dagger) - War on Xmas | 156179 | [156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json](./156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json) |
 | Paper Shakespeare: Stick Merchant of Venice | 99285 | [99285-paper-shakespeare-stick-merchant-of-venice.json](./99285-paper-shakespeare-stick-merchant-of-venice.json) |
 | Paper Shakespeare: The Legend of Rainbow Hollow | 118256 | [118256-paper-shakespeare-the-legend-of-rainbow-hollow.json](./118256-paper-shakespeare-the-legend-of-rainbow-hollow.json) |
@@ -20637,6 +20638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles and Pieces | 304081 | [304081-puzzles-and-pieces.json](./304081-puzzles-and-pieces.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
+| Puzzles By Axis Hyper | 104923 | [104923-puzzles-by-axis-hyper.json](./104923-puzzles-by-axis-hyper.json) |
 | Puzzles Dino | 414501 | [414501-puzzles-dino.json](./414501-puzzles-dino.json) |
 | Puzzles For Clef | 190917 | [190917-puzzles-for-clef.json](./190917-puzzles-for-clef.json) |
 | Puzzles for kids - Animal Puzzles | 93702 | [93702-puzzles-for-kids-animal-puzzles.json](./93702-puzzles-for-kids-animal-puzzles.json) |
