@@ -3552,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump Lover | 239630 | [239630-jump-lover.json](./239630-jump-lover.json) |
 | Jump Malcolm Jump | 265344 | [265344-jump-malcolm-jump.json](./265344-jump-malcolm-jump.json) |
+| Jump Man | 164545 | [164545-jump-man.json](./164545-jump-man.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
 | Jump Mechanic | 258113 | [258113-jump-mechanic.json](./258113-jump-mechanic.json) |
 | Jump Movement | 190779 | [190779-jump-movement.json](./190779-jump-movement.json) |
