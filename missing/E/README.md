@@ -5564,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esc Ape, You Died? | 423870 | [423870-esc-ape-you-died.json](./423870-esc-ape-you-died.json) |
 | Esc Trip | 412735 | [412735-esc-trip.json](./412735-esc-trip.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
+| Esc: From Planet | 113121 | [113121-esc-from-planet.json](./113121-esc-from-planet.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Esc4pe! | 347967 | [347967-esc4pe.json](./347967-esc4pe.json) |
 | Esca | 339765 | [339765-esca.json](./339765-esca.json) |
@@ -7338,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evaverse | 158522 | [158522-evaverse.json](./158522-evaverse.json) |
 | Evdeki Lanet | 160164 | [160164-evdeki-lanet.json](./160164-evdeki-lanet.json) |
 | EVE Aether Wars - Tech Demo | 126344 | [126344-eve-aether-wars-tech-demo.json](./126344-eve-aether-wars-tech-demo.json) |
+| EVE burst error | 113106 | [113106-eve-burst-error.json](./113106-eve-burst-error.json) |
 | EVE burst error | 84143 | [84143-eve-burst-error.json](./84143-eve-burst-error.json) |
 | Eve Burst Error Plus | 73525 | [73525-eve-burst-error-plus.json](./73525-eve-burst-error-plus.json) |
 | Eve Frontier | 323164 | [323164-eve-frontier.json](./323164-eve-frontier.json) |
@@ -7383,6 +7385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
 | EVE Zero: Ark of the Matter | 71277 | [71277-eve-zero-ark-of-the-matter.json](./71277-eve-zero-ark-of-the-matter.json) |
 | Eve-Orb | 82526 | [82526-eve-orb.json](./82526-eve-orb.json) |
+| EVE: Burst Error | 113110 | [113110-eve-burst-error.json](./113110-eve-burst-error.json) |
 | EVE: Dust 514 | 1320 | [1320-eve-dust-514.json](./1320-eve-dust-514.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
