@@ -14334,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skytropolis | 74255 | [74255-skytropolis.json](./74255-skytropolis.json) |
 | Skyts | 279042 | [279042-skyts.json](./279042-skyts.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
+| Skywalk | 118472 | [118472-skywalk.json](./118472-skywalk.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
 | Skyward | 291940 | [291940-skyward.json](./291940-skyward.json) |
