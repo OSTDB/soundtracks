@@ -21980,6 +21980,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV Legends: 2023 AMA Pro Motocross Championship | 253898 | [253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json](./253898-mx-vs-atv-legends-2023-ama-pro-motocross-championship.json) |
 | MX vs. ATV Legends: KTM Pack | 259753 | [259753-mx-vs-atv-legends-ktm-pack.json](./259753-mx-vs-atv-legends-ktm-pack.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
+| MX vs. ATV Supercross Encore: Copper Canyon Open World | 158785 | [158785-mx-vs-atv-supercross-encore-copper-canyon-open-world.json](./158785-mx-vs-atv-supercross-encore-copper-canyon-open-world.json) |
+| MX vs. ATV Supercross Encore: Squall Valley | 158770 | [158770-mx-vs-atv-supercross-encore-squall-valley.json](./158770-mx-vs-atv-supercross-encore-squall-valley.json) |
+| MX vs. ATV Supercross Encore: Supercross Track Pack 2 | 158781 | [158781-mx-vs-atv-supercross-encore-supercross-track-pack-2.json](./158781-mx-vs-atv-supercross-encore-supercross-track-pack-2.json) |
+| MX vs. ATV Supercross Encore: The Stewart Compound | 158780 | [158780-mx-vs-atv-supercross-encore-the-stewart-compound.json](./158780-mx-vs-atv-supercross-encore-the-stewart-compound.json) |
 | MX vs. ATV: Alive | 18266 | [18266-mx-vs-atv-alive.json](./18266-mx-vs-atv-alive.json) |
 | MX vs. ATV: All Out | 67625 | [67625-mx-vs-atv-all-out.json](./67625-mx-vs-atv-all-out.json) |
 | MX vs. ATV: All Out - 2017 Yamaha YFZ450R | 169070 | [169070-mx-vs-atv-all-out-2017-yamaha-yfz450r.json](./169070-mx-vs-atv-all-out-2017-yamaha-yfz450r.json) |
@@ -22034,6 +22038,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Supercross | 24306 | [24306-mx-vs-atv-supercross.json](./24306-mx-vs-atv-supercross.json) |
 | MX vs. ATV: Supercross - Encore | 14297 | [14297-mx-vs-atv-supercross-encore.json](./14297-mx-vs-atv-supercross-encore.json) |
+| MX vs. ATV: Supercross - Encore: Rhythm Racing Pack | 158783 | [158783-mx-vs-atv-supercross-encore-rhythm-racing-pack.json](./158783-mx-vs-atv-supercross-encore-rhythm-racing-pack.json) |
+| MX vs. ATV: Supercross - Encore: Supercross Track Pack 1 | 158784 | [158784-mx-vs-atv-supercross-encore-supercross-track-pack-1.json](./158784-mx-vs-atv-supercross-encore-supercross-track-pack-1.json) |
+| MX vs. ATV: Supercross - Encore: Supercross Track Pack 4 | 158782 | [158782-mx-vs-atv-supercross-encore-supercross-track-pack-4.json](./158782-mx-vs-atv-supercross-encore-supercross-track-pack-4.json) |
 | MX vs. ATV: Unleashed | 24150 | [24150-mx-vs-atv-unleashed.json](./24150-mx-vs-atv-unleashed.json) |
 | MX vs. ATV: Untamed | 248554 | [248554-mx-vs-atv-untamed.json](./248554-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 248555 | [248555-mx-vs-atv-untamed.json](./248555-mx-vs-atv-untamed.json) |
