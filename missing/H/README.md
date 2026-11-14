@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
+| Happy Memories by Horse Reader | 96328 | [96328-happy-memories-by-horse-reader.json](./96328-happy-memories-by-horse-reader.json) |
 | Happy Merge Home | 216035 | [216035-happy-merge-home.json](./216035-happy-merge-home.json) |
 | Happy Mice | 246460 | [246460-happy-mice.json](./246460-happy-mice.json) |
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects | 320319 | [320319-hidden-objects.json](./320319-hidden-objects.json) |
 | Hidden Objects - Country Style | 89164 | [89164-hidden-objects-country-style.json](./89164-hidden-objects-country-style.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
+| Hidden Objects - Haunted Places | 96336 | [96336-hidden-objects-haunted-places.json](./96336-hidden-objects-haunted-places.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects - World Traveler | 89577 | [89577-hidden-objects-world-traveler.json](./89577-hidden-objects-world-traveler.json) |
 | Hidden Objects : Ancient Egyptian Objects | 96445 | [96445-hidden-objects-ancient-egyptian-objects.json](./96445-hidden-objects-ancient-egyptian-objects.json) |
