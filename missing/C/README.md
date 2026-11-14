@@ -20487,6 +20487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Cryonauts | 185945 | [185945-cryonauts.json](./185945-cryonauts.json) |
 | Cryorise | 378609 | [378609-cryorise.json](./378609-cryorise.json) |
+| Cryospace | 157747 | [157747-cryospace.json](./157747-cryospace.json) |
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Crypchania | 117314 | [117314-crypchania.json](./117314-crypchania.json) |
@@ -22931,6 +22932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberThreat | 253326 | [253326-cyberthreat.json](./253326-cyberthreat.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
 | CyberTitans | 221631 | [221631-cybertitans.json](./221631-cybertitans.json) |
+| CyberTown | 157733 | [157733-cybertown.json](./157733-cybertown.json) |
 | Cybertrash Statyx | 258390 | [258390-cybertrash-statyx.json](./258390-cybertrash-statyx.json) |
 | Cybertruck Sim | 192631 | [192631-cybertruck-sim.json](./192631-cybertruck-sim.json) |
 | Cyberun | 26395 | [26395-cyberun.json](./26395-cyberun.json) |
