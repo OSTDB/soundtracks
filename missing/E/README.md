@@ -5008,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fun: Western Coaster | 169114 | [169114-epic-fun-western-coaster.json](./169114-epic-fun-western-coaster.json) |
 | Epic Game Maker | 105188 | [105188-epic-game-maker.json](./105188-epic-game-maker.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
+| Epic Helicopter | 104918 | [104918-epic-helicopter.json](./104918-epic-helicopter.json) |
 | Epic Hero | 235027 | [235027-epic-hero.json](./235027-epic-hero.json) |
 | Epic Heroes Battle Royal | 123271 | [123271-epic-heroes-battle-royal.json](./123271-epic-heroes-battle-royal.json) |
 | Epic Ice Cream | 421791 | [421791-epic-ice-cream.json](./421791-epic-ice-cream.json) |
@@ -8873,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
 | Explodemon! | 10291 | [10291-explodemon.json](./10291-explodemon.json) |
 | Explodera | 388218 | [388218-explodera.json](./388218-explodera.json) |
+| Explodey | 104916 | [104916-explodey.json](./104916-explodey.json) |
 | Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
 | Exploding Fish | 183726 | [183726-exploding-fish.json](./183726-exploding-fish.json) |
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
