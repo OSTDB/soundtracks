@@ -2290,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekojara Monogatari | 213302 | [213302-nekojara-monogatari.json](./213302-nekojara-monogatari.json) |
 | Nekojiru-pm: The Balkan Dream | 408600 | [408600-nekojiru-pm-the-balkan-dream.json](./408600-nekojiru-pm-the-balkan-dream.json) |
 | Nekojishi | 76075 | [76075-nekojishi.json](./76075-nekojishi.json) |
+| Nekojishi Expansion Pack: A Sunny Day | 167340 | [167340-nekojishi-expansion-pack-a-sunny-day.json](./167340-nekojishi-expansion-pack-a-sunny-day.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
