@@ -4988,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare | 313661 | [313661-nightmare.json](./313661-nightmare.json) |
 | Nightmare | 360616 | [360616-nightmare.json](./360616-nightmare.json) |
 | Nightmare | 393515 | [393515-nightmare.json](./393515-nightmare.json) |
+| Nightmare (working title) | 115849 | [115849-nightmare-working-title.json](./115849-nightmare-working-title.json) |
 | Nightmare Adventures: The Turning Thorn | 28681 | [28681-nightmare-adventures-the-turning-thorn.json](./28681-nightmare-adventures-the-turning-thorn.json) |
 | Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
 | Nightmare Arts | 294946 | [294946-nightmare-arts.json](./294946-nightmare-arts.json) |
@@ -8608,6 +8609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nymble 2 | 408495 | [408495-nymble-2.json](./408495-nymble-2.json) |
 | Nymph's Tower | 183647 | [183647-nymphs-tower.json](./183647-nymphs-tower.json) |
 | Nymphiad | 134201 | [134201-nymphiad.json](./134201-nymphiad.json) |
+| Nympho Trainer | 115736 | [115736-nympho-trainer.json](./115736-nympho-trainer.json) |
 | Nympho Wife | 163789 | [163789-nympho-wife.json](./163789-nympho-wife.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
