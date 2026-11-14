@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan: Console Edition Deluxe | 239412 | [239412-catan-console-edition-deluxe.json](./239412-catan-console-edition-deluxe.json) |
 | Catan: Creator's Edition | 16539 | [16539-catan-creators-edition.json](./16539-catan-creators-edition.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
+| Catan: Die Erste Insel | 81494 | [81494-catan-die-erste-insel.json](./81494-catan-die-erste-insel.json) |
 | Catan: World Explorers | 139848 | [139848-catan-world-explorers.json](./139848-catan-world-explorers.json) |
 | Catana | 180993 | [180993-catana.json](./180993-catana.json) |
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
@@ -7276,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Treasure Hunt | 381937 | [381937-checkers-treasure-hunt.json](./381937-checkers-treasure-hunt.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate | 15210 | [15210-checkmate.json](./15210-checkmate.json) |
+| Checkmate | 81568 | [81568-checkmate.json](./81568-checkmate.json) |
 | Checkmate : Battle Arenas | 112697 | [112697-checkmate-battle-arenas.json](./112697-checkmate-battle-arenas.json) |
 | Checkmate Challenge | 262777 | [262777-checkmate-challenge.json](./262777-checkmate-challenge.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
@@ -17293,6 +17295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown | 13524 | [13524-countdown.json](./13524-countdown.json) |
 | Countdown | 142936 | [142936-countdown.json](./142936-countdown.json) |
 | Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
+| Countdown | 81553 | [81553-countdown.json](./81553-countdown.json) |
 | Countdown | 95417 | [95417-countdown.json](./95417-countdown.json) |
 | CountDown | 336629 | [336629-countdown.json](./336629-countdown.json) |
 | Countdown 1: The Body | 229147 | [229147-countdown-1-the-body.json](./229147-countdown-1-the-body.json) |
@@ -18750,6 +18753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Golf | 13531 | [13531-crazy-golf.json](./13531-crazy-golf.json) |
 | Crazy Golf | 194683 | [194683-crazy-golf.json](./194683-crazy-golf.json) |
+| Crazy Golf | 81554 | [81554-crazy-golf.json](./81554-crazy-golf.json) |
 | Crazy Golf Cat | 232896 | [232896-crazy-golf-cat.json](./232896-crazy-golf-cat.json) |
 | Crazy Golf Party | 343138 | [343138-crazy-golf-party.json](./343138-crazy-golf-party.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
@@ -19439,6 +19443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimebot | 398261 | [398261-crimebot.json](./398261-crimebot.json) |
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
+| CrimeCity | 81519 | [81519-crimecity.json](./81519-crimecity.json) |
 | CrimeCraft | 15040 | [15040-crimecraft.json](./15040-crimecraft.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
