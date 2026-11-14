@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
 | PachiPara 3D: Premium Umi Monogatari - Yumemiru Otome to Pachinko Ou Ketteisen | 145405 | [145405-pachipara-3d-premium-umi-monogatari-yumemiru-otome-to-pachinko-ou-ketteisen.json](./145405-pachipara-3d-premium-umi-monogatari-yumemiru-otome-to-pachinko-ou-ketteisen.json) |
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
+| PachiPara DL Hyper Sea Story In Karibu | 94999 | [94999-pachipara-dl-hyper-sea-story-in-karibu.json](./94999-pachipara-dl-hyper-sea-story-in-karibu.json) |
 | PachiPara Slot+ Pachi-Slot Daiku no Gen-san: Ikuze! Honō no Gen Matsuri-hen | 138686 | [138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json](./138686-pachipara-slot-pachi-slot-daiku-no-gen-san-ikuze-hono-no-gen-matsuri-hen.json) |
 | PachiPara12: Daikai to Natsu no Omoide | 256625 | [256625-pachipara12-daikai-to-natsu-no-omoide.json](./256625-pachipara12-daikai-to-natsu-no-omoide.json) |
 | Pachirisu's Click-Clack Attack! | 234097 | [234097-pachirisus-click-clack-attack.json](./234097-pachirisus-click-clack-attack.json) |
@@ -6846,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictective 2: Around the World | 390361 | [390361-pictective-2-around-the-world.json](./390361-pictective-2-around-the-world.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
+| Pictionary 2017 | 94794 | [94794-pictionary-2017.json](./94794-pictionary-2017.json) |
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
 | Pictionary: Ultimate Edition (uDraw) | 21725 | [21725-pictionary-ultimate-edition-udraw.json](./21725-pictionary-ultimate-edition-udraw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
@@ -14027,6 +14029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Pixie | 382504 | [382504-pop-pixie.json](./382504-pop-pixie.json) |
 | Pop Plus: Solo | 67886 | [67886-pop-plus-solo.json](./67886-pop-plus-solo.json) |
 | Pop Pop | 204211 | [204211-pop-pop.json](./204211-pop-pop.json) |
+| Pop Pop Ball: Popping Matching Colors Game | 94795 | [94795-pop-pop-ball-popping-matching-colors-game.json](./94795-pop-pop-ball-popping-matching-colors-game.json) |
 | Pop Pop Pop | 54283 | [54283-pop-pop-pop.json](./54283-pop-pop-pop.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
@@ -15996,6 +15999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
+| Prince Clumsy | 94453 | [94453-prince-clumsy.json](./94453-prince-clumsy.json) |
 | Prince Date Diaries: A Fairy Tale Love | 397721 | [397721-prince-date-diaries-a-fairy-tale-love.json](./397721-prince-date-diaries-a-fairy-tale-love.json) |
 | Prince Interactive | 78846 | [78846-prince-interactive.json](./78846-prince-interactive.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
@@ -18560,6 +18564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
+| Proxi | 94984 | [94984-proxi.json](./94984-proxi.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
 | Proxima Centauri b | 176622 | [176622-proxima-centauri-b.json](./176622-proxima-centauri-b.json) |
