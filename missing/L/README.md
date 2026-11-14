@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend vs. Legion | 348536 | [348536-legend-vs-legion.json](./348536-legend-vs-legion.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
 | Legend: Hand of God | 15793 | [15793-legend-hand-of-god.json](./15793-legend-hand-of-god.json) |
+| Legend: King's Legacy II | 98119 | [98119-legend-kings-legacy-ii.json](./98119-legend-kings-legacy-ii.json) |
 | Legend: Legacy of the Dragons | 71187 | [71187-legend-legacy-of-the-dragons.json](./71187-legend-legacy-of-the-dragons.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
 | Legend's World | 90058 | [90058-legends-world.json](./90058-legends-world.json) |
@@ -9794,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love or Money? | 255436 | [255436-love-or-money.json](./255436-love-or-money.json) |
 | Love or Passion | 254317 | [254317-love-or-passion.json](./254317-love-or-passion.json) |
 | Love Pandemonium | 284173 | [284173-love-pandemonium.json](./284173-love-pandemonium.json) |
+| Love Phantom | 98089 | [98089-love-phantom.json](./98089-love-phantom.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Poem Written For a Fairy | 276575 | [276575-love-poem-written-for-a-fairy.json](./276575-love-poem-written-for-a-fairy.json) |
 | Love Pop! | 186954 | [186954-love-pop.json](./186954-love-pop.json) |
