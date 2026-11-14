@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Operation Iraqi Freedom | 64303 | [64303-f-a-18-operation-iraqi-freedom.json](./64303-f-a-18-operation-iraqi-freedom.json) |
 | F/A-18E Super Hornet | 52992 | [52992-f-a-18e-super-hornet.json](./52992-f-a-18e-super-hornet.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
+| F1 'Best Sellers' Bundle | 96364 | [96364-f1-best-sellers-bundle.json](./96364-f1-best-sellers-bundle.json) |
 | F1 05 | 8303 | [8303-f1-05.json](./8303-f1-05.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastar! | 78425 | [78425-fastar.json](./78425-fastar.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
+| FastBall Online | 96333 | [96333-fastball-online.json](./96333-fastball-online.json) |
 | FastCrawl | 77229 | [77229-fastcrawl.json](./77229-fastcrawl.json) |
 | Faster | 260575 | [260575-faster.json](./260575-faster.json) |
 | Faster Bunnies | 382854 | [382854-faster-bunnies.json](./382854-faster-bunnies.json) |
