@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Render96 | 143305 | [143305-render96.json](./143305-render96.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
 | Rendering Ranger: R2 - Rewind | 203774 | [203774-rendering-ranger-r2-rewind.json](./203774-rendering-ranger-r2-rewind.json) |
+| RenderOrgan | 150221 | [150221-renderorgan.json](./150221-renderorgan.json) |
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
 | Rendezvous Delano | 323295 | [323295-rendezvous-delano.json](./323295-rendezvous-delano.json) |
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
@@ -8396,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringling Brothers and Barnum & Bailey | 51136 | [51136-ringling-brothers-and-barnum-and-bailey.json](./51136-ringling-brothers-and-barnum-and-bailey.json) |
 | Ringlorn Saga | 217145 | [217145-ringlorn-saga.json](./217145-ringlorn-saga.json) |
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
+| Ringmaster Clause | 150210 | [150210-ringmaster-clause.json](./150210-ringmaster-clause.json) |
 | Ringo Party | 296867 | [296867-ringo-party.json](./296867-ringo-party.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
 | Ringo-san no Jump Action | 396254 | [396254-ringo-san-no-jump-action.json](./396254-ringo-san-no-jump-action.json) |
