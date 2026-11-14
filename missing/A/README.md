@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abracadaball | 239466 | [239466-abracadaball.json](./239466-abracadaball.json) |
 | Abracadabra | 145900 | [145900-abracadabra.json](./145900-abracadabra.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
+| Abracadabrew | 132892 | [132892-abracadabrew.json](./132892-abracadabrew.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
 | Abracademy | 182668 | [182668-abracademy.json](./182668-abracademy.json) |
 | Abrah, l'orphelin de l'espace | 312941 | [312941-abrah-lorphelin-de-lespace.json](./312941-abrah-lorphelin-de-lespace.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
+| AColony | 132916 | [132916-acolony.json](./132916-acolony.json) |
 | Acolyte | 149122 | [149122-acolyte.json](./149122-acolyte.json) |
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Acolyte of the Altar | 244924 | [244924-acolyte-of-the-altar.json](./244924-acolyte-of-the-altar.json) |
@@ -3988,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
+| Advancity | 132913 | [132913-advancity.json](./132913-advancity.json) |
 | Advantage Tennis | 11888 | [11888-advantage-tennis.json](./11888-advantage-tennis.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
 | Adven'chuta | 94542 | [94542-advenchuta.json](./94542-advenchuta.json) |
@@ -9066,6 +9069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alumni | 199763 | [199763-alumni.json](./199763-alumni.json) |
 | Aluna Rift | 203511 | [203511-aluna-rift.json](./203511-aluna-rift.json) |
+| Aluna: Sentinel of the Shards | 132923 | [132923-aluna-sentinel-of-the-shards.json](./132923-aluna-sentinel-of-the-shards.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alurwe: Ein Spaziergang durch Alt-Urfahr West | 117423 | [117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json](./117423-alurwe-ein-spaziergang-durch-alt-urfahr-west.json) |
@@ -20511,6 +20515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AyuPac | 222825 | [222825-ayupac.json](./222825-ayupac.json) |
 | Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | AZ Rockets | 98891 | [98891-az-rockets.json](./98891-az-rockets.json) |
+| AZ: Oath of Brotherhood Prologue 1 | 132904 | [132904-az-oath-of-brotherhood-prologue-1.json](./132904-az-oath-of-brotherhood-prologue-1.json) |
 | Aza: Zend vs. The Dark End | 199671 | [199671-aza-zend-vs-the-dark-end.json](./199671-aza-zend-vs-the-dark-end.json) |
 | Azada | 6747 | [6747-azada.json](./6747-azada.json) |
 | Azada: Ancient Magic | 64735 | [64735-azada-ancient-magic.json](./64735-azada-ancient-magic.json) |
