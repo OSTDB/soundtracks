@@ -5085,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
 | Afterbeat | 33564 | [33564-afterbeat.json](./33564-afterbeat.json) |
 | Afterbern | 123814 | [123814-afterbern.json](./123814-afterbern.json) |
+| Afterbern Democralypse | 127419 | [127419-afterbern-democralypse.json](./127419-afterbern-democralypse.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterblast | 357792 | [357792-afterblast.json](./357792-afterblast.json) |
 | AfterBreach: Mystery Shooter | 174591 | [174591-afterbreach-mystery-shooter.json](./174591-afterbreach-mystery-shooter.json) |
@@ -15841,6 +15842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Warfare: Revolution General Pack | 224353 | [224353-armored-warfare-revolution-general-pack.json](./224353-armored-warfare-revolution-general-pack.json) |
 | Armored Warriors | 13688 | [13688-armored-warriors.json](./13688-armored-warriors.json) |
 | Armored Xpress | 149836 | [149836-armored-xpress.json](./149836-armored-xpress.json) |
+| Armorgeddon | 127407 | [127407-armorgeddon.json](./127407-armorgeddon.json) |
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
@@ -16196,6 +16198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Bloodshed | 350747 | [350747-art-of-bloodshed.json](./350747-art-of-bloodshed.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Conquest | 79154 | [79154-art-of-conquest.json](./79154-art-of-conquest.json) |
+| Art of Deception | 127404 | [127404-art-of-deception.json](./127404-art-of-deception.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Evil | 332309 | [332309-art-of-evil.json](./332309-art-of-evil.json) |
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
@@ -18008,6 +18011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Plumber | 13340 | [13340-astro-plumber.json](./13340-astro-plumber.json) |
 | Astro Prospector | 336980 | [336980-astro-prospector.json](./336980-astro-prospector.json) |
 | Astro Protocol | 350085 | [350085-astro-protocol.json](./350085-astro-protocol.json) |
+| Astro Puppa | 126692 | [126692-astro-puppa.json](./126692-astro-puppa.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
 | Astro Race | 322512 | [322512-astro-race.json](./322512-astro-race.json) |
