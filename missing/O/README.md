@@ -3856,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Scorpion: Take Down | 303871 | [303871-operation-scorpion-take-down.json](./303871-operation-scorpion-take-down.json) |
 | Operation Sea Wolf | 241463 | [241463-operation-sea-wolf.json](./241463-operation-sea-wolf.json) |
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
+| Operation Serpens | 138890 | [138890-operation-serpens.json](./138890-operation-serpens.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
 | Operation Shadow | 72916 | [72916-operation-shadow.json](./72916-operation-shadow.json) |
 | Operation Sheep Defense | 55400 | [55400-operation-sheep-defense.json](./55400-operation-sheep-defense.json) |
