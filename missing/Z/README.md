@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroAtlas | 24699 | [24699-zeroatlas.json](./24699-zeroatlas.json) |
 | ZeroCar | 88249 | [88249-zerocar.json](./88249-zerocar.json) |
 | Zerocar: Future Motorsport | 116453 | [116453-zerocar-future-motorsport.json](./116453-zerocar-future-motorsport.json) |
+| ZeroChance | 158760 | [158760-zerochance.json](./158760-zerochance.json) |
 | Zerocron | 201373 | [201373-zerocron.json](./201373-zerocron.json) |
 | Zeroed Out | 175321 | [175321-zeroed-out.json](./175321-zeroed-out.json) |
 | Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
