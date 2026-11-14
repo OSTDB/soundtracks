@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Caso de la Pathfinder | 113551 | [113551-el-caso-de-la-pathfinder.json](./113551-el-caso-de-la-pathfinder.json) |
 | El Castell dels Monstres | 113550 | [113550-el-castell-dels-monstres.json](./113550-el-castell-dels-monstres.json) |
 | El Cerro Del Calamar | 387580 | [387580-el-cerro-del-calamar.json](./387580-el-cerro-del-calamar.json) |
+| El Chat Escolar | 150184 | [150184-el-chat-escolar.json](./150184-el-chat-escolar.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
 | El Chavo kart | 62461 | [62461-el-chavo-kart.json](./62461-el-chavo-kart.json) |
@@ -8236,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excalibur | 23951 | [23951-excalibur.json](./23951-excalibur.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
 | Excalibur Mobile | 86204 | [86204-excalibur-mobile.json](./86204-excalibur-mobile.json) |
+| Excalibur: Morgana's Revenge | 150231 | [150231-excalibur-morganas-revenge.json](./150231-excalibur-morganas-revenge.json) |
 | Excalibur's Swordstone Idle Forge | 265105 | [265105-excaliburs-swordstone-idle-forge.json](./265105-excaliburs-swordstone-idle-forge.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
