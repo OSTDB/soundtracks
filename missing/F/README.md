@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
 | Farland Story: Juuou no Akashi | 61975 | [61975-farland-story-juuou-no-akashi.json](./61975-farland-story-juuou-no-akashi.json) |
+| Farland Story: Kamigami no Isan | 80024 | [80024-farland-story-kamigami-no-isan.json](./80024-farland-story-kamigami-no-isan.json) |
 | Farland Story: Kyoushin no Miyako | 61971 | [61971-farland-story-kyoushin-no-miyako.json](./61971-farland-story-kyoushin-no-miyako.json) |
 | Farland Story: Shirogane no Tsubasa | 79121 | [79121-farland-story-shirogane-no-tsubasa.json](./79121-farland-story-shirogane-no-tsubasa.json) |
 | Farland Story: Tenshi no Namida | 69694 | [69694-farland-story-tenshi-no-namida.json](./69694-farland-story-tenshi-no-namida.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farragnarok | 114773 | [114773-farragnarok.json](./114773-farragnarok.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | FarRock Dodgeball | 159567 | [159567-farrock-dodgeball.json](./159567-farrock-dodgeball.json) |
+| Farscape: The Game | 80029 | [80029-farscape-the-game.json](./80029-farscape-the-game.json) |
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
 | Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
@@ -9828,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Focus on You | 119452 | [119452-focus-on-you.json](./119452-focus-on-you.json) |
+| Focus Shot Archery Master | 80008 | [80008-focus-shot-archery-master.json](./80008-focus-shot-archery-master.json) |
 | Focus Simulator | 340088 | [340088-focus-simulator.json](./340088-focus-simulator.json) |
 | Focus Tower | 289595 | [289595-focus-tower.json](./289595-focus-tower.json) |
 | Fodderp: Castle Defense | 24542 | [24542-fodderp-castle-defense.json](./24542-fodderp-castle-defense.json) |
@@ -13653,6 +13656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Race | 420171 | [420171-frog-race.json](./420171-frog-race.json) |
 | Frog Smashers | 98186 | [98186-frog-smashers.json](./98186-frog-smashers.json) |
 | Frog Smith | 182717 | [182717-frog-smith.json](./182717-frog-smith.json) |
+| Frog Souls | 80001 | [80001-frog-souls.json](./80001-frog-souls.json) |
 | Frog Soup | 315773 | [315773-frog-soup.json](./315773-frog-soup.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Sqwad | 381087 | [381087-frog-sqwad.json](./381087-frog-sqwad.json) |
@@ -13831,6 +13835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
 | Frogs | 394324 | [394324-frogs.json](./394324-frogs.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
+| Frogs In Love | 79986 | [79986-frogs-in-love.json](./79986-frogs-in-love.json) |
 | Frogs vs. Storks | 10336 | [10336-frogs-vs-storks.json](./10336-frogs-vs-storks.json) |
 | Frogshot Adventure | 380559 | [380559-frogshot-adventure.json](./380559-frogshot-adventure.json) |
 | Frogsong | 132630 | [132630-frogsong.json](./132630-frogsong.json) |
