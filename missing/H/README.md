@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
 | Halloween Rhythm | 157805 | [157805-halloween-rhythm.json](./157805-halloween-rhythm.json) |
 | Halloween Riddles Mysterious Griddlers | 168430 | [168430-halloween-riddles-mysterious-griddlers.json](./168430-halloween-riddles-mysterious-griddlers.json) |
+| Halloween Riddles Nonograms | 103701 | [103701-halloween-riddles-nonograms.json](./103701-halloween-riddles-nonograms.json) |
 | Halloween Run! | 232099 | [232099-halloween-run.json](./232099-halloween-run.json) |
 | Halloween Scrooge | 178250 | [178250-halloween-scrooge.json](./178250-halloween-scrooge.json) |
 | Halloween Secrets: The Blood Vow | 416583 | [416583-halloween-secrets-the-blood-vow.json](./416583-halloween-secrets-the-blood-vow.json) |
@@ -6490,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defender | 114114 | [114114-hero-defender.json](./114114-hero-defender.json) |
 | Hero Defense | 34216 | [34216-hero-defense.json](./34216-hero-defense.json) |
+| Hero Defense King | 103029 | [103029-hero-defense-king.json](./103029-hero-defense-king.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Dice | 196403 | [196403-hero-dice.json](./196403-hero-dice.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
@@ -9836,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Jigsaw Halloween | 168429 | [168429-holiday-jigsaw-halloween.json](./168429-holiday-jigsaw-halloween.json) |
 | Holiday Jigsaw Halloween 2 | 174050 | [174050-holiday-jigsaw-halloween-2.json](./174050-holiday-jigsaw-halloween-2.json) |
 | Holiday Jigsaw Valentine's Day 3 | 296813 | [296813-holiday-jigsaw-valentines-day-3.json](./296813-holiday-jigsaw-valentines-day-3.json) |
+| Holiday Jigsaw Valentine's Day 4 | 103716 | [103716-holiday-jigsaw-valentines-day-4.json](./103716-holiday-jigsaw-valentines-day-4.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
 | Holiday Jigsaw: Christmas 4 | 99311 | [99311-holiday-jigsaw-christmas-4.json](./99311-holiday-jigsaw-christmas-4.json) |
