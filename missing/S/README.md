@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
 | Salvo Shuffle | 268952 | [268952-salvo-shuffle.json](./268952-salvo-shuffle.json) |
 | Salvo Subs | 316386 | [316386-salvo-subs.json](./316386-salvo-subs.json) |
+| Salvo! | 80055 | [80055-salvo.json](./80055-salvo.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
 | Salyut π | 157803 | [157803-salyut.json](./157803-salyut.json) |
 | Salzburg no Majo: The Witch of Salzburg | 80148 | [80148-salzburg-no-majo-the-witch-of-salzburg.json](./80148-salzburg-no-majo-the-witch-of-salzburg.json) |
@@ -10198,6 +10199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Gallery | 245091 | [245091-shooting-gallery.json](./245091-shooting-gallery.json) |
 | Shooting Gallery | 28363 | [28363-shooting-gallery.json](./28363-shooting-gallery.json) |
 | Shooting Gallery | 68566 | [68566-shooting-gallery.json](./68566-shooting-gallery.json) |
+| Shooting Gallery | 79985 | [79985-shooting-gallery.json](./79985-shooting-gallery.json) |
 | Shooting Gallery for Playdate | 230786 | [230786-shooting-gallery-for-playdate.json](./230786-shooting-gallery-for-playdate.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
@@ -22219,6 +22221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Rage | 184672 | [184672-space-rage.json](./184672-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
+| Space Raid | 79431 | [79431-space-raid.json](./79431-space-raid.json) |
 | Space Raider | 103577 | [103577-space-raider.json](./103577-space-raider.json) |
 | Space Raider | 401271 | [401271-space-raider.json](./401271-space-raider.json) |
 | Space Raiders | 281208 | [281208-space-raiders.json](./281208-space-raiders.json) |
@@ -26015,6 +26018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squash Ball | 320778 | [320778-squash-ball.json](./320778-squash-ball.json) |
 | Squash Kings VR | 86394 | [86394-squash-kings-vr.json](./86394-squash-kings-vr.json) |
+| Squash Pipes | 80000 | [80000-squash-pipes.json](./80000-squash-pipes.json) |
 | Squash Sport Game 2024 | 310167 | [310167-squash-sport-game-2024.json](./310167-squash-sport-game-2024.json) |
 | Squat Life | 345976 | [345976-squat-life.json](./345976-squat-life.json) |
 | Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
