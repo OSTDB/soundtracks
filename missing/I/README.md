@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellectual Decathlon | 401790 | [401790-intellectual-decathlon.json](./401790-intellectual-decathlon.json) |
 | Intelligence | 397924 | [397924-intelligence.json](./397924-intelligence.json) |
 | Intelligence | 96898 | [96898-intelligence.json](./96898-intelligence.json) |
+| Intelligence Operation | 155764 | [155764-intelligence-operation.json](./155764-intelligence-operation.json) |
 | Intelligence Trader | 104325 | [104325-intelligence-trader.json](./104325-intelligence-trader.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
 | Intelligence: Anime Girls | 101638 | [101638-intelligence-anime-girls.json](./101638-intelligence-anime-girls.json) |
