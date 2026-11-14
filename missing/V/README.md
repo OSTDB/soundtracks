@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
 | Vampire: The Masquerade - Bloodlines 2 Blood Moon Edition | 117153 | [117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json](./117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2 Collector’s Edition | 134800 | [134800-vampire-the-masquerade-bloodlines-2-collector-s-edition.json](./134800-vampire-the-masquerade-bloodlines-2-collector-s-edition.json) |
+| Vampire: The Masquerade - Bloodlines 2 First Blood Edition | 134120 | [134120-vampire-the-masquerade-bloodlines-2-first-blood-edition.json](./134120-vampire-the-masquerade-bloodlines-2-first-blood-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2 Unsanctioned Edition | 117152 | [117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json](./117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Expansion Pass | 406332 | [406332-vampire-the-masquerade-bloodlines-2-expansion-pass.json](./406332-vampire-the-masquerade-bloodlines-2-expansion-pass.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
 | Velgress | 318313 | [318313-velgress.json](./318313-velgress.json) |
 | Velgrym | 363762 | [363762-velgrym.json](./363762-velgrym.json) |
+| Velha Quântica | 134094 | [134094-velha-quantica.json](./134094-velha-quantica.json) |
 | Velhodium Isle | 332391 | [332391-velhodium-isle.json](./332391-velhodium-isle.json) |
 | Velhokissa Kloridi Klaviatuuri ja Kadonneet Aakkoset | 7639 | [7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json](./7639-velhokissa-kloridi-klaviatuuri-ja-kadonneet-aakkoset.json) |
 | Velistra: Failed State | 336759 | [336759-velistra-failed-state.json](./336759-velistra-failed-state.json) |
@@ -2457,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings vs. Waves | 109945 | [109945-vikings-vs-waves.json](./109945-vikings-vs-waves.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
+| Vikings: an Archer's Journey | 134141 | [134141-vikings-an-archers-journey.json](./134141-vikings-an-archers-journey.json) |
 | Vikings: For Valhalla | 216062 | [216062-vikings-for-valhalla.json](./216062-vikings-for-valhalla.json) |
 | Vikings: Sex and Blood - Chapter 2 | 425218 | [425218-vikings-sex-and-blood-chapter-2.json](./425218-vikings-sex-and-blood-chapter-2.json) |
 | Vikings: The Strategy of Ultimate Conquest | 73590 | [73590-vikings-the-strategy-of-ultimate-conquest.json](./73590-vikings-the-strategy-of-ultimate-conquest.json) |
