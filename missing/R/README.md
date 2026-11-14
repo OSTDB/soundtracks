@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radix: Beyond the Void | 11628 | [11628-radix-beyond-the-void.json](./11628-radix-beyond-the-void.json) |
 | Radland | 310876 | [310876-radland.json](./310876-radland.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
+| Radline: Quarantine | 109092 | [109092-radline-quarantine.json](./109092-radline-quarantine.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
 | Radon Blast 2 | 415722 | [415722-radon-blast-2.json](./415722-radon-blast-2.json) |
 | Radon Break | 195006 | [195006-radon-break.json](./195006-radon-break.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Mobilize Jam 2: Re:Visions | 332173 | [332173-re-mobilize-jam-2-re-visions.json](./332173-re-mobilize-jam-2-re-visions.json) |
 | Re:Mobilize Jam 3: Re:Frigerated | 393783 | [393783-re-mobilize-jam-3-re-frigerated.json](./393783-re-mobilize-jam-3-re-frigerated.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
+| Re:Monster ~The Goblin Reincarnation Chronicles~ | 109075 | [109075-re-monster-the-goblin-reincarnation-chronicles.json](./109075-re-monster-the-goblin-reincarnation-chronicles.json) |
 | Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Pairn’t | 181173 | [181173-re-pairn-t.json](./181173-re-pairn-t.json) |
@@ -6704,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Golden Age: Operation Alexandra | 235110 | [235110-retro-golden-age-operation-alexandra.json](./235110-retro-golden-age-operation-alexandra.json) |
 | Retro Golden Age: The Abbey of Crime | 192137 | [192137-retro-golden-age-the-abbey-of-crime.json](./192137-retro-golden-age-the-abbey-of-crime.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
+| Retro Golf! Arcade Putt Putt Game | 108537 | [108537-retro-golf-arcade-putt-putt-game.json](./108537-retro-golf-arcade-putt-putt-game.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
 | Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
@@ -10016,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
 | Robot Street Fighting Games | 304074 | [304074-robot-street-fighting-games.json](./304074-robot-street-fighting-games.json) |
+| Robot Tactics: Real Time Super Robot Wars | 108538 | [108538-robot-tactics-real-time-super-robot-wars.json](./108538-robot-tactics-real-time-super-robot-wars.json) |
 | Robot TD | 258917 | [258917-robot-td.json](./258917-robot-td.json) |
 | Robot terminator | 120704 | [120704-robot-terminator.json](./120704-robot-terminator.json) |
 | Robot Tormod | 236094 | [236094-robot-tormod.json](./236094-robot-tormod.json) |
@@ -12402,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotaPicture | 93323 | [93323-rotapicture.json](./93323-rotapicture.json) |
 | Rotastic | 15275 | [15275-rotastic.json](./15275-rotastic.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
+| Rotate | 109086 | [109086-rotate.json](./109086-rotate.json) |
 | Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
 | Rotate 2 Learn: Christmas Edition Puzzles! | 104705 | [104705-rotate-2-learn-christmas-edition-puzzles.json](./104705-rotate-2-learn-christmas-edition-puzzles.json) |
@@ -13998,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
 | Running Loli | 129849 | [129849-running-loli.json](./129849-running-loli.json) |
 | Running Man 3D | 106444 | [106444-running-man-3d.json](./106444-running-man-3d.json) |
+| Running Man 3D Part2 | 108676 | [108676-running-man-3d-part2.json](./108676-running-man-3d-part2.json) |
 | Running Memories | 303311 | [303311-running-memories.json](./303311-running-memories.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
