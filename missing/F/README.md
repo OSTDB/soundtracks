@@ -13846,7 +13846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogStray | 412761 | [412761-frogstray.json](./412761-frogstray.json) |
 | Frogue | 195679 | [195679-frogue.json](./195679-frogue.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
-| Frogun | 152051 | [152051-frogun.json](./152051-frogun.json) |
 | Frogun Encore | 242322 | [242322-frogun-encore.json](./242322-frogun-encore.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvale | 113600 | [113600-frogvale.json](./113600-frogvale.json) |
