@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Balkan Shop Simulator | 396667 | [396667-balkan-shop-simulator.json](./396667-balkan-shop-simulator.json) |
 | Balkiri Sonyeo Kiugi | 216112 | [216112-balkiri-sonyeo-kiugi.json](./216112-balkiri-sonyeo-kiugi.json) |
+| Balko | 93259 | [93259-balko.json](./93259-balko.json) |
 | Ball | 140884 | [140884-ball.json](./140884-ball.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball | 231735 | [231735-ball.json](./231735-ball.json) |
