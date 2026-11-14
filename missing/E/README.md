@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements: Soul of Fire | 35972 | [35972-elements-soul-of-fire.json](./35972-elements-soul-of-fire.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementum | 80768 | [80768-elementum.json](./80768-elementum.json) |
+| ElementX | 140062 | [140062-elementx.json](./140062-elementx.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | Elementys | 423389 | [423389-elementys.json](./423389-elementys.json) |
 | EleMetals: Death Metal Death Match! | 132515 | [132515-elemetals-death-metal-death-match.json](./132515-elemetals-death-metal-death-match.json) |
