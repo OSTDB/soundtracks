@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2019: Anniversary Edition | 134217 | [134217-f1-2019-anniversary-edition.json](./134217-f1-2019-anniversary-edition.json) |
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
+| F1 2020: Seventy Edition | 134109 | [134109-f1-2020-seventy-edition.json](./134109-f1-2020-seventy-edition.json) |
 | F1 2021 | 145838 | [145838-f1-2021.json](./145838-f1-2021.json) |
 | F1 2021: Deluxe Edition | 154715 | [154715-f1-2021-deluxe-edition.json](./154715-f1-2021-deluxe-edition.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
@@ -4780,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 20: Champions Edition | 119890 | [119890-fifa-20-champions-edition.json](./119890-fifa-20-champions-edition.json) |
+| FIFA 20: Legacy Edition | 134128 | [134128-fifa-20-legacy-edition.json](./134128-fifa-20-legacy-edition.json) |
 | FIFA 20: Ultimate Edition | 119891 | [119891-fifa-20-ultimate-edition.json](./119891-fifa-20-ultimate-edition.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
 | FIFA 2000: Major League Soccer | 126294 | [126294-fifa-2000-major-league-soccer.json](./126294-fifa-2000-major-league-soccer.json) |
@@ -14611,6 +14613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Pawer | 166918 | [166918-full-pawer.json](./166918-full-pawer.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
+| Full Service Shop | 134116 | [134116-full-service-shop.json](./134116-full-service-shop.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
 | Full Spectrum Warrior | 5840 | [5840-full-spectrum-warrior.json](./5840-full-spectrum-warrior.json) |
 | Full Spectrum Warrior Complete | 53060 | [53060-full-spectrum-warrior-complete.json](./53060-full-spectrum-warrior-complete.json) |
