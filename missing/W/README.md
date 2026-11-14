@@ -5363,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire | 310597 | [310597-who-wants-to-be-a-millionaire.json](./310597-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 312608 | [312608-who-wants-to-be-a-millionaire.json](./312608-who-wants-to-be-a-millionaire.json) |
 | Who Wants to Be a Millionaire | 81512 | [81512-who-wants-to-be-a-millionaire.json](./81512-who-wants-to-be-a-millionaire.json) |
+| Who Wants To Be A Millionaire | 81511 | [81511-who-wants-to-be-a-millionaire.json](./81511-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 1st Edition | 50649 | [50649-who-wants-to-be-a-millionaire-1st-edition.json](./50649-who-wants-to-be-a-millionaire-1st-edition.json) |
 | Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
@@ -8330,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
+| Word Cube | 81498 | [81498-word-cube.json](./81498-word-cube.json) |
 | Word Defense | 89348 | [89348-word-defense.json](./89348-word-defense.json) |
 | Word Domination | 103094 | [103094-word-domination.json](./103094-word-domination.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
