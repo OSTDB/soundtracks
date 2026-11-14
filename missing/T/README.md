@@ -20178,6 +20178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
 | The Universe | 161482 | [161482-the-universe.json](./161482-the-universe.json) |
+| The Universe According to Virgil Reality | 136510 | [136510-the-universe-according-to-virgil-reality.json](./136510-the-universe-according-to-virgil-reality.json) |
 | The Universe of Red Hope | 294377 | [294377-the-universe-of-red-hope.json](./294377-the-universe-of-red-hope.json) |
 | The Universe Soldiers | 48323 | [48323-the-universe-soldiers.json](./48323-the-universe-soldiers.json) |
 | The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
@@ -21981,6 +21982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Bridge | 141552 | [141552-third-bridge.json](./141552-third-bridge.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
+| Third Crypt | 136494 | [136494-third-crypt.json](./136494-third-crypt.json) |
 | Third Defender | 251939 | [251939-third-defender.json](./251939-third-defender.json) |
 | Third Exit | 53094 | [53094-third-exit.json](./53094-third-exit.json) |
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
@@ -25897,6 +25899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Island | 204301 | [204301-tiny-island.json](./204301-tiny-island.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
+| Tiny Islands | 136550 | [136550-tiny-islands.json](./136550-tiny-islands.json) |
 | Tiny Islands | 195815 | [195815-tiny-islands.json](./195815-tiny-islands.json) |
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
 | Tiny Jar Farm | 384864 | [384864-tiny-jar-farm.json](./384864-tiny-jar-farm.json) |
@@ -28434,6 +28437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torii Guardian | 329504 | [329504-torii-guardian.json](./329504-torii-guardian.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
+| Torikago no Marriage: Hatsukoi no Tsubasa | 136528 | [136528-torikago-no-marriage-hatsukoi-no-tsubasa.json](./136528-torikago-no-marriage-hatsukoi-no-tsubasa.json) |
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
 | Toriki: The Castaway Island | 338957 | [338957-toriki-the-castaway-island.json](./338957-toriki-the-castaway-island.json) |
 | Toriko: Gourmet ga Battle | 63650 | [63650-toriko-gourmet-ga-battle.json](./63650-toriko-gourmet-ga-battle.json) |
@@ -30152,6 +30156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townslife | 390881 | [390881-townslife.json](./390881-townslife.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
+| Townsmen 4 | 136540 | [136540-townsmen-4.json](./136540-townsmen-4.json) |
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
 | Townsmen VR | 86445 | [86445-townsmen-vr.json](./86445-townsmen-vr.json) |
 | Townsmen: A Kingdom Rebuilt | 115912 | [115912-townsmen-a-kingdom-rebuilt.json](./115912-townsmen-a-kingdom-rebuilt.json) |
@@ -34778,6 +34783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Comes Twice | 214884 | [214884-trouble-comes-twice.json](./214884-trouble-comes-twice.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
 | Trouble Fortune Company Happy Cure | 221830 | [221830-trouble-fortune-company-happy-cure.json](./221830-trouble-fortune-company-happy-cure.json) |
+| Trouble Hunter Chronicles: The Stolen Creed | 136496 | [136496-trouble-hunter-chronicles-the-stolen-creed.json](./136496-trouble-hunter-chronicles-the-stolen-creed.json) |
 | Trouble in Cookie Town | 346378 | [346378-trouble-in-cookie-town.json](./346378-trouble-in-cookie-town.json) |
 | Trouble in Mother Goose Land | 293983 | [293983-trouble-in-mother-goose-land.json](./293983-trouble-in-mother-goose-land.json) |
 | Trouble in Pacifica | 331288 | [331288-trouble-in-pacifica.json](./331288-trouble-in-pacifica.json) |
