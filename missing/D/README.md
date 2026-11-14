@@ -1405,7 +1405,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Alpha | 38075 | [38075-darius-alpha.json](./38075-darius-alpha.json) |
 | Darius Cozmic Collection | 104778 | [104778-darius-cozmic-collection.json](./104778-darius-cozmic-collection.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
+| Darius Cozmic Collection: Console Edition | 146398 | [146398-darius-cozmic-collection-console-edition.json](./146398-darius-cozmic-collection-console-edition.json) |
 | Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
+| Darius Cozmic Collection: Special Edition | 146401 | [146401-darius-cozmic-collection-special-edition.json](./146401-darius-cozmic-collection-special-edition.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius Cozmic Revelation: Special Limited Edition | 167082 | [167082-darius-cozmic-revelation-special-limited-edition.json](./167082-darius-cozmic-revelation-special-limited-edition.json) |
 | Darius Gaiden | 6788 | [6788-darius-gaiden.json](./6788-darius-gaiden.json) |
@@ -17137,12 +17139,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakengard 3: Collector's Edition | 378981 | [378981-drakengard-3-collectors-edition.json](./378981-drakengard-3-collectors-edition.json) |
 | Drakengard 3: Eris's Garb | 378985 | [378985-drakengard-3-eriss-garb.json](./378985-drakengard-3-eriss-garb.json) |
 | Drakengard 3: Experimental Weapon 7 | 378986 | [378986-drakengard-3-experimental-weapon-7.json](./378986-drakengard-3-experimental-weapon-7.json) |
+| Drakengard 3: Five's Prologue | 146387 | [146387-drakengard-3-fives-prologue.json](./146387-drakengard-3-fives-prologue.json) |
+| Drakengard 3: Four's Prologue | 146386 | [146386-drakengard-3-fours-prologue.json](./146386-drakengard-3-fours-prologue.json) |
 | Drakengard 3: Furiae's Garb | 378991 | [378991-drakengard-3-furiaes-garb.json](./378991-drakengard-3-furiaes-garb.json) |
 | Drakengard 3: Kainé's Garb | 378982 | [378982-drakengard-3-kaines-garb.json](./378982-drakengard-3-kaines-garb.json) |
 | Drakengard 3: Manah's Garb | 378990 | [378990-drakengard-3-manahs-garb.json](./378990-drakengard-3-manahs-garb.json) |
 | Drakengard 3: Nier's Garb | 378989 | [378989-drakengard-3-niers-garb.json](./378989-drakengard-3-niers-garb.json) |
+| Drakengard 3: One's Prologue | 146383 | [146383-drakengard-3-ones-prologue.json](./146383-drakengard-3-ones-prologue.json) |
+| Drakengard 3: Three's Prologue | 146385 | [146385-drakengard-3-threes-prologue.json](./146385-drakengard-3-threes-prologue.json) |
 | Drakengard 3: Tokyo Tower | 378988 | [378988-drakengard-3-tokyo-tower.json](./378988-drakengard-3-tokyo-tower.json) |
+| Drakengard 3: Two's Prologue | 146384 | [146384-drakengard-3-twos-prologue.json](./146384-drakengard-3-twos-prologue.json) |
 | Drakengard 3: Zero's Garb (Variety Pack) | 378987 | [378987-drakengard-3-zeros-garb-variety-pack.json](./378987-drakengard-3-zeros-garb-variety-pack.json) |
+| Drakengard 3: Zero's Prologue | 146382 | [146382-drakengard-3-zeros-prologue.json](./146382-drakengard-3-zeros-prologue.json) |
 | Drakenlords: CCG Card Duels | 56790 | [56790-drakenlords-ccg-card-duels.json](./56790-drakenlords-ccg-card-duels.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
 | Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
