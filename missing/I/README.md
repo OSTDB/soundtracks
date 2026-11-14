@@ -3908,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inexorable | 293002 | [293002-inexorable.json](./293002-inexorable.json) |
 | Inexorable | 351771 | [351771-inexorable.json](./351771-inexorable.json) |
 | Inexperienced Driver | 207193 | [207193-inexperienced-driver.json](./207193-inexperienced-driver.json) |
+| Inexplicable Deaths In Damipolis: Inner Thoughts | 158794 | [158794-inexplicable-deaths-in-damipolis-inner-thoughts.json](./158794-inexplicable-deaths-in-damipolis-inner-thoughts.json) |
 | Inexplicable Geeks: Dawn of Just Us | 96279 | [96279-inexplicable-geeks-dawn-of-just-us.json](./96279-inexplicable-geeks-dawn-of-just-us.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
 | InFailtration | 182623 | [182623-infailtration.json](./182623-infailtration.json) |
