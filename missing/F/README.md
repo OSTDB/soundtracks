@@ -3639,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateel | 226504 | [226504-fateel.json](./226504-fateel.json) |
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
+| Fateful End: True Case Files | 132918 | [132918-fateful-end-true-case-files.json](./132918-fateful-end-true-case-files.json) |
 | Fateful Lore | 135313 | [135313-fateful-lore.json](./135313-fateful-lore.json) |
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
 | Fateholder Quest | 148625 | [148625-fateholder-quest.json](./148625-fateholder-quest.json) |
@@ -12324,6 +12325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Atmosphere | 151399 | [151399-fractured-atmosphere.json](./151399-fractured-atmosphere.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Blooms | 347648 | [347648-fractured-blooms.json](./347648-fractured-blooms.json) |
+| Fractured Core | 132905 | [132905-fractured-core.json](./132905-fractured-core.json) |
 | Fractured Dream | 360841 | [360841-fractured-dream.json](./360841-fractured-dream.json) |
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
 | Fractured Fairy Tales: The Frog Prince | 91798 | [91798-fractured-fairy-tales-the-frog-prince.json](./91798-fractured-fairy-tales-the-frog-prince.json) |
