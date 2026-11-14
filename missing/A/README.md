@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fisherman's Tale | 106992 | [106992-a-fishermans-tale.json](./106992-a-fishermans-tale.json) |
 | A Fisherman's Tale 2 | 239554 | [239554-a-fishermans-tale-2.json](./239554-a-fishermans-tale-2.json) |
 | A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
+| A Fistful of Doom | 140047 | [140047-a-fistful-of-doom.json](./140047-a-fistful-of-doom.json) |
 | A Fistful of Yankees | 301686 | [301686-a-fistful-of-yankees.json](./301686-a-fistful-of-yankees.json) |
 | A Fistfull of Cowboys | 361401 | [361401-a-fistfull-of-cowboys.json](./361401-a-fistfull-of-cowboys.json) |
 | A Five-Day Tour in the Morgue | 117580 | [117580-a-five-day-tour-in-the-morgue.json](./117580-a-five-day-tour-in-the-morgue.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About Going Up | 398050 | [398050-a-game-about-going-up.json](./398050-a-game-about-going-up.json) |
 | A Game About Having a Job | 389933 | [389933-a-game-about-having-a-job.json](./389933-a-game-about-having-a-job.json) |
+| A Game About Literally Doing Your Taxes | 140080 | [140080-a-game-about-literally-doing-your-taxes.json](./140080-a-game-about-literally-doing-your-taxes.json) |
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
 | A Game About Media & Warfare | 419131 | [419131-a-game-about-media-and-warfare.json](./419131-a-game-about-media-and-warfare.json) |
 | A Game About Mining an Asteroid | 379508 | [379508-a-game-about-mining-an-asteroid.json](./379508-a-game-about-mining-an-asteroid.json) |
@@ -12561,6 +12563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiterror Strike | 76338 | [76338-antiterror-strike.json](./76338-antiterror-strike.json) |
 | Antitetrise | 111427 | [111427-antitetrise.json](./111427-antitetrise.json) |
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
+| Antitower | 140097 | [140097-antitower.json](./140097-antitower.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivira | 283919 | [283919-antivira.json](./283919-antivira.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
