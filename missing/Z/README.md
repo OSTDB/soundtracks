@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Cleaner | 150799 | [150799-zoo-cleaner.json](./150799-zoo-cleaner.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
 | Zoo Constructor | 115131 | [115131-zoo-constructor.json](./115131-zoo-constructor.json) |
+| Zoo Craft | 102464 | [102464-zoo-craft.json](./102464-zoo-craft.json) |
 | Zoo Dentist | 159017 | [159017-zoo-dentist.json](./159017-zoo-dentist.json) |
 | Zoo Dentist: Extended Edition | 199932 | [199932-zoo-dentist-extended-edition.json](./199932-zoo-dentist-extended-edition.json) |
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
