@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper Jape | 26156 | [26156-jumper-jape.json](./26156-jumper-jape.json) |
 | Jumper Jon | 95547 | [95547-jumper-jon.json](./95547-jumper-jon.json) |
 | Jumper Kiwi | 248267 | [248267-jumper-kiwi.json](./248267-jumper-kiwi.json) |
+| Jumper Magic | 104332 | [104332-jumper-magic.json](./104332-jumper-magic.json) |
 | Jumper Platform | 231944 | [231944-jumper-platform.json](./231944-jumper-platform.json) |
 | Jumper Starman | 155775 | [155775-jumper-starman.json](./155775-jumper-starman.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
