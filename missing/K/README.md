@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaiJu Girls | 236475 | [236475-kaiju-girls.json](./236475-kaiju-girls.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
 | Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
+| Kaiju Kite Attack | 121083 | [121083-kaiju-kite-attack.json](./121083-kaiju-kite-attack.json) |
 | Kaiju Klash | 213511 | [213511-kaiju-klash.json](./213511-kaiju-klash.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
 | Kaiju Krashers | 168605 | [168605-kaiju-krashers.json](./168605-kaiju-krashers.json) |
