@@ -9367,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Fear: The Babysitter's Tale | 303734 | [303734-chronicles-of-fear-the-babysitters-tale.json](./303734-chronicles-of-fear-the-babysitters-tale.json) |
 | Chronicles of Galdurvale | 129854 | [129854-chronicles-of-galdurvale.json](./129854-chronicles-of-galdurvale.json) |
 | Chronicles of Ghost Town | 257130 | [257130-chronicles-of-ghost-town.json](./257130-chronicles-of-ghost-town.json) |
+| Chronicles of Honor | 125524 | [125524-chronicles-of-honor.json](./125524-chronicles-of-honor.json) |
 | Chronicles of Immortality in the Cloud Abyss | 379087 | [379087-chronicles-of-immortality-in-the-cloud-abyss.json](./379087-chronicles-of-immortality-in-the-cloud-abyss.json) |
 | Chronicles of Inotia: Legend of Feanor | 65876 | [65876-chronicles-of-inotia-legend-of-feanor.json](./65876-chronicles-of-inotia-legend-of-feanor.json) |
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
@@ -19409,6 +19410,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimSaw | 337402 | [337402-crimsaw.json](./337402-crimsaw.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson | 416474 | [416474-crimson.json](./416474-crimson.json) |
+| Crimson Alive: Burst Again | 125491 | [125491-crimson-alive-burst-again.json](./125491-crimson-alive-burst-again.json) |
+| Crimson Alive: Extreme Encounter | 125489 | [125489-crimson-alive-extreme-encounter.json](./125489-crimson-alive-extreme-encounter.json) |
+| Crimson Alive: Genesis of the Heretic | 125490 | [125490-crimson-alive-genesis-of-the-heretic.json](./125490-crimson-alive-genesis-of-the-heretic.json) |
 | Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
@@ -19716,6 +19720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
 | Croixleur Sigma | 10116 | [10116-croixleur-sigma.json](./10116-croixleur-sigma.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
+| Croket! 4: Bank no Mori no Shugoshin | 125502 | [125502-croket-4-bank-no-mori-no-shugoshin.json](./125502-croket-4-bank-no-mori-no-shugoshin.json) |
 | Croket! Kindan no Kinka Box | 248202 | [248202-croket-kindan-no-kinka-box.json](./248202-croket-kindan-no-kinka-box.json) |
 | Crollors Game Pack | 85559 | [85559-crollors-game-pack.json](./85559-crollors-game-pack.json) |
 | Crom: Journey of Conquest | 173217 | [173217-crom-journey-of-conquest.json](./173217-crom-journey-of-conquest.json) |
