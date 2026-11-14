@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
 | 1213: Episode 2 | 79143 | [79143-1213-episode-2.json](./79143-1213-episode-2.json) |
 | 1213: Special Edition | 144628 | [144628-1213-special-edition.json](./144628-1213-special-edition.json) |
+| 123 Animal First Grade Math | 80046 | [80046-123-animal-first-grade-math.json](./80046-123-animal-first-grade-math.json) |
 | 123 Animal Math Games For Kids | 79085 | [79085-123-animal-math-games-for-kids.json](./79085-123-animal-math-games-for-kids.json) |
 | 123 Animal Preschool Games for Kids | 58575 | [58575-123-animal-preschool-games-for-kids.json](./58575-123-animal-preschool-games-for-kids.json) |
 | 123 Animal Second Grade Math for Kids | 58477 | [58477-123-animal-second-grade-math-for-kids.json](./58477-123-animal-second-grade-math-for-kids.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Experience Hidden Objects | 364951 | [364951-2-in-1-experience-hidden-objects.json](./364951-2-in-1-experience-hidden-objects.json) |
 | 2 in 1 Game Pack I Spider-Man: Mysterio's Menace + X2: Wolverine's Revenge | 80112 | [80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json](./80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json) |
 | 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
+| 2 In 1 Game Pack: Spider-Man + Spider-Man 2 | 80023 | [80023-2-in-1-game-pack-spider-man-spider-man-2.json](./80023-2-in-1-game-pack-spider-man-spider-man-2.json) |
 | 2 In 1 Game Pack: Tony Hawk's Underground + Kelly Slater's Pro Surfer | 80114 | [80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json](./80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json) |
 | 2 in 1 Hidden Object Worlds | 366272 | [366272-2-in-1-hidden-object-worlds.json](./366272-2-in-1-hidden-object-worlds.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
@@ -2973,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 for the Money Demo | 93687 | [93687-4-for-the-money-demo.json](./93687-4-for-the-money-demo.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 Games in 1 Cartridge | 281290 | [281290-4-games-in-1-cartridge.json](./281290-4-games-in-1-cartridge.json) |
+| 4 Get It | 80027 | [80027-4-get-it.json](./80027-4-get-it.json) |
 | 4 Gewinnt | 85728 | [85728-4-gewinnt.json](./85728-4-gewinnt.json) |
 | 4 Giga Boss Fights | 181904 | [181904-4-giga-boss-fights.json](./181904-4-giga-boss-fights.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
