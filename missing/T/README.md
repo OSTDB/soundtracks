@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo: The Sixth Sense | 288038 | [288038-taboo-the-sixth-sense.json](./288038-taboo-the-sixth-sense.json) |
 | Taboo: The Sixth Sense 2K9 | 71899 | [71899-taboo-the-sixth-sense-2k9.json](./71899-taboo-the-sixth-sense-2k9.json) |
 | Taboos: Cracks | 284239 | [284239-taboos-cracks.json](./284239-taboos-cracks.json) |
+| Taboos: Flower | 128054 | [128054-taboos-flower.json](./128054-taboos-flower.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
 | TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Exciting | 247005 | [247005-tennis-exciting.json](./247005-tennis-exciting.json) |
+| Tennis Fighters | 128049 | [128049-tennis-fighters.json](./128049-tennis-fighters.json) |
 | Tennis for Two | 6763 | [6763-tennis-for-two.json](./6763-tennis-for-two.json) |
 | Tennis Game | 111551 | [111551-tennis-game.json](./111551-tennis-game.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
@@ -13144,6 +13146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crusade | 315774 | [315774-the-last-crusade.json](./315774-the-last-crusade.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
+| The Last Cube | 128028 | [128028-the-last-cube.json](./128028-the-last-cube.json) |
 | The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
 | The Last Customer | 399339 | [399339-the-last-customer.json](./399339-the-last-customer.json) |
 | The Last Dance | 50358 | [50358-the-last-dance.json](./50358-the-last-dance.json) |
@@ -15484,6 +15487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Music Trivia Challenge | 106894 | [106894-the-music-trivia-challenge.json](./106894-the-music-trivia-challenge.json) |
 | The Musketeers: Victoria's Quest | 34759 | [34759-the-musketeers-victorias-quest.json](./34759-the-musketeers-victorias-quest.json) |
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
+| The Mutational | 128039 | [128039-the-mutational.json](./128039-the-mutational.json) |
 | The Mute House | 239097 | [239097-the-mute-house.json](./239097-the-mute-house.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
@@ -16474,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
 | The Pit Is Hungry | 418320 | [418320-the-pit-is-hungry.json](./418320-the-pit-is-hungry.json) |
+| The Pit: Infinity | 128068 | [128068-the-pit-infinity.json](./128068-the-pit-infinity.json) |
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
 | The Pitch | 345242 | [345242-the-pitch.json](./345242-the-pitch.json) |
@@ -32806,6 +32811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trance, Trauma | 240633 | [240633-trance-trauma.json](./240633-trance-trauma.json) |
 | Trancelation | 72448 | [72448-trancelation.json](./72448-trancelation.json) |
 | TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
+| Tranject | 128058 | [128058-tranject.json](./128058-tranject.json) |
 | Tranquil Builds | 288562 | [288562-tranquil-builds.json](./288562-tranquil-builds.json) |
 | Tranquil Cove | 189317 | [189317-tranquil-cove.json](./189317-tranquil-cove.json) |
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
@@ -33084,6 +33090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traphouse Druglord | 172244 | [172244-traphouse-druglord.json](./172244-traphouse-druglord.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
+| Trapped | 128055 | [128055-trapped.json](./128055-trapped.json) |
 | Trapped | 148725 | [148725-trapped.json](./148725-trapped.json) |
 | Trapped | 305360 | [305360-trapped.json](./305360-trapped.json) |
 | Trapped | 360621 | [360621-trapped.json](./360621-trapped.json) |
