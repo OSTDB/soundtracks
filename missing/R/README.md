@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Lucy | 208283 | [208283-red-lucy.json](./208283-red-lucy.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Magic | 291719 | [291719-red-magic.json](./291719-red-magic.json) |
+| Red Man | 154112 | [154112-red-man.json](./154112-red-man.json) |
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
 | Red Margins | 406415 | [406415-red-margins.json](./406415-red-margins.json) |
 | Red Masked Ronin: Desires and Shadows | 417217 | [417217-red-masked-ronin-desires-and-shadows.json](./417217-red-masked-ronin-desires-and-shadows.json) |
@@ -6023,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue Team: Planet Savers | 157735 | [157735-rescue-team-planet-savers.json](./157735-rescue-team-planet-savers.json) |
 | Rescue Team: Power Eaters | 188860 | [188860-rescue-team-power-eaters.json](./188860-rescue-team-power-eaters.json) |
+| Rescue Teddy | 154098 | [154098-rescue-teddy.json](./154098-rescue-teddy.json) |
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
 | Rescue the Enchanter | 87270 | [87270-rescue-the-enchanter.json](./87270-rescue-the-enchanter.json) |
 | Rescue the Girl | 347086 | [347086-rescue-the-girl.json](./347086-rescue-the-girl.json) |
@@ -9326,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
 | Road to Hades | 306867 | [306867-road-to-hades.json](./306867-road-to-hades.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
+| Road to Hollow Hills | 154038 | [154038-road-to-hollow-hills.json](./154038-road-to-hollow-hills.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
 | Road to Jukai | 380485 | [380485-road-to-jukai.json](./380485-road-to-jukai.json) |
 | Road to Karatl | 375485 | [375485-road-to-karatl.json](./375485-road-to-karatl.json) |
