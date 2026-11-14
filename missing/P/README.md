@@ -11170,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
 | Plush Hospital | 319999 | [319999-plush-hospital.json](./319999-plush-hospital.json) |
+| Plush Madness | 165720 | [165720-plush-madness.json](./165720-plush-madness.json) |
 | Plush Parade | 391336 | [391336-plush-parade.json](./391336-plush-parade.json) |
 | Plush Party | 342312 | [342312-plush-party.json](./342312-plush-party.json) |
 | Plush Rangers | 386766 | [386766-plush-rangers.json](./386766-plush-rangers.json) |
@@ -17174,6 +17175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
 | Project Cars 2: Limited Edition | 100548 | [100548-project-cars-2-limited-edition.json](./100548-project-cars-2-limited-edition.json) |
 | Project CARS 3 | 121173 | [121173-project-cars-3.json](./121173-project-cars-3.json) |
+| Project CARS 3: Deluxe Edition | 165207 | [165207-project-cars-3-deluxe-edition.json](./165207-project-cars-3-deluxe-edition.json) |
 | Project CARS 3: Electric Pack | 162307 | [162307-project-cars-3-electric-pack.json](./162307-project-cars-3-electric-pack.json) |
 | Project CARS 3: Ignition Pack | 162311 | [162311-project-cars-3-ignition-pack.json](./162311-project-cars-3-ignition-pack.json) |
 | Project CARS 3: Legends Pack | 162309 | [162309-project-cars-3-legends-pack.json](./162309-project-cars-3-legends-pack.json) |
