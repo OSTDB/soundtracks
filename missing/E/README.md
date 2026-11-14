@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Sticks | 364797 | [364797-earth-defense-sticks.json](./364797-earth-defense-sticks.json) |
 | Earth Dies Screaming | 40614 | [40614-earth-dies-screaming.json](./40614-earth-dies-screaming.json) |
 | Earth Editor | 288086 | [288086-earth-editor.json](./288086-earth-editor.json) |
+| Earth Elements | 148575 | [148575-earth-elements.json](./148575-earth-elements.json) |
 | Earth Ends | 257174 | [257174-earth-ends.json](./257174-earth-ends.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
@@ -5774,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Monsterland | 155919 | [155919-escape-from-monsterland.json](./155919-escape-from-monsterland.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
 | Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
+| Escape From My Turrets | 148590 | [148590-escape-from-my-turrets.json](./148590-escape-from-my-turrets.json) |
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from Nightmare: Horror Tales | 328735 | [328735-escape-from-nightmare-horror-tales.json](./328735-escape-from-nightmare-horror-tales.json) |
@@ -7946,6 +7948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Nun 2: Origins | 269425 | [269425-evil-nun-2-origins.json](./269425-evil-nun-2-origins.json) |
 | Evil Nun Maze | 356568 | [356568-evil-nun-maze.json](./356568-evil-nun-maze.json) |
 | Evil Nun Rush | 208177 | [208177-evil-nun-rush.json](./208177-evil-nun-rush.json) |
+| Evil Nun: The Broken Mask | 148577 | [148577-evil-nun-the-broken-mask.json](./148577-evil-nun-the-broken-mask.json) |
 | Evil Nun: The Broken Mask - Unholy Edition | 324596 | [324596-evil-nun-the-broken-mask-unholy-edition.json](./324596-evil-nun-the-broken-mask-unholy-edition.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
@@ -8273,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excessive Speed | 36921 | [36921-excessive-speed.json](./36921-excessive-speed.json) |
 | Excessive Trim | 274438 | [274438-excessive-trim.json](./274438-excessive-trim.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
+| Excidio The Kaiju Simulator | 148620 | [148620-excidio-the-kaiju-simulator.json](./148620-excidio-the-kaiju-simulator.json) |
 | Excisa | 425422 | [425422-excisa.json](./425422-excisa.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excit | 261087 | [261087-excit.json](./261087-excit.json) |
@@ -9274,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeball-watching flowers bloom | 186019 | [186019-eyeball-watching-flowers-bloom.json](./186019-eyeball-watching-flowers-bloom.json) |
 | Eyeballs are your Enemies! | 166603 | [166603-eyeballs-are-your-enemies.json](./166603-eyeballs-are-your-enemies.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
+| EyeDash | 148597 | [148597-eyedash.json](./148597-eyedash.json) |
 | Eyedentify | 91685 | [91685-eyedentify.json](./91685-eyedentify.json) |
 | Eyehand | 64006 | [64006-eyehand.json](./64006-eyehand.json) |
 | Eyehold Blocks | 399902 | [399902-eyehold-blocks.json](./399902-eyehold-blocks.json) |
