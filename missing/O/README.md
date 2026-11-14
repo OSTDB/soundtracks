@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
 | One Piece: Pirate Warriors 3 - Story Pack | 263282 | [263282-one-piece-pirate-warriors-3-story-pack.json](./263282-one-piece-pirate-warriors-3-story-pack.json) |
+| One Piece: Pirate Warriors 3 Launch Bundle | 96359 | [96359-one-piece-pirate-warriors-3-launch-bundle.json](./96359-one-piece-pirate-warriors-3-launch-bundle.json) |
 | One Piece: Pirate Warriors 4 | 120436 | [120436-one-piece-pirate-warriors-4.json](./120436-one-piece-pirate-warriors-4.json) |
 | One Piece: Pirate Warriors 4 - Additional Episodes Pack | 266741 | [266741-one-piece-pirate-warriors-4-additional-episodes-pack.json](./266741-one-piece-pirate-warriors-4-additional-episodes-pack.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
@@ -4904,6 +4905,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmium | 60275 | [60275-osmium.json](./60275-osmium.json) |
 | Osmo Coding Awbie | 96181 | [96181-osmo-coding-awbie.json](./96181-osmo-coding-awbie.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
+| Osmo Genius Tangram | 96326 | [96326-osmo-genius-tangram.json](./96326-osmo-genius-tangram.json) |
+| Osmo Genius Words | 96327 | [96327-osmo-genius-words.json](./96327-osmo-genius-words.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osmo Newton | 95652 | [95652-osmo-newton.json](./95652-osmo-newton.json) |
 | Osmo Numbers | 95651 | [95651-osmo-numbers.json](./95651-osmo-numbers.json) |
