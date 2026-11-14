@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Drift | 164957 | [164957-galaxy-drift.json](./164957-galaxy-drift.json) |
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Dwellers | 254693 | [254693-galaxy-dwellers.json](./254693-galaxy-dwellers.json) |
+| Galaxy Empire | 135343 | [135343-galaxy-empire.json](./135343-galaxy-empire.json) |
 | Galaxy Enemies | 412066 | [412066-galaxy-enemies.json](./412066-galaxy-enemies.json) |
 | Galaxy Exodus | 420218 | [420218-galaxy-exodus.json](./420218-galaxy-exodus.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
