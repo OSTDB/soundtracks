@@ -11244,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Challenge | 44675 | [44675-formula-challenge.json](./44675-formula-challenge.json) |
 | Formula Circus | 286579 | [286579-formula-circus.json](./286579-formula-circus.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
+| Formula Classic | 119117 | [119117-formula-classic.json](./119117-formula-classic.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
 | Formula E powered by Virtually Live | 36639 | [36639-formula-e-powered-by-virtually-live.json](./36639-formula-e-powered-by-virtually-live.json) |
