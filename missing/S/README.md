@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Searching | 292389 | [292389-searching.json](./292389-searching.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
+| SeaRing | 143145 | [143145-searing.json](./143145-searing.json) |
 | Sears: The Sky Frontier | 212949 | [212949-sears-the-sky-frontier.json](./212949-sears-the-sky-frontier.json) |
 | Seas of Blood | 26356 | [26356-seas-of-blood.json](./26356-seas-of-blood.json) |
 | Seas of Fortune | 120964 | [120964-seas-of-fortune.json](./120964-seas-of-fortune.json) |
@@ -4916,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret | 340101 | [340101-secret.json](./340101-secret.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
+| Secret Agenda | 143140 | [143140-secret-agenda.json](./143140-secret-agenda.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent | 282771 | [282771-secret-agent.json](./282771-secret-agent.json) |
 | Secret Agent | 8485 | [8485-secret-agent.json](./8485-secret-agent.json) |
@@ -20869,6 +20871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Voltex III: Gravity Wars | 39883 | [39883-sound-voltex-iii-gravity-wars.json](./39883-sound-voltex-iii-gravity-wars.json) |
 | Sound Voltex IV: Heavenly Haven | 79244 | [79244-sound-voltex-iv-heavenly-haven.json](./79244-sound-voltex-iv-heavenly-haven.json) |
 | Sound Voltex Nabla | 382474 | [382474-sound-voltex-nabla.json](./382474-sound-voltex-nabla.json) |
+| Sound Voltex: Exceed Gear | 143175 | [143175-sound-voltex-exceed-gear.json](./143175-sound-voltex-exceed-gear.json) |
 | Sound Voltex: Exceed Gear | 187235 | [187235-sound-voltex-exceed-gear.json](./187235-sound-voltex-exceed-gear.json) |
 | Sound Voltex: Ultimate Mobile | 197332 | [197332-sound-voltex-ultimate-mobile.json](./197332-sound-voltex-ultimate-mobile.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
@@ -20881,6 +20884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundgrass | 381079 | [381079-soundgrass.json](./381079-soundgrass.json) |
 | SoundKilla | 295154 | [295154-soundkilla.json](./295154-soundkilla.json) |
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
+| Soundless Mountain II | 143131 | [143131-soundless-mountain-ii.json](./143131-soundless-mountain-ii.json) |
 | Soundless: A Modern Salem in Remote Area | 144167 | [144167-soundless-a-modern-salem-in-remote-area.json](./144167-soundless-a-modern-salem-in-remote-area.json) |
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundlessNightmare | 342541 | [342541-soundlessnightmare.json](./342541-soundlessnightmare.json) |
@@ -33965,6 +33969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Classics HD Bundle | 276867 | [276867-super-classics-hd-bundle.json](./276867-super-classics-hd-bundle.json) |
 | Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
+| Super Clone: cyberpunk roguelike action | 143170 | [143170-super-clone-cyberpunk-roguelike-action.json](./143170-super-clone-cyberpunk-roguelike-action.json) |
 | Super Cloner 3D | 223925 | [223925-super-cloner-3d.json](./223925-super-cloner-3d.json) |
 | Super Cloud Fight | 279476 | [279476-super-cloud-fight.json](./279476-super-cloud-fight.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
@@ -36623,6 +36628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spooky Subgame Spectacular | 262836 | [262836-super-spooky-subgame-spectacular.json](./262836-super-spooky-subgame-spectacular.json) |
 | Super Sport Challenge | 69715 | [69715-super-sport-challenge.json](./69715-super-sport-challenge.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
+| Super Sports Blast | 143160 | [143160-super-sports-blast.json](./143160-super-sports-blast.json) |
 | Super Sports Challenge | 369131 | [369131-super-sports-challenge.json](./369131-super-sports-challenge.json) |
 | Super Sports Isle | 410197 | [410197-super-sports-isle.json](./410197-super-sports-isle.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
@@ -39293,6 +39299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
 | Sword Princess Sistina | 292523 | [292523-sword-princess-sistina.json](./292523-sword-princess-sistina.json) |
 | Sword Quest | 57380 | [57380-sword-quest.json](./57380-sword-quest.json) |
+| Sword Reverie | 143142 | [143142-sword-reverie.json](./143142-sword-reverie.json) |
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
 | Sword Saga | 46947 | [46947-sword-saga.json](./46947-sword-saga.json) |
