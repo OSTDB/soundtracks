@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Shootiner | 98044 | [98044-ray-shootiner.json](./98044-ray-shootiner.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray Tracers | 45090 | [45090-ray-tracers.json](./45090-ray-tracers.json) |
+| Ray Versus | 129830 | [129830-ray-versus.json](./129830-ray-versus.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
 | Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
@@ -6119,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 0: Complete Costume Pack | 261040 | [261040-resident-evil-0-complete-costume-pack.json](./261040-resident-evil-0-complete-costume-pack.json) |
 | Resident Evil 0: Demake | 407906 | [407906-resident-evil-0-demake.json](./407906-resident-evil-0-demake.json) |
 | Resident Evil 1: Roku's cut | 325945 | [325945-resident-evil-1-rokus-cut.json](./325945-resident-evil-1-rokus-cut.json) |
+| Resident Evil 1.5 | 129858 | [129858-resident-evil-1-5.json](./129858-resident-evil-1-5.json) |
 | Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
 | Resident Evil 2 | 186400 | [186400-resident-evil-2.json](./186400-resident-evil-2.json) |
 | Resident Evil 2 | 210710 | [210710-resident-evil-2.json](./210710-resident-evil-2.json) |
@@ -6433,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Dream | 387126 | [387126-restaurant-dream.json](./387126-restaurant-dream.json) |
 | Restaurant Empire | 10766 | [10766-restaurant-empire.json](./10766-restaurant-empire.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
+| Restaurant Flipper | 129844 | [129844-restaurant-flipper.json](./129844-restaurant-flipper.json) |
 | Restaurant Health Inspection Simulator: Sanitary Service | 293369 | [293369-restaurant-health-inspection-simulator-sanitary-service.json](./293369-restaurant-health-inspection-simulator-sanitary-service.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant King | 253765 | [253765-restaurant-king.json](./253765-restaurant-king.json) |
@@ -13943,6 +13946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Late | 300029 | [300029-running-late.json](./300029-running-late.json) |
 | Running Late | 395109 | [395109-running-late.json](./395109-running-late.json) |
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
+| Running Loli | 129849 | [129849-running-loli.json](./129849-running-loli.json) |
 | Running Man 3D | 106444 | [106444-running-man-3d.json](./106444-running-man-3d.json) |
 | Running Memories | 303311 | [303311-running-memories.json](./303311-running-memories.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
