@@ -5890,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem | 188458 | [188458-requiem.json](./188458-requiem.json) |
 | Requiem | 255853 | [255853-requiem.json](./255853-requiem.json) |
 | Requiem | 377166 | [377166-requiem.json](./377166-requiem.json) |
+| Requiem Aeternam Eden | 150794 | [150794-requiem-aeternam-eden.json](./150794-requiem-aeternam-eden.json) |
 | Requiem For a Lost World | 319910 | [319910-requiem-for-a-lost-world.json](./319910-requiem-for-a-lost-world.json) |
 | Requiem for an Angel | 285384 | [285384-requiem-for-an-angel.json](./285384-requiem-for-an-angel.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
@@ -13838,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runix: Pinball Roguelike | 374970 | [374970-runix-pinball-roguelike.json](./374970-runix-pinball-roguelike.json) |
+| Runlancer | 150712 | [150712-runlancer.json](./150712-runlancer.json) |
 | RunMan Turbo | 220489 | [220489-runman-turbo.json](./220489-runman-turbo.json) |
 | RunMan: Race Around the World | 66258 | [66258-runman-race-around-the-world.json](./66258-runman-race-around-the-world.json) |
 | RunMan's Monster Fracas | 57591 | [57591-runmans-monster-fracas.json](./57591-runmans-monster-fracas.json) |
