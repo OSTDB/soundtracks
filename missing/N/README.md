@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Kicks | 117462 | [117462-neon-kicks.json](./117462-neon-kicks.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
+| Neon Knight: Vengeance from the Grave | 88329 | [88329-neon-knight-vengeance-from-the-grave.json](./88329-neon-knight-vengeance-from-the-grave.json) |
 | Neon Knights | 340110 | [340110-neon-knights.json](./340110-neon-knights.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
 | Neon Knives | 349204 | [349204-neon-knives.json](./349204-neon-knives.json) |
@@ -3978,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
 | Next Space Rebels | 152256 | [152256-next-space-rebels.json](./152256-next-space-rebels.json) |
+| Next Spades | 88674 | [88674-next-spades.json](./88674-next-spades.json) |
 | Next Star System | 194288 | [194288-next-star-system.json](./194288-next-star-system.json) |
 | Next Station | 405763 | [405763-next-station.json](./405763-next-station.json) |
 | Next Station is... | 422188 | [422188-next-station-is.json](./422188-next-station-is.json) |
