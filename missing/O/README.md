@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass: Deluxe Edition | 165864 | [165864-overpass-deluxe-edition.json](./165864-overpass-deluxe-edition.json) |
 | Overpixel | 291404 | [291404-overpixel.json](./291404-overpixel.json) |
 | Overplasma | 143576 | [143576-overplasma.json](./143576-overplasma.json) |
+| Overpower | 150736 | [150736-overpower.json](./150736-overpower.json) |
 | Overpower | 18924 | [18924-overpower.json](./18924-overpower.json) |
 | Overpower RPG - Capítulo 1: A Saga de Bulgar | 348733 | [348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json](./348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json) |
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
