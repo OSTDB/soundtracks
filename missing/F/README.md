@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 3: Ancient Rome | 88412 | [88412-farm-frenzy-3-ancient-rome.json](./88412-farm-frenzy-3-ancient-rome.json) |
 | Farm Frenzy 3: Ancient Rome HD | 103750 | [103750-farm-frenzy-3-ancient-rome-hd.json](./103750-farm-frenzy-3-ancient-rome-hd.json) |
 | Farm Frenzy 3: Ice Domain | 53010 | [53010-farm-frenzy-3-ice-domain.json](./53010-farm-frenzy-3-ice-domain.json) |
+| Farm Frenzy 3: Madagascar HD | 93909 | [93909-farm-frenzy-3-madagascar-hd.json](./93909-farm-frenzy-3-madagascar-hd.json) |
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
@@ -10896,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Lost: Episode 1 SD | 101071 | [101071-forever-lost-episode-1-sd.json](./101071-forever-lost-episode-1-sd.json) |
 | Forever Lost: Episode 2 | 99279 | [99279-forever-lost-episode-2.json](./99279-forever-lost-episode-2.json) |
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
+| Forever Lost: Episode 3 | 93865 | [93865-forever-lost-episode-3.json](./93865-forever-lost-episode-3.json) |
 | Forever Lost: Episode 3 SD | 99367 | [99367-forever-lost-episode-3-sd.json](./99367-forever-lost-episode-3-sd.json) |
 | Forever Meow | 59708 | [59708-forever-meow.json](./59708-forever-meow.json) |
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
