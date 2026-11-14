@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
 | RagDoll MadDoll | 169601 | [169601-ragdoll-maddoll.json](./169601-ragdoll-maddoll.json) |
+| Ragdoll Madness | 146367 | [146367-ragdoll-madness.json](./146367-ragdoll-madness.json) |
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
 | Ragdoll Matrix | 73259 | [73259-ragdoll-matrix.json](./73259-ragdoll-matrix.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
