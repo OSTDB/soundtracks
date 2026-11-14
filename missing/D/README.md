@@ -8362,6 +8362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep | 119507 | [119507-destiny-2-shadowkeep.json](./119507-destiny-2-shadowkeep.json) |
 | Destiny 2: Shadowkeep - Digital Deluxe Edition | 122719 | [122719-destiny-2-shadowkeep-digital-deluxe-edition.json](./122719-destiny-2-shadowkeep-digital-deluxe-edition.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
+| Destiny 2: Shadowkeep - Season of Dawn | 129884 | [129884-destiny-2-shadowkeep-season-of-dawn.json](./129884-destiny-2-shadowkeep-season-of-dawn.json) |
 | Destiny 2: Shadowkeep - Season of the Undying | 129885 | [129885-destiny-2-shadowkeep-season-of-the-undying.json](./129885-destiny-2-shadowkeep-season-of-the-undying.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
