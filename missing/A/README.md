@@ -5807,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Detective Collection | 302397 | [302397-ai-detective-collection.json](./302397-ai-detective-collection.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Doll Repairer | 370581 | [370581-ai-doll-repairer.json](./370581-ai-doll-repairer.json) |
+| AI Drone Simulator | 148603 | [148603-ai-drone-simulator.json](./148603-ai-drone-simulator.json) |
 | AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
 | AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
@@ -7619,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
 | Alien Age | 188836 | [188836-alien-age.json](./188836-alien-age.json) |
 | Alien Agent X | 385882 | [385882-alien-agent-x.json](./385882-alien-agent-x.json) |
+| Alien AI | 148582 | [148582-alien-ai.json](./148582-alien-ai.json) |
 | Alien Ambush | 21636 | [21636-alien-ambush.json](./21636-alien-ambush.json) |
 | Alien Ambush | 94832 | [94832-alien-ambush.json](./94832-alien-ambush.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
@@ -8650,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
 | Alone in the Mars | 181069 | [181069-alone-in-the-mars.json](./181069-alone-in-the-mars.json) |
 | Alone in the Night | 58033 | [58033-alone-in-the-night.json](./58033-alone-in-the-night.json) |
+| Alone in the Office | 149102 | [149102-alone-in-the-office.json](./149102-alone-in-the-office.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone in the Stars: Survivor | 334886 | [334886-alone-in-the-stars-survivor.json](./334886-alone-in-the-stars-survivor.json) |
@@ -13037,6 +13040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Rush | 83849 | [83849-apocalypse-rush.json](./83849-apocalypse-rush.json) |
 | Apocalypse Secrets | 321948 | [321948-apocalypse-secrets.json](./321948-apocalypse-secrets.json) |
 | Apocalypse Shop Simulator | 326486 | [326486-apocalypse-shop-simulator.json](./326486-apocalypse-shop-simulator.json) |
+| Apocalypse Survivor | 148614 | [148614-apocalypse-survivor.json](./148614-apocalypse-survivor.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Survivors | 346880 | [346880-apocalypse-survivors.json](./346880-apocalypse-survivors.json) |
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
@@ -16152,6 +16156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of Running | 319466 | [319466-art-of-running.json](./319466-art-of-running.json) |
 | Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
+| Art of Space | 148584 | [148584-art-of-space.json](./148584-art-of-space.json) |
 | Art of Speed | 264419 | [264419-art-of-speed.json](./264419-art-of-speed.json) |
 | Art of Stealth | 378322 | [378322-art-of-stealth.json](./378322-art-of-stealth.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
