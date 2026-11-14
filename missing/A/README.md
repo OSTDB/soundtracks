@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Ninja Dash | 237608 | [237608-action-ninja-dash.json](./237608-action-ninja-dash.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
+| Action Pack | 126071 | [126071-action-pack.json](./126071-action-pack.json) |
 | Action Pack 2 | 360238 | [360238-action-pack-2.json](./360238-action-pack-2.json) |
 | Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
 | Action Pack: Armed Forces Corp. and Terrorist Takedown 2 | 202058 | [202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json](./202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json) |
@@ -5098,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterdream | 207735 | [207735-afterdream.json](./207735-afterdream.json) |
 | Afterdream & Distraint Series Bundle | 271122 | [271122-afterdream-and-distraint-series-bundle.json](./271122-afterdream-and-distraint-series-bundle.json) |
 | Aftereffect | 405349 | [405349-aftereffect.json](./405349-aftereffect.json) |
+| Afterfall | 126080 | [126080-afterfall.json](./126080-afterfall.json) |
 | Afterfall: Insanity | 8375 | [8375-afterfall-insanity.json](./8375-afterfall-insanity.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterfall: Reconquest | 18961 | [18961-afterfall-reconquest.json](./18961-afterfall-reconquest.json) |
