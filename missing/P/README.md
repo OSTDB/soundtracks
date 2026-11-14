@@ -11245,6 +11245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plushed | 66532 | [66532-plushed.json](./66532-plushed.json) |
 | Plushees | 122506 | [122506-plushees.json](./122506-plushees.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
+| Plushie Defense | 136523 | [136523-plushie-defense.json](./136523-plushie-defense.json) |
 | Plushie Dungeon | 157335 | [157335-plushie-dungeon.json](./157335-plushie-dungeon.json) |
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
 | Plushiemon | 344009 | [344009-plushiemon.json](./344009-plushiemon.json) |
@@ -12817,6 +12818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
 | Pokemon: Too Many Types 2 | 382081 | [382081-pokemon-too-many-types-2.json](./382081-pokemon-too-many-types-2.json) |
 | Pokémon: Towering Legends | 203147 | [203147-pokemon-towering-legends.json](./203147-pokemon-towering-legends.json) |
+| Pokémon: Type Wild | 136545 | [136545-pokemon-type-wild.json](./136545-pokemon-type-wild.json) |
 | Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
