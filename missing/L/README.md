@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeside Bar | 346701 | [346701-lakeside-bar.json](./346701-lakeside-bar.json) |
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
+| Lakeview Cabin | 128664 | [128664-lakeview-cabin.json](./128664-lakeview-cabin.json) |
 | Lakeview Cabin 2 | 149478 | [149478-lakeview-cabin-2.json](./149478-lakeview-cabin-2.json) |
 | Lakeview Cabin Collection | 25622 | [25622-lakeview-cabin-collection.json](./25622-lakeview-cabin-collection.json) |
 | Lakeview Valley | 117690 | [117690-lakeview-valley.json](./117690-lakeview-valley.json) |
@@ -7406,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 'n' Chase | 169910 | [169910-lock-n-chase.json](./169910-lock-n-chase.json) |
 | Lock 'n' Chase | 22717 | [22717-lock-n-chase.json](./22717-lock-n-chase.json) |
 | Lock 'n' Chase | 276441 | [276441-lock-n-chase.json](./276441-lock-n-chase.json) |
+| Lock 'n' Roll | 128672 | [128672-lock-n-roll.json](./128672-lock-n-roll.json) |
 | Lock & Key | 145716 | [145716-lock-and-key.json](./145716-lock-and-key.json) |
 | Lock & Key: A Hunter's Legacy | 253920 | [253920-lock-and-key-a-hunters-legacy.json](./253920-lock-and-key-a-hunters-legacy.json) |
 | Lock & Key: A Magical Girl Mystery | 202633 | [202633-lock-and-key-a-magical-girl-mystery.json](./202633-lock-and-key-a-magical-girl-mystery.json) |
