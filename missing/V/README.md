@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
 | Vacuous Sugar Quest | 350707 | [350707-vacuous-sugar-quest.json](./350707-vacuous-sugar-quest.json) |
 | VacuuBot: Home Cleaning Simulator | 378135 | [378135-vacuubot-home-cleaning-simulator.json](./378135-vacuubot-home-cleaning-simulator.json) |
+| Vacuulus | 155753 | [155753-vacuulus.json](./155753-vacuulus.json) |
 | Vacuum | 195824 | [195824-vacuum.json](./195824-vacuum.json) |
 | Vacuum | 274673 | [274673-vacuum.json](./274673-vacuum.json) |
 | Vacuum Balaena | 301791 | [301791-vacuum-balaena.json](./301791-vacuum-balaena.json) |
