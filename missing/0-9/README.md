@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Legends of Mystery 5 | 203857 | [203857-1001-jigsaw-legends-of-mystery-5.json](./203857-1001-jigsaw-legends-of-mystery-5.json) |
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
 | 1001 Jigsaw: Wild Animals | 195447 | [195447-1001-jigsaw-wild-animals.json](./195447-1001-jigsaw-wild-animals.json) |
+| 1001 Jigsaw: World Tour - Africa | 162968 | [162968-1001-jigsaw-world-tour-africa.json](./162968-1001-jigsaw-world-tour-africa.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
 | 1001 Jigsaw: World Tour - France | 127518 | [127518-1001-jigsaw-world-tour-france.json](./127518-1001-jigsaw-world-tour-france.json) |
 | 1001 Jigsaw: World Tour - Great America | 91255 | [91255-1001-jigsaw-world-tour-great-america.json](./91255-1001-jigsaw-world-tour-great-america.json) |
