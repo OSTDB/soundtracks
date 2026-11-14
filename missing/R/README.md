@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Turmoil | 302408 | [302408-real-turmoil.json](./302408-real-turmoil.json) |
 | Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
 | Real Video Blackjack | 79462 | [79462-real-video-blackjack.json](./79462-real-video-blackjack.json) |
+| Real Video Poker | 130997 | [130997-real-video-poker.json](./130997-real-video-poker.json) |
 | Real VR Fishing | 130566 | [130566-real-vr-fishing.json](./130566-real-vr-fishing.json) |
 | Real VR Fishing: Canada DLC | 378726 | [378726-real-vr-fishing-canada-dlc.json](./378726-real-vr-fishing-canada-dlc.json) |
 | Real VR Fishing: Europe DLC Vol.2 | 378723 | [378723-real-vr-fishing-europe-dlc-vol-2.json](./378723-real-vr-fishing-europe-dlc-vol-2.json) |
