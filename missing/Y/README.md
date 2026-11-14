@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummy | 246375 | [246375-yummy.json](./246375-yummy.json) |
 | Yummy Cubes | 100342 | [100342-yummy-cubes.json](./100342-yummy-cubes.json) |
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
+| Yummy Girl | 147537 | [147537-yummy-girl.json](./147537-yummy-girl.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Girls | 203631 | [203631-yummy-girls.json](./203631-yummy-girls.json) |
 | Yummy Girls 2 | 236762 | [236762-yummy-girls-2.json](./236762-yummy-girls-2.json) |
