@@ -7343,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem Epic Adventures | 238297 | [238297-golem-epic-adventures.json](./238297-golem-epic-adventures.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
+| Golem Rage | 96378 | [96378-golem-rage.json](./96378-golem-rage.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | GolemRush | 105219 | [105219-golemrush.json](./105219-golemrush.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GolfTopia | 126952 | [126952-golftopia.json](./126952-golftopia.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
+| Golfy Golf | 96348 | [96348-golfy-golf.json](./96348-golfy-golf.json) |
 | Golgalian | 348046 | [348046-golgalian.json](./348046-golgalian.json) |
 | Golgo 13 | 6107 | [6107-golgo-13.json](./6107-golgo-13.json) |
 | Golgo 13: Carlyle no Yabou | 91931 | [91931-golgo-13-carlyle-no-yabou.json](./91931-golgo-13-carlyle-no-yabou.json) |
@@ -11944,6 +11946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Priest | 116354 | [116354-gun-priest.json](./116354-gun-priest.json) |
 | Gun Princess 2 | 180523 | [180523-gun-princess-2.json](./180523-gun-princess-2.json) |
 | Gun Quest | 382475 | [382475-gun-quest.json](./382475-gun-quest.json) |
+| Gun Rage | 96372 | [96372-gun-rage.json](./96372-gun-rage.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
 | Gun Range VR | 32341 | [32341-gun-range-vr.json](./32341-gun-range-vr.json) |
 | Gun Raze | 98023 | [98023-gun-raze.json](./98023-gun-raze.json) |
