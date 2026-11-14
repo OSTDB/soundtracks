@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | TacticTrainer | 87457 | [87457-tactictrainer.json](./87457-tactictrainer.json) |
 | TactiCube | 235946 | [235946-tacticube.json](./235946-tacticube.json) |
+| Tactikk | 121784 | [121784-tactikk.json](./121784-tactikk.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactilite | 397160 | [397160-tactilite.json](./397160-tactilite.json) |
 | Tactishia | 297894 | [297894-tactishia.json](./297894-tactishia.json) |
@@ -14192,6 +14193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
 | The Leviathan's Fantasy: Samurai and Onmyoji | 298175 | [298175-the-leviathans-fantasy-samurai-and-onmyoji.json](./298175-the-leviathans-fantasy-samurai-and-onmyoji.json) |
 | The Lewd Deal | 375971 | [375971-the-lewd-deal.json](./375971-the-lewd-deal.json) |
+| The Lewd Knight | 121792 | [121792-the-lewd-knight.json](./121792-the-lewd-knight.json) |
 | The Lewd of the Cock Rings: The Return of Doug Fooker | 385276 | [385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json](./385276-the-lewd-of-the-cock-rings-the-return-of-doug-fooker.json) |
 | The Liar Princess and the Blind Prince | 82370 | [82370-the-liar-princess-and-the-blind-prince.json](./82370-the-liar-princess-and-the-blind-prince.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
@@ -15634,6 +15636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necrons | 60281 | [60281-the-necrons.json](./60281-the-necrons.json) |
 | The Ned Balls | 113393 | [113393-the-ned-balls.json](./113393-the-ned-balls.json) |
 | The Need for Speed | 90 | [90-the-need-for-speed.json](./90-the-need-for-speed.json) |
+| The Need for Speed Collection | 121824 | [121824-the-need-for-speed-collection.json](./121824-the-need-for-speed-collection.json) |
 | The Need to Live | 288160 | [288160-the-need-to-live.json](./288160-the-need-to-live.json) |
 | The Nefargad | 278871 | [278871-the-nefargad.json](./278871-the-nefargad.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
@@ -18020,6 +18023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered | 332369 | [332369-the-shattered.json](./332369-the-shattered.json) |
+| The Shattered Blade | 121793 | [121793-the-shattered-blade.json](./121793-the-shattered-blade.json) |
 | The Shattered Elements Arena | 189270 | [189270-the-shattered-elements-arena.json](./189270-the-shattered-elements-arena.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
 | The Shattered Mind of Lucas Hayes | 387420 | [387420-the-shattered-mind-of-lucas-hayes.json](./387420-the-shattered-mind-of-lucas-hayes.json) |
@@ -21568,6 +21572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Themm: Harukanaru Meikyuu | 260070 | [260070-themm-harukanaru-meikyuu.json](./260070-themm-harukanaru-meikyuu.json) |
+| TheMovingMaze | 121790 | [121790-themovingmaze.json](./121790-themovingmaze.json) |
 | TheNightfall | 81230 | [81230-thenightfall.json](./81230-thenightfall.json) |
 | Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
@@ -25146,6 +25151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Tilting Tiles: Micro Challenge | 250553 | [250553-tilting-tiles-micro-challenge.json](./250553-tilting-tiles-micro-challenge.json) |
 | Tilting Tiles: Ultimate Tilt Remix | 228766 | [228766-tilting-tiles-ultimate-tilt-remix.json](./228766-tilting-tiles-ultimate-tilt-remix.json) |
+| TilTit | 121794 | [121794-tiltit.json](./121794-tiltit.json) |
 | TiltMaze | 90727 | [90727-tiltmaze.json](./90727-tiltmaze.json) |
 | Tiltoff | 141803 | [141803-tiltoff.json](./141803-tiltoff.json) |
 | Tiltspace | 167673 | [167673-tiltspace.json](./167673-tiltspace.json) |
@@ -25286,6 +25292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time For Bed | 317738 | [317738-time-for-bed.json](./317738-time-for-bed.json) |
 | Time For Changes | 418203 | [418203-time-for-changes.json](./418203-time-for-changes.json) |
 | Time For Kill | 353633 | [353633-time-for-kill.json](./353633-time-for-kill.json) |
+| Time for Quest | 121802 | [121802-time-for-quest.json](./121802-time-for-quest.json) |
 | Time For Revenge | 265293 | [265293-time-for-revenge.json](./265293-time-for-revenge.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For Tom | 329485 | [329485-time-for-tom.json](./329485-time-for-tom.json) |
