@@ -17676,6 +17676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Killcker | 270987 | [270987-monster-killcker.json](./270987-monster-killcker.json) |
 | Monster Killer | 150762 | [150762-monster-killer.json](./150762-monster-killer.json) |
 | Monster Killer | 169728 | [169728-monster-killer.json](./169728-monster-killer.json) |
+| Monster King | 129852 | [129852-monster-king.json](./129852-monster-king.json) |
 | Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
