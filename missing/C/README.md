@@ -6250,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Reaction | 418192 | [418192-chain-reaction.json](./418192-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Reaction: Sexy Hentai Girls | 292725 | [292725-chain-reaction-sexy-hentai-girls.json](./292725-chain-reaction-sexy-hentai-girls.json) |
+| Chain Saw | 119829 | [119829-chain-saw.json](./119829-chain-saw.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
 | Chain Slave | 97603 | [97603-chain-slave.json](./97603-chain-slave.json) |
@@ -17353,6 +17354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryball: Europe 1890 | 193590 | [193590-countryball-europe-1890.json](./193590-countryball-europe-1890.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs Conquest | 363683 | [363683-countryballs-conquest.json](./363683-countryballs-conquest.json) |
+| CountryBalls Heroes | 119848 | [119848-countryballs-heroes.json](./119848-countryballs-heroes.json) |
 | Countryballs: Over the World | 83546 | [83546-countryballs-over-the-world.json](./83546-countryballs-over-the-world.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
