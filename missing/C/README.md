@@ -12107,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
+| Club Soccer Director 2019 | 106814 | [106814-club-soccer-director-2019.json](./106814-club-soccer-director-2019.json) |
 | Club Soccer Director 2021 | 148859 | [148859-club-soccer-director-2021.json](./148859-club-soccer-director-2021.json) |
 | Club Soccer Director 2022 | 189843 | [189843-club-soccer-director-2022.json](./189843-club-soccer-director-2022.json) |
 | Club Soccer Director PRO 2020 | 120578 | [120578-club-soccer-director-pro-2020.json](./120578-club-soccer-director-pro-2020.json) |
@@ -13605,6 +13606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorfire Redux | 315416 | [315416-colorfire-redux.json](./315416-colorfire-redux.json) |
 | Colorfle | 265042 | [265042-colorfle.json](./265042-colorfle.json) |
 | Colorfle Unlimited | 324821 | [324821-colorfle-unlimited.json](./324821-colorfle-unlimited.json) |
+| Colorfly : Coloring Book | 106199 | [106199-colorfly-coloring-book.json](./106199-colorfly-coloring-book.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
@@ -19902,6 +19904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Shuriken | 293266 | [293266-cross-shuriken.json](./293266-cross-shuriken.json) |
 | Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
+| Cross Square Circle | 106816 | [106816-cross-square-circle.json](./106816-cross-square-circle.json) |
 | Cross Stinger | 293265 | [293265-cross-stinger.json](./293265-cross-stinger.json) |
 | Cross Stitch Casper | 166893 | [166893-cross-stitch-casper.json](./166893-cross-stitch-casper.json) |
 | Cross Strike | 409912 | [409912-cross-strike.json](./409912-cross-strike.json) |
@@ -21820,6 +21823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cuomo and the Quest for Gracie Mansion | 360553 | [360553-cuomo-and-the-quest-for-gracie-mansion.json](./360553-cuomo-and-the-quest-for-gracie-mansion.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
+| Cup Battle Rush : Cagney Boss | 106826 | [106826-cup-battle-rush-cagney-boss.json](./106826-cup-battle-rush-cagney-boss.json) |
 | Cup Blitz 2 | 232617 | [232617-cup-blitz-2.json](./232617-cup-blitz-2.json) |
 | Cup Critters | 56250 | [56250-cup-critters.json](./56250-cup-critters.json) |
 | Cup Football | 13537 | [13537-cup-football.json](./13537-cup-football.json) |
