@@ -3940,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telebradesco Residência | 298360 | [298360-telebradesco-residencia.json](./298360-telebradesco-residencia.json) |
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
 | Telecom Tycoon | 297835 | [297835-telecom-tycoon.json](./297835-telecom-tycoon.json) |
+| Telecube Nightmare | 111268 | [111268-telecube-nightmare.json](./111268-telecube-nightmare.json) |
 | Telefoot Soccer 2000 | 186003 | [186003-telefoot-soccer-2000.json](./186003-telefoot-soccer-2000.json) |
 | Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
 | Telegeddon | 369461 | [369461-telegeddon.json](./369461-telegeddon.json) |
@@ -14957,6 +14958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Who Calls the Shots | 114630 | [114630-the-man-who-calls-the-shots.json](./114630-the-man-who-calls-the-shots.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
+| The Man with the Dog | 111126 | [111126-the-man-with-the-dog.json](./111126-the-man-with-the-dog.json) |
 | The Man with the Ivory Cane | 121339 | [121339-the-man-with-the-ivory-cane.json](./121339-the-man-with-the-ivory-cane.json) |
 | The Man You See | 378536 | [378536-the-man-you-see.json](./378536-the-man-you-see.json) |
 | The Man, the Alien, and the AI | 231806 | [231806-the-man-the-alien-and-the-ai.json](./231806-the-man-the-alien-and-the-ai.json) |
@@ -18189,6 +18191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Case 2425: Limited Edition | 167074 | [167074-the-silver-case-2425-limited-edition.json](./167074-the-silver-case-2425-limited-edition.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Crow | 399018 | [399018-the-silver-crow.json](./399018-the-silver-crow.json) |
+| The Silver Crusade: Aoorha Axeman | 111123 | [111123-the-silver-crusade-aoorha-axeman.json](./111123-the-silver-crusade-aoorha-axeman.json) |
 | The SIlver Key | 19087 | [19087-the-silver-key.json](./19087-the-silver-key.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Silver Spoon Caper | 185403 | [185403-the-silver-spoon-caper.json](./185403-the-silver-spoon-caper.json) |
@@ -25566,6 +25569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
+| Time Virus | 111084 | [111084-time-virus.json](./111084-time-virus.json) |
 | Time Voyeur | 169027 | [169027-time-voyeur.json](./169027-time-voyeur.json) |
 | Time Walker: Dark World | 220520 | [220520-time-walker-dark-world.json](./220520-time-walker-dark-world.json) |
 | Time Warp | 116770 | [116770-time-warp.json](./116770-time-warp.json) |
