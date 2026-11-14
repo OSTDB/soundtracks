@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Simulator | 145119 | [145119-railway-simulator.json](./145119-railway-simulator.json) |
 | Railway Yard Master | 110007 | [110007-railway-yard-master.json](./110007-railway-yard-master.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
+| Railways | 144404 | [144404-railways.json](./144404-railways.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
 | Railworks | 5549 | [5549-railworks.json](./5549-railworks.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
@@ -8985,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Ritum Bitum | 147160 | [147160-ritum-bitum.json](./147160-ritum-bitum.json) |
 | Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
+| Ritz | 144446 | [144446-ritz.json](./144446-ritz.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
 | Rival Ball | 54324 | [54324-rival-ball.json](./54324-rival-ball.json) |
