@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Arena | 193351 | [193351-rayman-arena.json](./193351-rayman-arena.json) |
 | Rayman Arena | 78173 | [78173-rayman-arena.json](./78173-rayman-arena.json) |
 | Rayman Arena Definitive Edition | 229622 | [229622-rayman-arena-definitive-edition.json](./229622-rayman-arena-definitive-edition.json) |
+| Rayman Bowling | 106820 | [106820-rayman-bowling.json](./106820-rayman-bowling.json) |
 | Rayman Brain Games | 1964 | [1964-rayman-brain-games.json](./1964-rayman-brain-games.json) |
 | Rayman Bundle | 409325 | [409325-rayman-bundle.json](./409325-rayman-bundle.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
@@ -5328,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relayer Advanced | 221481 | [221481-relayer-advanced.json](./221481-relayer-advanced.json) |
 | Relayer Advanced: Definitive Edition | 370821 | [370821-relayer-advanced-definitive-edition.json](./370821-relayer-advanced-definitive-edition.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
+| Release Me | 106810 | [106810-release-me.json](./106810-release-me.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Releaseburg | 375471 | [375471-releaseburg.json](./375471-releaseburg.json) |
 | Relentless | 111883 | [111883-relentless.json](./111883-relentless.json) |
@@ -6936,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
 | Return of Donkey Kong | 131902 | [131902-return-of-donkey-kong.json](./131902-return-of-donkey-kong.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
+| Return of Egypt | 106670 | [106670-return-of-egypt.json](./106670-return-of-egypt.json) |
 | Return of Heracles | 70752 | [70752-return-of-heracles.json](./70752-return-of-heracles.json) |
 | Return of Jelda | 78312 | [78312-return-of-jelda.json](./78312-return-of-jelda.json) |
 | Return of Junior's Revenge | 64062 | [64062-return-of-juniors-revenge.json](./64062-return-of-juniors-revenge.json) |
@@ -7554,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RFS: Real Flight Simulator | 144649 | [144649-rfs-real-flight-simulator.json](./144649-rfs-real-flight-simulator.json) |
 | RFVR | 189989 | [189989-rfvr.json](./189989-rfvr.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
+| RGB | 106812 | [106812-rgb.json](./106812-rgb.json) |
 | RGB | 191381 | [191381-rgb.json](./191381-rgb.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB | 363133 | [363133-rgb.json](./363133-rgb.json) |
@@ -10494,6 +10498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Supersonic Fury | 202683 | [202683-rocket-league-supersonic-fury.json](./202683-rocket-league-supersonic-fury.json) |
 | Rocket League: Triplex Black Wheels | 403304 | [403304-rocket-league-triplex-black-wheels.json](./403304-rocket-league-triplex-black-wheels.json) |
 | Rocket League: TriTrim Wheels | 366848 | [366848-rocket-league-tritrim-wheels.json](./366848-rocket-league-tritrim-wheels.json) |
+| Rocket League: Ultimate Edition | 106682 | [106682-rocket-league-ultimate-edition.json](./106682-rocket-league-ultimate-edition.json) |
 | Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
 | Rocket League: Xbox Customization Pack | 399987 | [399987-rocket-league-xbox-customization-pack.json](./399987-rocket-league-xbox-customization-pack.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
