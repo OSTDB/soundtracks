@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: West Virginia 1861 | 159618 | [159618-wars-across-the-world-west-virginia-1861.json](./159618-wars-across-the-world-west-virginia-1861.json) |
 | Wars Across the World: Zulu 1879 | 242623 | [242623-wars-across-the-world-zulu-1879.json](./242623-wars-across-the-world-zulu-1879.json) |
 | Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
+| Wars and Battles: October War | 112419 | [112419-wars-and-battles-october-war.json](./112419-wars-and-battles-october-war.json) |
 | Wars and Roses | 187697 | [187697-wars-and-roses.json](./187697-wars-and-roses.json) |
 | Wars and Warriors: Joan of Arc | 17297 | [17297-wars-and-warriors-joan-of-arc.json](./17297-wars-and-warriors-joan-of-arc.json) |
 | Wars for the containers | 115196 | [115196-wars-for-the-containers.json](./115196-wars-for-the-containers.json) |
@@ -4726,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Two Flowers Meet | 267586 | [267586-where-the-two-flowers-meet.json](./267586-where-the-two-flowers-meet.json) |
 | Where the Veil Thins | 423371 | [423371-where-the-veil-thins.json](./423371-where-the-veil-thins.json) |
 | Where the Water Tastes Like Wine | 15823 | [15823-where-the-water-tastes-like-wine.json](./15823-where-the-water-tastes-like-wine.json) |
+| Where the Water Tastes Like Wine: Fireside Chats | 112415 | [112415-where-the-water-tastes-like-wine-fireside-chats.json](./112415-where-the-water-tastes-like-wine-fireside-chats.json) |
 | Where the Water Tastes Like Wine: Xbox Edition | 134369 | [134369-where-the-water-tastes-like-wine-xbox-edition.json](./134369-where-the-water-tastes-like-wine-xbox-edition.json) |
 | Where the Water Waits | 402747 | [402747-where-the-water-waits.json](./402747-where-the-water-waits.json) |
 | Where the Wild Things Are | 200809 | [200809-where-the-wild-things-are.json](./200809-where-the-wild-things-are.json) |
