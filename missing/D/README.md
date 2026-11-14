@@ -9450,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Quest | 98537 | [98537-diamond-quest.json](./98537-diamond-quest.json) |
+| Diamond Quest! | 98628 | [98628-diamond-quest.json](./98628-diamond-quest.json) |
 | Diamond Rose | 181265 | [181265-diamond-rose.json](./181265-diamond-rose.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Run | 38628 | [38628-diamond-run.json](./38628-diamond-run.json) |
@@ -21454,6 +21455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
 | Dynamix | 14045 | [14045-dynamix.json](./14045-dynamix.json) |
 | Dynamix | 56355 | [56355-dynamix.json](./56355-dynamix.json) |
+| DynamixVR: D.R.I.L.L | 98633 | [98633-dynamixvr-d-r-i-l-l.json](./98633-dynamixvr-d-r-i-l-l.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
 | Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
 | Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
