@@ -8552,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
 | Nyanzou & Kumakichi Bomb Cave | 291658 | [291658-nyanzou-and-kumakichi-bomb-cave.json](./291658-nyanzou-and-kumakichi-bomb-cave.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
+| Nyaruru Fishy Fight | 146406 | [146406-nyaruru-fishy-fight.json](./146406-nyaruru-fishy-fight.json) |
 | Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
 | Nyasha Beach | 115950 | [115950-nyasha-beach.json](./115950-nyasha-beach.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
