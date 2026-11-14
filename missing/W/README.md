@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warheads | 144077 | [144077-warheads.json](./144077-warheads.json) |
 | Warheads & Overheads | 410397 | [410397-warheads-and-overheads.json](./410397-warheads-and-overheads.json) |
+| Warheads for Windows | 93277 | [93277-warheads-for-windows.json](./93277-warheads-for-windows.json) |
 | WarHeads SE | 79563 | [79563-warheads-se.json](./79563-warheads-se.json) |
 | Warhedz | 283124 | [283124-warhedz.json](./283124-warhedz.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
@@ -5336,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Pressed Mute on Uncle Marcus? | 192047 | [192047-who-pressed-mute-on-uncle-marcus.json](./192047-who-pressed-mute-on-uncle-marcus.json) |
 | Who Run the City | 237748 | [237748-who-run-the-city.json](./237748-who-run-the-city.json) |
 | Who said Meow | 53125 | [53125-who-said-meow.json](./53125-who-said-meow.json) |
+| Who Said That? | 93272 | [93272-who-said-that.json](./93272-who-said-that.json) |
 | Who Said This in Conference | 91176 | [91176-who-said-this-in-conference.json](./91176-who-said-this-in-conference.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Shot Johnny Rock? | 4281 | [4281-who-shot-johnny-rock.json](./4281-who-shot-johnny-rock.json) |
