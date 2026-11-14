@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SandEEE | 399845 | [399845-sandeee.json](./399845-sandeee.json) |
 | Sandfall | 172923 | [172923-sandfall.json](./172923-sandfall.json) |
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
+| Sandiego Inc. | 98120 | [98120-sandiego-inc.json](./98120-sandiego-inc.json) |
 | Sandmade | 97924 | [97924-sandmade.json](./97924-sandmade.json) |
 | Sandman | 216305 | [216305-sandman.json](./216305-sandman.json) |
 | Sandman Academy | 95691 | [95691-sandman-academy.json](./95691-sandman-academy.json) |
@@ -5732,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikima II: Akuma no Gyakushuu! | 48399 | [48399-seikima-ii-akuma-no-gyakushuu.json](./48399-seikima-ii-akuma-no-gyakushuu.json) |
 | Seikimatsu Days: Our Era's End | 96405 | [96405-seikimatsu-days-our-eras-end.json](./96405-seikimatsu-days-our-eras-end.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
+| Seikishi Air Knight | 98108 | [98108-seikishi-air-knight.json](./98108-seikishi-air-knight.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
 | Seiklus | 19116 | [19116-seiklus.json](./19116-seiklus.json) |
 | Seiko-chan SOS | 123164 | [123164-seiko-chan-sos.json](./123164-seiko-chan-sos.json) |
@@ -9102,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiin | 55839 | [55839-shiin.json](./55839-shiin.json) |
 | Shiina Maho no Himitsu: Name ha H de Omoitsukimasu | 396485 | [396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json](./396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json) |
 | Shiina Taki's Decameron | 320725 | [320725-shiina-takis-decameron.json](./320725-shiina-takis-decameron.json) |
+| Shiipon Mahjong | 98087 | [98087-shiipon-mahjong.json](./98087-shiipon-mahjong.json) |
 | Shiitake Showdown | 231567 | [231567-shiitake-showdown.json](./231567-shiitake-showdown.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
@@ -9814,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
 | Shirou Day Online | 374533 | [374533-shirou-day-online.json](./374533-shirou-day-online.json) |
+| Shirouto Yanmama, Kosatsu AV Debut: Mitena, Onna wa Dokyou Da ze! | 98125 | [98125-shirouto-yanmama-kosatsu-av-debut-mitena-onna-wa-dokyou-da-ze.json](./98125-shirouto-yanmama-kosatsu-av-debut-mitena-onna-wa-dokyou-da-ze.json) |
 | Shirube no Kazari | 220768 | [220768-shirube-no-kazari.json](./220768-shirube-no-kazari.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
 | Shiryou Sensen: War of the Dead | 41736 | [41736-shiryou-sensen-war-of-the-dead.json](./41736-shiryou-sensen-war-of-the-dead.json) |
@@ -10491,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Taimashi Misato | 97739 | [97739-shoujo-taimashi-misato.json](./97739-shoujo-taimashi-misato.json) |
 | Shoujo Wars | 196346 | [196346-shoujo-wars.json](./196346-shoujo-wars.json) |
 | Shoujo Yoshitsune-den | 181501 | [181501-shoujo-yoshitsune-den.json](./181501-shoujo-yoshitsune-den.json) |
+| Shoukimu | 98096 | [98096-shoukimu.json](./98096-shoukimu.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
 | Should the Stars Have Eyes | 183926 | [183926-should-the-stars-have-eyes.json](./183926-should-the-stars-have-eyes.json) |
@@ -20576,6 +20581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Food | 407695 | [407695-soul-food.json](./407695-soul-food.json) |
 | Soul for two | 81637 | [81637-soul-for-two.json](./81637-soul-for-two.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
+| Soul Fucker | 98092 | [98092-soul-fucker.json](./98092-soul-fucker.json) |
 | Soul Gambler | 17625 | [17625-soul-gambler.json](./17625-soul-gambler.json) |
 | Soul Gather | 372012 | [372012-soul-gather.json](./372012-soul-gather.json) |
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
@@ -39214,6 +39220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | Swingers | 345811 | [345811-swingers.json](./345811-swingers.json) |
+| Swingers | 98116 | [98116-swingers.json](./98116-swingers.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
 | Swingin Swiggins | 30632 | [30632-swingin-swiggins.json](./30632-swingin-swiggins.json) |
 | Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
