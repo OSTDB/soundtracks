@@ -8427,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Like a Fly | 251258 | [251258-high-like-a-fly.json](./251258-high-like-a-fly.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
 | High Mountain Roller Coaster VR | 160147 | [160147-high-mountain-roller-coaster-vr.json](./160147-high-mountain-roller-coaster-vr.json) |
+| High Noom VR | 95055 | [95055-high-noom-vr.json](./95055-high-noom-vr.json) |
 | High Noon | 67870 | [67870-high-noon.json](./67870-high-noon.json) |
 | High Noon | 76974 | [76974-high-noon.json](./76974-high-noon.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
@@ -8927,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him, the Smile & Bloom | 315911 | [315911-him-the-smile-and-bloom.json](./315911-him-the-smile-and-bloom.json) |
 | Him, the Smile & Bloom Bundle | 330632 | [330632-him-the-smile-and-bloom-bundle.json](./330632-him-the-smile-and-bloom-bundle.json) |
 | Him, the Smile & Bloom: Additional scenario - Flower Halloween Night | 330625 | [330625-him-the-smile-and-bloom-additional-scenario-flower-halloween-night.json](./330625-him-the-smile-and-bloom-additional-scenario-flower-halloween-night.json) |
+| Himalayan Mysteries | 94799 | [94799-himalayan-mysteries.json](./94799-himalayan-mysteries.json) |
 | HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
 | Himantolo | 293660 | [293660-himantolo.json](./293660-himantolo.json) |
 | Himawari | 59462 | [59462-himawari.json](./59462-himawari.json) |
@@ -14276,15 +14278,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
 | Hyrax Hill | 419963 | [419963-hyrax-hill.json](./419963-hyrax-hill.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
+| Hyrule Warriors: A Link Between Worlds Pack | 95047 | [95047-hyrule-warriors-a-link-between-worlds-pack.json](./95047-hyrule-warriors-a-link-between-worlds-pack.json) |
 | Hyrule Warriors: Age of Calamity - Definitive Edition | 417167 | [417167-hyrule-warriors-age-of-calamity-definitive-edition.json](./417167-hyrule-warriors-age-of-calamity-definitive-edition.json) |
 | Hyrule Warriors: Age of Calamity - Expansion Pass | 143618 | [143618-hyrule-warriors-age-of-calamity-expansion-pass.json](./143618-hyrule-warriors-age-of-calamity-expansion-pass.json) |
 | Hyrule Warriors: Age of Calamity - Wave 1: Pulse of the Ancients | 184509 | [184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json](./184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json) |
 | Hyrule Warriors: Age of Calamity - Wave 2: Guardian of Remembrance | 184510 | [184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json](./184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json) |
 | Hyrule Warriors: Age of Calamity + Expansion Pass Bundle | 293728 | [293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json](./293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json) |
 | Hyrule Warriors: Age of Imprisonment | 338085 | [338085-hyrule-warriors-age-of-imprisonment.json](./338085-hyrule-warriors-age-of-imprisonment.json) |
+| Hyrule Warriors: Boss Pack | 95042 | [95042-hyrule-warriors-boss-pack.json](./95042-hyrule-warriors-boss-pack.json) |
+| Hyrule Warriors: Hero of Hyrule Pack | 95043 | [95043-hyrule-warriors-hero-of-hyrule-pack.json](./95043-hyrule-warriors-hero-of-hyrule-pack.json) |
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
+| Hyrule Warriors: Legends Character Pack | 95044 | [95044-hyrule-warriors-legends-character-pack.json](./95044-hyrule-warriors-legends-character-pack.json) |
+| Hyrule Warriors: Legends of Hyrule Pack | 95048 | [95048-hyrule-warriors-legends-of-hyrule-pack.json](./95048-hyrule-warriors-legends-of-hyrule-pack.json) |
+| Hyrule Warriors: Link's Awakening Pack | 95045 | [95045-hyrule-warriors-links-awakening-pack.json](./95045-hyrule-warriors-links-awakening-pack.json) |
+| Hyrule Warriors: Majora's Mask Pack | 95041 | [95041-hyrule-warriors-majoras-mask-pack.json](./95041-hyrule-warriors-majoras-mask-pack.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
+| Hyrule Warriors: Phantom Hourglass & Spirit Tracks Pack | 95046 | [95046-hyrule-warriors-phantom-hourglass-and-spirit-tracks-pack.json](./95046-hyrule-warriors-phantom-hourglass-and-spirit-tracks-pack.json) |
 | Hyrule Warriors: Treasure Box | 83790 | [83790-hyrule-warriors-treasure-box.json](./83790-hyrule-warriors-treasure-box.json) |
+| Hyrule Warriors: Twilight Princess Pack | 95040 | [95040-hyrule-warriors-twilight-princess-pack.json](./95040-hyrule-warriors-twilight-princess-pack.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
 | Hyspherical 2 | 34509 | [34509-hyspherical-2.json](./34509-hyspherical-2.json) |
 | Hyss | 112985 | [112985-hyss.json](./112985-hyss.json) |
