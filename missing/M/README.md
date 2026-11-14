@@ -8191,6 +8191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
 | Mega Man 3 | 236706 | [236706-mega-man-3.json](./236706-mega-man-3.json) |
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
+| Mega Man 3 Mobile | 102418 | [102418-mega-man-3-mobile.json](./102418-mega-man-3-mobile.json) |
 | Mega Man 3 Revamped | 218313 | [218313-mega-man-3-revamped.json](./218313-mega-man-3-revamped.json) |
 | Mega Man 3: The Robots are Revolting | 88384 | [88384-mega-man-3-the-robots-are-revolting.json](./88384-mega-man-3-the-robots-are-revolting.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
@@ -8208,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
 | Mega Man 8: Anniversary Collector's Edition | 45182 | [45182-mega-man-8-anniversary-collectors-edition.json](./45182-mega-man-8-anniversary-collectors-edition.json) |
+| Mega Man 8: Anniversary Edition | 102448 | [102448-mega-man-8-anniversary-edition.json](./102448-mega-man-8-anniversary-edition.json) |
 | Mega Man 9 | 1722 | [1722-mega-man-9.json](./1722-mega-man-9.json) |
 | Mega Man 9: Endless Attack Mode | 144695 | [144695-mega-man-9-endless-attack-mode.json](./144695-mega-man-9-endless-attack-mode.json) |
 | Mega Man 9: Hero Mode | 144698 | [144698-mega-man-9-hero-mode.json](./144698-mega-man-9-hero-mode.json) |
@@ -14616,6 +14618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining My Own Business | 361987 | [361987-mining-my-own-business.json](./361987-mining-my-own-business.json) |
 | Mining Odyssey | 215597 | [215597-mining-odyssey.json](./215597-mining-odyssey.json) |
 | Mining Platform | 361033 | [361033-mining-platform.json](./361033-mining-platform.json) |
+| Mining Rail | 102424 | [102424-mining-rail.json](./102424-mining-rail.json) |
 | Mining Rail 2 | 122720 | [122720-mining-rail-2.json](./122720-mining-rail-2.json) |
 | Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
 | Mining Shift | 382835 | [382835-mining-shift.json](./382835-mining-shift.json) |
@@ -17243,6 +17246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
 | Monopolist: Technological Revolution | 105143 | [105143-monopolist-technological-revolution.json](./105143-monopolist-technological-revolution.json) |
 | Monopolka | 68592 | [68592-monopolka.json](./68592-monopolka.json) |
+| Monopoly | 102447 | [102447-monopoly.json](./102447-monopoly.json) |
 | Monopoly | 122241 | [122241-monopoly.json](./122241-monopoly.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
@@ -21944,6 +21948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | Musketeer: Le Sang des Chevaliers | 222632 | [222632-musketeer-le-sang-des-chevaliers.json](./222632-musketeer-le-sang-des-chevaliers.json) |
+| Muskets of America | 102468 | [102468-muskets-of-america.json](./102468-muskets-of-america.json) |
 | Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
 | Muslim 3D | 155302 | [155302-muslim-3d.json](./155302-muslim-3d.json) |
 | Muso | 310985 | [310985-muso.json](./310985-muso.json) |
@@ -23152,6 +23157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
+| My Little Princess : Fairy Forest | 102455 | [102455-my-little-princess-fairy-forest.json](./102455-my-little-princess-fairy-forest.json) |
 | My Little Princess : Wizard | 91990 | [91990-my-little-princess-wizard.json](./91990-my-little-princess-wizard.json) |
 | My Little Princess: Stores | 88958 | [88958-my-little-princess-stores.json](./88958-my-little-princess-stores.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
