@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kileak: The DNA Imperative | 20255 | [20255-kileak-the-dna-imperative.json](./20255-kileak-the-dna-imperative.json) |
 | Kilemol | 158370 | [158370-kilemol.json](./158370-kilemol.json) |
 | Kilgazar | 62105 | [62105-kilgazar.json](./62105-kilgazar.json) |
+| Kili's treasure | 128032 | [128032-kilis-treasure.json](./128032-kilis-treasure.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
 | Kilka Card Gods | 61386 | [61386-kilka-card-gods.json](./61386-kilka-card-gods.json) |
 | Kill | 262596 | [262596-kill.json](./262596-kill.json) |
