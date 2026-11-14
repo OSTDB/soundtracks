@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
 | Individualism In The Dead Internet Age: An Anti Big Tech Asset Flip | 314974 | [314974-individualism-in-the-dead-internet-age-an-anti-big-tech-asset-flip.json](./314974-individualism-in-the-dead-internet-age-an-anti-big-tech-asset-flip.json) |
 | Indivisible | 179645 | [179645-indivisible.json](./179645-indivisible.json) |
+| Indivisible: Razmi Challenges | 154675 | [154675-indivisible-razmi-challenges.json](./154675-indivisible-razmi-challenges.json) |
 | Indomitable Spirit | 375985 | [375985-indomitable-spirit.json](./375985-indomitable-spirit.json) |
 | Indonesia School Simulator 3D | 296753 | [296753-indonesia-school-simulator-3d.json](./296753-indonesia-school-simulator-3d.json) |
 | Indonesian Culture | 214648 | [214648-indonesian-culture.json](./214648-indonesian-culture.json) |
@@ -6294,6 +6295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iraq War | 165731 | [165731-iraq-war.json](./165731-iraq-war.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Iratus: Lord of the Dead | 93694 | [93694-iratus-lord-of-the-dead.json](./93694-iratus-lord-of-the-dead.json) |
+| Iratus: Lord of the Dead - Wrath of the Necromancer | 154676 | [154676-iratus-lord-of-the-dead-wrath-of-the-necromancer.json](./154676-iratus-lord-of-the-dead-wrath-of-the-necromancer.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbet Tong | 349529 | [349529-irbet-tong.json](./349529-irbet-tong.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
