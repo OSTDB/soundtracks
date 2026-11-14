@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Raider | 377285 | [377285-wall-street-raider.json](./377285-wall-street-raider.json) |
 | Wall Street Trader 2000 | 73831 | [73831-wall-street-trader-2000.json](./73831-wall-street-trader-2000.json) |
 | Wall Street Trader 98 | 64967 | [64967-wall-street-trader-98.json](./64967-wall-street-trader-98.json) |
+| Wall Street Tycoon | 165202 | [165202-wall-street-tycoon.json](./165202-wall-street-tycoon.json) |
 | Wall Street Tycoon | 71037 | [71037-wall-street-tycoon.json](./71037-wall-street-tycoon.json) |
 | Wall Street Wars: the Final Conflict! | 98788 | [98788-wall-street-wars-the-final-conflict.json](./98788-wall-street-wars-the-final-conflict.json) |
 | Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Wash the Cars | 338394 | [338394-wash-the-cars.json](./338394-wash-the-cars.json) |
 | Wash Your Hands | 179803 | [179803-wash-your-hands.json](./179803-wash-your-hands.json) |
+| Washed Up | 165801 | [165801-washed-up.json](./165801-washed-up.json) |
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
 | Washed Upon A Murder | 288467 | [288467-washed-upon-a-murder.json](./288467-washed-upon-a-murder.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
@@ -3287,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
 | Weapons Genius | 34843 | [34843-weapons-genius.json](./34843-weapons-genius.json) |
 | Weapons Genius VR | 132437 | [132437-weapons-genius-vr.json](./132437-weapons-genius-vr.json) |
+| Weapons Knight | 165786 | [165786-weapons-knight.json](./165786-weapons-knight.json) |
 | Weapons of Mythology: New Age | 31442 | [31442-weapons-of-mythology-new-age.json](./31442-weapons-of-mythology-new-age.json) |
 | Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
 | Weapons of the Gods | 218273 | [218273-weapons-of-the-gods.json](./218273-weapons-of-the-gods.json) |
