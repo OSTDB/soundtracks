@@ -5167,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Galiveth | 28426 | [28426-knights-of-galiveth.json](./28426-knights-of-galiveth.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Grumthorr 2 | 172893 | [172893-knights-of-grumthorr-2.json](./172893-knights-of-grumthorr-2.json) |
+| Knights of Hearts | 86320 | [86320-knights-of-hearts.json](./86320-knights-of-hearts.json) |
 | Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
 | Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
