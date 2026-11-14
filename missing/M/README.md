@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
 | Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
+| Magnesia | 113269 | [113269-magnesia.json](./113269-magnesia.json) |
 | Magnesium 173 | 149619 | [149619-magnesium-173.json](./149619-magnesium-173.json) |
 | Magnet | 185275 | [185275-magnet.json](./185275-magnet.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Castle | 413496 | [413496-marble-castle.json](./413496-marble-castle.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Clash: Crazy Fun Shooter | 216096 | [216096-marble-clash-crazy-fun-shooter.json](./216096-marble-clash-crazy-fun-shooter.json) |
+| Marble Combat | 113258 | [113258-marble-combat.json](./113258-marble-combat.json) |
 | Marble Computing | 190399 | [190399-marble-computing.json](./190399-marble-computing.json) |
 | Marble Cooking | 73385 | [73385-marble-cooking.json](./73385-marble-cooking.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
@@ -9570,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melone in the Dark | 177404 | [177404-melone-in-the-dark.json](./177404-melone-in-the-dark.json) |
 | Melonizard | 245362 | [245362-melonizard.json](./245362-melonizard.json) |
 | Melopad | 122617 | [122617-melopad.json](./122617-melopad.json) |
+| Melordandek | 113093 | [113093-melordandek.json](./113093-melordandek.json) |
 | Meloveyou | 183380 | [183380-meloveyou.json](./183380-meloveyou.json) |
 | Melpharia March | 420766 | [420766-melpharia-march.json](./420766-melpharia-march.json) |
 | Melpool Land | 213276 | [213276-melpool-land.json](./213276-melpool-land.json) |
@@ -10766,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
 | Metal Detector and 2nd Hundred | 267963 | [267963-metal-detector-and-2nd-hundred.json](./267963-metal-detector-and-2nd-hundred.json) |
 | Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
+| Metal Division | 113103 | [113103-metal-division.json](./113103-metal-division.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs EX Quest01: Here Comes the Metal Enemies | 296619 | [296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json](./296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json) |
 | Metal Dogs: Bow Wow Wonderful Edition | 183661 | [183661-metal-dogs-bow-wow-wonderful-edition.json](./183661-metal-dogs-bow-wow-wonderful-edition.json) |
@@ -13946,6 +13950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | MineMogul | 357512 | [357512-minemogul.json](./357512-minemogul.json) |
 | Minepull | 186554 | [186554-minepull.json](./186554-minepull.json) |
+| Miner | 113273 | [113273-miner.json](./113273-miner.json) |
 | Miner | 345934 | [345934-miner.json](./345934-miner.json) |
 | Miner 2000er | 80078 | [80078-miner-2000er.json](./80078-miner-2000er.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
