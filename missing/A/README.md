@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
 | A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
 | A Sky Full of Stars | 76033 | [76033-a-sky-full-of-stars.json](./76033-a-sky-full-of-stars.json) |
+| A Sky Full of Stars Fine Days | 150234 | [150234-a-sky-full-of-stars-fine-days.json](./150234-a-sky-full-of-stars-fine-days.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
 | A Slasher Dating Sim | 224876 | [224876-a-slasher-dating-sim.json](./224876-a-slasher-dating-sim.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Typewriter's Story | 104145 | [104145-a-typewriters-story.json](./104145-a-typewriters-story.json) |
 | A Typical Day | 322548 | [322548-a-typical-day.json](./322548-a-typical-day.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
+| A Vague Story | 150217 | [150217-a-vague-story.json](./150217-a-vague-story.json) |
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
 | A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
@@ -2400,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
 | Absolute RC Simulator | 104560 | [104560-absolute-rc-simulator.json](./104560-absolute-rc-simulator.json) |
+| Absolute Redemption | 150223 | [150223-absolute-redemption.json](./150223-absolute-redemption.json) |
 | Absolute Schafkopf | 94117 | [94117-absolute-schafkopf.json](./94117-absolute-schafkopf.json) |
 | Absolute Schafkopf for Windows 11 | 264545 | [264545-absolute-schafkopf-for-windows-11.json](./264545-absolute-schafkopf-for-windows-11.json) |
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
@@ -9514,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambushed | 48766 | [48766-ambushed.json](./48766-ambushed.json) |
 | Ambusher | 267479 | [267479-ambusher.json](./267479-ambusher.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
+| Ame ga Furu to Dokoka he Kietakunaru no. | 150219 | [150219-ame-ga-furu-to-dokoka-he-kietakunaru-no.json](./150219-ame-ga-furu-to-dokoka-he-kietakunaru-no.json) |
 | Ame Koi | 166524 | [166524-ame-koi.json](./166524-ame-koi.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
 | Ame ni Utau Tanshikyoku: A Rainbow After the Rain | 271170 | [271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json](./271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json) |
@@ -16044,6 +16048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
 | Arsene Bomber: Cosmic | 291261 | [291261-arsene-bomber-cosmic.json](./291261-arsene-bomber-cosmic.json) |
+| Arsène Lupin: Gentleman Bomber | 150180 | [150180-arsene-lupin-gentleman-bomber.json](./150180-arsene-lupin-gentleman-bomber.json) |
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
@@ -17554,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroidia | 369915 | [369915-asteroidia.json](./369915-asteroidia.json) |
 | Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
 | AsteroIdle | 211410 | [211410-asteroidle.json](./211410-asteroidle.json) |
+| Asteroids | 150203 | [150203-asteroids.json](./150203-asteroids.json) |
 | Asteroids | 172788 | [172788-asteroids.json](./172788-asteroids.json) |
 | Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
