@@ -9463,7 +9463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Restorer: Image Folder 9 | 353425 | [353425-pixel-restorer-image-folder-9.json](./353425-pixel-restorer-image-folder-9.json) |
 | Pixel Retro Drift: Arcade Car Racing | 312076 | [312076-pixel-retro-drift-arcade-car-racing.json](./312076-pixel-retro-drift-arcade-car-racing.json) |
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
-| Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
 | Pixel Ripped 1995 | 119336 | [119336-pixel-ripped-1995.json](./119336-pixel-ripped-1995.json) |
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
