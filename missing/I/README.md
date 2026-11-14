@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Irian: City of Ruin | 370733 | [370733-irian-city-of-ruin.json](./370733-irian-city-of-ruin.json) |
 | Iridescence | 111265 | [111265-iridescence.json](./111265-iridescence.json) |
+| Iridescent | 101824 | [101824-iridescent.json](./101824-iridescent.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent | 301860 | [301860-iridescent.json](./301860-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
