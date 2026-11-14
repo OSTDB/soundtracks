@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | Onyx | 285814 | [285814-onyx.json](./285814-onyx.json) |
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
+| Onyx Clad | 135344 | [135344-onyx-clad.json](./135344-onyx-clad.json) |
 | Onyx: The Dark Grip | 417170 | [417170-onyx-the-dark-grip.json](./417170-onyx-the-dark-grip.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
