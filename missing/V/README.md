@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin Hunter | 120774 | [120774-vermin-hunter.json](./120774-vermin-hunter.json) |
 | Vermin Kids | 301793 | [301793-vermin-kids.json](./301793-vermin-kids.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
+| Verminest | 141262 | [141262-verminest.json](./141262-verminest.json) |
 | Verminsteel | 392842 | [392842-verminsteel.json](./392842-verminsteel.json) |
 | Vermintide Collection | 107265 | [107265-vermintide-collection.json](./107265-vermintide-collection.json) |
 | Vermis | 342745 | [342745-vermis.json](./342745-vermis.json) |
