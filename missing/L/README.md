@@ -6101,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2004 | 5902 | [5902-links-2004.json](./5902-links-2004.json) |
 | Links 386 CD | 22610 | [22610-links-386-cd.json](./22610-links-386-cd.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
+| Links E6 | 152507 | [152507-links-e6.json](./152507-links-e6.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
 | Links Expansion Pack | 85753 | [85753-links-expansion-pack.json](./85753-links-expansion-pack.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loophole: Skrattmagi och glädjetjuvar | 400844 | [400844-loophole-skrattmagi-och-gladjetjuvar.json](./400844-loophole-skrattmagi-och-gladjetjuvar.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Loopical | 175602 | [175602-loopical.json](./175602-loopical.json) |
+| Loopindex | 152517 | [152517-loopindex.json](./152517-loopindex.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
 | Looping | 282784 | [282784-looping.json](./282784-looping.json) |
 | Looping Art Museum | 302975 | [302975-looping-art-museum.json](./302975-looping-art-museum.json) |
