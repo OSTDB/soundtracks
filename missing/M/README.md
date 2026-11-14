@@ -11148,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
 | Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
 | Meteor Volleyball! | 186485 | [186485-meteor-volleyball.json](./186485-meteor-volleyball.json) |
+| Meteor World Actor | 141306 | [141306-meteor-world-actor.json](./141306-meteor-world-actor.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Gaslight Bullet | 375055 | [375055-meteor-world-actor-gaslight-bullet.json](./375055-meteor-world-actor-gaslight-bullet.json) |
@@ -17351,6 +17352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Coming | 274812 | [274812-monster-coming.json](./274812-monster-coming.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
+| Monster Complete World | 141286 | [141286-monster-complete-world.json](./141286-monster-complete-world.json) |
 | Monster Cooking Diary | 304965 | [304965-monster-cooking-diary.json](./304965-monster-cooking-diary.json) |
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crawl | 223210 | [223210-monster-crawl.json](./223210-monster-crawl.json) |
@@ -23970,6 +23972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
 | Mystery Case Files: Fate's Carnival | 5518 | [5518-mystery-case-files-fates-carnival.json](./5518-mystery-case-files-fates-carnival.json) |
 | Mystery Case Files: Fates Carnival - Collector's Edition | 202083 | [202083-mystery-case-files-fates-carnival-collectors-edition.json](./202083-mystery-case-files-fates-carnival-collectors-edition.json) |
+| Mystery Case Files: Harbinger | 141275 | [141275-mystery-case-files-harbinger.json](./141275-mystery-case-files-harbinger.json) |
 | Mystery Case Files: House That Love Built | 416529 | [416529-mystery-case-files-house-that-love-built.json](./416529-mystery-case-files-house-that-love-built.json) |
 | Mystery Case Files: House That Love Built - Collector's Edition | 409715 | [409715-mystery-case-files-house-that-love-built-collectors-edition.json](./409715-mystery-case-files-house-that-love-built-collectors-edition.json) |
 | Mystery Case Files: Huntsville | 5509 | [5509-mystery-case-files-huntsville.json](./5509-mystery-case-files-huntsville.json) |
