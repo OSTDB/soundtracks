@@ -9175,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
 | BioShock Infinite: Ultimate Songbird Edition | 41598 | [41598-bioshock-infinite-ultimate-songbird-edition.json](./41598-bioshock-infinite-ultimate-songbird-edition.json) |
+| BioShock Vita | 95001 | [95001-bioshock-vita.json](./95001-bioshock-vita.json) |
 | BioShock: Challenge Rooms | 23038 | [23038-bioshock-challenge-rooms.json](./23038-bioshock-challenge-rooms.json) |
 | BioShock: Limited Edition | 142228 | [142228-bioshock-limited-edition.json](./142228-bioshock-limited-edition.json) |
 | BioShock: The Collection | 19839 | [19839-bioshock-the-collection.json](./19839-bioshock-the-collection.json) |
@@ -11989,6 +11990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloktonik | 79094 | [79094-bloktonik.json](./79094-bloktonik.json) |
 | Bloktris | 267558 | [267558-bloktris.json](./267558-bloktris.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
+| Blokus | 95008 | [95008-blokus.json](./95008-blokus.json) |
 | Blokus Portable: Steambot Championship | 42718 | [42718-blokus-portable-steambot-championship.json](./42718-blokus-portable-steambot-championship.json) |
 | Blokus World Tour | 51405 | [51405-blokus-world-tour.json](./51405-blokus-world-tour.json) |
 | Blokus: Attack, Block & Defend! | 91313 | [91313-blokus-attack-block-and-defend.json](./91313-blokus-attack-block-and-defend.json) |
@@ -17273,6 +17275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Between Two Islands | 308475 | [308475-bridge-between-two-islands.json](./308475-bridge-between-two-islands.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Builder Adventure | 147603 | [147603-bridge-builder-adventure.json](./147603-bridge-builder-adventure.json) |
+| Bridge Builder Crane 3D | 94978 | [94978-bridge-builder-crane-3d.json](./94978-bridge-builder-crane-3d.json) |
 | Bridge Builder Racer | 120042 | [120042-bridge-builder-racer.json](./120042-bridge-builder-racer.json) |
 | Bridge Builder Simulator | 291966 | [291966-bridge-builder-simulator.json](./291966-bridge-builder-simulator.json) |
 | Bridge by Dodofox | 99911 | [99911-bridge-by-dodofox.json](./99911-bridge-by-dodofox.json) |
