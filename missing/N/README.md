@@ -6707,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noboru | 177164 | [177164-noboru.json](./177164-noboru.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
 | Nobu: Fat Revenge! | 60720 | [60720-nobu-fat-revenge.json](./60720-nobu-fat-revenge.json) |
+| Nobunaga Hiroku: Geten no Yume | 112560 | [112560-nobunaga-hiroku-geten-no-yume.json](./112560-nobunaga-hiroku-geten-no-yume.json) |
 | Nobunaga Ibun | 49746 | [49746-nobunaga-ibun.json](./49746-nobunaga-ibun.json) |
 | Nobunaga Mahjong | 133794 | [133794-nobunaga-mahjong.json](./133794-nobunaga-mahjong.json) |
 | Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
@@ -7917,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NovelAI | 162735 | [162735-novelai.json](./162735-novelai.json) |
 | Novelist Simulator | 79177 | [79177-novelist-simulator.json](./79177-novelist-simulator.json) |
 | Novels Rogue: Isekai Koshodo to Fuuin no Majo | 320827 | [320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json](./320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json) |
+| Novels: Game Center Arashi R | 112553 | [112553-novels-game-center-arashi-r.json](./112553-novels-game-center-arashi-r.json) |
 | November | 183228 | [183228-november.json](./183228-november.json) |
 | November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
