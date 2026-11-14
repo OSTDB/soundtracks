@@ -4982,8 +4982,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | Battletech: Gray Death Legion | 128886 | [128886-battletech-gray-death-legion.json](./128886-battletech-gray-death-legion.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
+| Battletech: Mercenary Collection | 155213 | [155213-battletech-mercenary-collection.json](./155213-battletech-mercenary-collection.json) |
 | BattleTech: The Crescent Hawk's Inception | 11949 | [11949-battletech-the-crescent-hawks-inception.json](./11949-battletech-the-crescent-hawks-inception.json) |
 | BattleTech: The Crescent Hawks' Revenge | 19185 | [19185-battletech-the-crescent-hawks-revenge.json](./19185-battletech-the-crescent-hawks-revenge.json) |
+| BattleTech: Urban Warfare | 155212 | [155212-battletech-urban-warfare.json](./155212-battletech-urban-warfare.json) |
 | Battlethorne | 272207 | [272207-battlethorne.json](./272207-battlethorne.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
 | Battlethorne: Survivors | 290206 | [290206-battlethorne-survivors.json](./290206-battlethorne-survivors.json) |
@@ -7509,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal at Krondor | 2211 | [2211-betrayal-at-krondor.json](./2211-betrayal-at-krondor.json) |
+| Betrayal at Krondor Pack | 155223 | [155223-betrayal-at-krondor-pack.json](./155223-betrayal-at-krondor-pack.json) |
 | Betrayal Banquet | 410289 | [410289-betrayal-banquet.json](./410289-betrayal-banquet.json) |
 | Betrayal Beach | 272648 | [272648-betrayal-beach.json](./272648-betrayal-beach.json) |
 | Betrayal Beach: Island's Curse | 354178 | [354178-betrayal-beach-islands-curse.json](./354178-betrayal-beach-islands-curse.json) |
