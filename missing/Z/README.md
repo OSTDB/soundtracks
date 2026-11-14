@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
 | Zangeki no Reginleiv | 22965 | [22965-zangeki-no-reginleiv.json](./22965-zangeki-no-reginleiv.json) |
 | Zangeki Warp | 30287 | [30287-zangeki-warp.json](./30287-zangeki-warp.json) |
+| Zango's Shark Adventure | 150708 | [150708-zangos-shark-adventure.json](./150708-zangos-shark-adventure.json) |
 | Zangus | 313249 | [313249-zangus.json](./313249-zangus.json) |
 | Zangyura | 138717 | [138717-zangyura.json](./138717-zangyura.json) |
 | Zanki Zero: Last Beginning | 28245 | [28245-zanki-zero-last-beginning.json](./28245-zanki-zero-last-beginning.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo at Midnight | 312231 | [312231-zoo-at-midnight.json](./312231-zoo-at-midnight.json) |
 | Zoo Block | 334260 | [334260-zoo-block.json](./334260-zoo-block.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
+| Zoo Cleaner | 150799 | [150799-zoo-cleaner.json](./150799-zoo-cleaner.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
 | Zoo Constructor | 115131 | [115131-zoo-constructor.json](./115131-zoo-constructor.json) |
 | Zoo Dentist | 159017 | [159017-zoo-dentist.json](./159017-zoo-dentist.json) |
