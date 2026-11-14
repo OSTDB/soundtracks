@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastCall | 180346 | [180346-lastcall.json](./180346-lastcall.json) |
 | LastDitch | 296529 | [296529-lastditch.json](./296529-lastditch.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
+| Lasting | 126085 | [126085-lasting.json](./126085-lasting.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
 | Lastlore Saga | 387269 | [387269-lastlore-saga.json](./387269-lastlore-saga.json) |
@@ -3937,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Terres d'Amarande | 69473 | [69473-les-terres-damarande.json](./69473-les-terres-damarande.json) |
 | Les trois Mousquetaires | 264267 | [264267-les-trois-mousquetaires.json](./264267-les-trois-mousquetaires.json) |
 | Les Trucs qui Tombent | 381502 | [381502-les-trucs-qui-tombent.json](./381502-les-trucs-qui-tombent.json) |
+| Les Visiteurs: La Relique De Sainte Rolande | 126077 | [126077-les-visiteurs-la-relique-de-sainte-rolande.json](./126077-les-visiteurs-la-relique-de-sainte-rolande.json) |
 | Les Visiteurs: Le Jeu | 213566 | [213566-les-visiteurs-le-jeu.json](./213566-les-visiteurs-le-jeu.json) |
 | Les: The Horror Game | 158963 | [158963-les-the-horror-game.json](./158963-les-the-horror-game.json) |
 | Lesbian Kissing Simulator in RPGMaker 2003 | 404040 | [404040-lesbian-kissing-simulator-in-rpgmaker-2003.json](./404040-lesbian-kissing-simulator-in-rpgmaker-2003.json) |
