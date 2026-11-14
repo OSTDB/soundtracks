@@ -6567,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
 | God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
 | God Mode | 8949 | [8949-god-mode.json](./8949-god-mode.json) |
+| God Monster | 114462 | [114462-god-monster.json](./114462-god-monster.json) |
 | God of Arrows | 57190 | [57190-god-of-arrows.json](./57190-god-of-arrows.json) |
 | God of Attack VIP | 95864 | [95864-god-of-attack-vip.json](./95864-god-of-attack-vip.json) |
 | God of Bath | 402752 | [402752-god-of-bath.json](./402752-god-of-bath.json) |
