@@ -8569,9 +8569,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Cola | 232615 | [232615-flick-cola.json](./232615-flick-cola.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
 | Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
+| Flick Field Goal 18 | 82238 | [82238-flick-field-goal-18.json](./82238-flick-field-goal-18.json) |
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
 | Flick Golf 3D | 85141 | [85141-flick-golf-3d.json](./85141-flick-golf-3d.json) |
 | Flick Golf Extreme | 58206 | [58206-flick-golf-extreme.json](./58206-flick-golf-extreme.json) |
+| Flick Golf World Tour | 82239 | [82239-flick-golf-world-tour.json](./82239-flick-golf-world-tour.json) |
 | Flick Golf! | 58201 | [58201-flick-golf.json](./58201-flick-golf.json) |
 | Flick Headers Euro 2012 | 340147 | [340147-flick-headers-euro-2012.json](./340147-flick-headers-euro-2012.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
@@ -14132,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Byte | 12108 | [12108-frost-byte.json](./12108-frost-byte.json) |
 | Frost Dragon in Adventure Land | 188033 | [188033-frost-dragon-in-adventure-land.json](./188033-frost-dragon-in-adventure-land.json) |
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
+| Frost Fairies | 82211 | [82211-frost-fairies.json](./82211-frost-fairies.json) |
 | Frost Heart | 193760 | [193760-frost-heart.json](./193760-frost-heart.json) |
 | Frost Kin | 402474 | [402474-frost-kin.json](./402474-frost-kin.json) |
 | Frost Loop | 391230 | [391230-frost-loop.json](./391230-frost-loop.json) |
