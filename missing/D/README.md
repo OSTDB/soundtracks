@@ -7989,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Island Survival | 212525 | [212525-desert-island-survival.json](./212525-desert-island-survival.json) |
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
 | Desert Journey: Nitro | 214644 | [214644-desert-journey-nitro.json](./214644-desert-journey-nitro.json) |
+| Desert Kill | 111127 | [111127-desert-kill.json](./111127-desert-kill.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom | 221611 | [221611-desert-kingdom.json](./221611-desert-kingdom.json) |
 | Desert Kingdom Portable | 64158 | [64158-desert-kingdom-portable.json](./64158-desert-kingdom-portable.json) |
@@ -14442,6 +14443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Universe | 159559 | [159559-doodle-god-universe.json](./159559-doodle-god-universe.json) |
 | Doodle God: 8-bit Mania | 31000 | [31000-doodle-god-8-bit-mania.json](./31000-doodle-god-8-bit-mania.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
+| Doodle God: Crime City | 111295 | [111295-doodle-god-crime-city.json](./111295-doodle-god-crime-city.json) |
 | Doodle God: Evolution | 114180 | [114180-doodle-god-evolution.json](./114180-doodle-god-evolution.json) |
 | Doodle God: Evolution - Doodle Mafia Pack | 238329 | [238329-doodle-god-evolution-doodle-mafia-pack.json](./238329-doodle-god-evolution-doodle-mafia-pack.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
