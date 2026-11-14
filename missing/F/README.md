@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fa Jin | 288054 | [288054-fa-jin.json](./288054-fa-jin.json) |
 | FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
+| FA18 Hornet Jet Fighter | 104313 | [104313-fa18-hornet-jet-fighter.json](./104313-fa18-hornet-jet-fighter.json) |
 | Faani | 178154 | [178154-faani.json](./178154-faani.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
 | Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
 | Fairyland Online | 165835 | [165835-fairyland-online.json](./165835-fairyland-online.json) |
 | Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
+| Fairyland: Blackberry Warrior | 104330 | [104330-fairyland-blackberry-warrior.json](./104330-fairyland-blackberry-warrior.json) |
 | Fairyland: Chronicle | 95266 | [95266-fairyland-chronicle.json](./95266-fairyland-chronicle.json) |
 | Fairyland: Fairy Power | 30518 | [30518-fairyland-fairy-power.json](./30518-fairyland-fairy-power.json) |
 | Fairyland: Fairylines | 111367 | [111367-fairyland-fairylines.json](./111367-fairyland-fairylines.json) |
