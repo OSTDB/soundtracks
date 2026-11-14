@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Killer | 213816 | [213816-zombie-killer.json](./213816-zombie-killer.json) |
 | Zombie Killer | 301636 | [301636-zombie-killer.json](./301636-zombie-killer.json) |
 | Zombie Killer Carnage | 10352 | [10352-zombie-killer-carnage.json](./10352-zombie-killer-carnage.json) |
+| Zombie Killer Drift: Racing Survival | 165722 | [165722-zombie-killer-drift-racing-survival.json](./165722-zombie-killer-drift-racing-survival.json) |
 | Zombie Killer Mojito | 237708 | [237708-zombie-killer-mojito.json](./237708-zombie-killer-mojito.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killer: Type to Shoot! | 114899 | [114899-zombie-killer-type-to-shoot.json](./114899-zombie-killer-type-to-shoot.json) |
