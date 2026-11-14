@@ -9430,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Office | 258299 | [258299-the-dream-office.json](./258299-the-dream-office.json) |
 | The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
+| The Dream Team: 3 on 3 Challenge | 80049 | [80049-the-dream-team-3-on-3-challenge.json](./80049-the-dream-team-3-on-3-challenge.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamcatcher | 119094 | [119094-the-dreamcatcher.json](./119094-the-dreamcatcher.json) |
@@ -9502,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dummy Experiment | 81825 | [81825-the-dummy-experiment.json](./81825-the-dummy-experiment.json) |
 | The Dungeon | 272892 | [272892-the-dungeon.json](./272892-the-dungeon.json) |
 | The Dungeon | 301974 | [301974-the-dungeon.json](./301974-the-dungeon.json) |
+| The Dungeon | 80016 | [80016-the-dungeon.json](./80016-the-dungeon.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
 | The Dungeon Club | 419382 | [419382-the-dungeon-club.json](./419382-the-dungeon-club.json) |
 | The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
@@ -9649,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Dark Brotherhood | 128473 | [128473-the-elder-scrolls-online-dark-brotherhood.json](./128473-the-elder-scrolls-online-dark-brotherhood.json) |
 | The Elder Scrolls Online: Deadlands | 180605 | [180605-the-elder-scrolls-online-deadlands.json](./180605-the-elder-scrolls-online-deadlands.json) |
 | The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
+| The Elder Scrolls Online: Dragon Bones | 80011 | [80011-the-elder-scrolls-online-dragon-bones.json](./80011-the-elder-scrolls-online-dragon-bones.json) |
 | The Elder Scrolls Online: Dragonhold | 119327 | [119327-the-elder-scrolls-online-dragonhold.json](./119327-the-elder-scrolls-online-dragonhold.json) |
 | The Elder Scrolls Online: Elsweyr | 113996 | [113996-the-elder-scrolls-online-elsweyr.json](./113996-the-elder-scrolls-online-elsweyr.json) |
 | The Elder Scrolls Online: Elsweyr - Collector's Edition | 118908 | [118908-the-elder-scrolls-online-elsweyr-collectors-edition.json](./118908-the-elder-scrolls-online-elsweyr-collectors-edition.json) |
@@ -15194,6 +15197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memphis Chronicles | 405199 | [405199-the-memphis-chronicles.json](./405199-the-memphis-chronicles.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
+| The Menagerie | 80053 | [80053-the-menagerie.json](./80053-the-menagerie.json) |
 | The Mending | 263739 | [263739-the-mending.json](./263739-the-mending.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
 | The Meowfficer | 337334 | [337334-the-meowfficer.json](./337334-the-meowfficer.json) |
