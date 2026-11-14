@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
 | Ultra Bravo RPG | 339858 | [339858-ultra-bravo-rpg.json](./339858-ultra-bravo-rpg.json) |
 | Ultra Break | 158256 | [158256-ultra-break.json](./158256-ultra-break.json) |
+| Ultra Bushwick | 155754 | [155754-ultra-bushwick.json](./155754-ultra-bushwick.json) |
 | Ultra Business Tycoon III | 62974 | [62974-ultra-business-tycoon-iii.json](./62974-ultra-business-tycoon-iii.json) |
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underspace | 120577 | [120577-underspace.json](./120577-underspace.json) |
 | Understand | 154873 | [154873-understand.json](./154873-understand.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
+| Understanding, the Game | 155758 | [155758-understanding-the-game.json](./155758-understanding-the-game.json) |
 | Understar | 423669 | [423669-understar.json](./423669-understar.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
 | Underswap: Distrust the Game 2 | 331930 | [331930-underswap-distrust-the-game-2.json](./331930-underswap-distrust-the-game-2.json) |
@@ -3798,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US History: Western Settlement to Modern Day | 70303 | [70303-us-history-western-settlement-to-modern-day.json](./70303-us-history-western-settlement-to-modern-day.json) |
 | US Long Trucks : Road Simulator | 46495 | [46495-us-long-trucks-road-simulator.json](./46495-us-long-trucks-road-simulator.json) |
 | Us Lovely Corpses | 123279 | [123279-us-lovely-corpses.json](./123279-us-lovely-corpses.json) |
+| US Navy Sea Conflict | 156233 | [156233-us-navy-sea-conflict.json](./156233-us-navy-sea-conflict.json) |
 | US Open 2002 | 206272 | [206272-us-open-2002.json](./206272-us-open-2002.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Presidents Quiz Tutor | 90841 | [90841-us-presidents-quiz-tutor.json](./90841-us-presidents-quiz-tutor.json) |
