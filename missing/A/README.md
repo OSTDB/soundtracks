@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A day with Marco | 343160 | [343160-a-day-with-marco.json](./343160-a-day-with-marco.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
+| A Day Without Me | 132291 | [132291-a-day-without-me.json](./132291-a-day-without-me.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
 | A Day's Work | 346355 | [346355-a-days-work.json](./346355-a-days-work.json) |
 | A Daydream Away | 180410 | [180410-a-daydream-away.json](./180410-a-daydream-away.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.E.S. Extinction Agenda EX | 36270 | [36270-a-r-e-s-extinction-agenda-ex.json](./36270-a-r-e-s-extinction-agenda-ex.json) |
 | A.R.E.S.: Extinction Agenda | 6282 | [6282-a-r-e-s-extinction-agenda.json](./6282-a-r-e-s-extinction-agenda.json) |
 | A.R.E.S.: Extinction Agenda - Berzerker Suit | 120631 | [120631-a-r-e-s-extinction-agenda-berzerker-suit.json](./120631-a-r-e-s-extinction-agenda-berzerker-suit.json) |
+| A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
 | A.R.S.E.N.A.L. Taste of Power | 204341 | [204341-a-r-s-e-n-a-l-taste-of-power.json](./204341-a-r-s-e-n-a-l-taste-of-power.json) |
 | A.R.U. | 412069 | [412069-a-r-u.json](./412069-a-r-u.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Frontlines | 411697 | [411697-about-frontlines.json](./411697-about-frontlines.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
+| About Love, Hate & the Other Ones 2 | 132322 | [132322-about-love-hate-and-the-other-ones-2.json](./132322-about-love-hate-and-the-other-ones-2.json) |
 | About Love, Hate and the other ones | 3080 | [3080-about-love-hate-and-the-other-ones.json](./3080-about-love-hate-and-the-other-ones.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | About Time! | 420209 | [420209-about-time.json](./420209-about-time.json) |
@@ -4445,6 +4448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Adventurous Slime | 337507 | [337507-adventurous-slime.json](./337507-adventurous-slime.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
+| Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Adverse Effects | 258882 | [258882-adverse-effects.json](./258882-adverse-effects.json) |
 | Adversity Andy | 178302 | [178302-adversity-andy.json](./178302-adversity-andy.json) |
 | AdvertCity | 35360 | [35360-advertcity.json](./35360-advertcity.json) |
@@ -20361,6 +20365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axes and Acres | 18827 | [18827-axes-and-acres.json](./18827-axes-and-acres.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
+| Axeson's Fury VR | 132283 | [132283-axesons-fury-vr.json](./132283-axesons-fury-vr.json) |
 | Axet | 14497 | [14497-axet.json](./14497-axet.json) |
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
 | Axial Disc 1 | 164869 | [164869-axial-disc-1.json](./164869-axial-disc-1.json) |
