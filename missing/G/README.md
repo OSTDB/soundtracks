@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Machine | 35475 | [35475-ghost-in-the-machine.json](./35475-ghost-in-the-machine.json) |
 | Ghost In The Mirror: Episode 1 - Here Be Dragons | 268283 | [268283-ghost-in-the-mirror-episode-1-here-be-dragons.json](./268283-ghost-in-the-mirror-episode-1-here-be-dragons.json) |
+| Ghost in the Pool | 143156 | [143156-ghost-in-the-pool.json](./143156-ghost-in-the-pool.json) |
 | Ghost in the Sheet | 71859 | [71859-ghost-in-the-sheet.json](./71859-ghost-in-the-sheet.json) |
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
