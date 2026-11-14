@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice Survival | 270783 | [270783-ice-survival.json](./270783-ice-survival.json) |
 | Ice Tales HD | 175518 | [175518-ice-tales-hd.json](./175518-ice-tales-hd.json) |
+| ICE Temple | 146396 | [146396-ice-temple.json](./146396-ice-temple.json) |
 | Ice Trek | 18590 | [18590-ice-trek.json](./18590-ice-trek.json) |
 | Ice Truckers | 315616 | [315616-ice-truckers.json](./315616-ice-truckers.json) |
 | Ice Walker | 234950 | [234950-ice-walker.json](./234950-ice-walker.json) |
