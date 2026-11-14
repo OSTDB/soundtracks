@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
 | Basketball General Manager | 87526 | [87526-basketball-general-manager.json](./87526-basketball-general-manager.json) |
+| Basketball GM | 82242 | [82242-basketball-gm.json](./82242-basketball-gm.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hall-of-Fame: Ultimate Hoops Challenge | 50662 | [50662-basketball-hall-of-fame-ultimate-hoops-challenge.json](./50662-basketball-hall-of-fame-ultimate-hoops-challenge.json) |
 | Basketball Hero | 109174 | [109174-basketball-hero.json](./109174-basketball-hero.json) |
@@ -5122,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayou Island: Point and Click Adventure | 29412 | [29412-bayou-island-point-and-click-adventure.json](./29412-bayou-island-point-and-click-adventure.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
 | Bazaar Simulator | 312155 | [312155-bazaar-simulator.json](./312155-bazaar-simulator.json) |
+| Bazair | 84415 | [84415-bazair.json](./84415-bazair.json) |
 | Bazar Don JC | 404447 | [404447-bazar-don-jc.json](./404447-bazar-don-jc.json) |
 | Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
@@ -7467,6 +7469,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Board Games | 8665 | [8665-best-of-board-games.json](./8665-best-of-board-games.json) |
 | Best of Board Games DS | 84785 | [84785-best-of-board-games-ds.json](./84785-best-of-board-games-ds.json) |
 | Best of Board Games: Chess | 84981 | [84981-best-of-board-games-chess.json](./84981-best-of-board-games-chess.json) |
+| Best of Board Games: Mahjong | 84992 | [84992-best-of-board-games-mahjong.json](./84992-best-of-board-games-mahjong.json) |
+| Best of Board Games: Solitaire | 84993 | [84993-best-of-board-games-solitaire.json](./84993-best-of-board-games-solitaire.json) |
 | Best of British: Summer Sports | 246930 | [246930-best-of-british-summer-sports.json](./246930-best-of-british-summer-sports.json) |
 | Best of Card Games DS | 98615 | [98615-best-of-card-games-ds.json](./98615-best-of-card-games-ds.json) |
 | Best of Casual Games | 84784 | [84784-best-of-casual-games.json](./84784-best-of-casual-games.json) |
@@ -8597,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
 | Bike Rider 2018 | 105723 | [105723-bike-rider-2018.json](./105723-bike-rider-2018.json) |
 | Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
+| Bike Rider UltraDX: World Tour | 84991 | [84991-bike-rider-ultradx-world-tour.json](./84991-bike-rider-ultradx-world-tour.json) |
 | Bike Rider VR | 118508 | [118508-bike-rider-vr.json](./118508-bike-rider-vr.json) |
 | Bike Rivals | 256188 | [256188-bike-rivals.json](./256188-bike-rivals.json) |
 | Bike Runner | 370592 | [370592-bike-runner.json](./370592-bike-runner.json) |
@@ -8612,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikeflyter | 142643 | [142643-bikeflyter.json](./142643-bikeflyter.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Bikepark: The Riders Game | 60945 | [60945-bikepark-the-riders-game.json](./60945-bikepark-the-riders-game.json) |
+| Biker Bash | 84990 | [84990-biker-bash.json](./84990-biker-bash.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
@@ -9547,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Blaster XL | 33733 | [33733-bit-blaster-xl.json](./33733-bit-blaster-xl.json) |
 | Bit Boy!! | 122125 | [122125-bit-boy.json](./122125-bit-boy.json) |
 | Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
+| Bit Boy!! Arcade Deluxe | 84994 | [84994-bit-boy-arcade-deluxe.json](./84994-bit-boy-arcade-deluxe.json) |
 | Bit Brawlers | 61716 | [61716-bit-brawlers.json](./61716-bit-brawlers.json) |
 | Bit Breaker | 385948 | [385948-bit-breaker.json](./385948-bit-breaker.json) |
 | Bit Buddy | 379871 | [379871-bit-buddy.json](./379871-bit-buddy.json) |
@@ -11928,9 +11935,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Ascent | 304396 | [304396-blocky-ascent.json](./304396-blocky-ascent.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Balloons | 239401 | [239401-blocky-balloons.json](./239401-blocky-balloons.json) |
+| Blocky Baseball | 82244 | [82244-blocky-baseball.json](./82244-blocky-baseball.json) |
+| Blocky Basketball | 82249 | [82249-blocky-basketball.json](./82249-blocky-basketball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Blast | 343011 | [343011-blocky-blast.json](./343011-blocky-blast.json) |
 | Blocky Bot | 84998 | [84998-blocky-bot.json](./84998-blocky-bot.json) |
+| Blocky Bronco | 82245 | [82245-blocky-bronco.json](./82245-blocky-bronco.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Cars Online | 86145 | [86145-blocky-cars-online.json](./86145-blocky-cars-online.json) |
 | Blocky Cars Speed Racer: Underground Highway Reckless Edition | 175504 | [175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json](./175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json) |
@@ -11944,9 +11954,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Granny Mod chapter One | 248175 | [248175-blocky-granny-mod-chapter-one.json](./248175-blocky-granny-mod-chapter-one.json) |
 | Blocky Heli Rescue | 385123 | [385123-blocky-heli-rescue.json](./385123-blocky-heli-rescue.json) |
 | Blocky Highway | 181526 | [181526-blocky-highway.json](./181526-blocky-highway.json) |
+| Blocky Hockey | 82246 | [82246-blocky-hockey.json](./82246-blocky-hockey.json) |
 | Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Parkour 3D | 101089 | [101089-blocky-parkour-3d.json](./101089-blocky-parkour-3d.json) |
+| Blocky Pirates | 82247 | [82247-blocky-pirates.json](./82247-blocky-pirates.json) |
+| Blocky Racer | 82248 | [82248-blocky-racer.json](./82248-blocky-racer.json) |
 | Blocky Racing | 81582 | [81582-blocky-racing.json](./81582-blocky-racing.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
@@ -11955,6 +11968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Run | 416884 | [416884-blocky-run.json](./416884-blocky-run.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Snake | 195558 | [195558-blocky-snake.json](./195558-blocky-snake.json) |
+| Blocky Snowboarding | 82237 | [82237-blocky-snowboarding.json](./82237-blocky-snowboarding.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
 | Blocky Warriors: Amazing Race | 233196 | [233196-blocky-warriors-amazing-race.json](./233196-blocky-warriors-amazing-race.json) |
