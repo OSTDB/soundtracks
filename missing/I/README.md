@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immoral Quartet | 147316 | [147316-immoral-quartet.json](./147316-immoral-quartet.json) |
 | Immoral Shadows | 236829 | [236829-immoral-shadows.json](./236829-immoral-shadows.json) |
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
+| Immortal | 121063 | [121063-immortal.json](./121063-immortal.json) |
 | Immortal | 320348 | [320348-immortal.json](./320348-immortal.json) |
 | Immortal Awakening | 227252 | [227252-immortal-awakening.json](./227252-immortal-awakening.json) |
 | Immortal Beast | 273789 | [273789-immortal-beast.json](./273789-immortal-beast.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity War | 284292 | [284292-infinity-war.json](./284292-infinity-war.json) |
 | Infinity War Land | 220914 | [220914-infinity-war-land.json](./220914-infinity-war-land.json) |
+| Infinity Wars | 121050 | [121050-infinity-wars.json](./121050-infinity-wars.json) |
 | Infinity Wars 2 | 128386 | [128386-infinity-wars-2.json](./128386-infinity-wars-2.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
 | Infinity Wings - Scout & Grunt | 33360 | [33360-infinity-wings-scout-and-grunt.json](./33360-infinity-wings-scout-and-grunt.json) |
