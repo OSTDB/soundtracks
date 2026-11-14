@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hansel and Gretel DS | 229491 | [229491-hansel-and-gretel-ds.json](./229491-hansel-and-gretel-ds.json) |
 | Hansel and Gretel: Interactive Book | 265837 | [265837-hansel-and-gretel-interactive-book.json](./265837-hansel-and-gretel-interactive-book.json) |
+| Hansha de Spark! | 98122 | [98122-hansha-de-spark.json](./98122-hansha-de-spark.json) |
 | Hanshin Tigers DS | 123320 | [123320-hanshin-tigers-ds.json](./123320-hanshin-tigers-ds.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
 | Hantu and Hunted | 408579 | [408579-hantu-and-hunted.json](./408579-hantu-and-hunted.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmless Lies | 337041 | [337041-harmless-lies.json](./337041-harmless-lies.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
+| HarmonEy | 98129 | [98129-harmoney.json](./98129-harmoney.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
 | Harmonia | 138141 | [138141-harmonia.json](./138141-harmonia.json) |
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
@@ -4162,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
 | Heavy Shreddin' | 48157 | [48157-heavy-shreddin.json](./48157-heavy-shreddin.json) |
+| Heavy Siroop 1 | 98099 | [98099-heavy-siroop-1.json](./98099-heavy-siroop-1.json) |
 | Heavy Smash | 146370 | [146370-heavy-smash.json](./146370-heavy-smash.json) |
 | Heavy Spoilers RPG 2: Your Best Friend Is Actually the Great Demon King | 377945 | [377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json](./377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
@@ -4672,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell to Pay | 92557 | [92557-hell-to-pay.json](./92557-hell-to-pay.json) |
 | Hell to Raze | 132702 | [132702-hell-to-raze.json](./132702-hell-to-raze.json) |
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
+| Hell Typing | 98090 | [98090-hell-typing.json](./98090-hell-typing.json) |
 | Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Wait | 399052 | [399052-hell-wait.json](./399052-hell-wait.json) |
@@ -7593,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
 | HiberWorld | 130683 | [130683-hiberworld.json](./130683-hiberworld.json) |
+| Hibi Akiba | 98093 | [98093-hibi-akiba.json](./98093-hibi-akiba.json) |
 | Hibikake Iro no Kiseki | 76701 | [76701-hibikake-iro-no-kiseki.json](./76701-hibikake-iro-no-kiseki.json) |
 | Hibiscus Red | 125082 | [125082-hibiscus-red.json](./125082-hibiscus-red.json) |
 | Hibiscus Red: Part 2 | 171933 | [171933-hibiscus-red-part-2.json](./171933-hibiscus-red-part-2.json) |
