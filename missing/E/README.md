@@ -3622,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Devil | 110703 | [110703-empire-of-devil.json](./110703-empire-of-devil.json) |
 | Empire of Disorder | 271050 | [271050-empire-of-disorder.json](./271050-empire-of-disorder.json) |
+| Empire of Ember | 152510 | [152510-empire-of-ember.json](./152510-empire-of-ember.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Gnomes | 102701 | [102701-empire-of-gnomes.json](./102701-empire-of-gnomes.json) |
 | Empire of Karn | 70249 | [70249-empire-of-karn.json](./70249-empire-of-karn.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
 | Erotic Jigsaw Puzzle 3 | 151588 | [151588-erotic-jigsaw-puzzle-3.json](./151588-erotic-jigsaw-puzzle-3.json) |
+| Erotic Jigsaw Puzzle 4 | 152525 | [152525-erotic-jigsaw-puzzle-4.json](./152525-erotic-jigsaw-puzzle-4.json) |
 | Erotic Jigsaw Puzzle 5 | 162212 | [162212-erotic-jigsaw-puzzle-5.json](./162212-erotic-jigsaw-puzzle-5.json) |
 | Erotic Jigsaw Puzzle Summer | 154121 | [154121-erotic-jigsaw-puzzle-summer.json](./154121-erotic-jigsaw-puzzle-summer.json) |
 | Erotic Photoshoot | 297092 | [297092-erotic-photoshoot.json](./297092-erotic-photoshoot.json) |
