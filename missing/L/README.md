@@ -7232,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizards vs Slavs: Arena | 298283 | [298283-lizards-vs-slavs-arena.json](./298283-lizards-vs-slavs-arena.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | liZboa | 91869 | [91869-lizboa.json](./91869-lizboa.json) |
+| Lizzi Crossing | 134739 | [134739-lizzi-crossing.json](./134739-lizzi-crossing.json) |
 | Lizzie McGuire & That's So Raven | 91667 | [91667-lizzie-mcguire-and-thats-so-raven.json](./91667-lizzie-mcguire-and-thats-so-raven.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
@@ -10707,6 +10708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Crusader | 296961 | [296961-luminous-crusader.json](./296961-luminous-crusader.json) |
 | Luminous Gloom | 257126 | [257126-luminous-gloom.json](./257126-luminous-gloom.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
+| Luminous Labyrinth | 134727 | [134727-luminous-labyrinth.json](./134727-luminous-labyrinth.json) |
 | Luminous Nights | 224725 | [224725-luminous-nights.json](./224725-luminous-nights.json) |
 | Luminous of Stellar | 228486 | [228486-luminous-of-stellar.json](./228486-luminous-of-stellar.json) |
 | Luminous Plume | 140981 | [140981-luminous-plume.json](./140981-luminous-plume.json) |
