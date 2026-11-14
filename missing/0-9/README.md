@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
 | 3D Maze | 421216 | [421216-3d-maze.json](./421216-3d-maze.json) |
+| 3d Maze In Space | 155734 | [155734-3d-maze-in-space.json](./155734-3d-maze-in-space.json) |
 | 3D Maze Man: Adventures in Winter Wonderland | 62961 | [62961-3d-maze-man-adventures-in-winter-wonderland.json](./62961-3d-maze-man-adventures-in-winter-wonderland.json) |
 | 3D Maze Man: Amazing Adventures | 62962 | [62962-3d-maze-man-amazing-adventures.json](./62962-3d-maze-man-amazing-adventures.json) |
 | 3D Mega Rides Avenger | 56918 | [56918-3d-mega-rides-avenger.json](./56918-3d-mega-rides-avenger.json) |
