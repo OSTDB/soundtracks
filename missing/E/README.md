@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
 | Enby Enough | 179942 | [179942-enby-enough.json](./179942-enby-enough.json) |
+| Enc and the Flying Machine | 135322 | [135322-enc-and-the-flying-machine.json](./135322-enc-and-the-flying-machine.json) |
 | Encanamento | 359756 | [359756-encanamento.json](./359756-encanamento.json) |
 | Encased | 95407 | [95407-encased.json](./95407-encased.json) |
 | Encased: Portrait Pack | 230991 | [230991-encased-portrait-pack.json](./230991-encased-portrait-pack.json) |
@@ -5673,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Arcturus | 280948 | [280948-escape-from-arcturus.json](./280948-escape-from-arcturus.json) |
 | Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
 | Escape from Area 99 | 284390 | [284390-escape-from-area-99.json](./284390-escape-from-area-99.json) |
+| Escape from Asura | 135336 | [135336-escape-from-asura.json](./135336-escape-from-asura.json) |
 | Escape from Baba Yaga | 297995 | [297995-escape-from-baba-yaga.json](./297995-escape-from-baba-yaga.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
@@ -6089,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
 | Escape Room of Flower | 302991 | [302991-escape-room-of-flower.json](./302991-escape-room-of-flower.json) |
 | Escape Room Pentalogy Bundle | 284488 | [284488-escape-room-pentalogy-bundle.json](./284488-escape-room-pentalogy-bundle.json) |
+| Escape Room Simulator | 135356 | [135356-escape-room-simulator.json](./135356-escape-room-simulator.json) |
 | Escape Room Six Games Pack | 332011 | [332011-escape-room-six-games-pack.json](./332011-escape-room-six-games-pack.json) |
 | Escape Room Super Bundle | 295471 | [295471-escape-room-super-bundle.json](./295471-escape-room-super-bundle.json) |
 | Escape Room that Moon Night | 219948 | [219948-escape-room-that-moon-night.json](./219948-escape-room-that-moon-night.json) |
