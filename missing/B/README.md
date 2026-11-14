@@ -9739,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biz Nouryoku Series: Miryoku Kaikaku | 269722 | [269722-biz-nouryoku-series-miryoku-kaikaku.json](./269722-biz-nouryoku-series-miryoku-kaikaku.json) |
 | Biz Taiken DS Series: Kigyoudou - Inshoku | 269724 | [269724-biz-taiken-ds-series-kigyoudou-inshoku.json](./269724-biz-taiken-ds-series-kigyoudou-inshoku.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
+| Bizango Blast | 113094 | [113094-bizango-blast.json](./113094-bizango-blast.json) |
 | Bizarr Adventure | 224677 | [224677-bizarr-adventure.json](./224677-bizarr-adventure.json) |
 | Bizarre | 272138 | [272138-bizarre.json](./272138-bizarre.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
@@ -10426,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
 | Blackwyche | 26250 | [26250-blackwyche.json](./26250-blackwyche.json) |
 | Bladam Topaz | 149395 | [149395-bladam-topaz.json](./149395-bladam-topaz.json) |
+| Blade | 113271 | [113271-blade.json](./113271-blade.json) |
 | Blade | 122191 | [122191-blade.json](./122191-blade.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade | 194148 | [194148-blade.json](./194148-blade.json) |
@@ -12592,6 +12594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Paradise | 347310 | [347310-bloom-paradise.json](./347310-bloom-paradise.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloom Thrice | 292434 | [292434-bloom-thrice.json](./292434-bloom-thrice.json) |
+| Bloom: Labyrinth | 113262 | [113262-bloom-labyrinth.json](./113262-bloom-labyrinth.json) |
 | Bloom: Memories | 61558 | [61558-bloom-memories.json](./61558-bloom-memories.json) |
 | Bloom: Roots of Renewal | 214231 | [214231-bloom-roots-of-renewal.json](./214231-bloom-roots-of-renewal.json) |
 | Bloom: The Forest Burns | 132701 | [132701-bloom-the-forest-burns.json](./132701-bloom-the-forest-burns.json) |
@@ -13779,6 +13782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb N' Bats | 112448 | [112448-bomb-n-bats.json](./112448-bomb-n-bats.json) |
 | Bomb Pong | 189926 | [189926-bomb-pong.json](./189926-bomb-pong.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
+| Bomb Royale | 113074 | [113074-bomb-royale.json](./113074-bomb-royale.json) |
 | Bomb Rush Cyberfunk | 135940 | [135940-bomb-rush-cyberfunk.json](./135940-bomb-rush-cyberfunk.json) |
 | Bomb Rush Cyberfunk: Base & Jay | 262252 | [262252-bomb-rush-cyberfunk-base-and-jay.json](./262252-bomb-rush-cyberfunk-base-and-jay.json) |
 | Bomb Rush Cyberfunk: Exclusive Edition | 379972 | [379972-bomb-rush-cyberfunk-exclusive-edition.json](./379972-bomb-rush-cyberfunk-exclusive-edition.json) |
@@ -20282,6 +20286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
 | Butterfly Couple | 334800 | [334800-butterfly-couple.json](./334800-butterfly-couple.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
+| Butterfly Dream Shadow | 113272 | [113272-butterfly-dream-shadow.json](./113272-butterfly-dream-shadow.json) |
 | Butterfly Effect | 243651 | [243651-butterfly-effect.json](./243651-butterfly-effect.json) |
 | Butterfly Escape | 73587 | [73587-butterfly-escape.json](./73587-butterfly-escape.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
@@ -20299,6 +20304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly's Poison: Blood Chains | 136525 | [136525-butterflys-poison-blood-chains.json](./136525-butterflys-poison-blood-chains.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
+| Buttle Tank | 113266 | [113266-buttle-tank.json](./113266-buttle-tank.json) |
 | Butto Bird | 306193 | [306193-butto-bird.json](./306193-butto-bird.json) |
 | Button Board | 232349 | [232349-button-board.json](./232349-button-board.json) |
 | Button Bros | 46468 | [46468-button-bros.json](./46468-button-bros.json) |
