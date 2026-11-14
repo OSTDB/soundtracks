@@ -14242,6 +14242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusthaven | 388313 | [388313-rusthaven.json](./388313-rusthaven.json) |
 | RustHeart | 119286 | [119286-rustheart.json](./119286-rustheart.json) |
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
+| Rustica | 152547 | [152547-rustica.json](./152547-rustica.json) |
 | Rustil: Eternal Labyrinth Castle | 247984 | [247984-rustil-eternal-labyrinth-castle.json](./247984-rustil-eternal-labyrinth-castle.json) |
 | Rusting Souls | 257520 | [257520-rusting-souls.json](./257520-rusting-souls.json) |
 | Rustland | 174916 | [174916-rustland.json](./174916-rustland.json) |
