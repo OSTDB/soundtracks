@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
 | Dawn's Light 3 | 324737 | [324737-dawns-light-3.json](./324737-dawns-light-3.json) |
+| Dawnblade | 141934 | [141934-dawnblade.json](./141934-dawnblade.json) |
 | Dawnbreaker: Aeon's Reach | 170597 | [170597-dawnbreaker-aeons-reach.json](./170597-dawnbreaker-aeons-reach.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
@@ -5382,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debate | 296048 | [296048-debate.json](./296048-debate.json) |
 | Debate It! | 51337 | [51337-debate-it.json](./51337-debate-it.json) |
+| Debatto: Delivery Battle | 142528 | [142528-debatto-delivery-battle.json](./142528-debatto-delivery-battle.json) |
 | Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
@@ -15033,6 +15035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormitabis Remastered | 281298 | [281298-dormitabis-remastered.json](./281298-dormitabis-remastered.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
 | Dormitory Love | 246609 | [246609-dormitory-love.json](./246609-dormitory-love.json) |
+| Dormiveglia | 142527 | [142527-dormiveglia.json](./142527-dormiveglia.json) |
 | Dorobune to Zainin | 389381 | [389381-dorobune-to-zainin.json](./389381-dorobune-to-zainin.json) |
 | Dorodon | 40100 | [40100-dorodon.json](./40100-dorodon.json) |
 | Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
@@ -20365,6 +20368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Voxel | 193256 | [193256-dungeon-voxel.json](./193256-dungeon-voxel.json) |
 | Dungeon vs Gunner | 224062 | [224062-dungeon-vs-gunner.json](./224062-dungeon-vs-gunner.json) |
 | Dungeon Walk 2: Konton no Kamigami | 291494 | [291494-dungeon-walk-2-konton-no-kamigami.json](./291494-dungeon-walk-2-konton-no-kamigami.json) |
+| Dungeon Walk 3d | 142504 | [142504-dungeon-walk-3d.json](./142504-dungeon-walk-3d.json) |
 | Dungeon Walk 4: Solitary Insect Princess | 391124 | [391124-dungeon-walk-4-solitary-insect-princess.json](./391124-dungeon-walk-4-solitary-insect-princess.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Wanderers | 427855 | [427855-dungeon-wanderers.json](./427855-dungeon-wanderers.json) |
