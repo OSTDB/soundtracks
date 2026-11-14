@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zamba y San Martín | 83338 | [83338-zamba-y-san-martin.json](./83338-zamba-y-san-martin.json) |
 | Zambi 2 Kil | 55598 | [55598-zambi-2-kil.json](./55598-zambi-2-kil.json) |
 | Zamboni Challenge | 93814 | [93814-zamboni-challenge.json](./93814-zamboni-challenge.json) |
+| Zamboni Driver | 97562 | [97562-zamboni-driver.json](./97562-zamboni-driver.json) |
 | Zamok | 383988 | [383988-zamok.json](./383988-zamok.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
