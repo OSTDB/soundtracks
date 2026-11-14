@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
 | Jet Dragon | 256087 | [256087-jet-dragon.json](./256087-jet-dragon.json) |
 | Jet Ducks | 90505 | [90505-jet-ducks.json](./90505-jet-ducks.json) |
+| Jet Edge Turbo | 150191 | [150191-jet-edge-turbo.json](./150191-jet-edge-turbo.json) |
 | Jet Fighter | 13251 | [13251-jet-fighter.json](./13251-jet-fighter.json) |
 | Jet Fighters with Friends (Multiplayer) | 307029 | [307029-jet-fighters-with-friends-multiplayer.json](./307029-jet-fighters-with-friends-multiplayer.json) |
 | Jet Fighters with Friends 2 | 384303 | [384303-jet-fighters-with-friends-2.json](./384303-jet-fighters-with-friends-2.json) |
