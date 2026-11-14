@@ -4363,11 +4363,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernando: Detective Privado | 322538 | [322538-fernando-detective-privado.json](./322538-fernando-detective-privado.json) |
 | Fernbus Coach Simulator | 33896 | [33896-fernbus-coach-simulator.json](./33896-fernbus-coach-simulator.json) |
 | Fernbus Coach Simulator: Map Poland | 332014 | [332014-fernbus-coach-simulator-map-poland.json](./332014-fernbus-coach-simulator-map-poland.json) |
+| Fernbus Simulator: Austria/Switzerland | 161957 | [161957-fernbus-simulator-austria-switzerland.json](./161957-fernbus-simulator-austria-switzerland.json) |
+| Fernbus Simulator: Bavarian Castle | 161960 | [161960-fernbus-simulator-bavarian-castle.json](./161960-fernbus-simulator-bavarian-castle.json) |
+| Fernbus Simulator: BB40 | 161950 | [161950-fernbus-simulator-bb40.json](./161950-fernbus-simulator-bb40.json) |
+| Fernbus Simulator: Belgium | 161951 | [161951-fernbus-simulator-belgium.json](./161951-fernbus-simulator-belgium.json) |
+| Fernbus Simulator: Comfort Class HD | 161952 | [161952-fernbus-simulator-comfort-class-hd.json](./161952-fernbus-simulator-comfort-class-hd.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
+| Fernbus Simulator: Football Team Bus | 161961 | [161961-fernbus-simulator-football-team-bus.json](./161961-fernbus-simulator-football-team-bus.json) |
 | Fernbus Simulator: Interlink HD | 311109 | [311109-fernbus-simulator-interlink-hd.json](./311109-fernbus-simulator-interlink-hd.json) |
+| Fernbus Simulator: Luxembourg | 161948 | [161948-fernbus-simulator-luxembourg.json](./161948-fernbus-simulator-luxembourg.json) |
+| Fernbus Simulator: Man Lion's Coach 3rd Gen | 161954 | [161954-fernbus-simulator-man-lions-coach-3rd-gen.json](./161954-fernbus-simulator-man-lions-coach-3rd-gen.json) |
+| Fernbus Simulator: Man Lion's Intercity | 161945 | [161945-fernbus-simulator-man-lions-intercity.json](./161945-fernbus-simulator-man-lions-intercity.json) |
+| Fernbus Simulator: Multimedia Package | 161953 | [161953-fernbus-simulator-multimedia-package.json](./161953-fernbus-simulator-multimedia-package.json) |
+| Fernbus Simulator: Neoplan Skyliner | 161959 | [161959-fernbus-simulator-neoplan-skyliner.json](./161959-fernbus-simulator-neoplan-skyliner.json) |
+| Fernbus Simulator: Netherlands | 161949 | [161949-fernbus-simulator-netherlands.json](./161949-fernbus-simulator-netherlands.json) |
 | Fernbus Simulator: Platinum Edition | 136081 | [136081-fernbus-simulator-platinum-edition.json](./136081-fernbus-simulator-platinum-edition.json) |
 | Fernbus Simulator: Poland | 290763 | [290763-fernbus-simulator-poland.json](./290763-fernbus-simulator-poland.json) |
+| Fernbus Simulator: Rennsteig | 161958 | [161958-fernbus-simulator-rennsteig.json](./161958-fernbus-simulator-rennsteig.json) |
+| Fernbus Simulator: Rhine Gorge | 161955 | [161955-fernbus-simulator-rhine-gorge.json](./161955-fernbus-simulator-rhine-gorge.json) |
+| Fernbus Simulator: Scania Touring | 161946 | [161946-fernbus-simulator-scania-touring.json](./161946-fernbus-simulator-scania-touring.json) |
 | Fernbus Simulator: Top Class DD | 197492 | [197492-fernbus-simulator-top-class-dd.json](./197492-fernbus-simulator-top-class-dd.json) |
+| Fernbus Simulator: Usedom | 161962 | [161962-fernbus-simulator-usedom.json](./161962-fernbus-simulator-usedom.json) |
+| Fernbus Simulator: VDL Futura FHD2 | 161956 | [161956-fernbus-simulator-vdl-futura-fhd2.json](./161956-fernbus-simulator-vdl-futura-fhd2.json) |
+| Fernbus Simulator: W906 | 161947 | [161947-fernbus-simulator-w906.json](./161947-fernbus-simulator-w906.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Fernwick | 426033 | [426033-fernwick.json](./426033-fernwick.json) |
