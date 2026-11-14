@@ -11950,6 +11950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
 | SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
+| SimCity Classic | 138320 | [138320-simcity-classic.json](./138320-simcity-classic.json) |
 | SimCity Creator | 1493 | [1493-simcity-creator.json](./1493-simcity-creator.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity Deluxe | 351165 | [351165-simcity-deluxe.json](./351165-simcity-deluxe.json) |
@@ -16658,6 +16659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak Cheese | 421342 | [421342-sneak-cheese.json](./421342-sneak-cheese.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
+| Sneak In: Marble Shooter Game | 138891 | [138891-sneak-in-marble-shooter-game.json](./138891-sneak-in-marble-shooter-game.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneak Out | 253350 | [253350-sneak-out.json](./253350-sneak-out.json) |
@@ -28348,6 +28350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Startup Grave | 194169 | [194169-startup-grave.json](./194169-startup-grave.json) |
+| Startup Panic | 138859 | [138859-startup-panic.json](./138859-startup-panic.json) |
 | Startup Quest Bakery | 306288 | [306288-startup-quest-bakery.json](./306288-startup-quest-bakery.json) |
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | Startup Valley Adventure - Episode 1 | 114826 | [114826-startup-valley-adventure-episode-1.json](./114826-startup-valley-adventure-episode-1.json) |
@@ -30332,6 +30335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Universe | 122915 | [122915-story-universe.json](./122915-story-universe.json) |
 | Story Walker | 211108 | [211108-story-walker.json](./211108-story-walker.json) |
 | Story Warriors: Fairy Tales | 58594 | [58594-story-warriors-fairy-tales.json](./58594-story-warriors-fairy-tales.json) |
+| StoryArcana | 138842 | [138842-storyarcana.json](./138842-storyarcana.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
@@ -39211,6 +39215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Defense | 116170 | [116170-sword-defense.json](./116170-sword-defense.json) |
 | Sword Dream | 339199 | [339199-sword-dream.json](./339199-sword-dream.json) |
 | Sword Drift | 263108 | [263108-sword-drift.json](./263108-sword-drift.json) |
+| Sword Fantasy Online | 138864 | [138864-sword-fantasy-online.json](./138864-sword-fantasy-online.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
 | Sword Flinger | 404518 | [404518-sword-flinger.json](./404518-sword-flinger.json) |
