@@ -15635,6 +15635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyukara, Kururu. | 213134 | [213134-fuyukara-kururu.json](./213134-fuyukara-kururu.json) |
 | Fuyuu | 278801 | [278801-fuyuu.json](./278801-fuyuu.json) |
 | Fuyuzono Sacrifice | 287893 | [287893-fuyuzono-sacrifice.json](./287893-fuyuzono-sacrifice.json) |
+| Fuz | 121835 | [121835-fuz.json](./121835-fuz.json) |
 | Fuze Player | 221929 | [221929-fuze-player.json](./221929-fuze-player.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
