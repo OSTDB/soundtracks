@@ -6135,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmocean: The Endless Sea | 266985 | [266985-kosmocean-the-endless-sea.json](./266985-kosmocean-the-endless-sea.json) |
 | Kosmokrats | 130222 | [130222-kosmokrats.json](./130222-kosmokrats.json) |
 | Kosmolaris | 340890 | [340890-kosmolaris.json](./340890-kosmolaris.json) |
+| Kosmonaut | 93283 | [93283-kosmonaut.json](./93283-kosmonaut.json) |
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
 | Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmopolska | 92100 | [92100-kosmopolska.json](./92100-kosmopolska.json) |
@@ -6485,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Kruger 2 | 213795 | [213795-kruger-2.json](./213795-kruger-2.json) |
 | Kruistocht in Spijkerbroek: De Game | 92782 | [92782-kruistocht-in-spijkerbroek-de-game.json](./92782-kruistocht-in-spijkerbroek-de-game.json) |
+| Kruiswoord | 93249 | [93249-kruiswoord.json](./93249-kruiswoord.json) |
 | Krull | 18692 | [18692-krull.json](./18692-krull.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
