@@ -18083,6 +18083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Nitro | 14912 | [14912-monster-trucks-nitro.json](./14912-monster-trucks-nitro.json) |
 | Monster Trucks Nitro II | 61762 | [61762-monster-trucks-nitro-ii.json](./61762-monster-trucks-nitro-ii.json) |
 | Monster Trucks Unleashed | 416867 | [416867-monster-trucks-unleashed.json](./416867-monster-trucks-unleashed.json) |
+| Monster Trucks: Urban Race | 89465 | [89465-monster-trucks-urban-race.json](./89465-monster-trucks-urban-race.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
 | Monster Trux Extreme: Arena Edition | 43369 | [43369-monster-trux-extreme-arena-edition.json](./43369-monster-trux-extreme-arena-edition.json) |
 | Monster Trux Extreme: Offroad Edition | 5020 | [5020-monster-trux-extreme-offroad-edition.json](./5020-monster-trux-extreme-offroad-edition.json) |
@@ -24799,3 +24800,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyWhoosh | 392380 | [392380-mywhoosh.json](./392380-mywhoosh.json) |
 | Myworld is Yourworld | 271802 | [271802-myworld-is-yourworld.json](./271802-myworld-is-yourworld.json) |
 | MZ Samgukji | 220289 | [220289-mz-samgukji.json](./220289-mz-samgukji.json) |
+| Mzito | 89990 | [89990-mzito.json](./89990-mzito.json) |
