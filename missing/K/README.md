@@ -4025,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Leon Revenge | 66041 | [66041-kings-of-leon-revenge.json](./66041-kings-of-leon-revenge.json) |
 | Kings of Lorn: The Fall of Ebris | 119284 | [119284-kings-of-lorn-the-fall-of-ebris.json](./119284-kings-of-lorn-the-fall-of-ebris.json) |
 | Kings of Paradise | 147307 | [147307-kings-of-paradise.json](./147307-kings-of-paradise.json) |
+| Kings of Soccer | 99265 | [99265-kings-of-soccer.json](./99265-kings-of-soccer.json) |
 | Kings of Soccer - Multiplayer Football Game | 100778 | [100778-kings-of-soccer-multiplayer-football-game.json](./100778-kings-of-soccer-multiplayer-football-game.json) |
 | Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
