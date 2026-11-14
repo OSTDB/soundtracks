@@ -2626,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | Raygun Chess | 174063 | [174063-raygun-chess.json](./174063-raygun-chess.json) |
+| Raygun Commando VR 2 | 128051 | [128051-raygun-commando-vr-2.json](./128051-raygun-commando-vr-2.json) |
 | Raygun Gadabout | 96145 | [96145-raygun-gadabout.json](./96145-raygun-gadabout.json) |
 | Rayland | 181093 | [181093-rayland.json](./181093-rayland.json) |
 | Rayland 2 | 235499 | [235499-rayland-2.json](./235499-rayland-2.json) |
@@ -7329,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival Chase | 360122 | [360122-revival-chase.json](./360122-revival-chase.json) |
+| Revival of Love | 128024 | [128024-revival-of-love.json](./128024-revival-of-love.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
 | Revival Quest | 242354 | [242354-revival-quest.json](./242354-revival-quest.json) |
 | Revival Reset | 30449 | [30449-revival-reset.json](./30449-revival-reset.json) |
@@ -10375,6 +10377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Fist | 19175 | [19175-rocket-fist.json](./19175-rocket-fist.json) |
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
+| Rocket Ghost Aidan | 128072 | [128072-rocket-ghost-aidan.json](./128072-rocket-ghost-aidan.json) |
 | Rocket Ghost Aidan 2 | 156909 | [156909-rocket-ghost-aidan-2.json](./156909-rocket-ghost-aidan-2.json) |
 | Rocket Golf | 89832 | [89832-rocket-golf.json](./89832-rocket-golf.json) |
 | Rocket Golf: Tap | 364777 | [364777-rocket-golf-tap.json](./364777-rocket-golf-tap.json) |
