@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
 | Viper | 238847 | [238847-viper.json](./238847-viper.json) |
+| Viper Attack | 121809 | [121809-viper-attack.json](./121809-viper-attack.json) |
 | Viper Patrol | 371551 | [371551-viper-patrol.json](./371551-viper-patrol.json) |
 | Viper Phase 1 | 39819 | [39819-viper-phase-1.json](./39819-viper-phase-1.json) |
 | Viper Racing | 937 | [937-viper-racing.json](./937-viper-racing.json) |
