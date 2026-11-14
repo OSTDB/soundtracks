@@ -12063,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Tutwin | 116518 | [116518-hotel-tutwin.json](./116518-hotel-tutwin.json) |
 | Hotel Tycoon | 180923 | [180923-hotel-tycoon.json](./180923-hotel-tycoon.json) |
 | Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
+| Hotel Tycoon 2 | 104296 | [104296-hotel-tycoon-2.json](./104296-hotel-tycoon-2.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
 | Hotel VIP | 384876 | [384876-hotel-vip.json](./384876-hotel-vip.json) |
 | Hotel: Collector's Edition | 36379 | [36379-hotel-collectors-edition.json](./36379-hotel-collectors-edition.json) |
