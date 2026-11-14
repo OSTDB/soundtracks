@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wand Wars: Rise | 114471 | [114471-wand-wars-rise.json](./114471-wand-wars-rise.json) |
 | Wander | 10920 | [10920-wander.json](./10920-wander.json) |
+| Wander | 80032 | [80032-wander.json](./80032-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander No More | 19259 | [19259-wander-no-more.json](./19259-wander-no-more.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WheelMates | 387496 | [387496-wheelmates.json](./387496-wheelmates.json) |
 | Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
+| Wheels II | 80018 | [80018-wheels-ii.json](./80018-wheels-ii.json) |
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
 | Wheels of Duty | 271553 | [271553-wheels-of-duty.json](./271553-wheels-of-duty.json) |
 | Wheels of Duty: Survival Modes | 271554 | [271554-wheels-of-duty-survival-modes.json](./271554-wheels-of-duty-survival-modes.json) |
@@ -5182,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Night: Deluxe Edition | 198131 | [198131-white-night-deluxe-edition.json](./198131-white-night-deluxe-edition.json) |
 | White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
 | White Noise Online | 17284 | [17284-white-noise-online.json](./17284-white-noise-online.json) |
+| White Noise: A tale of Horror | 80050 | [80050-white-noise-a-tale-of-horror.json](./80050-white-noise-a-tale-of-horror.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Noise! | 359546 | [359546-white-noise.json](./359546-white-noise.json) |
 | White Note | 97637 | [97637-white-note.json](./97637-white-note.json) |
