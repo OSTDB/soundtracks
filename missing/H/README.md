@@ -9160,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HistoriCity: Florence | 262859 | [262859-historicity-florence.json](./262859-historicity-florence.json) |
 | Historion: Babylons Fluch | 418224 | [418224-historion-babylons-fluch.json](./418224-historion-babylons-fluch.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
+| History 2048 | 115749 | [115749-history-2048.json](./115749-history-2048.json) |
 | History Civil War: Secret Missions | 7010 | [7010-history-civil-war-secret-missions.json](./7010-history-civil-war-secret-missions.json) |
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
@@ -10500,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Select | 22486 | [22486-honey-select.json](./22486-honey-select.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
+| Honey Select Party | 115739 | [115739-honey-select-party.json](./115739-honey-select-party.json) |
 | Honey Select Unlimited | 108930 | [108930-honey-select-unlimited.json](./108930-honey-select-unlimited.json) |
 | Honey Sweet Lies | 183103 | [183103-honey-sweet-lies.json](./183103-honey-sweet-lies.json) |
 | Honey Time! with Pooh! | 286613 | [286613-honey-time-with-pooh.json](./286613-honey-time-with-pooh.json) |
@@ -12943,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
+| Human Sacrifice | 115817 | [115817-human-sacrifice.json](./115817-human-sacrifice.json) |
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
 | Human Shaped | 399552 | [399552-human-shaped.json](./399552-human-shaped.json) |
 | Human Simulator | 128246 | [128246-human-simulator.json](./128246-human-simulator.json) |
