@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorian BMX: Death on Wheels | 397134 | [397134-victorian-bmx-death-on-wheels.json](./397134-victorian-bmx-death-on-wheels.json) |
 | Victorian Deathbed Simulator | 331354 | [331354-victorian-deathbed-simulator.json](./331354-victorian-deathbed-simulator.json) |
 | Victorian Mysteries: The Yellow Room | 120009 | [120009-victorian-mysteries-the-yellow-room.json](./120009-victorian-mysteries-the-yellow-room.json) |
+| Victorian Mysteries: Woman in White | 119838 | [119838-victorian-mysteries-woman-in-white.json](./119838-victorian-mysteries-woman-in-white.json) |
 | Victorian Park | 134166 | [134166-victorian-park.json](./134166-victorian-park.json) |
 | Victoriana - Steampunk Text Adventure | 123965 | [123965-victoriana-steampunk-text-adventure.json](./123965-victoriana-steampunk-text-adventure.json) |
 | Victorious | 302002 | [302002-victorious.json](./302002-victorious.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
 | Virtual Crime Scene: Apartment 213 | 363643 | [363643-virtual-crime-scene-apartment-213.json](./363643-virtual-crime-scene-apartment-213.json) |
 | Virtual Darling: VR | 289914 | [289914-virtual-darling-vr.json](./289914-virtual-darling-vr.json) |
+| Virtual Debating Chamber | 119833 | [119833-virtual-debating-chamber.json](./119833-virtual-debating-chamber.json) |
 | Virtual Deep Sea Fishing | 206060 | [206060-virtual-deep-sea-fishing.json](./206060-virtual-deep-sea-fishing.json) |
 | Virtual Dodgeball | 231517 | [231517-virtual-dodgeball.json](./231517-virtual-dodgeball.json) |
 | Virtual Double Yakuman | 355119 | [355119-virtual-double-yakuman.json](./355119-virtual-double-yakuman.json) |
