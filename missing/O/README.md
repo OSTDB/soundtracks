@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Hearts on Fire | 313724 | [313724-open-hearts-on-fire.json](./313724-open-hearts-on-fire.json) |
 | Open Hexagon | 133332 | [133332-open-hexagon.json](./133332-open-hexagon.json) |
 | Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
+| Open in the Groove | 144393 | [144393-open-in-the-groove.json](./144393-open-in-the-groove.json) |
 | Open Kart | 61979 | [61979-open-kart.json](./61979-open-kart.json) |
 | Open Me! | 64291 | [64291-open-me.json](./64291-open-me.json) |
 | Open Mod | 173929 | [173929-open-mod.json](./173929-open-mod.json) |
