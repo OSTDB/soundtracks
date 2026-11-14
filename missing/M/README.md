@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Broom eXtreme | 83616 | [83616-magical-broom-extreme.json](./83616-magical-broom-extreme.json) |
 | Magical Capture | 352232 | [352232-magical-capture.json](./352232-magical-capture.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
+| Magical Cat Cafe and Heroes | 149636 | [149636-magical-cat-cafe-and-heroes.json](./149636-magical-cat-cafe-and-heroes.json) |
 | Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
 | Magical Chase | 42126 | [42126-magical-chase.json](./42126-magical-chase.json) |
 | Magical Chase GB | 50052 | [50052-magical-chase-gb.json](./50052-magical-chase-gb.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnecube | 367757 | [367757-magnecube.json](./367757-magnecube.json) |
 | Magneko | 212980 | [212980-magneko.json](./212980-magneko.json) |
 | Magnery Reign | 156580 | [156580-magnery-reign.json](./156580-magnery-reign.json) |
+| Magnesium 173 | 149619 | [149619-magnesium-173.json](./149619-magnesium-173.json) |
 | Magnet | 185275 | [185275-magnet.json](./185275-magnet.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Block | 223224 | [223224-magnet-block.json](./223224-magnet-block.json) |
@@ -15647,6 +15649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MixMaster | 77806 | [77806-mixmaster.json](./77806-mixmaster.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixmob: Racer 1 | 250916 | [250916-mixmob-racer-1.json](./250916-mixmob-racer-1.json) |
+| Mixology | 149629 | [149629-mixology.json](./149629-mixology.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
@@ -19507,6 +19510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Ghoul: The Curse of Unborns | 249983 | [249983-mother-ghoul-the-curse-of-unborns.json](./249983-mother-ghoul-the-curse-of-unborns.json) |
 | Mother Goose no Himitsu no Yakata | 218962 | [218962-mother-goose-no-himitsu-no-yakata.json](./218962-mother-goose-no-himitsu-no-yakata.json) |
 | Mother Goose no Himitsu no Yakata: Blue Label | 218963 | [218963-mother-goose-no-himitsu-no-yakata-blue-label.json](./218963-mother-goose-no-himitsu-no-yakata-blue-label.json) |
+| Mother Hub | 149642 | [149642-mother-hub.json](./149642-mother-hub.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother Island | 176831 | [176831-mother-island.json](./176831-mother-island.json) |
 | Mother Machine | 315742 | [315742-mother-machine.json](./315742-mother-machine.json) |
