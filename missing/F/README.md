@@ -5910,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Vendetta: Super Limited Edition | 198129 | [198129-final-vendetta-super-limited-edition.json](./198129-final-vendetta-super-limited-edition.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final Warfare | 231956 | [231956-final-warfare.json](./231956-final-warfare.json) |
+| Final Warrior Quest | 99848 | [99848-final-warrior-quest.json](./99848-final-warrior-quest.json) |
 | Final Winter | 143201 | [143201-final-winter.json](./143201-final-winter.json) |
 | Final Word Royale | 384900 | [384900-final-word-royale.json](./384900-final-word-royale.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
@@ -13215,6 +13216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friction 90's Arcade Race | 223085 | [223085-friction-90s-arcade-race.json](./223085-friction-90s-arcade-race.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
 | Friday | 248026 | [248026-friday.json](./248026-friday.json) |
+| Friday | 99840 | [99840-friday.json](./99840-friday.json) |
 | Friday at Ours | 335222 | [335222-friday-at-ours.json](./335222-friday-at-ours.json) |
 | Friday Night | 347861 | [347861-friday-night.json](./347861-friday-night.json) |
 | Friday Night 3D Bowling | 209570 | [209570-friday-night-3d-bowling.json](./209570-friday-night-3d-bowling.json) |
