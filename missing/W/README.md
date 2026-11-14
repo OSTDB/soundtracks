@@ -8306,6 +8306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
 | Word Club: Word Puzzle Game | 106358 | [106358-word-club-word-puzzle-game.json](./106358-word-club-word-puzzle-game.json) |
 | Word Colors | 174468 | [174468-word-colors.json](./174468-word-colors.json) |
+| Word Commander | 93863 | [93863-word-commander.json](./93863-word-commander.json) |
 | Word Connect | 57583 | [57583-word-connect.json](./57583-word-connect.json) |
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
