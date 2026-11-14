@@ -5300,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
 | Light Tracer | 36784 | [36784-light-tracer.json](./36784-light-tracer.json) |
 | Light Tracer II: The Two Worlds | 146672 | [146672-light-tracer-ii-the-two-worlds.json](./146672-light-tracer-ii-the-two-worlds.json) |
+| Light Trail Rush | 122447 | [122447-light-trail-rush.json](./122447-light-trail-rush.json) |
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Holidays | 110953 | [110953-light-up-the-holidays.json](./110953-light-up-the-holidays.json) |
