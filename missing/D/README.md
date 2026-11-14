@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Pages: Ghost Library | 418428 | [418428-death-pages-ghost-library.json](./418428-death-pages-ghost-library.json) |
 | Death Pages: Ghost Library - Collector's Edition | 418429 | [418429-death-pages-ghost-library-collectors-edition.json](./418429-death-pages-ghost-library-collectors-edition.json) |
 | Death Palette | 171525 | [171525-death-palette.json](./171525-death-palette.json) |
+| Death Paradise | 128699 | [128699-death-paradise.json](./128699-death-paradise.json) |
 | Death Park | 126715 | [126715-death-park.json](./126715-death-park.json) |
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
@@ -6535,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degroid | 250552 | [250552-degroid.json](./250552-degroid.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | DeHexTD | 154314 | [154314-dehextd.json](./154314-dehextd.json) |
+| Dehoarder | 128687 | [128687-dehoarder.json](./128687-dehoarder.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
@@ -12541,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA: Season 2 - Episode 4 | 311104 | [311104-dna-season-2-episode-4.json](./311104-dna-season-2-episode-4.json) |
 | DNAxCat | 183158 | [183158-dnaxcat.json](./183158-dnaxcat.json) |
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
+| Dnce Prty | 128709 | [128709-dnce-prty.json](./128709-dnce-prty.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
 | DND | 381158 | [381158-dnd.json](./381158-dnd.json) |
 | DnD Adventure: Rogue's Choice | 221505 | [221505-dnd-adventure-rogues-choice.json](./221505-dnd-adventure-rogues-choice.json) |
@@ -13879,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Look! | 372019 | [372019-dont-look.json](./372019-dont-look.json) |
 | Don't Lose Face! | 407676 | [407676-dont-lose-face.json](./407676-dont-lose-face.json) |
+| Don't Lose Your Head | 128714 | [128714-dont-lose-your-head.json](./128714-dont-lose-your-head.json) |
 | Don’t Lose Your Ship | 337357 | [337357-don-t-lose-your-ship.json](./337357-don-t-lose-your-ship.json) |
 | Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
 | Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
@@ -16642,6 +16646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Putt | 101156 | [101156-dragon-putt.json](./101156-dragon-putt.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Queens | 114648 | [114648-dragon-queens.json](./114648-dragon-queens.json) |
+| Dragon Quest | 128708 | [128708-dragon-quest.json](./128708-dragon-quest.json) |
 | Dragon Quest | 1812 | [1812-dragon-quest.json](./1812-dragon-quest.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
 | Dragon Quest & Final Fantasy in Itadaki Street Portable | 69176 | [69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json](./69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json) |
