@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
+| Fat Bear Week | 135327 | [135327-fat-bear-week.json](./135327-fat-bear-week.json) |
 | Fat Birds | 266134 | [266134-fat-birds.json](./266134-fat-birds.json) |
 | Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
 | Fat Bobby | 40839 | [40839-fat-bobby.json](./40839-fat-bobby.json) |
@@ -3636,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateel | 226504 | [226504-fateel.json](./226504-fateel.json) |
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
+| Fateful Lore | 135313 | [135313-fateful-lore.json](./135313-fateful-lore.json) |
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
 | Fateholder Quest | 148625 | [148625-fateholder-quest.json](./148625-fateholder-quest.json) |
 | Fateholders of Tetsoidea | 43158 | [43158-fateholders-of-tetsoidea.json](./43158-fateholders-of-tetsoidea.json) |
