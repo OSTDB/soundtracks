@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent Tycoon | 377028 | [377028-patent-tycoon.json](./377028-patent-tycoon.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
+| Path | 128046 | [128046-path.json](./128046-path.json) |
 | Path | 227012 | [227012-path.json](./227012-path.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
 | Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
@@ -4013,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
 | Pea-Guy: Vengeance... or bust | 63081 | [63081-pea-guy-vengeance-or-bust.json](./63081-pea-guy-vengeance-or-bust.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
+| Peace Data | 128036 | [128036-peace-data.json](./128036-peace-data.json) |
 | Peace Dice | 390451 | [390451-peace-dice.json](./390451-peace-dice.json) |
 | Peace Duke | 93774 | [93774-peace-duke.json](./93774-peace-duke.json) |
 | Peace for Ukraine | 211684 | [211684-peace-for-ukraine.json](./211684-peace-for-ukraine.json) |
@@ -5565,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets Live | 340799 | [340799-pets-live.json](./340799-pets-live.json) |
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
 | Pets Resort 3D | 85340 | [85340-pets-resort-3d.json](./85340-pets-resort-3d.json) |
+| Pets Sniper Shooting | 128079 | [128079-pets-sniper-shooting.json](./128079-pets-sniper-shooting.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
 | Pets VR | 149652 | [149652-pets-vr.json](./149652-pets-vr.json) |
 | Pets Vs. Monsters | 66830 | [66830-pets-vs-monsters.json](./66830-pets-vs-monsters.json) |
@@ -7853,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Track | 277644 | [277644-pinball-track.json](./277644-pinball-track.json) |
 | Pinball Tristan | 261855 | [261855-pinball-tristan.json](./261855-pinball-tristan.json) |
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
+| Pinball Universe | 128067 | [128067-pinball-universe.json](./128067-pinball-universe.json) |
 | Pinball vs. Solitaire | 250559 | [250559-pinball-vs-solitaire.json](./250559-pinball-vs-solitaire.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball With a Gun | 391957 | [391957-pinball-with-a-gun.json](./391957-pinball-with-a-gun.json) |
