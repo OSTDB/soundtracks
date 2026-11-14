@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapeworm Disco Puzzle | 240978 | [240978-tapeworm-disco-puzzle.json](./240978-tapeworm-disco-puzzle.json) |
 | TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
+| Taphouse 2: The Taphousening | 117203 | [117203-taphouse-2-the-taphousening.json](./117203-taphouse-2-the-taphousening.json) |
 | Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
 | Tapiei Mahjongg 25,000 | 146962 | [146962-tapiei-mahjongg-25-000.json](./146962-tapiei-mahjongg-25-000.json) |
 | Tapioca Rider | 108193 | [108193-tapioca-rider.json](./108193-tapioca-rider.json) |
@@ -17893,6 +17894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
 | The Settlers III | 3696 | [3696-the-settlers-iii.json](./3696-the-settlers-iii.json) |
 | The Settlers III: Gold Edition | 50291 | [50291-the-settlers-iii-gold-edition.json](./50291-the-settlers-iii-gold-edition.json) |
+| The Settlers III: History Edition | 117188 | [117188-the-settlers-iii-history-edition.json](./117188-the-settlers-iii-history-edition.json) |
 | The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers III: Ultimate Collection | 154448 | [154448-the-settlers-iii-ultimate-collection.json](./154448-the-settlers-iii-ultimate-collection.json) |
@@ -20219,6 +20221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
 | The Underground Man | 23583 | [23583-the-underground-man.json](./23583-the-underground-man.json) |
 | The Underground Man 2 | 215732 | [215732-the-underground-man-2.json](./215732-the-underground-man-2.json) |
+| The Underground Watcher | 117205 | [117205-the-underground-watcher.json](./117205-the-underground-watcher.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Underkeep | 271351 | [271351-the-underkeep.json](./271351-the-underkeep.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
@@ -29726,6 +29729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towa and the Guardians of the Sacred Tree: Deluxe Edition | 349599 | [349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json](./349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
+| Towaga 2 | 116641 | [116641-towaga-2.json](./116641-towaga-2.json) |
 | Towaga: Among Shadows | 124407 | [124407-towaga-among-shadows.json](./124407-towaga-among-shadows.json) |
 | Toward Dawn | 331596 | [331596-toward-dawn.json](./331596-toward-dawn.json) |
 | Toward From | 377536 | [377536-toward-from.json](./377536-toward-from.json) |
@@ -30761,6 +30765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
 | Tragedy Theater | 260164 | [260164-tragedy-theater.json](./260164-tragedy-theater.json) |
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
+| Traha Global | 117195 | [117195-traha-global.json](./117195-traha-global.json) |
 | Traha Infinity | 188374 | [188374-traha-infinity.json](./188374-traha-infinity.json) |
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
 | Trail Boss BMX | 146945 | [146945-trail-boss-bmx.json](./146945-trail-boss-bmx.json) |
