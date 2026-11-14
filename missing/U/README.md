@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
 | Ultra Bravo RPG | 339858 | [339858-ultra-bravo-rpg.json](./339858-ultra-bravo-rpg.json) |
+| Ultra Break | 158256 | [158256-ultra-break.json](./158256-ultra-break.json) |
 | Ultra Business Tycoon III | 62974 | [62974-ultra-business-tycoon-iii.json](./62974-ultra-business-tycoon-iii.json) |
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
