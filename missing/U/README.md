@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
 | Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
 | Undead Development 2 | 150396 | [150396-undead-development-2.json](./150396-undead-development-2.json) |
+| Undead Eatery | 129842 | [129842-undead-eatery.json](./129842-undead-eatery.json) |
 | Undead Empire | 51637 | [51637-undead-empire.json](./51637-undead-empire.json) |
 | Undead Exile | 338590 | [338590-undead-exile.json](./338590-undead-exile.json) |
 | Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
@@ -1682,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Presidents | 348191 | [348191-undead-presidents.json](./348191-undead-presidents.json) |
 | Undead Quest | 227787 | [227787-undead-quest.json](./227787-undead-quest.json) |
 | Undead Raid | 220062 | [220062-undead-raid.json](./220062-undead-raid.json) |
+| Undead Reality | 129845 | [129845-undead-reality.json](./129845-undead-reality.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
 | Undead Rider | 387566 | [387566-undead-rider.json](./387566-undead-rider.json) |
