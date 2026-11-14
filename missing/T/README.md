@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Strike | 318676 | [318676-tactical-strike.json](./318676-tactical-strike.json) |
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Three Kingdoms: Strategy & War | 171136 | [171136-tactical-three-kingdoms-strategy-and-war.json](./171136-tactical-three-kingdoms-strategy-and-war.json) |
+| Tactical Troops: Anthracite Shift | 132329 | [132329-tactical-troops-anthracite-shift.json](./132329-tactical-troops-anthracite-shift.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Vengeance: Play The Games | 252443 | [252443-tactical-vengeance-play-the-games.json](./252443-tactical-vengeance-play-the-games.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taimanin RPG Extasy | 274890 | [274890-taimanin-rpg-extasy.json](./274890-taimanin-rpg-extasy.json) |
 | Taimanin Squad | 382371 | [382371-taimanin-squad.json](./382371-taimanin-squad.json) |
 | Taimanin Yukikaze | 292222 | [292222-taimanin-yukikaze.json](./292222-taimanin-yukikaze.json) |
+| Taimumari 2 | 132320 | [132320-taimumari-2.json](./132320-taimumari-2.json) |
 | Taimumari: Complete Edition | 121522 | [121522-taimumari-complete-edition.json](./121522-taimumari-complete-edition.json) |
 | Taimumari: Sweet Legend | 174169 | [174169-taimumari-sweet-legend.json](./174169-taimumari-sweet-legend.json) |
 | Tainá | 283614 | [283614-taina.json](./283614-taina.json) |
@@ -7793,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catastrophe | 335210 | [335210-the-catastrophe.json](./335210-the-catastrophe.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch: Carp & Coarse - Deluxe Edition | 233014 | [233014-the-catch-carp-and-coarse-deluxe-edition.json](./233014-the-catch-carp-and-coarse-deluxe-edition.json) |
+| The Catch: Carp & Coarse Fishing | 132286 | [132286-the-catch-carp-and-coarse-fishing.json](./132286-the-catch-carp-and-coarse-fishing.json) |
 | The Catch: Carp & Coarse Fishing - Jezioro Bestii | 170326 | [170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json](./170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json) |
 | The Catch: Carp & Coarse Fishing - Lake Beasts Equipment Pack | 170325 | [170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json](./170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
@@ -12243,6 +12246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
 | The Indie Game Legend 3D | 102896 | [102896-the-indie-game-legend-3d.json](./102896-the-indie-game-legend-3d.json) |
 | The Indie Mixtape | 35685 | [35685-the-indie-mixtape.json](./35685-the-indie-mixtape.json) |
+| The Indifferent Wonder of an Edible Place | 132327 | [132327-the-indifferent-wonder-of-an-edible-place.json](./132327-the-indifferent-wonder-of-an-edible-place.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
@@ -17922,6 +17926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Beneath | 347052 | [347052-the-shadow-beneath.json](./347052-the-shadow-beneath.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
+| The Shadow Government Simulator | 132306 | [132306-the-shadow-government-simulator.json](./132306-the-shadow-government-simulator.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Ayutthaya | 374649 | [374649-the-shadow-of-ayutthaya.json](./374649-the-shadow-of-ayutthaya.json) |
 | The Shadow of Hell | 103793 | [103793-the-shadow-of-hell.json](./103793-the-shadow-of-hell.json) |
@@ -20366,6 +20371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vig | 390351 | [390351-the-vig.json](./390351-the-vig.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vigil Files: Case 1 | 102258 | [102258-the-vigil-files-case-1.json](./102258-the-vigil-files-case-1.json) |
+| The Vigilant Villa | 132330 | [132330-the-vigilant-villa.json](./132330-the-vigilant-villa.json) |
 | The Vigilant Villa: Non-existent Mirror | 164332 | [164332-the-vigilant-villa-non-existent-mirror.json](./164332-the-vigilant-villa-non-existent-mirror.json) |
 | The Vigilante Diaries | 297838 | [297838-the-vigilante-diaries.json](./297838-the-vigilante-diaries.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
@@ -29285,6 +29291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kenbun Roku | 48878 | [48878-touhou-kenbun-roku.json](./48878-touhou-kenbun-roku.json) |
 | Touhou Ki Kai Record | 244983 | [244983-touhou-ki-kai-record.json](./244983-touhou-ki-kai-record.json) |
 | Touhou Kichouden: Mythos of Phantasmagoria 2 | 356558 | [356558-touhou-kichouden-mythos-of-phantasmagoria-2.json](./356558-touhou-kichouden-mythos-of-phantasmagoria-2.json) |
+| Touhou Kikamu: Elegant Impermanence of Sakura | 132287 | [132287-touhou-kikamu-elegant-impermanence-of-sakura.json](./132287-touhou-kikamu-elegant-impermanence-of-sakura.json) |
 | Touhou Kikeijuu: Wily Beast and Weakest Creature | 118815 | [118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json](./118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json) |
 | Touhou Kimono Blast | 219543 | [219543-touhou-kimono-blast.json](./219543-touhou-kimono-blast.json) |
 | Touhou Kinjoukyou: Fossilized Wonders | 339856 | [339856-touhou-kinjoukyou-fossilized-wonders.json](./339856-touhou-kinjoukyou-fossilized-wonders.json) |
