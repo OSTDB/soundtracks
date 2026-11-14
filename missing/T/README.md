@@ -7153,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 1 | 147181 | [147181-the-bitmap-brothers-collection-1.json](./147181-the-bitmap-brothers-collection-1.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
+| The Bits That Saved the Galaxy | 150710 | [150710-the-bits-that-saved-the-galaxy.json](./150710-the-bits-that-saved-the-galaxy.json) |
 | The Bits That Saved the Universe | 29979 | [29979-the-bits-that-saved-the-universe.json](./29979-the-bits-that-saved-the-universe.json) |
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Biz | 62023 | [62023-the-biz.json](./62023-the-biz.json) |
@@ -7167,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Glove | 61530 | [61530-the-black-glove.json](./61530-the-black-glove.json) |
+| The Black Grimoire: Cursebreaker | 150723 | [150723-the-black-grimoire-cursebreaker.json](./150723-the-black-grimoire-cursebreaker.json) |
 | The Black Guards of Odom: Desert Town Prison | 278941 | [278941-the-black-guards-of-odom-desert-town-prison.json](./278941-the-black-guards-of-odom-desert-town-prison.json) |
 | The Black Heart | 50364 | [50364-the-black-heart.json](./50364-the-black-heart.json) |
 | The Black Hole | 93483 | [93483-the-black-hole.json](./93483-the-black-hole.json) |
@@ -15745,6 +15747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Noog Network | 345430 | [345430-the-noog-network.json](./345430-the-noog-network.json) |
 | The Noose | 264478 | [264478-the-noose.json](./264478-the-noose.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
+| The Normal Thing | 150713 | [150713-the-normal-thing.json](./150713-the-normal-thing.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
 | The Noroi no Haibyouin: Tojikomerareta Kao no Nai Shoujo | 222047 | [222047-the-noroi-no-haibyouin-tojikomerareta-kao-no-nai-shoujo.json](./222047-the-noroi-no-haibyouin-tojikomerareta-kao-no-nai-shoujo.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
@@ -34223,6 +34226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
+| Tripill | 150709 | [150709-tripill.json](./150709-tripill.json) |
 | Tripitaka: The Pilgrimage of Tripitaka | 254895 | [254895-tripitaka-the-pilgrimage-of-tripitaka.json](./254895-tripitaka-the-pilgrimage-of-tripitaka.json) |
 | Triplane Furball | 258288 | [258288-triplane-furball.json](./258288-triplane-furball.json) |
 | Triplane Turmoil | 70449 | [70449-triplane-turmoil.json](./70449-triplane-turmoil.json) |
