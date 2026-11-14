@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VectorMan 2 | 4391 | [4391-vectorman-2.json](./4391-vectorman-2.json) |
 | VectorMan Classic | 104547 | [104547-vectorman-classic.json](./104547-vectorman-classic.json) |
 | Vectoroids | 252611 | [252611-vectoroids.json](./252611-vectoroids.json) |
+| Vectors | 126075 | [126075-vectors.json](./126075-vectors.json) |
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
 | VectorWars | 29365 | [29365-vectorwars.json](./29365-vectorwars.json) |
 | VectorWave | 38804 | [38804-vectorwave.json](./38804-vectorwave.json) |
