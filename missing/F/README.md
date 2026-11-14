@@ -13804,6 +13804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
 | From Them | 302202 | [302202-from-them.json](./302202-from-them.json) |
 | From Two Sides | 371605 | [371605-from-two-sides.json](./371605-from-two-sides.json) |
+| From View | 159368 | [159368-from-view.json](./159368-from-view.json) |
 | From Village to Empire | 101243 | [101243-from-village-to-empire.json](./101243-from-village-to-empire.json) |
 | From Warrior to Hero | 367751 | [367751-from-warrior-to-hero.json](./367751-from-warrior-to-hero.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
