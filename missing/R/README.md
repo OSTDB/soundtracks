@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
 | Ragtag | 114969 | [114969-ragtag.json](./114969-ragtag.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
+| Ragtag Racing | 165723 | [165723-ragtag-racing.json](./165723-ragtag-racing.json) |
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
 | Rahasya | 410058 | [410058-rahasya.json](./410058-rahasya.json) |
@@ -7216,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
 | Reverse Me! Rez/Ru | 120058 | [120058-reverse-me-rez-ru.json](./120058-reverse-me-rez-ru.json) |
 | Reverse Memories | 143594 | [143594-reverse-memories.json](./143594-reverse-memories.json) |
+| Reverse Module | 165198 | [165198-reverse-module.json](./165198-reverse-module.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
