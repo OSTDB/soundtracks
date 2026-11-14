@@ -6845,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohige no Golf Shiyouyo | 49671 | [49671-kurohige-no-golf-shiyouyo.json](./49671-kurohige-no-golf-shiyouyo.json) |
 | Kurohige no Kurutto Jintori | 49670 | [49670-kurohige-no-kurutto-jintori.json](./49670-kurohige-no-kurutto-jintori.json) |
+| Kurohyou 2: Ryuu ga Gotoku Ashura-hen | 121831 | [121831-kurohyou-2-ryuu-ga-gotoku-ashura-hen.json](./121831-kurohyou-2-ryuu-ga-gotoku-ashura-hen.json) |
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroi Hitomi no Noir: Cielgris Fantasm | 213910 | [213910-kuroi-hitomi-no-noir-cielgris-fantasm.json](./213910-kuroi-hitomi-no-noir-cielgris-fantasm.json) |
 | Kuroi Mishin: Sekaikei Girl | 307069 | [307069-kuroi-mishin-sekaikei-girl.json](./307069-kuroi-mishin-sekaikei-girl.json) |
