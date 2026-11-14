@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Story | 200830 | [200830-knight-story.json](./200830-knight-story.json) |
 | Knight Swap | 123717 | [123717-knight-swap.json](./123717-knight-swap.json) |
+| Knight Swap 2 | 127417 | [127417-knight-swap-2.json](./127417-knight-swap-2.json) |
 | Knight Terrors | 74546 | [74546-knight-terrors.json](./74546-knight-terrors.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
 | Knight Trail | 248955 | [248955-knight-trail.json](./248955-knight-trail.json) |
