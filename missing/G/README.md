@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Dragonfire | 418431 | [418431-game-of-thrones-dragonfire.json](./418431-game-of-thrones-dragonfire.json) |
 | Game of Thrones: Legends | 330384 | [330384-game-of-thrones-legends.json](./330384-game-of-thrones-legends.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
+| Game of Thrones: Tale of Crows | 136535 | [136535-game-of-thrones-tale-of-crows.json](./136535-game-of-thrones-tale-of-crows.json) |
 | Game of Thrones: War for Westeros | 347638 | [347638-game-of-thrones-war-for-westeros.json](./347638-game-of-thrones-war-for-westeros.json) |
 | Game of Thrones: Winter is Coming | 114007 | [114007-game-of-thrones-winter-is-coming.json](./114007-game-of-thrones-winter-is-coming.json) |
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
@@ -8193,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic II: Odyssey | 272459 | [272459-gothic-ii-odyssey.json](./272459-gothic-ii-odyssey.json) |
 | Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
 | Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
+| Gothic Murder: Adventure That Changes Destiny | 136503 | [136503-gothic-murder-adventure-that-changes-destiny.json](./136503-gothic-murder-adventure-that-changes-destiny.json) |
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
 | Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
 | Gothic Scythe | 377924 | [377924-gothic-scythe.json](./377924-gothic-scythe.json) |
