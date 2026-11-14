@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
 | Viking Escape | 30559 | [30559-viking-escape.json](./30559-viking-escape.json) |
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
+| Viking Fight | 148598 | [148598-viking-fight.json](./148598-viking-fight.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
 | Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
@@ -4141,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoxelMancy | 194942 | [194942-voxelmancy.json](./194942-voxelmancy.json) |
 | VoxelMaze | 58923 | [58923-voxelmaze.json](./58923-voxelmaze.json) |
 | Voxelony | 385358 | [385358-voxelony.json](./385358-voxelony.json) |
+| Voxelotl Garden | 149101 | [149101-voxelotl-garden.json](./149101-voxelotl-garden.json) |
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
 | Voxelstein 3D | 64768 | [64768-voxelstein-3d.json](./64768-voxelstein-3d.json) |
@@ -4354,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Long March | 159512 | [159512-vr-long-march.json](./159512-vr-long-march.json) |
 | VR Lunar Base Skirmish: Control the Moon | 165749 | [165749-vr-lunar-base-skirmish-control-the-moon.json](./165749-vr-lunar-base-skirmish-control-the-moon.json) |
 | VR Luxury Life (Be a Billionaire) | 163037 | [163037-vr-luxury-life-be-a-billionaire.json](./163037-vr-luxury-life-be-a-billionaire.json) |
+| VR Mad Asylum | 148611 | [148611-vr-mad-asylum.json](./148611-vr-mad-asylum.json) |
 | VR Mahjong worlds | 75360 | [75360-vr-mahjong-worlds.json](./75360-vr-mahjong-worlds.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
 | VR Maze | 164056 | [164056-vr-maze.json](./164056-vr-maze.json) |
