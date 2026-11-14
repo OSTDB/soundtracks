@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Dog and Even Cat | 222057 | [222057-odd-dog-and-even-cat.json](./222057-odd-dog-and-even-cat.json) |
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Eye | 297864 | [297864-odd-eye.json](./297864-odd-eye.json) |
+| Odd Gods | 97569 | [97569-odd-gods.json](./97569-odd-gods.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd Hue Out! | 297310 | [297310-odd-hue-out.json](./297310-odd-hue-out.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onnanoko Keeper | 171434 | [171434-onnanoko-keeper.json](./171434-onnanoko-keeper.json) |
 | Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
 | Onnanoko no Himitsu | 78420 | [78420-onnanoko-no-himitsu.json](./78420-onnanoko-no-himitsu.json) |
+| Onnna Yusha no Yado | 97581 | [97581-onnna-yusha-no-yado.json](./97581-onnna-yusha-no-yado.json) |
 | ONO: Brain Fog | 186397 | [186397-ono-brain-fog.json](./186397-ono-brain-fog.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
@@ -5975,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outtrigger | 39605 | [39605-outtrigger.json](./39605-outtrigger.json) |
 | Outvote | 421430 | [421430-outvote.json](./421430-outvote.json) |
 | Outwall | 364965 | [364965-outwall.json](./364965-outwall.json) |
+| Outwar | 97537 | [97537-outwar.json](./97537-outwar.json) |
 | Outward | 22778 | [22778-outward.json](./22778-outward.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outward Adventurer Bundle | 169212 | [169212-outward-adventurer-bundle.json](./169212-outward-adventurer-bundle.json) |
