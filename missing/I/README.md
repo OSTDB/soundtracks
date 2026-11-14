@@ -4717,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Studio: Tattoo Artist Simulator | 155769 | [155769-ink-studio-tattoo-artist-simulator.json](./155769-ink-studio-tattoo-artist-simulator.json) |
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
 | Ink World | 202758 | [202758-ink-world.json](./202758-ink-world.json) |
+| Ink, Mountains and Mystery | 134145 | [134145-ink-mountains-and-mystery.json](./134145-ink-mountains-and-mystery.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
 | Ink'n'Think | 193395 | [193395-inknthink.json](./193395-inknthink.json) |
 | Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
