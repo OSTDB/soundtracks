@@ -17181,6 +17181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeyslide | 397843 | [397843-monkeyslide.json](./397843-monkeyslide.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | Monko Climbo | 239228 | [239228-monko-climbo.json](./239228-monko-climbo.json) |
+| Monktastic | 86294 | [86294-monktastic.json](./86294-monktastic.json) |
 | Monmon and the Legendary Banana | 400100 | [400100-monmon-and-the-legendary-banana.json](./400100-monmon-and-the-legendary-banana.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
 | Monmusu Fight! | 99601 | [99601-monmusu-fight.json](./99601-monmusu-fight.json) |
@@ -23132,6 +23133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
 | My Little Coffee Shop | 371548 | [371548-my-little-coffee-shop.json](./371548-my-little-coffee-shop.json) |
 | My Little Colony | 193393 | [193393-my-little-colony.json](./193393-my-little-colony.json) |
+| My Little Dictator | 86274 | [86274-my-little-dictator.json](./86274-my-little-dictator.json) |
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Farmies | 86641 | [86641-my-little-farmies.json](./86641-my-little-farmies.json) |
