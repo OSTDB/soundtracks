@@ -13916,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Giant Edition | 21662 | [21662-dont-starve-giant-edition.json](./21662-dont-starve-giant-edition.json) |
 | Don't Starve: Giant Edition + Shipwrecked Expansion | 164840 | [164840-dont-starve-giant-edition-shipwrecked-expansion.json](./164840-dont-starve-giant-edition-shipwrecked-expansion.json) |
 | Don't Starve: Hamlet | 103326 | [103326-dont-starve-hamlet.json](./103326-dont-starve-hamlet.json) |
+| Don't Starve: Hamlet - Console Edition | 154629 | [154629-dont-starve-hamlet-console-edition.json](./154629-dont-starve-hamlet-console-edition.json) |
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
 | Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
 | Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
@@ -13923,6 +13924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
 | Don't Starve: Reign of Giants Console Edition | 154749 | [154749-dont-starve-reign-of-giants-console-edition.json](./154749-dont-starve-reign-of-giants-console-edition.json) |
 | Don't Starve: Shipwrecked | 88917 | [88917-dont-starve-shipwrecked.json](./88917-dont-starve-shipwrecked.json) |
+| Don't Starve: Shipwrecked - Console Edition | 154628 | [154628-dont-starve-shipwrecked-console-edition.json](./154628-dont-starve-shipwrecked-console-edition.json) |
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Step White Tile: It's Me! | 232113 | [232113-dont-step-white-tile-its-me.json](./232113-dont-step-white-tile-its-me.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
