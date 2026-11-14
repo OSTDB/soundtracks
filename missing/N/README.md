@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nana-chan to Issho | 108145 | [108145-nana-chan-to-issho.json](./108145-nana-chan-to-issho.json) |
+| Nana-iro Irony | 151796 | [151796-nana-iro-irony.json](./151796-nana-iro-irony.json) |
 | Nana: Live Staff Daiboshuu! Shoshinsha Kangei | 65421 | [65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json](./65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json) |
 | Nana: Subete ha Daimaou no Omichibiki!? | 67430 | [67430-nana-subete-ha-daimaou-no-omichibiki.json](./67430-nana-subete-ha-daimaou-no-omichibiki.json) |
 | Nanaca Crash!!! | 139012 | [139012-nanaca-crash.json](./139012-nanaca-crash.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromage | 305706 | [305706-necromage.json](./305706-necromage.json) |
+| Necromance-chan | 151791 | [151791-necromance-chan.json](./151791-necromance-chan.json) |
 | Necromancer | 145147 | [145147-necromancer.json](./145147-necromancer.json) |
 | Necromancer | 313953 | [313953-necromancer.json](./313953-necromancer.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
@@ -2421,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nend.io | 183231 | [183231-nend-io.json](./183231-nend-io.json) |
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
 | Nene Interactive Suicide | 393304 | [393304-nene-interactive-suicide.json](./393304-nene-interactive-suicide.json) |
+| Neneko Neko Hako Neko Puzzle Game | 151776 | [151776-neneko-neko-hako-neko-puzzle-game.json](./151776-neneko-neko-hako-neko-puzzle-game.json) |
 | NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
 | Nenene Noble | 314800 | [314800-nenene-noble.json](./314800-nenene-noble.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
