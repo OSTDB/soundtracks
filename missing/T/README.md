@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
 | The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
 | The Adventures of Dash | 63710 | [63710-the-adventures-of-dash.json](./63710-the-adventures-of-dash.json) |
+| The Adventures of Death: Episode One - Emo Harvest on the Oregon Trail | 131007 | [131007-the-adventures-of-death-episode-one-emo-harvest-on-the-oregon-trail.json](./131007-the-adventures-of-death-episode-one-emo-harvest-on-the-oregon-trail.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of Detective Donut at Shao-Lu Temple | 340571 | [340571-the-adventures-of-detective-donut-at-shao-lu-temple.json](./340571-the-adventures-of-detective-donut-at-shao-lu-temple.json) |
 | The Adventures of Dinobot and Tiara! | 163016 | [163016-the-adventures-of-dinobot-and-tiara.json](./163016-the-adventures-of-dinobot-and-tiara.json) |
@@ -15764,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Nine Tailed Celestial Fox | 304548 | [304548-the-nine-tailed-celestial-fox.json](./304548-the-nine-tailed-celestial-fox.json) |
 | The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
+| The Ninja | 131008 | [131008-the-ninja.json](./131008-the-ninja.json) |
 | The Ninja | 224886 | [224886-the-ninja.json](./224886-the-ninja.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
@@ -17801,6 +17803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sensifier | 410722 | [410722-the-sensifier.json](./410722-the-sensifier.json) |
 | The Sentient | 34184 | [34184-the-sentient.json](./34184-the-sentient.json) |
 | The Sentient Box | 226594 | [226594-the-sentient-box.json](./226594-the-sentient-box.json) |
+| The Sentinel | 130975 | [130975-the-sentinel.json](./130975-the-sentinel.json) |
 | The Sentinel | 15363 | [15363-the-sentinel.json](./15363-the-sentinel.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
@@ -34377,6 +34380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Score: 3 Games in 1 | 10193 | [10193-triple-score-3-games-in-1.json](./10193-triple-score-3-games-in-1.json) |
 | Triple Score: 3 Games In One | 45647 | [45647-triple-score-3-games-in-one.json](./45647-triple-score-3-games-in-one.json) |
 | Triple Shot Sports | 66889 | [66889-triple-shot-sports.json](./66889-triple-shot-sports.json) |
+| Triple Strike | 131018 | [131018-triple-strike.json](./131018-triple-strike.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Threat Pinball | 125861 | [125861-triple-threat-pinball.json](./125861-triple-threat-pinball.json) |
 | Triple Threat: An Arcade Adventure | 206071 | [206071-triple-threat-an-arcade-adventure.json](./206071-triple-threat-an-arcade-adventure.json) |
