@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Mundi | 65047 | [65047-magna-mundi.json](./65047-magna-mundi.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | MagnaCarta 2 | 7061 | [7061-magnacarta-2.json](./7061-magnacarta-2.json) |
+| Magnace: Arena | 150728 | [150728-magnace-arena.json](./150728-magnace-arena.json) |
 | Magnaflux Runner | 210196 | [210196-magnaflux-runner.json](./210196-magnaflux-runner.json) |
 | Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
 | Magnate: Robot Idle Tycoon | 268449 | [268449-magnate-robot-idle-tycoon.json](./268449-magnate-robot-idle-tycoon.json) |
@@ -10407,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Monastery | 389110 | [389110-merge-monastery.json](./389110-merge-monastery.json) |
 | Merge Monsters | 233428 | [233428-merge-monsters.json](./233428-merge-monsters.json) |
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
+| Merge Nymphs | 150729 | [150729-merge-nymphs.json](./150729-merge-nymphs.json) |
 | Merge Orbz | 401855 | [401855-merge-orbz.json](./401855-merge-orbz.json) |
 | Merge Pet: Magic Synthesis Game | 213076 | [213076-merge-pet-magic-synthesis-game.json](./213076-merge-pet-magic-synthesis-game.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
@@ -14352,6 +14354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Words: Collection | 194748 | [194748-mini-words-collection.json](./194748-mini-words-collection.json) |
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
+| Mini Words: Top Games | 150724 | [150724-mini-words-top-games.json](./150724-mini-words-top-games.json) |
 | Mini Words: Top Movies | 234968 | [234968-mini-words-top-movies.json](./234968-mini-words-top-movies.json) |
 | Mini World | 71030 | [71030-mini-world.json](./71030-mini-world.json) |
 | Mini Worlds | 311893 | [311893-mini-worlds.json](./311893-mini-worlds.json) |
@@ -17109,6 +17112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonoGolf | 251385 | [251385-monogolf.json](./251385-monogolf.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
+| Monolight | 150715 | [150715-monolight.json](./150715-monolight.json) |
 | Monolilith | 411921 | [411921-monolilith.json](./411921-monolilith.json) |
 | Monolisk | 119175 | [119175-monolisk.json](./119175-monolisk.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
@@ -18002,6 +18006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterLife | 310132 | [310132-monsterlife.json](./310132-monsterlife.json) |
 | MonsterMatch! | 185179 | [185179-monstermatch.json](./185179-monstermatch.json) |
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
+| Monstermoerder | 150716 | [150716-monstermoerder.json](./150716-monstermoerder.json) |
 | Monsterpatch | 334706 | [334706-monsterpatch.json](./334706-monsterpatch.json) |
 | Monsterpocalypse | 58108 | [58108-monsterpocalypse.json](./58108-monsterpocalypse.json) |
 | Monsterra | 235266 | [235266-monsterra.json](./235266-monsterra.json) |
@@ -18468,6 +18473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moonlight Basket | 133629 | [133629-moonlight-basket.json](./133629-moonlight-basket.json) |
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
+| Moonlight Blade Mobile | 150706 | [150706-moonlight-blade-mobile.json](./150706-moonlight-blade-mobile.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
 | Moonlight Crush | 322327 | [322327-moonlight-crush.json](./322327-moonlight-crush.json) |
@@ -18846,6 +18852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori no Naka de Mayoi Ie kara no Dasshutsu | 358494 | [358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json](./358494-mori-no-naka-de-mayoi-ie-kara-no-dasshutsu.json) |
 | Mori no Naku Shunkan he: The End of a Saga | 299185 | [299185-mori-no-naku-shunkan-he-the-end-of-a-saga.json](./299185-mori-no-naku-shunkan-he-the-end-of-a-saga.json) |
 | Mori no Oukoku | 186439 | [186439-mori-no-oukoku.json](./186439-mori-no-oukoku.json) |
+| Mòrì Xuèzhàn | 150726 | [150726-mori-xuezhan.json](./150726-mori-xuezhan.json) |
 | Mòrì Zhàn Jī | 367585 | [367585-mori-zhan-ji.json](./367585-mori-zhan-ji.json) |
 | Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | Moria | 77304 | [77304-moria.json](./77304-moria.json) |
@@ -21072,6 +21079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Mulletman and the Molemen | 74609 | [74609-mulletman-and-the-molemen.json](./74609-mulletman-and-the-molemen.json) |
+| Mulligans Golf Game | 150793 | [150793-mulligans-golf-game.json](./150793-mulligans-golf-game.json) |
 | Mülltrennungssimulator 2021 | 167992 | [167992-mulltrennungssimulator-2021.json](./167992-mulltrennungssimulator-2021.json) |
 | Multi Champ | 39718 | [39718-multi-champ.json](./39718-multi-champ.json) |
 | Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
