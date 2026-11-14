@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Seoul: Outrun | 76933 | [76933-neon-seoul-outrun.json](./76933-neon-seoul-outrun.json) |
 | Neon Sex Dream | 231352 | [231352-neon-sex-dream.json](./231352-neon-sex-dream.json) |
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
+| Neon Shadow Mobile | 85679 | [85679-neon-shadow-mobile.json](./85679-neon-shadow-mobile.json) |
 | Neon Shift | 284132 | [284132-neon-shift.json](./284132-neon-shift.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
 | Neon Shooter | 158651 | [158651-neon-shooter.json](./158651-neon-shooter.json) |
