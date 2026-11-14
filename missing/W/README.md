@@ -8854,6 +8854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Eternal: Battlegrounds | 312537 | [312537-world-eternal-battlegrounds.json](./312537-world-eternal-battlegrounds.json) |
 | World Evolution Soccer | 263907 | [263907-world-evolution-soccer.json](./263907-world-evolution-soccer.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
+| World Fair | 131027 | [131027-world-fair.json](./131027-world-fair.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Fantasy 2 | 302416 | [302416-world-fantasy-2.json](./302416-world-fantasy-2.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
@@ -9019,6 +9020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mana | 239710 | [239710-world-of-mana.json](./239710-world-of-mana.json) |
 | World of Mechs | 200940 | [200940-world-of-mechs.json](./200940-world-of-mechs.json) |
 | World of Mercenaries | 65173 | [65173-world-of-mercenaries.json](./65173-world-of-mercenaries.json) |
+| World of Metin2 | 131000 | [131000-world-of-metin2.json](./131000-world-of-metin2.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mines! | 175146 | [175146-world-of-mines.json](./175146-world-of-mines.json) |
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
