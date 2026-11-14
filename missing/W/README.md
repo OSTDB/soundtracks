@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardroid | 150863 | [150863-wardroid.json](./150863-wardroid.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardudes | 190754 | [190754-wardudes.json](./190754-wardudes.json) |
+| Wardwell House | 128077 | [128077-wardwell-house.json](./128077-wardwell-house.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Ware's Laboratory | 373111 | [373111-wares-laboratory.json](./373111-wares-laboratory.json) |
 | WarEcon: Build & Conquer | 293659 | [293659-warecon-build-and-conquer.json](./293659-warecon-build-and-conquer.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Kidnapped | 202511 | [202511-we-were-kidnapped.json](./202511-we-were-kidnapped.json) |
 | We Were Monkeys | 292437 | [292437-we-were-monkeys.json](./292437-we-were-monkeys.json) |
+| We Who Are About to Die | 128045 | [128045-we-who-are-about-to-die.json](./128045-we-who-are-about-to-die.json) |
 | We Who Rise | 358814 | [358814-we-who-rise.json](./358814-we-who-rise.json) |
 | We Will Be Gods | 342716 | [342716-we-will-be-gods.json](./342716-we-will-be-gods.json) |
 | We Will Get revenge | 241682 | [241682-we-will-get-revenge.json](./241682-we-will-get-revenge.json) |
@@ -6620,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter and People | 191980 | [191980-winter-and-people.json](./191980-winter-and-people.json) |
 | Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
 | Winter Blast: 9 Snow & Ice Games | 51027 | [51027-winter-blast-9-snow-and-ice-games.json](./51027-winter-blast-9-snow-and-ice-games.json) |
+| Winter Break | 128085 | [128085-winter-break.json](./128085-winter-break.json) |
 | Winter Bundle (ENG) | 135369 | [135369-winter-bundle-eng.json](./135369-winter-bundle-eng.json) |
 | Winter Bundle: 20 games | 332364 | [332364-winter-bundle-20-games.json](./332364-winter-bundle-20-games.json) |
 | Winter Campus | 58350 | [58350-winter-campus.json](./58350-winter-campus.json) |
