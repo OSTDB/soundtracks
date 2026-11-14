@@ -6539,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubrain | 200021 | [200021-kubrain.json](./200021-kubrain.json) |
 | Kubrix | 134249 | [134249-kubrix.json](./134249-kubrix.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
+| Kubyx | 134717 | [134717-kubyx.json](./134717-kubyx.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
 | Kuchitsu | 143987 | [143987-kuchitsu.json](./143987-kuchitsu.json) |
 | Kud Wafter | 9659 | [9659-kud-wafter.json](./9659-kud-wafter.json) |
