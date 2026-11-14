@@ -7812,6 +7812,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Conquest | 65731 | [65731-medieval-conquest.json](./65731-medieval-conquest.json) |
 | Medieval Cop | 141592 | [141592-medieval-cop.json](./141592-medieval-cop.json) |
 | Medieval Cop - Adam and Eva | 101751 | [101751-medieval-cop-adam-and-eva.json](./101751-medieval-cop-adam-and-eva.json) |
+| Medieval Cop -The Invidia Game - Part 1 | 101800 | [101800-medieval-cop-the-invidia-game-part-1.json](./101800-medieval-cop-the-invidia-game-part-1.json) |
+| Medieval Cop -The Invidia Game - Part 2 | 101799 | [101799-medieval-cop-the-invidia-game-part-2.json](./101799-medieval-cop-the-invidia-game-part-2.json) |
+| Medieval Cop -The Invidia Games - Part 3 | 101798 | [101798-medieval-cop-the-invidia-games-part-3.json](./101798-medieval-cop-the-invidia-games-part-3.json) |
 | Medieval Cop: Medieval Angel | 141597 | [141597-medieval-cop-medieval-angel.json](./141597-medieval-cop-medieval-angel.json) |
 | Medieval Cop: Medieval Chronicle | 141596 | [141596-medieval-cop-medieval-chronicle.json](./141596-medieval-cop-medieval-chronicle.json) |
 | Medieval Cop: Wolf's Bane | 101693 | [101693-medieval-cop-wolfs-bane.json](./101693-medieval-cop-wolfs-bane.json) |
@@ -20898,6 +20901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Slime in Dungeon | 327974 | [327974-mr-slime-in-dungeon.json](./327974-mr-slime-in-dungeon.json) |
 | Mr.Space!! | 66493 | [66493-mr-space.json](./66493-mr-space.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
+| Mr.Timan | 101803 | [101803-mr-timan.json](./101803-mr-timan.json) |
 | Mr.Tomatos | 176631 | [176631-mr-tomatos.json](./176631-mr-tomatos.json) |
 | Mr.Treemp | 190040 | [190040-mr-treemp.json](./190040-mr-treemp.json) |
 | mr.Vegan | 103639 | [103639-mr-vegan.json](./103639-mr-vegan.json) |
