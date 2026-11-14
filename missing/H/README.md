@@ -8128,6 +8128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Photo | 84520 | [84520-hidden-photo.json](./84520-hidden-photo.json) |
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pictures Puzzle Play | 106751 | [106751-hidden-pictures-puzzle-play.json](./106751-hidden-pictures-puzzle-play.json) |
+| Hidden Pictures Puzzles | 88544 | [88544-hidden-pictures-puzzles.json](./88544-hidden-pictures-puzzles.json) |
 | Hidden Pictures: Agent Q | 333834 | [333834-hidden-pictures-agent-q.json](./333834-hidden-pictures-agent-q.json) |
 | Hidden Pirates Top-Down 3D | 291415 | [291415-hidden-pirates-top-down-3d.json](./291415-hidden-pirates-top-down-3d.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
@@ -11463,6 +11464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing 2016 | 38770 | [38770-horse-racing-2016.json](./38770-horse-racing-2016.json) |
 | Horse Racing 3D 2015 | 88452 | [88452-horse-racing-3d-2015.json](./88452-horse-racing-3d-2015.json) |
+| Horse Racing 3D: Kids Edition | 88551 | [88551-horse-racing-3d-kids-edition.json](./88551-horse-racing-3d-kids-edition.json) |
 | Horse Racing Creating Derby | 341837 | [341837-horse-racing-creating-derby.json](./341837-horse-racing-creating-derby.json) |
 | Horse Racing Derby | 100506 | [100506-horse-racing-derby.json](./100506-horse-racing-derby.json) |
 | Horse Racing Manager | 27539 | [27539-horse-racing-manager.json](./27539-horse-racing-manager.json) |
@@ -13776,6 +13778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
 | Hydrostation | 273173 | [273173-hydrostation.json](./273173-hydrostation.json) |
 | Hydrosub: 2021 | 64037 | [64037-hydrosub-2021.json](./64037-hydrosub-2021.json) |
+| Hydrothermal | 88570 | [88570-hydrothermal.json](./88570-hydrothermal.json) |
 | Hydrotopia | 176585 | [176585-hydrotopia.json](./176585-hydrotopia.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
