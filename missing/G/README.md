@@ -7821,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goof Troop | 325563 | [325563-goof-troop.json](./325563-goof-troop.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofball Goals | 60895 | [60895-goofball-goals.json](./60895-goofball-goals.json) |
+| Goofballs | 129850 | [129850-goofballs.json](./129850-goofballs.json) |
 | Goofy | 198750 | [198750-goofy.json](./198750-goofy.json) |
 | Goofy Ahh Game | 396724 | [396724-goofy-ahh-game.json](./396724-goofy-ahh-game.json) |
 | Goofy Dungeon | 216650 | [216650-goofy-dungeon.json](./216650-goofy-dungeon.json) |
@@ -12159,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman | 172650 | [172650-gunman.json](./172650-gunman.json) |
+| Gunman and the Witch | 129295 | [129295-gunman-and-the-witch.json](./129295-gunman-and-the-witch.json) |
 | Gunman Chronicles | 8319 | [8319-gunman-chronicles.json](./8319-gunman-chronicles.json) |
 | Gunman Clive | 8599 | [8599-gunman-clive.json](./8599-gunman-clive.json) |
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
