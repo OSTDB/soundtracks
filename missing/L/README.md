@@ -4912,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life in Adventure | 208079 | [208079-life-in-adventure.json](./208079-life-in-adventure.json) |
 | Life in Bunker | 34451 | [34451-life-in-bunker.json](./34451-life-in-bunker.json) |
+| Life In Captivity | 135321 | [135321-life-in-captivity.json](./135321-life-in-captivity.json) |
 | Life In Helsinki | 113455 | [113455-life-in-helsinki.json](./113455-life-in-helsinki.json) |
 | Life in Jasskia: a Coffee Shop | 355891 | [355891-life-in-jasskia-a-coffee-shop.json](./355891-life-in-jasskia-a-coffee-shop.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
