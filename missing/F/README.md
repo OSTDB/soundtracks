@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | Faceoff Hockey 2016 | 58890 | [58890-faceoff-hockey-2016.json](./58890-faceoff-hockey-2016.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
+| Faces and Places | 133494 | [133494-faces-and-places.json](./133494-faces-and-places.json) |
 | Faces of Illusion: The Twin Phantoms | 30440 | [30440-faces-of-illusion-the-twin-phantoms.json](./30440-faces-of-illusion-the-twin-phantoms.json) |
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces of War | 10272 | [10272-faces-of-war.json](./10272-faces-of-war.json) |
@@ -12306,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
+| Fractions with Professor Von Strudel | 133524 | [133524-fractions-with-professor-von-strudel.json](./133524-fractions-with-professor-von-strudel.json) |
 | Fractious | 329458 | [329458-fractious.json](./329458-fractious.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fracture | 273730 | [273730-fracture.json](./273730-fracture.json) |
