@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: Apocalypse Edition | 38657 | [38657-darksiders-iii-apocalypse-edition.json](./38657-darksiders-iii-apocalypse-edition.json) |
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
+| Darksiders III: Deluxe Edition | 124868 | [124868-darksiders-iii-deluxe-edition.json](./124868-darksiders-iii-deluxe-edition.json) |
 | Darksiders III: DLC Bundle | 227112 | [227112-darksiders-iii-dlc-bundle.json](./227112-darksiders-iii-dlc-bundle.json) |
 | Darksiders III: Keepers of the Void | 121155 | [121155-darksiders-iii-keepers-of-the-void.json](./121155-darksiders-iii-keepers-of-the-void.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
@@ -12320,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Dragon Commander - Imperial Edition | 51751 | [51751-divinity-dragon-commander-imperial-edition.json](./51751-divinity-dragon-commander-imperial-edition.json) |
 | Divinity: Original Sin - Collector's Edition | 52924 | [52924-divinity-original-sin-collectors-edition.json](./52924-divinity-original-sin-collectors-edition.json) |
 | Divinity: Original Sin - Enhanced Edition | 14177 | [14177-divinity-original-sin-enhanced-edition.json](./14177-divinity-original-sin-enhanced-edition.json) |
+| Divinity: Original Sin - Enhanced Edition Collector's Edition | 124869 | [124869-divinity-original-sin-enhanced-edition-collectors-edition.json](./124869-divinity-original-sin-enhanced-edition-collectors-edition.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
 | Divinity: Original Sin 2 - Eternal Edition | 124977 | [124977-divinity-original-sin-2-eternal-edition.json](./124977-divinity-original-sin-2-eternal-edition.json) |
@@ -18043,6 +18045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
 | Dreams of Desire | 140110 | [140110-dreams-of-desire.json](./140110-dreams-of-desire.json) |
+| Dreams of Fear | 124880 | [124880-dreams-of-fear.json](./124880-dreams-of-fear.json) |
 | Dreams of Greatness | 51583 | [51583-dreams-of-greatness.json](./51583-dreams-of-greatness.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
 | Dreams of Literature: Noir | 334822 | [334822-dreams-of-literature-noir.json](./334822-dreams-of-literature-noir.json) |
