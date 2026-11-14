@@ -5275,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Church and Halloween: Story Three | 147942 | [147942-our-church-and-halloween-story-three.json](./147942-our-church-and-halloween-story-three.json) |
 | Our Church and Halloween: Story Two | 146610 | [146610-our-church-and-halloween-story-two.json](./146610-our-church-and-halloween-story-two.json) |
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
+| Our Craft | 103720 | [103720-our-craft.json](./103720-our-craft.json) |
 | Our Damned Machine | 146636 | [146636-our-damned-machine.json](./146636-our-damned-machine.json) |
 | Our Dark Heart | 258376 | [258376-our-dark-heart.json](./258376-our-dark-heart.json) |
 | Our Darker Purpose | 16830 | [16830-our-darker-purpose.json](./16830-our-darker-purpose.json) |
