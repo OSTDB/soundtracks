@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tai Chi Tortoise | 41144 | [41144-tai-chi-tortoise.json](./41144-tai-chi-tortoise.json) |
 | Tai-Pan | 37297 | [37297-tai-pan.json](./37297-tai-pan.json) |
 | Taichi Panda | 69338 | [69338-taichi-panda.json](./69338-taichi-panda.json) |
+| Taichi Panda | 95039 | [95039-taichi-panda.json](./95039-taichi-panda.json) |
 | Taiga | 153347 | [153347-taiga.json](./153347-taiga.json) |
 | Taiga | 199514 | [199514-taiga.json](./199514-taiga.json) |
 | Taigenchi: The Eternal Eclipse | 177926 | [177926-taigenchi-the-eternal-eclipse.json](./177926-taigenchi-the-eternal-eclipse.json) |
@@ -22974,6 +22975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
 | Thunderdawn | 342615 | [342615-thunderdawn.json](./342615-thunderdawn.json) |
 | Thunderday | 249220 | [249220-thunderday.json](./249220-thunderday.json) |
+| ThunderDogs | 95035 | [95035-thunderdogs.json](./95035-thunderdogs.json) |
 | ThunderDome | 132170 | [132170-thunderdome.json](./132170-thunderdome.json) |
 | Thunderflash | 127230 | [127230-thunderflash.json](./127230-thunderflash.json) |
 | ThunderFox | 40884 | [40884-thunderfox.json](./40884-thunderfox.json) |
