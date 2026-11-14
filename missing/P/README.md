@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking World: Build & Manage | 265546 | [265546-parking-world-build-and-manage.json](./265546-parking-world-build-and-manage.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
 | Parkitect Dinos and Dynasties | 372662 | [372662-parkitect-dinos-and-dynasties.json](./372662-parkitect-dinos-and-dynasties.json) |
+| Parkitect: Booms & Blooms | 155227 | [155227-parkitect-booms-and-blooms.json](./155227-parkitect-booms-and-blooms.json) |
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkitect: Taste of Adventure | 154203 | [154203-parkitect-taste-of-adventure.json](./154203-parkitect-taste-of-adventure.json) |
 | Parkland | 100484 | [100484-parkland.json](./100484-parkland.json) |
@@ -11422,6 +11423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Math | 372194 | [372194-pocket-math.json](./372194-pocket-math.json) |
 | Pocket Meat | 49504 | [49504-pocket-meat.json](./49504-pocket-meat.json) |
+| Pocket Mina | 155238 | [155238-pocket-mina.json](./155238-pocket-mina.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
 | Pocket Mine 2 | 39218 | [39218-pocket-mine-2.json](./39218-pocket-mine-2.json) |
 | Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
@@ -13115,6 +13117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Quest: In Pursuit of the Death Angel | 1924 | [1924-police-quest-in-pursuit-of-the-death-angel.json](./1924-police-quest-in-pursuit-of-the-death-angel.json) |
 | Police Quest: Open Season | 1927 | [1927-police-quest-open-season.json](./1927-police-quest-open-season.json) |
 | Police Quest: SWAT | 309 | [309-police-quest-swat.json](./309-police-quest-swat.json) |
+| Police Quest: SWAT 1+2 | 155220 | [155220-police-quest-swat-1-2.json](./155220-police-quest-swat-1-2.json) |
 | Police Quest: SWAT 2 | 311 | [311-police-quest-swat-2.json](./311-police-quest-swat-2.json) |
 | Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
 | Police Radar | 213500 | [213500-police-radar.json](./213500-police-radar.json) |
