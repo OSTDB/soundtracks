@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifices Must Be Made | 182849 | [182849-sacrifices-must-be-made.json](./182849-sacrifices-must-be-made.json) |
 | Sacrifices must be made, but... | 135715 | [135715-sacrifices-must-be-made-but.json](./135715-sacrifices-must-be-made-but.json) |
 | Sacrificial God | 318915 | [318915-sacrificial-god.json](./318915-sacrificial-god.json) |
+| Sacrificial Lighthouse | 146369 | [146369-sacrificial-lighthouse.json](./146369-sacrificial-lighthouse.json) |
 | Sacrificial Run | 183294 | [183294-sacrificial-run.json](./183294-sacrificial-run.json) |
 | Sacrificio | 346311 | [346311-sacrificio.json](./346311-sacrificio.json) |
 | Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save My Wife | 400662 | [400662-save-my-wife.json](./400662-save-my-wife.json) |
+| Save Navelnii | 146408 | [146408-save-navelnii.json](./146408-save-navelnii.json) |
 | Save New York | 23209 | [23209-save-new-york.json](./23209-save-new-york.json) |
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
@@ -13375,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Individuals | 355169 | [355169-sketchy-individuals.json](./355169-sketchy-individuals.json) |
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
+| Sketchy Snowboarding | 146939 | [146939-sketchy-snowboarding.json](./146939-sketchy-snowboarding.json) |
 | Sketchy Tower Defense | 51657 | [51657-sketchy-tower-defense.json](./51657-sketchy-tower-defense.json) |
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
 | Sketchy's Contract | 288082 | [288082-sketchys-contract.json](./288082-sketchys-contract.json) |
@@ -35579,6 +35582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meme Clicker | 402666 | [402666-super-meme-clicker.json](./402666-super-meme-clicker.json) |
 | Super Memory | 69009 | [69009-super-memory.json](./69009-super-memory.json) |
 | Super Metal Crusher | 38069 | [38069-super-metal-crusher.json](./38069-super-metal-crusher.json) |
+| Super Metboy! | 146935 | [146935-super-metboy.json](./146935-super-metboy.json) |
 | Super Meteor | 203604 | [203604-super-meteor.json](./203604-super-meteor.json) |
 | Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
@@ -36584,6 +36588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Serpent: Secondary Edition | 117529 | [117529-super-space-serpent-secondary-edition.json](./117529-super-space-serpent-secondary-edition.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Space Slayer 2 | 26946 | [26946-super-space-slayer-2.json](./26946-super-space-slayer-2.json) |
+| Super Space Snake | 146938 | [146938-super-space-snake.json](./146938-super-space-snake.json) |
 | Super Space Towers | 156076 | [156076-super-space-towers.json](./156076-super-space-towers.json) |
 | Super SpaceMail | 190009 | [190009-super-spacemail.json](./190009-super-spacemail.json) |
 | Super Spamton 64 | 389025 | [389025-super-spamton-64.json](./389025-super-spamton-64.json) |
