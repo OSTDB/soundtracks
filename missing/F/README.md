@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Medieval | 220913 | [220913-fantasia-medieval.json](./220913-fantasia-medieval.json) |
 | Fantasia of the Wind | 74675 | [74675-fantasia-of-the-wind.json](./74675-fantasia-of-the-wind.json) |
 | Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
+| Fantasia Re:Build | 111282 | [111282-fantasia-re-build.json](./111282-fantasia-re-build.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 2 | 85747 | [85747-fantasia-sango-2.json](./85747-fantasia-sango-2.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
