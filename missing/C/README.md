@@ -11476,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
 | Clicker Time | 371837 | [371837-clicker-time.json](./371837-clicker-time.json) |
 | Clicker Warriors | 115921 | [115921-clicker-warriors.json](./115921-clicker-warriors.json) |
+| Clicker Warriors - Idle Rpg | 126069 | [126069-clicker-warriors-idle-rpg.json](./126069-clicker-warriors-idle-rpg.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker: Mining Simulator | 81967 | [81967-clicker-mining-simulator.json](./81967-clicker-mining-simulator.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
