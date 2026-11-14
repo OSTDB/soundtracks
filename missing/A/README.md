@@ -20157,6 +20157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Pea Collection | 138459 | [138459-awesome-pea-collection.json](./138459-awesome-pea-collection.json) |
 | Awesome Platformers Bundle | 223751 | [223751-awesome-platformers-bundle.json](./223751-awesome-platformers-bundle.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
+| Awesome Puzzle | 163509 | [163509-awesome-puzzle.json](./163509-awesome-puzzle.json) |
 | Awesome Seaquest | 101909 | [101909-awesome-seaquest.json](./101909-awesome-seaquest.json) |
 | Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
 | Awesome Space Delivery Company | 101687 | [101687-awesome-space-delivery-company.json](./101687-awesome-space-delivery-company.json) |
