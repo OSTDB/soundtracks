@@ -3689,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void Miner | 399780 | [399780-void-miner.json](./399780-void-miner.json) |
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
+| Void Monsters: Spring City Tales | 89996 | [89996-void-monsters-spring-city-tales.json](./89996-void-monsters-spring-city-tales.json) |
 | Void Mother: Survivor | 304423 | [304423-void-mother-survivor.json](./304423-void-mother-survivor.json) |
 | Void Nebula | 394648 | [394648-void-nebula.json](./394648-void-nebula.json) |
 | Void Noir | 411554 | [411554-void-noir.json](./411554-void-noir.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxabular P.I: Penny's First Case | 214263 | [214263-voxabular-p-i-pennys-first-case.json](./214263-voxabular-p-i-pennys-first-case.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
+| Voxel Baller | 90258 | [90258-voxel-baller.json](./90258-voxel-baller.json) |
 | Voxel Battle Simulator | 145843 | [145843-voxel-battle-simulator.json](./145843-voxel-battle-simulator.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
 | Voxel Bot | 119473 | [119473-voxel-bot.json](./119473-voxel-bot.json) |
@@ -4611,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRLife | 116931 | [116931-vrlife.json](./116931-vrlife.json) |
 | VRNinja | 22041 | [22041-vrninja.json](./22041-vrninja.json) |
 | VRnoid | 154165 | [154165-vrnoid.json](./154165-vrnoid.json) |
+| VRobot | 90002 | [90002-vrobot.json](./90002-vrobot.json) |
 | VRobot: VR Giant Robot Destruction Simulator | 29572 | [29572-vrobot-vr-giant-robot-destruction-simulator.json](./29572-vrobot-vr-giant-robot-destruction-simulator.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
 | VRog | 29545 | [29545-vrog.json](./29545-vrog.json) |
