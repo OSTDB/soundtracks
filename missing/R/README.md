@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiju: Lightning Arena | 380478 | [380478-raiju-lightning-arena.json](./380478-raiju-lightning-arena.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Adventures | 19063 | [19063-rail-adventures.json](./19063-rail-adventures.json) |
+| Rail Adventures - VR Tech Demo | 93872 | [93872-rail-adventures-vr-tech-demo.json](./93872-rail-adventures-vr-tech-demo.json) |
 | Rail Blazers run | 102641 | [102641-rail-blazers-run.json](./102641-rail-blazers-run.json) |
 | Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
 | Rail Chase 2 | 39469 | [39469-rail-chase-2.json](./39469-rail-chase-2.json) |
@@ -1387,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
 | Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
+| Railworks Class56 DLC | 93845 | [93845-railworks-class56-dlc.json](./93845-railworks-class56-dlc.json) |
 | Railworks Evening Star DLC | 93810 | [93810-railworks-evening-star-dlc.json](./93810-railworks-evening-star-dlc.json) |
 | Railyard: Match-3 Evolved | 50218 | [50218-railyard-match-3-evolved.json](./50218-railyard-match-3-evolved.json) |
 | Raimais | 98294 | [98294-raimais.json](./98294-raimais.json) |
@@ -4962,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections of Life: Spindle of Fate - Collector's Edition | 226541 | [226541-reflections-of-life-spindle-of-fate-collectors-edition.json](./226541-reflections-of-life-spindle-of-fate-collectors-edition.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
+| Reflections of Life: Tree of Dreams | 93876 | [93876-reflections-of-life-tree-of-dreams.json](./93876-reflections-of-life-tree-of-dreams.json) |
 | Reflections of Life: Tree of Dreams - Collector's Edition | 107703 | [107703-reflections-of-life-tree-of-dreams-collectors-edition.json](./107703-reflections-of-life-tree-of-dreams-collectors-edition.json) |
 | Reflections of Life: Utopia | 140143 | [140143-reflections-of-life-utopia.json](./140143-reflections-of-life-utopia.json) |
 | Reflections of Life: Utopia - Collector's Edition | 132632 | [132632-reflections-of-life-utopia-collectors-edition.json](./132632-reflections-of-life-utopia-collectors-edition.json) |
@@ -9838,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocracy | 190841 | [190841-robocracy.json](./190841-robocracy.json) |
 | Robocraft | 7871 | [7871-robocraft.json](./7871-robocraft.json) |
 | Robocraft 2 | 217298 | [217298-robocraft-2.json](./217298-robocraft-2.json) |
+| Robocraft Infinity | 93843 | [93843-robocraft-infinity.json](./93843-robocraft-infinity.json) |
 | Robocraft Royale | 89976 | [89976-robocraft-royale.json](./89976-robocraft-royale.json) |
 | RoboCritters | 38749 | [38749-robocritters.json](./38749-robocritters.json) |
 | Robocrush | 364807 | [364807-robocrush.json](./364807-robocrush.json) |
@@ -10775,6 +10779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
 | Rocko's Quest | 72464 | [72464-rockos-quest.json](./72464-rockos-quest.json) |
+| Rockochet | 93905 | [93905-rockochet.json](./93905-rockochet.json) |
 | RockRobin | 57542 | [57542-rockrobin.json](./57542-rockrobin.json) |
 | Rocks 'n' Diamonds | 80290 | [80290-rocks-n-diamonds.json](./80290-rocks-n-diamonds.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
