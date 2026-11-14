@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
 | Farmer Toon | 197005 | [197005-farmer-toon.json](./197005-farmer-toon.json) |
+| Farmer Wars | 150800 | [150800-farmer-wars.json](./150800-farmer-wars.json) |
 | Farmer's Defence | 193081 | [193081-farmers-defence.json](./193081-farmers-defence.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
@@ -10655,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
 | Forest Adventure | 247280 | [247280-forest-adventure.json](./247280-forest-adventure.json) |
 | Forest Adventure | 262578 | [262578-forest-adventure.json](./262578-forest-adventure.json) |
+| Forest and Girls | 150720 | [150720-forest-and-girls.json](./150720-forest-and-girls.json) |
 | Forest Asylum | 340091 | [340091-forest-asylum.json](./340091-forest-asylum.json) |
 | Forest Asylum 2 | 352359 | [352359-forest-asylum-2.json](./352359-forest-asylum-2.json) |
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
