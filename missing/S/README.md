@@ -16440,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoke Keeper | 414765 | [414765-smoke-keeper.json](./414765-smoke-keeper.json) |
 | Smoke Masks | 321041 | [321041-smoke-masks.json](./321041-smoke-masks.json) |
+| Smoke.exe | 421025 | [421025-smoke-exe.json](./421025-smoke-exe.json) |
 | Smoked | 112607 | [112607-smoked.json](./112607-smoked.json) |
 | Smoked Fish and Cabbage | 330067 | [330067-smoked-fish-and-cabbage.json](./330067-smoked-fish-and-cabbage.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
@@ -33423,6 +33424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Dish | 275374 | [275374-suika-dish.json](./275374-suika-dish.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
 | Suika Game | 221740 | [221740-suika-game.json](./221740-suika-game.json) |
+| Suika Game 2025 Memorial Pack | 420997 | [420997-suika-game-2025-memorial-pack.json](./420997-suika-game-2025-memorial-pack.json) |
 | Suika Game But Bouncy | 300536 | [300536-suika-game-but-bouncy.json](./300536-suika-game-but-bouncy.json) |
 | Suika Game Demake | 275276 | [275276-suika-game-demake.json](./275276-suika-game-demake.json) |
 | Suika Game Planet | 366891 | [366891-suika-game-planet.json](./366891-suika-game-planet.json) |
@@ -39141,6 +39143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swag | 428737 | [428737-swag.json](./428737-swag.json) |
 | Swag & Sorcery | 107482 | [107482-swag-and-sorcery.json](./107482-swag-and-sorcery.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
+| Swaggerfall | 421012 | [421012-swaggerfall.json](./421012-swaggerfall.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
 | Swallow Nine Tails | 264400 | [264400-swallow-nine-tails.json](./264400-swallow-nine-tails.json) |
