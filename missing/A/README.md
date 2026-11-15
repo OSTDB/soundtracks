@@ -10748,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
 | Andrej Sundic's: The Deep | 403198 | [403198-andrej-sundics-the-deep.json](./403198-andrej-sundics-the-deep.json) |
 | Andrés y Su Fusil de Aliesprés | 401179 | [401179-andres-y-su-fusil-de-aliespres.json](./401179-andres-y-su-fusil-de-aliespres.json) |
+| Andretti Racing | 45496 | [45496-andretti-racing.json](./45496-andretti-racing.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
 | Andrew the Tacolf | 88388 | [88388-andrew-the-tacolf.json](./88388-andrew-the-tacolf.json) |
 | Andrew's Nightmare | 296516 | [296516-andrews-nightmare.json](./296516-andrews-nightmare.json) |
@@ -17636,6 +17637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
 | Asta-Pool: Can Humans Beat Bots? | 295410 | [295410-asta-pool-can-humans-beat-bots.json](./295410-asta-pool-can-humans-beat-bots.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
+| Astal | 45495 | [45495-astal.json](./45495-astal.json) |
 | Astala Muerte | 398940 | [398940-astala-muerte.json](./398940-astala-muerte.json) |
 | Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
