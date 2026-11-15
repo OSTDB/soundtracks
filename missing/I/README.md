@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
 | Icomania | 254358 | [254358-icomania.json](./254358-icomania.json) |
 | Icon | 399909 | [399909-icon.json](./399909-icon.json) |
+| Icon Jon | 36539 | [36539-icon-jon.json](./36539-icon-jon.json) |
 | Icon Pop Quiz | 269351 | [269351-icon-pop-quiz.json](./269351-icon-pop-quiz.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Icon_Survive | 340520 | [340520-icon-survive.json](./340520-icon-survive.json) |
@@ -3850,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Soccer | 377951 | [377951-indoor-soccer.json](./377951-indoor-soccer.json) |
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
+| Indoor Sports | 36588 | [36588-indoor-sports.json](./36588-indoor-sports.json) |
 | Indoor Sports World | 52246 | [52246-indoor-sports-world.json](./52246-indoor-sports-world.json) |
 | Indoorlands | 151517 | [151517-indoorlands.json](./151517-indoorlands.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | Infiltrator | 26455 | [26455-infiltrator.json](./26455-infiltrator.json) |
 | Infiltrator | 405040 | [405040-infiltrator.json](./405040-infiltrator.json) |
+| Infiltrator II | 36582 | [36582-infiltrator-ii.json](./36582-infiltrator-ii.json) |
 | Infiltrator: The Adventure | 117272 | [117272-infiltrator-the-adventure.json](./117272-infiltrator-the-adventure.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
 | Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
