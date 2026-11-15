@@ -9062,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
 | Chris and the Badgers | 61592 | [61592-chris-and-the-badgers.json](./61592-chris-and-the-badgers.json) |
 | Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
+| Chris Evert & Ivan Lendl in Top Players' Tennis | 48911 | [48911-chris-evert-and-ivan-lendl-in-top-players-tennis.json](./48911-chris-evert-and-ivan-lendl-in-top-players-tennis.json) |
 | Chris Isn't Alone | 215509 | [215509-chris-isnt-alone.json](./215509-chris-isnt-alone.json) |
 | Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
