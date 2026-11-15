@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labratory | 379797 | [379797-labratory.json](./379797-labratory.json) |
 | LabRpgUp! | 102990 | [102990-labrpgup.json](./102990-labrpgup.json) |
+| Labrynth of Zeux | 60685 | [60685-labrynth-of-zeux.json](./60685-labrynth-of-zeux.json) |
 | Labrys | 249979 | [249979-labrys.json](./249979-labrys.json) |
 | Labsylle | 381515 | [381515-labsylle.json](./381515-labsylle.json) |
 | LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
@@ -8601,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
 | Lord of Undead | 389330 | [389330-lord-of-undead.json](./389330-lord-of-undead.json) |
 | Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
+| Lord of Vermilion Arena | 60176 | [60176-lord-of-vermilion-arena.json](./60176-lord-of-vermilion-arena.json) |
 | Lord of Vermilion II | 65461 | [65461-lord-of-vermilion-ii.json](./65461-lord-of-vermilion-ii.json) |
 | Lord of Vermilion III | 62957 | [62957-lord-of-vermilion-iii.json](./62957-lord-of-vermilion-iii.json) |
 | Lord of Vermilion IV | 26971 | [26971-lord-of-vermilion-iv.json](./26971-lord-of-vermilion-iv.json) |
@@ -9863,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sick Cats | 351348 | [351348-love-sick-cats.json](./351348-love-sick-cats.json) |
 | Love Signal: D-Mate | 202983 | [202983-love-signal-d-mate.json](./202983-love-signal-d-mate.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
+| Love Smash! 5 | 61246 | [61246-love-smash-5.json](./61246-love-smash-5.json) |
 | Love Sniper | 63116 | [63116-love-sniper.json](./63116-love-sniper.json) |
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
 | Love Spell: Written in the Stars | 130172 | [130172-love-spell-written-in-the-stars.json](./130172-love-spell-written-in-the-stars.json) |
