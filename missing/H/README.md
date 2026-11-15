@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Head 2 | 40180 | [40180-hard-head-2.json](./40180-hard-head-2.json) |
 | Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
 | Hard Hero | 263504 | [263504-hard-hero.json](./263504-hard-hero.json) |
+| Hard Hitter Tennis | 43605 | [43605-hard-hitter-tennis.json](./43605-hard-hitter-tennis.json) |
 | Hard Karma | 112787 | [112787-hard-karma.json](./112787-hard-karma.json) |
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
 | Hard Lads | 135305 | [135305-hard-lads.json](./135305-hard-lads.json) |
@@ -6350,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heracles no Eikou IV: Kamigami kara no Okurimono | 42291 | [42291-heracles-no-eikou-iv-kamigami-kara-no-okurimono.json](./42291-heracles-no-eikou-iv-kamigami-kara-no-okurimono.json) |
 | Heracles no Eikou: Toujin Makyou-den | 48475 | [48475-heracles-no-eikou-toujin-makyou-den.json](./48475-heracles-no-eikou-toujin-makyou-den.json) |
 | Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
+| Heracles: Battle with the Gods | 43571 | [43571-heracles-battle-with-the-gods.json](./43571-heracles-battle-with-the-gods.json) |
 | Heradonia | 186494 | [186494-heradonia.json](./186494-heradonia.json) |
 | Heraean Games | 301083 | [301083-heraean-games.json](./301083-heraean-games.json) |
 | Herakles and The Princess of Troy | 119090 | [119090-herakles-and-the-princess-of-troy.json](./119090-herakles-and-the-princess-of-troy.json) |
@@ -7853,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden in Time: Looking-glass Lane | 65187 | [65187-hidden-in-time-looking-glass-lane.json](./65187-hidden-in-time-looking-glass-lane.json) |
 | Hidden Industries: Top-Down 3D | 204828 | [204828-hidden-industries-top-down-3d.json](./204828-hidden-industries-top-down-3d.json) |
+| Hidden invasion | 43601 | [43601-hidden-invasion.json](./43601-hidden-invasion.json) |
 | Hidden Investigation 2: Homicide | 177055 | [177055-hidden-investigation-2-homicide.json](./177055-hidden-investigation-2-homicide.json) |
 | Hidden Investigation 3: Crime Files | 176898 | [176898-hidden-investigation-3-crime-files.json](./176898-hidden-investigation-3-crime-files.json) |
 | Hidden Investigation: Who Did It? | 177042 | [177042-hidden-investigation-who-did-it.json](./177042-hidden-investigation-who-did-it.json) |
@@ -11067,6 +11070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Despair Chaos | 176688 | [176688-hope-despair-chaos.json](./176688-hope-despair-chaos.json) |
 | Hope Falters | 408602 | [408602-hope-falters.json](./408602-hope-falters.json) |
 | Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
+| Hope for love | 44142 | [44142-hope-for-love.json](./44142-hope-for-love.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
 | Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
 | Hope Harrison | 347406 | [347406-hope-harrison.json](./347406-hope-harrison.json) |
