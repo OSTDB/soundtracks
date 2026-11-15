@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can I Go Home Yet? | 397393 | [397393-can-i-go-home-yet.json](./397393-can-i-go-home-yet.json) |
 | Can I Have a Glass of Water? | 415489 | [415489-can-i-have-a-glass-of-water.json](./415489-can-i-have-a-glass-of-water.json) |
 | Can I Not Fall for Idols? | 390818 | [390818-can-i-not-fall-for-idols.json](./390818-can-i-not-fall-for-idols.json) |
+| Can I Park? | 428112 | [428112-can-i-park.json](./428112-can-i-park.json) |
 | Can I Take Your Order | 404572 | [404572-can-i-take-your-order.json](./404572-can-i-take-your-order.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
@@ -3432,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrotour | 334407 | [334407-carrotour.json](./334407-carrotour.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
+| Carrrds | 428113 | [428113-carrrds.json](./428113-carrrds.json) |
 | Carrum | 68413 | [68413-carrum.json](./68413-carrum.json) |
 | Carrumble | 122252 | [122252-carrumble.json](./122252-carrumble.json) |
 | Carry On Together | 425647 | [425647-carry-on-together.json](./425647-carry-on-together.json) |
@@ -6992,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charged: RC Racing | 224906 | [224906-charged-rc-racing.json](./224906-charged-rc-racing.json) |
 | Charged: RC Racing - Starter Edition | 247322 | [247322-charged-rc-racing-starter-edition.json](./247322-charged-rc-racing-starter-edition.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
+| ChargeDrop | 428126 | [428126-chargedrop.json](./428126-chargedrop.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
 | Charging Out Dead Zone | 207569 | [207569-charging-out-dead-zone.json](./207569-charging-out-dead-zone.json) |
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
@@ -16555,6 +16558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defence | 266618 | [266618-core-defence.json](./266618-core-defence.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
+| Core Defense Line | 428128 | [428128-core-defense-line.json](./428128-core-defense-line.json) |
 | Core Descent | 392188 | [392188-core-descent.json](./392188-core-descent.json) |
 | Core Destroyer | 376415 | [376415-core-destroyer.json](./376415-core-destroyer.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
@@ -16923,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
+| Corvidtalism: Win at Life | 428131 | [428131-corvidtalism-win-at-life.json](./428131-corvidtalism-win-at-life.json) |
 | Corvos Dynasty | 268314 | [268314-corvos-dynasty.json](./268314-corvos-dynasty.json) |
 | Corvus | 129353 | [129353-corvus.json](./129353-corvus.json) |
 | Cory in the Ded 3.5 | 264420 | [264420-cory-in-the-ded-3-5.json](./264420-cory-in-the-ded-3-5.json) |
@@ -23153,6 +23158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberblast | 12558 | [12558-cyberblast.json](./12558-cyberblast.json) |
 | Cyberblock Metal Orange | 232631 | [232631-cyberblock-metal-orange.json](./232631-cyberblock-metal-orange.json) |
 | CyberBlocker: Complete Edition | 217424 | [217424-cyberblocker-complete-edition.json](./217424-cyberblocker-complete-edition.json) |
+| Cyberborn | 428103 | [428103-cyberborn.json](./428103-cyberborn.json) |
 | CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
