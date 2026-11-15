@@ -10394,6 +10394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing: Mitouhou he no Chousen - Alps-hen | 386624 | [386624-rock-climbing-mitouhou-he-no-chousen-alps-hen.json](./386624-rock-climbing-mitouhou-he-no-chousen-alps-hen.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
+| Rock Core | 427556 | [427556-rock-core.json](./427556-rock-core.json) |
 | Rock Crawler: Offroad Driving | 95297 | [95297-rock-crawler-offroad-driving.json](./95297-rock-crawler-offroad-driving.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
 | Rock Declutterer | 420207 | [420207-rock-declutterer.json](./420207-rock-declutterer.json) |
