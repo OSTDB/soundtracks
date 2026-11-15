@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Boat Simulator | 256029 | [256029-race-boat-simulator.json](./256029-race-boat-simulator.json) |
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
 | Race Car! | 99263 | [99263-race-car.json](./99263-race-car.json) |
+| Race Cars: the Extreme Rally | 71065 | [71065-race-cars-the-extreme-rally.json](./71065-race-cars-the-extreme-rally.json) |
 | Race City | 72214 | [72214-race-city.json](./72214-race-city.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
@@ -9718,6 +9719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin of Sherlock | 26448 | [26448-robin-of-sherlock.json](./26448-robin-of-sherlock.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin of the Wood | 26434 | [26434-robin-of-the-wood.json](./26434-robin-of-the-wood.json) |
+| Robin Smith's International Cricket | 71076 | [71076-robin-smiths-international-cricket.json](./71076-robin-smiths-international-cricket.json) |
 | Robin to the Rescue | 60058 | [60058-robin-to-the-rescue.json](./60058-robin-to-the-rescue.json) |
 | Robin: Race! | 145133 | [145133-robin-race.json](./145133-robin-race.json) |
 | Robin: The Twisted Timber Trail | 309934 | [309934-robin-the-twisted-timber-trail.json](./309934-robin-the-twisted-timber-trail.json) |
@@ -12186,6 +12188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommania #203 | 94027 | [94027-roommania-203.json](./94027-roommania-203.json) |
 | Roommate 3: Ryouko Kaze no Kagayaku Asa ni | 420462 | [420462-roommate-3-ryouko-kaze-no-kagayaku-asa-ni.json](./420462-roommate-3-ryouko-kaze-no-kagayaku-asa-ni.json) |
+| Roommate Complete Box | 71078 | [71078-roommate-complete-box.json](./71078-roommate-complete-box.json) |
 | Roommate: Asami - Oku-sama wa Joshikousei | 330582 | [330582-roommate-asami-oku-sama-wa-joshikousei.json](./330582-roommate-asami-oku-sama-wa-joshikousei.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates | 9885 | [9885-roommates.json](./9885-roommates.json) |
