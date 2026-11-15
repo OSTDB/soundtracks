@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
 | Panzer Dragoon II Zwei | 1669 | [1669-panzer-dragoon-ii-zwei.json](./1669-panzer-dragoon-ii-zwei.json) |
 | Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
+| Panzer Dragoon Saga | 1671 | [1671-panzer-dragoon-saga.json](./1671-panzer-dragoon-saga.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon Zwei: Remake | 113351 | [113351-panzer-dragoon-zwei-remake.json](./113351-panzer-dragoon-zwei-remake.json) |
 | Panzer Elite | 46994 | [46994-panzer-elite.json](./46994-panzer-elite.json) |
@@ -16805,6 +16806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Deer Hunting: Out West | 194361 | [194361-pro-deer-hunting-out-west.json](./194361-pro-deer-hunting-out-west.json) |
 | Pro Drift Reloaded 2020 | 72500 | [72500-pro-drift-reloaded-2020.json](./72500-pro-drift-reloaded-2020.json) |
 | Pro Evolution Soccer | 240457 | [240457-pro-evolution-soccer.json](./240457-pro-evolution-soccer.json) |
+| Pro Evolution Soccer | 4642 | [4642-pro-evolution-soccer.json](./4642-pro-evolution-soccer.json) |
 | Pro Evolution Soccer 2 | 220944 | [220944-pro-evolution-soccer-2.json](./220944-pro-evolution-soccer-2.json) |
 | Pro Evolution Soccer 2008 | 220954 | [220954-pro-evolution-soccer-2008.json](./220954-pro-evolution-soccer-2008.json) |
 | Pro Evolution Soccer 2008 | 220955 | [220955-pro-evolution-soccer-2008.json](./220955-pro-evolution-soccer-2008.json) |
