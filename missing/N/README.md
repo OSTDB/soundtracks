@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K12 | 256896 | [256896-nba-2k12.json](./256896-nba-2k12.json) |
 | NBA 2K12 | 256897 | [256897-nba-2k12.json](./256897-nba-2k12.json) |
 | NBA 2K12 | 5057 | [5057-nba-2k12.json](./5057-nba-2k12.json) |
+| NBA 2K14 | 5329 | [5329-nba-2k14.json](./5329-nba-2k14.json) |
 | NBA 2K16 | 11525 | [11525-nba-2k16.json](./11525-nba-2k16.json) |
 | NBA 2K16: Michael Jordan Edition | 53403 | [53403-nba-2k16-michael-jordan-edition.json](./53403-nba-2k16-michael-jordan-edition.json) |
 | NBA 2K16: Michael Jordan Special Edition | 53402 | [53402-nba-2k16-michael-jordan-special-edition.json](./53402-nba-2k16-michael-jordan-special-edition.json) |
@@ -6770,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Paradox | 244919 | [244919-nobody-paradox.json](./244919-nobody-paradox.json) |
 | Nobody Said It Was Easy | 175233 | [175233-nobody-said-it-was-easy.json](./175233-nobody-said-it-was-easy.json) |
+| Nobody Saves the World | 145089 | [145089-nobody-saves-the-world.json](./145089-nobody-saves-the-world.json) |
 | Nobody Saves the World + Frozen Hearth Bundle | 219470 | [219470-nobody-saves-the-world-frozen-hearth-bundle.json](./219470-nobody-saves-the-world-frozen-hearth-bundle.json) |
 | Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
