@@ -6264,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koushien: Konpeki no Sora | 58509 | [58509-koushien-konpeki-no-sora.json](./58509-koushien-konpeki-no-sora.json) |
 | Koushinchou Shoujo: XL na Kanojo ha H na Nayami de Ippai! | 59152 | [59152-koushinchou-shoujo-xl-na-kanojo-ha-h-na-nayami-de-ippai.json](./59152-koushinchou-shoujo-xl-na-kanojo-ha-h-na-nayami-de-ippai.json) |
 | Koushounin DS | 67351 | [67351-koushounin-ds.json](./67351-koushounin-ds.json) |
+| Kousoku Card Battle: Card Hero | 73037 | [73037-kousoku-card-battle-card-hero.json](./73037-kousoku-card-battle-card-hero.json) |
 | Kousoku Kaitenzushi | 138702 | [138702-kousoku-kaitenzushi.json](./138702-kousoku-kaitenzushi.json) |
 | Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
 | Koustrea's Contentment | 59702 | [59702-koustreas-contentment.json](./59702-koustreas-contentment.json) |
