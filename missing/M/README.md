@@ -17055,6 +17055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco: What's Yours Is Mine - Complete Edition | 124988 | [124988-monaco-whats-yours-is-mine-complete-edition.json](./124988-monaco-whats-yours-is-mine-complete-edition.json) |
 | Monad | 134192 | [134192-monad.json](./134192-monad.json) |
 | Monadi.sys | 410703 | [410703-monadi-sys.json](./410703-monadi-sys.json) |
+| Monado | 425771 | [425771-monado.json](./425771-monado.json) |
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
 | Monarch Cocoon | 379847 | [379847-monarch-cocoon.json](./379847-monarch-cocoon.json) |
