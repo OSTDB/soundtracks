@@ -2852,7 +2852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp and Oaf Kick Off! | 350886 | [350886-imp-and-oaf-kick-off.json](./350886-imp-and-oaf-kick-off.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
 | Imp Encounter | 296198 | [296198-imp-encounter.json](./296198-imp-encounter.json) |
-| Imp of the Sun | 144229 | [144229-imp-of-the-sun.json](./144229-imp-of-the-sun.json) |
 | Imp or Oaf? | 254259 | [254259-imp-or-oaf.json](./254259-imp-or-oaf.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact | 132367 | [132367-impact.json](./132367-impact.json) |
@@ -2869,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact Trial: The Lost Planet | 258128 | [258128-impact-trial-the-lost-planet.json](./258128-impact-trial-the-lost-planet.json) |
 | Impact Winter | 26145 | [26145-impact-winter.json](./26145-impact-winter.json) |
 | Impact! | 289584 | [289584-impact.json](./289584-impact.json) |
+| Impale | 76017 | [76017-impale.json](./76017-impale.json) |
 | Impale Your Friends! | 117573 | [117573-impale-your-friends.json](./117573-impale-your-friends.json) |
 | Impaler Gold | 196078 | [196078-impaler-gold.json](./196078-impaler-gold.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D Arcade Stage 4 | 62308 | [62308-initial-d-arcade-stage-4.json](./62308-initial-d-arcade-stage-4.json) |
 | Initial D Arcade Stage 5 | 171294 | [171294-initial-d-arcade-stage-5.json](./171294-initial-d-arcade-stage-5.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
+| Initial D Arcade Stage 7 AAX | 77433 | [77433-initial-d-arcade-stage-7-aax.json](./77433-initial-d-arcade-stage-7-aax.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D Gaiden | 62559 | [62559-initial-d-gaiden.json](./62559-initial-d-gaiden.json) |
 | Initial D: Koudou Saisoku Densetsu | 97532 | [97532-initial-d-koudou-saisoku-densetsu.json](./97532-initial-d-koudou-saisoku-densetsu.json) |
