@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen Part II | 214850 | [214850-the-citizen-part-ii.json](./214850-the-citizen-part-ii.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
 | The City of Damned Children | 257164 | [257164-the-city-of-damned-children.json](./257164-the-city-of-damned-children.json) |
+| The City of Endless | 429346 | [429346-the-city-of-endless.json](./429346-the-city-of-endless.json) |
 | The City of Fury | 260642 | [260642-the-city-of-fury.json](./260642-the-city-of-fury.json) |
 | The City Of Hope | 276571 | [276571-the-city-of-hope.json](./276571-the-city-of-hope.json) |
 | The City of Lost Children | 20001 | [20001-the-city-of-lost-children.json](./20001-the-city-of-lost-children.json) |
@@ -21195,6 +21196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
 | The White Raven | 211348 | [211348-the-white-raven.json](./211348-the-white-raven.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
+| The White Ship | 429351 | [429351-the-white-ship.json](./429351-the-white-ship.json) |
 | The White Wolf of Lokken Mountain | 388321 | [388321-the-white-wolf-of-lokken-mountain.json](./388321-the-white-wolf-of-lokken-mountain.json) |
 | The Whiteout | 288690 | [288690-the-whiteout.json](./288690-the-whiteout.json) |
 | The Whitetail Incident | 159280 | [159280-the-whitetail-incident.json](./159280-the-whitetail-incident.json) |
@@ -26495,6 +26497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tarot | 182869 | [182869-tiny-tarot.json](./182869-tiny-tarot.json) |
+| Tiny Tavern | 429378 | [429378-tiny-tavern.json](./429378-tiny-tavern.json) |
 | Tiny Technologies | 314726 | [314726-tiny-technologies.json](./314726-tiny-technologies.json) |
 | Tiny Tengu Tactics | 358444 | [358444-tiny-tengu-tactics.json](./358444-tiny-tengu-tactics.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
@@ -27253,6 +27256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobruk: The Clash of Armour | 36906 | [36906-tobruk-the-clash-of-armour.json](./36906-tobruk-the-clash-of-armour.json) |
 | Tobu Tobu Girl | 57317 | [57317-tobu-tobu-girl.json](./57317-tobu-tobu-girl.json) |
 | Tobu Tobu Girl Deluxe | 123211 | [123211-tobu-tobu-girl-deluxe.json](./123211-tobu-tobu-girl-deluxe.json) |
+| Tobuuy | 429383 | [429383-tobuuy.json](./429383-tobuuy.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Brick Breaker | 416227 | [416227-toby-the-brick-breaker.json](./416227-toby-the-brick-breaker.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
