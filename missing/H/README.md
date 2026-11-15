@@ -6379,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules | 180416 | [180416-hercules.json](./180416-hercules.json) |
 | Hercules | 382856 | [382856-hercules.json](./382856-hercules.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
+| Hercules 2 | 46158 | [46158-hercules-2.json](./46158-hercules-2.json) |
 | Hercules Prophet 2 MX | 24160 | [24160-hercules-prophet-2-mx.json](./24160-hercules-prophet-2-mx.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Hercules: Slayer of the Damned! | 67193 | [67193-hercules-slayer-of-the-damned.json](./67193-hercules-slayer-of-the-damned.json) |
@@ -11643,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
+| Hoshi wo Sagashite... | 46149 | [46149-hoshi-wo-sagashite.json](./46149-hoshi-wo-sagashite.json) |
 | Hoshiai no Sora | 398986 | [398986-hoshiai-no-sora.json](./398986-hoshiai-no-sora.json) |
 | Hoshigami: Ruining Blue Earth | 45223 | [45223-hoshigami-ruining-blue-earth.json](./45223-hoshigami-ruining-blue-earth.json) |
 | Hoshigami: Ruining Blue Earth Remix | 47717 | [47717-hoshigami-ruining-blue-earth-remix.json](./47717-hoshigami-ruining-blue-earth-remix.json) |
@@ -14409,6 +14411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Boss Pack | 95042 | [95042-hyrule-warriors-boss-pack.json](./95042-hyrule-warriors-boss-pack.json) |
 | Hyrule Warriors: Hero of Hyrule Pack | 95043 | [95043-hyrule-warriors-hero-of-hyrule-pack.json](./95043-hyrule-warriors-hero-of-hyrule-pack.json) |
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
+| Hyrule Warriors: Legends - Limited Edition | 47604 | [47604-hyrule-warriors-legends-limited-edition.json](./47604-hyrule-warriors-legends-limited-edition.json) |
 | Hyrule Warriors: Legends Character Pack | 95044 | [95044-hyrule-warriors-legends-character-pack.json](./95044-hyrule-warriors-legends-character-pack.json) |
 | Hyrule Warriors: Legends of Hyrule Pack | 95048 | [95048-hyrule-warriors-legends-of-hyrule-pack.json](./95048-hyrule-warriors-legends-of-hyrule-pack.json) |
 | Hyrule Warriors: Link's Awakening Pack | 95045 | [95045-hyrule-warriors-links-awakening-pack.json](./95045-hyrule-warriors-links-awakening-pack.json) |
