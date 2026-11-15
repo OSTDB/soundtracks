@@ -1729,7 +1729,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
 | Warhammer Age of Sigmar: Realm War | 109557 | [109557-warhammer-age-of-sigmar-realm-war.json](./109557-warhammer-age-of-sigmar-realm-war.json) |
-| Warhammer Age of Sigmar: Realms of Ruin | 250905 | [250905-warhammer-age-of-sigmar-realms-of-ruin.json](./250905-warhammer-age-of-sigmar-realms-of-ruin.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
