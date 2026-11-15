@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dallen Clicker Ultimate | 149768 | [149768-dallen-clicker-ultimate.json](./149768-dallen-clicker-ultimate.json) |
 | Dally Doo You Can Too! Numbers | 375719 | [375719-dally-doo-you-can-too-numbers.json](./375719-dally-doo-you-can-too-numbers.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
+| Dallyeora Pigu-Wang | 45624 | [45624-dallyeora-pigu-wang.json](./45624-dallyeora-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
 | Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
 | Dalmatians 4 | 79643 | [79643-dalmatians-4.json](./79643-dalmatians-4.json) |
@@ -9431,6 +9432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dial 666 | 370974 | [370974-dial-666.json](./370974-dial-666.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial Pilot | 106839 | [106839-dial-pilot.json](./106839-dial-pilot.json) |
+| Dial Q wo Mawase! | 45617 | [45617-dial-q-wo-mawase.json](./45617-dial-q-wo-mawase.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
@@ -10146,6 +10148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggems | 420031 | [420031-diggems.json](./420031-diggems.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger | 24425 | [24425-digger.json](./24425-digger.json) |
+| Digger Chan | 45622 | [45622-digger-chan.json](./45622-digger-chan.json) |
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
 | Digger Dan | 14033 | [14033-digger-dan.json](./14033-digger-dan.json) |
 | Digger Dan & Kaboom | 58664 | [58664-digger-dan-and-kaboom.json](./58664-digger-dan-and-kaboom.json) |
@@ -12997,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
 | Dodgeball Dungeon | 148192 | [148192-dodgeball-dungeon.json](./148192-dodgeball-dungeon.json) |
+| Dodgeball King | 45632 | [45632-dodgeball-king.json](./45632-dodgeball-king.json) |
 | Dodgeball rising | 75593 | [75593-dodgeball-rising.json](./75593-dodgeball-rising.json) |
 | Dodgeball Simulator VR | 113605 | [113605-dodgeball-simulator-vr.json](./113605-dodgeball-simulator-vr.json) |
 | DodgeBall VR | 172373 | [172373-dodgeball-vr.json](./172373-dodgeball-vr.json) |
