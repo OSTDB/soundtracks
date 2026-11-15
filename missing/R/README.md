@@ -14325,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
 | Rush Rover | 33625 | [33625-rush-rover.json](./33625-rush-rover.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
+| Rush Rush Rally Racing | 4357 | [4357-rush-rush-rally-racing.json](./4357-rush-rush-rally-racing.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush Team | 57953 | [57953-rush-team.json](./57953-rush-team.json) |
 | Rush Team 2 | 57854 | [57854-rush-team-2.json](./57854-rush-team-2.json) |
