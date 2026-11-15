@@ -21719,6 +21719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
 | Muscle Power | 148732 | [148732-muscle-power.json](./148732-muscle-power.json) |
+| Muscle Princess | 77466 | [77466-muscle-princess.json](./77466-muscle-princess.json) |
 | Muscle Princess 2 | 207991 | [207991-muscle-princess-2.json](./207991-muscle-princess-2.json) |
 | Muscle Princess 3 | 212820 | [212820-muscle-princess-3.json](./212820-muscle-princess-3.json) |
 | Muscle Ranking GB: Chousensha ha Kimi da! | 123111 | [123111-muscle-ranking-gb-chousensha-ha-kimi-da.json](./123111-muscle-ranking-gb-chousensha-ha-kimi-da.json) |
