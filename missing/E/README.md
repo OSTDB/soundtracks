@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Egggg | 296308 | [296308-egggg.json](./296308-egggg.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
+| Eggggg: The Platform Puker | 34670 | [34670-eggggg-the-platform-puker.json](./34670-eggggg-the-platform-puker.json) |
 | Egggs | 181420 | [181420-egggs.json](./181420-egggs.json) |
 | Egghead | 84348 | [84348-egghead.json](./84348-egghead.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
@@ -3301,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Seeker | 406844 | [406844-ember-seeker.json](./406844-ember-seeker.json) |
 | Ember Souls | 306942 | [306942-ember-souls.json](./306942-ember-souls.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
+| Ember Strike | 35153 | [35153-ember-strike.json](./35153-ember-strike.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember Sword | 111113 | [111113-ember-sword.json](./111113-ember-sword.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
@@ -6463,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eschatology | 273485 | [273485-eschatology.json](./273485-eschatology.json) |
 | Eschaton | 199310 | [199310-eschaton.json](./199310-eschaton.json) |
 | Eschaton: Battle for Eternity | 385298 | [385298-eschaton-battle-for-eternity.json](./385298-eschaton-battle-for-eternity.json) |
+| Eschatos | 35021 | [35021-eschatos.json](./35021-eschatos.json) |
 | Escherion | 155502 | [155502-escherion.json](./155502-escherion.json) |
 | Eschew | 202441 | [202441-eschew.json](./202441-eschew.json) |
 | Escoba | 384552 | [384552-escoba.json](./384552-escoba.json) |
