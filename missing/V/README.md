@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet Bricks | 250771 | [250771-violet-bricks.json](./250771-violet-bricks.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
+| Violet Haunted | 31269 | [31269-violet-haunted.json](./31269-violet-haunted.json) |
 | Violet Kingdom | 273807 | [273807-violet-kingdom.json](./273807-violet-kingdom.json) |
 | Violet Mansion | 404036 | [404036-violet-mansion.json](./404036-violet-mansion.json) |
 | Violet Memoir | 177887 | [177887-violet-memoir.json](./177887-violet-memoir.json) |
