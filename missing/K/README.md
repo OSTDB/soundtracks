@@ -3985,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
 | Kingdom's Architect | 313648 | [313648-kingdoms-architect.json](./313648-kingdoms-architect.json) |
 | Kingdom's Deck | 280095 | [280095-kingdoms-deck.json](./280095-kingdoms-deck.json) |
+| Kingdom's Destiny: Warlords | 423322 | [423322-kingdoms-destiny-warlords.json](./423322-kingdoms-destiny-warlords.json) |
 | Kingdom's Dungeon Rage | 306746 | [306746-kingdoms-dungeon-rage.json](./306746-kingdoms-dungeon-rage.json) |
 | Kingdom's Edge | 207610 | [207610-kingdoms-edge.json](./207610-kingdoms-edge.json) |
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
