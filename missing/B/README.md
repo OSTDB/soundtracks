@@ -5500,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Brigade: Ocean Attack! | 376510 | [376510-bear-brigade-ocean-attack.json](./376510-bear-brigade-ocean-attack.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Defence Situation | 354125 | [354125-bear-defence-situation.json](./354125-bear-defence-situation.json) |
+| Bear Dream | 56708 | [56708-bear-dream.json](./56708-bear-dream.json) |
 | Bear Escape Mission | 340092 | [340092-bear-escape-mission.json](./340092-bear-escape-mission.json) |
 | Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Go Home | 71676 | [71676-bear-go-home.json](./71676-bear-go-home.json) |
@@ -13217,6 +13218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BM Love Cafe | 338428 | [338428-bm-love-cafe.json](./338428-bm-love-cafe.json) |
+| BM98 | 56714 | [56714-bm98.json](./56714-bm98.json) |
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMPES | 319899 | [319899-bmpes.json](./319899-bmpes.json) |
 | BMW M3 Challenge | 27466 | [27466-bmw-m3-challenge.json](./27466-bmw-m3-challenge.json) |
@@ -17614,6 +17616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink: Spec Ops | 28991 | [28991-brink-spec-ops.json](./28991-brink-spec-ops.json) |
 | Brinkmanship | 133666 | [133666-brinkmanship.json](./133666-brinkmanship.json) |
 | Brinkmanship | 303376 | [303376-brinkmanship.json](./303376-brinkmanship.json) |
+| Brinko | 56677 | [56677-brinko.json](./56677-brinko.json) |
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
 | BRIO World | 352512 | [352512-brio-world.json](./352512-brio-world.json) |
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
