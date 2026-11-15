@@ -17861,6 +17861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scream of Darkness | 379397 | [379397-the-scream-of-darkness.json](./379397-the-scream-of-darkness.json) |
 | The ScreaMaze | 114230 | [114230-the-screamaze.json](./114230-the-screamaze.json) |
 | The Screamer | 62616 | [62616-the-screamer.json](./62616-the-screamer.json) |
+| The Screamer VR | 30277 | [30277-the-screamer-vr.json](./30277-the-screamer-vr.json) |
 | The Screecher | 317772 | [317772-the-screecher.json](./317772-the-screecher.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Screetch | 254256 | [254256-the-screetch.json](./254256-the-screetch.json) |
@@ -21379,6 +21380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Work of Your Hands | 226054 | [226054-the-work-of-your-hands.json](./226054-the-work-of-your-hands.json) |
 | The World | 158923 | [158923-the-world.json](./158923-the-world.json) |
 | The World 21: Gambit Abyss | 379099 | [379099-the-world-21-gambit-abyss.json](./379099-the-world-21-gambit-abyss.json) |
+| The World 3: Rise of Demon | 30294 | [30294-the-world-3-rise-of-demon.json](./30294-the-world-3-rise-of-demon.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
@@ -33201,6 +33203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TramSim: Console Edition | 247140 | [247140-tramsim-console-edition.json](./247140-tramsim-console-edition.json) |
 | TramSim: Console Edition - Deluxe | 247139 | [247139-tramsim-console-edition-deluxe.json](./247139-tramsim-console-edition-deluxe.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
+| Trance VR | 29340 | [29340-trance-vr.json](./29340-trance-vr.json) |
 | Trance World | 412007 | [412007-trance-world.json](./412007-trance-world.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Trance, Trauma | 240633 | [240633-trance-trauma.json](./240633-trance-trauma.json) |
@@ -34383,6 +34386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangulate | 52768 | [52768-triangulate.json](./52768-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
 | Triangulum | 120768 | [120768-triangulum.json](./120768-triangulum.json) |
+| Trianguluv | 29307 | [29307-trianguluv.json](./29307-trianguluv.json) |
 | Trianthology: Sanmenkyou no Kuni no Alice | 108771 | [108771-trianthology-sanmenkyou-no-kuni-no-alice.json](./108771-trianthology-sanmenkyou-no-kuni-no-alice.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
 | Triazzle Island | 64788 | [64788-triazzle-island.json](./64788-triazzle-island.json) |
@@ -37629,6 +37633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrants: Fight Through Time | 12183 | [12183-tyrants-fight-through-time.json](./12183-tyrants-fight-through-time.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyred | 75539 | [75539-tyred.json](./75539-tyred.json) |
+| Tyrfing Cycle | 30297 | [30297-tyrfing-cycle.json](./30297-tyrfing-cycle.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrgard Archer VR | 149646 | [149646-tyrgard-archer-vr.json](./149646-tyrgard-archer-vr.json) |
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
