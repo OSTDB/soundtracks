@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Them Up | 208443 | [208443-light-them-up.json](./208443-light-them-up.json) |
 | Light Tomb | 358937 | [358937-light-tomb.json](./358937-light-tomb.json) |
 | Light Touch: Pixel Block Escape | 197726 | [197726-light-touch-pixel-block-escape.json](./197726-light-touch-pixel-block-escape.json) |
+| Light Tower | 429735 | [429735-light-tower.json](./429735-light-tower.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
 | Light Tracer | 36784 | [36784-light-tracer.json](./36784-light-tracer.json) |
 | Light Tracer II: The Two Worlds | 146672 | [146672-light-tracer-ii-the-two-worlds.json](./146672-light-tracer-ii-the-two-worlds.json) |
@@ -6089,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
 | Lines | 94831 | [94831-lines.json](./94831-lines.json) |
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
+| Lines & Sand | 429747 | [429747-lines-and-sand.json](./429747-lines-and-sand.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines 98 | 367530 | [367530-lines-98.json](./367530-lines-98.json) |
 | Lines 98 Classic | 388792 | [388792-lines-98-classic.json](./388792-lines-98-classic.json) |
@@ -10143,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | Lovengrad | 150809 | [150809-lovengrad.json](./150809-lovengrad.json) |
 | Lovepical-Poppy! | 382067 | [382067-lovepical-poppy.json](./382067-lovepical-poppy.json) |
+| Lovepical-Poppy!: Deluxe Limited Edition | 429760 | [429760-lovepical-poppy-deluxe-limited-edition.json](./429760-lovepical-poppy-deluxe-limited-edition.json) |
 | LovePlus | 6850 | [6850-loveplus.json](./6850-loveplus.json) |
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
@@ -10863,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminescent | 360833 | [360833-luminescent.json](./360833-luminescent.json) |
 | Luminesweeper | 246569 | [246569-luminesweeper.json](./246569-luminesweeper.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
+| Lumini | 18209 | [18209-lumini.json](./18209-lumini.json) |
 | Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Luminite Era: Expedition | 245990 | [245990-luminite-era-expedition.json](./245990-luminite-era-expedition.json) |
