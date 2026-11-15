@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
 | Water ha Ore no Musume | 195334 | [195334-water-ha-ore-no-musume.json](./195334-water-ha-ore-no-musume.json) |
+| Water Heroes: A Game for Change | 31252 | [31252-water-heroes-a-game-for-change.json](./31252-water-heroes-a-game-for-change.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water In Fire 2 | 153617 | [153617-water-in-fire-2.json](./153617-water-in-fire-2.json) |
 | Water Is All I Can See | 214663 | [214663-water-is-all-i-can-see.json](./214663-water-is-all-i-can-see.json) |
