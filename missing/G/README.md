@@ -7530,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
 | Golf Star | 259554 | [259554-golf-star.json](./259554-golf-star.json) |
+| Golf Star | 39270 | [39270-golf-star.json](./39270-golf-star.json) |
 | Golf Story | 35626 | [35626-golf-story.json](./35626-golf-story.json) |
 | Golf Sunday | 180773 | [180773-golf-sunday.json](./180773-golf-sunday.json) |
 | Golf Together | 173051 | [173051-golf-together.json](./173051-golf-together.json) |
