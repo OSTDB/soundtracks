@@ -6357,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Digital Funkin' | 276091 | [276091-the-amazing-digital-funkin.json](./276091-the-amazing-digital-funkin.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
+| The Amazing Flying Brothers | 69983 | [69983-the-amazing-flying-brothers.json](./69983-the-amazing-flying-brothers.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Meatbot | 22090 | [22090-the-amazing-meatbot.json](./22090-the-amazing-meatbot.json) |
 | The Amazing Odyssey of Growing Up | 134267 | [134267-the-amazing-odyssey-of-growing-up.json](./134267-the-amazing-odyssey-of-growing-up.json) |
@@ -7597,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle | 3051 | [3051-the-bugs-bunny-crazy-castle.json](./3051-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle 2 DX | 280006 | [280006-the-bugs-bunny-crazy-castle-2-dx.json](./280006-the-bugs-bunny-crazy-castle-2-dx.json) |
 | The Bugs Bunny Crazy Castle Atarisized | 289885 | [289885-the-bugs-bunny-crazy-castle-atarisized.json](./289885-the-bugs-bunny-crazy-castle-atarisized.json) |
+| The Bugs Bunny Hare-Brained Adventure | 70009 | [70009-the-bugs-bunny-hare-brained-adventure.json](./70009-the-bugs-bunny-hare-brained-adventure.json) |
 | The Bugs Manor | 273275 | [273275-the-bugs-manor.json](./273275-the-bugs-manor.json) |
 | The Build and Race Hotrod Game | 150283 | [150283-the-build-and-race-hotrod-game.json](./150283-the-build-and-race-hotrod-game.json) |
 | The Builder: Season 1 | 389801 | [389801-the-builder-season-1.json](./389801-the-builder-season-1.json) |
@@ -25516,6 +25518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Lords | 396898 | [396898-time-lords.json](./396898-time-lords.json) |
 | Time Machine | 158795 | [158795-time-machine.json](./158795-time-machine.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
+| Time Machine I - Secret of the Knights | 69469 | [69469-time-machine-i-secret-of-the-knights.json](./69469-time-machine-i-secret-of-the-knights.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
@@ -27608,6 +27611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six 3: Athena Sword | 1848 | [1848-tom-clancys-rainbow-six-3-athena-sword.json](./1848-tom-clancys-rainbow-six-3-athena-sword.json) |
 | Tom Clancy's Rainbow Six 3: Black Arrow | 47321 | [47321-tom-clancys-rainbow-six-3-black-arrow.json](./47321-tom-clancys-rainbow-six-3-black-arrow.json) |
 | Tom Clancy's Rainbow Six 3: Gold Edition | 28989 | [28989-tom-clancys-rainbow-six-3-gold-edition.json](./28989-tom-clancys-rainbow-six-3-gold-edition.json) |
+| Tom Clancy's Rainbow Six 3: Iron Wrath | 69991 | [69991-tom-clancys-rainbow-six-3-iron-wrath.json](./69991-tom-clancys-rainbow-six-3-iron-wrath.json) |
 | Tom Clancy's Rainbow Six 3: Raven Shield | 908 | [908-tom-clancys-rainbow-six-3-raven-shield.json](./908-tom-clancys-rainbow-six-3-raven-shield.json) |
 | Tom Clancy's Rainbow Six Collection | 53802 | [53802-tom-clancys-rainbow-six-collection.json](./53802-tom-clancys-rainbow-six-collection.json) |
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
@@ -30777,6 +30781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
 | Trackwars | 178162 | [178162-trackwars.json](./178162-trackwars.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
+| Tracon II | 70000 | [70000-tracon-ii.json](./70000-tracon-ii.json) |
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tracon!2012:SE - Atlanta Sector | 168960 | [168960-tracon-2012-se-atlanta-sector.json](./168960-tracon-2012-se-atlanta-sector.json) |
 | Tracon!2012:SE - Dubai Sector | 168958 | [168958-tracon-2012-se-dubai-sector.json](./168958-tracon-2012-se-dubai-sector.json) |
