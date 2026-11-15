@@ -6959,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Town Secrets | 350307 | [350307-little-town-secrets.json](./350307-little-town-secrets.json) |
 | Little Town Shooter VR | 204017 | [204017-little-town-shooter-vr.json](./204017-little-town-shooter-vr.json) |
 | Little Toys | 393216 | [393216-little-toys.json](./393216-little-toys.json) |
+| Little Traders | 58965 | [58965-little-traders.json](./58965-little-traders.json) |
 | Little Traveler | 146429 | [146429-little-traveler.json](./146429-little-traveler.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
