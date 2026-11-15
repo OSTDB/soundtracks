@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls and Tower Party | 372372 | [372372-walls-and-tower-party.json](./372372-walls-and-tower-party.json) |
 | Walls Closing In | 125493 | [125493-walls-closing-in.json](./125493-walls-closing-in.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
+| Walls of Rome | 72207 | [72207-walls-of-rome.json](./72207-walls-of-rome.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
 | Wallslide | 32802 | [32802-wallslide.json](./32802-wallslide.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock: Master of the Arcane - Armageddon | 78457 | [78457-warlock-master-of-the-arcane-armageddon.json](./78457-warlock-master-of-the-arcane-armageddon.json) |
 | Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
+| Warlock: The Avenger | 71667 | [71667-warlock-the-avenger.json](./71667-warlock-the-avenger.json) |
 | Warlock: Tower Defence | 103042 | [103042-warlock-tower-defence.json](./103042-warlock-tower-defence.json) |
 | Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
 | Warlock's Gantlet | 252512 | [252512-warlocks-gantlet.json](./252512-warlocks-gantlet.json) |
@@ -3824,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
 | Weltschmerz | 177809 | [177809-weltschmerz.json](./177809-weltschmerz.json) |
 | Wembley International Soccer | 38839 | [38839-wembley-international-soccer.json](./38839-wembley-international-soccer.json) |
+| Wembley Rugby League | 72185 | [72185-wembley-rugby-league.json](./72185-wembley-rugby-league.json) |
 | Wend | 405456 | [405456-wend.json](./405456-wend.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
 | Wendetta 2175 | 38840 | [38840-wendetta-2175.json](./38840-wendetta-2175.json) |
@@ -3961,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
 | Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Justice | 391777 | [391777-western-justice.json](./391777-western-justice.json) |
+| Western Outlaw: Wanted Dead or Alive | 71096 | [71096-western-outlaw-wanted-dead-or-alive.json](./71096-western-outlaw-wanted-dead-or-alive.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
@@ -7535,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
 | WizardPunk | 128124 | [128124-wizardpunk.json](./128124-wizardpunk.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
+| Wizardry Asterisk: Hiiro no Fuuin | 70521 | [70521-wizardry-asterisk-hiiro-no-fuuin.json](./70521-wizardry-asterisk-hiiro-no-fuuin.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry Dimguil | 139301 | [139301-wizardry-dimguil.json](./139301-wizardry-dimguil.json) |
 | Wizardry Empire | 50048 | [50048-wizardry-empire.json](./50048-wizardry-empire.json) |
