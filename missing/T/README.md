@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Online | 384275 | [384275-tanks-online.json](./384275-tanks-online.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
+| Tanks Sweet Tanks | 423841 | [423841-tanks-sweet-tanks.json](./423841-tanks-sweet-tanks.json) |
 | Tanks VR | 82401 | [82401-tanks-vr.json](./82401-tanks-vr.json) |
 | Tanks VS Demons | 118079 | [118079-tanks-vs-demons.json](./118079-tanks-vs-demons.json) |
 | Tanks vs Tanks | 188150 | [188150-tanks-vs-tanks.json](./188150-tanks-vs-tanks.json) |
@@ -14668,6 +14669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Arc | 353787 | [353787-the-long-arc.json](./353787-the-long-arc.json) |
 | The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
 | The Long Dark | 8347 | [8347-the-long-dark.json](./8347-the-long-dark.json) |
+| The Long Dark: Iron Road | 423916 | [423916-the-long-dark-iron-road.json](./423916-the-long-dark-iron-road.json) |
 | The Long Dark: Quiet Apocalypse Edition | 401672 | [401672-the-long-dark-quiet-apocalypse-edition.json](./401672-the-long-dark-quiet-apocalypse-edition.json) |
 | The Long Dark: Tales from the Far Territory | 227238 | [227238-the-long-dark-tales-from-the-far-territory.json](./227238-the-long-dark-tales-from-the-far-territory.json) |
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
@@ -30019,6 +30021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
 | Touhou: An Aftermath of the Index | 403269 | [403269-touhou-an-aftermath-of-the-index.json](./403269-touhou-an-aftermath-of-the-index.json) |
 | Touhou: Beyond Gensokyo | 410558 | [410558-touhou-beyond-gensokyo.json](./410558-touhou-beyond-gensokyo.json) |
+| Touhou: BlackEight | 423926 | [423926-touhou-blackeight.json](./423926-touhou-blackeight.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Combinations With You | 214819 | [214819-touhou-combinations-with-you.json](./214819-touhou-combinations-with-you.json) |
 | Touhou: Dreamland of Infinity | 219356 | [219356-touhou-dreamland-of-infinity.json](./219356-touhou-dreamland-of-infinity.json) |
@@ -35224,6 +35227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Quest: TrollTube | 257811 | [257811-trollface-quest-trolltube.json](./257811-trollface-quest-trolltube.json) |
 | Trollface Quest: Video Games | 259447 | [259447-trollface-quest-video-games.json](./259447-trollface-quest-video-games.json) |
 | Trollface Quest: Video Memes & TV Shows | 259446 | [259446-trollface-quest-video-memes-and-tv-shows.json](./259446-trollface-quest-video-memes-and-tv-shows.json) |
+| Trollheim: Gnomes | 423849 | [423849-trollheim-gnomes.json](./423849-trollheim-gnomes.json) |
 | Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
 | Trollie Wallie | 59288 | [59288-trollie-wallie.json](./59288-trollie-wallie.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
@@ -35456,6 +35460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
+| Troublelings | 423845 | [423845-troublelings.json](./423845-troublelings.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troublemaker 2: Beyond Dream | 271907 | [271907-troublemaker-2-beyond-dream.json](./271907-troublemaker-2-beyond-dream.json) |
 | Troublemaker: Raise Your Gang | 272180 | [272180-troublemaker-raise-your-gang.json](./272180-troublemaker-raise-your-gang.json) |
