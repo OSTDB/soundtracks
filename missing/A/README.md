@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Song in Elyel Nalore | 348123 | [348123-a-song-in-elyel-nalore.json](./348123-a-song-in-elyel-nalore.json) |
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
+| A Song of War: The Last Knight | 77470 | [77470-a-song-of-war-the-last-knight.json](./77470-a-song-of-war-the-last-knight.json) |
 | A Soul of Clay | 181469 | [181469-a-soul-of-clay.json](./181469-a-soul-of-clay.json) |
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
 | A Sound Plan | 111111 | [111111-a-sound-plan.json](./111111-a-sound-plan.json) |
@@ -8023,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 273027 | [273027-alien-syndrome.json](./273027-alien-syndrome.json) |
 | Alien Syndrome | 4478 | [4478-alien-syndrome.json](./4478-alien-syndrome.json) |
 | Alien Tag | 275396 | [275396-alien-tag.json](./275396-alien-tag.json) |
+| Alien Tales | 77495 | [77495-alien-tales.json](./77495-alien-tales.json) |
 | Alien Tentacles: Attack Master | 233411 | [233411-alien-tentacles-attack-master.json](./233411-alien-tentacles-attack-master.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Time | 207416 | [207416-alien-time.json](./207416-alien-time.json) |
@@ -9660,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelies Cafe Halloween | 52395 | [52395-amelies-cafe-halloween.json](./52395-amelies-cafe-halloween.json) |
 | Ameline and the Ultimate Burger | 51719 | [51719-ameline-and-the-ultimate-burger.json](./51719-ameline-and-the-ultimate-burger.json) |
 | Amelite | 195462 | [195462-amelite.json](./195462-amelite.json) |
+| Amelon | 76790 | [76790-amelon.json](./76790-amelon.json) |
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen 11 11 | 383459 | [383459-amen-11-11.json](./383459-amen-11-11.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
@@ -10024,7 +10027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amon | 75934 | [75934-amon.json](./75934-amon.json) |
 | Amon Amarth | 76156 | [76156-amon-amarth.json](./76156-amon-amarth.json) |
 | Amon Ra | 316586 | [316586-amon-ra.json](./316586-amon-ra.json) |
-| Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
 | Among Ass | 141984 | [141984-among-ass.json](./141984-among-ass.json) |
 | Among Ass 2: Butt Warfare | 170900 | [170900-among-ass-2-butt-warfare.json](./170900-among-ass-2-butt-warfare.json) |
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
@@ -15764,6 +15766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon | 394333 | [394333-armageddon.json](./394333-armageddon.json) |
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
+| Armageddon | 77452 | [77452-armageddon.json](./77452-armageddon.json) |
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Empires | 21281 | [21281-armageddon-empires.json](./21281-armageddon-empires.json) |
 | Armageddon Man | 65865 | [65865-armageddon-man.json](./65865-armageddon-man.json) |
