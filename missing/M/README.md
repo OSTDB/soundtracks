@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Ball Deluxe | 70237 | [70237-magic-ball-deluxe.json](./70237-magic-ball-deluxe.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
+| Magic Barrage | 61815 | [61815-magic-barrage.json](./61815-magic-barrage.json) |
 | Magic Barrage - Bitferno | 36142 | [36142-magic-barrage-bitferno.json](./36142-magic-barrage-bitferno.json) |
 | Magic Battle Hasamuncho | 253760 | [253760-magic-battle-hasamuncho.json](./253760-magic-battle-hasamuncho.json) |
 | Magic Bean | 245154 | [245154-magic-bean.json](./245154-magic-bean.json) |
@@ -5667,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
 | Master Healer Kale With Useless Party | 406380 | [406380-master-healer-kale-with-useless-party.json](./406380-master-healer-kale-with-useless-party.json) |
 | Master Heroes | 231555 | [231555-master-heroes.json](./231555-master-heroes.json) |
+| Master Jin Jin's IQ Challenge | 62343 | [62343-master-jin-jins-iq-challenge.json](./62343-master-jin-jins-iq-challenge.json) |
 | Master Karateka | 49077 | [49077-master-karateka.json](./49077-master-karateka.json) |
 | Master Key | 204048 | [204048-master-key.json](./204048-master-key.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
