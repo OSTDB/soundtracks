@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Master Classic: Tournament Edition | 145779 | [145779-bass-master-classic-tournament-edition.json](./145779-bass-master-classic-tournament-edition.json) |
 | Bass Masters Classic | 357181 | [357181-bass-masters-classic.json](./357181-bass-masters-classic.json) |
 | Bass Masters Classic | 49867 | [49867-bass-masters-classic.json](./49867-bass-masters-classic.json) |
+| Bass Masters Classic: Pro Edition | 46285 | [46285-bass-masters-classic-pro-edition.json](./46285-bass-masters-classic-pro-edition.json) |
 | Bass Monkey | 191041 | [191041-bass-monkey.json](./191041-bass-monkey.json) |
 | Bass Pro Shops Fishing Sim World | 139982 | [139982-bass-pro-shops-fishing-sim-world.json](./139982-bass-pro-shops-fishing-sim-world.json) |
 | Bass Pro Shops Trophy Hunter 2007 | 5737 | [5737-bass-pro-shops-trophy-hunter-2007.json](./5737-bass-pro-shops-trophy-hunter-2007.json) |
@@ -19380,6 +19381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls and Cows | 230685 | [230685-bulls-and-cows.json](./230685-bulls-and-cows.json) |
 | Bulls and Cows: Wild West | 292198 | [292198-bulls-and-cows-wild-west.json](./292198-bulls-and-cows-wild-west.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
+| Bulls Versus Blazers and the NBA Playoffs | 46284 | [46284-bulls-versus-blazers-and-the-nba-playoffs.json](./46284-bulls-versus-blazers-and-the-nba-playoffs.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bulls vs Lakers and the NBA Playoffs | 46067 | [46067-bulls-vs-lakers-and-the-nba-playoffs.json](./46067-bulls-vs-lakers-and-the-nba-playoffs.json) |
 | Bullseye | 152485 | [152485-bullseye.json](./152485-bullseye.json) |
