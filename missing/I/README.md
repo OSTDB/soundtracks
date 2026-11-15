@@ -7658,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
 | Iwaihime | 15930 | [15930-iwaihime.json](./15930-iwaihime.json) |
 | Iwaihime: Extra Chapter - Musubihime | 168844 | [168844-iwaihime-extra-chapter-musubihime.json](./168844-iwaihime-extra-chapter-musubihime.json) |
+| Iwaihime: Matsuri | 28291 | [28291-iwaihime-matsuri.json](./28291-iwaihime-matsuri.json) |
 | Iwakutsugi | 356266 | [356266-iwakutsugi.json](./356266-iwakutsugi.json) |
 | iWarehouse: World Tour | 269346 | [269346-iwarehouse-world-tour.json](./269346-iwarehouse-world-tour.json) |
 | Iwate Mountain Dance | 132313 | [132313-iwate-mountain-dance.json](./132313-iwate-mountain-dance.json) |
