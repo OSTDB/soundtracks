@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Punk | 175690 | [175690-wasteland-punk.json](./175690-wasteland-punk.json) |
 | Wasteland Raiders | 121805 | [121805-wasteland-raiders.json](./121805-wasteland-raiders.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
+| Wasteland Remastered | 129143 | [129143-wasteland-remastered.json](./129143-wasteland-remastered.json) |
 | Wasteland Spirit | 383139 | [383139-wasteland-spirit.json](./383139-wasteland-spirit.json) |
 | Wasteland Story | 249179 | [249179-wasteland-story.json](./249179-wasteland-story.json) |
 | Wasteland Survival | 284617 | [284617-wasteland-survival.json](./284617-wasteland-survival.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
 | Who Dunit | 40552 | [40552-who-dunit.json](./40552-who-dunit.json) |
+| Who Framed Roger Rabbit | 12826 | [12826-who-framed-roger-rabbit.json](./12826-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 72470 | [72470-who-framed-roger-rabbit.json](./72470-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
 | Who Gave Them Weapons | 418853 | [418853-who-gave-them-weapons.json](./418853-who-gave-them-weapons.json) |
@@ -7449,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz | 47151 | [47151-wiz.json](./47151-wiz.json) |
+| Wiz 'n' Liz | 12829 | [12829-wiz-n-liz.json](./12829-wiz-n-liz.json) |
 | Wiz Anniversary | 79674 | [79674-wiz-anniversary.json](./79674-wiz-anniversary.json) |
 | Wiz Anniversary Funta! feat. Ruru | 60480 | [60480-wiz-anniversary-funta-feat-ruru.json](./60480-wiz-anniversary-funta-feat-ruru.json) |
 | Wiz Biz | 13047 | [13047-wiz-biz.json](./13047-wiz-biz.json) |
@@ -9005,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Football Challenge '98 | 217772 | [217772-world-football-challenge-98.json](./217772-world-football-challenge-98.json) |
 | World Football Champion | 100810 | [100810-world-football-champion.json](./100810-world-football-champion.json) |
 | World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
+| World Games | 12831 | [12831-world-games.json](./12831-world-games.json) |
 | World Games | 217704 | [217704-world-games.json](./217704-world-games.json) |
 | World Games | 304984 | [304984-world-games.json](./304984-world-games.json) |
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
