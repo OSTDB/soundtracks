@@ -8427,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crackpet Show: Happy Tree Friends Edition | 262228 | [262228-the-crackpet-show-happy-tree-friends-edition.json](./262228-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
+| The Crackwell Legacy | 56665 | [56665-the-crackwell-legacy.json](./56665-the-crackwell-legacy.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
 | The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
 | The Cradle of Eve | 145734 | [145734-the-cradle-of-eve.json](./145734-the-cradle-of-eve.json) |
@@ -11695,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harvest | 130220 | [130220-the-harvest.json](./130220-the-harvest.json) |
 | The Harvest | 66425 | [66425-the-harvest.json](./66425-the-harvest.json) |
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
+| The Harvest VR | 56686 | [56686-the-harvest-vr.json](./56686-the-harvest-vr.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hatchings | 397859 | [397859-the-hatchings.json](./397859-the-hatchings.json) |
 | The Hatchling | 348508 | [348508-the-hatchling.json](./348508-the-hatchling.json) |
@@ -16329,6 +16331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painter | 185577 | [185577-the-painter.json](./185577-the-painter.json) |
 | The Painter of Devil's Fangs | 184666 | [184666-the-painter-of-devils-fangs.json](./184666-the-painter-of-devils-fangs.json) |
+| The Painter's Apprentice | 56706 | [56706-the-painters-apprentice.json](./56706-the-painters-apprentice.json) |
 | The Painter's Playground | 75604 | [75604-the-painters-playground.json](./75604-the-painters-playground.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
@@ -16724,6 +16727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
 | The Polynesian Cultural Center VR Experience | 118095 | [118095-the-polynesian-cultural-center-vr-experience.json](./118095-the-polynesian-cultural-center-vr-experience.json) |
+| The Polyphonic Spree: The Quest for the Rest | 56705 | [56705-the-polyphonic-spree-the-quest-for-the-rest.json](./56705-the-polyphonic-spree-the-quest-for-the-rest.json) |
 | The Pond | 397610 | [397610-the-pond.json](./397610-the-pond.json) |
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
 | The Pony Factory | 137080 | [137080-the-pony-factory.json](./137080-the-pony-factory.json) |
@@ -16745,6 +16749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pow-er | 330690 | [330690-the-pow-er.json](./330690-the-pow-er.json) |
 | The Powder Toy | 79055 | [79055-the-powder-toy.json](./79055-the-powder-toy.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
+| The Power Factory | 56659 | [56659-the-power-factory.json](./56659-the-power-factory.json) |
 | The Power Latch Kid | 152493 | [152493-the-power-latch-kid.json](./152493-the-power-latch-kid.json) |
 | The Power of Blood | 184775 | [184775-the-power-of-blood.json](./184775-the-power-of-blood.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
@@ -28824,6 +28829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedo Run | 179324 | [179324-torpedo-run.json](./179324-torpedo-run.json) |
 | Torpedo Shoot | 385769 | [385769-torpedo-shoot.json](./385769-torpedo-shoot.json) |
 | Torpedo Strike | 88726 | [88726-torpedo-strike.json](./88726-torpedo-strike.json) |
+| Torpedo Terror | 56701 | [56701-torpedo-terror.json](./56701-torpedo-terror.json) |
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
 | Torq's Late to the Grand Prix in the Attic Upstairs | 315747 | [315747-torqs-late-to-the-grand-prix-in-the-attic-upstairs.json](./315747-torqs-late-to-the-grand-prix-in-the-attic-upstairs.json) |
