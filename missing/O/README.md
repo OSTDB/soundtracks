@@ -4930,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
 | Osk | 122149 | [122149-osk.json](./122149-osk.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
+| Osman | 41073 | [41073-osman.json](./41073-osman.json) |
 | Osman Gazi | 158311 | [158311-osman-gazi.json](./158311-osman-gazi.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
 | Osmanli'nin Onuru | 108130 | [108130-osmanlinin-onuru.json](./108130-osmanlinin-onuru.json) |
