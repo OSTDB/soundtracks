@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
+| Sabre Ace: Conflict Over Korea | 63470 | [63470-sabre-ace-conflict-over-korea.json](./63470-sabre-ace-conflict-over-korea.json) |
 | Sabre Team | 12757 | [12757-sabre-team.json](./12757-sabre-team.json) |
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
 | Sabre Wulf | 214351 | [214351-sabre-wulf.json](./214351-sabre-wulf.json) |
@@ -5767,6 +5768,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
 | Seina: a Tale Of Spirits | 380792 | [380792-seina-a-tale-of-spirits.json](./380792-seina-a-tale-of-spirits.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
+| Seinarukana Gaiden - Seirei Tenshou ~Crystal Friends~ | 63448 | [63448-seinarukana-gaiden-seirei-tenshou-crystal-friends.json](./63448-seinarukana-gaiden-seirei-tenshou-crystal-friends.json) |
+| Seinarukana Special Fan Disc | 63450 | [63450-seinarukana-special-fan-disc.json](./63450-seinarukana-special-fan-disc.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
 | Seipoi Densetsu | 282609 | [282609-seipoi-densetsu.json](./282609-seipoi-densetsu.json) |
 | Seirei Gari | 48398 | [48398-seirei-gari.json](./48398-seirei-gari.json) |
@@ -5774,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seirei Senshi Spriggan | 37617 | [37617-seirei-senshi-spriggan.json](./37617-seirei-senshi-spriggan.json) |
 | Seirei Shinseiki Fhey Area | 46391 | [46391-seirei-shinseiki-fhey-area.json](./46391-seirei-shinseiki-fhey-area.json) |
 | Seirei Shoukan: Princess of Darkness | 138925 | [138925-seirei-shoukan-princess-of-darkness.json](./138925-seirei-shoukan-princess-of-darkness.json) |
+| Seirei Tenshou ~Kowareyuku Sekai no Shoujotachi~ | 63451 | [63451-seirei-tenshou-kowareyuku-sekai-no-shoujotachi.json](./63451-seirei-tenshou-kowareyuku-sekai-no-shoujotachi.json) |
 | Seireiki Rayblade | 166591 | [166591-seireiki-rayblade.json](./166591-seireiki-rayblade.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryou School Assault Club | 97538 | [97538-seiryou-school-assault-club.json](./97538-seiryou-school-assault-club.json) |
@@ -17631,6 +17635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
 | Soccer | 86375 | [86375-soccer.json](./86375-soccer.json) |
 | Soccer - Ultimate Team | 104472 | [104472-soccer-ultimate-team.json](./104472-soccer-ultimate-team.json) |
+| Soccer '97 | 63480 | [63480-soccer-97.json](./63480-soccer-97.json) |
 | Soccer 2 | 245405 | [245405-soccer-2.json](./245405-soccer-2.json) |
 | Soccer 2 | 346765 | [346765-soccer-2.json](./346765-soccer-2.json) |
 | Soccer 3 | 346767 | [346767-soccer-3.json](./346767-soccer-3.json) |
@@ -23248,6 +23253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specters Factory 1 | 359661 | [359661-specters-factory-1.json](./359661-specters-factory-1.json) |
 | Specters of the Deep | 370379 | [370379-specters-of-the-deep.json](./370379-specters-of-the-deep.json) |
 | Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
+| Spectipede | 63482 | [63482-spectipede.json](./63482-spectipede.json) |
 | Spectography | 328929 | [328929-spectography.json](./328929-spectography.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
@@ -24392,6 +24398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
 | Spin Up | 277638 | [277638-spin-up.json](./277638-spin-up.json) |
+| Spin Wars | 63462 | [63462-spin-wars.json](./63462-spin-wars.json) |
 | Spin-Tyres 2018 Offroad | 96795 | [96795-spin-tyres-2018-offroad.json](./96795-spin-tyres-2018-offroad.json) |
 | Spina the Bee | 270258 | [270258-spina-the-bee.json](./270258-spina-the-bee.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
@@ -24704,6 +24711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: The Silver Arrow | 140227 | [140227-spirits-of-mystery-the-silver-arrow.json](./140227-spirits-of-mystery-the-silver-arrow.json) |
 | Spirits of Mystery: The Silver Arrow - Collector's Edition | 93806 | [93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json](./93806-spirits-of-mystery-the-silver-arrow-collectors-edition.json) |
 | Spirits of Mystery: Whisper of the Past | 302172 | [302172-spirits-of-mystery-whisper-of-the-past.json](./302172-spirits-of-mystery-whisper-of-the-past.json) |
+| Spirits of Spring | 63455 | [63455-spirits-of-spring.json](./63455-spirits-of-spring.json) |
 | Spirits of the Forest | 183839 | [183839-spirits-of-the-forest.json](./183839-spirits-of-the-forest.json) |
 | Spirits of the Hellements | 173880 | [173880-spirits-of-the-hellements.json](./173880-spirits-of-the-hellements.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
@@ -24747,6 +24755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spit Wad Willy | 93252 | [93252-spit-wad-willy.json](./93252-spit-wad-willy.json) |
+| Spitan Special Box | 63449 | [63449-spitan-special-box.json](./63449-spitan-special-box.json) |
 | Spitball Sparky | 145236 | [145236-spitball-sparky.json](./145236-spitball-sparky.json) |
 | Spite & Malice | 175485 | [175485-spite-and-malice.json](./175485-spite-and-malice.json) |
 | Spite & Malice | 256505 | [256505-spite-and-malice.json](./256505-spite-and-malice.json) |
@@ -31511,6 +31520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
 | Street Racing: United | 150379 | [150379-street-racing-united.json](./150379-street-racing-united.json) |
+| Street Rash | 62907 | [62907-street-rash.json](./62907-street-rash.json) |
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Rider | 369456 | [369456-street-rider.json](./369456-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
