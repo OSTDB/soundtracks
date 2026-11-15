@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keebo's Adventure | 293277 | [293277-keebos-adventure.json](./293277-keebos-adventure.json) |
 | Keef the Thief: A Boy and His Lockpick | 8930 | [8930-keef-the-thief-a-boy-and-his-lockpick.json](./8930-keef-the-thief-a-boy-and-his-lockpick.json) |
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
+| Keelhauled | 428135 | [428135-keelhauled.json](./428135-keelhauled.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keen | 30163 | [30163-keen.json](./30163-keen.json) |
 | Keen Commander World | 80004 | [80004-keen-commander-world.json](./80004-keen-commander-world.json) |
