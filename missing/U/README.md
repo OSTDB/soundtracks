@@ -3945,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
+| Usurpatio | 421001 | [421001-usurpatio.json](./421001-usurpatio.json) |
 | Usurpator | 120025 | [120025-usurpator.json](./120025-usurpator.json) |
 | Usurper | 267788 | [267788-usurper.json](./267788-usurper.json) |
 | Usurper | 345530 | [345530-usurper.json](./345530-usurper.json) |
