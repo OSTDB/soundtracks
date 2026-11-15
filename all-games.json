@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T05:56:11.247Z",
-  "total_soundtracks": 3396,
+  "generated_at": "2026-11-15T06:05:56.423Z",
+  "total_soundtracks": 3397,
   "games": [
     {
       "igdb_id": 292844,
@@ -32801,6 +32801,20 @@
         {
           "album_name": "Soulstone Survivors (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1jQC0EFLQg0xX6PKD9kEWG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 106821,
+      "game_name": "Soundfall",
+      "game_url": "https://ostdb.net/games/soundfall",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b6f4455c3096c7e730b16f0",
+      "albums": [
+        {
+          "album_name": "Soundfall Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5bZzeJ0rOnhmAhQGLXsqcc",
           "apple_music_url": "",
           "album_link_url": ""
         }
