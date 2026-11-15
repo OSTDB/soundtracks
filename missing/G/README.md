@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Ganzworker | 131774 | [131774-ganzworker.json](./131774-ganzworker.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
+| Gaokao.Love.100Days | 26586 | [26586-gaokao-love-100days.json](./26586-gaokao-love-100days.json) |
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gap Monsters | 325793 | [325793-gap-monsters.json](./325793-gap-monsters.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
