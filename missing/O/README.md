@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onechanbara Z: Kagura | 65700 | [65700-onechanbara-z-kagura.json](./65700-onechanbara-z-kagura.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | Onechanbara Z2: Chaos | 11004 | [11004-onechanbara-z2-chaos.json](./11004-onechanbara-z2-chaos.json) |
+| Onechanbara Z2: Chaos - Banana Split Limited Edition | 42904 | [42904-onechanbara-z2-chaos-banana-split-limited-edition.json](./42904-onechanbara-z2-chaos-banana-split-limited-edition.json) |
 | Onechanbara Z2: Chaos - Black Rose | 343606 | [343606-onechanbara-z2-chaos-black-rose.json](./343606-onechanbara-z2-chaos-black-rose.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onee Chanbara Origin | 139921 | [139921-onee-chanbara-origin.json](./139921-onee-chanbara-origin.json) |
@@ -6140,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
+| Overcooked: Gourmet Edition | 42933 | [42933-overcooked-gourmet-edition.json](./42933-overcooked-gourmet-edition.json) |
 | Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
 | Overcooked! 2: Carnival of Chaos | 122083 | [122083-overcooked-2-carnival-of-chaos.json](./122083-overcooked-2-carnival-of-chaos.json) |
 | Overcooked! 2: Chinese New Year | 143177 | [143177-overcooked-2-chinese-new-year.json](./143177-overcooked-2-chinese-new-year.json) |
