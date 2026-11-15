@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
 | Magic Planet Snack | 283547 | [283547-magic-planet-snack.json](./283547-magic-planet-snack.json) |
+| Magic Planet Snack Deluxe | 63481 | [63481-magic-planet-snack-deluxe.json](./63481-magic-planet-snack-deluxe.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
@@ -5457,6 +5458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
 | Mashin Eiyuuden Wataru 2: Shinsei Ryuujin-maru Sanjou! | 284454 | [284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json](./284454-mashin-eiyuuden-wataru-2-shinsei-ryuujin-maru-sanjou.json) |
 | Mashin Eiyuuden Wataru 2: Totsugeki! New Ryuujin-maru | 284456 | [284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json](./284456-mashin-eiyuuden-wataru-2-totsugeki-new-ryuujin-maru.json) |
+| Mashin Eiyuuden Wataru Gaiden | 63478 | [63478-mashin-eiyuuden-wataru-gaiden.json](./63478-mashin-eiyuuden-wataru-gaiden.json) |
 | Mashina | 329290 | [329290-mashina.json](./329290-mashina.json) |
 | Mashinky | 55590 | [55590-mashinky.json](./55590-mashinky.json) |
 | Mashiro Witch: Midnight Marchen | 287007 | [287007-mashiro-witch-midnight-marchen.json](./287007-mashiro-witch-midnight-marchen.json) |
@@ -7156,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MC Hammer: U Can't Touch This | 198811 | [198811-mc-hammer-u-cant-touch-this.json](./198811-mc-hammer-u-cant-touch-this.json) |
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
 | MC Lars: The Video Game | 30965 | [30965-mc-lars-the-video-game.json](./30965-mc-lars-the-video-game.json) |
+| McArthur's War: Battles For Korea | 63469 | [63469-mcarthurs-war-battles-for-korea.json](./63469-mcarthurs-war-battles-for-korea.json) |
 | MCAS Simulation | 131226 | [131226-mcas-simulation.json](./131226-mcas-simulation.json) |
 | McBelle Manor | 321492 | [321492-mcbelle-manor.json](./321492-mcbelle-manor.json) |
 | McCourty Twins: INT Challenge | 100648 | [100648-mccourty-twins-int-challenge.json](./100648-mccourty-twins-int-challenge.json) |
@@ -12511,6 +12514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
 | Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
 | Midnight Kun | 280114 | [280114-midnight-kun.json](./280114-midnight-kun.json) |
+| Midnight Landing | 62905 | [62905-midnight-landing.json](./62905-midnight-landing.json) |
 | Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
 | Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
 | Midnight Laundry | 156798 | [156798-midnight-laundry.json](./156798-midnight-laundry.json) |
@@ -17205,6 +17209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
 | MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
 | Monkeynauts: Merge Monkeys! | 233533 | [233533-monkeynauts-merge-monkeys.json](./233533-monkeynauts-merge-monkeys.json) |
+| MonkeyRoids | 63474 | [63474-monkeyroids.json](./63474-monkeyroids.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
 | Monkeys & Dragons | 110922 | [110922-monkeys-and-dragons.json](./110922-monkeys-and-dragons.json) |
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
@@ -18261,6 +18266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | Monsters! | 36071 | [36071-monsters.json](./36071-monsters.json) |
+| Monsters! | 63493 | [63493-monsters.json](./63493-monsters.json) |
 | Monsters! | 79776 | [79776-monsters.json](./79776-monsters.json) |
 | Monsters' Den Chronicles | 121171 | [121171-monsters-den-chronicles.json](./121171-monsters-den-chronicles.json) |
 | Monsters' Den: Book of Dread | 32035 | [32035-monsters-den-book-of-dread.json](./32035-monsters-den-book-of-dread.json) |
@@ -22845,6 +22851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Forbidden Romance | 299649 | [299649-my-forbidden-romance.json](./299649-my-forbidden-romance.json) |
 | My Forced Yakuza Fiancée | 257313 | [257313-my-forced-yakuza-fiancee.json](./257313-my-forced-yakuza-fiancee.json) |
 | My Forest Spirit Girlfriend | 207205 | [207205-my-forest-spirit-girlfriend.json](./207205-my-forest-spirit-girlfriend.json) |
+| My Forged Wedding | 63491 | [63491-my-forged-wedding.json](./63491-my-forged-wedding.json) |
 | My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
@@ -23700,6 +23707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Angel | 340342 | [340342-my-sweet-angel.json](./340342-my-sweet-angel.json) |
 | My Sweet Ants! | 156820 | [156820-my-sweet-ants.json](./156820-my-sweet-ants.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
+| My Sweet Bodyguard | 63489 | [63489-my-sweet-bodyguard.json](./63489-my-sweet-bodyguard.json) |
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Confession | 133047 | [133047-my-sweet-confession.json](./133047-my-sweet-confession.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
