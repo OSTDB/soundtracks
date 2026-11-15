@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | Jewels of the Mysterious Woodland: Mountains & Clouds Jewel Match | 172344 | [172344-jewels-of-the-mysterious-woodland-mountains-and-clouds-jewel-match.json](./172344-jewels-of-the-mysterious-woodland-mountains-and-clouds-jewel-match.json) |
 | Jewels of the Nile | 90524 | [90524-jewels-of-the-nile.json](./90524-jewels-of-the-nile.json) |
+| Jewels of the Oracle | 45488 | [45488-jewels-of-the-oracle.json](./45488-jewels-of-the-oracle.json) |
 | Jewels of the Tropical Lost Island | 44066 | [44066-jewels-of-the-tropical-lost-island.json](./44066-jewels-of-the-tropical-lost-island.json) |
 | Jewels of the Wild West | 181643 | [181643-jewels-of-the-wild-west.json](./181643-jewels-of-the-wild-west.json) |
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
