@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T01:06:13.055Z",
-  "total_soundtracks": 3349,
+  "generated_at": "2026-11-15T01:16:22.145Z",
+  "total_soundtracks": 3360,
   "games": [
     {
       "igdb_id": 292844,
@@ -4325,6 +4325,20 @@
         {
           "album_name": "Bit.Trip Core Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6lmq3RC6LiqbEZ7IOXSQfq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15387,
+      "game_name": "Bit.Trip Fate",
+      "game_url": "https://ostdb.net/games/bit-trip-fate",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b240773b1893f1df0f1e2789",
+      "albums": [
+        {
+          "album_name": "Bit.Trip Fate Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0fHPoSYYnmjOey0TgTnQua",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -8673,6 +8687,20 @@
       ]
     },
     {
+      "igdb_id": 347032,
+      "game_name": "Dead Take",
+      "game_url": "https://ostdb.net/games/dead-take",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273365d7643548981a2656e18e7",
+      "albums": [
+        {
+          "album_name": "Dead Take (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4UPpNSZd1bWMf1jFxkllq4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 204239,
       "game_name": "Deadlink",
       "game_url": "https://ostdb.net/games/deadlink",
@@ -12991,6 +13019,20 @@
       ]
     },
     {
+      "igdb_id": 10319,
+      "game_name": "Final Fantasy XI: Seekers of Adoulin",
+      "game_url": "https://ostdb.net/games/final-fantasy-xi-seekers-of-adoulin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736a4da5a899ed7f398302a470",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY XI Seekers of Adoulin Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0Wy7zl0l7jweAK759AZiQw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 405,
       "game_name": "Final Fantasy XI: Treasures of Aht Urhgan",
       "game_url": "https://ostdb.net/games/final-fantasy-xi-treasures-of-aht-urhgan",
@@ -15059,6 +15101,20 @@
         {
           "album_name": "Golf It Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7oEVJkhjzuLQ5cOSsmqTzO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11080,
+      "game_name": "Goliath",
+      "game_url": "https://ostdb.net/games/goliath",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273074bfd673464056870ee83cb",
+      "albums": [
+        {
+          "album_name": "Goliath Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5eaCtGOEU5q3eNCyErDy0E",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19323,6 +19379,20 @@
       ]
     },
     {
+      "igdb_id": 12885,
+      "game_name": "Laserlife",
+      "game_url": "https://ostdb.net/games/laserlife",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b051fd30b4b992d908110c19",
+      "albums": [
+        {
+          "album_name": "Laserlife (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4luixWcJyw9f3jyOyFdAEK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 205064,
       "game_name": "Last Call BBS",
       "game_url": "https://ostdb.net/games/last-call-bbs",
@@ -22308,6 +22378,20 @@
           "album_name": "Metroid Zero Mission: Iconic Themes",
           "spotify_url": "https://open.spotify.com/album/4TQhtK4W4UX336NOi8Dzp6",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 347240,
+      "game_name": "Mexican Ninja",
+      "game_url": "https://ostdb.net/games/mexican-ninja",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27315b87b8d6132bc92856fa02d",
+      "albums": [
+        {
+          "album_name": "Mexican Ninja (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7ybPKh9Ixhae0e5S1lpSyj",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27277,6 +27361,20 @@
       ]
     },
     {
+      "igdb_id": 10746,
+      "game_name": "Qbeh-1: The Atlas Cube",
+      "game_url": "https://ostdb.net/games/qbeh-1-the-atlas-cube",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734b1318b63e9ba4cd471553b6",
+      "albums": [
+        {
+          "album_name": "Qbeh-1: The Atlas Cube (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1lYa0wEdNKgPIy94Kp2NgQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 354547,
       "game_name": "QQQbeats!!!",
       "game_url": "https://ostdb.net/games/qqqbeats",
@@ -29455,6 +29553,20 @@
         {
           "album_name": "Runaway 3 - A Twist of Fate (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0zh21RwHVQrnlMdgR4djQ2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 10801,
+      "game_name": "Runers",
+      "game_url": "https://ostdb.net/games/runers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e3ab3c46ee98c503132b61a",
+      "albums": [
+        {
+          "album_name": "Runers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6umGoA7iId790781B576nZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34643,6 +34755,20 @@
       ]
     },
     {
+      "igdb_id": 9029,
+      "game_name": "Syder Arcade",
+      "game_url": "https://ostdb.net/games/syder-arcade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a3028fe335e48d75879e0c38",
+      "albums": [
+        {
+          "album_name": "Syder Arcade (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4q22XynfrraCKBOQYfF7ZU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 217601,
       "game_name": "Synduality: Echo of Ada",
       "game_url": "https://ostdb.net/games/synduality-echo-of-ada",
@@ -35279,6 +35405,20 @@
         {
           "album_name": "TELEFORUM (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/76CNgxJgdGw4kwaweU2abr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11731,
+      "game_name": "Telepath Tactics",
+      "game_url": "https://ostdb.net/games/telepath-tactics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c25a451a93a3132277bbcb4e",
+      "albums": [
+        {
+          "album_name": "Telepath Tactics (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21Kusbtm7JFd1Aa1zJrPB3",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37063,6 +37203,20 @@
         {
           "album_name": "The Mageseeker: A League of Legends Story (Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1CRYIMT6xiJDAHbKIWtUTH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 10995,
+      "game_name": "The Masterplan",
+      "game_url": "https://ostdb.net/games/the-masterplan",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273de37259fd0d9be2b1cf22e51",
+      "albums": [
+        {
+          "album_name": "The Masterplan Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4nzeJDLQDwLW9bJPNhHjRK",
           "apple_music_url": "",
           "album_link_url": ""
         }
