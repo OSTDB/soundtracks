@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Wars 3 | 1690 | [1690-game-boy-wars-3.json](./1690-game-boy-wars-3.json) |
 | Game Boy Wars Advance 1+2 | 61958 | [61958-game-boy-wars-advance-1-2.json](./61958-game-boy-wars-advance-1-2.json) |
 | Game Boy Wars Turbo | 1688 | [1688-game-boy-wars-turbo.json](./1688-game-boy-wars-turbo.json) |
+| Game Boy Wars Turbo | 48983 | [48983-game-boy-wars-turbo.json](./48983-game-boy-wars-turbo.json) |
 | Game Breaker | 127449 | [127449-game-breaker.json](./127449-game-breaker.json) |
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
@@ -6629,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Klaw | 368985 | [368985-god-klaw.json](./368985-god-klaw.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
 | God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
+| God Medicine: Fukkoku-ban | 48985 | [48985-god-medicine-fukkoku-ban.json](./48985-god-medicine-fukkoku-ban.json) |
 | God Mode | 8949 | [8949-god-mode.json](./8949-god-mode.json) |
 | God Monster | 114462 | [114462-god-monster.json](./114462-god-monster.json) |
 | God of Arrows | 57190 | [57190-god-of-arrows.json](./57190-god-of-arrows.json) |
