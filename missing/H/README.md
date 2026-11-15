@@ -6989,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Ruin | 6806 | [6806-heroes-of-ruin.json](./6806-heroes-of-ruin.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
+| Heroes of Shadow Guard | 33587 | [33587-heroes-of-shadow-guard.json](./33587-heroes-of-shadow-guard.json) |
 | Heroes of Shaola | 57770 | [57770-heroes-of-shaola.json](./57770-heroes-of-shaola.json) |
 | Heroes of Sokoban | 381991 | [381991-heroes-of-sokoban.json](./381991-heroes-of-sokoban.json) |
 | Heroes of Sokoban II: Monsters | 421256 | [421256-heroes-of-sokoban-ii-monsters.json](./421256-heroes-of-sokoban-ii-monsters.json) |
