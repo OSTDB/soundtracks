@@ -3985,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltron: Defender of the Universe | 24237 | [24237-voltron-defender-of-the-universe.json](./24237-voltron-defender-of-the-universe.json) |
 | Voltus' Neon Nightmare - Colossal Cure | 419930 | [419930-voltus-neon-nightmare-colossal-cure.json](./419930-voltus-neon-nightmare-colossal-cure.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
+| Volumax | 50769 | [50769-volumax.json](./50769-volumax.json) |
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
 | Volume 1-3 Complete DLC Bundle | 231226 | [231226-volume-1-3-complete-dlc-bundle.json](./231226-volume-1-3-complete-dlc-bundle.json) |
 | Volume Up | 122075 | [122075-volume-up.json](./122075-volume-up.json) |
