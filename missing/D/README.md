@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Empire | 83872 | [83872-dark-empire.json](./83872-dark-empire.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
+| Dark Envoy | 121588 | [121588-dark-envoy.json](./121588-dark-envoy.json) |
 | Dark Era | 303456 | [303456-dark-era.json](./303456-dark-era.json) |
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
 | Dark Erosion: Endless Siege | 346165 | [346165-dark-erosion-endless-siege.json](./346165-dark-erosion-endless-siege.json) |
