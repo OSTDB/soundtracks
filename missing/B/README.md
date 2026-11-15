@@ -13461,6 +13461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
 | Boating Simulator 2022 | 199458 | [199458-boating-simulator-2022.json](./199458-boating-simulator-2022.json) |
 | BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
+| Boatrocker | 424539 | [424539-boatrocker.json](./424539-boatrocker.json) |
 | Boats N' Hoes | 298448 | [298448-boats-n-hoes.json](./298448-boats-n-hoes.json) |
 | Boats.io | 176540 | [176540-boats-io.json](./176540-boats-io.json) |
 | Boaty McBoatface | 99872 | [99872-boaty-mcboatface.json](./99872-boaty-mcboatface.json) |
@@ -18234,6 +18235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
 | Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
 | Brushlings Pale Moon | 155968 | [155968-brushlings-pale-moon.json](./155968-brushlings-pale-moon.json) |
+| Brushpath | 424538 | [424538-brushpath.json](./424538-brushpath.json) |
 | Brushwood Buddies | 33692 | [33692-brushwood-buddies.json](./33692-brushwood-buddies.json) |
 | Brushwood Saga | 297938 | [297938-brushwood-saga.json](./297938-brushwood-saga.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
@@ -19068,6 +19070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggos | 151331 | [151331-buggos.json](./151331-buggos.json) |
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
+| Buggos: Death Squad | 424550 | [424550-buggos-death-squad.json](./424550-buggos-death-squad.json) |
 | Buggotchi | 323604 | [323604-buggotchi.json](./323604-buggotchi.json) |
 | Buggy | 35080 | [35080-buggy.json](./35080-buggy.json) |
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
