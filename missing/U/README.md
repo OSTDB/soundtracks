@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Realistic Mine | 416820 | [416820-ultra-realistic-mine.json](./416820-ultra-realistic-mine.json) |
 | Ultra Resort Keroncuel | 172232 | [172232-ultra-resort-keroncuel.json](./172232-ultra-resort-keroncuel.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
+| Ultra Samurai Coaster | 44152 | [44152-ultra-samurai-coaster.json](./44152-ultra-samurai-coaster.json) |
 | Ultra Savage | 117376 | [117376-ultra-savage.json](./117376-ultra-savage.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Seven | 44428 | [44428-ultra-seven.json](./44428-ultra-seven.json) |
@@ -2190,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Unfinished Business 4: Taking Care of Business | 252294 | [252294-underworld-unfinished-business-4-taking-care-of-business.json](./252294-underworld-unfinished-business-4-taking-care-of-business.json) |
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underworld: Bloodline | 205988 | [205988-underworld-bloodline.json](./205988-underworld-bloodline.json) |
+| Underworld: The Eternal War | 43567 | [43567-underworld-the-eternal-war.json](./43567-underworld-the-eternal-war.json) |
 | Underworld: The Shelter | 249590 | [249590-underworld-the-shelter.json](./249590-underworld-the-shelter.json) |
 | Underworlds | 67816 | [67816-underworlds.json](./67816-underworlds.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
