@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
 | Magic: The Gathering - Spells of the Ancients | 79082 | [79082-magic-the-gathering-spells-of-the-ancients.json](./79082-magic-the-gathering-spells-of-the-ancients.json) |
+| Magic: The Gathering - Tactics | 50881 | [50881-magic-the-gathering-tactics.json](./50881-magic-the-gathering-tactics.json) |
 | Magic: The Gathering 7th Edition Starter | 267507 | [267507-magic-the-gathering-7th-edition-starter.json](./267507-magic-the-gathering-7th-edition-starter.json) |
 | Magic: The Gathering Arena | 54538 | [54538-magic-the-gathering-arena.json](./54538-magic-the-gathering-arena.json) |
 | Magic: The Gathering Online | 79081 | [79081-magic-the-gathering-online.json](./79081-magic-the-gathering-online.json) |
@@ -12370,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mictlan: An Ancient Mythical Tale | 154807 | [154807-mictlan-an-ancient-mythical-tale.json](./154807-mictlan-an-ancient-mythical-tale.json) |
+| Micy Roll | 50798 | [50798-micy-roll.json](./50798-micy-roll.json) |
 | Mid | 372231 | [372231-mid.json](./372231-mid.json) |
 | Mid or Feed | 129414 | [129414-mid-or-feed.json](./129414-mid-or-feed.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
@@ -15801,6 +15803,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Spirits | 366957 | [366957-mixed-spirits.json](./366957-mixed-spirits.json) |
 | Mixed Super Mario Bros. U | 314111 | [314111-mixed-super-mario-bros-u.json](./314111-mixed-super-mario-bros-u.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
+| Mixed-Up Fairy Tales | 50903 | [50903-mixed-up-fairy-tales.json](./50903-mixed-up-fairy-tales.json) |
+| Mixed-Up Mother Goose | 50899 | [50899-mixed-up-mother-goose.json](./50899-mixed-up-mother-goose.json) |
 | Mixee Labs | 120221 | [120221-mixee-labs.json](./120221-mixee-labs.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
 | MiXem Delux | 70289 | [70289-mixem-delux.json](./70289-mixem-delux.json) |
@@ -20033,6 +20037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Rally 2 | 246352 | [246352-motor-rally-2.json](./246352-motor-rally-2.json) |
 | Motor Rally 2 | 358836 | [358836-motor-rally-2.json](./358836-motor-rally-2.json) |
+| Motor Rock | 50764 | [50764-motor-rock.json](./50764-motor-rock.json) |
 | Motor Show | 85957 | [85957-motor-show.json](./85957-motor-show.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Strike: Immortal Legends | 26210 | [26210-motor-strike-immortal-legends.json](./26210-motor-strike-immortal-legends.json) |
@@ -20106,6 +20111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
 | Motorhome: Traveling North America 4 - Collector's Edition | 407271 | [407271-motorhome-traveling-north-america-4-collectors-edition.json](./407271-motorhome-traveling-north-america-4-collectors-edition.json) |
+| Motorm4x: Offroad Extreme | 50767 | [50767-motorm4x-offroad-extreme.json](./50767-motorm4x-offroad-extreme.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
 | Motorslice | 304745 | [304745-motorslice.json](./304745-motorslice.json) |
