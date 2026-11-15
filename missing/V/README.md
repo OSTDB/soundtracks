@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Great Rome City | 172934 | [172934-vr-great-rome-city.json](./172934-vr-great-rome-city.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
 | VR Guardians | 164234 | [164234-vr-guardians.json](./164234-vr-guardians.json) |
+| VR Guest | 37408 | [37408-vr-guest.json](./37408-vr-guest.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
 | VR Harem Sex | 295359 | [295359-vr-harem-sex.json](./295359-vr-harem-sex.json) |
 | VR Harem Sex: Hikari | 301659 | [301659-vr-harem-sex-hikari.json](./301659-vr-harem-sex-hikari.json) |
