@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
 | Game Market Mayhem | 417159 | [417159-game-market-mayhem.json](./417159-game-market-mayhem.json) |
 | Game Master II | 41747 | [41747-game-master-ii.json](./41747-game-master-ii.json) |
+| Game Neverending | 60686 | [60686-game-neverending.json](./60686-game-neverending.json) |
 | Game ni Nattayo! Dokuro-chan: Kenkou Shindan Daisakusen | 248390 | [248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json](./248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game Nihonshi: Kakumeiji Oda Nobunaga | 214392 | [214392-game-nihonshi-kakumeiji-oda-nobunaga.json](./214392-game-nihonshi-kakumeiji-oda-nobunaga.json) |
@@ -3159,6 +3160,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Nova | 169802 | [169802-generation-nova.json](./169802-generation-nova.json) |
 | Generation of Chaos | 24274 | [24274-generation-of-chaos.json](./24274-generation-of-chaos.json) |
 | Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
+| Generation of Chaos III | 61251 | [61251-generation-of-chaos-iii.json](./61251-generation-of-chaos-iii.json) |
+| Generation of Chaos Next | 61253 | [61253-generation-of-chaos-next.json](./61253-generation-of-chaos-next.json) |
+| Generation of Chaos: Desire | 61249 | [61249-generation-of-chaos-desire.json](./61249-generation-of-chaos-desire.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Ship | 152950 | [152950-generation-ship.json](./152950-generation-ship.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
