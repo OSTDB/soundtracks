@@ -14876,6 +14876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
 | FullAni | 317802 | [317802-fullani.json](./317802-fullani.json) |
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
+| Fullbokko Kindergarten: Classic Remaster | 429754 | [429754-fullbokko-kindergarten-classic-remaster.json](./429754-fullbokko-kindergarten-classic-remaster.json) |
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
 | Fullchoke | 126734 | [126734-fullchoke.json](./126734-fullchoke.json) |
 | Fullcourt Thunder | 60995 | [60995-fullcourt-thunder.json](./60995-fullcourt-thunder.json) |
