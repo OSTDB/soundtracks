@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Station VR | 130151 | [130151-panic-station-vr.json](./130151-panic-station-vr.json) |
 | Panic Timing | 368108 | [368108-panic-timing.json](./368108-panic-timing.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
+| Panic! | 36547 | [36547-panic.json](./36547-panic.json) |
 | Panic! | 5409 | [5409-panic.json](./5409-panic.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
 | Panic! Dizzy | 39163 | [39163-panic-dizzy.json](./39163-panic-dizzy.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder Adventures: Rise of the Goblins | 155354 | [155354-pathfinder-adventures-rise-of-the-goblins.json](./155354-pathfinder-adventures-rise-of-the-goblins.json) |
 | Pathfinder Adventures: Rise of the Goblins Deck 2 | 170731 | [170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json](./170731-pathfinder-adventures-rise-of-the-goblins-deck-2.json) |
 | Pathfinder Duels | 83345 | [83345-pathfinder-duels.json](./83345-pathfinder-duels.json) |
+| Pathfinder Online | 36612 | [36612-pathfinder-online.json](./36612-pathfinder-online.json) |
 | Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
@@ -3605,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns of Light | 68537 | [68537-patterns-of-light.json](./68537-patterns-of-light.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
 | Patton Strikes Back: The Battle of the Bulge | 73568 | [73568-patton-strikes-back-the-battle-of-the-bulge.json](./73568-patton-strikes-back-the-battle-of-the-bulge.json) |
+| Patton vs. Rommel | 36592 | [36592-patton-vs-rommel.json](./36592-patton-vs-rommel.json) |
 | Patton: Armored Assault | 210016 | [210016-patton-armored-assault.json](./210016-patton-armored-assault.json) |
 | Patty & Mr. Miles | 150218 | [150218-patty-and-mr-miles.json](./150218-patty-and-mr-miles.json) |
 | Patty's Pumpkin Patch | 223734 | [223734-pattys-pumpkin-patch.json](./223734-pattys-pumpkin-patch.json) |
