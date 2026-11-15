@@ -9481,6 +9481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin'ai Rewritten | 424612 | [424612-shinai-rewritten.json](./424612-shinai-rewritten.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
+| Shinbone | 426941 | [426941-shinbone.json](./426941-shinbone.json) |
 | Shinchou Kouki | 42312 | [42312-shinchou-kouki.json](./42312-shinchou-kouki.json) |
 | Shinda Classmate kara Koibumi ga Todoita. | 285872 | [285872-shinda-classmate-kara-koibumi-ga-todoita.json](./285872-shinda-classmate-kara-koibumi-ga-todoita.json) |
 | Shinde Shinde Tsuyoku nare!...? | 316657 | [316657-shinde-shinde-tsuyoku-nare.json](./316657-shinde-shinde-tsuyoku-nare.json) |
@@ -11554,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil of the Magi | 199255 | [199255-sigil-of-the-magi.json](./199255-sigil-of-the-magi.json) |
 | Sigil Reader (Field) | 74279 | [74279-sigil-reader-field.json](./74279-sigil-reader-field.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
+| Sigilbound | 426927 | [426927-sigilbound.json](./426927-sigilbound.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigillum | 407173 | [407173-sigillum.json](./407173-sigillum.json) |
 | Sigillvm: Resonance | 346264 | [346264-sigillvm-resonance.json](./346264-sigillvm-resonance.json) |
@@ -12617,6 +12619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
 | Sims 4 Multiplayer | 259922 | [259922-sims-4-multiplayer.json](./259922-sims-4-multiplayer.json) |
 | SimSafari | 95477 | [95477-simsafari.json](./95477-simsafari.json) |
+| SimsalaGrimm: The Chaos Crystal | 426977 | [426977-simsalagrimm-the-chaos-crystal.json](./426977-simsalagrimm-the-chaos-crystal.json) |
 | SimShock2025 | 344108 | [344108-simshock2025.json](./344108-simshock2025.json) |
 | Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
 | Simson Pet Rescue | 343929 | [343929-simson-pet-rescue.json](./343929-simson-pet-rescue.json) |
@@ -20659,6 +20662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
+| Sort Them Alpacas: Overload! | 426934 | [426934-sort-them-alpacas-overload.json](./426934-sort-them-alpacas-overload.json) |
 | Sort Them Cats | 428408 | [428408-sort-them-cats.json](./428408-sort-them-cats.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sort Tiles | 364023 | [364023-sort-tiles.json](./364023-sort-tiles.json) |
@@ -21641,6 +21645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bucks | 71731 | [71731-space-bucks.json](./71731-space-bucks.json) |
 | Space Bugger | 281028 | [281028-space-bugger.json](./281028-space-bugger.json) |
 | Space Bugs | 110544 | [110544-space-bugs.json](./110544-space-bugs.json) |
+| Space Bullet | 426951 | [426951-space-bullet.json](./426951-space-bullet.json) |
 | Space Bunnies Must Die! | 51371 | [51371-space-bunnies-must-die.json](./51371-space-bunnies-must-die.json) |
 | Space Bunny | 265454 | [265454-space-bunny.json](./265454-space-bunny.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
@@ -22185,6 +22190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Journey | 24558 | [24558-space-journey.json](./24558-space-journey.json) |
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
+| Space Journey | 426969 | [426969-space-journey.json](./426969-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
 | Space Junk | 158849 | [158849-space-junk.json](./158849-space-junk.json) |
 | Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
@@ -23086,6 +23092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spade no Kuni no Alice: Wonderful Black World | 218783 | [218783-spade-no-kuni-no-alice-wonderful-black-world.json](./218783-spade-no-kuni-no-alice-wonderful-black-world.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
+| Spadegrave | 426943 | [426943-spadegrave.json](./426943-spadegrave.json) |
 | Spades | 372227 | [372227-spades.json](./372227-spades.json) |
 | Spades | 62393 | [62393-spades.json](./62393-spades.json) |
 | Spades | 88610 | [88610-spades.json](./88610-spades.json) |
@@ -24001,6 +24008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
 | Spellgun Sprint | 379784 | [379784-spellgun-sprint.json](./379784-spellgun-sprint.json) |
 | Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
+| Spellhaven: The Last Lighthouse Keeper | 426957 | [426957-spellhaven-the-last-lighthouse-keeper.json](./426957-spellhaven-the-last-lighthouse-keeper.json) |
 | Spellhearts | 192547 | [192547-spellhearts.json](./192547-spellhearts.json) |
 | Spellhook | 402548 | [402548-spellhook.json](./402548-spellhook.json) |
 | SpellHunter | 153024 | [153024-spellhunter.json](./153024-spellhunter.json) |
@@ -26673,6 +26681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Tower | 317183 | [317183-stair-tower.json](./317183-stair-tower.json) |
 | Stair: Slide the Blocks to Ascend | 266326 | [266326-stair-slide-the-blocks-to-ascend.json](./266326-stair-slide-the-blocks-to-ascend.json) |
 | StairCase 55 | 273719 | [273719-staircase-55.json](./273719-staircase-55.json) |
+| Staircase 8 | 426937 | [426937-staircase-8.json](./426937-staircase-8.json) |
 | Staircase of Darkness: VR | 31011 | [31011-staircase-of-darkness-vr.json](./31011-staircase-of-darkness-vr.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
@@ -34618,6 +34627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Adventures | 144515 | [144515-super-clown-adventures.json](./144515-super-clown-adventures.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
+| Super Clown Traps | 426944 | [426944-super-clown-traps.json](./426944-super-clown-traps.json) |
 | Super Clown Ultimatum | 365930 | [365930-super-clown-ultimatum.json](./365930-super-clown-ultimatum.json) |
 | Super Clown: Lost Diamonds | 190445 | [190445-super-clown-lost-diamonds.json](./190445-super-clown-lost-diamonds.json) |
 | Super Club Soccer | 110018 | [110018-super-club-soccer.json](./110018-super-club-soccer.json) |
