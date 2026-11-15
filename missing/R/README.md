@@ -8350,6 +8350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
 | RiftGuard | 365368 | [365368-riftguard.json](./365368-riftguard.json) |
+| Riftlight | 61222 | [61222-riftlight.json](./61222-riftlight.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
 | Riftseekers | 347431 | [347431-riftseekers.json](./347431-riftseekers.json) |
@@ -13592,6 +13593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
 | Run and Gun | 66858 | [66858-run-and-gun.json](./66858-run-and-gun.json) |
+| Run and Gun 2 | 60698 | [60698-run-and-gun-2.json](./60698-run-and-gun-2.json) |
 | Run and Gun 2: Opossum City | 345401 | [345401-run-and-gun-2-opossum-city.json](./345401-run-and-gun-2-opossum-city.json) |
 | Run and Hide | 274922 | [274922-run-and-hide.json](./274922-run-and-hide.json) |
 | Run and Hunt: Skeleton Rebellion | 298642 | [298642-run-and-hunt-skeleton-rebellion.json](./298642-run-and-hunt-skeleton-rebellion.json) |
