@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
 | Night in the Woods: Lost Constellation | 60719 | [60719-night-in-the-woods-lost-constellation.json](./60719-night-in-the-woods-lost-constellation.json) |
+| Night in the Woods: Weird Autumn Edition | 75249 | [75249-night-in-the-woods-weird-autumn-edition.json](./75249-night-in-the-woods-weird-autumn-edition.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
 | Night Invasion | 176292 | [176292-night-invasion.json](./176292-night-invasion.json) |
 | Night Invasion | 379663 | [379663-night-invasion.json](./379663-night-invasion.json) |
