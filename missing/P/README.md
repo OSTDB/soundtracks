@@ -10090,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
 | Plague Hunter | 106694 | [106694-plague-hunter.json](./106694-plague-hunter.json) |
 | Plague Hunters | 375743 | [375743-plague-hunters.json](./375743-plague-hunters.json) |
+| Plague Huntress | 28288 | [28288-plague-huntress.json](./28288-plague-huntress.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
@@ -18322,6 +18323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Pinball: Mark | 229988 | [229988-project-summer-ice-pinball-mark.json](./229988-project-summer-ice-pinball-mark.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: Summer Ice 5 - Ninja | 238700 | [238700-project-summer-ice-5-ninja.json](./238700-project-summer-ice-5-ninja.json) |
+| Project: surviving | 28298 | [28298-project-surviving.json](./28298-project-surviving.json) |
 | Project: Swap | 212610 | [212610-project-swap.json](./212610-project-swap.json) |
 | Project: Sword Art | 264929 | [264929-project-sword-art.json](./264929-project-sword-art.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
@@ -20131,6 +20133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Putter | 188896 | [188896-putty-putter.json](./188896-putty-putter.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
+| Puttyface | 28330 | [28330-puttyface.json](./28330-puttyface.json) |
 | Putzgrila: Mestre dos Esportes | 172472 | [172472-putzgrila-mestre-dos-esportes.json](./172472-putzgrila-mestre-dos-esportes.json) |
 | Puym: Lake | 242972 | [242972-puym-lake.json](./242972-puym-lake.json) |
 | Puyo Card | 253761 | [253761-puyo-card.json](./253761-puyo-card.json) |
