@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Shop | 396682 | [396682-santas-shop.json](./396682-santas-shop.json) |
 | Santa's Silent Night | 183912 | [183912-santas-silent-night.json](./183912-santas-silent-night.json) |
 | Santa's Slippery Slope Ski Stunts | 370957 | [370957-santas-slippery-slope-ski-stunts.json](./370957-santas-slippery-slope-ski-stunts.json) |
+| Santa's Special Delivery | 30281 | [30281-santas-special-delivery.json](./30281-santas-special-delivery.json) |
 | Santa's Speedy Quest | 286863 | [286863-santas-speedy-quest.json](./286863-santas-speedy-quest.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scapewatch | 401089 | [401089-scapewatch.json](./401089-scapewatch.json) |
 | Scapular | 400285 | [400285-scapular.json](./400285-scapular.json) |
 | Scar in the Void | 213774 | [213774-scar-in-the-void.json](./213774-scar-in-the-void.json) |
+| Scar of the Doll | 30275 | [30275-scar-of-the-doll.json](./30275-scar-of-the-doll.json) |
 | Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister | 226338 | [226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json](./226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json) |
 | Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
@@ -3330,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlo Complications | 298792 | [298792-schlo-complications.json](./298792-schlo-complications.json) |
 | Schlo Pink and Purple | 298791 | [298791-schlo-pink-and-purple.json](./298791-schlo-pink-and-purple.json) |
 | Schlo: Final Stand | 298789 | [298789-schlo-final-stand.json](./298789-schlo-final-stand.json) |
+| Schlocks | 29335 | [29335-schlocks.json](./29335-schlocks.json) |
 | Schloss der Wölfe | 323389 | [323389-schloss-der-wolfe.json](./323389-schloss-der-wolfe.json) |
 | Schlosshelden | 270017 | [270017-schlosshelden.json](./270017-schlosshelden.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
@@ -7542,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Babel | 184496 | [184496-shadow-of-babel.json](./184496-shadow-of-babel.json) |
 | Shadow of Backrooms | 335214 | [335214-shadow-of-backrooms.json](./335214-shadow-of-backrooms.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
+| Shadow of Conquest | 29295 | [29295-shadow-of-conquest.json](./29295-shadow-of-conquest.json) |
 | Shadow of Death 2: Awakening | 199966 | [199966-shadow-of-death-2-awakening.json](./199966-shadow-of-death-2-awakening.json) |
 | Shadow of Death 2: RPG Games | 323176 | [323176-shadow-of-death-2-rpg-games.json](./323176-shadow-of-death-2-rpg-games.json) |
 | Shadow of Death: Dark Knight | 100823 | [100823-shadow-of-death-dark-knight.json](./100823-shadow-of-death-dark-knight.json) |
@@ -16403,6 +16407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoots Pinball | 260221 | [260221-smoots-pinball.json](./260221-smoots-pinball.json) |
 | Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
 | Smoots Summer Games II | 324054 | [324054-smoots-summer-games-ii.json](./324054-smoots-summer-games-ii.json) |
+| Smoots Tennis Survival Zombie | 30269 | [30269-smoots-tennis-survival-zombie.json](./30269-smoots-tennis-survival-zombie.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
 | Smoq Games 25 | 396361 | [396361-smoq-games-25.json](./396361-smoq-games-25.json) |
 | Smorca | 363627 | [363627-smorca.json](./363627-smorca.json) |
@@ -32479,6 +32484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublime Solitaire | 270244 | [270244-sublime-solitaire.json](./270244-sublime-solitaire.json) |
 | Subliminal | 233669 | [233669-subliminal.json](./233669-subliminal.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
+| Subliminal Realms: The Masterpiece - Collector's Edition | 30266 | [30266-subliminal-realms-the-masterpiece-collectors-edition.json](./30266-subliminal-realms-the-masterpiece-collectors-edition.json) |
 | Subliminal Realms: The Masterpiece HD | 99717 | [99717-subliminal-realms-the-masterpiece-hd.json](./99717-subliminal-realms-the-masterpiece-hd.json) |
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
