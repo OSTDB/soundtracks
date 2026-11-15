@@ -13118,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
+| Blue Wing Blitz | 37457 | [37457-blue-wing-blitz.json](./37457-blue-wing-blitz.json) |
 | Blue Wish | 146988 | [146988-blue-wish.json](./146988-blue-wish.json) |
 | Blue Wish Desire | 178236 | [178236-blue-wish-desire.json](./178236-blue-wish-desire.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
