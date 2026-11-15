@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus | 386814 | [386814-octopus.json](./386814-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Bar | 63728 | [63728-octopus-bar.json](./63728-octopus-bar.json) |
+| Octopus City Blues | 75287 | [75287-octopus-city-blues.json](./75287-octopus-city-blues.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
 | Octopus Goulash | 288712 | [288712-octopus-goulash.json](./288712-octopus-goulash.json) |
 | Octopus Invasion | 395160 | [395160-octopus-invasion.json](./395160-octopus-invasion.json) |
