@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oishinbo: Kyuukyoku no Menu 3-bon Shoubu | 48406 | [48406-oishinbo-kyuukyoku-no-menu-3-bon-shoubu.json](./48406-oishinbo-kyuukyoku-no-menu-3-bon-shoubu.json) |
 | Oita, Beppu Mystery Annai: Yuganda Tourou | 212306 | [212306-oita-beppu-mystery-annai-yuganda-tourou.json](./212306-oita-beppu-mystery-annai-yuganda-tourou.json) |
 | Ojamajo Adventure: Naisho No Mahou | 319698 | [319698-ojamajo-adventure-naisho-no-mahou.json](./319698-ojamajo-adventure-naisho-no-mahou.json) |
+| Ojamajo Doremi Dokka~n! | 66842 | [66842-ojamajo-doremi-dokka-n.json](./66842-ojamajo-doremi-dokka-n.json) |
 | Ojanko Yakata | 252061 | [252061-ojanko-yakata.json](./252061-ojanko-yakata.json) |
 | Ojarumaru: Gekkou Machi Sanpo de Ojaru | 49739 | [49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json](./49739-ojarumaru-gekkou-machi-sanpo-de-ojaru.json) |
 | Ojarumaru: Mitsunegai Jinja no Ennichi de Ojaru! | 282392 | [282392-ojarumaru-mitsunegai-jinja-no-ennichi-de-ojaru.json](./282392-ojarumaru-mitsunegai-jinja-no-ennichi-de-ojaru.json) |
