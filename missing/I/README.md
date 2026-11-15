@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Karate 2000 | 24164 | [24164-international-karate-2000.json](./24164-international-karate-2000.json) |
 | International Karate Advanced | 49292 | [49292-international-karate-advanced.json](./49292-international-karate-advanced.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
+| International Moto X | 58959 | [58959-international-moto-x.json](./58959-international-moto-x.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
 | International Obsession | 415196 | [415196-international-obsession.json](./415196-international-obsession.json) |
 | International Open Golf Championship | 69597 | [69597-international-open-golf-championship.json](./69597-international-open-golf-championship.json) |
@@ -6293,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
 | Ionball 3 | 98844 | [98844-ionball-3.json](./98844-ionball-3.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
+| Ionia | 58985 | [58985-ionia.json](./58985-ionia.json) |
 | Ionic Wars | 58138 | [58138-ionic-wars.json](./58138-ionic-wars.json) |
 | Ionization | 316776 | [316776-ionization.json](./316776-ionization.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
