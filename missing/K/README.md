@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen no Ninja Akakage | 48444 | [48444-kamen-no-ninja-akakage.json](./48444-kamen-no-ninja-akakage.json) |
 | Kamen no Ninja Hanamaru | 154805 | [154805-kamen-no-ninja-hanamaru.json](./154805-kamen-no-ninja-hanamaru.json) |
 | Kamen Rider | 61919 | [61919-kamen-rider.json](./61919-kamen-rider.json) |
+| Kamen Rider | 76061 | [76061-kamen-rider.json](./76061-kamen-rider.json) |
 | Kamen Rider | 76063 | [76063-kamen-rider.json](./76063-kamen-rider.json) |
 | Kamen Rider 555 | 404098 | [404098-kamen-rider-555.json](./404098-kamen-rider-555.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
