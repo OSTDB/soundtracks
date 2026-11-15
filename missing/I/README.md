@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignore the blackbird | 398152 | [398152-ignore-the-blackbird.json](./398152-ignore-the-blackbird.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
 | Ignored and Humiliated by Gamer Girls | 249344 | [249344-ignored-and-humiliated-by-gamer-girls.json](./249344-ignored-and-humiliated-by-gamer-girls.json) |
+| Igo Club | 37980 | [37980-igo-club.json](./37980-igo-club.json) |
 | Igo Meikan | 138706 | [138706-igo-meikan.json](./138706-igo-meikan.json) |
 | Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
 | Igo Time Trial: Shikatsu Daihyakka | 268504 | [268504-igo-time-trial-shikatsu-daihyakka.json](./268504-igo-time-trial-shikatsu-daihyakka.json) |
@@ -2509,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illustris | 214639 | [214639-illustris.json](./214639-illustris.json) |
 | Illuvium | 198140 | [198140-illuvium.json](./198140-illuvium.json) |
 | Illuyanka: A Hittite Story | 343161 | [343161-illuyanka-a-hittite-story.json](./343161-illuyanka-a-hittite-story.json) |
+| Illvanian no Shiro: Ruins of Illvanian | 37979 | [37979-illvanian-no-shiro-ruins-of-illvanian.json](./37979-illvanian-no-shiro-ruins-of-illvanian.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illvelo: Illmatic Envelope | 123127 | [123127-illvelo-illmatic-envelope.json](./123127-illvelo-illmatic-envelope.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
@@ -6334,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
+| Ippatsu Gyakuten: Keiba, Keirin, Kyoutei | 37978 | [37978-ippatsu-gyakuten-keiba-keirin-kyoutei.json](./37978-ippatsu-gyakuten-keiba-keirin-kyoutei.json) |
 | Ippatsu Gyakuten! DX Baken-ou | 57977 | [57977-ippatsu-gyakuten-dx-baken-ou.json](./57977-ippatsu-gyakuten-dx-baken-ou.json) |
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | Ipseity: Arena | 322856 | [322856-ipseity-arena.json](./322856-ipseity-arena.json) |
@@ -7229,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isotower | 114217 | [114217-isotower.json](./114217-isotower.json) |
 | Isowords | 238397 | [238397-isowords.json](./238397-isowords.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
+| Isozuri: Ritou-hen | 37977 | [37977-isozuri-ritou-hen.json](./37977-isozuri-ritou-hen.json) |
 | Ispell | 357151 | [357151-ispell.json](./357151-ispell.json) |
 | ISpellWord Game | 175109 | [175109-ispellword-game.json](./175109-ispellword-game.json) |
 | Ispherical | 245178 | [245178-ispherical.json](./245178-ispherical.json) |
@@ -7551,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ithya: Magic Studies | 342482 | [342482-ithya-magic-studies.json](./342482-ithya-magic-studies.json) |
 | Itineris | 29675 | [29675-itineris.json](./29675-itineris.json) |
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
+| Itoi Shigesato no Bass Tsuri No. 1: Definitive Edition! | 37976 | [37976-itoi-shigesato-no-bass-tsuri-no-1-definitive-edition.json](./37976-itoi-shigesato-no-bass-tsuri-no-1-definitive-edition.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Aki no Zenkoku Tournament | 151884 | [151884-itoi-shigesato-no-bass-tsuri-no-1-aki-no-zenkoku-tournament.json](./151884-itoi-shigesato-no-bass-tsuri-no-1-aki-no-zenkoku-tournament.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Fuyu no Zenkoku Tournament | 151885 | [151885-itoi-shigesato-no-bass-tsuri-no-1-fuyu-no-zenkoku-tournament.json](./151885-itoi-shigesato-no-bass-tsuri-no-1-fuyu-no-zenkoku-tournament.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament | 151882 | [151882-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament.json](./151882-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament.json) |
@@ -7559,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itorah | 122343 | [122343-itorah.json](./122343-itorah.json) |
 | Itoshi Kokoro | 330845 | [330845-itoshi-kokoro.json](./330845-itoshi-kokoro.json) |
 | Itoshi no My Master | 221052 | [221052-itoshi-no-my-master.json](./221052-itoshi-no-my-master.json) |
+| Itou Hatasu Mu-dan no Shogi Dojo | 37975 | [37975-itou-hatasu-mu-dan-no-shogi-dojo.json](./37975-itou-hatasu-mu-dan-no-shogi-dojo.json) |
 | Itouke no Urawaza DS | 79599 | [79599-itouke-no-urawaza-ds.json](./79599-itouke-no-urawaza-ds.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | iTraceur - Parkour / Freerunning Platform Game | 100643 | [100643-itraceur-parkour-freerunning-platform-game.json](./100643-itraceur-parkour-freerunning-platform-game.json) |
