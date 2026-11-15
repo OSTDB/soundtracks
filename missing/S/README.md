@@ -16765,6 +16765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake King | 340358 | [340358-snake-king.json](./340358-snake-king.json) |
 | Snake Line | 100893 | [100893-snake-line.json](./100893-snake-line.json) |
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
+| Snake Memory | 422751 | [422751-snake-memory.json](./422751-snake-memory.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
 | Snake of Maths! Cool Education Game | 204973 | [204973-snake-of-maths-cool-education-game.json](./204973-snake-of-maths-cool-education-game.json) |
 | Snake on Dope | 194303 | [194303-snake-on-dope.json](./194303-snake-on-dope.json) |
@@ -17926,6 +17927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Shooter | 247063 | [247063-soccer-shooter.json](./247063-soccer-shooter.json) |
 | Soccer Shootout | 345929 | [345929-soccer-shootout.json](./345929-soccer-shootout.json) |
 | Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
+| Soccer Sim | 422735 | [422735-soccer-sim.json](./422735-soccer-sim.json) |
 | Soccer Simulation | 75397 | [75397-soccer-simulation.json](./75397-soccer-simulation.json) |
 | Soccer Skills | 141461 | [141461-soccer-skills.json](./141461-soccer-skills.json) |
 | Soccer Slam! | 233536 | [233536-soccer-slam.json](./233536-soccer-slam.json) |
