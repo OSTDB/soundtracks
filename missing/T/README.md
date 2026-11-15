@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangles | 274708 | [274708-tangles.json](./274708-tangles.json) |
 | Tangles 2 | 392539 | [392539-tangles-2.json](./392539-tangles-2.json) |
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
+| Tanglewood | 36578 | [36578-tanglewood.json](./36578-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tango 5 Reloaded: Grid Action Heroes | 105223 | [105223-tango-5-reloaded-grid-action-heroes.json](./105223-tango-5-reloaded-grid-action-heroes.json) |
 | Tango 5: The Last Dance | 80338 | [80338-tango-5-the-last-dance.json](./80338-tango-5-the-last-dance.json) |
@@ -5703,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Th3 Plan | 44698 | [44698-th3-plan.json](./44698-th3-plan.json) |
 | Th3_M1dday_L4dies | 392887 | [392887-th3-m1dday-l4dies.json](./392887-th3-m1dday-l4dies.json) |
 | Th3-M15 Guild | 268140 | [268140-th3-m15-guild.json](./268140-th3-m15-guild.json) |
+| Thai Boxing | 36566 | [36566-thai-boxing.json](./36566-thai-boxing.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalamus | 188742 | [188742-thalamus.json](./188742-thalamus.json) |
 | Thalamus Collection 1 | 299490 | [299490-thalamus-collection-1.json](./299490-thalamus-collection-1.json) |
@@ -7372,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloodline | 123930 | [123930-the-bloodline.json](./123930-the-bloodline.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
+| The Bloody First | 36594 | [36594-the-bloody-first.json](./36594-the-bloody-first.json) |
 | The Bloom Between | 364370 | [364370-the-bloom-between.json](./364370-the-bloom-between.json) |
 | The Blue & the Gray | 11969 | [11969-the-blue-and-the-gray.json](./11969-the-blue-and-the-gray.json) |
 | The Blue and the Grey | 47013 | [47013-the-blue-and-the-grey.json](./47013-the-blue-and-the-grey.json) |
@@ -10402,6 +10405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fernweh Saga: Book One | 223264 | [223264-the-fernweh-saga-book-one.json](./223264-the-fernweh-saga-book-one.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
+| The Feud: Wild West Tactics | 36335 | [36335-the-feud-wild-west-tactics.json](./36335-the-feud-wild-west-tactics.json) |
 | The Feudal | 251879 | [251879-the-feudal.json](./251879-the-feudal.json) |
 | The Fever | 141745 | [141745-the-fever.json](./141745-the-fever.json) |
 | The Few | 17385 | [17385-the-few.json](./17385-the-few.json) |
@@ -12440,8 +12444,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Informant Chronicles: Chronicle 1 - Riverside Danger Part 1 | 173948 | [173948-the-informant-chronicles-chronicle-1-riverside-danger-part-1.json](./173948-the-informant-chronicles-chronicle-1-riverside-danger-part-1.json) |
 | The Ingenious Machine: New and Improved Edition | 50220 | [50220-the-ingenious-machine-new-and-improved-edition.json](./50220-the-ingenious-machine-new-and-improved-edition.json) |
 | The Inheritance | 281364 | [281364-the-inheritance.json](./281364-the-inheritance.json) |
+| The Inheritance II: Chaos in Scotland | 36562 | [36562-the-inheritance-ii-chaos-in-scotland.json](./36562-the-inheritance-ii-chaos-in-scotland.json) |
 | The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
 | The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
+| The Inheritance: Panic in Las Vegas | 36561 | [36561-the-inheritance-panic-in-las-vegas.json](./36561-the-inheritance-panic-in-las-vegas.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
 | The Initiate 2: The First Interviews | 103611 | [103611-the-initiate-2-the-first-interviews.json](./103611-the-initiate-2-the-first-interviews.json) |
@@ -13309,6 +13315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Crawler | 360822 | [360822-the-last-crawler.json](./360822-the-last-crawler.json) |
 | The Last Crown | 175712 | [175712-the-last-crown.json](./175712-the-last-crown.json) |
+| The Last Crown: Blackenrock | 36334 | [36334-the-last-crown-blackenrock.json](./36334-the-last-crown-blackenrock.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crusade | 315774 | [315774-the-last-crusade.json](./315774-the-last-crusade.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
@@ -20147,6 +20154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trap | 155343 | [155343-the-trap.json](./155343-the-trap.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trap 2: Mindlock | 194222 | [194222-the-trap-2-mindlock.json](./194222-the-trap-2-mindlock.json) |
+| The Trap Door | 36557 | [36557-the-trap-door.json](./36557-the-trap-door.json) |
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trap: Remastered | 170871 | [170871-the-trap-remastered.json](./170871-the-trap-remastered.json) |
 | The Trapped Heart | 184558 | [184558-the-trapped-heart.json](./184558-the-trapped-heart.json) |
@@ -20720,6 +20728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
 | The Vortex | 192496 | [192496-the-vortex.json](./192496-the-vortex.json) |
+| The Vortex Factor | 36579 | [36579-the-vortex-factor.json](./36579-the-vortex-factor.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
 | The Vow: Vampire's Curse | 373439 | [373439-the-vow-vampires-curse.json](./373439-the-vow-vampires-curse.json) |
 | The Vox: Tower Defense | 163842 | [163842-the-vox-tower-defense.json](./163842-the-vox-tower-defense.json) |
@@ -26439,6 +26448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Treasure Hunt DX | 308631 | [308631-tiny-treasure-hunt-dx.json](./308631-tiny-treasure-hunt-dx.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers | 11619 | [11619-tiny-troopers.json](./11619-tiny-troopers.json) |
+| Tiny Troopers 2: Special Ops | 36568 | [36568-tiny-troopers-2-special-ops.json](./36568-tiny-troopers-2-special-ops.json) |
 | Tiny Troopers 2: Special Ops | 58546 | [58546-tiny-troopers-2-special-ops.json](./58546-tiny-troopers-2-special-ops.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
@@ -27700,6 +27710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Jungle Storm | 175928 | [175928-tom-clancys-ghost-recon-jungle-storm.json](./175928-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Definitive Edition | 412552 | [412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json](./412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Deluxe Edition | 25530 | [25530-tom-clancys-ghost-recon-wildlands-deluxe-edition.json](./25530-tom-clancys-ghost-recon-wildlands-deluxe-edition.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Fallen Ghosts | 36571 | [36571-tom-clancys-ghost-recon-wildlands-fallen-ghosts.json](./36571-tom-clancys-ghost-recon-wildlands-fallen-ghosts.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Gold Edition | 82078 | [82078-tom-clancys-ghost-recon-wildlands-gold-edition.json](./82078-tom-clancys-ghost-recon-wildlands-gold-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Last Rites | 412553 | [412553-tom-clancys-ghost-recon-wildlands-last-rites.json](./412553-tom-clancys-ghost-recon-wildlands-last-rites.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
@@ -34097,6 +34108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremolo | 77739 | [77739-tremolo.json](./77739-tremolo.json) |
+| Tremor | 36556 | [36556-tremor.json](./36556-tremor.json) |
 | Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
 | Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
 | Tremors: Rebirth | 309235 | [309235-tremors-rebirth.json](./309235-tremors-rebirth.json) |
