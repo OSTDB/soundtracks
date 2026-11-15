@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zannon | 152569 | [152569-zannon.json](./152569-zannon.json) |
 | Zanshin | 81615 | [81615-zanshin.json](./81615-zanshin.json) |
 | Zany Bounce | 245748 | [245748-zany-bounce.json](./245748-zany-bounce.json) |
+| Zany Golf | 12237 | [12237-zany-golf.json](./12237-zany-golf.json) |
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
 | Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
 | Zany's Hospital | 367623 | [367623-zanys-hospital.json](./367623-zanys-hospital.json) |
