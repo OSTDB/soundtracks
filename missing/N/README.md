@@ -4799,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
 | Night of the Blood Moon | 107926 | [107926-night-of-the-blood-moon.json](./107926-night-of-the-blood-moon.json) |
 | Night of the Cephalopods | 66803 | [66803-night-of-the-cephalopods.json](./66803-night-of-the-cephalopods.json) |
+| Night of the Consumers | 131859 | [131859-night-of-the-consumers.json](./131859-night-of-the-consumers.json) |
 | Night of the Dead | 138639 | [138639-night-of-the-dead.json](./138639-night-of-the-dead.json) |
 | Night of the Dead Simulator | 315915 | [315915-night-of-the-dead-simulator.json](./315915-night-of-the-dead-simulator.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
