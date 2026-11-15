@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Guys | 300439 | [300439-battle-guys.json](./300439-battle-guys.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Havoc | 92618 | [92618-battle-havoc.json](./92618-battle-havoc.json) |
+| Battle Healer Hildegard | 422719 | [422719-battle-healer-hildegard.json](./422719-battle-healer-hildegard.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
 | Battle Heroin Crisis: Heroin Pack - Satellizer Another & Cassie | 226243 | [226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json](./226243-battle-heroin-crisis-heroin-pack-satellizer-another-and-cassie.json) |
 | Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
@@ -18714,6 +18715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Town 2 | 66429 | [66429-bubble-town-2.json](./66429-bubble-town-2.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Trouble | 40836 | [40836-bubble-trouble.json](./40836-bubble-trouble.json) |
+| Bubble Trouble | 422732 | [422732-bubble-trouble.json](./422732-bubble-trouble.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
 | Bubble Trouble 2: Rebubbled | 349600 | [349600-bubble-trouble-2-rebubbled.json](./349600-bubble-trouble-2-rebubbled.json) |
 | Bubble Trouble 3 | 349601 | [349601-bubble-trouble-3.json](./349601-bubble-trouble-3.json) |
