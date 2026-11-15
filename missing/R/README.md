@@ -5978,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republique Remastered | 9917 | [9917-republique-remastered.json](./9917-republique-remastered.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
+| République: Contraband Edition | 42937 | [42937-republique-contraband-edition.json](./42937-republique-contraband-edition.json) |
 | République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
 | République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
 | République: Episode 2 - Metamorphosis | 127127 | [127127-republique-episode-2-metamorphosis.json](./127127-republique-episode-2-metamorphosis.json) |
@@ -8866,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
 | Rise of the Third Power | 81058 | [81058-rise-of-the-third-power.json](./81058-rise-of-the-third-power.json) |
 | Rise of the Tomb Raider: 20 Year Celebration | 23331 | [23331-rise-of-the-tomb-raider-20-year-celebration.json](./23331-rise-of-the-tomb-raider-20-year-celebration.json) |
+| Rise of the Tomb Raider: 20 Year Celebration - Collector's Edition | 42916 | [42916-rise-of-the-tomb-raider-20-year-celebration-collectors-edition.json](./42916-rise-of-the-tomb-raider-20-year-celebration-collectors-edition.json) |
 | Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch | 14774 | [14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json](./14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json) |
 | Rise of the Tomb Raider: Blood Ties | 24890 | [24890-rise-of-the-tomb-raider-blood-ties.json](./24890-rise-of-the-tomb-raider-blood-ties.json) |
 | Rise of the Tomb Raider: Cold Darkness Awakened | 25219 | [25219-rise-of-the-tomb-raider-cold-darkness-awakened.json](./25219-rise-of-the-tomb-raider-cold-darkness-awakened.json) |
