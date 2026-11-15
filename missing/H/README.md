@@ -8873,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Ch.7 Minagoroshi | 120148 | [120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json](./120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json) |
 | Higurashi When They Cry Hou: Ch.8 Matsuribayashi | 132344 | [132344-higurashi-when-they-cry-hou-ch-8-matsuribayashi.json](./132344-higurashi-when-they-cry-hou-ch-8-matsuribayashi.json) |
 | Higurashi When They Cry Hou: Question Arcs | 263402 | [263402-higurashi-when-they-cry-hou-question-arcs.json](./263402-higurashi-when-they-cry-hou-question-arcs.json) |
+| Higurashi When They Cry Hou: Rei | 59538 | [59538-higurashi-when-they-cry-hou-rei.json](./59538-higurashi-when-they-cry-hou-rei.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Hinamizawa Bus Stop | 273075 | [273075-higurashi-when-they-cry-hou-hinamizawa-bus-stop.json](./273075-higurashi-when-they-cry-hou-hinamizawa-bus-stop.json) |
 | Higurashi When They Cry Hou+: Kamikashimashi Chapter | 273072 | [273072-higurashi-when-they-cry-hou-kamikashimashi-chapter.json](./273072-higurashi-when-they-cry-hou-kamikashimashi-chapter.json) |
@@ -9515,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Namatame Miki no Yokubou~ | 59263 | [59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json](./59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Sudou Junko no Yuuwaku~ | 59261 | [59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json](./59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json) |
+| Hitozuma Yuzuki-san no Fudeoroshi Lesson: Hajimete na no ni Konna ni Ippai Dashite... Ikenai Ko ne | 58973 | [58973-hitozuma-yuzuki-san-no-fudeoroshi-lesson-hajimete-na-no-ni-konna-ni-ippai-dashite-ikenai-ko-ne.json](./58973-hitozuma-yuzuki-san-no-fudeoroshi-lesson-hajimete-na-no-ni-konna-ni-ippai-dashite-ikenai-ko-ne.json) |
 | HitPost.Online | 398076 | [398076-hitpost-online.json](./398076-hitpost-online.json) |
 | Hitstick 2: No Time for Diplomacy | 393405 | [393405-hitstick-2-no-time-for-diplomacy.json](./393405-hitstick-2-no-time-for-diplomacy.json) |
 | Hitstick 3: Deadly Breeze | 393406 | [393406-hitstick-3-deadly-breeze.json](./393406-hitstick-3-deadly-breeze.json) |
@@ -10927,6 +10929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooky McPegleg, Pirate Postman | 70813 | [70813-hooky-mcpegleg-pirate-postman.json](./70813-hooky-mcpegleg-pirate-postman.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
+| Hooligan Fighters | 58963 | [58963-hooligan-fighters.json](./58963-hooligan-fighters.json) |
 | Hooligan James | 215342 | [215342-hooligan-james.json](./215342-hooligan-james.json) |
 | Hooligan Simulator | 128285 | [128285-hooligan-simulator.json](./128285-hooligan-simulator.json) |
 | Hooligan Simulator 2023: You vs. System | 277917 | [277917-hooligan-simulator-2023-you-vs-system.json](./277917-hooligan-simulator-2023-you-vs-system.json) |
@@ -11151,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppy Frog 2 | 239247 | [239247-hoppy-frog-2.json](./239247-hoppy-frog-2.json) |
 | Hoppy Hoop | 241810 | [241810-hoppy-hoop.json](./241810-hoppy-hoop.json) |
 | Hoppy Hop | 250884 | [250884-hoppy-hop.json](./250884-hoppy-hop.json) |
+| Hoppy Naut | 58954 | [58954-hoppy-naut.json](./58954-hoppy-naut.json) |
 | Hoppy Square DX | 253210 | [253210-hoppy-square-dx.json](./253210-hoppy-square-dx.json) |
 | Hoppy Woods | 184424 | [184424-hoppy-woods.json](./184424-hoppy-woods.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
@@ -11511,7 +11515,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Isle 3: Infinite Wilds | 137434 | [137434-horse-isle-3-infinite-wilds.json](./137434-horse-isle-3-infinite-wilds.json) |
 | Horse Life | 47948 | [47948-horse-life.json](./47948-horse-life.json) |
 | Horse Life 3 | 151208 | [151208-horse-life-3.json](./151208-horse-life-3.json) |
+| Horse Life 4 | 59535 | [59535-horse-life-4.json](./59535-horse-life-4.json) |
 | Horse Life Adventures | 201794 | [201794-horse-life-adventures.json](./201794-horse-life-adventures.json) |
+| Horse Life Adventures | 59536 | [59536-horse-life-adventures.json](./59536-horse-life-adventures.json) |
 | Horse Life: Find Horses in Open World, Survive in Wild Nature as a Foal or Pony | 253933 | [253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json](./253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json) |
 | Horse Lovers Compendium 5-Pack | 25051 | [25051-horse-lovers-compendium-5-pack.json](./25051-horse-lovers-compendium-5-pack.json) |
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
