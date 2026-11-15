@@ -10131,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins, Inc.: The Governor Edition | 53069 | [53069-gremlins-inc-the-governor-edition.json](./53069-gremlins-inc-the-governor-edition.json) |
 | Gremlins, Inc.: Uninvited Guests | 170139 | [170139-gremlins-inc-uninvited-guests.json](./170139-gremlins-inc-uninvited-guests.json) |
 | Gremlins: Stripe vs. Gizmo | 49232 | [49232-gremlins-stripe-vs-gizmo.json](./49232-gremlins-stripe-vs-gizmo.json) |
+| Gremlins: The Adventure | 26026 | [26026-gremlins-the-adventure.json](./26026-gremlins-the-adventure.json) |
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grenade Madness | 33780 | [33780-grenade-madness.json](./33780-grenade-madness.json) |
