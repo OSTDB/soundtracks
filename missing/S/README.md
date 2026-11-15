@@ -4404,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Kidou Senshi Gundam 2 | 38159 | [38159-sd-kidou-senshi-gundam-2.json](./38159-sd-kidou-senshi-gundam-2.json) |
 | SD Kidou Senshi Gundam: V Sakusen Shidou | 38160 | [38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json](./38160-sd-kidou-senshi-gundam-v-sakusen-shidou.json) |
 | SD Lupin Sansei: Kinko Yaburi Daisakusen | 66206 | [66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json](./66206-sd-lupin-sansei-kinko-yaburi-daisakusen.json) |
+| SD Sengoku Bushou Retsuden: Rekka no Gotoku Tenka o Nusure! | 48852 | [48852-sd-sengoku-bushou-retsuden-rekka-no-gotoku-tenka-o-nusure.json](./48852-sd-sengoku-bushou-retsuden-rekka-no-gotoku-tenka-o-nusure.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
 | SD Shin Kamen Rider Rumble SJHU Season Pass | 398294 | [398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json](./398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seirei Tenshou ~Kowareyuku Sekai no Shoujotachi~ | 63451 | [63451-seirei-tenshou-kowareyuku-sekai-no-shoujotachi.json](./63451-seirei-tenshou-kowareyuku-sekai-no-shoujotachi.json) |
 | Seireiki Rayblade | 166591 | [166591-seireiki-rayblade.json](./166591-seireiki-rayblade.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
+| Seiryaku Simulation: Inbou no Wakusei - Shancara | 48851 | [48851-seiryaku-simulation-inbou-no-wakusei-shancara.json](./48851-seiryaku-simulation-inbou-no-wakusei-shancara.json) |
 | Seiryou School Assault Club | 97538 | [97538-seiryou-school-assault-club.json](./97538-seiryou-school-assault-club.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
@@ -5866,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekiro: Shadows Die Twice - Collector's Edition | 103282 | [103282-sekiro-shadows-die-twice-collectors-edition.json](./103282-sekiro-shadows-die-twice-collectors-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 164664 | [164664-sekiro-shadows-die-twice-game-of-the-year-edition.json](./164664-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
+| Sekiryuu-ou | 48850 | [48850-sekiryuu-ou.json](./48850-sekiryuu-ou.json) |
 | Sekisai Puzzle Action | 235553 | [235553-sekisai-puzzle-action.json](./235553-sekisai-puzzle-action.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
 | Sekrets of the Dungeon | 149489 | [149489-sekrets-of-the-dungeon.json](./149489-sekrets-of-the-dungeon.json) |
@@ -9231,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shimotsuke no Yakata | 280563 | [280563-shimotsuke-no-yakata.json](./280563-shimotsuke-no-yakata.json) |
 | Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game | 49779 | [49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json](./49779-shimura-ken-no-bakatono-sama-bakushou-tenka-touitsu-game.json) |
+| Shin 4-nin Uchi Mahjong: Yakuman Tengoku | 48848 | [48848-shin-4-nin-uchi-mahjong-yakuman-tengoku.json](./48848-shin-4-nin-uchi-mahjong-yakuman-tengoku.json) |
 | Shin Bakusou Dekotora Densetsu | 60414 | [60414-shin-bakusou-dekotora-densetsu.json](./60414-shin-bakusou-dekotora-densetsu.json) |
 | Shin Bokura no Taiyou: Gyakushuu no Sabata | 49418 | [49418-shin-bokura-no-taiyou-gyakushuu-no-sabata.json](./49418-shin-bokura-no-taiyou-gyakushuu-no-sabata.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
@@ -9358,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Megami Tensei: Strange Journey 2 | 299176 | [299176-shin-megami-tensei-strange-journey-2.json](./299176-shin-megami-tensei-strange-journey-2.json) |
 | Shin Megami Tensei: Tokyo Requiem | 136615 | [136615-shin-megami-tensei-tokyo-requiem.json](./136615-shin-megami-tensei-tokyo-requiem.json) |
+| Shin Moero!! Pro Yakyuu | 48847 | [48847-shin-moero-pro-yakyuu.json](./48847-shin-moero-pro-yakyuu.json) |
 | Shin Momotaro Densetsu | 42297 | [42297-shin-momotaro-densetsu.json](./42297-shin-momotaro-densetsu.json) |
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 37626 | [37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./37626-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
@@ -9389,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Sangoku Musou Multi Raid 2: HD Edition | 43050 | [43050-shin-sangoku-musou-multi-raid-2-hd-edition.json](./43050-shin-sangoku-musou-multi-raid-2-hd-edition.json) |
 | Shin Sangoku Musou Slash | 64051 | [64051-shin-sangoku-musou-slash.json](./64051-shin-sangoku-musou-slash.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
+| Shin Satomi Hakkenden: Hikari to Yami no Tatakai | 48846 | [48846-shin-satomi-hakkenden-hikari-to-yami-no-tatakai.json](./48846-shin-satomi-hakkenden-hikari-to-yami-no-tatakai.json) |
 | Shin SD Gundam Gaiden: Knight Gundam Monogatari | 64567 | [64567-shin-sd-gundam-gaiden-knight-gundam-monogatari.json](./64567-shin-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
@@ -10034,6 +10040,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shogi Zanmai | 42381 | [42381-shogi-zanmai.json](./42381-shogi-zanmai.json) |
+| Shogi-Meikan '92 | 48845 | [48845-shogi-meikan-92.json](./48845-shogi-meikan-92.json) |
+| Shogi-Meikan '93 | 48844 | [48844-shogi-meikan-93.json](./48844-shogi-meikan-93.json) |
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
@@ -10557,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Wars | 196346 | [196346-shoujo-wars.json](./196346-shoujo-wars.json) |
 | Shoujo Yoshitsune-den | 181501 | [181501-shoujo-yoshitsune-den.json](./181501-shoujo-yoshitsune-den.json) |
 | Shoukimu | 98096 | [98096-shoukimu.json](./98096-shoukimu.json) |
+| Shoukoushi Cedie | 48843 | [48843-shoukoushi-cedie.json](./48843-shoukoushi-cedie.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Should Shoot | 197714 | [197714-should-shoot.json](./197714-should-shoot.json) |
 | Should the Stars Have Eyes | 183926 | [183926-should-the-stars-have-eyes.json](./183926-should-the-stars-have-eyes.json) |
@@ -10566,6 +10575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoumetsu Toshi: Afterlost | 113589 | [113589-shoumetsu-toshi-afterlost.json](./113589-shoumetsu-toshi-afterlost.json) |
 | Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
+| Shounen Ashibe: Nepal Daibouken no Maki | 48842 | [48842-shounen-ashibe-nepal-daibouken-no-maki.json](./48842-shounen-ashibe-nepal-daibouken-no-maki.json) |
 | Shounen D no Kokuhaku | 221036 | [221036-shounen-d-no-kokuhaku.json](./221036-shounen-d-no-kokuhaku.json) |
 | Shounen Kininden Tsumuji | 67608 | [67608-shounen-kininden-tsumuji.json](./67608-shounen-kininden-tsumuji.json) |
 | Shounen Ninja Sasuke | 38232 | [38232-shounen-ninja-sasuke.json](./38232-shounen-ninja-sasuke.json) |
@@ -10854,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle Bump | 208696 | [208696-shuffle-bump.json](./208696-shuffle-bump.json) |
 | Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
+| Shuffle Fight | 48849 | [48849-shuffle-fight.json](./48849-shuffle-fight.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
 | Shuffle Pix | 133311 | [133311-shuffle-pix.json](./133311-shuffle-pix.json) |
@@ -22396,6 +22407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Sex | 156794 | [156794-space-sex.json](./156794-space-sex.json) |
 | Space Sex Shop | 426634 | [426634-space-sex-shop.json](./426634-space-sex-shop.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
+| Space Shadow | 48841 | [48841-space-shadow.json](./48841-space-shadow.json) |
 | Space Shaft | 81026 | [81026-space-shaft.json](./81026-space-shaft.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark | 181539 | [181539-space-shark.json](./181539-space-shark.json) |
@@ -25711,6 +25723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spud Keeper | 406489 | [406489-spud-keeper.json](./406489-spud-keeper.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
+| Spud's Adventure | 48970 | [48970-spuds-adventure.json](./48970-spuds-adventure.json) |
 | Spud's Quest | 17687 | [17687-spuds-quest.json](./17687-spuds-quest.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spuds Unearthed | 113161 | [113161-spuds-unearthed.json](./113161-spuds-unearthed.json) |
@@ -34338,6 +34351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
 | Super Chinchilla Speed Typing Grand Prix 3000 | 185343 | [185343-super-chinchilla-speed-typing-grand-prix-3000.json](./185343-super-chinchilla-speed-typing-grand-prix-3000.json) |
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
+| Super Chinese 3 | 48840 | [48840-super-chinese-3.json](./48840-super-chinese-3.json) |
 | Super Chinese Fighter | 42322 | [42322-super-chinese-fighter.json](./42322-super-chinese-fighter.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Chinese Labyrinth | 287257 | [287257-super-chinese-labyrinth.json](./287257-super-chinese-labyrinth.json) |
@@ -36074,6 +36088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
 | Super Missile Attack | 308116 | [308116-super-missile-attack.json](./308116-super-missile-attack.json) |
 | Super Mixtape | 32433 | [32433-super-mixtape.json](./32433-super-mixtape.json) |
+| Super Mogura Tataki!! Pokkun Mogura | 48839 | [48839-super-mogura-tataki-pokkun-mogura.json](./48839-super-mogura-tataki-pokkun-mogura.json) |
 | Super Mole | 146576 | [146576-super-mole.json](./146576-super-mole.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
