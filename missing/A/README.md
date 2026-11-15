@@ -6419,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
 | Airborne Assault: Highway to Reich | 23751 | [23751-airborne-assault-highway-to-reich.json](./23751-airborne-assault-highway-to-reich.json) |
+| Airborne Assault: Red Devils Over Arnhem | 73907 | [73907-airborne-assault-red-devils-over-arnhem.json](./73907-airborne-assault-red-devils-over-arnhem.json) |
 | Airborne Bundle | 249596 | [249596-airborne-bundle.json](./249596-airborne-bundle.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Empires | 31748 | [31748-airborne-empires.json](./31748-airborne-empires.json) |
@@ -6519,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
 | Airline Tycoon Evolution | 51344 | [51344-airline-tycoon-evolution.json](./51344-airline-tycoon-evolution.json) |
 | Airliner Pilot | 46447 | [46447-airliner-pilot.json](./46447-airliner-pilot.json) |
+| Airlines 2 | 73891 | [73891-airlines-2.json](./73891-airlines-2.json) |
 | Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
 | AirlineSim | 183126 | [183126-airlinesim.json](./183126-airlinesim.json) |
@@ -8175,7 +8177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Fireteam Elite - Season 1: Phalanx | 168470 | [168470-aliens-fireteam-elite-season-1-phalanx.json](./168470-aliens-fireteam-elite-season-1-phalanx.json) |
 | Aliens: Fireteam Elite - UACM Frontline Pack | 223833 | [223833-aliens-fireteam-elite-uacm-frontline-pack.json](./223833-aliens-fireteam-elite-uacm-frontline-pack.json) |
 | Aliens: Fireteam Elite - Ultimate Edition | 215559 | [215559-aliens-fireteam-elite-ultimate-edition.json](./215559-aliens-fireteam-elite-ultimate-edition.json) |
-| Aliens: Fireteam Elite 2 | 400824 | [400824-aliens-fireteam-elite-2.json](./400824-aliens-fireteam-elite-2.json) |
 | Aliens: Infestation | 20606 | [20606-aliens-infestation.json](./20606-aliens-infestation.json) |
 | Aliens: Neoplasma | 247527 | [247527-aliens-neoplasma.json](./247527-aliens-neoplasma.json) |
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
@@ -9733,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
 | American Civil War Battles | 101433 | [101433-american-civil-war-battles.json](./101433-american-civil-war-battles.json) |
 | American Civil War Mod: Revived | 356166 | [356166-american-civil-war-mod-revived.json](./356166-american-civil-war-mod-revived.json) |
+| American Civil War: From Sumter to Appomattox | 73894 | [73894-american-civil-war-from-sumter-to-appomattox.json](./73894-american-civil-war-from-sumter-to-appomattox.json) |
 | American Civil War: Gettysburg | 63180 | [63180-american-civil-war-gettysburg.json](./63180-american-civil-war-gettysburg.json) |
 | American Commando | 219947 | [219947-american-commando.json](./219947-american-commando.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
@@ -16036,6 +16038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Air Combat | 47694 | [47694-army-men-air-combat.json](./47694-army-men-air-combat.json) |
 | Army Men: Air Combat | 72487 | [72487-army-men-air-combat.json](./72487-army-men-air-combat.json) |
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
+| Army Men: Air Tactics | 73898 | [73898-army-men-air-tactics.json](./73898-army-men-air-tactics.json) |
 | Army Men: Green Rogue | 43554 | [43554-army-men-green-rogue.json](./43554-army-men-green-rogue.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
@@ -20076,7 +20079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Collector's Edition | 254222 | [254222-avatar-frontiers-of-pandora-collectors-edition.json](./254222-avatar-frontiers-of-pandora-collectors-edition.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
-| Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
 | Avatar: Frontiers of Pandora - Gold Edition | 254221 | [254221-avatar-frontiers-of-pandora-gold-edition.json](./254221-avatar-frontiers-of-pandora-gold-edition.json) |
 | Avatar: Frontiers of Pandora - Limited Edition | 254220 | [254220-avatar-frontiers-of-pandora-limited-edition.json](./254220-avatar-frontiers-of-pandora-limited-edition.json) |
 | Avatar: Frontiers of Pandora - Season Pass | 317754 | [317754-avatar-frontiers-of-pandora-season-pass.json](./317754-avatar-frontiers-of-pandora-season-pass.json) |
