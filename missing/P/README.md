@@ -17799,6 +17799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Maverick | 267873 | [267873-project-maverick.json](./267873-project-maverick.json) |
 | Project Maze | 365001 | [365001-project-maze.json](./365001-project-maze.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
+| Project MD | 46159 | [46159-project-md.json](./46159-project-md.json) |
 | Project Medved | 200823 | [200823-project-medved.json](./200823-project-medved.json) |
 | Project Mekuru | 85587 | [85587-project-mekuru.json](./85587-project-mekuru.json) |
 | Project Méliès​​ | 108398 | [108398-project-melies.json](./108398-project-melies.json) |
@@ -20190,6 +20191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Action: Ichidant-R | 39980 | [39980-puzzle-and-action-ichidant-r.json](./39980-puzzle-and-action-ichidant-r.json) |
 | Puzzle & Action: Ichidant-R GG | 46311 | [46311-puzzle-and-action-ichidant-r-gg.json](./46311-puzzle-and-action-ichidant-r-gg.json) |
 | Puzzle & Action: Tant-R | 46071 | [46071-puzzle-and-action-tant-r.json](./46071-puzzle-and-action-tant-r.json) |
+| Puzzle & Action: Tant-R GG | 46292 | [46292-puzzle-and-action-tant-r-gg.json](./46292-puzzle-and-action-tant-r-gg.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Battle | 214337 | [214337-puzzle-and-battle.json](./214337-puzzle-and-battle.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
