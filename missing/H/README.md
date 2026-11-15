@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
 | Hanjuku Hero 4: 7-nin no Hanjuku Hero | 67365 | [67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json](./67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json) |
 | Hanjuku Hero Tai 3D | 67366 | [67366-hanjuku-hero-tai-3d.json](./67366-hanjuku-hero-tai-3d.json) |
+| Hanjuku Hero: Aa Sekai yo Hanjuku Nare | 37441 | [37441-hanjuku-hero-aa-sekai-yo-hanjuku-nare.json](./37441-hanjuku-hero-aa-sekai-yo-hanjuku-nare.json) |
 | Hank | 271027 | [271027-hank.json](./271027-hank.json) |
 | Hank | 70118 | [70118-hank.json](./70118-hank.json) |
 | Hank Haney World Golf | 209790 | [209790-hank-haney-world-golf.json](./209790-hank-haney-world-golf.json) |
@@ -9351,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History: Ice Road Truckers | 66890 | [66890-history-ice-road-truckers.json](./66890-history-ice-road-truckers.json) |
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
 | History's Top Shot | 396685 | [396685-historys-top-shot.json](./396685-historys-top-shot.json) |
+| History2048: 3D puzzle number game | 37417 | [37417-history2048-3d-puzzle-number-game.json](./37417-history2048-3d-puzzle-number-game.json) |
 | HistoryMaker VR | 149347 | [149347-historymaker-vr.json](./149347-historymaker-vr.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hisui no Shizuku: Hiiro no Kakera 2 | 214796 | [214796-hisui-no-shizuku-hiiro-no-kakera-2.json](./214796-hisui-no-shizuku-hiiro-no-kakera-2.json) |
@@ -13574,8 +13576,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter W | 208751 | [208751-hunter-w.json](./208751-hunter-w.json) |
 | Hunter White | 406438 | [406438-hunter-white.json](./406438-hunter-white.json) |
 | Hunter Willie Hunting Wild Safari Dinosaurs | 93885 | [93885-hunter-willie-hunting-wild-safari-dinosaurs.json](./93885-hunter-willie-hunting-wild-safari-dinosaurs.json) |
+| Hunter X Hunter - Michibikareshi Mono | 37439 | [37439-hunter-x-hunter-michibikareshi-mono.json](./37439-hunter-x-hunter-michibikareshi-mono.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter x Hunter: Battle Allstars | 58385 | [58385-hunter-x-hunter-battle-allstars.json](./58385-hunter-x-hunter-battle-allstars.json) |
+| Hunter X Hunter: Greed Island | 37440 | [37440-hunter-x-hunter-greed-island.json](./37440-hunter-x-hunter-greed-island.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Ishi o Tsugomono | 37503 | [37503-hunter-x-hunter-ishi-o-tsugomono.json](./37503-hunter-x-hunter-ishi-o-tsugomono.json) |
 | Hunter X Hunter: Kindan no Hihou | 62309 | [62309-hunter-x-hunter-kindan-no-hihou.json](./62309-hunter-x-hunter-kindan-no-hihou.json) |
@@ -13590,6 +13594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: Nen x Impact - Deluxe Edition | 342407 | [342407-hunter-x-hunter-nen-x-impact-deluxe-edition.json](./342407-hunter-x-hunter-nen-x-impact-deluxe-edition.json) |
 | Hunter x Hunter: Nen x Impact - Season Pass 1 | 342408 | [342408-hunter-x-hunter-nen-x-impact-season-pass-1.json](./342408-hunter-x-hunter-nen-x-impact-season-pass-1.json) |
 | Hunter X Hunter: Ryumyaku no Saidan | 62310 | [62310-hunter-x-hunter-ryumyaku-no-saidan.json](./62310-hunter-x-hunter-ryumyaku-no-saidan.json) |
+| Hunter X Hunter: Sorezore no Ketsui | 37438 | [37438-hunter-x-hunter-sorezore-no-ketsui.json](./37438-hunter-x-hunter-sorezore-no-ketsui.json) |
 | Hunter X Hunter: Ubawareta Aura Stone | 60606 | [60606-hunter-x-hunter-ubawareta-aura-stone.json](./60606-hunter-x-hunter-ubawareta-aura-stone.json) |
 | Hunter X Hunter: Wonder Adventure | 60605 | [60605-hunter-x-hunter-wonder-adventure.json](./60605-hunter-x-hunter-wonder-adventure.json) |
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
