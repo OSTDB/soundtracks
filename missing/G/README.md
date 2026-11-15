@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
 | Galandrix | 298220 | [298220-galandrix.json](./298220-galandrix.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
+| Galapago | 70004 | [70004-galapago.json](./70004-galapago.json) |
 | Galapagos: Mendel's Escape | 68993 | [68993-galapagos-mendels-escape.json](./68993-galapagos-mendels-escape.json) |
 | Galatea | 365132 | [365132-galatea.json](./365132-galatea.json) |
 | Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
