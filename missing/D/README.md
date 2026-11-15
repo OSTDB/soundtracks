@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone | 267799 | [267799-dark-zone.json](./267799-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
+| Dark: Cult of the Dead | 10138 | [10138-dark-cult-of-the-dead.json](./10138-dark-cult-of-the-dead.json) |
 | Dark: Frontier | 94998 | [94998-dark-frontier.json](./94998-dark-frontier.json) |
 | DarkAir | 160094 | [160094-darkair.json](./160094-darkair.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
@@ -3213,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnshard | 267176 | [267176-dawnshard.json](./267176-dawnshard.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawnssley | 92883 | [92883-dawnssley.json](./92883-dawnssley.json) |
+| Dawnstar | 10169 | [10169-dawnstar.json](./10169-dawnstar.json) |
 | Dawnthorn | 129367 | [129367-dawnthorn.json](./129367-dawnthorn.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
 | Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
@@ -5221,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Ring | 199259 | [199259-death-ring.json](./199259-death-ring.json) |
 | Death Ring: Second Impact | 345770 | [345770-death-ring-second-impact.json](./345770-death-ring-second-impact.json) |
 | Death Rings of Jupiter | 55788 | [55788-death-rings-of-jupiter.json](./55788-death-rings-of-jupiter.json) |
+| Death Road | 10174 | [10174-death-road.json](./10174-death-road.json) |
 | Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
@@ -5913,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dweller | 176739 | [176739-deep-dweller.json](./176739-deep-dweller.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Eclipse | 36213 | [36213-deep-eclipse.json](./36213-deep-eclipse.json) |
+| Deep Eclipse: New Space Odyssey | 10176 | [10176-deep-eclipse-new-space-odyssey.json](./10176-deep-eclipse-new-space-odyssey.json) |
 | Deep End | 29498 | [29498-deep-end.json](./29498-deep-end.json) |
 | Deep Enigma | 149722 | [149722-deep-enigma.json](./149722-deep-enigma.json) |
 | Deep Enough | 405926 | [405926-deep-enough.json](./405926-deep-enough.json) |
@@ -6997,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Flame Party Pack | 295446 | [295446-deluxe-flame-party-pack.json](./295446-deluxe-flame-party-pack.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
+| Deluxe Hotel Imperium | 10179 | [10179-deluxe-hotel-imperium.json](./10179-deluxe-hotel-imperium.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
 | Deluxe Ski Jump | 94597 | [94597-deluxe-ski-jump.json](./94597-deluxe-ski-jump.json) |
 | Deluxe Ski Jump 2 | 11676 | [11676-deluxe-ski-jump-2.json](./11676-deluxe-ski-jump-2.json) |
@@ -7158,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Man | 131726 | [131726-demolition-man.json](./131726-demolition-man.json) |
 | Demolition Man | 4341 | [4341-demolition-man.json](./4341-demolition-man.json) |
 | Demolition Master | 106775 | [106775-demolition-master.json](./106775-demolition-master.json) |
+| Demolition Master 3D | 10180 | [10180-demolition-master-3d.json](./10180-demolition-master-3d.json) |
 | Demolition Master 3D HD | 175447 | [175447-demolition-master-3d-hd.json](./175447-demolition-master-3d-hd.json) |
 | Demolition Master: Project Implode All | 224993 | [224993-demolition-master-project-implode-all.json](./224993-demolition-master-project-implode-all.json) |
 | Demolition Party | 235815 | [235815-demolition-party.json](./235815-demolition-party.json) |
@@ -7740,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Dwellers | 71423 | [71423-depth-dwellers.json](./71423-depth-dwellers.json) |
 | Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
 | Depth Gun | 185024 | [185024-depth-gun.json](./185024-depth-gun.json) |
+| Depth Hunter | 10181 | [10181-depth-hunter.json](./10181-depth-hunter.json) |
 | Depth Hunter 2: Deep Dive | 16642 | [16642-depth-hunter-2-deep-dive.json](./16642-depth-hunter-2-deep-dive.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
@@ -8117,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Storm Command Deluxe | 79539 | [79539-desert-storm-command-deluxe.json](./79539-desert-storm-command-deluxe.json) |
 | Desert Storm War FPS | 395768 | [395768-desert-storm-war-fps.json](./395768-desert-storm-war-fps.json) |
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
+| Desert Stormfront | 10183 | [10183-desert-stormfront.json](./10183-desert-stormfront.json) |
 | Desert Strike: Return to the Gulf | 19852 | [19852-desert-strike-return-to-the-gulf.json](./19852-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 228494 | [228494-desert-strike-return-to-the-gulf.json](./228494-desert-strike-return-to-the-gulf.json) |
 | Desert Strike: Return to the Gulf | 6798 | [6798-desert-strike-return-to-the-gulf.json](./6798-desert-strike-return-to-the-gulf.json) |
@@ -10030,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DieselDome: Oil & Blood | 244127 | [244127-dieseldome-oil-and-blood.json](./244127-dieseldome-oil-and-blood.json) |
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
 | Dieselråttor & Sjömansmöss: Jakten på Solkatten | 399386 | [399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json](./399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json) |
+| DieselStormers | 10185 | [10185-dieselstormers.json](./10185-dieselstormers.json) |
 | Diesuki Dungeon | 376868 | [376868-diesuki-dungeon.json](./376868-diesuki-dungeon.json) |
 | Diet 32in24 | 274162 | [274162-diet-32in24.json](./274162-diet-32in24.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
@@ -13230,6 +13239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight | 196924 | [196924-dogfight.json](./196924-dogfight.json) |
+| Dogfight 1942: Fire over Africa | 10190 | [10190-dogfight-1942-fire-over-africa.json](./10190-dogfight-1942-fire-over-africa.json) |
+| Dogfight 1942: Russia Under Siege | 10189 | [10189-dogfight-1942-russia-under-siege.json](./10189-dogfight-1942-russia-under-siege.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight Darlings | 390322 | [390322-dogfight-darlings.json](./390322-dogfight-darlings.json) |
 | Dogfight Elite | 32539 | [32539-dogfight-elite.json](./32539-dogfight-elite.json) |
@@ -17603,6 +17614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawaria.online | 136529 | [136529-drawaria-online.json](./136529-drawaria-online.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
+| Drawception | 10145 | [10145-drawception.json](./10145-drawception.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
 | Drawdl.io | 362062 | [362062-drawdl-io.json](./362062-drawdl-io.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
