@@ -20057,6 +20057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crony Corp | 325307 | [325307-crony-corp.json](./325307-crony-corp.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
 | Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
+| Crooked Frames | 424541 | [424541-crooked-frames.json](./424541-crooked-frames.json) |
 | Crooked Path | 57784 | [57784-crooked-path.json](./57784-crooked-path.json) |
 | Crooked Pines | 385418 | [385418-crooked-pines.json](./385418-crooked-pines.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
