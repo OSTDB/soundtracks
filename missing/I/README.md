@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus M: Guild War | 309569 | [309569-icarus-m-guild-war.json](./309569-icarus-m-guild-war.json) |
 | Icarus Needs | 119505 | [119505-icarus-needs.json](./119505-icarus-needs.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
+| Icarus Proudbottom in the Curse of the Chocolate Fountain | 61827 | [61827-icarus-proudbottom-in-the-curse-of-the-chocolate-fountain.json](./61827-icarus-proudbottom-in-the-curse-of-the-chocolate-fountain.json) |
 | Icarus Proudbottom Teaches Typing | 63032 | [63032-icarus-proudbottom-teaches-typing.json](./63032-icarus-proudbottom-teaches-typing.json) |
 | Icarus Proudbottom's Typing Party | 142078 | [142078-icarus-proudbottoms-typing-party.json](./142078-icarus-proudbottoms-typing-party.json) |
 | Icarus Proudbottom's World of Typing Weekly! | 61865 | [61865-icarus-proudbottoms-world-of-typing-weekly.json](./61865-icarus-proudbottoms-world-of-typing-weekly.json) |
@@ -3359,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Winter: A New Apartment | 337354 | [337354-in-winter-a-new-apartment.json](./337354-in-winter-a-new-apartment.json) |
 | In Wonderland | 260344 | [260344-in-wonderland.json](./260344-in-wonderland.json) |
 | In Woods | 217140 | [217140-in-woods.json](./217140-in-woods.json) |
+| In Your Arms Tonight | 63488 | [63488-in-your-arms-tonight.json](./63488-in-your-arms-tonight.json) |
 | In Your Arms Tonight 2 | 238888 | [238888-in-your-arms-tonight-2.json](./238888-in-your-arms-tonight-2.json) |
 | In Your Books | 204167 | [204167-in-your-books.json](./204167-in-your-books.json) |
 | In Your Dreams | 423911 | [423911-in-your-dreams.json](./423911-in-your-dreams.json) |
