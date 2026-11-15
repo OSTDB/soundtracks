@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schism | 383895 | [383895-schism.json](./383895-schism.json) |
+| Schism | 425777 | [425777-schism.json](./425777-schism.json) |
 | Schismo's Sideshow | 313985 | [313985-schismos-sideshow.json](./313985-schismos-sideshow.json) |
 | Schizm: Mysterious Journey | 73940 | [73940-schizm-mysterious-journey.json](./73940-schizm-mysterious-journey.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
@@ -3565,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SciGirl: The Internship | 143859 | [143859-scigirl-the-internship.json](./143859-scigirl-the-internship.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scila e il Drago Diamante | 380387 | [380387-scila-e-il-drago-diamante.json](./380387-scila-e-il-drago-diamante.json) |
+| Scimagic: The Magic World Is Bugged, Fix It With Science! | 425821 | [425821-scimagic-the-magic-world-is-bugged-fix-it-with-science.json](./425821-scimagic-the-magic-world-is-bugged-fix-it-with-science.json) |
 | Scimitar | 273721 | [273721-scimitar.json](./273721-scimitar.json) |
 | Scintillatron 4096 | 118701 | [118701-scintillatron-4096.json](./118701-scintillatron-4096.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
@@ -18116,6 +18118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
 | Sojo | 260257 | [260257-sojo.json](./260257-sojo.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
+| Sojourn Saga | 425794 | [425794-sojourn-saga.json](./425794-sojourn-saga.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sojourner | 401457 | [401457-sojourner.json](./401457-sojourner.json) |
 | Sojourner | 54901 | [54901-sojourner.json](./54901-sojourner.json) |
