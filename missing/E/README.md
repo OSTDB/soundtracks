@@ -243,6 +243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2140: Mission Pack 2 - Final Conflict | 73593 | [73593-earth-2140-mission-pack-2-final-conflict.json](./73593-earth-2140-mission-pack-2-final-conflict.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth 2150 Trilogy | 30238 | [30238-earth-2150-trilogy.json](./30238-earth-2150-trilogy.json) |
+| Earth 2150: Lost Souls | 8934 | [8934-earth-2150-lost-souls.json](./8934-earth-2150-lost-souls.json) |
+| Earth 2150: The Moon Project | 8933 | [8933-earth-2150-the-moon-project.json](./8933-earth-2150-the-moon-project.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
 | Earth 2160: Edition 2012 | 53974 | [53974-earth-2160-edition-2012.json](./53974-earth-2160-edition-2012.json) |
 | Earth Analog | 127581 | [127581-earth-analog.json](./127581-earth-analog.json) |
@@ -437,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth's Dawn | 23499 | [23499-earths-dawn.json](./23499-earths-dawn.json) |
 | Earth's Greatest Defender | 244619 | [244619-earths-greatest-defender.json](./244619-earths-greatest-defender.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
+| Earth's Last Live | 429742 | [429742-earths-last-live.json](./429742-earths-last-live.json) |
 | Earth's Shadow | 164078 | [164078-earths-shadow.json](./164078-earths-shadow.json) |
 | Earthblade | 145983 | [145983-earthblade.json](./145983-earthblade.json) |
 | Earthborne | 303054 | [303054-earthborne.json](./303054-earthborne.json) |
@@ -3139,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
 | Elsewhere | 407070 | [407070-elsewhere.json](./407070-elsewhere.json) |
+| Elsewhere Battles | 429757 | [429757-elsewhere-battles.json](./429757-elsewhere-battles.json) |
 | Elsewhere Electric | 336146 | [336146-elsewhere-electric.json](./336146-elsewhere-electric.json) |
 | Elsewhere High: Chapter 1 - A Visual Novel | 29599 | [29599-elsewhere-high-chapter-1-a-visual-novel.json](./29599-elsewhere-high-chapter-1-a-visual-novel.json) |
 | Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
@@ -9076,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exponential Idle | 138416 | [138416-exponential-idle.json](./138416-exponential-idle.json) |
 | Export Simulator | 102436 | [102436-export-simulator.json](./102436-export-simulator.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
+| Exposed Livestream: Gamble | 429867 | [429867-exposed-livestream-gamble.json](./429867-exposed-livestream-gamble.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
 | Exposure | 101244 | [101244-exposure.json](./101244-exposure.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
