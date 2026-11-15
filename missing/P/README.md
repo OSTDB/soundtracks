@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
 | Pac-Man Pinball Advance | 6529 | [6529-pac-man-pinball-advance.json](./6529-pac-man-pinball-advance.json) |
 | Pac-Man Pizza Parlor | 25373 | [25373-pac-man-pizza-parlor.json](./25373-pac-man-pizza-parlor.json) |
+| Pac-Man Pop! | 57836 | [57836-pac-man-pop.json](./57836-pac-man-pop.json) |
 | Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
@@ -4279,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peeko | 98739 | [98739-peeko.json](./98739-peeko.json) |
 | Peel a Banana | 368557 | [368557-peel-a-banana.json](./368557-peel-a-banana.json) |
+| Peen Peen | 57852 | [57852-peen-peen.json](./57852-peen-peen.json) |
 | Peep | 120658 | [120658-peep.json](./120658-peep.json) |
 | Peep Invasion | 197513 | [197513-peep-invasion.json](./197513-peep-invasion.json) |
 | Peep the Trayton | 187803 | [187803-peep-the-trayton.json](./187803-peep-the-trayton.json) |
@@ -4979,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
 | Perfect Weapon | 44981 | [44981-perfect-weapon.json](./44981-perfect-weapon.json) |
 | Perfect Wedding Solitaire | 386126 | [386126-perfect-wedding-solitaire.json](./386126-perfect-wedding-solitaire.json) |
+| Perfect Woman | 57819 | [57819-perfect-woman.json](./57819-perfect-woman.json) |
 | Perfect World | 302776 | [302776-perfect-world.json](./302776-perfect-world.json) |
 | Perfect World | 8747 | [8747-perfect-world.json](./8747-perfect-world.json) |
 | Perfect World International | 50368 | [50368-perfect-world-international.json](./50368-perfect-world-international.json) |
@@ -20556,6 +20559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 2: Crossword | 83304 | [83304-puzzle-series-vol-2-crossword.json](./83304-puzzle-series-vol-2-crossword.json) |
 | Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
 | Puzzle Series Vol. 3: Sudoku | 269954 | [269954-puzzle-series-vol-3-sudoku.json](./269954-puzzle-series-vol-3-sudoku.json) |
+| Puzzle Series Vol. 4: Kakuro | 57304 | [57304-puzzle-series-vol-4-kakuro.json](./57304-puzzle-series-vol-4-kakuro.json) |
 | Puzzle Series Vol. 5: Slitherlink | 28963 | [28963-puzzle-series-vol-5-slitherlink.json](./28963-puzzle-series-vol-5-slitherlink.json) |
 | Puzzle Series Vol. 6: Illust Logic | 57305 | [57305-puzzle-series-vol-6-illust-logic.json](./57305-puzzle-series-vol-6-illust-logic.json) |
 | Puzzle Series Vol. 7: Crossword 2 | 83301 | [83301-puzzle-series-vol-7-crossword-2.json](./83301-puzzle-series-vol-7-crossword-2.json) |
