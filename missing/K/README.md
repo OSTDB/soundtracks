@@ -6666,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukoro: Stream Chat Games | 137372 | [137372-kukoro-stream-chat-games.json](./137372-kukoro-stream-chat-games.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
+| Kukui | 55430 | [55430-kukui.json](./55430-kukui.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
 | Kukulcan | 125862 | [125862-kukulcan.json](./125862-kukulcan.json) |
 | Kukulu | 385281 | [385281-kukulu.json](./385281-kukulu.json) |
