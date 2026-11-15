@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepsi Invaders | 40715 | [40715-pepsi-invaders.json](./40715-pepsi-invaders.json) |
 | Pepsi Max Extreme Sports | 110806 | [110806-pepsi-max-extreme-sports.json](./110806-pepsi-max-extreme-sports.json) |
 | Pepsi Nex Game | 315595 | [315595-pepsi-nex-game.json](./315595-pepsi-nex-game.json) |
+| Pepsi Pinball | 425812 | [425812-pepsi-pinball.json](./425812-pepsi-pinball.json) |
 | Pepsi Summer Quest | 227663 | [227663-pepsi-summer-quest.json](./227663-pepsi-summer-quest.json) |
 | Pepsiman | 79500 | [79500-pepsiman.json](./79500-pepsiman.json) |
 | Pequeno Eu | 290082 | [290082-pequeno-eu.json](./290082-pequeno-eu.json) |
