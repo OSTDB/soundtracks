@@ -6971,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wirm | 366589 | [366589-wirm.json](./366589-wirm.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
+| Wisdom of War | 40458 | [40458-wisdom-of-war.json](./40458-wisdom-of-war.json) |
 | Wisdom Tower | 382499 | [382499-wisdom-tower.json](./382499-wisdom-tower.json) |
 | Wisdom Tree Collection | 134347 | [134347-wisdom-tree-collection.json](./134347-wisdom-tree-collection.json) |
 | Wisdom Tree GBA Collection | 134349 | [134349-wisdom-tree-gba-collection.json](./134349-wisdom-tree-gba-collection.json) |
