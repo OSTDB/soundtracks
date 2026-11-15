@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona USA 2: Battle on the Edge | 39291 | [39291-daytona-usa-2-battle-on-the-edge.json](./39291-daytona-usa-2-battle-on-the-edge.json) |
 | Daytona USA 2: Power Edition | 349356 | [349356-daytona-usa-2-power-edition.json](./349356-daytona-usa-2-power-edition.json) |
 | Daytona USA Deluxe | 73482 | [73482-daytona-usa-deluxe.json](./73482-daytona-usa-deluxe.json) |
+| Daytona USA: Championship Circuit Edition | 45500 | [45500-daytona-usa-championship-circuit-edition.json](./45500-daytona-usa-championship-circuit-edition.json) |
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | DayZ: Cool Edition | 331815 | [331815-dayz-cool-edition.json](./331815-dayz-cool-edition.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
@@ -4353,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
 | Dead Rising 4: Frank Rising | 27886 | [27886-dead-rising-4-frank-rising.json](./27886-dead-rising-4-frank-rising.json) |
+| Dead Rising 4: Frank's Big Package | 57693 | [57693-dead-rising-4-franks-big-package.json](./57693-dead-rising-4-franks-big-package.json) |
 | Dead Rising 4: Special Edition | 136670 | [136670-dead-rising-4-special-edition.json](./136670-dead-rising-4-special-edition.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Ashley Graham | 360166 | [360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json](./360166-dead-rising-deluxe-remaster-costume-and-bgm-ashley-graham.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Chainsaw Villager | 360164 | [360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json](./360164-dead-rising-deluxe-remaster-costume-and-bgm-chainsaw-villager.json) |
@@ -20403,6 +20405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gore: Lost Treasury | 319908 | [319908-dungeon-gore-lost-treasury.json](./319908-dungeon-gore-lost-treasury.json) |
 | Dungeon Gunner | 233391 | [233391-dungeon-gunner.json](./233391-dungeon-gunner.json) |
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
+| Dungeon Hearts | 9827 | [9827-dungeon-hearts.json](./9827-dungeon-hearts.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
 | Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
 | Dungeon Heroes | 261637 | [261637-dungeon-heroes.json](./261637-dungeon-heroes.json) |
