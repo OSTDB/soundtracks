@@ -11354,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plungeez | 309499 | [309499-plungeez.json](./309499-plungeez.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
 | Plunger Knight - Washers of Truth | 116924 | [116924-plunger-knight-washers-of-truth.json](./116924-plunger-knight-washers-of-truth.json) |
+| Plunger Lunger | 50196 | [50196-plunger-lunger.json](./50196-plunger-lunger.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
 | Plungeroo | 247732 | [247732-plungeroo.json](./247732-plungeroo.json) |
 | Plunker | 128980 | [128980-plunker.json](./128980-plunker.json) |
@@ -15293,6 +15294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powers in the Basement | 276979 | [276979-powers-in-the-basement.json](./276979-powers-in-the-basement.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
+| Powershot Pinball | 50108 | [50108-powershot-pinball.json](./50108-powershot-pinball.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | Powerslam | 101679 | [101679-powerslam.json](./101679-powerslam.json) |
@@ -16189,6 +16191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Arthur | 63990 | [63990-princess-arthur.json](./63990-princess-arthur.json) |
 | Princess Arthur for Nintendo Switch | 251488 | [251488-princess-arthur-for-nintendo-switch.json](./251488-princess-arthur-for-nintendo-switch.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
+| Princess Blue: Hime Kishi Monogatari | 49628 | [49628-princess-blue-hime-kishi-monogatari.json](./49628-princess-blue-hime-kishi-monogatari.json) |
 | Princess Bubble Story | 266058 | [266058-princess-bubble-story.json](./266058-princess-bubble-story.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
