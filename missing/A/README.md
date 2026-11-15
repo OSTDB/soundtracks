@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
 | Adventure Game Pack Volume 1 | 145140 | [145140-adventure-game-pack-volume-1.json](./145140-adventure-game-pack-volume-1.json) |
 | Adventure Generation Online | 92024 | [92024-adventure-generation-online.json](./92024-adventure-generation-online.json) |
+| Adventure Golf VR | 75254 | [75254-adventure-golf-vr.json](./75254-adventure-golf-vr.json) |
 | Adventure Guild Receptionist | 379484 | [379484-adventure-guild-receptionist.json](./379484-adventure-guild-receptionist.json) |
 | Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
@@ -13633,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
 | Aquarium | 257196 | [257196-aquarium.json](./257196-aquarium.json) |
+| Aquarium | 75301 | [75301-aquarium.json](./75301-aquarium.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
 | Aquarium at August 32nd | 330633 | [330633-aquarium-at-august-32nd.json](./330633-aquarium-at-august-32nd.json) |
 | Aquarium at August 32nd VR | 337961 | [337961-aquarium-at-august-32nd-vr.json](./337961-aquarium-at-august-32nd-vr.json) |
@@ -19568,6 +19570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Oasis Adventure | 355963 | [355963-aurora-oasis-adventure.json](./355963-aurora-oasis-adventure.json) |
 | Aurora: Puzzle Adventure | 25827 | [25827-aurora-puzzle-adventure.json](./25827-aurora-puzzle-adventure.json) |
+| Aurora: The Lost Medallion - The Cave | 75279 | [75279-aurora-the-lost-medallion-the-cave.json](./75279-aurora-the-lost-medallion-the-cave.json) |
 | Aurora: The Secret Within | 71980 | [71980-aurora-the-secret-within.json](./71980-aurora-the-secret-within.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | Aurora's Awakening | 403798 | [403798-auroras-awakening.json](./403798-auroras-awakening.json) |
