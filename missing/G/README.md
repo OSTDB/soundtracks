@@ -10334,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridpaper | 383199 | [383199-gridpaper.json](./383199-gridpaper.json) |
 | Gridpunk | 234998 | [234998-gridpunk.json](./234998-gridpunk.json) |
 | GridRoad | 269761 | [269761-gridroad.json](./269761-gridroad.json) |
+| Gridrunner | 18663 | [18663-gridrunner.json](./18663-gridrunner.json) |
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
 | Gridrunner Revolution | 14947 | [14947-gridrunner-revolution.json](./14947-gridrunner-revolution.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
