@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Apocalypse | 346297 | [346297-lemonade-apocalypse.json](./346297-lemonade-apocalypse.json) |
+| Lemonade Stand | 11508 | [11508-lemonade-stand.json](./11508-lemonade-stand.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Stand | 234287 | [234287-lemonade-stand.json](./234287-lemonade-stand.json) |
 | Lemonade Tycoon | 11824 | [11824-lemonade-tycoon.json](./11824-lemonade-tycoon.json) |
@@ -10970,6 +10971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaPri from Empire of Angels | 56118 | [56118-lunapri-from-empire-of-angels.json](./56118-lunapri-from-empire-of-angels.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
+| Lunar | 11487 | [11487-lunar.json](./11487-lunar.json) |
 | Lunar // Drill | 320041 | [320041-lunar-drill.json](./320041-lunar-drill.json) |
 | Lunar 2: Eternal Blue Complete | 328114 | [328114-lunar-2-eternal-blue-complete.json](./328114-lunar-2-eternal-blue-complete.json) |
 | Lunar 2: Eternal Blue Complete | 44998 | [44998-lunar-2-eternal-blue-complete.json](./44998-lunar-2-eternal-blue-complete.json) |
