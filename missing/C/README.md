@@ -5080,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Categories | 324648 | [324648-categories.json](./324648-categories.json) |
 | Category 6 | 292445 | [292445-category-6.json](./292445-category-6.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
+| Category Connections | 420902 | [420902-category-connections.json](./420902-category-connections.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
 | Category I: Shisenjou no Survivor | 221682 | [221682-category-i-shisenjou-no-survivor.json](./221682-category-i-shisenjou-no-survivor.json) |
 | Catellite-609: Feline Space Adventure | 189788 | [189788-catellite-609-feline-space-adventure.json](./189788-catellite-609-feline-space-adventure.json) |
@@ -9669,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoquartz | 344500 | [344500-chronoquartz.json](./344500-chronoquartz.json) |
 | ChronoQuest VR | 412200 | [412200-chronoquest-vr.json](./412200-chronoquest-vr.json) |
 | Chronoraptor | 117459 | [117459-chronoraptor.json](./117459-chronoraptor.json) |
+| ChronoRewind: The Great Ritual | 421027 | [421027-chronorewind-the-great-ritual.json](./421027-chronorewind-the-great-ritual.json) |
 | Chronos | 13492 | [13492-chronos.json](./13492-chronos.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Affinity | 250751 | [250751-chronos-affinity.json](./250751-chronos-affinity.json) |
@@ -12937,6 +12939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Fun | 228765 | [228765-coffee-fun.json](./228765-coffee-fun.json) |
 | Coffee Golf | 252420 | [252420-coffee-golf.json](./252420-coffee-golf.json) |
 | Coffee House Chaos! | 206983 | [206983-coffee-house-chaos.json](./206983-coffee-house-chaos.json) |
+| Coffee In Space | 420895 | [420895-coffee-in-space.json](./420895-coffee-in-space.json) |
 | Coffee Inc 2 | 193686 | [193686-coffee-inc-2.json](./193686-coffee-inc-2.json) |
 | Coffee Keeper | 426935 | [426935-coffee-keeper.json](./426935-coffee-keeper.json) |
 | Coffee Kiss | 179079 | [179079-coffee-kiss.json](./179079-coffee-kiss.json) |
@@ -21624,6 +21627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Shifter | 157267 | [157267-cube-shifter.json](./157267-cube-shifter.json) |
 | Cube Shifu | 174492 | [174492-cube-shifu.json](./174492-cube-shifu.json) |
 | Cube Shooter | 363065 | [363065-cube-shooter.json](./363065-cube-shooter.json) |
+| Cube Siege | 420995 | [420995-cube-siege.json](./420995-cube-siege.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap | 88964 | [88964-cube-snap.json](./88964-cube-snap.json) |
