@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Mania | 411189 | [411189-tank-mania.json](./411189-tank-mania.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Masters | 115191 | [115191-tank-masters.json](./115191-tank-masters.json) |
+| Tank Mates | 421642 | [421642-tank-mates.json](./421642-tank-mates.json) |
 | Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Mechanic Simulator | 43115 | [43115-tank-mechanic-simulator.json](./43115-tank-mechanic-simulator.json) |
@@ -13400,6 +13401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Dance | 50358 | [50358-the-last-dance.json](./50358-the-last-dance.json) |
 | The Last Dance Saloon | 188175 | [188175-the-last-dance-saloon.json](./188175-the-last-dance-saloon.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
+| The Last Day | 421644 | [421644-the-last-day.json](./421644-the-last-day.json) |
 | The Last Day of Adolf | 388884 | [388884-the-last-day-of-adolf.json](./388884-the-last-day-of-adolf.json) |
 | The Last day of Han Dynasty | 284602 | [284602-the-last-day-of-han-dynasty.json](./284602-the-last-day-of-han-dynasty.json) |
 | The Last Days | 147772 | [147772-the-last-days.json](./147772-the-last-days.json) |
@@ -19235,6 +19237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
 | The Stealth Inc 1 & 2 Ultimate-est Edition | 118503 | [118503-the-stealth-inc-1-and-2-ultimate-est-edition.json](./118503-the-stealth-inc-1-and-2-ultimate-est-edition.json) |
+| The Steamboat of Madness | 421645 | [421645-the-steamboat-of-madness.json](./421645-the-steamboat-of-madness.json) |
 | The Stellar Station Engineer | 306396 | [306396-the-stellar-station-engineer.json](./306396-the-stellar-station-engineer.json) |
 | The Stepfather Remake | 332279 | [332279-the-stepfather-remake.json](./332279-the-stepfather-remake.json) |
 | The Steps as We Know Them | 149875 | [149875-the-steps-as-we-know-them.json](./149875-the-steps-as-we-know-them.json) |
@@ -19910,6 +19913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
 | The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
 | The Time Plague | 253831 | [253831-the-time-plague.json](./253831-the-time-plague.json) |
+| The Time Trap | 421542 | [421542-the-time-trap.json](./421542-the-time-trap.json) |
 | The Time Traveler's Lost and Found | 397450 | [397450-the-time-travelers-lost-and-found.json](./397450-the-time-travelers-lost-and-found.json) |
 | The Time Traveling Toxicologist | 338999 | [338999-the-time-traveling-toxicologist.json](./338999-the-time-traveling-toxicologist.json) |
 | The Time Warp of Dr. Brain | 72309 | [72309-the-time-warp-of-dr-brain.json](./72309-the-time-warp-of-dr-brain.json) |
@@ -26141,6 +26145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timore Narhelma | 317381 | [317381-timore-narhelma.json](./317381-timore-narhelma.json) |
 | Timore Redo | 172209 | [172209-timore-redo.json](./172209-timore-redo.json) |
 | Timore Remake | 220547 | [220547-timore-remake.json](./220547-timore-remake.json) |
+| Timore Solum | 421646 | [421646-timore-solum.json](./421646-timore-solum.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Mysterious Forest | 122144 | [122144-timothy-and-the-mysterious-forest.json](./122144-timothy-and-the-mysterious-forest.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
@@ -27059,6 +27064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Leave: Deluxe Edition | 221493 | [221493-to-leave-deluxe-edition.json](./221493-to-leave-deluxe-edition.json) |
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
+| To Loose Your Way | 421619 | [421619-to-loose-your-way.json](./421619-to-loose-your-way.json) |
 | To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
 | To Love-Ru -Trouble- Darkness: True Princess | 13553 | [13553-to-love-ru-trouble-darkness-true-princess.json](./13553-to-love-ru-trouble-darkness-true-princess.json) |
 | To Love-ru Darkness Gravure Chance | 175683 | [175683-to-love-ru-darkness-gravure-chance.json](./175683-to-love-ru-darkness-gravure-chance.json) |
@@ -33641,6 +33647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
 | Trap Tag | 148264 | [148264-trap-tag.json](./148264-trap-tag.json) |
+| Trap Testers | 421631 | [421631-trap-testers.json](./421631-trap-testers.json) |
 | Trap Them | 35098 | [35098-trap-them.json](./35098-trap-them.json) |
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
 | Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
