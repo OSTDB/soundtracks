@@ -6722,7 +6722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godball | 152043 | [152043-godball.json](./152043-godball.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Godblade | 419986 | [419986-godblade.json](./419986-godblade.json) |
-| Godbreakers | 358248 | [358248-godbreakers.json](./358248-godbreakers.json) |
 | Goddess | 182736 | [182736-goddess.json](./182736-goddess.json) |
 | Goddess Arrival | 276662 | [276662-goddess-arrival.json](./276662-goddess-arrival.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
