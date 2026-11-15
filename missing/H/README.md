@@ -4218,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavydelic | 396660 | [396660-heavydelic.json](./396660-heavydelic.json) |
 | Heavyweight Champ | 172525 | [172525-heavyweight-champ.json](./172525-heavyweight-champ.json) |
 | Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
+| Heavyweight Championship Boxing | 48981 | [48981-heavyweight-championship-boxing.json](./48981-heavyweight-championship-boxing.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Heavyweight Transport Simulator | 10405 | [10405-heavyweight-transport-simulator.json](./10405-heavyweight-transport-simulator.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
