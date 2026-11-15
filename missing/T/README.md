@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
 | Tacom Island | 401902 | [401902-tacom-island.json](./401902-tacom-island.json) |
 | Tacoma | 8259 | [8259-tacoma.json](./8259-tacoma.json) |
+| Tacopocalypse | 34092 | [34092-tacopocalypse.json](./34092-tacopocalypse.json) |
 | TacOps | 77252 | [77252-tacops.json](./77252-tacops.json) |
 | Tacs Classic Collection | 403728 | [403728-tacs-classic-collection.json](./403728-tacs-classic-collection.json) |
 | TacTac Prologue | 198383 | [198383-tactac-prologue.json](./198383-tactac-prologue.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tectron: Omorashi Baby | 385826 | [385826-tectron-omorashi-baby.json](./385826-tectron-omorashi-baby.json) |
 | Tectus | 106375 | [106375-tectus.json](./106375-tectus.json) |
 | Ted by Dawn | 34963 | [34963-ted-by-dawn.json](./34963-ted-by-dawn.json) |
+| Ted Ginn: Kick Return | 87422 | [87422-ted-ginn-kick-return.json](./87422-ted-ginn-kick-return.json) |
 | Ted Nugent - Wild Hunting Adventure | 118558 | [118558-ted-nugent-wild-hunting-adventure.json](./118558-ted-nugent-wild-hunting-adventure.json) |
 | Ted Remixed | 98210 | [98210-ted-remixed.json](./98210-ted-remixed.json) |
 | Ted The Jumper | 177077 | [177077-ted-the-jumper.json](./177077-ted-the-jumper.json) |
@@ -6233,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of MicroMan | 70241 | [70241-the-adventures-of-microman.json](./70241-the-adventures-of-microman.json) |
 | The Adventures of Mighty Max | 8121 | [8121-the-adventures-of-mighty-max.json](./8121-the-adventures-of-mighty-max.json) |
 | The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
+| The Adventures of Mr. Fluffykins | 107937 | [107937-the-adventures-of-mr-fluffykins.json](./107937-the-adventures-of-mr-fluffykins.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
 | The Adventures of Mr. Tickle | 73581 | [73581-the-adventures-of-mr-tickle.json](./73581-the-adventures-of-mr-tickle.json) |
@@ -11555,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Word Adventure | 65363 | [65363-the-great-word-adventure.json](./65363-the-great-word-adventure.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
+| The Greater Good | 107945 | [107945-the-greater-good.json](./107945-the-greater-good.json) |
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Greatest Hero | 28459 | [28459-the-greatest-hero.json](./28459-the-greatest-hero.json) |
@@ -15781,6 +15785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Eldham | 365548 | [365548-the-mystery-of-eldham.json](./365548-the-mystery-of-eldham.json) |
 | The Mystery of Happyville | 104958 | [104958-the-mystery-of-happyville.json](./104958-the-mystery-of-happyville.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
+| The Mystery of Lost Town | 87442 | [87442-the-mystery-of-lost-town.json](./87442-the-mystery-of-lost-town.json) |
 | The Mystery of Mount Fang | 287311 | [287311-the-mystery-of-mount-fang.json](./287311-the-mystery-of-mount-fang.json) |
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
 | The Mystery of Oak Island | 425197 | [425197-the-mystery-of-oak-island.json](./425197-the-mystery-of-oak-island.json) |
@@ -16991,6 +16996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Projet Poulet | 287906 | [287906-the-projet-poulet.json](./287906-the-projet-poulet.json) |
 | The Prometheus Secret Noohra | 110696 | [110696-the-prometheus-secret-noohra.json](./110696-the-prometheus-secret-noohra.json) |
+| The Promethium Effect | 75950 | [75950-the-promethium-effect.json](./75950-the-promethium-effect.json) |
 | The Promise of Forever | 323991 | [323991-the-promise-of-forever.json](./323991-the-promise-of-forever.json) |
 | The Promise of Forever 2 | 323992 | [323992-the-promise-of-forever-2.json](./323992-the-promise-of-forever-2.json) |
 | The Promise Tree of Alden | 383447 | [383447-the-promise-tree-of-alden.json](./383447-the-promise-tree-of-alden.json) |
@@ -29611,6 +29617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
 | Touhou Big Big Battle: Yuyuko's Food-hunting Adventure | 172241 | [172241-touhou-big-big-battle-yuyukos-food-hunting-adventure.json](./172241-touhou-big-big-battle-yuyukos-food-hunting-adventure.json) |
 | Touhou Block Fall: Yukari | 169554 | [169554-touhou-block-fall-yukari.json](./169554-touhou-block-fall-yukari.json) |
+| Touhou Blooming Chaos | 123483 | [123483-touhou-blooming-chaos.json](./123483-touhou-blooming-chaos.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 1 | 170962 | [170962-touhou-blooming-chaos-2-chara-pack-1.json](./170962-touhou-blooming-chaos-2-chara-pack-1.json) |
 | Touhou Blooming Chaos 2: Chara Pack 2 | 170961 | [170961-touhou-blooming-chaos-2-chara-pack-2.json](./170961-touhou-blooming-chaos-2-chara-pack-2.json) |
@@ -33494,6 +33501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transplatform | 259904 | [259904-transplatform.json](./259904-transplatform.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
+| Transport Agent 3D | 87401 | [87401-transport-agent-3d.json](./87401-transport-agent-3d.json) |
 | Transport Defender | 101912 | [101912-transport-defender.json](./101912-transport-defender.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
 | Transport Empire | 19524 | [19524-transport-empire.json](./19524-transport-empire.json) |
