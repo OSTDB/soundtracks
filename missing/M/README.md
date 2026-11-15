@@ -3386,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandrake Phantasy | 183300 | [183300-mandrake-phantasy.json](./183300-mandrake-phantasy.json) |
 | Mandrake The Magician | 344315 | [344315-mandrake-the-magician.json](./344315-mandrake-the-magician.json) |
 | Mandrake Town | 102553 | [102553-mandrake-town.json](./102553-mandrake-town.json) |
+| Mandroid | 36555 | [36555-mandroid.json](./36555-mandroid.json) |
 | Mandy's Room 2: Naughty By Nature | 367014 | [367014-mandys-room-2-naughty-by-nature.json](./367014-mandys-room-2-naughty-by-nature.json) |
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
@@ -6496,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matzerath's Classic Flash Games | 419780 | [419780-matzeraths-classic-flash-games.json](./419780-matzeraths-classic-flash-games.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
+| Maui | 36598 | [36598-maui.json](./36598-maui.json) |
 | Maui Mallard in Cold Shadow | 8448 | [8448-maui-mallard-in-cold-shadow.json](./8448-maui-mallard-in-cold-shadow.json) |
 | Maui Pong | 403930 | [403930-maui-pong.json](./403930-maui-pong.json) |
 | Maui The Shapeshifter | 314425 | [314425-maui-the-shapeshifter.json](./314425-maui-the-shapeshifter.json) |
@@ -21736,9 +21738,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery: Who Killed Linda Neuman | 251095 | [251095-murder-mystery-who-killed-linda-neuman.json](./251095-murder-mystery-who-killed-linda-neuman.json) |
 | Murder Next Room | 225214 | [225214-murder-next-room.json](./225214-murder-next-room.json) |
 | Murder of the Bear lake | 192579 | [192579-murder-of-the-bear-lake.json](./192579-murder-of-the-bear-lake.json) |
+| Murder off Miami | 36559 | [36559-murder-off-miami.json](./36559-murder-off-miami.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on Space Station 52 | 197526 | [197526-murder-on-space-station-52.json](./197526-murder-on-space-station-52.json) |
+| Murder on the Atlantic | 36563 | [36563-murder-on-the-atlantic.json](./36563-murder-on-the-atlantic.json) |
 | Murder on the Disorient Express | 406054 | [406054-murder-on-the-disorient-express.json](./406054-murder-on-the-disorient-express.json) |
 | Murder on the Eurasia Express | 60260 | [60260-murder-on-the-eurasia-express.json](./60260-murder-on-the-eurasia-express.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
