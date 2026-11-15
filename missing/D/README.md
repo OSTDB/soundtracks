@@ -12199,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Dittori | 403316 | [403316-dittori.json](./403316-dittori.json) |
 | Diva | 122282 | [122282-diva.json](./122282-diva.json) |
+| Diva Girls: Diva Dancers | 70531 | [70531-diva-girls-diva-dancers.json](./70531-diva-girls-diva-dancers.json) |
 | Diva Girls: Divas on Ice | 51035 | [51035-diva-girls-divas-on-ice.json](./51035-diva-girls-divas-on-ice.json) |
 | Diva Girls: Princess on Ice 2 | 69104 | [69104-diva-girls-princess-on-ice-2.json](./69104-diva-girls-princess-on-ice-2.json) |
 | Diva Lovers | 367193 | [367193-diva-lovers.json](./367193-diva-lovers.json) |
