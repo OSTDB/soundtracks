@@ -7870,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi | 301424 | [301424-chi.json](./301424-chi.json) |
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
 | Chi Chi's Pro Challenge Golf | 4442 | [4442-chi-chis-pro-challenge-golf.json](./4442-chi-chis-pro-challenge-golf.json) |
+| Chi Eri Exciting Journey | 66278 | [66278-chi-eri-exciting-journey.json](./66278-chi-eri-exciting-journey.json) |
 | Chi Ninja | 242036 | [242036-chi-ninja.json](./242036-chi-ninja.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
 | Chi to Ase to Namida no Koukou Yakyuu | 65638 | [65638-chi-to-ase-to-namida-no-koukou-yakyuu.json](./65638-chi-to-ase-to-namida-no-koukou-yakyuu.json) |
@@ -11921,6 +11922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
+| Cloth Out | 66295 | [66295-cloth-out.json](./66295-cloth-out.json) |
 | Clothes & Outlet Supermarket Store Simulator | 342346 | [342346-clothes-and-outlet-supermarket-store-simulator.json](./342346-clothes-and-outlet-supermarket-store-simulator.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothes Line | 298764 | [298764-clothes-line.json](./298764-clothes-line.json) |
@@ -12934,6 +12936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Digger | 246349 | [246349-coin-digger.json](./246349-coin-digger.json) |
 | Coin Digger 2 | 359088 | [359088-coin-digger-2.json](./359088-coin-digger-2.json) |
 | Coin Dozer | 354047 | [354047-coin-dozer.json](./354047-coin-dozer.json) |
+| Coin Dozer: Halloween | 66301 | [66301-coin-dozer-halloween.json](./66301-coin-dozer-halloween.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
 | Coin Eruption | 304551 | [304551-coin-eruption.json](./304551-coin-eruption.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
@@ -13368,6 +13371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Defense | 52520 | [52520-colony-defense.json](./52520-colony-defense.json) |
 | Colony Defense: The Ultimate Minimalist Tower Base Defense Game | 280068 | [280068-colony-defense-the-ultimate-minimalist-tower-base-defense-game.json](./280068-colony-defense-the-ultimate-minimalist-tower-base-defense-game.json) |
 | Colony Flow! | 418244 | [418244-colony-flow.json](./418244-colony-flow.json) |
+| Colony Odyssey | 66294 | [66294-colony-odyssey.json](./66294-colony-odyssey.json) |
 | Colony on Mars | 81916 | [81916-colony-on-mars.json](./81916-colony-on-mars.json) |
 | Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
@@ -18507,6 +18511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
 | Crayola Scribble Scrubbie Pets | 355892 | [355892-crayola-scribble-scrubbie-pets.json](./355892-crayola-scribble-scrubbie-pets.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
+| Crayola: Create a World | 66850 | [66850-crayola-create-a-world.json](./66850-crayola-create-a-world.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Animal | 385157 | [385157-crayon-animal.json](./385157-crayon-animal.json) |
 | Crayon Car | 365544 | [365544-crayon-car.json](./365544-crayon-car.json) |
@@ -21462,6 +21467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubekiller | 96625 | [96625-cubekiller.json](./96625-cubekiller.json) |
 | Cubeland VR | 126873 | [126873-cubeland-vr.json](./126873-cubeland-vr.json) |
 | Cubelander | 190919 | [190919-cubelander.json](./190919-cubelander.json) |
+| Cubelands | 66307 | [66307-cubelands.json](./66307-cubelands.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
@@ -22613,6 +22619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Clash | 85071 | [85071-cutie-clash.json](./85071-cutie-clash.json) |
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
+| Cutie Honey Flash | 66841 | [66841-cutie-honey-flash.json](./66841-cutie-honey-flash.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
 | Cutie Panda | 326892 | [326892-cutie-panda.json](./326892-cutie-panda.json) |
 | Cutie Paws | 74650 | [74650-cutie-paws.json](./74650-cutie-paws.json) |
