@@ -9750,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
 | Great Naval Battles, Volume 3: Fury in the Pacific 1941-1944 | 80318 | [80318-great-naval-battles-volume-3-fury-in-the-pacific-1941-1944.json](./80318-great-naval-battles-volume-3-fury-in-the-pacific-1941-1944.json) |
 | Great Naval Battles: Burning Steel 1939-1942 | 80319 | [80319-great-naval-battles-burning-steel-1939-1942.json](./80319-great-naval-battles-burning-steel-1939-1942.json) |
+| Great Naval Battles: North Atlantic 1939-1943 | 50884 | [50884-great-naval-battles-north-atlantic-1939-1943.json](./50884-great-naval-battles-north-atlantic-1939-1943.json) |
 | Great Naval Battles: The Final Fury | 278515 | [278515-great-naval-battles-the-final-fury.json](./278515-great-naval-battles-the-final-fury.json) |
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
