@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
 | Dark Legends | 61993 | [61993-dark-legends.json](./61993-dark-legends.json) |
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
+| Dark Legions | 50788 | [50788-dark-legions.json](./50788-dark-legions.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
 | Dark Light | 126237 | [126237-dark-light.json](./126237-dark-light.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
 | Dark Runner | 153346 | [153346-dark-runner.json](./153346-dark-runner.json) |
 | Dark Sales | 137737 | [137737-dark-sales.json](./137737-dark-sales.json) |
+| Dark Salvation | 50772 | [50772-dark-salvation.json](./50772-dark-salvation.json) |
 | Dark Samurai | 279273 | [279273-dark-samurai.json](./279273-dark-samurai.json) |
 | Dark Samurai Avengers | 298916 | [298916-dark-samurai-avengers.json](./298916-dark-samurai-avengers.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
@@ -4777,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadswitch Combat | 348008 | [348008-deadswitch-combat.json](./348008-deadswitch-combat.json) |
 | Deadtective Academy | 397403 | [397403-deadtective-academy.json](./397403-deadtective-academy.json) |
 | Deadtime Defenders | 123520 | [123520-deadtime-defenders.json](./123520-deadtime-defenders.json) |
+| Deadtime Stories | 50761 | [50761-deadtime-stories.json](./50761-deadtime-stories.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
 | Deaduction | 276683 | [276683-deaduction.json](./276683-deaduction.json) |
 | Deadvale | 395804 | [395804-deadvale.json](./395804-deadvale.json) |
@@ -5329,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathCrank | 34726 | [34726-deathcrank.json](./34726-deathcrank.json) |
 | Deathdays End | 111478 | [111478-deathdays-end.json](./111478-deathdays-end.json) |
 | Deatherem | 117384 | [117384-deatherem.json](./117384-deatherem.json) |
+| Deathfire: Ruins of Nethermore | 50791 | [50791-deathfire-ruins-of-nethermore.json](./50791-deathfire-ruins-of-nethermore.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
