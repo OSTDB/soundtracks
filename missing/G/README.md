@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War 4: Collector's Edition | 47489 | [47489-gears-of-war-4-collectors-edition.json](./47489-gears-of-war-4-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
+| Gears of War 4: Ultimate Edition | 41627 | [41627-gears-of-war-4-ultimate-edition.json](./41627-gears-of-war-4-ultimate-edition.json) |
 | Gears of War: E-Day Premium Edition | 407702 | [407702-gears-of-war-e-day-premium-edition.json](./407702-gears-of-war-e-day-premium-edition.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
 | Gekitotsu Yonku Battle | 48484 | [48484-gekitotsu-yonku-battle.json](./48484-gekitotsu-yonku-battle.json) |
 | Gekitotsu! Pennant Race | 41679 | [41679-gekitotsu-pennant-race.json](./41679-gekitotsu-pennant-race.json) |
+| Gekitotsu! Pennant Race 2 | 41660 | [41660-gekitotsu-pennant-race-2.json](./41660-gekitotsu-pennant-race-2.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekitou Power Modeller | 49126 | [49126-gekitou-power-modeller.json](./49126-gekitou-power-modeller.json) |
