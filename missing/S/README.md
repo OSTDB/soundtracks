@@ -8085,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Legacy of the Spirits, Soaring Hawk | 6588 | [6588-shaman-king-legacy-of-the-spirits-soaring-hawk.json](./6588-shaman-king-legacy-of-the-spirits-soaring-hawk.json) |
 | Shaman King: Legacy of the Spirits, Sprinting Wolf | 6589 | [6589-shaman-king-legacy-of-the-spirits-sprinting-wolf.json](./6589-shaman-king-legacy-of-the-spirits-sprinting-wolf.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
+| Shaman King: Power of Spirit | 43592 | [43592-shaman-king-power-of-spirit.json](./43592-shaman-king-power-of-spirit.json) |
 | Shaman King: Soul Fight | 4147 | [4147-shaman-king-soul-fight.json](./4147-shaman-king-soul-fight.json) |
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
@@ -8145,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Mahjong | 84854 | [84854-shanghai-mahjong.json](./84854-shanghai-mahjong.json) |
 | Shanghai Mahjong Solitaire Deluxe | 319333 | [319333-shanghai-mahjong-solitaire-deluxe.json](./319333-shanghai-mahjong-solitaire-deluxe.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
+| Shanghai Mini | 43981 | [43981-shanghai-mini.json](./43981-shanghai-mini.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
 | Shanghai Office Simulator | 137203 | [137203-shanghai-office-simulator.json](./137203-shanghai-office-simulator.json) |
 | Shanghai Pocket | 37487 | [37487-shanghai-pocket.json](./37487-shanghai-pocket.json) |
@@ -19012,6 +19014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Sparta | 258077 | [258077-son-of-sparta.json](./258077-son-of-sparta.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Dragon King | 266027 | [266027-son-of-the-dragon-king.json](./266027-son-of-the-dragon-king.json) |
+| Son of the Lion King | 43589 | [43589-son-of-the-lion-king.json](./43589-son-of-the-lion-king.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Son Savaşçı | 149374 | [149374-son-savasc.json](./149374-son-savasc.json) |
 | Son Son | 40010 | [40010-son-son.json](./40010-son-son.json) |
@@ -21570,6 +21573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Centurion Gundam | 218229 | [218229-space-centurion-gundam.json](./218229-space-centurion-gundam.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
 | Space Channel 5 Game App | 214953 | [214953-space-channel-5-game-app.json](./214953-space-channel-5-game-app.json) |
+| Space Channel 5 Special Edition | 43611 | [43611-space-channel-5-special-edition.json](./43611-space-channel-5-special-edition.json) |
 | Space Channel 5 VR: Arakata Dancing Show | 86453 | [86453-space-channel-5-vr-arakata-dancing-show.json](./86453-space-channel-5-vr-arakata-dancing-show.json) |
 | Space Channel 5 VR: Kinda Funky News Flash | 109296 | [109296-space-channel-5-vr-kinda-funky-news-flash.json](./109296-space-channel-5-vr-kinda-funky-news-flash.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
@@ -24931,6 +24935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatter | 195877 | [195877-splatter.json](./195877-splatter.json) |
 | Splatter | 62955 | [62955-splatter.json](./62955-splatter.json) |
 | Splatter - Just Harder Times | 51665 | [51665-splatter-just-harder-times.json](./51665-splatter-just-harder-times.json) |
+| Splatter Master | 43602 | [43602-splatter-master.json](./43602-splatter-master.json) |
 | Splatter World | 304076 | [304076-splatter-world.json](./304076-splatter-world.json) |
 | Splatter: Zombiecalypse Now | 26512 | [26512-splatter-zombiecalypse-now.json](./26512-splatter-zombiecalypse-now.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
@@ -34326,6 +34331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
 | Super Bust-A-Move | 248692 | [248692-super-bust-a-move.json](./248692-super-bust-a-move.json) |
 | Super Bust-A-Move | 6618 | [6618-super-bust-a-move.json](./6618-super-bust-a-move.json) |
+| Super Bust-A-Move 2 | 43576 | [43576-super-bust-a-move-2.json](./43576-super-bust-a-move-2.json) |
 | Super Buster Bros. | 38423 | [38423-super-buster-bros.json](./38423-super-buster-bros.json) |
 | Super Button Soccer | 33927 | [33927-super-button-soccer.json](./33927-super-button-soccer.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
@@ -39436,6 +39442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing | 85912 | [85912-swing.json](./85912-swing.json) |
 | Swing & Miss | 159193 | [159193-swing-and-miss.json](./159193-swing-and-miss.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
+| Swing Away Golf | 43585 | [43585-swing-away-golf.json](./43585-swing-away-golf.json) |
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
 | Swing Copters 2 | 58984 | [58984-swing-copters-2.json](./58984-swing-copters-2.json) |
