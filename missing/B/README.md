@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Engine Aquila | 5741 | [5741-battle-engine-aquila.json](./5741-battle-engine-aquila.json) |
 | Battle Europe | 419076 | [419076-battle-europe.json](./419076-battle-europe.json) |
 | Battle Factory Showdown | 306805 | [306805-battle-factory-showdown.json](./306805-battle-factory-showdown.json) |
+| Battle Fantasia | 5499 | [5499-battle-fantasia.json](./5499-battle-fantasia.json) |
 | Battle Fantasia -Revised Edition- | 20049 | [20049-battle-fantasia-revised-edition.json](./20049-battle-fantasia-revised-edition.json) |
 | Battle Fantasy | 46393 | [46393-battle-fantasy.json](./46393-battle-fantasy.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
@@ -12749,6 +12750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Sky | 312153 | [312153-bloody-sky.json](./312153-bloody-sky.json) |
 | Bloody Skyscraper | 82363 | [82363-bloody-skyscraper.json](./82363-bloody-skyscraper.json) |
 | Bloody Slipgates | 271180 | [271180-bloody-slipgates.json](./271180-bloody-slipgates.json) |
+| Bloody Spell | 123689 | [123689-bloody-spell.json](./123689-bloody-spell.json) |
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Tentacles | 179532 | [179532-bloody-tentacles.json](./179532-bloody-tentacles.json) |
@@ -14978,7 +14980,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Game of the Year Edition | 47461 | [47461-borderlands-2-game-of-the-year-edition.json](./47461-borderlands-2-game-of-the-year-edition.json) |
 | Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
 | Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
+| Borderlands 2: Mechromancer Pack | 127118 | [127118-borderlands-2-mechromancer-pack.json](./127118-borderlands-2-mechromancer-pack.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
+| Borderlands 2: Psycho Pack | 127119 | [127119-borderlands-2-psycho-pack.json](./127119-borderlands-2-psycho-pack.json) |
 | Borderlands 2: Sir Hammerlock vs. the Son of Crawmerax | 13928 | [13928-borderlands-2-sir-hammerlock-vs-the-son-of-crawmerax.json](./13928-borderlands-2-sir-hammerlock-vs-the-son-of-crawmerax.json) |
 | Borderlands 2: Sir Hammerlock's Big Game Hunt | 13922 | [13922-borderlands-2-sir-hammerlocks-big-game-hunt.json](./13922-borderlands-2-sir-hammerlocks-big-game-hunt.json) |
 | Borderlands 2: T.K. Baha's Bloody Harvest | 13924 | [13924-borderlands-2-t-k-bahas-bloody-harvest.json](./13924-borderlands-2-t-k-bahas-bloody-harvest.json) |
