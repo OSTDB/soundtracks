@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy in Peril | 117242 | [117242-galaxy-in-peril.json](./117242-galaxy-in-peril.json) |
 | Galaxy in Peril: Time Trouble | 157063 | [157063-galaxy-in-peril-time-trouble.json](./157063-galaxy-in-peril-time-trouble.json) |
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
+| Galaxy Inc. | 429380 | [429380-galaxy-inc.json](./429380-galaxy-inc.json) |
 | Galaxy Invader | 96937 | [96937-galaxy-invader.json](./96937-galaxy-invader.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Invaders | 221893 | [221893-galaxy-invaders.json](./221893-galaxy-invaders.json) |
@@ -2517,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GateTail | 249015 | [249015-gatetail.json](./249015-gatetail.json) |
 | Gatewalkers | 121384 | [121384-gatewalkers.json](./121384-gatewalkers.json) |
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
+| Gateway | 429344 | [429344-gateway.json](./429344-gateway.json) |
 | Gateway | 95504 | [95504-gateway.json](./95504-gateway.json) |
 | Gateway I | 281186 | [281186-gateway-i.json](./281186-gateway-i.json) |
 | Gateway II | 260991 | [260991-gateway-ii.json](./260991-gateway-ii.json) |
@@ -3578,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genzee NFT Game | 186590 | [186590-genzee-nft-game.json](./186590-genzee-nft-game.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
 | Geo Bobs | 416347 | [416347-geo-bobs.json](./416347-geo-bobs.json) |
+| Geo Book | 429340 | [429340-geo-book.json](./429340-geo-book.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Brain Boost! Japan’s 47 Prefectures Silhouette Quiz | 395656 | [395656-geo-brain-boost-japan-s-47-prefectures-silhouette-quiz.json](./395656-geo-brain-boost-japan-s-47-prefectures-silhouette-quiz.json) |
 | Geo Brain Boost! World Map Silhouette Quiz | 396874 | [396874-geo-brain-boost-world-map-silhouette-quiz.json](./396874-geo-brain-boost-world-map-silhouette-quiz.json) |
@@ -9102,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
 | Granny 3 Evolved | 424245 | [424245-granny-3-evolved.json](./424245-granny-3-evolved.json) |
 | Granny Applebee's Cookie Factory | 285865 | [285865-granny-applebees-cookie-factory.json](./285865-granny-applebees-cookie-factory.json) |
+| Granny Barbie | 429339 | [429339-granny-barbie.json](./429339-granny-barbie.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
 | Granny Kick Neighbor | 340321 | [340321-granny-kick-neighbor.json](./340321-granny-kick-neighbor.json) |
@@ -9315,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravedigger | 349188 | [349188-gravedigger.json](./349188-gravedigger.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
 | Gravediggers | 262169 | [262169-gravediggers.json](./262169-gravediggers.json) |
+| GraveDiggers | 429361 | [429361-gravediggers.json](./429361-gravediggers.json) |
 | Gravefire Tavern | 423242 | [423242-gravefire-tavern.json](./423242-gravefire-tavern.json) |
 | Graveheart | 419172 | [419172-graveheart.json](./419172-graveheart.json) |
 | Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
@@ -9660,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Surge | 305646 | [305646-gravity-surge.json](./305646-gravity-surge.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
 | Gravity Switch | 247415 | [247415-gravity-switch.json](./247415-gravity-switch.json) |
+| Gravity Switch | 429345 | [429345-gravity-switch.json](./429345-gravity-switch.json) |
 | Gravity Thrust | 231036 | [231036-gravity-thrust.json](./231036-gravity-thrust.json) |
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
 | Gravity Trials: Underground | 366763 | [366763-gravity-trials-underground.json](./366763-gravity-trials-underground.json) |
