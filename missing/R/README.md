@@ -6293,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 7: Biohazard - Banned Footage Vol. 2 | 27019 | [27019-resident-evil-7-biohazard-banned-footage-vol-2.json](./27019-resident-evil-7-biohazard-banned-footage-vol-2.json) |
 | Resident Evil 7: Biohazard - Cloud | 102075 | [102075-resident-evil-7-biohazard-cloud.json](./102075-resident-evil-7-biohazard-cloud.json) |
 | Resident Evil 7: Biohazard - Cloud Version: Z Version | 264946 | [264946-resident-evil-7-biohazard-cloud-version-z-version.json](./264946-resident-evil-7-biohazard-cloud-version-z-version.json) |
+| Resident Evil 7: Biohazard - Deluxe Edition | 41626 | [41626-resident-evil-7-biohazard-deluxe-edition.json](./41626-resident-evil-7-biohazard-deluxe-edition.json) |
 | Resident Evil 7: Biohazard - End of Zoe | 75236 | [75236-resident-evil-7-biohazard-end-of-zoe.json](./75236-resident-evil-7-biohazard-end-of-zoe.json) |
 | Resident Evil 7: Biohazard - Gold Edition | 57692 | [57692-resident-evil-7-biohazard-gold-edition.json](./57692-resident-evil-7-biohazard-gold-edition.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
@@ -12857,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
 | Royal Commando | 190866 | [190866-royal-commando.json](./190866-royal-commando.json) |
 | Royal Crown | 113371 | [113371-royal-crown.json](./113371-royal-crown.json) |
+| Royal Dealer | 41428 | [41428-royal-dealer.json](./41428-royal-dealer.json) |
 | Royal Decree! | 295098 | [295098-royal-decree.json](./295098-royal-decree.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
