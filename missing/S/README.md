@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saeko: Giantess Dating Sim - Digital Deluxe Edition | 407105 | [407105-saeko-giantess-dating-sim-digital-deluxe-edition.json](./407105-saeko-giantess-dating-sim-digital-deluxe-edition.json) |
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
 | Saenai Heroine no Sodatekata: Blessing Flowers | 11777 | [11777-saenai-heroine-no-sodatekata-blessing-flowers.json](./11777-saenai-heroine-no-sodatekata-blessing-flowers.json) |
+| Saenai Kanojo no Sodatekata | 60703 | [60703-saenai-kanojo-no-sodatekata.json](./60703-saenai-kanojo-no-sodatekata.json) |
 | Safari | 171771 | [171771-safari.json](./171771-safari.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari | 363626 | [363626-safari.json](./363626-safari.json) |
@@ -9656,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsouban Mahoutsukai to Goshujin-sama | 214803 | [214803-shinsouban-mahoutsukai-to-goshujin-sama.json](./214803-shinsouban-mahoutsukai-to-goshujin-sama.json) |
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
+| Shinten Makai: Generation of Chaos V | 61250 | [61250-shinten-makai-generation-of-chaos-v.json](./61250-shinten-makai-generation-of-chaos-v.json) |
 | Shiny | 23956 | [23956-shiny.json](./23956-shiny.json) |
 | Shiny Gauntlet | 33215 | [33215-shiny-gauntlet.json](./33215-shiny-gauntlet.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
@@ -12133,6 +12135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer 3D | 461 | [461-simon-the-sorcerer-3d.json](./461-simon-the-sorcerer-3d.json) |
 | Simon the Sorcerer 4: Chaos Happens | 462 | [462-simon-the-sorcerer-4-chaos-happens.json](./462-simon-the-sorcerer-4-chaos-happens.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
+| Simon the Sorcerer 6: Between Worlds | 60688 | [60688-simon-the-sorcerer-6-between-worlds.json](./60688-simon-the-sorcerer-6-between-worlds.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
 | Simon the Sorcerer: Origins - Deluxe DLC | 381749 | [381749-simon-the-sorcerer-origins-deluxe-dlc.json](./381749-simon-the-sorcerer-origins-deluxe-dlc.json) |
 | Simon the Sorcerer: Origins - Digital Deluxe Edition | 365551 | [365551-simon-the-sorcerer-origins-digital-deluxe-edition.json](./365551-simon-the-sorcerer-origins-digital-deluxe-edition.json) |
@@ -12244,6 +12247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series 2-in-1 Vol. 3: The Puzzle Collection 2,000-mon & The Touyou Sandai Uranjustsu | 203394 | [203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json](./203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json) |
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
+| Simple 2000 Series Ultimate Vol. 1: Love Smash! | 61242 | [61242-simple-2000-series-ultimate-vol-1-love-smash.json](./61242-simple-2000-series-ultimate-vol-1-love-smash.json) |
 | Simple 2000 Series Ultimate Vol. 11: Wandaba Style - Totsugeki! Mix Live Juice | 203354 | [203354-simple-2000-series-ultimate-vol-11-wandaba-style-totsugeki-mix-live-juice.json](./203354-simple-2000-series-ultimate-vol-11-wandaba-style-totsugeki-mix-live-juice.json) |
 | Simple 2000 Series Ultimate Vol. 12: Street Golfer | 203355 | [203355-simple-2000-series-ultimate-vol-12-street-golfer.json](./203355-simple-2000-series-ultimate-vol-12-street-golfer.json) |
 | Simple 2000 Series Ultimate Vol. 14: Topai Dramatic Mahjong | 203356 | [203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json](./203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json) |
@@ -12259,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
 | Simple 2000 Series Ultimate Vol.19: Akagi - Yami ni Furitatta Tensai | 56958 | [56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json](./56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json) |
+| Simple 2000 Series Ultimate Vol.26: Love Smash! 5.1 - Tennis Robo no Hanran | 61243 | [61243-simple-2000-series-ultimate-vol-26-love-smash-5-1-tennis-robo-no-hanran.json](./61243-simple-2000-series-ultimate-vol-26-love-smash-5-1-tennis-robo-no-hanran.json) |
 | Simple 2000 Series Vol. 1: The Table Board | 203180 | [203180-simple-2000-series-vol-1-the-table-board.json](./203180-simple-2000-series-vol-1-the-table-board.json) |
 | Simple 2000 Series Vol. 100: The Otoko Tachi no Kijuu Houza | 203330 | [203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json](./203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json) |
 | Simple 2000 Series Vol. 104: The Robot Tsuku Rouze! - Gekitou! Robot Fight | 203334 | [203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json](./203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json) |
@@ -13876,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
+| Skullduggery! | 61227 | [61227-skullduggery.json](./61227-skullduggery.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullfracture | 179268 | [179268-skullfracture.json](./179268-skullfracture.json) |
 | Skullgirls | 9425 | [9425-skullgirls.json](./9425-skullgirls.json) |
@@ -23276,6 +23282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Force Chronicle | 43414 | [43414-spectral-force-chronicle.json](./43414-spectral-force-chronicle.json) |
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
+| Spectral Force: Itoshiki Jaaku | 61252 | [61252-spectral-force-itoshiki-jaaku.json](./61252-spectral-force-itoshiki-jaaku.json) |
 | Spectral Force: Radical Elements | 43413 | [43413-spectral-force-radical-elements.json](./43413-spectral-force-radical-elements.json) |
 | Spectral Gene | 44671 | [44671-spectral-gene.json](./44671-spectral-gene.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
@@ -32012,6 +32019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggler | 347056 | [347056-struggler.json](./347056-struggler.json) |
 | Struggling Ball | 150810 | [150810-struggling-ball.json](./150810-struggling-ball.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
+| Strung Along | 60694 | [60694-strung-along.json](./60694-strung-along.json) |
 | Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
 | Strush | 84423 | [84423-strush.json](./84423-strush.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
@@ -37793,6 +37801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
 | SuperStar Loona | 232092 | [232092-superstar-loona.json](./232092-superstar-loona.json) |
 | Superstar Mario World | 277067 | [277067-superstar-mario-world.json](./277067-superstar-mario-world.json) |
+| Superstar Ping Pong | 61244 | [61244-superstar-ping-pong.json](./61244-superstar-ping-pong.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Racing | 126056 | [126056-superstar-racing.json](./126056-superstar-racing.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
@@ -37889,6 +37898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supremacy: Warhammer 40,000 | 344674 | [344674-supremacy-warhammer-40-000.json](./344674-supremacy-warhammer-40-000.json) |
 | Supremacy: Your Will Be Done | 37235 | [37235-supremacy-your-will-be-done.json](./37235-supremacy-your-will-be-done.json) |
+| Supreme | 60683 | [60683-supreme.json](./60683-supreme.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme AI: Arena | 161538 | [161538-supreme-ai-arena.json](./161538-supreme-ai-arena.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
