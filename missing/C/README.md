@@ -4828,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysmic Bite | 382833 | [382833-cataclysmic-bite.json](./382833-cataclysmic-bite.json) |
 | CataclysmRL | 92564 | [92564-cataclysmrl.json](./92564-cataclysmrl.json) |
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
+| Cataclyzm | 425159 | [425159-cataclyzm.json](./425159-cataclyzm.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
 | Catacomb | 404084 | [404084-catacomb.json](./404084-catacomb.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
 | Chakana, Gold of the Gods | 291285 | [291285-chakana-gold-of-the-gods.json](./291285-chakana-gold-of-the-gods.json) |
+| Chako | 425114 | [425114-chako.json](./425114-chako.json) |
 | Chakra-kun no Omajinai Paradise | 66244 | [66244-chakra-kun-no-omajinai-paradise.json](./66244-chakra-kun-no-omajinai-paradise.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
@@ -13112,6 +13114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
+| Coins Must Be Made | 425144 | [425144-coins-must-be-made.json](./425144-coins-must-be-made.json) |
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
 | Coins, Chests and Loot | 192868 | [192868-coins-chests-and-loot.json](./192868-coins-chests-and-loot.json) |
 | Coins, Crown & Cabal | 286342 | [286342-coins-crown-and-cabal.json](./286342-coins-crown-and-cabal.json) |
@@ -18665,6 +18668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cray-5 | 13530 | [13530-cray-5.json](./13530-cray-5.json) |
 | Crayation: The First Sketch | 379010 | [379010-crayation-the-first-sketch.json](./379010-crayation-the-first-sketch.json) |
 | Craymel Check | 294598 | [294598-craymel-check.json](./294598-craymel-check.json) |
+| Crayola Adult Coloring | 425136 | [425136-crayola-adult-coloring.json](./425136-crayola-adult-coloring.json) |
 | Crayola Adventures | 291972 | [291972-crayola-adventures.json](./291972-crayola-adventures.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
 | Crayola Arcade | 78854 | [78854-crayola-arcade.json](./78854-crayola-arcade.json) |
