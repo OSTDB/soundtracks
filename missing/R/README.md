@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railfan | 10741 | [10741-railfan.json](./10741-railfan.json) |
 | Railfan: Taiwan High Speed Rail | 10742 | [10742-railfan-taiwan-high-speed-rail.json](./10742-railfan-taiwan-high-speed-rail.json) |
 | RailGods of Hysterra | 320119 | [320119-railgods-of-hysterra.json](./320119-railgods-of-hysterra.json) |
+| Railgrade | 143402 | [143402-railgrade.json](./143402-railgrade.json) |
 | Railgun | 110250 | [110250-railgun.json](./110250-railgun.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
@@ -5047,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 189851 | [189851-reflex.json](./189851-reflex.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
+| RefleX | 26711 | [26711-reflex.json](./26711-reflex.json) |
 | Reflex Arena | 9075 | [9075-reflex-arena.json](./9075-reflex-arena.json) |
 | Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
 | Reflex King of Elements | 227719 | [227719-reflex-king-of-elements.json](./227719-reflex-king-of-elements.json) |
@@ -12492,6 +12494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose of Starcross | 143243 | [143243-rose-of-starcross.json](./143243-rose-of-starcross.json) |
 | Rose of Wind | 365613 | [365613-rose-of-wind.json](./365613-rose-of-wind.json) |
+| Rose of Winter | 26610 | [26610-rose-of-winter.json](./26610-rose-of-winter.json) |
 | Rose Online | 16391 | [16391-rose-online.json](./16391-rose-online.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
 | Rose Racer | 60946 | [60946-rose-racer.json](./60946-rose-racer.json) |
@@ -13352,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
 | Ruffian | 92858 | [92858-ruffian.json](./92858-ruffian.json) |
 | Ruffnauts: Planet Pals | 363151 | [363151-ruffnauts-planet-pals.json](./363151-ruffnauts-planet-pals.json) |
+| Ruffy and the Riverside | 143829 | [143829-ruffy-and-the-riverside.json](./143829-ruffy-and-the-riverside.json) |
 | Rufus Snackdown | 338401 | [338401-rufus-snackdown.json](./338401-rufus-snackdown.json) |
 | Rufus Snow Ride | 338404 | [338404-rufus-snow-ride.json](./338404-rufus-snow-ride.json) |
 | Rug Cleaning Simulator | 298219 | [298219-rug-cleaning-simulator.json](./298219-rug-cleaning-simulator.json) |
