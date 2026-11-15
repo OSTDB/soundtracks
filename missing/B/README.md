@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backland | 138368 | [138368-backland.json](./138368-backland.json) |
 | Backlash | 11931 | [11931-backlash.json](./11931-backlash.json) |
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
+| Backlog Dungeon | 428774 | [428774-backlog-dungeon.json](./428774-backlog-dungeon.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backmarkers: A Racing Management Sim | 420030 | [420030-backmarkers-a-racing-management-sim.json](./420030-backmarkers-a-racing-management-sim.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
@@ -9104,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Inc. Platinum: Biomedical Plague | 95543 | [95543-bio-inc-platinum-biomedical-plague.json](./95543-bio-inc-platinum-biomedical-plague.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Inc. Redemption + Crossroads Inn: Doctors and Bartenders Bundle | 296561 | [296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json](./296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json) |
+| Bio Inc. Total Defense | 428771 | [428771-bio-inc-total-defense.json](./428771-bio-inc-total-defense.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
 | Bio Miracle Bokutte Upa | 41245 | [41245-bio-miracle-bokutte-upa.json](./41245-bio-miracle-bokutte-upa.json) |
 | Bio Prototype | 226257 | [226257-bio-prototype.json](./226257-bio-prototype.json) |
