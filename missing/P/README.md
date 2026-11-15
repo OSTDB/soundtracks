@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packed to the Gills | 270788 | [270788-packed-to-the-gills.json](./270788-packed-to-the-gills.json) |
 | Packed Train | 104859 | [104859-packed-train.json](./104859-packed-train.json) |
 | Packer | 178933 | [178933-packer.json](./178933-packer.json) |
+| Packet Queen # | 68836 | [68836-packet-queen.json](./68836-packet-queen.json) |
 | Packet.Breach() | 259113 | [259113-packet-breach.json](./259113-packet-breach.json) |
 | Packets, Please! | 180358 | [180358-packets-please.json](./180358-packets-please.json) |
 | PacketStorm | 115868 | [115868-packetstorm.json](./115868-packetstorm.json) |
@@ -1748,7 +1749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bad | 224912 | [224912-paper-bad.json](./224912-paper-bad.json) |
 | Paper Baseball | 420781 | [420781-paper-baseball.json](./420781-paper-baseball.json) |
 | Paper Battlefield | 326929 | [326929-paper-battlefield.json](./326929-paper-battlefield.json) |
-| Paper Beast | 117293 | [117293-paper-beast.json](./117293-paper-beast.json) |
 | Paper Beast: Enhanced Edition | 268370 | [268370-paper-beast-enhanced-edition.json](./268370-paper-beast-enhanced-edition.json) |
 | Paper Beast: Folded Edition | 140295 | [140295-paper-beast-folded-edition.json](./140295-paper-beast-folded-edition.json) |
 | Paper Beast: VR Upgrade for Folded Edition | 381754 | [381754-paper-beast-vr-upgrade-for-folded-edition.json](./381754-paper-beast-vr-upgrade-for-folded-edition.json) |
