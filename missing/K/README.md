@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickback Clash | 387320 | [387320-kickback-clash.json](./387320-kickback-clash.json) |
 | Kickback Clicker | 348811 | [348811-kickback-clicker.json](./348811-kickback-clicker.json) |
 | Kickback Slug: Cosmic Courier | 195915 | [195915-kickback-slug-cosmic-courier.json](./195915-kickback-slug-cosmic-courier.json) |
+| Kickball | 58961 | [58961-kickball.json](./58961-kickball.json) |
 | KickBeat | 7683 | [7683-kickbeat.json](./7683-kickbeat.json) |
 | KickBeat: Special Edition | 20059 | [20059-kickbeat-special-edition.json](./20059-kickbeat-special-edition.json) |
 | Kickboxer | 336156 | [336156-kickboxer.json](./336156-kickboxer.json) |
@@ -5578,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi ni Ochite ha Ikenai 20-ppun | 347035 | [347035-koi-ni-ochite-ha-ikenai-20-ppun.json](./347035-koi-ni-ochite-ha-ikenai-20-ppun.json) |
 | Koi ni, Kanmi o Soete | 83402 | [83402-koi-ni-kanmi-o-soete.json](./83402-koi-ni-kanmi-o-soete.json) |
 | Koi no Hanasaku Hyakkaen | 136929 | [136929-koi-no-hanasaku-hyakkaen.json](./136929-koi-no-hanasaku-hyakkaen.json) |
+| Koi no Honey Trap: Ecchi de Amai Honey Trap | 58956 | [58956-koi-no-honey-trap-ecchi-de-amai-honey-trap.json](./58956-koi-no-honey-trap-ecchi-de-amai-honey-trap.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi no Summer Fantasy: In Miyazaki Seagaia | 361385 | [361385-koi-no-summer-fantasy-in-miyazaki-seagaia.json](./361385-koi-no-summer-fantasy-in-miyazaki-seagaia.json) |
 | Koi no Tsuzuki wa Honeymoon de | 238412 | [238412-koi-no-tsuzuki-wa-honeymoon-de.json](./238412-koi-no-tsuzuki-wa-honeymoon-de.json) |
