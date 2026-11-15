@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S&M: FL | 214373 | [214373-s-and-m-fl.json](./214373-s-and-m-fl.json) |
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
+| S#arp Shooter | 31220 | [31220-s-arp-shooter.json](./31220-s-arp-shooter.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S0urce.io | 108129 | [108129-s0urce-io.json](./108129-s0urce-io.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seabeard | 60094 | [60094-seabeard.json](./60094-seabeard.json) |
 | SeaBed | 27102 | [27102-seabed.json](./27102-seabed.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
+| Seabed Prelude | 31241 | [31241-seabed-prelude.json](./31241-seabed-prelude.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
 | Seaberry Holiday | 226630 | [226630-seaberry-holiday.json](./226630-seaberry-holiday.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
@@ -10689,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
 | Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
 | Showdown: Scorpion | 73024 | [73024-showdown-scorpion.json](./73024-showdown-scorpion.json) |
+| ShowdownVR | 31251 | [31251-showdownvr.json](./31251-showdownvr.json) |
 | Shower Game | 409817 | [409817-shower-game.json](./409817-shower-game.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
@@ -15793,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
 | Slydris 2 | 111840 | [111840-slydris-2.json](./111840-slydris-2.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
+| Slymes | 31258 | [31258-slymes.json](./31258-slymes.json) |
 | Slymoids | 42178 | [42178-slymoids.json](./42178-slymoids.json) |
 | SM | 246747 | [246747-sm.json](./246747-sm.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
@@ -20376,6 +20380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's Curse | 33441 | [33441-sophies-curse.json](./33441-sophies-curse.json) |
 | Sophie's Dice | 119808 | [119808-sophies-dice.json](./119808-sophies-dice.json) |
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
+| Sophie's Guardian | 31226 | [31226-sophies-guardian.json](./31226-sophies-guardian.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sophistry: Live2D | 168048 | [168048-sophistry-live2d.json](./168048-sophistry-live2d.json) |
@@ -20609,6 +20614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soshite Suki ni Naru | 375357 | [375357-soshite-suki-ni-naru.json](./375357-soshite-suki-ni-naru.json) |
 | Sosnova | 359356 | [359356-sosnova.json](./359356-sosnova.json) |
 | Sosso | 211004 | [211004-sosso.json](./211004-sosso.json) |
+| SosSurvival | 31263 | [31263-sossurvival.json](./31263-sossurvival.json) |
 | Sosuria | 268599 | [268599-sosuria.json](./268599-sosuria.json) |
 | Sotano | 190036 | [190036-sotano.json](./190036-sotano.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
@@ -32458,6 +32464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
 | Subject 9 | 17332 | [17332-subject-9.json](./17332-subject-9.json) |
 | Subject 95 | 154136 | [154136-subject-95.json](./154136-subject-95.json) |
+| Subject A-119 | 31225 | [31225-subject-a-119.json](./31225-subject-a-119.json) |
 | Subject Debris | 263851 | [263851-subject-debris.json](./263851-subject-debris.json) |
 | Subject F-011 | 236580 | [236580-subject-f-011.json](./236580-subject-f-011.json) |
 | Subject Teo | 141269 | [141269-subject-teo.json](./141269-subject-teo.json) |
@@ -34954,6 +34961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hang-On | 6145 | [6145-super-hang-on.json](./6145-super-hang-on.json) |
 | Super Hangman | 310073 | [310073-super-hangman.json](./310073-super-hangman.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
+| Super Happy Singh | 31130 | [31130-super-happy-singh.json](./31130-super-happy-singh.json) |
 | Super Hard Bundle | 317681 | [317681-super-hard-bundle.json](./317681-super-hard-bundle.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
@@ -37350,6 +37358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Time Force Ultra | 8879 | [8879-super-time-force-ultra.json](./8879-super-time-force-ultra.json) |
 | Super Tiny Leap | 409890 | [409890-super-tiny-leap.json](./409890-super-tiny-leap.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
+| Super Toaster X: Learn Japanese RPG | 31254 | [31254-super-toaster-x-learn-japanese-rpg.json](./31254-super-toaster-x-learn-japanese-rpg.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
 | Super Toffy | 40459 | [40459-super-toffy.json](./40459-super-toffy.json) |
 | Super Tofu Boy | 65906 | [65906-super-tofu-boy.json](./65906-super-tofu-boy.json) |
