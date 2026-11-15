@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO on Tape | 242722 | [242722-ufo-on-tape.json](./242722-ufo-on-tape.json) |
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Online: Fight for Earth | 17356 | [17356-ufo-online-fight-for-earth.json](./17356-ufo-online-fight-for-earth.json) |
+| UFO Online: Invasion | 33548 | [33548-ufo-online-invasion.json](./33548-ufo-online-invasion.json) |
 | UFO Patrol | 40594 | [40594-ufo-patrol.json](./40594-ufo-patrol.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Robo Dangar | 39994 | [39994-ufo-robo-dangar.json](./39994-ufo-robo-dangar.json) |
