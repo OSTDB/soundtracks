@@ -9260,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Voidia | 128342 | [128342-world-of-voidia.json](./128342-world-of-voidia.json) |
 | World of Walking Cities | 96456 | [96456-world-of-walking-cities.json](./96456-world-of-walking-cities.json) |
 | World of War : Battlegrounds | 104928 | [104928-world-of-war-battlegrounds.json](./104928-world-of-war-battlegrounds.json) |
+| World of Warcraft - Battle Chest | 50098 | [50098-world-of-warcraft-battle-chest.json](./50098-world-of-warcraft-battle-chest.json) |
 | World of Warcraft Classic | 75379 | [75379-world-of-warcraft-classic.json](./75379-world-of-warcraft-classic.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: 15th Anniversary - Collector's Edition | 136120 | [136120-world-of-warcraft-15th-anniversary-collectors-edition.json](./136120-world-of-warcraft-15th-anniversary-collectors-edition.json) |
