@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts | 262507 | [262507-ghouls-n-ghosts.json](./262507-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 38081 | [38081-ghouls-n-ghosts.json](./38081-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts | 39063 | [39063-ghouls-n-ghosts.json](./39063-ghouls-n-ghosts.json) |
+| Ghouls 'n Ghosts | 6817 | [6817-ghouls-n-ghosts.json](./6817-ghouls-n-ghosts.json) |
 | Ghouls 'n Ghosts Mobile | 106879 | [106879-ghouls-n-ghosts-mobile.json](./106879-ghouls-n-ghosts-mobile.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
@@ -11826,6 +11827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
 | Guitar Hero & Guitar Hero II Dual Pack | 382160 | [382160-guitar-hero-and-guitar-hero-ii-dual-pack.json](./382160-guitar-hero-and-guitar-hero-ii-dual-pack.json) |
 | Guitar Hero 3-Disc Set | 349563 | [349563-guitar-hero-3-disc-set.json](./349563-guitar-hero-3-disc-set.json) |
+| Guitar Hero 5 | 2672 | [2672-guitar-hero-5.json](./2672-guitar-hero-5.json) |
 | Guitar Hero 64 | 243467 | [243467-guitar-hero-64.json](./243467-guitar-hero-64.json) |
 | Guitar Hero 7 | 251431 | [251431-guitar-hero-7.json](./251431-guitar-hero-7.json) |
 | Guitar Hero Arcade | 78236 | [78236-guitar-hero-arcade.json](./78236-guitar-hero-arcade.json) |
