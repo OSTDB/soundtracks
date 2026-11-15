@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboten Bombers | 40417 | [40417-saboten-bombers.json](./40417-saboten-bombers.json) |
 | Saboteur | 192134 | [192134-saboteur.json](./192134-saboteur.json) |
 | Saboteur | 230600 | [230600-saboteur.json](./230600-saboteur.json) |
+| Saboteur II | 12964 | [12964-saboteur-ii.json](./12964-saboteur-ii.json) |
 | Saboteur II: Avenging Angel | 121089 | [121089-saboteur-ii-avenging-angel.json](./121089-saboteur-ii-avenging-angel.json) |
 | Saboteur SiO | 147702 | [147702-saboteur-sio.json](./147702-saboteur-sio.json) |
 | Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
@@ -932,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura and Crit: The Mock Game | 105563 | [105563-sakura-and-crit-the-mock-game.json](./105563-sakura-and-crit-the-mock-game.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Angels | 197621 | [197621-sakura-angels.json](./197621-sakura-angels.json) |
+| Sakura Angels | 27778 | [27778-sakura-angels.json](./27778-sakura-angels.json) |
 | Sakura Apprentice | 254981 | [254981-sakura-apprentice.json](./254981-sakura-apprentice.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
 | Sakura Battle | 234537 | [234537-sakura-battle.json](./234537-sakura-battle.json) |
@@ -1273,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Beyond Time and Space - Episode 2: Moai Better Blues | 27836 | [27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json](./27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json) |
 | Sam & Max: Beyond Time and Space - Episode 3: Night of the Raving Dead | 27837 | [27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json](./27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json) |
 | Sam & Max: Beyond Time and Space - Episode 4: Chariots of the Dogs | 27838 | [27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json](./27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json) |
+| Sam & Max: Beyond Time and Space - Episode 5: What's New Beelzebub? | 27839 | [27839-sam-and-max-beyond-time-and-space-episode-5-whats-new-beelzebub.json](./27839-sam-and-max-beyond-time-and-space-episode-5-whats-new-beelzebub.json) |
 | Sam & Max: Freelance Police | 93918 | [93918-sam-and-max-freelance-police.json](./93918-sam-and-max-freelance-police.json) |
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
@@ -1287,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak | 127131 | [127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json](./127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json) |
 | Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain! | 127132 | [127132-sam-and-max-the-devils-playhouse-episode-3-they-stole-maxs-brain.json](./127132-sam-and-max-the-devils-playhouse-episode-3-they-stole-maxs-brain.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
+| Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep | 127134 | [127134-sam-and-max-the-devils-playhouse-episode-5-the-city-that-dares-not-sleep.json](./127134-sam-and-max-the-devils-playhouse-episode-5-the-city-that-dares-not-sleep.json) |
 | Sam 0 | 360620 | [360620-sam-0.json](./360620-sam-0.json) |
 | Sam Glyph: Private Eye! | 17903 | [17903-sam-glyph-private-eye.json](./17903-sam-glyph-private-eye.json) |
 | Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
@@ -3826,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-9735-Alpha: Arch1tect | 291883 | [291883-scp-9735-alpha-arch1tect.json](./291883-scp-9735-alpha-arch1tect.json) |
 | SCP-9779-JP | 391645 | [391645-scp-9779-jp.json](./391645-scp-9779-jp.json) |
 | SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
+| SCP: 5K | 132594 | [132594-scp-5k.json](./132594-scp-5k.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Abhorrent | 192213 | [192213-scp-abhorrent.json](./192213-scp-abhorrent.json) |
 | SCP: Antimemetics Division | 407726 | [407726-scp-antimemetics-division.json](./407726-scp-antimemetics-division.json) |
@@ -6560,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
 | Serious Sam HD: Gold Collection | 53588 | [53588-serious-sam-hd-gold-collection.json](./53588-serious-sam-hd-gold-collection.json) |
+| Serious Sam HD: Gold Edition | 27899 | [27899-serious-sam-hd-gold-edition.json](./27899-serious-sam-hd-gold-edition.json) |
 | Serious Sam HD: The First Encounter | 13180 | [13180-serious-sam-hd-the-first-encounter.json](./13180-serious-sam-hd-the-first-encounter.json) |
 | Serious Sam HD: The Second Encounter | 13181 | [13181-serious-sam-hd-the-second-encounter.json](./13181-serious-sam-hd-the-second-encounter.json) |
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
@@ -10938,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
 | Shufflepoker | 211011 | [211011-shufflepoker.json](./211011-shufflepoker.json) |
 | Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
+| Shufflepuck Cafe | 12222 | [12222-shufflepuck-cafe.json](./12222-shufflepuck-cafe.json) |
 | Shufflepuck Cantina Deluxe | 62608 | [62608-shufflepuck-cantina-deluxe.json](./62608-shufflepuck-cantina-deluxe.json) |
 | Shuffles 'n Scuffles | 372701 | [372701-shuffles-n-scuffles.json](./372701-shuffles-n-scuffles.json) |
 | Shuffleshot | 39388 | [39388-shuffleshot.json](./39388-shuffleshot.json) |
@@ -17313,6 +17320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Bros.: Nick & Tom | 46173 | [46173-snow-bros-nick-and-tom.json](./46173-snow-bros-nick-and-tom.json) |
 | Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
+| Snow Brothers | 4399 | [4399-snow-brothers.json](./4399-snow-brothers.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Buddies: Dog Sled Race | 333499 | [333499-snow-buddies-dog-sled-race.json](./333499-snow-buddies-dog-sled-race.json) |
 | Snow Clearing Driving Simulator | 122601 | [122601-snow-clearing-driving-simulator.json](./122601-snow-clearing-driving-simulator.json) |
@@ -29864,6 +29872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
 | Steven the Sperm | 107477 | [107477-steven-the-sperm.json](./107477-steven-the-sperm.json) |
+| Steven Universe: Save the Light | 27723 | [27723-steven-universe-save-the-light.json](./27723-steven-universe-save-the-light.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
 | Steven Universe: Unleash the Light | 125505 | [125505-steven-universe-unleash-the-light.json](./125505-steven-universe-unleash-the-light.json) |
@@ -37248,6 +37257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spray n' Slay 3D | 184107 | [184107-super-spray-n-slay-3d.json](./184107-super-spray-n-slay-3d.json) |
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
 | Super Sprint | 267540 | [267540-super-sprint.json](./267540-super-sprint.json) |
+| Super Sprint | 28385 | [28385-super-sprint.json](./28385-super-sprint.json) |
 | Super Spy | 59500 | [59500-super-spy.json](./59500-super-spy.json) |
 | Super Spy Academy | 298269 | [298269-super-spy-academy.json](./298269-super-spy-academy.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
