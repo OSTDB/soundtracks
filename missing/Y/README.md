@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman Wii: Ide Yosuke no Kenkou Mahjong | 63040 | [63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json](./63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json) |
 | Yakumo | 419863 | [419863-yakumo.json](./419863-yakumo.json) |
 | Yakumo Shibari Aya | 97555 | [97555-yakumo-shibari-aya.json](./97555-yakumo-shibari-aya.json) |
+| Yakuza | 2059 | [2059-yakuza.json](./2059-yakuza.json) |
 | Yakuza 0: Digital Deluxe Edition | 106688 | [106688-yakuza-0-digital-deluxe-edition.json](./106688-yakuza-0-digital-deluxe-edition.json) |
 | Yakuza 0: Director's Cut | 338084 | [338084-yakuza-0-directors-cut.json](./338084-yakuza-0-directors-cut.json) |
 | Yakuza 0: The Business Launch Edition | 194767 | [194767-yakuza-0-the-business-launch-edition.json](./194767-yakuza-0-the-business-launch-edition.json) |
@@ -136,6 +137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 2 | 2060 | [2060-yakuza-2.json](./2060-yakuza-2.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 20th Anniversary Edition | 375525 | [375525-yakuza-20th-anniversary-edition.json](./375525-yakuza-20th-anniversary-edition.json) |
+| Yakuza 3 | 2061 | [2061-yakuza-3.json](./2061-yakuza-3.json) |
+| Yakuza 3 Remastered | 103015 | [103015-yakuza-3-remastered.json](./103015-yakuza-3-remastered.json) |
 | Yakuza 4 | 2062 | [2062-yakuza-4.json](./2062-yakuza-4.json) |
 | Yakuza 4 Remastered | 103016 | [103016-yakuza-4-remastered.json](./103016-yakuza-4-remastered.json) |
 | Yakuza 5 | 2063 | [2063-yakuza-5.json](./2063-yakuza-5.json) |
