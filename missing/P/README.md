@@ -14853,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Man | 241452 | [241452-pot-man.json](./241452-pot-man.json) |
 | Pot of Gold | 257827 | [257827-pot-of-gold.json](./257827-pot-of-gold.json) |
 | Pot Panic | 94649 | [94649-pot-panic.json](./94649-pot-panic.json) |
+| Pot Smasher | 426947 | [426947-pot-smasher.json](./426947-pot-smasher.json) |
 | Pot's On! | 411209 | [411209-pots-on.json](./411209-pots-on.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
@@ -17782,6 +17783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 149739 | [149739-project-hive.json](./149739-project-hive.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
+| Project Hole | 426930 | [426930-project-hole.json](./426930-project-hole.json) |
 | Project Home | 177336 | [177336-project-home.json](./177336-project-home.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
 | Project Hopes | 335155 | [335155-project-hopes.json](./335155-project-hopes.json) |
