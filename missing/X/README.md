@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | Xenocide | 176612 | [176612-xenocide.json](./176612-xenocide.json) |
 | Xenocide | 2393 | [2393-xenocide.json](./2393-xenocide.json) |
+| Xenocide | 34966 | [34966-xenocide.json](./34966-xenocide.json) |
 | Xenocider | 172814 | [172814-xenocider.json](./172814-xenocider.json) |
 | Xenocider | 57313 | [57313-xenocider.json](./57313-xenocider.json) |
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
