@@ -8960,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day of Salvation | 374744 | [374744-the-day-of-salvation.json](./374744-the-day-of-salvation.json) |
 | The Day Of Survival | 305704 | [305704-the-day-of-survival.json](./305704-the-day-of-survival.json) |
 | The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
+| The Day Online | 77476 | [77476-the-day-online.json](./77476-the-day-online.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day That Wasn't | 390086 | [390086-the-day-that-wasnt.json](./390086-the-day-that-wasnt.json) |
 | The Day the Laughter Stopped | 62057 | [62057-the-day-the-laughter-stopped.json](./62057-the-day-the-laughter-stopped.json) |
@@ -18989,6 +18990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Stanley Parable Demonstration | 14544 | [14544-the-stanley-parable-demonstration.json](./14544-the-stanley-parable-demonstration.json) |
 | The Star and the Crescent | 59588 | [59588-the-star-and-the-crescent.json](./59588-the-star-and-the-crescent.json) |
+| The Star Bowling | 77450 | [77450-the-star-bowling.json](./77450-the-star-bowling.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
 | The Star That Longed to Be Free | 359133 | [359133-the-star-that-longed-to-be-free.json](./359133-the-star-that-longed-to-be-free.json) |
@@ -25388,6 +25390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Clickers | 19149 | [19149-time-clickers.json](./19149-time-clickers.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
+| Time Crash | 77464 | [77464-time-crash.json](./77464-time-crash.json) |
 | Time Crisis | 11739 | [11739-time-crisis.json](./11739-time-crisis.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
@@ -31431,6 +31434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2015 | 50304 | [50304-train-simulator-2015.json](./50304-train-simulator-2015.json) |
 | Train Simulator 2016 | 19894 | [19894-train-simulator-2016.json](./19894-train-simulator-2016.json) |
 | Train Simulator 2017 | 26539 | [26539-train-simulator-2017.json](./26539-train-simulator-2017.json) |
+| Train Simulator 2018 | 77437 | [77437-train-simulator-2018.json](./77437-train-simulator-2018.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
 | Train Simulator 2020 | 122285 | [122285-train-simulator-2020.json](./122285-train-simulator-2020.json) |
 | Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco | 169924 | [169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json](./169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json) |
@@ -35168,6 +35172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Truck Journey | 222804 | [222804-truck-journey.json](./222804-truck-journey.json) |
 | Truck Journey: Nitro | 223142 | [223142-truck-journey-nitro.json](./223142-truck-journey-nitro.json) |
+| Truck Kyousoukyoku | 77490 | [77490-truck-kyousoukyoku.json](./77490-truck-kyousoukyoku.json) |
 | Truck Kyousoukyoku: Ai to Kanashimi no Rodeo | 327364 | [327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json](./327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json) |
 | Truck Launch Maniac | 403702 | [403702-truck-launch-maniac.json](./403702-truck-launch-maniac.json) |
 | Truck Launch Maniac 2 | 403703 | [403703-truck-launch-maniac-2.json](./403703-truck-launch-maniac-2.json) |
