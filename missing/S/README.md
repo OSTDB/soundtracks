@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe | 371850 | [371850-safe.json](./371850-safe.json) |
 | Safe and Sound | 286721 | [286721-safe-and-sound.json](./286721-safe-and-sound.json) |
+| Safe at Dawn | 429772 | [429772-safe-at-dawn.json](./429772-safe-at-dawn.json) |
 | Safe at Home | 403242 | [403242-safe-at-home.json](./403242-safe-at-home.json) |
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 179084 | [179084-safe-cracker.json](./179084-safe-cracker.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
 | Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
+| Save Our Souls: Episode I - The Absurd Hopes Of Blessed Children | 29322 | [29322-save-our-souls-episode-i-the-absurd-hopes-of-blessed-children.json](./29322-save-our-souls-episode-i-the-absurd-hopes-of-blessed-children.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save President From Rebels | 107730 | [107730-save-president-from-rebels.json](./107730-save-president-from-rebels.json) |
 | Save Rob | 354909 | [354909-save-rob.json](./354909-save-rob.json) |
@@ -3353,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schneider’s Curse | 340315 | [340315-schneider-s-curse.json](./340315-schneider-s-curse.json) |
 | Schnell Online | 255568 | [255568-schnell-online.json](./255568-schnell-online.json) |
 | Schnock n' Blopf | 100096 | [100096-schnock-n-blopf.json](./100096-schnock-n-blopf.json) |
+| Schnudergoof | 429847 | [429847-schnudergoof.json](./429847-schnudergoof.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar | 200431 | [200431-scholar.json](./200431-scholar.json) |
 | Scholar Adventure: Lost Night | 418529 | [418529-scholar-adventure-lost-night.json](./418529-scholar-adventure-lost-night.json) |
@@ -5417,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Light | 427820 | [427820-seed-of-light.json](./427820-seed-of-light.json) |
 | Seed of Nostalgia | 334879 | [334879-seed-of-nostalgia.json](./334879-seed-of-nostalgia.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
+| Seed of the Arcane: Episode 1 | 29327 | [29327-seed-of-the-arcane-episode-1.json](./29327-seed-of-the-arcane-episode-1.json) |
 | Seed of the Dead: Charm Song | 272726 | [272726-seed-of-the-dead-charm-song.json](./272726-seed-of-the-dead-charm-song.json) |
 | Seed of the Dead: Sweet Home | 153900 | [153900-seed-of-the-dead-sweet-home.json](./153900-seed-of-the-dead-sweet-home.json) |
 | Seed Pioneers | 127648 | [127648-seed-pioneers.json](./127648-seed-pioneers.json) |
@@ -13823,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin Tailor | 382084 | [382084-skin-tailor.json](./382084-skin-tailor.json) |
 | Skin Tight Bitch Fight | 113974 | [113974-skin-tight-bitch-fight.json](./113974-skin-tight-bitch-fight.json) |
 | Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
+| Skin/Lover | 429743 | [429743-skin-lover.json](./429743-skin-lover.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | SkinCrawler Ranch | 364740 | [364740-skincrawler-ranch.json](./364740-skincrawler-ranch.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
@@ -14354,6 +14359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybound: Card Survival | 286692 | [286692-skybound-card-survival.json](./286692-skybound-card-survival.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybreak! | 300435 | [300435-skybreak.json](./300435-skybreak.json) |
+| Skybreaker: Rebuild Protocol | 429717 | [429717-skybreaker-rebuild-protocol.json](./429717-skybreaker-rebuild-protocol.json) |
 | Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
 | SkyBrew: Entropic Strategist | 304930 | [304930-skybrew-entropic-strategist.json](./304930-skybrew-entropic-strategist.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
@@ -16109,6 +16115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
 | Smash & Magic | 70839 | [70839-smash-and-magic.json](./70839-smash-and-magic.json) |
+| Smash & Settle | 429732 | [429732-smash-and-settle.json](./429732-smash-and-settle.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Ants! | 95299 | [95299-smash-ants.json](./95299-smash-ants.json) |
@@ -18993,6 +19000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something in the Water | 160285 | [160285-something-in-the-water.json](./160285-something-in-the-water.json) |
 | Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
+| Something Is Off | 429718 | [429718-something-is-off.json](./429718-something-is-off.json) |
 | Something is Weird | 342005 | [342005-something-is-weird.json](./342005-something-is-weird.json) |
 | Something is Wrong | 114841 | [114841-something-is-wrong.json](./114841-something-is-wrong.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
@@ -37964,6 +37972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Mania Journey | 182006 | [182006-supermarket-mania-journey.json](./182006-supermarket-mania-journey.json) |
 | Supermarket Mania: Match 3 | 334007 | [334007-supermarket-mania-match-3.json](./334007-supermarket-mania-match-3.json) |
+| SuperMarket Mess! | 429765 | [429765-supermarket-mess.json](./429765-supermarket-mess.json) |
 | Supermarket Owner Simulator: Business | 306747 | [306747-supermarket-owner-simulator-business.json](./306747-supermarket-owner-simulator-business.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shopping Simulator | 298437 | [298437-supermarket-shopping-simulator.json](./298437-supermarket-shopping-simulator.json) |
@@ -38821,6 +38830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivter | 253550 | [253550-survivter.json](./253550-survivter.json) |
 | SUS | 290548 | [290548-sus.json](./290548-sus.json) |
 | Sus Hat | 283545 | [283545-sus-hat.json](./283545-sus-hat.json) |
+| Sus Squad | 429729 | [429729-sus-squad.json](./429729-sus-squad.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | SUS: The Game | 282101 | [282101-sus-the-game.json](./282101-sus-the-game.json) |
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
