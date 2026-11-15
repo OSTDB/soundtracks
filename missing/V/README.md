@@ -1162,7 +1162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectonic | 29522 | [29522-vectonic.json](./29522-vectonic.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector | 15545 | [15545-vector.json](./15545-vector.json) |
-| Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector 36 | 14412 | [14412-vector-36.json](./14412-vector-36.json) |
 | Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
 | Vector Assault 2 | 160006 | [160006-vector-assault-2.json](./160006-vector-assault-2.json) |
