@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nandemoya of Flower Street | 239797 | [239797-nandemoya-of-flower-street.json](./239797-nandemoya-of-flower-street.json) |
+| Nandeyanen!?: The 1st Sûtra | 34890 | [34890-nandeyanen-the-1st-sutra.json](./34890-nandeyanen-the-1st-sutra.json) |
 | NandGame | 314811 | [314811-nandgame.json](./314811-nandgame.json) |
 | Nandome ka no Hajimemashite | 354767 | [354767-nandome-ka-no-hajimemashite.json](./354767-nandome-ka-no-hajimemashite.json) |
 | Nandome ka no Shiki | 393972 | [393972-nandome-ka-no-shiki.json](./393972-nandome-ka-no-shiki.json) |
