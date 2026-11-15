@@ -10673,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Fist | 191945 | [191945-plasma-fist.json](./191945-plasma-fist.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
 | Plasma Pong | 94290 | [94290-plasma-pong.json](./94290-plasma-pong.json) |
+| Plasma Puncher | 29313 | [29313-plasma-puncher.json](./29313-plasma-puncher.json) |
 | Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
 | Plasma Spheres | 69162 | [69162-plasma-spheres.json](./69162-plasma-spheres.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
@@ -17886,6 +17887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Océara | 150717 | [150717-project-oceara.json](./150717-project-oceara.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
 | Project of Cooling the Earth | 295061 | [295061-project-of-cooling-the-earth.json](./295061-project-of-cooling-the-earth.json) |
+| Project of the Developer | 29334 | [29334-project-of-the-developer.json](./29334-project-of-the-developer.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
 | Project Offset | 73013 | [73013-project-offset.json](./73013-project-offset.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
