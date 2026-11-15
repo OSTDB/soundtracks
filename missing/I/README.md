@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra | 16310 | [16310-infra.json](./16310-infra.json) |
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
+| Infra Arcana | 57855 | [57855-infra-arcana.json](./57855-infra-arcana.json) |
 | Infra Et Intus | 400509 | [400509-infra-et-intus.json](./400509-infra-et-intus.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Infrared | 271631 | [271631-infrared.json](./271631-infrared.json) |
@@ -5216,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instacalm VR | 150747 | [150747-instacalm-vr.json](./150747-instacalm-vr.json) |
 | InstaCondo Limited | 97238 | [97238-instacondo-limited.json](./97238-instacondo-limited.json) |
 | InstaDoom WAD Of The Year Edition | 217803 | [217803-instadoom-wad-of-the-year-edition.json](./217803-instadoom-wad-of-the-year-edition.json) |
+| Instakitty 3D | 57846 | [57846-instakitty-3d.json](./57846-instakitty-3d.json) |
 | Install Fee Tycoon | 269006 | [269006-install-fee-tycoon.json](./269006-install-fee-tycoon.json) |
 | Install Wizard | 147353 | [147353-install-wizard.json](./147353-install-wizard.json) |
 | Installation 01 | 117289 | [117289-installation-01.json](./117289-installation-01.json) |
