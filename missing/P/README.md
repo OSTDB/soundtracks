@@ -10245,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: World's Fair Pack | 110841 | [110841-planet-coaster-worlds-fair-pack.json](./110841-planet-coaster-worlds-fair-pack.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
+| Planet Colonization | 27120 | [27120-planet-colonization.json](./27120-planet-colonization.json) |
 | Planet Commander: Space Action | 249665 | [249665-planet-commander-space-action.json](./249665-planet-commander-space-action.json) |
 | Planet Conqueror | 195138 | [195138-planet-conqueror.json](./195138-planet-conqueror.json) |
 | Planet Cracker | 66969 | [66969-planet-cracker.json](./66969-planet-cracker.json) |
