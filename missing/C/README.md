@@ -4280,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Belmont's Curse - Bonus Contents Pack | 411827 | [411827-castlevania-belmonts-curse-bonus-contents-pack.json](./411827-castlevania-belmonts-curse-bonus-contents-pack.json) |
 | Castlevania: Belmont's Curse - Midnight Edition | 411834 | [411834-castlevania-belmonts-curse-midnight-edition.json](./411834-castlevania-belmonts-curse-midnight-edition.json) |
 | Castlevania: Belmont's Curse: Night One Edition | 423860 | [423860-castlevania-belmonts-curse-night-one-edition.json](./423860-castlevania-belmonts-curse-night-one-edition.json) |
+| Castlevania: Blood Moon | 48342 | [48342-castlevania-blood-moon.json](./48342-castlevania-blood-moon.json) |
 | Castlevania: Bloodlines | 1127 | [1127-castlevania-bloodlines.json](./1127-castlevania-bloodlines.json) |
 | Castlevania: Chorus of Mysteries | 48299 | [48299-castlevania-chorus-of-mysteries.json](./48299-castlevania-chorus-of-mysteries.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
