@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JellyCod | 265540 | [265540-jellycod.json](./265540-jellycod.json) |
 | Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
 | Jellyfish | 55769 | [55769-jellyfish.json](./55769-jellyfish.json) |
+| Jellyfish | 76007 | [76007-jellyfish.json](./76007-jellyfish.json) |
 | JellyFish | 321429 | [321429-jellyfish.json](./321429-jellyfish.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
