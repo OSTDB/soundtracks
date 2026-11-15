@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Classics: TwinBee | 84618 | [84618-3d-classics-twinbee.json](./84618-3d-classics-twinbee.json) |
 | 3D Classics: Urban Champion | 84619 | [84619-3d-classics-urban-champion.json](./84619-3d-classics-urban-champion.json) |
 | 3D Classics: Xevious | 84665 | [84665-3d-classics-xevious.json](./84665-3d-classics-xevious.json) |
+| 3D Code Cracker | 76000 | [76000-3d-code-cracker.json](./76000-3d-code-cracker.json) |
 | 3D Collection | 268703 | [268703-3d-collection.json](./268703-3d-collection.json) |
 | 3D Color Labyrinth | 282158 | [282158-3d-color-labyrinth.json](./282158-3d-color-labyrinth.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
@@ -3186,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Towers Onslaught | 235155 | [235155-4towers-onslaught.json](./235155-4towers-onslaught.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
 | 4Wheel Challenge | 351532 | [351532-4wheel-challenge.json](./351532-4wheel-challenge.json) |
+| 4X Space Time Shipyard | 76024 | [76024-4x-space-time-shipyard.json](./76024-4x-space-time-shipyard.json) |
 | 4X-Galaxy | 109326 | [109326-4x-galaxy.json](./109326-4x-galaxy.json) |
 | 4X4 | 219513 | [219513-4x4.json](./219513-4x4.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
