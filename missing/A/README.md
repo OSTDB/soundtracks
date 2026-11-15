@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Mining Rocks | 350678 | [350678-a-game-about-mining-rocks.json](./350678-a-game-about-mining-rocks.json) |
 | A Game About Mowing Your Lawn | 335270 | [335270-a-game-about-mowing-your-lawn.json](./335270-a-game-about-mowing-your-lawn.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
+| A Game About Needle in a Haystack | 424555 | [424555-a-game-about-needle-in-a-haystack.json](./424555-a-game-about-needle-in-a-haystack.json) |
 | A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
 | A Game About Penguins | 346487 | [346487-a-game-about-penguins.json](./346487-a-game-about-penguins.json) |
 | A Game About Picking Fruits | 422829 | [422829-a-game-about-picking-fruits.json](./422829-a-game-about-picking-fruits.json) |
@@ -8723,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alley Rally | 110878 | [110878-alley-rally.json](./110878-alley-rally.json) |
 | Alley Restaurant Tycoon | 304320 | [304320-alley-restaurant-tycoon.json](./304320-alley-restaurant-tycoon.json) |
 | Alleykat | 28850 | [28850-alleykat.json](./28850-alleykat.json) |
+| Alleymental | 424570 | [424570-alleymental.json](./424570-alleymental.json) |
 | AlleyRat | 342175 | [342175-alleyrat.json](./342175-alleyrat.json) |
 | Alleys | 102508 | [102508-alleys.json](./102508-alleys.json) |
 | AlleyStrat | 342176 | [342176-alleystrat.json](./342176-alleystrat.json) |
