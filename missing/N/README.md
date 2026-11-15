@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxette a disparu ! | 411941 | [411941-naxette-a-disparu.json](./411941-naxette-a-disparu.json) |
 | Naxia | 117540 | [117540-naxia.json](./117540-naxia.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
+| Naya's Quest | 62911 | [62911-nayas-quest.json](./62911-nayas-quest.json) |
 | Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
 | Nayla's Castle | 260025 | [260025-naylas-castle.json](./260025-naylas-castle.json) |
 | Nayra's Popstactic Adventures in Cadiz | 114752 | [114752-nayras-popstactic-adventures-in-cadiz.json](./114752-nayras-popstactic-adventures-in-cadiz.json) |
@@ -3198,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nettle Slasher | 363139 | [363139-nettle-slasher.json](./363139-nettle-slasher.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
+| Netto Golf | 63475 | [63475-netto-golf.json](./63475-netto-golf.json) |
 | Nettou Garou Densetsu 2: Aratanaru Tatakai | 49114 | [49114-nettou-garou-densetsu-2-aratanaru-tatakai.json](./49114-nettou-garou-densetsu-2-aratanaru-tatakai.json) |
 | Nettou Real Bout Garou Densetsu Special | 49113 | [49113-nettou-real-bout-garou-densetsu-special.json](./49113-nettou-real-bout-garou-densetsu-special.json) |
 | Nettou Samurai Spirits: Zankuro Musouken | 49112 | [49112-nettou-samurai-spirits-zankuro-musouken.json](./49112-nettou-samurai-spirits-zankuro-musouken.json) |
