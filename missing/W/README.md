@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War Inc InfantryZone | 125841 | [125841-war-inc-infantryzone.json](./125841-war-inc-infantryzone.json) |
 | War Inc. | 94459 | [94459-war-inc.json](./94459-war-inc.json) |
+| War Inc. Battlezone | 16261 | [16261-war-inc-battlezone.json](./16261-war-inc-battlezone.json) |
 | War is Hare | 274523 | [274523-war-is-hare.json](./274523-war-is-hare.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
