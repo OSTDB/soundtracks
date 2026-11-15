@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranman | 403979 | [403979-ranman.json](./403979-ranman.json) |
 | Ranocta | 292239 | [292239-ranocta.json](./292239-ranocta.json) |
 | Ranphon | 258623 | [258623-ranphon.json](./258623-ranphon.json) |
+| Ransack | 57814 | [57814-ransack.json](./57814-ransack.json) |
 | Ransack Raccoon | 165766 | [165766-ransack-raccoon.json](./165766-ransack-raccoon.json) |
 | Ransacked | 184215 | [184215-ransacked.json](./184215-ransacked.json) |
 | Ransei no Hasha | 46069 | [46069-ransei-no-hasha.json](./46069-ransei-no-hasha.json) |
@@ -8182,6 +8183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
+| Rides With Strangers | 57822 | [57822-rides-with-strangers.json](./57822-rides-with-strangers.json) |
 | Rideshare "Stimulator" | 411819 | [411819-rideshare-stimulator.json](./411819-rideshare-stimulator.json) |
 | Ridevery | 270521 | [270521-ridevery.json](./270521-ridevery.json) |
 | Ridge | 32363 | [32363-ridge.json](./32363-ridge.json) |
@@ -14265,6 +14267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush Team | 57953 | [57953-rush-team.json](./57953-rush-team.json) |
+| Rush Team 2 | 57854 | [57854-rush-team-2.json](./57854-rush-team-2.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
 | Rush to Survive | 110004 | [110004-rush-to-survive.json](./110004-rush-to-survive.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
