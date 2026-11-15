@@ -9385,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling: Toukon Retsuden | 277151 | [277151-shin-nippon-pro-wrestling-toukon-retsuden.json](./277151-shin-nippon-pro-wrestling-toukon-retsuden.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden | 37486 | [37486-shin-nippon-pro-wrestling-toukon-retsuden.json](./37486-shin-nippon-pro-wrestling-toukon-retsuden.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
+| Shin Nippon Pro Wrestling: Toukon Retsuden 3 | 44802 | [44802-shin-nippon-pro-wrestling-toukon-retsuden-3.json](./44802-shin-nippon-pro-wrestling-toukon-retsuden-3.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 4 | 45801 | [45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json](./45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden Advance | 61302 | [61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json](./61302-shin-nippon-pro-wrestling-toukon-retsuden-advance.json) |
 | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
@@ -10208,6 +10209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter of War | 53594 | [53594-shooter-of-war.json](./53594-shooter-of-war.json) |
 | Shooter Thing 2 | 60863 | [60863-shooter-thing-2.json](./60863-shooter-thing-2.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
+| Shooter: Starfighter Sanvein | 44902 | [44902-shooter-starfighter-sanvein.json](./44902-shooter-starfighter-sanvein.json) |
 | Shooter: The Official Movie Game | 67737 | [67737-shooter-the-official-movie-game.json](./67737-shooter-the-official-movie-game.json) |
 | Shooter's Alley | 92570 | [92570-shooters-alley.json](./92570-shooters-alley.json) |
 | Shooter's Island | 187143 | [187143-shooters-island.json](./187143-shooters-island.json) |
@@ -14298,6 +14300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydive! | 62234 | [62234-skydive.json](./62234-skydive.json) |
 | SkydiVeR | 114837 | [114837-skydiver.json](./114837-skydiver.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
+| Skydiving Extreme | 44903 | [44903-skydiving-extreme.json](./44903-skydiving-extreme.json) |
 | Skydiving Simulator VR | 83978 | [83978-skydiving-simulator-vr.json](./83978-skydiving-simulator-vr.json) |
 | Skydiving Simulator: Wingsuit Flight | 343555 | [343555-skydiving-simulator-wingsuit-flight.json](./343555-skydiving-simulator-wingsuit-flight.json) |
 | SkydiVR | 138432 | [138432-skydivr.json](./138432-skydivr.json) |
@@ -14537,6 +14540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam | 35046 | [35046-slam.json](./35046-slam.json) |
 | Slam | 407639 | [407639-slam.json](./407639-slam.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
+| Slam 'n Jam '96 Featuring Magic & Kareem | 44904 | [44904-slam-n-jam-96-featuring-magic-and-kareem.json](./44904-slam-n-jam-96-featuring-magic-and-kareem.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
 | Slam City Oracles | 215275 | [215275-slam-city-oracles.json](./215275-slam-city-oracles.json) |
@@ -20801,6 +20805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of the Devil | 32620 | [32620-soul-of-the-devil.json](./32620-soul-of-the-devil.json) |
 | Soul of the Dungeon | 348039 | [348039-soul-of-the-dungeon.json](./348039-soul-of-the-dungeon.json) |
 | Soul of the Forest | 310090 | [310090-soul-of-the-forest.json](./310090-soul-of-the-forest.json) |
+| Soul of the Samurai | 44905 | [44905-soul-of-the-samurai.json](./44905-soul-of-the-samurai.json) |
 | Soul of the Soul | 175671 | [175671-soul-of-the-soul.json](./175671-soul-of-the-soul.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War | 230869 | [230869-soul-of-war.json](./230869-soul-of-war.json) |
@@ -22452,6 +22457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
+| Space Shot | 44901 | [44901-space-shot.json](./44901-space-shot.json) |
 | Space Shot Game | 346047 | [346047-space-shot-game.json](./346047-space-shot-game.json) |
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
@@ -25459,6 +25465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Story | 127303 | [127303-sports-story.json](./127303-sports-story.json) |
 | Sports Superbike | 43789 | [43789-sports-superbike.json](./43789-sports-superbike.json) |
+| Sports Superbike 2 | 44908 | [44908-sports-superbike-2.json](./44908-sports-superbike-2.json) |
 | Sports Supermarket | 322503 | [322503-sports-supermarket.json](./322503-sports-supermarket.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
 | Sports Trivia | 78439 | [78439-sports-trivia.json](./78439-sports-trivia.json) |
@@ -31162,6 +31169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
+| Streak: Hoverboard Racing | 44910 | [44910-streak-hoverboard-racing.json](./44910-streak-hoverboard-racing.json) |
 | Streaker | 54571 | [54571-streaker.json](./54571-streaker.json) |
 | Streakshot | 97169 | [97169-streakshot.json](./97169-streakshot.json) |
 | Stream | 246992 | [246992-stream.json](./246992-stream.json) |
@@ -31601,6 +31609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Racing: Tokyo Rush | 147075 | [147075-street-racing-tokyo-rush.json](./147075-street-racing-tokyo-rush.json) |
 | Street Racing: United | 150379 | [150379-street-racing-united.json](./150379-street-racing-united.json) |
+| Street Racquetball | 44912 | [44912-street-racquetball.json](./44912-street-racquetball.json) |
 | Street Rash | 62907 | [62907-street-rash.json](./62907-street-rash.json) |
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Rider | 369456 | [369456-street-rider.json](./369456-street-rider.json) |
@@ -36746,6 +36755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shootin Star | 378241 | [378241-super-shootin-star.json](./378241-super-shootin-star.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
+| Super Shot Soccer | 44913 | [44913-super-shot-soccer.json](./44913-super-shot-soccer.json) |
 | Super Shuttle Blaster Arcade | 97171 | [97171-super-shuttle-blaster-arcade.json](./97171-super-shuttle-blaster-arcade.json) |
 | Super Sidekicks | 52191 | [52191-super-sidekicks.json](./52191-super-sidekicks.json) |
 | Super Sidekicks 2: The World Championship | 100707 | [100707-super-sidekicks-2-the-world-championship.json](./100707-super-sidekicks-2-the-world-championship.json) |
@@ -37900,6 +37910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
 | SuperStar: Oh My Girl | 232094 | [232094-superstar-oh-my-girl.json](./232094-superstar-oh-my-girl.json) |
+| Superstars Dance Club #1 Hits | 44914 | [44914-superstars-dance-club-1-hits.json](./44914-superstars-dance-club-1-hits.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
 | Superstatic | 35122 | [35122-superstatic.json](./35122-superstatic.json) |
 | Superstein | 235865 | [235865-superstein.json](./235865-superstein.json) |
