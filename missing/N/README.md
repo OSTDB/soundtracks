@@ -5855,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Shadow Quest | 301163 | [301163-ninja-shadow-quest.json](./301163-ninja-shadow-quest.json) |
 | Ninja Shadow: Shall we Date? | 299195 | [299195-ninja-shadow-shall-we-date.json](./299195-ninja-shadow-shall-we-date.json) |
 | Ninja Shodown | 194215 | [194215-ninja-shodown.json](./194215-ninja-shodown.json) |
+| Ninja Shodown | 56066 | [56066-ninja-shodown.json](./56066-ninja-shodown.json) |
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
 | Ninja Simulator | 136592 | [136592-ninja-simulator.json](./136592-ninja-simulator.json) |
@@ -5976,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjish Guy in Low-Res World | 269163 | [269163-ninjish-guy-in-low-res-world.json](./269163-ninjish-guy-in-low-res-world.json) |
 | Ninjora Echoes | 391120 | [391120-ninjora-echoes.json](./391120-ninjora-echoes.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
+| NinJump Deluxe | 87313 | [87313-ninjump-deluxe.json](./87313-ninjump-deluxe.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninjurate | 290639 | [290639-ninjurate.json](./290639-ninjurate.json) |
 | Ninki Seiyuu no Tsukurikata: Limited Edition | 167153 | [167153-ninki-seiyuu-no-tsukurikata-limited-edition.json](./167153-ninki-seiyuu-no-tsukurikata-limited-edition.json) |
@@ -7109,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisy Mountain | 71268 | [71268-noisy-mountain.json](./71268-noisy-mountain.json) |
 | Noisy Video Poker and Blackjack | 72228 | [72228-noisy-video-poker-and-blackjack.json](./72228-noisy-video-poker-and-blackjack.json) |
 | NoisyDiarrhea | 281355 | [281355-noisydiarrhea.json](./281355-noisydiarrhea.json) |
+| Noisz | 56622 | [56622-noisz.json](./56622-noisz.json) |
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
 | Noisz Re:Verse | 168534 | [168534-noisz-re-verse.json](./168534-noisz-re-verse.json) |
 | Noisz Starlivht | 133489 | [133489-noisz-starlivht.json](./133489-noisz-starlivht.json) |
