@@ -10433,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE '13 | 5295 | [5295-wwe-13.json](./5295-wwe-13.json) |
 | WWE 2K | 99359 | [99359-wwe-2k.json](./99359-wwe-2k.json) |
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
+| WWE 2K15 | 7846 | [7846-wwe-2k15.json](./7846-wwe-2k15.json) |
 | WWE 2K15: Hall of Pain | 268798 | [268798-wwe-2k15-hall-of-pain.json](./268798-wwe-2k15-hall-of-pain.json) |
 | WWE 2K15: One More Match | 268785 | [268785-wwe-2k15-one-more-match.json](./268785-wwe-2k15-one-more-match.json) |
 | WWE 2K15: Path of the Warrior | 268799 | [268799-wwe-2k15-path-of-the-warrior.json](./268799-wwe-2k15-path-of-the-warrior.json) |
@@ -10535,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Road to WrestleMania X8 | 6683 | [6683-wwe-road-to-wrestlemania-x8.json](./6683-wwe-road-to-wrestlemania-x8.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
+| WWE SmackDown vs. Raw 2007 | 7252 | [7252-wwe-smackdown-vs-raw-2007.json](./7252-wwe-smackdown-vs-raw-2007.json) |
 | WWE SmackDown vs. Raw 2008 | 328306 | [328306-wwe-smackdown-vs-raw-2008.json](./328306-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2008 | 5298 | [5298-wwe-smackdown-vs-raw-2008.json](./5298-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2009 | 344148 | [344148-wwe-smackdown-vs-raw-2009.json](./344148-wwe-smackdown-vs-raw-2009.json) |
