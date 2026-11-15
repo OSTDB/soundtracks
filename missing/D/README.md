@@ -10954,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | Dinostria | 288638 | [288638-dinostria.json](./288638-dinostria.json) |
 | DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
+| Dinothawr | 62332 | [62332-dinothawr.json](./62332-dinothawr.json) |
 | Dinotica | 333407 | [333407-dinotica.json](./333407-dinotica.json) |
 | Dinotica | 361625 | [361625-dinotica.json](./361625-dinotica.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
