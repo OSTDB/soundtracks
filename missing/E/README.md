@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagletalon vs. Horde of the Flies | 127604 | [127604-eagletalon-vs-horde-of-the-flies.json](./127604-eagletalon-vs-horde-of-the-flies.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ealu | 165344 | [165344-ealu.json](./165344-ealu.json) |
+| Eamon | 28233 | [28233-eamon.json](./28233-eamon.json) |
 | Ean's End | 214202 | [214202-eans-end.json](./214202-eans-end.json) |
 | Ear Cat | 100916 | [100916-ear-cat.json](./100916-ear-cat.json) |
 | Ear Clicker | 330496 | [330496-ear-clicker.json](./330496-ear-clicker.json) |
@@ -2770,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Panic | 78843 | [78843-elevator-panic.json](./78843-elevator-panic.json) |
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
 | Elevator Simulator 3D | 394310 | [394310-elevator-simulator-3d.json](./394310-elevator-simulator-3d.json) |
+| Elevator VR | 28261 | [28261-elevator-vr.json](./28261-elevator-vr.json) |
 | Elevator Warp | 295573 | [295573-elevator-warp.json](./295573-elevator-warp.json) |
 | Elevator Zero | 287996 | [287996-elevator-zero.json](./287996-elevator-zero.json) |
 | Elevator: Avici | 411906 | [411906-elevator-avici.json](./411906-elevator-avici.json) |
