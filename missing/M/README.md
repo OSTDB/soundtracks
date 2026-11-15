@@ -5153,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Collect! by Topps | 322472 | [322472-marvel-collect-by-topps.json](./322472-marvel-collect-by-topps.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Cosmic Invasion: Cyclops & The Thing | 411354 | [411354-marvel-cosmic-invasion-cyclops-and-the-thing.json](./411354-marvel-cosmic-invasion-cyclops-and-the-thing.json) |
+| Marvel Cosmic Invasion: The Siege of Castle Doom | 422320 | [422320-marvel-cosmic-invasion-the-siege-of-castle-doom.json](./422320-marvel-cosmic-invasion-the-siege-of-castle-doom.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
 | Marvel Duel | 138543 | [138543-marvel-duel.json](./138543-marvel-duel.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
@@ -7612,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanics | 399915 | [399915-mechanics.json](./399915-mechanics.json) |
 | Mechanics Touch | 399916 | [399916-mechanics-touch.json](./399916-mechanics-touch.json) |
 | Mechanicus : Star Confrontation Lite | 100407 | [100407-mechanicus-star-confrontation-lite.json](./100407-mechanicus-star-confrontation-lite.json) |
+| MechaNika | 34932 | [34932-mechanika.json](./34932-mechanika.json) |
 | MechAnimals | 327992 | [327992-mechanimals.json](./327992-mechanimals.json) |
 | Mechanines Tower Defense | 318330 | [318330-mechanines-tower-defense.json](./318330-mechanines-tower-defense.json) |
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
@@ -22628,6 +22630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
 | My Body Coach 2 | 50657 | [50657-my-body-coach-2.json](./50657-my-body-coach-2.json) |
+| My Bones | 34789 | [34789-my-bones.json](./34789-my-bones.json) |
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
 | My Boo Album | 373238 | [373238-my-boo-album.json](./373238-my-boo-album.json) |
 | My Bookshop Dreams | 359871 | [359871-my-bookshop-dreams.json](./359871-my-bookshop-dreams.json) |
@@ -23952,6 +23955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Train Arrives: Sea and Mountains | 274927 | [274927-my-train-arrives-sea-and-mountains.json](./274927-my-train-arrives-sea-and-mountains.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
+| My Tribe | 16180 | [16180-my-tribe.json](./16180-my-tribe.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My Truck Game | 286799 | [286799-my-truck-game.json](./286799-my-truck-game.json) |
 | My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
