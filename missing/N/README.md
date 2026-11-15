@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
+| NepNep Connect: Chaos Chanpuru | 36606 | [36606-nepnep-connect-chaos-chanpuru.json](./36606-nepnep-connect-chaos-chanpuru.json) |
 | NEPO Missions | 374410 | [374410-nepo-missions.json](./374410-nepo-missions.json) |
 | Nepotism for Germany | 397276 | [397276-nepotism-for-germany.json](./397276-nepotism-for-germany.json) |
 | Neppachi Gold: CR Monster Mansion | 74811 | [74811-neppachi-gold-cr-monster-mansion.json](./74811-neppachi-gold-cr-monster-mansion.json) |
@@ -5134,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
 | Nightmare Pursuit | 313915 | [313915-nightmare-pursuit.json](./313915-nightmare-pursuit.json) |
 | Nightmare Puzzles: The Unknown | 351553 | [351553-nightmare-puzzles-the-unknown.json](./351553-nightmare-puzzles-the-unknown.json) |
+| Nightmare Rally | 36540 | [36540-nightmare-rally.json](./36540-nightmare-rally.json) |
 | Nightmare Reaper | 117281 | [117281-nightmare-reaper.json](./117281-nightmare-reaper.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Retro | 422472 | [422472-nightmare-retro.json](./422472-nightmare-retro.json) |
