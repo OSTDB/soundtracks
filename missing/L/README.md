@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Club Katze | 56704 | [56704-last-escort-club-katze.json](./56704-last-escort-club-katze.json) |
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
+| Last Evac | 426966 | [426966-last-evac.json](./426966-last-evac.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
 | Last Exit Diner: Edge of Known Space | 423639 | [423639-last-exit-diner-edge-of-known-space.json](./423639-last-exit-diner-edge-of-known-space.json) |
 | Last Expedition | 142310 | [142310-last-expedition.json](./142310-last-expedition.json) |
