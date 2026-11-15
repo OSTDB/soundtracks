@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feesh | 34111 | [34111-feesh.json](./34111-feesh.json) |
 | FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
 | Feet in the Snow | 234797 | [234797-feet-in-the-snow.json](./234797-feet-in-the-snow.json) |
+| Feet of Fury | 73890 | [73890-feet-of-fury.json](./73890-feet-of-fury.json) |
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
