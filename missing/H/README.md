@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
 | Heart of Dixie | 101302 | [101302-heart-of-dixie.json](./101302-heart-of-dixie.json) |
 | Heart of Dungeon | 159521 | [159521-heart-of-dungeon.json](./159521-heart-of-dungeon.json) |
+| Heart of Ember | 34940 | [34940-heart-of-ember.json](./34940-heart-of-ember.json) |
 | Heart of Enya | 149479 | [149479-heart-of-enya.json](./149479-heart-of-enya.json) |
 | Heart of Eternity | 370658 | [370658-heart-of-eternity.json](./370658-heart-of-eternity.json) |
 | Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
@@ -11276,6 +11277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HordeCore: Training Ground | 157195 | [157195-hordecore-training-ground.json](./157195-hordecore-training-ground.json) |
 | HordeFighter 2D | 267458 | [267458-hordefighter-2d.json](./267458-hordefighter-2d.json) |
 | Hordeguard: Winds of the North | 354749 | [354749-hordeguard-winds-of-the-north.json](./354749-hordeguard-winds-of-the-north.json) |
+| Hordelicious | 34929 | [34929-hordelicious.json](./34929-hordelicious.json) |
 | Hordelord | 346021 | [346021-hordelord.json](./346021-hordelord.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes of Enemies Bundle | 331524 | [331524-hordes-of-enemies-bundle.json](./331524-hordes-of-enemies-bundle.json) |
