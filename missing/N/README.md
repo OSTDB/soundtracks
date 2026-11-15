@@ -8272,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null | 279802 | [279802-null.json](./279802-null.json) |
 | Null | 401139 | [401139-null.json](./401139-null.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
+| Null Battles | 64585 | [64585-null-battles.json](./64585-null-battles.json) |
 | Null Bearing Redux | 309273 | [309273-null-bearing-redux.json](./309273-null-bearing-redux.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
 | Null District | 248988 | [248988-null-district.json](./248988-null-district.json) |
@@ -8479,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuri VR: Coding | 368205 | [368205-nuri-vr-coding.json](./368205-nuri-vr-coding.json) |
 | Nurie de Asobou: Sanrio Characters | 266170 | [266170-nurie-de-asobou-sanrio-characters.json](./266170-nurie-de-asobou-sanrio-characters.json) |
 | Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
+| Nurikabe by Nikoli | 64556 | [64556-nurikabe-by-nikoli.json](./64556-nurikabe-by-nikoli.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurilogy 1000 | 345709 | [345709-nurilogy-1000.json](./345709-nurilogy-1000.json) |
 | Nurny Battles HD | 402380 | [402380-nurny-battles-hd.json](./402380-nurny-battles-hd.json) |
