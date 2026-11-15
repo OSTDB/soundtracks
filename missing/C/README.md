@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Eclipse | 20291 | [20291-call-of-duty-black-ops-iii-eclipse.json](./20291-call-of-duty-black-ops-iii-eclipse.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
+| Call of Duty: Black Ops III - Juggernog Edition | 42948 | [42948-call-of-duty-black-ops-iii-juggernog-edition.json](./42948-call-of-duty-black-ops-iii-juggernog-edition.json) |
 | Call of Duty: Black Ops III - Season Pass | 290246 | [290246-call-of-duty-black-ops-iii-season-pass.json](./290246-call-of-duty-black-ops-iii-season-pass.json) |
 | Call of Duty: Black Ops III - Steelbook Edition | 8905 | [8905-call-of-duty-black-ops-iii-steelbook-edition.json](./8905-call-of-duty-black-ops-iii-steelbook-edition.json) |
 | Call of Duty: Black Ops III - The Giant | 290251 | [290251-call-of-duty-black-ops-iii-the-giant.json](./290251-call-of-duty-black-ops-iii-the-giant.json) |
@@ -17609,6 +17610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coveny Town | 386061 | [386061-coveny-town.json](./386061-coveny-town.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover Fire: Shooter vs Sniper | 103855 | [103855-cover-fire-shooter-vs-sniper.json](./103855-cover-fire-shooter-vs-sniper.json) |
+| Cover Girl | 42688 | [42688-cover-girl.json](./42688-cover-girl.json) |
 | Cover Letter: The Game | 180383 | [180383-cover-letter-the-game.json](./180383-cover-letter-the-game.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
