@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Madness | 248960 | [248960-elevator-madness.json](./248960-elevator-madness.json) |
 | Elevator Mayhem | 398704 | [398704-elevator-mayhem.json](./398704-elevator-mayhem.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
+| Elevator Operator: System Residue | 426962 | [426962-elevator-operator-system-residue.json](./426962-elevator-operator-system-residue.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator Panic | 78843 | [78843-elevator-panic.json](./78843-elevator-panic.json) |
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
@@ -7662,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
 | Evergate | 105453 | [105453-evergate.json](./105453-evergate.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
+| Evergather: Meadowcraft | 426950 | [426950-evergather-meadowcraft.json](./426950-evergather-meadowcraft.json) |
 | EverGirl | 6399 | [6399-evergirl.json](./6399-evergirl.json) |
 | Everglen | 368993 | [368993-everglen.json](./368993-everglen.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
