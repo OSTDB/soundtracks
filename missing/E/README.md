@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebuc | 83890 | [83890-ebuc.json](./83890-ebuc.json) |
 | Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
 | Eburnean | 98296 | [98296-eburnean.json](./98296-eburnean.json) |
+| ECC: Redline | 422768 | [422768-ecc-redline.json](./422768-ecc-redline.json) |
 | Ecchi 2: compile 2D chan | 111638 | [111638-ecchi-2-compile-2d-chan.json](./111638-ecchi-2-compile-2d-chan.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Beauties 2 | 233707 | [233707-ecchi-beauties-2.json](./233707-ecchi-beauties-2.json) |
