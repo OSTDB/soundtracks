@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games in Tight Spaces | 381883 | [381883-games-in-tight-spaces.json](./381883-games-in-tight-spaces.json) |
 | Games Interactive | 79678 | [79678-games-interactive.json](./79678-games-interactive.json) |
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
+| Games of Glory | 28274 | [28274-games-of-glory.json](./28274-games-of-glory.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
 | Games of the Monarch's Eye | 363081 | [363081-games-of-the-monarchs-eye.json](./363081-games-of-the-monarchs-eye.json) |
 | Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
@@ -10723,6 +10724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger 5.5 | 142700 | [142700-grisaia-phantom-trigger-5-5.json](./142700-grisaia-phantom-trigger-5-5.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
 | Grisaia Phantom Trigger Vol.1 | 28300 | [28300-grisaia-phantom-trigger-vol-1.json](./28300-grisaia-phantom-trigger-vol-1.json) |
+| Grisaia Phantom Trigger Vol.2 | 28301 | [28301-grisaia-phantom-trigger-vol-2.json](./28301-grisaia-phantom-trigger-vol-2.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
