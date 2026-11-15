@@ -10828,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
 | PlatOnir | 103825 | [103825-platonir.json](./103825-platonir.json) |
+| Platoon | 12718 | [12718-platoon.json](./12718-platoon.json) |
 | Platoon | 290275 | [290275-platoon.json](./290275-platoon.json) |
 | Platoon | 372245 | [372245-platoon.json](./372245-platoon.json) |
 | Platoon | 79175 | [79175-platoon.json](./79175-platoon.json) |
@@ -12597,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Legends: Arceus | 144054 | [144054-pokemon-legends-arceus.json](./144054-pokemon-legends-arceus.json) |
 | Pokémon Legends: Arceus - Daybreak | 221843 | [221843-pokemon-legends-arceus-daybreak.json](./221843-pokemon-legends-arceus-daybreak.json) |
 | Pokémon Legends: Z-A - Mega Dimension | 366894 | [366894-pokemon-legends-z-a-mega-dimension.json](./366894-pokemon-legends-z-a-mega-dimension.json) |
+| Pokémon Light Platinum | 129821 | [129821-pokemon-light-platinum.json](./129821-pokemon-light-platinum.json) |
 | Pokemon Lightning Yellow | 365745 | [365745-pokemon-lightning-yellow.json](./365745-pokemon-lightning-yellow.json) |
 | Pokémon Lime Version | 359917 | [359917-pokemon-lime-version.json](./359917-pokemon-lime-version.json) |
 | Pokémon Liquid Crystal | 129822 | [129822-pokemon-liquid-crystal.json](./129822-pokemon-liquid-crystal.json) |
@@ -18943,6 +18945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Partisans: Officer Nirvana | 374344 | [374344-psycho-partisans-officer-nirvana.json](./374344-psycho-partisans-officer-nirvana.json) |
 | Psycho Pigs | 371191 | [371191-psycho-pigs.json](./371191-psycho-pigs.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
+| Psycho Pinball | 4553 | [4553-psycho-pinball.json](./4553-psycho-pinball.json) |
 | Psycho Reign | 216939 | [216939-psycho-reign.json](./216939-psycho-reign.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
 | Psycho Shopper | 310650 | [310650-psycho-shopper.json](./310650-psycho-shopper.json) |
@@ -19796,6 +19799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate | 193718 | [193718-pureskate.json](./193718-pureskate.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
+| Pureya | 132457 | [132457-pureya.json](./132457-pureya.json) |
 | PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
 | Purgation | 55563 | [55563-purgation.json](./55563-purgation.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
