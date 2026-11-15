@@ -7261,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
 | Beneath a Steel Sky | 612 | [612-beneath-a-steel-sky.json](./612-beneath-a-steel-sky.json) |
+| Beneath a Steel Sky: Remastered | 919 | [919-beneath-a-steel-sky-remastered.json](./919-beneath-a-steel-sky-remastered.json) |
 | Beneath a Withering Moon | 141719 | [141719-beneath-a-withering-moon.json](./141719-beneath-a-withering-moon.json) |
 | Beneath Apple Manor | 2873 | [2873-beneath-apple-manor.json](./2873-beneath-apple-manor.json) |
 | Beneath Europa | 375874 | [375874-beneath-europa.json](./375874-beneath-europa.json) |
@@ -11356,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
 | Blind Hope | 258074 | [258074-blind-hope.json](./258074-blind-hope.json) |
 | Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
+| Blind Justice | 2432 | [2432-blind-justice.json](./2432-blind-justice.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
 | Blind Man's Sun | 369330 | [369330-blind-mans-sun.json](./369330-blind-mans-sun.json) |
 | Blind Men | 44176 | [44176-blind-men.json](./44176-blind-men.json) |
