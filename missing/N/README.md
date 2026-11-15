@@ -8292,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
 | Nuclecard | 380538 | [380538-nuclecard.json](./380538-nuclecard.json) |
 | Nucleite | 285911 | [285911-nucleite.json](./285911-nucleite.json) |
+| Nucleus | 23092 | [23092-nucleus.json](./23092-nucleus.json) |
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
 | Nucvivor | 113985 | [113985-nucvivor.json](./113985-nucvivor.json) |
