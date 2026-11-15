@@ -6638,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Hawk: Thexder - The Second Contact | 50193 | [50193-fire-hawk-thexder-the-second-contact.json](./50193-fire-hawk-thexder-the-second-contact.json) |
 | Fire Heat | 201976 | [201976-fire-heat.json](./201976-fire-heat.json) |
 | Fire Hero: Pixel Rescue | 332967 | [332967-fire-hero-pixel-rescue.json](./332967-fire-hero-pixel-rescue.json) |
+| Fire Heroes | 43587 | [43587-fire-heroes.json](./43587-fire-heroes.json) |
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
 | Fire Hop | 348173 | [348173-fire-hop.json](./348173-fire-hop.json) |
 | Fire Hose | 212296 | [212296-fire-hose.json](./212296-fire-hose.json) |
