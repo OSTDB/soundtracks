@@ -7406,7 +7406,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Bones of You | 266720 | [266720-the-bones-of-you.json](./266720-the-bones-of-you.json) |
 | The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
-| The Bonfire 2: Uncharted Shores | 123570 | [123570-the-bonfire-2-uncharted-shores.json](./123570-the-bonfire-2-uncharted-shores.json) |
 | The Bonfire: Forsaken Lands | 84535 | [84535-the-bonfire-forsaken-lands.json](./84535-the-bonfire-forsaken-lands.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
@@ -22330,7 +22329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is the Only Level Too | 198112 | [198112-this-is-the-only-level-too.json](./198112-this-is-the-only-level-too.json) |
 | This Is the Police 2 | 84486 | [84486-this-is-the-police-2.json](./84486-this-is-the-police-2.json) |
 | This Is the President | 182644 | [182644-this-is-the-president.json](./182644-this-is-the-president.json) |
-| This Is the Zodiac Speaking | 119502 | [119502-this-is-the-zodiac-speaking.json](./119502-this-is-the-zodiac-speaking.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Torture Together | 196963 | [196963-this-is-torture-together.json](./196963-this-is-torture-together.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
