@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
 | Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
+| Rats! | 61662 | [61662-rats.json](./61662-rats.json) |
 | Rats! | 94105 | [94105-rats.json](./94105-rats.json) |
 | RatScrew | 106865 | [106865-ratscrew.json](./106865-ratscrew.json) |
 | RatScum | 364248 | [364248-ratscum.json](./364248-ratscum.json) |
@@ -9749,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robfather World | 268350 | [268350-robfather-world.json](./268350-robfather-world.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robikon | 107448 | [107448-robikon.json](./107448-robikon.json) |
+| Robin | 57837 | [57837-robin.json](./57837-robin.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
 | Robin Hood | 100246 | [100246-robin-hood.json](./100246-robin-hood.json) |
 | Robin Hood | 217733 | [217733-robin-hood.json](./217733-robin-hood.json) |
@@ -11088,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodeo Stampede: Sky Zoo Safari | 87669 | [87669-rodeo-stampede-sky-zoo-safari.json](./87669-rodeo-stampede-sky-zoo-safari.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
+| Rodina | 9946 | [9946-rodina.json](./9946-rodina.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
 | Rodland of Pipes | 311830 | [311830-rodland-of-pipes.json](./311830-rodland-of-pipes.json) |
 | Rodney's Funscreen | 50890 | [50890-rodneys-funscreen.json](./50890-rodneys-funscreen.json) |
