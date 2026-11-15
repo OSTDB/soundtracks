@@ -15086,6 +15086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Denied Ops | 5634 | [5634-conflict-denied-ops.json](./5634-conflict-denied-ops.json) |
 | Conflict: Desert Storm | 3863 | [3863-conflict-desert-storm.json](./3863-conflict-desert-storm.json) |
+| Conflict: Europe | 72189 | [72189-conflict-europe.json](./72189-conflict-europe.json) |
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
@@ -17481,6 +17482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couple quest | 81032 | [81032-couple-quest.json](./81032-couple-quest.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Couples | 271690 | [271690-couples.json](./271690-couples.json) |
+| Couples Sudoku | 70530 | [70530-couples-sudoku.json](./70530-couples-sudoku.json) |
 | Coupling | 286030 | [286030-coupling.json](./286030-coupling.json) |
 | Coupling | 357425 | [357425-coupling.json](./357425-coupling.json) |
 | Couplinked | 138509 | [138509-couplinked.json](./138509-couplinked.json) |
@@ -18316,6 +18318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Override | 215518 | [215518-crash-override.json](./215518-crash-override.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Powertape September 1991 | 71383 | [71383-crash-powertape-september-1991.json](./71383-crash-powertape-september-1991.json) |
+| Crash Presents December 1989 | 71070 | [71070-crash-presents-december-1989.json](./71070-crash-presents-december-1989.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Presents: July 1989 | 325327 | [325327-crash-presents-july-1989.json](./325327-crash-presents-july-1989.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
@@ -19725,6 +19728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
 | Critical Path | 72521 | [72521-critical-path.json](./72521-critical-path.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
+| Critical Point | 71077 | [71077-critical-point.json](./71077-critical-point.json) |
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
 | Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
@@ -22592,6 +22596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
 | Cuthbert Goes Digging | 73989 | [73989-cuthbert-goes-digging.json](./73989-cuthbert-goes-digging.json) |
 | Cuthbert Goes Walkabout | 69673 | [69673-cuthbert-goes-walkabout.json](./69673-cuthbert-goes-walkabout.json) |
+| Cuthbert in Space | 72209 | [72209-cuthbert-in-space.json](./72209-cuthbert-in-space.json) |
 | Cuthbert in the Cooler | 73472 | [73472-cuthbert-in-the-cooler.json](./73472-cuthbert-in-the-cooler.json) |
 | Cuthbert in the Jungle | 114769 | [114769-cuthbert-in-the-jungle.json](./114769-cuthbert-in-the-jungle.json) |
 | Cuthbert in the Mines | 74022 | [74022-cuthbert-in-the-mines.json](./74022-cuthbert-in-the-mines.json) |
