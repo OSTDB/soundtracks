@@ -2093,7 +2093,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
 | Tank Man | 341798 | [341798-tank-man.json](./341798-tank-man.json) |
 | Tank Mania | 411189 | [411189-tank-mania.json](./411189-tank-mania.json) |
-| Tank Maniacs | 117710 | [117710-tank-maniacs.json](./117710-tank-maniacs.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Masters | 115191 | [115191-tank-masters.json](./115191-tank-masters.json) |
 | Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
@@ -14545,7 +14544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Journey: Adventure | 90791 | [90791-the-long-journey-adventure.json](./90791-the-long-journey-adventure.json) |
 | The Long March: 20000 Miles of Journey | 373045 | [373045-the-long-march-20000-miles-of-journey.json](./373045-the-long-march-20000-miles-of-journey.json) |
 | The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
-| The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
 | The Long Road North | 192484 | [192484-the-long-road-north.json](./192484-the-long-road-north.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Siege | 239428 | [239428-the-long-siege.json](./239428-the-long-siege.json) |
