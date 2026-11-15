@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Trainer: Jogging Race | 48765 | [48765-family-trainer-jogging-race.json](./48765-family-trainer-jogging-race.json) |
 | Family Trainer: Meiro Daisakusen | 48764 | [48764-family-trainer-meiro-daisakusen.json](./48764-family-trainer-meiro-daisakusen.json) |
 | Family Trainer: Rai-rai Kyonshis - Baby Kyonshi no Amida Daibouken | 48761 | [48761-family-trainer-rai-rai-kyonshis-baby-kyonshi-no-amida-daibouken.json](./48761-family-trainer-rai-rai-kyonshis-baby-kyonshi-no-amida-daibouken.json) |
+| Family Trainer: Totsugeki! Fuuun Takeshi-jou | 64574 | [64574-family-trainer-totsugeki-fuuun-takeshi-jou.json](./64574-family-trainer-totsugeki-fuuun-takeshi-jou.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Family Vacation Bundle: 20 Games | 330436 | [330436-family-vacation-bundle-20-games.json](./330436-family-vacation-bundle-20-games.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
 | Fantasy Telemarketer | 397410 | [397410-fantasy-telemarketer.json](./397410-fantasy-telemarketer.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
+| Fantasy Tennis | 64571 | [64571-fantasy-tennis.json](./64571-fantasy-tennis.json) |
 | Fantasy Tennis 2 | 166465 | [166465-fantasy-tennis-2.json](./166465-fantasy-tennis-2.json) |
 | Fantasy Three Kingdoms and Eight Formations | 273760 | [273760-fantasy-three-kingdoms-and-eight-formations.json](./273760-fantasy-three-kingdoms-and-eight-formations.json) |
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
@@ -3173,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Girls: Super Edition | 272407 | [272407-fashion-girls-super-edition.json](./272407-fashion-girls-super-edition.json) |
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
+| Fashion Icon | 64592 | [64592-fashion-icon.json](./64592-fashion-icon.json) |
 | Fashion Mall Story | 421374 | [421374-fashion-mall-story.json](./421374-fashion-mall-story.json) |
 | Fashion Model Story | 133713 | [133713-fashion-model-story.json](./133713-fashion-model-story.json) |
 | Fashion Passion Puzzle | 347382 | [347382-fashion-passion-puzzle.json](./347382-fashion-passion-puzzle.json) |
