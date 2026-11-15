@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 205710 | [205710-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./205710-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
+| Valkyrie no Densetsu Gaiden: Rosa no Bouken | 63477 | [63477-valkyrie-no-densetsu-gaiden-rosa-no-bouken.json](./63477-valkyrie-no-densetsu-gaiden-rosa-no-bouken.json) |
 | Valkyrie of Phantasm | 119265 | [119265-valkyrie-of-phantasm.json](./119265-valkyrie-of-phantasm.json) |
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | Vividlope | 224808 | [224808-vividlope.json](./224808-vividlope.json) |
 | Vividly Blank | 427847 | [427847-vividly-blank.json](./427847-vividly-blank.json) |
+| Vividred Operation: Hyper Intimate Power | 63500 | [63500-vividred-operation-hyper-intimate-power.json](./63500-vividred-operation-hyper-intimate-power.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivisection | 396584 | [396584-vivisection.json](./396584-vivisection.json) |
