@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Noire: The Complete Edition | 47398 | [47398-l-a-noire-the-complete-edition.json](./47398-l-a-noire-the-complete-edition.json) |
 | L.A. Noire: The Consul's Car | 117308 | [117308-l-a-noire-the-consuls-car.json](./117308-l-a-noire-the-consuls-car.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
+| L.A. Noire: The VR Case Files | 59587 | [59587-l-a-noire-the-vr-case-files.json](./59587-l-a-noire-the-vr-case-files.json) |
 | L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
 | L.A.P.D. 2195 | 197004 | [197004-l-a-p-d-2195.json](./197004-l-a-p-d-2195.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Lad | 86154 | [86154-lad.json](./86154-lad.json) |
 | Lad 2024 | 315333 | [315333-lad-2024.json](./315333-lad-2024.json) |
+| Lada Racing Club | 58372 | [58372-lada-racing-club.json](./58372-lada-racing-club.json) |
 | Ladder Box | 155888 | [155888-ladder-box.json](./155888-ladder-box.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
@@ -4898,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichkeeper | 246813 | [246813-lichkeeper.json](./246813-lichkeeper.json) |
 | Licht plus for Playdate | 230791 | [230791-licht-plus-for-playdate.json](./230791-licht-plus-for-playdate.json) |
 | Lichtreich: Willa | 230780 | [230780-lichtreich-willa.json](./230780-lichtreich-willa.json) |
+| Lichtspeer: Double Speer Edition | 59853 | [59853-lichtspeer-double-speer-edition.json](./59853-lichtspeer-double-speer-edition.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lick Roll | 348684 | [348684-lick-roll.json](./348684-lick-roll.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
@@ -4912,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lie of Caelum | 225209 | [225209-lie-of-caelum.json](./225209-lie-of-caelum.json) |
 | Lie of Caelum: Spirit | 238834 | [238834-lie-of-caelum-spirit.json](./238834-lie-of-caelum-spirit.json) |
 | Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
+| LiEat: The Lie-Eating Dragon & the Gold Thief | 57906 | [57906-lieat-the-lie-eating-dragon-and-the-gold-thief.json](./57906-lieat-the-lie-eating-dragon-and-the-gold-thief.json) |
 | LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
@@ -11344,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux Ski Jump | 151472 | [151472-lux-ski-jump.json](./151472-lux-ski-jump.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
+| Lux-Pain | 21045 | [21045-lux-pain.json](./21045-lux-pain.json) |
 | Lux, City of Secrets | 156926 | [156926-lux-city-of-secrets.json](./156926-lux-city-of-secrets.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Lux: The Journey | 149305 | [149305-lux-the-journey.json](./149305-lux-the-journey.json) |
