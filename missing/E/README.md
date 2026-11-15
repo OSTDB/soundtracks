@@ -3439,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Room 3 | 73315 | [73315-emergency-room-3.json](./73315-emergency-room-3.json) |
 | Emergency Room Simulator | 253606 | [253606-emergency-room-simulator.json](./253606-emergency-room-simulator.json) |
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
+| Emergency Room: Code Red | 71074 | [71074-emergency-room-code-red.json](./71074-emergency-room-code-red.json) |
 | Emergency Room: Disaster Strikes | 12424 | [12424-emergency-room-disaster-strikes.json](./12424-emergency-room-disaster-strikes.json) |
 | Emergency Room: Heroic Measures | 201270 | [201270-emergency-room-heroic-measures.json](./201270-emergency-room-heroic-measures.json) |
 | Emergency Room: Life or Death | 69625 | [69625-emergency-room-life-or-death.json](./69625-emergency-room-life-or-death.json) |
@@ -7798,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Letter | 198624 | [198624-every-letter.json](./198624-every-letter.json) |
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
+| Every Party | 70529 | [70529-every-party.json](./70529-every-party.json) |
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
 | Every Step Has a Sound | 396619 | [396619-every-step-has-a-sound.json](./396619-every-step-has-a-sound.json) |
 | Every Summer Holiday | 235812 | [235812-every-summer-holiday.json](./235812-every-summer-holiday.json) |
