@@ -6953,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pure: Gamma Pack | 241252 | [241252-wipeout-pure-gamma-pack.json](./241252-wipeout-pure-gamma-pack.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipEout: Omega Collection | 26195 | [26195-wipeout-omega-collection.json](./26195-wipeout-omega-collection.json) |
+| Wipeout: Phantom Edition | 428745 | [428745-wipeout-phantom-edition.json](./428745-wipeout-phantom-edition.json) |
 | Wipeout: The Game | 47821 | [47821-wipeout-the-game.json](./47821-wipeout-the-game.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
@@ -9146,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Gibbets | 344827 | [344827-world-of-gibbets.json](./344827-world-of-gibbets.json) |
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
 | World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
+| World of Goo Packs | 428759 | [428759-world-of-goo-packs.json](./428759-world-of-goo-packs.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
 | World of Grimm | 254248 | [254248-world-of-grimm.json](./254248-world-of-grimm.json) |
 | World of Guns VR: Guns Full Access | 155377 | [155377-world-of-guns-vr-guns-full-access.json](./155377-world-of-guns-vr-guns-full-access.json) |
