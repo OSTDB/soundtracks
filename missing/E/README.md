@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
 | Elf Clash | 349741 | [349741-elf-clash.json](./349741-elf-clash.json) |
 | Elf Defense | 303995 | [303995-elf-defense.json](./303995-elf-defense.json) |
+| Elf Defense | 60695 | [60695-elf-defense.json](./60695-elf-defense.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Fight Club | 415796 | [415796-elf-fight-club.json](./415796-elf-fight-club.json) |
 | Elf Gets Pissed | 261183 | [261183-elf-gets-pissed.json](./261183-elf-gets-pissed.json) |
