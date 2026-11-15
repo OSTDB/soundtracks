@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
 | Ultrawings 2 | 173019 | [173019-ultrawings-2.json](./173019-ultrawings-2.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
+| Ultrawings VR | 75248 | [75248-ultrawings-vr.json](./75248-ultrawings-vr.json) |
 | Ultraworld Exodus | 36184 | [36184-ultraworld-exodus.json](./36184-ultraworld-exodus.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultreia | 154798 | [154798-ultreia.json](./154798-ultreia.json) |
@@ -2328,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgiven: Carry The Pain | 242498 | [242498-unforgiven-carry-the-pain.json](./242498-unforgiven-carry-the-pain.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
+| Unforgiving Happiness | 75266 | [75266-unforgiving-happiness.json](./75266-unforgiving-happiness.json) |
 | Unforgiving Trials: The Darkest Crusade | 32868 | [32868-unforgiving-trials-the-darkest-crusade.json](./32868-unforgiving-trials-the-darkest-crusade.json) |
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
 | Unforgotten | 133054 | [133054-unforgotten.json](./133054-unforgotten.json) |
