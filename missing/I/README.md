@@ -6669,8 +6669,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclads 2: War of the Pacific | 30721 | [30721-ironclads-2-war-of-the-pacific.json](./30721-ironclads-2-war-of-the-pacific.json) |
 | Ironclads Anthology | 50855 | [50855-ironclads-anthology.json](./50855-ironclads-anthology.json) |
 | Ironclads: American Civil War | 16150 | [16150-ironclads-american-civil-war.json](./16150-ironclads-american-civil-war.json) |
+| Ironclads: Anglo Russian War 1866 | 16156 | [16156-ironclads-anglo-russian-war-1866.json](./16156-ironclads-anglo-russian-war-1866.json) |
 | Ironclads: Anglo-Russian War 1865 | 54120 | [54120-ironclads-anglo-russian-war-1865.json](./54120-ironclads-anglo-russian-war-1865.json) |
+| Ironclads: Chincha Islands War 1866 | 16157 | [16157-ironclads-chincha-islands-war-1866.json](./16157-ironclads-chincha-islands-war-1866.json) |
 | Ironclads: High Seas | 16151 | [16151-ironclads-high-seas.json](./16151-ironclads-high-seas.json) |
+| Ironclads: Schleswig War 1864 | 16155 | [16155-ironclads-schleswig-war-1864.json](./16155-ironclads-schleswig-war-1864.json) |
 | IronCommando | 381583 | [381583-ironcommando.json](./381583-ironcommando.json) |
 | Irondrive | 409778 | [409778-irondrive.json](./409778-irondrive.json) |
 | Ironfall | 405752 | [405752-ironfall.json](./405752-ironfall.json) |
@@ -7627,6 +7630,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itty Bitty Tiny Town | 184892 | [184892-itty-bitty-tiny-town.json](./184892-itty-bitty-tiny-town.json) |
 | Itty Bitty Toilet Kitty | 332973 | [332973-itty-bitty-toilet-kitty.json](./332973-itty-bitty-toilet-kitty.json) |
 | ITYH: A Horror Otome | 215187 | [215187-ityh-a-horror-otome.json](./215187-ityh-a-horror-otome.json) |
+| ItzaBitza | 16108 | [16108-itzabitza.json](./16108-itzabitza.json) |
+| ItzaZoo | 16109 | [16109-itzazoo.json](./16109-itzazoo.json) |
 | Itzo | 393206 | [393206-itzo.json](./393206-itzo.json) |
 | ItzVerse: The Last File | 409209 | [409209-itzverse-the-last-file.json](./409209-itzverse-the-last-file.json) |
 | Iubes:2 | 76559 | [76559-iubes-2.json](./76559-iubes-2.json) |
