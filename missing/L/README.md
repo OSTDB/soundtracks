@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamers | 78215 | [78215-lamers.json](./78215-lamers.json) |
 | Lami: A Cup of Code & Coffee | 341680 | [341680-lami-a-cup-of-code-and-coffee.json](./341680-lami-a-cup-of-code-and-coffee.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
+| Lamia Must Die | 34902 | [34902-lamia-must-die.json](./34902-lamia-must-die.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
 | Lamia's Game Room | 33724 | [33724-lamias-game-room.json](./33724-lamias-game-room.json) |
 | Lamia's Plan | 154893 | [154893-lamias-plan.json](./154893-lamias-plan.json) |
@@ -5078,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Pepe | 189797 | [189797-life-of-pepe.json](./189797-life-of-pepe.json) |
 | Life of Pi | 246766 | [246766-life-of-pi.json](./246766-life-of-pi.json) |
 | Life of Pixel | 10514 | [10514-life-of-pixel.json](./10514-life-of-pixel.json) |
+| Life of Rome | 34976 | [34976-life-of-rome.json](./34976-life-of-rome.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
