@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisker President | 302880 | [302880-whisker-president.json](./302880-whisker-president.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Squadron: Survivor | 229193 | [229193-whisker-squadron-survivor.json](./229193-whisker-squadron-survivor.json) |
+| Whisker Tinkers | 426955 | [426955-whisker-tinkers.json](./426955-whisker-tinkers.json) |
 | Whisker Wanderlust: The Wondrous Journey | 349100 | [349100-whisker-wanderlust-the-wondrous-journey.json](./349100-whisker-wanderlust-the-wondrous-journey.json) |
 | Whisker Wanderlust: Unwritten Chapter | 391183 | [391183-whisker-wanderlust-unwritten-chapter.json](./391183-whisker-wanderlust-unwritten-chapter.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
 | WickedWhims | 259219 | [259219-wickedwhims.json](./259219-wickedwhims.json) |
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
+| Wickie und die starken Männer | 426970 | [426970-wickie-und-die-starken-manner.json](./426970-wickie-und-die-starken-manner.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Wickland | 9367 | [9367-wickland.json](./9367-wickland.json) |
 | Wide Awake! | 308443 | [308443-wide-awake.json](./308443-wide-awake.json) |
