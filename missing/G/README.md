@@ -6137,6 +6137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Forward Survivors | 373775 | [373775-go-forward-survivors.json](./373775-go-forward-survivors.json) |
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
+| Go Go Ackman 2 | 16132 | [16132-go-go-ackman-2.json](./16132-go-go-ackman-2.json) |
+| Go Go Ackman 3 | 16137 | [16137-go-go-ackman-3.json](./16137-go-go-ackman-3.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
 | Go Go Dynaman | 218240 | [218240-go-go-dynaman.json](./218240-go-go-dynaman.json) |
 | Go Go Electric Samurai | 32565 | [32565-go-go-electric-samurai.json](./32565-go-go-electric-samurai.json) |
