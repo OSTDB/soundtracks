@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash Tycoon Business Simulator | 328727 | [328727-car-wash-tycoon-business-simulator.json](./328727-car-wash-tycoon-business-simulator.json) |
 | Car Wash: Cars & Trucks Garage Game for Toddlers & Kids | 158790 | [158790-car-wash-cars-and-trucks-garage-game-for-toddlers-and-kids.json](./158790-car-wash-cars-and-trucks-garage-game-for-toddlers-and-kids.json) |
 | Car Washer: Summer of the Ninja | 35260 | [35260-car-washer-summer-of-the-ninja.json](./35260-car-washer-summer-of-the-ninja.json) |
+| Car-Azy Racer | 56702 | [56702-car-azy-racer.json](./56702-car-azy-racer.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Crawler: A Retro Exploration Adventure | 214211 | [214211-cave-crawler-a-retro-exploration-adventure.json](./214211-cave-crawler-a-retro-exploration-adventure.json) |
 | Cave Crawlers | 223392 | [223392-cave-crawlers.json](./223392-cave-crawlers.json) |
+| Cave Crawlers | 56699 | [56699-cave-crawlers.json](./56699-cave-crawlers.json) |
 | Cave Creatures | 421221 | [421221-cave-creatures.json](./421221-cave-creatures.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
 | Cave Dave | 391293 | [391293-cave-dave.json](./391293-cave-dave.json) |
@@ -9268,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
 | Christmasjong | 243578 | [243578-christmasjong.json](./243578-christmasjong.json) |
 | Christmastry | 55620 | [55620-christmastry.json](./55620-christmastry.json) |
+| Christmastry 2 | 56682 | [56682-christmastry-2.json](./56682-christmastry-2.json) |
 | Christmasville Blaster Saga | 235019 | [235019-christmasville-blaster-saga.json](./235019-christmasville-blaster-saga.json) |
 | Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
