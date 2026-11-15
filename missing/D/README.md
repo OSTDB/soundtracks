@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
 | Dark Dimensions: Wax Beauty - Collector's Edition | 54865 | [54865-dark-dimensions-wax-beauty-collectors-edition.json](./54865-dark-dimensions-wax-beauty-collectors-edition.json) |
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
+| Dark Disciples | 69986 | [69986-dark-disciples.json](./69986-dark-disciples.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Discoveries | 300231 | [300231-dark-discoveries.json](./300231-dark-discoveries.json) |
 | Dark Disharmony | 133662 | [133662-dark-disharmony.json](./133662-dark-disharmony.json) |
@@ -6510,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflate | 401335 | [401335-deflate.json](./401335-deflate.json) |
 | Deflect | 412674 | [412674-deflect.json](./412674-deflect.json) |
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
+| Deflection / Simon Says | 69472 | [69472-deflection-simon-says.json](./69472-deflection-simon-says.json) |
 | Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 188531 | [188531-deflector.json](./188531-deflector.json) |
@@ -7449,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
 | DemonStar: Secret Missions 1 | 69732 | [69732-demonstar-secret-missions-1.json](./69732-demonstar-secret-missions-1.json) |
+| DemonStar: Secret Missions 2 | 69992 | [69992-demonstar-secret-missions-2.json](./69992-demonstar-secret-missions-2.json) |
 | DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonstration | 44353 | [44353-demonstration.json](./44353-demonstration.json) |
@@ -15500,6 +15503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoublePong Desktop | 104290 | [104290-doublepong-desktop.json](./104290-doublepong-desktop.json) |
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
+| DoubleTake | 69470 | [69470-doubletake.json](./69470-doubletake.json) |
 | DoubleTap | 76380 | [76380-doubletap.json](./76380-doubletap.json) |
 | DoubleTheSnake | 50278 | [50278-doublethesnake.json](./50278-doublethesnake.json) |
 | Doubloon Trouble | 421802 | [421802-doubloon-trouble.json](./421802-doubloon-trouble.json) |
