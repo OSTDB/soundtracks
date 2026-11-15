@@ -6739,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delete Virus; | 202629 | [202629-delete-virus.json](./202629-delete-virus.json) |
 | Delete? | 125643 | [125643-delete.json](./125643-delete.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
+| Deleted Wiki: Clean Up the Lost Files | 421540 | [421540-deleted-wiki-clean-up-the-lost-files.json](./421540-deleted-wiki-clean-up-the-lost-files.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Deleveled | 116227 | [116227-deleveled.json](./116227-deleveled.json) |
 | Delfini | 348412 | [348412-delfini.json](./348412-delfini.json) |
@@ -9658,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Chess | 401607 | [401607-dice-chess.json](./401607-dice-chess.json) |
 | Dice City Roller | 366417 | [366417-dice-city-roller.json](./366417-dice-city-roller.json) |
 | Dice City Roller HD | 354971 | [354971-dice-city-roller-hd.json](./354971-dice-city-roller-hd.json) |
+| Dice Clicker | 421626 | [421626-dice-clicker.json](./421626-dice-clicker.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
 | Dice Defenders | 124394 | [124394-dice-defenders.json](./124394-dice-defenders.json) |
@@ -12943,6 +12945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
 | Doctor Simulator | 339050 | [339050-doctor-simulator.json](./339050-doctor-simulator.json) |
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
+| Doctor Thingumy's Undoing | 421618 | [421618-doctor-thingumys-undoing.json](./421618-doctor-thingumys-undoing.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Viscera | 348691 | [348691-doctor-viscera.json](./348691-doctor-viscera.json) |
 | Doctor Visit | 377025 | [377025-doctor-visit.json](./377025-doctor-visit.json) |
