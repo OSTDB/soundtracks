@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball 2: Ninja Gaiden Sigma 2 | 354713 | [354713-zen-pinball-2-ninja-gaiden-sigma-2.json](./354713-zen-pinball-2-ninja-gaiden-sigma-2.json) |
 | Zen Pinball 2: Plants vs. Zombies | 354714 | [354714-zen-pinball-2-plants-vs-zombies.json](./354714-zen-pinball-2-plants-vs-zombies.json) |
 | Zen Pinball 2: Portal Pinball | 353722 | [353722-zen-pinball-2-portal-pinball.json](./353722-zen-pinball-2-portal-pinball.json) |
+| Zen Pinball 2: South Park - Super-Sweet Pinball | 24305 | [24305-zen-pinball-2-south-park-super-sweet-pinball.json](./24305-zen-pinball-2-south-park-super-sweet-pinball.json) |
 | Zen Pinball 2: Star Wars Pinball | 354708 | [354708-zen-pinball-2-star-wars-pinball.json](./354708-zen-pinball-2-star-wars-pinball.json) |
 | Zen Pinball 2: Star Wars Pinball - Balance of the Force | 354707 | [354707-zen-pinball-2-star-wars-pinball-balance-of-the-force.json](./354707-zen-pinball-2-star-wars-pinball-balance-of-the-force.json) |
 | Zen Pinball 2: Star Wars Pinball - Heroes Within | 354706 | [354706-zen-pinball-2-star-wars-pinball-heroes-within.json](./354706-zen-pinball-2-star-wars-pinball-heroes-within.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon: RSN Complete Collection | 280044 | [280044-zoo-tycoon-rsn-complete-collection.json](./280044-zoo-tycoon-rsn-complete-collection.json) |
 | Zoo Tycoon: Ultimate Animal Collection | 74712 | [74712-zoo-tycoon-ultimate-animal-collection.json](./74712-zoo-tycoon-ultimate-animal-collection.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
+| Zoo Vet: Endangered Animals | 24323 | [24323-zoo-vet-endangered-animals.json](./24323-zoo-vet-endangered-animals.json) |
 | Zoo War | 159449 | [159449-zoo-war.json](./159449-zoo-war.json) |
 | Zoo World VR | 142197 | [142197-zoo-world-vr.json](./142197-zoo-world-vr.json) |
 | Zoo-ika | 314581 | [314581-zoo-ika.json](./314581-zoo-ika.json) |
