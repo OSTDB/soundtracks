@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
 | A Light Long Gone | 135086 | [135086-a-light-long-gone.json](./135086-a-light-long-gone.json) |
+| A Light Touch | 426371 | [426371-a-light-touch.json](./426371-a-light-touch.json) |
 | A Lighthouse Tale | 410433 | [410433-a-lighthouse-tale.json](./410433-a-lighthouse-tale.json) |
 | A Lil' Horror Story: The Camp Fire | 205853 | [205853-a-lil-horror-story-the-camp-fire.json](./205853-a-lil-horror-story-the-camp-fire.json) |
 | A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
@@ -1765,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
 | A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
+| A Wonderful Cat Life | 426366 | [426366-a-wonderful-cat-life.json](./426366-a-wonderful-cat-life.json) |
 | A Wonderful Day For Fishing | 186965 | [186965-a-wonderful-day-for-fishing.json](./186965-a-wonderful-day-for-fishing.json) |
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
 | A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
@@ -6009,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire | 303127 | [303127-ai-solitaire.json](./303127-ai-solitaire.json) |
 | AI Solitaire: 4th of July | 322726 | [322726-ai-solitaire-4th-of-july.json](./322726-ai-solitaire-4th-of-july.json) |
 | AI Solitaire: Anime Cuties | 303128 | [303128-ai-solitaire-anime-cuties.json](./303128-ai-solitaire-anime-cuties.json) |
+| AI Solitaire: Boob Lover | 426344 | [426344-ai-solitaire-boob-lover.json](./426344-ai-solitaire-boob-lover.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Solitaire: Painted Ladies | 303139 | [303139-ai-solitaire-painted-ladies.json](./303139-ai-solitaire-painted-ladies.json) |
@@ -7338,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
 | Alchemy | 3754 | [3754-alchemy.json](./3754-alchemy.json) |
 | Alchemy | 397482 | [397482-alchemy.json](./397482-alchemy.json) |
+| Alchemy | 426397 | [426397-alchemy.json](./426397-alchemy.json) |
 | Alchemy 1000 | 134383 | [134383-alchemy-1000.json](./134383-alchemy-1000.json) |
 | Alchemy Absorption: Melody | 157940 | [157940-alchemy-absorption-melody.json](./157940-alchemy-absorption-melody.json) |
 | Alchemy Academy | 337810 | [337810-alchemy-academy.json](./337810-alchemy-academy.json) |
@@ -12872,6 +12876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antivirus Girl | 409276 | [409276-antivirus-girl.json](./409276-antivirus-girl.json) |
 | Antivirus HD | 102493 | [102493-antivirus-hd.json](./102493-antivirus-hd.json) |
 | Antivirus Survivors 2003 Professional | 384325 | [384325-antivirus-survivors-2003-professional.json](./384325-antivirus-survivors-2003-professional.json) |
+| Antivirus Survivors 2003 Professional: Supporter's Pack | 426367 | [426367-antivirus-survivors-2003-professional-supporters-pack.json](./426367-antivirus-survivors-2003-professional-supporters-pack.json) |
 | AntiVirus_Snake | 240656 | [240656-antivirus-snake.json](./240656-antivirus-snake.json) |
 | AntiWirus | 395356 | [395356-antiwirus.json](./395356-antiwirus.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
@@ -13568,6 +13573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Man | 333670 | [333670-apple-man.json](./333670-apple-man.json) |
 | Apple Man Sam | 395502 | [395502-apple-man-sam.json](./395502-apple-man-sam.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
+| Apple Picker | 426385 | [426385-apple-picker.json](./426385-apple-picker.json) |
 | Apple Pie | 133257 | [133257-apple-pie.json](./133257-apple-pie.json) |
 | Apple Pie | 13692 | [13692-apple-pie.json](./13692-apple-pie.json) |
 | Apple Pie | 225799 | [225799-apple-pie.json](./225799-apple-pie.json) |
