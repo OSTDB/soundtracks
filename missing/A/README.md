@@ -3640,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Add Town | 316475 | [316475-add-town.json](./316475-add-town.json) |
 | Addams Family Pinball | 356275 | [356275-addams-family-pinball.json](./356275-addams-family-pinball.json) |
+| Addams Family Values | 5341 | [5341-addams-family-values.json](./5341-addams-family-values.json) |
 | Adder Attack | 13937 | [13937-adder-attack.json](./13937-adder-attack.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | AddicDead | 372625 | [372625-addicdead.json](./372625-addicdead.json) |
@@ -6293,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Defenders | 219981 | [219981-air-defenders.json](./219981-air-defenders.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Dip | 198004 | [198004-air-dip.json](./198004-air-dip.json) |
+| Air Diver | 5354 | [5354-air-diver.json](./5354-air-diver.json) |
 | Air Divers | 418110 | [418110-air-divers.json](./418110-air-divers.json) |
 | Air Drop | 318369 | [318369-air-drop.json](./318369-air-drop.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
@@ -6847,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Ito DS | 206021 | [206021-akai-ito-ds.json](./206021-akai-ito-ds.json) |
 | Akai Ito: HD Remaster | 246870 | [246870-akai-ito-hd-remaster.json](./246870-akai-ito-hd-remaster.json) |
 | Akai Kaidan | 147198 | [147198-akai-kaidan.json](./147198-akai-kaidan.json) |
+| Akai Katana | 5479 | [5479-akai-katana.json](./5479-akai-katana.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
 | Akai Majo | 330910 | [330910-akai-majo.json](./330910-akai-majo.json) |
 | Akai Noroi | 122788 | [122788-akai-noroi.json](./122788-akai-noroi.json) |
@@ -16079,6 +16082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core 3 Portable | 38453 | [38453-armored-core-3-portable.json](./38453-armored-core-3-portable.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
 | Armored Core Mobile 4 | 411899 | [411899-armored-core-mobile-4.json](./411899-armored-core-mobile-4.json) |
+| Armored Core V | 5492 | [5492-armored-core-v.json](./5492-armored-core-v.json) |
 | Armored Core VI Fires of Rubicon: Deluxe Edition | 263511 | [263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json](./263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json) |
 | Armored Core VI: Fires of Rubicon | 228542 | [228542-armored-core-vi-fires-of-rubicon.json](./228542-armored-core-vi-fires-of-rubicon.json) |
 | Armored Core VI: Fires of Rubicon - Collector's Edition | 249258 | [249258-armored-core-vi-fires-of-rubicon-collectors-edition.json](./249258-armored-core-vi-fires-of-rubicon-collectors-edition.json) |
