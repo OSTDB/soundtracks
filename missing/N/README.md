@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
 | Natalie Brooks: Secrets of Treasure House | 54247 | [54247-natalie-brooks-secrets-of-treasure-house.json](./54247-natalie-brooks-secrets-of-treasure-house.json) |
 | Natalie Brooks: The Treasures of the Lost Kingdom | 177089 | [177089-natalie-brooks-the-treasures-of-the-lost-kingdom.json](./177089-natalie-brooks-the-treasures-of-the-lost-kingdom.json) |
+| Natalie vs. The Mind | 425786 | [425786-natalie-vs-the-mind.json](./425786-natalie-vs-the-mind.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
 | Nate Hand Gesture | 411915 | [411915-nate-hand-gesture.json](./411915-nate-hand-gesture.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
 | Neon Pulsefire | 407025 | [407025-neon-pulsefire.json](./407025-neon-pulsefire.json) |
 | Neon Puzzle Ball | 304425 | [304425-neon-puzzle-ball.json](./304425-neon-puzzle-ball.json) |
+| Neon Quarry | 425788 | [425788-neon-quarry.json](./425788-neon-quarry.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
