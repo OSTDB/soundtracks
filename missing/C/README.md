@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital Cities Trivia | 365874 | [365874-capital-cities-trivia.json](./365874-capital-cities-trivia.json) |
 | Capital City Brain Training Quiz! | 386178 | [386178-capital-city-brain-training-quiz.json](./386178-capital-city-brain-training-quiz.json) |
 | Capital Command | 153495 | [153495-capital-command.json](./153495-capital-command.json) |
+| Capital Criminal | 423932 | [423932-capital-criminal.json](./423932-capital-criminal.json) |
 | Capital Dilemma | 283800 | [283800-capital-dilemma.json](./283800-capital-dilemma.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Island | 175124 | [175124-capital-island.json](./175124-capital-island.json) |
@@ -3343,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpet Capers | 379613 | [379613-carpet-capers.json](./379613-carpet-capers.json) |
 | Carpet Cleaning Master | 409989 | [409989-carpet-cleaning-master.json](./409989-carpet-cleaning-master.json) |
 | Carpet Cleaning Simulator | 407474 | [407474-carpet-cleaning-simulator.json](./407474-carpet-cleaning-simulator.json) |
+| Carpet Daddy | 423913 | [423913-carpet-daddy.json](./423913-carpet-daddy.json) |
 | Carpet Diem | 176604 | [176604-carpet-diem.json](./176604-carpet-diem.json) |
 | Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
 | Carpet Kitty | 238295 | [238295-carpet-kitty.json](./238295-carpet-kitty.json) |
@@ -4847,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
 | Catacombia | 154913 | [154913-catacombia.json](./154913-catacombia.json) |
+| Catacombos | 423853 | [423853-catacombos.json](./423853-catacombos.json) |
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
@@ -6944,6 +6947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic Thinking | 176944 | [176944-chaotic-thinking.json](./176944-chaotic-thinking.json) |
 | Chaotic Trinity | 271442 | [271442-chaotic-trinity.json](./271442-chaotic-trinity.json) |
+| Chaotic Virus | 423915 | [423915-chaotic-virus.json](./423915-chaotic-virus.json) |
 | Chaotic Void | 83986 | [83986-chaotic-void.json](./83986-chaotic-void.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
@@ -11314,6 +11318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
+| Clawstral | 423946 | [423946-clawstral.json](./423946-clawstral.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
 | Clay Game | 137727 | [137727-clay-game.json](./137727-clay-game.json) |
