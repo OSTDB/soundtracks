@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Inferno | 350358 | [350358-elysian-inferno.json](./350358-elysian-inferno.json) |
+| Elysian Shadows | 61829 | [61829-elysian-shadows.json](./61829-elysian-shadows.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion | 100062 | [100062-elysion.json](./100062-elysion.json) |
 | Elysion | 48509 | [48509-elysion.json](./48509-elysion.json) |
