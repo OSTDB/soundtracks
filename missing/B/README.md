@@ -7335,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda Triangle: Saving the Coral | 67391 | [67391-bermuda-triangle-saving-the-coral.json](./67391-bermuda-triangle-saving-the-coral.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
+| Bernackels' Shoggoth | 75267 | [75267-bernackels-shoggoth.json](./75267-bernackels-shoggoth.json) |
 | Bernadette and the Demon Circus | 129449 | [129449-bernadette-and-the-demon-circus.json](./129449-bernadette-and-the-demon-circus.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
@@ -13495,6 +13496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Kounts | 423863 | [423863-body-kounts.json](./423863-body-kounts.json) |
 | Body Ladder | 101722 | [101722-body-ladder.json](./101722-body-ladder.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
+| Body of Evidence | 75277 | [75277-body-of-evidence.json](./75277-body-of-evidence.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
@@ -15558,6 +15560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
 | Bow Man | 123922 | [123922-bow-man.json](./123922-bow-man.json) |
 | Bow Man | 166812 | [166812-bow-man.json](./166812-bow-man.json) |
+| Bow to Blood | 75241 | [75241-bow-to-blood.json](./75241-bow-to-blood.json) |
 | Bow to Blood: Last Captain Standing | 115021 | [115021-bow-to-blood-last-captain-standing.json](./115021-bow-to-blood-last-captain-standing.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
@@ -15711,6 +15714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Clicker | 314236 | [314236-box-clicker.json](./314236-box-clicker.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
+| Box Dodger | 75233 | [75233-box-dodger.json](./75233-box-dodger.json) |
 | Box Dog | 329096 | [329096-box-dog.json](./329096-box-dog.json) |
 | Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
 | Box Factory | 150290 | [150290-box-factory.json](./150290-box-factory.json) |
