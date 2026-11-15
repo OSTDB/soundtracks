@@ -5157,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epic! The Humorous RPG | 313992 | [313992-epic-the-humorous-rpg.json](./313992-epic-the-humorous-rpg.json) |
 | Epica | 31048 | [31048-epica.json](./31048-epica.json) |
+| Epicade: Fandom of Darkness | 56694 | [56694-epicade-fandom-of-darkness.json](./56694-epicade-fandom-of-darkness.json) |
 | EpicDuel | 61774 | [61774-epicduel.json](./61774-epicduel.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicenter VR | 212168 | [212168-epicenter-vr.json](./212168-epicenter-vr.json) |
@@ -7578,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everdream Valley: Summer Fun DLC | 255154 | [255154-everdream-valley-summer-fun-dlc.json](./255154-everdream-valley-summer-fun-dlc.json) |
 | Everdream Village | 354894 | [354894-everdream-village.json](./354894-everdream-village.json) |
+| EverEmber | 56716 | [56716-everember.json](./56716-everember.json) |
 | Everescape | 141428 | [141428-everescape.json](./141428-everescape.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Ascent | 14058 | [14058-everest-ascent.json](./14058-everest-ascent.json) |
@@ -9485,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
 | EZ2on Reboot: R - Hardcore Tano*C Music Pack vol.1 | 295121 | [295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json](./295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json) |
 | EZ2on: Reboot | 146955 | [146955-ez2on-reboot.json](./146955-ez2on-reboot.json) |
+| Ez4u | 56671 | [56671-ez4u.json](./56671-ez4u.json) |
 | Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezamur | 240974 | [240974-ezamur.json](./240974-ezamur.json) |
