@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Survivors | 339300 | [339300-eden-survivors.json](./339300-eden-survivors.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden to Greeeen | 65183 | [65183-eden-to-greeeen.json](./65183-eden-to-greeeen.json) |
+| Eden Tomorrow | 75282 | [75282-eden-tomorrow.json](./75282-eden-tomorrow.json) |
 | Eden Universe | 211510 | [211510-eden-universe.json](./211510-eden-universe.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
@@ -3746,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empous | 373262 | [373262-empous.json](./373262-empous.json) |
 | Empower | 159478 | [159478-empower.json](./159478-empower.json) |
 | Empower Your Intent | 347188 | [347188-empower-your-intent.json](./347188-empower-your-intent.json) |
+| Empress of Gold | 74568 | [74568-empress-of-gold.json](./74568-empress-of-gold.json) |
 | Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
 | Empress of the Deep 3: Legacy of the Phoenix - Collector's Edition | 426072 | [426072-empress-of-the-deep-3-legacy-of-the-phoenix-collectors-edition.json](./426072-empress-of-the-deep-3-legacy-of-the-phoenix-collectors-edition.json) |
