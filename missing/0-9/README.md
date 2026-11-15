@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Attack | 281225 | [281225-3d-attack.json](./281225-3d-attack.json) |
 | 3D Ball Blaster | 300007 | [300007-3d-ball-blaster.json](./300007-3d-ball-blaster.json) |
 | 3D Baseball | 217638 | [217638-3d-baseball.json](./217638-3d-baseball.json) |
+| 3D Baseball | 45471 | [45471-3d-baseball.json](./45471-3d-baseball.json) |
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Bat Attack | 75231 | [75231-3d-bat-attack.json](./75231-3d-bat-attack.json) |
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
@@ -4075,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Gooseball Playdate: Plus Slingshot / Spars | 271699 | [271699-gooseball-playdate-plus-slingshot-spars.json](./271699-gooseball-playdate-plus-slingshot-spars.json) |
 | Île d'Or | 335517 | [335517-ile-dor.json](./335517-ile-dor.json) |
 | ­Into the Deep Dark Green Sleep | 320018 | [320018-into-the-deep-dark-green-sleep.json](./320018-into-the-deep-dark-green-sleep.json) |
+| İstanbul Efsaneleri: Lale Savaşçıları | 50182 | [50182-istanbul-efsaneleri-lale-savasc-lar.json](./50182-istanbul-efsaneleri-lale-savasc-lar.json) |
 | İstanbul Kıyamet Vakti | 58900 | [58900-istanbul-k-yamet-vakti.json](./58900-istanbul-k-yamet-vakti.json) |
 | İstanbul Puzzle | 358041 | [358041-istanbul-puzzle.json](./358041-istanbul-puzzle.json) |
 | ‎Love & Magic: Spellfyre | 387640 | [387640-love-and-magic-spellfyre.json](./387640-love-and-magic-spellfyre.json) |
