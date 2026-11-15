@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Big Chin: Alien Invasion | 212130 | [212130-jack-big-chin-alien-invasion.json](./212130-jack-big-chin-alien-invasion.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Bonecroft 4 | 402726 | [402726-jack-bonecroft-4.json](./402726-jack-bonecroft-4.json) |
+| Jack Bros. | 20384 | [20384-jack-bros.json](./20384-jack-bros.json) |
 | Jack Charlton's Match Fishing | 73378 | [73378-jack-charltons-match-fishing.json](./73378-jack-charltons-match-fishing.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Dragon | 264183 | [264183-jack-dragon.json](./264183-jack-dragon.json) |
