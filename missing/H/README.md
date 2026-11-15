@@ -3684,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Attack | 264916 | [264916-heart-attack.json](./264916-heart-attack.json) |
 | Heart Beat Clue | 291808 | [291808-heart-beat-clue.json](./291808-heart-beat-clue.json) |
 | Heart Beat Strikers | 304923 | [304923-heart-beat-strikers.json](./304923-heart-beat-strikers.json) |
+| Heart Beaten | 56284 | [56284-heart-beaten.json](./56284-heart-beaten.json) |
 | Heart Box | 182008 | [182008-heart-box.json](./182008-heart-box.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Chain Kitty | 111107 | [111107-heart-chain-kitty.json](./111107-heart-chain-kitty.json) |
@@ -6979,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic: A Strategic Quest | 362 | [362-heroes-of-might-and-magic-a-strategic-quest.json](./362-heroes-of-might-and-magic-a-strategic-quest.json) |
 | Heroes of Might and Magic: Quest for the Dragon Bone Staff | 13459 | [13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json](./13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json) |
 | Heroes of Mount Dragon | 294053 | [294053-heroes-of-mount-dragon.json](./294053-heroes-of-mount-dragon.json) |
+| Heroes of Myth | 121319 | [121319-heroes-of-myth.json](./121319-heroes-of-myth.json) |
 | Heroes of Mythic Might | 253768 | [253768-heroes-of-mythic-might.json](./253768-heroes-of-mythic-might.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
@@ -10487,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
 | Home Sweet Home | 81496 | [81496-home-sweet-home.json](./81496-home-sweet-home.json) |
 | Home Sweet Home 2: Kitchens | 254199 | [254199-home-sweet-home-2-kitchens.json](./254199-home-sweet-home-2-kitchens.json) |
+| Home Sweet Home: Episode 2 | 121331 | [121331-home-sweet-home-episode-2.json](./121331-home-sweet-home-episode-2.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
 | Home Sweet Home: Survive | 144132 | [144132-home-sweet-home-survive.json](./144132-home-sweet-home-survive.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
@@ -10935,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honya Monogatari | 173415 | [173415-honya-monogatari.json](./173415-honya-monogatari.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hoo-Boy | 56660 | [56660-hoo-boy.json](./56660-hoo-boy.json) |
 | Hood | 426054 | [426054-hood.json](./426054-hood.json) |
 | Hood Ninja | 321932 | [321932-hood-ninja.json](./321932-hood-ninja.json) |
 | Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
