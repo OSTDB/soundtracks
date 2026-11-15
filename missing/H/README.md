@@ -3335,7 +3335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
-| Hayfever | 120868 | [120868-hayfever.json](./120868-hayfever.json) |
 | Hayles Quest | 113546 | [113546-hayles-quest.json](./113546-hayles-quest.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
@@ -9724,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
 | Hog Hunter 2021 | 160090 | [160090-hog-hunter-2021.json](./160090-hog-hunter-2021.json) |
 | Hogan's Alley | 4601 | [4601-hogans-alley.json](./4601-hogans-alley.json) |
+| Hogbear | 71106 | [71106-hogbear.json](./71106-hogbear.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hogi's Adventure | 27212 | [27212-hogis-adventure.json](./27212-hogis-adventure.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
@@ -12487,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Biker | 243846 | [243846-hover-biker.json](./243846-hover-biker.json) |
 | Hover Bots VR | 47134 | [47134-hover-bots-vr.json](./47134-hover-bots-vr.json) |
 | Hover Bovver | 47174 | [47174-hover-bovver.json](./47174-hover-bovver.json) |
+| Hover Bovver 2: Grand Theft Flymo | 71102 | [71102-hover-bovver-2-grand-theft-flymo.json](./71102-hover-bovver-2-grand-theft-flymo.json) |
 | Hover Car Racing | 295967 | [295967-hover-car-racing.json](./295967-hover-car-racing.json) |
 | Hover Cross Skills | 249316 | [249316-hover-cross-skills.json](./249316-hover-cross-skills.json) |
 | Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
