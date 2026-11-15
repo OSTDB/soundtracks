@@ -1923,7 +1923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
 | Eidolon | 122709 | [122709-eidolon.json](./122709-eidolon.json) |
-| Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
 | Eidolon | 183752 | [183752-eidolon.json](./183752-eidolon.json) |
 | Eidolon Adventure | 119459 | [119459-eidolon-adventure.json](./119459-eidolon-adventure.json) |
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
@@ -2366,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
 | Electric Circuit | 35500 | [35500-electric-circuit.json](./35500-electric-circuit.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
+| Electric Crayon Deluxe: At the Zoo | 72203 | [72203-electric-crayon-deluxe-at-the-zoo.json](./72203-electric-crayon-deluxe-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
 | Electric Crayon: Fun on the Farm | 73265 | [73265-electric-crayon-fun-on-the-farm.json](./73265-electric-crayon-fun-on-the-farm.json) |
