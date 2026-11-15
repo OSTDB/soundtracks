@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Books | 204167 | [204167-in-your-books.json](./204167-in-your-books.json) |
 | In Your Dreams | 423911 | [423911-in-your-dreams.json](./423911-in-your-dreams.json) |
 | In Your Face | 48991 | [48991-in-your-face.json](./48991-in-your-face.json) |
+| In Your Face TD | 30282 | [30282-in-your-face-td.json](./30282-in-your-face-td.json) |
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In Your Nightmares! | 215255 | [215255-in-your-nightmares.json](./215255-in-your-nightmares.json) |
 | In Your Realm | 107941 | [107941-in-your-realm.json](./107941-in-your-realm.json) |
@@ -5019,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InsanZ: Dr.Test | 170811 | [170811-insanz-dr-test.json](./170811-insanz-dr-test.json) |
 | InsanZ: Kill the Engine | 170810 | [170810-insanz-kill-the-engine.json](./170810-insanz-kill-the-engine.json) |
 | InsanZ: Retro Survival Horror | 35352 | [35352-insanz-retro-survival-horror.json](./35352-insanz-retro-survival-horror.json) |
+| Insatia | 30298 | [30298-insatia.json](./30298-insatia.json) |
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
 | InScape | 176315 | [176315-inscape.json](./176315-inscape.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
