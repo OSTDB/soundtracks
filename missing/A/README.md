@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Mazing Enigmas | 202429 | [202429-a-mazing-enigmas.json](./202429-a-mazing-enigmas.json) |
 | A-Men | 8623 | [8623-a-men.json](./8623-a-men.json) |
+| A-Men 2 | 8624 | [8624-a-men-2.json](./8624-a-men-2.json) |
 | A-Mused | 58085 | [58085-a-mused.json](./58085-a-mused.json) |
 | A-Rabbit | 337053 | [337053-a-rabbit.json](./337053-a-rabbit.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
@@ -6466,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airanblade | 293820 | [293820-airanblade.json](./293820-airanblade.json) |
+| AirAttack | 87431 | [87431-airattack.json](./87431-airattack.json) |
 | AirAttack 1 | 407148 | [407148-airattack-1.json](./407148-airattack-1.json) |
 | AirAttack 2 | 87919 | [87919-airattack-2.json](./87919-airattack-2.json) |
 | AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
@@ -6534,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airfield Mania | 87900 | [87900-airfield-mania.json](./87900-airfield-mania.json) |
 | Airfight | 67637 | [67637-airfight.json](./67637-airfight.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
+| AirFighters: Combat Flight Simulator | 87419 | [87419-airfighters-combat-flight-simulator.json](./87419-airfighters-combat-flight-simulator.json) |
 | Airfix: Dogfighter | 24702 | [24702-airfix-dogfighter.json](./24702-airfix-dogfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
@@ -16437,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arsenal Club Football | 22246 | [22246-arsenal-club-football.json](./22246-arsenal-club-football.json) |
 | Arsenal Club Football 2005 | 47345 | [47345-arsenal-club-football-2005.json](./47345-arsenal-club-football-2005.json) |
+| Arsenal Demon | 123518 | [123518-arsenal-demon.json](./123518-arsenal-demon.json) |
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
@@ -18159,6 +18163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Guard | 218640 | [218640-astral-guard.json](./218640-astral-guard.json) |
 | Astral Guardian | 243600 | [243600-astral-guardian.json](./243600-astral-guardian.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
+| Astral Gun | 34103 | [34103-astral-gun.json](./34103-astral-gun.json) |
 | Astral Gunners | 105582 | [105582-astral-gunners.json](./105582-astral-gunners.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Hound VR | 338168 | [338168-astral-hound-vr.json](./338168-astral-hound-vr.json) |
