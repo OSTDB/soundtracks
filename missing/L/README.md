@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Warship | 181985 | [181985-legend-of-warship.json](./181985-legend-of-warship.json) |
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
+| Legend of Wukong | 46175 | [46175-legend-of-wukong.json](./46175-legend-of-wukong.json) |
 | Legend of Wulin Heroes | 328358 | [328358-legend-of-wulin-heroes.json](./328358-legend-of-wulin-heroes.json) |
 | Legend of Xenia | 134186 | [134186-legend-of-xenia.json](./134186-legend-of-xenia.json) |
 | Legend of Xenia 2 | 134185 | [134185-legend-of-xenia-2.json](./134185-legend-of-xenia-2.json) |
@@ -6136,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link 'n' Launch | 67157 | [67157-link-n-launch.json](./67157-link-n-launch.json) |
 | Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
+| Link Dragon | 46167 | [46167-link-dragon.json](./46167-link-dragon.json) |
 | Link Lab | 406511 | [406511-link-lab.json](./406511-link-lab.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
@@ -9493,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Esprit Turbo Challenge | 12671 | [12671-lotus-esprit-turbo-challenge.json](./12671-lotus-esprit-turbo-challenge.json) |
 | Lotus Esprit Turbo Challenge | 308147 | [308147-lotus-esprit-turbo-challenge.json](./308147-lotus-esprit-turbo-challenge.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
+| Lotus II | 46272 | [46272-lotus-ii.json](./46272-lotus-ii.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
 | Lotus Knight | 212046 | [212046-lotus-knight.json](./212046-lotus-knight.json) |
 | Lotus Lantern: Rescue Mother | 286380 | [286380-lotus-lantern-rescue-mother.json](./286380-lotus-lantern-rescue-mother.json) |
@@ -9506,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
 | Lotus Trilogy | 73969 | [73969-lotus-trilogy.json](./73969-lotus-trilogy.json) |
+| Lotus Turbo Challenge | 46271 | [46271-lotus-turbo-challenge.json](./46271-lotus-turbo-challenge.json) |
 | Lotus Turbo Challenge 2 | 7659 | [7659-lotus-turbo-challenge-2.json](./7659-lotus-turbo-challenge-2.json) |
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
 | Lotus: The Self-Made Witch | 226674 | [226674-lotus-the-self-made-witch.json](./226674-lotus-the-self-made-witch.json) |
