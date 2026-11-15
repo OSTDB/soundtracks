@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Team Sounds | 263715 | [263715-young-team-sounds.json](./263715-young-team-sounds.json) |
+| Young Thor | 20467 | [20467-young-thor.json](./20467-young-thor.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
 | Young Widow: Yume | 97606 | [97606-young-widow-yume.json](./97606-young-widow-yume.json) |
 | Young Wife Elf's Netorase RPG: Irena | 134643 | [134643-young-wife-elfs-netorase-rpg-irena.json](./134643-young-wife-elfs-netorase-rpg-irena.json) |
