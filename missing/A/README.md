@@ -4639,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Guitar | 84466 | [84466-aero-guitar.json](./84466-aero-guitar.json) |
 | Aero Porter | 21017 | [21017-aero-porter.json](./21017-aero-porter.json) |
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
+| Aero Strike | 56063 | [56063-aero-strike.json](./56063-aero-strike.json) |
 | Aero Striker: World Invasion | 213426 | [213426-aero-striker-world-invasion.json](./213426-aero-striker-world-invasion.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aero Surfer | 377646 | [377646-aero-surfer.json](./377646-aero-surfer.json) |
@@ -11563,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Memories | 341141 | [341141-animalia-memories.json](./341141-animalia-memories.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
+| Animalia Vengeance | 56099 | [56099-animalia-vengeance.json](./56099-animalia-vengeance.json) |
 | Animalia: Interactive Story & Animal Game Kids | 95109 | [95109-animalia-interactive-story-and-animal-game-kids.json](./95109-animalia-interactive-story-and-animal-game-kids.json) |
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
 | Animalism | 267290 | [267290-animalism.json](./267290-animalism.json) |
@@ -20420,6 +20422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Rooms | 19751 | [19751-awareness-rooms.json](./19751-awareness-rooms.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
+| Awari | 56068 | [56068-awari.json](./56068-awari.json) |
 | Away | 137713 | [137713-away.json](./137713-away.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
