@@ -9505,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
 | Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
+| Chronicles of Mystery: The Tree of Life | 24354 | [24354-chronicles-of-mystery-the-tree-of-life.json](./24354-chronicles-of-mystery-the-tree-of-life.json) |
 | Chronicles of Osgorth: The Shattered Alliance | 18744 | [18744-chronicles-of-osgorth-the-shattered-alliance.json](./18744-chronicles-of-osgorth-the-shattered-alliance.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles Of Sagrea | 287925 | [287925-chronicles-of-sagrea.json](./287925-chronicles-of-sagrea.json) |
@@ -18067,6 +18068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown | 2896 | [2896-crackdown.json](./2896-crackdown.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Crackdown 2: Premium Deluge Pack | 309145 | [309145-crackdown-2-premium-deluge-pack.json](./309145-crackdown-2-premium-deluge-pack.json) |
+| Crackdown 2: Premium Toy Box Pack | 24363 | [24363-crackdown-2-premium-toy-box-pack.json](./24363-crackdown-2-premium-toy-box-pack.json) |
 | Crackdown 2: Project Sunburst | 66445 | [66445-crackdown-2-project-sunburst.json](./66445-crackdown-2-project-sunburst.json) |
 | Cracké Rush Endless Run & Fun | 232254 | [232254-cracke-rush-endless-run-and-fun.json](./232254-cracke-rush-endless-run-and-fun.json) |
 | Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
@@ -20747,6 +20749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusaders of Might and Magic | 11376 | [11376-crusaders-of-might-and-magic.json](./11376-crusaders-of-might-and-magic.json) |
 | Crusaders of Might and Magic | 44809 | [44809-crusaders-of-might-and-magic.json](./44809-crusaders-of-might-and-magic.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
+| Crusaders Quest | 24560 | [24560-crusaders-quest.json](./24560-crusaders-quest.json) |
 | Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | Crusaders Quest: Merge Chess | 373889 | [373889-crusaders-quest-merge-chess.json](./373889-crusaders-quest-merge-chess.json) |
@@ -22892,6 +22895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
+| Cyber City 2157 | 24535 | [24535-cyber-city-2157.json](./24535-cyber-city-2157.json) |
 | Cyber City 2157: The Visual Novel | 33214 | [33214-cyber-city-2157-the-visual-novel.json](./33214-cyber-city-2157-the-visual-novel.json) |
 | Cyber City Clash | 207604 | [207604-cyber-city-clash.json](./207604-cyber-city-clash.json) |
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
