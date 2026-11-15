@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X's & O's | 131129 | [131129-xs-and-os.json](./131129-xs-and-os.json) |
 | X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
 | X*L*C*R: Squiggly Snake II | 128471 | [128471-x-l-c-r-squiggly-snake-ii.json](./128471-x-l-c-r-squiggly-snake-ii.json) |
+| X+X the game | 27061 | [27061-x-x-the-game.json](./27061-x-x-the-game.json) |
 | X10 | 307828 | [307828-x10.json](./307828-x10.json) |
 | X2 | 79811 | [79811-x2.json](./79811-x2.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
