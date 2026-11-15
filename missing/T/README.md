@@ -4216,7 +4216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Wizard | 108672 | [108672-tempo-wizard.json](./108672-tempo-wizard.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempomancy | 266582 | [266582-tempomancy.json](./266582-tempomancy.json) |
-| Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal | 69008 | [69008-temporal.json](./69008-temporal.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Temporal Deadzone | 323420 | [323420-temporal-deadzone.json](./323420-temporal-deadzone.json) |
@@ -6688,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Automatician | 51504 | [51504-the-automatician.json](./51504-the-automatician.json) |
 | The Automaton of Second London | 355602 | [355602-the-automaton-of-second-london.json](./355602-the-automaton-of-second-london.json) |
+| The Avatar Legends | 76003 | [76003-the-avatar-legends.json](./76003-the-avatar-legends.json) |
 | The Avaunting | 15609 | [15609-the-avaunting.json](./15609-the-avaunting.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Avengers Pinball | 314916 | [314916-the-avengers-pinball.json](./314916-the-avengers-pinball.json) |
@@ -9066,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deepening: Eco-Offensive | 155992 | [155992-the-deepening-eco-offensive.json](./155992-the-deepening-eco-offensive.json) |
 | The Deepest | 155809 | [155809-the-deepest.json](./155809-the-deepest.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
+| The Deepest House | 75984 | [75984-the-deepest-house.json](./75984-the-deepest-house.json) |
 | The Deepest Sleep | 123703 | [123703-the-deepest-sleep.json](./123703-the-deepest-sleep.json) |
 | The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
 | The Deepwater Witch | 282518 | [282518-the-deepwater-witch.json](./282518-the-deepwater-witch.json) |
@@ -9916,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape | 183168 | [183168-the-escape.json](./183168-the-escape.json) |
 | The Escape | 219555 | [219555-the-escape.json](./219555-the-escape.json) |
 | The Escape | 365256 | [365256-the-escape.json](./365256-the-escape.json) |
+| The Escape | 76055 | [76055-the-escape.json](./76055-the-escape.json) |
 | The Escape From Atlantis | 48312 | [48312-the-escape-from-atlantis.json](./48312-the-escape-from-atlantis.json) |
 | The Escape from Bungalow | 164182 | [164182-the-escape-from-bungalow.json](./164182-the-escape-from-bungalow.json) |
 | The Escape From Dungeon Keep | 412722 | [412722-the-escape-from-dungeon-keep.json](./412722-the-escape-from-dungeon-keep.json) |
@@ -11074,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost in My Apartment | 396353 | [396353-the-ghost-in-my-apartment.json](./396353-the-ghost-in-my-apartment.json) |
 | The Ghost of Alcantra | 341813 | [341813-the-ghost-of-alcantra.json](./341813-the-ghost-of-alcantra.json) |
+| The Ghost of Joe Papp | 76044 | [76044-the-ghost-of-joe-papp.json](./76044-the-ghost-of-joe-papp.json) |
 | The Ghost of Joe Papp: 101 Ways to Kill Writer's Block | 116735 | [116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json](./116735-the-ghost-of-joe-papp-101-ways-to-kill-writers-block.json) |
 | The Ghost of Nichishima | 319700 | [319700-the-ghost-of-nichishima.json](./319700-the-ghost-of-nichishima.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
@@ -20412,6 +20415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
+| The Untold Legacy | 75991 | [75991-the-untold-legacy.json](./75991-the-untold-legacy.json) |
 | The Untold Legends: Baba Yaga | 336582 | [336582-the-untold-legends-baba-yaga.json](./336582-the-untold-legends-baba-yaga.json) |
 | The Untold Story of Hengshui School | 96841 | [96841-the-untold-story-of-hengshui-school.json](./96841-the-untold-story-of-hengshui-school.json) |
 | The Untouchable | 62285 | [62285-the-untouchable.json](./62285-the-untouchable.json) |
@@ -29093,6 +29097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally planet | 178195 | [178195-totally-planet.json](./178195-totally-planet.json) |
 | Totally Rad Metal Detector League | 220714 | [220714-totally-rad-metal-detector-league.json](./220714-totally-rad-metal-detector-league.json) |
 | Totally Ratical Adventures | 211913 | [211913-totally-ratical-adventures.json](./211913-totally-ratical-adventures.json) |
+| Totally Realistic Sledding VR | 76035 | [76035-totally-realistic-sledding-vr.json](./76035-totally-realistic-sledding-vr.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Adventure Party | 160243 | [160243-totally-reliable-adventure-party.json](./160243-totally-reliable-adventure-party.json) |
 | Totally Reliable Delivery Service | 114058 | [114058-totally-reliable-delivery-service.json](./114058-totally-reliable-delivery-service.json) |
