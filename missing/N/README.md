@@ -5411,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
 | Nimaat | 405845 | [405845-nimaat.json](./405845-nimaat.json) |
 | Niman | 370983 | [370983-niman.json](./370983-niman.json) |
+| Nimban Legacy | 56713 | [56713-nimban-legacy.json](./56713-nimban-legacy.json) |
 | Nimbatus: Drone Creator | 132564 | [132564-nimbatus-drone-creator.json](./132564-nimbatus-drone-creator.json) |
 | Nimbatus: The Space Drone Constructor | 34919 | [34919-nimbatus-the-space-drone-constructor.json](./34919-nimbatus-the-space-drone-constructor.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
@@ -5492,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Witches: Family Disruption | 112201 | [112201-nine-witches-family-disruption.json](./112201-nine-witches-family-disruption.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
+| Nine Worlds: A Viking saga | 56679 | [56679-nine-worlds-a-viking-saga.json](./56679-nine-worlds-a-viking-saga.json) |
 | Nine-Ball Roulette | 325672 | [325672-nine-ball-roulette.json](./325672-nine-ball-roulette.json) |
 | Nine-Tailed Okitsune Tale | 248023 | [248023-nine-tailed-okitsune-tale.json](./248023-nine-tailed-okitsune-tale.json) |
 | Ninefold Promise | 377966 | [377966-ninefold-promise.json](./377966-ninefold-promise.json) |
