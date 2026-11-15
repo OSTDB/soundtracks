@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
 | Daisen | 359357 | [359357-daisen.json](./359357-daisen.json) |
 | Daisenpu | 38637 | [38637-daisenpu.json](./38637-daisenpu.json) |
+| Daisenpuu Custom | 42061 | [42061-daisenpuu-custom.json](./42061-daisenpuu-custom.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
 | Daisenryaku | 279417 | [279417-daisenryaku.json](./279417-daisenryaku.json) |
 | Daisenryaku | 339855 | [339855-daisenryaku.json](./339855-daisenryaku.json) |
@@ -17158,6 +17159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
 | Dragon's Dungeon: Awakening | 55540 | [55540-dragons-dungeon-awakening.json](./55540-dragons-dungeon-awakening.json) |
+| Dragon's Earth | 42254 | [42254-dragons-earth.json](./42254-dragons-earth.json) |
 | Dragon's Egg: A Gourmet Fantasy | 385006 | [385006-dragons-egg-a-gourmet-fantasy.json](./385006-dragons-egg-a-gourmet-fantasy.json) |
 | Dragon's Eye | 170218 | [170218-dragons-eye.json](./170218-dragons-eye.json) |
 | Dragon's Eye | 23292 | [23292-dragons-eye.json](./23292-dragons-eye.json) |
@@ -17747,6 +17749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Bakery | 285348 | [285348-dream-bakery.json](./285348-dream-bakery.json) |
 | Dream Ball | 337385 | [337385-dream-ball.json](./337385-dream-ball.json) |
 | Dream Bar Simulator | 326438 | [326438-dream-bar-simulator.json](./326438-dream-bar-simulator.json) |
+| Dream Basketball: Dunk & Hoop | 42279 | [42279-dream-basketball-dunk-and-hoop.json](./42279-dream-basketball-dunk-and-hoop.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
@@ -18493,6 +18496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Journey | 213232 | [213232-drift-journey.json](./213232-drift-journey.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King | 164199 | [164199-drift-king.json](./164199-drift-king.json) |
+| Drift King Shuto-kou Battle '94: Tsuchiya Keiichi & Bandou Masaaki | 42250 | [42250-drift-king-shuto-kou-battle-94-tsuchiya-keiichi-and-bandou-masaaki.json](./42250-drift-king-shuto-kou-battle-94-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
 | Drift Legacy | 293372 | [293372-drift-legacy.json](./293372-drift-legacy.json) |
@@ -21070,6 +21074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dünnes Eis: Das Spiel zum Song | 301131 | [301131-dunnes-eis-das-spiel-zum-song.json](./301131-dunnes-eis-das-spiel-zum-song.json) |
 | Dunnet | 66484 | [66484-dunnet.json](./66484-dunnet.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
+| DunQuest | 42249 | [42249-dunquest.json](./42249-dunquest.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
@@ -21569,6 +21574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Gin | 83699 | [83699-dynamic-gin.json](./83699-dynamic-gin.json) |
 | Dynamic Shooting VR | 294919 | [294919-dynamic-shooting-vr.json](./294919-dynamic-shooting-vr.json) |
 | Dynamic Ski | 40304 | [40304-dynamic-ski.json](./40304-dynamic-ski.json) |
+| Dynamic Stadium | 42278 | [42278-dynamic-stadium.json](./42278-dynamic-stadium.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
 | Dynamite Alex | 31343 | [31343-dynamite-alex.json](./31343-dynamite-alex.json) |
