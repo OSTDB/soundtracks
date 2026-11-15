@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth School | 219921 | [219921-earth-school.json](./219921-earth-school.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
+| Earth Seeker | 4829 | [4829-earth-seeker.json](./4829-earth-seeker.json) |
 | Earth Shaker | 46042 | [46042-earth-shaker.json](./46042-earth-shaker.json) |
 | Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
@@ -2285,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldorado Gate Volume 3 | 5555 | [5555-eldorado-gate-volume-3.json](./5555-eldorado-gate-volume-3.json) |
 | Eldorado Gate Volume 4 | 5556 | [5556-eldorado-gate-volume-4.json](./5556-eldorado-gate-volume-4.json) |
 | Eldorado Gate Volume 5 | 5557 | [5557-eldorado-gate-volume-5.json](./5557-eldorado-gate-volume-5.json) |
+| Eldorado Gate Volume 6 | 4351 | [4351-eldorado-gate-volume-6.json](./4351-eldorado-gate-volume-6.json) |
 | Eldorado Gate Volume 7 | 5558 | [5558-eldorado-gate-volume-7.json](./5558-eldorado-gate-volume-7.json) |
 | Eldorante | 297889 | [297889-eldorante.json](./297889-eldorante.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
@@ -2978,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite: The New Kind | 69998 | [69998-elite-the-new-kind.json](./69998-elite-the-new-kind.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
 | Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
+| Elitserien 95 | 4395 | [4395-elitserien-95.json](./4395-elitserien-95.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elium: Prison Escape | 83953 | [83953-elium-prison-escape.json](./83953-elium-prison-escape.json) |
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
@@ -3452,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Fire Helicopter Simulator 3D | 108451 | [108451-emergency-fire-helicopter-simulator-3d.json](./108451-emergency-fire-helicopter-simulator-3d.json) |
 | Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
 | Emergency HD | 254388 | [254388-emergency-hd.json](./254388-emergency-hd.json) |
+| Emergency Heroes | 4830 | [4830-emergency-heroes.json](./4830-emergency-heroes.json) |
 | Emergency HQ | 97760 | [97760-emergency-hq.json](./97760-emergency-hq.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
@@ -7351,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Soccer Challenge | 40840 | [40840-european-soccer-challenge.json](./40840-european-soccer-challenge.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
+| European Super League | 4363 | [4363-european-super-league.json](./4363-european-super-league.json) |
 | European Superleague | 13059 | [13059-european-superleague.json](./13059-european-superleague.json) |
 | European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
