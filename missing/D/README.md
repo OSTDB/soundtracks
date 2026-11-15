@@ -8504,6 +8504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Warriors | 28031 | [28031-destiny-warriors.json](./28031-destiny-warriors.json) |
 | Destiny Worlds | 388909 | [388909-destiny-worlds.json](./388909-destiny-worlds.json) |
 | Destiny: Digital Guardian Edition | 147720 | [147720-destiny-digital-guardian-edition.json](./147720-destiny-digital-guardian-edition.json) |
+| Destiny: Ghost Edition | 47492 | [47492-destiny-ghost-edition.json](./47492-destiny-ghost-edition.json) |
 | Destiny: Guardians | 104962 | [104962-destiny-guardians.json](./104962-destiny-guardians.json) |
 | Destiny: House of Wolves | 19921 | [19921-destiny-house-of-wolves.json](./19921-destiny-house-of-wolves.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
@@ -11074,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
+| Dires: Giger Loop | 47515 | [47515-dires-giger-loop.json](./47515-dires-giger-loop.json) |
 | Direstead Settlers | 385116 | [385116-direstead-settlers.json](./385116-direstead-settlers.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
 | Dirge For The Zone | 295216 | [295216-dirge-for-the-zone.json](./295216-dirge-for-the-zone.json) |
@@ -16136,6 +16138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Resurrection | 9091 | [9091-dracula-resurrection.json](./9091-dracula-resurrection.json) |
 | Dracula: The Path of the Dragon | 50431 | [50431-dracula-the-path-of-the-dragon.json](./50431-dracula-the-path-of-the-dragon.json) |
 | Dracula: The Path of the Dragon - Director's Cut | 87909 | [87909-dracula-the-path-of-the-dragon-directors-cut.json](./87909-dracula-the-path-of-the-dragon-directors-cut.json) |
+| Dracula: The Undead | 46920 | [46920-dracula-the-undead.json](./46920-dracula-the-undead.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Dracula's Castle | 163776 | [163776-draculas-castle.json](./163776-draculas-castle.json) |
@@ -16288,6 +16291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age Journeys | 67172 | [67172-dragon-age-journeys.json](./67172-dragon-age-journeys.json) |
 | Dragon Age Legends | 66298 | [66298-dragon-age-legends.json](./66298-dragon-age-legends.json) |
 | Dragon Age Legends: Remix 01 | 187130 | [187130-dragon-age-legends-remix-01.json](./187130-dragon-age-legends-remix-01.json) |
+| Dragon Age: Inquisition - Deluxe Edition | 47491 | [47491-dragon-age-inquisition-deluxe-edition.json](./47491-dragon-age-inquisition-deluxe-edition.json) |
 | Dragon Age: Inquisition - Game of the Year Edition | 44545 | [44545-dragon-age-inquisition-game-of-the-year-edition.json](./44545-dragon-age-inquisition-game-of-the-year-edition.json) |
 | Dragon Age: Inquisition - Jaws of Hakkon | 19135 | [19135-dragon-age-inquisition-jaws-of-hakkon.json](./19135-dragon-age-inquisition-jaws-of-hakkon.json) |
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
