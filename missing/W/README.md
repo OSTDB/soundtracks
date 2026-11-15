@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakedas | 85480 | [85480-wakedas.json](./85480-wakedas.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakerunners | 282934 | [282934-wakerunners.json](./282934-wakerunners.json) |
+| WakeUp! | 52265 | [52265-wakeup.json](./52265-wakeup.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
 | Wakey Wakey | 305729 | [305729-wakey-wakey.json](./305729-wakey-wakey.json) |
 | Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
@@ -6529,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
+| Wings of Prey: Wings of Luftwaffe | 51625 | [51625-wings-of-prey-wings-of-luftwaffe.json](./51625-wings-of-prey-wings-of-luftwaffe.json) |
 | Wings of Redemption | 273754 | [273754-wings-of-redemption.json](./273754-wings-of-redemption.json) |
 | Wings of Saint Nazaire | 60678 | [60678-wings-of-saint-nazaire.json](./60678-wings-of-saint-nazaire.json) |
 | Wings of Seduction : Bust 'em out! | 266016 | [266016-wings-of-seduction-bust-em-out.json](./266016-wings-of-seduction-bust-em-out.json) |
@@ -8095,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wondrous Magic | 42352 | [42352-wondrous-magic.json](./42352-wondrous-magic.json) |
 | wOne | 388104 | [388104-wone.json](./388104-wone.json) |
 | wOne 2 | 388105 | [388105-wone-2.json](./388105-wone-2.json) |
+| Wonfourn | 52284 | [52284-wonfourn.json](./52284-wonfourn.json) |
 | Wong | 390115 | [390115-wong.json](./390115-wong.json) |
 | Wongo | 57073 | [57073-wongo.json](./57073-wongo.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
