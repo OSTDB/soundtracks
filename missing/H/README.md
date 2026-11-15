@@ -10514,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hometown Poker Hero: Platinum Edition | 177105 | [177105-hometown-poker-hero-platinum-edition.json](./177105-hometown-poker-hero-platinum-edition.json) |
 | Hometown Store | 385637 | [385637-hometown-store.json](./385637-hometown-store.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
+| Hometown U.S.A. | 73912 | [73912-hometown-u-s-a.json](./73912-hometown-u-s-a.json) |
 | Hometown War | 140833 | [140833-hometown-war.json](./140833-hometown-war.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward | 237273 | [237273-homeward.json](./237273-homeward.json) |
