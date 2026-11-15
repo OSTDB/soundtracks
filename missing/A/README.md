@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterworld | 62014 | [62014-afterworld.json](./62014-afterworld.json) |
 | Afterworld King | 189321 | [189321-afterworld-king.json](./189321-afterworld-king.json) |
 | Afterworld: The Age of Tomorrow | 141501 | [141501-afterworld-the-age-of-tomorrow.json](./141501-afterworld-the-age-of-tomorrow.json) |
+| Afterzero: The Last Drive | 423924 | [423924-afterzero-the-last-drive.json](./423924-afterzero-the-last-drive.json) |
 | AfterZoom | 84738 | [84738-afterzoom.json](./84738-afterzoom.json) |
 | AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
@@ -15239,6 +15240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
 | ArcRunner | 211441 | [211441-arcrunner.json](./211441-arcrunner.json) |
+| Arcs | 423851 | [423851-arcs.json](./423851-arcs.json) |
 | Arcsaber VR | 133188 | [133188-arcsaber-vr.json](./133188-arcsaber-vr.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | ArcSine | 234681 | [234681-arcsine.json](./234681-arcsine.json) |
