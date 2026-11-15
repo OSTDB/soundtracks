@@ -21574,6 +21574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dylan Dog: La Mummia | 14670 | [14670-dylan-dog-la-mummia.json](./14670-dylan-dog-la-mummia.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
 | Dylan Dog: Maelstrom | 14671 | [14671-dylan-dog-maelstrom.json](./14671-dylan-dog-maelstrom.json) |
+| Dylan Dog: Ombre | 14669 | [14669-dylan-dog-ombre.json](./14669-dylan-dog-ombre.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dylan the Driller | 232086 | [232086-dylan-the-driller.json](./232086-dylan-the-driller.json) |
 | Dylio's Adventures | 418546 | [418546-dylios-adventures.json](./418546-dylios-adventures.json) |
