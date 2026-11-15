@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Turn | 39392 | [39392-parallel-turn.json](./39392-parallel-turn.json) |
 | Parallel Universe | 184357 | [184357-parallel-universe.json](./184357-parallel-universe.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
+| Parallel World | 48348 | [48348-parallel-world.json](./48348-parallel-world.json) |
 | Parallel World in the Dream | 408206 | [408206-parallel-world-in-the-dream.json](./408206-parallel-world-in-the-dream.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Parallelia | 148890 | [148890-parallelia.json](./148890-parallelia.json) |
@@ -5103,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permafrost | 202319 | [202319-permafrost.json](./202319-permafrost.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
 | Perman | 346037 | [346037-perman.json](./346037-perman.json) |
+| Perman Part 2: Himitsu Kessha Madoodan wo Taose! | 48349 | [48349-perman-part-2-himitsu-kessha-madoodan-wo-taose.json](./48349-perman-part-2-himitsu-kessha-madoodan-wo-taose.json) |
 | Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
 | Perman: Enban wo Torikaese | 60747 | [60747-perman-enban-wo-torikaese.json](./60747-perman-enban-wo-torikaese.json) |
 | Permanence | 145927 | [145927-permanence.json](./145927-permanence.json) |
@@ -11753,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
 | Pocket World 3D | 194120 | [194120-pocket-world-3d.json](./194120-pocket-world-3d.json) |
 | Pocket World: Island of Adventure | 208088 | [208088-pocket-world-island-of-adventure.json](./208088-pocket-world-island-of-adventure.json) |
+| Pocket Zaurus: Juu Ouken no Nazo | 48339 | [48339-pocket-zaurus-juu-ouken-no-nazo.json](./48339-pocket-zaurus-juu-ouken-no-nazo.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Pocket Zone | 193867 | [193867-pocket-zone.json](./193867-pocket-zone.json) |
