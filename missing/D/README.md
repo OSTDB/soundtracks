@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darxanadon | 188781 | [188781-darxanadon.json](./188781-darxanadon.json) |
 | DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
 | Darxwift | 217072 | [217072-darxwift.json](./217072-darxwift.json) |
+| Dary's Legend | 63463 | [63463-darys-legend.json](./63463-darys-legend.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
 | Das Auge des Horus | 77248 | [77248-das-auge-des-horus.json](./77248-das-auge-des-horus.json) |
 | Das Balkonzimmer | 141415 | [141415-das-balkonzimmer.json](./141415-das-balkonzimmer.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawngrown | 148578 | [148578-dawngrown.json](./148578-dawngrown.json) |
 | Dawnhold | 415622 | [415622-dawnhold.json](./415622-dawnhold.json) |
+| Dawning | 63465 | [63465-dawning.json](./63465-dawning.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
 | Dawnlands | 219960 | [219960-dawnlands.json](./219960-dawnlands.json) |
@@ -9379,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
+| Diabolik Lovers More, Blood | 63453 | [63453-diabolik-lovers-more-blood.json](./63453-diabolik-lovers-more-blood.json) |
 | Diabolik Lovers More, Blood Limited V Edition | 221877 | [221877-diabolik-lovers-more-blood-limited-v-edition.json](./221877-diabolik-lovers-more-blood-limited-v-edition.json) |
 | Diabolik Lovers: Dark Fate | 61941 | [61941-diabolik-lovers-dark-fate.json](./61941-diabolik-lovers-dark-fate.json) |
 | Diabolik Lovers: Grand Edition | 76257 | [76257-diabolik-lovers-grand-edition.json](./76257-diabolik-lovers-grand-edition.json) |
@@ -15464,6 +15467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Romance | 172424 | [172424-double-romance.json](./172424-double-romance.json) |
 | Double S.T.E.A.L.: The Second Clash | 63028 | [63028-double-s-t-e-a-l-the-second-clash.json](./63028-double-s-t-e-a-l-the-second-clash.json) |
+| Double Score: Cosmos x Camellia | 62917 | [62917-double-score-cosmos-x-camellia.json](./62917-double-score-cosmos-x-camellia.json) |
 | Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
 | Double Shot | 107857 | [107857-double-shot.json](./107857-double-shot.json) |
 | Double Shot Gals | 196361 | [196361-double-shot-gals.json](./196361-double-shot-gals.json) |
