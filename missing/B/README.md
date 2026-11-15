@@ -5634,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bears In Space | 158064 | [158064-bears-in-space.json](./158064-bears-in-space.json) |
 | Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
+| Bears, Vodka, Balalaika! | 121397 | [121397-bears-vodka-balalaika.json](./121397-bears-vodka-balalaika.json) |
 | BearShark | 63405 | [63405-bearshark.json](./63405-bearshark.json) |
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
 | Bearskull 2 | 373833 | [373833-bearskull-2.json](./373833-bearskull-2.json) |
@@ -14699,6 +14700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom and Rum | 370412 | [370412-boom-and-rum.json](./370412-boom-and-rum.json) |
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
 | Boom Ascent | 355803 | [355803-boom-ascent.json](./355803-boom-ascent.json) |
+| Boom Ball 2 for Kinect | 56781 | [56781-boom-ball-2-for-kinect.json](./56781-boom-ball-2-for-kinect.json) |
 | Boom Ball 3 for Kinect | 83757 | [83757-boom-ball-3-for-kinect.json](./83757-boom-ball-3-for-kinect.json) |
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
 | Boom Ball: Boost Edition | 110596 | [110596-boom-ball-boost-edition.json](./110596-boom-ball-boost-edition.json) |
