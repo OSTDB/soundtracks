@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse | 257230 | [257230-impulse.json](./257230-impulse.json) |
 | Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
 | Impulse Response | 403982 | [403982-impulse-response.json](./403982-impulse-response.json) |
+| Impulse Revolution | 34923 | [34923-impulse-revolution.json](./34923-impulse-revolution.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse, From Here! | 157513 | [157513-impulse-from-here.json](./157513-impulse-from-here.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
