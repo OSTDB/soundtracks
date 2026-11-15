@@ -3175,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Legacy Collection | 51764 | [51764-elven-legacy-collection.json](./51764-elven-legacy-collection.json) |
 | Elven Legacy: Magic | 10274 | [10274-elven-legacy-magic.json](./10274-elven-legacy-magic.json) |
 | Elven Legacy: Ranger | 10275 | [10275-elven-legacy-ranger.json](./10275-elven-legacy-ranger.json) |
+| Elven Legacy: Siege | 16121 | [16121-elven-legacy-siege.json](./16121-elven-legacy-siege.json) |
 | Elven Legend | 29458 | [29458-elven-legend.json](./29458-elven-legend.json) |
 | Elven Legend 2: The Bewitched Tree | 28739 | [28739-elven-legend-2-the-bewitched-tree.json](./28739-elven-legend-2-the-bewitched-tree.json) |
 | Elven Legend 3: The New Menace - Collector's Edition | 416382 | [416382-elven-legend-3-the-new-menace-collectors-edition.json](./416382-elven-legend-3-the-new-menace-collectors-edition.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endor Awakens | 336979 | [336979-endor-awakens.json](./336979-endor-awakens.json) |
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
 | Endorfun | 22600 | [22600-endorfun.json](./22600-endorfun.json) |
+| Endorlight | 16280 | [16280-endorlight.json](./16280-endorlight.json) |
 | Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
 | Endou-san | 398090 | [398090-endou-san.json](./398090-endou-san.json) |
 | Endowed | 279990 | [279990-endowed.json](./279990-endowed.json) |
@@ -5877,6 +5879,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
 | Escape from Octlien | 313526 | [313526-escape-from-octlien.json](./313526-escape-from-octlien.json) |
 | Escape from Omicron | 14056 | [14056-escape-from-omicron.json](./14056-escape-from-omicron.json) |
+| Escape From Paradise | 16158 | [16158-escape-from-paradise.json](./16158-escape-from-paradise.json) |
+| Escape From Paradise 2 | 16159 | [16159-escape-from-paradise-2.json](./16159-escape-from-paradise-2.json) |
 | Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
 | Escape From Planet Aelea | 172870 | [172870-escape-from-planet-aelea.json](./172870-escape-from-planet-aelea.json) |
 | Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
