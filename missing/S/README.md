@@ -5705,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
 | Segare Ijiri | 98643 | [98643-segare-ijiri.json](./98643-segare-ijiri.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
+| SegaSonic Cosmo Fighter | 52141 | [52141-segasonic-cosmo-fighter.json](./52141-segasonic-cosmo-fighter.json) |
 | SegaSonic Popcorn Shop | 140103 | [140103-segasonic-popcorn-shop.json](./140103-segasonic-popcorn-shop.json) |
 | SegaSonic the Hedgehog | 198602 | [198602-segasonic-the-hedgehog.json](./198602-segasonic-the-hedgehog.json) |
 | Segata Sanshirou Shinkenyugi | 46049 | [46049-segata-sanshirou-shinkenyugi.json](./46049-segata-sanshirou-shinkenyugi.json) |
@@ -11982,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Surfer | 198884 | [198884-silver-surfer.json](./198884-silver-surfer.json) |
 | Silver Surfer | 9099 | [9099-silver-surfer.json](./9099-silver-surfer.json) |
 | Silver Sword | 245064 | [245064-silver-sword.json](./245064-silver-sword.json) |
+| Silver Tale | 52267 | [52267-silver-tale.json](./52267-silver-tale.json) |
 | Silver The Hedgehog | 316328 | [316328-silver-the-hedgehog.json](./316328-silver-the-hedgehog.json) |
 | Silver the Hedgehog: World's Collide | 253786 | [253786-silver-the-hedgehog-worlds-collide.json](./253786-silver-the-hedgehog-worlds-collide.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
@@ -18763,6 +18765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice | 393587 | [393587-solstice.json](./393587-solstice.json) |
 | Solstice Arena | 51673 | [51673-solstice-arena.json](./51673-solstice-arena.json) |
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
+| Solstice Chronicles: Missing in Action | 51613 | [51613-solstice-chronicles-missing-in-action.json](./51613-solstice-chronicles-missing-in-action.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
 | Solstrike | 361036 | [361036-solstrike.json](./361036-solstrike.json) |
@@ -26439,6 +26442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stafakarlarnir | 65240 | [65240-stafakarlarnir.json](./65240-stafakarlarnir.json) |
 | Staff Only | 139432 | [139432-staff-only.json](./139432-staff-only.json) |
 | Staff Runner | 273409 | [273409-staff-runner.json](./273409-staff-runner.json) |
+| Staff Wars: Wizard Rumble | 52288 | [52288-staff-wars-wizard-rumble.json](./52288-staff-wars-wizard-rumble.json) |
 | Staff! | 269095 | [269095-staff.json](./269095-staff.json) |
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Staffer Reborn | 297002 | [297002-staffer-reborn.json](./297002-staffer-reborn.json) |
@@ -27236,6 +27240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek V: The Final Frontier | 48319 | [48319-star-trek-v-the-final-frontier.json](./48319-star-trek-v-the-final-frontier.json) |
 | Star Trek V: The Final Frontier | 69831 | [69831-star-trek-v-the-final-frontier.json](./69831-star-trek-v-the-final-frontier.json) |
+| Star Trek Voyager: The Arcade Game | 51620 | [51620-star-trek-voyager-the-arcade-game.json](./51620-star-trek-voyager-the-arcade-game.json) |
 | Star Trek​ x World of Warships: Commander Jean-Luc Picard | 332620 | [332620-star-trek-x-world-of-warships-commander-jean-luc-picard.json](./332620-star-trek-x-world-of-warships-commander-jean-luc-picard.json) |
 | Star Trek​ x World of Warships: Commander Sela | 332621 | [332621-star-trek-x-world-of-warships-commander-sela.json](./332621-star-trek-x-world-of-warships-commander-sela.json) |
 | Star Trek​ x World of Warships: Commander Spock | 332622 | [332622-star-trek-x-world-of-warships-commander-spock.json](./332622-star-trek-x-world-of-warships-commander-spock.json) |
