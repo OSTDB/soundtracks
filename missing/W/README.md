@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarmSnow | 228193 | [228193-warmsnow.json](./228193-warmsnow.json) |
 | Warmth | 130145 | [130145-warmth.json](./130145-warmth.json) |
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
+| WarMux | 61234 | [61234-warmux.json](./61234-warmux.json) |
 | Warna | 215667 | [215667-warna.json](./215667-warna.json) |
 | Warna | 377153 | [377153-warna.json](./377153-warna.json) |
 | Warnament | 250764 | [250764-warnament.json](./250764-warnament.json) |
@@ -2531,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland 3: The Battle of Steeltown | 145818 | [145818-wasteland-3-the-battle-of-steeltown.json](./145818-wasteland-3-the-battle-of-steeltown.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
+| Wasteland Bar Fight | 60696 | [60696-wasteland-bar-fight.json](./60696-wasteland-bar-fight.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
 | Wasteland Corp | 379391 | [379391-wasteland-corp.json](./379391-wasteland-corp.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water's Way Down | 390446 | [390446-waters-way-down.json](./390446-waters-way-down.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
 | Watercolor Hell | 201068 | [201068-watercolor-hell.json](./201068-watercolor-hell.json) |
+| Watercolors | 61232 | [61232-watercolors.json](./61232-watercolors.json) |
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
 | Waterfall Canyon | 223683 | [223683-waterfall-canyon.json](./223683-waterfall-canyon.json) |
