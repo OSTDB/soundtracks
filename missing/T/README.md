@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Game End | 327433 | [327433-table-game-end.json](./327433-table-game-end.json) |
 | Table Game Spirits | 124068 | [124068-table-game-spirits.json](./124068-table-game-spirits.json) |
 | Table Game Spirits 2 | 124067 | [124067-table-game-spirits-2.json](./124067-table-game-spirits-2.json) |
+| Table Game World CCFolia | 426362 | [426362-table-game-world-ccfolia.json](./426362-table-game-world-ccfolia.json) |
 | Table Games VR | 115611 | [115611-table-games-vr.json](./115611-table-games-vr.json) |
 | Table Gun | 191092 | [191092-table-gun.json](./191092-table-gun.json) |
 | Table Ice Hockey | 64348 | [64348-table-ice-hockey.json](./64348-table-ice-hockey.json) |
@@ -16214,6 +16215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
 | The Omega Reach | 404351 | [404351-the-omega-reach.json](./404351-the-omega-reach.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
+| The Omega Strain | 426354 | [426354-the-omega-strain.json](./426354-the-omega-strain.json) |
 | The Omins | 249959 | [249959-the-omins.json](./249959-the-omins.json) |
 | The OmniGallery | 158412 | [158412-the-omnigallery.json](./158412-the-omnigallery.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
@@ -22369,6 +22371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think! | 142363 | [142363-think.json](./142363-think.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | ThinkAhead | 37421 | [37421-thinkahead.json](./37421-thinkahead.json) |
+| Thinker | 426392 | [426392-thinker.json](./426392-thinker.json) |
 | ThinkExplosive | 265274 | [265274-thinkexplosive.json](./265274-thinkexplosive.json) |
 | ThinkFast | 133005 | [133005-thinkfast.json](./133005-thinkfast.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
@@ -27443,6 +27446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet | 309387 | [309387-toilet.json](./309387-toilet.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Battle | 338467 | [338467-toilet-battle.json](./338467-toilet-battle.json) |
+| Toilet Battle Hero | 426348 | [426348-toilet-battle-hero.json](./426348-toilet-battle-hero.json) |
+| Toilet Battle Hero: Animation | 426349 | [426349-toilet-battle-hero-animation.json](./426349-toilet-battle-hero-animation.json) |
 | Toilet Boom | 373805 | [373805-toilet-boom.json](./373805-toilet-boom.json) |
 | Toilet Bullies | 418718 | [418718-toilet-bullies.json](./418718-toilet-bullies.json) |
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
