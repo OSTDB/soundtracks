@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanxy | 173946 | [173946-tanxy.json](./173946-tanxy.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
+| TanZen | 65142 | [65142-tanzen.json](./65142-tanzen.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
 | Tanzer | 103245 | [103245-tanzer.json](./103245-tanzer.json) |
 | Tanzia | 28309 | [28309-tanzia.json](./28309-tanzia.json) |
@@ -7620,6 +7621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bunker | 333252 | [333252-the-bunker.json](./333252-the-bunker.json) |
 | The Bunker Notes | 342308 | [342308-the-bunker-notes.json](./342308-the-bunker-notes.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
+| The Bunny Game | 65137 | [65137-the-bunny-game.json](./65137-the-bunny-game.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
 | The Bunny Graveyard II | 350142 | [350142-the-bunny-graveyard-ii.json](./350142-the-bunny-graveyard-ii.json) |
 | The Bunny Graveyard: Chapter 1 - The Bunny Garden | 270250 | [270250-the-bunny-graveyard-chapter-1-the-bunny-garden.json](./270250-the-bunny-graveyard-chapter-1-the-bunny-garden.json) |
@@ -18008,6 +18010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers Mobile | 85862 | [85862-the-settlers-mobile.json](./85862-the-settlers-mobile.json) |
 | The Settlers Online | 23606 | [23606-the-settlers-online.json](./23606-the-settlers-online.json) |
+| The Settlers Online: Castle Empire | 65690 | [65690-the-settlers-online-castle-empire.json](./65690-the-settlers-online-castle-empire.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: Fourth Edition | 3697 | [3697-the-settlers-fourth-edition.json](./3697-the-settlers-fourth-edition.json) |
 | The Settlers: Heritage of Kings | 3698 | [3698-the-settlers-heritage-of-kings.json](./3698-the-settlers-heritage-of-kings.json) |
@@ -34847,6 +34850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triz: Sacred Geometry Puzzles | 223641 | [223641-triz-sacred-geometry-puzzles.json](./223641-triz-sacred-geometry-puzzles.json) |
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
+| TriZen | 65143 | [65143-trizen.json](./65143-trizen.json) |
 | Trizna | 293233 | [293233-trizna.json](./293233-trizna.json) |
 | Trizon | 333437 | [333437-trizon.json](./333437-trizon.json) |
 | Trizzle | 177183 | [177183-trizzle.json](./177183-trizzle.json) |
