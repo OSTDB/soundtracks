@@ -15134,6 +15134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mansion | 159683 | [159683-the-mansion.json](./159683-the-mansion.json) |
 | The Mansion of Evil | 231666 | [231666-the-mansion-of-evil.json](./231666-the-mansion-of-evil.json) |
 | The Mansion of Hidden Souls | 45522 | [45522-the-mansion-of-hidden-souls.json](./45522-the-mansion-of-hidden-souls.json) |
+| The Mansion of Innsmouth | 20383 | [20383-the-mansion-of-innsmouth.json](./20383-the-mansion-of-innsmouth.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
 | The Mansions of Shadows | 196978 | [196978-the-mansions-of-shadows.json](./196978-the-mansions-of-shadows.json) |
 | The Mantis | 376490 | [376490-the-mantis.json](./376490-the-mantis.json) |
@@ -23092,6 +23093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
 | Thunder Heroes | 39932 | [39932-thunder-heroes.json](./39932-thunder-heroes.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
+| Thunder in Paradise | 20529 | [20529-thunder-in-paradise.json](./20529-thunder-in-paradise.json) |
 | Thunder in Paradise | 214890 | [214890-thunder-in-paradise.json](./214890-thunder-in-paradise.json) |
 | Thunder in Paradise Interactive | 72244 | [72244-thunder-in-paradise-interactive.json](./72244-thunder-in-paradise-interactive.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
