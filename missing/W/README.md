@@ -7002,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
 | Wish: Paradise High | 159968 | [159968-wish-paradise-high.json](./159968-wish-paradise-high.json) |
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
+| Wishbone and the Amazing Odyssey | 50181 | [50181-wishbone-and-the-amazing-odyssey.json](./50181-wishbone-and-the-amazing-odyssey.json) |
 | Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
 | Wishbound | 410647 | [410647-wishbound.json](./410647-wishbound.json) |
 | Wishbound Desires | 272884 | [272884-wishbound-desires.json](./272884-wishbound-desires.json) |
