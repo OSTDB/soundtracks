@@ -7389,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
 | The Blues Brothers | 7792 | [7792-the-blues-brothers.json](./7792-the-blues-brothers.json) |
 | The Blues Brothers: Jukebox Adventure | 47007 | [47007-the-blues-brothers-jukebox-adventure.json](./47007-the-blues-brothers-jukebox-adventure.json) |
+| The Blues Brothers: Jukebox Adventure | 48963 | [48963-the-blues-brothers-jukebox-adventure.json](./48963-the-blues-brothers-jukebox-adventure.json) |
 | The Blunderbuss | 216908 | [216908-the-blunderbuss.json](./216908-the-blunderbuss.json) |
 | The Board AI | 274247 | [274247-the-board-ai.json](./274247-the-board-ai.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
@@ -12612,6 +12613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jetsons in By George, in Trouble Again | 46709 | [46709-the-jetsons-in-by-george-in-trouble-again.json](./46709-the-jetsons-in-by-george-in-trouble-again.json) |
 | The Jetsons: Cogswell's Caper | 48153 | [48153-the-jetsons-cogswells-caper.json](./48153-the-jetsons-cogswells-caper.json) |
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
+| The Jetsons: Robot Panic | 48975 | [48975-the-jetsons-robot-panic.json](./48975-the-jetsons-robot-panic.json) |
 | The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
 | The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
 | The Jetsons' Ways with Words | 41433 | [41433-the-jetsons-ways-with-words.json](./41433-the-jetsons-ways-with-words.json) |
@@ -18360,6 +18362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
 | The Simpsons: Night of the Dolphin! | 327507 | [327507-the-simpsons-night-of-the-dolphin.json](./327507-the-simpsons-night-of-the-dolphin.json) |
 | The Simpsons: Night of the Living - Treehouse of Horror | 2840 | [2840-the-simpsons-night-of-the-living-treehouse-of-horror.json](./2840-the-simpsons-night-of-the-living-treehouse-of-horror.json) |
+| The Simpsons: Return of the Space Mutants | 48934 | [48934-the-simpsons-return-of-the-space-mutants.json](./48934-the-simpsons-return-of-the-space-mutants.json) |
 | The Simpsons: Road Rage | 201746 | [201746-the-simpsons-road-rage.json](./201746-the-simpsons-road-rage.json) |
 | The Simpsons: Road Rage | 2842 | [2842-the-simpsons-road-rage.json](./2842-the-simpsons-road-rage.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
@@ -18963,6 +18966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Guide | 325404 | [325404-the-spirit-guide.json](./325404-the-spirit-guide.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
+| The Spirit of F-1 | 48988 | [48988-the-spirit-of-f-1.json](./48988-the-spirit-of-f-1.json) |
 | The Spirit of Outa | 358613 | [358613-the-spirit-of-outa.json](./358613-the-spirit-of-outa.json) |
 | The Spirit of Snowflake | 167550 | [167550-the-spirit-of-snowflake.json](./167550-the-spirit-of-snowflake.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
