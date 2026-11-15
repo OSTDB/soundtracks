@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
 | 6 Keys: The Gym | 370289 | [370289-6-keys-the-gym.json](./370289-6-keys-the-gym.json) |
 | 6 Love Dominoes | 88421 | [88421-6-love-dominoes.json](./88421-6-love-dominoes.json) |
+| 6 Nights | 34961 | [34961-6-nights.json](./34961-6-nights.json) |
 | 6 Pack of Craft Games | 194386 | [194386-6-pack-of-craft-games.json](./194386-6-pack-of-craft-games.json) |
 | 6 People | 132362 | [132362-6-people.json](./132362-6-people.json) |
 | 6 Rooms | 377405 | [377405-6-rooms.json](./377405-6-rooms.json) |
