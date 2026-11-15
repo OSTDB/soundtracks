@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Worlds Beyond | 399646 | [399646-jigsaw-puzzle-worlds-beyond.json](./399646-jigsaw-puzzle-worlds-beyond.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
+| Jigsaw Puzzles | 56658 | [56658-jigsaw-puzzles.json](./56658-jigsaw-puzzles.json) |
 | Jigsaw Puzzles | 91249 | [91249-jigsaw-puzzles.json](./91249-jigsaw-puzzles.json) |
 | Jigsaw Puzzles - Games for Girls | 90029 | [90029-jigsaw-puzzles-games-for-girls.json](./90029-jigsaw-puzzles-games-for-girls.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
@@ -2376,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
 | Jinsei Game Q: DS Heisei no Dekigoto | 269782 | [269782-jinsei-game-q-ds-heisei-no-dekigoto.json](./269782-jinsei-game-q-ds-heisei-no-dekigoto.json) |
 | Jinsei Game Q: DS Shouwa no Dekigoto | 269783 | [269783-jinsei-game-q-ds-shouwa-no-dekigoto.json](./269783-jinsei-game-q-ds-shouwa-no-dekigoto.json) |
+| Jinsei Game Wii EX | 56083 | [56083-jinsei-game-wii-ex.json](./56083-jinsei-game-wii-ex.json) |
 | Jinsei Game: Happy Family | 97570 | [97570-jinsei-game-happy-family.json](./97570-jinsei-game-happy-family.json) |
 | Jinsei Game: Happy Step | 344633 | [344633-jinsei-game-happy-step.json](./344633-jinsei-game-happy-step.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
