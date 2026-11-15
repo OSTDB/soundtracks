@@ -4586,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Spy | 318030 | [318030-mario-spy.json](./318030-mario-spy.json) |
 | Mario Starcatcher 2 | 288041 | [288041-mario-starcatcher-2.json](./288041-mario-starcatcher-2.json) |
 | Mario Stops Climate Change 64 | 250093 | [250093-mario-stops-climate-change-64.json](./250093-mario-stops-climate-change-64.json) |
+| Mario Strikers Charged | 2255 | [2255-mario-strikers-charged.json](./2255-mario-strikers-charged.json) |
 | Mario Strikers: Battle League | 191398 | [191398-mario-strikers-battle-league.json](./191398-mario-strikers-battle-league.json) |
 | Mario Super Sluggers | 3987 | [3987-mario-super-sluggers.json](./3987-mario-super-sluggers.json) |
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
@@ -11855,6 +11856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines | 250472 | [250472-micro-machines.json](./250472-micro-machines.json) |
 | Micro Machines | 250473 | [250473-micro-machines.json](./250473-micro-machines.json) |
 | Micro Machines | 250474 | [250474-micro-machines.json](./250474-micro-machines.json) |
+| Micro Machines | 2703 | [2703-micro-machines.json](./2703-micro-machines.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
 | Micro Machines 64 Turbo | 8497 | [8497-micro-machines-64-turbo.json](./8497-micro-machines-64-turbo.json) |
