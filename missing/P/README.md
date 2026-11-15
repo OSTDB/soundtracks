@@ -7502,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
 | Pilot Brothers 3: Back Side of the Earth | 36091 | [36091-pilot-brothers-3-back-side-of-the-earth.json](./36091-pilot-brothers-3-back-side-of-the-earth.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
+| Pilot Crusader | 34901 | [34901-pilot-crusader.json](./34901-pilot-crusader.json) |
 | Pilot Down: Behind Enemy Lines | 47359 | [47359-pilot-down-behind-enemy-lines.json](./47359-pilot-down-behind-enemy-lines.json) |
 | Pilot Flight Simulation | 315919 | [315919-pilot-flight-simulation.json](./315919-pilot-flight-simulation.json) |
 | Pilot Force Simulator | 407649 | [407649-pilot-force-simulator.json](./407649-pilot-force-simulator.json) |
@@ -13708,6 +13709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyoshapes | 291828 | [291828-polyoshapes.json](./291828-polyoshapes.json) |
 | Polyphony | 312808 | [312808-polyphony.json](./312808-polyphony.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
+| PolyRace | 34928 | [34928-polyrace.json](./34928-polyrace.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
 | Polyroll | 87936 | [87936-polyroll.json](./87936-polyroll.json) |
@@ -19326,6 +19328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
 | Pultimush | 282461 | [282461-pultimush.json](./282461-pultimush.json) |
 | Pulupu | 374653 | [374653-pulupu.json](./374653-pulupu.json) |
+| Pulut Adventure | 34886 | [34886-pulut-adventure.json](./34886-pulut-adventure.json) |
 | Pulut Adventure RPG | 151451 | [151451-pulut-adventure-rpg.json](./151451-pulut-adventure-rpg.json) |
 | Pulver | 287545 | [287545-pulver.json](./287545-pulver.json) |
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
