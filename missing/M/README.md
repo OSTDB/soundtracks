@@ -4242,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
 | Mario Cart | 307441 | [307441-mario-cart.json](./307441-mario-cart.json) |
 | Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
+| Mario Clash | 20385 | [20385-mario-clash.json](./20385-mario-clash.json) |
 | Mario Combat | 234845 | [234845-mario-combat.json](./234845-mario-combat.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
@@ -16007,6 +16008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2017 | 95918 | [95918-mlb-manager-2017.json](./95918-mlb-manager-2017.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
+| MLB Pennant Race | 20724 | [20724-mlb-pennant-race.json](./20724-mlb-pennant-race.json) |
 | MLB Perfect Inning | 323161 | [323161-mlb-perfect-inning.json](./323161-mlb-perfect-inning.json) |
 | MLB Perfect Inning 2021 | 247128 | [247128-mlb-perfect-inning-2021.json](./247128-mlb-perfect-inning-2021.json) |
 | MLB Perfect Inning 2022 | 241578 | [241578-mlb-perfect-inning-2022.json](./241578-mlb-perfect-inning-2022.json) |
@@ -18868,6 +18870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
 | MoonStrike | 108725 | [108725-moonstrike.json](./108725-moonstrike.json) |
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
+| Moonsweeper | 18670 | [18670-moonsweeper.json](./18670-moonsweeper.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontide | 177955 | [177955-moontide.json](./177955-moontide.json) |
 | Moontorc | 13016 | [13016-moontorc.json](./13016-moontorc.json) |
