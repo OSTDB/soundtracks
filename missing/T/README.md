@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Navigation | 193897 | [193897-the-age-of-navigation.json](./193897-the-age-of-navigation.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
 | The Age of Navigation: Deluxe Edition | 196134 | [196134-the-age-of-navigation-deluxe-edition.json](./196134-the-age-of-navigation-deluxe-edition.json) |
+| The Agency | 73034 | [73034-the-agency.json](./73034-the-agency.json) |
 | The Agency of Anomalies: Cinderstone Orphanage | 58044 | [58044-the-agency-of-anomalies-cinderstone-orphanage.json](./58044-the-agency-of-anomalies-cinderstone-orphanage.json) |
 | The Agency of Anomalies: Cinderstone Orphanage - Collector's Edition | 30419 | [30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json](./30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json) |
 | The Agency of Anomalies: Mind Invasion | 58043 | [58043-the-agency-of-anomalies-mind-invasion.json](./58043-the-agency-of-anomalies-mind-invasion.json) |
@@ -16302,6 +16303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
 | The Pair Annihilation | 244539 | [244539-the-pair-annihilation.json](./244539-the-pair-annihilation.json) |
+| The Palace of Deceit: The Dragon's Plight | 73020 | [73020-the-palace-of-deceit-the-dragons-plight.json](./73020-the-palace-of-deceit-the-dragons-plight.json) |
 | The Palace of Fear | 309192 | [309192-the-palace-of-fear.json](./309192-the-palace-of-fear.json) |
 | The Palace of Unrest | 231404 | [231404-the-palace-of-unrest.json](./231404-the-palace-of-unrest.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
@@ -27417,6 +27419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Mafia Simulator | 288974 | [288974-tokyo-mafia-simulator.json](./288974-tokyo-mafia-simulator.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
+| Tokyo Majin Gakuen Gehouchou: Keppuuroku | 73211 | [73211-tokyo-majin-gakuen-gehouchou-keppuuroku.json](./73211-tokyo-majin-gakuen-gehouchou-keppuuroku.json) |
 | Tokyo Majin Gakuen: Fuju Houroku | 37471 | [37471-tokyo-majin-gakuen-fuju-houroku.json](./37471-tokyo-majin-gakuen-fuju-houroku.json) |
 | Tokyo Majin Gakuen: Gehoujou | 91926 | [91926-tokyo-majin-gakuen-gehoujou.json](./91926-tokyo-majin-gakuen-gehoujou.json) |
 | Tokyo Majin Gakuen: Kenfuuchou | 91923 | [91923-tokyo-majin-gakuen-kenfuuchou.json](./91923-tokyo-majin-gakuen-kenfuuchou.json) |
@@ -28890,6 +28893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
 | Total Extreme Wrestling 2005 | 73007 | [73007-total-extreme-wrestling-2005.json](./73007-total-extreme-wrestling-2005.json) |
+| Total Extreme Wrestling 2007 | 73021 | [73021-total-extreme-wrestling-2007.json](./73021-total-extreme-wrestling-2007.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
 | Total Extreme Wrestling 2010 | 35871 | [35871-total-extreme-wrestling-2010.json](./35871-total-extreme-wrestling-2010.json) |
 | Total Extreme Wrestling 2013 | 31239 | [31239-total-extreme-wrestling-2013.json](./31239-total-extreme-wrestling-2013.json) |
@@ -29827,6 +29831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament Chess | 206080 | [206080-tournament-chess.json](./206080-tournament-chess.json) |
 | Tournament Chess II | 206081 | [206081-tournament-chess-ii.json](./206081-tournament-chess-ii.json) |
+| Tournament Cyberball | 73029 | [73029-tournament-cyberball.json](./73029-tournament-cyberball.json) |
 | Tournament Golf | 296543 | [296543-tournament-golf.json](./296543-tournament-golf.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Beans | 196421 | [196421-tournament-of-beans.json](./196421-tournament-of-beans.json) |
@@ -33766,6 +33771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Masters, Inc. | 24771 | [24771-treasure-masters-inc.json](./24771-treasure-masters-inc.json) |
 | Treasure Masters, Inc.: The Lost City | 54180 | [54180-treasure-masters-inc-the-lost-city.json](./54180-treasure-masters-inc-the-lost-city.json) |
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
+| Treasure Mole: Winter Vacation | 73897 | [73897-treasure-mole-winter-vacation.json](./73897-treasure-mole-winter-vacation.json) |
 | Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
 | Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
 | Treasure of Abyss | 109358 | [109358-treasure-of-abyss.json](./109358-treasure-of-abyss.json) |
