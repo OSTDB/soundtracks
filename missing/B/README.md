@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Teams 2: Iconic Bundle | 302206 | [302206-battle-teams-2-iconic-bundle.json](./302206-battle-teams-2-iconic-bundle.json) |
 | Battle Teams 2: She Panda Gift Pack | 324285 | [324285-battle-teams-2-she-panda-gift-pack.json](./324285-battle-teams-2-she-panda-gift-pack.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
+| Battle Territory: Battery | 66861 | [66861-battle-territory-battery.json](./66861-battle-territory-battery.json) |
 | Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
 | Battle Thunder Front: The Lost Red Sea | 220756 | [220756-battle-thunder-front-the-lost-red-sea.json](./220756-battle-thunder-front-the-lost-red-sea.json) |
@@ -9526,6 +9527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon S: Kurukkurin | 42342 | [42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json](./42342-bishoujo-senshi-sailor-moon-s-kurukkurin.json) |
 | Bishoujo Senshi Sailor Moon S: Quiz Taiketsu! Sailor Power Kesshuu | 138044 | [138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json](./138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json) |
 | Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa-fuwa Panic 2 | 56370 | [56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json](./56370-bishoujo-senshi-sailor-moon-sailor-stars-fuwa-fuwa-panic-2.json) |
+| Bishoujo Senshi Sailor Moon Sailor Stars: Tokimeki Party | 66835 | [66835-bishoujo-senshi-sailor-moon-sailor-stars-tokimeki-party.json](./66835-bishoujo-senshi-sailor-moon-sailor-stars-tokimeki-party.json) |
 | Bishoujo Senshi Sailor Moon Super S: Fuwa-fuwa Panic | 36731 | [36731-bishoujo-senshi-sailor-moon-super-s-fuwa-fuwa-panic.json](./36731-bishoujo-senshi-sailor-moon-super-s-fuwa-fuwa-panic.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor Moon Super S: Zenin Sanka!! Shuyaku Soudatsusen | 42341 | [42341-bishoujo-senshi-sailor-moon-super-s-zenin-sanka-shuyaku-soudatsusen.json](./42341-bishoujo-senshi-sailor-moon-super-s-zenin-sanka-shuyaku-soudatsusen.json) |
@@ -13048,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Steel | 401174 | [401174-blue-steel.json](./401174-blue-steel.json) |
 | Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
+| Blue Submarine No. 6: Time and Tide | 66288 | [66288-blue-submarine-no-6-time-and-tide.json](./66288-blue-submarine-no-6-time-and-tide.json) |
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
 | Blue Swift Wind | 378362 | [378362-blue-swift-wind.json](./378362-blue-swift-wind.json) |
 | Blue Swirl | 297526 | [297526-blue-swirl.json](./297526-blue-swirl.json) |
