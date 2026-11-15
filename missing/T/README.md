@@ -1991,6 +1991,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
 | Tanjou Debut for WonderSwan | 37477 | [37477-tanjou-debut-for-wonderswan.json](./37477-tanjou-debut-for-wonderswan.json) |
+| Tanjou S: Debut | 66283 | [66283-tanjou-s-debut.json](./66283-tanjou-s-debut.json) |
+| Tanjou: Debut Pure | 66284 | [66284-tanjou-debut-pure.json](./66284-tanjou-debut-pure.json) |
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
 | Tank | 118644 | [118644-tank.json](./118644-tank.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
@@ -7085,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bendy Strawmen Inc. Team Bonding Beach Volley Bonanza | 183911 | [183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json](./183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
+| The Berenstain Bears: A School Day | 66853 | [66853-the-berenstain-bears-a-school-day.json](./66853-the-berenstain-bears-a-school-day.json) |
 | The Berenstain Bears: Big Number Hunt | 65987 | [65987-the-berenstain-bears-big-number-hunt.json](./65987-the-berenstain-bears-big-number-hunt.json) |
 | The Berenstain Bears: Camping Adventure | 46539 | [46539-the-berenstain-bears-camping-adventure.json](./46539-the-berenstain-bears-camping-adventure.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
@@ -11371,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Circus Mystery Starring Mickey & Minnie | 4407 | [4407-the-great-circus-mystery-starring-mickey-and-minnie.json](./4407-the-great-circus-mystery-starring-mickey-and-minnie.json) |
 | The Great Coffee Caper | 338210 | [338210-the-great-coffee-caper.json](./338210-the-great-coffee-caper.json) |
 | The Great Conclovince of Mithrithnogg | 301314 | [301314-the-great-conclovince-of-mithrithnogg.json](./301314-the-great-conclovince-of-mithrithnogg.json) |
+| The Great Counting Caper With the 3 Blind Mice | 66848 | [66848-the-great-counting-caper-with-the-3-blind-mice.json](./66848-the-great-counting-caper-with-the-3-blind-mice.json) |
 | The Great Couturier | 290013 | [290013-the-great-couturier.json](./290013-the-great-couturier.json) |
 | The Great Deer | 192584 | [192584-the-great-deer.json](./192584-the-great-deer.json) |
 | The Great Detective | 14099 | [14099-the-great-detective.json](./14099-the-great-detective.json) |
@@ -14940,6 +14944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus Explores the World of Animals | 73464 | [73464-the-magic-school-bus-explores-the-world-of-animals.json](./73464-the-magic-school-bus-explores-the-world-of-animals.json) |
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
+| The Magic School Bus: Going Places | 66849 | [66849-the-magic-school-bus-going-places.json](./66849-the-magic-school-bus-going-places.json) |
 | The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
 | The Magic Seven | 133480 | [133480-the-magic-seven.json](./133480-the-magic-seven.json) |
 | The Magic Storm | 143896 | [143896-the-magic-storm.json](./143896-the-magic-storm.json) |
@@ -15585,6 +15590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppet Show: Backstage Rampage | 343182 | [343182-the-muppet-show-backstage-rampage.json](./343182-the-muppet-show-backstage-rampage.json) |
 | The Muppets Movie Adventures | 52939 | [52939-the-muppets-movie-adventures.json](./52939-the-muppets-movie-adventures.json) |
+| The Muppets on the Go | 66855 | [66855-the-muppets-on-the-go.json](./66855-the-muppets-on-the-go.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Adrian Elkwood | 70851 | [70851-the-murder-of-adrian-elkwood.json](./70851-the-murder-of-adrian-elkwood.json) |
@@ -19476,6 +19482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple Warrior: Battleground of Demons | 262786 | [262786-the-temple-warrior-battleground-of-demons.json](./262786-the-temple-warrior-battleground-of-demons.json) |
 | The Temple: Ch 1 | 357695 | [357695-the-temple-ch-1.json](./357695-the-temple-ch-1.json) |
 | The Temporal Invasion | 19896 | [19896-the-temporal-invasion.json](./19896-the-temporal-invasion.json) |
+| The Tempura of the Dead | 66287 | [66287-the-tempura-of-the-dead.json](./66287-the-tempura-of-the-dead.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
 | The Tenacious Tentacle | 271443 | [271443-the-tenacious-tentacle.json](./271443-the-tenacious-tentacle.json) |
@@ -27492,6 +27499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Waning Moon | 244567 | [244567-tokyo-waning-moon.json](./244567-tokyo-waning-moon.json) |
 | Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
 | Tokyo Warfare Turbo | 114443 | [114443-tokyo-warfare-turbo.json](./114443-tokyo-warfare-turbo.json) |
+| Tokyo Wars | 66860 | [66860-tokyo-wars.json](./66860-tokyo-wars.json) |
 | Tokyo Wizard | 106838 | [106838-tokyo-wizard.json](./106838-tokyo-wizard.json) |
 | Tokyo Xanadu | 11455 | [11455-tokyo-xanadu.json](./11455-tokyo-xanadu.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
@@ -28043,6 +28051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomohigara | 376873 | [376873-tomohigara.json](./376873-tomohigara.json) |
 | Tomomi | 193134 | [193134-tomomi.json](./193134-tomomi.json) |
+| Tomomi Ootani | 66874 | [66874-tomomi-ootani.json](./66874-tomomi-ootani.json) |
 | Tomomi: Denkitomodachi | 130251 | [130251-tomomi-denkitomodachi.json](./130251-tomomi-denkitomodachi.json) |
 | Tomomon Little | 408023 | [408023-tomomon-little.json](./408023-tomomon-little.json) |
 | Tomomon: Legacy of Light | 242514 | [242514-tomomon-legacy-of-light.json](./242514-tomomon-legacy-of-light.json) |
@@ -34243,6 +34252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Siege | 40562 | [40562-tribal-siege.json](./40562-tribal-siege.json) |
 | Tribal Towers: Siege of the Shifting Fortress | 296464 | [296464-tribal-towers-siege-of-the-shifting-fortress.json](./296464-tribal-towers-siege-of-the-shifting-fortress.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
+| Tribal Trouble 2 | 66300 | [66300-tribal-trouble-2.json](./66300-tribal-trouble-2.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
 | Tribal Wars 2 | 23634 | [23634-tribal-wars-2.json](./23634-tribal-wars-2.json) |
 | TriBalls | 400452 | [400452-triballs.json](./400452-triballs.json) |
