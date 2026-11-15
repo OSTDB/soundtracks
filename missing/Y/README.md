@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Tanks Kawaii | 368748 | [368748-yoshi-tanks-kawaii.json](./368748-yoshi-tanks-kawaii.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
+| Yoshi vs. Plants | 422762 | [422762-yoshi-vs-plants.json](./422762-yoshi-vs-plants.json) |
 | Yoshi vs. Windows | 141624 | [141624-yoshi-vs-windows.json](./141624-yoshi-vs-windows.json) |
 | Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
 | Yoshi, the Web Pet | 241081 | [241081-yoshi-the-web-pet.json](./241081-yoshi-the-web-pet.json) |
