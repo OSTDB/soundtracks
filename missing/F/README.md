@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Birds | 222207 | [222207-fancy-birds.json](./222207-fancy-birds.json) |
 | Fancy Blast | 89028 | [89028-fancy-blast.json](./89028-fancy-blast.json) |
 | Fancy Cakes: Merge Adventure | 240108 | [240108-fancy-cakes-merge-adventure.json](./240108-fancy-cakes-merge-adventure.json) |
+| Fancy Fishing VR | 29308 | [29308-fancy-fishing-vr.json](./29308-fancy-fishing-vr.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Match | 246545 | [246545-fancy-match.json](./246545-fancy-match.json) |
 | Fancy Match | 246552 | [246552-fancy-match.json](./246552-fancy-match.json) |
