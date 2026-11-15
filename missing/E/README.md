@@ -7085,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka Seven Vol. 2: The New Vision | 21439 | [21439-eureka-seven-vol-2-the-new-vision.json](./21439-eureka-seven-vol-2-the-new-vision.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
 | Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
+| Eureka Seven: AO Attack the Legend | 64558 | [64558-eureka-seven-ao-attack-the-legend.json](./64558-eureka-seven-ao-attack-the-legend.json) |
 | Eureka! | 25914 | [25914-eureka.json](./25914-eureka.json) |
 | Eureka! Superconductor Lab | 295753 | [295753-eureka-superconductor-lab.json](./295753-eureka-superconductor-lab.json) |
 | Eurekas | 374776 | [374776-eurekas.json](./374776-eurekas.json) |
