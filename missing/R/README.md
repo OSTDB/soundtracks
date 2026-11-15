@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach Coin | 128120 | [128120-reach-coin.json](./128120-reach-coin.json) |
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
 | Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
+| Reach for the Stars | 10034 | [10034-reach-for-the-stars.json](./10034-reach-for-the-stars.json) |
 | Reach for the Stars | 136513 | [136513-reach-for-the-stars.json](./136513-reach-for-the-stars.json) |
 | Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
 | Reach Me | 76362 | [76362-reach-me.json](./76362-reach-me.json) |
