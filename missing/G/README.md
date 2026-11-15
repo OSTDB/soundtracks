@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemscape | 234280 | [234280-gemscape.json](./234280-gemscape.json) |
 | Gemstone Defense | 165760 | [165760-gemstone-defense.json](./165760-gemstone-defense.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
+| Gemstone Healer | 36583 | [36583-gemstone-healer.json](./36583-gemstone-healer.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
 | Gemstone Keeper | 31465 | [31465-gemstone-keeper.json](./31465-gemstone-keeper.json) |
 | Gemstone Legends | 164377 | [164377-gemstone-legends.json](./164377-gemstone-legends.json) |
