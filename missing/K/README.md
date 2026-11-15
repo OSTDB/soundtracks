@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Battride War Genesis - Memorial TV Sound Edition | 136694 | [136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json](./136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
+| Kamen Rider: Climax Fighters | 56666 | [56666-kamen-rider-climax-fighters.json](./56666-kamen-rider-climax-fighters.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
 | Kamen Rider: Climax Heroes | 4947 | [4947-kamen-rider-climax-heroes.json](./4947-kamen-rider-climax-heroes.json) |
 | Kamen Rider: Climax Heroes Fourze | 64239 | [64239-kamen-rider-climax-heroes-fourze.json](./64239-kamen-rider-climax-heroes-fourze.json) |
@@ -4014,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Ereloth | 238711 | [238711-kingdoms-of-ereloth.json](./238711-kingdoms-of-ereloth.json) |
 | Kingdoms Of Eternity | 318488 | [318488-kingdoms-of-eternity.json](./318488-kingdoms-of-eternity.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
+| Kingdoms of Heckfire | 56014 | [56014-kingdoms-of-heckfire.json](./56014-kingdoms-of-heckfire.json) |
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
@@ -5114,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightess Layla: The Humiliating Life of a Seed Bed | 82687 | [82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json](./82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json) |
 | Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
 | Knightfall | 387936 | [387936-knightfall.json](./387936-knightfall.json) |
+| Knightfall | 56059 | [56059-knightfall.json](./56059-knightfall.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knightfall: A Daring Journey | 195019 | [195019-knightfall-a-daring-journey.json](./195019-knightfall-a-daring-journey.json) |
