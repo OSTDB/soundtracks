@@ -5593,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
 | Bearzerk | 344983 | [344983-bearzerk.json](./344983-bearzerk.json) |
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
+| Beasley's Deathtrap | 56079 | [56079-beasleys-deathtrap.json](./56079-beasleys-deathtrap.json) |
 | Beast | 121907 | [121907-beast.json](./121907-beast.json) |
 | Beast | 202029 | [202029-beast.json](./202029-beast.json) |
 | Beast | 86157 | [86157-beast.json](./86157-beast.json) |
@@ -11426,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlitzBot | 292422 | [292422-blitzbot.json](./292422-blitzbot.json) |
 | Blitzcrank's Poro Roundup | 59871 | [59871-blitzcranks-poro-roundup.json](./59871-blitzcranks-poro-roundup.json) |
 | Blitzer | 94524 | [94524-blitzer.json](./94524-blitzer.json) |
+| Blitzkampfer | 56061 | [56061-blitzkampfer.json](./56061-blitzkampfer.json) |
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
 | Blitzkrieg | 10242 | [10242-blitzkrieg.json](./10242-blitzkrieg.json) |
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
@@ -16092,6 +16094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Champ | 273747 | [273747-brain-champ.json](./273747-brain-champ.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
 | Brain Cop | 179434 | [179434-brain-cop.json](./179434-brain-cop.json) |
+| Brain Crush | 55431 | [55431-brain-crush.json](./55431-brain-crush.json) |
 | Brain Damage | 13980 | [13980-brain-damage.json](./13980-brain-damage.json) |
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
 | Brain Damage | 243591 | [243591-brain-damage.json](./243591-brain-damage.json) |
@@ -17250,6 +17253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
 | Brick People | 65701 | [65701-brick-people.json](./65701-brick-people.json) |
 | Brick Planet | 98636 | [98636-brick-planet.json](./98636-brick-planet.json) |
+| Brick Race | 56100 | [56100-brick-race.json](./56100-brick-race.json) |
 | Brick Rage | 243079 | [243079-brick-rage.json](./243079-brick-rage.json) |
 | Brick Red | 271349 | [271349-brick-red.json](./271349-brick-red.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
