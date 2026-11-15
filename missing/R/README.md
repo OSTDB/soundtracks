@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
 | Rampage Ball 2048 | 226980 | [226980-rampage-ball-2048.json](./226980-rampage-ball-2048.json) |
 | Rampage Kage | 406993 | [406993-rampage-kage.json](./406993-rampage-kage.json) |
+| Rampage Knights | 12513 | [12513-rampage-knights.json](./12513-rampage-knights.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Online | 111775 | [111775-rampage-online.json](./111775-rampage-online.json) |
 | Rampage Puzzle Attack | 6552 | [6552-rampage-puzzle-attack.json](./6552-rampage-puzzle-attack.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
+| Rebuild 3: Gangs of Deadsville | 16724 | [16724-rebuild-3-gangs-of-deadsville.json](./16724-rebuild-3-gangs-of-deadsville.json) |
 | Rebuild of Evangelion: Sound Impact | 65902 | [65902-rebuild-of-evangelion-sound-impact.json](./65902-rebuild-of-evangelion-sound-impact.json) |
 | Rebuild of Shadow Dream | 319495 | [319495-rebuild-of-shadow-dream.json](./319495-rebuild-of-shadow-dream.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
@@ -4573,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Stack | 308705 | [308705-red-stack.json](./308705-red-stack.json) |
 | Red Star Over America | 340710 | [340710-red-star-over-america.json](./340710-red-star-over-america.json) |
 | Red Star Raider | 119880 | [119880-red-star-raider.json](./119880-red-star-raider.json) |
+| Red Steel 2 | 2179 | [2179-red-steel-2.json](./2179-red-steel-2.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
@@ -9507,6 +9510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Story | 241819 | [241819-road-story.json](./241819-road-story.json) |
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
+| Road to Ballhalla | 16994 | [16994-road-to-ballhalla.json](./16994-road-to-ballhalla.json) |
 | Road to Ballhalla: Roll Playing Game of the Year Edition | 53520 | [53520-road-to-ballhalla-roll-playing-game-of-the-year-edition.json](./53520-road-to-ballhalla-roll-playing-game-of-the-year-edition.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Champion: Boxing Simulator | 312428 | [312428-road-to-champion-boxing-simulator.json](./312428-road-to-champion-boxing-simulator.json) |
@@ -10120,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rivals | 419595 | [419595-robot-rivals.json](./419595-robot-rivals.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rogue | 155294 | [155294-robot-rogue.json](./155294-robot-rogue.json) |
+| Robot Roller-Derby Disco Dodgeball | 12877 | [12877-robot-roller-derby-disco-dodgeball.json](./12877-robot-roller-derby-disco-dodgeball.json) |
 | Robot Ron | 266648 | [266648-robot-ron.json](./266648-robot-ron.json) |
 | Robot Rubble | 41479 | [41479-robot-rubble.json](./41479-robot-rubble.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
@@ -13559,6 +13564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Engagement: The Grey State | 372660 | [372660-rules-of-engagement-the-grey-state.json](./372660-rules-of-engagement-the-grey-state.json) |
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
 | Rules of Nature | 348812 | [348812-rules-of-nature.json](./348812-rules-of-nature.json) |
+| Rules of Survival | 77435 | [77435-rules-of-survival.json](./77435-rules-of-survival.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules of The Mafia: Trade & Blood | 113856 | [113856-rules-of-the-mafia-trade-and-blood.json](./113856-rules-of-the-mafia-trade-and-blood.json) |
 | Rules of War | 320048 | [320048-rules-of-war.json](./320048-rules-of-war.json) |
@@ -14054,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Chaos | 184177 | [184177-runes-of-chaos.json](./184177-runes-of-chaos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
 | Runes of Legend | 326617 | [326617-runes-of-legend.json](./326617-runes-of-legend.json) |
+| Runes of Magic | 14730 | [14730-runes-of-magic.json](./14730-runes-of-magic.json) |
 | Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
 | Runes of Mystery | 335420 | [335420-runes-of-mystery.json](./335420-runes-of-mystery.json) |
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
