@@ -3526,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
 | Technolust | 18952 | [18952-technolust.json](./18952-technolust.json) |
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
+| TechnoMage: Return of Eternity | 44906 | [44906-technomage-return-of-eternity.json](./44906-technomage-return-of-eternity.json) |
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technomancer | 423231 | [423231-technomancer.json](./423231-technomancer.json) |
 | Technophobia | 56801 | [56801-technophobia.json](./56801-technophobia.json) |
@@ -15167,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master of Puzzles | 236654 | [236654-the-master-of-puzzles.json](./236654-the-master-of-puzzles.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Domain | 268623 | [268623-the-masters-domain.json](./268623-the-masters-domain.json) |
+| The Master's Fighter | 44789 | [44789-the-masters-fighter.json](./44789-the-masters-fighter.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
@@ -20419,6 +20421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unhaunted Lolhouse | 106512 | [106512-the-unhaunted-lolhouse.json](./106512-the-unhaunted-lolhouse.json) |
 | The Unholy Priest | 332368 | [332368-the-unholy-priest.json](./332368-the-unholy-priest.json) |
 | The Unholy Society | 78751 | [78751-the-unholy-society.json](./78751-the-unholy-society.json) |
+| The Unholy War | 44915 | [44915-the-unholy-war.json](./44915-the-unholy-war.json) |
 | The Unic | 254697 | [254697-the-unic.json](./254697-the-unic.json) |
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
@@ -22605,6 +22608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
 | Thrasher Presents: Skate and Destroy | 264851 | [264851-thrasher-presents-skate-and-destroy.json](./264851-thrasher-presents-skate-and-destroy.json) |
+| Thrasher Presents: Skate and Destroy | 44916 | [44916-thrasher-presents-skate-and-destroy.json](./44916-thrasher-presents-skate-and-destroy.json) |
 | Thrateon | 359095 | [359095-thrateon.json](./359095-thrateon.json) |
 | Thrax Lair | 23235 | [23235-thrax-lair.json](./23235-thrax-lair.json) |
 | Thread | 201455 | [201455-thread.json](./201455-thread.json) |
@@ -25153,6 +25157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Trio's Tasty Travels | 148098 | [148098-tiger-trios-tasty-travels.json](./148098-tiger-trios-tasty-travels.json) |
 | Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
+| Tiger Woods 99 PGA Tour Golf | 44917 | [44917-tiger-woods-99-pga-tour-golf.json](./44917-tiger-woods-99-pga-tour-golf.json) |
 | Tiger Woods PGA Tour | 248495 | [248495-tiger-woods-pga-tour.json](./248495-tiger-woods-pga-tour.json) |
 | Tiger Woods PGA Tour | 288021 | [288021-tiger-woods-pga-tour.json](./288021-tiger-woods-pga-tour.json) |
 | Tiger Woods PGA Tour 06 | 248474 | [248474-tiger-woods-pga-tour-06.json](./248474-tiger-woods-pga-tour-06.json) |
@@ -26335,6 +26340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Talos | 143191 | [143191-tiny-talos.json](./143191-tiny-talos.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
+| Tiny Tank | 44918 | [44918-tiny-tank.json](./44918-tiny-tank.json) |
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
 | Tiny Tanks | 306392 | [306392-tiny-tanks.json](./306392-tiny-tanks.json) |
 | Tiny Tanks | 412601 | [412601-tiny-tanks.json](./412601-tiny-tanks.json) |
@@ -28207,6 +28213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Raceway | 7957 | [7957-tonka-raceway.json](./7957-tonka-raceway.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Search and Rescue | 7955 | [7955-tonka-search-and-rescue.json](./7955-tonka-search-and-rescue.json) |
+| Tonka Space Station | 44921 | [44921-tonka-space-station.json](./44921-tonka-space-station.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
 | Tonka Workshop | 165293 | [165293-tonka-workshop.json](./165293-tonka-workshop.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
@@ -28574,6 +28581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Secret | 79666 | [79666-top-secret.json](./79666-top-secret.json) |
 | Top Secret Finders | 145142 | [145142-top-secret-finders.json](./145142-top-secret-finders.json) |
+| Top Shop | 44892 | [44892-top-shop.json](./44892-top-shop.json) |
 | Top Shot | 306386 | [306386-top-shot.json](./306386-top-shot.json) |
 | Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
 | Top Shot: Arcade | 50641 | [50641-top-shot-arcade.json](./50641-top-shot-arcade.json) |
