@@ -5072,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regeneration | 318279 | [318279-regeneration.json](./318279-regeneration.json) |
 | Regeneration Engine | 400184 | [400184-regeneration-engine.json](./400184-regeneration-engine.json) |
 | Regenesis | 238620 | [238620-regenesis.json](./238620-regenesis.json) |
+| Regenesis Arcade Deluxe | 76021 | [76021-regenesis-arcade-deluxe.json](./76021-regenesis-arcade-deluxe.json) |
 | Regenesis Ultimatum | 258120 | [258120-regenesis-ultimatum.json](./258120-regenesis-ultimatum.json) |
 | Regenisis Arcade | 55537 | [55537-regenisis-arcade.json](./55537-regenisis-arcade.json) |
 | Regenti Rebelia | 330071 | [330071-regenti-rebelia.json](./330071-regenti-rebelia.json) |
@@ -5179,7 +5180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
 | Reign Over | 210981 | [210981-reign-over.json](./210981-reign-over.json) |
 | Reign: Conflict of Nations | 11430 | [11430-reign-conflict-of-nations.json](./11430-reign-conflict-of-nations.json) |
-| Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
 | Reigning Cats | 34556 | [34556-reigning-cats.json](./34556-reigning-cats.json) |
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
@@ -10110,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot with a Ram Cannon | 357277 | [357277-robot-with-a-ram-cannon.json](./357277-robot-with-a-ram-cannon.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
+| Robot's Mystery | 76048 | [76048-robots-mystery.json](./76048-robots-mystery.json) |
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
 | Robotech: Battlecry | 4090 | [4090-robotech-battlecry.json](./4090-robotech-battlecry.json) |
