@@ -9037,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altdeus: Beyond Chronos | 141359 | [141359-altdeus-beyond-chronos.json](./141359-altdeus-beyond-chronos.json) |
 | Altdeus: Beyond Chronos - Episode Yamato | 196096 | [196096-altdeus-beyond-chronos-episode-yamato.json](./196096-altdeus-beyond-chronos-episode-yamato.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
+| Alteil | 67716 | [67716-alteil.json](./67716-alteil.json) |
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
 | Alteira | 260727 | [260727-alteira.json](./260727-alteira.json) |
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
@@ -9730,6 +9731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Toughest 18 | 73065 | [73065-americas-toughest-18.json](./73065-americas-toughest-18.json) |
 | American Airport Simulator | 247910 | [247910-american-airport-simulator.json](./247910-american-airport-simulator.json) |
 | American Angst | 139723 | [139723-american-angst.json](./139723-american-angst.json) |
+| American Angst: Steam Deluxe Edition | 68845 | [68845-american-angst-steam-deluxe-edition.json](./68845-american-angst-steam-deluxe-edition.json) |
 | American Art Jigsaw Puzzle | 90289 | [90289-american-art-jigsaw-puzzle.json](./90289-american-art-jigsaw-puzzle.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
@@ -9982,6 +9984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
 | Amir Khan Khanage | 58599 | [58599-amir-khan-khanage.json](./58599-amir-khan-khanage.json) |
 | Amira | 169857 | [169857-amira.json](./169857-amira.json) |
+| Amiss 13: the Curse | 68165 | [68165-amiss-13-the-curse.json](./68165-amiss-13-the-curse.json) |
 | Amit the Paperman | 417681 | [417681-amit-the-paperman.json](./417681-amit-the-paperman.json) |
 | Amitabha Buddha | 408419 | [408419-amitabha-buddha.json](./408419-amitabha-buddha.json) |
 | Amity Park | 216452 | [216452-amity-park.json](./216452-amity-park.json) |
@@ -10171,6 +10174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amtrack | 62249 | [62249-amtrack.json](./62249-amtrack.json) |
 | Amulet | 291515 | [291515-amulet.json](./291515-amulet.json) |
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
+| Amulet of the seven souls | 68186 | [68186-amulet-of-the-seven-souls.json](./68186-amulet-of-the-seven-souls.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amulet Zero: Optimize | 107984 | [107984-amulet-zero-optimize.json](./107984-amulet-zero-optimize.json) |
