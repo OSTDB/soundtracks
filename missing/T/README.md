@@ -3996,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepath Tactics Liberated | 189802 | [189802-telepath-tactics-liberated.json](./189802-telepath-tactics-liberated.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
+| Telepathy Zero | 44138 | [44138-telepathy-zero.json](./44138-telepathy-zero.json) |
 | Telephone Trouble | 177157 | [177157-telephone-trouble.json](./177157-telephone-trouble.json) |
 | Teleport | 284707 | [284707-teleport.json](./284707-teleport.json) |
 | Teleport Jumper | 312044 | [312044-teleport-jumper.json](./312044-teleport-jumper.json) |
@@ -9787,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elite Grand Enigma | 422845 | [422845-the-elite-grand-enigma.json](./422845-the-elite-grand-enigma.json) |
 | The Elite of Mboa | 260491 | [260491-the-elite-of-mboa.json](./260491-the-elite-of-mboa.json) |
 | The Elm Game | 171868 | [171868-the-elm-game.json](./171868-the-elm-game.json) |
+| The Elmian Warrior | 44235 | [44235-the-elmian-warrior.json](./44235-the-elmian-warrior.json) |
 | The Elven Forest VR | 384633 | [384633-the-elven-forest-vr.json](./384633-the-elven-forest-vr.json) |
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
@@ -9999,6 +10001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
 | The Eternal City | 143241 | [143241-the-eternal-city.json](./143241-the-eternal-city.json) |
 | The Eternal Cylinder | 121715 | [121715-the-eternal-cylinder.json](./121715-the-eternal-cylinder.json) |
+| The Eternal Dagger | 44148 | [44148-the-eternal-dagger.json](./44148-the-eternal-dagger.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Hunt | 348399 | [348399-the-eternal-hunt.json](./348399-the-eternal-hunt.json) |
 | The Eternal Life of Goldman | 312274 | [312274-the-eternal-life-of-goldman.json](./312274-the-eternal-life-of-goldman.json) |
@@ -15994,6 +15997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Northern Path | 331233 | [331233-the-northern-path.json](./331233-the-northern-path.json) |
 | The Northsong Rift | 401840 | [401840-the-northsong-rift.json](./401840-the-northsong-rift.json) |
 | The Norwood Suite | 68369 | [68369-the-norwood-suite.json](./68369-the-norwood-suite.json) |
+| The Nose | 44234 | [44234-the-nose.json](./44234-the-nose.json) |
 | The Not Very Golden Age of Piracy | 120628 | [120628-the-not-very-golden-age-of-piracy.json](./120628-the-not-very-golden-age-of-piracy.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Note | 26518 | [26518-the-note.json](./26518-the-note.json) |
@@ -16314,6 +16318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outsiders | 104208 | [104208-the-outsiders.json](./104208-the-outsiders.json) |
 | The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
+| The Overdreamer | 44134 | [44134-the-overdreamer.json](./44134-the-overdreamer.json) |
 | The Overlap | 334406 | [334406-the-overlap.json](./334406-the-overlap.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overlord Isn't Another Isekai Protagonist, Is He?: Chapter 1 | 202528 | [202528-the-overlord-isnt-another-isekai-protagonist-is-he-chapter-1.json](./202528-the-overlord-isnt-another-isekai-protagonist-is-he-chapter-1.json) |
@@ -23025,6 +23030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force IV | 254613 | [254613-thunder-force-iv.json](./254613-thunder-force-iv.json) |
 | Thunder Force V | 22021 | [22021-thunder-force-v.json](./22021-thunder-force-v.json) |
 | Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
+| Thunder Force VI | 43603 | [43603-thunder-force-vi.json](./43603-thunder-force-vi.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Force: Gold Pack 2 | 80164 | [80164-thunder-force-gold-pack-2.json](./80164-thunder-force-gold-pack-2.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
@@ -34358,6 +34364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribes of Tis'te | 147044 | [147044-tribes-of-tiste.json](./147044-tribes-of-tiste.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
+| Tribes: Aerial Assault | 43597 | [43597-tribes-aerial-assault.json](./43597-tribes-aerial-assault.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | TriBlaster | 36274 | [36274-triblaster.json](./36274-triblaster.json) |
@@ -35821,6 +35828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TsucnenT's Treasures II | 369226 | [369226-tsucnents-treasures-ii.json](./369226-tsucnents-treasures-ii.json) |
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
 | Tsugihagi Puzzles | 407829 | [407829-tsugihagi-puzzles.json](./407829-tsugihagi-puzzles.json) |
+| Tsugunai: Atonement | 43606 | [43606-tsugunai-atonement.json](./43606-tsugunai-atonement.json) |
 | Tsugunohi | 139179 | [139179-tsugunohi.json](./139179-tsugunohi.json) |
 | Tsugunohi: A Voice from Yesteryear | 270873 | [270873-tsugunohi-a-voice-from-yesteryear.json](./270873-tsugunohi-a-voice-from-yesteryear.json) |
 | Tsugunohi: Pocky Dog’s Adventure | 338604 | [338604-tsugunohi-pocky-dog-s-adventure.json](./338604-tsugunohi-pocky-dog-s-adventure.json) |
