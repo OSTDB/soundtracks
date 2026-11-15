@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elta: Defy All Gods | 414942 | [414942-elta-defy-all-gods.json](./414942-elta-defy-all-gods.json) |
 | Elteria Hunter | 195657 | [195657-elteria-hunter.json](./195657-elteria-hunter.json) |
 | Elthinia | 200069 | [200069-elthinia.json](./200069-elthinia.json) |
+| Elthlead | 41632 | [41632-elthlead.json](./41632-elthlead.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
 | Elude | 93802 | [93802-elude.json](./93802-elude.json) |
