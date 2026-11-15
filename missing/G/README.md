@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamebesh | 275387 | [275387-gamebesh.json](./275387-gamebesh.json) |
 | Gamebiz | 62879 | [62879-gamebiz.json](./62879-gamebiz.json) |
 | Gamebiz 2 | 62878 | [62878-gamebiz-2.json](./62878-gamebiz-2.json) |
+| GameBiz 3 | 63457 | [63457-gamebiz-3.json](./63457-gamebiz-3.json) |
 | Gamebook | 200252 | [200252-gamebook.json](./200252-gamebook.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
 | Gamebook Adventures 2: The Siege of the Necromancer | 64762 | [64762-gamebook-adventures-2-the-siege-of-the-necromancer.json](./64762-gamebook-adventures-2-the-siege-of-the-necromancer.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gently Packed | 395267 | [395267-gently-packed.json](./395267-gently-packed.json) |
 | Gentoo Rescue | 291516 | [291516-gentoo-rescue.json](./291516-gentoo-rescue.json) |
 | Gentoo Rescue 1.2: Anniversary Update | 403326 | [403326-gentoo-rescue-1-2-anniversary-update.json](./403326-gentoo-rescue-1-2-anniversary-update.json) |
+| Gentrieve 2 | 63461 | [63461-gentrieve-2.json](./63461-gentrieve-2.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Genzee NFT Game | 186590 | [186590-genzee-nft-game.json](./186590-genzee-nft-game.json) |
 | Geo | 31785 | [31785-geo.json](./31785-geo.json) |
