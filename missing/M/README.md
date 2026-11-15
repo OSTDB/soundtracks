@@ -10388,6 +10388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercurius Pretty | 94103 | [94103-mercurius-pretty.json](./94103-mercurius-pretty.json) |
+| Mercurius Pretty: End of the Century | 66277 | [66277-mercurius-pretty-end-of-the-century.json](./66277-mercurius-pretty-end-of-the-century.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury | 270978 | [270978-mercury.json](./270978-mercury.json) |
 | Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
@@ -11738,12 +11739,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
 | Mickey's Adventure in Numberland | 18102 | [18102-mickeys-adventure-in-numberland.json](./18102-mickeys-adventure-in-numberland.json) |
 | Mickey's Apple Cart | 246511 | [246511-mickeys-apple-cart.json](./246511-mickeys-apple-cart.json) |
+| Mickey's Blast Into the Past | 66836 | [66836-mickeys-blast-into-the-past.json](./66836-mickeys-blast-into-the-past.json) |
 | Mickey's Crossword Puzzle Maker | 69759 | [69759-mickeys-crossword-puzzle-maker.json](./69759-mickeys-crossword-puzzle-maker.json) |
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
 | Mickey's Playtown Adventure: A Day of Discovery! | 42488 | [42488-mickeys-playtown-adventure-a-day-of-discovery.json](./42488-mickeys-playtown-adventure-a-day-of-discovery.json) |
 | Mickey's Racing Adventure | 8128 | [8128-mickeys-racing-adventure.json](./8128-mickeys-racing-adventure.json) |
 | Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
+| Mickey's Runaway Zoo | 66270 | [66270-mickeys-runaway-zoo.json](./66270-mickeys-runaway-zoo.json) |
 | Mickey's Speedway USA | 229851 | [229851-mickeys-speedway-usa.json](./229851-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
@@ -13338,6 +13341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimana Iyar Chronicle: First Edition | 42711 | [42711-mimana-iyar-chronicle-first-edition.json](./42711-mimana-iyar-chronicle-first-edition.json) |
 | MimeDrink: The drinking game | 237003 | [237003-mimedrink-the-drinking-game.json](./237003-mimedrink-the-drinking-game.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
+| Mimeoverse: Mimeo and the Kleptopus King | 66833 | [66833-mimeoverse-mimeo-and-the-kleptopus-king.json](./66833-mimeoverse-mimeo-and-the-kleptopus-king.json) |
 | Mimesis | 343183 | [343183-mimesis.json](./343183-mimesis.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimetic | 383731 | [383731-mimetic.json](./383731-mimetic.json) |
@@ -14363,6 +14367,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mini Golf Golf | 319830 | [319830-mini-mini-golf-golf.json](./319830-mini-mini-golf-golf.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Minny and the Missing Magic | 177712 | [177712-mini-minny-and-the-missing-magic.json](./177712-mini-minny-and-the-missing-magic.json) |
+| Mini Moni Eigo de Asobu n da pyon! | 66838 | [66838-mini-moni-eigo-de-asobu-n-da-pyon.json](./66838-mini-moni-eigo-de-asobu-n-da-pyon.json) |
+| Mini Moni Shougakkou he Ikun da Pyon! | 66837 | [66837-mini-moni-shougakkou-he-ikun-da-pyon.json](./66837-mini-moni-shougakkou-he-ikun-da-pyon.json) |
+| Mini Moni Terebi ni Deru n da pyon! | 66839 | [66839-mini-moni-terebi-ni-deru-n-da-pyon.json](./66839-mini-moni-terebi-ni-deru-n-da-pyon.json) |
 | Mini Monster Challenge | 409114 | [409114-mini-monster-challenge.json](./409114-mini-monster-challenge.json) |
 | Mini Monster Challenge 2 | 409121 | [409121-mini-monster-challenge-2.json](./409121-mini-monster-challenge-2.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
@@ -16475,6 +16482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Wizards Complex Pack | 162930 | [162930-moe-jigsaw-wizards-complex-pack.json](./162930-moe-jigsaw-wizards-complex-pack.json) |
 | Moe Mekuri SP | 28693 | [28693-moe-mekuri-sp.json](./28693-moe-mekuri-sp.json) |
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
+| Moe Moe 2-ji Daisenryaku 2 Chu | 66872 | [66872-moe-moe-2-ji-daisenryaku-2-chu.json](./66872-moe-moe-2-ji-daisenryaku-2-chu.json) |
 | Moe Moe 2-Ji Daisenryaku 3 | 83310 | [83310-moe-moe-2-ji-daisenryaku-3.json](./83310-moe-moe-2-ji-daisenryaku-3.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe Daisensou Gendaiban | 274232 | [274232-moe-moe-daisensou-gendaiban.json](./274232-moe-moe-daisensou-gendaiban.json) |
