@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Were Just Selling Lemonade | 349534 | [349534-you-were-just-selling-lemonade.json](./349534-you-were-just-selling-lemonade.json) |
 | You Were Made for Loneliness | 139387 | [139387-you-were-made-for-loneliness.json](./139387-you-were-made-for-loneliness.json) |
 | You Were There | 397106 | [397106-you-were-there.json](./397106-you-were-there.json) |
+| You Weren't Invited | 421021 | [421021-you-werent-invited.json](./421021-you-werent-invited.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
 | You Will Die a Lot Buddy, Trust Me! | 197103 | [197103-you-will-die-a-lot-buddy-trust-me.json](./197103-you-will-die-a-lot-buddy-trust-me.json) |
 | You Will Die Here Tonight | 157359 | [157359-you-will-die-here-tonight.json](./157359-you-will-die-here-tonight.json) |
