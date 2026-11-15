@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Decay of Mind | 19044 | [19044-insane-decay-of-mind.json](./19044-insane-decay-of-mind.json) |
 | Insane Escape | 244322 | [244322-insane-escape.json](./244322-insane-escape.json) |
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
+| Insane Insects: The Inception | 33554 | [33554-insane-insects-the-inception.json](./33554-insane-insects-the-inception.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
 | Insane Maze | 217208 | [217208-insane-maze.json](./217208-insane-maze.json) |
 | Insane Orb | 234394 | [234394-insane-orb.json](./234394-insane-orb.json) |
@@ -6372,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
 | Ira | 166044 | [166044-ira.json](./166044-ira.json) |
 | Ira | 216139 | [216139-ira.json](./216139-ira.json) |
+| Ira | 33616 | [33616-ira.json](./33616-ira.json) |
 | iRacing | 8204 | [8204-iracing.json](./8204-iracing.json) |
 | iRacing Arcade | 373274 | [373274-iracing-arcade.json](./373274-iracing-arcade.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
@@ -6552,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
 | Iron Lord | 12158 | [12158-iron-lord.json](./12158-iron-lord.json) |
 | Iron Lung | 190361 | [190361-iron-lung.json](./190361-iron-lung.json) |
+| Iron Madness | 33542 | [33542-iron-madness.json](./33542-iron-madness.json) |
 | Iron Maiden Quiz | 220805 | [220805-iron-maiden-quiz.json](./220805-iron-maiden-quiz.json) |
 | Iron Maiden: Ed Hunter | 50360 | [50360-iron-maiden-ed-hunter.json](./50360-iron-maiden-ed-hunter.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
