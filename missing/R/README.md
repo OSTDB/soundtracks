@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragmonton Endless For Save Indie Game | 291272 | [291272-ragmonton-endless-for-save-indie-game.json](./291272-ragmonton-endless-for-save-indie-game.json) |
+| Ragna Maya | 56657 | [56657-ragna-maya.json](./56657-ragna-maya.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | RagnaCook: Co-op Viking Kitchen | 391544 | [391544-ragnacook-co-op-viking-kitchen.json](./391544-ragnacook-co-op-viking-kitchen.json) |
 | Ragnador | 172835 | [172835-ragnador.json](./172835-ragnador.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Rampo | 63409 | [63409-rampo.json](./63409-rampo.json) |
 | Ramps | 416889 | [416889-ramps.json](./416889-ramps.json) |
+| Ramps | 56690 | [56690-ramps.json](./56690-ramps.json) |
 | Rams | 108648 | [108648-rams.json](./108648-rams.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
@@ -10680,6 +10682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketio 3 | 228925 | [228925-rocketio-3.json](./228925-rocketio-3.json) |
 | Rocketman | 261663 | [261663-rocketman.json](./261663-rocketman.json) |
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
+| Rocketman | 56698 | [56698-rocketman.json](./56698-rocketman.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPack Kid | 109219 | [109219-rocketpack-kid.json](./109219-rocketpack-kid.json) |
@@ -14180,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runway | 370076 | [370076-runway.json](./370076-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
+| RunZ 2 | 56680 | [56680-runz-2.json](./56680-runz-2.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | RuPaul's Drag Race Superstar | 247091 | [247091-rupauls-drag-race-superstar.json](./247091-rupauls-drag-race-superstar.json) |
 | RuPaul's Drag Race: Dragopolis | 133684 | [133684-rupauls-drag-race-dragopolis.json](./133684-rupauls-drag-race-dragopolis.json) |
