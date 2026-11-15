@@ -7244,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikapo | 427834 | [427834-pikapo.json](./427834-pikapo.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
 | Pike & Shot | 368998 | [368998-pike-and-shot.json](./368998-pike-and-shot.json) |
+| Pike and Shot: Campaigns | 35035 | [35035-pike-and-shot-campaigns.json](./35035-pike-and-shot-campaigns.json) |
 | Pike: Operacija Gromoverzhec | 72306 | [72306-pike-operacija-gromoverzhec.json](./72306-pike-operacija-gromoverzhec.json) |
 | Pikelets | 183947 | [183947-pikelets.json](./183947-pikelets.json) |
 | Pikes and Pursestrings | 387291 | [387291-pikes-and-pursestrings.json](./387291-pikes-and-pursestrings.json) |
@@ -7781,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX | 21915 | [21915-pinball-fx.json](./21915-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX 2: Star Wars | 24227 | [24227-pinball-fx-2-star-wars.json](./24227-pinball-fx-2-star-wars.json) |
+| Pinball FX Midnight | 258295 | [258295-pinball-fx-midnight.json](./258295-pinball-fx-midnight.json) |
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
 | Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
