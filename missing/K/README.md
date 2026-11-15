@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickochet | 128298 | [128298-kickochet.json](./128298-kickochet.json) |
 | KickOff | 165841 | [165841-kickoff.json](./165841-kickoff.json) |
 | Kickoff CM | 114627 | [114627-kickoff-cm.json](./114627-kickoff-cm.json) |
+| Kickoff Legends | 28338 | [28338-kickoff-legends.json](./28338-kickoff-legends.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
