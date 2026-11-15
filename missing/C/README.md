@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnaval Marbles | 360327 | [360327-carnaval-marbles.json](./360327-carnaval-marbles.json) |
 | Carnaval Simulator | 275405 | [275405-carnaval-simulator.json](./275405-carnaval-simulator.json) |
 | Carne Vescens | 336201 | [336201-carne-vescens.json](./336201-carne-vescens.json) |
+| Carnegie | 428730 | [428730-carnegie.json](./428730-carnegie.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
 | Carnholt | 401332 | [401332-carnholt.json](./401332-carnholt.json) |
 | Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
@@ -9363,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Ways | 72022 | [72022-chroma-ways.json](./72022-chroma-ways.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chroma: Bloom and Blight | 128916 | [128916-chroma-bloom-and-blight.json](./128916-chroma-bloom-and-blight.json) |
+| Chroma: Tidy Up The Paint Store! | 428723 | [428723-chroma-tidy-up-the-paint-store.json](./428723-chroma-tidy-up-the-paint-store.json) |
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | ChromaBeat | 171712 | [171712-chromabeat.json](./171712-chromabeat.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
@@ -13474,6 +13476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Flow! | 418244 | [418244-colony-flow.json](./418244-colony-flow.json) |
 | Colony Odyssey | 66294 | [66294-colony-odyssey.json](./66294-colony-odyssey.json) |
 | Colony on Mars | 81916 | [81916-colony-on-mars.json](./81916-colony-on-mars.json) |
+| Colony on the Run | 428775 | [428775-colony-on-the-run.json](./428775-colony-on-the-run.json) |
 | Colony Prospector | 99430 | [99430-colony-prospector.json](./99430-colony-prospector.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
 | Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
