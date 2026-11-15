@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Intrigue of the Ratings | 145694 | [145694-in-the-intrigue-of-the-ratings.json](./145694-in-the-intrigue-of-the-ratings.json) |
 | In the Keeper's Shadow | 120884 | [120884-in-the-keepers-shadow.json](./120884-in-the-keepers-shadow.json) |
 | In the Kingdom | 61479 | [61479-in-the-kingdom.json](./61479-in-the-kingdom.json) |
+| In the Land of Zero Gravity: Upsee Town | 421625 | [421625-in-the-land-of-zero-gravity-upsee-town.json](./421625-in-the-land-of-zero-gravity-upsee-town.json) |
 | In the Line of Duty - Firefighter | 125314 | [125314-in-the-line-of-duty-firefighter.json](./125314-in-the-line-of-duty-firefighter.json) |
 | In the Line of Fire | 89244 | [89244-in-the-line-of-fire.json](./89244-in-the-line-of-fire.json) |
 | In the Line of My Heart | 189973 | [189973-in-the-line-of-my-heart.json](./189973-in-the-line-of-my-heart.json) |
