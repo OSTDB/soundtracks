@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverlooted Dungeon | 131231 | [131231-neverlooted-dungeon.json](./131231-neverlooted-dungeon.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermind This | 244123 | [244123-nevermind-this.json](./244123-nevermind-this.json) |
+| NeverMine | 32306 | [32306-nevermine.json](./32306-nevermine.json) |
 | Nevermore | 115564 | [115564-nevermore.json](./115564-nevermore.json) |
 | Nevermore | 382104 | [382104-nevermore.json](./382104-nevermore.json) |
 | NeverMore | 143460 | [143460-nevermore.json](./143460-nevermore.json) |
@@ -5206,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmist Online | 140434 | [140434-nightmist-online.json](./140434-nightmist-online.json) |
 | Nightomb | 260857 | [260857-nightomb.json](./260857-nightomb.json) |
 | Nightork Adventures 2: Legacy of Chaos | 55346 | [55346-nightork-adventures-2-legacy-of-chaos.json](./55346-nightork-adventures-2-legacy-of-chaos.json) |
+| Nightork Adventures: Beyond the Moons of Shadalee | 32299 | [32299-nightork-adventures-beyond-the-moons-of-shadalee.json](./32299-nightork-adventures-beyond-the-moons-of-shadalee.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
 | Nightowl | 182138 | [182138-nightowl.json](./182138-nightowl.json) |
 | Nightpiercer | 404568 | [404568-nightpiercer.json](./404568-nightpiercer.json) |
