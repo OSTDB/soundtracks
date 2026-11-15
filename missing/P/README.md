@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilko | 149701 | [149701-pilko.json](./149701-pilko.json) |
 | Pill After Pill | 400540 | [400540-pill-after-pill.json](./400540-pill-after-pill.json) |
 | Pill Baby | 192725 | [192725-pill-baby.json](./192725-pill-baby.json) |
+| Pill Bird Remastered | 427586 | [427586-pill-bird-remastered.json](./427586-pill-bird-remastered.json) |
 | Pill Box | 277535 | [277535-pill-box.json](./277535-pill-box.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
@@ -10049,6 +10050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PIzza Wizard+ | 338632 | [338632-pizza-wizard.json](./338632-pizza-wizard.json) |
 | Pizza Worm | 9079 | [9079-pizza-worm.json](./9079-pizza-worm.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
+| PizzaBreaker | 427568 | [427568-pizzabreaker.json](./427568-pizzabreaker.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
 | Pizzakai | 293665 | [293665-pizzakai.json](./293665-pizzakai.json) |
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
@@ -13724,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyKat | 57028 | [57028-polykat.json](./57028-polykat.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
 | PolyKromos | 101369 | [101369-polykromos.json](./101369-polykromos.json) |
+| Polyleague Manager 2026: Football Evolution | 427557 | [427557-polyleague-manager-2026-football-evolution.json](./427557-polyleague-manager-2026-football-evolution.json) |
 | Polylithic | 219396 | [219396-polylithic.json](./219396-polylithic.json) |
 | Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
 | Polylylyrhythm | 310865 | [310865-polylylyrhythm.json](./310865-polylylyrhythm.json) |
@@ -16489,6 +16492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
 | Prism Break | 309771 | [309771-prism-break.json](./309771-prism-break.json) |
 | Prism Collider | 29643 | [29643-prism-collider.json](./29643-prism-collider.json) |
+| Prism Core | 427565 | [427565-prism-core.json](./427565-prism-core.json) |
 | Prism Court | 123263 | [123263-prism-court.json](./123263-prism-court.json) |
 | Prism Crash | 38742 | [38742-prism-crash.json](./38742-prism-crash.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
@@ -17174,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profane | 76065 | [76065-profane.json](./76065-profane.json) |
 | Profaned | 412101 | [412101-profaned.json](./412101-profaned.json) |
 | Profanity Police | 310338 | [310338-profanity-police.json](./310338-profanity-police.json) |
+| Profanum | 427570 | [427570-profanum.json](./427570-profanum.json) |
 | Profectus | 155308 | [155308-profectus.json](./155308-profectus.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
 | Professional Baseball Tactics | 57753 | [57753-professional-baseball-tactics.json](./57753-professional-baseball-tactics.json) |
