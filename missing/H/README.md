@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Quest | 426084 | [426084-haunted-house-quest.json](./426084-haunted-house-quest.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
+| Haunted House tours | 28341 | [28341-haunted-house-tours.json](./28341-haunted-house-tours.json) |
 | Haunted House: Cryptic Graves | 17673 | [17673-haunted-house-cryptic-graves.json](./17673-haunted-house-cryptic-graves.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
 | Haunted Houses | 230599 | [230599-haunted-houses.json](./230599-haunted-houses.json) |
@@ -9799,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogbear | 71106 | [71106-hogbear.json](./71106-hogbear.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hogi's Adventure | 27212 | [27212-hogis-adventure.json](./27212-hogis-adventure.json) |
+| Hogi's Adventure Run | 28219 | [28219-hogis-adventure-run.json](./28219-hogis-adventure-run.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogogeist | 157005 | [157005-hogogeist.json](./157005-hogogeist.json) |
 | Hogoworm Dungeon | 187586 | [187586-hogoworm-dungeon.json](./187586-hogoworm-dungeon.json) |
@@ -11683,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
 | Hoshi no Oujo: Uchuu Ishiki ni Mezameta Yoshitsune | 181522 | [181522-hoshi-no-oujo-uchuu-ishiki-ni-mezameta-yoshitsune.json](./181522-hoshi-no-oujo-uchuu-ishiki-ni-mezameta-yoshitsune.json) |
 | Hoshi no Shirusu Shinjitsu | 394495 | [394495-hoshi-no-shirusu-shinjitsu.json](./394495-hoshi-no-shirusu-shinjitsu.json) |
+| Hoshi Ori Yume Mirai | 28250 | [28250-hoshi-ori-yume-mirai.json](./28250-hoshi-ori-yume-mirai.json) |
 | Hoshi Ori Yume Mirai: Converted Edition | 136791 | [136791-hoshi-ori-yume-mirai-converted-edition.json](./136791-hoshi-ori-yume-mirai-converted-edition.json) |
 | Hoshi Ori Yume Mirai: Perfect Edition | 150036 | [150036-hoshi-ori-yume-mirai-perfect-edition.json](./150036-hoshi-ori-yume-mirai-perfect-edition.json) |
 | Hoshi Ori Yume Mirai: Rikka to Anata no 1-Shuunen Kinen, Icha Love Birthday | 408145 | [408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json](./408145-hoshi-ori-yume-mirai-rikka-to-anata-no-1-shuunen-kinen-icha-love-birthday.json) |
