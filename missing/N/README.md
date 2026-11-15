@@ -6648,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Such Floor | 426593 | [426593-no-such-floor.json](./426593-no-such-floor.json) |
 | No Such Place | 345447 | [345447-no-such-place.json](./345447-no-such-place.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
+| No Sunrise | 422851 | [422851-no-sunrise.json](./422851-no-sunrise.json) |
 | No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
 | No Surrender: Battle of the Bulge | 73480 | [73480-no-surrender-battle-of-the-bulge.json](./73480-no-surrender-battle-of-the-bulge.json) |
 | No Sushi, No Life | 156001 | [156001-no-sushi-no-life.json](./156001-no-sushi-no-life.json) |
