@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora's Box 2 | 330804 | [330804-pandoras-box-2.json](./330804-pandoras-box-2.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Palace | 39380 | [39380-pandoras-palace.json](./39380-pandoras-palace.json) |
+| Pandora's Room | 33574 | [33574-pandoras-room.json](./33574-pandoras-room.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Pandora's Seed | 417739 | [417739-pandoras-seed.json](./417739-pandoras-seed.json) |
 | Pandora's Toybox | 368614 | [368614-pandoras-toybox.json](./368614-pandoras-toybox.json) |
@@ -4510,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penetrator | 25836 | [25836-penetrator.json](./25836-penetrator.json) |
 | Penga & Obcster's Christmish Adventure | 26757 | [26757-penga-and-obcsters-christmish-adventure.json](./26757-penga-and-obcsters-christmish-adventure.json) |
 | Penga's Peril | 68539 | [68539-pengas-peril.json](./68539-pengas-peril.json) |
+| Pengame | 32312 | [32312-pengame.json](./32312-pengame.json) |
 | Pengicitis The Game | 353324 | [353324-pengicitis-the-game.json](./353324-pengicitis-the-game.json) |
 | Pengilo | 395660 | [395660-pengilo.json](./395660-pengilo.json) |
 | Pengin-gin | 385334 | [385334-pengin-gin.json](./385334-pengin-gin.json) |
@@ -17683,6 +17685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Gotham Racing: Ferrari Edition | 221092 | [221092-project-gotham-racing-ferrari-edition.json](./221092-project-gotham-racing-ferrari-edition.json) |
 | Project Gotham Racing: Mobile | 221089 | [221089-project-gotham-racing-mobile.json](./221089-project-gotham-racing-mobile.json) |
 | Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
+| Project Graviton | 33606 | [33606-project-graviton.json](./33606-project-graviton.json) |
 | Project Gravity | 139385 | [139385-project-gravity.json](./139385-project-gravity.json) |
 | Project Gravity | 341554 | [341554-project-gravity.json](./341554-project-gravity.json) |
 | Project Green | 286050 | [286050-project-green.json](./286050-project-green.json) |
