@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo F.C. Super League | 91899 | [91899-zeebo-f-c-super-league.json](./91899-zeebo-f-c-super-league.json) |
 | Zeebo Family Pack | 100263 | [100263-zeebo-family-pack.json](./100263-zeebo-family-pack.json) |
 | Zeebo Sports Peteca | 91902 | [91902-zeebo-sports-peteca.json](./91902-zeebo-sports-peteca.json) |
+| Zeebo Sports Queimada | 66309 | [66309-zeebo-sports-queimada.json](./66309-zeebo-sports-queimada.json) |
 | Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
 | Zeebo Sports Vôlei | 92374 | [92374-zeebo-sports-volei.json](./92374-zeebo-sports-volei.json) |
 | Zeemenshu -Aftermath- | 415463 | [415463-zeemenshu-aftermath.json](./415463-zeemenshu-aftermath.json) |
