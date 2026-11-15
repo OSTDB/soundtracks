@@ -10996,6 +10996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gal Mahjong | 124074 | [124074-the-gal-mahjong.json](./124074-the-gal-mahjong.json) |
 | The Galactic Aquarium | 67832 | [67832-the-galactic-aquarium.json](./67832-the-galactic-aquarium.json) |
 | The Galactic Junkers | 204410 | [204410-the-galactic-junkers.json](./204410-the-galactic-junkers.json) |
+| The Galactic Pac-Man Brothers | 425784 | [425784-the-galactic-pac-man-brothers.json](./425784-the-galactic-pac-man-brothers.json) |
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
 | The Galaxy Rider | 265285 | [265285-the-galaxy-rider.json](./265285-the-galaxy-rider.json) |
 | The Gallagher Case | 213843 | [213843-the-gallagher-case.json](./213843-the-gallagher-case.json) |
@@ -18559,6 +18560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Showtime Katy Perry Collector's Edition | 30145 | [30145-the-sims-3-showtime-katy-perry-collectors-edition.json](./30145-the-sims-3-showtime-katy-perry-collectors-edition.json) |
 | The Sims 3: Starter Pack | 202308 | [202308-the-sims-3-starter-pack.json](./202308-the-sims-3-starter-pack.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
+| The Sims 3: Supernatural | 425776 | [425776-the-sims-3-supernatural.json](./425776-the-sims-3-supernatural.json) |
 | The Sims 3: Supernatural | 7645 | [7645-the-sims-3-supernatural.json](./7645-the-sims-3-supernatural.json) |
 | The Sims 3: Town Life Stuff | 13120 | [13120-the-sims-3-town-life-stuff.json](./13120-the-sims-3-town-life-stuff.json) |
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
