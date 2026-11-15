@@ -6011,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Secret | 260450 | [260450-deep-secret.json](./260450-deep-secret.json) |
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
 | Deep Siren | 371010 | [371010-deep-siren.json](./371010-deep-siren.json) |
+| Deep Six | 56700 | [56700-deep-six.json](./56700-deep-six.json) |
 | Deep Sixed | 29504 | [29504-deep-sixed.json](./29504-deep-sixed.json) |
 | Deep Sky | 333897 | [333897-deep-sky.json](./333897-deep-sky.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
