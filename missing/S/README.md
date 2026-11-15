@@ -8209,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
+| Shantae: Half-Genie Hero | 11078 | [11078-shantae-half-genie-hero.json](./11078-shantae-half-genie-hero.json) |
 | Shantae: Half-Genie Hero - Friends to the End | 76945 | [76945-shantae-half-genie-hero-friends-to-the-end.json](./76945-shantae-half-genie-hero-friends-to-the-end.json) |
 | Shantae: Half-Genie Hero - Pirate Queen's Quest | 55176 | [55176-shantae-half-genie-hero-pirate-queens-quest.json](./55176-shantae-half-genie-hero-pirate-queens-quest.json) |
 | Shantae: Half-Genie Hero - Risky Beats Edition | 51140 | [51140-shantae-half-genie-hero-risky-beats-edition.json](./51140-shantae-half-genie-hero-risky-beats-edition.json) |
@@ -9388,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Liberation Dx2 | 57019 | [57019-shin-megami-tensei-liberation-dx2.json](./57019-shin-megami-tensei-liberation-dx2.json) |
 | Shin Megami Tensei: Nine | 6050 | [6050-shin-megami-tensei-nine.json](./6050-shin-megami-tensei-nine.json) |
+| Shin Megami Tensei: Nocturne | 9669 | [9669-shin-megami-tensei-nocturne.json](./9669-shin-megami-tensei-nocturne.json) |
 | Shin Megami Tensei: Nocturne - Hardtype | 135678 | [135678-shin-megami-tensei-nocturne-hardtype.json](./135678-shin-megami-tensei-nocturne-hardtype.json) |
 | Shin Megami Tensei: Nocturne Randomizer | 142296 | [142296-shin-megami-tensei-nocturne-randomizer.json](./142296-shin-megami-tensei-nocturne-randomizer.json) |
 | Shin Megami Tensei: Persona | 21842 | [21842-shin-megami-tensei-persona.json](./21842-shin-megami-tensei-persona.json) |
@@ -13347,6 +13349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat 3D Premium | 369336 | [369336-skat-3d-premium.json](./369336-skat-3d-premium.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skat und mehr | 93451 | [93451-skat-und-mehr.json](./93451-skat-und-mehr.json) |
+| Skate | 2585 | [2585-skate.json](./2585-skate.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
 | Skate 2 | 2586 | [2586-skate-2.json](./2586-skate-2.json) |
@@ -35958,6 +35961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Rainbow Road | 250090 | [250090-super-mario-rainbow-road.json](./250090-super-mario-rainbow-road.json) |
 | Super Mario Rampage! | 334881 | [334881-super-mario-rampage.json](./334881-super-mario-rampage.json) |
 | Super Mario Redux | 281807 | [281807-super-mario-redux.json](./281807-super-mario-redux.json) |
+| Super Mario RPG | 254327 | [254327-super-mario-rpg.json](./254327-super-mario-rpg.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Armageddon | 215071 | [215071-super-mario-rpg-armageddon.json](./215071-super-mario-rpg-armageddon.json) |
 | Super Mario RPG: Legend of the Five Pendants | 135134 | [135134-super-mario-rpg-legend-of-the-five-pendants.json](./135134-super-mario-rpg-legend-of-the-five-pendants.json) |
