@@ -4767,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aerthlings | 373441 | [373441-aerthlings.json](./373441-aerthlings.json) |
 | Aeruta | 277563 | [277563-aeruta.json](./277563-aeruta.json) |
+| Aery | 121562 | [121562-aery.json](./121562-aery.json) |
 | Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
 | Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
@@ -9687,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
+| Amberskull | 56208 | [56208-amberskull.json](./56208-amberskull.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Amberstar | 2424 | [2424-amberstar.json](./2424-amberstar.json) |
 | Ambidextro | 328138 | [328138-ambidextro.json](./328138-ambidextro.json) |
@@ -9934,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
 | American Oudan Ultra Quiz | 305026 | [305026-american-oudan-ultra-quiz.json](./305026-american-oudan-ultra-quiz.json) |
+| American Patriots: Boston Tea Party | 55741 | [55741-american-patriots-boston-tea-party.json](./55741-american-patriots-boston-tea-party.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Pickers | 52393 | [52393-american-pickers.json](./52393-american-pickers.json) |
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
@@ -18292,6 +18295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
 | Astro Duel | 33856 | [33856-astro-duel.json](./33856-astro-duel.json) |
 | Astro Duel 2 | 217131 | [217131-astro-duel-2.json](./217131-astro-duel-2.json) |
+| Astro Duel Deluxe | 56030 | [56030-astro-duel-deluxe.json](./56030-astro-duel-deluxe.json) |
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
