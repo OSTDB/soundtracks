@@ -24438,6 +24438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
 | Mystery Tales: Dealer's Choices - Collector's Edition | 357675 | [357675-mystery-tales-dealers-choices-collectors-edition.json](./357675-mystery-tales-dealers-choices-collectors-edition.json) |
+| Mystery Tales: Eye of the Fire | 54616 | [54616-mystery-tales-eye-of-the-fire.json](./54616-mystery-tales-eye-of-the-fire.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
