@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
 | F-1 Race | 240167 | [240167-f-1-race.json](./240167-f-1-race.json) |
 | F-1 Spirit 3D Special | 41705 | [41705-f-1-spirit-3d-special.json](./41705-f-1-spirit-3d-special.json) |
+| F-1 Spirit: the Way to Formula-1 | 41649 | [41649-f-1-spirit-the-way-to-formula-1.json](./41649-f-1-spirit-the-way-to-formula-1.json) |
 | F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix | 3487 | [3487-f-1-world-grand-prix.json](./3487-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
@@ -1599,6 +1600,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Fame Quest | 47190 | [47190-fame-quest.json](./47190-fame-quest.json) |
+| Famicle Parodic | 41633 | [41633-famicle-parodic.json](./41633-famicle-parodic.json) |
+| Famicle Parodic 2 | 41635 | [41635-famicle-parodic-2.json](./41635-famicle-parodic-2.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
 | Famicom Detective Club: The Missing Heir | 122244 | [122244-famicom-detective-club-the-missing-heir.json](./122244-famicom-detective-club-the-missing-heir.json) |
@@ -1681,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Board Games | 194749 | [194749-family-board-games.json](./194749-family-board-games.json) |
 | Family Board Games Bundle | 284702 | [284702-family-board-games-bundle.json](./284702-family-board-games-bundle.json) |
 | Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
+| Family Boxing: MSX Title Match | 41634 | [41634-family-boxing-msx-title-match.json](./41634-family-boxing-msx-title-match.json) |
 | Family Bundle | 223759 | [223759-family-bundle.json](./223759-family-bundle.json) |
 | Family Bundle | 370825 | [370825-family-bundle.json](./370825-family-bundle.json) |
 | Family Business | 235669 | [235669-family-business.json](./235669-family-business.json) |
@@ -5580,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics: The Lion War of the Lions | 254303 | [254303-final-fantasy-tactics-the-lion-war-of-the-lions.json](./254303-final-fantasy-tactics-the-lion-war-of-the-lions.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD: Collector's Edition | 41842 | [41842-final-fantasy-type-0-hd-collectors-edition.json](./41842-final-fantasy-type-0-hd-collectors-edition.json) |
+| Final Fantasy Type-0 HD: Fr4me Limited Edition | 41638 | [41638-final-fantasy-type-0-hd-fr4me-limited-edition.json](./41638-final-fantasy-type-0-hd-fr4me-limited-edition.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
 | Final Fantasy Ultra | 143194 | [143194-final-fantasy-ultra.json](./143194-final-fantasy-ultra.json) |
 | Final Fantasy V | 146069 | [146069-final-fantasy-v.json](./146069-final-fantasy-v.json) |
