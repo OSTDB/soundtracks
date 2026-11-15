@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fist | 62541 | [62541-action-fist.json](./62541-action-fist.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
+| Action Force: International Heroes | 54627 | [54627-action-force-international-heroes.json](./54627-action-force-international-heroes.json) |
 | Action Force: International Heroes | 59503 | [59503-action-force-international-heroes.json](./59503-action-force-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Game Maker | 344533 | [344533-action-game-maker.json](./344533-action-game-maker.json) |
@@ -4301,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time Run: The Ooo Expedition | 109985 | [109985-adventure-time-run-the-ooo-expedition.json](./109985-adventure-time-run-the-ooo-expedition.json) |
 | Adventure Time: Battle Party | 20096 | [20096-adventure-time-battle-party.json](./20096-adventure-time-battle-party.json) |
 | Adventure Time: Blind Finned | 63658 | [63658-adventure-time-blind-finned.json](./63658-adventure-time-blind-finned.json) |
+| Adventure Time: Champions & Challengers | 54614 | [54614-adventure-time-champions-and-challengers.json](./54614-adventure-time-champions-and-challengers.json) |
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
@@ -11942,6 +11944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankhway: The Interplanetary Legacy | 344876 | [344876-ankhway-the-interplanetary-legacy.json](./344876-ankhway-the-interplanetary-legacy.json) |
 | Anki | 54737 | [54737-anki.json](./54737-anki.json) |
+| Anki Overdrive: Supertrucks | 54620 | [54620-anki-overdrive-supertrucks.json](./54620-anki-overdrive-supertrucks.json) |
 | Ankoku Densetsu | 38095 | [38095-ankoku-densetsu.json](./38095-ankoku-densetsu.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
