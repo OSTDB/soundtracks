@@ -7705,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivy the Kiwi? Mini | 85204 | [85204-ivy-the-kiwi-mini.json](./85204-ivy-the-kiwi-mini.json) |
 | Ivy‘s Dream Cafe | 403217 | [403217-ivy-s-dream-cafe.json](./403217-ivy-s-dream-cafe.json) |
 | IW4x | 225358 | [225358-iw4x.json](./225358-iw4x.json) |
+| IWA Fighting Adventure | 420893 | [420893-iwa-fighting-adventure.json](./420893-iwa-fighting-adventure.json) |
 | IWA Retro Adventure | 361292 | [361292-iwa-retro-adventure.json](./361292-iwa-retro-adventure.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus | 229950 | [229950-iwai-keitai-kaitsuu-tamagotchi-plus.json](./229950-iwai-keitai-kaitsuu-tamagotchi-plus.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
