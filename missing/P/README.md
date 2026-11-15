@@ -3043,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Project | 273981 | [273981-party-project.json](./273981-party-project.json) |
 | Party Quest | 220623 | [220623-party-quest.json](./220623-party-quest.json) |
 | Party Quiz | 223275 | [223275-party-quiz.json](./223275-party-quiz.json) |
+| Party Quiz Mega Q | 45611 | [45611-party-quiz-mega-q.json](./45611-party-quiz-mega-q.json) |
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
@@ -5794,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 96 | 4285 | [4285-pga-tour-96.json](./4285-pga-tour-96.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
+| PGA Tour 97 | 45484 | [45484-pga-tour-97.json](./45484-pga-tour-97.json) |
 | PGA Tour Gold | 69971 | [69971-pga-tour-gold.json](./69971-pga-tour-gold.json) |
 | PGA Tour Golf | 12714 | [12714-pga-tour-golf.json](./12714-pga-tour-golf.json) |
 | PGA Tour Golf | 217729 | [217729-pga-tour-golf.json](./217729-pga-tour-golf.json) |
