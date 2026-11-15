@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
+| Tea Party for 4 | 425118 | [425118-tea-party-for-4.json](./425118-tea-party-for-4.json) |
 | Tea Party Simulator 2015 | 35559 | [35559-tea-party-simulator-2015.json](./35559-tea-party-simulator-2015.json) |
 | Tea Party Zombie Must Die | 217600 | [217600-tea-party-zombie-must-die.json](./217600-tea-party-zombie-must-die.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
@@ -9389,6 +9390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Dog: Happy Life | 269421 | [269421-the-dog-happy-life.json](./269421-the-dog-happy-life.json) |
 | The Dog: Happy Life McDonald's Ver. | 269422 | [269422-the-dog-happy-life-mcdonalds-ver.json](./269422-the-dog-happy-life-mcdonalds-ver.json) |
+| The Doi | 425121 | [425121-the-doi.json](./425121-the-doi.json) |
 | The Doinksoft Collection | 320001 | [320001-the-doinksoft-collection.json](./320001-the-doinksoft-collection.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
@@ -37122,6 +37124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
 | Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
+| Twin Drive | 425143 | [425143-twin-drive.json](./425143-twin-drive.json) |
 | Twin Eagle | 247300 | [247300-twin-eagle.json](./247300-twin-eagle.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
@@ -37658,6 +37661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
+| Type the World | 425137 | [425137-type-the-world.json](./425137-type-the-world.json) |
 | Type Them All | 331062 | [331062-type-them-all.json](./331062-type-them-all.json) |
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
 | Type To Kill | 396696 | [396696-type-to-kill.json](./396696-type-to-kill.json) |
