@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Okaasan | 360846 | [360846-sayonara-okaasan.json](./360846-sayonara-okaasan.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
 | Sayonara Umihara Kawase | 27108 | [27108-sayonara-umihara-kawase.json](./27108-sayonara-umihara-kawase.json) |
+| Sayonara Umihara Kawase + | 27109 | [27109-sayonara-umihara-kawase.json](./27109-sayonara-umihara-kawase.json) |
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
 | Sayonara UmiharaKawase ++ | 110017 | [110017-sayonara-umiharakawase.json](./110017-sayonara-umiharakawase.json) |
 | Sayonara Wild Hearts | 113107 | [113107-sayonara-wild-hearts.json](./113107-sayonara-wild-hearts.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School of Horror | 104148 | [104148-school-of-horror.json](./104148-school-of-horror.json) |
 | School Of Love: Clubs! | 290305 | [290305-school-of-love-clubs.json](./290305-school-of-love-clubs.json) |
 | School of Magic | 133120 | [133120-school-of-magic.json](./133120-school-of-magic.json) |
+| School of Ragnarok | 27013 | [27013-school-of-ragnarok.json](./27013-school-of-ragnarok.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School of the Dead: Anastasia | 112579 | [112579-school-of-the-dead-anastasia.json](./112579-school-of-the-dead-anastasia.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
@@ -13853,6 +13855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish Mayhem | 224428 | [224428-skirmish-mayhem.json](./224428-skirmish-mayhem.json) |
 | Skirmish Squad | 280377 | [280377-skirmish-squad.json](./280377-skirmish-squad.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
+| Skitchin' | 27075 | [27075-skitchin.json](./27075-skitchin.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
 | Skizz | 301857 | [301857-skizz.json](./301857-skizz.json) |
@@ -25057,6 +25060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
 | Splitter | 90241 | [90241-splitter.json](./90241-splitter.json) |
 | Splitter 2 | 90242 | [90242-splitter-2.json](./90242-splitter-2.json) |
+| Splitter Critters | 27036 | [27036-splitter-critters.json](./27036-splitter-critters.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splitz | 60266 | [60266-splitz.json](./60266-splitz.json) |
@@ -28867,6 +28871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
 | Static Dread: The Lighthouse | 330815 | [330815-static-dread-the-lighthouse.json](./330815-static-dread-the-lighthouse.json) |
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
+| Static Hero | 27058 | [27058-static-hero.json](./27058-static-hero.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Mag | 265812 | [265812-static-mag.json](./265812-static-mag.json) |
 | Static Memory | 350232 | [350232-static-memory.json](./350232-static-memory.json) |
