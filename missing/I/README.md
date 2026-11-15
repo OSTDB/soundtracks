@@ -6362,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irang | 304637 | [304637-irang.json](./304637-irang.json) |
 | Irang: The Last Hope | 257395 | [257395-irang-the-last-hope.json](./257395-irang-the-last-hope.json) |
 | Iraq War | 165731 | [165731-iraq-war.json](./165731-iraq-war.json) |
+| Iraq War 2003 | 46157 | [46157-iraq-war-2003.json](./46157-iraq-war-2003.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Iratus: Lord of the Dead | 93694 | [93694-iratus-lord-of-the-dead.json](./93694-iratus-lord-of-the-dead.json) |
 | Iratus: Lord of the Dead - Wrath of the Necromancer | 154676 | [154676-iratus-lord-of-the-dead-wrath-of-the-necromancer.json](./154676-iratus-lord-of-the-dead-wrath-of-the-necromancer.json) |
