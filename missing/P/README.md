@@ -10911,6 +10911,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerUnknown's Battlegrounds: Season 7 | 135139 | [135139-playerunknowns-battlegrounds-season-7.json](./135139-playerunknowns-battlegrounds-season-7.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayerUnknown's Battlegrounds: Season 9 | 140975 | [140975-playerunknowns-battlegrounds-season-9.json](./140975-playerunknowns-battlegrounds-season-9.json) |
+| Playfield.Earth | 75988 | [75988-playfield-earth.json](./75988-playfield-earth.json) |
+| Playfield.Earth / Urban Management | 75989 | [75989-playfield-earth-urban-management.json](./75989-playfield-earth-urban-management.json) |
 | PlayForm: Human Dynamics | 202436 | [202436-playform-human-dynamics.json](./202436-playform-human-dynamics.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | Playful Math | 104439 | [104439-playful-math.json](./104439-playful-math.json) |
@@ -14048,6 +14050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Plus: Solo | 67886 | [67886-pop-plus-solo.json](./67886-pop-plus-solo.json) |
 | Pop Pop | 204211 | [204211-pop-pop.json](./204211-pop-pop.json) |
 | Pop Pop Ball: Popping Matching Colors Game | 94795 | [94795-pop-pop-ball-popping-matching-colors-game.json](./94795-pop-pop-ball-popping-matching-colors-game.json) |
+| Pop Pop Boom Boom | 76046 | [76046-pop-pop-boom-boom.json](./76046-pop-pop-boom-boom.json) |
 | Pop Pop Pop | 54283 | [54283-pop-pop-pop.json](./54283-pop-pop-pop.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
