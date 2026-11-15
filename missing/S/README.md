@@ -13906,6 +13906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skoof Simulator | 326343 | [326343-skoof-simulator.json](./326343-skoof-simulator.json) |
 | Skooky | 131111 | [131111-skooky.json](./131111-skooky.json) |
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
+| Skool Daze | 23079 | [23079-skool-daze.json](./23079-skool-daze.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skooter | 410637 | [410637-skooter.json](./410637-skooter.json) |
@@ -21577,6 +21578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
 | Space Between Worlds | 108306 | [108306-space-between-worlds.json](./108306-space-between-worlds.json) |
 | Space Bit Attack | 19046 | [19046-space-bit-attack.json](./19046-space-bit-attack.json) |
+| Space Bits | 24550 | [24550-space-bits.json](./24550-space-bits.json) |
 | Space Blade | 266598 | [266598-space-blade.json](./266598-space-blade.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
@@ -22152,6 +22154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Job | 70219 | [70219-space-job.json](./70219-space-job.json) |
 | Space Jockey | 18679 | [18679-space-jockey.json](./18679-space-jockey.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
+| Space Journey | 24558 | [24558-space-journey.json](./24558-space-journey.json) |
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
 | Space Junk | 158849 | [158849-space-junk.json](./158849-space-junk.json) |
@@ -27444,6 +27447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Outposts Unknown | 405102 | [405102-star-trek-outposts-unknown.json](./405102-star-trek-outposts-unknown.json) |
 | Star Trek: Phaser Strike | 68129 | [68129-star-trek-phaser-strike.json](./68129-star-trek-phaser-strike.json) |
 | Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
+| Star Trek: Rivals | 24551 | [24551-star-trek-rivals.json](./24551-star-trek-rivals.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
@@ -29294,6 +29298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
 | SteamWorld Heist: Hatbox - Hatful Eight + 2 | 124849 | [124849-steamworld-heist-hatbox-hatful-eight-2.json](./124849-steamworld-heist-hatbox-hatful-eight-2.json) |
+| SteamWorld Heist: The Outsider | 24420 | [24420-steamworld-heist-the-outsider.json](./24420-steamworld-heist-the-outsider.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
 | SteamWorld Quest: Hand of Gilgamech | 114415 | [114415-steamworld-quest-hand-of-gilgamech.json](./114415-steamworld-quest-hand-of-gilgamech.json) |
 | Steamwrecked | 387023 | [387023-steamwrecked.json](./387023-steamwrecked.json) |
@@ -30552,6 +30557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Bus! | 187701 | [187701-stop-the-bus.json](./187701-stop-the-bus.json) |
 | Stop the Crawl | 247733 | [247733-stop-the-crawl.json](./247733-stop-the-crawl.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
+| Stop the Express | 23076 | [23076-stop-the-express.json](./23076-stop-the-express.json) |
 | Stop The F | 304509 | [304509-stop-the-f.json](./304509-stop-the-f.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
@@ -32997,6 +33003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Acres | 298196 | [298196-sudoku-acres.json](./298196-sudoku-acres.json) |
 | Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
+| Sudoku Ball: Detective | 24349 | [24349-sudoku-ball-detective.json](./24349-sudoku-ball-detective.json) |
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
 | Sudoku Battle | 327665 | [327665-sudoku-battle.json](./327665-sudoku-battle.json) |
 | Sudoku but it's on the MD | 263429 | [263429-sudoku-but-its-on-the-md.json](./263429-sudoku-but-its-on-the-md.json) |
