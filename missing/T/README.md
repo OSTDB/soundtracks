@@ -10447,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifteen Puzzle | 239980 | [239980-the-fifteen-puzzle.json](./239980-the-fifteen-puzzle.json) |
 | The Fifteenth: A Pluvial Prelude | 406565 | [406565-the-fifteenth-a-pluvial-prelude.json](./406565-the-fifteenth-a-pluvial-prelude.json) |
 | The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
+| The Fifth Axis | 13278 | [13278-the-fifth-axis.json](./13278-the-fifth-axis.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
 | The Fifth Day | 17599 | [17599-the-fifth-day.json](./17599-the-fifth-day.json) |
 | The Fifth Disciple | 73185 | [73185-the-fifth-disciple.json](./73185-the-fifth-disciple.json) |
@@ -25782,6 +25783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time to Repair | 91234 | [91234-time-to-repair.json](./91234-time-to-repair.json) |
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
+| Time to Rise | 13309 | [13309-time-to-rise.json](./13309-time-to-rise.json) |
 | Time to Star II | 338962 | [338962-time-to-star-ii.json](./338962-time-to-star-ii.json) |
 | Time to Stop Time | 121452 | [121452-time-to-stop-time.json](./121452-time-to-stop-time.json) |
 | Time to Strike | 267139 | [267139-time-to-strike.json](./267139-time-to-strike.json) |
