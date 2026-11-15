@@ -14953,6 +14953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Blood and Sand Pack | 227160 | [227160-conan-exiles-blood-and-sand-pack.json](./227160-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Complete Edition | 118696 | [118696-conan-exiles-complete-edition.json](./118696-conan-exiles-complete-edition.json) |
+| Conan Exiles: Day One Edition | 36609 | [36609-conan-exiles-day-one-edition.json](./36609-conan-exiles-day-one-edition.json) |
 | Conan Exiles: Debaucheries of Derketo | 123681 | [123681-conan-exiles-debaucheries-of-derketo.json](./123681-conan-exiles-debaucheries-of-derketo.json) |
 | Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
 | Conan Exiles: Deluxe Edition | 118697 | [118697-conan-exiles-deluxe-edition.json](./118697-conan-exiles-deluxe-edition.json) |
@@ -23309,6 +23310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybloc | 155793 | [155793-cybloc.json](./155793-cybloc.json) |
 | Cybo War | 99898 | [99898-cybo-war.json](./99898-cybo-war.json) |
 | Cyborg | 18748 | [18748-cyborg.json](./18748-cyborg.json) |
+| Cyborg | 36554 | [36554-cyborg.json](./36554-cyborg.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
 | Cyborg Arena | 59228 | [59228-cyborg-arena.json](./59228-cyborg-arena.json) |
