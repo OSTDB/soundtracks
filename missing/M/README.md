@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Mojo | 393292 | [393292-mad-mojo.json](./393292-mad-mojo.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Mosh | 158091 | [158091-mad-mosh.json](./158091-mad-mosh.json) |
+| Mad Motor | 37334 | [37334-mad-motor.json](./37334-mad-motor.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
 | Mad Mustache | 152789 | [152789-mad-mustache.json](./152789-mad-mustache.json) |
 | Mad Muzzles | 41925 | [41925-mad-muzzles.json](./41925-mad-muzzles.json) |
@@ -2337,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahJong: Medieval Fantasy | 171511 | [171511-mahjong-medieval-fantasy.json](./171511-mahjong-medieval-fantasy.json) |
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Orient Mysteries | 402736 | [402736-mahjong-orient-mysteries.json](./402736-mahjong-orient-mysteries.json) |
+| Mahjong: Touryuumon | 37461 | [37461-mahjong-touryuumon.json](./37461-mahjong-touryuumon.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjong! | 108561 | [108561-mahjong.json](./108561-mahjong.json) |
 | Mahjong!! | 89107 | [89107-mahjong.json](./89107-mahjong.json) |
@@ -5528,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Forces: Zombie Survival | 41909 | [41909-masked-forces-zombie-survival.json](./41909-masked-forces-zombie-survival.json) |
 | Masked io | 288932 | [288932-masked-io.json](./288932-masked-io.json) |
 | Masked Ninja Action | 164702 | [164702-masked-ninja-action.json](./164702-masked-ninja-action.json) |
+| Masked Riders Club: Battle Race | 37333 | [37333-masked-riders-club-battle-race.json](./37333-masked-riders-club-battle-race.json) |
 | Masked Shooters | 36519 | [36519-masked-shooters.json](./36519-masked-shooters.json) |
 | Masked Shooters 2 | 33746 | [33746-masked-shooters-2.json](./33746-masked-shooters-2.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
@@ -16352,6 +16355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mockbuster Video | 405850 | [405850-mockbuster-video.json](./405850-mockbuster-video.json) |
 | Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
 | Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
+| Mocove Arts VR | 37410 | [37410-mocove-arts-vr.json](./37410-mocove-arts-vr.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Mod Shooter | 311846 | [311846-mod-shooter.json](./311846-mod-shooter.json) |
 | Mod&Play | 134297 | [134297-mod-and-play.json](./134297-mod-and-play.json) |
@@ -19119,6 +19123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morita no Battle Field | 123170 | [123170-morita-no-battle-field.json](./123170-morita-no-battle-field.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
+| Morita Shogi for WonderSwan | 37460 | [37460-morita-shogi-for-wonderswan.json](./37460-morita-shogi-for-wonderswan.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
 | Moritaka Chisato Safari Tokyo | 313065 | [313065-moritaka-chisato-safari-tokyo.json](./313065-moritaka-chisato-safari-tokyo.json) |
 | Morituri Te Salutant | 305809 | [305809-morituri-te-salutant.json](./305809-morituri-te-salutant.json) |
