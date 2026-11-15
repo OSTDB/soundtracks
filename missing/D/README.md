@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Maze | 76103 | [76103-dark-maze.json](./76103-dark-maze.json) |
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
 | Dark Meadow: The Pact | 65599 | [65599-dark-meadow-the-pact.json](./65599-dark-meadow-the-pact.json) |
+| Dark Mechanism | 29321 | [29321-dark-mechanism.json](./29321-dark-mechanism.json) |
 | Dark Memories: Investigation | 303459 | [303459-dark-memories-investigation.json](./303459-dark-memories-investigation.json) |
 | Dark Memories: Prologue | 284829 | [284829-dark-memories-prologue.json](./284829-dark-memories-prologue.json) |
 | Dark Memory | 422653 | [422653-dark-memory.json](./422653-dark-memory.json) |
@@ -8047,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Falcon | 11870 | [11870-desert-falcon.json](./11870-desert-falcon.json) |
 | Desert Falcon | 277550 | [277550-desert-falcon.json](./277550-desert-falcon.json) |
 | Desert Fighters | 209100 | [209100-desert-fighters.json](./209100-desert-fighters.json) |
+| Desert Fighting | 29318 | [29318-desert-fighting.json](./29318-desert-fighting.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
 | Desert Fox: The Battle of El Alamein | 22261 | [22261-desert-fox-the-battle-of-el-alamein.json](./22261-desert-fox-the-battle-of-el-alamein.json) |
@@ -10517,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Escape | 330111 | [330111-dimension-escape.json](./330111-dimension-escape.json) |
 | Dimension Fight | 286789 | [286789-dimension-fight.json](./286789-dimension-fight.json) |
 | Dimension Hunter VR | 98212 | [98212-dimension-hunter-vr.json](./98212-dimension-hunter-vr.json) |
+| Dimension Jump | 30272 | [30272-dimension-jump.json](./30272-dimension-jump.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension M: Evolver | 70012 | [70012-dimension-m-evolver.json](./70012-dimension-m-evolver.json) |
 | Dimension of Dreams | 155881 | [155881-dimension-of-dreams.json](./155881-dimension-of-dreams.json) |
@@ -13969,6 +13972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
 | Don't Feed | 65794 | [65794-dont-feed.json](./65794-dont-feed.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
+| Don't Feed the Animals | 30158 | [30158-dont-feed-the-animals.json](./30158-dont-feed-the-animals.json) |
 | Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
 | Don't Feed the Slimes! | 103797 | [103797-dont-feed-the-slimes.json](./103797-dont-feed-the-slimes.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
@@ -15659,6 +15663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
 | Doudy | 132467 | [132467-doudy.json](./132467-doudy.json) |
 | Doug | 198731 | [198731-doug.json](./198731-doug.json) |
+| Doug and Lily | 29338 | [29338-doug-and-lily.json](./29338-doug-and-lily.json) |
 | Doug Dug | 39243 | [39243-doug-dug.json](./39243-doug-dug.json) |
 | Doug From Accounting | 179888 | [179888-doug-from-accounting.json](./179888-doug-from-accounting.json) |
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
@@ -17353,6 +17358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonVale | 22705 | [22705-dragonvale.json](./22705-dragonvale.json) |
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
+| DragonWingsVR | 30295 | [30295-dragonwingsvr.json](./30295-dragonwingsvr.json) |
 | Dragonworld | 24778 | [24778-dragonworld.json](./24778-dragonworld.json) |
 | Dragonyhm | 240428 | [240428-dragonyhm.json](./240428-dragonyhm.json) |
 | Dragoon | 62788 | [62788-dragoon.json](./62788-dragoon.json) |
@@ -18031,6 +18037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
 | Dream Star | 89034 | [89034-dream-star.json](./89034-dream-star.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
+| Dream Stone | 29291 | [29291-dream-stone.json](./29291-dream-stone.json) |
 | Dream Stone 2 | 155292 | [155292-dream-stone-2.json](./155292-dream-stone-2.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
 | Dream Story: Origin | 116012 | [116012-dream-story-origin.json](./116012-dream-story-origin.json) |
