@@ -6386,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
 | Herald of the Depths | 117399 | [117399-herald-of-the-depths.json](./117399-herald-of-the-depths.json) |
 | Herald of the Mists | 310501 | [310501-herald-of-the-mists.json](./310501-herald-of-the-mists.json) |
+| Herald: An Interactive Period Drama - Book I & II | 27411 | [27411-herald-an-interactive-period-drama-book-i-and-ii.json](./27411-herald-an-interactive-period-drama-book-i-and-ii.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of Silence. Chapter one | 238682 | [238682-heralds-of-silence-chapter-one.json](./238682-heralds-of-silence-chapter-one.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
@@ -6921,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
 | Heroes of Hammerwatch: Moon Temple | 143184 | [143184-heroes-of-hammerwatch-moon-temple.json](./143184-heroes-of-hammerwatch-moon-temple.json) |
 | Heroes of Hammerwatch: Pyramid of Prophecy | 125001 | [125001-heroes-of-hammerwatch-pyramid-of-prophecy.json](./125001-heroes-of-hammerwatch-pyramid-of-prophecy.json) |
+| Heroes of Hammerwatch: Ultimate Edition | 143185 | [143185-heroes-of-hammerwatch-ultimate-edition.json](./143185-heroes-of-hammerwatch-ultimate-edition.json) |
 | Heroes of Hammerwatch: Witch Hunter | 124902 | [124902-heroes-of-hammerwatch-witch-hunter.json](./124902-heroes-of-hammerwatch-witch-hunter.json) |
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
@@ -10429,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home is a Snow Globe | 140707 | [140707-home-is-a-snow-globe.json](./140707-home-is-a-snow-globe.json) |
 | Home Is Where Chip Is | 128804 | [128804-home-is-where-chip-is.json](./128804-home-is-where-chip-is.json) |
 | Home Is Where He Is | 411204 | [411204-home-is-where-he-is.json](./411204-home-is-where-he-is.json) |
+| Home is Where One Starts... | 27267 | [27267-home-is-where-one-starts.json](./27267-home-is-where-one-starts.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home is Where the Heart is | 318704 | [318704-home-is-where-the-heart-is.json](./318704-home-is-where-the-heart-is.json) |
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
