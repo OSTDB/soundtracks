@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Showdown | 325380 | [325380-elemental-showdown.json](./325380-elemental-showdown.json) |
 | Elemental Slime | 346282 | [346282-elemental-slime.json](./346282-elemental-slime.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
+| Elemental Story | 57298 | [57298-elemental-story.json](./57298-elemental-story.json) |
 | Elemental Strike: Mirage Tower | 132107 | [132107-elemental-strike-mirage-tower.json](./132107-elemental-strike-mirage-tower.json) |
 | Elemental Surge | 339735 | [339735-elemental-surge.json](./339735-elemental-surge.json) |
 | Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
