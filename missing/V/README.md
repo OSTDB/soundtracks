@@ -4656,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRogue | 264211 | [264211-vrogue.json](./264211-vrogue.json) |
 | Vroom | 12813 | [12813-vroom.json](./12813-vroom.json) |
 | Vroom Data Disk | 330763 | [330763-vroom-data-disk.json](./330763-vroom-data-disk.json) |
+| Vroom in the Night Sky | 27527 | [27527-vroom-in-the-night-sky.json](./27527-vroom-in-the-night-sky.json) |
 | Vroom Kaboom | 96847 | [96847-vroom-kaboom.json](./96847-vroom-kaboom.json) |
 | Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
