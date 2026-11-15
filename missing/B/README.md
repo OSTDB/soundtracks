@@ -8,6 +8,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | b | 90629 | [90629-b.json](./90629-b.json) |
 | B 2 | 155681 | [155681-b-2.json](./155681-b-2.json) |
+| B B-Daman Bakugaiden V: Final Mega Tune | 65671 | [65671-b-b-daman-bakugaiden-v-final-mega-tune.json](./65671-b-b-daman-bakugaiden-v-final-mega-tune.json) |
+| B B-Daman Bakugaiden: Victory he no Michi | 65670 | [65670-b-b-daman-bakugaiden-victory-he-no-michi.json](./65670-b-b-daman-bakugaiden-victory-he-no-michi.json) |
 | B Cannon | 246892 | [246892-b-cannon.json](./246892-b-cannon.json) |
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
@@ -1361,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
 | Bakukyuu Renpatsu!! Super B-Daman | 42520 | [42520-bakukyuu-renpatsu-super-b-daman.json](./42520-bakukyuu-renpatsu-super-b-daman.json) |
+| Bakukyuu Renpatsu!! Super B-Daman Gekitan! Rising Valkyrie! | 65669 | [65669-bakukyuu-renpatsu-super-b-daman-gekitan-rising-valkyrie.json](./65669-bakukyuu-renpatsu-super-b-daman-gekitan-rising-valkyrie.json) |
 | Bakuman: Mangaka he no Michi | 65745 | [65745-bakuman-mangaka-he-no-michi.json](./65745-bakuman-mangaka-he-no-michi.json) |
 | BakuMari | 157284 | [157284-bakumari.json](./157284-bakumari.json) |
 | Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
@@ -1407,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakusou Dekotora Densetsu 2: Otoko Jinsei Yume Ichiro | 60416 | [60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json](./60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json) |
 | Bakusou Dekotora Densetsu Black | 60413 | [60413-bakusou-dekotora-densetsu-black.json](./60413-bakusou-dekotora-densetsu-black.json) |
 | Bakusou Dekotora Densetsu for WonderSwan | 37524 | [37524-bakusou-dekotora-densetsu-for-wonderswan.json](./37524-bakusou-dekotora-densetsu-for-wonderswan.json) |
+| Bakusou Dekotora Densetsu GB Special: Otoko Dokyou no Tenka Touitsu | 65668 | [65668-bakusou-dekotora-densetsu-gb-special-otoko-dokyou-no-tenka-touitsu.json](./65668-bakusou-dekotora-densetsu-gb-special-otoko-dokyou-no-tenka-touitsu.json) |
 | Bakusou Dekotora Densetsu: Otoko Hanamichi Yume Roman | 60415 | [60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json](./60415-bakusou-dekotora-densetsu-otoko-hanamichi-yume-roman.json) |
 | Bakusou Dekotora Densetsu: Otoko Ippiki Yume Kaidoi | 60417 | [60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json](./60417-bakusou-dekotora-densetsu-otoko-ippiki-yume-kaidoi.json) |
 | Bakusou Kyoudai Let's & Go!! | 221010 | [221010-bakusou-kyoudai-lets-and-go.json](./221010-bakusou-kyoudai-lets-and-go.json) |
@@ -6109,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania featuring Dreams Come True | 308989 | [308989-beatmania-featuring-dreams-come-true.json](./308989-beatmania-featuring-dreams-come-true.json) |
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
+| Beatmania GB Gotcha Mix 2 | 65667 | [65667-beatmania-gb-gotcha-mix-2.json](./65667-beatmania-gb-gotcha-mix-2.json) |
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
 | Beatmania IIDX | 94920 | [94920-beatmania-iidx.json](./94920-beatmania-iidx.json) |
 | Beatmania IIDX 10th style | 94025 | [94025-beatmania-iidx-10th-style.json](./94025-beatmania-iidx-10th-style.json) |
@@ -8263,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter: Ultimate Trophy - Deluxe Edition | 333717 | [333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json](./333717-big-buck-hunter-ultimate-trophy-deluxe-edition.json) |
 | Big Buck Hunter: Ultimate Trophy - Mythic Hunting Pack | 333752 | [333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json](./333752-big-buck-hunter-ultimate-trophy-mythic-hunting-pack.json) |
 | Big Buck Safari | 220076 | [220076-big-buck-safari.json](./220076-big-buck-safari.json) |
+| Big Buck Safari | 65649 | [65649-big-buck-safari.json](./65649-big-buck-safari.json) |
 | Big Buck World | 144195 | [144195-big-buck-world.json](./144195-big-buck-world.json) |
 | Big Bucks | 335412 | [335412-big-bucks.json](./335412-big-bucks.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
@@ -19893,6 +19899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
 | Burn the Rope | 6577 | [6577-burn-the-rope.json](./6577-burn-the-rope.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
+| Burn the Rope Worlds | 65141 | [65141-burn-the-rope-worlds.json](./65141-burn-the-rope-worlds.json) |
 | Burn the Trash! | 122840 | [122840-burn-the-trash.json](./122840-burn-the-trash.json) |
 | Burn the Witch | 142162 | [142162-burn-the-witch.json](./142162-burn-the-witch.json) |
 | Burn the Witch | 212903 | [212903-burn-the-witch.json](./212903-burn-the-witch.json) |
