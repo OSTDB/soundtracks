@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarzon | 39346 | [39346-zarzon.json](./39346-zarzon.json) |
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
 | Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
+| Zatch Bell! Electric Arena | 65146 | [65146-zatch-bell-electric-arena.json](./65146-zatch-bell-electric-arena.json) |
 | Zatch Bell! Mamodo Battles | 4584 | [4584-zatch-bell-mamodo-battles.json](./4584-zatch-bell-mamodo-battles.json) |
 | Zatch Bell! Mamodo Fury | 4585 | [4585-zatch-bell-mamodo-fury.json](./4585-zatch-bell-mamodo-fury.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
 | Zen-Nippon Pro Wrestling: Ouja no Tamashii | 45073 | [45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json](./45073-zen-nippon-pro-wrestling-ouja-no-tamashii.json) |
 | Zen-Nippon Pro Wrestling': Sekai Saikyou Tag | 42338 | [42338-zen-nippon-pro-wrestling-sekai-saikyou-tag.json](./42338-zen-nippon-pro-wrestling-sekai-saikyou-tag.json) |
+| Zen-Nippon Shounen Soccer Taikai 2: Mezase Nippon Ichi! | 65659 | [65659-zen-nippon-shounen-soccer-taikai-2-mezase-nippon-ichi.json](./65659-zen-nippon-shounen-soccer-taikai-2-mezase-nippon-ichi.json) |
 | Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
 | Zen: A Gay Sequel | 166048 | [166048-zen-a-gay-sequel.json](./166048-zen-a-gay-sequel.json) |
 | Zen: Intergalactic Ninja | 365633 | [365633-zen-intergalactic-ninja.json](./365633-zen-intergalactic-ninja.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero no Tsukaima: Muma ga Tsumugu Yokaze no Gensoukyoku | 72642 | [72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json](./72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json) |
 | Zero One | 115811 | [115811-zero-one.json](./115811-zero-one.json) |
 | Zero One | 257546 | [257546-zero-one.json](./257546-zero-one.json) |
+| Zero One | 65657 | [65657-zero-one.json](./65657-zero-one.json) |
 | Zero One Protocol | 405142 | [405142-zero-one-protocol.json](./405142-zero-one-protocol.json) |
 | Zero One SP | 93952 | [93952-zero-one-sp.json](./93952-zero-one-sp.json) |
 | Zero Online | 66767 | [66767-zero-online.json](./66767-zero-online.json) |
@@ -1207,7 +1210,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Muteki Raijin-Oh | 49133 | [49133-zettai-muteki-raijin-oh.json](./49133-zettai-muteki-raijin-oh.json) |
 | Zettai Onkan Master | 122525 | [122525-zettai-onkan-master.json](./122525-zettai-onkan-master.json) |
 | Zettai Onkan Otoda Master | 122526 | [122526-zettai-onkan-otoda-master.json](./122526-zettai-onkan-otoda-master.json) |
+| Zettai Zetsumei Dangerous Jiisan 3: Hateshinaki Mamonogatari | 65658 | [65658-zettai-zetsumei-dangerous-jiisan-3-hateshinaki-mamonogatari.json](./65658-zettai-zetsumei-dangerous-jiisan-3-hateshinaki-mamonogatari.json) |
 | Zettai Zetsumei Dangerous Jiisan DS: Dangerous Sensation | 124129 | [124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json](./124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json) |
+| Zettai Zetsumei Dangerous Jiisan Tsuu: Ikari no Oshioki Blues | 65656 | [65656-zettai-zetsumei-dangerous-jiisan-tsuu-ikari-no-oshioki-blues.json](./65656-zettai-zetsumei-dangerous-jiisan-tsuu-ikari-no-oshioki-blues.json) |
+| Zettai Zetsumei Dangerous Jiisan: Naki no Ikkai | 65654 | [65654-zettai-zetsumei-dangerous-jiisan-naki-no-ikkai.json](./65654-zettai-zetsumei-dangerous-jiisan-naki-no-ikkai.json) |
+| Zettai Zetsumei Dangerous Jiisan: Shijou Saikyou no Dogeza | 65655 | [65655-zettai-zetsumei-dangerous-jiisan-shijou-saikyou-no-dogeza.json](./65655-zettai-zetsumei-dangerous-jiisan-shijou-saikyou-no-dogeza.json) |
 | Zettai Zetsumei kara no Dasshutsu: Nazotoki Quiz Illustration Suiri Mystery Game | 233935 | [233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json](./233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json) |
 | Zettai Zetsumei Shoujo Kokuu no Houteishiki | 260549 | [260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
 | Zettai Zetsumei Shoujo: Kokuu no Houteishiki | 268632 | [268632-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./268632-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
