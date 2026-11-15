@@ -3498,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Enhanced Edition | 23719 | [23719-neverwinter-nights-enhanced-edition.json](./23719-neverwinter-nights-enhanced-edition.json) |
 | Neverwinter Nights: Enhanced Edition - Doom of Icewind Dale | 332626 | [332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json](./332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
+| Neverwinter Nights: Infinite Dungeons | 125316 | [125316-neverwinter-nights-infinite-dungeons.json](./125316-neverwinter-nights-infinite-dungeons.json) |
 | Neverwinter Nights: Pirates of the Sword Coast | 124906 | [124906-neverwinter-nights-pirates-of-the-sword-coast.json](./124906-neverwinter-nights-pirates-of-the-sword-coast.json) |
 | Neverwinter Nights: ShadowGuard | 125300 | [125300-neverwinter-nights-shadowguard.json](./125300-neverwinter-nights-shadowguard.json) |
 | Neverwinter Nights: Shadows of Undrentide | 7899 | [7899-neverwinter-nights-shadows-of-undrentide.json](./7899-neverwinter-nights-shadows-of-undrentide.json) |
