@@ -5037,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleverse Champions | 219972 | [219972-battleverse-champions.json](./219972-battleverse-champions.json) |
 | Battlevoid: Harbinger | 34604 | [34604-battlevoid-harbinger.json](./34604-battlevoid-harbinger.json) |
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
+| Battlevoid: Sector Siege | 77439 | [77439-battlevoid-sector-siege.json](./77439-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
 | Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
