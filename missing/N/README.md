@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neorude | 56360 | [56360-neorude.json](./56360-neorude.json) |
 | Neorude 2 | 206308 | [206308-neorude-2.json](./206308-neorude-2.json) |
 | Neorude: Kizamareta Monshou | 206311 | [206311-neorude-kizamareta-monshou.json](./206311-neorude-kizamareta-monshou.json) |
+| NeoRunners | 425113 | [425113-neorunners.json](./425113-neorunners.json) |
 | Neos Aires 2070: Sunday Comes First | 182753 | [182753-neos-aires-2070-sunday-comes-first.json](./182753-neos-aires-2070-sunday-comes-first.json) |
 | Neos VR | 125161 | [125161-neos-vr.json](./125161-neos-vr.json) |
 | Neosaurs | 197659 | [197659-neosaurs.json](./197659-neosaurs.json) |
@@ -7271,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
 | Nonogram Animal Griddlers | 129969 | [129969-nonogram-animal-griddlers.json](./129969-nonogram-animal-griddlers.json) |
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
+| Nonogram Art | 425117 | [425117-nonogram-art.json](./425117-nonogram-art.json) |
 | Nonogram Color | 249635 | [249635-nonogram-color.json](./249635-nonogram-color.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Galaxy | 145799 | [145799-nonogram-galaxy.json](./145799-nonogram-galaxy.json) |
