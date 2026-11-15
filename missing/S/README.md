@@ -3720,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
 | Score! Hero 2 | 170254 | [170254-score-hero-2.json](./170254-score-hero-2.json) |
 | Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
+| Scoregasm | 15160 | [15160-scoregasm.json](./15160-scoregasm.json) |
 | Scorn | 19817 | [19817-scorn.json](./19817-scorn.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
@@ -12826,9 +12827,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: ABBA | 3306 | [3306-singstar-abba.json](./3306-singstar-abba.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
+| SingStar: Amped | 15166 | [15166-singstar-amped.json](./15166-singstar-amped.json) |
 | Singstar: Anthems | 15096 | [15096-singstar-anthems.json](./15096-singstar-anthems.json) |
 | SingStar: Apres-Ski Party 2 | 44704 | [44704-singstar-apres-ski-party-2.json](./44704-singstar-apres-ski-party-2.json) |
 | SingStar: Back to the 80s | 15195 | [15195-singstar-back-to-the-80s.json](./15195-singstar-back-to-the-80s.json) |
+| SingStar: BoyBands vs GirlBands | 15176 | [15176-singstar-boybands-vs-girlbands.json](./15176-singstar-boybands-vs-girlbands.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
 | SingStar: Celebration | 52828 | [52828-singstar-celebration.json](./52828-singstar-celebration.json) |
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
@@ -12851,9 +12854,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Mecano | 44701 | [44701-singstar-mecano.json](./44701-singstar-mecano.json) |
 | SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
+| SingStar: Motown | 15191 | [15191-singstar-motown.json](./15191-singstar-motown.json) |
 | Singstar: Norsk på Norsk | 84316 | [84316-singstar-norsk-pa-norsk.json](./84316-singstar-norsk-pa-norsk.json) |
 | SingStar: Norske Hits | 93335 | [93335-singstar-norske-hits.json](./93335-singstar-norske-hits.json) |
 | Singstar: Operación Triunfo | 135679 | [135679-singstar-operacion-triunfo.json](./135679-singstar-operacion-triunfo.json) |
+| Singstar: Party | 15090 | [15090-singstar-party.json](./15090-singstar-party.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Pop | 15092 | [15092-singstar-pop.json](./15092-singstar-pop.json) |
@@ -12861,17 +12866,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Pop Hits | 15164 | [15164-singstar-pop-hits.json](./15164-singstar-pop-hits.json) |
 | SingStar: Pop Hits 2 | 273845 | [273845-singstar-pop-hits-2.json](./273845-singstar-pop-hits-2.json) |
 | SingStar: Pop Hits 4 | 273844 | [273844-singstar-pop-hits-4.json](./273844-singstar-pop-hits-4.json) |
+| SingStar: Pop Vol. 2 | 15174 | [15174-singstar-pop-vol-2.json](./15174-singstar-pop-vol-2.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
 | SingStar: Queen | 7456 | [7456-singstar-queen.json](./7456-singstar-queen.json) |
 | SingStar: R&B | 15170 | [15170-singstar-r-and-b.json](./15170-singstar-r-and-b.json) |
+| SingStar: Rock Ballads | 15168 | [15168-singstar-rock-ballads.json](./15168-singstar-rock-ballads.json) |
 | Singstar: Rocks! | 15095 | [15095-singstar-rocks.json](./15095-singstar-rocks.json) |
 | SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
+| SingStar: Summer Party | 15171 | [15171-singstar-summer-party.json](./15171-singstar-summer-party.json) |
 | SingStar: SuomiHelmet | 221070 | [221070-singstar-suomihelmet.json](./221070-singstar-suomihelmet.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
 | SingStar: SuomiRock | 15098 | [15098-singstar-suomirock.json](./15098-singstar-suomirock.json) |
 | SingStar: SuomiSuosikit | 357940 | [357940-singstar-suomisuosikit.json](./357940-singstar-suomisuosikit.json) |
 | Singstar: Svenska Stjärnor | 43023 | [43023-singstar-svenska-stjarnor.json](./43023-singstar-svenska-stjarnor.json) |
+| SingStar: Take That | 15193 | [15193-singstar-take-that.json](./15193-singstar-take-that.json) |
+| Singstar: The Dome | 15093 | [15093-singstar-the-dome.json](./15093-singstar-the-dome.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
+| SingStar: Vol. 3 | 15185 | [15185-singstar-vol-3.json](./15185-singstar-vol-3.json) |
 | Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | SingStar: Wiggles | 15179 | [15179-singstar-wiggles.json](./15179-singstar-wiggles.json) |
 | Singular Stone | 182230 | [182230-singular-stone.json](./182230-singular-stone.json) |
@@ -14172,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky In Flames | 398483 | [398483-sky-in-flames.json](./398483-sky-in-flames.json) |
 | Sky in your eyes | 204933 | [204933-sky-in-your-eyes.json](./204933-sky-in-your-eyes.json) |
 | Sky Invaders | 346096 | [346096-sky-invaders.json](./346096-sky-invaders.json) |
+| Sky Invaders | 87403 | [87403-sky-invaders.json](./87403-sky-invaders.json) |
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
@@ -14605,6 +14617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam 'n Jam '96 Featuring Magic & Kareem | 44904 | [44904-slam-n-jam-96-featuring-magic-and-kareem.json](./44904-slam-n-jam-96-featuring-magic-and-kareem.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
+| Slam Bolt Scrappers | 15122 | [15122-slam-bolt-scrappers.json](./15122-slam-bolt-scrappers.json) |
 | Slam City Oracles | 215275 | [215275-slam-city-oracles.json](./215275-slam-city-oracles.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
 | Slam City with Scottie Pippen | 5439 | [5439-slam-city-with-scottie-pippen.json](./5439-slam-city-with-scottie-pippen.json) |
@@ -28001,6 +28014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom 3 | 371627 | [371627-stardom-3.json](./371627-stardom-3.json) |
 | Stardom MiniGames | 370030 | [370030-stardom-minigames.json](./370030-stardom-minigames.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
+| Stardom: Hollywood | 87407 | [87407-stardom-hollywood.json](./87407-stardom-hollywood.json) |
 | Stardom: Riichi Mahjong | 417223 | [417223-stardom-riichi-mahjong.json](./417223-stardom-riichi-mahjong.json) |
 | Stardom: Your Quest For Fame | 73373 | [73373-stardom-your-quest-for-fame.json](./73373-stardom-your-quest-for-fame.json) |
 | Stardome | 244687 | [244687-stardome.json](./244687-stardome.json) |
@@ -28665,6 +28679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
 | Starship Catan | 72949 | [72949-starship-catan.json](./72949-starship-catan.json) |
 | Starship Chameleon | 284126 | [284126-starship-chameleon.json](./284126-starship-chameleon.json) |
+| Starship Clicker | 75930 | [75930-starship-clicker.json](./75930-starship-clicker.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Colony | 244646 | [244646-starship-colony.json](./244646-starship-colony.json) |
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
@@ -28796,6 +28811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | Starters Orders 4 Horse Racing: Jumps Edition | 175566 | [175566-starters-orders-4-horse-racing-jumps-edition.json](./175566-starters-orders-4-horse-racing-jumps-edition.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
+| Starters Orders 7 Horse Racing | 114388 | [114388-starters-orders-7-horse-racing.json](./114388-starters-orders-7-horse-racing.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
 | Startide | 56685 | [56685-startide.json](./56685-startide.json) |
 | Starting a Village from Zero | 405140 | [405140-starting-a-village-from-zero.json](./405140-starting-a-village-from-zero.json) |
@@ -38212,6 +38228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Race on Highway | 195586 | [195586-supreme-race-on-highway.json](./195586-supreme-race-on-highway.json) |
 | Supreme Ruler | 15105 | [15105-supreme-ruler.json](./15105-supreme-ruler.json) |
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
+| Supreme Ruler 2010 | 15106 | [15106-supreme-ruler-2010.json](./15106-supreme-ruler-2010.json) |
 | Supreme Ruler 2020 | 2024 | [2024-supreme-ruler-2020.json](./2024-supreme-ruler-2020.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Ruler 2020: Global Crisis | 26931 | [26931-supreme-ruler-2020-global-crisis.json](./26931-supreme-ruler-2020-global-crisis.json) |
@@ -38225,6 +38242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
 | Supreme Ruler Ultimate | 36269 | [36269-supreme-ruler-ultimate.json](./36269-supreme-ruler-ultimate.json) |
 | Supreme Ruler Ultimate: Trump Rising | 171958 | [171958-supreme-ruler-ultimate-trump-rising.json](./171958-supreme-ruler-ultimate-trump-rising.json) |
+| Supreme Ruler: Cold War | 15078 | [15078-supreme-ruler-cold-war.json](./15078-supreme-ruler-cold-war.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Sprinter | 129957 | [129957-supreme-sprinter.json](./129957-supreme-sprinter.json) |
 | Supreme Stick Warriors | 220246 | [220246-supreme-stick-warriors.json](./220246-supreme-stick-warriors.json) |
