@@ -11218,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Say Hi | 341568 | [341568-please-say-hi.json](./341568-please-say-hi.json) |
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stay Calm | 63148 | [63148-please-stay-calm.json](./63148-please-stay-calm.json) |
+| Please Stay Dead | 423348 | [423348-please-stay-dead.json](./423348-please-stay-dead.json) |
 | Please Stop Breeding the Ducks | 414732 | [414732-please-stop-breeding-the-ducks.json](./414732-please-stop-breeding-the-ducks.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
