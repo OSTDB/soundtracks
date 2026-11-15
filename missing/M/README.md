@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
 | Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
+| Magic Miguel | 59539 | [59539-magic-miguel.json](./59539-magic-miguel.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
 | Magic Monster Slasher | 291310 | [291310-magic-monster-slasher.json](./291310-magic-monster-slasher.json) |
@@ -17893,6 +17894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
 | Monster Musume Fantastic Life | 306759 | [306759-monster-musume-fantastic-life.json](./306759-monster-musume-fantastic-life.json) |
 | Monster Musume TD | 213064 | [213064-monster-musume-td.json](./213064-monster-musume-td.json) |
+| Monster Musume: Everyday Life with Monster Girls Online | 58958 | [58958-monster-musume-everyday-life-with-monster-girls-online.json](./58958-monster-musume-everyday-life-with-monster-girls-online.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster Nursery | 411821 | [411821-monster-nursery.json](./411821-monster-nursery.json) |
