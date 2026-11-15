@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TactiCats | 197511 | [197511-tacticats.json](./197511-tacticats.json) |
 | TacticFront | 350303 | [350303-tacticfront.json](./350303-tacticfront.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
+| Tactician | 40448 | [40448-tactician.json](./40448-tactician.json) |
 | Tacticool | 112918 | [112918-tacticool.json](./112918-tacticool.json) |
 | Tacticool Champs | 134373 | [134373-tacticool-champs.json](./134373-tacticool-champs.json) |
 | Tactics & Strategy Master 2: Princess of Holy Light | 110992 | [110992-tactics-and-strategy-master-2-princess-of-holy-light.json](./110992-tactics-and-strategy-master-2-princess-of-holy-light.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito Chase H.Q. Plus S.C.I.: Special Criminal Investigation | 78771 | [78771-taito-chase-h-q-plus-s-c-i-special-criminal-investigation.json](./78771-taito-chase-h-q-plus-s-c-i-special-criminal-investigation.json) |
+| Taito Cup Finals | 40447 | [40447-taito-cup-finals.json](./40447-taito-cup-finals.json) |
 | Taito Grand Prix | 65380 | [65380-taito-grand-prix.json](./65380-taito-grand-prix.json) |
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
 | Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
@@ -868,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
 | Taito Milestones 5 | 427291 | [427291-taito-milestones-5.json](./427291-taito-milestones-5.json) |
+| Taito Power Goal | 40446 | [40446-taito-power-goal.json](./40446-taito-power-goal.json) |
 | Taito Variety Pack | 79489 | [79489-taito-variety-pack.json](./79489-taito-variety-pack.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taivas | 139574 | [139574-taivas.json](./139574-taivas.json) |
@@ -5692,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
 | TGsEE | 273071 | [273071-tgsee.json](./273071-tgsee.json) |
+| TH Strikes Back | 40481 | [40481-th-strikes-back.json](./40481-th-strikes-back.json) |
 | Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Th3 Plan | 44698 | [44698-th3-plan.json](./44698-th3-plan.json) |
@@ -8133,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
 | The Cleansing | 68583 | [68583-the-cleansing.json](./68583-the-cleansing.json) |
+| The Cliffhanger: Edward Randy | 39927 | [39927-the-cliffhanger-edward-randy.json](./39927-the-cliffhanger-edward-randy.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
 | The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
@@ -19780,6 +19785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Timeless Battle | 19800 | [19800-the-timeless-battle.json](./19800-the-timeless-battle.json) |
 | The Timeless Child | 185742 | [185742-the-timeless-child.json](./185742-the-timeless-child.json) |
 | The Tin Soldier | 327328 | [327328-the-tin-soldier.json](./327328-the-tin-soldier.json) |
+| The Tin Star | 40476 | [40476-the-tin-star.json](./40476-the-tin-star.json) |
 | The Tiny Bang Story | 15120 | [15120-the-tiny-bang-story.json](./15120-the-tiny-bang-story.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
 | The Tiny Button | 123197 | [123197-the-tiny-button.json](./123197-the-tiny-button.json) |
@@ -23107,6 +23113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbombs | 295960 | [295960-thunderbombs.json](./295960-thunderbombs.json) |
 | Thunderbowl | 103804 | [103804-thunderbowl.json](./103804-thunderbowl.json) |
 | Thundercade | 323042 | [323042-thundercade.json](./323042-thundercade.json) |
+| Thundercade | 40480 | [40480-thundercade.json](./40480-thundercade.json) |
 | ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
@@ -23127,6 +23134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderhead | 344629 | [344629-thunderhead.json](./344629-thunderhead.json) |
 | Thundering Skies | 75600 | [75600-thundering-skies.json](./75600-thundering-skies.json) |
+| ThunderJaws | 40479 | [40479-thunderjaws.json](./40479-thunderjaws.json) |
 | Thunderman: Adventures in Another Realm | 357668 | [357668-thunderman-adventures-in-another-realm.json](./357668-thunderman-adventures-in-another-realm.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderscape | 51804 | [51804-thunderscape.json](./51804-thunderscape.json) |
@@ -25588,6 +25596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Knight vs. Zombies | 253828 | [253828-time-knight-vs-zombies.json](./253828-time-knight-vs-zombies.json) |
 | Time Leap | 68395 | [68395-time-leap.json](./68395-time-leap.json) |
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
+| Time Limit | 40478 | [40478-time-limit.json](./40478-time-limit.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
 | Time Loader and Biped Bundle | 186539 | [186539-time-loader-and-biped-bundle.json](./186539-time-loader-and-biped-bundle.json) |
@@ -26771,6 +26780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
 | TNA Wrestling Impact! | 65170 | [65170-tna-wrestling-impact.json](./65170-tna-wrestling-impact.json) |
+| TNK III | 40449 | [40449-tnk-iii.json](./40449-tnk-iii.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNMverse VIP | 270836 | [270836-tnmverse-vip.json](./270836-tnmverse-vip.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
@@ -27215,6 +27225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
 | Toffee Trouble in Creamville | 232841 | [232841-toffee-trouble-in-creamville.json](./232841-toffee-trouble-in-creamville.json) |
 | Toffifee: Fantasy Forest | 325938 | [325938-toffifee-fantasy-forest.json](./325938-toffifee-fantasy-forest.json) |
+| Toffy | 40474 | [40474-toffy.json](./40474-toffy.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Escape | 192575 | [192575-tofu-escape.json](./192575-tofu-escape.json) |
@@ -27357,6 +27368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki no Kizuna Hanayuitsuzuri | 145725 | [145725-toki-no-kizuna-hanayuitsuzuri.json](./145725-toki-no-kizuna-hanayuitsuzuri.json) |
 | Toki no Komorebi | 412332 | [412332-toki-no-komorebi.json](./412332-toki-no-komorebi.json) |
+| Toki no Senshi: Chrono Soldier | 40472 | [40472-toki-no-senshi-chrono-soldier.json](./40472-toki-no-senshi-chrono-soldier.json) |
 | Toki no Tabibito: Time Stranger | 48879 | [48879-toki-no-tabibito-time-stranger.json](./48879-toki-no-tabibito-time-stranger.json) |
 | Toki Pona Island | 288593 | [288593-toki-pona-island.json](./288593-toki-pona-island.json) |
 | Toki Time Trial | 105194 | [105194-toki-time-trial.json](./105194-toki-time-trial.json) |
@@ -28577,6 +28589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
 | Top Percent | 291284 | [291284-top-percent.json](./291284-top-percent.json) |
+| Top Player's Golf | 40471 | [40471-top-players-golf.json](./40471-top-players-golf.json) |
 | Top Pro Golf | 46164 | [46164-top-pro-golf.json](./46164-top-pro-golf.json) |
 | Top Pro Golf 2 | 45693 | [45693-top-pro-golf-2.json](./45693-top-pro-golf-2.json) |
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
@@ -28603,6 +28616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Shot: Dinosaur Hunter | 51019 | [51019-top-shot-dinosaur-hunter.json](./51019-top-shot-dinosaur-hunter.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
+| Top Speed | 40468 | [40468-top-speed.json](./40468-top-speed.json) |
 | Top Speed 2 | 119378 | [119378-top-speed-2.json](./119378-top-speed-2.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
@@ -28851,6 +28865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado | 233481 | [233481-tornado.json](./233481-tornado.json) |
 | Tornado | 266173 | [266173-tornado.json](./266173-tornado.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
+| Tornado Baseball | 40467 | [40467-tornado-baseball.json](./40467-tornado-baseball.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
 | Tornado Driver | 149886 | [149886-tornado-driver.json](./149886-tornado-driver.json) |
 | Tornado ECR | 109170 | [109170-tornado-ecr.json](./109170-tornado-ecr.json) |
