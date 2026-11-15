@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Zero | 181210 | [181210-x-zero.json](./181210-x-zero.json) |
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
 | X, y, zed | 179875 | [179875-x-y-zed.json](./179875-x-y-zed.json) |
+| X: Beyond the Frontier | 9316 | [9316-x-beyond-the-frontier.json](./9316-x-beyond-the-frontier.json) |
 | X: Card of Fate | 37348 | [37348-x-card-of-fate.json](./37348-x-card-of-fate.json) |
 | X: Gold | 51776 | [51776-x-gold.json](./51776-x-gold.json) |
 | X.A.O.C Online | 81539 | [81539-x-a-o-c-online.json](./81539-x-a-o-c-online.json) |
@@ -452,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X10 | 307828 | [307828-x10.json](./307828-x10.json) |
 | X2 | 79811 | [79811-x2.json](./79811-x2.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
+| X2: The Threat | 9318 | [9318-x2-the-threat.json](./9318-x2-the-threat.json) |
 | X2: Wolverine's Revenge | 248452 | [248452-x2-wolverines-revenge.json](./248452-x2-wolverines-revenge.json) |
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
 | X2O | 89802 | [89802-x2o.json](./89802-x2o.json) |
@@ -711,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
 | Xenomorph Base | 257154 | [257154-xenomorph-base.json](./257154-xenomorph-base.json) |
 | Xenomycology | 282200 | [282200-xenomycology.json](./282200-xenomycology.json) |
+| Xenon | 12235 | [12235-xenon.json](./12235-xenon.json) |
 | Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
 | Xenon 2: Megablast | 370487 | [370487-xenon-2-megablast.json](./370487-xenon-2-megablast.json) |
 | Xenon 2000 - Project PCF | 69771 | [69771-xenon-2000-project-pcf.json](./69771-xenon-2000-project-pcf.json) |
@@ -1189,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
 | Xyanide | 6254 | [6254-xyanide.json](./6254-xyanide.json) |
 | Xyanide Resurrection | 43342 | [43342-xyanide-resurrection.json](./43342-xyanide-resurrection.json) |
+| Xybots | 12370 | [12370-xybots.json](./12370-xybots.json) |
 | Xydonia | 176521 | [176521-xydonia.json](./176521-xydonia.json) |
 | Xyla and the 'Shrooms of Doom | 129696 | [129696-xyla-and-the-shrooms-of-doom.json](./129696-xyla-and-the-shrooms-of-doom.json) |
 | Xyleron | 257556 | [257556-xyleron.json](./257556-xyleron.json) |
