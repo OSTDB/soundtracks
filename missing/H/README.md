@@ -7782,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: Smithsonian Hope Diamond - Collector's Edition | 201882 | [201882-hidden-expedition-smithsonian-hope-diamond-collectors-edition.json](./201882-hidden-expedition-smithsonian-hope-diamond-collectors-edition.json) |
 | Hidden Expedition: The Curse of Mithridates | 97312 | [97312-hidden-expedition-the-curse-of-mithridates.json](./97312-hidden-expedition-the-curse-of-mithridates.json) |
 | Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
+| Hidden Expedition: The Eternal Emperor - Collector's Edition | 54607 | [54607-hidden-expedition-the-eternal-emperor-collectors-edition.json](./54607-hidden-expedition-the-eternal-emperor-collectors-edition.json) |
 | Hidden Expedition: The Fountain of Youth | 101961 | [101961-hidden-expedition-the-fountain-of-youth.json](./101961-hidden-expedition-the-fountain-of-youth.json) |
 | Hidden Expedition: The Fountain of Youth - Collector's Edition | 53213 | [53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json](./53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
