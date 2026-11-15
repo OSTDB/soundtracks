@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.G. | 340858 | [340858-h-g.json](./340858-h-g.json) |
 | H.I.A: Horror Investigation Agency | 253523 | [253523-h-i-a-horror-investigation-agency.json](./253523-h-i-a-horror-investigation-agency.json) |
 | H.I.C.H. | 180967 | [180967-h-i-c-h.json](./180967-h-i-c-h.json) |
+| H.I.S.T.O.R.Y T.O.R.C.H.K.A | 39273 | [39273-h-i-s-t-o-r-y-t-o-r-c-h-k-a.json](./39273-h-i-s-t-o-r-y-t-o-r-c-h-k-a.json) |
 | H.I.S.T.O.R.Y T.O.R.C.H.K.A 2 | 82322 | [82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json](./82322-h-i-s-t-o-r-y-t-o-r-c-h-k-a-2.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
