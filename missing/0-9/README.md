@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Seconds Dash! | 328150 | [328150-10-seconds-dash.json](./328150-10-seconds-dash.json) |
 | 10 Seconds or Less | 59652 | [59652-10-seconds-or-less.json](./59652-10-seconds-or-less.json) |
 | 10 Seconds to Win! | 190305 | [190305-10-seconds-to-win.json](./190305-10-seconds-to-win.json) |
+| 10 Seconds, 9 Lives | 422763 | [422763-10-seconds-9-lives.json](./422763-10-seconds-9-lives.json) |
 | 10 Sectors | 260793 | [260793-10-sectors.json](./260793-10-sectors.json) |
 | 10 Solo | 175258 | [175258-10-solo.json](./175258-10-solo.json) |
 | 10 Spiele-Hits Vol. 1 | 131290 | [131290-10-spiele-hits-vol-1.json](./131290-10-spiele-hits-vol-1.json) |
