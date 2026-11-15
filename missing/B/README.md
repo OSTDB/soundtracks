@@ -5421,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaker Creatures | 206254 | [206254-beaker-creatures.json](./206254-beaker-creatures.json) |
 | Beakiez | 94134 | [94134-beakiez.json](./94134-beakiez.json) |
 | Beaks of Rage | 183704 | [183704-beaks-of-rage.json](./183704-beaks-of-rage.json) |
+| Bealphareth | 62915 | [62915-bealphareth.json](./62915-bealphareth.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
 | Beam | 233423 | [233423-beam.json](./233423-beam.json) |
 | Beam | 86139 | [86139-beam.json](./86139-beam.json) |
@@ -9767,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter Harvest | 391535 | [391535-bitter-harvest.json](./391535-bitter-harvest.json) |
 | Bitter Heaven | 244459 | [244459-bitter-heaven.json](./244459-bitter-heaven.json) |
 | Bitter Silver | 221560 | [221560-bitter-silver.json](./221560-bitter-silver.json) |
+| Bitter Smile. | 62919 | [62919-bitter-smile.json](./62919-bitter-smile.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
 | Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
@@ -10246,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
 | Black Wolf | 204993 | [204993-black-wolf.json](./204993-black-wolf.json) |
 | Black Wolfberry: WuJing | 293017 | [293017-black-wolfberry-wujing.json](./293017-black-wolfberry-wujing.json) |
+| Black Wolves Saga: Bloody Nightmare | 62918 | [62918-black-wolves-saga-bloody-nightmare.json](./62918-black-wolves-saga-bloody-nightmare.json) |
 | Black Wolves Saga: Last Hope | 62372 | [62372-black-wolves-saga-last-hope.json](./62372-black-wolves-saga-last-hope.json) |
 | Black Wolves Saga: Weiβ und Schwarz | 132091 | [132091-black-wolves-saga-wei-und-schwarz.json](./132091-black-wolves-saga-wei-und-schwarz.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
