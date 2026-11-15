@@ -5093,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 284226 | [284226-battletoads.json](./284226-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | Battletoads / Double Dragon | 242267 | [242267-battletoads-double-dragon.json](./242267-battletoads-double-dragon.json) |
+| Battletoads / Double Dragon | 7776 | [7776-battletoads-double-dragon.json](./7776-battletoads-double-dragon.json) |
 | Battletoads / Double Dragon | 91094 | [91094-battletoads-double-dragon.json](./91094-battletoads-double-dragon.json) |
 | Battletoads GG2SMS | 369487 | [369487-battletoads-gg2sms.json](./369487-battletoads-gg2sms.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
@@ -9286,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: The Protector Trials | 214801 | [214801-bioshock-2-the-protector-trials.json](./214801-bioshock-2-the-protector-trials.json) |
 | BioShock 4 | 96406 | [96406-bioshock-4.json](./96406-bioshock-4.json) |
 | BioShock Infinite: Burial at Sea - Episode 1 | 10047 | [10047-bioshock-infinite-burial-at-sea-episode-1.json](./10047-bioshock-infinite-burial-at-sea-episode-1.json) |
+| BioShock Infinite: Burial at Sea - Episode 2 | 117315 | [117315-bioshock-infinite-burial-at-sea-episode-2.json](./117315-bioshock-infinite-burial-at-sea-episode-2.json) |
 | BioShock Infinite: Clash in the Clouds | 20115 | [20115-bioshock-infinite-clash-in-the-clouds.json](./20115-bioshock-infinite-clash-in-the-clouds.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioShock Infinite: The Complete Edition | 41595 | [41595-bioshock-infinite-the-complete-edition.json](./41595-bioshock-infinite-the-complete-edition.json) |
@@ -14145,6 +14147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman 2004 | 198196 | [198196-bomberman-2004.json](./198196-bomberman-2004.json) |
 | Bomberman 3D | 198032 | [198032-bomberman-3d.json](./198032-bomberman-3d.json) |
 | Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
+| Bomberman 64 | 3451 | [3451-bomberman-64.json](./3451-bomberman-64.json) |
 | Bomberman 64 | 80368 | [80368-bomberman-64.json](./80368-bomberman-64.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
 | Bomberman Act:Zero Mobile Type | 198195 | [198195-bomberman-act-zero-mobile-type.json](./198195-bomberman-act-zero-mobile-type.json) |
@@ -18088,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
 | Brothers in Arms: D-Day | 23117 | [23117-brothers-in-arms-d-day.json](./23117-brothers-in-arms-d-day.json) |
 | Brothers in Arms: Double Time | 4730 | [4730-brothers-in-arms-double-time.json](./4730-brothers-in-arms-double-time.json) |
+| Brothers in Arms: Earned in Blood | 617 | [617-brothers-in-arms-earned-in-blood.json](./617-brothers-in-arms-earned-in-blood.json) |
 | Brothers in Arms: Furious 4 | 2034 | [2034-brothers-in-arms-furious-4.json](./2034-brothers-in-arms-furious-4.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
 | Brothers in Arms: Hour of Heroes | 21648 | [21648-brothers-in-arms-hour-of-heroes.json](./21648-brothers-in-arms-hour-of-heroes.json) |
