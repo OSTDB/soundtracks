@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubus Heart: Demon Love Redemption | 386192 | [386192-incubus-heart-demon-love-redemption.json](./386192-incubus-heart-demon-love-redemption.json) |
 | Incubus Quest | 264188 | [264188-incubus-quest.json](./264188-incubus-quest.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
+| Incunabula | 25899 | [25899-incunabula.json](./25899-incunabula.json) |
 | Incur Survival | 223814 | [223814-incur-survival.json](./223814-incur-survival.json) |
 | Incursion | 202515 | [202515-incursion.json](./202515-incursion.json) |
 | Incursion | 373819 | [373819-incursion.json](./373819-incursion.json) |
