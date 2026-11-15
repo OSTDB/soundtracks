@@ -12415,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobi Shoot | 257873 | [257873-cobi-shoot.json](./257873-cobi-shoot.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
 | Cobi Treasure Deluxe | 10097 | [10097-cobi-treasure-deluxe.json](./10097-cobi-treasure-deluxe.json) |
+| Cobits Premium | 63483 | [63483-cobits-premium.json](./63483-cobits-premium.json) |
 | Cobos | 74596 | [74596-cobos.json](./74596-cobos.json) |
 | Cobot-Man Adventure | 425410 | [425410-cobot-man-adventure.json](./425410-cobot-man-adventure.json) |
 | Cobots | 145901 | [145901-cobots.json](./145901-cobots.json) |
@@ -14243,6 +14244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Bombo | 245982 | [245982-combo-bombo.json](./245982-combo-bombo.json) |
 | Combo Card Clashers | 208491 | [208491-combo-card-clashers.json](./208491-combo-card-clashers.json) |
+| Combo Crew | 62924 | [62924-combo-crew.json](./62924-combo-crew.json) |
 | Combo Critters | 381060 | [381060-combo-critters.json](./381060-combo-critters.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
 | Combo Devils | 279373 | [279373-combo-devils.json](./279373-combo-devils.json) |
@@ -19852,6 +19854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croissant | 312802 | [312802-croissant.json](./312802-croissant.json) |
 | Croissant Simulator | 416589 | [416589-croissant-simulator.json](./416589-croissant-simulator.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
+| Croixleur | 63458 | [63458-croixleur.json](./63458-croixleur.json) |
 | Croixleur Sigma | 10116 | [10116-croixleur-sigma.json](./10116-croixleur-sigma.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
 | Croket! 4: Bank no Mori no Shugoshin | 125502 | [125502-croket-4-bank-no-mori-no-shugoshin.json](./125502-croket-4-bank-no-mori-no-shugoshin.json) |
