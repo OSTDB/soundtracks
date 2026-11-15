@@ -7587,7 +7587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgotha | 237749 | [237749-golgotha.json](./237749-golgotha.json) |
 | Golgothian | 423382 | [423382-golgothian.json](./423382-golgothian.json) |
 | Golgothica | 381323 | [381323-golgothica.json](./381323-golgothica.json) |
-| Goliath | 11080 | [11080-goliath.json](./11080-goliath.json) |
 | Goliath | 268929 | [268929-goliath.json](./268929-goliath.json) |
 | Goliath | 325737 | [325737-goliath.json](./325737-goliath.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
@@ -12398,7 +12397,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Stories: Bulletproof VR | 55382 | [55382-gunsnstories-bulletproof-vr.json](./55382-gunsnstories-bulletproof-vr.json) |
 | Gunsaw | 400267 | [400267-gunsaw.json](./400267-gunsaw.json) |
 | GunsBox VR | 188431 | [188431-gunsbox-vr.json](./188431-gunsbox-vr.json) |
-| Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunscape: Seismic | 171921 | [171921-gunscape-seismic.json](./171921-gunscape-seismic.json) |
 | Gunsheath | 180530 | [180530-gunsheath.json](./180530-gunsheath.json) |
 | Gunship | 12128 | [12128-gunship.json](./12128-gunship.json) |
