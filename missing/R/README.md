@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raburaba: Love Rubber | 82256 | [82256-raburaba-love-rubber.json](./82256-raburaba-love-rubber.json) |
 | Racar | 399037 | [399037-racar.json](./399037-racar.json) |
 | Raccateer | 346381 | [346381-raccateer.json](./346381-raccateer.json) |
+| Raccoin: Chaos Max Edition | 426369 | [426369-raccoin-chaos-max-edition.json](./426369-raccoin-chaos-max-edition.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoo Venture | 113876 | [113876-raccoo-venture.json](./113876-raccoo-venture.json) |
 | Raccoon & Possum Just Want to Read a Book | 307123 | [307123-raccoon-and-possum-just-want-to-read-a-book.json](./307123-raccoon-and-possum-just-want-to-read-a-book.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE: Alistair++ | 46942 | [46942-re-alistair.json](./46942-re-alistair.json) |
 | Re: Ashesz | 175016 | [175016-re-ashesz.json](./175016-re-ashesz.json) |
 | Re: Be | 253618 | [253618-re-be.json](./253618-re-be.json) |
+| Re: Cao Cao's Harem | 426341 | [426341-re-cao-caos-harem.json](./426341-re-cao-caos-harem.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | Re: Collector | 202453 | [202453-re-collector.json](./202453-re-collector.json) |
 | RE: Crank Sim | 278570 | [278570-re-crank-sim.json](./278570-re-crank-sim.json) |
@@ -9657,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside Egg Stand | 342310 | [342310-roadside-egg-stand.json](./342310-roadside-egg-stand.json) |
 | Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
+| Roadster Race | 426388 | [426388-roadster-race.json](./426388-roadster-race.json) |
 | Roadsters | 3590 | [3590-roadsters.json](./3590-roadsters.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
@@ -12293,6 +12296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Ruckus | 301789 | [301789-roomba-ruckus.json](./301789-roomba-ruckus.json) |
 | Roombattle | 185264 | [185264-roombattle.json](./185264-roombattle.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
+| Roomelier | 426376 | [426376-roomelier.json](./426376-roomelier.json) |
 | Roomgaze | 347644 | [347644-roomgaze.json](./347644-roomgaze.json) |
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
@@ -14031,6 +14035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
 | Rune Rhythm Realm | 391411 | [391411-rune-rhythm-realm.json](./391411-rune-rhythm-realm.json) |
+| Rune Runners | 426364 | [426364-rune-runners.json](./426364-rune-runners.json) |
 | Rune Seeker | 301295 | [301295-rune-seeker.json](./301295-rune-seeker.json) |
 | Rune Song | 251934 | [251934-rune-song.json](./251934-rune-song.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
