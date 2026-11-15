@@ -32652,6 +32652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtera Puzlo | 300803 | [300803-subtera-puzlo.json](./300803-subtera-puzlo.json) |
 | SubterAlien Rescue | 157504 | [157504-subteralien-rescue.json](./157504-subteralien-rescue.json) |
 | Subterene | 163901 | [163901-subterene.json](./163901-subterene.json) |
+| Subterfuge | 13929 | [13929-subterfuge.json](./13929-subterfuge.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranauts | 318348 | [318348-subterranauts.json](./318348-subterranauts.json) |
 | Subterranea | 24435 | [24435-subterranea.json](./24435-subterranea.json) |
