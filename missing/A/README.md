@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Forgotten Empires | 9950 | [9950-age-of-empires-ii-forgotten-empires.json](./9950-age-of-empires-ii-forgotten-empires.json) |
 | Age of Empires II: Gold Edition | 129797 | [129797-age-of-empires-ii-gold-edition.json](./129797-age-of-empires-ii-gold-edition.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
+| Age of Empires II: HD Edition - Rise of the Rajas | 75298 | [75298-age-of-empires-ii-hd-edition-rise-of-the-rajas.json](./75298-age-of-empires-ii-hd-edition-rise-of-the-rajas.json) |
 | Age of Empires II: HD Edition - The African Kingdoms | 68158 | [68158-age-of-empires-ii-hd-edition-the-african-kingdoms.json](./68158-age-of-empires-ii-hd-edition-the-african-kingdoms.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
@@ -7899,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Creeps | 118714 | [118714-alien-creeps.json](./118714-alien-creeps.json) |
 | Alien Cruise | 117927 | [117927-alien-cruise.json](./117927-alien-cruise.json) |
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
+| Alien Crush | 12492 | [12492-alien-crush.json](./12492-alien-crush.json) |
 | Alien Crush Returns | 51097 | [51097-alien-crush-returns.json](./51097-alien-crush-returns.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dawn | 141582 | [141582-alien-dawn.json](./141582-alien-dawn.json) |
@@ -11095,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels in Orbit | 389021 | [389021-angels-in-orbit.json](./389021-angels-in-orbit.json) |
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
 | Angels of Battle | 177247 | [177247-angels-of-battle.json](./177247-angels-of-battle.json) |
+| Angels of Death | 26596 | [26596-angels-of-death.json](./26596-angels-of-death.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
 | Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
@@ -18428,6 +18431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrolight | 182144 | [182144-astrolight.json](./182144-astrolight.json) |
 | Astrolite | 372421 | [372421-astrolite.json](./372421-astrolite.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
+| Astrologaster | 68390 | [68390-astrologaster.json](./68390-astrologaster.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astrologia Odyssey IV: Chronos Reflection | 28248 | [28248-astrologia-odyssey-iv-chronos-reflection.json](./28248-astrologia-odyssey-iv-chronos-reflection.json) |
 | Astrology | 147196 | [147196-astrology.json](./147196-astrology.json) |
@@ -19096,6 +19100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Continent | 43826 | [43826-atlantis-the-lost-continent.json](./43826-atlantis-the-lost-continent.json) |
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
+| Atlantis: The Lost Tales | 2209 | [2209-atlantis-the-lost-tales.json](./2209-atlantis-the-lost-tales.json) |
 | Atlantis: Underwater Tycoon | 24091 | [24091-atlantis-underwater-tycoon.json](./24091-atlantis-underwater-tycoon.json) |
 | Atlas | 113116 | [113116-atlas.json](./113116-atlas.json) |
 | Atlas | 324945 | [324945-atlas.json](./324945-atlas.json) |
