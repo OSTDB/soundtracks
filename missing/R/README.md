@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
+| Reckless Racing Ultimate | 64555 | [64555-reckless-racing-ultimate.json](./64555-reckless-racing-ultimate.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
 | Reckless Ruckus | 370391 | [370391-reckless-ruckus.json](./370391-reckless-ruckus.json) |
 | Reckless Rufus | 39164 | [39164-reckless-rufus.json](./39164-reckless-rufus.json) |
@@ -4381,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
 | Red Impact | 274302 | [274302-red-impact.json](./274302-red-impact.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
+| Red Invasion: Tower Defense Blitzkrieg | 64563 | [64563-red-invasion-tower-defense-blitzkrieg.json](./64563-red-invasion-tower-defense-blitzkrieg.json) |
 | Red is Dead | 32020 | [32020-red-is-dead.json](./32020-red-is-dead.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Jets | 209254 | [209254-red-jets.json](./209254-red-jets.json) |
