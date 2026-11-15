@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum - Game of the Year Edition | 27862 | [27862-batman-arkham-asylum-game-of-the-year-edition.json](./27862-batman-arkham-asylum-game-of-the-year-edition.json) |
 | Batman: Arkham Asylum - Insane Night Challenge Map Pack | 26111 | [26111-batman-arkham-asylum-insane-night-challenge-map-pack.json](./26111-batman-arkham-asylum-insane-night-challenge-map-pack.json) |
 | Batman: Arkham Asylum - Play as the Joker Challenge Map | 25993 | [25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json](./25993-batman-arkham-asylum-play-as-the-joker-challenge-map.json) |
+| Batman: Arkham Asylum - Prey in the Darkness Map Pack | 25991 | [25991-batman-arkham-asylum-prey-in-the-darkness-map-pack.json](./25991-batman-arkham-asylum-prey-in-the-darkness-map-pack.json) |
 | Batman: Arkham City - Arkham City Skins Pack | 75545 | [75545-batman-arkham-city-arkham-city-skins-pack.json](./75545-batman-arkham-city-arkham-city-skins-pack.json) |
 | Batman: Arkham City - Armored Edition | 20834 | [20834-batman-arkham-city-armored-edition.json](./20834-batman-arkham-city-armored-edition.json) |
 | Batman: Arkham City - Batman Inc. Batsuit Skin | 138111 | [138111-batman-arkham-city-batman-inc-batsuit-skin.json](./138111-batman-arkham-city-batman-inc-batsuit-skin.json) |
@@ -3746,32 +3747,48 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham City Lockdown | 77258 | [77258-batman-arkham-city-lockdown.json](./77258-batman-arkham-city-lockdown.json) |
 | Batman: Arkham Collection | 112659 | [112659-batman-arkham-collection.json](./112659-batman-arkham-collection.json) |
+| Batman: Arkham Knight - 1970s Batman Themed Batmobile Skin | 26035 | [26035-batman-arkham-knight-1970s-batman-themed-batmobile-skin.json](./26035-batman-arkham-knight-1970s-batman-themed-batmobile-skin.json) |
 | Batman: Arkham Knight - 1989 Movie Batmobile Pack | 15520 | [15520-batman-arkham-knight-1989-movie-batmobile-pack.json](./15520-batman-arkham-knight-1989-movie-batmobile-pack.json) |
 | Batman: Arkham Knight - 1st Appearance Batman Skin | 25977 | [25977-batman-arkham-knight-1st-appearance-batman-skin.json](./25977-batman-arkham-knight-1st-appearance-batman-skin.json) |
+| Batman: Arkham Knight - 2008 Movie Batman Skin | 26041 | [26041-batman-arkham-knight-2008-movie-batman-skin.json](./26041-batman-arkham-knight-2008-movie-batman-skin.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
+| Batman: Arkham Knight - 2016 Batman v Superman Batmobile Pack | 26036 | [26036-batman-arkham-knight-2016-batman-v-superman-batmobile-pack.json](./26036-batman-arkham-knight-2016-batman-v-superman-batmobile-pack.json) |
 | Batman: Arkham Knight - A Flip of a Coin | 15530 | [15530-batman-arkham-knight-a-flip-of-a-coin.json](./15530-batman-arkham-knight-a-flip-of-a-coin.json) |
 | Batman: Arkham Knight - A Matter of Family | 15519 | [15519-batman-arkham-knight-a-matter-of-family.json](./15519-batman-arkham-knight-a-matter-of-family.json) |
 | Batman: Arkham Knight - Bat-Family Skin Pack | 15521 | [15521-batman-arkham-knight-bat-family-skin-pack.json](./15521-batman-arkham-knight-bat-family-skin-pack.json) |
+| Batman: Arkham Knight - Batman Beyond Skin | 25996 | [25996-batman-arkham-knight-batman-beyond-skin.json](./25996-batman-arkham-knight-batman-beyond-skin.json) |
 | Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
 | Batman: Arkham Knight - Batman Flashpoint Skin | 25974 | [25974-batman-arkham-knight-batman-flashpoint-skin.json](./25974-batman-arkham-knight-batman-flashpoint-skin.json) |
 | Batman: Arkham Knight - Batman Inc. Skin | 25972 | [25972-batman-arkham-knight-batman-inc-skin.json](./25972-batman-arkham-knight-batman-inc-skin.json) |
+| Batman: Arkham Knight - Batman: Noel Skin | 26042 | [26042-batman-arkham-knight-batman-noel-skin.json](./26042-batman-arkham-knight-batman-noel-skin.json) |
 | Batman: Arkham Knight - Catwoman's Revenge | 15529 | [15529-batman-arkham-knight-catwomans-revenge.json](./15529-batman-arkham-knight-catwomans-revenge.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 1 | 15522 | [15522-batman-arkham-knight-crime-fighter-challenge-pack-1.json](./15522-batman-arkham-knight-crime-fighter-challenge-pack-1.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
+| Batman: Arkham Knight - Crime Fighter Challenge Pack 4 | 26037 | [26037-batman-arkham-knight-crime-fighter-challenge-pack-4.json](./26037-batman-arkham-knight-crime-fighter-challenge-pack-4.json) |
+| Batman: Arkham Knight - Crime Fighter Challenge Pack 5 | 26043 | [26043-batman-arkham-knight-crime-fighter-challenge-pack-5.json](./26043-batman-arkham-knight-crime-fighter-challenge-pack-5.json) |
+| Batman: Arkham Knight - Crime Fighter Challenge Pack 6 | 25990 | [25990-batman-arkham-knight-crime-fighter-challenge-pack-6.json](./25990-batman-arkham-knight-crime-fighter-challenge-pack-6.json) |
+| Batman: Arkham Knight - Dark Knight Returns Batman Skin | 26030 | [26030-batman-arkham-knight-dark-knight-returns-batman-skin.json](./26030-batman-arkham-knight-dark-knight-returns-batman-skin.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
 | Batman: Arkham Knight - Game of the Year Edition | 42929 | [42929-batman-arkham-knight-game-of-the-year-edition.json](./42929-batman-arkham-knight-game-of-the-year-edition.json) |
 | Batman: Arkham Knight - GCPD Lockdown | 15523 | [15523-batman-arkham-knight-gcpd-lockdown.json](./15523-batman-arkham-knight-gcpd-lockdown.json) |
 | Batman: Arkham Knight - Limited Edition | 41640 | [41640-batman-arkham-knight-limited-edition.json](./41640-batman-arkham-knight-limited-edition.json) |
 | Batman: Arkham Knight - New 52 Skins Pack | 25983 | [25983-batman-arkham-knight-new-52-skins-pack.json](./25983-batman-arkham-knight-new-52-skins-pack.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
+| Batman: Arkham Knight - Original Arkham Batmobile | 26044 | [26044-batman-arkham-knight-original-arkham-batmobile.json](./26044-batman-arkham-knight-original-arkham-batmobile.json) |
+| Batman: Arkham Knight - PlayStation 4 Exclusive Skins Pack | 25997 | [25997-batman-arkham-knight-playstation-4-exclusive-skins-pack.json](./25997-batman-arkham-knight-playstation-4-exclusive-skins-pack.json) |
 | Batman: Arkham Knight - PlayStation Exclusive Scarecrow Nightmare Missions | 25975 | [25975-batman-arkham-knight-playstation-exclusive-scarecrow-nightmare-missions.json](./25975-batman-arkham-knight-playstation-exclusive-scarecrow-nightmare-missions.json) |
 | Batman: Arkham Knight - Premium Edition | 52440 | [52440-batman-arkham-knight-premium-edition.json](./52440-batman-arkham-knight-premium-edition.json) |
+| Batman: Arkham Knight - Prototype Batmobile Skin | 26033 | [26033-batman-arkham-knight-prototype-batmobile-skin.json](./26033-batman-arkham-knight-prototype-batmobile-skin.json) |
 | Batman: Arkham Knight - Red Hood Story Pack | 26034 | [26034-batman-arkham-knight-red-hood-story-pack.json](./26034-batman-arkham-knight-red-hood-story-pack.json) |
+| Batman: Arkham Knight - Riddler Themed Batmobile Skin | 26038 | [26038-batman-arkham-knight-riddler-themed-batmobile-skin.json](./26038-batman-arkham-knight-riddler-themed-batmobile-skin.json) |
+| Batman: Arkham Knight - Robin and Batmobile Skins Pack | 26039 | [26039-batman-arkham-knight-robin-and-batmobile-skins-pack.json](./26039-batman-arkham-knight-robin-and-batmobile-skins-pack.json) |
+| Batman: Arkham Knight - Rocksteady Themed Batmobile Skin | 26045 | [26045-batman-arkham-knight-rocksteady-themed-batmobile-skin.json](./26045-batman-arkham-knight-rocksteady-themed-batmobile-skin.json) |
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
 | Batman: Arkham Knight - The Serious Edition | 28251 | [28251-batman-arkham-knight-the-serious-edition.json](./28251-batman-arkham-knight-the-serious-edition.json) |
+| Batman: Arkham Knight - WayneTech Track Pack | 26040 | [26040-batman-arkham-knight-waynetech-track-pack.json](./26040-batman-arkham-knight-waynetech-track-pack.json) |
 | Batman: Arkham Origins - Black Mask Challenge Pack | 75534 | [75534-batman-arkham-origins-black-mask-challenge-pack.json](./75534-batman-arkham-origins-black-mask-challenge-pack.json) |
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
 | Batman: Arkham Origins - Collector's Edition | 43020 | [43020-batman-arkham-origins-collectors-edition.json](./43020-batman-arkham-origins-collectors-edition.json) |
@@ -15462,6 +15479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Ball | 347618 | [347618-bouncing-ball.json](./347618-bouncing-ball.json) |
 | Bouncing Ball | 46857 | [46857-bouncing-ball.json](./46857-bouncing-ball.json) |
 | Bouncing Ball 3D | 88720 | [88720-bouncing-ball-3d.json](./88720-bouncing-ball-3d.json) |
+| Bouncing Ball: A simple, addictive small game | 26000 | [26000-bouncing-ball-a-simple-addictive-small-game.json](./26000-bouncing-ball-a-simple-addictive-small-game.json) |
 | Bouncing Bluster | 181435 | [181435-bouncing-bluster.json](./181435-bouncing-bluster.json) |
 | Bouncing Buddies | 232606 | [232606-bouncing-buddies.json](./232606-bouncing-buddies.json) |
 | Bouncing Buds | 363566 | [363566-bouncing-buds.json](./363566-bouncing-buds.json) |
