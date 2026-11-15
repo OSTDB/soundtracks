@@ -4777,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
 | Cata-Bomb | 412437 | [412437-cata-bomb.json](./412437-cata-bomb.json) |
 | Catabasis | 221007 | [221007-catabasis.json](./221007-catabasis.json) |
+| Catachresis: A Way Too Scary Game | 57301 | [57301-catachresis-a-way-too-scary-game.json](./57301-catachresis-a-way-too-scary-game.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
 | Cataclismo: The Old Kingdom | 411100 | [411100-cataclismo-the-old-kingdom.json](./411100-cataclismo-the-old-kingdom.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
@@ -6272,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Letter | 351365 | [351365-chain-letter.json](./351365-chain-letter.json) |
 | Chain Mail: Trip to the Panic World! | 97641 | [97641-chain-mail-trip-to-the-panic-world.json](./97641-chain-mail-trip-to-the-panic-world.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
+| Chain of Command | 57857 | [57857-chain-of-command.json](./57857-chain-of-command.json) |
 | Chain of Command: Eastern Front | 206907 | [206907-chain-of-command-eastern-front.json](./206907-chain-of-command-eastern-front.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
@@ -14066,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Com__et | 267808 | [267808-com-et.json](./267808-com-et.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
 | Coma | 222695 | [222695-coma.json](./222695-coma.json) |
+| Coma | 57300 | [57300-coma.json](./57300-coma.json) |
 | Coma State Eden | 176524 | [176524-coma-state-eden.json](./176524-coma-state-eden.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
