@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kadu Bird | 269922 | [269922-kadu-bird.json](./269922-kadu-bird.json) |
 | Kaebon | 424691 | [424691-kaebon.json](./424691-kaebon.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
+| Kaede the Eliminator | 123467 | [123467-kaede-the-eliminator.json](./123467-kaede-the-eliminator.json) |
 | Kaelaverse: Pemascape | 364463 | [364463-kaelaverse-pemascape.json](./364463-kaelaverse-pemascape.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
 | Kaen Seibo: The Virgin on Megiddo | 70269 | [70269-kaen-seibo-the-virgin-on-megiddo.json](./70269-kaen-seibo-the-virgin-on-megiddo.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetica | 8236 | [8236-kinetica.json](./8236-kinetica.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
 | Kinetiks | 410072 | [410072-kinetiks.json](./410072-kinetiks.json) |
+| Kinetile | 429362 | [429362-kinetile.json](./429362-kinetile.json) |
 | Kinetix / Dynamix | 79461 | [79461-kinetix-dynamix.json](./79461-kinetix-dynamix.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | Kinfolk | 379418 | [379418-kinfolk.json](./379418-kinfolk.json) |
@@ -3960,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Warrior | 128319 | [128319-kingdom-warrior.json](./128319-kingdom-warrior.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
+| Kingdom Wars | 8955 | [8955-kingdom-wars.json](./8955-kingdom-wars.json) |
 | Kingdom Wars 2: Battles | 16691 | [16691-kingdom-wars-2-battles.json](./16691-kingdom-wars-2-battles.json) |
 | Kingdom Wars 2: Definitive Edition | 116181 | [116181-kingdom-wars-2-definitive-edition.json](./116181-kingdom-wars-2-definitive-edition.json) |
 | Kingdom Wars 4 | 135730 | [135730-kingdom-wars-4.json](./135730-kingdom-wars-4.json) |
@@ -6036,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
+| Kooring VR Wonderland: Heart Castle Crush | 429384 | [429384-kooring-vr-wonderland-heart-castle-crush.json](./429384-kooring-vr-wonderland-heart-castle-crush.json) |
 | Kooring VR Wonderland: Mecadino's Attack | 170645 | [170645-kooring-vr-wonderland-mecadinos-attack.json](./170645-kooring-vr-wonderland-mecadinos-attack.json) |
 | Kooring VR Wonderland: Red Queen's Black Magic | 195306 | [195306-kooring-vr-wonderland-red-queens-black-magic.json](./195306-kooring-vr-wonderland-red-queens-black-magic.json) |
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
