@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
 | A Day in the Palace | 296304 | [296304-a-day-in-the-palace.json](./296304-a-day-in-the-palace.json) |
 | A Day in the Park | 167225 | [167225-a-day-in-the-park.json](./167225-a-day-in-the-park.json) |
+| A Day in the Woods | 31314 | [31314-a-day-in-the-woods.json](./31314-a-day-in-the-woods.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
 | A Day of Slacking | 325230 | [325230-a-day-of-slacking.json](./325230-a-day-of-slacking.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
