@@ -16603,6 +16603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
 | Moero Chronicle Hyper | 114421 | [114421-moero-chronicle-hyper.json](./114421-moero-chronicle-hyper.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
+| Moero Crystal | 11494 | [11494-moero-crystal.json](./11494-moero-crystal.json) |
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Moero Downhill Night | 331458 | [331458-moero-downhill-night.json](./331458-moero-downhill-night.json) |
 | Moero Downhill Night 2 | 335720 | [335720-moero-downhill-night-2.json](./335720-moero-downhill-night-2.json) |
@@ -21343,6 +21344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
 | Mugsy & Mugsy's Revenge | 204166 | [204166-mugsy-and-mugsys-revenge.json](./204166-mugsy-and-mugsys-revenge.json) |
 | Mugsy's Revenge | 26216 | [26216-mugsys-revenge.json](./26216-mugsys-revenge.json) |
+| Mugwump | 11551 | [11551-mugwump.json](./11551-mugwump.json) |
 | Muh Quest | 353607 | [353607-muh-quest.json](./353607-muh-quest.json) |
 | Muhaboy | 317160 | [317160-muhaboy.json](./317160-muhaboy.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
