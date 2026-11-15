@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Knights | 180176 | [180176-table-knights.json](./180176-table-knights.json) |
 | Table Letters | 283837 | [283837-table-letters.json](./283837-table-letters.json) |
 | Table Magic | 230707 | [230707-table-magic.json](./230707-table-magic.json) |
+| Table Manners | 124000 | [124000-table-manners.json](./124000-table-manners.json) |
 | Table Mini Golf | 63631 | [63631-table-mini-golf.json](./63631-table-mini-golf.json) |
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Party | 276641 | [276641-table-party.json](./276641-table-party.json) |
@@ -5629,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tevris | 75656 | [75656-tevris.json](./75656-tevris.json) |
 | Tex Atomic's Big Bot Battles | 70268 | [70268-tex-atomics-big-bot-battles.json](./70268-tex-atomics-big-bot-battles.json) |
 | Tex Murphy: Killing Moon Rising | 404988 | [404988-tex-murphy-killing-moon-rising.json](./404988-tex-murphy-killing-moon-rising.json) |
+| Tex Murphy: Martian Memorandum | 5543 | [5543-tex-murphy-martian-memorandum.json](./5543-tex-murphy-martian-memorandum.json) |
 | Tex Murphy: Mean Streets | 1290 | [1290-tex-murphy-mean-streets.json](./1290-tex-murphy-mean-streets.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
@@ -9756,6 +9758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset | 95058 | [95058-the-elder-scrolls-online-summerset.json](./95058-the-elder-scrolls-online-summerset.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
+| The Elder Scrolls Online: Thieves Guild | 121725 | [121725-the-elder-scrolls-online-thieves-guild.json](./121725-the-elder-scrolls-online-thieves-guild.json) |
 | The Elder Scrolls Online: Waking Flame | 180615 | [180615-the-elder-scrolls-online-waking-flame.json](./180615-the-elder-scrolls-online-waking-flame.json) |
 | The Elder Scrolls Online: Wolfhunter | 107018 | [107018-the-elder-scrolls-online-wolfhunter.json](./107018-the-elder-scrolls-online-wolfhunter.json) |
 | The Elder Scrolls Online: Wrathstone | 116150 | [116150-the-elder-scrolls-online-wrathstone.json](./116150-the-elder-scrolls-online-wrathstone.json) |
@@ -18597,6 +18600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
 | The Sims 4: Island Living | 119318 | [119318-the-sims-4-island-living.json](./119318-the-sims-4-island-living.json) |
 | The Sims 4: Journey to Batuu | 137294 | [137294-the-sims-4-journey-to-batuu.json](./137294-the-sims-4-journey-to-batuu.json) |
+| The Sims 4: Jungle Adventure | 120981 | [120981-the-sims-4-jungle-adventure.json](./120981-the-sims-4-jungle-adventure.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
 | The Sims 4: Kitchen Clutter Kit | 350996 | [350996-the-sims-4-kitchen-clutter-kit.json](./350996-the-sims-4-kitchen-clutter-kit.json) |
 | The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit | 404233 | [404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json](./404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json) |
@@ -19274,6 +19278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Streamers Guide | 140079 | [140079-the-streamers-guide.json](./140079-the-streamers-guide.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
+| The Stretchers | 125286 | [125286-the-stretchers.json](./125286-the-stretchers.json) |
 | The Strike | 34011 | [34011-the-strike.json](./34011-the-strike.json) |
 | The Stroke of Midnight | 99611 | [99611-the-stroke-of-midnight.json](./99611-the-stroke-of-midnight.json) |
 | The Strong High School | 301224 | [301224-the-strong-high-school.json](./301224-the-strong-high-school.json) |
