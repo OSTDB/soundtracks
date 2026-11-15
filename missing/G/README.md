@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery of Things: Reveries | 279462 | [279462-gallery-of-things-reveries.json](./279462-gallery-of-things-reveries.json) |
 | Gallery One | 106340 | [106340-gallery-one.json](./106340-gallery-one.json) |
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
+| Gallery Organizer | 423196 | [423196-gallery-organizer.json](./423196-gallery-organizer.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery X | 302979 | [302979-gallery-x.json](./302979-gallery-x.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
@@ -2926,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
 | Geko: In Search of the Big Fly | 261636 | [261636-geko-in-search-of-the-big-fly.json](./261636-geko-in-search-of-the-big-fly.json) |
+| Gekokujo: Vagrant Crown | 423347 | [423347-gekokujo-vagrant-crown.json](./423347-gekokujo-vagrant-crown.json) |
 | Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
 | Gel-Tank | 142801 | [142801-gel-tank.json](./142801-gel-tank.json) |
 | Gel: Set & Match | 93921 | [93921-gel-set-and-match.json](./93921-gel-set-and-match.json) |
@@ -11091,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groundskeeper 2 | 22101 | [22101-groundskeeper-2.json](./22101-groundskeeper-2.json) |
 | Groundwork Simulator | 421457 | [421457-groundwork-simulator.json](./421457-groundwork-simulator.json) |
 | GroundZero | 276666 | [276666-groundzero.json](./276666-groundzero.json) |
+| Group Idlemen | 423317 | [423317-group-idlemen.json](./423317-group-idlemen.json) |
 | Group Project Simulator | 132940 | [132940-group-project-simulator.json](./132940-group-project-simulator.json) |
 | Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
@@ -11708,6 +11711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds of Gods | 182098 | [182098-guilds-of-gods.json](./182098-guilds-of-gods.json) |
 | Guilds of Greybrook | 373166 | [373166-guilds-of-greybrook.json](./373166-guilds-of-greybrook.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
+| GuildWright | 423311 | [423311-guildwright.json](./423311-guildwright.json) |
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
 | Guile & Glory: Firstborn | 116597 | [116597-guile-and-glory-firstborn.json](./116597-guile-and-glory-firstborn.json) |
 | Guiling's Adventure | 355200 | [355200-guilings-adventure.json](./355200-guilings-adventure.json) |
