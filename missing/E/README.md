@@ -2885,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elifoot 2002 | 398928 | [398928-elifoot-2002.json](./398928-elifoot-2002.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
 | Elijah and the Out of this World Adventure | 171679 | [171679-elijah-and-the-out-of-this-world-adventure.json](./171679-elijah-and-the-out-of-this-world-adventure.json) |
+| Eliminate Down | 46176 | [46176-eliminate-down.json](./46176-eliminate-down.json) |
 | Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
