@@ -8354,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Color | 104396 | [104396-number-color.json](./104396-number-color.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
+| Number Dieci | 56081 | [56081-number-dieci.json](./56081-number-dieci.json) |
 | Number Diner | 200075 | [200075-number-diner.json](./200075-number-diner.json) |
 | Number Drawing - Coloring Book | 88990 | [88990-number-drawing-coloring-book.json](./88990-number-drawing-coloring-book.json) |
 | Number Drop | 370389 | [370389-number-drop.json](./370389-number-drop.json) |
