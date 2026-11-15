@@ -7057,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
 | Little Witch Survivors | 349103 | [349103-little-witch-survivors.json](./349103-little-witch-survivors.json) |
 | Little Witch's Carnival | 372509 | [372509-little-witchs-carnival.json](./372509-little-witchs-carnival.json) |
+| Little Witch’s Lodge a Cozy Magical Cleanup Game | 423917 | [423917-little-witch-s-lodge-a-cozy-magical-cleanup-game.json](./423917-little-witch-s-lodge-a-cozy-magical-cleanup-game.json) |
 | Little Witchelsa: Pumpkin Peril | 219393 | [219393-little-witchelsa-pumpkin-peril.json](./219393-little-witchelsa-pumpkin-peril.json) |
 | Little Witches vs. Monsters | 341174 | [341174-little-witches-vs-monsters.json](./341174-little-witches-vs-monsters.json) |
 | Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
