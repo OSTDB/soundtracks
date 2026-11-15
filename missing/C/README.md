@@ -14122,6 +14122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat 3D | 206992 | [206992-combat-3d.json](./206992-combat-3d.json) |
 | Combat 3D | 295959 | [295959-combat-3d.json](./295959-combat-3d.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
+| Combat Aces | 46155 | [46155-combat-aces.json](./46155-combat-aces.json) |
 | Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
 | Combat Air Patrol | 12546 | [12546-combat-air-patrol.json](./12546-combat-air-patrol.json) |
 | Combat Arms | 18940 | [18940-combat-arms.json](./18940-combat-arms.json) |
@@ -20480,6 +20481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
 | Crudelis | 33952 | [33952-crudelis.json](./33952-crudelis.json) |
+| Crüe Ball | 46282 | [46282-crue-ball.json](./46282-crue-ball.json) |
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
 | Cruel Arena | 34967 | [34967-cruel-arena.json](./34967-cruel-arena.json) |
 | Cruel Bands Career | 121990 | [121990-cruel-bands-career.json](./121990-cruel-bands-career.json) |
@@ -21125,6 +21127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Wish: Classroom Dungeon | 182036 | [182036-crystal-wish-classroom-dungeon.json](./182036-crystal-wish-classroom-dungeon.json) |
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
 | Crystal's Castle | 303445 | [303445-crystals-castle.json](./303445-crystals-castle.json) |
+| Crystal's Pony Tale | 46278 | [46278-crystals-pony-tale.json](./46278-crystals-pony-tale.json) |
 | Crystalase | 402571 | [402571-crystalase.json](./402571-crystalase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystalfall | 322477 | [322477-crystalfall.json](./322477-crystalfall.json) |
