@@ -3807,7 +3807,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Abhorrent | 192213 | [192213-scp-abhorrent.json](./192213-scp-abhorrent.json) |
 | SCP: Antimemetics Division | 407726 | [407726-scp-antimemetics-division.json](./407726-scp-antimemetics-division.json) |
 | SCP: Archive | 201393 | [201393-scp-archive.json](./201393-scp-archive.json) |
-| SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
 | SCP: Breakout Story | 137837 | [137837-scp-breakout-story.json](./137837-scp-breakout-story.json) |
