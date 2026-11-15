@@ -1502,7 +1502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Little Berry Forest | 186419 | [186419-a-tale-of-little-berry-forest.json](./186419-a-tale-of-little-berry-forest.json) |
 | A Tale of Little Berry Forest 2: Stars | 320999 | [320999-a-tale-of-little-berry-forest-2-stars.json](./320999-a-tale-of-little-berry-forest-2-stars.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
-| A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
 | A Tale of Paper: Unfolded Melody | 300441 | [300441-a-tale-of-paper-unfolded-melody.json](./300441-a-tale-of-paper-unfolded-melody.json) |
@@ -2338,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above | 301218 | [301218-above.json](./301218-above.json) |
 | Above | 406287 | [406287-above.json](./406287-above.json) |
 | Above | 91138 | [91138-above.json](./91138-above.json) |
+| Above & Below | 52289 | [52289-above-and-below.json](./52289-above-and-below.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above Earth | 121257 | [121257-above-earth.json](./121257-above-earth.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
