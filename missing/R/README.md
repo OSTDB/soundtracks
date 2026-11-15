@@ -8684,6 +8684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rippin' Riders Snowboarding | 26132 | [26132-rippin-riders-snowboarding.json](./26132-rippin-riders-snowboarding.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple | 24545 | [24545-ripple.json](./24545-ripple.json) |
+| Ripple | 29337 | [29337-ripple.json](./29337-ripple.json) |
 | Ripple and Frawg: The Seasonal Song | 283345 | [283345-ripple-and-frawg-the-seasonal-song.json](./283345-ripple-and-frawg-the-seasonal-song.json) |
 | Ripple Dot Zero | 231714 | [231714-ripple-dot-zero.json](./231714-ripple-dot-zero.json) |
 | Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
@@ -12177,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Cleaning Simulator 2014 | 178937 | [178937-room-cleaning-simulator-2014.json](./178937-room-cleaning-simulator-2014.json) |
 | Room Cliker | 232228 | [232228-room-cliker.json](./232228-room-cliker.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
+| Room Designer VR | 29298 | [29298-room-designer-vr.json](./29298-room-designer-vr.json) |
 | Room Dot Exe | 369804 | [369804-room-dot-exe.json](./369804-room-dot-exe.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
@@ -12530,6 +12532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot Together | 361024 | [361024-rot-together.json](./361024-rot-together.json) |
 | Rot: Purgatory Hill | 182811 | [182811-rot-purgatory-hill.json](./182811-rot-purgatory-hill.json) |
 | Rota | 291026 | [291026-rota.json](./291026-rota.json) |
+| Rota Craze | 29312 | [29312-rota-craze.json](./29312-rota-craze.json) |
 | Rota: Bend Gravity | 201487 | [201487-rota-bend-gravity.json](./201487-rota-bend-gravity.json) |
 | Rota: Kurofune | 304146 | [304146-rota-kurofune.json](./304146-rota-kurofune.json) |
 | Rota's Nautical Chronicles of Trade | 302446 | [302446-rotas-nautical-chronicles-of-trade.json](./302446-rotas-nautical-chronicles-of-trade.json) |
@@ -12589,6 +12592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rothschild: The Sheep Will Wake | 34136 | [34136-rothschild-the-sheep-will-wake.json](./34136-rothschild-the-sheep-will-wake.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
+| Rotii | 29294 | [29294-rotii.json](./29294-rotii.json) |
 | Rotisserie Relapse | 181413 | [181413-rotisserie-relapse.json](./181413-rotisserie-relapse.json) |
 | ROTN Quiz game 2 | 71168 | [71168-rotn-quiz-game-2.json](./71168-rotn-quiz-game-2.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
