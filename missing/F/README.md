@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia | 234990 | [234990-fantasia.json](./234990-fantasia.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
+| Fantasia Diamond | 26002 | [26002-fantasia-diamond.json](./26002-fantasia-diamond.json) |
 | Fantasia II | 46519 | [46519-fantasia-ii.json](./46519-fantasia-ii.json) |
 | Fantasia Medieval | 220913 | [220913-fantasia-medieval.json](./220913-fantasia-medieval.json) |
 | Fantasia of the Wind | 74675 | [74675-fantasia-of-the-wind.json](./74675-fantasia-of-the-wind.json) |
