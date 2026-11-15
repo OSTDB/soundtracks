@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate General: American Revolution - Premium Edition | 304390 | [304390-ultimate-general-american-revolution-premium-edition.json](./304390-ultimate-general-american-revolution-premium-edition.json) |
 | Ultimate General: Civil War | 25951 | [25951-ultimate-general-civil-war.json](./25951-ultimate-general-civil-war.json) |
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
+| Ultimate Ghosts 'n Goblins | 12481 | [12481-ultimate-ghosts-n-goblins.json](./12481-ultimate-ghosts-n-goblins.json) |
 | Ultimate Gin | 270622 | [270622-ultimate-gin.json](./270622-ultimate-gin.json) |
 | Ultimate Godspeed | 202736 | [202736-ultimate-godspeed.json](./202736-ultimate-godspeed.json) |
 | Ultimate Golf Battle | 348111 | [348111-ultimate-golf-battle.json](./348111-ultimate-golf-battle.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbox The Cats | 337009 | [337009-unbox-the-cats.json](./337009-unbox-the-cats.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unbox your Workspace | 398308 | [398308-unbox-your-workspace.json](./398308-unbox-your-workspace.json) |
+| Unbox: Newbie's Adventure | 27529 | [27529-unbox-newbies-adventure.json](./27529-unbox-newbies-adventure.json) |
 | Unboxathon | 346186 | [346186-unboxathon.json](./346186-unboxathon.json) |
 | Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
 | Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
