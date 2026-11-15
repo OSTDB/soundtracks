@@ -9116,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Hop | 415168 | [415168-hippo-hop.json](./415168-hippo-hop.json) |
 | Hippo on Elm Street | 135325 | [135325-hippo-on-elm-street.json](./135325-hippo-on-elm-street.json) |
 | Hippo Rush | 74893 | [74893-hippo-rush.json](./74893-hippo-rush.json) |
+| Hippo Sports | 56681 | [56681-hippo-sports.json](./56681-hippo-sports.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo Teeth | 47259 | [47259-hippo-teeth.json](./47259-hippo-teeth.json) |
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
@@ -13215,6 +13216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpty Dumpty meets the Fuzzy Wuzzies | 70736 | [70736-humpty-dumpty-meets-the-fuzzy-wuzzies.json](./70736-humpty-dumpty-meets-the-fuzzy-wuzzies.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
+| Humvee Assault | 56663 | [56663-humvee-assault.json](./56663-humvee-assault.json) |
 | Humvee Assault: War 3D FPS | 268328 | [268328-humvee-assault-war-3d-fps.json](./268328-humvee-assault-war-3d-fps.json) |
 | Hunahpu Quest. Mechanoid | 81903 | [81903-hunahpu-quest-mechanoid.json](./81903-hunahpu-quest-mechanoid.json) |
 | Hunahpu: Way of the Warrior | 29423 | [29423-hunahpu-way-of-the-warrior.json](./29423-hunahpu-way-of-the-warrior.json) |
@@ -14216,7 +14218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
 | Hyperfunk | 368929 | [368929-hyperfunk.json](./368929-hyperfunk.json) |
-| Hypergalactic Psychic Table Tennis 3000 | 129705 | [129705-hypergalactic-psychic-table-tennis-3000.json](./129705-hypergalactic-psychic-table-tennis-3000.json) |
 | Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGate Mall | 328131 | [328131-hypergate-mall.json](./328131-hypergate-mall.json) |
