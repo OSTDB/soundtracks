@@ -4304,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Disc Golf | 32338 | [32338-vr-disc-golf.json](./32338-vr-disc-golf.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
 | VR Dragon Flight | 223215 | [223215-vr-dragon-flight.json](./223215-vr-dragon-flight.json) |
+| VR Dream Match Baseball | 75996 | [75996-vr-dream-match-baseball.json](./75996-vr-dream-match-baseball.json) |
 | VR Driver School | 288490 | [288490-vr-driver-school.json](./288490-vr-driver-school.json) |
 | VR Drivers | 68512 | [68512-vr-drivers.json](./68512-vr-drivers.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
@@ -4419,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR Pigeons | 163150 | [163150-vr-pigeons.json](./163150-vr-pigeons.json) |
 | VR Ping Pong | 21602 | [21602-vr-ping-pong.json](./21602-vr-ping-pong.json) |
+| VR Ping Pong Paradise | 76016 | [76016-vr-ping-pong-paradise.json](./76016-vr-ping-pong-paradise.json) |
 | VR Ping Pong Pro | 120470 | [120470-vr-ping-pong-pro.json](./120470-vr-ping-pong-pro.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
 | VR Pirates of the Caribbean Life Experience | 169727 | [169727-vr-pirates-of-the-caribbean-life-experience.json](./169727-vr-pirates-of-the-caribbean-life-experience.json) |
@@ -4660,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VS Cartoon Cat | 305063 | [305063-vs-cartoon-cat.json](./305063-vs-cartoon-cat.json) |
 | Vs Chat Pack | 218762 | [218762-vs-chat-pack.json](./218762-vs-chat-pack.json) |
 | VS Mahjong: Otome Ryouran | 310348 | [310348-vs-mahjong-otome-ryouran.json](./310348-vs-mahjong-otome-ryouran.json) |
+| VS Round 1 | 76059 | [76059-vs-round-1.json](./76059-vs-round-1.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
 | VS-robo | 84416 | [84416-vs-robo.json](./84416-vs-robo.json) |
