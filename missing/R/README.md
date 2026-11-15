@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
 | Raiding Area 51: Break out Waifu | 389798 | [389798-raiding-area-51-break-out-waifu.json](./389798-raiding-area-51-break-out-waifu.json) |
 | Raiding Company | 94038 | [94038-raiding-company.json](./94038-raiding-company.json) |
+| Raiding Season | 423321 | [423321-raiding-season.json](./423321-raiding-season.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
 | Raiding.Zone | 246713 | [246713-raiding-zone.json](./246713-raiding-zone.json) |
 | RaidKids | 258659 | [258659-raidkids.json](./258659-raidkids.json) |
@@ -5279,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation of Ocean | 160028 | [160028-reincarnation-of-ocean.json](./160028-reincarnation-of-ocean.json) |
 | Reincarnation Shinsengumi! | 92034 | [92034-reincarnation-shinsengumi.json](./92034-reincarnation-shinsengumi.json) |
+| Reincarnation Squad | 423331 | [423331-reincarnation-squad.json](./423331-reincarnation-squad.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnation Warrior | 193926 | [193926-reincarnation-warrior.json](./193926-reincarnation-warrior.json) |
 | Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
@@ -5807,6 +5809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Renegade: The Battle for Jacob's Star | 69562 | [69562-renegade-the-battle-for-jacobs-star.json](./69562-renegade-the-battle-for-jacobs-star.json) |
+| Renegades | 423328 | [423328-renegades.json](./423328-renegades.json) |
 | RenewEd3D | 340705 | [340705-renewed3d.json](./340705-renewed3d.json) |
 | Renex III | 73884 | [73884-renex-iii.json](./73884-renex-iii.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
@@ -11415,6 +11418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue: The Adventure Game | 73979 | [73979-rogue-the-adventure-game.json](./73979-rogue-the-adventure-game.json) |
 | Rogue'n Roll | 29362 | [29362-roguen-roll.json](./29362-roguen-roll.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
+| Rogue's Climb | 423351 | [423351-rogues-climb.json](./423351-rogues-climb.json) |
 | Rogue's Light - The Greedy Cave | 95929 | [95929-rogues-light-the-greedy-cave.json](./95929-rogues-light-the-greedy-cave.json) |
 | Rogue's Odyssey | 382399 | [382399-rogues-odyssey.json](./382399-rogues-odyssey.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
