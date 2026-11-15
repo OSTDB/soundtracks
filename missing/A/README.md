@@ -6666,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness 3 | 52387 | [52387-airport-madness-3.json](./52387-airport-madness-3.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
 | Airport Madness 3D: Volume 2 | 76351 | [76351-airport-madness-3d-volume-2.json](./76351-airport-madness-3d-volume-2.json) |
+| Airport Madness 4 | 34816 | [34816-airport-madness-4.json](./34816-airport-madness-4.json) |
 | Airport Madness Challenge | 102506 | [102506-airport-madness-challenge.json](./102506-airport-madness-challenge.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Madness Mobile | 106864 | [106864-airport-madness-mobile.json](./106864-airport-madness-mobile.json) |
@@ -8991,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Protocol | 2539 | [2539-alpha-protocol.json](./2539-alpha-protocol.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
+| Alpha Runner | 34815 | [34815-alpha-runner.json](./34815-alpha-runner.json) |
 | Alpha Runner 2 | 369206 | [369206-alpha-runner-2.json](./369206-alpha-runner-2.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
 | Alpha Shark | 191998 | [191998-alpha-shark.json](./191998-alpha-shark.json) |
@@ -16850,6 +16852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
 | As Fast As Possible | 145819 | [145819-as-fast-as-possible.json](./145819-as-fast-as-possible.json) |
 | As Guilty As the Moon | 236453 | [236453-as-guilty-as-the-moon.json](./236453-as-guilty-as-the-moon.json) |
+| As I Began to Dream | 256722 | [256722-as-i-began-to-dream.json](./256722-as-i-began-to-dream.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As If Through Glass | 395339 | [395339-as-if-through-glass.json](./395339-as-if-through-glass.json) |
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
@@ -17026,6 +17029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asemblance: Oversight | 99164 | [99164-asemblance-oversight.json](./99164-asemblance-oversight.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
+| Asfalia: Panic at the Mansion | 258347 | [258347-asfalia-panic-at-the-mansion.json](./258347-asfalia-panic-at-the-mansion.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
 | Asgaldh: The Distortion Testament | 70042 | [70042-asgaldh-the-distortion-testament.json](./70042-asgaldh-the-distortion-testament.json) |
 | Asgard | 15203 | [15203-asgard.json](./15203-asgard.json) |
