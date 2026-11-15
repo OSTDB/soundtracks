@@ -5377,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 2: Under Pressure | 127040 | [127040-marvels-guardians-of-the-galaxy-the-telltale-series-episode-2-under-pressure.json](./127040-marvels-guardians-of-the-galaxy-the-telltale-series-episode-2-under-pressure.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 3: More than a Feeling | 127041 | [127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json](./127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
+| Marvel's Guardians of the Galaxy: The Telltale Series - Episode 5: Don't Stop Believin | 127043 | [127043-marvels-guardians-of-the-galaxy-the-telltale-series-episode-5-dont-stop-believin.json](./127043-marvels-guardians-of-the-galaxy-the-telltale-series-episode-5-dont-stop-believin.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
 | Marvel's Midnight Suns | 165347 | [165347-marvels-midnight-suns.json](./165347-marvels-midnight-suns.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Le Chef: Cooking Passion | 41940 | [41940-mary-le-chef-cooking-passion.json](./41940-mary-le-chef-cooking-passion.json) |
 | Mary le Chef: Cooking Passion - Platinum Edition | 177097 | [177097-mary-le-chef-cooking-passion-platinum-edition.json](./177097-mary-le-chef-cooking-passion-platinum-edition.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
+| Mary Shelley's Frankenstein | 5403 | [5403-mary-shelleys-frankenstein.json](./5403-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
 | Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
 | Mary Skelter 2: Limited Edition | 166266 | [166266-mary-skelter-2-limited-edition.json](./166266-mary-skelter-2-limited-edition.json) |
@@ -14012,6 +14014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
 | Minecraft: Story Mode - Episode 6: A Portal to Mystery | 127054 | [127054-minecraft-story-mode-episode-6-a-portal-to-mystery.json](./127054-minecraft-story-mode-episode-6-a-portal-to-mystery.json) |
 | Minecraft: Story Mode - Episode 7: Access Denied | 127055 | [127055-minecraft-story-mode-episode-7-access-denied.json](./127055-minecraft-story-mode-episode-7-access-denied.json) |
+| Minecraft: Story Mode - Episode 8: A Journey's End? | 127056 | [127056-minecraft-story-mode-episode-8-a-journeys-end.json](./127056-minecraft-story-mode-episode-8-a-journeys-end.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode - The Complete Adventure | 85611 | [85611-minecraft-story-mode-the-complete-adventure.json](./85611-minecraft-story-mode-the-complete-adventure.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
@@ -24329,6 +24332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Key to Ravenhearst | 50238 | [50238-mystery-case-files-key-to-ravenhearst.json](./50238-mystery-case-files-key-to-ravenhearst.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
+| Mystery Case Files: Madame Fate | 5512 | [5512-mystery-case-files-madame-fate.json](./5512-mystery-case-files-madame-fate.json) |
 | Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
 | Mystery Case Files: Moths to a Flame | 140231 | [140231-mystery-case-files-moths-to-a-flame.json](./140231-mystery-case-files-moths-to-a-flame.json) |
 | Mystery Case Files: Moths to a Flame - Collector's Edition | 122033 | [122033-mystery-case-files-moths-to-a-flame-collectors-edition.json](./122033-mystery-case-files-moths-to-a-flame-collectors-edition.json) |
@@ -24339,6 +24343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Return to Ravenhearst | 5513 | [5513-mystery-case-files-return-to-ravenhearst.json](./5513-mystery-case-files-return-to-ravenhearst.json) |
 | Mystery Case Files: Rewind | 140232 | [140232-mystery-case-files-rewind.json](./140232-mystery-case-files-rewind.json) |
 | Mystery Case Files: Rewind - Collector's Edition | 105339 | [105339-mystery-case-files-rewind-collectors-edition.json](./105339-mystery-case-files-rewind-collectors-edition.json) |
+| Mystery Case Files: Shadow Lake | 5517 | [5517-mystery-case-files-shadow-lake.json](./5517-mystery-case-files-shadow-lake.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
 | Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
