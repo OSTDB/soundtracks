@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers Deep | 291279 | [291279-layers-deep.json](./291279-layers-deep.json) |
 | Layers of Bust | 405024 | [405024-layers-of-bust.json](./405024-layers-of-bust.json) |
 | Layers of Fear 2 | 239164 | [239164-layers-of-fear-2.json](./239164-layers-of-fear-2.json) |
+| Layers of Fear 2 | 90107 | [90107-layers-of-fear-2.json](./90107-layers-of-fear-2.json) |
 | Layers of Fear 3 | 390145 | [390145-layers-of-fear-3.json](./390145-layers-of-fear-3.json) |
 | Layers of Fear VR | 147987 | [147987-layers-of-fear-vr.json](./147987-layers-of-fear-vr.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Antologia | 50762 | [50762-legacy-of-kain-antologia.json](./50762-legacy-of-kain-antologia.json) |
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
+| Legacy of Kain: Defiance | 5901 | [5901-legacy-of-kain-defiance.json](./5901-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
 | Legacy of Kain: Defiance Remastered - Ascendance Skin Pack | 403941 | [403941-legacy-of-kain-defiance-remastered-ascendance-skin-pack.json](./403941-legacy-of-kain-defiance-remastered-ascendance-skin-pack.json) |
 | Legacy of Kain: Defiance Remastered - Deluxe Edition | 401585 | [401585-legacy-of-kain-defiance-remastered-deluxe-edition.json](./401585-legacy-of-kain-defiance-remastered-deluxe-edition.json) |
@@ -5584,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name - Legendary Fighter Pack | 275762 | [275762-like-a-dragon-gaiden-the-man-who-erased-his-name-legendary-fighter-pack.json](./275762-like-a-dragon-gaiden-the-man-who-erased-his-name-legendary-fighter-pack.json) |
 | Like a Dragon Series Starter Pack | 311046 | [311046-like-a-dragon-series-starter-pack.json](./311046-like-a-dragon-series-starter-pack.json) |
+| Like a Dragon: Infinite Wealth | 217623 | [217623-like-a-dragon-infinite-wealth.json](./217623-like-a-dragon-infinite-wealth.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
 | Like a Dragon: Infinite Wealth - Deluxe Edition | 284856 | [284856-like-a-dragon-infinite-wealth-deluxe-edition.json](./284856-like-a-dragon-infinite-wealth-deluxe-edition.json) |
 | Like a Dragon: Infinite Wealth - Master Vacation Bundle | 288217 | [288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json](./288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json) |
