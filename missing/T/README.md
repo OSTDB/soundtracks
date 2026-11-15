@@ -16297,6 +16297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Others | 343852 | [343852-the-others.json](./343852-the-others.json) |
 | The Others by Paprikari Games | 22086 | [22086-the-others-by-paprikari-games.json](./22086-the-others-by-paprikari-games.json) |
 | The Others Will Join Shortly | 405871 | [405871-the-others-will-join-shortly.json](./405871-the-others-will-join-shortly.json) |
+| The Otherside: Realm of Eons | 16163 | [16163-the-otherside-realm-of-eons.json](./16163-the-otherside-realm-of-eons.json) |
 | The Otherwilde | 202655 | [202655-the-otherwilde.json](./202655-the-otherwilde.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
 | The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
@@ -34667,6 +34668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonomis | 338608 | [338608-trigonomis.json](./338608-trigonomis.json) |
 | Trigwa | 379305 | [379305-trigwa.json](./379305-trigwa.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
+| TriJinx: A Kristine Kross Mystery | 16079 | [16079-trijinx-a-kristine-kross-mystery.json](./16079-trijinx-a-kristine-kross-mystery.json) |
 | Trikaya | 142630 | [142630-trikaya.json](./142630-trikaya.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trikumax | 115519 | [115519-trikumax.json](./115519-trikumax.json) |
