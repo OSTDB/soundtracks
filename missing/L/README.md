@@ -5692,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilei and Han Meimei | 195381 | [195381-lilei-and-han-meimei.json](./195381-lilei-and-han-meimei.json) |
 | lilGunBois | 101364 | [101364-lilgunbois.json](./101364-lilgunbois.json) |
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
+| Lili: Child of Geos | 12366 | [12366-lili-child-of-geos.json](./12366-lili-child-of-geos.json) |
 | Lili:Miesta | 77682 | [77682-lili-miesta.json](./77682-lili-miesta.json) |
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
 | Lilia: The Fallen Flower in the Prison City | 335603 | [335603-lilia-the-fallen-flower-in-the-prison-city.json](./335603-lilia-the-fallen-flower-in-the-prison-city.json) |
