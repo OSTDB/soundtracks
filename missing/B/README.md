@@ -4318,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mountain | 318252 | [318252-battle-mountain.json](./318252-battle-mountain.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
 | Battle Mythic Maidens Arena | 351089 | [351089-battle-mythic-maidens-arena.json](./351089-battle-mythic-maidens-arena.json) |
+| Battle Nap | 421003 | [421003-battle-nap.json](./421003-battle-nap.json) |
 | Battle Nation | 419104 | [419104-battle-nation.json](./419104-battle-nation.json) |
 | Battle Nations | 50387 | [50387-battle-nations.json](./50387-battle-nations.json) |
 | Battle Night | 228434 | [228434-battle-night.json](./228434-battle-night.json) |
@@ -13293,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueTooth BiPlanes | 305991 | [305991-bluetooth-biplanes.json](./305991-bluetooth-biplanes.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
+| BlueWake | 420924 | [420924-bluewake.json](./420924-bluewake.json) |
 | Bluewater: Private Military Operations VR | 190066 | [190066-bluewater-private-military-operations-vr.json](./190066-bluewater-private-military-operations-vr.json) |
 | Bluey Shortcut Running Game | 212636 | [212636-bluey-shortcut-running-game.json](./212636-bluey-shortcut-running-game.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
