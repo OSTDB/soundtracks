@@ -2412,6 +2412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
+| Jissen Pachi-Slot Hisshouhou! Aladdin A | 62355 | [62355-jissen-pachi-slot-hisshouhou-aladdin-a.json](./62355-jissen-pachi-slot-hisshouhou-aladdin-a.json) |
+| Jissen Pachi-Slot Hisshouhou! Aladdin II Evolution | 62356 | [62356-jissen-pachi-slot-hisshouhou-aladdin-ii-evolution.json](./62356-jissen-pachi-slot-hisshouhou-aladdin-ii-evolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Disc Up | 82296 | [82296-jissen-pachi-slot-hisshouhou-disc-up.json](./82296-jissen-pachi-slot-hisshouhou-disc-up.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken | 64182 | [64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json](./64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json) |
@@ -2428,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! King Camel | 82304 | [82304-jissen-pachi-slot-hisshouhou-king-camel.json](./82304-jissen-pachi-slot-hisshouhou-king-camel.json) |
 | Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
 | Jissen Pachi-Slot Hisshouhou! Mr. Magic Neo | 82310 | [82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json](./82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json) |
+| Jissen Pachi-Slot Hisshouhou! Onimusha 3 | 62357 | [62357-jissen-pachi-slot-hisshouhou-onimusha-3.json](./62357-jissen-pachi-slot-hisshouhou-onimusha-3.json) |
 | Jissen Pachi-Slot Hisshouhou! Ore no Sora | 82307 | [82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json](./82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json) |
 | Jissen Pachi-Slot Hisshouhou! Salaryman Kintarou | 82300 | [82300-jissen-pachi-slot-hisshouhou-salaryman-kintarou.json](./82300-jissen-pachi-slot-hisshouhou-salaryman-kintarou.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy Revolution | 382841 | [382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json](./382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json) |
@@ -3100,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the East | 128552 | [128552-journey-to-the-east.json](./128552-journey-to-the-east.json) |
 | Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
 | Journey to the King | 390990 | [390990-journey-to-the-king.json](./390990-journey-to-the-king.json) |
+| Journey to the Moon | 62358 | [62358-journey-to-the-moon.json](./62358-journey-to-the-moon.json) |
 | Journey to the Place of Tomorrow | 389270 | [389270-journey-to-the-place-of-tomorrow.json](./389270-journey-to-the-place-of-tomorrow.json) |
 | Journey to the Planets | 25333 | [25333-journey-to-the-planets.json](./25333-journey-to-the-planets.json) |
 | Journey to the Pumpkin Planet | 207420 | [207420-journey-to-the-pumpkin-planet.json](./207420-journey-to-the-pumpkin-planet.json) |
