@@ -12386,6 +12386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
 | The Inconvenient Platformer | 357163 | [357163-the-inconvenient-platformer.json](./357163-the-inconvenient-platformer.json) |
 | The Incredible Adventures of Super Panda | 118783 | [118783-the-incredible-adventures-of-super-panda.json](./118783-the-incredible-adventures-of-super-panda.json) |
+| The Incredible Adventures of Van Helsing | 2638 | [2638-the-incredible-adventures-of-van-helsing.json](./2638-the-incredible-adventures-of-van-helsing.json) |
 | The Incredible Adventures of Van Helsing II | 6074 | [6074-the-incredible-adventures-of-van-helsing-ii.json](./6074-the-incredible-adventures-of-van-helsing-ii.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
 | The Incredible Adventures of Van Helsing II: Extended Edition | 339060 | [339060-the-incredible-adventures-of-van-helsing-ii-extended-edition.json](./339060-the-incredible-adventures-of-van-helsing-ii-extended-edition.json) |
@@ -14727,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Battle for Middle-earth Anthology | 260701 | [260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json](./260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json) |
 | The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king | 3156 | [3156-the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king.json](./3156-the-lord-of-the-rings-the-battle-for-middle-earth-ii-the-rise-of-the-witch-king.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
+| The Lord of the Rings: The Fellowship of the Ring | 2972 | [2972-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./2972-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 78501 | [78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./78501-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: The Return of the King | 308133 | [308133-the-lord-of-the-rings-the-return-of-the-king.json](./308133-the-lord-of-the-rings-the-return-of-the-king.json) |
@@ -20977,6 +20979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior's Path | 201526 | [201526-the-warriors-path.json](./201526-the-warriors-path.json) |
 | The Warrior's Tale | 73132 | [73132-the-warriors-tale.json](./73132-the-warriors-tale.json) |
 | The Warriorlock | 108290 | [108290-the-warriorlock.json](./108290-the-warriorlock.json) |
+| The Warriors | 6030 | [6030-the-warriors.json](./6030-the-warriors.json) |
 | The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
@@ -37212,6 +37215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
 | Twisted Machines | 243718 | [243718-twisted-machines.json](./243718-twisted-machines.json) |
 | Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
+| Twisted Metal | 4695 | [4695-twisted-metal.json](./4695-twisted-metal.json) |
 | Twisted Metal 2 | 256777 | [256777-twisted-metal-2.json](./256777-twisted-metal-2.json) |
 | Twisted Metal 2 | 4696 | [4696-twisted-metal-2.json](./4696-twisted-metal-2.json) |
 | Twisted Metal 4 | 347127 | [347127-twisted-metal-4.json](./347127-twisted-metal-4.json) |
