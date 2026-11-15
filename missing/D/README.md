@@ -2895,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
 | Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
+| Date A Live: Rinne Utopia | 11504 | [11504-date-a-live-rinne-utopia.json](./11504-date-a-live-rinne-utopia.json) |
 | Date A Live: Rinne Utopia - Limited Edition | 85857 | [85857-date-a-live-rinne-utopia-limited-edition.json](./85857-date-a-live-rinne-utopia-limited-edition.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation - Deluxe Edition | 227387 | [227387-date-a-live-rio-reincarnation-deluxe-edition.json](./227387-date-a-live-rio-reincarnation-deluxe-edition.json) |
@@ -5891,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Diving VR | 122040 | [122040-deep-diving-vr.json](./122040-deep-diving-vr.json) |
 | Deep Diving VR: Adventure Pack | 227158 | [227158-deep-diving-vr-adventure-pack.json](./227158-deep-diving-vr-adventure-pack.json) |
+| Deep Down | 11566 | [11566-deep-down.json](./11566-deep-down.json) |
 | Deep Down | 177368 | [177368-deep-down.json](./177368-deep-down.json) |
 | Deep Down | 183645 | [183645-deep-down.json](./183645-deep-down.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
@@ -14139,6 +14141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Scream Together | 376018 | [376018-dont-scream-together.json](./376018-dont-scream-together.json) |
 | Don't Screw Up! | 233636 | [233636-dont-screw-up.json](./233636-dont-screw-up.json) |
 | Don't Shit on My #!$@& Roof | 216308 | [216308-dont-shit-on-my-and-roof.json](./216308-dont-shit-on-my-and-roof.json) |
+| Don't Shit Your Pants | 11537 | [11537-dont-shit-your-pants.json](./11537-dont-shit-your-pants.json) |
 | Don't Shoot First! | 336575 | [336575-dont-shoot-first.json](./336575-dont-shoot-first.json) |
 | Don't Shoot Rabbit | 113165 | [113165-dont-shoot-rabbit.json](./113165-dont-shoot-rabbit.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
@@ -18585,6 +18588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Showcase | 369752 | [369752-drift-showcase.json](./369752-drift-showcase.json) |
 | Drift Spark | 231990 | [231990-drift-spark.json](./231990-drift-spark.json) |
 | Drift Spirits | 174631 | [174631-drift-spirits.json](./174631-drift-spirits.json) |
+| Drift Stage | 11515 | [11515-drift-stage.json](./11515-drift-stage.json) |
 | Drift Station: Real Driving - Open World Car Game | 216146 | [216146-drift-station-real-driving-open-world-car-game.json](./216146-drift-station-real-driving-open-world-car-game.json) |
 | Drift Street International | 66862 | [66862-drift-street-international.json](./66862-drift-street-international.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
