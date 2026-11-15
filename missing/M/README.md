@@ -4133,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Brothership | 306137 | [306137-mario-and-luigi-brothership.json](./306137-mario-and-luigi-brothership.json) |
 | Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
+| Mario & Luigi: Paper Jam | 11195 | [11195-mario-and-luigi-paper-jam.json](./11195-mario-and-luigi-paper-jam.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
 | Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
 | Mario & Luigi: Star Emblem | 418730 | [418730-mario-and-luigi-star-emblem.json](./418730-mario-and-luigi-star-emblem.json) |
@@ -8928,6 +8929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Day in the Limelight 3 | 323040 | [323040-mega-man-day-in-the-limelight-3.json](./323040-mega-man-day-in-the-limelight-3.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dr. Wily's Final Attack | 209245 | [209245-mega-man-dr-wilys-final-attack.json](./209245-mega-man-dr-wilys-final-attack.json) |
+| Mega Man: Dr. Wily's Revenge | 1733 | [1733-mega-man-dr-wilys-revenge.json](./1733-mega-man-dr-wilys-revenge.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
 | Mega Man: Indonesian Artifact | 210506 | [210506-mega-man-indonesian-artifact.json](./210506-mega-man-indonesian-artifact.json) |
@@ -11770,6 +11772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mania 7 | 242110 | [242110-mickey-mania-7.json](./242110-mickey-mania-7.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256366 | [256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256367 | [256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
+| Mickey Mania: The Timeless Adventures of Mickey Mouse | 5404 | [5404-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./5404-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mauser: The Wrath of the Rat | 324150 | [324150-mickey-mauser-the-wrath-of-the-rat.json](./324150-mickey-mauser-the-wrath-of-the-rat.json) |
 | Mickey Mouse | 145162 | [145162-mickey-mouse.json](./145162-mickey-mouse.json) |
 | Mickey Mouse | 153449 | [153449-mickey-mouse.json](./153449-mickey-mouse.json) |
