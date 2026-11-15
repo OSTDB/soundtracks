@@ -13260,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
 | Six-ear Macaque | 72359 | [72359-six-ear-macaque.json](./72359-six-ear-macaque.json) |
 | Six-Ear Macaque: Awakening | 336765 | [336765-six-ear-macaque-awakening.json](./336765-six-ear-macaque-awakening.json) |
+| Six-Gun Shootout | 26021 | [26021-six-gun-shootout.json](./26021-six-gun-shootout.json) |
 | Six-Gun Shootout: Gunfights of the Wild West | 65907 | [65907-six-gun-shootout-gunfights-of-the-wild-west.json](./65907-six-gun-shootout-gunfights-of-the-wild-west.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
@@ -20487,6 +20488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
 | Sorcerous | 155851 | [155851-sorcerous.json](./155851-sorcerous.json) |
+| Sorcery | 26006 | [26006-sorcery.json](./26006-sorcery.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
 | Sorcery Climb | 342692 | [342692-sorcery-climb.json](./342692-sorcery-climb.json) |
@@ -27404,6 +27406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282082 | [282082-star-trek-strategic-operations-simulator.json](./282082-star-trek-strategic-operations-simulator.json) |
 | Star Trek: The Game Show | 69228 | [69228-star-trek-the-game-show.json](./69228-star-trek-the-game-show.json) |
+| Star Trek: The Kobayashi Alternative | 26019 | [26019-star-trek-the-kobayashi-alternative.json](./26019-star-trek-the-kobayashi-alternative.json) |
 | Star Trek: The Mobile Game | 125127 | [125127-star-trek-the-mobile-game.json](./125127-star-trek-the-mobile-game.json) |
 | Star Trek: The Motion Picture | 18783 | [18783-star-trek-the-motion-picture.json](./18783-star-trek-the-motion-picture.json) |
 | Star Trek: The Next Generation | 198904 | [198904-star-trek-the-next-generation.json](./198904-star-trek-the-next-generation.json) |
@@ -31040,6 +31043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command World War I: The Great War 1914-1918 | 58425 | [58425-strategic-command-world-war-i-the-great-war-1914-1918.json](./58425-strategic-command-world-war-i-the-great-war-1914-1918.json) |
+| Strategic Command WWII: Pacific Theater | 25275 | [25275-strategic-command-wwii-pacific-theater.json](./25275-strategic-command-wwii-pacific-theater.json) |
 | Strategic Command WWII: War in Europe | 36818 | [36818-strategic-command-wwii-war-in-europe.json](./36818-strategic-command-wwii-war-in-europe.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
@@ -31195,6 +31199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Stray Souls | 183474 | [183474-stray-souls.json](./183474-stray-souls.json) |
 | Stray Souls: Cult Classic Edition | 274648 | [274648-stray-souls-cult-classic-edition.json](./274648-stray-souls-cult-classic-edition.json) |
+| Stray Souls: Dollhouse Story | 26025 | [26025-stray-souls-dollhouse-story.json](./26025-stray-souls-dollhouse-story.json) |
 | Stray Souls: Dollhouse Story - Collector's Edition | 85705 | [85705-stray-souls-dollhouse-story-collectors-edition.json](./85705-stray-souls-dollhouse-story-collectors-edition.json) |
 | Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 177092 | [177092-stray-souls-stolen-memories-collectors-edition.json](./177092-stray-souls-stolen-memories-collectors-edition.json) |
