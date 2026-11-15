@@ -7532,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
 | Hexlords: Quantum Warfare | 259998 | [259998-hexlords-quantum-warfare.json](./259998-hexlords-quantum-warfare.json) |
 | Hexmas Community Project | 268880 | [268880-hexmas-community-project.json](./268880-hexmas-community-project.json) |
+| Hexmaster | 427592 | [427592-hexmaster.json](./427592-hexmaster.json) |
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
 | Hexmin | 380135 | [380135-hexmin.json](./380135-hexmin.json) |
 | Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
@@ -7819,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dimensions 3 | 31191 | [31191-hidden-dimensions-3.json](./31191-hidden-dimensions-3.json) |
 | Hidden Dino Cats: Bonus Level | 291413 | [291413-hidden-dino-cats-bonus-level.json](./291413-hidden-dino-cats-bonus-level.json) |
 | Hidden Dogs | 333412 | [333412-hidden-dogs.json](./333412-hidden-dogs.json) |
+| Hidden Doodles: Medieval Town | 427585 | [427585-hidden-doodles-medieval-town.json](./427585-hidden-doodles-medieval-town.json) |
 | Hidden Door | 360519 | [360519-hidden-door.json](./360519-hidden-door.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
@@ -11321,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HordeFighter 2D | 267458 | [267458-hordefighter-2d.json](./267458-hordefighter-2d.json) |
 | Hordeguard: Winds of the North | 354749 | [354749-hordeguard-winds-of-the-north.json](./354749-hordeguard-winds-of-the-north.json) |
 | Hordelicious | 34929 | [34929-hordelicious.json](./34929-hordelicious.json) |
+| Hordelight | 427578 | [427578-hordelight.json](./427578-hordelight.json) |
 | Hordelord | 346021 | [346021-hordelord.json](./346021-hordelord.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes of Enemies Bundle | 331524 | [331524-hordes-of-enemies-bundle.json](./331524-hordes-of-enemies-bundle.json) |
