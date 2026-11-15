@@ -10673,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platcross | 58668 | [58668-platcross.json](./58668-platcross.json) |
 | Platdude in A Bit of a Do! | 61948 | [61948-platdude-in-a-bit-of-a-do.json](./61948-platdude-in-a-bit-of-a-do.json) |
 | Platdude in A Bit of a Spin | 60927 | [60927-platdude-in-a-bit-of-a-spin.json](./60927-platdude-in-a-bit-of-a-spin.json) |
+| Platdude in a Go Kart | 61247 | [61247-platdude-in-a-go-kart.json](./61247-platdude-in-a-go-kart.json) |
 | Platdude in a Tube | 61542 | [61542-platdude-in-a-tube.json](./61542-platdude-in-a-tube.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
@@ -18545,6 +18546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protolife | 89973 | [89973-protolife.json](./89973-protolife.json) |
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
 | Protologic | 10430 | [10430-protologic.json](./10430-protologic.json) |
+| ProtoMasons | 61226 | [61226-protomasons.json](./61226-protomasons.json) |
 | Proton & Electron | 373788 | [373788-proton-and-electron.json](./373788-proton-and-electron.json) |
 | Proton Ball | 110489 | [110489-proton-ball.json](./110489-proton-ball.json) |
 | Proton Bus Simulator | 222602 | [222602-proton-bus-simulator.json](./222602-proton-bus-simulator.json) |
@@ -19475,6 +19477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punkgrad | 165743 | [165743-punkgrad.json](./165743-punkgrad.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Doodle | 322536 | [322536-punky-doodle.json](./322536-punky-doodle.json) |
+| Punky Duck | 60701 | [60701-punky-duck.json](./60701-punky-duck.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
 | Punky Town | 56013 | [56013-punky-town.json](./56013-punky-town.json) |
 | Punlock | 112167 | [112167-punlock.json](./112167-punlock.json) |
