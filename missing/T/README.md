@@ -27792,6 +27792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Splitfire | 416178 | [416178-tom-clancys-rainbow-six-siege-operation-splitfire.json](./416178-tom-clancys-rainbow-six-siege-operation-splitfire.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Velvet Shell | 27064 | [27064-tom-clancys-rainbow-six-siege-operation-velvet-shell.json](./27064-tom-clancys-rainbow-six-siege-operation-velvet-shell.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
 | Tom Clancy's Rainbow Six Siege: Operation White Noise | 76218 | [76218-tom-clancys-rainbow-six-siege-operation-white-noise.json](./76218-tom-clancys-rainbow-six-siege-operation-white-noise.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Wind Bastion | 129897 | [129897-tom-clancys-rainbow-six-siege-operation-wind-bastion.json](./129897-tom-clancys-rainbow-six-siege-operation-wind-bastion.json) |
@@ -30674,6 +30675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Golf | 77091 | [77091-toy-golf.json](./77091-toy-golf.json) |
 | Toy Golf Extreme | 50400 | [50400-toy-golf-extreme.json](./50400-toy-golf-extreme.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
+| Toy Home | 27001 | [27001-toy-home.json](./27001-toy-home.json) |
 | Toy Home: Second Gear Pack | 328393 | [328393-toy-home-second-gear-pack.json](./328393-toy-home-second-gear-pack.json) |
 | Toy Hunter | 138498 | [138498-toy-hunter.json](./138498-toy-hunter.json) |
 | Toy Keeper | 408560 | [408560-toy-keeper.json](./408560-toy-keeper.json) |
@@ -30908,6 +30910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania DS | 21304 | [21304-trackmania-ds.json](./21304-trackmania-ds.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
 | TrackMania Nations Forever | 15773 | [15773-trackmania-nations-forever.json](./15773-trackmania-nations-forever.json) |
+| TrackMania Original | 27012 | [27012-trackmania-original.json](./27012-trackmania-original.json) |
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
 | TrackMania Sunrise Extreme | 204912 | [204912-trackmania-sunrise-extreme.json](./204912-trackmania-sunrise-extreme.json) |
 | TrackMania Sunrise Extreme | 205056 | [205056-trackmania-sunrise-extreme.json](./205056-trackmania-sunrise-extreme.json) |
@@ -33273,6 +33276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
 | Transformers Legends | 59296 | [59296-transformers-legends.json](./59296-transformers-legends.json) |
+| Transformers Online | 27009 | [27009-transformers-online.json](./27009-transformers-online.json) |
 | Transformers Prime: The Game | 23676 | [23676-transformers-prime-the-game.json](./23676-transformers-prime-the-game.json) |
 | Transformers Rescue Bots: Dash | 294511 | [294511-transformers-rescue-bots-dash.json](./294511-transformers-rescue-bots-dash.json) |
 | Transformers Rescue Bots: Hero Adventures | 294680 | [294680-transformers-rescue-bots-hero-adventures.json](./294680-transformers-rescue-bots-hero-adventures.json) |
