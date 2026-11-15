@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of the Moon: A Sci-Fi Adventure | 68744 | [68744-dark-side-of-the-moon-a-sci-fi-adventure.json](./68744-dark-side-of-the-moon-a-sci-fi-adventure.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Side: Moonbase Mayhem | 273206 | [273206-dark-side-moonbase-mayhem.json](./273206-dark-side-moonbase-mayhem.json) |
+| Dark Sider | 72200 | [72200-dark-sider.json](./72200-dark-sider.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
 | Dark Signs | 94283 | [94283-dark-signs.json](./94283-dark-signs.json) |
 | Dark Silence | 370933 | [370933-dark-silence.json](./370933-dark-silence.json) |
@@ -3141,7 +3142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
 | Dawn of the Lost Castle | 115398 | [115398-dawn-of-the-lost-castle.json](./115398-dawn-of-the-lost-castle.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
-| Dawn of the Monsters | 120562 | [120562-dawn-of-the-monsters.json](./120562-dawn-of-the-monsters.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack Bundle | 263530 | [263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json](./263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json) |
 | Dawn of the Others | 158131 | [158131-dawn-of-the-others.json](./158131-dawn-of-the-others.json) |
@@ -3232,7 +3232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
 | Day of Defeat: Source | 3267 | [3267-day-of-defeat-source.json](./3267-day-of-defeat-source.json) |
 | Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
-| Day of Dragons | 122643 | [122643-day-of-dragons.json](./122643-day-of-dragons.json) |
 | Day of Dragons: Acid Spitter Drake | 170364 | [170364-day-of-dragons-acid-spitter-drake.json](./170364-day-of-dragons-acid-spitter-drake.json) |
 | Day of Drift | 345805 | [345805-day-of-drift.json](./345805-day-of-drift.json) |
 | Day of Eevee | 290669 | [290669-day-of-eevee.json](./290669-day-of-eevee.json) |
@@ -4416,7 +4415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Survival | 153979 | [153979-dead-survival.json](./153979-dead-survival.json) |
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 194216 | [194216-dead-synchronicity-tomorrow-comes-today.json](./194216-dead-synchronicity-tomorrow-comes-today.json) |
-| Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
 | Dead Target | 348487 | [348487-dead-target.json](./348487-dead-target.json) |
 | Dead Target VR: Zombie Intensified | 80955 | [80955-dead-target-vr-zombie-intensified.json](./80955-dead-target-vr-zombie-intensified.json) |
 | Dead TD | 164117 | [164117-dead-td.json](./164117-dead-td.json) |
@@ -8272,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desouled | 413087 | [413087-desouled.json](./413087-desouled.json) |
 | Despa | 370061 | [370061-despa.json](./370061-despa.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
+| Despair 2 | 72213 | [72213-despair-2.json](./72213-despair-2.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Despair Beneath the Sunless Sky | 416383 | [416383-despair-beneath-the-sunless-sky.json](./416383-despair-beneath-the-sunless-sky.json) |
 | Despair Mario's Gambit 64 | 378345 | [378345-despair-marios-gambit-64.json](./378345-despair-marios-gambit-64.json) |
@@ -9383,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Vandead Carnival | 61260 | [61260-diabolik-lovers-vandead-carnival.json](./61260-diabolik-lovers-vandead-carnival.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
+| Diabolika 2: The Devil's Last Stand | 72183 | [72183-diabolika-2-the-devils-last-stand.json](./72183-diabolika-2-the-devils-last-stand.json) |
 | Diabolos | 274166 | [274166-diabolos.json](./274166-diabolos.json) |
 | Diabolus Ex | 142298 | [142298-diabolus-ex.json](./142298-diabolus-ex.json) |
 | Diabotical | 22384 | [22384-diabotical.json](./22384-diabotical.json) |
@@ -11160,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Jobs Simulator | 120688 | [120688-dirty-jobs-simulator.json](./120688-dirty-jobs-simulator.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
 | Dirty Land | 219245 | [219245-dirty-land.json](./219245-dirty-land.json) |
+| Dirty Larry: Renegade Cop | 72204 | [72204-dirty-larry-renegade-cop.json](./72204-dirty-larry-renegade-cop.json) |
 | Dirty Laundry | 406832 | [406832-dirty-laundry.json](./406832-dirty-laundry.json) |
 | Dirty League | 311894 | [311894-dirty-league.json](./311894-dirty-league.json) |
 | Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
@@ -13250,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
 | Dogz | 47777 | [47777-dogz.json](./47777-dogz.json) |
 | Dogz 2 | 49426 | [49426-dogz-2.json](./49426-dogz-2.json) |
+| Dogz 2: Your Virtual Petz | 72217 | [72217-dogz-2-your-virtual-petz.json](./72217-dogz-2-your-virtual-petz.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 3D | 425998 | [425998-dogz-3d.json](./425998-dogz-3d.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
