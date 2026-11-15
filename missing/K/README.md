@@ -4128,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Fight | 242856 | [242856-kinnikuman-muscle-fight.json](./242856-kinnikuman-muscle-fight.json) |
+| Kinnikuman Muscle Grand Prix | 65652 | [65652-kinnikuman-muscle-grand-prix.json](./65652-kinnikuman-muscle-grand-prix.json) |
 | Kinnikuman Muscle Grand Prix 2 | 65648 | [65648-kinnikuman-muscle-grand-prix-2.json](./65648-kinnikuman-muscle-grand-prix-2.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori | 242912 | [242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
