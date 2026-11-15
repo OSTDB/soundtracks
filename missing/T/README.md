@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailgate | 314007 | [314007-tailgate.json](./314007-tailgate.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
 | Tailgunner | 24639 | [24639-tailgunner.json](./24639-tailgunner.json) |
+| Tailor Hotel | 420406 | [420406-tailor-hotel.json](./420406-tailor-hotel.json) |
 | Tailor Simulator | 374887 | [374887-tailor-simulator.json](./374887-tailor-simulator.json) |
 | Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temper Tantrum | 13377 | [13377-temper-tantrum.json](./13377-temper-tantrum.json) |
 | Temperance | 418062 | [418062-temperance.json](./418062-temperance.json) |
 | Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
+| Tempered Heart: Pilgrim's Mark | 420394 | [420394-tempered-heart-pilgrims-mark.json](./420394-tempered-heart-pilgrims-mark.json) |
 | Tempered Hue | 361260 | [361260-tempered-hue.json](./361260-tempered-hue.json) |
 | Temperia: Soul of Majestic | 182127 | [182127-temperia-soul-of-majestic.json](./182127-temperia-soul-of-majestic.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
@@ -33961,6 +33963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelling Home: Ever After | 406663 | [406663-travelling-home-ever-after.json](./406663-travelling-home-ever-after.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelling Millionaire | 57551 | [57551-travelling-millionaire.json](./57551-travelling-millionaire.json) |
+| Travelling Snailsman | 420402 | [420402-travelling-snailsman.json](./420402-travelling-snailsman.json) |
 | Travelling to the Moon | 259352 | [259352-travelling-to-the-moon.json](./259352-travelling-to-the-moon.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
