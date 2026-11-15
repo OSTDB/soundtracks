@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
 | Wasteland Outpost | 383678 | [383678-wasteland-outpost.json](./383678-wasteland-outpost.json) |
 | Wasteland Punk | 175690 | [175690-wasteland-punk.json](./175690-wasteland-punk.json) |
+| Wasteland Racers 2071 | 421996 | [421996-wasteland-racers-2071.json](./421996-wasteland-racers-2071.json) |
 | Wasteland Raiders | 121805 | [121805-wasteland-raiders.json](./121805-wasteland-raiders.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Remastered | 129143 | [129143-wasteland-remastered.json](./129143-wasteland-remastered.json) |
@@ -4558,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
 | When Our Journey Ends | 25596 | [25596-when-our-journey-ends.json](./25596-when-our-journey-ends.json) |
 | When Our Journey Ends - A Visual Novel | 30299 | [30299-when-our-journey-ends-a-visual-novel.json](./30299-when-our-journey-ends-a-visual-novel.json) |
+| When Penguins Attack TD | 421984 | [421984-when-penguins-attack-td.json](./421984-when-penguins-attack-td.json) |
 | When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
 | When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
 | When Pigs Fly | 60658 | [60658-when-pigs-fly.json](./60658-when-pigs-fly.json) |
@@ -5896,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Space | 360860 | [360860-wild-space.json](./360860-wild-space.json) |
 | Wild Squirrel Family Sim 3D | 234455 | [234455-wild-squirrel-family-sim-3d.json](./234455-wild-squirrel-family-sim-3d.json) |
+| Wild Story: Primal Secrets | 422079 | [422079-wild-story-primal-secrets.json](./422079-wild-story-primal-secrets.json) |
 | Wild Story: Primal Secrets - Collector's Edition | 416475 | [416475-wild-story-primal-secrets-collectors-edition.json](./416475-wild-story-primal-secrets-collectors-edition.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
 | Wild Summer | 76135 | [76135-wild-summer.json](./76135-wild-summer.json) |
@@ -7993,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Won't You Be My Laser? | 31899 | [31899-wont-you-be-my-laser.json](./31899-wont-you-be-my-laser.json) |
 | Won't you come knocking | 183357 | [183357-wont-you-come-knocking.json](./183357-wont-you-come-knocking.json) |
 | Wondee | 30722 | [30722-wondee.json](./30722-wondee.json) |
+| Wonder Air: Lunara's Adventure | 422220 | [422220-wonder-air-lunaras-adventure.json](./422220-wonder-air-lunaras-adventure.json) |
 | Wonder Ball | 305858 | [305858-wonder-ball.json](./305858-wonder-ball.json) |
 | Wonder Blade | 107015 | [107015-wonder-blade.json](./107015-wonder-blade.json) |
 | Wonder Boy | 212862 | [212862-wonder-boy.json](./212862-wonder-boy.json) |
@@ -10136,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
 | Wreck & Profit | 420224 | [420224-wreck-and-profit.json](./420224-wreck-and-profit.json) |
+| Wreck Below | 422002 | [422002-wreck-below.json](./422002-wreck-below.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Poly Survival | 427595 | [427595-wreck-poly-survival.json](./427595-wreck-poly-survival.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
