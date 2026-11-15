@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Step After Fall | 193617 | [193617-one-step-after-fall.json](./193617-one-step-after-fall.json) |
 | One Step Away | 207588 | [207588-one-step-away.json](./207588-one-step-away.json) |
 | One Step Back | 242833 | [242833-one-step-back.json](./242833-one-step-back.json) |
+| One Step Beyond | 71084 | [71084-one-step-beyond.json](./71084-one-step-beyond.json) |
 | One Step Further | 348820 | [348820-one-step-further.json](./348820-one-step-further.json) |
 | One Step to Paradise | 244621 | [244621-one-step-to-paradise.json](./244621-one-step-to-paradise.json) |
 | One Step to Rest | 306786 | [306786-one-step-to-rest.json](./306786-one-step-to-rest.json) |
@@ -5039,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Tower | 412405 | [412405-other-tower.json](./412405-other-tower.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
+| Other Worlds | 72198 | [72198-other-worlds.json](./72198-other-worlds.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
 | Othercell | 119230 | [119230-othercell.json](./119230-othercell.json) |
 | Othercide: Dressed to Kill - Cosmetics Pack | 226528 | [226528-othercide-dressed-to-kill-cosmetics-pack.json](./226528-othercide-dressed-to-kill-cosmetics-pack.json) |
@@ -5719,6 +5721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoor Wine Market Simulator | 420323 | [420323-outdoor-wine-market-simulator.json](./420323-outdoor-wine-market-simulator.json) |
 | Outdoors Unleashed: Africa 3D | 23671 | [23671-outdoors-unleashed-africa-3d.json](./23671-outdoors-unleashed-africa-3d.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
+| Outdoorsman Mania | 72184 | [72184-outdoorsman-mania.json](./72184-outdoorsman-mania.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
 | Outer | 175597 | [175597-outer.json](./175597-outer.json) |
 | Outer Banks | 396984 | [396984-outer-banks.json](./396984-outer-banks.json) |
