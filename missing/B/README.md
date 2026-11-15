@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 207054 | [207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./207054-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Baseball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition: Challenge Mode | 207064 | [207064-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition-challenge-mode.json](./207064-baseball-breakthrough-gaming-arcade-4-player-cooperation-edition-challenge-mode.json) |
 | Baseball: Breakthrough Gaming Arcade - Challenge Mode Edition | 207047 | [207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json](./207047-baseball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
+| Baseball: Explorer Time & Fun | 41425 | [41425-baseball-explorer-time-and-fun.json](./41425-baseball-explorer-time-and-fun.json) |
 | Baseball: The Season II | 40267 | [40267-baseball-the-season-ii.json](./40267-baseball-the-season-ii.json) |
 | Baseball! | 92903 | [92903-baseball.json](./92903-baseball.json) |
 | Baseball4 | 59450 | [59450-baseball4.json](./59450-baseball4.json) |
@@ -3759,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
 | Batman: Arkham Knight - Game of the Year Edition | 42929 | [42929-batman-arkham-knight-game-of-the-year-edition.json](./42929-batman-arkham-knight-game-of-the-year-edition.json) |
 | Batman: Arkham Knight - GCPD Lockdown | 15523 | [15523-batman-arkham-knight-gcpd-lockdown.json](./15523-batman-arkham-knight-gcpd-lockdown.json) |
+| Batman: Arkham Knight - Limited Edition | 41640 | [41640-batman-arkham-knight-limited-edition.json](./41640-batman-arkham-knight-limited-edition.json) |
 | Batman: Arkham Knight - New 52 Skins Pack | 25983 | [25983-batman-arkham-knight-new-52-skins-pack.json](./25983-batman-arkham-knight-new-52-skins-pack.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
 | Batman: Arkham Knight - PlayStation Exclusive Scarecrow Nightmare Missions | 25975 | [25975-batman-arkham-knight-playstation-exclusive-scarecrow-nightmare-missions.json](./25975-batman-arkham-knight-playstation-exclusive-scarecrow-nightmare-missions.json) |
@@ -13885,6 +13887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
 | Bomb Fight | 305460 | [305460-bomb-fight.json](./305460-bomb-fight.json) |
+| Bomb Fight | 41427 | [41427-bomb-fight.json](./41427-bomb-fight.json) |
 | Bomb Finger | 297267 | [297267-bomb-finger.json](./297267-bomb-finger.json) |
 | Bomb Fusion | 13420 | [13420-bomb-fusion.json](./13420-bomb-fusion.json) |
 | Bomb Hero | 246315 | [246315-bomb-hero.json](./246315-bomb-hero.json) |
