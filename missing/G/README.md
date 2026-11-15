@@ -7528,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Pro HD | 87328 | [87328-golf-pro-hd.json](./87328-golf-pro-hd.json) |
 | Golf Pro Simulator | 348167 | [348167-golf-pro-simulator.json](./348167-golf-pro-simulator.json) |
+| Golf Pro VR | 31261 | [31261-golf-pro-vr.json](./31261-golf-pro-vr.json) |
 | Golf Putt 3D | 259130 | [259130-golf-putt-3d.json](./259130-golf-putt-3d.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
 | Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
@@ -9255,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
+| Grave Matters | 31222 | [31222-grave-matters.json](./31222-grave-matters.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Träumerei | 229414 | [229414-grave-of-traumerei.json](./229414-grave-of-traumerei.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
