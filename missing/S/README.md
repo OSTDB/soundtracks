@@ -14145,6 +14145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
 | Sky Streaker | 317137 | [317137-sky-streaker.json](./317137-sky-streaker.json) |
 | Sky Strikers VR | 240645 | [240645-sky-strikers-vr.json](./240645-sky-strikers-vr.json) |
+| Sky Surfer | 72223 | [72223-sky-surfer.json](./72223-sky-surfer.json) |
 | Sky Surfing | 233427 | [233427-sky-surfing.json](./233427-sky-surfing.json) |
 | Sky Survivors | 240664 | [240664-sky-survivors.json](./240664-sky-survivors.json) |
 | Sky Symphony | 242583 | [242583-sky-symphony.json](./242583-sky-symphony.json) |
@@ -20360,6 +20361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Original | 70777 | [70777-sorcerian-original.json](./70777-sorcerian-original.json) |
 | Sorcerian System New Scenario Vol.1: Uchuu kara no Houmonsa (1989) | 326937 | [326937-sorcerian-system-new-scenario-vol-1-uchuu-kara-no-houmonsa-1989.json](./326937-sorcerian-system-new-scenario-vol-1-uchuu-kara-no-houmonsa-1989.json) |
 | Sorcerian Utility Vol. 1 | 137880 | [137880-sorcerian-utility-vol-1.json](./137880-sorcerian-utility-vol-1.json) |
+| Sorcerian: Shichisei Mahou no Shito | 71670 | [71670-sorcerian-shichisei-mahou-no-shito.json](./71670-sorcerian-shichisei-mahou-no-shito.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
@@ -21486,6 +21488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
 | Space Chaos | 74583 | [74583-space-chaos.json](./74583-space-chaos.json) |
 | Space Chase II: Fortress of Doom! | 345227 | [345227-space-chase-ii-fortress-of-doom.json](./345227-space-chase-ii-fortress-of-doom.json) |
+| Space Chase III: Showdown In Orbit | 72229 | [72229-space-chase-iii-showdown-in-orbit.json](./72229-space-chase-iii-showdown-in-orbit.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chaser | 385771 | [385771-space-chaser.json](./385771-space-chaser.json) |
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
@@ -36201,6 +36204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
 | Super Passport Bros | 241667 | [241667-super-passport-bros.json](./241667-super-passport-bros.json) |
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
+| Super Password | 72196 | [72196-super-password.json](./72196-super-password.json) |
 | Super Paul World | 266034 | [266034-super-paul-world.json](./266034-super-paul-world.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
@@ -39842,7 +39846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
 | Syde Rugby League Simulator | 163837 | [163837-syde-rugby-league-simulator.json](./163837-syde-rugby-league-simulator.json) |
-| Syder Arcade | 9029 | [9029-syder-arcade.json](./9029-syder-arcade.json) |
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydilix Initiation | 419095 | [419095-sydilix-initiation.json](./419095-sydilix-initiation.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
@@ -40294,6 +40297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter 2: Recompiled | 412769 | [412769-syphon-filter-2-recompiled.json](./412769-syphon-filter-2-recompiled.json) |
 | Syphon Filter 3 | 231777 | [231777-syphon-filter-3.json](./231777-syphon-filter-3.json) |
 | Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
+| Syphon Filter: Combat Ops | 72191 | [72191-syphon-filter-combat-ops.json](./72191-syphon-filter-combat-ops.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Dark Mirror | 242307 | [242307-syphon-filter-dark-mirror.json](./242307-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
