@@ -18437,6 +18437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble 2000 | 38618 | [38618-bubble-2000.json](./38618-bubble-2000.json) |
 | Bubble Aim | 316555 | [316555-bubble-aim.json](./316555-bubble-aim.json) |
+| Bubble and Squeak | 4373 | [4373-bubble-and-squeak.json](./4373-bubble-and-squeak.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Ball! | 276240 | [276240-bubble-ball.json](./276240-bubble-ball.json) |
 | Bubble Bash | 73570 | [73570-bubble-bash.json](./73570-bubble-bash.json) |
