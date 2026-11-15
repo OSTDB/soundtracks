@@ -20798,6 +20798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | Dungeoncraft | 35249 | [35249-dungeoncraft.json](./35249-dungeoncraft.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
+| DungeonCrown | 426954 | [426954-dungeoncrown.json](./426954-dungeoncrown.json) |
 | Dungeoned | 213790 | [213790-dungeoned.json](./213790-dungeoned.json) |
 | Dungeoneer | 199528 | [199528-dungeoneer.json](./199528-dungeoneer.json) |
 | Dungeoneer | 377334 | [377334-dungeoneer.json](./377334-dungeoneer.json) |
