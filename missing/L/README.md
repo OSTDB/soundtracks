@@ -10183,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LP | 150451 | [150451-lp.json](./150451-lp.json) |
 | LP Recharge | 227970 | [227970-lp-recharge.json](./227970-lp-recharge.json) |
 | LPC: Low Poly Cylinder | 407625 | [407625-lpc-low-poly-cylinder.json](./407625-lpc-low-poly-cylinder.json) |
+| LQVE: Lion Quest Versus Expanded | 76038 | [76038-lqve-lion-quest-versus-expanded.json](./76038-lqve-lion-quest-versus-expanded.json) |
 | LR2oraja | 340284 | [340284-lr2oraja.json](./340284-lr2oraja.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | Ls | 229389 | [229389-ls.json](./229389-ls.json) |
