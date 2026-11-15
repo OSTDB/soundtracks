@@ -10879,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bringer | 265327 | [265327-metal-bringer.json](./265327-metal-bringer.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
+| Metal Canary | 425122 | [425122-metal-canary.json](./425122-metal-canary.json) |
 | Metal Carnage | 31765 | [31765-metal-carnage.json](./31765-metal-carnage.json) |
 | Metal Casket | 270001 | [270001-metal-casket.json](./270001-metal-casket.json) |
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
@@ -16122,6 +16123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
 | MMA President | 130979 | [130979-mma-president.json](./130979-mma-president.json) |
 | MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
+| MMA Tactics | 425138 | [425138-mma-tactics.json](./425138-mma-tactics.json) |
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMA: Fighting Clash 22 | 194046 | [194046-mma-fighting-clash-22.json](./194046-mma-fighting-clash-22.json) |
 | MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
