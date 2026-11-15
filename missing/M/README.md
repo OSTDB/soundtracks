@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
 | Mahjong Royal Towers | 63103 | [63103-mahjong-royal-towers.json](./63103-mahjong-royal-towers.json) |
+| Mahjong Rush | 424574 | [424574-mahjong-rush.json](./424574-mahjong-rush.json) |
 | Mahjong Safari | 366440 | [366440-mahjong-safari.json](./366440-mahjong-safari.json) |
 | Mahjong Safari HD | 354981 | [354981-mahjong-safari-hd.json](./354981-mahjong-safari-hd.json) |
 | Mahjong Sanctuary | 354982 | [354982-mahjong-sanctuary.json](./354982-mahjong-sanctuary.json) |
@@ -13415,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
 | Milo's Dream | 350714 | [350714-milos-dream.json](./350714-milos-dream.json) |
+| Milo's Escape | 424558 | [424558-milos-escape.json](./424558-milos-escape.json) |
 | Milo's Magical Adventure | 392488 | [392488-milos-magical-adventure.json](./392488-milos-magical-adventure.json) |
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
 | Milo's Quest | 360286 | [360286-milos-quest.json](./360286-milos-quest.json) |
@@ -13725,6 +13727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | Mindscape | 185293 | [185293-mindscape.json](./185293-mindscape.json) |
+| Mindscape | 424526 | [424526-mindscape.json](./424526-mindscape.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindscapes VR | 347298 | [347298-mindscapes-vr.json](./347298-mindscapes-vr.json) |
 | Mindscorn | 374753 | [374753-mindscorn.json](./374753-mindscorn.json) |
