@@ -9915,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Horizon: VR Golf | 382531 | [382531-green-horizon-vr-golf.json](./382531-green-horizon-vr-golf.json) |
 | Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
+| Green Island | 66306 | [66306-green-island.json](./66306-green-island.json) |
 | Green Lantern | 208319 | [208319-green-lantern.json](./208319-green-lantern.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 196504 | [196504-green-lantern-rise-of-the-manhunters.json](./196504-green-lantern-rise-of-the-manhunters.json) |
