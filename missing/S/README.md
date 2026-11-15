@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sassy Girl | 259146 | [259146-sassy-girl.json](./259146-sassy-girl.json) |
 | Sasuke Challenger | 175129 | [175129-sasuke-challenger.json](./175129-sasuke-challenger.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
+| Sasuke vs. Commander | 65660 | [65660-sasuke-vs-commander.json](./65660-sasuke-vs-commander.json) |
 | SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SAT Prep Reading 2008 | 91689 | [91689-sat-prep-reading-2008.json](./91689-sat-prep-reading-2008.json) |
 | SAT Prep Writing 2008 | 80286 | [80286-sat-prep-writing-2008.json](./80286-sat-prep-writing-2008.json) |
@@ -28109,6 +28110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarPilot | 94830 | [94830-starpilot.json](./94830-starpilot.json) |
 | StarPilot W | 307610 | [307610-starpilot-w.json](./307610-starpilot-w.json) |
 | Starpine | 366365 | [366365-starpine.json](./366365-starpine.json) |
+| Starpires | 65687 | [65687-starpires.json](./65687-starpires.json) |
 | Starpoint Gemini | 15143 | [15143-starpoint-gemini.json](./15143-starpoint-gemini.json) |
 | Starpoint Gemini 2 | 8818 | [8818-starpoint-gemini-2.json](./8818-starpoint-gemini-2.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
