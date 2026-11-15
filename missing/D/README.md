@@ -9495,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial Pilot | 106839 | [106839-dial-pilot.json](./106839-dial-pilot.json) |
 | Dial Q wo Mawase! | 45617 | [45617-dial-q-wo-mawase.json](./45617-dial-q-wo-mawase.json) |
+| Dial Z to Zombie: Zombies Attack the Beach | 421023 | [421023-dial-z-to-zombie-zombies-attack-the-beach.json](./421023-dial-z-to-zombie-zombies-attack-the-beach.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
 | Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
@@ -11553,6 +11554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovery: Shark Strike | 95720 | [95720-discovery-shark-strike.json](./95720-discovery-shark-strike.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
+| DiscPods | 421017 | [421017-discpods.json](./421017-discpods.json) |
 | Discreet | 132366 | [132366-discreet.json](./132366-discreet.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
 | Discrepant | 32815 | [32815-discrepant.json](./32815-discrepant.json) |
@@ -15945,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOX: A Puzzle Game | 134144 | [134144-dox-a-puzzle-game.json](./134144-dox-a-puzzle-game.json) |
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
+| Doyliah Modpack | 420987 | [420987-doyliah-modpack.json](./420987-doyliah-modpack.json) |
 | Doza 2: Novogodniy Peredoz | 116060 | [116060-doza-2-novogodniy-peredoz.json](./116060-doza-2-novogodniy-peredoz.json) |
 | Dozen Chess | 420782 | [420782-dozen-chess.json](./420782-dozen-chess.json) |
 | Dozens | 423623 | [423623-dozens.json](./423623-dozens.json) |
