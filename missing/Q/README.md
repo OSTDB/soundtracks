@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Garden: A Relaxing Match3 Game with Flowers and Gardening | 100992 | [100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json](./100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json) |
 | Queen's Garden: French Splendor | 338059 | [338059-queens-garden-french-splendor.json](./338059-queens-garden-french-splendor.json) |
 | Queen's Garden: French Splendor - Collector's Edition | 356534 | [356534-queens-garden-french-splendor-collectors-edition.json](./356534-queens-garden-french-splendor-collectors-edition.json) |
+| Queen's Garden: Halloween | 75261 | [75261-queens-garden-halloween.json](./75261-queens-garden-halloween.json) |
 | Queen's Gate: Spiral Chaos | 66176 | [66176-queens-gate-spiral-chaos.json](./66176-queens-gate-spiral-chaos.json) |
 | Queen's Loyalty | 298640 | [298640-queens-loyalty.json](./298640-queens-loyalty.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
