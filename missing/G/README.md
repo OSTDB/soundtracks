@@ -11320,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel | 184560 | [184560-guardian-angel.json](./184560-guardian-angel.json) |
 | Guardian Angel | 299584 | [299584-guardian-angel.json](./299584-guardian-angel.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
+| Guardian Arena | 30273 | [30273-guardian-arena.json](./30273-guardian-arena.json) |
 | Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Codex | 24404 | [24404-guardian-codex.json](./24404-guardian-codex.json) |
@@ -11347,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
 | Guardian of Andra: Fragments of Fate | 181605 | [181605-guardian-of-andra-fragments-of-fate.json](./181605-guardian-of-andra-fragments-of-fate.json) |
 | Guardian of Civilization | 286998 | [286998-guardian-of-civilization.json](./286998-guardian-of-civilization.json) |
+| Guardian of December | 30289 | [30289-guardian-of-december.json](./30289-guardian-of-december.json) |
 | Guardian of Dynamite: A Bomb Protector | 242022 | [242022-guardian-of-dynamite-a-bomb-protector.json](./242022-guardian-of-dynamite-a-bomb-protector.json) |
 | Guardian of Hidden Land | 352171 | [352171-guardian-of-hidden-land.json](./352171-guardian-of-hidden-land.json) |
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
