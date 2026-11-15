@@ -4703,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VS Mahjong: Otome Ryouran | 310348 | [310348-vs-mahjong-otome-ryouran.json](./310348-vs-mahjong-otome-ryouran.json) |
 | VS Round 1 | 76059 | [76059-vs-round-1.json](./76059-vs-round-1.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
+| Vs Starecrown: Definitive Edition | 420986 | [420986-vs-starecrown-definitive-edition.json](./420986-vs-starecrown-definitive-edition.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
 | VS-robo | 84416 | [84416-vs-robo.json](./84416-vs-robo.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
