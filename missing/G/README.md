@@ -12915,6 +12915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyron Arena | 14103 | [14103-gyron-arena.json](./14103-gyron-arena.json) |
 | Gyropod | 145367 | [145367-gyropod.json](./145367-gyropod.json) |
+| Gyropractor | 421991 | [421991-gyropractor.json](./421991-gyropractor.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | GyroShooter | 76817 | [76817-gyroshooter.json](./76817-gyroshooter.json) |
 | GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
