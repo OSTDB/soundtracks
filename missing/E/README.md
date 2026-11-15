@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
 | Earth Must Die | 370698 | [370698-earth-must-die.json](./370698-earth-must-die.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
+| Earth No More | 11579 | [11579-earth-no-more.json](./11579-earth-no-more.json) |
 | Earth of Oryn | 217206 | [217206-earth-of-oryn.json](./217206-earth-of-oryn.json) |
 | Earth on Stream | 403773 | [403773-earth-on-stream.json](./403773-earth-on-stream.json) |
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
@@ -3638,6 +3639,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor: Battle for Dune | 89 | [89-emperor-battle-for-dune.json](./89-emperor-battle-for-dune.json) |
 | Emperor's Mahjongg | 209207 | [209207-emperors-mahjongg.json](./209207-emperors-mahjongg.json) |
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
+| Empire | 11497 | [11497-empire.json](./11497-empire.json) |
+| Empire | 11518 | [11518-empire.json](./11518-empire.json) |
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
 | Empire | 383339 | [383339-empire.json](./383339-empire.json) |
 | Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
