@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's The Jungle Book | 284215 | [284215-walt-disneys-the-jungle-book.json](./284215-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Walter | 94159 | [94159-walter.json](./94159-walter.json) |
+| Walter Payton Football | 45629 | [45629-walter-payton-football.json](./45629-walter-payton-football.json) |
 | Walter Walnut | 199275 | [199275-walter-walnut.json](./199275-walter-walnut.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
 | Walthros: Renewal | 155962 | [155962-walthros-renewal.json](./155962-walthros-renewal.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Golf | 177678 | [177678-winter-golf.json](./177678-winter-golf.json) |
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
+| Winter Heat | 45476 | [45476-winter-heat.json](./45476-winter-heat.json) |
 | Winter Hunting | 373603 | [373603-winter-hunting.json](./373603-winter-hunting.json) |
 | Winter Intrusion | 253156 | [253156-winter-intrusion.json](./253156-winter-intrusion.json) |
 | Winter is here | 294110 | [294110-winter-is-here.json](./294110-winter-is-here.json) |
