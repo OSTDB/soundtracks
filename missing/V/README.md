@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietcong 2 | 3179 | [3179-vietcong-2.json](./3179-vietcong-2.json) |
 | Vietcong: Fist Alpha | 464 | [464-vietcong-fist-alpha.json](./464-vietcong-fist-alpha.json) |
 | Vietcong: Purple Haze | 22165 | [22165-vietcong-purple-haze.json](./22165-vietcong-purple-haze.json) |
+| Vietcong: Red Dawn | 62327 | [62327-vietcong-red-dawn.json](./62327-vietcong-red-dawn.json) |
 | VietDoom | 196013 | [196013-vietdoom.json](./196013-vietdoom.json) |
 | Vietnam | 80736 | [80736-vietnam.json](./80736-vietnam.json) |
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
