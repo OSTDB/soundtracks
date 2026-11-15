@@ -5978,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Guest: 25th Anniversary Edition | 116545 | [116545-the-7th-guest-25th-anniversary-edition.json](./116545-the-7th-guest-25th-anniversary-edition.json) |
 | The 7th Guest: Infection | 63058 | [63058-the-7th-guest-infection.json](./63058-the-7th-guest-infection.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
+| The 7th Saga | 15846 | [15846-the-7th-saga.json](./15846-the-7th-saga.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
 | The 7th Sign Project | 201675 | [201675-the-7th-sign-project.json](./201675-the-7th-sign-project.json) |
 | The 8 Sins: New Hell Order | 190248 | [190248-the-8-sins-new-hell-order.json](./190248-the-8-sins-new-hell-order.json) |
@@ -14009,6 +14010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Kyrandia 2: The Hand of Fate | 1283 | [1283-the-legend-of-kyrandia-2-the-hand-of-fate.json](./1283-the-legend-of-kyrandia-2-the-hand-of-fate.json) |
+| The Legend of Kyrandia 3: Malcolm's Revenge | 1287 | [1287-the-legend-of-kyrandia-3-malcolms-revenge.json](./1287-the-legend-of-kyrandia-3-malcolms-revenge.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy HD Remastered: Deluxe Edition | 270259 | [270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json](./270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
@@ -14962,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
+| The Lucky Dime Caper Starring Donald Duck | 12910 | [12910-the-lucky-dime-caper-starring-donald-duck.json](./12910-the-lucky-dime-caper-starring-donald-duck.json) |
 | The Lucky Stray Cat | 386824 | [386824-the-lucky-stray-cat.json](./386824-the-lucky-stray-cat.json) |
 | The Luffeltera Renovator | 151771 | [151771-the-luffeltera-renovator.json](./151771-the-luffeltera-renovator.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
@@ -15733,6 +15736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Cities of Gold: Secret Paths - Director's Cut | 175577 | [175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json](./175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json) |
 | The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
+| The Mysterious Murasame Castle | 67186 | [67186-the-mysterious-murasame-castle.json](./67186-the-mysterious-murasame-castle.json) |
 | The mysterious ship | 101236 | [101236-the-mysterious-ship.json](./101236-the-mysterious-ship.json) |
 | The Mysterious Thief: Forget Me Not | 325761 | [325761-the-mysterious-thief-forget-me-not.json](./325761-the-mysterious-thief-forget-me-not.json) |
 | The Mystery at Greveholm | 84217 | [84217-the-mystery-at-greveholm.json](./84217-the-mystery-at-greveholm.json) |
@@ -16814,6 +16818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
 | The Polynesian Cultural Center VR Experience | 118095 | [118095-the-polynesian-cultural-center-vr-experience.json](./118095-the-polynesian-cultural-center-vr-experience.json) |
+| The Polynomial | 16212 | [16212-the-polynomial.json](./16212-the-polynomial.json) |
 | The Polyphonic Spree: The Quest for the Rest | 56705 | [56705-the-polyphonic-spree-the-quest-for-the-rest.json](./56705-the-polyphonic-spree-the-quest-for-the-rest.json) |
 | The Pond | 397610 | [397610-the-pond.json](./397610-the-pond.json) |
 | The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
@@ -18488,6 +18493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Fast Lane Stuff | 13118 | [13118-the-sims-3-fast-lane-stuff.json](./13118-the-sims-3-fast-lane-stuff.json) |
 | The Sims 3: Generations | 10981 | [10981-the-sims-3-generations.json](./10981-the-sims-3-generations.json) |
 | The Sims 3: Hidden Springs | 14564 | [14564-the-sims-3-hidden-springs.json](./14564-the-sims-3-hidden-springs.json) |
+| The Sims 3: High-End Loft Stuff | 13117 | [13117-the-sims-3-high-end-loft-stuff.json](./13117-the-sims-3-high-end-loft-stuff.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
@@ -19119,6 +19125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairway | 339003 | [339003-the-stairway.json](./339003-the-stairway.json) |
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
+| The Stalin Subway | 17580 | [17580-the-stalin-subway.json](./17580-the-stalin-subway.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
 | The Stalked | 273803 | [273803-the-stalked.json](./273803-the-stalked.json) |
 | The Stalked 2 | 309798 | [309798-the-stalked-2.json](./309798-the-stalked-2.json) |
@@ -21047,6 +21054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
 | The Way of Ping-pong | 402687 | [402687-the-way-of-ping-pong.json](./402687-the-way-of-ping-pong.json) |
 | The Way of the Badass | 204265 | [204265-the-way-of-the-badass.json](./204265-the-way-of-the-badass.json) |
+| The Way of the Exploding Fist | 13045 | [13045-the-way-of-the-exploding-fist.json](./13045-the-way-of-the-exploding-fist.json) |
 | The Way of the Pixelated Fist | 35393 | [35393-the-way-of-the-pixelated-fist.json](./35393-the-way-of-the-pixelated-fist.json) |
 | The Way of the Tiger | 26463 | [26463-the-way-of-the-tiger.json](./26463-the-way-of-the-tiger.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
@@ -25755,6 +25763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Slip | 42442 | [42442-time-slip.json](./42442-time-slip.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
 | Time Snatcher Handy | 372632 | [372632-time-snatcher-handy.json](./372632-time-snatcher-handy.json) |
+| Time Soldiers | 12866 | [12866-time-soldiers.json](./12866-time-soldiers.json) |
 | Time Soul | 321630 | [321630-time-soul.json](./321630-time-soul.json) |
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Squared | 26977 | [26977-time-squared.json](./26977-time-squared.json) |
@@ -37512,6 +37521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | TY the Tasmanian Tiger 4: Bush Rescue Returns | 264559 | [264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json](./264559-ty-the-tasmanian-tiger-4-bush-rescue-returns.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
+| TY the Tasmanian Tiger HD | 131989 | [131989-ty-the-tasmanian-tiger-hd.json](./131989-ty-the-tasmanian-tiger-hd.json) |
 | TY the Tasmanian Tiger HD + TY the Tasmanian Tiger 2: Bush Rescue HD Bundle | 158950 | [158950-ty-the-tasmanian-tiger-hd-ty-the-tasmanian-tiger-2-bush-rescue-hd-bundle.json](./158950-ty-the-tasmanian-tiger-hd-ty-the-tasmanian-tiger-2-bush-rescue-hd-bundle.json) |
 | Ty the Tasmanian Tiger: Boomerang Blast | 64322 | [64322-ty-the-tasmanian-tiger-boomerang-blast.json](./64322-ty-the-tasmanian-tiger-boomerang-blast.json) |
 | Ty the Tasmanian Tiger: Bush Rescue Bundle | 336490 | [336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json](./336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json) |
