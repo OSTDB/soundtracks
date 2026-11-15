@@ -11226,7 +11226,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Alley | 319084 | [319084-side-alley.json](./319084-side-alley.json) |
 | Side B | 152514 | [152514-side-b.json](./152514-side-b.json) |
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
+| Side by Side | 57830 | [57830-side-by-side.json](./57830-side-by-side.json) |
 | Side by Side 2 | 39944 | [39944-side-by-side-2.json](./39944-side-by-side-2.json) |
+| Side by Side 2 Evoluzione | 57829 | [57829-side-by-side-2-evoluzione.json](./57829-side-by-side-2-evoluzione.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
 | Side by Size | 265297 | [265297-side-by-size.json](./265297-side-by-size.json) |
@@ -12184,6 +12186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 25: The Keiba | 203011 | [203011-simple-1500-series-vol-25-the-keiba.json](./203011-simple-1500-series-vol-25-the-keiba.json) |
 | Simple 1500 Series Vol. 28: The Dungeon RPG | 203013 | [203013-simple-1500-series-vol-28-the-dungeon-rpg.json](./203013-simple-1500-series-vol-28-the-dungeon-rpg.json) |
 | Simple 1500 Series Vol. 29: The Tsuri | 203014 | [203014-simple-1500-series-vol-29-the-tsuri.json](./203014-simple-1500-series-vol-29-the-tsuri.json) |
+| Simple 1500 Series Vol. 3: The Gomoku Narabe | 57827 | [57827-simple-1500-series-vol-3-the-gomoku-narabe.json](./57827-simple-1500-series-vol-3-the-gomoku-narabe.json) |
 | Simple 1500 Series Vol. 31: The Sound Novel | 112548 | [112548-simple-1500-series-vol-31-the-sound-novel.json](./112548-simple-1500-series-vol-31-the-sound-novel.json) |
 | Simple 1500 Series Vol. 33: The Takkyuu | 203017 | [203017-simple-1500-series-vol-33-the-takkyuu.json](./203017-simple-1500-series-vol-33-the-takkyuu.json) |
 | Simple 1500 Series Vol. 34: The Quiz Bangumi | 203018 | [203018-simple-1500-series-vol-34-the-quiz-bangumi.json](./203018-simple-1500-series-vol-34-the-quiz-bangumi.json) |
@@ -12256,6 +12259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 12: Street Golfer | 203355 | [203355-simple-2000-series-ultimate-vol-12-street-golfer.json](./203355-simple-2000-series-ultimate-vol-12-street-golfer.json) |
 | Simple 2000 Series Ultimate Vol. 14: Topai Dramatic Mahjong | 203356 | [203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json](./203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json) |
 | Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi | 203357 | [203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json](./203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json) |
+| Simple 2000 Series Ultimate Vol. 2: Edit Racing | 57818 | [57818-simple-2000-series-ultimate-vol-2-edit-racing.json](./57818-simple-2000-series-ultimate-vol-2-edit-racing.json) |
 | Simple 2000 Series Ultimate Vol. 20: Love*Mahjong 2 | 203358 | [203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json](./203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json) |
 | Simple 2000 Series Ultimate Vol. 22: Stylish Mahjong | 203359 | [203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json](./203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json) |
 | Simple 2000 Series Ultimate Vol. 23: Project Minerva Professional | 9712 | [9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json](./9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json) |
@@ -12275,6 +12279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 109: The Taxi 2 | 203335 | [203335-simple-2000-series-vol-109-the-taxi-2.json](./203335-simple-2000-series-vol-109-the-taxi-2.json) |
 | Simple 2000 Series Vol. 11: The Offroad Buggy | 70557 | [70557-simple-2000-series-vol-11-the-offroad-buggy.json](./70557-simple-2000-series-vol-11-the-offroad-buggy.json) |
 | Simple 2000 Series Vol. 110: The Toubou Prisoner - Ross City Shinjitsu he no 10-Jikan | 60891 | [60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json](./60891-simple-2000-series-vol-110-the-toubou-prisoner-ross-city-shinjitsu-he-no-10-jikan.json) |
+| Simple 2000 Series Vol. 112: The Tousou Highway 2 - Road Warrior 2050 | 57825 | [57825-simple-2000-series-vol-112-the-tousou-highway-2-road-warrior-2050.json](./57825-simple-2000-series-vol-112-the-tousou-highway-2-road-warrior-2050.json) |
 | Simple 2000 Series Vol. 113: The Tairyou Jigoku | 166445 | [166445-simple-2000-series-vol-113-the-tairyou-jigoku.json](./166445-simple-2000-series-vol-113-the-tairyou-jigoku.json) |
 | Simple 2000 Series Vol. 114: The Onna Okappichi Torimonochou - Oharuchan Go Go Go! | 56965 | [56965-simple-2000-series-vol-114-the-onna-okappichi-torimonochou-oharuchan-go-go-go.json](./56965-simple-2000-series-vol-114-the-onna-okappichi-torimonochou-oharuchan-go-go-go.json) |
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
@@ -12350,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Battle FX | 298949 | [298949-simple-battle-fx.json](./298949-simple-battle-fx.json) |
 | Simple Boxing Drills VR | 371587 | [371587-simple-boxing-drills-vr.json](./371587-simple-boxing-drills-vr.json) |
 | Simple Brickout | 90880 | [90880-simple-brickout.json](./90880-simple-brickout.json) |
+| Simple Character 2000 Series Vol.17: Sentou Mecha Xabungle - The Race in Action | 57821 | [57821-simple-character-2000-series-vol-17-sentou-mecha-xabungle-the-race-in-action.json](./57821-simple-character-2000-series-vol-17-sentou-mecha-xabungle-the-race-in-action.json) |
 | Simple Characters 2000 Series Vol. 01: Kidou Senshi Gundam - The Gunjin Shougi | 203131 | [203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json](./203131-simple-characters-2000-series-vol-01-kidou-senshi-gundam-the-gunjin-shougi.json) |
 | Simple Characters 2000 Series Vol. 02: Afro Ken - The Puzzle | 58588 | [58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json](./58588-simple-characters-2000-series-vol-02-afro-ken-the-puzzle.json) |
 | Simple Characters 2000 Series Vol. 03: Kamen Rider - The Bike Race | 43812 | [43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json](./43812-simple-characters-2000-series-vol-03-kamen-rider-the-bike-race.json) |
@@ -17317,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Rush | 116889 | [116889-snowball-rush.json](./116889-snowball-rush.json) |
 | Snowball Saves Summer | 109822 | [109822-snowball-saves-summer.json](./109822-snowball-saves-summer.json) |
 | Snowball Showdown | 184703 | [184703-snowball-showdown.json](./184703-snowball-showdown.json) |
+| Snowball Sunday | 57810 | [57810-snowball-sunday.json](./57810-snowball-sunday.json) |
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
 | Snowball! | 30835 | [30835-snowball.json](./30835-snowball.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
@@ -24963,6 +24970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splitz | 60266 | [60266-splitz.json](./60266-splitz.json) |
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
+| Splode | 57826 | [57826-splode.json](./57826-splode.json) |
 | Sploder! | 313036 | [313036-sploder.json](./313036-sploder.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
