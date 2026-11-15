@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Federation | 189357 | [189357-galactic-federation.json](./189357-galactic-federation.json) |
 | Galactic Feud | 36642 | [36642-galactic-feud.json](./36642-galactic-feud.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
+| Galactic Field: Strategy Edition | 68178 | [68178-galactic-field-strategy-edition.json](./68178-galactic-field-strategy-edition.json) |
 | Galactic Fighter | 30511 | [30511-galactic-fighter.json](./30511-galactic-fighter.json) |
 | Galactic Fighters | 31706 | [31706-galactic-fighters.json](./31706-galactic-fighters.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
@@ -4474,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Desires | 73856 | [73856-ghostly-desires.json](./73856-ghostly-desires.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Grange | 14091 | [14091-ghostly-grange.json](./14091-ghostly-grange.json) |
+| Ghostly Horizon | 68839 | [68839-ghostly-horizon.json](./68839-ghostly-horizon.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | Ghostly Moans | 211252 | [211252-ghostly-moans.json](./211252-ghostly-moans.json) |
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
@@ -9433,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity At Its Finest 2 | 57022 | [57022-gravity-at-its-finest-2.json](./57022-gravity-at-its-finest-2.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
 | Gravity Badgers | 10376 | [10376-gravity-badgers.json](./10376-gravity-badgers.json) |
+| Gravity Ball | 68853 | [68853-gravity-ball.json](./68853-gravity-ball.json) |
 | Gravity Balls | 141401 | [141401-gravity-balls.json](./141401-gravity-balls.json) |
 | Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
@@ -12399,6 +12402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Glory WW2 | 97445 | [97445-gunsnglory-ww2.json](./97445-gunsnglory-ww2.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Guns'n'Stories: Bulletproof VR | 55382 | [55382-gunsnstories-bulletproof-vr.json](./55382-gunsnstories-bulletproof-vr.json) |
+| Guns'n'Stories: Preface VR | 68852 | [68852-gunsnstories-preface-vr.json](./68852-gunsnstories-preface-vr.json) |
 | Gunsaw | 400267 | [400267-gunsaw.json](./400267-gunsaw.json) |
 | GunsBox VR | 188431 | [188431-gunsbox-vr.json](./188431-gunsbox-vr.json) |
 | Gunscape: Seismic | 171921 | [171921-gunscape-seismic.json](./171921-gunscape-seismic.json) |
