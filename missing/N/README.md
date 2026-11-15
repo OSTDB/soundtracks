@@ -2714,6 +2714,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion 2: Another Cases | 75877 | [75877-neon-genesis-evangelion-2-another-cases.json](./75877-neon-genesis-evangelion-2-another-cases.json) |
 | Neon Genesis Evangelion: 1st Impression | 69709 | [69709-neon-genesis-evangelion-1st-impression.json](./69709-neon-genesis-evangelion-1st-impression.json) |
 | Neon Genesis Evangelion: 2nd Impression | 75875 | [75875-neon-genesis-evangelion-2nd-impression.json](./75875-neon-genesis-evangelion-2nd-impression.json) |
+| Neon Genesis Evangelion: Ayanami Raising Project | 27099 | [27099-neon-genesis-evangelion-ayanami-raising-project.json](./27099-neon-genesis-evangelion-ayanami-raising-project.json) |
+| Neon Genesis Evangelion: Ayanami Raising Project with Asuka Supplementing Project | 27100 | [27100-neon-genesis-evangelion-ayanami-raising-project-with-asuka-supplementing-project.json](./27100-neon-genesis-evangelion-ayanami-raising-project-with-asuka-supplementing-project.json) |
 | Neon Genesis Evangelion: Battle Orchestra | 43404 | [43404-neon-genesis-evangelion-battle-orchestra.json](./43404-neon-genesis-evangelion-battle-orchestra.json) |
 | Neon Genesis Evangelion: Digital Card Library | 75880 | [75880-neon-genesis-evangelion-digital-card-library.json](./75880-neon-genesis-evangelion-digital-card-library.json) |
 | Neon Genesis Evangelion: Eva to Yukai na Nakamatachi | 75881 | [75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json](./75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json) |
