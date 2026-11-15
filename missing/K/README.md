@@ -5158,7 +5158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights in a Different Spacetime | 374866 | [374866-knights-in-a-different-spacetime.json](./374866-knights-in-a-different-spacetime.json) |
 | Knights in Shining Armor: Our King's Tale Episode 1 | 25378 | [25378-knights-in-shining-armor-our-kings-tale-episode-1.json](./25378-knights-in-shining-armor-our-kings-tale-episode-1.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
-| Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights in Tight Spaces: Collector's Edition | 406335 | [406335-knights-in-tight-spaces-collectors-edition.json](./406335-knights-in-tight-spaces-collectors-edition.json) |
 | Knights of Ages | 143430 | [143430-knights-of-ages.json](./143430-knights-of-ages.json) |
 | Knights of Braveland | 158249 | [158249-knights-of-braveland.json](./158249-knights-of-braveland.json) |
