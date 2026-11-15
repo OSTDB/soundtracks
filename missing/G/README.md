@@ -8617,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5 XL Edition | 45205 | [45205-gran-turismo-5-xl-edition.json](./45205-gran-turismo-5-xl-edition.json) |
+| Gran Turismo 5: Academy Edition | 44667 | [44667-gran-turismo-5-academy-edition.json](./44667-gran-turismo-5-academy-edition.json) |
 | Gran Turismo 5: Collector's Edition | 138380 | [138380-gran-turismo-5-collectors-edition.json](./138380-gran-turismo-5-collectors-edition.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
 | Gran Turismo 5: Signature Edition | 138381 | [138381-gran-turismo-5-signature-edition.json](./138381-gran-turismo-5-signature-edition.json) |
@@ -12366,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunman Clive | 8599 | [8599-gunman-clive.json](./8599-gunman-clive.json) |
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
 | Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
+| Gunman Clive HD Collection | 60063 | [60063-gunman-clive-hd-collection.json](./60063-gunman-clive-hd-collection.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Drift | 369525 | [369525-gunman-drift.json](./369525-gunman-drift.json) |
 | Gunman Taco Truck | 27084 | [27084-gunman-taco-truck.json](./27084-gunman-taco-truck.json) |
