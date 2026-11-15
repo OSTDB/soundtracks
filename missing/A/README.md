@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
 | Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
+| Advanced V.G. 2 | 44799 | [44799-advanced-v-g-2.json](./44799-advanced-v-g-2.json) |
 | Advanced V.G.: Saturn Tribute | 343527 | [343527-advanced-v-g-saturn-tribute.json](./343527-advanced-v-g-saturn-tribute.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
