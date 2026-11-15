@@ -9513,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of a Hunter | 115344 | [115344-birth-of-a-hunter.json](./115344-birth-of-a-hunter.json) |
 | Birth of America | 23101 | [23101-birth-of-america.json](./23101-birth-of-america.json) |
 | Birth of America 2: Wars in America | 59496 | [59496-birth-of-america-2-wars-in-america.json](./59496-birth-of-america-2-wars-in-america.json) |
+| Birth of America II: Wars in America 1750-1815 | 20784 | [20784-birth-of-america-ii-wars-in-america-1750-1815.json](./20784-birth-of-america-ii-wars-in-america-1750-1815.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
 | Birth of Spring | 82172 | [82172-birth-of-spring.json](./82172-birth-of-spring.json) |
@@ -13693,6 +13694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOGs: Earth vs Sea | 132882 | [132882-bogs-earth-vs-sea.json](./132882-bogs-earth-vs-sea.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
 | Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
+| Boh | 20424 | [20424-boh.json](./20424-boh.json) |
 | BoHeM | 405747 | [405747-bohem.json](./405747-bohem.json) |
 | Bohemian Cupid | 338666 | [338666-bohemian-cupid.json](./338666-bohemian-cupid.json) |
 | Bohemian Symphony | 225803 | [225803-bohemian-symphony.json](./225803-bohemian-symphony.json) |
@@ -19369,6 +19371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Time Battle | 247995 | [247995-bullet-time-battle.json](./247995-bullet-time-battle.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Trail | 147582 | [147582-bullet-trail.json](./147582-bullet-trail.json) |
+| Bullet Train | 20455 | [20455-bullet-train.json](./20455-bullet-train.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
