@@ -7908,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball HD: Classic Arcade, Zen + Space Games | 99895 | [99895-pinball-hd-classic-arcade-zen-space-games.json](./99895-pinball-hd-classic-arcade-zen-space-games.json) |
 | Pinball Hero | 357210 | [357210-pinball-hero.json](./357210-pinball-hero.json) |
 | Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
+| Pinball Heroes | 42817 | [42817-pinball-heroes.json](./42817-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
 | Pinball Heroes: Complete | 52665 | [52665-pinball-heroes-complete.json](./52665-pinball-heroes-complete.json) |
 | Pinball Heroes: Fat Princess | 52663 | [52663-pinball-heroes-fat-princess.json](./52663-pinball-heroes-fat-princess.json) |
@@ -8323,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe It Puzzle Challenge | 167610 | [167610-pipe-it-puzzle-challenge.json](./167610-pipe-it-puzzle-challenge.json) |
 | Pipe Line Puzzle | 268572 | [268572-pipe-line-puzzle.json](./268572-pipe-line-puzzle.json) |
 | Pipe Lord | 100323 | [100323-pipe-lord.json](./100323-pipe-lord.json) |
+| Pipe madness | 42816 | [42816-pipe-madness.json](./42816-pipe-madness.json) |
 | Pipe Mania | 21682 | [21682-pipe-mania.json](./21682-pipe-mania.json) |
 | Pipe Mania!! | 265013 | [265013-pipe-mania.json](./265013-pipe-mania.json) |
 | Pipe Master II | 108803 | [108803-pipe-master-ii.json](./108803-pipe-master-ii.json) |
