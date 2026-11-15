@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4-II: Scenario Set | 225941 | [225941-samurai-warriors-4-ii-scenario-set.json](./225941-samurai-warriors-4-ii-scenario-set.json) |
 | Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
 | Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
+| Samurai Warriors 5 | 143608 | [143608-samurai-warriors-5.json](./143608-samurai-warriors-5.json) |
 | Samurai Warriors 5: Deluxe Edition | 220898 | [220898-samurai-warriors-5-deluxe-edition.json](./220898-samurai-warriors-5-deluxe-edition.json) |
 | Samurai Warriors 5: Digital Deluxe Edition | 164665 | [164665-samurai-warriors-5-digital-deluxe-edition.json](./164665-samurai-warriors-5-digital-deluxe-edition.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
@@ -7958,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadows: Awakening - Necrophage's Curse | 155327 | [155327-shadows-awakening-necrophages-curse.json](./155327-shadows-awakening-necrophages-curse.json) |
 | Shadows: Awakening - The Chromaton Chronicles | 155328 | [155328-shadows-awakening-the-chromaton-chronicles.json](./155328-shadows-awakening-the-chromaton-chronicles.json) |
+| Shadows: Price For Our Sins | 16793 | [16793-shadows-price-for-our-sins.json](./16793-shadows-price-for-our-sins.json) |
 | Shadows: Room Escape | 183697 | [183697-shadows-room-escape.json](./183697-shadows-room-escape.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | ShadowSide | 81194 | [81194-shadowside.json](./81194-shadowside.json) |
@@ -24143,6 +24145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherocious | 285309 | [285309-spherocious.json](./285309-spherocious.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Spheroids | 26752 | [26752-spheroids.json](./26752-spheroids.json) |
 | Spheroll | 399340 | [399340-spheroll.json](./399340-spheroll.json) |
 | Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
 | Spherun | 410575 | [410575-spherun.json](./410575-spherun.json) |
@@ -34353,6 +34356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bloom | 415743 | [415743-super-bloom.json](./415743-super-bloom.json) |
 | Super Blowfish Castle | 373489 | [373489-super-blowfish-castle.json](./373489-super-blowfish-castle.json) |
 | Super Blox | 113576 | [113576-super-blox.json](./113576-super-blox.json) |
+| Super Blue Boy Planet | 26591 | [26591-super-blue-boy-planet.json](./26591-super-blue-boy-planet.json) |
 | Super Blue Fighter | 32965 | [32965-super-blue-fighter.json](./32965-super-blue-fighter.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
@@ -34804,6 +34808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dungeon Scoundrel | 396609 | [396609-super-dungeon-scoundrel.json](./396609-super-dungeon-scoundrel.json) |
+| Super Dungeon Tactics | 26579 | [26579-super-dungeon-tactics.json](./26579-super-dungeon-tactics.json) |
 | Super Dunk Star | 42270 | [42270-super-dunk-star.json](./42270-super-dunk-star.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
@@ -38243,6 +38248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Riders | 44962 | [44962-surf-riders.json](./44962-surf-riders.json) |
 | Surf Rocket Racers | 45842 | [45842-surf-rocket-racers.json](./45842-surf-rocket-racers.json) |
 | Surf Safari | 201980 | [201980-surf-safari.json](./201980-surf-safari.json) |
+| Surf World Series | 26523 | [26523-surf-world-series.json](./26523-surf-world-series.json) |
 | Surf's Up | 201349 | [201349-surfs-up.json](./201349-surfs-up.json) |
 | Surf's Up | 248517 | [248517-surfs-up.json](./248517-surfs-up.json) |
 | Surf's Up | 248518 | [248518-surfs-up.json](./248518-surfs-up.json) |
@@ -40221,6 +40227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie Miniature | 306002 | [306002-sylvie-miniature.json](./306002-sylvie-miniature.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Sylvie's Fruit Day | 401330 | [401330-sylvies-fruit-day.json](./401330-sylvies-fruit-day.json) |
+| Sylvio | 26779 | [26779-sylvio.json](./26779-sylvio.json) |
 | Sylvio 2 | 28216 | [28216-sylvio-2.json](./28216-sylvio-2.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
 | Sym | 11424 | [11424-sym.json](./11424-sym.json) |
