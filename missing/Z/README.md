@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
 | Zulu Hour | 59723 | [59723-zulu-hour.json](./59723-zulu-hour.json) |
 | Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
+| ZuluWar! | 73893 | [73893-zuluwar.json](./73893-zuluwar.json) |
 | Zuma | 247056 | [247056-zuma.json](./247056-zuma.json) |
 | Zuma Blitz | 66004 | [66004-zuma-blitz.json](./66004-zuma-blitz.json) |
 | Zuma Boom | 213817 | [213817-zuma-boom.json](./213817-zuma-boom.json) |
