@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qvabllock | 99631 | [99631-qvabllock.json](./99631-qvabllock.json) |
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
 | Qwak | 8528 | [8528-qwak.json](./8528-qwak.json) |
+| Qwak! | 11511 | [11511-qwak.json](./11511-qwak.json) |
 | Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwert: A New Type of Word Game! | 250270 | [250270-qwert-a-new-type-of-word-game.json](./250270-qwert-a-new-type-of-word-game.json) |
 | Qwerty | 209743 | [209743-qwerty.json](./209743-qwerty.json) |
