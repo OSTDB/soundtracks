@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Shadows | 271551 | [271551-veil-of-shadows.json](./271551-veil-of-shadows.json) |
 | Veil of Sight | 359388 | [359388-veil-of-sight.json](./359388-veil-of-sight.json) |
+| Veil of the Black Ark | 420305 | [420305-veil-of-the-black-ark.json](./420305-veil-of-the-black-ark.json) |
 | Veil of the Soulstones | 382674 | [382674-veil-of-the-soulstones.json](./382674-veil-of-the-soulstones.json) |
 | Veil of the Volcano | 191214 | [191214-veil-of-the-volcano.json](./191214-veil-of-the-volcano.json) |
 | Veil of Time | 423373 | [423373-veil-of-time.json](./423373-veil-of-time.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
 | Visco Arcade 1 | 420321 | [420321-visco-arcade-1.json](./420321-visco-arcade-1.json) |
+| Visco Arcade 2 | 420387 | [420387-visco-arcade-2.json](./420387-visco-arcade-2.json) |
 | Visco Collection | 267789 | [267789-visco-collection.json](./267789-visco-collection.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
 | Vise | 417473 | [417473-vise.json](./417473-vise.json) |
