@@ -10011,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
 | Black Circle | 100032 | [100032-black-circle.json](./100032-black-circle.json) |
 | Black Circle | 9297 | [9297-black-circle.json](./9297-black-circle.json) |
+| Black Closet | 26470 | [26470-black-closet.json](./26470-black-closet.json) |
 | Black Cloth | 27176 | [27176-black-cloth.json](./27176-black-cloth.json) |
 | Black Clover Mobile | 188401 | [188401-black-clover-mobile.json](./188401-black-clover-mobile.json) |
 | Black Clover Phantom Knights | 97043 | [97043-black-clover-phantom-knights.json](./97043-black-clover-phantom-knights.json) |
@@ -11542,6 +11543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blixten Quest | 110917 | [110917-blixten-quest.json](./110917-blixten-quest.json) |
 | Blizz! | 354945 | [354945-blizz.json](./354945-blizz.json) |
 | Blizzard | 92141 | [92141-blizzard.json](./92141-blizzard.json) |
+| Blizzard Arcade Collection | 143737 | [143737-blizzard-arcade-collection.json](./143737-blizzard-arcade-collection.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blizzard of Faith & Revenge | 142928 | [142928-blizzard-of-faith-and-revenge.json](./142928-blizzard-of-faith-and-revenge.json) |
 | Blizzard Pass | 93400 | [93400-blizzard-pass.json](./93400-blizzard-pass.json) |
@@ -14841,6 +14843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boopineer | 164121 | [164121-boopineer.json](./164121-boopineer.json) |
+| Boor | 27337 | [27337-boor.json](./27337-boor.json) |
 | Boorglars | 183343 | [183343-boorglars.json](./183343-boorglars.json) |
 | Boorp's Balls | 122892 | [122892-boorps-balls.json](./122892-boorps-balls.json) |
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
@@ -20371,6 +20374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
 | Bush 1022 | 419643 | [419643-bush-1022.json](./419643-bush-1022.json) |
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
+| Bush Hockey League | 27407 | [27407-bush-hockey-league.json](./27407-bush-hockey-league.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
 | Bush Simulator | 326463 | [326463-bush-simulator.json](./326463-bush-simulator.json) |
