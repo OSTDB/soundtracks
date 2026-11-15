@@ -6554,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airoheart | 142513 | [142513-airoheart.json](./142513-airoheart.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
+| AironBall: The Loop | 51589 | [51589-aironball-the-loop.json](./51589-aironball-the-loop.json) |
 | Airplane | 176572 | [176572-airplane.json](./176572-airplane.json) |
 | Airplane | 303327 | [303327-airplane.json](./303327-airplane.json) |
 | Airplane Arena | 192509 | [192509-airplane-arena.json](./192509-airplane-arena.json) |
@@ -8174,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Predator: Requiem - Combat Evolved | 343377 | [343377-aliens-vs-predator-requiem-combat-evolved.json](./343377-aliens-vs-predator-requiem-combat-evolved.json) |
 | Aliens vs. Predator: Swarm Map Pack | 223835 | [223835-aliens-vs-predator-swarm-map-pack.json](./223835-aliens-vs-predator-swarm-map-pack.json) |
 | Aliens Want Our Mascot?! | 393291 | [393291-aliens-want-our-mascot.json](./393291-aliens-want-our-mascot.json) |
+| Aliens X | 52277 | [52277-aliens-x.json](./52277-aliens-x.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: A Comic Book Adventure | 2169 | [2169-aliens-a-comic-book-adventure.json](./2169-aliens-a-comic-book-adventure.json) |
 | Aliens: Alien 2 | 36811 | [36811-aliens-alien-2.json](./36811-aliens-alien-2.json) |
@@ -8365,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hallows Evie | 215530 | [215530-all-hallows-evie.json](./215530-all-hallows-evie.json) |
 | All Hams on Deck! | 185835 | [185835-all-hams-on-deck.json](./185835-all-hams-on-deck.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
+| All Haze Eve | 52269 | [52269-all-haze-eve.json](./52269-all-haze-eve.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
 | All Hit All Her | 148089 | [148089-all-hit-all-her.json](./148089-all-hit-all-her.json) |
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
@@ -9726,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Army: Operations | 137508 | [137508-americas-army-operations.json](./137508-americas-army-operations.json) |
 | America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
 | America's Army: Rise of a Soldier | 5722 | [5722-americas-army-rise-of-a-soldier.json](./5722-americas-army-rise-of-a-soldier.json) |
+| America's Army: Special Forces | 51622 | [51622-americas-army-special-forces.json](./51622-americas-army-special-forces.json) |
 | America's Army: True Soldiers | 5482 | [5482-americas-army-true-soldiers.json](./5482-americas-army-true-soldiers.json) |
 | America's Funniest Home Videos: Interactive DVD Game | 331020 | [331020-americas-funniest-home-videos-interactive-dvd-game.json](./331020-americas-funniest-home-videos-interactive-dvd-game.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
@@ -10838,6 +10842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Essence | 399400 | [399400-angel-essence.json](./399400-angel-essence.json) |
 | Angel Express: Tokkyu Tenshi | 32651 | [32651-angel-express-tokkyu-tenshi.json](./32651-angel-express-tokkyu-tenshi.json) |
+| Angel Flare | 51487 | [51487-angel-flare.json](./51487-angel-flare.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Graffiti S: Anata he no Profile | 253767 | [253767-angel-graffiti-s-anata-he-no-profile.json](./253767-angel-graffiti-s-anata-he-no-profile.json) |
@@ -15238,6 +15243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena | 266878 | [266878-arena.json](./266878-arena.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
 | Arena | 366956 | [366956-arena.json](./366956-arena.json) |
+| Arena | 51483 | [51483-arena.json](./51483-arena.json) |
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
 | Arena 3000 | 15601 | [15601-arena-3000.json](./15601-arena-3000.json) |
 | Arena 3D | 33631 | [33631-arena-3d.json](./33631-arena-3d.json) |
@@ -16445,6 +16451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
 | Artdink Game Log: Aquanaut’s Holiday | 397629 | [397629-artdink-game-log-aquanaut-s-holiday.json](./397629-artdink-game-log-aquanaut-s-holiday.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
+| Arté Mecenas | 51490 | [51490-arte-mecenas.json](./51490-arte-mecenas.json) |
 | Artech War Game Bundle | 186541 | [186541-artech-war-game-bundle.json](./186541-artech-war-game-bundle.json) |
 | Artelius | 68893 | [68893-artelius.json](./68893-artelius.json) |
 | Artemis | 185542 | [185542-artemis.json](./185542-artemis.json) |
