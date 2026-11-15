@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y2Roll | 329783 | [329783-y2roll.json](./329783-y2roll.json) |
 | Ya Budu Kosmonavtom | 171969 | [171969-ya-budu-kosmonavtom.json](./171969-ya-budu-kosmonavtom.json) |
 | Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
+| Ya Herd? | 56088 | [56088-ya-herd.json](./56088-ya-herd.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yaarmi Tycoon | 363101 | [363101-yaarmi-tycoon.json](./363101-yaarmi-tycoon.json) |
 | Yaarrgh! Battle Island! | 149372 | [149372-yaarrgh-battle-island.json](./149372-yaarrgh-battle-island.json) |
