@@ -15093,6 +15093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concubine | 268315 | [268315-concubine.json](./268315-concubine.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Concurrency | 34668 | [34668-concurrency.json](./34668-concurrency.json) |
+| Concursion | 10103 | [10103-concursion.json](./10103-concursion.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condemned | 299764 | [299764-condemned.json](./299764-condemned.json) |
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
@@ -19748,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Sea | 5792 | [5792-crimson-sea.json](./5792-crimson-sea.json) |
 | Crimson Sea 2 | 22166 | [22166-crimson-sea-2.json](./22166-crimson-sea-2.json) |
 | Crimson Seer | 378400 | [378400-crimson-seer.json](./378400-crimson-seer.json) |
+| Crimson Shroud | 20839 | [20839-crimson-shroud.json](./20839-crimson-shroud.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Skies: High Road to Revenge | 5793 | [5793-crimson-skies-high-road-to-revenge.json](./5793-crimson-skies-high-road-to-revenge.json) |
 | Crimson Snow | 221719 | [221719-crimson-snow.json](./221719-crimson-snow.json) |
@@ -21673,6 +21675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubethon | 289542 | [289542-cubethon.json](./289542-cubethon.json) |
 | CubeTime | 110616 | [110616-cubetime.json](./110616-cubetime.json) |
 | Cubetory | 340574 | [340574-cubetory.json](./340574-cubetory.json) |
+| Cubetractor | 9811 | [9811-cubetractor.json](./9811-cubetractor.json) |
 | Cubettiny | 383651 | [383651-cubettiny.json](./383651-cubettiny.json) |
 | Cubeventure | 144865 | [144865-cubeventure.json](./144865-cubeventure.json) |
 | Cubeverse | 109397 | [109397-cubeverse.json](./109397-cubeverse.json) |
@@ -22028,6 +22031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultures 2: The Gates of Asgard | 11380 | [11380-cultures-2-the-gates-of-asgard.json](./11380-cultures-2-the-gates-of-asgard.json) |
 | Cultures Gold | 396837 | [396837-cultures-gold.json](./396837-cultures-gold.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
+| Cultures: 8th Wonder of the World | 10118 | [10118-cultures-8th-wonder-of-the-world.json](./10118-cultures-8th-wonder-of-the-world.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Abenteuerbox | 85764 | [85764-cultures-die-abenteuerbox.json](./85764-cultures-die-abenteuerbox.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
