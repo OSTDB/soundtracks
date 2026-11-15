@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Wars 2: YapYap the Destroyer Leader Pack | 354218 | [354218-halo-wars-2-yapyap-the-destroyer-leader-pack.json](./354218-halo-wars-2-yapyap-the-destroyer-leader-pack.json) |
 | Halo Wars: Definitive Edition | 26183 | [26183-halo-wars-definitive-edition.json](./26183-halo-wars-definitive-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
+| Halo Zero | 64606 | [64606-halo-zero.json](./64606-halo-zero.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Halo: Combat Evolved VR | 324563 | [324563-halo-combat-evolved-vr.json](./324563-halo-combat-evolved-vr.json) |
