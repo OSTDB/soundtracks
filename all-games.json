@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T07:05:57.231Z",
-  "total_soundtracks": 3399,
+  "generated_at": "2026-11-15T07:15:57.982Z",
+  "total_soundtracks": 3400,
   "games": [
     {
       "igdb_id": 292844,
@@ -16657,6 +16657,20 @@
         {
           "album_name": "Heading Out (Soundtrack EP)",
           "spotify_url": "https://open.spotify.com/album/1qZE7RGppIJTZmKw5JUP2p",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 102326,
+      "game_name": "Heart of the Woods",
+      "game_url": "https://ostdb.net/games/heart-of-the-woods",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735328b0107662f04476b7de13",
+      "albums": [
+        {
+          "album_name": "Heart of the Woods Original Soundtrack: Snowfall",
+          "spotify_url": "https://open.spotify.com/album/78Nq5ZbwuXKaGpbM45oyZm",
           "apple_music_url": "",
           "album_link_url": ""
         }
