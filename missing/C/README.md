@@ -8194,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
 | Chieri no Doki*Doki Yukemuri Burai Tabi | 266634 | [266634-chieri-no-doki-doki-yukemuri-burai-tabi.json](./266634-chieri-no-doki-doki-yukemuri-burai-tabi.json) |
+| Chiffa 2 | 30296 | [30296-chiffa-2.json](./30296-chiffa-2.json) |
 | Chigau no Doore da? | 267235 | [267235-chigau-no-doore-da.json](./267235-chigau-no-doore-da.json) |
 | Chigau!!! | 170786 | [170786-chigau.json](./170786-chigau.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
@@ -9443,6 +9444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of a Dark Lord: Episode II War of The Abyss | 35962 | [35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json](./35962-chronicles-of-a-dark-lord-episode-ii-war-of-the-abyss.json) |
 | Chronicles of a Dark Lord: Genesis | 52739 | [52739-chronicles-of-a-dark-lord-genesis.json](./52739-chronicles-of-a-dark-lord-genesis.json) |
 | Chronicles of a Dark Lord: Rhapsody Clash | 34035 | [34035-chronicles-of-a-dark-lord-rhapsody-clash.json](./34035-chronicles-of-a-dark-lord-rhapsody-clash.json) |
+| Chronicles of a Dark Lord: Tides of Fate Remastered | 29290 | [29290-chronicles-of-a-dark-lord-tides-of-fate-remastered.json](./29290-chronicles-of-a-dark-lord-tides-of-fate-remastered.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian 3: The Vanishing Village - Collector's Edition | 373980 | [373980-chronicles-of-albian-3-the-vanishing-village-collectors-edition.json](./373980-chronicles-of-albian-3-the-vanishing-village-collectors-edition.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
@@ -11258,6 +11260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawpunk | 302833 | [302833-clawpunk.json](./302833-clawpunk.json) |
 | Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
 | Claws & Feathers | 35664 | [35664-claws-and-feathers.json](./35664-claws-and-feathers.json) |
+| Claws & Feathers 2 | 30159 | [30159-claws-and-feathers-2.json](./30159-claws-and-feathers-2.json) |
 | Claws of Despair | 14005 | [14005-claws-of-despair.json](./14005-claws-of-despair.json) |
 | Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
