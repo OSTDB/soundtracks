@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naru Kiss | 108143 | [108143-naru-kiss.json](./108143-naru-kiss.json) |
 | Naru-Morph! | 291354 | [291354-naru-morph.json](./291354-naru-morph.json) |
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
+| Naruto Arena | 61984 | [61984-naruto-arena.json](./61984-naruto-arena.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Quick Teleport | 304953 | [304953-naruto-quick-teleport.json](./304953-naruto-quick-teleport.json) |
@@ -1086,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disaster: A Butterfly's Guide to Mass Destruction | 263238 | [263238-natural-disaster-a-butterflys-guide-to-mass-destruction.json](./263238-natural-disaster-a-butterflys-guide-to-mass-destruction.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
+| Natural Doctrine | 20873 | [20873-natural-doctrine.json](./20873-natural-doctrine.json) |
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
 | Natural Habitat | 154261 | [154261-natural-habitat.json](./154261-natural-habitat.json) |
 | Natural Instincts | 126838 | [126838-natural-instincts.json](./126838-natural-instincts.json) |
@@ -3884,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zealand Jigsaw Puzzles: Expansion Pack 1 | 276567 | [276567-new-zealand-jigsaw-puzzles-expansion-pack-1.json](./276567-new-zealand-jigsaw-puzzles-expansion-pack-1.json) |
 | New Zealand Jigsaw Puzzles: Expansion Pack 2 | 276568 | [276568-new-zealand-jigsaw-puzzles-expansion-pack-2.json](./276568-new-zealand-jigsaw-puzzles-expansion-pack-2.json) |
 | New Zealand Jigsaw Puzzles: Expansion Pack 3 | 276569 | [276569-new-zealand-jigsaw-puzzles-expansion-pack-3.json](./276569-new-zealand-jigsaw-puzzles-expansion-pack-3.json) |
+| New Zealand Story Revolution | 20666 | [20666-new-zealand-story-revolution.json](./20666-new-zealand-story-revolution.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
 | New! SMW2 Yoshi's Island | 186135 | [186135-new-smw2-yoshis-island.json](./186135-new-smw2-yoshis-island.json) |
@@ -4285,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL 2K6 | 5965 | [5965-nhl-2k6.json](./5965-nhl-2k6.json) |
+| NHL 2K7 | 5966 | [5966-nhl-2k7.json](./5966-nhl-2k7.json) |
 | NHL 2K8 | 7119 | [7119-nhl-2k8.json](./7119-nhl-2k8.json) |
 | NHL 2K9 | 5068 | [5068-nhl-2k9.json](./5068-nhl-2k9.json) |
 | NHL 5-On-5 2006 | 57932 | [57932-nhl-5-on-5-2006.json](./57932-nhl-5-on-5-2006.json) |
@@ -5691,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Sigma | 5974 | [5974-ninja-gaiden-sigma.json](./5974-ninja-gaiden-sigma.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2 Black | 243917 | [243917-ninja-gaiden-sigma-2-black.json](./243917-ninja-gaiden-sigma-2-black.json) |
+| Ninja Gaiden Sigma 2 Plus | 21000 | [21000-ninja-gaiden-sigma-2-plus.json](./21000-ninja-gaiden-sigma-2-plus.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
 | Ninja Gaiden Sigma Plus | 21569 | [21569-ninja-gaiden-sigma-plus.json](./21569-ninja-gaiden-sigma-plus.json) |
