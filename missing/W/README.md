@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeping Doll | 25340 | [25340-weeping-doll.json](./25340-weeping-doll.json) |
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
 | Weeping of the Empire: Tears of the Kingdom | 427245 | [427245-weeping-of-the-empire-tears-of-the-kingdom.json](./427245-weeping-of-the-empire-tears-of-the-kingdom.json) |
+| Weeping Skies | 47583 | [47583-weeping-skies.json](./47583-weeping-skies.json) |
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeRPG | 157458 | [157458-weerpg.json](./157458-weerpg.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
