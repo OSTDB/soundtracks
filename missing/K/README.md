@@ -3453,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fate | 250736 | [250736-king-of-fate.json](./250736-king-of-fate.json) |
 | King of Fighters '95, The: Special Item Box | 75461 | [75461-king-of-fighters-95-the-special-item-box.json](./75461-king-of-fighters-95-the-special-item-box.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
+| King of Fighters R-1 | 47602 | [47602-king-of-fighters-r-1.json](./47602-king-of-fighters-r-1.json) |
 | King of Fighters R-2 | 210437 | [210437-king-of-fighters-r-2.json](./210437-king-of-fighters-r-2.json) |
 | King of Fighters R-2 | 43988 | [43988-king-of-fighters-r-2.json](./43988-king-of-fighters-r-2.json) |
 | King of Fighters XV: Characters - Duo Lon | 266344 | [266344-king-of-fighters-xv-characters-duo-lon.json](./266344-king-of-fighters-xv-characters-duo-lon.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters: Pocket Battle | 232218 | [232218-king-of-fighters-pocket-battle.json](./232218-king-of-fighters-pocket-battle.json) |
 | King of Fighters: Survival City | 241577 | [241577-king-of-fighters-survival-city.json](./241577-king-of-fighters-survival-city.json) |
 | King of Football | 67980 | [67980-king-of-football.json](./67980-king-of-football.json) |
+| King of Gladiator | 47593 | [47593-king-of-gladiator.json](./47593-king-of-gladiator.json) |
 | King of Gladiators | 399940 | [399940-king-of-gladiators.json](./399940-king-of-gladiators.json) |
 | King of Gods: Angel the Awakening of a Demon | 110674 | [110674-king-of-gods-angel-the-awakening-of-a-demon.json](./110674-king-of-gods-angel-the-awakening-of-a-demon.json) |
 | King of Halloween | 123503 | [123503-king-of-halloween.json](./123503-king-of-halloween.json) |
@@ -4484,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita he. Diamond Dust + Kiss is Beginning. | 60399 | [60399-kita-he-diamond-dust-kiss-is-beginning.json](./60399-kita-he-diamond-dust-kiss-is-beginning.json) |
 | Kita he.: Diamond Dust | 60400 | [60400-kita-he-diamond-dust.json](./60400-kita-he-diamond-dust.json) |
 | Kita no Chi to Hitori no Shoujo: Koropokkuru no Negai | 298737 | [298737-kita-no-chi-to-hitori-no-shoujo-koropokkuru-no-negai.json](./298737-kita-no-chi-to-hitori-no-shoujo-koropokkuru-no-negai.json) |
+| Kitahei | 47505 | [47505-kitahei.json](./47505-kitahei.json) |
 | Kitan Iwanaga | 225527 | [225527-kitan-iwanaga.json](./225527-kitan-iwanaga.json) |
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
 | Kitaria Fables 2 | 398521 | [398521-kitaria-fables-2.json](./398521-kitaria-fables-2.json) |
