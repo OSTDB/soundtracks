@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vega Motions: Project Unleashed | 126887 | [126887-vega-motions-project-unleashed.json](./126887-vega-motions-project-unleashed.json) |
 | Vega Strike | 46954 | [46954-vega-strike.json](./46954-vega-strike.json) |
+| Vega Tank | 33549 | [33549-vega-tank.json](./33549-vega-tank.json) |
 | Vegaman | 177162 | [177162-vegaman.json](./177162-vegaman.json) |
 | Vegan Challenge | 243477 | [243477-vegan-challenge.json](./243477-vegan-challenge.json) |
 | Vegangsters | 253304 | [253304-vegangsters.json](./253304-vegangsters.json) |
@@ -1930,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vet Emergency 2 | 70726 | [70726-vet-emergency-2.json](./70726-vet-emergency-2.json) |
 | Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
+| Veterans Online | 32322 | [32322-veterans-online.json](./32322-veterans-online.json) |
 | Veterans: Napoleonic Wars | 390282 | [390282-veterans-napoleonic-wars.json](./390282-veterans-napoleonic-wars.json) |
 | Veterinary Clinic Simulator | 171721 | [171721-veterinary-clinic-simulator.json](./171721-veterinary-clinic-simulator.json) |
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
@@ -4289,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Black Hole Travel Hypothesis | 172248 | [172248-vr-black-hole-travel-hypothesis.json](./172248-vr-black-hole-travel-hypothesis.json) |
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boxing Master | 170620 | [170620-vr-boxing-master.json](./170620-vr-boxing-master.json) |
+| VR Boxing Workout | 32317 | [32317-vr-boxing-workout.json](./32317-vr-boxing-workout.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Brewing Simulator | 158631 | [158631-vr-brewing-simulator.json](./158631-vr-brewing-simulator.json) |
 | VR Bukkake | 384684 | [384684-vr-bukkake.json](./384684-vr-bukkake.json) |
@@ -4582,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRandish | 156797 | [156797-vrandish.json](./156797-vrandish.json) |
 | VRange | 110491 | [110491-vrange.json](./110491-vrange.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
+| VRbloX | 32296 | [32296-vrblox.json](./32296-vrblox.json) |
 | VRC Pro | 36141 | [36141-vrc-pro.json](./36141-vrc-pro.json) |
 | VRC Pro: Bashing & Crawling Car & Track Pack | 274612 | [274612-vrc-pro-bashing-and-crawling-car-and-track-pack.json](./274612-vrc-pro-bashing-and-crawling-car-and-track-pack.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
