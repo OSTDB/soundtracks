@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
 | Wall Street Bets | 164070 | [164070-wall-street-bets.json](./164070-wall-street-bets.json) |
 | Wall Street Junior | 74381 | [74381-wall-street-junior.json](./74381-wall-street-junior.json) |
+| Wall Street Kid | 48261 | [48261-wall-street-kid.json](./48261-wall-street-kid.json) |
 | Wall Street Massacre | 394138 | [394138-wall-street-massacre.json](./394138-wall-street-massacre.json) |
 | Wall Street Raider | 186757 | [186757-wall-street-raider.json](./186757-wall-street-raider.json) |
 | Wall Street Raider | 377285 | [377285-wall-street-raider.json](./377285-wall-street-raider.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallsurf | 320074 | [320074-wallsurf.json](./320074-wallsurf.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
 | Wally and the Fantastic Predators | 121922 | [121922-wally-and-the-fantastic-predators.json](./121922-wally-and-the-fantastic-predators.json) |
+| Wally Bear and the NO! Gang | 48260 | [48260-wally-bear-and-the-no-gang.json](./48260-wally-bear-and-the-no-gang.json) |
 | Wally Kong | 62339 | [62339-wally-kong.json](./62339-wally-kong.json) |
 | Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
 | Wally wo Sagase! | 40530 | [40530-wally-wo-sagase.json](./40530-wally-wo-sagase.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune Puzzle Pop | 56820 | [56820-wheel-of-fortune-puzzle-pop.json](./56820-wheel-of-fortune-puzzle-pop.json) |
 | Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
 | Wheel of Fortune: Deluxe Edition | 42424 | [42424-wheel-of-fortune-deluxe-edition.json](./42424-wheel-of-fortune-deluxe-edition.json) |
+| Wheel of Fortune: Family Edition | 48258 | [48258-wheel-of-fortune-family-edition.json](./48258-wheel-of-fortune-family-edition.json) |
 | Wheel of Fortune: Featuring Vanna White | 182279 | [182279-wheel-of-fortune-featuring-vanna-white.json](./182279-wheel-of-fortune-featuring-vanna-white.json) |
 | Wheel of Fortune: Junior Edition | 48094 | [48094-wheel-of-fortune-junior-edition.json](./48094-wheel-of-fortune-junior-edition.json) |
 | Wheel of Fortune: New 3rd Edition | 47182 | [47182-wheel-of-fortune-new-3rd-edition.json](./47182-wheel-of-fortune-new-3rd-edition.json) |
@@ -8835,6 +8838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Bus Driving Simulator | 174613 | [174613-world-bus-driving-simulator.json](./174613-world-bus-driving-simulator.json) |
 | World Challenge Golf | 385844 | [385844-world-challenge-golf.json](./385844-world-challenge-golf.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
+| World Champ | 48256 | [48256-world-champ.json](./48256-world-champ.json) |
 | World Champion Icehockey | 417485 | [417485-world-champion-icehockey.json](./417485-world-champion-icehockey.json) |
 | World Champions: Decathlon | 165936 | [165936-world-champions-decathlon.json](./165936-world-champions-decathlon.json) |
 | World Championship Athletics | 79470 | [79470-world-championship-athletics.json](./79470-world-championship-athletics.json) |
