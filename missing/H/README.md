@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
+| Head Banger | 70526 | [70526-head-banger.json](./70526-head-banger.json) |
 | Head Bangerz | 265761 | [265761-head-bangerz.json](./265761-head-bangerz.json) |
 | Head Basketball: Samir of Morocco | 235573 | [235573-head-basketball-samir-of-morocco.json](./235573-head-basketball-samir-of-morocco.json) |
 | Head Boxing | 90785 | [90785-head-boxing.json](./90785-head-boxing.json) |
@@ -7636,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hickory Clock | 312591 | [312591-hickory-clock.json](./312591-hickory-clock.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidamari no Sanatorium | 285374 | [285374-hidamari-no-sanatorium.json](./285374-hidamari-no-sanatorium.json) |
+| Hidamari Sketch: Doko Demo Sugoroku x 365 | 70535 | [70535-hidamari-sketch-doko-demo-sugoroku-x-365.json](./70535-hidamari-sketch-doko-demo-sugoroku-x-365.json) |
 | Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
 | Hidden | 205747 | [205747-hidden.json](./205747-hidden.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
@@ -11925,6 +11927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Stunt Track Driver | 249155 | [249155-hot-wheels-stunt-track-driver.json](./249155-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Stunt Track Driver | 26688 | [26688-hot-wheels-stunt-track-driver.json](./26688-hot-wheels-stunt-track-driver.json) |
+| Hot Wheels Stunt Track Driver 2: Get 'N Dirty | 71066 | [71066-hot-wheels-stunt-track-driver-2-get-n-dirty.json](./71066-hot-wheels-stunt-track-driver-2-get-n-dirty.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed | 144072 | [144072-hot-wheels-unleashed.json](./144072-hot-wheels-unleashed.json) |
 | Hot Wheels Unleashed 2: Acceleracers Expansion pack | 275292 | [275292-hot-wheels-unleashed-2-acceleracers-expansion-pack.json](./275292-hot-wheels-unleashed-2-acceleracers-expansion-pack.json) |
