@@ -7108,6 +7108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
+| Kyoei Toshi | 36601 | [36601-kyoei-toshi.json](./36601-kyoei-toshi.json) |
 | Kyofu Hyakumonogatari | 239610 | [239610-kyofu-hyakumonogatari.json](./239610-kyofu-hyakumonogatari.json) |
 | Kyofu No Alien | 223116 | [223116-kyofu-no-alien.json](./223116-kyofu-no-alien.json) |
 | Kyofu Uchu Ika | 295973 | [295973-kyofu-uchu-ika.json](./295973-kyofu-uchu-ika.json) |
