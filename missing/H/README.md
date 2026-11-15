@@ -10723,6 +10723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeymancer | 217075 | [217075-honeymancer.json](./217075-honeymancer.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
+| Honeypot Espionage | 27049 | [27049-honeypot-espionage.json](./27049-honeypot-espionage.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | HoneyWorks Premium Live | 144101 | [144101-honeyworks-premium-live.json](./144101-honeyworks-premium-live.json) |
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
