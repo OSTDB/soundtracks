@@ -7648,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Goliath: Summertime Gnarkness | 155330 | [155330-goliath-summertime-gnarkness.json](./155330-goliath-summertime-gnarkness.json) |
 | Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
+| Golly! Ghost! | 13903 | [13903-golly-ghost.json](./13903-golly-ghost.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
 | Golques | 67411 | [67411-golques.json](./67411-golques.json) |
