@@ -21801,6 +21801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Unleashed | 67194 | [67194-dynasty-warriors-unleashed.json](./67194-dynasty-warriors-unleashed.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
+| Dynasty: Total Supremacy | 429728 | [429728-dynasty-total-supremacy.json](./429728-dynasty-total-supremacy.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | DynastyKick | 279268 | [279268-dynastykick.json](./279268-dynastykick.json) |
 | Dynatech | 93486 | [93486-dynatech.json](./93486-dynatech.json) |
