@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallantry | 145914 | [145914-gallantry.json](./145914-gallantry.json) |
 | Gallbladder +++ | 288101 | [288101-gallbladder.json](./288101-gallbladder.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
+| Galleons of Glory: The Secret Voyage of Magellan | 71094 | [71094-galleons-of-glory-the-secret-voyage-of-magellan.json](./71094-galleons-of-glory-the-secret-voyage-of-magellan.json) |
 | Galleria | 385632 | [385632-galleria.json](./385632-galleria.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
 | Gallery Collab 2024 | 373604 | [373604-gallery-collab-2024.json](./373604-gallery-collab-2024.json) |
@@ -7258,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Retriever | 421747 | [421747-golden-retriever.json](./421747-golden-retriever.json) |
 | Golden Retriever Simple Life | 376020 | [376020-golden-retriever-simple-life.json](./376020-golden-retriever-simple-life.json) |
 | Golden Road | 295853 | [295853-golden-road.json](./295853-golden-road.json) |
+| Golden Royal Blackjack | 70527 | [70527-golden-royal-blackjack.json](./70527-golden-royal-blackjack.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
 | Golden Sails | 329144 | [329144-golden-sails.json](./329144-golden-sails.json) |
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
@@ -11613,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
 | Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
+| Guilty Gear X Plus | 71103 | [71103-guilty-gear-x-plus.json](./71103-guilty-gear-x-plus.json) |
 | Guilty Gear X: Advance Edition | 49168 | [49168-guilty-gear-x-advance-edition.json](./49168-guilty-gear-x-advance-edition.json) |
 | Guilty Gear X: Ver 1.5 | 134303 | [134303-guilty-gear-x-ver-1-5.json](./134303-guilty-gear-x-ver-1-5.json) |
 | Guilty Gear X2 | 9142 | [9142-guilty-gear-x2.json](./9142-guilty-gear-x2.json) |
