@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DB2: Disco Boogie of the Dead Beats | 335499 | [335499-db2-disco-boogie-of-the-dead-beats.json](./335499-db2-disco-boogie-of-the-dead-beats.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
 | dbaza's Diabetes Education for Kids | 85731 | [85731-dbazas-diabetes-education-for-kids.json](./85731-dbazas-diabetes-education-for-kids.json) |
+| DBZ: Dead Ball Zone | 44893 | [44893-dbz-dead-ball-zone.json](./44893-dbz-dead-ball-zone.json) |
 | DBZ: O Renascimento de F | 354237 | [354237-dbz-o-renascimento-de-f.json](./354237-dbz-o-renascimento-de-f.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
