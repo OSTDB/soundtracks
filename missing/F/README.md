@@ -7039,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
 | First Days of Atlantis | 158387 | [158387-first-days-of-atlantis.json](./158387-first-days-of-atlantis.json) |
 | First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
+| First Eagles: The Great Air War 1918 | 23090 | [23090-first-eagles-the-great-air-war-1918.json](./23090-first-eagles-the-great-air-war-1918.json) |
 | First Encounters | 278762 | [278762-first-encounters.json](./278762-first-encounters.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
 | First Feudal | 75813 | [75813-first-feudal.json](./75813-first-feudal.json) |
@@ -12701,6 +12702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
 | Franchise Hockey Manager 11 | 318644 | [318644-franchise-hockey-manager-11.json](./318644-franchise-hockey-manager-11.json) |
 | Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
+| Franchise Hockey Manager 2 | 24350 | [24350-franchise-hockey-manager-2.json](./24350-franchise-hockey-manager-2.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
