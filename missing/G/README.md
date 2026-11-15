@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitou Power Modeller | 49126 | [49126-gekitou-power-modeller.json](./49126-gekitou-power-modeller.json) |
 | Gekitou Pro Yakyuu | 3929 | [3929-gekitou-pro-yakyuu.json](./3929-gekitou-pro-yakyuu.json) |
 | Gekitou Senshi Nagerunder | 59202 | [59202-gekitou-senshi-nagerunder.json](./59202-gekitou-senshi-nagerunder.json) |
+| Gekitou! Crash Gear Turbo: Gear Champion League | 37445 | [37445-gekitou-crash-gear-turbo-gear-champion-league.json](./37445-gekitou-crash-gear-turbo-gear-champion-league.json) |
 | Gekitou! Crush Gear Turbo | 222184 | [222184-gekitou-crush-gear-turbo.json](./222184-gekitou-crush-gear-turbo.json) |
 | Gekka Ryouran Romance | 212736 | [212736-gekka-ryouran-romance.json](./212736-gekka-ryouran-romance.json) |
 | Gekkeiju Online | 84306 | [84306-gekkeiju-online.json](./84306-gekkeiju-online.json) |
@@ -3522,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
 | Gensou Gold Rush | 362023 | [362023-gensou-gold-rush.json](./362023-gensou-gold-rush.json) |
+| Gensou Maden Saiyuuki Retribution: Hi no Ataru Basho De | 37444 | [37444-gensou-maden-saiyuuki-retribution-hi-no-ataru-basho-de.json](./37444-gensou-maden-saiyuuki-retribution-hi-no-ataru-basho-de.json) |
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
@@ -9087,6 +9089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Granser | 295855 | [295855-granser.json](./295855-granser.json) |
 | Gränsland | 201653 | [201653-gransland.json](./201653-gransland.json) |
+| Gransta Chronicle | 37443 | [37443-gransta-chronicle.json](./37443-gransta-chronicle.json) |
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
 | Grant Theft Mario | 315015 | [315015-grant-theft-mario.json](./315015-grant-theft-mario.json) |
 | Grant, Lee, Sherman: Civil War Generals 2 | 80789 | [80789-grant-lee-sherman-civil-war-generals-2.json](./80789-grant-lee-sherman-civil-war-generals-2.json) |
@@ -12367,6 +12370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunparade Orchestra: Shiro no Shou | 64886 | [64886-gunparade-orchestra-shiro-no-shou.json](./64886-gunparade-orchestra-shiro-no-shou.json) |
 | Gunpey | 127045 | [127045-gunpey.json](./127045-gunpey.json) |
 | Gunpey | 1350 | [1350-gunpey.json](./1350-gunpey.json) |
+| Gunpey EX | 37442 | [37442-gunpey-ex.json](./37442-gunpey-ex.json) |
 | Gunpig: Firepower For Hire | 134888 | [134888-gunpig-firepower-for-hire.json](./134888-gunpig-firepower-for-hire.json) |
 | Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
 | Gunpoint | 3242 | [3242-gunpoint.json](./3242-gunpoint.json) |
