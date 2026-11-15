@@ -4930,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refixion II: Museum or Hospital | 242740 | [242740-refixion-ii-museum-or-hospital.json](./242740-refixion-ii-museum-or-hospital.json) |
 | Refixion III: The Reindeer Story | 242741 | [242741-refixion-iii-the-reindeer-story.json](./242741-refixion-iii-the-reindeer-story.json) |
 | Reflaser | 121109 | [121109-reflaser.json](./121109-reflaser.json) |
+| Reflec Beat | 66296 | [66296-reflec-beat.json](./66296-reflec-beat.json) |
 | Reflec Beat Colette | 60820 | [60820-reflec-beat-colette.json](./60820-reflec-beat-colette.json) |
 | Reflec Beat Groovin'!! | 60819 | [60819-reflec-beat-groovin.json](./60819-reflec-beat-groovin.json) |
 | Reflec Beat Groovin'!! Upper | 395944 | [395944-reflec-beat-groovin-upper.json](./395944-reflec-beat-groovin-upper.json) |
@@ -7868,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Scarry's Busytown | 46202 | [46202-richard-scarrys-busytown.json](./46202-richard-scarrys-busytown.json) |
 | Richard Scarry’s Busytown: Best Math Ever | 313377 | [313377-richard-scarry-s-busytown-best-math-ever.json](./313377-richard-scarry-s-busytown-best-math-ever.json) |
 | Richard Scarry's How Things Work In Busytown | 64086 | [64086-richard-scarrys-how-things-work-in-busytown.json](./64086-richard-scarrys-how-things-work-in-busytown.json) |
+| Richard Scarry's Huckle and Lowly's Busiest Day Ever | 66846 | [66846-richard-scarrys-huckle-and-lowlys-busiest-day-ever.json](./66846-richard-scarrys-huckle-and-lowlys-busiest-day-ever.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | Richat Structure | 344095 | [344095-richat-structure.json](./344095-richat-structure.json) |
 | RichBroker | 217050 | [217050-richbroker.json](./217050-richbroker.json) |
@@ -12743,6 +12745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rox III | 254996 | [254996-rox-iii.json](./254996-rox-iii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
 | Roxanne The Forgotten Path | 365846 | [365846-roxanne-the-forgotten-path.json](./365846-roxanne-the-forgotten-path.json) |
+| Roxie's Reading Fish | 66857 | [66857-roxies-reading-fish.json](./66857-roxies-reading-fish.json) |
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
 | Roxy Raccoon 2: Topsy-Turvy | 224811 | [224811-roxy-raccoon-2-topsy-turvy.json](./224811-roxy-raccoon-2-topsy-turvy.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
@@ -13571,6 +13574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
+| Run and Gun | 66858 | [66858-run-and-gun.json](./66858-run-and-gun.json) |
 | Run and Gun 2: Opossum City | 345401 | [345401-run-and-gun-2-opossum-city.json](./345401-run-and-gun-2-opossum-city.json) |
 | Run and Hide | 274922 | [274922-run-and-hide.json](./274922-run-and-hide.json) |
 | Run and Hunt: Skeleton Rebellion | 298642 | [298642-run-and-hunt-skeleton-rebellion.json](./298642-run-and-hunt-skeleton-rebellion.json) |
