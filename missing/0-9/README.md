@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Player games : the Challenge | 208905 | [208905-2-player-games-the-challenge.json](./208905-2-player-games-the-challenge.json) |
 | 2 Player Soccer Squad | 12355 | [12355-2-player-soccer-squad.json](./12355-2-player-soccer-squad.json) |
+| 2 Player Super League | 13263 | [13263-2-player-super-league.json](./13263-2-player-super-league.json) |
 | 2 Seconds | 183806 | [183806-2-seconds.json](./183806-2-seconds.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Shot Diary 2: Memory 4/4 | 327684 | [327684-2-shot-diary-2-memory-4-4.json](./327684-2-shot-diary-2-memory-4-4.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2076: Midway Multiverse | 169529 | [169529-2076-midway-multiverse.json](./169529-2076-midway-multiverse.json) |
 | 2080 Apocalypse | 197565 | [197565-2080-apocalypse.json](./197565-2080-apocalypse.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
+| 2088 | 13264 | [13264-2088.json](./13264-2088.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
 | 2089: Space Divided | 159112 | [159112-2089-space-divided.json](./159112-2089-space-divided.json) |
@@ -2064,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21: Two One | 394433 | [394433-21-two-one.json](./394433-21-two-one.json) |
 | 21+ | 107952 | [107952-21.json](./107952-21.json) |
 | 2100 | 114446 | [114446-2100.json](./114446-2100.json) |
+| 2112 AD | 13265 | [13265-2112-ad.json](./13265-2112-ad.json) |
 | 2112: A Field Trip | 71870 | [71870-2112-a-field-trip.json](./71870-2112-a-field-trip.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2115 | 327891 | [327891-2115.json](./327891-2115.json) |
@@ -2372,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Hunting 2010 | 27442 | [27442-3-d-hunting-2010.json](./27442-3-d-hunting-2010.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
+| 3-D Monster Chase | 13267 | [13267-3-d-monster-chase.json](./13267-3-d-monster-chase.json) |
 | 3-D Pinball | 255435 | [255435-3-d-pinball.json](./255435-3-d-pinball.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tetris | 84680 | [84680-3-d-tetris.json](./84680-3-d-tetris.json) |
@@ -2389,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Ultra Radio Control Racers | 9116 | [9116-3-d-ultra-radio-control-racers.json](./9116-3-d-ultra-radio-control-racers.json) |
 | 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition | 205953 | [205953-3-d-ultra-radio-control-racers-deluxe-traxxas-edition.json](./205953-3-d-ultra-radio-control-racers-deluxe-traxxas-edition.json) |
 | 3-D Vector Pong | 78746 | [78746-3-d-vector-pong.json](./78746-3-d-vector-pong.json) |
+| 3-D Voice Chess | 13274 | [13274-3-d-voice-chess.json](./13274-3-d-voice-chess.json) |
 | 3-D WorldRunner | 48030 | [48030-3-d-worldrunner.json](./48030-3-d-worldrunner.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-Demon | 14470 | [14470-3-demon.json](./14470-3-demon.json) |
@@ -2655,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
+| 3D Fight | 13266 | [13266-3d-fight.json](./13266-3d-fight.json) |
 | 3D Football | 217639 | [217639-3d-football.json](./217639-3d-football.json) |
 | 3D Football | 243754 | [243754-3d-football.json](./243754-3d-football.json) |
 | 3D Frog Feast | 101200 | [101200-3d-frog-feast.json](./101200-3d-frog-feast.json) |
@@ -2670,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ghost Attack! | 40666 | [40666-3d-ghost-attack.json](./40666-3d-ghost-attack.json) |
 | 3D Golden Warrior | 77216 | [77216-3d-golden-warrior.json](./77216-3d-golden-warrior.json) |
 | 3D Golf | 83365 | [83365-3d-golf.json](./83365-3d-golf.json) |
+| 3D Grand Prix | 13276 | [13276-3d-grand-prix.json](./13276-3d-grand-prix.json) |
 | 3D Grand Prix | 152608 | [152608-3d-grand-prix.json](./152608-3d-grand-prix.json) |
 | 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
@@ -2695,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Illusion Maze Path Puzzle | 100621 | [100621-3d-illusion-maze-path-puzzle.json](./100621-3d-illusion-maze-path-puzzle.json) |
 | 3D Infinity | 108136 | [108136-3d-infinity.json](./108136-3d-infinity.json) |
 | 3D Interceptor | 57942 | [57942-3d-interceptor.json](./57942-3d-interceptor.json) |
+| 3D Invaders | 13277 | [13277-3d-invaders.json](./13277-3d-invaders.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Kimodameshi: Norowareta Haioku | 358595 | [358595-3d-kimodameshi-norowareta-haioku.json](./358595-3d-kimodameshi-norowareta-haioku.json) |
@@ -2830,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Skills Start Here | 293101 | [293101-3d-skills-start-here.json](./293101-3d-skills-start-here.json) |
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
+| 3D Snooker | 13269 | [13269-3d-snooker.json](./13269-3d-snooker.json) |
 | 3D Snowboard Resort Designer | 205950 | [205950-3d-snowboard-resort-designer.json](./205950-3d-snowboard-resort-designer.json) |
 | 3D Soccer | 281223 | [281223-3d-soccer.json](./281223-3d-soccer.json) |
 | 3D Solitaire | 64597 | [64597-3d-solitaire.json](./64597-3d-solitaire.json) |
@@ -2843,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Space Wars | 28475 | [28475-3d-space-wars.json](./28475-3d-space-wars.json) |
 | 3D Spades Deluxe | 205952 | [205952-3d-spades-deluxe.json](./205952-3d-spades-deluxe.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
+| 3D Starfighter | 13270 | [13270-3d-starfighter.json](./13270-3d-starfighter.json) |
 | 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
 | 3D Starstrike II | 45341 | [45341-3d-starstrike-ii.json](./45341-3d-starstrike-ii.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
@@ -2850,6 +2860,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Stock Cars II | 365794 | [365794-3d-stock-cars-ii.json](./365794-3d-stock-cars-ii.json) |
 | 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
 | 3D Streets of Rage 2 | 84677 | [84677-3d-streets-of-rage-2.json](./84677-3d-streets-of-rage-2.json) |
+| 3D Stunt Rider | 13272 | [13272-3d-stunt-rider.json](./13272-3d-stunt-rider.json) |
+| 3D Sub | 13273 | [13273-3d-sub.json](./13273-3d-sub.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Super Hang-On | 84679 | [84679-3d-super-hang-on.json](./84679-3d-super-hang-on.json) |
 | 3D Survivors | 263824 | [263824-3d-survivors.json](./263824-3d-survivors.json) |
@@ -2887,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
 | 3D Workers Island | 321462 | [321462-3d-workers-island.json](./321462-3d-workers-island.json) |
 | 3D World Boxing | 11874 | [11874-3d-world-boxing.json](./11874-3d-world-boxing.json) |
+| 3D World Soccer | 12496 | [12496-3d-world-soccer.json](./12496-3d-world-soccer.json) |
 | 3D World Tennis | 11875 | [11875-3d-world-tennis.json](./11875-3d-world-tennis.json) |
 | 3D-Dungeon | 409220 | [409220-3d-dungeon.json](./409220-3d-dungeon.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
@@ -2894,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
 | 3Dash Ultra | 412318 | [412318-3dash-ultra.json](./412318-3dash-ultra.json) |
+| 3DC | 13275 | [13275-3dc.json](./13275-3dc.json) |
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DEins | 379147 | [379147-3deins.json](./379147-3deins.json) |
 | 3DO Action Pak | 37196 | [37196-3do-action-pak.json](./37196-3do-action-pak.json) |
@@ -3626,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 747 Landing Simulator | 90903 | [90903-747-landing-simulator.json](./90903-747-landing-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
+| 750cc Grand Prix | 13279 | [13279-750cc-grand-prix.json](./13279-750cc-grand-prix.json) |
 | 7554: Glorious Memories Revived | 6288 | [6288-7554-glorious-memories-revived.json](./6288-7554-glorious-memories-revived.json) |
 | 757 Captain | 68097 | [68097-757-captain.json](./68097-757-captain.json) |
 | 757 Professional | 79568 | [79568-757-professional.json](./79568-757-professional.json) |
