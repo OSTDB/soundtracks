@@ -13723,6 +13723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominant Amber | 245671 | [245671-dominant-amber.json](./245671-dominant-amber.json) |
 | Dominant Color | 230689 | [230689-dominant-color.json](./230689-dominant-color.json) |
 | Dominant Mind | 148166 | [148166-dominant-mind.json](./148166-dominant-mind.json) |
+| Dominant Species | 1857 | [1857-dominant-species.json](./1857-dominant-species.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
 | Dominant Witches | 264717 | [264717-dominant-witches.json](./264717-dominant-witches.json) |
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
