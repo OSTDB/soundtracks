@@ -8932,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expert Pool | 93253 | [93253-expert-pool.json](./93253-expert-pool.json) |
 | Expert Puzzles & Mazes | 285257 | [285257-expert-puzzles-and-mazes.json](./285257-expert-puzzles-and-mazes.json) |
+| Expert Rifleman - Reloaded | 34958 | [34958-expert-rifleman-reloaded.json](./34958-expert-rifleman-reloaded.json) |
 | Expert's Las Vegas Casino and Devil's Island Pinball | 206890 | [206890-experts-las-vegas-casino-and-devils-island-pinball.json](./206890-experts-las-vegas-casino-and-devils-island-pinball.json) |
 | Expest | 265611 | [265611-expest.json](./265611-expest.json) |
 | Exphelius: Arena | 126847 | [126847-exphelius-arena.json](./126847-exphelius-arena.json) |
