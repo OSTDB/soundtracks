@@ -7902,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfpack | 56696 | [56696-wolfpack.json](./56696-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | WolfQuest | 33838 | [33838-wolfquest.json](./33838-wolfquest.json) |
+| WolfQuest: Anniversary Edition | 119976 | [119976-wolfquest-anniversary-edition.json](./119976-wolfquest-anniversary-edition.json) |
 | WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
 | WolfQuest: Anniversary Edition - Lost River | 235602 | [235602-wolfquest-anniversary-edition-lost-river.json](./235602-wolfquest-anniversary-edition-lost-river.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
