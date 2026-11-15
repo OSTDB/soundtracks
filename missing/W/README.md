@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ways | 287594 | [287594-ways.json](./287594-ways.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Ways of Alchemy | 333069 | [333069-ways-of-alchemy.json](./333069-ways-of-alchemy.json) |
+| Ways of History | 28329 | [28329-ways-of-history.json](./28329-ways-of-history.json) |
 | Ways Unknown | 408278 | [408278-ways-unknown.json](./408278-ways-unknown.json) |
 | Ways&Ball | 116244 | [116244-ways-and-ball.json](./116244-ways-and-ball.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
