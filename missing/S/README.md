@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
 | Sakurairo Prism: Beyond the Bloom | 419611 | [419611-sakurairo-prism-beyond-the-bloom.json](./419611-sakurairo-prism-beyond-the-bloom.json) |
 | Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
+| Sakusaku Daigoutou Returns | 66313 | [66313-sakusaku-daigoutou-returns.json](./66313-sakusaku-daigoutou-returns.json) |
 | Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
 | Sakuya Izayoi Gives You Advice and Dabs: Nitori Kawashiro Offers You Advice in Exchange for Cucumbers and Eats the Cucumbers | 150236 | [150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json](./150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json) |
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
 | Schwarzschild EX: Tessa no Seigun | 79440 | [79440-schwarzschild-ex-tessa-no-seigun.json](./79440-schwarzschild-ex-tessa-no-seigun.json) |
 | Schwarzschild GX: Sabita Sousei | 91645 | [91645-schwarzschild-gx-sabita-sousei.json](./91645-schwarzschild-gx-sabita-sousei.json) |
+| Schwarzschild GXR: Toki Gen no Ken Nin | 66273 | [66273-schwarzschild-gxr-toki-gen-no-ken-nin.json](./66273-schwarzschild-gxr-toki-gen-no-ken-nin.json) |
 | Schwarzschild II: Teikoku no Haishin | 123109 | [123109-schwarzschild-ii-teikoku-no-haishin.json](./123109-schwarzschild-ii-teikoku-no-haishin.json) |
 | Schwarzschild V: Shinnou Tanjou | 124331 | [124331-schwarzschild-v-shinnou-tanjou.json](./124331-schwarzschild-v-shinnou-tanjou.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
@@ -4647,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seagazer | 417937 | [417937-seagazer.json](./417937-seagazer.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
+| Seaglass | 66312 | [66312-seaglass.json](./66312-seaglass.json) |
 | Seagull Kart Racing | 258240 | [258240-seagull-kart-racing.json](./258240-seagull-kart-racing.json) |
 | Seagull Sauté | 427852 | [427852-seagull-saute.json](./427852-seagull-saute.json) |
 | Seagull Wars | 286165 | [286165-seagull-wars.json](./286165-seagull-wars.json) |
@@ -6061,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Mahjong | 43202 | [43202-sengoku-mahjong.json](./43202-sengoku-mahjong.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
 | Sengoku Musou 2 with Moushouden & Empires HD Version | 130012 | [130012-sengoku-musou-2-with-moushouden-and-empires-hd-version.json](./130012-sengoku-musou-2-with-moushouden-and-empires-hd-version.json) |
+| Sengoku Musou 3: Moushouden | 66279 | [66279-sengoku-musou-3-moushouden.json](./66279-sengoku-musou-3-moushouden.json) |
 | Sengoku Musou 4-II: Treasure Box | 167021 | [167021-sengoku-musou-4-ii-treasure-box.json](./167021-sengoku-musou-4-ii-treasure-box.json) |
 | Sengoku Musou Shoot | 61497 | [61497-sengoku-musou-shoot.json](./61497-sengoku-musou-shoot.json) |
 | Sengoku Neet | 127477 | [127477-sengoku-neet.json](./127477-sengoku-neet.json) |
@@ -11506,6 +11510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signals | 169495 | [169495-signals.json](./169495-signals.json) |
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
 | SignaNota | 341991 | [341991-signanota.json](./341991-signanota.json) |
+| Signatory: Chouinsha | 66285 | [66285-signatory-chouinsha.json](./66285-signatory-chouinsha.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed and Sealed With a Kiss | 115129 | [115129-signed-and-sealed-with-a-kiss.json](./115129-signed-and-sealed-with-a-kiss.json) |
 | Signed and Sealed With a Kiss: Expansion Pack | 168521 | [168521-signed-and-sealed-with-a-kiss-expansion-pack.json](./168521-signed-and-sealed-with-a-kiss-expansion-pack.json) |
@@ -12244,6 +12249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
 | Simple 2000 Series Ultimate Vol. 27: Houkago no Love Beat | 56957 | [56957-simple-2000-series-ultimate-vol-27-houkago-no-love-beat.json](./56957-simple-2000-series-ultimate-vol-27-houkago-no-love-beat.json) |
 | Simple 2000 Series Ultimate Vol. 29: K-1 Premium 2005 Dynamite!! | 67046 | [67046-simple-2000-series-ultimate-vol-29-k-1-premium-2005-dynamite.json](./67046-simple-2000-series-ultimate-vol-29-k-1-premium-2005-dynamite.json) |
+| Simple 2000 Series Ultimate Vol. 31: K-1 World Max 2005 - Sekai Ouja he no Michi | 66877 | [66877-simple-2000-series-ultimate-vol-31-k-1-world-max-2005-sekai-ouja-he-no-michi.json](./66877-simple-2000-series-ultimate-vol-31-k-1-world-max-2005-sekai-ouja-he-no-michi.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
 | Simple 2000 Series Ultimate Vol.19: Akagi - Yami ni Furitatta Tensai | 56958 | [56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json](./56958-simple-2000-series-ultimate-vol-19-akagi-yami-ni-furitatta-tensai.json) |
@@ -15876,6 +15882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmallWorlds | 189287 | [189287-smallworlds.json](./189287-smallworlds.json) |
 | SmallZ | 231124 | [231124-smallz.json](./231124-smallz.json) |
 | Smapic | 286915 | [286915-smapic.json](./286915-smapic.json) |
+| Smart Alex and Smart Alice: Curious Kids | 66852 | [66852-smart-alex-and-smart-alice-curious-kids.json](./66852-smart-alex-and-smart-alice-curious-kids.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Baby ABC Games: Toddler Kids Learning Apps | 87032 | [87032-smart-baby-abc-games-toddler-kids-learning-apps.json](./87032-smart-baby-abc-games-toddler-kids-learning-apps.json) |
 | Smart Baby Rattle | 89123 | [89123-smart-baby-rattle.json](./89123-smart-baby-rattle.json) |
