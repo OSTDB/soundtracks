@@ -3506,13 +3506,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame: Mask of the Lunar Eclipse - Digital Deluxe Edition | 237757 | [237757-fatal-frame-mask-of-the-lunar-eclipse-digital-deluxe-edition.json](./237757-fatal-frame-mask-of-the-lunar-eclipse-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fumes | 72273 | [72273-fatal-fumes.json](./72273-fatal-fumes.json) |
+| Fatal Fury | 426375 | [426375-fatal-fury.json](./426375-fatal-fury.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
+| Fatal Fury 2 | 426380 | [426380-fatal-fury-2.json](./426380-fatal-fury-2.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
 | Fatal Fury 3: Road to the Final Victory | 6690 | [6690-fatal-fury-3-road-to-the-final-victory.json](./6690-fatal-fury-3-road-to-the-final-victory.json) |
 | Fatal Fury City of the Wolves: Fatal Fury 2 Terry costume | 341714 | [341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json](./341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json) |
 | Fatal Fury First Contact | 44004 | [44004-fatal-fury-first-contact.json](./44004-fatal-fury-first-contact.json) |
 | Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
 | Fatal Fury One | 400426 | [400426-fatal-fury-one.json](./400426-fatal-fury-one.json) |
+| Fatal Fury Special | 426390 | [426390-fatal-fury-special.json](./426390-fatal-fury-special.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: Battle Archives Volume 1 | 21232 | [21232-fatal-fury-battle-archives-volume-1.json](./21232-fatal-fury-battle-archives-volume-1.json) |
 | Fatal Fury: City of the Wolves - Andy Bogard | 349908 | [349908-fatal-fury-city-of-the-wolves-andy-bogard.json](./349908-fatal-fury-city-of-the-wolves-andy-bogard.json) |
