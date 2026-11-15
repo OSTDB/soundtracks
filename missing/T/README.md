@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
 | Tankout | 29432 | [29432-tankout.json](./29432-tankout.json) |
 | TankPit | 77557 | [77557-tankpit.json](./77557-tankpit.json) |
+| Tankr | 33532 | [33532-tankr.json](./33532-tankr.json) |
 | Tankr.io Realtime Battle | 107548 | [107548-tankr-io-realtime-battle.json](./107548-tankr-io-realtime-battle.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
@@ -2564,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Glee | 64779 | [64779-tap-tap-glee.json](./64779-tap-tap-glee.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
 | Tap Tap Infinity | 34996 | [34996-tap-tap-infinity.json](./34996-tap-tap-infinity.json) |
+| Tap Tap Legions | 33576 | [33576-tap-tap-legions.json](./33576-tap-tap-legions.json) |
 | Tap Tap Loot | 386351 | [386351-tap-tap-loot.json](./386351-tap-tap-loot.json) |
 | Tap Tap Movie | 74829 | [74829-tap-tap-movie.json](./74829-tap-tap-movie.json) |
 | Tap Tap Muppets | 64781 | [64781-tap-tap-muppets.json](./64781-tap-tap-muppets.json) |
@@ -5062,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | Terrarium | 360876 | [360876-terrarium.json](./360876-terrarium.json) |
 | Terrarium Builder | 235032 | [235032-terrarium-builder.json](./235032-terrarium-builder.json) |
+| Terrarium Land | 33597 | [33597-terrarium-land.json](./33597-terrarium-land.json) |
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | Terrarium/Aquarium | 182685 | [182685-terrarium-aquarium.json](./182685-terrarium-aquarium.json) |
@@ -5700,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
 | TGsEE | 273071 | [273071-tgsee.json](./273071-tgsee.json) |
+| TGV Voyages Train Simulator | 33523 | [33523-tgv-voyages-train-simulator.json](./33523-tgv-voyages-train-simulator.json) |
 | TH Strikes Back | 40481 | [40481-th-strikes-back.json](./40481-th-strikes-back.json) |
 | Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
@@ -9327,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ditty of Carmeana | 58592 | [58592-the-ditty-of-carmeana.json](./58592-the-ditty-of-carmeana.json) |
 | The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
+| The Divergent Series: Allegiant VR | 33368 | [33368-the-divergent-series-allegiant-vr.json](./33368-the-divergent-series-allegiant-vr.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
 | The Divide: Enemies Within | 8940 | [8940-the-divide-enemies-within.json](./8940-the-divide-enemies-within.json) |
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
@@ -22879,6 +22884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Quest Deluxe | 122298 | [122298-throne-quest-deluxe.json](./122298-throne-quest-deluxe.json) |
 | Throne Requiem | 400655 | [400655-throne-requiem.json](./400655-throne-requiem.json) |
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
+| Throne Rushers | 32321 | [32321-throne-rushers.json](./32321-throne-rushers.json) |
 | Throne Together | 106265 | [106265-throne-together.json](./106265-throne-together.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
@@ -34239,6 +34245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial by Magic | 2502 | [2502-trial-by-magic.json](./2502-trial-by-magic.json) |
 | Trial By Magic | 376809 | [376809-trial-by-magic.json](./376809-trial-by-magic.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
+| Trial by Viking | 33579 | [33579-trial-by-viking.json](./33579-trial-by-viking.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Destiny | 123704 | [123704-trial-of-destiny.json](./123704-trial-of-destiny.json) |
 | Trial of Dragon | 232245 | [232245-trial-of-dragon.json](./232245-trial-of-dragon.json) |
