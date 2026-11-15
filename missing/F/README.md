@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Outdoor Fun | 50999 | [50999-family-party-30-great-games-outdoor-fun.json](./50999-family-party-30-great-games-outdoor-fun.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
+| Family Party: Fitness Fun | 24360 | [24360-family-party-fitness-fun.json](./24360-family-party-fitness-fun.json) |
 | Family Pet Dog Games | 296744 | [296744-family-pet-dog-games.json](./296744-family-pet-dog-games.json) |
 | Family Picross! | 142069 | [142069-family-picross.json](./142069-family-picross.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
@@ -11818,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress of Narzod | 23343 | [23343-fortress-of-narzod.json](./23343-fortress-of-narzod.json) |
 | Fortress of the Arcane Conduit | 282617 | [282617-fortress-of-the-arcane-conduit.json](./282617-fortress-of-the-arcane-conduit.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
+| Fortress of the Witch King | 24393 | [24393-fortress-of-the-witch-king.json](./24393-fortress-of-the-witch-king.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
 | Fortress S | 247491 | [247491-fortress-s.json](./247491-fortress-s.json) |
 | Fortress Saga | 259634 | [259634-fortress-saga.json](./259634-fortress-saga.json) |
