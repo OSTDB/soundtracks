@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T02:36:00.092Z",
-  "total_soundtracks": 3383,
+  "generated_at": "2026-11-15T02:46:07.993Z",
+  "total_soundtracks": 3385,
   "games": [
     {
       "igdb_id": 292844,
@@ -10263,6 +10263,20 @@
         {
           "album_name": "DOOMBLADE (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Kz4y4nm5IqrtXdup2Vjnv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117012,
+      "game_name": "Doomsday Vault",
+      "game_url": "https://ostdb.net/games/doomsday-vault",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273841cabc17d40b37d4bb44b66",
+      "albums": [
+        {
+          "album_name": "Doomsday Vault (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2gKB1QSjeRFdrSnWTEEIID",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28113,6 +28127,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/ready-or-not-original-soundtrack/1755413766?uo=4",
           "album_link_url": "https://album.link/i/1755413766"
+        }
+      ]
+    },
+    {
+      "igdb_id": 116586,
+      "game_name": "ReadySet Heroes",
+      "game_url": "https://ostdb.net/games/readyset-heroes",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273565ff7f39368f3831bf6b643",
+      "albums": [
+        {
+          "album_name": "ReadySet Heroes (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4wqD893WHrDvFmuZCHmclM",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
