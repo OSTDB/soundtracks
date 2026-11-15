@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Dee | 368960 | [368960-kill-dee.json](./368960-kill-dee.json) |
 | Kill Demons | 150951 | [150951-kill-demons.json](./150951-kill-demons.json) |
+| Kill Down | 426972 | [426972-kill-down.json](./426972-kill-down.json) |
 | Kill Fish | 142189 | [142189-kill-fish.json](./142189-kill-fish.json) |
 | Kill Fun Yeah | 11173 | [11173-kill-fun-yeah.json](./11173-kill-fun-yeah.json) |
 | Kill H1N1 | 394208 | [394208-kill-h1n1.json](./394208-kill-h1n1.json) |
