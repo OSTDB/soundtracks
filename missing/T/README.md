@@ -14222,6 +14222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Gerudo Exile | 259211 | [259211-the-legend-of-zelda-gerudo-exile.json](./259211-the-legend-of-zelda-gerudo-exile.json) |
+| The Legend of Zelda: Gifts of Kinomi | 429737 | [429737-the-legend-of-zelda-gifts-of-kinomi.json](./429737-the-legend-of-zelda-gifts-of-kinomi.json) |
 | The Legend of Zelda: Goddess of Wisdom | 218077 | [218077-the-legend-of-zelda-goddess-of-wisdom.json](./218077-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Guardians of Hyrule | 324003 | [324003-the-legend-of-zelda-guardians-of-hyrule.json](./324003-the-legend-of-zelda-guardians-of-hyrule.json) |
@@ -14316,6 +14317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition | 338073 | [338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json](./338073-the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Tears of the Kingdom Online | 357440 | [357440-the-legend-of-zelda-tears-of-the-kingdom-online.json](./357440-the-legend-of-zelda-tears-of-the-kingdom-online.json) |
 | The Legend of Zelda: Tears of the Kingdom Randomizer | 256282 | [256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json](./256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json) |
+| The Legend of Zelda: Temple of Seasons | 429736 | [429736-the-legend-of-zelda-temple-of-seasons.json](./429736-the-legend-of-zelda-temple-of-seasons.json) |
 | The Legend of Zelda: The Hunter's Song | 327776 | [327776-the-legend-of-zelda-the-hunters-song.json](./327776-the-legend-of-zelda-the-hunters-song.json) |
 | The Legend of Zelda: The Hylian Frontier | 324002 | [324002-the-legend-of-zelda-the-hylian-frontier.json](./324002-the-legend-of-zelda-the-hylian-frontier.json) |
 | The Legend of Zelda: The Hylian Phoenix | 324012 | [324012-the-legend-of-zelda-the-hylian-phoenix.json](./324012-the-legend-of-zelda-the-hylian-phoenix.json) |
@@ -15955,6 +15957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
 | The Next Tetris | 51179 | [51179-the-next-tetris.json](./51179-the-next-tetris.json) |
 | The Next Tetris On-Line Edition | 45789 | [45789-the-next-tetris-on-line-edition.json](./45789-the-next-tetris-on-line-edition.json) |
+| The Next World | 18214 | [18214-the-next-world.json](./18214-the-next-world.json) |
 | The Next World | 344422 | [344422-the-next-world.json](./344422-the-next-world.json) |
 | The Next World: Planetary Exploration | 163251 | [163251-the-next-world-planetary-exploration.json](./163251-the-next-world-planetary-exploration.json) |
 | The Next World: Rocketship DLC | 163250 | [163250-the-next-world-rocketship-dlc.json](./163250-the-next-world-rocketship-dlc.json) |
@@ -16118,6 +16121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oakflat PWR Nuclear Power Plant Simulator | 60677 | [60677-the-oakflat-pwr-nuclear-power-plant-simulator.json](./60677-the-oakflat-pwr-nuclear-power-plant-simulator.json) |
 | The Oath | 12705 | [12705-the-oath.json](./12705-the-oath.json) |
 | The Oath of the Dark Magic Queen | 181120 | [181120-the-oath-of-the-dark-magic-queen.json](./181120-the-oath-of-the-dark-magic-queen.json) |
+| The Oath Under the Stars | 429748 | [429748-the-oath-under-the-stars.json](./429748-the-oath-under-the-stars.json) |
 | The Oathkeeper | 189344 | [189344-the-oathkeeper.json](./189344-the-oathkeeper.json) |
 | The Obedience Experiment | 406893 | [406893-the-obedience-experiment.json](./406893-the-obedience-experiment.json) |
 | The Object | 316182 | [316182-the-object.json](./316182-the-object.json) |
@@ -22810,6 +22814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms Heroes | 382485 | [382485-three-kingdoms-heroes.json](./382485-three-kingdoms-heroes.json) |
+| Three Kingdoms Heroes of the World | 429719 | [429719-three-kingdoms-heroes-of-the-world.json](./429719-three-kingdoms-heroes-of-the-world.json) |
 | Three Kingdoms Mushouden | 333827 | [333827-three-kingdoms-mushouden.json](./333827-three-kingdoms-mushouden.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
 | Three Kingdoms Simulator | 168478 | [168478-three-kingdoms-simulator.json](./168478-three-kingdoms-simulator.json) |
