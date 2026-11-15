@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Salão Encantado | 216274 | [216274-o-salao-encantado.json](./216274-o-salao-encantado.json) |
 | O Sítio do Picapau Amarelo: As Reinações de Narizinho | 286924 | [286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json](./286924-o-sitio-do-picapau-amarelo-as-reinacoes-de-narizinho.json) |
 | O Sombrio: A Voz das Almas | 278832 | [278832-o-sombrio-a-voz-das-almas.json](./278832-o-sombrio-a-voz-das-almas.json) |
+| O suposto jogo da Ismeiow | 424543 | [424543-o-suposto-jogo-da-ismeiow.json](./424543-o-suposto-jogo-da-ismeiow.json) |
 | O to Z | 301551 | [301551-o-to-z.json](./301551-o-to-z.json) |
 | O Tutt'i Cavi Lesi | 267167 | [267167-o-tutti-cavi-lesi.json](./267167-o-tutti-cavi-lesi.json) |
 | O Vagabundo | 290018 | [290018-o-vagabundo.json](./290018-o-vagabundo.json) |
@@ -2046,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OmniGrav | 155937 | [155937-omnigrav.json](./155937-omnigrav.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
 | Omnimancer | 307830 | [307830-omnimancer.json](./307830-omnimancer.json) |
+| OmniMart Tycoon | 424577 | [424577-omnimart-tycoon.json](./424577-omnimart-tycoon.json) |
 | Omnimus | 122166 | [122166-omnimus.json](./122166-omnimus.json) |
 | Omnipresence | 245938 | [245938-omnipresence.json](./245938-omnipresence.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
@@ -5341,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Casual Battlefield | 231136 | [231136-our-casual-battlefield.json](./231136-our-casual-battlefield.json) |
 | Our Children - Escaping Earth | 115511 | [115511-our-children-escaping-earth.json](./115511-our-children-escaping-earth.json) |
 | Our Choices | 381291 | [381291-our-choices.json](./381291-our-choices.json) |
+| Our Church and Halloween RPG | 424566 | [424566-our-church-and-halloween-rpg.json](./424566-our-church-and-halloween-rpg.json) |
 | Our Church and Halloween RPG: Story Five - James Version | 214940 | [214940-our-church-and-halloween-rpg-story-five-james-version.json](./214940-our-church-and-halloween-rpg-story-five-james-version.json) |
 | Our Church and Halloween RPG: Story Five - Scott Version | 214939 | [214939-our-church-and-halloween-rpg-story-five-scott-version.json](./214939-our-church-and-halloween-rpg-story-five-scott-version.json) |
 | Our Church and Halloween: Story Four | 147944 | [147944-our-church-and-halloween-story-four.json](./147944-our-church-and-halloween-story-four.json) |
