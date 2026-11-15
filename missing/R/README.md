@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
 | Randall the Grape Jelly Cube Goes to Soda Valley for Some Reason | 384556 | [384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json](./384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
+| Randar II: Revenge of Death | 47520 | [47520-randar-ii-revenge-of-death.json](./47520-randar-ii-revenge-of-death.json) |
 | Randar no Bouken | 73087 | [73087-randar-no-bouken.json](./73087-randar-no-bouken.json) |
 | Randar no Bouken III: Yami ni Miserareta Majutsushi | 73382 | [73382-randar-no-bouken-iii-yami-ni-miserareta-majutsushi.json](./73382-randar-no-bouken-iii-yami-ni-miserareta-majutsushi.json) |
 | Randel's Quest | 378478 | [378478-randels-quest.json](./378478-randels-quest.json) |
@@ -4079,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Lodoss War Online | 59108 | [59108-record-of-lodoss-war-online.json](./59108-record-of-lodoss-war-online.json) |
 | Record of Lodoss War: Deedlit in Wonder Labyrinth | 96394 | [96394-record-of-lodoss-war-deedlit-in-wonder-labyrinth.json](./96394-record-of-lodoss-war-deedlit-in-wonder-labyrinth.json) |
 | Record of Lodoss War: Eiyuu Sensou | 45867 | [45867-record-of-lodoss-war-eiyuu-sensou.json](./45867-record-of-lodoss-war-eiyuu-sensou.json) |
+| Record of Lodoss War: Haiiro no Majo | 47496 | [47496-record-of-lodoss-war-haiiro-no-majo.json](./47496-record-of-lodoss-war-haiiro-no-majo.json) |
 | Record Rewind Repeat | 348903 | [348903-record-rewind-repeat.json](./348903-record-rewind-repeat.json) |
 | Record Run | 61703 | [61703-record-run.json](./61703-record-run.json) |
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
