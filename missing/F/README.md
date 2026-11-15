@@ -6685,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Man: Incoming Storm | 210482 | [210482-fire-man-incoming-storm.json](./210482-fire-man-incoming-storm.json) |
 | Fire Me, I Insist | 356373 | [356373-fire-me-i-insist.json](./356373-fire-me-i-insist.json) |
 | Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
+| Fire Mustang | 4413 | [4413-fire-mustang.json](./4413-fire-mustang.json) |
 | Fire on Fight: Online Multiplayer Shooter | 193006 | [193006-fire-on-fight-online-multiplayer-shooter.json](./193006-fire-on-fight-online-multiplayer-shooter.json) |
 | Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
@@ -8896,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip: Surfing Colors | 95098 | [95098-flip-surfing-colors.json](./95098-flip-surfing-colors.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
+| Flip's Twisted World | 4857 | [4857-flips-twisted-world.json](./4857-flips-twisted-world.json) |
 | Flip＊Flop: Innocence Overclock | 397244 | [397244-flip-flop-innocence-overclock.json](./397244-flip-flop-innocence-overclock.json) |
 | Flip＊Flop: Rambling Overrun | 397245 | [397245-flip-flop-rambling-overrun.json](./397245-flip-flop-rambling-overrun.json) |
 | Flip2Green | 268825 | [268825-flip2green.json](./268825-flip2green.json) |
@@ -13636,6 +13638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 6 | 281655 | [281655-fritz-6.json](./281655-fritz-6.json) |
 | Fritz 8 | 93016 | [93016-fritz-8.json](./93016-fritz-8.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
+| Fritz Chess | 4874 | [4874-fritz-chess.json](./4874-fritz-chess.json) |
 | Fritz Chess 10 | 25429 | [25429-fritz-chess-10.json](./25429-fritz-chess-10.json) |
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
