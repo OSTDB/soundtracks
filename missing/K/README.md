@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kako Yatai | 283807 | [283807-kako-yatai.json](./283807-kako-yatai.json) |
 | Kakoi | 334071 | [334071-kakoi.json](./334071-kakoi.json) |
+| Kakoong | 50079 | [50079-kakoong.json](./50079-kakoong.json) |
 | Kakos | 307877 | [307877-kakos.json](./307877-kakos.json) |
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
@@ -2393,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off 3: European Challenge | 45708 | [45708-kick-off-3-european-challenge.json](./45708-kick-off-3-european-challenge.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
 | Kick Off 97 | 94954 | [94954-kick-off-97.json](./94954-kick-off-97.json) |
+| Kick Off 98 | 50074 | [50074-kick-off-98.json](./50074-kick-off-98.json) |
 | Kick Off World | 71879 | [71879-kick-off-world.json](./71879-kick-off-world.json) |
 | Kick Off: Extra Time | 74883 | [74883-kick-off-extra-time.json](./74883-kick-off-extra-time.json) |
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
