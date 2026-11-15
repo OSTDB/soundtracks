@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
 | F.E.A.R. Extraction Point | 518 | [518-f-e-a-r-extraction-point.json](./518-f-e-a-r-extraction-point.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
+| F.E.A.R. First Encounter Assault Recon | 54014 | [54014-f-e-a-r-first-encounter-assault-recon.json](./54014-f-e-a-r-first-encounter-assault-recon.json) |
 | F.E.A.R. Online | 7831 | [7831-f-e-a-r-online.json](./7831-f-e-a-r-online.json) |
 | F.E.A.R. Perseus Mandate | 519 | [519-f-e-a-r-perseus-mandate.json](./519-f-e-a-r-perseus-mandate.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2015 | 9272 | [9272-f1-2015.json](./9272-f1-2015.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2017 | 28951 | [28951-f1-2017.json](./28951-f1-2017.json) |
+| F1 2017: Special Edition | 54016 | [54016-f1-2017-special-edition.json](./54016-f1-2017-special-edition.json) |
 | F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
@@ -778,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
 | Fairy Nights | 71129 | [71129-fairy-nights.json](./71129-fairy-nights.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
+| Fairy Nook | 54017 | [54017-fairy-nook.json](./54017-fairy-nook.json) |
 | Fairy of Sit-ups | 104418 | [104418-fairy-of-sit-ups.json](./104418-fairy-of-sit-ups.json) |
 | Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
 | Fairy Orb: Magical Girl Aya & Yui | 82697 | [82697-fairy-orb-magical-girl-aya-and-yui.json](./82697-fairy-orb-magical-girl-aya-and-yui.json) |
@@ -1112,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Aces | 152263 | [152263-fallen-aces.json](./152263-fallen-aces.json) |
 | Fallen Angel | 121988 | [121988-fallen-angel.json](./121988-fallen-angel.json) |
 | Fallen Angel | 322457 | [322457-fallen-angel.json](./322457-fallen-angel.json) |
+| Fallen Angel | 54608 | [54608-fallen-angel.json](./54608-fallen-angel.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Angel: The War in Heaven | 120883 | [120883-fallen-angel-the-war-in-heaven.json](./120883-fallen-angel-the-war-in-heaven.json) |
 | Fallen Angels | 275733 | [275733-fallen-angels.json](./275733-fallen-angels.json) |
@@ -1843,7 +1847,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Trainer: Totsugeki! Fuuun Takeshi-jou | 64574 | [64574-family-trainer-totsugeki-fuuun-takeshi-jou.json](./64574-family-trainer-totsugeki-fuuun-takeshi-jou.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
+| Family Vacation 2: Road Trip | 54019 | [54019-family-vacation-2-road-trip.json](./54019-family-vacation-2-road-trip.json) |
 | Family Vacation Bundle: 20 Games | 330436 | [330436-family-vacation-bundle-20-games.json](./330436-family-vacation-bundle-20-games.json) |
+| Family Vacation: California | 54018 | [54018-family-vacation-california.json](./54018-family-vacation-california.json) |
 | Family Zoo: The Story | 95329 | [95329-family-zoo-the-story.json](./95329-family-zoo-the-story.json) |
 | Family's Game Travel Pack | 104530 | [104530-familys-game-travel-pack.json](./104530-familys-game-travel-pack.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
@@ -2727,17 +2733,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
 | Farm Frenzy 3: Ancient Rome | 88412 | [88412-farm-frenzy-3-ancient-rome.json](./88412-farm-frenzy-3-ancient-rome.json) |
 | Farm Frenzy 3: Ancient Rome HD | 103750 | [103750-farm-frenzy-3-ancient-rome-hd.json](./103750-farm-frenzy-3-ancient-rome-hd.json) |
+| Farm Frenzy 3: Ice Age | 54032 | [54032-farm-frenzy-3-ice-age.json](./54032-farm-frenzy-3-ice-age.json) |
 | Farm Frenzy 3: Ice Domain | 53010 | [53010-farm-frenzy-3-ice-domain.json](./53010-farm-frenzy-3-ice-domain.json) |
+| Farm Frenzy 3: Madagascar | 54031 | [54031-farm-frenzy-3-madagascar.json](./54031-farm-frenzy-3-madagascar.json) |
 | Farm Frenzy 3: Madagascar HD | 93909 | [93909-farm-frenzy-3-madagascar-hd.json](./93909-farm-frenzy-3-madagascar-hd.json) |
+| Farm Frenzy 3: Russian Roulette | 54030 | [54030-farm-frenzy-3-russian-roulette.json](./54030-farm-frenzy-3-russian-roulette.json) |
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
 | Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
 | Farm Frenzy Inc | 87066 | [87066-farm-frenzy-inc.json](./87066-farm-frenzy-inc.json) |
 | Farm Frenzy Madness | 53033 | [53033-farm-frenzy-madness.json](./53033-farm-frenzy-madness.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
+| Farm Frenzy: Ancient Rome | 54029 | [54029-farm-frenzy-ancient-rome.json](./54029-farm-frenzy-ancient-rome.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Crazy Bear Island | 90893 | [90893-farm-frenzy-crazy-bear-island.json](./90893-farm-frenzy-crazy-bear-island.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
+| Farm Frenzy: Gone Fishing | 54028 | [54028-farm-frenzy-gone-fishing.json](./54028-farm-frenzy-gone-fishing.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Frenzy: Hurricane Season | 35453 | [35453-farm-frenzy-hurricane-season.json](./35453-farm-frenzy-hurricane-season.json) |
 | Farm Frenzy: Refreshed | 143155 | [143155-farm-frenzy-refreshed.json](./143155-farm-frenzy-refreshed.json) |
@@ -2747,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
 | Farm Girl | 93946 | [93946-farm-girl.json](./93946-farm-girl.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
+| Farm Girl at the Nile | 54027 | [54027-farm-girl-at-the-nile.json](./54027-farm-girl-at-the-nile.json) |
 | Farm Harbeest | 419609 | [419609-farm-harbeest.json](./419609-farm-harbeest.json) |
 | Farm Harvest | 233380 | [233380-farm-harvest.json](./233380-farm-harvest.json) |
 | Farm Heroes Saga | 86962 | [86962-farm-heroes-saga.json](./86962-farm-heroes-saga.json) |
@@ -2785,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
 | Farm Love Legend: Transform your Animals into Anime Boys | 379000 | [379000-farm-love-legend-transform-your-animals-into-anime-boys.json](./379000-farm-love-legend-transform-your-animals-into-anime-boys.json) |
 | Farm Love Legend: Transform your Animals into Anime Girls | 380709 | [380709-farm-love-legend-transform-your-animals-into-anime-girls.json](./380709-farm-love-legend-transform-your-animals-into-anime-girls.json) |
+| Farm Machine Championships 2013 | 54025 | [54025-farm-machine-championships-2013.json](./54025-farm-machine-championships-2013.json) |
 | Farm Machines Championships 2013 | 10314 | [10314-farm-machines-championships-2013.json](./10314-farm-machines-championships-2013.json) |
 | Farm Machines Championships 2014 | 10315 | [10315-farm-machines-championships-2014.json](./10315-farm-machines-championships-2014.json) |
 | Farm Manager | 394602 | [394602-farm-manager.json](./394602-farm-manager.json) |
@@ -2799,6 +2812,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Manager World | 257967 | [257967-farm-manager-world.json](./257967-farm-manager-world.json) |
 | Farm Manager World: Africa | 402705 | [402705-farm-manager-world-africa.json](./402705-farm-manager-world-africa.json) |
 | Farm Manager World: Flags Pack | 402706 | [402706-farm-manager-world-flags-pack.json](./402706-farm-manager-world-flags-pack.json) |
+| Farm Mania | 54024 | [54024-farm-mania.json](./54024-farm-mania.json) |
+| Farm Mania 2 | 54026 | [54026-farm-mania-2.json](./54026-farm-mania-2.json) |
 | Farm Mania 3 | 180113 | [180113-farm-mania-3.json](./180113-farm-mania-3.json) |
 | Farm Mania: Hot Vacation | 34168 | [34168-farm-mania-hot-vacation.json](./34168-farm-mania-hot-vacation.json) |
 | Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
@@ -3154,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion AR | 116406 | [116406-fashion-ar.json](./116406-fashion-ar.json) |
 | Fashion Boutique | 142717 | [142717-fashion-boutique.json](./142717-fashion-boutique.json) |
 | Fashion Contract | 244926 | [244926-fashion-contract.json](./244926-fashion-contract.json) |
+| Fashion Craze | 54023 | [54023-fashion-craze.json](./54023-fashion-craze.json) |
 | Fashion Dash | 209273 | [209273-fashion-dash.json](./209273-fashion-dash.json) |
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
 | Fashion Designer: High Fashion | 69106 | [69106-fashion-designer-high-fashion.json](./69106-fashion-designer-high-fashion.json) |
@@ -3161,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Doodle | 106706 | [106706-fashion-doodle.json](./106706-fashion-doodle.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
+| Fashion Fits! | 54022 | [54022-fashion-fits.json](./54022-fashion-fits.json) |
 | Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
 | Fashion Friends | 219306 | [219306-fashion-friends.json](./219306-fashion-friends.json) |
 | Fashion Friends: Gold Edition | 317257 | [317257-fashion-friends-gold-edition.json](./317257-fashion-friends-gold-edition.json) |
@@ -3295,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Hands | 411239 | [411239-fast-hands.json](./411239-fast-hands.json) |
 | Fast Jump | 167574 | [167574-fast-jump.json](./167574-fast-jump.json) |
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
+| Fast Lane Carnage | 54021 | [54021-fast-lane-carnage.json](./54021-fast-lane-carnage.json) |
 | Fast Lane! The Spice Engineering Challenge | 60684 | [60684-fast-lane-the-spice-engineering-challenge.json](./60684-fast-lane-the-spice-engineering-challenge.json) |
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
@@ -3834,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
 | FBI-13 | 299697 | [299697-fbi-13.json](./299697-fbi-13.json) |
 | FBI: Paranormal Case | 122102 | [122102-fbi-paranormal-case.json](./122102-fbi-paranormal-case.json) |
+| FBI: Paranormal Case - Extended Edition | 54020 | [54020-fbi-paranormal-case-extended-edition.json](./54020-fbi-paranormal-case-extended-edition.json) |
 | FBL - Floorball League | 78863 | [78863-fbl-floorball-league.json](./78863-fbl-floorball-league.json) |
 | FbSp001 | 273170 | [273170-fbsp001.json](./273170-fbsp001.json) |
 | FbSp002 | 273171 | [273171-fbsp002.json](./273171-fbsp002.json) |
@@ -10656,6 +10675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Punch | 121542 | [121542-forbidden-punch.json](./121542-forbidden-punch.json) |
 | Forbidden Quake OST Liner Notes | 262422 | [262422-forbidden-quake-ost-liner-notes.json](./262422-forbidden-quake-ost-liner-notes.json) |
 | Forbidden Quest | 25087 | [25087-forbidden-quest.json](./25087-forbidden-quest.json) |
+| Forbidden Secrets: Alien Town | 54036 | [54036-forbidden-secrets-alien-town.json](./54036-forbidden-secrets-alien-town.json) |
 | Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
@@ -10948,6 +10968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
 | Forever World Cup Simulator | 312437 | [312437-forever-world-cup-simulator.json](./312437-forever-world-cup-simulator.json) |
+| Forever Worlds | 54035 | [54035-forever-worlds.json](./54035-forever-worlds.json) |
 | Forever Worlds: Enter the Unknown | 73402 | [73402-forever-worlds-enter-the-unknown.json](./73402-forever-worlds-enter-the-unknown.json) |
 | Forever You Pongball | 187743 | [187743-forever-you-pongball.json](./187743-forever-you-pongball.json) |
 | Forever Yours | 418561 | [418561-forever-yours.json](./418561-forever-yours.json) |
@@ -11826,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Tiles Gold | 53063 | [53063-fortune-tiles-gold.json](./53063-fortune-tiles-gold.json) |
 | Fortune Wheel | 390463 | [390463-fortune-wheel.json](./390463-fortune-wheel.json) |
 | Fortune Wheel Slots | 59562 | [59562-fortune-wheel-slots.json](./59562-fortune-wheel-slots.json) |
+| Fortune Winds: Ancient Trader | 54034 | [54034-fortune-winds-ancient-trader.json](./54034-fortune-winds-ancient-trader.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune-499 | 87812 | [87812-fortune-499.json](./87812-fortune-499.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
