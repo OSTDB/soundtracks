@@ -5204,9 +5204,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Gadget | 198766 | [198766-inspector-gadget.json](./198766-inspector-gadget.json) |
 | Inspector Gadget | 198767 | [198767-inspector-gadget.json](./198767-inspector-gadget.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
+| Inspector Gadget and the Circus of Fear | 4860 | [4860-inspector-gadget-and-the-circus-of-fear.json](./4860-inspector-gadget-and-the-circus-of-fear.json) |
 | Inspector Gadget Racing | 49293 | [49293-inspector-gadget-racing.json](./49293-inspector-gadget-racing.json) |
+| Inspector Gadget: Advance Mission | 4864 | [4864-inspector-gadget-advance-mission.json](./4864-inspector-gadget-advance-mission.json) |
 | Inspector Gadget: Gadget's Crazy Maze | 4863 | [4863-inspector-gadget-gadgets-crazy-maze.json](./4863-inspector-gadget-gadgets-crazy-maze.json) |
+| Inspector Gadget: MAD Robots Invasion | 4865 | [4865-inspector-gadget-mad-robots-invasion.json](./4865-inspector-gadget-mad-robots-invasion.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
+| Inspector Gadget: Mission 1 - Global Terror! | 4861 | [4861-inspector-gadget-mission-1-global-terror.json](./4861-inspector-gadget-mission-1-global-terror.json) |
+| Inspector Gadget: Operation Madkactus | 4862 | [4862-inspector-gadget-operation-madkactus.json](./4862-inspector-gadget-operation-madkactus.json) |
 | Inspector Javert and the Oath of Blood | 135626 | [135626-inspector-javert-and-the-oath-of-blood.json](./135626-inspector-javert-and-the-oath-of-blood.json) |
 | Inspector Kloo | 315231 | [315231-inspector-kloo.json](./315231-inspector-kloo.json) |
 | Inspector Kloo 2 | 315232 | [315232-inspector-kloo-2.json](./315232-inspector-kloo-2.json) |
@@ -6416,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irezumi Defenders | 375225 | [375225-irezumi-defenders.json](./375225-irezumi-defenders.json) |
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Irian: City of Ruin | 370733 | [370733-irian-city-of-ruin.json](./370733-irian-city-of-ruin.json) |
+| Irides: Master of Blocks | 4362 | [4362-irides-master-of-blocks.json](./4362-irides-master-of-blocks.json) |
 | Iridescence | 111265 | [111265-iridescence.json](./111265-iridescence.json) |
 | Iridescent | 101824 | [101824-iridescent.json](./101824-iridescent.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
@@ -6475,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Age | 173054 | [173054-iron-age.json](./173054-iron-age.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
 | Iron Angel of the Apocalypse | 4322 | [4322-iron-angel-of-the-apocalypse.json](./4322-iron-angel-of-the-apocalypse.json) |
+| Iron Angel of the Apocalypse: The Return | 4346 | [4346-iron-angel-of-the-apocalypse-the-return.json](./4346-iron-angel-of-the-apocalypse-the-return.json) |
 | Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
 | Iron Armor Storm | 252220 | [252220-iron-armor-storm.json](./252220-iron-armor-storm.json) |
 | Iron Ascension | 110777 | [110777-iron-ascension.json](./110777-iron-ascension.json) |
