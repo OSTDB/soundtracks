@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Economica | 337343 | [337343-orbit-economica.json](./337343-orbit-economica.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit HD | 35595 | [35595-orbit-hd.json](./35595-orbit-hd.json) |
+| Orbit Jumping | 26023 | [26023-orbit-jumping.json](./26023-orbit-jumping.json) |
 | Orbit Legends | 110029 | [110029-orbit-legends.json](./110029-orbit-legends.json) |
 | Orbit Maze | 347189 | [347189-orbit-maze.json](./347189-orbit-maze.json) |
 | Orbit of Death | 129423 | [129423-orbit-of-death.json](./129423-orbit-of-death.json) |
