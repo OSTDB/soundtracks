@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Jackal Assault VR Experience | 296540 | [296540-call-of-duty-infinite-warfare-jackal-assault-vr-experience.json](./296540-call-of-duty-infinite-warfare-jackal-assault-vr-experience.json) |
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
+| Call of Duty: Infinite Warfare - Legacy Pro Edition | 41625 | [41625-call-of-duty-infinite-warfare-legacy-pro-edition.json](./41625-call-of-duty-infinite-warfare-legacy-pro-edition.json) |
 | Call of Duty: Infinite Warfare + Destiny - The Collection | 370987 | [370987-call-of-duty-infinite-warfare-destiny-the-collection.json](./370987-call-of-duty-infinite-warfare-destiny-the-collection.json) |
 | Call of Duty: League - Atlanta FaZe Team Pack 2024 | 281931 | [281931-call-of-duty-league-atlanta-faze-team-pack-2024.json](./281931-call-of-duty-league-atlanta-faze-team-pack-2024.json) |
 | Call of Duty: League - Boston Breach Team Pack 2024 | 281935 | [281935-call-of-duty-league-boston-breach-team-pack-2024.json](./281935-call-of-duty-league-boston-breach-team-pack-2024.json) |
@@ -8499,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
+| Chinese Logic | 41550 | [41550-chinese-logic.json](./41550-chinese-logic.json) |
 | Chinese Ludo Forever | 106917 | [106917-chinese-ludo-forever.json](./106917-chinese-ludo-forever.json) |
 | Chinese mother in law | 158166 | [158166-chinese-mother-in-law.json](./158166-chinese-mother-in-law.json) |
 | Chinese Mythology: Journey to the West | 369216 | [369216-chinese-mythology-journey-to-the-west.json](./369216-chinese-mythology-journey-to-the-west.json) |
@@ -11256,6 +11258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Jam | 299181 | [299181-clay-jam.json](./299181-clay-jam.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Pigeon | 40282 | [40282-clay-pigeon.json](./40282-clay-pigeon.json) |
+| Clay Pigeon! | 41549 | [41549-clay-pigeon.json](./41549-clay-pigeon.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shoot | 277502 | [277502-clay-shoot.json](./277502-clay-shoot.json) |
 | Clay Shoot | 328679 | [328679-clay-shoot.json](./328679-clay-shoot.json) |
@@ -14877,6 +14880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin | 245529 | [245529-computer-gin.json](./245529-computer-gin.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
+| Computer Golf | 41548 | [41548-computer-golf.json](./41548-computer-golf.json) |
 | Computer Intro! | 283015 | [283015-computer-intro.json](./283015-computer-intro.json) |
 | Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
