@@ -4840,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marksman / Depth charge | 27220 | [27220-marksman-depth-charge.json](./27220-marksman-depth-charge.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | Marksman Shooting & Trap Shooting | 78779 | [78779-marksman-shooting-and-trap-shooting.json](./78779-marksman-shooting-and-trap-shooting.json) |
+| Marksman Shooting/Trap Shooting/Safari Hunt | 61847 | [61847-marksman-shooting-trap-shooting-safari-hunt.json](./61847-marksman-shooting-trap-shooting-safari-hunt.json) |
 | Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
 | Marksman: Long Range | 65875 | [65875-marksman-long-range.json](./65875-marksman-long-range.json) |
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
@@ -12367,6 +12368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Jackpot | 60702 | [60702-microsoft-jackpot.json](./60702-microsoft-jackpot.json) |
 | Microsoft Jewel 2 | 317539 | [317539-microsoft-jewel-2.json](./317539-microsoft-jewel-2.json) |
+| Microsoft Jigsaw | 60378 | [60378-microsoft-jigsaw.json](./60378-microsoft-jigsaw.json) |
 | Microsoft Mahjong | 8977 | [8977-microsoft-mahjong.json](./8977-microsoft-mahjong.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
 | Microsoft Minesweeper | 298728 | [298728-microsoft-minesweeper.json](./298728-microsoft-minesweeper.json) |
@@ -18160,6 +18162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Survivors: Rootsy Edition | 357017 | [357017-monster-survivors-rootsy-edition.json](./357017-monster-survivors-rootsy-edition.json) |
 | Monster Sweethearts | 177959 | [177959-monster-sweethearts.json](./177959-monster-sweethearts.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
+| Monster Tale | 21078 | [21078-monster-tale.json](./21078-monster-tale.json) |
 | Monster Tale Ultimate | 60450 | [60450-monster-tale-ultimate.json](./60450-monster-tale-ultimate.json) |
 | Monster Talk | 77509 | [77509-monster-talk.json](./77509-monster-talk.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
