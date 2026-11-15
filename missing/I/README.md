@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Gonna Be God of The Forest | 64146 | [64146-im-gonna-be-god-of-the-forest.json](./64146-im-gonna-be-god-of-the-forest.json) |
 | I'm Gonna Serve You 4 | 139036 | [139036-im-gonna-serve-you-4.json](./139036-im-gonna-serve-you-4.json) |
 | I'm Here to Shit Ass | 336306 | [336306-im-here-to-shit-ass.json](./336306-im-here-to-shit-ass.json) |
+| I'm Hiding | 42189 | [42189-im-hiding.json](./42189-im-hiding.json) |
 | I'm Home Already | 350461 | [350461-im-home-already.json](./350461-im-home-already.json) |
 | I'm Hungry | 117212 | [117212-im-hungry.json](./117212-im-hungry.json) |
 | I'm In Charge | 249216 | [249216-im-in-charge.json](./249216-im-in-charge.json) |
@@ -5336,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intake: Be Aggressive | 174225 | [174225-intake-be-aggressive.json](./174225-intake-be-aggressive.json) |
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integer Snake | 26203 | [26203-integer-snake.json](./26203-integer-snake.json) |
+| Integers | 42188 | [42188-integers.json](./42188-integers.json) |
 | Integrated | 323652 | [323652-integrated.json](./323652-integrated.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
