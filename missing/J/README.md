@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Keane: The Complete Edition | 54132 | [54132-jack-keane-the-complete-edition.json](./54132-jack-keane-the-complete-edition.json) |
 | Jack Lumber | 15393 | [15393-jack-lumber.json](./15393-jack-lumber.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
+| Jack Move | 119825 | [119825-jack-move.json](./119825-jack-move.json) |
 | Jack Move: I.C.E Breaker | 195865 | [195865-jack-move-i-c-e-breaker.json](./195865-jack-move-i-c-e-breaker.json) |
 | Jack N' Jill | 67485 | [67485-jack-n-jill.json](./67485-jack-n-jill.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
@@ -2596,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Blade II | 45243 | [45243-joe-blade-ii.json](./45243-joe-blade-ii.json) |
 | Joe Blade III | 45242 | [45242-joe-blade-iii.json](./45242-joe-blade-iii.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
+| Joe Danger | 11240 | [11240-joe-danger.json](./11240-joe-danger.json) |
 | Joe Danger 2: The Movie | 11241 | [11241-joe-danger-2-the-movie.json](./11241-joe-danger-2-the-movie.json) |
 | Joe Danger 2: The Movie - Undead Movie Pack | 226866 | [226866-joe-danger-2-the-movie-undead-movie-pack.json](./226866-joe-danger-2-the-movie-undead-movie-pack.json) |
 | Joe Danger Infinity | 11243 | [11243-joe-danger-infinity.json](./11243-joe-danger-infinity.json) |
@@ -3078,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
 | Journey of the Fox | 101287 | [101287-journey-of-the-fox.json](./101287-journey-of-the-fox.json) |
 | Journey of the Garden Rose | 346185 | [346185-journey-of-the-garden-rose.json](./346185-journey-of-the-garden-rose.json) |
+| Journey of the Gods | 121937 | [121937-journey-of-the-gods.json](./121937-journey-of-the-gods.json) |
 | Journey of the King | 17930 | [17930-journey-of-the-king.json](./17930-journey-of-the-king.json) |
 | Journey Of The Light | 370850 | [370850-journey-of-the-light.json](./370850-journey-of-the-light.json) |
 | Journey of the Scroll | 180397 | [180397-journey-of-the-scroll.json](./180397-journey-of-the-scroll.json) |
