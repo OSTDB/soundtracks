@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
 | Backyard Baseball | 393033 | [393033-backyard-baseball.json](./393033-backyard-baseball.json) |
 | Backyard Baseball | 50299 | [50299-backyard-baseball.json](./50299-backyard-baseball.json) |
+| Backyard Baseball | 50907 | [50907-backyard-baseball.json](./50907-backyard-baseball.json) |
 | Backyard Baseball '01 | 348028 | [348028-backyard-baseball-01.json](./348028-backyard-baseball-01.json) |
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '10 | 6572 | [6572-backyard-baseball-10.json](./6572-backyard-baseball-10.json) |
@@ -832,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football '09 | 4687 | [4687-backyard-football-09.json](./4687-backyard-football-09.json) |
 | Backyard Football '10 | 4688 | [4688-backyard-football-10.json](./4688-backyard-football-10.json) |
 | Backyard Football '99 | 366897 | [366897-backyard-football-99.json](./366897-backyard-football-99.json) |
+| Backyard Football 2002 | 50902 | [50902-backyard-football-2002.json](./50902-backyard-football-2002.json) |
 | Backyard Football 2004 | 68879 | [68879-backyard-football-2004.json](./68879-backyard-football-2004.json) |
 | Backyard Football 2006 | 72974 | [72974-backyard-football-2006.json](./72974-backyard-football-2006.json) |
 | Backyard Fury | 183304 | [183304-backyard-fury.json](./183304-backyard-fury.json) |
@@ -13116,6 +13118,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue: Store | 339452 | [339452-blue-store.json](./339452-blue-store.json) |
 | Blue: Will to Power | 138632 | [138632-blue-will-to-power.json](./138632-blue-will-to-power.json) |
 | Blue. | 90131 | [90131-blue.json](./90131-blue.json) |
+| Blue's 123 Time Activities | 50906 | [50906-blues-123-time-activities.json](./50906-blues-123-time-activities.json) |
+| Blue's ABC Time Activities | 50905 | [50905-blues-abc-time-activities.json](./50905-blues-abc-time-activities.json) |
+| Blue's Art Time Activities | 50909 | [50909-blues-art-time-activities.json](./50909-blues-art-time-activities.json) |
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues Collection Day | 70690 | [70690-blues-clues-collection-day.json](./70690-blues-clues-collection-day.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
@@ -13130,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Reading Time Activities | 50294 | [50294-blues-reading-time-activities.json](./50294-blues-reading-time-activities.json) |
 | Blue's Room: Blue Talks! | 74005 | [74005-blues-room-blue-talks.json](./74005-blues-room-blue-talks.json) |
 | Blue's Room: Coloring With Blue | 220077 | [220077-blues-room-coloring-with-blue.json](./220077-blues-room-coloring-with-blue.json) |
+| Blue's Treasure Hunt | 50904 | [50904-blues-treasure-hunt.json](./50904-blues-treasure-hunt.json) |
 | Blue* | 130819 | [130819-blue.json](./130819-blue.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Bluebeard: An Interactive Tale | 397022 | [397022-bluebeard-an-interactive-tale.json](./397022-bluebeard-an-interactive-tale.json) |
