@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura School Love | 265086 | [265086-sakura-school-love.json](./265086-sakura-school-love.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Scramble! | 205897 | [205897-sakura-scramble.json](./205897-sakura-scramble.json) |
+| Sakura Scroll Remake | 425116 | [425116-sakura-scroll-remake.json](./425116-sakura-scroll-remake.json) |
 | Sakura Shadow Monsters | 253169 | [253169-sakura-shadow-monsters.json](./253169-sakura-shadow-monsters.json) |
 | Sakura Shrine Girls | 31619 | [31619-sakura-shrine-girls.json](./31619-sakura-shrine-girls.json) |
 | Sakura Spirit | 17640 | [17640-sakura-spirit.json](./17640-sakura-spirit.json) |
@@ -9775,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiosai no Serenade: Episode 3 | 396564 | [396564-shiosai-no-serenade-episode-3.json](./396564-shiosai-no-serenade-episode-3.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Ahoy | 80977 | [80977-ship-ahoy.json](./80977-ship-ahoy.json) |
+| Ship Busters | 425149 | [425149-ship-busters.json](./425149-ship-busters.json) |
 | Ship Defense | 183497 | [183497-ship-defense.json](./183497-ship-defense.json) |
 | Ship Explorer | 349248 | [349248-ship-explorer.json](./349248-ship-explorer.json) |
 | Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
@@ -12002,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silly Tanks | 351504 | [351504-silly-tanks.json](./351504-silly-tanks.json) |
 | Silly Tower | 301446 | [301446-silly-tower.json](./301446-silly-tower.json) |
+| Silly Typing Game | 425160 | [425160-silly-typing-game.json](./425160-silly-typing-game.json) |
 | Silly Walks | 96790 | [96790-silly-walks.json](./96790-silly-walks.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
 | Silly.tiff | 305395 | [305395-silly-tiff.json](./305395-silly-tiff.json) |
@@ -16329,6 +16332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
 | SmFly: Gravity Adventure | 150967 | [150967-smfly-gravity-adventure.json](./150967-smfly-gravity-adventure.json) |
 | SMFly: Ice Age | 148869 | [148869-smfly-ice-age.json](./148869-smfly-ice-age.json) |
+| SMG GBA | 425110 | [425110-smg-gba.json](./425110-smg-gba.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | SMIB: Mission Cure | 157415 | [157415-smib-mission-cure.json](./157415-smib-mission-cure.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
@@ -20672,6 +20676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sort Tiles | 364023 | [364023-sort-tiles.json](./364023-sort-tiles.json) |
 | Sort Your Life Out | 183218 | [183218-sort-your-life-out.json](./183218-sort-your-life-out.json) |
+| Sortalis | 425142 | [425142-sortalis.json](./425142-sortalis.json) |
 | Sorted | 392265 | [392265-sorted.json](./392265-sorted.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
 | Sorter | 388912 | [388912-sorter.json](./388912-sorter.json) |
@@ -22727,6 +22732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
 | Space Travel Jigsaw Puzzles | 156943 | [156943-space-travel-jigsaw-puzzles.json](./156943-space-travel-jigsaw-puzzles.json) |
 | Space Traveler's Brain Creator | 285504 | [285504-space-travelers-brain-creator.json](./285504-space-travelers-brain-creator.json) |
+| Space Travelers | 425153 | [425153-space-travelers.json](./425153-space-travelers.json) |
 | Space Travellers | 244582 | [244582-space-travellers.json](./244582-space-travellers.json) |
 | Space Travelling | 120715 | [120715-space-travelling.json](./120715-space-travelling.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
@@ -29962,6 +29968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticc | 220505 | [220505-sticc.json](./220505-sticc.json) |
 | Stick 'Em Up 2 | 36419 | [36419-stick-em-up-2.json](./36419-stick-em-up-2.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
+| Stick a Fork | 425146 | [425146-stick-a-fork.json](./425146-stick-a-fork.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Adventures: Wizard Madness - Chapter 1 | 81644 | [81644-stick-adventures-wizard-madness-chapter-1.json](./81644-stick-adventures-wizard-madness-chapter-1.json) |
 | Stick and Balls | 260009 | [260009-stick-and-balls.json](./260009-stick-and-balls.json) |
@@ -40393,6 +40400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synapse | 239381 | [239381-synapse.json](./239381-synapse.json) |
 | Synapse | 58318 | [58318-synapse.json](./58318-synapse.json) |
 | Synapse Chronicles | 405017 | [405017-synapse-chronicles.json](./405017-synapse-chronicles.json) |
+| Synapse Grid | 425140 | [425140-synapse-grid.json](./425140-synapse-grid.json) |
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
 | Synapsis | 299759 | [299759-synapsis.json](./299759-synapsis.json) |
 | Synapsis 2 | 299760 | [299760-synapsis-2.json](./299760-synapsis-2.json) |
