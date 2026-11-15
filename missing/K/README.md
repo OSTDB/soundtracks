@@ -5346,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock Out Walls | 263802 | [263802-knock-out-walls.json](./263802-knock-out-walls.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock the Bloody Door Down | 244568 | [244568-knock-the-bloody-door-down.json](./244568-knock-the-bloody-door-down.json) |
+| Knock Time | 427560 | [427560-knock-time.json](./427560-knock-time.json) |
 | Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
 | Knock-Em Out Boxing | 375726 | [375726-knock-em-out-boxing.json](./375726-knock-em-out-boxing.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
