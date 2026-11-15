@@ -6838,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
 | Behind Every Great One | 112012 | [112012-behind-every-great-one.json](./112012-behind-every-great-one.json) |
 | Behind Glass: Aquarium Simulator | 165793 | [165793-behind-glass-aquarium-simulator.json](./165793-behind-glass-aquarium-simulator.json) |
+| Behind Her Door | 428123 | [428123-behind-her-door.json](./428123-behind-her-door.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
 | Behind Stars and Under Hills | 110015 | [110015-behind-stars-and-under-hills.json](./110015-behind-stars-and-under-hills.json) |
 | Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
@@ -10352,6 +10353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Wolves Saga: Weiβ und Schwarz | 132091 | [132091-black-wolves-saga-wei-und-schwarz.json](./132091-black-wolves-saga-wei-und-schwarz.json) |
 | Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
+| Black Zero | 428139 | [428139-black-zero.json](./428139-black-zero.json) |
 | Black Zork | 289537 | [289537-black-zork.json](./289537-black-zork.json) |
 | Black, no sugar | 183361 | [183361-black-no-sugar.json](./183361-black-no-sugar.json) |
 | Black, White and Grey | 251314 | [251314-black-white-and-grey.json](./251314-black-white-and-grey.json) |
@@ -11617,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobert | 158598 | [158598-blobert.json](./158598-blobert.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
 | Blobify | 181741 | [181741-blobify.json](./181741-blobify.json) |
+| Blobituary | 428111 | [428111-blobituary.json](./428111-blobituary.json) |
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
 | Blobl.io | 316086 | [316086-blobl-io.json](./316086-blobl-io.json) |
 | Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
@@ -13755,6 +13758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
+| Boiler & Blood | 428105 | [428105-boiler-and-blood.json](./428105-boiler-and-blood.json) |
 | Boiling Bolt | 32983 | [32983-boiling-bolt.json](./32983-boiling-bolt.json) |
 | Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boiling Point: Road to Hell | 9508 | [9508-boiling-point-road-to-hell.json](./9508-boiling-point-road-to-hell.json) |
