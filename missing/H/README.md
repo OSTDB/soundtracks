@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
 | Headz Go Racing | 216601 | [216601-headz-go-racing.json](./216601-headz-go-racing.json) |
+| Heal | 120991 | [120991-heal.json](./120991-heal.json) |
 | Heal & Hurt | 207710 | [207710-heal-and-hurt.json](./207710-heal-and-hurt.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Burns Red | 132099 | [132099-heaven-burns-red.json](./132099-heaven-burns-red.json) |
 | Heaven Crawler | 305084 | [305084-heaven-crawler.json](./305084-heaven-crawler.json) |
 | Heaven Does Not Respond | 373598 | [373598-heaven-does-not-respond.json](./373598-heaven-does-not-respond.json) |
+| Heaven Dust | 120069 | [120069-heaven-dust.json](./120069-heaven-dust.json) |
 | Heaven Dust 2 | 153344 | [153344-heaven-dust-2.json](./153344-heaven-dust-2.json) |
 | Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven for Death | 233829 | [233829-heaven-for-death.json](./233829-heaven-for-death.json) |
@@ -12118,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Rift Rally | 254347 | [254347-hot-wheels-rift-rally.json](./254347-hot-wheels-rift-rally.json) |
 | Hot Wheels: Skaters Customization Pack | 248419 | [248419-hot-wheels-skaters-customization-pack.json](./248419-hot-wheels-skaters-customization-pack.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
+| Hot Wheels: Stunt Track Challenge | 5862 | [5862-hot-wheels-stunt-track-challenge.json](./5862-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: Track Attack | 328299 | [328299-hot-wheels-track-attack.json](./328299-hot-wheels-track-attack.json) |
 | Hot Wheels: Track Attack | 4917 | [4917-hot-wheels-track-attack.json](./4917-hot-wheels-track-attack.json) |
 | Hot Wheels: Tropical Wave Customization Pack | 248417 | [248417-hot-wheels-tropical-wave-customization-pack.json](./248417-hot-wheels-tropical-wave-customization-pack.json) |
