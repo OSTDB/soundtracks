@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignition | 7139 | [7139-ignition.json](./7139-ignition.json) |
 | Ignition 2000: Origins | 374415 | [374415-ignition-2000-origins.json](./374415-ignition-2000-origins.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
+| Ignition Collection: Volume 1 | 49622 | [49622-ignition-collection-volume-1.json](./49622-ignition-collection-volume-1.json) |
 | Ignoble | 386667 | [386667-ignoble.json](./386667-ignoble.json) |
 | Ignorance Fighter II: Tour Bus | 181754 | [181754-ignorance-fighter-ii-tour-bus.json](./181754-ignorance-fighter-ii-tour-bus.json) |
 | Ignore the blackbird | 398152 | [398152-ignore-the-blackbird.json](./398152-ignore-the-blackbird.json) |
@@ -4640,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D Arcade Stage 7 AAX | 77433 | [77433-initial-d-arcade-stage-7-aax.json](./77433-initial-d-arcade-stage-7-aax.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D Gaiden | 62559 | [62559-initial-d-gaiden.json](./62559-initial-d-gaiden.json) |
+| Initial D: Another Stage | 49621 | [49621-initial-d-another-stage.json](./49621-initial-d-another-stage.json) |
 | Initial D: Koudou Saisoku Densetsu | 97532 | [97532-initial-d-koudou-saisoku-densetsu.json](./97532-initial-d-koudou-saisoku-densetsu.json) |
 | Initial D: Mountain Vengeance | 71854 | [71854-initial-d-mountain-vengeance.json](./71854-initial-d-mountain-vengeance.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
@@ -5976,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
 | Inukari: Chase of Deception - Deluxe Edition | 221498 | [221498-inukari-chase-of-deception-deluxe-edition.json](./221498-inukari-chase-of-deception-deluxe-edition.json) |
 | Inukari: Fateful Detour | 249031 | [249031-inukari-fateful-detour.json](./249031-inukari-fateful-detour.json) |
+| Inukko Club: Fukumaru no Daibouken | 49620 | [49620-inukko-club-fukumaru-no-daibouken.json](./49620-inukko-club-fukumaru-no-daibouken.json) |
 | Inumeda | 263113 | [263113-inumeda.json](./263113-inumeda.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
 | Inure Coffee | 143539 | [143539-inure-coffee.json](./143539-inure-coffee.json) |
@@ -5991,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: Fuuun Emaki | 37374 | [37374-inuyasha-fuuun-emaki.json](./37374-inuyasha-fuuun-emaki.json) |
 | Inuyasha: Kagome no Sengoku Nikki | 37373 | [37373-inuyasha-kagome-no-sengoku-nikki.json](./37373-inuyasha-kagome-no-sengoku-nikki.json) |
 | Inuyasha: Kagome no Yume Nikki | 37372 | [37372-inuyasha-kagome-no-yume-nikki.json](./37372-inuyasha-kagome-no-yume-nikki.json) |
+| Inuyasha: Naraku no Wana! Mayoi no Mori no Shoutaijou | 49619 | [49619-inuyasha-naraku-no-wana-mayoi-no-mori-no-shoutaijou.json](./49619-inuyasha-naraku-no-wana-mayoi-no-mori-no-shoutaijou.json) |
 | Inuyasha: Revive Story | 234489 | [234489-inuyasha-revive-story.json](./234489-inuyasha-revive-story.json) |
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | InuYasha: The Secret of the Cursed Mask | 43655 | [43655-inuyasha-the-secret-of-the-cursed-mask.json](./43655-inuyasha-the-secret-of-the-cursed-mask.json) |
@@ -6518,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Inc. | 399373 | [399373-iron-inc.json](./399373-iron-inc.json) |
 | Iron Jaw | 201511 | [201511-iron-jaw.json](./201511-iron-jaw.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
+| Iron Kid | 49618 | [49618-iron-kid.json](./49618-iron-kid.json) |
 | Iron Kill | 241871 | [241871-iron-kill.json](./241871-iron-kill.json) |
 | Iron Knight | 67900 | [67900-iron-knight.json](./67900-iron-knight.json) |
 | Iron Knight 3D | 91146 | [91146-iron-knight-3d.json](./91146-iron-knight-3d.json) |
@@ -7226,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISS: International Superstar Soccer | 136303 | [136303-iss-international-superstar-soccer.json](./136303-iss-international-superstar-soccer.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
 | Iss3 | 22232 | [22232-iss3.json](./22232-iss3.json) |
+| Isseki Hacchou: Kore 1-pon de 8 Shurui! | 49617 | [49617-isseki-hacchou-kore-1-pon-de-8-shurui.json](./49617-isseki-hacchou-kore-1-pon-de-8-shurui.json) |
 | Issho ni Asobo Koupen-chan | 133715 | [133715-issho-ni-asobo-koupen-chan.json](./133715-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Asobo Koupen-chan | 144685 | [144685-issho-ni-asobo-koupen-chan.json](./144685-issho-ni-asobo-koupen-chan.json) |
 | Issho ni Gohan Portable | 64161 | [64161-issho-ni-gohan-portable.json](./64161-issho-ni-gohan-portable.json) |
