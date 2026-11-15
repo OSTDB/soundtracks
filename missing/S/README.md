@@ -6626,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street ABC & 123 | 168540 | [168540-sesame-street-abc-and-123.json](./168540-sesame-street-abc-and-123.json) |
 | Sesame Street Art Workshop | 206016 | [206016-sesame-street-art-workshop.json](./206016-sesame-street-art-workshop.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
+| Sesame Street Countdown | 48248 | [48248-sesame-street-countdown.json](./48248-sesame-street-countdown.json) |
 | Sesame Street Counting Cafe | 46198 | [46198-sesame-street-counting-cafe.json](./46198-sesame-street-counting-cafe.json) |
 | Sesame Street Crayon: Letters For You | 70149 | [70149-sesame-street-crayon-letters-for-you.json](./70149-sesame-street-crayon-letters-for-you.json) |
 | Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
@@ -6642,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Alphabet Avenue | 176058 | [176058-sesame-street-alphabet-avenue.json](./176058-sesame-street-alphabet-avenue.json) |
 | Sesame Street: Bert & Ernie's Imagination Adventure | 70692 | [70692-sesame-street-bert-and-ernies-imagination-adventure.json](./70692-sesame-street-bert-and-ernies-imagination-adventure.json) |
+| Sesame Street: Big Bird's Hide & Speak | 48249 | [48249-sesame-street-big-birds-hide-and-speak.json](./48249-sesame-street-big-birds-hide-and-speak.json) |
 | Sesame Street: Cookie Monster’s Cookie Factory | 421421 | [421421-sesame-street-cookie-monster-s-cookie-factory.json](./421421-sesame-street-cookie-monster-s-cookie-factory.json) |
 | Sesame Street: Cookie's Counting Carnival | 50709 | [50709-sesame-street-cookies-counting-carnival.json](./50709-sesame-street-cookies-counting-carnival.json) |
 | Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
@@ -10259,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Master 3D | 106912 | [106912-shooting-master-3d.json](./106912-shooting-master-3d.json) |
 | Shooting over it : to be a star | 103819 | [103819-shooting-over-it-to-be-a-star.json](./103819-shooting-over-it-to-be-a-star.json) |
 | Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
+| Shooting Range | 48247 | [48247-shooting-range.json](./48247-shooting-range.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Range Owner Simulator | 326354 | [326354-shooting-range-owner-simulator.json](./326354-shooting-range-owner-simulator.json) |
 | Shooting Range Simulator | 304931 | [304931-shooting-range-simulator.json](./304931-shooting-range-simulator.json) |
@@ -10452,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short N Sweet Indies Bundle | 409980 | [409980-short-n-sweet-indies-bundle.json](./409980-short-n-sweet-indies-bundle.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
+| Short Order / Egg-splode! | 48246 | [48246-short-order-egg-splode.json](./48246-short-order-egg-splode.json) |
 | Short Peace: Ranko Tsukigime's Longest Day | 21710 | [21710-short-peace-ranko-tsukigimes-longest-day.json](./21710-short-peace-ranko-tsukigimes-longest-day.json) |
 | Short Piece | 263335 | [263335-short-piece.json](./263335-short-piece.json) |
 | Short Rest | 177255 | [177255-short-rest.json](./177255-short-rest.json) |
@@ -11609,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Anomalies 2 | 422831 | [422831-silent-anomalies-2.json](./422831-silent-anomalies-2.json) |
 | Silent Apartment | 245369 | [245369-silent-apartment.json](./245369-silent-apartment.json) |
+| Silent Assault | 48245 | [48245-silent-assault.json](./48245-silent-assault.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
 | Silent Bloom | 216527 | [216527-silent-bloom.json](./216527-silent-bloom.json) |
 | Silent Bomber | 24131 | [24131-silent-bomber.json](./24131-silent-bomber.json) |
@@ -12971,6 +12976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sips | 242145 | [242145-sips.json](./242145-sips.json) |
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
 | Sipssassin | 295228 | [295228-sipssassin.json](./295228-sipssassin.json) |
+| Sir Ababol | 48338 | [48338-sir-ababol.json](./48338-sir-ababol.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir AddaLot's "Mini" Math Adventure | 79472 | [79472-sir-addalots-mini-math-adventure.json](./79472-sir-addalots-mini-math-adventure.json) |
 | Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
@@ -20466,6 +20472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Fushigi na Niko-niko Album | 282641 | [282641-soreike-anpanman-fushigi-na-niko-niko-album.json](./282641-soreike-anpanman-fushigi-na-niko-niko-album.json) |
 | Soreike! Anpanman: Hajimete Dekita yo! Oboeta yo! Anpanman Hitori de Dekichatta! | 327707 | [327707-soreike-anpanman-hajimete-dekita-yo-oboeta-yo-anpanman-hitori-de-dekichatta.json](./327707-soreike-anpanman-hajimete-dekita-yo-oboeta-yo-anpanman-hitori-de-dekichatta.json) |
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
+| Soreike! Anpanman: Minna de Hiking Game! | 48347 | [48347-soreike-anpanman-minna-de-hiking-game.json](./48347-soreike-anpanman-minna-de-hiking-game.json) |
 | Soreike! Anpanman: Nakayoshi Doubutsu Land 1 - Ninkimono Atsumare! | 293949 | [293949-soreike-anpanman-nakayoshi-doubutsu-land-1-ninkimono-atsumare.json](./293949-soreike-anpanman-nakayoshi-doubutsu-land-1-ninkimono-atsumare.json) |
 | Soreike! Anpanman: Nakayoshi Doubutsu Land 2 - Africa no Nakama-tachi! | 293950 | [293950-soreike-anpanman-nakayoshi-doubutsu-land-2-africa-no-nakama-tachi.json](./293950-soreike-anpanman-nakayoshi-doubutsu-land-2-africa-no-nakama-tachi.json) |
 | Soreike! Anpanman: Norimono Iro-iro Daibouken | 293945 | [293945-soreike-anpanman-norimono-iro-iro-daibouken.json](./293945-soreike-anpanman-norimono-iro-iro-daibouken.json) |
@@ -22440,6 +22447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle Landing | 90779 | [90779-space-shuttle-landing.json](./90779-space-shuttle-landing.json) |
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
 | Space Shuttle Mission Simulator: The Collector's Edition | 208862 | [208862-space-shuttle-mission-simulator-the-collectors-edition.json](./208862-space-shuttle-mission-simulator-the-collectors-edition.json) |
+| Space Shuttle Project | 48243 | [48243-space-shuttle-project.json](./48243-space-shuttle-project.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Siege | 9276 | [9276-space-siege.json](./9276-space-siege.json) |
 | Space Sim Tycoon | 373354 | [373354-space-sim-tycoon.json](./373354-space-sim-tycoon.json) |
@@ -26623,6 +26631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stanley Saga | 324073 | [324073-stanley-saga.json](./324073-stanley-saga.json) |
 | Stanley Says | 367654 | [367654-stanley-says.json](./367654-stanley-says.json) |
 | Stanley Tiger Tales | 73453 | [73453-stanley-tiger-tales.json](./73453-stanley-tiger-tales.json) |
+| Stanley: The Search for Dr. Livingston | 48242 | [48242-stanley-the-search-for-dr-livingston.json](./48242-stanley-the-search-for-dr-livingston.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Staplers! 4 | 67924 | [67924-staplers-4.json](./67924-staplers-4.json) |
@@ -27359,6 +27368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trucker: Amped Customization Pack | 332043 | [332043-star-trucker-amped-customization-pack.json](./332043-star-trucker-amped-customization-pack.json) |
 | Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
+| Star Versus | 48352 | [48352-star-versus.json](./48352-star-versus.json) |
 | Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vikings: Deluxe Edition | 53665 | [53665-star-vikings-deluxe-edition.json](./53665-star-vikings-deluxe-edition.json) |
 | Star Virgin | 41734 | [41734-star-virgin.json](./41734-star-virgin.json) |
@@ -28543,6 +28553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Factory | 359660 | [359660-starship-factory.json](./359660-starship-factory.json) |
 | Starship Fighters: Galactic Warfare | 360155 | [360155-starship-fighters-galactic-warfare.json](./360155-starship-fighters-galactic-warfare.json) |
+| Starship Hector | 48238 | [48238-starship-hector.json](./48238-starship-hector.json) |
 | Starship Helmet | 115917 | [115917-starship-helmet.json](./115917-starship-helmet.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Horizons Bridge Simulator | 126963 | [126963-starship-horizons-bridge-simulator.json](./126963-starship-horizons-bridge-simulator.json) |
@@ -34638,6 +34649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duper Sumos | 49217 | [49217-super-duper-sumos.json](./49217-super-duper-sumos.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super DX-Ball | 73985 | [73985-super-dx-ball.json](./73985-super-dx-ball.json) |
+| Super Dyna'mix Badminton | 48255 | [48255-super-dynamix-badminton.json](./48255-super-dynamix-badminton.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
 | Super Eagle Shot | 133530 | [133530-super-eagle-shot.json](./133530-super-eagle-shot.json) |
@@ -38132,6 +38144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprise Stack | 177181 | [177181-surprise-stack.json](./177181-surprise-stack.json) |
 | Surprise Tic Tac Toe Dolls | 103693 | [103693-surprise-tic-tac-toe-dolls.json](./103693-surprise-tic-tac-toe-dolls.json) |
+| Surprise! Nekketsu New Records! The Distant Gold Medal | 48341 | [48341-surprise-nekketsu-new-records-the-distant-gold-medal.json](./48341-surprise-nekketsu-new-records-the-distant-gold-medal.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
 | Surprising My Neighbors | 367363 | [367363-surprising-my-neighbors.json](./367363-surprising-my-neighbors.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
