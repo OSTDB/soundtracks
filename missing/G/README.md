@@ -12836,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Saiban | 221283 | [221283-gyakuten-saiban.json](./221283-gyakuten-saiban.json) |
 | Gyakuten Saiban 2 | 221289 | [221289-gyakuten-saiban-2.json](./221289-gyakuten-saiban-2.json) |
 | Gyakuten Saiban 3 | 221290 | [221290-gyakuten-saiban-3.json](./221290-gyakuten-saiban-3.json) |
+| Gyakuten Saiban in Joypolis | 420896 | [420896-gyakuten-saiban-in-joypolis.json](./420896-gyakuten-saiban-in-joypolis.json) |
 | Gyakuten Saiban Jiten | 76243 | [76243-gyakuten-saiban-jiten.json](./76243-gyakuten-saiban-jiten.json) |
 | Gyakuten Saiban Poker | 256342 | [256342-gyakuten-saiban-poker.json](./256342-gyakuten-saiban-poker.json) |
 | Gyakuten Saiban: VR20-gou Jiken | 303291 | [303291-gyakuten-saiban-vr20-gou-jiken.json](./303291-gyakuten-saiban-vr20-gou-jiken.json) |
