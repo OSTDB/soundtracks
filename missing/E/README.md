@@ -6959,7 +6959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal | 307436 | [307436-ethereal.json](./307436-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
-| Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
 | Ethereal Enigma | 275863 | [275863-ethereal-enigma.json](./275863-ethereal-enigma.json) |
 | Ethereal Fracture | 295747 | [295747-ethereal-fracture.json](./295747-ethereal-fracture.json) |
 | Ethereal Legends | 33892 | [33892-ethereal-legends.json](./33892-ethereal-legends.json) |
