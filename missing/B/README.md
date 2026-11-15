@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
 | Balthazar's Dream | 26240 | [26240-balthazars-dream.json](./26240-balthazars-dream.json) |
 | Baltic 1985 | 70290 | [70290-baltic-1985.json](./70290-baltic-1985.json) |
+| Baltic 1985: Corridor to Berlin | 24389 | [24389-baltic-1985-corridor-to-berlin.json](./24389-baltic-1985-corridor-to-berlin.json) |
 | Baltic Folk | 298494 | [298494-baltic-folk.json](./298494-baltic-folk.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluba-louk no Densetsu | 40013 | [40013-baluba-louk-no-densetsu.json](./40013-baluba-louk-no-densetsu.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastly Desires | 299024 | [299024-beastly-desires.json](./299024-beastly-desires.json) |
 | Beastly Muscles | 202669 | [202669-beastly-muscles.json](./202669-beastly-muscles.json) |
 | Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
+| Beastly: Frantic Foto | 24371 | [24371-beastly-frantic-foto.json](./24371-beastly-frantic-foto.json) |
 | Beastmancer | 30346 | [30346-beastmancer.json](./30346-beastmancer.json) |
 | Beastmaster | 195378 | [195378-beastmaster.json](./195378-beastmaster.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
@@ -7789,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeyBlade: Fighting Tournament | 65706 | [65706-beyblade-fighting-tournament.json](./65706-beyblade-fighting-tournament.json) |
 | Beyblade: G-Revolution | 9726 | [9726-beyblade-g-revolution.json](./9726-beyblade-g-revolution.json) |
 | Beyblade: Let it Rip! | 4653 | [4653-beyblade-let-it-rip.json](./4653-beyblade-let-it-rip.json) |
+| Beyblade: Metal Fusion | 24315 | [24315-beyblade-metal-fusion.json](./24315-beyblade-metal-fusion.json) |
 | Beyblade: Metal Fusion - Battle Fortress | 50936 | [50936-beyblade-metal-fusion-battle-fortress.json](./50936-beyblade-metal-fusion-battle-fortress.json) |
 | Beyblade: Metal Fusion Cyber Pegasus | 48033 | [48033-beyblade-metal-fusion-cyber-pegasus.json](./48033-beyblade-metal-fusion-cyber-pegasus.json) |
 | Beyblade: Metal Masters | 60177 | [60177-beyblade-metal-masters.json](./60177-beyblade-metal-masters.json) |
@@ -18946,6 +18949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug!Ban!Break! | 390484 | [390484-bug-ban-break.json](./390484-bug-ban-break.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | Bug×Bug | 285389 | [285389-bug-bug.json](./285389-bug-bug.json) |
+| Bugaboo | 24380 | [24380-bugaboo.json](./24380-bugaboo.json) |
 | BugAboo | 391796 | [391796-bugaboo.json](./391796-bugaboo.json) |
 | Bugaboo Pocket | 198221 | [198221-bugaboo-pocket.json](./198221-bugaboo-pocket.json) |
 | BuGarden | 392302 | [392302-bugarden.json](./392302-bugarden.json) |
