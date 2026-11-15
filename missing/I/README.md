@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If it's for My Client, I'd Even Schedule a Demon Lord | 201442 | [201442-if-its-for-my-client-id-even-schedule-a-demon-lord.json](./201442-if-its-for-my-client-id-even-schedule-a-demon-lord.json) |
 | If Letters Had Pants, Would They Wear Them Like This? What About Numbers? What If They Had Small Shovels and They Dug Stuff Up to Put in a Museum? | 342925 | [342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json](./342925-if-letters-had-pants-would-they-wear-them-like-this-what-about-numbers-what-if-they-had-small-shovels-and-they-dug-stuff-up-to-put-in-a-museum.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
+| If My Heart Had Wings | 17906 | [17906-if-my-heart-had-wings.json](./17906-if-my-heart-had-wings.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
 | If My Heart Had Wings: Flight Diary | 110756 | [110756-if-my-heart-had-wings-flight-diary.json](./110756-if-my-heart-had-wings-flight-diary.json) |
 | If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
