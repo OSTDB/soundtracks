@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
 | Adam's Memories | 190889 | [190889-adams-memories.json](./190889-adams-memories.json) |
+| Adam's Venture Chronicles | 20756 | [20756-adams-venture-chronicles.json](./20756-adams-venture-chronicles.json) |
 | Adam's Venture Episode 1: The Search For The Lost Garden | 8181 | [8181-adams-venture-episode-1-the-search-for-the-lost-garden.json](./8181-adams-venture-episode-1-the-search-for-the-lost-garden.json) |
 | Adam's Venture Episode 2: Solomon's Secret | 8182 | [8182-adams-venture-episode-2-solomons-secret.json](./8182-adams-venture-episode-2-solomons-secret.json) |
 | Adam's Venture Episode 3: Revelations | 8183 | [8183-adams-venture-episode-3-revelations.json](./8183-adams-venture-episode-3-revelations.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Simulator | 306760 | [306760-airline-simulator.json](./306760-airline-simulator.json) |
 | Airline Technician | 155842 | [155842-airline-technician.json](./155842-airline-technician.json) |
 | Airline Tycoon | 9957 | [9957-airline-tycoon.json](./9957-airline-tycoon.json) |
+| Airline Tycoon 2 | 9958 | [9958-airline-tycoon-2.json](./9958-airline-tycoon-2.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold | 379524 | [379524-airline-tycoon-2-gold.json](./379524-airline-tycoon-2-gold.json) |
