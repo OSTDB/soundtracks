@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Grounds | 221923 | [221923-battle-grounds.json](./221923-battle-grounds.json) |
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Group | 26378 | [26378-battle-group.json](./26378-battle-group.json) |
+| Battle Group | 76005 | [76005-battle-group.json](./76005-battle-group.json) |
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
 | Battle Group Commander: Episode One | 59584 | [59584-battle-group-commander-episode-one.json](./59584-battle-group-commander-episode-one.json) |
 | Battle Guns Simulator | 149320 | [149320-battle-guns-simulator.json](./149320-battle-guns-simulator.json) |
