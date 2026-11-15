@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Fighter | 112243 | [112243-violent-fighter.json](./112243-violent-fighter.json) |
 | Violent Horror Stories 2 | 377849 | [377849-violent-horror-stories-2.json](./377849-violent-horror-stories-2.json) |
 | Violent Horror Stories: Anthology | 312120 | [312120-violent-horror-stories-anthology.json](./312120-violent-horror-stories-anthology.json) |
+| Violent killer VR | 29317 | [29317-violent-killer-vr.json](./29317-violent-killer-vr.json) |
 | Violent Rumble | 271541 | [271541-violent-rumble.json](./271541-violent-rumble.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
 | Violent Selection | 247868 | [247868-violent-selection.json](./247868-violent-selection.json) |
@@ -4281,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
 | VR Async Balls | 186832 | [186832-vr-async-balls.json](./186832-vr-async-balls.json) |
 | VR Atlantis Search: with Deep Diving | 157008 | [157008-vr-atlantis-search-with-deep-diving.json](./157008-vr-atlantis-search-with-deep-diving.json) |
+| VR Audio Visualizer | 29304 | [29304-vr-audio-visualizer.json](./29304-vr-audio-visualizer.json) |
 | VR Balloon Flying over Tokyo and Hokkaido | 154765 | [154765-vr-balloon-flying-over-tokyo-and-hokkaido.json](./154765-vr-balloon-flying-over-tokyo-and-hokkaido.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
