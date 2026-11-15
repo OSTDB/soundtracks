@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Resurrection | 1837 | [1837-painkiller-resurrection.json](./1837-painkiller-resurrection.json) |
 | Painkiller: Special Edition | 317426 | [317426-painkiller-special-edition.json](./317426-painkiller-special-edition.json) |
 | Painkiller++ | 362469 | [362469-painkiller.json](./362469-painkiller.json) |
+| Painless Cuts | 422720 | [422720-painless-cuts.json](./422720-painless-cuts.json) |
 | Pains 'n' Aches | 408480 | [408480-pains-n-aches.json](./408480-pains-n-aches.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
@@ -20496,6 +20497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Drop Carnival | 310616 | [310616-puzzle-drop-carnival.json](./310616-puzzle-drop-carnival.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle Dungeon!!: Earthmage Erin | 308334 | [308334-puzzle-dungeon-earthmage-erin.json](./308334-puzzle-dungeon-earthmage-erin.json) |
+| Puzzle Ecstasy | 422750 | [422750-puzzle-ecstasy.json](./422750-puzzle-ecstasy.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
 | Puzzle Express | 54274 | [54274-puzzle-express.json](./54274-puzzle-express.json) |
