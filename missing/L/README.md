@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: Dracula's Lair | 345371 | [345371-labyrinth-draculas-lair.json](./345371-labyrinth-draculas-lair.json) |
 | Labyrinth: Immortal Oblivion | 224601 | [224601-labyrinth-immortal-oblivion.json](./224601-labyrinth-immortal-oblivion.json) |
 | Labyrinth: Junior | 292912 | [292912-labyrinth-junior.json](./292912-labyrinth-junior.json) |
+| Labyrinth: Maou no Meikyuu | 65662 | [65662-labyrinth-maou-no-meikyuu.json](./65662-labyrinth-maou-no-meikyuu.json) |
 | Labyrinth: Roll of Fate | 309494 | [309494-labyrinth-roll-of-fate.json](./309494-labyrinth-roll-of-fate.json) |
 | Labyrinth: The Exit Is Closer | 143977 | [143977-labyrinth-the-exit-is-closer.json](./143977-labyrinth-the-exit-is-closer.json) |
 | Labyrinth: The War on Terror | 129983 | [129983-labyrinth-the-war-on-terror.json](./129983-labyrinth-the-war-on-terror.json) |
@@ -2860,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Edda | 66401 | [66401-legend-of-edda.json](./66401-legend-of-edda.json) |
 | Legend of Edda Brasil | 235639 | [235639-legend-of-edda-brasil.json](./235639-legend-of-edda-brasil.json) |
 | Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
+| Legend of Egypt 2 | 65651 | [65651-legend-of-egypt-2.json](./65651-legend-of-egypt-2.json) |
 | Legend of Egypt: Jewels of the Gods | 275970 | [275970-legend-of-egypt-jewels-of-the-gods.json](./275970-legend-of-egypt-jewels-of-the-gods.json) |
 | Legend of Egypt: Jewels of the Gods 2 | 184532 | [184532-legend-of-egypt-jewels-of-the-gods-2.json](./184532-legend-of-egypt-jewels-of-the-gods-2.json) |
 | Legend of Egypt: Pharaoh's Garden 2 - The Sacred Crocodile | 227100 | [227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
@@ -2959,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Ramen | 291550 | [291550-legend-of-ramen.json](./291550-legend-of-ramen.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
 | Legend of Roland | 39781 | [39781-legend-of-roland.json](./39781-legend-of-roland.json) |
+| Legend of Rome 2 | 65653 | [65653-legend-of-rome-2.json](./65653-legend-of-rome-2.json) |
 | Legend of Rome 2: The Magic Hourglass | 296488 | [296488-legend-of-rome-2-the-magic-hourglass.json](./296488-legend-of-rome-2-the-magic-hourglass.json) |
 | Legend of Rome: The Wrath of Mars | 199345 | [199345-legend-of-rome-the-wrath-of-mars.json](./199345-legend-of-rome-the-wrath-of-mars.json) |
 | Legend of Rune | 223858 | [223858-legend-of-rune.json](./223858-legend-of-rune.json) |
