@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T:ME Salvo | 308987 | [308987-t-me-salvo.json](./308987-t-me-salvo.json) |
 | T. B. P. | 156809 | [156809-t-b-p.json](./156809-t-b-p.json) |
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
+| T.A.C. Heroes: Big Red One | 24357 | [24357-t-a-c-heroes-big-red-one.json](./24357-t-a-c-heroes-big-red-one.json) |
 | T.A.L.E.S. | 265496 | [265496-t-a-l-e-s.json](./265496-t-a-l-e-s.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.A.R.S | 129330 | [129330-t-a-r-s.json](./129330-t-a-r-s.json) |
@@ -14690,6 +14691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Quest Pack: Where Dragons Dwell | 384539 | [384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json](./384539-the-lord-of-the-rings-online-quest-pack-where-dragons-dwell.json) |
 | The Lord of the Rings Online: Riders of Rohan | 19098 | [19098-the-lord-of-the-rings-online-riders-of-rohan.json](./19098-the-lord-of-the-rings-online-riders-of-rohan.json) |
 | The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
+| The Lord of the Rings Online: Rise of Isengard | 24290 | [24290-the-lord-of-the-rings-online-rise-of-isengard.json](./24290-the-lord-of-the-rings-online-rise-of-isengard.json) |
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings Pinball | 353605 | [353605-the-lord-of-the-rings-pinball.json](./353605-the-lord-of-the-rings-pinball.json) |
@@ -25758,6 +25760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Belong | 271854 | [271854-time-to-belong.json](./271854-time-to-belong.json) |
 | Time to Die | 379802 | [379802-time-to-die.json](./379802-time-to-die.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
+| Time to Dodge | 24068 | [24068-time-to-dodge.json](./24068-time-to-dodge.json) |
 | Time to Escape | 288605 | [288605-time-to-escape.json](./288605-time-to-escape.json) |
 | Time to Feed | 184691 | [184691-time-to-feed.json](./184691-time-to-feed.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
@@ -28602,6 +28605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun | 218925 | [218925-top-gun.json](./218925-top-gun.json) |
+| Top Gun | 22913 | [22913-top-gun.json](./22913-top-gun.json) |
 | Top Gun Air Combat | 147123 | [147123-top-gun-air-combat.json](./147123-top-gun-air-combat.json) |
 | Top Gun Air Combat: Extended | 283835 | [283835-top-gun-air-combat-extended.json](./283835-top-gun-air-combat-extended.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
@@ -28613,6 +28617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Fire at Will! | 44990 | [44990-top-gun-fire-at-will.json](./44990-top-gun-fire-at-will.json) |
 | Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
+| Top Gun: Guts and Glory | 22914 | [22914-top-gun-guts-and-glory.json](./22914-top-gun-guts-and-glory.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Gun: Maverick | 214804 | [214804-top-gun-maverick.json](./214804-top-gun-maverick.json) |
@@ -37055,6 +37060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Stick Tennis | 244689 | [244689-twin-stick-tennis.json](./244689-twin-stick-tennis.json) |
 | Twin Stones: The Journey of Bukka | 153729 | [153729-twin-stones-the-journey-of-bukka.json](./153729-twin-stones-the-journey-of-bukka.json) |
+| Twin Strike: Operation Thunder | 24296 | [24296-twin-strike-operation-thunder.json](./24296-twin-strike-operation-thunder.json) |
 | Twin Synth | 109845 | [109845-twin-synth.json](./109845-twin-synth.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Towers 3D | 232291 | [232291-twin-towers-3d.json](./232291-twin-towers-3d.json) |
