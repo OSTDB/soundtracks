@@ -16875,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
+| Pro Mahjong Kiwame for WonderSwan | 37459 | [37459-pro-mahjong-kiwame-for-wonderswan.json](./37459-pro-mahjong-kiwame-for-wonderswan.json) |
 | Pro Mahjong Kiwame GB | 65033 | [65033-pro-mahjong-kiwame-gb.json](./65033-pro-mahjong-kiwame-gb.json) |
 | Pro Mahjong Kiwame GB II | 97878 | [97878-pro-mahjong-kiwame-gb-ii.json](./97878-pro-mahjong-kiwame-gb-ii.json) |
 | Pro Mahjong Kiwame II | 37875 | [37875-pro-mahjong-kiwame-ii.json](./37875-pro-mahjong-kiwame-ii.json) |
@@ -17805,6 +17806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Madras | 283567 | [283567-project-madras.json](./283567-project-madras.json) |
 | Project Makeover | 191772 | [191772-project-makeover.json](./191772-project-makeover.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
+| Project Mallow | 37416 | [37416-project-mallow.json](./37416-project-mallow.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project Maverick | 267873 | [267873-project-maverick.json](./267873-project-maverick.json) |
@@ -18078,6 +18080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tal | 375111 | [375111-project-tal.json](./375111-project-tal.json) |
 | Project Tank | 84065 | [84065-project-tank.json](./84065-project-tank.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
+| Project Taurus | 37431 | [37431-project-taurus.json](./37431-project-taurus.json) |
 | Project TB | 275989 | [275989-project-tb.json](./275989-project-tb.json) |
 | Project Teddy | 251922 | [251922-project-teddy.json](./251922-project-teddy.json) |
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
