@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
 | Lighter Than AR | 96460 | [96460-lighter-than-ar.json](./96460-lighter-than-ar.json) |
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
+| Lightfield | 27403 | [27403-lightfield.json](./27403-lightfield.json) |
 | Lightfield Hyper Edition | 118577 | [118577-lightfield-hyper-edition.json](./118577-lightfield-hyper-edition.json) |
 | Lightfield: Kartridge Edition | 186350 | [186350-lightfield-kartridge-edition.json](./186350-lightfield-kartridge-edition.json) |
 | Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
