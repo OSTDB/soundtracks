@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Ultimate Edition | 99950 | [99950-far-cry-3-ultimate-edition.json](./99950-far-cry-3-ultimate-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
+| Far Cry 4 + Far Cry 5 Double Pack | 424532 | [424532-far-cry-4-far-cry-5-double-pack.json](./424532-far-cry-4-far-cry-5-double-pack.json) |
 | Far Cry 4 + Far Cry Primal Double Pack | 136307 | [136307-far-cry-4-far-cry-primal-double-pack.json](./136307-far-cry-4-far-cry-primal-double-pack.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
 | Far Cry 4: Arcade Poker | 60379 | [60379-far-cry-4-arcade-poker.json](./60379-far-cry-4-arcade-poker.json) |
@@ -8050,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five-element Seal: Infinity | 309523 | [309523-five-element-seal-infinity.json](./309523-five-element-seal-infinity.json) |
 | Five-Finger Gunslinger | 155682 | [155682-five-finger-gunslinger.json](./155682-five-finger-gunslinger.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
+| Five-Star Courier and the Fog That Reeks of Death | 424576 | [424576-five-star-courier-and-the-fog-that-reeks-of-death.json](./424576-five-star-courier-and-the-fog-that-reeks-of-death.json) |
 | Five-Star: Chef Ops | 279901 | [279901-five-star-chef-ops.json](./279901-five-star-chef-ops.json) |
 | Five: Champions of Canaan | 32324 | [32324-five-champions-of-canaan.json](./32324-five-champions-of-canaan.json) |
 | Five: Esports Manager Game | 199957 | [199957-five-esports-manager-game.json](./199957-five-esports-manager-game.json) |
@@ -9258,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
 | Flora's Fruit Farm | 16047 | [16047-floras-fruit-farm.json](./16047-floras-fruit-farm.json) |
+| Flora's World | 424547 | [424547-floras-world.json](./424547-floras-world.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
 | Florafarm | 428119 | [428119-florafarm.json](./428119-florafarm.json) |
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
@@ -10199,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodfight! | 225838 | [225838-foodfight.json](./225838-foodfight.json) |
 | Foodfight! | 248834 | [248834-foodfight.json](./248834-foodfight.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
+| Foodgitives | 424557 | [424557-foodgitives.json](./424557-foodgitives.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
