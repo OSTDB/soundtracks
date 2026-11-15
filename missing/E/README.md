@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggball.io | 426019 | [426019-eggball-io.json](./426019-eggball-io.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
 | Eggbird | 402330 | [402330-eggbird.json](./402330-eggbird.json) |
+| Eggcelerate! | 142794 | [142794-eggcelerate.json](./142794-eggcelerate.json) |
 | Eggcelerate! to the North Pole | 234225 | [234225-eggcelerate-to-the-north-pole.json](./234225-eggcelerate-to-the-north-pole.json) |
 | Eggcellent Life | 341754 | [341754-eggcellent-life.json](./341754-eggcellent-life.json) |
 | Eggcellent VR | 113187 | [113187-eggcellent-vr.json](./113187-eggcellent-vr.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclid's Nightmare | 277094 | [277094-euclids-nightmare.json](./277094-euclids-nightmare.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
+| Euclidean Lands | 26708 | [26708-euclidean-lands.json](./26708-euclidean-lands.json) |
 | Euclidean Skies | 114482 | [114482-euclidean-skies.json](./114482-euclidean-skies.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
