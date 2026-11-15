@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Boat Simulator | 256029 | [256029-race-boat-simulator.json](./256029-race-boat-simulator.json) |
 | Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
 | Race Car! | 99263 | [99263-race-car.json](./99263-race-car.json) |
+| Race City | 72214 | [72214-race-city.json](./72214-race-city.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
 | Race Day | 251331 | [251331-race-day.json](./251331-race-day.json) |
@@ -3712,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
 | Reapertom | 217130 | [217130-reapertom.json](./217130-reapertom.json) |
 | Reaping Rewards | 41143 | [41143-reaping-rewards.json](./41143-reaping-rewards.json) |
+| Reaping the Dungeon | 72188 | [72188-reaping-the-dungeon.json](./72188-reaping-the-dungeon.json) |
 | Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
 | Reappearance of a Stopped Clock | 398184 | [398184-reappearance-of-a-stopped-clock.json](./398184-reappearance-of-a-stopped-clock.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
@@ -4572,7 +4574,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
-| Red Wings: Aces of the Sky | 121768 | [121768-red-wings-aces-of-the-sky.json](./121768-red-wings-aces-of-the-sky.json) |
 | Red Wings: Aces of the Sky - Baron Edition | 146165 | [146165-red-wings-aces-of-the-sky-baron-edition.json](./146165-red-wings-aces-of-the-sky-baron-edition.json) |
 | Red Wings: American Aces | 172813 | [172813-red-wings-american-aces.json](./172813-red-wings-american-aces.json) |
 | Red Wings: American Aces - Heavy Metal | 199891 | [199891-red-wings-american-aces-heavy-metal.json](./199891-red-wings-american-aces-heavy-metal.json) |
@@ -11700,6 +11701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Star | 329235 | [329235-rolling-star.json](./329235-rolling-star.json) |
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
 | Rolling Stock | 414001 | [414001-rolling-stock.json](./414001-rolling-stock.json) |
+| Rolling Stones Voodoo Lounge CD-ROM | 71100 | [71100-rolling-stones-voodoo-lounge-cd-rom.json](./71100-rolling-stones-voodoo-lounge-cd-rom.json) |
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 219018 | [219018-rolling-thunder.json](./219018-rolling-thunder.json) |
 | Rolling Thunder 2 | 18401 | [18401-rolling-thunder-2.json](./18401-rolling-thunder-2.json) |
@@ -13938,7 +13940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runerod | 61988 | [61988-runerod.json](./61988-runerod.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
-| Runers | 10801 | [10801-runers.json](./10801-runers.json) |
 | Runes | 270921 | [270921-runes.json](./270921-runes.json) |
 | Runes | 82009 | [82009-runes.json](./82009-runes.json) |
 | Runes & Revenue | 392069 | [392069-runes-and-revenue.json](./392069-runes-and-revenue.json) |
