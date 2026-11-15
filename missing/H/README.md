@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Corps: Uprising | 21174 | [21174-hard-corps-uprising.json](./21174-hard-corps-uprising.json) |
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
+| Hard Depot | 428125 | [428125-hard-depot.json](./428125-hard-depot.json) |
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
 | Hard Driven | 309276 | [309276-hard-driven.json](./309276-hard-driven.json) |
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
@@ -3926,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts Gone Black | 410042 | [410042-hearts-gone-black.json](./410042-hearts-gone-black.json) |
+| Hearts in Open Water | 428122 | [428122-hearts-in-open-water.json](./428122-hearts-in-open-water.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
 | Hearts in Sirence | 298972 | [298972-hearts-in-sirence.json](./298972-hearts-in-sirence.json) |
 | Hearts Like Clockwork | 184331 | [184331-hearts-like-clockwork.json](./184331-hearts-like-clockwork.json) |
@@ -9927,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
 | Hold.for.Humans | 348478 | [348478-hold-for-humans.json](./348478-hold-for-humans.json) |
+| Hold'em Fold'em Poker | 428148 | [428148-holdem-foldem-poker.json](./428148-holdem-foldem-poker.json) |
 | Holder of Place | 344142 | [344142-holder-of-place.json](./344142-holder-of-place.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
