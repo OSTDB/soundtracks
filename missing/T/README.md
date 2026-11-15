@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Soccer | 33239 | [33239-tabletop-soccer.json](./33239-tabletop-soccer.json) |
 | TableTop Soccer: Redux | 280253 | [280253-tabletop-soccer-redux.json](./280253-tabletop-soccer-redux.json) |
 | Tabletop Speed | 235123 | [235123-tabletop-speed.json](./235123-tabletop-speed.json) |
+| Tabletop Survivors | 423358 | [423358-tabletop-survivors.json](./423358-tabletop-survivors.json) |
 | Tabletop Tavern | 373282 | [373282-tabletop-tavern.json](./373282-tabletop-tavern.json) |
 | Tabletop Towers | 95778 | [95778-tabletop-towers.json](./95778-tabletop-towers.json) |
 | Tabletop Warriors | 190884 | [190884-tabletop-warriors.json](./190884-tabletop-warriors.json) |
@@ -9369,6 +9370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Divergent Series: Allegiant VR | 33368 | [33368-the-divergent-series-allegiant-vr.json](./33368-the-divergent-series-allegiant-vr.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
 | The Divide: Enemies Within | 8940 | [8940-the-divide-enemies-within.json](./8940-the-divide-enemies-within.json) |
+| The Divided | 423316 | [423316-the-divided.json](./423316-the-divided.json) |
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
 | The Divine Deception | 184533 | [184533-the-divine-deception.json](./184533-the-divine-deception.json) |
 | The Divine Invasion | 148689 | [148689-the-divine-invasion.json](./148689-the-divine-invasion.json) |
@@ -10492,6 +10494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Quadrant | 14064 | [14064-the-fifth-quadrant.json](./14064-the-fifth-quadrant.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
+| The Fight for Beardlandia | 423330 | [423330-the-fight-for-beardlandia.json](./423330-the-fight-for-beardlandia.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight Of Escaper | 370032 | [370032-the-fight-of-escaper.json](./370032-the-fight-of-escaper.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
@@ -11576,6 +11579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Greatest Hero | 28459 | [28459-the-greatest-hero.json](./28459-the-greatest-hero.json) |
 | The Greatest Penguin Heist of All Time | 154732 | [154732-the-greatest-penguin-heist-of-all-time.json](./154732-the-greatest-penguin-heist-of-all-time.json) |
+| The Greatest Sect Master | 423315 | [423315-the-greatest-sect-master.json](./423315-the-greatest-sect-master.json) |
 | The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
 | The Greedy Cave | 102467 | [102467-the-greedy-cave.json](./102467-the-greedy-cave.json) |
 | The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
@@ -21938,6 +21942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theory | 383893 | [383893-theory.json](./383893-theory.json) |
 | Theory of Fear | 29225 | [29225-theory-of-fear.json](./29225-theory-of-fear.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
+| Theory Works: Your Friends Don’t | 423198 | [423198-theory-works-your-friends-don-t.json](./423198-theory-works-your-friends-don-t.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
 | TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
 | ThePaindog's BattleChat | 131145 | [131145-thepaindogs-battlechat.json](./131145-thepaindogs-battlechat.json) |
