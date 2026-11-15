@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of the Underdogs | 245987 | [245987-castle-of-the-underdogs.json](./245987-castle-of-the-underdogs.json) |
 | Castle of the Winds | 14446 | [14446-castle-of-the-winds.json](./14446-castle-of-the-winds.json) |
 | Castle of the Winds 2 | 14447 | [14447-castle-of-the-winds-2.json](./14447-castle-of-the-winds-2.json) |
+| Castle of the Zephyr | 426384 | [426384-castle-of-the-zephyr.json](./426384-castle-of-the-zephyr.json) |
 | Castle of Venia | 108423 | [108423-castle-of-venia.json](./108423-castle-of-venia.json) |
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
@@ -8540,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Ink Painting Puzzle & Creator | 83996 | [83996-chinese-ink-painting-puzzle-and-creator.json](./83996-chinese-ink-painting-puzzle-and-creator.json) |
 | Chinese inn | 76683 | [76683-chinese-inn.json](./76683-chinese-inn.json) |
 | Chinese Inn | 109200 | [109200-chinese-inn.json](./109200-chinese-inn.json) |
+| Chinese Jirai Onna | 426360 | [426360-chinese-jirai-onna.json](./426360-chinese-jirai-onna.json) |
 | Chinese Juggler | 13830 | [13830-chinese-juggler.json](./13830-chinese-juggler.json) |
 | Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
 | Chinese Logic | 41550 | [41550-chinese-logic.json](./41550-chinese-logic.json) |
@@ -11520,6 +11522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Click Bomb | 335225 | [335225-click-click-bomb.json](./335225-click-click-bomb.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Click Dig: Idle Mine | 303418 | [303418-click-click-dig-idle-mine.json](./303418-click-click-dig-idle-mine.json) |
+| Click Clock | 426389 | [426389-click-clock.json](./426389-click-clock.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
 | Click Commander | 120000 | [120000-click-commander.json](./120000-click-commander.json) |
 | Click Cricket | 277455 | [277455-click-cricket.json](./277455-click-cricket.json) |
@@ -12701,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code of War | 89730 | [89730-code-of-war.json](./89730-code-of-war.json) |
 | Code One Dispatch | 386315 | [386315-code-one-dispatch.json](./386315-code-one-dispatch.json) |
+| Code Origin | 426363 | [426363-code-origin.json](./426363-code-origin.json) |
 | Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
 | Code R.U.B.I.K. | 231169 | [231169-code-r-u-b-i-k.json](./231169-code-r-u-b-i-k.json) |
@@ -22787,6 +22791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute War: Zero | 86740 | [86740-cute-war-zero.json](./86740-cute-war-zero.json) |
 | Cute Warrior Girl | 369352 | [369352-cute-warrior-girl.json](./369352-cute-warrior-girl.json) |
 | Cute Warrior Girl 2 | 369536 | [369536-cute-warrior-girl-2.json](./369536-cute-warrior-girl-2.json) |
+| Cute Warrior Girl 3 | 426361 | [426361-cute-warrior-girl-3.json](./426361-cute-warrior-girl-3.json) |
 | Cute Witch! Runner | 85058 | [85058-cute-witch-runner.json](./85058-cute-witch-runner.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
