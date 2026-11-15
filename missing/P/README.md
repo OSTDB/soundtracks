@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
 | Panel Flux | 269112 | [269112-panel-flux.json](./269112-panel-flux.json) |
 | Panel no Ninja Kesamaru | 305208 | [305208-panel-no-ninja-kesamaru.json](./305208-panel-no-ninja-kesamaru.json) |
+| Panel Panic | 72193 | [72193-panel-panic.json](./72193-panel-panic.json) |
 | Panel Quiz Attack 25 | 200419 | [200419-panel-quiz-attack-25.json](./200419-panel-quiz-attack-25.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panel Room | 392688 | [392688-panel-room.json](./392688-panel-room.json) |
@@ -5475,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete | 409638 | [409638-pete.json](./409638-pete.json) |
 | Pete Rose Baseball | 117320 | [117320-pete-rose-baseball.json](./117320-pete-rose-baseball.json) |
 | Pete Rose Baseball | 40623 | [40623-pete-rose-baseball.json](./40623-pete-rose-baseball.json) |
+| Pete Rose Pennant Fever | 72205 | [72205-pete-rose-pennant-fever.json](./72205-pete-rose-pennant-fever.json) |
 | Pete Sampras Tennis | 368901 | [368901-pete-sampras-tennis.json](./368901-pete-sampras-tennis.json) |
 | Pete Sampras Tennis | 4434 | [4434-pete-sampras-tennis.json](./4434-pete-sampras-tennis.json) |
 | Pete Sampras Tennis 96 | 70943 | [70943-pete-sampras-tennis-96.json](./70943-pete-sampras-tennis-96.json) |
@@ -9464,7 +9466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Retro Drift: Arcade Car Racing | 312076 | [312076-pixel-retro-drift-arcade-car-racing.json](./312076-pixel-retro-drift-arcade-car-racing.json) |
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
-| Pixel Ripped 1995 | 119336 | [119336-pixel-ripped-1995.json](./119336-pixel-ripped-1995.json) |
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Ronin | 363323 | [363323-pixel-ronin.json](./363323-pixel-ronin.json) |
@@ -14958,6 +14959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Fighters | 79832 | [79832-power-fighters.json](./79832-power-fighters.json) |
 | Power Fishing | 402047 | [402047-power-fishing.json](./402047-power-fishing.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
+| Power Game III | 72186 | [72186-power-game-iii.json](./72186-power-game-iii.json) |
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
 | Power Golf | 42100 | [42100-power-golf.json](./42100-power-golf.json) |
