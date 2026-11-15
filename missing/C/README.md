@@ -7150,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase the Sun 3D | 244814 | [244814-chase-the-sun-3d.json](./244814-chase-the-sun-3d.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Cold Case Investigations - Distant Memories | 25039 | [25039-chase-cold-case-investigations-distant-memories.json](./25039-chase-cold-case-investigations-distant-memories.json) |
+| Chase: Distant Memories | 104781 | [104781-chase-distant-memories.json](./104781-chase-distant-memories.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
@@ -15053,6 +15054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
 | Conception II: Children of the Seven Stars | 4701 | [4701-conception-ii-children-of-the-seven-stars.json](./4701-conception-ii-children-of-the-seven-stars.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
+| Conception Plus: Maidens of the Twelve Stars | 121227 | [121227-conception-plus-maidens-of-the-twelve-stars.json](./121227-conception-plus-maidens-of-the-twelve-stars.json) |
 | Conception: Ore no Kodomo wo Undekure! | 4702 | [4702-conception-ore-no-kodomo-wo-undekure.json](./4702-conception-ore-no-kodomo-wo-undekure.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
@@ -16217,6 +16219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Combo Pack Volume 1 | 56335 | [56335-cooking-mama-world-combo-pack-volume-1.json](./56335-cooking-mama-world-combo-pack-volume-1.json) |
 | Cooking Mama World: Combo Pack Volume 2 | 56332 | [56332-cooking-mama-world-combo-pack-volume-2.json](./56332-cooking-mama-world-combo-pack-volume-2.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
+| Cooking Mama: Cookstar | 121516 | [121516-cooking-mama-cookstar.json](./121516-cooking-mama-cookstar.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
 | Cooking Mama: Sweet Shop | 27190 | [27190-cooking-mama-sweet-shop.json](./27190-cooking-mama-sweet-shop.json) |
@@ -20311,6 +20314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
 | Crossroad Crash | 178777 | [178777-crossroad-crash.json](./178777-crossroad-crash.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
+| Crossroad Mysteries: The Broken Deal | 56687 | [56687-crossroad-mysteries-the-broken-deal.json](./56687-crossroad-mysteries-the-broken-deal.json) |
 | Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
 | Crossroad of Worlds: 100 Doors - Collector's Edition | 215516 | [215516-crossroad-of-worlds-100-doors-collectors-edition.json](./215516-crossroad-of-worlds-100-doors-collectors-edition.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
