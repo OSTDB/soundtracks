@@ -4919,7 +4919,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whipped and Steamy: Cosplay Café | 134807 | [134807-whipped-and-steamy-cosplay-cafe.json](./134807-whipped-and-steamy-cosplay-cafe.json) |
 | Whippet At Large | 395728 | [395728-whippet-at-large.json](./395728-whippet-at-large.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
-| Whipseey and the Lost Atlas | 117311 | [117311-whipseey-and-the-lost-atlas.json](./117311-whipseey-and-the-lost-atlas.json) |
 | Whirl Tour | 4233 | [4233-whirl-tour.json](./4233-whirl-tour.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlibird | 134733 | [134733-whirlibird.json](./134733-whirlibird.json) |
