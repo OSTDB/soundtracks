@@ -12212,6 +12212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club | 347555 | [347555-club.json](./347555-club.json) |
 | Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
+| Club Bear | 425792 | [425792-club-bear.json](./425792-club-bear.json) |
 | Club Boss | 264962 | [264962-club-boss.json](./264962-club-boss.json) |
 | Club Caribe | 92227 | [92227-club-caribe.json](./92227-club-caribe.json) |
 | Club Dance Party VR | 100455 | [100455-club-dance-party-vr.json](./100455-club-dance-party-vr.json) |
@@ -12803,6 +12804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Desperado | 413848 | [413848-codename-desperado.json](./413848-codename-desperado.json) |
 | Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
+| Codename Engine | 425781 | [425781-codename-engine.json](./425781-codename-engine.json) |
 | Codename Ghost Hunt | 107716 | [107716-codename-ghost-hunt.json](./107716-codename-ghost-hunt.json) |
 | Codename Incubus | 270492 | [270492-codename-incubus.json](./270492-codename-incubus.json) |
 | Codename Jin Yiwei | 247379 | [247379-codename-jin-yiwei.json](./247379-codename-jin-yiwei.json) |
