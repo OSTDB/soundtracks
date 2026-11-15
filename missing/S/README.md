@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
 | Salad Bar Tycoon: Premium Edition | 238107 | [238107-salad-bar-tycoon-premium-edition.json](./238107-salad-bar-tycoon-premium-edition.json) |
 | Salad Fields | 122820 | [122820-salad-fields.json](./122820-salad-fields.json) |
+| Salad Fingers: Where's May Gone | 58952 | [58952-salad-fingers-wheres-may-gone.json](./58952-salad-fingers-wheres-may-gone.json) |
 | Salad Hunt | 105454 | [105454-salad-hunt.json](./105454-salad-hunt.json) |
 | Salagander | 181222 | [181222-salagander.json](./181222-salagander.json) |
 | Salamander | 1477 | [1477-salamander.json](./1477-salamander.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Shuffle | 258058 | [258058-secret-shuffle.json](./258058-secret-shuffle.json) |
 | Secret Some | 398756 | [398756-secret-some.json](./398756-secret-some.json) |
+| Secret Sorrow of the Siblings | 58980 | [58980-secret-sorrow-of-the-siblings.json](./58980-secret-sorrow-of-the-siblings.json) |
 | Secret Spaces | 136553 | [136553-secret-spaces.json](./136553-secret-spaces.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Squonker | 407087 | [407087-secret-squonker.json](./407087-secret-squonker.json) |
@@ -5797,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
 | Seismic Ventures | 313374 | [313374-seismic-ventures.json](./313374-seismic-ventures.json) |
+| Seiso Bitch na Hitozuma Haruka-san to no Musabori Koubi Nisshi | 58977 | [58977-seiso-bitch-na-hitozuma-haruka-san-to-no-musabori-koubi-nisshi.json](./58977-seiso-bitch-na-hitozuma-haruka-san-to-no-musabori-koubi-nisshi.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
 | Seisou no Amazones | 47649 | [47649-seisou-no-amazones.json](./47649-seisou-no-amazones.json) |
 | Seiteki na Ijime Desu ka? Iie, Gohoubi Desu! Gakuen no Idol-tachi ni Niku Vibe Atsukai de Sukikatte Seieki o Shiboritorareru Seikatsu | 59021 | [59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json](./59021-seiteki-na-ijime-desu-ka-iie-gohoubi-desu-gakuen-no-idol-tachi-ni-niku-vibe-atsukai-de-sukikatte-seieki-o-shiboritorareru-seikatsu.json) |
@@ -7195,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
+| Sexy Demon Transformation! | 58979 | [58979-sexy-demon-transformation.json](./58979-sexy-demon-transformation.json) |
 | Sexy Dream Girl: Puzzle | 384872 | [384872-sexy-dream-girl-puzzle.json](./384872-sexy-dream-girl-puzzle.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
@@ -25819,6 +25823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
+| Spyjinx | 59531 | [59531-spyjinx.json](./59531-spyjinx.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | SpyLeaks | 63057 | [63057-spyleaks.json](./63057-spyleaks.json) |
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
@@ -33964,6 +33969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Airline Tycoon | 346520 | [346520-super-airline-tycoon.json](./346520-super-airline-tycoon.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
+| Super Albatross | 59533 | [59533-super-albatross.json](./59533-super-albatross.json) |
 | Super Ale Bros. Redux | 368161 | [368161-super-ale-bros-redux.json](./368161-super-ale-bros-redux.json) |
 | Super Aleste | 295441 | [295441-super-aleste.json](./295441-super-aleste.json) |
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
@@ -39339,6 +39345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
+| Swing Copters 2 | 58984 | [58984-swing-copters-2.json](./58984-swing-copters-2.json) |
 | Swing dungeon | 161326 | [161326-swing-dungeon.json](./161326-swing-dungeon.json) |
 | Swing Dunk | 128908 | [128908-swing-dunk.json](./128908-swing-dunk.json) |
 | Swing Fall | 246483 | [246483-swing-fall.json](./246483-swing-fall.json) |
