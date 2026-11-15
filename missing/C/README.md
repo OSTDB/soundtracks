@@ -10551,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
 | City of Heroes: Architect Edition | 286710 | [286710-city-of-heroes-architect-edition.json](./286710-city-of-heroes-architect-edition.json) |
 | City of Heroes: Freedom | 24368 | [24368-city-of-heroes-freedom.json](./24368-city-of-heroes-freedom.json) |
+| City of Heroes: Going Rogue | 20458 | [20458-city-of-heroes-going-rogue.json](./20458-city-of-heroes-going-rogue.json) |
 | City of Heroes: Homecoming | 281858 | [281858-city-of-heroes-homecoming.json](./281858-city-of-heroes-homecoming.json) |
 | City of Hope | 165800 | [165800-city-of-hope.json](./165800-city-of-hope.json) |
 | City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
