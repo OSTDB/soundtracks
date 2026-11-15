@@ -4676,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
 | Seablip | 144811 | [144811-seablip.json](./144811-seablip.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
+| Seabun | 424542 | [424542-seabun.json](./424542-seabun.json) |
 | Seaburn | 301801 | [301801-seaburn.json](./301801-seaburn.json) |
 | SeaColony | 415067 | [415067-seacolony.json](./415067-seacolony.json) |
 | Seacorp Technologies | 108903 | [108903-seacorp-technologies.json](./108903-seacorp-technologies.json) |
@@ -13253,6 +13254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Situation Tarfu | 249599 | [249599-situation-tarfu.json](./249599-situation-tarfu.json) |
 | SituationCovid | 149416 | [149416-situationcovid.json](./149416-situationcovid.json) |
 | Sity | 202332 | [202332-sity.json](./202332-sity.json) |
+| Sivers | 424560 | [424560-sivers.json](./424560-sivers.json) |
 | Sivi's Factory | 322061 | [322061-sivis-factory.json](./322061-sivis-factory.json) |
 | SiviCity | 25608 | [25608-sivicity.json](./25608-sivicity.json) |
 | Six | 60012 | [60012-six.json](./60012-six.json) |
@@ -14022,6 +14024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullduggery! | 61227 | [61227-skullduggery.json](./61227-skullduggery.json) |
+| Skullf! | 424569 | [424569-skullf.json](./424569-skullf.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullfracture | 179268 | [179268-skullfracture.json](./179268-skullfracture.json) |
 | Skullgirls | 9425 | [9425-skullgirls.json](./9425-skullgirls.json) |
@@ -22181,6 +22184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Inversion | 260762 | [260762-space-inversion.json](./260762-space-inversion.json) |
 | Space Inversion 2 HD | 174313 | [174313-space-inversion-2-hd.json](./174313-space-inversion-2-hd.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
+| Space Is Crazy | 424554 | [424554-space-is-crazy.json](./424554-space-is-crazy.json) |
 | Space is Hard | 198296 | [198296-space-is-hard.json](./198296-space-is-hard.json) |
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
 | Space is Key 2 | 378508 | [378508-space-is-key-2.json](./378508-space-is-key-2.json) |
