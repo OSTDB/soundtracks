@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
+| PactSworn | 423927 | [423927-pactsworn.json](./423927-pactsworn.json) |
 | Pactum + Episode 1 | 243532 | [243532-pactum-episode-1.json](./243532-pactum-episode-1.json) |
 | Pactus | 216382 | [216382-pactus.json](./216382-pactus.json) |
 | Pacula's Curse | 141478 | [141478-paculas-curse.json](./141478-paculas-curse.json) |
@@ -4657,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penn and Teller VR: Frankly Unfair, Unkind, Unnecessary & Underhanded | 116683 | [116683-penn-and-teller-vr-frankly-unfair-unkind-unnecessary-and-underhanded.json](./116683-penn-and-teller-vr-frankly-unfair-unkind-unnecessary-and-underhanded.json) |
 | Penn Guiny | 316369 | [316369-penn-guiny.json](./316369-penn-guiny.json) |
 | Penn Guiny's Lightmare | 421278 | [421278-penn-guinys-lightmare.json](./421278-penn-guinys-lightmare.json) |
+| Pennants of Glory: Condottiere | 423981 | [423981-pennants-of-glory-condottiere.json](./423981-pennants-of-glory-condottiere.json) |
 | Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
 | Penniless Chef | 384145 | [384145-penniless-chef.json](./384145-penniless-chef.json) |
