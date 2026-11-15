@@ -14386,7 +14386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonkheads | 69111 | [69111-bonkheads.json](./69111-bonkheads.json) |
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
 | Bonki D Bonk | 410515 | [410515-bonki-d-bonk.json](./410515-bonki-d-bonk.json) |
-| Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
 | Bonnie Bear Saves Frogtime | 258654 | [258654-bonnie-bear-saves-frogtime.json](./258654-bonnie-bear-saves-frogtime.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
