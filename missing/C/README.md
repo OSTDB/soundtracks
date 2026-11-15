@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
+| Call of Duty: Advanced Warfare - Atlas Gorge Multiplayer Map | 26046 | [26046-call-of-duty-advanced-warfare-atlas-gorge-multiplayer-map.json](./26046-call-of-duty-advanced-warfare-atlas-gorge-multiplayer-map.json) |
 | Call of Duty: Advanced Warfare - Atlas Limited Edition | 136290 | [136290-call-of-duty-advanced-warfare-atlas-limited-edition.json](./136290-call-of-duty-advanced-warfare-atlas-limited-edition.json) |
 | Call of Duty: Advanced Warfare - Atlas Pro Edition | 102718 | [102718-call-of-duty-advanced-warfare-atlas-pro-edition.json](./102718-call-of-duty-advanced-warfare-atlas-pro-edition.json) |
 | Call of Duty: Advanced Warfare - Australia Exoskeleton Pack | 26049 | [26049-call-of-duty-advanced-warfare-australia-exoskeleton-pack.json](./26049-call-of-duty-advanced-warfare-australia-exoskeleton-pack.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Creature Personalization Pack | 26052 | [26052-call-of-duty-advanced-warfare-creature-personalization-pack.json](./26052-call-of-duty-advanced-warfare-creature-personalization-pack.json) |
 | Call of Duty: Advanced Warfare - Creature Premium Personalization Pack | 26066 | [26066-call-of-duty-advanced-warfare-creature-premium-personalization-pack.json](./26066-call-of-duty-advanced-warfare-creature-premium-personalization-pack.json) |
 | Call of Duty: Advanced Warfare - Day Zero Edition | 261088 | [261088-call-of-duty-advanced-warfare-day-zero-edition.json](./261088-call-of-duty-advanced-warfare-day-zero-edition.json) |
+| Call of Duty: Advanced Warfare - Digital Edition Personalization Pack | 26048 | [26048-call-of-duty-advanced-warfare-digital-edition-personalization-pack.json](./26048-call-of-duty-advanced-warfare-digital-edition-personalization-pack.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - France Exoskeleton Pack | 26053 | [26053-call-of-duty-advanced-warfare-france-exoskeleton-pack.json](./26053-call-of-duty-advanced-warfare-france-exoskeleton-pack.json) |
 | Call of Duty: Advanced Warfare - Germany Exoskeleton Pack | 26054 | [26054-call-of-duty-advanced-warfare-germany-exoskeleton-pack.json](./26054-call-of-duty-advanced-warfare-germany-exoskeleton-pack.json) |
@@ -4112,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami Trilogy | 405624 | [405624-castle-of-shikigami-trilogy.json](./405624-castle-of-shikigami-trilogy.json) |
 | Castle of Shikigami: Evolution | 174166 | [174166-castle-of-shikigami-evolution.json](./174166-castle-of-shikigami-evolution.json) |
 | Castle of Spirits | 41171 | [41171-castle-of-spirits.json](./41171-castle-of-spirits.json) |
+| Castle of Terror | 25999 | [25999-castle-of-terror.json](./25999-castle-of-terror.json) |
 | Castle of the Countess | 343682 | [343682-castle-of-the-countess.json](./343682-castle-of-the-countess.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
