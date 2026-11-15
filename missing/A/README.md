@@ -6877,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | AKB1/48: Idol to Guam to Koishitara... | 64710 | [64710-akb1-48-idol-to-guam-to-koishitara.json](./64710-akb1-48-idol-to-guam-to-koishitara.json) |
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
+| AKB48 Group Tsuini Koshiki-on Ge Demashita | 57851 | [57851-akb48-group-tsuini-koshiki-on-ge-demashita.json](./57851-akb48-group-tsuini-koshiki-on-ge-demashita.json) |
 | AKB48 World | 170249 | [170249-akb48-world.json](./170249-akb48-world.json) |
 | AKB48's Dobon! | 326139 | [326139-akb48s-dobon.json](./326139-akb48s-dobon.json) |
 | AKB48+Me | 63075 | [63075-akb48-me.json](./63075-akb48-me.json) |
@@ -11505,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Shelter: Vet Clinic | 259886 | [259886-animal-shelter-vet-clinic.json](./259886-animal-shelter-vet-clinic.json) |
 | Animal Simulator | 189814 | [189814-animal-simulator.json](./189814-animal-simulator.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
+| Animal Snap: Rescue Them 2 By 2 | 57858 | [57858-animal-snap-rescue-them-2-by-2.json](./57858-animal-snap-rescue-them-2-by-2.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
 | Animal Stackers | 395870 | [395870-animal-stackers.json](./395870-animal-stackers.json) |
 | Animal Striker 2 | 321651 | [321651-animal-striker-2.json](./321651-animal-striker-2.json) |
@@ -19362,6 +19364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Drift & Tricks: Definitive Edition | 118553 | [118553-atv-drift-and-tricks-definitive-edition.json](./118553-atv-drift-and-tricks-definitive-edition.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
+| ATV Mania | 57848 | [57848-atv-mania.json](./57848-atv-mania.json) |
 | ATV Monster Racing Simulator Rally Cross | 262239 | [262239-atv-monster-racing-simulator-rally-cross.json](./262239-atv-monster-racing-simulator-rally-cross.json) |
 | ATV Mudracer | 52428 | [52428-atv-mudracer.json](./52428-atv-mudracer.json) |
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
