@@ -5669,6 +5669,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Nursery 2 | 47894 | [47894-petz-nursery-2.json](./47894-petz-nursery-2.json) |
 | Petz Pony Beauty Pageant | 68078 | [68078-petz-pony-beauty-pageant.json](./68078-petz-pony-beauty-pageant.json) |
 | Petz Puppyz and Kittenz | 209990 | [209990-petz-puppyz-and-kittenz.json](./209990-petz-puppyz-and-kittenz.json) |
+| Petz Rescue Endangered Paradise | 70533 | [70533-petz-rescue-endangered-paradise.json](./70533-petz-rescue-endangered-paradise.json) |
+| Petz Rescue Ocean Patrol | 70534 | [70534-petz-rescue-ocean-patrol.json](./70534-petz-rescue-ocean-patrol.json) |
 | Petz Rescue: Wildlife Vet | 47918 | [47918-petz-rescue-wildlife-vet.json](./47918-petz-rescue-wildlife-vet.json) |
 | Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
@@ -10254,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana Collection | 393897 | [393897-planet-of-lana-collection.json](./393897-planet-of-lana-collection.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of Luck | 137238 | [137238-planet-of-luck.json](./137238-planet-of-luck.json) |
+| Planet of Lust | 71086 | [71086-planet-of-lust.json](./71086-planet-of-lust.json) |
 | Planet of Pirates | 115533 | [115533-planet-of-pirates.json](./115533-planet-of-pirates.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet of the Apes | 282414 | [282414-planet-of-the-apes.json](./282414-planet-of-the-apes.json) |
