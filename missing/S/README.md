@@ -17397,6 +17397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Mountain | 237559 | [237559-snow-mountain.json](./237559-snow-mountain.json) |
 | Snow of Spirit | 215546 | [215546-snow-of-spirit.json](./215546-snow-of-spirit.json) |
 | Snow Off Road | 194165 | [194165-snow-off-road.json](./194165-snow-off-road.json) |
+| Snow Panic | 428770 | [428770-snow-panic.json](./428770-snow-panic.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
@@ -28904,6 +28905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
 | Stasis | 223055 | [223055-stasis.json](./223055-stasis.json) |
 | Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
+| Stasis Protocol | 428755 | [428755-stasis-protocol.json](./428755-stasis-protocol.json) |
 | Stasis Valley | 211351 | [211351-stasis-valley.json](./211351-stasis-valley.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
@@ -32089,6 +32091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 240706 | [240706-string-theory.json](./240706-string-theory.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
+| String Theory | 428765 | [428765-string-theory.json](./428765-string-theory.json) |
 | String Theory 2 | 101740 | [101740-string-theory-2.json](./101740-string-theory-2.json) |
 | String Tyrant | 135701 | [135701-string-tyrant.json](./135701-string-tyrant.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
@@ -38930,6 +38933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty | 97020 | [97020-sushiparty.json](./97020-sushiparty.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
+| SUSHISNK | 428777 | [428777-sushisnk.json](./428777-sushisnk.json) |
 | SushiVR | 158910 | [158910-sushivr.json](./158910-sushivr.json) |
 | Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
@@ -39078,6 +39082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Svoboda | 100101 | [100101-svoboda.json](./100101-svoboda.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
+| Swag | 428737 | [428737-swag.json](./428737-swag.json) |
 | Swag & Sorcery | 107482 | [107482-swag-and-sorcery.json](./107482-swag-and-sorcery.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
