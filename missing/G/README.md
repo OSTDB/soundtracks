@@ -4980,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giraffe Above | 340154 | [340154-giraffe-above.json](./340154-giraffe-above.json) |
 | Giraffe and Annika | 101220 | [101220-giraffe-and-annika.json](./101220-giraffe-and-annika.json) |
 | Giraffe and Annika: Musical Mayhem Edition | 165956 | [165956-giraffe-and-annika-musical-mayhem-edition.json](./165956-giraffe-and-annika-musical-mayhem-edition.json) |
+| Giraffe Champion 3: Halloween Party & the Ghost Guitar | 424571 | [424571-giraffe-champion-3-halloween-party-and-the-ghost-guitar.json](./424571-giraffe-champion-3-halloween-party-and-the-ghost-guitar.json) |
 | Giraffe Evolution | 348416 | [348416-giraffe-evolution.json](./348416-giraffe-evolution.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Giraffe's Matching Zoo | 87138 | [87138-giraffes-matching-zoo.json](./87138-giraffes-matching-zoo.json) |
@@ -6829,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
 | Goddess Scroll: The Last Starlight | 344407 | [344407-goddess-scroll-the-last-starlight.json](./344407-goddess-scroll-the-last-starlight.json) |
 | Goddess: Primal Chaos | 74864 | [74864-goddess-primal-chaos.json](./74864-goddess-primal-chaos.json) |
+| Goddle | 424562 | [424562-goddle.json](./424562-goddle.json) |
 | Godeater | 134756 | [134756-godeater.json](./134756-godeater.json) |
 | Godessess' Whim | 336944 | [336944-godessess-whim.json](./336944-godessess-whim.json) |
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
@@ -9292,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave Matters | 31222 | [31222-grave-matters.json](./31222-grave-matters.json) |
+| Grave Odds | 424537 | [424537-grave-odds.json](./424537-grave-odds.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Träumerei | 229414 | [229414-grave-of-traumerei.json](./229414-grave-of-traumerei.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
@@ -9936,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Dwarf | 114656 | [114656-greedy-dwarf.json](./114656-greedy-dwarf.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
+| Greedy Getaways | 424527 | [424527-greedy-getaways.json](./424527-greedy-getaways.json) |
 | Greedy Goblin | 151317 | [151317-greedy-goblin.json](./151317-greedy-goblin.json) |
 | Greedy Goblin | 184219 | [184219-greedy-goblin.json](./184219-greedy-goblin.json) |
 | Greedy Goblins | 125787 | [125787-greedy-goblins.json](./125787-greedy-goblins.json) |
