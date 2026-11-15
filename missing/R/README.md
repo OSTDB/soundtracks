@@ -11353,6 +11353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
 | Rogue Trooper | 292227 | [292227-rogue-trooper.json](./292227-rogue-trooper.json) |
 | Rogue Trooper | 36881 | [36881-rogue-trooper.json](./36881-rogue-trooper.json) |
+| Rogue Trooper | 5126 | [5126-rogue-trooper.json](./5126-rogue-trooper.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Trooper: Redux | 27519 | [27519-rogue-trooper-redux.json](./27519-rogue-trooper-redux.json) |
