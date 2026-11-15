@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 16BitSurvivors | 358064 | [358064-16bitsurvivors.json](./358064-16bitsurvivors.json) |
+| 16k Superchess | 13930 | [13930-16k-superchess.json](./13930-16k-superchess.json) |
 | 16t | 78213 | [78213-16t.json](./78213-16t.json) |
 | 16x16 | 358065 | [358065-16x16.json](./358065-16x16.json) |
 | 17 Bucks: Floor 1 | 308282 | [308282-17-bucks-floor-1.json](./308282-17-bucks-floor-1.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942 | 300045 | [300045-1942.json](./300045-1942.json) |
 | 1942 | 6075 | [6075-1942.json](./6075-1942.json) |
 | 1942 Delta | 191285 | [191285-1942-delta.json](./191285-1942-delta.json) |
+| 1942 Mission | 13931 | [13931-1942-mission.json](./13931-1942-mission.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
 | 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1942 Wing Baron | 159403 | [159403-1942-wing-baron.json](./159403-1942-wing-baron.json) |
@@ -1598,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
 | 1998: The Toll Keeper Story | 343429 | [343429-1998-the-toll-keeper-story.json](./343429-1998-the-toll-keeper-story.json) |
+| 1999 | 13932 | [13932-1999.json](./13932-1999.json) |
 | 1999 Christmas Eve | 367492 | [367492-1999-christmas-eve.json](./367492-1999-christmas-eve.json) |
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
 | 1999: Megallennium 6-in-1 Mega Cart | 136611 | [136611-1999-megallennium-6-in-1-mega-cart.json](./136611-1999-megallennium-6-in-1-mega-cart.json) |
