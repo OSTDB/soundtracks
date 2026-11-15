@@ -13689,7 +13689,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin | 220498 | [220498-skin.json](./220498-skin.json) |
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
-| Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
 | Skin Doctor | 108696 | [108696-skin-doctor.json](./108696-skin-doctor.json) |
 | Skin Stealers | 128147 | [128147-skin-stealers.json](./128147-skin-stealers.json) |
 | Skin Tailor | 382084 | [382084-skin-tailor.json](./382084-skin-tailor.json) |
