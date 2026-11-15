@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
+| Legend of Ymir | 368744 | [368744-legend-of-ymir.json](./368744-legend-of-ymir.json) |
 | Legend of You | 163843 | [163843-legend-of-you.json](./163843-legend-of-you.json) |
 | Legend of Zelda: Hidden Trove | 248364 | [248364-legend-of-zelda-hidden-trove.json](./248364-legend-of-zelda-hidden-trove.json) |
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Five Nights at Freddy's | 280050 | [280050-lego-five-nights-at-freddys.json](./280050-lego-five-nights-at-freddys.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
+| LEGO Fortnite: Odyssey | 279676 | [279676-lego-fortnite-odyssey.json](./279676-lego-fortnite-odyssey.json) |
 | LEGO Friends | 142951 | [142951-lego-friends.json](./142951-lego-friends.json) |
 | LEGO Friends | 248569 | [248569-lego-friends.json](./248569-lego-friends.json) |
 | LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
