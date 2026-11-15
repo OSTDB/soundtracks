@@ -7458,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | Hexis | 60657 | [60657-hexis.json](./60657-hexis.json) |
 | Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
+| HeXit | 50781 | [50781-hexit.json](./50781-hexit.json) |
 | Hexius | 80341 | [80341-hexius.json](./80341-hexius.json) |
 | Hexiv | 335385 | [335385-hexiv.json](./335385-hexiv.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
