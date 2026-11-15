@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiated Life | 247714 | [247714-radiated-life.json](./247714-radiated-life.json) |
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
+| Radiation City | 56585 | [56585-radiation-city.json](./56585-radiation-city.json) |
 | Radiation Hazard | 427843 | [427843-radiation-hazard.json](./427843-radiation-hazard.json) |
 | Radiation Island | 36287 | [36287-radiation-island.json](./36287-radiation-island.json) |
 | Radiation Pigeon | 120614 | [120614-radiation-pigeon.json](./120614-radiation-pigeon.json) |
@@ -7336,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
+| Reverie | 56869 | [56869-reverie.json](./56869-reverie.json) |
 | Reverie in the Moonlight | 347433 | [347433-reverie-in-the-moonlight.json](./347433-reverie-in-the-moonlight.json) |
 | Reverie Knights Tactics | 151555 | [151555-reverie-knights-tactics.json](./151555-reverie-knights-tactics.json) |
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
@@ -7427,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi also known as Othello | 54948 | [54948-reversi-also-known-as-othello.json](./54948-reversi-also-known-as-othello.json) |
 | Reversi Fun | 103579 | [103579-reversi-fun.json](./103579-reversi-fun.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
+| Reversi Quest | 104780 | [104780-reversi-quest.json](./104780-reversi-quest.json) |
 | Reversi Temple | 289784 | [289784-reversi-temple.json](./289784-reversi-temple.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
@@ -11748,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
 | Rolling Bloobs | 92340 | [92340-rolling-bloobs.json](./92340-rolling-bloobs.json) |
+| Rolling Bob | 56256 | [56256-rolling-bob.json](./56256-rolling-bob.json) |
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
 | Rolling Car | 198069 | [198069-rolling-car.json](./198069-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
