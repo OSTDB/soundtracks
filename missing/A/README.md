@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Clicking Crystals | 379509 | [379509-a-game-about-clicking-crystals.json](./379509-a-game-about-clicking-crystals.json) |
 | A Game About Creating The Universe | 402230 | [402230-a-game-about-creating-the-universe.json](./402230-a-game-about-creating-the-universe.json) |
 | A Game About Digging A Hole | 325554 | [325554-a-game-about-digging-a-hole.json](./325554-a-game-about-digging-a-hole.json) |
+| A Game About Digging A Hole Together | 420890 | [420890-a-game-about-digging-a-hole-together.json](./420890-a-game-about-digging-a-hole-together.json) |
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
 | A Game About Feeding A Black Hole | 370580 | [370580-a-game-about-feeding-a-black-hole.json](./370580-a-game-about-feeding-a-black-hole.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
@@ -5544,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Tribal Faction | 399098 | [399098-age-of-gods-tribal-faction.json](./399098-age-of-gods-tribal-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Hammer Wars | 52033 | [52033-age-of-hammer-wars.json](./52033-age-of-hammer-wars.json) |
+| Age of Harvest | 421014 | [421014-age-of-harvest.json](./421014-age-of-harvest.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes VR | 51381 | [51381-age-of-heroes-vr.json](./51381-age-of-heroes-vr.json) |
 | Age Of Heroes: Army Of Darkness | 320970 | [320970-age-of-heroes-army-of-darkness.json](./320970-age-of-heroes-army-of-darkness.json) |
@@ -6577,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airheart: Tales of Broken Wings | 26422 | [26422-airheart-tales-of-broken-wings.json](./26422-airheart-tales-of-broken-wings.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
 | Airhounds | 167484 | [167484-airhounds.json](./167484-airhounds.json) |
+| AiRhythm | 421013 | [421013-airhythm.json](./421013-airhythm.json) |
 | Airi's World | 51430 | [51430-airis-world.json](./51430-airis-world.json) |
 | Airia | 134380 | [134380-airia.json](./134380-airia.json) |
 | Airis | 28321 | [28321-airis.json](./28321-airis.json) |
@@ -12439,6 +12442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Adventure | 27776 | [27776-another-adventure.json](./27776-another-adventure.json) |
 | Another Adventure in NSMBU | 261013 | [261013-another-adventure-in-nsmbu.json](./261013-another-adventure-in-nsmbu.json) |
 | Another Apocalypse | 133742 | [133742-another-apocalypse.json](./133742-another-apocalypse.json) |
+| Another Apocalypse II: Dual Pagan | 420981 | [420981-another-apocalypse-ii-dual-pagan.json](./420981-another-apocalypse-ii-dual-pagan.json) |
 | Another Attack 2: Weissensee | 270686 | [270686-another-attack-2-weissensee.json](./270686-another-attack-2-weissensee.json) |
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
 | Another Aurelie | 418113 | [418113-another-aurelie.json](./418113-another-aurelie.json) |
@@ -18015,6 +18019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
 | Asteroid King | 276700 | [276700-asteroid-king.json](./276700-asteroid-king.json) |
+| Asteroid Mine | 420891 | [420891-asteroid-mine.json](./420891-asteroid-mine.json) |
 | Asteroid Miner | 15603 | [15603-asteroid-miner.json](./15603-asteroid-miner.json) |
 | Asteroid Miner | 377499 | [377499-asteroid-miner.json](./377499-asteroid-miner.json) |
 | Asteroid Must Die! 2 | 178629 | [178629-asteroid-must-die-2.json](./178629-asteroid-must-die-2.json) |
