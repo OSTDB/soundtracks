@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
 | Nacht-sama is quitting being the demon king! | 262788 | [262788-nacht-sama-is-quitting-being-the-demon-king.json](./262788-nacht-sama-is-quitting-being-the-demon-king.json) |
+| Nachtfrost | 427558 | [427558-nachtfrost.json](./427558-nachtfrost.json) |
 | Nachtigal | 57177 | [57177-nachtigal.json](./57177-nachtigal.json) |
 | Nachtmahr | 356909 | [356909-nachtmahr.json](./356909-nachtmahr.json) |
 | Nachtmission | 94966 | [94966-nachtmission.json](./94966-nachtmission.json) |
