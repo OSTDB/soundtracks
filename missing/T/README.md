@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Abyss: Mieu no Daibouken | 294607 | [294607-tales-of-the-abyss-mieu-no-daibouken.json](./294607-tales-of-the-abyss-mieu-no-daibouken.json) |
 | Tales of the Abyss: Mieu no Fonic Gojiten | 294608 | [294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json](./294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json) |
 | Tales of the Abyss: Mieu no Jikkenshitsu? | 294609 | [294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json](./294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json) |
+| Tales of the Arabian Nights | 26001 | [26001-tales-of-the-arabian-nights.json](./26001-tales-of-the-arabian-nights.json) |
 | Tales of the Arabian Nights | 415048 | [415048-tales-of-the-arabian-nights.json](./415048-tales-of-the-arabian-nights.json) |
 | Tales of the Aswang VR | 111877 | [111877-tales-of-the-aswang-vr.json](./111877-tales-of-the-aswang-vr.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
@@ -10863,6 +10864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Anno | 362776 | [362776-the-fourth-anno.json](./362776-the-fourth-anno.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
+| The Fourth Protocol | 26017 | [26017-the-fourth-protocol.json](./26017-the-fourth-protocol.json) |
 | The Fourth Sense Evolution: Stone Age | 270876 | [270876-the-fourth-sense-evolution-stone-age.json](./270876-the-fourth-sense-evolution-stone-age.json) |
 | The Fourth Wall | 65386 | [65386-the-fourth-wall.json](./65386-the-fourth-wall.json) |
 | The Fox Awaits Me | 131983 | [131983-the-fox-awaits-me.json](./131983-the-fox-awaits-me.json) |
@@ -11327,6 +11329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
 | The Goofy Giraffe Game | 357585 | [357585-the-goofy-giraffe-game.json](./357585-the-goofy-giraffe-game.json) |
 | The Googol Clicker | 367517 | [367517-the-googol-clicker.json](./367517-the-googol-clicker.json) |
+| The Goonies | 25988 | [25988-the-goonies.json](./25988-the-goonies.json) |
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
 | The Goonies | 4615 | [4615-the-goonies.json](./4615-the-goonies.json) |
 | The Goonies II | 18916 | [18916-the-goonies-ii.json](./18916-the-goonies-ii.json) |
@@ -15477,6 +15480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing: J.J. Macfield and the Island of Memories | 87499 | [87499-the-missing-j-j-macfield-and-the-island-of-memories.json](./87499-the-missing-j-j-macfield-and-the-island-of-memories.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
 | The Mission Unpossible | 59061 | [59061-the-mission-unpossible.json](./59061-the-mission-unpossible.json) |
+| The Mist | 26020 | [26020-the-mist.json](./26020-the-mist.json) |
 | The Mist | 312221 | [312221-the-mist.json](./312221-the-mist.json) |
 | The Mist City | 284333 | [284333-the-mist-city.json](./284333-the-mist-city.json) |
 | The Mistcaller | 234641 | [234641-the-mistcaller.json](./234641-the-mistcaller.json) |
@@ -19086,6 +19090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stacks | 40616 | [40616-the-stacks.json](./40616-the-stacks.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
+| The Staff of Karnath | 26029 | [26029-the-staff-of-karnath.json](./26029-the-staff-of-karnath.json) |
 | The Stage: No Way Out | 349060 | [349060-the-stage-no-way-out.json](./349060-the-stage-no-way-out.json) |
 | The Stairway | 138435 | [138435-the-stairway.json](./138435-the-stairway.json) |
 | The Stairway | 339003 | [339003-the-stairway.json](./339003-the-stairway.json) |
@@ -33769,6 +33774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
 | Travelin' | 271888 | [271888-travelin.json](./271888-travelin.json) |
 | Traveling Merchant | 58521 | [58521-traveling-merchant.json](./58521-traveling-merchant.json) |
+| Traveling Stars | 26007 | [26007-traveling-stars.json](./26007-traveling-stars.json) |
 | Traveling Union | 314756 | [314756-traveling-union.json](./314756-traveling-union.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
