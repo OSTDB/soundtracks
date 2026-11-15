@@ -5920,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Reverie | 406574 | [406574-celestial-reverie.json](./406574-celestial-reverie.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Soul | 316144 | [316144-celestial-soul.json](./316144-celestial-soul.json) |
+| Celestial Tear: Demon's Revenge | 34885 | [34885-celestial-tear-demons-revenge.json](./34885-celestial-tear-demons-revenge.json) |
 | Celestial Tear: Lost World | 211170 | [211170-celestial-tear-lost-world.json](./211170-celestial-tear-lost-world.json) |
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
@@ -5941,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestwald Adventure | 284812 | [284812-celestwald-adventure.json](./284812-celestwald-adventure.json) |
 | Celetania | 92415 | [92415-celetania.json](./92415-celetania.json) |
 | Celia's Chicken Adventure | 181408 | [181408-celias-chicken-adventure.json](./181408-celias-chicken-adventure.json) |
+| Celia's Quest | 34992 | [34992-celias-quest.json](./34992-celias-quest.json) |
 | Celia's Stupid Romhack | 360028 | [360028-celias-stupid-romhack.json](./360028-celias-stupid-romhack.json) |
 | Cell | 287357 | [287357-cell.json](./287357-cell.json) |
 | Cell | 86632 | [86632-cell.json](./86632-cell.json) |
@@ -9335,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromacore | 365332 | [365332-chromacore.json](./365332-chromacore.json) |
 | Chromadi | 367931 | [367931-chromadi.json](./367931-chromadi.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
+| Chromadrome 2 | 35009 | [35009-chromadrome-2.json](./35009-chromadrome-2.json) |
 | Chromaestro | 37409 | [37409-chromaestro.json](./37409-chromaestro.json) |
 | ChromaFlow | 414393 | [414393-chromaflow.json](./414393-chromaflow.json) |
 | ChromaGun 2: Dye Hard | 305224 | [305224-chromagun-2-dye-hard.json](./305224-chromagun-2-dye-hard.json) |
