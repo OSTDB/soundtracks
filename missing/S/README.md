@@ -13543,6 +13543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Challenge 2014 | 87793 | [87793-ski-challenge-2014.json](./87793-ski-challenge-2014.json) |
 | Ski Challenge 2015 | 87794 | [87794-ski-challenge-2015.json](./87794-ski-challenge-2015.json) |
 | Ski Challenge 2016 | 87795 | [87795-ski-challenge-2016.json](./87795-ski-challenge-2016.json) |
+| Ski Champ | 62342 | [62342-ski-champ.json](./62342-ski-champ.json) |
 | Ski Command | 83142 | [83142-ski-command.json](./83142-ski-command.json) |
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
 | Ski Doom VR | 167579 | [167579-ski-doom-vr.json](./167579-ski-doom-vr.json) |
@@ -13839,6 +13840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Candy Match | 110000 | [110000-skull-candy-match.json](./110000-skull-candy-match.json) |
 | Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
+| Skull Fang | 62341 | [62341-skull-fang.json](./62341-skull-fang.json) |
 | Skull Feast | 90162 | [90162-skull-feast.json](./90162-skull-feast.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
@@ -21857,6 +21859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
 | Space Horde Attack | 305639 | [305639-space-horde-attack.json](./305639-space-horde-attack.json) |
+| Space Horse | 61818 | [61818-space-horse.json](./61818-space-horse.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk | 12770 | [12770-space-hulk.json](./12770-space-hulk.json) |
 | Space Hulk | 23579 | [23579-space-hulk.json](./23579-space-hulk.json) |
@@ -27132,6 +27135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Stable: The Summer Rider | 283675 | [283675-star-stable-the-summer-rider.json](./283675-star-stable-the-summer-rider.json) |
 | Star Stable: The Winter Rider | 283672 | [283672-star-stable-the-winter-rider.json](./283672-star-stable-the-winter-rider.json) |
 | Star Station Frontier | 379100 | [379100-star-station-frontier.json](./379100-star-station-frontier.json) |
+| Star Stealing Prince | 62354 | [62354-star-stealing-prince.json](./62354-star-stealing-prince.json) |
 | Star Stealing Prince: Definitive | 183962 | [183962-star-stealing-prince-definitive.json](./183962-star-stealing-prince-definitive.json) |
 | Star Steel | 159837 | [159837-star-steel.json](./159837-star-steel.json) |
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
