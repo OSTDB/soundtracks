@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of Night | 37427 | [37427-dead-of-night.json](./37427-dead-of-night.json) |
 | Dead of Night: Supermarket | 333495 | [333495-dead-of-night-supermarket.json](./333495-dead-of-night-supermarket.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
+| Dead of the Brain | 422206 | [422206-dead-of-the-brain.json](./422206-dead-of-the-brain.json) |
 | Dead of the Brain 1 & 2 | 80189 | [80189-dead-of-the-brain-1-and-2.json](./80189-dead-of-the-brain-1-and-2.json) |
 | Dead of the Brain 2 | 66361 | [66361-dead-of-the-brain-2.json](./66361-dead-of-the-brain-2.json) |
 | Dead of the Sea | 235708 | [235708-dead-of-the-sea.json](./235708-dead-of-the-sea.json) |
@@ -11457,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discman: The Legend of Danny Crask | 62928 | [62928-discman-the-legend-of-danny-crask.json](./62928-discman-the-legend-of-danny-crask.json) |
 | Discmaster | 147635 | [147635-discmaster.json](./147635-discmaster.json) |
 | Disco Ball | 149159 | [149159-disco-ball.json](./149159-disco-ball.json) |
+| Disco Ball Simulator 2000 | 421989 | [421989-disco-ball-simulator-2000.json](./421989-disco-ball-simulator-2000.json) |
 | Disco Bear | 102064 | [102064-disco-bear.json](./102064-disco-bear.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
@@ -14317,6 +14319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald's Hectic Hay Bales | 246508 | [246508-donalds-hectic-hay-bales.json](./246508-donalds-hectic-hay-bales.json) |
 | Donald's Tugboat Adventures | 246509 | [246509-donalds-tugboat-adventures.json](./246509-donalds-tugboat-adventures.json) |
 | Donare | 376673 | [376673-donare.json](./376673-donare.json) |
+| Donauts | 422209 | [422209-donauts.json](./422209-donauts.json) |
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
 | Dondar | 151310 | [151310-dondar.json](./151310-dondar.json) |
