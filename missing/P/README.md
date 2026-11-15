@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Islands | 94494 | [94494-pacific-islands.json](./94494-pacific-islands.json) |
 | Pacific Liberation Force | 17627 | [17627-pacific-liberation-force.json](./17627-pacific-liberation-force.json) |
+| Pacific Liberator | 24348 | [24348-pacific-liberator.json](./24348-pacific-liberator.json) |
 | Pacific Life | 157315 | [157315-pacific-life.json](./157315-pacific-life.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
@@ -5953,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave | 5097 | [5097-phantom-brave.json](./5097-phantom-brave.json) |
 | Phantom Brave PC | 34290 | [34290-phantom-brave-pc.json](./34290-phantom-brave-pc.json) |
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
+| Phantom Brave: The Hermuda Triangle | 24286 | [24286-phantom-brave-the-hermuda-triangle.json](./24286-phantom-brave-the-hermuda-triangle.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom Brave: The Lost Hero | 306146 | [306146-phantom-brave-the-lost-hero.json](./306146-phantom-brave-the-lost-hero.json) |
 | Phantom Brave: The Lost Hero - Deluxe Edition | 324771 | [324771-phantom-brave-the-lost-hero-deluxe-edition.json](./324771-phantom-brave-the-lost-hero-deluxe-edition.json) |
@@ -5966,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave: The Lost Hero - The Liar and the Lost | 332525 | [332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json](./332525-phantom-brave-the-lost-hero-the-liar-and-the-lost.json) |
 | Phantom Brave: The Lost Hero - The Rat Who Demons Fear | 332523 | [332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json](./332523-phantom-brave-the-lost-hero-the-rat-who-demons-fear.json) |
 | Phantom Brave: The Lost Hero - The Wandering Pirate | 332524 | [332524-phantom-brave-the-lost-hero-the-wandering-pirate.json](./332524-phantom-brave-the-lost-hero-the-wandering-pirate.json) |
+| Phantom Brave: We Meet Again | 24330 | [24330-phantom-brave-we-meet-again.json](./24330-phantom-brave-we-meet-again.json) |
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
 | Phantom Breaker: Another Code | 144653 | [144653-phantom-breaker-another-code.json](./144653-phantom-breaker-another-code.json) |
@@ -12972,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Chaotic Flame | 335147 | [335147-pokemon-chaotic-flame.json](./335147-pokemon-chaotic-flame.json) |
 | Pokémon: Close Combat | 266866 | [266866-pokemon-close-combat.json](./266866-pokemon-close-combat.json) |
 | Pokémon: Cuerpo de Cristal | 307784 | [307784-pokemon-cuerpo-de-cristal.json](./307784-pokemon-cuerpo-de-cristal.json) |
+| Pokémon: Dark Rising | 24398 | [24398-pokemon-dark-rising.json](./24398-pokemon-dark-rising.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
 | Pokémon: Eclat Pourpre | 209799 | [209799-pokemon-eclat-pourpre.json](./209799-pokemon-eclat-pourpre.json) |
 | Pokémon: Emerald Backwards | 342184 | [342184-pokemon-emerald-backwards.json](./342184-pokemon-emerald-backwards.json) |
