@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairspace | 17803 | [17803-fairspace.json](./17803-fairspace.json) |
 | Fairtravel Battle | 128023 | [128023-fairtravel-battle.json](./128023-fairtravel-battle.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
+| Fairune | 59123 | [59123-fairune.json](./59123-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
@@ -10818,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
 | Foreign Gravity | 114640 | [114640-foreign-gravity.json](./114640-foreign-gravity.json) |
 | Foreign Legion: Buckets of Blood | 7521 | [7521-foreign-legion-buckets-of-blood.json](./7521-foreign-legion-buckets-of-blood.json) |
+| Foreign Legion: Multi Massacre | 9844 | [9844-foreign-legion-multi-massacre.json](./9844-foreign-legion-multi-massacre.json) |
 | Foreign Sun | 289984 | [289984-foreign-sun.json](./289984-foreign-sun.json) |
 | Foreigner Teacher | 195806 | [195806-foreigner-teacher.json](./195806-foreigner-teacher.json) |
 | Foreman for Real | 19741 | [19741-foreman-for-real.json](./19741-foreman-for-real.json) |
