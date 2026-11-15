@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
 | Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
 | Taisen Mahjong Haopai | 46295 | [46295-taisen-mahjong-haopai.json](./46295-taisen-mahjong-haopai.json) |
+| Taisen Mahjong Haopai 2 | 46294 | [46294-taisen-mahjong-haopai-2.json](./46294-taisen-mahjong-haopai-2.json) |
 | Taisen Net Gimmick: Capcom & Psikyo All Stars | 79738 | [79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json](./79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json) |
 | Taisen Panic Bomber | 198031 | [198031-taisen-panic-bomber.json](./198031-taisen-panic-bomber.json) |
 | Taisen Panic Bomber + | 198205 | [198205-taisen-panic-bomber.json](./198205-taisen-panic-bomber.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl: Kickoff | 21329 | [21329-tecmo-bowl-kickoff.json](./21329-tecmo-bowl-kickoff.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Classic Arcade | 6192 | [6192-tecmo-classic-arcade.json](./6192-tecmo-classic-arcade.json) |
+| Tecmo Cup Football Game | 46166 | [46166-tecmo-cup-football-game.json](./46166-tecmo-cup-football-game.json) |
 | Tecmo Cup Soccer Game | 48227 | [48227-tecmo-cup-soccer-game.json](./48227-tecmo-cup-soccer-game.json) |
 | Tecmo Hit Parade | 57231 | [57231-tecmo-hit-parade.json](./57231-tecmo-hit-parade.json) |
 | Tecmo Knight | 40002 | [40002-tecmo-knight.json](./40002-tecmo-knight.json) |
@@ -23036,6 +23038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder of the DemonKing | 352110 | [352110-thunder-of-the-demonking.json](./352110-thunder-of-the-demonking.json) |
 | Thunder Offshore | 64756 | [64756-thunder-offshore.json](./64756-thunder-offshore.json) |
 | Thunder Paw | 117445 | [117445-thunder-paw.json](./117445-thunder-paw.json) |
+| Thunder Pro Wrestling Retsuden | 46165 | [46165-thunder-pro-wrestling-retsuden.json](./46165-thunder-pro-wrestling-retsuden.json) |
 | Thunder Rally | 264368 | [264368-thunder-rally.json](./264368-thunder-rally.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
@@ -27341,6 +27344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Tori 3D | 85449 | [85449-toki-tori-3d.json](./85449-toki-tori-3d.json) |
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
+| Toki: Going Ape Spit | 46279 | [46279-toki-going-ape-spit.json](./46279-toki-going-ape-spit.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
 | Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Puzzle Party | 318681 | [318681-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-puzzle-party.json](./318681-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-puzzle-party.json) |
 | Tokidoki Frenzies | 249656 | [249656-tokidoki-frenzies.json](./249656-tokidoki-frenzies.json) |
@@ -28548,6 +28552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Model Academy | 47869 | [47869-top-model-academy.json](./47869-top-model-academy.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
 | Top Percent | 291284 | [291284-top-percent.json](./291284-top-percent.json) |
+| Top Pro Golf | 46164 | [46164-top-pro-golf.json](./46164-top-pro-golf.json) |
 | Top Pro Golf 2 | 45693 | [45693-top-pro-golf-2.json](./45693-top-pro-golf-2.json) |
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
@@ -28678,6 +28683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toradora Portable! | 42752 | [42752-toradora-portable.json](./42752-toradora-portable.json) |
 | Toran | 115828 | [115828-toran.json](./115828-toran.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
+| Torarete Tamaruka!? | 46291 | [46291-torarete-tamaruka.json](./46291-torarete-tamaruka.json) |
 | Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
 | Toraware no Kan | 202877 | [202877-toraware-no-kan.json](./202877-toraware-no-kan.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
