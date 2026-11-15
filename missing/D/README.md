@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Rails | 337436 | [337436-deadly-rails.json](./337436-deadly-rails.json) |
 | Deadly Rain | 197506 | [197506-deadly-rain.json](./197506-deadly-rain.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
+| Deadly Rescue | 52272 | [52272-deadly-rescue.json](./52272-deadly-rescue.json) |
 | Deadly Reunion | 341641 | [341641-deadly-reunion.json](./341641-deadly-reunion.json) |
 | Deadly Ritual | 257140 | [257140-deadly-ritual.json](./257140-deadly-ritual.json) |
 | Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
@@ -4721,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
 | Deadly Wheels | 108038 | [108038-deadly-wheels.json](./108038-deadly-wheels.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
+| Deadman's Cross | 52181 | [52181-deadmans-cross.json](./52181-deadmans-cross.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
 | Deadnaut: Signal Lost | 207677 | [207677-deadnaut-signal-lost.json](./207677-deadnaut-signal-lost.json) |
 | Deadness | 128167 | [128167-deadness.json](./128167-deadness.json) |
@@ -6406,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of the Earth | 12569 | [12569-defenders-of-the-earth.json](./12569-defenders-of-the-earth.json) |
 | Defenders of the Fallen Island | 76406 | [76406-defenders-of-the-fallen-island.json](./76406-defenders-of-the-fallen-island.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
+| Defenders of the Mystic Garden | 52180 | [52180-defenders-of-the-mystic-garden.json](./52180-defenders-of-the-mystic-garden.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defenders of the Realm VR | 36709 | [36709-defenders-of-the-realm-vr.json](./36709-defenders-of-the-realm-vr.json) |
 | Defenders of the West | 132541 | [132541-defenders-of-the-west.json](./132541-defenders-of-the-west.json) |
@@ -10140,6 +10143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger Dan | 14033 | [14033-digger-dan.json](./14033-digger-dan.json) |
 | Digger Dan & Kaboom | 58664 | [58664-digger-dan-and-kaboom.json](./58664-digger-dan-and-kaboom.json) |
 | Digger Dan DX | 47662 | [47662-digger-dan-dx.json](./47662-digger-dan-dx.json) |
+| Digger HD | 52179 | [52179-digger-hd.json](./52179-digger-hd.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
 | Digger Simulator 2011 | 52907 | [52907-digger-simulator-2011.json](./52907-digger-simulator-2011.json) |
@@ -12178,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
 | Distorted Illusions | 110450 | [110450-distorted-illusions.json](./110450-distorted-illusions.json) |
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
+| Distorted Reality | 51609 | [51609-distorted-reality.json](./51609-distorted-reality.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distorted Travesty | 54745 | [54745-distorted-travesty.json](./54745-distorted-travesty.json) |
 | Distorted Travesty 2: The Sequel to the Prequel | 54746 | [54746-distorted-travesty-2-the-sequel-to-the-prequel.json](./54746-distorted-travesty-2-the-sequel-to-the-prequel.json) |
@@ -12286,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver Down | 334030 | [334030-diver-down.json](./334030-diver-down.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
+| Diver: Sea Survival Simulator | 51608 | [51608-diver-sea-survival-simulator.json](./51608-diver-sea-survival-simulator.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | DiveReal | 103235 | [103235-divereal.json](./103235-divereal.json) |
@@ -14201,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald VS Martians | 113504 | [113504-donald-vs-martians.json](./113504-donald-vs-martians.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
 | Donald's Basics in Hamburguers and Learning | 313396 | [313396-donalds-basics-in-hamburguers-and-learning.json](./313396-donalds-basics-in-hamburguers-and-learning.json) |
+| Donald's Bizarre Adventure | 51482 | [51482-donalds-bizarre-adventure.json](./51482-donalds-bizarre-adventure.json) |
 | Donald's Gem-boree | 246517 | [246517-donalds-gem-boree.json](./246517-donalds-gem-boree.json) |
 | Donald's Hectic Hay Bales | 246508 | [246508-donalds-hectic-hay-bales.json](./246508-donalds-hectic-hay-bales.json) |
 | Donald's Tugboat Adventures | 246509 | [246509-donalds-tugboat-adventures.json](./246509-donalds-tugboat-adventures.json) |
@@ -15885,6 +15892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Driving | 263404 | [263404-dr-driving.json](./263404-dr-driving.json) |
 | Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
 | Dr. Dumont's Wild P.A.R.T.I. | 7563 | [7563-dr-dumonts-wild-p-a-r-t-i.json](./7563-dr-dumonts-wild-p-a-r-t-i.json) |
+| Dr. Dungeon's Madman! | 52275 | [52275-dr-dungeons-madman.json](./52275-dr-dungeons-madman.json) |
 | Dr. Ectomy | 119222 | [119222-dr-ectomy.json](./119222-dr-ectomy.json) |
 | Dr. Emmerson's Nocturnes | 244355 | [244355-dr-emmersons-nocturnes.json](./244355-dr-emmersons-nocturnes.json) |
 | Dr. Emoji | 181147 | [181147-dr-emoji.json](./181147-dr-emoji.json) |
@@ -16217,6 +16225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing Professionals: Dirt Mechanic Simulator | 315935 | [315935-drag-racing-professionals-dirt-mechanic-simulator.json](./315935-drag-racing-professionals-dirt-mechanic-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
+| Drag Racing: Club Wars | 51480 | [51480-drag-racing-club-wars.json](./51480-drag-racing-club-wars.json) |
 | Drag Sim 2020 | 147741 | [147741-drag-sim-2020.json](./147741-drag-sim-2020.json) |
 | Drag Star! | 116322 | [116322-drag-star.json](./116322-drag-star.json) |
 | Drag the Dead | 236464 | [236464-drag-the-dead.json](./236464-drag-the-dead.json) |
@@ -16655,6 +16664,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fantasy | 22332 | [22332-dragon-fantasy.json](./22332-dragon-fantasy.json) |
 | Dragon Fantasy | 263141 | [263141-dragon-fantasy.json](./263141-dragon-fantasy.json) |
 | Dragon Fantasy Book I and II Bundle | 99554 | [99554-dragon-fantasy-book-i-and-ii-bundle.json](./99554-dragon-fantasy-book-i-and-ii-bundle.json) |
+| Dragon Fantasy: Book I | 52176 | [52176-dragon-fantasy-book-i.json](./52176-dragon-fantasy-book-i.json) |
+| Dragon Fantasy: Book II | 52175 | [52175-dragon-fantasy-book-ii.json](./52175-dragon-fantasy-book-ii.json) |
 | Dragon Fantasy: The Black Tome of Ice | 36219 | [36219-dragon-fantasy-the-black-tome-of-ice.json](./36219-dragon-fantasy-the-black-tome-of-ice.json) |
 | Dragon Fantasy: The Volumes of Westeria | 17931 | [17931-dragon-fantasy-the-volumes-of-westeria.json](./17931-dragon-fantasy-the-volumes-of-westeria.json) |
 | Dragon Fate: Cards and Minigames | 285615 | [285615-dragon-fate-cards-and-minigames.json](./285615-dragon-fate-cards-and-minigames.json) |
@@ -20604,6 +20615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
 | Dungeon Twist | 392219 | [392219-dungeon-twist.json](./392219-dungeon-twist.json) |
+| Dungeon Twister | 52174 | [52174-dungeon-twister.json](./52174-dungeon-twister.json) |
 | Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Valley | 174668 | [174668-dungeon-valley.json](./174668-dungeon-valley.json) |
@@ -20809,6 +20821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons Online: White Plume Mountain and Other Tales | 349724 | [349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json](./349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json) |
 | Dungeons & Dragons Tactics | 23051 | [23051-dungeons-and-dragons-tactics.json](./23051-dungeons-and-dragons-tactics.json) |
+| Dungeons & Dragons: Daggerdale | 52172 | [52172-dungeons-and-dragons-daggerdale.json](./52172-dungeons-and-dragons-daggerdale.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
 | Dungeons & Dragons: Dark Alliance - Deluxe Edition | 148269 | [148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json](./148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json) |
@@ -20933,6 +20946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
 | Dungeons of Tal'Doria | 79362 | [79362-dungeons-of-taldoria.json](./79362-dungeons-of-taldoria.json) |
+| Dungeons of TalDoria | 51610 | [51610-dungeons-of-taldoria.json](./51610-dungeons-of-taldoria.json) |
 | Dungeons of the Amber Griffin | 211587 | [211587-dungeons-of-the-amber-griffin.json](./211587-dungeons-of-the-amber-griffin.json) |
 | Dungeons of the dead | 96639 | [96639-dungeons-of-the-dead.json](./96639-dungeons-of-the-dead.json) |
 | Dungeons of the Deep | 151396 | [151396-dungeons-of-the-deep.json](./151396-dungeons-of-the-deep.json) |
@@ -21152,6 +21166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
 | Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
 | Dust & Rain: Post-apocalyptic RPG | 301987 | [301987-dust-and-rain-post-apocalyptic-rpg.json](./301987-dust-and-rain-post-apocalyptic-rpg.json) |
+| Dust 514: Neocom | 52171 | [52171-dust-514-neocom.json](./52171-dust-514-neocom.json) |
 | Dust and Aliens | 254069 | [254069-dust-and-aliens.json](./254069-dust-and-aliens.json) |
 | Dust and Echoes | 323210 | [323210-dust-and-echoes.json](./323210-dust-and-echoes.json) |
 | Dust and Echos: Vengeance | 106489 | [106489-dust-and-echos-vengeance.json](./106489-dust-and-echos-vengeance.json) |
