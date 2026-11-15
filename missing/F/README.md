@@ -12294,6 +12294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowling | 47257 | [47257-fowling.json](./47257-fowling.json) |
 | Fowlplay | 80429 | [80429-fowlplay.json](./80429-fowlplay.json) |
 | Fowlst | 36702 | [36702-fowlst.json](./36702-fowlst.json) |
+| Fox & Flock | 35044 | [35044-fox-and-flock.json](./35044-fox-and-flock.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox & Hounds | 175108 | [175108-fox-and-hounds.json](./175108-fox-and-hounds.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
@@ -14533,6 +14534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit: Chain Effect | 336870 | [336870-fruit-chain-effect.json](./336870-fruit-chain-effect.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
+| Fruitbus | 257513 | [257513-fruitbus.json](./257513-fruitbus.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
 | FruitFall Crush | 194166 | [194166-fruitfall-crush.json](./194166-fruitfall-crush.json) |
