@@ -5651,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Venus 2 | 98207 | [98207-caverns-of-venus-2.json](./98207-caverns-of-venus-2.json) |
+| Caverns of Xaskazien | 69977 | [69977-caverns-of-xaskazien.json](./69977-caverns-of-xaskazien.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
@@ -6727,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Agents | 356774 | [356774-chaos-agents.json](./356774-chaos-agents.json) |
 | Chaos among Realms: Reborn The Game | 364649 | [364649-chaos-among-realms-reborn-the-game.json](./364649-chaos-among-realms-reborn-the-game.json) |
 | Chaos and the White Robot | 67927 | [67927-chaos-and-the-white-robot.json](./67927-chaos-and-the-white-robot.json) |
+| Chaos Angels | 69982 | [69982-chaos-angels.json](./69982-chaos-angels.json) |
 | Chaos Arena | 174640 | [174640-chaos-arena.json](./174640-chaos-arena.json) |
 | Chaos Ascension | 327852 | [327852-chaos-ascension.json](./327852-chaos-ascension.json) |
 | Chaos Awakens | 232656 | [232656-chaos-awakens.json](./232656-chaos-awakens.json) |
@@ -22014,6 +22016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
 | Curious George Goes Shopping | 39367 | [39367-curious-george-goes-shopping.json](./39367-curious-george-goes-shopping.json) |
 | Curious George In Outer Space | 39364 | [39364-curious-george-in-outer-space.json](./39364-curious-george-in-outer-space.json) |
+| Curious George Learns Phonics | 69993 | [69993-curious-george-learns-phonics.json](./69993-curious-george-learns-phonics.json) |
 | Curious George Visits the Library | 39365 | [39365-curious-george-visits-the-library.json](./39365-curious-george-visits-the-library.json) |
 | Curious George: Downtown Adventure | 73973 | [73973-curious-george-downtown-adventure.json](./73973-curious-george-downtown-adventure.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
