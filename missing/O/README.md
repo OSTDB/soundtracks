@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Caucasus | 369475 | [369475-operation-caucasus.json](./369475-operation-caucasus.json) |
 | Operation Chromite 1950 VR | 86506 | [86506-operation-chromite-1950-vr.json](./86506-operation-chromite-1950-vr.json) |
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
+| Operation Combat II: By Land, Sea & Air | 50075 | [50075-operation-combat-ii-by-land-sea-and-air.json](./50075-operation-combat-ii-by-land-sea-and-air.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
 | Operation Creature Feature | 93953 | [93953-operation-creature-feature.json](./93953-operation-creature-feature.json) |
 | Operation Crimson | 412272 | [412272-operation-crimson.json](./412272-operation-crimson.json) |
