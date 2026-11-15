@@ -15921,6 +15921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Mouse | 45680 | [45680-smart-mouse.json](./45680-smart-mouse.json) |
+| Smart Move | 69471 | [69471-smart-move.json](./69471-smart-move.json) |
 | Smart Moves | 132947 | [132947-smart-moves.json](./132947-smart-moves.json) |
 | Smart Moves 2 | 149913 | [149913-smart-moves-2.json](./149913-smart-moves-2.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
@@ -28934,6 +28935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam and Sacrilege | 57493 | [57493-steam-and-sacrilege.json](./57493-steam-and-sacrilege.json) |
 | Steam and Silk | 115396 | [115396-steam-and-silk.json](./115396-steam-and-silk.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
+| Steam Brigade | 70003 | [70003-steam-brigade.json](./70003-steam-brigade.json) |
 | Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
 | Steam Dreams | 332762 | [332762-steam-dreams.json](./332762-steam-dreams.json) |
 | Steam Droid | 270508 | [270508-steam-droid.json](./270508-steam-droid.json) |
@@ -32210,6 +32212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
+| Su-27 Flanker: Squadron Commander's Edition | 69995 | [69995-su-27-flanker-squadron-commanders-edition.json](./69995-su-27-flanker-squadron-commanders-edition.json) |
 | SU-93 Survivor | 401301 | [401301-su-93-survivor.json](./401301-su-93-survivor.json) |
 | Su: Unlocking the 4th Dimension | 297903 | [297903-su-unlocking-the-4th-dimension.json](./297903-su-unlocking-the-4th-dimension.json) |
 | Su! | 223341 | [223341-su.json](./223341-su.json) |
