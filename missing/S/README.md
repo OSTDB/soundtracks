@@ -13993,6 +13993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fleet | 144190 | [144190-sky-fleet.json](./144190-sky-fleet.json) |
 | Sky Flight | 110968 | [110968-sky-flight.json](./110968-sky-flight.json) |
 | Sky Flowers | 404449 | [404449-sky-flowers.json](./404449-sky-flowers.json) |
+| Sky Force | 77475 | [77475-sky-force.json](./77475-sky-force.json) |
 | Sky Force Bundle | 118869 | [118869-sky-force-bundle.json](./118869-sky-force-bundle.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fox | 39301 | [39301-sky-fox.json](./39301-sky-fox.json) |
@@ -30477,6 +30478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
 | Stormforce | 270425 | [270425-stormforce.json](./270425-stormforce.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
+| StormFront 1944 | 77496 | [77496-stormfront-1944.json](./77496-stormfront-1944.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
 | Stormhill Mystery: Family Shadows | 113784 | [113784-stormhill-mystery-family-shadows.json](./113784-stormhill-mystery-family-shadows.json) |
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
@@ -31056,6 +31058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
 | Stream Games | 395067 | [395067-stream-games.json](./395067-stream-games.json) |
+| Stream Legends | 77478 | [77478-stream-legends.json](./77478-stream-legends.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
 | Stream Pairs | 191270 | [191270-stream-pairs.json](./191270-stream-pairs.json) |
