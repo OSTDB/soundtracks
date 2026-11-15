@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake God | 369205 | [369205-fake-god.json](./369205-fake-god.json) |
 | Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
 | Fake Heart | 224298 | [224298-fake-heart.json](./224298-fake-heart.json) |
+| Fake Hero | 428118 | [428118-fake-hero.json](./428118-fake-hero.json) |
 | Fake Hostel | 166628 | [166628-fake-hostel.json](./166628-fake-hostel.json) |
 | Fake Illusions | 137430 | [137430-fake-illusions.json](./137430-fake-illusions.json) |
 | Fake Lay | 98501 | [98501-fake-lay.json](./98501-fake-lay.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Fatale | 154159 | [154159-farm-fatale.json](./154159-farm-fatale.json) |
 | Farm Fest | 68994 | [68994-farm-fest.json](./68994-farm-fest.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
+| Farm for You | 428121 | [428121-farm-for-you.json](./428121-farm-for-you.json) |
 | Farm for your Life | 30248 | [30248-farm-for-your-life.json](./30248-farm-for-your-life.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
 | Farm Frenzy 2 | 16091 | [16091-farm-frenzy-2.json](./16091-farm-frenzy-2.json) |
@@ -4082,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
 | Feather Party | 250688 | [250688-feather-party.json](./250688-feather-party.json) |
+| Feather Trace | 428109 | [428109-feather-trace.json](./428109-feather-trace.json) |
 | Feather Trail | 288715 | [288715-feather-trail.json](./288715-feather-trail.json) |
 | Featherborn | 309743 | [309743-featherborn.json](./309743-featherborn.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
@@ -9246,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
 | Flora's Fruit Farm | 16047 | [16047-floras-fruit-farm.json](./16047-floras-fruit-farm.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
+| Florafarm | 428119 | [428119-florafarm.json](./428119-florafarm.json) |
 | Floragram | 186585 | [186585-floragram.json](./186585-floragram.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
 | Floral Disaffect | 386065 | [386065-floral-disaffect.json](./386065-floral-disaffect.json) |
@@ -15832,6 +15836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuuka: A Summer Memory | 206006 | [206006-fuuka-a-summer-memory.json](./206006-fuuka-a-summer-memory.json) |
 | Fuukan no Grasesta | 259214 | [259214-fuukan-no-grasesta.json](./259214-fuukan-no-grasesta.json) |
+| Fuun to Kouun to Koi Uranai no Tarot | 428142 | [428142-fuun-to-kouun-to-koi-uranai-no-tarot.json](./428142-fuun-to-kouun-to-koi-uranai-no-tarot.json) |
 | Fuuraiki | 326096 | [326096-fuuraiki.json](./326096-fuuraiki.json) |
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
 | Fuuraiki 2 | 64631 | [64631-fuuraiki-2.json](./64631-fuuraiki-2.json) |
