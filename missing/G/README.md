@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | Gears Pop! | 103290 | [103290-gears-pop.json](./103290-gears-pop.json) |
 | Gears Story | 292471 | [292471-gears-story.json](./292471-gears-story.json) |
+| Gears Tactics | 103291 | [103291-gears-tactics.json](./103291-gears-tactics.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
 | Gears Unchained: The Rise of Revolution | 309380 | [309380-gears-unchained-the-rise-of-revolution.json](./309380-gears-unchained-the-rise-of-revolution.json) |
 | Gearshifters | 157821 | [157821-gearshifters.json](./157821-gearshifters.json) |
@@ -7330,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun 64 | 283357 | [283357-golden-sun-64.json](./283357-golden-sun-64.json) |
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
+| Golden Sun: Dark Dawn | 1174 | [1174-golden-sun-dark-dawn.json](./1174-golden-sun-dark-dawn.json) |
 | Golden Sun: Dawn of Djinn | 269907 | [269907-golden-sun-dawn-of-djinn.json](./269907-golden-sun-dawn-of-djinn.json) |
 | Golden Sunshine Beside You | 373565 | [373565-golden-sunshine-beside-you.json](./373565-golden-sunshine-beside-you.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
@@ -7373,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | GoldenEye 007 | 350140 | [350140-goldeneye-007.json](./350140-goldeneye-007.json) |
 | GoldenEye 007: Recompiled | 406470 | [406470-goldeneye-007-recompiled.json](./406470-goldeneye-007-recompiled.json) |
+| GoldenEye 007: Reloaded | 1651 | [1651-goldeneye-007-reloaded.json](./1651-goldeneye-007-reloaded.json) |
 | GoldenEye 007: Xbox Live Arcade | 143406 | [143406-goldeneye-007-xbox-live-arcade.json](./143406-goldeneye-007-xbox-live-arcade.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
 | GoldenEye With Mario Characters | 283110 | [283110-goldeneye-with-mario-characters.json](./283110-goldeneye-with-mario-characters.json) |
@@ -11743,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Sign - Limited Edition | 42907 | [42907-guilty-gear-xrd-sign-limited-edition.json](./42907-guilty-gear-xrd-sign-limited-edition.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
 | Guilty Gear XX Accent Core Plus | 5642 | [5642-guilty-gear-xx-accent-core-plus.json](./5642-guilty-gear-xx-accent-core-plus.json) |
+| Guilty Gear XX Accent Core Plus R | 9146 | [9146-guilty-gear-xx-accent-core-plus-r.json](./9146-guilty-gear-xx-accent-core-plus-r.json) |
 | Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
 | Guilty Gear: Strive | 125764 | [125764-guilty-gear-strive.json](./125764-guilty-gear-strive.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
