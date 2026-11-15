@@ -17212,6 +17212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Blade II | 107605 | [107605-dragons-blade-ii.json](./107605-dragons-blade-ii.json) |
 | Dragon's Blade: Heroes of Larkwood | 181656 | [181656-dragons-blade-heroes-of-larkwood.json](./181656-dragons-blade-heroes-of-larkwood.json) |
 | Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
+| Dragon's Breath: Chronicles of the Red Dragon | 427588 | [427588-dragons-breath-chronicles-of-the-red-dragon.json](./427588-dragons-breath-chronicles-of-the-red-dragon.json) |
 | Dragon's Brew | 317112 | [317112-dragons-brew.json](./317112-dragons-brew.json) |
 | Dragon's Chronicles | 304926 | [304926-dragons-chronicles.json](./304926-dragons-chronicles.json) |
 | Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
@@ -21655,6 +21656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
 | Dynamic | 30875 | [30875-dynamic.json](./30875-dynamic.json) |
 | Dynamic Arms VR | 190968 | [190968-dynamic-arms-vr.json](./190968-dynamic-arms-vr.json) |
+| Dynamic Breach | 427555 | [427555-dynamic-breach.json](./427555-dynamic-breach.json) |
 | Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
 | Dynamic Chord feat. Apple-Polisher: V Edition | 223081 | [223081-dynamic-chord-feat-apple-polisher-v-edition.json](./223081-dynamic-chord-feat-apple-polisher-v-edition.json) |
 | Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
