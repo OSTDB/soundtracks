@@ -5504,7 +5504,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debut Project: Cooking Cafe | 316507 | [316507-debut-project-cooking-cafe.json](./316507-debut-project-cooking-cafe.json) |
 | Debut: Planet Simulation | 12567 | [12567-debut-planet-simulation.json](./12567-debut-planet-simulation.json) |
 | Deca | 113066 | [113066-deca.json](./113066-deca.json) |
+| Deca Sports 2 | 20695 | [20695-deca-sports-2.json](./20695-deca-sports-2.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
+| Deca Sports DS | 20696 | [20696-deca-sports-ds.json](./20696-deca-sports-ds.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
 | Decabristov Street | 166887 | [166887-decabristov-street.json](./166887-decabristov-street.json) |
@@ -10544,6 +10546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
 | Dimension Warrior | 334232 | [334232-dimension-warrior.json](./334232-dimension-warrior.json) |
+| Dimension X | 18662 | [18662-dimension-x.json](./18662-dimension-x.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensional | 26578 | [26578-dimensional.json](./26578-dimensional.json) |
 | Dimensional Animals | 244160 | [244160-dimensional-animals.json](./244160-dimensional-animals.json) |
@@ -11986,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pooh's Party Game: In Search of the Treasure | 43724 | [43724-disneys-poohs-party-game-in-search-of-the-treasure.json](./43724-disneys-poohs-party-game-in-search-of-the-treasure.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
 | Disney's Ready For Math With Pooh | 85959 | [85959-disneys-ready-for-math-with-pooh.json](./85959-disneys-ready-for-math-with-pooh.json) |
+| Disney's Ready to Read with Pooh | 20390 | [20390-disneys-ready-to-read-with-pooh.json](./20390-disneys-ready-to-read-with-pooh.json) |
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's Story Studio: Disney's Mulan | 44839 | [44839-disneys-story-studio-disneys-mulan.json](./44839-disneys-story-studio-disneys-mulan.json) |
 | Disney's TaleSpin | 138106 | [138106-disneys-talespin.json](./138106-disneys-talespin.json) |
@@ -13899,6 +13903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Bug Me! | 191456 | [191456-dont-bug-me.json](./191456-dont-bug-me.json) |
 | Don't Burn | 118998 | [118998-dont-burn.json](./118998-dont-burn.json) |
 | Don't Burst My Balloon | 373875 | [373875-dont-burst-my-balloon.json](./373875-dont-burst-my-balloon.json) |
+| Don't Buy This | 18668 | [18668-dont-buy-this.json](./18668-dont-buy-this.json) |
 | Don't Byte Your Tongue | 239460 | [239460-dont-byte-your-tongue.json](./239460-dont-byte-your-tongue.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
 | Don't Chat With Strangers | 26739 | [26739-dont-chat-with-strangers.json](./26739-dont-chat-with-strangers.json) |
