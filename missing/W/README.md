@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
 | We Ride | 125498 | [125498-we-ride.json](./125498-we-ride.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
+| We Rule | 66834 | [66834-we-rule.json](./66834-we-rule.json) |
 | We See You | 207618 | [207618-we-see-you.json](./207618-we-see-you.json) |
 | We should talk. | 132400 | [132400-we-should-talk.json](./132400-we-should-talk.json) |
 | We Sing | 5266 | [5266-we-sing.json](./5266-we-sing.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
 | Westworld Awakening | 121924 | [121924-westworld-awakening.json](./121924-westworld-awakening.json) |
 | Wet | 331273 | [331273-wet.json](./331273-wet.json) |
+| Wet 2 | 66297 | [66297-wet-2.json](./66297-wet-2.json) |
 | Wet and Wild | 369893 | [369893-wet-and-wild.json](./369893-wet-and-wild.json) |
 | Wet Attack: The Empire Cums Back | 73159 | [73159-wet-attack-the-empire-cums-back.json](./73159-wet-attack-the-empire-cums-back.json) |
 | Wet Beach Pussies | 384992 | [384992-wet-beach-pussies.json](./384992-wet-beach-pussies.json) |
@@ -7404,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witty Cat | 123131 | [123131-witty-cat.json](./123131-witty-cat.json) |
 | Witty witch | 152455 | [152455-witty-witch.json](./152455-witty-witch.json) |
 | Witz | 377527 | [377527-witz.json](./377527-witz.json) |
+| Wiwi's Adventures 2 | 66276 | [66276-wiwis-adventures-2.json](./66276-wiwis-adventures-2.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
