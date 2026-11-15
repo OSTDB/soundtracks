@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-15T02:46:07.993Z",
-  "total_soundtracks": 3385,
+  "generated_at": "2026-11-15T02:55:54.713Z",
+  "total_soundtracks": 3386,
   "games": [
     {
       "igdb_id": 292844,
@@ -24727,6 +24727,20 @@
         {
           "album_name": "No Case Should Remain Unsolved (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1HG3880k5Qiforw4SPy9Gc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116408,
+      "game_name": "No Longer Home",
+      "game_url": "https://ostdb.net/games/no-longer-home",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273182b8d4d11726974b9f55a92",
+      "albums": [
+        {
+          "album_name": "No Longer Home (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0f7SnEs4RaRklGuTzGyogj",
           "apple_music_url": "",
           "album_link_url": ""
         }
