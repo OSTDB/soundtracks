@@ -2996,6 +2996,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
+| Way of the Hunter 2: Heirloom Pack | 420999 | [420999-way-of-the-hunter-2-heirloom-pack.json](./420999-way-of-the-hunter-2-heirloom-pack.json) |
+| Way of the Hunter 2: Lodge Decoration | 420998 | [420998-way-of-the-hunter-2-lodge-decoration.json](./420998-way-of-the-hunter-2-lodge-decoration.json) |
+| Way of the Hunter 2: Night Hunting Pack | 421000 | [421000-way-of-the-hunter-2-night-hunting-pack.json](./421000-way-of-the-hunter-2-night-hunting-pack.json) |
 | Way of the Hunter: Aurora Shores | 239446 | [239446-way-of-the-hunter-aurora-shores.json](./239446-way-of-the-hunter-aurora-shores.json) |
 | Way of the Hunter: Elite Edition | 207091 | [207091-way-of-the-hunter-elite-edition.json](./207091-way-of-the-hunter-elite-edition.json) |
 | Way of the Hunter: Elkcrest Island | 403887 | [403887-way-of-the-hunter-elkcrest-island.json](./403887-way-of-the-hunter-elkcrest-island.json) |
@@ -5956,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Shooter | 371137 | [371137-wild-west-shooter.json](./371137-wild-west-shooter.json) |
 | Wild West Shootout | 50986 | [50986-wild-west-shootout.json](./50986-wild-west-shootout.json) |
 | Wild West Showdown | 217739 | [217739-wild-west-showdown.json](./217739-wild-west-showdown.json) |
+| Wild West Simulator | 420889 | [420889-wild-west-simulator.json](./420889-wild-west-simulator.json) |
 | Wild West Steam Loco | 132737 | [132737-wild-west-steam-loco.json](./132737-wild-west-steam-loco.json) |
 | Wild West Story: The Beginnings | 215032 | [215032-wild-west-story-the-beginnings.json](./215032-wild-west-story-the-beginnings.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
@@ -6617,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan: Bird Pack - British Birds | 414782 | [414782-wingspan-bird-pack-british-birds.json](./414782-wingspan-bird-pack-british-birds.json) |
 | Wingspan: European Expansion | 197499 | [197499-wingspan-european-expansion.json](./197499-wingspan-european-expansion.json) |
 | Wingspan: Oceania Expansion | 226575 | [226575-wingspan-oceania-expansion.json](./226575-wingspan-oceania-expansion.json) |
+| Wingspan: Seasonal Decorative Pack | 420996 | [420996-wingspan-seasonal-decorative-pack.json](./420996-wingspan-seasonal-decorative-pack.json) |
 | Wingspan: Seasonal Decorative Pack 2 | 414783 | [414783-wingspan-seasonal-decorative-pack-2.json](./414783-wingspan-seasonal-decorative-pack-2.json) |
 | Wingspan: Special Edition | 154223 | [154223-wingspan-special-edition.json](./154223-wingspan-special-edition.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
