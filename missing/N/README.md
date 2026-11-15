@@ -5819,6 +5819,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Stealth 3 | 76311 | [76311-ninja-stealth-3.json](./76311-ninja-stealth-3.json) |
 | Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
 | Ninja Stealth 5 | 301308 | [301308-ninja-stealth-5.json](./301308-ninja-stealth-5.json) |
+| Ninja Stealth Collection | 53420 | [53420-ninja-stealth-collection.json](./53420-ninja-stealth-collection.json) |
+| Ninja Stealth Complete | 53421 | [53421-ninja-stealth-complete.json](./53421-ninja-stealth-complete.json) |
 | Ninja Step | 364651 | [364651-ninja-step.json](./364651-ninja-step.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Strike | 11189 | [11189-ninja-strike.json](./11189-ninja-strike.json) |
@@ -7233,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms: Pirates | 285703 | [285703-nonograms-pirates.json](./285703-nonograms-pirates.json) |
 | Nonograms: Vegetables | 285707 | [285707-nonograms-vegetables.json](./285707-nonograms-vegetables.json) |
 | Nonograms: Weapons | 285702 | [285702-nonograms-weapons.json](./285702-nonograms-weapons.json) |
+| Nonograms: Wolf's Stories | 53422 | [53422-nonograms-wolfs-stories.json](./53422-nonograms-wolfs-stories.json) |
 | NonogramZ: 1000+ online pic-a-pix puzzles | 87288 | [87288-nonogramz-1000-online-pic-a-pix-puzzles.json](./87288-nonogramz-1000-online-pic-a-pix-puzzles.json) |
 | Nonogueram | 395904 | [395904-nonogueram.json](./395904-nonogueram.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
@@ -7453,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Depths | 367459 | [367459-north-depths.json](./367459-north-depths.json) |
 | North Frontier | 210950 | [210950-north-frontier.json](./210950-north-frontier.json) |
 | North Hunt | 378130 | [378130-north-hunt.json](./378130-north-hunt.json) |
+| North London Line Collection | 53423 | [53423-north-london-line-collection.json](./53423-north-london-line-collection.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
 | North of Iraq Part 1 | 128318 | [128318-north-of-iraq-part-1.json](./128318-north-of-iraq-part-1.json) |
 | North of Nowhere | 216970 | [216970-north-of-nowhere.json](./216970-north-of-nowhere.json) |
@@ -7751,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Your Mama's Autobattler | 212079 | [212079-not-your-mamas-autobattler.json](./212079-not-your-mamas-autobattler.json) |
 | Not Your Mind | 201104 | [201104-not-your-mind.json](./201104-not-your-mind.json) |
 | Notakto | 233722 | [233722-notakto.json](./233722-notakto.json) |
+| Notch - The Innocent LunA Collection | 53424 | [53424-notch-the-innocent-luna-collection.json](./53424-notch-the-innocent-luna-collection.json) |
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
 | NotChess | 362748 | [362748-notchess.json](./362748-notchess.json) |
 | NotCoD | 33686 | [33686-notcod.json](./33686-notcod.json) |
