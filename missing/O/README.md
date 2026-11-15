@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
 | OctagonEdges | 59485 | [59485-octagonedges.json](./59485-octagonedges.json) |
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
+| Octalide | 428781 | [428781-octalide.json](./428781-octalide.json) |
 | Octamari Rescue | 32844 | [32844-octamari-rescue.json](./32844-octamari-rescue.json) |
 | Octane Remix | 134307 | [134307-octane-remix.json](./134307-octane-remix.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Sense and Soul | 234243 | [234243-of-sense-and-soul.json](./234243-of-sense-and-soul.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of Slimes and Sandwiches | 299315 | [299315-of-slimes-and-sandwiches.json](./299315-of-slimes-and-sandwiches.json) |
+| Of Tales and Deeds | 428746 | [428746-of-tales-and-deeds.json](./428746-of-tales-and-deeds.json) |
 | Of Tanks and Demons III | 138909 | [138909-of-tanks-and-demons-iii.json](./138909-of-tanks-and-demons-iii.json) |
 | Of the Devil | 234801 | [234801-of-the-devil.json](./234801-of-the-devil.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
