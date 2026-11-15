@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Island | 372065 | [372065-zombie-island.json](./372065-zombie-island.json) |
 | Zombie Island Paradise | 298971 | [298971-zombie-island-paradise.json](./298971-zombie-island-paradise.json) |
 | Zombie Isle | 343474 | [343474-zombie-isle.json](./343474-zombie-isle.json) |
+| Zombie Jack | 56691 | [56691-zombie-jack.json](./56691-zombie-jack.json) |
 | Zombie Jam 1 | 322335 | [322335-zombie-jam-1.json](./322335-zombie-jam-1.json) |
 | Zombie Jam 2 | 322336 | [322336-zombie-jam-2.json](./322336-zombie-jam-2.json) |
 | Zombie jokers 2 | 243877 | [243877-zombie-jokers-2.json](./243877-zombie-jokers-2.json) |
