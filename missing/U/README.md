@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untangle Goats | 318496 | [318496-untangle-goats.json](./318496-untangle-goats.json) |
 | Untangled: Payback | 168578 | [168578-untangled-payback.json](./168578-untangled-payback.json) |
 | Untapped | 364160 | [364160-untapped.json](./364160-untapped.json) |
+| Untarctica | 422219 | [422219-untarctica.json](./422219-untarctica.json) |
 | Untei DX | 295918 | [295918-untei-dx.json](./295918-untei-dx.json) |
 | Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
 | Unterholz | 322255 | [322255-unterholz.json](./322255-unterholz.json) |
