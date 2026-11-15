@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Half of Darkness II | 65484 | [65484-last-half-of-darkness-ii.json](./65484-last-half-of-darkness-ii.json) |
 | Last Half of Darkness: Beyond the Spirit's Eye | 59957 | [59957-last-half-of-darkness-beyond-the-spirits-eye.json](./59957-last-half-of-darkness-beyond-the-spirits-eye.json) |
 | Last Half of Darkness: Shadows of the Servants | 59956 | [59956-last-half-of-darkness-shadows-of-the-servants.json](./59956-last-half-of-darkness-shadows-of-the-servants.json) |
+| Last Half of Darkness: Tomb of Zojir | 20442 | [20442-last-half-of-darkness-tomb-of-zojir.json](./20442-last-half-of-darkness-tomb-of-zojir.json) |
 | Last Hammashan: Awakening of a Hero | 364051 | [364051-last-hammashan-awakening-of-a-hero.json](./364051-last-hammashan-awakening-of-a-hero.json) |
 | Last Harbor | 404696 | [404696-last-harbor.json](./404696-last-harbor.json) |
 | Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
@@ -3038,7 +3039,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Purple Tit | 73916 | [73916-legend-of-the-purple-tit.json](./73916-legend-of-the-purple-tit.json) |
 | Legend of the Red Dragon | 73573 | [73573-legend-of-the-red-dragon.json](./73573-legend-of-the-red-dragon.json) |
 | Legend of the Red Dragon II: New World | 71843 | [71843-legend-of-the-red-dragon-ii-new-world.json](./71843-legend-of-the-red-dragon-ii-new-world.json) |
+| Legend of the River King 2 | 20516 | [20516-legend-of-the-river-king-2.json](./20516-legend-of-the-river-king-2.json) |
 | Legend of the River King GB | 20514 | [20514-legend-of-the-river-king-gb.json](./20514-legend-of-the-river-king-gb.json) |
+| Legend of the River King GBC | 20515 | [20515-legend-of-the-river-king-gbc.json](./20515-legend-of-the-river-king-gbc.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
 | Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
