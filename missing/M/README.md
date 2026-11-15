@@ -15033,6 +15033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai #167 | 195899 | [195899-mirai-167.json](./195899-mirai-167.json) |
 | Mirai Dagakki FutureTomTom | 140962 | [140962-mirai-dagakki-futuretomtom.json](./140962-mirai-dagakki-futuretomtom.json) |
 | Mirai Dagakki FutureTomTom Ver. 2 | 140964 | [140964-mirai-dagakki-futuretomtom-ver-2.json](./140964-mirai-dagakki-futuretomtom-ver-2.json) |
+| Mirai Nikki RE: Write - 13nin-me no Nikki Shoyuusha | 65148 | [65148-mirai-nikki-re-write-13nin-me-no-nikki-shoyuusha.json](./65148-mirai-nikki-re-write-13nin-me-no-nikki-shoyuusha.json) |
 | Mirai Nikki: The 13th Diary Holder | 66417 | [66417-mirai-nikki-the-13th-diary-holder.json](./66417-mirai-nikki-the-13th-diary-holder.json) |
 | Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
@@ -22185,6 +22186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutational Loading | 333318 | [333318-mutational-loading.json](./333318-mutational-loading.json) |
 | Mutations | 300556 | [300556-mutations.json](./300556-mutations.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
+| Mute Crimson | 65691 | [65691-mute-crimson.json](./65691-mute-crimson.json) |
 | Mute Crimson DX | 293595 | [293595-mute-crimson-dx.json](./293595-mute-crimson-dx.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muted | 247899 | [247899-muted.json](./247899-muted.json) |
