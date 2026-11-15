@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Blood and Sand | 59572 | [59572-tales-of-blood-and-sand.json](./59572-tales-of-blood-and-sand.json) |
 | Tales of Bloomrise | 364176 | [364176-tales-of-bloomrise.json](./364176-tales-of-bloomrise.json) |
 | Tales of Card Evolve | 294591 | [294591-tales-of-card-evolve.json](./294591-tales-of-card-evolve.json) |
+| Tales of Carmelot: The missing pot of gold | 28345 | [28345-tales-of-carmelot-the-missing-pot-of-gold.json](./28345-tales-of-carmelot-the-missing-pot-of-gold.json) |
 | Tales of Chandar | 149681 | [149681-tales-of-chandar.json](./149681-tales-of-chandar.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
@@ -13473,6 +13474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 231538 | [231538-the-last-journey.json](./231538-the-last-journey.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
+| The Last Journey | 28277 | [28277-the-last-journey.json](./28277-the-last-journey.json) |
 | The Last Journey: 19 Shengli Road | 165804 | [165804-the-last-journey-19-shengli-road.json](./165804-the-last-journey-19-shengli-road.json) |
 | The Last Joy | 384309 | [384309-the-last-joy.json](./384309-the-last-joy.json) |
 | The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
@@ -20412,6 +20414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncanny X-Men: Days of the Future Past | 62067 | [62067-the-uncanny-x-men-days-of-the-future-past.json](./62067-the-uncanny-x-men-days-of-the-future-past.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
+| The Uncertain: VR Experience | 28269 | [28269-the-uncertain-vr-experience.json](./28269-the-uncertain-vr-experience.json) |
 | The Uncertainty Machine | 73056 | [73056-the-uncertainty-machine.json](./73056-the-uncertainty-machine.json) |
 | The Uncle Who Works for Nintendo | 60754 | [60754-the-uncle-who-works-for-nintendo.json](./60754-the-uncle-who-works-for-nintendo.json) |
 | The Unclearness | 121137 | [121137-the-unclearness.json](./121137-the-unclearness.json) |
