@@ -5159,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
 | Lifeline | 83829 | [83829-lifeline.json](./83829-lifeline.json) |
+| Lifeline 2 | 39253 | [39253-lifeline-2.json](./39253-lifeline-2.json) |
 | LifeLine 2018 | 183264 | [183264-lifeline-2018.json](./183264-lifeline-2018.json) |
 | Lifeline: Beside You in Time | 208005 | [208005-lifeline-beside-you-in-time.json](./208005-lifeline-beside-you-in-time.json) |
 | Lifeline: Crisis Line | 57541 | [57541-lifeline-crisis-line.json](./57541-lifeline-crisis-line.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
 | Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
+| Lost Journey | 39250 | [39250-lost-journey.json](./39250-lost-journey.json) |
 | Lost Journey (Dreamsky) | 101986 | [101986-lost-journey-dreamsky.json](./101986-lost-journey-dreamsky.json) |
 | Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
