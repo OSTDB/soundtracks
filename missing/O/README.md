@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Move Checkmate: Chess Brain Trainer | 411144 | [411144-one-move-checkmate-chess-brain-trainer.json](./411144-one-move-checkmate-chess-brain-trainer.json) |
 | One-Off | 300872 | [300872-one-off.json](./300872-one-off.json) |
 | One-Off R | 300876 | [300876-one-off-r.json](./300876-one-off-r.json) |
+| One-on-One Basketball | 46918 | [46918-one-on-one-basketball.json](./46918-one-on-one-basketball.json) |
 | One-Punch Man: Road to Hero 2.0 | 137749 | [137749-one-punch-man-road-to-hero-2-0.json](./137749-one-punch-man-road-to-hero-2-0.json) |
 | One-Screen Game | 334538 | [334538-one-screen-game.json](./334538-one-screen-game.json) |
 | One-sided Loneliness | 304091 | [304091-one-sided-loneliness.json](./304091-one-sided-loneliness.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Serpens | 138890 | [138890-operation-serpens.json](./138890-operation-serpens.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
 | Operation Shadow | 72916 | [72916-operation-shadow.json](./72916-operation-shadow.json) |
+| Operation Shadow: Theatres of War | 47585 | [47585-operation-shadow-theatres-of-war.json](./47585-operation-shadow-theatres-of-war.json) |
 | Operation Sheep Defense | 55400 | [55400-operation-sheep-defense.json](./55400-operation-sheep-defense.json) |
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
 | Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
