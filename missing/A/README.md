@@ -5638,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent B0rk | 27914 | [27914-agent-b0rk.json](./27914-agent-b0rk.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
+| Agent Cat | 44135 | [44135-agent-cat.json](./44135-agent-cat.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
 | Agent Dash | 64565 | [64565-agent-dash.json](./64565-agent-dash.json) |
 | Agent Dunoz | 333433 | [333433-agent-dunoz.json](./333433-agent-dunoz.json) |
@@ -15155,6 +15156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardentryst | 256691 | [256691-ardentryst.json](./256691-ardentryst.json) |
 | Arderico's Journey | 313516 | [313516-ardericos-journey.json](./313516-ardericos-journey.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
+| Ardok the Barbarian | 44153 | [44153-ardok-the-barbarian.json](./44153-ardok-the-barbarian.json) |
 | Ardor | 199386 | [199386-ardor.json](./199386-ardor.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
