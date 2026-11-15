@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Away: Three Kingdoms | 295058 | [295058-victory-away-three-kingdoms.json](./295058-victory-away-three-kingdoms.json) |
 | Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
 | Victory Belles: Battleship Girls of WWII | 109993 | [109993-victory-belles-battleship-girls-of-wwii.json](./109993-victory-belles-battleship-girls-of-wwii.json) |
+| Victory Boxing | 45502 | [45502-victory-boxing.json](./45502-victory-boxing.json) |
 | Victory Boxing Champion Edition | 43728 | [43728-victory-boxing-champion-edition.json](./43728-victory-boxing-champion-edition.json) |
 | Victory Bubbles | 106662 | [106662-victory-bubbles.json](./106662-victory-bubbles.json) |
 | Victory Command: Battle Arena | 60262 | [60262-victory-command-battle-arena.json](./60262-victory-command-battle-arena.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Murder 2: The Magic Death | 71929 | [71929-virtual-murder-2-the-magic-death.json](./71929-virtual-murder-2-the-magic-death.json) |
 | Virtual Near Death Experience | 240614 | [240614-virtual-near-death-experience.json](./240614-virtual-near-death-experience.json) |
 | Virtual Ninja VR | 88064 | [88064-virtual-ninja-vr.json](./88064-virtual-ninja-vr.json) |
+| Virtual Open Tennis | 45477 | [45477-virtual-open-tennis.json](./45477-virtual-open-tennis.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet | 325547 | [325547-virtual-pet.json](./325547-virtual-pet.json) |
@@ -4550,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Troopers: When Worlds Collide | 198952 | [198952-vr-troopers-when-worlds-collide.json](./198952-vr-troopers-when-worlds-collide.json) |
 | VR UAV Attack | 162847 | [162847-vr-uav-attack.json](./162847-vr-uav-attack.json) |
 | VR Ultimate Paintball: Heartbreak, Regret & Paintbots | 31754 | [31754-vr-ultimate-paintball-heartbreak-regret-and-paintbots.json](./31754-vr-ultimate-paintball-heartbreak-regret-and-paintbots.json) |
+| VR Virtua Racing | 45479 | [45479-vr-virtua-racing.json](./45479-vr-virtua-racing.json) |
 | VR Waifu: MuChan | 277843 | [277843-vr-waifu-muchan.json](./277843-vr-waifu-muchan.json) |
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
