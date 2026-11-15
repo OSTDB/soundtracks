@@ -11288,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
 | Sid Meier's Civilization VII: Friedrich (Baroque) Persona | 360538 | [360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json](./360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json) |
 | Sid Meier's Civilization VII: Genghis Khan Pack | 360535 | [360535-sid-meiers-civilization-vii-genghis-khan-pack.json](./360535-sid-meiers-civilization-vii-genghis-khan-pack.json) |
+| Sid Meier's Civilization VII: George Washington Pack | 421531 | [421531-sid-meiers-civilization-vii-george-washington-pack.json](./421531-sid-meiers-civilization-vii-george-washington-pack.json) |
 | Sid Meier's Civilization VII: Goryeo Pack | 409949 | [409949-sid-meiers-civilization-vii-goryeo-pack.json](./409949-sid-meiers-civilization-vii-goryeo-pack.json) |
 | Sid Meier's Civilization VII: Great Britain Pack | 360530 | [360530-sid-meiers-civilization-vii-great-britain-pack.json](./360530-sid-meiers-civilization-vii-great-britain-pack.json) |
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
@@ -21013,6 +21014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Sword: Grow Sword Master | 193827 | [193827-soul-sword-grow-sword-master.json](./193827-soul-sword-grow-sword-master.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
+| Soul Tamer | 421547 | [421547-soul-tamer.json](./421547-soul-tamer.json) |
 | Soul Tech: Millennium | 116052 | [116052-soul-tech-millennium.json](./116052-soul-tech-millennium.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tide | 194707 | [194707-soul-tide.json](./194707-soul-tide.json) |
@@ -23662,6 +23664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed NFL | 289009 | [289009-speed-nfl.json](./289009-speed-nfl.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed of Doom | 139026 | [139026-speed-of-doom.json](./139026-speed-of-doom.json) |
+| Speed of Life: The Lost Car | 421640 | [421640-speed-of-life-the-lost-car.json](./421640-speed-of-life-the-lost-car.json) |
 | Speed on the Grid | 239984 | [239984-speed-on-the-grid.json](./239984-speed-on-the-grid.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
@@ -40780,6 +40783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Flaw | 67695 | [67695-system-flaw.json](./67695-system-flaw.json) |
 | System Flaw Recruit | 79880 | [79880-system-flaw-recruit.json](./79880-system-flaw-recruit.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
+| System Intruder | 421553 | [421553-system-intruder.json](./421553-system-intruder.json) |
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
 | System Invaders | 161525 | [161525-system-invaders.json](./161525-system-invaders.json) |
 | System Malfunction | 304512 | [304512-system-malfunction.json](./304512-system-malfunction.json) |
