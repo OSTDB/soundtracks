@@ -10479,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock-Slide | 94350 | [94350-rock-slide.json](./94350-rock-slide.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
 | Rock, Paper and Scissors | 114274 | [114274-rock-paper-and-scissors.json](./114274-rock-paper-and-scissors.json) |
+| Rock, Paper, Rumble | 429390 | [429390-rock-paper-rumble.json](./429390-rock-paper-rumble.json) |
 | Rock, Paper, Scissors Simulator | 127238 | [127238-rock-paper-scissors-simulator.json](./127238-rock-paper-scissors-simulator.json) |
 | Rock, Paper, Scissors, Boom! | 328301 | [328301-rock-paper-scissors-boom.json](./328301-rock-paper-scissors-boom.json) |
 | Rock, Paper, Scissors, Shoot! | 408804 | [408804-rock-paper-scissors-shoot.json](./408804-rock-paper-scissors-shoot.json) |
