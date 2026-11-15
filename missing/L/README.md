@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
 | Lagoona Bundle | 354044 | [354044-lagoona-bundle.json](./354044-lagoona-bundle.json) |
 | Lagoona: Kids' activity center | 99935 | [99935-lagoona-kids-activity-center.json](./99935-lagoona-kids-activity-center.json) |
+| Lagoonia | 62921 | [62921-lagoonia.json](./62921-lagoonia.json) |
 | Lagos Life | 421783 | [421783-lagos-life.json](./421783-lagos-life.json) |
 | Lagrange Point | 48576 | [48576-lagrange-point.json](./48576-lagrange-point.json) |
 | Lagsters | 109185 | [109185-lagsters.json](./109185-lagsters.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
 | Legend of the Kitties: Return of Echoes | 332355 | [332355-legend-of-the-kitties-return-of-echoes.json](./332355-legend-of-the-kitties-return-of-echoes.json) |
+| Legend of the Knightwasher | 62916 | [62916-legend-of-the-knightwasher.json](./62916-legend-of-the-knightwasher.json) |
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Landscaper | 268260 | [268260-legend-of-the-landscaper.json](./268260-legend-of-the-landscaper.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
@@ -6751,6 +6753,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Monkeys Eat Bananas | 151030 | [151030-little-monkeys-eat-bananas.json](./151030-little-monkeys-eat-bananas.json) |
 | Little Monster | 258375 | [258375-little-monster.json](./258375-little-monster.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
+| Little Monster Private Eye: The Mummy Mystery | 63495 | [63495-little-monster-private-eye-the-mummy-mystery.json](./63495-little-monster-private-eye-the-mummy-mystery.json) |
+| Little Monster Private Eye: The Smelly Mystery | 63496 | [63496-little-monster-private-eye-the-smelly-mystery.json](./63496-little-monster-private-eye-the-smelly-mystery.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Cat's Cosmic Atlas | 277891 | [277891-little-mouses-encyclopedia-cats-cosmic-atlas.json](./277891-little-mouses-encyclopedia-cats-cosmic-atlas.json) |
 | Little Mouse's Encyclopedia + Comic Coloring Book: Complete Edition | 212784 | [212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json](./212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json) |
@@ -9760,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Letter | 317810 | [317810-love-letter.json](./317810-love-letter.json) |
 | Love Letter | 320093 | [320093-love-letter.json](./320093-love-letter.json) |
 | Love Letter | 323942 | [323942-love-letter.json](./323942-love-letter.json) |
+| Love Letter From Thief X | 63490 | [63490-love-letter-from-thief-x.json](./63490-love-letter-from-thief-x.json) |
 | Love Letter: First Draft | 310527 | [310527-love-letter-first-draft.json](./310527-love-letter-first-draft.json) |
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
 | Love Letters: First Bloom | 337264 | [337264-love-letters-first-bloom.json](./337264-love-letters-first-bloom.json) |
