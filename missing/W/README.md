@@ -8387,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Connect | 57583 | [57583-word-connect.json](./57583-word-connect.json) |
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
+| Word Connect Fun! | 87429 | [87429-word-connect-fun.json](./87429-word-connect-fun.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Cookies! | 88779 | [88779-word-cookies.json](./88779-word-cookies.json) |
 | Word Crack | 137408 | [137408-word-crack.json](./137408-word-crack.json) |
