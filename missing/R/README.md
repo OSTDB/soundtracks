@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Fights | 393247 | [393247-rail-fights.json](./393247-rail-fights.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
+| Rail Gunner | 421993 | [421993-rail-gunner.json](./421993-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
 | Rail Island | 421432 | [421432-rail-island.json](./421432-rail-island.json) |
 | Rail Maze | 19512 | [19512-rail-maze.json](./19512-rail-maze.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Legends Retold | 404044 | [404044-rayman-legends-retold.json](./404044-rayman-legends-retold.json) |
+| Rayman Legends Retold - Launch Edition | 422004 | [422004-rayman-legends-retold-launch-edition.json](./422004-rayman-legends-retold-launch-edition.json) |
 | Rayman Legends: Definitive Edition | 27239 | [27239-rayman-legends-definitive-edition.json](./27239-rayman-legends-definitive-edition.json) |
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
@@ -11876,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
+| Roly-Poly Panda: Desktop Pet | 422148 | [422148-roly-poly-panda-desktop-pet.json](./422148-roly-poly-panda-desktop-pet.json) |
 | Roly-Polys no Nanakorobi Yaoki | 123288 | [123288-roly-polys-no-nanakorobi-yaoki.json](./123288-roly-polys-no-nanakorobi-yaoki.json) |
 | Rolypolys no Sekai Daibouken | 123289 | [123289-rolypolys-no-sekai-daibouken.json](./123289-rolypolys-no-sekai-daibouken.json) |
 | Rom | 176846 | [176846-rom.json](./176846-rom.json) |
