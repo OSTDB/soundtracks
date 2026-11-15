@@ -2806,7 +2806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
 | Legal Crime | 36988 | [36988-legal-crime.json](./36988-legal-crime.json) |
-| Legal Dungeon | 115004 | [115004-legal-dungeon.json](./115004-legal-dungeon.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
 | Legam | 322260 | [322260-legam.json](./322260-legam.json) |
@@ -2900,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
 | Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
 | Legend of K-1 Grand Prix '96 | 66886 | [66886-legend-of-k-1-grand-prix-96.json](./66886-legend-of-k-1-grand-prix-96.json) |
+| Legend of K-1: The Best Collection | 66881 | [66881-legend-of-k-1-the-best-collection.json](./66881-legend-of-k-1-the-best-collection.json) |
 | Legend of Kaito: Destiny Journey | 378818 | [378818-legend-of-kaito-destiny-journey.json](./378818-legend-of-kaito-destiny-journey.json) |
 | Legend of Kalevala | 279361 | [279361-legend-of-kalevala.json](./279361-legend-of-kalevala.json) |
 | Legend of Kay | 194236 | [194236-legend-of-kay.json](./194236-legend-of-kay.json) |
