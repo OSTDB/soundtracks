@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
 | NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
 | NBA Action '95 starring David Robinson | 4551 | [4551-nba-action-95-starring-david-robinson.json](./4551-nba-action-95-starring-david-robinson.json) |
+| NBA Action 98 | 45486 | [45486-nba-action-98.json](./45486-nba-action-98.json) |
 | NBA Action starring David Robinson | 46344 | [46344-nba-action-starring-david-robinson.json](./46344-nba-action-starring-david-robinson.json) |
 | NBA All Net | 60466 | [60466-nba-all-net.json](./60466-nba-all-net.json) |
 | NBA All-Star Challenge | 49011 | [49011-nba-all-star-challenge.json](./49011-nba-all-star-challenge.json) |
@@ -4077,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFBL: National Fantasy Basketball League | 244519 | [244519-nfbl-national-fantasy-basketball-league.json](./244519-nfbl-national-fantasy-basketball-league.json) |
 | NFK: Santa's Gone Postal | 50342 | [50342-nfk-santas-gone-postal.json](./50342-nfk-santas-gone-postal.json) |
 | NFL '95 | 127140 | [127140-nfl-95.json](./127140-nfl-95.json) |
+| NFL '97 | 45485 | [45485-nfl-97.json](./45485-nfl-97.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL 2010 | 21847 | [21847-nfl-2010.json](./21847-nfl-2010.json) |
 | NFL 2K | 8842 | [8842-nfl-2k.json](./8842-nfl-2k.json) |
