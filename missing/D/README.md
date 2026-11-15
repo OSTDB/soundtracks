@@ -1536,6 +1536,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Box | 237107 | [237107-dark-box.json](./237107-dark-box.json) |
 | Dark Boy Action Platformer | 179994 | [179994-dark-boy-action-platformer.json](./179994-dark-boy-action-platformer.json) |
 | Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
+| Dark Breaker | 420369 | [420369-dark-breaker.json](./420369-dark-breaker.json) |
+| Dark Brew | 420377 | [420377-dark-brew.json](./420377-dark-brew.json) |
 | Dark Bros | 403343 | [403343-dark-bros.json](./403343-dark-bros.json) |
 | Dark Bunny | 258609 | [258609-dark-bunny.json](./258609-dark-bunny.json) |
 | Dark Burial | 118090 | [118090-dark-burial.json](./118090-dark-burial.json) |
@@ -1939,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark North | 151327 | [151327-dark-north.json](./151327-dark-north.json) |
 | Dark Notes | 212088 | [212088-dark-notes.json](./212088-dark-notes.json) |
 | Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
+| Dark Offering | 420303 | [420303-dark-offering.json](./420303-dark-offering.json) |
 | Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
@@ -2127,6 +2130,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Mystical Circus | 161536 | [161536-dark-solitaire-mystical-circus.json](./161536-dark-solitaire-mystical-circus.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
+| Dark Solitude | 420375 | [420375-dark-solitude.json](./420375-dark-solitude.json) |
+| Dark Sorcery | 420364 | [420364-dark-sorcery.json](./420364-dark-sorcery.json) |
 | Dark Soul.Ace 2 | 341843 | [341843-dark-soul-ace-2.json](./341843-dark-soul-ace-2.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Augur of Darkness | 194724 | [194724-dark-souls-ii-augur-of-darkness.json](./194724-dark-souls-ii-augur-of-darkness.json) |
@@ -2543,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSpace | 209027 | [209027-darkspace.json](./209027-darkspace.json) |
 | DarkSpace | 23448 | [23448-darkspace.json](./23448-darkspace.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
+| Darkspell Keep | 420372 | [420372-darkspell-keep.json](./420372-darkspell-keep.json) |
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
 | Darkspyre | 50453 | [50453-darkspyre.json](./50453-darkspyre.json) |
 | Darkstalkers 3 | 4135 | [4135-darkstalkers-3.json](./4135-darkstalkers-3.json) |
@@ -6164,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Underground | 371179 | [371179-deeper-underground.json](./371179-deeper-underground.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Chamber: Resurrection | 144450 | [144450-deepest-chamber-resurrection.json](./144450-deepest-chamber-resurrection.json) |
+| Deepest Darkest | 420379 | [420379-deepest-darkest.json](./420379-deepest-darkest.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
 | Deepest Dungeons | 319048 | [319048-deepest-dungeons.json](./319048-deepest-dungeons.json) |
 | Deepest Fear | 324579 | [324579-deepest-fear.json](./324579-deepest-fear.json) |
@@ -17697,6 +17704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
 | Drawn Down Abyss | 123730 | [123730-drawn-down-abyss.json](./123730-drawn-down-abyss.json) |
+| Drawn into Darkness | 420381 | [420381-drawn-into-darkness.json](./420381-drawn-into-darkness.json) |
 | Drawn Story | 33578 | [33578-drawn-story.json](./33578-drawn-story.json) |
 | Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
 | Drawn to Death | 11076 | [11076-drawn-to-death.json](./11076-drawn-to-death.json) |
