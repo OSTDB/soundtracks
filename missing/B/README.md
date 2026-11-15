@@ -6310,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatStream AnimTribe | 395961 | [395961-beatstream-animtribe.json](./395961-beatstream-animtribe.json) |
 | BeatTalk | 180973 | [180973-beattalk.json](./180973-beattalk.json) |
 | Beatus Creation Solitaire | 201004 | [201004-beatus-creation-solitaire.json](./201004-beatus-creation-solitaire.json) |
+| BeatWordz | 427561 | [427561-beatwordz.json](./427561-beatwordz.json) |
 | Beatworks Inc. | 386444 | [386444-beatworks-inc.json](./386444-beatworks-inc.json) |
 | Beau & Bow | 236462 | [236462-beau-and-bow.json](./236462-beau-and-bow.json) |
 | Beau Jolly 48K Value Pack | 100077 | [100077-beau-jolly-48k-value-pack.json](./100077-beau-jolly-48k-value-pack.json) |
@@ -11324,6 +11325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Night | 343404 | [343404-blight-night.json](./343404-blight-night.json) |
 | Blight Night: You Are Not Safe | 242000 | [242000-blight-night-you-are-not-safe.json](./242000-blight-night-you-are-not-safe.json) |
 | Blight of the Immortals | 25301 | [25301-blight-of-the-immortals.json](./25301-blight-of-the-immortals.json) |
+| Blight Swarm | 427591 | [427591-blight-swarm.json](./427591-blight-swarm.json) |
 | Blight: Survival | 211470 | [211470-blight-survival.json](./211470-blight-survival.json) |
 | Blight's Grasp | 367069 | [367069-blights-grasp.json](./367069-blights-grasp.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
@@ -15358,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottoms Up!: Part 1 | 238820 | [238820-bottoms-up-part-1.json](./238820-bottoms-up-part-1.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
+| Bottopia | 427593 | [427593-bottopia.json](./427593-bottopia.json) |
 | Botty: Paper tales | 199242 | [199242-botty-paper-tales.json](./199242-botty-paper-tales.json) |
 | Botworld Adventure | 166452 | [166452-botworld-adventure.json](./166452-botworld-adventure.json) |
 | Botworld Odyssey | 315339 | [315339-botworld-odyssey.json](./315339-botworld-odyssey.json) |
