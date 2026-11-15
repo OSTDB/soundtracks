@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
 | A Drop of Hope | 226099 | [226099-a-drop-of-hope.json](./226099-a-drop-of-hope.json) |
 | A Drop of Magenta | 422441 | [422441-a-drop-of-magenta.json](./422441-a-drop-of-magenta.json) |
+| A Druid's Duel | 9941 | [9941-a-druids-duel.json](./9941-a-druids-duel.json) |
 | A Drunk Man Looks at the Thistle Decoded | 198134 | [198134-a-drunk-man-looks-at-the-thistle-decoded.json](./198134-a-drunk-man-looks-at-the-thistle-decoded.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Duck Has An Adventure | 172832 | [172832-a-duck-has-an-adventure.json](./172832-a-duck-has-an-adventure.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the Obelisk: Tulah, the Spider Queen | 357780 | [357780-across-the-obelisk-tulah-the-spider-queen.json](./357780-across-the-obelisk-tulah-the-spider-queen.json) |
 | Across the ocean | 188780 | [188780-across-the-ocean.json](./188780-across-the-ocean.json) |
+| Across the Rhine | 9940 | [9940-across-the-rhine.json](./9940-across-the-rhine.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Table Hockey | 175087 | [175087-across-the-table-hockey.json](./175087-across-the-table-hockey.json) |
 | Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
@@ -9019,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Warrior | 242756 | [242756-alpha-warrior.json](./242756-alpha-warrior.json) |
 | Alpha Wave | 38684 | [38684-alpha-wave.json](./38684-alpha-wave.json) |
 | Alpha Wing 2 | 263423 | [263423-alpha-wing-2.json](./263423-alpha-wing-2.json) |
+| Alpha Wolf | 429739 | [429739-alpha-wolf.json](./429739-alpha-wolf.json) |
 | Alpha Zen | 232476 | [232476-alpha-zen.json](./232476-alpha-zen.json) |
 | Alpha Zone 3D | 153633 | [153633-alpha-zone-3d.json](./153633-alpha-zone-3d.json) |
 | Alpha Zoo | 190246 | [190246-alpha-zoo.json](./190246-alpha-zoo.json) |
@@ -10306,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMTAG: Another Medieval Themed Adventure Game | 316714 | [316714-amtag-another-medieval-themed-adventure-game.json](./316714-amtag-another-medieval-themed-adventure-game.json) |
 | Amtrack | 62249 | [62249-amtrack.json](./62249-amtrack.json) |
 | Amulet | 291515 | [291515-amulet.json](./291515-amulet.json) |
+| Amulet of Dreams | 32588 | [32588-amulet-of-dreams.json](./32588-amulet-of-dreams.json) |
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of the seven souls | 68186 | [68186-amulet-of-the-seven-souls.json](./68186-amulet-of-the-seven-souls.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
@@ -13743,6 +13747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquadelic GT | 17807 | [17807-aquadelic-gt.json](./17807-aquadelic-gt.json) |
 | Aquadine | 143584 | [143584-aquadine.json](./143584-aquadine.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
+| AquaDuct | 429762 | [429762-aquaduct.json](./429762-aquaduct.json) |
 | Aquaduto | 230637 | [230637-aquaduto.json](./230637-aquaduto.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
@@ -16904,6 +16909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
 | Asami Escape | 314809 | [314809-asami-escape.json](./314809-asami-escape.json) |
+| Asana | 429720 | [429720-asana.json](./429720-asana.json) |
 | Asantria | 373486 | [373486-asantria.json](./373486-asantria.json) |
 | Asari Nanami's Star Fishing | 238850 | [238850-asari-nanamis-star-fishing.json](./238850-asari-nanamis-star-fishing.json) |
 | Asatsugutori | 163145 | [163145-asatsugutori.json](./163145-asatsugutori.json) |
