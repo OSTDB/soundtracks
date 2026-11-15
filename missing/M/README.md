@@ -6449,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matterfall | 14364 | [14364-matterfall.json](./14364-matterfall.json) |
 | Matterhorn | 306001 | [306001-matterhorn.json](./306001-matterhorn.json) |
 | Matterhorn Mirka | 179540 | [179540-matterhorn-mirka.json](./179540-matterhorn-mirka.json) |
+| Matterhorn Screamer! | 71089 | [71089-matterhorn-screamer.json](./71089-matterhorn-screamer.json) |
 | Matthew: Last Journey | 152808 | [152808-matthew-last-journey.json](./152808-matthew-last-journey.json) |
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matthiola Reverie Verse: Lost Island | 204819 | [204819-matthiola-reverie-verse-lost-island.json](./204819-matthiola-reverie-verse-lost-island.json) |
@@ -6758,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayapan | 198408 | [198408-mayapan.json](./198408-mayapan.json) |
 | MayaQuest: The Mystery Trail | 73964 | [73964-mayaquest-the-mystery-trail.json](./73964-mayaquest-the-mystery-trail.json) |
 | Mayas' Virtual Brush | 63741 | [63741-mayas-virtual-brush.json](./63741-mayas-virtual-brush.json) |
+| Mayawaka | 71075 | [71075-mayawaka.json](./71075-mayawaka.json) |
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
 | Maybe Drinking. Russian Style | 102298 | [102298-maybe-drinking-russian-style.json](./102298-maybe-drinking-russian-style.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
@@ -11952,6 +11954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Entertainment Pack 3 | 124410 | [124410-microsoft-entertainment-pack-3.json](./124410-microsoft-entertainment-pack-3.json) |
 | Microsoft Entertainment Pack 4 | 79964 | [79964-microsoft-entertainment-pack-4.json](./79964-microsoft-entertainment-pack-4.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
+| Microsoft Entertainment Pack: The Puzzle Collection | 71093 | [71093-microsoft-entertainment-pack-the-puzzle-collection.json](./71093-microsoft-entertainment-pack-the-puzzle-collection.json) |
 | Microsoft Flight | 22640 | [22640-microsoft-flight.json](./22640-microsoft-flight.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
 | Microsoft Flight Simulator | 298738 | [298738-microsoft-flight-simulator.json](./298738-microsoft-flight-simulator.json) |
@@ -15437,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
+| Missing: The 13th Victim | 71091 | [71091-missing-the-13th-victim.json](./71091-missing-the-13th-victim.json) |
 | Mission | 179530 | [179530-mission.json](./179530-mission.json) |
 | Mission | 246351 | [246351-mission.json](./246351-mission.json) |
 | Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
@@ -16955,6 +16959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondice | 418722 | [418722-mondice.json](./418722-mondice.json) |
 | Mondly: Learn Languages in VR | 315636 | [315636-mondly-learn-languages-in-vr.json](./315636-mondly-learn-languages-in-vr.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
+| Mondo Medicals | 71097 | [71097-mondo-medicals.json](./71097-mondo-medicals.json) |
 | Mondo Museum | 122513 | [122513-mondo-museum.json](./122513-mondo-museum.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Mondo Reico | 308015 | [308015-mondo-reico.json](./308015-mondo-reico.json) |
@@ -17831,6 +17836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Masters | 397977 | [397977-monster-masters.json](./397977-monster-masters.json) |
 | Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
+| Monster Math | 71092 | [71092-monster-math.json](./71092-monster-math.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
 | Monster Mayhem | 377338 | [377338-monster-mayhem.json](./377338-monster-mayhem.json) |
@@ -18544,6 +18550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
 | Moon Tropica | 347210 | [347210-moon-tropica.json](./347210-moon-tropica.json) |
 | Moon Tycoon | 120150 | [120150-moon-tycoon.json](./120150-moon-tycoon.json) |
+| Moon Tycoon | 71085 | [71085-moon-tycoon.json](./71085-moon-tycoon.json) |
 | Moon Village | 119639 | [119639-moon-village.json](./119639-moon-village.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon War | 40560 | [40560-moon-war.json](./40560-moon-war.json) |
@@ -23538,6 +23545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Safe House | 97016 | [97016-my-safe-house.json](./97016-my-safe-house.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
+| My SAT Coach | 70537 | [70537-my-sat-coach.json](./70537-my-sat-coach.json) |
 | My Saturday Grounded | 307515 | [307515-my-saturday-grounded.json](./307515-my-saturday-grounded.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
 | My Secret Diary | 47799 | [47799-my-secret-diary.json](./47799-my-secret-diary.json) |
