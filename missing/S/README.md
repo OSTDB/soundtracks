@@ -21482,6 +21482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Channel 5 VR: Kinda Funky News Flash | 109296 | [109296-space-channel-5-vr-kinda-funky-news-flash.json](./109296-space-channel-5-vr-kinda-funky-news-flash.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
+| Space Chaos | 74583 | [74583-space-chaos.json](./74583-space-chaos.json) |
 | Space Chase II: Fortress of Doom! | 345227 | [345227-space-chase-ii-fortress-of-doom.json](./345227-space-chase-ii-fortress-of-doom.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chaser | 385771 | [385771-space-chaser.json](./385771-space-chaser.json) |
@@ -33610,7 +33611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundered Hope | 385435 | [385435-sundered-hope.json](./385435-sundered-hope.json) |
 | Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
 | Sundered: Eldritch Edition | 113102 | [113102-sundered-eldritch-edition.json](./113102-sundered-eldritch-edition.json) |
-| Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
 | Sundermead | 209426 | [209426-sundermead.json](./209426-sundermead.json) |
 | Sundial | 337325 | [337325-sundial.json](./337325-sundial.json) |
 | Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
