@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Sam's Supermarket Simulator | 361045 | [361045-uncle-sams-supermarket-simulator.json](./361045-uncle-sams-supermarket-simulator.json) |
 | Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
 | Uncle Ted | 169380 | [169380-uncle-ted.json](./169380-uncle-ted.json) |
+| Uncle Tony's Spooky Toyland | 426953 | [426953-uncle-tonys-spooky-toyland.json](./426953-uncle-tonys-spooky-toyland.json) |
 | Uncle Unco | 322752 | [322752-uncle-unco.json](./322752-uncle-unco.json) |
 | Uncle's Basement | 289927 | [289927-uncles-basement.json](./289927-uncles-basement.json) |
 | Uncle's Basement: Collector's pack | 296249 | [296249-uncles-basement-collectors-pack.json](./296249-uncles-basement-collectors-pack.json) |
