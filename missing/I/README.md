@@ -4110,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
 | Inferno Pathways | 347564 | [347564-inferno-pathways.json](./347564-inferno-pathways.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
+| Inferno Puzzle | 37418 | [37418-inferno-puzzle.json](./37418-inferno-puzzle.json) |
 | Inferno Quest: Journey Through the Lava Cavern | 248021 | [248021-inferno-quest-journey-through-the-lava-cavern.json](./248021-inferno-quest-journey-through-the-lava-cavern.json) |
 | Inferno Wizards | 145956 | [145956-inferno-wizards.json](./145956-inferno-wizards.json) |
 | Inferno: Beyond the 7th Circle | 150583 | [150583-inferno-beyond-the-7th-circle.json](./150583-inferno-beyond-the-7th-circle.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinifrag | 384018 | [384018-infinifrag.json](./384018-infinifrag.json) |
 | Infinifrag 2 | 384038 | [384038-infinifrag-2.json](./384038-infinifrag-2.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
+| InfiniMath - Endless Math Puzzle | 37425 | [37425-infinimath-endless-math-puzzle.json](./37425-infinimath-endless-math-puzzle.json) |
 | Infinimine | 218882 | [218882-infinimine.json](./218882-infinimine.json) |
 | Infiniminer | 92027 | [92027-infiniminer.json](./92027-infiniminer.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
