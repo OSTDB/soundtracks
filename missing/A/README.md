@@ -16293,6 +16293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 389103 | [389103-around-the-world-in-80-days.json](./389103-around-the-world-in-80-days.json) |
+| Around the World in 80 Days | 6309 | [6309-around-the-world-in-80-days.json](./6309-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 74935 | [74935-around-the-world-in-80-days.json](./74935-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 80445 | [80445-around-the-world-in-80-days.json](./80445-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 86235 | [86235-around-the-world-in-80-days.json](./86235-around-the-world-in-80-days.json) |
