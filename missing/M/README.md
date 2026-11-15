@@ -22130,6 +22130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Reach | 171734 | [171734-must-reach.json](./171734-must-reach.json) |
 | Must-a-Mine | 101872 | [101872-must-a-mine.json](./101872-must-a-mine.json) |
 | Must. Eat. Birds! | 67214 | [67214-must-eat-birds.json](./67214-must-eat-birds.json) |
+| Mustache Boy | 40384 | [40384-mustache-boy.json](./40384-mustache-boy.json) |
 | Mustache in Hell | 21997 | [21997-mustache-in-hell.json](./21997-mustache-in-hell.json) |
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
@@ -22159,6 +22160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
 | Mutant Express | 264485 | [264485-mutant-express.json](./264485-mutant-express.json) |
 | Mutant Factions | 60989 | [60989-mutant-factions.json](./60989-mutant-factions.json) |
+| Mutant Fighter | 40383 | [40383-mutant-fighter.json](./40383-mutant-fighter.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Fighting Cup 2 | 30367 | [30367-mutant-fighting-cup-2.json](./30367-mutant-fighting-cup-2.json) |
 | Mutant Fish Lab | 363066 | [363066-mutant-fish-lab.json](./363066-mutant-fish-lab.json) |
