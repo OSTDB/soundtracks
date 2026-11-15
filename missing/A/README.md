@@ -6523,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airhounds | 167484 | [167484-airhounds.json](./167484-airhounds.json) |
 | Airi's World | 51430 | [51430-airis-world.json](./51430-airis-world.json) |
 | Airia | 134380 | [134380-airia.json](./134380-airia.json) |
+| Airis | 28321 | [28321-airis.json](./28321-airis.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault | 268480 | [268480-airjet-fighter-sky-dominators-aerial-assault.json](./268480-airjet-fighter-sky-dominators-aerial-assault.json) |
 | AirJet Fighter Sky Dominators: Aerial Assault & World War II - Airplanes Battle | 393766 | [393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json](./393766-airjet-fighter-sky-dominators-aerial-assault-and-world-war-ii-airplanes-battle.json) |
 | AirJet Fighter: Sky Assault | 357723 | [357723-airjet-fighter-sky-assault.json](./357723-airjet-fighter-sky-assault.json) |
@@ -16104,6 +16105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Factory | 425843 | [425843-army-factory.json](./425843-army-factory.json) |
 | Army Gals | 34023 | [34023-army-gals.json](./34023-army-gals.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
+| Army General | 28257 | [28257-army-general.json](./28257-army-general.json) |
 | Army Guns Collector | 90759 | [90759-army-guns-collector.json](./90759-army-guns-collector.json) |
 | Army Men | 118488 | [118488-army-men.json](./118488-army-men.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
@@ -17046,6 +17048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
 | Ashes of Immortality II: Bad Blood | 35457 | [35457-ashes-of-immortality-ii-bad-blood.json](./35457-ashes-of-immortality-ii-bad-blood.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
+| Ashes of Kanaka | 28260 | [28260-ashes-of-kanaka.json](./28260-ashes-of-kanaka.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
 | Ashes of Mankind: Citadels | 396602 | [396602-ashes-of-mankind-citadels.json](./396602-ashes-of-mankind-citadels.json) |
 | Ashes of Morgravia | 345083 | [345083-ashes-of-morgravia.json](./345083-ashes-of-morgravia.json) |
@@ -18337,6 +18340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrolite | 372421 | [372421-astrolite.json](./372421-astrolite.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
+| Astrologia Odyssey IV: Chronos Reflection | 28248 | [28248-astrologia-odyssey-iv-chronos-reflection.json](./28248-astrologia-odyssey-iv-chronos-reflection.json) |
 | Astrology | 147196 | [147196-astrology.json](./147196-astrology.json) |
 | Astrology DS: The Stars in Your Hands | 315632 | [315632-astrology-ds-the-stars-in-your-hands.json](./315632-astrology-ds-the-stars-in-your-hands.json) |
 | Astroloot | 333768 | [333768-astroloot.json](./333768-astroloot.json) |
