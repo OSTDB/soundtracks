@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Vacation: California | 54018 | [54018-family-vacation-california.json](./54018-family-vacation-california.json) |
 | Family Zoo: The Story | 95329 | [95329-family-zoo-the-story.json](./95329-family-zoo-the-story.json) |
 | Family's Game Travel Pack | 104530 | [104530-familys-game-travel-pack.json](./104530-familys-game-travel-pack.json) |
+| Famine | 422728 | [422728-famine.json](./422728-famine.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
 | Famished Zombies: Decisive Extermination | 203988 | [203988-famished-zombies-decisive-extermination.json](./203988-famished-zombies-decisive-extermination.json) |
@@ -13933,6 +13934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
+| Froggi | 422731 | [422731-froggi.json](./422731-froggi.json) |
 | Froggie Dash | 311686 | [311686-froggie-dash.json](./311686-froggie-dash.json) |
 | Froggie Eggs | 344716 | [344716-froggie-eggs.json](./344716-froggie-eggs.json) |
 | Froggie Jump | 238693 | [238693-froggie-jump.json](./238693-froggie-jump.json) |
