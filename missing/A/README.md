@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Protocol | 373278 | [373278-aegis-protocol.json](./373278-aegis-protocol.json) |
 | Aegis Wing | 2601 | [2601-aegis-wing.json](./2601-aegis-wing.json) |
 | Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
+| Aegis: Innocence | 27067 | [27067-aegis-innocence.json](./27067-aegis-innocence.json) |
 | Aegis: The First Mission | 124348 | [124348-aegis-the-first-mission.json](./124348-aegis-the-first-mission.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
@@ -6970,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akira | 26411 | [26411-akira.json](./26411-akira.json) |
 | Akira | 356916 | [356916-akira.json](./356916-akira.json) |
 | Akira GBC | 316527 | [316527-akira-gbc.json](./316527-akira-gbc.json) |
+| Akira Psycho Ball | 27110 | [27110-akira-psycho-ball.json](./27110-akira-psycho-ball.json) |
 | Akira's Deep Sea Ventures | 414693 | [414693-akiras-deep-sea-ventures.json](./414693-akiras-deep-sea-ventures.json) |
 | Akira*Hero | 400567 | [400567-akira-hero.json](./400567-akira-hero.json) |
 | Akirao: A Researcher Awakens | 307134 | [307134-akirao-a-researcher-awakens.json](./307134-akirao-a-researcher-awakens.json) |
@@ -18785,6 +18787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX | 143279 | [143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json](./143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
+| Atelier Marie GB | 27121 | [27121-atelier-marie-gb.json](./27121-atelier-marie-gb.json) |
 | Atelier Marie Plus: The Alchemist of Salburg | 104982 | [104982-atelier-marie-plus-the-alchemist-of-salburg.json](./104982-atelier-marie-plus-the-alchemist-of-salburg.json) |
 | Atelier Marie Plus: The Alchemist of Salburg | 308190 | [308190-atelier-marie-plus-the-alchemist-of-salburg.json](./308190-atelier-marie-plus-the-alchemist-of-salburg.json) |
 | Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
@@ -18964,6 +18967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athyra: Rock, Paper, Scissors | 345025 | [345025-athyra-rock-paper-scissors.json](./345025-athyra-rock-paper-scissors.json) |
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
+| Ativeil | 27050 | [27050-ativeil.json](./27050-ativeil.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
 | Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
