@@ -6245,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
+| Sense of the Devil | 56653 | [56653-sense-of-the-devil.json](./56653-sense-of-the-devil.json) |
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
 | Sense: A Cyberpunk Ghost Story | 102421 | [102421-sense-a-cyberpunk-ghost-story.json](./102421-sense-a-cyberpunk-ghost-story.json) |
 | Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
@@ -9172,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift II | 291005 | [291005-shift-ii.json](./291005-shift-ii.json) |
 | Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
 | Shift Orb | 33188 | [33188-shift-orb.json](./33188-shift-orb.json) |
+| Shift Quantum | 56678 | [56678-shift-quantum.json](./56678-shift-quantum.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shift Stack | 181695 | [181695-shift-stack.json](./181695-shift-stack.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
@@ -18638,6 +18640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
 | Solitaire Crime Stories Chapter 5 | 394560 | [394560-solitaire-crime-stories-chapter-5.json](./394560-solitaire-crime-stories-chapter-5.json) |
 | Solitaire Crime Stories Chapter 6 | 395209 | [395209-solitaire-crime-stories-chapter-6.json](./395209-solitaire-crime-stories-chapter-6.json) |
+| Solitaire Cube | 56946 | [56946-solitaire-cube.json](./56946-solitaire-cube.json) |
 | Solitaire Daily | 102238 | [102238-solitaire-daily.json](./102238-solitaire-daily.json) |
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
 | Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
@@ -21997,6 +22000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2016 | 32548 | [32548-space-hole-2016.json](./32548-space-hole-2016.json) |
+| Space Hole 2018 | 104567 | [104567-space-hole-2018.json](./104567-space-hole-2018.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
@@ -27328,6 +27332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Survivor | 227443 | [227443-star-survivor.json](./227443-star-survivor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
+| Star Sweep | 104779 | [104779-star-sweep.json](./104779-star-sweep.json) |
 | Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
 | Star Sweet | 76476 | [76476-star-sweet.json](./76476-star-sweet.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -34737,6 +34742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
 | Super Dodge Ball Advance | 6620 | [6620-super-dodge-ball-advance.json](./6620-super-dodge-ball-advance.json) |
 | Super Dodge Ball SNES Port | 377232 | [377232-super-dodge-ball-snes-port.json](./377232-super-dodge-ball-snes-port.json) |
+| Super Dodgeball Beats | 121451 | [121451-super-dodgeball-beats.json](./121451-super-dodgeball-beats.json) |
 | Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
 | Super Dog Adventure | 398898 | [398898-super-dog-adventure.json](./398898-super-dog-adventure.json) |
 | Super Dog Booby | 355897 | [355897-super-dog-booby.json](./355897-super-dog-booby.json) |
@@ -36195,6 +36201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
+| Super Mega Baseball 2: Ultimate Edition | 121419 | [121419-super-mega-baseball-2-ultimate-edition.json](./121419-super-mega-baseball-2-ultimate-edition.json) |
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Ballpark Edition | 248341 | [248341-super-mega-baseball-4-ballpark-edition.json](./248341-super-mega-baseball-4-ballpark-edition.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
