@@ -8,15 +8,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | K Station | 19603 | [19603-k-station.json](./19603-k-station.json) |
 | K-1 Grand Prix | 43722 | [43722-k-1-grand-prix.json](./43722-k-1-grand-prix.json) |
+| K-1 Oujya ni Narou! | 66880 | [66880-k-1-oujya-ni-narou.json](./66880-k-1-oujya-ni-narou.json) |
 | K-1 Pocket Grand Prix | 49656 | [49656-k-1-pocket-grand-prix.json](./49656-k-1-pocket-grand-prix.json) |
 | K-1 Pocket Grand Prix 2 | 49655 | [49655-k-1-pocket-grand-prix-2.json](./49655-k-1-pocket-grand-prix-2.json) |
 | K-1 Premium 2004 Dynamite!! | 67047 | [67047-k-1-premium-2004-dynamite.json](./67047-k-1-premium-2004-dynamite.json) |
 | K-1 Premium Dynamite!! | 44646 | [44646-k-1-premium-dynamite.json](./44646-k-1-premium-dynamite.json) |
 | K-1 Revenge | 45075 | [45075-k-1-revenge.json](./45075-k-1-revenge.json) |
 | K-1 The Arena Fighters | 43723 | [43723-k-1-the-arena-fighters.json](./43723-k-1-the-arena-fighters.json) |
+| K-1 World GP 2005 | 66879 | [66879-k-1-world-gp-2005.json](./66879-k-1-world-gp-2005.json) |
+| K-1 World GP 2006 | 66878 | [66878-k-1-world-gp-2006.json](./66878-k-1-world-gp-2006.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
 | K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
+| K-1 World Grand Prix 2003 | 66876 | [66876-k-1-world-grand-prix-2003.json](./66876-k-1-world-grand-prix-2003.json) |
+| K-1 World Grand Prix: The Beast Attack! | 66875 | [66875-k-1-world-grand-prix-the-beast-attack.json](./66875-k-1-world-grand-prix-the-beast-attack.json) |
 | K-16: Story of Steel | 260837 | [260837-k-16-story-of-steel.json](./260837-k-16-story-of-steel.json) |
 | K-9 Cyber Companion | 209848 | [209848-k-9-cyber-companion.json](./209848-k-9-cyber-companion.json) |
 | K-9 Dog Job | 286756 | [286756-k-9-dog-job.json](./286756-k-9-dog-job.json) |
@@ -3638,7 +3643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's Lair | 114470 | [114470-kings-lair.json](./114470-kings-lair.json) |
-| King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's League: Odyssey | 174594 | [174594-kings-league-odyssey.json](./174594-kings-league-odyssey.json) |
 | King's Legacy | 10488 | [10488-kings-legacy.json](./10488-kings-legacy.json) |
 | King's Legacy: A Crown Divided - Collector's Edition | 338057 | [338057-kings-legacy-a-crown-divided-collectors-edition.json](./338057-kings-legacy-a-crown-divided-collectors-edition.json) |
@@ -5803,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Kids Playground: Frogger Hop, Skip & Jumpin' Fun | 67754 | [67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json](./67754-konami-kids-playground-frogger-hop-skip-and-jumpin-fun.json) |
 | Konami Kids Playground: Toy Pals Fun with Numbers | 67753 | [67753-konami-kids-playground-toy-pals-fun-with-numbers.json](./67753-konami-kids-playground-toy-pals-fun-with-numbers.json) |
 | Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
+| Konami no Uranai Sensation | 66859 | [66859-konami-no-uranai-sensation.json](./66859-konami-no-uranai-sensation.json) |
 | Konami Racing | 280478 | [280478-konami-racing.json](./280478-konami-racing.json) |
 | Konami Wai-wai World | 67013 | [67013-konami-wai-wai-world.json](./67013-konami-wai-wai-world.json) |
 | Konami's Baseball | 41688 | [41688-konamis-baseball.json](./41688-konamis-baseball.json) |
@@ -6251,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouhai Mario 2 | 268340 | [268340-kouhai-mario-2.json](./268340-kouhai-mario-2.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
+| Koukyou Shihen Eureka Seven | 66866 | [66866-koukyou-shihen-eureka-seven.json](./66866-koukyou-shihen-eureka-seven.json) |
 | Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
 | Koumajou Densetsu I&II Premium Pack | 210769 | [210769-koumajou-densetsu-i-and-ii-premium-pack.json](./210769-koumajou-densetsu-i-and-ii-premium-pack.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
