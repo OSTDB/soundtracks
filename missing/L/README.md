@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leaky Business | 397739 | [397739-leaky-business.json](./397739-leaky-business.json) |
 | Leaky World | 387937 | [387937-leaky-world.json](./387937-leaky-world.json) |
+| Lean Into the Swarm | 427553 | [427553-lean-into-the-swarm.json](./427553-lean-into-the-swarm.json) |
 | Lean Simulator: Desperation | 308687 | [308687-lean-simulator-desperation.json](./308687-lean-simulator-desperation.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
 | Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
@@ -5871,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal City: Axiom of Maria - Chapter One | 401804 | [401804-liminal-city-axiom-of-maria-chapter-one.json](./401804-liminal-city-axiom-of-maria-chapter-one.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Department | 333802 | [333802-liminal-department.json](./333802-liminal-department.json) |
+| Liminal Descenders | 427581 | [427581-liminal-descenders.json](./427581-liminal-descenders.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
 | Liminal Dreams | 234851 | [234851-liminal-dreams.json](./234851-liminal-dreams.json) |
@@ -9781,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in Login | 229512 | [229512-love-in-login.json](./229512-love-in-login.json) |
 | Love in School | 105695 | [105695-love-in-school.json](./105695-love-in-school.json) |
 | Love in Space | 309917 | [309917-love-in-space.json](./309917-love-in-space.json) |
+| Love in Summer | 427569 | [427569-love-in-summer.json](./427569-love-in-summer.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
 | Love in the Dark | 261573 | [261573-love-in-the-dark.json](./261573-love-in-the-dark.json) |
 | Love in the Distance | 143212 | [143212-love-in-the-distance.json](./143212-love-in-the-distance.json) |
